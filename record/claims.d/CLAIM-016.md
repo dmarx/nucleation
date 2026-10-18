@@ -33,7 +33,7 @@ summary: >-
   U70. Set aside with its whole line at the audit of 2026-10-05 (U76–U77):
   "ownership criteria remain insufficiently defended".
 complements:
-- CLAIM-tmpqofon
+- CLAIM-362
 ---
 <!-- inactive-ok-file: CLAIM-096 CLAIM-104 TERM-006 TERM-012 — Deferred; set aside, and cited to say what was set aside with it -->
 
@@ -93,21 +93,21 @@ times, and cited the claim only at the end.
   sensitivity to perturbation. I'm wondering if our account equips us to
   make concrete statements about gradations (perhaps even
   gradients/spectra?) of freedom of will/autonomy". Filed as
-  [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md). A9's measures are of influence, not ownership: "It
+  [CLAIM-354](CLAIM-354.md). A9's measures are of influence, not ownership: "It
   measures influence, not the normative validity of endorsement." So the
   ownership criteria this claim lacks are not supplied.
 - **A35's split is close to this claim's three conditions.** A35, on the
   owner's U35 thesis that an external objective can become the training
-  organization's goal ([CLAIM-tmpkb2i9](CLAIM-tmpkb2i9.md)): "the key is to distinguish **goal
+  organization's goal ([CLAIM-356](CLAIM-356.md)): "the key is to distinguish **goal
   provenance, goal realization, and goal governance**". Provenance,
   realization and governance sit near "arise through, remain integrated
   with, and are answerable to".
 - **A candidate repair of "integrated".** The owner, at U45: "'authenticity'
   should be treated as an organizational achievement characterized by
-  non-domination of subcomponents." Filed as [CLAIM-tmpqofon](CLAIM-tmpqofon.md), an
+  non-domination of subcomponents." Filed as [CLAIM-362](CLAIM-362.md), an
   alternative reading of this claim's middle condition, with A45's
   objection that low supervisory cost cannot show non-domination as
-  [CLAIM-tmptg7io](CLAIM-tmptg7io.md). The manipulation defeater this claim states is not met
+  [CLAIM-364](CLAIM-364.md). The manipulation defeater this claim states is not met
   by either.
 
 The status stays Deferred. Reopening the line is the owner's call.

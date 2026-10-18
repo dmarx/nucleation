@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [18 Oct 00:59 — Twenty-five works registered unread from the exchange on synthesis opportunities; the anthology's share and the unidentified left out](2026-10.md#twenty-five-works-registered-unread-from-the-exchange-on-synthesis-opportunities-the-anthologys-share-and-the-unidentified-left-out)
 - [17 Oct 02:53 — Multivariate redundancy: Griffith's view and the three-source impossibility, read; the record files why the gap cannot close as stated](2026-10.md#multivariate-redundancy-griffiths-view-and-the-three-source-impossibility-read-the-record-files-why-the-gap-cannot-close-as-stated)
 - [17 Oct 01:53 — Partial information decomposition: the I_min paper and two critiques, read, and the record's numbers checked under each](2026-10.md#partial-information-decomposition-the-i_min-paper-and-two-critiques-read-and-the-records-numbers-checked-under-each)
 - [17 Oct 00:25 — Transfer entropy: eight works filed, seven read, and whether it measures flow](2026-10.md#transfer-entropy-eight-works-filed-seven-read-and-whether-it-measures-flow)
@@ -101,9 +102,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-139 entries across 2 books, newest first.
+140 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 92 | 2026-10-01 | 2026-10-17 |
+| [2026-10](2026-10.md) | 93 | 2026-10-01 | 2026-10-18 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

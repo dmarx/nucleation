@@ -24,7 +24,7 @@ summary: >-
   getting back in takes effort. It shows integration with nothing to
   integrate, beside the lapse and the precommitment.
 variants:
-- CASE-tmpffqbr
+- CASE-109
 ---
 <!-- inactive-ok-file: ARG-005 — Proposed; the reluctant writer's precommitment argument, named as the second afternoon -->
 <!-- inactive-ok-file: CLAIM-162 — Proposed; the conjecture this case illustrates, bearing no weight -->

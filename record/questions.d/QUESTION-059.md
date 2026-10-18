@@ -65,9 +65,9 @@ organization* to *felt valence*. Our framework can help articulate that
 dispute, but does not yet decide it."
 
 The owner reopened the organizational-affect line at U27–U28 (see the note on
-[CLAIM-039](../claims.d/CLAIM-039.md)). This question is where the binding thesis [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md) meets
+[CLAIM-039](../claims.d/CLAIM-039.md)). This question is where the binding thesis [CLAIM-355](../claims.d/CLAIM-355.md) meets
 [THEORY-101](../theory.d/THEORY-101.md): if the integrated state is the feeling, the claim's illusion
 empties for that case. Whether the question leaves Deferred is the owner's
 decision, not made here.
 
-<!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+<!-- inactive-ok-file: CLAIM-355 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

@@ -48,9 +48,9 @@ summary: >-
   organizational continuity. It
   uses [TERM-045](../terms.d/TERM-045.md)'s persisting sense.
 illustrated_by:
-- CASE-tmpxqgai
+- CASE-116
 supports:
-- CLAIM-tmpq80iq
+- CLAIM-361
 ---
 <!-- inactive-ok-file: THEORY-447 — Proposed; Parfit's account, the ground this claim restates, cited as open -->
 <!-- inactive-ok-file: QUESTION-043 CLAIM-161 CLAIM-280 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
@@ -107,7 +107,7 @@ relation between processes at different times.**" A4's revised candidate:
 "Historical continuity is a relation between organizational episodes, not
 simply another dynamical property of an episode", and "causal transmission
 alone does not settle whether A and B are numerically the *same*
-collective." Neither cited this claim. Arm C of [CASE-tmpxqgai](../cases.d/CASE-tmpxqgai.md) is its
+collective." Neither cited this claim. Arm C of [CASE-116](../cases.d/CASE-116.md) is its
 dormant coalition as a construction: a rule passed through an archive
 between two episodes that never run together, where intervening on the
 earlier rule changes the later behaviour.

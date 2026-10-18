@@ -108,5 +108,5 @@ admissibility do the work, is [THEORY-139](../theory.d/THEORY-139.md)'s (Pettit:
 corrects the inconsistency aggregation produces) and [CLAIM-027](CLAIM-027.md)'s. A21 cited
 [THEORY-127](../theory.d/THEORY-127.md) and [CLAIM-027](CLAIM-027.md) and not this claim. A21 §16 and A22's Construction
 C pair it with a whole whose description merges its members' claims
-([CLAIM-tmp679hm](CLAIM-tmp679hm.md), [CASE-tmpfusdm](../cases.d/CASE-tmpfusdm.md)), where a collective judgment rule is the
+([CLAIM-348](CLAIM-348.md), [CASE-110](../cases.d/CASE-110.md)), where a collective judgment rule is the
 optional extension A22 left unbuilt. The status is unchanged.

@@ -42,7 +42,7 @@ summary: >-
 answers:
 - QUESTION-045
 supports:
-- CLAIM-tmpyk3it
+- CLAIM-368
 ---
 <!-- inactive-ok-file: THEORY-050 THEORY-058 — Proposed; relations stated in prose, nothing here rests on them -->
 

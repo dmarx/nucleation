@@ -23,7 +23,7 @@ line:
 grounds:
 - CASE-103
 - CASE-102
-- CASE-tmpxqgai
+- CASE-116
 complements:
 - CLAIM-277
 - CLAIM-331
@@ -98,7 +98,7 @@ university's traditional rival").
 
 The exchange of 2026-10-17 re-derived this claim's separation of slowness
 from endogeneity without citing it (A1 §1, A3, A4), and built it as
-constructions ([CASE-tmpxqgai](../cases.d/CASE-tmpxqgai.md)). Arm A, a slow register no member reads, is
+constructions ([CASE-116](../cases.d/CASE-116.md)). Arm A, a slow register no member reads, is
 this claim's "timescale separation (τ_Z ≫ τ_X, not sufficient)" made a
 construction. Arm B is the converse, which the claim lacked. Members read a
 register and rewrite it (Z_{t+1} = Z_t ⊕ N₁, with N₁ ~ Bernoulli(0.4)).

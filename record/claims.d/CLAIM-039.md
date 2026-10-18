@@ -51,12 +51,12 @@ In the exchange of 2026-10-17 the owner brought this line back. At U27 the
 owner asked how the framework "might account for illusory binding-type
 phenomena in distributed agents", adding "Our material on emotion might be a
 good place to start." A27 cited this claim as a ground of its binding thesis,
-now [CLAIM-tmpk7n2q](CLAIM-tmpk7n2q.md), which names it in its body and does not rest on it. At U28
+now [CLAIM-355](CLAIM-355.md), which names it in its body and does not rest on it. At U28
 the owner corrected the category: "'fear' is too specific. 'distress' is
 probably a lot easier to reason about within our framework." A28 granted it:
 "**Distress is a much better starting point than fear**". At U33 the owner
 moved again, "maybe we should focus less on distress and more on frustration",
-and A33 granted that too ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)).
+and A33 granted that too ([CLAIM-368](CLAIM-368.md)).
 
 The move is from a category, anger or fear, to a minimal regulation-defined
 affect. Its natural grounds are already in the record: Di Paolo's adaptivity,
@@ -68,4 +68,4 @@ of 2026-10-12 already names as the one to answer first.
 The status stays Deferred. Whether the line leaves Deferred is the owner's
 decision, and it is not made here.
 
-<!-- inactive-ok-file: CLAIM-tmpk7n2q CLAIM-tmpyk3it THEORY-628 THEORY-324 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+<!-- inactive-ok-file: CLAIM-355 CLAIM-368 THEORY-628 THEORY-324 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

@@ -101,8 +101,8 @@ that "might function as a promise in one institutional setting but become
 merely a description in another". That is this claim's thesis, what a
 receiving system can still reconstruct and act upon, with the act's
 normative effect as the observable. A21 did not cite this claim. The
-coarse-graining form of the same move is [CLAIM-tmpa1kmr](CLAIM-tmpa1kmr.md) and
-[CLAIM-tmp679hm](CLAIM-tmp679hm.md), and its gauge form is [QUESTION-tmpxpu3p](../questions.d/QUESTION-tmpxpu3p.md).
+coarse-graining form of the same move is [CLAIM-350](CLAIM-350.md) and
+[CLAIM-348](CLAIM-348.md), and its gauge form is [QUESTION-130](../questions.d/QUESTION-130.md).
 
 Two faults in A21 and A22's citations of the line, recorded so that they
 are not repeated:

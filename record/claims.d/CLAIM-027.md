@@ -54,14 +54,14 @@ supersedes:
 - CLAIM-012
 supports:
 - CLAIM-156
-- CLAIM-tmph678z
-- CLAIM-tmpi5t5f
-- CLAIM-tmpw4w7a
-- CLAIM-tmpyk3it
+- CLAIM-352
+- CLAIM-353
+- CLAIM-367
+- CLAIM-368
 complements:
 - CLAIM-159
 - CLAIM-283
-- CLAIM-tmpilfhr
+- CLAIM-354
 ---
 <!-- ref::uses-file: TERM-019 — stated in "action-generating regime"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->
@@ -116,9 +116,9 @@ Will* (`organization-of-will`), and the proposal rebuilds much of it:
 - The limit that the account does not settle authorship or
   responsibility is close to [CLAIM-022](CLAIM-022.md).
 
-What the proposal adds is the graded comparison ([CLAIM-tmpilfhr](CLAIM-tmpilfhr.md),
-[CLAIM-tmp1glr8](CLAIM-tmp1glr8.md)), the Sen connection ([CLAIM-tmph678z](CLAIM-tmph678z.md)) and the nonlinear
-constructions ([CASE-tmpiyvbk](../cases.d/CASE-tmpiyvbk.md)). It also conflicts with the essay's
+What the proposal adds is the graded comparison ([CLAIM-354](CLAIM-354.md),
+[CLAIM-345](CLAIM-345.md)), the Sen connection ([CLAIM-352](CLAIM-352.md)) and the nonlinear
+constructions ([CASE-112](../cases.d/CASE-112.md)). It also conflicts with the essay's
 supposition, [CLAIM-080](CLAIM-080.md): "the account asks how a given agent's practical
 efficacy is organized, not what makes something an agent". The proposal
 makes individuation a main section: A12 §3, "Individuating the agent

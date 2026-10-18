@@ -45,7 +45,7 @@ summary: >-
 answers:
 - QUESTION-087
 supports:
-- CLAIM-tmpyk3it
+- CLAIM-368
 ---
 <!-- inactive-ok-file: LIT-536 — Unavailable; Moreno & Mossio's book, the source of the definitions criticized, cited as Barandiaran quotes it -->
 <!-- inactive-ok-file: CLAIM-277 — Proposed; open claims this account bears on, nothing here rests on them -->

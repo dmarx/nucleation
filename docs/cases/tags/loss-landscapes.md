@@ -6,8 +6,8 @@
 
 **Loss landscapes** — the geometry of trained solutions in weight space — mode connectivity, linear and along curves, barriers between minima and the permutation symmetries that hide or remove them, re-basin alignment, star domains and connecting simplexes, local versus global landscape structure, and model merging as its use (ADR-027).
 
-0 of 107 CASE documents. Back to the [full index](../README.md).
+1 of 116 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-115](../../../record/cases.d/CASE-115.md) | Two incompatible quadratic demands on one shared parameter, L₁ = (θ − 1)² and L₂ = (θ + 1)², frustrated at θ = 0 for every update budget, and the split of θ into task-routed θ_A and θ_B that makes both satisfiable | A33 §2 and §5, A35 §3.4 and A38 §4 of the exchange of 2026-10-17. Two demands on one scalar parameter: at θ = 0 the equal-weight gradient vanishes while each loss is 1, no update lowers both, and the local residual is Φ_r = ε for every budget r. A38 splits θ into θ_A and θ_B with the task context routed, and both demands are met at (1, −1). Used for the zero aggregate gradient, the residual, relief judged on the original demands, and differentiation. A38's caveat is kept: the split is "a division of functional jurisdiction", and it "does not automatically mean that two new autonomous individuals have formed". Fictional by construction. | Active |

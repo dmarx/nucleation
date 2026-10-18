@@ -54,7 +54,7 @@ supports:
 - CLAIM-169
 - CLAIM-159
 - CLAIM-198
-- CLAIM-tmp0wvwc
+- CLAIM-344
 ---
 <!-- inactive-ok-file: THEORY-076 — Proposed; the rival account, declared -->
 <!-- inactive-ok-file: LIT-583 LIT-573 — Unavailable; the book behind the précis and Schelling's 1984 lecture, named as unread originals, not leaned on -->
@@ -186,7 +186,7 @@ emergence of "resolve" could be an interesting frame within which to
 examine our will-organization framework"). A37 cited this reading as "a
 particularly close antecedent" and listed bundling as one of six ways a
 long-term policy can prevail. The record's claim from the exchange is
-[CLAIM-tmp0wvwc](../claims.d/CLAIM-tmp0wvwc.md): resolve is a maintained organization of precedence,
+[CLAIM-344](../claims.d/CLAIM-344.md): resolve is a maintained organization of precedence,
 commitment and revision that keeps a policy effective across changing local
 evaluations while keeping the capacity to revise it. It grounds on this
 reading and does not rival it: Ainslie's bundling is a mechanism, and the

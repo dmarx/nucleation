@@ -63,7 +63,7 @@ it.
   allocation of influence prevents the system from finding or using it".
   A33 gave it a test: "This is testable with an oracle or stronger solver
   for the same declared objectives and update constraints." The record now
-  holds it as governance-induced frustration ([CLAIM-tmpl8vsy](../claims.d/CLAIM-tmpl8vsy.md)). The test
+  holds it as governance-induced frustration ([CLAIM-357](../claims.d/CLAIM-357.md)). The test
   measures failure against declared demands. Whether the declared demands
   are the organization's own is this question.
 - **A36 §1:** "slow governance is not necessarily better governance.

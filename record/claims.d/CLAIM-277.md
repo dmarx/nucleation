@@ -38,7 +38,7 @@ summary: >-
   The claim does not say which of the two a given organization does.
 supports:
 - CLAIM-297
-- CLAIM-tmp0wvwc
+- CLAIM-344
 ---
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
@@ -124,5 +124,5 @@ claim's memory kernel. A slow kernel keeps latent authority; a fast one
 starves it.
 
 It bears on [QUESTION-083](../questions.d/QUESTION-083.md) and on the owner's non-domination criterion
-([CLAIM-tmpqofon](CLAIM-tmpqofon.md)), whose test is whether a specialist can recover
+([CLAIM-362](CLAIM-362.md)), whose test is whether a specialist can recover
 influence. Not filed as a claim of its own. The status is unchanged.

@@ -44,7 +44,7 @@ summary: >-
   as summarised ([LIT-906](../literature.d/LIT-906.md)) points the other way, and the claim says
   so. It does not say mindfulness never changes valuation.
 supports:
-- CLAIM-tmp6ap9y
+- CLAIM-349
 ---
 <!-- ref::uses-file: TERM-050 — stated in "intrapersonal synchronization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 CLAIM-162 CLAIM-169 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

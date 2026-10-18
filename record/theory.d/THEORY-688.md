@@ -23,7 +23,7 @@ summary: >-
 presupposed_by:
 - THEORY-484
 supports:
-- CLAIM-tmp0wvwc
+- CLAIM-344
 ---
 <!-- inactive-ok-file: THEORY-062 THEORY-484 — Proposed; named in Connections, not leaned on -->
 

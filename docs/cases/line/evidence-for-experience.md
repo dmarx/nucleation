@@ -6,8 +6,8 @@
 
 **Evidence for experience** — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish.
 
-0 of 107 CASE documents. Back to the [full index](../README.md).
+1 of 116 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-114](../../../record/cases.d/CASE-114.md) | The imagined owner | A27's Experiment C, of the exchange of 2026-10-17: two computational systems with equivalent distributed control and similar behaviour, one with a self-model that represents the actual division of labour, the other with one that represents a single centralized inner agent. If the second systematically misattributes control, that is a concrete model of illusory authorship, located in the attribution. Proposed, not run, and it tests attribution of control, not phenomenal properties. | Active |

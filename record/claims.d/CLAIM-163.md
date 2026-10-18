@@ -104,7 +104,7 @@ coincide? If it is, it may be where the mechanism lives.
 ## Note of 2026-10-18: candidate parts from the broader sense
 
 A45 of the exchange of 2026-10-17 recommended using the broader sense of
-synchronization (filed as [TERM-tmpnfj83](../terms.d/TERM-tmpnfj83.md)) "to specify coupling,
+synchronization (filed as [TERM-061](../terms.d/TERM-061.md)) "to specify coupling,
 observable coordination, and intervention-based tests; do not regard the
 objection as refuted yet". Read against this objection's three parts:
 
@@ -121,5 +121,5 @@ objection as refuted yet". Read against this objection's three parts:
   progression".
 
 None is measured, in a person or a model. The objection stands, Proposed,
-and the status is unchanged. [CLAIM-tmpmr1t8](CLAIM-tmpmr1t8.md) is stated in the broader
+and the status is unchanged. [CLAIM-358](CLAIM-358.md) is stated in the broader
 sense and inherits the objection.

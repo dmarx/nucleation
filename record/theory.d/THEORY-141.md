@@ -33,7 +33,7 @@ summary: >-
   transition only coarsely.
 supports:
 - CLAIM-060
-- CLAIM-tmpp9ox0
+- CLAIM-359
 rivals:
 - THEORY-607
 ---

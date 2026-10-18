@@ -21,7 +21,7 @@ summary: >-
   individual-scale case (Sections 1, 3.5).
 variants:
 - CASE-051
-- CASE-tmpffqbr
+- CASE-109
 illustrates:
 - CLAIM-261
 ---
@@ -69,7 +69,7 @@ under commitment and freedom to revise: "None can replace the others."
 Blocking the websites uses the first and narrows the second, and whether
 the writer keeps the third is open. So a precommitment shrinks what is
 reachable while making the endorsed project realizable, and reachable-set
-size is not monotone with autonomy ([CLAIM-tmpilfhr](../claims.d/CLAIM-tmpilfhr.md), [CLAIM-tmph678z](../claims.d/CLAIM-tmph678z.md)).
+size is not monotone with autonomy ([CLAIM-354](../claims.d/CLAIM-354.md), [CLAIM-352](../claims.d/CLAIM-352.md)).
 
 The manuscript proposal of that exchange opens with this case and does not
 cite it. A12 §1: "Begin with a familiar case: an agent reflectively
@@ -77,6 +77,6 @@ endorses completing a difficult project but repeatedly acts otherwise."
 A15 §1 opens with three agents, the first of whom "endorses an action but
 finds it prohibitively difficult to perform", and the second "reliably
 acts on an endorsed commitment but cannot reconsider it effectively"
-([CLAIM-099](../claims.d/CLAIM-099.md)). See the note of 2026-10-18 on [CLAIM-027](../claims.d/CLAIM-027.md). [CASE-tmpiyvbk](CASE-tmpiyvbk.md) models
+([CLAIM-099](../claims.d/CLAIM-099.md)). See the note of 2026-10-18 on [CLAIM-027](../claims.d/CLAIM-027.md). [CASE-112](CASE-112.md) models
 the case: the volition moves the balance of authority without moving the
 regime, and a change in the structure of the competition switches it.

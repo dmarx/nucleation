@@ -36,9 +36,9 @@ summary: >-
   parts. That bottom-up learning produces such organization is reported
   from earlier models, not shown here.
 supports:
-- CLAIM-tmp55mls
-- CLAIM-tmpq80iq
-- CLAIM-tmpyk3it
+- CLAIM-347
+- CLAIM-361
+- CLAIM-368
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this bears on, on a set-aside line -->
 <!-- inactive-ok-file: QUESTION-032 CLAIM-170 CLAIM-174 CLAIM-168 CLAIM-172 THEORY-071 — Open or Proposed; the question, claims and account this reading bears on, named and not leaned on -->
@@ -163,8 +163,8 @@ No relations are declared: it answers a comparative version of
 ## Note of 2026-10-18: frustration as the record's primitive, and what this reading's measure aggregates
 
 The exchange of 2026-10-17 made frustration, not distress, the primitive of
-the record's account of regulatory difficulty ([CLAIM-tmpyk3it](../claims.d/CLAIM-tmpyk3it.md),
-[TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md)), and A34 called this reading "the most important additional
+the record's account of regulatory difficulty ([CLAIM-368](../claims.d/CLAIM-368.md),
+[TERM-060](../terms.d/TERM-060.md)), and A34 called this reading "the most important additional
 connection". Three things bear on it.
 
 - **The measure is an aggregate.** Watson compares "the total frustration
@@ -176,7 +176,7 @@ connection". Three things bear on it.
   constituents". It does not follow from Watson. It is a criticism of his
   measure as read here: a lower total can come from sacrificing one part's
   goal, which is the "robbing Peter to pay Paul" the essay itself names.
-  [CLAIM-tmp55mls](../claims.d/CLAIM-tmp55mls.md) gives the record's refinement: compare which sets of the
+  [CLAIM-347](../claims.d/CLAIM-347.md) gives the record's refinement: compare which sets of the
   parts' demands are jointly satisfiable, by inclusion, and leave two
   organizations unranked when each relieves a conflict the other does not.
 - **The decomposition-relativity is half of A38's principle.** A38 §2:
@@ -185,7 +185,7 @@ connection". Three things bear on it.
   A38 called "a defensible new formal principle". The first half is this
   reading's, already in its title ("relative to a chosen decomposition and
   the parts' goals"). The second, a correspondence of demands across time
-  when the parts change, is new, and is [CLAIM-tmpq80iq](../claims.d/CLAIM-tmpq80iq.md)'s.
+  when the parts change, is new, and is [CLAIM-361](../claims.d/CLAIM-361.md)'s.
 - **Delayed gratification is the precedent for resolve.** The behavioural
   mark here, an energy function different from the objective that "goes
   uphill in a specific direction that leads to lower points in the long

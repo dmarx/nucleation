@@ -4,7 +4,7 @@
 
 **Rejected** — no longer in force and nothing replaced it — kept because a rejection is worth being able to point at.
 
-0 of 58 TERM documents. Back to the [full index](../README.md).
+0 of 61 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

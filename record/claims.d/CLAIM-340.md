@@ -95,5 +95,5 @@ outcome is interpreted correctly, that the scoring rule is appropriate, or
 that the operator was exposed to representative evidence." That is this
 claim's result, a second appearance: a commitment secures the order in
 time, which keeps learning, and removes capture only when κ′ ≤ κ̄, which
-no protocol guarantees. [CLAIM-tmp442x9](CLAIM-tmp442x9.md) holds the three obstructions A36
+no protocol guarantees. [CLAIM-346](CLAIM-346.md) holds the three obstructions A36
 set this in.

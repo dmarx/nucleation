@@ -102,5 +102,5 @@ the condition C_*(P_ℓ^{do(a)}) = P_L^{do(ā)} for a declared family of
 interventions. That is A12's question and A14's realization defect again
 (do micro-states with one macrostate respond alike?), for a commitment
 instead of a fandom's resentment. A21 did not cite this question. Its
-judgment-preserving form is [CLAIM-tmpa1kmr](../claims.d/CLAIM-tmpa1kmr.md), whose causal version is
+judgment-preserving form is [CLAIM-350](../claims.d/CLAIM-350.md), whose causal version is
 recorded there as a definition, not a result.

@@ -51,7 +51,7 @@ complements:
 illustrated_by:
 - CASE-076
 supports:
-- CLAIM-tmpq80iq
+- CLAIM-361
 ---
 <!-- inactive-ok-file: CLAIM-025 CLAIM-165 CLAIM-194 CLAIM-288 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -128,6 +128,6 @@ learning organization itself", "Only the third directly approaches the
 stronger organizational-autonomy criterion." That is this claim's
 "takes part in governing the conditions of its own persistence", reached
 again without citing it, and A31's "Unity of self-governance" is its name for
-it. [CLAIM-tmpw4w7a](CLAIM-tmpw4w7a.md) holds the application.
+it. [CLAIM-367](CLAIM-367.md) holds the application.
 
-<!-- inactive-ok-file: CLAIM-tmpw4w7a — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+<!-- inactive-ok-file: CLAIM-367 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

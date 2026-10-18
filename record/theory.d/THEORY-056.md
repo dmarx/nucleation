@@ -60,7 +60,7 @@ answers:
 - QUESTION-054
 supports:
 - CLAIM-283
-- CLAIM-tmpmr1t8
+- CLAIM-358
 rivals:
 - THEORY-680
 ---

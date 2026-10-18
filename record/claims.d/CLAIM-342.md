@@ -34,8 +34,8 @@ objects_to:
 complements:
 - CLAIM-341
 - CLAIM-338
-- CLAIM-tmpl8vsy
-- CLAIM-tmpp9ox0
+- CLAIM-357
+- CLAIM-359
 summary: >-
   The assistant's synthesis, A3 and A4 of the exchange of 2026-10-16,
   filed at the owner's request at U5. Three results the record already
@@ -130,6 +130,6 @@ design requirement, without citing it.
   variant that would "compromise the processes responsible for evaluating
   other processes' competence. That tests whether the organization has any
   genuinely independent means of checking its own allocation of authority."
-  That variant is in [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md). It puts this claim under attack: the
+  That variant is in [CASE-108](../cases.d/CASE-108.md). It puts this claim under attack: the
   evidence that does not pass through the tested interpretation is itself
   scored by a process an insider may hold.

@@ -37,7 +37,7 @@ summary: >-
 answers:
 - QUESTION-025
 supports:
-- CLAIM-tmppk4ya
+- CLAIM-360
 ---
 <!-- inactive-ok-file: THEORY-186 THEORY-185 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
 

@@ -34,8 +34,8 @@ summary: >-
   not given by the IEP, and the SEP ([LIT-283](../literature.d/LIT-283.md)) says Sen "has never
   explained in detail" how selection should be done.
 supports:
-- CLAIM-tmph678z
-- CLAIM-tmpilfhr
+- CLAIM-352
+- CLAIM-354
 ---
 <!-- inactive-ok-file: THEORY-025 THEORY-434 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 

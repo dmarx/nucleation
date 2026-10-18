@@ -6,8 +6,8 @@
 
 **Learning theory** — why learning generalizes and how it proceeds — compression and description length, Kolmogorov complexity and sufficient statistics, rate–distortion and PAC-style bounds, model selection; and training dynamics: solvable models of learning trajectories, stages, plateaus and phase transitions in training, and the implicit bias of optimisation. A work whose subject is how to train a model better is ML practice and goes to the anthology (ADR-036).
 
-0 of 107 CASE documents. Back to the [full index](../README.md).
+1 of 116 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-113](../../../record/cases.d/CASE-113.md) | A deep network under conventional training: competing losses, an external optimizer and a scheduler, with three architectures that move governance inward and crossed interventions that locate it | The owner's application case, U30–U31 of the exchange of 2026-10-17: a deep network during training, taken apart with the record's individuation and volition frameworks. A network is trained on tasks with conflicting gradients by an optimizer with its own state and a scheduler. A31's Systems A, B and C move the regulation of conflict from the optimizer into the learner by stages, and its crossed interventions say where a regulatory condition sits. Stipulated: the outcomes of the interventions are not known, except the optimizer arm in [THEORY-253](../../../record/theory.d/THEORY-253.md)'s solvable model. | Active |

@@ -45,7 +45,7 @@ summary: >-
   malfunction) is deferred to another paper.
 supports:
 - CLAIM-288
-- CLAIM-tmpt75xe
+- CLAIM-363
 answers:
 - QUESTION-087
 ---
@@ -158,7 +158,7 @@ detect, impossible.
 ## Note of 2026-10-18: a contribution measure of the kind the promote_when asks for, not yet passing its test
 
 A16 of the exchange of 2026-10-17, under the owner's question about
-normativity from first principles ([QUESTION-tmpowurn](../questions.d/QUESTION-tmpowurn.md)), proposed the model
+normativity from first principles ([QUESTION-128](../questions.d/QUESTION-128.md)), proposed the model
 this entry's promote_when asks for, contribution to self-maintenance
 defined from the dynamics alone:
 

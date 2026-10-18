@@ -22,7 +22,7 @@ answered_by:
 - THEORY-056
 - THEORY-062
 - THEORY-153
-- CLAIM-tmpmr1t8
+- CLAIM-358
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -90,7 +90,7 @@ mechanism producing each successful action." The institutional form is
 [THEORY-149](../theory.d/THEORY-149.md)'s "cheap local conflict resolution" under nested layers of
 governance; none of the exchange's turns cited it.
 
-Filed as [CLAIM-tmpmr1t8](../claims.d/CLAIM-tmpmr1t8.md), Proposed, which answers this question in part.
+Filed as [CLAIM-358](../claims.d/CLAIM-358.md), Proposed, which answers this question in part.
 It does not say which conflicts admit local settlement, or what recruits
 the level when they do not. The residue of 2026-10-13, whether the
 aggregation rule no process controls is itself a governing level, is

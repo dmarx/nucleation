@@ -6,8 +6,8 @@
 
 **Information geometry** — the geometry of statistical models — the Fisher information as a metric, natural gradient, curvature and its Kronecker and block structure, and the spectra of Fisher and Hessian matrices in learned models (ADR-026).
 
-0 of 343 CLAIM documents. Back to the [full index](../README.md).
+1 of 368 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-366](../../../record/claims.d/CLAIM-366.md) | Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back | A35 §2 of the exchange of 2026-10-17, at the owner's U35 "double click" on whether functionally equivalent parameterizations give equivalent frustration diagnoses. Gradients transform as g′ = Jᵀg and directions as v′ = J⁻¹v, so directional derivatives, and with them the common-descent test 0 ∉ conv{g_i}, do not depend on coordinates. A Euclidean inner product does: g₁ = (1, 1), g₂ = (1, −½) have product ½, and under θ = diag(½, 2)ψ their transforms have −7/4, while d = (−1, 0) lowers both throughout. The sharp edge: it covers coordinate changes of one parameter space at first order, not function-preserving symmetries or training trajectories ([QUESTION-127](../../../record/questions.d/QUESTION-127.md)). The practice corollary, not to diagnose task conflict by gradient cosine, is the anthology's. | Active |

@@ -43,7 +43,7 @@ illustrated_by:
 objected_by:
 - CLAIM-175
 complements:
-- CLAIM-tmpk7n2q
+- CLAIM-355
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-175 — Proposed; the claim this objection targets and the owner's reply that narrowed it, both open -->
 

@@ -35,7 +35,7 @@ summary: >-
   uses "blow-up" in three senses; this records why the analogy cannot hold in any
   of them.
 complements:
-- CLAIM-tmpuia0a
+- CLAIM-366
 ---
 <!-- inactive-ok-file: THEORY-087 — Proposed; an account cited for what it states, nothing here rests on its being settled -->
 

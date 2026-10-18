@@ -6,7 +6,7 @@
 
 **Individuation** — what makes something one thing, and the same thing over time or across descriptions — individuation, numerical identity and diversity, individuality and persistence of things of any kind, biological individuality and organisational closure. Selves are self and persons are personhood (group: philosophy; ADR-015, ADR-024).
 
-82 of 1204 LIT documents. Back to the [full index](../README.md).
+83 of 1229 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -92,3 +92,4 @@
 | [LIT-1140](../../../record/literature.d/LIT-1140.md) | Fan response to the identity threat of potential team relocation | Wegner (2020). Facing a possible relocation, fans both change and resist change in what their team identity means; place identity works both for and against them, and identifying with the team does not always put team and fans in one in-group. | Deferred — filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on sports fandom (the workbench entry of 2026-10-16). No NOTE is filed. |
 | [LIT-1141](../../../record/literature.d/LIT-1141.md) | Identity Trajectories: Explaining Long-Term Patterns of Continuity and Change in Organizational Identities | Cloutier (2020). In four nonprofits followed over the long term, identity claims about ends shape continuity and change more than claims about means. | Deferred — filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on sports fandom (the workbench entry of 2026-10-16). No NOTE is filed. |
 | [LIT-1144](../../../record/literature.d/LIT-1144.md) | Imprinting: Toward a Multilevel Theory | Marquis (2013). Imprinting is a process in which, during brief sensitive periods, an entity takes on characteristics reflecting its environment that persist despite later environmental change; the review separates it from path dependence and cohort effects. | Deferred — filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on sports fandom (the workbench entry of 2026-10-16). No NOTE is filed. |
+| [LIT-1227](../../../record/literature.d/LIT-1227.md) | The Limits of the Self: Immunology and Biological Identity | Pradeu (2012). The immunological theory that an individual is defined by self and nonself fails, since immune responses to self and tolerance of foreign entities are the rule; Pradeu proposes a criterion of immunogenicity by discontinuity, and from it an immunological account of biological individuality. | Deferred — filed 2026-10-18, not read. Registered from the exchange of 2026-10-17, "Synthesis opportunities analysis" (workbench entries of 2026-10-18). No NOTE is filed. |

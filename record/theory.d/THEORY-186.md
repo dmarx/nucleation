@@ -43,7 +43,7 @@ answers:
 extended_by:
 - THEORY-481
 supports:
-- CLAIM-tmppk4ya
+- CLAIM-360
 ---
 <!-- inactive-ok-file: THEORY-211 — Proposed; readings on balance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-187 — Proposed; accounts this one underlies or is set beside -->

@@ -39,12 +39,12 @@ insufficiently defended."
 
 The owner, at U45 of the exchange of 2026-10-17: "'authenticity' should
 be treated as an organizational achievement characterized by
-non-domination of subcomponents." Filed as [CLAIM-tmpqofon](../claims.d/CLAIM-tmpqofon.md), Proposed, on
+non-domination of subcomponents." Filed as [CLAIM-362](../claims.d/CLAIM-362.md), Proposed, on
 this line and on will-organization. It gives this term's "remain
 integrated with" a content: the processes that carry a commitment are
 not dominated in carrying it. A45 recommended adding "the non-domination
 proposal as a candidate repair, while preserving the unresolved
-manipulation objection"; the objection is [CLAIM-tmptg7io](../claims.d/CLAIM-tmptg7io.md). The earlier
+manipulation objection"; the objection is [CLAIM-364](../claims.d/CLAIM-364.md). The earlier
 returns of graded integration in the same exchange are noted on
 [CLAIM-016](../claims.d/CLAIM-016.md). This term's definition and status are unchanged; reopening the
 line is the owner's decision.

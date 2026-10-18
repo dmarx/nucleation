@@ -33,7 +33,7 @@ summary: >-
   pattern. Filed as the account the reading states, at the strength the
   reading gives it.
 supports:
-- CLAIM-tmpk7n2q
+- CLAIM-355
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-043 THEORY-103 THEORY-415 THEORY-633 THEORY-691 — Proposed; accounts named as rivals, neighbours or connections, not leaned on as premises -->
 <!-- inactive-ok-file: LIT-443 LIT-424 — Unavailable: the two Dennett books the paper interprets, filed unread; quotations from them are Taylor's, not leaned on beyond that -->

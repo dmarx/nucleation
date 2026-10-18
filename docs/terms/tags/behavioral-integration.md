@@ -6,8 +6,9 @@
 
 **Behavioral integration** — how an organism's many control systems come to act as one — action selection and competition between systems (habitual and goal-directed, automatic and willed), hierarchical and feedback control, intertemporal conflict and self-control, and evidence accumulation to a decision. One of four unities kept apart (ADR-024).
 
-1 of 58 TERM documents. Back to the [full index](../README.md).
+2 of 61 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-050](../../../record/terms.d/TERM-050.md) | intrapersonal synchronization | An agent's action-generating regimes are synchronized on a course of action over a horizon when each ranks it first from every delay at which it is evaluated within that horizon. The course then becomes effective without any regime being overridden, bargained with or suspended. The regimes are desynchronized where their valuations cross. | Active |
+| [TERM-061](../../../record/terms.d/TERM-061.md) | practical synchronization: an agent's action-generating regimes, relative to a context and a horizon, sustaining mutually compatible courses of activity through their own interactions, without recurrent overriding arbitration by a higher level, whether or not they rank the same course first | The broader sense the owner asked for at U45 of the exchange of 2026-10-17 ("we should probably propose a more general definition for this term"), defined from A45. Regimes are practically synchronized when their own coupling keeps their activity compatible without a higher level routinely settling their conflicts, though their rankings may differ. [TERM-050](../../../record/terms.d/TERM-050.md)'s sense, all regimes ranking the same course first, is not a special case of it: agreement in rankings needs no coupling, and coupling needs no agreement. The two are separate dimensions, and [TERM-050](../../../record/terms.d/TERM-050.md) stays Active beside it. | Active |

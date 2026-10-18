@@ -30,7 +30,7 @@ complements:
 - CLAIM-277
 supports:
 - CLAIM-285
-- CLAIM-tmpp9ox0
+- CLAIM-359
 illustrated_by:
 - CASE-077
 ---

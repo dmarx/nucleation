@@ -34,7 +34,7 @@ uses:
 complements:
 - CLAIM-156
 - CLAIM-261
-- CLAIM-tmpmr1t8
+- CLAIM-358
 summary: >-
   The record's own conjecture, made in answer to the owner's prompt of
   2026-10-11. It is grounded only weakly: the effort-cost account is a

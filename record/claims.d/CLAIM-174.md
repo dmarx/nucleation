@@ -45,7 +45,7 @@ objects_to:
 - CLAIM-168
 complements:
 - CLAIM-170
-- CLAIM-tmpkb2i9
+- CLAIM-356
 uses:
 - TERM-047
 - TERM-023
@@ -74,7 +74,7 @@ illustrated_by:
 objected_by:
 - CLAIM-194
 supports:
-- CLAIM-tmpw4w7a
+- CLAIM-367
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->

@@ -53,9 +53,9 @@ summary: >-
   each is relative to a stated target.
 supports:
 - CLAIM-157
-- CLAIM-tmp679hm
-- CLAIM-tmpt75xe
-- CLAIM-tmpw4w7a
+- CLAIM-348
+- CLAIM-363
+- CLAIM-367
 grounds:
 - THEORY-194
 - THEORY-202
@@ -64,7 +64,7 @@ grounds:
 complements:
 - CLAIM-279
 - CLAIM-300
-- CLAIM-tmpa1kmr
+- CLAIM-350
 ---
 <!-- inactive-ok-file: THEORY-277 — Proposed; the reading behind the qualification of 2026-10-14, not leaned on -->
 <!-- inactive-ok-file: THEORY-320 — Proposed; cited in a note of 2026-10-14 as a formal instance, not leaned on -->

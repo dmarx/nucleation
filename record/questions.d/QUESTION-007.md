@@ -63,4 +63,4 @@ rules in equilibrium, a natural ground for A25's "coordination without
 reciprocal standing"). The owner did not take the fourth paper up. The
 question stays Deferred with the authenticity line; whether that line
 reopens is the owner's decision. Its adjudication form, for standpoints at
-any level, is [QUESTION-tmpq5i0m](QUESTION-tmpq5i0m.md).
+any level, is [QUESTION-129](QUESTION-129.md).

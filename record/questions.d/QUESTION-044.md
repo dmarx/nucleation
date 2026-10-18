@@ -50,7 +50,7 @@ is the record's reading of it.
 
 The owner's correction at U28, "'fear' is too specific. 'distress' is
 probably a lot easier to reason about within our framework", and the move at
-U33 from distress to frustration ([CLAIM-tmpyk3it](../claims.d/CLAIM-tmpyk3it.md)), sidestep part of this
+U33 from distress to frustration ([CLAIM-368](../claims.d/CLAIM-368.md)), sidestep part of this
 question. A regulation-defined condition, a failure to maintain or jointly
 realize what the organization maintains, is fixed by the organization's
 demands and capacities, not by an attributor's category. The Frijda/Barrett
@@ -66,4 +66,4 @@ four conditions crossing internal coordination with a unified collective
 report, is a design for this question's first alternative. Whether the line
 reopens is the owner's decision.
 
-<!-- inactive-ok-file: CLAIM-tmpyk3it CLAIM-288 THEORY-628 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+<!-- inactive-ok-file: CLAIM-368 CLAIM-288 THEORY-628 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

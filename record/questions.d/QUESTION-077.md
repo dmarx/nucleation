@@ -86,13 +86,13 @@ without citing the question. A44 listed "Coupled coordination" as a
 fourth mechanism of unity, citing this question as open: processes
 "converge on the same behavior by responding to one another, although
 their valuations need not converge". A45 then defined the broader sense,
-filed as [TERM-tmpnfj83](../terms.d/TERM-tmpnfj83.md) (practical synchronization), and recommended for
+filed as [TERM-061](../terms.d/TERM-061.md) (practical synchronization), and recommended for
 this question: "Make local negotiation and counterfactual process
 influence explicit".
 
 The exchange's route is wider than this question's case. Herding
 converges on what the majority does. The owner's U45 has processes that
-"negotiate amongst themselves", and A45's Person B ([CASE-tmpffqbr](../cases.d/CASE-tmpffqbr.md)) finds a
+"negotiate amongst themselves", and A45's Person B ([CASE-109](../cases.d/CASE-109.md)) finds a
 course each process can accommodate. Both are agreement in action without
 agreement in value. A44: "unity of governance **should not require** unity
 of valuation."

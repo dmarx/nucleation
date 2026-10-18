@@ -6,8 +6,8 @@
 
 **Ethics** — moral philosophy — what is owed, permitted or good — including applied ethics of technology and institutions (group: philosophy).
 
-0 of 107 CASE documents. Back to the [full index](../README.md).
+1 of 116 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-110](../../../record/cases.d/CASE-110.md) | Two members, one total: a coarse-graining by total output preserves an institution's performance, its survival and every prediction it makes, and still merges a state in which a member works within the agreed cap with one in which that member works far past it | A22's Construction C of the exchange of 2026-10-17, "Institutional performance versus constituent capability", which A22 proposed and did not write out, from A21 §5 and §16; written out here in its smallest form. Two members share twelve hours of work. Total output decides the institution's performance and its survival, so the total is sufficient for every institutional judgment, and the policies (6, 6) and (10, 2) have the same total. A member's claim not to work past an agreed cap of eight hours tells them apart, so by [CLAIM-350](../../../record/claims.d/CLAIM-350.md) no judgment on the total recovers it. Fictional by construction; it shows a possibility, not how often institutions are like this. | Active |

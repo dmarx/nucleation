@@ -26,8 +26,8 @@ grounds:
 supports:
 - ARG-007
 - CLAIM-195
-- CLAIM-tmph678z
-- CLAIM-tmpilfhr
+- CLAIM-352
+- CLAIM-354
 summary: >-
   Applied from viability theory ([THEORY-134](../theory.d/THEORY-134.md)) and the stability/resilience
   distinction ([THEORY-132](../theory.d/THEORY-132.md)) (Section 6.3).

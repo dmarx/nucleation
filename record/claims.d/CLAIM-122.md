@@ -29,9 +29,9 @@ summary: >-
   and escalation authority in a firm.
 illustrated_by:
 - CASE-074
-- CASE-tmpiyvbk
+- CASE-112
 complements:
-- CLAIM-tmpilfhr
+- CLAIM-354
 ---
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -81,5 +81,5 @@ citing it.
   ("Behavioral equivalence and organizational difference") kept it. No
   parameters were given.
 
-[CASE-tmpiyvbk](../cases.d/CASE-tmpiyvbk.md) illustrates it: with the higher-order input held fixed, a
+[CASE-112](../cases.d/CASE-112.md) illustrates it: with the higher-order input held fixed, a
 change in the structure of the competition switches the regime.

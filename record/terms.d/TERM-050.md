@@ -76,11 +76,11 @@ that "sustain mutually compatible courses of practical activity without
 requiring recurrent overriding arbitration by processes operating at a
 higher level of governance", whatever their rankings.
 
-The record files that sense as a new term, [TERM-tmpnfj83](TERM-tmpnfj83.md) (practical
+The record files that sense as a new term, [TERM-061](TERM-061.md) (practical
 synchronization), and leaves this one as it is. A changed definition is
 a new TERM, and six claims are stated in this one. A45 itself called this
 sense "*Valuational concordance*", "the special case captured by the
 previous definition". It is not a special case: agreement in rankings
 needs no coupling, and coordination needs no agreement, so the two are
 independent dimensions (the owner, in review of the filing; table in
-[TERM-tmpnfj83](TERM-tmpnfj83.md)). This term keeps its own role, and is not superseded.
+[TERM-061](TERM-061.md)). This term keeps its own role, and is not superseded.

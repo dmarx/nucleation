@@ -63,7 +63,7 @@ degree of information sharing actually present."
 This question asks the access half for brains. The third quantity is new: a
 report of unity is a separate thing from both the integration and the access
 it seems to report, so a measurement of access cannot be read off what a
-system says about its own unity. [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md) places the unified owner in
+system says about its own unity. [CLAIM-355](../claims.d/CLAIM-355.md) places the unified owner in
 that third quantity.
 
 A27's Experiment B, "Binding by restricted access", is the organizational
@@ -75,4 +75,4 @@ organization's situation." A27 credited the caution that compartmented
 behaviour does not show several conscious workspaces to [THEORY-096](../theory.d/THEORY-096.md); it is
 [CLAIM-003](../claims.d/CLAIM-003.md)'s. Whether the line reopens is the owner's decision.
 
-<!-- inactive-ok-file: CLAIM-tmpk7n2q — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+<!-- inactive-ok-file: CLAIM-355 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

@@ -30,7 +30,7 @@ summary: >-
   inference, with implicature left to an outer shell. It gives no single
   objective score, only scores kept from each perspective.
 supports:
-- CLAIM-tmpt75xe
+- CLAIM-363
 ---
 <!-- inactive-ok-file: THEORY-162 THEORY-444 THEORY-511 — Proposed; neighbouring accounts of context change, meaning and illocution, cited as open -->
 <!-- inactive-ok-file: LIT-106 — Unavailable; Marabini on Brandom, a seeded skim, named and not leaned on -->

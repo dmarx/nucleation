@@ -31,7 +31,7 @@ complements:
 - CLAIM-276
 - CLAIM-281
 - CLAIM-330
-- CLAIM-tmpl8vsy
+- CLAIM-357
 summary: >-
   A22's narrow claim and A23 VIII.E's central hypothesis, from the owner's U22:
   connect retrieval-mediated anchoring to the record's distributed agent as dual
@@ -108,6 +108,6 @@ The self-confirming kind is this claim's amplification without fidelity, run
 on a regulatory interpretation; the evidence-tracking kind is the case this
 claim's "Not that concentration is error" leaves open. The record's lock-in,
 [TERM-020](../terms.d/TERM-020.md), is the regime the self-confirming kind would keep in place. U33
-later made frustration, not distress, the primitive ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)).
+later made frustration, not distress, the primitive ([CLAIM-368](CLAIM-368.md)).
 
-<!-- inactive-ok-file: CLAIM-tmpyk3it — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+<!-- inactive-ok-file: CLAIM-368 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->

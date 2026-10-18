@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-41 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+42 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -261,6 +261,7 @@
 
 - [CLAIM-284](../record/claims.d/CLAIM-284.md) — A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists *(thesis, Proposed)*
   - [CLAIM-288](../record/claims.d/CLAIM-288.md) — A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself *(counter, Proposed)*
+    - [CLAIM-356](../record/claims.d/CLAIM-356.md) — An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization *(thesis, Proposed)*
 
 ## From Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries
 
@@ -292,3 +293,8 @@
 
 - [CLAIM-339](../record/claims.d/CLAIM-339.md) — A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle's reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too *(counter, Proposed)*
   - [CLAIM-342](../record/claims.d/CLAIM-342.md) — What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available *(thesis, Proposed)*
+
+## From Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential
+
+- [CLAIM-362](../record/claims.d/CLAIM-362.md) — Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential *(thesis, Proposed)*
+  - [CLAIM-364](../record/claims.d/CLAIM-364.md) — Low supervisory cost cannot show non-domination: processes conditioned never to object also coordinate without override, so whether an organization dominates its processes must be read from what happens when a constituent dissents, and from its history *(counter, Proposed)*

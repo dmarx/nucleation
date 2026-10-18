@@ -6,8 +6,8 @@
 
 **Evidence for experience** — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish.
 
-0 of 343 CLAIM documents. Back to the [full index](../README.md).
+1 of 368 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-355](../../../record/claims.d/CLAIM-355.md) | In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real | The owner's, U26 and U27 of the exchange of 2026-10-17: at U26 whether, "adopting an illusionist/fictionalist position", the record can make claims about subjecthood; at U27, "illusory binding-type phenomena in distributed agents", starting from the record's emotion material. A26 answered with a selective fictionalism, "the imagined substantial owner, not the organized agent"; A27 located it: "The illusion might concern the owner, not the binding", and an illusion requires "which system constructs or adopts the misleading representation". The two are filed as one claim. It rests on no claim: the organizational-affect claim it would rest on, [CLAIM-039](../../../record/claims.d/CLAIM-039.md), is Deferred, and whether that line reopens is the owner's decision, not made here. The sharp edge: it says nothing about whether the integrated state is felt. | Proposed |

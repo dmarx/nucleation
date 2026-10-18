@@ -6,6 +6,12 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [18 Oct 01:56 — Position note: governance that makes its own intervention less necessary, the synthesis the 2026-10-17 exchange arrived at](2026-10.md#position-note-governance-that-makes-its-own-intervention-less-necessary-the-synthesis-the-2026-10-17-exchange-arrived-at)
+- [18 Oct 01:56 — Review of the filing of the 2026-10-17 exchange: two foundational corrections and five narrowings](2026-10.md#review-of-the-filing-of-the-2026-10-17-exchange-two-foundational-corrections-and-five-narrowings)
+- [18 Oct 01:14 — Session of 2026-10-17, 07:25–16:00 (U26–U34): the subject as a model, illusory binding, distress, a network in training, the dual mapping, frustration over distress, and the synthesis](2026-10.md#session-of-2026-10-17-07251600-u26u34-the-subject-as-a-model-illusory-binding-distress-a-network-in-training-the-dual-mapping-frustration-over-distress-and-the-synthesis)
+- [18 Oct 01:14 — Session of 2026-10-17, 17:04–21:12 (U35–U47): external goals, invariance and the frustration residual, Arrow and the two generals, resolve, relief and individuation, wide and deep, insider threats, ACT and DBT, synchronization and authenticity](2026-10.md#session-of-2026-10-17-17042112-u35u47-external-goals-invariance-and-the-frustration-residual-arrow-and-the-two-generals-resolve-relief-and-individuation-wide-and-deep-insider-threats-act-and-dbt-synchronization-and-authenticity)
+- [18 Oct 01:10 — Session of 2026-10-17, 05:31–07:15 (U17–U25): relational normative realism, gauge and renormalization, What Survives Abstraction?, the residual, and three further papers](2026-10.md#session-of-2026-10-17-05310715-u17u25-relational-normative-realism-gauge-and-renormalization-what-survives-abstraction-the-residual-and-three-further-papers)
+- [18 Oct 01:10 — Session of 2026-10-17, 03:31–05:26 (U1–U16): synthesis of the record, individuation and control, graded freedom, Sen, a manuscript on effective volition, and normativity](2026-10.md#session-of-2026-10-17-03310526-u1u16-synthesis-of-the-record-individuation-and-control-graded-freedom-sen-a-manuscript-on-effective-volition-and-normativity)
 - [17 Oct 00:29 — Session of 2026-10-17 (U10): Friston's selective sampling mapped to the authority space](2026-10.md#session-of-2026-10-17-u10-fristons-selective-sampling-mapped-to-the-authority-space)
 - [16 Oct 23:51 — Session of 2026-10-16, continued (U8–U9): the mapping endorsed; four named works and the remaining unread works read, and what they changed](2026-10.md#session-of-2026-10-16-continued-u8u9-the-mapping-endorsed-four-named-works-and-the-remaining-unread-works-read-and-what-they-changed)
 - [16 Oct 23:02 — Session of 2026-10-16, continued (U7): the readings done, the formal question answered, the mapping put to the owner](2026-10.md#session-of-2026-10-16-continued-u7-the-readings-done-the-formal-question-answered-the-mapping-put-to-the-owner)
@@ -65,8 +71,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-56 entries across 1 book, newest first.
+62 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 56 | 2026-10-07 | 2026-10-17 |
+| [2026-10](2026-10.md) | 62 | 2026-10-07 | 2026-10-18 |

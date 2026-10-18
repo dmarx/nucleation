@@ -31,7 +31,7 @@ summary: >-
   [THEORY-072](../theory.d/THEORY-072.md) and [THEORY-071](../theory.d/THEORY-071.md) place the line at production and
   self-distinction instead. Proposed: no case has been measured.
 complements:
-- CLAIM-tmpw4w7a
+- CLAIM-367
 ---
 
 # CLAIM-194: A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs

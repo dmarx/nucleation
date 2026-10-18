@@ -25,14 +25,14 @@ uses:
 supports:
 - ARG-007
 - CLAIM-284
-- CLAIM-tmp6ap9y
-- CLAIM-tmpilfhr
-- CLAIM-tmpp9ox0
+- CLAIM-349
+- CLAIM-354
+- CLAIM-359
 illustrated_by:
 - CASE-036
 - CASE-075
-- CASE-tmpi1bt1
-- CASE-tmpiyvbk
+- CASE-111
+- CASE-112
 summary: >-
   Section 6.2, from the emergency variant of Northstar.
 ---
@@ -69,5 +69,5 @@ in place."
   can replace the others." The third is this claim's capacity to transform
   the organization. The case is [CASE-013](../cases.d/CASE-013.md).
 - A7 §4 and A8 §4 gave models in which a capacity is lost apart from the
-  regime it governs ([CASE-tmpi1bt1](../cases.d/CASE-tmpi1bt1.md), [CASE-tmpiyvbk](../cases.d/CASE-tmpiyvbk.md)). The graded thesis built
-  on this claim is [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md).
+  regime it governs ([CASE-111](../cases.d/CASE-111.md), [CASE-112](../cases.d/CASE-112.md)). The graded thesis built
+  on this claim is [CLAIM-354](CLAIM-354.md).

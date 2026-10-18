@@ -36,7 +36,7 @@ summary: >-
 illustrated_by:
 - CASE-080
 supports:
-- CLAIM-tmpp9ox0
+- CLAIM-359
 ---
 <!-- inactive-ok-file: CLAIM-285 THEORY-029 THEORY-152 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

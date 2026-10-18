@@ -63,7 +63,7 @@ Burton 2024). Neither is held yet.
 A42 then ran the transfer the other way, from the individual to the
 organization: tighter safeguards that yield "Less disclosure of near misses"
 and "Fewer challenges to mistaken decisions". That is filed as
-[CLAIM-tmp6ap9y](../claims.d/CLAIM-tmp6ap9y.md), whose defeater includes this question: the organizational
+[CLAIM-349](../claims.d/CLAIM-349.md), whose defeater includes this question: the organizational
 form must predict something the individual-scale lock-in account does not.
 
 A29 §8 offered a dynamical form for "individual data showing hysteresis",

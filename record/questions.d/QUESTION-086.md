@@ -110,5 +110,5 @@ it.
   These are candidate answers to "by what intervention": each mechanism
   is exposed by its own perturbation, short of removing anything.
 
-[CASE-tmpi1bt1](../cases.d/CASE-tmpi1bt1.md), the fold in boundary maintenance, is silent on who
+[CASE-111](../cases.d/CASE-111.md), the fold in boundary maintenance, is silent on who
 maintains b, and says so.

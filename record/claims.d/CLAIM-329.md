@@ -42,7 +42,7 @@ summary: >-
   §4.3's of 2026-10-13 and did not file it. It does not say what must be
   transmitted, or settle branching successors.
 illustrated_by:
-- CASE-tmpxqgai
+- CASE-116
 ---
 
 <!-- inactive-ok-file: LIT-1124 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

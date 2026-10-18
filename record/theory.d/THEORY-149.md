@@ -22,7 +22,7 @@ summary: >-
 answers:
 - QUESTION-041
 supports:
-- CLAIM-tmpmr1t8
+- CLAIM-358
 ---
 <!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, named for a contrast, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-737 — Unavailable, unread; Governing the Commons, named as the book whose principles the lecture restates -->

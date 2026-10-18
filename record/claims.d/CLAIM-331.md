@@ -33,7 +33,7 @@ grounds:
 - THEORY-661
 - CASE-102
 - CASE-098
-- CASE-tmpxqgai
+- CASE-116
 summary: >-
   The owner's, U8 of the exchange of 2026-10-16: "'higher level' doesn't
   just mean in terms of abstractions over abstractions, we should also
@@ -47,7 +47,7 @@ summary: >-
 complements:
 - CLAIM-327
 supports:
-- CLAIM-tmp0wvwc
+- CLAIM-344
 ---
 
 <!-- inactive-ok-file: LIT-923 — Unavailable; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -118,7 +118,7 @@ and twice confirmed its own limit.
   slowly moving generator parameter ordinarily does not, merely by being
   slow." That is this claim's "slowness is a mark of a level and not its
   definition", in a case the record had not used.
-- **A slow variable no member reads.** Arm A of [CASE-tmpxqgai](../cases.d/CASE-tmpxqgai.md) (U3–U4): a
+- **A slow variable no member reads.** Arm A of [CASE-116](../cases.d/CASE-116.md) (U3–U4): a
   register that flips with probability 0.01 per step, second eigenvalue
   0.98, while the members are resampled and never read it. Strong
   timescale separation, no level. It is the construction behind "Not that

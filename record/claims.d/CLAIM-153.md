@@ -45,8 +45,8 @@ complements:
 - CLAIM-197
 - CLAIM-198
 - CLAIM-196
-- CLAIM-tmp55mls
-- CLAIM-tmpyk3it
+- CLAIM-347
+- CLAIM-368
 ---
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this result partly answers -->
 
@@ -90,7 +90,7 @@ model of contexts, not of interests over time. That bearing is this record's.
 ## Note of 2026-10-18: the same minimal obstruction for update demands
 
 The exchange of 2026-10-17 built an ordinal account of frustration among an
-organization's demands ([CLAIM-tmp55mls](CLAIM-tmp55mls.md), [TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md)): demand i accepts a
+organization's demands ([CLAIM-347](CLAIM-347.md), [TERM-060](../terms.d/TERM-060.md)): demand i accepts a
 set A_i of transformations, and the jointly satisfiable sets form a
 downward-closed complex. A37 named this claim "the most direct existing
 Nucleation connection". The shape is the same as here: pairs can be fine
@@ -101,4 +101,4 @@ zero. Pairwise non-conflict (every g_iᵀg_j ≥ 0) rules frustration out. So
 among non-antiparallel demands the minimal obstruction needs three, as
 here. This is the shape only. Set incompatibility supplies no torsor and no
 cycle class, and A37: "Not every optimization conflict has a cohomology
-class." The two senses of frustration are kept apart in [TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md).
+class." The two senses of frustration are kept apart in [TERM-060](../terms.d/TERM-060.md).
