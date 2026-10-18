@@ -52,6 +52,7 @@ implementations: []
 summary: >-
   Blanke & Metzinger (2009), Trends Cogn. Sci. 13(1):7–13, an Opinion piece. Research on the bodily self has studied parts: rubber hands, somatoparaphrenia, agency. It should instead isolate "minimal phenomenal selfhood" (MPS), the experience of being a bodily self, made of global self-identification, self-location and a weak first-person perspective (1PP), the geometrical origin of a perspective. Body-part ownership leaves MPS intact. Autoscopic hallucination, heautoscopy and out-of-body experience differ by which of the three parts is displaced, and full-body illusions displace them experimentally. Since those illusions are induced passively, the authors conclude that agency is causally enabling for MPS but not constitutive of it. "Global owning" is proposed as "the simplest form of self-consciousness".
 ---
+<!-- inactive-ok-file: THEORY-tmp6ib7r — Proposed; the account filed from this reading, named as where it went -->
 
 # LIT-tmpypm1w: Full-body illusions and minimal phenomenal selfhood
 
