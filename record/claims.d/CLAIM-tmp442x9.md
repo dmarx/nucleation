@@ -51,7 +51,7 @@ relocated Arrow ("I would locate it slightly differently from the
 frustration residual") and drew a table of three obstructions:
 
 - **Feasibility:** no admissible transformation lies in every
-  constituent's acceptance set (TERM-tmp9lmlt).
+  constituent's acceptance set ([TERM-tmp9lmlt](../terms.d/TERM-tmp9lmlt.md)).
 - **Aggregation:** the organization's rule for combining constituents'
   rankings of the admissible transformations yields no coherent choice:
   under pairwise majority, an alternative that no other beats.
@@ -63,7 +63,7 @@ Each can occur without the other two.
 
 ## The three constructions
 
-**1. Feasibility alone.** CASE-tmpuc54q: two operators share one parameter
+**1. Feasibility alone.** [CASE-tmpuc54q](../cases.d/CASE-tmpuc54q.md): two operators share one parameter
 θ, with demands L₁ = (θ − 1)² < 1 and L₂ = (θ + 1)² < 1. Since L₁ + L₂ =
 2θ² + 2 ≥ 2, no θ meets both. Everything is known to both, and nothing is
 communicated. The aggregation is coherent: with two operators, pairwise
@@ -111,23 +111,23 @@ at once. It is interpretive and held here as A36's.
 Two points bear on it.
 
 - **Information escapes Arrow but not every aggregation failure.** A36
-  §2D read Sen (NOTE-263) as saying the dual mapping model should
+  §2D read Sen ([NOTE-263](../notes.d/NOTE-263.md)) as saying the dual mapping model should
   "explicitly represent which kinds of information endorsement procedures
   may use", since interpersonal comparability breaks Arrow's
-  impossibility. THEORY-027 shows a failure it does not break: decisive
+  impossibility. [THEORY-027](../theory.d/THEORY-027.md) shows a failure it does not break: decisive
   jurisdiction for two constituents, weak Pareto and an unrestricted
   domain conflict "even when choice need only yield a best element", and
-  comparability does not remove it. That is CLAIM-tmpi5t5f.
+  comparability does not remove it. That is [CLAIM-tmpi5t5f](CLAIM-tmpi5t5f.md).
 - **Commitments fix timing only.** A36 §4: a cryptographic commitment
   solves "the timing and integrity of the prediction", not the scoring,
-  which is CLAIM-340.
+  which is [CLAIM-340](CLAIM-340.md).
 
 A36 also named Arrow's theorem (Arrow (1950)): with three or more
 alternatives and an unrestricted domain, no rule gives a complete
 transitive social ordering satisfying weak Pareto, independence of
 irrelevant alternatives and nondictatorship. Construction 2 is its
 standard witness, not its proof. The record holds Arrow only through Sen
-(NOTE-263) and O'Donnell's Fourier proof (LIT-346).
+([NOTE-263](../notes.d/NOTE-263.md)) and O'Donnell's Fourier proof ([LIT-346](../literature.d/LIT-346.md)).
 
 ## What it does not say
 

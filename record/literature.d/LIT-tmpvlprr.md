@@ -34,4 +34,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A41 of the exchange cited NIST's "zero-trust architecture" alongside its control catalogue, as governance that does not assume any constituent is sound. Bears on CLAIM-tmpp9ox0 and CASE-tmp4nzjz.
+A41 of the exchange cited NIST's "zero-trust architecture" alongside its control catalogue, as governance that does not assume any constituent is sound. Bears on [CLAIM-tmpp9ox0](../claims.d/CLAIM-tmpp9ox0.md) and [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md).

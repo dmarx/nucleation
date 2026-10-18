@@ -20,7 +20,7 @@ summary: >-
   governance, and scored on lost legitimate capability, suppressed honest
   minorities, cost of safeguards and repair of governance after failure,
   as well as on attack success. Its sharpest variant compromises the
-  processes that evaluate the others' competence, which tests CLAIM-342's
+  processes that evaluate the others' competence, which tests [CLAIM-342](../claims.d/CLAIM-342.md)'s
   independent scoring. Federated learning is the natural testbed. Not run.
 ---
 
@@ -58,7 +58,7 @@ Two variants:
    compromise the processes responsible for evaluating other processes'
    competence. That tests whether the organization has any genuinely
    independent means of checking its own allocation of authority." This is
-   CLAIM-342's thesis put to an attack: what keeps a loop from confirming
+   [CLAIM-342](../claims.d/CLAIM-342.md)'s thesis put to an attack: what keeps a loop from confirming
    itself is evidence whose arrival or scoring does not pass through what
    it tests. Here the scorer is itself the insider.
 2. **A legitimate novelty that looks like an attack.** "introduce a novel
@@ -72,7 +72,7 @@ update maps to a process's proposed transformation, aggregation weight to
 effective influence, robust aggregation to governance under compromise, and
 "Distributed but valid minority signal" to "Productive difference that
 should not automatically be suppressed". The robust-aggregation literature
-A41 cited is the anthology's (ANTH-LIT-257, ANTH-LIT-344 hold Byzantine-robust
+A41 cited is the anthology's ([ANTH-LIT-257](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-257.md), [ANTH-LIT-344](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-344.md) hold Byzantine-robust
 learning there).
 
 Held fixed across arms: the tasks, the population of specialists and the
@@ -81,7 +81,7 @@ attack class.
 ## What it can show
 
 That safeguards which block capture cost legitimate learning, and how much,
-for each architecture: the trade-off CLAIM-tmpp9ox0 asserts, measured. A
+for each architecture: the trade-off [CLAIM-tmpp9ox0](../claims.d/CLAIM-tmpp9ox0.md) asserts, measured. A
 positive result for adaptive governance would show the trade-off can be
 moved, not that it is absent. The evaluator variant would show whether
 role-limited audit gives independent scoring or only relocates the single
@@ -89,7 +89,7 @@ point of failure.
 
 It is stipulated and unrun. It shows nothing yet. Its results would be about
 the designed population, whose objectives the modeller fixes, so by
-CLAIM-288 it can test the governance claims and not that the organization
+[CLAIM-288](../claims.d/CLAIM-288.md) it can test the governance claims and not that the organization
 constitutes itself. Which specialists count as "honest but dissenting" is
 fixed by the designer, which is exactly the judgment a real organization
-lacks (QUESTION-087).
+lacks ([QUESTION-087](../questions.d/QUESTION-087.md)).

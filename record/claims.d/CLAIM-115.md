@@ -101,26 +101,26 @@ that "might function as a promise in one institutional setting but become
 merely a description in another". That is this claim's thesis, what a
 receiving system can still reconstruct and act upon, with the act's
 normative effect as the observable. A21 did not cite this claim. The
-coarse-graining form of the same move is CLAIM-tmpa1kmr and
-CLAIM-tmp679hm, and its gauge form is QUESTION-tmpxpu3p.
+coarse-graining form of the same move is [CLAIM-tmpa1kmr](CLAIM-tmpa1kmr.md) and
+[CLAIM-tmp679hm](CLAIM-tmp679hm.md), and its gauge form is [QUESTION-tmpxpu3p](../questions.d/QUESTION-tmpxpu3p.md).
 
 Two faults in A21 and A22's citations of the line, recorded so that they
 are not repeated:
 
-- **CLAIM-036 was cited as live.** A21: "meaning depends on differential and
+- **[CLAIM-036](CLAIM-036.md) was cited as live.** A21: "meaning depends on differential and
   relational structure, which translation may selectively preserve or
   transform"; A22: "relational meaning and context-indexed interpretation".
-  CLAIM-036 is Superseded (CLAIM-036, then CLAIM-108, then CLAIM-017, then
+  [CLAIM-036](CLAIM-036.md) is Superseded ([CLAIM-036](CLAIM-036.md), then [CLAIM-108](CLAIM-108.md), then [CLAIM-017](CLAIM-017.md), then
   this claim), and its contrast with transport "was overstated and conceded
   at U37". This claim is the live one. A22 wrote, of its own list, "All
   existing statuses and qualifications should be preserved".
-- **CLAIM-014 was misdescribed.** A21: "communicative meaning can include
+- **[CLAIM-014](CLAIM-014.md) was misdescribed.** A21: "communicative meaning can include
   changes to commitments, obligations, and permissions"; A22: "communicative
-  acts as transformations of normative relations". CLAIM-014 holds that
+  acts as transformations of normative relations". [CLAIM-014](CLAIM-014.md) holds that
   Krifka's performative updates fix which changes in conversational
   standing count, and that Blackwell comparison tests whether a rendering
   preserves the information needed to recover them. A21's description fits
-  THEORY-162 or THEORY-665. CLAIM-014's real content is the more useful one
+  [THEORY-162](../theory.d/THEORY-162.md) or [THEORY-665](../theory.d/THEORY-665.md). [CLAIM-014](CLAIM-014.md)'s real content is the more useful one
   for A21 §8: it is the record's existing test of whether a rendering
   preserves normative effect.
 

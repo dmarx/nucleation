@@ -32,9 +32,9 @@ summary: >-
   that deleting a demand "has changed the comparison problem": "it might
   be helpful to connect back to our notions of individuation". Worked out
   by A38 and restated by A39 §2B and A43. Relief, as enlargement of the
-  compatibility complex (CLAIM-tmp55mls), is judged over a fixed reference
+  compatibility complex ([CLAIM-tmp55mls](CLAIM-tmp55mls.md)), is judged over a fixed reference
   set of demands, for an organization identified before and after, under
-  a stated correspondence. Watson's comparison (THEORY-232) is already
+  a stated correspondence. Watson's comparison ([THEORY-232](../theory.d/THEORY-232.md)) is already
   relative to a decomposition; what this adds is the comparison across
   time, when the decomposition itself changes. The sharp edge: it does not
   say transformation is worse than relief, only that it answers a
@@ -81,7 +81,7 @@ that to be decidable:
    R(O_t; H, B) is what the organization at t can attain within horizon H
    and budget B. Relief is K(O_t; D₀, H, B) ⊊ K(O_t′; D₀, H, B). The
    family stays downward closed with R in it, so it is still the complex
-   of CLAIM-tmp55mls. With D₀ fixed, deleting a demand from evaluation
+   of [CLAIM-tmp55mls](CLAIM-tmp55mls.md). With D₀ fixed, deleting a demand from evaluation
    leaves K unchanged; it can look like relief only if D₀ is allowed to
    shrink.
 2. **An identified organization at both times.** "So the question is not
@@ -102,12 +102,12 @@ keeping B blocks adaptation, and "gradually reorganizes its internal
 governance to relinquish B". By contrast "an external optimizer might simply
 erase B's representation". "The observable loss of B could be identical. Yet
 the causal histories differ." The first is constitutive revision, which
-CLAIM-284 counts as part of a self's governing "the conditions of its own
+[CLAIM-284](CLAIM-284.md) counts as part of a self's governing "the conditions of its own
 persistence, differentiation and transformation". The second is excision.
-CLAIM-194 is the reason the outcome cannot settle which: a coherent boundary
+[CLAIM-194](CLAIM-194.md) is the reason the outcome cannot settle which: a coherent boundary
 does not show whether the organization made it or had it imposed.
 
-A38 also kept the guard CLAIM-075 states: "a demand's causal contribution to
+A38 also kept the guard [CLAIM-075](CLAIM-075.md) states: "a demand's causal contribution to
 persistence does not establish its moral authority." That a demand was the
 organization's own does not make its loss a harm.
 
@@ -121,24 +121,24 @@ the later organization satisfies them more effectively. The second allows
 the internal decomposition to change and asks whether a new, persistent
 organization has emerged."
 
-CASE-tmpuc54q is the simple case: L_A(θ) = (θ − 1)² and L_B(θ) = (θ + 1)²
+[CASE-tmpuc54q](../cases.d/CASE-tmpuc54q.md) is the simple case: L_A(θ) = (θ − 1)² and L_B(θ) = (θ + 1)²
 on one shared θ, then θ_A and θ_B with routing by context. If the demands
 are stated on outcomes (A-context outputs near 1, B-context outputs near −1),
 they are the same demands after the split, and only R(O_t) grew: achievement.
 The correspondence is trivial there because the demands, not their bearers,
 are what D₀ indexes. It stops being trivial when the bearer itself splits or
-merges, so that one earlier demand has two later heirs or none. CLAIM-287
+merges, so that one earlier demand has two later heirs or none. [CLAIM-287](CLAIM-287.md)
 says continuity of the organization can branch and merge and "is not an
 identity relation"; demands borne by it can do the same.
-QUESTION-tmp4yz9o asks how to track them then.
+[QUESTION-tmp4yz9o](../questions.d/QUESTION-tmp4yz9o.md) asks how to track them then.
 
-## Against THEORY-232
+## Against [THEORY-232](../theory.d/THEORY-232.md)
 
 A38 called "**The attribution of frustration relief must be indexed to an
 individuation and an intertemporal correspondence of demands**" "a
 defensible new formal principle". Half of it is Watson's, as the record
 reads him: the comparison of a whole with its parts is "relative to a chosen
-decomposition and the parts' goals" (THEORY-232), and the organism's agency
+decomposition and the parts' goals" ([THEORY-232](../theory.d/THEORY-232.md)), and the organism's agency
 "can be different or absent if we define the agency of the parts
 differently". Watson compares one set of parts under two organizations,
 "given some original organization of the parts to that obtained with some
@@ -152,7 +152,7 @@ a demand also lowers it.
 ## The converse error
 
 The suppression row warns that a measure can score suppression as relief.
-The anthology's reading of First Contact (ANTH-LIT-503, ANTH-NOTE-250) has
+The anthology's reading of First Contact ([ANTH-LIT-503](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-503.md), [ANTH-NOTE-250](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/notes.d/NOTE-250.md)) has
 the converse. In shared-autonomy Lunar Lander, an assistant that prevents
 crashes, "which necessarily involves ignoring a large fraction of the user's
 commands", drove the one-step mutual-information score down while increasing
@@ -171,7 +171,7 @@ misclassifies in either direction.
 - It does not say how to choose D₀, H or B. Different choices give
   different verdicts, as Watson's decomposition does.
 - It does not supply the correspondence when processes branch or merge. That
-  is QUESTION-tmp4yz9o.
+  is [QUESTION-tmp4yz9o](../questions.d/QUESTION-tmp4yz9o.md).
 - It does not say that differentiation makes new individuals. A38: it "does
   **not** automatically mean that two new autonomous individuals have
   formed."

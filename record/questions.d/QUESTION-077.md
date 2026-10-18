@@ -81,22 +81,22 @@ takes no position.*
 
 This question said that if coupled agreement is what intrapersonal
 synchronization is, "the word may earn its mechanism, though not in the
-sense TERM-050 gives it". The exchange of 2026-10-17 took that route
+sense [TERM-050](../terms.d/TERM-050.md) gives it". The exchange of 2026-10-17 took that route
 without citing the question. A44 listed "Coupled coordination" as a
 fourth mechanism of unity, citing this question as open: processes
 "converge on the same behavior by responding to one another, although
 their valuations need not converge". A45 then defined the broader sense,
-filed as TERM-tmpnfj83 (practical synchronization), and recommended for
+filed as [TERM-tmpnfj83](../terms.d/TERM-tmpnfj83.md) (practical synchronization), and recommended for
 this question: "Make local negotiation and counterfactual process
 influence explicit".
 
 The exchange's route is wider than this question's case. Herding
 converges on what the majority does. The owner's U45 has processes that
-"negotiate amongst themselves", and A45's Person B (CASE-tmpffqbr) finds a
+"negotiate amongst themselves", and A45's Person B ([CASE-tmpffqbr](../cases.d/CASE-tmpffqbr.md)) finds a
 course each process can accommodate. Both are agreement in action without
 agreement in value. A44: "unity of governance **should not require** unity
 of valuation."
 
 Not answered. There is still no within-person case with the valuations
 measured unchanged, and nothing yet shows that negotiated coordination
-does not reduce to suspension (CLAIM-156) or to a change of value.
+does not reduce to suspension ([CLAIM-156](../claims.d/CLAIM-156.md)) or to a change of value.

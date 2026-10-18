@@ -106,5 +106,5 @@ This is the second appearance of the self-confirming loop, applied to affect.
 The self-confirming kind is this claim's amplification without fidelity, run
 on a regulatory interpretation; the evidence-tracking kind is the case this
 claim's "Not that concentration is error" leaves open. The record's lock-in,
-TERM-020, is the regime the self-confirming kind would keep in place. U33
-later made frustration, not distress, the primitive (CLAIM-tmpyk3it).
+[TERM-020](../terms.d/TERM-020.md), is the regime the self-confirming kind would keep in place. U33
+later made frustration, not distress, the primitive ([CLAIM-tmpyk3it](CLAIM-tmpyk3it.md)).

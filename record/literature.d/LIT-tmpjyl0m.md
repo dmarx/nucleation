@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A46 of the exchange, answering the owner's U46 return to niche specialization, cited it as "A particularly useful source", contrasting stabilizing niche differences with equalizing ones, with the caveat "We should not equate Chesson's ecological fitness differences with endorsement weights". Bears on CLAIM-279 and QUESTION-083.
+A46 of the exchange, answering the owner's U46 return to niche specialization, cited it as "A particularly useful source", contrasting stabilizing niche differences with equalizing ones, with the caveat "We should not equate Chesson's ecological fitness differences with endorsement weights". Bears on [CLAIM-279](../claims.d/CLAIM-279.md) and [QUESTION-083](../questions.d/QUESTION-083.md).
