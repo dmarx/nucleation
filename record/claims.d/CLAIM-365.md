@@ -4,12 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpue67e
 title: 'On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret'
-version: 2
-history:
-- version: 2
-  date: '2026-10-18'
-  note: >-
-    uses moves to TERM-tmp9p3s9, which supersedes TERM-060 after the owner's third review; the claim is unchanged.
+version: 1
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -32,7 +27,7 @@ line:
 rests_on:
 - CLAIM-347
 uses:
-- TERM-tmp9p3s9
+- TERM-060
 summary: >-
   A34 §4 and A35 §3 of the exchange of 2026-10-17, checked. The residual
   is the smallest worst-case shortfall of the declared local improvements
@@ -49,11 +44,10 @@ grounds:
 supports:
 - CLAIM-357
 ---
-<!-- inactive-ok-file: TERM-060 — Superseded; named in the version 2 history as the term this claim moved from -->
 
 # CLAIM-365: On a norm-ball update set the local frustration residual Φ_r = min over ‖d‖ ≤ r of max_i(ε_i + g_iᵀd) equals the maximum over the simplex of Σλ_iε_i − r‖Σλ_ig_i‖_*, so infeasibility of the declared improvements has a certificate, and any admissible actual update exceeds Φ_r by a nonnegative governance regret
 
-<!-- ref::uses-file: TERM-tmp9p3s9 — the residual is the cardinal refinement of frustration in the term's sense -->
+<!-- ref::uses-file: TERM-060 — the residual is the cardinal refinement of frustration in the term's sense -->
 
 ## The claim
 

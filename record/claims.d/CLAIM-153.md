@@ -48,7 +48,6 @@ complements:
 - CLAIM-347
 - CLAIM-368
 ---
-<!-- inactive-ok-file: TERM-060 — Superseded; the frustration term as first filed, cited in the note of 2026-10-18 -->
 <!-- inactive-ok-file: CLAIM-163 — Proposed; the open objection this result partly answers -->
 
 # CLAIM-153: Failure of a self to hold together across contexts is a monodromy around a cycle of contexts: any two locally consistent contexts glue, and the minimal model of the obstruction needs three

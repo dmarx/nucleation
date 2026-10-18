@@ -3,13 +3,17 @@ number: 357
 status: Proposed
 formerly:
 - CLAIM-tmpl8vsy
-title: 'An organization''s failure to meet its demands is structural when no admissible transformation meets them all and a realization failure when an acceptable one exists and is not made effective, and governance-induced frustration is the part of realization failure due to the organization of influence, authority or selection, not to information, search, modelling or chance; aggregate performance does not tell structural from realization failure, and the multipliers that certify infeasibility are not the weights governance assigns'
+title: 'The frustration residual and governance regret diagnose feasibility and avoidable shortfall, not thwarting: a positive residual says no admissible update meets every declared improvement, a positive regret says the actual update falls short of one that would, and neither says whether a demand was actively thwarted, by which process, or whether it was rightly subordinated; aggregate performance does not tell infeasibility from avoidable shortfall, and the multipliers that certify infeasibility are not the weights governance assigns'
 version: 2
 history:
 - version: 2
   date: '2026-10-18'
   note: >-
-    Retitled at the owner's third review: realization failure is the general case, and governance-induced frustration the part of it due to the organization of influence; Γ measures realization failure, not its cause. uses moves to TERM-tmp9p3s9, which supersedes TERM-060.
+    Retitled at the review relayed by the owner on 2026-10-18: Φ and Γ
+    diagnose infeasibility and avoidable shortfall, and do not by themselves
+    establish thwarting, its source, or whether the demand should have
+    been met. The governance-induced case is narrowed to shortfall caused
+    by the allocation of influence. The mathematics is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,26 +41,24 @@ complements:
 - CLAIM-342
 - CLAIM-330
 uses:
-- TERM-tmp9p3s9
+- TERM-060
 summary: >-
   A34 §4 and A35 §3.3 of the exchange of 2026-10-17, restated at A39 §2C
   and A40 §3.4, from A33's "irreducible conflict" and "manufactured
   frustration". With Φ the best achievable worst shortfall and Γ the
-  actual update's excess over it ([CLAIM-365](CLAIM-365.md)), structural frustration
-  is Φ > 0 and realization failure is Φ ≤ 0 with the actual update
-  failing. Governance-induced frustration is realization failure caused
-  by the allocation of influence, which Γ alone does not show. Equal loss
-  curves can hide either kind. A35: "Importantly, these dual multipliers
-  are not endorsement weights." The sharp edge: the distinction is
-  relative to the declared demands, the admissible set and the comparison
-  solver, and it says nothing yet about whether real organizations fail
-  by governance.
+  actual update's excess over it ([CLAIM-365](CLAIM-365.md)), Φ > 0 is infeasibility and
+  Φ ≤ 0 with the actual update failing is avoidable shortfall. Equal loss
+  curves can hide either. A35: "Importantly, these dual multipliers are
+  not endorsement weights." The sharp edge: these are optimization
+  diagnostics, relative to the declared demands, the admissible set and
+  the comparison solver. They are evidence about frustration, not a
+  finding of it: they do not say whether a demand was thwarted or by
+  what.
 ---
-<!-- inactive-ok-file: TERM-060 — Superseded; named in the version 2 history as the term this claim moved from -->
 
-# CLAIM-357: An organization's failure to meet its demands is structural when no admissible transformation meets them all and a realization failure when an acceptable one exists and is not made effective, and governance-induced frustration is the part of realization failure due to the organization of influence, authority or selection, not to information, search, modelling or chance; aggregate performance does not tell structural from realization failure, and the multipliers that certify infeasibility are not the weights governance assigns
+# CLAIM-357: The frustration residual and governance regret diagnose feasibility and avoidable shortfall, not thwarting: a positive residual says no admissible update meets every declared improvement, a positive regret says the actual update falls short of one that would, and neither says whether a demand was actively thwarted, by which process, or whether it was rightly subordinated; aggregate performance does not tell infeasibility from avoidable shortfall, and the multipliers that certify infeasibility are not the weights governance assigns
 
-<!-- ref::uses-file: TERM-tmp9p3s9 — structural frustration and realization failure, with its governance-induced part, are the cases the term distinguishes -->
+<!-- ref::uses-file: TERM-060 — the diagnostics are stated against the term's structural and governance-induced cases, which this claim narrows -->
 
 ## The claim
 
@@ -77,25 +79,29 @@ organization actually makes.
   separates a **capacity-limited** case, where Φ_r > 0 for the current
   budget r but not for a larger one, from the case where no budget helps,
   as in [CASE-115](../cases.d/CASE-115.md), where Φ_r = ε for every r.
-- **Realization failure:** Φ ≤ 0, and the actual update fails some
-  demand, so Γ > −Φ ≥ 0. A satisfactory update exists and is not
-  realized. A35: "A system could therefore have substantial observed
-  frustration even when structural frustration is absent."
-- **Governance-induced:** a realization failure whose cause is the
-  organization of effective influence, authority or selection. Γ > 0
-  does not say this by itself. A satisfactory update can also go
-  unrealized through incomplete information, unsuccessful search, a
-  poorly calibrated model or an unexpected event. A broad enough notion of
-  governance may cover those, but the claim does not assume it does. The
-  first filing equated realization failure with governance-induced
-  frustration; the owner's third review separated them
-  ([TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md)).
+- **Avoidable shortfall:** Φ ≤ 0, and the actual update fails some
+  demand, so Γ > −Φ ≥ 0. A satisfactory update exists and was not made.
+  A35: "A system could therefore have substantial observed frustration
+  even when structural frustration is absent."
+
+**What the diagnostics do not show.** The first filing called the second
+case governance-induced frustration. It is not, by itself. Γ measures the
+gap between the actual update's worst shortfall and the best achievable
+one. That is an optimization diagnostic. An available update can go
+unmade because no process pursued it, because it was not recognized,
+through error, or through an unexpected event. None of these requires
+anything to have blocked it. Γ does not say whether a demand was actively
+thwarted, which process did it, or whether the demand was legitimately
+subordinate to another. Governance-induced shortfall is the case where
+the allocation of influence is what kept the update from being made, and
+showing that needs an intervention on the allocation with search and
+information held fixed. Whether either kind of shortfall is frustration
+is [QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)'s question. The diagnostics are evidence for it and do
+not settle it.
 
 A40 §3.4 added a **representational** kind, where an available solution
 is inaccessible to the organization's own models or search, and said the
-categories "may overlap". A representational failure is a realization failure; whether it
-is governance-induced depends on whether the organization's allocation of
-influence is what keeps the solution out of reach.
+categories "may overlap".
 
 **Aggregate performance does not separate them.** A35 §3.4: two systems,
 one with Φ_r > 0, one with Φ_r < 0 and an optimizer that repeatedly
@@ -128,10 +134,7 @@ called it "the best candidate for an early discriminating experiment".
 ## What it does not say
 
 - **That governance-induced frustration occurs in any real organization.**
-  The claim gives the distinction and the measure, not an instance, and
-  Γ measures realization failure, not its cause: telling a governance
-  cause from a search or information failure needs an intervention on the
-  allocation of influence with the search held fixed. The
+  The claim gives the distinction and the measure, not an instance. The
   defeater is the result that would make the category idle.
 - **That Γ is free of choices.** Φ is relative to declared demands and a
   declared admissible set, and computing it needs a solver that finds the

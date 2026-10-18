@@ -1,6 +1,6 @@
 ---
 number: 60
-status: Superseded
+status: Active
 formerly:
 - TERM-tmp9lmlt
 title: 'frustration, of an organization''s demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance'
@@ -21,8 +21,14 @@ summary: >-
   where the demands are jointly realizable at a cost, and from distress, a
   possible integrated response to either. It is not [CLAIM-153](../claims.d/CLAIM-153.md)'s physics
   sense, though it shares that sense's three-demand minimal obstruction.
-superseded_by:
-- TERM-tmp9p3s9
+used_by:
+- CLAIM-346
+- CLAIM-347
+- CLAIM-351
+- CLAIM-357
+- CLAIM-365
+- CLAIM-366
+- CLAIM-368
 ---
 
 # TERM-060: frustration, of an organization's demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance
@@ -119,17 +125,37 @@ externally constituted optimization problem" (and see [CLAIM-288](../claims.d/CL
   of genuinely different demands. A33 §2: "A conflict may be the correct
   consequence of optimizing genuinely different objectives."
 
-## Superseded on 2026-10-18
+## Note of 2026-10-18: an error in this definition, and the question it now waits on
 
-The owner's third review of the filing (review entry of 2026-10-18)
-found that this definition conflated the incompatibility of demands,
-the failure to realize demands that are jointly attainable, and the
-frustration of the constituents whose demands go unrealized; that it put
-strain as the alternative to frustration; and that it built an
-acceptance-set construction, with strict improvement as a canonical
-form, into the definition. [TERM-tmp9p3s9](TERM-tmp9p3s9.md) replaces it: frustration as the
-obstruction of organizationally consequential demands from realization,
-relative to a bearer, requirements, context, horizon and available
-transformations, with structural frustration, realization failure and
-governance-induced frustration kept apart and strain an independent
-dimension. The claims stated in this sense now use [TERM-tmp9p3s9](TERM-tmp9p3s9.md).
+The review the owner relayed on 2026-10-18 (review entry of that date)
+found four things in this entry. The definition is not changed in place,
+and it is not superseded. A proposed replacement was withdrawn before
+merge, because what frustration should mean is still open
+([QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)).
+
+- **An error.** "The tempting form A_i = {u : u ⪰_i u₀} is not a demand"
+  is wrong as stated. A maintenance demand, "do not let this fall below
+  its present level", has exactly that acceptance set. The reference meets
+  it, as a maintained requirement should. The defect the first review
+  found was narrower: improvement demands had been represented by
+  weak-preference sets, which cannot exclude the unchanged baseline.
+  [CLAIM-347](../claims.d/CLAIM-347.md) (version 2) states the construction with improvement,
+  maintenance and threshold demands kept apart.
+- **Strain is not the alternative to frustration.** The case "Not
+  frustrated, strained" treats them as exclusive. They are independent
+  dimensions. A demand can be frustrated with little effort spent or met
+  through heavy strain, and an organization can be both or neither
+  ([CLAIM-368](../claims.d/CLAIM-368.md), version 2).
+- **Unmet is not obstructed.** "Frustrated, by governance" counts every
+  failure to select an available acceptable transformation as frustration
+  by governance. That establishes non-attainment, not an obstruction or
+  its source. An available option can go unrealized through error, search,
+  missing information or chance ([CLAIM-357](../claims.d/CLAIM-357.md), version 2).
+- **Refinements to keep, whichever definition is adopted.** Feasibility
+  (could the demands be met together?), actual satisfaction (were they
+  met?) and the cause of a failure (what kept an available option from
+  becoming effective?) are different kinds of fact. Attributions of
+  frustration should name a bearer and a reference collection of
+  demands, so that removing a demand from consideration does not count as
+  meeting it ([CLAIM-361](../claims.d/CLAIM-361.md)). Frustration need not be
+  pathological: some demands deserve to be refused.

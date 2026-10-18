@@ -40,7 +40,6 @@ supports:
 - CLAIM-361
 - CLAIM-368
 ---
-<!-- inactive-ok-file: TERM-060 — Superseded; the frustration term as first filed, cited in the note of 2026-10-18 -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this bears on, on a set-aside line -->
 <!-- inactive-ok-file: QUESTION-032 CLAIM-170 CLAIM-174 CLAIM-168 CLAIM-172 THEORY-071 — Open or Proposed; the question, claims and account this reading bears on, named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection, not as standing -->
