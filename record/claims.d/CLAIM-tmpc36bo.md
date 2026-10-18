@@ -44,8 +44,8 @@ summary: >-
 
 ## The claim
 
-Let components i = 1, …, k have abundances (or influence weights)
-n_i ≥ 0 and niche or feature vectors u_i ∈ ℝᵐ, the columns of U. Let
+Let components i = 1, …, k have abundances, or unnormalized participation
+intensities, n_i ≥ 0 and niche or feature vectors u_i ∈ ℝᵐ, the columns of U. Let
 b ∈ ℝᵐ be the environmental supply or target signal and c_i ≥ 0 a
 maintenance cost. Assume
 
@@ -99,6 +99,34 @@ lacked. In the potential case, ecological coexistence of differentiated
 components is the same mathematics as sparse feature selection, and the
 recovery test of [QUESTION-083](../questions.d/QUESTION-083.md) is a marginal-value test. It also marks
 exactly where the bridge ends (below).
+
+## Two boundaries of application
+
+**Abundance is not a normalized share of authority.** The theorem is about
+nonnegative, unconstrained abundances. Influence in an organization is
+often relational, budgeted or competitive, and normalized so that
+Σ w_i = 1. That is a different dynamical model. If the shares are read
+off the abundances, w_i = n_i / Σ_j n_j, then with f_i(n) = −∂_i L(n):
+
+  ẇ_i = w_i ( f_i(n) − Σ_j w_j f_j(n) ).
+
+This is a replicator equation, not the gradient flow on the orthant. If
+instead fitness is evaluated directly at w on the simplex, the
+equilibrium conditions carry a common Lagrange multiplier: ∂_i L(w) = λ
+for every active component, not ∂_i L = 0. So the equivalence between
+ecology and optimization does not automatically survive a change from
+abundance dynamics to conserved authority shares. Normalized endorsement
+is a separate model, and this claim does not cover it. (A point from the
+owner's review of the filing, relayed 2026-10-18.)
+
+**The algebra holds for any U; the ecological reading needs a sign
+condition.** The gradient-flow correspondence holds for arbitrary real
+feature vectors, because UᵀU is positive semidefinite. But signed feature
+vectors can have negative inner products. Then some off-diagonal entries
+of A are negative, and the corresponding Lotka–Volterra interaction is
+facilitative, not competitive. Reading A as a matrix of competitive niche
+overlaps also needs nonnegative off-diagonal interactions, as in models
+whose resource-use vectors are nonnegative.
 
 ## What it does not say
 

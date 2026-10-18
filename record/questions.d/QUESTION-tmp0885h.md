@@ -42,7 +42,10 @@ outcomes look alike from usage statistics and differ in kind:
    residue.
 
 **A recovery exponent.** Suppose operator i has influence w_i(t) and
-contribution F_i(c_t, w_t), with ẇ_i = w_i F_i(c_t, w_t). While the others
+contribution F_i(c_t, w_t), with ẇ_i = w_i F_i(c_t, w_t). Here w_i is an
+unnormalized participation intensity. If influence is a normalized share,
+the dynamics are of replicator type and F_i is measured against the
+population mean (CLAIM-tmpc36bo, "Two boundaries of application"). While the others
 follow a resident regime and i is very rare, its long-run recovery
 exponent is
 
@@ -66,16 +69,48 @@ when its contexts recur. A process may not merit continuous presence in
 the active coalition and still merit preservation as a dormant
 capability.
 
-**An ablation the answer needs.** In multiplicative dynamics zero is
-absorbing. Testing recovery needs some reintroduction or exploration. The
-mechanism that supplies those rare opportunities must be kept apart from
-the population's own stabilizing dynamics. A model does not exhibit
+**An ablation the answer needs.** Because zero is absorbing under
+multiplicative dynamics, recovery should first be tested from small
+positive abundance or influence, n_i(0) = ε > 0. The specialist then
+recovers or declines under the resident dynamics with no continuing
+intervention. That is how an invasion exponent is normally evaluated.
+Externally supplied reintroduction and internally maintained exploration
+are distinct interventions. The first cannot establish endogenous
+maintenance. The second may be an organizational mechanism of
+persistence, and so may be one of the achievements under study, but its
+origin, resource cost and causal role must be established independently.
+The first filing said testing recovery "needs some reintroduction" and
+put the supplying mechanism outside the organization. The owner's review
+corrected both: the endogenous protection of rare specialists should not
+be defined away before it is studied. A model does not exhibit
 coexistence merely because a programmed lower bound on influence keeps
 every operator above zero. Uniformity-promoting objectives
 ([THEORY-306](../theory.d/THEORY-306.md), the equal-cluster prior of joint-embedding objectives) are
 the representation-learning version of imposed diversity. A specialist
 useful 1% of the time need not be active 20% of the time because there
 are five specialists.
+
+**Three ways to keep a specialist.** Recovering influence when the context
+returns is one achievement. The organization might instead:
+
+1. maintain the specialist through **active participation**;
+2. maintain it as a **dormant but recoverable** capability, kept without
+   being continuously activated;
+3. **reconstruct** a lost specialist through later learning.
+
+These can differ greatly in cost and resilience. Dormant preservation is
+the analogue of memory, organizational archives and protected minority
+expertise. It is also why positive long-run invasion growth need not be
+the only criterion of valuable coexistence. Whether retention without
+activation is possible when training follows influence is
+QUESTION-tmpn0znj's question.
+
+**Nonlinear transitions.** Coexistence and exclusion can change abruptly
+with parameters, which bears on the open nonlinear-transition questions
+(QUESTION-125; CLAIM-330 on the coupled loop; THEORY-136 on what evidence
+shows alternative stable states). A model with positive feedback and
+exclusion is not thereby bistable, and it need not have a cusp. That has
+to be shown in the model, not inferred from the ingredients.
 
 ## What would answer it
 

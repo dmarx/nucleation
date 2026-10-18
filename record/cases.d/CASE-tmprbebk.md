@@ -43,6 +43,8 @@ assumptions about the organization.
 | diversity mechanism | none; fixed usage balancing; endogenous recovery feedback |
 | environment | stationary; recurring regimes; abrupt distribution shifts |
 | specialist loss | temporary suppression; complete removal; reintroduction |
+| recovery opportunities | none beyond a small positive start; externally supplied reintroduction; internally maintained exploration or reactivation |
+| authority-update rule | fixed by the modeller; revisable by the organization |
 
 **Baseline.** Ordinary mixture-of-experts learning with contextual
 routing. Without it, the study risks rediscovering specialization that
@@ -79,11 +81,25 @@ to tell a functional niche from the mere frequency of its contexts.
 
 ## The decisive comparisons
 
-- **Same usage, different mechanism.** Hold the final diversity of
-  operator usage roughly constant while varying what produced it: fixed
-  usage balancing against endogenous recovery feedback. If they match on
-  usage and differ in recovery dynamics, the difference between equal
-  allocation and stabilizing coexistence is measurable.
+- **Same participation, different mechanism.** Hold participation
+  roughly constant while varying what maintains it: fixed usage
+  balancing against endogenous recovery feedback. Matching the overall
+  usage distribution is not enough. Two systems can share it while giving
+  experts different contexts, training different distributions or
+  performing differently. So match, as far as they can be matched
+  together, context-conditioned participation, task performance and
+  resource budget. If systems matched on these differ in recovery
+  dynamics, the difference between equal allocation and stabilizing
+  coexistence is measurable.
+- **Fixed rule against revisable rule.** Learning within a fixed
+  authority-update rule can show endogenous differentiation under fixed
+  learning machinery. An organization that revises the rule itself is the
+  stronger result, the one relevant to CLAIM-284's self-governing
+  organization. The design keeps them as separate conditions.
+- **Active, dormant and reconstructed specialists.** Compare keeping a
+  specialist through active participation, keeping it as a dormant but
+  recoverable capability, and rebuilding it by later learning, on cost and
+  on resilience (QUESTION-tmp0885h).
 - **Coupled against decoupled exposure.** This tests [QUESTION-tmpn0znj](../questions.d/QUESTION-tmpn0znj.md):
   whether influence-dependent training destroys a marginalized
   specialist's competence.
@@ -91,10 +107,15 @@ to tell a functional niche from the mere frequency of its contexts.
   they change at the same parameter thresholds ([QUESTION-125](../questions.d/QUESTION-125.md)).
 
 **Main threat to inference.** An external mechanism that supplies rare
-opportunities, such as reintroduction or exploration, can look like
-endogenous recovery. In multiplicative dynamics zero is absorbing, so
-some reintroduction is needed to measure recovery at all. Its rate must
-be an experimental factor, not part of the organization.
+opportunities can look like endogenous recovery. Zero is absorbing under
+multiplicative dynamics, so recovery is first measured from a small
+positive start, with no further intervention. Externally supplied
+reintroduction and internally maintained exploration are separate
+conditions. The external one cannot show endogenous maintenance. The
+internal one may be an organizational achievement in its own right, if
+its origin, cost and causal role are established independently. The
+first version of this design placed every such mechanism outside the
+organization; the owner's review corrected that.
 
 ## What the outcomes would show, and what they would not
 

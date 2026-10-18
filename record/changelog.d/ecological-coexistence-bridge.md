@@ -27,6 +27,13 @@
   [LIT-tmpjbnh7](record/literature.d/LIT-tmpjbnh7.md), is held in both records under [ADR-013](record/decisions.d/ADR-013.md), beside
   [ANTH-LIT-298](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-298.md).
 
+- Revised before merge at the owner's review: the bridge is stated for
+  abundances, not normalized authority shares, with a sign condition for
+  the competitive reading; recovery is tested from a small positive start,
+  and internally maintained exploration is separated from external
+  reintroduction; the study matches context-conditioned participation and
+  separates fixed from revisable authority rules.
+
 ### Documentation
 
 - Dated notes on [QUESTION-083](record/questions.d/QUESTION-083.md), [CLAIM-277](record/claims.d/CLAIM-277.md) and [CLAIM-185](record/claims.d/CLAIM-185.md).
