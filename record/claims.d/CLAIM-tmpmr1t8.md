@@ -1,77 +1,164 @@
 ---
-# Don't copy this file by hand — run `luria new claim`, which assigns the
-# code. A CLAIM is the record's OWN proposition, not a reading of someone
-# else's: a reading is a THEORY, and a claim rests on it (ADR-032).
-
-# Active | Proposed | Deferred | Superseded | Rejected — whether the record
-# BELIEVES it. Same words and meanings as a THEORY's. An answered objection
-# is a counter that went Rejected; a conceded one went Active.
 status: Proposed
-
-# One sentence, stated as a finding. Repeat it as the `# CLAIM-…:` heading.
-title: 'Conflict settled among processes costs less than conflict escalated to a mediating higher level'
-
+title: 'Recurring conflict among an agent''s processes costs the agent less when the processes settle it among themselves than when it is escalated to a higher-level process that mediates or overrides, so the extra effort of a divided agent is the cost of escalation, which learned local accommodation can amortize where the conflict admits one'
 version: 1
-
-# thesis | counter | granted | disclaimed | supposed — whose voice this is
-# in. Independent of status; the mismatched pairs are the information.
 role: thesis
-
-# demonstrated | empirical | interpretive — how the claim AS STATED is
-# supported (ADR-043): by proof or construction, by observation, or by
-# argument and synthesis. Independent of status and role: a theorem whose
-# reading is disputed is demonstrated and Proposed. Never inherited: a claim
-# resting on a demonstrated one is not demonstrated for that. If parts of the
-# claim are warranted differently, split it; do not pick one. REQUIRED.
 warrant: interpretive
-
-# REQUIRED for a thesis: what would defeat it. A kind of result or argument,
-# stated so that the wrong kind cannot satisfy it.
 defeated_if: >-
-  The kind of result or argument that would defeat this.
-
+  A comparison at matched task, outcome and execution cost in which agents
+  (or model organizations) whose recurring conflicts are settled locally
+  spend no less in total on resolving them, local negotiation and
+  supervision together, than agents that escalate them to a mediating or
+  overriding process. Or a showing that settling a recurring conflict
+  locally costs at least as much as mediating it even where a stable local
+  accommodation exists. Not defeated by a conflict that admits no stable
+  accommodation, where the claim allows mediation to be cheaper, nor by
+  high effort in carrying out the task, which the claim does not price.
 tags:
-- agency
-
+- behavioral-integration
+- self-governance
+- cognition
 date: '2026-10-18'
-
-# REQUIRED: the line or lines of inquiry, from `lines` in luria.yaml. The
-# claims index is grouped by it, and the `argument` chain reports a
-# `rests_on` step that crosses from one line to another (ADR-032). A general
-# result that rests on no claim may also hold `formal-apparatus`, so that
-# setting its first line aside does not retire it (ADR-040).
 line:
 - will-organization
-
-# Optional. The manuscript(s) this claim is marshalled into.
-# works:
-# - organization-of-will
-
-# Relations, each optional; converses are written by `luria link --fix`.
-# `rests_on` names the record's own claims this one could not stand without —
-# the spine the `argument` chain walks. `grounds` names evidence from outside
-# it: THEORY (a reading), CASE, or LIT (a work cited without a reading, the
-# weakest). `objects_to` names a CLAIM (rebut or undermine) and is the thread
-# the `dialectic` chain walks; `undercuts` names an ARG whose inference this
-# denies.
-# answers: [QUESTION-000]
-# rests_on: [CLAIM-000]
-# grounds: [THEORY-000]
-# objects_to: [CLAIM-000]
-# undercuts: [ARG-000]
-# complements: [CLAIM-000]
-# uses: [TERM-000]
-
+answers:
+- QUESTION-054
+rests_on:
+- CLAIM-261
+grounds:
+- THEORY-070
+- THEORY-056
+- THEORY-062
+- THEORY-149
+- CASE-tmpffqbr
+complements:
+- CLAIM-162
+uses:
+- TERM-tmpnfj83
+summary: >-
+  The owner's, U45 of the exchange of 2026-10-17: "processes which can
+  navigate disagreement amongst themselves require fewer resources from
+  the system than processes which need to activate additional subsystems
+  to resolve disagreement." A45 put it in conditional form: where a
+  recurring conflict admits a stable local accommodation, learning it
+  amortizes the cost of higher-order mediation. It refines CLAIM-261's
+  "pays for its unity in effort": the divided agent pays for escalation.
+  The sharp edge: it does not say local settlement is always cheaper, that
+  an integrated agent works less hard, or anything about authenticity.
 ---
+<!-- inactive-ok-file: CLAIM-261 CLAIM-162 CLAIM-163 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-tmpqofon CLAIM-tmptg7io — Proposed; the claims and readings this one rests on or is set beside, open -->
 
-<!-- unresolved-ok-file: QUESTION-000, THEORY-000, CLAIM-000, TERM-000, ARG-000 — the placeholders a new document replaces -->
-
-# CLAIM-tmpmr1t8: Conflict settled among processes costs less than conflict escalated to a mediating higher level
+# CLAIM-tmpmr1t8: Recurring conflict among an agent's processes costs the agent less when the processes settle it among themselves than when it is escalated to a higher-level process that mediates or overrides, so the extra effort of a divided agent is the cost of escalation, which learned local accommodation can amortize where the conflict admits one
 
 ## The claim
 
-The claim in a paragraph, and the argument for it if no ARG carries it.
+A44 of the exchange of 2026-10-17 corrected what it called "the
+simplistic assumption that authenticity reduces effort", on the strength
+of the self-concordance model (THEORY-077): "**An authentically
+maintained goal may demand more effort, not less.**" The owner, at U45,
+said what the effort they had meant was:
+
+> The "more effortful" intrapersonal conflict case is the one in which the
+> internal modules don't negotiate amongst themselves and instead require
+> escalating to higher level processes to mediate. My idea here was that
+> processes which can navigate disagreement amongst themselves require
+> fewer resources from the system than processes which need to activate
+> additional subsystems to resolve disagreement.
+
+So the effort in question is not the effort of doing the task. It is the
+effort of resolving the conflict, and the claim locates it in escalation.
+A45 restated it: "**When constituent processes can negotiate compatible
+courses of action through their own interactions, the organization may
+avoid the additional regulatory cost of repeatedly escalating their
+disagreements to higher-order control.**"
+
+A45 then narrowed it. "However, this does **not** establish that
+decentralized negotiation always costs less. Dense local communication may
+be expensive. A centralized mediator can sometimes resolve a difficult
+disagreement faster and more accurately than repeated peer negotiation."
+Its conditional form, which this claim holds:
+
+> **Where recurring conflicts admit stable local accommodation, learning
+> that accommodation can amortize the cost of higher-order mediation
+> across future encounters.**
+
+The claim is about recurring conflict, and about what the agent spends
+over many encounters, not on one.
+
+## Why the record holds it
+
+- **Escalation has a price because control is specified apart from where
+  it is carried out.** On the expected-value-of-control account
+  (THEORY-070), how much control to exert is decided in a specification
+  system distinct from the structures that implement it, at a cost that
+  rises with intensity. That is the mechanism the owner's "activate
+  additional subsystems" needs. A conflict settled without recruiting
+  that system does not pay it.
+- **Conflict can be settled without a supervisor.** One motive state
+  checks another with no regulating system above them (THEORY-056).
+  Which controller governs can follow relative reliability, not the
+  preference of a supervisor (THEORY-062). These are the local routes.
+- **The institutional form is Ostrom's.** Among the regularities of
+  durable self-governance without central control is "cheap local
+  conflict resolution" (THEORY-149, Active).
+- **The record already said the idle supervisor.** CLAIM-162 predicts
+  that in flow "Low effort is low specification, not cheap control", and
+  adds that "a supervisor with nothing to arbitrate may idle". This claim
+  extends that from agreement in value to negotiation among processes
+  that still disagree.
+- **It refines CLAIM-261.** The owner's position of 2026-10-12 is that a
+  divided agent acts as one, and that "The divided agent pays for its
+  unity in effort, devices and lapses." This claim says what the payment
+  is for: escalation. A divided agent whose processes settle their
+  disagreement among themselves pays less, though it stays divided.
+
+The owner's case (CASE-tmpffqbr) holds the task, the commitment, the
+output and the effort of the work fixed, and varies only how the
+conflict is settled.
+
+A45 also gave a cost decomposition, C_total = C_execution + C_local +
+C_supervision + C_maintenance, with the hypothesis ΔC_supervision > 0 for
+the escalating agent against the accommodating one. It is notation: "These
+terms would need operational definitions". The claim is that C_local +
+C_supervision, summed over recurring encounters, is lower where a stable
+accommodation has been learned.
+
+## What it answers
+
+QUESTION-054 asks whether there is a governing level among an agent's
+regimes or whether governance is their interaction. The owner's view
+answers both sides. A governing level exists, and it is recruited when
+the regimes cannot settle a conflict. Where they can, it is not. A45: "The
+higher-order governance remains available but ceases to be the main
+mechanism producing each successful action." A47 put it most briefly:
+"**The achievement of governance may be to make its repeated exercise
+unnecessary.**" On this answer THEORY-070 and THEORY-056/THEORY-062 describe
+two regimes of one agent, not rival accounts of it.
+
+The settling-among-themselves is practical synchronization in
+TERM-tmpnfj83's sense, not in TERM-050's: the processes need not rank the
+same course first.
 
 ## What it does not say
 
-The stronger reading it invites and does not support.
+- **That local settlement is always cheaper.** A conflict with no stable
+  accommodation, or one that needs a global constraint, may be cheaper to
+  mediate. A47: "This is not a universal argument for decentralization."
+- **That an integrated agent works less hard.** A45: "That doesn't imply
+  authentic action is always effortless." The effort of the work itself
+  can be high, and on THEORY-077 is often higher for goals held for their
+  own sake. A44's correction stands for that effort. The owner's point
+  concerns the other one.
+- **Anything about authenticity.** The owner tied this economy to
+  authenticity at U45; that is CLAIM-tmpqofon. Low supervisory cost does
+  not show non-domination, because a dominated organization can also be
+  efficient (CLAIM-tmptg7io). A45: "low strain alone cannot establish
+  authenticity".
+- **That the processes are identifiable modules.** A45's figure caption:
+  "Conceptual comparison, not a claim about identifiable neural modules."
+- **That learned accommodation is a stage every agent reaches.** A45's
+  three-stage sequence (recurrent conflict, learned accommodation,
+  maintained revisable coordination) is "not a necessary progression", and
+  it is not filed as a claim.
+- **That "synchronization" now has its mechanism.** CLAIM-163's objection
+  stands. The claim gives it candidates, not an answer.
