@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**526 documents cited without acknowledgement.** Not listed: 10208 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**526 documents cited without acknowledgement.** Not listed: 10210 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1429,7 +1429,7 @@ Preference reversal is not yet disunity: interests that govern a choice at disjo
 - [`record/decisions.d/ADR-040.md:260`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-077.md:61`](../../record/questions.d/QUESTION-077.md)
 - [`record/questions.d/QUESTION-130.md:87`](../../record/questions.d/QUESTION-130.md)
-- [`record/terms.d/TERM-061.md:63`](../../record/terms.d/TERM-061.md)
+- [`record/terms.d/TERM-061.md:65`](../../record/terms.d/TERM-061.md)
 
 ### [CLAIM-354](../../record/claims.d/CLAIM-354.md) — Proposed
 
@@ -4046,6 +4046,15 @@ Willed agency is a kind between agency and selfhood: a control system whose beha
 - [`record/questions.d/QUESTION-046.md:20`](../../record/questions.d/QUESTION-046.md)
 - [`record/questions.d/QUESTION-046.md:35`](../../record/questions.d/QUESTION-046.md)
 
+### [CLAIM-156](../../record/claims.d/CLAIM-156.md) — Proposed
+
+Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were
+
+2 citations in 2 files await a look; 11 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-046.md:140`](../../record/decisions.d/ADR-046.md)
+- [`record/terms.d/TERM-061.md:64`](../../record/terms.d/TERM-061.md)
+
 ### [CLAIM-167](../../record/claims.d/CLAIM-167.md) — Proposed
 
 One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership
@@ -5247,14 +5256,6 @@ A probe family that supplies a transformation's training signal cannot also cert
 
 - [`record/decisions.d/ADR-040.md:173`](../../record/decisions.d/ADR-040.md)
 
-### [CLAIM-156](../../record/claims.d/CLAIM-156.md) — Proposed
-
-Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were
-
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
-
-- [`record/terms.d/TERM-061.md:62`](../../record/terms.d/TERM-061.md)
-
 ### [CLAIM-158](../../record/claims.d/CLAIM-158.md) — Proposed
 
 Systems differ in whether "who drives?" has an answer at a given level of description, and the kinds form a spectrum: fully top-down, bidirectional, emergent from the whole, and between
@@ -5277,7 +5278,7 @@ Flow is intrapersonal synchronization: when an activity's immediate reward and i
 
 1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
-- [`record/terms.d/TERM-061.md:63`](../../record/terms.d/TERM-061.md)
+- [`record/terms.d/TERM-061.md:65`](../../record/terms.d/TERM-061.md)
 
 ### [CLAIM-169](../../record/claims.d/CLAIM-169.md) — Proposed
 
@@ -5285,7 +5286,7 @@ On Ainslie's account the population of interests is produced by desynchronized v
 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/terms.d/TERM-061.md:63`](../../record/terms.d/TERM-061.md)
+- [`record/terms.d/TERM-061.md:65`](../../record/terms.d/TERM-061.md)
 
 ### [CLAIM-171](../../record/claims.d/CLAIM-171.md) — Proposed
 

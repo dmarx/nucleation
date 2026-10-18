@@ -2,7 +2,7 @@
 
 # How the terms changed
 
-7 lines, walked from `supersedes:` on TERM documents. Each step explains itself; this page is the order they came in.
+6 lines, walked from `supersedes:` on TERM documents. Each step explains itself; this page is the order they came in.
 
 ## From fidelity, as the number of preserved constraints
 
@@ -36,11 +36,6 @@
 
 - [TERM-032](../record/terms.d/TERM-032.md) — levels, as a hierarchy of latent representations *(Superseded)*
   - [TERM-009](../record/terms.d/TERM-009.md) — levels, as levels at which observables exist *(Active)*
-
-## From fidelity, as a weighted three-term directed distortion
-
-- [TERM-010](../record/terms.d/TERM-010.md) — fidelity, as a weighted three-term directed distortion *(Active)*
-  - [TERM-043](../record/terms.d/TERM-043.md) — fidelity, as a profile of directed distortions compared component by component *(Active)*
 
 ## From fidelity, as observational equivalence over response trajectories
 

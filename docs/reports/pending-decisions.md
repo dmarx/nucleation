@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**837 document(s) awaiting a decision.**
+**838 document(s) awaiting a decision.**
 
 ## LITs
 
-87 of the 837.
+87 of the 838.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -103,7 +103,7 @@
 
 ## THEORYs
 
-512 of the 837.
+512 of the 838.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -622,15 +622,16 @@
 
 ## ADRs
 
-1 of the 837.
+2 of the 838.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-10-13 | Proposed | [ADR-041](../../record/decisions.d/ADR-041.md) | 279 | 279 | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred |
+| 2026-10-18 | Proposed | [ADR-046](../../record/decisions.d/ADR-046.md) | 2 | 0 | A TERM may be Proposed, and rival, complement or narrow another |
 
 ## QUESTIONs
 
-9 of the 837.
+9 of the 838.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -646,7 +647,7 @@
 
 ## CLAIMs
 
-223 of the 837.
+223 of the 838.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -774,7 +775,7 @@
 | 2026-10-11 | Proposed | [CLAIM-170](../../record/claims.d/CLAIM-170.md) | 18 | 0 | The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-166](../../record/claims.d/CLAIM-166.md) | 17 | 9 | A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest |
 | 2026-10-11 | Proposed | [CLAIM-175](../../record/claims.d/CLAIM-175.md) | 16 | 0 | A partner-dancing couple, while dancing, is one combined cognitive form on the extended-mind thesis's own terms, more clearly than Otto and his notebook, and merits a name of its own |
-| 2026-10-11 | Proposed | [CLAIM-156](../../record/claims.d/CLAIM-156.md) | 12 | 1 | Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were |
+| 2026-10-11 | Proposed | [CLAIM-156](../../record/claims.d/CLAIM-156.md) | 13 | 2 | Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were |
 | 2026-10-11 | Proposed | [CLAIM-178](../../record/claims.d/CLAIM-178.md) | 12 | 5 | A manuscript should be a view over the argument and not its only copy: a draft written straight from an exchange drops commitments and changes its thesis without saying so, and both become visible only against a record where claims carry status and inclusion separately |
 | 2026-10-11 | Proposed | [CLAIM-191](../../record/claims.d/CLAIM-191.md) | 12 | 2 | Restating an argument across memoryless sessions is iterated transport with only a weak channel back to the source: without anchors, restatements drift toward the collaborators' own framings rather than at random, and a code restores continuity of transmission |
 | 2026-10-11 | Proposed | [CLAIM-155](../../record/claims.d/CLAIM-155.md) | 11 | 2 | Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject |
@@ -876,7 +877,7 @@
 
 ## CASEs
 
-1 of the 837.
+1 of the 838.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -884,7 +885,7 @@
 
 ## TERMs
 
-2 of the 837.
+2 of the 838.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -893,7 +894,7 @@
 
 ## ARGs
 
-2 of the 837.
+2 of the 838.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
