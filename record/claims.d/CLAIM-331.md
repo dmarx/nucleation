@@ -95,3 +95,28 @@ variables outlast the rosters and supporters that carry them.
 - **Not that the slow state and the slow mechanism coincide.** A8: "A
   variable's persistence is not, by itself, evidence of the persistence
   of the organization that generates it."
+
+## Note of 2026-10-18: governance timescales, and two cases of slowness without governing
+
+The exchange of 2026-10-17 used this claim three times without citing it,
+and twice confirmed its own limit.
+
+- **Applied to volition.** A20 §4 drew a hierarchy of "effective
+  volition" by timescale: momentary action ("Seconds–minutes"), a
+  governance regime of habits, plans and control allocation
+  ("Days–months"), and organizational continuity ("Months–years"), with
+  the caption "Schematic levels, not a demonstrated RG hierarchy". That is
+  this claim's temporal facet applied to will-organization.
+- **The slower process need not govern.** At U37 the owner pointed to the
+  two-timescale update rule of the GAN literature (Heusel et al. 2017,
+  ANTH-LIT-611, held in the anthology for FID; CASE-041). A37: "the slower
+  process in TTUR is the generator, not a higher-order will-controller.
+  Slowness alone supplies no authority or motivational hierarchy." And: "A
+  slowly moving generator parameter ordinarily does not, merely by being
+  slow." That is this claim's "slowness is a mark of a level and not its
+  definition", in a case the record had not used.
+- **A slow variable no member reads.** Arm A of CASE-tmpxqgai (U3–U4): a
+  register that flips with probability 0.01 per step, second eigenvalue
+  0.98, while the members are resampled and never read it. Strong
+  timescale separation, no level. It is the construction behind "Not that
+  a slow variable is a level" above.

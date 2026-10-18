@@ -85,3 +85,19 @@ that the signs assumed hold in any implementation of [CASE-092](CASE-092.md); or
 capture lowers fidelity, which is [CLAIM-297](../claims.d/CLAIM-297.md)'s further claim. It is the
 textbook instability condition for a positive 2×2 linear system, applied
 to this reading of the coupling. Fictional by construction.
+
+## Note of 2026-10-18: a proposed extension with demands and a feasible-update oracle
+
+A39 §3 of the exchange of 2026-10-17 proposed extending this case as its
+"case study 2": "The new experiment would add explicit competing demands
+and a feasible-update oracle. It would ask whether interpretation–
+endorsement feedback can make a system persistently fail to use an
+available satisfactory update." The oracle computes the residual Φ of
+CLAIM-tmpue67e, so the extension would separate structural from
+governance-induced frustration (CLAIM-tmpl8vsy) in this model. Its key
+contrast, "endorsement based on independent performance evidence versus
+endorsement scored through the interpretations whose authority is being
+evaluated", is not new: it is Regime B against the γ arrow here, and
+CLAIM-342's and CLAIM-297's thesis. A39 called it "the best candidate for
+an early discriminating experiment". A40's Study C restates it. Not run.
+The dynamics it would need are QUESTION-tmp82n3z's.
