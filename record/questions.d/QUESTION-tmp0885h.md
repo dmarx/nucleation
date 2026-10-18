@@ -45,7 +45,7 @@ outcomes look alike from usage statistics and differ in kind:
 contribution F_i(c_t, w_t), with ẇ_i = w_i F_i(c_t, w_t). Here w_i is an
 unnormalized participation intensity. If influence is a normalized share,
 the dynamics are of replicator type and F_i is measured against the
-population mean (CLAIM-tmpc36bo, "Two boundaries of application"). While the others
+population mean ([CLAIM-tmpc36bo](../claims.d/CLAIM-tmpc36bo.md), "Two boundaries of application"). While the others
 follow a resident regime and i is very rare, its long-run recovery
 exponent is
 
@@ -103,11 +103,11 @@ the analogue of memory, organizational archives and protected minority
 expertise. It is also why positive long-run invasion growth need not be
 the only criterion of valuable coexistence. Whether retention without
 activation is possible when training follows influence is
-QUESTION-tmpn0znj's question.
+[QUESTION-tmpn0znj](QUESTION-tmpn0znj.md)'s question.
 
 **Nonlinear transitions.** Coexistence and exclusion can change abruptly
 with parameters, which bears on the open nonlinear-transition questions
-(QUESTION-125; CLAIM-330 on the coupled loop; THEORY-136 on what evidence
+([QUESTION-125](QUESTION-125.md); [CLAIM-330](../claims.d/CLAIM-330.md) on the coupled loop; [THEORY-136](../theory.d/THEORY-136.md) on what evidence
 shows alternative stable states). A model with positive feedback and
 exclusion is not thereby bistable, and it need not have a cusp. That has
 to be shown in the model, not inferred from the ingredients.

@@ -21,7 +21,7 @@ summary: >-
   routing is the baseline. Even positive results would not show
   self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)).
 ---
-<!-- inactive-ok-file: CLAIM-266 CLAIM-277 CLAIM-288 CLAIM-347 CLAIM-362 CLAIM-367 THEORY-239 THEORY-514 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-266 CLAIM-277 CLAIM-288 CLAIM-347 CLAIM-362 CLAIM-367 THEORY-239 THEORY-514 CLAIM-284 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # CASE-tmprbebk: Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity
 
@@ -94,12 +94,12 @@ to tell a functional niche from the mere frequency of its contexts.
 - **Fixed rule against revisable rule.** Learning within a fixed
   authority-update rule can show endogenous differentiation under fixed
   learning machinery. An organization that revises the rule itself is the
-  stronger result, the one relevant to CLAIM-284's self-governing
+  stronger result, the one relevant to [CLAIM-284](../claims.d/CLAIM-284.md)'s self-governing
   organization. The design keeps them as separate conditions.
 - **Active, dormant and reconstructed specialists.** Compare keeping a
   specialist through active participation, keeping it as a dormant but
   recoverable capability, and rebuilding it by later learning, on cost and
-  on resilience (QUESTION-tmp0885h).
+  on resilience ([QUESTION-tmp0885h](../questions.d/QUESTION-tmp0885h.md)).
 - **Coupled against decoupled exposure.** This tests [QUESTION-tmpn0znj](../questions.d/QUESTION-tmpn0znj.md):
   whether influence-dependent training destroys a marginalized
   specialist's competence.
