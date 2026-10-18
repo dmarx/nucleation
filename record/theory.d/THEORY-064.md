@@ -49,6 +49,8 @@ summary: >-
 supports:
 - CLAIM-156
 - CLAIM-355
+extended_by:
+- THEORY-tmp6ib7r
 ---
 <!-- inactive-ok-file: LIT-467 — Unavailable; Being No One, named as the unread book that could move this, not leaned on -->
 <!-- inactive-ok-file: THEORY-029 THEORY-044 THEORY-045 THEORY-051 THEORY-063 THEORY-060 — Proposed; the accounts this one bears on, named in prose, nothing here rests on them -->
