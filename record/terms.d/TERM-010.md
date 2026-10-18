@@ -18,7 +18,7 @@ summary: >-
   functional".
 used_by:
 - CLAIM-048
-superseded_by:
+refines:
 - TERM-043
 ---
 
