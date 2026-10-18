@@ -185,6 +185,6 @@ connection". Three things bear on it.
 - **Delayed gratification is the precedent for resolve.** The behavioural
   mark here, an energy function different from the objective that "goes
   uphill in a specific direction that leads to lower points in the long
-  term", is what A35 §3 meant by a system that may "deliberately worsen
+  term", is what A35 §4 meant by a system that may "deliberately worsen
   some objective now", and what A37 and A39 developed as resolve. None of
   A34–A40 cited this reading for it.
