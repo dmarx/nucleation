@@ -1219,6 +1219,39 @@ schemes:
         required: false
         many: true
         converse: superseded_by
+      rivals:
+        label: Rival definition
+        blurb: 'another definition of the same concept that cannot be adopted beside this one for the same
+          use, where neither has yet replaced the other. A Proposed term rivals the Active one it would
+          replace. Settled, the winner `supersedes` the loser, which goes Superseded, or Rejected if it
+          was never adopted (ADR-046)'
+        scheme: TERM
+        required: false
+        many: true
+        converse: rivals
+      complements:
+        label: Complements
+        blurb: another definition in force beside this one, for a different sense or dimension of the
+          same subject. Neither competes with nor replaces the other (ADR-046)
+        scheme: TERM
+        required: false
+        many: true
+        converse: complements
+      refines:
+        label: Narrows
+        blurb: the broader term this one is a special case of, fixed by further conditions. The broader
+          term does not replace it; both stay in force (ADR-046)
+        scheme: TERM
+        required: false
+        many: true
+        converse: refined_by
+      refined_by:
+        label: Narrowed by
+        blurb: the special cases of this term that stay in force beside it, written by `luria link --fix`
+        scheme: TERM
+        required: false
+        many: true
+        converse: refines
     fields:
       status:
         vocabulary: statuses
