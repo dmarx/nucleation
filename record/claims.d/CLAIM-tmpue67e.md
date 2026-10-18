@@ -34,7 +34,7 @@ summary: >-
   form). Governance regret Γ is the gap between an actual admissible
   update's shortfall and Φ_r, and is never negative. For L₁ = (θ − 1)²,
   L₂ = (θ + 1)² at θ = 0, Φ_r = ε for every r. The sharp edge: per A37 it
-  is a cardinal refinement of the ordinal fact (CLAIM-tmp55mls), and its
+  is a cardinal refinement of the ordinal fact ([CLAIM-tmp55mls](CLAIM-tmp55mls.md)), and its
   magnitude depends on units (A36 §2D).
 ---
 
@@ -87,11 +87,11 @@ as linear programs agreed to within 10⁻¹⁴.
 
 ## The worked case
 
-K07 (CASE-tmpuc54q), A35 §3.4: L₁ = (θ − 1)², L₂ = (θ + 1)², θ ∈ ℝ, at
+K07 ([CASE-tmpuc54q](../cases.d/CASE-tmpuc54q.md)), A35 §3.4: L₁ = (θ − 1)², L₂ = (θ + 1)², θ ∈ ℝ, at
 θ = 0, with ε₁ = ε₂ = ε. Here g₁ = −2, g₂ = 2, and ‖·‖_* = |·|. The dual
 value at λ = (½, ½) is ε − r·0 = ε, so Φ_r ≥ ε. Every d gives
 max(ε − 2d, ε + 2d) ≥ ε, with equality at d = 0, so Φ_r = ε for every
-r ≥ 0. No budget helps: this is structural frustration (CLAIM-tmpl8vsy).
+r ≥ 0. No budget helps: this is structural frustration ([CLAIM-tmpl8vsy](CLAIM-tmpl8vsy.md)).
 After K07's split into θ_A, θ_B, at (0, 0) with the Euclidean norm,
 Φ_r = ε − √2·r, which is positive only while r < ε/√2.
 
@@ -101,7 +101,7 @@ A39 §2A: if 𝒰 ⊆ ℝᵖ is convex, each A_i = {d ∈ 𝒰 : −g_iᵀd ≥ 
 so by Helly's theorem, when the demands cannot all be met, "some subset of
 at most p+1 demands already witnesses the incompatibility". A39 said what
 it is: "an application of an established theorem, not a new theorem". In
-the terms of CLAIM-tmp55mls, the minimal non-faces of the complex have at
+the terms of [CLAIM-tmp55mls](CLAIM-tmp55mls.md), the minimal non-faces of the complex have at
 most p + 1 members, and fewer when 𝒰 has lower affine dimension. The bound
 needs convexity, and A39: "nonlinear, discrete, or nonconvex learning
 constraints need not obey this same bound."
@@ -111,7 +111,7 @@ constraints need not obey this same bound."
 - **That the multipliers are endorsement weights.** A35: "Importantly,
   these dual multipliers are not endorsement weights." They certify
   difficulty; the weights governance actually assigns are another matter
-  (CLAIM-tmpl8vsy, QUESTION-tmpkzu6g).
+  ([CLAIM-tmpl8vsy](CLAIM-tmpl8vsy.md), [QUESTION-tmpkzu6g](../questions.d/QUESTION-tmpkzu6g.md)).
 - **That the magnitude means anything without units.** A36 §2D: "Even when
   all objectives are numerical, their units matter. Rescaling one loss
   function can change the scalar diagnosis unless we rescale and normalize
@@ -119,11 +119,11 @@ constraints need not obey this same bound."
   not, survives a consistent rescaling of g_i and ε_i together; its size
   does not. Per A37 the residual is "a quantitative refinement of a more
   basic order-theoretic feasibility problem, not the definition of
-  frustration itself", which is why it rests on CLAIM-tmp55mls.
+  frustration itself", which is why it rests on [CLAIM-tmp55mls](CLAIM-tmp55mls.md).
 - **Anything beyond the convex local model.** A34: it "applies to this
   local linearized, norm-constrained problem; additional nonconvex
   architectural or discrete update constraints require different
   analysis."
 - **That a change of chart changes it.** With the metric pulled back it is
-  invariant (CLAIM-tmpuia0a); with the Euclidean norm taken afresh in each
+  invariant ([CLAIM-tmpuia0a](CLAIM-tmpuia0a.md)); with the Euclidean norm taken afresh in each
   chart it is a different problem.

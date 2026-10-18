@@ -52,7 +52,7 @@ A recording in which one content is available to one consumer and demonstrably a
 
 ## Note of 2026-10-18: a third quantity, self-attribution
 
-A27 §7 of the exchange of 2026-10-17 took CLAIM-003 up and added a quantity
+A27 §7 of the exchange of 2026-10-17 took [CLAIM-003](../claims.d/CLAIM-003.md) up and added a quantity
 beside integration and access: "This suggests three separable quantities:
 integration, accessibility, self-attribution. We should not assume that any
 one determines the other two." Its narrower claim: "A coherent
@@ -63,7 +63,7 @@ degree of information sharing actually present."
 This question asks the access half for brains. The third quantity is new: a
 report of unity is a separate thing from both the integration and the access
 it seems to report, so a measurement of access cannot be read off what a
-system says about its own unity. CLAIM-tmpk7n2q places the unified owner in
+system says about its own unity. [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md) places the unified owner in
 that third quantity.
 
 A27's Experiment B, "Binding by restricted access", is the organizational
@@ -72,5 +72,5 @@ central policy integrate their outputs "without broadcasting all information
 to every participant", and "Determine whether coherent collective action
 persists when no constituent subsystem holds a complete account of the
 organization's situation." A27 credited the caution that compartmented
-behaviour does not show several conscious workspaces to THEORY-096; it is
-CLAIM-003's. Whether the line reopens is the owner's decision.
+behaviour does not show several conscious workspaces to [THEORY-096](../theory.d/THEORY-096.md); it is
+[CLAIM-003](../claims.d/CLAIM-003.md)'s. Whether the line reopens is the owner's decision.

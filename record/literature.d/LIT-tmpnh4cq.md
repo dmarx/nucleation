@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A41 of the exchange cited it as "an important complementary result" for robust governance under internal compromise: the capacity to challenge has to be protected, or the audit that robustness depends on goes quiet. Bears on CLAIM-tmpp9ox0 (robustness to compromised constituents is a property of the processes that allocate and audit authority) and CASE-tmp4nzjz.
+A41 of the exchange cited it as "an important complementary result" for robust governance under internal compromise: the capacity to challenge has to be protected, or the audit that robustness depends on goes quiet. Bears on [CLAIM-tmpp9ox0](../claims.d/CLAIM-tmpp9ox0.md) (robustness to compromised constituents is a property of the processes that allocate and audit authority) and [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md).

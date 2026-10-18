@@ -45,12 +45,12 @@ A mode of action readiness, defined for organizations, that is present across fi
 A27 §6 wrote the compressed self-description an organization may adopt:
 "*The organization is threatened.* *The organization wants to avoid the
 threat.* *The organization is afraid.*" That is this question's attribution,
-and A27 cited constructed-emotion theory only outside the record; THEORY-057
+and A27 cited constructed-emotion theory only outside the record; [THEORY-057](../theory.d/THEORY-057.md)
 is the record's reading of it.
 
 The owner's correction at U28, "'fear' is too specific. 'distress' is
 probably a lot easier to reason about within our framework", and the move at
-U33 from distress to frustration (CLAIM-tmpyk3it), sidestep part of this
+U33 from distress to frustration ([CLAIM-tmpyk3it](../claims.d/CLAIM-tmpyk3it.md)), sidestep part of this
 question. A regulation-defined condition, a failure to maintain or jointly
 realize what the organization maintains, is fixed by the organization's
 demands and capacities, not by an attributor's category. The Frijda/Barrett
@@ -59,7 +59,7 @@ Neither the exchange nor the record had said so. The sidestep holds only if
 the demands are the organization's own. A28 conceded that its measure's
 "interpretation depends on how K, costs, timescales, and admissible policies
 are chosen", and a choice made by whoever measures brings the attributor
-back in (CLAIM-288, THEORY-628).
+back in ([CLAIM-288](../claims.d/CLAIM-288.md), [THEORY-628](../theory.d/THEORY-628.md)).
 
 A27's Experiment A, collective fear without uniformly fearful members, in
 four conditions crossing internal coordination with a unified collective

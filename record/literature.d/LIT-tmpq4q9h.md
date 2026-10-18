@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A42 and A43 of the exchange named "Linehan's DBT" without citing a work, and A42 said, rightly, that the record had no treatment of it. The choice of this paper is the record's. Bears on CLAIM-tmp6ap9y, as the source of the dialectic of acceptance and change that RO DBT turns toward overcontrol.
+A42 and A43 of the exchange named "Linehan's DBT" without citing a work, and A42 said, rightly, that the record had no treatment of it. The choice of this paper is the record's. Bears on [CLAIM-tmp6ap9y](../claims.d/CLAIM-tmp6ap9y.md), as the source of the dialectic of acceptance and change that RO DBT turns toward overcontrol.

@@ -38,7 +38,7 @@ summary: >-
   a map says which reachable trajectories are valued functionings. His
   process aspect is in part what will-organization models: whether the
   agent's own governance selected the outcome. Read first-hand in
-  NOTE-263 (Sen's lecture) and NOTE-259 (Robeyns). The sharp edge:
+  [NOTE-263](../notes.d/NOTE-263.md) (Sen's lecture) and [NOTE-259](../notes.d/NOTE-259.md) (Robeyns). The sharp edge:
   reachable states are not capabilities, and an efficacious governance
   is not a fair or legitimate process.
 ---
@@ -55,10 +55,10 @@ reminiscent of ideas from moral philosophy, e.g. Amartya Sen capabilities
 account."
 
 The record holds Sen and has read him, but nothing joined capability to
-viability before this. THEORY-025 is conversion: equal resources leave
-unequal capabilities. THEORY-411 is the partial ordering left by
-unsettled weights. Sen's lecture, read in NOTE-263 (§XI, p. 199): liberty
-has an opportunity aspect and a process aspect. Robeyns, read in NOTE-259:
+viability before this. [THEORY-025](../theory.d/THEORY-025.md) is conversion: equal resources leave
+unequal capabilities. [THEORY-411](../theory.d/THEORY-411.md) is the partial ordering left by
+unsettled weights. Sen's lecture, read in [NOTE-263](../notes.d/NOTE-263.md) (§XI, p. 199): liberty
+has an opportunity aspect and a process aspect. Robeyns, read in [NOTE-259](../notes.d/NOTE-259.md):
 "Capabilities capture the opportunity aspect of freedom but not its
 process aspect".
 
@@ -76,38 +76,38 @@ reachable outcomes and will-organization."
   control theory does not supply it.
 - **Conversion is the dynamics.** A11's table puts Sen's conversion
   factors at "Dynamics, control authority, environmental constraints".
-  CLAIM-tmp1glr8 is a conversion fact: the same input buys Δ at cost Δ²/b²,
-  so equal means leave unequal reach, which is THEORY-025's thesis in
+  [CLAIM-tmp1glr8](CLAIM-tmp1glr8.md) is a conversion fact: the same input buys Δ at cost Δ²/b²,
+  so equal means leave unequal reach, which is [THEORY-025](../theory.d/THEORY-025.md)'s thesis in
   control terms.
 - **Process, in part.** A11: "One chooses it through deliberation and
   endorsement. The other is manipulated into choosing it. Their final
   functioning might be identical". Its proposal: will-organization as "**an
   explicit causal model of process freedom**". Whether the agent's own
-  maintained relations (CLAIM-027) decided which alternative became
+  maintained relations ([CLAIM-027](CLAIM-027.md)) decided which alternative became
   effective is a causal question, and that is the part of process freedom
   the account can model.
 - **No scalar without a standard.** A11, with Nussbaum: "**there is no
   uniquely privileged scalar of autonomy without an evaluative
-  standard.**" That is THEORY-411's partial ordering and CLAIM-tmpilfhr's.
+  standard.**" That is [THEORY-411](../theory.d/THEORY-411.md)'s partial ordering and [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md)'s.
 
 ## What it does not say
 
-- **Not all of the process aspect.** In Robeyns (NOTE-259) the process
+- **Not all of the process aspect.** In Robeyns ([NOTE-259](../notes.d/NOTE-259.md)) the process
   aspect sits with procedural fairness and basic liberties, and Sen's
   lecture discusses it for the liberal paradox in social choice. Those
   are about procedures among persons. Will-organization models whether an
   agent's own governance selected the outcome. It says nothing on whether
   the procedure was fair.
 - **Not legitimacy.** An efficacious, self-maintained governance can
-  serve bad ends, as a viable institution can be unjust (CLAIM-075). The
+  serve bad ends, as a viable institution can be unjust ([CLAIM-075](CLAIM-075.md)). The
   causal model of process freedom is not its justification.
 - **Not Sen's view.** The mapping is A11's. Sen does not speak of
   reachable sets or will-organization. A11 cited redacted search results
   for the opportunity/process distinction. The record's first-hand source
-  is LIT-282, read in NOTE-263.
+  is [LIT-282](../literature.d/LIT-282.md), read in [NOTE-263](../notes.d/NOTE-263.md).
 - **Not "capability-preserving agency".** A11's coinage appears once and
   is not filed.
 - **Not that the opportunity aspect is set size.** A precommitment can
   shrink what is reachable while securing a valued capability (A11 §4,
-  CASE-013). How far that counts as more freedom is a question of
+  [CASE-013](../cases.d/CASE-013.md)). How far that counts as more freedom is a question of
   weights.

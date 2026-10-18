@@ -126,4 +126,4 @@ learning organization itself", "Only the third directly approaches the
 stronger organizational-autonomy criterion." That is this claim's
 "takes part in governing the conditions of its own persistence", reached
 again without citing it, and A31's "Unity of self-governance" is its name for
-it. CLAIM-tmpw4w7a holds the application.
+it. [CLAIM-tmpw4w7a](CLAIM-tmpw4w7a.md) holds the application.

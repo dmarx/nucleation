@@ -20,10 +20,10 @@ summary: >-
   and "show me". Arm A is slow and not endogenous; arm B is endogenous
   and not slow; arm C transmits a rule with no continuous operation.
   The eigenvalues and intervention effects are rechecked here. Arm A
-  shows what CLAIM-327 and CLAIM-331 already say in words, that slowness
+  shows what [CLAIM-327](../claims.d/CLAIM-327.md) and [CLAIM-331](../claims.d/CLAIM-331.md) already say in words, that slowness
   is not sufficient; arm B is the new direction, that slowness is not
   necessary, and it holds only for weak maintenance, in A4's words. Arm C
-  is CLAIM-287's dormant coalition and does not settle identity.
+  is [CLAIM-287](../claims.d/CLAIM-287.md)'s dormant coalition and does not settle identity.
   Fictional by construction.
 ---
 
@@ -73,8 +73,8 @@ never reached the repository.
 ## What it can show
 
 - **Arm A: slowness is not sufficient for endogeneity.** That is already
-  CLAIM-327's "timescale separation (τ_Z ≫ τ_X, not sufficient)" and
-  CLAIM-331's "slowness is a mark of a level and not its definition". The
+  [CLAIM-327](../claims.d/CLAIM-327.md)'s "timescale separation (τ_Z ≫ τ_X, not sufficient)" and
+  [CLAIM-331](../claims.d/CLAIM-331.md)'s "slowness is a mark of a level and not its definition". The
   arm makes it a construction, and a trivial one: Z does not depend on the
   members at all.
 - **Arm B: slowness is not necessary for endogeneity.** This is the
@@ -84,9 +84,9 @@ never reached the repository.
   counterexample no longer establishes the separation." A3 put the next
   test the same way: whether the separation "survives stronger definitions
   of maintenance".
-- **Arm C: transmission without running.** It is CLAIM-287's dormant
+- **Arm C: transmission without running.** It is [CLAIM-287](../claims.d/CLAIM-287.md)'s dormant
   coalition, the capacity to reinstate an organization rather than its
-  continuous running, and CLAIM-329's "a lapse in its coherence need not
+  continuous running, and [CLAIM-329](../claims.d/CLAIM-329.md)'s "a lapse in its coherence need not
   end it". A3's refinement: "**Dynamical separation and endogenous
   maintenance are properties of processes. Historical continuity is a
   relation between processes at different times.**"
@@ -95,7 +95,7 @@ never reached the repository.
 
 - **Identity.** A4: "causal transmission alone does not settle whether A
   and B are numerically the *same* collective. That requires an additional
-  individuation criterion." CLAIM-287 says continuity of this kind can
+  individuation criterion." [CLAIM-287](../claims.d/CLAIM-287.md) says continuity of this kind can
   branch, so it is not identity.
 - **A general theorem.** A4: the constructions "do **not** establish a
   model-independent theorem about collective identity." They separate the
@@ -103,5 +103,5 @@ never reached the repository.
   eigenvalue, E as a nonzero intervention effect of the members' reading.
 - **That members of arm B are agents, or that Z is a level.** Member 2
   reads Z and its action changes nothing, and nothing in arm B integrates
-  the members (CLAIM-327's "Not that the variable individuates a
+  the members ([CLAIM-327](../claims.d/CLAIM-327.md)'s "Not that the variable individuates a
   collective").

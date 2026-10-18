@@ -50,7 +50,7 @@ a code.
   worse after errors.** A27: "we would have a concrete model of **illusory
   authorship or subject-attribution**", "a specific representational error
   and the conditions that produce it". The error belongs to the system
-  that holds the self-model, as CLAIM-tmpk7n2q says it must.
+  that holds the self-model, as [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md) says it must.
 - **No difference on any measure.** The owner content is idle for these
   functions. The self-model narrates and does not govern, against A26's
   "self-representations may themselves be parts of the real causal
@@ -59,8 +59,8 @@ a code.
 - **The centralized model does as well or better.** One owner is a useful
   compression and misdescribes nothing that these measures reach. That is
   A27's "Neither representation must be false", and Drayson's reading
-  (THEORY-646): the represented owner has a truthmaker. It counts against
-  CLAIM-tmpk7n2q for this system.
+  ([THEORY-646](../theory.d/THEORY-646.md)): the represented owner has a truthmaker. It counts against
+  [CLAIM-tmpk7n2q](../claims.d/CLAIM-tmpk7n2q.md) for this system.
 
 ## The main threat to inference
 
@@ -79,8 +79,8 @@ drifts.
 
 - That a distributed agent would come to represent a single owner. The
   modeller writes both self-models, so the content is the modeller's
-  (CLAIM-288). The case tests what such a content does once present.
+  ([CLAIM-288](../claims.d/CLAIM-288.md)). The case tests what such a content does once present.
 - Anything about phenomenal properties. A27: "We would not thereby have
   demonstrated illusionism about phenomenal properties."
 - What access each component has to the integrated state. That is A27's
-  Experiment B, binding by restricted access, noted on QUESTION-061.
+  Experiment B, binding by restricted access, noted on [QUESTION-061](../questions.d/QUESTION-061.md).

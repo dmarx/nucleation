@@ -81,9 +81,9 @@ review only found that the grounds it lacked are now held.
 The exchange of 2026-10-17 came back to this claim's ground several
 times, and cited the claim only at the end.
 
-- **Second appearance: THEORY-054 at the center of a proposed paper.** A14:
-  "**The biggest discovery from the second audit is THEORY-054.**" A15:
-  "**THEORY-054 now anchors the graded-autonomy argument**". This claim had
+- **Second appearance: [THEORY-054](../theory.d/THEORY-054.md) at the center of a proposed paper.** A14:
+  "**The biggest discovery from the second audit is [THEORY-054](../theory.d/THEORY-054.md).**" A15:
+  "**[THEORY-054](../theory.d/THEORY-054.md) now anchors the graded-autonomy argument**". This claim had
   already made graded integration against endorsement order its own, and
   deferred it. Neither turn cited it.
 - **Third appearance: graded ownership from the control side.** The owner,
@@ -91,21 +91,21 @@ times, and cited the claim only at the end.
   sensitivity to perturbation. I'm wondering if our account equips us to
   make concrete statements about gradations (perhaps even
   gradients/spectra?) of freedom of will/autonomy". Filed as
-  CLAIM-tmpilfhr. A9's measures are of influence, not ownership: "It
+  [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md). A9's measures are of influence, not ownership: "It
   measures influence, not the normative validity of endorsement." So the
   ownership criteria this claim lacks are not supplied.
 - **A35's split is close to this claim's three conditions.** A35, on the
   owner's U35 thesis that an external objective can become the training
-  organization's goal (CLAIM-tmpkb2i9): "the key is to distinguish **goal
+  organization's goal ([CLAIM-tmpkb2i9](CLAIM-tmpkb2i9.md)): "the key is to distinguish **goal
   provenance, goal realization, and goal governance**". Provenance,
   realization and governance sit near "arise through, remain integrated
   with, and are answerable to".
 - **A candidate repair of "integrated".** The owner, at U45: "'authenticity'
   should be treated as an organizational achievement characterized by
-  non-domination of subcomponents." Filed as CLAIM-tmpqofon, an
+  non-domination of subcomponents." Filed as [CLAIM-tmpqofon](CLAIM-tmpqofon.md), an
   alternative reading of this claim's middle condition, with A45's
   objection that low supervisory cost cannot show non-domination as
-  CLAIM-tmptg7io. The manipulation defeater this claim states is not met
+  [CLAIM-tmptg7io](CLAIM-tmptg7io.md). The manipulation defeater this claim states is not met
   by either.
 
 The status stays Deferred. Reopening the line is the owner's call.

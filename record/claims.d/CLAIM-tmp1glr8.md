@@ -44,7 +44,7 @@ controllability rank." A15 kept it, adding "proportional to b⁻²".
 Rank is a yes-or-no summary: the system is controllable for every b ≠ 0
 and not at b = 0. The cost varies continuously and without bound inside
 the controllable range. That is the sense in which controllability "isn't
-binary" (the owner, U9), and it is why CLAIM-tmpilfhr counts control cost
+binary" (the owner, U9), and it is why [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md) counts control cost
 as a dimension of its own.
 
 ## Proof
@@ -93,7 +93,7 @@ Gramians of the same rank can have any eigenvalues, and so any costs.
 - **Not a psychological measure.** A9: "Importantly, a Gramian is not
   automatically a meaningful psychological measure." The claim is linear
   algebra. That a habit is costly to change in this sense is
-  CLAIM-tmpilfhr's interpretive step, not this claim's.
+  [CLAIM-tmpilfhr](CLAIM-tmpilfhr.md)'s interpretive step, not this claim's.
 - **Not new.** A9: "This is already a standard result from linear control
   theory." The record holds it as a proof because it holds no source for
   it.

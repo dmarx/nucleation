@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The owner raised the problem at U36 of the exchange ("Maybe also cryptography? Reminds me of the two generals problem."), and A36 used it without a source: "Under two generals, agents may agree on what they want but cannot obtain the knowledge necessary to guarantee coordination." Bears on CLAIM-tmp442x9, as the canonical case of the epistemic obstruction that claim separates from feasibility and aggregation.
+The owner raised the problem at U36 of the exchange ("Maybe also cryptography? Reminds me of the two generals problem."), and A36 used it without a source: "Under two generals, agents may agree on what they want but cannot obtain the knowledge necessary to guarantee coordination." Bears on [CLAIM-tmp442x9](../claims.d/CLAIM-tmp442x9.md), as the canonical case of the epistemic obstruction that claim separates from feasibility and aggregation.

@@ -68,5 +68,5 @@ A33 gave a formal analogue in training. Two task gradients that cancel give a
 zero aggregate gradient, and "the individual tasks remain unsatisfied": "Zero
 aggregate gradient does not imply absence of frustrated demands." The whole's
 measure shows no burden while each constituent demand is unmet. That is
-CLAIM-tmpf67p3. A33's own caution: "the analogy must not be taken as a claim
+[CLAIM-tmpf67p3](CLAIM-tmpf67p3.md). A33's own caution: "the analogy must not be taken as a claim
 that learning objectives have interests or rights."

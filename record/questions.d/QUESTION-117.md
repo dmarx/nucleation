@@ -90,5 +90,5 @@ that its constituent frameworks do not make separately."
 The design answers this question only if a persistent mode appears in the
 coupled condition that a model of evolving influence with fixed operators
 does not produce at matched complexity. The comparison classes are the ones
-above, and CLAIM-297's defeater, reproduction by a single adaptive-retrieval
+above, and [CLAIM-297](../claims.d/CLAIM-297.md)'s defeater, reproduction by a single adaptive-retrieval
 process, is the same test.

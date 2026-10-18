@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A42 and A43 of the exchange named "Lynch's RO-DBT" without citing a work. The choice of this paper is the record's. Bears on CLAIM-tmp6ap9y, whose maladaptive overcontrol regime is RO-DBT's over-control carried to an organization.
+A42 and A43 of the exchange named "Lynch's RO-DBT" without citing a work. The choice of this paper is the record's. Bears on [CLAIM-tmp6ap9y](../claims.d/CLAIM-tmp6ap9y.md), whose maladaptive overcontrol regime is RO-DBT's over-control carried to an organization.

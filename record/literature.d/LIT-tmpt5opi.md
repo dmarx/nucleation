@@ -33,4 +33,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A42 of the exchange cited it for the state of the evidence on RO DBT, when the owner (U42) asked whether ACT and DBT carry over to organizations. The record held no DBT or RO DBT. Bears on CLAIM-tmp6ap9y, whose "overcontrol" is RO DBT's term.
+A42 of the exchange cited it for the state of the evidence on RO DBT, when the owner (U42) asked whether ACT and DBT carry over to organizations. The record held no DBT or RO DBT. Bears on [CLAIM-tmp6ap9y](../claims.d/CLAIM-tmp6ap9y.md), whose "overcontrol" is RO DBT's term.
