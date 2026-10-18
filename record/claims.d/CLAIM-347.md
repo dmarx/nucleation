@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmp55mls
 title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    The construction restated on attainable outcomes ℛ(𝒪), with improvement,
+    maintenance and threshold demands distinguished. A weak-preference
+    set is a legitimate maintenance demand; the earlier correction that
+    such a set is never a demand is withdrawn. Structural frustration is
+    defined as joint infeasibility, S ∉ 𝒦; relief is strict enlargement of
+    𝒦 under fixed reference demands, losing no compatible collection. The
+    organizational interpretation, structural frustration against
+    operative thwarting, is left to QUESTION-tmpyc009. At the reviews
+    relayed by the owner on 2026-10-18. Status stays Proposed: the
+    construction is well defined, its explanatory role is interpretive.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,10 +53,10 @@ summary: >-
   quite a lot with access to an ordering, even if it doesn't give us a
   true measure." A37 granted it ("I agree with your correction") and
   built the acceptance sets, their intersection and the compatibility
-  complex. A37's acceptance set {u : u ⪰_i u₀} is corrected here: by
-  reflexivity it holds the baseline for every demand and makes every
-  collection compatible, so a demand's set is stated as strict
-  improvement, a required level or an obligation. The definitional facts are shown in the body, including that
+  complex. Corrected here: acceptance conditions sit on attainable
+  outcomes, a demand's form depends on whether it demands improvement or
+  maintenance, and A37's weak-preference sets fail only as representations
+  of improvement demands. The definitional facts are shown in the body, including that
   every pair of demands can be jointly improvable while the triple is
   not. The sharp edge: relief compares complexes for the same declared
   demands, so a reorganization that deletes a demand is not compared at
@@ -69,32 +83,88 @@ of cardinal utilities as primarily a limitation. But for much of our
 argument, an ordering is sufficient, and sometimes it is the more
 appropriate structure."
 
-**The construction (A37 §4, corrected).** Let U be the organization's
-admissible transformations, ⪰_i a preorder for demand i, and A_i ⊆ U
-the transformations that meet demand i's requirement. A37 wrote the
-acceptance set as A_i = {u ∈ U : u ⪰_i u₀} for a reference u₀ "(or its
-strict version)". As the primary definition that is wrong. If u₀ is
-admissible, reflexivity puts u₀ in every A_i, so ⋂ A_i ⊇ {u₀} ≠ ∅ and
-every collection of demands is trivially compatible. A demand is a
-requirement, so its acceptance set must be able to exclude the
-unmodified baseline when change is demanded. The owner pointed this out
-in review of the filing (workbench entries of 2026-10-18). The admissible
-forms are those of [TERM-060](../terms.d/TERM-060.md): strict improvement, A_i = {u : u ≻_i u₀};
-a required level, A_i = {u : u ⪰_i t_i}, which holds u₀ only if u₀ already
-meets t_i; or a context-indexed obligation given directly. Weak Pareto
-improvement on u₀ (every demand ⪰_i u₀, at least one ≻_i u₀) is a
+**The construction (A37 §4, corrected).** Let 𝒪 be the organization,
+ℛ(𝒪) the outcomes or histories its admissible policies can produce, and
+A_i the outcomes that meet demand i's requirement. Demands are conditions
+on outcomes; what is attainable belongs to the organization. So the same
+demands can be compared when the organization's policy space changes
+([CLAIM-361](CLAIM-361.md) is the claim that relies on this).
+
+How A_i is specified depends on what the demand is.
+
+- **An improvement demand** on a reference y₀ is A_i = {y : y ≻_i y₀}.
+  Strict improvement may be impossible at an optimum, and then the demand
+  is unmet there.
+- **A maintenance demand**, "do not let this fall below its present
+  level", is A_i = {y : y ⪰_i y₀}. The reference meets it, which is what a
+  successfully maintained requirement should do. If every demand in a
+  collection is of this form, the baseline meeting all of them is not a
+  defect. It means those requirements are compatible.
+- **A threshold or obligation**, A_i = {y : y ⪰_i t_i} or a set given
+  directly, may or may not hold the reference.
+
+A preference is not a demand. That a more preferred outcome exists does
+not show that the present one fails a requirement.
+
+The construction was corrected twice in review of the filing (workbench
+entries of 2026-10-18). The defect in A37's version, A_i = {u : u ⪰_i
+u₀} "(or its strict version)", was that it represented demands for
+improvement by weak-preference sets. Those cannot exclude the unchanged
+baseline, so improvement demands came out trivially compatible. The
+first correction overstated this, as if a weak-preference set could never
+be a demand. That is wrong for maintenance demands, as above. Weak Pareto
+improvement on y₀ (every demand ⪰_i y₀, at least one ≻_i y₀) is a
 condition on the collection, not an intersection of per-demand sets, so
-it falls outside this construction. The worked examples below use strict
-or threshold sets throughout. The demands are jointly satisfiable when
-⋂ A_i ≠ ∅. The compatibility complex of a demand set I is
+it falls outside this construction. The worked examples below are
+improvement demands with strict or threshold sets.
 
-  𝒦 = {S ⊆ I : ⋂_{i∈S} A_i ≠ ∅},
+A set S of demands is **jointly realizable** when
+ℛ(𝒪) ∩ ⋂_{i∈S} A_i ≠ ∅. That is a fact about what can be attained.
+Whether the outcome the organization actually produces meets them is a
+separate fact. The compatibility complex is the first:
 
-with the empty intersection read as U.
+  𝒦(𝒪; D) = {S ⊆ D : ℛ(𝒪) ∩ ⋂_{i∈S} A_i ≠ ∅},
 
-**Relief (A37 §4C).** For the same declared demands I and the same
-acceptance conditions, a reorganization relieves frustration when
-𝒦_before ⊊ 𝒦_after. A37: "If the system simply deletes a difficult demand,
+with the empty intersection read as ℛ(𝒪). Its minimal non-faces are
+minimal incompatibilities. The incompatibility belongs to the collection,
+not to any one member. If A₁ = {a}, A₂ = {b}, a ≠ b, and the organization
+can attain either but not both, each demand is individually realizable
+and the pair is not; which one goes unmet depends on what the
+organization does. In the local model of a learner the attainable set is
+the set of admissible updates d, and the improvement demands are
+{d : g_iᵀd < 0} or {d : −g_iᵀd ≥ ε_i}, ε_i > 0. The facts below are
+stated with 𝒦 written as {S : ⋂_S A_i ≠ ∅}, the A_i read as the
+attainable points that meet each demand.
+
+**Structural frustration is defined by joint infeasibility.** Given an
+organization 𝒪, a reference collection of demands D and its
+compatibility complex 𝒦(𝒪; D), a collection S ⊆ D is structurally
+frustrated exactly when S ∉ 𝒦(𝒪; D): no outcome attainable under the
+specified constraints satisfies every demand in S simultaneously. With a
+horizon H and a budget B made explicit:
+
+  F_struct(𝒪, S; H, B)  iff  ℛ(𝒪; H, B) ∩ ⋂_{i∈S} A_i = ∅.
+
+This is a relational property of a collection of demands, relative to an
+organization, a horizon and an admissible set of transformations. It
+does not require cardinal utilities, experienced distress, or an
+identifiable process actively interfering with another. Minimal non-faces
+of 𝒦 identify the minimal structurally frustrated collections.
+
+The formal criterion is settled by the stated definitions. What remains
+open is its broader organizational interpretation ([QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)):
+when structural incompatibility shows up as operative resistance or
+thwarting, whether operative thwarting can occur without structural
+incompatibility, and what evidence is needed to attribute either
+condition to a particular organizational bearer. In particular, merely
+failing to realize a jointly attainable set of requirements establishes
+neither structural frustration nor operative thwarting.
+
+**Relief (A37 §4C).** Relief of structural frustration is strict
+enlargement of the compatibility complex under fixed reference demands
+and acceptance conditions: 𝒦_before ⊊ 𝒦_after, so that at least one
+previously frustrated collection becomes jointly realizable and no
+previously compatible collection is lost. A37: "If the system simply deletes a difficult demand,
 it has changed the comparison problem rather than shown an expansion of
 its ability to realize the original demands." And: "two reorganizations
 may relieve different conflicts, with neither compatibility complex

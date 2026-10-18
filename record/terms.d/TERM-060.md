@@ -124,3 +124,46 @@ externally constituted optimization problem" (and see [CLAIM-288](../claims.d/CL
 - **Not a dysfunction.** A frustrated collection may be the right outcome
   of genuinely different demands. A33 §2: "A conflict may be the correct
   consequence of optimizing genuinely different objectives."
+
+## Note of 2026-10-18: an error in this definition, and the question it now waits on
+
+The review the owner relayed on 2026-10-18 (review entry of that date)
+found four things in this entry. The definition is not changed in place,
+and it is not superseded. A proposed replacement, frustration as the
+obstruction of a demand's realization, was withdrawn before merge.
+
+**The structural sense is defined exactly in [CLAIM-347](../claims.d/CLAIM-347.md).** A collection
+S of demands is structurally frustrated when no outcome attainable under
+the specified constraints meets every demand in S: ℛ(𝒪; H, B) ∩ ⋂_{i∈S}
+A_i = ∅, equivalently S ∉ 𝒦(𝒪; D). That is this entry's "Frustrated,
+structurally" case, stated on attainable outcomes and relative to a
+horizon and a budget. What remains open is not the definition but its
+relation to operative thwarting of a particular constituent's demand
+([QUESTION-tmpyc009](../questions.d/QUESTION-tmpyc009.md)).
+
+- **An error.** "The tempting form A_i = {u : u ⪰_i u₀} is not a demand"
+  is wrong as stated. A maintenance demand, "do not let this fall below
+  its present level", has exactly that acceptance set. The reference meets
+  it, as a maintained requirement should. The defect the first review
+  found was narrower: improvement demands had been represented by
+  weak-preference sets, which cannot exclude the unchanged baseline.
+  [CLAIM-347](../claims.d/CLAIM-347.md) (version 2) states the construction with improvement,
+  maintenance and threshold demands kept apart.
+- **Strain is not the alternative to frustration.** The case "Not
+  frustrated, strained" treats them as exclusive. They are independent
+  dimensions. A demand can be frustrated with little effort spent or met
+  through heavy strain, and an organization can be both or neither
+  ([CLAIM-368](../claims.d/CLAIM-368.md), version 2).
+- **Unmet is not obstructed.** "Frustrated, by governance" counts every
+  failure to select an available acceptable transformation as frustration
+  by governance. That establishes non-attainment, not an obstruction or
+  its source. An available option can go unrealized through error, search,
+  missing information or chance ([CLAIM-357](../claims.d/CLAIM-357.md), version 2).
+- **Refinements to keep, whichever definition is adopted.** Feasibility
+  (could the demands be met together?), actual satisfaction (were they
+  met?) and the cause of a failure (what kept an available option from
+  becoming effective?) are different kinds of fact. Attributions of
+  frustration should name a bearer and a reference collection of
+  demands, so that removing a demand from consideration does not count as
+  meeting it ([CLAIM-361](../claims.d/CLAIM-361.md)). Frustration need not be
+  pathological: some demands deserve to be refused.
