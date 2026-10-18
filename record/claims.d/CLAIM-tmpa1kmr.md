@@ -18,8 +18,8 @@ summary: >-
   Construction A: for a judgment J and a coarse-graining C on the same
   states, J = j∘C for some j exactly when C(x₁) = C(x₂) implies J(x₁) =
   J(x₂). Granted, because it is elementary (the universal property of a
-  quotient) and Ak's; the proof is in the body. It is CLAIM-152's
-  judgment-valued special case with the converse added: CLAIM-152 says a
+  quotient) and Ak's; the proof is in the body. It is [CLAIM-152](CLAIM-152.md)'s
+  judgment-valued special case with the converse added: [CLAIM-152](CLAIM-152.md) says a
   partition sufficient for one target need not be for another, and this
   says which partitions serve a deterministic judgment, those whose
   fibres lie inside its level sets, so the coarsest is the judgment's own
@@ -60,17 +60,17 @@ Equivalently, C preserves J exactly when the partition of X into C's fibres
 refines the partition into J's level sets. The coarsest coarse-graining that
 preserves J is therefore J's own partition, x ↦ J(x). A different judgment
 has different level sets and so a different coarsest description, which is
-CLAIM-152's target-relativity stated for judgments.
+[CLAIM-152](CLAIM-152.md)'s target-relativity stated for judgments.
 
-## How it stands to CLAIM-152
+## How it stands to [CLAIM-152](CLAIM-152.md)
 
-CLAIM-152 holds that a sufficient statistic is sufficient for a target, so
+[CLAIM-152](CLAIM-152.md) holds that a sufficient statistic is sufficient for a target, so
 the partition that wins depends on the target ("fix the outcomes differently
 and a different partition wins"). For a target that is a deterministic
 function J of the state, "C is sufficient for J(X)" and "J is constant on
 C's fibres" coincide (up to null sets, when X carries a distribution). So
-this claim is CLAIM-152's judgment-valued special case. What it adds is the
-converse: CLAIM-152 says which partitions can fail, and this says exactly
+this claim is [CLAIM-152](CLAIM-152.md)'s judgment-valued special case. What it adds is the
+converse: [CLAIM-152](CLAIM-152.md) says which partitions can fail, and this says exactly
 which succeed.
 
 ## A21's further statements, recorded, not claimed
@@ -87,14 +87,14 @@ needs its own statement:
   P(Y | C = C(x)), it is a function of C(x). Checked here for the finite
   case only.
 - **Decision-theoretic.** Preservation of achievable risk over a declared
-  family of decisions is Blackwell's order (THEORY-156), not this lemma.
+  family of decisions is Blackwell's order ([THEORY-156](../theory.d/THEORY-156.md)), not this lemma.
   A bounded decision-loss criterion (A21 §12, D(C) = E[L(J(X), Ĵ(C(X)))])
   is a definition, and choosing its loss L is, as A21 says of one such
   choice, "itself normative".
 - **Causal.** A21 §6's condition C_*(P_ℓ^{do(a)}) = P_L^{do(ā)}, for a
   declared family of interventions, defines intervention-consistent
   coarse-graining. It is a definition, not a theorem, and it holds only
-  relative to the macro-interventions ā, whose meaning QUESTION-115 asks
+  relative to the macro-interventions ā, whose meaning [QUESTION-115](../questions.d/QUESTION-115.md) asks
   about.
 
 ## What it does not say
@@ -103,9 +103,9 @@ needs its own statement:
   abstraction for a specified judgment, not the correctness of the
   judgment's underlying standard."
 - **That a description adequate for one judgment is adequate for another.**
-  That is the point of CLAIM-tmp679hm and its construction CASE-tmpfusdm.
+  That is the point of [CLAIM-tmp679hm](CLAIM-tmp679hm.md) and its construction [CASE-tmpfusdm](../cases.d/CASE-tmpfusdm.md).
 - **That observational adequacy is causal adequacy.** A state space with a
   distribution can satisfy the probabilistic version while interventions
-  tell its merged states apart (A22's Construction B; CLAIM-127).
+  tell its merged states apart (A22's Construction B; [CLAIM-127](CLAIM-127.md)).
 - **Anything about bounded judges.** A receiver that cannot compute j can do
-  better with a different description (CLAIM-199).
+  better with a different description ([CLAIM-199](CLAIM-199.md)).

@@ -186,5 +186,5 @@ agent's rules at the moment of choice lack, for instance formed earlier and
 reused; an agent whose rules could compute it on the spot would gain
 nothing. Whether habits and principles are formed that way is not shown.
 A21 adds the cost: a principle that ignores detail "may become harmful when
-it suppresses a newly important distinction", which is CLAIM-tmpa1kmr's
+it suppresses a newly important distinction", which is [CLAIM-tmpa1kmr](CLAIM-tmpa1kmr.md)'s
 merged fibre seen from the agent's side. The status is unchanged.

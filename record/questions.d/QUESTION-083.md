@@ -52,7 +52,7 @@ to, and ablations showing which mechanism each regime needs (A7 §12.4).
 The owner returned to niche specialization at U46 of the exchange of
 2026-10-17: "this looks like a potentially useful integration point for
 ideas from ecology like niche specialization." It is the idea's second
-appearance (CLAIM-279). A46 found this question and strengthened its
+appearance ([CLAIM-279](../claims.d/CLAIM-279.md)). A46 found this question and strengthened its
 experiment with ecological criteria:
 
 - Compare allocation of influence "based on independent contribution
@@ -73,4 +73,4 @@ From Chesson (2000), A46 took the distinction an answer should report:
 coexistence through stabilizing niche differences, not equality of
 authority ("Equality of authority ≠ coexistence through differentiated
 competence"). The failure mode an answer must rule out, niche exclusion
-by authority deprivation, is noted on CLAIM-277. Nothing has been run.
+by authority deprivation, is noted on [CLAIM-277](../claims.d/CLAIM-277.md). Nothing has been run.

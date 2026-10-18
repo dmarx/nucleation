@@ -127,5 +127,5 @@ A46 added:
   organization's vulnerability to the loss or capture of a specialist".
 
 The failure side, a rare specialist starved of exposure, is noted on
-CLAIM-277. The test is used for the owner's non-domination criterion,
-CLAIM-tmpqofon. The status is unchanged.
+[CLAIM-277](CLAIM-277.md). The test is used for the owner's non-domination criterion,
+[CLAIM-tmpqofon](CLAIM-tmpqofon.md). The status is unchanged.

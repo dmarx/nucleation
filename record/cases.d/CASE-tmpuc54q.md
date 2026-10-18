@@ -65,15 +65,15 @@ emergence of a division of functional jurisdiction."
 
 ## What it can show
 
-1. **A zero aggregate gradient with frustrated demands** (CLAIM-tmpf67p3).
+1. **A zero aggregate gradient with frustrated demands** ([CLAIM-tmpf67p3](../claims.d/CLAIM-tmpf67p3.md)).
 2. **Structural frustration that no budget relieves**, and its dual
-   certificate (CLAIM-tmpue67e, CLAIM-tmpl8vsy).
-3. **Relief as enlargement for fixed demands** (CLAIM-tmp55mls): the
+   certificate ([CLAIM-tmpue67e](../claims.d/CLAIM-tmpue67e.md), [CLAIM-tmpl8vsy](../claims.d/CLAIM-tmpl8vsy.md)).
+3. **Relief as enlargement for fixed demands** ([CLAIM-tmp55mls](../claims.d/CLAIM-tmp55mls.md)): the
    demands before and after are the same two, with the same acceptance
-   sets, so the comparison is CLAIM-tmpq80iq's honest case, with a
+   sets, so the comparison is [CLAIM-tmpq80iq](../claims.d/CLAIM-tmpq80iq.md)'s honest case, with a
    correspondence that is the identity.
 4. **Differentiation as a source of relief.** In the terms of
-   CLAIM-tmppk4ya the split enlarges the realizable function class, since
+   [CLAIM-tmppk4ya](../claims.d/CLAIM-tmppk4ya.md) the split enlarges the realizable function class, since
    the routed system computes a function of the task context that the
    shared parameter cannot. It is an illustration of that effect, not
    evidence about deep networks.

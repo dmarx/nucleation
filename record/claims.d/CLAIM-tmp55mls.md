@@ -41,7 +41,7 @@ summary: >-
   not. The sharp edge: relief compares complexes for the same declared
   demands, so a reorganization that deletes a demand is not compared at
   all, and two reorganizations can be incomparable. It is the move
-  CLAIM-128 and TERM-043 made for translation, in a new line.
+  [CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md) made for translation, in a new line.
 ---
 
 # CLAIM-tmp55mls: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
@@ -80,7 +80,7 @@ weight, leaves its A_i where it was, so it leaves 𝒦 unchanged; it is not
 relief (A35 §4: "suppression, not necessarily resolution").
 
 The claim is that this is the basic form of frustration and of its relief,
-and that scalar measures are refinements of it (CLAIM-tmpue67e), not
+and that scalar measures are refinements of it ([CLAIM-tmpue67e](CLAIM-tmpue67e.md)), not
 definitions.
 
 ## The definitional facts
@@ -107,12 +107,12 @@ These follow from the definitions and are checked here.
 4. **Pairwise non-conflict does rule frustration out.** If every
    g_iᵀg_j ≥ 0 and no g_i is zero, then |Σλ_i g_i|² ≥ Σλ_i²|g_i|² > 0 for
    every λ in the simplex, so 0 ∉ conv{g_i} and a common descent direction
-   exists (CLAIM-tmpuia0a). With nonzero demands, a minimal conflict of
+   exists ([CLAIM-tmpuia0a](CLAIM-tmpuia0a.md)). With nonzero demands, a minimal conflict of
    two is an antiparallel pair. Among non-antiparallel demands the
-   minimal obstruction needs three, which is CLAIM-153's "the minimal
+   minimal obstruction needs three, which is [CLAIM-153](CLAIM-153.md)'s "the minimal
    model of the obstruction needs three" in the update setting. For
    convex acceptance sets in ℝᵖ, Helly's theorem bounds it above by p + 1
-   (CLAIM-tmpue67e).
+   ([CLAIM-tmpue67e](CLAIM-tmpue67e.md)).
 
 The claim's interpretive part is the rest: that these sets are the right
 representation of an organization's demands, that "relief" should mean
@@ -127,7 +127,7 @@ partial.
   A38's words, the possibilities "belong to a particular organization
   with a particular developmental history". Fixing D₀ across time, and saying what
   happens to a demand when the organization changes, is
-  CLAIM-tmpq80iq's, not this claim's.
+  [CLAIM-tmpq80iq](CLAIM-tmpq80iq.md)'s, not this claim's.
 - **Robust to compromised constituents.** A41 §5 defines 𝒦_f^rob(𝒪), the
   sets S for which one admissible policy meets every demand in S against
   every allowed insider behaviour. It is the same complex with a ∃∀
@@ -139,15 +139,15 @@ partial.
 
 ## Relations
 
-- **CLAIM-128 and TERM-043.** Translations whose distortion profiles trade
+- **[CLAIM-128](CLAIM-128.md) and [TERM-043](../terms.d/TERM-043.md).** Translations whose distortion profiles trade
   off are incomparable until a task fixes weights. This claim is the same
   move for organizations: a partial order by inclusion, a scalar only
   once weights are fixed.
-- **CLAIM-153.** The contextual version has torsors and a cycle class,
+- **[CLAIM-153](CLAIM-153.md).** The contextual version has torsors and a cycle class,
   which plain set incompatibility does not supply. A39: "ordinary set
   incompatibility doesn't automatically supply the torsors, transition
   maps, or cohomological obstruction used there."
-- **THEORY-232.** Watson compares the parts' total frustration under two
+- **[THEORY-232](../theory.d/THEORY-232.md).** Watson compares the parts' total frustration under two
   organizations. Inclusion of complexes refines that comparison: it does
   not credit an organization that lowers the total by sacrificing a
   demand, and it leaves two organizations unranked when each relieves a

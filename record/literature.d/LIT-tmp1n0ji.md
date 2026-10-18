@@ -34,4 +34,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A41 of the exchange cited "NIST's security-control framework", which "explicitly includes separation of duties and least privilege", as the concrete form of allocating authority so that no compromised member can act alone. Ak named no document; this is the current catalogue. Bears on CLAIM-tmpp9ox0 and CASE-tmp4nzjz.
+A41 of the exchange cited "NIST's security-control framework", which "explicitly includes separation of duties and least privilege", as the concrete form of allocating authority so that no compromised member can act alone. Ak named no document; this is the current catalogue. Bears on [CLAIM-tmpp9ox0](../claims.d/CLAIM-tmpp9ox0.md) and [CASE-tmp4nzjz](../cases.d/CASE-tmp4nzjz.md).

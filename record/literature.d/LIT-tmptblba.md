@@ -35,4 +35,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-A46 of the exchange cited it with Chesson for niche specialization, for the point that specialization "may improve local coordination while" creating dependence. Bears on CLAIM-279 and QUESTION-083. A reading should check A46's summary of its findings, which the readers could not check against an abstract.
+A46 of the exchange cited it with Chesson for niche specialization, for the point that specialization "may improve local coordination while" creating dependence. Bears on [CLAIM-279](../claims.d/CLAIM-279.md) and [QUESTION-083](../questions.d/QUESTION-083.md). A reading should check A46's summary of its findings, which the readers could not check against an abstract.
