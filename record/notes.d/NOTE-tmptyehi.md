@@ -38,6 +38,10 @@ summary: >-
   not test. The paper shows unmatched controls, not a suggestion effect,
   and says so. Its abstract and discussion lean further.
 ---
+<!-- inactive-ok-file: LIT-tmpe5zsa — Unavailable, no lawful full text reached; named as the founding rubber-hand study whose controls Lush tests, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpz3i32 — Unavailable, no lawful full text reached; named as the drift study whose measure Lush argues is unvalidated, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmp5h02h — Proposed; named as this batch's account of body ownership that this result bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpugoyc — Proposed; named as this batch's account of body ownership that this result bears on, not leaned on -->
 
 # NOTE-tmptyehi: Lush — Demand characteristics confound the rubber hand illusion
 

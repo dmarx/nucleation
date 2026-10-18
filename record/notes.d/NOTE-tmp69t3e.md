@@ -216,7 +216,7 @@ There are no formal or empirical results. The paper's claims, by section:
 
 ## Bearing on the record
 
-- Filed as THEORY-tmpugoyc, Proposed.
+- Filed as [THEORY-tmpugoyc](../theory.d/THEORY-tmpugoyc.md), Proposed.
 - **[NOTE-372](NOTE-372.md)'s C6 and Metzinger ([LIT-450](../literature.d/LIT-450.md), [LIT-568](../literature.d/LIT-568.md)).** For the first half
   of C6, that ownership can be manipulated by multisensory conflict, this
   paper adds citations (Botvinick and Cohen, Tsakiris and Haggard,

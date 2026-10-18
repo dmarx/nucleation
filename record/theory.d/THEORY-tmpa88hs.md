@@ -18,6 +18,10 @@ summary: >-
   effect, or that visuotactile synchrony does nothing. The expectancies were
   never set beside reports from the same people.
 ---
+<!-- inactive-ok-file: LIT-tmpe5zsa — Unavailable, no lawful full text reached; named as the founding rubber-hand study whose controls Lush tests, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpz3i32 — Unavailable, no lawful full text reached; named as the drift study whose measure Lush argues is unvalidated, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmp5h02h — Proposed; named as this batch's account of body ownership that this result bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpugoyc — Proposed; named as this batch's account of body ownership that this result bears on, not leaned on -->
 
 # THEORY-tmpa88hs: People told about the rubber-hand procedure, but not given it, expect its illusion statements far more than its control statements and expect the illusion far more after synchronous than asynchronous stroking, so the two contrasts the paradigm uses as controls for suggestion are confounded by expectancy; this shows the controls unmatched, not the illusion a suggestion effect
 

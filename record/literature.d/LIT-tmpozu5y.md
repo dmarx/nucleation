@@ -43,6 +43,9 @@ implementations: []
 summary: >-
   Lush (2020), Collabra: Psychology 6(1): 22, doi:10.1525/collabra.325. A preregistered quasi-experiment: 20 undergraduates who read about the rubber-hand procedure and watched a video of it, without undergoing it, rated how strongly they expected each of Botvinick and Cohen's nine statements under synchronous and asynchronous stroking. They expected the three "illusion" statements more than the six "control" statements (M 1.7 against 0.0, t(19) = 6.24) and the illusion more under synchronous than asynchronous stroking (1.7 against 0.4, t(19) = 4.68). Nine who had never heard of the illusion showed the same pattern. So the two standard controls do not exclude demand characteristics. The paper shows that the controls are not matched for expectancy. It does not show that the illusion is a suggestion effect, and says so.
 ---
+<!-- inactive-ok-file: LIT-tmpe5zsa — Unavailable, no lawful full text reached; named as the founding rubber-hand study whose controls Lush tests, not leaned on -->
+<!-- inactive-ok-file: LIT-tmpz3i32 — Unavailable, no lawful full text reached; named as the drift study whose measure Lush argues is unvalidated, not leaned on -->
+<!-- inactive-ok-file: LIT-tmp9zqs4 — Unavailable, no lawful full text reached; named as one of the batch's studies resting on the same contrasts, not leaned on -->
 
 # LIT-tmpozu5y: Demand characteristics confound the rubber hand illusion
 
