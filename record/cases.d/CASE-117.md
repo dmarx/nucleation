@@ -1,5 +1,8 @@
 ---
+number: 117
 status: Active
+formerly:
+- CASE-tmprbebk
 title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
 version: 1
 standing: stipulated
@@ -23,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-266 CLAIM-277 CLAIM-288 CLAIM-347 CLAIM-362 CLAIM-367 THEORY-239 THEORY-514 CLAIM-284 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# CASE-tmprbebk: Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity
+# CASE-117: Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity
 
 ## The design
 
@@ -58,13 +61,13 @@ No one metric substitutes for the rest.
 
 | quantity | reads |
 |---|---|
-| feature Gram spectrum | representational redundancy ([QUESTION-tmpw9b04](../questions.d/QUESTION-tmpw9b04.md)) |
+| feature Gram spectrum | representational redundancy ([QUESTION-135](../questions.d/QUESTION-135.md)) |
 | I(operator; context) | statistical specialization |
 | conditional marginal contribution | whether a specialist adds unique value |
-| rare-operator recovery exponent, resident and conditional | recovery when rare ([QUESTION-tmp0885h](../questions.d/QUESTION-tmp0885h.md)) |
+| rare-operator recovery exponent, resident and conditional | recovery when rare ([QUESTION-132](../questions.d/QUESTION-132.md)) |
 | recovery time after suppression | access to consequential roles ([CLAIM-362](../claims.d/CLAIM-362.md)) |
-| held-out task risk, on a distribution independent of the selection loop | what is retained beyond endogenous evaluation ([QUESTION-tmpn0znj](../questions.d/QUESTION-tmpn0znj.md), [CLAIM-266](../claims.d/CLAIM-266.md)) |
-| changes in the compatibility complex of the operators' demands | relief or creation of structural frustration ([QUESTION-tmpjwshe](../questions.d/QUESTION-tmpjwshe.md), [CLAIM-347](../claims.d/CLAIM-347.md)) |
+| held-out task risk, on a distribution independent of the selection loop | what is retained beyond endogenous evaluation ([QUESTION-134](../questions.d/QUESTION-134.md), [CLAIM-266](../claims.d/CLAIM-266.md)) |
+| changes in the compatibility complex of the operators' demands | relief or creation of structural frustration ([QUESTION-133](../questions.d/QUESTION-133.md), [CLAIM-347](../claims.d/CLAIM-347.md)) |
 | viability under specialist removal | robustness and capacity to reorganize ([THEORY-134](../theory.d/THEORY-134.md)) |
 
 An operator's functional niche can be defined relative to a context
@@ -100,12 +103,12 @@ to tell a functional niche from the mere frequency of its contexts.
 - **Active, dormant and reconstructed specialists.** Compare keeping a
   specialist through active participation, keeping it as a dormant but
   recoverable capability, and rebuilding it by later learning, on cost and
-  on resilience ([QUESTION-tmp0885h](../questions.d/QUESTION-tmp0885h.md)). Measure recovery with the specialist's
+  on resilience ([QUESTION-132](../questions.d/QUESTION-132.md)). Measure recovery with the specialist's
   parameters frozen and with them trainable. The first tests whether the
   retained capability is still valued, the second whether the specialist
   can be re-adapted. A positive result in the second does not imply one
   in the first.
-- **Coupled against decoupled exposure.** This tests [QUESTION-tmpn0znj](../questions.d/QUESTION-tmpn0znj.md):
+- **Coupled against decoupled exposure.** This tests [QUESTION-134](../questions.d/QUESTION-134.md):
   whether influence-dependent training destroys a marginalized
   specialist's competence.
 - **Representational novelty against dynamical stability.** Check whether
@@ -125,7 +128,7 @@ organization; the owner's review corrected that.
 ## What the outcomes would show, and what they would not
 
 A positive result, meaning stable niches, endogenous recovery and
-reorganization after loss, would answer [QUESTION-tmp0885h](../questions.d/QUESTION-tmp0885h.md) for this class
+reorganization after loss, would answer [QUESTION-132](../questions.d/QUESTION-132.md) for this class
 of models. It would not show self-constitution: the objectives are the
 modeller's ([CLAIM-288](../claims.d/CLAIM-288.md)), and the unit that governs is the
 optimizer–model–data system as much as the operators ([CLAIM-367](../claims.d/CLAIM-367.md)). The

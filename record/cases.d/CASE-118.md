@@ -1,5 +1,8 @@
 ---
+number: 118
 status: Active
+formerly:
+- CASE-tmptwfjg
 title: 'Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence'
 version: 1
 standing: fictional
@@ -11,7 +14,7 @@ tags:
 date: '2026-10-18'
 line: distributed-agency
 supports:
-- CLAIM-tmpc36bo
+- CLAIM-369
 summary: >-
   From the synthesis the owner relayed on 2026-10-18, checked. The
   two-component Lotka–Volterra system with symmetric overlap ρ: invasion
@@ -24,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-193 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# CASE-tmptwfjg: Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence
+# CASE-118: Two competing components with interaction matrix A = [[1, ρ], [ρ, 1]]: with equal growth rates their invasion growth is 1 − ρ, the smallest eigenvalue of the Gram matrix, and with growth rates 1 ± δ the same matrix supports coexistence only when |δ| < (1 − ρ)/(1 + ρ), so feature geometry alone does not fix coexistence
 
 ## The construction
 

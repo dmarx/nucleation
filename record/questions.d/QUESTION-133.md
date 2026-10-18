@@ -1,5 +1,8 @@
 ---
+number: 133
 status: Open
+formerly:
+- QUESTION-tmpjwshe
 title: 'Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?'
 version: 1
 tags:
@@ -12,7 +15,7 @@ summary: >-
   From the synthesis the owner relayed on 2026-10-18, which called it the
   most conceptually interesting new connection. [CLAIM-347](../claims.d/CLAIM-347.md) defines
   structural frustration as joint infeasibility and relief as enlargement
-  of the compatibility complex under fixed demands. [CASE-tmpuuf3p](../cases.d/CASE-tmpuuf3p.md) shows
+  of the compatibility complex under fixed demands. [CASE-119](../cases.d/CASE-119.md) shows
   relief by enlarging the attainable set, with every pair compatible and
   the triple not, until a composite policy appears. The question is
   whether learning, specialization or recomposition can bring this about
@@ -23,14 +26,14 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-347 CLAIM-360 CLAIM-361 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# QUESTION-tmpjwshe: Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?
+# QUESTION-133: Can a population of operators whose demands are jointly infeasible under one functional organization develop a differentiated or compositional repertoire that makes them jointly feasible, without suppressing, weakening or deleting any of those demands?
 
 ## Why it is a question
 
 [CLAIM-347](../claims.d/CLAIM-347.md) separates two ways an organization can deal with incompatible
 demands. It can choose among them, which leaves the complex unchanged. Or
 it can change what it can attain, which enlarges the complex.
-[CASE-tmpuuf3p](../cases.d/CASE-tmpuuf3p.md) shows the second is possible. [CASE-115](../cases.d/CASE-115.md) shows a continuous
+[CASE-119](../cases.d/CASE-119.md) shows the second is possible. [CASE-115](../cases.d/CASE-115.md) shows a continuous
 version: splitting a shared parameter removes a two-demand frustration.
 [CLAIM-360](../claims.d/CLAIM-360.md) separates a larger realizable set from better choice within a
 fixed one in the deep-against-shallow results.
@@ -62,7 +65,7 @@ A model that:
   shows why the class of models considered cannot produce one.
 
 Higher-order structure should be checked, not assumed. Pairwise
-compatibility does not fix collective compatibility ([CASE-tmpuuf3p](../cases.d/CASE-tmpuuf3p.md)), but
+compatibility does not fix collective compatibility ([CASE-119](../cases.d/CASE-119.md)), but
 some apparent higher-order effects reduce to pairwise ones ([THEORY-598](../theory.d/THEORY-598.md)).
 An answer should show when the complex carries information its
 1-skeleton does not.

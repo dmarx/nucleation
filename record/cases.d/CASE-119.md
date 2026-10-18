@@ -1,5 +1,8 @@
 ---
+number: 119
 status: Active
+formerly:
+- CASE-tmpuuf3p
 title: 'Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed'
 version: 1
 standing: fictional
@@ -18,11 +21,11 @@ summary: >-
   (1,1,1), ℛ(𝒪) ⊊ ℛ(𝒪′) and the complex gains the triangle: relief in
   [CLAIM-347](../claims.d/CLAIM-347.md)'s sense, by changing what is attainable, not by weakening a
   demand. The construction says such relief is possible; whether
-  specialization produces it is [QUESTION-tmpjwshe](../questions.d/QUESTION-tmpjwshe.md).
+  specialization produces it is [QUESTION-133](../questions.d/QUESTION-133.md).
 ---
 <!-- inactive-ok-file: CLAIM-347 CLAIM-360 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# CASE-tmpuuf3p: Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed
+# CASE-119: Three demands each requiring one coordinate of an outcome to equal 1, with attainable outcomes (1,1,0), (1,0,1) and (0,1,1): every pair is jointly satisfiable and the triple is not, and a new composite policy that can also produce (1,1,1) relieves the frustration by enlarging the attainable set, with the acceptance sets unchanged and no demand suppressed
 
 ## The construction
 
@@ -69,4 +72,4 @@ higher-order fact is real: the complex is not determined by its
 
 That specialization tends to produce such relief. Differentiation can
 also add costs or dependencies and shrink what is attainable. Whether and
-when it enlarges ℛ is [QUESTION-tmpjwshe](../questions.d/QUESTION-tmpjwshe.md).
+when it enlarges ℛ is [QUESTION-133](../questions.d/QUESTION-133.md).

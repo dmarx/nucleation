@@ -7,24 +7,24 @@
     multiplicative gradient flow on a feature-selection objective,
     invasion fitness is its negative partial derivative, and uninvadable
     equilibria are its KKT points. Demonstrated and Active,
-    [CLAIM-tmpc36bo](record/claims.d/CLAIM-tmpc36bo.md).
+    [CLAIM-369](record/claims.d/CLAIM-369.md).
   - Two constructions:
-    - [CASE-tmptwfjg](record/cases.d/CASE-tmptwfjg.md): two components, where one Gram matrix supports
+    - [CASE-118](record/cases.d/CASE-118.md): two components, where one Gram matrix supports
       coexistence or exclusion depending on the growth rates;
-    - [CASE-tmpuuf3p](record/cases.d/CASE-tmpuuf3p.md): three demands, pairwise compatible but not jointly,
+    - [CASE-119](record/cases.d/CASE-119.md): three demands, pairwise compatible but not jointly,
       relieved by enlarging the attainable set.
   - Four questions:
-    - feature geometry against coexistence, [QUESTION-tmpw9b04](record/questions.d/QUESTION-tmpw9b04.md);
+    - feature geometry against coexistence, [QUESTION-135](record/questions.d/QUESTION-135.md);
     - recovery when rare against imposed or entrenched roles,
-      [QUESTION-tmp0885h](record/questions.d/QUESTION-tmp0885h.md);
+      [QUESTION-132](record/questions.d/QUESTION-132.md);
     - relief of structural frustration by specialization,
-      [QUESTION-tmpjwshe](record/questions.d/QUESTION-tmpjwshe.md);
+      [QUESTION-133](record/questions.d/QUESTION-133.md);
     - competence lost through influence-dependent training,
-      [QUESTION-tmpn0znj](record/questions.d/QUESTION-tmpn0znj.md).
-  - A proposed population study, [CASE-tmprbebk](record/cases.d/CASE-tmprbebk.md).
+      [QUESTION-134](record/questions.d/QUESTION-134.md).
+  - A proposed population study, [CASE-117](record/cases.d/CASE-117.md).
 - Eight works on coexistence theory, ecological optimization and
   mean-field feature learning registered unread. Chizat and Bach (2018),
-  [LIT-tmpjbnh7](record/literature.d/LIT-tmpjbnh7.md), is held in both records under [ADR-013](record/decisions.d/ADR-013.md), beside
+  [LIT-1232](record/literature.d/LIT-1232.md), is held in both records under [ADR-013](record/decisions.d/ADR-013.md), beside
   [ANTH-LIT-298](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-298.md).
 
 - Revised before merge at the owner's review: the bridge is stated for

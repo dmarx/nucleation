@@ -1,5 +1,8 @@
 ---
+number: 132
 status: Open
+formerly:
+- QUESTION-tmp0885h
 title: 'Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?'
 version: 1
 tags:
@@ -25,7 +28,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-277 CLAIM-362 LIT-1219 THEORY-306 THEORY-548 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# QUESTION-tmp0885h: Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?
+# QUESTION-132: Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?
 
 ## Why it is a question
 
@@ -45,7 +48,7 @@ outcomes look alike from usage statistics and differ in kind:
 contribution F_i(c_t, w_t), with ẇ_i = w_i F_i(c_t, w_t). Here w_i is an
 unnormalized participation intensity. If influence is a normalized share,
 the dynamics are of replicator type and F_i is measured against the
-population mean ([CLAIM-tmpc36bo](../claims.d/CLAIM-tmpc36bo.md), "Two boundaries of application"). While the others
+population mean ([CLAIM-369](../claims.d/CLAIM-369.md), "Two boundaries of application"). While the others
 follow a resident regime and i is very rare, its long-run recovery
 exponent is
 
@@ -103,7 +106,7 @@ the analogue of memory, organizational archives and protected minority
 expertise. It is also why positive long-run invasion growth need not be
 the only criterion of valuable coexistence. Whether retention without
 activation is possible when training follows influence is
-[QUESTION-tmpn0znj](QUESTION-tmpn0znj.md)'s question.
+[QUESTION-134](QUESTION-134.md)'s question.
 
 **Recovery of a retained specialist against adaptation during recovery.**
 A returning specialist may regain influence because its old capability
@@ -133,7 +136,7 @@ A population model in which:
 - the recovery criteria λ^resident and λ^conditional are stated;
 - the parameter regimes of each of the three outcomes are found.
 
-In the potential case [CLAIM-tmpc36bo](../claims.d/CLAIM-tmpc36bo.md) gives the recovery test as a marginal
+In the potential case [CLAIM-369](../claims.d/CLAIM-369.md) gives the recovery test as a marginal
 value, s_i = −∂_i L. A restricted theorem would be a natural first
 target. For symmetric competitive interactions and bounded niche
 adaptation, find sufficient conditions under which a differentiated
@@ -141,7 +144,7 @@ equilibrium is locally asymptotically stable and every active specialist
 has positive growth when reintroduced into the resident equilibrium
 without it. Then ask which conditions fail when symmetry is relaxed,
 adaptation is delayed ([THEORY-548](../theory.d/THEORY-548.md)), or training opportunities depend on
-current influence ([QUESTION-tmpn0znj](QUESTION-tmpn0znj.md)). With more than two operators,
+current influence ([QUESTION-134](QUESTION-134.md)). With more than two operators,
 coexistence should be judged by invasion graphs (Hofbauer and Schreiber
 2022), not pairwise tests.
 

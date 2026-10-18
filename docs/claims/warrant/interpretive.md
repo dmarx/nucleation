@@ -6,7 +6,7 @@
 
 **Interpretive** — supported by conceptual argument, analogy or synthesis, and settled neither way by proof or by data.
 
-250 of 368 CLAIM documents. Back to the [full index](../README.md).
+250 of 369 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

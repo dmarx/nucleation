@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**526 documents cited without acknowledgement.** Not listed: 10210 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**527 documents cited without acknowledgement.** Not listed: 10249 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -788,7 +788,7 @@ Active inference already runs an internal loop: mental action selects among high
 
 Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
-21 citations in 10 files await a look; 4 other citations of it are acknowledged.
+21 citations in 10 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-115.md:74`](../../record/cases.d/CASE-115.md)
 - [`record/claims.d/CLAIM-153.md:93`](../../record/claims.d/CLAIM-153.md)
@@ -1052,7 +1052,7 @@ The frustration residual and governance regret separate structural infeasibility
 
 When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
 
-13 citations in 8 files await a look; 9 other citations of it are acknowledged.
+13 citations in 8 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-336.md:42`](../../record/claims.d/CLAIM-336.md)
 - [`record/claims.d/CLAIM-336.md:62`](../../record/claims.d/CLAIM-336.md)
@@ -2082,7 +2082,7 @@ Whether two systems compute the same way can be tested by quotienting the full a
 
 A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst
 
-6 citations in 5 files await a look; 20 other citations of it are acknowledged.
+6 citations in 5 files await a look; 22 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:81`](../../record/claims.d/CLAIM-187.md)
 - [`record/decisions.d/ADR-039.md:41`](../../record/decisions.d/ADR-039.md)
@@ -2134,7 +2134,7 @@ In text-to-image diffusion models each condition of a prompt can be met while th
 
 Relief of an organization's frustration must be judged for an identified organization against a fixed reference set of its original demands, under an explicit correspondence between earlier and later demands: a demand excised or suppressed has changed the comparison and has not been satisfied, an endogenous revision of what the organization maintains is a transformation of it and not relief, and learning can change which processes bear the demands
 
-6 citations in 5 files await a look; 3 other citations of it are acknowledged.
+6 citations in 5 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-115.md:76`](../../record/cases.d/CASE-115.md)
 - [`record/claims.d/CLAIM-347.md:91`](../../record/claims.d/CLAIM-347.md)
@@ -2512,9 +2512,9 @@ A collective's reasons need not be any of its members' reasons, so aggregating m
 
 Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
-5 citations in 4 files await a look; 16 other citations of it are acknowledged.
+5 citations in 4 files await a look; 20 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-279.md:132`](../../record/claims.d/CLAIM-279.md)
+- [`record/claims.d/CLAIM-279.md:133`](../../record/claims.d/CLAIM-279.md)
 - [`record/claims.d/CLAIM-327.md:35`](../../record/claims.d/CLAIM-327.md)
 - [`record/claims.d/CLAIM-327.md:70`](../../record/claims.d/CLAIM-327.md)
 - [`record/claims.d/CLAIM-362.md:114`](../../record/claims.d/CLAIM-362.md)
@@ -2781,7 +2781,7 @@ What persists when a self persists through inactivity is the capacity to reinsta
 
 A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself
 
-4 citations in 4 files await a look; 38 other citations of it are acknowledged.
+4 citations in 4 files await a look; 41 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-042.md:114`](../../record/decisions.d/ADR-042.md)
 - [`record/questions.d/QUESTION-086.md:94`](../../record/questions.d/QUESTION-086.md)
@@ -2825,11 +2825,11 @@ A collective that replaces all its members persists, when it does, by causal tra
 
 Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential
 
-4 citations in 4 files await a look; 6 other citations of it are acknowledged.
+4 citations in 4 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-016.md:107`](../../record/claims.d/CLAIM-016.md)
 - [`record/claims.d/CLAIM-277.md:127`](../../record/claims.d/CLAIM-277.md)
-- [`record/claims.d/CLAIM-279.md:133`](../../record/claims.d/CLAIM-279.md)
+- [`record/claims.d/CLAIM-279.md:134`](../../record/claims.d/CLAIM-279.md)
 - [`record/terms.d/TERM-006.md:42`](../../record/terms.d/TERM-006.md)
 
 ### [LIT-038](../../record/literature.d/LIT-038.md) — Rejected
@@ -3386,7 +3386,7 @@ Sen's two aspects of freedom divide along the record's line between what an agen
 
 An objective that originates outside a learning system can become a goal of the training organization, through its causal role in selecting, stabilizing and reproducing the learned structure it rewards; exogenous origin does not disqualify a goal, but it does not show that the network governs or endorses the objective, and what is selected is performance on the updating distribution, not generalization
 
-3 citations in 2 files await a look.
+3 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/claims.d/CLAIM-016.md:101`](../../record/claims.d/CLAIM-016.md)
 - [`record/claims.d/CLAIM-288.md:119`](../../record/claims.d/CLAIM-288.md)
@@ -4140,7 +4140,7 @@ A shared interpretation's coherence, its fidelity to evidence and the plurality 
 
 Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator
 
-2 citations in 2 files await a look; 17 other citations of it are acknowledged.
+2 citations in 2 files await a look; 18 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-336.md:70`](../../record/claims.d/CLAIM-336.md)
 - [`record/notes.d/NOTE-725.md:137`](../../record/notes.d/NOTE-725.md)
@@ -5364,7 +5364,7 @@ Local descriptions that disagree are not thereby incompatible: whether they obst
 
 A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it
 
-1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:188`](../../record/decisions.d/ADR-040.md)
 
@@ -5444,7 +5444,7 @@ A will-organization that gives two operators decisive jurisdiction over a pair o
 
 The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-115.md:79`](../../record/cases.d/CASE-115.md)
 
@@ -5487,6 +5487,14 @@ Le scaphandre et le papillon
 1 citation in 1 file awaits a look.
 
 - [`record/cases.d/CASE-107.md:44`](../../record/cases.d/CASE-107.md)
+
+### [LIT-1219](../../record/literature.d/LIT-1219.md) — Deferred
+
+Mechanisms of Maintenance of Species Diversity
+
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-083.md:109`](../../record/questions.d/QUESTION-083.md)
 
 ### [LIT-128](../../record/literature.d/LIT-128.md) — Unavailable
 

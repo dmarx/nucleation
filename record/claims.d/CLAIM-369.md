@@ -1,5 +1,8 @@
 ---
+number: 369
 status: Active
+formerly:
+- CLAIM-tmpc36bo
 title: 'In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points'
 version: 1
 role: thesis
@@ -21,7 +24,7 @@ line:
 - formal-apparatus
 - distributed-agency
 grounds:
-- CASE-tmptwfjg
+- CASE-118
 complements:
 - CLAIM-279
 summary: >-
@@ -40,7 +43,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-279 CLAIM-288 THEORY-548 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# CLAIM-tmpc36bo: In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points
+# CLAIM-369: In symmetric resource-mediated competition with interaction matrix A = UᵀU and growth rates r = Uᵀb − c, Lotka–Volterra population dynamics are multiplicative gradient flow on the convex feature-selection objective ½‖b − Un‖² + cᵀn over the nonnegative orthant: the invasion fitness of an absent component is the negative partial derivative of that objective, and the uninvadable equilibria are its KKT points
 
 ## The claim
 
@@ -80,7 +83,7 @@ It was checked numerically. For a random U (6 × 4), b and c, the identity
 decreased at every step, and at the endpoint active components had zero
 gradient and the absent one a positive gradient.
 
-**The two-component case** ([CASE-tmptwfjg](../cases.d/CASE-tmptwfjg.md)). With A = [[1, ρ], [ρ, 1]],
+**The two-component case** ([CASE-118](../cases.d/CASE-118.md)). With A = [[1, ρ], [ρ, 1]],
 0 ≤ ρ < 1, and r₁ = r₂ = 1, the invasion growth of either component into
 the other's equilibrium (n = 1) is 1 − ρ. That is also λ_min(A). The
 condition number of the Gram matrix is κ(A) = (1 + ρ)/(1 − ρ). In this
@@ -155,6 +158,6 @@ whose resource-use vectors are nonnegative.
   delay-induced Lotka–Volterra instability, [THEORY-634](../theory.d/THEORY-634.md) on non-reciprocal
   catalytic rings).
 - **That the kernel fixes coexistence.** The same Gram matrix supports
-  coexistence or exclusion depending on r ([CASE-tmptwfjg](../cases.d/CASE-tmptwfjg.md)).
+  coexistence or exclusion depending on r ([CASE-118](../cases.d/CASE-118.md)).
 - **That a population of coexisting specialists governs itself.**
   Coexistence is not endogenous regulation ([CLAIM-288](CLAIM-288.md)).

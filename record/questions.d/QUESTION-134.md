@@ -1,5 +1,8 @@
 ---
+number: 134
 status: Open
+formerly:
+- QUESTION-tmpn0znj
 title: 'When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?'
 version: 1
 tags:
@@ -22,7 +25,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-266 CLAIM-277 CLAIM-297 CLAIM-356 CLAIM-362 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
-# QUESTION-tmpn0znj: When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?
+# QUESTION-134: When influence decides access to learning opportunities, does the resulting feedback make a marginalized specialist lose its competence, so that it cannot recover influence even when its former niche becomes relevant again?
 
 ## Why it is a question
 
@@ -73,4 +76,4 @@ opportunities are decoupled from its influence.
 ## What would not answer it
 
 A specialist that loses influence and keeps its competence. That is
-under-use, which [QUESTION-tmp0885h](QUESTION-tmp0885h.md)'s recovery exponent already covers.
+under-use, which [QUESTION-132](QUESTION-132.md)'s recovery exponent already covers.

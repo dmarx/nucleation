@@ -6,7 +6,7 @@
 
 **Design rationale** — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
 
-2 of 116 CASE documents. Back to the [full index](../README.md).
+2 of 119 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
