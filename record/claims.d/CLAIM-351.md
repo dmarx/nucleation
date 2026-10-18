@@ -4,7 +4,12 @@ status: Active
 formerly:
 - CLAIM-tmpf67p3
 title: 'A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand''s own gradient vanishes and when nonzero gradients cancel, and in the second case no update improves them all to first order; even the first is only joint first-order stationarity, which a demand''s maximum or saddle also has'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    uses moves to TERM-tmp9p3s9, which supersedes TERM-060 after the owner's third review; the claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -27,7 +32,7 @@ complements:
 - CLAIM-060
 - CLAIM-276
 uses:
-- TERM-060
+- TERM-tmp9p3s9
 summary: >-
   A33 §5 of the exchange of 2026-10-17: "Zero aggregate gradient does
   not imply absence of frustrated demands." With L₁ = (θ − 1)² and
@@ -43,6 +48,7 @@ summary: >-
 grounds:
 - CASE-115
 ---
+<!-- inactive-ok-file: TERM-060 — Superseded; named in the version 2 history as the term this claim moved from -->
 
 # CLAIM-351: A zero aggregate gradient does not show that the demands it aggregates are reconciled: with positive weights it holds both when every demand's own gradient vanishes and when nonzero gradients cancel, and in the second case no update improves them all to first order; even the first is only joint first-order stationarity, which a demand's maximum or saddle also has
 
@@ -53,7 +59,7 @@ demands." Say demands i = 1, …, n with losses L_i are **jointly
 stationary** at θ when every g_i = ∇L_i(θ) is zero: no demand has a
 first-order improving direction. Say common first-order descent is
 **infeasible** there when some g_i ≠ 0 and no direction lowers every L_i
-([TERM-060](../terms.d/TERM-060.md), local form).
+([TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md), local form).
 
 Three things are kept apart, and only the first two are about
 derivatives:

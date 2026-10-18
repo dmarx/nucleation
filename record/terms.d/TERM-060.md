@@ -1,6 +1,6 @@
 ---
 number: 60
-status: Active
+status: Superseded
 formerly:
 - TERM-tmp9lmlt
 title: 'frustration, of an organization''s demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance'
@@ -21,14 +21,8 @@ summary: >-
   where the demands are jointly realizable at a cost, and from distress, a
   possible integrated response to either. It is not [CLAIM-153](../claims.d/CLAIM-153.md)'s physics
   sense, though it shares that sense's three-demand minimal obstruction.
-used_by:
-- CLAIM-346
-- CLAIM-347
-- CLAIM-351
-- CLAIM-357
-- CLAIM-365
-- CLAIM-366
-- CLAIM-368
+superseded_by:
+- TERM-tmp9p3s9
 ---
 
 # TERM-060: frustration, of an organization's demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance
@@ -124,3 +118,18 @@ externally constituted optimization problem" (and see [CLAIM-288](../claims.d/CL
 - **Not a dysfunction.** A frustrated collection may be the right outcome
   of genuinely different demands. A33 §2: "A conflict may be the correct
   consequence of optimizing genuinely different objectives."
+
+## Superseded on 2026-10-18
+
+The owner's third review of the filing (review entry of 2026-10-18)
+found that this definition conflated the incompatibility of demands,
+the failure to realize demands that are jointly attainable, and the
+frustration of the constituents whose demands go unrealized; that it put
+strain as the alternative to frustration; and that it built an
+acceptance-set construction, with strict improvement as a canonical
+form, into the definition. [TERM-tmp9p3s9](TERM-tmp9p3s9.md) replaces it: frustration as the
+obstruction of organizationally consequential demands from realization,
+relative to a bearer, requirements, context, horizon and available
+transformations, with structural frustration, realization failure and
+governance-induced frustration kept apart and strain an independent
+dimension. The claims stated in this sense now use [TERM-tmp9p3s9](TERM-tmp9p3s9.md).

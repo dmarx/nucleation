@@ -4,7 +4,12 @@ status: Active
 formerly:
 - CLAIM-tmp442x9
 title: 'Feasibility, aggregation and epistemic coordination are independent obstructions to an organization''s realizing its demands: each can occur with the other two absent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    uses moves to TERM-tmp9p3s9, which supersedes TERM-060 after the owner's third review; the claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -29,7 +34,7 @@ complements:
 - CLAIM-368
 - CLAIM-353
 uses:
-- TERM-060
+- TERM-tmp9p3s9
 summary: >-
   Owner-seeded, U36 of the exchange of 2026-10-17: Arrow's theorem, then
   cryptography and "the two generals problem". A36 placed them: "Arrow's
@@ -41,6 +46,7 @@ summary: >-
   acceptance conditions; that no remedy for one removes another is A36's
   further reading, argued in the body and not part of the claim.
 ---
+<!-- inactive-ok-file: TERM-060 — Superseded; named in the version 2 history as the term this claim moved from -->
 
 # CLAIM-346: Feasibility, aggregation and epistemic coordination are independent obstructions to an organization's realizing its demands: each can occur with the other two absent
 
@@ -54,7 +60,7 @@ relocated Arrow ("I would locate it slightly differently from the
 frustration residual") and drew a table of three obstructions:
 
 - **Feasibility:** no admissible transformation lies in every
-  constituent's acceptance set ([TERM-060](../terms.d/TERM-060.md)).
+  constituent's acceptance set ([TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md)).
 - **Aggregation:** the organization's rule for combining constituents'
   rankings of the admissible transformations yields no coherent choice:
   under pairwise majority, an alternative that no other beats.

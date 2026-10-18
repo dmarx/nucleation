@@ -4,7 +4,12 @@ status: Proposed
 formerly:
 - CLAIM-tmp55mls
 title: 'Frustration among an organization''s demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    Acceptance conditions restated on outcomes, with structural compatibility kept apart from actual satisfaction and maintenance demands no longer forced into strict improvement, at the owner's third review. uses moves to TERM-tmp9p3s9, which supersedes TERM-060.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -15,7 +20,7 @@ defeated_if: >-
   form "improve as much as possible" cannot be given thresholds without
   importing the cardinal comparison the ordinal form avoids. Not
   defeated by cases where demands are jointly realizable and differ only
-  in cost, which are strain (TERM-060), nor by the existence of
+  in cost, which are strain (TERM-tmp9p3s9), nor by the existence of
   useful cardinal refinements (CLAIM-365).
 tags:
 - mathematics
@@ -33,7 +38,7 @@ complements:
 - CLAIM-128
 - CLAIM-153
 uses:
-- TERM-060
+- TERM-tmp9p3s9
 summary: >-
   The owner's correction, U37 of the exchange of 2026-10-17: "We can do
   quite a lot with access to an ordering, even if it doesn't give us a
@@ -41,8 +46,8 @@ summary: >-
   built the acceptance sets, their intersection and the compatibility
   complex. A37's acceptance set {u : u ⪰_i u₀} is corrected here: by
   reflexivity it holds the baseline for every demand and makes every
-  collection compatible, so a demand's set is stated as strict
-  improvement, a required level or an obligation. The definitional facts are shown in the body, including that
+  collection compatible. Demands are stated on outcomes, in whatever form
+  the demand takes, improvement only for improvement demands. The definitional facts are shown in the body, including that
   every pair of demands can be jointly improvable while the triple is
   not. The sharp edge: relief compares complexes for the same declared
   demands, so a reorganization that deletes a demand is not compared at
@@ -52,10 +57,11 @@ supports:
 - CLAIM-361
 - CLAIM-365
 ---
+<!-- inactive-ok-file: TERM-060 — Superseded; named in the version 2 history as the term this claim moved from -->
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
-<!-- ref::uses-file: TERM-060 — the claim is stated in the ordinal sense of frustration the term fixes -->
+<!-- ref::uses-file: TERM-tmp9p3s9 — the claim is stated in the ordinal sense of frustration the term fixes -->
 
 ## The claim
 
@@ -69,28 +75,49 @@ of cardinal utilities as primarily a limitation. But for much of our
 argument, an ordering is sufficient, and sometimes it is the more
 appropriate structure."
 
-**The construction (A37 §4, corrected).** Let U be the organization's
-admissible transformations, ⪰_i a preorder for demand i, and A_i ⊆ U
-the transformations that meet demand i's requirement. A37 wrote the
-acceptance set as A_i = {u ∈ U : u ⪰_i u₀} for a reference u₀ "(or its
-strict version)". As the primary definition that is wrong. If u₀ is
-admissible, reflexivity puts u₀ in every A_i, so ⋂ A_i ⊇ {u₀} ≠ ∅ and
-every collection of demands is trivially compatible. A demand is a
-requirement, so its acceptance set must be able to exclude the
-unmodified baseline when change is demanded. The owner pointed this out
-in review of the filing (workbench entries of 2026-10-18). The admissible
-forms are those of [TERM-060](../terms.d/TERM-060.md): strict improvement, A_i = {u : u ≻_i u₀};
-a required level, A_i = {u : u ⪰_i t_i}, which holds u₀ only if u₀ already
-meets t_i; or a context-indexed obligation given directly. Weak Pareto
-improvement on u₀ (every demand ⪰_i u₀, at least one ≻_i u₀) is a
-condition on the collection, not an intersection of per-demand sets, so
-it falls outside this construction. The worked examples below use strict
-or threshold sets throughout. The demands are jointly satisfiable when
-⋂ A_i ≠ ∅. The compatibility complex of a demand set I is
+**The construction (A37 §4, corrected twice).** Let 𝒪 be the
+organization, Π_𝒪 its admissible policies or transformations, and
+Y_𝒪(π) the outcome or history a policy produces. Each demand i has an
+acceptance condition A_i on outcomes: the outcomes that meet what i
+requires. Demands live on outcomes; the available transformations belong
+to the organization. That is what lets the same demands be compared
+when the organization's policy space changes ([CLAIM-361](CLAIM-361.md)).
 
-  𝒦 = {S ⊆ I : ⋂_{i∈S} A_i ≠ ∅},
+How A_i is specified is the demand's own business. A demand for
+improvement on a reference y₀ is A_i = {y : y ≻_i y₀}. A maintenance
+demand is a threshold or standing condition, A_i = {y : y ⪰_i t_i} or an
+obligation given directly, which the present outcome may already meet. A
+process that demands only maintenance is satisfied at an optimum, and
+writing its demand as strict improvement would wrongly make it
+frustrated there. A preference is not a demand: that a more preferred
+outcome exists does not show that the present one fails a requirement
+([TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md)).
 
-with the empty intersection read as U.
+Two corrections were made in review of the filing (workbench entries of
+2026-10-18). First, A37 wrote the acceptance set as {u : u ⪰_i u₀} "(or
+its strict version)". Taken as a demand that is wrong: by reflexivity
+the reference meets every such condition, ⋂ A_i always holds it, and
+every collection is trivially compatible. Second, the first correction
+made strict improvement a canonical form. It is the right form only for
+demands that are demands for improvement. Weak Pareto improvement (every
+demand ⪰_i y₀, at least one ≻_i y₀) is a condition on the collection,
+not an intersection of per-demand sets, so it falls outside this
+construction. The worked examples below are improvement demands, with
+strict or threshold sets throughout.
+
+A set S of demands is **structurally compatible** when some admissible
+policy meets them all, ∃ π ∈ Π_𝒪 with Y_𝒪(π) ∈ ⋂_{i∈S} A_i. That is a
+modal fact. It is distinct from **actual satisfaction**,
+Y_𝒪(π_actual) ∈ ⋂ A_i, which concerns what happened ([TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md)). The
+compatibility complex is the structural notion:
+
+  𝒦(𝒪) = {S ⊆ I : ∃ π ∈ Π_𝒪, Y_𝒪(π) ∈ ⋂_{i∈S} A_i},
+
+with the empty intersection read as all outcomes. In the local model of
+a learner the policy is the update d and the acceptance conditions are
+read off it directly, A_i = {d : g_iᵀd < 0} or {d : −g_iᵀd ≥ ε_i} with
+ε_i > 0. The facts below are stated for 𝒦 written as {S : ⋂_S A_i ≠ ∅},
+with the A_i understood as the policies whose outcomes meet each demand.
 
 **Relief (A37 §4C).** For the same declared demands I and the same
 acceptance conditions, a reorganization relieves frustration when

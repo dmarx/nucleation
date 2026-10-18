@@ -3,8 +3,13 @@ number: 357
 status: Proposed
 formerly:
 - CLAIM-tmpl8vsy
-title: 'An organization''s failure to meet its demands is structural when no admissible transformation meets them all and governance-induced when one exists and the actual allocation of influence does not select it; aggregate performance does not tell the two apart, and the multipliers that certify infeasibility are not the weights governance assigns'
-version: 1
+title: 'An organization''s failure to meet its demands is structural when no admissible transformation meets them all and a realization failure when an acceptable one exists and is not made effective, and governance-induced frustration is the part of realization failure due to the organization of influence, authority or selection, not to information, search, modelling or chance; aggregate performance does not tell structural from realization failure, and the multipliers that certify infeasibility are not the weights governance assigns'
+version: 2
+history:
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    Retitled at the owner's third review: realization failure is the general case, and governance-induced frustration the part of it due to the organization of influence; Γ measures realization failure, not its cause. uses moves to TERM-tmp9p3s9, which supersedes TERM-060.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,23 +37,26 @@ complements:
 - CLAIM-342
 - CLAIM-330
 uses:
-- TERM-060
+- TERM-tmp9p3s9
 summary: >-
   A34 §4 and A35 §3.3 of the exchange of 2026-10-17, restated at A39 §2C
   and A40 §3.4, from A33's "irreducible conflict" and "manufactured
   frustration". With Φ the best achievable worst shortfall and Γ the
   actual update's excess over it ([CLAIM-365](CLAIM-365.md)), structural frustration
-  is Φ > 0 and governance-induced frustration is Φ ≤ 0 with the actual
-  update failing. Equal loss curves can hide either. A35: "Importantly,
-  these dual multipliers are not endorsement weights." The sharp edge:
-  the distinction is relative to the declared demands, the admissible set
-  and the comparison solver, and it says nothing yet about whether real
-  organizations fail by governance.
+  is Φ > 0 and realization failure is Φ ≤ 0 with the actual update
+  failing. Governance-induced frustration is realization failure caused
+  by the allocation of influence, which Γ alone does not show. Equal loss
+  curves can hide either kind. A35: "Importantly, these dual multipliers
+  are not endorsement weights." The sharp edge: the distinction is
+  relative to the declared demands, the admissible set and the comparison
+  solver, and it says nothing yet about whether real organizations fail
+  by governance.
 ---
+<!-- inactive-ok-file: TERM-060 — Superseded; named in the version 2 history as the term this claim moved from -->
 
-# CLAIM-357: An organization's failure to meet its demands is structural when no admissible transformation meets them all and governance-induced when one exists and the actual allocation of influence does not select it; aggregate performance does not tell the two apart, and the multipliers that certify infeasibility are not the weights governance assigns
+# CLAIM-357: An organization's failure to meet its demands is structural when no admissible transformation meets them all and a realization failure when an acceptable one exists and is not made effective, and governance-induced frustration is the part of realization failure due to the organization of influence, authority or selection, not to information, search, modelling or chance; aggregate performance does not tell structural from realization failure, and the multipliers that certify infeasibility are not the weights governance assigns
 
-<!-- ref::uses-file: TERM-060 — structural and governance-induced are the two kinds of frustration in the term's sense -->
+<!-- ref::uses-file: TERM-tmp9p3s9 — structural frustration and realization failure, with its governance-induced part, are the cases the term distinguishes -->
 
 ## The claim
 
@@ -69,14 +77,25 @@ organization actually makes.
   separates a **capacity-limited** case, where Φ_r > 0 for the current
   budget r but not for a larger one, from the case where no budget helps,
   as in [CASE-115](../cases.d/CASE-115.md), where Φ_r = ε for every r.
-- **Governance-induced:** Φ ≤ 0, and the actual update fails some demand,
-  so Γ > −Φ ≥ 0. A satisfactory update exists and is not selected. A35:
-  "A system could therefore have substantial observed frustration even
-  when structural frustration is absent."
+- **Realization failure:** Φ ≤ 0, and the actual update fails some
+  demand, so Γ > −Φ ≥ 0. A satisfactory update exists and is not
+  realized. A35: "A system could therefore have substantial observed
+  frustration even when structural frustration is absent."
+- **Governance-induced:** a realization failure whose cause is the
+  organization of effective influence, authority or selection. Γ > 0
+  does not say this by itself. A satisfactory update can also go
+  unrealized through incomplete information, unsuccessful search, a
+  poorly calibrated model or an unexpected event. A broad enough notion of
+  governance may cover those, but the claim does not assume it does. The
+  first filing equated realization failure with governance-induced
+  frustration; the owner's third review separated them
+  ([TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md)).
 
 A40 §3.4 added a **representational** kind, where an available solution
 is inaccessible to the organization's own models or search, and said the
-categories "may overlap".
+categories "may overlap". A representational failure is a realization failure; whether it
+is governance-induced depends on whether the organization's allocation of
+influence is what keeps the solution out of reach.
 
 **Aggregate performance does not separate them.** A35 §3.4: two systems,
 one with Φ_r > 0, one with Φ_r < 0 and an optimizer that repeatedly
@@ -109,7 +128,10 @@ called it "the best candidate for an early discriminating experiment".
 ## What it does not say
 
 - **That governance-induced frustration occurs in any real organization.**
-  The claim gives the distinction and the measure, not an instance. The
+  The claim gives the distinction and the measure, not an instance, and
+  Γ measures realization failure, not its cause: telling a governance
+  cause from a search or information failure needs an intervention on the
+  allocation of influence with the search held fixed. The
   defeater is the result that would make the category idle.
 - **That Γ is free of choices.** Φ is relative to declared demands and a
   declared admissible set, and computing it needs a solver that finds the

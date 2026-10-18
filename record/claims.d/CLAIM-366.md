@@ -4,7 +4,12 @@ status: Active
 formerly:
 - CLAIM-tmpuia0a
 title: 'Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    uses moves to TERM-tmp9p3s9, which supersedes TERM-060 after the owner's third review; the claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -29,7 +34,7 @@ complements:
 grounds:
 - THEORY-082
 uses:
-- TERM-060
+- TERM-tmp9p3s9
 summary: >-
   A35 §2 of the exchange of 2026-10-17, at the owner's U35 "double click"
   on whether functionally equivalent parameterizations give equivalent
@@ -43,6 +48,7 @@ summary: >-
   training trajectories ([QUESTION-127](../questions.d/QUESTION-127.md)). The practice corollary, not
   to diagnose task conflict by gradient cosine, is the anthology's.
 ---
+<!-- inactive-ok-file: TERM-060 — Superseded; named in the version 2 history as the term this claim moved from -->
 
 # CLAIM-366: Whether several objectives share a strict first-order descent direction, 0 ∉ conv{g_i}, is invariant under smooth invertible reparameterization, while the sign of a Euclidean gradient inner product is not, and a negative inner product does not exclude common descent; a budgeted version is invariant only with the metric pulled back
 
@@ -130,5 +136,5 @@ same learning dynamics".
 - **What practitioners should do.** That a cosine-based conflict
   diagnostic is chart-dependent is an instruction for machine-learning
   practice, and it belongs in the anthology. This record keeps the
-  mathematics because the frustration account ([TERM-060](../terms.d/TERM-060.md)) needs a
+  mathematics because the frustration account ([TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md)) needs a
   diagnosis that is not an artefact of coordinates.

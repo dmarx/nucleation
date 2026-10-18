@@ -3,20 +3,24 @@ number: 368
 status: Proposed
 formerly:
 - CLAIM-tmpyk3it
-title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: a failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance, distinct from strain, where they are realizable at a cost, and from distress, a possible integrated response to either'
-version: 1
+title: 'The primitive for an organization''s regulatory difficulty is frustration, not distress: the obstruction of organizationally consequential demands from realization, whether structural or a failure to realize an acceptable alternative, which is independent of strain, the burden of realizing them, and distinct from distress, a possible integrated response to either'
+version: 2
+history:
+- version: 2
+  date: '2026-10-18'
+  note: >-
+    Retitled at the owner's third review: strain is an independent dimension, not the alternative to frustration, and the defeater is rewritten to match. uses moves to TERM-tmp9p3s9, which supersedes TERM-060.
 role: thesis
 warrant: interpretive
 defeated_if: >-
   A showing that the three cannot be separated in any model of a
-  distributed organization: for example, that every case of strain under
-  an admissible budget is also a case of frustration once the budget is
-  counted among the constraints, so that the strain/frustration line is
-  only a choice of what to call admissible; or that distress-like
-  integrated responses arise and are explained with no reference to a
-  failure or cost of joint realizability. Not defeated by the
-  relativity of a frustration verdict to the declared demands and
-  admissible set, which the claim states.
+  distributed organization: for example, that obstruction of a demand's
+  realization and the burden of realizing it always vary together, so
+  that treating them as independent dimensions adds nothing; or that
+  distress-like integrated responses arise and are explained with no
+  reference to obstructed realization or to strain. Not defeated by the
+  relativity of a frustration verdict to the bearer, the requirements and
+  the available transformations, which the claim states.
 tags:
 - agency
 - self-governance
@@ -36,7 +40,7 @@ complements:
 - CLAIM-153
 - CLAIM-346
 uses:
-- TERM-060
+- TERM-tmp9p3s9
 summary: >-
   The owner's, U33 of the exchange of 2026-10-17: "maybe we should focus
   less on distress and more on frustration". A33 granted it: "Frustration
@@ -53,8 +57,9 @@ supports:
 - CLAIM-347
 - CLAIM-357
 ---
+<!-- inactive-ok-file: TERM-060 — Superseded; named in the version 2 history as the term this claim moved from -->
 
-# CLAIM-368: The primitive for an organization's regulatory difficulty is frustration, not distress: a failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance, distinct from strain, where they are realizable at a cost, and from distress, a possible integrated response to either
+# CLAIM-368: The primitive for an organization's regulatory difficulty is frustration, not distress: the obstruction of organizationally consequential demands from realization, whether structural or a failure to realize an acceptable alternative, which is independent of strain, the burden of realizing them, and distinct from distress, a possible integrated response to either
 
 ## The claim
 
@@ -80,7 +85,7 @@ A33's three definitions:
   strain or frustration, which may or may not have phenomenal
   significance."
 
-The term is [TERM-060](../terms.d/TERM-060.md), in the ordinal form the owner's U37 correction
+The term is [TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md), in the ordinal form the owner's U37 correction
 gave it. The claim is that frustration, so defined, is where the account
 of an organization's regulatory difficulty should start, for three
 reasons.
@@ -135,8 +140,13 @@ downstream applications, not premises").
   demands, and a gap between claimed and granted precedence can be good
   governance: A34 on [CLAIM-283](CLAIM-283.md), "a good organization may correctly
   prevent an unreliable process from taking control".
-- **That the strain/frustration line is absolute.** It moves with what is
-  counted admissible. A budget can make a realizable collection
+- **That strain and frustration exclude each other.** A33's definitions
+  read as if strain were the case where the demands are realizable at a
+  cost. The owner's third review of the filing made them independent
+  dimensions ([TERM-tmp9p3s9](../terms.d/TERM-tmp9p3s9.md)). A demand can be frustrated with little
+  effort spent, or satisfied through heavy strain, and an organization can
+  be both or neither. What moves with the admissible set is the
+  frustration verdict: a budget can make a realizable collection
   unrealizable (A33 §3A), which is the defeater's pressure point.
 - **That the line of organizational affect is reopened.** The claim is
   filed in distributed-agency and will-organization. Whether a frustration
