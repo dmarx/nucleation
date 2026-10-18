@@ -45,6 +45,7 @@ assumptions about the organization.
 | specialist loss | temporary suppression; complete removal; reintroduction |
 | recovery opportunities | none beyond a small positive start; externally supplied reintroduction; internally maintained exploration or reactivation |
 | authority-update rule | fixed by the modeller; revisable by the organization |
+| specialist parameters during recovery measurement | frozen (recovery of the retained capability); trainable (recovery with re-adaptation) |
 
 **Baseline.** Ordinary mixture-of-experts learning with contextual
 routing. Without it, the study risks rediscovering specialization that
@@ -99,7 +100,11 @@ to tell a functional niche from the mere frequency of its contexts.
 - **Active, dormant and reconstructed specialists.** Compare keeping a
   specialist through active participation, keeping it as a dormant but
   recoverable capability, and rebuilding it by later learning, on cost and
-  on resilience ([QUESTION-tmp0885h](../questions.d/QUESTION-tmp0885h.md)).
+  on resilience ([QUESTION-tmp0885h](../questions.d/QUESTION-tmp0885h.md)). Measure recovery with the specialist's
+  parameters frozen and with them trainable. The first tests whether the
+  retained capability is still valued, the second whether the specialist
+  can be re-adapted. A positive result in the second does not imply one
+  in the first.
 - **Coupled against decoupled exposure.** This tests [QUESTION-tmpn0znj](../questions.d/QUESTION-tmpn0znj.md):
   whether influence-dependent training destroys a marginalized
   specialist's competence.

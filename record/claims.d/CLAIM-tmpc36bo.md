@@ -116,7 +116,15 @@ equilibrium conditions carry a common Lagrange multiplier: ∂_i L(w) = λ
 for every active component, not ∂_i L = 0. So the equivalence between
 ecology and optimization does not automatically survive a change from
 abundance dynamics to conserved authority shares. Normalized endorsement
-is a separate model, and this claim does not cover it. (A point from the
+is a separate model, and this claim does not cover it. That is not a
+claim that normalized endorsement cannot optimize. Normalization changes
+the feasible geometry and the equilibrium conditions, but it does not
+necessarily remove a potential-function reading. Whether one survives
+depends on how fitness and authority are defined on the simplex. For
+example, replicator dynamics whose fitness is evaluated at the shares
+themselves, f_i(w) = −∂_i L(w), are a gradient flow of −L on the simplex
+under the Shahshahani metric. The equation above, with fitness evaluated
+at the unnormalized n, is not of that form in general. (A point from the
 owner's review of the filing, relayed 2026-10-18.)
 
 **The algebra holds for any U; the ecological reading needs a sign

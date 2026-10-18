@@ -105,6 +105,18 @@ the only criterion of valuable coexistence. Whether retention without
 activation is possible when training follows influence is
 [QUESTION-tmpn0znj](QUESTION-tmpn0znj.md)'s question.
 
+**Recovery of a retained specialist against adaptation during recovery.**
+A returning specialist may regain influence because its old capability
+is still useful, or because new training during the recovery makes it
+useful again. Both are interesting, and they are different achievements.
+The first is retention, which is the dormant case above. The second is
+re-adaptation, which lies between dormancy and reconstruction. A recovery
+measurement must say whether the specialist's parameters are frozen or
+trainable while recovery is measured. With them frozen, a positive
+recovery exponent shows that the retained capability is still valued.
+With them trainable, it shows only that the specialist can become valued
+again.
+
 **Nonlinear transitions.** Coexistence and exclusion can change abruptly
 with parameters, which bears on the open nonlinear-transition questions
 ([QUESTION-125](QUESTION-125.md); [CLAIM-330](../claims.d/CLAIM-330.md) on the coupled loop; [THEORY-136](../theory.d/THEORY-136.md) on what evidence
