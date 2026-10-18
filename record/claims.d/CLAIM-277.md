@@ -126,3 +126,16 @@ starves it.
 It bears on [QUESTION-083](../questions.d/QUESTION-083.md) and on the owner's non-domination criterion
 ([CLAIM-362](CLAIM-362.md)), whose test is whether a specialist can recover
 influence. Not filed as a claim of its own. The status is unchanged.
+
+## Note of 2026-10-18 (later): when deprivation destroys competence
+
+The note above records niche exclusion by authority deprivation at the
+level of competence estimates. A synthesis the owner relayed later the
+same day (workbench entry of 2026-10-18) took it a step further. When
+influence decides access to training, not just to evaluation, the loop
+can destroy the competence itself: "The organization has altered the
+specialist's future competence by denying the opportunities required to
+maintain it." Then the specialist cannot recover even when its niche
+returns. Whether that happens, and how to tell it from mere under-use,
+is QUESTION-tmpn0znj. The recovery exponent that measures under-use is in
+QUESTION-tmp0885h.
