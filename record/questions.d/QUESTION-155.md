@@ -1,5 +1,8 @@
 ---
+number: 155
 status: Open
+formerly:
+- QUESTION-tmpgpocu
 title: 'Does a lossy-compression bound on generalisation error give a non-trivial value for an algorithm whose output carries infinite information about its sample, such as deterministic training of a network with continuous weights?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   has evaluated it for a learned model whose I(S;W) is infinite.
 ---
 
-# QUESTION-tmpgpocu: Does a lossy-compression bound on generalisation error give a non-trivial value for an algorithm whose output carries infinite information about its sample, such as deterministic training of a network with continuous weights?
+# QUESTION-155: Does a lossy-compression bound on generalisation error give a non-trivial value for an algorithm whose output carries infinite information about its sample, such as deterministic training of a network with continuous weights?
 
 ## Why it is a question
 

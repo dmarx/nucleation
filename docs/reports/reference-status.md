@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**512 documents cited without acknowledgement.** Not listed: 10088 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**511 documents cited without acknowledgement.** Not listed: 10066 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -853,8 +853,8 @@ Relative to a stated target, a combined form is one system while its joint dynam
 - [`record/questions.d/QUESTION-042.md:36`](../../record/questions.d/QUESTION-042.md)
 - [`record/questions.d/QUESTION-042.md:43`](../../record/questions.d/QUESTION-042.md)
 - [`record/questions.d/QUESTION-065.md:24`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:39`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:50`](../../record/questions.d/QUESTION-065.md)
+- [`record/questions.d/QUESTION-065.md:40`](../../record/questions.d/QUESTION-065.md)
+- [`record/questions.d/QUESTION-065.md:51`](../../record/questions.d/QUESTION-065.md)
 - [`record/questions.d/QUESTION-115.md:60`](../../record/questions.d/QUESTION-115.md)
 - [`record/questions.d/QUESTION-116.md:16`](../../record/questions.d/QUESTION-116.md)
 - [`record/questions.d/QUESTION-116.md:31`](../../record/questions.d/QUESTION-116.md)
@@ -971,8 +971,8 @@ Two communicative realizations can agree on every probe in a restricted family w
 - [`record/decisions.d/ADR-043.md:232`](../../record/decisions.d/ADR-043.md)
 - [`record/questions.d/QUESTION-067.md:14`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:48`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:62`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:99`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:61`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:98`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-069.md:30`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
 
@@ -1049,7 +1049,7 @@ Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inferenc
 - [`record/literature.d/LIT-945.md:64`](../../record/literature.d/LIT-945.md)
 - [`record/literature.d/LIT-945.md:98`](../../record/literature.d/LIT-945.md)
 - [`record/questions.d/QUESTION-067.md:13`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:89`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:88`](../../record/questions.d/QUESTION-067.md)
 - [`record/theory.d/THEORY-011.md:22`](../../record/theory.d/THEORY-011.md)
 - [`record/theory.d/THEORY-011.md:64`](../../record/theory.d/THEORY-011.md)
 - [`record/theory.d/THEORY-016.md:12`](../../record/theory.d/THEORY-016.md)
@@ -1644,8 +1644,8 @@ Ambiguity and contextuality are different phenomena: an ambiguous utterance admi
 - [`record/questions.d/QUESTION-055.md:30`](../../record/questions.d/QUESTION-055.md)
 - [`record/questions.d/QUESTION-055.md:42`](../../record/questions.d/QUESTION-055.md)
 - [`record/questions.d/QUESTION-067.md:48`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:62`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:117`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:61`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:116`](../../record/questions.d/QUESTION-067.md)
 
 ### [CLAIM-046](../../record/claims.d/CLAIM-046.md) — Proposed
 
@@ -1658,8 +1658,8 @@ Different hidden-state models can produce identical observations, so pragmatic i
 - [`record/questions.d/QUESTION-050.md:33`](../../record/questions.d/QUESTION-050.md)
 - [`record/questions.d/QUESTION-067.md:15`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:48`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:62`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:99`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:61`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:98`](../../record/questions.d/QUESTION-067.md)
 
 ### [CLAIM-161](../../record/claims.d/CLAIM-161.md) — Proposed
 
@@ -3036,7 +3036,7 @@ Pragmatic judgements may be formally contextual: their context-relative distribu
 
 - [`record/claims.d/CLAIM-341.md:194`](../../record/claims.d/CLAIM-341.md)
 - [`record/questions.d/QUESTION-067.md:47`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:58`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:57`](../../record/questions.d/QUESTION-067.md)
 
 ### [CLAIM-014](../../record/claims.d/CLAIM-014.md) — Proposed
 
@@ -3066,7 +3066,7 @@ Formal contextuality is a failure of global extension, distinct from ordinary co
 
 - [`record/decisions.d/ADR-040.md:113`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-067.md:47`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:58`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:57`](../../record/questions.d/QUESTION-067.md)
 
 ### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Deferred
 
@@ -4647,7 +4647,7 @@ The classical theorems on sufficient statistics need only the copy/discard struc
 2 citations in 1 file await a look; 6 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-065.md:25`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:45`](../../record/questions.d/QUESTION-065.md)
+- [`record/questions.d/QUESTION-065.md:46`](../../record/questions.d/QUESTION-065.md)
 
 ### [THEORY-181](../../record/theory.d/THEORY-181.md) — Proposed
 
@@ -4666,15 +4666,6 @@ Mehta and Schwab's correspondence between Kadanoff's variational renormalization
 
 - [`record/questions.d/QUESTION-060.md:23`](../../record/questions.d/QUESTION-060.md)
 - [`record/questions.d/QUESTION-060.md:40`](../../record/questions.d/QUESTION-060.md)
-
-### [THEORY-198](../../record/theory.d/THEORY-198.md) — Proposed
-
-For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, so the renormalized Hamiltonian gains no range and, in 1D, product disorder gains no correlations across the block; the coarse-grainings actually optimized fall short of that condition, and for them the link is shown only numerically, in 1D
-
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-065.md:24`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:43`](../../record/questions.d/QUESTION-065.md)
 
 ### [THEORY-200](../../record/theory.d/THEORY-200.md) — Proposed
 
@@ -4701,7 +4692,7 @@ For a short-range lattice model on a cylinder, with block and environment as sla
 2 citations in 1 file await a look; 4 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-065.md:24`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:44`](../../record/questions.d/QUESTION-065.md)
+- [`record/questions.d/QUESTION-065.md:45`](../../record/questions.d/QUESTION-065.md)
 
 ### [THEORY-207](../../record/theory.d/THEORY-207.md) — Proposed
 

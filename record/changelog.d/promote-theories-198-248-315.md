@@ -1,10 +1,10 @@
 ### Added
 
-- [QUESTION-tmpavq90](record/questions.d/QUESTION-tmpavq90.md): whether a coarse-graining short of full capture keeps
+- [QUESTION-154](record/questions.d/QUESTION-154.md): whether a coarse-graining short of full capture keeps
   longer-range couplings bounded by the information lost, in two or more
   dimensions. It holds [THEORY-198](record/theory.d/THEORY-198.md)'s former promote_when, unchanged, and
   refines [QUESTION-065](record/questions.d/QUESTION-065.md).
-- [QUESTION-tmpgpocu](record/questions.d/QUESTION-tmpgpocu.md): whether a lossy-compression generalisation bound
+- [QUESTION-155](record/questions.d/QUESTION-155.md): whether a lossy-compression generalisation bound
   gives a non-trivial value for an algorithm with infinite I(S;W). It holds
   [THEORY-248](record/theory.d/THEORY-248.md)'s former promote_when, unchanged.
 

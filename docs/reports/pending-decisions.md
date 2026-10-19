@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**809 document(s) awaiting a decision.**
+**806 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 809.
+95 of the 806.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-482 of the 809.
+479 of the 806.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -258,7 +258,6 @@
 | 2026-10-09 | Proposed | [THEORY-167](../../record/theory.d/THEORY-167.md) | 13 | 0 | The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how |
 | 2026-10-09 | Proposed | [THEORY-162](../../record/theory.d/THEORY-162.md) | 12 | 4 | What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about |
 | 2026-10-09 | Proposed | [THEORY-180](../../record/theory.d/THEORY-180.md) | 12 | 0 | In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise |
-| 2026-10-09 | Proposed | [THEORY-198](../../record/theory.d/THEORY-198.md) | 12 | 2 | For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, so the renormalized Hamiltonian gains no range and, in 1D, product disorder gains no correlations across the block; the coarse-grainings actually optimized fall short of that condition, and for them the link is shown only numerically, in 1D |
 | 2026-10-09 | Proposed | [THEORY-204](../../record/theory.d/THEORY-204.md) | 12 | 2 | In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows |
 | 2026-10-09 | Proposed | [THEORY-163](../../record/theory.d/THEORY-163.md) | 10 | 0 | The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it |
 | 2026-10-09 | Proposed | [THEORY-177](../../record/theory.d/THEORY-177.md) | 10 | 0 | In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the least total direct influence of context that any canonical causal model of the data must contain, and each content's share is the total-variation distance between its marginals |
@@ -336,7 +335,6 @@
 | 2026-10-14 | Proposed | [THEORY-258](../../record/theory.d/THEORY-258.md) | 7 | 1 | Optimizing a language model on feedback from a simulated population in which a few users reward harmful validation selects a policy that picks those users out by contextual cues and harms only them, with no one designing the targeting |
 | 2026-10-14 | Proposed | [THEORY-271](../../record/theory.d/THEORY-271.md) | 7 | 0 | In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it |
 | 2026-10-14 | Proposed | [THEORY-292](../../record/theory.d/THEORY-292.md) | 7 | 0 | In CNN image classifiers, concept directions fitted one concept at a time align for attributes that co-occur in the labels, yet a joint fit finds mutually orthogonal directions that still separate each concept with little loss of AUROC, so the alignment is a property of the separate fits and not forced by the representation |
-| 2026-10-14 | Proposed | [THEORY-315](../../record/theory.d/THEORY-315.md) | 7 | 0 | For a state whose four-state reflection orbit is realizable, generalized noncontextuality bounds two binary predictabilities by |⟨X⟩| + |⟨Z⟩| ≤ 1, so the form of a predictability trade-off, not its existence, can witness contextuality |
 | 2026-10-14 | Proposed | [THEORY-318](../../record/theory.d/THEORY-318.md) | 7 | 0 | A bound on the max-information between a dataset and the functions an analyst chooses bounds the probability that an adaptively chosen statistic overfits that dataset, and differential privacy supplies the bound, so a holdout can validate many adaptively chosen statistics |
 | 2026-10-14 | Proposed | [THEORY-227](../../record/theory.d/THEORY-227.md) | 6 | 0 | Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse |
 | 2026-10-14 | Proposed | [THEORY-231](../../record/theory.d/THEORY-231.md) | 6 | 0 | Within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations, not realist representations as such; it rests on a stronger assumption than a Bell-like no-go and so applies where none exists, as in prepare-measure scenarios, but only Leibnizianity implying noncontextuality is proved |
@@ -351,7 +349,6 @@
 | 2026-10-14 | Proposed | [THEORY-314](../../record/theory.d/THEORY-314.md) | 6 | 0 | Every minimizer of an arbitrary cost on the training outputs plus a strictly increasing function of the RKHS norm lies in the span of the kernel functions at the training points, by the reproducing property and orthogonal decomposition alone |
 | 2026-10-14 | Proposed | [THEORY-321](../../record/theory.d/THEORY-321.md) | 6 | 1 | Under repeated DeGroot averaging, a large society's consensus converges to the truth if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
-| 2026-10-14 | Proposed | [THEORY-248](../../record/theory.d/THEORY-248.md) | 5 | 0 | The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and the lossy bound stays finite where I(S;W) is infinite |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 5 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
 | 2026-10-14 | Proposed | [THEORY-256](../../record/theory.d/THEORY-256.md) | 5 | 0 | When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); small transformers trained by next-token prediction on such processes settle near that dimension in approximately orthogonal subspaces, and reach it first even when noise makes it lossy |
 | 2026-10-14 | Proposed | [THEORY-263](../../record/theory.d/THEORY-263.md) | 5 | 0 | A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound |
@@ -600,7 +597,7 @@
 
 ## ADRs
 
-2 of the 809.
+2 of the 806.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -609,7 +606,7 @@
 
 ## QUESTIONs
 
-9 of the 809.
+9 of the 806.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -625,7 +622,7 @@
 
 ## CLAIMs
 
-216 of the 809.
+216 of the 806.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -848,7 +845,7 @@
 
 ## CASEs
 
-1 of the 809.
+1 of the 806.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -856,7 +853,7 @@
 
 ## TERMs
 
-2 of the 809.
+2 of the 806.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -865,7 +862,7 @@
 
 ## ARGs
 
-2 of the 809.
+2 of the 806.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

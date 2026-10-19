@@ -1,5 +1,8 @@
 ---
+number: 154
 status: Open
+formerly:
+- QUESTION-tmpavq90
 title: "Does a block coarse-graining that maximizes the information its coarse variables keep about the far environment, but falls short of full capture with their number and type fixed, keep the renormalized Hamiltonian's longer-range couplings bounded by the information lost, in two or more dimensions?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   the link to a short-ranged Hamiltonian is shown only on 1D chains.
 ---
 
-# QUESTION-tmpavq90: Does a block coarse-graining that maximizes the information its coarse variables keep about the far environment, but falls short of full capture with their number and type fixed, keep the renormalized Hamiltonian's longer-range couplings bounded by the information lost, in two or more dimensions?
+# QUESTION-154: Does a block coarse-graining that maximizes the information its coarse variables keep about the far environment, but falls short of full capture with their number and type fixed, keep the renormalized Hamiltonian's longer-range couplings bounded by the information lost, in two or more dimensions?
 
 ## Why it is a question
 

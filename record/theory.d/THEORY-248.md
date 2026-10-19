@@ -17,7 +17,7 @@ history:
     the output law's rate-distortion function is finite at distortion
     ε/(2L). The promote_when asked for a non-trivial value for an algorithm
     with infinite I(S;W), which the body disclaims ("Not that it is
-    non-vacuous for networks"). It moves, unchanged, to QUESTION-tmpgpocu.
+    non-vacuous for networks"). It moves, unchanged, to QUESTION-155.
     Theorem 4 and Corollary 6 are re-derived in the note of 2026-10-19
     below, and NOTE-780 followed every proof step by step.
 tags:
@@ -145,4 +145,4 @@ moment and ρ a norm, and that includes deterministic training with
 continuous weights, where I(S; W) is infinite. The old title's "stays
 finite" did not state this condition, and the new title does. Whether the
 finite value is ever non-trivial for a learned model is the question the
-promote_when asked. It moves, unchanged, to [QUESTION-tmpgpocu](../questions.d/QUESTION-tmpgpocu.md).
+promote_when asked. It moves, unchanged, to [QUESTION-155](../questions.d/QUESTION-155.md).

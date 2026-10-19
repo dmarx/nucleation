@@ -19,7 +19,7 @@ history:
     names what was computed, two-spin blocks of the 1D Ising and dilute
     random Ising chains. The promote_when asked about coarse-grainings short
     of full capture in two or more dimensions, which the body disclaims. It
-    moves, unchanged, to QUESTION-tmpavq90. The Lemma is re-derived in the
+    moves, unchanged, to QUESTION-154. The Lemma is re-derived in the
     note of 2026-10-19 below. Under ADR-047 v3 the hedged numerical clause
     rests on the one study, which NOTE-682 read in full.
 tags:
@@ -150,4 +150,4 @@ block, which the source calls reasonable and does not show, and the title
 now states that too.
 
 The promote_when asked what happens short of full capture, which this
-account disclaims. It moves, unchanged, to [QUESTION-tmpavq90](../questions.d/QUESTION-tmpavq90.md).
+account disclaims. It moves, unchanged, to [QUESTION-154](../questions.d/QUESTION-154.md).
