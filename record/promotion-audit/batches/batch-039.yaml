@@ -94,7 +94,8 @@ recommendation: >-
   fired on definitions and estimators. Sort every entry by its title as
   usual.
 owner_questions: []
-promotion_prs: []
+promotion_prs:
+  - "#235: THEORY-205, THEORY-275 and THEORY-365 narrowed and promoted (branch claude/promote-theories-205-275-365)."
 notes_for_ledger:
   - >-
     Triage-006 control: the formal flag went 1 of 5. Only the score-3
