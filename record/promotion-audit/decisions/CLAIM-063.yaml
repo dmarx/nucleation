@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/CLAIM-063.yaml
+id: CLAIM-063
+batch: batch-002
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The approximate commutator identity, on its own. With intertwining
+    defects E_A = ΦA − A′Φ and E_B = ΦB − B′Φ,
+    Φ[A,B] − [A′,B′]Φ = A′E_B + E_A B − B′E_A − E_B A, so
+    ‖Φ[A,B] − [A′,B′]Φ‖ ≤ (‖A‖ + ‖A′‖)‖E_B‖ + (‖B‖ + ‖B′‖)‖E_A‖. Re-derived
+    for this review by expanding ΦAB and ΦBA. ARG-006 (Active) holds only
+    the exact case, E_A = E_B = 0. No Active entry states the bound.
+  excluded: >-
+    The thesis that how far interpretive perspectives interfere "can itself
+    be part of what a translation preserves", and the defeat condition,
+    which is about measured order effects in renderings. That is empirical
+    with no observation under it, so it is interpretive by ADR-043. CLAIM-253
+    (Active counter) and CLAIM-231 (Active) already limit it: the defects
+    are not identified from judgement data, and CLAIM-231's 2ε bound is the
+    identified one.
+evidence:
+  - "The identity, expanded: ΦAB = A′B′Φ + A′E_B + E_A B, and ΦBA = B′A′Φ + B′E_A + E_B A."
+  - "ARG-006 (Active, formal-application) concludes this claim for the exact case and names the manuscript's §9 identity as the approximate one."
+  - "CLAIM-253 and CLAIM-231 (both Active) scope what the identity can say about data."
+blockers:
+  - >-
+    For the remainder: a demonstrated warrant over an empirical defeat
+    condition (NOTES pattern 1). It becomes interpretive. It stays Proposed
+    until a study measures order effects in renderings against an identified
+    bound. Given CLAIM-253, that bound is CLAIM-231's observational one, not
+    the defects'.
+unlocks: []
+next_action: >-
+  Split PR. File the identity and its norm bound as a demonstrated claim on
+  the formal-apparatus line, Active, which ARG-006 can then cite for the
+  approximate case. CLAIM-063 keeps the thesis, rests on the new claim, and
+  becomes interpretive.
