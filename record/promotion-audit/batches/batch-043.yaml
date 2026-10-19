@@ -41,7 +41,9 @@ rubric_vs_outcome:
     formal_signals: [title, cites, relation]
     outcome: narrow-and-promote
     mattered: '"Tight only for" fails at p = q; the O(σ²) is proved for one kernel family only.'
-promotion_prs: []
+promotion_prs:
+  - "#243: THEORY-189 and THEORY-305 promoted, THEORY-313 narrowed and promoted (branch claude/promote-theories-189-305-313)."
+  - "#244: THEORY-181 and THEORY-237 narrowed and promoted (branch claude/promote-theories-181-237)."
 notes_for_ledger:
   - >-
     Triage-006's formal flag went 5 of 5 on the score-3 entries after the
