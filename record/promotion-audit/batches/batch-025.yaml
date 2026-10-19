@@ -48,6 +48,9 @@ recommendation: >-
   narrowing. A narrowed title should attribute any theorem it cites but
   the record does not hold.
 owner_questions: []
+promotion_prs:
+  - "#216: THEORY-314 promote, THEORY-308 narrow-and-promote, THEORY-320 split into THEORY-tmp9irmk (branch claude/promote-theories-308-314-split-320)."
+  - "#220: THEORY-391 and THEORY-472 narrow-and-promote under ADR-047 v3, with QUESTION-tmpnscuv and QUESTION-tmp2pp7t (branch claude/promote-theories-391-472)."
 follow_up_prs:
   - "THEORY-308: narrow-and-promote, with the two closed gaps and the rate's assumptions as a dated note. THEORY-314: promote, with the H_k proof and existence conditions as a dated note. THEORY-320: split; a new Active THEORY holds the exact residual identity, and THEORY-320 keeps the toy clauses with a note recording the reconstruction."
   - "THEORY-391 and THEORY-472: narrow-and-promote under ADR-047 v3, each promote_when moved to a new QUESTION (refining QUESTION-120, and beside THEORY-172)."
