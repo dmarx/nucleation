@@ -55,7 +55,6 @@ extends:
 answers:
 - QUESTION-067
 ---
-<!-- inactive-ok-file: THEORY-231 — Proposed; named in the choice-of-notion caveat, not leaned on -->
 
 # THEORY-011: Generalized contextuality is strictly broader than Kochen–Specker contextuality: a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two
 

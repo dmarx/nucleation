@@ -1,21 +1,24 @@
 ---
 number: 478
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpa223w
-promote_when: >-
-  A complete proof that the heat kernel on a metric tree meets the
-  Gaussian upper, lower and Hölder bounds the theorem uses, with the
-  Hölder step of Proposition C.5 repaired for close points, and a stated
-  condition under which the diffusion operator of sampled data
-  approximates a tree's heat kernel. The equivalence to a thresholded
-  snowflake would then be a theorem on its stated range of α, and the
-  bridge from data to it an assumption with content. Better benchmark
-  scores, or more datasets where the method has the best mean average
-  precision, cannot settle it; neither can the experiments at α = 1/2,
-  which lie outside the theorem's range.
-title: "When a data set's diffusion operator behaves like the heat kernel of a latent tree, summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance equivalent, up to constants, to a thresholded snowflake of the tree metric: it keeps the tree's neighbourhoods and not its global distances"
-version: 1
+title: "If the diffusion densities' Hellinger distances obey a Hölder bound with exponent θ in d_T / t^(1/β) and are bounded below once d_T exceeds a multiple of t^(1/β), then for 0 < α < θ/β summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance two-sided equivalent, up to constants, to min{1, d_T^(αβ)} for pairs above the finest scale: it keeps the tree's neighbourhoods and not its global distances; whether a tree's heat kernel, or sampled data, meets the bounds, and with which θ, is not shown"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted under ADR-047 v2, carrying out the promotion
+    audit's batch 026 decision for THEORY-478. The hypothesis "behaves
+    like the heat kernel of a latent tree" is replaced by the two
+    Hellinger bounds the proof uses, and the admissible range becomes
+    α < θ/β. LIT-870's 0 < α < 1/2 is the case β = 2, θ = 1, and
+    NOTE-675's repaired Proposition C.5 gives θ = 1/2, so α < 1/4. The
+    equivalence holds for pairs above the finest scale. The re-derivation
+    is in the dated note below. The promote_when, the tree heat-kernel
+    bounds and the bridge from sampled data, moves unchanged to
+    QUESTION-tmpeikcb.
 tags:
 - representation-learning
 - mathematics
@@ -37,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-119 THEORY-196 — Proposed; the lattice claim and the tree-embedding account set beside this one, not leaned on -->
 
-# THEORY-478: When a data set's diffusion operator behaves like the heat kernel of a latent tree, summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance equivalent, up to constants, to a thresholded snowflake of the tree metric: it keeps the tree's neighbourhoods and not its global distances
+# THEORY-478: If the diffusion densities' Hellinger distances obey a Hölder bound with exponent θ in d_T / t^(1/β) and are bounded below once d_T exceeds a multiple of t^(1/β), then for 0 < α < θ/β summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance two-sided equivalent, up to constants, to min{1, d_T^(αβ)} for pairs above the finest scale: it keeps the tree's neighbourhoods and not its global distances; whether a tree's heat kernel, or sampled data, meets the bounds, and with which θ, is not shown
 
 ## Source
 
@@ -114,3 +117,35 @@ does not.
   numbers show.
 - **[CLAIM-119](../claims.d/CLAIM-119.md)** concerns concept lattices, which a tree metric cannot
   distinguish from a hierarchy.
+- **[QUESTION-tmpeikcb](../questions.d/QUESTION-tmpeikcb.md)** carries the former promotion condition: whether a
+  metric tree's heat kernel meets the two bounds, with which Hölder
+  exponent, and when sampled data yield such a kernel.
+
+## Note of 2026-10-19: the equivalence re-derived
+
+From the promotion audit (batch 026, [ADR-047](../decisions.d/ADR-047.md) v2). Let d = d_T(i, j),
+t_k = 2^(−k) for k = 0, …, K, and h_k = ‖φ_i^k − φ_j^k‖₂, a Hellinger
+distance, so 0 ≤ h_k ≤ √2. The distance is
+D = Σ_k 2 sinh⁻¹(2^(1−kα) h_k). Assume, uniformly:
+
+- **(H1)** h_k ≤ C₁ (d / t_k^(1/β))^θ;
+- **(H2)** h_k ≥ c whenever d ≥ c₀ t_k^(1/β).
+
+Each argument 2^(1−kα) h_k lies in [0, 2√2], where concave sinh⁻¹ is
+within constant factors of the identity, so D ≍ S = Σ_k 2^(−kα) h_k.
+Let k* be the least k with c₀ t_k^(1/β) ≤ d. Then 2^(−k*) ≍ (d/c₀)^β,
+and k* ≤ K when d ≥ c₀ 2^(−K/β).
+
+- **Fine scales, k ≥ k*.** h_k ≤ √2 bounds their sum by a constant times
+  2^(−k*α) ≍ d^(αβ). (H2) gives h_{k*} ≥ c, so the sum is also at least a
+  constant times d^(αβ).
+- **Coarse scales, k < k*.** By (H1), 2^(−kα) h_k ≤ C₁ d^θ 2^(k(θ/β − α)).
+  For α < θ/β this geometric sum is dominated by its last term,
+  ≍ d^θ (c₀/d)^θ d^(αβ) ≍ d^(αβ). This is the only use of α < θ/β.
+- **Threshold.** If d ≥ c₀, every scale is separated, so S ≥ c. In all
+  cases S ≤ √2/(1 − 2^(−α)). So D ≍ 1.
+
+Hence D ≍ min{1, d^(αβ)}, with constants depending on α, β, θ, C₁, c
+and c₀. Below the finest scale only the upper bound holds. With β = 2,
+the source's θ = 1 gives α < 1/2. The repaired Proposition C.5's
+θ = 1/2 gives α < 1/4.
