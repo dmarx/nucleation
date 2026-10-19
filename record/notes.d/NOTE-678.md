@@ -32,7 +32,7 @@ summary: >-
   equal-length assumption; it is not measured or proved. A fitness on faces
   gives a simulated transition to growth in one direction.
 ---
-<!-- inactive-ok-file: THEORY-193 THEORY-188 THEORY-196 THEORY-195 THEORY-185 THEORY-186 QUESTION-025 CLAIM-119 — Proposed or Open; cited as the accounts this reading bears on -->
+<!-- inactive-ok-file: THEORY-188 THEORY-196 THEORY-195 THEORY-185 THEORY-186 QUESTION-025 CLAIM-119 — Proposed or Open; cited as the accounts this reading bears on -->
 
 # NOTE-678: Emergent Hyperbolic Network Geometry
 
