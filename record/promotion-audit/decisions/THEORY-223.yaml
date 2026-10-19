@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/THEORY-223.yaml
+id: THEORY-223
+batch: batch-040
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes: batch-031 (retain-proposed; routed here as an argument)
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title, judged as an argument. Read literally it is false:
+    rules within the system's action space can still be enforced from
+    outside it. An audit that detects and reverts an edit is one example,
+    and then the governor's authority does not rest on the system leaving
+    the rules alone. Narrowed to exclude that case ("when the rules and
+    every mechanism that enforces them lie within..."), it is analytic.
+    It restates the premise, which the promote_when itself says cannot
+    settle the entry ("the architectural fact that configuration files are
+    writable, which is the premise, not the finding").
+evidence:
+  - "NOTE-732 read LIT-1039 §§3.1, 4.3–4.6. The body: 'An argument from architecture, with anecdotes'. None of the vignettes shows an agent altering a control on itself."
+  - "The promote_when's refutation clauses are about what matters in practice (reach versus other reasons controls hold), which is an empirical thesis the title does not state."
+blockers:
+  - "No version of the title is both true as written and more than the premise. The entry's content is the empirical thesis, that reach is what decides whether a control holds in deployed agents. That needs the log study the promote_when names, which the record does not hold."
+notes: >-
+  Wave 5 confirms batch 031's reading from the other side: the argument
+  establishes only an analytic conditional, and the entry means more than
+  that. Restating the title as the empirical thesis would make it honest
+  but not promotable. It would then be an untested empirical THEORY, with
+  no route until a study is filed. CLAIM-086's use (an inverted case of a
+  constraint not governing its own authority) needs only the analytic
+  conditional, and CLAIM-086 can cite LIT-1039 for it directly.
+unlocks: []
+next_action: None. Stays Proposed until a study of deployed-agent control logs is filed.

@@ -1,0 +1,35 @@
+# record/promotion-audit/decisions/THEORY-593.yaml
+id: THEORY-593
+batch: batch-040
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes: batch-033 (retain-proposed; routed here as an argument)
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title, judged as an argument. Its central clause, that
+    frames "change which objects a perceiver individuates", is not what the
+    argument establishes. The body disclaims it: the multisensory evidence
+    shows different weightings and estimates, and "different objects" is
+    inferred. The separation clause (system-level shaping leaves open
+    whether any percept is penetrated) follows only if installed tunings
+    run without occurrent cognitive input. The body says the paper leaves
+    that unclear, since §3.iii calls a frame "a specific top-down
+    prediction".
+evidence:
+  - "NOTE-150 version 2 read LIT-099 in full and grades its claims weak to moderate."
+  - "THEORY-593's 'What this does not say' (frames not shown to differ from attention or imagery, not shown to operate bottom-up, not shown to yield different objects)."
+  - "CLAIM-341 rests on it as a Proposed source."
+blockers:
+  - "Narrowed to what the argument does establish, the title becomes a conditional ('if a learned tuning runs without occurrent cognitive input, then system-level shaping leaves the episode-level question open'). That conditional is analytic, and the antecedent is the contested part. No title is both supported and non-trivial."
+notes: >-
+  Same shape as THEORY-223: once an argument's title is cut down to what
+  it establishes, what remains is the premise or a conditional on it. That
+  is a sign the entry is a conceptual proposal waiting on the experiment
+  its promote_when describes, not a synthesis whose title needs
+  adjusting.
+unlocks: []
+next_action: None.
