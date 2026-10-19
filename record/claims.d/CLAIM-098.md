@@ -4,9 +4,22 @@ status: Proposed
 formerly:
 - CLAIM-tmpse4aa
 title: 'Translation and cross-modal reconstruction need not be group actions: they form a category or semigroup of directed stochastic transformations, in which invertible symmetries are special cases'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Warrant corrected from demonstrated to interpretive at the owner's
+    direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-098.yaml, batch 001, ADR-047).
+    The demonstrated content is held elsewhere. That Markov kernels form a
+    category and that approximate transports compose in total variation is
+    CLAIM-260's, and irreversibility is CLAIM-035's, both Active. What this
+    claim adds is that directed lossy transport is the better model for
+    translation, and its defeat condition is about predictive power, which
+    makes it interpretive. The status stays Proposed. The claim is unchanged.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   The transformations that matter for communicative fidelity are well
   modelled as invertible maps with exact invariants, so that directed,
@@ -83,3 +96,14 @@ Markov kernel is nonexpansive in total variation. So in that setting
 approximate transports form a category in which distortions add. For other
 distortions, which may lack the triangle inequality or meet expansive
 kernels, the category claim waits on [QUESTION-017](../questions.d/QUESTION-017.md). The manuscript's text quoted above is unchanged.
+
+## Note of 2026-10-19: the warrant
+
+The warrant is interpretive. The parts that can be proved are held by
+Active claims: [CLAIM-260](CLAIM-260.md) for the category of kernels and the composition
+of approximate transports in total variation, and [CLAIM-035](CLAIM-035.md) for
+irreversibility. This claim's own content is a choice of model. Its defeat
+condition, that directed lossy transport "adds no predictive power over
+symmetry alone", is a comparative null. As [CLAIM-238](CLAIM-238.md) says of such
+conditions, it needs a margin fixed in advance before any study can bear
+on it.
