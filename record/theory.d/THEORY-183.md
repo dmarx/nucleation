@@ -15,7 +15,21 @@ promote_when: >-
   unedited models, and further fits of the kernel to unedited corpora,
   cannot settle it, because they are what the account was built to match.
 title: 'When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-183.yaml, batch 011, ADR-047),
+    the theorem in the first clause (Propositions 1, 3 and 4 and
+    Corollary 2 of LIT-860, under Assumption B.1) is filed apart as
+    THEORY-tmpv2de0, Active, with Proposition 1 and Corollary 2 re-derived
+    (ADR-047 v2). This THEORY extends it and keeps the empirical account:
+    the symmetry in corpus statistics and its carry-over to trained
+    embeddings and language models. Its promote_when already concerned only
+    that and is unchanged. The claim is unchanged, and the status stays
+    Proposed.
 tags:
 - representation-learning
 - mathematics
@@ -24,6 +38,8 @@ source:
 - LIT-860
 - LIT-855
 - LIT-322
+extends:
+- THEORY-tmpv2de0
 summary: >-
   Karkada, Korchinski, Nava, Wyart and Bahri (2026), [LIT-860](../literature.d/LIT-860.md): proved
   for an embedding whose Gram matrix equals the co-occurrence matrix (or its
@@ -52,7 +68,8 @@ answers:
 
 ## What was actually shown
 
-**The theorem.** Take an embedding W whose Gram matrix W Wᵀ is the matrix
+**The theorem** (filed apart, Active, as [THEORY-tmpv2de0](THEORY-tmpv2de0.md), with
+its hypotheses and a re-derivation). Take an embedding W whose Gram matrix W Wᵀ is the matrix
 absolute value of M*, with M*_ij = (P_ij − P_iP_j)/(½(P_ij + P_iP_j)) and
 d ≥ rank M*. Suppose a set S of words sits on a lattice in a latent space
 (the months on a circle, years on an interval, places on a plane), and
