@@ -1,0 +1,38 @@
+# record/promotion-audit/decisions/CLAIM-192.yaml
+id: CLAIM-192
+batch: batch-021
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+warrant: interpretive
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    Re-grounding. The claim uses List and Pettit for one point: "A group's
+    judgments can depart from what its members judge on the same
+    proposition while being wholly fixed by the members' whole sets of
+    judgments." That is THEORY-725's weak discontinuity under the
+    premise-based procedure (Active, #185). In two profiles the members'
+    verdicts on R are (yes, no, no). The group accepts R in one and rejects
+    it in the other, and in both the group's set is a function of the
+    members' whole sets. Nothing here needs THEORY-127's general
+    impossibility (Propositions 2–3, Proposed), so the ground moves to
+    THEORY-725.
+  excluded: >-
+    Promotion. The claim is interpretive, it rests on CLAIM-177 (Proposed,
+    empirical), and its own defeater, the owner's unrecorded change of
+    mind, is untested. The re-grounding changes none of that.
+evidence:
+  - "CLAIM-192 body: 'List and Pettit (THEORY-127) give the formal version of the possibility. A group's judgments can depart from what its members judge on the same proposition while being wholly fixed by the members' whole sets of judgments.'"
+  - "THEORY-725 (Active): 'Weak discontinuity ... The same judgments on the conclusion go with opposite group verdicts, so they do not fix it'; 'The group's set is a function of the members' whole sets (set-wise supervenience).'"
+  - "rests_on: CLAIM-177 (Proposed, empirical), CLAIM-030 (Active, interpretive)."
+blockers:
+  - "CLAIM-177 is Proposed."
+  - "Interpretive warrant: promotion would be the owner's call even with its premises settled."
+unlocks: []
+next_action: >-
+  Correction PR. Change the ground from THEORY-127 to THEORY-725. Point the
+  body's citation of List and Pettit at THEORY-725, and name THEORY-127 as
+  the general impossibility the claim does not need. Add a dated note and
+  move to version 2. Status unchanged.

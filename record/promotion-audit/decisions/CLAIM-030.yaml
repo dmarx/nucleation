@@ -1,0 +1,38 @@
+# record/promotion-audit/decisions/CLAIM-030.yaml
+id: CLAIM-030
+batch: batch-021
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Active
+warrant: interpretive
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    The summary overstates its anchor. "List and Pettit's result that a
+    rational group cannot judge proposition by proposition from its
+    members' judgments (THEORY-127)" is the general impossibility
+    (Propositions 2–3). The source cites it without proof, and THEORY-127
+    keeps it, Proposed. The claim needs less: that a whole's judgment is
+    not recovered by aggregating its members' judgments one proposition at
+    a time. One agenda on which proposition-wise majority fails already
+    shows that. That agenda is THEORY-725 (Active), and its weak
+    discontinuity is the claim's point in miniature: the members'
+    judgments on the conclusion do not fix the group's, but their whole
+    judgment sets do. So the summary should say "can fail to", with
+    THEORY-725 added as the formal anchor. THEORY-127 stays a ground,
+    cited as open, for the general case.
+  excluded: >-
+    The claim itself, its status and its other grounds. THEORY-140,
+    THEORY-144 and THEORY-139 are Proposed and cited as open, as the
+    directive already says.
+evidence:
+  - "CLAIM-030 summary: 'List and Pettit's result that a rational group cannot judge proposition by proposition from its members' judgments (THEORY-127) is its formal anchor'."
+  - "THEORY-725 'What this does not say': 'That no proposition-wise rule depending on more than one individual and respecting unanimity is robustly rational (Propositions 2–3) is cited in the source, not proved. It is THEORY-127's, still Proposed.'"
+blockers: []
+unlocks: []
+next_action: >-
+  Correction PR. Add THEORY-725 to the grounds. Make the summary say "can
+  fail to", citing THEORY-725 for the court agenda and THEORY-127 for the
+  general impossibility. Reword the THEORY-127 directive. Add a dated note
+  and move to version 2. Status unchanged.

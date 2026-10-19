@@ -1,0 +1,45 @@
+# record/promotion-audit/batches/batch-021.yaml
+batch: batch-021
+date: '2026-10-19'
+kind: evidence-audit
+wave: 4
+record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+selection: >-
+  Two groups. First, THEORY-127's dependents, triaged in batch 015:
+  CLAIM-192, CLAIM-271 and CLAIM-030. Second, the two wave-1 claims held
+  for Proposed premises: CLAIM-206 and CLAIM-126. Each premise's status
+  was rechecked on main after #201. The batch ran in parallel with other
+  batches, and THEORY-127 itself is left to batch 023.
+reviewed: [CLAIM-192, CLAIM-271, CLAIM-030, CLAIM-206, CLAIM-126]
+outcomes:
+  needs-correction: [CLAIM-192, CLAIM-271, CLAIM-030, CLAIM-126]
+  retain-proposed: [CLAIM-206]
+yield: 0 of 5 found a promotion path; four corrections (three re-groundings on THEORY-725, one warrant)
+finding: >-
+  A dependency pass over interpretive dependents yields corrections, not
+  promotions. THEORY-725 replaces THEORY-127 as the formal ground of all
+  three dependents. Each uses List and Pettit for an existence statement,
+  that proposition-wise aggregation can fail and that the members'
+  judgments on the conclusion need not fix the group's. One court-agenda
+  profile settles that, and none of the three needs the general
+  impossibility. Still nothing promotes: every one is interpretive, and
+  each either has another Proposed premise (CLAIM-177; THEORY-131 and
+  THEORY-139) or is already Active. Of the two wave-1 holdovers, CLAIM-126
+  is the fifth ADR-040 parent to keep a demonstrated warrant over a formal
+  core that is now Active elsewhere, here CLAIM-268. CLAIM-206 is a
+  counter that the record has answered and the owner has not decided.
+recommendation: >-
+  Take wave 1's remaining holdovers out of the dependency queue. What keeps
+  them Proposed is interpretive premises, not formal ones, so they belong
+  to wave 5. When a split files a formal core, grep the parent's
+  dependents for "cannot" or "always" stated over the parent's general
+  result. Usually the existence form is all they need.
+owner_questions: []
+follow_up_prs:
+  - "CLAIM-192, CLAIM-271 and CLAIM-030 re-ground from THEORY-127 to THEORY-725. CLAIM-030 adds THEORY-725 and keeps THEORY-127, cited as open, and its summary says 'can fail to'. CLAIM-126's warrant changes from demonstrated to interpretive. Statuses unchanged."
+prs: []
+notes_for_ledger:
+  - "Wave 4 counts: 3 reviewed (CLAIM-192, -271, -030), 0 promotion paths. CLAIM-206 and CLAIM-126 are wave-1 candidates: 2 reviewed, 0 promotion paths."
+  - "All five decisions are new; none supersedes an earlier review. Remove CLAIM-192, CLAIM-271 and CLAIM-030 from the requeue list."
+  - "Pattern 1, a demonstrated warrant left over a split-off formal core, has now appeared in five ADR-040 parents: CLAIM-081, -193, -056, -269 and -126. Check every ADR-040 parent still marked demonstrated, in one sweep."
+  - "Pattern: dependents of a split parent usually cite its general result only for an existence statement. 'Cannot always' or 'can fail to' is settled by one instance, so the split's core is enough."
