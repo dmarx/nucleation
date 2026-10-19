@@ -920,3 +920,144 @@ history note. THEORY-277 is requeued on this basis.
 - **Wave 5 roots (030).** Drawing roots of argument lines worked:
   3 of 5 had a path. Two of them are interpretive promotions, so they go
   to the owner.
+
+## 2026-10-19 — batch 031 (wave 3, source route)
+
+- Sort class predicted all five outcomes in batch 031: two arguments
+  retained, one single-study measurement promoted under v3 (THEORY-216),
+  one cross-study generalisation retained (THEORY-115), one theorem-class
+  entry retained (THEORY-116). Triage-005 scored all five at 6, which
+  carried no information.
+- A theorem-class title can state the direction its source does not prove
+  (THEORY-116: the title is LIT-669's Conjecture 1; App. F.3 proves the
+  converse). Check direction before re-deriving, and grep the Active
+  THEORYs for the converse. Here THEORY-732 (iii) already holds it.
+- When a narrowing excludes a universal clause, grep the dependents'
+  bodies for that clause, not only their grounds. CLAIM-273 cites
+  THEORY-216 for "the lasting artworks are the ones whose coalitions keep
+  placing under overwriting", which the narrowing drops, so its bullet is
+  restated in the same PR.
+- Queue: THEORY-073 and THEORY-223 move to wave 5 (argument class).
+  THEORY-115 and THEORY-116 stay retained in wave 3. THEORY-216 is
+  decided, narrow-and-promote.
+
+## 2026-10-19 — batch 032 (wave 3, source route)
+
+- Wave 3's source route, first five: 1 of 5, and that one (THEORY-324,
+  Ashby) was a theorem in prose. Triage-005's formal flag missed it. Flag
+  prose deductions ("only if", "necessary and sufficient", "every
+  equilibrium is") as formal.
+- A trigger condition in a sufficiency theorem. "Changes the parameters
+  when the variables leave their limits" is ambiguous between a jump on
+  crossing and a change for as long as they stay outside. Only the second
+  makes every equilibrium adapted. A jump on crossing can land in a field
+  with an unadapted equilibrium and stay there. Check "when ... leaves"
+  wording in any feedback or homeostasis title.
+- The depth score reads a full reading of a secondary source as full depth
+  (THEORY-560, a narrative review; THEORY-411, an encyclopedia entry).
+  ADR-047 v3 needs the study itself. Treat results a review reports as
+  cited, not read.
+- Necessity relative to a rule. Ashby's "only if" holds for systems that
+  follow the trial-and-error rule, and becomes nearly definitional once
+  the rule is assumed. A fixed regulator stable across the whole
+  environment class needs no channel. When a promote_when widens an "only
+  if" to "any system that achieves X", look for a regulator that achieves
+  X without searching.
+
+## 2026-10-19 — batch 033 (wave 3, triage-005 control)
+
+- Triage-005's control: the route flag predicted 2 of 4. It was right on
+  both arguments (THEORY-071, -485) and wrong on both measurements
+  (THEORY-178, -306), each routed to source and promoted under ADR-047 v3.
+  Sort by what the title asserts (batch 020). The flag catches theorems
+  only.
+- empirical_hedged scored 0 on both yielders. THEORY-178's measured
+  signature is a model ensemble that the title does not name, and
+  THEORY-306's contrast (MAE and data2vec) sits in the title's last
+  clause. Read 'What was actually shown' for a model run or a table, not
+  the title.
+- Thomas's rule is not enough for synchronous Boolean necessity claims. A
+  free negative cycle (a' = ¬b, b' = a, period 4) can be phase-shifted by
+  a transient clamp. Beside any other oscillation, that gives a new joint
+  attractor with no positive circuit in reach. Check for it whenever a
+  Boolean attractor claim says "only through a positive circuit".
+  THEORY-178's condition holds in its network only because the network has
+  no such oscillator outside the reach of positive circuits.
+- An "explicit in X" clause in an empirical title can be a one-line
+  identity (THEORY-306: −H(p̄) = D_KL(p̄ ‖ U) − log K). Check it before
+  treating the title as measurement only.
+- Move THEORY-593, THEORY-071 and THEORY-485 to wave 5: each is an
+  argument or conceptual analysis read in full, with nothing to measure or
+  re-derive.
+
+## 2026-10-19 — batch 034 (possibility theses)
+
+- Batch 028's CLAIM-033 and CLAIM-115 decision files were on its unmerged
+  branch at this batch's revision. This batch's files replace them, with
+  supersedes_review naming batch 028. When both branches are integrated,
+  keep batch 034's files (check.py allows one file per code).
+- A defeater restated in place leaves its title behind. Whenever a history
+  note says a `defeated_if` was restated, check the title in the same
+  review. All three of the 2026-10-10 in-place restatements CLAIM-238
+  prompted left a possibility title over a prevalence test.
+- A split parent can keep the split-off core's quantifier (CLAIM-105: its
+  "can" is CLAIM-320's, since 2026-10-15). After an ADR-043 or ADR-040
+  split, the parent's title should say only what the parent keeps.
+- CLAIM-238's comparative half was answered with new entries (CLAIM-220,
+  -202, -204), not by restating the old ones. So CLAIM-115 and CLAIM-139
+  still carry marginless defeaters by design. Don't correct them; whether
+  CLAIM-220 supersedes CLAIM-115 is the owner's open decision.
+- CLAIM-139 and CLAIM-143, also named by CLAIM-238, are unreviewed for
+  defeater fit. CLAIM-143's second disjunct is an impossibility, like
+  CLAIM-077, and probably fits; CLAIM-139 is comparative, like CLAIM-115.
+
+## 2026-10-19 — batch 035 (possibility theses, part 2)
+
+- Read CLAIM-238's own lists before calling an objected-to claim a
+  possibility thesis. It sorts its targets into three shapes: nulls with
+  no margin, "can" theses, and impossibility conditions. The remedy
+  differs by shape: a margin, a prevalence claim, or an argument.
+  CLAIM-238's version-2 history names which targets have been restated; a
+  target at version 1 is still bound in full.
+- Exclusive "only" again, in a CLAIM (CLAIM-143). Test a singular "after X
+  is fixed" against quantifying over a class of X. Here a disagreement can
+  survive every admissible correspondence, so the claim holds only with "a
+  class of correspondences" in place of "the correspondence".
+- THEORY-628's outcome matches triage-005's route (source, retained). With
+  it the control sample (THEORY-071, -178, -306, -485, -628) is fully
+  reviewed; tally it against the route when integrating. The queue also
+  marks THEORY-176 `control: true`, though triage-005's control list does
+  not name it; reconcile. Arguments filed as THEORYs go to wave 5.
+- A record-built toy model does not meet a promote_when that asks for a
+  worked case of a conceptual distinction (THEORY-628). It builds the
+  distinction in by construction. ADR-047 v2 covers proofs, not
+  constructed cases.
+- A coded-corpus result is a measurement under batch 020's rule, and
+  ADR-047 v3 can apply (THEORY-167). Check that the coding data, not only
+  its summary, is in the text read. Propp's per-tale schemes were garbled
+  in the OCR and unread, and they carry the order claim.
+- THEORY-167's Source line understates NOTE-615's reading (it names four
+  chapters; the NOTE read all nine). Fix it when the entry is next edited.
+
+## 2026-10-19 — round 031-035 tally and triage-006
+
+- Round yield: 4 promotions (THEORY-216, -324, -178, -306), 3 title
+  corrections (CLAIM-033, -087, -105, in #222), 16 retained. The source
+  route went 1 of 5 in each of batches 031 and 032, and the one in 032
+  (THEORY-324) was a prose deduction that the formal flag missed.
+- Triage-005 control tally (THEORY-071, -178, -306, -485, -628): the route
+  flag sent all five to source; two yielded (THEORY-178, -306, both
+  measurements under ADR-047 v3). Batch 020's sort by what the title
+  asserts got all ten of 031 and 033 right. Keep sorting by the title;
+  use the flag only to order the queue.
+- THEORY-176 has no `control` flag in the queue; batch 035's note about it
+  was a misreading and needs no change.
+- Triage-006 replaces the formal flag (signals: title, cites, relation,
+  derived; minus a philosophical title; threshold 2). On the 30 labelled
+  entries it gains recall (0.90 vs 0.76) at equal precision, but it was
+  fitted to those 30. Every labelled false flag scores exactly 2, as do 53
+  of 82 flagged; treat the score-2 band as noisy. THEORY-290 is wrongly
+  penalised by the philosophical-title signal ("argument" there means
+  debate content); review it as formal.
+- Batch 034's decisions for CLAIM-033 and CLAIM-115 replace batch 028's;
+  CLAIM-077's retain-proposed replaces batch 001's needs-correction.

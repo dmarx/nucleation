@@ -1,0 +1,119 @@
+# record/promotion-audit/decisions/THEORY-324.yaml
+id: THEORY-324
+batch: batch-032
+reviewed: '2026-10-19'
+reviewed_revision: de0974aa4e91505b1ebeb9d4d768bbc2aea8a461
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    Ashby's two deductions, read in full in NOTE-851 (C2 and C3, both
+    strong) and re-derived here step by step as ADR-047 v2 requires. The
+    re-derivation is the "second reader's check" the promote_when asks for.
+    The title needs two narrowings: the second feedback must act whenever,
+    and only while, an essential variable is outside its limits, and the
+    necessity is relative to the trial-and-error rule under Ashby's stated
+    case.
+
+    Setting (S. 7/26, S. 22/6). The whole is a state-determined system with
+    variables in four blocks: environment E, reacting part R, essential
+    variables V, and parameters S of R (the step-mechanisms). Its
+    transition is x' = F(x), with x = (e, r, v, s) and one component map
+    per block. R acts on V only through E, and the coupling of E to V is
+    not known to R (Ss. 7/3–7/4). "Adapted" at a state means that every
+    essential variable is within its limits there (S. 5/8).
+
+    Sufficiency (Ss. 6/8, 7/11).
+      (a) The veto. x is an equilibrium of the whole iff F(x) = x, and
+          this holds iff each component map leaves its own block fixed
+          at x, given the other blocks' values there. That is the
+          coordinatewise reading of F(x) = x, so the veto needs nothing
+          beyond state-determinacy.
+      (b) Suppose S changes whenever V is outside its limits: for every x
+          with some v_i outside its limits, F_S(x) ≠ s.
+      (c) At an equilibrium, F_S(x) = s by (a). By (b), every v_i is then
+          within its limits. So every equilibrium of the whole is
+          adapted, whatever R's construction and however S's new values
+          are drawn, at random included (S. 7/25). If the whole has no
+          equilibrium, as when no configuration of S is stable (S. 8/11),
+          the statement holds vacuously, and the body already says so.
+
+    Necessity (Ss. 7/4–7/8).
+      (d) Dependence, in Ashby's operational sense (S. 12/3): S depends
+          on V if two states that differ only in V can be followed by
+          different values of S.
+      (e) The trial-and-error rule (S. 7/7) is: change the way of
+          behaving, which S sets (S. 6/3), when the trial is
+          unsuccessful, and retain it when it is successful. Success is
+          judged by whether V is within its limits.
+      (f) Take two states that agree in E, R and S, with V within its
+          limits in one and outside in the other. State-determinacy makes
+          V a coordinate of its own, so such pairs exist whenever V can
+          leave its limits at all, which is the case worth adapting to.
+          The rule makes S stay in the first and change in the second. So
+          S depends on V, and by (d) there is a channel from V to S, direct
+          or through intermediates.
+      (g) S sets R (S. 6/3), R acts on E, and E acts on V. With (f), that
+          closes a loop V → S → R → E → V, distinct from the primary loop
+          R ⇄ E. That is the second feedback. Nothing in (d)–(g) fixes
+          its form, which is why Ashby calls the ultrastable form "only one
+          of a large class of related forms" (S. 7/26).
+
+    What the re-derivation does not reach is recorded under excluded. (f)
+    makes the necessity close to definitional once the rule is assumed.
+    That is Ashby's own structure ("a candidate who gives the correct
+    answers without being given the questions", S. 7/8), not a gap.
+  excluded: >-
+    (1) "When those variables leave their limits", read as a trigger on
+    crossing. A step-mechanism that jumps only when V crosses out of its
+    limits can land in a field whose equilibrium lies outside them, and then
+    stay there, because there is no further crossing. That is exactly the
+    promote_when's second refuter (an ultrastable system whose terminal
+    equilibria leave an essential variable outside its limits). Step (b)
+    needs S to keep changing for as long as V is outside, which is the
+    Homeostat's relay F, advancing the uniselector at every test while it
+    stays closed (S. 8/2). The title should say "whenever, and as long as".
+
+    (2) The promote_when's wider scope: "any system that comes to keep its
+    essential variables within limits must carry a channel". That is
+    false without the trial-and-error rule. A regulator whose single
+    fixed setting is stable for every environment in the class keeps V
+    within limits with no channel to S, because S never needs to change.
+    Ashby's necessity covers systems that must find the setting by trial,
+    which the title already says ("adapts by trial and error"). Whether
+    any adaptive organisation other than trial and error escapes the
+    channel, for instance a regulator that learns E's coupling to V, moves
+    to a new QUESTION. Step (f) suggests such learning still needs
+    information about V, but this review does not show it.
+
+    (3) "Formally identical (isomorphic)" with the ultrastable form
+    (S. 7/8). The derivation gives a channel and a loop, not an
+    isomorphism, and the title does not claim one.
+
+    (4) Anything about adaptation time, which belongs to THEORY-307.
+evidence:
+  - "NOTE-851 version 1: read in full from the second edition's OCR text, all eighteen main chapters and the four appendix chapters. Figures were read from captions only, but this title rests on no figure. Claims table: C2 strong (deduction, Ss. 7/4–7/8) and C3 strong (the veto theorem, Ss. 6/8 and 7/11)."
+  - "NOTE-851 Key results quote the veto as necessary and sufficient (Ss. 6/8–6/9), the rule (S. 7/7), and 'no state of the parameters S is equilibrial' while the essential variables are outside their limits. That is the 'whenever outside' form step (b) needs."
+  - "THEORY-324's 'What this does not say' already limits the necessity to the case where the reacting part cannot act on or know the coupling to the essential variables (Ss. 7/3–7/4)."
+  - "Citers: CLAIM-339 and CLAIM-342 (both Proposed, interpretive) cite it as a ground for the essential-variable framing. Neither needs more than the narrowed title. Inactive-ok directives naming THEORY-324 are in QUESTION-038, CLAIM-185, CLAIM-039, LIT-787, NOTE-851 and THEORY-307."
+blockers: []
+notes: >-
+  Batch 020's sort rule: the title states a theorem about state-determined
+  systems, so it goes to re-derivation, although triage-005 routed it to
+  source and its formal flag is 0 (the mathematics tag is absent again, as
+  batch 017 found). This is the source's proof, re-checked, not the
+  record's own result, so it stays a THEORY (ADR-032 does not apply). The
+  warrant rule (ADR-043 v2) does not apply, since THEORYs carry no
+  warrant field. Confidence is medium rather than high only because the
+  appendix's displayed equations are rough OCR (NOTE-851). The prose
+  statements the derivation uses were quoted cleanly.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR under ADR-047 v2. Retitle so the second feedback
+  changes the parameters "whenever, and as long as" an essential variable
+  is outside its limits. Keep "by trial and error" and the unknown-coupling
+  case, and add the re-derivation as a dated note. Move the promote_when's
+  wider "any system" scope to a new QUESTION. Trim the inactive-ok
+  entries naming THEORY-324 in QUESTION-038, CLAIM-185, CLAIM-039,
+  LIT-787, NOTE-851 and THEORY-307.

@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/THEORY-485.yaml
+id: THEORY-485
+batch: batch-033
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. Its first clause (C1: wave-function realism
+    undermines spacetime-restricted closure but not closure relative to
+    fundamental physics) is close to analytic once STC and FPC are
+    defined. If the fundamental state is not in spacetime, a sufficient
+    basis for a spacetime effect is not wholly in spacetime. If the domain
+    is the whole ontology of the fundamental theory, ψ is inside it. That
+    is too thin to split as a core, as with THEORY-460's arithmetic. The
+    rest is philosophy. "Opens no causal gap" needs P7, that quantum
+    theories deliver dynamical and not causal structure, and the paper
+    asserts P7 with Ney (2016) cited. The sorting of other accounts (§5)
+    was not checked against them, and NOTE-112 rates its generalization
+    weak. The paper concedes that no published argument makes the move it
+    rebuts.
+evidence:
+  - "NOTE-112 version 2: the PhilSci-Archive preprint read in full. It rates C1 close to analytic and the §5 generalization weak, and did not check the readings of Ney, Chalmers and McQueen, or Bikaraan-Behesht."
+  - "THEORY-485's 'What this does not say': FPC needs a criterion of the physical and a dynamical-to-causal bridge, which the paper says are required and supplies neither of."
+blockers:
+  - "P7 is asserted, not argued, and the readings of the sorted accounts are unchecked. Both are named in the promote_when, and neither is met."
+notes: >-
+  The title asserts an argument (batch 020's sort rule), on an unrefereed
+  preprint. The analytic core is real but trivial once the terms are
+  defined, and the title's weight is on its unargued bridge. The entry
+  belongs in wave 5. A checking pass on the three cited accounts would
+  meet half the promote_when. It needs readings the record does not hold.
+unlocks: []
+next_action: None. Move to wave 5 in the queue.

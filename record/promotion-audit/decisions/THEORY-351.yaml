@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/THEORY-351.yaml
+id: THEORY-351
+batch: batch-032
+reviewed: '2026-10-19'
+reviewed_revision: de0974aa4e91505b1ebeb9d4d768bbc2aea8a461
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is an argument, a stylized task analysis of one
+    airline's MD-80 procedure, and its own last clause says so ("argued by
+    task analysis of mandated procedure, not measured"). The descriptive
+    parts (the card selected by the displayed gross weight, the bugs set
+    25 to 30 minutes ahead) report the procedure. The thesis, that the
+    cockpit system remembers the speeds "without either pilot's memory
+    being improved", is an inference about internal memory the paper
+    itself says it cannot check: "Lacking additional evidence, we cannot
+    know the duration or quality of these memories." The comparison
+    system without bugs is imagined, and no crews are compared or timed.
+evidence:
+  - "NOTE-867 version 1: read in full, nothing skipped, all 71 quotations checked by script. The reading is not the obstacle."
+  - "THEORY-351's 'What this does not say' grants that nothing is measured, that only success is analysed, and that the class of tasks is narrow."
+  - "The promote_when asks for a measured comparison of crews with and without bugs, recording pilot recall. The record holds none, and LIT-1060 (Cognition in the Wild) is Unavailable."
+blockers:
+  - "No measurement of the bugged and unbugged systems under the same load. The thesis that pilot memory is not improved is inferred, not tested."
+notes: >-
+  Batch 020's sort rule: an argument, retained for wave 5. ADR-047 v3 does
+  not apply, because the source measured nothing. The title's
+  self-description ("argued ..., not measured") is accurate, but status is
+  credence in what the title asserts, not in its report of how it was
+  argued (owner question in batch-032.yaml). No separable core: the
+  procedural description is not a result. The warrant rule (ADR-043 v2)
+  does not apply to a THEORY.
+unlocks: []
+next_action: None. Leave it for the wave-5 sample.

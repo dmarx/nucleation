@@ -1,0 +1,110 @@
+# record/promotion-audit/batches/batch-032.yaml
+batch: batch-032
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: de0974aa4e91505b1ebeb9d4d768bbc2aea8a461
+selection: >-
+  Triage-005's source route, five pending wave-3 entries in the order
+  handed down: THEORY-324, THEORY-351, THEORY-411, THEORY-490, THEORY-560.
+  Batch 020's sort rule was applied first: a theorem goes to re-derivation
+  (ADR-047 v2), a measurement read in full goes to v3, and an argument is
+  retained for wave 5. The warrant rule (ADR-043 v2) was checked and does
+  not apply, because all five are THEORYs, which carry no warrant field.
+  The branch was cut at cb938c23 and moved to de0974aa (#220) before
+  any file was written. #220 touches none of the five.
+reviewed: [THEORY-324, THEORY-351, THEORY-411, THEORY-490, THEORY-560]
+sort:
+  THEORY-324: theorem (Ashby's deductions about state-determined systems), re-derivation route
+  THEORY-351: argument (task analysis, nothing measured), wave 5
+  THEORY-411: argument (exegesis of Sen through a secondary source), wave 5
+  THEORY-490: argument (philosophy of reference, invented usages), wave 5
+  THEORY-560: measurement-shaped, but from a narrative review of unread studies, so not on v3's route
+outcomes:
+  narrow-and-promote: [THEORY-324]
+  retain-proposed: [THEORY-351, THEORY-411, THEORY-490, THEORY-560]
+yield: 1 of 5 found a promotion path (THEORY-324, by re-derivation under ADR-047 v2)
+rubric_vs_outcome:
+  # triage-005 components: bundling, depth, firsthand, extends, compound, empirical_hedged, formal
+  - code: THEORY-324
+    score: 6
+    outcome: narrow-and-promote
+    mattered: >-
+      Formal content, which the formal flag scored 0. The source route
+      was the wrong route: it is a theorem in prose. Bundling was real,
+      since the promote_when's "any system that comes to keep its
+      essential variables within limits" is wider than the title.
+  - code: THEORY-351
+    score: 6
+    outcome: retain-proposed
+    mattered: Nothing. A full reading (depth 2) of a source that measured nothing.
+  - code: THEORY-411
+    score: 6
+    outcome: retain-proposed
+    mattered: Nothing. The blocker is a first-hand text the record does not hold.
+  - code: THEORY-490
+    score: 6
+    outcome: retain-proposed
+    mattered: Nothing. A philosophical thesis supported by invented examples.
+  - code: THEORY-560
+    score: 6
+    outcome: retain-proposed
+    mattered: >-
+      Depth misfired. "Read in full" was true of the review, but every
+      result the title states is cited from studies the record has not read.
+finding: >-
+  The source route's first five went 1 of 5, and the one yield was a theorem
+  that the route had misfiled. That repeats batches 016, 017 and 020: in
+  wave 3, only formal results and measurements read first-hand promote.
+  Triage-005's route flag sent four arguments and one secondary review
+  here, and its depth score cannot tell a full reading of a review from a
+  full reading of a study. The four retained entries have specific,
+  external blockers: no measurement (351), an unheld Sen text (411), no
+  sample of usage (490), no systematic review (560). None can be met by
+  any route the audit has.
+recommendation: >-
+  Before the next source-route batch, re-sort the remaining source-route
+  entries by batch 020's rule, reading only the title and the source NOTE's
+  history line, and move the arguments to the wave-5 pool. Add a depth
+  check for secondary sources: a NOTE that read a review or encyclopedia
+  entry in full scores as cited, not read, for the results it reports.
+  Prose titles that state deductions ("only if", "necessary", "every
+  equilibrium") should be flagged as formal.
+owner_questions:
+  - >-
+    THEORY-351's title ends "this is argued by task analysis of mandated
+    procedure, not measured". Its self-report is accurate and the source
+    was read in full. Should such a title be judged as a report of the
+    argument, and so be promotable, or as the thesis argued, and so held
+    for wave 5? Recommended: the thesis. A THEORY's status is credence in
+    what it asserts, and the self-report belongs in the body, where it
+    already is. If the owner agrees, a later pass could move such clauses
+    out of titles.
+promotion_prs: []
+follow_up_prs:
+  - "THEORY-324: narrow-and-promote under ADR-047 v2. Retitle so the parameters change 'whenever, and as long as' an essential variable is outside its limits. Add the re-derivation as a dated note. Move the promote_when's wider 'any system' scope to a new QUESTION. Trim the inactive-ok entries naming THEORY-324."
+notes_for_ledger:
+  - >-
+    Wave 3's source route, first five: 1 of 5, and that one (THEORY-324,
+    Ashby) was a theorem in prose. Triage-005's formal flag missed it.
+    Flag prose deductions ("only if", "necessary and sufficient", "every
+    equilibrium is") as formal.
+  - >-
+    A trigger condition in a sufficiency theorem. "Changes the parameters
+    when the variables leave their limits" is ambiguous between a jump on
+    crossing and a change for as long as they stay outside. Only the
+    second makes every equilibrium adapted. A jump on crossing can land in
+    a field with an unadapted equilibrium and stay there. Check
+    "when ... leaves" wording in any feedback or homeostasis title.
+  - >-
+    The depth score reads a full reading of a secondary source as full
+    depth (THEORY-560, a narrative review; THEORY-411, an encyclopedia
+    entry). ADR-047 v3 needs the study itself. Treat results a review
+    reports as cited, not read.
+  - >-
+    Necessity relative to a rule. Ashby's "only if" holds for systems that
+    follow the trial-and-error rule, and becomes nearly definitional
+    once the rule is assumed. A fixed regulator stable across the whole
+    environment class needs no channel. When a promote_when widens an
+    "only if" to "any system that achieves X", look for a regulator that
+    achieves X without searching.

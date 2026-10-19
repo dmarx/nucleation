@@ -1,0 +1,70 @@
+# record/promotion-audit/batches/batch-034.yaml
+batch: batch-034
+date: '2026-10-19'
+kind: defeater-fit
+wave: 5
+record_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+selection: >-
+  Batch 028's referral: the possibility theses CLAIM-238 (Active, granted)
+  names, reviewed together, with each title's quantifier checked against
+  its defeater's. In order: CLAIM-033, CLAIM-077, CLAIM-087, CLAIM-105,
+  CLAIM-115. CLAIM-139 and CLAIM-143, also named by CLAIM-238, were not in
+  this batch. Run in parallel with other batch sessions; the parent session
+  integrates this file into queue.yaml and NOTES.md.
+reviewed: [CLAIM-033, CLAIM-077, CLAIM-087, CLAIM-105, CLAIM-115]
+outcomes:
+  needs-correction: [CLAIM-033, CLAIM-087, CLAIM-105]
+  retain-proposed: [CLAIM-077, CLAIM-115]
+yield: 0 of 5 promotion paths; 3 title/defeater corrections, carried out in one PR
+finding: >-
+  The three true possibility theses (CLAIM-033, -087, -105) all have the
+  same defect, with the same history. On 2026-10-10 each defeater was
+  restated in place from a universal negative to a prevalence test after
+  CLAIM-238, and each title kept its "can" or "may". The title is the side
+  to restate, because CLAIM-238 names prevalence as the remedy and because
+  the bare possibility is already held elsewhere: THEORY-170 for CLAIM-033,
+  CLAIM-320 for CLAIM-105 (the 2026-10-15 split), and CLAIM-225 for
+  CLAIM-087's bound. The other two are not possibility theses. CLAIM-077 is
+  a definitional proposal with an impossibility defeater, which CLAIM-239
+  (Active) says an argument can meet. CLAIM-115's defeater is a null with no
+  margin, which was repaired by filing CLAIM-220 rather than by restating
+  CLAIM-115. No warrant changes, under ADR-043 v2: all five are untested
+  and stay interpretive.
+supersedes:
+  - "CLAIM-033: batch-028, needs-correction (referred); now decided: restate the title."
+  - "CLAIM-077: batch-001, needs-correction (warrant, carried out); now retain-proposed."
+  - "CLAIM-115: batch-028, retain-proposed; unchanged, now with the defeater checked."
+owner_questions:
+  - >-
+    PR #222 makes CLAIM-033, -087 and -105 stronger claims (prevalence
+    instead of possibility), following CLAIM-238's remedy. If you would
+    rather keep them as possibility theses, the alternative is to restate
+    their defeaters as the cited instances failing on inspection, against
+    CLAIM-238's remedy.
+follow_up_prs:
+  - "#222: CLAIM-033, CLAIM-087, CLAIM-105 titles restated as prevalence."
+prs_opened: ['#222']
+notes_for_ledger:
+  - >-
+    Batch 028's CLAIM-033 and CLAIM-115 decision files were on its unmerged
+    branch at this batch's revision. This batch's files replace them, with
+    supersedes_review naming batch 028. When both branches are integrated,
+    keep batch 034's files (check.py allows one file per code).
+  - >-
+    A defeater restated in place leaves its title behind. Whenever a history
+    note says a `defeated_if` was restated, check the title in the same
+    review. All three of the 2026-10-10 in-place restatements CLAIM-238
+    prompted left a possibility title over a prevalence test.
+  - >-
+    A split parent can keep the split-off core's quantifier (CLAIM-105: its
+    "can" is CLAIM-320's, since 2026-10-15). After an ADR-043 or ADR-040
+    split, the parent's title should say only what the parent keeps.
+  - >-
+    CLAIM-238's comparative half was answered with new entries (CLAIM-220,
+    -202, -204), not by restating the old ones. So CLAIM-115 and CLAIM-139
+    still carry marginless defeaters by design. Don't correct them; whether
+    CLAIM-220 supersedes CLAIM-115 is the owner's open decision.
+  - >-
+    CLAIM-139 and CLAIM-143, also named by CLAIM-238, are unreviewed for
+    defeater fit. CLAIM-143's second disjunct is an impossibility, like
+    CLAIM-077, and probably fits; CLAIM-139 is comparative, like CLAIM-115.

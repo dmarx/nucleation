@@ -1,33 +1,46 @@
 # record/promotion-audit/decisions/CLAIM-077.yaml
 id: CLAIM-077
-batch: batch-001
+batch: batch-034
 reviewed: '2026-10-19'
-reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
 current_status: Proposed
-warrant: demonstrated
-disposition: needs-correction
-confidence: medium
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+supersedes_review:
+  batch: batch-001
+  disposition: needs-correction
+  why: >-
+    Batch 001's warrant correction (demonstrated to interpretive, with the
+    constant-transport step stated in the body) was carried out: CLAIM-077
+    is at version 2. This review checks the title against the defeater,
+    for batch 028's referral of the possibility theses CLAIM-238 names.
 scope:
   accepted: >-
-    The mechanical consequence: if some pair has d_O(s_1, s_2) > δ, a
-    constant Φ gives distance 0 ≤ δ′ on it, so the separation condition
-    excludes constant transports. This is one line and does not need its own
-    claim.
+    No mismatch. CLAIM-077 is not a possibility thesis. Its title is a
+    proposed definition ("admissible only if"), and CLAIM-238 lists it
+    under impossibility claims, not possibility theses. Its defeater,
+    that no family of distinctions can be fixed independently of the
+    transports compared, attacks exactly what the definition needs: that
+    it can be applied. CLAIM-239 (Active) answers CLAIM-238's point: an
+    impossibility condition is met by an argument, so the claim can fail
+    by its own condition, though no study can make it fail. That is the
+    right kind of defeater for a definitional proposal, and replacing it
+    with an observable one (CLAIM-238's remedy) would test something the
+    title does not say.
   excluded: >-
-    The thesis: that transport should be defined by an admissibility
-    condition on independently specified distinctions. Its defeat
-    condition, that no family of distinctions can be fixed independently of
-    the transports compared, is an impossibility claim met only by argument
-    (CLAIM-238, Active, as narrowed by CLAIM-239).
+    Promotion. Whether the distinctions can be fixed independently is
+    QUESTION-005, which is open.
 evidence:
-  - "Defeat condition is about whether the definition can be applied, not about a derivation."
-  - "ADR-043: a claim checked against the record's own wording is demonstrated only when the check is mechanical; this one turns on how the proposal is read."
+  - "CLAIM-077 title: 'A transport is admissible only if it keeps specified observable distinctions apart'."
+  - "CLAIM-238, Impossibility claims: 'no study the programme could run meets these conditions; only an argument could (CLAIM-239)'."
+  - "CLAIM-239 (Active): 'the admissibility and correspondence theses can fail by their own conditions, though no study the programme runs can make them fail'."
 blockers:
-  - >-
-    The warrant is misclassified. It should be interpretive (ADR-043), with
-    the mechanical consequence stated as one sentence in the body. After
-    that it is retained Proposed until an argument settles QUESTION-005: who
-    fixes the distinctions, and whether they can be fixed independently of
-    the transports.
+  - "QUESTION-005 is open; the claim is an interpretive proposal."
+notes: >-
+  CLAIM-077's version 2 history cites its decision file by path, which is
+  the trap NOTES records for batch 023. It sits in frontmatter, where luria
+  repair did not link it, so nothing is broken.
 unlocks: []
-next_action: Correction PR. Set the warrant to interpretive, with a history note citing this decision. The status is unchanged.
+next_action: >-
+  None.

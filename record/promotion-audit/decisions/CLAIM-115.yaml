@@ -1,28 +1,46 @@
 # record/promotion-audit/decisions/CLAIM-115.yaml
 id: CLAIM-115
-batch: batch-028
+batch: batch-034
 reviewed: '2026-10-19'
-reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
 current_status: Proposed
 warrant: interpretive
 disposition: retain-proposed
 confidence: high
+supersedes_review:
+  batch: batch-028
+  disposition: retain-proposed
+  why: >-
+    Batch 028 checked only the warrant. This review checks the title
+    against the defeater, for its referral of the theses CLAIM-238 names.
+    Batch 028's file was on its unmerged branch at this revision; this one
+    replaces it. The disposition is unchanged.
 scope:
   accepted: >-
-    The warrant is right. The thesis, that what survives translation is
-    the set of reconstructable communicative distinctions, is a
-    conceptual position. Its defeater, that human fidelity judgements
-    are predicted as well by propositional or embedding similarity, is
-    an empirical undercut with no study under it, which ADR-043's pilot
-    reads as interpretive.
+    No quantifier mismatch to correct. CLAIM-115 is not a possibility
+    thesis: its title is a general identification ("What survives
+    translation is ..."), and CLAIM-238 objects to its defeater on other
+    grounds, as a null with no margin ("predicted as well by") over
+    observables the thesis may re-choose. Those faults are granted and
+    already repaired, not in CLAIM-115 but in CLAIM-220, the record's
+    restatement of 2026-10-10 with an equivalence margin, a stated power,
+    named receivers and tasks, and a decisive interlingual arm. CLAIM-115
+    is kept as the manuscript's thesis as stated, and its body says so.
+    Restating its defeater would make it CLAIM-220. Whether CLAIM-220
+    supersedes it is already recorded as the owner's decision (CLAIM-220's
+    summary).
   excluded: >-
-    Nothing.
+    Promotion, and any edit to the defeater.
 evidence:
-  - "CLAIM-115 title and defeated_if; seven objections are open (CLAIM-222, -226, -232, -233, -238, -243, -244)."
+  - "CLAIM-115 defeated_if: 'predicted as well by propositional or embedding similarity as by measured preservation of pragmatic observables'."
+  - "CLAIM-238: 'As well as is a null result, which needs an equivalence margin and power, and no entry states either.'"
+  - "CLAIM-220 summary: 'It restates CLAIM-115 as an empirical claim indexed to receivers and tasks ... whether it supersedes it is the owner's decision.'"
 blockers:
-  - "Seven open objections; its premises CLAIM-050 and CLAIM-061 are Proposed."
+  - "Seven open objections (CLAIM-222, -226, -232, -233, -238, -243, -244); premises CLAIM-050 and CLAIM-061 are Proposed; no study has been run."
 notes: >-
-  The line's central thesis; correctly interpretive.
+  The comparative half of CLAIM-238 was answered by new entries, not by
+  restating the old ones; the possibility half was answered by restating
+  defeaters in place, which is what left three titles behind.
 unlocks: []
 next_action: >-
   None.

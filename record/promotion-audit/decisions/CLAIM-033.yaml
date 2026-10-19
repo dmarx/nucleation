@@ -1,47 +1,54 @@
 # record/promotion-audit/decisions/CLAIM-033.yaml
 id: CLAIM-033
-batch: batch-028
+batch: batch-034
 reviewed: '2026-10-19'
-reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
 current_status: Proposed
 warrant: interpretive
 disposition: needs-correction
 confidence: medium
+supersedes_review:
+  batch: batch-028
+  disposition: needs-correction
+  why: >-
+    Batch 028 found the title/defeater mismatch and referred the choice of
+    which side to restate to a regular review of the possibility theses
+    CLAIM-238 names. This is that review. Batch 028's file was on its
+    unmerged branch at this revision; this one replaces it.
 scope:
   accepted: >-
-    The warrant is right: interpretive, with no study under it. What
-    needs correcting is the fit between title and defeat condition, and
-    which side to change is not a sweep's call. The title is a
-    possibility claim ("a translation can broaden ... while narrowing"),
-    with Jakobson's Russian rendering of "I hired a worker" (LIT-786,
-    NOTE-614) and CASE-012 as instances. Version 2 (2026-10-10)
-    deliberately restated the defeat condition as a prevalence test ("at
-    a rate no greater than one fixed in advance"), because CLAIM-238
-    (Active, granted) showed that a possibility thesis's natural
-    defeater is a universal negative no finite study establishes. The
-    title was left saying "can", so it no longer matches its defeater: a
-    low rate does not defeat a "can".
+    Restate the title, not the defeater. The title says a translation
+    "can" broaden one dimension while narrowing another, which one
+    instance settles. The defeater since version 2 (2026-10-10) is a
+    prevalence test: in a sample drawn by a rule stated in advance, the
+    rate of renderings that lose on one dimension and gain on another is
+    no greater than a rate fixed in advance. The history says the
+    restatement was deliberate, after CLAIM-238, and CLAIM-238 (Active,
+    granted) names the remedy: "each possibility thesis given a claim of
+    prevalence or magnitude that a study could defeat". Restoring an
+    instance-failure defeater would undo that choice and leave the
+    claim with nothing a study could defeat, while the main thesis needs
+    prevalence from it (CLAIM-238, on CLAIM-115 resting on CLAIM-061).
+    The possibility itself is not lost: it is Jakobson's point, held by
+    THEORY-170 and instanced in the body (LIT-786, NOTE-614, CASE-012).
+    Proposed title: "In published translations, renderings that lose
+    distinctions along one dimension commonly gain specificity along
+    another, so loss is not one-dimensional".
   excluded: >-
-    The fix itself. Either the title is restated as the prevalence claim
-    the defeater tests, or the claim stays a possibility thesis whose
-    defeat condition names the cited instances failing on inspection,
-    which CLAIM-238's point about universal negatives does not reach.
-    That choice weighs an Active objection and the line's other
-    possibility theses, so it belongs to a regular review, not to a
-    mechanical sweep. No PR is opened.
+    The warrant. It stays interpretive: no sample has been drawn, so the
+    claim has no observation under it (ADR-043 v2, present support).
+    The status stays Proposed.
 evidence:
-  - "CLAIM-033 body: 'Jakobson (1959) makes the same point at the level of grammar (LIT-786, NOTE-614, THEORY-170) ... a translation adds information along one dimension while losing it along another.'"
+  - "CLAIM-033 title: 'A translation can broaden the region of possible readings along one dimension while narrowing it along another'."
+  - "CLAIM-033 defeated_if (version 2): '... at a rate no greater than one fixed in advance, so that a single scalar of preserved information orders them as judges do.'"
   - "CLAIM-033 version 2 history: 'version 1 was a universal negative (\"never gain\"), which no study establishes; the restatement is a claim of prevalence.'"
-  - "CLAIM-238 (Active, granted): 'the possibility theses' are universal negatives that no finite study establishes'."
+  - "CLAIM-238, What it does not say: 'each possibility thesis given a claim of prevalence or magnitude that a study could defeat'."
 blockers:
-  - "Which side to restate (title or defeat condition) is a design choice that weighs CLAIM-238; THEORY-170 and CLAIM-042 are Proposed."
+  - "Interpretive and untested; its premise CLAIM-042 and its prior statement THEORY-170 are Proposed."
 notes: >-
-  A title left behind by its own restated defeater. CLAIM-238 lists other
-  possibility theses (CLAIM-115, -139, -077, -143, -087, -105) whose
-  defeaters were revised on 2026-10-10; check each title against its
-  revised defeater in the same review.
+  The same mismatch, with the same history, holds for CLAIM-087 and
+  CLAIM-105, and the three go in one correction PR.
 unlocks: []
 next_action: >-
-  Queue for a regular review of the 2026-10-10 possibility theses, with
-  CLAIM-238 in view: restate CLAIM-033's title as prevalence, or its
-  defeater as the instances failing. No sweep PR.
+  Correction PR: restate the title as prevalence, history entry last
+  citing batch 034, a dated body note. Status and warrant unchanged.
