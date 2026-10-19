@@ -4,9 +4,7 @@ status: Proposed
 formerly:
 - THEORY-tmpscxh5
 promote_when: >-
-  The Coecke–Pavlovic–Vicary condition is met: LIT-274 is read
-  (NOTE-247), and it proves the basis–Frobenius correspondence, for
-  complex spaces. What remains is a check, in each placement below, that
+  A check, in each placement of the table below, that
   the invariance or dependence claimed was measured or proved in the
   source, not inferred by the reader. At present LIT-273's covariance and
   LIT-272's rotation sensitivity are the readers' numerical checks, not
@@ -15,7 +13,7 @@ promote_when: >-
   from unitarily invariant data alone, with no operator, stipulated basis
   or factorisation supplied.
 title: 'In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record''s Hilbert-space works differ in where they get it'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-09-27'
@@ -35,6 +33,18 @@ history:
     H*-axiom in any dimension, over ℂ. Continuous observables remain
     outside, and the real-scalar caveat is extended to every dimension. The
     status stays Proposed.
+- version: 4
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-017.yaml, batch 005, ADR-047),
+    the mathematical core is filed apart as THEORY-tmpa07hh, Active: unitary
+    transitivity on bases and factorisations, the basis–Frobenius
+    correspondence over ℂ (LIT-274, LIT-275), and the real-scalar
+    counterexample. This THEORY extends it and keeps the synthesis: the
+    table of where each work gets its basis, and the two inferences. The
+    promote_when's met clause is removed, and it now names only the
+    per-placement check. The claim is unchanged; the status stays Proposed.
 tags:
 - mathematics
 - quantum-foundations
@@ -52,6 +62,7 @@ source:
 - LIT-275
 extends:
 - THEORY-004
+- THEORY-tmpa07hh
 summary: >-
   Carroll (2021), [LIT-123](../literature.d/LIT-123.md): a quantum theory is fixed up to unitary
   equivalence by the Hamiltonian's spectrum, and subsystems come from a
@@ -188,3 +199,13 @@ document's inferences, not claims in the sources.**
   structure than a list of basis vectors. It is also what "parts" means in
   Carroll's mereology. The table puts them in one column because both are
   structure beyond the space, not because they are the same structure.
+
+## Note of 2026-10-19: the core filed apart
+
+The mathematics in "The mathematical core is elementary" and in the
+real-scalar caveat is now [THEORY-tmpa07hh](THEORY-tmpa07hh.md), Active, with the counterexample
+written out. What keeps this THEORY Proposed is its synthesis: whether, in
+each placement in the table, the invariance or dependence was measured or
+proved in the source rather than inferred by the reader. [LIT-273](../literature.d/LIT-273.md)'s
+covariance and [LIT-272](../literature.d/LIT-272.md)'s rotation sensitivity are at present the readers'
+numerical checks.
