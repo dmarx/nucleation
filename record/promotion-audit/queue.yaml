@@ -3060,6 +3060,6 @@ history:
     in one PR.; carried_out_in #235'
 - version: 125
   date: '2026-10-19'
-  note: 'Round 036-041 closed: 16 promotion paths in 26 reviews; THEORY-162 requeued to wave 5; hand-off
+  note: 'Round 036-041 closed: 16 promotions in 28 reviews; THEORY-162 requeued to wave 5; hand-off
     updated.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
