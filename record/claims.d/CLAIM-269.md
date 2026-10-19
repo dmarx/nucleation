@@ -9,6 +9,12 @@ title: A regularized linear readout can tell apart only representations that
   by the analyst, not by the readouts
 version: 2
 history:
+- version: 1
+  date: '2026-10-13'
+  note: Split from CLAIM-193 under ADR-040, at the owner's request ("go ahead
+    with the group B splits"). The assistant restated the general content
+    without the premises about translation that CLAIM-193 rests on; CLAIM-193
+    now rests on this claim.
 - version: 2
   date: '2026-10-19'
   note: >-
@@ -22,12 +28,6 @@ history:
     converging kernels fix a representation only up to the symmetry of
     what is observed (THEORY-002), and that degeneracy does not identify
     the symmetry (THEORY-019). It stays Proposed until they are settled.
-- version: 1
-  date: '2026-10-13'
-  note: Split from CLAIM-193 under ADR-040, at the owner's request ("go ahead
-    with the group B splits"). The assistant restated the general content
-    without the premises about translation that CLAIM-193 rests on; CLAIM-193
-    now rests on this claim.
 role: thesis
 warrant: demonstrated
 defeated_if: A regularized linear readout shown to separate two representations
