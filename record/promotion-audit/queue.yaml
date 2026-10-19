@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 65
+version: 66
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-008
   state: reviewed
-  in_review: null
+  in_review: THEORY-002
   next_step: 'Batch 008 (wave 2) is reviewed: 4 of 5 found a promotion path. Wave 2 stands at 23 of 25.
     MERGE ORDER: merge #166 first, because later PRs cite ADR-047. Open PRs from this audit, by batch:
     first audit and its passes, #165. Ledger and ADR-047, #166. Batch 001: #167 (promote CLAIM-267, -270),
@@ -43,8 +43,8 @@ waves:
   promotion_paths: 10
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 25
-  promotion_paths: 23
+  reviewed: 26
+  promotion_paths: 24
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 0
@@ -657,12 +657,15 @@ candidates:
   wave: 2
   score: 4
   triage: triage-002
-  state: pending
+  state: decided
+  disposition: promote
+  batch: batch-009
+  decision: decisions/THEORY-037.yaml
 - code: THEORY-002
   wave: 2
   score: 4
   triage: triage-002
-  state: pending
+  state: in_review
 - code: THEORY-127
   wave: 2
   score: 3
@@ -971,4 +974,7 @@ history:
   date: '2026-10-19'
   note: 'THEORY-157 held by the parent: definitions reconstructed from prose; verify against the source''s
     diagrams before carrying out (hold: in its decision file).'
+- version: 66
+  date: '2026-10-19'
+  note: 'Batch 009: THEORY-037 decided (promote). THEORY-002 in review.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
