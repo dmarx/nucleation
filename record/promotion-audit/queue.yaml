@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 53
+version: 54
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
@@ -21,14 +21,15 @@ handoff:
     #173 (promote CLAIM-268; narrow-and-promote CLAIM-107), #174 (split CLAIM-063, -037), #175 (CLAIM-056
     warrant), #176 (promote THEORY-184; split THEORY-165 into CLAIM-tmp496tl), #177 (split THEORY-017
     into THEORY-tmpa07hh), #178 (split THEORY-174 and THEORY-168 into THEORY-tmp4o2p3 and THEORY-tmpm565o).
-    Pending, being opened by parallel forks, numbers not yet recorded: P4 (split THEORY-325 and THEORY-236)
-    and P5 (narrow-and-promote THEORY-247 and THEORY-206). Gated on #165 merging: the CLAIM-269 split
-    and the CLAIM-322 promotion (batch 004; CLAIM-322 is interpretive, the owner''s call). Next, in order:
-    (1) record P4 and P5''s PR numbers when given; (2) once the owner rules, open batch 007''s PRs (batches/batch-007.yaml
-    follow_up_prs; THEORY-009''s narrowing does not depend on the ruling and can go first); (3) re-triage
-    wave 2 by bundling and title-is-mathematics, not keywords (NOTES, batch 007), before the next five
-    triage-002 pending (THEORY-171, THEORY-160, THEORY-158, THEORY-157, THEORY-037); (4) a wave-4 pass
-    on the THEORY-165 citers once #176 merges (CLAIM-105, -201, -219, -235, -319, -320, CASE-037).'
+    #179 (split THEORY-325 into THEORY-tmp8dvpa; THEORY-236 promoted with the column-space CLAIM, a departure
+    from its split decision). Pending, being opened by a parallel fork, number not yet recorded: P5 (narrow-and-promote
+    THEORY-247 and THEORY-206). Gated on #165 merging: the CLAIM-269 split and the CLAIM-322 promotion
+    (batch 004; CLAIM-322 is interpretive, the owner''s call). Next, in order: (1) record P5''s PR number
+    when given; (2) once the owner rules, open batch 007''s PRs (batches/batch-007.yaml follow_up_prs;
+    THEORY-009''s narrowing does not depend on the ruling and can go first); (3) re-triage wave 2 by bundling
+    and title-is-mathematics, not keywords (NOTES, batch 007), before the next five triage-002 pending
+    (THEORY-171, THEORY-160, THEORY-158, THEORY-157, THEORY-037); (4) a wave-4 pass on the THEORY-165
+    citers once #176 merges (CLAIM-105, -201, -219, -235, -319, -320, CASE-037).'
   cautions:
   - 'PR #165''s tmp codes (CLAIM-tmpzk12h and others) are concretized at merge. Update decisions/ when
     they are.'
@@ -585,6 +586,7 @@ candidates:
   disposition: split
   batch: batch-006
   decision: decisions/THEORY-325.yaml
+  carried_out_in: '#179'
 - code: THEORY-277
   wave: 2
   score: 4
@@ -609,6 +611,7 @@ candidates:
   disposition: split
   batch: batch-006
   decision: decisions/THEORY-236.yaml
+  carried_out_in: '#179'
 - code: THEORY-206
   wave: 2
   score: 4
@@ -899,4 +902,10 @@ history:
   note: 'Batch 007 closed: the triage-002 control yields 4 of 5 (THEORY-233 promote; THEORY-009, THEORY-297
     narrow-and-promote; THEORY-323 split; THEORY-106 retain-proposed), against 15 of 16 for the keyword
     group. Triage-002''s ranking is weakly informative; see batches/batch-007.yaml and NOTES.'
+- version: 54
+  date: '2026-10-19'
+  note: 'carried_out_in: #179 for THEORY-325 and THEORY-236 (batch 006). New codes: THEORY-tmp8dvpa, CLAIM-tmp007ve,
+    CLAIM-tmp67453. Departure from the decision: THEORY-236''s decision was split, but #179 promotes THEORY-236
+    itself and adds only the column-space CLAIM. The disposition stays split as decided; the PR''s outcome
+    is recorded here.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
