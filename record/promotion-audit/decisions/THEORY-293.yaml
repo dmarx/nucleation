@@ -1,0 +1,76 @@
+# record/promotion-audit/decisions/THEORY-293.yaml
+id: THEORY-293
+batch: batch-036
+reviewed: '2026-10-19'
+reviewed_revision: 735f6240
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    Two halves, sorted separately (batch 020).
+
+    The theorem (C1 strong, Theorem 4.3, every proof in App. F read in
+    NOTE-796), re-derived here by exchange (ADR-047 v2). Assumptions as the
+    source states them: the mixture is orthogonal, so capacity splits
+    additively, m1 + m2 ≤ M, between the facts (domain 1) and domain 2
+    (Definition F.5); the facts' best loss F_P1(m1) falls linearly with slope
+    −p until m1 = Htot (Theorem 4.2; NOTE-796 corrects F.8's sign); F_P2 is
+    convex and non-increasing. The learner minimises
+    r·F_P1(m1) + (1 − r)·F_P2(m2). Put t = r·p/(1 − r).
+      (a) A bit given to the facts lowers the loss by r·p; a bit given to
+          domain 2 at m2 lowers it by (1 − r)·(−F′_P2(m2)), which does not
+          increase with m2 (convexity).
+      (b) Below. Let M ≤ M₀⁻(t) = sup{M′ : −F′_P2(M′) > t}. If an optimum had
+          m1 > 0, then m2 < M ≤ M₀⁻, so some M″ > m2 has −F′_P2(M″) > t, and
+          by monotonicity −F′_P2(m2) > t. Moving a small ε of capacity from
+          the facts to domain 2 lowers the loss by about
+          ε[(1 − r)(−F′_P2(m2)) − r·p] > 0. So no optimum has m1 > 0: none of
+          the facts is learned.
+      (c) Above. Let M ≥ M₀⁺(t) + Htot, M₀⁺(t) = inf{M′ : −F′_P2(M′) < t}.
+          If an optimum had m1 < Htot, capacity is used in full (otherwise
+          adding facts bits strictly helps), so m2 = M − m1 > M₀⁺, and some
+          M‴ < m2 has −F′_P2(M‴) < t, so the left derivative at m2 is below t
+          as well. Moving ε from domain 2 to the facts lowers the loss by
+          about ε[r·p − (1 − r)(−F′_P2(m2))] > 0. So every optimum has
+          m1 = Htot: all the facts are learned.
+      (d) Between M₀ and M₀ + Htot the facts take every further bit, so
+          recall rises over a width of Htot, as the body says.
+      (e) With F_P2 = C + A·M^(−α), −F′_P2(M) = αA·M^(−(α+1)) = t gives
+          M₀ = (αA(1 − r)/(r·p))^(1/(α+1)), which scales as (1/(r·p))^(1/(α+1))
+          for small r (eqs. 4–6, C2).
+    The measurement (C3 moderate), under ADR-047 v3: one study read in full,
+    Pythia models from 14M to 6.9B on SynBio biographies mixed into
+    FineWeb-Edu show near-zero recall below a model size that falls as r
+    rises, and below a mixing ratio at fixed size (70M: 0.4% at r ≤ 0.2 to
+    58.1% at 0.45 over three seeds, Table 1), then a steep rise.
+  excluded: >-
+    (1) "In full above it": the theorem gives all facts only above
+    M₀⁺ + Htot, so the title must carry the Htot margin. (2) "Show the same
+    threshold": that the trained networks' thresholds are the optimal
+    learner's is C5, weak (curve shape and one exponent, 1.152 against 1.283,
+    no interval). The narrowed title says the models show a threshold. (3)
+    "Such mixtures": SynBio plus web text is not shown to be orthogonal; the
+    title names the data instead. The promote_when's test of the link moves
+    to a new QUESTION.
+evidence:
+  - "NOTE-796: read in full, every proof in Appendix F; C1 strong, C2 strong given the power law, C3 moderate, C5 weak."
+  - "NOTE-796 Limitations: most runs single-seed; the link to SGD asserted; F.8's sign slip does not affect the result."
+blockers: []
+notes: >-
+  The promote_when asked only for the link test, which the narrowed title no
+  longer claims; ADR-047 v3 moves it to a QUESTION. The re-derivation takes
+  Theorem 4.2's linear facts loss and the additivity of capacity under
+  orthogonality as given; both are the source's stated assumptions, read
+  with their proofs in NOTE-796. Checks for an Active converse: none;
+  THEORY-229 and THEORY-086 time acquisition within a task, which is a
+  different question.
+unlocks: []
+next_action: >-
+  Narrow-and-promote. Retitle: for an optimal capacity-bounded learner on an
+  orthogonal mixture of equally frequent random facts and a second domain,
+  the facts are learned not at all below a capacity threshold set by the
+  mixing ratio, and in full once capacity exceeds it by the facts' total
+  entropy; Pythia models trained on synthetic biographies mixed into web
+  text show a threshold in model size and in mixing ratio. Re-derivation as
+  a dated note; the link test to a new QUESTION (line learned-structure).

@@ -1,0 +1,79 @@
+# record/promotion-audit/batches/batch-036.yaml
+batch: batch-036
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 735f6240
+selection: >-
+  Triage-006's formal_route, entries 1–5 in the order handed down:
+  THEORY-080, THEORY-263, THEORY-293, THEORY-321, THEORY-229. Batch 020's
+  sort rule was applied first; all five state theorems, and THEORY-293 also
+  a measurement. The warrant rule (ADR-043 v2) does not apply to THEORYs.
+reviewed: [THEORY-080, THEORY-263, THEORY-293, THEORY-321, THEORY-229]
+sort:
+  THEORY-080: theorem, but the record's own assembly (ADR-032)
+  THEORY-263: theorem, re-derivation
+  THEORY-293: theorem plus one study read in full (ADR-047 v2 and v3)
+  THEORY-321: theorem, re-derivation
+  THEORY-229: theorem, re-derivation of the proved part
+outcomes:
+  promote: [THEORY-263]
+  narrow-and-promote: [THEORY-293, THEORY-321, THEORY-229]
+  needs-correction: [THEORY-080]
+yield: 4 of 5 found a promotion path; THEORY-080 needs re-filing as a CLAIM first
+rubric_vs_outcome:
+  - code: THEORY-080
+    formal_score: 4
+    outcome: needs-correction
+    mattered: >-
+      The formal flag was right that it derives, but the derivation is the
+      record's own ("stated by no source"), which the flag cannot see.
+  - code: THEORY-263
+    formal_score: 4
+    outcome: promote
+    mattered: The second clause re-derives in a few lines by change of measure.
+  - code: THEORY-293
+    formal_score: 4
+    outcome: narrow-and-promote
+    mattered: Bundling (theorem plus measurement), and an overstated "in full above it".
+  - code: THEORY-321
+    formal_score: 4
+    outcome: narrow-and-promote
+    mattered: A quantifier over networks the re-derivation reaches only when strongly connected.
+  - code: THEORY-229
+    formal_score: 4
+    outcome: narrow-and-promote
+    mattered: The informal generic-initialization result, which the title folded in.
+promotion_prs: []
+notes_for_ledger:
+  - >-
+    Triage-006's top five went 4 of 5 by re-derivation; the fifth
+    (THEORY-080) derives too but is the record's own synthesis. Before
+    re-deriving a formal_route entry, read its summary for "the filer's
+    synthesis" or "stated by no source": those go to a CLAIM under ADR-032,
+    not to promotion.
+  - >-
+    A source theorem about a sequence of networks can hold as stated only
+    under strong connectivity. When a title says "the consensus" or "the
+    limit belief", check whether the source's statement allows several
+    closed groups, and narrow to one if the derivation needs it
+    (THEORY-321).
+  - >-
+    "Learned not at all below X and in full above it" (THEORY-293) is a
+    recurring overstatement of threshold theorems whose upper bound carries a
+    margin. Check both ends of a threshold.
+  - >-
+    For a "learns modes in order of eigenvalue" title, check that the order
+    is stated for a common initial scale; the step time depends on the
+    initial scale too (THEORY-229).
+  - >-
+    The disintegrated change of measure plus the subgaussian square-moment
+    bound reproduces Sefidgaran & Zaidi's Theorem 1 constants exactly; a
+    reusable check for PAC-Bayes-shaped titles.
+owner_questions:
+  - >-
+    THEORY-321: Golub & Jackson's Proposition 2, as NOTE-840 records it,
+    allows several closed groups. The reviewer's sketch suggests a vanishing
+    largest weight may not suffice there. Should the paper be reopened to
+    check the multi-group statement, or is the strongly connected narrowing
+    enough?
