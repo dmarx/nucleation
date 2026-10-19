@@ -30,7 +30,7 @@ history:
     At the owner's direction, carrying out the promotion audit's decision
     for THEORY-186 (batch 024, ADR-047), the exact solution from a
     decoupled, balanced start and the shallow contrast are filed apart as
-    THEORY-tmpyyddn, Active, re-derived (ADR-047 v2). This THEORY extends
+    THEORY-740, Active, re-derived (ADR-047 v2). This THEORY extends
     it and keeps the claim that small random, unbalanced starts follow the
     solution. Its promote_when already concerned only that and is
     unchanged. The status stays Proposed.
@@ -55,7 +55,7 @@ extended_by:
 supports:
 - CLAIM-360
 extends:
-- THEORY-tmpyyddn
+- THEORY-740
 ---
 <!-- inactive-ok-file: THEORY-211 — Proposed; readings on balance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-187 — Proposed; accounts this one underlies or is set beside -->

@@ -18,7 +18,7 @@ history:
   note: >-
     At the owner's direction, carrying out the promotion audit's decision
     for THEORY-182 (batch 024, ADR-047), the proved part is filed apart as
-    THEORY-tmpppb1u, Active: the quartic proxy's rank-d minimisers and its
+    THEORY-739, Active: the quartic proxy's rank-d minimisers and its
     aligned-initialisation dynamics (LIT-855 Theorem 1 and Proposition 2),
     re-derived (ADR-047 v2). This THEORY extends it and keeps the
     random-initialisation derivation and the carry-over to word2vec. Its
@@ -40,7 +40,7 @@ summary: >-
 supports:
 - CLAIM-082
 extends:
-- THEORY-tmpppb1u
+- THEORY-739
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the unconstrained-optimum account this one is set beside -->
 <!-- inactive-ok-file: THEORY-229 — Proposed; the self-supervised account this one shares a mechanism with, named in Connections -->

@@ -26,7 +26,7 @@ history:
     At the owner's direction, carrying out the promotion audit's decision
     for THEORY-286 (batch 024, ADR-047), the UF-SVM geometry under step
     imbalance (LIT-994 Theorem 1 and Corollary 1.3) is filed apart as
-    THEORY-tmpbyp9v, Active, re-derived by a dual certificate (ADR-047 v2).
+    THEORY-738, Active, re-derived by a dual certificate (ADR-047 v2).
     This THEORY extends it and keeps the gradient-descent conjecture, the
     ridge results and the measurements of trained networks. Its
     promote_when already concerned only those and is unchanged. The status
@@ -51,7 +51,7 @@ summary: >-
   approach it more slowly at larger R. Not shown: that gradient descent
   reaches it, and anything with more than one seed.
 extends:
-- THEORY-tmpbyp9v
+- THEORY-738
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-278 — Proposed; the record's statement of collapse, its account of limiting dynamics, and the MSE account filed beside this one -->
 
