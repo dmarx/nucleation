@@ -1,0 +1,76 @@
+# record/promotion-audit/decisions/CLAIM-143.yaml
+id: CLAIM-143
+batch: batch-035
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    The first clause holds and has a documented instance. "Local
+    descriptions that disagree are not thereby incompatible" is a negated
+    entailment, so one case settles it: CASE-039 (Active), the inertial
+    frames that disagree on simultaneity and glue once the Lorentz maps
+    are given. The warrant stays interpretive under ADR-043 v2: the order
+    of tests and its validation proviso are supported by the exchange's
+    argument (A164, A173, A178, A203), and no pragmatic data has been
+    examined.
+  excluded: >-
+    The second clause, which is the claim's content: an obstruction "can
+    be assessed only after the correspondence between their observations
+    is fixed and independently validated". Quantifier check: the title's
+    "only after the correspondence is fixed" is singular and exclusive.
+    A disagreement can be shown to survive every correspondence in an
+    admissible class without fixing any one of them. Example: a shared
+    context with two outcomes, one description assigning (1/2, 1/2), the
+    other (1/3, 2/3). No bijection of outcomes makes the two marginals
+    agree, so the sections fail to agree on the overlap under every
+    bijective correspondence. What survives is "only relative to a
+    specified class of admissible correspondences". Without a class the
+    question is empty, since a lossy correspondence that collapses the
+    outcomes removes every disagreement, which is the claim's own proviso.
+    The defeat condition's quantifiers differ from the title's: its first
+    disjunct is about usefulness in data ("fixing the correspondence first
+    changes no verdict"), which would not refute a claim about what an
+    obstruction verdict presupposes; its second is an impossibility
+    (QUESTION-005 answered negatively), which CLAIM-238 (Active) and
+    CLAIM-239 (Active) agree only an argument can meet.
+evidence:
+  - "History: none. Version 1, 2026-10-10, with a dated note of 2026-10-13 moving the general content to CLAIM-265 under ADR-040."
+  - "rests_on: CLAIM-011 (Active, granted), CLAIM-004 (Proposed, interpretive), CLAIM-035 (Active, granted), CLAIM-265 (Proposed, interpretive, not yet in the queue)."
+  - "objected_by: CLAIM-238 only. CLAIM-238 names its second disjunct among the impossibility conditions; CLAIM-239's narrowing grants that an argument could meet it."
+  - "CLAIM-265's own defeated_if is the test above: a case shown to obstruct or to be compatible without any correspondence fixed."
+  - "QUESTION-005 (Open) is the circularity the entry itself names: whether a correspondence can be validated independently of the fidelity it is used to measure."
+blockers:
+  - "Its general content is CLAIM-265, Proposed and unreviewed. Decide the root first (batch 022's rule)."
+  - "CLAIM-004 (Proposed) supplies the passive/active classes the order of tests sorts into."
+  - "The 'independently validated' half waits on QUESTION-005, which no argument in the record has answered."
+  - "The exclusive 'only after the correspondence is fixed' is broader than what survives (a class of correspondences fixed)."
+notes: >-
+  Weighing CLAIM-238's granted objection: it is right that the second
+  disjunct cannot be met by a study, but CLAIM-239 (Active) shows it can
+  be met by argument, so the claim can fail by its own condition. That
+  removes CLAIM-238's force against CLAIM-143 as a matter of form; it
+  does not supply the argument. The directive called CLAIM-143 a
+  possibility thesis; on the text its title is a negated entailment plus
+  an exclusive necessity, and only the second disjunct of its defeater is
+  modal. The class-relative restatement is a candidate correction, but
+  the claim is interpretive and in the owner's line, so the audit records
+  it rather than making it. The cheaper and more general place to make it
+  is CLAIM-265, whose formal half (gluing is defined only relative to
+  given restriction and transition maps; a value disagreement under
+  unspecified maps entails no obstruction, as CASE-039 shows) may be
+  demonstrated.
+owner_questions:
+  - >-
+    Restate CLAIM-143's (and CLAIM-265's) "only after the correspondence
+    is fixed" as "only relative to a specified class of admissible
+    correspondences"? The bijection example above shows the singular
+    wording is too strong.
+unlocks: []
+next_action: >-
+  Queue CLAIM-265 for review (wave 1 or 2; its formal half may split
+  from the validation proviso). Requeue CLAIM-143 when CLAIM-265 and
+  CLAIM-004 are decided.
