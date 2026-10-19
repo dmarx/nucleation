@@ -1,18 +1,10 @@
 ---
 number: 171
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpquo32
-promote_when: >-
-  A published, refereed version of Theorem 2.34 of LIT-808, or an
-  independent proof of it read and checked, showing that the presheaf
-  of causal functions over the lowerset topology of a space of input
-  histories is a sheaf exactly when the space has no solipsistic
-  contextuality witness. One more worked non-gluing example does not
-  count, since an example shows only that some spaces fail, which is
-  the half already checked here.
 title: 'When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-09'
@@ -21,6 +13,21 @@ history:
     Example 7.2 is a second, independent instance of deterministic data
     failing to glue because causal pasts are incomparable, and its Example
     7.3 adds a gluing that is not unique. The claim is unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/THEORY-171.yaml,
+    batch 008, ADR-047). The title is an existence statement, and one
+    checked example settles it. LIT-808's Θ₃ was followed step by step in
+    NOTE-612, and the decision re-derives it. Under ADR-047 v2, the owner's
+    rule of 2026-10-19, a step-by-step re-derivation in the decision file
+    meets a request for a proof the record lacks. The promote_when asked for
+    more than the title claims: a refereed version or a checked proof of
+    Theorem 2.34's characterisation. That condition moves, unchanged, to
+    QUESTION-tmpilsf5. The summary now reports the iff as the source's
+    unchecked theorem, not as part of the account, and the promote_when is
+    removed. The title is unchanged.
 tags:
 - causality
 - contextuality
@@ -35,13 +42,14 @@ summary: >-
   From Gogioso & Pinzani's trilogy: The Topology of Causality, [LIT-808](../literature.d/LIT-808.md),
   read in [NOTE-612](../notes.d/NOTE-612.md), with the definitions of The Combinatorics of
   Causality, [LIT-800](../literature.d/LIT-800.md) ([NOTE-635](../notes.d/NOTE-635.md)). Over a space of input histories
-  with the lowerset topology, causal functions form a separated presheaf.
-  It is a sheaf exactly when no two contexts impose incompatible causal
-  pasts on a common event ("solipsistic contextuality"), and so always
-  when the space is tight, as every space induced by a causal order is.
-  The non-gluing example was checked here; the general theorem's proof
-  was not read. It does not say any physical or quantum data display the
-  effect.
+  with the lowerset topology, causal functions form a separated presheaf,
+  and on the space Θ₃ it is not a sheaf: two causal assignments on disjoint
+  opens give one event two outputs on their common extension. That example
+  was checked here, and it settles the claim. The source's Theorem 2.34,
+  that the presheaf is a sheaf exactly when no two contexts impose
+  incompatible causal pasts on a common event, is reported as the source's.
+  Its proof was not read, and it is QUESTION-tmpilsf5. It does not say any
+  physical or quantum data display the effect.
 supports:
 - CLAIM-038
 ---
@@ -82,7 +90,8 @@ join gives B two different outputs on {A:a, B:b, C:c}, which Θ₃'s causal
 functions forbid. So there is no gluing, and the presheaf is not a sheaf.
 This example was followed step by step in the reading.
 
-Theorem 2.34 generalises it. With at least two outputs per event, the
+Theorem 2.34, which the record reports and has not checked ([QUESTION-tmpilsf5](../questions.d/QUESTION-tmpilsf5.md)),
+generalises it. With at least two outputs per event, the
 presheaf is a sheaf iff Θ has no solipsistic contextuality witness: two
 tip-equivalent histories whose minimal common extensions are not all
 histories (Proposition 2.33). Tight spaces are always sheaves. Every space
@@ -116,7 +125,24 @@ fails.
   contexts with incompatible causal pasts for one event, as in meets of
   order-induced spaces with non-nested pasts ([LIT-800](../literature.d/LIT-800.md), Theorem 3.33).
 - **Not that the general theorem is checked here.** The proof of
-  Theorem 2.34 was not read, and the paper is an unrefereed preprint.
+  Theorem 2.34 was not read, and the paper is an unrefereed preprint. The
+  characterisation is [QUESTION-tmpilsf5](../questions.d/QUESTION-tmpilsf5.md).
 - **Not a statement about language, meaning or translation.** The analogy
   to contexts of interpretation with incompatible dependency structure is
   the reader's to make and is not drawn by the paper.
+
+## Note of 2026-10-19: the existence claim, re-derived
+
+The promotion audit's batch 008 re-derived the Θ₃ example ([ADR-047](../decisions.d/ADR-047.md) v2).
+Θ₃ is the meet of the spaces of total(A, B) ∨ discrete(C) and
+discrete(A) ∨ total(C, B). So event B has causal past {A, B} in one and
+{B, C} in the other. {B:b} alone is a history in neither, so
+λ = {A:a, B:b}↓ and λ′ = {B:b, C:c}↓ share no history, and any two sections
+on them are compatible. Set B's output to 1 on λ, where its past is
+{A:a, B:b}, and to 0 on λ′, where its past is {B:b, C:c}. Each is causal on
+its open. On the extension {A:a, B:b, C:c}, B is the tip of both
+sub-histories, so a causal function there must give B both outputs. No
+gluing exists, and the presheaf of causal functions is not a sheaf.
+[LIT-843](../literature.d/LIT-843.md)'s Example 7.2 is an independent second instance of the same kind.
+That is everything the title asserts. The characterisation, which says
+exactly which spaces fail, is [QUESTION-tmpilsf5](../questions.d/QUESTION-tmpilsf5.md).

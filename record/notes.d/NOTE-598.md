@@ -25,7 +25,6 @@ summary: >-
   with Chebyshev's inequality.
 ---
 
-<!-- inactive-ok-file: THEORY-158 — Proposed; filed from this reading -->
 <!-- inactive-ok-file: THEORY-019 — Proposed; named for operators commuting with a group, a parallel, with no relation claimed -->
 
 # NOTE-598: Baez & Fong — A Noether theorem for Markov processes

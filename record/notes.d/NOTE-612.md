@@ -34,7 +34,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn predecessor whose construction this paper redoes -->
-<!-- inactive-ok-file: THEORY-171 — Proposed; the account this reading is the source of -->
 
 # NOTE-612: The Topology of Causality
 

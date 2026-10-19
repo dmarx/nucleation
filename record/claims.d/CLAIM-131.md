@@ -34,7 +34,6 @@ illustrated_by:
 - CASE-095
 ---
 <!-- inactive-ok-file: CLAIM-037 CLAIM-038 — Proposed; open, and cited as open: the claim is under test, not settled -->
-<!-- inactive-ok-file: THEORY-171 — Proposed; the non-gluing of causal scenarios, cited for the limit it sets on this claim, not as settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the wording this claim corrects -->
 
 # CLAIM-131: A compatible family of sections of the event sheaf always glues, so where a communicative object lacks a global realization the obstruction lies in its supports or distributions, not in the event sheaf
