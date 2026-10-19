@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**518 documents cited without acknowledgement.** Not listed: 10245 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**517 documents cited without acknowledgement.** Not listed: 10168 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1425,22 +1425,6 @@ Detection, Estimation, and Modulation Theory, Part I
 - [`record/notes.d/NOTE-315.md:147`](../../record/notes.d/NOTE-315.md)
 - [`record/notes.d/NOTE-316.md:116`](../../record/notes.d/NOTE-316.md)
 
-### [THEORY-009](../../record/theory.d/THEORY-009.md) — Proposed
-
-Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem
-
-9 citations in 3 files await a look; 61 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-291.md:27`](../../record/claims.d/CLAIM-291.md)
-- [`record/claims.d/CLAIM-291.md:33`](../../record/claims.d/CLAIM-291.md)
-- [`record/claims.d/CLAIM-291.md:77`](../../record/claims.d/CLAIM-291.md)
-- [`record/claims.d/CLAIM-291.md:80`](../../record/claims.d/CLAIM-291.md)
-- [`record/claims.d/CLAIM-291.md:83`](../../record/claims.d/CLAIM-291.md)
-- [`record/claims.d/CLAIM-291.md:93`](../../record/claims.d/CLAIM-291.md)
-- [`record/notes.d/NOTE-289.md:84`](../../record/notes.d/NOTE-289.md)
-- [`record/questions.d/QUESTION-052.md:32`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:52`](../../record/questions.d/QUESTION-052.md)
-
 ### [THEORY-057](../../record/theory.d/THEORY-057.md) — Proposed
 
 Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism
@@ -2843,8 +2827,8 @@ Coifman et al. — Diffusion maps
 
 - [`record/literature.d/LIT-981.md:6`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:22`](../../record/literature.d/LIT-981.md)
-- [`record/literature.d/LIT-981.md:62`](../../record/literature.d/LIT-981.md)
-- [`record/literature.d/LIT-981.md:82`](../../record/literature.d/LIT-981.md)
+- [`record/literature.d/LIT-981.md:61`](../../record/literature.d/LIT-981.md)
+- [`record/literature.d/LIT-981.md:81`](../../record/literature.d/LIT-981.md)
 
 ### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
 
@@ -3857,7 +3841,7 @@ Translation and cross-modal reconstruction need not be group actions: they form 
 2 citations in 1 file await a look; 23 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:30`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:46`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:48`](../../record/questions.d/QUESTION-052.md)
 
 ### [CLAIM-103](../../record/claims.d/CLAIM-103.md) — Proposed
 
@@ -4334,7 +4318,7 @@ On a finite augmentation space, InfoNCE, logistic and spectral contrastive losse
 2 citations in 1 file await a look; 49 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:31`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:53`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:55`](../../record/questions.d/QUESTION-052.md)
 
 ### [THEORY-005](../../record/theory.d/THEORY-005.md) — Proposed
 
@@ -4343,7 +4327,7 @@ The positive-pair density ratio is the kernel of the conditional-expectation ope
 2 citations in 1 file await a look; 38 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:31`](../../record/questions.d/QUESTION-052.md)
-- [`record/questions.d/QUESTION-052.md:51`](../../record/questions.d/QUESTION-052.md)
+- [`record/questions.d/QUESTION-052.md:53`](../../record/questions.d/QUESTION-052.md)
 
 ### [THEORY-021](../../record/theory.d/THEORY-021.md) — Proposed
 
@@ -6132,5 +6116,10 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
+- record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
-- record/literature.d/LIT-993.md:51: annotation no longer applies — nothing in scope cites THEORY-009, THEORY-239
+- record/literature.d/LIT-993.md:51: annotation no longer applies — nothing in scope cites THEORY-239
+- record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
+- record/theory.d/THEORY-009.md:99: annotation no longer applies — QUESTION-141 is Active now
+- record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
+- record/theory.d/THEORY-301.md:37: annotation no longer applies — THEORY-008 is Active now

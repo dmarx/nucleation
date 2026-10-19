@@ -1,5 +1,8 @@
 ---
+number: 140
 status: Open
+formerly:
+- QUESTION-tmpg9cvp
 title: 'In trained networks, how far do CKA and normalized Bures similarity disagree in ranking pairs of representations, and does the rank-dependent envelope between them matter in practice?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   holds none.
 ---
 
-# QUESTION-tmpg9cvp: In trained networks, how far do CKA and normalized Bures similarity disagree in ranking pairs of representations, and does the rank-dependent envelope between them matter in practice?
+# QUESTION-140: In trained networks, how far do CKA and normalized Bures similarity disagree in ranking pairs of representations, and does the rank-dependent envelope between them matter in practice?
 
 ## Why it is a question
 

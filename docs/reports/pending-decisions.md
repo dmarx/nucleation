@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**830 document(s) awaiting a decision.**
+**828 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 830.
+95 of the 828.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,11 +111,10 @@
 
 ## THEORYs
 
-502 of the 830.
+500 of the 828.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
-| 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 70 | 9 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 52 | 12 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used |
 | 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 51 | 2 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
 | 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 40 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
@@ -307,7 +306,6 @@
 | 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 21 | 2 | Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case |
 | 2026-10-14 | Proposed | [THEORY-325](../../record/theory.d/THEORY-325.md) | 20 | 0 | Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator |
 | 2026-10-14 | Proposed | [THEORY-323](../../record/theory.d/THEORY-323.md) | 18 | 0 | Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance |
-| 2026-10-14 | Proposed | [THEORY-233](../../record/theory.d/THEORY-233.md) | 16 | 0 | CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant |
 | 2026-10-14 | Proposed | [THEORY-239](../../record/theory.d/THEORY-239.md) | 16 | 0 | For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator are the unique d-dimensional span minimizing worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, with error (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) |
 | 2026-10-14 | Proposed | [THEORY-317](../../record/theory.d/THEORY-317.md) | 16 | 0 | Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required |
 | 2026-10-14 | Proposed | [THEORY-257](../../record/theory.d/THEORY-257.md) | 15 | 5 | Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but generically none is exact and the optima are many |
@@ -620,7 +618,7 @@
 
 ## ADRs
 
-2 of the 830.
+2 of the 828.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -629,7 +627,7 @@
 
 ## QUESTIONs
 
-9 of the 830.
+9 of the 828.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -645,7 +643,7 @@
 
 ## CLAIMs
 
-217 of the 830.
+217 of the 828.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -869,7 +867,7 @@
 
 ## CASEs
 
-1 of the 830.
+1 of the 828.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -877,7 +875,7 @@
 
 ## TERMs
 
-2 of the 830.
+2 of the 828.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -886,7 +884,7 @@
 
 ## ARGs
 
-2 of the 830.
+2 of the 828.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

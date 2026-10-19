@@ -16,7 +16,7 @@ history:
     eqs. 27–28, written out below and in the decision file. The owner's rule of 2026-10-19 (ADR-047): a checked step-by-step re-derivation recorded in the decision file meets a promote_when that asks for a proof the record does not hold, and the THEORY is promoted. Its
     second clause, a measurement on trained networks of how far CKA and NBS
     disagree, tests something the THEORY does not claim. It moves unchanged
-    to QUESTION-tmpg9cvp. The promote_when is removed. The claim is
+    to QUESTION-140. The promote_when is removed. The claim is
     unchanged.
 tags:
 - representation-learning
@@ -35,7 +35,7 @@ summary: >-
   networks.
 ---
 <!-- inactive-ok-file: THEORY-002 THEORY-008 — Proposed; cited for context, nothing here rests on them -->
-<!-- inactive-ok-file: QUESTION-tmpg9cvp — Open; the trained-network question moved out of this account's promote_when, named as open -->
+<!-- inactive-ok-file: QUESTION-140 — Open; the trained-network question moved out of this account's promote_when, named as open -->
 
 # THEORY-233: CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant
 
@@ -85,7 +85,7 @@ factors in eq. 24 leave room for the orderings to differ.
 - **Not anything about nonlinear kernels.** Everything is for linear
   kernels on finite samples.
 - **Not how large the discrepancy is in trained networks.** The comparison
-  is on Wishart samples only. That is [QUESTION-tmpg9cvp](../questions.d/QUESTION-tmpg9cvp.md).
+  is on Wishart samples only. That is [QUESTION-140](../questions.d/QUESTION-140.md).
 - **Not that the envelope is tight away from rank 1.** Tightness is stated
   only at rank 1.
 

@@ -6,7 +6,7 @@
 
 **How training finds structure** — why trained networks come to have the structure they have, which features, symmetries and connected solution sets training reaches and why — understanding, not instruction for practice, which belongs to the anthology.
 
-9 of 139 QUESTION documents. Back to the [full index](../README.md).
+9 of 141 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

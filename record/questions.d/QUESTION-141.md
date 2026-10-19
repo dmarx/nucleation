@@ -1,5 +1,8 @@
 ---
+number: 141
 status: Open
+formerly:
+- QUESTION-tmph1bq0
 title: 'For an asymmetric self-supervised objective, such as BYOL or SimSiam with a predictor and stop-gradient, does the eigenfunction characterization of spectral methods fail, or is it replaced by the singular functions of a non-self-adjoint operator?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   [LIT-242](../literature.d/LIT-242.md) and [LIT-975](../literature.d/LIT-975.md).
 ---
 
-# QUESTION-tmph1bq0: For an asymmetric self-supervised objective, such as BYOL or SimSiam with a predictor and stop-gradient, does the eigenfunction characterization of spectral methods fail, or is it replaced by the singular functions of a non-self-adjoint operator?
+# QUESTION-141: For an asymmetric self-supervised objective, such as BYOL or SimSiam with a predictor and stop-gradient, does the eigenfunction characterization of spectral methods fail, or is it replaced by the singular functions of a non-self-adjoint operator?
 
 ## Why it is a question
 

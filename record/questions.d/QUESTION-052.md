@@ -32,7 +32,7 @@ summary: >-
   [THEORY-006](../theory.d/THEORY-006.md), [THEORY-007](../theory.d/THEORY-007.md) and [THEORY-009](../theory.d/THEORY-009.md) answer it in part; the body gives
   each one's limit.
 refined_by:
-- QUESTION-tmph1bq0
+- QUESTION-141
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-228 THEORY-239 — Proposed; partial answers filed in the last two days, cited with their limits -->

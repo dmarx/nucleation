@@ -1,8 +1,8 @@
 ### Added
 
-- [QUESTION-tmph1bq0](record/questions.d/QUESTION-tmph1bq0.md): what replaces eigenfunctions for asymmetric
+- [QUESTION-141](record/questions.d/QUESTION-141.md): what replaces eigenfunctions for asymmetric
   self-supervised objectives, formerly [THEORY-009](record/theory.d/THEORY-009.md)'s promotion condition.
-- [QUESTION-tmpg9cvp](record/questions.d/QUESTION-tmpg9cvp.md): how far CKA and normalized Bures similarity disagree
+- [QUESTION-140](record/questions.d/QUESTION-140.md): how far CKA and normalized Bures similarity disagree
   in trained networks, formerly a clause of [THEORY-233](record/theory.d/THEORY-233.md)'s promotion
   condition.
 
