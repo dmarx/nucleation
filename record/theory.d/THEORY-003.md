@@ -46,7 +46,6 @@ summary: >-
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-312 — Proposed; the account of eq. 28 and Theorem B.1 filed from LIT-248, named in Connections -->
 
 # THEORY-003: Maximizing HSIC between representations and image identity maximizes the average squared MMD between the images' view distributions, whose kernel mean embeddings exist by the Riesz representation theorem
 

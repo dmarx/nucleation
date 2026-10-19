@@ -29,7 +29,6 @@ summary: >-
   only in the figures, and relations are not addressed.
 ---
 
-<!-- inactive-ok-file: CLAIM-123 — Proposed; named as the manuscript claim this reading bears on -->
 
 # NOTE-639: Attend-and-Excite
 

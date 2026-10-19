@@ -34,7 +34,7 @@ summary: >-
   the ">5 objects" failure often quoted with it comes from the
   vision-language models, not from DALL-E 3.
 ---
-<!-- inactive-ok-file: CLAIM-013 CLAIM-123 THEORY-117 — Proposed; the claims and theory this bears on, open -->
+<!-- inactive-ok-file: CLAIM-013 THEORY-117 — Proposed; the claims and theory this bears on, open -->
 
 # THEORY-250: DALL-E 3 renders single familiar relations well but is not robustly compositional: human-judged agreement falls when subject and object of an asymmetric relation are reversed and when two relations are combined, and its failures on reversed prompts are mostly wrong or role-swapped relations, not missing objects
 

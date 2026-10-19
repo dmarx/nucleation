@@ -21,7 +21,6 @@ summary: >-
   interpretation, not something the paper tests.
 ---
 
-<!-- inactive-ok-file: CLAIM-123 — Proposed; named for what this account bears on, cited as open -->
 
 # THEORY-515: Sampling a posterior p(x|y) when only joint samples (X, Y) can be drawn is solved by a Schrödinger bridge on the joint space, with y held fixed along the path, between the joint distribution and any reference sharing its y-marginal; the bridge averages the per-observation bridges, its first iterative-proportional-fitting step is the conditional score-based model, and the error of later steps at the data end falls as 1/n times the reference's distance from the bridge
 

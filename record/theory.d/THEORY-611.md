@@ -21,7 +21,6 @@ summary: >-
   the record's [CLAIM-123](../claims.d/CLAIM-123.md) uses.
 ---
 
-<!-- inactive-ok-file: CLAIM-123 — Proposed; the claim this account adds a caveat to, cited as open -->
 
 # THEORY-611: Classifier-free guidance extrapolates between a conditional and an unconditional score learned by one network; with exact scores this equals classifier guidance by the classifier the generative model defines through Bayes' rule, but learned scores need not be conservative, so the guided field is in general the gradient of no density and the tilted distribution that motivates guidance is not shown to be what is sampled
 

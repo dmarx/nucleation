@@ -24,7 +24,7 @@ summary: >-
   whole of the claim once generation was demoted from realization to
   analogue.
 ---
-<!-- inactive-ok-file: CLAIM-001 CLAIM-013 CLAIM-123 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-001 CLAIM-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-071: Conditional generation shares a mathematical vocabulary with translation, not a mechanism: denoising time is not telephone-game time, and a generative failure is not a proof of sheaf contextuality
 
