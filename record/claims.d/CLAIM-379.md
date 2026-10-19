@@ -1,5 +1,8 @@
 ---
+number: 379
 status: Active
+formerly:
+- CLAIM-tmp861ar
 title: 'On a finite set of stimuli, regularized linear readouts with ridge b > 0 cannot tell apart two centred representations of the same width exactly when one is an orthogonal transformation of the other, and the unregularized CCA member cannot tell apart representations with the same column space, which differ by an invertible linear map'
 version: 1
 history:
@@ -44,7 +47,7 @@ supports:
 - CLAIM-269
 ---
 
-# CLAIM-tmp861ar: On a finite set of stimuli, regularized linear readouts with ridge b > 0 cannot tell apart two centred representations of the same width exactly when one is an orthogonal transformation of the other, and the unregularized CCA member cannot tell apart representations with the same column space, which differ by an invertible linear map
+# CLAIM-379: On a finite set of stimuli, regularized linear readouts with ridge b > 0 cannot tell apart two centred representations of the same width exactly when one is an orthogonal transformation of the other, and the unregularized CCA member cannot tell apart representations with the same column space, which differ by an invertible linear map
 
 ## The claim
 

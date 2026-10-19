@@ -21,7 +21,7 @@ history:
     Split at the owner's direction, carrying out the promotion audit's
     decision (record/promotion-audit/decisions/CLAIM-269.yaml, batch 015,
     ADR-047). The readout result, on a finite set of stimuli, is now
-    CLAIM-tmp861ar, Active: for ridge b > 0 readouts cannot tell apart
+    CLAIM-379, Active: for ridge b > 0 readouts cannot tell apart
     exactly the representations related by an orthogonal map, and the CCA
     member those related by an invertible linear map. This claim rests on
     it and keeps the two clauses grounded on Proposed THEORYs: that
@@ -53,7 +53,7 @@ summary: The general content of [CLAIM-193](CLAIM-193.md), filed alone under [AD
   that is a stipulation ([THEORY-018](../theory.d/THEORY-018.md)). And spectral degeneracy does not identify
   the symmetry ([THEORY-019](../theory.d/THEORY-019.md)). These are proved results for learned representations.
 rests_on:
-- CLAIM-tmp861ar
+- CLAIM-379
 supports:
 - CLAIM-193
 ---
@@ -99,7 +99,7 @@ equivalence there. It now also rests on this claim for the linear result.
 ## Note of 2026-10-19: the readout half is held Active
 
 The first bullet above, with what follows from it through [THEORY-004](../theory.d/THEORY-004.md), is
-now [CLAIM-tmp861ar](CLAIM-tmp861ar.md), filed Active with its derivation. For ridge b > 0 the
+now [CLAIM-379](CLAIM-379.md), filed Active with its derivation. For ridge b > 0 the
 kernel K_X and the Gram matrix determine each other, so readouts collapse
 exactly the orthogonal orbit of a centred representation; the CCA member
 collapses the invertible-linear orbit. What this claim adds, and why it

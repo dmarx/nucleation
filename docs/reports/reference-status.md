@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**513 documents cited without acknowledgement.** Not listed: 10099 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**513 documents cited without acknowledgement.** Not listed: 10103 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -997,6 +997,27 @@ The frustration residual and governance regret separate structural infeasibility
 - [`record/terms.d/TERM-060.md:75`](../../record/terms.d/TERM-060.md)
 - [`record/terms.d/TERM-060.md:161`](../../record/terms.d/TERM-060.md)
 
+### [THEORY-002](../../record/theory.d/THEORY-002.md) — Proposed
+
+Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
+
+14 citations in 5 files await a look; 42 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-193.md:48`](../../record/claims.d/CLAIM-193.md)
+- [`record/claims.d/CLAIM-193.md:76`](../../record/claims.d/CLAIM-193.md)
+- [`record/claims.d/CLAIM-379.md:17`](../../record/claims.d/CLAIM-379.md)
+- [`record/claims.d/CLAIM-379.md:91`](../../record/claims.d/CLAIM-379.md)
+- [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
+- [`record/notes.d/NOTE-286.md:25`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:133`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:134`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:135`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:136`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:151`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:156`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-286.md:174`](../../record/notes.d/NOTE-286.md)
+- [`record/notes.d/NOTE-301.md:89`](../../record/notes.d/NOTE-301.md)
+
 ### [CLAIM-297](../../record/claims.d/CLAIM-297.md) — Proposed
 
 When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
@@ -1044,7 +1065,7 @@ Jorgensen & Tian — Noncommutative Analysis (GNS, RKHS)
 13 citations in 7 files await a look.
 
 - [`record/claims.d/CLAIM-290.md:30`](../../record/claims.d/CLAIM-290.md)
-- [`record/claims.d/CLAIM-290.md:57`](../../record/claims.d/CLAIM-290.md)
+- [`record/claims.d/CLAIM-290.md:59`](../../record/claims.d/CLAIM-290.md)
 - [`record/literature.d/LIT-254.md:31`](../../record/literature.d/LIT-254.md)
 - [`record/literature.d/LIT-259.md:6`](../../record/literature.d/LIT-259.md)
 - [`record/literature.d/LIT-259.md:19`](../../record/literature.d/LIT-259.md)
@@ -1054,7 +1075,7 @@ Jorgensen & Tian — Noncommutative Analysis (GNS, RKHS)
 - [`record/notes.d/NOTE-753.md:26`](../../record/notes.d/NOTE-753.md)
 - [`record/theory.d/THEORY-004.md:33`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:52`](../../record/theory.d/THEORY-004.md)
-- [`record/theory.d/THEORY-004.md:113`](../../record/theory.d/THEORY-004.md)
+- [`record/theory.d/THEORY-004.md:114`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-005.md:44`](../../record/theory.d/THEORY-005.md)
 
 ### [THEORY-117](../../record/theory.d/THEORY-117.md) — Proposed
@@ -1133,25 +1154,6 @@ Mapping morality with a compass: Testing the theory of ‘morality-as-cooperatio
 - [`record/theory.d/THEORY-505.md:48`](../../record/theory.d/THEORY-505.md)
 - [`record/theory.d/THEORY-505.md:85`](../../record/theory.d/THEORY-505.md)
 - [`record/theory.d/THEORY-539.md:97`](../../record/theory.d/THEORY-539.md)
-
-### [THEORY-002](../../record/theory.d/THEORY-002.md) — Proposed
-
-Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
-
-12 citations in 4 files await a look; 40 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-193.md:48`](../../record/claims.d/CLAIM-193.md)
-- [`record/claims.d/CLAIM-193.md:76`](../../record/claims.d/CLAIM-193.md)
-- [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
-- [`record/notes.d/NOTE-286.md:25`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:133`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:134`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:135`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:136`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:151`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:156`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-286.md:174`](../../record/notes.d/NOTE-286.md)
-- [`record/notes.d/NOTE-301.md:89`](../../record/notes.d/NOTE-301.md)
 
 ### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
 
@@ -1704,6 +1706,20 @@ A person's roles in contexts that do not meet cannot contradict one another: rol
 - [`record/decisions.d/ADR-043.md:236`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:248`](../../record/decisions.d/ADR-043.md)
 
+### [CLAIM-269](../../record/claims.d/CLAIM-269.md) — Proposed
+
+A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts
+
+7 citations in 3 files await a look; 7 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-379.md:12`](../../record/claims.d/CLAIM-379.md)
+- [`record/claims.d/CLAIM-379.md:14`](../../record/claims.d/CLAIM-379.md)
+- [`record/claims.d/CLAIM-379.md:16`](../../record/claims.d/CLAIM-379.md)
+- [`record/claims.d/CLAIM-379.md:39`](../../record/claims.d/CLAIM-379.md)
+- [`record/claims.d/CLAIM-379.md:91`](../../record/claims.d/CLAIM-379.md)
+- [`record/decisions.d/ADR-040.md:188`](../../record/decisions.d/ADR-040.md)
+- [`record/decisions.d/ADR-043.md:235`](../../record/decisions.d/ADR-043.md)
+
 ### [CLAIM-298](../../record/claims.d/CLAIM-298.md) — Proposed
 
 A frame can change a judgement by changing which of an interpreter's stored distinctions are reachable, without supplying any evidence about what is being judged
@@ -1815,6 +1831,20 @@ Cumulative cultural evolution in the laboratory
 - [`record/literature.d/LIT-771.md:17`](../../record/literature.d/LIT-771.md)
 - [`record/literature.d/LIT-771.md:47`](../../record/literature.d/LIT-771.md)
 - [`record/notes.d/NOTE-599.md:181`](../../record/notes.d/NOTE-599.md)
+
+### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
+
+Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
+
+7 citations in 5 files await a look; 41 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-379.md:18`](../../record/claims.d/CLAIM-379.md)
+- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:227`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
+- [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
+- [`record/theory.d/THEORY-022.md:159`](../../record/theory.d/THEORY-022.md)
 
 ### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
 
@@ -2095,19 +2125,6 @@ Goldreich — Foundations of Cryptography, Vol. 1 (1995 fragments): computationa
 - [`record/theory.d/THEORY-352.md:38`](../../record/theory.d/THEORY-352.md)
 - [`record/theory.d/THEORY-357.md:18`](../../record/theory.d/THEORY-357.md)
 - [`record/theory.d/THEORY-357.md:35`](../../record/theory.d/THEORY-357.md)
-
-### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
-
-Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
-
-6 citations in 4 files await a look; 39 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:227`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
-- [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
-- [`record/theory.d/THEORY-022.md:159`](../../record/theory.d/THEORY-022.md)
 
 ### [THEORY-052](../../record/theory.d/THEORY-052.md) — Proposed
 
@@ -3972,15 +3989,6 @@ Blackwell's order compares experiments about one parameter, so it does not reach
 
 - [`record/decisions.d/ADR-043.md:240`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:249`](../../record/decisions.d/ADR-043.md)
-
-### [CLAIM-269](../../record/claims.d/CLAIM-269.md) — Proposed
-
-A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts
-
-2 citations in 2 files await a look; 7 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-040.md:188`](../../record/decisions.d/ADR-040.md)
-- [`record/decisions.d/ADR-043.md:235`](../../record/decisions.d/ADR-043.md)
 
 ### [CLAIM-276](../../record/claims.d/CLAIM-276.md) — Proposed
 
