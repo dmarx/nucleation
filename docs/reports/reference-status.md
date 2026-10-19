@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**502 documents cited without acknowledgement.** Not listed: 9727 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**502 documents cited without acknowledgement.** Not listed: 9729 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -4986,7 +4986,7 @@ A communicative kind's identity is grounded in its relational organization rathe
 
 Local descriptions that disagree are not thereby incompatible: whether there is an obstruction can be assessed only after the correspondence between their observations is fixed and independently validated
 
-1 citation in 1 file awaits a look; 19 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 21 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:171`](../../record/decisions.d/ADR-040.md)
 
@@ -5104,7 +5104,7 @@ Whether an agent's regimes are coordinated by discrete switches or by continuous
 
 ### [CLAIM-265](../../record/claims.d/CLAIM-265.md) — Proposed
 
-Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description can be decided only once the correspondence between their observations is fixed, and a correspondence fitted to remove the disagreement decides nothing
+Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description is decided only relative to a specified class of admissible correspondences between their observations, and a correspondence admitted only because it removes the disagreement decides nothing
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
