@@ -63,6 +63,21 @@ def population(record: Path, queue: Path) -> list[str]:
     return sort_codes([c for c in found if c not in skip])
 
 
+def roots(record: Path, queue: Path) -> list[str]:
+    """Population members none of whose `rests_on` premises is a Proposed
+    interpretive CLAIM (batch 030). A queued premise still counts: it is
+    still Proposed. Deciding roots first keeps a sample from drawing claims
+    whose own premises block them (batch 022)."""
+    blocking = set()
+    rests: dict[str, list[str]] = {}
+    for p in (record / "claims.d").glob("CLAIM-*.md"):
+        d = front_matter(p)
+        rests[p.stem] = list(d.get("rests_on") or [])
+        if d.get("status") == "Proposed" and d.get("warrant") == "interpretive":
+            blocking.add(p.stem)
+    return [c for c in population(record, queue) if not blocking & set(rests.get(c, []))]
+
+
 def sample(codes: list[str], n: int) -> list[str]:
     if len(codes) <= n:
         return list(codes)
@@ -70,13 +85,17 @@ def sample(codes: list[str], n: int) -> list[str]:
     return [codes[k // 2 + i * k] for i in range(n)]
 
 
-def main(n: int = 5, record: str = str(RECORD), queue: str = str(HERE / "queue.yaml")) -> None:
+def main(n: int = 5, record: str = str(RECORD), queue: str = str(HERE / "queue.yaml"),
+         roots_only: bool = False) -> None:
     pop = population(Path(record), Path(queue))
-    picked = sample(pop, n)
-    k = len(pop) // n if len(pop) > n else 1
+    frame = roots(Path(record), Path(queue)) if roots_only else pop
+    picked = sample(frame, n)
+    k = len(frame) // n if len(frame) > n else 1
     logger.info(f"population {len(pop)} (CLAIM {sum(c.startswith('CLAIM') for c in pop)}, "
-                f"THEORY {sum(c.startswith('THEORY') for c in pop)}); k = {k}, start = {k // 2}")
-    print(yaml.safe_dump({"population": len(pop), "k": k, "start": k // 2, "sample": picked}, sort_keys=False))
+                f"THEORY {sum(c.startswith('THEORY') for c in pop)}); frame {len(frame)}; "
+                f"k = {k}, start = {k // 2}")
+    print(yaml.safe_dump({"population": len(pop), "roots_only": roots_only, "frame": len(frame),
+                          "k": k, "start": k // 2, "sample": picked}, sort_keys=False))
 
 
 if __name__ == "__main__":

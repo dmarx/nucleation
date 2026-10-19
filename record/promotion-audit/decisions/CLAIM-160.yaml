@@ -1,0 +1,39 @@
+# record/promotion-audit/decisions/CLAIM-160.yaml
+id: CLAIM-160
+batch: batch-030
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The separation the claim draws: identity of intended meaning is fixed
+    at the write, relative to the writer's projected receiver and frame
+    (TERM-030), and fidelity is measured at each read. That separation is
+    what places CLAIM-115 and CLAIM-074, which are receiver-relative, at
+    a different time from this claim.
+  excluded: >-
+    What a text means to a given reader, and whether the writer's frame
+    is recoverable (QUESTION-031). The body disclaims both.
+evidence:
+  - "The owner's claim of 2026-10-11, filed in their words; grounds CASE-043 and CASE-048."
+  - "CLAIM-171, the reception-side counter, is open and unanswered. Its own summary names the reply's dependence: it works only if the writer's frame is recoverable, which is QUESTION-031's problem."
+  - "The body's note of 2026-10-12 leaves to the owner whether the claim narrows to intended meaning only, as the interlocutor advised (CLAIM-255). The note also says the answer decides whether it conflicts with CLAIM-204."
+blockers:
+  - "CLAIM-171 is an open counter with no reply filed."
+  - >-
+    The scope question the entry itself leaves to the owner. Does "intended
+    meaning" mean only the writer's meaning, or the act? On the first
+    reading the claim and CLAIM-204 need not conflict. On the second they
+    do, and QUESTION-029 has two answers with no relation between them.
+notes: >-
+  A root by the sampling rule, but the claim is held by its own open
+  scope. Narrowing it to intended meaning would separate it from CLAIM-204
+  and leave CLAIM-171 as the one blocker.
+unlocks: []
+next_action: >-
+  Owner question: narrow CLAIM-160 to intended meaning only, as the
+  interlocutor advised? If yes, a correction PR narrows the title and the
+  QUESTION-029 answer, and a later review weighs CLAIM-171.

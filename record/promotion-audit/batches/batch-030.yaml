@@ -1,0 +1,88 @@
+# record/promotion-audit/batches/batch-030.yaml
+batch: batch-030
+date: '2026-10-19'
+kind: evidence-audit
+wave: 5
+record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+selection: >-
+  The second wave-5 sample. It follows batch 022's recommendation to decide
+  roots first: sample_wave5.py --roots_only drew from the population members
+  none of whose rests_on premises is a Proposed interpretive CLAIM (a
+  queued premise still counts). CLAIM-046, CLAIM-160, CLAIM-241,
+  CLAIM-327, THEORY-109.
+population:
+  definition: >-
+    As batch 022: Proposed interpretive CLAIMs plus Proposed THEORYs with
+    no mathematics tag citing at least three distinct LITs, excluding every
+    code already a candidate or requeued in queue.yaml.
+  size: 212
+  claims: 175
+  theories: 37
+  roots: 159
+rule: >-
+  Roots only. Sort by scheme then number; k = 159 // 5 = 31; take
+  positions 15, 46, 77, 108, 139 (k // 2 + i·k).
+reviewed: [CLAIM-046, CLAIM-160, CLAIM-241, CLAIM-327, THEORY-109]
+outcomes:
+  promote: [CLAIM-046, CLAIM-241]
+  split: [THEORY-109]
+  retain-proposed: [CLAIM-160, CLAIM-327]
+yield: >-
+  3 of 5 found a promotion path. THEORY-109's split can be carried out
+  now. CLAIM-046 and CLAIM-241 are interpretive, so their promotion is
+  the owner's call.
+finding: >-
+  Sampling roots worked as batch 022 hoped. None of the five was blocked
+  by its own premises, against two of five in batch 022. What still blocks
+  roots is open objections (CLAIM-160) and unread sources (CLAIM-327). The
+  two interpretive promotion paths are both foundational: CLAIM-046 is the
+  pragmatic-transport line's method, and CLAIM-241 is a sound objection
+  to CLAIM-217. They and the open CLAIM-206/217 question form one cluster
+  for the owner to decide root first. THEORY-109 is a theorem read in
+  full, bundled with an extrapolation, so it is formal content again.
+recommendation: >-
+  Put the pragmatic-transport cluster to the owner as one decision:
+  CLAIM-046, then CLAIM-206 against CLAIM-217, then CLAIM-241. Keep
+  sampling wave 5 by roots. Route wave-5 THEORYs with four or more LITs
+  through a formal-content check first, as triage-005 does for wave 3.
+owner_questions:
+  - >-
+    CLAIM-046: promote it as the pragmatic-transport line's adopted method?
+    It says to define identity and fidelity on observable responses before
+    assuming any equivalence of internal states. No objection is filed,
+    four claims rest on it, and the line has applied it since A39.
+  - >-
+    CLAIM-241, decided with CLAIM-206 against CLAIM-217: is the record
+    persuaded that partial constitution makes competent uptake a defeasible
+    standard, not the criterion? If yes, promote CLAIM-241 and qualify
+    CLAIM-217's step 3 in the same PR.
+  - >-
+    CLAIM-160: narrow it to intended meaning only, as the interlocutor
+    advised and its own note leaves to you? That would separate it from
+    CLAIM-204, and the open counter CLAIM-171 would be its only blocker.
+follow_up_prs:
+  - >-
+    THEORY-109: split. A new Active THEORY for Kuditipudi et al.'s Theorem 1
+    (ε-dropout-stable ReLU nets are ε-connected) with Draxler et al.'s
+    concatenation bound. THEORY-109 extends it and stays Proposed.
+notes_for_ledger:
+  - >-
+    The roots option in sample_wave5.py (--roots_only) drops population
+    members whose rests_on premises include a Proposed interpretive claim,
+    queued or not. Of 212 in the population, 159 are roots.
+  - >-
+    Batch 022's mechanical count of interpretive claims with empirical
+    defeaters over-reports. An interpretive claim can rightly have an
+    observational defeater when its support is argument (CLAIM-327). A
+    warrant is misclassified only when the support, not the defeater, is
+    observational (CLAIM-052). Before a correction sweep, read each one's
+    support, not only its defeated_if.
+  - >-
+    Decide argument clusters root first in one owner question. CLAIM-046
+    sits under CLAIM-206 and CLAIM-217, and CLAIM-241 objects to CLAIM-217.
+    Ruling on CLAIM-206 against CLAIM-217 without the other two would
+    leave both of them stale.
+  - >-
+    A theorem read in full can still hide inside a multi-LIT synthesis
+    (THEORY-109's Theorem 1). Check every wave-5 THEORY's NOTE claims table
+    for "strong (proof)".
