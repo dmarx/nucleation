@@ -1061,3 +1061,11 @@ history note. THEORY-277 is requeued on this basis.
   debate content); review it as formal.
 - Batch 034's decisions for CLAIM-033 and CLAIM-115 replace batch 028's;
   CLAIM-077's retain-proposed replaces batch 001's needs-correction.
+
+## 2026-10-19 — owner ruling: prevalence over possibility
+
+- The owner accepted #222's restatement of CLAIM-033, -087 and -105 as
+  prevalence claims, as easier to corroborate and harder to reject. When a
+  possibility thesis's defeater tests a rate, restate the title as a
+  prevalence claim (CLAIM-238's remedy); do not weaken the defeater to
+  "the cited instances fail on inspection".

@@ -1,25 +1,19 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 117
+version: 118
 updated: '2026-10-19'
 record_revision: 374ba778e1bc5456455bcdbc42e581b2abff1f59
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: null
   state: between batches
-  in_review:
-  - '#222'
-  - '#223'
-  - '#224'
-  - '#225'
-  next_step: 'Round 031-035 plus triage-006 is integrated. Round 024-030 (#211-#221) is merged. Open PRs:
-    #222 (CLAIM-033, -087, -105 titles restated as prevalence claims), #223 (THEORY-216), #224 (THEORY-324),
-    #225 (THEORY-178, -306). Merge them one at a time after each regenerate commit, this ledger last.
-    Next: wave 3 from triage-006 formal_route (THEORY-080, -263, -293, -321, -229, -110, -228, -319, -161,
-    -185, then 11-20) with its control 5 (THEORY-162, -205, -275, -365, -578); sort each by what its title
-    asserts (batch 020), not by the flag. Wave 5: the requeue list. Owner questions open: CLAIM-238 remedy
-    for CLAIM-139 (restate with a margin, or split); CLAIM-143/-265 wording; #222 prevalence vs possibility;
+  in_review: null
+  next_step: 'Round 031-035 plus triage-006 is integrated. Round 024-030 (#211-#221) is merged. Its PRs
+    #222-#225 are merged. Next: wave 3 from triage-006 formal_route (THEORY-080, -263, -293, -321, -229,
+    -110, -228, -319, -161, -185, then 11-20) with its control 5 (THEORY-162, -205, -275, -365, -578);
+    sort each by what its title asserts (batch 020), not by the flag. Wave 5: the requeue list. Owner
+    questions open: CLAIM-238 remedy for CLAIM-139 (restate with a margin, or split); CLAIM-143/-265 wording;
     THEORY-351 title as report vs thesis; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046;
     CLAIM-160 narrowing; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
@@ -32,6 +26,8 @@ handoff:
   - 'ADR-047 v3: one fully read study suffices for an empirical THEORY whose title claims no more than
     it measured; the replication request moves to a QUESTION.'
   - 'ADR-043 v2: warrant records present support; an untested empirical claim is interpretive.'
+  - 'Owner, 2026-10-19: a possibility thesis whose defeater tests a rate is restated as a prevalence claim
+    (easier to corroborate, harder to reject), per CLAIM-238; do not restate the defeater instead.'
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
@@ -2832,4 +2828,7 @@ history:
   date: '2026-10-19'
   note: 'Triage-006 integrated (formal flag v2: 82 of 399 eligible flagged); requeue list: six arguments
     to wave 5, CLAIM-265 before CLAIM-143, THEORY-167 after a reading task.'
+- version: 118
+  date: '2026-10-19'
+  note: '#222-#225 merged; owner chose prevalence over possibility for CLAIM-033, -087, -105 (#222).'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
