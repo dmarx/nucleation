@@ -13,7 +13,7 @@ promote_when: >-
   the mean operator's non-normality rises. The first half of the claim
   (non-normality necessary; a non-normal operator stable at every
   instant can be destabilized) already rests on a bound and explicit
-  examples, and is THEORY-tmp8dvpa (Active) since 2026-10-19. What cannot
+  examples, and is THEORY-724 (Active) since 2026-10-19. What cannot
   settle it: more simulations of particular systems, which add instances,
   not generality.
 title: 'Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator'
@@ -26,8 +26,8 @@ history:
     decision (record/promotion-audit/decisions/THEORY-325.yaml, batch 006,
     ADR-047). The deterministic half, necessity of non-normality under
     uniform stability (eq. 12) and the switched examples, is now
-    THEORY-tmp8dvpa, Active. The case stable at every instant, which the
-    paper asserts without showing, is CLAIM-tmp007ve, the record's own
+    THEORY-724, Active. The case stable at every instant, which the
+    paper asserts without showing, is CLAIM-376, the record's own
     construction. The title is narrowed to the stochastic half, which this
     THEORY keeps and which extends the new one. The promote_when's
     condition on the stochastic half is unchanged; the status stays
@@ -40,7 +40,7 @@ date: '2026-10-14'
 source:
 - LIT-929
 extends:
-- THEORY-tmp8dvpa
+- THEORY-724
 summary: >-
   Farrell & Ioannou (1996), Part II, [LIT-929](../literature.d/LIT-929.md), read in [NOTE-842](../notes.d/NOTE-842.md).
   Necessity is a one-line bound and the destabilization is shown in
@@ -48,7 +48,7 @@ summary: >-
   stability theory, and the role of non-normality and damping is shown
   numerically. In the deterministic examples, variation much faster than
   the transient growth destabilizes nothing. Since 2026-10-19 the
-  deterministic half is THEORY-tmp8dvpa, and this THEORY holds the
+  deterministic half is THEORY-724, and this THEORY holds the
   stochastic half.
 ---
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim this account bears on, open -->
@@ -143,10 +143,10 @@ No relations are declared.
 
 ## Note of 2026-10-19: the deterministic half filed apart
 
-Necessity and the switched examples are now [THEORY-tmp8dvpa](THEORY-tmp8dvpa.md), Active. The
+Necessity and the switched examples are now [THEORY-724](THEORY-724.md), Active. The
 necessity bound is stated there with the uniform condition α(t) ≤ −c < 0,
 which it needs: with α(t) < 0 tending to 0, eq. 12 gives only λ ≤ 0. The
-case stable at every instant is [CLAIM-tmp007ve](../claims.d/CLAIM-tmp007ve.md). Shifting by −δI lowers the
+case stable at every instant is [CLAIM-376](../claims.d/CLAIM-376.md). Shifting by −δI lowers the
 exponent by exactly δ, and on the switched oscillator at T = 1 it gives
 λ = 0.0955 with every instantaneous operator stable. What keeps this THEORY
 Proposed is only the stochastic half: genericity under noise, which rests on

@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-19 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+20 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -22,6 +22,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
   - [CLAIM-312](../record/claims.d/CLAIM-312.md) — "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default *(Active)*
 
 ## formal-apparatus
+
+### From On a consistently connected system, Contextuality-by-Default and the sheaf criterion agree: a maximally connected coupling exists exactly when a global law has the contexts' laws as its marginals
+
+- [CLAIM-374](../record/claims.d/CLAIM-374.md) — On a consistently connected system, Contextuality-by-Default and the sheaf criterion agree: a maximally connected coupling exists exactly when a global law has the contexts' laws as its marginals *(Active)*
+  - [CLAIM-037](../record/claims.d/CLAIM-037.md) — Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context *(Proposed)*
 
 ### From Equivalence under feasible tests can be much coarser than statistical equivalence: there are ensembles almost disjoint from uniform that no polynomial-size test tells apart from it, and efficiently samplable ensembles of this kind exist if pseudorandom generators do
 
@@ -59,12 +64,6 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-029](../record/claims.d/CLAIM-029.md) — A language model's response to a context is functionally a parameterized pragmatic frame *(Proposed)*
   - [CLAIM-058](../record/claims.d/CLAIM-058.md) — Context-conditioned language models give a controlled computational setting in which the theory's frame, order and transport effects can be tested before human studies *(Proposed)* — through [ARG-008](../record/arguments.d/ARG-008.md)
-
-### From Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability
-
-- [CLAIM-052](../record/claims.d/CLAIM-052.md) — Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability *(Proposed)*
-  - [CLAIM-117](../record/claims.d/CLAIM-117.md) — Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations *(Proposed)*
-    - [CLAIM-063](../record/claims.d/CLAIM-063.md) — A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves *(Proposed)* — through [ARG-006](../record/arguments.d/ARG-006.md)
 
 ### From The manuscript argues only that preserving the proposition is insufficient; that it is also unnecessary rests on an argument the exchange gave and the manuscript leaves out
 
@@ -257,7 +256,7 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-265](../record/claims.d/CLAIM-265.md) — Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description can be decided only once the correspondence between their observations is fixed, and a correspondence fitted to remove the disagreement decides nothing *(Proposed)*
 - [CLAIM-266](../record/claims.d/CLAIM-266.md) — A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it *(Proposed)*
 - [CLAIM-267](../record/claims.d/CLAIM-267.md) — Per-step discrepancies between a chain of maps and a reference chain compound through the sensitivity of the later steps, so the same local error can be damped, accumulated or amplified, and closeness at every step can coexist with large end-to-end divergence *(Active)*
-- [CLAIM-268](../record/claims.d/CLAIM-268.md) — Model stitching certifies an order of information only in its reconstruction form: a map fitted to reproduce the target layers shows the source representation is at least as informative for every decision on the label, task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency *(Proposed)*
+- [CLAIM-268](../record/claims.d/CLAIM-268.md) — Model stitching certifies an order of information only in its reconstruction form: a map fitted to reproduce the target layers shows the source representation is at least as informative for every decision on the label, task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency *(Active)*
 - [CLAIM-269](../record/claims.d/CLAIM-269.md) — A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts *(Proposed)*
 - [CLAIM-270](../record/claims.d/CLAIM-270.md) — Retaining information about where a Markov chain started and staying close to the starting distribution are different properties: a chain can forget its initial state while its distribution stays far from where it began, so convergence is not preservation and losing information about the origin is not degradation *(Active)*
 - [CLAIM-275](../record/claims.d/CLAIM-275.md) — An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others *(Proposed)*
@@ -269,7 +268,8 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-279](../record/claims.d/CLAIM-279.md) — Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator *(Proposed)*
 - [CLAIM-281](../record/claims.d/CLAIM-281.md) — Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions *(Proposed)*
 - [CLAIM-282](../record/claims.d/CLAIM-282.md) — Forbidding self-endorsement does not stop an operator from amplifying its own authority: once endorsement can carry authority more than one hop, reciprocal and cyclic endorsements recycle it, and only one-hop allocation within an epoch makes an operator's authority independent of its own endorsements *(Active)*
-  - [CLAIM-285](../record/claims.d/CLAIM-285.md) — An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities *(Proposed)*
+  - [CLAIM-375](../record/claims.d/CLAIM-375.md) — Under one-hop allocation within an epoch, an operator that endorses an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the endorsement scheme hold together *(Active)*
+    - [CLAIM-285](../record/claims.d/CLAIM-285.md) — An endorsement scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation *(Proposed)* — also rests on CLAIM-282
 - [CLAIM-283](../record/claims.d/CLAIM-283.md) — The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them *(Proposed)*
 - [CLAIM-286](../record/claims.d/CLAIM-286.md) — Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed *(Proposed)*
 - [CLAIM-287](../record/claims.d/CLAIM-287.md) — What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation *(Proposed)*
@@ -282,6 +282,13 @@ Grouped by `line`, which every line holds in common — a line about two things 
 - [CLAIM-345](../record/claims.d/CLAIM-345.md) — Equal controllability rank does not fix the cost of control: for x_{t+1} = x_t + b·u the least quadratic effort for a displacement Δ is Δ²/b², unbounded as b → 0 while the system stays controllable, and in general the least effort is Δxᵀ W_T^† Δx, set by the Gramian and not by its rank *(Active)*
 - [CLAIM-350](../record/claims.d/CLAIM-350.md) — A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged *(Active)*
 - [CLAIM-371](../record/claims.d/CLAIM-371.md) — Under the componentwise order on distortion profiles, two profiles are incomparable exactly when they trade off, and then positive weightings can rank them either way, while every positive weighting agrees with a dominance *(Active)*
+
+### From Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability
+
+- [CLAIM-052](../record/claims.d/CLAIM-052.md) — Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability *(Proposed)*
+  - [CLAIM-117](../record/claims.d/CLAIM-117.md) — Pragmatic fidelity requires preserving the dynamics of interpretation, not only final judgements: a good transport approximately intertwines source and target framing operations *(Proposed)*
+    - [CLAIM-063](../record/claims.d/CLAIM-063.md) — A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves *(Proposed)* — through [ARG-006](../record/arguments.d/ARG-006.md) — also rests on CLAIM-373
+- [CLAIM-373](../record/claims.d/CLAIM-373.md) — If a map approximately intertwines two operators, with defects E_A = ΦA − A′Φ and E_B = ΦB − B′Φ, then Φ[A,B] − [A′,B′]Φ = A′E_B + E_A B − B′E_A − E_B A, so the commutator is carried to within (‖A‖ + ‖A′‖)‖E_B‖ + (‖B‖ + ‖B′‖)‖E_A‖ *(Active)*
 
 ### From Causal-loop consistency and sheaf contextuality are both local-to-global problems, but passing to distributions affects them oppositely: a loop with no deterministic solution has a distributional fixed point, while a model with no global section in its supports has no global distribution either
 

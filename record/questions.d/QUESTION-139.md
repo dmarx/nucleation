@@ -1,5 +1,8 @@
 ---
+number: 139
 status: Open
+formerly:
+- QUESTION-tmpg2gry
 title: 'Does the one-hidden-layer lower bound of ∏(rᵢ+1) neurons for the monomial x₁^r₁⋯xₙ^rₙ hold for uniform approximation on a box, and not only for Taylor matching at the origin, and what replaces it when hidden units have biases?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   biased case is untreated. Both are here.
 ---
 
-# QUESTION-tmpg2gry: Does the one-hidden-layer lower bound of ∏(rᵢ+1) neurons for the monomial x₁^r₁⋯xₙ^rₙ hold for uniform approximation on a box, and not only for Taylor matching at the origin, and what replaces it when hidden units have biases?
+# QUESTION-139: Does the one-hidden-layer lower bound of ∏(rᵢ+1) neurons for the monomial x₁^r₁⋯xₙ^rₙ hold for uniform approximation on a box, and not only for Taylor matching at the origin, and what replaces it when hidden units have biases?
 
 ## Why it is a question
 

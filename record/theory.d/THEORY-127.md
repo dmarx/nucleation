@@ -17,9 +17,13 @@ promote_when: >-
   the corporate attitudes in general that List (2014) names, needs a
   separate kind of result: an impossibility, or a possibility, proved for
   that kind of attitude. More cases of the discursive dilemma in courts or
-  committees cannot settle either part.
+  committees cannot settle either part. The court-agenda results
+  (Propositions 1, 4 and 5) are already THEORY-725, Active, so this
+  condition bears only on the general impossibility and its extension.
+  Under ADR-047 v2, a step-by-step re-derivation of Proposition 3 for the
+  court agenda, written in a decision file, would meet the first part.
 title: "A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -28,6 +32,19 @@ history:
     (LIT-730, read in NOTE-582), now stated as THEORY-536: they add,
     on the authors' word, that relaxing the conditions leaves
     proposition-wise rules extremely limited. promote_when is unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-127.yaml, batch 009, ADR-047),
+    the court-agenda results are filed apart as THEORY-725, Active.
+    These are Proposition 1, Proposition 4, weak discontinuity and
+    Proposition 5, with Propositions 1 and 4 re-derived under ADR-047 v2.
+    This THEORY extends it and keeps the general impossibility
+    (Propositions 2–3, cited and not proved in LIT-705), the wider agenda
+    classes and the extension to corporate attitudes. The promote_when now
+    says that it bears only on these. Proposition 3 is requeued for a
+    dedicated re-derivation pass. The status stays Proposed.
 tags:
 - social-ontology
 - agency
@@ -54,6 +71,8 @@ summary: >-
   record holds by citation, stated for categorical judgments only.
 presupposed_by:
 - THEORY-139
+extends:
+- THEORY-725
 supports:
 - CLAIM-030
 - CLAIM-192
@@ -222,3 +241,15 @@ any member's nor commonly known (§5).
   in the record: a different aggregation problem, over preferences and
   rights rather than logically connected judgments, with the same form of
   conclusion that conditions each reasonable alone cannot all hold.
+
+## Note of 2026-10-19: the court-agenda results filed apart
+
+On the court agenda, majority voting fails robust rationality (Proposition
+1), the premise-based procedure secures it with set-wise supervenience
+(Proposition 4), and the members' judgments on the conclusion neither fix
+the group's nor need to enter (weak discontinuity, Proposition 5). These are
+now [THEORY-725](THEORY-725.md), Active, with the proofs written out. What keeps this
+THEORY Proposed is the general claim its title states: that no
+proposition-wise rule, uniform or not, can do what the premise-based
+procedure does (Propositions 2–3). The source cites that claim without
+proving it.

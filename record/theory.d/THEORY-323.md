@@ -10,7 +10,7 @@ promote_when: >-
   whom LIT-931 eq. 22 cites it, or a standard reference, would meet it. So
   would a record-own proof checked step by step, for instance via the Schur
   form A = U(Λ + N)U† with N strictly upper triangular. The finite-time and
-  resolvent statements this clause used to share are THEORY-tmpr7w9h,
+  resolvent statements this clause used to share are THEORY-727,
   Active. More examples of large variance in particular systems cannot
   settle it.
 title: 'Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance'
@@ -22,7 +22,7 @@ history:
     Split at the owner's direction, carrying out the promotion audit's
     decision (record/promotion-audit/decisions/THEORY-323.yaml, batch 007,
     ADR-047). The finite-time growth and resolvent statements, each checked
-    by its textbook proof, are now THEORY-tmpr7w9h, Active, which this
+    by its textbook proof, are now THEORY-727, Active, which this
     THEORY extends. What stays is the white-noise variance clause, which
     LIT-931 eq. 22 cites to Ioannou (1995) and does not prove. The title is
     restated to that clause, and the promote_when is narrowed to it. The
@@ -36,7 +36,7 @@ source:
 - LIT-931
 - LIT-932
 extends:
-- THEORY-tmpr7w9h
+- THEORY-727
 summary: >-
   Farrell & Ioannou (1996), [LIT-931](../literature.d/LIT-931.md), read in [NOTE-831](../notes.d/NOTE-831.md), with Trefethen
   et al. (1993), [LIT-932](../literature.d/LIT-932.md), read in [NOTE-839](../notes.d/NOTE-839.md). Linear algebra, worked in
@@ -145,7 +145,7 @@ No relations are declared.
 ## Note of 2026-10-19: what moved, and what stays
 
 The finite-time and resolvent statements in "What was actually shown" are
-now [THEORY-tmpr7w9h](THEORY-tmpr7w9h.md), Active, with their textbook proofs written out. They
+now [THEORY-727](THEORY-727.md), Active, with their textbook proofs written out. They
 cover normal operators, growth as a singular value, the eigenvalue floor,
 the numerical abscissa, the harmonic-forcing bound and pseudospectra. What
 this THEORY still holds is the white-noise clause: trace(P) ≥
