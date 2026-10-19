@@ -33,7 +33,6 @@ summary: >-
   a transformer and on MNIST.
 ---
 
-<!-- inactive-ok-file: THEORY-181 — Proposed; the THEORY this reading produced -->
 <!-- inactive-ok-file: THEORY-022 — Proposed; the record's account of the modular-addition circuit, which this reading bears on -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, which this reading bears on -->
 <!-- inactive-ok-file: THEORY-083 — Proposed; the record's account of neural collapse, which App. I bears on -->

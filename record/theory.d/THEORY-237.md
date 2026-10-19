@@ -1,19 +1,10 @@
 ---
 number: 237
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpx4k5f
-promote_when: >-
-  A read derivation of the optimal InfoNCE critic, from Ma & Collins or
-  another original source, with its conditions on the negatives, since
-  Poole et al. state that critic on Ma & Collins's authority. With it the
-  claim would rest on derivations the record has checked for every member
-  of the family. It is refuted by a critic that attains one of these bounds
-  with equality at a nonzero mutual information and is not, up to the
-  stated free term, the log density ratio. What cannot settle it: estimator
-  benchmarks on Gaussian toys, which test bias and variance, not tightness.
-title: "The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and each is tight only at a critic equal to the log density ratio up to a term its normalization leaves free"
-version: 2
+title: "The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and, when the joint and the product of the marginals are mutually absolutely continuous, each attains its supremum over critics only at a critic equal to the log density ratio up to a term its normalization leaves free, where every bound but InfoNCE equals the mutual information"
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -22,6 +13,17 @@ history:
     says that DV tightness "only" at the log derivative is the converse of
     the paper's "whenever", and holds only under mutual absolute
     continuity. The Deferred comment on LIT-256 removed.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-237 (batch 043, ADR-047 v2). The optimum of each member is
+    derived in the dated note below, including InfoNCE's, which the source
+    cites to Ma & Collins; that meets the promote_when. The title's
+    "tight" did not fit InfoNCE, whose supremum is at most log K and
+    generally below the mutual information, so it now says "attains its
+    supremum", names the members that then equal the mutual information,
+    and states the absolute-continuity condition.
 tags:
 - information-theory
 - representation-learning
@@ -38,11 +40,12 @@ summary: >-
   problem with the batch mean as normalizer gives InfoNCE. MINE's
   bias-corrected gradient is the exact gradient of TUBA. A Monte-Carlo DV
   estimate is neither an upper nor a lower bound. The InfoNCE optimum is
-  cited, not derived, and the bias–variance comparisons are on toys.
+  cited, not derived, in the source (the record derives it, note of
+  2026-10-19), and the bias–variance comparisons are on toys.
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; cited for context -->
 
-# THEORY-237: The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and each is tight only at a critic equal to the log density ratio up to a term its normalization leaves free
+# THEORY-237: The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and, when the joint and the product of the marginals are mutually absolutely continuous, each attains its supremum over critics only at a critic equal to the log density ratio up to a term its normalization leaves free, where every bound but InfoNCE equals the mutual information
 
 ## Source
 
@@ -82,14 +85,15 @@ One derivation, with each step a stated inequality:
 
 So the optimal critic of every member is a function of the log density
 ratio log p(y|x)/p(y), "for both I_NWJ and I_NCE" (§2.6). What is left free
-is fixed by the normalization: nothing for NWJ beyond the +1, a function of
-y for I_UBA and InfoNCE.
+is fixed by the normalization: nothing for NWJ beyond the +1, a constant
+for Donsker–Varadhan, a function of y for I_UBA and InfoNCE.
 
 ## What this does not say
 
-- **Not a proof of the InfoNCE optimum.** That the optimal InfoNCE critic
-  is log p(y|x) + c(y), and does not depend on K, is stated with a citation
-  to Ma & Collins, not derived. The optimal critic of I_α is a conjecture.
+- **Not, in the source, a proof of the InfoNCE optimum.** That the optimal
+  InfoNCE critic is log p(y|x) + c(y), and does not depend on K, is stated
+  with a citation to Ma & Collins, not derived; the record derives it in
+  the note of 2026-10-19. The optimal critic of I_α is a conjecture.
 - **Not which bound to use.** The bias–variance results, including that
   no bound studied is both low-bias and low-variance at large MI and small
   batch, come from 20-dimensional Gaussian and cubic toys and dSprites.
@@ -110,3 +114,49 @@ y for I_UBA and InfoNCE.
   ratio is the general-density form of [THEORY-001](THEORY-001.md)'s finite-space shared
   optimum, K⁺. Poole et al. support it in form. They do not treat the
   spectral or logistic losses.
+
+## Note of 2026-10-19: every member's optimum derived, InfoNCE's included
+
+The promotion audit (batch 043, [ADR-047](../decisions.d/ADR-047.md) v2) derived the optimum of each
+member, InfoNCE's included. The source cites that one to Ma & Collins
+and does not derive it. Assume the joint P and the product of the
+marginals Q are mutually absolutely continuous, and write
+r = dP/dQ = p(x|y)/p(x).
+
+1. **UBA.** I_UBA(f) = I − E_y KL(p(x|y) ‖ p(x)e^f/Z(y)). So it equals I
+   exactly when f = log r + c(y), with c(y) = log Z(y) left free.
+2. **DV.** I_DV = E_P f − log E_Q e^f = I_UBA − (log E_y Z(y) −
+   E_y log Z(y)). Jensen is an equality only when Z(y) is constant. So,
+   with step 1, I_DV = I exactly when f = log r + c with c a constant.
+   MINE maximizes this bound.
+3. **TUBA and NWJ.** log Z ≤ Z/a + log a − 1 gives I_TUBA ≤ I_UBA, with
+   equality when a(y) = Z(y). With a ≡ e (NWJ), the objective
+   E_P f − e^(−1) E_Q e^f is strictly concave pointwise. Its unique
+   maximizer is f = 1 + log r, where it equals 1 + I − 1 = I.
+4. **InfoNCE as NWJ.** Let x₁ ∼ p(x|y), and let the negatives x₂, …, x_K
+   be i.i.d. from p(x), independent of (x₁, y). Then
+   I(X_(1:K); Y) = I(X; Y). Apply NWJ with the critic
+   1 + log(e^(f(x₁,y))/m), where m = (1/K) Σ_k e^(f(x_k,y)). This gives
+   1 + E log(e^(f(x₁,y))/m) − E_Q[e^(f(x₁,y))/m]. Under Q every x_k is
+   i.i.d. p(x) and independent of y, so by symmetry each E_Q[e^(f(x_k,y))/m]
+   is equal, and they average to E_Q[m/m] = 1. That leaves I_NCE ≤ I, and
+   I_NCE ≤ log K.
+5. **InfoNCE's optimum.** Put the positive at a uniformly random index J.
+   Then I_NCE = log K + E log softmax_J(f(x_k, y)), and the posterior is
+   P(J = j | y, x_(1:K)) = r(x_j, y)/Σ_k r(x_k, y). No predictor has a
+   higher expected log-likelihood than the posterior (Gibbs), and only
+   predictors equal to it a.s. match it. Comparing indices j and l gives
+   f(x_j, y) − f(x_l, y) = log r(x_j, y) − log r(x_l, y) for a.e.
+   (y, x_j, x_l), so f − log r depends on y alone. So InfoNCE's
+   maximizers are exactly f = log r + c(y), for every K ≥ 2. The
+   conditions on the negatives are that they are i.i.d. from p(x) and
+   independent of the positive and of y; for dependent batches see
+   [THEORY-006](THEORY-006.md). At the optimum I_NCE = log K + E log posterior_J, which is
+   below I whenever I > log K.
+
+So each bound attains its supremum over critics only at log r plus the
+free term: a function of y for UBA, TUBA and InfoNCE, a constant for DV,
+and nothing beyond the +1 for NWJ. At that critic every member but
+InfoNCE equals I. The title said "tight", which does not fit InfoNCE; it
+now says "attains its supremum". Without mutual absolute continuity the
+DV supremum is approached, not attained ([NOTE-828](../notes.d/NOTE-828.md)).
