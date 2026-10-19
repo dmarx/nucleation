@@ -1,59 +1,30 @@
 # record/promotion-audit/decisions/THEORY-080.yaml
 id: THEORY-080
-batch: batch-036
+batch: batch-046
 reviewed: '2026-10-19'
-reviewed_revision: 735f6240
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+supersedes: batch-036 (needs-correction; this batch carries it out)
 current_status: Proposed
 disposition: needs-correction
-confidence: medium
+confidence: high
 scope:
   accepted: >-
-    The exact half re-derives, and it is the record's own: no source states
-    it (the summary opens "The filer's synthesis, stated by no source").
-
-    (a) Model. Linearise at θ0: f(x; θ) = f(x; θ0) + J(x)(θ − θ0), with prior
-        θ − θ0 ~ N(0, α⁻¹I_k) and targets with noise precision β. This is
-        MacKay's linear-in-parameters model with basis functions the
-        components of J(x) (LIT-623, Eqs. 7–11), so the Gaussian evidence is
-        exact (NOTE-471).
-    (b) Occam factor. With A = αI + βJᵀJ (J the n×k matrix of training
-        gradients), the terms −½ log det A − log Z_W(α) + (k/2) log 2π of
-        MacKay's Eq. 20, with Z_W = (2π/α)^{k/2}, sum to
-        −½ log det A + (k/2) log α = −½ log det(I_k + (β/α)JᵀJ)
-        = −½ Σ_a log(1 + βλ_a/α), λ_a the eigenvalues of JᵀJ.
-    (c) JᵀJ (k×k) and JJᵀ (n×n) share their non-zero eigenvalues, so the sum
-        runs over the non-zero eigenvalues of the empirical NTK Gram matrix
-        JJᵀ: at most n terms, whatever k is. γ = Σ βλ_a/(βλ_a + α) (Eq. 23)
-        likewise depends only on that spectrum.
-    (d) If the Gram eigenvalues are nµ_k with multiplicity N(d, k), substitution
-        in (c) gives Σ_k N(d, k)·½ log(1 + βnµ_k/α). That step is exact only
-        as a conditional; that the empirical Gram spectrum is close to nµ_k is
-        a kernel spectral-convergence result the record does not hold.
+    The correction batch 036 asked for: the exact half filed as the
+    record's own claim (CLAIM-tmprruzz), and THEORY-080 pointed to it by a
+    version-3 history entry, a summary sentence and a dated note.
   excluded: >-
-    (1) The spherical half as a fact about networks: the Gram-spectrum
-    approximation is the step the promote_when's computation was to check,
-    and no source in the record states it for the NTK. (2) The rate
-    γ ~ n^((d−1)/d), the filer's from asymptotic forms. (3) "Schedules the
-    complexity penalty across frequencies", a gloss.
+    Promotion of THEORY-080. The spherical half rests on approximating the
+    empirical Gram spectrum by nµ_k with multiplicity N(d, k), which the
+    record holds no source for; the rate γ ~ n^((d−1)/d) is the filer's.
 evidence:
-  - "NOTE-471: MacKay read in full; Eqs. 20 and 23 quoted."
-  - "NOTE-475 (Bietti & Bach, Eq. 8, Corollary 3) and NOTE-481 (Basri et al., Eq. 14) give the spectrum and the fit term; neither says anything of evidence."
-  - "Summary and 'What this does not say': 'No source states it ... the whole is assembled.'"
+  - "Batch 036's re-derivation of steps (a)–(c), restated as the new claim's proof."
 blockers:
-  - "ADR-032: a result the record itself proves belongs in a CLAIM, as THEORY-005's became (NOTES, recurring patterns). Steps (a)–(c) are such a result."
+  - "The promote_when's computation (or a held source on NTK Gram-spectrum convergence on the sphere) for the spherical half."
 notes: >-
-  Batch 020's sort: a theorem, so re-derivation. The re-derivation goes
-  through for (a)–(c), but because it is the record's own assembly,
-  promoting the THEORY would file the record's result as a source-backed
-  account. The correction is to file (a)–(c) as a demonstrated CLAIM
-  grounded on LIT-623, and keep THEORY-080 Proposed for the spherical,
-  per-harmonic account, which rests on the approximation in (d). The
-  promote_when's computation stays the right test for that half.
+  The title is left as it is: its first clause is now the claim's result,
+  stated as the premise of the spherical account, which is how the body
+  already reads.
 unlocks: []
 next_action: >-
-  Correction PR (a later batch): file a CLAIM, warrant demonstrated, stating
-  that for a linearised network with an isotropic Gaussian prior the log
-  Occam factor is −½ Σ log(1 + βλ_a/α) over the non-zero eigenvalues of the
-  empirical NTK Gram matrix, so at most n directions are priced; grounds
-  LIT-623; the derivation above as its body. THEORY-080 then rests on it
-  and keeps its promote_when for the spherical half.
+  None until a source on the empirical NTK spectrum on S^(d−1) is held or
+  the computation is run; then review the spherical half in wave 3.
