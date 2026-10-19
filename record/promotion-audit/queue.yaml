@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 122
+version: 123
 updated: '2026-10-19'
 record_revision: 374ba778e1bc5456455bcdbc42e581b2abff1f59
 procedure: record/decisions.d/ADR-047.md
@@ -39,8 +39,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 65
-  promotion_paths: 41
+  reviewed: 70
+  promotion_paths: 45
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -67,6 +67,10 @@ requeue:
   when: when a CLAIM is filed for its exact half
   why: 'batch-036: the exact Occam-factor identity is the record''s own synthesis; file it as a demonstrated
     CLAIM (ADR-032); the spherical half stays Proposed'
+- code: THEORY-270
+  when: after a dedicated re-derivation of LIT-941 App. C
+  why: 'batch-038: the proofs it rests on were read only in outline; title must name the uniform, lossless
+    models'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2482,6 +2486,49 @@ candidates:
   decision: decisions/THEORY-185.yaml
   carried_out_in:
   - '#233'
+- code: THEORY-197
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: promote
+  batch: batch-038
+  decision: decisions/THEORY-197.yaml
+  carried_out_in:
+  - '#234'
+- code: THEORY-238
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-038
+  decision: decisions/THEORY-238.yaml
+  carried_out_in:
+  - '#230'
+- code: THEORY-266
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-038
+  decision: decisions/THEORY-266.yaml
+  carried_out_in:
+  - '#230'
+- code: THEORY-270
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: retain-proposed
+  batch: batch-038
+  decision: decisions/THEORY-270.yaml
+- code: THEORY-278
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-038
+  decision: decisions/THEORY-278.yaml
+  carried_out_in:
+  - '#230'
 history:
 - version: 1
   date: '2026-10-19'
@@ -2943,4 +2990,8 @@ history:
   date: '2026-10-19'
   note: 'Batch 037 integrated: 4 of 5 found a promotion path (all by re-derivation under ADR-047 v2; THEORY-161
     also narrowed to the papers read); carried_out_in #229, #233'
+- version: 123
+  date: '2026-10-19'
+  note: 'Batch 038 integrated: 4 of 5 found a promotion path (THEORY-197 promote; THEORY-238, -266, -278
+    narrow-and-promote); carried_out_in #230, #234; THEORY-270 requeued'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

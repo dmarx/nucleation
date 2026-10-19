@@ -1,0 +1,65 @@
+# record/promotion-audit/decisions/THEORY-270.yaml
+id: THEORY-270
+batch: batch-038
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    Theorem A.2, the general MLE bound, is re-derived here and holds.
+    Setting: a finite family Θ of translators, m source texts drawn i.i.d.,
+    a prior ρ under which the true translator's outputs all have positive
+    plausibility, and MLE choosing θ to maximise Σ log ρ(f_θ(x_i)).
+      (a) Call θ bad if its loss exceeds the threshold, and suppose every bad θ
+          makes an output impossible under ρ with probability more than γ.
+      (b) The true translator has finite log-likelihood on every sample. So
+          MLE never chooses a θ with an impossible output on the sample.
+      (c) A fixed bad θ has no impossible output on m i.i.d. texts with
+          probability at most (1 − γ)^m ≤ e^{−γm}. By a union bound over at
+          most |Θ| bad translators, some bad θ survives with probability at
+          most |Θ|e^{−γm}. That is at most δ when m ≥ (1/γ) ln(|Θ|/δ).
+      (d) So with probability ≥ 1 − δ, MLE's choice is not bad, and its loss
+          is at most the threshold. That is the realisable Occam bound,
+          with "impossible under the prior" in place of "wrong label", as
+          the body says.
+    This half needs no narrowing, and it is not what the title turns on.
+  excluded: >-
+    The title's general form and its dependence on the size of the source
+    language. (1) "Translation without parallel data is learnable … with
+    error falling … in the size of the source language" is stated without
+    the models it was proved in. The source-size dependence, through
+    min(m, |T|), comes only from the common-nonsense model (Theorems 3.4 and
+    3.5), with uniform languages, one-to-one translators and a realisable
+    prior. The knowledge-graph model's first term is a floor in r, and
+    the body itself says "not about natural languages". The promote_when
+    asks for the bound outside those models, so a narrowed title would be
+    met by the models' own proofs. (2) Those proofs were not checked.
+    NOTE-804's history says that of the long proofs in B.2, C (the
+    common-nonsense upper and lower bounds) and D (knowledge graphs), only
+    the overviews, the lemma statements and the opening of each proof were
+    read. The combinatorial and concentration steps were not checked line
+    by line. ADR-047 v3 is for measurements and does not apply. The
+    re-derivation route needs App. C worked through, which this batch did
+    not do.
+evidence:
+  - "NOTE-804 version 1: LIT-941 read in full except the long proofs of B.2, C and D, whose combinatorial and concentration steps were not checked line by line. Claims table: C1 (Theorem A.2) strong; C2 (Theorems 3.4, 3.5) strong as stated; C3 'strong in the models; weak beyond them'."
+  - "The body's 'What this does not say': not about natural languages, not lossy, not computational."
+  - "Inactive-ok directives naming THEORY-270: LIT-941, NOTE-804."
+blockers:
+  - "The title generalises past the stylised models (uniform languages, one-to-one translators, a realisable prior). It must be narrowed to them before a proof can meet it."
+  - "The proof of Theorem 3.4's upper bound and Theorem 3.5's lower bound (LIT-941 App. C) has not been checked or re-derived, and the title's dependence on the size of the source language rests on it."
+notes: >-
+  Batch 020's sort: a theorem, but only inside stylised models the title
+  does not name. Triage-006 routed it to re-derivation (formal score 3).
+  The route is right, and the work is longer than a batch allows. The
+  promote_when, read against a narrowed title, becomes a QUESTION
+  (non-uniform or lossy settings), as in batch 018's THEORY-233 pattern.
+unlocks: []
+next_action: >-
+  Requeue for a dedicated re-derivation pass. Fetch arXiv:2211.11081v2,
+  work through App. C step by step (upper bound O(log|Θ|/(α·min(m,|T|))),
+  and the matching lower bound), then narrow the title to "in stylised
+  random models with uniform languages and one-to-one translators …" and
+  promote, moving the promote_when to a QUESTION.

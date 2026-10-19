@@ -1,0 +1,99 @@
+# record/promotion-audit/decisions/THEORY-197.yaml
+id: THEORY-197
+batch: batch-038
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as it stands. It has two parts: an identity between Mehta and
+    Schwab's parametrizations, under which an exact RG step is a perfect
+    fit of the data distribution, and a statement that the correspondence
+    licenses nothing short of that point. The promote_when asks for a
+    second, independent derivation that states the scope as the title does.
+    The record holds two sources that state it: Lin, Tegmark & Rolnick's
+    v2 appendix (LIT-887, read in NOTE-688) makes the normalization point,
+    and the mapping's own authors (LIT-891, read in full in NOTE-694) put
+    all of its content at the trace condition and withdraw Eq. 8's
+    converse. The derivation is also re-checked here step by step, as
+    ADR-047 v2 allows.
+
+    Setting (LIT-882 Eqs. 1–7, 18–22). Visible spins v have the data
+    Hamiltonian H(v), with p(v) = e^{−H(v)}/Z. Kadanoff's variational RG
+    couples hidden spins h to v by a kernel T(v, h) and defines
+    e^{−H^RG(h)} = Tr_v e^{T(v,h) − H(v)}. The step is exact when
+    Tr_h e^{T(v,h)} = 1 for every v. An RBM has joint energy E(v, h), with
+    hidden and visible marginal energies e^{−H^RBM(h)} = Tr_v e^{−E(v,h)}
+    and e^{−H^RBM(v)} = Tr_h e^{−E(v,h)}, and Z_λ = Tr_{v,h} e^{−E}.
+
+    (1) The identity. Put T = −E + H. Then
+        Tr_v e^{T − H} = Tr_v e^{−E(v,h)} = e^{−H^RBM(h)},
+        so H^RG(h) = H^RBM(h) for every parameter value λ. Nothing about
+        training or about the form of E is used, so it holds for any
+        Boltzmann machine (Eq. 21).
+    (2) Exactness. Tr_h e^{T(v,h)} = e^{H(v)} Tr_h e^{−E(v,h)}
+        = e^{H(v) − H^RBM(v)}. This equals 1 for every v iff
+        H^RBM(v) = H(v) for every v.
+    (3) Exact step ⇒ perfect fit, the direction the title states. If
+        H^RBM = H pointwise, then Z_λ = Tr_v e^{−H^RBM(v)} = Z, so
+        p_λ(v) = e^{−H^RBM(v)}/Z_λ = p(v) and the KL divergence is zero.
+        The converse holds up to a constant. A perfect fit gives
+        H^RBM = H + c with c = log(Z_λ/Z), so Tr_h e^T = e^{−c}, and the
+        trace condition holds once E is shifted by that constant, which
+        leaves p_λ unchanged. That is why Eq. 22 can be read as "exact iff
+        zero KL". The title claims only the forward direction.
+    (4) Short of exactness. The RG coarse free energy is
+        F^h = −log Tr_h e^{−H^RG(h)} = −log Tr_{h,v} e^{−E} = −log Z_λ,
+        and F = −log Z, so ΔF = F^h − F = log Z − log Z_λ. Shifting E by a
+        constant multiplies Z_λ by e^{−c} and so moves ΔF to zero for any
+        λ, whatever p_λ is. Under the mapping's kernel, the criterion
+        variational RG minimizes therefore measures only normalization,
+        while the RBM minimizes KL(p ‖ p_λ). The two criteria differ away
+        from the exact point (the paper's own concession), and ΔF = 0
+        cannot select the fit. Eq. 8's "⟺" fails in the ⇐ direction: ΔF = 0
+        is the trace condition only on average under the data. The
+        authors withdraw the converse (LIT-891).
+    (5) The negative half needs only a counterexample. "Does not make
+        training by distribution fitting a renormalization" is a
+        non-implication. LIT-873's contrastive-divergence RBM on dimers with
+        decoupled spin pairs fits the distribution and spends its hidden
+        units on the noise and on columnar textures, not on the
+        RG-relevant staggered fields (NOTE-674). One such case refutes the
+        implication.
+  excluded: >-
+    Whether the exact point itself is a renormalization in any sense
+    beyond Kadanoff's definition of an exact step. THEORY-202 (Proposed)
+    argues that the trace condition holds for hidden variables that do not
+    interact with the system, so it does not select the coarse variables.
+    THEORY-197's title uses "exact RG step" in Kadanoff's sense and does not
+    claim the stronger reading. Nor does it cover how Kadanoff's own
+    lower-bound schemes, which keep the trace condition and approximate
+    elsewhere, fare under the RBM parametrization. The body already
+    disclaims that.
+evidence:
+  - "NOTE-683 version 1: LIT-882 read in full; the derivation of Sections I and III (Eqs. 1–22) checked line by line; the free-energy consequence derived from Eqs. 4, 6, 7 and 18."
+  - "NOTE-694 version 1: LIT-891 (Schwab & Mehta's comment) read in full, appendix computation checked by hand. The authors concede that a preserved free energy does not give a preserved distribution and that Eq. 8's 'iff' should be one-directional, and place the mapping's content at the trace condition."
+  - "NOTE-688 version 1: LIT-887 v1–v4 renormalization appendices read and compared; v2's appendix makes the normalization point in substance."
+  - "NOTE-674: LIT-873's comparison with contrastive-divergence RBMs (main text p. 4; supplement pp. 17–18)."
+  - "Citers: QUESTION-060 (answered by it). Inactive-ok directives naming THEORY-197 are in LIT-039, LIT-1023, LIT-882, LIT-887, LIT-891, NOTE-683, NOTE-688, NOTE-690, NOTE-694, NOTE-718, NOTE-758, NOTE-771, NOTE-821, THEORY-194, THEORY-202, THEORY-241 and THEORY-256."
+blockers: []
+notes: >-
+  Batch 020's sort: the title states a theorem, an identity plus a
+  non-implication, so it takes the re-derivation route. Triage-006 routed it
+  the same way (formal score 3: title, relation, derived). The
+  promote_when's main request, a second derivation stating the same scope,
+  is met by sources the record already holds (LIT-887, LIT-891). Both were
+  added in versions 2 and 3, after the promote_when was written, so the
+  condition was met without being marked. Its "Or, against it, a proof
+  that…" clause is a refuter, not a requirement, and stays in the body's
+  sense. No new QUESTION is needed: the open matter (what the exact point
+  selects) is already THEORY-202's and QUESTION-060's.
+unlocks: []
+next_action: >-
+  Promotion PR. Status Active, version 4, with a history note citing this
+  re-derivation and the two sources that meet the promote_when. Add a dated
+  body note recording the re-derivation's one refinement: the converse of
+  step (3) holds only up to a constant shift of E. Trim the inactive-ok
+  entries naming THEORY-197 in the seventeen files listed under evidence.

@@ -1165,3 +1165,32 @@ history note. THEORY-277 is requeued on this basis.
 - THEORY-110 could be split in the manner of THEORY-109 once the record
   has checked Lin et al.'s Theorems 10, 11 and 18 (NOTE-535 read them for
   statement only).
+
+## 2026-10-19 — batch 038 (wave 3, triage-006 formal 11-15)
+
+- Triage-006's formal route went 4 of 5 on its entries 11–15, all at score
+  3. The miss (THEORY-270) was a theorem whose long proofs the NOTE read
+  only in outline. Read a NOTE's history line for "overviews" or "not
+  checked line by line" before routing a theorem to a one-batch re-
+  derivation.
+- A flagged constant inconsistency can be a rescaling. THEORY-238's proof
+  applies Lemma 3 at λ/2, so "λ/n < 1.36" in the proof and "λ/n < 0.68" in
+  the lemma agree. Check the argument the lemma is applied at before
+  calling the constants wrong.
+- Check whether a promote_when was met by sources added later.
+  THEORY-197's promote_when asked for a second derivation, and versions 2
+  and 3 had already added two sources (LIT-887, LIT-891) that give it.
+  Neither version note said the condition was met.
+- THEORY-266's promotion rests on Theorem 4 of LIT-233, which is
+  THEORY-263's framework and was reviewed elsewhere in this round. If that
+  review finds a defect in Theorem 4's proof, revisit THEORY-266. #230
+  also trims THEORY-266's and THEORY-238's names from THEORY-263's
+  inactive-ok directives, so expect a directive-line conflict if a
+  THEORY-263 PR touches the same lines.
+- Numerical side conditions are worth one script. Lemma 3's second
+  inequality is stated by the paper for x < 1.3, but the lemma needs it to
+  1.36. It holds there, by 0.0025.
+- THEORY-270 should be requeued for a dedicated re-derivation of LIT-941
+  App. C, the common-nonsense upper and lower bounds. Once that is done,
+  narrow the title to the stylised models and promote, moving the
+  promote_when to a QUESTION.
