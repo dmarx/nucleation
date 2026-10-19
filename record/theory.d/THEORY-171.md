@@ -133,7 +133,7 @@ fails.
 
 ## Note of 2026-10-19: the existence claim, re-derived
 
-The promotion audit's batch 008 re-derived the Θ₃ example (ADR-047 v2).
+The promotion audit's batch 008 re-derived the Θ₃ example ([ADR-047](../decisions.d/ADR-047.md) v2).
 Θ₃ is the meet of the spaces of total(A, B) ∨ discrete(C) and
 discrete(A) ∨ total(C, B). So event B has causal past {A, B} in one and
 {B, C} in the other. {B:b} alone is a history in neither, so

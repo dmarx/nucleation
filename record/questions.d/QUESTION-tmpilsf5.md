@@ -25,7 +25,7 @@ context, deterministic assignments that are causal in each context can fail
 to glue. One checked example settles that, and [LIT-808](../literature.d/LIT-808.md)'s Θ₃ is one, with
 [LIT-843](../literature.d/LIT-843.md)'s Example 7.2 a second ([NOTE-612](../notes.d/NOTE-612.md)). Until 2026-10-19 [THEORY-171](../theory.d/THEORY-171.md)'s
 promote_when also asked for the characterisation. At the owner's direction,
-from the promotion audit's batch 008 (ADR-047), the THEORY was narrowed to
+from the promotion audit's batch 008 ([ADR-047](../decisions.d/ADR-047.md)), the THEORY was narrowed to
 what is checked, and the characterisation moved here.
 
 It is open because the proof of Theorem 2.34 has not been read ([NOTE-612](../notes.d/NOTE-612.md),

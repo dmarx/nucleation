@@ -26,7 +26,7 @@ constant mean; O and O² have constant means; and O is constant on each
 connected component of the transition graph. The record re-derived the
 cycle. Until 2026-10-19 [THEORY-158](../theory.d/THEORY-158.md)'s promote_when also allowed "a checked
 extension of the component form to general state spaces". At the owner's
-direction, from the promotion audit's batch 008 (ADR-047), the THEORY was
+direction, from the promotion audit's batch 008 ([ADR-047](../decisions.d/ADR-047.md)), the THEORY was
 narrowed to the finite case, and the general-space clause moved here.
 
 It is open because, on σ-finite measure spaces, the source gives only the

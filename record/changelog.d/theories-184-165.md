@@ -12,4 +12,4 @@
   The independent check its promotion condition asked for is the audit's.
 - [THEORY-165](record/theory.d/THEORY-165.md) is narrowed to what [LIT-265](record/literature.d/LIT-265.md) proves, the linear programme and
   convexity under mixing, and promoted to Active.
-- Both carry out the promotion audit's batch-005 decisions (ADR-047).
+- Both carry out the promotion audit's batch-005 decisions ([ADR-047](record/decisions.d/ADR-047.md)).

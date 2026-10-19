@@ -111,7 +111,7 @@ not the paper's.
 ## Note of 2026-10-19: Theorem 1, re-derived
 
 The promotion audit's batch 008 re-derived the finite-state cycle
-(ADR-047 v2). X is finite, and H is infinitesimal stochastic: off-diagonal
+([ADR-047](../decisions.d/ADR-047.md) v2). X is finite, and H is infinitesimal stochastic: off-diagonal
 Hᵢⱼ ≥ 0, and columns sum to 0. The master equation is ψ′ = Hψ, and O is a
 function on X. Write d⟨f⟩/dt = Σᵢ f(i)(Hψ)ᵢ = Σⱼ ψⱼ Σᵢ f(i)Hᵢⱼ. This
 vanishes along every solution iff Σᵢ f(i)Hᵢⱼ = 0 for every j, since the

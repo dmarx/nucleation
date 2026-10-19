@@ -99,7 +99,7 @@ were checked in the reading.
 
 ## Note of 2026-10-19: the bracket equivalence, re-derived
 
-The promotion audit's batch 008 re-derived the equivalence (ADR-047 v2).
+The promotion audit's batch 008 re-derived the equivalence ([ADR-047](../decisions.d/ADR-047.md) v2).
 Assume that, for each a, the flow equation d/dt F_t(b) = {a, F_t(b)},
 F_0(b) = b, has a unique solution.
 

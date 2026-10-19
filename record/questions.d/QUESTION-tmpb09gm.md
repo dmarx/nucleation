@@ -28,7 +28,7 @@ map with ψ_a(a) = 0 and a second condition exists exactly when O is the
 self-adjoint part of a C*-algebra. Until 2026-10-19 [THEORY-160](../theory.d/THEORY-160.md)'s
 promote_when offered a checked reading of that theorem as one way to
 promote it. At the owner's direction, from the promotion audit's batch 008
-(ADR-047), the THEORY was narrowed to the bracket equivalence, and this
+([ADR-047](../decisions.d/ADR-047.md)), the THEORY was narrowed to the bracket equivalence, and this
 clause moved here.
 
 It is open because the record holds the theorem only as Baez quotes it.

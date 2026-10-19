@@ -10,7 +10,7 @@
 
 - [THEORY-171](record/theory.d/THEORY-171.md), [THEORY-160](record/theory.d/THEORY-160.md) and [THEORY-158](record/theory.d/THEORY-158.md) are narrowed to what is checked
   and promoted to Active, carrying out the promotion audit's batch-008
-  decisions (ADR-047). The narrowed claims are the non-gluing of causal
+  decisions ([ADR-047](record/decisions.d/ADR-047.md)). The narrowed claims are the non-gluing of causal
   functions, the symmetry–conservation equivalence for a bracket with
   unique flows, and the finite-state equivalence. Each cites its
   re-derivation, which by the owner's rule of 2026-10-19 meets the request

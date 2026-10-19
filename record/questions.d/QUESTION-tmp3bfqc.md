@@ -20,7 +20,7 @@ summary: >-
 
 [THEORY-297](../theory.d/THEORY-297.md) holds Ovsjanikov et al.'s structural results ([LIT-993](../literature.d/LIT-993.md), read in
 [NOTE-822](../notes.d/NOTE-822.md)) for a bijection T between shapes. At the owner's direction, from
-the promotion audit of 2026-10-19 (ADR-047, batch 007), it went Active with
+the promotion audit of 2026-10-19 ([ADR-047](../decisions.d/ADR-047.md), batch 007), it went Active with
 the results re-derived. The clause of its promote_when that asked for the
 conditions under which the truncated matrix stays orthogonal was moved here
 unchanged.

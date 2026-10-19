@@ -8,4 +8,4 @@
   can make a model contextual. The title now separates changes of
   scenario from changes of empirical model.
 - Both corrections carry out the promotion audit's batch-002 decisions
-  (ADR-047). Statuses are unchanged.
+  ([ADR-047](record/decisions.d/ADR-047.md)). Statuses are unchanged.
