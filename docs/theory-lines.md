@@ -25,11 +25,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## anthology-candidate
 
-### From The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
-
-- [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
-  - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
-
 ### From In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n
 
 - [THEORY-718](../record/theory.d/THEORY-718.md) — In a linear-in-parameters model with Gaussian noise and a Gaussian prior, the evidence is exactly the best-fit likelihood times an Occam factor set by the posterior curvature, and when the design grows linearly with n that factor costs (k/2) log n *(Active)*
@@ -206,10 +201,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## information-geometry
 
-### From The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
+### From For softmax cross-entropy with balanced classes, the Gauss–Newton matrix splits exactly into four positive semidefinite second-moment terms, the class-centre term has rank at most C with eigenvectors in the span of the class centres and the spectrum of a C × C Gram matrix, and so the k-th eigenvalue of the whole is never below the k-th eigenvalue of the class-centre term
 
-- [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
-  - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
+- [THEORY-731](../record/theory.d/THEORY-731.md) — For softmax cross-entropy with balanced classes, the Gauss–Newton matrix splits exactly into four positive semidefinite second-moment terms, the class-centre term has rank at most C with eigenvectors in the span of the class centres and the spectrum of a C × C Gram matrix, and so the k-th eigenvalue of the whole is never below the k-th eigenvalue of the class-centre term *(Active)*
+  - [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
+    - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
 
 ## information-retrieval
 
@@ -231,11 +227,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-641](../record/theory.d/THEORY-641.md) — Under a well-specified, identifiable parametric Markov model of the target given the joint past, with ergodic lagged states, transfer entropy is the limit of the normalised log-likelihood ratio for the null of no dependence on the source's past, so it is Granger-sense predictive improvement; for finite-state chains the plug-in estimator is exactly that statistic, and under the null and the usual regularity it is asymptotically χ² with the difference in parameter counts as degrees of freedom *(Active)*
 
 ## learning-theory
-
-### From The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation
-
-- [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
-  - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
 
 ### From Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank
 

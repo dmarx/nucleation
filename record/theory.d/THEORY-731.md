@@ -1,5 +1,8 @@
 ---
+number: 731
 status: Active
+formerly:
+- THEORY-tmpuga9q
 title: 'For softmax cross-entropy with balanced classes, the Gauss–Newton matrix splits exactly into four positive semidefinite second-moment terms, the class-centre term has rank at most C with eigenvectors in the span of the class centres and the spectrum of a C × C Gram matrix, and so the k-th eigenvalue of the whole is never below the k-th eigenvalue of the class-centre term'
 version: 1
 history:
@@ -36,7 +39,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-078 — Proposed; the measured attribution this was split from and that extends it, cited as open -->
 
-# THEORY-tmpuga9q: For softmax cross-entropy with balanced classes, the Gauss–Newton matrix splits exactly into four positive semidefinite second-moment terms, the class-centre term has rank at most C with eigenvectors in the span of the class centres and the spectrum of a C × C Gram matrix, and so the k-th eigenvalue of the whole is never below the k-th eigenvalue of the class-centre term
+# THEORY-731: For softmax cross-entropy with balanced classes, the Gauss–Newton matrix splits exactly into four positive semidefinite second-moment terms, the class-centre term has rank at most C with eigenvectors in the span of the class centres and the spectrum of a C × C Gram matrix, and so the k-th eigenvalue of the whole is never below the k-th eigenvalue of the class-centre term
 
 ## Source
 

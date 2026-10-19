@@ -27,7 +27,7 @@ history:
     (record/promotion-audit/decisions/THEORY-078.yaml, batch 017, ADR-047).
     The exact algebra of LIT-619 (the four-term decomposition, the rank and
     Gram-matrix statement for the class-centre term, and the eigenvalue
-    inequalities) is filed apart as THEORY-tmpuga9q, Active, with its
+    inequalities) is filed apart as THEORY-731, Active, with its
     derivation written out (ADR-047 v2). This THEORY extends it and keeps
     the measured attribution. Its promote_when already concerned only the
     attribution and is unchanged. The claim is unchanged, and the status
@@ -56,7 +56,7 @@ summary: >-
   the outliers is measured, by eye, under a training protocol narrower
   than practice. So this is Proposed.
 extends:
-- THEORY-tmpuga9q
+- THEORY-731
 extended_by:
 - THEORY-085
 supports:
@@ -153,7 +153,7 @@ whether it sits above or below it ([NOTE-474](../notes.d/NOTE-474.md)).
 
 ## Connections
 
-- **[THEORY-tmpuga9q](THEORY-tmpuga9q.md)** holds the exact algebra this account builds on: the
+- **[THEORY-731](THEORY-731.md)** holds the exact algebra this account builds on: the
   decomposition, the rank and Gram-matrix statement for G₁, and
   λ_k(G) ≥ λ_k(G₁₊₂) ≥ λ_k(G₁), derived. What is left here is the
   measurement that the inequalities are nearly tight in trained networks.

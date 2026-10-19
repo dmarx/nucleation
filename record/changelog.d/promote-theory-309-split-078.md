@@ -1,6 +1,6 @@
 ### Added
 
-- [THEORY-tmpuga9q](record/theory.d/THEORY-tmpuga9q.md), Active: for softmax cross-entropy with balanced classes,
+- [THEORY-731](record/theory.d/THEORY-731.md), Active: for softmax cross-entropy with balanced classes,
   the Gauss–Newton matrix splits exactly into four positive semidefinite
   terms, and its k-th eigenvalue is never below that of the class-centre
   term, a rank-C matrix read from a C × C Gram matrix. Split from

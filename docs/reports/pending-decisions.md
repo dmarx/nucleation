@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**817 document(s) awaiting a decision.**
+**816 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 817.
+95 of the 816.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-490 of the 817.
+489 of the 816.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -159,6 +159,7 @@
 | 2026-10-03 | Proposed | [THEORY-090](../../record/theory.d/THEORY-090.md) | 21 | 3 | A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options |
 | 2026-10-03 | Proposed | [THEORY-122](../../record/theory.d/THEORY-122.md) | 21 | 2 | Moral responsibility requires the normative competence to recognise and act on the True and the Good, which identification with one's own motives does not supply |
 | 2026-10-03 | Proposed | [THEORY-073](../../record/theory.d/THEORY-073.md) | 20 | 3 | A Markov blanket does not individuate a system: where it falls is fixed by modelling choices made before it is found, so it presupposes the boundary it is used to find, and it cannot represent a boundary the system produces |
+| 2026-10-03 | Proposed | [THEORY-078](../../record/theory.d/THEORY-078.md) | 20 | 1 | The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation |
 | 2026-10-03 | Proposed | [THEORY-084](../../record/theory.d/THEORY-084.md) | 20 | 6 | Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks |
 | 2026-10-03 | Proposed | [THEORY-118](../../record/theory.d/THEORY-118.md) | 20 | 3 | Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons |
 | 2026-10-03 | Proposed | [THEORY-062](../../record/theory.d/THEORY-062.md) | 19 | 7 | Model-based and model-free predictions both operate in instrumental and in Pavlovian learning, and which one controls behaviour follows their relative reliability, not the preference of a supervising system |
@@ -170,7 +171,6 @@
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 15 | 3 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
 | 2026-10-03 | Proposed | [THEORY-064](../../record/theory.d/THEORY-064.md) | 15 | 0 | What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self |
 | 2026-10-03 | Proposed | [THEORY-049](../../record/theory.d/THEORY-049.md) | 13 | 2 | Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence |
-| 2026-10-03 | Proposed | [THEORY-078](../../record/theory.d/THEORY-078.md) | 13 | 1 | The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation |
 | 2026-10-03 | Proposed | [THEORY-109](../../record/theory.d/THEORY-109.md) | 13 | 5 | The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum |
 | 2026-10-03 | Proposed | [THEORY-065](../../record/theory.d/THEORY-065.md) | 12 | 2 | The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones |
 | 2026-10-03 | Proposed | [THEORY-076](../../record/theory.d/THEORY-076.md) | 12 | 0 | Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining |
@@ -385,7 +385,6 @@
 | 2026-10-14 | Proposed | [THEORY-294](../../record/theory.d/THEORY-294.md) | 3 | 0 | Lazy-regime training of a wide shallow network does not collapse its features: on two-class Gaussian data the expected within-class variability of the NTK features is that of the NNGP features at initialization |
 | 2026-10-14 | Proposed | [THEORY-302](../../record/theory.d/THEORY-302.md) | 3 | 0 | Coordinated action is controlled by tuning relatively autonomous coordinative structures, not by commanding muscles: a higher level specifies an equivalence class of acceptable states and sets the parameters of self-regulating units, leaving the realized details to them |
 | 2026-10-14 | Proposed | [THEORY-303](../../record/theory.d/THEORY-303.md) | 3 | 0 | A measurement scenario whose compatibility hypergraph is acyclic admits no contextuality: locally consistent context distributions always glue to a global one, so a contextual scenario needs an induced cycle of length at least four |
-| 2026-10-14 | Proposed | [THEORY-309](../../record/theory.d/THEORY-309.md) | 3 | 0 | If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum system, so Kochen–Specker contextuality needs a stronger operational notion of context |
 | 2026-10-14 | Proposed | [THEORY-313](../../record/theory.d/THEORY-313.md) | 3 | 0 | With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus is within O(σ²) of KL as the bandwidth σ shrinks |
 | 2026-10-14 | Proposed | [THEORY-319](../../record/theory.d/THEORY-319.md) | 3 | 0 | When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required |
 | 2026-10-14 | Proposed | [THEORY-291](../../record/theory.d/THEORY-291.md) | 2 | 0 | The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks |
@@ -608,7 +607,7 @@
 
 ## ADRs
 
-2 of the 817.
+2 of the 816.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -617,7 +616,7 @@
 
 ## QUESTIONs
 
-9 of the 817.
+9 of the 816.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -633,7 +632,7 @@
 
 ## CLAIMs
 
-216 of the 817.
+216 of the 816.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -856,7 +855,7 @@
 
 ## CASEs
 
-1 of the 817.
+1 of the 816.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -864,7 +863,7 @@
 
 ## TERMs
 
-2 of the 817.
+2 of the 816.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -873,7 +872,7 @@
 
 ## ARGs
 
-2 of the 817.
+2 of the 816.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
