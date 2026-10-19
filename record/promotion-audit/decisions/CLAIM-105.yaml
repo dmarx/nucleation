@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/CLAIM-105.yaml
+id: CLAIM-105
+batch: batch-034
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+warrant: interpretive
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    Restate the title as a claim about documented chains, at a rate. The
+    title says translation "may" preserve local meanings while changing
+    global structure, and that reconstruction "can" do so. The defeater
+    since version 2 (2026-10-10, after CLAIM-238, CLAIM-219 and
+    CLAIM-245) is a prevalence test over documented reconstruction
+    chains, with signalling accounted for and coding fixed in advance.
+    The possibility the title states is already held elsewhere: the
+    2026-10-15 split filed it as CLAIM-320 (demonstrated, CASE-037 with
+    one context changed), on which this claim rests. That note says this
+    claim "keeps the thesis about translation and reconstruction chains",
+    but its title still has the possibility's quantifier, so the title is
+    the side to restate. Proposed title: "In documented reconstruction
+    chains, steps that keep most local judgements commonly change their
+    global compatibility: translation preserves local meanings while
+    changing the global structure of meaning".
+  excluded: >-
+    The warrant stays interpretive: CASE-053 documents that the adequate
+    test of contextuality in meaning judgements has not been run, so
+    there is no observation under the claim (ADR-043 v2). The status
+    stays Proposed, with CLAIM-219 and CLAIM-235 open against it.
+evidence:
+  - "CLAIM-105 title: 'Translation may preserve local meanings ...: reconstruction can keep most local judgements and change their global compatibility'."
+  - "CLAIM-105 defeated_if (version 2): '... change neither global extendability nor contextuality ... except at a rate no greater than one fixed in advance.'"
+  - "CLAIM-105 note of 2026-10-15: 'The constructed possibility is now CLAIM-320 (demonstrated), on which this claim rests. This claim keeps the thesis about translation and reconstruction chains'."
+blockers:
+  - "Interpretive and untested (CASE-053); objections CLAIM-219 and CLAIM-235 are open."
+notes: >-
+  A split parent whose title kept the split-off core's quantifier. The
+  sweep note of batch 028 (split parents reappear) applies, but the title
+  has not changed since the split, so this is a new finding, not a repeat.
+unlocks: []
+next_action: >-
+  Correction PR, with CLAIM-033 and CLAIM-087: restate the title, history
+  entry last citing batch 034, a dated body note. Status and warrant
+  unchanged.

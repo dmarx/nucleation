@@ -1,0 +1,48 @@
+# record/promotion-audit/decisions/CLAIM-087.yaml
+id: CLAIM-087
+batch: batch-034
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+warrant: interpretive
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    Restate the title's first clause as prevalence. The title says
+    cross-modal reconstruction "can improve" a receiver's access, which
+    one item settles. The defeater since version 2 (2026-10-10, after
+    CLAIM-238 and CLAIM-225) is a prevalence test: in chains whose
+    captioners are blind to the situation, the share of items where
+    access rises above the text-only baseline by a margin fixed in
+    advance is no greater than a rate fixed in advance. As for
+    CLAIM-033, the history shows the defeater was made a prevalence test
+    on purpose, and CLAIM-238 (Active, granted) names prevalence as the
+    remedy, so the title is the side to restate. The last clause, that a
+    rendering made without the situation cannot improve what an ideal
+    receiver could do, is demonstrated in CLAIM-225 (Active) and is kept
+    as the scope condition: the improvement is to a given receiver's
+    usable information (CLAIM-199), which the defeater's "task-indexed
+    access" measures. Proposed title: "Cross-modal reconstruction often
+    improves a receiver's access to an implicit communicative relation
+    beyond the text-only baseline, as when posture or expression conveys
+    solidarity better than the source text's literal content, though a
+    rendering made without the situation is a garbling and cannot improve
+    what an ideal receiver could do".
+  excluded: >-
+    The warrant stays interpretive: no chain has been run (ADR-043 v2).
+    The status stays Proposed.
+evidence:
+  - "CLAIM-087 title: 'Cross-modal reconstruction can improve a receiver's access ...'."
+  - "CLAIM-087 defeated_if (version 2): 'the share of items on which ... access ... rises above the text-only baseline by more than a margin fixed in advance is no greater than a rate fixed in advance.'"
+  - "CLAIM-087 version 2 history: 'version 1's \"never rises … at any stage\" was a universal negative.'"
+  - "CLAIM-087 note of 2026-10-15: the garbling bound 'is already stated and derived in CLAIM-225 (Active, demonstrated)'."
+blockers:
+  - "Interpretive and untested: no text→image→text study has been run."
+notes: >-
+  Same shape as CLAIM-033; one correction PR carries both, with CLAIM-105.
+unlocks: []
+next_action: >-
+  Correction PR: restate the title's first clause as prevalence, history
+  entry last citing batch 034, a dated body note. Status and warrant
+  unchanged.
