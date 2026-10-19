@@ -1,0 +1,32 @@
+# record/promotion-audit/decisions/CLAIM-212.yaml
+id: CLAIM-212
+batch: batch-014
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    Correct the warrant from demonstrated to interpretive. The claim calls
+    itself a proposal ("The distinction is a proposal: whether receivers'
+    verdicts track it, and which target the line's central cases have, are
+    open"). Both disjuncts of its defeat condition are outside derivation.
+    The first is a reception study. The second is a classification of the
+    line's central cases. The status stays Proposed.
+  excluded: >-
+    No promotion, and no split. The mathematics the claim uses is already
+    held Active elsewhere, so there is nothing new to split off. Report
+    fidelity has a common parameter by construction, so the order is
+    defined, which is the definition and not a theorem. The worked case of
+    incomparability is CLAIM-323, which is Active and demonstrated.
+evidence:
+  - "Defeat condition: 'Receivers' fidelity verdicts … do not differ between a report task … and a re-performance task …; or the line's central cases are shown to be re-performances'."
+  - "NOTES batch-000 pattern 1: a demonstrated warrant over a defeater that is not about a derivation means the claim is misclassified or compound. Here it is misclassified, because the derivational parts are already filed separately."
+  - "THEORY-156 is a ground only for the definition of an experiment over a common parameter. That definition does not need the converse that keeps THEORY-156 Proposed, and THEORY-717 states the same definition, but the ground can stay."
+blockers:
+  - "Its own defeat condition: a study giving receivers report and re-performance tasks on the same renderings (CASE-063 documents the distinction but not that study)."
+next_action: >-
+  Correction PR. Change warrant to interpretive, with a dated history note
+  citing this file (ADR-043, ADR-047). Optionally add THEORY-717 as a ground
+  for the finite case.

@@ -1,0 +1,44 @@
+# record/promotion-audit/batches/batch-014.yaml
+batch: batch-014
+date: '2026-10-19'
+kind: evidence-audit
+wave: mixed
+record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+selection: >-
+  Run in parallel with batches 011–013. Wave 2's last pending entry
+  (THEORY-312), the two wave-1 requeues once PR #165 merged (CLAIM-123,
+  CLAIM-326), and the two remaining wave-1 entries whose proposed
+  dependency was THEORY-156 (CLAIM-212, CLAIM-228).
+reviewed: [THEORY-312, CLAIM-123, CLAIM-326, CLAIM-212, CLAIM-228]
+outcomes:
+  promote: [THEORY-312, CLAIM-123]
+  split: [CLAIM-326, CLAIM-228]
+  needs-correction: [CLAIM-212]
+yield: 4 of 5 found a promotion path (2 promotions, 2 splits); 1 correction
+finding: >-
+  THEORY-156 was the proposed dependency for all three wave-1 claims here,
+  and it blocked none of them. CLAIM-326 needs the general Blackwell
+  converse only for outcome spaces that are not finite. THEORY-717, which
+  is Active, covers the finite case, which is the case the line's coded
+  designs use, so that case splits off. CLAIM-212 and CLAIM-228 cite
+  THEORY-156 only for the definition of a garbling, and no converse is used.
+  What actually held the two back was pattern 1: a demonstrated warrant
+  over an empirical defeat condition. CLAIM-228 splits, because it holds an
+  unfiled derivation (an across-items constant-kernel exclusion and a
+  finite LP for deficiency). CLAIM-212 only needs its warrant corrected,
+  because its mathematics is already Active in CLAIM-323. The proposed_deps
+  column was therefore a poor predictor here. A Proposed THEORY listed as a
+  dependency should be checked for which direction of it is used.
+recommendation: >-
+  Wave 1 now has CLAIM-206 and CLAIM-126 left. Both have several Proposed
+  premises, so take them in a wave-4 pass. Before treating a Proposed
+  ground as a blocker, check which of its statements is used. Definitions
+  and the easy direction of a theorem rarely need the Proposed part.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-312 and CLAIM-123: promote. THEORY-312 gets the Lemma B.0.1 and Theorem B.1 re-derivation as a dated note (ADR-047 v2)."
+  - "CLAIM-326 and CLAIM-228: splits into demonstrated, Active CLAIMs (the finite-outcome steps (a)–(d); the constant-kernel exclusion, garbling reading and finite LP). CLAIM-212 and CLAIM-228: warrants corrected, to interpretive and empirical."
+notes_for_ledger:
+  - "*Check which direction of a Proposed ground is used.* Three claims listed THEORY-156 (general Blackwell converse) as a dependency. Two used only the definition of a garbling, and one used the converse only outside finite outcome spaces, where THEORY-717 (Active) covers the rest. Grep the body for the sentence that cites the ground before recording a dependency blocker."
+  - "*A sign question in a THEORY is a cheap re-derivation.* THEORY-312's promote_when asked only to settle a remainder's sign. Lemma B.0.1 closes on three intervals using (1 + x/2)² ≤ e^x on [−2, 0], and Theorem B.1 needs only log(1 + x) ≥ x/(1 + x) and E Var − HSIC(Z,Z) = Var μ₁."
+  - "*Pattern 1 recurs in the fidelity line.* CLAIM-212 and CLAIM-228, both 'the record's reply of 2026-10-10', are demonstrated over a reception-study defeater. Expect the other 2026-10-10 replies in pragmatic-transport to have the same misclassification, and check them in wave 5."
