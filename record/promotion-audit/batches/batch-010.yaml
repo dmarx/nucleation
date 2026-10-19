@@ -1,0 +1,46 @@
+# record/promotion-audit/batches/batch-010.yaml
+batch: batch-010
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  THEORY-565, the last of triage-002's list, then the top four of triage-003
+  (triage_bundling.py; queue history, version 73): THEORY-014, THEORY-084,
+  THEORY-180, THEORY-021.
+reviewed: [THEORY-565, THEORY-014, THEORY-084, THEORY-180, THEORY-021]
+outcomes:
+  promote: [THEORY-014]
+  narrow-and-promote: [THEORY-021]
+  split: [THEORY-565, THEORY-084, THEORY-180]
+yield: 5 of 5 found a promotion path (4 of 4 from triage-003)
+finding: >-
+  Triage-003's bundling score did not rank better than triage-002's
+  keywords, because it barely ranks at all. 27 of the 34 eligible
+  mathematics THEORYs score the full 3, so within the top group the order is
+  the tie-break (supported claims, then code). Its yield, 4 of 4, adds to
+  wave 2's run of 15 of 16 for the keyword group and 4 of 5 for the control.
+  At these sample sizes none of these can be told apart. What the batches
+  show is that the class itself, Proposed mathematics THEORYs with a
+  promote_when, yields at roughly 80–100%. Within it, neither scoring
+  method finds the rare non-yielders (THEORY-106, THEORY-277). The useful
+  discriminator is the one each review applies by hand: does the
+  promote_when test the title, or something the title does not claim? Two
+  kinds of non-test recurred here. THEORY-014's promote_when tests a claim
+  the body explicitly disclaims (a bridge between formalisms). THEORY-084,
+  -180, -565 and -021 bundle a proved or record-provable core with an
+  empirical or analytic extension. The first is a promote with the
+  condition moved to a QUESTION; the second is a split or narrowing.
+recommendation: >-
+  Don't spend more effort on triage within wave 2. Review the remaining
+  eligible mathematics THEORYs, triage-003's other 16 and the 14 below it,
+  in code order, five per batch. Expect a high yield and an occasional
+  defer. The ranking is no better than code order, and code order is easy
+  to resume. Start wave 3 (source-backed THEORYs outside mathematics) in
+  parallel, with its own control sample from the first batch, since
+  ADR-047 v2's re-derivation route is rarely available there.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-014: promote. Move the cross-formalism-map promote_when to a new QUESTION, related to QUESTION-067."
+  - "THEORY-565 and THEORY-180: splits. New Active THEORYs for the diffusion-map isometry (LIT-981) and the weight-decay/nuclear-norm identity (LIT-857, App. A), each with its re-derivation as a dated note."
+  - "THEORY-084: split. The Fisher–NTK spectral identity becomes a demonstrated CLAIM (formal-apparatus). THEORY-021: narrow-and-promote, with the trained-model condition moved to a QUESTION or QUESTION-058."

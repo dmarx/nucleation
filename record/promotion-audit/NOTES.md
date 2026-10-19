@@ -383,3 +383,31 @@ history note. THEORY-277 is requeued on this basis.
 - **A stale directive was left on purpose.** CLAIM-107 still has a THEORY-158
   `inactive-ok` directive. #183 left it in place because #173 rewrites that
   file. Trim it once both #173 and #183 have merged.
+
+## 2026-10-19 — triage-003 and batch 010
+
+- **Bundling scores saturate.** triage_bundling.py gives the full 3 to 27
+  of 34 eligible mathematics THEORYs, so its ranking is mostly the
+  tie-break. Batch 010 went 4 of 4 on its top four, which is no evidence the
+  ranking helps: the keyword list went 15 of 16, and the keyword-free
+  control 4 of 5. Within this class, review in code order and skip
+  re-triaging.
+- **A promote_when can be mis-targeted, not bundled.** THEORY-014's
+  condition asks for a bridge between formalisms that its body explicitly
+  disclaims. The title was fully supported by two Read sources. The remedy
+  is promote, with the condition moved to a QUESTION. No split is needed,
+  because nothing in the title is unsupported.
+- **Recurring cores.** Four of five cores this batch were short
+  linear-algebra or spectral facts that sources state and call standard:
+  the diffusion-map isometry (needs the 1/π weighting), the Fisher–NTK
+  spectral identity (needs the model Fisher, not the empirical one),
+  weight decay as a nuclear norm (needs the rank bound from the inner
+  dimension), and tight frames and POVMs (needs equal norms within each
+  factor). Each holds only with the hypothesis in brackets, so the
+  narrowed statement must carry it.
+- **Worktree isolation.** A worktree-isolated fork can't run compound
+  shell commands, such as git piped into tar or a heredoc after cd. Write
+  helper scripts to a scratch directory inside the worktree (here
+  .tmp-main/, not committed) and run them one at a time. `git archive -o
+  file.tar origin/main record` followed by `tar -xf` gives a clean copy of
+  main's record for triage.
