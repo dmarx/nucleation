@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**509 documents cited without acknowledgement.** Not listed: 9940 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**508 documents cited without acknowledgement.** Not listed: 9898 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2640,8 +2640,8 @@ A multi-session argument's thesis can move without any participant arguing for t
 
 - [`record/claims.d/CLAIM-332.md:102`](../../record/claims.d/CLAIM-332.md)
 - [`record/questions.d/QUESTION-047.md:30`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:46`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:62`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:47`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:63`](../../record/questions.d/QUESTION-047.md)
 
 ### [CLAIM-199](../../record/claims.d/CLAIM-199.md) — Proposed
 
@@ -2839,7 +2839,7 @@ The later phases reported in neural-network training differ in kind: after the t
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:56`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:58`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-043](../../record/theory.d/THEORY-043.md) — Proposed
 
@@ -4573,7 +4573,7 @@ When a group learns only about the options its members pursue and good evidence 
 2 citations in 1 file await a look; 19 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:50`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:51`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-146](../../record/theory.d/THEORY-146.md) — Proposed
 
@@ -4582,7 +4582,7 @@ Industry can bias a scientific community toward a worse treatment without corrup
 2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:52`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:53`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-147](../../record/theory.d/THEORY-147.md) — Proposed
 
@@ -4600,7 +4600,7 @@ A group learning by trying needs diversity in what its members pursue that lasts
 2 citations in 1 file await a look; 20 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:51`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:52`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-151](../../record/theory.d/THEORY-151.md) — Proposed
 
@@ -4609,7 +4609,7 @@ Scientific objectivity belongs to a community's critical practices rather than t
 2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:32`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:53`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:54`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-154](../../record/theory.d/THEORY-154.md) — Proposed
 
@@ -4654,7 +4654,7 @@ On sparse hierarchical data, deep networks become insensitive to swapping synony
 2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:54`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:56`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-204](../../record/theory.d/THEORY-204.md) — Proposed
 
@@ -4663,7 +4663,7 @@ In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), w
 2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:55`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:57`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-205](../../record/theory.d/THEORY-205.md) — Proposed
 
@@ -5821,14 +5821,6 @@ Agency is multiply realisable without cognition or mental states, and AI is a ne
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-032.md:90`](../../record/questions.d/QUESTION-032.md)
-
-### [THEORY-229](../../record/theory.d/THEORY-229.md) — Proposed
-
-For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small initialization learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time, in order of eigenvalue, and ends at the minimum-norm zero-loss solution, kernel PCA
-
-1 citation in 1 file awaits a look; 28 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-984.md:90`](../../record/literature.d/LIT-984.md)
 
 ### [THEORY-258](../../record/theory.d/THEORY-258.md) — Proposed
 

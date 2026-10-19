@@ -59,7 +59,7 @@ supports:
 - CLAIM-118
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account this one extends, and no firmer than it -->
-<!-- inactive-ok-file: CLAIM-118 THEORY-212 THEORY-229 — Proposed; the claim that grounds on this paper and neighbouring accounts, named in Connections, not leaned on -->
+<!-- inactive-ok-file: CLAIM-118 THEORY-212 — Proposed; the claim that grounds on this paper and neighbouring accounts, named in Connections, not leaned on -->
 
 # THEORY-481: A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator; at finite context length the modes decouple exactly only when inputs are isotropic, and otherwise couple at order 1/N
 

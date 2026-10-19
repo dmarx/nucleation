@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**787 document(s) awaiting a decision.**
+**783 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 787.
+95 of the 783.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-460 of the 787.
+456 of the 783.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -283,7 +283,6 @@
 | 2026-10-13 | Proposed | [THEORY-219](../../record/theory.d/THEORY-219.md) | 4 | 2 | Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one |
 | 2026-10-13 | Proposed | [THEORY-223](../../record/theory.d/THEORY-223.md) | 4 | 2 | When the rules that govern a system lie within its own action space, the governor's authority rests on the system leaving them alone, and further controls in the same space inherit that dependence |
 | 2026-10-13 | Proposed | [THEORY-224](../../record/theory.d/THEORY-224.md) | 4 | 0 | Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict |
-| 2026-10-14 | Proposed | [THEORY-229](../../record/theory.d/THEORY-229.md) | 29 | 1 | For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small initialization learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time, in order of eigenvalue, and ends at the minimum-norm zero-loss solution, kernel PCA |
 | 2026-10-14 | Proposed | [THEORY-232](../../record/theory.d/THEORY-232.md) | 28 | 3 | A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification |
 | 2026-10-14 | Proposed | [THEORY-228](../../record/theory.d/THEORY-228.md) | 24 | 0 | At the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label divided by the squared sparsest-partition conductance of the augmentation graph |
 | 2026-10-14 | Proposed | [THEORY-286](../../record/theory.d/THEORY-286.md) | 22 | 0 | Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows |
@@ -340,7 +339,6 @@
 | 2026-10-14 | Proposed | [THEORY-321](../../record/theory.d/THEORY-321.md) | 6 | 1 | Under repeated DeGroot averaging, a large society's consensus converges to the truth if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 5 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
-| 2026-10-14 | Proposed | [THEORY-263](../../record/theory.d/THEORY-263.md) | 5 | 0 | A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound |
 | 2026-10-14 | Proposed | [THEORY-267](../../record/theory.d/THEORY-267.md) | 5 | 0 | A prediction-market price can keep most of an arbitrary shock that no trader's information supported for at least sixty days, because later trading undoes only part of it and undoes it ever more slowly |
 | 2026-10-14 | Proposed | [THEORY-269](../../record/theory.d/THEORY-269.md) | 5 | 0 | In OLMo-1B, OLMo-7B and GPT-J, whether a factual relation is computed by an affine map from subject to object representation tracks how often its subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, whenever in training that count is reached |
 | 2026-10-14 | Proposed | [THEORY-273](../../record/theory.d/THEORY-273.md) | 5 | 3 | Inductive and explanatory usefulness is necessary but not sufficient for a natural kind: it holds of classes that share any natural property, and on its own it cannot tell a natural kind from a conventional or pragmatic one |
@@ -349,13 +347,11 @@
 | 2026-10-14 | Proposed | [THEORY-280](../../record/theory.d/THEORY-280.md) | 5 | 0 | The bisimulation metric between two finite Markov chains can be estimated from sampled transitions without a transition model, to accuracy ε with a number of samples polynomial in the state-space sizes and 1/ε² |
 | 2026-10-14 | Proposed | [THEORY-281](../../record/theory.d/THEORY-281.md) | 5 | 0 | Perfect concept erasure caps what a representation can keep at the information not about the concept: if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups' distributions are permutations of one another |
 | 2026-10-14 | Proposed | [THEORY-284](../../record/theory.d/THEORY-284.md) | 5 | 0 | If a feature's values form a compact metric space carried continuously and injectively onto the unit sphere, and cosine similarity is locally a C² decreasing function of squared feature distance, then every path on the representation manifold is √(−2g′(0)) times as long as the feature path it images, so on-manifold shortest paths recover the feature's intrinsic length metric up to one scale; a homeomorphism alone does not fix it |
-| 2026-10-14 | Proposed | [THEORY-290](../../record/theory.d/THEORY-290.md) | 5 | 0 | When debaters value true belief but also dislike changing their minds, equilibrium argument can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and raising the weight on truth can lower equilibrium accuracy |
 | 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 5 | 0 | Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 5 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
 | 2026-10-14 | Proposed | [THEORY-226](../../record/theory.d/THEORY-226.md) | 4 | 0 | LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts |
 | 2026-10-14 | Proposed | [THEORY-266](../../record/theory.d/THEORY-266.md) | 4 | 0 | The average generalisation error along an optimisation trajectory is bounded by the rate-distortion function of the trajectory's law given the sample, plus a coupling term that carries the trajectory's dependence on the sample |
 | 2026-10-14 | Proposed | [THEORY-270](../../record/theory.d/THEORY-270.md) | 4 | 0 | Translation without parallel data is learnable from a plausibility prior over the target language alone, with error falling in the common ground between prior and translations, in the size of the source language and in the number of samples |
-| 2026-10-14 | Proposed | [THEORY-293](../../record/theory.d/THEORY-293.md) | 4 | 0 | For an optimal capacity-bounded learner on a mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full above it, and Pythia models trained on such mixtures show the same threshold in model size and in mixing ratio |
 | 2026-10-14 | Proposed | [THEORY-310](../../record/theory.d/THEORY-310.md) | 4 | 0 | On a forward-looking justification of blame, a counterfactual capacity condition calibrated to what makes blaming effective is redundant: fixing its parameters presupposes that blaming such agents is good policy, so freedom is ascribed because of blameworthiness rather than grounding it |
 | 2026-10-14 | Proposed | [THEORY-311](../../record/theory.d/THEORY-311.md) | 4 | 0 | Groupware that requires extra work from members who do not perceive a direct benefit from it is resisted or goes unused, and the applications that succeed in groups give each user who does the work a benefit of their own |
 | 2026-10-14 | Proposed | [THEORY-329](../../record/theory.d/THEORY-329.md) | 4 | 0 | On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown |
@@ -578,7 +574,7 @@
 
 ## ADRs
 
-2 of the 787.
+2 of the 783.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -587,7 +583,7 @@
 
 ## QUESTIONs
 
-9 of the 787.
+9 of the 783.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -603,7 +599,7 @@
 
 ## CLAIMs
 
-216 of the 787.
+216 of the 783.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -826,7 +822,7 @@
 
 ## CASEs
 
-1 of the 787.
+1 of the 783.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -834,7 +830,7 @@
 
 ## TERMs
 
-2 of the 787.
+2 of the 783.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -843,7 +839,7 @@
 
 ## ARGs
 
-2 of the 787.
+2 of the 783.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

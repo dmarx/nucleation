@@ -43,7 +43,6 @@ extends:
 - THEORY-739
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the unconstrained-optimum account this one is set beside -->
-<!-- inactive-ok-file: THEORY-229 — Proposed; the self-supervised account this one shares a mechanism with, named in Connections -->
 
 # THEORY-182: A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum
 
