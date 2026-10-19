@@ -35,7 +35,6 @@ objected_by:
 - CLAIM-031
 - CLAIM-208
 ---
-<!-- inactive-ok-file: CLAIM-267 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-068 CLAIM-106 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # CLAIM-056: Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift
