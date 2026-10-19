@@ -34,7 +34,7 @@ summary: >-
   That coincidence is offered as the reason deformation stability tracks
   performance on images, which is not tested on images.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-185 THEORY-186 THEORY-200 — Proposed or open; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-186 THEORY-200 — Proposed or open; cited as what this reading produced or bears on -->
 
 # NOTE-684: The Sparse Random Hierarchy Model
 

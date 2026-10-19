@@ -28,7 +28,6 @@ summary: >-
   alone can meet loose constraints at zero rate.
 ---
 
-<!-- inactive-ok-file: THEORY-161 — Proposed; filed from this batch's readings, under test -->
 <!-- inactive-ok-file: LIT-767 — Unavailable; cited as the classical Wyner–Ziv result this paper builds on -->
 <!-- inactive-ok-file: CLAIM-050 — Proposed; named as a manuscript claim this reading bears on -->
 

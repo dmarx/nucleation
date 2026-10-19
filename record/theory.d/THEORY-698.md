@@ -26,7 +26,7 @@ summary: >-
   evidence that language models encode a lattice beyond the incidence.
 ---
 <!-- inactive-ok-file: LIT-267 — Proposed; the paper whose theorem and measurements this account states; the account is about what they do and do not show -->
-<!-- inactive-ok-file: CLAIM-119 THEORY-008 THEORY-185 — Proposed; the lattice claim and neighbouring accounts, named in Connections, not leaned on -->
+<!-- inactive-ok-file: CLAIM-119 THEORY-008 — Proposed; the lattice claim and neighbouring accounts, named in Connections, not leaned on -->
 
 # THEORY-698: Thresholding linear attribute probes on a language model's embeddings yields a complete concept lattice for any incidence whatever, so the lattice is guaranteed by construction; what the Lattice Representation Hypothesis measured is per-attribute agreement with GPT-4o annotations at F1 70–83, and no lattice law
 

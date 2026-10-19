@@ -32,7 +32,7 @@ summary: >-
   only for d_T ≥ 1. Empirically it keeps tree neighbourhoods (best MAP) and
   not global distances (more distortion than hyperbolic MDS).
 ---
-<!-- inactive-ok-file: THEORY-185 CLAIM-119 QUESTION-025 — Proposed or open; cited as the question and claim this reading bears on -->
+<!-- inactive-ok-file: CLAIM-119 QUESTION-025 — Proposed or open; cited as the question and claim this reading bears on -->
 
 # NOTE-675: Hyperbolic Diffusion Embedding and Distance
 

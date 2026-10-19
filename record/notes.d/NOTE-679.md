@@ -43,7 +43,7 @@ summary: >-
   bound growing as sinh² of the diameter; hyperbolic PGA has spurious local
   minima and only a local-convexity guarantee.
 ---
-<!-- inactive-ok-file: THEORY-196 THEORY-185 QUESTION-025 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading produced and the accounts it bears on -->
+<!-- inactive-ok-file: THEORY-196 QUESTION-025 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading produced and the accounts it bears on -->
 
 # NOTE-679: Representation Tradeoffs for Hyperbolic Embeddings
 

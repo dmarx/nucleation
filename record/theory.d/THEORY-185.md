@@ -1,23 +1,10 @@
 ---
 number: 185
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5ocix
-promote_when: >-
-  A measurement of the premise on real text, not of its consequences:
-  for the word quadruples of analogy families, how far the PMI departs
-  from additivity in the attributes across all context words, with the
-  finding that families whose statistics are close to additive are the
-  ones a spectral embedding completes and those far from it are not. Or an
-  intervention on a corpus that adds an interaction between two attributes
-  (contexts that favour one combination beyond the sum of the two
-  effects), with the parallelogram for that pair breaking in the PMI
-  embedding as the account predicts while the others stay. More agreement
-  in the shape of analogy accuracy against embedding dimension, or of the
-  PMI spectrum, cannot settle it, because the model was built to match
-  those shapes.
-title: 'When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike'
-version: 3
+title: 'When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; over the full hypercube of words, each attribute''s two values equally frequent, the raw co-occurrence ratio mixes in products of attributes, and keeps exact analogies only when the strengths are alike enough that every attribute mode outranks every product mode'
+version: 4
 history:
 - version: 2
   date: '2026-10-09'
@@ -34,6 +21,19 @@ history:
     prompted by NOTE-781, and to THEORY-292 (LIT-937), a
     supervised counterpart of Appendix A5, prompted by NOTE-816.
     The claim is unchanged.
+- version: 4
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-185 (batch 037, ADR-047 v2). Eq. 12, Results 1–3 and the
+    Kronecker theorem were re-derived step by step, in the dated note
+    below. The PMI clauses are unchanged. The raw-ratio clause is narrowed
+    to the full, balanced hypercube, and "only when the signals are weak
+    and alike" becomes the exact condition: every attribute mode must
+    outrank every product mode. Equal strengths meet it at any strength.
+    The theorem is conditional on its premise, so the promote_when's
+    request to measure that premise on real text moves to
+    QUESTION-tmpwzwpl.
 tags:
 - representation-learning
 - compositionality
@@ -58,7 +58,7 @@ answers:
 <!-- inactive-ok-file: THEORY-271 THEORY-292 — Proposed; filed today, named in Connections as a rival and a counterpart, not leaned on -->
 <!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-019 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->
 
-# THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike
+# THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; over the full hypercube of words, each attribute's two values equally frequent, the raw co-occurrence ratio mixes in products of attributes, and keeps exact analogies only when the strengths are alike enough that every attribute mode outranks every product mode
 
 ## Source
 
@@ -81,9 +81,11 @@ the PMI, is exactly δ11ᵀ + ADAᵀ + Aη1ᵀ + 1ηᵀAᵀ, with A the words-by
 matrix. So the PMI has rank at most d + 1, every eigenvector is affine in
 the attributes, and a spectral embedding satisfies
 W_A − W_B + W_C = W_D whenever α_D = α_A − α_B + α_C, for any strengths.
-An embedding of M does so only if the s_k are small and narrowly spread
-and K ≤ d + 1. Otherwise the product modes interleave with the attribute
-modes, and accuracy rises and then falls with K. With pairwise-correlated
+Over the full, balanced hypercube, an embedding of M does so only if
+K ≤ d + 1 and every attribute mode outranks every product mode. The paper
+reaches that with small, narrowly spread s_k, and the exact condition is in
+the note of 2026-10-19 below. Otherwise the product modes interleave with
+the attribute modes, and accuracy rises and then falls with K. With pairwise-correlated
 attributes the PMI keeps rank ≤ d + 1 and affine eigenvectors, which then
 mix attributes (A5).
 
@@ -168,3 +170,28 @@ and adds that a joint fit finds orthogonal directions that still separate
 each concept. A direction found from one statistic at a time mixes
 correlated attributes; a joint fit can separate them again. The setting is
 labelled image attributes, not co-occurrence.
+
+## Note of 2026-10-19: the theorem, re-derived
+
+Any function on {±1}² is a combination of 1, a, b and ab, and a symmetric
+one has equal coefficients on a and b. So
+log P^(k)(a, b) = δ_k + η_k(a + b) + γ_k ab, and summing over attributes,
+log M = δ11ᵀ + Aη1ᵀ + 1ηᵀAᵀ + ADAᵀ entrywise, for any set of words. Every
+term's columns lie in the span of 1 and the attribute columns, so the rank
+is at most d + 1. Since the PMI is symmetric, every eigenvector with a
+non-zero eigenvalue lies in that span and is affine in the attributes. A
+spectral embedding that keeps such modes is W_i = c + Bα_i. So
+α_D = α_A − α_B + α_C gives W_A − W_B + W_C = W_D, whatever the strengths.
+
+For the raw ratio, with all 2^d words, M = ⊗_k P^(k). In the balanced case
+each factor has eigenvalues 2 and 2s_k on the constant and on α^k. The
+mode that takes α^k from the attributes in a set S has eigenfunction
+∏_{k∈S} α^k and eigenvalue 2^d ∏_{k∈S} s_k. With K ≤ d + 1 modes, an
+embedding of M is affine, and so gives parallelograms exactly, iff no
+product mode (|S| ≥ 2) is kept. That holds iff min_k s_k > s_(1)s_(2), the
+product of the two largest strengths. Equal strengths satisfy it at any
+strength below 1. So what matters is that the strengths be alike relative
+to their size, and the source's "small and narrowly spread" is a
+sufficient first-order regime. Without balance, each factor's top
+eigenvector is not constant, and even the top mode of M is a product.
+Whether real co-occurrence is close to the premise is [QUESTION-tmpwzwpl](../questions.d/QUESTION-tmpwzwpl.md).

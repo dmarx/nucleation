@@ -31,7 +31,7 @@ summary: >-
   theoretic only. The prior substitutes for parallel data in learning the
   decoder, not for information in a message.
 ---
-<!-- inactive-ok-file: THEORY-170 THEORY-161 CLAIM-054 — Proposed; theories and claim this account bears on, open -->
+<!-- inactive-ok-file: THEORY-170 CLAIM-054 — Proposed; theories and claim this account bears on, open -->
 
 # THEORY-270: Translation without parallel data is learnable from a plausibility prior over the target language alone, with error falling in the common ground between prior and translations, in the size of the source language and in the number of samples
 

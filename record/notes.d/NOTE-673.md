@@ -34,7 +34,7 @@ summary: >-
   replicas reproduce three dynamics, and multiscale greedy routing
   succeeds more often.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-188 THEORY-190 THEORY-196 THEORY-185 — Open or Proposed; cited for bearing -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-188 THEORY-190 THEORY-196 — Open or Proposed; cited for bearing -->
 
 # NOTE-673: Multiscale unfolding of real networks by geometric renormalization
 
