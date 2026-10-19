@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 58
+version: 59
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-008
   state: in_review
-  in_review: THEORY-277
+  in_review: THEORY-171
   next_step: 'Batch 008 (wave 2) in progress: THEORY-277 (requeued under ADR-047 v2; re-derivation attempt),
     then THEORY-171, THEORY-160, THEORY-158, THEORY-157.'
   cautions:
@@ -48,11 +48,6 @@ requeue:
 - code: CLAIM-326
   when: before its review
   why: 'PR #165 adds a second ground (THEORY-tmp2m4ke); review the merged version'
-- code: THEORY-277
-  when: next wave-2 batch
-  why: retained Proposed in batch 006 because its promote_when asks for an independent proof. Under ADR-047
-    v2 (owner, 2026-10-19), a step-by-step re-derivation in the decision file meets it. Re-review with
-    the re-derivation.
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -579,8 +574,8 @@ candidates:
   score: 4
   triage: triage-002
   state: decided
-  disposition: retain-proposed
-  batch: batch-006
+  disposition: defer
+  batch: batch-008
   decision: decisions/THEORY-277.yaml
 - code: THEORY-247
   wave: 2
@@ -918,4 +913,9 @@ history:
   date: '2026-10-19'
   note: 'Open batch 008: THEORY-277 in review (requeued under ADR-047 v2), then THEORY-171, -160, -158,
     -157.'
+- version: 59
+  date: '2026-10-19'
+  note: 'Batch 008: THEORY-277 deferred (supersedes batch-006 retain-proposed). Under ADR-047 v2 the re-derivation
+    was attempted: direction one closes, direction two reduces to Lemma C.4, and Lemma C.4 is blocked
+    at the incomplete final block (an online covering step). Removed from requeue. THEORY-171 in review.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

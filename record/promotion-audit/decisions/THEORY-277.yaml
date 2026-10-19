@@ -1,53 +1,72 @@
 # record/promotion-audit/decisions/THEORY-277.yaml
 id: THEORY-277
-batch: batch-006
+batch: batch-008
 reviewed: '2026-10-19'
 reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+supersedes_review: >-
+  batch-006, retain-proposed (the promote_when asks for an independent
+  proof, which the record did not hold). Requeued under ADR-047 v2, the
+  owner's rule of 2026-10-19 that a checked step-by-step re-derivation in the
+  decision file meets such a condition. This review attempted it.
 current_status: Proposed
-disposition: retain-proposed
-confidence: medium
+disposition: defer
+confidence: high
 scope:
   accepted: >-
-    Nothing to split. The entry is one theorem (Theorem IV.8 of LIT-239)
-    with its scope, its asymmetry (Remark IV.10, Theorem IV.11) and its
-    computability limits (Theorems D.2 and D.6). Each is backed by a proof
-    that NOTE-787 read step by step, except the construction for D.2,
-    whose invariants were "not checked line by line". The immediate
-    direction, β_x(α) + K(x) ≤ λ_x(α) + O(1) from
-    δ(x | A) = Λ(A) − K(A | x*) − K(x) + O(1), is too slight to file alone.
-  excluded: >-
-    Nothing. "What this does not say" already excludes practical MDL, the
-    (k/2) log n scale, K(A) + K(x | A), and finite-time search.
-evidence:
-  - "NOTE-787 claims table: C1 (Theorem IV.8) 'strong; proof via (C.4) and Lemma C.4, read'. C2–C4 are also 'strong', from proofs read."
-  - >-
-    Lemma C.4's covering argument, re-sketched for this review. Let
-    m = K(A | x) and s = ⌈log |A|⌉. Enumerate the family F of sets of
-    complexity at most K(A) and size at most 2^s, so |F| ≤ 2^(K(A)+1).
-    If x lay in fewer than about 2^m members of F, A could be named from
-    x with fewer than m bits, so x lies in at least 2^(m − O(log n)) of
-    them. At most |F|·2^s / 2^(m − O(log n)) points lie in that many
-    members. Grouping those points into consecutive blocks of 2^s in
-    enumeration order gives about 2^(K(A) − m + O(log n)) blocks, each
-    named by its index and the parameters. So x lies in a set S of size at
-    most 2^s with K(S) ≤ K(A) − K(A | x) + O(log n). This is the paper's
-    route, at O(log n) precision, so it adds confidence but is not the
-    independent derivation the promote_when asks for.
+    Nothing is promoted. The attempt below closes the first direction of
+    Theorem IV.8 and reduces the second to Lemma C.4, but it does not close
+    Lemma C.4.
+  excluded: The whole entry, until Lemma C.4 is re-derived.
+rederivation_attempt: >-
+  Notation: K is prefix complexity; x has length n; models are finite sets
+  S ∋ x with K(S) ≤ n + O(log n) (larger sets never help); Λ(S) = K(S) +
+  log |S|; δ(x | S) = log |S| − K(x | S). All equalities are up to
+  O(log n).
+
+  (1) The identity. Symmetry of information gives K(S, x) = K(x) + K(S | x*)
+  = K(S) + K(x | S*). Since S* is S together with K(S) ≤ n + O(log n),
+  K(x | S) and K(x | S*) differ by O(log n). Hence
+  δ(x | S) + K(x) = Λ(S) − K(S | x*). This is the paper's (C.4).
+
+  (2) Direction one: β_x(α) + K(x) ≤ λ_x(α). Take S witnessing λ_x(α), so
+  K(S) ≤ α. By (1), δ(x | S) + K(x) ≤ Λ(S) = λ_x(α). Since β_x(α) ≤ δ(x | S),
+  the inequality follows. Closed.
+
+  (3) Direction two reduces to Lemma C.4. Take A witnessing β_x(α). If some
+  S ∋ x has log |S| ≤ log |A| + O(1) and K(S) ≤ K(A) − K(A | x) + O(log n),
+  then K(S) ≤ α + O(log n), and Λ(S) ≤ Λ(A) − K(A | x) = δ(x | A) + K(x) by
+  (1), so λ_x(α + O(log n)) ≤ β_x(α) + K(x). Closed, given Lemma C.4.
+
+  (4) Lemma C.4, attempted. Put m = K(A), s = ⌈log |A|⌉, L = K(A | x), and
+  𝒜 = the sets of complexity at most m and size at most 2^s. 𝒜 is
+  enumerable from (m, s) and has at most 2^(m+1) members. Given x, m and s,
+  A is fixed by its rank among the members of 𝒜 that contain x, so x lies in
+  at least 2^(L − O(log n)) of them. Put L′ = L − O(log n) and let T be the
+  strings in at least 2^L′ members of 𝒜. T is enumerable from (m, s, L′),
+  contains x, and has |T| ≤ 2^(m+1+s−L′) by double counting. NOTE-787's
+  account of the paper's device: chop T into blocks of 2^s strings in
+  enumeration order, so that the block S containing x has
+  K(S) ≤ m − L′ + O(log n). The counting is correct.
 blockers:
   - >-
-    The promote_when is not met. It asks for an independent derivation of
-    Theorem IV.8, or a published restatement with its own proof read here.
-    Candidates: Shen, Uspensky & Vereshchagin, Kolmogorov Complexity and
-    Algorithmic Randomness (AMS, 2017), the chapter on algorithmic
-    statistics; Vereshchagin & Shen's surveys of algorithmic statistics.
-    None is held. Reading one and checking its proof would promote the
-    entry whole.
-  - >-
-    An owner's call worth noting: THEORY-004 was promoted on the record's
-    own step-by-step reading of a proof. If the owner judges that standard
-    enough here, NOTE-787's reading plus the sketch above meets it, and the
-    promote_when should be relaxed by decision, not quietly overridden.
+    The exact step that blocks: the final block. T is enumerable but not
+    decidable, so the block of T in enumeration order that never fills has
+    no finite description from its index alone. Specifying it costs either
+    the stage at which 𝒜's enumeration is complete (about m bits, through
+    the count of halting programs of length at most m) or the block's size
+    (up to s bits). Either one breaks K(S) ≤ m − L′ + O(log n), so
+    Λ(S) ≤ Λ(A) − K(A | x) + O(log n) fails for an x in that block. Two
+    repairs were tried, and each gives K(S) ≈ 2(m − L). The first gives
+    the most significant m − L bits of |𝒜| and covers a finite stage. The
+    second runs a greedy cover offline at that stage. Neither closes it. An online covering strategy is needed:
+    a computable way to choose, as members of 𝒜 appear, at most
+    2^(m − L′ + O(log n)) sets of size 2^s covering every string that
+    reaches multiplicity 2^L′. This is presumably the content of the
+    paper's Claim C.5. NOTE-787 records that the counting checks out, not
+    how the incomplete block is handled.
 unlocks: []
 next_action: >-
-  None now. Register the AMS 2017 book or a Vereshchagin–Shen survey as a
-  LIT to read, or put the THEORY-004 precedent to the owner.
+  Defer. The next attempt should read Claim C.5's handling of the last
+  block in LIT-239, or Vereshchagin & Shen's survey proof of the same
+  lemma, then complete step (4) here and promote under ADR-047 v2. One
+  retrieval round should suffice.
