@@ -24,7 +24,7 @@ summary: >-
   routing is the baseline. Even positive results would not show
   self-constitution ([CLAIM-288](../claims.d/CLAIM-288.md)).
 ---
-<!-- inactive-ok-file: CLAIM-266 CLAIM-277 CLAIM-288 CLAIM-347 CLAIM-362 CLAIM-367 THEORY-239 THEORY-514 CLAIM-284 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-266 CLAIM-277 CLAIM-288 CLAIM-347 CLAIM-362 CLAIM-367 THEORY-514 CLAIM-284 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # CASE-117: Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity
 

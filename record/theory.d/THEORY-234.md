@@ -1,24 +1,29 @@
 ---
 number: 234
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpoa03p
-promote_when: >-
-  A second reader's check of the proofs of Theorem 5 (App. B.6) and
-  Theorem 14, and either an independent derivation of the extended linear
-  equivalence or a measurement in released language models of the
-  subspaces M, N and Γ_q for relations where linearity has been reported,
-  showing whether Theorem 14's conditions hold there. The first settles the
-  characterization. The second settles whether it bears on trained models,
-  which the account claims only under exact equality of distributions. It
-  is refuted by two softmax predictors on a shared vocabulary that induce
-  the same distribution and are not related as Definition 3 says, or by a
-  relational linear property within N, with Γ_q ⊆ M, that holds in one of
-  them and fails in the other. What cannot settle it: reports of linear
-  structure in single trained models, which say nothing about the
-  equivalence class.
-title: "Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none only when it lies in those subspaces"
-version: 1
+title: "Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none when it lies in those subspaces, and can fail to be shared otherwise"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-234.yaml, batch 012, ADR-047).
+    The title said a relational property is shared by all equivalent
+    models or none "only when" it lies in the subspaces that enter the
+    logits. Theorem 14 gives that as a sufficient condition, and the body
+    already said so ("Theorem 14 gives sufficient conditions"). The title
+    now says "when", and "can fail to be shared otherwise", which is
+    App. D.1's construction. The promote_when asked for a second reader's
+    check of Theorems 5 and 14 and either an independent derivation of
+    the extended linear equivalence or a measurement in trained models.
+    The note of 2026-10-19 below re-derives both theorems, which under
+    ADR-047 v2 (the owner's rule of 2026-10-19) meets the first alternative.
+    The measurement, which concerns trained models and which the body
+    disclaims, moves unchanged to QUESTION-tmpogcb0.
 tags:
 - representation-learning
 - mathematics
@@ -40,7 +45,7 @@ extends:
 ---
 <!-- inactive-ok-file: QUESTION-027 CLAIM-193 CLAIM-209 THEORY-002 THEORY-175 — Open or Proposed; cited for context, nothing here rests on them -->
 
-# THEORY-234: Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none only when it lies in those subspaces
+# THEORY-234: Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none when it lies in those subspaces, and can fail to be shared otherwise
 
 ## Source
 
@@ -127,3 +132,37 @@ linear property shared. It is not.
   outside N, the agreement comes from training or architecture, not from
   the distribution, so cross-model agreement alone is not evidence that a
   structure is identified.
+
+## Note of 2026-10-19: Theorems 5 and 14, re-derived
+
+Notation as above: g₀ = g − g(y₀), F and G the spans of f and g₀,
+A = P_F P_G, M = Im A and N = ker(A)^⊥.
+
+**Lemma 2.** Within F, M is the orthogonal complement of F ∩ G^⊥. So
+f = P_M f + f′ with f′ ⊥ G, and g₀ = P_N g₀ + g′ with g′ ⊥ F. Hence
+fᵀg₀ = (P_M f)ᵀ(P_N g₀). For n ∈ N ⊆ G, P_F n = An ∈ M, so P_M acts on N
+as A does, injectively. The pairing of M with N is therefore
+non-degenerate, and dim M = dim N = k.
+
+**Theorem 5.** Equal distributions mean equal logits up to a context
+constant. Subtracting the pivot removes it, so p_{f,g} = p_{f̃,g̃} if and
+only if f(s)ᵀg₀(y) = f̃(s)ᵀg̃₀(y) for all s and y. By Lemma 2 both sides are
+φ(s)ᵀγ(y), with φ = P_M f spanning M and γ = P_N g₀ spanning N, so the form
+has rank k and k = k̃. Choose y₁, …, y_k with γ(y_j) a basis of N. Then
+m ↦ (mᵀγ(y_j))_j is a bijection from M to ℝᵏ, and the same holds for the
+other model. Define L: M̃ → M by requiring mᵀγ(y_j) = m̃ᵀγ̃(y_j) for every j.
+L is linear and invertible, and φ = Lφ̃. The same construction on tokens
+gives L′: Ñ → N with γ = L′γ̃. Equality of the forms on spanning sets is
+then Definition 3's compatibility. Conversely, maps with that compatibility
+leave every logit difference, and so the distribution, unchanged.
+
+**Theorem 14.** Let P_Γ f(s ⌢ q) = P_Γ A_q f(s) + a_q with Γ ⊆ N and
+Γ_q = Im(A_qᵀP_Γ) ⊆ M. For γ ∈ Γ we have γ ∈ G, so γᵀf = γᵀP_M f =
+γᵀL P_M̃ f̃. And A_qᵀγ ∈ M, so γᵀA_q f(s) = (A_qᵀγ)ᵀL P_M̃ f̃(s). Each
+non-zero functional m̃ ↦ γᵀL m̃ on M̃ therefore satisfies an affine
+relation between f̃(s ⌢ q) and f̃(s). By Lemma 2 for the other model, that
+functional is m̃ ↦ ñᵀm̃ for a unique ñ ∈ Ñ, and ñᵀf̃ = ñᵀP_M̃ f̃. These ñ
+span a subspace Γ̃ ⊆ Ñ of dimension dim Γ, on which f̃ represents q
+linearly. The argument uses Γ ⊆ N, to see f only through P_M f, and
+Γ_q ⊆ M, to see the right-hand side only through P_M f. It gives
+sufficiency, not necessity, which is why the title says "when".

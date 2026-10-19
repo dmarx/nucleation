@@ -1,23 +1,29 @@
 ---
 number: 239
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp1iy33
-promote_when: >-
-  A second, independent derivation or a published check of Zhai's
-  Theorem 3.4 and Lemma 1.4 for a general joint law of input and context
-  (the dissertation is not peer-reviewed as a whole), together with one
-  worked case on a single space with a non-reversible kernel, A = X and
-  P⁺(a|x)P_X(x) ≠ P⁺(x|a)P_X(a), showing which of the left or right
-  singular spaces carries the guarantee there. It is refuted by a joint law
-  meeting the Hilbert–Schmidt assumption and 1 − ε ≤ s₁ for which some
-  d-dimensional encoder not spanning the top-d left singular functions
-  attains a lower worst-case approximation error on the compatible class.
-  What cannot settle it: alignment scores of trained networks, or further
-  symmetric examples, since the claim is about the population optimum and
-  its novelty is the asymmetric case.
-title: "For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator are the unique d-dimensional span minimizing worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, with error (s₁² − (1 − ε)²)/(s₁² − s²_{d+1})"
-version: 1
+title: "For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator attain the minimum, over d-dimensional spans, of worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, namely (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other spans can tie"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-239.yaml, batch 012, ADR-047).
+    The title called the top-d left singular span "the unique" minimizer.
+    That is false. With s = (1, 0.9, 0.8, 0.5, 0.1), ε = 0.15 and d = 2,
+    the span of μ₁ and cos θ·μ₂ + sin θ·μ₄ has the same worst-case error,
+    0.7708, for every θ up to at least 0.5. The title now says the top span
+    attains the minimum and that other spans can tie, and it states the
+    range of ε in which the formula holds. The promote_when asked for a
+    second, independent derivation of Theorem 3.4 for a general joint law,
+    and a worked non-reversible case on one space. The note of 2026-10-19
+    below gives both. The derivation uses only the singular value
+    decomposition, and the worked case is a three-state chain. Under
+    ADR-047 v2 (the owner's rule of 2026-10-19), that meets the condition
+    for the narrowed claim.
 tags:
 - representation-learning
 - learning-theory
@@ -38,7 +44,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-005 THEORY-228 CLAIM-098 — Proposed; accounts and a claim this one bears on, open -->
 
-# THEORY-239: For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator are the unique d-dimensional span minimizing worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, with error (s₁² − (1 − ε)²)/(s₁² − s²_{d+1})
+# THEORY-239: For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator attain the minimum, over d-dimensional spans, of worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, namely (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other spans can tie
 
 ## Source
 
@@ -63,11 +69,13 @@ E[g(A)|x] for a g that varies little across two context draws for the
 same x: E[(g(A) − g(A′))²] ≤ 4ε‖g‖² (Theorem 3.2).
 
 **The guarantee.** If 1 − ε ≤ s₁, then among all d-dimensional encoders in
-L²(P_X), Φ minimizes the worst-case linear-probe approximation error over
-the compatible class if and only if its span is that of top-d left
-singular functions μ₁…μ_d, and the minimum is
+L²(P_X), one whose span is that of the top-d left singular functions
+μ₁…μ_d minimizes the worst-case linear-probe approximation error over the
+compatible class, and when s_{d+1} < 1 − ε the minimum is
 (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}). Every other encoder has a compatible
-task with at least that error (Theorem 3.4). The proof (App. B.2) builds,
+task with at least that error (Theorem 3.4). The thesis states the
+optimality as "if and only if". The "only if" fails: other spans can tie
+(note of 2026-10-19). The proof (App. B.2) builds,
 for any d-dimensional span, a unit target β₁μ₁ + β₂f₀ with f₀ in
 span{μ₂, …, μ_{d+1}} that is compatible and reaches the bound, and shows
 equality only when the span is that of μ₁…μ_d.
@@ -85,6 +93,9 @@ Only the left singular space and the singular values enter.
 
 ## What this does not say
 
+- **Not that the optimal span is unique.** A span that tilts μ_d towards
+  μ_{d+2} can match the worst case, because the worst target lies in the
+  plane of μ₁ and μ_{d+1}. That holds even with a gap s_d > s_{d+1}.
 - **Not the directed transport of a single space.** X and A may differ,
   and the operator is not self-adjoint, but the thesis never works a case
   where A = X with a non-reversible kernel. Its only graph example
@@ -131,3 +142,46 @@ Only the left singular space and the singular values enter.
   surviving a non-invertible transport on one.
 - The training objectives themselves are ML practice and are held in the
   Anthology ([ANTH-LIT-459](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-459.md)), not here.
+
+## Note of 2026-10-19: the guarantee re-derived, its uniqueness refuted, and a non-reversible case
+
+Let T have singular triples (s_i, μ_i, ν_i), with the μ_i extended by an
+orthonormal basis of ker T* (s = 0 there). Nothing below uses symmetry of
+the pair. A unit target f = Σ u_iμ_i is (1 − ε)-compatible when
+Σ s_i²u_i² ≥ (1 − ε)². The error of a span V is e(V), the supremum over
+compatible f of ‖f − P_V f‖². Assume s_{d+1} < 1 − ε ≤ s₁, and put
+r* = (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}).
+
+**The top span attains r*.** For U_d = span{μ₁…μ_d}, the residual is
+ρ = Σ_{i>d} u_i². The compatibility is then at most (1 − ρ)s₁² + ρs²_{d+1},
+so ρ ≤ r*. The target √(1 − r*)·μ₁ + √r*·μ_{d+1} attains it.
+
+**No span does better.** Let V be any d-dimensional span. span{μ₁…μ_{d+1}}
+has dimension d + 1, so it holds a unit h ⊥ V. Write
+h = cos ψ·μ₁ + sin ψ·w with w a unit vector in span{μ₂…μ_{d+1}},
+0 ≤ ψ ≤ π/2, and q = Σ s_i²⟨w, μ_i⟩² ≥ s²_{d+1}. The target
+f_φ = cos φ·μ₁ + sin φ·w is compatible iff
+sin²φ ≤ ρ_w = (s₁² − (1 − ε)²)/(s₁² − q), and ρ_w ≥ r*. Its error is at
+least ⟨f_φ, h⟩² = cos²(φ − ψ). If sin²ψ ≤ ρ_w, take φ = ψ, for error 1.
+Otherwise take sin²φ = ρ_w with φ < ψ, so cos²(ψ − φ) ≥ sin²φ = ρ_w ≥ r*.
+If 1 − ε ≤ s_{d+1}, every span has error 1.
+
+**Uniqueness fails.** Take s = (1, 0.9, 0.8, 0.5, 0.1), ε = 0.15 and d = 2,
+so r* = 0.7708. Let V = span{μ₁, cos θ·μ₂ + sin θ·μ₄}. Its error was
+computed through the dual of the quadratic program,
+min over λ ≥ 0 of λ_max(I − P_V + λ(diag s² − (1 − ε)²I)), and bounded
+below by 4×10⁵ sampled targets. It equals r* at θ = 0.05, 0.2 and 0.5, and
+rises to 0.973 only at θ = 1. Tilting is free while
+sin²θ/(s₁² − s_d²) + cos²θ/(s₁² − s²_{d+2}) ≤ 1/(s₁² − s²_{d+1}), because
+the worst target still lies in the μ₁–μ_{d+1} plane. For small θ
+that holds whenever s_{d+2} < s_{d+1}, so the tie is the usual case, not
+an accident of these numbers.
+
+**A non-reversible case on one space.** Take A = X = {1, 2, 3}, with the
+kernel P(a | x) given by the rows (0.1, 0.8, 0.1), (0.1, 0.1, 0.8) and
+(0.6, 0.2, 0.2), at its stationary law π = (0.287, 0.338, 0.374). Then
+P⁺(x, a) ≠ P⁺(a, x), so the pair is not reversible. The singular values
+are (1, 0.655, 0.534). The second left and right singular functions
+differ: μ₂ ∝ (−1.30, 1.23, −0.11) and ν₂ ∝ (−0.11, −1.20, 1.17). Targets
+are functions of x, in L²(P_X), so the guarantee above sits on the left
+functions μ_i, as the general statement says.

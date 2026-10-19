@@ -33,7 +33,7 @@ summary: >-
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-228 THEORY-239 — Proposed; accounts this one bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-228 — Proposed; accounts this one bears on, not leaned on -->
 
 # THEORY-319: When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required
 
