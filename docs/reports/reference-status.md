@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**512 documents cited without acknowledgement.** Not listed: 10140 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**513 documents cited without acknowledgement.** Not listed: 10140 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -5978,6 +5978,14 @@ Where a general-search monopoly was kept by exclusive distribution deals, the co
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-470.md:104`](../../record/theory.d/THEORY-470.md)
+
+### [THEORY-481](../../record/theory.d/THEORY-481.md) — Proposed
+
+A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator; at finite context length the modes decouple exactly only when inputs are isotropic, and otherwise couple at order 1/N
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/notes.d/NOTE-658.md:29`](../../record/notes.d/NOTE-658.md)
 
 ### [THEORY-527](../../record/theory.d/THEORY-527.md) — Proposed
 
