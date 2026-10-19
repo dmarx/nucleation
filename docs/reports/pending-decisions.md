@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**778 document(s) awaiting a decision.**
+**776 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 778.
+95 of the 776.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-451 of the 778.
+449 of the 776.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -282,7 +282,6 @@
 | 2026-10-13 | Proposed | [THEORY-223](../../record/theory.d/THEORY-223.md) | 4 | 2 | When the rules that govern a system lie within its own action space, the governor's authority rests on the system leaving them alone, and further controls in the same space inherit that dependence |
 | 2026-10-13 | Proposed | [THEORY-224](../../record/theory.d/THEORY-224.md) | 4 | 0 | Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict |
 | 2026-10-14 | Proposed | [THEORY-232](../../record/theory.d/THEORY-232.md) | 28 | 3 | A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification |
-| 2026-10-14 | Proposed | [THEORY-228](../../record/theory.d/THEORY-228.md) | 24 | 0 | At the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label divided by the squared sparsest-partition conductance of the augmentation graph |
 | 2026-10-14 | Proposed | [THEORY-286](../../record/theory.d/THEORY-286.md) | 22 | 0 | Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows |
 | 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 21 | 2 | Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case |
 | 2026-10-14 | Proposed | [THEORY-257](../../record/theory.d/THEORY-257.md) | 20 | 5 | Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many |
@@ -354,7 +353,6 @@
 | 2026-10-14 | Proposed | [THEORY-302](../../record/theory.d/THEORY-302.md) | 3 | 0 | Coordinated action is controlled by tuning relatively autonomous coordinative structures, not by commanding muscles: a higher level specifies an equivalence class of acceptable states and sets the parameters of self-regulating units, leaving the realized details to them |
 | 2026-10-14 | Proposed | [THEORY-303](../../record/theory.d/THEORY-303.md) | 3 | 0 | A measurement scenario whose compatibility hypergraph is acyclic admits no contextuality: locally consistent context distributions always glue to a global one, so a contextual scenario needs an induced cycle of length at least four |
 | 2026-10-14 | Proposed | [THEORY-313](../../record/theory.d/THEORY-313.md) | 3 | 0 | With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus is within O(σ²) of KL as the bandwidth σ shrinks |
-| 2026-10-14 | Proposed | [THEORY-319](../../record/theory.d/THEORY-319.md) | 3 | 0 | When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required |
 | 2026-10-14 | Proposed | [THEORY-291](../../record/theory.d/THEORY-291.md) | 2 | 0 | The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks |
 | 2026-10-15 | Proposed | [THEORY-332](../../record/theory.d/THEORY-332.md) | 15 | 15 | For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown |
 | 2026-10-15 | Proposed | [THEORY-374](../../record/theory.d/THEORY-374.md) | 7 | 4 | Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries |
@@ -569,7 +567,7 @@
 
 ## ADRs
 
-2 of the 778.
+2 of the 776.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -578,7 +576,7 @@
 
 ## QUESTIONs
 
-9 of the 778.
+9 of the 776.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -594,7 +592,7 @@
 
 ## CLAIMs
 
-216 of the 778.
+216 of the 776.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -817,7 +815,7 @@
 
 ## CASEs
 
-1 of the 778.
+1 of the 776.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -825,7 +823,7 @@
 
 ## TERMs
 
-2 of the 778.
+2 of the 776.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -834,7 +832,7 @@
 
 ## ARGs
 
-2 of the 778.
+2 of the 776.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

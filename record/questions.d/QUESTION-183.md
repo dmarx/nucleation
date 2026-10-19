@@ -1,5 +1,8 @@
 ---
+number: 183
 status: Open
+formerly:
+- QUESTION-tmpvw33h
 title: 'Does the spectral contrastive guarantee hold off a finite augmentation space, and is it non-vacuous on a real augmentation graph?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   off a finite space, and a measurement showing the bound is non-vacuous.
 ---
 
-# QUESTION-tmpvw33h: Does the spectral contrastive guarantee hold off a finite augmentation space, and is it non-vacuous on a real augmentation graph?
+# QUESTION-183: Does the spectral contrastive guarantee hold off a finite augmentation space, and is it non-vacuous on a real augmentation graph?
 
 ## Why it is a question
 

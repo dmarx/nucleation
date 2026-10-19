@@ -1,5 +1,8 @@
 ---
+number: 182
 status: Open
+formerly:
+- QUESTION-tmpdttll
 title: 'Does the landmark readout of a learned contrastive density ratio keep its 1/m rate under a finite second moment of the ratio alone, without a uniform bound on it?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   holds that clause.
 ---
 
-# QUESTION-tmpdttll: Does the landmark readout of a learned contrastive density ratio keep its 1/m rate under a finite second moment of the ratio alone, without a uniform bound on it?
+# QUESTION-182: Does the landmark readout of a learned contrastive density ratio keep its 1/m rate under a finite second moment of the ratio alone, without a uniform bound on it?
 
 ## Why it is a question
 

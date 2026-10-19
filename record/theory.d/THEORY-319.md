@@ -17,7 +17,7 @@ history:
     closeness is in mean squared error, and that the 1/m rate is for the
     exact ratio, a bounded label and a square-integrable ratio. The
     promote_when's clause about a learned ratio without a uniform bound
-    moves to QUESTION-tmpdttll.
+    moves to QUESTION-182.
 tags:
 - representation-learning
 - learning-theory
@@ -146,4 +146,4 @@ most ½, so with probability 1 − δ some group's readout is within
 2V/⌊m/log₂(1/δ)⌋: Lemma 2, with its constant. For |Y| ≤ 1,
 V ≤ E[g*(X,Z̃)²] = 1 + χ²(P_XZ ‖ P_X ⊗ P_Z). The rate therefore needs that
 quantity finite. Whether a learned ratio keeps the rate without a uniform
-bound on it is [QUESTION-tmpdttll](../questions.d/QUESTION-tmpdttll.md).
+bound on it is [QUESTION-182](../questions.d/QUESTION-182.md).

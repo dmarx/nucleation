@@ -17,7 +17,7 @@ history:
     factors", and it names α as Assumption 3.6 does: the error of
     recovering the label from an augmentation. The promote_when's two
     further results, a proof off a finite space and a measurement showing
-    the bound non-vacuous, move to QUESTION-tmpvw33h.
+    the bound non-vacuous, move to QUESTION-183.
 tags:
 - representation-learning
 - learning-theory
@@ -150,4 +150,4 @@ the paper's Lemma B.4, gives μ_{k+1} ≳ ρ²_⌊k/2⌋/log k, and so Õ(α/ρ�
 The derivation holds for any k. The condition k ≥ 2r makes ρ_⌊k/2⌋ the
 conductance of partitions at least as fine as the classes, which is what
 makes the bound informative. Whether it extends off a finite space, and
-whether it is non-vacuous on a real graph, is [QUESTION-tmpvw33h](../questions.d/QUESTION-tmpvw33h.md).
+whether it is non-vacuous on a real graph, is [QUESTION-183](../questions.d/QUESTION-183.md).

@@ -6,7 +6,7 @@
 
 **Cognition** — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
-17 of 181 QUESTION documents. Back to the [full index](../README.md).
+17 of 183 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
