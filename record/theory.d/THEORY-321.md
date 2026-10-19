@@ -16,7 +16,7 @@ history:
     connected: the source's statement allows several closed groups, and
     the audit's sketch suggests a vanishing largest weight may not then
     suffice, which was not checked against the paper. The former
-    promote_when, a case outside the model, moves to QUESTION-tmpd26fs
+    promote_when, a case outside the model, moves to QUESTION-184
     with that check.
 tags:
 - network-science
@@ -126,4 +126,4 @@ holds for every admissible signal distribution or for none, which is the
 sense of "network structure alone". With several closed groups the limit
 beliefs are several consensus values, and the maximum over them is not
 covered by 3. That case, and whether real groups behave so, are
-[QUESTION-tmpd26fs](../questions.d/QUESTION-tmpd26fs.md).
+[QUESTION-184](../questions.d/QUESTION-184.md).

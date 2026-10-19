@@ -1,5 +1,8 @@
 ---
+number: 184
 status: Open
+formerly:
+- QUESTION-tmpd26fs
 title: "Do real groups whose members update by averaging reach a settled estimate that moves away from the truth as the largest influence weight grows, as DeGroot's model predicts?"
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   societies with several closed groups.
 ---
 
-# QUESTION-tmpd26fs: Do real groups whose members update by averaging reach a settled estimate that moves away from the truth as the largest influence weight grows, as DeGroot's model predicts?
+# QUESTION-184: Do real groups whose members update by averaging reach a settled estimate that moves away from the truth as the largest influence weight grows, as DeGroot's model predicts?
 
 ## Why it is a question
 
