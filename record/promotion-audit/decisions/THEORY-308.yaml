@@ -1,0 +1,113 @@
+# record/promotion-audit/decisions/THEORY-308.yaml
+id: THEORY-308
+batch: batch-025
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The title asserts theorems, so the re-derivation route applies (ADR-047
+    v2). The promote_when asks for a proof that closes NOTE-828's two gaps.
+    Both close, and the sample-complexity clause is re-derived with its
+    assumptions stated. The narrowed title names those assumptions:
+    "The neural Donsker–Varadhan estimator of mutual information is
+    strongly consistent as an extremum estimator over compact families of
+    critics, and, for critics bounded by M and L-Lipschitz in their d
+    parameters, its uniform deviation from the population bound needs a
+    number of samples set by d, M, L and the parameter radius, not by the
+    data dimension."
+
+    Setting. Ω = X × Z is compact, P = P_XZ and Q = P_X ⊗ P_Z, I = I(X;Z) is
+    finite, and T* = log dP/dQ. Finite I forces P ≪ Q. DV(T) = E_P[T] −
+    log E_Q[e^T] ≤ I for every T (Donsker–Varadhan).
+
+    Gap 1, the approximation lemma when T* = −∞ on a set of positive Q
+    measure. Truncate on both sides: T_M = max(−M, min(T*, M)).
+      (a) E_P[T_M] → I. P-almost surely T* > −∞, because P puts no mass
+          where p = 0. |T_M| ≤ |T*|, and T* is P-integrable: its positive
+          part has finite P-integral since I is finite, and its negative
+          part satisfies ∫_{p<q} p log(q/p) dλ ≤ ∫ (q − p)₊ dλ ≤ 1, by
+          log x ≤ x − 1. Dominated convergence gives the limit.
+      (b) E_Q[e^{T_M}] → 1. e^{T_M} → dP/dQ Q-almost surely, and
+          0 ≤ e^{T_M} ≤ dP/dQ + 1, which is Q-integrable. Dominated
+          convergence gives E_Q[dP/dQ] = 1.
+      Hence DV(T_M) → I. Fix M with DV(T_M) ≥ I − η/3.
+      (c) Replace T_M by a network. μ = P + Q is a finite Borel measure on
+          the compact Ω. By Lusin's theorem and Tietze's extension there is
+          a continuous g with |g| ≤ M and μ(g ≠ T_M) < ε′. Networks with a
+          continuous non-polynomial activation approximate g uniformly
+          within δ on Ω (universal approximation). For that network T,
+          |T − T_M| ≤ 2M + δ everywhere, and |T − T_M| ≤ δ off a set of
+          μ-measure ε′. So E_P|T − T_M| ≤ δ + (2M + δ)ε′, and, exp being
+          e^{M+δ}-Lipschitz on [−M − δ, M + δ],
+          E_Q|e^T − e^{T_M}| ≤ e^{M+δ}(δ + (2M + δ)ε′). log is
+          e^{M+δ}-Lipschitz on [e^{−M−δ}, ∞), and both expectations lie
+          there. Then |DV(T) − DV(T_M)| ≤ E_P|T − T_M| +
+          e^{M+δ}E_Q|e^T − e^{T_M}|, which is below η/3 for small δ and ε′.
+      With Θ = {θ₀} for that network, I ≥ I_Θ ≥ DV(T) ≥ I − η. The lower
+      truncation costs nothing, because e^{T_M} − dP/dQ ≤ e^{−M} on {T* < −M}.
+
+    Gap 2, the estimation lemma. The correct statement is almost-sure
+    convergence, Î_n → I_Θ a.s., with a sample-dependent N.
+      (a) On compact Ω × Θ the map (ω, θ) ↦ T_θ(ω) is continuous, hence
+          bounded by some B and uniformly equicontinuous in ω. The family
+          {T_θ} and {e^{T_θ}} are therefore totally bounded in sup-norm
+          (Arzelà–Ascoli).
+      (b) The empirical measures converge weakly almost surely: P_n ⇒ P,
+          and Q_n ⇒ Q, whether Q_n is the empirical measure of i.i.d.
+          pairs from P_X ⊗ P_Z or the product of the two empirical
+          marginals, since a product of weakly convergent measures on a
+          compact metric space converges weakly to the product (Varadarajan).
+      (c) Weak convergence is uniform over a sup-norm-totally-bounded,
+          uniformly bounded family of continuous functions: cover it by
+          finitely many functions within ε/3 and apply weak convergence to
+          each. So sup_θ |E_{P_n}T_θ − E_P T_θ| → 0 and
+          sup_θ |E_{Q_n}e^{T_θ} − E_Q e^{T_θ}| → 0 almost surely.
+      (d) log is e^B-Lipschitz on [e^{−B}, e^B], and |sup f_n − sup f| ≤
+          sup |f_n − f|. So |Î_n − I_Θ| → 0 almost surely.
+    Strong consistency (Theorem 2) follows: for every η, the Θ from gap 1
+    gives lim sup_n |Î_n − I| ≤ η almost surely. The family is chosen after
+    η, as the THEORY already says.
+
+    Sample complexity (Theorem 3), re-derived with the record's constants.
+    Assume |T_θ| ≤ M, |T_θ − T_θ′| ≤ L‖θ − θ′‖ and ‖θ‖ ≤ K in ℝ^d, with
+    P_n and Q_n each the empirical measure of n i.i.d. draws. Write
+    V(θ) = E_P T_θ − log E_Q e^{T_θ} and V_n likewise.
+      (a) |V_n(θ) − V(θ)| ≤ |Δ₁(θ)| + e^M|Δ₂(θ)|, where
+          Δ₁ = (E_{P_n} − E_P)T_θ, Δ₂ = (E_{Q_n} − E_Q)e^{T_θ}, and log is
+          e^M-Lipschitz on [e^{−M}, ∞).
+      (b) V_n − V is Lipschitz in θ with constant 2L(1 + e^{2M}).
+      (c) A net of the radius-K ball at scale r = ε/(4L(1 + e^{2M})) has at
+          most (3K/r)^d points. At each point Hoeffding gives
+          Pr(|Δ₁| > ε/4) ≤ 2exp(−nε²/(8M²)) and
+          Pr(e^M|Δ₂| > ε/4) ≤ 2exp(−nε²/(8e^{4M})).
+      (d) Union bound plus (b): Pr(sup_θ |V_n − V| > ε) ≤ δ once
+          n ≥ (8 max(M², e^{4M})/ε²)(d log(12KL(1 + e^{2M})/ε) + log(4/δ)).
+      Then |Î_n − I_Θ| ≤ sup_θ |V_n − V| ≤ ε. The data dimension never
+      enters. If Q_n is the product of the two empirical marginals,
+      McDiarmid's inequality gives the same rate up to constants, since one
+      changed sample moves each empirical mean by at most 2e^M/n. The
+      paper's displayed constants (it bounds e^{T_θ} by M rather than e^M)
+      were not rechecked. The title claims only the form.
+  excluded: >-
+    Nothing in the promote_when stays open, so no QUESTION is filed. The
+    body's disclaimers stand unchanged: nothing about what gradient
+    training reaches, that a finite-sample estimate is a bound, a useful
+    rate at high mutual information, or domains beyond compact sets with
+    Lebesgue densities.
+evidence:
+  - "NOTE-828 (Read in full): Lemmas 3–4, Theorems 2–3 and App. 8.2.2–8.2.3, with the two reader's notes on the gaps (claims table C4, C5 moderate; C7 strong)."
+  - "The re-derivation above (ADR-047 v2): lower truncation closes Lemma 3; a.s. uniform convergence by Arzelà–Ascoli and weak convergence closes Lemma 4; Hoeffding plus a parameter-ball net gives the Theorem 3 form."
+blockers: []
+notes: >-
+  Under ADR-047 v2, the corrected statements replace the paper's in the
+  THEORY's body, as a dated note. Lemma 4 is restated as almost-sure
+  convergence with a sample-dependent N. The narrowing only names the
+  sample-complexity clause's assumptions. It does not shrink what is
+  proved.
+next_action: >-
+  One promotion PR, with batch 025's other formal entries: THEORY-308
+  narrowed and Active, with a dated note carrying the closed gaps and the
+  rate's assumptions, and promote_when removed.

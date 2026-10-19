@@ -1,0 +1,108 @@
+# record/promotion-audit/decisions/THEORY-231.yaml
+id: THEORY-231
+batch: batch-026
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    The title as it stands. By batch 020's sort rule the title asserts
+    relations between formal notions, which makes it a theorem and not an
+    argument, so triage-005's formal flag was right here. Every step is
+    re-derived below under ADR-047 v2. The definitions relied on are as
+    the THEORY states them from §§V, VI and VIII, which NOTE-737 read
+    closely. §§II–IV, which construct the causal-inferential theories,
+    were not read, so the definitions below are taken at the level of
+    generality the THEORY states them.
+
+    Definitions relied on.
+    (D1) Inferential equivalence (§V) is an equivalence relation on
+    processes, and it is a congruence: it is preserved by sequential and
+    parallel composition. Quotienting by it therefore gives a map q that
+    preserves composition, from a theory to its quotiented theory, which
+    is identity on equivalence classes.
+    (D2) A classical realist representation ξ is a composition-preserving
+    map from the unquotiented operational theory into the unquotiented
+    classical realist theory. It is Leibnizian when P ∼ P' implies
+    ξ(P) ∼ ξ(P') (Definition VI.5).
+    (D3) A representation ζ into the quotiented realist theory is
+    generalized-noncontextual when P ∼ P' implies ζ(P) = ζ(P')
+    (Definition VIII.2). In a quotiented theory, equivalence is identity.
+    (D4) A Bell-like no-go for a causal structure G says that some
+    observed statistics have no classical realist representation, of any
+    kind, that is consistent with G.
+
+    Step 1, Leibnizian implies generalized-noncontextual (Proposition VI.6
+    with Eq. 215's first arrow). Given a Leibnizian ξ, set ζ := q ∘ ξ.
+    It preserves composition, since q and ξ both do. If P ∼ P', then
+    ξ(P) ∼ ξ(P') by (D2), so q(ξ(P)) = q(ξ(P')) by (D1). That is (D3). So
+    the existence of a Leibnizian representation gives a noncontextual
+    one, and contrapositively every no-go for noncontextual
+    representations is a no-go for Leibnizian ones. The converse is
+    Conjecture 1′. Nothing above yields it, since a noncontextual ζ need
+    not factor through any Leibnizian ξ.
+
+    Step 2, a noncontextuality no-go does not refute realism as such.
+    Suppose an experiment admits a noncontextuality no-go and no
+    Bell-like no-go for its causal structure. By (D4), some classical
+    realist representation ξ consistent with that structure exists. By
+    Step 1 it cannot be Leibnizian, or a noncontextual representation
+    would exist. So the experiment is consistent with classical realism,
+    through a non-Leibnizian ξ. This is §VIII.D's "requires a renouncement
+    of Leibnizianity", derived.
+
+    Step 3, prepare-measure scenarios admit no Bell-like no-go
+    (§VIII.C's realizability claim, which the text states without
+    derivation). Take the causal structure: preparation setting X and
+    preparation outcome A at the source, a system Λ sent on, measurement
+    setting Y exogenous, and outcome B depending on Λ and Y.
+    Necessity: Y is exogenous and has no causal path to X, A or Λ, so
+    every realizable distribution has p(x, a, y) = p(x, a) p(y).
+    Sufficiency: given any p(x, a, y, b) with p(x, a, y) = p(x, a) p(y),
+    let the source sample a from p(a | x) and send Λ := (x, a), and let
+    the measurement sample b from p(b | x, a, y), read off Λ and y. The
+    joint is p(x) p(a | x) p(y) p(b | x, a, y) = p(x, a, y, b). So the
+    only constraint is that Y be independent of X and A, as the source
+    says, and no statistics violate it. No Bell-like no-go exists there.
+    Preparation-noncontextuality no-goes do exist in prepare-measure
+    scenarios on a single system (LIT-266, read in full in NOTE-748).
+    So noncontextuality no-goes reach where Bell-like ones cannot. That
+    is the title's "stronger assumption ... applies where none exists".
+
+    Step 4, "stronger assumption". By Step 1, Leibnizian representations
+    are among those that admit a noncontextual one. A noncontextuality
+    no-go rules out that smaller class, assuming more about the
+    representation than a Bell-like no-go, which rules out every
+    classical realist representation consistent with G. The title's last
+    clause, that only Leibnizianity implying noncontextuality is proved,
+    is Step 1's converse being Conjecture 1′.
+  excluded: >-
+    The causal-inferential theories' construction in §§II–IV, and the
+    proofs in Appendices C–G, are not checked. The re-derivation needs only
+    (D1)–(D4), and the promoted statement is relative to them. If §§II–IV
+    define inferential equivalence so that it fails to be a congruence,
+    Step 1 fails. The THEORY's own account of §V gives no sign of that.
+    Conjecture 1′ is not claimed. The promote_when's refuter, a
+    prepare-measure scenario with constraints beyond Y's independence, is
+    excluded by Step 3, since λ = (x, a) realizes every other
+    distribution.
+evidence:
+  - "NOTE-737 (Skimmed, but §§V, VI, VIII, IX and Appendices A–B read closely): Definitions VI.5 and VIII.2, Propositions VI.6 and VIII.3, Eqs. 200 and 214–215, §VIII.C's realizability sentence, §VIII.D."
+  - "NOTE-748 (Read in full): LIT-266's preparation-noncontextuality proofs in prepare-measure scenarios on a single system."
+  - "Re-derivation above, under ADR-047 v2: Step 1 composes ξ with the quotient map, and Step 3 realizes any distribution with Y independent of (X, A) by sending λ = (x, a)."
+blockers: []
+notes: >-
+  Promoted with medium confidence because the definitions are taken from
+  the sections the reading covered, not from the unread construction of
+  the theories. The promote_when asked for a full reading of LIT-945. Per
+  ADR-047 v2, the step-by-step re-derivation meets it for the proved
+  half. Step 3 also derives the one claim the text states without
+  derivation. The title already disclaims the converse, so no narrowing
+  is needed.
+next_action: >-
+  Promotion PR. Set THEORY-231 Active and remove promote_when. Add a dated
+  note with (D1)–(D4) and Steps 1–4, and a history entry citing this
+  decision and ADR-047 v2. Trim stale inactive-ok directives naming
+  THEORY-231.

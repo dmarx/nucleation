@@ -1,0 +1,48 @@
+# record/promotion-audit/decisions/CLAIM-241.yaml
+id: CLAIM-241
+batch: batch-030
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    The objection's core: an inference gap in step 3 of CLAIM-217. The
+    premise, CLAIM-151, makes the act "partly constituted" by expected
+    uptake. The conclusion makes competent participants' verdicts "the
+    criterion". If uptake is one constituent among several, the other
+    constituents (standings, norms) can diverge from informed uptake, and
+    the verdicts are then wrong about the act. So the premise gives uptake
+    a vote, not the last word. This is a point about what follows from
+    what, and it holds as stated. CLAIM-217 itself grants that "a kind
+    that outruns even competent uptake is not excluded by argument here".
+    The two requirements it adds (a rule for divided verdicts, a class of
+    acts) are things CLAIM-217 does not supply, as its body shows.
+  excluded: >-
+    That uptake is not a standard, or that analysts' probes are better.
+    Which rule for combining verdicts is right. The objection disclaims
+    all three.
+evidence:
+  - "CLAIM-217's step 3 and its own concession, as quoted in CLAIM-241's body."
+  - "Two independent statements of the same point: A240's first refinement, and the interlocutor's reading of 2026-10-12 ('constitutive dependence is not the same as epistemic authority')."
+  - "No reply to CLAIM-241 is filed, and it rests on no claim."
+blockers:
+  - >-
+    The owner's decision, which is bound up with the open question between
+    CLAIM-206 and CLAIM-217 (batch 021). Promoting a counter means the
+    record is persuaded (NOTES, batch 002), so CLAIM-217 would need
+    qualifying, to a defeasible standard, in the same step. That reopens
+    part of CLAIM-206's first horn and reaches TERM-040 v2 and CLAIM-204's
+    ontological clause.
+notes: >-
+  The objection is sound on its own terms. Its cost is what it does to the
+  CLAIM-206 and CLAIM-217 exchange, so the owner should decide the three
+  together, root first: CLAIM-046, then CLAIM-206, CLAIM-217 and CLAIM-241.
+unlocks: []
+next_action: >-
+  Owner question, together with CLAIM-206 against CLAIM-217: is the record
+  persuaded by CLAIM-241? If yes, one PR promotes it and qualifies
+  CLAIM-217's step 3 to a defeasible standard, with history notes
+  appended last.

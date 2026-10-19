@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 104
+version: 110
 updated: '2026-10-19'
 record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
 procedure: record/decisions.d/ADR-047.md
@@ -38,16 +38,16 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 23
-  promotion_paths: 11
+  reviewed: 43
+  promotion_paths: 28
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
-  reviewed: 13
-  promotion_paths: 1
+  reviewed: 17
+  promotion_paths: 4
 requeue: []
 candidates:
 - code: CLAIM-264
@@ -275,9 +275,11 @@ candidates:
   - CLAIM-056
   - CLAIM-270
   state: decided
-  disposition: retain-proposed
-  batch: batch-003
+  disposition: needs-correction
+  batch: batch-029
   decision: decisions/CLAIM-081.yaml
+  carried_out_in:
+  - '#212'
 - code: CLAIM-107
   wave: 1
   score: 14
@@ -1379,7 +1381,12 @@ candidates:
     compound: 1
   supports: 3
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: promote
+  batch: batch-027
+  decision: decisions/THEORY-176.yaml
+  carried_out_in:
+  - '#219'
 - code: THEORY-078
   wave: 3
   score: 4
@@ -1495,8 +1502,13 @@ candidates:
     formal: 1
   supports: 1
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: narrow-and-promote
+  batch: batch-024
+  decision: decisions/THEORY-169.yaml
+  carried_out_in:
+  - '#214'
 - code: THEORY-182
   wave: 3
   score: 6
@@ -1510,8 +1522,13 @@ candidates:
     formal: 1
   supports: 1
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: split
+  batch: batch-024
+  decision: decisions/THEORY-182.yaml
+  carried_out_in:
+  - '#218'
 - code: THEORY-186
   wave: 3
   score: 6
@@ -1525,8 +1542,13 @@ candidates:
     formal: 1
   supports: 1
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: split
+  batch: batch-024
+  decision: decisions/THEORY-186.yaml
+  carried_out_in:
+  - '#218'
 - code: THEORY-231
   wave: 3
   score: 6
@@ -1540,9 +1562,14 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
   note: triage-005 doubts the formal flag here (keyword hit on a philosophical title)
+  disposition: promote
+  batch: batch-026
+  decision: decisions/THEORY-231.yaml
+  carried_out_in:
+  - '#215'
 - code: THEORY-283
   wave: 3
   score: 6
@@ -1556,8 +1583,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: narrow-and-promote
+  batch: batch-024
+  decision: decisions/THEORY-283.yaml
+  carried_out_in:
+  - '#214'
 - code: THEORY-286
   wave: 3
   score: 6
@@ -1571,8 +1603,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: split
+  batch: batch-024
+  decision: decisions/THEORY-286.yaml
+  carried_out_in:
+  - '#218'
 - code: THEORY-308
   wave: 3
   score: 6
@@ -1586,8 +1623,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: narrow-and-promote
+  batch: batch-025
+  decision: decisions/THEORY-308.yaml
+  carried_out_in:
+  - '#216'
 - code: THEORY-314
   wave: 3
   score: 6
@@ -1601,8 +1643,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: promote
+  batch: batch-025
+  decision: decisions/THEORY-314.yaml
+  carried_out_in:
+  - '#216'
 - code: THEORY-320
   wave: 3
   score: 6
@@ -1616,8 +1663,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: split
+  batch: batch-025
+  decision: decisions/THEORY-320.yaml
+  carried_out_in:
+  - '#216'
 - code: THEORY-391
   wave: 3
   score: 6
@@ -1631,8 +1683,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: narrow-and-promote
+  batch: batch-025
+  decision: decisions/THEORY-391.yaml
+  carried_out_in:
+  - '#220'
 - code: THEORY-472
   wave: 3
   score: 6
@@ -1646,8 +1703,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: narrow-and-promote
+  batch: batch-025
+  decision: decisions/THEORY-472.yaml
+  carried_out_in:
+  - '#220'
 - code: THEORY-478
   wave: 3
   score: 6
@@ -1661,8 +1723,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: narrow-and-promote
+  batch: batch-026
+  decision: decisions/THEORY-478.yaml
+  carried_out_in:
+  - '#215'
 - code: THEORY-590
   wave: 3
   score: 6
@@ -1676,9 +1743,12 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
   note: triage-005 doubts the formal flag here (keyword hit on a philosophical title)
+  disposition: retain-proposed
+  batch: batch-026
+  decision: decisions/THEORY-590.yaml
 - code: THEORY-614
   wave: 3
   score: 6
@@ -1692,8 +1762,13 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
+  disposition: needs-correction
+  batch: batch-026
+  decision: decisions/THEORY-614.yaml
+  carried_out_in:
+  - '#215'
 - code: THEORY-690
   wave: 3
   score: 6
@@ -1707,9 +1782,12 @@ candidates:
     formal: 1
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: re-derivation
   note: triage-005 doubts the formal flag here (keyword hit on a philosophical title)
+  disposition: retain-proposed
+  batch: batch-026
+  decision: decisions/THEORY-690.yaml
 - code: THEORY-566
   wave: 3
   score: 7
@@ -1723,9 +1801,14 @@ candidates:
     formal: 0
   supports: 0
   triage: triage-005
-  state: pending
+  state: decided
   route: source
   note: looks formal though routed to source (prose title); try the re-derivation route
+  disposition: promote
+  batch: batch-027
+  decision: decisions/THEORY-566.yaml
+  carried_out_in:
+  - '#219'
 - code: THEORY-216
   wave: 3
   score: 6
@@ -1829,9 +1912,14 @@ candidates:
     formal: 0
   supports: 1
   triage: triage-005
-  state: pending
+  state: decided
   route: source
   note: looks formal though routed to source (prose title); try the re-derivation route
+  disposition: narrow-and-promote
+  batch: batch-027
+  decision: decisions/THEORY-187.yaml
+  carried_out_in:
+  - '#217'
 - code: THEORY-195
   wave: 3
   score: 6
@@ -1845,9 +1933,14 @@ candidates:
     formal: 0
   supports: 1
   triage: triage-005
-  state: pending
+  state: decided
   route: source
   note: looks formal though routed to source (prose title); try the re-derivation route
+  disposition: narrow-and-promote
+  batch: batch-027
+  decision: decisions/THEORY-195.yaml
+  carried_out_in:
+  - '#217'
 - code: THEORY-211
   wave: 3
   score: 6
@@ -1861,9 +1954,14 @@ candidates:
     formal: 0
   supports: 1
   triage: triage-005
-  state: pending
+  state: decided
   route: source
   note: looks formal though routed to source (prose title); try the re-derivation route
+  disposition: narrow-and-promote
+  batch: batch-027
+  decision: decisions/THEORY-211.yaml
+  carried_out_in:
+  - '#217'
 - code: THEORY-223
   wave: 3
   score: 6
@@ -2094,8 +2192,8 @@ candidates:
   wave: 5
   triage: batch-028
   state: decided
-  disposition: retain-proposed
-  batch: batch-028
+  disposition: promote
+  batch: batch-030
   decision: decisions/CLAIM-046.yaml
 - code: CLAIM-058
   wave: 5
@@ -2139,6 +2237,36 @@ candidates:
   disposition: retain-proposed
   batch: batch-028
   decision: decisions/CLAIM-127.yaml
+- code: CLAIM-160
+  wave: 5
+  triage: batch-030
+  state: decided
+  disposition: retain-proposed
+  batch: batch-030
+  decision: decisions/CLAIM-160.yaml
+- code: CLAIM-241
+  wave: 5
+  triage: batch-030
+  state: decided
+  disposition: promote
+  batch: batch-030
+  decision: decisions/CLAIM-241.yaml
+- code: CLAIM-327
+  wave: 5
+  triage: batch-030
+  state: decided
+  disposition: retain-proposed
+  batch: batch-030
+  decision: decisions/CLAIM-327.yaml
+- code: THEORY-109
+  wave: 5
+  triage: batch-030
+  state: decided
+  disposition: split
+  batch: batch-030
+  decision: decisions/THEORY-109.yaml
+  carried_out_in:
+  - '#213'
 history:
 - version: 1
   date: '2026-10-19'
@@ -2529,4 +2657,27 @@ history:
   date: '2026-10-19'
   note: 'Batch 028 integrated: 0 of 10 warrants were wrong; 1 title/defeater mismatch (CLAIM-033) referred
     to a regular review'
+- version: 105
+  date: '2026-10-19'
+  note: 'Batch 024 integrated: 5 of 5 found a promotion path; carried_out_in #214, #218'
+- version: 106
+  date: '2026-10-19'
+  note: 'Batch 025 integrated: 5 of 5 found a promotion path (three on ADR-047 v2, two on v3 after narrowing);
+    carried_out_in #216, #220'
+- version: 107
+  date: '2026-10-19'
+  note: 'Batch 026 integrated: 2 of 5 found a promotion path, plus 1 correction; carried_out_in #215'
+- version: 108
+  date: '2026-10-19'
+  note: 'Batch 027 integrated: 5 of 5 found a promotion path (four formal, one under ADR-047 v3); carried_out_in
+    #217, #219'
+- version: 109
+  date: '2026-10-19'
+  note: 'Batch 029 integrated: 0 promotion paths; 1 warrant correction (CLAIM-081, demonstrated → interpretive);
+    carried_out_in #212'
+- version: 110
+  date: '2026-10-19'
+  note: 'Batch 030 integrated: 3 of 5 found a promotion path. THEORY-109''s split can be carried out now.
+    CLAIM-046 and CLAIM-241 are interpretive, so their promotion is the owner''s call.; carried_out_in
+    #213'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

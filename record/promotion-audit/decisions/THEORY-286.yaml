@@ -1,0 +1,65 @@
+# record/promotion-audit/decisions/THEORY-286.yaml
+id: THEORY-286
+batch: batch-024
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    LIT-994 Theorem 1 and Corollary 1.3 for the unconstrained-features
+    max-margin problem (UF-SVM) under (R, ρ)-STEP imbalance with
+    d ≥ k − 1, re-derived here (ADR-047 v2), since NOTE-764 followed the
+    proof only as sketched. Setup: classes A (a classes, n_A = Rm samples
+    each) and B (b classes, m each), a + b = k; logits X = WᵀH ∈ ℝ^{k×n};
+    Ẑ = PY with P = I − J/k and Y one-hot, so every column of class c is
+    e_c − 1/k. Step 1 (reduction). min ½(‖W‖² + ‖H‖²) over WᵀH = X equals
+    ‖X‖_* when d ≥ rank X (THEORY-726), with every minimiser balanced
+    (CLAIM-148's re-derived step), so UF-SVM is min ‖X‖_* subject to
+    X[y_i,i] − X[c,i] ≥ 1. Ẑ is feasible with every margin exactly 1.
+    Step 2 (certificate). Let G = (ẐẐᵀ)^{+1/2} Ẑ, the polar factor:
+    ‖G‖_op = 1 and ⟨G, Ẑ⟩ = ‖Ẑ‖_*. With D = diag(n_c), ẐẐᵀ = PDP, and
+    M = (PDP)^{+1/2} kills 1, so the column of G for class c is M e_c. If M's
+    off-diagonal entries are ≤ 0, each column g of G (summing to 0) is
+    Σ_{c'≠c} μ_{c'}(e_c − e_{c'}) with μ_{c'} = −g[c'] ≥ 0, and for any
+    feasible X, ⟨G, X⟩ = Σ μ (margins) ≥ Σ μ = ⟨G, Ẑ⟩. Then
+    ‖X‖_* ≥ ⟨G, X⟩ ≥ ⟨G, Ẑ⟩ = ‖Ẑ‖_*. Step 3 (signs). PDP has eigenvalue Rm
+    on zero-sum vectors supported on A, m on zero-sum vectors on B, and
+    λ_u = m(Rb + a)/k on u = 1_A/a − 1_B/b (‖u‖² = k/(ab)). So
+    M = Π_A/√(Rm) + Π_B/√m + uuᵀ/(‖u‖²√λ_u). Off-diagonal entries: within
+    A, −1/(a√(Rm)) + b/(ak√λ_u), which is < 0 iff b²R < kRb + ka, true as
+    b < k; within B, −1/(b√m) + a/(bk√λ_u) < 0 iff a² < kRb + ka, true as
+    a < k; across, −1/(k√λ_u) < 0. All strictly negative, so Ẑ is optimal.
+    Step 4 (uniqueness and Grams). Every μ > 0, so at any optimum every
+    margin is tight: X = Ẑ + 1rᵀ. Since Ẑᵀ1 = 0,
+    (Ẑ + 1rᵀ)ᵀ(Ẑ + 1rᵀ) = ẐᵀẐ + k rrᵀ, whose trace square root exceeds
+    ‖Ẑ‖_* unless r = 0. So X = Ẑ, and the balanced factorisation gives
+    ŴᵀŴ and ĤᵀĤ as the two square roots from Ẑ's SVD. Step 5 (Corollary
+    1.3). The nonzero singular values of Ẑ are √(Rm), √m and √λ_u with the
+    multiplicities above; they are all equal, which is the simplex ETF,
+    exactly when R = 1, or when k = 2 (rank one). All steps close. Filed as
+    a new Active THEORY.
+  excluded: >-
+    What THEORY-286 keeps, Proposed, with its promote_when unchanged: that
+    gradient descent on unregularized cross-entropy reaches this geometry
+    (the authors' conjecture C1); that trained networks approach it, and
+    more slowly as imbalance grows (measured, one seed per cell); and the
+    ridge results (Propositions 1–2), read as sketched and not re-derived
+    here.
+evidence:
+  - "NOTE-764 (Read): Theorem 1 and Propositions 1–2 followed as sketched in §3.3 and §4.2, not line by line (claims C1–C4 strong)."
+  - "THEORY-726 (Active) and CLAIM-148 (Active): the nuclear-norm identity for two factors and the balance of every minimiser."
+  - "The certificate argument above, written out step by step (ADR-047 v2)."
+blockers: []
+notes: >-
+  The re-derivation uses a dual certificate rather than the paper's own
+  route. It needs only that M = (PDP)^{+1/2} has negative off-diagonal
+  entries, which the STEP structure makes a two-line check. For general
+  (non-STEP) class sizes the same certificate works whenever that sign
+  condition holds; that is not claimed here.
+unlocks: []
+next_action: >-
+  Split: a new Active THEORY for the UF-SVM geometry under STEP imbalance
+  (Theorem 1 and Corollary 1.3), with the certificate proof as a dated
+  note; THEORY-286 extends it and stays Proposed.

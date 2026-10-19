@@ -1,0 +1,41 @@
+# record/promotion-audit/decisions/CLAIM-327.yaml
+id: CLAIM-327
+batch: batch-030
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The three-stage analysis as a conceptual distinction: a statistical
+    regularity, then member-accessible structure, then self-reinforcing
+    organization. Only the third makes a slow variable endogenous.
+    CASE-116's arm B is a construction showing a register that members
+    read and rewrite, where do(Z_t) changes the next value. That shows the
+    third stage can be satisfied, but only in a toy.
+  excluded: >-
+    That any of the offered cases (CASE-102, CASE-103) satisfies the third
+    stage. That needs observation or intervention, and the record holds
+    neither.
+evidence:
+  - "The source, Flack 2012 (LIT-1122), is Deferred and unread; the claim is A9's analysis of it."
+  - "CASE-102 and CASE-103 are argued examples. The tests A9 §4 names (predictive usefulness over a baseline, and causal uptake under intervention) were not run on them."
+  - "The warrant is correct as filed. The support is argument, synthesis and a construction (ADR-043's interpretive). The defeat condition being empirical is not a misclassification here, because the claim is not supported by observation."
+blockers:
+  - >-
+    No observed case meets the third stage, and the claim's own defeat
+    condition is an empirical test of its cases that no source in the
+    record has run. Reading LIT-1122, or a record of an intervention on
+    members' access to a slow variable, would be the next evidence.
+notes: >-
+  Unlike batch 022's CLAIM-052, this is not a warrant error. The claim is
+  argued, and its defeater is empirical because what it would take to
+  overturn it is observational. That shape is allowed. It belongs to the
+  36 flagged by batch 022's mechanical count, which shows the count
+  over-reports misclassification.
+unlocks: []
+next_action: >-
+  None until LIT-1122 is read or a case is measured. Requeue if a NOTE on
+  LIT-1122 lands.

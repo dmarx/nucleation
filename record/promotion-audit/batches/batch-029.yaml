@@ -1,0 +1,74 @@
+# record/promotion-audit/batches/batch-029.yaml
+batch: batch-029
+date: '2026-10-19'
+kind: warrant-sweep
+wave: 4
+record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+selection: >-
+  The ADR-040 parent sweep that batch 021 asked for: every CLAIM still
+  marked `warrant: demonstrated` whose own content was split off under
+  ADR-040, or (widened) under the promotion audit's later splits.
+population:
+  search: >-
+    (1) Every CLAIM history note mentioning ADR-040 and "split from
+    CLAIM-X" names X as an ADR-040 parent. Eight parents found: CLAIM-056,
+    -081, -126, -142, -143, -149, -187, -193. Seven are already
+    interpretive; only CLAIM-081 is demonstrated. (2) Widened: every
+    Proposed or Active CLAIM marked demonstrated whose history mentions a
+    split. Twenty found. Fifteen are split-off children whose defeat
+    condition is "an error in the proof below" (CLAIM-264, -267, -268,
+    -270, -370 to -383), rightly demonstrated. The remaining parents are
+    CLAIM-081, -148, -164, -269 and -326. The regex flags on CLAIM-372 and
+    CLAIM-381 were false positives ("empirical model" is a term of art).
+    CLAIM-011 and CLAIM-282 mention ADR-040 only as a second line (group
+    C), not a split.
+  size: 5
+reviewed: [CLAIM-081]
+screened_no_change:
+  - code: CLAIM-269
+    why: >-
+      Split in batch 015 (#193). What it keeps is a derivation conditional on
+      THEORY-002 and THEORY-019 (Proposed), and its defeat condition is a
+      counterexample to that derivation, not an observation. Demonstrated
+      while Proposed is coherent (ADR-043). Batch 015's decision stands.
+  - code: CLAIM-326
+    why: >-
+      Split in batch 014 (#196). It keeps step (b) for non-finite outcome
+      spaces, a derivation that needs THEORY-156. Its defeat condition is an
+      error in the steps. Batch 014's decision stands.
+  - code: CLAIM-148
+    why: "Active; the balanced-minimizer step is re-derived in its note (batch 015). Derivation, correctly demonstrated."
+  - code: CLAIM-164
+    why: "Active; its core is Davis–Kahan, and its defeat condition is a perturbation counterexample (batch 015). Correctly demonstrated."
+outcomes:
+  needs-correction: [CLAIM-081]
+yield: 0 promotion paths; 1 warrant correction (CLAIM-081, demonstrated → interpretive)
+finding: >-
+  The ADR-040 sweep is nearly exhausted. Of eight ADR-040 parents, seven
+  were already corrected one by one in batches 003, 004, 015, 021 and
+  earlier work. CLAIM-081 was the last, held back only because batch 003
+  made its warrant review wait on CLAIM-056. The audit's own splits did not
+  reproduce the pattern. Each kept parent is either a conditional
+  derivation (CLAIM-269, -326) or an Active claim with a re-derived core
+  (CLAIM-148, -164).
+owner_questions: []
+promotion_prs:
+  - "#212: CLAIM-081 warrant correction (branch claude/correct-claim-081-warrant)."
+follow_up_prs:
+  - "CLAIM-081: warrant demonstrated → interpretive, version 2, history entry citing batch 029, ADR-040 and ADR-043. Status unchanged."
+notes_for_ledger:
+  - >-
+    The ADR-040 parent population is closed: all eight parents are now
+    interpretive once CLAIM-081's correction merges. Pattern 1 needs no
+    further sweep over ADR-040 parents. Watch new splits instead: when a
+    split leaves the parent only a reading of a domain, correct the warrant
+    in the same PR.
+  - >-
+    A regex for "empirical" defeat conditions misfires on terms of art
+    ("empirical model" in contextuality). Read the defeat condition before
+    counting it. Batch 022's count of 36 interpretive claims with
+    empirical-sounding defeat conditions may hold similar false positives.
+  - >-
+    When a decision defers a warrant review until a premise is decided,
+    as batch 003 did for CLAIM-081, record the trigger in the requeue list.
+    Otherwise it waits until a sweep finds it.

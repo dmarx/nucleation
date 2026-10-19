@@ -69,3 +69,31 @@ def test_sample_of_a_small_population_returns_all_of_it():
 def test_codes_sort_by_scheme_then_number():
     assert s5.sort_codes(["THEORY-010", "CLAIM-100", "THEORY-002", "CLAIM-020"]) == \
         ["CLAIM-020", "CLAIM-100", "THEORY-002", "THEORY-010"]
+
+
+def test_roots_drop_claims_resting_on_a_proposed_interpretive_claim(tmp_path):
+    claim(tmp_path, 1)
+    entry(tmp_path / "claims.d" / "CLAIM-002.md",
+          {"number": 2, "status": "Proposed", "warrant": "interpretive", "rests_on": ["CLAIM-001"]})
+    entry(tmp_path / "claims.d" / "CLAIM-003.md",
+          {"number": 3, "status": "Proposed", "warrant": "interpretive", "rests_on": ["CLAIM-004"]})
+    claim(tmp_path, 4, status="Active")
+    theory(tmp_path, 1)
+    q = queue(tmp_path / "q.yaml", [])
+    assert s5.roots(tmp_path, q) == ["CLAIM-001", "CLAIM-003", "THEORY-001"]
+
+
+def test_a_queued_premise_still_blocks_its_dependent(tmp_path):
+    claim(tmp_path, 1)
+    entry(tmp_path / "claims.d" / "CLAIM-002.md",
+          {"number": 2, "status": "Proposed", "warrant": "interpretive", "rests_on": ["CLAIM-001"]})
+    q = queue(tmp_path / "q.yaml", ["CLAIM-001"])
+    assert s5.roots(tmp_path, q) == []
+
+
+def test_a_demonstrated_proposed_premise_does_not_block(tmp_path):
+    claim(tmp_path, 1, warrant="demonstrated")
+    entry(tmp_path / "claims.d" / "CLAIM-002.md",
+          {"number": 2, "status": "Proposed", "warrant": "interpretive", "rests_on": ["CLAIM-001"]})
+    q = queue(tmp_path / "q.yaml", [])
+    assert s5.roots(tmp_path, q) == ["CLAIM-002"]

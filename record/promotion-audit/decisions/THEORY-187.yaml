@@ -1,0 +1,61 @@
+# record/promotion-audit/decisions/THEORY-187.yaml
+id: THEORY-187
+batch: batch-027
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The title's depth law, restricted to the start the exact theory covers:
+    whitened inputs, squared error, initial weights on the decoupled set and
+    balanced across layers, with iterations counted as gradient-flow
+    learning time divided by the stable step size. Within that start every
+    clause follows from LIT-864's mode equations (Eqs. 13–17, Appendix B.1),
+    which NOTE-667 checked, and from the finite-depth integral NOTE-667 did
+    not check, which is re-derived below (ADR-047 v2).
+  excluded: >-
+    The unrestricted reading of "a deep linear network": starts off the
+    decoupled set, such as random orthogonal or small random weights. The
+    body disclaims them ("Not that random orthogonal weights are a decoupled
+    start"), and they are exactly what the promote_when asks about. It moves,
+    unchanged, to a new QUESTION related to QUESTION-039.
+evidence:
+  - "NOTE-667 v1 history: Appendices B and B.1 read; 'The derivations of Eqs. 10–12, 15–17 and 41–45 were checked; Eq. 26 and the general-depth integral of Eq. 15, which the paper does not write out, were not.'"
+  - >-
+    Re-derivation. (i) Mode equations. With m = N_l − 1 weight layers on the
+    decoupled set and whitened inputs, one mode of strength s has loss
+    (1/2τ)(s − u)², u = a₁⋯a_m. Gradient flow gives τȧᵢ = (s − u)∏_{j≠i}aⱼ, so
+    d(aᵢ²)/dt = 2aᵢȧᵢ = (2/τ)(s − u)u for every i: the differences aᵢ² − aⱼ²
+    are conserved, and a balanced start stays balanced, aᵢ = a, u = aᵐ. Then
+    τu̇ = m a^{m−1} τȧ = m a^{m−1}(s − u)a^{m−1} = m u^{2−2/m}(s − u).
+    (ii) Small start. The time from u = ε to u = s(1 − δ) is
+    t = (τ/m)∫_ε^{s(1−δ)} du / (u^{2−2/m}(s − u)). For m = 2 the integrand is
+    1/(u(s − u)) and t = (τ/2s)[ln(u/(s − u))] = (τ/2s)ln(s/ε) + O(1): order
+    ln(1/ε). For m > 2 the integral is dominated near u = ε, where the
+    integrand is u^{−(2−2/m)}/s, so t ≈ (τ/m) ε^{−(1−2/m)}/((1 − 2/m)s); the
+    exponent is (m − 2)/m = (N_l − 3)/(N_l − 1), rising to 1 as m → ∞, which
+    is the 1/ε of the paper's Eq. 17. (iii) Stable step. At the optimum the
+    residual vanishes, so the Hessian is (1/τ)∇u∇uᵀ with
+    ∂u/∂aᵢ = u/aᵢ = s^{1−1/m}; its top eigenvalue is
+    ‖∇u‖²/τ = m s^{2−2/m}/τ = (N_l − 1)s^{(2N_l−4)/(N_l−1)}/τ, and gradient
+    descent is stable for η < 2τ/(m s^{2−2/m}), of order 1/(N_l s²) at large
+    depth. (iv) Iterations. Counted as t/η at that step size,
+    t/η ≈ (m s^{2−2/m}/τ)·(τ/m)·I_m = s^{2−2/m} I_m, where
+    I_m = ∫_{u₀}^{s(1−δ)} du/(u^{2−2/m}(s − u)). From u₀ of order one, I_m
+    converges as m → ∞ to the same integral with exponent 2, so the
+    iteration count stays bounded in depth. From u₀ = ε,
+    s^{2−2/m} I_m ≈ s^{1−2/m} ε^{−(m−2)/m}/(1 − 2/m), which grows towards s/ε.
+  - "Every step uses only the balanced, decoupled start: the conservation law and the scalar reduction (i) fail off the decoupled set, where the modes couple."
+blockers: []
+notes: >-
+  Triage-005 flagged this as possibly formal under a prose title. It is
+  formal: an exact solution of gradient flow plus a curvature computation.
+  The narrowing is the hypothesis the derivation needs, not a weakening of
+  the depth law.
+next_action: >-
+  Narrow-and-promote PR. Retitle to name the decoupled, balanced start on
+  whitened inputs and the counting of iterations; set Active; add the
+  re-derivation as a dated note; move the promote_when, unchanged, to a new
+  QUESTION related to QUESTION-039.

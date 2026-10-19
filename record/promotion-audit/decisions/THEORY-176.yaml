@@ -1,0 +1,62 @@
+# record/promotion-audit/decisions/THEORY-176.yaml
+id: THEORY-176
+batch: batch-027
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as it stands. Its three clauses are consequences of the
+    definitions in LIT-850 (eq. 1) and of Blackwell's order: one decision
+    problem through a fixed head and a restricted map class is not
+    Blackwell's order; Blackwell-equivalent representations can stitch
+    differently; a nonzero penalty shows the fitted map did not reproduce
+    the layers it replaced. The body's relations 1, 2 and 4 are elementary
+    and were derived when the THEORY was filed. Relation 3 is an existence
+    claim ("can stitch differently"), and an explicit example, below, now
+    shows it, even for the paper's own map class of per-position affine
+    channel maps.
+  excluded: >-
+    The promote_when's measurement, a pixel-shuffle experiment under the
+    paper's protocol on trained networks, with seeds. That would show the
+    possibility occurs in practice, which the title does not claim; one
+    checked example settles an existence statement (batch 008, THEORY-171).
+    It moves, unchanged, to a new QUESTION.
+evidence:
+  - "NOTE-653 v1 history: read in full, §§1–8 and Appendices A–B; figures read as rendered images. The relations are the record's own derivations from eq. 1, as the summary says."
+  - >-
+    Example for relation 3. Let the label be Y ∈ {0, 1}, uniform, and the
+    input X ∈ ℝ^{1×2×1} (one channel, two positions) with X₀ = 2Y − 1 and X₁
+    a fair ±1 coin independent of Y. Let A's first ℓ layers be the identity,
+    r = A_{≤ℓ}(X) = X, and its head read position 0: A_{>ℓ}(z) = 1[z₀ > 0].
+    A has error 0. Let r′ = g ∘ r with g swapping the two positions; g is
+    invertible, so r and r′ are functions of each other and equivalent in
+    Blackwell's order (each is a garbling of the other). The paper's
+    stitcher is a 1×1 convolution between BatchNorms, i.e. at C = 1 the same
+    affine map z_p ↦ αz_p + β at every position p. Through it the head sees
+    αr′₀ + β = αX₁ + β, which is independent of Y, so every stitched
+    network has error 1/2. The penalty is 0 for r (take α = 1, β = 0) and
+    1/2 for r′, though the two are Blackwell-equivalent. This also shows the
+    penalty order is not Blackwell's order.
+  - >-
+    Relation 4, checked. If the fitted s gives s ∘ r = A_{≤ℓ} on the input
+    distribution, the stitched network equals A and the penalty is 0. So a
+    nonzero penalty, and in particular a negative one, implies that
+    s ∘ r ≠ A_{≤ℓ} on a set of positive probability.
+  - "THEORY-156 (Proposed) is cited for Blackwell's theorem; the title uses only the definition of the order and the fact that mutual garblings are equivalent, so it does not lean on THEORY-156 (as batch 014 found for CLAIM-212 and CLAIM-228)."
+blockers: []
+notes: >-
+  Tagged mathematical-statistics; queued in batch 021 as a premise of
+  CLAIM-126. The THEORY-171 lesson applies: when the title states an
+  existence and the promote_when asks for a measurement, a constructed
+  example is the proof. Promoting it removes one Proposed premise from
+  CLAIM-126, CLAIM-225 and CLAIM-199, which a later wave-4 pass should
+  re-count.
+unlocks:
+  - "CLAIM-126, CLAIM-225 and CLAIM-199 (supports): recount their other Proposed premises."
+next_action: >-
+  Promote PR. Set Active; add the example as a dated note; remove the
+  promote_when and file it, unchanged, as a new QUESTION; trim stale
+  inactive-ok directives naming THEORY-176.

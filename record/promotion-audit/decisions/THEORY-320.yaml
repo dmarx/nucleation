@@ -1,0 +1,67 @@
+# record/promotion-audit/decisions/THEORY-320.yaml
+id: THEORY-320
+batch: batch-025
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: split
+confidence: medium
+scope:
+  accepted: >-
+    A new Active THEORY holding the exact residual identity (Sun et al.'s
+    Theorem 5.5, proved in C.1, stated there as ≤). Re-derived under
+    ADR-047 v2:
+
+    Let V = [F G] be an orthogonal N × N matrix whose first k columns F are
+    the top-k singular vectors of the normalized adjacency. Split rows into
+    labelled and unlabelled: F = [L*; U*] and G = [L♭; U♭]. For a novel
+    labelling y on the unlabelled rows, let the labelled entries float:
+    R(U*, y) = min_{w, z} ‖F w − [z; y]‖².
+      1. For fixed t = [z; y], min_w ‖F w − t‖² = ‖(I − FFᵀ)t‖² = ‖Gᵀt‖²,
+         since F has orthonormal columns and FFᵀ + GGᵀ = I.
+      2. Gᵀt = L♭ᵀz + U♭ᵀy.
+      3. min_z ‖L♭ᵀz + U♭ᵀy‖² is a least-squares problem in z. Its value is
+         ‖(I − P)U♭ᵀy‖², with P = L♭ᵀ(L♭L♭ᵀ)†L♭ the orthogonal projector
+         onto the range of L♭ᵀ.
+    So R(U*, y) = ‖(I − P_{L♭})U♭ᵀy‖², an equality. R = 0 iff U♭ᵀy lies in
+    the range of L♭ᵀ, that is, iff some ω has u_iᵀy = l_iᵀω for every
+    discarded i. With Lemma 5.1, the linear-probe error is at most 2R. The
+    consequence the title draws holds as a statement about the identity:
+    labelled rows of the discarded eigenvectors can absorb, and so remove,
+    a novel labelling's residual.
+  excluded: >-
+    The toy results stay in THEORY-320, Proposed: Theorem 5.2's help case,
+    Theorem 5.3's threshold, and Lemma 5.4's harm case. These rest on the
+    eigenvector computations in appendix B, which neither NOTE-833 nor
+    this review read. A reconstruction from NOTE-833's description
+    (unnormalized adjacency, τ₁ = 1 on the diagonal, τ_s and τ_c between
+    same-shape and same-colour objects, the known class linked by shared
+    attribute, k = 3, the labelled entry floating) reproduces Theorem 5.2
+    exactly:
+    - with a gray cylinder, residual 1 when τ_s > τ_c and 0 when τ_s < τ_c;
+    - with a red cylinder, residual 0.
+    It does not reproduce Theorem 5.3. There the residual drops from 1 to 0
+    for any link t > 0, not at t̄. It does not reproduce Lemma 5.4 either:
+    with a gray cube and τ_s/τ_c ∈ (1, 1.5), the residual is 0, where the
+    lemma has 2. So the reconstruction is not the paper's set-up, and
+    neither toy result can be checked from the record. The harm clause
+    ("ones sharing a rival attribute can raise it") therefore stays
+    unverified. So does "which partition is discovered depends on the
+    known classes", as a demonstrated instance, though the identity makes
+    the dependence possible.
+evidence:
+  - "NOTE-833 (Read): Theorem 5.5 and its proof in C.1 (claims table C2 strong); toy results C3–C4 marked strong (toy) but rest on appendix B, not read."
+  - "The identity's re-derivation above, and the reconstruction check (scratch script, three τ settings and k = 2, 3, 4)."
+blockers:
+  - "For the toy clauses, a reading of LIT-235's appendix B: the exact toy graph (which vertices, which weights, whether labelled entries float in the toy) behind Theorems 5.2–5.3 and Lemma 5.4."
+notes: >-
+  The reconstruction is recorded so the next attempt needs one retrieval
+  round. It matches Theorem 5.2 and fails Theorem 5.3 and Lemma 5.4, which
+  points to a set-up detail, not a paper error. A plausible candidate is
+  the labelled entry being fixed rather than floating in the toy. The
+  parent's promote_when already asks for the appendix B check and a
+  second example, so it stays unchanged.
+next_action: >-
+  In batch 025's formal PR, file the identity as a new Active THEORY,
+  re-derived in a dated note. THEORY-320 extends it and stays Proposed,
+  with a dated note recording the reconstruction.

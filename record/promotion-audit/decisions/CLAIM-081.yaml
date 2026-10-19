@@ -1,40 +1,45 @@
 # record/promotion-audit/decisions/CLAIM-081.yaml
 id: CLAIM-081
-batch: batch-003
+batch: batch-029
 reviewed: '2026-10-19'
-reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
 current_status: Proposed
 warrant: demonstrated
-disposition: retain-proposed
+disposition: needs-correction
 confidence: high
+supersedes_review:
+  batch: batch-003
+  disposition: retain-proposed
+  note: >-
+    Batch 003 retained it until CLAIM-056 was decided, and asked for the
+    warrant to be reviewed then. CLAIM-056's warrant has since been corrected
+    to interpretive (batch 004's pattern-1 finding), so the condition is met.
 scope:
   accepted: >-
-    Nothing that is not already CLAIM-270's. That retention and drift come
-    apart on Markov chains is CLAIM-270, which PR #167 promotes with
-    two-state constructions for all four combinations. CASE-017 (Active) is
-    a constructed contractive chain showing the same.
+    The status stays Proposed. Nothing in the claim that is demonstrable is
+    its own. That retention and drift come apart on Markov chains is
+    CLAIM-270 (Active, formal-apparatus), split off under ADR-040 on
+    2026-10-13, with two-state constructions for all four combinations.
+    CASE-017 (Active) is a constructed contractive chain that shows the same.
   excluded: >-
-    This claim's own content: that serial reconstruction of utterances is
-    such a chain, read through CLAIM-056's transport errors, so that the
-    two profiles are the right fidelity profiles for translation chains.
+    The warrant `demonstrated`. What CLAIM-081 adds to CLAIM-270 is the
+    reading of serial reconstruction of utterances as such a chain, through
+    CLAIM-056's transport errors, and the conclusions "convergence is not
+    preservation" and "transmission is not degradation" for translation
+    chains. Its defeat condition is a universal over real serial
+    reconstruction ("always move together, so that one profile predicts the
+    other"). No observation of real chains stands under it, and the
+    reading it rests on is CLAIM-056's interpretive thesis. Under ADR-043
+    that is `interpretive`: supported by conceptual argument, settled
+    neither way. It is not `empirical`, because nothing has been measured.
 evidence:
-  - "rests_on CLAIM-056 (Proposed), which rests on CLAIM-106 (Proposed, interpretive) for reading chain steps as transports with graded fidelity."
-  - "The defeat condition is about serial reconstruction ('always move together, so that one profile predicts the other'), a universal over a domain. CASE-017 is constructed, not observed, so it can show the profiles can come apart in a model of the domain, not how the domain behaves."
+  - "rests_on: CLAIM-270 (Active, demonstrated) and CLAIM-056 (Proposed, interpretive since batch 004's correction)."
+  - "The 2026-10-13 note says the general content is filed separately as CLAIM-270; the claim keeps CLAIM-056 'for reading the chain as a reconstruction chain'. That reading is the whole of its remaining content."
+  - "ADR-043: a warrant is never inherited along rests_on, and a demonstrated premise can support a conjectural conclusion. CLAIM-270 being demonstrated does not make CLAIM-081 so."
+  - "Pattern 1 (NOTES): ADR-040 parents CLAIM-193, -056, -269's original and -126 had the same shape and were corrected. CLAIM-081 is the last ADR-040 parent still marked demonstrated."
 blockers:
-  - >-
-    CLAIM-056 is Proposed. Its premise CLAIM-106, that fidelity is graded
-    and directed, is the line's interpretive thesis. Until CLAIM-056 is
-    decided, this claim cannot be Active, whatever #167 does for
-    CLAIM-270.
-  - >-
-    Once CLAIM-056 is decided, review the warrant. If the claim is read as
-    "a reconstruction chain can forget its origin while staying far", it is
-    CLAIM-270 applied and adds nothing demonstrable. If it is read as its
-    defeat condition reads, a statement about real serial reconstruction,
-    it is interpretive (ADR-043: an empirical hypothesis with no observation
-    under it).
-unlocks:
-  - "PR #167 (CLAIM-270 → Active) removes one of its two Proposed premises. The other is CLAIM-056."
+  - "For promotion: CLAIM-056 is Proposed and interpretive, so this is the owner's call once CLAIM-056 is decided. Not raised now."
 next_action: >-
-  None now. Re-review in the wave-4 pass after CLAIM-056 is decided (CLAIM-056
-  is pending in the queue).
+  Correct the warrant to interpretive, with a dated history entry citing
+  batch 029, ADR-040 and ADR-043. Status, statement, grounds and defeat
+  condition unchanged.

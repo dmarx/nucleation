@@ -1,0 +1,38 @@
+# record/promotion-audit/decisions/THEORY-690.yaml
+id: THEORY-690
+batch: batch-026
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing. By batch 020's sort rule the title asserts a synthesis in the
+    philosophy of science. It has three parts:
+    - in the dualities examined, inequivalent duals turn out empirically
+      inequivalent;
+    - a cautious realist commits to the common core;
+    - rich cores give structural realism no support.
+    The support is case-by-case argument over a book's examples, which
+    makes it an argument and not a theorem. The one formal piece, that
+    each dual entails the common core (M1 ⊨ T, M2 ⊨ T), is definitional
+    under the Schema. It is too thin to split as a core: it says nothing
+    about whether a given core is rich, which is what the title turns on.
+  excluded: >-
+    Everything in the title. Each clause rests on a reading of examples
+    that the THEORY scopes itself. The verdicts are over the book's
+    cases, the rich-core argument does not reach AdS/CFT or M-theory, and
+    the physics of the main string dualities is unproven, as the body
+    says. NOTE-178 read the Part II derivations for their claims, not
+    line by line.
+evidence:
+  - "NOTE-178 (Read in full from arXiv 2508.01616v1): §§3.1, 12.1.2, 13.2.3–13.2.4, 13.4, the exact cases' common cores."
+blockers:
+  - "Argument, not theorem; it belongs to wave 5. The promote_when's own route remains: an interpreted common core for a duality beyond the perturbative and conformal-fixed-point regimes, checked for richness."
+notes: >-
+  A formal-flag false positive, as triage-005 suspected. The title's
+  quantifiers ('in the physical dualities examined') are already scoped
+  correctly, so the entry needs no correction.
+next_action: >-
+  None in this wave. Requeue in wave 5.

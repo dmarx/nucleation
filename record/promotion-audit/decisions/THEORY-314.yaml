@@ -1,0 +1,69 @@
+# record/promotion-audit/decisions/THEORY-314.yaml
+id: THEORY-314
+batch: batch-025
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as it stands, now over the full completed RKHS. The
+    promote_when asks for "an independent statement and proof of the same
+    result over the full completed RKHS H_k ..., with the conditions for a
+    minimizer to exist made explicit". Under ADR-047 v2 a step-by-step
+    re-derivation meets that:
+
+    Setting. H_k is the reproducing kernel Hilbert space of a positive
+    definite kernel k on a set X: complete, with ⟨f, k(·, x)⟩ = f(x) for all
+    f and x. The training inputs are x_1, …, x_m. The objective is
+    J(f) = c((x_i, y_i, f(x_i))_{i ≤ m}) + g(‖f‖), with c into ℝ ∪ {∞}
+    arbitrary and g strictly increasing on [0, ∞).
+
+    1. S = span{k(·, x_i)} is finite-dimensional, hence closed. So every f
+       in H_k splits uniquely as f = f_S + v with f_S ∈ S and v ⊥ S, the
+       orthogonal projection in a Hilbert space.
+    2. f(x_j) = ⟨f, k(·, x_j)⟩ = ⟨f_S, k(·, x_j)⟩ + ⟨v, k(·, x_j)⟩ =
+       f_S(x_j), since k(·, x_j) ∈ S and v ⊥ S. So the cost term of J is the
+       same at f and at f_S.
+    3. ‖f‖² = ‖f_S‖² + ‖v‖² (Pythagoras), so ‖f‖ ≥ ‖f_S‖, with equality
+       iff v = 0.
+    4. Hence J(f) ≥ J(f_S), strictly if v ≠ 0 and J(f) < ∞, because g is
+       strictly increasing. A minimizer f therefore has v = 0, that is,
+       f = Σ α_i k(·, x_i).
+    This uses only the reproducing property, completeness (for the
+    projection) and strict monotonicity, no convexity and no Riesz
+    representation beyond the reproducing property, as the title says.
+
+    Existence, made explicit. If c is lower semicontinuous and bounded
+    below as a function of the outputs (f(x_1), …, f(x_m)), g is lower
+    semicontinuous with g(t) → ∞ as t → ∞, and J is finite somewhere, then
+    a minimizer exists:
+      (a) By step 4, inf_{H_k} J = inf_S J.
+      (b) On S, f = Σ α_i k(·, x_i) has outputs Kα and norm √(αᵀKα), with
+          K the Gram matrix. Both are continuous in the coefficients, and
+          S is finite-dimensional with the RKHS norm.
+      (c) The sublevel set {f ∈ S : J(f) ≤ J(f₀)} is closed (J restricted
+          to S is lsc) and bounded (c is bounded below and g is coercive),
+          hence compact in finite dimensions.
+      (d) An lsc function attains its minimum on a nonempty compact set.
+          That point minimizes over H_k by (a).
+    Without lower semicontinuity a minimizer can fail to exist. Take m = 1,
+    k(x_1, x_1) = 1, g(t) = t, and c = 0 if f(x_1) > 1, c = 2 otherwise. On
+    S, f = a·k(·, x_1) has J = a for a > 1 and J = 2 + |a| for a ≤ 1. So
+    inf J = 1 is approached as a ↓ 1 and never attained.
+  excluded: >-
+    The disclaimers stay as they are: costs that see f other than through
+    its training values, the semiparametric Theorem 2 (stated without
+    proof), and any advice on regularizers.
+evidence:
+  - "NOTE-836 (Read, checked): Theorem 1 over the class F of countable expansions, proof eqs. 18–24."
+  - "The re-derivation above (ADR-047 v2), over the completed H_k, with existence conditions."
+blockers: []
+notes: >-
+  The paper's class F and H_k need not be compared. The proof works on
+  H_k directly, which is what the promote_when asked for. The refuter,
+  a minimizer with a non-zero orthogonal part, cannot occur, by step 4.
+next_action: >-
+  Promote in batch 025's formal PR, with a dated note carrying the H_k
+  proof and the existence conditions, and promote_when removed.
