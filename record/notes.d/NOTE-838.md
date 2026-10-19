@@ -28,7 +28,7 @@ summary: >-
   HSIC is the squared Hilbert–Schmidt norm of the centred cross-covariance.
   Every result is for a fixed kernel.
 ---
-<!-- inactive-ok-file: THEORY-009 THEORY-005 — Proposed; the accounts that cite this review, and the operator account its §3.2 and §4 bear on -->
+<!-- inactive-ok-file: THEORY-005 — Proposed; the accounts that cite this review, and the operator account its §3.2 and §4 bear on -->
 
 # NOTE-838: Muandet et al. — Kernel Mean Embedding of Distributions
 

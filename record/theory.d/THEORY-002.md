@@ -78,7 +78,6 @@ supports:
 - CLAIM-193
 - CLAIM-269
 ---
-<!-- inactive-ok-file: THEORY-233 — Proposed; cited in promote_when as the reason a CKA result does not count, not leaned on -->
 
 # THEORY-002: Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
 

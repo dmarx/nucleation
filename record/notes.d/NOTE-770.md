@@ -28,7 +28,7 @@ summary: >-
   about scaling and about moderate association are argued and measured,
   not proved.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 THEORY-239 — Proposed; the accounts this reading bears on, and the one filed from it, open -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-239 — Proposed; the accounts this reading bears on, and the one filed from it, open -->
 
 # NOTE-770: Zhai — Contextures: The Mechanism of Representation Learning
 

@@ -30,7 +30,7 @@ summary: >-
   mutual information characterizes independence; conditional
   independence only one way.
 ---
-<!-- inactive-ok-file: THEORY-233 THEORY-313 — Proposed; the comparison of normalized kernels this reading is set beside, and the account filed from it -->
+<!-- inactive-ok-file: THEORY-313 — Proposed; the comparison of normalized kernels this reading is set beside, and the account filed from it -->
 
 # NOTE-837: Bach — Information Theory with Kernel Methods
 

@@ -26,7 +26,6 @@ summary: >-
   shows it is the transpose read through the two Riesz maps.
 ---
 <!-- inactive-ok-file: NOTE-214 — Superseded; the seeded skim this reading replaces -->
-<!-- inactive-ok-file: THEORY-009 — Proposed; the account that cites this article, named for what the article does and does not support -->
 
 # NOTE-861: Riesz representation theorem (Wikipedia)
 

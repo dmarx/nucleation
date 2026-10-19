@@ -33,7 +33,7 @@ summary: >-
   two to eight ImageNet classes, one run per cell, not with natural long
   tails.
 ---
-<!-- inactive-ok-file: THEORY-305 THEORY-228 THEORY-009 — Proposed; neighbouring accounts of what self-supervised objectives commit a representation to, open -->
+<!-- inactive-ok-file: THEORY-305 THEORY-228 — Proposed; neighbouring accounts of what self-supervised objectives commit a representation to, open -->
 
 # THEORY-306: Volume-maximizing joint-embedding objectives carry a prior toward equal-sized clusters, explicit in MSN and SwAV and derived for VICReg only through a reduction to K-means, and with mini-batches of two to eight classes they lose semantic transfer while MAE and data2vec do not
 

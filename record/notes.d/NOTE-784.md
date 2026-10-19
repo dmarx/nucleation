@@ -31,7 +31,6 @@ summary: >-
   Laplace–Beltrami operator at α = 1. The symmetry of the kernel is what
   yields the spectral decomposition; non-symmetric kernels are not treated.
 ---
-<!-- inactive-ok-file: THEORY-009 — Proposed; the account this reading bears on, open -->
 
 # NOTE-784: Coifman et al. — Diffusion maps
 

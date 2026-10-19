@@ -28,7 +28,7 @@ summary: >-
   extension from F to the completed RKHS, and the semiparametric
   Theorem 2 are not proved here.
 ---
-<!-- inactive-ok-file: THEORY-009 THEORY-314 — Proposed; the account that cites this paper, and the one filed from this reading, open -->
+<!-- inactive-ok-file: THEORY-314 — Proposed; the account that cites this paper, and the one filed from this reading, open -->
 <!-- inactive-ok-file: NOTE-230 — Superseded; the seeded skim this reading replaces -->
 
 # NOTE-836: Schölkopf, Herbrich & Smola — A Generalized Representer Theorem

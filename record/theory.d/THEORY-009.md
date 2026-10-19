@@ -1,23 +1,10 @@
 ---
 number: 9
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpwf2pt
-promote_when: >-
-  A published analysis of an asymmetric self-supervised objective showing
-  either that the eigenfunction characterization fails, or that it is replaced
-  by singular functions of a non-self-adjoint operator. A further symmetric
-  example cannot settle it. Near misses found on 2026-10-14: Balestriero &
-  LeCun's Theorem 7 (NOTE-752) handles a non-symmetric pair structure by
-  CCA, but the objective is Barlow Twins, not an asymmetric objective of the
-  BYOL kind, and the CCA identification is asserted, not derived; Simon et
-  al. (NOTE-741) treat two-tower pairs, but with a symmetrized loss.
-  Zhai's thesis (LIT-975, NOTE-770) is nearer than LIT-228: the
-  singular value decomposition is derived (Theorem 2.11) and holds for
-  X ≠ A, but asymmetric objectives such as BYOL and SimSiam are named,
-  not analysed. None meets it.
-title: 'Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem'
-version: 6
+title: 'In the positive-pair spectral self-supervised papers, self-adjointness comes from the symmetry of the positive-pair distribution, not from the Riesz representation theorem; elsewhere in the family it comes from a symmetrized loss, a precondition on the kernel, or composing the conditional-expectation operator with its adjoint'
+version: 7
 history:
 - version: 2
   date: '2026-10-14'
@@ -65,6 +52,24 @@ history:
     The record's own step, that an integral operator's adjoint has the
     conjugate-transposed kernel, is filed with its proof as
     CLAIM-291 and cited where the step is made.
+- version: 7
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-009.yaml, batch 007). As titled
+    the claim was contradicted by its own body, which names three routes
+    in the family where self-adjointness does not come from the
+    positive-pair distribution: Simon et al.'s symmetrized loss, Pfau et
+    al.'s precondition on k, and Zhai's composition of the
+    conditional-expectation operator with its adjoint. The title now
+    covers the positive-pair papers and names those routes. The reading of
+    LIT-258 and LIT-249 was checked again for the promotion: P(a, a′) =
+    Σ_z p(z)p(a|z)p(a′|z) = BᵀB, so D^(−½)PD^(−½) is symmetric and positive
+    semidefinite. The owner's rule of 2026-10-19 (ADR-047): a checked step-by-step re-derivation recorded in the decision file meets a promote_when that asks for a proof the record does not hold, and the THEORY is promoted. The promote_when asked for a
+    published analysis of an asymmetric objective, which tests an extension
+    the body disclaims. It moves, with its near misses, to QUESTION-tmph1bq0,
+    and is removed here.
 tags:
 - representation-learning
 - mathematics
@@ -91,8 +96,9 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-239 — Proposed; the account filed from LIT-975, cited for the mechanism it sharpens, not leaned on -->
 <!-- inactive-ok-file: THEORY-314 — Proposed; the representer-theorem account filed from LIT-261, cited as a parallel case, not leaned on -->
+<!-- inactive-ok-file: QUESTION-tmph1bq0 — Open; the asymmetric-objective question this reading was narrowed away from, named as open -->
 
-# THEORY-009: Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem
+# THEORY-009: In the positive-pair spectral self-supervised papers, self-adjointness comes from the symmetry of the positive-pair distribution, not from the Riesz representation theorem; elsewhere in the family it comes from a symmetrized loss, a precondition on the kernel, or composing the conditional-expectation operator with its adjoint
 
 ## Source
 
@@ -107,6 +113,10 @@ Every spectral result in these papers rests on a symmetric operator. Johnson et 
 The representer theorem is a parallel case: Schölkopf, Herbrich & Smola's proof ([LIT-261](../literature.d/LIT-261.md), eqs. 18–24; [THEORY-314](THEORY-314.md)) uses the reproducing property and orthogonal projection, not Riesz; the word does not occur in the paper.
 
 ## What this does not say
+
+- **Anything about asymmetric objectives.** Whether the eigenfunction
+  characterization fails for BYOL-type objectives, or is replaced by
+  singular functions of a non-self-adjoint operator, is [QUESTION-tmph1bq0](../questions.d/QUESTION-tmph1bq0.md).
 
 - That Riesz is irrelevant. It is what makes an abstract space of functions with bounded evaluation into an RKHS, and the review obtains the kernel mean embedding by Riesz (see the mean-embedding claim, from Muandet et al., [LIT-260](../literature.d/LIT-260.md), Lemma 3.1). A Bochner integral, which the review also uses to define it, gives it too; that second route is the record's inference.
 - What happens for non-reversible pair structures: predictors and stop-gradient (BYOL, SimSiam), directed augmentations, cross-modal pairs. There the natural object would be the singular value decomposition of a non-self-adjoint operator, which needs the adjoint in earnest. No account for an asymmetric objective was found. The nearest is Balestriero & LeCun's Theorem 7 ([LIT-228](../literature.d/LIT-228.md)): in the linear regime Barlow Twins recovers CCA, the singular value decomposition of the non-self-adjoint whitened cross-covariance, and a symmetric pair matrix G is what yields weight sharing; the paper says G's symmetry "is often not required". But the objective is Barlow Twins, not a BYOL-type asymmetric one, and the identification with CCA is asserted rather than derived. In Simon et al.'s two-tower case the symmetric Γ is block off-diagonal in the cross-covariance, so its eigenvalues are ± that matrix's singular values; that reading (the Jordan–Wielandt construction) is the record's, not the paper's.

@@ -37,7 +37,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; named for the bearing of this reading on its caveat -->
 <!-- inactive-ok-file: THEORY-002 — Proposed; named for a bearing, not as settled -->
-<!-- inactive-ok-file: THEORY-009 — Proposed; named for a bearing, not as settled -->
 <!-- inactive-ok-file: LIT-208 — Proposed; named for a bearing on the distributional hypothesis -->
 <!-- inactive-ok-file: THEORY-182 — Proposed; the account this reading produced -->
 

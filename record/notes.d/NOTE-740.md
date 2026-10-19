@@ -38,7 +38,7 @@ summary: >-
   linear probe on them has error Õ(α/ρ²_⌊k/2⌋), where α is the label
   noise of augmentations and ρ the sparsest-partition conductance.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 — Proposed; the theories that cite this paper, open until it and its companions are read -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; the theories that cite this paper, open until it and its companions are read -->
 
 # NOTE-740: HaoChen et al. — Spectral Contrastive Loss
 
