@@ -1,0 +1,54 @@
+# record/promotion-audit/decisions/CLAIM-326.yaml
+id: CLAIM-326
+batch: batch-014
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    Steps (a) to (d) for experiments with finitely many states and finitely
+    many outcomes, as a new demonstrated, Active CLAIM grounded on THEORY-717
+    (Active; Blackwell 1953, Theorem 6). Checked for this review:
+    (a) If V = G∘U for a Markov kernel G, a rule δ on V gives δ∘G on U with
+    the same action distribution under each z. So r_q,π(U) ≤ r_q,π(V) and
+    D⁺(V → U; π) = sup_q [r(U) − r(V)]⁺ = 0.
+    (b) If D⁺(U → V; π) = 0 for all finite problems with losses in [0, 1] and
+    all priors, then r(V) ≤ r(U) for all of them. An increasing affine
+    rescaling L ↦ (L − m)/(M − m) maps every Bayes risk by the same map, so
+    the inequality extends to every bounded loss. With finitely many
+    outcomes, THEORY-717 then gives that U is reproducible from V by a
+    Markov matrix.
+    (c) With Z uniform on {0, 1}, U = Z and V constant, under 0–1 loss for
+    guessing Z: r(U) = 0 and r(V) = 1/2. So D⁺(U → V) = 1/2 and D⁺(V → U) = 0.
+    (d) |x| = max([x]⁺, [−x]⁺), and a supremum of maxima is the maximum of
+    the suprema, so sup_q |r_q(U) − r_q(V)| = max(D⁺(U → V), D⁺(V → U)).
+    The worked case was recomputed. Take CLAIM-323's U (whether Z = 1) and
+    V (whether Z = 3), with Z uniform on {1, 2, 3}. On "is Z = 3?" the risks
+    are r(U) = 1/3 and r(V) = 0; on "is Z = 1?" they are 0 and 1/3. So the
+    pair is (1/3, 1/3). For a constant V both risks are 1/3, which gives
+    (1/3, 0). D_Q is 1/3 in both cases.
+  excluded: >-
+    Step (b) for outcome spaces that are not finite, such as raw texts. It
+    rests on the general converse of Blackwell's theorem (THEORY-156,
+    Proposed). THEORY-156's promote_when asks for a second proof of the
+    arbitrary-outcome case, or for the 1951 results checked at their
+    source, and this pass cannot re-derive either. CLAIM-326 keeps the
+    general statement, Proposed, and cites the new claim for the finite
+    case.
+evidence:
+  - "The step-by-step checks above. Steps (a), (c) and (d) follow from the definitions, and (b) is a one-line rescaling plus THEORY-717."
+  - "CLAIM-326's own note of 2026-10-19 already draws this line: finite outcome sets rest on THEORY-717 (Active), and unrestricted ones on THEORY-156 (Proposed)."
+  - "THEORY-156's decision (batch-000) leaves the general case blocked on a checked second proof."
+blockers: []
+notes: >-
+  This is NOTES batch-003's 'Active substitute ground' pattern, applied as a
+  split rather than a re-grounding: the substitute covers only part of the
+  claim's scope. Coded renderings, the case the pragmatic-transport line's
+  designs actually use (CLAIM-228's finite judgement tables), fall inside
+  the Active part.
+next_action: >-
+  Split PR. Create the finite-outcome CLAIM (demonstrated, Active,
+  grounds THEORY-717 and CLAIM-323, supports CLAIM-259). CLAIM-326 rests on
+  it and keeps the unrestricted case, Proposed, with a dated note.

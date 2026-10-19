@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 86
+version: 87
 updated: '2026-10-19'
 record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
 procedure: record/decisions.d/ADR-047.md
@@ -31,12 +31,12 @@ handoff:
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
-  reviewed: 18
-  promotion_paths: 9
+  reviewed: 21
+  promotion_paths: 12
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 40
-  promotion_paths: 33
+  reviewed: 41
+  promotion_paths: 34
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 5
@@ -86,9 +86,11 @@ candidates:
     risk: 3
   proposed_deps: []
   state: decided
-  disposition: needs-correction
-  batch: batch-000
+  disposition: promote
+  batch: batch-014
   decision: decisions/CLAIM-123.yaml
+  carried_out_in:
+  - '#191'
 - code: CLAIM-267
   wave: 1
   score: 19
@@ -352,7 +354,12 @@ candidates:
     risk: 3
   proposed_deps:
   - THEORY-156
-  state: pending
+  state: decided
+  disposition: needs-correction
+  batch: batch-014
+  decision: decisions/CLAIM-212.yaml
+  carried_out_in:
+  - '#196'
 - code: CLAIM-228
   wave: 1
   score: 13
@@ -364,7 +371,12 @@ candidates:
     risk: 2
   proposed_deps:
   - THEORY-156
-  state: pending
+  state: decided
+  disposition: split
+  batch: batch-014
+  decision: decisions/CLAIM-228.yaml
+  carried_out_in:
+  - '#196'
 - code: CLAIM-269
   wave: 4
   score: 16
@@ -395,7 +407,12 @@ candidates:
     risk: 3
   proposed_deps:
   - THEORY-156
-  state: pending
+  state: decided
+  disposition: split
+  batch: batch-014
+  decision: decisions/CLAIM-326.yaml
+  carried_out_in:
+  - '#196'
 - code: CLAIM-056
   wave: 4
   score: 12
@@ -987,7 +1004,12 @@ candidates:
     read: 1
   supports: 0
   triage: triage-003
-  state: pending
+  state: decided
+  disposition: promote
+  batch: batch-014
+  decision: decisions/THEORY-312.yaml
+  carried_out_in:
+  - '#191'
 - code: THEORY-111
   wave: 3
   score: 7
@@ -1655,4 +1677,8 @@ history:
   note: 'Batch 017 integrated: 2 of 5 found a promotion path; carried_out_in #195 Wave 1''s promotion
     paths read 9, not 10: CLAIM-107 (promoted in batch 003) was re-reviewed in batch 015 as needs-correction,
     and counts follow the latest disposition.'
+- version: 87
+  date: '2026-10-19'
+  note: 'Batch 014 integrated: 4 of 5 found a promotion path (2 promotions, 2 splits); 1 correction; carried_out_in
+    #191, #196'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

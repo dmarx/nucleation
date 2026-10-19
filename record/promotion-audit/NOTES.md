@@ -504,3 +504,20 @@ history note. THEORY-277 is requeued on this basis.
   yielder. The source proves the approximation exactly, not the title's
   claim about the exact model. Read the claims table for 'strong for the
   map' or 'numerical fidelity'.
+
+## 2026-10-19 — batch 014
+
+- *Check which direction of a Proposed ground is used.* Three claims
+  listed THEORY-156 (general Blackwell converse) as a dependency. Two used
+  only the definition of a garbling, and one used the converse only
+  outside finite outcome spaces, where THEORY-717 (Active) covers the
+  rest. Grep the body for the sentence that cites the ground before
+  recording a dependency blocker.
+- *A sign question in a THEORY is a cheap re-derivation.* THEORY-312's
+  promote_when asked only to settle a remainder's sign. Lemma B.0.1 closes
+  on three intervals using (1 + x/2)² ≤ e^x on [−2, 0], and Theorem B.1
+  needs only log(1 + x) ≥ x/(1 + x) and E Var − HSIC(Z,Z) = Var μ₁.
+- *Pattern 1 recurs in the fidelity line.* CLAIM-212 and CLAIM-228, both
+  'the record's reply of 2026-10-10', are demonstrated over a reception-
+  study defeater. Expect the other 2026-10-10 replies in pragmatic-
+  transport to have the same misclassification, and check them in wave 5.
