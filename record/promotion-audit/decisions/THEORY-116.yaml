@@ -1,0 +1,39 @@
+# record/promotion-audit/decisions/THEORY-116.yaml
+id: THEORY-116
+batch: batch-031
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing new. The proved part is the converse, and it is already Active as THEORY-732 (iii).
+  excluded: >-
+    The title's stated direction: a barrier that survives symmetry removal
+    implies different mechanisms. Equivalently, the same mechanism implies
+    a linear connection up to permutation. The body says it "is proved
+    nowhere". The deep-network evidence for it is one synthetic-cue
+    fine-tuning protocol (LIT-669 Fig. 5), in which barrier and cue
+    reliance co-occur, and that is not a test of the implication. What
+    LIT-669 App. F.3 proves (Lemma 2, Lemma 4, Theorem 1) is the converse:
+    in a one-hidden-layer ReLU network with interpolating minima, linear
+    mode connectivity forces identical activation patterns, so models
+    relying on attributes of different complexity are not connected under
+    any permutation.
+evidence:
+  - "NOTE-538 read LIT-669's Definitions 2–5, Conjecture 1, Figs. 4–5, Table 2 and Appendix F.3, including the proofs."
+  - "THEORY-732 (Active, split from THEORY-111 in batch 016) already holds the converse's exact one-hidden-layer case (its clause iii), with Lubana et al.'s Lemma 2 re-derived. Splitting it again from THEORY-116 would duplicate an Active entry."
+  - "The step the promote_when names as missing is that two models relying on the same attribute share activation patterns up to permutation. It is not a short proof. Activation patterns depend on each unit's whole weight vector and bias over the data, not only on which attribute the model uses, so shared reliance alone does not fix them. The step needs a construction or an extra hypothesis, which is beyond a two-round re-derivation (NOTES, batch 008: re-derivation stops at constructions)."
+blockers:
+  - "The stated direction is unproved, and its only deep-network evidence tests it jointly with the converse. The promote_when's intervention test on residual same-data barriers, with the alignment fixed in advance, is not in the record."
+notes: >-
+  Batch 020's sort rule puts this in the theorem class, but the theorem
+  the sources prove is the converse of the title, and the record already
+  holds that converse as Active. The title's direction is LIT-669's
+  Conjecture 1 as stated, and the source offers only a sufficiency sketch
+  for it (Corollary 1, Remark 1). The entry does not mis-state anything.
+  It names the direction and says it is unproved, so no correction is
+  needed. A small improvement, not required, would be a pointer to
+  THEORY-732 beside its account of App. F.3.
+unlocks: []
+next_action: None; no PR. A later edit could cite THEORY-732 for the converse.
