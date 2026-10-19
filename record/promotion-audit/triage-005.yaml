@@ -1,0 +1,743 @@
+# record/promotion-audit/triage-005.yaml
+# Triage-005: wave 3 re-scored by triage_wave3.py after batches 016 and 017
+# (record revision: origin/main at 8999ea61, 2026-10-19). It orders review and
+# decides nothing (ADR-047).
+#
+# Changes from triage-004, each from batch 016's or 017's notes_for_ledger:
+#   - depth takes the best source's NOTE, not the weakest (THEORY-078's fully
+#     read core scored 0 under triage-004);
+#   - firsthand also fails on "nothing is measured", "no theorems", "not
+#     computed", "stated by no source", "the filer's synthesis", "nothing was
+#     tested" and "followed as statements" (THEORY-470, THEORY-481);
+#   - a `formal` flag: the title states a formal result AND "What was actually
+#     shown" names a theorem, proof or derivation. Formal entries take route
+#     `re-derivation` (ADR-047 v2) and are listed apart, under formal_route;
+#   - an `empirical_hedged` component (0-1): one measured signature against an
+#     explicit contrast, the ADR-047 v3 shape (THEORY-191, -192);
+#   - the `mathematics` tag no longer decides eligibility; the queue does.
+#
+# Lists: formal_route = top 15 formal entries by score; ranked = top 15
+# source-route entries; control = 5 source-route entries by fixed rule (sorted
+# codes outside `ranked`, every k-th). backtest = the ten wave-3 entries
+# batches 016 and 017 reviewed, scored as if new, beside their dispositions.
+#
+# Backtest: the route separated the ten exactly. All four yielders (THEORY-078,
+# -111, -309, -369) and the correction THEORY-481 route to re-derivation; the
+# five non-yielders route to source. The score did not: THEORY-079 scores 7 and
+# was retained, THEORY-309 and THEORY-369 score 4 and yielded. Read the route,
+# not the score. The flag was tuned with these ten in view, so treat the
+# separation as fitted, not as evidence.
+eligible: 436
+formal_routed: 55
+distribution:
+  7: 1
+  6: 72
+  5: 124
+  4: 98
+  3: 70
+  2: 12
+  1: 4
+formal_route:
+- code: THEORY-169
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 1
+  triage: triage-005
+  note: 'In attention layers, conditioning on a context is exactly training a learner on it and predicting:
+    linear attention is one batch gradient st'
+- code: THEORY-182
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 1
+  triage: triage-005
+  note: A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors
+    of the co-occurrence matrix's relati
+- code: THEORY-186
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 1
+  triage: triage-005
+  note: A deep linear network trained from small weights learns the singular modes of its input–output
+    correlations one at a time in order of streng
+- code: THEORY-231
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: Within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations,
+    not realist representations as such; it r
+- code: THEORY-283
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: For a two-layer network on a hierarchical multi-index target with Gaussian inputs, direction k
+    becomes recoverable at a sample count proport
+- code: THEORY-286
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not
+    the simplex ETF but simplex-encoded-label inte
+- code: THEORY-308
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum
+    estimator over a compact family of critics
+- code: THEORY-314
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: Every minimizer of an arbitrary cost on the training outputs plus a strictly increasing function
+    of the RKHS norm lies in the span of the ke
+- code: THEORY-320
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel
+    labelling's linear-probe residual is exactly i
+- code: THEORY-391
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches,
+    as N grows with δ = n/N and ρ = k/n fix
+- code: THEORY-472
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: A speaker who chooses words to minimise the information lost about a single intended referent
+    picks each true word with probability inversel
+- code: THEORY-478
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: When a data set's diffusion operator behaves like the heat kernel of a latent tree, summing scale-weighted
+    hyperbolic distances between diff
+- code: THEORY-590
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: 'The self whose governance makes action autonomous is not the self whose persistence is personal
+    identity: governance by an essence of voliti'
+- code: THEORY-614
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model
+    fits that distribution exactly, then a prom
+- code: THEORY-690
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 1
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  route: re-derivation
+  supports: 0
+  triage: triage-005
+  note: In the physical dualities examined, theoretically inequivalent duals turn out empirically inequivalent,
+    so dualities yield no genuine in-pri
+ranked:
+- code: THEORY-566
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 0
+  triage: triage-005
+  note: In Ganea et al.'s hyperbolic neural networks, linear maps and nonlinearities are Euclidean ones
+    read through the chart at the origin, so a s
+- code: THEORY-216
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 3
+  triage: triage-005
+  note: On a contested shared canvas, lasting artworks are those whose coalitions keep working under continual
+    overwriting, participants consolidate
+- code: THEORY-073
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 2
+  triage: triage-005
+  note: 'A Markov blanket does not individuate a system: where it falls is fixed by modelling choices
+    made before it is found, so it presupposes the '
+- code: THEORY-115
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 2
+  triage: triage-005
+  note: Linear connectivity from a shared, already-stable start holds only when the objectives the runs
+    optimise share structure, and breaks as that
+- code: THEORY-116
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 2
+  triage: triage-005
+  note: A linear barrier between two minima that survives the removal of symmetries marks a difference
+    in the input attributes the two models rely o
+- code: THEORY-324
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 2
+  triage: triage-005
+  note: A system adapts by trial and error to an environment unknown to it only if a second feedback,
+    through its essential variables, changes the p
+- code: THEORY-411
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 2
+  triage: triage-005
+  note: In Sen's capability approach the weighting of functionings is left to public reasoning, and evaluation
+    can still guide action without agreem
+- code: THEORY-187
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: 'In a deep linear network trained by gradient descent, depth slows learning through the initial
+    end-to-end strength of each mode: from streng'
+- code: THEORY-195
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: On data generated by a random hierarchical grammar, deep networks that learn features need a number
+    of examples polynomial in the input dime
+- code: THEORY-211
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of
+    the two parameter groups balances, at a rate
+- code: THEORY-223
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: When the rules that govern a system lie within its own action space, the governor's authority
+    rests on the system leaving them alone, and fu
+- code: THEORY-351
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: In a two-pilot airliner cockpit, setting the approach speeds as bugs on the airspeed indicators,
+    prepared 25 to 30 minutes ahead in a low-wo
+- code: THEORY-490
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: 'What a chat agent''s ''I'' refers to is fixed by the context of use, not by the system: the agent
+    role-plays characters that carry the self-con'
+- code: THEORY-560
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: In rodents, gut microbes can drive stress and affect-related behaviour through vagal, immune,
+    endocrine and metabolite routes, and faecal tr
+- code: THEORY-593
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 1
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: Perceptual learning can install perceiver-specific frames that change which objects a perceiver
+    individuates from the same input, so cogniti
+control:
+- code: THEORY-071
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 3
+  triage: triage-005
+  note: Minimal agency requires individuality, interactional asymmetry and self-generated normativity,
+    and individuality without the other two is no
+- code: THEORY-178
+  wave: 3
+  score: 3
+  rubric:
+    bundling: 1
+    depth: 0
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 1
+  triage: triage-005
+  note: 'Transcriptional regulation alone can make a bacterium''s gene-expression state depend on its
+    history: a transient change to one regulator can'
+- code: THEORY-306
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 0
+  triage: triage-005
+  note: Volume-maximizing joint-embedding objectives carry a prior toward equal-sized clusters, explicit
+    in MSN and SwAV and derived for VICReg only
+- code: THEORY-485
+  wave: 3
+  score: 3
+  rubric:
+    bundling: 0
+    depth: 1
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 0
+  triage: triage-005
+  note: Wave-function realism falsifies causal closure restricted to spacetime but is compatible with
+    closure relative to fundamental physics, so qu
+- code: THEORY-628
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  route: source
+  supports: 2
+  triage: triage-005
+  note: 'Self-production alone gives a system only an all-or-nothing norm, to go on or to die, and that
+    distinction is available to an observer, not '
+backtest:
+- code: THEORY-078
+  batch: batch-017
+  disposition: split
+  yielded: true
+  route: re-derivation
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+- code: THEORY-079
+  batch: batch-016
+  disposition: retain-proposed
+  yielded: false
+  route: source
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+- code: THEORY-111
+  batch: batch-016
+  disposition: split
+  yielded: true
+  route: re-derivation
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+- code: THEORY-170
+  batch: batch-016
+  disposition: retain-proposed
+  yielded: false
+  route: source
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 0
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+- code: THEORY-199
+  batch: batch-017
+  disposition: retain-proposed
+  yielded: false
+  route: source
+  score: 5
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+- code: THEORY-309
+  batch: batch-017
+  disposition: promote
+  yielded: true
+  route: re-derivation
+  score: 4
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+- code: THEORY-369
+  batch: batch-016
+  disposition: narrow-and-promote
+  yielded: true
+  route: re-derivation
+  score: 4
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+- code: THEORY-470
+  batch: batch-017
+  disposition: retain-proposed
+  yielded: false
+  route: source
+  score: 3
+  rubric:
+    bundling: 1
+    depth: 1
+    firsthand: 0
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+- code: THEORY-481
+  batch: batch-016
+  disposition: needs-correction
+  yielded: false
+  route: re-derivation
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+- code: THEORY-625
+  batch: batch-017
+  disposition: retain-proposed
+  yielded: false
+  route: source
+  score: 4
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 0
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0

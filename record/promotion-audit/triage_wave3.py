@@ -1,33 +1,44 @@
 # record/promotion-audit/triage_wave3.py
-"""Score Proposed non-mathematics THEORYs for wave 3 of the promotion audit (triage-004).
+"""Score Proposed THEORYs outside the queue for wave 3 of the promotion audit (triage-004, -005).
 
-Wave 3 is the source-backed THEORYs. The record-own re-derivation route of
-ADR-047 v2 is rarely open there, so the batch-007 notes name two predictors
-instead, both readable from one pass over the entry:
+Wave 3 is the source-backed THEORYs. Batches 016 and 017 found its yield in
+its formal members, the entries a re-derivation can settle (ADR-047 v2), and
+none of triage-004's components separated yielders from the rest. Triage-005
+therefore routes formal entries apart and scores the rest by:
 
   bundling  0-2  the promote_when asks about something the body's "What this
                  does not say" disclaims: the share of the promote_when's
                  distinctive words (not in the title) that the disclaimer also
-                 uses (>= 0.2 gives 1, >= 0.3 gives 2; about the top 45% and 20%
-                 of wave 3 on 2026-10-19)
-  depth     0-2  how deeply the THEORY's sources were read: the weakest source,
-                 each LIT taking its best NOTE. 2 = Read and the version-1
-                 history says read in full, closely or step by step; 1 = Read;
-                 0 = Skimmed, read only in outline or abstract, or no NOTE
-  firsthand 0-1  "What was actually shown" carries no mark of second-hand or
-                 partial evidence ("cited to", "asserted", "not read", "in
-                 outline", ...), THEORY-106's and THEORY-323's shape
+                 uses (>= 0.2 gives 1, >= 0.3 gives 2)
+  depth     0-2  how deeply the THEORY's sources were read: the best source,
+                 each LIT taking its best NOTE (triage-004 took the weakest,
+                 which hid THEORY-078's fully read core). 2 = Read and the
+                 version-1 history says read in full, closely or step by step;
+                 1 = Read; 0 = Skimmed, read only in outline or abstract, or no NOTE
+  firsthand 0-1  "What was actually shown" carries no mark of second-hand,
+                 partial or absent evidence ("cited to", "asserted", "nothing
+                 is measured", "no theorems", "followed as statements", ...)
   extends   0-1  triage_bundling.py's extension pattern on the promote_when
-  compound  0-1  the title joins clauses with ", so " or "; " (triage_bundling.py's
-                 wider pattern matches 96% of wave 3, so it is narrowed here)
+  compound  0-1  the title joins clauses with ", so " or "; "
+  empirical_hedged 0-1  the title reports one measured signature against an
+                 explicit contrast ("the signature of X, not of Y"), the shape
+                 ADR-047 v3 lets one fully read study promote
 
-Eligible: status Proposed, no `mathematics` tag (those are wave 2), not already
-a candidate or requeued in queue.yaml. Ties break on the number of entries the
-THEORY supports, then code. A control sample is drawn by a fixed rule from the
-eligible codes outside the ranked top. The score orders review; it decides
-nothing (ADR-047). Run from the repository root on a freshly fetched origin/main:
+and flags, without scoring it:
 
-    python3 record/promotion-audit/triage_wave3.py --out=record/promotion-audit/triage-004.yaml
+  formal    0-1  the title states a formal result (bound, theorem, identity,
+                 exact, optimal, eigenvalues, ...) AND "What was actually
+                 shown" names a theorem, proof or derivation. Formal entries
+                 take route `re-derivation`; the rest take route `source`.
+
+Eligible: status Proposed and not already a candidate or requeued in
+queue.yaml. The `mathematics` tag no longer excludes an entry: batch 011 found
+tagged measurements and batches 016-017 untagged theorems. Ties break on the
+number of entries the THEORY supports, then code. The score orders review; it
+decides nothing (ADR-047). Run from the repository root on a freshly fetched
+origin/main:
+
+    python3 record/promotion-audit/triage_wave3.py --out=record/promotion-audit/triage-005.yaml
 """
 import re
 import sys
@@ -55,7 +66,16 @@ SHALLOW = re.compile(r"in outline|outline only|abstract only|only the abstract|"
                      r"from the abstract|not read in full", re.IGNORECASE)
 COMPOUND = re.compile(r", so |; ")
 SECONDHAND = re.compile(r"cited to|\bcites\b|not read|second-hand|secondhand|in outline|asserted|"
-                        r"not checked|unread|not seen", re.IGNORECASE)
+                        r"not checked|unread|not seen|nothing is measured|nothing was (?:measured|tested)|"
+                        r"no theorems?\b|not computed|stated by no source|filer's synthesis|"
+                        r"followed as statements", re.IGNORECASE)
+FORMAL_TITLE = re.compile(r"\b(?:bound|theorem|lemma|equivalen\w*|isometr\w*|identity|exact(?:ly)?|"
+                          r"proved?|optimal|eigenvalues?|spectrum|if and only if|realized by|"
+                          r"converges?|interpolation|fixed point|minimi[sz]\w*|inequality)\b|[=≤≥∈‖∑∫]",
+                          re.IGNORECASE)
+FORMAL_SHOWN = re.compile(r"\b(?:theorem|proposition|lemma|corollary|proof|proved|proves|derived?|"
+                          r"derives|derivation|eq\.|equation|inequality|bound)\b", re.IGNORECASE)
+HEDGED = re.compile(r"\b(?:signature|profile|pattern|shape|statistics) of\b[^.;]*?,\s*not\b", re.IGNORECASE)
 HEADING = re.compile(r"^#{1,6} +(.+?) *$", re.MULTILINE)
 
 
@@ -88,6 +108,14 @@ def firsthand(shown: str) -> int:
     return int(not SECONDHAND.search(shown))
 
 
+def formal(title: str, shown: str) -> int:
+    return int(bool(FORMAL_TITLE.search(title)) and bool(FORMAL_SHOWN.search(shown)))
+
+
+def empirical_hedged(title: str) -> int:
+    return int(bool(HEDGED.search(title)))
+
+
 def note_depth(status: str | None, v1: str) -> int:
     if status != "Read" or SHALLOW.search(v1):
         return 0
@@ -109,17 +137,40 @@ def lit_depths(record: Path) -> dict[str, int]:
 
 def theory_depth(sources: list[str], depths: dict[str, int]) -> int:
     lits = [s for s in sources if str(s).startswith("LIT-")]
-    return min((depths.get(s, 0) for s in lits), default=0)
+    return max((depths.get(s, 0) for s in lits), default=0)
 
 
 def eligible(record: Path, skip: set[str]) -> list[tuple[str, dict, str]]:
     rows = []
     for p in sorted((record / "theory.d").glob("THEORY-*.md")):
         fm = frontmatter(p)
-        if not fm or fm.get("status") != "Proposed" or "mathematics" in (fm.get("tags") or []):
-            continue
-        if p.stem not in skip:
+        if fm and fm.get("status") == "Proposed" and p.stem not in skip:
             rows.append((p.stem, fm, body_of(p)))
+    return rows
+
+
+def score(code: str, fm: dict, body: str, depths: dict[str, int]) -> dict:
+    title = str(fm.get("title") or "")
+    shown = section(body, "What was actually shown")
+    rubric = {
+        "bundling": bundling(fm, section(body, "What this does not say")),
+        "depth": theory_depth(fm.get("source") or [], depths),
+        "firsthand": firsthand(shown),
+        "extends": int(bool(EXTENSION.search(str(fm.get("promote_when") or "")))),
+        "compound": int(bool(COMPOUND.search(title))),
+        "empirical_hedged": empirical_hedged(title),
+    }
+    is_formal = formal(title, shown)
+    return {"code": code, "wave": 3, "score": sum(rubric.values()),
+            "rubric": {**rubric, "formal": is_formal},
+            "route": "re-derivation" if is_formal else "source",
+            "supports": len(fm.get("supports") or []), "triage": "triage-005", "note": title[:140]}
+
+
+def score_rows(record: Path, skip: set[str]) -> list[dict]:
+    depths = lit_depths(record)
+    rows = [score(code, fm, body, depths) for code, fm, body in eligible(record, skip)]
+    rows.sort(key=lambda r: (-r["score"], -r["supports"], r["code"]))
     return rows
 
 
@@ -135,36 +186,47 @@ def queued(queue: Path) -> set[str]:
     return {c["code"] for c in q.get("candidates") or []} | {r["code"] for r in q.get("requeue") or []}
 
 
+def backtest(record: Path, queue: Path, batches: tuple[str, ...]) -> list[dict]:
+    """Score already-reviewed wave-3 candidates of `batches` as if new, beside their dispositions."""
+    q = yaml.safe_load(queue.read_text())
+    depths = lit_depths(record)
+    out = []
+    for c in q.get("candidates") or []:
+        if c.get("batch") not in batches:
+            continue
+        p = record / "theory.d" / f"{c['code']}.md"
+        fm = frontmatter(p)
+        r = score(c["code"], fm, body_of(p), depths)
+        out.append({"code": c["code"], "batch": c["batch"], "disposition": c["disposition"],
+                    "yielded": c["disposition"] in {"promote", "narrow-and-promote", "split"},
+                    "route": r["route"], "score": r["score"], "rubric": r["rubric"]})
+    return sorted(out, key=lambda r: r["code"])
+
+
 def main(record: str = "record", queue: str = "record/promotion-audit/queue.yaml",
-         out: str = "", top: int = 20) -> None:
-    root = Path(record)
-    depths = lit_depths(root)
-    rows = []
-    for code, fm, body in eligible(root, queued(Path(queue))):
-        rubric = {
-            "bundling": bundling(fm, section(body, "What this does not say")),
-            "depth": theory_depth(fm.get("source") or [], depths),
-            "firsthand": firsthand(section(body, "What was actually shown")),
-            "extends": int(bool(EXTENSION.search(str(fm.get("promote_when") or "")))),
-            "compound": int(bool(COMPOUND.search(str(fm.get("title") or "")))),
-        }
-        rows.append({"code": code, "wave": 3, "score": sum(rubric.values()), "rubric": rubric,
-                     "supports": len(fm.get("supports") or []), "triage": "triage-004",
-                     "note": str(fm.get("title") or "")[:140]})
-    rows.sort(key=lambda r: (-r["score"], -r["supports"], r["code"]))
-    ranked = rows[:top]
-    ctrl_codes = control([r["code"] for r in rows], {r["code"] for r in ranked})
+         out: str = "", top: int = 15) -> None:
+    root, qpath = Path(record), Path(queue)
+    rows = score_rows(root, queued(qpath))
+    formal_rows = [r for r in rows if r["route"] == "re-derivation"]
+    source_rows = [r for r in rows if r["route"] == "source"]
+    ranked = source_rows[:top]
+    ctrl_codes = control([r["code"] for r in source_rows], {r["code"] for r in ranked})
     by_code = {r["code"]: r for r in rows}
     hist: dict[int, int] = {}
-    for r in rows:
+    for r in source_rows:
         hist[r["score"]] = hist.get(r["score"], 0) + 1
-    logger.info(f"{len(rows)} eligible; score distribution {dict(sorted(hist.items(), reverse=True))}")
-    result = {"eligible": len(rows), "distribution": dict(sorted(hist.items(), reverse=True)),
-              "ranked": ranked, "control": [by_code[c] for c in ctrl_codes]}
+    logger.info(f"{len(rows)} eligible; {len(formal_rows)} routed to re-derivation; "
+                f"source-route distribution {dict(sorted(hist.items(), reverse=True))}")
+    result = {"eligible": len(rows), "formal_routed": len(formal_rows),
+              "distribution": dict(sorted(hist.items(), reverse=True)),
+              "formal_route": formal_rows[:top], "ranked": ranked,
+              "control": [by_code[c] for c in ctrl_codes],
+              "backtest": backtest(root, qpath, ("batch-016", "batch-017"))}
+    text = yaml.safe_dump(result, sort_keys=False, allow_unicode=True, width=100)
     if out:
-        Path(out).write_text(yaml.safe_dump(result, sort_keys=False, allow_unicode=True, width=100))
+        Path(out).write_text(text)
     else:
-        print(yaml.safe_dump(result, sort_keys=False, allow_unicode=True, width=100))
+        print(text)
 
 
 if __name__ == "__main__":
