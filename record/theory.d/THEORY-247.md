@@ -1,22 +1,25 @@
 ---
 number: 247
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7x3wf
-promote_when: >-
-  An independent check of the identification and of Lemma 1. That could
-  be a proof in the bisimulation literature, or in the adapted-transport
-  literature, that the Desharnais–van Breugel–Worrell metric of a finite
-  action-free labelled chain equals the bicausal transport cost with
-  ground cost (1−γ)|r(x)−r(y)|, or a machine-checked or refereed
-  derivation of the occupancy-coupling LP. It is refuted by a pair of
-  finite labelled chains on which the two quantities, each computed
-  exactly, differ. What cannot settle it: further runs of Sinkhorn Value
-  Iteration that agree with older solvers, since those solve the same
-  fixed-point equation and would agree whether or not the identification
-  with the logical metric holds.
-title: 'For finite labelled Markov chains, the discounted bisimulation metric is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings'
-version: 1
+title: 'For finite action-free labelled Markov chains, the discounted bisimulation metric, defined as the unique fixed point of Ferns et al.''s equation, is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-247.yaml, batch 006, ADR-047).
+    The title now names the fixed-point definition of the metric. Its
+    equality with the logical bisimulation metric, and that distance zero
+    means bisimilar, are cited in LIT-962, not proved, and are now under
+    "What this does not say". The promote_when asked for an independent
+    check of the identification and of Lemma 1, or a refereed derivation.
+    LIT-962 is refereed (NeurIPS 2024), and both steps were re-derived for
+    the review by an independent route, written out in the note below. The
+    promote_when is removed.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -36,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-008 CLAIM-034 THEORY-280 — Deferred or Proposed; the set-aside question this bears on, its surviving one-way claim, and the companion account filed the same day, cited as open -->
 
-# THEORY-247: For finite labelled Markov chains, the discounted bisimulation metric is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings
+# THEORY-247: For finite action-free labelled Markov chains, the discounted bisimulation metric, defined as the unique fixed point of Ferns et al.'s equation, is a bicausal optimal-transport distance, and it equals the value of a finite linear program over occupancy couplings
 
 ## Source
 
@@ -89,6 +92,12 @@ since I − γZ is invertible.
   MDP metric, which takes a maximum over actions, is mentioned and not
   recast as transport. A communicative system updated by a chosen
   utterance is the action case.
+- **Not that the fixed point is the logical bisimulation metric.** The
+  equality of this fixed point with the Desharnais–van Breugel–Worrell
+  metric, a supremum over a grammar of functional expressions, is van
+  Breugel and Worrell's theorem, cited in [LIT-962](../literature.d/LIT-962.md) and not proved there
+  ([NOTE-757](../notes.d/NOTE-757.md), claim C6, "second-hand"). This THEORY holds the fixed-point
+  form only.
 - **Not a new proof that the metric characterises bisimilarity.** That
   distance zero means bisimilar is cited from van Breugel and Worrell
   (2001) and Desharnais et al. (2002). Calo et al. do not reprove it.
@@ -119,3 +128,23 @@ since I − γZ is invertible.
   the paper does not give.
 - **[THEORY-280](THEORY-280.md)** builds on this LP and makes the same quantity
   estimable from samples.
+
+## Note of 2026-10-19: the two checks, by an independent route
+
+**The identification.** For any cost c, define
+(T V)(xy) = c(xy) + γ min over p in Π_xy of Σ p(x′y′) V(x′y′). A minimum of
+linear functionals over one fixed set is 1-Lipschitz in sup norm, since each
+p is a probability vector. So ‖T V − T W‖∞ ≤ γ ‖V − W‖∞, and T has a unique
+fixed point. With c(xy) = (1−γ)|r(x) − r(y)|, Eq. 3 and Eq. 5 are the same
+operator, so their unique fixed points coincide.
+
+**Lemma 1, as an occupancy-measure LP.** Read the pairs xy as the states of
+a finite MDP whose actions at xy are the couplings in Π_xy. A stationary
+coupling π gives an occupancy measure µ_π that satisfies the flow
+constraint and both coherence constraints. Conversely, take a feasible µ
+with pair marginal ν. Where ν > 0, set π = µ/ν, and take any coupling
+elsewhere. Coherence makes π a coupling of the two next-state laws. Then ν
+solves νᵀ = (1−γ)δᵀ + γνᵀZ_π, and I − γZ_π is invertible, so that
+solution is unique and µ = µ_π. The objective ⟨µ, c⟩ is the discounted
+cost of π times (1−γ), so the LP's minimum is (1−γ)W_γ, by Theorem 3. This
+is the textbook occupancy-measure argument, not the paper's own text.

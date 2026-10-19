@@ -35,7 +35,7 @@ summary: >-
 answers:
 - QUESTION-060
 ---
-<!-- inactive-ok-file: THEORY-197 THEORY-206 THEORY-274 — Proposed; accounts on the same question, open -->
+<!-- inactive-ok-file: THEORY-197 THEORY-274 — Proposed; accounts on the same question, open -->
 
 # THEORY-256: When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); small transformers trained by next-token prediction on such processes settle near that dimension in approximately orthogonal subspaces, and reach it first even when noise makes it lossy
 

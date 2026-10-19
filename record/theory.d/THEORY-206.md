@@ -1,19 +1,25 @@
 ---
 number: 206
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmppv845
-promote_when: >-
-  A proof, read and checked, that the lower bound ∏(rᵢ+1) for one hidden
-  layer holds for uniform approximation on a box and not only for Taylor
-  matching at the origin, and either that it survives hidden-layer
-  biases or a statement of what replaces it with them. Against it: a
-  family of one-hidden-layer networks with fewer neurons converging
-  uniformly to a monomial, or a bias-free construction beating the
-  bound. More trained-network experiments on products cannot settle it,
-  since they measure what training finds, not what exists.
-title: 'For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to approximate the monomial x₁^r₁⋯xₙ^rₙ and a deep network O(Σ log rᵢ), so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not'
-version: 1
+title: 'For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to match the monomial x₁^r₁⋯xₙ^rₙ''s Taylor polynomial at the origin, and a deep network O(Σ log rᵢ), with the upper bounds holding for uniform approximation too, so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-206.yaml, batch 006, ADR-047).
+    The title's "to approximate" bundled two theorems. The Taylor-matching
+    bound for bias-free networks is proved in LIT-890 (Theorem 4.2) and
+    checked in NOTE-693, and its lower bound was re-derived for the review,
+    as written in the note below. The uniform-approximation lower bound
+    rests on a step that fails, and the biased case is untreated. The
+    promote_when asked for those two, and it moves unchanged to
+    QUESTION-tmpg2gry. The title now says "match its Taylor polynomial at
+    the origin", keeping the uniform upper bounds.
 tags:
 - mathematics
 - learning-theory
@@ -36,7 +42,7 @@ supports:
 ---
 
 
-# THEORY-206: For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to approximate the monomial x₁^r₁⋯xₙ^rₙ and a deep network O(Σ log rᵢ), so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not
+# THEORY-206: For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to match the monomial x₁^r₁⋯xₙ^rₙ's Taylor polynomial at the origin, and a deep network O(Σ log rᵢ), with the upper bounds holding for uniform approximation too, so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not
 
 ## Source
 
@@ -76,7 +82,9 @@ univariate polynomial of degree d needs only d+1), and it is not.
 - **Not a uniform-approximation lower bound.** The paper claims one
   (Theorem 4.1), but its proof assumes that uniform closeness forces the
   Taylor coefficients close, which fails for networks in general
-  (ε·tanh(x/ε²) is within ε of 0 with first coefficient 1/ε).
+  (ε·tanh(x/ε²) is within ε of 0 with first coefficient 1/ε). Whether the
+  bound holds uniformly, and what replaces it with biases, is
+  [QUESTION-tmpg2gry](../questions.d/QUESTION-tmpg2gry.md).
 - **Not about standard networks.** No biases, smooth σ with nonzero
   low-order coefficients; ReLU and tanh fall outside. Neuron counts are
   finite only because weights are unbounded.
@@ -88,3 +96,21 @@ univariate polynomial of degree d needs only d+1), and it is not.
   [QUESTION-025](../questions.d/QUESTION-025.md)'s lattices of binary attributes. And no instruction for
   machine learning: the paper's depth rule of thumb is not part of this
   account.
+
+## Note of 2026-10-19: the lower bound, re-derived
+
+Let f = Σ_j w_j σ(a_j·x), with σ_e the e-th Taylor coefficient of σ, and let
+f_e = σ_e Σ_j w_j (a_j·x)^e be its degree-e homogeneous part. Suppose the
+rows a_j^S, one for each sub-multiset S of the monomial's variables, were
+linearly dependent: q(a) = Σ_S λ_S a^S vanishes at every a_j. Let K be the
+largest |S| with λ_S ≠ 0. Since ∂^S (a·x)^e = (e!/(e−|S|)!) a^S (a·x)^(e−|S|),
+the choice μ_S = λ_S (d−K)! / (σ_(d−K+|S|) (d−K+|S|)!) gives
+
+Σ_S μ_S ∂^S f_(d−K+|S|) = Σ_j w_j q(a_j) (a_j·x)^(d−K) = 0.
+
+Taylor matching forces f_e = 0 for e < d and f_d = x₁^r₁⋯xₙ^rₙ. So only the
+terms with |S| = K survive on the left, and the sum is Σ_(|S|=K) μ_S ∂^S
+x^r. That is a combination of distinct monomials x^(r−S) with nonzero
+coefficients, so it is not 0, which is a contradiction. The ∏(rᵢ+1) rows
+are therefore independent, and the network has at least ∏(rᵢ+1) neurons.
+The argument uses σ_e ≠ 0 only for d − K ≤ e ≤ d.
