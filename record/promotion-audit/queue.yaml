@@ -1,16 +1,24 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 26
+version: 27
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-004
-  state: in_review
+  state: reviewed
   in_review: null
-  next_step: 'Batch 004 (wave 4, dependency unlocks) is open: CLAIM-269, CLAIM-322, CLAIM-090, CLAIM-056,
-    CLAIM-191, in that order. Finish the one in_review, then the next pending of these.'
+  next_step: 'Batch 004 (wave 4) is reviewed. Open PRs, all from this audit: #165 (first audit, its second
+    pass and follow-up), #166 (this ledger), #167 (promote CLAIM-267, CLAIM-270), #168 (warrants of CLAIM-077,
+    CLAIM-098), #169 (split CLAIM-285), #170 (promote CLAIM-313, with CLAIM-310''s one-copy condition),
+    #171 (correct CLAIM-308, CLAIM-251), #172 (corrections of CLAIM-188, CLAIM-193). PRs pending: the
+    splits of CLAIM-063 and CLAIM-037 (fork A), the promotions of CLAIM-268 and CLAIM-107 (fork B), and
+    CLAIM-056''s warrant correction (batch 004; can ride with another warrant PR). Gated on #165 merging:
+    split CLAIM-269 and promote CLAIM-322 (decisions/CLAIM-269.yaml, CLAIM-322.yaml), then requeue CLAIM-123
+    and CLAIM-326. Next batch: wave 2 seeding, not wave 4. Grep THEORY promote_when texts for ''Done'',
+    ''met'' or ''confirmed'' (a half-met condition), triage 20-30, and review the top five as batch-005.
+    Wave 4 has little left whose dependents have no other Proposed premise.'
   cautions:
   - 'PR #165 is open. Its tmp codes (CLAIM-tmpzk12h and others) are concretized at merge; update decisions/
     when they are.'
@@ -605,3 +613,7 @@ history:
 - version: 26
   date: '2026-10-19'
   note: 'Batch 004: CLAIM-191 decided (retain-proposed).'
+- version: 27
+  date: '2026-10-19'
+  note: 'Batch 004 closed: CLAIM-269 split, CLAIM-322 promote (both after #165), CLAIM-056 needs-correction,
+    CLAIM-090 and CLAIM-191 retain-proposed. Hand-off points to wave 2 next.'

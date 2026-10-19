@@ -144,3 +144,30 @@ decision files do not say.
   #167, or batch 002's follow-ups).
 - Wave 2 seeding (THEORY `promote_when` texts with "Done", "met" or
   "confirmed") is still untried.
+
+## 2026-10-19 — batch 004 (wave 4)
+
+**Patterns.**
+
+- *Count the dependent's other Proposed premises.* Promoting a formal
+  premise unlocked an entry only when nothing else under it was Proposed
+  (CLAIM-322) or when the remaining premise could be swapped for an Active
+  one (CLAIM-269, onto THEORY-004). Every dependent that also rests on an
+  interpretive premise was retained.
+- *Find dependents mechanically.* List the Proposed entries whose
+  rests_on or grounds include a just-promoted code, with their other
+  non-Active premises beside them. Twelve matched. The hand-off's guesses
+  included two Active entries (CLAIM-310, ARG-006), which can be corrected
+  but not promoted.
+- *Pattern 1 again.* CLAIM-056, like CLAIM-193, is a "demonstrated"
+  application whose formal core was split off under ADR-040, and its
+  defeat condition is empirical. Every ADR-040 application claim with a
+  demonstrated warrant should be suspected of this. CLAIM-081 is the next
+  one.
+
+**Open threads.**
+
+- Batch 004's two promotion paths both wait on #165. Once it merges, one
+  PR can split CLAIM-269 and promote CLAIM-322.
+- Wave 2 seeding is still untried, and it is the better next batch.
+  Wave 4 has little left with zero other Proposed premises.
