@@ -1,0 +1,90 @@
+# record/promotion-audit/batches/batch-017.yaml
+batch: batch-017
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+selection: >-
+  Triage-004's control sample (triage-004.yaml, `control`): every k-th of the
+  sorted wave-3 codes outside its top 20. THEORY-078, THEORY-199, THEORY-309,
+  THEORY-470, THEORY-625. Batch 016 reviews triage-004's top five in
+  parallel.
+reviewed: [THEORY-078, THEORY-199, THEORY-309, THEORY-470, THEORY-625]
+outcomes:
+  promote: [THEORY-309]
+  split: [THEORY-078]
+  retain-proposed: [THEORY-199, THEORY-470, THEORY-625]
+yield: 2 of 5 found a promotion path
+rubric_vs_outcome:
+  # triage-004 components: bundling, depth, firsthand, extends, compound
+  - code: THEORY-078
+    rubric: {bundling: 1, depth: 0, firsthand: 1, extends: 1, compound: 1}
+    score: 4
+    outcome: split
+    mattered: >-
+      Compound (the title's "so" joins exact algebra to a measured
+      attribution) and the formal content. Depth scored 0 because the weakest
+      source sets it, but the NOTE for the source that holds the core
+      (NOTE-479) is a full reading of the derivations. The weakest-source rule
+      hid the depth that mattered.
+  - code: THEORY-199
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 0, compound: 0}
+    score: 5
+    outcome: retain-proposed
+    mattered: >-
+      None of the components. The reading was full and the disclaimers do
+      mention the promote_when's subject ("Not proved"). But the source itself
+      proves only an approximation, so the title outruns every source.
+  - code: THEORY-309
+    rubric: {bundling: 0, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 5
+    outcome: promote
+    mattered: >-
+      Depth (the passage was read closely and the argument checked) and the
+      formal content, which ADR-047 v2 lets the record re-derive. Bundling was
+      correctly 0, and this was a promote, not a split.
+  - code: THEORY-470
+    rubric: {bundling: 1, depth: 1, firsthand: 1, extends: 0, compound: 1}
+    score: 4
+    outcome: retain-proposed
+    mattered: >-
+      None. Firsthand misfired: the section says nothing was measured, but it
+      has no "cited to" or "asserted" marker.
+  - code: THEORY-625
+    rubric: {bundling: 1, depth: 2, firsthand: 1, extends: 0, compound: 1}
+    score: 5
+    outcome: retain-proposed
+    mattered: >-
+      None. A full reading of a paper that asserts its premises leaves them
+      asserted.
+finding: >-
+  In wave 3's control, the two promotion paths were both formal results:
+  exact linear algebra (THEORY-078's decomposition) and a construction
+  (THEORY-309's trivial POVMs). Each carried no `mathematics` tag, and each
+  went through the wave-2 route of a re-derivation under ADR-047 v2. The
+  three non-formal entries (an annealed-approximation physics claim, a
+  political-economy causal claim, a conceptual analysis) all retain. None
+  of triage-004's five components separated the yielders from the rest:
+  scores of 4 and 5 appear on both sides, and the one component that
+  differed, depth on THEORY-078, pointed the wrong way. What predicted
+  yield was whether the title, or a clause of it, is a formal statement the
+  source derives.
+recommendation: >-
+  For wave 3, add a "formal content" flag to the triage. Mark entries whose
+  "What was actually shown" names a lemma, theorem, equation derivation or
+  construction that the NOTE says it followed or checked. Route them to the
+  wave-2 procedure. Expect the non-formal remainder of wave 3 to yield
+  rarely (0 of 3 here). Sample it rather than rank it, as NOTES already
+  recommends for wave 5. Compare with batch 016's top five before changing
+  triage_wave3.py. Five entries cannot separate a ranked list from a
+  control.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-309: promote, with the general-scenario re-derivation as a dated note (ADR-047 v2)."
+  - "THEORY-078: split. A new Active THEORY holds LIT-619's exact decomposition, rank and eigenvalue inequalities, with the re-derivation as a dated note. THEORY-078 extends it and keeps the attribution Proposed."
+notes_for_ledger:
+  - "Wave 3's control: 2 of 5, both formal. Non-formal entries 0 of 3. Triage-004's components did not discriminate."
+  - "triage_wave3.py's depth takes the weakest source, which hides a full reading of the source that holds the core (THEORY-078: depth 0, though NOTE-479 read the derivations in full). Consider taking depth from the NOTE of the source that the accepted clause cites, or the maximum over sources."
+  - "triage_wave3.py's firsthand misfires on entries whose 'What was actually shown' opens 'Nothing is measured' (THEORY-470). Add negative phrases such as 'nothing is measured' and 'no theorems'."
+  - "The `mathematics` tag under-marks formal results. Triage-004's own report of untagged formal entries (THEORY-248, -369, -198, -315) and this batch's THEORY-078 and THEORY-309 point the same way."
+  - "Annealed or mean-field derivations (THEORY-199) are a recurring non-yielder. The source proves the approximation exactly, not the title's claim about the exact model. Read the claims table for 'strong for the map' or 'numerical fidelity'."

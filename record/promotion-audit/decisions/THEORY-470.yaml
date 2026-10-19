@@ -1,0 +1,28 @@
+# record/promotion-audit/decisions/THEORY-470.yaml
+id: THEORY-470
+batch: batch-017
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is a causal claim, decay caused by the weakening of
+    four constraints and reversible by restoring them, argued from examples
+    chosen after the fact. Nothing is measured. The entry says so itself
+    ("Nothing is measured. The talk argues from examples").
+evidence:
+  - "NOTE-041 reads a speech crib (LIT-033), not an argued essay. Several figures are unsourced (C3, C4), and two legal examples are misstated (C6, C7)."
+  - "The promote_when asks for a comparison across platforms that differ in the four constraints. The record holds none, and none is in prospect from the source."
+blockers:
+  - "No comparative or longitudinal evidence that decay tracks the four constraints. The account was told from the cases that would test it."
+notes: >-
+  The entry has no separable core. It has no formal result, and "Doctorow
+  argues X" is a reading, already held by NOTE-041, not a claim to promote.
+  Triage-004 gave it firsthand 1, because "What was actually shown" has no
+  "cited to" or "asserted" marker. But that section says nothing was shown,
+  so the component misfired here.
+unlocks: []
+next_action: None.

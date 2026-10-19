@@ -1,0 +1,67 @@
+# record/promotion-audit/decisions/THEORY-309.yaml
+id: THEORY-309
+batch: batch-017
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as it stands. The review (LIT-263 §IV.B.2, Eqs. 27–28, read
+    closely in NOTE-844) proves the CHSH case. NOTE-844 checked the
+    extension. The promote_when asks for a source that states the general
+    version. Under ADR-047 v2, a checked step-by-step re-derivation of that
+    version, written here, meets it.
+
+    Re-derivation (ADR-047 v2). A marginal scenario is a set of observables,
+    each X with a finite outcome set O_X, and a cover of contexts C, which
+    are sets of observables. A behaviour assigns a distribution p_C on
+    O_C = Π_{X∈C} O_X to each context. It is nondisturbing, or locally
+    consistent, when for any contexts C and C′ the marginals of p_C and
+    p_C′ on C ∩ C′ agree.
+    (1) Take the one-dimensional Hilbert space ℂ and its only state, ρ = 1.
+    (2) For each context C and each a_C ∈ O_C, put G^C_{a_C} := p_C(a_C)·𝟙.
+    Each is a non-negative multiple of 𝟙, so positive, and
+    Σ_{a_C} G^C_{a_C} = 𝟙. So G^C is a POVM on O_C.
+    (3) For X ∈ C, its induced POVM is
+    E^{X,C}_a := Σ_{a_C : a_C(X) = a} G^C_{a_C} = p_C|_X(a)·𝟙.
+    (4) Local consistency applied to {X} ⊆ C ∩ C′ gives p_C|_X = p_C′|_X for
+    any two contexts containing X. So E^{X,C} = E^{X,C′} =: E^X. Each
+    observable is one POVM, the same in every context, and every context's
+    observables are jointly measurable, with G^C as the joint POVM.
+    (5) Born's rule gives tr(ρ G^C_{a_C}) = p_C(a_C). Every context's
+    statistics are reproduced, in particular those of behaviours with no
+    global section (the PR box, and every maximally contextual behaviour).
+    (6) Hence, if "context" means "jointly measurable set", every
+    nondisturbing behaviour has a quantum realization with effects
+    proportional to the identity. So contextuality relative to that notion
+    of context distinguishes nothing. That is what the title's "needs a
+    stronger operational notion of context" asserts, and what the review
+    concludes.
+    Only single-observable consistency is used for the construction to be
+    well defined. Full nondisturbance is what makes the reproduced
+    behaviour the given one on overlaps. Both hold for a nondisturbing
+    behaviour.
+  excluded: >-
+    Nothing in the title. The body's disclaimers stand: joint measurability
+    remains necessary, sharp-measurement Kochen–Specker contextuality is not
+    trivial, and which stronger criterion is right is left open.
+evidence:
+  - "NOTE-844 (Read; §IV.B.2 among the passages 'read closely and their arguments checked'): 'I checked the construction, and it extends to any scenario with nondisturbing data.'"
+  - "LIT-263 Eqs. 27–28: the CHSH construction, and the review's statement that it 'extends straightforwardly to any arbitrary contextuality scenario'."
+  - "The general construction is re-derived step by step above."
+blockers: []
+notes: >-
+  The promote_when held the entry back only for a primary source, because
+  the general version stood on the record's own derivation. This is the
+  case ADR-047 v2 was written for. The entry has no `mathematics` tag. In
+  triage-004 it scored bundling 0, which correctly found no bundling, so
+  bundling did not predict this. The yield came from the formal content.
+unlocks:
+  - "THEORY-012 and QUESTION-067 cite this account in Connections. Neither rests on it."
+next_action: >-
+  Promotion PR. Set THEORY-309 Active and remove promote_when. Add a dated
+  history note citing this decision, and copy the re-derivation into the
+  body under "What was actually shown". Trim stale inactive-ok directives
+  naming THEORY-309.
