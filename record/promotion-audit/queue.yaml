@@ -1,24 +1,16 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 20
+version: 21
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batch-003
-  state: reviewed
-  in_review: null
-  next_step: 'Batch 003 is reviewed. Open PRs: #165 (first audit, its second pass and follow-up), #166
-    (this ledger), #167 (promote CLAIM-267, CLAIM-270), #168 (warrants of CLAIM-077, CLAIM-098), #169
-    (split CLAIM-285). Not yet opened: the follow-up PRs of batch 002 and batch 003 (batches/batch-00{2,3}.yaml
-    follow_up_prs, at most three entries each). Wave 1''s yield fell to 2 of 5. The remaining wave-1 candidates
-    mostly have Proposed premises, so a wave-4 dependency pass is the better next batch once #165 and
-    #167 merge: CLAIM-269 (re-ground on THEORY-004 and THEORY-008 finite-M; see decisions/CLAIM-193.yaml
-    unlocks), CLAIM-310 (after CLAIM-313), ARG-006 (after the CLAIM-063 split), CLAIM-056 and then CLAIM-081
-    (after CLAIM-267 and CLAIM-270 are Active; both still rest on CLAIM-106). Otherwise batch-004 takes
-    the next five pending in queue order, skipping requeue: CLAIM-212, CLAIM-228, CLAIM-269, CLAIM-056,
-    CLAIM-206.'
+  batch: batch-004
+  state: in_review
+  in_review: CLAIM-269
+  next_step: 'Batch 004 (wave 4, dependency unlocks) is open: CLAIM-269, CLAIM-322, CLAIM-090, CLAIM-056,
+    CLAIM-191, in that order. Finish the one in_review, then the next pending of these.'
   cautions:
   - 'PR #165 is open. Its tmp codes (CLAIM-tmpzk12h and others) are concretized at merge; update decisions/
     when they are.'
@@ -357,19 +349,19 @@ candidates:
   - THEORY-156
   state: pending
 - code: CLAIM-269
-  wave: 1
-  score: 13
+  wave: 4
+  score: 16
   rubric:
-    evidence: 3
+    evidence: 4
     scope: 4
     downstream: 2
-    cost: 1
+    cost: 3
     risk: 3
   proposed_deps:
   - THEORY-008
   - THEORY-002
   - THEORY-019
-  state: pending
+  state: in_review
 - code: CLAIM-326
   wave: 1
   score: 13
@@ -383,7 +375,7 @@ candidates:
   - THEORY-156
   state: pending
 - code: CLAIM-056
-  wave: 1
+  wave: 4
   score: 12
   rubric:
     evidence: 3
@@ -393,7 +385,6 @@ candidates:
     risk: 1
   proposed_deps:
   - CLAIM-106
-  - CLAIM-267
   state: pending
 - code: CLAIM-206
   wave: 1
@@ -466,6 +457,44 @@ candidates:
   disposition: split
   batch: batch-000
   decision: decisions/THEORY-087.yaml
+- code: CLAIM-322
+  wave: 4
+  score: 15
+  rubric:
+    evidence: 4
+    scope: 2
+    downstream: 2
+    cost: 4
+    risk: 3
+  proposed_deps:
+  - CLAIM-264
+  state: pending
+- code: CLAIM-090
+  wave: 4
+  score: 12
+  rubric:
+    evidence: 3
+    scope: 2
+    downstream: 3
+    cost: 2
+    risk: 2
+  proposed_deps:
+  - LIT-768
+  state: pending
+- code: CLAIM-191
+  wave: 4
+  score: 10
+  rubric:
+    evidence: 2
+    scope: 2
+    downstream: 3
+    cost: 1
+    risk: 2
+  proposed_deps:
+  - CLAIM-177
+  - CLAIM-182
+  - CLAIM-002
+  state: pending
 history:
 - version: 1
   date: '2026-10-19'
@@ -540,3 +569,9 @@ history:
   date: '2026-10-19'
   note: 'carried_out_in recorded for batch 002-003 decisions: CLAIM-313 in #170; CLAIM-308 and CLAIM-251
     in #171; the rest pending.'
+- version: 21
+  date: '2026-10-19'
+  note: 'Batch 004 opened as a wave-4 pass. Candidates are the Proposed entries resting on something promoted
+    on main or in an open PR (#165, #167, #170), found from rests_on and grounds, and scored by hand:
+    CLAIM-269, CLAIM-322, CLAIM-090, CLAIM-056, CLAIM-191. CLAIM-269 and CLAIM-056 move from wave 1. CLAIM-310
+    and ARG-006 were named in the hand-off but are Active, so they are not promotion candidates.'
