@@ -32,7 +32,6 @@ summary: >-
   to whether it is right.
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this reading sits beside, open -->
-<!-- inactive-ok-file: THEORY-321 — Proposed; the account filed from this reading, open -->
 
 # NOTE-840: Golub & Jackson — Naïve Learning in Social Networks and the Wisdom of Crowds
 
