@@ -35,7 +35,7 @@ summary: >-
 answers:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-229 THEORY-187 THEORY-204 THEORY-201 THEORY-180 — Proposed; accounts this one is set beside, none of them rested on -->
+<!-- inactive-ok-file: THEORY-229 THEORY-204 THEORY-201 THEORY-180 — Proposed; accounts this one is set beside, none of them rested on -->
 
 # THEORY-283: For a two-layer network on a hierarchical multi-index target with Gaussian inputs, direction k becomes recoverable at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples, and a target-agnostic spectral estimator reaches the Bayes-optimal rates
 

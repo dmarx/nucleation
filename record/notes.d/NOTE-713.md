@@ -24,7 +24,7 @@ summary: >-
   on VGG-16 with Tiny ImageNet. The noise covariance annihilates the
   generators (§5, App. F).
 ---
-<!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-211 — Proposed; the accounts this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-209 THEORY-210 — Proposed; the accounts this reading bears on, open -->
 
 # NOTE-713: Neural Mechanics
 

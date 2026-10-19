@@ -25,7 +25,7 @@ summary: >-
   Drawn by the assistant from reading both, and filed at the owner's
   request.
 ---
-<!-- inactive-ok-file: THEORY-212 THEORY-211 THEORY-186 — Proposed; the two accounts this question sets against each other, and the balanced case, open -->
+<!-- inactive-ok-file: THEORY-212 THEORY-186 — Proposed; the two accounts this question sets against each other, and the balanced case, open -->
 
 # QUESTION-081: When the relative scale of a network's layers sets its learning regime under gradient flow, does that regime survive SGD, whose minibatch noise drives the relative scale toward balance, and on what timescale compared with learning?
 

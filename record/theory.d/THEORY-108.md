@@ -46,7 +46,6 @@ summary: >-
 answers:
 - QUESTION-069
 ---
-<!-- inactive-ok-file: THEORY-211 — Proposed; the account whose minimal model has a temperature-driven transition, open -->
 <!-- inactive-ok-file: THEORY-087 THEORY-078 — Proposed; named in Connections for what endpoint curvature measures, nothing here rests on them -->
 
 # THEORY-108: Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature

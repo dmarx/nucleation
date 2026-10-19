@@ -26,7 +26,6 @@ summary: >-
 grounds:
 - THEORY-211
 ---
-<!-- inactive-ok-file: THEORY-211 — Proposed; the learning-dynamics instance filed on 2026-10-13, open -->
 
 # CLAIM-093: Not every invariance of a stochastic or communicative process implies a Noether conservation law: the symmetry principle can be borrowed, a conservation analogue has to be derived
 

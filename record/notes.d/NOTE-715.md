@@ -24,7 +24,7 @@ summary: >-
   starts, each singular value moves by a λ-dependent transition function:
   sigmoidal as λ → 0, exponential 1 − e^{−|λ|t/τ} as |λ| → ∞ (Theorem 5.1).
 ---
-<!-- inactive-ok-file: THEORY-186 THEORY-211 THEORY-212 QUESTION-081 — Proposed or Open; readings, the account filed from this one and the question it raises, open -->
+<!-- inactive-ok-file: THEORY-186 THEORY-212 QUESTION-081 — Proposed or Open; readings, the account filed from this one and the question it raises, open -->
 
 # NOTE-715: From Lazy to Rich: Exact Learning Dynamics in Deep Linear Networks
 

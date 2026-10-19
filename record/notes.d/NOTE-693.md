@@ -35,7 +35,7 @@ summary: >-
   degree, so bounded-degree polynomials show none.
 ---
 <!-- inactive-ok-file: THEORY-200 — Proposed; named as a neighbour this reading has no bearing on -->
-<!-- inactive-ok-file: THEORY-195 THEORY-201 THEORY-183 THEORY-186 QUESTION-025 CLAIM-042 CLAIM-119 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question and claims it bears on -->
+<!-- inactive-ok-file: THEORY-201 THEORY-183 THEORY-186 QUESTION-025 CLAIM-042 CLAIM-119 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question and claims it bears on -->
 
 # NOTE-693: The power of deeper networks for expressing natural functions
 

@@ -33,7 +33,7 @@ summary: >-
   synonyms, exceed sampling noise; removing those statistics makes deep
   networks fail as well.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-185 THEORY-186 THEORY-195 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-185 THEORY-186 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading produced or bears on -->
 
 # NOTE-677: The Random Hierarchy Model
 

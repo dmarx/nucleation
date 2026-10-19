@@ -32,7 +32,7 @@ summary: >-
   forward–backward runs of an ImageNet diffusion model, and not for a
   Gaussian mixture.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-195 THEORY-186 THEORY-199 — Proposed or open; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-186 THEORY-199 — Proposed or open; cited as what this reading produced or bears on -->
 
 # NOTE-685: A Phase Transition in Diffusion Models
 

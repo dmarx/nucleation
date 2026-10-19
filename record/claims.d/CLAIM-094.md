@@ -26,7 +26,6 @@ summary: >-
   is the mean-only condition, which the cited theorem's counterexample
   shows is weaker than commuting with the generator.
 ---
-<!-- inactive-ok-file: THEORY-211 — Proposed; the account the converse case comes from, open -->
 
 # CLAIM-094: A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry
 

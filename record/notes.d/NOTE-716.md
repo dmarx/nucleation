@@ -24,7 +24,7 @@ summary: >-
   the Lyapunov exponent E log|1 − λ(ξ + γ)| < 0. Corollaries: sparsity,
   low rank, homogeneous neurons (Theorems 2–4).
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-211 THEORY-210 THEORY-213 QUESTION-080 QUESTION-058 — Proposed or Open; the accounts and questions this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-083 THEORY-210 THEORY-213 QUESTION-080 QUESTION-058 — Proposed or Open; the accounts and questions this reading bears on, open -->
 
 # NOTE-716: Symmetry Induces Structure and Constraint of Learning
 
