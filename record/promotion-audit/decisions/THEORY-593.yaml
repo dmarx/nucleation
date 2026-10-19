@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/THEORY-593.yaml
+id: THEORY-593
+batch: batch-033
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is a conceptual proposal: a definition of a
+    perceptual frame, and the argument that frames separate the
+    system-level question of cognitive penetration from the episode-level
+    one. Its support is other people's results reread through the concept,
+    plus one eye-tracking study by the authors, cited for a different
+    point. The title's central clause, that frames "change which objects a
+    perceiver individuates", is one the entry's own body disclaims. The
+    multisensory evidence shows different cue weightings and estimates,
+    and "different objects" is an inference.
+evidence:
+  - "NOTE-150 version 2: read in full (§§1–5, footnotes 1–5, figure captions). It grades the paper's claims weak to moderate."
+  - "THEORY-593's 'What could have come out otherwise': 'Nothing in the paper. It runs and proposes no test.'"
+  - "THEORY-593's 'What this does not say': frames are not shown to differ from attention or imagery, nor to operate bottom-up in any clear sense, nor to yield different objects."
+blockers:
+  - "Nothing is measured, and the promote_when asks for an experiment that separates frames from attention and imagery accounts, with a criterion for which tunings are frames. That experiment does not exist, and the criterion is not stated."
+notes: >-
+  The title asserts an argument (batch 020's sort rule), so neither ADR-047
+  route applies. There is no theorem to re-derive and no measurement to
+  hedge to. The entry belongs in wave 5. The depth of the reading is not
+  the problem: the source was read in full. The rubric's bundling score
+  of 2 was real: the promote_when asks for an experiment the body says no
+  one has run. But the bundled clause is the whole title's support, so
+  there is no core left to promote once it moves out.
+unlocks: []
+next_action: None. Move to wave 5 in the queue.
