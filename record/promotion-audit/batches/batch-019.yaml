@@ -62,6 +62,9 @@ recommendation: >-
   read. Keep routing untagged formal entries first; triage-004's score of 7
   carried no further information within this batch.
 owner_questions: []
+promotion_prs:
+  - "#208: THEORY-315 promote; THEORY-198 and THEORY-248 narrow-and-promote; QUESTION-tmpavq90 and QUESTION-tmpgpocu (branch claude/promote-theories-198-248-315)."
+  - "#210: THEORY-256 narrow-and-promote; QUESTION-tmpmknot (branch claude/promote-theory-256)."
 follow_up_prs:
   - "THEORY-198, THEORY-248 and THEORY-315: narrow-and-promote, narrow-and-promote and promote, with re-derivations as dated notes. The promote_whens of THEORY-198 and THEORY-248 move to new QUESTIONs."
   - "THEORY-256: narrow-and-promote under ADR-047 v3, with the theorem's re-derivation as a dated note. Its promote_when moves to a new QUESTION related to QUESTION-060."
