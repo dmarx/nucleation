@@ -4,9 +4,22 @@ status: Proposed
 formerly:
 - CLAIM-tmpn361s
 title: 'Retaining information about the ancestor and drifting in the population''s distribution are different profiles: a chain can forget where it started while staying far from the original, so convergence is not preservation and transmission is not degradation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Warrant corrected from demonstrated to interpretive, carrying out the
+    promotion audit's batch 029 (the ADR-040 parent sweep, ADR-047).
+    Under ADR-040 its general content was filed as CLAIM-270, which is
+    Active. What this claim keeps is the reading of serial reconstruction
+    as such a chain, through CLAIM-056, which is interpretive, and its
+    defeat condition is a universal over real serial reconstruction with
+    no observation under it. Under ADR-043 that is interpretive, and a
+    warrant is not inherited along rests_on. Status, statement and defeat
+    condition are unchanged.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   In serial reconstruction, ancestral information retention and
   distributional drift from the source always move together, so that one
