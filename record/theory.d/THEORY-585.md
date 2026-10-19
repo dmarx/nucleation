@@ -1,18 +1,24 @@
 ---
 number: 585
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpmp87h
-promote_when: >-
-  A proof that δ(Â₁⊗1̂)_W ≠ δ(Â₁)_{V_W}⊗1̂ for some context W of the composite,
-  with a proof that no operator B̂ has the pulled-back arrow as its
-  representation, would promote it. A variant of the rules, or of the
-  context category, under which tensor-product composites satisfy the
-  translation condition would refute the claim that the scheme fails for
-  them. The authors' "relatively easy to show" and "there appears to be no"
-  cannot settle it, and neither can a further check on disjoint sums.
-title: "In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums of quantum systems compose exactly, but along tensor products the best pull-back of a constituent's quantity agrees with the composite's own quantity only on contexts of the form V₁⊗ℂ1, since the composite's context poset holds contexts that mix the factors; the failure elsewhere is asserted, not proved"
-version: 1
+title: "In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums of quantum systems compose exactly; along a tensor product of finite-dimensional systems, the pull-back of a constituent's quantity agrees with the composite's own quantity at a context exactly when every projection in it with proper support on the first factor has the form P⊗1, so it fails for every non-scalar quantity and no operator on the composite realises the pull-back"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Corrected and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-585 (batch 044, ADR-047 v2).
+    The failure the source asserts, (4.46) and the non-existence of an
+    operator realising the pull-back, is proved for finite dimensions in
+    the dated note below. The proof also shows the old title's "only on
+    contexts of the form V₁⊗ℂ1" was too strong: agreement is decided by
+    the context's projections, and holds, for instance, on a context of
+    maximally entangled projections. The title now states the exact
+    condition. The former promote_when's refutation route, a variant of
+    the rules that repairs composites, moves to QUESTION-tmpucqdf.
 tags:
 - quantum-foundations
 - mathematics
@@ -35,9 +41,9 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-017 — Proposed; named in Connections as NOTE-285 relates it, not leaned on -->
-<!-- inactive-ok-file: LIT-310 — Proposed; read in full in NOTE-285 and cited as the source of the composite construction whose failure this account states as unproved -->
+<!-- inactive-ok-file: LIT-310 — Proposed; read in full in NOTE-285 and cited as the source of the composite construction whose failure this account proves -->
 
-# THEORY-585: In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums of quantum systems compose exactly, but along tensor products the best pull-back of a constituent's quantity agrees with the composite's own quantity only on contexts of the form V₁⊗ℂ1, since the composite's context poset holds contexts that mix the factors; the failure elsewhere is asserted, not proved
+# THEORY-585: In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums of quantum systems compose exactly; along a tensor product of finite-dimensional systems, the pull-back of a constituent's quantity agrees with the composite's own quantity at a context exactly when every projection in it with proper support on the first factor has the form P⊗1, so it fails for every non-scalar quantity and no operator on the composite realises the pull-back
 
 ## Source
 
@@ -84,9 +90,14 @@ authors say it does not, without proof.
 
 ## What this does not say
 
-- **That the failure is a theorem.** Neither (4.46) nor the non-existence
-  of B̂ is proved, and fn. 25 leaves open an easier case, W = V₁⊗V₂ with V₂
-  non-trivial. Hence Proposed.
+- **That the source proves the failure.** Neither (4.46) nor the
+  non-existence of B̂ is proved in the paper, and fn. 25 leaves open the
+  case W = V₁⊗V₂ with V₂ non-trivial. Both are proved in the dated note
+  below, for finite dimensions, and that case fails.
+- **That the failure follows the factorisation.** It does not: a context
+  whose projections all have full support on H₁, such as one spanned by
+  maximally entangled projections, agrees for every quantity, while
+  V₁⊗V₂ with both factors non-trivial does not.
 - **That it concerns entanglement of states, Bell non-locality or
   contextuality.** The "entanglement" is in the context poset of H₁⊗H₂. The
   paper treats no states on composites and nothing like a partial trace.
@@ -106,3 +117,41 @@ authors say it does not, without proof.
   factorisation picks out.
 - Mereology in the record does not engage physical composition in these
   terms; the tag is for the subject, what counts as a system and its parts.
+
+## Note of 2026-10-19: the composite's failure, proved
+
+The promotion audit (batch 044) proved what the source asserts, for
+finite-dimensional H₁ and H₂ with dim H₂ ≥ 2. δ(Â)_V is outer
+daseinisation, ∫λ d(δ^i(Ê_λ)_V), where δ^i(P)_V is the largest projection
+of V below P. The pulled-back arrow at a context W is δ(Â₁)_{V_W}⊗1̂, with
+V_W = W ∩ (B(H₁)⊗1̂), which may be ℂ1̂ in the augmented category. Two
+arrows into ℝ^⪰ agree at W exactly when their operators agree at every
+sub-context of W, since restriction of states is onto and the Gel'fand
+transform is injective. Call the support of a projection R on H₁ the
+range of its partial trace, and call W good if every projection of W with
+proper support has the form e⊗1̂.
+
+- **Agreement exactly on good contexts.** If W is good, so is every
+  sub-context V′. For λ below the top of Â₁'s spectrum, a projection of V′
+  under Ê_λ⊗1̂ has support under Ê_λ, so it is e⊗1̂ with e ∈ V_{V′}. Hence
+  δ^i(Ê_λ⊗1̂)_{V′} = δ^i(Ê_λ)_{V_{V′}}⊗1̂ for every λ, and the operators
+  agree. If W is not good, take an offending R with support P and
+  V′ = {0, R, 1̂ − R, 1̂}. Then V_{V′} = ℂ1̂, so for Â₁ = 1̂ − P the pull-back
+  is 1̂, while δ((1̂ − P)⊗1̂)_{V′} has eigenvalue 0 on R ≤ P⊗1̂.
+- **Every non-scalar quantity fails.** With u an eigenvector for Â₁'s
+  least eigenvalue and q any unit vector of H₂, R = |u⟩⟨u|⊗|q⟩⟨q| has proper
+  support and is not e⊗1̂. At V′ as above the pull-back is λ_max·1̂, while
+  δ(Â₁⊗1̂)_{V′} takes the value λ_min on R. This is (4.46).
+- **No operator realises the pull-back.** If δ(B̂)_W = δ(Â₁)_{V_W}⊗1̂ for
+  every W, then at a maximal W containing B̂, B̂ = δ(B̂)_W = b⊗1̂. At
+  W = V⊗V₂ with V maximal containing b, V_W = V gives b = δ(Â₁)_V, so b
+  dominates Â₁ in spectral order. At W = V⊗V₂ with V maximal containing
+  Â₁, Â₁⊗1̂ = δ(b⊗1̂)_W dominates b⊗1̂. So b = Â₁, and B̂ = Â₁⊗1̂, which
+  the previous point rules out.
+- **Disjoint sums.** Projections of V₁⊕V₂ are e₁⊕e₂, so the largest one
+  under E₁⊕E₂ is the pair of largest ones: Lemma 4.2, and the exact
+  composition for disjoint sums.
+
+V₁⊗V₂ with both factors non-trivial is not good, since p⊗q has proper
+support; ℂ1̂⊗V₂ and a context of maximally entangled projections are.
+Infinite dimensions are not treated.

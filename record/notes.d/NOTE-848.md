@@ -34,7 +34,6 @@ summary: >-
   the times the training estimate is found to overfit. The main text was
   not read.
 ---
-<!-- inactive-ok-file: THEORY-318 — Proposed; the account filed from this reading, open -->
 
 # NOTE-848: Dwork et al. — The reusable holdout (supplementary material)
 
