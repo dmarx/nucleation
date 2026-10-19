@@ -57,7 +57,9 @@ finding: >-
   stated as one model's least total (THEORY-177), and a one-dimensional
   proportionality stated for Gaussian data in general (THEORY-294).
 owner_questions: []
-promotion_prs: []
+promotion_prs:
+  - "#238: THEORY-026, THEORY-177 and THEORY-294 narrowed and promoted (branch claude/promote-theories-026-177-294)."
+  - "#241: THEORY-253 and THEORY-382 narrowed and promoted (branch claude/promote-theories-253-382)."
 notes_for_ledger:
   - >-
     The score-2 band went 5 of 5 under the batch 020 sort (8 of 10 with
