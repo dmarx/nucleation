@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**823 document(s) awaiting a decision.**
+**821 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 823.
+95 of the 821.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-495 of the 823.
+494 of the 821.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -375,7 +375,6 @@
 | 2026-10-14 | Proposed | [THEORY-295](../../record/theory.d/THEORY-295.md) | 5 | 0 | In a community that updates a single consensus model by sound pairwise model comparison, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility does not track convergence to truth |
 | 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 5 | 0 | Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action |
 | 2026-10-14 | Proposed | [THEORY-306](../../record/theory.d/THEORY-306.md) | 5 | 0 | Volume-maximizing joint-embedding objectives carry a prior toward equal-sized clusters, explicit in MSN and SwAV and derived for VICReg only through a reduction to K-means, and with mini-batches of two to eight classes they lose semantic transfer while MAE and data2vec do not |
-| 2026-10-14 | Proposed | [THEORY-312](../../record/theory.d/THEORY-312.md) | 5 | 0 | The large-batch InfoNCE loss is the negative HSIC between representations and image identity plus a nonnegative log-mean-exp of the centred critic, so it bounds a kernel dependence loss from above |
 | 2026-10-14 | Proposed | [THEORY-320](../../record/theory.d/THEORY-320.md) | 5 | 0 | In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 5 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
 | 2026-10-14 | Proposed | [THEORY-226](../../record/theory.d/THEORY-226.md) | 4 | 0 | LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts |
@@ -613,7 +612,7 @@
 
 ## ADRs
 
-2 of the 823.
+2 of the 821.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -622,7 +621,7 @@
 
 ## QUESTIONs
 
-9 of the 823.
+9 of the 821.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -638,7 +637,7 @@
 
 ## CLAIMs
 
-217 of the 823.
+216 of the 821.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -702,7 +701,6 @@
 | 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 43 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
 | 2026-10-09 | Proposed | [CLAIM-127](../../record/claims.d/CLAIM-127.md) | 38 | 10 | Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context |
 | 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 26 | 3 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
-| 2026-10-09 | Proposed | [CLAIM-123](../../record/claims.d/CLAIM-123.md) | 25 | 11 | In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require |
 | 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 21 | 1 | A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent |
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 11 | 0 | Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake |
 | 2026-10-09 | Proposed | [CLAIM-090](../../record/claims.d/CLAIM-090.md) | 7 | 0 | Serial transmission is reconstructive and filtered by the transmitters' inductive biases, so a stable endpoint can be far from the ancestral utterance while remaining interpretable |
@@ -862,7 +860,7 @@
 
 ## CASEs
 
-1 of the 823.
+1 of the 821.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -870,7 +868,7 @@
 
 ## TERMs
 
-2 of the 823.
+2 of the 821.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -879,7 +877,7 @@
 
 ## ARGs
 
-2 of the 823.
+2 of the 821.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

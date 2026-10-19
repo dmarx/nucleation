@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**514 documents cited without acknowledgement.** Not listed: 10132 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**513 documents cited without acknowledgement.** Not listed: 10113 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1190,24 +1190,6 @@ Which of an agent's available regimes becomes effective depends on maintained re
 - [`record/questions.d/QUESTION-066.md:23`](../../record/questions.d/QUESTION-066.md)
 - [`record/questions.d/QUESTION-066.md:32`](../../record/questions.d/QUESTION-066.md)
 
-### [CLAIM-123](../../record/claims.d/CLAIM-123.md) — Proposed
-
-In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require
-
-11 citations in 3 files await a look; 14 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-321.md:44`](../../record/claims.d/CLAIM-321.md)
-- [`record/claims.d/CLAIM-321.md:49`](../../record/claims.d/CLAIM-321.md)
-- [`record/claims.d/CLAIM-321.md:58`](../../record/claims.d/CLAIM-321.md)
-- [`record/claims.d/CLAIM-321.md:59`](../../record/claims.d/CLAIM-321.md)
-- [`record/claims.d/CLAIM-321.md:79`](../../record/claims.d/CLAIM-321.md)
-- [`record/decisions.d/ADR-040.md:197`](../../record/decisions.d/ADR-040.md)
-- [`record/decisions.d/ADR-040.md:217`](../../record/decisions.d/ADR-040.md)
-- [`record/decisions.d/ADR-043.md:231`](../../record/decisions.d/ADR-043.md)
-- [`record/decisions.d/ADR-043.md:248`](../../record/decisions.d/ADR-043.md)
-- [`record/decisions.d/ADR-043.md:263`](../../record/decisions.d/ADR-043.md)
-- [`record/decisions.d/ADR-043.md:264`](../../record/decisions.d/ADR-043.md)
-
 ### [LIT-328](../../record/literature.d/LIT-328.md) — Unavailable
 
 Irreversibility and Heat Generation in the Computing Process
@@ -2003,12 +1985,12 @@ In text-to-image diffusion models each condition of a prompt can be met while th
 
 6 citations in 5 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-123.md:135`](../../record/claims.d/CLAIM-123.md)
-- [`record/claims.d/CLAIM-123.md:140`](../../record/claims.d/CLAIM-123.md)
+- [`record/claims.d/CLAIM-123.md:145`](../../record/claims.d/CLAIM-123.md)
+- [`record/claims.d/CLAIM-123.md:150`](../../record/claims.d/CLAIM-123.md)
 - [`record/decisions.d/ADR-043.md:250`](../../record/decisions.d/ADR-043.md)
-- [`record/notes.d/NOTE-610.md:182`](../../record/notes.d/NOTE-610.md)
-- [`record/notes.d/NOTE-639.md:146`](../../record/notes.d/NOTE-639.md)
-- [`record/questions.d/QUESTION-018.md:34`](../../record/questions.d/QUESTION-018.md)
+- [`record/notes.d/NOTE-610.md:181`](../../record/notes.d/NOTE-610.md)
+- [`record/notes.d/NOTE-639.md:145`](../../record/notes.d/NOTE-639.md)
+- [`record/questions.d/QUESTION-018.md:33`](../../record/questions.d/QUESTION-018.md)
 
 ### [CLAIM-361](../../record/claims.d/CLAIM-361.md) — Proposed
 
