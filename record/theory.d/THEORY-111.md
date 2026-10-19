@@ -19,7 +19,20 @@ promote_when: >-
   weak-additivity and commutativity residuals, would also move it. More
   pairwise image-classifier measurements would not.
 title: "Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-111.yaml, batch 016, ADR-047),
+    the formal results this account rests on are filed apart as
+    THEORY-tmpyjtkq, Active: Zhou et al.'s Theorem 1 and Lemma 1, and the
+    exact one-hidden-layer case from Lubana et al.'s Lemma 2, with the
+    record's composition re-derived (ADR-047 v2). This THEORY extends it
+    and keeps the empirical regularity and the averaging clause. Its
+    promote_when already concerned only those and is unchanged. The claim
+    is unchanged, and the status stays Proposed.
 tags:
 - loss-landscapes
 - representation-learning
@@ -30,6 +43,7 @@ source:
 - LIT-669
 extends:
 - THEORY-116
+- THEORY-tmpyjtkq
 summary: >-
   Zhou et al. (2023), [LIT-674](../literature.d/LIT-674.md): whenever two image classifiers are
   linearly mode connected, by spawning or by permutation, the features of
@@ -124,6 +138,9 @@ the claim implies.
 
 ## Connections
 
+- **[THEORY-tmpyjtkq](THEORY-tmpyjtkq.md)**, which this extends, holds the formal results
+  above: Theorem 1, Lemma 1 and the exact one-hidden-layer case, Active.
+  What stays open here is that connected pairs meet the conditions.
 - **[THEORY-116](THEORY-116.md)**, which this extends. That account's converse half
   says a linear low-loss path, up to symmetry, marks a shared mechanism,
   and rests on Lemma 2's shared activation patterns. This account carries

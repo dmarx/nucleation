@@ -31,7 +31,6 @@ summary: >-
 supports:
 - CLAIM-312
 ---
-<!-- inactive-ok-file: THEORY-369 — Proposed; one analysis under uniform data, cited for the regime it describes -->
 
 # CLAIM-311: A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists
 
