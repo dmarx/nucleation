@@ -27,7 +27,7 @@ summary: >-
   recall below a threshold model size and mixing ratio, and 4–16 times
   more training barely moves it.
 ---
-<!-- inactive-ok-file: THEORY-204 THEORY-039 THEORY-229 THEORY-293 — Proposed; the accounts this reading is compared with, and the one it produces, not leaned on -->
+<!-- inactive-ok-file: THEORY-204 THEORY-039 — Proposed; the accounts this reading is compared with, and the one it produces, not leaned on -->
 
 # NOTE-796: Gu et al. — Data Mixing Can Induce Phase Transitions in Knowledge Acquisition
 

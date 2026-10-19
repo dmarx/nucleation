@@ -36,7 +36,6 @@ summary: >-
   learning rates. For FCN4 the plotted rate term is about 3, which is
   vacuous for 0–1 loss.
 ---
-<!-- inactive-ok-file: THEORY-263 — Proposed; the framework this theorem is an instance of and the fixed-rate bound it moves to trajectories, filed today -->
 
 # THEORY-266: For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability at least 1 − δ the average generalisation error along an optimisation trajectory is bounded, under a square root, by the rate-distortion function of the trajectory's law given the sample, a coupling term that carries the trajectory's dependence on the sample, and a distortion term 4Lε
 

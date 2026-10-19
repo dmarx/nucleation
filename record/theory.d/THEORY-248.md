@@ -36,7 +36,6 @@ summary: >-
   bound is evaluated for a learned model, and every bound depends on the
   unknown data distribution.
 ---
-<!-- inactive-ok-file: THEORY-263 — Proposed; the account of a related block-coding bound for representations, and the data-dependent successor filed today, cited for context -->
 
 # THEORY-248: The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and for an L-Lipschitz loss R is at most the rate-distortion function of the output's law at distortion ε/(2L), so the bound is finite wherever that function is, including where I(S;W) is infinite
 
