@@ -20,7 +20,7 @@ used_by:
 - CLAIM-108
 - CLAIM-103
 ---
-<!-- inactive-ok-file: CLAIM-107 CLAIM-113 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: CLAIM-113 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # TERM-036: fidelity, as preservation of selected observables and structural symmetries
 

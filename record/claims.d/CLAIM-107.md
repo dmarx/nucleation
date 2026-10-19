@@ -1,16 +1,35 @@
 ---
 number: 107
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpuwwjx
-title: 'A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion'
-version: 1
+title: 'Under Markov reconstruction kernels, an observable''s expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-107.yaml, batch 003, ADR-047).
+    The title said the observable "is conserved", which gave "a Noether-type
+    conservation criterion". Only the mean is conserved. In a walk on
+    {0, …, N} absorbed at the ends, f(x) = x is harmonic while the
+    distribution of f(S_n) spreads to the endpoints. And mean conservation
+    does not make an observable a symmetry. CLAIM-094, Active and granted,
+    holds both points against this claim, and they are now in its
+    statement. The title and the defeat condition are narrowed to mean
+    conservation, the martingale step and the drift bound. THEORY-158 is
+    cited for the continuous-time Noether theorem and no longer grounds the
+    claim. The derivation and the note of 2026-10-10 are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  A Markov reconstruction model in which an observable satisfies the
-  manuscript's criterion yet its distribution, not only its mean, drifts
-  in a way the manuscript counts as non-conservation.
+  An error in the martingale step (K_i f = f for every step gives
+  E[f(S_(i+1)) | S_i] = f(S_i)), in the drift bound
+  (|E f(S_(i+1)) − E f(S_i)| ≤ ε_(i+1) when ‖K_(i+1) f − f‖∞ ≤ ε_(i+1)), or
+  in the maximum-principle argument that only constants are harmonic on a
+  finite irreducible chain.
 tags:
 - mathematics
 - philosophy-of-language
@@ -20,8 +39,6 @@ line:
 - formal-apparatus
 works:
 - what-survives-translation
-grounds:
-- THEORY-158
 uses:
 - TERM-027
 summary: >-
@@ -35,7 +52,7 @@ complements:
 <!-- inactive-ok-file: THEORY-158 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-059 — Proposed; cited as the open regimes claim that several closed classes would presuppose -->
 
-# CLAIM-107: A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion
+# CLAIM-107: Under Markov reconstruction kernels, an observable's expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic
 
 ## The claim
 
@@ -51,6 +68,14 @@ of the mean by Σε_i when ‖K_i f − f‖ ≤ ε_i.
 The manuscript says plainly that Noether's hypotheses do not hold
 automatically in communicative systems, and that its bounds are
 expectation-preservation estimates only.
+
+- **That the observable's distribution is conserved.** Only its mean is.
+  In a walk on {0, …, N} absorbed at the ends, f(x) = x is harmonic while
+  the distribution of f(S_n) spreads to the endpoints ([CLAIM-094](CLAIM-094.md)).
+- **That the criterion is a Noether theorem.** Mean conservation does not
+  make an observable a symmetry. The Noether-type equivalence, for finite
+  continuous-time processes, needs the second moment as well and is Baez
+  and Fong's ([THEORY-158](../theory.d/THEORY-158.md), Proposed), cited here and not leaned on.
 
 ## Where it came from
 
@@ -79,3 +104,14 @@ closed classes are themselves a hypothesis about conventions: separate
 attractors from which reconstruction does not escape ([TERM-027](../terms.d/TERM-027.md),
 [CLAIM-059](CLAIM-059.md)). The approximate form survives without them: ‖Kf − f‖∞ ≤ ε bounds
 the drift of the mean by nε, as the manuscript already says.
+
+## Note of 2026-10-19: narrowed to what is shown
+
+The two steps the title now states are one line each. If K_i f = f for every
+step, E[f(S_(i+1)) | S_i] = (K_(i+1) f)(S_i) = f(S_i), so f(S_n) is a
+martingale and E f(S_n) = E f(S_0). If ‖K_(i+1) f − f‖∞ ≤ ε_(i+1), then
+E f(S_(i+1)) − E f(S_i) = E[(K_(i+1) f − f)(S_i)], whose absolute value is at
+most ε_(i+1), so the mean drifts by at most Σ ε_i. The note of 2026-10-10
+proves the irreducible case. What the old title added, conservation of the
+observable and a Noether-type criterion, is [CLAIM-094](CLAIM-094.md)'s objection, granted
+and Active, and it now stands in "What it does not say".
