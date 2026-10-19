@@ -3,8 +3,8 @@ number: 105
 status: Proposed
 formerly:
 - CLAIM-tmpukbg3
-title: 'Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility'
-version: 2
+title: 'In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning'
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -22,6 +22,20 @@ history:
     of their global compatibility (overlap consistency, global
     extension, contextual fraction), so that the global structure adds
     nothing to predict."
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Title restated on 2026-10-19 by the promotion audit, batch 034
+    (ADR-047). Version 2 made the defeat condition a prevalence test
+    over documented chains after CLAIM-238, and the split of
+    2026-10-15 moved the constructed possibility to CLAIM-320, but
+    the title kept the possibility's "may" and "can". It now states
+    the thesis about documented chains that the condition tests; the
+    defeat condition is unchanged. Version 2's title read:
+    'Translation may preserve local meanings while changing the
+    global structure of meaning: reconstruction can keep most local
+    judgements and change their global compatibility'. Status and
+    warrant unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -65,7 +79,7 @@ complements:
 <!-- inactive-ok-file: THEORY-174 — Proposed; classical simulations never create contextuality, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-005 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
-# CLAIM-105: Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
+# CLAIM-105: In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning
 
 ## The claim
 
@@ -178,3 +192,15 @@ constructed possibility is now [CLAIM-320](CLAIM-320.md) (demonstrated), on whic
 rests. This claim keeps the thesis about translation and reconstruction
 chains, and its measures. Its title states that thesis and is kept; its
 warrant stays interpretive.
+
+## Note of 2026-10-19: the title restated as prevalence
+
+The promotion audit's batch 034 found the title behind its own defeat
+condition. The condition tests a rate over documented reconstruction
+chains, after [CLAIM-238](CLAIM-238.md), and the note above moved the constructed
+possibility to [CLAIM-320](CLAIM-320.md). The title still said translation "may" do
+this and reconstruction "can", which [CLAIM-320](CLAIM-320.md)'s pair already settles.
+It now states the thesis this entry keeps, about documented chains. The
+manuscript's wording quoted above is unchanged. The warrant stays
+interpretive: [CASE-053](../cases.d/CASE-053.md) documents that the adequate test has not been
+run.

@@ -3,8 +3,8 @@ number: 33
 status: Proposed
 formerly:
 - CLAIM-tmpa4al1
-title: 'A translation can broaden the region of possible readings along one dimension while narrowing it along another, so loss is not one-dimensional'
-version: 2
+title: 'In published translations, renderings that lose distinctions along one dimension commonly gain specificity along another, so loss is not one-dimensional'
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -15,6 +15,18 @@ history:
     "Renderings that lose distinctions along one dimension never gain
     specificity along another, so that a single scalar of preserved
     information orders them as judges do."
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Title restated on 2026-10-19 by the promotion audit, batch 034
+    (ADR-047). Version 2 made the defeat condition a prevalence test
+    after CLAIM-238 but left the title saying "can", which one
+    instance settles and no rate defeats. CLAIM-238's remedy is a
+    claim of prevalence, so the title now states one; the defeat
+    condition is unchanged. Version 2's title read: 'A translation
+    can broaden the region of possible readings along one dimension
+    while narrowing it along another, so loss is not
+    one-dimensional'. Status and warrant unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,7 +57,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: THEORY-170 — Proposed; Jakobson's obligatory-categories thesis, cited as prior statement of this claim, not as settled -->
 
-# CLAIM-033: A translation can broaden the region of possible readings along one dimension while narrowing it along another, so loss is not one-dimensional
+# CLAIM-033: In published translations, renderings that lose distinctions along one dimension commonly gain specificity along another, so loss is not one-dimensional
 
 ## The claim
 
@@ -73,3 +85,14 @@ must fix aspect and the worker's sex, which the English leaves open, and it
 drops tense and definiteness, which the English fixes. Languages differ in
 what they must convey, so a translation adds information along one dimension
 while losing it along another.
+
+## Note of 2026-10-19: the title restated as prevalence
+
+The promotion audit's batch 034 found the title behind its own defeat
+condition. Since version 2 the condition tests a rate over a sample of
+published translations, after [CLAIM-238](CLAIM-238.md) showed that a "never" condition
+no study meets. The title still said a translation "can" do this, which
+Jakobson's example alone settles. The title now states the rate the
+condition tests. The possibility is not given up: it is Jakobson's
+point, [THEORY-170](../theory.d/THEORY-170.md), and the examples above are its instances. The warrant
+stays interpretive, because no sample has been drawn.
