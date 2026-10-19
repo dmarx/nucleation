@@ -1,0 +1,32 @@
+# record/promotion-audit/batches/batch-008.yaml
+batch: batch-008
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  THEORY-277 from requeue, re-reviewed under ADR-047 v2, followed by the
+  next four wave-2 pending candidates of triage-002 in queue order.
+reviewed: [THEORY-277, THEORY-171, THEORY-160, THEORY-158, THEORY-157]
+outcomes:
+  narrow-and-promote: [THEORY-171, THEORY-160, THEORY-158]
+  split: [THEORY-157]
+  defer: [THEORY-277]
+yield: 4 of 5 found a promotion path
+finding: >-
+  ADR-047 v2 was applied for the first time, with a re-derivation attempted
+  on each candidate. It worked where the proof was short and self-contained:
+  THEORY-160's bracket equivalence, THEORY-158's finite-state cycle, and
+  Basu's theorem in a Markov category. It failed on the one candidate whose
+  proof rests on a non-trivial construction, THEORY-277's Lemma C.4. That
+  failure is informative. The re-derivation got further than the reading
+  had recorded, and it found the step NOTE-787 passes over: the incomplete
+  final block of an enumerable set. So the rule does not make every
+  promotion cheap. A long or delicate proof still needs its source, and the
+  decision then says which step. Separately, THEORY-171's promote_when asked
+  for the characterisation when the title claims only existence. That is
+  the bundling pattern again, and narrowing fixes it without any
+  re-derivation.
+follow_up_prs:
+  - "Narrow and promote THEORY-171, THEORY-160 and THEORY-158 (three entries; the excluded parts go to new QUESTIONs)."
+  - "Split THEORY-157: Basu in every Markov category as a new Active THEORY."

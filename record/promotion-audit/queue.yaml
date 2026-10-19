@@ -1,16 +1,32 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 63
+version: 64
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-008
-  state: in_review
+  state: reviewed
   in_review: null
-  next_step: 'Batch 008 (wave 2) in progress: THEORY-277 (requeued under ADR-047 v2; re-derivation attempt),
-    then THEORY-171, THEORY-160, THEORY-158, THEORY-157.'
+  next_step: 'Batch 008 (wave 2) is reviewed: 4 of 5 found a promotion path. Wave 2 stands at 23 of 25.
+    MERGE ORDER: merge #166 first, because later PRs cite ADR-047. Open PRs from this audit, by batch:
+    first audit and its passes, #165. Ledger and ADR-047, #166. Batch 001: #167 (promote CLAIM-267, -270),
+    #168 (warrants of CLAIM-077, -098), #169 (split CLAIM-285). Batch 002: #170 (promote CLAIM-313; CLAIM-310
+    one-copy condition; held only by a bot run awaiting maintainer approval), #171 (correct CLAIM-308,
+    -251), #174 (split CLAIM-063, -037). Batch 003: #172 (correct CLAIM-188, -193), #173 (promote CLAIM-268;
+    narrow and promote CLAIM-107). Batch 004: #175 (CLAIM-056 warrant). Gated on #165: the CLAIM-269 split
+    and the CLAIM-322 promotion (interpretive, the owner''s call). Batch 005: #176 (promote THEORY-184;
+    split THEORY-165), #177 (split THEORY-017), #178 (split THEORY-174, -168). Batch 006: #179 (split
+    THEORY-325; THEORY-236 promoted with a CLAIM), #180 (narrow and promote THEORY-247, -206). Batch 007:
+    #181 (THEORY-009, -233), #182 (THEORY-297, -323). Batch 008: no PRs yet. Next: (1) open batch 008''s
+    PRs (batches/batch-008.yaml follow_up_prs). (2) Run the next wave-2 batch with THEORY-037, THEORY-002,
+    THEORY-127, THEORY-686 and THEORY-604; THEORY-002 may now ground on THEORY-233 once #181 merges. (3)
+    Re-try THEORY-277 after one retrieval round on Claim C.5 (decisions/THEORY-277.yaml). (4) Run a wave-4
+    pass on the THEORY-165 citers once #176 merges (CLAIM-105, -201, -219, -235, -319, -320, CASE-037),
+    and on CLAIM-038 and CLAIM-094 once batch 008''s PRs merge. (5) Waves 3 (source-backed THEORYs) and
+    5 (interpretive claims) have not started; triage them by bundling, as batch 007 recommends, not by
+    keywords.'
   cautions:
   - 'PR #165''s tmp codes (CLAIM-tmpzk12h and others) are concretized at merge. Update decisions/ when
     they are.'
@@ -946,4 +962,8 @@ history:
   date: '2026-10-19'
   note: 'Batch 008: THEORY-157 split. Basu in every Markov category was re-derived algebraically under
     ADR-047 v2, because NOTE-588 could not check the lost diagrams. Fisher–Neyman and Bahadur stay Proposed.'
+- version: 64
+  date: '2026-10-19'
+  note: 'Close batch 008: 4 of 5 (THEORY-171, -160, -158 narrow-and-promote; THEORY-157 split; THEORY-277
+    defer). Hand-off rewritten with the open PRs by batch and the merge order.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

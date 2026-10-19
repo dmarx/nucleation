@@ -326,3 +326,30 @@ THEORY (ADR-047 v2). The alternatives were filing the proof as a CLAIM
 only, or holding the entry. In practice, write the derivation out step by
 step in the decision file, as batches 006 and 007 did, and cite it in the
 history note. THEORY-277 is requeued on this basis.
+
+## 2026-10-19 — batch 008, the first batch under ADR-047 v2
+
+- **Re-derivation works for short, self-contained proofs.** It closed
+  THEORY-160's bracket equivalence, THEORY-158's finite-state cycle and
+  Basu's theorem in a Markov category, each in a few lines. Write it in
+  the decision file under `scope.accepted`, so the promotion PR can copy
+  it into a dated note.
+- **It stops at constructions.** THEORY-277's Lemma C.4 reduced cleanly,
+  but the covering construction it rests on did not close in two rounds.
+  The trap is an enumerable set chopped into blocks in enumeration order,
+  whose last block never provably fills. When a proof uses "chop the
+  enumerated objects into blocks", check how it handles the final block
+  before trusting the bound. Record the blocked step exactly, so the next
+  attempt needs only one retrieval round.
+- **Lost diagrams are a reason to re-derive.** NOTE-588 could not check
+  Fritz's string-diagram proofs, which did not survive text extraction.
+  An algebraic re-derivation from the prose definitions recovers the
+  check. State the definitions relied on, because they too were
+  reconstructed from prose.
+- **An existence title asked for a characterisation (THEORY-171).** One
+  checked example settles an existence statement. When the promote_when
+  says an example "does not count", it is asking about a stronger claim
+  than the title makes. That calls for a narrowing.
+- **Keep a superseded decision traceable.** When a candidate is re-reviewed,
+  overwrite its decision file and record the earlier disposition in
+  `supersedes_review`. check.py allows one file per code.
