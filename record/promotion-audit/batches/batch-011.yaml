@@ -1,0 +1,75 @@
+# record/promotion-audit/batches/batch-011.yaml
+batch: batch-011
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+selection: >-
+  The first five of wave 2's 16 pending, in code order, per batch 010's
+  recommendation: THEORY-022, THEORY-183, THEORY-191, THEORY-192,
+  THEORY-193. Run in parallel with other batch sessions. The parent
+  session integrates this file into queue.yaml and NOTES.md.
+reviewed: [THEORY-022, THEORY-183, THEORY-191, THEORY-192, THEORY-193]
+outcomes:
+  split: [THEORY-183]
+  needs-correction: [THEORY-193]
+  retain-proposed: [THEORY-022, THEORY-191, THEORY-192]
+yield: 2 of 5 found a promotion path (THEORY-183 split; THEORY-193 correct, then promote)
+finding: >-
+  Wave 2's run of high yields ends here, and the cause is the class, not
+  the candidates. Three of the five (THEORY-022, -191, -192) carry the
+  "mathematics" tag but are empirical: an interpretability measurement
+  and two Betti-curve studies. Neither has a mathematical core the record
+  can check. Each promote_when asks for a measurement or a replication
+  the record does not have, and ADR-047 v2's re-derivation route does not
+  apply to measurements. On the two genuine mathematics entries, the
+  yield was 2 of 2, as before. THEORY-183 is the batch-010 shape: a
+  theorem read and followed in full, with a promote_when aimed at the
+  empirical carry-over. THEORY-193 is new. Its promote_when asked for a
+  proof the source lacks (bounded Gromov δ for the 1-skeleton), and a
+  short tree-decomposition argument supplies it (δ ≤ 2, every flavor).
+  But the review also found the title's tiling clause false for d ≥ 3.
+recommendation: >-
+  Before the next wave-2 batch, drop from wave 2 the pending entries whose
+  title is a measurement rather than a theorem, and requeue them in
+  wave 3. Read the title, not the tag. In the rest of wave 2, test every
+  geometric "tiles", "embeds" or "is a ... space" claim against d = 3 or
+  the smallest non-planar case before accepting it.
+owner_questions:
+  - >-
+    For wave 3. Should a THEORY whose title states only what one Read
+    study measured, carefully hedged (THEORY-191, THEORY-192: "has the
+    Betti-curve signature of ..., not of a uniform Euclidean cube"), be
+    promoted on that one study? Or does an empirical THEORY need
+    replication, as both promote_whens ask? The answer decides much of
+    wave 3.
+follow_up_prs:
+  - "THEORY-183: split. A new Active THEORY for Karkada et al.'s Proposition 1 (under B.1, d ≥ rank M*, W Wᵀ = |M*|), Corollary 2, Proposition 3 and Proposition 4, with the re-derivation of Proposition 1 and Corollary 2 as a dated note; THEORY-183 extends it, unchanged otherwise."
+  - "THEORY-193: correct, then promote. Retitle to the 2-thin 1-skeleton result, and limit the tiling to d = 2 with s = −1. Correct the dual-tree statement for s = 0, 1. Add the δ ≤ 2 derivation as a dated note."
+notes_for_ledger:
+  - >-
+    The tag misleads triage. triage-003 drew wave 2 from THEORYs tagged
+    "mathematics", but THEORY-022, -191 and -192 are empirical.
+    Interpretability and Betti-curve studies carry the tag for their
+    tools. Classify by what the title asserts: a theorem, or a
+    measurement.
+  - >-
+    Bounded Gromov δ from a tree decomposition with clique bags. If a graph
+    has a tree decomposition whose bags have diameter ≤ 1, its geodesic
+    triangles are 2-thin. Take the node of the tripod spanned by the three
+    corners' bags that is nearest a bag of p; its bag separates p from the
+    two corners. This settles hyperbolicity for any complex grown by
+    gluing on single faces (stacked polytopes, k-trees, Apollonian
+    networks), and is worth reusing when a promote_when asks for "δ
+    bounded independently of N".
+  - >-
+    "A tree of X tiles H^d" fails for d ≥ 3. In a face-to-face tiling,
+    tiles around a codimension-2 face form a finite cycle, and a tree of
+    simplices has none. It holds in d = 2 only because the codimension-2
+    faces of ideal triangles are at infinity. Check any "tiling by a tree
+    of cells" claim this way.
+  - >-
+    "The dual is a tree" depends on the flavor. With preferential or
+    uniform gluing (s = 0, 1), several simplices share a face, so the
+    face-adjacency graph has cliques. The gluing or parent structure is
+    always a tree; say which one is meant.

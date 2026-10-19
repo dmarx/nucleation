@@ -1,0 +1,31 @@
+# record/promotion-audit/decisions/THEORY-625.yaml
+id: THEORY-625
+batch: batch-017
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is Searle's conceptual analysis of institutional
+    facts: status functions, deontic powers, the dependence on language, and
+    the general form "We accept (S has power (S does A))". The source
+    asserts that the three primitives suffice ("I am going to be very
+    brief"). It defers collective intentionality to an unread paper
+    (LIT-490). It does not argue that deontic powers are anything a
+    regulative rule in equilibrium does not give. Its rival, THEORY-414
+    (Proposed), denies that point.
+evidence:
+  - "NOTE-388 (Read in full): the paper has no theorems. Its results are distinctions and definitions, argued informally or by example."
+  - "The promote_when needs either a counter-example institution or the two deferred arguments. The record holds neither."
+blockers:
+  - "The two arguments the paper defers: that collective intentionality is irreducible, and that a status's deontology is more than a regulative rule in equilibrium. The live rivalry with THEORY-414."
+notes: >-
+  Depth 2 in triage-004 was accurate, since the reading was full. It did not
+  predict yield, because a full reading of a paper that asserts its premises
+  leaves them asserted. For conceptual-analysis entries, reading depth is
+  not the bottleneck.
+unlocks: []
+next_action: None.

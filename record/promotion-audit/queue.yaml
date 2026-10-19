@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 83
+version: 86
 updated: '2026-10-19'
 record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
 procedure: record/decisions.d/ADR-047.md
@@ -32,18 +32,18 @@ waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
   reviewed: 18
-  promotion_paths: 10
+  promotion_paths: 9
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 35
-  promotion_paths: 32
+  reviewed: 40
+  promotion_paths: 33
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 0
-  promotion_paths: 0
+  reviewed: 5
+  promotion_paths: 2
 - wave: 4
   class: Dependency unlocks
-  reviewed: 5
+  reviewed: 7
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
@@ -299,10 +299,11 @@ candidates:
   proposed_deps:
   - THEORY-158
   state: decided
-  disposition: narrow-and-promote
-  batch: batch-003
+  disposition: needs-correction
+  batch: batch-015
   decision: decisions/CLAIM-107.yaml
-  carried_out_in: '#173'
+  carried_out_in:
+  - '#190'
 - code: CLAIM-188
   wave: 1
   score: 14
@@ -336,8 +337,8 @@ candidates:
   - THEORY-002
   - THEORY-019
   state: decided
-  disposition: needs-correction
-  batch: batch-003
+  disposition: retain-proposed
+  batch: batch-015
   decision: decisions/CLAIM-193.yaml
   carried_out_in: '#172'
 - code: CLAIM-212
@@ -379,8 +380,10 @@ candidates:
   - THEORY-019
   state: decided
   disposition: split
-  batch: batch-004
+  batch: batch-015
   decision: decisions/CLAIM-269.yaml
+  carried_out_in:
+  - '#193'
 - code: CLAIM-326
   wave: 1
   score: 13
@@ -815,7 +818,10 @@ candidates:
     read: 1
   supports: 0
   triage: triage-003
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-011
+  decision: decisions/THEORY-022.yaml
 - code: THEORY-183
   wave: 2
   score: 3
@@ -825,7 +831,12 @@ candidates:
     read: 1
   supports: 0
   triage: triage-003
-  state: pending
+  state: decided
+  disposition: split
+  batch: batch-011
+  decision: decisions/THEORY-183.yaml
+  carried_out_in:
+  - '#194'
 - code: THEORY-191
   wave: 2
   score: 3
@@ -835,7 +846,10 @@ candidates:
     read: 1
   supports: 0
   triage: triage-003
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-011
+  decision: decisions/THEORY-191.yaml
 - code: THEORY-192
   wave: 2
   score: 3
@@ -845,7 +859,10 @@ candidates:
     read: 1
   supports: 0
   triage: triage-003
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-011
+  decision: decisions/THEORY-192.yaml
 - code: THEORY-193
   wave: 2
   score: 3
@@ -855,7 +872,12 @@ candidates:
     read: 1
   supports: 0
   triage: triage-003
-  state: pending
+  state: decided
+  disposition: needs-correction
+  batch: batch-011
+  decision: decisions/THEORY-193.yaml
+  carried_out_in:
+  - '#194'
 - code: THEORY-196
   wave: 2
   score: 3
@@ -1221,8 +1243,13 @@ candidates:
     compound: 1
   supports: 1
   triage: triage-004
-  state: pending
+  state: decided
   control: true
+  disposition: split
+  batch: batch-017
+  decision: decisions/THEORY-078.yaml
+  carried_out_in:
+  - '#195'
 - code: THEORY-199
   wave: 3
   score: 5
@@ -1234,8 +1261,11 @@ candidates:
     compound: 0
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
   control: true
+  disposition: retain-proposed
+  batch: batch-017
+  decision: decisions/THEORY-199.yaml
 - code: THEORY-309
   wave: 3
   score: 5
@@ -1247,8 +1277,13 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
   control: true
+  disposition: promote
+  batch: batch-017
+  decision: decisions/THEORY-309.yaml
+  carried_out_in:
+  - '#195'
 - code: THEORY-470
   wave: 3
   score: 4
@@ -1260,8 +1295,11 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
   control: true
+  disposition: retain-proposed
+  batch: batch-017
+  decision: decisions/THEORY-470.yaml
 - code: THEORY-625
   wave: 3
   score: 5
@@ -1273,8 +1311,29 @@ candidates:
     compound: 1
   supports: 1
   triage: triage-004
-  state: pending
+  state: decided
   control: true
+  disposition: retain-proposed
+  batch: batch-017
+  decision: decisions/THEORY-625.yaml
+- code: CLAIM-148
+  wave: 4
+  triage: batch-015
+  state: decided
+  disposition: needs-correction
+  batch: batch-015
+  decision: decisions/CLAIM-148.yaml
+  carried_out_in:
+  - '#190'
+- code: CLAIM-164
+  wave: 4
+  triage: batch-015
+  state: decided
+  disposition: needs-correction
+  batch: batch-015
+  decision: decisions/CLAIM-164.yaml
+  carried_out_in:
+  - '#190'
 history:
 - version: 1
   date: '2026-10-19'
@@ -1583,4 +1642,17 @@ history:
 - version: 83
   date: '2026-10-19'
   note: Batches 016 (wave 3, ranked) and 017 (wave 3, control) started in parallel.
+- version: 84
+  date: '2026-10-19'
+  note: 'Batch 011 integrated: 2 of 5 found a promotion path (THEORY-183 split; THEORY-193 correct, then
+    promote); carried_out_in #194'
+- version: 85
+  date: '2026-10-19'
+  note: 'Batch 015 integrated: 1 of 5 found a promotion path (CLAIM-269''s split); three are corrections
+    to Active entries; carried_out_in #190, #193'
+- version: 86
+  date: '2026-10-19'
+  note: 'Batch 017 integrated: 2 of 5 found a promotion path; carried_out_in #195 Wave 1''s promotion
+    paths read 9, not 10: CLAIM-107 (promoted in batch 003) was re-reviewed in batch 015 as needs-correction,
+    and counts follow the latest disposition.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

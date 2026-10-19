@@ -437,3 +437,70 @@ history note. THEORY-277 is requeued on this basis.
 - **Bot repair commits on a branch** ("docs: repair sources") leave a run
   at action_required. CI on the commit beneath is what counts. Read the
   repair's diff before merging. So far every one has only added links.
+
+## 2026-10-19 — batch 011 (wave 2)
+
+- The tag misleads triage. triage-003 drew wave 2 from THEORYs tagged
+  "mathematics", but THEORY-022, -191 and -192 are empirical.
+  Interpretability and Betti-curve studies carry the tag for their tools.
+  Classify by what the title asserts: a theorem, or a measurement.
+- Bounded Gromov δ from a tree decomposition with clique bags. If a graph
+  has a tree decomposition whose bags have diameter ≤ 1, its geodesic
+  triangles are 2-thin. Take the node of the tripod spanned by the three
+  corners' bags that is nearest a bag of p; its bag separates p from the
+  two corners. This settles hyperbolicity for any complex grown by gluing
+  on single faces (stacked polytopes, k-trees, Apollonian networks), and
+  is worth reusing when a promote_when asks for "δ bounded independently
+  of N".
+- "A tree of X tiles H^d" fails for d ≥ 3. In a face-to-face tiling, tiles
+  around a codimension-2 face form a finite cycle, and a tree of simplices
+  has none. It holds in d = 2 only because the codimension-2 faces of
+  ideal triangles are at infinity. Check any "tiling by a tree of cells"
+  claim this way.
+- "The dual is a tree" depends on the flavor. With preferential or uniform
+  gluing (s = 0, 1), several simplices share a face, so the face-adjacency
+  graph has cliques. The gluing or parent structure is always a tree; say
+  which one is meant.
+
+## 2026-10-19 — batch 015 (wave 4, dependency pass)
+
+- Wave 4 counts: 5 reviewed, 1 promotion path (CLAIM-269 split).
+- CLAIM-107 was decided in batch 003 (narrow-and-promote, carried out in
+  #173); its decision file is overwritten with supersedes_review,
+  disposition needs-correction. CLAIM-193 (batch 003, needs-correction,
+  carried out) and CLAIM-269 (batch 004, split) likewise. The queue
+  entries for these three need their batch and disposition updated.
+- CLAIM-148 and CLAIM-164 are new to the queue: add them as wave-4
+  candidates, decided.
+- THEORY-127's dependents, for a later batch: CLAIM-192 (Proposed,
+  interpretive) and CLAIM-271 (Proposed, interpretive) use only the court-
+  agenda possibility, that premise-wise and conclusion-wise majority can
+  disagree, so each can re-ground on THEORY-725. CLAIM-030 (Active,
+  interpretive) cites 'a rational group cannot judge proposition by
+  proposition from its members' judgments', which is the general
+  impossibility (Propositions 2–3), still THEORY-127's; THEORY-725's
+  Proposition 1 is one instance of it, enough as a formal anchor if the
+  text says 'can fail to', not 'cannot'.
+- Pattern: an Active claim with a Proposed ground and an inactive-ok
+  directive is a cheap wave-4 find after a split. Grep for directives
+  naming a split parent.
+
+## 2026-10-19 — batch 017 (wave 3, control)
+
+- Wave 3's control: 2 of 5, both formal. Non-formal entries 0 of 3.
+  Triage-004's components did not discriminate.
+- triage_wave3.py's depth takes the weakest source, which hides a full
+  reading of the source that holds the core (THEORY-078: depth 0, though
+  NOTE-479 read the derivations in full). Consider taking depth from the
+  NOTE of the source that the accepted clause cites, or the maximum over
+  sources.
+- triage_wave3.py's firsthand misfires on entries whose 'What was actually
+  shown' opens 'Nothing is measured' (THEORY-470). Add negative phrases
+  such as 'nothing is measured' and 'no theorems'.
+- The `mathematics` tag under-marks formal results. Triage-004's own
+  report of untagged formal entries (THEORY-248, -369, -198, -315) and
+  this batch's THEORY-078 and THEORY-309 point the same way.
+- Annealed or mean-field derivations (THEORY-199) are a recurring non-
+  yielder. The source proves the approximation exactly, not the title's
+  claim about the exact model. Read the claims table for 'strong for the
+  map' or 'numerical fidelity'.

@@ -1,0 +1,38 @@
+# record/promotion-audit/decisions/THEORY-192.yaml
+id: THEORY-192
+batch: batch-011
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    The title reports Zhang, Rich, Lee & Sharpee's measurement, which
+    NOTE-668 (read in full) grades moderate in each part. In 12 sessions
+    from 3 data sets, CA1 correlation rank-orders fall inside the 3D
+    hyperbolic distribution and outside the uniform Euclidean cubes and
+    shuffles (C1). The fitted radius rises with log exploration time
+    (C2, correlational), and that growth tracks experience rather than
+    speed, area or elapsed time (C3).
+  excluded: >-
+    Nothing in the title goes beyond the source, but all of it is one
+    study's moderate empirical result. The record has nothing to re-derive
+    and no second analysis. The promote_when's second clause, rejecting a
+    flat model with exponentially distributed field sizes, tests a claim
+    the body disclaims ("not that the metric is hyperbolic as against
+    flat"), not the title.
+evidence:
+  - "NOTE-668 (Read in full; Supplementary Information and source data not seen): C1 moderate (12 sessions, 3 data sets, shuffle control); C2 moderate, correlational; C3 moderate."
+blockers:
+  - "No independent analysis of other CA1 recordings, or by another group on the same data, in the record."
+notes: >-
+  This is THEORY-191's twin, from the same group and method, and it has
+  the same mis-tiering: empirical, so wave 3. The same split of its
+  promote_when applies. Replication tests the title. The
+  exponential-field-size flat null belongs in a QUESTION about whether the
+  hyperbolic metric is separable from multiscale coding in flat space.
+unlocks: []
+next_action: >-
+  Requeue in wave 3, alongside THEORY-191, under whatever policy the owner
+  sets there for single-study empirical titles.
