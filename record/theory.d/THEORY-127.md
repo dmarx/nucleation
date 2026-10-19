@@ -75,8 +75,6 @@ extends:
 - THEORY-725
 supports:
 - CLAIM-030
-- CLAIM-192
-- CLAIM-271
 ---
 <!-- inactive-ok-file: THEORY-536 — Proposed; the authors' replies, named in Connections, not leaned on -->
 <!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; Group Agency, named as the book whose chapter 3 would settle this, not leaned on -->

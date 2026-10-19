@@ -4,7 +4,19 @@ status: Proposed
 formerly:
 - CLAIM-tmppevte
 title: 'A multi-session argument''s thesis can move without any participant arguing for the move, which is a case of an organized whole''s course coming apart from its members'' intentions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Re-grounded at the owner's direction, carrying out the promotion
+    audit's decision (record/promotion-audit/decisions/CLAIM-192.yaml,
+    batch 021, ADR-047). The claim uses List and Pettit for one
+    possibility: a group's judgments can depart from what its members judge
+    on the same proposition while being fixed by their whole judgment
+    sets. That is THEORY-725's weak discontinuity, which is Active. The
+    ground moves there from THEORY-127, which keeps the general
+    impossibility the claim does not need. The status stays Proposed.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -25,7 +37,7 @@ rests_on:
 - CLAIM-177
 - CLAIM-030
 grounds:
-- THEORY-127
+- THEORY-725
 summary: >-
   Links the nucleating-argument line to the distributed-agency line. The
   translation exchange's thesis moved from [CLAIM-017](CLAIM-017.md) to [CLAIM-115](CLAIM-115.md) to
@@ -39,6 +51,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-017 CLAIM-133 — Superseded; cited as stages of the translation exchange's thesis sequence, not as standing -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; named as the question this claim sets aside -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: THEORY-127 — Proposed; named in the note of 2026-10-19 as the general impossibility this claim does not use -->
 
 # CLAIM-192: A multi-session argument's thesis can move without any participant arguing for the move, which is a case of an organized whole's course coming apart from its members' intentions
 
@@ -57,7 +70,7 @@ operative thesis moved by a mechanism no member intended. Each draft
 restated the argument, and the restatement carried the move. That is the
 pattern [CLAIM-030](CLAIM-030.md) names, in a second domain.
 
-List and Pettit ([THEORY-127](../theory.d/THEORY-127.md)) give the formal version of the possibility.
+List and Pettit ([THEORY-725](../theory.d/THEORY-725.md)) give the formal version of the possibility.
 A group's judgments can depart from what its members judge on the same
 proposition while being wholly fixed by the members' whole sets of
 judgments.
@@ -88,3 +101,14 @@ This claim's evidence is the move from [CLAIM-017](CLAIM-017.md) to [CLAIM-115](
 [CLAIM-247](CLAIM-247.md), granted and Active, finds that the bearer of communicative
 identity reversed "and no turn argues the change". [CLAIM-217](CLAIM-217.md) later
 supplied an argument for the reversal, after the fact.
+
+## Note of 2026-10-19: the formal ground is the court-agenda result
+
+The possibility cited above is [THEORY-725](../theory.d/THEORY-725.md)'s weak discontinuity. On the
+court agenda under the premise-based procedure, two profiles give the
+members the same verdicts on the conclusion, (yes, no, no), and the group
+accepts the conclusion in one and rejects it in the other. In both, the
+group's judgment set is a function of the members' whole sets. The claim
+needs nothing more. [THEORY-127](../theory.d/THEORY-127.md), from which [THEORY-725](../theory.d/THEORY-725.md) was split, keeps the
+general impossibility for proposition-wise rules, Propositions 2–3, which
+the source cites without proof. This claim does not use it.

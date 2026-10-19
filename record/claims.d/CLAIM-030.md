@@ -4,7 +4,20 @@ status: Active
 formerly:
 - CLAIM-tmp9myih
 title: 'An organized whole''s operative intention is not the expectation of its members'' intentions; it is produced by systemic mechanisms that can evolve apart from what the members intend'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Corrected at the owner's direction, carrying out the promotion audit's
+    decision (record/promotion-audit/decisions/CLAIM-030.yaml, batch 021,
+    ADR-047). The summary credited List and Pettit with the general result
+    that a rational group cannot judge proposition by proposition. That is
+    Propositions 2–3, cited and not proved in the source, and still
+    Proposed in THEORY-127. The claim needs only that such judging can
+    fail, which THEORY-725 (Active) proves for the court agenda. THEORY-725
+    is added as the formal anchor, and the summary says "can fail to". The
+    claim and its status are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -20,6 +33,7 @@ line: distributed-agency
 grounds:
 - THEORY-140
 - THEORY-144
+- THEORY-725
 - THEORY-127
 - THEORY-139
 illustrated_by:
@@ -27,9 +41,11 @@ illustrated_by:
 - CASE-025
 summary: >-
   The owner's thesis at U12, and the one that ran through the whole
-  exchange. List and Pettit's result that a rational group cannot judge
-  proposition by proposition from its members' judgments ([THEORY-127](../theory.d/THEORY-127.md)) is
-  its formal anchor; the fictional cases illustrate it.
+  exchange. List and Pettit's result that a group judging proposition by
+  proposition from its members' judgments can fail to be rational is its
+  formal anchor, proved for the court agenda ([THEORY-725](../theory.d/THEORY-725.md)); the general
+  impossibility is [THEORY-127](../theory.d/THEORY-127.md), still Proposed. The fictional cases
+  illustrate it.
 supports:
 - CLAIM-192
 - CLAIM-271
@@ -38,7 +54,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-177 THEORY-140 THEORY-144 — Proposed; open, and cited as open: under test, not settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; set aside, and cited to say what was set aside with it -->
-<!-- inactive-ok-file: THEORY-127 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
+<!-- inactive-ok-file: THEORY-127 — Proposed; the general impossibility, cited as open beside its Active court-agenda core THEORY-725 -->
 
 # CLAIM-030: An organized whole's operative intention is not the expectation of its members' intentions; it is produced by systemic mechanisms that can evolve apart from what the members intend
 
@@ -72,3 +88,16 @@ or the owner's unrecorded change of mind, is open.
 ## Note of 2026-10-12: evidence now linked
 
 [THEORY-139](../theory.d/THEORY-139.md) now grounds this claim. The group's view corrects the inconsistency any mechanical aggregation of its members' views would produce. It partly duplicates [THEORY-127](../theory.d/THEORY-127.md).
+
+## Note of 2026-10-19: the formal anchor is the court-agenda result
+
+The claim says a whole's operative intention is not obtained by
+aggregating its members' intentions. One case where proposition-wise
+aggregation fails is enough to anchor that formally. [THEORY-725](../theory.d/THEORY-725.md) gives such
+a case on the court agenda. Majority voting on each proposition yields an
+inconsistent set. Under the premise-based procedure the members' verdicts
+on the conclusion do not fix the group's, although their whole judgment
+sets do. That the failure is general, so that no proposition-wise rule
+meeting the usual conditions is robustly rational, is [THEORY-127](../theory.d/THEORY-127.md)'s, and it
+remains Proposed because the source cites it without proof. Nothing here
+depends on it.

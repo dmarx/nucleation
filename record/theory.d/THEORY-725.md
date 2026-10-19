@@ -38,6 +38,10 @@ summary: >-
   impossibility for proposition-wise rules is [THEORY-127](THEORY-127.md), still Proposed.
 extended_by:
 - THEORY-127
+supports:
+- CLAIM-030
+- CLAIM-192
+- CLAIM-271
 ---
 <!-- inactive-ok-file: THEORY-127 — Proposed; the general impossibility this court-agenda core was split from and that extends it, cited as open -->
 

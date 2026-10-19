@@ -4,9 +4,22 @@ status: Proposed
 formerly:
 - CLAIM-tmpkx2sz
 title: 'Model stitching tests whether a transport preserves decision-relevant information only in its reconstruction form: a map fitted to reproduce the target representation certifies one direction of Blackwell sufficiency, while task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    The warrant was corrected from demonstrated to interpretive at the
+    owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-126.yaml, batch 021, ADR-047).
+    The formal result about the two forms of stitching is CLAIM-268,
+    filed apart under ADR-040 and Active since batch 003. What this claim
+    adds is CLAIM-050's reading of stitching as a test of whether a
+    transport preserves decision-relevant information. That is
+    interpretation, not derivation. The title and the status are
+    unchanged.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   A representation is exhibited that a map of the stitching class
   reproduces on the input distribution (s ∘ r = target layers) while some
@@ -101,3 +114,16 @@ formal-apparatus line, resting on no claim. This claim now rests on it for
 the general content, and keeps [CLAIM-050](CLAIM-050.md), for reading stitching as a test of decision-relevant transport. Claims in other lines that need
 only the general content cite [CLAIM-268](CLAIM-268.md), so setting pragmatic-transport aside
 does not take it from them.
+
+## Note of 2026-10-19: the warrant is the reading's
+
+Everything a derivation can give here is in [CLAIM-268](CLAIM-268.md), which is Active. In
+the reconstruction form, success makes the target a deterministic garbling
+of r about the label, on any outcome space. In the task-loss form, the
+penalty is a difference of upper bounds that orders neither minimum, and
+it changes under invertible reparametrisation. What remains in this claim
+is [CLAIM-050](CLAIM-050.md)'s reading, that these facts test whether a transport keeps
+the information a receiver's decisions need. That reading is interpretive,
+and so is this claim's warrant now. The defeat condition still names the
+formal failures. Since [CLAIM-268](CLAIM-268.md) holds them, meeting either one would
+defeat both claims. The claim stays Proposed while [CLAIM-050](CLAIM-050.md) is.
