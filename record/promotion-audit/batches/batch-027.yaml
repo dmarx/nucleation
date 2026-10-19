@@ -44,6 +44,9 @@ recommendation: >-
   markers, not only in the title. Review the other prose-titled entries the
   learning-theory tag holds the same way.
 owner_questions: []
+promotion_prs:
+  - "#217: THEORY-187, THEORY-195, THEORY-211, narrow-and-promote (branch claude/promote-theories-187-195-211); new QUESTION-tmpzeamh, QUESTION-tmpbqvmq, QUESTION-tmp8swvm."
+  - "#219: THEORY-566, THEORY-176, promote (branch claude/promote-theories-176-566); new QUESTION-tmpa5vf9, QUESTION-tmpujty6."
 follow_up_prs:
   - "THEORY-187, THEORY-211: narrow-and-promote, each with its re-derivation as a dated note; promote_whens to new QUESTIONs (related to QUESTION-039, and to QUESTION-069 and QUESTION-080)."
   - "THEORY-566, THEORY-176: promote, with the composition argument and the stitching example as dated notes; promote_whens to new QUESTIONs (related to QUESTION-025 for THEORY-566)."
