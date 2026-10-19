@@ -52,6 +52,8 @@ finding: >-
   derivation (CLAIM-269, -326) or an Active claim with a re-derived core
   (CLAIM-148, -164).
 owner_questions: []
+promotion_prs:
+  - "#212: CLAIM-081 warrant correction (branch claude/correct-claim-081-warrant)."
 follow_up_prs:
   - "CLAIM-081: warrant demonstrated → interpretive, version 2, history entry citing batch 029, ADR-040 and ADR-043. Status unchanged."
 notes_for_ledger:
