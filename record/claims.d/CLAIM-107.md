@@ -6,18 +6,6 @@ formerly:
 title: 'Under Markov reconstruction kernels, an observable''s expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic'
 version: 3
 history:
-- version: 3
-  date: '2026-10-19'
-  note: >-
-    Corrected, carrying out the promotion audit's decision
-    (record/promotion-audit/decisions/CLAIM-107.yaml, batch 015, ADR-047).
-    THEORY-158 was narrowed to the finite state space and promoted to Active
-    after this claim's version 2, so "What it does not say" no longer calls
-    it Proposed, and its inactive-ok directive is removed. Its finite-state
-    equivalence, mean and variance conserved in every state, is the same as
-    the "second moment as well" stated here. It is still cited for the
-    limit on the Noether reading and not leaned on: the three steps use
-    nothing from it. The status is unchanged.
 - version: 2
   date: '2026-10-19'
   note: >-
@@ -34,6 +22,18 @@ history:
     conservation, the martingale step and the drift bound. THEORY-158 is
     cited for the continuous-time Noether theorem and no longer grounds the
     claim. The derivation and the note of 2026-10-10 are unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Corrected, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-107.yaml, batch 015, ADR-047).
+    THEORY-158 was narrowed to the finite state space and promoted to Active
+    after this claim's version 2, so "What it does not say" no longer calls
+    it Proposed, and its inactive-ok directive is removed. Its finite-state
+    equivalence, mean and variance conserved in every state, is the same as
+    the "second moment as well" stated here. It is still cited for the
+    limit on the Noether reading and not leaned on: the three steps use
+    nothing from it. The status is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

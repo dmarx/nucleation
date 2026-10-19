@@ -6,16 +6,6 @@ formerly:
 title: 'What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide'
 version: 2
 history:
-- version: 2
-  date: '2026-10-19'
-  note: >-
-    Note added, carrying out the promotion audit's decision
-    (record/promotion-audit/decisions/CLAIM-164.yaml, batch 015, ADR-047).
-    THEORY-084, one of this claim's grounds, was split after the note of
-    2026-10-12 described it whole. Its spectral identity is now CLAIM-377,
-    Active; the block inheritance and the threshold stay in THEORY-084,
-    Proposed. The new note says which part is established and what it
-    gives this claim. Grounds and status are unchanged.
 - version: 1
   date: '2026-10-11'
   note: >-
@@ -28,6 +18,16 @@ history:
     drifted 2.3°, and with a wide gap at the top the vector was the more
     stable object (2.1° against 4.7°). The exact angles differ from
     MOM's with the random draw.
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Note added, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-164.yaml, batch 015, ADR-047).
+    THEORY-084, one of this claim's grounds, was split after the note of
+    2026-10-12 described it whole. Its spectral identity is now CLAIM-377,
+    Active; the block inheritance and the threshold stay in THEORY-084,
+    Proposed. The new note says which part is established and what it
+    gives this claim. Grounds and status are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
