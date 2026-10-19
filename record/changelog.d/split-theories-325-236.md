@@ -14,4 +14,4 @@
 
 - [THEORY-236](record/theory.d/THEORY-236.md) is promoted to Active.
 - [THEORY-325](record/theory.d/THEORY-325.md) is narrowed to its stochastic half and stays Proposed.
-- These carry out the promotion audit's batch-006 decisions (ADR-047).
+- These carry out the promotion audit's batch-006 decisions ([ADR-047](record/decisions.d/ADR-047.md)).
