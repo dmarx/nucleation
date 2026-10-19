@@ -20,7 +20,7 @@ history:
     now says so. The identifications, the zero section and the degeneracy
     of a positive-only objective are re-derived below. The promote_when's
     request for a proof or counterexample about bilinear scores tests a
-    claim the title does not make. It moves to QUESTION-tmpvxp0f. Under the
+    claim the title does not make. It moves to QUESTION-148. Under the
     owner's rule of 2026-10-19 (ADR-047), the re-derivation meets the
     request for a second check of the identifications. The promote_when is
     removed.
@@ -39,7 +39,7 @@ summary: >-
   extend, is the paper's own remark taken further by the record; it is
   what separates this use of sheaves from the contextuality line.
 ---
-<!-- inactive-ok-file: QUESTION-tmpvxp0f — Open; the bilinear question moved out of this account's promote_when, named as open -->
+<!-- inactive-ok-file: QUESTION-148 — Open; the bilinear question moved out of this account's promote_when, named as open -->
 <!-- inactive-ok-file: LIT-276 THEORY-024 — Rejected; named for contrast, not leaned on: LIT-276 for NOTE-249's finding that it has no connection to this paper, THEORY-024 as a neighbouring use of global sections -->
 
 # THEORY-299: Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf of vector spaces pulled back from the schema, each triple scored by a norm of the coboundary on its edge and, in the squared-Euclidean form, the whole graph by the sheaf Laplacian; since the zero cochain is always a global section, what they learn is a contrastive margin, not the existence of a section
@@ -131,7 +131,7 @@ do.
   from cellular sheaves and Hansen and Ghrist's Laplacians rather than
   from Abramsky and Brandenburger, covers this paper too. [NOTE-249](../notes.d/NOTE-249.md) finds
   that [LIT-276](../literature.d/LIT-276.md) has no connection to it.
-- **[QUESTION-tmpvxp0f](../questions.d/QUESTION-tmpvxp0f.md).** Whether bilinear scores admit a sheaf-coboundary
+- **[QUESTION-148](../questions.d/QUESTION-148.md).** Whether bilinear scores admit a sheaf-coboundary
   representation at all: the request this account's promote_when carried
   until 2026-10-19.
 

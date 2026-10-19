@@ -1,5 +1,8 @@
 ---
+number: 148
 status: Open
+formerly:
+- QUESTION-tmpvxp0f
 title: 'Do bilinear knowledge-graph scores (RESCAL, ComplEx, HolE, the Neural Tensor Network, QuatE) admit a representation as a coboundary of a sheaf of vector spaces, or is there a proof that they do not?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   it. Whether any sheaf of vector spaces takes them in is open.
 ---
 
-# QUESTION-tmpvxp0f: Do bilinear knowledge-graph scores (RESCAL, ComplEx, HolE, the Neural Tensor Network, QuatE) admit a representation as a coboundary of a sheaf of vector spaces, or is there a proof that they do not?
+# QUESTION-148: Do bilinear knowledge-graph scores (RESCAL, ComplEx, HolE, the Neural Tensor Network, QuatE) admit a representation as a coboundary of a sheaf of vector spaces, or is there a proof that they do not?
 
 ## Why it is a question
 

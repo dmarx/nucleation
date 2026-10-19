@@ -1,5 +1,8 @@
 ---
+number: 147
 status: Open
+formerly:
+- QUESTION-tmpmiu6o
 title: 'In a second system of near-identical units on a known graph, are the synchronized clusters the symmetry orbits computed in advance, and does each cluster desynchronize in isolation where its own transverse block predicts?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   ([QUESTION-063](QUESTION-063.md)) needs, rests on one 11-node experiment.
 ---
 
-# QUESTION-tmpmiu6o: In a second system of near-identical units on a known graph, are the synchronized clusters the symmetry orbits computed in advance, and does each cluster desynchronize in isolation where its own transverse block predicts?
+# QUESTION-147: In a second system of near-identical units on a known graph, are the synchronized clusters the symmetry orbits computed in advance, and does each cluster desynchronize in isolation where its own transverse block predicts?
 
 ## Why it is a question
 

@@ -1,9 +1,9 @@
 ### Added
 
-- [QUESTION-tmpmiu6o](record/questions.d/QUESTION-tmpmiu6o.md): whether symmetry-cluster stability predictions hold
+- [QUESTION-147](record/questions.d/QUESTION-147.md): whether symmetry-cluster stability predictions hold
   in a second system of near-identical units, formerly [THEORY-276](record/theory.d/THEORY-276.md)'s
   promotion condition.
-- [QUESTION-tmpvxp0f](record/questions.d/QUESTION-tmpvxp0f.md): whether bilinear knowledge-graph scores admit a
+- [QUESTION-148](record/questions.d/QUESTION-148.md): whether bilinear knowledge-graph scores admit a
   sheaf-coboundary representation, formerly part of [THEORY-299](record/theory.d/THEORY-299.md)'s
   promotion condition.
 

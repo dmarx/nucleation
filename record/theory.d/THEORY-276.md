@@ -17,7 +17,7 @@ history:
     moves the cluster moves nothing else. The promote_when asked for a
     second experiment testing which clusters are seen and when, which is
     the stability question the title leaves to the dynamics. It moves
-    unchanged to QUESTION-tmpmiu6o. The claim is unchanged.
+    unchanged to QUESTION-147. The claim is unchanged.
 tags:
 - network-science
 - complex-systems
@@ -36,7 +36,7 @@ summary: >-
   sign of coupling rather than a shared cue is the record's inference.
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-157 — Proposed; the coupling and boundary claims this account bears on, open -->
-<!-- inactive-ok-file: QUESTION-tmpmiu6o — Open; the second-system test moved out of this account's promote_when, named as open -->
+<!-- inactive-ok-file: QUESTION-147 — Open; the second-system test moved out of this account's promote_when, named as open -->
 
 # THEORY-276: In a network of identical units with identical couplings, the orbits of the graph's symmetry group are synchronization clusters, and a cluster moved only by its own factor of the group can lose synchrony while the others keep it
 
@@ -135,7 +135,7 @@ No relations are declared.
   desynchronization is invariant because its input is equal, not because
   the coupling across its edge is weak. The near-decomposability test and
   the symmetry test pick out different objects.
-- **[QUESTION-tmpmiu6o](../questions.d/QUESTION-tmpmiu6o.md).** Whether the stability predictions hold in a
+- **[QUESTION-147](../questions.d/QUESTION-147.md).** Whether the stability predictions hold in a
   second system of near-identical units: the condition this account's
   promote_when carried until 2026-10-19.
 
