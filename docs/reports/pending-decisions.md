@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**842 document(s) awaiting a decision.**
+**840 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 842.
+95 of the 840.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-510 of the 842.
+510 of the 840.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -145,7 +145,7 @@
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 49 | 7 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 47 | 4 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-083](../../record/theory.d/THEORY-083.md) | 47 | 2 | Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean |
-| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 36 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
+| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 37 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 35 | 9 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 35 | 2 | In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 30 | 5 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
@@ -628,7 +628,7 @@
 
 ## ADRs
 
-2 of the 842.
+2 of the 840.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -637,7 +637,7 @@
 
 ## QUESTIONs
 
-9 of the 842.
+9 of the 840.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -653,7 +653,7 @@
 
 ## CLAIMs
 
-221 of the 842.
+219 of the 840.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -725,7 +725,7 @@
 | 2026-10-09 | Proposed | [CLAIM-107](../../record/claims.d/CLAIM-107.md) | 6 | 1 | A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion |
 | 2026-10-10 | Proposed | [CLAIM-139](../../record/claims.d/CLAIM-139.md) | 107 | 1 | A communicative kind's identity is grounded in its relational organization rather than in any expression or encoding; statistical methods recover aspects of that organization from restricted observations, translation transports it, and fidelity is which independently identifiable, decision-relevant relational distinctions persist |
 | 2026-10-10 | Proposed | [CLAIM-151](../../record/claims.d/CLAIM-151.md) | 88 | 0 | Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization |
-| 2026-10-10 | Proposed | [CLAIM-142](../../record/claims.d/CLAIM-142.md) | 67 | 14 | Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved |
+| 2026-10-10 | Proposed | [CLAIM-142](../../record/claims.d/CLAIM-142.md) | 68 | 14 | Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved |
 | 2026-10-10 | Proposed | [CLAIM-201](../../record/claims.d/CLAIM-201.md) | 38 | 3 | Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open |
 | 2026-10-10 | Proposed | [CLAIM-128](../../record/claims.d/CLAIM-128.md) | 33 | 4 | No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting |
 | 2026-10-10 | Proposed | [CLAIM-217](../../record/claims.d/CLAIM-217.md) | 33 | 0 | For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play, so the judges are the criterion a probe family is tested against, and a kind outruns only the families coarser than that standard |
@@ -747,7 +747,7 @@
 | 2026-10-10 | Proposed | [CLAIM-209](../../record/claims.d/CLAIM-209.md) | 16 | 1 | Probes and statistical models recover only the distinctions identifiable from the relational evidence they are given, and a signature sufficient for a stated family of communicative decisions outside the observed probes can be identified when the full latent factorization is not |
 | 2026-10-10 | Proposed | [CLAIM-228](../../record/claims.d/CLAIM-228.md) | 15 | 0 | Observational fidelity, as D_obs measures it, is a property of a rendering procedure over a class of source items, tested by one kernel family fitted on some items and scored on others, with the target term the readers' response averaged over the procedure's output; one source–target pair does not identify it, and a single rendering is judged as a sample of its procedure or by another measure |
 | 2026-10-10 | Proposed | [CLAIM-244](../../record/claims.d/CLAIM-244.md) | 15 | 0 | The defeat tests take one holistic, task-free judgement of fidelity as ground truth, though the line's own theses say fidelity is task-relative, interpreter-relative and not a single ranking |
-| 2026-10-10 | Proposed | [CLAIM-206](../../record/claims.d/CLAIM-206.md) | 12 | 0 | If a communicative kind can outrun every probe, human same-kind judgements, themselves one probe family, can neither confirm nor defeat the October thesis; if it cannot, the kind does in the tests only what an observational class does, which the record's term for a kind says it is not |
+| 2026-10-10 | Proposed | [CLAIM-206](../../record/claims.d/CLAIM-206.md) | 13 | 0 | If a communicative kind can outrun every probe, human same-kind judgements, themselves one probe family, can neither confirm nor defeat the October thesis; if it cannot, the kind does in the tests only what an observational class does, which the record's term for a kind says it is not |
 | 2026-10-10 | Proposed | [CLAIM-212](../../record/claims.d/CLAIM-212.md) | 12 | 0 | Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell's order compares a rendering with its source as evidence about the source's situation, which both readers decide about, while a rendering that re-performs the act in the target's situation is compared only through a correspondence of situations |
 | 2026-10-10 | Proposed | [CLAIM-224](../../record/claims.d/CLAIM-224.md) | 11 | 0 | Under partial relational constitution, a translation always changes the participants, audience and norms that the relational-constitution thesis makes constituents of the act, so whether the act survives turns on a correspondence of relations the structure cannot supply from inside |
 | 2026-10-10 | Proposed | [CLAIM-257](../../record/claims.d/CLAIM-257.md) | 10 | 0 | Observational distortion should be summed over the contexts both covers can host, with the target's new questions asked of the source too, and the questions only one side can decide reported as a separate change of cover, so that a rendering that adds a relation pays for it |
@@ -787,7 +787,7 @@
 | 2026-10-11 | Proposed | [CLAIM-155](../../record/claims.d/CLAIM-155.md) | 11 | 2 | Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject |
 | 2026-10-11 | Proposed | [CLAIM-165](../../record/claims.d/CLAIM-165.md) | 11 | 3 | A combined form constituted by mutual entrainment is not thereby a self in the subject sense: two dancers in phase are one coordination, an autonomous process, and still two subjects |
 | 2026-10-11 | Proposed | [CLAIM-184](../../record/claims.d/CLAIM-184.md) | 10 | 0 | Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure |
-| 2026-10-11 | Proposed | [CLAIM-188](../../record/claims.d/CLAIM-188.md) | 10 | 5 | For a candidate structure whose removal makes the remaining model singular, the reification rule's Gaussian Occam term misprices the cost of keeping it, by a term that grows with log n, so the rule is exact only where the model stays regular |
+| 2026-10-11 | Proposed | [CLAIM-188](../../record/claims.d/CLAIM-188.md) | 10 | 5 | Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule's Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular |
 | 2026-10-11 | Proposed | [CLAIM-168](../../record/claims.d/CLAIM-168.md) | 9 | 0 | Identifying agents by their will-organization is circular: will-organization is defined for an agent already given, and the agent-versus-device comparison presupposes an identified system, so neither can produce the factorization it is meant to find |
 | 2026-10-11 | Proposed | [CLAIM-169](../../record/claims.d/CLAIM-169.md) | 9 | 1 | On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon |
 | 2026-10-11 | Proposed | [CLAIM-171](../../record/claims.d/CLAIM-171.md) | 7 | 1 | A stored text means only what its readings make of it: the writer's projected receiver is one more reading, so an unread text has possible meanings and no fixed one |
@@ -814,20 +814,18 @@
 | 2026-10-13 | Proposed | [CLAIM-280](../../record/claims.d/CLAIM-280.md) | 27 | 5 | A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts |
 | 2026-10-13 | Proposed | [CLAIM-277](../../record/claims.d/CLAIM-277.md) | 25 | 5 | Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early |
 | 2026-10-13 | Proposed | [CLAIM-279](../../record/claims.d/CLAIM-279.md) | 20 | 2 | Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator |
-| 2026-10-13 | Proposed | [CLAIM-267](../../record/claims.d/CLAIM-267.md) | 19 | 12 | Per-step discrepancies between a chain of maps and a reference chain compound through the sensitivity of the later steps, so the same local error can be damped, accumulated or amplified, and closeness at every step can coexist with large end-to-end divergence |
 | 2026-10-13 | Proposed | [CLAIM-285](../../record/claims.d/CLAIM-285.md) | 16 | 0 | An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities |
 | 2026-10-13 | Proposed | [CLAIM-274](../../record/claims.d/CLAIM-274.md) | 11 | 1 | Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself |
 | 2026-10-13 | Proposed | [CLAIM-278](../../record/claims.d/CLAIM-278.md) | 10 | 3 | An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids |
+| 2026-10-13 | Proposed | [CLAIM-269](../../record/claims.d/CLAIM-269.md) | 9 | 2 | A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts |
 | 2026-10-13 | Proposed | [CLAIM-281](../../record/claims.d/CLAIM-281.md) | 9 | 1 | Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions |
 | 2026-10-13 | Proposed | [CLAIM-272](../../record/claims.d/CLAIM-272.md) | 8 | 0 | Giving every member an equal budget of actions does not equalize their influence, because coordination lets a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority |
 | 2026-10-13 | Proposed | [CLAIM-273](../../record/claims.d/CLAIM-273.md) | 8 | 1 | A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability |
 | 2026-10-13 | Proposed | [CLAIM-287](../../record/claims.d/CLAIM-287.md) | 8 | 4 | What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation |
 | 2026-10-13 | Proposed | [CLAIM-266](../../record/claims.d/CLAIM-266.md) | 7 | 1 | A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it |
-| 2026-10-13 | Proposed | [CLAIM-270](../../record/claims.d/CLAIM-270.md) | 7 | 1 | Retaining information about where a Markov chain started and staying close to the starting distribution are different properties: a chain can forget its initial state while its distribution stays far from where it began, so convergence is not preservation and losing information about the origin is not degradation |
 | 2026-10-13 | Proposed | [CLAIM-271](../../record/claims.d/CLAIM-271.md) | 7 | 5 | A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support |
 | 2026-10-13 | Proposed | [CLAIM-263](../../record/claims.d/CLAIM-263.md) | 6 | 5 | Whether two trained networks compute the same way can be tested by quotienting the architecture's full symmetry group and measuring what remains: a barrier that survives alignment marks a different mechanism, connection after alignment means shared feature structure, and the test cannot run where features have no counterpart |
 | 2026-10-13 | Proposed | [CLAIM-276](../../record/claims.d/CLAIM-276.md) | 6 | 2 | A shared interpretation's coherence, its fidelity to evidence and the plurality of live alternatives are separate quantities, and a population can raise the first while lowering the other two, so a collective interpretation's stability is no evidence of its truth |
-| 2026-10-13 | Proposed | [CLAIM-269](../../record/claims.d/CLAIM-269.md) | 5 | 2 | A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts |
 | 2026-10-13 | Proposed | [CLAIM-275](../../record/claims.d/CLAIM-275.md) | 5 | 3 | An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others |
 | 2026-10-13 | Proposed | [CLAIM-283](../../record/claims.d/CLAIM-283.md) | 4 | 4 | The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them |
 | 2026-10-13 | Proposed | [CLAIM-286](../../record/claims.d/CLAIM-286.md) | 4 | 1 | Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed |
@@ -881,7 +879,7 @@
 
 ## CASEs
 
-1 of the 842.
+1 of the 840.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -889,7 +887,7 @@
 
 ## TERMs
 
-2 of the 842.
+2 of the 840.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -898,7 +896,7 @@
 
 ## ARGs
 
-2 of the 842.
+2 of the 840.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

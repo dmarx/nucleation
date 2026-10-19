@@ -6,5 +6,5 @@
   argument supports.
 - [CLAIM-193](record/claims.d/CLAIM-193.md)'s demonstrated part is [CLAIM-269](record/claims.d/CLAIM-269.md)'s, so its warrant is now
   interpretive, and the defeat disjunct the two shared is dropped from it.
-- Both carry out the promotion audit's batch-003 decisions (ADR-047).
+- Both carry out the promotion audit's batch-003 decisions ([ADR-047](record/decisions.d/ADR-047.md)).
   Statuses are unchanged.

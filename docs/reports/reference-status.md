@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**524 documents cited without acknowledgement.** Not listed: 10221 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**522 documents cited without acknowledgement.** Not listed: 10215 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -982,7 +982,7 @@ A macro feature can supervene on a system's present state and still carry inform
 
 Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved
 
-14 citations in 6 files await a look; 53 other citations of it are acknowledged.
+14 citations in 6 files await a look; 54 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:80`](../../record/claims.d/CLAIM-187.md)
 - [`record/claims.d/CLAIM-187.md:110`](../../record/claims.d/CLAIM-187.md)
@@ -1119,25 +1119,6 @@ An operative regime, the governing organization among regimes, and the capacity 
 - [`record/questions.d/QUESTION-054.md:19`](../../record/questions.d/QUESTION-054.md)
 - [`record/questions.d/QUESTION-054.md:45`](../../record/questions.d/QUESTION-054.md)
 
-### [CLAIM-267](../../record/claims.d/CLAIM-267.md) — Proposed
-
-Per-step discrepancies between a chain of maps and a reference chain compound through the sensitivity of the later steps, so the same local error can be damped, accumulated or amplified, and closeness at every step can coexist with large end-to-end divergence
-
-12 citations in 6 files await a look; 7 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-049.md:48`](../../record/claims.d/CLAIM-049.md)
-- [`record/claims.d/CLAIM-059.md:74`](../../record/claims.d/CLAIM-059.md)
-- [`record/claims.d/CLAIM-059.md:75`](../../record/claims.d/CLAIM-059.md)
-- [`record/claims.d/CLAIM-059.md:83`](../../record/claims.d/CLAIM-059.md)
-- [`record/claims.d/CLAIM-208.md:38`](../../record/claims.d/CLAIM-208.md)
-- [`record/claims.d/CLAIM-208.md:91`](../../record/claims.d/CLAIM-208.md)
-- [`record/claims.d/CLAIM-260.md:71`](../../record/claims.d/CLAIM-260.md)
-- [`record/claims.d/CLAIM-260.md:74`](../../record/claims.d/CLAIM-260.md)
-- [`record/decisions.d/ADR-040.md:186`](../../record/decisions.d/ADR-040.md)
-- [`record/decisions.d/ADR-040.md:203`](../../record/decisions.d/ADR-040.md)
-- [`record/decisions.d/ADR-043.md:224`](../../record/decisions.d/ADR-043.md)
-- [`record/decisions.d/ADR-043.md:255`](../../record/decisions.d/ADR-043.md)
-
 ### [LIT-369](../../record/literature.d/LIT-369.md) — Proposed
 
 Grokking and Generalization Collapse: Insights from HTSR theory
@@ -1182,8 +1163,8 @@ Convergence of representations, in the Platonic hypothesis's sense, is convergen
 
 12 citations in 4 files await a look; 34 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-193.md:36`](../../record/claims.d/CLAIM-193.md)
-- [`record/claims.d/CLAIM-193.md:64`](../../record/claims.d/CLAIM-193.md)
+- [`record/claims.d/CLAIM-193.md:48`](../../record/claims.d/CLAIM-193.md)
+- [`record/claims.d/CLAIM-193.md:76`](../../record/claims.d/CLAIM-193.md)
 - [`record/literature.d/LIT-302.md:25`](../../record/literature.d/LIT-302.md)
 - [`record/notes.d/NOTE-286.md:25`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-286.md:133`](../../record/notes.d/NOTE-286.md)
@@ -2418,7 +2399,7 @@ The record fixes the grammar an argument is expressed in, though not its shape: 
 
 ### [CLAIM-188](../../record/claims.d/CLAIM-188.md) — Proposed
 
-For a candidate structure whose removal makes the remaining model singular, the reification rule's Gaussian Occam term misprices the cost of keeping it, by a term that grows with log n, so the rule is exact only where the model stays regular
+Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule's Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular
 
 5 citations in 3 files await a look; 5 other citations of it are acknowledged.
 
@@ -4069,7 +4050,7 @@ Blackwell's order compares experiments about one parameter, so it does not reach
 
 A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts
 
-2 citations in 2 files await a look; 3 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:188`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-043.md:235`](../../record/decisions.d/ADR-043.md)
@@ -5322,14 +5303,6 @@ Model stitching certifies an order of information only in its reconstruction for
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:188`](../../record/decisions.d/ADR-040.md)
-
-### [CLAIM-270](../../record/claims.d/CLAIM-270.md) — Proposed
-
-Retaining information about where a Markov chain started and staying close to the starting distribution are different properties: a chain can forget its initial state while its distribution stays far from where it began, so convergence is not preservation and losing information about the origin is not degradation
-
-1 citation in 1 file awaits a look; 6 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-040.md:187`](../../record/decisions.d/ADR-040.md)
 
 ### [CLAIM-273](../../record/claims.d/CLAIM-273.md) — Proposed
 
