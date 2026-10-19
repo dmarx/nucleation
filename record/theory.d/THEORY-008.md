@@ -67,7 +67,6 @@ supports:
 - CLAIM-193
 - CLAIM-269
 ---
-<!-- inactive-ok-file: THEORY-301 — Proposed; the account of Prop. 3 filed from LIT-257, named and not leaned on -->
 
 # THEORY-008: On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
 

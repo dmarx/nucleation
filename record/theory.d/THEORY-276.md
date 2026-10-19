@@ -1,22 +1,23 @@
 ---
 number: 276
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpov2tm
-promote_when: >-
-  An independent experiment or analysis, in a second physical or
-  biological system of near-identical units on a known graph, in which
-  the synchronized clusters observed are the symmetry orbits computed in
-  advance, and a cluster desynchronizes in isolation where its own
-  transverse block, and only it, is predicted to lose stability. It is
-  refuted, for the stated class, by a stable synchronized pattern that
-  splits an orbit without breaking a symmetry, or by an isolated
-  desynchronization that the IRR blocks do not predict. What cannot
-  settle it: networks with nonidentical units, weighted or directed
-  coupling, or clusters from input-equitable partitions without symmetry,
-  which are outside the claim.
 title: "In a network of identical units with identical couplings, the orbits of the graph's symmetry group are synchronization clusters, and a cluster moved only by its own factor of the group can lose synchrony while the others keep it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/THEORY-276.yaml,
+    batch 013, ADR-047). The title is a statement about invariant sets, and
+    is re-derived below by the fixed-point-subspace argument, which makes
+    the hypothesis for isolated desynchronization explicit: the factor that
+    moves the cluster moves nothing else. The promote_when asked for a
+    second experiment testing which clusters are seen and when, which is
+    the stability question the title leaves to the dynamics. It moves
+    unchanged to QUESTION-tmpmiu6o. The claim is unchanged.
 tags:
 - network-science
 - complex-systems
@@ -35,6 +36,7 @@ summary: >-
   sign of coupling rather than a shared cue is the record's inference.
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-157 — Proposed; the coupling and boundary claims this account bears on, open -->
+<!-- inactive-ok-file: QUESTION-tmpmiu6o — Open; the second-system test moved out of this account's promote_when, named as open -->
 
 # THEORY-276: In a network of identical units with identical couplings, the orbits of the graph's symmetry group are synchronization clusters, and a cluster moved only by its own factor of the group can lose synchrony while the others keep it
 
@@ -133,3 +135,33 @@ No relations are declared.
   desynchronization is invariant because its input is equal, not because
   the coupling across its edge is weak. The near-decomposability test and
   the symmetry test pick out different objects.
+- **[QUESTION-tmpmiu6o](../questions.d/QUESTION-tmpmiu6o.md).** Whether the stability predictions hold in a
+  second system of near-identical units: the condition this account's
+  promote_when carried until 2026-10-19.
+
+## Note of 2026-10-19: the invariance, derived directly
+
+Let π be a graph automorphism, so A_{π(i)π(j)} = Aᵢⱼ, and let P permute
+node states, (Px)ᵢ = x_{π(i)}. Write f for the right-hand side of eq. (1).
+
+- **Equivariance.** f(Px)ᵢ = F(x_{π(i)}) + σ Σⱼ Aᵢⱼ H(x_{π(j)}) =
+  F(x_{π(i)}) + σ Σⱼ A_{π(i)π(j)} H(x_{π(j)}) = (Pf(x))ᵢ.
+- **Fixed-point subspaces are invariant.** For any subgroup Σ of the
+  automorphism group, let Fix(Σ) be the states with Px = x for every
+  π ∈ Σ. If x ∈ Fix(Σ), then f(x) = f(Px) = Pf(x), so the vector field is
+  tangent to Fix(Σ), and by uniqueness a trajectory that starts there
+  stays there.
+- **Clusters.** Fix(G), for the whole group G, is the set of states equal
+  on every orbit. So orbit-wise synchrony is invariant.
+- **Isolated desynchronization.** Let G = H_m × K, where H_m moves only the
+  nodes of C_m and K, the product of the other factors, fixes C_m
+  pointwise. For a node i outside C_m, H_m fixes i, so G·i = K·i. The
+  K-orbits are the G-orbits outside C_m and singletons inside it. Fix(K) is
+  then the set of states synchronized on every other cluster with C_m
+  free, and it is invariant. If H_m also moved another cluster, the two
+  would be intertwined, and they lose synchrony together, as the paper
+  says.
+
+Whether these states are stable is the separate question the transverse
+IRR blocks answer. The title claims only possibility, and the 11-node
+experiment exhibits the stable case.
