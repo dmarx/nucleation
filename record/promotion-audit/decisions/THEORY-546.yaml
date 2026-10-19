@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-546.yaml
+id: THEORY-546
+batch: batch-020
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    Nothing for promotion. The persistence criterion is the majority view
+    in a survey written by its leading opponent. Olson's too-many-thinkers
+    objection is reported and its replies are called hard to defend
+    (NOTE-374 C6). Brain-state transfer is left open. The account stays
+    Proposed.
+  excluded: >-
+    The title's exclusive "only when ... with a clause against branching".
+    The entry's own body, and the sources it cites, contradict it on two
+    points.
+      (1) Fission. The survey's §5 is a dilemma: fission forces either
+          multiple occupancy or a non-branching clause (NOTE-374 C5,
+          "strong as a dilemma"). The body says so ("Fission then forces
+          either multiple occupancy or a non-branching clause"). The title
+          makes the non-branching clause a requirement. Parfit gives it as
+          a sufficient condition only (NOTE-378 C4).
+      (2) Circularity. In the body and in the survey, circularity is
+          answered by quasi-memory (Parfit), and gaps by causal dependence
+          (Shoemaker). The title gives overlapping chains of causally
+          dependent states as the only repair, and does not mention
+          quasi-memory. Nothing in the record shows these repairs to be
+          the only ones. The survey reports them as the answers it knows.
+evidence:
+  - "NOTE-374 Claims: C4 (moderate), memory continuity fails transitivity, circularity and sleep, and causal psychological continuity avoids the obvious objections. C5 (strong as a dilemma), fission forces multiple occupancy or non-branching."
+  - "NOTE-378 C4: non-branching psychological continuity is a sufficient criterion of identity (moderate), with continuity left unspecified."
+  - "THEORY-546 body, 'The repairs': 'Fission then forces either multiple occupancy or a non-branching clause (§5), which Parfit supplies ... as a sufficient condition only.'"
+blockers:
+  - "The too-many-thinkers objection is unanswered on the record's reading, and brain-state transfer is open. Both are named in the promote_when."
+notes: >-
+  This is the exclusive-"only" pattern (NOTES, batch 002), tested against
+  the field's standard alternative. Multiple occupancy (Lewis, Perry) is a
+  standard response to fission, and the entry's own body names it. The
+  correction does not touch status. Triage-004's 7 of 7 did not detect
+  that the title overstates its own body.
+unlocks: []
+next_action: >-
+  Correction PR, status unchanged. Retitle to: a person persists by
+  psychological continuity, not by sameness of substance or of the human
+  animal; Locke's sameness of consciousness, which he leaves undefined,
+  meets the charges of circularity, intransitivity and gaps when recast as
+  overlapping chains of causally dependent psychological states with
+  quasi-memory, and fission then needs a further choice between a clause
+  against branching and multiple occupancy. Add a dated history note
+  (appended last) citing this decision.

@@ -14,7 +14,7 @@ pick up where the last one stopped.
 | `check.py` | Fails if the queue and the decision files disagree | run before every commit |
 | `triage.py` | Scores wave-1 candidates by the rubric, from metadata | run on a freshly fetched origin/main when re-triaging |
 | `triage_bundling.py` | Scores wave-2 mathematics THEORYs for bundling (triage-003) | as above |
-| `triage_wave3.py` | Scores wave-3 source-backed THEORYs for bundling and reading depth, and draws a control sample (triage-004) | as above |
+| `triage_wave3.py` | Scores Proposed THEORYs outside the queue for bundling and reading depth, routes formal results to re-derivation, and draws a control sample (triage-004, -005) | as above |
 
 ## Resuming
 

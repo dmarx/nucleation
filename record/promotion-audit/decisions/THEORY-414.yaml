@@ -1,0 +1,33 @@
+# record/promotion-audit/decisions/THEORY-414.yaml
+id: THEORY-414
+batch: batch-020
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. The equilibrium half is a synthesis of Lewis, Aumann,
+    Aoki and Greif, argued with examples. The reduction of constitutive
+    rules is worked once, for a toy first-occupancy property, and asserted
+    in general (NOTE-395: C4 strong for the toy case, C5 weak to
+    moderate). The reduction also depends on a reading of collective
+    acceptance loose enough to make the "counts as" biconditionals hold by
+    construction. A rival account (THEORY-625) is open.
+evidence:
+  - "NOTE-395 read the paper and the authors' reply in full. The six commentaries were not read."
+  - "THEORY-414's 'What this does not say' grants that no case is given of a status with no regulative pre-image, which is exactly what its promote_when asks for."
+blockers:
+  - "No constitutive rule with no regulative pre-image is tried, and the general reduction (C5) is weak to moderate."
+  - "The representation condition that separates human institutions from animal correlated equilibria is a stipulation. The reply calls it a working hypothesis."
+notes: >-
+  No separable core worth splitting. The toy equivalence of [R] with [B]
+  and [S] holds by substitution, and it is already stated in the body.
+  Filing it as a CLAIM would add a tautology, not a result. ADR-047 v3
+  does not apply: the title is a conceptual reduction, not a
+  measurement. Triage-004 scored it 7 of 7, and none of the components
+  marks a conceptual analysis (batch 017 saw the same with THEORY-625).
+unlocks: []
+next_action: None.

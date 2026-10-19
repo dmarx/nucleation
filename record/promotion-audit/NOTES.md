@@ -628,3 +628,131 @@ history note. THEORY-277 is requeued on this basis.
   ledger) and were fixed by reordering. Also, a CLAIM's `grounds` takes
   only THEORY, CASE or LIT codes; another claim used as a worked example
   is cited in the body, not listed (#196).
+
+## 2026-10-19 — batch 022 (wave 5 opens, fixed-rule sample)
+
+- Wave 5's population (sample_wave5.py): 219 codes, 179 Proposed
+  interpretive CLAIMs and 40 multi-source non-mathematics THEORYs. The
+  THEORY half of the definition (at least three distinct LIT sources) is a
+  proxy for "synthesis" and was not validated; THEORY-058 fit it well.
+- An interpretive warrant over an observational defeat condition is
+  pattern 1's mirror (CLAIM-052). The fix is a warrant correction to
+  empirical, not a split, when the claim is a single generalization that
+  is simply untested. ADR-043's "empirical" covers untested hypotheses
+  whose support would be observational.
+- An existence title with a documented case is the cheapest promotion path
+  in every wave so far (THEORY-171's in batch 008, CLAIM-328 here). For
+  interpretive claims it still goes to the owner.
+- Claims in one argument line should be decided root first. CLAIM-217
+  cannot move before CLAIM-151, which cannot move before CLAIM-004 and
+  CLAIM-061. Sampling such claims independently spends reviews on entries
+  that are blocked by construction.
+
+## 2026-10-19 — batch 021 (wave 4, THEORY-127 dependents)
+
+- Wave 4 counts: 3 reviewed (CLAIM-192, -271, -030), 0 promotion paths.
+  CLAIM-206 and CLAIM-126 are wave-1 candidates: 2 reviewed, 0 promotion
+  paths.
+- All five decisions are new; none supersedes an earlier review. Remove
+  CLAIM-192, CLAIM-271 and CLAIM-030 from the requeue list.
+- Pattern 1, a demonstrated warrant left over a split-off formal core, has
+  now appeared in five ADR-040 parents: CLAIM-081, -193, -056, -269 and
+  -126. Check every ADR-040 parent still marked demonstrated, in one
+  sweep.
+- Pattern: dependents of a split parent usually cite its general result
+  only for an existence statement. 'Cannot always' or 'can fail to' is
+  settled by one instance, so the split's core is enough.
+
+## 2026-10-19 — batch 023 (THEORY-127, Proposition 3)
+
+- The ultrafilter argument fits in a decision file. For a judgment
+  aggregation impossibility, the work is finite. - List the agenda's
+  minimally inconsistent sets. - Show conditional entailment connects all
+  literals. - Find one minimally inconsistent triple that stays consistent
+  with two of its members negated. The rest is the standard finite-
+  ultrafilter lemma. Reusable for any "no independent, unanimous, non-
+  dictatorial rule" claim in the record.
+- A general title can be false although its worked case is a theorem.
+  "Interconnected propositions" fails on affine agendas, for example {p,
+  q, p↔q}, where issue-wise parity is a non-dictatorial, independent,
+  unanimous, robustly rational rule. When a THEORY states a social-choice
+  impossibility for a vaguely named class, test it on an affine agenda
+  before promoting the general wording.
+- The record holds no Dietrich–List paper, and a grep for "Dietrich" finds
+  an unrelated LIT-912 (flow). Under ADR-047 v2 the re-derivation stands
+  in for it.
+- **Trap: codes inside written paths.** `luria repair` turns a code
+  inside a path such as `record/promotion-audit/decisions/THEORY-127.yaml`
+  into a link, which breaks the path. In record entries, cite a decision
+  file as "the promotion audit's decision file for THEORY-127", not by
+  path. QUESTION-140, -141, -147 and -148 on main already carry broken
+  paths (found by batch 023, not yet fixed).
+
+## 2026-10-19 — batch 020 (wave 3)
+
+- Triage-004's top scores carry no information: five 7-of-7 entries gave
+  one promotion. Sort wave 3 by what the title asserts (theorem, measured
+  result, argument) instead.
+- ADR-047 v3's first use. A model-run result, in hedged existence form and
+  read in full, promotes once its scope is narrowed to the model actually
+  run (THEORY-295: a memoryless single-test consensus). Expect more of
+  these among the social-epistemology simulations.
+- Exclusive "only" again (THEORY-546). Test a title's "only when" or
+  "requires" against the dilemmas its own body reports. The body named
+  multiple occupancy as the alternative to non-branching.
+
+## 2026-10-19 — batch 018 (wave 3, ADR-047 v3)
+
+- First use of ADR-047 v3. "Read in full" was taken to allow figures and
+  supplements unseen, provided the title rests only on results the text
+  reports. Both NOTEs (672, 668) qualify. A title resting on a
+  supplementary table known only by summary would not.
+- A promote_when that asks for a confirming instance of a logical
+  consequence (THEORY-255: "a second model that also places the deviation
+  outside the meet") is met by the proof of the consequence. What remains,
+  which published models drop which assumption, is a QUESTION.
+- Triage-004's maximum score (7) went 2 of 3 here and 2 of 5 in batch 016.
+  The three 7s reviewed here split along formal content, which the rubric
+  doesn't score. Batch 017's formal-content flag is the fix.
+- THEORY-235 should move to wave 5 in the queue: a single-source
+  philosophical argument with open objections.
+
+## 2026-10-19 — batch 019 (wave 3, formal)
+
+- ADR-047 v3 needs the measurements, not only the reading. NOTE-816
+  (THEORY-292) and NOTE-758 (THEORY-256) both say "read in full" and
+  "figures read through captions only". The difference was that LIT-986
+  states its numbers in the text and LIT-937 does not. Grep the NOTE's
+  history for "captions" and check that the title's numbers appear in the
+  extracted text.
+- A short derivation of a preparation-noncontextuality bound without
+  outcome determinism. Put u = μ1 − μ3 and v = μ4 − μ2. The equivalence
+  gives |u|, |v| ≤ ν pointwise, and |σa + τb| + |σa − τb| = 2max(|a|, |b|)
+  ≤ 2. Together these give σ⟨X⟩ + τ⟨Z⟩ ≤ 1. Dropping the equivalence gives
+  2, the gbit. The same template may serve other symmetric-orbit
+  inequalities.
+- Screening lemmas from full capture. If I(H:E) = I(V:E) with H drawn from
+  V alone, then I(V:E|H) = 0, and any separation statement that holds
+  given V passes to H. This is the core of THEORY-198, and it is a general
+  tool for information-bottleneck claims in the record.
+- "Stays finite" in a bound's title should name its finiteness condition.
+  THEORY-248's Lipschitz bound is finite exactly when the output law's
+  rate-distortion function is finite at ε/(2L).
+
+## 2026-10-19 — round 018–023, summary
+
+- **Yields.** Wave 3: 018 at 4 of 5, 019 at 4 of 5, 020 at 1 of 5.
+  Wave 4: 021 at 0 of 5, with four corrections. Wave 5: 022 at 1 of 5,
+  the owner's call. THEORY-127 (023): narrow-and-promote, after
+  Proposition 3 was re-derived. Every wave-3 path was a formal result or
+  a measurement read in full (ADR-047 v3). Arguments and conceptual
+  analyses went 0 of 7.
+- **Sort wave 3 by what the title asserts** (batch 020). A theorem goes
+  to re-derivation, a measurement to v3, and an argument to wave 5.
+  Triage-005's route flag does this. Its score does not.
+- **v3 needs the numbers in the text.** "Read in full" excludes results
+  that the NOTE saw only in figure captions (THEORY-292).
+- **Warrant correction is the next cheap work.** Wave 5's first sample
+  promoted almost nothing. It found misclassified warrants, and a
+  mechanical count suggests 36 more. ADR-040 parents marked demonstrated
+  are a second sweep (pattern 1, five cases now).

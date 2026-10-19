@@ -1,0 +1,41 @@
+# record/promotion-audit/decisions/CLAIM-151.yaml
+id: CLAIM-151
+batch: batch-022
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing is promoted. The version-2 restatement already absorbs the
+    Active granted objection CLAIM-229 (cases restated with intention held
+    fixed, and "participant roles" for "participants"), so no correction is
+    owed.
+  excluded: >-
+    The whole claim. It rests on CLAIM-004 and CLAIM-061, both Proposed and
+    interpretive. Two counters are open: CLAIM-221 (intention-based
+    accounts of illocution plausibly meet its defeat condition for every
+    act it uses) and CLAIM-224 (under partial constitution every
+    translation changes the constituents, so the act-change test cannot
+    discriminate). Its grounds are invented cases with readings the
+    assistant assigned (CLAIM-229) and Searle's account (LIT-482), which is
+    prior art, not a test.
+evidence:
+  - "rests_on: CLAIM-004 (Proposed, interpretive), CLAIM-061 (Proposed, interpretive)."
+  - "objected_by: CLAIM-221 (Proposed counter), CLAIM-224 (Proposed counter), CLAIM-229 (Active, granted, demonstrated)."
+  - "Its defeat condition asks for documented or elicited cases with intention held fixed and the speaker's standing or audience role varied; the record holds none."
+blockers:
+  - "Two Proposed premises (CLAIM-004, CLAIM-061)."
+  - "Two open counters (CLAIM-221, CLAIM-224) that the version-2 restatement answers only in part."
+  - "No documented or elicited cases of the kind its defeat condition names."
+notes: >-
+  A 2026-10-10 pragmatic-transport entry, as NOTES predicted for wave 5,
+  but not pattern 1: its warrant is interpretive and its defeat condition
+  tests a conceptual thesis about what fixes an act against informed
+  participants' verdicts, which suits the warrant.
+unlocks: []
+next_action: >-
+  None. Requeue when CLAIM-004 and CLAIM-061 are decided, or when CASE-021
+  or a study of standing-varied cases is run.

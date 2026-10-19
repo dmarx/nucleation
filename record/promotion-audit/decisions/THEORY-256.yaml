@@ -1,0 +1,75 @@
+# record/promotion-audit/decisions/THEORY-256.yaml
+id: THEORY-256
+batch: batch-019
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The theorem (Prop. 2.2, Thm 2.3), re-derived below, and the
+    experiments as measured. Under ADR-047 v3 one study suffices for the
+    empirical clauses: NOTE-758 read LIT-986 in full (§§1–6, App. A–I), and
+    the numbers the clauses rest on are stated in the text, not only in
+    figures. They are about 10–11 effective dimensions against 242 for the
+    joint state; per-factor dimensions summing to 14 against a union of 12;
+    and collapse to about 10 dimensions within hundreds of steps for every
+    noise level. Nothing in the record contradicts them. THEORY-197 and
+    THEORY-274 are contrasting cases, not counter-evidence. The narrowed
+    title must claim no more than was measured: 4-layer GPT-2-style
+    transformers (d_model 120 and 480) on the five-factor Mess3 and Bloch
+    Walk processes, nearly independent per-factor subspaces that are
+    approximately orthogonal in their leading components, and the
+    token-noise construction tested.
+  excluded: >-
+    "Small transformers trained by next-token prediction on such processes"
+    in general, and "approximately orthogonal subspaces" without the
+    qualifier. The body itself says dimension additivity shows linear
+    independence and the overlap metric only approximate orthogonality in
+    two components (claims C2–C4 moderate, one family of processes, one
+    noise construction). Also excluded: the architectural reading (C5,
+    weak), which the body already disclaims. The promote_when asks for a
+    replication on a second family or objective, with the loss gap
+    reported. Under ADR-047 v3 it moves, unchanged, to a new QUESTION
+    related to QUESTION-060.
+evidence:
+  - "NOTE-758 v1 history: 'Read in full ... main text §§1–6 and Appendices A–I ... Figures were read through their captions only.' The experimental numbers in THEORY-256's body (10–11 vs 242; 14 vs 12; collapse to about 10) are from the text."
+  - "NOTE-758 claims: C1 strong (elementary linear algebra); C2, C3, C4 moderate, one synthetic family, one noise construction; C5 weak."
+  - >-
+    Re-derivation of the theorem. Tokens are tuples x = (x_1, …, x_N) and
+    the GHMM's operators factor, T^(x) = ⊗_n T_n^(x_n). (1) Products stay
+    products. If η = ⊗_n η_n, then η T^(x) = ⊗_n (η_n T_n^(x_n)), and the
+    normaliser factors too: (⊗_n a_n)(⊗_n 1_n) = Π_n (a_n 1_n). So the
+    updated predictive vector η T^(x) / (η T^(x) 1) = ⊗_n η_n′, with
+    η_n′ = η_n T_n^(x_n) / (η_n T_n^(x_n) 1_n). The stationary start is a
+    product: Σ_x T^(x) = ⊗_n Σ_{x_n} T_n^(x_n), whose stationary vector is
+    ⊗_n π_n. By induction every predictive state is a product. (2)
+    Dimension. Each factor η_n lies in the affine hyperplane
+    {η_n : η_n 1_n = 1} of ℝ^{d_n}, of dimension d_n − 1, and a product
+    state is fixed by its factors, so the product states form a set of
+    dimension at most Σ_n (d_n − 1). (3) The embedding. The partial trace
+    η ↦ η_n (contracting every other factor with 1_m) is linear in η and
+    returns η_n exactly on product states. Fix a point p_n of each
+    hyperplane and an orthonormal basis of its direction space. The map
+    η ↦ ⊕_n coordinates of (tr_{≠n} η − p_n) is affine, injective on product
+    states by (2), and lands in a direct sum of mutually orthogonal blocks
+    of dimension d_n − 1, Σ_n (d_n − 1) in all. Off the product set the
+    partial traces discard the correlations among factors, so the map is
+    lossy there; the paper measures the loss as the total correlation.
+blockers: []
+notes: >-
+  Confidence medium. The theorem is certain, and the measurements are
+  stated in the text, but they are one family of synthetic processes, so
+  the title must name it. Splitting the theorem off was considered and
+  rejected: ADR-047 v3 lets the narrowed whole go Active, and the
+  empirical clauses, once named, claim no more than was measured.
+unlocks:
+  - "QUESTION-060 is answered in part by THEORY-256. Check it in a dependency pass."
+next_action: >-
+  Narrow-and-promote PR. Retitle to the tested transformers and processes,
+  "nearly independent per-factor subspaces, approximately orthogonal in
+  their leading components", and the token-noise construction tested.
+  Set Active. Add the theorem's re-derivation and the ADR-047 v3 basis as
+  a dated note. Move the promote_when, unchanged, to a new QUESTION
+  related to QUESTION-060.

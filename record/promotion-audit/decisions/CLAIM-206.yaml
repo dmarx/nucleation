@@ -1,0 +1,39 @@
+# record/promotion-audit/decisions/CLAIM-206.yaml
+id: CLAIM-206
+batch: batch-021
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+warrant: demonstrated
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    The dilemma is valid as a conditional. It needs two premises: CLAIM-135
+    ("A kind can be real and still unseparated by an insufficient family of
+    probes"), and the reading of judges as one probe family. Given both,
+    the two horns follow as stated. The misfire it found in CLAIM-142 v1's
+    defeat condition was correct: a one-probe family, "ask judges whether
+    the two realizations are the same act", met that condition trivially.
+  excluded: >-
+    Promotion. This is a counter, so promoting it would mean the record is
+    persuaded, and the record has already replied in three places:
+    - CLAIM-217 rejects the first horn's premise. No claim says a kind
+      outruns every family, and for a communicative kind, competent uptake
+      is the criterion a family is tested against.
+    - TERM-040 v2 corrects the gloss the second horn used.
+    - CLAIM-142 v2 excludes the trivial probe.
+    The claim's own "Where it stands" says it "stays open until the owner
+    decides on it". Its premises CLAIM-135 and CLAIM-046 are Proposed and
+    interpretive.
+evidence:
+  - "CLAIM-206 'Where it stands': CLAIM-217 answers the first horn; TERM-040 v2 and CLAIM-142 v2 correct the gloss and the defeat condition; CLAIM-139's third disjunct is replaced only in CLAIM-204."
+  - "rests_on: CLAIM-135 (Proposed, interpretive), CLAIM-150 (Active), CLAIM-046 (Proposed, interpretive); objected_by CLAIM-217 (Proposed)."
+blockers:
+  - "Counter with an open reply (CLAIM-217) and, by its own account, an owner decision pending."
+  - "Premises CLAIM-135 and CLAIM-046 are Proposed."
+unlocks: []
+next_action: >-
+  None from the audit. Once the owner decides between CLAIM-206 and
+  CLAIM-217, the losing claim's status changes. The bullet on CLAIM-142's
+  defeat condition can then be marked as answered by CLAIM-142 v2.

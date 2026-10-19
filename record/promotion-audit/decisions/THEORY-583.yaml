@@ -1,0 +1,31 @@
+# record/promotion-audit/decisions/THEORY-583.yaml
+id: THEORY-583
+batch: batch-020
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. Levin's essay gives a definition (an agent bounded by
+    its cognitive light cone) and a reading of cited experiments. It has
+    no model, no measurement of the light cone and no new data, and the
+    cited experiments were not checked against their sources. That
+    coupling changes the boundary of a self is the paper's interpretation,
+    as the entry itself says.
+evidence:
+  - "NOTE-341 read the essay in full. The cited bioelectric experiments were not read."
+  - "THEORY-583's 'What this does not say' grants that the boundary cannot be measured, and that the experiments show changed outcomes, not changed selves."
+blockers:
+  - "No measurement procedure for the cognitive light cone, and no experiment that measures a change in which goal is pursued (the promote_when)."
+  - "An open rival (THEORY-071) disputes whether a homeostat is an agent at all."
+notes: >-
+  ADR-047 v3 does not apply. The empirical part (coupling changes pattern
+  and tumour outcomes) is cited to experiments the record has not read,
+  and the title's claim is the interpretation laid over them, not a
+  measurement. If those experiments are ever read, they would ground a
+  narrower THEORY about outcomes, not this one.
+unlocks: []
+next_action: None.

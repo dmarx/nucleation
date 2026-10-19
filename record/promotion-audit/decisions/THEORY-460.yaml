@@ -1,0 +1,32 @@
+# record/promotion-audit/decisions/THEORY-460.yaml
+id: THEORY-460
+batch: batch-020
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is a classification of objections into temporary
+    and permanent, argued by naming simple systems that have each feature,
+    together with a comparative conclusion about the strength of two
+    cases. That is an argument in philosophy of mind, and its premises
+    (that each feature is what the objection needs, and that the simple
+    instances have it) are what the rivals dispute (THEORY-023,
+    THEORY-606). The credences are illustrative by the author's own
+    warning.
+evidence:
+  - "NOTE-345 read the v3 text in full and compared v1's conclusions."
+  - "THEORY-460's body grants that biology is set aside, not answered, and that the features are not shown sufficient. A biological naturalist rejects the classification's frame."
+blockers:
+  - "The classification is contested at its premises, and the promote_when (built systems plus an assessment both camps accept beforehand) is not met and not in prospect."
+notes: >-
+  "Chalmers argues X" is a reading, which NOTE-345 already holds. It is not
+  a THEORY to promote. ADR-047 v3 does not apply: nothing is measured.
+  The (2/3)^6 ≈ 0.088 arithmetic is correct but trivial, and it rests on
+  stipulated inputs under a disclaimed independence assumption, so it is
+  not a core worth splitting.
+unlocks: []
+next_action: None.
