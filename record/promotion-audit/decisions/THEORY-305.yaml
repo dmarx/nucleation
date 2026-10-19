@@ -1,0 +1,52 @@
+# record/promotion-audit/decisions/THEORY-305.yaml
+id: THEORY-305
+batch: batch-043
+reviewed: '2026-10-19'
+reviewed_revision: 651753a0
+current_status: Proposed
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    The whole title. The promote_when asked for two things. (A) An
+    independent check of the identity that writes out R(Z). Re-derived
+    directly, without Lemma 2.5: π is row-stochastic and symmetric (NOTE-846),
+    so doubly stochastic, π_ii = 0, L = I − π. The expected InfoNCE loss
+    with query i, positive j ∼ π_i·, and all other objects as negatives is
+    Σ_ij π_ij [‖Z_i − Z_j‖²/2τ + log Σ_(l≠i) k(Z_i − Z_l)]. Since
+    Σ_ij π_ij ‖Z_i − Z_j‖² = 2 tr(Zᵀ(D − π)Z) for symmetric π, and
+    Σ_j π_ij = 1, this is tr(Zᵀ L Z)/τ + Σ_i log Σ_(l≠i) k(Z_i − Z_l),
+    exactly, at every Z (the sphere is not needed for the identity; it is
+    what makes the Gaussian kernel SimCLR's cosine softmax). So
+    log R(Z) is the sum of the row normalizers, which confirms the body's
+    reconstruction of R; the 1/τ is the factor the paper drops. Checked
+    numerically to 1e−14 on 200 random Z. (B) A settlement of the
+    minimizer clause. On a finite graph the exact minimizer lies outside
+    every bottom-eigenvector span. n = 8, d = 2 (unit circle), τ = 0.5, π
+    a Sinkhorn-normalized symmetric random matrix: the global minimum on
+    the circle (found by all 300 random restarts for one graph, and by
+    58–99% for three others; gradient norm below 1e−6) has columns lying
+    6–15% (relative norm) outside span(1, v₂), outside span(1, v₂, v₃),
+    and about 90% outside span(v₂, v₃), on every graph tried. A span
+    excluding the constant cannot even be reached on the sphere: for
+    span(v₂, v₃) the unit-norm conditions on the rows have no solution
+    (least-squares residual 1.24). So the minimizer is near, but not, an
+    eigenvector embedding, and the clause stands in its general reading.
+  excluded: >-
+    Nothing in the title. The counterexample is numerical: global
+    optimality rests on restarts, not a certificate. The relation for
+    unconstrained embeddings, or the exact distance of the minimizer from
+    the spectral embedding as τ varies, is not addressed and is not
+    claimed.
+evidence:
+  - "NOTE-846: read in full, Theorem 3.1 and App. A line by line; π row-stochastic and symmetric; R(Z) left undefined by the paper."
+  - "Graphs for the counterexample: numpy default_rng(seed) for seeds 1, 2, 3, 11; A = exponential(size=(8, 8)), symmetrized, zero diagonal, then 3,000 sweeps of row-normalize and symmetrize; loss minimized over angles by BFGS from 300 uniform starts."
+blockers: []
+notes: >-
+  Batch 020's sort: an identity (theorem) plus a negative clause about
+  minimizers, which the promote_when itself lets a finite counterexample
+  settle.
+unlocks: []
+next_action: >-
+  Promote with the title unchanged: the identity's derivation and the
+  counterexample as a dated note. No wider promote_when to move.

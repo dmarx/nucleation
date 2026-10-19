@@ -1,0 +1,52 @@
+# record/promotion-audit/decisions/THEORY-181.yaml
+id: THEORY-181
+batch: batch-043
+reviewed: '2026-10-19'
+reviewed_revision: 651753a0
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    A compound title: a theorem in an idealised model, and one measurement.
+    (1) The theorem, re-derived (ADR-047 v2). Model (a, b) ↦ Dec(E_a + E_b)
+    with embeddings E_k ∈ R^m. At zero training loss with an injective
+    decoder, two training pairs with the same answer i + j = u + v force
+    E_i + E_j = E_u + E_v (Proposition 2: equal outputs, injective Dec).
+    Each such equation is linear in (E_0, …, E_(p−1)) and acts on each of
+    the m coordinates separately. Every solution space contains the
+    constants (E_k = a) and the scalings (E_k = kb), since both make the
+    sum depend on i + j only. If the system's nullity is 2, its solutions
+    are exactly E_k = a + kb with a, b ∈ R^m. Then E_i + E_j = 2a + (i + j)b
+    depends on the answer alone, so every unseen pair whose answer occurs in
+    training gets that answer's sum, and the decoder returns it. That is the
+    sense of "fixes the generalising representation": unique up to
+    translation and scale. (2) The measurement, under ADR-047 v3. NOTE-662
+    read Liu et al. in full. For non-modular addition with p = 10 and 1D
+    embeddings, the probability that a random training set has nullity 2
+    jumps near a fraction of 0.4, and the steps trained networks need to
+    realise 95% of the parallelograms diverge at the same fraction
+    (Fig. 4a–b, with the 0.4 stated in the text). One study, one size.
+  excluded: >-
+    (1) "The critical training fraction" in general: no other size is
+    reported, and Power et al.'s fraction comes from a different task
+    (modular arithmetic with a transformer). The promote_when's multi-size
+    test moves to a new QUESTION. (2) That trained networks, as opposed to
+    the zero-loss injective model, are fixed by the equations: the
+    measurement shows the thresholds coincide, not the mechanism. (3) Pairs
+    whose answer no training pair has (the extreme sums 0 and 2p − 2 each
+    have one pair) are not answered by the representation alone.
+evidence:
+  - "NOTE-662: read in full from arXiv v2; Propositions 1–2; nullity n₀ ≥ 2 with n₀ = 2 giving E_k = a + kb; r_c ≈ 0.4 for p = 10 (Fig. 4a), steps-to-RQI > 0.95 at the same threshold (Fig. 4b)."
+blockers: []
+notes: >-
+  Batch 020's sort: theorem plus measurement, as in THEORY-293 and -278.
+  The theorem is elementary linear algebra once Proposition 2 is granted,
+  and Proposition 2 is immediate from injectivity.
+unlocks: []
+next_action: >-
+  Narrow-and-promote: the title names the zero-loss injective model, and
+  the critical-fraction clause is held to non-modular addition with
+  p = 10 and 1D embeddings. Re-derivation as a dated note. The multi-size
+  test moves to a new QUESTION (line learned-structure), refining
+  QUESTION-058.
