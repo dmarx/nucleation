@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 30
+version: 31
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-005
-  state: selected
-  in_review: null
+  state: in_review
+  in_review: THEORY-184
   next_step: 'Batch 005 (wave 2): review THEORY-174, THEORY-184, THEORY-168, THEORY-017 and THEORY-165,
     in that order. Default operation per ADR-047 wave 2: split and promote the demonstrated core; check
     whether promote_when bundles a proof with a broader claim.'
@@ -25,8 +25,8 @@ waves:
   promotion_paths: 10
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 6
-  promotion_paths: 6
+  reviewed: 7
+  promotion_paths: 7
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 0
@@ -516,12 +516,15 @@ candidates:
   wave: 2
   score: 8
   triage: triage-002
-  state: pending
+  state: decided
+  disposition: split
+  batch: batch-005
+  decision: decisions/THEORY-174.yaml
 - code: THEORY-184
   wave: 2
   score: 6
   triage: triage-002
-  state: pending
+  state: in_review
 - code: THEORY-168
   wave: 2
   score: 6
@@ -723,4 +726,7 @@ history:
     not ADR-047''s rubric: 2 per promote_when keyword signalling a half-met condition (met, done, confirmed,
     re-derived, proved, checked, first clause/half), 2 for the mathematics tag, and 1 per three supported
     claims. THEORY-008, -156, -005 (batch-000) are excluded as decided.'
+- version: 31
+  date: '2026-10-19'
+  note: 'Batch 005: THEORY-174 decided (split). THEORY-184 in review.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
