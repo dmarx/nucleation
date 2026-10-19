@@ -1,0 +1,75 @@
+# record/promotion-audit/decisions/THEORY-312.yaml
+id: THEORY-312
+batch: batch-014
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+triage: triage-003
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as stated: on a finite dataset of N equiprobable images with
+    one-hot identity labels and label kernel l = N·1[y = y′] + l₀, the
+    large-batch InfoNCE loss equals −HSIC(Z,Y) plus a nonnegative
+    log-mean-exp of the centred critic. So it bounds −HSIC(Z,Y) from above.
+    Theorem B.1 holds with the remainder entering with a plus sign, as the
+    THEORY already states. The promote_when asks for a second, independent
+    derivation that settles that sign. Under ADR-047 v2 the following
+    re-derivation, checked step by step for this review, meets it.
+
+    (1) Theorem A.1. Write HSIC(Z,Y) = E[k l′] − 2E_(Z,Y)[E_Z′ k · E_Y′ l] + E k · E l,
+    with (Z,Y) and (Z′,Y′) independent copies. The constant part l₀ of l
+    contributes l₀(Ek − 2Ek + Ek) = 0. For N·1[Y = Y′]: P(Y = Y′) = 1/N, and
+    given Y = Y′ = i, Z and Z′ are two views of image i drawn independently,
+    which is a positive pair. So E[k·1[Y=Y′]] = (1/N)E_pos k. The second term
+    is E[μ₁(Z)·(1/N)] = (1/N)E_Z E_Z′ k, and the third is (1/N)E_Z E_Z′ k.
+    With the factor N, HSIC(Z,Y) = E_pos k − E_Z E_Z′ k.
+
+    (2) Eq. 28. log E_Z′ exp k = μ₁(Z) + log E_Z′ exp(k − μ₁(Z)). Take E_Z
+    and subtract E_pos k: L = −(E_pos k − E_Z E_Z′ k) + E_Z log E_Z′ exp(k − μ₁)
+    = −HSIC(Z,Y) + E_Z log E_Z′ exp(k − μ₁). This is exact for any critic
+    with these expectations finite.
+
+    (3) Nonnegativity. E_Z′(k − μ₁) = 0, so by Jensen E_Z′ exp(k − μ₁) ≥ 1
+    and the log is ≥ 0. Hence L ≥ −HSIC(Z,Y).
+
+    (4) Lemma B.0.1. Let γ ∈ (0, 1/4] and let x_min = −(1 + √(1 − 4γ))/(2γ)
+    and r = −2/(1 + √(1 − 4γ)) ∈ [−2, −1] be the roots of 1 + x + γx².
+    Claim: exp x ≥ 1 + x + γx² for x ≥ x_min. On [x_min, r] the right side
+    is ≤ 0 < exp x. On [r, 0], γx² ≤ x²/4, so the right side is at most
+    (1 + x/2)², and 0 ≤ 1 + x/2 ≤ exp(x/2) since x ≥ −2, so
+    (1 + x/2)² ≤ exp x. On [0, ∞), exp x ≥ 1 + x + x²/2 ≥ 1 + x + γx². With
+    |k| ≤ k_max, k − μ₁ ≥ −2k_max ≥ min{−2, −2k_max} = x_min, so the bound
+    applies on the range of k − μ₁. (Check of the stated example: x_min = −20
+    gives √(1 − 4γ) = 40γ − 1, so 1600γ² = 76γ and γ = 0.0475.)
+
+    (5) Theorem B.1. Taking E_Z′ in (4): E_Z′ exp(k − μ₁) ≥ 1 + γV with
+    V = Var_Z′ k(Z,Z′). Since log(1 + x) ≥ x/(1 + x) = x − x²/(1 + x) for
+    x > −1, E_Z log(1 + γV) ≥ γE_Z V − E_Z[(γV)²/(1 + γV)]. Next,
+    HSIC(Z,Z) = E k² − 2E_Z μ₁² + (E μ₁)², while E_Z V = E k² − E_Z μ₁², so
+    E_Z V − HSIC(Z,Z) = Var(μ₁(Z)) ≥ 0. Combining with (2):
+    L ≥ −HSIC(Z,Y) + γHSIC(Z,Z) − E_Z[(γV)²/(1 + γV)], that is,
+    −HSIC(Z,Y) + γHSIC(Z,Z) ≤ L + E_Z[(γV)²/(1 + γV)]. The remainder enters
+    with a plus sign, as the THEORY says. The minus sign printed in the
+    paper would be a strictly stronger claim, and this route does not give
+    it.
+  excluded: >-
+    Nothing that the title claims. The finite-batch estimator, other label
+    structures and the "works because" reading are already disclaimed in
+    the body, and they stay out.
+evidence:
+  - "NOTE-830, version 1: the paper was read in full from the arXiv v2 PDF, including App. B.1 (eqs. 27–28, Lemma B.0.1, Theorem B.1) and Theorem A.1."
+  - "The re-derivation above (steps 1–5). It uses only the label kernel's form, Jensen, a three-interval check of the quadratic bound, log(1 + x) ≥ x/(1 + x), and the identity E V − HSIC(Z,Z) = Var μ₁."
+blockers: []
+notes: >-
+  The promote_when names "a check by another reader of the record against
+  the appendix" as sufficient. This review is such a check, and it also
+  supplies the independent derivation. The sign question is settled in the
+  THEORY's favour, so the title and body need no correction. The promotion
+  PR should copy steps (4) and (5) into a dated note, because they are what
+  the promote_when asked to see.
+next_action: >-
+  Promotion PR. Add the re-derivation as a dated note citing this file,
+  remove the promote_when, set Active, and trim inactive-ok directives that
+  name THEORY-312.

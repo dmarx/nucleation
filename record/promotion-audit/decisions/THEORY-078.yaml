@@ -1,0 +1,81 @@
+# record/promotion-audit/decisions/THEORY-078.yaml
+id: THEORY-078
+batch: batch-017
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    A new Active THEORY holds the exact algebra of LIT-619 (NOTE-479, Read in
+    full "including the proof of Lemma 2.1 and the derivation of Eqs.
+    12–28"; claims table C1 and C2, "strong (algebra)"). For softmax
+    cross-entropy with balanced classes, the Gauss–Newton matrix G = (1/n)ΔΔᵀ
+    is an uncentred second moment of logit derivatives δ_{i,c,c′}. It splits
+    exactly into four positive semidefinite terms, G = G₀ + G₁ + G₂ + G₃.
+    G₁ = (C − 1)·Ave_c δ_c δ_cᵀ has rank at most C, its eigenvectors lie in
+    the span of the C class centres, and its non-zero spectrum is that of a
+    C × C Gram matrix. For every k, λ_k(G) ≥ λ_k(G₁ + G₂) ≥ λ_k(G₁).
+
+    Re-derivation (ADR-047 v2). Write N for the examples per class (balanced),
+    δ_{c,c′} = Ave_i δ_{i,c,c′} for the C² group means and
+    Σ_{c,c′} = Ave_i (δ_{i,c,c′} − δ_{c,c′})(δ_{i,c,c′} − δ_{c,c′})ᵀ for the
+    within-group covariances.
+    (1) G = Ave_{i,c} Σ_{c′} δ_{i,c,c′}δ_{i,c,c′}ᵀ (Eqs. 13–16) =
+    (1/C) Σ_{c,c′} Ave_i δ_{i,c,c′}δ_{i,c,c′}ᵀ.
+    (2) A second moment is a mean outer product plus a covariance:
+    Ave_i δ_{i,c,c′}δ_{i,c,c′}ᵀ = δ_{c,c′}δ_{c,c′}ᵀ + Σ_{c,c′}. So
+    G = (1/C) Σ_{c,c′} δ_{c,c′}δ_{c,c′}ᵀ + G₃, with G₃ = (1/C) Σ_{c,c′} Σ_{c,c′}
+    (Eq. 23).
+    (3) Separate c′ = c: G₀ = (1/C) Σ_c δ_{c,c}δ_{c,c}ᵀ = Ave_c δ_{c,c}δ_{c,c}ᵀ.
+    (4) For fixed c, the C − 1 group means δ_{c,c′}, c′ ≠ c, have centre
+    δ_c = (1/(C−1)) Σ_{c′≠c} δ_{c,c′} and covariance Σ_c about it, so
+    Σ_{c′≠c} δ_{c,c′}δ_{c,c′}ᵀ = (C − 1)(δ_cδ_cᵀ + Σ_c). Averaging over c gives
+    G₁ + G₂ with G₁ = (C − 1) Ave_c δ_cδ_cᵀ and G₂ = (C − 1) Ave_c Σ_c. This is
+    Eq. 28.
+    (5) Each of G₀, G₁, G₂, G₃ is a non-negative combination of outer
+    products or covariances, so each is positive semidefinite.
+    (6) Write D = [δ_1 … δ_C]. Then G₁ = ((C − 1)/C) DDᵀ, so its rank is at
+    most C. Its non-zero eigenvalues are those of ((C − 1)/C) DᵀD, a C × C
+    Gram matrix, and for each eigenvector u of DᵀD with eigenvalue μ > 0 the
+    vector Du/√μ is a unit eigenvector of DDᵀ, which lies in the span of the
+    δ_c.
+    (7) If B ⪰ 0, then λ_k(A + B) ≥ λ_k(A) for every k, by Courant–Fischer
+    (or Weyl's inequality). G − (G₁ + G₂) = G₀ + G₃ ⪰ 0, and
+    (G₁ + G₂) − G₁ = G₂ ⪰ 0, which gives both inequalities.
+    Lemma 2.1 (the softmax Hessian is (I − 1pᵀ)ᵀdiag(p)(I − 1pᵀ)) is what
+    makes G = (1/n)ΔΔᵀ with these columns. It is the standard identity
+    diag(p) − ppᵀ, and NOTE-479 followed its proof.
+  excluded: >-
+    The rest of the title, which stays Proposed in THEORY-078. That the top C
+    eigenvalues of a trained network's G are carried by G₁ in practice. That
+    a cut at the bulk edge keeps the span of the class means. That the
+    outliers separate from the bulk as between-class separation exceeds
+    within-class variation. These are measured by eye, under a
+    deterministic protocol (NOTE-479 C3, "by plot comparison"), and the
+    promote_when, a quantitative principal-angle measurement under ordinary
+    training, is about them. It stays unchanged. Unbalanced classes are also
+    excluded: there G₁₊₂ is a weighted sum (NOTE-479, assumptions).
+evidence:
+  - "NOTE-479 (Read, in full, including the derivations of Eqs. 12–28): claims C1 and C2, strong (algebra); C3, moderate to strong, by plot comparison."
+  - "The re-derivation above checks Eq. 23, Eq. 28, the rank and Gram-matrix statement, and both eigenvalue inequalities from positive semidefiniteness alone. The inequalities hold for every trained or untrained network, which is why they are algebra and the attribution is not."
+  - "No Active entry holds the decomposition. Only THEORY-420 (Active) cites LIT-619, in passing."
+blockers: []
+notes: >-
+  This is the batch-005 shape in wave 3: a compound title ("so") whose first
+  clause is exact algebra the source derives and the reading followed, and
+  whose remainder is empirical. The entry carries no `mathematics` tag, so
+  triage-004 put it in wave 3, but the yield came by the wave-2 route.
+  Triage-004 scored its depth 0, from its weakest source, although the
+  NOTE for the source that holds the core read its derivations in full.
+unlocks:
+  - "CLAIM-164 is supported by THEORY-078. Batch 015 handles its other ground (CLAIM-377). Check whether CLAIM-164 needs only the decomposition."
+  - "THEORY-085 extends THEORY-078; it is unaffected, and the parent keeps the account."
+next_action: >-
+  Promotion PR. File a new THEORY (luria new theory), Active, source LIT-619,
+  tags information-geometry and learning-theory, with the decomposition and
+  inequalities as accepted above and this re-derivation as a dated note.
+  THEORY-078 extends it, keeps its title and promote_when, and gets a history
+  note citing this decision. Trim stale inactive-ok directives only if they
+  name the new code (none can yet).

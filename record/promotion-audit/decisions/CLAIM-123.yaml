@@ -1,18 +1,50 @@
 # record/promotion-audit/decisions/CLAIM-123.yaml
 id: CLAIM-123
-batch: batch-000
+batch: batch-014
 reviewed: '2026-10-19'
-reviewed_revision: 27ae8a3906d5b75a57767f7e524acd6749a2344f  # head of PR #165, where the decision was made and carried out
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
 current_status: Proposed
-disposition: needs-correction
+disposition: promote
 confidence: high
+supersedes_review:
+  batch: batch-000
+  disposition: needs-correction
+  reviewed_revision: 27ae8a3906d5b75a57767f7e524acd6749a2344f
+  carried_out_in: 'PR #165 (merged)'
+  next_action_then: Requeue for review after PR #165 merges.
 scope:
   accepted: >-
-    Corrected. Conditional independence is sufficient, not necessary; the exact criterion is that the conditional dependence ratio is constant in x.
+    The corrected claim (version 3) as stated: score addition composes two
+    conditions exactly when p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with x,
+    and conditional independence is sufficient but not necessary. Checked
+    for this review.
+
+    (1) Identity. By Bayes, ∇ₓ log p(x|y) = ∇ₓ log p(x) + ∇ₓ log p(y|x) for
+    any condition y with p(y) > 0. Applying it to (y₁,y₂), y₁ and y₂ gives
+    s₁₂ − s₁ − s₂ + s₀ = ∇ₓ log p(y₁,y₂|x) − ∇ₓ log p(y₁|x) − ∇ₓ log p(y₂|x),
+    because the four ∇ₓ log p(x) terms cancel (+1 −1 −1 +1). This is the
+    stated identity. Its right side vanishes on a connected region where the
+    densities are positive and differentiable exactly when the ratio is
+    constant there.
+
+    (2) Sufficiency. Conditional independence given x makes the ratio 1.
+
+    (3) Not necessary. With v = (1, −1, 0) and p(yᵢ|x) = (σ/2, σ/2, 1 − σ),
+    Σ_y v(y)p(y|x) = 0. So q = (1 + εv(y₁)v(y₂))p(y₁|x)p(y₂|x), with
+    0 < ε < 1, is nonnegative (|v₁v₂| ≤ 1). Summing over y₂ gives
+    p(y₁|x)(1 + εv(y₁)Σ_y₂ v(y₂)p(y₂|x)) = p(y₁|x), so q has the given
+    marginals and sums to 1. It is dependent (the factor is 1 + ε at
+    y₁ = y₂ = 0), and its ratio 1 + εv(y₁)v(y₂) does not depend on x. So the
+    scores add exactly under dependence.
   excluded: >-
-    No promotion proposed.
+    Nothing. The empirical part was split off in 2026-10-15 to CLAIM-321
+    (ADR-043), and the sections on C7's appendix and Ho and Salimans are
+    reports of sources, not part of the claim's derivation.
 evidence:
-  - "PR #165 and its curation entries record/curation.d/2026/10/19/024107.md, 034134.md and 041525.md."
-blockers: ['Not promoted: the first audit did not propose it. It could be reviewed again as demonstrated after the correction merges.']
-carried_out_in: 'PR #165 (open as of 2026-10-19)'
-next_action: Requeue for review after PR #165 merges.
+  - "The derivation above, against the claim's own defeat condition, which names exactly the identity and the example."
+  - "The warrant (demonstrated) matches the defeater, which concerns only the derivation, so batch-000's warrant/defeater pattern does not apply."
+  - "No objection is open: no claim has objects_to CLAIM-123. THEORY-405, a ground, is Active."
+blockers: []
+next_action: >-
+  Promotion PR. Set Active, add a dated history note citing this file, and
+  trim inactive-ok directives that name CLAIM-123.

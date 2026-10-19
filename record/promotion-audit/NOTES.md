@@ -411,3 +411,220 @@ history note. THEORY-277 is requeued on this basis.
   .tmp-main/, not committed) and run them one at a time. `git archive -o
   file.tar origin/main record` followed by `tar -xf` gives a clean copy of
   main's record for triage.
+
+## 2026-10-19 — merging the audit's PRs (#165–#188)
+
+- **Merge one PR at a time.** The Docs workflow has no `concurrency:`
+  group. Merges seconds apart start several `docs-generate` runs at once.
+  Each concretizes the same tmp codes with different numbers, and the
+  runs that lose the push race fail on rebase: the main runs for #182 and
+  #184 did. Nothing broken landed, because a later run concretized
+  everything. Still, if the last run to start is one that loses, its tmp
+  codes stay on main until the next push. Wait for each merge's generate
+  step (its "docs: regenerate views" commit) before merging the next. A
+  concurrency group on the workflow would remove the race; that is the
+  owner's decision.
+- **GitHub's "has merge conflicts" can be stale.** After main's
+  concretization commit, #181, #183 and #186 were refused as conflicted
+  while `git merge-tree --write-tree` exited 0, and the refusal did not
+  clear on retry. Merging origin/main into the branch (a plain merge
+  commit, no conflicts) and pushing reset it. Check the merged tree for
+  references to tmp codes that no longer exist before pushing.
+- **Conflicts are almost all `inactive-ok` lines.** Several PRs trim the
+  same directive. Resolve by position, and keep a code only if every side
+  keeps it, so every trim survives. Where line counts differ, resolve
+  by hand.
+- **Bot repair commits on a branch** ("docs: repair sources") leave a run
+  at action_required. CI on the commit beneath is what counts. Read the
+  repair's diff before merging. So far every one has only added links.
+
+## 2026-10-19 — batch 011 (wave 2)
+
+- The tag misleads triage. triage-003 drew wave 2 from THEORYs tagged
+  "mathematics", but THEORY-022, -191 and -192 are empirical.
+  Interpretability and Betti-curve studies carry the tag for their tools.
+  Classify by what the title asserts: a theorem, or a measurement.
+- Bounded Gromov δ from a tree decomposition with clique bags. If a graph
+  has a tree decomposition whose bags have diameter ≤ 1, its geodesic
+  triangles are 2-thin. Take the node of the tripod spanned by the three
+  corners' bags that is nearest a bag of p; its bag separates p from the
+  two corners. This settles hyperbolicity for any complex grown by gluing
+  on single faces (stacked polytopes, k-trees, Apollonian networks), and
+  is worth reusing when a promote_when asks for "δ bounded independently
+  of N".
+- "A tree of X tiles H^d" fails for d ≥ 3. In a face-to-face tiling, tiles
+  around a codimension-2 face form a finite cycle, and a tree of simplices
+  has none. It holds in d = 2 only because the codimension-2 faces of
+  ideal triangles are at infinity. Check any "tiling by a tree of cells"
+  claim this way.
+- "The dual is a tree" depends on the flavor. With preferential or uniform
+  gluing (s = 0, 1), several simplices share a face, so the face-adjacency
+  graph has cliques. The gluing or parent structure is always a tree; say
+  which one is meant.
+
+## 2026-10-19 — batch 015 (wave 4, dependency pass)
+
+- Wave 4 counts: 5 reviewed, 1 promotion path (CLAIM-269 split).
+- CLAIM-107 was decided in batch 003 (narrow-and-promote, carried out in
+  #173); its decision file is overwritten with supersedes_review,
+  disposition needs-correction. CLAIM-193 (batch 003, needs-correction,
+  carried out) and CLAIM-269 (batch 004, split) likewise. The queue
+  entries for these three need their batch and disposition updated.
+- CLAIM-148 and CLAIM-164 are new to the queue: add them as wave-4
+  candidates, decided.
+- THEORY-127's dependents, for a later batch: CLAIM-192 (Proposed,
+  interpretive) and CLAIM-271 (Proposed, interpretive) use only the court-
+  agenda possibility, that premise-wise and conclusion-wise majority can
+  disagree, so each can re-ground on THEORY-725. CLAIM-030 (Active,
+  interpretive) cites 'a rational group cannot judge proposition by
+  proposition from its members' judgments', which is the general
+  impossibility (Propositions 2–3), still THEORY-127's; THEORY-725's
+  Proposition 1 is one instance of it, enough as a formal anchor if the
+  text says 'can fail to', not 'cannot'.
+- Pattern: an Active claim with a Proposed ground and an inactive-ok
+  directive is a cheap wave-4 find after a split. Grep for directives
+  naming a split parent.
+
+## 2026-10-19 — batch 017 (wave 3, control)
+
+- Wave 3's control: 2 of 5, both formal. Non-formal entries 0 of 3.
+  Triage-004's components did not discriminate.
+- triage_wave3.py's depth takes the weakest source, which hides a full
+  reading of the source that holds the core (THEORY-078: depth 0, though
+  NOTE-479 read the derivations in full). Consider taking depth from the
+  NOTE of the source that the accepted clause cites, or the maximum over
+  sources.
+- triage_wave3.py's firsthand misfires on entries whose 'What was actually
+  shown' opens 'Nothing is measured' (THEORY-470). Add negative phrases
+  such as 'nothing is measured' and 'no theorems'.
+- The `mathematics` tag under-marks formal results. Triage-004's own
+  report of untagged formal entries (THEORY-248, -369, -198, -315) and
+  this batch's THEORY-078 and THEORY-309 point the same way.
+- Annealed or mean-field derivations (THEORY-199) are a recurring non-
+  yielder. The source proves the approximation exactly, not the title's
+  claim about the exact model. Read the claims table for 'strong for the
+  map' or 'numerical fidelity'.
+
+## 2026-10-19 — batch 014
+
+- *Check which direction of a Proposed ground is used.* Three claims
+  listed THEORY-156 (general Blackwell converse) as a dependency. Two used
+  only the definition of a garbling, and one used the converse only
+  outside finite outcome spaces, where THEORY-717 (Active) covers the
+  rest. Grep the body for the sentence that cites the ground before
+  recording a dependency blocker.
+- *A sign question in a THEORY is a cheap re-derivation.* THEORY-312's
+  promote_when asked only to settle a remainder's sign. Lemma B.0.1 closes
+  on three intervals using (1 + x/2)² ≤ e^x on [−2, 0], and Theorem B.1
+  needs only log(1 + x) ≥ x/(1 + x) and E Var − HSIC(Z,Z) = Var μ₁.
+- *Pattern 1 recurs in the fidelity line.* CLAIM-212 and CLAIM-228, both
+  'the record's reply of 2026-10-10', are demonstrated over a reception-
+  study defeater. Expect the other 2026-10-10 replies in pragmatic-
+  transport to have the same misclassification, and check them in wave 5.
+
+## 2026-10-19 — batch 012 (wave 2)
+
+- Exact hyperbolic trigonometry beats small-angle substitutions. cosh d =
+  cosh(r₁ + r₂) sin²(θ/2) + cosh(r₁ − r₂) cos²(θ/2) turns an angle-packing
+  lower bound into two lines with constants (THEORY-196).
+- Minimax uniqueness is fragile. A worst case is attained by one
+  adversarial target, and any encoder that is perfect on that target's
+  plane ties. Test 'the unique minimizer' with a small tilt and the
+  S-lemma dual, min over λ of λ_max(R + λ(S − cI)), which is a few lines
+  of numpy (THEORY-239).
+- Counting arguments: the negative half (more independent equations than
+  unknowns, so the solutions are null) becomes a proof via the incidence-
+  bundle dimension. The positive half (balanced counts, so solutions exist
+  generically) can fail over the reals on open sets. A 2 × 2 rotation is
+  the standard witness (THEORY-257).
+- A fourth and fifth scope error in correct theorems (THEORY-239's
+  uniqueness, THEORY-234's 'only when'). Read 'unique', 'only', 'exactly'
+  and 'generic' in a title against the body's disclaimers before re-
+  deriving.
+- Triage-003's eligibility admits empirical THEORYs about mathematical
+  objects (THEORY-254, tangles). Screen the title's verb.
+- Worktree isolation: python one-liners with file writes through the Write
+  tool to a path outside the worktree are refused. Write scratch scripts
+  with a heredoc into a scratch directory inside the worktree (here
+  .tmp-b012/, not committed). scipy is not installed, so a grid over λ
+  replaces minimize_scalar.
+
+## 2026-10-19 — batch 013 (wave 2)
+
+- Fixed-point subspaces settle symmetry-cluster claims. For an equivariant
+  vector field, Fix(Σ) is invariant for every subgroup Σ. Isolated
+  desynchronization is Fix(K), with K the product of the other factors,
+  and it needs the moving factor's support to be the cluster (THEORY-276).
+  Use this instead of equal-input computations.
+- An empirical THEORY can hide a record-own invariance-in-law argument
+  (THEORY-288). With equivariant initialisation and optimiser, the law of
+  the learned representation inherits the architecture's symmetry group.
+  The argument needs an orthogonally equivariant optimiser. Adam breaks
+  it, leaving only signed-permutation invariance. Check the optimiser
+  before filing any such claim.
+- Numerical scaling THEORYs (THEORY-304) yield their lower bounds to a
+  rescaling argument (lift-up at streamwise wavenumber 0). Their constants
+  and sharpness need the computation. File the lower bounds as a CLAIM and
+  keep the parent.
+- A fourth correct-theorem, wrong-scope case (THEORY-299), after
+  CLAIM-264, CLAIM-123 and THEORY-686. An identification exact for the
+  source's normalised variant (squared norms) is read as covering the
+  original models. Check which variant a source actually works with.
+- Re-deriving a promote_when's lemma chain can remove a Proposed
+  dependency. THEORY-301's Cor. 1 is one line, so its promotion does not
+  rest on THEORY-008.
+
+## 2026-10-19 — batch 016 (wave 3, ranked)
+
+- Wave 3's yield comes from its formal members. Of five top-ranked
+  entries, the two that yielded were formal results without a mathematics
+  tag, promoted by re-derivation. The three empirical ones were held by
+  measurements the record has not read. Expect that pattern to continue,
+  and route untagged formal entries to wave 2.
+- Look first at the step a NOTE took on trust. THEORY-481's NOTE-658 said
+  the Wishart fourth-moment step was 'followed as statements, not re-
+  derived'. Re-deriving it found the source commuting the rotated
+  empirical covariance Ŝ, which is not diagonal at finite N. That makes
+  its per-mode decoupling and s^∞ exact only as N → ∞, or for isotropic
+  inputs. Grep NOTE history lines for 'followed as statements', 'not re-
+  derived' and 'taken as stated' before trusting an 'exact' claim.
+- A concentration argument settles high-dimensional nearest-neighbour
+  bounds. For fixed N and uniform data, all squared distances are d/6 +
+  o(d), and the midpoint of any two points is at d/8 from the query. So
+  every convex cluster of at least two points meets the nearest-neighbour
+  ball with probability tending to 1. The same trick may serve THEORY-366
+  (Beyer et al.'s distance concentration).
+- triage_wave3.py's firsthand markers miss 'stated by no source', 'the
+  filer's synthesis' and 'nothing was tested'. Its depth score reads 'read
+  in full' per NOTE, not per claim. Both fired falsely in this batch.
+- A source-derivation error is a needs-correction even when the record
+  read the source faithfully. Correct the THEORY with status unchanged,
+  add a dated note to the NOTE, and requeue the THEORY for narrow-and-
+  promote, so a status change never rides on a correction.
+
+## 2026-10-19 — the parallel round (batches 011–017), summary
+
+- **Yields.** Wave 2's last 16, in code order: 11 of 16 (011 at 2 of 5,
+  012 at 4 of 5, 013 at 5 of 5, plus THEORY-312 in 014). Wave 4
+  (015): 1 of 5, with three corrections to Active entries. Wave 3: the
+  ranked top five (016) and the control five (017) each went 2 of 5. So
+  triage-004's ranking did not predict yield. All four paths were formal
+  results that carried no `mathematics` tag (THEORY-111's core,
+  THEORY-369, THEORY-309, THEORY-078's algebra).
+- **The tag is the wrong class boundary.** Batch 011 found wave-2 entries
+  that are measurements (THEORY-022, -191, -192). Batches 016 and 017
+  found wave-3 entries that are theorems. Classify by what the title
+  asserts.
+- **The owner's rule on single studies (ADR-047 v3).** One study read in
+  full is enough for an empirical THEORY whose title claims no more than
+  that study measured. The replication request moves to a QUESTION. This
+  should raise wave 3's yield on the hedged empirical entries, and it
+  leaves causal or generalising titles, such as THEORY-470, where they
+  are.
+- **Trap: history order.** A new `history:` entry goes last, not first.
+  luria lint reads the last entry as the current version and fails with
+  "`history:` ends at version N but the document says N+1". Four PRs from
+  this round prepended entries (#190, #193, #201, and ADR-047 v3 on the
+  ledger) and were fixed by reordering. Also, a CLAIM's `grounds` takes
+  only THEORY, CASE or LIT codes; another claim used as a worked example
+  is cited in the body, not listed (#196).

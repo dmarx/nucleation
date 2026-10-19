@@ -1,0 +1,356 @@
+# record/promotion-audit/triage-004.yaml
+# Triage-004: wave 3 (source-backed THEORYs), produced by triage_wave3.py on
+# origin/main 9ca3a0dc (2026-10-19). Not yet merged into queue.yaml; the
+# ledger session integrates it.
+#
+# Method (see the script's docstring): eligible = Proposed THEORYs without the
+# `mathematics` tag and not already queued. Rubric, max 7: bundling 0-2
+# (share of the promote_when's distinctive words that the "What this does not
+# say" section also uses), depth 0-2 (the weakest source's best NOTE: Read and
+# read in full = 2, Read = 1, Skimmed/outline/no NOTE = 0), firsthand 0-1 (no
+# "cited to"/"asserted"/"not read" marks in "What was actually shown"),
+# extends 0-1, compound 0-1. Ties break on `supports`, then code. `ranked` is
+# the top 20. `control` is five codes drawn by a fixed rule from the eligible
+# codes outside the top 20 (sorted, every k-th from k//2), to be reviewed
+# alongside the ranked ones, per NOTES.md batch 007. The score orders review;
+# it decides nothing (ADR-047).
+#
+# Caveat: eligibility follows the `mathematics` tag, and many untagged entries
+# are formal results with proofs (e.g. THEORY-248, -369, -198, -315). Those can
+# take ADR-047 v2's re-derivation route like wave 2.
+eligible: 447
+distribution:
+  7: 18
+  6: 83
+  5: 131
+  4: 112
+  3: 84
+  2: 16
+  1: 3
+ranked:
+- code: THEORY-111
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 2
+  triage: triage-004
+  note: Along a low-loss linear path between two networks, every layer's features are the interpolation
+    of the endpoints' features, so averaging wei
+- code: THEORY-079
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  note: Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent
+    model with a Gaussian Occam factor, so i
+- code: THEORY-170
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  note: Languages differ in what their grammar obliges a speaker to convey rather than in what they can
+    convey, so interlingual translation must add
+- code: THEORY-369
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  note: Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance,
+    an optimal nearest-neighbour search over
+- code: THEORY-481
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  note: 'A linear-attention layer trained on in-context regression learns as a two-layer linear network
+    does: when tasks share the input covariance''s'
+- code: THEORY-033
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: The critical batch size is set by the gradient's noise-to-signal ratio, because per-step progress
+    saturates as 1/(1 + B_noise/B); the measur
+- code: THEORY-198
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information
+    the block shares with the system beyon
+- code: THEORY-235
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in
+    the process of deciding, by making her opaqu
+- code: THEORY-248
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is
+    the least information about the sample carrie
+- code: THEORY-255
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: 'In Aerts''s subspace model of Hampton''s membership data, taking concept conjunction and disjunction
+    as the meet and join of subspaces cannot '
+- code: THEORY-256
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds
+    losslessly and linearly in orthogonal pe
+- code: THEORY-292
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: 'In CNN image classifiers, concept directions fitted one concept at a time align for attributes
+    that co-occur in the labels, yet a joint fit '
+- code: THEORY-295
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: In a community that updates a single consensus model by sound pairwise model comparison, which
+    models get proposed can hold the consensus on
+- code: THEORY-315
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: For a state whose four-state reflection orbit is realizable, generalized noncontextuality bounds
+    two binary predictabilities by |⟨X⟩| + |⟨Z⟩
+- code: THEORY-414
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: Institutions are rules in equilibrium, correlated equilibria of coordination games with several
+    equilibria that the players represent to the
+- code: THEORY-460
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: 'Every leading reason to deny consciousness to current large language models except biology names
+    a missing feature, recurrent processing, a '
+- code: THEORY-546
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: A person persists by psychological continuity, not by sameness of substance or of the human animal;
+    Locke's sameness of consciousness, which
+- code: THEORY-583
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: An agent is the set of parts that pursue a goal together, bounded by the farthest events it can
+    sense and try to regulate; cells joined by b
+- code: THEORY-167
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 3
+  triage: triage-004
+  note: The Russian wondertale is built from a small fixed set of character functions in a fixed order,
+    so that all wondertales share one compositio
+- code: THEORY-176
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 3
+  triage: triage-004
+  note: A task-loss stitching penalty compares representations in one decision problem, through a fixed
+    top network and a restricted map class, so i
+control:
+- code: THEORY-078
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 1
+    depth: 0
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  note: The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment
+    of its class-mean logit derivatives, so a cu
+- code: THEORY-199
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 0
+  supports: 0
+  triage: triage-004
+  note: In data generated by a random hierarchical grammar, the Bayes-optimal denoiser recovers the top-level
+    class only below a threshold noise, wh
+- code: THEORY-309
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally
+    contextual ones included, is realized by tr
+- code: THEORY-470
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 1
+    depth: 1
+    firsthand: 1
+    extends: 0
+    compound: 1
+  supports: 0
+  triage: triage-004
+  note: Platform decay of the enshittification kind is caused not by a change in the character of those
+    who run platforms but by the weakening of fo
+- code: THEORY-625
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+  supports: 1
+  triage: triage-004
+  note: Institutional facts are status functions, imposed by collective acceptance on things that cannot
+    perform the function by their physical stru

@@ -1,0 +1,1 @@
+<!-- The promotion audit resumes with batches 011-017 and a wave-3 triage. Its queue records their decisions, and ADR-047 gains version 3: a single study read in full can promote an empirical THEORY whose title claims no more than that study measured. -->

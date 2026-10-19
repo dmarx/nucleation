@@ -1,0 +1,55 @@
+# record/promotion-audit/decisions/CLAIM-228.yaml
+id: CLAIM-228
+batch: batch-014
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The three derivations, as a new demonstrated, Active CLAIM. Each was
+    checked for this review.
+    (1) Constant kernels. If K_C(· | s) = q for every s, then (K_C)# e = q for
+    every distribution e. So the across-items condition holds for every u
+    only if ē^t(· | u) = q for every u. Whenever the averaged target
+    responses vary with the item, a constant kernel fails the condition.
+    (2) Exact fit is a garbling. If ē^t(· | u) = (K_C)# e^o(· | u) for every u,
+    then, indexed by the item u, the target family is the kernel K_C
+    applied to the source family. That is the definition of a garbling,
+    with u as the common parameter, and it needs no theorem.
+    (3) Deficiency is a finite computation. With finitely many items and
+    finite judgement outcome sets, Le Cam's deficiency
+    min over stochastic M of max over u of TV(M# e^o(· | u), ē^t(· | u)) is the
+    stated linear programme. M# e^o is linear in M, the slacks linearize the
+    absolute values, and t bounds each half-sum. For a finite family Q of
+    problems with finite action sets, fix a target rule ρ_t. The inner
+    infimum over source rules ρ_s of max_u [R_s(ρ_s, u) − R_t(ρ_t, u)] is a
+    linear programme. As a function of ρ_t, max_u of an affine function in
+    (ρ_s, ρ_t) is jointly convex, and partial minimisation keeps it convex.
+    So the outer supremum over the product of simplices is attained at a
+    vertex, a deterministic rule, of which there are finitely many.
+    The new claim rests on CLAIM-011 only for the held-out scoring, which is
+    a definition. It needs no ground for (1)–(3), and THEORY-717 (Active)
+    covers the finite garbling vocabulary.
+  excluded: >-
+    What CLAIM-228 keeps, Proposed: that fidelity so restated is the right
+    target and is informative. Its defeat condition is the discriminating
+    study (CASE-055), which is empirical. So its warrant should be corrected
+    to empirical, as in NOTES batch-000 pattern 1. The single-rendering
+    clause and the procedure-level framing stay with it. CLAIM-200's granted
+    objection (Active) was answered by version 2's restatement.
+evidence:
+  - "The derivations above. The summary itself separates them: 'A proposal: the derivation is elementary, but whether the restated measure is informative is the defeat condition's empirical question.'"
+  - "CLAIM-207 (Active, granted) holds the per-pair constant-kernel construction. It does not hold the across-items exclusion (1), the garbling reading (2) or the finite LP (3)."
+  - "THEORY-156 is cited only for the word 'garbling', which (2) uses as a definition. No converse is used, so the Proposed ground does not block the core."
+blockers: []
+notes: >-
+  The finite LP of (3) is also what makes CLAIM-235's 'no finite-data
+  estimator' objection inapplicable once renderings are coded. The split
+  claim states that only for the coded case, and the estimation error is
+  left as the body says.
+next_action: >-
+  Split PR. Create the demonstrated CLAIM holding (1)–(3), rests_on
+  CLAIM-011, grounds THEORY-717. CLAIM-228 rests on it, with its warrant
+  corrected to empirical and a dated note.

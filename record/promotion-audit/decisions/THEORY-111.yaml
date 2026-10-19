@@ -1,0 +1,91 @@
+# record/promotion-audit/decisions/THEORY-111.yaml
+id: THEORY-111
+batch: batch-016
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The formal results, as a new Active THEORY that the parent extends.
+    (i) Zhou et al.'s Theorem 1 (LIT-674): for an L-layer ReLU MLP on a
+    finite dataset, if weak additivity holds at every layer's
+    pre-activations and the commutativity condition holds at every layer,
+    then the features of the interpolated network are exactly the
+    interpolation of the endpoints' features at every layer, with scale 1.
+    (ii) Lemma 1: if the output layer is linearly connected in this sense
+    (any scale c > 0) and both endpoints err on at most a fraction ε of the
+    data, then every network on the path errs on at most 2ε. (iii) The
+    exact one-hidden-layer case: for a one-hidden-layer ReLU network with
+    interpolating minima, linear mode connectivity forces shared activation
+    patterns (Lubana et al., LIT-669, Lemma 2), and with shared patterns the
+    hidden features are exactly linear along the path. NOTE-512 read the
+    main text and Appendix A of LIT-674 in full, with the proofs checked
+    line by line. NOTE-538 read Appendix F.3 of LIT-669, including Lemma 2's
+    proof, in full. Step (iii)'s composition is the record's, so it is
+    re-derived here under ADR-047 v2. (i) and (ii) are checked again as
+    well.
+
+    Re-derivation of (i). Write H_ℓ(θ) for layer ℓ's features on the data,
+    with H_0 = X shared by both networks, and Z_ℓ = W_ℓ H_{ℓ−1} for the
+    pre-activations (fold biases into W with a constant row). Put
+    θ_α = αθ_A + (1 − α)θ_B, so W_ℓ(α) = αW_A + (1 − α)W_B. Suppose
+    H_{ℓ−1}(α) = αH_A + (1 − α)H_B, which holds at ℓ = 1. Then
+    Z_ℓ(α) = (αW_A + (1 − α)W_B)(αH_A + (1 − α)H_B)
+           = α²W_AH_A + (1 − α)²W_BH_B + α(1 − α)(W_AH_B + W_BH_A).
+    By commutativity, W_AH_B + W_BH_A = W_AH_A + W_BH_B. So
+    Z_ℓ(α) = (α² + α(1 − α))W_AH_A + ((1 − α)² + α(1 − α))W_BH_B
+           = αZ_A + (1 − α)Z_B.
+    Weak additivity, ReLU(αZ_A + (1 − α)Z_B) = αReLU(Z_A) + (1 − α)ReLU(Z_B),
+    then gives H_ℓ(α) = αH_A + (1 − α)H_B. Induction closes it. Both
+    conditions are needed at every layer and for every α used.
+
+    Re-derivation of (ii). If f(θ_α)(x) = c⁻¹(αf_A(x) + (1 − α)f_B(x)) with
+    c > 0, then the argmax of f(θ_α)(x) is the argmax of a convex
+    combination of the two output vectors. If both endpoints rank label y
+    strictly first on x, so does every convex combination. So the path errs
+    on x only if an endpoint does, and a union bound gives at most 2ε.
+
+    Re-derivation of (iii). Lemma 2 gives ϕ′(W_αᵀx) = ϕ′(W_βᵀx) for every x
+    in the data: each hidden unit is on in both endpoints or off in both. If
+    a unit's pre-activation is > 0 at both endpoints, it is > 0 at every
+    convex combination, since the pre-activation is linear in the weights.
+    If it is ≤ 0 at both, it is ≤ 0 at every convex combination. So the
+    pattern m(x) is constant along the path. Then ϕ(W_tᵀx) = m(x) ⊙ W_tᵀx
+    = (1 − t)m(x) ⊙ W_αᵀx + t m(x) ⊙ W_βᵀx = (1 − t)ϕ(W_αᵀx) + tϕ(W_βᵀx).
+  excluded: >-
+    The empirical regularity, that linearly connected pairs are
+    layerwise-linearly connected in nearly every layer. NOTE-512 rates it
+    "moderate to strong as an empirical regularity on image classifiers;
+    nothing outside vision tested". The promote_when asks for it outside
+    image classification and says more pairwise image-classifier
+    measurements would not move it. Also excluded: the averaging clause,
+    which the body disclaims (soups and SWA are not measured), and an
+    approximate Theorem 1 with residual bounds, which nobody has proved. All
+    of these stay with THEORY-111, Proposed, with its promote_when
+    unchanged.
+evidence:
+  - "NOTE-512 (Read; Appendix A read in full with proofs checked line by line): Theorem 1 (claims table C3, 'strong (proof)'), Lemma 1 (C2, 'strong (short proof)')."
+  - "NOTE-538 (Read; Appendices C–F read in full, including the proofs): Lemma 2, that LMC between interpolating minimizers forces shared activation patterns on the data."
+  - "The three re-derivations above. Under ADR-047 v2, the record-own composition (iii) is checked step by step here."
+blockers:
+  - "The empirical half: a layerwise measurement outside image classification (transformers or language models, linearly connected by spawning, fine-tuning or alignment), as THEORY-111's promote_when names."
+  - "The averaging half: a measurement on many-model soups or SWA iterates comparing the averaged network's features with the average of the members' features."
+notes: >-
+  The "so" in the title joins an empirical regularity to an unmeasured
+  extension. Both stay Proposed. What splits off is a third thing the body
+  already holds: the conditions-imply-linearity theorem, the error bound,
+  and the exact one-hidden-layer case. The triage-004 rubric scored
+  bundling 2 and compound 1, but the split does not follow the title's
+  "so". It separates the formal results from both halves. The depth score
+  mattered: NOTE-512 and NOTE-538 checked these proofs, so nothing here
+  rests on a reading in outline.
+unlocks:
+  - "THEORY-116's converse half rests on Lemma 2's shared activation patterns. A dependency pass can check whether it can cite the new THEORY for the one-hidden-layer case."
+next_action: >-
+  Split PR. File a new THEORY (Active, tags loss-landscapes and
+  representation-learning, source LIT-674 and LIT-669) holding (i)–(iii)
+  with these derivations as a dated note. THEORY-111 extends it and keeps
+  its title, which is still the open claim, and its promote_when. Add a
+  history note to THEORY-111 citing this decision, batch 016 and ADR-047.

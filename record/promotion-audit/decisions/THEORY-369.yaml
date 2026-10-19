@@ -1,0 +1,105 @@
+# record/promotion-audit/decisions/THEORY-369.yaml
+id: THEORY-369
+batch: batch-016
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The title with two hypotheses written in that the proof needs: the
+    number of points N is fixed as dimension grows, and every block or
+    cluster holds at least two points. The asymptotic half then holds by
+    the proof below, which uses each query's own nearest-neighbour distance,
+    as the promote_when requires, and which works for every partition at
+    once, including partitions chosen after the data are seen. The
+    estimates and measurements in the title stay worded as estimates and
+    measurements, which is how NOTE-919 read them in full (LIT-1107):
+    crossover at about 15–26 dimensions for rectangular and spherical
+    regions under a five-fold sequential advantage, and the R*-tree and
+    X-tree passing 20% of blocks beyond about 10 dimensions on 50,000
+    points.
+
+    Re-derivation (ADR-047 v2). Setting: X_1, …, X_N and the query q are
+    independent and uniform on [0, 1]^d. Distance is Euclidean, and N is
+    fixed. The cost model is the paper's. The index knows each block only
+    by a convex bounding region that contains the block's points, and an
+    optimal search must read every block whose region meets the open ball
+    B(q, r_q), where r_q = min_i |q − X_i| is the query's own
+    nearest-neighbour distance, because that block might hold a closer
+    point.
+
+    Step 1, concentration. For a pair of distinct points U, V among
+    q, X_1, …, X_N, |U − V|² = Σ_{k=1..d} (U_k − V_k)². The summands are
+    independent and bounded, with mean E(U_k − V_k)² = 1/6. By the weak law
+    of large numbers, |U − V|²/d → 1/6 in probability. There are finitely
+    many such pairs, (N + 1)N/2 of them, so the convergence holds jointly.
+
+    Step 2, the nearest-neighbour radius. r_q²/d = min_i |q − X_i|²/d is a
+    minimum of N quantities that each converge to 1/6, so it converges to
+    1/6 in probability.
+
+    Step 3, midpoints are closer. For points a, b with midpoint
+    m = (a + b)/2, the parallelogram identity gives
+    |q − m|² = ½|q − a|² + ½|q − b|² − ¼|a − b|². For a = X_a, b = X_b with
+    a ≠ b, Step 1 gives |q − m_ab|²/d → 1/12 + 1/12 − 1/24 = 1/8 in
+    probability.
+
+    Step 4, every cluster is hit. Let E_d be the event that
+    |q − m_ab|² < r_q² for every pair a ≠ b. That is a finite intersection,
+    and on each piece the left side divided by d tends to 1/8 and the right
+    to 1/6 > 1/8. So P(E_d) → 1 as d → ∞. On E_d, take any partition of the
+    N points into blocks of at least two, with convex regions containing
+    them. Each block contains some pair a ≠ b, its region contains the
+    segment [X_a, X_b] and so the midpoint m_ab, and m_ab lies in the open
+    ball B(q, r_q). So every block's region meets the ball, and every block
+    must be read.
+
+    Step 5, the expectation. The fraction of blocks read is at least the
+    indicator of E_d, whatever the partition. So its expectation is at
+    least P(E_d), which tends to 1, and the fraction is at most 1. Hence the
+    expected fraction tends to 1. This holds even when the partition is
+    chosen after the data and query are seen.
+
+    Why the hypotheses are needed. With singleton blocks, a block whose
+    region is just its point meets the open ball only if that point is
+    closer than the nearest neighbour, which none is. The midpoint argument
+    needs two points. With N growing fast in d (say N = 2^d), r_q no longer
+    concentrates at √(d/6), and the proof does not apply.
+  excluded: >-
+    Rigour for the paper's finite-d estimates. The 15–26 crossover and the
+    loose 610 bound use the expected nearest-neighbour distance in place of
+    each query's own, and Monte Carlo volumes. The body says they "are not
+    shown to preserve the inequalities", and the title keeps them as
+    estimates. Also excluded: anything for data of low intrinsic dimension,
+    for N growing with d, or for blocks of one point. The replication route
+    in the promote_when is not needed.
+evidence:
+  - "NOTE-919 (Read in full, the VLDB Endowment's copy): the setting, the optimal-search cost model, the Monte Carlo estimates, the convex-clustering bound, and the R*-tree and X-tree measurements."
+  - "The five-step proof above (ADR-047 v2). It uses each query's own nearest-neighbour distance and covers every partition into blocks of at least two points."
+blockers: []
+notes: >-
+  The promote_when asked for a proof that the authors' own analysis lacked,
+  and a short concentration argument supplies it. The midpoint of any two
+  points in a cluster sits at squared distance d/8 from the query, while
+  the nearest neighbour sits at d/6. The proof is stronger than requested.
+  It shows that with probability tending to 1 every block is read, not
+  only that the expected fraction tends to 1. It also covers adversarial,
+  data-dependent partitions. The rubric's depth score (2) mattered, because
+  the title's estimates are kept as the full reading reports them. The
+  bundling score mattered too. The disclaimer "That the bounds are
+  rigorous" is exactly what the promote_when asked to repair. THEORY-369
+  carries no mathematics tag but is a formal result, as triage-004
+  suspected, and ADR-047 v2's route applied.
+unlocks:
+  - "CLAIM-311 is supported by THEORY-369. Check its other premises in a dependency pass."
+  - "QUESTION-114 is part-answered by THEORY-369. The answer can then cite an Active account."
+next_action: >-
+  Promotion PR. Narrow the title: "for a fixed number of points" and
+  "blocks or convex clusters of at least two points". Set Active, remove
+  promote_when, and add a dated note with the five-step proof, citing this
+  decision, batch 016 and ADR-047 v2. In "What this does not say", keep
+  "That the bounds are rigorous" for the finite-d estimates, and note that
+  the asymptotic statement is now proved. Trim stale inactive-ok
+  directives naming THEORY-369. Consider adding the mathematics tag.

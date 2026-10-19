@@ -1,0 +1,68 @@
+# record/promotion-audit/decisions/THEORY-276.yaml
+id: THEORY-276
+batch: batch-013
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as it stands, read as the paper and NOTE-775 (claims C1 and C3,
+    "strong for invariance") read it. "Are synchronization clusters" means
+    the orbit-synchronous states form a flow-invariant set. "Can lose
+    synchrony while the others keep it" means the state in which only that
+    cluster is unsynchronized is also flow-invariant, and the experiment
+    exhibits a stable case. Re-derived here (ADR-047 v2), step by step:
+    (1) The class is ẋᵢ = F(xᵢ) + σ Σⱼ Aᵢⱼ H(xⱼ), with A symmetric. Let π be a
+    graph automorphism, so A_{π(i)π(j)} = Aᵢⱼ, and let P permute the node
+    states, (Px)ᵢ = x_{π(i)}. (2) Equivariance: f(Px)ᵢ = F(x_{π(i)}) +
+    σ Σⱼ Aᵢⱼ H(x_{π(j)}) = F(x_{π(i)}) + σ Σⱼ A_{π(i)π(j)} H(x_{π(j)}) =
+    f(x)_{π(i)} = (Pf(x))ᵢ. (3) For any subgroup Σ of the automorphism
+    group, Fix(Σ) = {x : Px = x for all π ∈ Σ} is flow-invariant. If x ∈ Fix(Σ)
+    then f(x) = f(Px) = Pf(x), so the vector field is tangent to Fix(Σ), and
+    by uniqueness of solutions a trajectory starting there stays there.
+    (4) Fix(G), for G the whole group, is exactly the set of states that are
+    equal on every G-orbit. So orbit-wise synchrony is invariant, which is the
+    first half of the title. (5) Now let G = H_m × K, where the factor H_m
+    moves only the nodes of cluster C_m (its support is C_m) and K, the
+    product of the other factors, fixes C_m pointwise. For a node i outside
+    C_m, h·i = i for every h ∈ H_m, so G·i = K·H_m·i = K·i: the K-orbits
+    outside C_m are the G-orbits. The K-orbits inside C_m are singletons.
+    So Fix(K) is the set of states synchronized on every other cluster, with
+    C_m's nodes free, and it is invariant by (3). C_m can desynchronize
+    while every other cluster's synchrony is preserved exactly, which is the
+    second half. Whether the states are stable is a separate question, set
+    by the transverse IRR blocks. The title claims only possibility ("can"),
+    and the 11-node experiment exhibits the stable case (β = 1.4π, NOTE-775
+    C3 and C4). One checked example settles an existence statement (NOTES,
+    batch 008).
+  excluded: >-
+    The promote_when, which asks for an empirical replication in a second
+    physical or biological system, with clusters predicted in advance and an
+    isolated desynchronization predicted by its own block. That tests the
+    stability predictions and the record's use of the result as a coupling
+    signature (QUESTION-063), not the invariance the title states. It moves,
+    unchanged, to a new QUESTION related to QUESTION-063. The body's caveats
+    stay as they are: symmetry is sufficient, not necessary; units must be
+    identical, with undirected and unweighted coupling; and the graph fixes
+    only what can synchronize.
+evidence:
+  - "NOTE-775 (read in full twice): C1 'symmetry orbits are flow-invariant synchronization clusters', strong, following from A commuting with every R_g (eq. 1)."
+  - "NOTE-775 C3: isolated desynchronization is strong for invariance, with stability case by case (eq. 6), and the predicted MLEs agree with the experiment."
+  - "The fixed-point-subspace argument above is standard equivariant dynamics. It replaces eq. 6's equal-input computation with a statement that needs only that H_m's support is C_m."
+blockers: []
+notes: >-
+  A mis-targeted promote_when, like THEORY-014's. The title is a theorem
+  about invariant sets, and the condition asks for a second experiment
+  testing which clusters are seen and when. The re-derivation makes the
+  hypothesis for isolated desynchronization explicit: the factor that
+  moves C_m must move nothing else. If it also moves another cluster, the
+  two are intertwined and desynchronize together, as the paper says.
+unlocks: []
+next_action: >-
+  Promotion PR. Set THEORY-276 Active and remove promote_when. Add a dated
+  history note citing this decision, with the fixed-point-subspace
+  derivation and the support hypothesis. File a QUESTION carrying the
+  promote_when unchanged, related to QUESTION-063. Trim stale inactive-ok
+  directives naming THEORY-276 (NOTE-775, QUESTION-063, LIT-960).

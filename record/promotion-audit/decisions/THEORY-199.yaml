@@ -1,0 +1,45 @@
+# record/promotion-audit/decisions/THEORY-199.yaml
+id: THEORY-199
+batch: batch-017
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing is promoted. The one step checked here is the annealed map's
+    local criterion. With F(p) = (u + a(1 − u))/(u + b(1 − u)), u = p^s,
+    a = f(m − 1)/(mv − 1) and b = f, dF/du at u = 1 is
+    ((1 − a) − (1 − b)) = b − a, and du/dp = s at p = 1. So
+    F′(1) = s(b − a) = s f m(v − 1)/(mv − 1), and the informed fixed point
+    is stable exactly when s f m(v − 1)/(mv − 1) < 1, as the entry says.
+  excluded: >-
+    The whole title. It is about the Bayes-optimal denoiser, which is
+    quenched belief propagation on random-rule trees. The source proves the
+    threshold only for the annealed mean-field map (NOTE-685 C2: "strong for
+    the map, moderate for the RHM"; "the map's fidelity to quenched BP is
+    numerical"). The promote_when asks for the quenched proof, a
+    reconstruction-threshold theorem on random trees. That is a research
+    problem and not a short re-derivation.
+evidence:
+  - "NOTE-685 (Read, in full; the upward annealed average, SI Eqs. 19–42, followed step by step and the fixed-point condition checked; the downward average followed but not re-derived)."
+  - "Claims table: C2 is strong only for the map; C3 (smooth decay of low-level features) rests on one parameter set; C7 (trained diffusion models do this) is not supported."
+  - "F′(1) re-derived above. It matches the entry."
+blockers:
+  - "No proof, in the record or the source, that quenched BP on the Random Hierarchy Model has the annealed map's threshold. The annealed map drops the fluctuations of the random rules. Its agreement with exact BP is numerical, at s = 2 and one or two parameter sets."
+notes: >-
+  A split was considered and declined. The annealed map's fixed-point
+  structure could be filed as a result about the approximation. Only its
+  local criterion is a few lines, though. The global part (a third fixed
+  point dividing the flows, and every ε > 0 flowing to chance when
+  s f > 1) needs a global analysis of F on [1/v, 1] that two rounds did not
+  cover. Even then, it would hold a result about an approximation that no
+  entry uses, while the title's claim stays where it is. In triage-004 this
+  entry scored bundling 2 and depth 2, the maximum on both. Depth was real:
+  the reading was full. But the source itself stops short of the title.
+unlocks: []
+next_action: >-
+  None. Requeue only if a source proving the quenched threshold, for example
+  a reconstruction result on random hierarchical trees, is registered as a
+  LIT.

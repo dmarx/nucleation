@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-022.yaml
+id: THEORY-022
+batch: batch-011
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    The circuit as Nanda et al. report it is well supported: NOTE-283 (read
+    in full) grades it C1, strong (weights, activations and ablations). The
+    embedding is Fourier-sparse at five key frequencies, the network forms
+    cos/sin(w_k(a+b)), W_L is about rank 10, and the logits are fitted by
+    Σ_k α_k cos(w_k(a+b−c)). The identification of each cos/sin pair with a
+    real two-dimensional irreducible of ℤ/113 is elementary, and is correct
+    as mathematics.
+  excluded: >-
+    What the title adds to the circuit, which is the THEORY's own content.
+    (1) That W_L's cos and sin components at each key frequency form a
+    rotation pair, with equal norms and orthogonal directions. Only that
+    makes the readout a character sum rather than a fit in a chosen basis.
+    NOTE-283 records it as unverified: Table 1's near-equal coefficients
+    (44.6 against 43.6 for k = 14) are suggestive, and the singular values
+    are plotted, not reported. (2) That language-model circles are "the
+    same real two-dimensional irreducibles". Version 3 already qualified
+    this, since Modell et al.'s circles are not planar. (3) "In both the
+    group comes from the task". THEORY-288 qualifies it, and in language
+    models it rests on THEORY-183's corpus account, which is itself
+    Proposed.
+evidence:
+  - "NOTE-283 claims table: C1 strong (the mainline circuit); row 7 discussion (the character reading is the note's, not the paper's): 'Whether the corresponding singular values of W_L are themselves degenerate in pairs ... is plotted as component norms (Fig. 3 right) but not reported numerically. It is unverified here.'"
+  - "The promote_when asks for exactly that measurement, and says why a trigonometric fit cannot stand in for it. The review agrees: a fit by Σ α_k cos(w_k(a+b−c)) presupposes the basis."
+  - "No re-derivation can meet it, under ADR-047 v2 or otherwise. The missing item is a measurement on trained weights, not a proof."
+blockers:
+  - "No analysis in the record of W_L's per-frequency cos/sin pairing (equal norms, orthogonality, paired singular values), for the mainline network or a replication."
+notes: >-
+  A split of the circuit alone was considered and rejected. The circuit is
+  the source's result, already held by LIT-345 and NOTE-283 at C1. A THEORY
+  restating it would add nothing those entries do not already hold, and
+  the THEORY's distinctive claims would all stay Proposed. NOTE-283 calls
+  the deciding experiment "cheap here, because the answer is known": an SVD
+  of W_L from the published checkpoints. It would settle the promote_when in
+  either direction. Running it would be a reading task, not part of this
+  audit. This entry is empirical interpretability, not a mathematical core,
+  so triage-003's "mathematics" tag put it in wave 2 by mistake.
+unlocks: []
+next_action: >-
+  None in the audit. If the record takes up the experiment, file it as a
+  NOTE on the Nanda et al. checkpoints and review THEORY-022 again. When
+  THEORY-183's theorem is split off (batch 011), THEORY-022's data-side
+  citation can point at the new Active entry for the theorem, and at
+  THEORY-183 only for the corpus claim.

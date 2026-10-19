@@ -1,0 +1,50 @@
+# record/promotion-audit/decisions/CLAIM-148.yaml
+id: CLAIM-148
+batch: batch-015
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Active
+warrant: demonstrated
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    Re-grounding. CLAIM-148 is Active, granted and demonstrated, yet two of
+    its grounds are Proposed and carry an inactive-ok directive. After #187
+    and #177 the parts it uses are Active elsewhere. (1) Weight decay: the
+    claim cites THEORY-180 for "the minimum of (‖U‖²_F + ‖V‖²_F)/2 over
+    UVᵀ = M is ‖M‖_*". THEORY-726, split from THEORY-180, holds exactly
+    that, with the balanced SVD factorization attaining it. THEORY-180 keeps
+    only the replica/AMP spectral law, which the claim does not use. (2)
+    THEORY-017's point, that the parts are fixed by structure supplied from
+    outside: its proved core, that no orthonormal basis or tensor
+    factorisation is distinguished by a complex Hilbert space alone, is
+    THEORY-721. THEORY-017 keeps the synthesis across works, which the
+    claim uses only as an analogy ("THEORY-017's point in a new place").
+    The claim's further step, that the minimizers are exactly the balanced
+    factorizations up to an orthogonal R, is the claim's own and was
+    re-checked for this review. At a minimizer, f(UA, VA⁻ᵀ) ≥ f(U, V) for
+    every invertible A. The first variation at A = I + tS is
+    tr(UᵀU S) − tr(VᵀV S) for every S, so UᵀU = VᵀV =: B. Then
+    MMᵀ = UVᵀVUᵀ = UBUᵀ = (UUᵀ)², so UUᵀ = (MMᵀ)^½ = U_M Σ U_Mᵀ and
+    U = U_M Σ^½ R for a matrix R with orthonormal rows; likewise V, and
+    UVᵀ = M ties the two R's together. The value of the latent Gram,
+    V_M Σ V_Mᵀ, follows.
+  excluded: >-
+    Nothing in the claim changes. The re-grounding is evidence hygiene: it
+    replaces Proposed grounds with the Active entries that hold the parts
+    used.
+evidence:
+  - "THEORY-726 (Active, #187): 'for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*'; the balanced SVD factorization attains it."
+  - "THEORY-721 (Active, #177): 'On a complex Hilbert space no orthonormal basis or tensor factorisation of given dimensions is distinguished by the space alone'. THEORY-017 extends it and keeps the synthesis, Proposed."
+  - "CLAIM-148's directive: 'THEORY-017 THEORY-180 — Proposed; cited as readings the claim stands on, not as settled'."
+blockers: []
+unlocks: []
+next_action: >-
+  Correction PR: grounds THEORY-180 → THEORY-726 and THEORY-017 →
+  THEORY-721; cite THEORY-726 for the nuclear-norm minimum and THEORY-721
+  for the basis point (naming THEORY-017 as the synthesis that extends it);
+  reword the directive to name THEORY-017 and THEORY-180 only as the
+  parents of the Active entries now cited (both still appear in prose,
+  in the history note and the THEORY-721 sentence); add the minimizer
+  derivation to a dated note; bump the version. Status unchanged.

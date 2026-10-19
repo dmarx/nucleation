@@ -1,0 +1,38 @@
+# record/promotion-audit/decisions/CLAIM-164.yaml
+id: CLAIM-164
+batch: batch-015
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Active
+warrant: demonstrated
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    One correction to the note of 2026-10-12, which describes THEORY-084 as
+    a whole: "a spectral threshold on the lazy-regime Fisher is well posed
+    only at gaps between blocks". #187 split THEORY-084. Its Step 1, that
+    the Gauss–Newton Fisher βJᵀJ and the NTK Gram matrix JJᵀ have the same
+    non-zero eigenvalues with the same multiplicities, is now CLAIM-377
+    (Active, demonstrated). The block inheritance and the threshold claim
+    stay in THEORY-084, Proposed. CLAIM-377 gives this claim one exact
+    instance: a gap in the Fisher's spectrum is the same gap in the NTK
+    Gram's, and the gap-isolated subspaces correspond under u ↦ Jᵀu/σ. So a
+    Davis–Kahan stability statement for one transfers to the other. The
+    note should say which part of THEORY-084 is established and cite
+    CLAIM-377 for it.
+  excluded: >-
+    Replacing THEORY-084 as a ground. The claim's grounding illustration is
+    the harmonic-block structure, which is THEORY-084's Proposed part, and
+    the claim does not need it: its core is Davis–Kahan, standard and
+    re-measured. THEORY-084 stays a ground, now described as Proposed.
+evidence:
+  - "CLAIM-377 (Active): the model Fisher's non-zero eigenvalues are β times the NTK Gram's, with the same multiplicities, eigenvectors Jᵀu normalized."
+  - "THEORY-084 (Proposed after #187) cites CLAIM-377 for its Step 1 and keeps the block inheritance and threshold claims."
+blockers: []
+unlocks: []
+next_action: >-
+  Correction PR: a dated note saying that only THEORY-084's spectral
+  identity is established, as CLAIM-377, and what CLAIM-377 gives this
+  claim; add CLAIM-377 to complements (an Active claim the record now
+  holds alongside). Grounds and status unchanged.
