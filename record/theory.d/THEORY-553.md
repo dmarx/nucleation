@@ -28,7 +28,7 @@ presupposed_by:
 - THEORY-585
 ---
 
-<!-- inactive-ok-file: THEORY-017 THEORY-037 THEORY-585 — Proposed; named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-017 THEORY-585 — Proposed; named in Connections, not leaned on -->
 
 # THEORY-553: In the Döring–Isham topos representation of quantum theory a bounded physical quantity cannot take values in the topos's real-number object; it is represented faithfully by an arrow from the spectral presheaf to a presheaf of monotone real functions over subcontexts, so its value at a context is a spread that widens as the context shrinks, and these values form only a commutative monoid, under which sums of daseinised quantities are not daseinisations of sums
 

@@ -34,7 +34,7 @@ summary: >-
   appears only as the orthocomplement used to derive the conjunction
   model from the disjunction model; no negated concept is measured.
 ---
-<!-- inactive-ok-file: CLAIM-119 CLAIM-038 THEORY-037 THEORY-013 — Proposed; the claims and account this bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-119 CLAIM-038 THEORY-013 — Proposed; the claims and account this bears on, named and not leaned on -->
 <!-- inactive-ok-file: LIT-316 — Unavailable; Busemeyer and Bruza, named as what would settle this, not leaned on -->
 
 # THEORY-255: In Aerts's subspace model of Hampton's membership data, taking concept conjunction and disjunction as the meet and join of subspaces cannot produce overextension or underextension, so the guppy-type deviations need an emergent concept outside the lattice operations, while the Kolmogorov-type deviations can be had from a non-Boolean subspace lattice
