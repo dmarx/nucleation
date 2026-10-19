@@ -1,0 +1,40 @@
+# record/promotion-audit/decisions/THEORY-083.yaml
+id: THEORY-083
+batch: batch-044
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The theorems stated in the body (Theorems 2, 4 and 5 of Papyan, Han
+    and Donoho), which take the collapsed end state as given and are read
+    with proofs in NOTE-476. They are not what the title claims.
+  excluded: >-
+    The title is a measurement: training past zero error collapses
+    features (NC1), drives the centred means to a simplex ETF (NC2), aligns
+    the classifier (NC3) and makes the decision nearest class mean (NC4).
+    Under ADR-047 v3 one study read in full could carry a title hedged to
+    what it measured, but the measurements here are Figures 2–7, and
+    NOTE-476's history says "Figures 2–8 are read from their captions and
+    the text". No values are in the text, and Table 1 reports only test
+    accuracy. That is batch 019's and batch 031's case (THEORY-578,
+    THEORY-115): the record has not read the result it would promote.
+evidence:
+  - "NOTE-476 version 1 history: 'Figures 2–8 are read from their captions and the text; Table 1 is read from the text.'"
+  - "THEORY-083 body: the trends 'monotone across all 21 cells', one model per learning rate with the best final test error selected."
+blockers:
+  - "The NC1–NC4 curves (Figures 2–7) have not been read; NOTE-476 needs a dated note recording what they show, cell by cell."
+notes: >-
+  Batch 020's sort: a measurement. Triage-006 scored it 3 (cites,
+  relation, derived) because the body quotes the end-state theorems: the
+  same false flag batch 037 named for THEORY-110, theorems cited in the
+  body of an empirical claim. Once the figures are read, narrow to the
+  protocol (seven balanced datasets, three architectures, no augmentation,
+  one selected run per cell) and promote under ADR-047 v3, moving the
+  replication request to a QUESTION. The anthology-candidate flag stands.
+unlocks: []
+next_action: >-
+  Requeue after a reading task: view Figures 2–7 of arXiv:2008.08186 and
+  add their values to NOTE-476.

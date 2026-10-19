@@ -1,0 +1,71 @@
+# record/promotion-audit/batches/batch-044.yaml
+batch: batch-044
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 2f565411
+selection: >-
+  The last three triage-006 entries scoring 3 on the formal flag
+  (THEORY-318, THEORY-083, THEORY-585), plus two requeues: THEORY-270
+  (batch 038, held for a re-derivation of LIT-941 App. C) and THEORY-110
+  (batch 037, a split once Lin et al.'s Theorems 10, 11 and 18 are
+  checked). Batch 020's sort applied first.
+reviewed: [THEORY-318, THEORY-083, THEORY-585, THEORY-270, THEORY-110]
+sort:
+  THEORY-318: theorem, re-derivation of the two results proved in the part read
+  THEORY-083: measurement (figures read only from captions)
+  THEORY-585: theorem about a construction whose key steps the source asserts
+  THEORY-270: theorem inside a stylised model, re-derivation of App. C.1
+  THEORY-110: measurement-backed conjecture, with toy-model theorems to split off
+outcomes:
+  narrow-and-promote: [THEORY-318, THEORY-585, THEORY-270]
+  split: [THEORY-110]
+  retain-proposed: [THEORY-083]
+yield: 4 of 5 found a promotion path (three narrow-and-promote, one split); THEORY-083 needs its figures read
+rubric_vs_outcome:
+  - code: THEORY-318
+    formal_score: 3
+    outcome: narrow-and-promote
+    mattered: Two short proofs in the part read; the third clause rests on proofs held elsewhere.
+  - code: THEORY-083
+    formal_score: 3
+    outcome: retain-proposed
+    mattered: A measurement flagged formal because its body quotes end-state theorems.
+  - code: THEORY-585
+    formal_score: 3
+    outcome: narrow-and-promote
+    mattered: The asserted failure proves, but the title's "only" is false; corrected to the exact characterisation.
+promotion_prs: []
+notes_for_ledger:
+  - >-
+    Triage-006's score-3 band went 2 of 3 (318, 585), and the miss (083)
+    is the false-flag kind batch 037 named: end-state theorems quoted in
+    the body of an empirical claim. Its formal route is now exhausted; the
+    score-2 band should go to v3 review, as batch 039 advised.
+  - >-
+    A re-derivation can find the title wrong as well as unproved. In
+    THEORY-585 the source asserts the failure and the record had hedged
+    it; proving it showed the failure set is decided by a context's
+    projections (support on the first factor), not by whether the context
+    factorises, so the "only on V₁⊗ℂ1" clause was false (Bell-basis
+    contexts agree). Correct the title to what was proved, then promote.
+  - >-
+    Source proofs carry small errors worth recording in the decision:
+    Lin et al.'s Theorem 6 allows α ≠ 0 where its proof gives α > 0, and
+    their Theorem 10's probability is not derived; Goldwasser et al.'s
+    App. C.1 computes τ(A_i) as if A_i ⊆ T. None changed a bound the record
+    keeps, but each changes what may be quoted.
+  - >-
+    The split pattern (ADR-040, THEORY-109) recurs for empirical
+    conjectures that cite toy-model theorems: THEORY-110 now, and the
+    false flags batch 037 named. Check the cited theorems' proofs once,
+    then split, rather than re-reviewing the conjecture.
+  - >-
+    Queue: THEORY-083 requeued after a reading task (Figures 2–7 of
+    arXiv:2008.08186 into NOTE-476). THEORY-270 and THEORY-110 leave the
+    requeue list.
+owner_questions:
+  - >-
+    THEORY-110's split files a new Active THEORY for Lin et al.'s two
+    toy-model theorems, as THEORY-109's split did at your direction. Keep
+    the split, or leave the theorems in THEORY-110's body?
