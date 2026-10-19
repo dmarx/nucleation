@@ -1,23 +1,26 @@
 ---
 number: 324
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxwn52
-promote_when: >-
-  A second reader's check of the necessity argument (Ashby Ss. 7/4–7/8)
-  and the sufficiency argument (Ss. 6/8–6/9, 7/11), confirming that,
-  under the stated assumptions (a state-determined whole, essential
-  variables affected only through an environment whose coupling to them
-  the reacting part does not know), any system that comes to keep its
-  essential variables within limits must carry a channel from them to
-  the parameters of its reacting part. It is refuted by a system that
-  meets those assumptions and adapts to new environments with no such
-  channel, or by an ultrastable system whose terminal equilibria leave
-  an essential variable outside its limits. What cannot settle it: more
-  demonstrations that ultrastable machines adapt, which show sufficiency
-  only.
-title: 'A system adapts by trial and error to an environment unknown to it only if a second feedback, through its essential variables, changes the parameters of its primary feedback when those variables leave their limits; with that feedback every equilibrium the whole can reach is an adapted one'
-version: 1
+title: 'A system adapts by trial and error to an environment whose effect on its essential variables it does not know only if a second feedback, through those variables, changes the parameters of its primary feedback; and if that feedback changes them whenever, and for as long as, an essential variable is outside its limits, every equilibrium the whole can reach is an adapted one'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-324 (batch 032, ADR-047 v2).
+    Ashby's two deductions were re-derived step by step, in the dated
+    note below, which is the second reader's check the promote_when
+    asked for. The title now says the parameters change whenever, and
+    for as long as, an essential variable is outside its limits. A jump
+    only on leaving the limits can settle in a field whose equilibrium
+    lies outside them, which was the promote_when's second refuter. The
+    unknown environment is now stated as Ashby states it: one whose
+    effect on the essential variables the system does not know. The
+    promote_when's wider form, any system that comes to keep its
+    essential variables within limits, moves to QUESTION-tmpvx6hf.
 tags:
 - complex-systems
 - behavioral-integration
@@ -38,7 +41,7 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-307 THEORY-217 THEORY-153 — Proposed; the companion account and the accounts that use Ashby's terms, open -->
 
-# THEORY-324: A system adapts by trial and error to an environment unknown to it only if a second feedback, through its essential variables, changes the parameters of its primary feedback when those variables leave their limits; with that feedback every equilibrium the whole can reach is an adapted one
+# THEORY-324: A system adapts by trial and error to an environment whose effect on its essential variables it does not know only if a second feedback, through those variables, changes the parameters of its primary feedback; and if that feedback changes them whenever, and for as long as, an essential variable is outside its limits, every equilibrium the whole can reach is an adapted one
 
 ## Source
 
@@ -109,3 +112,45 @@ wrong goal, which the Homeostat with mis-set relays would show.
 - **[THEORY-134](THEORY-134.md).** Viability theory takes the constraint set as given;
   Ashby likewise takes the essential variables and their limits from the
   species (S. 3/14).
+
+## Note of 2026-10-19: the two deductions, re-derived
+
+Take the whole as a state-determined system with four blocks of
+variables: environment E, reacting part R, essential variables V and the
+parameters S of R. Its transition is x' = F(x), with one component map
+per block. R acts on V only through E and does not know how E is coupled
+to V (Ss. 7/3–7/4). A state is adapted when every essential variable is
+within its limits there (S. 5/8).
+
+**Sufficiency.** x is an equilibrium of the whole iff F(x) = x, which
+holds iff each component map leaves its own block fixed at x, given the
+other blocks' values there. That is the veto (S. 6/8), and it needs
+nothing beyond state-determinacy. If S changes at every state where some
+essential variable is outside its limits, then at an equilibrium, where S
+does not change, every essential variable is within its limits. This
+holds whatever R's construction and however the new values of S are drawn
+(S. 7/25). If no configuration of S is stable, the whole has no
+equilibrium and the statement is vacuous (S. 8/11). The condition must
+hold for as long as V is outside, as in the Homeostat, whose relay stays
+closed and keeps advancing the uniselector while a needle is past its
+limit (S. 8/2). A step-mechanism that jumps only on crossing out of the
+limits can land in a field with an equilibrium outside them and then stay
+there.
+
+**Necessity.** S depends on V, in Ashby's operational sense (S. 12/3), if
+two states differing only in V can be followed by different values of S.
+The trial-and-error rule (S. 7/7) keeps the way of behaving, which S sets
+(S. 6/3), when the trial succeeds, and changes it when it fails. Success
+is judged by V. Take two states that agree in E, R and S, with V within
+its limits in one and outside in the other. Such pairs exist, because V
+is a coordinate of its own, whenever V can leave its limits at all. The
+rule keeps S in the first and changes it in the second. So S depends on
+V, and there is a channel from V to S, direct or through intermediates.
+With S → R → E → V, this closes a second loop beside the primary R ⇄ E.
+The deduction fixes no form for the loop, which is why Ashby calls the
+ultrastable form "only one of a large class of related forms" (S. 7/26).
+Once the rule is assumed, the necessity is close to definitional. A
+regulator whose one fixed setting is stable in every environment of the
+class needs no such channel, but it does not adapt by trial and error.
+Whether systems that do need different settings can do without the
+channel is [QUESTION-tmpvx6hf](../questions.d/QUESTION-tmpvx6hf.md).

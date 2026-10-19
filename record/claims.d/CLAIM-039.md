@@ -68,4 +68,4 @@ of 2026-10-12 already names as the one to answer first.
 The status stays Deferred. Whether the line leaves Deferred is the owner's
 decision, and it is not made here.
 
-<!-- inactive-ok-file: CLAIM-355 CLAIM-368 THEORY-628 THEORY-324 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+<!-- inactive-ok-file: CLAIM-355 CLAIM-368 THEORY-628 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
