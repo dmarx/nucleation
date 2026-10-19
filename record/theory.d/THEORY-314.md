@@ -30,7 +30,6 @@ summary: >-
   minimizer exists, and does not cover costs that see f other than
   through its values at the training points.
 ---
-<!-- inactive-ok-file: THEORY-009 — Proposed; the account that cites the same proof, open -->
 
 # THEORY-314: Every minimizer of an arbitrary cost on the training outputs plus a strictly increasing function of the RKHS norm lies in the span of the kernel functions at the training points, by the reproducing property and orthogonal decomposition alone
 

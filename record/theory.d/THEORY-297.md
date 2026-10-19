@@ -36,7 +36,7 @@ summary: >-
   structure for a non-invertible or one-way map, and the stability of
   truncated eigenspaces is cited to Kato, not shown.
 ---
-<!-- inactive-ok-file: THEORY-009 THEORY-239 — Proposed; accounts this one sits beside, open -->
+<!-- inactive-ok-file: THEORY-239 — Proposed; accounts this one sits beside, open -->
 
 # THEORY-297: A bijection between shapes is equivalent, up to null sets, to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace
 

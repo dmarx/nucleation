@@ -35,7 +35,7 @@ summary: >-
   minimizes worst-case L²(p) approximation error over targets with
   E_p⁺[(g(a₁) − g(a₂))²] ≤ ε; that error is ε/(2(1 − λ_(d+1))).
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 — Proposed; the theories that cite this paper, open until it and its companions are read -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; the theories that cite this paper, open until it and its companions are read -->
 
 # NOTE-751: Johnson, El Hanchi & Maddison — Contrastive Learning Can Find an Optimal Basis
 

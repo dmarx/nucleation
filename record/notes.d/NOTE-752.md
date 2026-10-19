@@ -34,7 +34,6 @@ summary: >-
   while VICReg can stay full rank. Several proofs are sketches, and the
   experiments are small and synthetic.
 ---
-<!-- inactive-ok-file: THEORY-009 — Proposed; the theory this paper bears on -->
 
 # NOTE-752: Balestriero & LeCun — SSL Recovers Global and Local Spectral Embedding Methods
 

@@ -30,7 +30,7 @@ summary: >-
   and the argument transfers. The commutative GNS space L²(μ) is written
   out explicitly (Ex. 4.86, Lemma 3.28).
 ---
-<!-- inactive-ok-file: THEORY-005 THEORY-009 — Proposed; the accounts that cite this book or bear on its Riesz passage -->
+<!-- inactive-ok-file: THEORY-005 — Proposed; the accounts that cite this book or bear on its Riesz passage -->
 
 # NOTE-829: Jorgensen & Tian — Noncommutative Analysis (GNS, RKHS)
 

@@ -1,20 +1,23 @@
 ---
 number: 233
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpip5os
-promote_when: >-
-  A close reading of the App. A.3 derivation of the envelope (eq. 24) and
-  of eqs. 27–28, with the typographical slips there (NBS(K_X, K_X) for
-  NBS(K_X, K_Y)) resolved, and a measurement on trained networks of how far
-  CKA and NBS disagree in practice. The first settles the inequality. The
-  second settles whether the envelope matters for real representations,
-  since the paper shows the discrepancy only on random Wishart matrices.
-  It is refuted by a pair of PSD kernels whose CKA and NBS violate eq. 24.
-  What cannot settle it: agreement between CKA and NBS on particular model
-  pairs, which the envelope permits.
 title: "CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/THEORY-233.yaml,
+    batch 007). The promote_when asked for a close reading of App. A.3. It
+    is met instead by a direct derivation of the envelope (eq. 24) and of
+    eqs. 27–28, written out below and in the decision file. The owner's rule of 2026-10-19 (ADR-047): a checked step-by-step re-derivation recorded in the decision file meets a promote_when that asks for a proof the record does not hold, and the THEORY is promoted. Its
+    second clause, a measurement on trained networks of how far CKA and NBS
+    disagree, tests something the THEORY does not claim. It moves unchanged
+    to QUESTION-tmpg9cvp. The promote_when is removed. The claim is
+    unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -32,6 +35,7 @@ summary: >-
   networks.
 ---
 <!-- inactive-ok-file: THEORY-002 THEORY-008 — Proposed; cited for context, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-tmpg9cvp — Open; the trained-network question moved out of this account's promote_when, named as open -->
 
 # THEORY-233: CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement in one does not carry to the other with a dimension-free constant
 
@@ -81,7 +85,7 @@ factors in eq. 24 leave room for the orderings to differ.
 - **Not anything about nonlinear kernels.** Everything is for linear
   kernels on finite samples.
 - **Not how large the discrepancy is in trained networks.** The comparison
-  is on Wishart samples only.
+  is on Wishart samples only. That is [QUESTION-tmpg9cvp](../questions.d/QUESTION-tmpg9cvp.md).
 - **Not that the envelope is tight away from rank 1.** Tightness is stated
   only at rank 1.
 
@@ -100,3 +104,25 @@ factors in eq. 24 leave room for the orderings to differ.
   measures listed there.
 - Kornblith et al. ([LIT-254](../literature.d/LIT-254.md)) introduced CKA for comparing networks and do
   not relate it to the Bures fidelity.
+
+## Note of 2026-10-19: the envelope, derived directly
+
+Write ρ = K_X/Tr K_X, σ = K_Y/Tr K_Y, A = √ρ√σ, and F = (Tr|A|)², the
+fidelity. Then B² = 2 − 2√F, so NBS = √F and NBS² = F. Also
+CKA = Tr(ρσ)/(‖ρ‖_F‖σ‖_F), and ‖A‖²_F = Tr(√σρ√σ) = Tr(ρσ).
+
+- **Lower bound.** With s_i the singular values of A, (Σs_i)² ≥ Σs_i², so
+  F ≥ ‖A‖²_F = CKA·‖ρ‖_F‖σ‖_F. By Cauchy–Schwarz on the eigenvalues,
+  1 = Tr ρ ≤ √r(K_X)·‖ρ‖_F, so ‖ρ‖_F ≥ 1/√r(K_X), and likewise for σ. Hence
+  F ≥ CKA/√(r(K_X)r(K_Y)).
+- **Upper bound.** A has rank at most r = min[r(K_X), r(K_Y)], so
+  (Σs_i)² ≤ r·Σs_i², and F ≤ r·CKA·‖ρ‖_F‖σ‖_F ≤ r·CKA, since
+  ‖ρ‖_F ≤ Tr ρ = 1. At rank 1 every step is an equality.
+- **Eq. 27.** Tr|A| ≥ |Tr A| = Tr(√ρ√σ). Because ‖K^½‖²_F = Tr K, the
+  Frobenius-normalized K^½ is √ρ, so Tr(√ρ√σ) = CKA(K_X^½, K_Y^½). Equality
+  holds when A ⪰ 0, in particular when the kernels commute.
+- **Eq. 28.** 1 − Tr(√ρ√σ) = ½‖√ρ − √σ‖²_F ≤ ½‖ρ − σ‖₁ ≤ √(1 − F), by the
+  Powers–Størmer inequality and then the Fuchs–van de Graaf upper bound.
+
+The steps need only these textbook inequalities, so they do not depend on
+the typographical slips the paper's App. A.3 contains.

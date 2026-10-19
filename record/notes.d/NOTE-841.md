@@ -27,7 +27,7 @@ summary: >-
   that is at most E[g*²] for bounded labels. Nothing requires the views
   to be exchangeable.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-009 THEORY-319 THEORY-239 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-319 THEORY-239 — Proposed; the accounts this reading bears on, and the one filed from it -->
 
 # NOTE-841: Tosh, Krishnamurthy & Hsu — contrastive learning, multi-view redundancy and linear models
 

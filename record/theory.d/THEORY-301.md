@@ -34,7 +34,7 @@ summary: >-
   distance maximal, decoding distance as small as 2/r. Finite samples,
   linear readouts only.
 ---
-<!-- inactive-ok-file: THEORY-008 THEORY-233 — Proposed; the equivalence this rests on, the readout identities it extends, and the parallel CKA–Bures envelope, named in Connections -->
+<!-- inactive-ok-file: THEORY-008 — Proposed; the equivalence this rests on, the readout identities it extends, and the parallel CKA–Bures envelope, named in Connections -->
 
 # THEORY-301: The Procrustes distance between regularization-normalized representations and their average linear-decoding distance bound each other only through the participation ratio of the kernel difference: a small Procrustes distance forces a small decoding distance, but not conversely
 

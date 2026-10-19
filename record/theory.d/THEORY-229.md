@@ -37,7 +37,7 @@ summary: >-
 answers:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-009 THEORY-182 THEORY-186 THEORY-187 QUESTION-039 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
+<!-- inactive-ok-file: THEORY-182 THEORY-186 THEORY-187 QUESTION-039 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
 # THEORY-229: For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small initialization learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time, in order of eigenvalue, and ends at the minimum-norm zero-loss solution, kernel PCA
 

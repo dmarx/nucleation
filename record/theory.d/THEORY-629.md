@@ -22,7 +22,7 @@ summary: >-
   citing a textbook for anything leaned on.
 ---
 
-<!-- inactive-ok-file: THEORY-009 THEORY-314 — Proposed; named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-314 — Proposed; named in Connections, not leaned on -->
 
 # THEORY-629: Every continuous linear functional on a Hilbert space is the inner product with a unique vector of the same norm, given in any orthonormal basis by the conjugated values of the functional on the basis; completeness is what makes it so, and Riesz's 1907 statement on L² asserted only that a representing function exists
 

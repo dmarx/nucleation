@@ -29,7 +29,7 @@ summary: >-
   own statement, and the paper never considers contrastive kernels or
   positive pairs.
 ---
-<!-- inactive-ok-file: THEORY-009 THEORY-239 — Proposed; the accounts this reading bears on -->
+<!-- inactive-ok-file: THEORY-239 — Proposed; the accounts this reading bears on -->
 <!-- inactive-ok-file: NOTE-231 — Superseded; the seeded skim this reading replaces, named for a wording it corrects -->
 
 # NOTE-824: Pfau et al. — Spectral Inference Networks

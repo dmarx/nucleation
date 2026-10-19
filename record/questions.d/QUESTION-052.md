@@ -31,6 +31,8 @@ summary: >-
   [CLAIM-164](../claims.d/CLAIM-164.md) and [CLAIM-043](../claims.d/CLAIM-043.md). [THEORY-001](../theory.d/THEORY-001.md), [THEORY-003](../theory.d/THEORY-003.md), [THEORY-005](../theory.d/THEORY-005.md),
   [THEORY-006](../theory.d/THEORY-006.md), [THEORY-007](../theory.d/THEORY-007.md) and [THEORY-009](../theory.d/THEORY-009.md) answer it in part; the body gives
   each one's limit.
+refined_by:
+- QUESTION-tmph1bq0
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 <!-- inactive-ok-file: THEORY-228 THEORY-239 — Proposed; partial answers filed in the last two days, cited with their limits -->

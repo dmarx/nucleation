@@ -34,7 +34,7 @@ summary: >-
   densities. It does not cover centred kernels, or similarity measures
   that compare Gram matrices of representations.
 ---
-<!-- inactive-ok-file: THEORY-233 THEORY-001 THEORY-005 — Proposed; accounts this one is set beside and does not rest on -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; accounts this one is set beside and does not rest on -->
 
 # THEORY-313: With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus is within O(σ²) of KL as the bandwidth σ shrinks
 
