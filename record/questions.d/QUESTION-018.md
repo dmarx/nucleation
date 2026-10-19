@@ -33,7 +33,10 @@ contexts."
 
 The manuscript §7 says each condition can be met while the conjunction fails ([CLAIM-321](../claims.d/CLAIM-321.md)), and
 that score addition composes conditions only under conditional independence at
-the noisy state ([CLAIM-123](../claims.d/CLAIM-123.md)). C7 Appendix D adds that the identity "is not a generic
+the noisy state. [CLAIM-123](../claims.d/CLAIM-123.md), corrected on 2026-10-19, states the exact
+condition: the scores add when p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with
+the noisy state x, which conditional independence is sufficient for but does
+not require. C7 Appendix D adds that the identity "is not a generic
 identity for arbitrary prompt embeddings or finite-step diffusion
 implementations", and that failures "may reflect estimator error, model
 misspecification, or sampling limitations". Which of these explains a given

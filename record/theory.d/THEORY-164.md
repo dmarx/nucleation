@@ -35,7 +35,6 @@ supports:
 - CLAIM-068
 ---
 
-<!-- inactive-ok-file: THEORY-155 — Proposed; named for contrast -->
 
 # THEORY-164: In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect
 
