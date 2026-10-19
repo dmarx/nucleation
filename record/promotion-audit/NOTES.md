@@ -1088,3 +1088,28 @@ history note. THEORY-277 is requeued on this basis.
 - Requeue: CLAIM-265 to wave 1 after #227. CLAIM-143 after CLAIM-004 is
   decided and the owner rules on carrying the class wording into it.
   THEORY-223 and THEORY-593 wait on studies; no requeue.
+
+## 2026-10-19 — batch 041 (wave 5, requeue)
+
+- Judging an argument on its own terms in wave 5 did not change any of the
+  three wave-3 verdicts. Each promote_when asks for something an argument
+  cannot supply (a mechanical procedure for THEORY-071, a formally stated
+  worked case for THEORY-628), or for readings the record lacks
+  (THEORY-485). Requeuing an argument from wave 3 to wave 5 is only worth
+  a review if its promote_when, its premises or its rival changed in
+  between. Check git log on the entry, its NOTE and its rival before
+  spending a review.
+- The one route by which these arguments could move is a title that
+  reports the argument ("X argue that ..."). That is batch 032's open
+  owner question on THEORY-351. THEORY-071 and THEORY-628 both wait on it.
+  Ask it once for the class.
+- THEORY-485 is the cheapest of the three: its promote_when can be met by
+  readings (Ney 2016 and 2021, Chalmers and McQueen 2022, Bikaraan-Behesht
+  2022) plus an argument for P7. Queue a reading task.
+- A numerical model result read in full counts as one study under v3
+  (THEORY-178, now THEORY-290). Narrow to the model's sizes and strategy
+  space, and keep the equilibrium-selection caveat in the body when a
+  result depends on which equilibrium is chosen.
+- Triage-006's philosophical-title penalty is a word match. THEORY-290's
+  "argument" was debate content. Before applying the penalty, check
+  whether the word is the entry's subject or its method.

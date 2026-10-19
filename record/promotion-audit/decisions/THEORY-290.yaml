@@ -1,0 +1,56 @@
+# record/promotion-audit/decisions/THEORY-290.yaml
+id: THEORY-290
+batch: batch-041
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_type: measurement (a numerical model result)
+scope:
+  accepted: >-
+    The title narrowed to the model it was computed in. In a model of
+    deductive debate between two debaters over three atomic propositions,
+    whose payoff trades true beliefs against changes of mind (u = w·v − d),
+    with fixed memoryless premise-and-conclusion strategies, the most
+    truth-conducive equilibrium can fall short of the truth-optimal
+    profile because one debater free-rides on the other's bold,
+    belief-disrupting arguments (a snowdrift), and in a narrow band of
+    mixed equilibria a higher weight on truth gives lower equilibrium
+    collective accuracy. It rests on one study, LIT-966, read in full in
+    NOTE-795: main text and the whole SI, with Figure 5, on which the
+    non-monotonicity rests, viewed as a rendered page. ADR-047 v3 applies,
+    as it did to THEORY-178's model ensemble (batch 033): the results are
+    exact Markov-chain computations, reported in Table 1 and the text, and
+    the narrowed title claims no more than they show. Nothing in the
+    record contradicts it.
+  excluded: >-
+    The unqualified "debaters". Every result is for two players and
+    n = 3 (larger n only for equilibrium types, by simulation), and for a
+    coarse, memoryless strategy space that excludes the paper's own "ideal
+    cooperative debater". Also excluded: any reading on which the dip is
+    general or large. NOTE-795 rates it weak (C4): local, small and
+    confined to a band of mixed equilibria. Both are kept in the title's
+    wording ("in a narrow band of mixed equilibria") and in the body.
+evidence:
+  - "NOTE-795 version 1: read in full from arXiv:2504.06485v1, main text §§1–4 and SI A–D; Figure 5 viewed as a rendered page image; the code repository not opened."
+  - "NOTE-795 claims table: C2 and C3 moderate (Table 1 at δ = 0.8; §2.6.3, Fig 5); C4 weak (a narrow mixed-equilibrium band, a small dip, Figs 5 and 9)."
+  - "Table 1 (δ = 0.8): a prisoner's dilemma at truth weight 2.5, stag hunt and snowdrift at 3.5, snowdrift at 4.5, none at 9.5, stated in the text, not only in figures (batch 019's rule)."
+blockers: []
+notes: >-
+  Triage-006 flagged its philosophical-title penalty as misfiring here:
+  "argument" in the title means debate content, not that the entry is an
+  argument. Sorted by what the title asserts (batch 020), it is a model
+  result. It is not a theorem: the paper proves nothing, and re-deriving
+  it would mean re-running the 2,816-state chain over a 17 × 17 payoff
+  table, which the record cannot check by hand. So ADR-047 v2 does not
+  apply, and v3 does, on the THEORY-178 precedent that a computed model
+  result read in full counts as one study. Confidence is medium for two
+  reasons: the equilibrium selection (a truth-favouring planner among the
+  equilibria left after removing weakly dominated strategies; (Exit,
+  Exit) is always an equilibrium) carries part of the result, and the dip
+  rests on a figure, seen but not tabulated. The promote_when asks for
+  more than two debaters or richer strategies, outside the narrowed
+  title, so it moves unchanged to a new QUESTION.
+unlocks: []
+next_action: Carry out in a promotion PR.

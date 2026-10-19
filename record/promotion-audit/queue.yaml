@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 119
+version: 120
 updated: '2026-10-19'
 record_revision: 374ba778e1bc5456455bcdbc42e581b2abff1f59
 procedure: record/decisions.d/ADR-047.md
@@ -39,7 +39,7 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 57
+  reviewed: 54
   promotion_paths: 32
 - wave: 4
   class: Dependency unlocks
@@ -47,18 +47,9 @@ waves:
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
-  reviewed: 25
-  promotion_paths: 5
+  reviewed: 29
+  promotion_paths: 6
 requeue:
-- code: THEORY-071
-  when: when wave 5 resumes
-  why: 'batch-033: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-485
-  when: when wave 5 resumes
-  why: 'batch-033: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-628
-  when: when wave 5 resumes
-  why: 'batch-035: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
 - code: CLAIM-143
   when: after CLAIM-004 is decided and the owner rules on the class-relative wording
   why: 'batch-035: second clause too strong ("only after" vs a class of correspondences)'
@@ -68,6 +59,10 @@ requeue:
 - code: CLAIM-265
   when: 'after PR #227 merges'
   why: 'batch-040: corrected with a proof; review in wave 1 as demonstrated'
+- code: THEORY-485
+  when: after a reading task (Ney 2016/2021, Chalmers and McQueen 2022, Bikaraan-Behesht 2022) and an
+    argument for P7
+  why: 'batch-041: cheapest of the wave-5 arguments to move'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2097,7 +2092,7 @@ candidates:
   batch: batch-040
   decision: decisions/THEORY-593.yaml
 - code: THEORY-071
-  wave: 3
+  wave: 5
   score: 4
   rubric:
     bundling: 1
@@ -2113,7 +2108,7 @@ candidates:
   route: source
   control: true
   disposition: retain-proposed
-  batch: batch-033
+  batch: batch-041
   decision: decisions/THEORY-071.yaml
 - code: THEORY-178
   wave: 3
@@ -2158,7 +2153,7 @@ candidates:
   carried_out_in:
   - '#225'
 - code: THEORY-485
-  wave: 3
+  wave: 5
   score: 3
   rubric:
     bundling: 0
@@ -2174,10 +2169,10 @@ candidates:
   route: source
   control: true
   disposition: retain-proposed
-  batch: batch-033
+  batch: batch-041
   decision: decisions/THEORY-485.yaml
 - code: THEORY-628
-  wave: 3
+  wave: 5
   score: 4
   rubric:
     bundling: 0
@@ -2193,7 +2188,7 @@ candidates:
   route: source
   control: true
   disposition: retain-proposed
-  batch: batch-035
+  batch: batch-041
   decision: decisions/THEORY-628.yaml
 - code: CLAIM-052
   wave: 5
@@ -2388,6 +2383,15 @@ candidates:
   decision: decisions/CLAIM-265.yaml
   carried_out_in:
   - '#227'
+- code: THEORY-290
+  wave: 5
+  triage: batch-041
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-041
+  decision: decisions/THEORY-290.yaml
+  carried_out_in:
+  - '#228'
 history:
 - version: 1
   date: '2026-10-19'
@@ -2836,4 +2840,9 @@ history:
   note: 'Batch 040 integrated: 1 correction (CLAIM-265, in #227), 1 narrow-and-promote for the owner (THEORY-073),
     2 retained.; carried_out_in #227; THEORY-073, -223, -593 and CLAIM-265 counted in wave 5; requeue
     updated'
+- version: 120
+  date: '2026-10-19'
+  note: 'Batch 041 integrated: 1 of 4. THEORY-290, a model result, promoted under ADR-047 v3. The three
+    arguments keep their blockers.; carried_out_in #228; THEORY-071, -485, -628 counted in wave 5; THEORY-485
+    requeued after a reading task'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

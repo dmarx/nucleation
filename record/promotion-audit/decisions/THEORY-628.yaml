@@ -1,8 +1,12 @@
 # record/promotion-audit/decisions/THEORY-628.yaml
 id: THEORY-628
-batch: batch-035
+batch: batch-041
 reviewed: '2026-10-19'
-reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes_review:
+  batch: batch-035
+  disposition: retain-proposed
+  why: Reviewed then as wave 3; same blockers, now judged as an argument (wave 5).
 current_status: Proposed
 disposition: retain-proposed
 confidence: high
@@ -10,38 +14,27 @@ title_type: argument
 scope:
   accepted: Nothing.
   excluded: >-
-    The whole title. It is a conceptual argument: that autopoiesis, as
-    originally defined, entails only conservation (an all-or-nothing norm
-    visible to an observer); that a graded norm the system itself has
-    needs adaptivity; and that sense-making and agency need adaptivity.
-    NOTE-719 read Di Paolo (2005) in full, and its claims table rates C1
-    and C2 "moderate", supported by "a reading of the primary texts" and
-    "conceptual argument (the bacterium, the cliff)". There is no formal
-    model, and the viability set is defined in one sentence. Nothing in
-    the source is a theorem or a measurement, so neither ADR-047 v2 nor v3
-    applies.
+    The whole title, judged as an argument on its own terms (wave 5). It
+    makes three claims: autopoiesis as defined gives only an all-or-nothing
+    norm visible to an observer; a graded norm the system has needs
+    adaptivity; sense-making and agency need adaptivity. The first is a
+    reading of autopoietic theory that Di Paolo himself qualifies (note 1:
+    later formulations may contain adaptivity). The second and third are
+    argued from chosen cases (the bacterium, the cliff), which the
+    promote_when rules out as a test. THEORY-666 (Weber and Varela), the
+    declared rival, holds that self-production suffices for sense-making
+    and is still Proposed; neither paper settles it, as the entry says.
 evidence:
-  - "NOTE-719 version 1: read in full, every quotation checked against the extracted text by script."
-  - "NOTE-719 Limitations: 'Conceptual. There is no formal model; the only operational example is the Chemoton, in a note.' Tendency and 'sufficiently close' assume a metric and boundary the paper does not supply."
-  - "C1 is a reading of autopoietic theory; Di Paolo concedes (note 1) that later formulations may contain adaptivity."
-  - "Rival THEORY-666 (Weber and Varela, Proposed) holds that self-production suffices for sense-making; the entry says neither paper settles it."
+  - "NOTE-719 version 1, read in full; claims C1 and C2 rated moderate, supported by a reading of the primary texts and conceptual argument."
+  - "THEORY-666: Proposed, version 1. No commits to THEORY-628, NOTE-719 or THEORY-666 after cb938c23."
 blockers:
-  - "The promote_when's worked case does not exist: no model or organism in which a merely self-producing system and an adaptive one are set side by side with the viability set and state space stated formally."
+  - "The promote_when asks for a worked case with the viability set and state space stated formally. That is not an argument, and a record-built toy model would build regulation in by construction (batch 035)."
   - "An open rival (THEORY-666) disputes the central necessity claim."
 notes: >-
-  Title type: argument (conceptual analysis). Route: triage-005 sent it
-  to source, its control sample's fifth and last member. The route
-  predicted the outcome: triage-005's backtest found every source-route
-  entry a non-yielder, and batch 020's sorting rule sends an argument to
-  wave 5, where nothing has promoted except by the owner's call. A
-  record-built toy model (a one-dimensional viability interval, one
-  system drifting to the boundary, one with feedback below a threshold)
-  would meet the letter of the promote_when but not its point: it would
-  build regulation in by construction and make "differ for the system"
-  true by definition, which the promote_when's own last sentence rules
-  out for chosen illustrations. ADR-047 v2 covers re-derived proofs, not
-  constructed cases, so the audit does not offer one. NOTE-719's open
-  question (constraint set K or viability kernel, via THEORY-134) is the
-  formal restatement that could make a real worked case possible.
+  The formal restatement NOTE-719 suggests (the constraint set K or the
+  viability kernel, via the Active THEORY-134) is what could make a real
+  worked case possible. That is new work, not a review. A
+  reported-argument narrowing waits on the THEORY-351 owner question, as
+  for THEORY-071.
 unlocks: []
-next_action: Move to wave 5 in the queue, as THEORY-235 was (batch 018). None otherwise.
+next_action: None, unless the owner rules that reported-argument titles are promotable (THEORY-351 question).

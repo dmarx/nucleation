@@ -1,34 +1,44 @@
 # record/promotion-audit/decisions/THEORY-071.yaml
 id: THEORY-071
-batch: batch-033
+batch: batch-041
 reviewed: '2026-10-19'
-reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes_review:
+  batch: batch-033
+  disposition: retain-proposed
+  why: Reviewed then as wave 3; same blockers, now judged as an argument (wave 5).
 current_status: Proposed
 disposition: retain-proposed
 confidence: high
+title_type: argument
 scope:
   accepted: Nothing.
   excluded: >-
-    The whole title. It is a conceptual analysis: three conditions,
-    each argued necessary from intuitive cases (Table 1 of LIT-566), and
-    joint sufficiency claimed only as the authors' failure to conceive of
-    a counterexample. "Individuality without the other two is not agency"
-    holds on the account by definition, and the cases that illustrate it
-    (osmosis, the warmed kitten, the tremor) are the cases the definition
-    was built from. The asymmetry criterion is incomplete by the authors'
-    own account: where parameters end and variables begin is the
-    modeller's choice. Levin's account (THEORY-583) is a filed rival that
-    disagrees about the homeostat.
+    The whole title, judged as an argument on its own terms (wave 5). Its
+    necessity half ("requires individuality, interactional asymmetry and
+    self-generated normativity") is argued from the Table 1 cases of
+    LIT-566, from which the definition was built, so the cases cannot also
+    test it, as the promote_when itself says. Its exclusion half
+    ("individuality without the other two is not agency") follows from
+    the definition, so it is no stronger than the definition. Joint
+    sufficiency rests on the authors' failure to conceive a
+    counterexample. The asymmetry criterion depends, by the authors' own
+    account, on how the modeller splits parameters from variables, which
+    is the gap the promote_when names. THEORY-583 (Levin), its declared
+    rival, is still Proposed and disagrees about the homeostat, so a
+    disputed case remains unanswered.
 evidence:
-  - "NOTE-458 version 1: read in full (§§1–6, Table 1, Figure 1, footnotes 1–4)."
-  - "THEORY-071's 'What was actually shown' opens: 'The paper argues from cases. It does not measure anything.'"
-  - "THEORY-071's summary: 'a conceptual analysis checked against intuitive cases, with an asymmetry criterion its authors call incomplete'."
+  - "NOTE-458 version 1, read in full; unchanged since batch 033 (no commits to THEORY-071, NOTE-458 or THEORY-583 after cb938c23)."
+  - "THEORY-583: Proposed, version 1."
 blockers:
-  - "The promote_when asks for measures of closure and normativity and a modeller-independent asymmetry criterion, applied mechanically to explicit models. None exists. The account has a live rival, THEORY-583."
+  - "The promote_when's mechanical procedure (closure and normativity measures and a modeller-independent asymmetry criterion, applied to a protocell, an evolved controller and a homeostat) does not exist. An argument cannot meet it; it asks for a worked procedure."
+  - "An unanswered rival on a named case: THEORY-583, itself retained in batch 020."
 notes: >-
-  The title asserts an argument (batch 020's sort rule). There is no
-  theorem: the generative definition implies the three conditions, but
-  that is the definition unpacked, not a result about anything. Nor is
-  there a measurement. The entry belongs in wave 5.
+  No narrowing helps. Its premises are the definition's own clauses, not
+  record entries that could be reviewed separately. A narrowing to
+  "Barandiaran, Di Paolo and Rohde argue that ..." would be an accurate
+  report, but whether a title that reports an argument is promotable is
+  the owner question batch 032 raised on THEORY-351. Until that is
+  settled, judge the title as the thesis argued.
 unlocks: []
-next_action: None. Move to wave 5 in the queue.
+next_action: None, unless the owner rules that reported-argument titles are promotable (THEORY-351 question).
