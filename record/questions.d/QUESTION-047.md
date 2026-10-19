@@ -33,8 +33,9 @@ summary: >-
 refined_by:
 - QUESTION-151
 - QUESTION-173
+- QUESTION-tmpd26fs
 ---
-<!-- inactive-ok-file: THEORY-242 THEORY-267 THEORY-321 — Proposed; readings listed with their limits, none taken as an answer -->
+<!-- inactive-ok-file: THEORY-242 THEORY-267 — Proposed; readings listed with their limits, none taken as an answer -->
 
 # QUESTION-047: Can a community of individually sound inquirers settle on a belief none of them reasoned their way to, as an organized whole can settle on a course none of its members intends, and which community-level mechanisms set it?
 

@@ -1,21 +1,23 @@
 ---
 number: 321
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmprmrt9
-promote_when: >-
-  A case outside the model, a laboratory network experiment or field
-  data, in which the updating rule is held fixed, the influence structure
-  is changed, and the group's settled estimate moves away from the truth
-  as the largest influence weight grows, as Proposition 2 predicts. The
-  mathematics is proved; what is open is whether real communities update
-  closely enough to DeGroot for the condition to decide their beliefs.
-  It is refuted, as an account of real groups, by such an experiment in
-  which accuracy does not track maximal influence. What cannot settle
-  it: further simulations of the DeGroot model, which only restate the
-  theorem.
-title: "Under repeated DeGroot averaging, a large society's consensus converges to the truth if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right"
-version: 1
+title: "Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-321 (batch 036, ADR-047 v2).
+    Lemma 1 and Proposition 2 were re-derived for a strongly connected
+    society, in the dated note below. The title now says strongly
+    connected: the source's statement allows several closed groups, and
+    the audit's sketch suggests a vanishing largest weight may not then
+    suffice, which was not checked against the paper. The former
+    promote_when, a case outside the model, moves to QUESTION-tmpd26fs
+    with that check.
 tags:
 - network-science
 - social-science
@@ -35,7 +37,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-143 THEORY-148 — Proposed; the bandit-model accounts this one sits beside, open -->
 
-# THEORY-321: Under repeated DeGroot averaging, a large society's consensus converges to the truth if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right
+# THEORY-321: Under repeated DeGroot averaging in a strongly connected society, the consensus converges to the truth as the society grows if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right
 
 ## Source
 
@@ -100,3 +102,28 @@ truth would contradict it, and Lemma 1's variance bound rules that out.
   bandit models of inquiry, through density and transient diversity. This
   adds a third structural variable, the concentration of influence, in a
   model with no exploration.
+
+## Note of 2026-10-19: Lemma 1 and Proposition 2, re-derived for a strongly connected society
+
+Take beliefs p_i(0) in [0, 1], independent, with mean μ and variance at
+least σ² > 0, and a stochastic weight matrix T(n) that is strongly
+connected and aperiodic.
+
+1. By Proposition 1, every agent's limit belief is s·p(0), where s is the
+   unit left eigenvector of T, with s ≥ 0 and Σ s_i = 1.
+2. Its mean is μ Σ s_i = μ, and its variance is Σ s_i² Var p_i(0).
+3. If the largest weight s_1 tends to 0: each variance is at most 1/4 on
+   [0, 1], so the variance of s·p(0) is at most ¼ Σ s_i² ≤ ¼ s_1 Σ s_i
+   = s_1/4, which tends to 0. By Chebyshev, the consensus converges in
+   probability to μ.
+4. If s_1 does not tend to 0, then along a subsequence s_1 ≥ c > 0 and the
+   variance is at least σ² s_1² ≥ σ²c². Since |s·p(0) − μ| ≤ 1,
+   convergence in probability would force the variance to 0, so the
+   society is not wise.
+
+Steps 3 and 4 use only the bounds on the variances, so the criterion
+holds for every admissible signal distribution or for none, which is the
+sense of "network structure alone". With several closed groups the limit
+beliefs are several consensus values, and the maximum over them is not
+covered by 3. That case, and whether real groups behave so, are
+[QUESTION-tmpd26fs](../questions.d/QUESTION-tmpd26fs.md).
