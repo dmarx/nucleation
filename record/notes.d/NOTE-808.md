@@ -30,7 +30,6 @@ summary: >-
   as the orthocomplement used to reach conjunction from disjunction, and
   is never measured.
 ---
-<!-- inactive-ok-file: THEORY-255 — Proposed; the theory filed from this reading -->
 <!-- inactive-ok-file: CLAIM-119 THEORY-013 — Proposed; the claim and account this reading bears on, open -->
 
 # NOTE-808: Aerts — Quantum structure in cognition

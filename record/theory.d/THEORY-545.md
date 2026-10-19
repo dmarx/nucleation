@@ -27,7 +27,7 @@ supports:
 - CLAIM-041
 ---
 <!-- inactive-ok-file: LIT-270 — Rejected; named as the later programme whose error this account traces, not as support -->
-<!-- inactive-ok-file: THEORY-013 THEORY-017 THEORY-255 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
+<!-- inactive-ok-file: THEORY-013 THEORY-017 — Proposed; named as related or rival accounts in Connections and prose, not leaned on as settled -->
 
 # THEORY-545: Aerts and Gabora's founding quantum model of concepts is a classical probability model written in a Hilbert space: every context it uses is a projector diagonal in one basis, so the contexts commute and generate a Boolean algebra, its entangled 'pet fish' state gives the same statistics as a classically correlated mixture for every context in the model, and its guppy weights are copied from single-concept ratings rather than predicted for the conjunction
 

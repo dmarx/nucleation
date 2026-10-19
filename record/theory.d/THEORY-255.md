@@ -1,23 +1,29 @@
 ---
 number: 255
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpajs5h
-promote_when: >-
-  A check, written out in the record, of the generalisation this account
-  draws from Theorem 9: that in any lattice whose membership weight is
-  order-preserving, taking "and" as the meet and "or" as the join rules
-  out overextension and underextension, whatever the negation. And a
-  reading of a second, independent quantum model of concept-combination
-  data (Busemeyer and Bruza, LIT-316, if a copy is found, or Franco's
-  conditional-probability model) that confirms that it too places the
-  guppy-type deviations in an operation other than the lattice meet. It
-  is refuted by a published model that reproduces Hampton's overextended
-  items with conjunction as a lattice meet and an order-preserving weight.
-  What cannot settle it: a better or more economical fit to Hampton's
-  data, which bears on the model and not on where the deviation lives.
-title: "In Aerts's subspace model of Hampton's membership data, taking concept conjunction and disjunction as the meet and join of subspaces cannot produce overextension or underextension, so the guppy-type deviations need an emergent concept outside the lattice operations, while the Kolmogorov-type deviations can be had from a non-Boolean subspace lattice"
-version: 1
+title: "In Aerts's subspace model of Hampton's membership data, and in any lattice whose membership weight is order-preserving, whatever its negation, taking concept conjunction and disjunction as meet and join cannot produce overextension or underextension, so a model of the guppy-type deviations must take conjunction as some operation other than the meet or drop the monotone weight, while the Kolmogorov-type deviations can be had from the meet of a non-Boolean subspace lattice"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-255.yaml, batch 018). The
+    promote_when asked for a written check of the generalisation from
+    Theorem 9 to any lattice with an order-preserving weight. It is met by
+    the derivation in the note of 2026-10-19 below and in the decision
+    file. The owner's rule of 2026-10-19 (ADR-047): a checked step-by-step
+    re-derivation recorded in the decision file meets a promote_when that
+    asks for a proof the record does not hold. Its second clause asked for
+    a second quantum model confirming that the guppy-type deviations sit
+    outside the meet. That follows from the derivation, so what remains is
+    which published models drop which assumption. That moves to
+    QUESTION-tmpsrgse. The title's "need an emergent concept" overstated
+    the theorem, which forces only that the meet or monotonicity be
+    dropped, and is narrowed. The promote_when is removed.
 tags:
 - cognition
 - logic
@@ -37,7 +43,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-119 CLAIM-038 THEORY-013 — Proposed; the claims and account this bears on, named and not leaned on -->
 <!-- inactive-ok-file: LIT-316 — Unavailable; Busemeyer and Bruza, named as what would settle this, not leaned on -->
 
-# THEORY-255: In Aerts's subspace model of Hampton's membership data, taking concept conjunction and disjunction as the meet and join of subspaces cannot produce overextension or underextension, so the guppy-type deviations need an emergent concept outside the lattice operations, while the Kolmogorov-type deviations can be had from a non-Boolean subspace lattice
+# THEORY-255: In Aerts's subspace model of Hampton's membership data, and in any lattice whose membership weight is order-preserving, whatever its negation, taking concept conjunction and disjunction as meet and join cannot produce overextension or underextension, so a model of the guppy-type deviations must take conjunction as some operation other than the meet or drop the monotone weight, while the Kolmogorov-type deviations can be had from the meet of a non-Boolean subspace lattice
 
 ## Source
 
@@ -103,7 +109,7 @@ negation, by construction.
   order-preserving and that "and" is a lower bound of both concepts. So
   the same follows for a Boolean algebra, an orthomodular lattice or a
   Heyting algebra with any monotone valuation. That generalisation is
-  why this account is Proposed.
+  checked in the note of 2026-10-19 below.
 - **That the data are contextual.** Non-classical here means no single
   Kolmogorovian space in which "A and B" is the intersection event. Drop
   that identification, as Contextuality-by-Default does ([LIT-264](../literature.d/LIT-264.md)), and
@@ -133,3 +139,28 @@ No relations are declared.
   orthocomplemented lattice of contexts and use a commuting, Boolean
   model. This paper is where non-commuting subspaces are actually put to
   work on concept data, and it confines them to the k-type items.
+
+## Note of 2026-10-19: the generalisation, checked
+
+Written for the promotion audit's batch 018
+(record/promotion-audit/decisions/THEORY-255.yaml).
+
+1. Let (L, ≤) be any lattice and µ: L → [0, 1] any order-preserving
+   weight. No negation, complement or distributive law is assumed.
+2. A ∧ B ≤ A and A ∧ B ≤ B, so µ(A ∧ B) ≤ min(µ(A), µ(B)): ∆_c ≤ 0
+   when "and" is the meet. No overextension.
+3. A ≤ A ∨ B and B ≤ A ∨ B, so µ(A ∨ B) ≥ max(µ(A), µ(B)): ∆_d ≤ 0
+   when "or" is the join. No underextension.
+4. Theorem 9 is the case of subspaces of ℝⁿ with µ(S) = ‖P_S x‖². That
+   weight is order-preserving, because S ⊆ T gives P_S = P_S P_T and so
+   ‖P_S x‖ ≤ ‖P_T x‖.
+5. So a model that reproduces Cuckoo (µ(Pet) = 0.575,
+   µ(Bird and Pet) = 0.842) must drop conjunction-as-meet or the monotone
+   weight. Aerts drops the first, with an emergent subspace.
+6. The k-type clause is possible with the meet kept. In ℝ², take lines A
+   and B at angle θ < 90°, so A ∧ B = {0}, and x the unit vector on their
+   bisector. Then µ(A) = µ(B) = cos²(θ/2) > ½ and µ(A ∧ B) = 0, so
+   k_c = 1 − 2cos²(θ/2) < 0. Aerts's fitted pair (Machine, Vehicle at
+   θ = 80.9026° in ℝ⁴) is an instance. That every k-type item in
+   Hampton's data can be fitted this way is not shown: [NOTE-808](../notes.d/NOTE-808.md) grades it
+   moderate, worked for one pair.
