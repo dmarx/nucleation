@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpz6mng
 title: 'With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order over finitely many states, and has A86''s D_Q, with the identity on tasks, as its symmetrization'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -15,6 +15,16 @@ history:
     renderings, THEORY-717 (Active) covers it. For renderings with
     unbounded outcome spaces, the ground is still THEORY-156. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Split at the owner's direction, carrying out the promotion audit's
+    decision (record/promotion-audit/decisions/CLAIM-326.yaml, batch 014,
+    ADR-047). Steps (a) to (d) for finitely many outcomes are now
+    CLAIM-tmpew698, demonstrated and Active, on THEORY-717. This claim
+    rests on it and keeps the unrestricted statement, whose step (b)
+    needs the general converse (THEORY-156, Proposed). The claim is
+    unchanged, and the status stays Proposed.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -29,6 +39,8 @@ tags:
 - information-theory
 date: '2026-10-15'
 line: pragmatic-transport
+rests_on:
+- CLAIM-tmpew698
 grounds:
 - THEORY-156
 - THEORY-717
@@ -118,3 +130,9 @@ a finite set of categories, then that converse is Theorem 6 of Blackwell
 unrestricted, as for raw texts, step (b) still rests on [THEORY-156](../theory.d/THEORY-156.md), which is
 Proposed for that case. The claim states no restriction on the outcome
 spaces, so it keeps both grounds.
+
+## Note of 2026-10-19: the finite case, split off
+
+The finite-outcome case of steps (a) to (d), with the worked case checked,
+is now [CLAIM-tmpew698](CLAIM-tmpew698.md), Active. What keeps this claim Proposed is only
+step (b) for outcome spaces that are not finite.

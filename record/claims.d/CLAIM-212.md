@@ -4,9 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmp95pjv
 title: 'Fidelity as a report and fidelity as a re-performance are different decision targets: Blackwell''s order compares a rendering with its source as evidence about the source''s situation, which both readers decide about, while a rendering that re-performs the act in the target''s situation is compared only through a correspondence of situations'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Warrant corrected from demonstrated to interpretive at the owner's
+    direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-212.yaml, batch 014, ADR-047).
+    The claim calls itself a proposal. Its defeat condition is a
+    reception study or a classification of the line's central cases,
+    neither of which a derivation settles (ADR-043). Its one worked
+    case is CLAIM-323, which is already demonstrated and Active. The
+    claim is unchanged, and the status stays Proposed.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   Receivers' fidelity verdicts on the same renderings do not differ
   between a report task (what was the source's speaker doing?) and a
