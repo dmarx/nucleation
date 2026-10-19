@@ -36,7 +36,7 @@ summary: >-
   describes is nesting of field scales, not a recovered tree.
 ---
 
-<!-- inactive-ok-file: THEORY-185 THEORY-192 — Proposed; cited as the account QUESTION-025 builds on and as the THEORY this reading sources -->
+<!-- inactive-ok-file: THEORY-185 — Proposed; cited as the account QUESTION-025 builds on and as the THEORY this reading sources -->
 
 # NOTE-668: Hippocampal spatial representations exhibit a hyperbolic geometry
 

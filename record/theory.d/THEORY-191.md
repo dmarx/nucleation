@@ -1,20 +1,24 @@
 ---
 number: 191
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7qz7l
-promote_when: >-
-  An independent analysis of natural odour co-occurrence data, from other
-  odour sources or by another group, finds the same Betti-curve match to a
-  hyperbolic geometry AND rejects flat models that share the shell's
-  low-dimensional, near-spherical arrangement: points on or near a 2-sphere
-  in Euclidean space, or a flat space with an exponentially distributed
-  scale coordinate. A replication that again compares the hyperbolic shell
-  against uniform Euclidean cubes alone does not count, because on a thin
-  shell hyperbolic distance is nearly a monotone function of angle and
-  that comparison cannot separate a hyperbolic metric from a sphere.
-title: 'In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball'
-version: 1
+title: 'In four natural odour sources (strawberry, tomato, blueberry and mouse-urine volatiles), the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of any uniform Euclidean cube tried, and human odour-descriptor profiles for 127 odorants have that of a full three-dimensional hyperbolic ball'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-191.yaml, batch 018). The
+    owner's rule of 2026-10-19 (ADR-047 v3): one study read in full can
+    promote an empirical THEORY whose title claims no more than that study
+    measured. The title is narrowed from "in natural odour sources" to the
+    four sources measured and the 127 odorants rated, and "a uniform
+    Euclidean cube" to "any uniform Euclidean cube tried". The promote_when, which
+    asked for a replication and for flat near-spherical nulls, moves
+    unchanged to QUESTION-tmpq3pd7 and is removed.
 tags:
 - neuroscience
 - natural-sciences
@@ -35,7 +39,7 @@ extended_by:
 ---
 
 
-# THEORY-191: In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball
+# THEORY-191: In four natural odour sources (strawberry, tomato, blueberry and mouse-urine volatiles), the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of any uniform Euclidean cube tried, and human odour-descriptor profiles for 127 odorants have that of a full three-dimensional hyperbolic ball
 
 ## Source
 
@@ -85,6 +89,8 @@ the shuffles and high-dimensional hyperbolic balls.
 - **Not that the perceptual and stimulus spaces are the same space.** They
   share a dimension and a curvature sign, but with different radii and a
   shell against a full ball, and no mapping between them is fitted.
-- **Not general.** Four odour sources, one perceptual dataset. Nothing
+- **Not general.** Four odour sources, one perceptual dataset; the title
+  names them. Whether the match replicates, and whether it survives flat
+  near-spherical nulls, is [QUESTION-tmpq3pd7](../questions.d/QUESTION-tmpq3pd7.md). Nothing
   here says other sensory or conceptual spaces are hyperbolic, or that a
   co-occurrence embedding of words would be.
