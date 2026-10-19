@@ -14,7 +14,7 @@ history:
     002, ADR-047). The coincidence of the two criteria on consistently
     connected systems, which NOTE-600 states as the reader's inference and
     which was the second disjunct of the defeat condition, is now
-    CLAIM-tmpkve75, demonstrated and Active, with a proof. This claim rests
+    CLAIM-374, demonstrated and Active, with a proof. This claim rests
     on it and keeps the methodological thesis, that formal contextuality
     "needs Contextuality-by-Default when marginals shift with context".
     LIT-843's causal-past route contests that "needs", so the warrant is
@@ -35,7 +35,7 @@ line:
 works:
 - what-survives-translation
 rests_on:
-- CLAIM-tmpkve75
+- CLAIM-374
 grounds:
 - THEORY-012
 - LIT-016
@@ -112,7 +112,7 @@ Two THEORYs now ground this claim:
 ## Note of 2026-10-19: split under [ADR-043](../decisions.d/ADR-043.md)
 
 That the two criteria coincide on consistently connected systems is now
-[CLAIM-tmpkve75](CLAIM-tmpkve75.md). It is proved there, for connections of any size, and it is
+[CLAIM-374](CLAIM-374.md). It is proved there, for connections of any size, and it is
 Active. The defeat condition's second disjunct, a consistently connected
 system on which they disagree, now belongs to that claim, so it is removed
 here. This claim keeps the thesis about systems whose marginals shift. It is

@@ -38,7 +38,7 @@ history:
   note: >-
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-017.yaml, batch 005, ADR-047),
-    the mathematical core is filed apart as THEORY-tmpa07hh, Active: unitary
+    the mathematical core is filed apart as THEORY-721, Active: unitary
     transitivity on bases and factorisations, the basis–Frobenius
     correspondence over ℂ (LIT-274, LIT-275), and the real-scalar
     counterexample. This THEORY extends it and keeps the synthesis: the
@@ -62,7 +62,7 @@ source:
 - LIT-275
 extends:
 - THEORY-004
-- THEORY-tmpa07hh
+- THEORY-721
 summary: >-
   Carroll (2021), [LIT-123](../literature.d/LIT-123.md): a quantum theory is fixed up to unitary
   equivalence by the Hamiltonian's spectrum, and subsystems come from a
@@ -202,7 +202,7 @@ document's inferences, not claims in the sources.**
 ## Note of 2026-10-19: the core filed apart
 
 The mathematics in "The mathematical core is elementary" and in the
-real-scalar caveat is now [THEORY-tmpa07hh](THEORY-tmpa07hh.md), Active, with the counterexample
+real-scalar caveat is now [THEORY-721](THEORY-721.md), Active, with the counterexample
 written out. What keeps this THEORY Proposed is its synthesis: whether, in
 each placement in the table, the invariance or dependence was measured or
 proved in the source rather than inferred by the reader. [LIT-273](../literature.d/LIT-273.md)'s

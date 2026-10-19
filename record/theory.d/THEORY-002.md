@@ -20,7 +20,7 @@ promote_when: >-
   has not decided that a Bures-type quantity on those coordinates counts;
   and the identity is the reader's, not a proved statement of the source.
 title: 'Convergence of representations, in the Platonic hypothesis''s sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-05'
@@ -59,6 +59,18 @@ history:
     metric. The Source section cites it beside ANTH-LIT-458. The
     measured half of the hypothesis is filed separately as
     THEORY-640. The claim is unchanged.
+- version: 6
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-002.yaml, batch 009, ADR-047),
+    the proved results are filed apart as THEORY-723, Active. These
+    are what the softmax distribution fixes (Thm 2.2) and how closeness
+    depends on the distance (Thm 3.1, Cor. 3.2, Thm 4.7), for the final
+    layer, all read in full in NOTE-738. This THEORY extends it and keeps
+    the Platonic-hypothesis reading, which NOTE-738 calls the record's
+    inference. The promote_when bears on that reading and is unchanged, and
+    the status stays Proposed.
 tags:
 - representation-learning
 - philosophy-of-science
@@ -74,6 +86,8 @@ summary: >-
   cannot mean.
 presupposes:
 - THEORY-004
+extends:
+- THEORY-723
 supports:
 - CLAIM-193
 - CLAIM-269
@@ -108,3 +122,14 @@ Read together: the defensible formal content of "representations converge" is th
   that as the premise that lets convergence of kernels count as
   convergence of representations up to rotation, and asks what the
   Platonic hypothesis can then mean.
+
+## Note of 2026-10-19: the proved results filed apart
+
+The results of Nielsen et al. this account draws on are now [THEORY-723](THEORY-723.md),
+Active. They cover what the softmax output distribution fixes and how
+closeness in distribution depends on the distance, for the final embedding
+and unembedding. Their proofs were read in full ([NOTE-738](../notes.d/NOTE-738.md)). What keeps this
+THEORY Proposed is its own step: that convergence in the Platonic
+hypothesis's sense is convergence of kernels, reaching the hypothesis's
+pooled hidden-state kernels by analogy. The promote_when says what would
+settle it.

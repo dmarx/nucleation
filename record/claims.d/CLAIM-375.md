@@ -1,5 +1,8 @@
 ---
+number: 375
 status: Active
+formerly:
+- CLAIM-tmpso62d
 title: 'Under one-hop allocation within an epoch, an operator that endorses an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the endorsement scheme hold together'
 version: 1
 history:
@@ -45,7 +48,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-285 — Proposed; the incentive thesis this construction was split from and that rests on it, cited as open -->
 
-# CLAIM-tmpso62d: Under one-hop allocation within an epoch, an operator that endorses an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the endorsement scheme hold together
+# CLAIM-375: Under one-hop allocation within an epoch, an operator that endorses an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the endorsement scheme hold together
 
 ## The claim
 

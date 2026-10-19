@@ -21,7 +21,7 @@ history:
     2026-10-19 below gives them. "Equivalent" now carries "up to null sets",
     which a merely measurable bijection needs. The clause on truncation and
     near-isometries, which the THEORY already disclaimed, moves unchanged to
-    QUESTION-tmp3bfqc, and the promote_when is removed.
+    QUESTION-138, and the promote_when is removed.
 tags:
 - mathematics
 date: '2026-10-14'
@@ -79,7 +79,7 @@ why the paper uses an unweighted Laplacian where it helps compactness.
   eigenfunctions survives a near-isometry is cited to Kato (1995), with a
   gap between the nth and (n + 1)st eigenvalues; it is not shown. When the
   truncated block of an exact or near isometry stays orthogonal is
-  [QUESTION-tmp3bfqc](../questions.d/QUESTION-tmp3bfqc.md).
+  [QUESTION-138](../questions.d/QUESTION-138.md).
 - **Not which matrices come from point maps.** The paper calls that "a
   difficult open problem" (§5.5).
 - **Not that near-isometries are nearly diagonal in general.** The 94%
@@ -124,4 +124,4 @@ with T_F(f) = f∘T⁻¹:
 For an exact isometry the truncation question is easy when n ends at a
 spectral gap. C is block-diagonal by eigenspace, so its leading n × n block
 is a direct sum of orthogonal blocks. The open part is the near-isometric
-case, which is [QUESTION-tmp3bfqc](../questions.d/QUESTION-tmp3bfqc.md).
+case, which is [QUESTION-138](../questions.d/QUESTION-138.md).

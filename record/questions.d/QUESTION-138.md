@@ -1,5 +1,8 @@
 ---
+number: 138
 status: Open
+formerly:
+- QUESTION-tmp3bfqc
 title: 'When does the truncated n × n matrix of a functional map stay nearly orthogonal and nearly block-diagonal by eigenspace under a near-isometry, and how does the bound depend on the spectral gap at n?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   is the near-isometric case, which [LIT-993](../literature.d/LIT-993.md) cites to Kato and does not show.
 ---
 
-# QUESTION-tmp3bfqc: When does the truncated n × n matrix of a functional map stay nearly orthogonal and nearly block-diagonal by eigenspace under a near-isometry, and how does the bound depend on the spectral gap at n?
+# QUESTION-138: When does the truncated n × n matrix of a functional map stay nearly orthogonal and nearly block-diagonal by eigenspace under a near-isometry, and how does the bound depend on the spectral gap at n?
 
 ## Why it is a question
 

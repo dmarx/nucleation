@@ -6,8 +6,8 @@
 
 **Game theory** — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
 
-0 of 371 CLAIM documents. Back to the [full index](../README.md).
+1 of 378 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-375](../../../record/claims.d/CLAIM-375.md) | Under one-hop allocation within an epoch, an operator that endorses an ally whose policy is nearer its own than the collective decision is raises how far its preferred policy is realized while its own authority stays fixed, so the two conditions of the endorsement scheme hold together | The demonstrated core of [CLAIM-285](../../../record/claims.d/CLAIM-285.md). Under A3's one-hop rule I_j = I_j⁰ + Σ_(k≠j) b_k E_kj, with budgets and baselines fixed within an epoch ([CLAIM-282](../../../record/claims.d/CLAIM-282.md)), an operator's authority does not respond to its own endorsements. If the collective decision is the authority-weighted mean of the operators' policies, then endorsing an ally whose policy is nearer one's own than the decision is moves the decision strictly toward one's policy. So the reward for realized policy, and not for held authority, pays for delegating. It does not say operators behave so, or that any rule beyond one hop keeps both conditions. | Active |

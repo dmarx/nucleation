@@ -1,5 +1,8 @@
 ---
+number: 724
 status: Active
+formerly:
+- THEORY-tmp8dvpa
 title: 'For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching'
 version: 1
 history:
@@ -15,7 +18,7 @@ history:
     numerics. This THEORY holds the deterministic half. Necessity is stated
     with the uniform condition α(t) ≤ −c < 0, which the bound needs. The
     stable-at-every-instant case, which the paper asserts without showing,
-    is CLAIM-tmp007ve, the record's own construction. THEORY-325 keeps
+    is CLAIM-376, the record's own construction. THEORY-325 keeps
     the stochastic half and extends this one.
 tags:
 - mathematics
@@ -37,7 +40,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-325 — Proposed; the stochastic account this half was split from and that extends it, cited as open -->
 
-# THEORY-tmp8dvpa: For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching
+# THEORY-724: For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching
 
 ## Source
 
@@ -75,7 +78,7 @@ line. The examples could have come out stable, and did not.
 
 - **That the paper shows the stable-at-every-instant case.** It shows
   neutral cases and states that damping preserves the effect without
-  showing it. The record closes that case in [CLAIM-tmp007ve](../claims.d/CLAIM-tmp007ve.md).
+  showing it. The record closes that case in [CLAIM-376](../claims.d/CLAIM-376.md).
 - **That any time variation destabilizes.** The exponent vanishes as the
   switching interval goes to zero. Variation much faster than the transient
   growth averages out.

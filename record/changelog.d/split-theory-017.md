@@ -1,6 +1,6 @@
 ### Added
 
-- [THEORY-tmpa07hh](record/theory.d/THEORY-tmpa07hh.md), Active: no basis or tensor factorisation of a
+- [THEORY-721](record/theory.d/THEORY-721.md), Active: no basis or tensor factorisation of a
   finite-dimensional Hilbert space is distinguished by the space alone,
   and over ℂ, but not over ℝ, orthonormal bases are exactly the
   commutative special †-Frobenius algebras. Split from [THEORY-017](record/theory.d/THEORY-017.md) under

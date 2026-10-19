@@ -1,5 +1,8 @@
 ---
+number: 378
 status: Active
+formerly:
+- CLAIM-tmp67453
 title: 'A representational similarity index invariant to every invertible linear map depends on a representation only through its column space, so it takes one value on all column-centred representations of rank n − 1, as it does on all representations of rank n'
 version: 1
 history:
@@ -36,7 +39,7 @@ summary: >-
   them apart either.
 ---
 
-# CLAIM-tmp67453: A representational similarity index invariant to every invertible linear map depends on a representation only through its column space, so it takes one value on all column-centred representations of rank n − 1, as it does on all representations of rank n
+# CLAIM-378: A representational similarity index invariant to every invertible linear map depends on a representation only through its column space, so it takes one value on all column-centred representations of rank n − 1, as it does on all representations of rank n
 
 ## The claim
 
