@@ -3258,6 +3258,6 @@ history:
   note: 'Batch 043 integrated: 5 of 5 found a promotion path; carried_out_in #243, #244'
 - version: 132
   date: '2026-10-19'
-  note: 'Round 042-046 closed: 20 promotions, 1 split, 3 corrections (incl. a new demonstrated CLAIM)
-    in 25 reviews; hand-off updated.'
+  note: 'Round 042-046 closed: 17 promotions, 1 split, 1 new demonstrated CLAIM, 2 corrections in 24 reviews;
+    hand-off updated.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
