@@ -1,22 +1,10 @@
 ---
 number: 231
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpecylf
-promote_when: >-
-  A full reading of LIT-945 that checks Propositions VI.6 and VIII.3 and
-  the chain of Eq. 215, the definitions of Leibnizianity and of the
-  rehabilitated noncontextuality they rest on (§§II–IV), and the
-  prepare-measure realizability claim of §VIII.C, which the text states
-  without a derivation. The account is refuted, in its comparison of the
-  two no-goes, by a prepare-measure scenario whose classical realist
-  distributions are constrained beyond the independence of the
-  measurement setting from the preparation's setting and outcome. What
-  cannot settle it: a proof of Conjecture 1′, which would strengthen the
-  account, not test the part filed; or further restatements of the
-  implication by the same authors.
 title: 'Within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations, not realist representations as such; it rests on a stronger assumption than a Bell-like no-go and so applies where none exists, as in prepare-measure scenarios, but only Leibnizianity implying noncontextuality is proved'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -26,6 +14,17 @@ history:
     preparation contextuality; it shows only that a prepare-measure
     scenario has no Bell-like test. Reworded to "two binary judgements
     never made together", after LIT-980's witness.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Promoted under ADR-047 v2, carrying out the promotion audit's batch
+    026 decision for THEORY-231. The promote_when asked for a full reading
+    of LIT-945. The dated note below re-derives each step instead, from
+    the definitions as stated in the sections NOTE-737 read closely: the
+    chain of Eq. 215's first arrow, the consequence that a
+    noncontextuality no-go leaves classical realism standing, and the
+    prepare-measure realizability claim, which the text states without
+    derivation. The converse, Conjecture 1′, is still not claimed.
 tags:
 - contextuality
 - quantum-foundations
@@ -162,3 +161,44 @@ unquotiented description in which equivalent procedures stay distinct.
   quasiprobability representation does. A restatement, not an independent
   proof; nothing here extends that account.
 - **[QUESTION-001](../questions.d/QUESTION-001.md).** Bears through [QUESTION-067](../questions.d/QUESTION-067.md), which refines it.
+
+## Note of 2026-10-19: the chain re-derived
+
+From the promotion audit (batch 026, [ADR-047](../decisions.d/ADR-047.md) v2). The definitions are as
+stated above from §§V, VI and VIII. The construction of the theories in
+§§II–IV was not read.
+
+- **(D1)** Inferential equivalence ∼ is a congruence, preserved by
+  composition. So quotienting by it is a composition-preserving map q.
+- **(D2)** A classical realist representation ξ is Leibnizian when
+  P ∼ P′ implies ξ(P) ∼ ξ(P′).
+- **(D3)** ζ into the quotiented realist theory is
+  generalized-noncontextual when P ∼ P′ implies ζ(P) = ζ(P′).
+- **(D4)** A Bell-like no-go for a causal structure denies every classical
+  realist representation consistent with it.
+
+1. **Leibnizian implies noncontextual.** Take ζ = q ∘ ξ. It preserves
+   composition. If P ∼ P′, then ξ(P) ∼ ξ(P′), so q(ξ(P)) = q(ξ(P′)).
+   Hence every noncontextuality no-go is a no-go for Leibnizian
+   representations. The converse would need every noncontextual ζ to
+   factor through a Leibnizian ξ. That is Conjecture 1′, and it is not
+   shown.
+2. **Realism survives.** Suppose an experiment admits a noncontextuality
+   no-go and no Bell-like one. Then some classical realist ξ consistent
+   with its causal structure exists, and by step 1 it is not Leibnizian.
+3. **No Bell-like no-go in prepare-measure.** Take preparation setting X
+   and outcome A, a system Λ, an exogenous measurement setting Y and
+   outcome B.
+   - Y is exogenous, so p(x, a, y) = p(x, a) p(y) is necessary.
+   - It is also sufficient. Send Λ = (x, a), with a drawn from p(a | x),
+     and draw b from p(b | x, a, y). The joint is then exactly p.
+   - No statistics violate this constraint, so no Bell-like no-go exists.
+   - Preparation-noncontextuality no-goes do exist there, for a single
+     system ([LIT-266](../literature.d/LIT-266.md), [NOTE-748](../notes.d/NOTE-748.md)).
+4. **The stronger assumption.** A noncontextuality no-go rules out only
+   Leibnizian-or-noncontextual representations, a smaller class than every
+   classical realist representation consistent with the causal structure.
+   So it assumes more, and reaches where a Bell-like no-go cannot.
+
+If §§II–IV define ∼ so that it is not a congruence, step 1 fails. The
+THEORY's account of §V gives no sign of that.
