@@ -66,6 +66,7 @@ extends:
 supports:
 - CLAIM-193
 - CLAIM-269
+- CLAIM-tmp861ar
 ---
 <!-- inactive-ok-file: THEORY-301 — Proposed; the account of Prop. 3 filed from LIT-257, named and not leaned on -->
 

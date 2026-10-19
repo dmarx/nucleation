@@ -41,6 +41,8 @@ presupposes:
 - THEORY-004
 extended_by:
 - THEORY-002
+supports:
+- CLAIM-tmp861ar
 ---
 <!-- inactive-ok-file: THEORY-002 — Proposed; the Platonic-hypothesis reading this core was split from and that extends it, cited as open -->
 
