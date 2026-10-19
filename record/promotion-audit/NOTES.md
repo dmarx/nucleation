@@ -1241,3 +1241,19 @@ history note. THEORY-277 is requeued on this basis.
   change to its promote_when, premises or rival.
 - THEORY-080: the exact half is the record's own synthesis; file it as a
   demonstrated CLAIM (ADR-032) rather than promoting the THEORY.
+
+## 2026-10-19 — batch 046 (follow-ups)
+
+- A proof written the day before can contradict its own definition.
+  CLAIM-265's steps 2 and 4 applied maps to both descriptions while the
+  definition maps one onto the other. Recheck a fresh proof against its
+  stated definitions, not only its conclusion.
+- Stochastic maps are the class that makes "every pair is compatible" true
+  on a single context (the constant kernel); deterministic maps do not.
+  Use them for a vacuous-class example.
+- A record-own result split from a THEORY can be filed Active at once when
+  its proof is self-contained (CLAIM-370, CLAIM-tmprruzz); its decision
+  file is its review.
+- THEORY-162 joins THEORY-485 and THEORY-167 as entries whose next step is
+  a reading task, not a review. Track reading tasks separately from the
+  requeue list.

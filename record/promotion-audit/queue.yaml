@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 126
+version: 127
 updated: '2026-10-19'
 record_revision: 735f6240684ada2fc488e24d376436458aca4f0d
 procedure: record/decisions.d/ADR-047.md
@@ -33,15 +33,15 @@ handoff:
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
-  reviewed: 23
-  promotion_paths: 11
+  reviewed: 25
+  promotion_paths: 13
 - wave: 2
   class: THEORYs with verified mathematical cores
   reviewed: 51
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 75
+  reviewed: 74
   promotion_paths: 48
 - wave: 4
   class: Dependency unlocks
@@ -58,24 +58,17 @@ requeue:
 - code: THEORY-167
   when: after a clean copy of the tale-by-tale analyses is read
   why: 'batch-035: narrow to the 100 tales and promote under ADR-047 v3'
-- code: CLAIM-265
-  when: 'after PR #227 merges'
-  why: 'batch-040: corrected with a proof; review in wave 1 as demonstrated'
 - code: THEORY-485
   when: after a reading task (Ney 2016/2021, Chalmers and McQueen 2022, Bikaraan-Behesht 2022) and an
     argument for P7
   why: 'batch-041: cheapest of the wave-5 arguments to move'
-- code: THEORY-080
-  when: when a CLAIM is filed for its exact half
-  why: 'batch-036: the exact Occam-factor identity is the record''s own synthesis; file it as a demonstrated
-    CLAIM (ADR-032); the spherical half stays Proposed'
 - code: THEORY-270
   when: after a dedicated re-derivation of LIT-941 App. C
   why: 'batch-038: the proofs it rests on were read only in outline; title must name the uniform, lossless
     models'
 - code: THEORY-162
-  when: when wave 5 resumes
-  why: 'batch-039: an argument about what meaning is; review as interpretive synthesis'
+  when: after a static rival account is read
+  why: 'batch-046: its promote_when needs a reading of a static rival; a reading task, not a review'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2388,14 +2381,14 @@ candidates:
   batch: batch-035
   decision: decisions/CLAIM-143.yaml
 - code: CLAIM-265
-  wave: 5
+  wave: 1
   triage: batch-040
   state: decided
-  disposition: needs-correction
-  batch: batch-040
+  disposition: promote
+  batch: batch-046
   decision: decisions/CLAIM-265.yaml
   carried_out_in:
-  - '#227'
+  - '#237'
 - code: THEORY-290
   wave: 3
   triage: batch-041
@@ -2410,8 +2403,10 @@ candidates:
   triage: batch-036
   state: decided
   disposition: needs-correction
-  batch: batch-036
+  batch: batch-046
   decision: decisions/THEORY-080.yaml
+  carried_out_in:
+  - '#237'
 - code: THEORY-263
   wave: 3
   triage: batch-036
@@ -2535,11 +2530,11 @@ candidates:
   carried_out_in:
   - '#230'
 - code: THEORY-162
-  wave: 3
+  wave: 5
   triage: batch-039
   state: decided
   disposition: retain-proposed
-  batch: batch-039
+  batch: batch-046
   decision: decisions/THEORY-162.yaml
 - code: THEORY-205
   wave: 3
@@ -2575,6 +2570,15 @@ candidates:
   disposition: retain-proposed
   batch: batch-039
   decision: decisions/THEORY-578.yaml
+- code: CLAIM-tmprruzz
+  wave: 1
+  triage: batch-046
+  state: decided
+  disposition: promote
+  batch: batch-046
+  decision: decisions/CLAIM-tmprruzz.yaml
+  carried_out_in:
+  - '#237'
 history:
 - version: 1
   date: '2026-10-19'
@@ -3052,4 +3056,9 @@ history:
   date: '2026-10-19'
   note: '#228-#235 merged; directive-line conflicts resolved by merging main into the later PR of each
     pair.'
+- version: 127
+  date: '2026-10-19'
+  note: 'Batch 046 integrated: 2 promotion paths (CLAIM-265, and the new CLAIM-tmprruzz filed Active),
+    1 correction carried out (THEORY-080), 1 retained (THEORY-162); carried_out_in #237; #227 merged before
+    it; requeue updated'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
