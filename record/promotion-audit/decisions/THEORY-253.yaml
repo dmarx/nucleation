@@ -1,0 +1,49 @@
+# record/promotion-audit/decisions/THEORY-253.yaml
+id: THEORY-253
+batch: batch-045
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3: one study, Liu, Liu, Michaud, Gore and Tegmark (2025), read
+    in full in NOTE-794, whose text states the results it rests on: under
+    SGD task 2's time grows "roughly ∼ 1/p₂"; under SignGD t₂/t₁ saturates
+    at 2; on the rotated quadratic SignGD learns all four directions
+    together when R = I and in sequence when R = H₄, while SGD is the same
+    for both. The gradient-descent half also follows analytically: with
+    orthonormal task vectors the loss decouples and each skill evolves at a
+    rate set by its weight p_i.
+
+    Reproduced here (full batch, deterministic, n_dim = 1000, squared loss,
+    threshold s ≥ 0.9): GD times scale with 1/p₂; SignGD t₂/t₁ = 1.00,
+    1.48, 1.76, 1.88, 2.02 at p₁ = 0.5, 0.8, 0.9, 0.95, 0.99. On the
+    quadratic x₁² + 0.1x₂² + 0.01x₃² + 0.001x₄², SignGD halves all four
+    coordinates at the same step for R = I and at steps 250, 729, 1171,
+    1730 for R = H₄; GD is identical under both.
+  excluded: >-
+    "Sequential onset of acquisition comes from the optimizer" as a general
+    cause: in this model it needs both sign descent and loss eigendirections
+    misaligned with the coordinates (the quadratic), and the many-task
+    Domino form holds "only for large α and the first few skills". The
+    Resource and Domino models are fitted, not derived. Real networks,
+    Adam's place between the two, and dependency-driven sequence stay out.
+evidence:
+  - "LIT-951, §§2.2–2.6 and 4.1, Figs. 4, 5, 7 and 12, read in full in NOTE-794 (results as the text states them)."
+  - "This review's reproduction of the two-task and rotated-quadratic results (scope.accepted)."
+blockers: []
+notes: >-
+  Sorted as a measurement, not re-derived: the sign-descent result is a
+  simulation, and the promote_when's request for an analysis of sign
+  descent on a rotated quadratic (deriving t₂/t₁ → 2) and for a trained
+  network moves to a new QUESTION, as ADR-047 v3 directs. Triage-006 scored
+  it 2 (relation, derived); it is not formal in fact.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the Geometry model's measured result, naming
+  the misalignment condition and the ratio, and add the reproduction as a
+  dated note. Move the promote_when to a new QUESTION refining QUESTION-039.

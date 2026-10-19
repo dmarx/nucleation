@@ -1,0 +1,54 @@
+# record/promotion-audit/decisions/THEORY-294.yaml
+id: THEORY-294
+batch: batch-045
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived here (ADR-047 v2) for Kothapalli and Tirer's Theorem 5.1
+    setting: a two-layer ReLU network in the infinite-width limit, zero
+    bias, one-dimensional inputs, two classes with every cross-class
+    product x·x′ negative.
+
+    (1) Both kernels are homogeneous. For scalar inputs and w ~ N(0, σ_w²),
+    relu(wx)·relu(wx′) is zero whenever x and x′ have opposite signs, and
+    equals w²xx′·1{wx > 0} when they share one, so the NNGP post-activation
+    kernel is c₁·xx′ within a class and 0 across. The weight-gradient term
+    of the NTK is E[a²]·E[1{wx > 0}1{wx′ > 0}]·xx′, which is likewise
+    c₂·xx′ within a class and 0 across. So K_NTK = κ·K_GP entrywise for a
+    constant κ > 0 (κ = σ_w² + 1 in the paper's parametrisation, Eqs. 54
+    and 56).
+
+    (2) NC1 is scale-free. By Theorem 4.1, tr Σ_W and tr Σ_B of kernel
+    features are linear functionals of the kernel matrix, so
+    NC1 = tr Σ_W / tr Σ_B is unchanged when the kernel is multiplied by κ.
+    Hence NC1 of the NTK features equals NC1 of the NNGP features for every
+    such sample, not only in expectation; Eq. 57's closed form follows,
+    with its correction for samples where a cross-class product is not
+    negative.
+  excluded: >-
+    "Lazy-regime training of a wide shallow network does not collapse its
+    features" in general, and "on two-class Gaussian data": beyond one
+    dimension the two kernels are not proportional, and the paper's
+    simulations (d₀ up to 128) show the NTK's NC1 no lower than the NNGP's,
+    higher for ReLU, which is not equality. Nonzero bias, more classes,
+    finite width and real data stay out.
+evidence:
+  - "LIT-985, Theorems 4.1 and 5.1 with Appendix D (Eqs. 49–57), read in NOTE-774."
+  - "This review's re-derivation (scope.accepted 1–2)."
+blockers: []
+notes: >-
+  The promote_when asks for a result beyond the one-dimensional case. The
+  narrowed title states exactly the proved case, so that request moves to a
+  new QUESTION refining QUESTION-051, as for THEORY-266. Triage-006 scored
+  it 2 (cites, relation); it is formal in fact.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the one-dimensional, zero-bias, two-class
+  theorem, keep the Gaussian-mixture simulations in the body as measured
+  only, and move the promote_when to a new QUESTION.

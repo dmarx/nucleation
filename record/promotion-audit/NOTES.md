@@ -1276,3 +1276,22 @@ history note. THEORY-277 is requeued on this basis.
 - THEORY-019 joins THEORY-080: two derived results filed as THEORYs that
   the record assembled itself. Both corrections can go in one PR filing
   two demonstrated CLAIMs.
+
+## 2026-10-19 — batch 045 (wave 3, triage-006 score-2 band)
+
+- The score-2 band went 5 of 5 under the batch 020 sort (8 of 10 with
+  batch 039). Queue the remaining 44 score-2 entries for wave 3 in batches
+  of five; do not re-derive by default, sort by title.
+- "Least total X over models" versus "sum of least X per part": the two
+  agree only when one model reaches every part's minimum at once. In
+  Contextuality-by-Default that is noncontextuality (THEORY-177). Check
+  any title that sums per-part minima.
+- When a title says a quantity "equals" another over a protocol, check
+  whether the source's identity is per step and the protocol result a
+  bound (THEORY-026).
+- When a kernel result holds because two kernels are proportional, the
+  proportionality is the theorem; state its setting (THEORY-294: one-
+  dimensional, zero bias, classes split by the origin).
+- A cheap simulation can stand beside an ADR-047 v3 promotion:
+  THEORY-253's two-task and rotated-quadratic results reproduced in
+  seconds.

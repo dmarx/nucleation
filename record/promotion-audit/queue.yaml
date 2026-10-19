@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 128
+version: 129
 updated: '2026-10-19'
 record_revision: 735f6240684ada2fc488e24d376436458aca4f0d
 procedure: record/decisions.d/ADR-047.md
@@ -41,8 +41,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 79
-  promotion_paths: 51
+  reviewed: 84
+  promotion_paths: 56
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -2627,6 +2627,51 @@ candidates:
   disposition: needs-correction
   batch: batch-042
   decision: decisions/THEORY-019.yaml
+- code: THEORY-026
+  wave: 3
+  triage: batch-045
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-045
+  decision: decisions/THEORY-026.yaml
+  carried_out_in:
+  - '#238'
+- code: THEORY-177
+  wave: 3
+  triage: batch-045
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-045
+  decision: decisions/THEORY-177.yaml
+  carried_out_in:
+  - '#238'
+- code: THEORY-253
+  wave: 3
+  triage: batch-045
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-045
+  decision: decisions/THEORY-253.yaml
+  carried_out_in:
+  - '#241'
+- code: THEORY-294
+  wave: 3
+  triage: batch-045
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-045
+  decision: decisions/THEORY-294.yaml
+  carried_out_in:
+  - '#238'
+- code: THEORY-382
+  wave: 3
+  triage: batch-045
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-045
+  decision: decisions/THEORY-382.yaml
+  carried_out_in:
+  - '#241'
 history:
 - version: 1
   date: '2026-10-19'
@@ -3113,4 +3158,9 @@ history:
   date: '2026-10-19'
   note: 'Batch 042 integrated: 3 of 5 found a promotion path; THEORY-019 needs re-filing as a CLAIM; THEORY-344
     waits on the owner''s report-title ruling; carried_out_in #239; THEORY-019 and THEORY-344 requeued'
+- version: 129
+  date: '2026-10-19'
+  note: 'Batch 045 integrated: 5 of 5 found a promotion path, all narrowed. THEORY-026, -177 and -294
+    are theorems re-derived here (ADR-047 v2). THEORY-253 and -382 are single-study measurements under
+    ADR-047 v3; THEORY-253''s was also reproduced. Carried out in two PRs.; carried_out_in #238, #241'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
