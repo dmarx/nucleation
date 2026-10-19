@@ -41,7 +41,6 @@ summary: >-
 supports:
 - CLAIM-074
 ---
-<!-- inactive-ok-file: THEORY-169 — Proposed; attention as an inner learner, cited as evidence on one side, not as settled -->
 <!-- inactive-ok-file: THEORY-481 — Proposed; the outer training of the in-context learner, cited as evidence on one side, not as settled -->
 <!-- inactive-ok-file: CLAIM-074 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

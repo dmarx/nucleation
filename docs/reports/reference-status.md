@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**511 documents cited without acknowledgement.** Not listed: 10062 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**512 documents cited without acknowledgement.** Not listed: 10039 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -997,6 +997,27 @@ The frustration residual and governance regret separate structural infeasibility
 - [`record/terms.d/TERM-060.md:75`](../../record/terms.d/TERM-060.md)
 - [`record/terms.d/TERM-060.md:161`](../../record/terms.d/TERM-060.md)
 
+### [NOTE-737](../../record/notes.d/NOTE-737.md) — Skimmed
+
+Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inference
+
+14 citations in 5 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-945.md:6`](../../record/literature.d/LIT-945.md)
+- [`record/literature.d/LIT-945.md:21`](../../record/literature.d/LIT-945.md)
+- [`record/literature.d/LIT-945.md:63`](../../record/literature.d/LIT-945.md)
+- [`record/literature.d/LIT-945.md:97`](../../record/literature.d/LIT-945.md)
+- [`record/questions.d/QUESTION-067.md:13`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:88`](../../record/questions.d/QUESTION-067.md)
+- [`record/theory.d/THEORY-011.md:22`](../../record/theory.d/THEORY-011.md)
+- [`record/theory.d/THEORY-011.md:63`](../../record/theory.d/THEORY-011.md)
+- [`record/theory.d/THEORY-016.md:12`](../../record/theory.d/THEORY-016.md)
+- [`record/theory.d/THEORY-016.md:21`](../../record/theory.d/THEORY-016.md)
+- [`record/theory.d/THEORY-016.md:49`](../../record/theory.d/THEORY-016.md)
+- [`record/theory.d/THEORY-231.md:23`](../../record/theory.d/THEORY-231.md)
+- [`record/theory.d/THEORY-231.md:38`](../../record/theory.d/THEORY-231.md)
+- [`record/theory.d/THEORY-231.md:55`](../../record/theory.d/THEORY-231.md)
+
 ### [THEORY-002](../../record/theory.d/THEORY-002.md) — Proposed
 
 Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
@@ -1037,26 +1058,6 @@ When an operator's authority is updated by how well it performs on the interpret
 - [`record/questions.d/QUESTION-117.md:93`](../../record/questions.d/QUESTION-117.md)
 - [`record/questions.d/QUESTION-124.md:60`](../../record/questions.d/QUESTION-124.md)
 - [`record/questions.d/QUESTION-126.md:58`](../../record/questions.d/QUESTION-126.md)
-
-### [NOTE-737](../../record/notes.d/NOTE-737.md) — Skimmed
-
-Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inference
-
-13 citations in 5 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-945.md:6`](../../record/literature.d/LIT-945.md)
-- [`record/literature.d/LIT-945.md:21`](../../record/literature.d/LIT-945.md)
-- [`record/literature.d/LIT-945.md:64`](../../record/literature.d/LIT-945.md)
-- [`record/literature.d/LIT-945.md:98`](../../record/literature.d/LIT-945.md)
-- [`record/questions.d/QUESTION-067.md:13`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:88`](../../record/questions.d/QUESTION-067.md)
-- [`record/theory.d/THEORY-011.md:22`](../../record/theory.d/THEORY-011.md)
-- [`record/theory.d/THEORY-011.md:64`](../../record/theory.d/THEORY-011.md)
-- [`record/theory.d/THEORY-016.md:12`](../../record/theory.d/THEORY-016.md)
-- [`record/theory.d/THEORY-016.md:21`](../../record/theory.d/THEORY-016.md)
-- [`record/theory.d/THEORY-016.md:49`](../../record/theory.d/THEORY-016.md)
-- [`record/theory.d/THEORY-231.md:39`](../../record/theory.d/THEORY-231.md)
-- [`record/theory.d/THEORY-231.md:56`](../../record/theory.d/THEORY-231.md)
 
 ### [NOTE-829](../../record/notes.d/NOTE-829.md) — Skimmed
 
@@ -2158,8 +2159,8 @@ Across load and temperature, the connectivity and output similarity of independe
 - [`record/notes.d/NOTE-714.md:129`](../../record/notes.d/NOTE-714.md)
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:53`](../../record/questions.d/QUESTION-069.md)
-- [`record/theory.d/THEORY-109.md:162`](../../record/theory.d/THEORY-109.md)
-- [`record/theory.d/THEORY-109.md:166`](../../record/theory.d/THEORY-109.md)
+- [`record/theory.d/THEORY-109.md:175`](../../record/theory.d/THEORY-109.md)
+- [`record/theory.d/THEORY-109.md:179`](../../record/theory.d/THEORY-109.md)
 
 ### [THEORY-137](../../record/theory.d/THEORY-137.md) — Proposed
 
@@ -2196,8 +2197,8 @@ In a deep linear network trained by gradient descent, depth slows learning throu
 - [`record/literature.d/LIT-984.md:89`](../../record/literature.d/LIT-984.md)
 - [`record/notes.d/NOTE-715.md:110`](../../record/notes.d/NOTE-715.md)
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:51`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:55`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:52`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:56`](../../record/questions.d/QUESTION-039.md)
 - [`record/questions.d/QUESTION-081.md:66`](../../record/questions.d/QUESTION-081.md)
 
 ### [THEORY-220](../../record/theory.d/THEORY-220.md) — Proposed
@@ -2267,7 +2268,7 @@ A communicative object is a context-indexed system of empirical constraints over
 
 Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift
 
-5 citations in 2 files await a look; 29 other citations of it are acknowledged.
+5 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:14`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:48`](../../record/decisions.d/ADR-040.md)
@@ -2567,7 +2568,7 @@ How much cognitive control to exert, and on what, is decided by a cost-benefit c
 
 The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
 
-5 citations in 3 files await a look; 8 other citations of it are acknowledged.
+5 citations in 3 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
@@ -2598,6 +2599,18 @@ Dynamical independence, zero information flow from the microscopic history into 
 - [`record/questions.d/QUESTION-115.md:52`](../../record/questions.d/QUESTION-115.md)
 - [`record/theory.d/THEORY-703.md:82`](../../record/theory.d/THEORY-703.md)
 - [`record/theory.d/THEORY-707.md:85`](../../record/theory.d/THEORY-707.md)
+
+### [THEORY-614](../../record/theory.d/THEORY-614.md) — Proposed
+
+If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown
+
+5 citations in 1 file await a look.
+
+- [`record/questions.d/QUESTION-161.md:14`](../../record/questions.d/QUESTION-161.md)
+- [`record/questions.d/QUESTION-161.md:15`](../../record/questions.d/QUESTION-161.md)
+- [`record/questions.d/QUESTION-161.md:26`](../../record/questions.d/QUESTION-161.md)
+- [`record/questions.d/QUESTION-161.md:35`](../../record/questions.d/QUESTION-161.md)
+- [`record/questions.d/QUESTION-161.md:43`](../../record/questions.d/QUESTION-161.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
@@ -2839,7 +2852,7 @@ The later phases reported in neural-network training differ in kind: after the t
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:54`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:55`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-043](../../record/theory.d/THEORY-043.md) — Proposed
 
@@ -4674,7 +4687,7 @@ On sparse hierarchical data, deep networks become insensitive to swapping synony
 2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:52`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:53`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-204](../../record/theory.d/THEORY-204.md) — Proposed
 
@@ -4683,7 +4696,7 @@ In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), w
 2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:53`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:54`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-205](../../record/theory.d/THEORY-205.md) — Proposed
 
@@ -6054,7 +6067,7 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
-- record/theory.d/THEORY-009.md:98: annotation no longer applies — QUESTION-141 is Active now
+- record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
 - record/theory.d/THEORY-255.md:44: annotation no longer applies — nothing in scope cites LIT-316
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now

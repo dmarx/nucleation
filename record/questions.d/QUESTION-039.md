@@ -32,9 +32,10 @@ summary: >-
   body gives each one's limit.
 refined_by:
 - QUESTION-081
+- QUESTION-158
 - QUESTION-tmpzeamh
 ---
-<!-- inactive-ok-file: THEORY-229 THEORY-279 THEORY-253 THEORY-283 THEORY-293 — Proposed; partial answers filed in the last two days, cited with their limits -->
+<!-- inactive-ok-file: THEORY-229 THEORY-279 THEORY-253 THEORY-293 — Proposed; partial answers filed in the last two days, cited with their limits -->
 
 # QUESTION-039: What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?
 

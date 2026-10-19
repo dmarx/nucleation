@@ -32,7 +32,7 @@ summary: >-
   geometry. Neither shows that no common representation exists, only that
   these methods find none; neither varies a pragmatic frame.
 ---
-<!-- inactive-ok-file: CLAIM-029 CLAIM-118 CLAIM-074 THEORY-169 THEORY-251 — Proposed; claims and theories this account bears on, open -->
+<!-- inactive-ok-file: CLAIM-029 CLAIM-118 CLAIM-074 THEORY-251 — Proposed; claims and theories this account bears on, open -->
 
 # THEORY-264: A task given by demonstrations and the same task given by an instruction are carried in a language model by mostly different attention heads, so function vectors find no common task representation across the two presentations
 

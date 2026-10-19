@@ -1,20 +1,19 @@
 ---
 number: 314
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpiw6t1
-promote_when: >-
-  An independent statement and proof of the same result over the full
-  completed RKHS H_k rather than the class F of countable kernel
-  expansions, with the conditions for a minimizer to exist made explicit
-  (a standard textbook proof would do). It is refuted by a cost depending
-  on f only through f(x_1), …, f(x_m) and a strictly increasing g for
-  which some minimizer has a non-zero component orthogonal to
-  span{k(·, x_i)}. What cannot settle it: further examples of algorithms
-  whose solutions happen to be kernel expansions, since the claim is a
-  theorem about all costs, not a pattern across algorithms.
 title: "Every minimizer of an arbitrary cost on the training outputs plus a strictly increasing function of the RKHS norm lies in the span of the kernel functions at the training points, by the reproducing property and orthogonal decomposition alone"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted, carrying out the promotion audit's decision for THEORY-314
+    (batch 025, ADR-047 v2). The promote_when asked for a proof over the
+    full completed RKHS with the conditions for a minimizer to exist. Both
+    are re-derived in the decision file and summarised in the note of
+    2026-10-19 below. promote_when is removed.
 tags:
 - mathematics
 - learning-theory
@@ -69,11 +68,12 @@ closes that.
 
 ## What this does not say
 
-- **Not that a minimizer exists.** The theorem characterizes minimizers;
-  existence needs conditions on c and g that the paper does not state.
-- **Not stated over the full RKHS.** The class F is countable kernel
-  expansions of finite norm (eq. 13). The paper does not show it equals
-  the completed H_k.
+- **Not that a minimizer exists in general.** The theorem characterizes
+  minimizers. The paper states no conditions for one to exist. Sufficient
+  ones are in the note of 2026-10-19 below.
+- **Not stated over the full RKHS in the paper.** The paper's class F is
+  countable kernel expansions of finite norm (eq. 13). The note of
+  2026-10-19 proves the result over the completed H_k directly.
 - **Not that the finite problem is easy.** Without convexity of c and g
   the m-dimensional problem (eq. 30) can have local minima (p. 420).
 - **Not for costs that see more than point values.** Costs on
@@ -84,6 +84,27 @@ closes that.
   proof.
 - **Not advice about which regularizer to use.** The examples recast
   existing algorithms; any recommendation belongs to the anthology.
+
+## Note of 2026-10-19: over the completed RKHS, with existence
+
+Re-derived for the promotion audit (batch 025, ADR-047 v2). The full
+steps are in the audit's decision file for THEORY-314.
+
+- **The theorem over H_k.** S = span{k(·, x_i)} is finite-dimensional,
+  hence closed. So every f in H_k splits as f_S + v with v ⊥ S. The
+  reproducing property gives f(x_j) = ⟨f, k(·, x_j)⟩ = f_S(x_j), so the
+  cost cannot see v. Pythagoras gives ‖f‖ ≥ ‖f_S‖, with equality iff
+  v = 0. A strictly increasing g then makes any f with v ≠ 0 strictly
+  worse than f_S.
+- **Existence.** A minimizer exists if c is lower semicontinuous and
+  bounded below in the outputs, g is lower semicontinuous with g(t) → ∞,
+  and the objective is finite somewhere. The infimum over H_k equals the
+  infimum over S. On S the sublevel sets are closed and bounded in
+  finite dimensions, hence compact, and an lsc function attains its
+  minimum on them.
+- **Without lower semicontinuity it can fail.** With m = 1,
+  k(x_1, x_1) = 1, g(t) = t, and c = 0 when f(x_1) > 1, 2 otherwise, the
+  infimum 1 is approached and never attained.
 
 ## Connections
 

@@ -24,7 +24,7 @@ summary: >-
 supports:
 - CLAIM-118
 ---
-<!-- inactive-ok-file: CLAIM-118 THEORY-169 — Proposed; the claim this finding bears on and the neighbouring account of attention as an inner learner, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-118 — Proposed; the claim this finding bears on and the neighbouring account of attention as an inner learner, named, not leaned on -->
 
 # THEORY-439: Given the same few demonstrations, temporarily updating a language model's weights on them and then conditioning beats conditioning alone, most on tasks with structural rules or distribution shift and most when the update is trained in the in-context format: for models of 1–8B parameters, examples used as context and the same examples used as a training signal are not interchangeable
 

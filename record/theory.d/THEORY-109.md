@@ -20,7 +20,18 @@ promote_when: >-
   More single curves between more pairs cannot settle it, since that is the
   evidence already held.
 title: 'The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Kuditipudi et al.'s Theorem 1, with Draxler et al.'s concatenation
+    bound, is split into THEORY-736, filed Active, carrying out the
+    promotion audit's decision for this entry (batch 030, ADR-047). This
+    account extends it. It stays Proposed for what the body already calls
+    extrapolated (one connected set), for whether training produces
+    dropout-stable solutions, and for Theorem 4. Its promote_when is
+    unchanged.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -41,6 +52,8 @@ summary: >-
   proved that dropout-stable solutions are always joined, and constructed
   global minima that are not, so connectivity belongs to found solutions.
   Proposed: the evidence is pairs and small complexes of CIFAR classifiers.
+extends:
+- THEORY-736
 extended_by:
 - THEORY-110
 - THEORY-112
@@ -167,3 +180,7 @@ Two things leave the tension open rather than settled:
 - Yang et al. measure one architecture family at CIFAR scale.
 
 It is not declared as `rivals`. If the barrier survives alignment, this account narrows to the regions where training reaches connected solutions. Neither account then gives a different explanation of the same phenomenon.
+
+## Note of 2026-10-19: the theorem is held Active apart
+
+Kuditipudi et al.'s Theorem 1 and Draxler et al.'s concatenation bound are now [THEORY-736](THEORY-736.md), Active: two ε-dropout-stable ReLU solutions are joined by a piecewise-linear path at most ε above the worse endpoint, and joined pairs compose at no higher barrier. That is the part of this account that was proved and read in full ([NOTE-544](../notes.d/NOTE-544.md), Appendix A). What stays here, Proposed, is what the promote_when asks about: that the solutions training finds form one set, and that they are dropout-stable or noise-stable, so that the theorem applies to them.

@@ -1,21 +1,24 @@
 ---
 number: 169
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpllqzv
-promote_when: >-
-  Both identities are checked against an independent derivation of the
-  linear-attention/fast-weight correspondence that the record reads in
-  full, such as Schlag, Irie and Schmidhuber (2021), and the scope
-  statement is tested by a case that would break it: an exact identity
-  of this kind for a further layer class (for instance a delta-rule or
-  mini-batch inner update) confirms the pattern, while a proof that some
-  standard attention layer's dependence on its context admits no
-  description as any learner's train-then-predict step would bound it.
-  Restating the two constructions, or measuring trained models' similarity
-  to gradient descent, does not count.
-title: 'In attention layers, conditioning on a context is exactly training a learner on it and predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention is kernel regression that stores the context, so conditioning and per-sequence weight updates differ in what state is kept, not in kind'
-version: 1
+title: 'For unnormalized causal linear attention and for softmax attention, conditioning on a context is exactly training a learner on it and predicting: the first is one batch gradient step of a linear inner model from zero, the second kernel regression that stores the context, and one linear self-attention layer with constructed weights carries one gradient step of in-context linear regression; for these layers conditioning and per-sequence weight updates differ in what state is kept, not in kind'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision for THEORY-169 (batch 024,
+    ADR-047). The title said "linear attention" without qualification; Sun
+    et al.'s identity holds for the unnormalized causal form, and the title
+    now says so and names von Oswald et al.'s construction. The promote_when
+    asked for a check against an independent derivation of the
+    linear-attention/fast-weight correspondence, which the record does not
+    hold; under ADR-047 v2 the three identities are re-derived in the note
+    of 2026-10-19 below. Its scope test, whether the pattern extends to
+    further layer classes, moves unchanged to QUESTION-159.
 tags:
 - representation-learning
 - learning-theory
@@ -39,7 +42,7 @@ supports:
 - CLAIM-118
 ---
 
-# THEORY-169: In attention layers, conditioning on a context is exactly training a learner on it and predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention is kernel regression that stores the context, so conditioning and per-sequence weight updates differ in what state is kept, not in kind
+# THEORY-169: For unnormalized causal linear attention and for softmax attention, conditioning on a context is exactly training a learner on it and predicting: the first is one batch gradient step of a linear inner model from zero, the second kernel regression that stores the context, and one linear self-attention layer with constructed weights carries one gradient step of in-context linear regression; for these layers conditioning and per-sequence weight updates differ in what state is kept, not in kind
 
 ## Source
 
@@ -110,3 +113,27 @@ the readings followed it.
   about a class of sequence layers. Any use of it for interpreters other
   than these (people, or language models as wholes) is an analogy that
   this account does not license.
+
+## Note of 2026-10-19: the three identities, re-derived
+
+Written out for the promotion audit (batch 024, [ADR-047](../decisions.d/ADR-047.md) v2).
+
+- **Linear attention as one gradient step.** For ℓ(W; x_s) =
+  ‖Wk_s − v_s‖² with k_s = θ_K x_s and v_s = θ_V x_s, the gradient is
+  ∇_W ℓ = 2(Wk_s − v_s)k_sᵀ. At W₀ = 0 the batch gradient over s ≤ t is
+  −2 Σ_{s≤t} v_s k_sᵀ, so one step with η = ½ gives
+  W_t = Σ_{s≤t} v_s k_sᵀ. Its prediction on q_t = θ_Q x_t is
+  W_t q_t = Σ_{s≤t} v_s (k_sᵀ q_t), the output of unnormalized causal
+  linear attention. Normalized linear attention divides by Σ_s k_sᵀ q_t,
+  which no gradient step supplies, so the identity is for the unnormalized
+  form only.
+- **Softmax attention as kernel regression.** The Nadaraya–Watson
+  estimator Σ_s κ(k_s, q) v_s / Σ_s κ(k_s, q) with κ(k, q) = exp(kᵀq) is
+  softmax attention term for term; its training step stores (k_s, v_s).
+- **A gradient step carried by the tokens.** With tokens e_j = (x_j, y_j),
+  key and query maps that read x, and a value map that reads −η·y, one
+  linear self-attention layer adds −(η/N) Σ_i y_i (x_iᵀ x_j) to the y-part
+  of token j. The gradient step on L(W) = (1/2N) Σ_i ‖W x_i − y_i‖² at
+  W₀ = 0 is ΔW = (η/N) Σ_i y_i x_iᵀ, so the layer sends y_j to
+  y_j − ΔW x_j. On a query token (x_q, 0) the read-out, sign flipped, is
+  ΔW x_q, the updated model's prediction.

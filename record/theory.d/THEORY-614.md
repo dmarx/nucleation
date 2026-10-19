@@ -4,18 +4,27 @@ status: Proposed
 formerly:
 - THEORY-tmpqkmcq
 promote_when: >-
-  Evidence about a trained language model, not about the data
-  distribution: either a demonstration that its in-context predictions
-  track the posterior predictive of an explicit latent-concept mixture
-  fitted to its pretraining data, across prompt lengths and example
-  lengths, including the order and zero-shot effects the account
-  predicts from mismatch; or a measured posterior over concepts read from
-  the network that concentrates as the theorems say. Further results
-  on synthetic data built to satisfy the assumptions, such as GINC,
-  cannot settle it, and neither can a gain of under one point on a
-  natural benchmark.
+  A reading of LIT-797's Appendices B–C, or a re-derivation, of the one
+  step the record has not checked in Theorem 1. The likelihood of the
+  prompt is summed over the hidden delimiter states, because the HMM's
+  state carries across delimiters. That sum must be bounded by the
+  product of per-example factors, times the c₁–c₄ ratios of Assumption 2.
+  With that step, the posterior-concentration argument in the note of
+  2026-10-19 closes, at least for finitely many concepts. Evidence about
+  trained networks cannot settle it, since the title disclaims that
+  clause. That question is QUESTION-161.
 title: "If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Corrected, status unchanged, carrying out the promotion audit's batch
+    026 decision for THEORY-614. The promote_when asked for evidence about
+    trained language models, the clause the title disclaims. It moves
+    unchanged to QUESTION-161. The new promote_when asks for the one
+    step of Theorem 1's proof that the record could not re-derive. The
+    partial re-derivation is in the dated note below.
 tags:
 - probabilistic-modeling
 - learning-theory
@@ -33,7 +42,6 @@ summary: >-
   condition in the title.
 ---
 
-<!-- inactive-ok-file: THEORY-169 — Proposed; the mechanistic account named as complementary, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; named for the reading it uses, not leaned on -->
 
 # THEORY-614: If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown
@@ -101,3 +109,29 @@ consequences of the model.
   fixes a posterior over a latent concept.
 - The latent-document structure is a topic model's (LDA), with no
   inference algorithm run.
+- [QUESTION-161](../questions.d/QUESTION-161.md) carries the former promotion condition, about trained
+  networks.
+
+## Note of 2026-10-19: how far Theorem 1 re-derives
+
+From the promotion audit (batch 026). Take finitely many concepts θ.
+Write log p(θ | S_n) − log p(θ* | S_n) as the log prior ratio plus a sum
+over the n prompt examples. Each example contributes its within-example
+log-likelihood ratio and boundary terms at its delimiter and start.
+
+- **The within-example term.** Under the prompt distribution, its
+  expectation is −Σ_j KL_j(θ* ‖ θ).
+- **The boundary terms.** Assumptions 2 and 5 bound them by
+  ε_delim + ε_start. They also bound every log probability, so the
+  summands are bounded and independent across examples.
+- **Concentration.** By the strong law,
+  n⁻¹ log[p(θ | S_n)/p(θ* | S_n)] has limit at most
+  −(Σ_j KL_j − ε_start − ε_delim). Condition 1 makes that negative.
+  So the posterior concentrates on θ*, and Assumption 3's Δ/4 margin
+  preserves the argmax.
+
+The step that does not close is the first: the decomposition into
+per-example terms. The hidden state carries across delimiters, so the
+likelihood is a sum over delimiter states, not a product. Bounding it by
+the per-example factors and the c₁–c₄ ratios is [LIT-797](../literature.d/LIT-797.md)'s Appendix B,
+which [NOTE-633](../notes.d/NOTE-633.md) did not follow. That step is the promote_when.
