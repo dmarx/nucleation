@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**510 documents cited without acknowledgement.** Not listed: 9955 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**509 documents cited without acknowledgement.** Not listed: 9946 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2972,17 +2972,6 @@ In an active-inference model of post-traumatic context inference, an overly prec
 - [`record/claims.d/CLAIM-342.md:46`](../../record/claims.d/CLAIM-342.md)
 - [`record/claims.d/CLAIM-342.md:67`](../../record/claims.d/CLAIM-342.md)
 - [`record/questions.d/QUESTION-121.md:68`](../../record/questions.d/QUESTION-121.md)
-
-### [THEORY-324](../../record/theory.d/THEORY-324.md) — Proposed
-
-A system adapts by trial and error to an environment unknown to it only if a second feedback, through its essential variables, changes the parameters of its primary feedback when those variables leave their limits; with that feedback every equilibrium the whole can reach is an adapted one
-
-4 citations in 3 files await a look; 9 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-339.md:56`](../../record/claims.d/CLAIM-339.md)
-- [`record/claims.d/CLAIM-339.md:91`](../../record/claims.d/CLAIM-339.md)
-- [`record/claims.d/CLAIM-342.md:90`](../../record/claims.d/CLAIM-342.md)
-- [`record/notes.d/NOTE-963.md:207`](../../record/notes.d/NOTE-963.md)
 
 ### [THEORY-374](../../record/theory.d/THEORY-374.md) — Proposed
 

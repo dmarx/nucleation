@@ -1,5 +1,8 @@
 ---
+number: 170
 status: Open
+formerly:
+- QUESTION-tmpvx6hf
 title: "When no single setting of a regulator is stable in every environment it may meet, must any system that comes to keep its essential variables within limits carry a channel from those variables to the parameters of its regulation, whether or not it adapts by trial and error?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   that wider form.
 ---
 
-# QUESTION-tmpvx6hf: When no single setting of a regulator is stable in every environment it may meet, must any system that comes to keep its essential variables within limits carry a channel from those variables to the parameters of its regulation, whether or not it adapts by trial and error?
+# QUESTION-170: When no single setting of a regulator is stable in every environment it may meet, must any system that comes to keep its essential variables within limits carry a channel from those variables to the parameters of its regulation, whether or not it adapts by trial and error?
 
 ## Why it is a question
 

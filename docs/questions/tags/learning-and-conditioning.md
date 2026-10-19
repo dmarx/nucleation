@@ -6,8 +6,8 @@
 
 **Learning and conditioning** — how organisms learn from contingencies and consequences — Pavlovian and instrumental conditioning, reinforcement and reward learning in brains, habit and goal-directed control, behaviour analysis and relational responding. Not machine learning, which is learning-theory or the anthology (ADR-025).
 
-0 of 169 QUESTION documents. Back to the [full index](../README.md).
+1 of 170 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-170](../../../record/questions.d/QUESTION-170.md) | When no single setting of a regulator is stable in every environment it may meet, must any system that comes to keep its essential variables within limits carry a channel from those variables to the parameters of its regulation, whether or not it adapts by trial and error? | Filed when the promotion audit (batch 032, [ADR-047](../../../record/decisions.d/ADR-047.md) v2) narrowed and promoted [THEORY-324](../../../record/theory.d/THEORY-324.md). Ashby's necessity was re-derived for systems that follow the trial-and-error rule, where it is close to definitional. The former promote_when asked it of any system that comes to keep its essential variables within limits, which is wider. This question holds that wider form. | Open |

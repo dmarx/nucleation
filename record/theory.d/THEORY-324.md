@@ -20,7 +20,7 @@ history:
     unknown environment is now stated as Ashby states it: one whose
     effect on the essential variables the system does not know. The
     promote_when's wider form, any system that comes to keep its
-    essential variables within limits, moves to QUESTION-tmpvx6hf.
+    essential variables within limits, moves to QUESTION-170.
 tags:
 - complex-systems
 - behavioral-integration
@@ -153,4 +153,4 @@ Once the rule is assumed, the necessity is close to definitional. A
 regulator whose one fixed setting is stable in every environment of the
 class needs no such channel, but it does not adapt by trial and error.
 Whether systems that do need different settings can do without the
-channel is [QUESTION-tmpvx6hf](../questions.d/QUESTION-tmpvx6hf.md).
+channel is [QUESTION-170](../questions.d/QUESTION-170.md).
