@@ -32,7 +32,7 @@ summary: >-
   function brackets the distortion-rate function with a K(f, d, m, R) shift
   in rate. Each link holds only up to the complexity of the distribution.
 ---
-<!-- inactive-ok-file: THEORY-244 THEORY-277 THEORY-163 THEORY-157 THEORY-238 — Proposed; the theories filed from this reading and those it bears on, open -->
+<!-- inactive-ok-file: THEORY-244 THEORY-277 THEORY-163 THEORY-157 — Proposed; the theories filed from this reading and those it bears on, open -->
 
 # NOTE-776: Grünwald & Vitányi — Shannon information and Kolmogorov complexity
 

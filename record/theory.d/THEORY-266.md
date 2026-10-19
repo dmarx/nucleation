@@ -1,20 +1,24 @@
 ---
 number: 266
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmphaadr
-promote_when: >-
-  An evaluation of Theorem 7's bound for a trained network that bounds
-  or estimates the coupling coefficient M from data and keeps the 4Lε
-  term, with the rate-distortion function estimated by a method whose
-  error is controlled. That would settle whether the trajectory's
-  compressibility given the sample accounts for generalisation, which is
-  what the account invites. The theorem itself is refuted only by a
-  counterexample to it. What cannot settle it: co-movement of an
-  estimated rate with test error across learning rates or architectures,
-  with M dropped, which is the evidence the paper offers.
-title: "The average generalisation error along an optimisation trajectory is bounded by the rate-distortion function of the trajectory's law given the sample, plus a coupling term that carries the trajectory's dependence on the sample"
-version: 1
+title: "For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability at least 1 − δ the average generalisation error along an optimisation trajectory is bounded, under a square root, by the rate-distortion function of the trajectory's law given the sample, a coupling term that carries the trajectory's dependence on the sample, and a distortion term 4Lε"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-266 (batch 038). The title now names the theorem's
+    hypotheses (a loss in [0, 1], L-Lipschitz in a distortion), its form
+    (a high-probability bound under a square root) and its third term,
+    4Lε. The proof of Theorem 7 (App. E-H) was re-checked step by step,
+    in the dated note below, given the general framework THEORY-263
+    holds. The promote_when asked for an evaluation that would settle
+    whether the trajectory's compressibility accounts for
+    generalisation, which this account does not claim and its first
+    "does not say" disclaims; it moves unchanged to QUESTION-tmphiinp.
 tags:
 - learning-theory
 - information-theory
@@ -33,7 +37,7 @@ summary: >-
   vacuous for 0–1 loss.
 ---
 
-# THEORY-266: The average generalisation error along an optimisation trajectory is bounded by the rate-distortion function of the trajectory's law given the sample, plus a coupling term that carries the trajectory's dependence on the sample
+# THEORY-266: For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability at least 1 − δ the average generalisation error along an optimisation trajectory is bounded, under a square root, by the rate-distortion function of the trajectory's law given the sample, a coupling term that carries the trajectory's dependence on the sample, and a distortion term 4Lε
 
 ## Source
 
@@ -113,3 +117,34 @@ in [25]".
   and found it vacuous. It named the information a training run actually
   carries about its data as the informative quantity. Here that quantity
   is exactly what M absorbs and the experiment drops.
+
+## Note of 2026-10-19: the proof of Theorem 7, re-checked
+
+The proof (App. E-H, arXiv v3 pp. 24–26) applies the general variable-rate
+theorem (Theorem 4, the framework [THEORY-263](THEORY-263.md) holds) to f = gen², with
+Δ = (RD(S, ε; π_S) + log(√(2n)M/δ))/(2n − 1) + 4Lε. The steps:
+
+- **Compression with distortion 4Lε in f.** For each sample s, take a
+  kernel from W^T to Ŵ^T with average distortion at most ε. Then replace it
+  by the kernel from the joint marginal of (W^T, Ŵ^T), so that S − W^T − Ŵ^T
+  is a Markov chain with the same (W^T, Ŵ^T) marginal. Since gen lies in
+  [−1, 1], |gen(w)² − gen(ŵ)²| ≤ 2|gen(w) − gen(ŵ)|. Population and
+  empirical risk are each L-Lipschitz, so |gen(w) − gen(ŵ)| ≤ 2Lρ(w, ŵ). The
+  distortion in f is therefore at most 4Lε.
+- **The exponential moment.** For a fixed ŵ^T, gen(S, ŵ^T) is a centred mean
+  of n terms in [0, 1], hence 1/(2√n)-subgaussian. At λ = 2n − 1 this gives
+  E e^{λ gen²} ≤ √(2n).
+- **The information term.** By data processing under the Markov chain,
+  I(S; Ŵ^T) ≤ I(W^T; Ŵ^T). That is at most I(W^T; S, Ŵ^T) =
+  I(W^T; Ŵ^T | S) + I(W^T; S). The infimum of the first term over the
+  per-sample kernels is the rate given the sample, RD(s, ε; π_s).
+- **The coupling.** I(W^T; S) = E log dπ_S/d[π_S ν_S]_{W^T}, which is at most
+  E log M for ν_S in the KL ball that defines M.
+- Substituting Δ cancels these terms and leaves log δ, which is Theorem 4's
+  condition. With probability at least 1 − δ, E_{π_S} gen² ≤ Δ, and Jensen
+  gives E_{π_S} gen ≤ √Δ.
+
+So the dependence of the trajectory on its sample enters only through M,
+as the body says, and RD is a rate given the sample. Theorem 4 itself is
+taken as [NOTE-806](../notes.d/NOTE-806.md) followed it and is not re-derived here.
+

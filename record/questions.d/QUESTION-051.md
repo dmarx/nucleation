@@ -35,8 +35,9 @@ summary: >-
   each one's limit.
 refined_by:
 - QUESTION-080
+- QUESTION-tmpu84bn
 ---
-<!-- inactive-ok-file: THEORY-278 THEORY-286 THEORY-294 — Proposed; partial answers filed today, cited with their limits -->
+<!-- inactive-ok-file: THEORY-286 THEORY-294 — Proposed; partial answers filed today, cited with their limits -->
 <!-- inactive-ok-file: THEORY-246 — Proposed; the measured cost of class separation for new tasks, a partial answer to the second half, cited with its limit -->
 
 # QUESTION-051: What structure does training for one classification task leave in a network's last layers, and what does that structure cost for decisions and distributions the network was not trained on?

@@ -42,7 +42,7 @@ summary: >-
   separation helps. Networks early-stopped near 92% training accuracy;
   one dataset; correlational across losses.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-104 THEORY-278 — Proposed; the statement of collapse it measures short of, the layer-wise account it is set against, and the MSE derivation it touches -->
+<!-- inactive-ok-file: THEORY-083 THEORY-104 — Proposed; the statement of collapse it measures short of, the layer-wise account it is set against, and the MSE derivation it touches -->
 
 # THEORY-246: Training objectives that tighten the class clusters of a classifier's last layers buy accuracy on the trained classes and pay for it in new tasks: among ImageNet-trained ResNet-50s, fixed penultimate features with more class separation transfer worse to datasets with other classes, the difference lies in the last few blocks, and fine-tuning removes it
 

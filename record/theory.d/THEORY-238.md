@@ -1,22 +1,10 @@
 ---
 number: 238
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxydgv
-promote_when: >-
-  A check of the constant in Theorem 4's proof, which applies Lemma 3 under
-  a looser condition than the lemma states (λ/n < 1.36 against 0.68), and a
-  numerical evaluation of the bound for a trained encoder with a prior
-  that does not use the ghost data, showing whether it is non-vacuous. The
-  first settles the theorem as stated. The second settles whether the
-  quantity accounts for generalization in practice, which the account
-  claims only in principle. It is refuted by a counterexample to Theorem 4,
-  an encoder–decoder learner whose expected generalization error exceeds
-  the bound for some type-III symmetric prior. What cannot settle it: test
-  accuracies of regularizers built from the bound, such as CDVIB, since a
-  better regularizer does not show that the bound holds or is tight.
-title: "The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder, and the bound stays finite for deterministic continuous encoders under lossy compression"
-version: 2
+title: "The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder; and under lossy compression the bound can stay finite for deterministic continuous encoders, whose lossless bound is infinite"
+version: 3
 history:
 - version: 2
   date: '2026-10-14'
@@ -24,6 +12,22 @@ history:
     LIT-240 is now Unavailable, not Deferred (its status change of
     2026-10-14, under ADR-041); the inactive-ok comment says so. Nothing
     else changed.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-238 (batch 038, ADR-047 v2). The promote_when asked first
+    for a check of the constant in Theorem 4's proof, which applies
+    Lemma 3 under λ/n < 1.36 against the lemma's λ/n < 0.68. The proof
+    applies the lemma at λ/2, so the two conditions agree; the closing
+    steps of the proof and Lemma 3's own proof were re-derived step by
+    step, in the dated note below, and the constants stand. Its second
+    request, a numerical evaluation showing whether the bound is
+    non-vacuous, concerns whether the quantity accounts for
+    generalization in practice, which this account does not claim; it
+    moves to QUESTION-tmpc9vuq. The last clause is narrowed: lossy
+    compression can keep the bound finite for deterministic continuous
+    encoders, as the paper's constructed example shows, not in general.
 tags:
 - learning-theory
 - information-theory
@@ -44,7 +48,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-035 LIT-240 — Rejected or Unavailable; the account this one sits beside, and the IB bound it argues against, cited for context -->
 
-# THEORY-238: The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder, and the bound stays finite for deterministic continuous encoders under lossy compression
+# THEORY-238: The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder; and under lossy compression the bound can stay finite for deterministic continuous encoders, whose lossless bound is infinite
 
 ## Source
 
@@ -119,3 +123,37 @@ insufficient, and none appears.
   that controls generalization, by a coding rate of the latents relative to
   a symmetric prior. The paper notes that its label-dependent priors connect
   to Fischer's conditional entropy bottleneck ([LIT-226](../literature.d/LIT-226.md)).
+
+## Note of 2026-10-19: the constant in Theorem 4, re-derived
+
+[NOTE-742](../notes.d/NOTE-742.md) flagged that the proof of Theorem 4 (App. E.5) applies Lemma 3
+"conditioned that λ/n < 1.36", while the lemma is stated for λ/n < 0.68.
+Re-read from the arXiv v1 text (pp. 32–38), the proof applies the lemma
+to E[exp((λ/2)‖p̂_S − p̂_S′‖₁)], that is at λ/2, so its condition is
+(λ/2)/n < 0.68. There is no inconsistency.
+
+**The closing steps of E.5.** Donsker–Varadhan against the law that draws
+the 2n latents from the prior Q gives λ·E[gen] ≤ B + log E_R[e^f]. The
+decoder kernel is shared by both laws, so only the latents' KL enters, and
+no property of the decoder is used. Under Q's label-preserving symmetry,
+match the T = n − (n/2)‖p̂_S − p̂_S′‖₁ pairs of equal label across S and S′
+and give each matched term an independent random sign. Each matched term
+contributes cosh(λ/n) ≤ e^{λ²/(2n²)}, and each of the n − T unmatched
+terms at most e^{λ/n}. So E_R[e^f] ≤ e^{λ²/(2n)} E[exp((λ/2)‖p̂_S −
+p̂_S′‖₁)]. Lemma 3 at λ/2 bounds the logarithm of the last factor by
+(K+2)/2 + 3λ²/(2n), for λ/n < 1.36. Hence E[gen] ≤ (2B+K+2)/(2λ) + 2λ/n,
+minimised at λ* = √(n(2B+K+2))/2 with value 2√((2B+K+2)/n). When λ*/n ≥
+1.36, that value is 4λ*/n > 1 and the bound holds trivially.
+
+**Lemma 3 (App. E.9).** Poissonize the label counts as Devroye does, with
+N, N′ ~ Poisson(n). Then the triangle inequality and Cauchy–Schwarz split
+the moment into one for |N − n| + |N′ − n| and one for Σ_k |V_k − V′_k|,
+each at t = 2λ/n. The first is at most 4e^{2n(e^t − 1 − t)} and the second
+at most 2^K e^{n(e^t + e^{−t} − 2)}. With e^t ≤ 1 + t + t²/1.2 and
+cosh t ≤ 1 + 7t²/12, the logarithm is at most (K+2)/2 + (17/3)λ²/n ≤
+(K+2)/2 + 6λ²/n. Both inequalities were checked numerically on (0, 1.36],
+where they hold, with margins 0.005 and 0.0025 at the endpoint. t < 1.36 is
+the lemma's λ/n < 0.68. The paper states the second inequality only for
+t < 1.3, a narrower range than the lemma uses. The numerical check covers
+the rest.
+

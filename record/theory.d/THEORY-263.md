@@ -34,7 +34,6 @@ summary: >-
   are change of measure. The rate is a Shannon code-length difference
   against a prior, not Kolmogorov complexity.
 ---
-<!-- inactive-ok-file: THEORY-238 THEORY-266 — Proposed; the account of a related bound for representations, and the two accounts filed beside this one today, cited for context -->
 
 # THEORY-263: A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound
 
