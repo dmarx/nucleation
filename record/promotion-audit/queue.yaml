@@ -1,24 +1,16 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 36
+version: 37
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batch-005
-  state: reviewed
-  in_review: null
-  next_step: 'Batch 005 (wave 2) is reviewed: 5 of 5 found a promotion path (THEORY-184 promote; THEORY-174,
-    -168, -017 and -165 split). Open PRs from this audit: #165 (first audit, second pass, follow-up),
-    #166 (this ledger), #167 (promote CLAIM-267, -270), #168 (warrants of CLAIM-077, -098), #169 (split
-    CLAIM-285), #170 (promote CLAIM-313, with CLAIM-310''s one-copy condition), #171 (correct CLAIM-308,
-    -251), #172 (correct CLAIM-188, -193), #173 (promote CLAIM-268; narrow-and-promote CLAIM-107), #174
-    (split CLAIM-063, -037), #175 (CLAIM-056 warrant). Gated on #165 merging: the CLAIM-269 split and
-    the CLAIM-322 promotion (batch 004; CLAIM-322 is interpretive, the owner''s call). Next: open batch
-    005''s PRs (batches/batch-005.yaml follow_up_prs; at most three entries each), or start batch 006
-    in wave 2 with the next five pending: THEORY-325, THEORY-277, THEORY-247, THEORY-236, THEORY-206.
-    Wave 2''s yield is 11 of 11, so stay in wave 2.'
+  batch: batch-006
+  state: in_progress
+  in_review: THEORY-325
+  next_step: 'Batch 006 (wave 2) in progress: THEORY-325, THEORY-277, THEORY-247, THEORY-236, THEORY-206,
+    in that order. Finish the one in_review first.'
   cautions:
   - 'PR #165''s tmp codes (CLAIM-tmpzk12h and others) are concretized at merge. Update decisions/ when
     they are.'
@@ -565,7 +557,7 @@ candidates:
   wave: 2
   score: 4
   triage: triage-002
-  state: pending
+  state: in_review
 - code: THEORY-277
   wave: 2
   score: 4
@@ -765,4 +757,7 @@ history:
 - version: 36
   date: '2026-10-19'
   note: 'Batch 005 closed: 1 promote, 4 split. Hand-off rewritten, naming #175 (CLAIM-056).'
+- version: 37
+  date: '2026-10-19'
+  note: 'Batch 006 (wave 2) opened: THEORY-325 in review. Candidates THEORY-325, -277, -247, -236, -206.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
