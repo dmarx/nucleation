@@ -44,11 +44,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-114](../record/theory.d/THEORY-114.md) — Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually *(Proposed)*
   - [THEORY-557](../record/theory.d/THEORY-557.md) — Low-loss paths between independently trained solutions are found outside supervised image classifiers: graph neural networks trained from different seeds on one graph are joined by quadratic Bezier curves where the straight line has a barrier, and one pair each of diffusion and contrastive models by chains of low-loss checkpoints *(Proposed)*
 
-### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
-
-- [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
-  - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
-
 ## cognition
 
 ### From A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly
@@ -283,7 +278,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 
 - [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
-  - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
+  - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)* — also carries further THEORY-732
+- [THEORY-732](../record/theory.d/THEORY-732.md) — For ReLU networks interpolated linearly between two endpoints, weak additivity and commutativity at every layer make each layer's features exactly the interpolation of the endpoints' features, output-layer linearity bounds the path's error by twice the endpoints', and for one hidden layer with interpolating minima linear mode connectivity alone gives the exact case *(Active)*
 
 ## mathematical-statistics
 
@@ -536,7 +532,8 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 ### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 
 - [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
-  - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
+  - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)* — also carries further THEORY-732
+- [THEORY-732](../record/theory.d/THEORY-732.md) — For ReLU networks interpolated linearly between two endpoints, weak additivity and commutativity at every layer make each layer's features exactly the interpolation of the endpoints' features, output-layer linearity bounds the path's error by twice the endpoints', and for one hidden layer with interpolating minima linear mode connectivity alone gives the exact case *(Active)*
 
 ### From For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval
 

@@ -1,6 +1,6 @@
 ### Added
 
-- [THEORY-tmpyjtkq](record/theory.d/THEORY-tmpyjtkq.md), Active: for ReLU networks on a linear path, weak
+- [THEORY-732](record/theory.d/THEORY-732.md), Active: for ReLU networks on a linear path, weak
   additivity and commutativity at every layer give exact layerwise
   linear feature connectivity, output linearity bounds the path's error
   by twice the endpoints', and one hidden layer with interpolating minima
@@ -13,5 +13,5 @@
   must read every such cluster, with probability tending to 1. The record's
   concentration proof is written in.
 - [THEORY-111](record/theory.d/THEORY-111.md) stays Proposed for its empirical regularity and the step to
-  many-model averages, and now extends [THEORY-tmpyjtkq](record/theory.d/THEORY-tmpyjtkq.md). These changes carry
+  many-model averages, and now extends [THEORY-732](record/theory.d/THEORY-732.md). These changes carry
   out the promotion audit's batch-016 decisions ([ADR-047](record/decisions.d/ADR-047.md)).

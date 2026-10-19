@@ -1,5 +1,8 @@
 ---
+number: 732
 status: Active
+formerly:
+- THEORY-tmpyjtkq
 title: "For ReLU networks interpolated linearly between two endpoints, weak additivity and commutativity at every layer make each layer's features exactly the interpolation of the endpoints' features, output-layer linearity bounds the path's error by twice the endpoints', and for one hidden layer with interpolating minima linear mode connectivity alone gives the exact case"
 version: 1
 history:
@@ -43,7 +46,7 @@ extended_by:
 <!-- inactive-ok-file: THEORY-111 — Proposed; the empirical account this was split from and that extends it, cited as open -->
 <!-- inactive-ok-file: THEORY-116 — Proposed; named in Connections, nothing here rests on it -->
 
-# THEORY-tmpyjtkq: For ReLU networks interpolated linearly between two endpoints, weak additivity and commutativity at every layer make each layer's features exactly the interpolation of the endpoints' features, output-layer linearity bounds the path's error by twice the endpoints', and for one hidden layer with interpolating minima linear mode connectivity alone gives the exact case
+# THEORY-732: For ReLU networks interpolated linearly between two endpoints, weak additivity and commutativity at every layer make each layer's features exactly the interpolation of the endpoints' features, output-layer linearity bounds the path's error by twice the endpoints', and for one hidden layer with interpolating minima linear mode connectivity alone gives the exact case
 
 ## Source
 

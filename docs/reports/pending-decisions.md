@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**814 document(s) awaiting a decision.**
+**813 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 814.
+95 of the 813.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-487 of the 814.
+486 of the 813.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -172,6 +172,7 @@
 | 2026-10-03 | Proposed | [THEORY-064](../../record/theory.d/THEORY-064.md) | 15 | 0 | What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self |
 | 2026-10-03 | Proposed | [THEORY-049](../../record/theory.d/THEORY-049.md) | 13 | 2 | Whether an external event lowers or raises intrinsic motivation depends on whether it is experienced as controlling or as information about competence |
 | 2026-10-03 | Proposed | [THEORY-109](../../record/theory.d/THEORY-109.md) | 13 | 5 | The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum |
+| 2026-10-03 | Proposed | [THEORY-111](../../record/theory.d/THEORY-111.md) | 13 | 1 | Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features |
 | 2026-10-03 | Proposed | [THEORY-065](../../record/theory.d/THEORY-065.md) | 12 | 2 | The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones |
 | 2026-10-03 | Proposed | [THEORY-076](../../record/theory.d/THEORY-076.md) | 12 | 0 | Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining |
 | 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 12 | 3 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
@@ -182,19 +183,18 @@
 | 2026-10-03 | Proposed | [THEORY-093](../../record/theory.d/THEORY-093.md) | 11 | 2 | A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it |
 | 2026-10-03 | Proposed | [THEORY-098](../../record/theory.d/THEORY-098.md) | 11 | 2 | The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex |
 | 2026-10-03 | Proposed | [THEORY-104](../../record/theory.d/THEORY-104.md) | 11 | 2 | Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls |
+| 2026-10-03 | Proposed | [THEORY-116](../../record/theory.d/THEORY-116.md) | 11 | 1 | A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms |
 | 2026-10-03 | Proposed | [THEORY-048](../../record/theory.d/THEORY-048.md) | 10 | 2 | In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them |
 | 2026-10-03 | Proposed | [THEORY-052](../../record/theory.d/THEORY-052.md) | 10 | 6 | Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-061](../../record/theory.d/THEORY-061.md) | 10 | 2 | In evidence-accumulation tasks, goals and instructions act on a decision by setting the parameters of the accumulation (drift, starting point or baseline, and threshold), not by specifying the response, and this holds for when to act as well as for which |
 | 2026-10-03 | Proposed | [THEORY-085](../../record/theory.d/THEORY-085.md) | 10 | 2 | A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors |
 | 2026-10-03 | Proposed | [THEORY-108](../../record/theory.d/THEORY-108.md) | 10 | 6 | Across load and temperature, the connectivity and output similarity of independently trained solutions predict test accuracy where endpoint curvature does not: a flat but poorly connected landscape generalizes worse than a connected one of the same curvature |
 | 2026-10-03 | Proposed | [THEORY-114](../../record/theory.d/THEORY-114.md) | 10 | 2 | Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually |
-| 2026-10-03 | Proposed | [THEORY-116](../../record/theory.d/THEORY-116.md) | 10 | 1 | A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms |
 | 2026-10-03 | Proposed | [THEORY-075](../../record/theory.d/THEORY-075.md) | 8 | 4 | Obligation is the reflective rejection of what would violate the agent's practical identity, and moral obligation follows only because valuing any practical identity commits the agent to valuing her humanity |
 | 2026-10-03 | Proposed | [THEORY-079](../../record/theory.d/THEORY-079.md) | 7 | 0 | Bayesian model reduction under the Laplace approximation prices the reductions of a singular parent model with a Gaussian Occam factor, so its free-energy differences can be wrong by a term that grows with log n |
 | 2026-10-03 | Proposed | [THEORY-095](../../record/theory.d/THEORY-095.md) | 7 | 2 | Phenomenal character is not fixed by long-arm functional role or by externally individuated representational content: on Inverted Earth it stays the same while both invert, so only internal accounts, short-arm functional or physical, remain open |
 | 2026-10-03 | Proposed | [THEORY-077](../../record/theory.d/THEORY-077.md) | 6 | 2 | Goals pursued for identified or intrinsic reasons receive more sustained effort, which carries their better attainment, and attaining them raises well-being more than attaining goals pursued under pressure |
 | 2026-10-03 | Proposed | [THEORY-089](../../record/theory.d/THEORY-089.md) | 6 | 2 | The content of a mental representation has two factors, a narrow conceptual role inside the head and a referential factor relating it to the world, and a long-arm role theory that gets Twin Earth truth conditions right reduces to the same two |
-| 2026-10-03 | Proposed | [THEORY-111](../../record/theory.d/THEORY-111.md) | 6 | 1 | Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features |
 | 2026-10-03 | Proposed | [THEORY-115](../../record/theory.d/THEORY-115.md) | 6 | 1 | Linear connectivity from a shared, already-stable start holds only when the objectives the runs optimise share structure, and breaks as that structure is removed |
 | 2026-10-03 | Proposed | [THEORY-059](../../record/theory.d/THEORY-059.md) | 5 | 2 | The readiness potential does not show that a neural decision to act precedes awareness of the urge to act |
 | 2026-10-03 | Proposed | [THEORY-074](../../record/theory.d/THEORY-074.md) | 5 | 2 | Implicit accessibility of the true self-concept is not what self-report scales of authenticity or of need satisfaction measure, though those two self-reports are not shown to be separate constructs |
@@ -394,7 +394,6 @@
 | 2026-10-15 | Proposed | [THEORY-362](../../record/theory.d/THEORY-362.md) | 3 | 3 | For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations is stated to suffice to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, and a tuple leaves when its count reaches zero; the proof is not in the paper, and counting is set aside for recursive views because counts can be infinite |
 | 2026-10-15 | Proposed | [THEORY-367](../../record/theory.d/THEORY-367.md) | 3 | 3 | For positive queries over a tree data model that covers SPJU relational queries, why-provenance taken as the witness basis, one set of matched source facts per derivation, is preserved by query rewriting and its minimal witnesses are the same for equivalent queries with equality conditions, while where-provenance, the source location a value was copied from, can differ between equivalent queries and is preserved by rewriting only for traceable queries |
 | 2026-10-15 | Proposed | [THEORY-368](../../record/theory.d/THEORY-368.md) | 3 | 3 | On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms |
-| 2026-10-15 | Proposed | [THEORY-369](../../record/theory.d/THEORY-369.md) | 3 | 2 | Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10 |
 | 2026-10-15 | Proposed | [THEORY-375](../../record/theory.d/THEORY-375.md) | 3 | 3 | In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved |
 | 2026-10-15 | Proposed | [THEORY-376](../../record/theory.d/THEORY-376.md) | 3 | 3 | In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged |
 | 2026-10-15 | Proposed | [THEORY-377](../../record/theory.d/THEORY-377.md) | 3 | 3 | A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved |
@@ -605,7 +604,7 @@
 
 ## ADRs
 
-2 of the 814.
+2 of the 813.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -614,7 +613,7 @@
 
 ## QUESTIONs
 
-9 of the 814.
+9 of the 813.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -630,7 +629,7 @@
 
 ## CLAIMs
 
-216 of the 814.
+216 of the 813.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -853,7 +852,7 @@
 
 ## CASEs
 
-1 of the 814.
+1 of the 813.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -861,7 +860,7 @@
 
 ## TERMs
 
-2 of the 814.
+2 of the 813.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -870,7 +869,7 @@
 
 ## ARGs
 
-2 of the 814.
+2 of the 813.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

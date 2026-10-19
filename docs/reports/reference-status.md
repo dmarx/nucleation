@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**513 documents cited without acknowledgement.** Not listed: 10120 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**512 documents cited without acknowledgement.** Not listed: 10127 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -659,8 +659,8 @@ Under a deadline, search can establish presence by finding one item but absence 
 - [`record/claims.d/CLAIM-311.md:25`](../../record/claims.d/CLAIM-311.md)
 - [`record/claims.d/CLAIM-311.md:28`](../../record/claims.d/CLAIM-311.md)
 - [`record/claims.d/CLAIM-311.md:30`](../../record/claims.d/CLAIM-311.md)
-- [`record/claims.d/CLAIM-311.md:40`](../../record/claims.d/CLAIM-311.md)
-- [`record/claims.d/CLAIM-311.md:68`](../../record/claims.d/CLAIM-311.md)
+- [`record/claims.d/CLAIM-311.md:39`](../../record/claims.d/CLAIM-311.md)
+- [`record/claims.d/CLAIM-311.md:67`](../../record/claims.d/CLAIM-311.md)
 - [`record/claims.d/CLAIM-312.md:40`](../../record/claims.d/CLAIM-312.md)
 - [`record/claims.d/CLAIM-312.md:44`](../../record/claims.d/CLAIM-312.md)
 - [`record/claims.d/CLAIM-312.md:47`](../../record/claims.d/CLAIM-312.md)
@@ -4854,15 +4854,6 @@ A stack of proximity graphs on nested random subsets of the data, each element's
 - [`record/questions.d/QUESTION-114.md:350`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-385.md:94`](../../record/theory.d/THEORY-385.md)
 
-### [THEORY-369](../../record/theory.d/THEORY-369.md) — Proposed
-
-Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10
-
-2 citations in 2 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/questions.d/QUESTION-114.md:347`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-366.md:111`](../../record/theory.d/THEORY-366.md)
-
 ### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
 
 When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed
@@ -5736,7 +5727,7 @@ Behavioural capacity does not fix intelligence: a system with the capacity to re
 
 Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features
 
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:59`](../../record/claims.d/CLAIM-187.md)
 
@@ -5760,7 +5751,7 @@ Linear connectivity from a shared, already-stable start holds only when the obje
 
 A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 
-1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:57`](../../record/claims.d/CLAIM-187.md)
 

@@ -27,7 +27,7 @@ history:
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-111.yaml, batch 016, ADR-047),
     the formal results this account rests on are filed apart as
-    THEORY-tmpyjtkq, Active: Zhou et al.'s Theorem 1 and Lemma 1, and the
+    THEORY-732, Active: Zhou et al.'s Theorem 1 and Lemma 1, and the
     exact one-hidden-layer case from Lubana et al.'s Lemma 2, with the
     record's composition re-derived (ADR-047 v2). This THEORY extends it
     and keeps the empirical regularity and the averaging clause. Its
@@ -43,7 +43,7 @@ source:
 - LIT-669
 extends:
 - THEORY-116
-- THEORY-tmpyjtkq
+- THEORY-732
 summary: >-
   Zhou et al. (2023), [LIT-674](../literature.d/LIT-674.md): whenever two image classifiers are
   linearly mode connected, by spawning or by permutation, the features of
@@ -138,7 +138,7 @@ the claim implies.
 
 ## Connections
 
-- **[THEORY-tmpyjtkq](THEORY-tmpyjtkq.md)**, which this extends, holds the formal results
+- **[THEORY-732](THEORY-732.md)**, which this extends, holds the formal results
   above: Theorem 1, Lemma 1 and the exact one-hidden-layer case, Active.
   What stays open here is that connected pairs meet the conditions.
 - **[THEORY-116](THEORY-116.md)**, which this extends. That account's converse half
