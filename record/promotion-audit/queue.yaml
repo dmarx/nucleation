@@ -1,16 +1,29 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 44
+version: 46
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-006
-  state: in_progress
-  in_review: THEORY-206
-  next_step: 'Batch 006 (wave 2) in progress: THEORY-325, THEORY-277, THEORY-247, THEORY-236, THEORY-206,
-    in that order. Finish the one in_review first.'
+  state: reviewed
+  in_review: null
+  next_step: 'Batch 006 (wave 2) is reviewed: 4 of 5 found a promotion path (THEORY-325 split; THEORY-247
+    and THEORY-206 narrow-and-promote; THEORY-236 split; THEORY-277 retain-proposed). Wave 2 stands at
+    15 of 16. Open PRs from this audit: #165 (first audit, second pass, follow-up), #166 (this ledger),
+    #167 (promote CLAIM-267, -270), #168 (warrants of CLAIM-077, -098), #169 (split CLAIM-285), #170 (promote
+    CLAIM-313; CLAIM-310''s one-copy condition), #171 (correct CLAIM-308, -251), #172 (correct CLAIM-188,
+    -193), #173 (promote CLAIM-268; narrow-and-promote CLAIM-107), #174 (split CLAIM-063, -037), #175
+    (CLAIM-056 warrant), and batch 005''s #176 (promote THEORY-184; split THEORY-165 into CLAIM-tmp496tl),
+    #177 (split THEORY-017 into THEORY-tmpa07hh) and #178 (split THEORY-174 and THEORY-168 into THEORY-tmp4o2p3
+    and THEORY-tmpm565o). Gated on #165 merging: the CLAIM-269 split and the CLAIM-322 promotion (batch
+    004; CLAIM-322 is interpretive, the owner''s call). Next: open batch 006''s PRs (batches/batch-006.yaml
+    follow_up_prs; at most three entries each); a wave-4 pass on the THEORY-165 citers once #176 merges
+    (CLAIM-105, -201, -219, -235, -319, -320, CASE-037); or batch 007 with the next five wave-2 pending:
+    THEORY-171, THEORY-160, THEORY-158, THEORY-157, THEORY-037. An owner''s call is recorded in decisions/THEORY-277.yaml:
+    whether a step-by-step reading of a proof (the THEORY-004 standard) can relax a promote_when that
+    asks for an independent proof.'
   cautions:
   - 'PR #165''s tmp codes (CLAIM-tmpzk12h and others) are concretized at merge. Update decisions/ when
     they are.'
@@ -25,8 +38,8 @@ waves:
   promotion_paths: 10
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 15
-  promotion_paths: 14
+  reviewed: 16
+  promotion_paths: 15
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 0
@@ -521,6 +534,7 @@ candidates:
   disposition: split
   batch: batch-005
   decision: decisions/THEORY-174.yaml
+  carried_out_in: '#178'
 - code: THEORY-184
   wave: 2
   score: 6
@@ -538,6 +552,7 @@ candidates:
   disposition: split
   batch: batch-005
   decision: decisions/THEORY-168.yaml
+  carried_out_in: '#178'
 - code: THEORY-017
   wave: 2
   score: 6
@@ -592,7 +607,10 @@ candidates:
   wave: 2
   score: 4
   triage: triage-002
-  state: in_review
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-006
+  decision: decisions/THEORY-206.yaml
 - code: THEORY-171
   wave: 2
   score: 4
@@ -800,4 +818,12 @@ history:
   date: '2026-10-19'
   note: 'Batch 006: THEORY-236 split (Theorem 1 checked line by line; the column-space generalisation,
     which covers the centred case, becomes a CLAIM). carried_out_in #177 for THEORY-017.'
+- version: 45
+  date: '2026-10-19'
+  note: 'Batch 006: THEORY-206 narrow-and-promote (Taylor-sense bound re-derived; uniform and bias cases
+    to a QUESTION). carried_out_in #178 for THEORY-174 and THEORY-168; batch 005 complete (#176-#178).'
+- version: 46
+  date: '2026-10-19'
+  note: 'Batch 006 closed. carried_out_in #178 for THEORY-174 and THEORY-168. Hand-off rewritten: batch
+    005''s PRs #176-#178 are open, none pending.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

@@ -218,3 +218,49 @@ decision files do not say.
   by CLAIM-tmp496tl, the Lipschitz bound split from THEORY-165 in #176.
   Once #176 merges, each one that needs only continuity can re-ground on
   the new claim.
+
+## 2026-10-19 — batch 006 closed (wave 2 at 15 of 16)
+
+**Is the wave-2 yield real, or is triage-002's heuristic picking easy
+cases?** Mostly real, with a selection effect worth naming. Triage-002
+scored promote_when texts for words like "met", "checked", "proved" and
+"first half". Those words mark entries whose filer already found part of
+the condition satisfied. So the heuristic does select for half-met
+conditions, which is exactly the shape that splits. That is a selection
+effect, but it is the intended one, because a split is a real promotion
+of a real core. The evidence that the yield is not easy cases: in
+batch 006, three of four promotion paths needed the record to supply a
+missing step (a −δI shift, a contraction and occupancy-LP argument, a
+column-space generalisation), not just to read a "Done". And the first
+entry whose promote_when bundles nothing, THEORY-277, did not yield. Expect
+the yield to fall as triage-002's keyword hits run out (THEORY-171 onward
+mostly score on "checked" alone), and re-triage before treating 15 of 16
+as the wave's rate.
+
+**Patterns.**
+
+- *A neutral example plus "persists with damping, not shown".* A uniform
+  shift A − δI lowers every Lyapunov exponent by exactly δ, because
+  Φ_δ(t) = e^(−δt)Φ(t). So any neutral-at-every-instant instability gives
+  a stable-at-every-instant one. Worth remembering for other "stable at
+  each instant" claims.
+- *"Equal because both are the unique fixed point of one contraction."*
+  Check that the two operators really are identical term by term, then
+  the identification is immediate (THEORY-247).
+- *A theorem stated at full rank often holds for a fixed column space.*
+  THEORY-236's Theorem 1 is the case col = ℝⁿ of "a GL(p)-invariant index
+  depends only on the column space". That generalisation is what a
+  "write it for the centred case" request usually needs.
+- *Re-derive the rank argument; don't trust the summary.* NOTE-693's
+  sketch ("a dependence among rows of maximal |S|") does not close as
+  stated. The working proof uses the zero lower-degree Taylor parts.
+- *A promote_when that asks only for an independent proof does not
+  split.* Register the independent source as a LIT, or put the THEORY-004
+  standard (a step-by-step reading suffices) to the owner.
+
+**Traps.**
+
+- In a worktree-isolated fork, a long python heredoc that writes files,
+  chained with git commands, is refused as "too complex to verify". Put
+  the script in the scratchpad, run it alone, then run each git command
+  separately.
