@@ -33,6 +33,12 @@ decision files do not say.
 - `luria lint` takes about eight minutes. The owner, 2026-10-19: open the PR
   and rely on CI to run luria, rather than waiting on it locally. `check.py`
   is the local check that matters for the ledger.
+- CI's docs-check pushes a "docs: repair sources" commit onto a PR branch
+  when sources need repair, for example unlinked codes in a changelog
+  fragment written after `luria link --fix`. The run that bot commit
+  triggers stops at action_required, and a maintainer has to approve it.
+  Run `luria link --fix` last, after the changelog, and pull before pushing
+  again.
 - `luria new adr` takes the next free number at once (the `filing` mode).
   Concurrent branches can collide on it.
 - Codes in these YAML files are not linked or upgraded by `luria repair`.
