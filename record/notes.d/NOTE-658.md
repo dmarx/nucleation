@@ -5,8 +5,22 @@ formerly:
 - NOTE-tmp6m4yt
 paper: 'LIT-859'
 title: 'Exact Learning Dynamics of In-Context Learning in Linear Transformers'
-version: 1
+version: 2
 history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    The Wishart step this reading followed as stated was re-derived for the
+    promotion audit (record/promotion-audit/decisions/THEORY-481.yaml, batch
+    016, ADR-047), from the arXiv v2 appendix. At (A71) and (A73) the paper
+    commutes the rotated empirical covariance Ŝ with diagonal matrices, but
+    Ŝ is not diagonal at finite N. The correct moment is
+    E[(ŜAŜ)_αα] = ((N+1)/N) a_α s_α² + (s_α/N) Σ_β a_β s_β, with a_β = q_β² s_β,
+    which couples the modes at order 1/N. So C2's per-mode logistic
+    dynamics and s^∞_α hold exactly as N → ∞, or at finite N for isotropic
+    inputs with equal modes, and are otherwise approximations. C4's global
+    conservation law, ‖p₂‖² − ‖q₁‖², holds as written. The reading itself
+    is unchanged.
 - version: 1
   date: '2026-10-09'
   note: >-
