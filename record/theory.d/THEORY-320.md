@@ -49,7 +49,7 @@ answers:
 extends:
 - THEORY-737
 ---
-<!-- inactive-ok-file: THEORY-228 THEORY-005 — Proposed; the bound whose framework this extends, and an operator account it does not restate -->
+<!-- inactive-ok-file: THEORY-005 — Proposed; an operator account this does not restate -->
 
 # THEORY-320: In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it
 

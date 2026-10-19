@@ -32,7 +32,7 @@ summary: >-
   population optimum, so it supports neither an eigenvector reading of
   InfoNCE nor the density-ratio optimum of [THEORY-001](THEORY-001.md).
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-228 — Proposed; accounts this one is contrasted with, not leaned on -->
+<!-- inactive-ok-file: THEORY-001 — Proposed; accounts this one is contrasted with, not leaned on -->
 
 # THEORY-305: SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors
 

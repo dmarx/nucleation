@@ -42,7 +42,7 @@ summary: >-
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-005 THEORY-228 CLAIM-098 — Proposed; accounts and a claim this one bears on, open -->
+<!-- inactive-ok-file: THEORY-005 CLAIM-098 — Proposed; accounts and a claim this one bears on, open -->
 
 # THEORY-239: For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator attain the minimum, over d-dimensional spans, of worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, namely (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other spans can tie
 

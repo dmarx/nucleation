@@ -27,7 +27,7 @@ summary: >-
   correction. Theorem 1 says only that a fit to augmentations that are
   not label-preserving cannot equal the true function.
 ---
-<!-- inactive-ok-file: THEORY-228 THEORY-005 — Proposed; the spectral accounts the seed linked this paper to, which it does not bear on directly -->
+<!-- inactive-ok-file: THEORY-005 — Proposed; the spectral accounts the seed linked this paper to, which it does not bear on directly -->
 
 # NOTE-845: Balestriero, Bottou & LeCun — regularization effects are class dependent
 

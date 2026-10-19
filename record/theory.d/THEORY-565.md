@@ -49,7 +49,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the reading this account rests on, which is why it is Proposed -->
-<!-- inactive-ok-file: THEORY-228 — Proposed; named in Connections for comparison, not leaned on -->
 
 # THEORY-565: From a symmetric, positivity-preserving, positive semi-definite affinity, the normalized Markov operator is conjugate to a symmetric one, so its leading eigenfunctions scaled by powers of their eigenvalues embed the data with Euclidean distance equal to diffusion distance, and a density-corrected normalization recovers the Laplace–Beltrami operator independently of how the data were sampled
 
