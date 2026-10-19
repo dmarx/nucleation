@@ -1,23 +1,23 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 92
+version: 93
 updated: '2026-10-19'
-record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: null
-  state: between batches
+  batch: batches 018-023 and triage-005 (parallel)
+  state: in_progress
   in_review: null
-  next_step: 'Batches 011-017 are integrated (queue v91). Wave 2 is exhausted: 51 reviewed, 43 promotion
-    paths. Every promotion PR from this round (#190-#201) merged on 2026-10-19, one at a time, each after
-    main''s regenerate commit; this ledger (#189) merges last. Next: wave 3 from triage-004 in code order,
-    preferring entries with formal content (batches 016 and 017 went 2 of 5 each, both yields from formal
-    results; triage-004''s ranking did not predict yield). Take THEORY-191 and -192 under ADR-047 v3 in
-    the first wave-3 batch. Then a wave-4 pass for the requeue list, and sample wave 5 (CLAIM-212/-228
-    style pragmatic-transport replies of 2026-10-10 are expected to show pattern 1). Before re-triaging
-    wave 3, apply batch 017''s fixes to triage_wave3.py: depth from the core''s NOTE (or the max over
-    sources), negative phrases for firsthand, and a formal-content flag.'
+  next_step: 'Started 2026-10-19 after #189-#201 merged. Parallel batches, each on its own branch claude/promotion-audit-batch-NNN,
+    writing only decisions/ and batches/: 018 (wave 3, ADR-047 v3: THEORY-191, -192, -033, -235, -255);
+    019 (wave 3 formal: THEORY-198, -248, -315, -256, -292); 020 (wave 3: THEORY-295, -414, -460, -546,
+    -583); 021 (wave 4: CLAIM-192, -271, -030, -206, -126); 022 (wave 5 opens: a fixed-rule sample of
+    5, with sample_wave5.py); 023 (THEORY-127, the Proposition 3 pass). triage-005 (claude/promotion-audit-triage-005)
+    fixes triage_wave3.py and re-scores wave 3 into triage-005.yaml. This ledger branch integrates each
+    as it lands (decisions, batch file, queue states, notes, wave counts, check.py). A batch branch without
+    its batch file did not finish: rerun it from its first candidate without a decision file. Merge the
+    resulting PRs one at a time, waiting for each merge''s regenerate commit.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -48,29 +48,7 @@ waves:
   class: Broad interpretive and synthesis claims
   reviewed: 0
   promotion_paths: 0
-requeue:
-- code: THEORY-127
-  when: a dedicated pass, after its batch-009 split merges
-  why: 'Proposition 3 on the court agenda: path-connectedness, then the decisive-coalition argument, under
-    ADR-047 v2 (decisions/THEORY-127.yaml blockers)'
-- code: THEORY-191
-  when: next wave-3 batch
-  why: 'ADR-047 v3: one fully read study suffices for a hedged empirical title; batch 011 retained it
-    only for want of replication'
-- code: THEORY-192
-  when: next wave-3 batch
-  why: as THEORY-191
-- code: CLAIM-192
-  when: a wave-4 batch
-  why: 'batch 015 triage: uses only the court-agenda possibility; can re-ground on THEORY-725 (interpretive,
-    so promotion is the owner''s call)'
-- code: CLAIM-271
-  when: a wave-4 batch
-  why: as CLAIM-192
-- code: CLAIM-030
-  when: a wave-4 batch
-  why: Active; cites the general impossibility still held by THEORY-127; THEORY-725 anchors it only if
-    the text says "can fail to"
+requeue: []
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -1780,4 +1758,8 @@ history:
 - version: 92
   date: '2026-10-19'
   note: '#190-#201 merged; hand-off updated.'
+- version: 93
+  date: '2026-10-19'
+  note: Batches 018-023 and triage-005 started in parallel; wave 5 opens with batch 022; requeued entries
+    assigned to batches 018, 021 and 023.
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
