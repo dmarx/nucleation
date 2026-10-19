@@ -1,0 +1,95 @@
+# record/promotion-audit/batches/batch-018.yaml
+batch: batch-018
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+selection: >-
+  The first wave-3 batch after ADR-047 v3. It starts with the two entries
+  requeued under the owner's single-study rule, THEORY-191 and THEORY-192,
+  which batch 011 had retained. Then come the first three pending wave-3
+  candidates of triage-004's top 20 in code order, skipping the three it
+  flagged as formal results (THEORY-198, -248, -315), which are left to a
+  formal-content pass: THEORY-033, THEORY-235 and THEORY-255.
+reviewed: [THEORY-191, THEORY-192, THEORY-033, THEORY-235, THEORY-255]
+outcomes:
+  narrow-and-promote: [THEORY-191, THEORY-192, THEORY-255]
+  split: [THEORY-033]
+  retain-proposed: [THEORY-235]
+yield: 4 of 5 found a promotion path (two under ADR-047 v3, two formal cores under v2)
+rubric_vs_outcome:
+  # triage-004 components: bundling, depth, firsthand, extends, compound
+  - code: THEORY-033
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 7
+    outcome: split
+    mattered: >-
+      Compound (a derivation joined by "because" to a measured
+      prediction), and the formal content, which no component scores.
+      Depth was right: NOTE-293 had re-derived the hyperbola.
+  - code: THEORY-235
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 7
+    outcome: retain-proposed
+    mattered: >-
+      None. Bundling scored 2 because the promote_when and the disclaimer
+      both name the open objections. Here shared vocabulary marks an
+      unanswered objection, not a separable core.
+  - code: THEORY-255
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 7
+    outcome: narrow-and-promote
+    mattered: >-
+      Bundling (the promote_when asks to check the generalisation the body
+      disclaims as "the record's inference") and the formal content. The
+      generalisation is a three-line order argument.
+  - code: THEORY-191
+    rubric: {extends: 1, compound: 1, read: 1}
+    score: 3
+    outcome: narrow-and-promote
+    mattered: "ADR-047 v3, not the rubric (triage-003 scores)."
+  - code: THEORY-192
+    rubric: {extends: 1, compound: 1, read: 1}
+    score: 3
+    outcome: narrow-and-promote
+    mattered: "ADR-047 v3, not the rubric (triage-003 scores)."
+finding: >-
+  ADR-047 v3 works as written. Both requeued Betti-curve entries promote
+  once their titles are narrowed to the measured scope: four odour
+  sources, and twelve CA1 sessions. Their sphere and multiscale nulls move
+  to a QUESTION. Among the three triage-004 entries, the two paths again
+  came from formal content inside non-mathematics entries: a derivation
+  under stated assumptions (THEORY-033), and an order-theoretic
+  impossibility (THEORY-255). The philosophical argument (THEORY-235)
+  did not yield. That makes six of six wave-3 paths from formal cores,
+  plus the two v3 promotions.
+recommendation: >-
+  Route single-source philosophical arguments out of wave 3 into wave 5;
+  THEORY-235 is the example. Take the three flagged formal entries
+  (THEORY-198, -248, -315) as one batch. Under ADR-047 v3, grep wave 3 for
+  other hedged single-study empirical titles ("has the signature of",
+  "matches", "is consistent with"), which are now cheap promotions once
+  narrowed.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-191 and THEORY-192: narrow-and-promote under ADR-047 v3. One new QUESTION holds both promote_whens: whether the hyperbolic Betti-curve matches separate a hyperbolic metric from a flat sphere (odour) or a flat multiscale code (CA1)."
+  - "THEORY-255: narrow-and-promote, with the order-theoretic generalisation as a dated note and the second-model clause moved to a new QUESTION. THEORY-033: split. A new Active THEORY holds the derivation under its stated assumptions, and the parent's measured clause is corrected (about 10× on six of eight tasks, about 20× on two)."
+notes_for_ledger:
+  - >-
+    First use of ADR-047 v3. "Read in full" was taken to allow figures and
+    supplements unseen, provided the title rests only on results the text
+    reports. Both NOTEs (672, 668) qualify. A title resting on a
+    supplementary table known only by summary would not.
+  - >-
+    A promote_when that asks for a confirming instance of a logical
+    consequence (THEORY-255: "a second model that also places the
+    deviation outside the meet") is met by the proof of the consequence.
+    What remains, which published models drop which assumption, is a
+    QUESTION.
+  - >-
+    Triage-004's maximum score (7) went 2 of 3 here and 2 of 5 in batch 016.
+    The three 7s reviewed here split along formal content, which the
+    rubric doesn't score. Batch 017's formal-content flag is the fix.
+  - >-
+    THEORY-235 should move to wave 5 in the queue: a single-source
+    philosophical argument with open objections.

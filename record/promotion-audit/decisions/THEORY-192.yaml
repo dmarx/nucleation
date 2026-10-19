@@ -1,38 +1,58 @@
 # record/promotion-audit/decisions/THEORY-192.yaml
 id: THEORY-192
-batch: batch-011
+batch: batch-018
 reviewed: '2026-10-19'
-reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 current_status: Proposed
-disposition: retain-proposed
+disposition: narrow-and-promote
 confidence: medium
+supersedes_review:
+  batch: batch-011
+  disposition: retain-proposed
+  reason: >-
+    Held in batch 011 only for want of a policy on single empirical
+    studies. ADR-047 v3 supplies it.
 scope:
   accepted: >-
-    The title reports Zhang, Rich, Lee & Sharpee's measurement, which
-    NOTE-668 (read in full) grades moderate in each part. In 12 sessions
-    from 3 data sets, CA1 correlation rank-orders fall inside the 3D
-    hyperbolic distribution and outside the uniform Euclidean cubes and
-    shuffles (C1). The fitted radius rises with log exploration time
-    (C2, correlational), and that growth tracks experience rather than
-    speed, area or elapsed time (C3).
+    The title, narrowed to the recordings measured, and with its radius
+    clause stated as the correlation it is. In twelve sessions of rat
+    dorsal CA1 from three data sets, pairwise spike correlations have the
+    Betti-curve signature of points sampled uniformly from a 3D hyperbolic
+    ball, not of a low-dimensional Euclidean cube, and the fitted radius
+    rose with the logarithm of exploration time. ADR-047 v3's conditions
+    hold. (1) The narrowed title claims no more than LIT-876 measured and
+    keeps its hedge ("the Betti-curve signature of"). "Rose with" reports
+    the measured correlation, r = 0.85 across days in the box and r = 0.50
+    within the long track. (2) NOTE-668 read the paper in full: every
+    section, every Methods section and the captions of all figures and
+    Extended Data figures. The Supplementary Information and source data
+    were not seen, and the per-session statistics are known through the
+    text's summary, which reports the comparisons the title states. (3)
+    Nothing in the record contradicts it. NOTE-670 and THEORY-618 cite it
+    as a test of the hyperbolic hypothesis and share the body's caveat
+    about field-scale distributions.
   excluded: >-
-    Nothing in the title goes beyond the source, but all of it is one
-    study's moderate empirical result. The record has nothing to re-derive
-    and no second analysis. The promote_when's second clause, rejecting a
-    flat model with exponentially distributed field sizes, tests a claim
-    the body disclaims ("not that the metric is hyperbolic as against
-    flat"), not the title.
+    "Rat CA1 place cells" in general, "grows" as a law, and anything beyond
+    the twelve sessions. The promote_when moves, unchanged, to a new
+    QUESTION, under ADR-047 v3's rule for replication requests. It asks for
+    a replication on other CA1 recordings or by another group, and for a
+    rejection of a flat model with exponentially distributed field sizes.
+    The second part tests a claim the body disclaims ("Not that the metric
+    is hyperbolic as against flat").
 evidence:
-  - "NOTE-668 (Read in full; Supplementary Information and source data not seen): C1 moderate (12 sessions, 3 data sets, shuffle control); C2 moderate, correlational; C3 moderate."
-blockers:
-  - "No independent analysis of other CA1 recordings, or by another group on the same data, in the record."
+  - "NOTE-668 (Read in full from PMC9829541; Supplementary Information and source data not seen): C1 moderate (12 sessions, 3 data sets, shuffle control); C2 moderate, correlational; C3 moderate."
+  - "The test could reject: it rejected the Euclidean cubes, the shuffled spike trains, and hyperbolic balls of the wrong radius or dimension (THEORY-192, What was actually shown)."
+blockers: []
 notes: >-
-  This is THEORY-191's twin, from the same group and method, and it has
-  the same mis-tiering: empirical, so wave 3. The same split of its
-  promote_when applies. Replication tests the title. The
-  exponential-field-size flat null belongs in a QUESTION about whether the
-  hyperbolic metric is separable from multiscale coding in flat space.
-unlocks: []
+  THEORY-191's twin, by the same group and method, and decided the same
+  way. The radius clause was the one part of the title that read as a law.
+  It is narrowed to "rose with", because the evidence is a correlation in
+  two settings with r = 0.85 and r = 0.50.
+unlocks:
+  - "THEORY-618 extends this entry; it stays Proposed."
 next_action: >-
-  Requeue in wave 3, alongside THEORY-191, under whatever policy the owner
-  sets there for single-study empirical titles.
+  Narrow the title. Move the promote_when, unchanged, to a new QUESTION,
+  shared with THEORY-191's if one QUESTION can hold both: whether the
+  hyperbolic metric is separable from a flat sphere or a flat multiscale
+  code. Promote to Active, with a dated history note appended last. Trim
+  stale inactive-ok directives.

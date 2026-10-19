@@ -1,0 +1,74 @@
+# record/promotion-audit/decisions/THEORY-033.yaml
+id: THEORY-033
+batch: batch-018
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The derivation, as a new Active THEORY sourced to LIT-348. Take a
+    local quadratic model of the loss, an unbiased minibatch gradient of
+    covariance Σ/B, and the greedy optimal step. Then per-step progress is
+    ΔL_max/(1 + B_noise/B) with B_noise = tr(HΣ)/GᵀHG. At fixed B, steps
+    and examples for a given loss decrease satisfy
+    (S/S_min − 1)(E/E_min − 1) = 1, with E_min/S_min equal to the
+    progress-weighted mean of B_noise. B_simple = tr(Σ)/|G|² is the batch
+    at which the batch gradient's expected squared error equals |G|², and
+    it equals B_noise when H ∝ I.
+
+    Re-derivation (ADR-047 v2), checked step by step:
+    1. Let V be the batch gradient, with E V = G and Cov V = Σ/B. To
+       second order, L(θ − εV) = L(θ) − ε GᵀV + ½ ε² VᵀHV.
+    2. Take expectations. E[GᵀV] = |G|², and
+       E[VᵀHV] = GᵀHG + tr(HΣ)/B. So the expected decrease is
+       ΔL(ε) = ε|G|² − ½ ε² (GᵀHG + tr(HΣ)/B).
+    3. Maximising over ε gives ε* = |G|²/(GᵀHG + tr(HΣ)/B) and
+       ΔL* = ½|G|⁴/(GᵀHG + tr(HΣ)/B). Factor out GᵀHG:
+       ΔL* = ΔL_max/(1 + B_noise/B), with ΔL_max = ½|G|⁴/GᵀHG and
+       B_noise = tr(HΣ)/GᵀHG.
+    4. At fixed B, if B_noise is constant, a given total decrease takes
+       S = S_min(1 + B_noise/B) steps, where S_min = (decrease)/ΔL_max.
+       Then E = SB = S_min(B + B_noise), so E_min = lim_{B→0} E =
+       S_min·B_noise. Hence S/S_min − 1 = B_noise/B and
+       E/E_min − 1 = B/B_noise, and their product is 1.
+    5. If B_noise varies over the run, step 4 holds on each short stretch.
+       Summing gives S = S_min + (1/B)·Σ_steps-at-max B_noise. Write
+       ⟨B_noise⟩ for the mean of B_noise weighted by the stretch of loss
+       each step at maximum would cover. Then S/S_min − 1 = ⟨B_noise⟩/B,
+       E_min = S_min⟨B_noise⟩ and E/E_min − 1 = B/⟨B_noise⟩. The
+       hyperbola holds exactly, as NOTE-293 found.
+    6. E|V − G|² = tr(Σ)/B, so E|V − G|²/|G|² = B_simple/B. With H = hI,
+       B_noise = h·tr(Σ)/(h|G|²) = B_simple.
+  excluded: >-
+    The title's "because". The causal reading rests on the assumptions in
+    step 1, which the authors call "unfounded" (a local quadratic and a
+    greedy optimal step), and on the fit. The measured clause, that the
+    noise scale predicts B_crit, stays with THEORY-033, Proposed, and is
+    corrected. Table 1 has it within about 10× on six of eight tasks and
+    about 20× on the SVHN autoencoder and VAE, so "within an order of
+    magnitude" is too strong as written. The promote_when concerns the
+    predictive clause only, and it stays.
+evidence:
+  - "NOTE-293 (Read in full): re-derived eqs. 2.5–2.7 and the hyperbola 2.11 from D.1, which holds exactly even when the noise scale varies. Claims table: C1 moderate (derivation, unfounded assumptions), C2 strong for the form, C3 moderate (experiment; ~10× except two SVHN generative models at ~20×)."
+  - "The re-derivation above, steps 1–6."
+blockers: []
+notes: >-
+  The batch-010 shape in wave 3: a short derivation the source states
+  under explicit assumptions, bundled with a measured claim. The split
+  core's title must carry the assumptions, "under a local quadratic model
+  with the greedy optimal step". Otherwise it says what the authors deny.
+  The title also had a quantifier error of the CLAIM-264 kind, "within an
+  order of magnitude" where two of eight tasks miss by about 20×.
+unlocks:
+  - "None directly. Entries citing THEORY-033 for the hyperbola can cite the new THEORY."
+next_action: >-
+  File a new Active THEORY for the derivation (steps 1–6, with the
+  assumptions in its title), sourced to LIT-348, with the re-derivation as
+  a dated note. THEORY-033 extends it. Its title becomes: "The noise scale
+  B_simple tracks the critical batch size within about 10× on six of
+  eight tasks and about 20× on two generative models, so the
+  noise-to-signal ratio sets the critical batch only as far as the local
+  quadratic model holds". It stays Proposed, with a dated history note
+  appended last.

@@ -1,44 +1,62 @@
 # record/promotion-audit/decisions/THEORY-191.yaml
 id: THEORY-191
-batch: batch-011
+batch: batch-018
 reviewed: '2026-10-19'
-reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 current_status: Proposed
-disposition: retain-proposed
+disposition: narrow-and-promote
 confidence: medium
+supersedes_review:
+  batch: batch-011
+  disposition: retain-proposed
+  reason: >-
+    Batch 011 held the entry only because the record had no route to
+    promote a single empirical study. The owner's rule of 2026-10-19
+    (ADR-047 v3, "What one study counts for") supplies that route.
 scope:
   accepted: >-
-    The title reports what Zhou, Smith & Sharpee measured, in the source's
-    own terms. Four odour sources' Betti curves fall inside a 3D hyperbolic
-    shell's distribution and outside every uniform Euclidean cube tried,
-    and Dravnieks' descriptor profiles fit a full 3D hyperbolic ball.
-    NOTE-672 grades both C1 and C3 moderate. The test could reject, since
-    it rejected the cubes, the shuffles and hyperbolic balls of high
-    dimension.
+    The title, narrowed to the four odour sources measured. In strawberry,
+    tomato, blueberry and mouse-urine volatiles, the rank order of
+    concentration correlations has the Betti-curve signature of points near
+    the boundary of a 3D hyperbolic ball and not of any uniform Euclidean
+    cube tried. Human odour-descriptor profiles for Dravnieks' 127 odorants
+    have that of a full 3D hyperbolic ball. ADR-047 v3's three conditions
+    hold. (1) The narrowed title claims no more than LIT-872 measured, and
+    it keeps the study's hedge: "the Betti-curve signature of", not "is
+    hyperbolic". (2) NOTE-672 read the paper in full, in its own words:
+    every section, both Methods sections and every figure caption. The
+    figures and Supplementary tables S1–S5 were not seen, but the text
+    reports the per-dataset P values the title depends on (P > 0.19 for
+    the shell, P < 0.03 for the cubes). (3) Nothing in the record
+    contradicts the measurement. NOTE-670, QUESTION-025 and THEORY-618 cite
+    it as one test of the hyperbolic hypothesis and agree on its limits,
+    which are the body's "What this does not say".
   excluded: >-
-    The title's general subject, "in natural odour sources", on one study
-    of four sources, with Supplementary tables S1–S5 not seen (NOTE-672's
-    history line). The record has no route to promote a single moderate
-    empirical study on its own reading. There is nothing to re-derive: the
-    claim is a measurement, not a theorem. NOTE-672 says "the equations
-    were followed, not re-derived".
+    "In natural odour sources" as a general subject. Four sources were
+    measured, and the narrowed title says so. The promote_when moves,
+    unchanged, to a new QUESTION, because ADR-047 v3 moves replication
+    requests there. Its two halves are a replication on other odour sources
+    or by another group, and a rejection of flat near-spherical nulls (a
+    2-sphere in Euclidean space, or a flat space with an exponentially
+    distributed scale). The second half tests a claim the body disclaims
+    ("Not that the odour metric is hyperbolic as against a flat sphere").
 evidence:
-  - "NOTE-672 (Read in full, figures and Supplementary Materials not seen): C1 moderate ('four datasets, shuffle control, two scoring rules; the only flat null is a uniform cube'); C3 moderate ('one dataset of 127 odorants')."
-  - "The promote_when has two halves. The replication clause tests the title's generality. The sphere-null clause tests a claim the body disclaims (hyperbolic metric as against a flat sphere), which the title does not make."
-blockers:
-  - "No independent analysis of another odour data set, or by another group, in the record."
+  - "NOTE-672 (Read in full from PMC6114987; figures and Supplementary Materials not seen): C1 moderate (four datasets, shuffle control, two scoring rules; the only flat null is a uniform cube); C3 moderate (one dataset of 127 odorants)."
+  - "NOTE-672's own check: a simulated fitted shell gives a Spearman correlation of about 0.91 between hyperbolic and angular distances, which is the body's reason for disclaiming metric against sphere. This bounds what the title can say; it does not contradict the measurement."
+  - "No entry in the record reports a failed replication or a contrary Betti-curve result for these data (grep of THEORY-191's citers: NOTE-670, NOTE-672, QUESTION-025, QUESTION-027, THEORY-618, LIT-872, curation 2026/10/09/203609 and 2026/10/16/183247)."
+blockers: []
 notes: >-
-  Not a wave-2 entry. Its "mathematics" tag comes from the topology used,
-  but its claim is an empirical measurement, so it belongs in wave 3
-  (source-backed). Half its promote_when is mis-targeted in THEORY-014's
-  way. The sphere-versus-hyperbolic test could move to a QUESTION, and
-  the condition would then ask only for replication. That edit changes no
-  status, so it is left to wave 3, together with the policy question
-  below. THEORY-618 extends this entry and THEORY-192.
-unlocks: []
+  The first promotion under ADR-047 v3. NOTE-672's caveat ("figures and
+  Supplementary Materials not seen") was weighed against v3's "the NOTE on
+  that study read it in full". It passes because the title rests on the
+  text's reported P values and model comparisons, which were read, and not
+  on any figure-only result. A title resting on a supplementary table known
+  only by summary would not pass.
+unlocks:
+  - "THEORY-618 extends this entry; it stays Proposed on its general hypothesis."
 next_action: >-
-  Requeue in wave 3. There, decide the policy for single-study,
-  carefully hedged titles (see batch-011.yaml's owner question). If the
-  owner accepts promoting a moderate single study whose title says only
-  what was measured, narrow the title to "in four natural odour sources",
-  move the sphere-null clause to a QUESTION, and promote.
+  Narrow the title to the four measured sources. Move the promote_when,
+  unchanged, to a new QUESTION related to QUESTION-025. Promote to Active,
+  with a dated history note (appended last) citing this file, batch 018 and
+  ADR-047 v3. Trim THEORY-191 from inactive-ok directives that named it as
+  Proposed.
