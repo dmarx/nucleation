@@ -1,0 +1,86 @@
+# record/promotion-audit/batches/batch-035.yaml
+batch: batch-035
+date: '2026-10-19'
+kind: evidence-audit
+wave: mixed
+record_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+selection: >-
+  Four candidates, run in parallel with batch 034. CLAIM-139 and CLAIM-143
+  (wave 5): the remaining theses CLAIM-238 objects to, after batch 034's
+  CLAIM-033, -077, -087, -105 and -115. THEORY-628 (wave 3): the fifth and
+  last of triage-005's control sample. THEORY-167 (wave 3): pending since
+  batch 021 with no route.
+reviewed: [CLAIM-139, CLAIM-143, THEORY-628, THEORY-167]
+outcomes:
+  retain-proposed: [CLAIM-139, CLAIM-143, THEORY-628, THEORY-167]
+yield: 0 of 4 found a promotion path now. THEORY-167 has a narrow-and-promote path under ADR-047 v3 once a reading task is done.
+title_types:
+  - {code: CLAIM-139, type: argument (four-clause thesis), defeater: comparative null with no margin, plus a necessity negative}
+  - {code: CLAIM-143, type: argument (negated entailment plus exclusive necessity), defeater: usefulness in data, or an impossibility}
+  - {code: THEORY-628, type: argument (conceptual analysis), route: source, route_predicted_outcome: true}
+  - {code: THEORY-167, type: measurement (one analyst's coding of one corpus), route: source (ADR-047 v3)}
+finding: >-
+  Neither CLAIM is a possibility thesis on its text. CLAIM-238 lists
+  CLAIM-139 among the margin-less nulls and CLAIM-143 among the
+  impossibility conditions. CLAIM-238's granted objection still binds
+  CLAIM-139 in full, because CLAIM-139 was never restated. For CLAIM-143
+  it binds only as to studies: CLAIM-239 lets an argument meet the second
+  disjunct. Both rest on Proposed interpretive premises, so both stay with
+  the owner. Quantifier checks found one overstatement, in CLAIM-143's
+  singular, exclusive "only after the correspondence is fixed". A
+  disagreement can be shown to survive every correspondence in an
+  admissible class without fixing any one; differing outcome marginals on
+  a shared context do it under every bijection. THEORY-628, the last
+  of triage-005's control sample, retains, as its source route
+  predicted; the control's tally is for the integrating session, since
+  its other members (THEORY-071, -178, -306, -485) were reviewed in
+  other batches. THEORY-167 is the one source-route entry with a v3 path: its
+  title is a measurement, read in full except for the per-tale schemes
+  that carry its order claim.
+recommendation: >-
+  Review CLAIM-265 next, root first: it is the general form of CLAIM-143,
+  it is unreviewed, and its formal half may split off as demonstrated.
+  Move THEORY-628 to wave 5. Give THEORY-167 a reading task (Propp's
+  schemes from a clean text) before requeueing it. Put CLAIM-139's
+  restate-or-split question to the owner together with batch 034's
+  CLAIM-238 questions, since they share one remedy.
+owner_questions:
+  - "CLAIM-139: restate its defeated_if with an equivalence margin and a prespecified observable set (CLAIM-238's remedy), or split its four clauses (CLAIM-216)?"
+  - "CLAIM-143 and CLAIM-265: restate 'only after the correspondence is fixed' as 'only relative to a specified class of admissible correspondences'?"
+promotion_prs: []
+follow_up_prs: []
+notes_for_ledger:
+  - >-
+    Read CLAIM-238's own lists before calling an objected-to claim a
+    possibility thesis. It sorts its targets into three shapes: nulls
+    with no margin, "can" theses, and impossibility conditions. The
+    remedy differs by shape: a margin, a prevalence claim, or an argument.
+    CLAIM-238's version-2 history names which targets have been restated;
+    a target at version 1 is still bound in full.
+  - >-
+    Exclusive "only" again, in a CLAIM (CLAIM-143). Test a singular
+    "after X is fixed" against quantifying over a class of X. Here a
+    disagreement can survive every admissible correspondence, so the
+    claim holds only with "a class of correspondences" in place of "the
+    correspondence".
+  - >-
+    THEORY-628's outcome matches triage-005's route (source, retained).
+    With it the control sample (THEORY-071, -178, -306, -485, -628) is
+    fully reviewed; tally it against the route when integrating. The
+    queue also marks THEORY-176 `control: true`, though triage-005's
+    control list does not name it; reconcile. Arguments filed as THEORYs
+    go to wave 5.
+  - >-
+    A record-built toy model does not meet a promote_when that asks for a
+    worked case of a conceptual distinction (THEORY-628). It builds the
+    distinction in by construction. ADR-047 v2 covers proofs, not
+    constructed cases.
+  - >-
+    A coded-corpus result is a measurement under batch 020's rule, and
+    ADR-047 v3 can apply (THEORY-167). Check that the coding data, not
+    only its summary, is in the text read. Propp's per-tale schemes were
+    garbled in the OCR and unread, and they carry the order claim.
+  - >-
+    THEORY-167's Source line understates NOTE-615's reading (it names
+    four chapters; the NOTE read all nine). Fix it when the entry is
+    next edited.

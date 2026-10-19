@@ -1,0 +1,68 @@
+# record/promotion-audit/batches/batch-031.yaml
+batch: batch-031
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+selection: >-
+  The first five of triage-005's ranked wave-3 entries on the source route,
+  in its order: THEORY-073, THEORY-115, THEORY-116, THEORY-216, THEORY-223.
+  Batch 020's sort rule was applied first. A theorem goes to re-derivation,
+  a measurement read in full goes to ADR-047 v3, and an argument is
+  retained for wave 5. Run in parallel with other batches.
+reviewed: [THEORY-073, THEORY-115, THEORY-116, THEORY-216, THEORY-223]
+sort:
+  THEORY-073: argument (a conceptual critique of Markov-blanket individuation)
+  THEORY-115: measurement, generalised across three studies
+  THEORY-116: theorem class, but the proved direction is the converse of the title
+  THEORY-216: measurement, one study read in full
+  THEORY-223: argument (an architectural argument with anecdotes)
+outcomes:
+  narrow-and-promote: [THEORY-216]
+  retain-proposed: [THEORY-073, THEORY-115, THEORY-116, THEORY-223]
+yield: 1 of 5 found a promotion path (THEORY-216, under ADR-047 v3)
+finding: >-
+  The sort rule predicted every outcome. The two arguments (THEORY-073,
+  THEORY-223) have no route. The one measurement whose title could be
+  narrowed to a single study read in full (THEORY-216) promotes. The
+  measurement that generalises across studies (THEORY-115) does not: its
+  key results are plots known through captions, and its own body says the
+  breakage it claims is mostly endpoint forgetting. THEORY-116 sorted as
+  a theorem, but the theorem its sources prove is the converse of its
+  title, and that converse is already Active as THEORY-732 (iii). Source-
+  route yield follows the sort class, not triage-005's score: all five
+  scored 6.
+recommendation: >-
+  For the rest of triage-005's source route (THEORY-324, -351, -411, -490,
+  -560, -593), sort before reading. Send arguments to wave 5 without a
+  full review. For theorem-class entries, check first which direction
+  the source proves against the title's direction, and whether an Active
+  split already holds it. For measurements, check the NOTE's history line
+  for "captions" and the title for a generalisation across studies.
+owner_questions: []
+promotion_prs:
+  - "#223: THEORY-216 narrowed and promoted (branch claude/promote-theory-216)."
+follow_up_prs:
+  - "THEORY-216: narrow-and-promote under ADR-047 v3. Narrow to the 2017 log and recovered coalitions; keep 'barely predictable' relative to the four features; turn 'lasting artworks are those ...' into an existence clause; move the promote_when to a new QUESTION related to QUESTION-093; restate CLAIM-273's first bullet; trim THEORY-216 from eight inactive-ok directives."
+notes_for_ledger:
+  - >-
+    Sort class predicted all five outcomes in batch 031: two arguments
+    retained, one single-study measurement promoted under v3 (THEORY-216),
+    one cross-study generalisation retained (THEORY-115), one theorem-class
+    entry retained (THEORY-116). Triage-005 scored all five at 6, which carried no
+    information.
+  - >-
+    A theorem-class title can state the direction its source does not
+    prove (THEORY-116: the title is LIT-669's Conjecture 1; App. F.3 proves
+    the converse). Check direction before re-deriving, and grep the Active
+    THEORYs for the converse. Here THEORY-732 (iii) already holds it.
+  - >-
+    When a narrowing excludes a universal clause, grep the dependents'
+    bodies for that clause, not only their grounds. CLAIM-273 cites
+    THEORY-216 for "the lasting artworks are the ones whose coalitions keep
+    placing under overwriting", which the narrowing drops, so its bullet is
+    restated in the same PR.
+  - >-
+    Queue: THEORY-073 and THEORY-223 move to wave 5 (argument class).
+    THEORY-115 and THEORY-116 stay retained in wave 3. THEORY-216 is
+    decided, narrow-and-promote.

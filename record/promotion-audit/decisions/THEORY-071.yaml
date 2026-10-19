@@ -1,0 +1,34 @@
+# record/promotion-audit/decisions/THEORY-071.yaml
+id: THEORY-071
+batch: batch-033
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is a conceptual analysis: three conditions,
+    each argued necessary from intuitive cases (Table 1 of LIT-566), and
+    joint sufficiency claimed only as the authors' failure to conceive of
+    a counterexample. "Individuality without the other two is not agency"
+    holds on the account by definition, and the cases that illustrate it
+    (osmosis, the warmed kitten, the tremor) are the cases the definition
+    was built from. The asymmetry criterion is incomplete by the authors'
+    own account: where parameters end and variables begin is the
+    modeller's choice. Levin's account (THEORY-583) is a filed rival that
+    disagrees about the homeostat.
+evidence:
+  - "NOTE-458 version 1: read in full (§§1–6, Table 1, Figure 1, footnotes 1–4)."
+  - "THEORY-071's 'What was actually shown' opens: 'The paper argues from cases. It does not measure anything.'"
+  - "THEORY-071's summary: 'a conceptual analysis checked against intuitive cases, with an asymmetry criterion its authors call incomplete'."
+blockers:
+  - "The promote_when asks for measures of closure and normativity and a modeller-independent asymmetry criterion, applied mechanically to explicit models. None exists. The account has a live rival, THEORY-583."
+notes: >-
+  The title asserts an argument (batch 020's sort rule). There is no
+  theorem: the generative definition implies the three conditions, but
+  that is the definition unpacked, not a result about anything. Nor is
+  there a measurement. The entry belongs in wave 5.
+unlocks: []
+next_action: None. Move to wave 5 in the queue.

@@ -1,0 +1,76 @@
+# record/promotion-audit/decisions/THEORY-216.yaml
+id: THEORY-216
+batch: batch-031
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The title narrowed to what LIT-1032 measured on the 2017 r/place log,
+    with coalitions recovered from co-placement and segmentation. Proposed
+    title: "On the 2017 r/place log, with coalitions recovered from
+    co-placement, which coalitions survive is barely predictable early from
+    their size, area, start time and colour entropy, the size distribution
+    of recovered coalitions shifts toward large ones as the event proceeds,
+    and some lasting artworks were held by coalitions that kept working
+    under sustained overwriting". It rests on one study, read in full in
+    NOTE-724. ADR-047 v3 applies. The narrowed title claims no more than
+    the study measured and keeps its hedges, and nothing in the record
+    contradicts it. Its three clauses:
+
+    (1) Low early predictability (NOTE-724 C5, moderate). A balanced
+    decision tree on four coalition-state features, over 219,217
+    observations at 100 random snapshots, gives F1 0.09 in the first 48
+    hours and 0.67 later (§6.3, Table 2). Random forests, SVMs and Gaussian
+    processes do no better, and stricter success thresholds make it worse
+    (App. A.4). The numbers are in the text and in Table 2, which NOTE-724
+    read against the layout extraction, so batch 019's caption rule is met.
+    "Barely predictable" is kept relative to the four named features, as
+    the body requires.
+
+    (2) Consolidation (C4, weak to moderate). The size distribution of
+    recovered coalitions shifts toward larger ones at 24, 48 and 72 hours
+    (§6.2, Fig. 7). The text states it, though not as a number. The
+    narrowing says "recovered coalitions", not "participants", because the
+    recovery is validated only against final artworks (ARS 0.42).
+
+    (3) Persistence under attack, in existence form only (C6, weak). In
+    the text of §6.4, "successful initiatives (e.g., r/AmericanFlaginPlace)
+    remained active despite sustained overwrite pressure throughout their
+    lifecycles". One documented instance settles an existence claim
+    (NOTES, batch 008; THEORY-171, CLAIM-328).
+  excluded: >-
+    The universal "lasting artworks are those whose coalitions keep working
+    under continual overwriting". It rests on ten chosen lifecycles, and no
+    population measure is given (THEORY-216, 'What this does not say').
+    "Participants consolidate", which reads the recovered coalitions as
+    memberships. The promote_when, (a) the population share of lasting
+    artworks with sustained repair and (b) whether interaction features
+    restore early predictability, moves unchanged to a new QUESTION,
+    related to QUESTION-093 and to NOTE-724's open questions.
+evidence:
+  - "NOTE-724 version 1: 'Read in full from the arXiv PDF, v3 ... Read: main text, Tables 1–2, all appendices (A.1–A.4), figure captions.' Quotations checked by script against the extracted text."
+  - "NOTE-724 claims table: C4 weak to moderate, C5 moderate, C6 weak (ten illustrated lifecycles)."
+  - "Nothing contradicts it. THEORY-214 (LIT-1025, 2022 data) predicts imminent overthrow from fine dynamics. THEORY-216's body explains why the two do not conflict, and THEORY-214's 'safe through neglect' compositions bear only on the excluded universal clause."
+blockers: []
+notes: >-
+  Batch 020's sort rule puts this in the measurement class. It is the
+  second v3 case in wave 3 after THEORY-295, and the same shape: one
+  study read in full, a title whose only overreach is a generalisation
+  the body itself disclaims. Dependents: CLAIM-273's first bullet cites
+  THEORY-216 for the excluded universal ("the lasting artworks are the
+  ones whose coalitions keep placing under overwriting"). The promotion
+  PR should restate that bullet in the existence form and point to the
+  new QUESTION for how common it is. CLAIM-274 cites only consolidation
+  and the under-7% survival figure, and CLAIM-280 grounds on the
+  existence form, so both stand. CLAIM-272 cites only NOTE-724's
+  cooldown figures. Each is Proposed, so the promotion does not by
+  itself unlock any of them.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR: retitle as above; move the promote_when to a new
+  QUESTION; restate CLAIM-273's first bullet in the existence form; trim
+  THEORY-216 from the inactive-ok directives in NOTE-724, CASE-078,
+  QUESTION-085, CLAIM-273, CLAIM-274, LIT-1032, THEORY-224 and THEORY-218.

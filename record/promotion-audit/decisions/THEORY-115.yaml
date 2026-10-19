@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/THEORY-115.yaml
+id: THEORY-115
+batch: batch-031
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It generalises across three studies to a necessary
+    condition ("holds only when the objectives ... share structure") and
+    a dose–response ("breaks as that structure is removed"). The body's
+    own first disclaimer undercuts the second clause. Mirzadeh et al. plot
+    raw loss along the line, not loss above the endpoints' mean. So most
+    of the measured breakage is forgetting already present at the
+    endpoint, not a barrier, and "the evidence that losing structure
+    creates a barrier between them is much thinner than the plots
+    suggest". "Shared structure" is varied by manipulations but never
+    measured.
+evidence:
+  - "NOTE-520 (LIT-651), version 1: 'Read in full ... Figures (interpolation curves, loss planes, Hessian overlaps) were read from captions and the text that describes them. Table 1 is the only table of numbers', and Table 1 is MC-SGD's accuracy, not the connectivity result. So the connectivity and breakage results are known only through captions and prose, which ADR-047 v3 does not count (batch 019)."
+  - "NOTE-515 (LIT-658) and NOTE-524 (LIT-681): read in full, with figures through captions and text."
+  - "The 'only when' was tested against the body's own counter-case. Zhou et al.'s FedAvg barrier (LIT-666) under one fixed objective grows with heterogeneity. It comes from a random start, so the body correctly says it does not refute the title. But it shows that how the objective is optimised moves the barrier, which the title's 'only' leaves out."
+blockers:
+  - "The promote_when's dose–response test (barrier above the endpoints' mean, graded overlap, an SGD-noise control, beyond MNIST scale) is not in the record, and nothing held measures a barrier rather than endpoint forgetting."
+  - "ADR-047 v3 does not apply. The title generalises past each study, and the key results are known through captions."
+notes: >-
+  Batch 020's sort rule puts this in the measurement class, but the title
+  is a generalisation, not a hedged report of one study. A narrowing to
+  what was measured is possible in principle: from a trained task-1
+  solution, the multitask solution stays on a low task-1-loss line and the
+  continual one does not (LIT-651, Rotated MNIST and Split CIFAR-100). It
+  would drop the title's whole thesis, the "only when", and it rests on
+  plots read through captions. So it was not proposed. Also, the
+  connected half for fine-tuning from one pretrained start is already
+  THEORY-105's subject. The anthology-candidate flag stands. Loss
+  landscapes are the anthology's ground, and a re-filing there is the
+  owner's call, not the audit's.
+unlocks: []
+next_action: None. Leave in wave 3 as retained; no PR.

@@ -1,0 +1,65 @@
+# record/promotion-audit/decisions/CLAIM-139.yaml
+id: CLAIM-139
+batch: batch-035
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing is promoted, and no correction is owed by the audit. The
+    warrant stays interpretive under ADR-043 v2: the present support is
+    the exchange's argument (A203, A214, A218), no study has been run, and
+    the entry itself says its ontological clause "must be defended through
+    argument" and is not tested by the programme. The defeat condition
+    being observational is not a reason to relabel it.
+  excluded: >-
+    The whole thesis. Quantifier check: the title is a universal over
+    communicative kinds ("A communicative kind's identity is grounded in
+    its relational organization"), in four clauses. It is not a
+    possibility thesis. CLAIM-238 lists it under "Nulls with no margin",
+    not under the "can" theses: its first defeat disjunct is that human
+    judgements are "predicted as well by" topic, embedding or surface
+    similarity, a null with no equivalence margin, no power and an
+    observable set the thesis may re-choose. Its third disjunct ("no
+    relational structure beyond the observed response profiles is needed")
+    is an explanatory-necessity negative that no finite study meets, which
+    is CLAIM-238's impossibility shape. CLAIM-238's version-2 history
+    restates the conditions of CLAIM-033, -087, -105 and -117 and adds
+    margins in CLAIM-220, -202 and -204, but CLAIM-139 is at version 1 and
+    has not been restated, so the granted objection still holds against
+    it in full.
+evidence:
+  - "History: none. Version 1, filed 2026-10-10; no restatement since CLAIM-238 (Active, granted, demonstrated) was filed."
+  - "rests_on: CLAIM-151 (retain-proposed, batch 022), CLAIM-142, CLAIM-135, CLAIM-050, CLAIM-077 (needs-correction, batch 001), all Proposed and interpretive."
+  - "objected_by, Active: CLAIM-140 (granted), CLAIM-211 (granted), CLAIM-222 (counter, demonstrated), CLAIM-232 (counter), CLAIM-233 (granted), CLAIM-238 (granted), CLAIM-247 (granted). Proposed: CLAIM-206, -216, -244. Rejected: CLAIM-246."
+  - "CLAIM-222, CLAIM-232 and CLAIM-233 each object to the defeat tests themselves: no interlingual translation in any design, shared method variance between predictor and criterion, and baselines no rival account holds."
+blockers:
+  - "Five Proposed interpretive premises, one of them (CLAIM-151) already retained and one (CLAIM-077) awaiting a warrant correction."
+  - "Seven Active objections, three of them against the defeat tests, which the entry has not answered."
+  - "The defeat condition has no margin, no prespecified observables and no power (CLAIM-238), so no study could meet it as written."
+notes: >-
+  Weighing CLAIM-238's granted objection: it does not say the thesis is
+  false, and it is not a reason to retire it. It says the thesis's own
+  defeat condition cannot be met, so even a programme run in full would
+  leave the credence where it is. The remedy CLAIM-238 names (a margin
+  and a prespecified set of observables and weights) is the owner's, as
+  is CLAIM-216's proposal to split the four clauses into separate theses.
+  The directive described CLAIM-139 as a possibility thesis; on the text
+  it is a comparative null plus a necessity negative, so the "can"
+  analysis batch 034 applies to CLAIM-033, -087 and -105 does not carry
+  over.
+owner_questions:
+  - >-
+    Restate CLAIM-139's defeated_if with an equivalence margin and a
+    prespecified observable set (CLAIM-238's remedy, already applied to
+    CLAIM-033, -087, -105 and -117), or split it into its four clauses
+    (CLAIM-216)? Either is a change to an interpretive thesis, so the audit
+    does not make it.
+unlocks: []
+next_action: >-
+  None. Requeue after the owner restates or splits it, or after its
+  premises are decided root first (CLAIM-151 is retained; CLAIM-142,
+  CLAIM-135 and CLAIM-050 are undecided).

@@ -1,0 +1,90 @@
+# record/promotion-audit/decisions/THEORY-178.yaml
+id: THEORY-178
+batch: batch-033
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The title narrowed to the model it was shown in. In an ensemble of
+    sign-consistent synchronous Boolean rules on the 87-gene core of
+    E. coli's regulatory network, a transient knockout or overexpression
+    of one gene can leave the network in a different attractor after
+    release. Every gene that did so in that ensemble reaches a strongly
+    connected component containing a positive circuit. It rests on one
+    study, LIT-854, read in full in NOTE-655: main text, Methods and the
+    Supplementary Text, including its sections on the nodes without
+    irreversibility and on the necessity of positive circuits. ADR-047 v3
+    applies. The narrowed title claims no more than the study shows, and
+    nothing in the record contradicts it. Its numbers are in the text, not
+    only in the figures (batch 019's rule). The Supplementary Text names
+    the 36 genes that are never irreversible: 32 leaves, and metJ, pdhR,
+    argP and nac, whose only output is an autorepressive leaf.
+
+    It has two parts.
+
+    (1) An existence claim. In the model, 51 of the 87 core genes admit an
+    irreversible perturbation for some rules (NOTE-655 C1: strong for the
+    model ensemble, with a convergence check). One instance settles a
+    "can" (NOTES, batch 008).
+
+    (2) The positive-circuit condition, as measured in this network. The
+    review tried to re-derive it as a general theorem under ADR-047 v2.
+    It does not hold in general for synchronous dynamics, so it is stated
+    for the ensemble only. A counterexample:
+      (a) Take a negative 2-cycle, a → b and b ⊣ a, with a' = ¬b and
+          b' = a. Every state lies on one period-4 cycle:
+          (0,0) → (1,0) → (1,1) → (0,1) → (0,0).
+      (b) Add an independent copy (c, d) elsewhere in the network. The
+          joint network has four attractors, one for each phase offset
+          between the two cycles.
+      (c) Clamp a for a step and release it. The (a, b) cycle resumes at
+          a shifted phase while (c, d) keeps its own, so the network ends
+          on a different joint attractor. Yet a reaches only {a, b}, which
+          holds no positive circuit.
+    So necessity needs more than Thomas's rule: it needs that no gene
+    outside the reach of positive circuits sits on a free negative
+    oscillator. The paper silences autorepression to remove the simplest
+    case, a negative self-loop. In this core the condition holds, because
+    the 36 genes without irreversibility are leaves or feed only silenced
+    autorepressive leaves. The measured statement is therefore true of
+    this network, and that is the scope accepted.
+  excluded: >-
+    "A bacterium's gene-expression state", that is, cells. No transient
+    perturbation was done in cells (NOTE-655 C8 is untested). The one
+    comparison with data is evolution under a permanent crp knockout,
+    which needs no multistability (C6), and its irreversibility test is
+    weak (C7, P = 0.03 on comparison groups of 2 and 8 genes). Also
+    excluded: "only through a gene that reaches a positive circuit" as a
+    general law (see the counterexample above), and the persistence of
+    the model's states under noise and division, which the authors expect
+    to be long-lived rather than permanent. The promote_when, a transient
+    CRISPRi perturbation in cells with slow return excluded (THEORY-136's
+    standard), moves unchanged to a new QUESTION, together with NOTE-655's
+    first open question.
+evidence:
+  - "NOTE-655 version 1: read in full from PMC11352831, with the Supplementary Text and Tables S1–S3 from arXiv 2409.04513v1. Figures from captions only. The HillCube analysis was read in outline, and nothing was re-run."
+  - "NOTE-655 claims table: C1 strong for the model ensemble; C2 strong (argument plus simulation), with Thomas's rule cited, not proved; C8 untested."
+  - "THEORY-178's 'What this does not say' already disclaims observation in cells and the 51 genes' behaviour in cells. The narrowing writes those limits into the title."
+  - "Citers: CLAIM-184 (grounds) reads it as 'in the one regulatory network studied, a lasting state needs a positive circuit', which the narrowed title still supports. NOTE-655 and LIT-854 are its only other record citers."
+blockers: []
+notes: >-
+  Batch 020's sort rule puts this title with the measurements. Its form
+  is a hedged existence claim ("can"), its evidence is a model run, and
+  its overreach is the step from the model to cells. That is THEORY-295's
+  shape, so the narrowing follows THEORY-295's: name the model in the
+  title. The re-derivation attempt is recorded because it changed the
+  narrowed wording. The paper's necessity argument is stated as general,
+  but a free negative oscillator defeats it under synchronous updating.
+  A phase-shifted negative cycle should be checked whenever a Boolean
+  attractor claim leans on Thomas's rule. Triage-005 routed this entry to
+  source with empirical_hedged 0, so it predicted no yield.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR: retitle to the model ensemble and to the
+  positive-circuit condition as measured in this network; move the
+  promote_when to a new QUESTION; add a dated note with the
+  phase-shift counterexample; trim the inactive-ok entries naming
+  THEORY-178 (NOTE-655).

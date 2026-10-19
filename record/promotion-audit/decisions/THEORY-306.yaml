@@ -1,0 +1,77 @@
+# record/promotion-audit/decisions/THEORY-306.yaml
+id: THEORY-306
+batch: batch-033
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The title narrowed to what is exact and what was measured. MSN's
+    objective penalizes unequal cluster sizes explicitly, and SwAV's
+    enforces equal sizes. In one study with mini-batches of two to eight
+    ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of
+    ImageNet linear accuracy, while MAE and data2vec lost under one.
+
+    It has two parts.
+
+    (1) The explicit prior, checked by inspection; no limit argument is
+    needed.
+      (a) MSN's regularizer is the entropy of the batch-mean assignment
+          p̄ over K prototypes. Then
+          D_KL(p̄ ‖ U_K) = Σ_k p̄_k log(p̄_k K) = log K − H(p̄),
+          so −H(p̄) = D_KL(p̄ ‖ U_K) − log K. Maximizing H(p̄) minimizes
+          the KL from the soft cluster sizes p̄ to uniform. That is
+          LIT-231's footnote 2. Proposition 3 sharpens it to hard
+          cluster sizes at zero temperature, and the claim needs only
+          the identity.
+      (b) SwAV's Sinkhorn–Knopp step projects the assignment matrix onto
+          the polytope whose row sums are equal, N/K for each prototype
+          (Eq. 8). Equal soft cluster sizes are a constraint of the
+          method. Proposition 4 adds nothing the definition lacks.
+    (2) The measurement. ADR-047 v3 applies: one study, LIT-231, read in
+    full in NOTE-850, with every number stated in the text tables
+    (Tables 10 and 11; NOTE-850 checked Table 1 against Tables 5–11 cell
+    by cell). ImageNet-1K linear accuracy, imbalanced minus balanced:
+    SimCLR −11.1, MSN −17.7, VICReg −17.7; data2vec −0.8, MAE −0.1.
+    The runs are single, but a gap of 11 points or more between the two
+    groups, under the same sampling, is far beyond what seed variance
+    could produce. The title is hedged to "in one study" and to the
+    tested methods and batch composition.
+  excluded: >-
+    "Volume-maximizing joint-embedding objectives carry a prior" as a
+    claim about the class. For VICReg the prior rests on Proposition 2,
+    which applies to a simplified loss with γ ≫ α, has an informal last
+    step, and relies on a cited tendency of K-means toward equal
+    clusters. For SimCLR it rests on a cited equivalence (NOTE-850 C3,
+    C4: weak). Also excluded: that the prior causes the drops, since the
+    methods differ in architecture and data2vec avoids collapse by other
+    means; any claim about natural long tails (C7: weak); and the
+    iNat18 prior-matching gains, which are single runs of 1 to 3 points.
+    The promote_when (a derivation for the losses as used, and a
+    natural-long-tail experiment at one architecture with seeds) moves
+    unchanged to a new QUESTION.
+evidence:
+  - "NOTE-850 version 1: read in full from arXiv 2210.07277v1, including Appendix C's proofs and the full results tables (Tables 5–11). Only the prototype and nearest-neighbour images were read from captions."
+  - "NOTE-850 claims table: C1 strong (MSN), C2 strong (SwAV), C3 weak (VICReg), C4 weak (SimCLR), C5 moderate (the imbalance effect, one run per cell), C7 weak (natural long tails)."
+  - "NOTE-850 Key results: ImageNet-1K imbalanced minus balanced, SimCLR −11.1, MSN −17.7, VICReg −17.7, data2vec −0.8, MAE −0.1 (Table 10)."
+  - "THEORY-306's own 'What this does not say' disclaims equal establishment across methods, natural imbalance and isolation of the volume term. The narrowing writes those limits into the title."
+  - "Citers: QUESTION-132 names THEORY-306 as open in an inactive-ok directive and does not rest on it. NOTE-850 and LIT-231 are its only other record citers."
+blockers: []
+notes: >-
+  The title bundles a formal half and a measured half, and batch 020's
+  sort rule takes each by its own route. The formal half needed no
+  re-derivation beyond a one-line identity, because the prior is
+  explicit in MSN's and SwAV's definitions. The record's support is
+  weakest for VICReg's prior, and that is the part dropped. LIT-231
+  already carries anthology-candidate, and this narrowing does not change
+  the boundary question. No practice instruction enters the title.
+  Triage-005 routed this entry to source with empirical_hedged 0, so it
+  predicted no yield.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR: retitle to MSN's and SwAV's explicit prior and
+  the single-study imbalance measurement; move the promote_when to a new
+  QUESTION; add a dated note with the KL identity; trim the inactive-ok
+  entries naming THEORY-306 (NOTE-850, QUESTION-132).

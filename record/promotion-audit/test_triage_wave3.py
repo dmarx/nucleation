@@ -1,5 +1,5 @@
 # record/promotion-audit/test_triage_wave3.py
-"""Tests for triage_wave3.py: eligibility, the bundling overlap, reading depth, the control."""
+"""Tests for triage_wave3.py: eligibility, the bundling overlap, reading depth, the formal flag, the control."""
 import sys
 from pathlib import Path
 
@@ -118,13 +118,14 @@ def test_firsthand_flags_negative_phrases() -> None:
     assert t3.firsthand("Lemma 1 is proved in Appendix B.") == 1
 
 
-def test_formal_needs_a_formal_title_and_a_shown_result() -> None:
+def test_formal_needs_two_signals() -> None:
+    # triage-006: the title keywords are one signal of four; two are needed
     shown_proof = "Theorem 1 is proved in Section 3; the bound is derived."
     assert t3.formal("An optimal nearest-neighbour bound holds in the unit cube", shown_proof) == 1
     assert t3.formal("The top C eigenvalues are carried by the class means", shown_proof) == 1
-    # a formal-sounding title with nothing proved in the shown section
+    # a formal-sounding title alone (THEORY-590, -690 in batch 026)
     assert t3.formal("The Bayes-optimal denoiser recovers the class below a threshold", "Simulations agree.") == 0
-    # a proof mentioned, but the title states no formal result
+    # a theorem cited and nothing else
     assert t3.formal("Platform decay is caused by weakened constraints", shown_proof) == 0
 
 
@@ -145,4 +146,79 @@ def test_score_rows_route_formal_entries(tmp_path: Path) -> None:
     assert by["THEORY-001"]["route"] == "re-derivation"
     assert by["THEORY-002"]["route"] == "source"
     assert by["THEORY-001"]["rubric"]["formal"] == 1
-    assert by["THEORY-001"]["triage"] == "triage-005"
+    assert by["THEORY-001"]["triage"] == "triage-006"
+    assert by["THEORY-001"]["formal_signals"] == ["title", "cites"]
+    assert by["THEORY-002"]["rubric"]["formal_score"] == 0
+
+
+def note_with_claims(root: Path, n: int, paper: str, v1: str, rows: list[str]) -> None:
+    table = "| id | claim | strength | support |\n|---|---|---|---|\n" + "\n".join(rows) + "\n"
+    entry(
+        root / "notes.d" / f"NOTE-{n:03d}.md",
+        {"number": n, "status": "Read", "paper": paper,
+         "history": [{"version": 1, "date": "2026-10-01", "note": v1}]},
+        f"\n# NOTE-{n:03d}\n\n## Claims\n\n{table}\n## Method\n\nproved, read in full.\n",
+    )
+
+
+def test_theorem_citation() -> None:
+    assert t3.cites_theorem("The drift is Theorem 1 of the paper.")
+    assert t3.cites_theorem("Theorems 3-4 give the rate; Lemma 2.1 the constant.")
+    assert t3.cites_theorem("Proposition VI is Spinoza's.")
+    assert not t3.cites_theorem("A theorem in general position; the main lemma.")
+
+
+def test_relation_needs_symbols_not_settings() -> None:
+    assert t3.relations("Itô gives d(u - w)/dt = -T(uCu - wCw), so u = Pi(w).") == 2
+    assert t3.relations("The bias is exp_x(log(b)) and ‖x‖ stays below one.") == 1
+    # parameter settings and arrows are not equations
+    assert t3.relations("Runs at d = 6 and N = 1000, with L ≤ 4; input -> output.") == 0
+
+
+def test_evidence_drops_disclaimer_connections_and_comments() -> None:
+    body = ("<!-- Theorem 9 -->\n## What was actually shown\n\nA = B.\n\n"
+            "## What this does not say\n\nTheorem 2.\n\n## Connections\n\nLemma 3.\n")
+    ev = t3.evidence(body)
+    assert "A = B" in ev
+    assert not t3.cites_theorem(ev)
+
+
+def test_note_derived_needs_the_word_and_the_mark(tmp_path: Path) -> None:
+    note_with_claims(tmp_path, 1, "LIT-001", "Read in full from the PDF.",
+                     ["| C1 | The bound | strong | Theorem 2, proved in Appendix A |"])
+    note_with_claims(tmp_path, 2, "LIT-002", "Read from the PDF, sections 1-2.",
+                     ["| C1 | The bound | strong | Theorem 2, proved in Appendix A |",
+                      "| C2 | The rate | strong | derivation followed step by step |"])
+    note_with_claims(tmp_path, 3, "LIT-003", "Read in full.",
+                     ["| C1 | The bound | strong | Theorem 2, not re-derived |"])
+    note_with_claims(tmp_path, 4, "LIT-004", "Read from the PDF.",
+                     ["| C1 | The bound | strong | Theorem 2, proved |"])
+    derived = t3.lit_derived(tmp_path)
+    assert derived == {"LIT-001", "LIT-002"}
+    assert t3.theory_derived(["LIT-004", "LIT-002"], derived) == 1
+    assert t3.theory_derived(["LIT-003", "LIT-004"], derived) == 0
+
+
+def test_formal_from_the_body_alone() -> None:
+    # THEORY-211's shape: no formal word in the title, a cited theorem and an equation in the body
+    title = "Along a rescaling symmetry, minibatch noise drives SGD to a balance"
+    body = "The drift d(u - w)/dt = -T(uCu - wCw) is Theorem 1."
+    assert t3.formal_score(title, body) == 2
+    assert t3.formal(title, body) == 1
+    assert t3.formal(title, "Simulations agree.", derived=1) == 0
+    assert t3.formal(title, "Theorem 1 is proved.", derived=1) == 1
+
+
+def test_philosophical_title_is_penalised() -> None:
+    body = "Theorem 1 is proved."
+    assert t3.philosophical("The argument from duality should be rejected") == 1
+    assert t3.philosophical("An exact bound holds") == 0
+    assert t3.formal_score("An exact bound holds", body) == 2
+    assert t3.formal_score("An exact account of the bound", body) == 1
+    assert t3.formal("An exact account of the bound", body) == 0
+
+
+def test_precision_recall() -> None:
+    pairs = [(1, 1), (1, 1), (1, 0), (0, 1), (0, 0)]
+    assert t3.precision_recall(pairs) == {"tp": 2, "fp": 1, "fn": 1, "tn": 1,
+                                          "precision": 0.67, "recall": 0.67}

@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/THEORY-073.yaml
+id: THEORY-073
+batch: batch-031
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is a conceptual argument: a blanket "presupposes
+    the boundary it is used to find" and "cannot represent a boundary the
+    system produces". Its formal core, that the partition takes the
+    internal set as input, is already THEORY-066's. What this entry adds is
+    a reading of practice (the soup's three modelling choices, the
+    placements in three published applications) and a philosophical
+    conclusion drawn from it. Nothing is measured, and the conclusion is an
+    argument that the free-energy literature disputes.
+evidence:
+  - "NOTE-447 (LIT-603) and NOTE-450 (LIT-598) read the cited sections; NOTE-421 read LIT-526. The soup re-run (LIT-603 §4.2) is evidence about one simulation, as the body says."
+  - "The body's own 'What this does not say' leaves the later steady-state formulations unsettled. They are known only through the critiques' summaries."
+  - "The promote_when asks about the sparse-coupling definition at nonequilibrium steady state (Friston 2019 and later) and Ramstead et al. 2020. The record holds neither."
+blockers:
+  - "The promote_when's test needs the later formulations, which the record does not hold. The title is an argument, which no audit route can promote (batch 020's sort rule): route it to wave 5."
+notes: >-
+  Batch 020's sort rule puts this in the argument class. Its first clause
+  ("where it falls is fixed by modelling choices") could be read as a
+  formal claim, but in that form it is THEORY-066, which the entry
+  extends. The rest ("presupposes", "cannot represent a boundary the
+  system produces") is interpretive. ADR-047 v3 does not apply, since no
+  measurement is claimed. The soup's three choices are documented
+  (LIT-603 §4.2) and could ground an existence claim, that one published
+  blanket demonstration rests on unstated modelling choices. NOTE-447
+  already holds that reading, so it is not a core worth splitting.
+unlocks: []
+next_action: Requeue to wave 5 (argument class). No PR.

@@ -1,0 +1,115 @@
+# record/promotion-audit/batches/batch-033.yaml
+batch: batch-033
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+selection: >-
+  THEORY-593, the last of triage-005's ranked source-route list, then
+  triage-005's control sample in code order: THEORY-071, THEORY-178,
+  THEORY-306, THEORY-485. Sorted by batch 020's rule (theorem to
+  re-derivation, measurement to ADR-047 v3, argument to wave 5). The
+  warrant rule is ADR-043 v2's: warrant records present support.
+reviewed: [THEORY-593, THEORY-071, THEORY-178, THEORY-306, THEORY-485]
+outcomes:
+  narrow-and-promote: [THEORY-178, THEORY-306]
+  retain-proposed: [THEORY-593, THEORY-071, THEORY-485]
+yield: 2 of 5 found a promotion path (THEORY-178 and THEORY-306, both under ADR-047 v3); the ranked entry did not yield, and the control went 2 of 4
+control:
+  # Triage-005 routed all four control entries to source, which its
+  # backtest associated with no yield. "Predicted" means the route flag
+  # would have predicted this outcome.
+  - code: THEORY-071
+    title_asserts: argument
+    outcome: retain-proposed
+    route: source
+    predicted: true
+    why: A conceptual analysis argued from intuitive cases; nothing measured, nothing to re-derive.
+  - code: THEORY-178
+    title_asserts: measurement
+    outcome: narrow-and-promote
+    route: source
+    predicted: false
+    why: >-
+      A model-ensemble result in hedged existence form, read in full, with
+      numbers in the text. That is THEORY-295's ADR-047 v3 shape.
+      empirical_hedged scored 0 because the title is about cells and names
+      no contrast. It is the model, not the title's wording, that carries
+      the measured signature.
+  - code: THEORY-306
+    title_asserts: measurement (with an exact half)
+    outcome: narrow-and-promote
+    route: source
+    predicted: false
+    why: >-
+      A compound title. One half holds by a one-line identity (MSN's and
+      SwAV's explicit prior), and the other is a single-study measurement
+      read in full, against an explicit contrast (MAE and data2vec). The
+      formal flag missed the identity because the title reports it as a
+      survey ("explicit in MSN and SwAV"). empirical_hedged missed the
+      contrast because it sits in the title's last clause.
+  - code: THEORY-485
+    title_asserts: argument
+    outcome: retain-proposed
+    route: source
+    predicted: true
+    why: An argument on an unrefereed preprint; its analytic core is trivial and its bridge premise P7 is asserted.
+control_verdict: >-
+  The route flag predicted 2 of 4. It was right on both arguments and
+  wrong on both measurements: each was routed to source and yielded under
+  ADR-047 v3. Batch 020's sort by what the title asserts got all five
+  right, the ranked THEORY-593 included (an argument, retained). The
+  route flag separates theorems from everything else. It does not
+  separate measurements from arguments, and that is the split v3 made
+  decisive. Its empirical_hedged component, which was meant to make that
+  split, scored 0 on both yielders.
+finding: >-
+  Since ADR-047 v3, wave 3's source route is no longer one class. Its
+  measured results, stated with hedges and read in full, promote once
+  their scope is narrowed to the model or study actually run. Its
+  arguments and conceptual analyses do not. Both yielders here followed
+  THEORY-295's pattern: name the model, or the study, in the title, and
+  move the generalization request to a QUESTION. The three arguments were
+  all read in full, so reading depth did not separate the outcomes.
+recommendation: >-
+  Before more wave-3 source-route batches, re-sort the pending source-route
+  entries by what the title asserts, by hand or with a measurement flag
+  that reads "What was actually shown" for a model run, a table or a
+  measured contrast rather than the title's wording. Route the arguments
+  to wave 5. triage-005's ranked list is now exhausted.
+owner_questions: []
+promotion_prs:
+  - "#225: THEORY-178 and THEORY-306 narrowed and promoted."
+follow_up_prs:
+  - "THEORY-178: narrow-and-promote under ADR-047 v3. Retitle to the sign-consistent Boolean ensemble on the 87-gene E. coli core, with the positive-circuit condition as measured in that network. The promote_when (a transient CRISPRi perturbation in cells) moves to a new QUESTION. A dated note gives the phase-shift counterexample to general necessity."
+  - "THEORY-306: narrow-and-promote under ADR-047 v3. Retitle to MSN's and SwAV's explicit prior and the single-study imbalance measurement. The promote_when moves to a new QUESTION. A dated note gives the KL identity."
+notes_for_ledger:
+  - >-
+    Triage-005's control: the route flag predicted 2 of 4. It was right on
+    both arguments (THEORY-071, -485) and wrong on both measurements
+    (THEORY-178, -306), each routed to source and promoted under ADR-047
+    v3. Sort by what the title asserts (batch 020). The flag catches
+    theorems only.
+  - >-
+    empirical_hedged scored 0 on both yielders. THEORY-178's measured
+    signature is a model ensemble that the title does not name, and
+    THEORY-306's contrast (MAE and data2vec) sits in the title's last
+    clause. Read 'What was actually shown' for a model run or a table,
+    not the title.
+  - >-
+    Thomas's rule is not enough for synchronous Boolean necessity claims.
+    A free negative cycle (a' = ¬b, b' = a, period 4) can be phase-shifted
+    by a transient clamp. Beside any other oscillation, that gives a new
+    joint attractor with no positive circuit in reach. Check for it
+    whenever a Boolean attractor claim says "only through a positive
+    circuit". THEORY-178's condition holds in its network only because
+    the network has no such oscillator outside the reach of positive
+    circuits.
+  - >-
+    An "explicit in X" clause in an empirical title can be a one-line
+    identity (THEORY-306: −H(p̄) = D_KL(p̄ ‖ U) − log K). Check it before
+    treating the title as measurement only.
+  - >-
+    Move THEORY-593, THEORY-071 and THEORY-485 to wave 5: each is an
+    argument or conceptual analysis read in full, with nothing to measure
+    or re-derive.

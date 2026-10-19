@@ -1,0 +1,34 @@
+# record/promotion-audit/decisions/THEORY-223.yaml
+id: THEORY-223
+batch: batch-031
+reviewed: '2026-10-19'
+reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is an argument from one platform's architecture,
+    LIT-1039's "recursive governance". The body says so: "An argument from
+    architecture, with anecdotes." None of the paper's vignettes or
+    incidents shows an agent altering a control on itself, and the paper
+    calls its cases "not as systematic empirical evidence".
+evidence:
+  - "NOTE-732 read LIT-1039 §§3.1, 4.3–4.6. The two vignettes add a channel and a demo. Those are new coordination surfaces, not changes to a control (THEORY-223, 'What this does not say')."
+  - "The promote_when asks for logs of deployed agents with controls kept in two places, with alteration coded by the paper's test. No such record is held or cited."
+blockers:
+  - "Nothing is observed for the title's recursion, and the promote_when's log study is not in the record. The title is an argument (batch 020's sort rule): route it to wave 5."
+notes: >-
+  The first clause ("the governor's authority rests on the system leaving
+  them alone") is close to analytic once "within its own action space" is
+  read as "the system can alter them". The second ("further controls in
+  the same space inherit that dependence") follows by the same reading.
+  So a formal route would only restate the premise, and the promote_when
+  says the premise cannot settle it ("the architectural fact that
+  configuration files are writable, which is the premise, not the
+  finding"). What the entry claims beyond the premise is that the
+  dependence matters in practice, and that is untested. ADR-047 v3 does
+  not apply.
+unlocks: []
+next_action: Requeue to wave 5 (argument class). No PR.
