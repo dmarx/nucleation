@@ -33,7 +33,6 @@ summary: >-
   into independent parts. Exact for the type-cases; the fit to brains is
   qualitative.
 ---
-<!-- inactive-ok-file: THEORY-324 — Proposed; the companion account, open -->
 <!-- inactive-ok-file: CLAIM-185 CLAIM-176 CLAIM-180 CLAIM-179 — Proposed; the claims this account bears on, open -->
 <!-- inactive-ok-file: LIT-930 — Unavailable; May, named for comparison -->
 
