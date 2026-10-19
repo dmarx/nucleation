@@ -1,22 +1,27 @@
 ---
 number: 256
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbx1ck
-promote_when: >-
-  A replication on a different family of factored generators, or under a
-  second objective on the same data, in which the dimension and per-factor
-  orthogonality of the learned representation are measured, and in which
-  the noise experiment reports the loss gap between the factored and joint
-  representations at each noise level. It is refuted by a transformer
-  trained on a lossless factored process with room for the joint
-  representation that settles near the joint dimension, or by a lossy
-  process on which training reaches the joint representation without first
-  passing near the factored one. What cannot settle it: linear decodability
-  of each factor's belief alone, since a representation with overlapping
-  factor subspaces also supports accurate linear readout (App. H.1.2).
-title: "When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); small transformers trained by next-token prediction on such processes settle near that dimension in approximately orthogonal subspaces, and reach it first even when noise makes it lossy"
-version: 1
+title: "When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and approximately orthogonal in their leading components, and under the token noise tested reach it first even when noise makes it lossy"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-256.yaml, batch 019, ADR-047).
+    The theorem is re-derived in the note of 2026-10-19 below. The
+    empirical clauses rest on one study, LIT-986, which NOTE-758 read in
+    full, and whose numbers are stated in its text. Under ADR-047 v3 that
+    suffices once the title claims no more than was measured. So "small
+    transformers ... on such processes" now names the architecture and the
+    five factors tested; "approximately orthogonal subspaces" now says what
+    was shown, linear independence and approximate orthogonality in the
+    leading components; and the noise clause names the construction
+    tested. The promote_when asked for a replication. It moves, unchanged,
+    to QUESTION-tmpmknot.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -37,7 +42,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-197 THEORY-274 — Proposed; accounts on the same question, open -->
 
-# THEORY-256: When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); small transformers trained by next-token prediction on such processes settle near that dimension in approximately orthogonal subspaces, and reach it first even when noise makes it lossy
+# THEORY-256: When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and approximately orthogonal in their leading components, and under the token noise tested reach it first even when noise makes it lossy
 
 ## Source
 
@@ -110,3 +115,39 @@ gone straight to it when factoring was lossy. Neither happened.
   representation the objective does not favour.
 - **[THEORY-274](THEORY-274.md).** A second case in which what training reaches is not
   fixed by the objective's optimum alone.
+
+## Note of 2026-10-19: the theorem, re-derived, and the narrowing
+
+Written for the promotion audit's batch 019 ([ADR-047](../decisions.d/ADR-047.md)). It is also in
+record/promotion-audit/decisions/THEORY-256.yaml.
+
+Tokens are tuples x = (x_1, …, x_N), and the operators factor:
+T^(x) = ⊗_n T_n^(x_n).
+
+1. **Products stay products.** If η = ⊗_n η_n, then
+   η T^(x) = ⊗_n (η_n T_n^(x_n)). The normaliser factors too:
+   (⊗_n a_n)(⊗_n 1_n) = Π_n (a_n 1_n). So the updated predictive vector is
+   ⊗_n η_n′, with η_n′ = η_n T_n^(x_n) / (η_n T_n^(x_n) 1_n). The start is
+   a product as well: Σ_x T^(x) = ⊗_n Σ_{x_n} T_n^(x_n), whose stationary
+   vector is ⊗_n π_n. By induction every predictive state is a product.
+2. **Dimension.** Each factor lies in the affine hyperplane η_n 1_n = 1 of
+   ℝ^{d_n}, of dimension d_n − 1. A product state is fixed by its factors.
+3. **The embedding.** The partial trace η ↦ η_n contracts every other
+   factor with its all-ones vector. It is linear, and it returns η_n
+   exactly on product states. Coordinatise each hyperplane by an
+   orthonormal basis of its direction space. The map to the direct sum of
+   these coordinates is affine, injective on product states, and lands in
+   mutually orthogonal blocks of total dimension Σ_n (d_n − 1). Off the
+   product set the partial traces drop the correlations between factors,
+   which is the loss the paper measures as total correlation.
+
+The empirical clauses rest on [LIT-986](../literature.d/LIT-986.md) alone, which [NOTE-758](../notes.d/NOTE-758.md) read in full.
+Its figures were read only through their captions, but the numbers these
+clauses use are stated in the text: about 10–11 effective dimensions
+against 242, per-factor dimensions summing to 14 against a union of 12,
+and collapse to about 10 dimensions under every noise level. Under
+[ADR-047](../decisions.d/ADR-047.md) v3 that one study carries a title that claims no more than it
+measured. The title now names the architecture, the five factors, what
+the subspace measurements show, and the noise construction. The
+replication the promote_when asked for moves, unchanged, to
+[QUESTION-tmpmknot](../questions.d/QUESTION-tmpmknot.md).

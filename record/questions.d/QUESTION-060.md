@@ -22,8 +22,10 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-152](../claims.d/CLAIM-152.md) and [QUESTION-025](QUESTION-025.md).
   [THEORY-197](../theory.d/THEORY-197.md) and [THEORY-206](../theory.d/THEORY-206.md) answer it in part; the body gives each one's
   limit.
+refined_by:
+- QUESTION-tmpmknot
 ---
-<!-- inactive-ok-file: THEORY-241 THEORY-256 THEORY-274 — Proposed; partial answers filed today, cited with their limits -->
+<!-- inactive-ok-file: THEORY-241 THEORY-274 — Proposed; partial answers filed today, cited with their limits -->
 
 # QUESTION-060: When a network is trained on data from a structured system, are the variables it comes to represent fixed by its training objective or by what its architecture can represent cheaply, and when do they coincide with the system's own relevant variables?
 
