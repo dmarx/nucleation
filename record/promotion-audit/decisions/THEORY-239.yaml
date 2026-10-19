@@ -1,0 +1,80 @@
+# record/promotion-audit/decisions/THEORY-239.yaml
+id: THEORY-239
+batch: batch-012
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The optimal value and the optimality of the top-d left singular span,
+    re-derived here for any Hilbert–Schmidt T (ADR-047 v2). No symmetry
+    of the pair is used. Let T have singular triples (s_i, μ_i, ν_i), with
+    the μ_i extended by an orthonormal basis of ker T* (s = 0 there). A
+    unit target f = Σ u_iμ_i is (1 − ε)-compatible when
+    Σ s_i²u_i² ≥ (1 − ε)². The error of an encoder with span V is
+    e(V) = sup over compatible f of ‖f − P_V f‖². Assume
+    s_{d+1} < 1 − ε ≤ s₁, and write r* := (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}),
+    which lies in [0, 1).
+    (1) Upper bound for U_d := span{μ₁…μ_d}. The residual is
+    ρ := Σ_{i>d} u_i². For a given ρ, the compatibility is at most
+    (1 − ρ)s₁² + ρ s²_{d+1}, and this must be ≥ (1 − ε)², so ρ ≤ r*. The
+    bound is attained by f = √(1 − r*)μ₁ + √r* μ_{d+1}. So e(U_d) = r*.
+    (2) Lower bound for any d-dimensional V. The space
+    span{μ₁…μ_{d+1}} has dimension d + 1, so it contains a unit h ⊥ V.
+    Write h = cos ψ·μ₁ + sin ψ·w, with w a unit vector in
+    span{μ₂…μ_{d+1}}, 0 ≤ ψ ≤ π/2 after signs, and
+    q := Σ s_i²⟨w, μ_i⟩² ∈ [s²_{d+1}, s₁²]. For f_φ = cos φ·μ₁ + sin φ·w,
+    the compatibility is s₁²cos²φ + q sin²φ. So f_φ is compatible iff
+    sin²φ ≤ ρ_w := (s₁² − (1 − ε)²)/(s₁² − q), and ρ_w ≥ r*. Because
+    h ⊥ V, ‖f − P_V f‖² ≥ ⟨f, h⟩² = cos²(φ − ψ). If sin²ψ ≤ ρ_w, take
+    φ = ψ, giving error 1. Otherwise take sin²φ = ρ_w with 0 ≤ φ < ψ.
+    Then cos²(ψ − φ) ≥ cos²(π/2 − φ) = ρ_w ≥ r*. So e(V) ≥ r* for every V.
+    Together, U_d attains the minimum worst-case error r*. That is the
+    title's formula, valid in the stated range. If 1 − ε ≤ s_{d+1}, every
+    span, U_d included, has error 1. On a single space with a
+    non-reversible kernel the derivation applies unchanged. The guarantee
+    sits on the left singular functions, because targets live in L²(P_X).
+    For the chain P(a|x) with rows (0.1, 0.8, 0.1), (0.1, 0.1, 0.8) and
+    (0.6, 0.2, 0.2), at stationarity (not reversible), the second left and
+    right singular functions differ: μ₂ ∝ (−1.30, 1.23, −0.11) and
+    ν₂ ∝ (−0.11, −1.20, 1.17), with s = (1, 0.655, 0.534).
+  excluded: >-
+    "Unique", which is false as titled. With s = (1, 0.9, 0.8, 0.5, 0.1),
+    ε = 0.15 and d = 2, r* = 0.7708. The span V = span{μ₁,
+    cos θ·μ₂ + sin θ·μ₄} has worst-case error exactly r* for θ = 0.05,
+    0.2 and 0.5, and 0.973 only at θ = 1.0. (Computed by the S-lemma dual,
+    min over λ ≥ 0 of λ_max(I − P_V + λ(S − (1 − ε)²I)), and bounded below
+    by sampling 4×10⁵ unit targets.) Analytically, tilting μ_d towards
+    μ_{d+2} costs nothing while sin²θ/(s₁² − s_d²) + cos²θ/(s₁² − s²_{d+2})
+    ≤ 1/(s₁² − s²_{d+1}). The worst target is then still the μ₁–μ_{d+1}
+    one. So the minimizer is not unique even with a strict gap
+    s_d > s_{d+1}. Whatever App. B.2's "only if" shows, it is not this
+    statement. The promote_when's "second, independent derivation" is met
+    by (1)–(2) for the minimum, and refuted for the uniqueness clause.
+    Also excluded: anything about trained networks, as the body says.
+evidence:
+  - "NOTE-770 (Read, version 1): Theorem 3.4, App. B.2, read in full (C1 strong). The note's summary repeats 'unique … up to invertible linear maps'."
+  - "The re-derivation above (scope.accepted, 1–2), and the counterexample to uniqueness (scope.excluded), computed in this review."
+  - "Non-reversible worked case (scope.accepted), computed in this review. It meets the promote_when's request for a single-space non-reversible example and says which singular space carries the guarantee."
+blockers: []
+notes: >-
+  A fourth scope error in a correct theorem, after CLAIM-264, CLAIM-123
+  and THEORY-686: the minimum is right and the uniqueness is not. In
+  minimax statements, check whether "the unique minimizer" survives a
+  perturbation that the worst case does not see. A worst case is attained
+  by one adversarial target, and any encoder that is perfect on that
+  target's plane ties.
+unlocks:
+  - "QUESTION-052 (answered in part). Its directed-transport half gets the worked case here."
+next_action: >-
+  Promotion PR. Narrow the title: drop "unique", and say "attain the
+  minimum worst-case … error, (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}), when
+  s_{d+1} < 1 − ε ≤ s₁", with a body note that the minimizer is not
+  unique and the counterexample. Set Active, remove promote_when, and add
+  a history note citing this decision, the re-derivation and the worked
+  non-reversible case (ADR-047 v2). Annotate NOTE-770's "unique". Trim
+  stale inactive-ok directives naming THEORY-239. THEORY-728 (the
+  finite-data diffusion isometry) is not needed as a ground: this
+  account's operator is general.

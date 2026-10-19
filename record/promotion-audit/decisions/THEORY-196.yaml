@@ -1,0 +1,76 @@
+# record/promotion-audit/decisions/THEORY-196.yaml
+id: THEORY-196
+batch: batch-012
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The planar lower bound, re-derived here without the small-angle
+    substitution and with explicit constants (ADR-047 v2). Setting: the
+    tree G_m, a root with k = deg_max chains of length m (ℓ = 2m), and an
+    embedding f into H² with worst-case distortion at most 1 + ε, ε ≤ 1.
+    Write c for its minimum contraction, so that
+    c·d_T(u, v) ≤ d_H(f(u), f(v)) ≤ (1 + ε)·c·d_T(u, v) for all u, v.
+    (1) The k children a_i of the root satisfy r_i := d_H(f(root), f(a_i))
+    ∈ [c, (1 + ε)c] and d_H(f(a_i), f(a_j)) ≥ 2c. (2) The hyperbolic law
+    of cosines at f(root), with θ the angle between a_i and a_j, can be
+    rewritten exactly as cosh d = cosh(r_i + r_j)·sin²(θ/2) +
+    cosh(r_i − r_j)·cos²(θ/2). So sin²(θ/2) = (cosh d − cosh(r_i −
+    r_j))/(2 sinh r_i sinh r_j). (3) Since |r_i − r_j| ≤ εc ≤ c and
+    r_i, r_j ≤ (1 + ε)c, this gives s² := sin²(θ/2) ≥ (cosh 2c −
+    cosh c)/(2 sinh²((1 + ε)c)). (4) Order the k points by angle around
+    f(root). The k gaps sum to 2π, so some pair has θ ≤ 2π/k, and then
+    s ≤ θ/2 ≤ π/k. (5) If c ≤ ln 4, then with ε ≤ 1 the bound in (3) is
+    at least min over (0, ln 4] of (cosh 2c − cosh c)/(2 sinh² 2c), which
+    is 0.0465, attained at c = ln 4. So s ≥ 0.2156, which contradicts (4)
+    once k ≥ 15. (6) So for k ≥ 15, c > ln 4. Then cosh 2c − cosh c ≥
+    e^(2c)/4 and 2 sinh²x ≤ e^(2x)/2, which give s² ≥ e^(−2εc)/2. With (4)
+    this yields εc ≥ ln(k/(π√2)). (7) A leaf at the end of a chain has
+    d_H(f(root), f(leaf)) ≥ c·m ≥ (ℓ/(2ε))·ln(k/(π√2)). So one of those
+    two points lies at distance D ≥ (ℓ/(4ε))·ln(k/(π√2)) from the origin
+    of the Poincaré disk. (8) In the disk, ‖x‖ = tanh(D/2), so
+    1 − ‖x‖ = 2/(e^D + 1) exactly, and writing x in fixed point so that
+    1 − ‖x‖ does not round to zero takes log₂((e^D + 1)/2) ≥ D/ln 2 − 1
+    bits. Hence at least (ℓ/(4ε ln 2))·ln(k/(π√2)) − 1 bits, which is
+    Ω((ℓ/ε) log deg_max) with stated constants. The argument uses only
+    the depth-1 nodes, which fix the scale c, and the chains' length,
+    which turns c into depth. It is a different route from Lemma D.1's,
+    and it does not need the paper's equalised radii.
+  excluded: >-
+    The matching upper bound, and with it the Θ. It rests on Sarkar's
+    theorem that his construction with τ = ((1 + ε)/ε)·2 log(deg_max/(π/2))
+    has worst-case distortion at most 1 + ε. Neither record holds that
+    paper (NOTE-679 C1: "proved in Sarkar, not here"), and this review
+    did not re-derive it. It needs a local-to-global lemma for broken
+    geodesics with joint angles at least 2π/deg_max, which is a
+    construction proof and not a few lines. Also excluded is the
+    promote_when's extension to H^r for r > 2, which the title does not
+    claim and the body disclaims ("Not proved in r > 2 dimensions").
+evidence:
+  - "NOTE-679 (Read, version 1): Lemma D.1 followed step by step. Its proof replaces √(2(1 − cos θ)) by θ as an equality (C3, Limitations)."
+  - "The re-derivation above (scope.accepted). The identity in step 2 follows from cosh(a ± b) = cosh a cosh b ± sinh a sinh b."
+  - "Numerical check (this review): over 2×10⁵ random feasible configurations (c ∈ (0, 8), ε ∈ (0, 1], r_i ∈ [c, (1 + ε)c], d ≥ 2c), sin²(θ/2) never fell below the bound in step 3. The minimum of the step-5 function on (0, ln 4] is 0.04651, at c = ln 4. cosh 2c − cosh c ≥ e^(2c)/4 holds on [ln 4, 30]."
+  - "NOTE-679 §3.2: d = acosh(1 + 2‖z‖²/(1 − ‖z‖²)), the bits-per-distance computation, consistent with step 8."
+blockers:
+  - "The upper bound (Sarkar's distortion bound for this τ) is cited and neither read nor re-derived. It is what keeps the Θ, and so THEORY-196's title, Proposed."
+notes: >-
+  Pattern: a lower bound whose proof uses an approximation as an equality
+  can often be redone with exact hyperbolic trigonometry. The identity
+  cosh d = cosh(r₁ + r₂) sin²(θ/2) + cosh(r₁ − r₂) cos²(θ/2) does the work
+  in two lines. The constant 15 (on deg_max) is an artefact of the
+  small-scale case. For deg_max ≤ 4 the bound is vacuous, since
+  ln(k/(π√2)) ≤ 0. Paths, for instance, need no bits at all, so the title's
+  log deg_max is only meaningful for bushy trees, as the body says.
+unlocks: []
+next_action: >-
+  Split, in a promotion PR. File a new Active THEORY (source LIT-874)
+  holding the planar lower bound with its constants and hypotheses
+  (deg_max ≥ 15, ε ≤ 1, fixed-point Poincaré coordinates), with the
+  re-derivation as a dated note. THEORY-196 extends it and stays Proposed.
+  Its promote_when narrows to a reading or re-derivation of Sarkar's
+  distortion bound, and the H^r clause moves to a new QUESTION (a lower
+  bound in H^r matching Proposition 3.1), which NOTE-679's open questions
+  already name.

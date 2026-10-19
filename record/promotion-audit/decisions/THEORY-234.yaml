@@ -1,0 +1,78 @@
+# record/promotion-audit/decisions/THEORY-234.yaml
+id: THEORY-234
+batch: batch-012
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    Theorem 5 and Theorem 14, as sufficient conditions, re-derived here
+    (ADR-047 v2). Notation as in the THEORY: g₀(y) = g(y) − g(y₀), F and G
+    the spans of f and g₀, A := P_F P_G, M = Im A, N = ker(A)^⊥.
+    (a) Lemma 2. Since M is the orthogonal complement of F ∩ G^⊥ within F,
+    f(s) = P_M f(s) + f′ with f′ ∈ G^⊥, so f′ᵀg₀ = 0. Likewise
+    g₀ = P_N g₀ + g′ with g′ ∈ F^⊥, so (P_M f)ᵀg′ = 0. Hence
+    f(s)ᵀg₀(y) = (P_M f(s))ᵀ(P_N g₀(y)). For n ∈ N ⊆ G, P_F n = A n ∈ M,
+    so P_M|_N = A|_N, which is injective. So the pairing of M with N is
+    non-degenerate and dim M = dim N = k.
+    (b) Theorem 5, ⇒. Equal next-token distributions mean equal logits up
+    to a context constant. Subtracting the pivot removes the constant, so
+    p_{f,g} = p_{f̃,g̃} if and only if B(s, y) := f(s)ᵀg₀(y) =
+    f̃(s)ᵀg̃₀(y) for all s and y. By (a), B = φ(s)ᵀγ(y), with φ = P_M f
+    spanning M and γ = P_N g₀ spanning N. The "matrix" B has rank k, so
+    k = k̃. Pick tokens y₁…y_k with γ(y_j) a basis of N. The map
+    m ↦ (mᵀγ(y_j))_j is a bijection M → ℝᵏ, and similarly for the tilde
+    model. Define L: M̃ → M by mᵀγ(y_j) = m̃ᵀγ̃(y_j) for all j. It is
+    linear and invertible, and φ(s) = Lφ̃(s) for every s. The symmetric
+    construction gives L′: Ñ → N with γ = L′γ̃, and B = B̃ forces
+    φ̃ᵀLᵀL′γ̃ = φ̃ᵀγ̃ on spanning sets. That is Definition 3's
+    compatibility (MᵀN = P_M̃ P_Ñ).
+    (c) Theorem 5, ⇐. If φ = Lφ̃ and γ = L′γ̃ with that compatibility,
+    then B = B̃ and the distributions agree.
+    (d) Theorem 14. Suppose P_Γ f(s ⌢ q) = P_Γ A_q f(s) + a_q with Γ ⊆ N
+    and Γ_q = Im(A_qᵀP_Γ) ⊆ M. For γ ∈ Γ we have γ ∈ G, so
+    γᵀf = γᵀP_M f = γᵀL P_M̃ f̃. And A_qᵀγ ∈ M, so γᵀA_q f(s) =
+    (A_qᵀγ)ᵀP_M f(s) = (A_qᵀγ)ᵀL P_M̃ f̃(s). So each functional
+    m̃ ↦ γᵀL m̃ on M̃ (non-zero, since L is onto M and N pairs
+    non-degenerately with M) satisfies an affine relation between
+    f̃(s ⌢ q) and f̃(s). By (a) for the tilde model, each such functional
+    is m̃ ↦ ñᵀm̃ for a unique ñ ∈ Ñ, and ñᵀf̃ = ñᵀP_M̃ f̃. The set of
+    these ñ is a subspace Γ̃ ⊆ Ñ of dimension dim Γ. On it,
+    P_Γ̃ f̃(s ⌢ q) = P_Γ̃ Ã_q f̃(s) + ã_q for suitable Ã_q and ã_q. So
+    the property transfers to every equivalent model.
+    Narrowed title: Theorem 14 gives "shared … when it lies in those
+    subspaces", not "only when". The necessity direction is not proved.
+    D.1 shows only that the property can fail in some equivalent model
+    when Γ_q ⊄ M, and only up to proportionality (NOTE-746 C6, moderate).
+    The body already says "sufficient conditions".
+  excluded: >-
+    The title's "only when", that is, necessity of Γ ⊆ N and Γ_q ⊆ M for
+    a property to be shared. It is replaced by "when", with the D.1 case
+    stated as "can fail otherwise". Also excluded is the promote_when's
+    alternative, a measurement in released language models of M, N and
+    Γ_q. That concerns whether trained models meet the conditions, which
+    the body disclaims ("Not about trained models directly"). It moves
+    unchanged to a new QUESTION.
+evidence:
+  - "NOTE-746 (Read, version 1): every proof in App. B–E read, including B.6 (Theorem 5) and the proof of Theorem 14 (C1 strong, C5 strong, C6 moderate)."
+  - "NOTE-746 Key results: Definition 3 includes the compatibility MᵀN = P_M̃ P_Ñ. That is what makes 'related by an invertible linear map' an equivalence. Without it, any pair of invertible maps would qualify, and f ↦ 2f with g fixed changes the temperature, so it changes the distribution."
+  - "The re-derivation above (scope.accepted, a–d). It meets the promote_when's 'second reader's check' and 'independent derivation of the extended linear equivalence' clauses under ADR-047 v2."
+blockers: []
+notes: >-
+  The title's "only when" contradicts the body's own "Not a
+  characterization of all shared properties. Theorem 14 gives sufficient
+  conditions". Read a title's "only", "exactly" and "iff" against the
+  body's disclaimers. The two-sided claim (Theorem 5) is an iff. The
+  transfer claim (Theorem 14) is one-way.
+unlocks:
+  - "CLAIM-148 and CLAIM-193 cite this account (as a refinement of the gauge, and for relational probes). A dependency pass can check them once it is Active."
+next_action: >-
+  Promotion PR. Narrow the title's last clause to "is shared by all such
+  models or none when it lies in those subspaces, and can fail to be
+  shared otherwise". Set Active, remove promote_when, and add a history
+  note citing this decision and the re-derivation (ADR-047 v2). File a
+  QUESTION carrying the trained-model measurement (do released models'
+  relational linearities satisfy Γ ⊆ N and Γ_q ⊆ M?). Trim stale
+  inactive-ok directives naming THEORY-234.

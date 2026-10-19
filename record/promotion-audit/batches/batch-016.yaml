@@ -1,0 +1,74 @@
+# record/promotion-audit/batches/batch-016.yaml
+batch: batch-016
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+selection: >-
+  The ranked half of wave 3's first batch: triage-004's top five
+  (triage_wave3.py, triage-004.yaml on claude/promotion-audit-ledger-3), all
+  scoring the maximum 7. Batch 017 reviews triage-004's control sample in
+  parallel.
+reviewed: [THEORY-111, THEORY-079, THEORY-170, THEORY-369, THEORY-481]
+outcomes:
+  split: [THEORY-111]
+  narrow-and-promote: [THEORY-369]
+  needs-correction: [THEORY-481]
+  retain-proposed: [THEORY-079, THEORY-170]
+yield: 2 of 5 found a promotion path (THEORY-111's formal core, THEORY-369); 1 correction
+rubric_check:
+  # For each candidate, which of triage-004's components (all scored at their maximum) turned out to matter.
+  THEORY-111:
+    mattered: [depth, bundling]
+    did_not: [compound, extends, firsthand]
+    note: "Depth: proofs checked line by line in NOTE-512 and NOTE-538. Bundling: the promote_when and the disclaimers pair two unmeasured halves. The split separates a formal core, not the title's 'so'."
+  THEORY-079:
+    mattered: []
+    did_not: [bundling, depth, firsthand, extends, compound]
+    note: "False positive. The synthesis is stated by no source (firsthand mis-scored), and the bundling overlap is the 'what cannot settle it' list echoing the disclaimers."
+  THEORY-170:
+    mattered: []
+    did_not: [bundling, depth, firsthand, extends, compound]
+    note: "An argument from examples, which the promote_when excludes. 'Nothing was tested' is not among the firsthand markers."
+  THEORY-369:
+    mattered: [bundling, depth]
+    did_not: [compound, extends, firsthand]
+    note: "The disclaimer 'that the bounds are rigorous' is exactly what the promote_when asked to repair, and the record could. An untagged formal result."
+  THEORY-481:
+    mattered: [depth]
+    did_not: [bundling, extends, compound, firsthand]
+    note: "Depth decided it, against its score. The NOTE was 'read in full' but marked the Wishart step 'followed as statements, not re-derived', and the source's error is in that step."
+finding: >-
+  Two of the five yields are formal results with no mathematics tag
+  (THEORY-369, and THEORY-111's core). They took the wave-2 route: a
+  re-derivation under ADR-047 v2. The genuinely source-backed empirical
+  candidates (THEORY-079, THEORY-170, and THEORY-111's empirical half)
+  yielded nothing. Each is held by a promote_when that names a measurement
+  the record has not read, and no reading or re-derivation substitutes. So
+  wave 3's yield, measured on its non-formal members, is 0 of 3 here.
+  Triage-004's maximum score does not predict yield. Its components fire on
+  vocabulary, and the decisive facts are elsewhere: whether the entry is a
+  filer's synthesis, whether the support is illustrative, and whether the
+  NOTE re-derived the step the claim needs. The first review that
+  re-derived a step a NOTE had taken on trust (THEORY-481) found an error
+  in the source.
+recommendation: >-
+  Route untagged formal THEORYs (triage-004 named THEORY-248, -198 and -315
+  besides THEORY-369) to wave 2 and review them there. For the rest of
+  wave 3, rescore depth per claim: read a NOTE's history line for "followed
+  as statements", "not re-derived" or "taken as stated", rather than its
+  overall "read in full". Add "filer's synthesis" or "stated by no source"
+  and "nothing was tested" to triage_wave3.py's firsthand markers. Compare
+  with batch 017's control before drawing a wave-3 rate. If the control
+  also yields only formal entries, drop wave 3's priority below wave 4.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-111: split. A new Active THEORY holds Zhou et al.'s Theorem 1 and Lemma 1, and the exact one-hidden-layer case from Lubana et al.'s Lemma 2, with re-derivations. THEORY-111 extends it and stays Proposed."
+  - "THEORY-369: narrow-and-promote, for fixed N and blocks of at least two points, with the five-step concentration proof as a dated note."
+  - "THEORY-481: correction, with status unchanged. Exact as N → ∞; at finite N only for isotropic inputs with equal modes; the source's commutation error at (A71)/(A73). Also a dated note on NOTE-658. Requeue for narrow-and-promote after it merges."
+notes_for_ledger:
+  - "Wave 3's yield comes from its formal members. Of five top-ranked entries, the two that yielded were formal results without a mathematics tag, promoted by re-derivation. The three empirical ones were held by measurements the record has not read. Expect that pattern to continue, and route untagged formal entries to wave 2."
+  - "Look first at the step a NOTE took on trust. THEORY-481's NOTE-658 said the Wishart fourth-moment step was 'followed as statements, not re-derived'. Re-deriving it found the source commuting the rotated empirical covariance Ŝ, which is not diagonal at finite N. That makes its per-mode decoupling and s^∞ exact only as N → ∞, or for isotropic inputs. Grep NOTE history lines for 'followed as statements', 'not re-derived' and 'taken as stated' before trusting an 'exact' claim."
+  - "A concentration argument settles high-dimensional nearest-neighbour bounds. For fixed N and uniform data, all squared distances are d/6 + o(d), and the midpoint of any two points is at d/8 from the query. So every convex cluster of at least two points meets the nearest-neighbour ball with probability tending to 1. The same trick may serve THEORY-366 (Beyer et al.'s distance concentration)."
+  - "triage_wave3.py's firsthand markers miss 'stated by no source', 'the filer's synthesis' and 'nothing was tested'. Its depth score reads 'read in full' per NOTE, not per claim. Both fired falsely in this batch."
+  - "A source-derivation error is a needs-correction even when the record read the source faithfully. Correct the THEORY with status unchanged, add a dated note to the NOTE, and requeue the THEORY for narrow-and-promote, so a status change never rides on a correction."

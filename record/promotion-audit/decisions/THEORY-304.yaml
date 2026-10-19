@@ -1,0 +1,69 @@
+# record/promotion-audit/decisions/THEORY-304.yaml
+id: THEORY-304
+batch: batch-013
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: medium
+scope:
+  accepted: >-
+    A demonstrated core, the record's own, to be filed as a CLAIM (ADR-032).
+    In plane Couette and plane Poiseuille flow, with no-slip walls and
+    perturbations measured in the kinetic-energy norm, the linearized
+    operator L about the laminar profile satisfies, with constants c and C
+    independent of R:
+    sup_t ‖e^{tL}‖ ≥ cR, ‖L⁻¹‖ ≥ cR², and, at any R where L is
+    eigenvalue-stable, a perturbation of norm at most CR⁻² moves an
+    eigenvalue into the unstable half-plane. The derivation is the
+    streamwise-independent (lift-up) scaling, step by step:
+    (1) At streamwise wavenumber 0 the linearized equations are
+    ∂_t u + U′v = R⁻¹∇²u for the streamwise velocity, and, for the
+    cross-stream velocities (v, w), ∂_t(v, w) = −∇p + R⁻¹∇²(v, w) with
+    ∂_y v + ∂_z w = 0. The (v, w) system does not involve u or U.
+    (2) Rescale with t = Rτ and p = p̂/R. Then (v, w)(τ) solves an
+    R-independent Stokes problem, and u solves ∂_τ u = ∇²u − R U′v. With
+    u(0) = 0, u = R û(τ), where û is independent of R.
+    (3) Energy: ‖q(Rτ)‖² = R²‖û(τ)‖² + ‖(v, w)(τ)‖². Take ‖(v, w)(0)‖ = 1 with
+    v(0) nonzero where U′ ≠ 0 (U′ = 1 for Couette, −2y for Poiseuille). Then
+    ∂_τ û(0) = −U′v(0) ≠ 0, so ‖û(τ*)‖ = c > 0 for some τ*. Hence
+    sup_t ‖e^{tL}‖ ≥ cR.
+    (4) Resolvent at ω = 0, steady forcing f = (0, f_v, f_w). Then (v, w) =
+    R·S f, with S the R-independent Stokes solve, and u = R Δ⁻¹(U′v) =
+    R² Δ⁻¹U′S f. So ‖L⁻¹‖ ≥ R² ‖Δ⁻¹U′S f‖/‖f‖ = cR² for a suitable f, and the
+    resonance sup over ω of ‖(iω − L)⁻¹‖ is at least that.
+    (5) Pseudospectra: for a closed operator, z is an eigenvalue of L + E
+    for some ‖E‖ ≤ 1/‖(z − L)⁻¹‖ (taken over the discretized operator, as
+    the paper does). By continuity of the resolvent, ‖(δ − L)⁻¹‖ ≥ cR²/2 for
+    small δ > 0. So a perturbation of norm ≤ 2/(cR²) puts an eigenvalue at
+    δ, in the unstable half-plane.
+  excluded: >-
+    THEORY-304's title, which stays Proposed with its promote_when
+    unchanged. It states the scalings as orders: growth of order R and no
+    more, with constants R/29.1, R/71.5, (R/8.12)² and (R/17.4)² (Table 1).
+    The upper bounds and the constants come from the paper's computation
+    alone, credited to earlier work. The promote_when asks for an
+    independent computation reproducing them, and the record holds none.
+    Also excluded from the CLAIM: where the operators are eigenvalue-stable
+    (all R for Couette, R < 5772 for Poiseuille). That is the source's
+    statement. The CLAIM is stated conditionally on eigenvalue stability.
+evidence:
+  - "THEORY-304 and NOTE-839 (read in full): the maxima occur at streamwise wavenumber α = 0 or nearly so (streamwise vortices becoming streaks), and ‖L⁻¹‖ ≤ ∫‖e^{−itL}‖dt links resonance to growth."
+  - "The derivation above uses only the α = 0 decoupling of (v, w) from u and a rescaling of time. It is the lift-up argument the paper credits to Gustavsson, Henningson, Butler and Farrell."
+blockers:
+  - "For the parent: an independent computation of the leading-order constants (Reddy & Henningson 1993, or Schmid & Henningson), as its promote_when asks."
+notes: >-
+  The promote_when's refutation test, a correct computation showing growth
+  bounded independently of R, is settled by the lower bound in step 3, and
+  the CLAIM records that. What stays open in the parent is sharpness and
+  the constants. A wave-2 case where the mathematics is a scaling argument
+  rather than a theorem the source proves, and the THEORY is
+  computation-backed. The record-own route closes the lower bounds only.
+unlocks:
+  - "THEORY-323 (Proposed) cites THEORY-304 as its best-measured physical case, and can cite the CLAIM for the lower bounds."
+  - "CLAIM-186 holds the first half of its shear-flow sentence through THEORY-304. It can cite the CLAIM."
+next_action: >-
+  Split PR. File a demonstrated CLAIM, Active, with the lift-up derivation
+  and stated conditionally on eigenvalue stability. THEORY-304 cites it in
+  "What was actually shown" and gains a dated history note. Its status and
+  promote_when are unchanged.

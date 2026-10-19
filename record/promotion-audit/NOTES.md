@@ -521,3 +521,103 @@ history note. THEORY-277 is requeued on this basis.
   'the record's reply of 2026-10-10', are demonstrated over a reception-
   study defeater. Expect the other 2026-10-10 replies in pragmatic-
   transport to have the same misclassification, and check them in wave 5.
+
+## 2026-10-19 — batch 012 (wave 2)
+
+- Exact hyperbolic trigonometry beats small-angle substitutions. cosh d =
+  cosh(r₁ + r₂) sin²(θ/2) + cosh(r₁ − r₂) cos²(θ/2) turns an angle-packing
+  lower bound into two lines with constants (THEORY-196).
+- Minimax uniqueness is fragile. A worst case is attained by one
+  adversarial target, and any encoder that is perfect on that target's
+  plane ties. Test 'the unique minimizer' with a small tilt and the
+  S-lemma dual, min over λ of λ_max(R + λ(S − cI)), which is a few lines
+  of numpy (THEORY-239).
+- Counting arguments: the negative half (more independent equations than
+  unknowns, so the solutions are null) becomes a proof via the incidence-
+  bundle dimension. The positive half (balanced counts, so solutions exist
+  generically) can fail over the reals on open sets. A 2 × 2 rotation is
+  the standard witness (THEORY-257).
+- A fourth and fifth scope error in correct theorems (THEORY-239's
+  uniqueness, THEORY-234's 'only when'). Read 'unique', 'only', 'exactly'
+  and 'generic' in a title against the body's disclaimers before re-
+  deriving.
+- Triage-003's eligibility admits empirical THEORYs about mathematical
+  objects (THEORY-254, tangles). Screen the title's verb.
+- Worktree isolation: python one-liners with file writes through the Write
+  tool to a path outside the worktree are refused. Write scratch scripts
+  with a heredoc into a scratch directory inside the worktree (here
+  .tmp-b012/, not committed). scipy is not installed, so a grid over λ
+  replaces minimize_scalar.
+
+## 2026-10-19 — batch 013 (wave 2)
+
+- Fixed-point subspaces settle symmetry-cluster claims. For an equivariant
+  vector field, Fix(Σ) is invariant for every subgroup Σ. Isolated
+  desynchronization is Fix(K), with K the product of the other factors,
+  and it needs the moving factor's support to be the cluster (THEORY-276).
+  Use this instead of equal-input computations.
+- An empirical THEORY can hide a record-own invariance-in-law argument
+  (THEORY-288). With equivariant initialisation and optimiser, the law of
+  the learned representation inherits the architecture's symmetry group.
+  The argument needs an orthogonally equivariant optimiser. Adam breaks
+  it, leaving only signed-permutation invariance. Check the optimiser
+  before filing any such claim.
+- Numerical scaling THEORYs (THEORY-304) yield their lower bounds to a
+  rescaling argument (lift-up at streamwise wavenumber 0). Their constants
+  and sharpness need the computation. File the lower bounds as a CLAIM and
+  keep the parent.
+- A fourth correct-theorem, wrong-scope case (THEORY-299), after
+  CLAIM-264, CLAIM-123 and THEORY-686. An identification exact for the
+  source's normalised variant (squared norms) is read as covering the
+  original models. Check which variant a source actually works with.
+- Re-deriving a promote_when's lemma chain can remove a Proposed
+  dependency. THEORY-301's Cor. 1 is one line, so its promotion does not
+  rest on THEORY-008.
+
+## 2026-10-19 — batch 016 (wave 3, ranked)
+
+- Wave 3's yield comes from its formal members. Of five top-ranked
+  entries, the two that yielded were formal results without a mathematics
+  tag, promoted by re-derivation. The three empirical ones were held by
+  measurements the record has not read. Expect that pattern to continue,
+  and route untagged formal entries to wave 2.
+- Look first at the step a NOTE took on trust. THEORY-481's NOTE-658 said
+  the Wishart fourth-moment step was 'followed as statements, not re-
+  derived'. Re-deriving it found the source commuting the rotated
+  empirical covariance Ŝ, which is not diagonal at finite N. That makes
+  its per-mode decoupling and s^∞ exact only as N → ∞, or for isotropic
+  inputs. Grep NOTE history lines for 'followed as statements', 'not re-
+  derived' and 'taken as stated' before trusting an 'exact' claim.
+- A concentration argument settles high-dimensional nearest-neighbour
+  bounds. For fixed N and uniform data, all squared distances are d/6 +
+  o(d), and the midpoint of any two points is at d/8 from the query. So
+  every convex cluster of at least two points meets the nearest-neighbour
+  ball with probability tending to 1. The same trick may serve THEORY-366
+  (Beyer et al.'s distance concentration).
+- triage_wave3.py's firsthand markers miss 'stated by no source', 'the
+  filer's synthesis' and 'nothing was tested'. Its depth score reads 'read
+  in full' per NOTE, not per claim. Both fired falsely in this batch.
+- A source-derivation error is a needs-correction even when the record
+  read the source faithfully. Correct the THEORY with status unchanged,
+  add a dated note to the NOTE, and requeue the THEORY for narrow-and-
+  promote, so a status change never rides on a correction.
+
+## 2026-10-19 — the parallel round (batches 011–017), summary
+
+- **Yields.** Wave 2's last 16, in code order: 11 of 16 (011 at 2 of 5,
+  012 at 4 of 5, 013 at 5 of 5, plus THEORY-312 in 014). Wave 4
+  (015): 1 of 5, with three corrections to Active entries. Wave 3: the
+  ranked top five (016) and the control five (017) each went 2 of 5. So
+  triage-004's ranking did not predict yield. All four paths were formal
+  results that carried no `mathematics` tag (THEORY-111's core,
+  THEORY-369, THEORY-309, THEORY-078's algebra).
+- **The tag is the wrong class boundary.** Batch 011 found wave-2 entries
+  that are measurements (THEORY-022, -191, -192). Batches 016 and 017
+  found wave-3 entries that are theorems. Classify by what the title
+  asserts.
+- **The owner's rule on single studies (ADR-047 v3).** One study read in
+  full is enough for an empirical THEORY whose title claims no more than
+  that study measured. The replication request moves to a QUESTION. This
+  should raise wave 3's yield on the hedged empirical entries, and it
+  leaves causal or generalising titles, such as THEORY-470, where they
+  are.

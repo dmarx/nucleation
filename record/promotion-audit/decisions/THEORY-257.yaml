@@ -1,0 +1,86 @@
+# record/promotion-audit/decisions/THEORY-257.yaml
+id: THEORY-257
+batch: batch-012
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The genericity result for linear VAR models, made rigorous here
+    (ADR-047 v2), with a correction to its p = 1 half. Model:
+    X_t = Σ_{k=1}^p A_k X_{t−k} + ε_t, stable, with ε_t i.i.d. Gaussian,
+    Σ ≻ 0, and Y = LX for an m × n matrix L of full row rank, 0 < m < n.
+    Let W be the row space of L.
+    (1) Sufficiency. If L A_k = B_k L for every k (equivalently
+    W·A_k ⊆ W, or L A_k Mᵀ = 0 with the rows of M spanning ker L), then
+    Y_t − Σ B_k Y_{t−k} = Lε_t is independent of the whole past of X. So
+    T(X → Y) = 0.
+    (2) Necessity. With Gaussian laws, T(X → Y) = 0 means
+    E[Y_t | X⁻] = E[Y_t | Y⁻]. By stability, X_s = Σ_{j≥0} Ψ_j ε_{s−j},
+    with Ψ_0 = I and Ψ_j = Σ_{k=1}^{min(j,p)} A_k Ψ_{j−k}. So
+    E[Y_t | X⁻] = L(X_t − ε_t) = Σ_{j≥1} LΨ_j ε_{t−j}. The coefficient of
+    ε_{t−j} in an element Z of the closed span of {Y_s : s < t} is
+    Cov(Z, ε_{t−j})Σ⁻¹. For finite combinations Σ_s C_s Y_{t−s} it is
+    Σ_{s=1}^{j} C_s LΨ_{j−s}. For each j ≤ p these tuples form a
+    finite-dimensional, hence closed, set, so the limit satisfies the
+    same form. So LΨ_j = Σ_{s=1}^{j} C_s LΨ_{j−s} for j = 1…p. Induction:
+    j = 1 gives L A_1 = C_1 L. If L A_i = B_i L for i < j, then
+    LΨ_i = D_i L for i < j. Then LΨ_j = L A_j + Σ_{k<j} B_k D_{j−k} L and
+    the right side is C_j L + Σ_{s<j} C_s D_{j−s} L, so L A_j = E_j L.
+    This recovers (3.26).
+    (3) Measure zero for p ≥ 2. For a fixed W ∈ Gr(m, n), each condition
+    L A_k Mᵀ = 0 is m(n − m) independent linear equations on A_k (the map
+    A ↦ L A Mᵀ is onto ℝ^{m×(n−m)}). So the incidence set
+    I = {((A_k), W) : all p conditions hold} is a vector bundle over
+    Gr(m, n), of total dimension pn² − (p − 1)m(n − m). For p ≥ 2 and
+    0 < m < n that is less than pn². The projection of I to the parameter
+    space ℝ^{pn²} is smooth, so its image has Lebesgue measure zero. A
+    finite union over m keeps it null, and the stable parameters are an
+    open subset. So a Lebesgue-almost-every stable VAR(p), p ≥ 2, has no
+    exactly independent linear coarse-graining at any scale. This replaces
+    the source's equation count by a proof.
+    (4) p = 1. Exact independence at scale m holds iff W is an m-dimensional
+    Aᵀ-invariant subspace. Such subspaces exist on open sets of A, for
+    example when all eigenvalues are real and distinct. But not "at every
+    scale generically": A = ½[[0, −1], [1, 0]] is stable with eigenvalues
+    ±i/2, and every A near it has non-real eigenvalues. So an open set of
+    stable VAR(1) models in n = 2 has no exactly independent coarse-graining
+    at m = 1. In general, odd m fails whenever Aᵀ has no real invariant
+    subspace of that dimension.
+  excluded: >-
+    The rest stays in THEORY-257, Proposed. That includes the interpretive
+    clause that the criterion "fixes emergent macroscopic variables by the
+    dynamics rather than by a chosen query" (C6 moderate, argued against
+    Millidge, with boundary, scale and map class still inputs), and "the
+    optima are many", which is one 9-variable simulation (C5 moderate).
+    The parent's title also needs a correction. As it stands, "generically
+    none is exact" holds for VAR order above 1, not for linear models in
+    general. Its body's "exact solutions are generic at every scale for
+    VAR(1)" is false over the reals, by (4). The state-space form (3.25)
+    with r > 1 and the stated ranges of m were not re-derived.
+evidence:
+  - "NOTE-791 (Read in full, version 1): (3.25)–(3.26) and the genericity count, C4 'strong as a counting argument … not a full proof of existence of real solutions'."
+  - "The derivation above (scope.accepted, 1–4). Steps 1–2 give (3.26) independently, step 3 is the proof the source lacks, and step 4 is a counterexample to the VAR(1) half as stated."
+blockers:
+  - "For the parent: the promote_when's application to measured data with independently known macrostates is not held. Its interpretive clause is argued, not shown."
+notes: >-
+  A counting argument ("equations against unknowns") becomes a proof with
+  one move: show the equations are independent fibrewise, so the incidence
+  set is a bundle of known dimension, then project. The same count's
+  positive half ("solutions exist generically when the counts balance")
+  does not follow over the reals. Real algebraic equations with as many
+  unknowns as equations can lack solutions on an open set. Check every
+  "generically exists" drawn from a count for that failure.
+unlocks:
+  - "QUESTION-065 (answered in part by THEORY-257). Its second part, uniqueness at a scale, gains a proved statement: for VAR order above 1 there is almost surely no exact winner."
+next_action: >-
+  Split, in a promotion PR. File a new Active THEORY (source LIT-979)
+  holding (1)–(4): the VAR criterion, the measure-zero result for p ≥ 2
+  and the corrected p = 1 statement, with the derivation as a dated
+  note. In THEORY-257, narrow "generically none is exact" to "for linear
+  VAR models of order above 1, generically none is exact". Correct the
+  body's VAR(1) bullet, cite the new entry, and keep it Proposed with its
+  promote_when, minus the generic-absence clause the new entry now
+  holds. Annotate NOTE-791's C4.
