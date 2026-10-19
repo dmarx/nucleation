@@ -34,7 +34,6 @@ summary: >-
 supports:
 - CLAIM-092
 ---
-<!-- inactive-ok-file: THEORY-155 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # THEORY-163: The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it
 

@@ -39,7 +39,6 @@ summary: >-
   symmetries that permute states.
 supports:
 - CLAIM-094
-- CLAIM-107
 ---
 
 <!-- inactive-ok-file: THEORY-019 — Proposed; named as a parallel on commutants, with no relation claimed -->

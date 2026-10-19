@@ -32,7 +32,7 @@ summary: >-
   activation precedes. The evidence is visual, five seeds a condition,
   with no statistic.
 ---
-<!-- inactive-ok-file: THEORY-184 THEORY-017 THEORY-022 THEORY-210 THEORY-083 THEORY-288 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-017 THEORY-022 THEORY-210 THEORY-083 THEORY-288 — Proposed; the accounts this reading bears on, and the one filed from it -->
 
 # NOTE-759: Bird — Emergence of Quantised Representations Isolated to Anisotropic Functions
 

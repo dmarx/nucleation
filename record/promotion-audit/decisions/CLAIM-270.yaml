@@ -1,0 +1,30 @@
+# record/promotion-audit/decisions/CLAIM-270.yaml
+id: CLAIM-270
+batch: batch-001
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    Retention I(U_0; U_n) and drift D[P(U_n), P(U_0)] are not monotone
+    functions of each other on Markov chains. All four combinations of high
+    and low occur. The data-processing inequality bounds only retention.
+  excluded: Nothing beyond the existing "What it does not say" section.
+evidence:
+  - "Two states, P(U_0) = (1/2, 1/2), and a kernel sending both to state a: retention 0, drift 1/2 in TV."
+  - "The same start with uniform resampling: retention 0, drift 0."
+  - "P(U_0) = (0.9, 0.1) and a deterministic swap: retention H(U_0), the maximum, with drift 0.8 in TV."
+  - "The identity kernel: retention maximal, drift 0."
+  - "The defeat condition (a proof that the two are monotone in each other) is refuted by the first two cases, which share retention and differ in drift."
+blockers: []
+notes: >-
+  The body demonstrates by CASE-017 and prose. The promotion should add the
+  two-state constructions above, so that the demonstrated warrant shows its
+  construction.
+unlocks:
+  - "CLAIM-081: rests on this and on CLAIM-056, which is Proposed. Not unlocked alone."
+  - "CLAIM-189 and CLAIM-191 apply it. Check them in a dependency pass."
+next_action: Promotion PR. Add the constructions and set Active.

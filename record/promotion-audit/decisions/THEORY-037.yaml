@@ -1,0 +1,72 @@
+# record/promotion-audit/decisions/THEORY-037.yaml
+id: THEORY-037
+batch: batch-009
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    The whole title. Sub_cl(Σ), the clopen sub-objects of the spectral
+    presheaf over the abelian von Neumann subalgebras, is a complete Heyting
+    algebra (hence distributive). Its negation is the pseudo-complement,
+    which coincides with Döring and Isham's (2.39), and excluded middle fails
+    in it. That P(H) with its orthocomplement cannot be the target is Paper
+    I's §3.2.4 (distributivity), as the body says.
+  excluded: >-
+    Nothing in the title. The body's other statements (daseinisation's
+    properties, the inner/outer split of the orthocomplement) are the
+    source's checked theorems (NOTE-292: Thms 2.1, 2.4 complete).
+evidence:
+  - "NOTE-292: Thm 2.5 gives ∧, ∨ (stagewise) and ¬ (2.39), leaves ⇒ to 'straightforward extension', and does not check the Heyting laws (claim C3, 'sketch'). Each Σ_V is compact Hausdorff and, for a von Neumann algebra, extremally disconnected (NOTE-292 'Topology')."
+  - "ADR-047 v2 (owner, 2026-10-19): a checked step-by-step re-derivation in the decision file meets a promote_when that asks for a proof the record does not hold. The re-derivation is below."
+  - >-
+    Re-derivation, part 1: Sub_cl(Σ) is a frame. Order is stagewise
+    inclusion. (a) Finite meets are stagewise ∩: an intersection of clopens
+    is clopen, and ρ(S_V ∩ T_V) ⊆ ρ(S_V) ∩ ρ(T_V) ⊆ S_V′ ∩ T_V′ for V′ ⊆ V.
+    (b) Arbitrary joins exist: for a family (T_i), put (⋁T_i)_V =
+    cl(⋃_i T_i,V). The closure of an open set in an extremally disconnected
+    space is clopen. It is a sub-object, since ρ is continuous:
+    ρ(cl ⋃ T_i,V) ⊆ cl ρ(⋃ T_i,V) ⊆ cl ⋃ T_i,V′. And it is the least upper
+    bound, since any upper bound U has U_V closed and containing every
+    T_i,V. So Sub_cl(Σ) is a complete lattice. (c) Finite meets distribute
+    over arbitrary joins: for S_V clopen and any U, S_V ∩ cl U = cl(S_V ∩ U).
+    The "⊆" holds because S_V is open, and the "⊇" because S_V is closed.
+    Apply this with U = ⋃ T_i,V. A complete lattice in which ∧ distributes
+    over arbitrary ⋁ is a frame, hence a complete Heyting algebra, with
+    S ⇒ T = ⋁{R : R ∧ S ≤ T}. The Heyting laws (R ≤ S ⇒ T iff R ∧ S ≤ T)
+    hold by construction, and distributivity of the finite lattice
+    operations follows.
+  - >-
+    Re-derivation, part 2: the pseudo-complement is (2.39). ¬S = S ⇒ 0 is
+    the largest R with R ∧ S = 0. Suppose R ∧ S = 0 and λ ∈ R_V. Then for
+    each V′ ⊆ V, λ|V′ ∈ R_V′, which is disjoint from S_V′. So R_V lies inside
+    the closed set ⋂_(V′⊆V){λ : λ|V′ ∉ S_V′}, and being open, inside its
+    interior. That interior is clopen (interior of a closed set in an
+    extremally disconnected space). NOTE-292's check shows it is
+    restriction-stable, using openness of ρ. So it is the largest such R,
+    and it equals (2.39).
+  - >-
+    Re-derivation, part 3: excluded middle fails. Take H = ℂ². The contexts
+    are ℂ·1, with a one-point spectrum, and the maximal abelian subalgebras
+    V_b, one for each orthonormal basis b, each with a two-point spectrum
+    that restricts onto that point. Fix a basis b₀, and let S be: the point
+    at ℂ·1, one point of Σ_(V_b₀) at V_b₀, and the full spectrum at every
+    other V_b. This is a clopen sub-object. Any R with R ∧ S = 0 has
+    R_(ℂ·1) = ∅, and then R_V = ∅ for all V by the restriction condition. So
+    ¬S = 0, and S ∨ ¬S = S, which is not Σ. The algebra is not Boolean.
+blockers: []
+notes: >-
+  The promote_when rules out "the general fact that Sub(X) is Heyting in any
+  topos", because clopen sub-objects are not all sub-objects. The argument
+  above is internal to Sub_cl(Σ) and uses extremal disconnectedness, so it
+  meets that objection. It agrees with LIT-378's remark that Sub_cl(Σ) is
+  not a Heyting subalgebra of Sub(Σ): its joins and negation are
+  regularized. Confidence is medium because part 2's restriction-stability
+  rests on NOTE-292's check, not on a re-derivation here.
+unlocks:
+  - "QUESTION-055 (answered_by THEORY-037). Check it in a dependency pass once this is Active."
+next_action: >-
+  Promotion PR. Add a dated note with the three-part re-derivation, cite
+  ADR-047 v2 in the history note, remove the promote_when and set Active.

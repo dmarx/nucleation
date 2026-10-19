@@ -1,21 +1,25 @@
 ---
 number: 184
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpmh1ao
-promote_when: >-
-  What would settle it is the proof checked independently of this reading,
-  or the same result found stated and proved in the literature on
-  symmetry-induced constraints or equivariant dynamics, together with a
-  check of the local form: that two neurons can coincide after one step
-  only when η times the update's Lipschitz ratio across their swap is at
-  least 1. It is refuted by a permutation-equivariant update with ηK < 1
-  under which two distinct neurons coincide after one step. Experiments
-  that track Betti numbers or other scale-dependent shape summaries of the
-  neuron cloud cannot settle it either way, since the claim says nothing
-  about them.
 title: 'Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/THEORY-184.yaml,
+    batch 005, ADR-047). The promote_when asked for the proof to be checked
+    independently of NOTE-663, together with the local form. The review
+    checked both. Lemma 1: the swap of i and j fixes X when x_i = x_j, so
+    U_i = U_j. Lemma 2: equivariance makes U(X) − U(PX) zero except at i
+    and j, so ‖U_i − U_j‖ ≤ K‖x_i − x_j‖, and each step scales the distance
+    by a factor in [1 − ηK, 1 + ηK]. The local form: x_i′ = x_j′ needs
+    η‖U(X) − U(PX)‖/‖X − PX‖ = 1. The refutation clause is impossible by
+    the same computation. The promote_when is removed. The claim is
+    unchanged.
 tags:
 - loss-landscapes
 - mathematics
@@ -111,3 +115,13 @@ So, on that account, distinct neurons approach each other asymptotically
 when weight decay or noise is strong, consistent with this result's bound
 that they cannot merge in finitely many small steps. The SGD half rests
 on a second-order, diagonal-Hessian argument.
+
+## Note of 2026-10-19: Active
+
+The independent check the promote_when asked for is the promotion audit's
+(batch 005). It reproduces Lemmas 1 and 2 from equivariance and the
+Lipschitz bound alone, and the local form follows from the same identity.
+The result is elementary enough that the record could hold it as its own
+derivation. It stays a THEORY sourced to [LIT-861](../literature.d/LIT-861.md), to keep the attribution.
+Whether [QUESTION-058](../questions.d/QUESTION-058.md) is now answered for the finite-step half is left to
+the next review of that question.

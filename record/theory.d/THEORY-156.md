@@ -10,7 +10,19 @@ promote_when: >-
   is checked together with the 1951 proofs of the two results it quotes.
   Restatements in surveys do not count.
 title: 'For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, from the second pass of the owner's
+    promotion audit of 2026-10-19, the finite-outcome case is filed apart
+    as THEORY-717, Active. The 1953 paper proves it in full
+    (Theorems 4–6, followed step by step in NOTE-595), and the
+    promote_when, which concerns the quoted 1951 results and the
+    arbitrary-outcome case, does not bear on it. This THEORY extends it
+    and keeps the general case. The promote_when and the claim are
+    unchanged; the status stays Proposed.
 tags:
 - mathematical-statistics
 - information-theory
@@ -27,6 +39,8 @@ summary: >-
   finite converse is Sherman and Stein (1951); the general converse is
   proved in 1953. It is a qualitative order and says nothing about how much
   worse an incomparable experiment is.
+extends:
+- THEORY-717
 supports:
 - CLAIM-050
 - CLAIM-125
@@ -39,7 +53,6 @@ supports:
 - CLAIM-212
 - CLAIM-228
 - CLAIM-259
-- CLAIM-323
 - CLAIM-326
 ---
 
@@ -92,3 +105,17 @@ Corollary).
   That a quantity such as mutual information or an f-divergence is
   monotone under garbling is a consequence one may draw, but the paper
   states only the convex-function criterion of Theorem 1.
+
+## Note of 2026-10-19: the finite case filed apart
+
+The finite-outcome case is [THEORY-717](THEORY-717.md), Active. The paper proves it
+without the quoted results: Theorems 4–6 for the converse, and a one-line
+matrix argument for the direct implication. Claims that cite this THEORY
+for experiments with finitely many outcomes can cite that one instead.
+This one is Proposed only for the arbitrary-outcome extension.
+
+The citing claims were checked the same day. [CLAIM-323](../claims.d/CLAIM-323.md), whose case is
+finite, now rests on that THEORY alone. [CLAIM-237](../claims.d/CLAIM-237.md) and [CLAIM-326](../claims.d/CLAIM-326.md) cite
+both, each with a note saying when the finite case suffices. The other ten
+use the definition or the order for unrestricted renderings, and they
+stay here.

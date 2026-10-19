@@ -1,6 +1,6 @@
 ---
 number: 270
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpxrn16
 title: 'Retaining information about where a Markov chain started and staying
@@ -8,7 +8,7 @@ title: 'Retaining information about where a Markov chain started and staying
   forget its initial state while its distribution stays far from where it
   began, so convergence is not preservation and losing information about the
   origin is not degradation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-13'
@@ -16,6 +16,15 @@ history:
     with the group B splits"). The assistant restated the general content
     without the premises about translation that CLAIM-081 rests on; CLAIM-081
     now rests on this claim.
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/CLAIM-270.yaml,
+    batch 001, ADR-047). The claim was demonstrated by CASE-017 and by
+    argument. Two-state constructions for all four combinations of
+    retention and drift are added, so that the warrant shows its
+    construction. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: A proof that, for Markov chains in general, the mutual information
@@ -81,3 +90,19 @@ All three now rest on this claim for the distinction.
 - That a real transmission chain is Markov. Adding independent historical
   evidence to later states changes the graph and invalidates a naive use
   of the inequality.
+
+## Note of 2026-10-19: the four combinations, constructed
+
+Take two states {a, b}, drift measured in total variation, and one step.
+
+| start P(U_0) | kernel | retention I(U_0; U_1) | drift TV(P(U_1), P(U_0)) |
+|---|---|---|---|
+| (1/2, 1/2) | both states go to a | 0 | 1/2 |
+| (1/2, 1/2) | resample uniformly | 0 | 0 |
+| (0.9, 0.1) | swap a and b | H(U_0), the maximum | 0.8 |
+| (0.9, 0.1) | identity | H(U_0), the maximum | 0 |
+
+The first two rows have the same retention and different drift. The last
+two do as well, so neither quantity is a function of the other. That meets
+the defeat condition's terms and fails it: no monotone relation holds for
+Markov chains in general.

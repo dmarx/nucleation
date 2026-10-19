@@ -1,0 +1,60 @@
+# record/promotion-audit/decisions/THEORY-017.yaml
+id: THEORY-017
+batch: batch-005
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: medium
+scope:
+  accepted: >-
+    The mathematical core, as a new Active THEORY sourced to LIT-274 and
+    LIT-275, with the elementary parts written out.
+    (a) On a finite-dimensional Hilbert space the unitary group acts
+    transitively on orthonormal bases, and on tensor factorisations
+    H ≅ H_A ⊗ H_B of given dimensions, so neither is distinguished by the
+    space alone. A non-degenerate self-adjoint operator fixes a basis only
+    up to phases, and its invariant content is its spectrum.
+    (b) Over ℂ, commutative special †-Frobenius algebras correspond exactly
+    to orthonormal bases (LIT-274, Thm 5.1 and §6, finite dimension). In any
+    dimension, the non-unital ones satisfying the H*-axiom do (LIT-275,
+    Thm 22).
+    (c) Over ℝ the correspondence fails: ℝ² carrying complex multiplication
+    scaled by 1/√2 is a commutative special †-Frobenius algebra with no
+    nonzero copyable vector.
+  excluded: >-
+    The synthesis: the table placing Carroll, van Rijsbergen, DisCoCat, its
+    Frobenius sequel and THEORY-004, and the two inferences (contextuality
+    needs several bases; Boolean structure needs a basis). The body says
+    these are "this document's inferences, not claims in the sources", and
+    the promote_when's remaining condition is exactly a per-placement check
+    against the sources.
+evidence:
+  - "promote_when: 'The Coecke–Pavlovic–Vicary condition is met: LIT-274 is read (NOTE-247), and it proves the basis–Frobenius correspondence, for complex spaces.' Version-3 history: LIT-275 read, Theorem 22."
+  - >-
+    (a), checked for this review. If U₁, U₂: H_A ⊗ H_B → H are two
+    factorisations, U₂U₁⁻¹ is a unitary of H carrying one to the other. For
+    bases the same holds with the basis map ℂⁿ → H.
+  - >-
+    (c), checked for this review. On ℂ ≅ ℝ² with basis {1, i}, let m be
+    complex multiplication. Then m m†(1) = m(1⊗1) + (−1)m(i⊗i) = 2, and
+    likewise for i, so (m/√2)(m/√2)† = id: it is special. It is
+    commutative and associative. A vector x is copyable when m†(x) = x ⊗ x.
+    But m†(x) is the bilinear form (a, b) ↦ Re(ab x̄), whose matrix in
+    {1, i} has determinant −|x|² ≠ 0. That form has rank 2, while x ⊗ x has
+    rank 1. So no nonzero x is copyable. This matches NOTE-247's numerical
+    check.
+blockers:
+  - >-
+    The synthesis stays Proposed under the existing promote_when: check, in
+    each placement, that the invariance or dependence was measured or proved
+    in the source and not inferred by the reader. LIT-273's covariance and
+    LIT-272's rotation sensitivity are currently the readers' numerical
+    checks.
+unlocks:
+  - "THEORY-018 extends THEORY-017, THEORY-019 presupposes it, and CLAIM-148 rests on it. Check which of them use only the core."
+  - "CLAIM-269's split (batch 004) involves THEORY-019, so it is worth checking whether the core suffices there."
+next_action: >-
+  Split PR. A new Active THEORY for (a)–(c), sourced to LIT-274 and
+  LIT-275. THEORY-017 extends it and keeps the synthesis and its
+  promote_when, worded for the placements alone.

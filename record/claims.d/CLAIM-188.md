@@ -3,8 +3,24 @@ number: 188
 status: Proposed
 formerly:
 - CLAIM-tmpczjuu
-title: 'For a candidate structure whose removal makes the remaining model singular, the reification rule''s Gaussian Occam term misprices the cost of keeping it, by a term that grows with log n, so the rule is exact only where the model stays regular'
-version: 1
+title: 'Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule''s Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Corrected at the owner's direction, carrying out the promotion audit's
+    decision (record/promotion-audit/decisions/CLAIM-188.yaml, batch 003,
+    ADR-047). The title put the singularity in the model left after the
+    candidate is removed. It is in the model with the candidate, at the
+    parameters where the candidate's contribution is zero: for an MLP, an
+    output weight of zero (THEORY-082). The reduced model is typically
+    regular. The title is restated in that form, and as the conditional the
+    argument supports: it holds where λ < d/2. "Misprices" becomes
+    "overcharges", the direction the body already derives. The sentence on
+    removing blocks is corrected to match. The status stays Proposed until
+    THEORY-087's singular half is held as a proof or the claim's own test is
+    run.
 role: counter
 warrant: demonstrated
 tags:
@@ -34,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-259 — Proposed; the reading named in the note of 2026-10-14, not leaned on -->
 <!-- inactive-ok-file: CLAIM-174 CLAIM-175 THEORY-079 THEORY-087 — Proposed; open, and cited as open: under test, not settled -->
 
-# CLAIM-188: For a candidate structure whose removal makes the remaining model singular, the reification rule's Gaussian Occam term misprices the cost of keeping it, by a term that grows with log n, so the rule is exact only where the model stays regular
+# CLAIM-188: Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule's Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular
 
 ## The claim
 
@@ -62,9 +78,12 @@ from the threshold:
 - **The candidates are the singular kind.** Models "with hierarchical
   layers or hidden variables are singular" ([THEORY-079](../theory.d/THEORY-079.md), citing Watanabe).
   [CLAIM-154](CLAIM-154.md) is put to work on near-decomposable blocks, on couplings
-  ([CLAIM-174](CLAIM-174.md)) and on the owner's dancing couple ([CLAIM-175](CLAIM-175.md)). Removing a
-  block or a coupling from such a model typically leaves parameters that
-  the data no longer pin down. That is the singular case. The step from
+  ([CLAIM-174](CLAIM-174.md)) and on the owner's dancing couple ([CLAIM-175](CLAIM-175.md)). A model that
+  contains a block or a coupling is singular where the coupling is switched
+  off. There the parameters attached to it are not identified, because any
+  value of them gives the same distribution once the coupling's strength is
+  zero. When the reduced model is the truth, this is the case at the true
+  parameter. The step from
   "blocks and couplings" to "singular" is the filer's, and it should be
   checked on a concrete family.
 

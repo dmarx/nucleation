@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-125 CLAIM-105 — Proposed; open, and cited as the claims this objection is to -->
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited for its separation of corpus from elicitation and its two routes to signalling, open -->
-<!-- inactive-ok-file: THEORY-165 THEORY-168 THEORY-176 THEORY-177 — Proposed; cited for the Lipschitz bound, the representation-dependence of CbD verdicts, task-loss comparison and the signalling identity, not as settled -->
+<!-- inactive-ok-file: THEORY-168 THEORY-176 THEORY-177 — Proposed; cited for the Lipschitz bound, the representation-dependence of CbD verdicts, task-loss comparison and the signalling identity, not as settled -->
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the record's repair that makes deficiency computable, cited as open -->
 
 # CLAIM-235: The line's proposed quantities have no finite-data estimators, and its evidence that signalling is typical of language data rests on plug-in estimates from one or a few occurrences, which signal even when the true marginals agree

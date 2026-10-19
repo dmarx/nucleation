@@ -3,8 +3,21 @@ number: 308
 status: Proposed
 formerly:
 - CLAIM-tmpc3sk7
-title: 'Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out'
-version: 1
+title: 'Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no deterministic rule without foresight does better, under fixed known costs and with staleness left out'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Corrected at the owner's direction, carrying out the promotion audit's
+    decision (record/promotion-audit/decisions/CLAIM-308.yaml, batch 002,
+    ADR-047). The title and the lower-bound sentence dropped THEORY-348's
+    "deterministic": no deterministic rule without foresight guarantees
+    better than 2, but a randomized rule can do better in expectation. The
+    qualifier is restored, and a bullet on randomized rules and on small F
+    relative to the per-use overpayment is added. The upper bound was
+    re-derived for the review and holds. The status stays Proposed: this is
+    a counter, and CLAIM-314's objection to it is open.
 role: counter
 warrant: demonstrated
 tags:
@@ -30,7 +43,7 @@ objected_by:
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-185 — Proposed; the claim objected to, and an open claim cited as open -->
 
-# CLAIM-308: Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out
+# CLAIM-308: Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no deterministic rule without foresight does better, under fixed known costs and with staleness left out
 
 ## The claim
 
@@ -54,9 +67,9 @@ On every sequence that rule costs at most twice what filing with
 hindsight would have cost. If reuse stops before the break-even point,
 it paid exactly what hindsight pays. If reuse stops at the break-even
 point, it paid about 2F plus upkeep against hindsight's F plus upkeep.
-After that, both pay upkeep per use. No rule without foresight
-guarantees better than 2: an adversary can stop reuse the moment the
-argument is filed. The paper proves this for snoopy caching, whose
+After that, both pay upkeep per use. No deterministic rule without
+foresight guarantees better than 2: an adversary can stop reuse the
+moment the argument is filed. The paper proves this for snoopy caching, whose
 filed state costs nothing per use. The extension to a filed state with
 per-use cost c_a + u is the record's, by the same accounting.
 
@@ -77,6 +90,14 @@ reconstruction. The unweighted count is what fails, not recurrence as
 such.
 
 ## What it does not say
+
+- **That no rule at all does better.** The lower bound of 2 is for
+  deterministic rules, as [THEORY-348](../theory.d/THEORY-348.md) states. A randomized rule, which
+  files at a random point, is known to guarantee e/(e − 1) ≈ 1.58 in
+  expectation for rent-or-buy (Karlin, Manasse, McGeoch and Owicki). The
+  record does not hold that source. The deterministic bound of 2 is also
+  approached only when filing costs many reconstructions' overpayment. When
+  F is no more than one, filing at once is optimal.
 
 - **Anything about staleness.** The theorem forbids stale reads rather
   than pricing them. [CLAIM-303](CLAIM-303.md)'s added term, that reusing an obsolete

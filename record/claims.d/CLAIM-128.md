@@ -3,10 +3,26 @@ number: 128
 status: Proposed
 formerly:
 - CLAIM-tmp0d575
-title: 'Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks'
-version: 1
+title: 'No single ranking of translations holds across tasks: where distortion profiles trade off, only a task''s priorities rank them, and the theory of fidelity fixes no weighting'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Split under ADR-043 at the owner's direction, from the owner's
+    promotion audit of 2026-10-19. The claim was filed demonstrated, but
+    only its order-theoretic part is proved: trade-off is incomparability
+    under the componentwise order, and positive weights can rank a
+    trade-off either way. That part is now CLAIM-371, Active, and this
+    claim rests on it. What stays is the thesis that fidelity is ranked
+    only relative to a task and that the theory fixes no weighting. It is
+    argued from the manuscript, and whether trade-offs occur for the tasks
+    studied has no observation under it, so by ADR-043's rule it is
+    interpretive. The title is restated to lead with the thesis; the
+    defeat condition, which was already about the thesis, is unchanged.
+    The status stays Proposed.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   For the tasks studied, the components of the fidelity profile D(T)
   order all compared transports the same way, so that no trade-offs
@@ -19,6 +35,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
 - CLAIM-106
+- CLAIM-371
 complements:
 - CLAIM-033
 - CLAIM-240
@@ -38,7 +55,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-106 CLAIM-033 — Proposed; open, and cited as open: the claim is under test, not settled -->
 
-# CLAIM-128: Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks
+# CLAIM-128: No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting
 
 ## The claim
 
@@ -80,3 +97,14 @@ claim is defeated for those tasks.
 It does not say a scalar is illegitimate. A task-relative weighting is
 what the claim allows. It denies only that one weighting is fixed by the
 theory of fidelity itself.
+
+## Note of 2026-10-19: split under [ADR-043](../decisions.d/ADR-043.md)
+
+The order-theoretic part of this claim is now [CLAIM-371](CLAIM-371.md), with its
+proof: under the componentwise order, two profiles are incomparable exactly
+when they trade off, positive weights can then rank them either way, and no
+positive weighting reverses a dominance. That part is demonstrated and
+Active. This claim keeps the thesis built on it, that a ranking of
+translations exists only relative to a task and that the theory of
+fidelity fixes no weighting, and is interpretive. Its defeat condition was
+already about the thesis and is unchanged.

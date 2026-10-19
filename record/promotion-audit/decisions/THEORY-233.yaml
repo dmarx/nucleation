@@ -1,0 +1,48 @@
+# record/promotion-audit/decisions/THEORY-233.yaml
+id: THEORY-233
+batch: batch-007
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+triage: triage-002-control
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as stated, which is mathematics only. Write ρ = K_X/Tr K_X,
+    σ = K_Y/Tr K_Y, A = √ρ√σ, r = min(r(K_X), r(K_Y)), and F = (Tr|A|)², the
+    fidelity, so NBS = 1 − ½B² = √F, since B² = 2 − 2√F. CKA = Tr(ρσ)/(‖ρ‖_F‖σ‖_F).
+    (Lower) F = (Tr|A|)² ≥ ‖A‖_F² = Tr(ρσ) = CKA·‖ρ‖_F‖σ‖_F ≥ CKA/√(r_X r_Y),
+    since 1 = Tr ρ ≤ √r_X ‖ρ‖_F by Cauchy–Schwarz on the eigenvalues.
+    (Upper) rank A ≤ r, so (Tr|A|)² ≤ r‖A‖_F² = r·CKA·‖ρ‖_F‖σ‖_F ≤ r·CKA,
+    since ‖ρ‖_F ≤ Tr ρ = 1. At rank 1 every step is an equality.
+    Eq. 27: NBS = Tr|A| ≥ |Tr A| = CKA(K_X^½, K_Y^½), because
+    ‖K^½‖_F² = Tr K, so K^½/‖K^½‖_F = √ρ, with ‖√ρ‖_F = 1. Equality holds when A ⪰ 0,
+    in particular when the kernels commute. Eq. 28: 1 − Tr(√ρ√σ) =
+    ½‖√ρ − √σ‖²_F ≤ ½‖ρ − σ‖₁ ≤ √(1 − F), by the Powers–Størmer inequality and
+    the Fuchs–van de Graaf upper bound. All three were checked for this
+    review by a direct route, independent of the paper's App. A.3.
+  excluded: >-
+    The promote_when's second clause, a measurement on trained networks of
+    how far CKA and NBS disagree. The THEORY does not claim it ("Not how
+    large the discrepancy is in trained networks"). That is an empirical
+    question, and it goes to a QUESTION unchanged, as THEORY-155's human-
+    chain clause did (batch-000).
+evidence:
+  - "The three derivations above. They need only Cauchy–Schwarz, the rank bound (Tr|A|)² ≤ rank(A)‖A‖_F², Powers–Størmer and Fuchs–van de Graaf, all textbook inequalities."
+  - "NOTE-753 read App. A.3 (the record's THEORY-004 promotion relied on the same NOTE's reading of App. A.2). The typographical slip the promote_when names (NBS(K_X, K_X) for NBS(K_X, K_Y)) does not affect the statement, which is proved here directly."
+blockers: []
+notes: >-
+  The promote_when's first clause asked for a close reading of App. A.3.
+  This decision meets the clause's purpose, settling the inequality, by an
+  independent derivation instead of a reading. It says so, so that the
+  substitution is not a silent override. The derivation is the record's
+  own. It can be written into the THEORY as a dated note, or filed as a
+  CLAIM if the owner prefers record-own proofs kept out of THEORYs (compare
+  THEORY-tmpm565o in PR #178).
+unlocks:
+  - "THEORY-002's promote_when cites eq. 24 as the reason a CKA bound does not count. An Active THEORY-233 makes that citation settled."
+next_action: >-
+  Promotion PR. Add the derivation as a dated note (or as a CLAIM, as
+  above), move the trained-network clause into a new QUESTION, remove the
+  promote_when, and set Active.

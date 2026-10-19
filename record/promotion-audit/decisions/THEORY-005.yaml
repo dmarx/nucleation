@@ -1,0 +1,18 @@
+# record/promotion-audit/decisions/THEORY-005.yaml
+id: THEORY-005
+batch: batch-000
+reviewed: '2026-10-19'
+reviewed_revision: 27ae8a3906d5b75a57767f7e524acd6749a2344f  # head of PR #165, where the decision was made and carried out
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The operator identity, as the record's own demonstrated claim (CLAIM-tmpu2dsm), Active.
+  excluded: >-
+    The sources' statement and trained features, which stay Proposed.
+evidence:
+  - "PR #165 and its curation entries record/curation.d/2026/10/19/024107.md, 034134.md and 041525.md."
+blockers: ['promote_when asks for a published statement, or a result that trained features span the eigenfunctions.']
+carried_out_in: 'PR #165 (open as of 2026-10-19)'
+next_action: None.

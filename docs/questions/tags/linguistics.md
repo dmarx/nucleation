@@ -6,7 +6,7 @@
 
 **Linguistics** — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.
 
-4 of 135 QUESTION documents. Back to the [full index](../README.md).
+5 of 137 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -14,3 +14,4 @@
 | [QUESTION-014](../../../record/questions.d/QUESTION-014.md) | Does a stable speaker footing measurably reduce pragmatic drift relative to shifting frames, even when both drift lexically? | A67, after the inference harness could not be run: "The next result worth obtaining". The manuscript's Case II (stable complicit, stable admonitory, alternating and random frames) would answer it; no data exists. | Open |
 | [QUESTION-021](../../../record/questions.d/QUESTION-021.md) | Is there a frame-independent communicative act that translations approximate, or is the act's identity constituted by a family of frame-relative realizations? | Opened at A18 as "the deepest question in your line of thought". The manuscript takes the second horn in practice ([CLAIM-115](../../../record/claims.d/CLAIM-115.md)) but never argues against the first. | Open |
 | [QUESTION-023](../../../record/questions.d/QUESTION-023.md) | Can the opacity of insider vocabulary be a preservation target in its own right? | Raised twice by the assistant in the Henley workshop (A6, A9) and never answered. The manuscript treats opacity only as a loss to an audience lacking knowledge (§5), not as something a rendering might owe its reader. | Open |
+| [QUESTION-137](../../../record/questions.d/QUESTION-137.md) | Do human transmission chains converge to the learners' independently measured prior where their responses behave as posterior samples, and depart from it as the MAP analysis predicts where they behave as maximizers? | The empirical half of what [THEORY-155](../../../record/theory.d/THEORY-155.md)'s promotion condition asked for until 2026-10-19. The theorem, that an ergodic chain of posterior- sampling Bayesian learners with a shared prior and matched production converges to that prior, is proved and Active. Whether human chains behave so is a separate question, and only a chain whose learners' prior is measured or set apart from the chain can answer it. | Open |

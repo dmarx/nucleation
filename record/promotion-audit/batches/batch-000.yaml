@@ -1,0 +1,16 @@
+# record/promotion-audit/batches/batch-000.yaml
+batch: batch-000
+date: '2026-10-19'
+kind: imported
+note: >-
+  The decisions PR #165 made before ADR-047's procedure existed: the owner's
+  first audit, its second pass and the follow-up. They are recorded so that
+  the queue does not send a later batch back to them. The reasoning is in
+  PR #165's three curation entries of 2026-10-19.
+reviewed: [CLAIM-264, CLAIM-128, CLAIM-123, THEORY-155, THEORY-008, THEORY-005, THEORY-001, THEORY-156, THEORY-087]
+outcomes:
+  promote: [CLAIM-264]
+  narrow-and-promote: [THEORY-155, THEORY-008]
+  split: [CLAIM-128, THEORY-005, THEORY-001, THEORY-156, THEORY-087]
+  needs-correction: [CLAIM-123]
+yield: 8 of 9 found a promotion path

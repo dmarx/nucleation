@@ -1,0 +1,56 @@
+# record/promotion-audit/decisions/THEORY-325.yaml
+id: THEORY-325
+batch: batch-006
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The deterministic half, as a new Active THEORY sourced to LIT-929.
+    (a) Necessity (eq. 12): lim sup (1/t)∫λ_min ≤ λ ≤ lim sup (1/t)∫λ_max,
+    with λ_min and λ_max the extreme eigenvalues of (A + A†)/2. For a normal
+    A(t) the largest is the spectral abscissa α(t). So a normal operator
+    with α(t) ≤ −c < 0 has λ ≤ −c. (b) Existence: a non-normal operator
+    stable at every instant can have a positive exponent. The paper shows
+    only neutral cases. The record closes the stable case with one
+    construction: for any A(t) with exponent λ > 0, A(t) − δI has the
+    exponent λ − δ exactly, because Φ_δ(t) = e^(−δt)Φ(t), and for 0 < δ < λ
+    it is stable at every instant (eigenvalues shifted by −δ) and unstable.
+    Applied to the switched oscillator of eqs. 13–17 (γ = 0, ω between
+    0.5 and 3, T = 1): the monodromy over one period is
+    M = R_3(1)R_0.5(1), with det M = 1 and tr M = −2.1548. So |tr M| > 2,
+    the largest Floquet multiplier is 1.4784, and λ = ln(1.4784)/2 = 0.1955.
+    With δ = 0.1, the shifted system is stable at every instant and has
+    λ = 0.0955. This was computed exactly for this review (closed-form
+    rotation blocks R_ω(T)), with no numerical integration.
+  excluded: >-
+    The stochastic half: that multiplicative white noise destabilizes
+    generically (dimension ≥ 2, noise matrices neither skew-symmetric nor
+    commuting with Ā), which the paper cites to Has'minskii and Colonius &
+    Kliemann, and that the threshold falls with non-normality and rises
+    with damping, which it shows only numerically (Figs. 8–9). THEORY-325
+    keeps both with its promote_when.
+evidence:
+  - "NOTE-842 claims table: C2 (necessity) is 'strong, eq. 12, a one-line bound'. C3 (it happens) is 'strong, switched oscillator, Fig. 6; random neutral matrices, Fig. 7'. C4 is 'moderate here: cited theorems, not proved in the paper'. C5 is 'moderate: numerical'."
+  - "NOTE-842: 'The paper states, and does not show, that the destabilization persists for γ > 0, when the operator is stable at each instant.' The shift construction above supplies it, in a different form of damping (−δI, not −2γ on the velocity), which is enough for the existence claim."
+  - "Necessity, re-derived: d‖u‖²/dt = u†(A + A†)u ≤ 2λ_max‖u‖². For normal A, λ_max((A + A†)/2) = max Re spec A."
+blockers: []
+notes: >-
+  A precision for the new THEORY. The paper's "stable at each instant and
+  normal ⇒ negative exponent" needs uniform stability, α(t) ≤ −c < 0. With
+  α(t) < 0 that tends to 0, the bound gives only λ ≤ 0. State it with the
+  uniform condition. The title of THEORY-325 bundles both halves, which is
+  why the whole entry has been Proposed though its first half was strong.
+  This is NOTES pattern 2.
+unlocks:
+  - "CLAIM-186 cites THEORY-325 for the nonautonomous point. Only the deterministic half is needed for 'a structure stable at every snapshot need not settle', so it can cite the new THEORY. Check in a wave-4 pass."
+next_action: >-
+  Split PR. File a new Active THEORY sourced to LIT-929: necessity under
+  uniform stability (eq. 12), and existence, via the switched oscillator
+  with the −δI shift and the Floquet check above written into the body.
+  Narrow THEORY-325's title to the stochastic half (genericity under
+  noise; the threshold's dependence on non-normality and damping), keep
+  its promote_when, and have it extend the new THEORY. The status of
+  THEORY-325 stays Proposed.

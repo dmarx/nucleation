@@ -1,0 +1,64 @@
+# record/promotion-audit/decisions/THEORY-021.yaml
+id: THEORY-021
+batch: batch-010
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The algebra for the exact configurations, which is what the title should
+    say: the regular polygons, the tetrahedron, antipodal pairs, and tegum
+    products of these in mutually orthogonal subspaces that together span
+    ℝ^m. For these, Σᵢ Dᵢ ŵᵢŵᵢᵀ = I, so {Dᵢ ŵᵢŵᵢᵀ} is a rank-one POVM. For a
+    single tight factor of n unit vectors in m dimensions, Dᵢ = m/n, and it
+    is the compression of the standard basis of ℝⁿ by the co-isometry
+    √(m/n)·W. The promote_when itself says "The algebra is settled for the
+    exact configurations". Re-derived below (ADR-047 v2).
+  excluded: >-
+    Whether trained models reach these configurations, which is the
+    promote_when's whole content. That is an empirical question about
+    trained weights (Σᵢ Dᵢ ŵᵢŵᵢᵀ measured on a toy's W or on a sparse
+    autoencoder's decoder), and it moves, with the promote_when unchanged,
+    to a new QUESTION or to QUESTION-058, which this THEORY answers. Also
+    excluded: the square antiprism (Dᵢ = 3/8). Its symmetry group acts
+    reducibly on ℝ³, so tightness depends on its vertex heights, and
+    NOTE-278 does not check it. The narrowed title should list only the
+    configurations checked.
+evidence:
+  - "promote_when: 'The algebra is settled for the exact configurations. What is open is whether trained models reach them.'"
+  - "NOTE-278 checks the tight-frame inference numerically for the triangle, pentagon, tetrahedron and antipodal pairs, and the tegum refinement (frame-operator eigenvalues 1.5, 1.5, 2) was checked when the THEORY was filed."
+  - >-
+    Re-derivation. Let the n feature vectors W_j have equal norms c (the
+    polytope case), and let F = Σ_j W_jW_jᵀ. The definition
+    Dᵢ = ‖Wᵢ‖² / Σ_j (ŵᵢ·W_j)² = c² / (ŵᵢᵀ F ŵᵢ). (1) A single factor: the
+    vertex set of a regular polygon in ℝ², of the tetrahedron in ℝ³, or of an
+    antipodal pair in ℝ¹ is the orbit of an irreducible finite group, so F
+    commutes with the group and is a scalar, F = (nc²/m)I, by Schur and the
+    trace. Then Dᵢ = m/n and Σᵢ Dᵢ ŵᵢŵᵢᵀ = (m/n)(F/c²) = I. Put V = √(m/n)·Ŵ,
+    with columns ŵᵢ. Then VVᵀ = I_m, so V is a co-isometry, and
+    Eᵢ = V eᵢeᵢᵀ Vᵀ = (m/n) ŵᵢŵᵢᵀ compresses the standard basis's projectors.
+    (2) A tegum product: factors in mutually orthogonal subspaces S_k, with
+    ⊕S_k = ℝ^m. Cross-factor inner products vanish, so ŵᵢᵀFŵᵢ only sees
+    vectors of i's own factor, and (1) holds inside each S_k:
+    Σ_{i∈k} Dᵢ ŵᵢŵᵢᵀ = P_k, the projector onto S_k. Summing gives
+    Σ_k P_k = I. F itself is not scalar when factors have different n_k/m_k,
+    which is the "not globally tight" refinement. The equal-norm assumption
+    is needed only inside each factor.
+blockers: []
+notes: >-
+  The confidence is medium, not high. The algebra is checked here, but the
+  narrowed title must name the configurations precisely, and the equal-norm
+  assumption within each factor must be stated. It holds for the paper's
+  polytopes (NOTE-278), but not for arbitrary "efficiently packed"
+  geometries. As for the record's own inference: under the owner's rule
+  (ADR-047 v2) the THEORY is promoted on the re-derivation.
+unlocks:
+  - "QUESTION-058 is answered by THEORY-021. Its status may change once this is Active; check in a dependency pass."
+next_action: >-
+  Narrow-and-promote PR. Retitle THEORY-021 to the listed exact configurations
+  (regular polygons, tetrahedron, antipodal pairs, and spanning tegum
+  products of them, with equal norms within each factor), set it Active,
+  and add the re-derivation as a dated note. Move the trained-model
+  promote_when, unchanged, to a new QUESTION, or fold it into QUESTION-058.

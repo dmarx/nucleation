@@ -1,0 +1,31 @@
+# record/promotion-audit/batches/batch-006.yaml
+batch: batch-006
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  The next five pending wave-2 candidates of triage-002, in queue order
+  (queue version 36).
+reviewed: [THEORY-325, THEORY-277, THEORY-247, THEORY-236, THEORY-206]
+outcomes:
+  split: [THEORY-325, THEORY-236]
+  narrow-and-promote: [THEORY-247, THEORY-206]
+  retain-proposed: [THEORY-277]
+yield: 4 of 5 found a promotion path
+finding: >-
+  Three of the four promotion paths needed the record to supply a step the
+  source left out, not just to confirm one: a uniform −δI shift that turns
+  the paper's neutral example into one stable at every instant
+  (THEORY-325); a contraction argument and the textbook occupancy-LP route
+  (THEORY-247); and a column-space generalisation that answers the centred
+  case the promote_when asked for (THEORY-236). The fourth, THEORY-206,
+  needed a re-derivation of the rank argument that uses the lower-degree
+  Taylor parts. The one retention, THEORY-277, is the first wave-2 entry
+  whose promote_when bundles nothing: it asks only for an independent
+  proof of one theorem. That shape does not split, so it will not yield to
+  this wave's default.
+follow_up_prs:
+  - "Split THEORY-325: a new Active THEORY for the deterministic half (necessity under uniform stability; existence via the −δI shift and the Floquet check). THEORY-325 keeps the stochastic half."
+  - "Split THEORY-236: promote it, and file the column-space CLAIM (the centred case)."
+  - "Narrow-and-promote THEORY-247 (fixed-point form) and THEORY-206 (Taylor sense), with a QUESTION for THEORY-206's uniform and bias cases."
