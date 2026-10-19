@@ -1,0 +1,35 @@
+# record/promotion-audit/decisions/CLAIM-046.yaml
+id: CLAIM-046
+batch: batch-028
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The warrant is right. The claim's conclusion is methodological
+    ("pragmatic identity and fidelity should be defined on observable
+    responses before any equivalence of internal states is assumed").
+    Its premise, that different hidden-state models can produce
+    identical observations, is the familiar non-identifiability of
+    latent models. A defeater that shows internal states identifiable
+    and more predictive is the right kind of undercut for a
+    recommendation, and nothing observed stands under it. ADR-043's
+    pilot reads that as interpretive (its note on CLAIM-117).
+  excluded: >-
+    The premise on its own, which is demonstrated, not interpretive. It
+    could be filed as a demonstrated CLAIM if a later claim needs to
+    lean on it; nothing does now.
+evidence:
+  - "CLAIM-046 title and defeated_if."
+  - "CLAIM-117's ADR-043 note: 'untested and, with no observation under it, interpretive'."
+blockers:
+  - "No study comparing fidelity defined on internal states with fidelity defined on observations."
+notes: >-
+  The sweep's cue matched "responses". A methodological 'should' with an
+  empirical undercut is correctly interpretive.
+unlocks: []
+next_action: >-
+  None.

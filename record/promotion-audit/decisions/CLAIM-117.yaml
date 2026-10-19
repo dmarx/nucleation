@@ -1,0 +1,28 @@
+# record/promotion-audit/decisions/CLAIM-117.yaml
+id: CLAIM-117
+batch: batch-028
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The warrant is right, and ADR-043's own pilot set it: its note of
+    2026-10-15 split off the commutator identity (CLAIM-063, now
+    CLAIM-373) and kept this claim interpretive because it is "untested
+    and, with no observation under it, interpretive".
+  excluded: >-
+    Nothing.
+evidence:
+  - "CLAIM-117's 'Note of 2026-10-15: split under ADR-043'."
+blockers:
+  - "No study of order effects on fidelity verdicts; CLAIM-052 (Proposed) is a premise; CLAIM-011 and CLAIM-253 object."
+notes: >-
+  This note is the record's own reading of ADR-043 for untested empirical
+  claims. It conflicts with batch 022's correction of CLAIM-052 to
+  empirical (#204); see the owner question in batch-028.yaml.
+unlocks: []
+next_action: >-
+  None.

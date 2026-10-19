@@ -1,0 +1,47 @@
+# record/promotion-audit/decisions/CLAIM-033.yaml
+id: CLAIM-033
+batch: batch-028
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    The warrant is right: interpretive, with no study under it. What
+    needs correcting is the fit between title and defeat condition, and
+    which side to change is not a sweep's call. The title is a
+    possibility claim ("a translation can broaden ... while narrowing"),
+    with Jakobson's Russian rendering of "I hired a worker" (LIT-786,
+    NOTE-614) and CASE-012 as instances. Version 2 (2026-10-10)
+    deliberately restated the defeat condition as a prevalence test ("at
+    a rate no greater than one fixed in advance"), because CLAIM-238
+    (Active, granted) showed that a possibility thesis's natural
+    defeater is a universal negative no finite study establishes. The
+    title was left saying "can", so it no longer matches its defeater: a
+    low rate does not defeat a "can".
+  excluded: >-
+    The fix itself. Either the title is restated as the prevalence claim
+    the defeater tests, or the claim stays a possibility thesis whose
+    defeat condition names the cited instances failing on inspection,
+    which CLAIM-238's point about universal negatives does not reach.
+    That choice weighs an Active objection and the line's other
+    possibility theses, so it belongs to a regular review, not to a
+    mechanical sweep. No PR is opened.
+evidence:
+  - "CLAIM-033 body: 'Jakobson (1959) makes the same point at the level of grammar (LIT-786, NOTE-614, THEORY-170) ... a translation adds information along one dimension while losing it along another.'"
+  - "CLAIM-033 version 2 history: 'version 1 was a universal negative (\"never gain\"), which no study establishes; the restatement is a claim of prevalence.'"
+  - "CLAIM-238 (Active, granted): 'the possibility theses' are universal negatives that no finite study establishes'."
+blockers:
+  - "Which side to restate (title or defeat condition) is a design choice that weighs CLAIM-238; THEORY-170 and CLAIM-042 are Proposed."
+notes: >-
+  A title left behind by its own restated defeater. CLAIM-238 lists other
+  possibility theses (CLAIM-115, -139, -077, -143, -087, -105) whose
+  defeaters were revised on 2026-10-10; check each title against its
+  revised defeater in the same review.
+unlocks: []
+next_action: >-
+  Queue for a regular review of the 2026-10-10 possibility theses, with
+  CLAIM-238 in view: restate CLAIM-033's title as prevalence, or its
+  defeater as the instances failing. No sweep PR.

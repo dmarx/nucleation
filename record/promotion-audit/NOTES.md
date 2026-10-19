@@ -756,3 +756,27 @@ history note. THEORY-277 is requeued on this basis.
   promoted almost nothing. It found misclassified warrants, and a
   mechanical count suggests 36 more. ADR-040 parents marked demonstrated
   are a second sweep (pattern 1, five cases now).
+
+## 2026-10-19 — batch 028 (warrant-correction sweep)
+
+- Two readings of ADR-043 are in use. The pilot's: an empirical claim with
+  no observation under it is interpretive (CLAIM-117, CLAIM-063,
+  CLAIM-056). Batch 022's: it is empirical (CLAIM-052, #204). Until the
+  owner rules, don't correct warrants in either direction on that ground
+  alone.
+- Term-of-art false positives. "Empirical model" (contextuality) and
+  "experiment" (Blackwell's statistical experiments) fire the cue list
+  without naming anything observed. warrant_sweep.py excludes the first;
+  the second needs a reading.
+- Check the defeater's quantifier against the title's. An existence title
+  ("can") with a frequency defeater ("at a rate no greater than") is a
+  mismatch, but read the history first: CLAIM-238 (Active, granted) is why
+  the 2026-10-10 restatements turned possibility defeaters into prevalence
+  tests, so the fix may be the title, and that is a design choice.
+- A title already corrected by its own body. CLAIM-074's body says the
+  transient/persistent dichotomy in its title "does not hold"; the title
+  is unchanged. Grep bodies for "does not hold" or "needs stating" in a
+  later pass.
+- Split parents and earlier corrections reappear in any mechanical sweep
+  (CLAIM-056, CLAIM-063). Skip codes whose last decision was carried out
+  unless their entry changed since.
