@@ -36,7 +36,7 @@ summary: >-
   is covered only to mark the difference, and the review nowhere derives
   the relation between the two notions.
 ---
-<!-- inactive-ok-file: THEORY-013 THEORY-014 THEORY-174 THEORY-309 THEORY-303 NOTE-237 — Proposed or Superseded; accounts this reading bears on, the two accounts filed from it, and the skim it replaces -->
+<!-- inactive-ok-file: THEORY-013 THEORY-174 THEORY-309 THEORY-303 NOTE-237 — Proposed or Superseded; accounts this reading bears on, the two accounts filed from it, and the skim it replaces -->
 
 # NOTE-844: Budroni, Cabello, Gühne, Kleinmann & Larsson — Kochen-Specker Contextuality
 

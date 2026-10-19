@@ -32,7 +32,7 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-813 — Superseded: the paper this note reads, withdrawn by its authors -->
-<!-- inactive-ok-file: THEORY-014 THEORY-165 — Proposed; cited for what this reading does or does not add to them -->
+<!-- inactive-ok-file: THEORY-165 — Proposed; cited for what this reading does or does not add to them -->
 
 # NOTE-629: Sheaf-theoretic structure of definite causality
 
