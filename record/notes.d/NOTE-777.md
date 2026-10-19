@@ -28,7 +28,7 @@ summary: >-
   fit them worse, then better again. The n-gram/moment equivalence is an
   identity of one-hot indicators. The ordering argument is a heuristic.
 ---
-<!-- inactive-ok-file: THEORY-279 THEORY-229 THEORY-204 THEORY-201 THEORY-039 — Proposed; the account filed from this reading and the accounts of acquisition order it is set beside -->
+<!-- inactive-ok-file: THEORY-279 THEORY-204 THEORY-201 THEORY-039 — Proposed; the account filed from this reading and the accounts of acquisition order it is set beside -->
 
 # NOTE-777: Belrose et al. — Neural Networks Learn Statistics of Increasing Complexity
 
