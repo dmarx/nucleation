@@ -71,6 +71,9 @@ recommendation: >-
   "matches", "is consistent with"), which are now cheap promotions once
   narrowed.
 owner_questions: []
+promotion_prs:
+  - "#207: THEORY-191 and THEORY-192, narrow-and-promote under ADR-047 v3; QUESTION-tmpq3pd7 (branch claude/promote-theories-191-192)."
+  - "#209: THEORY-255 narrow-and-promote; THEORY-033 split into THEORY-tmpgjhho; QUESTION-tmpsrgse (branch claude/promote-theory-255-split-033)."
 follow_up_prs:
   - "THEORY-191 and THEORY-192: narrow-and-promote under ADR-047 v3. One new QUESTION holds both promote_whens: whether the hyperbolic Betti-curve matches separate a hyperbolic metric from a flat sphere (odour) or a flat multiscale code (CA1)."
   - "THEORY-255: narrow-and-promote, with the order-theoretic generalisation as a dated note and the second-model clause moved to a new QUESTION. THEORY-033: split. A new Active THEORY holds the derivation under its stated assumptions, and the parent's measured clause is corrected (about 10× on six of eight tasks, about 20× on two)."
