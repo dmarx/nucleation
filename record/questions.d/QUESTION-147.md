@@ -34,7 +34,7 @@ by the node dynamics through the transverse IRR blocks. Pecora et al.
 with one bifurcation parameter. Until 2026-10-19 [THEORY-276](../theory.d/THEORY-276.md)'s
 promote_when asked for a second test. At the owner's direction, from the
 promotion audit's batch 013
-(record/promotion-audit/decisions/[THEORY-276](../theory.d/THEORY-276.md).yaml, [ADR-047](../decisions.d/ADR-047.md)), the
+(the audit's decision file for [THEORY-276](../theory.d/THEORY-276.md), [ADR-047](../decisions.d/ADR-047.md)), the
 invariance was promoted and the condition moved here unchanged.
 
 ## What would answer it

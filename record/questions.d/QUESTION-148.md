@@ -31,7 +31,7 @@ not a difference. [LIT-232](../literature.d/LIT-232.md) says such models "do not
 suggests sheaves valued in other categories might take them in
 (App. E). Until 2026-10-19 [THEORY-299](../theory.d/THEORY-299.md)'s promote_when asked for "a proof,
 or a counterexample". At the owner's direction, from the promotion
-audit's batch 013 (record/promotion-audit/decisions/[THEORY-299](../theory.d/THEORY-299.md).yaml,
+audit's batch 013 (the audit's decision file for [THEORY-299](../theory.d/THEORY-299.md),
 [ADR-047](../decisions.d/ADR-047.md)), [THEORY-299](../theory.d/THEORY-299.md) was promoted without it, because its title does not
 claim it, and the request moved here.
 

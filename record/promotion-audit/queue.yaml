@@ -1,22 +1,23 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 102
+version: 103
 updated: '2026-10-19'
-record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: null
-  state: between batches
+  batch: batches 024-030 (parallel)
+  state: in_progress
   in_review: null
-  next_step: 'Batches 018-023 and triage-005 are integrated. Their PRs (#203-#210) all merged on 2026-10-19,
-    one at a time after each regenerate commit; this ledger (#202) merges last. Next work: wave 3 from
-    triage-005''s queued candidates, re-derivation route first (route: re-derivation), with batch 020''s
-    sorting rule (theorem -> re-derivation, measurement -> ADR-047 v3, argument -> wave 5); a warrant-correction
-    pass over the 36 Proposed interpretive claims with empirical-sounding defeat conditions (batch 022)
-    and over ADR-040 parents still marked demonstrated (batch 021); more wave-5 samples, deciding argument
-    lines root first. Owner questions open: CLAIM-328 (batch 022), CLAIM-206 vs CLAIM-217 (batch 021),
-    and the older CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
+  next_step: 'Started 2026-10-19 after #202-#210 merged. Parallel batches on claude/promotion-audit-batch-NNN,
+    writing only decisions/ and batches/: 024 (wave 3 re-derivation: THEORY-169, -182, -186, -283, -286);
+    025 (THEORY-308, -314, -320, -391, -472); 026 (THEORY-478, -614, and the doubted-formal THEORY-231,
+    -590, -690); 027 (missed-formal THEORY-187, -195, -211, -566, plus THEORY-176); 028 (warrant-correction
+    sweep over interpretive claims with empirical defeaters, first 10, with warrant_sweep.py); 029 (ADR-040
+    parents still marked demonstrated, up to 10); 030 (wave 5, second sample, roots of argument lines).
+    This ledger integrates each as it lands. A batch branch without its batch file did not finish: rerun
+    it from its first candidate without a decision file. Merge the resulting PRs one at a time after each
+    regenerate commit; the ledger last.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -2464,4 +2465,8 @@ history:
 - version: 102
   date: '2026-10-19'
   note: '#203-#210 merged; hand-off updated.'
+- version: 103
+  date: '2026-10-19'
+  note: Batches 024-030 started in parallel (wave 3 re-derivation route, two correction sweeps, a second
+    wave-5 sample).
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
