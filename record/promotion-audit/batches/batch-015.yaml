@@ -34,6 +34,9 @@ owner_questions: []
 follow_up_prs:
   - "CLAIM-269: split. New demonstrated CLAIM, Active, formal-apparatus: the readout result on a finite stimulus set (b > 0: orthogonal orbit; b = 0: general linear orbit), grounded on THEORY-008, THEORY-004 and THEORY-723, resting on CLAIM-290. CLAIM-269 rests on it and stays Proposed."
   - "CLAIM-107, CLAIM-148, CLAIM-164: corrections, statuses unchanged. CLAIM-107 drops 'Proposed' for THEORY-158 and its directive; CLAIM-148 re-grounds THEORY-180 → THEORY-726 and THEORY-017 → THEORY-721; CLAIM-164 gets a note citing CLAIM-377 for THEORY-084's established part."
+prs:
+  - 'dmarx/nucleation#190: CLAIM-107, CLAIM-148, CLAIM-164 corrections'
+  - 'dmarx/nucleation#193: CLAIM-269 split (new Active CLAIM-tmp861ar)'
 notes_for_ledger:
   - "Wave 4 counts: 5 reviewed, 1 promotion path (CLAIM-269 split)."
   - "CLAIM-107 was decided in batch 003 (narrow-and-promote, carried out in #173); its decision file is overwritten with supersedes_review, disposition needs-correction. CLAIM-193 (batch 003, needs-correction, carried out) and CLAIM-269 (batch 004, split) likewise. The queue entries for these three need their batch and disposition updated."

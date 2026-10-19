@@ -44,5 +44,7 @@ next_action: >-
   Correction PR: grounds THEORY-180 → THEORY-726 and THEORY-017 →
   THEORY-721; cite THEORY-726 for the nuclear-norm minimum and THEORY-721
   for the basis point (naming THEORY-017 as the synthesis that extends it);
-  trim THEORY-017 and THEORY-180 from the directive; add the minimizer
+  reword the directive to name THEORY-017 and THEORY-180 only as the
+  parents of the Active entries now cited (both still appear in prose,
+  in the history note and the THEORY-721 sentence); add the minimizer
   derivation to a dated note; bump the version. Status unchanged.
