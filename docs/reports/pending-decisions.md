@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**802 document(s) awaiting a decision.**
+**800 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 802.
+95 of the 800.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-475 of the 802.
+473 of the 800.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -336,7 +336,6 @@
 | 2026-10-14 | Proposed | [THEORY-292](../../record/theory.d/THEORY-292.md) | 7 | 0 | In CNN image classifiers, concept directions fitted one concept at a time align for attributes that co-occur in the labels, yet a joint fit finds mutually orthogonal directions that still separate each concept with little loss of AUROC, so the alignment is a property of the separate fits and not forced by the representation |
 | 2026-10-14 | Proposed | [THEORY-318](../../record/theory.d/THEORY-318.md) | 7 | 0 | A bound on the max-information between a dataset and the functions an analyst chooses bounds the probability that an adaptively chosen statistic overfits that dataset, and differential privacy supplies the bound, so a holdout can validate many adaptively chosen statistics |
 | 2026-10-14 | Proposed | [THEORY-227](../../record/theory.d/THEORY-227.md) | 6 | 0 | Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse |
-| 2026-10-14 | Proposed | [THEORY-231](../../record/theory.d/THEORY-231.md) | 6 | 0 | Within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations, not realist representations as such; it rests on a stronger assumption than a Bell-like no-go and so applies where none exists, as in prepare-measure scenarios, but only Leibnizianity implying noncontextuality is proved |
 | 2026-10-14 | Proposed | [THEORY-240](../../record/theory.d/THEORY-240.md) | 6 | 0 | Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters |
 | 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 6 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
 | 2026-10-14 | Proposed | [THEORY-244](../../record/theory.d/THEORY-244.md) | 6 | 0 | Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution |
@@ -446,6 +445,7 @@
 | 2026-10-16 | Proposed | [THEORY-563](../../record/theory.d/THEORY-563.md) | 5 | 0 | Consciousness is a real pattern in the brain's content-bearing states, a description that trades predictive accuracy for compression, and so coarse that describing the brain through it is metaphor; on that reading there is no Cartesian theatre, whether a given content was conscious can lack an answer when two descriptions compress and predict equally, and first-person reports are fallible as literal descriptions of the brain but authoritative as an author's |
 | 2026-10-16 | Proposed | [THEORY-589](../../record/theory.d/THEORY-589.md) | 5 | 0 | No principle of mereology is merely a fixing of what 'part' means: even reflexivity, transitivity and antisymmetry face counterexamples that do not rest on equivocation, and every principle beyond them is contested, so classical mereology is one substantive theory among several and not a neutral default |
 | 2026-10-16 | Proposed | [THEORY-613](../../record/theory.d/THEORY-613.md) | 5 | 3 | The Moral Foundations Questionnaire-2's six factors, Care, Equality, Proportionality, Loyalty, Authority and Purity, fit across 19 nations, Equality and Proportionality are nearly uncorrelated in WEIRD nations, and the US split between individualizing and binding foundations appears in only three national networks |
+| 2026-10-16 | Proposed | [THEORY-614](../../record/theory.d/THEORY-614.md) | 5 | 5 | If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown |
 | 2026-10-16 | Proposed | [THEORY-663](../../record/theory.d/THEORY-663.md) | 5 | 4 | Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them |
 | 2026-10-16 | Proposed | [THEORY-665](../../record/theory.d/THEORY-665.md) | 5 | 2 | Asserting is undertaking a commitment that entitles others to reassert it and carries a responsibility to show entitlement if challenged; every interlocutor keeps score of everyone's commitments and entitlements, so the score is doubly perspectival, and a speech act's significance is the change it makes to the scores, fixed by its content's inferential role |
 | 2026-10-16 | Proposed | [THEORY-432](../../record/theory.d/THEORY-432.md) | 4 | 0 | In Lévi-Straussian analysis of myth the group of transformations is not given by the material: which variants count as transforms of which, and by what operation, is cut by the analyst from a continuum, unlike transformations that develop an initial form by a rule, and the computational encodings of the method confirm this by taking the analyst's table of oppositions as input |
@@ -569,7 +569,6 @@
 | 2026-10-16 | Proposed | [THEORY-428](../../record/theory.d/THEORY-428.md) | 0 | 0 | A protest performed bodily inside a civic ritual can contest the ritual in its own grammar, keeping the ritual's reverence for its ideal while rebuking its present object, which is incivility in the Confucian sense of disruption aimed at harmonization; the reading of the gesture and the claim that its uptake makes it sagely are asserted |
 | 2026-10-16 | Proposed | [THEORY-438](../../record/theory.d/THEORY-438.md) | 0 | 0 | The understanding deep networks reach is characteristically fractured: it can be real, by the test of stable tracking under structure-preserving perturbation, but it is symbolically misaligned, non-reductive, locally fractured, proxy-dependent and representationally fragmented, because the loss rewards any predictive patchwork and does not press it to unify |
 | 2026-10-16 | Proposed | [THEORY-467](../../record/theory.d/THEORY-467.md) | 0 | 0 | Rule-consequentialism that ranks codes by the expected good of teaching them to, and having them accepted by, new generations does not collapse into act-consequentialism, because teaching and internalisation costs favour codes simpler and less demanding than act-by-act optimisation, which therefore sometimes require sub-optimal acts |
-| 2026-10-16 | Proposed | [THEORY-478](../../record/theory.d/THEORY-478.md) | 0 | 0 | When a data set's diffusion operator behaves like the heat kernel of a latent tree, summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance equivalent, up to constants, to a thresholded snowflake of the tree metric: it keeps the tree's neighbourhoods and not its global distances |
 | 2026-10-16 | Proposed | [THEORY-483](../../record/theory.d/THEORY-483.md) | 0 | 0 | Whether a person joins a fascist movement in a showdown is decided by inner disposition, whether she is secure and has a standard of her own that tells her what she likes and does not, and not by race, nationality, creed or class; humiliation, fear, spoilt entitlement and measuring worth by success make a person susceptible |
 | 2026-10-16 | Proposed | [THEORY-486](../../record/theory.d/THEORY-486.md) | 0 | 0 | For exact Betti Lagrangians in the cotangent bundle of a punctured surface, a finite creative spectral network exists, a point lies on its active walls exactly when a pseudo-holomorphic strip survives the adiabatic limit, and the Family Floer functor equals Gaiotto–Moore–Neitzke non-abelianization there |
 | 2026-10-16 | Proposed | [THEORY-506](../../record/theory.d/THEORY-506.md) | 0 | 0 | Every well-developed theory of how mind fits into the cosmos is bizarre, contrary to what most people confidently believe, and none is epistemically compelling, because common sense about the metaphysics of mind is incoherent; so no coarse position, materialism included, deserves credence much above 50% |
@@ -583,7 +582,6 @@
 | 2026-10-16 | Proposed | [THEORY-580](../../record/theory.d/THEORY-580.md) | 0 | 0 | On any cover of a space of input histories, the empirical models compatible with a causal structure are exactly the points of a polytope cut from a product of simplices by linear causality equations, so how much of a model a causal structure can explain is a linear program; causal separability is relative to an assumed ambient structure, and the causally separable fraction is never less than the separable local fraction |
 | 2026-10-16 | Proposed | [THEORY-600](../../record/theory.d/THEORY-600.md) | 0 | 0 | A definition of health and disease by social justice alone cannot fix what counts as disease: with justice left undefined, a majority with other values could medicalise what the definition was meant to protect, and unless medicine is fixed from outside, the category drifts until health becomes justice |
 | 2026-10-16 | Proposed | [THEORY-610](../../record/theory.d/THEORY-610.md) | 0 | 0 | What survives radical theory change in a mature science, and so what its predictive success warrants belief in, is mathematical structure, equations carried over intact or recovered as limiting cases, and not the ontology that interpreted them, as Fresnel's reflection and refraction equations survive into Maxwell's theory while the elastic-solid ether does not |
-| 2026-10-16 | Proposed | [THEORY-614](../../record/theory.d/THEORY-614.md) | 0 | 0 | If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown |
 | 2026-10-16 | Proposed | [THEORY-615](../../record/theory.d/THEORY-615.md) | 0 | 0 | Stubborn distrust of scientific experts can follow validly from the truster's position: one with little say in collective decisions, who has reason to think the experts' service ethos leaves out their core interests, has a reason to distrust an expert because of the expert's prestige, whatever the expert's competence or goodwill |
 | 2026-10-16 | Proposed | [THEORY-657](../../record/theory.d/THEORY-657.md) | 0 | 0 | If an emergent property is one that the parts lack, then the other marks commonly given for emergence are separate questions about each system and not consequences of it: established condensed-matter cases show novelty without a discontinuity, a discontinuity without novelty, novelty that was predicted first, and novelty with a rigorous reduction |
 | 2026-10-16 | Proposed | [THEORY-673](../../record/theory.d/THEORY-673.md) | 0 | 0 | The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply |
@@ -593,7 +591,7 @@
 
 ## ADRs
 
-2 of the 802.
+2 of the 800.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -602,7 +600,7 @@
 
 ## QUESTIONs
 
-9 of the 802.
+9 of the 800.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -618,7 +616,7 @@
 
 ## CLAIMs
 
-216 of the 802.
+216 of the 800.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -841,7 +839,7 @@
 
 ## CASEs
 
-1 of the 802.
+1 of the 800.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -849,7 +847,7 @@
 
 ## TERMs
 
-2 of the 802.
+2 of the 800.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -858,7 +856,7 @@
 
 ## ARGs
 
-2 of the 802.
+2 of the 800.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -869,4 +867,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (84): [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-351](../../record/theory.d/THEORY-351.md), [LIT-1121](../../record/literature.d/LIT-1121.md), [LIT-1123](../../record/literature.d/LIT-1123.md), [LIT-1125](../../record/literature.d/LIT-1125.md), [LIT-1126](../../record/literature.d/LIT-1126.md), [LIT-1127](../../record/literature.d/LIT-1127.md), [LIT-1129](../../record/literature.d/LIT-1129.md), [LIT-1130](../../record/literature.d/LIT-1130.md), [LIT-1131](../../record/literature.d/LIT-1131.md), [LIT-1132](../../record/literature.d/LIT-1132.md), [LIT-1133](../../record/literature.d/LIT-1133.md), [LIT-1136](../../record/literature.d/LIT-1136.md), [LIT-1138](../../record/literature.d/LIT-1138.md), [LIT-1143](../../record/literature.d/LIT-1143.md), [LIT-1145](../../record/literature.d/LIT-1145.md), [LIT-1148](../../record/literature.d/LIT-1148.md), [LIT-1149](../../record/literature.d/LIT-1149.md), [LIT-1150](../../record/literature.d/LIT-1150.md), [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-426](../../record/theory.d/THEORY-426.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-438](../../record/theory.d/THEORY-438.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-478](../../record/theory.d/THEORY-478.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-520](../../record/theory.d/THEORY-520.md), [THEORY-521](../../record/theory.d/THEORY-521.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-562](../../record/theory.d/THEORY-562.md), [THEORY-572](../../record/theory.d/THEORY-572.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-580](../../record/theory.d/THEORY-580.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-614](../../record/theory.d/THEORY-614.md), [THEORY-615](../../record/theory.d/THEORY-615.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-673](../../record/theory.d/THEORY-673.md), [THEORY-674](../../record/theory.d/THEORY-674.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [CLAIM-338](../../record/claims.d/CLAIM-338.md), [LIT-1205](../../record/literature.d/LIT-1205.md), [LIT-1206](../../record/literature.d/LIT-1206.md), [LIT-1207](../../record/literature.d/LIT-1207.md), [LIT-1208](../../record/literature.d/LIT-1208.md), [LIT-1209](../../record/literature.d/LIT-1209.md), [LIT-1210](../../record/literature.d/LIT-1210.md), [LIT-1211](../../record/literature.d/LIT-1211.md), [LIT-1212](../../record/literature.d/LIT-1212.md), [LIT-1213](../../record/literature.d/LIT-1213.md), [LIT-1214](../../record/literature.d/LIT-1214.md), [LIT-1215](../../record/literature.d/LIT-1215.md), [LIT-1216](../../record/literature.d/LIT-1216.md), [LIT-1217](../../record/literature.d/LIT-1217.md), [LIT-1218](../../record/literature.d/LIT-1218.md), [LIT-1220](../../record/literature.d/LIT-1220.md), [LIT-1221](../../record/literature.d/LIT-1221.md), [LIT-1222](../../record/literature.d/LIT-1222.md), [LIT-1223](../../record/literature.d/LIT-1223.md), [LIT-1224](../../record/literature.d/LIT-1224.md), [LIT-1225](../../record/literature.d/LIT-1225.md), [LIT-1226](../../record/literature.d/LIT-1226.md), [LIT-1227](../../record/literature.d/LIT-1227.md), [LIT-1228](../../record/literature.d/LIT-1228.md), [LIT-1229](../../record/literature.d/LIT-1229.md), [LIT-1230](../../record/literature.d/LIT-1230.md), [LIT-1231](../../record/literature.d/LIT-1231.md), [LIT-1232](../../record/literature.d/LIT-1232.md), [LIT-1233](../../record/literature.d/LIT-1233.md), [LIT-1234](../../record/literature.d/LIT-1234.md), [LIT-1235](../../record/literature.d/LIT-1235.md), [LIT-1236](../../record/literature.d/LIT-1236.md), [LIT-1237](../../record/literature.d/LIT-1237.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (82): [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-351](../../record/theory.d/THEORY-351.md), [LIT-1121](../../record/literature.d/LIT-1121.md), [LIT-1123](../../record/literature.d/LIT-1123.md), [LIT-1125](../../record/literature.d/LIT-1125.md), [LIT-1126](../../record/literature.d/LIT-1126.md), [LIT-1127](../../record/literature.d/LIT-1127.md), [LIT-1129](../../record/literature.d/LIT-1129.md), [LIT-1130](../../record/literature.d/LIT-1130.md), [LIT-1131](../../record/literature.d/LIT-1131.md), [LIT-1132](../../record/literature.d/LIT-1132.md), [LIT-1133](../../record/literature.d/LIT-1133.md), [LIT-1136](../../record/literature.d/LIT-1136.md), [LIT-1138](../../record/literature.d/LIT-1138.md), [LIT-1143](../../record/literature.d/LIT-1143.md), [LIT-1145](../../record/literature.d/LIT-1145.md), [LIT-1148](../../record/literature.d/LIT-1148.md), [LIT-1149](../../record/literature.d/LIT-1149.md), [LIT-1150](../../record/literature.d/LIT-1150.md), [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-426](../../record/theory.d/THEORY-426.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-438](../../record/theory.d/THEORY-438.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-520](../../record/theory.d/THEORY-520.md), [THEORY-521](../../record/theory.d/THEORY-521.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-562](../../record/theory.d/THEORY-562.md), [THEORY-572](../../record/theory.d/THEORY-572.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-580](../../record/theory.d/THEORY-580.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-615](../../record/theory.d/THEORY-615.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-673](../../record/theory.d/THEORY-673.md), [THEORY-674](../../record/theory.d/THEORY-674.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [CLAIM-338](../../record/claims.d/CLAIM-338.md), [LIT-1205](../../record/literature.d/LIT-1205.md), [LIT-1206](../../record/literature.d/LIT-1206.md), [LIT-1207](../../record/literature.d/LIT-1207.md), [LIT-1208](../../record/literature.d/LIT-1208.md), [LIT-1209](../../record/literature.d/LIT-1209.md), [LIT-1210](../../record/literature.d/LIT-1210.md), [LIT-1211](../../record/literature.d/LIT-1211.md), [LIT-1212](../../record/literature.d/LIT-1212.md), [LIT-1213](../../record/literature.d/LIT-1213.md), [LIT-1214](../../record/literature.d/LIT-1214.md), [LIT-1215](../../record/literature.d/LIT-1215.md), [LIT-1216](../../record/literature.d/LIT-1216.md), [LIT-1217](../../record/literature.d/LIT-1217.md), [LIT-1218](../../record/literature.d/LIT-1218.md), [LIT-1220](../../record/literature.d/LIT-1220.md), [LIT-1221](../../record/literature.d/LIT-1221.md), [LIT-1222](../../record/literature.d/LIT-1222.md), [LIT-1223](../../record/literature.d/LIT-1223.md), [LIT-1224](../../record/literature.d/LIT-1224.md), [LIT-1225](../../record/literature.d/LIT-1225.md), [LIT-1226](../../record/literature.d/LIT-1226.md), [LIT-1227](../../record/literature.d/LIT-1227.md), [LIT-1228](../../record/literature.d/LIT-1228.md), [LIT-1229](../../record/literature.d/LIT-1229.md), [LIT-1230](../../record/literature.d/LIT-1230.md), [LIT-1231](../../record/literature.d/LIT-1231.md), [LIT-1232](../../record/literature.d/LIT-1232.md), [LIT-1233](../../record/literature.d/LIT-1233.md), [LIT-1234](../../record/literature.d/LIT-1234.md), [LIT-1235](../../record/literature.d/LIT-1235.md), [LIT-1236](../../record/literature.d/LIT-1236.md), [LIT-1237](../../record/literature.d/LIT-1237.md) — these are the cheapest to close, since nothing depends on the answer.

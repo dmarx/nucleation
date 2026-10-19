@@ -1,5 +1,8 @@
 ---
+number: 161
 status: Open
+formerly:
+- QUESTION-tmpfmvmj
 title: "Do trained language models learn in context by implicit Bayesian inference over a latent concept: do their in-context predictions track the posterior predictive of a latent-concept mixture fitted to their pretraining data, or carry a readable posterior that concentrates as the theorems say?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   is a question in its own right.
 ---
 
-# QUESTION-tmpfmvmj: Do trained language models learn in context by implicit Bayesian inference over a latent concept: do their in-context predictions track the posterior predictive of a latent-concept mixture fitted to their pretraining data, or carry a readable posterior that concentrates as the theorems say?
+# QUESTION-161: Do trained language models learn in context by implicit Bayesian inference over a latent concept: do their in-context predictions track the posterior predictive of a latent-concept mixture fitted to their pretraining data, or carry a readable posterior that concentrates as the theorems say?
 
 ## Why it is a question
 

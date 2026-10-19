@@ -1,5 +1,8 @@
 ---
+number: 160
 status: Open
+formerly:
+- QUESTION-tmpeikcb
 title: "Does the heat kernel of a metric tree satisfy the Hellinger Hölder and separation bounds of the multiscale hyperbolic diffusion theorem, with which Hölder exponent, and when does the diffusion operator of sampled data approximate a latent tree's heat kernel?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   by anything the record holds.
 ---
 
-# QUESTION-tmpeikcb: Does the heat kernel of a metric tree satisfy the Hellinger Hölder and separation bounds of the multiscale hyperbolic diffusion theorem, with which Hölder exponent, and when does the diffusion operator of sampled data approximate a latent tree's heat kernel?
+# QUESTION-160: Does the heat kernel of a metric tree satisfy the Hellinger Hölder and separation bounds of the multiscale hyperbolic diffusion theorem, with which Hölder exponent, and when does the diffusion operator of sampled data approximate a latent tree's heat kernel?
 
 ## Why it is a question
 

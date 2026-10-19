@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**511 documents cited without acknowledgement.** Not listed: 10047 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**512 documents cited without acknowledgement.** Not listed: 10041 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -997,6 +997,27 @@ The frustration residual and governance regret separate structural infeasibility
 - [`record/terms.d/TERM-060.md:75`](../../record/terms.d/TERM-060.md)
 - [`record/terms.d/TERM-060.md:161`](../../record/terms.d/TERM-060.md)
 
+### [NOTE-737](../../record/notes.d/NOTE-737.md) — Skimmed
+
+Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inference
+
+14 citations in 5 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-945.md:6`](../../record/literature.d/LIT-945.md)
+- [`record/literature.d/LIT-945.md:21`](../../record/literature.d/LIT-945.md)
+- [`record/literature.d/LIT-945.md:63`](../../record/literature.d/LIT-945.md)
+- [`record/literature.d/LIT-945.md:97`](../../record/literature.d/LIT-945.md)
+- [`record/questions.d/QUESTION-067.md:13`](../../record/questions.d/QUESTION-067.md)
+- [`record/questions.d/QUESTION-067.md:88`](../../record/questions.d/QUESTION-067.md)
+- [`record/theory.d/THEORY-011.md:22`](../../record/theory.d/THEORY-011.md)
+- [`record/theory.d/THEORY-011.md:63`](../../record/theory.d/THEORY-011.md)
+- [`record/theory.d/THEORY-016.md:12`](../../record/theory.d/THEORY-016.md)
+- [`record/theory.d/THEORY-016.md:21`](../../record/theory.d/THEORY-016.md)
+- [`record/theory.d/THEORY-016.md:49`](../../record/theory.d/THEORY-016.md)
+- [`record/theory.d/THEORY-231.md:23`](../../record/theory.d/THEORY-231.md)
+- [`record/theory.d/THEORY-231.md:38`](../../record/theory.d/THEORY-231.md)
+- [`record/theory.d/THEORY-231.md:55`](../../record/theory.d/THEORY-231.md)
+
 ### [THEORY-002](../../record/theory.d/THEORY-002.md) — Proposed
 
 Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
@@ -1037,26 +1058,6 @@ When an operator's authority is updated by how well it performs on the interpret
 - [`record/questions.d/QUESTION-117.md:93`](../../record/questions.d/QUESTION-117.md)
 - [`record/questions.d/QUESTION-124.md:60`](../../record/questions.d/QUESTION-124.md)
 - [`record/questions.d/QUESTION-126.md:58`](../../record/questions.d/QUESTION-126.md)
-
-### [NOTE-737](../../record/notes.d/NOTE-737.md) — Skimmed
-
-Schmid, Selby & Spekkens — Unscrambling the omelette of causation and inference
-
-13 citations in 5 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/literature.d/LIT-945.md:6`](../../record/literature.d/LIT-945.md)
-- [`record/literature.d/LIT-945.md:21`](../../record/literature.d/LIT-945.md)
-- [`record/literature.d/LIT-945.md:64`](../../record/literature.d/LIT-945.md)
-- [`record/literature.d/LIT-945.md:98`](../../record/literature.d/LIT-945.md)
-- [`record/questions.d/QUESTION-067.md:13`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-067.md:88`](../../record/questions.d/QUESTION-067.md)
-- [`record/theory.d/THEORY-011.md:22`](../../record/theory.d/THEORY-011.md)
-- [`record/theory.d/THEORY-011.md:64`](../../record/theory.d/THEORY-011.md)
-- [`record/theory.d/THEORY-016.md:12`](../../record/theory.d/THEORY-016.md)
-- [`record/theory.d/THEORY-016.md:21`](../../record/theory.d/THEORY-016.md)
-- [`record/theory.d/THEORY-016.md:49`](../../record/theory.d/THEORY-016.md)
-- [`record/theory.d/THEORY-231.md:39`](../../record/theory.d/THEORY-231.md)
-- [`record/theory.d/THEORY-231.md:56`](../../record/theory.d/THEORY-231.md)
 
 ### [NOTE-829](../../record/notes.d/NOTE-829.md) — Skimmed
 
@@ -2598,6 +2599,18 @@ Dynamical independence, zero information flow from the microscopic history into 
 - [`record/questions.d/QUESTION-115.md:52`](../../record/questions.d/QUESTION-115.md)
 - [`record/theory.d/THEORY-703.md:82`](../../record/theory.d/THEORY-703.md)
 - [`record/theory.d/THEORY-707.md:85`](../../record/theory.d/THEORY-707.md)
+
+### [THEORY-614](../../record/theory.d/THEORY-614.md) — Proposed
+
+If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown
+
+5 citations in 1 file await a look.
+
+- [`record/questions.d/QUESTION-161.md:14`](../../record/questions.d/QUESTION-161.md)
+- [`record/questions.d/QUESTION-161.md:15`](../../record/questions.d/QUESTION-161.md)
+- [`record/questions.d/QUESTION-161.md:26`](../../record/questions.d/QUESTION-161.md)
+- [`record/questions.d/QUESTION-161.md:35`](../../record/questions.d/QUESTION-161.md)
+- [`record/questions.d/QUESTION-161.md:43`](../../record/questions.d/QUESTION-161.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 

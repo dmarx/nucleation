@@ -18,7 +18,7 @@ history:
     equivalence holds for pairs above the finest scale. The re-derivation
     is in the dated note below. The promote_when, the tree heat-kernel
     bounds and the bridge from sampled data, moves unchanged to
-    QUESTION-tmpeikcb.
+    QUESTION-160.
 tags:
 - representation-learning
 - mathematics
@@ -117,7 +117,7 @@ does not.
   numbers show.
 - **[CLAIM-119](../claims.d/CLAIM-119.md)** concerns concept lattices, which a tree metric cannot
   distinguish from a hierarchy.
-- **[QUESTION-tmpeikcb](../questions.d/QUESTION-tmpeikcb.md)** carries the former promotion condition: whether a
+- **[QUESTION-160](../questions.d/QUESTION-160.md)** carries the former promotion condition: whether a
   metric tree's heat kernel meets the two bounds, with which Hölder
   exponent, and when sampled data yield such a kernel.
 

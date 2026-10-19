@@ -12,7 +12,7 @@ promote_when: >-
   With that step, the posterior-concentration argument in the note of
   2026-10-19 closes, at least for finitely many concepts. Evidence about
   trained networks cannot settle it, since the title disclaims that
-  clause. That question is QUESTION-tmpfmvmj.
+  clause. That question is QUESTION-161.
 title: "If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown"
 version: 2
 history:
@@ -22,7 +22,7 @@ history:
     Corrected, status unchanged, carrying out the promotion audit's batch
     026 decision for THEORY-614. The promote_when asked for evidence about
     trained language models, the clause the title disclaims. It moves
-    unchanged to QUESTION-tmpfmvmj. The new promote_when asks for the one
+    unchanged to QUESTION-161. The new promote_when asks for the one
     step of Theorem 1's proof that the record could not re-derive. The
     partial re-derivation is in the dated note below.
 tags:
@@ -109,7 +109,7 @@ consequences of the model.
   fixes a posterior over a latent concept.
 - The latent-document structure is a topic model's (LDA), with no
   inference algorithm run.
-- [QUESTION-tmpfmvmj](../questions.d/QUESTION-tmpfmvmj.md) carries the former promotion condition, about trained
+- [QUESTION-161](../questions.d/QUESTION-161.md) carries the former promotion condition, about trained
   networks.
 
 ## Note of 2026-10-19: how far Theorem 1 re-derives
