@@ -6,8 +6,9 @@
 
 **Logic** — valid inference and its formal theories — propositional and model-theoretic structures, proof and consequence, and inferentialist accounts of meaning (group: philosophy).
 
-1 of 151 QUESTION documents. Back to the [full index](../README.md).
+2 of 152 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-055](../../../record/questions.d/QUESTION-055.md) v2 | If communicative categories form a non-Boolean lattice, what is the negation of a category, an orthocomplement, a Heyting pseudo-complement over contexts, or a complement within sectors that no probe connects, and does the context-indexed form of the communicative object settle which? | Filed in the fourth synthesis pass to give readings no question asked for a place in the argument. It bears on [CLAIM-119](../../../record/claims.d/CLAIM-119.md), [CLAIM-038](../../../record/claims.d/CLAIM-038.md), [CLAIM-044](../../../record/claims.d/CLAIM-044.md), [QUESTION-025](../../../record/questions.d/QUESTION-025.md) and [QUESTION-031](../../../record/questions.d/QUESTION-031.md). [THEORY-037](../../../record/theory.d/THEORY-037.md), [THEORY-041](../../../record/theory.d/THEORY-041.md) and [THEORY-042](../../../record/theory.d/THEORY-042.md) answer it in part; the body gives each one's limit. | Open |
+| [QUESTION-152](../../../record/questions.d/QUESTION-152.md) | Does the impossibility of robustly rational proposition-wise aggregation extend from categorical judgments to corporate attitudes in general: degrees of belief, desires, intentions or emotions? | The second clause of [THEORY-127](../../../record/theory.d/THEORY-127.md)'s former promote_when. On 2026-10-19 [THEORY-127](../../../record/theory.d/THEORY-127.md) was promoted, narrowed, after the record re-derived Proposition 3 of List and Pettit (2006) for categorical judgments. List (2014), [LIT-700](../../../record/literature.d/LIT-700.md), makes holistic supervenience the mark of corporate attitudes in general. Neither paper proves the impossibility for attitudes other than binary judgments, and the record holds no such result. | Open |

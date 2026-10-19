@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**515 documents cited without acknowledgement.** Not listed: 10142 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**514 documents cited without acknowledgement.** Not listed: 10104 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1406,22 +1406,6 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 - [`record/theory.d/THEORY-102.md:185`](../../record/theory.d/THEORY-102.md)
 - [`record/theory.d/THEORY-102.md:187`](../../record/theory.d/THEORY-102.md)
 
-### [THEORY-127](../../record/theory.d/THEORY-127.md) — Proposed
-
-A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
-
-9 citations in 4 files await a look; 38 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-104.md:45`](../../record/cases.d/CASE-104.md)
-- [`record/cases.d/CASE-110.md:84`](../../record/cases.d/CASE-110.md)
-- [`record/claims.d/CLAIM-271.md:18`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:116`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:123`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:135`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:140`](../../record/claims.d/CLAIM-271.md)
-- [`record/questions.d/QUESTION-082.md:18`](../../record/questions.d/QUESTION-082.md)
-- [`record/questions.d/QUESTION-082.md:46`](../../record/questions.d/QUESTION-082.md)
-
 ### [THEORY-209](../../record/theory.d/THEORY-209.md) — Proposed
 
 A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
@@ -1919,7 +1903,7 @@ Consciousness began as hedonic valence, which evolved as a common currency for t
 
 A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown
 
-7 citations in 2 files await a look; 7 other citations of it are acknowledged.
+7 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-039.md:44`](../../record/claims.d/CLAIM-039.md)
 - [`record/questions.d/QUESTION-053.md:15`](../../record/questions.d/QUESTION-053.md)
@@ -2942,8 +2926,8 @@ A system can keep its identity independently within a shared environment only if
 
 - [`record/claims.d/CLAIM-099.md:56`](../../record/claims.d/CLAIM-099.md)
 - [`record/questions.d/QUESTION-054.md:61`](../../record/questions.d/QUESTION-054.md)
-- [`record/theory.d/THEORY-149.md:93`](../../record/theory.d/THEORY-149.md)
-- [`record/theory.d/THEORY-149.md:95`](../../record/theory.d/THEORY-149.md)
+- [`record/theory.d/THEORY-149.md:92`](../../record/theory.d/THEORY-149.md)
+- [`record/theory.d/THEORY-149.md:94`](../../record/theory.d/THEORY-149.md)
 
 ### [THEORY-162](../../record/theory.d/THEORY-162.md) — Proposed
 
@@ -5431,7 +5415,7 @@ Local Urysohn Width: A Topological Complexity Measure for Classification
 
 Group Agency: The Possibility, Design, and Status of Corporate Agents
 
-1 citation in 1 file awaits a look; 41 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 40 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-017.md:56`](../../record/decisions.d/ADR-017.md)
 
@@ -6090,6 +6074,8 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
+- record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now
+- record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now

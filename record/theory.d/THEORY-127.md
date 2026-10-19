@@ -39,7 +39,7 @@ history:
     where issue-wise parity is a counterexample. The title now names the
     court agenda and the two conditions the proof uses. The extension to
     corporate attitudes, the second part of the promote_when, moves to
-    QUESTION-tmpumkgh. The promote_when is removed.
+    QUESTION-152. The promote_when is removed.
 tags:
 - social-ontology
 - agency
@@ -66,7 +66,7 @@ summary: >-
   for categorical judgments on the court agenda and on agendas with two
   stated connectedness conditions: the record re-derived Proposition 3
   (and Proposition 2 as a corollary) itself. The extension to corporate
-  attitudes in general is QUESTION-tmpumkgh.
+  attitudes in general is QUESTION-152.
 presupposed_by:
 - THEORY-139
 extends:
@@ -291,4 +291,4 @@ the proof uses:
 
 Whether these coincide with [LIT-705](../literature.d/LIT-705.md) n. 3's "strongly connected" agendas
 is not claimed. The extension to corporate attitudes beyond judgment,
-which [LIT-700](../literature.d/LIT-700.md) proposes, is [QUESTION-tmpumkgh](../questions.d/QUESTION-tmpumkgh.md).
+which [LIT-700](../literature.d/LIT-700.md) proposes, is [QUESTION-152](../questions.d/QUESTION-152.md).

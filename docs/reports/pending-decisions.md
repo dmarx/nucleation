@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**812 document(s) awaiting a decision.**
+**811 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 812.
+95 of the 811.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-485 of the 812.
+484 of the 811.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -204,11 +204,10 @@
 | 2026-10-03 | Proposed | [THEORY-107](../../record/theory.d/THEORY-107.md) | 4 | 2 | Merging models fine-tuned from one pretrained start loses accuracy through interference in parameter coordinates: redundant small updates dilute the influential ones, and influential updates of different models conflict in sign |
 | 2026-10-03 | Proposed | [THEORY-113](../../record/theory.d/THEORY-113.md) | 4 | 1 | Merging models trained on different tasks from different initialisations fails where their features have no counterpart in the other model, and such features grow more common with depth |
 | 2026-10-03 | Proposed | [THEORY-099](../../record/theory.d/THEORY-099.md) | 0 | 0 | Tryptophan networks in microtubule architectures support collective superradiant excitonic states, and their thermal quantum yield rises with network size and survives static disorder of room-temperature size |
-| 2026-10-04 | Proposed | [THEORY-127](../../record/theory.d/THEORY-127.md) | 47 | 9 | A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them |
 | 2026-10-04 | Proposed | [THEORY-119](../../record/theory.d/THEORY-119.md) | 26 | 3 | An agent can be morally responsible for what she did although she could not have done otherwise, when what made the action unavoidable played no part in bringing it about, so the principle of alternate possibilities is false |
 | 2026-10-04 | Proposed | [THEORY-120](../../record/theory.d/THEORY-120.md) | 21 | 1 | A motive is the agent's own, and she acts of her own free will, when she identifies with it, and that is all the freedom moral responsibility requires: identification is the conformity of the effective desire to a decisive higher-order volition (1971), and later wholehearted acceptance with no conflict at any higher order |
+| 2026-10-04 | Proposed | [THEORY-125](../../record/theory.d/THEORY-125.md) | 15 | 7 | A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown |
 | 2026-10-04 | Proposed | [THEORY-126](../../record/theory.d/THEORY-126.md) | 15 | 8 | A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states |
-| 2026-10-04 | Proposed | [THEORY-125](../../record/theory.d/THEORY-125.md) | 14 | 7 | A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown |
 | 2026-10-04 | Proposed | [THEORY-128](../../record/theory.d/THEORY-128.md) | 6 | 0 | After mass bleaching, coral recovery on a reef crest depends on large herbivorous fishes keeping macroalgae down, because recovery runs through recruitment and survival that macroalgae suppress, not through the persistence of surviving colonies alone |
 | 2026-10-04 | Proposed | [THEORY-129](../../record/theory.d/THEORY-129.md) | 6 | 2 | In Acropora millepora the natural night-light regime is necessary for spawning on the expected night, and displacing it delays or abolishes both release and a spawning-night programme of G-protein-coupled signalling genes |
 | 2026-10-04 | Proposed | [THEORY-130](../../record/theory.d/THEORY-130.md) | 6 | 3 | Coral bleaching is the breakdown of a regulated host–symbiont exchange, reached by more than one route, not a single mechanism of symbiont loss |
@@ -603,7 +602,7 @@
 
 ## ADRs
 
-2 of the 812.
+2 of the 811.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -612,7 +611,7 @@
 
 ## QUESTIONs
 
-9 of the 812.
+9 of the 811.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -628,7 +627,7 @@
 
 ## CLAIMs
 
-216 of the 812.
+216 of the 811.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -851,7 +850,7 @@
 
 ## CASEs
 
-1 of the 812.
+1 of the 811.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -859,7 +858,7 @@
 
 ## TERMs
 
-2 of the 812.
+2 of the 811.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -868,7 +867,7 @@
 
 ## ARGs
 
-2 of the 812.
+2 of the 811.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

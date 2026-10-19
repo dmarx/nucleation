@@ -1,5 +1,8 @@
 ---
+number: 152
 status: Open
+formerly:
+- QUESTION-tmpumkgh
 title: 'Does the impossibility of robustly rational proposition-wise aggregation extend from categorical judgments to corporate attitudes in general: degrees of belief, desires, intentions or emotions?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-125 — Proposed; Huebner's collective emotion, named as the attitude kind the question would test -->
 
-# QUESTION-tmpumkgh: Does the impossibility of robustly rational proposition-wise aggregation extend from categorical judgments to corporate attitudes in general: degrees of belief, desires, intentions or emotions?
+# QUESTION-152: Does the impossibility of robustly rational proposition-wise aggregation extend from categorical judgments to corporate attitudes in general: degrees of belief, desires, intentions or emotions?
 
 ## Why it is a question
 
