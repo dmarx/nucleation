@@ -1,0 +1,55 @@
+# record/promotion-audit/batches/batch-023.yaml
+batch: batch-023
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+selection: >-
+  The dedicated Proposition-3 pass on THEORY-127 that the queue's requeue
+  list calls for (batch 009 split off the court-agenda results as
+  THEORY-725). One candidate. Batches 021 and 022 run in parallel; 021
+  handles CLAIM-030, -192 and -271.
+reviewed: [THEORY-127]
+outcomes:
+  narrow-and-promote: [THEORY-127]
+yield: 1 of 1 found a promotion path
+finding: >-
+  Proposition 3 closes on the court agenda by the decisive-coalition
+  argument. Conditional entailment over six minimally inconsistent sets
+  makes all eight literals' winning-coalition families equal. One
+  minimally inconsistent triple, {¬P, R, B}, stays consistent with two of
+  its members negated ({P, ¬R, B}), which gives closure under
+  intersection. A finite ultrafilter then has a single dictator. The
+  uniform case (Proposition 2) follows as a corollary, because on this
+  agenda a uniform rule must be self-dual and unanimous. The title's
+  unconditioned "interconnected propositions" is false: the parity rule
+  on {p, q, p↔q} is a counterexample. So the title is narrowed to the
+  court agenda and the two conditions the proof uses.
+recommendation: >-
+  Promote THEORY-127, narrowed. Move the corporate-attitude extension
+  (LIT-700) to a new QUESTION. Then let batch 021, or a later wave-4 pass,
+  check CLAIM-030, -192 and -271 against the newly Active THEORY-127.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-127: narrow-and-promote. Retitle to the court agenda and conditions (A)–(B), set Active, remove the promote_when, append a version-4 history note last, add a dated note with the derivation's outline and the parity counterexample, file a QUESTION for the corporate-attitude extension, and trim stale inactive-ok directives naming THEORY-127."
+notes_for_ledger:
+  - >-
+    The ultrafilter argument fits in a decision file. For a judgment
+    aggregation impossibility, the work is finite.
+    - List the agenda's minimally inconsistent sets.
+    - Show conditional entailment connects all literals.
+    - Find one minimally inconsistent triple that stays consistent with
+      two of its members negated.
+    The rest is the standard finite-ultrafilter lemma. Reusable for any
+    "no independent, unanimous, non-dictatorial rule" claim in the record.
+  - >-
+    A general title can be false although its worked case is a theorem.
+    "Interconnected propositions" fails on affine agendas, for example
+    {p, q, p↔q}, where issue-wise parity is a non-dictatorial,
+    independent, unanimous, robustly rational rule. When a THEORY states a
+    social-choice impossibility for a vaguely named class, test it on an
+    affine agenda before promoting the general wording.
+  - >-
+    The record holds no Dietrich–List paper, and a grep for "Dietrich"
+    finds an unrelated LIT-912 (flow). Under ADR-047 v2 the
+    re-derivation stands in for it.
