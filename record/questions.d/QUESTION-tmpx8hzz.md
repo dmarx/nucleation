@@ -28,7 +28,7 @@ GPT representation are the same object, and that a sheaf-noncontextual
 model yields a diagram-preserving ontological model of the corresponding GPT
 fragment, or the reverse. Until 2026-10-19, its promote_when asked for
 exactly that bridge, which the title does not claim. At the owner's
-direction, from the promotion audit's batch 010 (ADR-047), the THEORY was
+direction, from the promotion audit's batch 010 ([ADR-047](../decisions.d/ADR-047.md)), the THEORY was
 promoted on its proved halves, and the condition moved here unchanged.
 
 It is open because [NOTE-017](../notes.d/NOTE-017.md) records that [LIT-003](../literature.d/LIT-003.md) attempts no formal

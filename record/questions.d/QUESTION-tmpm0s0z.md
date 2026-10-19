@@ -28,7 +28,7 @@ within each factor. So the features form a rank-one POVM compressed from the
 n-feature basis. Until that date, [THEORY-021](../theory.d/THEORY-021.md)'s promote_when said "The
 algebra is settled for the exact configurations. What is open is whether
 trained models reach them", and asked for the measurement. At the owner's
-direction, from the promotion audit's batch 010 (ADR-047), the THEORY was
+direction, from the promotion audit's batch 010 ([ADR-047](../decisions.d/ADR-047.md)), the THEORY was
 narrowed and promoted on the re-derived algebra, and the condition moved
 here unchanged.
 

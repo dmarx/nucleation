@@ -16,4 +16,4 @@
 - [THEORY-021](record/theory.d/THEORY-021.md) is narrowed to the exact configurations of uniform
   superposition and promoted to Active, with the frame-operator algebra
   re-derived. The square antiprism is excluded until checked.
-- Both carry out the promotion audit's batch-010 decisions (ADR-047).
+- Both carry out the promotion audit's batch-010 decisions ([ADR-047](record/decisions.d/ADR-047.md)).

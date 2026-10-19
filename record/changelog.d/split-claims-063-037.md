@@ -11,4 +11,4 @@
 
 - [CLAIM-063](record/claims.d/CLAIM-063.md) and [CLAIM-037](record/claims.d/CLAIM-037.md) keep their theses, rest on the new claims, and
   become interpretive. This carries out the promotion audit's batch-002
-  decisions (ADR-047).
+  decisions ([ADR-047](record/decisions.d/ADR-047.md)).

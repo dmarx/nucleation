@@ -7,5 +7,5 @@
   can turn a noncontextual system into a contextual one, and CbD 1.0 and
   2.0 agree on two-variable connections. This is the proved part of
   [THEORY-168](record/theory.d/THEORY-168.md).
-- Both carry out the promotion audit's batch-005 decisions (ADR-047).
+- Both carry out the promotion audit's batch-005 decisions ([ADR-047](record/decisions.d/ADR-047.md)).
   [THEORY-174](record/theory.d/THEORY-174.md) and [THEORY-168](record/theory.d/THEORY-168.md) extend the new entries and stay Proposed.

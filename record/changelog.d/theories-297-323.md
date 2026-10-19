@@ -14,6 +14,6 @@
   null sets" and its three statements re-derived in a dated note.
 - [THEORY-323](record/theory.d/THEORY-323.md) is narrowed to the white-noise variance clause, which its
   source cites and does not prove, and stays Proposed.
-- Both carry out the promotion audit's batch-007 decisions (ADR-047),
+- Both carry out the promotion audit's batch-007 decisions ([ADR-047](record/decisions.d/ADR-047.md)),
   under the owner's ruling of 2026-10-19 that a checked re-derivation
   meets a condition asking for a proof the record does not hold.

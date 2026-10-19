@@ -3,7 +3,7 @@
 - [CLAIM-tmpso62d](record/claims.d/CLAIM-tmpso62d.md), Active: under one-hop allocation within an epoch, an
   operator's authority stays fixed while endorsing an ally nearer its own
   policy moves the collective decision toward it. A construction, split
-  from [CLAIM-285](record/claims.d/CLAIM-285.md) under the promotion audit's batch-001 decision (ADR-047).
+  from [CLAIM-285](record/claims.d/CLAIM-285.md) under the promotion audit's batch-001 decision ([ADR-047](record/decisions.d/ADR-047.md)).
 
 ### Changed
 
