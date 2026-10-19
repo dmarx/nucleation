@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-38 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+45 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -65,6 +65,18 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-579](../record/theory.d/THEORY-579.md) — If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue *(Proposed)*
   - [THEORY-512](../record/theory.d/THEORY-512.md) — The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect *(Proposed)*
+
+## complex-systems
+
+### From For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum
+
+- [THEORY-727](../record/theory.d/THEORY-727.md) — For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum *(Active)*
+  - [THEORY-323](../record/theory.d/THEORY-323.md) — Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance *(Proposed)*
+
+### From For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching
+
+- [THEORY-724](../record/theory.d/THEORY-724.md) — For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching *(Active)*
+  - [THEORY-325](../record/theory.d/THEORY-325.md) — Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator *(Proposed)*
 
 ## consciousness
 
@@ -225,6 +237,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
   - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
 
+### From Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank
+
+- [THEORY-726](../record/theory.d/THEORY-726.md) — Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank *(Active)*
+  - [THEORY-180](../record/theory.d/THEORY-180.md) — In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise *(Proposed)*
+
 ### From A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
 
 - [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
@@ -241,6 +258,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-024](../record/theory.d/THEORY-024.md) — Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified *(Rejected)*
   - [THEORY-516](../record/theory.d/THEORY-516.md) — For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections *(Active)*
+
+### From On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter
+
+- [THEORY-725](../record/theory.d/THEORY-725.md) — On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter *(Active)*
+  - [THEORY-127](../record/theory.d/THEORY-127.md) — A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them *(Proposed)*
 
 ### From For a logically closed theory, the contractions satisfying the six basic AGM postulates are exactly the partial meet contractions, and those satisfying the two supplementary postulates as well are exactly the ones whose selection of remainders is generated by a transitive relation; the theory alone does not fix the contraction, and the results concern one change of one fixed theory
 
@@ -310,11 +332,26 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-720](../record/theory.d/THEORY-720.md) — Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned *(Active)*
   - [THEORY-174](../record/theory.d/THEORY-174.md) — Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it *(Proposed)*
 
+### From Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank
+
+- [THEORY-726](../record/theory.d/THEORY-726.md) — Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank *(Active)*
+  - [THEORY-180](../record/theory.d/THEORY-180.md) — In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise *(Proposed)*
+
 ### From In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball
 
 - [THEORY-191](../record/theory.d/THEORY-191.md) — In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball *(Proposed)*
   - [THEORY-618](../record/theory.d/THEORY-618.md) — Neural circuits that must represent hierarchically organised states in few dimensions use a hyperbolic geometry, three-dimensional where it has been measured, because hyperbolic space holds exponentially many well-separated states within a small radius; the argument from Zipf's law to this geometry does not hold, and the evidence is two Betti-curve studies tested only against uniform Euclidean nulls *(Proposed)* — also carries further THEORY-192
 - [THEORY-192](../record/theory.d/THEORY-192.md) — Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time *(Proposed)*
+
+### From For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum
+
+- [THEORY-727](../record/theory.d/THEORY-727.md) — For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum *(Active)*
+  - [THEORY-323](../record/theory.d/THEORY-323.md) — Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance *(Proposed)*
+
+### From For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching
+
+- [THEORY-724](../record/theory.d/THEORY-724.md) — For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching *(Active)*
+  - [THEORY-325](../record/theory.d/THEORY-325.md) — Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator *(Proposed)*
 
 ### From Locality-sensitive hashing answers approximate near-neighbour queries over n points with O(n^ρ) hash evaluations in O(dn + n^{1+ρ}) space, where ρ = ln(1/p1)/ln(1/p2) is set by how much more often near pairs collide than far ones and is at most 1/(1+ε) for approximation 1+ε in Hamming space, with constant success probability per query; the paper gives upper bounds only and proves no limit on what organizing can buy
 
@@ -331,6 +368,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-397](../record/theory.d/THEORY-397.md) — A random linear map into k ≥ 4(ε²/2 − ε³/3)⁻¹ ln n dimensions keeps every pairwise squared distance of a fixed set of n points in ℓ₂ within 1 ± ε, because each difference vector's squared length concentrates with tails exp(−(k/2)(ε²/2 − ε³/3)) and a union bound over the pairs costs only ln n; the proofs cover a random subspace, Gaussian entries and independent zero-mean ±1 or √3·{+1, 0, −1} entries, and no matrix with nonnegative entries *(Active)*
   - [THEORY-395](../record/theory.d/THEORY-395.md) — For ε between about lg^0.5001 n/√min{n, d} and 1, some n-point set in ℝ^d needs Ω(ε⁻² lg(ε²n)) dimensions under any map, linear or not, that keeps its pairwise squared distances within 1 ± ε, so a random projection with a union bound is optimal up to a constant for the worst set; nearly orthogonal sets can need fewer, and the bound says nothing about typical data *(Active)*
     - [THEORY-399](../record/theory.d/THEORY-399.md) — Storing every inner product of n points of the unit ball of R^k to additive error ε takes Θ(n log n/ε²) bits once k ≥ log n/ε² and Θ(nk log(2 + log n/(ε²k))) below, for 1/n^0.49 ≤ ε ≤ 0.1, and comparing these counts across dimensions shows that some n such points cannot be mapped into fewer than Ω(min{k, log(2 + ε²n)/ε²}) dimensions with additive error ε for every ε ≥ 2/√n; this is a worst-case lower bound with unstated constants, the small-ε bit count is open for k above that dimension, and no one-family embedding that small is proved *(Active)*
+
+### From On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law
+
+- [THEORY-728](../record/theory.d/THEORY-728.md) — On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law *(Active)*
+  - [THEORY-565](../record/theory.d/THEORY-565.md) — From a symmetric, positivity-preserving, positive semi-definite affinity, the normalized Markov operator is conjugate to a symmetric one, so its leading eigenfunctions scaled by powers of their eigenvalues embed the data with Euclidean distance equal to diffusion distance, and a density-corrected normalization recovers the Laplace–Beltrami operator independently of how the data were sampled *(Proposed)*
+
+### From An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms
+
+- [THEORY-729](../record/theory.d/THEORY-729.md) — An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms *(Active)*
+  - [THEORY-604](../record/theory.d/THEORY-604.md) — Most mathematical dualities are adjunctions between one category and the opposite of another, which become dual equivalences on their fixed points; what makes them dualities rather than equivalences is the reversal of arrows, so many of the 'dualities' physicists name are, in the mathematician's sense, equivalences or symmetries *(Proposed)*
 
 ## model-comparison
 
@@ -403,6 +450,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-444](../record/theory.d/THEORY-444.md) — To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough *(Proposed)*
   - [THEORY-511](../record/theory.d/THEORY-511.md) — Illocutionary acts that are not essentially conventional, such as warning, entreating and objecting, are individuated by a wholly overt, audience-directed intention, Grice's three intentions with a fourth that the audience recognise the second, and are performed when that intention is understood; acts such as verdicts and umpires' calls exist only within rule-governed procedures and fall outside the scheme *(Proposed)*
+
+## philosophy-of-mathematics
+
+### From An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms
+
+- [THEORY-729](../record/theory.d/THEORY-729.md) — An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms *(Active)*
+  - [THEORY-604](../record/theory.d/THEORY-604.md) — Most mathematical dualities are adjunctions between one category and the opposite of another, which become dual equivalences on their fixed points; what makes them dualities rather than equivalences is the reversal of arrows, so many of the 'dualities' physicists name are, in the mathematician's sense, equivalences or symmetries *(Proposed)*
 
 ## philosophy-of-science
 
@@ -478,6 +532,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
       - [THEORY-005](../record/theory.d/THEORY-005.md) — The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite *(Proposed)*
       - [THEORY-009](../record/theory.d/THEORY-009.md) — Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem *(Proposed)*
 
+### From For the final embedding and unembedding of a softmax model, the output distribution fixes the representations only up to an invertible linear map, and whether closeness in distribution bounds representational dissimilarity depends on the distance: not for KL in the saturation regime, but yes for the log-likelihood variance distance
+
+- [THEORY-723](../record/theory.d/THEORY-723.md) — For the final embedding and unembedding of a softmax model, the output distribution fixes the representations only up to an invertible linear map, and whether closeness in distribution bounds representational dissimilarity depends on the distance: not for KL in the saturation regime, but yes for the log-likelihood variance distance *(Active)*
+  - [THEORY-002](../record/theory.d/THEORY-002.md) — Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used *(Proposed)*
+
 ### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 
 - [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
@@ -488,6 +547,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
   - [THEORY-481](../record/theory.d/THEORY-481.md) — A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, each input mode is learned on a logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator *(Proposed)*
 
+### From On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law
+
+- [THEORY-728](../record/theory.d/THEORY-728.md) — On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law *(Active)*
+  - [THEORY-565](../record/theory.d/THEORY-565.md) — From a symmetric, positivity-preserving, positive semi-definite affinity, the normalized Markov operator is conjugate to a symmetric one, so its leading eigenfunctions scaled by powers of their eigenvalues embed the data with Euclidean distance equal to diffusion distance, and a density-corrected normalization recovers the Laplace–Beltrami operator independently of how the data were sampled *(Proposed)*
+
 ## self-governance
 
 ### From A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it
@@ -496,6 +560,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-047](../record/theory.d/THEORY-047.md) — A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is *(Proposed)*
 
 ## social-ontology
+
+### From On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter
+
+- [THEORY-725](../record/theory.d/THEORY-725.md) — On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter *(Active)*
+  - [THEORY-127](../record/theory.d/THEORY-127.md) — A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them *(Proposed)*
 
 ### From A structured group is not identical to its members: two groups of one kind can have the same members at every time and still be two, which theories that identify a group with a plurality, fusion, aggregate or set of its members cannot allow, and a view of groups as realizations of structures with functionally defined nodes can
 
@@ -510,6 +579,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-126](../record/theory.d/THEORY-126.md) — A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states *(Proposed)*
 
 ## society-and-governance
+
+### From On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter
+
+- [THEORY-725](../record/theory.d/THEORY-725.md) — On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter *(Active)*
+  - [THEORY-127](../record/theory.d/THEORY-127.md) — A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them *(Proposed)*
 
 ### From A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy
 

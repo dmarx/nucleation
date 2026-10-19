@@ -1,6 +1,6 @@
 ### Added
 
-- [QUESTION-tmpg2gry](record/questions.d/QUESTION-tmpg2gry.md): whether the one-hidden-layer ∏(rᵢ+1) lower bound
+- [QUESTION-139](record/questions.d/QUESTION-139.md): whether the one-hidden-layer ∏(rᵢ+1) lower bound
   holds for uniform approximation, and what replaces it with biases. This
   is the open half of [THEORY-206](record/theory.d/THEORY-206.md)'s former promotion condition.
 
@@ -13,4 +13,4 @@
 - [THEORY-206](record/theory.d/THEORY-206.md) is narrowed to Taylor matching at the origin, keeping the
   uniform upper bounds, and promoted to Active. The lower bound is
   re-derived in a note.
-- Both carry out the promotion audit's batch-006 decisions (ADR-047).
+- Both carry out the promotion audit's batch-006 decisions ([ADR-047](record/decisions.d/ADR-047.md)).

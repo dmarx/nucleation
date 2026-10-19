@@ -21,7 +21,7 @@ history:
   note: >-
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-604.yaml, batch 009, ADR-047),
-    the core construction is filed apart as THEORY-tmpzc8y4, Active. That
+    the core construction is filed apart as THEORY-729, Active. That
     construction is that an adjunction into an opposite category restricts
     to a dual equivalence on its fixed points, with the proof the paper
     omits re-derived under ADR-047 v2. This THEORY extends it and keeps the
@@ -44,7 +44,7 @@ summary: >-
   the verdicts on string dualities are a paragraph each. The proposal that
   philosophers of physics need homotopy type theory is an expectation.
 extends:
-- THEORY-tmpzc8y4
+- THEORY-729
 ---
 <!-- inactive-ok-file: THEORY-459 THEORY-690 — Proposed; the De Haro and Butterfield accounts named for their different use of the word -->
 
@@ -116,7 +116,7 @@ though the survey is exposition drawn from the literature, not a proof.
 
 ## Note of 2026-10-19: the core construction filed apart
 
-The construction in §3 is now [THEORY-tmpzc8y4](THEORY-tmpzc8y4.md), Active, with the proof
+The construction in §3 is now [THEORY-729](THEORY-729.md), Active, with the proof
 written out: an adjunction between C and D^op restricts to a dual
 equivalence between the full subcategories on which its unit and counit are
 isomorphisms. What keeps this THEORY Proposed is the claim that most

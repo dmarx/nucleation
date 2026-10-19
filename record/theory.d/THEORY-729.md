@@ -1,5 +1,8 @@
 ---
+number: 729
 status: Active
+formerly:
+- THEORY-tmpzc8y4
 title: 'An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms'
 version: 1
 history:
@@ -33,13 +36,13 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-604 — Proposed; the breadth thesis this construction was split from and that extends it, cited as open -->
 
-# THEORY-tmpzc8y4: An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms
+# THEORY-729: An adjunction between a category and the opposite of another restricts to a dual equivalence between the full subcategories on which its unit and counit are isomorphisms
 
 ## Source
 
 Corfield (2017), [LIT-115](../literature.d/LIT-115.md), §3, p. 58, read in full in [NOTE-141](../notes.d/NOTE-141.md). The paper
 states the construction, with Pontrjagin duality as its example, and gives
-no proof. The proof below is the record's (ADR-047 v2).
+no proof. The proof below is the record's ([ADR-047](../decisions.d/ADR-047.md) v2).
 
 ## What was actually shown
 

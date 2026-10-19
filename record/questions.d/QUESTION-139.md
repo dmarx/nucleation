@@ -1,5 +1,8 @@
 ---
+number: 139
 status: Open
+formerly:
+- QUESTION-tmpg2gry
 title: 'Does the one-hidden-layer lower bound of ∏(rᵢ+1) neurons for the monomial x₁^r₁⋯xₙ^rₙ hold for uniform approximation on a box, and not only for Taylor matching at the origin, and what replaces it when hidden units have biases?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   biased case is untreated. Both are here.
 ---
 
-# QUESTION-tmpg2gry: Does the one-hidden-layer lower bound of ∏(rᵢ+1) neurons for the monomial x₁^r₁⋯xₙ^rₙ hold for uniform approximation on a box, and not only for Taylor matching at the origin, and what replaces it when hidden units have biases?
+# QUESTION-139: Does the one-hidden-layer lower bound of ∏(rᵢ+1) neurons for the monomial x₁^r₁⋯xₙ^rₙ hold for uniform approximation on a box, and not only for Taylor matching at the origin, and what replaces it when hidden units have biases?
 
 ## Why it is a question
 
@@ -25,7 +28,7 @@ network of smooth units whose degree-d Taylor polynomial at the origin is
 the monomial needs exactly ∏(rᵢ+1) neurons. Until 2026-10-19 [THEORY-206](../theory.d/THEORY-206.md)'s
 promotion condition also asked for the uniform and biased versions, which
 are different theorems. At the owner's direction, from the promotion
-audit's batch-006 decision (ADR-047), the Taylor-sense result was promoted
+audit's batch-006 decision ([ADR-047](../decisions.d/ADR-047.md)), the Taylor-sense result was promoted
 alone, and the rest moved here unchanged.
 
 It is open because the source does not settle it. Theorem 4.1 claims the

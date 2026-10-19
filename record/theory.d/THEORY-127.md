@@ -18,7 +18,7 @@ promote_when: >-
   separate kind of result: an impossibility, or a possibility, proved for
   that kind of attitude. More cases of the discursive dilemma in courts or
   committees cannot settle either part. The court-agenda results
-  (Propositions 1, 4 and 5) are already THEORY-tmpg2o44, Active, so this
+  (Propositions 1, 4 and 5) are already THEORY-725, Active, so this
   condition bears only on the general impossibility and its extension.
   Under ADR-047 v2, a step-by-step re-derivation of Proposition 3 for the
   court agenda, written in a decision file, would meet the first part.
@@ -37,7 +37,7 @@ history:
   note: >-
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-127.yaml, batch 009, ADR-047),
-    the court-agenda results are filed apart as THEORY-tmpg2o44, Active.
+    the court-agenda results are filed apart as THEORY-725, Active.
     These are Proposition 1, Proposition 4, weak discontinuity and
     Proposition 5, with Propositions 1 and 4 re-derived under ADR-047 v2.
     This THEORY extends it and keeps the general impossibility
@@ -72,7 +72,7 @@ summary: >-
 presupposed_by:
 - THEORY-139
 extends:
-- THEORY-tmpg2o44
+- THEORY-725
 supports:
 - CLAIM-030
 - CLAIM-192
@@ -248,7 +248,7 @@ On the court agenda, majority voting fails robust rationality (Proposition
 1), the premise-based procedure secures it with set-wise supervenience
 (Proposition 4), and the members' judgments on the conclusion neither fix
 the group's nor need to enter (weak discontinuity, Proposition 5). These are
-now [THEORY-tmpg2o44](THEORY-tmpg2o44.md), Active, with the proofs written out. What keeps this
+now [THEORY-725](THEORY-725.md), Active, with the proofs written out. What keeps this
 THEORY Proposed is the general claim its title states: that no
 proposition-wise rule, uniform or not, can do what the premise-based
 procedure does (Propositions 2–3). The source cites that claim without

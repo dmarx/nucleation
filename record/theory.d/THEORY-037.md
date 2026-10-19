@@ -89,7 +89,7 @@ Isham and Butterfield already have sieve-valued truth, and failures of strong co
 ## Note of 2026-10-19: the Heyting structure, re-derived
 
 The source sketches Thm 2.5. This is the record's re-derivation, which meets
-the promotion condition under ADR-047 v2. Order on Sub_cl(Σ) is stagewise
+the promotion condition under [ADR-047](../decisions.d/ADR-047.md) v2. Order on Sub_cl(Σ) is stagewise
 inclusion, and for V′ ⊆ V the restriction ρ : Σ_V → Σ_V′ is continuous and
 open. Each Σ_V is compact Hausdorff and, since V is a von Neumann algebra,
 extremally disconnected: the closure of an open set is open ([NOTE-292](../notes.d/NOTE-292.md),

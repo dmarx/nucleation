@@ -120,7 +120,7 @@ weaker than having an adjoint. Out of a preorder with all joins it is not.
 ## Note of 2026-10-19: the three facts, re-derived
 
 [NOTE-601](../notes.d/NOTE-601.md) is a skim, so the record re-derives what this account uses. This
-meets the promotion condition under ADR-047 v2.
+meets the promotion condition under [ADR-047](../decisions.d/ADR-047.md) v2.
 
 1. **Observations can only gain on joins.** Since a ≤ a ∨ b, Φ(a) ≤ Φ(a ∨ b),
    and likewise for b. So Φ(a ∨ b) is an upper bound of Φ(a) and Φ(b), and it

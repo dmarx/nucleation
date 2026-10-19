@@ -4,7 +4,7 @@
   sub-objects of the spectral presheaf form a complete Heyting algebra,
   that its negation is the source's pseudo-complement, and that excluded
   middle fails in the ℂ² case. This carries out the promotion audit's
-  batch-009 decision under ADR-047 v2.
+  batch-009 decision under [ADR-047](record/decisions.d/ADR-047.md) v2.
 
 ### Fixed
 
@@ -14,4 +14,4 @@
   adjoint. The title now says "preserve all joins", with two
   counterexamples. With the record's re-derivations of Prop. 1.111 and
   Thm 1.115, the corrected account is promoted to Active (batch 009,
-  ADR-047 v2).
+  [ADR-047](record/decisions.d/ADR-047.md) v2).

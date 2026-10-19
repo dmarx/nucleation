@@ -22,7 +22,7 @@ history:
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-565.yaml, batch 010, ADR-047),
     the finite-data construction and its isometry are filed apart as
-    THEORY-tmpt7p6d, Active, with the derivation written out (ADR-047 v2).
+    THEORY-728, Active, with the derivation written out (ADR-047 v2).
     This THEORY extends it and keeps the α-family and Theorem 2.1. Its
     promote_when already concerned only those and is unchanged. The claim
     is unchanged, and the status stays Proposed.
@@ -33,7 +33,7 @@ date: '2026-10-16'
 source:
 - LIT-981
 extends:
-- THEORY-tmpt7p6d
+- THEORY-728
 answers:
 - QUESTION-052
 summary: >-
@@ -123,7 +123,7 @@ would not be defined. The paper does not consider that case.
 ## Note of 2026-10-19: the finite construction filed apart
 
 The construction and the embedding, as far as they hold on a finite data
-set, are now [THEORY-tmpt7p6d](THEORY-tmpt7p6d.md), Active, with the derivation the paper's
+set, are now [THEORY-728](THEORY-728.md), Active, with the derivation the paper's
 unseen equations left out: the symmetric conjugate, the spectral form of
 the walk, and the exact isometry for the 1/π-weighted diffusion distance.
 What keeps this THEORY Proposed is only the analytic half, the α-family

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**520 documents cited without acknowledgement.** Not listed: 10224 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**518 documents cited without acknowledgement.** Not listed: 10245 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -912,28 +912,6 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 - [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
 - [`record/notes.d/NOTE-299.md:128`](../../record/notes.d/NOTE-299.md)
 
-### [THEORY-037](../../record/theory.d/THEORY-037.md) — Proposed
-
-In the topos programme quantum propositions form a distributive Heyting algebra, not an orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can fail
-
-15 citations in 8 files await a look; 9 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-378.md:105`](../../record/literature.d/LIT-378.md)
-- [`record/notes.d/NOTE-326.md:195`](../../record/notes.d/NOTE-326.md)
-- [`record/notes.d/NOTE-326.md:219`](../../record/notes.d/NOTE-326.md)
-- [`record/notes.d/NOTE-327.md:161`](../../record/notes.d/NOTE-327.md)
-- [`record/notes.d/NOTE-327.md:163`](../../record/notes.d/NOTE-327.md)
-- [`record/notes.d/NOTE-327.md:164`](../../record/notes.d/NOTE-327.md)
-- [`record/notes.d/NOTE-328.md:160`](../../record/notes.d/NOTE-328.md)
-- [`record/notes.d/NOTE-328.md:161`](../../record/notes.d/NOTE-328.md)
-- [`record/notes.d/NOTE-328.md:162`](../../record/notes.d/NOTE-328.md)
-- [`record/notes.d/NOTE-328.md:163`](../../record/notes.d/NOTE-328.md)
-- [`record/notes.d/NOTE-329.md:152`](../../record/notes.d/NOTE-329.md)
-- [`record/notes.d/NOTE-333.md:137`](../../record/notes.d/NOTE-333.md)
-- [`record/notes.d/NOTE-334.md:147`](../../record/notes.d/NOTE-334.md)
-- [`record/questions.d/QUESTION-055.md:30`](../../record/questions.d/QUESTION-055.md)
-- [`record/questions.d/QUESTION-055.md:46`](../../record/questions.d/QUESTION-055.md)
-
 ### [THEORY-332](../../record/theory.d/THEORY-332.md) — Proposed
 
 For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown
@@ -1161,7 +1139,7 @@ Mapping morality with a compass: Testing the theory of ‘morality-as-cooperatio
 
 Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used
 
-12 citations in 4 files await a look; 34 other citations of it are acknowledged.
+12 citations in 4 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-193.md:48`](../../record/claims.d/CLAIM-193.md)
 - [`record/claims.d/CLAIM-193.md:76`](../../record/claims.d/CLAIM-193.md)
@@ -1253,7 +1231,7 @@ Irreversibility and Heat Generation in the Computing Process
 
 A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
 
-11 citations in 5 files await a look; 29 other citations of it are acknowledged.
+11 citations in 5 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-104.md:45`](../../record/cases.d/CASE-104.md)
 - [`record/cases.d/CASE-110.md:84`](../../record/cases.d/CASE-110.md)
@@ -1300,23 +1278,6 @@ Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Soc
 - [`record/theory.d/THEORY-653.md:13`](../../record/theory.d/THEORY-653.md)
 - [`record/theory.d/THEORY-653.md:15`](../../record/theory.d/THEORY-653.md)
 - [`record/theory.d/THEORY-653.md:30`](../../record/theory.d/THEORY-653.md)
-
-### [LIT-276](../../record/literature.d/LIT-276.md) — Rejected
-
-Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
-
-10 citations in 4 files await a look; 8 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-271.md:175`](../../record/notes.d/NOTE-271.md)
-- [`record/notes.d/NOTE-326.md:183`](../../record/notes.d/NOTE-326.md)
-- [`record/theory.d/THEORY-024.md:22`](../../record/theory.d/THEORY-024.md)
-- [`record/theory.d/THEORY-024.md:27`](../../record/theory.d/THEORY-024.md)
-- [`record/theory.d/THEORY-024.md:43`](../../record/theory.d/THEORY-024.md)
-- [`record/theory.d/THEORY-024.md:47`](../../record/theory.d/THEORY-024.md)
-- [`record/theory.d/THEORY-024.md:53`](../../record/theory.d/THEORY-024.md)
-- [`record/theory.d/THEORY-024.md:62`](../../record/theory.d/THEORY-024.md)
-- [`record/theory.d/THEORY-024.md:67`](../../record/theory.d/THEORY-024.md)
-- [`record/theory.d/THEORY-037.md:78`](../../record/theory.d/THEORY-037.md)
 
 ### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
 
@@ -1415,6 +1376,22 @@ The Lattice Representation Hypothesis of Large Language Models
 - [`record/notes.d/NOTE-297.md:135`](../../record/notes.d/NOTE-297.md)
 - [`record/notes.d/NOTE-302.md:124`](../../record/notes.d/NOTE-302.md)
 - [`record/notes.d/NOTE-302.md:137`](../../record/notes.d/NOTE-302.md)
+
+### [LIT-276](../../record/literature.d/LIT-276.md) — Rejected
+
+Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
+
+9 citations in 3 files await a look; 9 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-271.md:175`](../../record/notes.d/NOTE-271.md)
+- [`record/notes.d/NOTE-326.md:183`](../../record/notes.d/NOTE-326.md)
+- [`record/theory.d/THEORY-024.md:22`](../../record/theory.d/THEORY-024.md)
+- [`record/theory.d/THEORY-024.md:27`](../../record/theory.d/THEORY-024.md)
+- [`record/theory.d/THEORY-024.md:43`](../../record/theory.d/THEORY-024.md)
+- [`record/theory.d/THEORY-024.md:47`](../../record/theory.d/THEORY-024.md)
+- [`record/theory.d/THEORY-024.md:53`](../../record/theory.d/THEORY-024.md)
+- [`record/theory.d/THEORY-024.md:62`](../../record/theory.d/THEORY-024.md)
+- [`record/theory.d/THEORY-024.md:67`](../../record/theory.d/THEORY-024.md)
 
 ### [LIT-332](../../record/literature.d/LIT-332.md) — Unavailable
 
@@ -2545,7 +2522,7 @@ Comparison of Statistical Experiments
 
 Seven Sketches in Compositionality
 
-5 citations in 2 files await a look; 6 other citations of it are acknowledged.
+5 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-344.md:111`](../../record/literature.d/LIT-344.md)
 - [`record/literature.d/LIT-803.md:6`](../../record/literature.d/LIT-803.md)
@@ -2862,7 +2839,7 @@ Kothapalli — Neural Collapse: A Review on Modelling Principles and Generalizat
 
 Coifman et al. — Diffusion maps
 
-4 citations in 1 file await a look; 3 other citations of it are acknowledged.
+4 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-981.md:6`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:22`](../../record/literature.d/LIT-981.md)
@@ -4791,15 +4768,6 @@ For a short-range lattice model on a cylinder, with block and environment as sla
 - [`record/questions.d/QUESTION-065.md:24`](../../record/questions.d/QUESTION-065.md)
 - [`record/questions.d/QUESTION-065.md:44`](../../record/questions.d/QUESTION-065.md)
 
-### [THEORY-206](../../record/theory.d/THEORY-206.md) — Proposed
-
-For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons to approximate the monomial x₁^r₁⋯xₙ^rₙ and a deep network O(Σ log rᵢ), so the cost of flattening a polynomial grows exponentially with its degree in distinct variables and not with the number of inputs: products of many inputs separate depths, bounded-degree polynomials do not
-
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-060.md:23`](../../record/questions.d/QUESTION-060.md)
-- [`record/questions.d/QUESTION-060.md:41`](../../record/questions.d/QUESTION-060.md)
-
 ### [THEORY-207](../../record/theory.d/THEORY-207.md) — Proposed
 
 Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes
@@ -5809,7 +5777,7 @@ The top C eigenvalues of a trained C-class classifier's Fisher are carried by th
 
 Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-164.md:86`](../../record/claims.d/CLAIM-164.md)
 
@@ -6164,4 +6132,5 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
-None. Every annotation still governs something. ✅
+- record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
+- record/literature.d/LIT-993.md:51: annotation no longer applies — nothing in scope cites THEORY-009, THEORY-239

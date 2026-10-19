@@ -1,5 +1,8 @@
 ---
+number: 725
 status: Active
+formerly:
+- THEORY-tmpg2o44
 title: "On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter"
 version: 1
 history:
@@ -38,7 +41,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-127 — Proposed; the general impossibility this court-agenda core was split from and that extends it, cited as open -->
 
-# THEORY-tmpg2o44: On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter
+# THEORY-725: On the court agenda {P, Q, R, R iff (P and Q)} under universal domain, proposition-wise majority voting is not robustly rational, while the premise-based procedure is, and it makes the group's judgments a function of the members' whole judgment sets that the members' judgments on the conclusion neither fix nor need to enter
 
 ## Source
 

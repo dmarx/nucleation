@@ -26,7 +26,7 @@ history:
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-180.yaml, batch 010, ADR-047),
     the weight-decay/nuclear-norm identity is filed apart as
-    THEORY-tmpkmw55, Active, sourced to LIT-857's Appendix A and re-derived
+    THEORY-726, Active, sourced to LIT-857's Appendix A and re-derived
     (ADR-047 v2). This THEORY extends it and keeps the spectral law and the
     error decomposition. Its promote_when already concerned only the law
     and is unchanged. The status stays Proposed.
@@ -47,7 +47,7 @@ summary: >-
   isotropic Gaussian, the target is inside the model class, and the
   agreement with measured spectra is qualitative.
 extends:
-- THEORY-tmpkmw55
+- THEORY-726
 supports:
 - CLAIM-148
 ---
@@ -119,7 +119,7 @@ approximation term along the outliers.
 
 ## Note of 2026-10-19: the identity filed apart
 
-The identity is now [THEORY-tmpkmw55](THEORY-tmpkmw55.md), Active. With tied weights,
+The identity is now [THEORY-726](THEORY-726.md), Active. With tied weights,
 λ‖W‖²_F = λ‖WWᵀ‖_*. For untied factors, the balanced SVD factorization attains
 ‖M‖_* as the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M. What keeps this THEORY
 Proposed is only the spectral law η·ReLU(S0 + δZ − εI), which is derived by

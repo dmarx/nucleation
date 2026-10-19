@@ -64,7 +64,7 @@ history:
   note: >-
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-002.yaml, batch 009, ADR-047),
-    the proved results are filed apart as THEORY-tmp3z96c, Active. These
+    the proved results are filed apart as THEORY-723, Active. These
     are what the softmax distribution fixes (Thm 2.2) and how closeness
     depends on the distance (Thm 3.1, Cor. 3.2, Thm 4.7), for the final
     layer, all read in full in NOTE-738. This THEORY extends it and keeps
@@ -87,7 +87,7 @@ summary: >-
 presupposes:
 - THEORY-004
 extends:
-- THEORY-tmp3z96c
+- THEORY-723
 supports:
 - CLAIM-193
 - CLAIM-269
@@ -126,7 +126,7 @@ Read together: the defensible formal content of "representations converge" is th
 
 ## Note of 2026-10-19: the proved results filed apart
 
-The results of Nielsen et al. this account draws on are now [THEORY-tmp3z96c](THEORY-tmp3z96c.md),
+The results of Nielsen et al. this account draws on are now [THEORY-723](THEORY-723.md),
 Active. They cover what the softmax output distribution fixes and how
 closeness in distribution depends on the distance, for the final embedding
 and unembedding. Their proofs were read in full ([NOTE-738](../notes.d/NOTE-738.md)). What keeps this

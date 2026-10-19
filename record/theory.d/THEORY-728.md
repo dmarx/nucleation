@@ -1,5 +1,8 @@
 ---
+number: 728
 status: Active
+formerly:
+- THEORY-tmpt7p6d
 title: 'On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law'
 version: 1
 history:
@@ -39,7 +42,7 @@ extended_by:
 <!-- inactive-ok-file: THEORY-565 — Proposed; the analytic half this was split from and that extends it, cited as open -->
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the reading the construction is named in, with the derivation supplied here -->
 
-# THEORY-tmpt7p6d: On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law
+# THEORY-728: On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law
 
 ## Source
 

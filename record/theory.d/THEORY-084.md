@@ -37,7 +37,7 @@ history:
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-084.yaml, batch 010, ADR-047),
     Step 1, the Fisher–NTK spectral identity, is filed apart as
-    CLAIM-tmp2qr6a, demonstrated and Active, with its proof. It is the
+    CLAIM-377, demonstrated and Active, with its proof. It is the
     record's own linear algebra, so a CLAIM (ADR-032). This THEORY cites it
     for Step 1 and keeps the block inheritance and the threshold claim,
     whose promote_when is unchanged. The status stays Proposed.
@@ -95,7 +95,7 @@ multiplicities. Under squared loss, the likelihood is Gaussian with noise
 precision β. The Gauss–Newton matrix is then βJᵀJ, and it is the Fisher
 information. JJᵀ is the empirical NTK Gram matrix, K_ij = ∇f(x_i)·∇f(x_j).
 So the non-zero Fisher spectrum is the empirical NTK spectrum times β. This
-step needs no source, and it is now [CLAIM-tmp2qr6a](../claims.d/CLAIM-tmp2qr6a.md), with its proof. [NOTE-475](../notes.d/NOTE-475.md) records it as a fact of linear
+step needs no source, and it is now [CLAIM-377](../claims.d/CLAIM-377.md), with its proof. [NOTE-475](../notes.d/NOTE-475.md) records it as a fact of linear
 algebra and not a claim of [LIT-608](../literature.d/LIT-608.md).
 
 **Step 2, from the sources.** In the kernel regime the empirical NTK stays
@@ -163,7 +163,7 @@ for it, so this step is the filer's.
 
 ## Note of 2026-10-19: Step 1 filed as the record's own
 
-Step 1 is [CLAIM-tmp2qr6a](../claims.d/CLAIM-tmp2qr6a.md), demonstrated and Active: the model's Fisher under
+Step 1 is [CLAIM-377](../claims.d/CLAIM-377.md), demonstrated and Active: the model's Fisher under
 the Gaussian likelihood is βJᵀJ, and it shares its non-zero spectrum and
 multiplicities with the empirical NTK Gram matrix JJᵀ, at every width, in
 every regime and on any data. Other entries, such as [CLAIM-164](../claims.d/CLAIM-164.md), can cite
