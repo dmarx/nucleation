@@ -12,7 +12,7 @@ promote_when: >-
   refuted by a system in which the variables of least dynamical dependence
   are not the ones its dynamics single out (for example, not built from
   its invariants). The generic-absence result for VAR order above 1 is
-  proved in THEORY-tmp7brn5 and no longer part of this condition. What
+  proved in THEORY-733 and no longer part of this condition. What
   cannot settle it: further toy models built from a planted causal graph,
   which the authors call privileged by construction.
 title: "Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many"
@@ -24,7 +24,7 @@ history:
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-257.yaml, batch 012, ADR-047),
     the VAR criterion and its genericity are filed apart as
-    THEORY-tmp7brn5, Active. There the count of equations against unknowns
+    THEORY-733, Active. There the count of equations against unknowns
     is replaced by a proof for order above 1 (ADR-047 v2). The title said
     "generically none is exact" without qualification. For VAR(1) that is
     false, since exact coarse-grainings exist on open sets, so the title
@@ -43,7 +43,7 @@ source:
 answers:
 - QUESTION-065
 extends:
-- THEORY-tmp7brn5
+- THEORY-733
 summary: >-
   Barnett and Seth (2023), [LIT-979](../literature.d/LIT-979.md), read in [NOTE-791](../notes.d/NOTE-791.md): definition
   (2.6), transitivity (App. A), the causal-graph form (2.12), the
@@ -90,7 +90,7 @@ full in [NOTE-791](../notes.d/NOTE-791.md) (arXiv:2106.06511v2).
     is LA_kMᵀ ≡ 0 (3.26).
   - By counting equations against the m(n − m) Grassmannian parameters,
     the paper expects exact solutions at every scale for VAR(1) and none
-    for VAR(p > 1), except on a set of measure zero. [THEORY-tmp7brn5](THEORY-tmp7brn5.md)
+    for VAR(p > 1), except on a set of measure zero. [THEORY-733](THEORY-733.md)
     proves the second, and shows the first fails over the reals: exact
     VAR(1) solutions are the invariant subspaces of Aᵀ, which a rotation
     in the plane lacks on an open set.

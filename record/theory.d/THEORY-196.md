@@ -7,7 +7,7 @@ promote_when: >-
   A reading or re-derivation of Sarkar's distortion bound: that placing
   each node's children evenly on a hyperbolic circle of radius
   τ = ((1 + ε)/ε)·2 log(deg_max/(π/2)) around it gives worst-case
-  distortion at most 1 + ε for every finite tree. With THEORY-tmpfydax's
+  distortion at most 1 + ε for every finite tree. With THEORY-734's
   planar lower bound, that settles the Θ. Or a construction that beats the
   upper bound in depth, which would refute the linear dependence on ℓ.
   Further experiments in which deep trees need more bits than bushy ones
@@ -20,13 +20,13 @@ history:
   note: >-
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-196.yaml, batch 012, ADR-047),
-    the planar lower bound is filed apart as THEORY-tmpfydax, Active. It is
+    the planar lower bound is filed apart as THEORY-734, Active. It is
     re-derived there by exact hyperbolic trigonometry, without the
     small-angle substitution, and with explicit constants (ADR-047 v2).
     This THEORY extends it and keeps the Θ, whose upper bound rests on
     Sarkar's construction, which neither record holds. The promote_when
     narrows to that upper bound. Its extension to H^r for r > 2 is not
-    claimed by the title, and it moves to QUESTION-tmpr1c4g. The claim is
+    claimed by the title, and it moves to QUESTION-150. The claim is
     unchanged, and the status stays Proposed.
 tags:
 - representation-learning
@@ -45,7 +45,7 @@ summary: >-
 answers:
 - QUESTION-025
 extends:
-- THEORY-tmpfydax
+- THEORY-734
 ---
 <!-- inactive-ok-file: THEORY-185 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 
@@ -77,7 +77,7 @@ Sarkar's embedding is ℓτ = O((ℓ/ε) log deg_max), and that is the bit count
 For a root carrying deg_max chains of length m (ℓ = 2m), any H² embedding
 with distortion 1 + ε must put a node at depth whose −log(1 − ‖x‖) is
 Ω((ℓ/ε) log deg_max), so the bound is tight in the plane. That lower
-bound is now proved exactly, with constants, in [THEORY-tmpfydax](THEORY-tmpfydax.md). The degree
+bound is now proved exactly, with constants, in [THEORY-734](THEORY-734.md). The degree
 enters only through the angle siblings need. In H^r, code-selected
 placement on a hypercube widens that angle, cutting the upper bound to
 O((ℓ/(εr)) log deg_max) up to r ≈ log deg_max. The depth term is
@@ -100,7 +100,7 @@ grow with the embedded distances would have shown flat numbers here.
   and the H^r rate is an upper bound only.
 - **Not with exact constants, in the source.** The paper's lower-bound
   proof replaces √(2(1 − cos θ)) by θ as an equality and passes over
-  "some algebra". [THEORY-tmpfydax](THEORY-tmpfydax.md) redoes it exactly, for deg_max ≥ 15 and
+  "some algebra". [THEORY-734](THEORY-734.md) redoes it exactly, for deg_max ≥ 15 and
   ε ≤ 1. The upper bound's distortion guarantee is Sarkar's, cited and not
   held.
 - **Not that a tree carries Θ(ℓ) bits of information per node.** The cost

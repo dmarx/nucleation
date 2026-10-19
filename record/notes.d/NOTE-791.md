@@ -20,7 +20,7 @@ history:
   note: >-
     Annotated for the promotion audit's batch 012
     (record/promotion-audit/decisions/THEORY-257.yaml, ADR-047). C4's
-    p > 1 half is now proved (THEORY-tmp7brn5). Its p = 1 half, exact
+    p > 1 half is now proved (THEORY-733). Its p = 1 half, exact
     solutions "at all scales" generically, fails over the reals.
 date: '2026-10-14'
 summary: >-
@@ -163,7 +163,7 @@ the variable to predict itself well. White noise can qualify.
 | C1 | Dynamical dependence is transformation-invariant and dynamical independence is transitive | strong | (2.7); proof in App. A |
 | C2 | Independence is equivalent, in suitable coordinates, to a causal sub-graph with no incoming transfer | strong | (2.11)–(2.13), proof sketched by reference to App. A |
 | C3 | For linear state-space models dynamical dependence has a closed form and a spectral form | strong | (3.16)–(3.21) |
-| C4 | Generically, exact independence exists at all scales for VAR(1) and at none for VAR(p > 1) | strong as a counting argument | (3.25)–(3.26); equation and unknown counts, not a full proof of existence of real solutions. (Annotated 2026-10-19: the p > 1 half is proved in [THEORY-tmp7brn5](../theory.d/THEORY-tmp7brn5.md); the p = 1 half is false over the reals, e.g. a plane rotation.) |
+| C4 | Generically, exact independence exists at all scales for VAR(1) and at none for VAR(p > 1) | strong as a counting argument | (3.25)–(3.26); equation and unknown counts, not a full proof of existence of real solutions. (Annotated 2026-10-19: the p > 1 half is proved in [THEORY-733](../theory.d/THEORY-733.md); the p = 1 half is false over the reals, e.g. a plane rotation.) |
 | C5 | Optimization finds the planted independent variables, and the cost is multimodal | moderate | one 9-variable toy model with 100 restarts per scale |
 | C6 | The criterion is intrinsic to the dynamics, unlike observer-query abstractions | moderate | argued against Millidge (2021), §5.1; the boundary and scale remain inputs |
 

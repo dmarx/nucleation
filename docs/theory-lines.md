@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-46 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+48 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -57,6 +57,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-512](../record/theory.d/THEORY-512.md) — The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect *(Proposed)*
 
 ## complex-systems
+
+### From For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose's invariant subspaces, which exist on open sets but not generically at every scale
+
+- [THEORY-733](../record/theory.d/THEORY-733.md) — For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose's invariant subspaces, which exist on open sets but not generically at every scale *(Active)*
+  - [THEORY-257](../record/theory.d/THEORY-257.md) — Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many *(Proposed)*
 
 ### From For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum
 
@@ -216,6 +221,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-717](../record/theory.d/THEORY-717.md) — For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix *(Active)*
   - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Proposed)*
 
+### From For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose's invariant subspaces, which exist on open sets but not generically at every scale
+
+- [THEORY-733](../record/theory.d/THEORY-733.md) — For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose's invariant subspaces, which exist on open sets but not generically at every scale *(Active)*
+  - [THEORY-257](../record/theory.d/THEORY-257.md) — Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many *(Proposed)*
+
 ### From For jointly Gaussian stationary processes, Granger causality in Geweke's generalized-variance form is exactly twice the transfer entropy, conditional and multivariate, at the regressions' lags, because least-squares residual covariance is the partial covariance and a Gaussian's conditional entropy is half its log-determinant plus a constant
 
 - [THEORY-700](../record/theory.d/THEORY-700.md) — For jointly Gaussian stationary processes, Granger causality in Geweke's generalized-variance form is exactly twice the transfer entropy, conditional and multivariate, at the regressions' lags, because least-squares residual covariance is the partial covariance and a Gaussian's conditional entropy is half its log-determinant plus a constant *(Active)*
@@ -334,6 +344,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-191](../record/theory.d/THEORY-191.md) — In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball *(Proposed)*
   - [THEORY-618](../record/theory.d/THEORY-618.md) — Neural circuits that must represent hierarchically organised states in few dimensions use a hyperbolic geometry, three-dimensional where it has been measured, because hyperbolic space holds exponentially many well-separated states within a small radius; the argument from Zipf's law to this geometry does not hold, and the evidence is two Betti-curve studies tested only against uniform Euclidean nulls *(Proposed)* — also carries further THEORY-192
 - [THEORY-192](../record/theory.d/THEORY-192.md) — Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time *(Proposed)*
+
+### From In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits
+
+- [THEORY-734](../record/theory.d/THEORY-734.md) — In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits *(Active)*
+  - [THEORY-196](../record/theory.d/THEORY-196.md) — A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones *(Proposed)*
+
+### From For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose's invariant subspaces, which exist on open sets but not generically at every scale
+
+- [THEORY-733](../record/theory.d/THEORY-733.md) — For a stable linear Gaussian VAR(p), a linear coarse-graining is exactly dynamically independent iff its row space is invariant under the transpose of every lag matrix, so for p ≥ 2 almost no parameter set has one at any scale, while for p = 1 they are the transpose's invariant subspaces, which exist on open sets but not generically at every scale *(Active)*
+  - [THEORY-257](../record/theory.d/THEORY-257.md) — Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many *(Proposed)*
 
 ### From For a fixed linear operator in an inner-product norm, growth over time t is the top singular value of the propagator, which the eigenvalues bound only from below; it starts at the numerical abscissa, which can be positive when every mode decays; and the forced response is bounded by the condition number of the eigenvectors over the distance to the spectrum
 
@@ -544,6 +564,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
   - [THEORY-481](../record/theory.d/THEORY-481.md) — A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, each input mode is learned on a logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator *(Proposed)*
+
+### From In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits
+
+- [THEORY-734](../record/theory.d/THEORY-734.md) — In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits *(Active)*
+  - [THEORY-196](../record/theory.d/THEORY-196.md) — A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones *(Proposed)*
 
 ### From On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law
 

@@ -1,5 +1,8 @@
 ---
+number: 734
 status: Active
+formerly:
+- THEORY-tmpfydax
 title: 'In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits'
 version: 1
 history:
@@ -36,7 +39,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-196 — Proposed; the account this was split from and that extends it, cited as open -->
 
-# THEORY-tmpfydax: In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits
+# THEORY-734: In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits
 
 ## Source
 
