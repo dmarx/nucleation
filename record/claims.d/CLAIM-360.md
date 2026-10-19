@@ -45,7 +45,7 @@ illustrated_by:
 - CASE-115
 ---
 
-<!-- inactive-ok-file: CLAIM-361 THEORY-186 THEORY-187 THEORY-195 THEORY-200 THEORY-212 — Proposed; readings cited with their stated limits, and an open claim -->
+<!-- inactive-ok-file: CLAIM-361 THEORY-186 THEORY-200 THEORY-212 — Proposed; readings cited with their stated limits, and an open claim -->
 
 # CLAIM-360: The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size
 

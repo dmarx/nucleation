@@ -36,7 +36,7 @@ summary: >-
   show a susceptibility peak at an intermediate noise, over about one
   decade of distance and with no non-hierarchical control.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-199 THEORY-195 THEORY-201 THEORY-194 THEORY-203 — Proposed or open; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-199 THEORY-201 THEORY-194 THEORY-203 — Proposed or open; cited as what this reading produced or bears on -->
 
 # NOTE-691: Probing Latent Hierarchy via Diffusion
 

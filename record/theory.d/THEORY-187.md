@@ -1,19 +1,24 @@
 ---
 number: 187
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8wj5h
-promote_when: >-
-  A derivation, or a controlled measurement across depths, showing that
-  deep linear networks started off the decoupled set behave the same way:
-  learning time, counted in iterations at the stable step size, bounded in
-  depth when the initial end-to-end gain on every mode is of order one,
-  and growing as a power of 1/ε when it is ε. That means random orthogonal
-  or random small weights, not aligned with the task's singular vectors.
-  More runs from decoupled starts cannot settle it, since there the result
-  is already exact.
-title: 'In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth'
-version: 1
+title: 'In a deep linear network trained by gradient descent on whitened inputs from decoupled, balanced initial weights, depth slows learning through the initial end-to-end strength of each mode: counting iterations as learning time over the stable step size, from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision for THEORY-187 (batch 027,
+    ADR-047). The title stated the depth law for any deep linear network; it
+    now names the start the exact theory covers, whitened inputs and
+    decoupled, balanced initial weights, and how iterations are counted. The
+    mode equations, the finite-depth plateau exponent (N_l − 3)/(N_l − 1) that
+    NOTE-667 did not check, the stable step size and the iteration count are
+    re-derived in the note of 2026-10-19 below (ADR-047 v2). The promote_when
+    asked about starts off the decoupled set, which the body disclaims. It
+    moves, unchanged, to QUESTION-tmpzeamh.
 tags:
 - learning-theory
 date: '2026-10-09'
@@ -33,10 +38,9 @@ answers:
 supports:
 - CLAIM-360
 ---
-<!-- inactive-ok-file: THEORY-211 — Proposed; readings on balance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-182 THEORY-039 — Proposed; accounts this one is set beside -->
 
-# THEORY-187: In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
+# THEORY-187: In a deep linear network trained by gradient descent on whitened inputs from decoupled, balanced initial weights, depth slows learning through the initial end-to-end strength of each mode: counting iterations as learning time over the stable step size, from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
 
 ## Source
 
@@ -132,3 +136,30 @@ So balance is less special under SGD than under gradient flow. But the
 attraction acts over the long run, at stationarity. It does not supply
 balance during the stage-like transitions this account describes, which
 still need the balanced start, or something close to it.
+
+## Note of 2026-10-19: the depth law re-derived for the decoupled start
+
+Carried out for the promotion audit's batch 027 ([ADR-047](../decisions.d/ADR-047.md) v2). Let
+m = N_l − 1 be the number of weight layers.
+
+1. **Mode equations.** On the decoupled set with whitened inputs, a mode of
+   strength s has loss (1/2τ)(s − u)², u = a₁⋯a_m. Gradient flow gives
+   τȧᵢ = (s − u)∏_{j≠i}aⱼ, so d(aᵢ²)/dt = (2/τ)(s − u)u for every i. The
+   differences aᵢ² − aⱼ² are conserved, a balanced start stays balanced,
+   and with aᵢ = a, u = aᵐ: τu̇ = m u^{2−2/m}(s − u).
+2. **Small start.** The time from u = ε to near s is
+   (τ/m)∫ du/(u^{2−2/m}(s − u)). For m = 2 this is (τ/2s)ln(s/ε) + O(1).
+   For m > 2 the integral is dominated near ε and is about
+   (τ/m)ε^{−(m−2)/m}/((1 − 2/m)s). The exponent (m − 2)/m =
+   (N_l − 3)/(N_l − 1) rises to 1, the 1/ε of Eq. 17, as depth grows.
+3. **Stable step.** At the optimum the Hessian is (1/τ)∇u∇uᵀ with
+   ∂u/∂aᵢ = s^{1−1/m}, so its top eigenvalue is m s^{2−2/m}/τ and the stable
+   step is of order τ/(m s^{2−2/m}), about 1/(N_l s²) at depth.
+4. **Iterations.** Time over that step is s^{2−2/m} times the integral in
+   step 2. From an initial strength of order one the integral converges as
+   m grows, so the count is bounded in depth. From ε it is about
+   s^{1−2/m}ε^{−(m−2)/m}/(1 − 2/m), growing towards s/ε.
+
+Each step uses the balanced, decoupled start. Off the decoupled set the
+modes couple and step 1 fails, which is why the general case is
+[QUESTION-tmpzeamh](../questions.d/QUESTION-tmpzeamh.md).

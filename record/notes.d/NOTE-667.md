@@ -45,7 +45,6 @@ summary: >-
   networks near gain 1 keep their Jacobians near-isometric.
 ---
 <!-- inactive-ok-file: THEORY-186 — Proposed; the account of the three-layer result, which this paper first derived -->
-<!-- inactive-ok-file: THEORY-187 — Proposed; the account this reading produced -->
 <!-- inactive-ok-file: THEORY-182 THEORY-039 — Proposed; accounts this reading bears on -->
 
 # NOTE-667: Exact solutions to the nonlinear dynamics of learning in deep linear neural networks

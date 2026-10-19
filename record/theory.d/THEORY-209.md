@@ -41,7 +41,6 @@ summary: >-
   of the regime that trained it. Proposed: the deep-learning evidence is
   one network, under assumptions the paper concedes are strained.
 ---
-<!-- inactive-ok-file: THEORY-211 — Proposed; the account of the law of balance set beside this one, open -->
 <!-- inactive-ok-file: THEORY-085 THEORY-083 THEORY-210 QUESTION-080 — Proposed or Open; readings and a question set beside this account on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-108 — Proposed; the reading whose temperature axis this account interprets, open -->
 

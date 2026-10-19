@@ -1,23 +1,24 @@
 ---
 number: 211
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpdsy58
-promote_when: >-
-  The law of balance measured in a deep network trained on real data,
-  during its limiting dynamics. What would promote: for parameter groups
-  related by a rescaling symmetry (adjacent layers through a ReLU, or the
-  query and key matrices of attention), the difference of squared norms
-  moving toward the value at which the groups' gradient-noise traces are
-  equal, at a rate that scales with learning rate over batch size, with
-  weight decay adding to it. That should hold from more than one
-  initialization. What would refute it: in such a network at stationarity,
-  the difference staying at its initial value, as under gradient flow, or
-  diffusing without a preferred value, as under isotropic noise. A failure
-  of the SDE approximation at the learning rates used would limit it, not
-  refute it. More solvable toy models cannot settle it.
-title: 'Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise would, and differs from gradient descent by a finite amount however small the noise'
-version: 1
+title: 'In the stochastic-differential-equation model of SGD, with a gradient-noise covariance that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however small the noise'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision for THEORY-211 (batch 027,
+    ADR-047). The title now names the model the law of balance is proved in,
+    the SDE model of SGD with parameter-dependent noise, and the condition that
+    both groups carry noise. NOTE-714 did not check the paper's proofs; the
+    law, the restoring drift along the orbit and the contrasts with gradient
+    flow and isotropic noise are re-derived in the note of 2026-10-19 below
+    (ADR-047 v2). The promote_when asked for the law measured in a deep
+    network on real data, which the body disclaims. It moves, unchanged, to
+    QUESTION-tmp8swvm.
 tags:
 - learning-theory
 - loss-landscapes
@@ -40,14 +41,15 @@ summary: >-
   points to the noise-balanced point, and weight decay adds to its rate.
   In a diagonal linear network the stationary distribution follows exactly:
   it is non-ergodic, has a memory of initialization, and collapses to zero
-  above a critical temperature. Proposed: the theorem's proof was not
-  checked here, and the tests are small synthetic networks.
+  above a critical temperature. The law is re-derived here (2026-10-19)
+  within the SDE model; the tests are small synthetic networks, and
+  whether it holds in deep networks on real data is QUESTION-tmp8swvm.
 supports:
 - CLAIM-093
 ---
 <!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-108 QUESTION-080 — Proposed or Open; the accounts and question this one is set beside, open -->
 
-# THEORY-211: Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise would, and differs from gradient descent by a finite amount however small the noise
+# THEORY-211: In the stochastic-differential-equation model of SGD, with a gradient-noise covariance that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however small the noise
 
 ## Source
 
@@ -119,3 +121,34 @@ full rank for every live neuron, so the drift does not vanish (Theorem 2).
   and the norms only approximately.
 - It does not instruct. Using the effect for training belongs to the
   anthology.
+
+## Note of 2026-10-19: the law of balance re-derived
+
+Carried out for the promotion audit's batch 027 ([ADR-047](../decisions.d/ADR-047.md) v2). Let every
+per-sample loss satisfy ℓ(λu, w/λ, ·) = ℓ(u, w, ·) for λ > 0, so that
+uᵀ∇_uℓ − wᵀ∇_wℓ = 0 sample by sample. Model SGD as
+dθ = −∇L dt + √(TΣ(θ)) dW with T = η/S, and let J = ‖u‖² − ‖w‖².
+
+1. **No drift from the loss.** ∇Jᵀ(−∇L) = −2(uᵀ∇_uL − wᵀ∇_wL) = 0.
+2. **No noise along J.** Every per-sample gradient g has
+   ∇Jᵀg = 2(uᵀg_u − wᵀg_w) = 0, so ∇JᵀΣ∇J = 0.
+3. **The Itô term.** ½T tr(Σ∇²J) = T(tr Σ_u − tr Σ_w), the difference of the
+   two groups' gradient-noise traces. Locally ℓ depends on (u, w) through
+   M = uwᵀ. With A = ∂ℓ/∂M per sample, g_u = Aw and g_w = Aᵀu, so the traces
+   are wᵀC₂w and uᵀC₁u with C₁ = E[(A − Ā)(A − Ā)ᵀ] and
+   C₂ = E[(A − Ā)ᵀ(A − Ā)]. Hence dJ/dt = −T(uᵀC₁u − wᵀC₂w).
+4. **Restoring along the orbit.** On the orbit (λu, w/λ) the product M,
+   and so C₁ and C₂, is fixed, and the drift is −T(λ²a − λ⁻²b) with
+   a = uᵀC₁u and b = wᵀC₂w. When a and b are positive, J is driven to the
+   unique balanced point λ⁴ = b/a, at a rate proportional to T.
+5. **Contrasts.** With T = 0, J is conserved. Under isotropic noise σ²I,
+   J receives noise of variance 4σ²(‖u‖² + ‖w‖²) and only a constant Itô
+   drift, so it diffuses.
+6. **A finite difference.** For any T > 0 the balance is reached on a time
+   scale of order 1/T, while gradient descent keeps the initial J, so the
+   long-time and small-noise limits do not commute.
+7. **Weight decay.** (γ/2)(‖u‖² + ‖w‖²) adds −2γJ to the drift.
+
+Step 4 assumes the product has stopped moving, that is, stationarity of the
+loss-reducing motion. While M still moves, step 3 gives the drift but not
+convergence.

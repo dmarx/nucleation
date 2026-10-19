@@ -23,7 +23,7 @@ summary: >-
   distribution (Theorem 4), collapse above T_c = β₂/α₃ for D = 1, tail
   ∝ v^{−5+3/(D+1)} independent of data.
 ---
-<!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-211 — Proposed; the accounts this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-209 THEORY-210 — Proposed; the accounts this reading bears on, open -->
 
 # NOTE-714: Noise Balance and Stationary Distribution of Stochastic Gradient Descent
 
