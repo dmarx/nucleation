@@ -1,21 +1,36 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 123
+version: 125
 updated: '2026-10-19'
-record_revision: 374ba778e1bc5456455bcdbc42e581b2abff1f59
+record_revision: 735f6240684ada2fc488e24d376436458aca4f0d
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: null
   state: between batches
-  in_review: null
-  next_step: 'Round 031-035 plus triage-006 is integrated. Round 024-030 (#211-#221) is merged. Its PRs
-    #222-#225 are merged. Next: wave 3 from triage-006 formal_route (THEORY-080, -263, -293, -321, -229,
-    -110, -228, -319, -161, -185, then 11-20) with its control 5 (THEORY-162, -205, -275, -365, -578);
-    sort each by what its title asserts (batch 020), not by the flag. Wave 5: the requeue list. Owner
-    questions open: CLAIM-238 remedy for CLAIM-139 (restate with a margin, or split); CLAIM-143/-265 wording;
-    THEORY-351 title as report vs thesis; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046;
-    CLAIM-160 narrowing; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
+  in_review:
+  - '#227'
+  - '#228'
+  - '#229'
+  - '#230'
+  - '#231'
+  - '#232'
+  - '#233'
+  - '#234'
+  - '#235'
+  next_step: 'Round 036-041 is integrated. Open PRs: #227 (CLAIM-265 class-relative correction; owner
+    wording), #228 (THEORY-290), #229 (THEORY-228, -319), #230 (THEORY-238, -266, -278), #231 (THEORY-263,
+    -293, -229), #232 (THEORY-321), #233 (THEORY-185, -161), #234 (THEORY-197), #235 (THEORY-205, -275,
+    -365). Merge one at a time after each regenerate commit, this ledger last; pairs #229/#231, #230/#231,
+    #233/#234 and #228/#232 touch the same directive lines, so merge main into the later one and keep
+    both trims. Merge #231 before #230 (THEORY-266 rests on THEORY-263). Next: triage-006 formal_route
+    16-20 (THEORY-280, -289, -344, -387, -019), with the threshold raised to 3 or relation paired with
+    derived/cites (batch 039); score-2 entries go to v3 review, not re-derivation. Wave 5: the requeue
+    list. Owner questions open: THEORY-073 narrow-and-promote of an argument; CLAIM-265/-143 class-relative
+    wording (#227); THEORY-351/-071/-628 whether a title reporting an argument is promotable; THEORY-321
+    multi-group case; THEORY-185 conditional theorems whose promote_when asks the premise be tested; CLAIM-139
+    remedy; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160 narrowing; CLAIM-322,
+    CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -39,8 +54,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 70
-  promotion_paths: 45
+  reviewed: 75
+  promotion_paths: 48
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -71,6 +86,9 @@ requeue:
   when: after a dedicated re-derivation of LIT-941 App. C
   why: 'batch-038: the proofs it rests on were read only in outline; title must name the uniform, lossless
     models'
+- code: THEORY-162
+  when: when wave 5 resumes
+  why: 'batch-039: an argument about what meaning is; review as interpretive synthesis'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2529,6 +2547,47 @@ candidates:
   decision: decisions/THEORY-278.yaml
   carried_out_in:
   - '#230'
+- code: THEORY-162
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: retain-proposed
+  batch: batch-039
+  decision: decisions/THEORY-162.yaml
+- code: THEORY-205
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-039
+  decision: decisions/THEORY-205.yaml
+  carried_out_in:
+  - '#235'
+- code: THEORY-275
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-039
+  decision: decisions/THEORY-275.yaml
+  carried_out_in:
+  - '#235'
+- code: THEORY-365
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-039
+  decision: decisions/THEORY-365.yaml
+  carried_out_in:
+  - '#235'
+- code: THEORY-578
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: retain-proposed
+  batch: batch-039
+  decision: decisions/THEORY-578.yaml
 history:
 - version: 1
   date: '2026-10-19'
@@ -2994,4 +3053,13 @@ history:
   date: '2026-10-19'
   note: 'Batch 038 integrated: 4 of 5 found a promotion path (THEORY-197 promote; THEORY-238, -266, -278
     narrow-and-promote); carried_out_in #230, #234; THEORY-270 requeued'
+- version: 124
+  date: '2026-10-19'
+  note: 'Batch 039 integrated: 3 of 5 found a promotion path. THEORY-205 is a theorem, re-derived exactly.
+    THEORY-275 and THEORY-365 are single-study measurements under ADR-047 v3. All three are carried out
+    in one PR.; carried_out_in #235'
+- version: 125
+  date: '2026-10-19'
+  note: 'Round 036-041 closed: 16 promotion paths in 26 reviews; THEORY-162 requeued to wave 5; hand-off
+    updated.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

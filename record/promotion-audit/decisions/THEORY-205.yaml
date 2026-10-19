@@ -1,0 +1,95 @@
+# record/promotion-audit/decisions/THEORY-205.yaml
+id: THEORY-205
+batch: batch-039
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived here step by step (ADR-047 v2), for a short-range lattice
+    model on an infinite cylinder with a symmetric transfer matrix T,
+    block V and environment E runs of whole slices, and n transfer steps
+    between V's boundary slice s and E's boundary slice t.
+
+    (1) Exact decomposition. Let λ0 > |λ1| > |λ2| ≥ ... be T's
+    eigenvalues, with orthonormal eigenvectors ψ_i and ψ0 > 0 (Perron–
+    Frobenius), and r_i = ψ_i/ψ0. A slice's marginal is π = ψ0², and the
+    n-step law of t given s is π(t) Σ_i (λ_i/λ0)^n r_i(s) r_i(t). By the
+    Markov property along the axis, E is independent of V given s, and V
+    of E given t. So
+      P(v, e) = P(v) P(e) [1 + Σ_{i≥1} ε_i r_i(s(v)) r_i(t(e))],
+    ε_i = (λ_i/λ0)^n. The functions r_i∘s are orthonormal and mean-zero
+    under P(v) (Σ_s ψ_i ψ_j = δ_ij), and so are r_i∘t under P(e). This is
+    therefore an exact singular-value decomposition of the normalised
+    channel P(v,e)/√(P(v)P(e)), with singular values 1 and |ε_i|. No
+    large-buffer approximation is needed (NOTE-690's remark, confirmed).
+
+    (2) The bifurcation. Perturb the uninformative encoder,
+    p(h|v) = p(h)(1 + δ g_h(v)) with E_v g_h = 0. To second order,
+    I(H;V) = (δ²/2) Σ_h p(h) ‖g_h‖² and I(H;E) = (δ²/2) Σ_h p(h) ‖K g_h‖²,
+    where K is conditional expectation from functions of V to functions
+    of E. So the IB Lagrangian I(H;V) − β I(H;E) has second variation
+    Σ_h p(h) (‖g_h‖² − β ‖K g_h‖²). Since K(r_i∘s) = ε_i r_i∘t, the
+    largest value of ‖Kg‖²/‖g‖² on mean-zero g is ε_1², attained only at
+    g = r_1∘s when |λ1| is strictly the largest |λ_i| for i ≥ 1. The
+    uninformative encoder loses local stability at
+    β_c = ε_1^(−2) = (λ0/λ1)^(2n), and the unstable direction depends on
+    the block only through r_1(s), the boundary weak value of the leading
+    excited eigenvector.
+
+    (3) Numerical check, done for this review. For critical 2D Ising on a
+    cylinder of circumference 3, with n = 9: λ0 = 17.87705,
+    λ1 = 13.55181, (λ0/λ1)^18 = 146.34458, and 1/σ_1² of the exact
+    channel is 146.34458 too. That matches LIT-885's predicted value, and
+    NOTE-690's, and shows that L_B in the title counts transfer steps.
+
+    (4) The CFT reading. At a critical point described by a CFT, the
+    standard finite-size relation λ_i/λ0 → exp(−2π∆_i/L) makes r_1 the
+    lowest-dimension primary. It is cited (Cardy), not proved here, and
+    the title should say so.
+  excluded: >-
+    "At its first transition", read as the point where the uninformative
+    encoder stops being optimal. That point is β = 1/s*(V;E), where s*
+    is sup over U–V–E of I(U;E)/I(U;V) (the KL contraction coefficient).
+    It is at most ε_1^(−2) and can be much smaller, since s* ≥ ρ_m².
+    Counterexample, computed for this review: a nearest-neighbour chain
+    of 3-state units (circumference 1) with
+    T = [[1, 0.9, 0.05], [0.9, 1, 0.05], [0.05, 0.05, 0.3]] and n = 3.
+    The bifurcation is at (λ0/λ1)^6 ≈ 69,391. A binary encoder that flags
+    the rare state with probability 10⁻⁴ gives
+    I(U;V) − 5000 I(U;E) < 0, so the uninformative encoder is no longer
+    optimal at β = 5000, and s* ≈ 3.9×10⁻⁴ ≈ 27 ρ_m². In the Ising check
+    the two thresholds agree: numerically s*/ρ_m² = 0.999999 at n = 9,
+    presumably because of the spin-flip symmetry. So the title holds for
+    the bifurcation, and for the first transition only where s* = ρ_m².
+    Also excluded, as the title already says: blocks inside a buffer
+    shell, the fixed-alphabet RSMI optimum, and degenerate leading
+    excited eigenvalues.
+evidence:
+  - "LIT-885, Eqs. 3–5, B2–B9, C1–C11, as read in NOTE-690, which reproduces β_c exactly from the singular values of the channel."
+  - "This review's re-derivation (scope.accepted, steps 1 and 2) and its numerical checks (step 3, and the 3-state counterexample in scope.excluded), computed with numpy and scipy from the transfer matrices stated."
+blockers: []
+notes: >-
+  The promote_when asks for a second reading that checks the derivation
+  independently. Under ADR-047 v2 the step-by-step re-derivation above
+  meets it, and it is exact, not leading-order. Its other half, a second
+  model (a Potts or non-integrable chain) on which the first IB feature is
+  found to be the eigenvector, is a wider check. The review found that on
+  a skewed 3-state chain the global first transition comes before the
+  bifurcation. The encoder that beats the trivial one there still
+  separates states by the sign of r_1, so it is not a counterexample to
+  the feature claim. It shows only that "first transition" has to mean
+  the bifurcation. The new QUESTION should ask when the two coincide.
+  Triage-006 scored it 3 (title, relation, derived), correctly.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle "at its first transition" to "where the
+  uninformative encoder first loses stability", state the symmetric,
+  non-degenerate transfer matrix, and mark the CFT reading as cited. Add a
+  dated note with the derivation and both numerical checks. Move the
+  promote_when's second-model check, together with when 1/s* equals the
+  bifurcation, to a new QUESTION on the formal-apparatus line.

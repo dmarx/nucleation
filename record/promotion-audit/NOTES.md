@@ -1201,3 +1201,43 @@ history note. THEORY-277 is requeued on this basis.
   heading but not in the front matter, so `title:` and the heading
   disagree and lint fails (#230: THEORY-278, two new QUESTIONs). Name the
   source by its authors instead.
+
+## 2026-10-19 — batch 039 (wave 3, triage-006 control)
+
+- Triage-006 control: the formal flag went 1 of 5. Only the score-3 entry
+  (THEORY-205) is formal. All four score-2 entries are measurements or
+  arguments, and so were the four labelled false flags. The 'relation'
+  signal fired on definitions and estimator formulas. Raise the threshold
+  to 3, or require 'relation' together with 'derived' or 'cites'.
+- Batch 020's title sort got 5 of 5 again. Measurements flagged formal
+  still promote under v3 (THEORY-275, -365), so the score-2 band is worth
+  reviewing as v3 work, not as re-derivation work.
+- IB titles saying "first transition": the linear-stability point is β =
+  1/ρ_m², the squared top singular value of the normalised channel. The
+  point where the trivial encoder stops being optimal is 1/s*, the KL
+  contraction coefficient, and s* ≥ ρ_m², so that point can come much
+  earlier. They coincide in the symmetric Ising check (s*/ρ² = 0.999999)
+  and differ 27-fold on a skewed 3-state chain. Name the bifurcation.
+- The philosophical-title penalty's word list missed THEORY-162 ("is part
+  of its meaning"). Thesis-shaped titles about what meaning, content or
+  understanding "is" should count.
+- Checking a NOTE's quotations against the source's extracted text
+  (THEORY-365) is quick when the arXiv PDF is reachable, and it settles
+  batch 018's 'title rests only on results the text reports' directly.
+
+## 2026-10-19 — round 036-041 tally
+
+- Triage-006's formal route went 12 of 15 on entries 1-15 (batches
+  036-038), against 1 of 5 for its control (batch 039), where the one hit
+  was the only score-3 entry. Two control misses still promoted as
+  measurements under ADR-047 v3. Raise the formal threshold to 3, or
+  require `relation` with `derived` or `cites`; send score-2 entries to a
+  v3 review.
+- Batch 020's sort by what the title asserts got all five control entries
+  right again.
+- Wave 5 (batches 040-041): the six requeued arguments moved none of their
+  wave-3 verdicts except THEORY-073, which has a narrowing path that is
+  the owner's call. Before requeuing an argument, check git log for a
+  change to its promote_when, premises or rival.
+- THEORY-080: the exact half is the record's own synthesis; file it as a
+  demonstrated CLAIM (ADR-032) rather than promoting the THEORY.
