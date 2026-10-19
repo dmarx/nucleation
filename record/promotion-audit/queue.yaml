@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 27
+version: 28
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
@@ -185,7 +185,7 @@ candidates:
   disposition: split
   batch: batch-002
   decision: decisions/CLAIM-063.yaml
-  carried_out_in: PR pending (fork A)
+  carried_out_in: '#174'
 - code: CLAIM-313
   wave: 1
   score: 16
@@ -216,7 +216,7 @@ candidates:
   disposition: split
   batch: batch-002
   decision: decisions/CLAIM-037.yaml
-  carried_out_in: PR pending (fork A)
+  carried_out_in: '#174'
 - code: CLAIM-128
   wave: 1
   score: 15
@@ -262,7 +262,7 @@ candidates:
   disposition: promote
   batch: batch-003
   decision: decisions/CLAIM-268.yaml
-  carried_out_in: PR pending (fork B)
+  carried_out_in: '#173'
 - code: CLAIM-081
   wave: 1
   score: 14
@@ -294,7 +294,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-003
   decision: decisions/CLAIM-107.yaml
-  carried_out_in: PR pending (fork B)
+  carried_out_in: '#173'
 - code: CLAIM-188
   wave: 1
   score: 14
@@ -617,3 +617,6 @@ history:
   date: '2026-10-19'
   note: 'Batch 004 closed: CLAIM-269 split, CLAIM-322 promote (both after #165), CLAIM-056 needs-correction,
     CLAIM-090 and CLAIM-191 retain-proposed. Hand-off points to wave 2 next.'
+- version: 28
+  date: '2026-10-19'
+  note: 'carried_out_in: #173 (CLAIM-268, CLAIM-107) and #174 (CLAIM-063, CLAIM-037 splits).'
