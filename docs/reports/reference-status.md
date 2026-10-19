@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**509 documents cited without acknowledgement.** Not listed: 9938 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**509 documents cited without acknowledgement.** Not listed: 9940 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2265,7 +2265,7 @@ Local transport errors propagate through later reconstructions according to the 
 
 ### [CLAIM-105](../../record/claims.d/CLAIM-105.md) — Proposed
 
-Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
+In documented reconstruction chains, steps that keep most local judgements commonly change their global compatibility: translation preserves local meanings while changing the global structure of meaning
 
 5 citations in 2 files await a look; 48 other citations of it are acknowledged.
 
@@ -2647,7 +2647,7 @@ A multi-session argument's thesis can move without any participant arguing for t
 
 Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible
 
-4 citations in 4 files await a look; 24 other citations of it are acknowledged.
+4 citations in 4 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-350.md:116`](../../record/claims.d/CLAIM-350.md)
 - [`record/literature.d/LIT-1055.md:81`](../../record/literature.d/LIT-1055.md)
@@ -3069,7 +3069,7 @@ Affective states can be properties of organized systems, characterized functiona
 
 ### [CLAIM-087](../../record/claims.d/CLAIM-087.md) — Proposed
 
-Cross-modal reconstruction can improve a receiver's access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do
+Cross-modal reconstruction often improves a receiver's access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do
 
 3 citations in 1 file await a look; 26 other citations of it are acknowledged.
 
