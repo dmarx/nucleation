@@ -23,7 +23,6 @@ summary: >-
   subspace. Necessity of k log(N/k) is recalled from Gelfand widths, not
   derived from concentration, and constants are implicit.
 ---
-<!-- inactive-ok-file: THEORY-391 — Proposed; the ℓ₁ transition account, named for what it adds beside this one -->
 
 # THEORY-390: Any distribution of n × N matrices whose norms concentrate as Johnson–Lindenstrauss proofs require gives the restricted isometry property of order k with probability at least 1 − 2e^{−c₂n} for k ≤ c₁n/log(N/k), by a union bound over (12/δ)^k net points on each of the (eN/k)^k sparse supports; this makes k log(N/k) measurements sufficient for Gaussian, ±1 and sparse three-valued matrices, and does not show they are necessary
 

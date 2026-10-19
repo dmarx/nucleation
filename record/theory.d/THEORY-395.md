@@ -31,7 +31,6 @@ summary: >-
 extended_by:
 - THEORY-399
 ---
-<!-- inactive-ok-file: THEORY-391 — Proposed; the ℓ₁ transition account, named for what it adds beside this one -->
 
 # THEORY-395: For ε between about lg^0.5001 n/√min{n, d} and 1, some n-point set in ℝ^d needs Ω(ε⁻² lg(ε²n)) dimensions under any map, linear or not, that keeps its pairwise squared distances within 1 ± ε, so a random projection with a union bound is optimal up to a constant for the worst set; nearly orthogonal sets can need fewer, and the bound says nothing about typical data
 
