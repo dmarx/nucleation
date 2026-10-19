@@ -1194,3 +1194,10 @@ history note. THEORY-277 is requeued on this basis.
   App. C, the common-nonsense upper and lower bounds. Once that is done,
   narrow the title to the stylised models and promote, moving the
   promote_when to a QUESTION.
+
+## 2026-10-19 — lint trap: codes in titles
+
+- Never put a bare code in a `title:`. `luria repair` links it in the body
+  heading but not in the front matter, so `title:` and the heading
+  disagree and lint fails (#230: THEORY-278, two new QUESTIONs). Name the
+  source by its authors instead.
