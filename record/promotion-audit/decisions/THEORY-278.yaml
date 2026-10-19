@@ -1,0 +1,103 @@
+# record/promotion-audit/decisions/THEORY-278.yaml
+id: THEORY-278
+batch: batch-038
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    Both halves, each narrowed. The measured half goes under ADR-047 v3 and
+    the derived half is re-derived under ADR-047 v2. The promote_when asks
+    for something the title does not claim: that ordinary training follows
+    the continually renormalized flow, or a derivation without
+    renormalization or with weight decay. The title restricts itself to
+    "unconstrained features continually renormalized", and the body's
+    first "does not say" disclaims the rest. That request, and the
+    refutation clause about untested settings, move to a QUESTION.
+
+    The measured half (v3). LIT-974 reports, in the text, that L⊥_LS
+    "becomes negligible compared to" L_LS "starting from an early epoch in
+    training and persists into TPT" (§2, Figure 2). That covers VGG, ResNet
+    and DenseNet on MNIST, FashionMNIST, SVHN, CIFAR10 and STL10: 15 cells,
+    balanced ten-class data, LIT-618's protocol with weight decay, one run
+    per cell. NOTE-783 read the paper in full. Nothing in the record
+    contradicts it. The title's "a trained classifier stays near" generalises
+    past that, to any trained classifier, so it is narrowed to those
+    cells, with the authors' "negligible" kept as their word. The figure
+    itself was read from its caption and text, and no number is claimed.
+
+    The derived half, re-derived from LIT-974 App. D (arXiv:2106.02073v4,
+    pp. 25–31). Unconstrained features, balanced classes, C classes with N
+    samples each, λ = 0, zero global mean (A2). The features are kept on the
+    manifold X C Xᵀ = I_C, where C is the class-centring matrix
+    (1/CN)(I − YᵀY/N), and the flow is the gradient flow projected onto its
+    tangent space (Eq. 5, Lemma 2).
+      (a) Aligned coordinates (Def. 3–5). Take the SVD SNR = UΩVᵀ, with Ω
+          diagonal with ω_1..ω_{C−1} and one zero, and change basis so that
+          Ω(X) = (1/N) X Yᵀ. Then ω_j = (1/N) x_jᵀ y_j, where x_j and y_j are the
+          j-th rows of X and of the label-indicator matrix Y.
+      (b) The loss (Lemma 1). Each direction contributes
+          (1/C)(ω²/(ω²+C) − 1)² + ω²/(C+ω²)² = C/(ω²+C)² + ω²/(ω²+C)²
+          = 1/(ω²+C). So L = ½ Σ_j 1/(ω_j² + C), and
+          ∂L/∂ω_j = −ω_j/(ω_j² + C)².
+      (c) The row flow (Lemmas 3–4). The projected differential of ω_j
+          involves only x_j: dω_j(Π(dX)) = ((1/N) y_jᵀ − ω_j x_jᵀ C) dx_j.
+          So d x_j/dt = (ω_j/(C+ω_j²)²)((1/N) y_j − ω_j C x_j).
+      (d) The singular-value flow (Lemma 5). Note Y y_j = N e_j, so
+          C y_j = (1/CN)(y_j − Yᵀ e_j) = 0. Then
+          dω_j/dt = (1/N) y_jᵀ dx_j/dt = (ω_j/(C+ω_j²)²)(y_jᵀy_j/N² − 0)
+          = (1/N) ω_j/(C+ω_j²)², since y_jᵀ y_j = N.
+      (e) The singular vectors stay fixed. The (j,k) entry of dΩ/dt is
+          (1/N)(dx_j/dt)ᵀ y_k ∝ (1/N) y_jᵀ y_k − ω_j x_jᵀ C y_k = δ_jk. So
+          dΩ/dt is diagonal, Ω stays diagonal in the same basis, and U, V
+          are their values at entry to the path. That is Corollary 2's
+          limiting direction, set at entry.
+      (f) Integration (Proposition 2). Separate the variables:
+          (C+ω²)²/ω dω = dt/N. Integrating C²/ω + 2Cω + ω³ gives
+          C²N log ω + CN ω² + (N/4) ω⁴ = a_j + t. These are the body's
+          constants, c₁ = C²N, c₂ = CN and c₃ = N/4.
+      (g) Limits (Corollary 1). For ω_j(0) > 0, dω_j/dt > 0. If ω_j stayed
+          bounded, the left side of (f) would stay bounded while the right
+          side grows, so ω_j → ∞. Then the ω⁴ term dominates, so
+          (N/4)ω_j⁴/t → 1, that is ω_j/(4t/N)^{1/4} → 1 for every j, and
+          max ω_j / min ω_j → 1, since C − 1 is finite.
+      (h) Collapse (Corollary 2). With Σ_W = I fixed by renormalization, the
+          between-class scatter grows like ω², so Σ_B†Σ_W → 0 (NC1). The
+          whitened, zero-mean class means tend to a multiple of U₀V₀ᵀ, with
+          V₀ spanning 1^⊥. Their Gram matrix tends to a multiple of
+          I − 11ᵀ/C, a simplex ETF (NC2). NC3 and NC4 follow on the central
+          path by LIT-618's Theorem 1, which is cited and not re-derived.
+  excluded: >-
+    (1) Any claim that networks train by the renormalized flow, which is
+    assumption (A3), imposed and not measured. (2) Weight decay (λ > 0) and
+    cross-entropy. (3) Proximity to the central path outside LIT-974's 15
+    cells (augmentation, many classes, imbalance). That is the
+    promote_when's second refuter, which moves to the QUESTION with the
+    rest. (4) Reaching collapse, which is a t^{1/4} limit with Σ_W full
+    rank.
+evidence:
+  - "NOTE-783 version 1: LIT-974 read in full (v4, ICLR 2022), including Appendices B–D with the proofs of Theorems 1–2, Proposition 2, Corollaries 1–2 and Lemmas 1, 3–5 and 7. Proofs followed, constants checked against the -layout text, figures read from captions. Claims table: C2 strong, C3 moderate (measured, 15 cells), C5 strong for that model, C6 weak."
+  - "arXiv:2106.02073v4, §2 (the 'early epoch' sentence) and App. D.2–D.5, re-read for this decision."
+  - "Citers: QUESTION-051 (answered by it). Inactive-ok directives naming THEORY-278 are in LIT-974, LIT-978, LIT-985, NOTE-762, NOTE-764, NOTE-774, NOTE-783, QUESTION-051, QUESTION-080, THEORY-083, THEORY-246, THEORY-286 and THEORY-294."
+blockers: []
+notes: >-
+  Batch 020's sort found a compound title: a measurement and a theorem.
+  Each half takes its own route (v3 and v2), as THEORY-306's two parts did
+  in batch 033. Triage-006 flagged it formal (score 3: title, cites,
+  relation), which caught the theorem half only. Confidence is medium
+  because the measured half rests on the authors' visual reading of
+  Figure 2, which the record holds only through text and caption.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR. Retitle along the lines of: "Under MSE loss, in
+  LIT-974's VGG, ResNet and DenseNet runs on five balanced ten-class
+  datasets, the trained classifier stays near the least-squares classifier
+  for its own features from an early epoch; and on that central path, for
+  unconstrained features continually renormalized to identity within-class
+  covariance and without weight decay, gradient flow drives the
+  class-separation singular values to infinity at equal rates, which in
+  that model is neural collapse". Status Active, version 2, with a history
+  note citing this decision. Move the promote_when to a new QUESTION. Trim
+  the inactive-ok entries naming THEORY-278 in the thirteen files listed.

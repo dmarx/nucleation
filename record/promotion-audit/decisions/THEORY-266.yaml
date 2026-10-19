@@ -1,0 +1,100 @@
+# record/promotion-audit/decisions/THEORY-266.yaml
+id: THEORY-266
+batch: batch-038
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    Theorem 7 of LIT-233, with its hypotheses written into the title. The
+    promote_when is mis-targeted, as THEORY-014's was. It asks for an
+    evaluation that would settle whether the trajectory's compressibility
+    given the sample accounts for generalisation, and says itself that
+    "the theorem itself is refuted only by a counterexample to it". The
+    title states only the theorem, and the body's first "does not say"
+    disclaims the explanatory reading. The request moves unchanged to a
+    QUESTION. The theorem is judged on its proof. NOTE-806 followed every
+    proof in Appendix E step by step, and its E-H (Theorem 7) is re-checked
+    here from the arXiv v3 text (arXiv:2303.05369v3, pp. 24–26).
+
+    Re-check of E-H, given Theorem 4, the variable-rate change-of-measure
+    framework that THEORY-263 holds. Take f(s, w^T) = gen(s, w^T)², with
+    gen averaged over the window, and Δ(s, π) = (RD(s, ε; π) +
+    log(√(2n)M/δ))/(2n − 1) + 4Lε. Theorem 4 then needs, for each ν_S in the
+    set where the bound fails, a compressed Ŵ^T whose distortion in f is at
+    most 4Lε, and a bound on the Donsker–Varadhan expression by log δ.
+      (a) Fix, for each s, a kernel p(ŵ^T | w^T, s) with average
+          distortion E ρ(W^T, Ŵ^T) ≤ ε. Let Q be the induced joint law under
+          ν_S π_S p. Define Q̃ by replacing p with Q(ŵ^T | w^T), so that
+          S − W^T − Ŵ^T is a Markov chain under Q̃ and (W^T, Ŵ^T) has the same
+          marginal under Q and Q̃.
+      (b) The distortion in f. |gen(s,w^T)² − gen(s,ŵ^T)²|
+          ≤ 2|gen(s,w^T) − gen(s,ŵ^T)|, because gen lies in [−1, 1] for a
+          loss in [0, 1]. Population and empirical risk are each
+          L-Lipschitz in ρ, so |gen(s,w) − gen(s,ŵ)| ≤ 2Lρ(w,ŵ), and
+          averaging over the window keeps this. The total is 4L·E ρ, which
+          is at most 4Lε by (a) and the shared marginal.
+      (c) The exponential moment. For fixed ŵ^T, gen(S, ŵ^T) is a centred
+          mean of n i.i.d. terms in [0, 1], so it is 1/(2√n)-subgaussian. At
+          λ = 2n − 1, E e^{λ gen²} ≤ (1 − 2λ/(4n))^{−1/2} = √(2n). This
+          gives the log √(2n) term.
+      (d) The information term. I_Q̃(S; Ŵ^T) ≤ I_Q̃(W^T; Ŵ^T) by data
+          processing under the Markov chain of (a). This equals
+          I_Q(W^T; Ŵ^T) by the shared marginal, which is at most
+          I_Q(W^T; S, Ŵ^T) = I_Q(W^T; Ŵ^T | S) + I_Q(W^T; S) by the chain
+          rule. The infimum of the first term over the per-s kernels is
+          E_ν RD(s, ε; π_s), the data-dependent rate.
+      (e) The coupling. I_Q(W^T; S) = E_ν E_π log dπ_S/d[π_S ν_S]_{W^T}. Since
+          ν_S lies in the KL ball G^δ_S, this is at most E_ν log M(S), with
+          M as defined in the theorem.
+      (f) Substituting Δ, the terms −E_ν RD and −log M cancel (d) and (e),
+          and −log √(2n) cancels (c), leaving log δ. That is Theorem 4's
+          condition, so with probability ≥ 1 − δ,
+          E_{π_S} gen(S, W^T)² ≤ Δ(S, π_S). Jensen then gives
+          E_{π_S} gen(S, W^T) ≤ √Δ, which is the stated bound, with 4Lε
+          under the root.
+    This confirms the body's reading. The trajectory's information about
+    the sample enters only through M (step e), and RD is a rate given the
+    sample (step d).
+
+    The narrowing. The title drops the theorem's hypotheses (a loss in
+    [0, 1], L-Lipschitz in a distortion ρ), its form (a high-probability
+    bound, under a square root) and its third term (4Lε). It should name
+    them, so that "bounded by … plus a coupling term" is not read as an
+    unconditional two-term bound.
+  excluded: >-
+    (1) Theorem 4 itself (THEORY-263's framework). Its proof was followed in
+    NOTE-806 and is not re-derived here. THEORY-263 is under review in its
+    own batch. If that review finds a defect in Theorem 4's proof, this
+    promotion should be revisited. (2) Whether the bound is informative for
+    trained networks, which is the promote_when's request, moved to a
+    QUESTION. (3) The rate-distortion-dimension link, which is stated
+    through cited work. (4) The final model as opposed to the window
+    average.
+evidence:
+  - "NOTE-806 version 1: LIT-233 read in full from arXiv v3, with pages rendered to check where square roots end; every proof in Appendix E (E-A to E-K) followed step by step. Claims table C5 moderate ('Theorem 7, proved; M depends on μ and is not estimated')."
+  - "arXiv:2303.05369v3, Theorem 7 (p. 10) and Appendix E-H (pp. 24–26), re-read for this decision."
+  - "Citers: none in grounds or relations. Inactive-ok directives naming THEORY-266 are in LIT-233, THEORY-028 and THEORY-263."
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem. Triage-006 agreed (formal score 3: cites,
+  relation, derived). C5's "moderate" in NOTE-806 rates the theorem's use,
+  since M is not estimated, not its proof. Confidence is medium because the
+  promotion rests on Theorem 4, which is Proposed in the record as
+  THEORY-263's framework. That is not a status dependency, since
+  THEORY-266 neither grounds on nor answers to THEORY-263, but it is a
+  logical one.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR. Retitle to name the hypotheses and the third term,
+  for example: "For a loss in [0, 1] that is L-Lipschitz in a distortion,
+  with probability at least 1 − δ the average generalisation error along
+  an optimisation trajectory is bounded, under a square root, by the
+  rate-distortion function of the trajectory's law given the sample, a
+  coupling term that carries the trajectory's dependence on the sample,
+  and a distortion term 4Lε". Status Active, version 2, with a history note
+  citing this re-check. Move the promote_when to a new QUESTION. Trim the
+  inactive-ok entries naming THEORY-266 in LIT-233, THEORY-028 and
+  THEORY-263.

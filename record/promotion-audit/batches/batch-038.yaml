@@ -1,0 +1,105 @@
+# record/promotion-audit/batches/batch-038.yaml
+batch: batch-038
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+selection: >-
+  Triage-006's formal_route, entries 11–15 in the order handed down:
+  THEORY-197, THEORY-238, THEORY-266, THEORY-270, THEORY-278. Batch 020's
+  sort rule was applied first: a theorem goes to re-derivation (ADR-047
+  v2), a measurement read in full goes to v3, and an argument is retained
+  for wave 5. All five are THEORYs, so the warrant rule (ADR-043 v2) does not
+  apply. Three sources were re-read from arXiv for the checks: LIT-245
+  (2402.03254v1), LIT-233 (2303.05369v3) and LIT-974 (2106.02073v4).
+reviewed: [THEORY-197, THEORY-238, THEORY-266, THEORY-270, THEORY-278]
+sort:
+  THEORY-197: theorem (an identity and a non-implication), re-derivation route
+  THEORY-238: theorem (Theorem 4 of LIT-245), re-derivation route
+  THEORY-266: theorem (Theorem 7 of LIT-233), re-derivation route; promote_when mis-targeted at an empirical question
+  THEORY-270: theorem inside stylised models the title does not name; re-derivation route, too long for this batch
+  THEORY-278: compound, a measurement (v3) and a theorem in an imposed model (v2)
+outcomes:
+  promote: [THEORY-197]
+  narrow-and-promote: [THEORY-238, THEORY-266, THEORY-278]
+  retain-proposed: [THEORY-270]
+yield: 4 of 5 found a promotion path (THEORY-197 promote; THEORY-238, -266, -278 narrow-and-promote)
+rubric_vs_outcome:
+  # triage-006 components: formal_score and signals, plus triage-005's rubric
+  - code: THEORY-197
+    score: 5
+    formal: 3 (title, relation, derived)
+    outcome: promote
+    mattered: >-
+      Sources added after the promote_when was written already met it
+      (versions 2 and 3 of the entry). Grep an entry's history for sources
+      that "join the sources" before treating a request for a second
+      derivation as unmet.
+  - code: THEORY-238
+    score: 5
+    formal: 3 (title, cites, relation)
+    outcome: narrow-and-promote
+    mattered: >-
+      A NOTE-flagged "inconsistency in the constants" that was a rescaled
+      application of a lemma. Cheap to settle once the proof text is in
+      hand.
+  - code: THEORY-266
+    score: 5
+    formal: 3 (cites, relation, derived)
+    outcome: narrow-and-promote
+    mattered: >-
+      The promote_when asked an empirical question the title does not
+      claim (THEORY-014's pattern). The narrowing only restores hypotheses
+      the title dropped.
+  - code: THEORY-270
+    score: 5
+    formal: 3 (cites, relation, derived)
+    outcome: retain-proposed
+    mattered: >-
+      The NOTE's history says the long proofs were read only in outline.
+      The formal flag cannot see that. Depth 2 counts a full reading of
+      the paper, not of its proofs.
+  - code: THEORY-278
+    score: 5
+    formal: 3 (title, cites, relation)
+    outcome: narrow-and-promote
+    mattered: >-
+      A compound title. The flag caught the theorem half, and v3 handled
+      the measured half once it was narrowed to the cells measured.
+promotion_prs:
+  - "#230: THEORY-238, THEORY-266 and THEORY-278 narrowed and promoted; QUESTION-tmpc9vuq, -tmphiinp and -tmpu84bn filed (branch claude/promote-theories-238-266-278)."
+  - "#234: THEORY-197 promoted (branch claude/promote-theory-197)."
+notes_for_ledger:
+  - >-
+    Triage-006's formal route went 4 of 5 on its entries 11–15, all at score
+    3. The miss (THEORY-270) was a theorem whose long proofs the NOTE read
+    only in outline. Read a NOTE's history line for "overviews" or "not
+    checked line by line" before routing a theorem to a one-batch
+    re-derivation.
+  - >-
+    A flagged constant inconsistency can be a rescaling. THEORY-238's proof
+    applies Lemma 3 at λ/2, so "λ/n < 1.36" in the proof and "λ/n < 0.68"
+    in the lemma agree. Check the argument the lemma is applied at before
+    calling the constants wrong.
+  - >-
+    Check whether a promote_when was met by sources added later.
+    THEORY-197's promote_when asked for a second derivation, and versions 2
+    and 3 had already added two sources (LIT-887, LIT-891) that give it.
+    Neither version note said the condition was met.
+  - >-
+    THEORY-266's promotion rests on Theorem 4 of LIT-233, which is
+    THEORY-263's framework and was reviewed elsewhere in this round. If
+    that review finds a defect in Theorem 4's proof, revisit THEORY-266.
+    #230 also trims THEORY-266's and THEORY-238's names from THEORY-263's
+    inactive-ok directives, so expect a directive-line conflict if a
+    THEORY-263 PR touches the same lines.
+  - >-
+    Numerical side conditions are worth one script. Lemma 3's second
+    inequality is stated by the paper for x < 1.3, but the lemma needs it to
+    1.36. It holds there, by 0.0025.
+  - >-
+    THEORY-270 should be requeued for a dedicated re-derivation of LIT-941
+    App. C, the common-nonsense upper and lower bounds. Once that is done,
+    narrow the title to the stylised models and promote, moving the
+    promote_when to a QUESTION.
+owner_questions: []
