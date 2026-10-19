@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**514 documents cited without acknowledgement.** Not listed: 10131 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**514 documents cited without acknowledgement.** Not listed: 10132 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -724,7 +724,7 @@ A judgement–observation loop cut off from action loses one route for evidence 
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-27 citations in 23 files await a look; 58 other citations of it are acknowledged.
+27 citations in 23 files await a look; 59 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:213`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -2152,6 +2152,19 @@ Minimal agency requires individuality, interactional asymmetry and self-generate
 - [`record/questions.d/QUESTION-032.md:86`](../../record/questions.d/QUESTION-032.md)
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:78`](../../record/questions.d/QUESTION-128.md)
+
+### [THEORY-084](../../record/theory.d/THEORY-084.md) — Proposed
+
+Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks
+
+6 citations in 1 file await a look; 14 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-164.md:26`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:28`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:97`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:99`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:101`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:109`](../../record/claims.d/CLAIM-164.md)
 
 ### [THEORY-108](../../record/theory.d/THEORY-108.md) — Proposed
 
@@ -5719,15 +5732,7 @@ The top C eigenvalues of a trained C-class classifier's Fisher are carried by th
 
 1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-164.md:86`](../../record/claims.d/CLAIM-164.md)
-
-### [THEORY-084](../../record/theory.d/THEORY-084.md) — Proposed
-
-Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks
-
-1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-164.md:86`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:97`](../../record/claims.d/CLAIM-164.md)
 
 ### [THEORY-092](../../record/theory.d/THEORY-092.md) — Proposed
 
@@ -6080,7 +6085,6 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
-- record/claims.d/CLAIM-107.md:52: annotation no longer applies — THEORY-158 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-993.md:51: annotation no longer applies — nothing in scope cites THEORY-239
