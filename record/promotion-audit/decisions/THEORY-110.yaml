@@ -1,0 +1,58 @@
+# record/promotion-audit/decisions/THEORY-110.yaml
+id: THEORY-110
+batch: batch-037
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    What was measured, and is already stated in the body. After weight
+    matching, Sonthalia et al.'s trained centre has training-loss barriers to
+    held-out solutions 2–5 times lower than the barriers between held-out
+    solutions, on four architecture–dataset pairs (Table 1), and the gap
+    holds for 3, 5 and 15 held-out solutions (Table 5). Lin et al. prove
+    star-shaped linear connectivity for wide two-layer ReLU teacher–student
+    networks and for deep linear networks (Theorems 10, 11, 18), and find
+    low-barrier centres for five fitted minima with no alignment and no
+    held-out test.
+  excluded: >-
+    The title's claim, that the solution set has a centre linearly connected
+    to the rest, is not what was measured. The measured barriers are reduced,
+    not zero, and the authors say they are "often significantly greater than
+    zero". On DenseNet, CIFAR-100 and ImageNet the centre's own training loss
+    is well above a regular solution's, so the centre is doubtfully in the
+    set. Narrowing under ADR-047 v3 to "a trained centre lowers held-out
+    barriers 2–5 times but not to zero" would not be a narrowing of this
+    title: it would replace the thesis with the evidence that falls short of
+    it. The toy-model theorems are real proofs, but of a different statement
+    (wide teacher–student and linear networks, no permutations), and re-deriving
+    them would not meet the promote_when, which asks for a non-linear deep
+    network modulo permutation, or for held-out barriers followed to zero.
+evidence:
+  - "NOTE-533 version 1: main text and Appendices A, B, C and E read in full; Tables 1–6 read; Appendix D figures from captions. The barriers quoted in the THEORY match Table 1."
+  - "NOTE-535 version 1: Sections 1–6 and A.1–A.2 read in full; the other proofs read for statement and structure, not checked. So the record does not hold checked proofs of Theorems 10, 11 or 18."
+  - "The star barrier was still falling at 50 source models (Fig. 1). That is the promote_when's open test, not a result."
+blockers:
+  - "The promote_when's first route needs held-out barriers followed as source models grow, in a network too thin for pairwise connectivity. The record holds no such study."
+  - "Its second route needs a proof of star-shaped connectivity modulo permutation for a non-linear deep network. Neither source gives one."
+notes: >-
+  Batch 020's sort rule: the title states a structural claim about trained
+  solution sets, and its evidence is measurement that falls short of it plus
+  theorems about other models. It is a measurement-backed conjecture, not a
+  theorem, so neither ADR-047 v2 nor v3 applies. Triage-006 flagged it
+  formal (cites Theorems, relations, derived), because the body cites Lin et
+  al.'s theorems. That is a false flag of a kind worth naming: theorems
+  about toy models cited in the body of an empirical conjecture. A split
+  in the manner of THEORY-109 (batch 030) is possible. The Lin et al.
+  theorems for wide two-layer and deep linear networks could stand as their
+  own THEORY, with this one keeping the conjecture. It is not done here,
+  because NOTE-535 did not check those proofs and the split would need a
+  re-derivation first. The anthology-candidate flag stands: loss landscapes
+  are the anthology's ground.
+unlocks: []
+next_action: >-
+  Keep Proposed in wave 3. Requeue only when a study follows held-out
+  barriers to their limit, or when the record has checked Lin et al.'s
+  Theorems 10, 11 and 18 and a split is wanted.

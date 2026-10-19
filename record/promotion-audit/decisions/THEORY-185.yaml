@@ -1,0 +1,111 @@
+# record/promotion-audit/decisions/THEORY-185.yaml
+id: THEORY-185
+batch: batch-037
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The title is conditional ("When each binary attribute … affects its
+    co-occurrence independently and multiplicatively"). It states a theorem
+    about a generative model, not a finding about real text. Korchinski et
+    al.'s Theorem, Eq. 12 and Results 1–3, read in NOTE-665 (where Eq. 12
+    and A5 were followed step by step), are re-derived here (ADR-047 v2).
+
+    Setting. Word i is α_i ∈ {−1, +1}^d and
+    P(i, j) = P(i)P(j) ∏_k P^(k)(α_i^k, α_j^k), with each P^(k) a symmetric
+    positive 2 × 2 table. The ratio is M_ij = ∏_k P^(k)(α_i^k, α_j^k) and the
+    PMI is log M.
+
+    The PMI.
+      (1) Any function on {±1}² is c0 + c1 a + c2 b + c3 ab: the four
+          functions 1, a, b, ab are a basis. P^(k) is symmetric, so
+          c1 = c2. Write log P^(k)(a, b) = δ_k + η_k(a + b) + γ_k ab.
+      (2) Summing over k, log M_ij = δ + ηᵀα_i + ηᵀα_j + α_iᵀ D α_j, with
+          δ = Σδ_k and D = diag(γ_k). As matrices that is
+          log M = δ11ᵀ + Aη1ᵀ + 1ηᵀAᵀ + ADAᵀ, where A has rows α_i (Eq. 12).
+          This holds entrywise, for any set of words, all 2^d or not.
+      (3) Every term's columns lie in span{1, columns of A}. So the rank is
+          at most d + 1 (Result 1). log M is symmetric, so each eigenvector
+          with a non-zero eigenvalue lies in its column space: v(i) = a0 +
+          aᵀα_i, affine in the attributes (Result 2).
+      (4) A spectral embedding keeps eigenvectors with non-zero (in
+          practice positive) eigenvalues, scaled: W_i = Σ_S √λ_S v_S(i) u_S.
+          Each coordinate is affine in α_i, so W_i = c + Bα_i. If α_D =
+          α_A − α_B + α_C, then W_A − W_B + W_C = c + B(α_A − α_B + α_C) = W_D.
+          This holds for every strength and every truncation K that keeps
+          only non-zero modes (Result 3).
+    The raw ratio, over the full hypercube of words.
+      (5) With all 2^d words in lexicographic order, M = ⊗_k P^(k). The
+          eigenvectors of a Kronecker product are products of the factors'
+          eigenvectors, and its eigenvalues are products of theirs (the
+          paper's Theorem).
+      (6) Take the balanced case, q_k = 1 (each attribute's two values
+          equally frequent). Then P^(k) = [[1 + s_k, 1 − s_k], [1 − s_k, 1 + s_k]]
+          has eigenvalues 2 on (1, 1) and 2s_k on (1, −1). As functions on
+          {±1}, these are the constant and α^k (NOTE-665). The mode of M that
+          takes (1, −1) from the factors in a set S has eigenfunction
+          ∏_{k∈S} α^k and eigenvalue 2^d ∏_{k∈S} s_k. For |S| = 0 it is the
+          constant, for |S| = 1 an attribute, and for |S| ≥ 2 a product of
+          attributes, which is not affine. Without balance, the factors'
+          top eigenvectors are not constant. Then even the top mode of M is
+          a product of non-constant affine functions, so no truncation is
+          affine. The M clause therefore needs balance, and the paper's §5
+          and its simulations assume it.
+      (7) In the balanced case, an embedding of M with K ≤ d + 1 modes is
+          affine in α, and so gives parallelograms exactly, iff every kept
+          mode has |S| ≤ 1. The d attribute modes outrank every product mode
+          iff min_k s_k > s_(1) s_(2), the product of the two largest
+          strengths. Higher products are smaller still. If this fails, a
+          product mode enters before some attribute mode, and the
+          parallelogram breaks. So M keeps exact analogies only when the
+          strengths are alike enough that every attribute mode outranks
+          every product mode.
+  excluded: >-
+    (1) "keeps them only when the signals are weak and alike". Step (7)
+    shows the exact condition is min s > s_(1) s_(2). Equal strengths
+    satisfy it at any strength below 1, since s > s². So weakness is not
+    necessary: alike is what matters, measured against the strengths' own
+    size. The paper's "small and narrowly spread" is a first-order
+    sufficient regime (NOTE-665, assumptions). The narrowed title states
+    the condition. (2) The Kronecker clause needs the vocabulary to be the
+    full hypercube, and the clean eigenvectors need balance (q_k = 1, step
+    (6)). A pruned vocabulary keeps the spectrum only
+    approximately (§8, simulated). The PMI clauses need no such condition,
+    and the narrowed title confines the M clause to the full, balanced
+    hypercube.
+    (3) The promote_when asks for a measurement of the premise on real
+    text, or an intervention adding an attribute interaction. The title is
+    conditional on the premise and claims nothing about real text, so that
+    request is outside it. It moves unchanged to a new QUESTION. The body's
+    "Not that language is made of independent binary attributes" already
+    says the premise is untested. (4) The robustness results are argued
+    from eigenvalue bounds with no eigenvector bound, and the title does
+    not claim them.
+evidence:
+  - "NOTE-665 version 1: read in full from arXiv v2. The Theorem's proof (A1) is a clean induction. Eq. 12 and A5 were followed step by step. Claims table C2 is strong (an elementary proof) and C3 moderate (first-order expansion plus simulations)."
+  - "NOTE-665's own check: at q_k = 1 the PMI's constant mode is negative, so a WᵀW factorisation keeps the d attribute modes. Step (4) covers this, because those are still affine."
+  - "Citers: CLAIM-082 (supports), CLAIM-119, QUESTION-025, the THEORYs on word geometry (-188, -189, -195, -196, -269, -271, -292, -566, -698) and many NOTEs and LITs cite it with inactive-ok directives. None relies on the M clause beyond what the narrowed title keeps."
+  - "Nothing in the record contradicts the conditional theorem. THEORY-271 is a rival for a different generative premise (additive mixtures), and its body says the two can both be right."
+blockers: []
+notes: >-
+  Batch 020's sort rule: a conditional theorem, so it takes the
+  re-derivation route, as wave 2 treated conditional theorems. Triage-006
+  ranked it 10th on the formal route, and that held. The promote_when asked
+  for the premise to be measured. Under ADR-047 that clause sits outside a
+  conditional title, the same move as THEORY-324's wider form (batch 032).
+  An owner who reads the promote_when as meant to hold the theorem until
+  the premise is tested could overrule this. Confidence is medium for that
+  reason only. The mathematics is elementary.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR. Retitle the M clause to "over the full hypercube
+  of words, each attribute's two values equally frequent, the raw
+  co-occurrence ratio mixes in products of attributes, and
+  keeps exact analogies only when the strengths are alike enough that
+  every attribute mode outranks every product mode". Keep the PMI clauses.
+  Add the re-derivation as a dated note. Move the promote_when (the
+  measurement or intervention on real text) to a new QUESTION. Trim the
+  inactive-ok entries naming THEORY-185.

@@ -1,0 +1,91 @@
+# record/promotion-audit/decisions/THEORY-319.yaml
+id: THEORY-319
+batch: batch-037
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    Tosh, Krishnamurthy and Hsu's Lemma 1, the change-of-measure identity of
+    §2.4, and Lemma 2 with Theorem 3, re-derived here step by step (ADR-047
+    v2). The promote_when asks for "an independent derivation … of Lemma 1
+    and Lemma 2 for a general joint law of two views", and this is one.
+
+    Setting. Views X and Z, which may lie in different spaces, with any
+    joint law, and a label Y with E[Y²] < ∞. Put η = E[Y|X,Z], a = E[Y|X],
+    b = E[Y|Z], εX = E[(a − η)²], εZ = E[(b − η)²] and µ(x) = E[b(Z) | X = x].
+    Norms are L²(P).
+
+    Lemma 1.
+      (1) By the tower rule, a = E[η | X], so µ − a = E[b(Z) − η | X].
+      (2) Conditional Jensen gives E[(µ − a)²] ≤ E[(b − η)²] = εZ.
+      (3) By Minkowski, ‖µ − η‖ ≤ ‖µ − a‖ + ‖a − η‖ ≤ √εZ + √εX.
+      (4) Squaring gives E[(µ − η)²] ≤ εX + 2√(εXεZ) + εZ.
+      Only finite second moments were used. There is no exchangeability, no
+      common space and no symmetry. The paper's AM/GM form is the same bound.
+    The density ratio (§2.3–2.4).
+      (5) For the logistic problem of telling a joint pair from an
+          independent pair, with equal priors, the Bayes posterior is
+          P(joint | x, z) = p(x,z)/(p(x,z) + p(x)p(z)) = g/(1 + g), with
+          g = g*(x,z) = p(x,z)/(p(x)p(z)). So the unrestricted logistic
+          minimiser has logit log g*, and g* does not depend on Y.
+      (6) µ(x) = ∫ b(z) p(z|x) dz = ∫ b(z) g*(x,z) p(z) dz. This is linear
+          in g*(x,·), with weights b(z)p(z).
+    Lemma 2 and Theorem 3.
+      (7) Draw landmarks Z_1, …, Z_n i.i.d. from p_Z, independent of X. Put
+          φ(x) = (g*(x,Z_i))_i and w = (b(Z_i)/n)_i. For each x,
+          wᵀφ(x) = (1/n) Σ b(Z_i)g*(x,Z_i), and by (6) its expectation over
+          the landmarks is µ(x).
+      (8) Average over X, writing Z̃ for a draw independent of X:
+          E_landmarks E_X[(wᵀφ(X) − µ(X))²] = (1/n) E_X var_Z̃(b(Z̃)g*(X,Z̃))
+          ≤ (1/n) var(b(Z̃)g*(X,Z̃)) =: V/n.
+          The step uses that the variance of a conditional mean is at most
+          the total variance (the paper's var).
+      (9) High probability. Split the m landmarks into
+          G = log₂(1/δ) groups of n = ⌊m/G⌋. By Markov, each group's average
+          has E_X error above 2V/n with probability at most ½. The groups
+          are independent, so all of them fail with probability at most
+          2^(−G) = δ. With probability 1 − δ, then, some w supported on one
+          group has E_X[(wᵀφ(X) − µ(X))²] ≤ 2V/⌊m/log₂(1/δ)⌋. That is
+          Lemma 2. With Lemma 1 and Minkowski it gives a linear predictor
+          within (√εµ + √(2V/n))² of η, where εµ is Lemma 1's bound. That
+          is Theorem 3's shape.
+      (10) The variance. For |Y| ≤ 1, |b| ≤ 1, so
+           V ≤ E[g*(X,Z̃)²] = ∫ p(x,z)²/(p(x)p(z)) = 1 + χ²(P_XZ ‖ P_X ⊗ P_Z).
+           The rate 1/m therefore needs that quantity finite, which is the
+           square-integrability of THEORY-005's kind. The identification with
+           χ² is the record's, and the step checks it.
+  excluded: >-
+    (1) The title's "within … of the Bayes predictor" is in mean squared
+    error, and the narrowed title says so. (2) The 1/m rate is for the
+    exact population ratio, for a bounded label, when E[g*²] is finite. The
+    title is narrowed to say so. (3) The promote_when's second half asks
+    whether the rate survives a learned ratio with bounded excess loss
+    under finite E[g*²] alone, without the uniform bound g_max that Theorems
+    10–11 assume. That is outside the narrowed title and moves unchanged to
+    a new QUESTION. (4) Anything about InfoNCE with many negatives, or
+    about low-dimensional embeddings. The body already excludes both.
+evidence:
+  - "NOTE-841 version 1: read in full from arXiv v2; Lemma 1 (App. A.1), §3 with Lemma 2 and Theorem 3 (App. A.2), Proposition 5, Lemma 6 and Theorems 10–11."
+  - "The re-derivation reproduces Lemma 1 exactly and Lemma 2's constant 2V/⌊m/log₂(1/δ)⌋ exactly, by the group-and-Markov argument."
+  - "Citers: QUESTION-052 cites it as a partial answer, and that holds with the narrowed title. Inactive-ok directives naming THEORY-319 are in NOTE-841 and LIT-251."
+  - "Nothing in the record contradicts it."
+blockers: []
+notes: >-
+  Batch 020's sort rule: a theorem, so it takes the re-derivation route.
+  Triage-006 ranked it 8th on the formal route, and that held. This is the
+  source's proof, re-checked, so it stays a THEORY (ADR-032 does not
+  apply).
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR. Retitle to "When two views are redundant for a
+  label, the predictor that infers one view from the other is within
+  εX + 2√(εXεZ) + εZ of the Bayes predictor in mean squared error, and it
+  is linear in the contrastive density ratio, so for a bounded label and a
+  square-integrable ratio a linear readout of m random evaluations of the
+  exact ratio approaches it at rate 1/m, with no symmetry between the views
+  required". Add the re-derivation as a dated note. Move the learned-ratio
+  clause of the promote_when to a new QUESTION. Trim the inactive-ok
+  entries in NOTE-841 and LIT-251.
