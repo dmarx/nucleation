@@ -12,7 +12,20 @@ promote_when: >-
   subsystem. A restatement in a survey does not count, and neither does
   a further example of the coarse-graining failure, which is already proved.
 title: 'In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-168.yaml, batch 005, ADR-047),
+    the proved part is filed apart as THEORY-tmpm565o, Active: coarse-graining
+    can turn a noncontextual CbD 2.0 system into a contextual one, and CbD 1.0
+    and 2.0 agree on two-variable connections and on consistently connected
+    systems. This THEORY extends it and keeps what is asserted or waiting on a
+    second proof: the disagreement of maximal and multimaximal couplings on
+    larger connections, and Theorem 4.6. The title, the promote_when and the
+    status are unchanged.
 tags:
 - contextuality
 - mathematics
@@ -21,6 +34,8 @@ source:
 - LIT-790
 - LIT-831
 - LIT-777
+extends:
+- THEORY-tmpm565o
 summary: >-
   Dzhafarov, Cervantes & Kujala (2017), [LIT-790](../literature.d/LIT-790.md), with Dzhafarov &
   Kujala's CbD 2.0 ([LIT-831](../literature.d/LIT-831.md)) and CbD 1.0 ([LIT-777](../literature.d/LIT-777.md)). The same
@@ -105,3 +120,12 @@ is. The proof shows instead that the maximal couplings of the 1- and
   them.
 - **Not a rule for choosing.** The papers suggest that intervals or cuts
   may be more natural for ordered values. They do not develop it.
+
+## Note of 2026-10-19: the proved part filed apart
+
+Item 2 above, the coarse-graining failure, and the agreement of CbD 1.0 and
+2.0 stated in item 1 are now [THEORY-tmpm565o](THEORY-tmpm565o.md), Active, sourced to [LIT-831](../literature.d/LIT-831.md).
+What keeps this THEORY Proposed is the rest of the title's first clause.
+[LIT-831](../literature.d/LIT-831.md) asserts that maximal and multimaximal couplings disagree on larger
+connections, with no worked example, and Theorem 4.6 is waiting on a second
+proof. The promote_when says what would settle both.
