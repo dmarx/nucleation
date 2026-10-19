@@ -1,0 +1,50 @@
+# record/promotion-audit/decisions/THEORY-283.yaml
+id: THEORY-283
+batch: batch-024
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    LIT-940's Theorems 3.2, 3.6 and 3.8 as stated, whose proofs NOTE-805
+    followed line by line (claims C1–C3 strong, C4 moderate), for the
+    estimators and the network they are proved for. Narrowed title: for a
+    hierarchical multi-index target with isotropic Gaussian inputs, even
+    separable links and weights a_k = Θ(k^(−γ)), in the proportional limit,
+    direction k becomes weakly recoverable by the Bayes-optimal estimator at
+    n = Θ(a_k^(−2) d); a target-agnostic spectral estimator attains the
+    thresholds and the optimal weighted error; and a two-layer network whose
+    first layer is that estimator, with a ridge readout fitted on fresh data,
+    attains them in excess risk. Features therefore emerge one at a time
+    through spectral transitions in the number of samples. A consistency
+    check of the rate, written here: with k_α ≍ α^(1/(2γ)) directions out,
+    the error is k_α·Θ(1/α) + Σ_{k>k_α} a_k². The first term is
+    Θ(α^(1/(2γ) − 1)); the second is Σ_{k>K} k^(−2γ) ≍ K^(1−2γ) =
+    Θ(α^((1−2γ)/(2γ))) = Θ(α^(1/(2γ) − 1)) for γ > 1/2. The two agree,
+    which is Eq. 12's Θ(α^(−1+1/(2γ))).
+  excluded: >-
+    The title's "for a two-layer network" read as a trained network. The
+    network theorem is for Algorithm 1 (spectral initialization, a data
+    split, a ridge readout), not gradient descent; the link to gradient
+    descent is Remark 3.5, cited. The promote_when asks for exactly that
+    (a gradient-descent proof without spectral initialization) or for a
+    second input law. Both lie outside the narrowed title, and move
+    unchanged to a new QUESTION.
+evidence:
+  - "NOTE-805 (Read in full): proofs of Theorems 3.2, 3.6, 3.8, Lemmas C.2, C.5 and Corollary C.4 followed line by line; the external theorems invoked (Kovačević et al. 2025; Barbier et al. 2019; Rudi and Rosasco 2017) taken as stated."
+  - "The rate-consistency check above."
+blockers: []
+notes: >-
+  The THEORY-014 shape: theorems proved in a work the record has read in
+  full, with a promote_when aimed at a stronger claim (a trained network).
+  Promotion rests on the reading, not on a re-derivation; the free-entropy
+  expansion behind the lower bound is not re-derived here. Confidence is
+  medium for that reason, and because the proofs rest on external theorems
+  taken as stated.
+unlocks: []
+next_action: >-
+  Narrow the title as in scope.accepted, set status Active, move the
+  promote_when to a new QUESTION (related to QUESTION-039), trim stale
+  inactive-ok directives naming THEORY-283.

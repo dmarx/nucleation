@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-182.yaml
+id: THEORY-182
+batch: batch-024
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The proved part, for the quartic proxy with tied weights, symmetric
+    reweighting and constant G_ij = c (LIT-855 Theorem 1 and Proposition 2,
+    proofs followed step by step in NOTE-660), re-derived here (ADR-047 v2).
+    (1) Minimisers. The objective is L(W) = (c/4)‖WWᵀ − M*‖²_F + const, a
+    function of the PSD matrix X = WWᵀ of rank ≤ d. With M* = Σ λ_i v_i v_iᵀ
+    (λ₁ ≥ λ₂ ≥ …) and X's eigenvalues μ₁ ≥ … ≥ μ_d ≥ 0 (μ_i = 0 for i > d):
+    ‖X − M*‖² = Σ μ_i² − 2 tr(XM*) + ‖M*‖², and by von Neumann's trace
+    inequality tr(XM*) ≤ Σ_{i≤d} μ_i λ_i, with equality when X shares M*'s
+    top eigenvectors. So ‖X − M*‖² ≥ ‖M*‖² + Σ_{i≤d} (μ_i² − 2μ_iλ_i), and
+    each term is minimised over μ_i ≥ 0 at μ_i = max(λ_i, 0). The minimum is
+    X = Σ_{i≤d} max(λ_i, 0) v_i v_iᵀ, unique when λ_d > λ_{d+1}, so
+    W = V_d Λ_d^{1/2} R for any orthogonal R when the top d eigenvalues are
+    positive. (2) Aligned dynamics. Gradient flow is
+    Ẇ = −∇L = −c(WWᵀ − M*)W. If W(0) = V_d S(0) with S diagonal, then
+    W(t) = V_d S(t) solves it with ṡ_k = c(λ_k − s_k²)s_k. For u_k = s_k²,
+    u̇_k = 2c u_k(λ_k − u_k), a logistic equation:
+    u_k(t) = λ_k / (1 + (λ_k/u_k(0) − 1) e^{−2cλ_k t}). It reaches λ_k/2 at
+    t_k = (1/(2cλ_k)) ln(λ_k/u_k(0) − 1) ≈ (1/(2cλ_k)) ln(λ_k/s_k(0)²), and
+    rises over a time O(1/(cλ_k)), so the modes arrive one at a time in
+    order of eigenvalue, each in a sigmoid, as the initial scale shrinks.
+    Both close. This is filed as a new Active THEORY.
+  excluded: >-
+    What THEORY-182 keeps, Proposed, with its promote_when unchanged: that
+    the same stepwise order holds from small random (not aligned)
+    initialisation, which LIT-855's Result 3 derives with couplings dropped
+    and does not prove; and that word2vec itself, with untied weights and
+    its own asymmetric negative sampling, behaves like the proxy, which is
+    an empirical match on one corpus.
+evidence:
+  - "NOTE-660 (Read in full): proofs of Theorem 1, Proposition 2 and Lemma 3.1 followed step by step; Result 3 followed, not re-derived."
+  - "The two re-derivations above (ADR-047 v2)."
+blockers: []
+notes: >-
+  A bundled title in the batch-005 shape: a proved proxy result joined to
+  an approximate derivation and an empirical carry-over. The promote_when
+  already aims at the parts that stay Proposed, so it moves with the parent
+  unchanged. Same mechanism as THEORY-186's split core (logistic per-mode
+  dynamics from a product parametrization).
+unlocks: []
+next_action: >-
+  Split: a new Active THEORY for the quartic proxy's minimisers and
+  aligned-initialisation dynamics, with the re-derivation as a dated note;
+  THEORY-182 extends it and stays Proposed.

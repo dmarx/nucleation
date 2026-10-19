@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/CLAIM-046.yaml
+id: CLAIM-046
+batch: batch-030
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    Both halves as stated. The first, "different hidden-state models can
+    produce identical observations", is the standard non-identifiability
+    of latent-state models: relabel or recombine the hidden states and
+    the observation process is unchanged. The second is a methodological
+    choice the line adopted and kept: define pragmatic identity and
+    fidelity on observable responses first, and admit an equivalence of
+    internal states only where it is identified. The record carries the
+    choice through A39 §3.3 and §4.4, the manuscript's §2–3, A73, and
+    A75's demotion of the latents after U28. Four claims rest on it
+    (CLAIM-142, CLAIM-206, CLAIM-247, CLAIM-253), so it is a root of the
+    pragmatic-transport line.
+  excluded: >-
+    That meaning is only behaviour (CLAIM-112), and that state
+    representations are useless (CLAIM-011). The body disclaims both.
+evidence:
+  - "No objection or counter is filed against CLAIM-046, and it rests on no claim."
+  - "Its defeat condition has not been met: no internal interpretive state in the record is shown to be identifiable from the responses used. The line's later latents (A73, A75) are explicitly identified from observations."
+  - "The owner's U27 request to characterise abstract similarity with higher-order latents tested the method. It was answered within it, by latents identified from observational contrasts (A73)."
+blockers:
+  - >-
+    The owner's decision. The warrant is interpretive: the "should" is a
+    methodological commitment, not a result. Promoting it settles the
+    line's foundation, which CLAIM-206's dilemma and CLAIM-217's reply
+    both build on. Those two are already waiting on the owner (batch 021).
+notes: >-
+  A root of its line, and the cheapest kind of promotion: one clause is
+  standard, and the other is a choice the record has applied without
+  revision for ten days. Decide it before CLAIM-206 and CLAIM-217, because
+  both rest on what it fixes. Its defeat condition is partly predictive,
+  but the claim is supported by argument and practice, so the warrant
+  fits (ADR-043).
+unlocks: [CLAIM-142, CLAIM-206, CLAIM-247, CLAIM-253]
+next_action: >-
+  Owner question: promote CLAIM-046 as the line's adopted method? If yes,
+  a PR sets it Active with a dated history note appended last.

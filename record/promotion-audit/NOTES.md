@@ -756,3 +756,167 @@ history note. THEORY-277 is requeued on this basis.
   promoted almost nothing. It found misclassified warrants, and a
   mechanical count suggests 36 more. ADR-040 parents marked demonstrated
   are a second sweep (pattern 1, five cases now).
+
+## 2026-10-19 — batch 028 (warrant-correction sweep)
+
+- Two readings of ADR-043 are in use. The pilot's: an empirical claim with
+  no observation under it is interpretive (CLAIM-117, CLAIM-063,
+  CLAIM-056). Batch 022's: it is empirical (CLAIM-052, #204). Until the
+  owner rules, don't correct warrants in either direction on that ground
+  alone.
+- Term-of-art false positives. "Empirical model" (contextuality) and
+  "experiment" (Blackwell's statistical experiments) fire the cue list
+  without naming anything observed. warrant_sweep.py excludes the first;
+  the second needs a reading.
+- Check the defeater's quantifier against the title's. An existence title
+  ("can") with a frequency defeater ("at a rate no greater than") is a
+  mismatch, but read the history first: CLAIM-238 (Active, granted) is why
+  the 2026-10-10 restatements turned possibility defeaters into prevalence
+  tests, so the fix may be the title, and that is a design choice.
+- A title already corrected by its own body. CLAIM-074's body says the
+  transient/persistent dichotomy in its title "does not hold"; the title
+  is unchanged. Grep bodies for "does not hold" or "needs stating" in a
+  later pass.
+- Split parents and earlier corrections reappear in any mechanical sweep
+  (CLAIM-056, CLAIM-063). Skip codes whose last decision was carried out
+  unless their entry changed since.
+
+## 2026-10-19 — batch 024 (wave 3, re-derivation route)
+
+- The re-derivation route went 5 of 5. Every title asserted a theorem, and
+  each disposition separated a proved core from an extension to trained
+  models, random starts or real data.
+- A dual certificate is a short route to max-margin geometry claims. For
+  min ‖X‖_* under margin constraints, the polar factor of the candidate is
+  a certificate whenever its columns are nonnegative combinations of the
+  constraint normals, which reduces to a sign check on (ẐẐᵀ)^{+1/2}
+  (THEORY-286). Reusable for other unconstrained-features results.
+- "Linear attention" in a title should say whether it is normalized. Sun
+  et al.'s identity holds for the unnormalized form only (THEORY-169).
+- Logistic per-mode dynamics recur: THEORY-182 (tied symmetric
+  factorization) and THEORY-186 (two-layer linear) reduce to u̇ = 2u(λ −
+  u) once the start is aligned. A split core of this shape takes a few
+  lines to re-derive.
+
+## 2026-10-19 — batch 025 (wave 3, re-derivation route)
+
+- A reconstruction can show that a toy is not recoverable from the record.
+  For THEORY-320, rebuilding the toy graph from NOTE-833's description
+  reproduced Theorem 5.2 exactly, but not Theorem 5.3's threshold or Lemma
+  5.4's harm case. That shows the set-up is underdetermined, not that the
+  paper is wrong. Record the reconstruction and its mismatches in the
+  decision file, so the next reading of appendix B can settle it in one
+  round.
+- The Donsker–Varadhan approximation gap closes by two-sided truncation.
+  The negative part of log dP/dQ is P-integrable whenever MI is finite: ∫
+  p log(q/p) over {p < q} is at most 1, by log x ≤ x − 1. The estimation
+  gap closes by weak convergence of the empirical measures, uniform over
+  an equicontinuous family. Both are reusable for other variational-bound
+  estimators (NWJ, InfoNCE) the record may hold.
+- Representer theorems over the completed RKHS need only projection onto a
+  finite span and strict monotonicity. Existence needs lower
+  semicontinuity and coercivity, and a counterexample without lower
+  semicontinuity takes one line. Use this template when other kernel
+  results are stated over expansion classes rather than H_k.
+
+## 2026-10-19 — batch 026 (wave 3)
+
+- A conditional theorem should be promoted on the hypotheses its proof
+  uses, not the ones its source names. THEORY-478's source assumed 'a tree
+  heat kernel'. The proof needs only a Hölder bound and a separation bound
+  on Hellinger distances, and the admissible range is α < θ/β. The
+  source's range (θ = 1) and the reader's repaired range (θ = 1/2) are
+  then two instances of one theorem, not a dispute.
+- Multiscale sums of the form Σ_k 2^(−kα) h_k with a Hölder regime below a
+  crossing scale and a separation regime above it are equivalent to d^(αβ)
+  exactly when α < θ/β. The coarse-scale geometric sum is the only place
+  the exponent condition enters. A reusable template for multiscale
+  diffusion distances.
+- 'No Bell-like no-go in a prepare-measure scenario' has a one-line proof:
+  send λ = (x, a). Any distribution with Y independent of (X, A) is then
+  realized. Worth reusing wherever a source states a realizability claim
+  without derivation.
+- Triage-005's formal flag, read against content: one of three doubted
+  flags was right. The doubt followed the subject tags (philosophy,
+  quantum foundations), not whether the title relates defined notions.
+- THEORY-614 is the first re-derivation-route entry to stop at one unread
+  appendix step. Record the step exactly (likelihood summed over delimiter
+  states) so that a single retrieval can close it.
+
+## 2026-10-19 — batch 027 (wave 3, missed formal)
+
+- Triage-005's prose-title misses were real formal results (3 of 4). Its
+  formal flag reads titles; these four have formal content in the summary
+  and body ("exact", "conserved", an SDE equation, a composition
+  identity). Score the summary too.
+- An existence clause is proved by a constructed example, even inside a
+  paper's own restricted protocol. THEORY-176's "can stitch differently"
+  took a two-position, one-channel example in which a 1×1 stitcher cannot
+  undo a position swap. When a promote_when asks for a measured instance
+  of a "can", build the smallest case first.
+- Narrowing to the derivation's hypothesis is the commonest fix for formal
+  THEORYs read off a paper's theory section: THEORY-187 (decoupled,
+  balanced start) and THEORY-211 (the SDE model, both groups noisy,
+  product at stationarity). The title's law is kept and its scope is
+  stated.
+- Promoting THEORY-176 removes one Proposed premise from CLAIM-126,
+  CLAIM-225 and CLAIM-199. A wave-4 recount should follow once the PR
+  merges.
+- ADR-047 v3 with captions-only figures: THEORY-195's results are stated
+  in the paper's text, so batch 019's rule is met, but the curve collapses
+  were not seen. Medium confidence is the honest record of that.
+
+## 2026-10-19 — batch 029 (ADR-040 parent sweep)
+
+- The ADR-040 parent population is closed: all eight parents are now
+  interpretive once CLAIM-081's correction merges. Pattern 1 needs no
+  further sweep over ADR-040 parents. Watch new splits instead: when a
+  split leaves the parent only a reading of a domain, correct the warrant
+  in the same PR.
+- A regex for "empirical" defeat conditions misfires on terms of art
+  ("empirical model" in contextuality). Read the defeat condition before
+  counting it. Batch 022's count of 36 interpretive claims with empirical-
+  sounding defeat conditions may hold similar false positives.
+- When a decision defers a warrant review until a premise is decided, as
+  batch 003 did for CLAIM-081, record the trigger in the requeue list.
+  Otherwise it waits until a sweep finds it.
+
+## 2026-10-19 — batch 030 (wave 5, roots)
+
+- The roots option in sample_wave5.py (--roots_only) drops population
+  members whose rests_on premises include a Proposed interpretive claim,
+  queued or not. Of 212 in the population, 159 are roots.
+- Batch 022's mechanical count of interpretive claims with empirical
+  defeaters over-reports. An interpretive claim can rightly have an
+  observational defeater when its support is argument (CLAIM-327). A
+  warrant is misclassified only when the support, not the defeater, is
+  observational (CLAIM-052). Before a correction sweep, read each one's
+  support, not only its defeated_if.
+- Decide argument clusters root first in one owner question. CLAIM-046
+  sits under CLAIM-206 and CLAIM-217, and CLAIM-241 objects to CLAIM-217.
+  Ruling on CLAIM-206 against CLAIM-217 without the other two would leave
+  both of them stale.
+- A theorem read in full can still hide inside a multi-LIT synthesis
+  (THEORY-109's Theorem 1). Check every wave-5 THEORY's NOTE claims table
+  for "strong (proof)".
+
+## 2026-10-19 — round 024–030, summary
+
+- **Yields.** Wave 3, re-derivation route: 024 at 5 of 5, 025 at 5 of 5,
+  027 at 5 of 5 (the formal entries triage-005 missed), and 026 at 2 of 5.
+  The three entries whose formal flag triage-005 doubted split one
+  promotion, THEORY-231, and two retentions. So the route predicts yield
+  well, and its errors run toward missing formal entries rather than
+  over-flagging them.
+- **Sweeps.** The warrant sweep (028) found no miswarranted claims in 10.
+  The ADR-040 parent sweep (029) found one, CLAIM-081. Both are mostly
+  done. Under ADR-043 v2, the 37 interpretive claims with empirical
+  defeaters are correctly labelled.
+- **The owner's warrant rule (ADR-043 v2, #221).** `warrant` records how
+  a claim is supported now. An untested empirical claim is interpretive,
+  and its defeat condition can still be an observation. CLAIM-052 is
+  reverted. Do not relabel a warrant only because the defeater is
+  empirical.
+- **Wave 5 roots (030).** Drawing roots of argument lines worked:
+  3 of 5 had a path. Two of them are interpretive promotions, so they go
+  to the owner.

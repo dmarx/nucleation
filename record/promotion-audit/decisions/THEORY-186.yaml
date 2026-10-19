@@ -1,0 +1,54 @@
+# record/promotion-audit/decisions/THEORY-186.yaml
+id: THEORY-186
+batch: batch-024
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The exact solution of LIT-862 / LIT-864 for a two-layer linear network
+    ŷ = W₂W₁x with white inputs (Σx = I), squared loss and gradient flow,
+    from a decoupled, balanced start, and the shallow comparison, re-derived
+    here (ADR-047 v2). (1) Deep case. With Σyx = U S Vᵀ, gradient flow of
+    ½E‖y − W₂W₁x‖² is τẆ₁ = W₂ᵀ(Σyx − W₂W₁), τẆ₂ = (Σyx − W₂W₁)W₁ᵀ. Take
+    W₁ = R C Vᵀ, W₂ = U C Rᵀ with R orthonormal and C = diag(c_α) (decoupled
+    and balanced). Then W₂W₁ = U C² Vᵀ and τẆ₁ = R C Uᵀ U (S − C²) Vᵀ =
+    R C(S − C²) Vᵀ, so the ansatz is kept and τċ_α = c_α(s_α − c_α²); the
+    W₂ equation gives the same. For a_α = c_α², τȧ_α = 2a_α(s_α − a_α),
+    whose solution is a_α(t) = s_α e^{2s_αt/τ} / (e^{2s_αt/τ} − 1 + s_α/a_α⁰)
+    (it equals a_α⁰ at t = 0, tends to s_α, and satisfies the logistic
+    equation). It reaches s_α/2 at t_α = (τ/(2s_α)) ln(s_α/a_α⁰ − 1), and
+    passes from a fraction δ to 1 − δ of s_α in time (τ/s_α) ln((1−δ)/δ),
+    independent of a_α⁰. So, as a_α⁰ → 0, each mode waits a time of order
+    (τ/s_α) ln(1/a_α⁰) and then rises in a transition whose width is a
+    vanishing fraction of the wait, and stronger modes go first.
+    (2) Shallow case. For ŷ = Wx, τẆ = Σyx − W, so
+    W(t) = Σyx + (W(0) − Σyx)e^{−t/τ}, and in the SVD basis
+    b_α(t) = s_α(1 − e^{−t/τ}) + b_α⁰ e^{−t/τ}: every mode on the one
+    timescale τ, exponentially, with no plateau. Both close. Filed as a new
+    Active THEORY: under these conditions the stages come from the product
+    of two layers and the spectrum of Σyx, since the same data in one layer
+    give none.
+  excluded: >-
+    What THEORY-186 keeps, Proposed, with its promote_when unchanged: that
+    small random, unbalanced initial weights follow the decoupled solution
+    (simulated in LIT-862, not proved), and so the title's general "trained
+    from small weights" reading.
+evidence:
+  - "NOTE-666 (Read): LIT-862 Eqs. 2–11 and the Supplementary derivations."
+  - "NOTE-667 (Read): LIT-864 Eqs. 6–12 and Appendix A, the first appearance of the solution."
+  - "The two re-derivations above (ADR-047 v2)."
+blockers: []
+notes: >-
+  The batch-005 shape again: an exact solution under a stated start,
+  joined to a simulated claim about general starts. The record's Note of
+  2026-10-13 on balance (conserved under gradient flow, LIT-1012) is
+  relevant to the kept part, not the split core. THEORY-187 (depth) and
+  THEORY-481 (which extends THEORY-186) are untouched.
+unlocks: []
+next_action: >-
+  Split: a new Active THEORY for the decoupled, balanced exact solution and
+  the shallow contrast, with the re-derivation as a dated note; THEORY-186
+  extends it and stays Proposed.

@@ -1,0 +1,66 @@
+# record/promotion-audit/decisions/THEORY-169.yaml
+id: THEORY-169
+batch: batch-024
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    Three output identities, each re-derived here (ADR-047 v2), for the
+    layers they are stated for. (1) Sun et al. Theorem 1: unnormalized,
+    causal linear attention with identity feature map is the prediction of
+    a linear inner model W trained by one batch gradient step from W₀ = 0.
+    Re-derivation: for ℓ(W; x_s) = ‖Wk_s − v_s‖² with k_s = θ_K x_s,
+    v_s = θ_V x_s, ∇_W ℓ = 2(Wk_s − v_s)k_sᵀ. At W₀ = 0 the batch gradient
+    over s ≤ t is −2 Σ_{s≤t} v_s k_sᵀ, so one step with η = ½ gives
+    W_t = Σ_{s≤t} v_s k_sᵀ. Its prediction on q_t = θ_Q x_t is
+    W_t q_t = Σ_{s≤t} v_s (k_sᵀ q_t), the output of unnormalized causal
+    linear attention. The identity fails for normalized linear attention
+    (the denominator Σ k_sᵀq_t has no gradient-step counterpart), so the
+    title is narrowed to the unnormalized form. (2) Sun et al. Theorem 2:
+    the Nadaraya–Watson estimator Σ_s κ(k_s, q) v_s / Σ_s κ(k_s, q) with
+    κ(k, q) = exp(kᵀq) is, term for term, softmax attention; training stores
+    (k_s, v_s). (3) von Oswald et al. Proposition 1: with tokens
+    e_j = (x_j, y_j), key and query maps that read x and a value map that
+    reads −η·y, one linear self-attention layer adds
+    −(η/N) Σ_i y_i (x_iᵀ x_j) to the y-part of token j. The gradient step on
+    L(W) = (1/2N) Σ_i ‖W x_i − y_i‖² at W₀ = 0 is ΔW = (η/N) Σ_i y_i x_iᵀ,
+    so the update is y_j ↦ y_j − ΔW x_j, and on a query token (x_q, 0) the
+    read-out (sign flipped) is ΔW x_q, the updated model's prediction. All
+    three close. The narrowed title: for unnormalized causal linear
+    attention and for softmax attention, the layer's output equals a
+    learner's train-then-predict step on the context (a batch gradient
+    step of a linear model from zero; kernel regression that stores the
+    context), and one linear self-attention layer with constructed weights
+    carries one gradient step of in-context linear regression; for these
+    layers conditioning and per-sequence weight updates differ in what
+    state is kept.
+  excluded: >-
+    The promote_when's scope test: whether the pattern extends to further
+    layer classes (delta-rule or mini-batch inner updates), or is bounded by
+    a standard attention layer with no train-then-predict description. The
+    narrowed title makes no claim about other layer classes, so this moves
+    unchanged to a new QUESTION. Also excluded: normalized linear attention,
+    TTT-Linear as built, and anything about trained transformers (the body's
+    disclaimers already say so).
+evidence:
+  - "NOTE-620 (Read): proofs of LIT-801 Theorems 1 and 2 followed; the dual-form derivation checked for the linear case."
+  - "NOTE-621 (Read): LIT-792 Proposition 1 and its construction."
+  - "The three re-derivations above, each a few lines, written out step by step (ADR-047 v2)."
+blockers: []
+notes: >-
+  The promote_when asked for a check against an independent derivation of
+  the linear-attention/fast-weight correspondence (e.g. Schlag, Irie and
+  Schmidhuber 2021), which the record does not hold. Under ADR-047 v2 the
+  re-derivation above meets that request. The title's unqualified "linear
+  attention" was the one scope error: the identity is for the unnormalized
+  form. The closing clause ("differ in what state is kept, not in kind")
+  is kept only for the layers named.
+unlocks: []
+next_action: >-
+  Narrow the title as in scope.accepted, set status Active, add a dated
+  note with the three re-derivations, move the scope-test clause of the
+  promote_when to a new QUESTION, and trim stale inactive-ok directives
+  naming THEORY-169.

@@ -1,0 +1,54 @@
+# record/promotion-audit/decisions/THEORY-109.yaml
+id: THEORY-109
+batch: batch-030
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The formal core, as a new Active THEORY: Kuditipudi et al.'s Theorem 1
+    (LIT-671). For multilayer ReLU nets with a loss convex in the output,
+    two ε-dropout-stable solutions are ε-connected: some piecewise-linear
+    path between them keeps L ≤ max{L(θ_A), L(θ_B)} + ε throughout. The
+    construction uses Lemma 1 (reach the dropout version through steps
+    that either change input weights of units whose outputs are already
+    zeroed, at no cost, or interpolate top-layer weights, where loss is
+    convex), Lemma 4 (permute a half-zeroed net's live units at constant
+    loss) and Lemma 2 (join two half-zeroed nets in 8 segments at no more
+    than the worse endpoint). NOTE-544 read §§1–6 and Appendix A, the
+    proof of Theorem 1, in full, and rates C1 "strong (proof)". So the
+    THEORY-014 standard applies: a theorem proved in a work the record has
+    read. No re-derivation is needed under ADR-047 v2. The new entry also
+    takes Draxler et al.'s concatenation bound, L*_AC ≤ max{L_AB, L_BC}
+    (LIT-653), which is immediate: a path through B never exceeds the
+    larger of the two barriers.
+  excluded: >-
+    These stay with THEORY-109, Proposed:
+    - "one connected set": the body calls it extrapolated from pairs and
+      complexes of at most seven modes;
+    - the low-loss region's dimension, which is a lower bound for one
+      architecture;
+    - that SGD's solutions are dropout-stable (§6, weak to moderate:
+      MNIST convnets and one VGG-11);
+    - Theorem 2 (App. B, read for its statements only);
+    - Theorem 4's construction of disconnected global minima (App. C,
+      read for statement and structure, not checked).
+    THEORY-108's phase-III tension stays with the parent too.
+evidence:
+  - "NOTE-544 (Read): its version-1 history line says §§1–6, Appendix A and Appendix D in full; Appendices B and C for statements and structure. Claims table: C1 strong (proof), Theorem 1, App. A."
+  - "No Active THEORY in the record cites LIT-671."
+  - "THEORY-109's promote_when asks for evidence that the set is one set. That concerns the excluded part, so it moves unchanged with the parent."
+blockers: []
+notes: >-
+  The wave-2 shape inside a wave-5 synthesis: a theorem read in full,
+  bundled with an extrapolation the body disclaims. The sampler drew it
+  because its source names four LITs. Formal content, not the population
+  definition, predicted the path again (batch 017, triage-005).
+unlocks: []
+next_action: >-
+  PR: a new Active THEORY for Theorem 1 with the concatenation bound,
+  sourced to LIT-671 and LIT-653, carrying the anthology-candidate flag.
+  THEORY-109 extends it, gets a dated history note appended last, and
+  stays Proposed with its promote_when unchanged.

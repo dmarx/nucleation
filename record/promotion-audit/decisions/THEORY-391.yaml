@@ -1,0 +1,54 @@
+# record/promotion-audit/decisions/THEORY-391.yaml
+id: THEORY-391
+batch: batch-025
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The title mixes a cited theorem with a measurement. The measurement
+    takes ADR-047 v3's route. NOTE-933 read the arXiv text in full,
+    including every regression transcript and Tables 1–10. The
+    measurements the title states are in that text, not only in figures:
+    - the Z-scores;
+    - the rejection of strict finite-N universality, with significant 1/√N
+      terms in every non-Gaussian suite (§5.5);
+    - F = 0.7467 with p = 0.7475 for the non-decaying terms;
+    - γ = 1/2 best among the exponents tried, with random signs fitting out
+      of sample (Table 8).
+    Nothing in the record contradicts it. The narrowed title claims only
+    what was measured, keeps the study's hedges, and attributes the
+    Gaussian curve to the earlier theorems the paper restates:
+
+    "Recovery of a k-sparse vector by ℓ₁ minimization from n random
+    measurements in dimension N switches, as N grows with δ = n/N and
+    ρ = k/n fixed, from near-certain success to near-certain failure
+    across a curve ρ(δ) that, for Gaussian matrices, the authors' earlier
+    face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400
+    and 1600, eight non-Gaussian ensembles approached that curve in a way
+    consistent with gaps shrinking as N^(−1/2), an exponent fitted on the
+    same data, while at finite N the location depended on the ensemble."
+  excluded: >-
+    Two things stay out of the title.
+    - As an established result of the record: the Gaussian transition
+      theorem. It is proved in Donoho 2005a/b and Donoho–Tanner 2005a,
+      which the record does not hold, so the title now attributes it.
+    - As a limit statement: universality as N → ∞. It rests on three
+      problem sizes and an exponent chosen on them.
+    The promote_when (a proof for some non-Gaussian ensemble, or
+    simulations an order of magnitude larger) moves unchanged to a new
+    QUESTION. Whether the asymptotic agreement is a theorem stays open
+    there.
+evidence:
+  - "NOTE-933 (Read in full, arXiv v1, 48 pp., §§1–5 and appendix with every regression transcript; figures from captions only, but the title's numbers are in text and tables): claims C2–C4 moderate to strong."
+  - "Claims table C1: the Gaussian theorem is proved in the cited earlier papers, not here."
+blockers: []
+notes: >-
+  ADR-047 v3 applies only once the title stops asserting the cited
+  theorem in the record's own voice. The figure-only exclusion (batch 019,
+  THEORY-292) does not bite here: the regressions are in the text.
+next_action: >-
+  Narrow and promote in batch 025's v3 PR, with the promote_when moved to
+  a new QUESTION that refines QUESTION-120.

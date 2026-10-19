@@ -1,0 +1,28 @@
+# record/promotion-audit/decisions/CLAIM-125.yaml
+id: CLAIM-125
+batch: batch-028
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The warrant is right. The claim says two problems are open; its
+    defeater is the existence of a framework that solves them. That is a
+    claim about the literature, settled by reading, not by observation.
+    The cue words are terms of art ("empirical models", "experiments" in
+    the Blackwell sense of statistical experiments).
+  excluded: >-
+    Nothing.
+evidence:
+  - "CLAIM-125 defeated_if: 'an informativeness order on menus of experiments'."
+blockers:
+  - "Four open objections (CLAIM-207, -235, -237, -245)."
+notes: >-
+  A false positive: 'experiment' in the Blackwell sense. The sweep's cue
+  list cannot tell that from a laboratory experiment.
+unlocks: []
+next_action: >-
+  None.

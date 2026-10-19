@@ -1,0 +1,60 @@
+# record/promotion-audit/decisions/THEORY-614.yaml
+id: THEORY-614
+batch: batch-026
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    Nothing for promotion yet. The title is a conditional theorem (Xie et
+    al.'s Theorem 1) with an explicit disclaimer about trained networks,
+    so by batch 020's sort rule it is a theorem. The correction is to the
+    promote_when, which is mis-targeted: it asks for evidence about a
+    trained language model, the very thing the title's last clause says
+    is not shown (THEORY-014's shape). Judged on its own terms, the title
+    needs only Theorem 1's proof checked, and the record does not hold
+    that. NOTE-633 followed §3.2's heuristic step by step, but not
+    Appendices B–C.
+
+    How far a re-derivation got, in two rounds. The heuristic closes for
+    finitely many concepts. Write the log posterior ratio of θ to θ* as a
+    sum over the n prompt examples. Each example contributes its
+    within-example log-likelihood ratio and the boundary terms at its
+    delimiter and start. Under the prompt distribution, the expected
+    within-example term is −Σ_j KL_j(θ* ‖ θ). Assumptions 2 and 5 bound
+    the boundary terms by ε_delim + ε_start, and they bound every log
+    probability, so the terms are bounded and independent across
+    examples. The strong law then makes n⁻¹ log[p(θ | S_n)/p(θ* | S_n)]
+    converge to at most −(Σ_j KL_j − ε_start − ε_delim) < 0, by
+    Condition 1. The posterior concentrates on θ*, and Assumption 3's
+    Δ/4 total-variation margin preserves the argmax.
+    The step that does not close is the factorisation behind the first
+    sentence. The HMM's hidden state carries across delimiters, so the
+    likelihood of S_n is a sum over delimiter states, not a product of
+    per-example factors. Bounding that sum by the per-example factors
+    times the c₁–c₄ ratios is the content of Appendix B, which the record
+    has not read. The re-derivation therefore stops there.
+  excluded: >-
+    Promotion now. The present promote_when, evidence that trained models
+    track the posterior predictive or carry a readable concentrating
+    posterior, tests the clause the title disclaims. It moves, unchanged,
+    to a new QUESTION.
+evidence:
+  - "NOTE-633 (Read; §§1–6 in full, §3.2 followed step by step; Appendices B–E not followed): Assumptions 1–5, Condition 1 with ε_delim and ε_start, Theorem 1's statement, claims table C1 'strong (proof, under stated assumptions)', C6 'not supported'."
+blockers:
+  - "Theorem 1's factorisation across delimiter states, the bound of the summed-over-delimiter-states likelihood by per-example factors and the c₁–c₄ ratios (LIT-797 Appendix B). A reading of it, or a re-derivation of that one step, would close the proof above."
+notes: >-
+  A mis-targeted promote_when on a conditional theorem whose proof was
+  not followed. The fix is to point the promote_when at the proof and to
+  move the trained-model question out. Once the Appendix B step is
+  checked, this becomes a plain promote: the title needs no narrowing.
+next_action: >-
+  Correction PR, with status unchanged. Replace promote_when with: a
+  reading of LIT-797 Appendix B–C, or a re-derivation of Theorem 1's
+  bound of the likelihood summed over delimiter states, with finitely
+  many concepts the case first sought. File a QUESTION carrying the old
+  promote_when unchanged (trained-model evidence). Add a history entry
+  citing this decision, and a dated note with the partial re-derivation
+  and the exact blocked step.
