@@ -1,10 +1,23 @@
 ---
 number: 313
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpie11s
 title: 'A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/CLAIM-313.yaml,
+    batch 002, ADR-047). The core needs no theorem: an item stored in several
+    bins is in several partitions. THEORY-388 and THEORY-372, both Active,
+    are cited only for the costed case, and no objection to this claim is
+    filed. The lower-bound sentence now says what THEORY-372 says: list-of-
+    points structures, on random instances with d = ω(log n), a bound the
+    paper calls conditional. CLAIM-310, which this counter opposed, takes the
+    one-copy condition in the same change.
 role: counter
 warrant: demonstrated
 tags:
@@ -46,8 +59,9 @@ sensitive hashing builds many hash tables over the same points, each a
 different partition, and stores every point in each ([THEORY-388](../theory.d/THEORY-388.md)).
 Andoni et al. give the exact price ([THEORY-372](../theory.d/THEORY-372.md)). With each point in
 about n^{ρu} lists, a query scans about n^{ρq} of them, and the two
-exponents trade along a curve that no hashing-based scheme beats on
-random instances. More partitions held at once cost more space and buy
+exponents trade along a curve that no list-of-points structure beats on
+random instances with d = ω(log n), a lower bound the paper calls
+conditional. More partitions held at once cost more space and buy
 faster queries.
 
 So where items can be copied, several sortings can be arrangements at
@@ -74,3 +88,9 @@ is not touched.
 It could state the one-copy condition in its title and defeat condition.
 Or it could count copies as bins, so that k copies of each item across
 k bins realize k partitions, and the budget becomes a budget on storage.
+
+## Note of 2026-10-19: Active, and [CLAIM-310](CLAIM-310.md) answers
+
+The record is persuaded. [CLAIM-310](CLAIM-310.md) now states the one-copy condition in its
+title and in its arrangement clause, which is the first of the two answers
+above. Its description clause and its LEGO case are unchanged.
