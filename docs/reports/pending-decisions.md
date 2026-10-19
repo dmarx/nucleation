@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**781 document(s) awaiting a decision.**
+**778 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 781.
+95 of the 778.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-454 of the 781.
+451 of the 778.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -292,12 +292,10 @@
 | 2026-10-14 | Proposed | [THEORY-275](../../record/theory.d/THEORY-275.md) | 14 | 6 | Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive |
 | 2026-10-14 | Proposed | [THEORY-288](../../record/theory.d/THEORY-288.md) | 14 | 0 | In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task |
 | 2026-10-14 | Proposed | [THEORY-265](../../record/theory.d/THEORY-265.md) | 13 | 1 | In a minimal model of bistable deciders in a modular coordination game, phase synchronisation within strongly coupled modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not |
-| 2026-10-14 | Proposed | [THEORY-278](../../record/theory.d/THEORY-278.md) | 13 | 0 | Under MSE loss a trained classifier stays near the least-squares classifier for its own features, and on that central path, for unconstrained features continually renormalized to identity within-class covariance, gradient flow drives the class-separation singular values to infinity at equal rates, which is neural collapse |
 | 2026-10-14 | Proposed | [THEORY-304](../../record/theory.d/THEORY-304.md) | 13 | 0 | In plane Couette and Poiseuille flow the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability |
 | 2026-10-14 | Proposed | [THEORY-243](../../record/theory.d/THEORY-243.md) | 12 | 0 | Interchange interventions on a fixed set of variables can be satisfied equally by different alignments related by a change of basis, so which internal direction is the mediating variable is fixed only relative to a chosen decomposition into units |
 | 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 12 | 0 | Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided |
 | 2026-10-14 | Proposed | [THEORY-237](../../record/theory.d/THEORY-237.md) | 11 | 0 | The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and each is tight only at a critic equal to the log density ratio up to a term its normalization leaves free |
-| 2026-10-14 | Proposed | [THEORY-238](../../record/theory.d/THEORY-238.md) | 11 | 0 | The expected generalization error of an encoder–decoder learner is bounded by the encoder alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving permutations, for any decoder, and the bound stays finite for deterministic continuous encoders under lossy compression |
 | 2026-10-14 | Proposed | [THEORY-268](../../record/theory.d/THEORY-268.md) | 11 | 0 | An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment |
 | 2026-10-14 | Proposed | [THEORY-277](../../record/theory.d/THEORY-277.md) | 11 | 0 | For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated |
 | 2026-10-14 | Proposed | [THEORY-282](../../record/theory.d/THEORY-282.md) | 11 | 0 | A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data |
@@ -348,7 +346,6 @@
 | 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 5 | 0 | Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 5 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
 | 2026-10-14 | Proposed | [THEORY-226](../../record/theory.d/THEORY-226.md) | 4 | 0 | LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts |
-| 2026-10-14 | Proposed | [THEORY-266](../../record/theory.d/THEORY-266.md) | 4 | 0 | The average generalisation error along an optimisation trajectory is bounded by the rate-distortion function of the trajectory's law given the sample, plus a coupling term that carries the trajectory's dependence on the sample |
 | 2026-10-14 | Proposed | [THEORY-270](../../record/theory.d/THEORY-270.md) | 4 | 0 | Translation without parallel data is learnable from a plausibility prior over the target language alone, with error falling in the common ground between prior and translations, in the size of the source language and in the number of samples |
 | 2026-10-14 | Proposed | [THEORY-310](../../record/theory.d/THEORY-310.md) | 4 | 0 | On a forward-looking justification of blame, a counterfactual capacity condition calibrated to what makes blaming effective is redundant: fixing its parameters presupposes that blaming such agents is good policy, so freedom is ascribed because of blameworthiness rather than grounding it |
 | 2026-10-14 | Proposed | [THEORY-311](../../record/theory.d/THEORY-311.md) | 4 | 0 | Groupware that requires extra work from members who do not perceive a direct benefit from it is resisted or goes unused, and the applications that succeed in groups give each user who does the work a benefit of their own |
@@ -572,7 +569,7 @@
 
 ## ADRs
 
-2 of the 781.
+2 of the 778.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -581,7 +578,7 @@
 
 ## QUESTIONs
 
-9 of the 781.
+9 of the 778.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -597,7 +594,7 @@
 
 ## CLAIMs
 
-216 of the 781.
+216 of the 778.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -820,7 +817,7 @@
 
 ## CASEs
 
-1 of the 781.
+1 of the 778.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -828,7 +825,7 @@
 
 ## TERMs
 
-2 of the 781.
+2 of the 778.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -837,7 +834,7 @@
 
 ## ARGs
 
-2 of the 781.
+2 of the 778.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

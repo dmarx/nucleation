@@ -1,5 +1,8 @@
 ---
+number: 179
 status: Open
+formerly:
+- QUESTION-tmpc9vuq
 title: 'Is the latent-variable MDL bound of Theorem 4 in Sefidgaran et al. non-vacuous for a trained encoder, with a type-III symmetric prior that does not use the ghost data?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   This question holds that request.
 ---
 
-# QUESTION-tmpc9vuq: Is the latent-variable MDL bound of Theorem 4 in Sefidgaran et al. non-vacuous for a trained encoder, with a type-III symmetric prior that does not use the ghost data?
+# QUESTION-179: Is the latent-variable MDL bound of Theorem 4 in Sefidgaran et al. non-vacuous for a trained encoder, with a type-III symmetric prior that does not use the ghost data?
 
 ## Why it is a question
 

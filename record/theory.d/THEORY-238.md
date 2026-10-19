@@ -25,7 +25,7 @@ history:
     request, a numerical evaluation showing whether the bound is
     non-vacuous, concerns whether the quantity accounts for
     generalization in practice, which this account does not claim; it
-    moves to QUESTION-tmpc9vuq. The last clause is narrowed: lossy
+    moves to QUESTION-179. The last clause is narrowed: lossy
     compression can keep the bound finite for deterministic continuous
     encoders, as the paper's constructed example shows, not in general.
 tags:

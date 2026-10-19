@@ -18,7 +18,7 @@ history:
     holds. The promote_when asked for an evaluation that would settle
     whether the trajectory's compressibility accounts for
     generalisation, which this account does not claim and its first
-    "does not say" disclaims; it moves unchanged to QUESTION-tmphiinp.
+    "does not say" disclaims; it moves unchanged to QUESTION-180.
 tags:
 - learning-theory
 - information-theory

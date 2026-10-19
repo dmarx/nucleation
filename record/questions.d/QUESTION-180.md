@@ -1,5 +1,8 @@
 ---
+number: 180
 status: Open
+formerly:
+- QUESTION-tmphiinp
 title: 'Does the rate-distortion function of an optimisation trajectory given its sample, with the coupling coefficient M bounded or estimated and the 4Lε term kept, account for the generalisation of trained networks?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   more than the theorem says. This question holds it.
 ---
 
-# QUESTION-tmphiinp: Does the rate-distortion function of an optimisation trajectory given its sample, with the coupling coefficient M bounded or estimated and the 4Lε term kept, account for the generalisation of trained networks?
+# QUESTION-180: Does the rate-distortion function of an optimisation trajectory given its sample, with the coupling coefficient M bounded or estimated and the 4Lε term kept, account for the generalisation of trained networks?
 
 ## Why it is a question
 
