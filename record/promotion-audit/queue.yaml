@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 55
+version: 56
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
@@ -609,6 +609,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-006
   decision: decisions/THEORY-247.yaml
+  carried_out_in: '#180'
 - code: THEORY-236
   wave: 2
   score: 4
@@ -626,6 +627,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-006
   decision: decisions/THEORY-206.yaml
+  carried_out_in: '#180'
 - code: THEORY-171
   wave: 2
   score: 4
@@ -920,4 +922,8 @@ history:
     file meets a promote_when that asks for a proof the record does not hold, and the THEORY is promoted
     (ADR-047 v2). Batch 007''s dispositions stand. THEORY-277 is requeued for a re-derivation. PRs for
     batch 007 are opening (P6: THEORY-009+233; P7: THEORY-297+323).'
+- version: 56
+  date: '2026-10-19'
+  note: 'carried_out_in #180 for THEORY-247 and THEORY-206 (narrow-and-promote; QUESTION-tmpg2gry holds
+    THEORY-206''s open cases). Batch 006''s PRs are complete: #179, #180.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
