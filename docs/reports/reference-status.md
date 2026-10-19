@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**513 documents cited without acknowledgement.** Not listed: 10128 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**513 documents cited without acknowledgement.** Not listed: 10107 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -5818,7 +5818,7 @@ Cosine similarities to matched anchor points are invariant exactly to the maps t
 
 1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-950.md:104`](../../record/literature.d/LIT-950.md)
+- [`record/literature.d/LIT-950.md:103`](../../record/literature.d/LIT-950.md)
 
 ### [THEORY-178](../../record/theory.d/THEORY-178.md) — Proposed
 
@@ -6077,9 +6077,8 @@ None. Every scanned file is checked. ✅
 
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
-- record/literature.d/LIT-993.md:51: annotation no longer applies — nothing in scope cites THEORY-239
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
-- record/theory.d/THEORY-009.md:99: annotation no longer applies — QUESTION-141 is Active now
+- record/theory.d/THEORY-009.md:98: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now
 - record/theory.d/THEORY-299.md:42: annotation no longer applies — QUESTION-148 is Active now

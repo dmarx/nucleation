@@ -1,6 +1,6 @@
 ### Added
 
-- [QUESTION-tmpogcb0](record/questions.d/QUESTION-tmpogcb0.md): whether the relational linear properties reported in
+- [QUESTION-149](record/questions.d/QUESTION-149.md): whether the relational linear properties reported in
   released language models lie in the subspaces that enter the logits, so
   that they are properties of the distribution. This is the trained-model
   half of the condition formerly on [THEORY-234](record/theory.d/THEORY-234.md).

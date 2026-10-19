@@ -23,7 +23,7 @@ history:
     The note of 2026-10-19 below re-derives both theorems, which under
     ADR-047 v2 (the owner's rule of 2026-10-19) meets the first alternative.
     The measurement, which concerns trained models and which the body
-    disclaims, moves unchanged to QUESTION-tmpogcb0.
+    disclaims, moves unchanged to QUESTION-149.
 tags:
 - representation-learning
 - mathematics

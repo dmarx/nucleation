@@ -1,5 +1,8 @@
 ---
+number: 149
 status: Open
+formerly:
+- QUESTION-tmpogcb0
 title: 'In released language models, do the relational linear properties reported so far lie in the subspaces that enter the logits, with Γ ⊆ N and Γ_q ⊆ M, so that they are properties of the distribution and not of one fitted model?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   models meet that condition has not been measured.
 ---
 
-# QUESTION-tmpogcb0: In released language models, do the relational linear properties reported so far lie in the subspaces that enter the logits, with Γ ⊆ N and Γ_q ⊆ M, so that they are properties of the distribution and not of one fitted model?
+# QUESTION-149: In released language models, do the relational linear properties reported so far lie in the subspaces that enter the logits, with Γ ⊆ N and Γ_q ⊆ M, so that they are properties of the distribution and not of one fitted model?
 
 ## Why it is a question
 
