@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**787 document(s) awaiting a decision.**
+**786 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 787.
+95 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-460 of the 787.
+459 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -349,7 +349,6 @@
 | 2026-10-14 | Proposed | [THEORY-280](../../record/theory.d/THEORY-280.md) | 5 | 0 | The bisimulation metric between two finite Markov chains can be estimated from sampled transitions without a transition model, to accuracy ε with a number of samples polynomial in the state-space sizes and 1/ε² |
 | 2026-10-14 | Proposed | [THEORY-281](../../record/theory.d/THEORY-281.md) | 5 | 0 | Perfect concept erasure caps what a representation can keep at the information not about the concept: if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups' distributions are permutations of one another |
 | 2026-10-14 | Proposed | [THEORY-284](../../record/theory.d/THEORY-284.md) | 5 | 0 | If a feature's values form a compact metric space carried continuously and injectively onto the unit sphere, and cosine similarity is locally a C² decreasing function of squared feature distance, then every path on the representation manifold is √(−2g′(0)) times as long as the feature path it images, so on-manifold shortest paths recover the feature's intrinsic length metric up to one scale; a homeomorphism alone does not fix it |
-| 2026-10-14 | Proposed | [THEORY-290](../../record/theory.d/THEORY-290.md) | 5 | 0 | When debaters value true belief but also dislike changing their minds, equilibrium argument can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and raising the weight on truth can lower equilibrium accuracy |
 | 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 5 | 0 | Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 5 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
 | 2026-10-14 | Proposed | [THEORY-226](../../record/theory.d/THEORY-226.md) | 4 | 0 | LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts |
@@ -578,7 +577,7 @@
 
 ## ADRs
 
-2 of the 787.
+2 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -587,7 +586,7 @@
 
 ## QUESTIONs
 
-9 of the 787.
+9 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -603,7 +602,7 @@
 
 ## CLAIMs
 
-216 of the 787.
+216 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -826,7 +825,7 @@
 
 ## CASEs
 
-1 of the 787.
+1 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -834,7 +833,7 @@
 
 ## TERMs
 
-2 of the 787.
+2 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -843,7 +842,7 @@
 
 ## ARGs
 
-2 of the 787.
+2 of the 786.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

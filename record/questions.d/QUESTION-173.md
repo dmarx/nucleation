@@ -1,5 +1,8 @@
 ---
+number: 173
 status: Open
+formerly:
+- QUESTION-tmpyem0w
 title: 'Does the free-riding structure of truth-and-obstinacy debate survive with more than two debaters or with strategies richer than fixed, memoryless premise and conclusion rules?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   partner's false beliefs, is not shown.
 ---
 
-# QUESTION-tmpyem0w: Does the free-riding structure of truth-and-obstinacy debate survive with more than two debaters or with strategies richer than fixed, memoryless premise and conclusion rules?
+# QUESTION-173: Does the free-riding structure of truth-and-obstinacy debate survive with more than two debaters or with strategies richer than fixed, memoryless premise and conclusion rules?
 
 ## Why it is a question
 

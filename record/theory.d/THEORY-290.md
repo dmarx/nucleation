@@ -17,7 +17,7 @@ history:
     memoryless strategies, the most truth-conducive equilibrium, and the
     accuracy dip confined to the band of mixed equilibria where it was
     found. The promote_when, asking for groups or richer strategies, moves
-    unchanged to QUESTION-tmpyem0w.
+    unchanged to QUESTION-173.
 tags:
 - epistemology
 - game-theory
@@ -35,7 +35,7 @@ summary: >-
   It is shown numerically for two players and three propositions. It
   concerns collective accuracy, not a belief the pair settles on, and
   at high truth weight in short debates there is no dilemma. The title
-  claims the model only; groups and richer strategies are QUESTION-tmpyem0w.
+  claims the model only; groups and richer strategies are QUESTION-173.
 ---
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account this one is set beside -->
 
@@ -136,7 +136,7 @@ precedent of [THEORY-178](THEORY-178.md).
   without a pure equilibrium, and the title now says where it lies.
 - **Dropped:** the unqualified "debaters". Every exact result is for two
   players and n = 3, and the strategy space excludes the targeted "ideal
-  cooperative debater". Those extensions are [QUESTION-tmpyem0w](../questions.d/QUESTION-tmpyem0w.md).
+  cooperative debater". Those extensions are [QUESTION-173](../questions.d/QUESTION-173.md).
 - **Still carried by the body:** the dependence on equilibrium selection.
   (Exit, Exit) is always an equilibrium, and the regimes describe the most
   truth-conducive equilibrium left after removing weakly dominated
