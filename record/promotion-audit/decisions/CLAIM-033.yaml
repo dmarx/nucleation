@@ -9,33 +9,39 @@ disposition: needs-correction
 confidence: medium
 scope:
   accepted: >-
-    Nothing is promoted; the warrant stays interpretive. The correction
-    is to the defeat condition, which does not fit the claim's form. The
-    title is an existence claim ("a translation can broaden ... while
-    narrowing"), with its consequence that loss is not one scalar. Its
-    instances are Jakobson's Russian rendering of "I hired a worker"
-    (LIT-786, NOTE-614: aspect and sex fixed, tense and definiteness
-    dropped) and CASE-012. The current defeater asks for a sampled rate
-    of such trade-offs "no greater than one fixed in advance". A low
-    rate does not defeat a "can": one instance establishes it. The
-    defeater should instead name what would show the instances fail, or
-    that a single scalar orders renderings as judges do.
+    The warrant is right: interpretive, with no study under it. What
+    needs correcting is the fit between title and defeat condition, and
+    which side to change is not a sweep's call. The title is a
+    possibility claim ("a translation can broaden ... while narrowing"),
+    with Jakobson's Russian rendering of "I hired a worker" (LIT-786,
+    NOTE-614) and CASE-012 as instances. Version 2 (2026-10-10)
+    deliberately restated the defeat condition as a prevalence test ("at
+    a rate no greater than one fixed in advance"), because CLAIM-238
+    (Active, granted) showed that a possibility thesis's natural
+    defeater is a universal negative no finite study establishes. The
+    title was left saying "can", so it no longer matches its defeater: a
+    low rate does not defeat a "can".
   excluded: >-
-    Whether trade-offs are common. That is an empirical question the
-    claim does not ask, and it is the part the old defeater tested.
-    THEORY-170 (Jakobson's thesis, Proposed) stays a prior statement,
-    not a ground the claim leans on.
+    The fix itself. Either the title is restated as the prevalence claim
+    the defeater tests, or the claim stays a possibility thesis whose
+    defeat condition names the cited instances failing on inspection,
+    which CLAIM-238's point about universal negatives does not reach.
+    That choice weighs an Active objection and the line's other
+    possibility theses, so it belongs to a regular review, not to a
+    mechanical sweep. No PR is opened.
 evidence:
   - "CLAIM-033 body: 'Jakobson (1959) makes the same point at the level of grammar (LIT-786, NOTE-614, THEORY-170) ... a translation adds information along one dimension while losing it along another.'"
-  - "The defeater's 'at a rate no greater than one fixed in advance' tests frequency, not possibility."
-  - "ADR-043: interpretive covers conceptual argument and synthesis; the instances are readings of grammar and of CASE-012, not a run study."
+  - "CLAIM-033 version 2 history: 'version 1 was a universal negative (\"never gain\"), which no study establishes; the restatement is a claim of prevalence.'"
+  - "CLAIM-238 (Active, granted): 'the possibility theses' are universal negatives that no finite study establishes'."
 blockers:
-  - "None for the correction. The status stays Proposed: THEORY-170 and CLAIM-042, on which it rests, are Proposed, and CLAIM-238's objection is open."
+  - "Which side to restate (title or defeat condition) is a design choice that weighs CLAIM-238; THEORY-170 and CLAIM-042 are Proposed."
 notes: >-
-  A defeater shaped for a frequency claim on an existence claim. Check the
-  quantifier in the title before the cue words in the defeater.
+  A title left behind by its own restated defeater. CLAIM-238 lists other
+  possibility theses (CLAIM-115, -139, -077, -143, -087, -105) whose
+  defeaters were revised on 2026-10-10; check each title against its
+  revised defeater in the same review.
 unlocks: []
 next_action: >-
-  A correction PR: the defeat condition is restated to fit the existence
-  claim, with a dated history entry appended last. Warrant and status
-  unchanged.
+  Queue for a regular review of the 2026-10-10 possibility theses, with
+  CLAIM-238 in view: restate CLAIM-033's title as prevalence, or its
+  defeater as the instances failing. No sweep PR.

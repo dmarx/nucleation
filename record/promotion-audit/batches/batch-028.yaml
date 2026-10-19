@@ -32,7 +32,7 @@ outcomes:
   needs-correction: [CLAIM-033]
   retain-proposed: [CLAIM-046, CLAIM-056, CLAIM-058, CLAIM-063, CLAIM-074, CLAIM-115,
     CLAIM-117, CLAIM-125, CLAIM-127]
-yield: 1 of 10 needed a correction (a defeater that did not fit its claim); 0 warrants were wrong
+yield: 0 of 10 warrants were wrong; 1 title/defeater mismatch (CLAIM-033) referred to a regular review
 finding: >-
   The sweep's premise was wrong. Batch 022 read an interpretive claim with an
   empirical defeat condition as a misclassified warrant, and corrected
@@ -43,8 +43,10 @@ finding: >-
   ADR-043 defines `empirical` as "supported by observation or experiment",
   in the present tense. On that reading every one of the ten has the right
   warrant, and the empirical defeater is simply what would settle a claim
-  the record has not tested. The one real defect was a defeater whose form
-  did not fit its claim (CLAIM-033: a frequency test on an existence claim).
+  the record has not tested. The one real defect was a title left behind by
+  its own restated defeater (CLAIM-033: "can" in the title, a prevalence
+  test in the defeater since CLAIM-238's objection), and which side to fix
+  is a design choice, not a sweep's.
 recommendation: >-
   Settle the owner question below before sweeping the other 27. If the
   pilot's reading stands, the sweep becomes a defeater-fit check (does the
@@ -61,8 +63,10 @@ owner_questions:
     (#204, CLAIM-052) said would be: an untested empirical claim is
     empirical. The two readings disagree on most of the 37 claims this
     sweep lists, and #204 already applied the second one.
-follow_up_prs:
-  - "CLAIM-033: restate the defeat condition to fit the existence claim; warrant and status unchanged."
+follow_up_prs: []
+prs_opened: []
+referred:
+  - "CLAIM-033 and the other 2026-10-10 possibility theses CLAIM-238 names (CLAIM-115, -139, -077, -143, -087, -105): check each title against its revised defeater, with CLAIM-238 in view."
 notes_for_ledger:
   - >-
     Two readings of ADR-043 are in use. The pilot's: an empirical claim with
@@ -77,7 +81,9 @@ notes_for_ledger:
   - >-
     Check the defeater's quantifier against the title's. An existence title
     ("can") with a frequency defeater ("at a rate no greater than") is a
-    mismatch to correct, whatever the warrant.
+    mismatch, but read the history first: CLAIM-238 (Active, granted) is why
+    the 2026-10-10 restatements turned possibility defeaters into prevalence
+    tests, so the fix may be the title, and that is a design choice.
   - >-
     A title already corrected by its own body. CLAIM-074's body says the
     transient/persistent dichotomy in its title "does not hold"; the title
