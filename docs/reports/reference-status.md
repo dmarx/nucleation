@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**513 documents cited without acknowledgement.** Not listed: 10140 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**515 documents cited without acknowledgement.** Not listed: 10140 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -5818,6 +5818,22 @@ Transcriptional regulation alone can make a bacterium's gene-expression state de
 1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-184.md:91`](../../record/claims.d/CLAIM-184.md)
+
+### [THEORY-191](../../record/theory.d/THEORY-191.md) — Proposed
+
+In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball
+
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-047.md:144`](../../record/decisions.d/ADR-047.md)
+
+### [THEORY-192](../../record/theory.d/THEORY-192.md) — Proposed
+
+Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time
+
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+
+- [`record/decisions.d/ADR-047.md:144`](../../record/decisions.d/ADR-047.md)
 
 ### [THEORY-194](../../record/theory.d/THEORY-194.md) — Proposed
 
