@@ -4,9 +4,22 @@ status: Proposed
 formerly:
 - CLAIM-tmpghha4
 title: 'Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Warrant corrected from demonstrated to interpretive at the owner's
+    direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-056.yaml, batch 004, ADR-047).
+    The recursion, its three regimes and the total-variation restriction
+    have been CLAIM-267's since the ADR-040 split of 2026-10-13. What this
+    claim adds is that transport errors in serial reconstruction chains
+    behave so, and its defeat condition is empirical with no observation
+    under it, which ADR-043 counts as interpretive. The status stays
+    Proposed.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   In serial reconstruction chains, end-to-end drift is not predicted by
   per-step discrepancies combined with the measured sensitivity of later
@@ -69,3 +82,13 @@ formal-apparatus line, resting on no claim. This claim now rests on it for
 the general content, and keeps [CLAIM-106](CLAIM-106.md)'s graded fidelity, which makes the discrepancy a transport error. Claims in other lines that need
 only the general content cite [CLAIM-267](CLAIM-267.md), so setting pragmatic-transport aside
 does not take it from them.
+
+## Note of 2026-10-19: the warrant
+
+The derivation is [CLAIM-267](CLAIM-267.md)'s. This claim applies it to serial reconstruction
+chains, reading the per-step discrepancy as a transport error against a
+reference transport, which rests on [CLAIM-106](CLAIM-106.md)'s graded fidelity. Whether
+end-to-end drift in real chains follows the per-step discrepancies and the
+later steps' sensitivity is what the defeat condition tests, and no such
+measurement is held. So the warrant is interpretive. [CLAIM-031](CLAIM-031.md) and [CLAIM-208](CLAIM-208.md)
+object to it and are unanswered.
