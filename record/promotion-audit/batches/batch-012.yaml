@@ -1,0 +1,46 @@
+# record/promotion-audit/batches/batch-012.yaml
+batch: batch-012
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+selection: >-
+  The second five of wave 2's sixteen pending, in code order, per batch
+  010's recommendation, run in parallel with batches 011, 013 and 014:
+  THEORY-196, THEORY-234, THEORY-239, THEORY-254, THEORY-257.
+reviewed: [THEORY-196, THEORY-234, THEORY-239, THEORY-254, THEORY-257]
+outcomes:
+  narrow-and-promote: [THEORY-234, THEORY-239]
+  split: [THEORY-196, THEORY-257]
+  retain-proposed: [THEORY-254]
+yield: 4 of 5 found a promotion path
+finding: >-
+  All four paths needed the record to supply a step, and three of them
+  turned up an error in what the record held. THEORY-239's "unique" is
+  false: a d-span tilted off μ_d towards μ_{d+2} ties the minimum
+  worst-case error. THEORY-234's title says "only when" for a sufficient
+  condition its body calls sufficient. THEORY-257's source says VAR(1)
+  models have exact solutions "at every scale generically", which fails
+  over the reals on an open set. THEORY-196's lower bound, which the
+  source proved with an approximation used as an equality, was redone
+  exactly with explicit constants. Its upper bound rests on a paper
+  neither record holds. The one non-yielder, THEORY-254, is an empirical
+  comparison tagged mathematics, so it is misclassified rather than
+  blocked by a proof.
+recommendation: >-
+  Keep reviewing wave 2 in code order, but screen the title's verb first.
+  An empirical verb ("matches", "recur", "is found") means wave 3. When
+  re-deriving under ADR-047 v2, test any "unique", "only" or "generic"
+  in the title by perturbing the claimed optimum or by a 2 × 2 example.
+  These four batches found most of the scope errors that way.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-234 and THEORY-239: narrow-and-promote. THEORY-234's 'only when' becomes 'when', and its trained-model clause moves to a new QUESTION. THEORY-239 drops 'unique' and states the range of ε, with the counterexample and the non-reversible worked case. Annotate NOTE-770."
+  - "THEORY-196 and THEORY-257: splits. New Active THEORYs hold the exact planar lower bound (LIT-874) and the VAR genericity result with its p = 1 correction (LIT-979). The parents narrow their promote_when and titles. A new QUESTION takes THEORY-196's H^r clause. Annotate NOTE-791 C4."
+notes_for_ledger:
+  - "Exact hyperbolic trigonometry beats small-angle substitutions. cosh d = cosh(r₁ + r₂) sin²(θ/2) + cosh(r₁ − r₂) cos²(θ/2) turns an angle-packing lower bound into two lines with constants (THEORY-196)."
+  - "Minimax uniqueness is fragile. A worst case is attained by one adversarial target, and any encoder that is perfect on that target's plane ties. Test 'the unique minimizer' with a small tilt and the S-lemma dual, min over λ of λ_max(R + λ(S − cI)), which is a few lines of numpy (THEORY-239)."
+  - "Counting arguments: the negative half (more independent equations than unknowns, so the solutions are null) becomes a proof via the incidence-bundle dimension. The positive half (balanced counts, so solutions exist generically) can fail over the reals on open sets. A 2 × 2 rotation is the standard witness (THEORY-257)."
+  - "A fourth and fifth scope error in correct theorems (THEORY-239's uniqueness, THEORY-234's 'only when'). Read 'unique', 'only', 'exactly' and 'generic' in a title against the body's disclaimers before re-deriving."
+  - "Triage-003's eligibility admits empirical THEORYs about mathematical objects (THEORY-254, tangles). Screen the title's verb."
+  - "Worktree isolation: python one-liners with file writes through the Write tool to a path outside the worktree are refused. Write scratch scripts with a heredoc into a scratch directory inside the worktree (here .tmp-b012/, not committed). scipy is not installed, so a grid over λ replaces minimize_scalar."

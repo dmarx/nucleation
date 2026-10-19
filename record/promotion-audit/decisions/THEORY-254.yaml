@@ -1,0 +1,48 @@
+# record/promotion-audit/decisions/THEORY-254.yaml
+id: THEORY-254
+batch: batch-012
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    One small mathematical fact under the title's second clause, checked
+    here. Take an edge-connectivity tangle with axioms T1–T3 (NOTE-814,
+    Assumptions), and a vertex v of degree at least k. Orient every cut of
+    order < k towards the side containing v. This satisfies T1. It
+    satisfies T2, because small sides omit v, so no three of them cover V.
+    It satisfies T3, because a big side {v} would need the cut ({v}, V − v)
+    to have order deg v < k. So every vertex of degree ≥ k is an order-k
+    tangle, in any graph, which is why single high-degree vertices appear.
+    That such tangles show up as communities beside the real ones depends
+    on the author's assignment rule.
+  excluded: >-
+    Both clauses as empirical claims about networks. "Matches network
+    communities only where community structure is strongly delineated" is
+    read by eye from eight points per panel (Fig. 4.31), with no fitted
+    relation or uncertainty (NOTE-814 C2, moderate). It holds only at the
+    low orders that could be computed, and the vertex sets come from one
+    assignment rule. "Recur" is a frequency claim from a handful of
+    networks (C4). The lemma above shows such tangles can exist. It does
+    not show how often they matter.
+evidence:
+  - "NOTE-814 (Read in full, version 1): C2 'eight networks, Fig. 4.31, no fitted statistic'; C3 five of eleven networks; C4 single-vertex case explained in §4.4.2."
+  - "THEORY-254's own 'What this does not say': 'That the relation is measured. Eight points per panel … with no fitted relation or uncertainty.'"
+blockers:
+  - "The promote_when asks for a comparison on many networks with ground-truth groups, a fitted relation with uncertainty, and a second assignment rule. No such study is held. No re-derivation can supply it, because the claim is empirical."
+notes: >-
+  Misclassified into wave 2. It carries the `mathematics` tag (tangle
+  theory), but its title is an empirical comparison. Triage-003's
+  eligibility rule (Proposed, tagged mathematics, with a promote_when)
+  admits empirical THEORYs about mathematical objects. Check the title's
+  verb before treating a mathematics-tagged entry as wave 2: "matches",
+  "recur" and "is found" are empirical. The degree lemma is too small to
+  file on its own, and no entry rests on it. If CLAIM-010's permissiveness
+  objection is revisited, it can be cited from this decision.
+unlocks: []
+next_action: >-
+  None. Retain Proposed until a study like the promote_when's is filed.
+  Move THEORY-254 to wave 3 (source-backed, empirical) if it is reviewed
+  again.
