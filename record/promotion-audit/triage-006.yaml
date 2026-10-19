@@ -1,0 +1,804 @@
+# record/promotion-audit/triage-006.yaml
+# Triage-006: the unqueued Proposed THEORYs re-triaged for formal content by
+# triage_wave3.py (record revision: origin/main at 374ba778, 2026-10-19). It
+# orders review and decides nothing (ADR-047). No candidate here is reviewed.
+#
+# Why: in batches 024-030 the re-derivation route went 17 of 20, and its
+# errors were entries triage-005's `formal` flag missed (THEORY-187, -211,
+# -566, -176), not false positives. That flag needed a formal word in the
+# title AND a theorem or proof named in "What was actually shown".
+#
+# Method. formal_score counts four signals and one penalty; formal = score >= 2.
+#   title          +1  triage-005's title keywords (bound, theorem, exact, ...)
+#   cites          +1  a numbered Theorem, Lemma, Proposition or Corollary
+#   relation       +1  an equation or inequality between expressions, or an
+#                      operator such as ‖·‖, ∑, ∫, ∘ (settings like "d = 6" do
+#                      not count)
+#   derived        +1  a source NOTE's claims-table row says proved,
+#                      derivation or re-derived (not "not re-derived"), and the
+#                      row or the NOTE's version-1 history says "followed step
+#                      by step" or "read in full"
+#   philosophical  -1  the title says thesis, argument, account or should
+# cites and relation read the body without "What this does not say", "What it
+# bears on", "Connections" and HTML comments. Eligible: Proposed and not a
+# candidate or requeued in queue.yaml (161 codes excluded).
+#
+# Lists. formal_route = the top 20 formal-flagged entries by formal_score,
+# then the triage-005 rubric score, then supports, then code (the route's
+# question is formal content, so formal_score leads). control = 5 of the
+# remaining formal-flagged entries by fixed rule: sorted codes, every k-th
+# from k // 2 (control() in the script). formal_signals names what fired.
+#
+# labelled_check: the 30 reviewed wave-3 entries of batches 016/017 and
+# 024-027, scored as they stood when triaged (git archive of 9ca3a0dc for
+# 016/017, 8999ea61 for 024-027). Label 1 = the review's path went through a
+# re-derivation (ADR-047 v2), 0 = by measurement (v3) or retained as argument.
+# The new flag: precision 0.83 (19/23), recall 0.90 (19/21); triage-005's flag
+# on the same entries: 0.84 (16/19), 0.76 (16/21). Misses: THEORY-369 (title
+# only; its equations are settings) and THEORY-176 (relations only). False
+# flags: THEORY-079 and -199 (retained), THEORY-391 (cited theorem, promoted
+# as a measurement), THEORY-690 (argument). The signals and the threshold were
+# chosen with these 30 in view, so the check is FITTED to the same entries
+# and is not evidence of out-of-sample accuracy; the next formal batch is.
+#
+# Known weak spots: the philosophical penalty fired on 11 eligible entries and
+# unflagged two, THEORY-290 (a game-theoretic equilibrium result whose
+# "argument" is debate content) and THEORY-497; it never fired on the
+# labelled set. A formal_score of 2 (53 of the 82 flagged) is the band where
+# the labelled false flags sit.
+eligible: 399
+formal_flagged: 82
+formal_route:
+- code: THEORY-080
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 4
+  formal_signals:
+  - title
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: 'In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over
+    the NTK''s eigenvalues, so on spherical data '
+- code: THEORY-263
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 4
+  formal_signals:
+  - title
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: 'A coding rate that varies with the realised sample and output makes rate-distortion generalisation
+    bounds data-dependent, and with the rate '
+- code: THEORY-293
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 4
+  formal_signals:
+  - title
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: 'For an optimal capacity-bounded learner on a mixture of equally frequent random facts and a second
+    domain, the facts are learned not at all '
+- code: THEORY-321
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 4
+  formal_signals:
+  - title
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: Under repeated DeGroot averaging, a large society's consensus converges to the truth if and only
+    if the largest influence weight vanishes, s
+- code: THEORY-229
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 4
+  formal_signals:
+  - title
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small
+    initialization learns the top eigenvectors o
+- code: THEORY-110
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: 'A set of trained solutions has a centre that is linearly connected, after alignment, to the rest
+    of them: the solution set is a star domain '
+- code: THEORY-228
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: At the population optimum of the spectral contrastive loss, linear-probe error is bounded by the
+    probability that augmentation changes the l
+- code: THEORY-319
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: When two views are redundant for a label, the predictor that infers one view from the other is
+    within εX + 2√(εXεZ) + εZ of the Bayes predic
+- code: THEORY-161
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - relation
+  - derived
+  route: re-derivation
+  supports: 1
+  triage: triage-006
+  note: 'In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a
+    known joint law with the observation, so their '
+- code: THEORY-185
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - cites
+  - relation
+  route: re-derivation
+  supports: 1
+  triage: triage-006
+  note: 'When each binary attribute of a word affects its co-occurrence independently and multiplicatively,
+    the PMI is affine in the attributes with '
+- code: THEORY-197
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted
+    Boltzmann machines is an identity of p
+- code: THEORY-238
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - cites
+  - relation
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: The expected generalization error of an encoder–decoder learner is bounded by the encoder alone,
+    through the KL divergence of its train-and-
+- code: THEORY-266
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: The average generalisation error along an optimisation trajectory is bounded by the rate-distortion
+    function of the trajectory's law given t
+- code: THEORY-270
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: Translation without parallel data is learnable from a plausibility prior over the target language
+    alone, with error falling in the common gr
+- code: THEORY-278
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - cites
+  - relation
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: Under MSE loss a trained classifier stays near the least-squares classifier for its own features,
+    and on that central path, for unconstraine
+- code: THEORY-280
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: The bisimulation metric between two finite Markov chains can be estimated from sampled transitions
+    without a transition model, to accuracy ε
+- code: THEORY-289
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - cites
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: When each round of a fixed-design linear regression is refit to labels generated by the previous
+    fit, keeping every earlier round's data bou
+- code: THEORY-344
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - cites
+  - relation
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: An access method's read, update and memory overheads, each a ratio to the base data alone with
+    a floor of 1.0, are conjectured to trade so t
+- code: THEORY-387
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - cites
+  - relation
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: For recursive Datalog views under set semantics, deleting every derived tuple that has any derivation
+    through a deleted base fact, then rest
+- code: THEORY-019
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - cites
+  - derived
+  route: re-derivation
+  supports: 2
+  triage: triage-006
+  note: 'Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator
+    commuting with a group has eigenspaces built fr'
+control:
+- code: THEORY-162
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 0
+    extends: 0
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 2
+  formal_signals:
+  - cites
+  - derived
+  route: re-derivation
+  supports: 2
+  triage: triage-006
+  note: 'What an utterance does to the context it is used in is part of its meaning, and its truth conditions
+    do not fix it: sentences with the same '
+- code: THEORY-205
+  wave: 3
+  score: 3
+  rubric:
+    bundling: 1
+    depth: 0
+    firsthand: 0
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 3
+  formal_signals:
+  - title
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: For a short-range lattice model on a cylinder, with block and environment as slabs separated by
+    a buffer, the information-bottleneck encoder
+- code: THEORY-275
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 2
+  formal_signals:
+  - relation
+  - derived
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: Directional information measures between two symmetrically coupled units follow the path of a
+    recorded drive, not the symmetry of the coupli
+- code: THEORY-365
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 2
+  formal_signals:
+  - title
+  - relation
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: A stack of proximity graphs on nested random subsets of the data, each element's top layer drawn
+    geometrically, makes greedy search cost gro
+- code: THEORY-578
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+    formal_score: 2
+  formal_signals:
+  - title
+  - relation
+  route: re-derivation
+  supports: 0
+  triage: triage-006
+  note: Between two trained networks that compute nearly the same function, a chain of models minimising
+    the summed Jensen–Shannon divergence betwee
+labelled_check:
+  triage_006:
+    tp: 19
+    fp: 4
+    fn: 2
+    tn: 5
+    precision: 0.83
+    recall: 0.9
+  triage_005:
+    tp: 16
+    fp: 3
+    fn: 5
+    tn: 6
+    precision: 0.84
+    recall: 0.76
+  entries:
+  - code: THEORY-078
+    revision: 9ca3a0dc
+    label: 1
+    outcome: batch-017 split, formal algebra
+    formal: 1
+    formal_score: 4
+    triage_005: 1
+  - code: THEORY-079
+    revision: 9ca3a0dc
+    label: 0
+    outcome: batch-016 retained
+    formal: 1
+    formal_score: 2
+    triage_005: 0
+  - code: THEORY-111
+    revision: 9ca3a0dc
+    label: 1
+    outcome: batch-016 split, formal core
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-169
+    revision: 8999ea61
+    label: 1
+    outcome: batch-024 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-170
+    revision: 9ca3a0dc
+    label: 0
+    outcome: batch-016 retained
+    formal: 0
+    formal_score: 0
+    triage_005: 0
+  - code: THEORY-176
+    revision: 8999ea61
+    label: 1
+    outcome: batch-027 re-derivation
+    formal: 0
+    formal_score: 1
+    triage_005: 0
+  - code: THEORY-182
+    revision: 8999ea61
+    label: 1
+    outcome: batch-024 re-derivation
+    formal: 1
+    formal_score: 4
+    triage_005: 1
+  - code: THEORY-186
+    revision: 8999ea61
+    label: 1
+    outcome: batch-024 re-derivation
+    formal: 1
+    formal_score: 4
+    triage_005: 1
+  - code: THEORY-187
+    revision: 8999ea61
+    label: 1
+    outcome: batch-027 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 0
+  - code: THEORY-195
+    revision: 8999ea61
+    label: 0
+    outcome: batch-027 measurement (v3)
+    formal: 0
+    formal_score: 1
+    triage_005: 0
+  - code: THEORY-199
+    revision: 9ca3a0dc
+    label: 0
+    outcome: batch-017 retained, annealed mean-field only
+    formal: 1
+    formal_score: 2
+    triage_005: 0
+  - code: THEORY-211
+    revision: 8999ea61
+    label: 1
+    outcome: batch-027 re-derivation
+    formal: 1
+    formal_score: 2
+    triage_005: 0
+  - code: THEORY-231
+    revision: 8999ea61
+    label: 1
+    outcome: batch-026 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-283
+    revision: 8999ea61
+    label: 1
+    outcome: batch-024 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-286
+    revision: 8999ea61
+    label: 1
+    outcome: batch-024 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-308
+    revision: 8999ea61
+    label: 1
+    outcome: batch-025 re-derivation
+    formal: 1
+    formal_score: 4
+    triage_005: 1
+  - code: THEORY-309
+    revision: 9ca3a0dc
+    label: 1
+    outcome: batch-017 promoted
+    formal: 1
+    formal_score: 2
+    triage_005: 0
+  - code: THEORY-314
+    revision: 8999ea61
+    label: 1
+    outcome: batch-025 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-320
+    revision: 8999ea61
+    label: 1
+    outcome: batch-025 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-369
+    revision: 9ca3a0dc
+    label: 1
+    outcome: batch-016 narrowed and promoted
+    formal: 0
+    formal_score: 1
+    triage_005: 1
+  - code: THEORY-391
+    revision: 8999ea61
+    label: 0
+    outcome: batch-025 narrowed, by measurement (v3)
+    formal: 1
+    formal_score: 4
+    triage_005: 1
+  - code: THEORY-470
+    revision: 9ca3a0dc
+    label: 0
+    outcome: batch-017 retained
+    formal: 0
+    formal_score: 0
+    triage_005: 0
+  - code: THEORY-472
+    revision: 8999ea61
+    label: 1
+    outcome: batch-025 narrowed, v3 with a re-derived part
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-478
+    revision: 8999ea61
+    label: 1
+    outcome: batch-026 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-481
+    revision: 9ca3a0dc
+    label: 1
+    outcome: batch-016 needs correction, a derivation error
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-566
+    revision: 8999ea61
+    label: 1
+    outcome: batch-027 re-derivation
+    formal: 1
+    formal_score: 3
+    triage_005: 0
+  - code: THEORY-590
+    revision: 8999ea61
+    label: 0
+    outcome: batch-026 argument, retained
+    formal: 0
+    formal_score: 1
+    triage_005: 1
+  - code: THEORY-614
+    revision: 8999ea61
+    label: 1
+    outcome: batch-026 needs correction
+    formal: 1
+    formal_score: 3
+    triage_005: 1
+  - code: THEORY-625
+    revision: 9ca3a0dc
+    label: 0
+    outcome: batch-017 retained
+    formal: 0
+    formal_score: 0
+    triage_005: 0
+  - code: THEORY-690
+    revision: 8999ea61
+    label: 0
+    outcome: batch-026 argument, retained
+    formal: 1
+    formal_score: 2
+    triage_005: 1
