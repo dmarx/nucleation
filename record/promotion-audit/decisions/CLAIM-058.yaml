@@ -1,0 +1,28 @@
+# record/promotion-audit/decisions/CLAIM-058.yaml
+id: CLAIM-058
+batch: batch-028
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The warrant is right. The claim is a methodological proposal
+    (language models give a controlled setting in which the theory's
+    effects can be tested before human studies). Its defeater, a rank
+    correlation of model and human effect patterns below a value fixed
+    in advance, is the right undercut, and nothing has been run.
+    ADR-043's pilot reads that as interpretive.
+  excluded: >-
+    Nothing.
+evidence:
+  - "CLAIM-058 title and defeated_if; no study of model-human effect correlation is filed."
+blockers:
+  - "No matched model and human study; CLAIM-248's objection is open."
+notes: >-
+  A proposal for a test, with the test as its defeater.
+unlocks: []
+next_action: >-
+  None.

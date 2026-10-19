@@ -1,0 +1,41 @@
+# record/promotion-audit/decisions/CLAIM-033.yaml
+id: CLAIM-033
+batch: batch-028
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    Nothing is promoted; the warrant stays interpretive. The correction
+    is to the defeat condition, which does not fit the claim's form. The
+    title is an existence claim ("a translation can broaden ... while
+    narrowing"), with its consequence that loss is not one scalar. Its
+    instances are Jakobson's Russian rendering of "I hired a worker"
+    (LIT-786, NOTE-614: aspect and sex fixed, tense and definiteness
+    dropped) and CASE-012. The current defeater asks for a sampled rate
+    of such trade-offs "no greater than one fixed in advance". A low
+    rate does not defeat a "can": one instance establishes it. The
+    defeater should instead name what would show the instances fail, or
+    that a single scalar orders renderings as judges do.
+  excluded: >-
+    Whether trade-offs are common. That is an empirical question the
+    claim does not ask, and it is the part the old defeater tested.
+    THEORY-170 (Jakobson's thesis, Proposed) stays a prior statement,
+    not a ground the claim leans on.
+evidence:
+  - "CLAIM-033 body: 'Jakobson (1959) makes the same point at the level of grammar (LIT-786, NOTE-614, THEORY-170) ... a translation adds information along one dimension while losing it along another.'"
+  - "The defeater's 'at a rate no greater than one fixed in advance' tests frequency, not possibility."
+  - "ADR-043: interpretive covers conceptual argument and synthesis; the instances are readings of grammar and of CASE-012, not a run study."
+blockers:
+  - "None for the correction. The status stays Proposed: THEORY-170 and CLAIM-042, on which it rests, are Proposed, and CLAIM-238's objection is open."
+notes: >-
+  A defeater shaped for a frequency claim on an existence claim. Check the
+  quantifier in the title before the cue words in the defeater.
+unlocks: []
+next_action: >-
+  A correction PR: the defeat condition is restated to fit the existence
+  claim, with a dated history entry appended last. Warrant and status
+  unchanged.

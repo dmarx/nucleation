@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/CLAIM-074.yaml
+id: CLAIM-074
+batch: batch-028
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    The warrant is right. The claim distinguishes three fidelity
+    quantities and argues they differ; the defeater, that measured
+    fidelity is the same across interpreters with different exposure,
+    would make the distinction idle, and nothing has been measured
+    (CASE-005's Experiment 3 is proposed, not run). That is interpretive
+    by ADR-043's pilot.
+  excluded: >-
+    The title's premise, "a frame given in context is transient while an
+    adaptation to it persists". The claim's own body (the in-context-
+    learning readings, LIT-796 and LIT-801) says that "does not hold as
+    a dichotomy, and the claim needs stating in terms of where the
+    change happens". That is a scope correction to the title, outside a
+    warrant sweep; it is noted here for a regular review.
+evidence:
+  - "CLAIM-074 body: 'So \"transient means context, persistent means adaptation\" does not hold as a dichotomy, and the claim needs stating in terms of where the change happens.'"
+  - "CASE-005 Experiment 3 is proposed, not run."
+blockers:
+  - "The title's transient/persistent premise, contradicted by the claim's own body; CLAIM-118 (Proposed) is a premise."
+notes: >-
+  A title its own body has already corrected. Grep bodies for 'needs
+  stating' and 'does not hold' in a later pass.
+unlocks: []
+next_action: >-
+  Queue for a regular review of the title's premise (not part of this
+  sweep).

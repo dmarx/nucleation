@@ -1,0 +1,89 @@
+# record/promotion-audit/batches/batch-028.yaml
+batch: batch-028
+date: '2026-10-19'
+kind: warrant-sweep
+wave: 5
+record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+selection: >-
+  A warrant-correction sweep, not a promotion batch (batch 022's
+  recommendation). warrant_sweep.py lists the Proposed CLAIMs with
+  `warrant: interpretive` whose `defeated_if` names an empirical procedure
+  or result, sorted by code; the first ten were reviewed. Statuses never
+  change in a sweep. Run in parallel with other batch sessions; the parent
+  session integrates this file into queue.yaml and NOTES.md.
+sweep:
+  script: warrant_sweep.py
+  cues: >-
+    study or studies, survey, experiment, sample, replication, empirical
+    (not "empirical model"), finding(s), measured or measurement, observed
+    or observation, corpus, statistic(s), correlation, reception study,
+    independent judges. Generic words (evidence, test, rate, data, found)
+    were tried first and gave 94 hits, most of them readings; they were
+    dropped.
+  count: 37
+  codes: [CLAIM-033, CLAIM-046, CLAIM-056, CLAIM-058, CLAIM-063, CLAIM-074, CLAIM-115,
+    CLAIM-117, CLAIM-125, CLAIM-127, CLAIM-129, CLAIM-130, CLAIM-135, CLAIM-139, CLAIM-142,
+    CLAIM-143, CLAIM-147, CLAIM-156, CLAIM-157, CLAIM-162, CLAIM-169, CLAIM-175, CLAIM-199,
+    CLAIM-201, CLAIM-202, CLAIM-204, CLAIM-209, CLAIM-213, CLAIM-215, CLAIM-217, CLAIM-220,
+    CLAIM-265, CLAIM-271, CLAIM-298, CLAIM-301, CLAIM-358, CLAIM-360]
+reviewed: [CLAIM-033, CLAIM-046, CLAIM-056, CLAIM-058, CLAIM-063, CLAIM-074, CLAIM-115,
+  CLAIM-117, CLAIM-125, CLAIM-127]
+outcomes:
+  needs-correction: [CLAIM-033]
+  retain-proposed: [CLAIM-046, CLAIM-056, CLAIM-058, CLAIM-063, CLAIM-074, CLAIM-115,
+    CLAIM-117, CLAIM-125, CLAIM-127]
+yield: 1 of 10 needed a correction (a defeater that did not fit its claim); 0 warrants were wrong
+finding: >-
+  The sweep's premise was wrong. Batch 022 read an interpretive claim with an
+  empirical defeat condition as a misclassified warrant, and corrected
+  CLAIM-052 to empirical in #204. But ADR-043's own pilot reads such claims
+  the other way: CLAIM-117's note of 2026-10-15 kept it interpretive because
+  it is "untested and, with no observation under it, interpretive", and
+  batches 002 and 004 followed that reading for CLAIM-063 and CLAIM-056.
+  ADR-043 defines `empirical` as "supported by observation or experiment",
+  in the present tense. On that reading every one of the ten has the right
+  warrant, and the empirical defeater is simply what would settle a claim
+  the record has not tested. The one real defect was a defeater whose form
+  did not fit its claim (CLAIM-033: a frequency test on an existence claim).
+recommendation: >-
+  Settle the owner question below before sweeping the other 27. If the
+  pilot's reading stands, the sweep becomes a defeater-fit check (does the
+  defeater have the claim's quantifier?), and CLAIM-052's correction in
+  #204 should be reverted to interpretive. If batch 022's reading stands,
+  ADR-043 needs an amendment saying `empirical` covers claims whose support
+  would be observational, and CLAIM-117, CLAIM-063 and CLAIM-056 (and most
+  of the 37) become empirical.
+owner_questions:
+  - >-
+    Does `warrant` say how a claim is supported now, or how it would have to
+    be? ADR-043's pilot (CLAIM-117's note, and batches 002 and 004 after
+    it) says now: an untested empirical claim is interpretive. Batch 022
+    (#204, CLAIM-052) said would be: an untested empirical claim is
+    empirical. The two readings disagree on most of the 37 claims this
+    sweep lists, and #204 already applied the second one.
+follow_up_prs:
+  - "CLAIM-033: restate the defeat condition to fit the existence claim; warrant and status unchanged."
+notes_for_ledger:
+  - >-
+    Two readings of ADR-043 are in use. The pilot's: an empirical claim with
+    no observation under it is interpretive (CLAIM-117, CLAIM-063, CLAIM-056).
+    Batch 022's: it is empirical (CLAIM-052, #204). Until the owner rules,
+    don't correct warrants in either direction on that ground alone.
+  - >-
+    Term-of-art false positives. "Empirical model" (contextuality) and
+    "experiment" (Blackwell's statistical experiments) fire the cue list
+    without naming anything observed. warrant_sweep.py excludes the first;
+    the second needs a reading.
+  - >-
+    Check the defeater's quantifier against the title's. An existence title
+    ("can") with a frequency defeater ("at a rate no greater than") is a
+    mismatch to correct, whatever the warrant.
+  - >-
+    A title already corrected by its own body. CLAIM-074's body says the
+    transient/persistent dichotomy in its title "does not hold"; the title
+    is unchanged. Grep bodies for "does not hold" or "needs stating" in a
+    later pass.
+  - >-
+    Split parents and earlier corrections reappear in any mechanical sweep
+    (CLAIM-056, CLAIM-063). Skip codes whose last decision was carried out
+    unless their entry changed since.

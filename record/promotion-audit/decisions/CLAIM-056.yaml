@@ -1,36 +1,35 @@
 # record/promotion-audit/decisions/CLAIM-056.yaml
 id: CLAIM-056
-batch: batch-004
+batch: batch-028
 reviewed: '2026-10-19'
-reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
 current_status: Proposed
-warrant: demonstrated
-disposition: needs-correction
+warrant: interpretive
+supersedes_review:
+  batch: batch-004
+  disposition: needs-correction
+  why: >-
+    Batch 004's correction was carried out: CLAIM-056 is at version 2,
+    interpretive, with the formal recursion held by CLAIM-267
+    (Active). Re-reviewed here only because the sweep listed it.
+disposition: retain-proposed
 confidence: high
 scope:
   accepted: >-
-    Nothing new to promote. The recursion, its three regimes and the
-    total-variation restriction are CLAIM-267's since the split of
-    2026-10-13, and PR #167 promotes CLAIM-267 with exact witnesses.
+    The warrant is right after batch 004's correction. The defeater, on
+    end-to-end drift in serial reconstruction chains, is empirical with
+    no observation under it; ADR-043's pilot reads that as interpretive,
+    as batch 004 did.
   excluded: >-
-    What this claim adds to CLAIM-267: that transport errors in serial
-    reconstruction chains behave so, with the discrepancy read as a transport
-    error against a reference transport (CLAIM-106, Proposed). Its defeat
-    condition is empirical: "end-to-end drift is not predicted by per-step
-    discrepancies combined with the measured sensitivity of later steps".
-    No measurement of either is held.
+    Nothing further.
 evidence:
-  - "NOTES pattern 1: a demonstrated warrant over an empirical defeat condition. The same finding as CLAIM-193 against CLAIM-269 (batch 003)."
-  - "Objected to by CLAIM-031 and CLAIM-208."
-  - "PR #167 changes nothing here. CLAIM-267 going Active removes one Proposed premise, and CLAIM-106 remains."
+  - "CLAIM-056 version 2 history note (batch 004)."
+  - "CLAIM-267 (Active) holds the recursion and its three regimes."
 blockers:
-  - >-
-    The warrant is misclassified. It should be interpretive, since an
-    empirical hypothesis with no observation under it is interpretive
-    (ADR-043). After that it is retained Proposed, until CLAIM-106 is
-    decided and some chain measures per-step discrepancy and later-step
-    sensitivity against end-to-end drift. The objections CLAIM-031 and
-    CLAIM-208 also need answers.
-unlocks:
-  - "CLAIM-081 and CLAIM-059 rest on it. Neither unlocks until it is decided."
-next_action: Correction PR. Set the warrant to interpretive and note that the demonstrated content is CLAIM-267's. The status is unchanged.
+  - "No serial-reconstruction study; CLAIM-106 (Proposed) is a premise; CLAIM-031 and CLAIM-208 object."
+notes: >-
+  Already corrected; the sweep re-finds every pattern-1 correction, by
+  design.
+unlocks: []
+next_action: >-
+  None.

@@ -1,0 +1,31 @@
+# record/promotion-audit/decisions/CLAIM-127.yaml
+id: CLAIM-127
+batch: batch-028
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The warrant is right. The conclusion is a modelling proposal (a
+    framing intervention should index the empirical model, not enter its
+    cover). Its defeater asks whether every framing intervention in the
+    manuscript's planned experiments reduces to a cover context without
+    changing any verdict: a formal question about designs, not an
+    observation.
+  excluded: >-
+    The first clause, that conditioning and the two interventions are
+    different operations, which is Pearl's distinction and demonstrated
+    (LIT-894). It could be a demonstrated CLAIM if something leans on
+    it; THEORY-419 is Proposed on a skim.
+evidence:
+  - "CLAIM-127 body, A129 §1 on the three operations; defeated_if."
+blockers:
+  - "THEORY-419 is Proposed on a skim of Pearl."
+notes: >-
+  A false positive: 'experiments' names planned designs.
+unlocks: []
+next_action: >-
+  None.
