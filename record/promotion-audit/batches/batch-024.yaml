@@ -1,0 +1,56 @@
+# record/promotion-audit/batches/batch-024.yaml
+batch: batch-024
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+selection: >-
+  The first five of triage-005's re-derivation route, in code order:
+  THEORY-169, THEORY-182, THEORY-186, THEORY-283, THEORY-286. Run in
+  parallel with other batch sessions; the parent session integrates this
+  file into queue.yaml and NOTES.md.
+reviewed: [THEORY-169, THEORY-182, THEORY-186, THEORY-283, THEORY-286]
+outcomes:
+  narrow-and-promote: [THEORY-169, THEORY-283]
+  split: [THEORY-182, THEORY-186, THEORY-286]
+yield: 5 of 5 found a promotion path
+rubric_vs_outcome:
+  - "All five titles assert theorems (batch 020's sort rule), and all five yielded. triage-005's route flag was right on every one."
+  - "Four of five were the batch-005 shape: a proved core under stated conditions joined to a simulated, approximate or empirical extension."
+finding: >-
+  The re-derivation route holds up at 5 of 5. Three splits (THEORY-182,
+  -186, -286) and two narrowings (THEORY-169, -283) each separate what was
+  proved under stated conditions from a carry-over to trained models or
+  general starts. Four cores were re-derived here (THEORY-169's three
+  identities, THEORY-182's minimisers and aligned dynamics, THEORY-186's
+  exact solution and the shallow contrast, THEORY-286's UF-SVM geometry by a
+  dual certificate). THEORY-283 is promoted on a full reading, with only a
+  consistency check of its rate.
+recommendation: >-
+  Continue the re-derivation route in code order. THEORY-182 and THEORY-186
+  share the logistic per-mode mechanism, so THEORY-187 and THEORY-229 (same
+  mechanism, Proposed) are natural next candidates if not already queued.
+owner_questions: []
+promotion_prs: []
+follow_up_prs:
+  - "THEORY-169 and THEORY-283: narrow-and-promote. THEORY-169 to unnormalized linear attention and softmax attention, with the three re-derivations as a dated note; THEORY-283 to the estimators and the spectral-first-layer network. Each promote_when moves to a new QUESTION."
+  - "THEORY-182, THEORY-186 and THEORY-286: splits. New Active THEORYs for the quartic proxy's minimisers and aligned dynamics (LIT-855), the decoupled balanced exact solution with the shallow contrast (LIT-862, LIT-864), and the UF-SVM geometry under STEP imbalance (LIT-994), each with its re-derivation as a dated note. Parents extend them and stay Proposed."
+notes_for_ledger:
+  - >-
+    The re-derivation route went 5 of 5. Every title asserted a theorem, and
+    each disposition separated a proved core from an extension to trained
+    models, random starts or real data.
+  - >-
+    A dual certificate is a short route to max-margin geometry claims. For
+    min ‖X‖_* under margin constraints, the polar factor of the candidate is
+    a certificate whenever its columns are nonnegative combinations of the
+    constraint normals, which reduces to a sign check on (ẐẐᵀ)^{+1/2}
+    (THEORY-286). Reusable for other unconstrained-features results.
+  - >-
+    "Linear attention" in a title should say whether it is normalized. Sun
+    et al.'s identity holds for the unnormalized form only (THEORY-169).
+  - >-
+    Logistic per-mode dynamics recur: THEORY-182 (tied symmetric
+    factorization) and THEORY-186 (two-layer linear) reduce to
+    u̇ = 2u(λ − u) once the start is aligned. A split core of this shape
+    takes a few lines to re-derive.
