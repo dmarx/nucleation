@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 56
+version: 57
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
@@ -686,6 +686,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-007
   decision: decisions/THEORY-009.yaml
+  carried_out_in: '#181'
 - code: THEORY-106
   wave: 2
   score: null
@@ -702,6 +703,7 @@ candidates:
   disposition: promote
   batch: batch-007
   decision: decisions/THEORY-233.yaml
+  carried_out_in: '#181'
 - code: THEORY-297
   wave: 2
   score: null
@@ -710,6 +712,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-007
   decision: decisions/THEORY-297.yaml
+  carried_out_in: '#182'
 - code: THEORY-323
   wave: 2
   score: null
@@ -718,6 +721,7 @@ candidates:
   disposition: split
   batch: batch-007
   decision: decisions/THEORY-323.yaml
+  carried_out_in: '#182'
 history:
 - version: 1
   date: '2026-10-19'
@@ -926,4 +930,7 @@ history:
   date: '2026-10-19'
   note: 'carried_out_in #180 for THEORY-247 and THEORY-206 (narrow-and-promote; QUESTION-tmpg2gry holds
     THEORY-206''s open cases). Batch 006''s PRs are complete: #179, #180.'
+- version: 57
+  date: '2026-10-19'
+  note: 'carried_out_in #181 (THEORY-009, -233) and #182 (THEORY-297, -323). Batch 007''s PRs are complete.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
