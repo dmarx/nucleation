@@ -32,7 +32,6 @@ summary: >-
   term.
 ---
 <!-- inactive-ok-file: LIT-520 — Unavailable, no lawful full text; named as the survey of the MEP literature, not leaned on -->
-<!-- inactive-ok-file: THEORY-026 — Proposed; named to say this reading has no bearing on it, not leaned on -->
 
 # NOTE-426: Information theory explanation of the fluctuation theorem, maximum entropy production and self-organized criticality in non-equilibrium stationary states
 

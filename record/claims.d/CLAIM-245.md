@@ -33,7 +33,7 @@ summary: >-
   about no-signalling models.
 ---
 <!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: THEORY-174 THEORY-177 THEORY-168 — Proposed; cited as the readings whose simulations, signalling measure and representation-dependence the examples use, not as settled -->
+<!-- inactive-ok-file: THEORY-174 THEORY-168 — Proposed; cited as the readings whose simulations, signalling measure and representation-dependence the examples use, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; cited for the reading of its headline these examples bear on, open -->
 
 # CLAIM-245: Under Contextuality-by-Default, a deterministic context-wise recoding can make a noncontextual signalling source maximally contextual, or turn a contextual source into pure signalling, so per-content signalling is not monotone under such maps and the quantity to bound is joint overlap discrepancy

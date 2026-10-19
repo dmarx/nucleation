@@ -23,7 +23,7 @@ summary: >-
   bears on whether people's interpretations are contextual.
 ---
 
-<!-- inactive-ok-file: THEORY-013 THEORY-177 — Proposed; the account these studies bear on and the follow-up's account, cited as open -->
+<!-- inactive-ok-file: THEORY-013 — Proposed; the account these studies bear on and the follow-up's account, cited as open -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 CLAIM-044 — Proposed; named for what these readings bear on, cited as open -->
 
 # THEORY-623: In the two tests of contextuality in language data that the record has read, the contextuality is put there by the experimenter or not secured: meaning-selection models of ambiguous phrases estimated from corpora are all signalling and their two Contextuality-by-Default verdicts are plausibly noncontextual by their own bootstrap, while BERT's 52 million anaphora models have a support fixed by the sentence schema, so whether each counts as contextual depends only on how uncertain the model's three referent choices are

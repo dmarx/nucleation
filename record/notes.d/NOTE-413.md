@@ -28,7 +28,6 @@ summary: >-
   gives a heat fluctuation theorem and Gaussians with variance twice the
   mean.
 ---
-<!-- inactive-ok-file: THEORY-026 — Proposed; named as the account this reading bears on, not leaned on -->
 
 # NOTE-413: Entropy production fluctuation theorem and the nonequilibrium work relation for free energy differences
 

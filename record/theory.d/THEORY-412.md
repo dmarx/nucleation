@@ -41,7 +41,7 @@ summary: >-
   reason. "Adapted" here means absorbing the drive's work, nothing more.
 ---
 
-<!-- inactive-ok-file: THEORY-026 THEORY-072 THEORY-532 THEORY-671 — Proposed; named as accounts this one is contrasted with, not leaned on -->
+<!-- inactive-ok-file: THEORY-072 THEORY-532 THEORY-671 — Proposed; named as accounts this one is contrasted with, not leaned on -->
 
 # THEORY-412: Driven matter tends toward states that look adapted to the drive, with no replication needed: of two outcomes of a system driven by a fixed external field, equal in internal entropy and in the probability of reversal, the likelier is the one whose formation absorbed work from the drive and dissipated it more reliably
 

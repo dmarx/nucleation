@@ -34,7 +34,7 @@ summary: >-
   not reproduced by the null it describes.
 ---
 
-<!-- inactive-ok-file: THEORY-026 THEORY-043 — Proposed; named as the accounts this reading is placed against, not as support -->
+<!-- inactive-ok-file: THEORY-043 — Proposed; named as the accounts this reading is placed against, not as support -->
 
 <!-- inactive-ok-file: LIT-530 — Unavailable: Schrödinger is unread; named because the paper takes its epigraph and question from it, not leaned on -->
 

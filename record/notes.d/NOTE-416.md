@@ -32,7 +32,7 @@ summary: >-
   reported, not shown.
 ---
 
-<!-- inactive-ok-file: THEORY-026 THEORY-030 — Proposed; named as the accounts this reading is contrasted with, not as support -->
+<!-- inactive-ok-file: THEORY-030 — Proposed; named as the accounts this reading is contrasted with, not as support -->
 
 # NOTE-416: Statistical Physics of Adaptation
 

@@ -1,22 +1,21 @@
 ---
 number: 294
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpye6gw
-promote_when: >-
-  A result beyond the one-dimensional case where the NTK and the NNGP
-  differ by more than a within-class rescaling. That could be a derivation
-  for multi-dimensional or multi-class data, or a measurement of NC1, with
-  a stated metric, on networks trained in a verified lazy regime (the
-  tangent kernel measured to stay fixed) on real data. The measurement
-  should show NC1 staying at its initial value while the same
-  architecture, trained out of the lazy regime, collapses. The account is
-  refuted by a lazy-regime network, kernel verified static, whose hidden
-  features' NC1 falls substantially below its value at initialization.
-  More Gaussian-mixture simulations of NNGP against NTK cannot settle it,
-  and neither can finite networks whose regime is not checked.
-title: 'Lazy-regime training of a wide shallow network does not collapse its features: on two-class Gaussian data the expected within-class variability of the NTK features is that of the NNGP features at initialization'
-version: 1
+title: "For a wide two-layer ReLU network with zero bias on one-dimensional data whose two classes lie on opposite sides of the origin, the tangent kernel is a constant multiple of the initialization kernel, so lazy training leaves the within-class variability of its features, NC1, where initialization put it"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-294 (batch 045, ADR-047 v2). The dated note below re-derives
+    Theorem 5.1: both kernels are a constant times x·x′ within a class and
+    zero across, and NC1 is a ratio of linear functionals of the kernel, so
+    it is unchanged. The title is held to that setting; "does not collapse
+    its features" in general and "on two-class Gaussian data" are dropped.
+    The promote_when moves to QUESTION-tmpx46z2.
 tags:
 - learning-theory
 - representation-learning
@@ -26,19 +25,19 @@ source:
 answers:
 - QUESTION-051
 summary: >-
-  Kothapalli & Tirer (2024), [LIT-985](../literature.d/LIT-985.md), read in [NOTE-774](../notes.d/NOTE-774.md). NC1 =
-  tr Σ_W / tr Σ_B of kernel-defined features is a closed function of the
+  Kothapalli & Tirer (2024), [LIT-985](../literature.d/LIT-985.md), read in [NOTE-774](../notes.d/NOTE-774.md). NC1 = tr Σ_W / tr
+  Σ_B of kernel-defined features is a ratio of linear functionals of the
   kernel matrix (Theorem 4.1). For one-dimensional data, two classes on
-  opposite sides of the origin and zero bias, the ReLU NTK of a wide
-  two-layer net is a within-class rescaling of the NNGP kernel. So the
-  expected NC1 is the same (Theorem 5.1). In higher dimensions it is
-  measured no lower, and for ReLU higher. A narrow theorem with a
-  suggestive generalization. The inference that collapse requires feature
+  opposite sides of the origin and zero bias, the ReLU tangent kernel of a
+  wide two-layer net is a constant multiple of the NNGP kernel, so NC1 is
+  the same (Theorem 5.1, re-derived). In higher dimensions it is measured
+  no lower, and for ReLU higher; whether lazy training leaves NC1 in place
+  there is [QUESTION-tmpx46z2](../questions.d/QUESTION-tmpx46z2.md). The inference that collapse requires feature
   learning is the reading's, not proved.
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-212 THEORY-286 — Proposed; the record's statement of collapse, its lazy-versus-rich regime and NTK-spectrum accounts, and the two UFM accounts filed today -->
 
-# THEORY-294: Lazy-regime training of a wide shallow network does not collapse its features: on two-class Gaussian data the expected within-class variability of the NTK features is that of the NNGP features at initialization
+# THEORY-294: For a wide two-layer ReLU network with zero bias on one-dimensional data whose two classes lie on opposite sides of the origin, the tangent kernel is a constant multiple of the initialization kernel, so lazy training leaves the within-class variability of its features, NC1, where initialization put it
 
 ## Source
 
@@ -117,3 +116,32 @@ dimension, as the finite nets sometimes do.
 - **[THEORY-083](THEORY-083.md).** If this account holds generally, the terminal-phase
   collapse [THEORY-083](THEORY-083.md) measures is a signature of training outside the lazy
   regime.
+
+## Note of 2026-10-19: Theorem 5.1, re-derived
+
+Re-derived for the promotion audit (batch 045, [ADR-047](../decisions.d/ADR-047.md) v2), in the
+theorem's setting. The network is two-layer ReLU in the infinite-width
+limit with zero bias. The inputs are one-dimensional, in two classes, and
+every product x·x′ of inputs from different classes is negative.
+
+1. **Both kernels are homogeneous.** For scalar inputs and
+   w ~ N(0, σ_w²), relu(wx)·relu(wx′) is zero whenever x and x′ have
+   opposite signs. When they share a sign it is w²·xx′·1{wx > 0}. So the
+   NNGP post-activation kernel is c₁·xx′ within a class and 0 across. The
+   weight-gradient term of the tangent kernel is
+   E[a²]·P(wx > 0, wx′ > 0)·xx′, which is likewise c₂·xx′ within a class
+   and 0 across. So the tangent kernel is κ times the NNGP kernel,
+   entry by entry, for a constant κ > 0. In the paper's parametrisation
+   κ = σ_w² + 1 (Eqs. 54 and 56).
+2. **NC1 does not see the constant.** By Theorem 4.1, tr Σ_W and
+   tr Σ_B of kernel features are linear functionals of the kernel matrix.
+   Multiplying the kernel by κ multiplies both by κ and leaves their ratio
+   unchanged.
+
+So NC1 of the tangent-kernel features equals NC1 of the
+initialization-kernel features for every sample that meets the sign
+condition, not only in expectation. Eq. 57's closed form follows, with
+its correction for samples where some cross-class product is not
+negative. Nothing in the argument survives once the kernels stop being
+proportional, as they do beyond one dimension. That wider case, which the
+promote_when asked for, is [QUESTION-tmpx46z2](../questions.d/QUESTION-tmpx46z2.md).

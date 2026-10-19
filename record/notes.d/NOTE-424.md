@@ -40,7 +40,6 @@ summary: >-
 <!-- inactive-ok-file: THEORY-072 — Proposed; named as the account that now covers this note's candidate, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-537 — Unavailable, no lawful full text; Glansdorff & Prigogine, cited as the source the lecture defers its proofs to, and for its own p. 108 sentence quoted in Cross & Hohenberg -->
 <!-- inactive-ok-file: LIT-524 — Unavailable, no lawful full text; Nicolis & Prigogine, cited as the source of the Brusselator chapter the lecture defers to -->
-<!-- inactive-ok-file: THEORY-026 — Proposed; named to say this lecture does not bear on it -->
 
 # NOTE-424: Time, Structure and Fluctuations
 
