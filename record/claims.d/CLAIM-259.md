@@ -28,6 +28,7 @@ uses:
 - TERM-043
 rests_on:
 - CLAIM-326
+- CLAIM-tmpew698
 summary: >-
   The record's repair, on 2026-10-10, of A86's D_Q after [CLAIM-218](CLAIM-218.md).
   Define D⁺_Q(U → V; π) = sup over q in Q of [r_q,π(V) − r_q,π(U)]⁺, with

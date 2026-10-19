@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpeqvy4
 title: 'Observational fidelity, as D_obs measures it, is a property of a rendering procedure over a class of source items, tested by one kernel family fitted on some items and scored on others, with the target term the readers'' response averaged over the procedure''s output; one source–target pair does not identify it, and a single rendering is judged as a sample of its procedure or by another measure'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -15,8 +15,21 @@ history:
     The body already said 'It does not say a single translation cannot
     be judged, only that this measure does not judge it.' The
     derivation, the defeat condition and the body are unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Split at the owner's direction, carrying out the promotion audit's
+    decision (record/promotion-audit/decisions/CLAIM-228.yaml, batch 014,
+    ADR-047). Its derivations (the across-items exclusion of constant
+    kernels, exact fit as a garbling, and deficiency as a finite
+    linear programme) are now CLAIM-tmppwjei, demonstrated and Active.
+    This claim rests on it. What it keeps is the proposal that
+    fidelity so restated is informative, and its defeat condition is
+    a study (CASE-055). So its warrant is corrected from demonstrated to
+    empirical (ADR-043). The title, body and defeat condition are
+    unchanged, and the status stays Proposed.
 role: thesis
-warrant: demonstrated
+warrant: empirical
 defeated_if: >-
   In the discriminating study (CASE-055), held-out observational
   distortion, with one kernel family fixed across a class of items, does
@@ -31,6 +44,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
 - CLAIM-011
+- CLAIM-tmppwjei
 grounds:
 - THEORY-156
 complements:
@@ -161,3 +175,10 @@ stated as such."
 - It does not settle where the contexts and their correspondence τ come
   from ([QUESTION-005](../questions.d/QUESTION-005.md)), nor that the contexts are fine enough to see the
   pairing of items with renderings ([CLAIM-005](CLAIM-005.md)'s note of 2026-10-10).
+
+## Note of 2026-10-19: the derivations, split off
+
+The three derivations in "The claim", the constant-kernel exclusion, exact
+fit as a garbling and the finite deficiency computation, are now
+[CLAIM-tmppwjei](CLAIM-tmppwjei.md), demonstrated and Active. This claim keeps the proposal and
+its empirical test.

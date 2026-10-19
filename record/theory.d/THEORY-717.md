@@ -40,6 +40,8 @@ supports:
 - CLAIM-237
 - CLAIM-323
 - CLAIM-326
+- CLAIM-tmpew698
+- CLAIM-tmppwjei
 ---
 <!-- inactive-ok-file: THEORY-156 — Proposed; the general case this one was split from and that extends it, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; named as where the quantitative question lives, not read -->
