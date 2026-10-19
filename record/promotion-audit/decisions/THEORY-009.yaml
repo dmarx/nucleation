@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-009.yaml
+id: THEORY-009
+batch: batch-007
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+triage: triage-002-control
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    A reading of the two positive-pair papers, each read closely. Johnson et
+    al. (LIT-258, NOTE-751, App. C and the proof of Thm 3.2) get the
+    orthogonal diagonalization of D^(−½)P D^(−½) from the symmetry of
+    P_(A,A). M is a Gram matrix BᵀB because both views are drawn
+    independently from the same p(A|Z). HaoChen et al. (LIT-249, NOTE-740,
+    App. F) apply the spectral theorem to k(u,v) = w(u,v)/√(w(u)w(v)), whose
+    symmetry follows from w(u,v) = w(v,u). Neither paper invokes Riesz, and
+    the record's own adjoint step for integral operators is CLAIM-291.
+  excluded: >-
+    The title's generalisation to "spectral self-supervised learning". The
+    body itself names three routes in the family where the symmetry does not
+    come from the positive-pair distribution. Simon et al. (LIT-242) get it
+    by symmetrizing the loss. Pfau et al. (LIT-252) take it as a precondition
+    on k. Zhai (LIT-975, THEORY-239) gets self-adjointness by composing the
+    conditional-expectation operator with its adjoint, and version 3's note
+    says this "is restated" as the mechanism. So as titled the claim is
+    contradicted by its own body. Also excluded: the asymmetric-objective
+    case (BYOL, SimSiam), which the promote_when is about and which the body
+    already lists under "What this does not say".
+evidence:
+  - "The body's own exceptions: Simon et al. (eq. 4, §5.2), Pfau et al. (§3.2), and the 'sharper statement of the mechanism' paragraph on LIT-975."
+  - "History version 3: 'The mechanism is restated: the thesis gets self-adjointness by composing the conditional-expectation operator with its adjoint, not from symmetry of the pair'."
+  - "The promote_when asks for a published analysis of an asymmetric objective. That tests an extension the body disclaims, not the reading the THEORY states, the same bundling as THEORY-155's (batch-000)."
+blockers: []
+notes: >-
+  Two kinds of result are bundled. One is the reading of the two
+  positive-pair papers, which is done and checked. The other is the open
+  question of what replaces eigenfunctions for asymmetric objectives. The
+  narrowing promotes the first. The second goes to a QUESTION carrying the
+  promote_when's text and its near misses (LIT-228, LIT-242, LIT-975)
+  unchanged. Confidence is medium because the THEORY is a reading of
+  sources, not a theorem; the promotion is of the reading's accuracy.
+unlocks:
+  - "THEORY-007, which this extends, and QUESTION-052, which it answers. Re-check QUESTION-052's status after the narrowing."
+next_action: >-
+  Narrow-and-promote PR. Restate the title so that it covers the
+  positive-pair papers, where self-adjointness comes from the symmetry of
+  the positive-pair distribution and Riesz is not used, and so that it names
+  symmetrized losses, kernel preconditions and the composition with an
+  adjoint as the family's other routes. File the asymmetric-objective
+  question as a QUESTION with the promote_when's text. Remove the
+  promote_when and set Active.
