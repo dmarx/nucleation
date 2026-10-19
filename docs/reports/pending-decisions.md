@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**843 document(s) awaiting a decision.**
+**842 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 843.
+95 of the 842.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-510 of the 843.
+510 of the 842.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -628,7 +628,7 @@
 
 ## ADRs
 
-2 of the 843.
+2 of the 842.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -637,7 +637,7 @@
 
 ## QUESTIONs
 
-9 of the 843.
+9 of the 842.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -653,7 +653,7 @@
 
 ## CLAIMs
 
-222 of the 843.
+221 of the 842.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -847,7 +847,6 @@
 | 2026-10-15 | Proposed | [CLAIM-326](../../record/claims.d/CLAIM-326.md) | 5 | 5 | With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order over finitely many states, and has A86's D_Q, with the identity on tasks, as its symmetrization |
 | 2026-10-15 | Proposed | [CLAIM-317](../../record/claims.d/CLAIM-317.md) | 4 | 3 | Self-presentations that differ by audience do no harm while the audiences are kept apart; people keep them apart and script the occasions where they must meet, and broadcast and networked media bring them together unchosen, which is when the presentations collide |
 | 2026-10-15 | Proposed | [CLAIM-324](../../record/claims.d/CLAIM-324.md) | 3 | 3 | In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument's items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost |
-| 2026-10-15 | Proposed | [CLAIM-313](../../record/claims.d/CLAIM-313.md) | 2 | 0 | A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries |
 | 2026-10-15 | Proposed | [CLAIM-314](../../record/claims.d/CLAIM-314.md) | 2 | 0 | Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent |
 | 2026-10-16 | Proposed | [CLAIM-341](../../record/claims.d/CLAIM-341.md) | 64 | 61 | The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active |
 | 2026-10-16 | Proposed | [CLAIM-342](../../record/claims.d/CLAIM-342.md) | 55 | 51 | What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available |
@@ -882,7 +881,7 @@
 
 ## CASEs
 
-1 of the 843.
+1 of the 842.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -890,7 +889,7 @@
 
 ## TERMs
 
-2 of the 843.
+2 of the 842.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -899,7 +898,7 @@
 
 ## ARGs
 
-2 of the 843.
+2 of the 842.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
