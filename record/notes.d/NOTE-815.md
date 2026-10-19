@@ -26,7 +26,7 @@ summary: >-
   hold their test loss over five to eight rounds; a VAE's still rises,
   more slowly.
 ---
-<!-- inactive-ok-file: CLAIM-050 CLAIM-056 CLAIM-081 CLAIM-199 THEORY-155 THEORY-289 — Proposed; the claims and accounts this reading bears on, and the one it produces, open -->
+<!-- inactive-ok-file: CLAIM-050 CLAIM-056 CLAIM-081 CLAIM-199 THEORY-155 — Proposed; the claims and accounts this reading bears on, and the one it produces, open -->
 
 # NOTE-815: Gerstgrasser et al. — Is Model Collapse Inevitable?
 

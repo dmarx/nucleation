@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp6orlr
 paper: LIT-948
 title: 'Calo et al. — Distances for Markov chains from sample streams'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -22,6 +22,12 @@ history:
     not compared with this preprint. Figures were read from their
     captions only. Expressions were restored by eye where extraction
     split them.
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    The dual radii corrected from (1−γ)/6 and (1−γ)/2 to 6/(1−γ) and
+    2/(1−γ), as found when the promotion audit (batch 042) re-checked
+    Theorem 1 against the arXiv text; dated note at the end.
 date: '2026-10-14'
 summary: >-
   The bicausal transport distance between two finite Markov chains, which
@@ -104,7 +110,7 @@ handle it with one sample per chain per step.
   they have unbiased one-sample estimators (Eqs. 11–14).
 - **SOMCOT (Algorithm 1, Eqs. 16–21).** Entropic stochastic mirror
   descent on µ, λ_X and λ_Y, and projected stochastic gradient ascent on
-  α_X, α_Y and V within sup-norm balls of radius (1−γ)/6 and (1−γ)/2. The
+  α_X, α_Y and V within sup-norm balls of radius 6/(1−γ) and 2/(1−γ) (corrected 2026-10-19; see the dated note). The
   output is the averaged µ̄_K, and the estimate is
   d̂_γ = ⟨µ̄_K, c⟩.
 - **Theorem 1.** Suppose ‖c‖∞ ≤ 1 and the stated learning rates are used
@@ -243,3 +249,14 @@ Kemertas and Jepson), which it says "are not well-founded in theory".
 - What about partially observed states, where only labels or responses
   are sampled? That is the case [QUESTION-008](../questions.d/QUESTION-008.md) needs, and the paper does not
   raise it.
+
+## Note of 2026-10-19: the dual radii
+
+The first reading transcribed the projection domains of SOMCOT as sup-norm
+balls of radius (1−γ)/6 for α and (1−γ)/2 for V. The radii are 6/(1−γ) and
+2/(1−γ). Lemma 1 needs them: the dual maximum must reach
+(6∂C_X + 6∂C_Y + 2∂F)/(1−γ) to dominate twice the rounding error of Lemma 2,
+and the step sizes, which scale as 1/(1−γ), and the gradient bound
+|g_µ| ≤ 1 + 12/(1−γ) + 4/(1−γ) in Lemma 7 agree. pdftotext -layout had set
+the fractions' numerators on a separate line. Nothing else in this note
+depends on the radii.

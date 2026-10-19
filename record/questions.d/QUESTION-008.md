@@ -17,9 +17,10 @@ summary: >-
   demoted deliberately at A39–A40 to an "optional refinement" whose
   usefulness "must be justified". Absent from the manuscript. Set aside,
   not answered.
+refined_by:
+- QUESTION-tmpimdnt
 ---
 <!-- inactive-ok-file: CLAIM-034 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: THEORY-280 — Proposed; the action-free formal object, cited for what it does not supply -->
 
 # QUESTION-008: Is pragmatic fidelity a form of approximate bisimulation between communicative systems, and which parts of their update structure must it preserve?
 

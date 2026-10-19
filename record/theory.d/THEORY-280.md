@@ -1,22 +1,24 @@
 ---
 number: 280
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmprft5t
-promote_when: >-
-  An independent check of Theorem 1 of LIT-948, or a matching result by
-  other authors: a proof that the kernel-free LP characterises bicausal
-  occupancy couplings, and that a sample-based estimator reaches ε
-  accuracy with a number of independent occupancy samples polynomial in
-  |X|, |Y|, 1/(1−γ) and 1/ε². A lower bound matching the ε⁻² rate in this
-  setting would also strengthen it. It is refuted by an error in
-  Proposition 1, or by a family of finite chains on which the estimator,
-  run as the theorem specifies, misses by more than the bound with
-  probability above δ. What cannot settle it: experiments run with tuned
-  decaying step sizes and minibatches, or on correlated single-trajectory
-  data, which lie outside the theorem.
-title: 'The bisimulation metric between two finite Markov chains can be estimated from sampled transitions without a transition model, to accuracy ε with a number of samples polynomial in the state-space sizes and 1/ε²'
-version: 1
+title: "The bisimulation metric between two finite Markov chains with observed states and a known cost bounded by 1 can be estimated without a transition model from independent samples of each chain's discounted state-pair occupancy, to accuracy ε with probability 1 − δ from a number of samples polynomial in the state-space sizes, 1/(1−γ), log(1/δ) and 1/ε²"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-280 (batch 042, ADR-047 v2).
+    Theorem 1 of Calo et al. was re-checked against the arXiv text: the
+    kernel-free characterisation, the bound of the error by the duality
+    gap through the rounding lemma, and each player's regret, in the dated
+    note below. The rate holds; the constants carry slips that do not
+    affect it. The title now names the sampling model, the observed finite
+    states, the known bounded cost, the probability 1 − δ and the
+    dependence on 1/(1−γ) and log(1/δ). The former promote_when's request
+    for a matching ε⁻² lower bound moves to QUESTION-tmpimdnt.
 tags:
 - mathematical-statistics
 - probabilistic-modeling
@@ -37,7 +39,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-008 — Deferred or Proposed; the set-aside question this bears on, and the identification this account inherits, cited as open -->
 
-# THEORY-280: The bisimulation metric between two finite Markov chains can be estimated from sampled transitions without a transition model, to accuracy ε with a number of samples polynomial in the state-space sizes and 1/ε²
+# THEORY-280: The bisimulation metric between two finite Markov chains with observed states and a known cost bounded by 1 can be estimated without a transition model from independent samples of each chain's discounted state-pair occupancy, to accuracy ε with probability 1 − δ from a number of samples polynomial in the state-space sizes, 1/(1−γ), log(1/δ) and 1/ε²
 
 ## Source
 
@@ -110,3 +112,42 @@ a bound.
   fidelity notion ([TERM-033](../terms.d/TERM-033.md)) compares observed responses with "no shared
   latent state required", which is the case the estimator does not
   cover. No `answers:` relation is filed.
+
+## Note of 2026-10-19: Theorem 1, re-checked
+
+The promotion audit (batch 042) followed Calo et al.'s proof against the
+arXiv v1 text (App. A and C), at the level of the rate the title claims.
+
+1. *Proposition 1.* With ν_µ(x, y) the state marginal of µ, the kernel
+   coherence of [THEORY-247](THEORY-247.md) reads Σ_{y′} µ(x,y,x′,y′) = P_X(x′|x)ν_µ(x,y).
+   Setting λ_X(y|x) = ν_µ(x,y)/ν_X(x) and using ν_X(x,x′) = ν_X(x)P_X(x′|x)
+   turns it into (7); conversely, summing (7) over x′ gives
+   ν_µ(x,y) = ν_X(x)λ_X(y|x), and substituting back gives coherence. The flow
+   constraint, marginalised over y, makes the X-marginal of ν_µ solve the
+   chain's own occupancy equation, whose solution is unique, so λ_X(·|x) is
+   a distribution wherever ν_X(x) > 0.
+2. *Error and duality gap (Lemma 1).* The Lagrangian is linear in the
+   primal variables, so averaging the iterates averages the Lagrangian. Its
+   maximum over the dual balls, of radius 6/(1−γ) for α and 2/(1−γ) for V,
+   is ⟨µ̄, c⟩ plus (6∂C_X + 6∂C_Y + 2∂F)/(1−γ), the ℓ1 residuals of the three
+   constraints. Rounding µ̄ to a valid occupancy coupling costs at most
+   (3∂C_X + 3∂C_Y + ∂F)/(1−γ) in ℓ1 (Lemma 2: a contraction by γ through the
+   flow constraint, and Altschuler et al.'s rounding bound per state pair).
+   Since the rounded coupling is feasible and ‖c‖∞ ≤ 1, the error is at
+   most the duality gap.
+3. *Regrets.* Each player's regret is that of mirror descent or projected
+   gradient ascent with bounded gradients on a bounded set: the α-players'
+   of order √(|X|²|Y|K)/(1−γ) and √(|X||Y|²K)/(1−γ), the V-player's
+   √(|X||Y|K)/(1−γ), the µ-player's √(K log(|X||Y|))/(1−γ), and the
+   λ-players' √(|X| log|Y| K)/(1−γ) and √(|Y| log|X| K)/(1−γ). The dual
+   comparator depends on the data; a ghost iterate (Nemirovski et al.;
+   Rakhlin and Sridharan) turns the noise into a martingale with bounded
+   increments, adding √(K log(1/δ))/(1−γ) terms. Dividing by K gives the
+   stated rate.
+
+The constants carry slips that leave the rate alone: with equal step
+sizes the Bregman term is counted once where it appears twice, one
+martingale constant is off by 2, and the final union bound covers four
+probabilistic claims, not two, so the guarantee is 1 − 4δ for the stated
+δ. [NOTE-763](../notes.d/NOTE-763.md) gives the dual radii as (1−γ)/6 and (1−γ)/2; they are 6/(1−γ)
+and 2/(1−γ), as Lemma 1 needs.
