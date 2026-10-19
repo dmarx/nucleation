@@ -1,5 +1,8 @@
 ---
+number: 143
 status: Open
+formerly:
+- QUESTION-tmpilsf5
 title: 'Is the presheaf of causal functions on a space of input histories, with the lowerset topology, a sheaf exactly when the space has no solipsistic contextuality witness, as Theorem 2.34 of The Topology of Causality states?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   unrefereed preprint whose proof the record has not read.
 ---
 
-# QUESTION-tmpilsf5: Is the presheaf of causal functions on a space of input histories, with the lowerset topology, a sheaf exactly when the space has no solipsistic contextuality witness, as Theorem 2.34 of The Topology of Causality states?
+# QUESTION-143: Is the presheaf of causal functions on a space of input histories, with the lowerset topology, a sheaf exactly when the space has no solipsistic contextuality witness, as Theorem 2.34 of The Topology of Causality states?
 
 ## Why it is a question
 

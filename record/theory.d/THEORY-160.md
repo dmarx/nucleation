@@ -17,7 +17,7 @@ history:
     that meets the promote_when's request for a second, independent
     treatment. Alfsen and Shultz's JB-algebra theorem, which Baez quotes as
     Theorem 12 without proof, is now stated as quoted and not checked, and
-    the promote_when's clause about it moves to QUESTION-tmpb09gm. The
+    the promote_when's clause about it moves to QUESTION-142. The
     title's last clause reports Baez's reading, which the body already marks
     as interpretation. The promote_when is removed. The title is unchanged.
 tags:
@@ -30,7 +30,7 @@ source:
 summary: >-
   Baez (2020), [LIT-819](../literature.d/LIT-819.md), read in [NOTE-630](../notes.d/NOTE-630.md), Theorems 3, 4, 8 and
   10, with Alfsen and Shultz's theorem quoted as Theorem 12 and not
-  checked here (QUESTION-tmpb09gm). With unique solutions to the flow
+  checked here (QUESTION-142). With unique solutions to the flow
   equations, "a generates symmetries of b iff b
   generates symmetries of a" is {a, b} = 0 ⇔ {b, a} = 0. It assumes
   reversible one-parameter groups and an observable–generator map; it says
@@ -70,7 +70,7 @@ dim O ≠ dim L and no invariant map exists. For unital JB-algebras, Baez
 quotes Alfsen and Shultz (his Theorem 12): such a map with ψ_a(a) = 0 and a
 second condition exists exactly when O is the self-adjoint part of a
 C*-algebra. The record has not read that theorem, so it is reported as
-quoted, not checked ([QUESTION-tmpb09gm](../questions.d/QUESTION-tmpb09gm.md)).
+quoted, not checked ([QUESTION-142](../questions.d/QUESTION-142.md)).
 
 What could have come out otherwise: Theorem 8 could have needed the Jacobi
 identity or an associative product; it does not. The proofs are short and
@@ -88,7 +88,7 @@ were checked in the reading.
   theories; the link back is cited, not shown.
 - **It does not include Alfsen and Shultz's theorem.** The JB-algebra
   characterisation is quoted by Baez without proof, and the record has not
-  read it. It is [QUESTION-tmpb09gm](../questions.d/QUESTION-tmpb09gm.md).
+  read it. It is [QUESTION-142](../questions.d/QUESTION-142.md).
 - It does not settle why observables should be generators. Alfsen and
   Shultz's theorem says what follows if they are; Baez's reading of the
   second condition as "inverse temperature is imaginary time" is an

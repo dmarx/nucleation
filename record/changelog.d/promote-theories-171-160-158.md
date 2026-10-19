@@ -1,6 +1,6 @@
 ### Added
 
-- [QUESTION-tmpilsf5](record/questions.d/QUESTION-tmpilsf5.md), [QUESTION-tmpb09gm](record/questions.d/QUESTION-tmpb09gm.md) and [QUESTION-tmpnm9ml](record/questions.d/QUESTION-tmpnm9ml.md) hold the
+- [QUESTION-143](record/questions.d/QUESTION-143.md), [QUESTION-142](record/questions.d/QUESTION-142.md) and [QUESTION-144](record/questions.d/QUESTION-144.md) hold the
   unchecked parts of [THEORY-171](record/theory.d/THEORY-171.md), [THEORY-160](record/theory.d/THEORY-160.md) and [THEORY-158](record/theory.d/THEORY-158.md): Theorem 2.34's
   characterisation of when causal functions form a sheaf, Alfsen and
   Shultz's JB-algebra theorem, and the general-space form of Baez and

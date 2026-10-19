@@ -1,5 +1,8 @@
 ---
+number: 144
 status: Open
+formerly:
+- QUESTION-tmpnm9ml
 title: 'Beyond a finite state space, does an observable commute with a Markov generator exactly when its mean and second moment are conserved in every state, and is there a component form of that condition on general state spaces?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   component form beyond finite X.
 ---
 
-# QUESTION-tmpnm9ml: Beyond a finite state space, does an observable commute with a Markov generator exactly when its mean and second moment are conserved in every state, and is there a component form of that condition on general state spaces?
+# QUESTION-144: Beyond a finite state space, does an observable commute with a Markov generator exactly when its mean and second moment are conserved in every state, and is there a component form of that condition on general state spaces?
 
 ## Why it is a question
 

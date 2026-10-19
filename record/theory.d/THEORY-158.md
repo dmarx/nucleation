@@ -21,7 +21,7 @@ history:
     σ-finite measure spaces, and they are not re-derived here. The title now
     leads with the finite case, and Theorems 2–3 are reported as the
     source's. The general-space clause of the promote_when moves to
-    QUESTION-tmpnm9ml, and the promote_when is removed.
+    QUESTION-144, and the promote_when is removed.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -32,7 +32,7 @@ summary: >-
   Baez & Fong (2013), [LIT-773](../literature.d/LIT-773.md), read in [NOTE-598](../notes.d/NOTE-598.md): Theorem 1
   (finite state space, four equivalent conditions), which the record
   re-derived. Theorems 2–3 (σ-finite measure spaces, without the component
-  form) are reported as the source's (QUESTION-tmpnm9ml). Unlike quantum mechanics,
+  form) are reported as the source's (QUESTION-144). Unlike quantum mechanics,
   where a mean conserved in every state already implies commutation, a
   Markov process can conserve the mean of an observable it does not commute
   with. The theorem covers diagonal observables only; it says nothing about
@@ -93,7 +93,7 @@ semigroups (Theorem 2, stated as a consequence).
   Section 3 gives only the moment and commutator forms: Theorem 3 for one
   stochastic operator, by Chebyshev, and Theorem 2 for Markov semigroups,
   stated as a consequence. Neither is re-derived here, and there is no
-  component form. That is [QUESTION-tmpnm9ml](../questions.d/QUESTION-tmpnm9ml.md).
+  component form. That is [QUESTION-144](../questions.d/QUESTION-144.md).
 - **Not "standard deviation" in the abstract's sense.** Conservation of
   the mean and of the second moment is what is proved. That is equivalent
   to a conserved mean and variance, and so to a conserved standard

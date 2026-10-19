@@ -25,7 +25,7 @@ history:
     meets a request for a proof the record lacks. The promote_when asked for
     more than the title claims: a refereed version or a checked proof of
     Theorem 2.34's characterisation. That condition moves, unchanged, to
-    QUESTION-tmpilsf5. The summary now reports the iff as the source's
+    QUESTION-143. The summary now reports the iff as the source's
     unchecked theorem, not as part of the account, and the promote_when is
     removed. The title is unchanged.
 tags:
@@ -48,7 +48,7 @@ summary: >-
   was checked here, and it settles the claim. The source's Theorem 2.34,
   that the presheaf is a sheaf exactly when no two contexts impose
   incompatible causal pasts on a common event, is reported as the source's.
-  Its proof was not read, and it is QUESTION-tmpilsf5. It does not say any
+  Its proof was not read, and it is QUESTION-143. It does not say any
   physical or quantum data display the effect.
 supports:
 - CLAIM-038
@@ -90,7 +90,7 @@ join gives B two different outputs on {A:a, B:b, C:c}, which Θ₃'s causal
 functions forbid. So there is no gluing, and the presheaf is not a sheaf.
 This example was followed step by step in the reading.
 
-Theorem 2.34, which the record reports and has not checked ([QUESTION-tmpilsf5](../questions.d/QUESTION-tmpilsf5.md)),
+Theorem 2.34, which the record reports and has not checked ([QUESTION-143](../questions.d/QUESTION-143.md)),
 generalises it. With at least two outputs per event, the
 presheaf is a sheaf iff Θ has no solipsistic contextuality witness: two
 tip-equivalent histories whose minimal common extensions are not all
@@ -126,7 +126,7 @@ fails.
   order-induced spaces with non-nested pasts ([LIT-800](../literature.d/LIT-800.md), Theorem 3.33).
 - **Not that the general theorem is checked here.** The proof of
   Theorem 2.34 was not read, and the paper is an unrefereed preprint. The
-  characterisation is [QUESTION-tmpilsf5](../questions.d/QUESTION-tmpilsf5.md).
+  characterisation is [QUESTION-143](../questions.d/QUESTION-143.md).
 - **Not a statement about language, meaning or translation.** The analogy
   to contexts of interpretation with incompatible dependency structure is
   the reader's to make and is not drawn by the paper.
@@ -145,4 +145,4 @@ sub-histories, so a causal function there must give B both outputs. No
 gluing exists, and the presheaf of causal functions is not a sheaf.
 [LIT-843](../literature.d/LIT-843.md)'s Example 7.2 is an independent second instance of the same kind.
 That is everything the title asserts. The characterisation, which says
-exactly which spaces fail, is [QUESTION-tmpilsf5](../questions.d/QUESTION-tmpilsf5.md).
+exactly which spaces fail, is [QUESTION-143](../questions.d/QUESTION-143.md).

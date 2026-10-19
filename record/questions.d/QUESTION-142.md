@@ -1,5 +1,8 @@
 ---
+number: 142
 status: Open
+formerly:
+- QUESTION-tmpb09gm
 title: 'For unital JB-algebras, is the existence of a dynamical correspondence exactly what makes observables generate symmetries of what they conserve, as Alfsen and Shultz''s theorem, quoted by Baez, states?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   record has not read Alfsen and Shultz.
 ---
 
-# QUESTION-tmpb09gm: For unital JB-algebras, is the existence of a dynamical correspondence exactly what makes observables generate symmetries of what they conserve, as Alfsen and Shultz's theorem, quoted by Baez, states?
+# QUESTION-142: For unital JB-algebras, is the existence of a dynamical correspondence exactly what makes observables generate symmetries of what they conserve, as Alfsen and Shultz's theorem, quoted by Baez, states?
 
 ## Why it is a question
 

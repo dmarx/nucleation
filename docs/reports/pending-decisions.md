@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**828 document(s) awaiting a decision.**
+**825 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 828.
+95 of the 825.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-500 of the 828.
+497 of the 825.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -255,7 +255,6 @@
 | 2026-10-09 | Proposed | [THEORY-188](../../record/theory.d/THEORY-188.md) | 16 | 0 | In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model |
 | 2026-10-09 | Proposed | [THEORY-202](../../record/theory.d/THEORY-202.md) | 16 | 1 | In variational renormalization, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target |
 | 2026-10-09 | Proposed | [THEORY-161](../../record/theory.d/THEORY-161.md) | 15 | 0 | In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value |
-| 2026-10-09 | Proposed | [THEORY-171](../../record/theory.d/THEORY-171.md) | 15 | 2 | When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 14 | 6 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
 | 2026-10-09 | Proposed | [THEORY-173](../../record/theory.d/THEORY-173.md) | 14 | 0 | Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale |
 | 2026-10-09 | Proposed | [THEORY-167](../../record/theory.d/THEORY-167.md) | 13 | 0 | The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how |
@@ -264,7 +263,6 @@
 | 2026-10-09 | Proposed | [THEORY-180](../../record/theory.d/THEORY-180.md) | 12 | 0 | In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise |
 | 2026-10-09 | Proposed | [THEORY-198](../../record/theory.d/THEORY-198.md) | 12 | 2 | For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, so the renormalized Hamiltonian gains no range and, in 1D, product disorder gains no correlations across the block; the coarse-grainings actually optimized fall short of that condition, and for them the link is shown only numerically, in 1D |
 | 2026-10-09 | Proposed | [THEORY-204](../../record/theory.d/THEORY-204.md) | 12 | 2 | In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows |
-| 2026-10-09 | Proposed | [THEORY-158](../../record/theory.d/THEORY-158.md) | 10 | 0 | In a Markov process, an observable commutes with the generator exactly when its mean and variance are both conserved in every state; on a finite state space this means it is constant on each connected component of the transition graph, so a conserved mean alone does not give a symmetry |
 | 2026-10-09 | Proposed | [THEORY-163](../../record/theory.d/THEORY-163.md) | 10 | 0 | The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it |
 | 2026-10-09 | Proposed | [THEORY-177](../../record/theory.d/THEORY-177.md) | 10 | 0 | In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the least total direct influence of context that any canonical causal model of the data must contain, and each content's share is the total-variation distance between its marginals |
 | 2026-10-09 | Proposed | [THEORY-192](../../record/theory.d/THEORY-192.md) | 10 | 0 | Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time |
@@ -277,7 +275,6 @@
 | 2026-10-09 | Proposed | [THEORY-200](../../record/theory.d/THEORY-200.md) | 7 | 2 | On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task |
 | 2026-10-09 | Proposed | [THEORY-205](../../record/theory.d/THEORY-205.md) | 6 | 2 | For a short-range lattice model on a cylinder, with block and environment as slabs separated by a buffer, the information-bottleneck encoder at its first transition depends on the block only through the boundary weak value of the leading transfer-matrix eigenvector, at β_c = (λ0/λ1)^(2L_B): at large circumference this is the lowest-dimension primary, so the first feature information-theoretic relevance selects is the most RG-relevant operator; nothing is shown for blocks inside a buffer shell or for the fixed-alphabet RSMI optimum |
 | 2026-10-09 | Proposed | [THEORY-164](../../record/theory.d/THEORY-164.md) | 5 | 0 | In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect |
-| 2026-10-09 | Proposed | [THEORY-160](../../record/theory.d/THEORY-160.md) | 4 | 0 | In the algebraic Hamiltonian setting, symmetry and conservation correspond because the bracket is antisymmetric, which for a bilinear bracket is each observable conserving itself; the theorem's content lies in identifying observables with generators |
 | 2026-10-09 | Proposed | [THEORY-178](../../record/theory.d/THEORY-178.md) | 4 | 1 | Transcriptional regulation alone can make a bacterium's gene-expression state depend on its history: a transient change to one regulator can leave its regulatory network in a different self-maintaining state, but only through a gene that reaches a positive circuit |
 | 2026-10-09 | Proposed | [THEORY-190](../../record/theory.d/THEORY-190.md) | 3 | 0 | The S¹ hidden-metric network model is approximately closed under geometric coarse-graining: merging angular neighbours keeps its connection law with β fixed, and the average degree flows as r^ν with ν set by the degree exponent and β |
 | 2026-10-09 | Proposed | [THEORY-193](../../record/theory.d/THEORY-193.md) | 3 | 0 | A simplicial complex grown by gluing each new d-simplex to one (d − 1)-face, by a rule that uses no geometry, has a tree as its dual and, with every link taken as equal, is a tiling of hyperbolic d-space by ideal simplices; so hyperbolic network geometry can be the outcome of combinatorial growth rather than its cause, though the curvature comes from the equal-length convention and not from the growth |
@@ -618,7 +615,7 @@
 
 ## ADRs
 
-2 of the 828.
+2 of the 825.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -627,7 +624,7 @@
 
 ## QUESTIONs
 
-9 of the 828.
+9 of the 825.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -643,7 +640,7 @@
 
 ## CLAIMs
 
-217 of the 828.
+217 of the 825.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -867,7 +864,7 @@
 
 ## CASEs
 
-1 of the 828.
+1 of the 825.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -875,7 +872,7 @@
 
 ## TERMs
 
-2 of the 828.
+2 of the 825.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -884,7 +881,7 @@
 
 ## ARGs
 
-2 of the 828.
+2 of the 825.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

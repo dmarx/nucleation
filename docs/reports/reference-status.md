@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**517 documents cited without acknowledgement.** Not listed: 10168 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**516 documents cited without acknowledgement.** Not listed: 10141 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -4689,15 +4689,6 @@ The classical theorems on sufficient statistics need only the copy/discard struc
 - [`record/questions.d/QUESTION-065.md:25`](../../record/questions.d/QUESTION-065.md)
 - [`record/questions.d/QUESTION-065.md:45`](../../record/questions.d/QUESTION-065.md)
 
-### [THEORY-171](../../record/theory.d/THEORY-171.md) — Proposed
-
-When the causal constraints on events depend on context, deterministic assignments that are causal in each context can fail to glue into one causal assignment, so causal structure is itself a source of contextuality
-
-2 citations in 1 file await a look; 13 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-035.md:34`](../../record/decisions.d/ADR-035.md)
-- [`record/decisions.d/ADR-035.md:71`](../../record/decisions.d/ADR-035.md)
-
 ### [THEORY-181](../../record/theory.d/THEORY-181.md) — Proposed
 
 In a model that decodes the sum of two learned embeddings, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free, and the critical training fraction is where that becomes likely
@@ -6116,6 +6107,7 @@ None. Every scanned file is checked. ✅
 
 ## Directives that no longer apply
 
+- record/claims.d/CLAIM-107.md:52: annotation no longer applies — THEORY-158 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-993.md:51: annotation no longer applies — nothing in scope cites THEORY-239
