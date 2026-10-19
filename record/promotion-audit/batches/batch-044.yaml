@@ -35,7 +35,9 @@ rubric_vs_outcome:
     formal_score: 3
     outcome: narrow-and-promote
     mattered: The asserted failure proves, but the title's "only" is false; corrected to the exact characterisation.
-promotion_prs: []
+promotion_prs:
+  - "#240: THEORY-318 and THEORY-270 narrowed and promoted, THEORY-585 corrected and promoted (branch claude/promote-theories-318-270-585)."
+  - "#242: Lin et al.'s theorems split from THEORY-110 into a new Active THEORY (branch claude/split-theory-110)."
 notes_for_ledger:
   - >-
     Triage-006's score-3 band went 2 of 3 (318, 585), and the miss (083)
