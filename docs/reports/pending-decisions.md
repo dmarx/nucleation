@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**806 document(s) awaiting a decision.**
+**805 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 806.
+95 of the 805.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-479 of the 806.
+478 of the 805.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -133,7 +133,7 @@
 | 2026-09-30 | Proposed | [THEORY-034](../../record/theory.d/THEORY-034.md) | 24 | 1 | Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings two are of that kind: Floridi's informational structural realism and Esfeld and Lam's moderate structural realism |
 | 2026-09-30 | Proposed | [THEORY-025](../../record/theory.d/THEORY-025.md) | 10 | 3 | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation |
 | 2026-09-30 | Proposed | [THEORY-038](../../record/theory.d/THEORY-038.md) | 7 | 0 | Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata |
-| 2026-09-30 | Proposed | [THEORY-033](../../record/theory.d/THEORY-033.md) | 0 | 0 | The critical batch size is set by the gradient's noise-to-signal ratio, because per-step progress saturates as 1/(1 + B_noise/B); the measured noise scale predicts it only to within an order of magnitude |
+| 2026-09-30 | Proposed | [THEORY-033](../../record/theory.d/THEORY-033.md) | 6 | 0 | The measured noise scale B_simple tracks the critical batch size within about 10× on six of eight tasks and about 20× on two generative models, so the gradient's noise-to-signal ratio sets the critical batch only as far as the local quadratic model with an optimal step holds |
 | 2026-10-02 | Proposed | [THEORY-043](../../record/theory.d/THEORY-043.md) | 202 | 4 | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled |
 | 2026-10-03 | Proposed | [THEORY-056](../../record/theory.d/THEORY-056.md) | 63 | 7 | Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them |
 | 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 62 | 2 | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled |
@@ -341,7 +341,6 @@
 | 2026-10-14 | Proposed | [THEORY-240](../../record/theory.d/THEORY-240.md) | 6 | 0 | Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters |
 | 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 6 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
 | 2026-10-14 | Proposed | [THEORY-244](../../record/theory.d/THEORY-244.md) | 6 | 0 | Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution |
-| 2026-10-14 | Proposed | [THEORY-255](../../record/theory.d/THEORY-255.md) | 6 | 0 | In Aerts's subspace model of Hampton's membership data, taking concept conjunction and disjunction as the meet and join of subspaces cannot produce overextension or underextension, so the guppy-type deviations need an emergent concept outside the lattice operations, while the Kolmogorov-type deviations can be had from a non-Boolean subspace lattice |
 | 2026-10-14 | Proposed | [THEORY-262](../../record/theory.d/THEORY-262.md) | 6 | 0 | Neural complexity is low when a system's parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated; in simulated cortex, patchy grouped connectivity raises it above random connectivity of equal density |
 | 2026-10-14 | Proposed | [THEORY-272](../../record/theory.d/THEORY-272.md) | 6 | 4 | A network of threshold units with symmetric Hebbian couplings is a content-addressable memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns, memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are forgotten |
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 6 | 0 | Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation |
@@ -597,7 +596,7 @@
 
 ## ADRs
 
-2 of the 806.
+2 of the 805.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -606,7 +605,7 @@
 
 ## QUESTIONs
 
-9 of the 806.
+9 of the 805.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -622,7 +621,7 @@
 
 ## CLAIMs
 
-216 of the 806.
+216 of the 805.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -845,7 +844,7 @@
 
 ## CASEs
 
-1 of the 806.
+1 of the 805.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -853,7 +852,7 @@
 
 ## TERMs
 
-2 of the 806.
+2 of the 805.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -862,7 +861,7 @@
 
 ## ARGs
 
-2 of the 806.
+2 of the 805.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -873,4 +872,4 @@ The citation count is the second axis, and it flips the priority: an old proposa
 
 This count and the reference-status report's will differ, and that is not an off-by-one. That report covers documents something actually **cites** and hasn't acknowledged; this one covers every **undecided** document. One here is missing from there for exactly one of two reasons: nothing cites it, or every citation carries an `inactive-ok` annotation.
 
-**Cited nowhere at all** (85): [THEORY-033](../../record/theory.d/THEORY-033.md), [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-351](../../record/theory.d/THEORY-351.md), [LIT-1121](../../record/literature.d/LIT-1121.md), [LIT-1123](../../record/literature.d/LIT-1123.md), [LIT-1125](../../record/literature.d/LIT-1125.md), [LIT-1126](../../record/literature.d/LIT-1126.md), [LIT-1127](../../record/literature.d/LIT-1127.md), [LIT-1129](../../record/literature.d/LIT-1129.md), [LIT-1130](../../record/literature.d/LIT-1130.md), [LIT-1131](../../record/literature.d/LIT-1131.md), [LIT-1132](../../record/literature.d/LIT-1132.md), [LIT-1133](../../record/literature.d/LIT-1133.md), [LIT-1136](../../record/literature.d/LIT-1136.md), [LIT-1138](../../record/literature.d/LIT-1138.md), [LIT-1143](../../record/literature.d/LIT-1143.md), [LIT-1145](../../record/literature.d/LIT-1145.md), [LIT-1148](../../record/literature.d/LIT-1148.md), [LIT-1149](../../record/literature.d/LIT-1149.md), [LIT-1150](../../record/literature.d/LIT-1150.md), [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-426](../../record/theory.d/THEORY-426.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-438](../../record/theory.d/THEORY-438.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-478](../../record/theory.d/THEORY-478.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-520](../../record/theory.d/THEORY-520.md), [THEORY-521](../../record/theory.d/THEORY-521.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-562](../../record/theory.d/THEORY-562.md), [THEORY-572](../../record/theory.d/THEORY-572.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-580](../../record/theory.d/THEORY-580.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-614](../../record/theory.d/THEORY-614.md), [THEORY-615](../../record/theory.d/THEORY-615.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-673](../../record/theory.d/THEORY-673.md), [THEORY-674](../../record/theory.d/THEORY-674.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [CLAIM-338](../../record/claims.d/CLAIM-338.md), [LIT-1205](../../record/literature.d/LIT-1205.md), [LIT-1206](../../record/literature.d/LIT-1206.md), [LIT-1207](../../record/literature.d/LIT-1207.md), [LIT-1208](../../record/literature.d/LIT-1208.md), [LIT-1209](../../record/literature.d/LIT-1209.md), [LIT-1210](../../record/literature.d/LIT-1210.md), [LIT-1211](../../record/literature.d/LIT-1211.md), [LIT-1212](../../record/literature.d/LIT-1212.md), [LIT-1213](../../record/literature.d/LIT-1213.md), [LIT-1214](../../record/literature.d/LIT-1214.md), [LIT-1215](../../record/literature.d/LIT-1215.md), [LIT-1216](../../record/literature.d/LIT-1216.md), [LIT-1217](../../record/literature.d/LIT-1217.md), [LIT-1218](../../record/literature.d/LIT-1218.md), [LIT-1220](../../record/literature.d/LIT-1220.md), [LIT-1221](../../record/literature.d/LIT-1221.md), [LIT-1222](../../record/literature.d/LIT-1222.md), [LIT-1223](../../record/literature.d/LIT-1223.md), [LIT-1224](../../record/literature.d/LIT-1224.md), [LIT-1225](../../record/literature.d/LIT-1225.md), [LIT-1226](../../record/literature.d/LIT-1226.md), [LIT-1227](../../record/literature.d/LIT-1227.md), [LIT-1228](../../record/literature.d/LIT-1228.md), [LIT-1229](../../record/literature.d/LIT-1229.md), [LIT-1230](../../record/literature.d/LIT-1230.md), [LIT-1231](../../record/literature.d/LIT-1231.md), [LIT-1232](../../record/literature.d/LIT-1232.md), [LIT-1233](../../record/literature.d/LIT-1233.md), [LIT-1234](../../record/literature.d/LIT-1234.md), [LIT-1235](../../record/literature.d/LIT-1235.md), [LIT-1236](../../record/literature.d/LIT-1236.md), [LIT-1237](../../record/literature.d/LIT-1237.md) — these are the cheapest to close, since nothing depends on the answer.
+**Cited nowhere at all** (84): [THEORY-099](../../record/theory.d/THEORY-099.md), [CLAIM-007](../../record/claims.d/CLAIM-007.md), [CLAIM-064](../../record/claims.d/CLAIM-064.md), [CLAIM-183](../../record/claims.d/CLAIM-183.md), [QUESTION-044](../../record/questions.d/QUESTION-044.md), [QUESTION-057](../../record/questions.d/QUESTION-057.md), [THEORY-336](../../record/theory.d/THEORY-336.md), [THEORY-351](../../record/theory.d/THEORY-351.md), [LIT-1121](../../record/literature.d/LIT-1121.md), [LIT-1123](../../record/literature.d/LIT-1123.md), [LIT-1125](../../record/literature.d/LIT-1125.md), [LIT-1126](../../record/literature.d/LIT-1126.md), [LIT-1127](../../record/literature.d/LIT-1127.md), [LIT-1129](../../record/literature.d/LIT-1129.md), [LIT-1130](../../record/literature.d/LIT-1130.md), [LIT-1131](../../record/literature.d/LIT-1131.md), [LIT-1132](../../record/literature.d/LIT-1132.md), [LIT-1133](../../record/literature.d/LIT-1133.md), [LIT-1136](../../record/literature.d/LIT-1136.md), [LIT-1138](../../record/literature.d/LIT-1138.md), [LIT-1143](../../record/literature.d/LIT-1143.md), [LIT-1145](../../record/literature.d/LIT-1145.md), [LIT-1148](../../record/literature.d/LIT-1148.md), [LIT-1149](../../record/literature.d/LIT-1149.md), [LIT-1150](../../record/literature.d/LIT-1150.md), [THEORY-409](../../record/theory.d/THEORY-409.md), [THEORY-423](../../record/theory.d/THEORY-423.md), [THEORY-426](../../record/theory.d/THEORY-426.md), [THEORY-428](../../record/theory.d/THEORY-428.md), [THEORY-438](../../record/theory.d/THEORY-438.md), [THEORY-467](../../record/theory.d/THEORY-467.md), [THEORY-478](../../record/theory.d/THEORY-478.md), [THEORY-483](../../record/theory.d/THEORY-483.md), [THEORY-486](../../record/theory.d/THEORY-486.md), [THEORY-506](../../record/theory.d/THEORY-506.md), [THEORY-520](../../record/theory.d/THEORY-520.md), [THEORY-521](../../record/theory.d/THEORY-521.md), [THEORY-542](../../record/theory.d/THEORY-542.md), [THEORY-556](../../record/theory.d/THEORY-556.md), [THEORY-562](../../record/theory.d/THEORY-562.md), [THEORY-572](../../record/theory.d/THEORY-572.md), [THEORY-578](../../record/theory.d/THEORY-578.md), [THEORY-580](../../record/theory.d/THEORY-580.md), [THEORY-600](../../record/theory.d/THEORY-600.md), [THEORY-610](../../record/theory.d/THEORY-610.md), [THEORY-614](../../record/theory.d/THEORY-614.md), [THEORY-615](../../record/theory.d/THEORY-615.md), [THEORY-657](../../record/theory.d/THEORY-657.md), [THEORY-673](../../record/theory.d/THEORY-673.md), [THEORY-674](../../record/theory.d/THEORY-674.md), [THEORY-682](../../record/theory.d/THEORY-682.md), [CLAIM-338](../../record/claims.d/CLAIM-338.md), [LIT-1205](../../record/literature.d/LIT-1205.md), [LIT-1206](../../record/literature.d/LIT-1206.md), [LIT-1207](../../record/literature.d/LIT-1207.md), [LIT-1208](../../record/literature.d/LIT-1208.md), [LIT-1209](../../record/literature.d/LIT-1209.md), [LIT-1210](../../record/literature.d/LIT-1210.md), [LIT-1211](../../record/literature.d/LIT-1211.md), [LIT-1212](../../record/literature.d/LIT-1212.md), [LIT-1213](../../record/literature.d/LIT-1213.md), [LIT-1214](../../record/literature.d/LIT-1214.md), [LIT-1215](../../record/literature.d/LIT-1215.md), [LIT-1216](../../record/literature.d/LIT-1216.md), [LIT-1217](../../record/literature.d/LIT-1217.md), [LIT-1218](../../record/literature.d/LIT-1218.md), [LIT-1220](../../record/literature.d/LIT-1220.md), [LIT-1221](../../record/literature.d/LIT-1221.md), [LIT-1222](../../record/literature.d/LIT-1222.md), [LIT-1223](../../record/literature.d/LIT-1223.md), [LIT-1224](../../record/literature.d/LIT-1224.md), [LIT-1225](../../record/literature.d/LIT-1225.md), [LIT-1226](../../record/literature.d/LIT-1226.md), [LIT-1227](../../record/literature.d/LIT-1227.md), [LIT-1228](../../record/literature.d/LIT-1228.md), [LIT-1229](../../record/literature.d/LIT-1229.md), [LIT-1230](../../record/literature.d/LIT-1230.md), [LIT-1231](../../record/literature.d/LIT-1231.md), [LIT-1232](../../record/literature.d/LIT-1232.md), [LIT-1233](../../record/literature.d/LIT-1233.md), [LIT-1234](../../record/literature.d/LIT-1234.md), [LIT-1235](../../record/literature.d/LIT-1235.md), [LIT-1236](../../record/literature.d/LIT-1236.md), [LIT-1237](../../record/literature.d/LIT-1237.md) — these are the cheapest to close, since nothing depends on the answer.

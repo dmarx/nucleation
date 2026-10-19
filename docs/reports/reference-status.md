@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**511 documents cited without acknowledgement.** Not listed: 10066 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**511 documents cited without acknowledgement.** Not listed: 10067 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -834,7 +834,7 @@ Deep networks generalise because the diffusion phase of SGD compresses each laye
 - [`record/notes.d/NOTE-322.md:185`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:168`](../../record/notes.d/NOTE-324.md)
 - [`record/notes.d/NOTE-591.md:228`](../../record/notes.d/NOTE-591.md)
-- [`record/theory.d/THEORY-033.md:66`](../../record/theory.d/THEORY-033.md)
+- [`record/theory.d/THEORY-033.md:81`](../../record/theory.d/THEORY-033.md)
 - [`record/theory.d/THEORY-039.md:72`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:84`](../../record/theory.d/THEORY-039.md)
 
@@ -4176,7 +4176,7 @@ Every Thing Must Go: Metaphysics Naturalized
 
 Quantum Models of Cognition and Decision
 
-2 citations in 2 files await a look; 6 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-294.md:153`](../../record/notes.d/NOTE-294.md)
 - [`record/notes.d/NOTE-299.md:125`](../../record/notes.d/NOTE-299.md)
@@ -6056,6 +6056,7 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/theory.d/THEORY-009.md:98: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
+- record/theory.d/THEORY-255.md:44: annotation no longer applies — nothing in scope cites LIT-316
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now
 - record/theory.d/THEORY-299.md:42: annotation no longer applies — QUESTION-148 is Active now
 - record/theory.d/THEORY-301.md:41: annotation no longer applies — THEORY-008 is Active now

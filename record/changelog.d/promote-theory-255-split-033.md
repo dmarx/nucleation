@@ -1,10 +1,10 @@
 ### Added
 
-- [THEORY-tmpgjhho](record/theory.d/THEORY-tmpgjhho.md), Active: under a local quadratic model with the greedy
+- [THEORY-735](record/theory.d/THEORY-735.md), Active: under a local quadratic model with the greedy
   optimal step, per-step progress is ΔL_max/(1 + B_noise/B), and the
   steps–examples hyperbola (S/S_min − 1)(E/E_min − 1) = 1 holds exactly
   ([LIT-348](record/literature.d/LIT-348.md), re-derived). Split from [THEORY-033](record/theory.d/THEORY-033.md).
-- [QUESTION-tmpsrgse](record/questions.d/QUESTION-tmpsrgse.md), Open: which published concept-combination models
+- [QUESTION-156](record/questions.d/QUESTION-156.md), Open: which published concept-combination models
   reproduce overextension by dropping conjunction-as-meet, and which by
   dropping a monotone membership weight.
 

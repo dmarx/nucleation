@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-48 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+49 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -232,6 +232,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-641](../record/theory.d/THEORY-641.md) — Under a well-specified, identifiable parametric Markov model of the target given the joint past, with ergodic lagged states, transfer entropy is the limit of the normalised log-likelihood ratio for the null of no dependence on the source's past, so it is Granger-sense predictive improvement; for finite-state chains the plug-in estimator is exactly that statistic, and under the null and the usual regularity it is asymptotically χ² with the difference in parameter counts as degrees of freedom *(Active)*
 
 ## learning-theory
+
+### From Under a local quadratic model of the loss with the greedy optimal step, per-step progress at batch size B is ΔL_max/(1 + B_noise/B), and at fixed B the steps and examples needed satisfy (S/S_min − 1)(E/E_min − 1) = 1, with E_min/S_min the progress-weighted mean of B_noise
+
+- [THEORY-735](../record/theory.d/THEORY-735.md) — Under a local quadratic model of the loss with the greedy optimal step, per-step progress at batch size B is ΔL_max/(1 + B_noise/B), and at fixed B the steps and examples needed satisfy (S/S_min − 1)(E/E_min − 1) = 1, with E_min/S_min the progress-weighted mean of B_noise *(Active)*
+  - [THEORY-033](../record/theory.d/THEORY-033.md) — The measured noise scale B_simple tracks the critical batch size within about 10× on six of eight tasks and about 20× on two generative models, so the gradient's noise-to-signal ratio sets the critical batch only as far as the local quadratic model with an optimal step holds *(Proposed)*
 
 ### From Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank
 

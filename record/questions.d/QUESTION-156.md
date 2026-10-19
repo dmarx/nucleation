@@ -1,5 +1,8 @@
 ---
+number: 156
 status: Open
+formerly:
+- QUESTION-tmpsrgse
 title: 'Which published models of concept combination reproduce overextension by dropping conjunction-as-meet, and which by dropping an order-preserving membership weight?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-316 — Unavailable; named as one of the models an answer would read, not leaned on -->
 
-# QUESTION-tmpsrgse: Which published models of concept combination reproduce overextension by dropping conjunction-as-meet, and which by dropping an order-preserving membership weight?
+# QUESTION-156: Which published models of concept combination reproduce overextension by dropping conjunction-as-meet, and which by dropping an order-preserving membership weight?
 
 ## Why it is a question
 

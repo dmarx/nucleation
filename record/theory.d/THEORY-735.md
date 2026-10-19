@@ -1,5 +1,8 @@
 ---
+number: 735
 status: Active
+formerly:
+- THEORY-tmpgjhho
 title: 'Under a local quadratic model of the loss with the greedy optimal step, per-step progress at batch size B is ΔL_max/(1 + B_noise/B), and at fixed B the steps and examples needed satisfy (S/S_min − 1)(E/E_min − 1) = 1, with E_min/S_min the progress-weighted mean of B_noise'
 version: 1
 history:
@@ -34,7 +37,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-033 — Proposed; the measured account this derivation was split from, not leaned on -->
 
-# THEORY-tmpgjhho: Under a local quadratic model of the loss with the greedy optimal step, per-step progress at batch size B is ΔL_max/(1 + B_noise/B), and at fixed B the steps and examples needed satisfy (S/S_min − 1)(E/E_min − 1) = 1, with E_min/S_min the progress-weighted mean of B_noise
+# THEORY-735: Under a local quadratic model of the loss with the greedy optimal step, per-step progress at batch size B is ΔL_max/(1 + B_noise/B), and at fixed B the steps and examples needed satisfy (S/S_min − 1)(E/E_min − 1) = 1, with E_min/S_min the progress-weighted mean of B_noise
 
 ## Source
 

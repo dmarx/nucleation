@@ -21,7 +21,7 @@ history:
     a second quantum model confirming that the guppy-type deviations sit
     outside the meet. That follows from the derivation, so what remains is
     which published models drop which assumption. That moves to
-    QUESTION-tmpsrgse. The title's "need an emergent concept" overstated
+    QUESTION-156. The title's "need an emergent concept" overstated
     the theorem, which forces only that the meet or monotonicity be
     dropped, and is narrowed. The promote_when is removed.
 tags:

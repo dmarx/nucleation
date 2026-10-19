@@ -24,7 +24,7 @@ history:
     Split and corrected at the owner's direction, carrying out the
     promotion audit's decision (record/promotion-audit/decisions/THEORY-033.yaml,
     batch 018, ADR-047). The derivation under the local quadratic model,
-    re-derived, is now THEORY-tmpgjhho, Active, and this entry extends it.
+    re-derived, is now THEORY-735, Active, and this entry extends it.
     The title kept a "because" whose premises the authors call unfounded,
     and said "within an order of magnitude" where Table 1 has two of eight
     tasks at about 20×. It now states the measured tracking and the
@@ -37,7 +37,7 @@ source:
 - LIT-348
 - LIT-324
 extends:
-- THEORY-tmpgjhho
+- THEORY-735
 summary: >-
   McCandlish, Kaplan, Amodei et al. (2018), [LIT-348](../literature.d/LIT-348.md): under a local quadratic
   model with an optimal step, per-step progress is ΔL_max/(1 + B_noise/B).
@@ -58,7 +58,7 @@ summary: >-
 
 ## What was actually shown
 
-**The mechanism (derivation), now [THEORY-tmpgjhho](THEORY-tmpgjhho.md).** A minibatch gradient is unbiased for G, with covariance Σ/B. Put it into a second-order step L(θ − εV) and choose the optimal ε. The expected improvement is then ΔL_max/(1 + B_noise/B), with B_noise = tr(HΣ)/GᵀHG (eqs. 2.4–2.8). Below B_noise, examples in a batch substitute almost one-for-one for steps. Above it they are mostly wasted, and at B = B_noise speed is half the maximum. Summed over a run at fixed B, this gives (S/S_min − 1)(E/E_min − 1) = 1, whose corner defines B_crit = E_min/S_min (eqs. 2.11–2.12). [NOTE-293](../notes.d/NOTE-293.md) re-derived the hyperbola, and it holds even when the noise scale varies over the run.
+**The mechanism (derivation), now [THEORY-735](THEORY-735.md).** A minibatch gradient is unbiased for G, with covariance Σ/B. Put it into a second-order step L(θ − εV) and choose the optimal ε. The expected improvement is then ΔL_max/(1 + B_noise/B), with B_noise = tr(HΣ)/GᵀHG (eqs. 2.4–2.8). Below B_noise, examples in a batch substitute almost one-for-one for steps. Above it they are mostly wasted, and at B = B_noise speed is half the maximum. Summed over a run at fixed B, this gives (S/S_min − 1)(E/E_min − 1) = 1, whose corner defines B_crit = E_min/S_min (eqs. 2.11–2.12). [NOTE-293](../notes.d/NOTE-293.md) re-derived the hyperbola, and it holds even when the noise scale varies over the run.
 
 **The noise-to-signal reading is the paper's own.** For B_simple = tr(Σ)/|G|², E|G_est − G|²/|G|² = B_simple/B (eq. 2.10). So B_simple is the batch at which the batch gradient's noise equals its signal. The paper calls it "essentially a measure of the signal-to-noise ratio".
 
