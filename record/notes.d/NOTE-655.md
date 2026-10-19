@@ -34,7 +34,6 @@ summary: >-
   only weakly; no transient perturbation was done in cells.
 ---
 
-<!-- inactive-ok-file: THEORY-178 — Proposed; the finding this reading produces, filed with it -->
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a neighbouring self-maintaining-loop account -->
 
 # NOTE-655: Irreversibility in bacterial regulatory networks

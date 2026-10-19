@@ -1,26 +1,22 @@
 ---
 number: 178
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpcasth
-promote_when: >-
-  An experiment in bacteria, read first-hand, in which a gene is perturbed
-  transiently (for example by inducible CRISPR interference, then
-  released) with the growth environment held fixed, and other genes stay
-  in their changed expression state for many generations after the
-  perturbation is gone, with slow return excluded: either by following the
-  culture until the state has outlasted any plausible relaxation time, or
-  by showing that unperturbed cells started from the other state hold it
-  under the same conditions. Refuted for the network if well-powered
-  transient perturbations of the predicted genes (crp, with zraR, melR or
-  rhaRS as responders) are always followed by a return to the starting
-  state. What would not settle it: further simulations or rule ensembles;
-  agreement with strains evolved under a permanent knockout, which is not
-  a temporary disturbance; and environmentally induced bistable switches
-  such as the lac operon, which were known before and are not
-  perturbations of regulation alone.
-title: 'Transcriptional regulation alone can make a bacterium''s gene-expression state depend on its history: a transient change to one regulator can leave its regulatory network in a different self-maintaining state, but only through a gene that reaches a positive circuit'
-version: 1
+title: 'In an ensemble of sign-consistent Boolean rules on the 87-gene core of E. coli''s regulatory network, a transient knockout or overexpression of one gene can leave the network in a different attractor after release, and every gene that does so reaches a strongly connected component containing a positive circuit'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision file for THEORY-178 (batch 033, ADR-047
+    v3). The study was read in full, and the title now claims no more
+    than it showed: a model ensemble, not cells. The positive-circuit
+    condition is stated as measured in this network, because as a general
+    law of synchronous Boolean networks it fails. A dated note below gives
+    the counterexample. The promote_when, a transient perturbation in
+    cells with slow return excluded, moves unchanged to QUESTION-tmpq0kil.
 tags:
 - complex-systems
 - network-science
@@ -35,21 +31,22 @@ summary: >-
   overexpression that moves the network to a different attractor, and
   every such gene reaches a strongly connected component with a positive
   circuit. So one genotype may hold several heritable expression states
-  without epigenetic marks. The evidence is a model ensemble; no transient
-  perturbation has been shown to have a lasting effect in cells, so the
-  account is Proposed.
+  without epigenetic marks, in the model. The evidence is a model
+  ensemble, read in full in NOTE-655, and the title claims no more. No
+  transient perturbation has been shown to have a lasting effect in
+  cells; that experiment is QUESTION-tmpq0kil.
 supports:
 - CLAIM-184
 ---
 
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a neighbouring self-maintaining-loop account -->
 
-# THEORY-178: Transcriptional regulation alone can make a bacterium's gene-expression state depend on its history: a transient change to one regulator can leave its regulatory network in a different self-maintaining state, but only through a gene that reaches a positive circuit
+# THEORY-178: In an ensemble of sign-consistent Boolean rules on the 87-gene core of E. coli's regulatory network, a transient knockout or overexpression of one gene can leave the network in a different attractor after release, and every gene that does so reaches a strongly connected component containing a positive circuit
 
 ## Source
 
-Zhao, Wytock, Reynolds and Motter (2024), [LIT-854](../literature.d/LIT-854.md), read in
-[NOTE-655](../notes.d/NOTE-655.md).
+Zhao, Wytock, Reynolds and Motter (2024), [LIT-854](../literature.d/LIT-854.md), read in full in
+[NOTE-655](../notes.d/NOTE-655.md), with the Supplementary Text.
 
 ## What was actually shown
 
@@ -101,14 +98,42 @@ direction of change well and the irreversibility prediction only weakly
   is weak.
 - **Not a statement about eukaryotic cell fate**, where chromatin marks do
   the locking the paper sets aside.
+- **Not that a positive circuit is necessary in every Boolean network.**
+  In this core every irreversible gene reaches one. As a general law of
+  synchronous networks the condition fails (see the note of 2026-10-19).
 
 ## Connections
 
-- **[THEORY-136](THEORY-136.md)** gives the evidential standard this account must meet, and
-  the promotion condition above is written to it. Its remark that positive
+- **[THEORY-136](THEORY-136.md)** gives the evidential standard that a claim about cells
+  must meet, and [QUESTION-tmpq0kil](../questions.d/QUESTION-tmpq0kil.md) is written to it. Its remark that positive
   feedback must be strong to make alternative states matches the paper's
   continuous model: self-activation and switch-like response favour
   irreversibility.
 - **[THEORY-058](THEORY-058.md)** puts self-maintaining loops in symptom networks; this is
   the same mechanism at the molecular scale, and like it lacks a direct
   demonstration of hysteresis. No relation is declared.
+
+## Note of 2026-10-19: why the positive-circuit condition is stated for this network
+
+The promotion audit tried to re-derive the paper's necessity argument as a
+general theorem ([ADR-047](../decisions.d/ADR-047.md) v2). It does not hold for synchronous Boolean
+networks in general.
+
+1. Take a negative 2-cycle, a → b and b ⊣ a, with a' = ¬b and b' = a.
+   Every state lies on one period-4 cycle:
+   (0,0) → (1,0) → (1,1) → (0,1) → (0,0).
+2. Put an independent copy (c, d) elsewhere in the network. The joint
+   network has four attractors, one for each phase offset between the two
+   cycles.
+3. Clamp a and release it. The (a, b) cycle resumes at a shifted phase
+   while (c, d) keeps its own, so the network can end on a different joint
+   attractor. Yet a reaches only {a, b}, which holds no positive circuit.
+
+So necessity needs more than Thomas's rule. It needs that no gene outside
+the reach of positive circuits sits on a free negative oscillator. The
+paper silences autorepression when a gene is off, which removes the
+simplest case, a negative self-loop. In this core the condition holds,
+because the 36 genes that are never irreversible are 32 leaves and four
+genes (metJ, pdhR, argP, nac) whose only output is an autorepressive leaf
+([NOTE-655](../notes.d/NOTE-655.md), from the Supplementary Text). The title therefore states the
+condition as measured in this network.

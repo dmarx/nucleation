@@ -1,22 +1,23 @@
 ---
 number: 306
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8v921
-promote_when: >-
-  Two kinds of result, one for each half. For the prior: a derivation of
-  the cluster-size preference for the losses as used (VICReg with its
-  hinge variance term, SimCLR at finite temperature), or a measurement of
-  the cluster-size distribution that trained VICReg and SimCLR models
-  induce on data with known unequal classes. For the effect: the
-  imbalance experiment repeated with batches sampled uniformly from a
-  naturally long-tailed dataset, at one architecture across methods, with
-  seeds. The account is refuted for a method if its learned partitions
-  track unequal class sizes as well as an instance-based method's do.
-  What cannot settle it: more results with two-class batches, or gains
-  from a prior matched with labels.
-title: 'Volume-maximizing joint-embedding objectives carry a prior toward equal-sized clusters, explicit in MSN and SwAV and derived for VICReg only through a reduction to K-means, and with mini-batches of two to eight classes they lose semantic transfer while MAE and data2vec do not'
-version: 1
+title: "MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision file for THEORY-306 (batch 033, ADR-047
+    v3). The title keeps what is exact and what one study, read in full,
+    measured. MSN's and SwAV's prior holds by their definitions, and a
+    dated note below gives the identity. The imbalance result is stated
+    for the methods and batches tested. The class-wide claim is dropped,
+    because VICReg's prior rests on a reduction of a simplified loss and
+    SimCLR's on a cited equivalence. The promote_when moves unchanged to
+    QUESTION-tmp06usk.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -29,13 +30,14 @@ summary: >-
   over mean cluster assignments) and in SwAV's equipartition constraint.
   For VICReg it rests on an informal reduction of a simplified loss to
   K-means and on K-means's cited tendency to equal clusters, and for
-  SimCLR on a cited equivalence. The effect is shown with batches of
-  two to eight ImageNet classes, one run per cell, not with natural long
-  tails.
+  SimCLR on a cited equivalence, so the title claims the prior for MSN
+  and SwAV only. The effect is shown with batches of two to eight
+  ImageNet classes, one run per cell, not with natural long tails; the
+  open half is QUESTION-tmp06usk.
 ---
 <!-- inactive-ok-file: THEORY-305 THEORY-228 — Proposed; neighbouring accounts of what self-supervised objectives commit a representation to, open -->
 
-# THEORY-306: Volume-maximizing joint-embedding objectives carry a prior toward equal-sized clusters, explicit in MSN and SwAV and derived for VICReg only through a reduction to K-means, and with mini-batches of two to eight classes they lose semantic transfer while MAE and data2vec do not
+# THEORY-306: MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one
 
 ## Source
 
@@ -84,7 +86,7 @@ account predicts.
 
 ## What this does not say
 
-- **It does not say the prior is equally established for every method.**
+- **It does not say every volume-maximizing objective carries the prior.**
   It is exact for MSN and SwAV. For VICReg it rests on a reduction of a
   simplified loss plus a cited property of K-means, and for SimCLR on a
   cited equivalence.
@@ -116,3 +118,18 @@ account predicts.
   concern which subspace the invariance term selects. This one concerns a
   bias of the anti-collapse term over partitions, and is compatible with
   them.
+
+## Note of 2026-10-19: the prior in MSN and SwAV, checked
+
+MSN's regularizer is the entropy of the batch-mean assignment p̄ over K
+prototypes. Then
+
+D_KL(p̄ ‖ U_K) = Σ_k p̄_k log(p̄_k K) = log K − H(p̄),
+
+so −H(p̄) = D_KL(p̄ ‖ U_K) − log K. Maximizing H(p̄) is minimizing the KL
+from the soft cluster sizes p̄ to uniform, which is [LIT-231](../literature.d/LIT-231.md)'s footnote 2.
+Proposition 3 sharpens this to hard cluster sizes at zero temperature, and
+the title needs only the identity. SwAV's Sinkhorn–Knopp step projects the
+assignment matrix onto matrices whose prototype sums are all N/K (Eq. 8),
+so equal soft cluster sizes are a constraint of the method. Neither half
+needs Propositions 2 or 4, which are the sketches [NOTE-850](../notes.d/NOTE-850.md) flags.
