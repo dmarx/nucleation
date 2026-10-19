@@ -1,18 +1,16 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 2
+version: 3
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batch-001
-  state: reviewed
-  in_review: null
-  next_step: 'Batch 001 is reviewed and its decisions are written. Next: open the promotion and correction
-    PRs it calls for (at most three entries each: CLAIM-267 and CLAIM-270 promote; CLAIM-285 split; CLAIM-077
-    and CLAIM-098 warrant corrections). Or start batch-002 with the next five pending candidates in queue
-    order.'
+  batch: batch-002
+  state: in_progress
+  in_review: CLAIM-308
+  next_step: 'Batch 002 in progress: finish the in_review candidate, then continue with the next pending
+    candidates in queue order until five are decided.'
   cautions:
   - 'PR #165 is open. Its tmp codes (CLAIM-tmpzk12h and others) are concretized at merge; update decisions/
     when they are.'
@@ -154,7 +152,7 @@ candidates:
     cost: 4
     risk: 2
   proposed_deps: []
-  state: pending
+  state: in_review
 - code: CLAIM-063
   wave: 1
   score: 16
@@ -427,3 +425,6 @@ history:
     because the branch was cut without fetching. Scores moved by one for CLAIM-123, CLAIM-128 and CLAIM-285,
     and CLAIM-326 was added. Batch-001's five entries are identical in both revisions except for cross-references,
     so its decisions stand and are re-pinned to d3f55159.
+- version: 3
+  date: '2026-10-19'
+  note: Batch-002 opened; CLAIM-308 in review.
