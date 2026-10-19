@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**793 document(s) awaiting a decision.**
+**791 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 793.
+95 of the 791.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-466 of the 793.
+464 of the 791.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -237,7 +237,7 @@
 | 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 50 | 0 | A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity |
 | 2026-10-09 | Proposed | [THEORY-194](../../record/theory.d/THEORY-194.md) | 44 | 1 | For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about |
 | 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 39 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
-| 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 35 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
+| 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 36 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
 | 2026-10-09 | Proposed | [THEORY-197](../../record/theory.d/THEORY-197.md) | 33 | 2 | Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization |
 | 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 30 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-183](../../record/theory.d/THEORY-183.md) | 29 | 0 | When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics |
@@ -465,7 +465,6 @@
 | 2026-10-16 | Proposed | [THEORY-684](../../record/theory.d/THEORY-684.md) | 4 | 0 | Experiencing oneself as a self that was there in the further past, seeking pattern in one's life, fitting it to a story and falsifying it in the telling are separable, and fitting it to a story suffices for narrativity; on testimony that some normal people are Episodic and live good lives, neither the claim that people experience their lives as narratives nor the claim that a good life or full personhood needs it holds in general |
 | 2026-10-16 | Proposed | [THEORY-687](../../record/theory.d/THEORY-687.md) | 4 | 1 | For empirically equivalent dual theories read naively, adding the common core as a candidate world does not break the underdetermination, and neither do super-empirical virtues or an overarching theory: each route to a single actual world needs a further metaphysical principle, such as the identity of indiscernibles |
 | 2026-10-16 | Proposed | [THEORY-703](../../record/theory.d/THEORY-703.md) | 4 | 4 | Weak emergence of a macro variable from micro variables can be measured as its Granger autonomy from them times their mean Granger causation of it, which is zero if it is independent of them or fully predicted by them; in a boids model this measure, and Granger causation from the flock's centre of mass to each boid, are higher for flocking than for random or rigid motion; the measure is relative to the regression model and the variables included |
-| 2026-10-16 | Proposed | [THEORY-391](../../record/theory.d/THEORY-391.md) | 3 | 0 | Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that face counts of randomly projected polytopes fix for Gaussian matrices; eight non-Gaussian ensembles were observed to approach the same curve, with gaps shrinking as N^(−1/2), while at finite N the location depends on the ensemble |
 | 2026-10-16 | Proposed | [THEORY-416](../../record/theory.d/THEORY-416.md) | 3 | 0 | Quantum thermodynamics has at least four inequivalent notions of work, the ensemble average, the two-point-measurement random variable, the ε-deterministic single-shot work content and the resource-theory work, which answer different operational questions; only the two single-shot optima coincide, by identification of formulas and for energy-diagonal states |
 | 2026-10-16 | Proposed | [THEORY-419](../../record/theory.d/THEORY-419.md) | 3 | 1 | In a structural causal model an intervention do(X = x) is a surgery that deletes X's own equation, sets X to x and solves the rest, while observing X = x violates no equation and is ordinary conditioning; so models that agree on every observational distribution can disagree on the effect of an intervention, and a structural coefficient is the rate of change of E[Y | do(x)], not a regression slope |
 | 2026-10-16 | Proposed | [THEORY-436](../../record/theory.d/THEORY-436.md) | 3 | 0 | Pain is a functional state of a whole organism, possessing a certain functional organisation as a probabilistic automaton, rather than a brain state, and this is the more plausible empirical hypothesis because one pain predicate applies to physically different organisms; the hypothesis keeps swarms out only by a stipulated condition that no pain-feeler has parts that separately possess the organisation |
@@ -475,7 +474,6 @@
 | 2026-10-16 | Proposed | [THEORY-457](../../record/theory.d/THEORY-457.md) | 3 | 2 | When people can choose their cooperation partners and have equal outside options, the stable division of jointly produced gains is in proportion to each partner's contribution, and partner choice selects for a genuine sense of fairness as proportionality |
 | 2026-10-16 | Proposed | [THEORY-458](../../record/theory.d/THEORY-458.md) | 3 | 0 | Within the minimal self, the sense that a movement or a thought is mine and the sense that I am its source are distinct and come apart, as in involuntary movement and thought insertion; on Frith's comparator model the sense of agency depends on a forward model that precedes action and ownership on sensory feedback, so failed forward monitoring would explain thought insertion and, by the same mechanism, why first-person reference ordinarily cannot misidentify its subject |
 | 2026-10-16 | Proposed | [THEORY-465](../../record/theory.d/THEORY-465.md) | 3 | 0 | Being reproduced does not entail reproducing: genes of multicellular organisms, like hearts, are reproducees with little reproductive autonomy and differ from hearts in reproductive causal control, and material overlap between parent and offspring is required of reproducers, which are whole life cycles, but not of reproducees |
-| 2026-10-16 | Proposed | [THEORY-472](../../record/theory.d/THEORY-472.md) | 3 | 0 | A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly |
 | 2026-10-16 | Proposed | [THEORY-511](../../record/theory.d/THEORY-511.md) | 3 | 0 | Illocutionary acts that are not essentially conventional, such as warning, entreating and objecting, are individuated by a wholly overt, audience-directed intention, Grice's three intentions with a fourth that the audience recognise the second, and are performed when that intention is understood; acts such as verdicts and umpires' calls exist only within rule-governed procedures and fall outside the scheme |
 | 2026-10-16 | Proposed | [THEORY-527](../../record/theory.d/THEORY-527.md) | 3 | 1 | If agents are the systems that would adapt their policy were their actions to affect the world differently, then in causal models with mechanism variables they can be found from interventions on mechanisms, provably under five assumptions; on that definition the agent is wherever the adaptation is, so a thermostat is not an agent while it together with its design process is, and an RL training process is while its learnt policy generally is not |
 | 2026-10-16 | Proposed | [THEORY-548](../../record/theory.d/THEORY-548.md) | 3 | 0 | A delay in the interactions of a large random Lotka–Volterra community whose undelayed equilibrium is feasible and globally stable destabilises it through a Hopf bifurcation at a critical delay set by the community spectrum, giving sustained oscillation with no external forcing; whether diversity then stabilises depends on the measure, since in the oscillating regime community-level variability falls with diversity while species-level variability rises |
@@ -584,7 +582,7 @@
 
 ## ADRs
 
-2 of the 793.
+2 of the 791.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -593,7 +591,7 @@
 
 ## QUESTIONs
 
-9 of the 793.
+9 of the 791.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -609,7 +607,7 @@
 
 ## CLAIMs
 
-216 of the 793.
+216 of the 791.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -832,7 +830,7 @@
 
 ## CASEs
 
-1 of the 793.
+1 of the 791.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -840,7 +838,7 @@
 
 ## TERMs
 
-2 of the 793.
+2 of the 791.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -849,7 +847,7 @@
 
 ## ARGs
 
-2 of the 793.
+2 of the 791.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

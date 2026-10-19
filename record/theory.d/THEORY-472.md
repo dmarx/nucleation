@@ -17,7 +17,7 @@ history:
     studies. The promote_when asked for an experiment that discriminates
     between an informative-speaker learner and a plain size-principle
     learner, which tests a claim the body disclaims. It moves unchanged to
-    QUESTION-tmp2pp7t.
+    QUESTION-167.
 tags:
 - pragmatics
 - cognition

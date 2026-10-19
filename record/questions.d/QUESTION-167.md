@@ -1,5 +1,8 @@
 ---
+number: 167
 status: Open
+formerly:
+- QUESTION-tmp2pp7t
 title: 'Do word learners reason about an informative speaker, or only apply the size principle, when displays are built so that the two predict different bets?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-172 — Proposed; the rational-speech-act account this question bears on, named and not leaned on -->
 
-# QUESTION-tmp2pp7t: Do word learners reason about an informative speaker, or only apply the size principle, when displays are built so that the two predict different bets?
+# QUESTION-167: Do word learners reason about an informative speaker, or only apply the size principle, when displays are built so that the two predict different bets?
 
 ## Why it is a question
 

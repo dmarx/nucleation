@@ -1,5 +1,8 @@
 ---
+number: 168
 status: Open
+formerly:
+- QUESTION-tmpnscuv
 title: 'Does the ℓ₁ recovery transition of some non-Gaussian measurement ensemble provably converge to the Gaussian curve ρ(δ) as N → ∞, or do simulations an order of magnitude beyond N = 1600 keep the gap shrinking as N^(−1/2) for an ensemble not used to choose that exponent?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   moved here unchanged.
 ---
 
-# QUESTION-tmpnscuv: Does the ℓ₁ recovery transition of some non-Gaussian measurement ensemble provably converge to the Gaussian curve ρ(δ) as N → ∞, or do simulations an order of magnitude beyond N = 1600 keep the gap shrinking as N^(−1/2) for an ensemble not used to choose that exponent?
+# QUESTION-168: Does the ℓ₁ recovery transition of some non-Gaussian measurement ensemble provably converge to the Gaussian curve ρ(δ) as N → ∞, or do simulations an order of magnitude beyond N = 1600 keep the gap shrinking as N^(−1/2) for an ensemble not used to choose that exponent?
 
 ## Why it is a question
 

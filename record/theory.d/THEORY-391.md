@@ -15,7 +15,7 @@ history:
     attributes the Gaussian transition to the earlier theorems the paper
     restates, which the record does not hold. It also says the N^(−1/2)
     exponent was fitted on the same data. The promote_when, a proof or larger
-    simulations, moves unchanged to QUESTION-tmpnscuv.
+    simulations, moves unchanged to QUESTION-168.
 tags:
 - mathematics
 - mathematical-statistics
@@ -32,7 +32,7 @@ summary: >-
   rejected, and agreement as N → ∞ is not rejected. Sparse and Hadamard
   matrices sit about one transition width low at small N. The title states
   only what was measured. Whether the agreement is a limit theorem is
-  QUESTION-tmpnscuv.
+  QUESTION-168.
 ---
 
 # THEORY-391: Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble
