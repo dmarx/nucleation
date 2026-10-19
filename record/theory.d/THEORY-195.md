@@ -18,7 +18,7 @@ history:
     of input patches rise above sampling noise: in this model that threshold
     and the grammar's size are the same expression, and the body disclaims the
     attribution. That clause and the promote_when move, unchanged, to
-    QUESTION-tmpbqvmq.
+    QUESTION-165.
 tags:
 - learning-theory
 - compositionality
@@ -128,6 +128,6 @@ The scaling argument of §III.B and Appendix C, which puts the
 detectability threshold of those correlations at the same n_c m^L, stays
 above as the paper's argument. It is a large-v estimate, not a bound
 ([NOTE-677](../notes.d/NOTE-677.md), claim C4). Whether that threshold, rather than the grammar's
-size, sets the number of examples is [QUESTION-tmpbqvmq](../questions.d/QUESTION-tmpbqvmq.md). Deep fully
+size, sets the number of examples is [QUESTION-165](../questions.d/QUESTION-165.md). Deep fully
 connected networks (within a factor of about 2^L, one figure) are not in
 the title.

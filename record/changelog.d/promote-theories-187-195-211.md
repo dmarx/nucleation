@@ -1,14 +1,14 @@
 ### Added
 
-- [QUESTION-tmpzeamh](record/questions.d/QUESTION-tmpzeamh.md): whether the depth law of deep linear networks holds
+- [QUESTION-166](record/questions.d/QUESTION-166.md): whether the depth law of deep linear networks holds
   from starts off the decoupled set, such as random orthogonal weights. It
   holds [THEORY-187](record/theory.d/THEORY-187.md)'s former promote_when, unchanged, and refines
   [QUESTION-039](record/questions.d/QUESTION-039.md).
-- [QUESTION-tmpbqvmq](record/questions.d/QUESTION-tmpbqvmq.md): whether the number of examples a deep network needs on
+- [QUESTION-165](record/questions.d/QUESTION-165.md): whether the number of examples a deep network needs on
   the Random Hierarchy Model is set by the detectability of patch–label
   correlations or by the grammar's size. It holds [THEORY-195](record/theory.d/THEORY-195.md)'s former
   promote_when, unchanged.
-- [QUESTION-tmp8swvm](record/questions.d/QUESTION-tmp8swvm.md): whether the law of balance holds in a deep network
+- [QUESTION-164](record/questions.d/QUESTION-164.md): whether the law of balance holds in a deep network
   trained on real data. It holds [THEORY-211](record/theory.d/THEORY-211.md)'s former promote_when,
   unchanged, and refines [QUESTION-069](record/questions.d/QUESTION-069.md).
 

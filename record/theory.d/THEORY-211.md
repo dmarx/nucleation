@@ -18,7 +18,7 @@ history:
     flow and isotropic noise are re-derived in the note of 2026-10-19 below
     (ADR-047 v2). The promote_when asked for the law measured in a deep
     network on real data, which the body disclaims. It moves, unchanged, to
-    QUESTION-tmp8swvm.
+    QUESTION-164.
 tags:
 - learning-theory
 - loss-landscapes
@@ -43,7 +43,7 @@ summary: >-
   it is non-ergodic, has a memory of initialization, and collapses to zero
   above a critical temperature. The law is re-derived here (2026-10-19)
   within the SDE model; the tests are small synthetic networks, and
-  whether it holds in deep networks on real data is QUESTION-tmp8swvm.
+  whether it holds in deep networks on real data is QUESTION-164.
 supports:
 - CLAIM-093
 ---

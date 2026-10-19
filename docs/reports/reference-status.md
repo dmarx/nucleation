@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**512 documents cited without acknowledgement.** Not listed: 10040 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**510 documents cited without acknowledgement.** Not listed: 9968 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -974,7 +974,7 @@ Two communicative realizations can agree on every probe in a restricted family w
 - [`record/questions.d/QUESTION-067.md:61`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:98`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-069.md:30`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:46`](../../record/questions.d/QUESTION-069.md)
 
 ### [CLAIM-357](../../record/claims.d/CLAIM-357.md) — Proposed
 
@@ -1952,7 +1952,7 @@ Whether two systems compute the same way can be tested by quotienting the full a
 - [`record/decisions.d/ADR-040.md:200`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:219`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-069.md:30`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:44`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:46`](../../record/questions.d/QUESTION-069.md)
 
 ### [CLAIM-193](../../record/claims.d/CLAIM-193.md) — Proposed
 
@@ -2158,7 +2158,7 @@ Across load and temperature, the connectivity and output similarity of independe
 - [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
 - [`record/notes.d/NOTE-714.md:129`](../../record/notes.d/NOTE-714.md)
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:53`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:55`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-109.md:175`](../../record/theory.d/THEORY-109.md)
 - [`record/theory.d/THEORY-109.md:179`](../../record/theory.d/THEORY-109.md)
 
@@ -2187,19 +2187,6 @@ In a language a term's value is fixed by its relations to the coexisting terms o
 - [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
 - [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
-
-### [THEORY-187](../../record/theory.d/THEORY-187.md) — Proposed
-
-In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
-
-6 citations in 4 files await a look; 16 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-984.md:89`](../../record/literature.d/LIT-984.md)
-- [`record/notes.d/NOTE-715.md:110`](../../record/notes.d/NOTE-715.md)
-- [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:52`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:56`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-081.md:66`](../../record/questions.d/QUESTION-081.md)
 
 ### [THEORY-220](../../record/theory.d/THEORY-220.md) — Proposed
 
@@ -2572,9 +2559,9 @@ The solutions SGD finds in a deep network lie in one connected low-loss set, joi
 
 - [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:48`](../../record/questions.d/QUESTION-069.md)
-- [`record/theory.d/THEORY-108.md:185`](../../record/theory.d/THEORY-108.md)
-- [`record/theory.d/THEORY-108.md:187`](../../record/theory.d/THEORY-108.md)
+- [`record/questions.d/QUESTION-069.md:50`](../../record/questions.d/QUESTION-069.md)
+- [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
+- [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
 
 ### [THEORY-131](../../record/theory.d/THEORY-131.md) — Proposed
 
@@ -2852,7 +2839,7 @@ The later phases reported in neural-network training differ in kind: after the t
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:55`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:56`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-043](../../record/theory.d/THEORY-043.md) — Proposed
 
@@ -3560,16 +3547,6 @@ Continuous parameter symmetries stretch a network's minima into connected manifo
 - [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
 - [`record/literature.d/LIT-970.md:82`](../../record/literature.d/LIT-970.md)
 - [`record/notes.d/NOTE-712.md:130`](../../record/notes.d/NOTE-712.md)
-
-### [THEORY-211](../../record/theory.d/THEORY-211.md) — Proposed
-
-Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise would, and differs from gradient descent by a finite amount however small the noise
-
-3 citations in 2 files await a look; 23 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-943.md:79`](../../record/literature.d/LIT-943.md)
-- [`record/theory.d/THEORY-210.md:109`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:139`](../../record/theory.d/THEORY-210.md)
 
 ### [THEORY-217](../../record/theory.d/THEORY-217.md) — Proposed
 
@@ -4516,7 +4493,7 @@ Fine-tuning from one pretrained model lands near the edge of a task-specific low
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:51`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:53`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-106](../../record/theory.d/THEORY-106.md) — Proposed
 
@@ -4534,7 +4511,7 @@ Merging models fine-tuned from one pretrained start loses accuracy through inter
 2 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:52`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:54`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-110](../../record/theory.d/THEORY-110.md) — Proposed
 
@@ -4543,7 +4520,7 @@ A set of trained solutions has a centre that is linearly connected, after alignm
 2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:50`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:52`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-114](../../record/theory.d/THEORY-114.md) — Proposed
 
@@ -4552,7 +4529,7 @@ Linear mode connectivity emerges during training, not at initialization: copies 
 2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-069.md:32`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:49`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:51`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-122](../../record/theory.d/THEORY-122.md) — Proposed
 
@@ -4687,7 +4664,7 @@ On sparse hierarchical data, deep networks become insensitive to swapping synony
 2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:53`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:54`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-204](../../record/theory.d/THEORY-204.md) — Proposed
 
@@ -4696,7 +4673,7 @@ In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), w
 2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:54`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:55`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-205](../../record/theory.d/THEORY-205.md) — Proposed
 
@@ -6068,6 +6045,7 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
+- record/theory.d/THEORY-201.md:42: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
 - record/theory.d/THEORY-255.md:44: annotation no longer applies — nothing in scope cites LIT-316
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now

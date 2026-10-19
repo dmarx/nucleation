@@ -18,7 +18,7 @@ history:
     NOTE-667 did not check, the stable step size and the iteration count are
     re-derived in the note of 2026-10-19 below (ADR-047 v2). The promote_when
     asked about starts off the decoupled set, which the body disclaims. It
-    moves, unchanged, to QUESTION-tmpzeamh.
+    moves, unchanged, to QUESTION-166.
 tags:
 - learning-theory
 date: '2026-10-09'
@@ -162,4 +162,4 @@ m = N_l − 1 be the number of weight layers.
 
 Each step uses the balanced, decoupled start. Off the decoupled set the
 modes couple and step 1 fails, which is why the general case is
-[QUESTION-tmpzeamh](../questions.d/QUESTION-tmpzeamh.md).
+[QUESTION-166](../questions.d/QUESTION-166.md).

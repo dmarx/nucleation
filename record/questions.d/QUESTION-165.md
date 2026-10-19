@@ -1,5 +1,8 @@
 ---
+number: 165
 status: Open
+formerly:
+- QUESTION-tmpbqvmq
 title: "On the Random Hierarchy Model, is the number of examples a deep network needs set by when patch-label correlations become detectable, or by the size of the grammar, once the two are separated by moving the correlations with n_c, m and L fixed?"
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   cannot say which one sets the number of examples.
 ---
 
-# QUESTION-tmpbqvmq: On the Random Hierarchy Model, is the number of examples a deep network needs set by when patch-label correlations become detectable, or by the size of the grammar, once the two are separated by moving the correlations with n_c, m and L fixed?
+# QUESTION-165: On the Random Hierarchy Model, is the number of examples a deep network needs set by when patch-label correlations become detectable, or by the size of the grammar, once the two are separated by moving the correlations with n_c, m and L fixed?
 
 ## Why it is a question
 

@@ -1,5 +1,8 @@
 ---
+number: 164
 status: Open
+formerly:
+- QUESTION-tmp8swvm
 title: "Does the law of balance hold in a deep network trained on real data during its limiting dynamics: for parameter groups related by a rescaling symmetry, does the difference of squared norms move toward the value where the groups' gradient-noise traces are equal, at a rate that scales with learning rate over batch size?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   networks.
 ---
 
-# QUESTION-tmp8swvm: Does the law of balance hold in a deep network trained on real data during its limiting dynamics: for parameter groups related by a rescaling symmetry, does the difference of squared norms move toward the value where the groups' gradient-noise traces are equal, at a rate that scales with learning rate over batch size?
+# QUESTION-164: Does the law of balance hold in a deep network trained on real data during its limiting dynamics: for parameter groups related by a rescaling symmetry, does the difference of squared norms move toward the value where the groups' gradient-noise traces are equal, at a rate that scales with learning rate over batch size?
 
 ## Why it is a question
 
