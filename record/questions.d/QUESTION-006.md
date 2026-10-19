@@ -21,7 +21,7 @@ summary: >-
 refined_by:
 - QUESTION-027
 ---
-<!-- inactive-ok-file: THEORY-158 THEORY-160 THEORY-190 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: THEORY-190 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-049 CLAIM-074 CLAIM-107 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-006: Which pragmatic observables are conserved, exactly or within a bounded defect, by actual reconstruction kernels, and how does that depend on frame, genre and adaptation?

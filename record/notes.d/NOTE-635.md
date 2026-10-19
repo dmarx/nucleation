@@ -36,7 +36,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn predecessor, named to say what this paper replaces -->
-<!-- inactive-ok-file: THEORY-171 — Proposed; the account this trilogy warrants, named not leaned on -->
 
 # NOTE-635: The Combinatorics of Causality
 

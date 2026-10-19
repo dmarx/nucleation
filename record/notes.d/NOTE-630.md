@@ -31,8 +31,6 @@ summary: >-
   Alfsen–Shultz's dynamical correspondence for JB-algebras.
 ---
 
-<!-- inactive-ok-file: THEORY-160 — Proposed; filed from this reading -->
-<!-- inactive-ok-file: THEORY-158 — Proposed; compared as the Markov-process case, not leaned on -->
 <!-- inactive-ok-file: CLAIM-107 — Proposed; named for the bearing reported, not edited -->
 
 # NOTE-630: Getting to the Bottom of Noether's Theorem

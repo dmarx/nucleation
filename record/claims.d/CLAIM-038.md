@@ -51,7 +51,6 @@ complements:
 argued_by:
 - ARG-010
 ---
-<!-- inactive-ok-file: THEORY-171 — Proposed; sheaf condition for causal functions, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-042 CLAIM-119 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; the definition version 1 was stated in, cited as history -->
 <!-- inactive-ok-file: ARG-010 — Rejected; the physical analogy offered for this claim and declined, cited as such -->
