@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 39
+version: 41
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-006
   state: in_progress
-  in_review: THEORY-277
+  in_review: THEORY-247
   next_step: 'Batch 006 (wave 2) in progress: THEORY-325, THEORY-277, THEORY-247, THEORY-236, THEORY-206,
     in that order. Finish the one in_review first.'
   cautions:
@@ -25,7 +25,7 @@ waves:
   promotion_paths: 10
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 12
+  reviewed: 13
   promotion_paths: 12
 - wave: 3
   class: Source-backed THEORYs
@@ -565,12 +565,15 @@ candidates:
   wave: 2
   score: 4
   triage: triage-002
-  state: in_review
+  state: decided
+  disposition: retain-proposed
+  batch: batch-006
+  decision: decisions/THEORY-277.yaml
 - code: THEORY-247
   wave: 2
   score: 4
   triage: triage-002
-  state: pending
+  state: in_review
 - code: THEORY-236
   wave: 2
   score: 4
@@ -770,4 +773,11 @@ history:
 - version: 39
   date: '2026-10-19'
   note: 'Batch 006: THEORY-277 in review.'
+- version: 40
+  date: '2026-10-19'
+  note: 'Batch 006: THEORY-277 retain-proposed (single theorem; promote_when asks for an independent proof,
+    not held).'
+- version: 41
+  date: '2026-10-19'
+  note: 'Batch 006: THEORY-247 in review.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
