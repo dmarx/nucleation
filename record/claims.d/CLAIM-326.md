@@ -21,7 +21,7 @@ history:
     Split at the owner's direction, carrying out the promotion audit's
     decision (record/promotion-audit/decisions/CLAIM-326.yaml, batch 014,
     ADR-047). Steps (a) to (d) for finitely many outcomes are now
-    CLAIM-tmpew698, demonstrated and Active, on THEORY-717. This claim
+    CLAIM-380, demonstrated and Active, on THEORY-717. This claim
     rests on it and keeps the unrestricted statement, whose step (b)
     needs the general converse (THEORY-156, Proposed). The claim is
     unchanged, and the status stays Proposed.
@@ -40,7 +40,7 @@ tags:
 date: '2026-10-15'
 line: pragmatic-transport
 rests_on:
-- CLAIM-tmpew698
+- CLAIM-380
 grounds:
 - THEORY-156
 - THEORY-717
@@ -134,5 +134,5 @@ spaces, so it keeps both grounds.
 ## Note of 2026-10-19: the finite case, split off
 
 The finite-outcome case of steps (a) to (d), with the worked case checked,
-is now [CLAIM-tmpew698](CLAIM-tmpew698.md), Active. What keeps this claim Proposed is only
+is now [CLAIM-380](CLAIM-380.md), Active. What keeps this claim Proposed is only
 step (b) for outcome spaces that are not finite.

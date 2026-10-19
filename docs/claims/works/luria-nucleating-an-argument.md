@@ -6,7 +6,7 @@
 
 **luria: nucleating an argument** — the owner's manuscript, proposed 2026-10-11: an argument developed with stateless collaborators drifts in identity, not structure; a project memory that makes structures persist gives it anchors to grow on, and the manuscript becomes a view over the argument rather than its only copy. luria is the tool and this record the case.
 
-18 of 379 CLAIM documents. Back to the [full index](../README.md).
+18 of 381 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

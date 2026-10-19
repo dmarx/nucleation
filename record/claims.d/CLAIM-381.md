@@ -1,5 +1,8 @@
 ---
+number: 381
 status: Active
+formerly:
+- CLAIM-tmppwjei
 title: "Over a finite class of items with finite judgement outcomes, a constant outcome kernel fits every item only when the target readers' averaged responses do not vary with the item, an exact fit is a garbling with the item as common parameter, and Le Cam's deficiency and its restriction to finitely many decision problems are finite computations"
 version: 1
 history:
@@ -49,7 +52,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-228 — Proposed; the proposal this was split from, cited as open -->
 
-# CLAIM-tmppwjei: Over a finite class of items with finite judgement outcomes, a constant outcome kernel fits every item only when the target readers' averaged responses do not vary with the item, an exact fit is a garbling with the item as common parameter, and Le Cam's deficiency and its restriction to finitely many decision problems are finite computations
+# CLAIM-381: Over a finite class of items with finite judgement outcomes, a constant outcome kernel fits every item only when the target readers' averaged responses do not vary with the item, an exact fit is a garbling with the item as common parameter, and Le Cam's deficiency and its restriction to finitely many decision problems are finite computations
 
 ## The claim
 

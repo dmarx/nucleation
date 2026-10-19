@@ -1,11 +1,11 @@
 ### Added
 
-- [CLAIM-tmpew698](record/claims.d/CLAIM-tmpew698.md), Active, demonstrated. For finitely many states and
+- [CLAIM-380](record/claims.d/CLAIM-380.md), Active, demonstrated. For finitely many states and
   outcomes, the directed Bayes-risk term D⁺ is zero from a garbling back to
   its source. It vanishes for every finite problem and prior exactly when
   the rendering is at least as informative ([THEORY-717](record/theory.d/THEORY-717.md)), and A86's D_Q is
   its symmetrization. Split from [CLAIM-326](record/claims.d/CLAIM-326.md).
-- [CLAIM-tmppwjei](record/claims.d/CLAIM-tmppwjei.md), Active, demonstrated. Over finitely many items with
+- [CLAIM-381](record/claims.d/CLAIM-381.md), Active, demonstrated. Over finitely many items with
   finite judgement outcomes:
   - a constant kernel fits only item-independent target responses;
   - exact fit is a garbling;

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**513 documents cited without acknowledgement.** Not listed: 10110 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**513 documents cited without acknowledgement.** Not listed: 10128 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2428,11 +2428,11 @@ A pattern can persist while every constituent is replaced and some constituents 
 
 With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order over finitely many states, and has A86's D_Q, with the identity on tasks, as its symmetrization
 
-5 citations in 4 files await a look.
+5 citations in 4 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-199.md:70`](../../record/claims.d/CLAIM-199.md)
-- [`record/claims.d/CLAIM-259.md:146`](../../record/claims.d/CLAIM-259.md)
-- [`record/claims.d/CLAIM-259.md:149`](../../record/claims.d/CLAIM-259.md)
+- [`record/claims.d/CLAIM-259.md:147`](../../record/claims.d/CLAIM-259.md)
+- [`record/claims.d/CLAIM-259.md:150`](../../record/claims.d/CLAIM-259.md)
 - [`record/decisions.d/ADR-043.md:252`](../../record/decisions.d/ADR-043.md)
 - [`record/theory.d/THEORY-156.md:118`](../../record/theory.d/THEORY-156.md)
 
@@ -3168,7 +3168,7 @@ Over a fixed scenario, a change of global compatibility at small local distortio
 
 The decision term should be the positive part of the risk increase on the same decision problem, with losses in [0, 1] and a stated prior; so restated it is directed, counts no improvement as loss, and vanishes for every problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order
 
-3 citations in 1 file await a look; 14 other citations of it are acknowledged.
+3 citations in 1 file await a look; 15 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:241`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:249`](../../record/decisions.d/ADR-043.md)
@@ -3548,7 +3548,7 @@ A platform that sits between the two sides of a market and can cheaply change ho
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-3 citations in 3 files await a look; 52 other citations of it are acknowledged.
+3 citations in 3 files await a look; 55 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-350.md:95`](../../record/claims.d/CLAIM-350.md)
 - [`record/literature.d/LIT-781.md:90`](../../record/literature.d/LIT-781.md)

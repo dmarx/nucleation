@@ -1,5 +1,8 @@
 ---
+number: 380
 status: Active
+formerly:
+- CLAIM-tmpew698
 title: "With finitely many states and finitely many outcomes, the positive part of the Bayes-risk increase on the same decision problem is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source, and has A86's D_Q as its symmetrization"
 version: 1
 history:
@@ -47,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-326 CLAIM-259 THEORY-156 — Proposed; the general statement this was split from, the proposal it supports, and the general converse this does not use, cited as open -->
 
-# CLAIM-tmpew698: With finitely many states and finitely many outcomes, the positive part of the Bayes-risk increase on the same decision problem is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source, and has A86's D_Q as its symmetrization
+# CLAIM-380: With finitely many states and finitely many outcomes, the positive part of the Bayes-risk increase on the same decision problem is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source, and has A86's D_Q as its symmetrization
 
 ## The claim
 

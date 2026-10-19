@@ -22,7 +22,7 @@ history:
     decision (record/promotion-audit/decisions/CLAIM-228.yaml, batch 014,
     ADR-047). Its derivations (the across-items exclusion of constant
     kernels, exact fit as a garbling, and deficiency as a finite
-    linear programme) are now CLAIM-tmppwjei, demonstrated and Active.
+    linear programme) are now CLAIM-381, demonstrated and Active.
     This claim rests on it. What it keeps is the proposal that
     fidelity so restated is informative, and its defeat condition is
     a study (CASE-055). So its warrant is corrected from demonstrated to
@@ -44,7 +44,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
 - CLAIM-011
-- CLAIM-tmppwjei
+- CLAIM-381
 grounds:
 - THEORY-156
 complements:
@@ -180,5 +180,5 @@ stated as such."
 
 The three derivations in "The claim", the constant-kernel exclusion, exact
 fit as a garbling and the finite deficiency computation, are now
-[CLAIM-tmppwjei](CLAIM-tmppwjei.md), demonstrated and Active. This claim keeps the proposal and
+[CLAIM-381](CLAIM-381.md), demonstrated and Active. This claim keeps the proposal and
 its empirical test.
