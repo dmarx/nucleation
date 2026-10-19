@@ -1,0 +1,75 @@
+# record/promotion-audit/decisions/THEORY-585.yaml
+id: THEORY-585
+batch: batch-044
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    Both things the promote_when asks for, proved here (ADR-047 v2), for
+    finite-dimensional H₁, H₂ with dim H₂ ≥ 2, outer (spectral-order)
+    daseinisation δ(Â)_V = ∫λ d(δ^i(Ê_λ)_V), where δ^i(P)_V is the largest
+    projection of V below P, and the pulled-back arrow at a context W of
+    H₁⊗H₂ given by δ(Â₁)_{V_W}⊗1̂, V_W the largest V with V⊗ℂ1̂ ⊆ W (so
+    V_W = W ∩ (B(H₁)⊗1̂), possibly ℂ1̂ in the augmented category). Two
+    arrows into ℝ^⪰ agree at W iff their operators agree at every
+    sub-context V′ ⊆ W, since restriction of states is onto and the
+    Gel'fand transform is injective.
+      (a) Characterisation. Call W good if every projection R ∈ W whose
+          support on H₁ (the range of its partial trace) is a proper
+          subspace has the form e⊗1̂. If W is good, so is each V′ ⊆ W. For
+          λ below the top of the spectrum, E_λ ≠ 1, so a projection of V′
+          under E_λ⊗1̂ has support under E_λ, hence is e⊗1̂ with e ∈ V_{V′}
+          and e ≤ E_λ. So δ^i(E_λ⊗1̂)_{V′} = δ^i(E_λ)_{V_{V′}}⊗1̂ for every
+          λ, and δ(Â₁⊗1̂)_{V′} = δ(Â₁)_{V_{V′}}⊗1̂: the pull-back agrees at
+          a good W for every Â₁. If W is not good, take an offending R and
+          V′ = {0, R, 1̂ − R, 1̂}. Neither R nor 1̂ − R is e⊗1̂, so V_{V′} =
+          ℂ1̂ and the pull-back is 1̂ for Â₁ = 1̂ − P, P the support of R;
+          but R ≤ P⊗1̂ lies under the spectral projection at 0, so
+          δ(Â₁⊗1̂)_{V′} has eigenvalue 0 on R. They differ, at V′ and at W.
+      (b) Every non-scalar Â₁ fails somewhere. Let u be an eigenvector
+          for its least eigenvalue and q ∈ H₂ a unit vector; R = |u⟩⟨u|⊗|q⟩⟨q|
+          has proper support and, as dim H₂ ≥ 2, is not e⊗1̂. At V′ as in
+          (a), the pull-back is λ_max·1̂ while δ(Â₁⊗1̂)_{V′} has the value
+          λ_min on R. This is (4.46).
+      (c) No operator realises the pull-back. Suppose B̂ on H₁⊗H₂ has
+          δ(B̂)_W = δ(Â₁)_{V_W}⊗1̂ for all W. At a maximal W ∋ B̂,
+          δ(B̂)_W = B̂, so B̂ = b⊗1̂. At W = V⊗V₂ with V maximal in H₁
+          containing b and V₂ maximal in H₂, V_W = V, so b = δ(Â₁)_V, hence
+          b ≥ Â₁ in spectral order. At W = V⊗V₂ with V maximal containing
+          Â₁, the pull-back is Â₁⊗1̂ = δ(b⊗1̂)_W ≥ b⊗1̂, hence Â₁ ≥ b. So
+          b = Â₁ and B̂ = Â₁⊗1̂, which (b) rules out for non-scalar Â₁.
+      (d) Disjoint sums. Projections of V₁⊕V₂ are e₁⊕e₂, so the largest
+          one under E₁⊕E₂ is the pair of largest ones, which is Lemma 4.2;
+          the exact composition for ⊔ follows as the paper says.
+  excluded: >-
+    The title's "only on contexts of the form V₁⊗ℂ1". It is false by (a):
+    a context of maximally entangled projections (the Bell basis on
+    ℂ²⊗ℂ²) is good, since each of its non-trivial projections has full
+    support on H₁, and so is ℂ1̂⊗V₂. The pull-back agrees there for every
+    quantity. Conversely V₁⊗V₂ with both factors non-trivial is not good
+    (p⊗q has proper support), which settles fn. 25's open case: it fails.
+    The title is corrected to the characterisation, and the closing
+    "asserted, not proved" is dropped. Infinite dimensions are not
+    treated; the promote_when's refutation route, a variant of the rules
+    under which tensor products satisfy the translation condition, moves
+    to a new QUESTION.
+evidence:
+  - "THEORY-585 body: the pulled-back arrow at W is δ(Â₁)_{V_W}⊗1̂ with V_W the largest V with V⊗ℂ1̂ ⊆ W (4.44–4.45); (4.46) and the non-existence of B̂ asserted without proof; fn. 25 leaves W = V₁⊗V₂ open."
+  - "NOTE-285: LIT-310 read in full; the construction checked."
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem about a construction, whose key steps the
+  source asserts. The re-derivation both proves them and finds the title's
+  "only" too strong: agreement is decided by the projections of the context,
+  not by whether it factorises. Medium confidence because the reading of
+  the scheme (outer daseinisation into ℝ^⪰, the augmented context
+  category) is taken from the THEORY body and NOTE-285 rather than
+  re-read in LIT-310. The proofs in (a)–(c) do not depend on more than
+  that.
+unlocks: []
+next_action: >-
+  Narrow-and-promote with a corrected title; the proofs as a dated note;
+  the refutation route to a new QUESTION.

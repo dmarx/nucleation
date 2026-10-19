@@ -1295,3 +1295,28 @@ history note. THEORY-277 is requeued on this basis.
 - A cheap simulation can stand beside an ADR-047 v3 promotion:
   THEORY-253's two-task and rotated-quadratic results reproduced in
   seconds.
+
+## 2026-10-19 — batch 044 (wave 3, score-3 and re-derivations)
+
+- Triage-006's score-3 band went 2 of 3 (318, 585), and the miss (083) is
+  the false-flag kind batch 037 named: end-state theorems quoted in the
+  body of an empirical claim. Its formal route is now exhausted; the
+  score-2 band should go to v3 review, as batch 039 advised.
+- A re-derivation can find the title wrong as well as unproved. In
+  THEORY-585 the source asserts the failure and the record had hedged it;
+  proving it showed the failure set is decided by a context's projections
+  (support on the first factor), not by whether the context factorises, so
+  the "only on V₁⊗ℂ1" clause was false (Bell-basis contexts agree).
+  Correct the title to what was proved, then promote.
+- Source proofs carry small errors worth recording in the decision: Lin et
+  al.'s Theorem 6 allows α ≠ 0 where its proof gives α > 0, and their
+  Theorem 10's probability is not derived; Goldwasser et al.'s App. C.1
+  computes τ(A_i) as if A_i ⊆ T. None changed a bound the record keeps,
+  but each changes what may be quoted.
+- The split pattern (ADR-040, THEORY-109) recurs for empirical conjectures
+  that cite toy-model theorems: THEORY-110 now, and the false flags batch
+  037 named. Check the cited theorems' proofs once, then split, rather
+  than re-reviewing the conjecture.
+- Queue: THEORY-083 requeued after a reading task (Figures 2–7 of
+  arXiv:2008.08186 into NOTE-476). THEORY-270 and THEORY-110 leave the
+  requeue list.

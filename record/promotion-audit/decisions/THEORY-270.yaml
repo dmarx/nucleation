@@ -1,65 +1,67 @@
 # record/promotion-audit/decisions/THEORY-270.yaml
 id: THEORY-270
-batch: batch-038
+batch: batch-044
 reviewed: '2026-10-19'
-reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+reviewed_revision: 2f565411
 current_status: Proposed
-disposition: retain-proposed
-confidence: medium
+disposition: narrow-and-promote
+confidence: high
+supersedes: "batch-038 (retain-proposed): its blockers were the unchecked App. C proof and a title that did not name its models. App. C.1 is worked through here and the title is narrowed to the common-nonsense model."
 scope:
   accepted: >-
-    Theorem A.2, the general MLE bound, is re-derived here and holds.
-    Setting: a finite family Θ of translators, m source texts drawn i.i.d.,
-    a prior ρ under which the true translator's outputs all have positive
-    plausibility, and MLE choosing θ to maximise Σ log ρ(f_θ(x_i)).
-      (a) Call θ bad if its loss exceeds the threshold, and suppose every bad θ
-          makes an output impossible under ρ with probability more than γ.
-      (b) The true translator has finite log-likelihood on every sample. So
-          MLE never chooses a θ with an impossible output on the sample.
-      (c) A fixed bad θ has no impossible output on m i.i.d. texts with
-          probability at most (1 − γ)^m ≤ e^{−γm}. By a union bound over at
-          most |Θ| bad translators, some bad θ survives with probability at
-          most |Θ|e^{−γm}. That is at most δ when m ≥ (1/γ) ln(|Θ|/δ).
-      (d) So with probability ≥ 1 − δ, MLE's choice is not bad, and its loss
-          is at most the threshold. That is the realisable Occam bound,
-          with "impossible under the prior" in place of "wrong label", as
-          the body says.
-    This half needs no narrowing, and it is not what the title turns on.
+    Theorem 3.4 (common-nonsense upper bound), re-derived here from
+    arXiv:2211.11081v2 App. C.1, given Theorem A.2 (re-derived in batch
+    038). Setting: finite Y, T ⊆ P ⊆ Y, S ⊆ Y keeping each y independently
+    with probability β = 1 − α, τ = U(T ∩ S), ρ = U(P ∩ S), translators
+    f_θ one-to-one, π_θ = f_θ∘f⋆⁻¹ extended to a permutation of Y.
+    ε_γ is the largest error among θ with Pr_τ[ρ(π_θ(y)) = 0] ≤ γ.
+      (a) Proposition C.2. The non-fixed points of a permutation split
+          into A1, A2, A3 with π(A_i) ∩ A_i = ∅: alternate each cycle's
+          elements between A1 and A2 and, for an odd cycle, put its last
+          element in A3. Checked on both cycle parities.
+      (b) Lemma C.1, for γ ≥ (8/(β|T|)) ln(4|Θ|/δ) and γ ≤ 1/6 (above 1/6
+          the claim ε_γ ≤ 6γ/α is trivial). Put a = 6γ/α. Since ρ(π(y)) = 0
+          whenever π(y) ∉ S, it suffices that no θ has error > a and
+          Pr_τ[π_θ(y) ∉ S] ≤ γ. (i) Chernoff: P[|T ∩ S| ≤ β|T|/2] ≤
+          e^{−β|T|/8} < δ/4, using the bound on γ. (ii) Fix π and replace
+          each A_i by A_i ∩ T (needed, since τ lives on T; the paper's
+          τ(A_i) = |A_i ∩ S|/|T̃| silently assumes A_i ⊆ T). Error > a puts
+          τ(A_i) > a/3 for some i. (iii) Condition on V = A_i ∩ T ∩ S. If
+          |V| < βa|T|/6 the event is empty given (i). Otherwise
+          Pr_τ[π(y) ∉ S] ≥ τ(V)·Pr_{y∈V}[π(y) ∉ S] > (a/3)·Pr_{y∈V}[…], so
+          the event forces Pr_{y∈V}[π(y) ∉ S] < 3γ/a = α/2. (iv) The
+          indicators 1[π(y) ∉ S], y ∈ V, are independent Bernoulli(α) even
+          given A_i ∩ S, because π is one-to-one and π(A_i) ∩ A_i = ∅. So
+          Chernoff gives probability ≤ e^{−α|V|/8} ≤ e^{−βγ|T|/8} ≤
+          δ/(4|Θ|). (v) Union over i ≤ 3 and over θ ∈ Θ, plus (i): total ≤ δ.
+      (c) Theorem 3.4. Take γ = max(1/m, 8/(β|T|))·ln(6|Θ|/δ). Lemma C.1 at
+          confidence 2δ/3 gives ε_γ ≤ 6γ/α; realisability holds because
+          T ⊆ P; Theorem A.2 at confidence δ/3 needs m ≥ (1/γ) ln(3|Θ|/δ),
+          which holds. So with probability ≥ 1 − δ, err(θ̂) ≤
+          (6/α)·max(1/m, 8/(β|T|))·ln(6|Θ|/δ) ≤ (6/α)·max(1/m, 16/|T|)·
+          ln(6|Θ|/δ) for α ≤ 1/2, as stated.
   excluded: >-
-    The title's general form and its dependence on the size of the source
-    language. (1) "Translation without parallel data is learnable … with
-    error falling … in the size of the source language" is stated without
-    the models it was proved in. The source-size dependence, through
-    min(m, |T|), comes only from the common-nonsense model (Theorems 3.4 and
-    3.5), with uniform languages, one-to-one translators and a realisable
-    prior. The knowledge-graph model's first term is a floor in r, and
-    the body itself says "not about natural languages". The promote_when
-    asks for the bound outside those models, so a narrowed title would be
-    met by the models' own proofs. (2) Those proofs were not checked.
-    NOTE-804's history says that of the long proofs in B.2, C (the
-    common-nonsense upper and lower bounds) and D (knowledge graphs), only
-    the overviews, the lemma statements and the opening of each proof were
-    read. The combinatorial and concentration steps were not checked line
-    by line. ADR-047 v3 is for measurements and does not apply. The
-    re-derivation route needs App. C worked through, which this batch did
-    not do.
+    (1) The general form. The title said translation without parallel
+    data "is learnable" with error falling in common ground and source
+    size, unqualified; that is proved only inside the models. Narrowed to
+    the common-nonsense model, where it now holds. (2) The knowledge-graph
+    model (Theorem 3.2, App. D) and the matching lower bound (Theorem 3.5,
+    App. C.2) were not re-derived. The narrowed title claims neither; the
+    body keeps them as statements the paper proves. (3) Non-uniform or
+    lossy settings, which the promote_when asks for, move to a new
+    QUESTION.
 evidence:
-  - "NOTE-804 version 1: LIT-941 read in full except the long proofs of B.2, C and D, whose combinatorial and concentration steps were not checked line by line. Claims table: C1 (Theorem A.2) strong; C2 (Theorems 3.4, 3.5) strong as stated; C3 'strong in the models; weak beyond them'."
-  - "The body's 'What this does not say': not about natural languages, not lossy, not computational."
-  - "Inactive-ok directives naming THEORY-270: LIT-941, NOTE-804."
-blockers:
-  - "The title generalises past the stylised models (uniform languages, one-to-one translators, a realisable prior). It must be narrowed to them before a proof can meet it."
-  - "The proof of Theorem 3.4's upper bound and Theorem 3.5's lower bound (LIT-941 App. C) has not been checked or re-derived, and the title's dependence on the size of the source language rests on it."
+  - "arXiv:2211.11081v2 App. C.1, pp. 20–23 (text extracted with pdftotext), worked through line by line for this decision."
+  - "Batch 038's decision: Theorem A.2 re-derived; App. C unchecked."
+  - "NOTE-804: the long proofs of B.2, C and D read only in overview."
+blockers: []
 notes: >-
-  Batch 020's sort: a theorem, but only inside stylised models the title
-  does not name. Triage-006 routed it to re-derivation (formal score 3).
-  The route is right, and the work is longer than a batch allows. The
-  promote_when, read against a narrowed title, becomes a QUESTION
-  (non-uniform or lossy settings), as in batch 018's THEORY-233 pattern.
+  One gap in the source's proof, closed here: τ(A_i) is computed as if
+  A_i ⊆ T. Intersecting the cycle partition with T keeps π(A_i) ∩ A_i = ∅,
+  so the argument goes through unchanged. A second slip: Proposition C.2's
+  statement lists "A1 ∪ A2 ∪ A2". Neither affects the bound.
 unlocks: []
 next_action: >-
-  Requeue for a dedicated re-derivation pass. Fetch arXiv:2211.11081v2,
-  work through App. C step by step (upper bound O(log|Θ|/(α·min(m,|T|))),
-  and the matching lower bound), then narrow the title to "in stylised
-  random models with uniform languages and one-to-one translators …" and
-  promote, moving the promote_when to a QUESTION.
+  Narrow-and-promote: title restricted to the common-nonsense model and
+  its bound; App. C.1 re-derivation as a dated note; the promote_when to a
+  new QUESTION.
