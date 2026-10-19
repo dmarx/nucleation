@@ -662,3 +662,28 @@ history note. THEORY-277 is requeued on this basis.
 - Pattern: dependents of a split parent usually cite its general result
   only for an existence statement. 'Cannot always' or 'can fail to' is
   settled by one instance, so the split's core is enough.
+
+## 2026-10-19 — batch 023 (THEORY-127, Proposition 3)
+
+- The ultrafilter argument fits in a decision file. For a judgment
+  aggregation impossibility, the work is finite. - List the agenda's
+  minimally inconsistent sets. - Show conditional entailment connects all
+  literals. - Find one minimally inconsistent triple that stays consistent
+  with two of its members negated. The rest is the standard finite-
+  ultrafilter lemma. Reusable for any "no independent, unanimous, non-
+  dictatorial rule" claim in the record.
+- A general title can be false although its worked case is a theorem.
+  "Interconnected propositions" fails on affine agendas, for example {p,
+  q, p↔q}, where issue-wise parity is a non-dictatorial, independent,
+  unanimous, robustly rational rule. When a THEORY states a social-choice
+  impossibility for a vaguely named class, test it on an affine agenda
+  before promoting the general wording.
+- The record holds no Dietrich–List paper, and a grep for "Dietrich" finds
+  an unrelated LIT-912 (flow). Under ADR-047 v2 the re-derivation stands
+  in for it.
+- **Trap: codes inside written paths.** `luria repair` turns a code
+  inside a path such as `record/promotion-audit/decisions/THEORY-127.yaml`
+  into a link, which breaks the path. In record entries, cite a decision
+  file as "the promotion audit's decision file for THEORY-127", not by
+  path. QUESTION-140, -141, -147 and -148 on main already carry broken
+  paths (found by batch 023, not yet fixed).

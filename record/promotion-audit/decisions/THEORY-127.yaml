@@ -1,62 +1,212 @@
 # record/promotion-audit/decisions/THEORY-127.yaml
 id: THEORY-127
-batch: batch-009
+batch: batch-023
 reviewed: '2026-10-19'
-reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 current_status: Proposed
-disposition: split
-confidence: medium
+disposition: narrow-and-promote
+confidence: high
+supersedes_review:
+  batch: batch-009
+  disposition: split
+  note: >-
+    Batch 009 split off the court-agenda results (Propositions 1, 4 and 5,
+    now THEORY-725) and requeued THEORY-127 for a dedicated pass on
+    Proposition 3. This is that pass.
 scope:
   accepted: >-
-    As a new Active THEORY sourced to LIT-705, stated for the court agenda
-    {P, Q, R, B = R↔(P∧Q)} and its negations under universal domain:
-    (1) proposition-wise majority voting is not robustly rational
-    (Proposition 1, by the discursive-dilemma profile);
-    (2) the premise-based procedure is robustly rational and makes the
-    group's judgment set a function of the members' judgment sets
-    (set-wise supervenience, Proposition 4);
-    (3) under it, the members' judgments on the conclusion are not enough
-    to fix the group's (weak discontinuity, Tables 2–3) and need not enter
-    at all (strong discontinuity; Proposition 5's distributed procedure).
+    Proposition 3 of LIT-705 (Dietrich and List 2005, cited there without
+    proof), re-derived below for the court agenda. The proof uses only two
+    properties of that agenda, so it holds for every agenda that has them:
+    (A) every literal reaches every other by conditional entailment, and
+    (B) there is a minimally inconsistent set {a, b, c} for which {¬a, ¬b,
+    c} is consistent. The narrowed title states the theorem for the court
+    agenda and for agendas with (A) and (B). It does not claim that (A) and
+    (B) are the "strongly connected" class of LIT-705 n. 3, which the
+    record does not hold.
+
+    DEFINITIONS. The issues are P, Q, R and B, where B is R↔(P∧Q). A
+    literal is an issue or its negation, so there are eight. A judgment set
+    is a complete, consistent set of literals, one from each issue. Encode
+    it as (p, q, r, b) ∈ {0,1}⁴ with b = 1 iff r = p∧q. Exactly 8 of the 16
+    vectors are judgment sets, and every issue takes both values among
+    them.
+
+    Let N = {1, …, n}, n ≥ 2, be the members. A rule F maps each profile
+    (J₁, …, Jₙ) of judgment sets to a set of literals F(J).
+
+    Universal domain: F is defined on every profile.
+
+    Robust rationality: F(J) is always a judgment set. Deductive closure is
+    then automatic, because a complete consistent set over the agenda is
+    closed.
+
+    Proposition-wise supervenience (independence): for each literal a there
+    is a function f_a with a ∈ F(J) iff f_a(the members' judgments on a's
+    issue) accepts a. The function may differ from issue to issue.
+
+    Unanimity: if every member accepts a, so does the group.
+
+    Dictatorship: some i has F(J) = Jᵢ for every profile. "Depends on more
+    than one individual" means not a dictatorship.
+
+    Claim: under these conditions F is a dictatorship.
+
+    STEP 0 (winning coalitions). For a literal a, let W_a be the set of
+    coalitions C ⊆ N such that the group accepts a in profiles where
+    exactly C accepts a.
+
+    By independence, this does not depend on the rest of the profile. Since
+    every issue takes both values among judgment sets, every pattern on a
+    single issue occurs in some profile.
+
+    The group accepts exactly one of a and ¬a. In a profile where exactly C
+    accepts a, exactly N∖C accepts ¬a. So C ∈ W_a iff N∖C ∉ W_¬a. (∗)
+
+    Unanimity gives N ∈ W_a, and by (∗) it gives ∅ ∉ W_a.
+
+    STEP 1 (contagion). Suppose Z is a minimally inconsistent set of
+    literals containing a and ¬b, with a and b on different issues. Let
+    Y = Z ∖ {a, ¬b}. Then W_a ⊆ W_b.
+
+    Take C ∈ W_a.
+    - Members in C hold {a} ∪ Y, extended to a judgment set. This is
+      possible because a proper subset of Z is consistent, and every
+      consistent set extends to a judgment set. Since Z is inconsistent,
+      {a} ∪ Y entails b, so they hold b.
+    - Members in N∖C hold {¬b} ∪ Y, extended the same way. Since
+      {¬b} ∪ Y entails ¬a, they hold ¬a.
+
+    Now everyone holds Y, so by unanimity the group accepts Y. Exactly C
+    holds a and C ∈ W_a, so the group accepts a. By consistency the group
+    accepts b. Exactly C holds b, so C ∈ W_b.
+
+    STEP 2 (minimally inconsistent sets). Each of the six sets below is
+    inconsistent, and dropping any one literal leaves a consistent set.
+    For each, the "drop" list gives the dropped literal and the assignment
+    that satisfies the rest.
+
+    - Z1 = {¬P, R, B}. Inconsistent: with P false, P∧Q is false, so B
+      forces R false. Drop ¬P: P = Q = 1, R = 1. Drop R: R = 0. Drop B:
+      R = 1, P = 0.
+    - Z2 = {¬Q, R, B}. Symmetric to Z1, with P and Q swapped.
+    - Z3 = {¬P, ¬R, ¬B}. Inconsistent: P∧Q is false and ¬B says R differs
+      from it, so R is true. Drop ¬P: P = Q = 1, R = 0. Drop ¬R: P = 0,
+      R = 1. Drop ¬B: P = 0, R = 0.
+    - Z4 = {¬Q, ¬R, ¬B}. Symmetric to Z3.
+    - Z5 = {P, Q, ¬R, B}. Inconsistent: B forces R = P∧Q = 1. Drop P:
+      P = 0, so R = 0 satisfies B. Drop Q: likewise. Drop ¬R: R = 1. Drop
+      B: B false is satisfied by R = 0.
+    - Z6 = {P, Q, R, ¬B}. Inconsistent: R = P∧Q makes B true. Drop P:
+      P = 0, R = 1, B false. Drop Q: likewise. Drop R: R = 0, B false.
+      Drop ¬B: B true.
+
+    For distinct x, y in some Z, Step 1 (with a = x, ¬b = y) gives
+    W_x ⊆ W_¬y. Write this as x → ¬y.
+
+    STEP 3 (condition A). Edges into R:
+    - P → R and Q → R, from Z5 (dropping ¬R).
+    - ¬P → R, from Z3.
+    - ¬Q → R, from Z4.
+    - B → R, from Z5.
+    - ¬B → R, from Z3.
+    - ¬R → P, from Z3, and then P → R.
+
+    Edges out of R:
+    - R → P and R → ¬B, from Z1.
+    - R → Q, from Z2.
+    - R → ¬P, R → ¬Q and R → B, from Z6.
+    - R → B → ¬R, with B → ¬R from Z1.
+
+    So every literal reaches R and R reaches every literal. Inclusion is
+    transitive, so W_x = W_y for all literals x and y. Call the common
+    family W. By (∗), for every C exactly one of C and N∖C is in W. Also
+    N ∈ W and ∅ ∉ W.
+
+    STEP 4 (condition B: closure under intersection). Take Z1, with
+    a = ¬P, b = R, c = B. Suppose C, D ∈ W. Let members hold a iff they
+    are in C, and b iff they are in D. They hold c except in C∩D, where
+    they hold ¬c. The four groups each hold a consistent set:
+    - C∩D holds {¬P, R, ¬B}: P = 0, R = 1, B false. Consistent.
+    - C∖D holds {¬P, ¬R, B}: P = 0, R = 0. Consistent.
+    - D∖C holds {P, R, B}: Q = 1. Consistent.
+    - N∖(C∪D) holds {P, ¬R, B}: Q = 0. Consistent; this is the set
+      {¬a, ¬b, c} that (B) requires.
+    Each extends to a judgment set by choosing Q, and the choice of Q does
+    not touch the issues P, R and B.
+
+    The group accepts ¬P, since exactly C holds it and C ∈ W. It accepts
+    R, since exactly D holds it. {¬P, R} entails ¬B by Z1, so it accepts
+    ¬B. Exactly C∩D holds ¬B, so C∩D ∈ W.
+
+    STEP 5 (ultrafilter). Supersets: suppose C ∈ W and C ⊆ D but D ∉ W.
+    Then N∖D ∈ W, and by Step 4 C∩(N∖D) = ∅ ∈ W, a contradiction. So W is
+    closed under supersets and finite intersections, contains N, does not
+    contain ∅, and contains exactly one of each complementary pair.
+
+    Let K be the intersection of all members of W. N is finite, so K ∈ W,
+    and so K ≠ ∅. If K had two or more members, split it into nonempty
+    K₁ and K₂. By (∗) either K₁ ∈ W, or N∖K₁ ∈ W and then
+    K ∩ (N∖K₁) = K₂ ∈ W. Either way a proper subset of K is in W, which
+    contradicts minimality. So K = {i}.
+
+    Then C ∈ W iff i ∈ C. If i ∈ C, C ⊇ {i} ∈ W. If i ∉ C, N∖C ∋ i, so
+    N∖C ∈ W and C ∉ W. So for every literal the group accepts it iff i
+    does: F(J) = Jᵢ. F is a dictatorship, which proves Proposition 3 for
+    the court agenda. Steps 1, 0 and 5 are general, and Steps 3 and 4 used
+    only (A) and (B), so the same proof covers any agenda with (A) and (B).
+
+    COROLLARY (Proposition 2, the uniform case, without assuming
+    unanimity). Let one f decide every literal: a ∈ F(J) iff f(the
+    members' 0/1 judgments on a) = 1.
+    - Self-duality: the members' pattern on ¬a is the complement of their
+      pattern on a, and the group accepts exactly one of the two. So
+      f(x̄) = 1 − f(x).
+    - Unanimity: if f(1,…,1) = 0, a unanimous profile {P, Q, R, B} would
+      give the group {¬P, ¬Q, ¬R, ¬B}. That set is inconsistent: P∧Q = 0
+      = R makes B true. So f(1,…,1) = 1 and f(0,…,0) = 0, which is
+      unanimity.
+    The claim then gives a dictatorship.
+
+    The rest of the title is already established. Set-wise supervenience
+    is the premise-based procedure's (THEORY-725, Proposition 4, Active).
+    So is the departure from members' judgments on the same proposition
+    while still wholly fixed by them (weak discontinuity, THEORY-725).
   excluded: >-
-    What THEORY-127 keeps, Proposed. First, the general impossibility that
-    its title states: no proposition-wise rule, uniform or not, that depends
-    on more than one individual and respects unanimity is robustly rational
-    (Propositions 2–3, cited from Pauly and van Hees and from Dietrich and
-    List, with proofs omitted). Second, the agenda classes to which the
-    results extend (n. 3, only named). Third, List's extension to corporate
-    attitudes in general (LIT-700).
+    First, the title's unconditioned "interconnected propositions". It is
+    false as stated. On {p, q, p↔q} the judgment sets form an affine
+    subspace over GF(2), so they fail (B). There, the issue-wise parity
+    rule x₁ ⊕ x₂ ⊕ x₃ is independent, unanimous and robustly rational, and
+    it depends on three members. The body's "What this does not say" and
+    n. 3 already restrict the result to suitably connected agendas. The
+    title now says so, and it names the court agenda and conditions
+    (A)–(B).
+
+    Second, whether (A) and (B) coincide with LIT-705 n. 3's "strongly
+    connected" class. Not claimed.
+
+    Third, the promote_when's second part, the extension beyond
+    categorical judgments to corporate attitudes in general (LIT-700).
+    The body already disclaims it ("It does not reach attitudes other than
+    categorical judgments by proof"). It moves to a new QUESTION.
 evidence:
-  - "NOTE-550: 'Propositions 2 and 3 are stated without proof … Proposition 1 is given a sketch proof and Propositions 4 and 5 short arguments.' Claims table: C2 (impossibility) 'Propositions 1–3; 2 and 3 cited, not proved here'; C3 (possibility) 'constructive'."
-  - >-
-    Re-derived: Proposition 1 on the court agenda. J1 accepts P, Q, B and so
-    R. J2 accepts P, ¬Q, B and so ¬R. J3 accepts ¬P, Q, B and so ¬R. Each
-    set is complete and consistent. The majorities are P, Q, B and ¬R, and
-    P ∧ Q together with B entail R. The majority set is inconsistent, so
-    majority voting fails robust rationality under universal domain.
-  - >-
-    Re-derived: Proposition 4. Take majorities on the premises P, Q and B,
-    with an odd number of members, so each majority exists. Then derive R:
-    if B is accepted, R iff P ∧ Q; if B is rejected, R iff ¬(P ∧ Q). Any
-    combination of P, Q and B is consistent, and fixing R this way makes
-    the set complete, consistent and deductively closed for every profile.
-    The output is a function of the members' whole sets, but not
-    proposition-wise, because the group's R ignores the members' R.
-blockers:
-  - >-
-    For the remainder, Proposition 3. Under ADR-047 v2 a step-by-step
-    re-derivation would meet the promote_when. For this agenda that means
-    showing it is path-connected (totally blocked) and running the
-    decisive-coalition (ultrafilter) argument from independence, unanimity
-    and robust rationality to dependence on a single individual. That is
-    feasible, but it needs a dedicated pass and is beyond this one's two
-    retrieval rounds. The general-agenda form also needs the conditions of
-    n. 3 stated, and the corporate-attitude extension needs a separate
-    result, as the promote_when says.
+  - "NOTE-550, line 103: 'Proposition 3 (p. 12). Inconsistent with proposition-wise supervenience: the function may differ by proposition, provided it depends on more than one individual and respects unanimity. Proved by Dietrich & List (2005).' The re-derivation proves exactly this statement on the court agenda."
+  - "The record holds no Dietrich–List paper. LIT-912 is a different Dietrich (flow). So the re-derivation above is self-contained. It is the decisive-coalition (ultrafilter) argument, written out from the definitions."
+  - "THEORY-725 (Active) holds Propositions 1, 4 and 5 on the court agenda. Those supply the title's set-wise-supervenience and discontinuity clauses."
+blockers: []
 unlocks:
-  - "CLAIM-030, CLAIM-192 and CLAIM-271 cite THEORY-127. Check in a dependency pass whether any of them needs only the court-agenda results (1)–(3)."
+  - "CLAIM-030, CLAIM-192 and CLAIM-271 support-link to THEORY-127. Once it is Active, check each in a wave-4 pass (batch 021 holds them) for its other Proposed premises."
 next_action: >-
-  Split PR. File (1)–(3) as a new Active THEORY sourced to LIT-705, with the
-  two re-derivations above. THEORY-127 extends it and keeps the general
-  impossibility and its promote_when. Requeue THEORY-127 for a dedicated
-  Proposition-3 re-derivation pass.
+  Promotion PR. Retitle THEORY-127 to the narrowed statement. Set it
+  Active and remove the promote_when. Append a version-4 history note,
+  last in the list, citing this file, batch 023 and ADR-047 v2. Add a
+  dated note with the derivation's outline, pointing here for the steps,
+  and the parity counterexample. File a new QUESTION for the extension to
+  corporate attitudes (LIT-700), and trim stale inactive-ok directives
+  naming THEORY-127.
+notes: >-
+  Under ADR-047 v2 this is the record's own re-derivation substituting for
+  the unread Dietrich–List proof, as the promote_when itself allows.
+  Batch 008's warning about final blocks that never fill did not arise.
+  Every step is a finite check on eight literals, plus the standard
+  ultrafilter argument on a finite set.
