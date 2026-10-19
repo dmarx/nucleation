@@ -1,0 +1,83 @@
+# record/promotion-audit/decisions/THEORY-295.yaml
+id: THEORY-295
+batch: batch-020
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The title narrowed to the model it was shown in: a community whose
+    consensus is replaced whenever a single sound pairwise comparison (AIC
+    or SC) favours the proposed model. In such a community, which models
+    get proposed can hold the consensus on a false model while results
+    reproduce almost perfectly, so reproducibility need not track
+    convergence to truth. It rests on one study, LIT-988, read in full in
+    NOTE-792 (including S23 and S24). ADR-047 v3 applies: the narrowed
+    title claims no more than that study shows, and nothing in the record
+    contradicts it.
+
+    It has two parts.
+
+    (1) An existence claim. A Bo-dominant population reaches near-perfect
+    reproducibility. It spends 25% (AIC) or 48% (SC) of its time at the
+    truth in the exact Markov analysis, and its Spearman r between
+    reproducibility and time at the truth is −0.06 in the ABM (NOTE-792 C2,
+    Table 3/S24). One checked instance settles an existence claim (NOTES,
+    batch 008).
+
+    (2) Why reproducibility cannot cause convergence (C1, S23), re-derived
+    here step by step, as ADR-047 v2 requires.
+      (a) Without replication, the consensus is a Markov chain:
+          P(M_G' = M_ℓ | M_G = M_i) = Σ_a P(R_a) P(M_ℓ | R_a, M_i) P(S(M_ℓ) < S(M_i)).
+          Its inputs are the strategy mix, the proposal kernels and the
+          comparison probabilities.
+      (b) A replication re-tests the previous pair (M_ℓ against M_i) on
+          fresh, independent data. Write q_ijℓ for the joint probability
+          that the original test moves the consensus to j and the
+          replication returns some result.
+      (c) The replication's data are independent of the original
+          test's, so summing over the replication's outcomes leaves the
+          original step's probability unchanged:
+          Σ_j q_ijℓ = P(M_ℓ | M_i) P(S(M_ℓ) < S(M_i)).
+          The transition probabilities, and hence the stationary
+          distribution, the first-passage times and the stickiness, are
+          the same with or without replication.
+      (d) The rate of reproducibility is P(M_G^(t+1) = M_G^(t) |
+          replication at t). It is a statistic of the chain's path. It is
+          not an input to the transition law. So varying it cannot move
+          time at the truth, which is what "has no causal effect" means.
+    NOTE-792 records that the paper's labels q_iiℓ and q_iℓℓ are muddled.
+    The argument above does not depend on them, only on (c)'s
+    independence.
+  excluded: >-
+    The unrestricted scope. The current title, "a community that updates a
+    single consensus model by sound pairwise model comparison", covers
+    consensus rules with memory, and the promote_when asks exactly that
+    question. Only the memoryless rule was tested. Also "does not track",
+    which reads as never tracking: for four of the five populations
+    reproducibility correlates positively with time at the truth (0.35 to
+    0.69). The promote_when itself (a model with memory and learning, or a
+    real field) moves unchanged to a new QUESTION, related to QUESTION-047
+    and to NOTE-792's first open question.
+evidence:
+  - "NOTE-792 version 1: read in full from arXiv v3, including S1, S5, S23 and S24. Claims table: C1 strong (structural argument), C2 moderate (Bo-dominant ABM, Fig 4)."
+  - "NOTE-792 Key results: Bo spends 25% (AIC) or 48% (SC) of its time at the truth. Its Spearman r with time at the truth is −0.06, against 0.41, 0.35, 0.69 and 0.59 for the other populations."
+  - "THEORY-295's own 'What this does not say' already disclaims memory, beliefs and real fields. The narrowing writes those limits into the title."
+  - "Citers: QUESTION-047, NOTE-792 and LIT-988 only. None contradicts the result."
+blockers: []
+notes: >-
+  The entry is ADR-047 v3's case. The title is hedged ("can hold"),
+  claims what one model run showed, and the study was read in full. Its
+  "so ... does not track" clause and its unqualified scope are the only
+  overreach, and narrowing fixes both. The S23 half is formal, but it is
+  formal about the model, so it is promoted with the THEORY rather than
+  split into a CLAIM: it is the source's own proof, re-checked, not the
+  record's own result (ADR-032 does not apply).
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR: retitle to the memoryless single-test rule and
+  to "need not track"; move the promote_when to a new QUESTION related to
+  QUESTION-047; add the S23 re-derivation as a dated note; trim the
+  inactive-ok entries naming THEORY-295, if any.
