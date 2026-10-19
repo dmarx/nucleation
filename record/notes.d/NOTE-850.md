@@ -33,7 +33,7 @@ summary: >-
   loses heavily on ImageNet.
 ---
 <!-- inactive-ok-file: NOTE-201 — Superseded; the skim this reading replaces -->
-<!-- inactive-ok-file: THEORY-306 THEORY-305 THEORY-228 — Proposed; the account filed from this reading and its neighbours, open -->
+<!-- inactive-ok-file: THEORY-305 THEORY-228 — Proposed; neighbours of the account filed from this reading, open -->
 
 # NOTE-850: Assran et al. — The Hidden Uniform Cluster Prior in Self-Supervised Learning
 
