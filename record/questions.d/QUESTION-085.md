@@ -21,7 +21,7 @@ summary: >-
 answered_by:
 - CLAIM-274
 ---
-<!-- inactive-ok-file: CLAIM-274 CLAIM-273 THEORY-072 THEORY-220 THEORY-214 THEORY-216 THEORY-218 CLAIM-194 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-274 CLAIM-273 THEORY-072 THEORY-220 THEORY-214 THEORY-218 CLAIM-194 — Proposed; readings and claims cited as open, nothing here rests on their being settled -->
 
 # QUESTION-085: Does a maintained r/place artwork feed back into the flow of repair that keeps it, so that it is self-maintaining like a candle flame, or is its defence supplied from outside like the heat under a convection cell, and does the answer change when its coalition starts switching strategies?
 
