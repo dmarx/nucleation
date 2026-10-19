@@ -48,7 +48,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-087 CLAIM-081 CLAIM-076 — Proposed; the improvement, legibility and cross-modal claims this objection rests on or cites, open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for its receiver and its defeat condition, open -->
-<!-- inactive-ok-file: THEORY-156 THEORY-176 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
+<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
 <!-- inactive-ok-file: CLAIM-199 — Proposed; the record's reconciliation of this objection, cited as open -->
 
 # CLAIM-225: Blackwell's order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line's claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis's own defeat condition

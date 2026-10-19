@@ -37,7 +37,7 @@ summary: >-
   it gives is by one task's loss through a fixed head and a restricted map
   class, which is not an ordering by information.
 ---
-<!-- inactive-ok-file: THEORY-176 THEORY-112 THEORY-116 THEORY-156 THEORY-002 THEORY-008 CLAIM-125 CLAIM-050 CLAIM-106 — Proposed; cited as the accounts and claims this reading sits beside, not as settled -->
+<!-- inactive-ok-file: THEORY-112 THEORY-116 THEORY-156 THEORY-002 THEORY-008 CLAIM-125 CLAIM-050 CLAIM-106 — Proposed; cited as the accounts and claims this reading sits beside, not as settled -->
 
 # NOTE-653: Revisiting Model Stitching to Compare Neural Representations
 
