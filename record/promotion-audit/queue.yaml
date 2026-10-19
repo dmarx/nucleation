@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 37
+version: 39
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-006
   state: in_progress
-  in_review: THEORY-325
+  in_review: THEORY-277
   next_step: 'Batch 006 (wave 2) in progress: THEORY-325, THEORY-277, THEORY-247, THEORY-236, THEORY-206,
     in that order. Finish the one in_review first.'
   cautions:
@@ -25,8 +25,8 @@ waves:
   promotion_paths: 10
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 11
-  promotion_paths: 11
+  reviewed: 12
+  promotion_paths: 12
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 0
@@ -557,12 +557,15 @@ candidates:
   wave: 2
   score: 4
   triage: triage-002
-  state: in_review
+  state: decided
+  disposition: split
+  batch: batch-006
+  decision: decisions/THEORY-325.yaml
 - code: THEORY-277
   wave: 2
   score: 4
   triage: triage-002
-  state: pending
+  state: in_review
 - code: THEORY-247
   wave: 2
   score: 4
@@ -760,4 +763,11 @@ history:
 - version: 37
   date: '2026-10-19'
   note: 'Batch 006 (wave 2) opened: THEORY-325 in review. Candidates THEORY-325, -277, -247, -236, -206.'
+- version: 38
+  date: '2026-10-19'
+  note: 'Batch 006: THEORY-325 split (the deterministic half is demonstrated, with the record''s shift
+    construction for the stable case).'
+- version: 39
+  date: '2026-10-19'
+  note: 'Batch 006: THEORY-277 in review.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
