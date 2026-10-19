@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**511 documents cited without acknowledgement.** Not listed: 10070 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**511 documents cited without acknowledgement.** Not listed: 10047 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2196,8 +2196,8 @@ In a deep linear network trained by gradient descent, depth slows learning throu
 - [`record/literature.d/LIT-984.md:89`](../../record/literature.d/LIT-984.md)
 - [`record/notes.d/NOTE-715.md:110`](../../record/notes.d/NOTE-715.md)
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:51`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:55`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:52`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:56`](../../record/questions.d/QUESTION-039.md)
 - [`record/questions.d/QUESTION-081.md:66`](../../record/questions.d/QUESTION-081.md)
 
 ### [THEORY-220](../../record/theory.d/THEORY-220.md) — Proposed
@@ -2839,7 +2839,7 @@ The later phases reported in neural-network training differ in kind: after the t
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:54`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:55`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-043](../../record/theory.d/THEORY-043.md) — Proposed
 
@@ -4674,7 +4674,7 @@ On sparse hierarchical data, deep networks become insensitive to swapping synony
 2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:52`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:53`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-204](../../record/theory.d/THEORY-204.md) — Proposed
 
@@ -4683,7 +4683,7 @@ In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), w
 2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:53`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:54`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-205](../../record/theory.d/THEORY-205.md) — Proposed
 

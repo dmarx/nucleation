@@ -1,5 +1,8 @@
 ---
+number: 158
 status: 'Open'
+formerly:
+- QUESTION-tmp7nyvd
 title: "Does gradient descent on a two-layer network, without a spectral initialization or a data split, recover direction k of a scale-free hierarchical multi-index target at n = Θ(a_k^(−2) d) samples and attain the optimal weighted error, and do the same thresholds hold for an input law that is not isotropic Gaussian?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   descent reaches them, or whether they survive a second input law, is open.
 ---
 
-# QUESTION-tmp7nyvd: Does gradient descent on a two-layer network, without a spectral initialization or a data split, recover direction k of a scale-free hierarchical multi-index target at n = Θ(a_k^(−2) d) samples and attain the optimal weighted error, and do the same thresholds hold for an input law that is not isotropic Gaussian?
+# QUESTION-158: Does gradient descent on a two-layer network, without a spectral initialization or a data split, recover direction k of a scale-free hierarchical multi-index target at n = Θ(a_k^(−2) d) samples and attain the optimal weighted error, and do the same thresholds hold for an input law that is not isotropic Gaussian?
 
 ## Why it is a question
 

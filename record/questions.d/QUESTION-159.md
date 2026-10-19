@@ -1,5 +1,8 @@
 ---
+number: 159
 status: 'Open'
+formerly:
+- QUESTION-tmpw593l
 title: "Does an exact train-then-predict identity, of the kind proved for unnormalized linear attention and for softmax attention, hold for further sequence-layer classes such as delta-rule or mini-batch inner updates, and is there a standard attention layer whose dependence on its context admits no description as any learner's train-then-predict step?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   other layer classes, or is bounded by one, is open.
 ---
 
-# QUESTION-tmpw593l: Does an exact train-then-predict identity, of the kind proved for unnormalized linear attention and for softmax attention, hold for further sequence-layer classes such as delta-rule or mini-batch inner updates, and is there a standard attention layer whose dependence on its context admits no description as any learner's train-then-predict step?
+# QUESTION-159: Does an exact train-then-predict identity, of the kind proved for unnormalized linear attention and for softmax attention, hold for further sequence-layer classes such as delta-rule or mini-batch inner updates, and is there a standard attention layer whose dependence on its context admits no description as any learner's train-then-predict step?
 
 ## Why it is a question
 

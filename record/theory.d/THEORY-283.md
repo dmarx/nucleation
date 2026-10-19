@@ -19,7 +19,7 @@ history:
     record has read in full (NOTE-805), so promotion rests on that reading.
     The promote_when asked for a gradient-descent proof or a second input
     law, both outside the narrowed title. It moves unchanged to
-    QUESTION-tmp7nyvd.
+    QUESTION-158.
 tags:
 - learning-theory
 - representation-learning

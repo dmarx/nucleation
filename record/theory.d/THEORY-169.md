@@ -18,7 +18,7 @@ history:
     linear-attention/fast-weight correspondence, which the record does not
     hold; under ADR-047 v2 the three identities are re-derived in the note
     of 2026-10-19 below. Its scope test, whether the pattern extends to
-    further layer classes, moves unchanged to QUESTION-tmpw593l.
+    further layer classes, moves unchanged to QUESTION-159.
 tags:
 - representation-learning
 - learning-theory

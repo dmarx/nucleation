@@ -1,9 +1,9 @@
 ### Added
 
-- [QUESTION-tmpw593l](record/questions.d/QUESTION-tmpw593l.md): whether an exact train-then-predict identity holds
+- [QUESTION-159](record/questions.d/QUESTION-159.md): whether an exact train-then-predict identity holds
   for further sequence-layer classes, or is bounded by some standard
   attention layer. It holds [THEORY-169](record/theory.d/THEORY-169.md)'s former scope test, unchanged.
-- [QUESTION-tmp7nyvd](record/questions.d/QUESTION-tmp7nyvd.md): whether gradient descent, without a spectral
+- [QUESTION-158](record/questions.d/QUESTION-158.md): whether gradient descent, without a spectral
   initialization, reaches the hierarchical multi-index thresholds, and
   whether they survive a second input law. It holds [THEORY-283](record/theory.d/THEORY-283.md)'s former
   promote_when, unchanged, and refines [QUESTION-039](record/questions.d/QUESTION-039.md).
