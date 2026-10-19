@@ -29,7 +29,7 @@ operator is self-adjoint because the positive-pair distribution is
 symmetric. Until 2026-10-19 its promote_when asked for something the
 THEORY's body disclaims: a published analysis of an asymmetric objective.
 At the owner's direction, from the promotion audit's batch 007
-(record/promotion-audit/decisions/[THEORY-009](../theory.d/THEORY-009.md).yaml, ADR-047), the reading
+(record/promotion-audit/decisions/[THEORY-009](../theory.d/THEORY-009.md).yaml, [ADR-047](../decisions.d/ADR-047.md)), the reading
 was narrowed and promoted, and the asymmetric case moved here unchanged.
 
 It is open because no source the record holds analyses an asymmetric

@@ -26,7 +26,7 @@ the two measures to order pairs of representations differently. Until
 2026-10-19 the THEORY's promote_when also asked for "a measurement on
 trained networks of how far CKA and NBS disagree in practice". At the
 owner's direction, from the promotion audit's batch 007
-(record/promotion-audit/decisions/[THEORY-233](../theory.d/THEORY-233.md).yaml, ADR-047), the
+(record/promotion-audit/decisions/[THEORY-233](../theory.d/THEORY-233.md).yaml, [ADR-047](../decisions.d/ADR-047.md)), the
 inequality was promoted and that clause moved here unchanged.
 
 It is open because the paper shows the discrepancy only on random Wishart

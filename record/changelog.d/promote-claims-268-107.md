@@ -9,4 +9,4 @@
   harmonic observable's mean is invariant under Markov kernels and drifts
   by at most Σ ε_i when nearly harmonic. "Conserved" and "Noether-type"
   leave the title, as [CLAIM-094](record/claims.d/CLAIM-094.md) (granted) said they should.
-- Both carry out the promotion audit's batch-003 decisions (ADR-047).
+- Both carry out the promotion audit's batch-003 decisions ([ADR-047](record/decisions.d/ADR-047.md)).

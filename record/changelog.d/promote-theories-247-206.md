@@ -13,4 +13,4 @@
 - [THEORY-206](record/theory.d/THEORY-206.md) is narrowed to Taylor matching at the origin, keeping the
   uniform upper bounds, and promoted to Active. The lower bound is
   re-derived in a note.
-- Both carry out the promotion audit's batch-006 decisions (ADR-047).
+- Both carry out the promotion audit's batch-006 decisions ([ADR-047](record/decisions.d/ADR-047.md)).

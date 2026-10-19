@@ -15,6 +15,6 @@
 - [THEORY-233](record/theory.d/THEORY-233.md) (the rank envelope between CKA and normalized Bures
   similarity) is promoted to Active, with the envelope and eqs. 27–28
   derived directly.
-- Both carry out the promotion audit's batch-007 decisions (ADR-047), under
+- Both carry out the promotion audit's batch-007 decisions ([ADR-047](record/decisions.d/ADR-047.md)), under
   the owner's rule that a checked re-derivation meets a promotion condition
   that asks for a proof.
