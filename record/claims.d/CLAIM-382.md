@@ -1,5 +1,8 @@
 ---
+number: 382
 status: Active
+formerly:
+- CLAIM-tmpt2jwl
 title: "In an autoencoder initialised with i.i.d. Gaussian weights and zero biases and trained by SGD or momentum SGD on a loss of its output, the law of each hidden layer's learned representation is invariant under every orthogonal map of that layer that commutes with its activation, so under a radial activation no basis is privileged in law, while elementwise tanh or Leaky-ReLU yields invariance only under the signed permutations or the permutations, which leaves the standard axes free to be privileged"
 version: 1
 history:
@@ -43,7 +46,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-288 — Proposed; the account this argument was split from and that cites it, cited as open -->
 
-# CLAIM-tmpt2jwl: In an autoencoder initialised with i.i.d. Gaussian weights and zero biases and trained by SGD or momentum SGD on a loss of its output, the law of each hidden layer's learned representation is invariant under every orthogonal map of that layer that commutes with its activation, so under a radial activation no basis is privileged in law, while elementwise tanh or Leaky-ReLU yields invariance only under the signed permutations or the permutations, which leaves the standard axes free to be privileged
+# CLAIM-382: In an autoencoder initialised with i.i.d. Gaussian weights and zero biases and trained by SGD or momentum SGD on a loss of its output, the law of each hidden layer's learned representation is invariant under every orthogonal map of that layer that commutes with its activation, so under a radial activation no basis is privileged in law, while elementwise tanh or Leaky-ReLU yields invariance only under the signed permutations or the permutations, which leaves the standard axes free to be privileged
 
 ## The claim
 

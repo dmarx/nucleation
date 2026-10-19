@@ -6,8 +6,9 @@
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-1 of 381 CLAIM documents. Back to the [full index](../README.md).
+2 of 383 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CLAIM-144](../../../record/claims.d/CLAIM-144.md) | Inertial observers who disagree about temporal order differ in coordinates, not in a failure to glue: only spacelike-separated events change order between frames, and frames are global charts related by a group action | A164's correction of the owner's U47, which is standard special relativity, with two repairs. A164 left out the reading of the owner's scenario whose answer is invariant (two passings of one marker). And it described frames as patches glued by a cocycle, which they are not: each inertial frame charts all of spacetime, and the frames are related by the Poincaré group. | Active |
+| [CLAIM-383](../../../record/claims.d/CLAIM-383.md) | In plane Couette and plane Poiseuille flow, measured in the energy norm, the linearized operator about the laminar profile has transient growth at least cR and resolvent norm at least cR² with c independent of R, so wherever it is eigenvalue-stable a perturbation of norm at most CR⁻² makes it eigenvalue-unstable | [THEORY-304](../../../record/theory.d/THEORY-304.md)'s scalings as lower bounds, derived. At streamwise wavenumber zero, the cross-stream velocities obey an R-independent Stokes problem in the time t/R. They force the streamwise velocity through −U′v, so the streamwise response is R times an R-independent field. In the energy norm this gives transient growth at least cR, and in the steady forced problem a resolvent norm at least cR². Through pseudospectra, a perturbation of norm O(R⁻²) then moves an eigenvalue into the unstable half-plane wherever the flow is eigenvalue-stable. The sharp constants, and that the growth is no more than order R, come from the computation and are not here. | Active |

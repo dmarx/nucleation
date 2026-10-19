@@ -6,7 +6,7 @@
 
 **Authenticity and concordance** — what makes a will-organization the agent's own, and normativity across the scales an agent spans. Set aside on 2026-10-05 as future work.
 
-5 of 381 CLAIM documents. Back to the [full index](../README.md).
+5 of 383 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

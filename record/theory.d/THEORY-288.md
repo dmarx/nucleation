@@ -23,7 +23,7 @@ history:
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-288.yaml, batch 013, ADR-047),
     the symmetry argument behind the ablation, the record's own, is filed
-    apart as CLAIM-tmpt2jwl, demonstrated and Active, with its proof and
+    apart as CLAIM-382, demonstrated and Active, with its proof and
     the optimiser condition it needs. This THEORY cites it and keeps its
     empirical title, whose promote_when is unchanged. The status stays
     Proposed.
@@ -94,7 +94,7 @@ Or radial networks could have formed the same beams through the data's
 own pixel axes, which the encoder mixes at random.
 
 **A symmetry argument behind it.** This is the record's, from the setup,
-and since 2026-10-19 it is [CLAIM-tmpt2jwl](../claims.d/CLAIM-tmpt2jwl.md), demonstrated and Active, with its
+and since 2026-10-19 it is [CLAIM-382](../claims.d/CLAIM-382.md), demonstrated and Active, with its
 proof. With a radial activation, every part of the network and its training
 is equivariant to rotations of each hidden space, and the initialisation is
 invariant in distribution. So the law of the learned representation is

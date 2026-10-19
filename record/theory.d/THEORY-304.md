@@ -23,7 +23,7 @@ history:
     the lower bounds behind the scalings (growth at least cR, resonance at
     least cR², a destabilizing perturbation of norm at most CR⁻²) are
     derived from the streamwise-independent scaling and filed apart as
-    CLAIM-tmpyj9zk, demonstrated and Active. That rules out the refuter the promote_when
+    CLAIM-383, demonstrated and Active. That rules out the refuter the promote_when
     names, growth bounded independently of R. The leading-order
     scalings and their constants still rest on the source's computation
     alone, so this THEORY keeps its promote_when unchanged. The status stays
@@ -85,7 +85,7 @@ and discretized in y, with amplification measured in the energy norm.
 The scalings could have come out bounded in R; they did not. Their lower
 bounds, transient growth at least cR, resonance at least cR², and a
 destabilizing perturbation of norm at most CR⁻², follow from the
-streamwise-independent scaling alone. That derivation is [CLAIM-tmpyj9zk](../claims.d/CLAIM-tmpyj9zk.md),
+streamwise-independent scaling alone. That derivation is [CLAIM-383](../claims.d/CLAIM-383.md),
 demonstrated and Active since 2026-10-19. The constants, and the fact
 that growth is no more than order R, are the computation's. The paper
 credits the discovery of large transient growth to Gustavsson, Henningson

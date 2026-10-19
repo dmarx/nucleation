@@ -6,7 +6,7 @@
 
 **Counter** — put forward on an opponent's behalf, at full strength — a steelman, or an objection anticipated as devil's advocate. A counter that goes Active means the record was persuaded, and the thesis it opposed needs revisiting.
 
-52 of 381 CLAIM documents. Back to the [full index](../README.md).
+52 of 383 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
