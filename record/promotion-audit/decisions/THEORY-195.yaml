@@ -1,0 +1,51 @@
+# record/promotion-audit/decisions/THEORY-195.yaml
+id: THEORY-195
+batch: batch-027
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The measured part, restricted to the experiments reported, under
+    ADR-047 v3: on the Random Hierarchy Model with s = 2, L ≤ 4 and small v,
+    deep CNNs matched to the tree and trained in a feature-learning regime
+    reach a tenth of chance error from about n_c m^L examples, polynomial in
+    the input dimension; their hidden layers become invariant to swapping
+    synonymous tuples at the same training-set size; two-layer networks and
+    the same CNNs as fixed kernels need a number proportional to P_max,
+    exponential in the input dimension; and deep CNNs on the grammar with
+    every tuple equally likely in every class stay near chance up to 0.9
+    P_max. NOTE-677 read the paper in full, the paper states each of these
+    results in its text (NOTE-677's claims table, C1–C3 and C6, and the
+    Fig. 9 caption's "near chance for P/P_max up to 0.9"), and nothing in
+    the record contradicts them.
+  excluded: >-
+    (a) The clause "which is where the class statistics of input patches
+    ... rise above sampling noise", read as the cause of P*. The body
+    disclaims it ("Not that correlation detection, rather than grammar size,
+    sets P*") and NOTE-677 rates the threshold (C4) as a large-v scaling
+    estimate, not a bound. In this model the threshold and the grammar's
+    size are the same expression, so no experiment here can attribute P* to
+    either. (b) Deep fully connected networks (a factor of about 2^L, one
+    figure) and any reading beyond s = 2, L ≤ 4. The promote_when, which
+    asks for exactly the separation in (a) or for a proof, moves unchanged
+    to a new QUESTION.
+evidence:
+  - "NOTE-677 v1 history: read in full from arXiv v5; §III.B, Eq. 13 and Appendix D followed step by step; Appendices B–C followed to their large-v limits; 'Figures were read from captions, axis labels and text, not from plotted values.'"
+  - "NOTE-677 claims table: C1 (two-layer and lazy CNNs need ∝ P_max) moderate, small v and L; C2 (P* ≈ n_c m^L) moderate, empirical, s = 2, L ≤ 4; C3 (invariance at P*) moderate; C4 (threshold at n_c m^L) moderate, large-v asymptotics, not a bound; C6 (no correlations, no escape) moderate, L = 2, 3."
+  - "Batch 019's rule for ADR-047 v3 (results seen only in figures do not qualify): here the paper states P* ≈ n_c m^L, the proportionality to P_max and the near-chance result in its text, so the rule is met. The curve collapses themselves were not inspected; that is why confidence is medium."
+blockers: []
+notes: >-
+  Triage-005 suspected a formal result under a prose title. It is not
+  formal: the theory is a large-v scaling estimate and a one-step,
+  one-patch model, and the title's headline is a fitted law. It promotes
+  as a measurement under ADR-047 v3, with its explanatory clause moved to
+  a QUESTION, which is the same shape as THEORY-191 and THEORY-192 in
+  batch 018.
+next_action: >-
+  Narrow-and-promote PR. Retitle to the measured results in the reported
+  range; keep the scaling estimate and the one-step model in the body as
+  the source's argument; set Active; move the promote_when, unchanged, to
+  a new QUESTION.

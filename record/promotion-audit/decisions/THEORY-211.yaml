@@ -1,0 +1,71 @@
+# record/promotion-audit/decisions/THEORY-211.yaml
+id: THEORY-211
+batch: batch-027
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    LIT-1012's Theorem 1 and its consequences, stated inside the model they
+    are proved in: the stochastic-differential-equation model of SGD with a
+    gradient-noise covariance that depends on the parameters, and a
+    per-sample loss with a rescaling symmetry. The law of balance, its rate
+    T = η/S, the restoring drift along the orbit to the point where the two
+    groups' gradient-noise traces are equal (when both groups carry noise),
+    and the three-way contrast with gradient flow and isotropic noise are
+    re-derived below by Itô's lemma (ADR-047 v2). NOTE-714 did not check the
+    paper's proofs; this derivation stands in for that check.
+  excluded: >-
+    The reading of the title as a fact about trained deep networks on real
+    data. The body disclaims it ("It does not establish the law in a deep
+    network trained on real data") and the promote_when asks for exactly
+    that measurement. It moves, unchanged, to a new QUESTION related to
+    QUESTION-069 and QUESTION-080. Also excluded from the title: the
+    diagonal-linear-network results (non-ergodicity, collapse above T_c),
+    which stay in the body as the source's.
+evidence:
+  - "NOTE-714 v1 history: §§I–IV read in full; 'The proofs in Appendix A were not checked.'"
+  - >-
+    Re-derivation. Let θ = (u, w, rest) and ℓ(λu, w/λ, ·) = ℓ(u, w, ·) for
+    every sample and every λ > 0. Differentiating at λ = 1 gives
+    uᵀ∇_uℓ − wᵀ∇_wℓ = 0 for every sample, hence for the mean loss L. Model
+    SGD as dθ = −∇L dt + √(TΣ(θ)) dW with T = η/S and Σ the per-sample
+    gradient covariance. Let J = ‖u‖² − ‖w‖², so ∇J = (2u, −2w, 0) and
+    ∇²J = diag(2I, −2I, 0). By Itô, dJ = ∇Jᵀdθ + ½T tr(Σ∇²J) dt.
+    (i) Drift from the loss: ∇Jᵀ(−∇L) = −2(uᵀ∇_uL − wᵀ∇_wL) = 0.
+    (ii) Noise along J: its variance is T∇JᵀΣ∇J, and ∇Jᵀg = 2(uᵀg_u − wᵀg_w)
+    = 0 for every per-sample gradient g, so ∇JᵀΣ∇J = 0: J receives no noise.
+    (iii) Itô term: ½T tr(Σ∇²J) = T(tr Σ_u − tr Σ_w), Σ_u and Σ_w the
+    covariances of the two groups' gradients. Locally the symmetry means ℓ
+    depends on (u, w) through M = uwᵀ; with A = ∂ℓ/∂M per sample,
+    g_u = Aw and g_w = Aᵀu, so tr Σ_u = wᵀC₂w and tr Σ_w = uᵀC₁u with
+    C₁ = E[(A − Ā)(A − Ā)ᵀ], C₂ = E[(A − Ā)ᵀ(A − Ā)]. Hence
+    dJ/dt = −T(uᵀC₁u − wᵀC₂w), the law of balance. Its zero is where the two
+    groups' gradient-noise traces are equal. (iv) Restoring along the orbit.
+    On the orbit (λu, w/λ), M and therefore C₁ and C₂ are fixed, so the
+    drift is −T(λ²a − λ⁻²b) with a = uᵀC₁u, b = wᵀC₂w. When a, b > 0 it is
+    positive for λ⁴ < b/a and negative above, and J = λ²‖u‖² − λ⁻²‖w‖² is
+    increasing in λ: J is driven to the unique balanced point λ⁴ = b/a at a
+    rate proportional to T. (v) Contrasts. Under gradient flow (T = 0), (i)
+    leaves J conserved. Under isotropic noise σ²I, (ii) fails
+    (∇Jᵀ∇J σ² = 4σ²(‖u‖² + ‖w‖²) > 0) and the Itô term is a constant
+    σ²(dim u − dim w), so J diffuses with no restoring force. (vi) Finite
+    difference. For any T > 0 the balanced point is reached on a time scale
+    of order 1/T, while T = 0 keeps the initial J, so the long-time limit
+    and the small-noise limit do not commute: the difference from gradient
+    descent is of order one however small T. (vii) Weight decay
+    (γ/2)(‖u‖² + ‖w‖²) adds −2γJ to the drift.
+  - "Step (iv) holds with the product M fixed, i.e. at stationarity of the loss-reducing motion; while M still moves, (iii) gives the drift but not convergence."
+blockers: []
+notes: >-
+  Triage-005 suspected a formal result under a prose title. It is one: a
+  theorem about an SDE, re-derived in seven steps. The narrowing names the
+  model, the condition that both groups carry noise, and stationarity of
+  the product; the anthology-candidate flag stays.
+next_action: >-
+  Narrow-and-promote PR. Retitle to the SDE model with the both-groups-noisy
+  condition; set Active; add the re-derivation as a dated note; move the
+  promote_when, unchanged, to a new QUESTION related to QUESTION-069 and
+  QUESTION-080.

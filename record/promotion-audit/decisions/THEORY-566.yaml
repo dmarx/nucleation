@@ -1,0 +1,56 @@
+# record/promotion-audit/decisions/THEORY-566.yaml
+id: THEORY-566
+batch: batch-027
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as it stands. It is a structural fact about Ganea et al.'s
+    construction, which the promote_when itself calls settled, re-derived
+    below: lifted linear maps and nonlinearities compose to a Euclidean
+    composition read through the chart at the origin, so a bias-free stack
+    is a Euclidean network conjugated by that chart, and the curvature c
+    enters the network only through the Möbius bias translations, the
+    distance-based output layer, and the chart itself.
+  excluded: >-
+    The promote_when, which asks for an ablation tying the networks'
+    empirical gains to the two operations. The title claims no gains, and
+    the body disclaims them ("That the gains come from the two operations.
+    No ablation removes either"). The condition is mis-targeted, as
+    THEORY-014's was, and moves unchanged to a new QUESTION related to
+    QUESTION-025.
+evidence:
+  - "NOTE-686 v1 history: read in full; Theorem 4's proof followed step by step and re-derived; Lemmas 2–3, Eq. 15 and Theorems 4–5 checked numerically."
+  - >-
+    Re-derivation. On the Poincaré ball of curvature −c,
+    exp₀(v) = tanh(√c‖v‖) v/(√c‖v‖) maps ℝⁿ onto the open ball of radius
+    1/√c, and log₀(y) = artanh(√c‖y‖) y/(√c‖y‖) is its inverse, since
+    artanh ∘ tanh is the identity and both maps keep the direction. A lifted
+    map is f^{⊗c} = exp₀ ∘ f ∘ log₀ (Definition 3.2), which covers matrix
+    multiplication and pointwise nonlinearities. Then
+    g^{⊗c} ∘ f^{⊗c} = exp₀ ∘ g ∘ (log₀ ∘ exp₀) ∘ f ∘ log₀ = exp₀ ∘ (g ∘ f) ∘ log₀,
+    and by induction a stack of k lifted layers is exp₀ ∘ (f_k ∘ ⋯ ∘ f₁) ∘ log₀.
+    The Euclidean network inside does not depend on c; c enters only through
+    the chart. The bias x ↦ x ⊕_c b is not of this form with a c-free f: in
+    the chart it is F_b(v) = log₀(exp₀(v) ⊕_c b), which by Theorem 4 equals
+    log₀(exp_{exp₀(v)}((λ₀/λ_x) log₀ b)) and depends on c (it reduces to
+    v + b only as c → 0). The output layer's logits are distances to the
+    geodesic hyperplanes exp_p({a}^⊥), in closed form with c (Theorem 5).
+    Every other operation is a lifted map. So the network's dependence on c,
+    beyond the chart, is carried by those two operations alone, which is
+    the title's "only".
+  - "Conjugation is meant in this sense: the Euclidean counterpart of each lifted layer is its own c-free original. Any map on the ball is trivially exp₀ ∘ (something) ∘ log₀; the content is that for lifted layers that something is the standard layer, while for the bias and the output layer it is a c-dependent map."
+blockers: []
+notes: >-
+  Tagged mathematics, so triage-005's "looks formal though routed to
+  source" was right and its routing rule missed it. Mis-targeted
+  promote_when (THEORY-014 shape): promote the structural title, and move
+  the empirical attribution to a QUESTION. The anthology-candidate flag
+  stays.
+next_action: >-
+  Promote PR. Set Active; add the composition argument as a dated note
+  with the precise sense of "conjugated"; remove the promote_when and file
+  it, unchanged, as a new QUESTION related to QUESTION-025.

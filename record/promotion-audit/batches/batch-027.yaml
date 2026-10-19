@@ -1,0 +1,76 @@
+# record/promotion-audit/batches/batch-027.yaml
+batch: batch-027
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+selection: >-
+  The four entries triage-005 routed to source but noted as looking formal
+  under prose titles (THEORY-187, THEORY-195, THEORY-211, THEORY-566), then
+  THEORY-176, queued earlier as a premise of CLAIM-126 and reviewed on its
+  own. Run in parallel with other batch sessions. The parent session
+  integrates this file into queue.yaml and NOTES.md.
+reviewed: [THEORY-187, THEORY-195, THEORY-211, THEORY-566, THEORY-176]
+outcomes:
+  promote: [THEORY-566, THEORY-176]
+  narrow-and-promote: [THEORY-187, THEORY-195, THEORY-211]
+yield: 5 of 5 found a promotion path (four formal, one under ADR-047 v3)
+formal_check:
+  # triage-005 flagged THEORY-187, -195, -211 and -566 as possibly formal but routed them to source
+  - code: THEORY-187
+    formal: true
+    how: "Exact gradient-flow solution plus a Hessian computation; the finite-depth integral re-derived."
+  - code: THEORY-195
+    formal: false
+    how: "A fitted scaling law from experiments, with a large-v scaling estimate; promoted as a measurement under ADR-047 v3."
+  - code: THEORY-211
+    formal: true
+    how: "An SDE theorem; re-derived by Itô's lemma in seven steps."
+  - code: THEORY-566
+    formal: true
+    how: "A composition identity on the Poincaré ball; already tagged mathematics."
+finding: >-
+  Triage-005's suspicion was right three times in four: the misses were
+  formal results whose titles were written as prose about networks. The one
+  that was not formal (THEORY-195) still promoted, as a measurement. Every
+  promote_when asked for something the body disclaims (off-decoupled
+  starts, an attribution of P*, real-data measurement, an ablation of gains,
+  an experiment for an existence claim) and moves to a QUESTION. Two of the
+  five needed no narrowing at all (mis-targeted conditions, THEORY-014's
+  shape).
+recommendation: >-
+  For the next triage, treat "exact", "conserved", "law of", "conjugated",
+  "decoupled", "Itô" and equation-like fragments in the summary as formal
+  markers, not only in the title. Review the other prose-titled entries the
+  learning-theory tag holds the same way.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-187, THEORY-211: narrow-and-promote, each with its re-derivation as a dated note; promote_whens to new QUESTIONs (related to QUESTION-039, and to QUESTION-069 and QUESTION-080)."
+  - "THEORY-566, THEORY-176: promote, with the composition argument and the stitching example as dated notes; promote_whens to new QUESTIONs (related to QUESTION-025 for THEORY-566)."
+  - "THEORY-195: narrow-and-promote under ADR-047 v3; promote_when to a new QUESTION."
+notes_for_ledger:
+  - >-
+    Triage-005's prose-title misses were real formal results (3 of 4). Its
+    formal flag reads titles; these four have formal content in the summary
+    and body ("exact", "conserved", an SDE equation, a composition
+    identity). Score the summary too.
+  - >-
+    An existence clause is proved by a constructed example, even inside a
+    paper's own restricted protocol. THEORY-176's "can stitch differently"
+    took a two-position, one-channel example in which a 1×1 stitcher cannot
+    undo a position swap. When a promote_when asks for a measured instance
+    of a "can", build the smallest case first.
+  - >-
+    Narrowing to the derivation's hypothesis is the commonest fix for
+    formal THEORYs read off a paper's theory section: THEORY-187 (decoupled,
+    balanced start) and THEORY-211 (the SDE model, both groups noisy,
+    product at stationarity). The title's law is kept and its scope is
+    stated.
+  - >-
+    Promoting THEORY-176 removes one Proposed premise from CLAIM-126,
+    CLAIM-225 and CLAIM-199. A wave-4 recount should follow once the PR
+    merges.
+  - >-
+    ADR-047 v3 with captions-only figures: THEORY-195's results are stated
+    in the paper's text, so batch 019's rule is met, but the curve collapses
+    were not seen. Medium confidence is the honest record of that.
