@@ -700,3 +700,19 @@ history note. THEORY-277 is requeued on this basis.
 - Exclusive "only" again (THEORY-546). Test a title's "only when" or
   "requires" against the dilemmas its own body reports. The body named
   multiple occupancy as the alternative to non-branching.
+
+## 2026-10-19 — batch 018 (wave 3, ADR-047 v3)
+
+- First use of ADR-047 v3. "Read in full" was taken to allow figures and
+  supplements unseen, provided the title rests only on results the text
+  reports. Both NOTEs (672, 668) qualify. A title resting on a
+  supplementary table known only by summary would not.
+- A promote_when that asks for a confirming instance of a logical
+  consequence (THEORY-255: "a second model that also places the deviation
+  outside the meet") is met by the proof of the consequence. What remains,
+  which published models drop which assumption, is a QUESTION.
+- Triage-004's maximum score (7) went 2 of 3 here and 2 of 5 in batch 016.
+  The three 7s reviewed here split along formal content, which the rubric
+  doesn't score. Batch 017's formal-content flag is the fix.
+- THEORY-235 should move to wave 5 in the queue: a single-source
+  philosophical argument with open objections.

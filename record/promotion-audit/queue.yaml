@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 98
+version: 99
 updated: '2026-10-19'
 record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 procedure: record/decisions.d/ADR-047.md
@@ -35,11 +35,11 @@ waves:
 - wave: 2
   class: THEORYs with verified mathematical cores
   reviewed: 51
-  promotion_paths: 43
+  promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 15
-  promotion_paths: 5
+  reviewed: 18
+  promotion_paths: 7
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -862,9 +862,11 @@ candidates:
   supports: 0
   triage: triage-003
   state: decided
-  disposition: retain-proposed
-  batch: batch-011
+  disposition: narrow-and-promote
+  batch: batch-018
   decision: decisions/THEORY-191.yaml
+  carried_out_in:
+  - '#207'
 - code: THEORY-192
   wave: 2
   score: 3
@@ -875,9 +877,11 @@ candidates:
   supports: 0
   triage: triage-003
   state: decided
-  disposition: retain-proposed
-  batch: batch-011
+  disposition: narrow-and-promote
+  batch: batch-018
   decision: decisions/THEORY-192.yaml
+  carried_out_in:
+  - '#207'
 - code: THEORY-193
   wave: 2
   score: 3
@@ -1149,7 +1153,12 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: split
+  batch: batch-018
+  decision: decisions/THEORY-033.yaml
+  carried_out_in:
+  - '#209'
 - code: THEORY-198
   wave: 3
   score: 7
@@ -1174,7 +1183,10 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-018
+  decision: decisions/THEORY-235.yaml
 - code: THEORY-248
   wave: 3
   score: 7
@@ -1199,7 +1211,12 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-018
+  decision: decisions/THEORY-255.yaml
+  carried_out_in:
+  - '#209'
 - code: THEORY-256
   wave: 3
   score: 7
@@ -2412,4 +2429,8 @@ history:
   date: '2026-10-19'
   note: 'Batch 020 integrated: 1 of 5 found a promotion path (THEORY-295, under ADR-047 v3); 1 correction;
     carried_out_in #205'
+- version: 99
+  date: '2026-10-19'
+  note: 'Batch 018 integrated: 4 of 5 found a promotion path (two under ADR-047 v3, two formal cores under
+    v2); carried_out_in #207, #209'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

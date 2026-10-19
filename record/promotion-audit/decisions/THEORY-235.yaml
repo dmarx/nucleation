@@ -1,0 +1,43 @@
+# record/promotion-audit/decisions/THEORY-235.yaml
+id: THEORY-235
+batch: batch-018
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    The reading. Susser, Roessler and Nissenbaum (LIT-1002, read in full in
+    NOTE-745) argue that covert, vulnerability-exploiting influence harms
+    the process of deciding by making the target opaque to herself, and
+    that the harm is present even when the outcome benefits her. They claim
+    a harm in every case, not a wrong. The THEORY reports this accurately
+    and scopes it to covert influence, as Noggle's survey (LIT-1007)
+    requires.
+  excluded: >-
+    The claim as true. It is a philosophical argument from one short policy
+    essay. By the THEORY's own account, it does not meet the objections set
+    against autonomy accounts: the autonomy-enhancing cases in LIT-1007
+    §3.3, and S. Buss's argument that the duty not to manipulate has little
+    to do with autonomy. ADR-047 v3 does not apply. It covers a study that
+    measured something, and this is an argument with no measurement. ADR-047
+    v2 does not apply either, since there is no derivation to re-check, only
+    an argument that has not met its objections.
+evidence:
+  - "THEORY-235, What this does not say: 'It does not meet the objections to autonomy accounts ... It does not engage those authors.'"
+  - "NOTE-744 (Noggle, read in full): the field leans, with a 'perhaps', to manipulation as prima facie and pro tanto wrong; autonomy-enhancing counterexamples are standard."
+blockers:
+  - "No argument the record has checked answers the autonomy-enhancing cases (LIT-1007 §3.3) or Buss's objection, and no second, independent source reaches the conclusion from other premises."
+notes: >-
+  Triage-004 gave this the maximum 7, which shows again that its rubric
+  does not separate interpretive arguments from checkable cores.
+  Bundling scored 2 because the promote_when and the disclaimer share
+  the objections' vocabulary, and here that marks an open objection, not
+  a separable core. Wave 3 should route single-source philosophical
+  arguments to wave 5.
+unlocks: []
+next_action: >-
+  None. Move it to wave 5 in the queue (interpretive), where an owner
+  question, or a reading of Buss and of the autonomy-enhancing cases,
+  would decide it.

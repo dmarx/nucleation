@@ -1,0 +1,76 @@
+# record/promotion-audit/decisions/THEORY-255.yaml
+id: THEORY-255
+batch: batch-018
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    Narrowed title: In Aerts's subspace model of Hampton's membership data,
+    and in any lattice whose membership weight is order-preserving,
+    whatever its negation, taking conjunction and disjunction as meet and
+    join cannot produce overextension or underextension. So a model of the
+    guppy-type deviations must take conjunction as some operation other
+    than the meet, or drop the monotone weight; Aerts adds an emergent
+    concept. The Kolmogorov-type deviations, by contrast, can be had from
+    the meet of a non-Boolean subspace lattice.
+
+    Re-derivation (ADR-047 v2) of the generalisation the promote_when asks
+    for, checked step by step:
+    1. Let (L, ≤) be any lattice, and µ: L → [0, 1] any order-preserving
+       weight (a ≤ b implies µ(a) ≤ µ(b)). No negation, complement or
+       distributivity is assumed.
+    2. A ∧ B ≤ A and A ∧ B ≤ B, so µ(A ∧ B) ≤ min(µ(A), µ(B)). That is,
+       ∆_c = µ(A and B) − min(µ(A), µ(B)) ≤ 0 whenever "and" is the meet:
+       no overextension.
+    3. A ≤ A ∨ B and B ≤ A ∨ B, so µ(A ∨ B) ≥ max(µ(A), µ(B)). That is,
+       ∆_d = max(µ(A), µ(B)) − µ(A or B) ≤ 0 whenever "or" is the join:
+       no underextension.
+    4. Aerts's Theorem 9 is the case where L is the subspaces of ℝⁿ and
+       µ(S) = ‖P_S x‖², which is order-preserving because S ⊆ T gives
+       P_S = P_S P_T, so ‖P_S x‖ ≤ ‖P_T x‖. Boolean algebras,
+       orthomodular lattices and Heyting algebras with monotone valuations
+       are covered by step 1, since steps 2–3 use only the order.
+    5. So any model that reproduces an overextended item, such as Cuckoo
+       (µ(Pet) = 0.575, µ(Bird and Pet) = 0.842), drops either "and = meet"
+       or monotonicity. The promote_when asked for a second quantum model
+       to confirm this. It is a consequence of steps 1–3 and needs no
+       confirmation. Which of the two each published model drops is a
+       question about those models, and it moves to a QUESTION.
+    6. The k-type clause, checked for possibility. In ℝ² take two lines A
+       and B at angle θ < 90°, with A ∧ B = {0}, and x the unit vector on
+       their bisector. Then µ(A) = µ(B) = cos²(θ/2) > ½ and µ(A ∧ B) = 0,
+       so k_c = 1 − µ(A) − µ(B) + µ(A ∧ B) = 1 − 2cos²(θ/2) < 0, with
+       conjunction still the meet. So negative k can come from a
+       non-Boolean (non-distributive) subspace lattice without touching
+       monotonicity, as Aerts's fitted pair (Machine, Vehicle at
+       θ = 80.9026°) shows in ℝ⁴.
+  excluded: >-
+    That the emergent-concept model is right (a fit, NOTE-808 C5 moderate),
+    and the two-layer reading of thought (C6, weak). That every k-type
+    item in Hampton's data is fitted by tilting: C4 is worked for one pair
+    only, and step 6 shows possibility, not coverage. The title's "need an
+    emergent concept" is too strong: the theorem forces only that the meet
+    or monotonicity be dropped.
+evidence:
+  - "NOTE-808 (Read in full): C1 strong (Theorems 1–6), C3 strong (Theorem 9, Appendix E; 'the proof is monotonicity of ‖P_S x‖² in S'), C4 moderate (worked for Machine and Vehicle only), C5 moderate (fit)."
+  - "The re-derivation above, steps 1–6."
+blockers: []
+notes: >-
+  A wave-3 entry with a formal core, as the parallel round found every
+  wave-3 path to be. The promote_when's second clause asked for evidence
+  of a logical consequence. A consequence needs no confirming instance,
+  so the clause becomes a QUESTION about which published models drop which
+  assumption, rather than a blocker. LIT-316 (Busemeyer and Bruza) stays
+  unavailable and is not needed.
+unlocks:
+  - "CLAIM-119 and CLAIM-038 cite this entry as a limit on their meets; they are interpretive, so they get no automatic change."
+next_action: >-
+  Narrow the title as in scope.accepted. Add the re-derivation as a dated
+  note. Move the second-model clause to a new QUESTION, related to
+  QUESTION-055, on which published concept-combination models drop
+  conjunction-as-meet and which drop the monotone weight. Promote to
+  Active, with a history note appended last citing this file, batch 018
+  and ADR-047 v2. Trim stale inactive-ok directives naming THEORY-255.
