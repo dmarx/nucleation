@@ -37,9 +37,12 @@ decision files do not say.
   Use concretized codes. PR #165's tmp codes (CLAIM-tmpzk12h,
   CLAIM-tmpu2dsm, THEORY-tmpsuto2, THEORY-tmp2m4ke, THEORY-tmp60l2i,
   QUESTION-tmpxheie, QUESTION-tmp4uhs6) get numbers when it merges.
-- On main, CLAIM-326 still carries its tmp code, CLAIM-tmpz6mng.
-- Run the triage script against main, not a feature branch, or the queue
-  scores a record nobody else sees.
+- Run the triage against a freshly fetched origin/main, never a local
+  main. Queue version 1 was scored against a stale clone-time main
+  (b84ad2e3), because `git checkout main || git fetch` never fetched once
+  the checkout succeeded. Always `git fetch origin main` first, then cut
+  the branch from origin/main. The triage script used for version 2 is
+  `triage.py` here.
 
 **Open threads.**
 

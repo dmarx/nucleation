@@ -1,9 +1,9 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 1
+version: 2
 updated: '2026-10-19'
-record_revision: b84ad2e37d98bdc5dc6b14957d5b4a1f2e0df648
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-001
@@ -43,8 +43,8 @@ requeue:
   when: 'after PR #165 merges'
   why: corrected there; review again as demonstrated
 - code: CLAIM-326
-  when: 'after PR #165 merges'
-  why: filed as CLAIM-tmpz6mng on main; re-grounded there; Proposed, demonstrated, wave 1
+  when: before its review
+  why: 'PR #165 adds a second ground (THEORY-tmp2m4ke); review the merged version'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -60,6 +60,20 @@ candidates:
   disposition: promote
   batch: batch-000
   decision: decisions/CLAIM-264.yaml
+- code: CLAIM-123
+  wave: 1
+  score: 19
+  rubric:
+    evidence: 5
+    scope: 3
+    downstream: 4
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: decided
+  disposition: needs-correction
+  batch: batch-000
+  decision: decisions/CLAIM-123.yaml
 - code: CLAIM-267
   wave: 1
   score: 19
@@ -74,20 +88,6 @@ candidates:
   disposition: promote
   batch: batch-001
   decision: decisions/CLAIM-267.yaml
-- code: CLAIM-123
-  wave: 1
-  score: 18
-  rubric:
-    evidence: 5
-    scope: 3
-    downstream: 3
-    cost: 4
-    risk: 3
-  proposed_deps: []
-  state: decided
-  disposition: needs-correction
-  batch: batch-000
-  decision: decisions/CLAIM-123.yaml
 - code: CLAIM-270
   wave: 1
   score: 18
@@ -102,6 +102,20 @@ candidates:
   disposition: promote
   batch: batch-001
   decision: decisions/CLAIM-270.yaml
+- code: CLAIM-285
+  wave: 1
+  score: 18
+  rubric:
+    evidence: 5
+    scope: 2
+    downstream: 4
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: decided
+  disposition: split
+  batch: batch-001
+  decision: decisions/CLAIM-285.yaml
 - code: CLAIM-077
   wave: 1
   score: 17
@@ -130,20 +144,6 @@ candidates:
   disposition: needs-correction
   batch: batch-001
   decision: decisions/CLAIM-098.yaml
-- code: CLAIM-285
-  wave: 1
-  score: 17
-  rubric:
-    evidence: 5
-    scope: 2
-    downstream: 3
-    cost: 4
-    risk: 3
-  proposed_deps: []
-  state: decided
-  disposition: split
-  batch: batch-001
-  decision: decisions/CLAIM-285.yaml
 - code: CLAIM-308
   wave: 1
   score: 17
@@ -189,6 +189,21 @@ candidates:
   proposed_deps:
   - THEORY-014
   state: pending
+- code: CLAIM-128
+  wave: 1
+  score: 15
+  rubric:
+    evidence: 4
+    scope: 2
+    downstream: 4
+    cost: 2
+    risk: 3
+  proposed_deps:
+  - CLAIM-106
+  state: decided
+  disposition: split
+  batch: batch-000
+  decision: decisions/CLAIM-128.yaml
 - code: CLAIM-251
   wave: 1
   score: 15
@@ -237,21 +252,6 @@ candidates:
   proposed_deps:
   - THEORY-158
   state: pending
-- code: CLAIM-128
-  wave: 1
-  score: 14
-  rubric:
-    evidence: 4
-    scope: 2
-    downstream: 3
-    cost: 2
-    risk: 3
-  proposed_deps:
-  - CLAIM-106
-  state: decided
-  disposition: split
-  batch: batch-000
-  decision: decisions/CLAIM-128.yaml
 - code: CLAIM-188
   wave: 1
   score: 14
@@ -318,6 +318,18 @@ candidates:
   - THEORY-008
   - THEORY-002
   - THEORY-019
+  state: pending
+- code: CLAIM-326
+  wave: 1
+  score: 13
+  rubric:
+    evidence: 4
+    scope: 2
+    downstream: 2
+    cost: 2
+    risk: 3
+  proposed_deps:
+  - THEORY-156
   state: pending
 - code: CLAIM-056
   wave: 1
@@ -409,3 +421,9 @@ history:
   note: 'Queue opened under ADR-047. Triage-001 scored the 25 Proposed, demonstrated CLAIMs on main at
     record_revision from metadata (rubric in ADR-047). Batch-000 records the decisions PR #165 made. Batch-001
     reviewed CLAIM-267, CLAIM-270, CLAIM-077, CLAIM-098 and CLAIM-285.'
+- version: 2
+  date: '2026-10-19'
+  note: Re-triaged against the real main (d3f55159). Version 1 was scored against a stale local main (b84ad2e3),
+    because the branch was cut without fetching. Scores moved by one for CLAIM-123, CLAIM-128 and CLAIM-285,
+    and CLAIM-326 was added. Batch-001's five entries are identical in both revisions except for cross-references,
+    so its decisions stand and are re-pinned to d3f55159.

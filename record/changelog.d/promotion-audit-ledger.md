@@ -1,6 +1,6 @@
 ### Added
 
-- [ADR-046](record/decisions.d/ADR-046.md): the promotion audit runs in small, persisted batches, ranked
+- [ADR-047](record/decisions.d/ADR-047.md): the promotion audit runs in small, persisted batches, ranked
   by expected yield, with decisions recorded apart from status changes.
 - `record/promotion-audit/`: the audit's versioned queue with a hand-off
   block, one decision file per reviewed candidate, batch files, working

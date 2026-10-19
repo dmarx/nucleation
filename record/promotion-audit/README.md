@@ -12,6 +12,7 @@ pick up where the last one stopped.
 | `batches/batch-NNN.yaml` | What one batch reviewed, its outcomes, its yield, and what it learned | one per batch |
 | `NOTES.md` | Working notes: patterns, traps, open threads | append freely |
 | `check.py` | Fails if the queue and the decision files disagree | run before every commit |
+| `triage.py` | Scores wave-1 candidates by the rubric, from metadata | run on a freshly fetched origin/main when re-triaging |
 
 ## Resuming
 

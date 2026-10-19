@@ -3,7 +3,7 @@ batch: batch-001
 date: '2026-10-19'
 kind: evidence-audit
 wave: 1
-record_revision: b84ad2e37d98bdc5dc6b14957d5b4a1f2e0df648
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 selection: >-
   The five highest-scoring pending candidates of triage-001 (queue.yaml,
   version 1), with batch-000's decisions skipped. Ties were broken by code.
