@@ -4,9 +4,23 @@ status: Proposed
 formerly:
 - CLAIM-tmpevciu
 title: 'Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Warrant corrected from interpretive to empirical, carrying out the
+    promotion audit's decision (record/promotion-audit/decisions/CLAIM-052.yaml,
+    batch 022, ADR-047). The title's main clause is a generalization about
+    how the order of framing prompts changes later judgements, and its
+    defeat condition is an observation, so its support would be
+    observational (ADR-043). The second clause, that order effects can be
+    studied without quantum probability, holds because classical
+    sequential and context-dependent-marginal models describe them
+    (LIT-264). The status stays Proposed: the claim is untested, and
+    CASE-021, run, is what would move it.
 role: thesis
-warrant: interpretive
+warrant: empirical
 defeated_if: >-
   In controlled designs the order of framing prompts makes no
   difference, beyond noise, to the distribution of later pragmatic
