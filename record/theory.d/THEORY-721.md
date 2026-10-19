@@ -40,6 +40,8 @@ summary: >-
   nonzero copyable vector.
 extended_by:
 - THEORY-017
+supports:
+- CLAIM-148
 ---
 <!-- inactive-ok-file: THEORY-017 — Proposed; the synthesis this core was split from and that extends it, cited as open -->
 

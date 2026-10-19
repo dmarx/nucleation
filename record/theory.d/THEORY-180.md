@@ -48,8 +48,6 @@ summary: >-
   agreement with measured spectra is qualitative.
 extends:
 - THEORY-726
-supports:
-- CLAIM-148
 ---
 
 <!-- inactive-ok-file: THEORY-106 — Proposed; compared in scope below -->

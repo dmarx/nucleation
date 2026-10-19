@@ -4,7 +4,21 @@ status: Active
 formerly:
 - CLAIM-tmpro4wi
 title: 'A matrix factorization is identified only up to an invertible change of latent coordinates, which weight decay narrows to rotations and nonnegativity to rescalings and permutations plus a data-dependent remainder; such a gauge is not a symmetry of the relational system, and automorphisms of the data act on the factors only when the factorization is identifiable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Re-grounded, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-148.yaml, batch 015, ADR-047).
+    The claim cited two Proposed THEORYs for parts that splits have since
+    filed as Active entries. The nuclear-norm minimum of the factor penalty
+    is THEORY-726, split from THEORY-180, which keeps only the spectral law
+    this claim does not use. That no basis or factorisation is
+    distinguished by the space alone is THEORY-721, which THEORY-017 extends
+    with its synthesis across works. The grounds and citations now name the
+    Active entries, and the directive for the two Proposed ones is removed.
+    The minimizer step is added as a note. The claim is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -16,8 +30,8 @@ line:
 - formal-apparatus
 grounds:
 - THEORY-004
-- THEORY-017
-- THEORY-180
+- THEORY-721
+- THEORY-726
 - LIT-304
 complements:
 - CLAIM-132
@@ -37,7 +51,7 @@ illustrated_by:
 - CASE-042
 - CASE-097
 ---
-<!-- inactive-ok-file: THEORY-017 THEORY-180 — Proposed; cited as readings the claim stands on, not as settled -->
+<!-- inactive-ok-file: THEORY-017 THEORY-180 — Proposed; named as the parents of the Active entries now cited, not leaned on -->
 <!-- inactive-ok-file: CLAIM-113 — Proposed; open, and cited as the claim whose automorphism direction this one supplies -->
 
 # CLAIM-148: A matrix factorization is identified only up to an invertible change of latent coordinates, which weight decay narrows to rotations and nonnegativity to rescalings and permutations plus a data-dependent remainder; such a gauge is not a symmetry of the relational system, and automorphisms of the data act on the factors only when the factorization is identifiable
@@ -70,7 +84,7 @@ and a relational signature built from latent item vectors would fail it.
 Weight decay narrows the gauge without removing it. A207 §1: "orthogonal
 changes still preserve both predictions and the usual squared-norm
 penalty." The minimum of (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is the nuclear
-norm ‖M‖_* ([THEORY-180](../theory.d/THEORY-180.md)). Its minimizers are the balanced factorizations
+norm ‖M‖_* ([THEORY-726](../theory.d/THEORY-726.md)). Its minimizers are the balanced factorizations
 U = U_M Σ^½ R and V = V_M Σ^½ R with R orthogonal. The penalty therefore
 fixes the gauge up to O(k), and it fixes latent inner products to
 V_M Σ V_Mᵀ. That value is chosen by the penalty, not by the ratings.
@@ -102,8 +116,8 @@ A worked case. Take W = [[1, .5], [.5, 1], [1, 1]] and H = [[1, .6, .3],
 nonnegative, and they give the same X = WH. A is not a rescaling or a
 permutation. In this example no word belongs to one topic alone and no
 document to one topic alone, which is the condition the uniqueness
-theorems exclude (separability, anchor words). This is [THEORY-017](../theory.d/THEORY-017.md)'s point in
-a new place: the parts are fixed by structure supplied from outside, here
+theorems exclude (separability, anchor words). This is [THEORY-721](../theory.d/THEORY-721.md)'s point in
+a new place, the core of [THEORY-017](../theory.d/THEORY-017.md)'s synthesis: the parts are fixed by structure supplied from outside, here
 nonnegativity in the vocabulary's own basis plus a condition on the data.
 
 ## Gauge is not automorphism
@@ -158,3 +172,17 @@ not reach the manuscript.
   second is a new definition, not a theorem of character theory.
 - It does not say gauge freedom is unimportant. It is the record's cleanest
   case of a representation without identity.
+
+## Note of 2026-10-19: the minimizers
+
+[THEORY-726](../theory.d/THEORY-726.md) gives the value of the minimum and one factorization that attains
+it. That every minimizer is balanced, up to an orthogonal R, is this claim's
+step, checked for the promotion audit's batch 015. At a minimizer (U, V),
+f(UA, VA⁻ᵀ) ≥ f(U, V) for every invertible A, where
+f(U, V) = (‖U‖²_F + ‖V‖²_F)/2. Taking A = I + tS, the derivative at t = 0 is
+tr(UᵀU S) − tr(VᵀV S), and it vanishes for every S, so UᵀU = VᵀV. Call it B.
+Then MMᵀ = UVᵀVUᵀ = UBUᵀ = (UUᵀ)², so UUᵀ = (MMᵀ)^½ = U_M Σ U_Mᵀ, and
+U = U_M Σ^½ R for some R with orthonormal rows. Likewise VVᵀ = V_M Σ V_Mᵀ, so
+V = V_M Σ^½ R′. Then UVᵀ = M gives RR′ᵀ = I, which for two matrices with
+orthonormal rows forces R′ = R. The latent
+Gram matrix of the items, VVᵀ = V_M Σ V_Mᵀ, is therefore fixed by the penalty.

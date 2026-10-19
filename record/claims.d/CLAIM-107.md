@@ -4,8 +4,20 @@ status: Active
 formerly:
 - CLAIM-tmpuwwjx
 title: 'Under Markov reconstruction kernels, an observable''s expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Corrected, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-107.yaml, batch 015, ADR-047).
+    THEORY-158 was narrowed to the finite state space and promoted to Active
+    after this claim's version 2, so "What it does not say" no longer calls
+    it Proposed, and its inactive-ok directive is removed. Its finite-state
+    equivalence, mean and variance conserved in every state, is the same as
+    the "second moment as well" stated here. It is still cited for the
+    limit on the Noether reading and not leaned on: the three steps use
+    nothing from it. The status is unchanged.
 - version: 2
   date: '2026-10-19'
   note: >-
@@ -49,7 +61,6 @@ objected_by:
 complements:
 - CLAIM-093
 ---
-<!-- inactive-ok-file: THEORY-158 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-059 — Proposed; cited as the open regimes claim that several closed classes would presuppose -->
 
 # CLAIM-107: Under Markov reconstruction kernels, an observable's expectation is invariant when the observable is harmonic (K f = f), and drifts by at most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only constants are harmonic
@@ -75,7 +86,7 @@ expectation-preservation estimates only.
 - **That the criterion is a Noether theorem.** Mean conservation does not
   make an observable a symmetry. The Noether-type equivalence, for finite
   continuous-time processes, needs the second moment as well and is Baez
-  and Fong's ([THEORY-158](../theory.d/THEORY-158.md), Proposed), cited here and not leaned on.
+  and Fong's ([THEORY-158](../theory.d/THEORY-158.md)), cited here and not leaned on.
 
 ## Where it came from
 
