@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 97
+version: 98
 updated: '2026-10-19'
 record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 procedure: record/decisions.d/ADR-047.md
@@ -38,8 +38,8 @@ waves:
   promotion_paths: 43
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 10
-  promotion_paths: 4
+  reviewed: 15
+  promotion_paths: 5
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -1235,7 +1235,12 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-020
+  decision: decisions/THEORY-295.yaml
+  carried_out_in:
+  - '#205'
 - code: THEORY-315
   wave: 3
   score: 7
@@ -1260,7 +1265,10 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-020
+  decision: decisions/THEORY-414.yaml
 - code: THEORY-460
   wave: 3
   score: 7
@@ -1272,7 +1280,10 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-020
+  decision: decisions/THEORY-460.yaml
 - code: THEORY-546
   wave: 3
   score: 7
@@ -1284,7 +1295,12 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: needs-correction
+  batch: batch-020
+  decision: decisions/THEORY-546.yaml
+  carried_out_in:
+  - '#205'
 - code: THEORY-583
   wave: 3
   score: 7
@@ -1296,7 +1312,10 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-020
+  decision: decisions/THEORY-583.yaml
 - code: THEORY-167
   wave: 3
   score: 6
@@ -2389,4 +2408,8 @@ history:
 - version: 97
   date: '2026-10-19'
   note: 'Batch 023 integrated: 1 of 1 found a promotion path; carried_out_in #206'
+- version: 98
+  date: '2026-10-19'
+  note: 'Batch 020 integrated: 1 of 5 found a promotion path (THEORY-295, under ADR-047 v3); 1 correction;
+    carried_out_in #205'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

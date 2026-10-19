@@ -1,0 +1,88 @@
+# record/promotion-audit/batches/batch-020.yaml
+batch: batch-020
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+selection: >-
+  Five of triage-004's pending top-20 wave-3 entries, in code order:
+  THEORY-295, THEORY-414, THEORY-460, THEORY-546, THEORY-583. Run in
+  parallel with other batches. ADR-047 v3 (single-study rule) applies for
+  the first time in wave 3.
+reviewed: [THEORY-295, THEORY-414, THEORY-460, THEORY-546, THEORY-583]
+outcomes:
+  narrow-and-promote: [THEORY-295]
+  needs-correction: [THEORY-546]
+  retain-proposed: [THEORY-414, THEORY-460, THEORY-583]
+yield: 1 of 5 found a promotion path (THEORY-295, under ADR-047 v3); 1 correction
+rubric_vs_outcome:
+  # triage-004 components: bundling, depth, firsthand, extends, compound
+  - code: THEORY-295
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 7
+    outcome: narrow-and-promote
+    mattered: >-
+      Depth (a full reading, with S23 and S24) and the hedged existence
+      form of the title, which ADR-047 v3 needs. Bundling was real: the
+      promote_when asks about memoryful consensus, which the body
+      disclaims, and that is what the narrowing writes in.
+  - code: THEORY-414
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 7
+    outcome: retain-proposed
+    mattered: None. It is a conceptual reduction worked for one toy case.
+  - code: THEORY-460
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 7
+    outcome: retain-proposed
+    mattered: None. It is a contested philosophical classification, and nothing is measured.
+  - code: THEORY-546
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 7
+    outcome: needs-correction
+    mattered: >-
+      None predicted it. The correction came from testing the title's
+      exclusive "only" against its own body.
+  - code: THEORY-583
+    rubric: {bundling: 2, depth: 2, firsthand: 1, extends: 1, compound: 1}
+    score: 7
+    outcome: retain-proposed
+    mattered: >-
+      None. Firsthand misfired: the experiments are cited, not read, but
+      the section lacks a "cited to" marker.
+finding: >-
+  All five scored triage-004's maximum of 7, and one yielded. The yield came
+  from ADR-047 v3, not from the rubric: THEORY-295 is the one entry
+  whose title reports a measured result, from a model run, in hedged
+  existence form. The other four are conceptual or philosophical
+  accounts, the same three of five that batch 017's control found to
+  retain. Wave 3's non-formal entries split into two kinds. Measured
+  results stated with hedges can promote under v3. Arguments and
+  conceptual analyses cannot promote by any route the audit has, since
+  nothing about them can be checked or measured.
+recommendation: >-
+  Before the next wave-3 batch, sort the pending wave-3 entries by what
+  their title asserts. A theorem goes to the wave-2 route. A measured
+  result goes to the ADR-047 v3 route. An argument or conceptual analysis
+  goes to wave 5, sampled rather than ranked. Drop triage-004's score as
+  an ordering: at the top it is saturated at 7.
+owner_questions: []
+promotion_prs:
+  - "#205: THEORY-295 narrow-and-promote and THEORY-546 correction (branch claude/promote-theory-295-correct-546)."
+follow_up_prs:
+  - "THEORY-295: narrow-and-promote under ADR-047 v3. Narrow the scope to a consensus replaced by a single test, and 'does not track' to 'need not track'. The promote_when moves to a new QUESTION related to QUESTION-047. The S23 re-derivation goes in as a dated note."
+  - "THEORY-546: correction, status unchanged. Drop the exclusive 'only when'; name quasi-memory; fission needs non-branching or multiple occupancy."
+notes_for_ledger:
+  - >-
+    Triage-004's top scores carry no information: five 7-of-7 entries
+    gave one promotion. Sort wave 3 by what the title asserts (theorem,
+    measured result, argument) instead.
+  - >-
+    ADR-047 v3's first use. A model-run result, in hedged existence form
+    and read in full, promotes once its scope is narrowed to the model
+    actually run (THEORY-295: a memoryless single-test consensus).
+    Expect more of these among the social-epistemology simulations.
+  - >-
+    Exclusive "only" again (THEORY-546). Test a title's "only when" or
+    "requires" against the dilemmas its own body reports. The body named
+    multiple occupancy as the alternative to non-branching.

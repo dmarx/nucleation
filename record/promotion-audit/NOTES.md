@@ -687,3 +687,16 @@ history note. THEORY-277 is requeued on this basis.
   file as "the promotion audit's decision file for THEORY-127", not by
   path. QUESTION-140, -141, -147 and -148 on main already carry broken
   paths (found by batch 023, not yet fixed).
+
+## 2026-10-19 — batch 020 (wave 3)
+
+- Triage-004's top scores carry no information: five 7-of-7 entries gave
+  one promotion. Sort wave 3 by what the title asserts (theorem, measured
+  result, argument) instead.
+- ADR-047 v3's first use. A model-run result, in hedged existence form and
+  read in full, promotes once its scope is narrowed to the model actually
+  run (THEORY-295: a memoryless single-test consensus). Expect more of
+  these among the social-epistemology simulations.
+- Exclusive "only" again (THEORY-546). Test a title's "only when" or
+  "requires" against the dilemmas its own body reports. The body named
+  multiple occupancy as the alternative to non-branching.
