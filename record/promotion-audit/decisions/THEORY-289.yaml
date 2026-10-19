@@ -1,0 +1,52 @@
+# record/promotion-audit/decisions/THEORY-289.yaml
+id: THEORY-289
+batch: batch-042
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    A theorem, so re-derivation (batch 020; ADR-047 v2), of Theorems 1–2 of
+    Gerstgrasser et al. (LIT-971) and the replace case they cite.
+
+    Setup. X is T×d with rows x ~ N(0, I_d), T ≥ d + 2, full column rank a.s.;
+    A = (XᵀX)⁻¹Xᵀ, so AX = I. Real labels y₁ = Xw* + E₁; later labels
+    y_i = Xŵ_{i−1} + E_i; the E_i are independent N(0, σ²I_T).
+    (a) Accumulate. Round n fits OLS on n stacked copies of X with labels
+        y₁…y_n, so ŵ_n = (nXᵀX)⁻¹Σ_i Xᵀy_i = (1/n)Σ_i Ay_i, with
+        Ay₁ = w* + AE₁ and Ay_i = ŵ_{i−1} + AE_i. Claim ŵ_n = w* + A·S_n,
+        S_n = Σ_{i≤n} E_i/i. Induction: if it holds below n, then
+        nŵ_n = nw* + A[Σ_{k<n} S_k + Σ_{i≤n} E_i], and
+        Σ_{k<n} S_k = Σ_{i<n} E_i(n − i)/i, so the bracket is
+        Σ_{i<n} E_i·n/i + E_n = n·S_n.
+    (b) Error. The test error E‖ŵ_n − w*‖² (excess error on a fresh
+        x ~ N(0, I), as the paper and NOTE-815 define it) is
+        E[S_nᵀAᵀAS_n] = σ²Σ_{i≤n}(1/i²)·E tr((XᵀX)⁻¹), and
+        E[(XᵀX)⁻¹] = I/(T − d − 1) (inverse-Wishart mean, needing T ≥ d + 2),
+        so the error is σ²d/(T − d − 1)·Σ_{i≤n}1/i² < σ²d/(T − d − 1)·π²/6.
+        The first fit's error is σ²d/(T − d − 1), so the ratio is below π²/6.
+    (c) Replace. ŵ_n = Ay_n = ŵ_{n−1} + AE_n = w* + AΣ_{i≤n}E_i, error
+        σ²d/(T − d − 1)·n, linear in n.
+  excluded: >-
+    (1) Anything beyond OLS with isotropic Gaussian covariates reused every
+    round: the promote_when asks for that extension, which the title does not
+    claim; it moves to a new QUESTION. (2) "Bounds at π²/6": the error stays
+    strictly below and rises every round; the title should say so. (3) The
+    neural-model runs, outside the claim as the body already says.
+evidence:
+  - "NOTE-815: read in full, Appendix B's proofs checked step by step; E_test defined as excess error."
+blockers: []
+notes: >-
+  The title's "fixed-design" is right about the covariates being reused, but
+  the expectation in (b) is also over X ~ N(0, I); the narrowed title names
+  isotropic Gaussian covariates and T ≥ d + 2. No Active entry holds a
+  converse.
+unlocks: []
+next_action: >-
+  Narrow-and-promote. Retitle to ordinary least squares on T ≥ d + 2
+  isotropic Gaussian covariates reused every round, expected excess test
+  error staying below π²/6 times the first fit's under accumulation and
+  growing linearly under replacement; re-derivation as a dated note; the
+  extension request to a new QUESTION.

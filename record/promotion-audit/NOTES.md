@@ -1257,3 +1257,22 @@ history note. THEORY-277 is requeued on this basis.
 - THEORY-162 joins THEORY-485 and THEORY-167 as entries whose next step is
   a reading task, not a review. Track reading tasks separately from the
   requeue list.
+
+## 2026-10-19 — batch 042 (wave 3, triage-006 formal 16-20)
+
+- Triage-006's formal_route 16–20 went 3 of 5 to promotion, with every
+  title in the band re-deriving; the two misses are a report title
+  (THEORY-344, the owner's open question) and the record's own synthesis
+  (THEORY-019, the THEORY-080 pattern). Entries 1–20 now stand at 15 of
+  20.
+- A title that reports "is stated" with the proof elsewhere (THEORY-387)
+  is a theorem in waiting: if the record can re-derive the stated result,
+  narrow the title to assert it for the case re-derived and move the rest
+  to a QUESTION, rather than holding it as a report.
+- NOTE-763 misreads the dual radii of Calo et al. as (1−γ)/6 and (1−γ)/2;
+  they are 6/(1−γ) and 2/(1−γ). Fractions extracted by pdftotext -layout
+  lose their bar; check a radius or step size against the lemma that uses
+  it before transcribing it.
+- THEORY-019 joins THEORY-080: two derived results filed as THEORYs that
+  the record assembled itself. Both corrections can go in one PR filing
+  two demonstrated CLAIMs.

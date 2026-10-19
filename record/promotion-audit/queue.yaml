@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 127
+version: 128
 updated: '2026-10-19'
 record_revision: 735f6240684ada2fc488e24d376436458aca4f0d
 procedure: record/decisions.d/ADR-047.md
@@ -41,8 +41,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 74
-  promotion_paths: 48
+  reviewed: 79
+  promotion_paths: 51
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -69,6 +69,13 @@ requeue:
 - code: THEORY-162
   when: after a static rival account is read
   why: 'batch-046: its promote_when needs a reading of a static rival; a reading task, not a review'
+- code: THEORY-019
+  when: next follow-up batch
+  why: 'batch-042: the record''s own assembly (Schur + complete reducibility); file a demonstrated CLAIM
+    (ADR-032) and correct the THEORY, as for THEORY-080'
+- code: THEORY-344
+  when: after the owner rules on report titles
+  why: 'batch-042: every clause checks; promotable at once if a title reporting a conjecture is promotable'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2579,6 +2586,47 @@ candidates:
   decision: decisions/CLAIM-tmprruzz.yaml
   carried_out_in:
   - '#237'
+- code: THEORY-280
+  wave: 3
+  triage: batch-042
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-042
+  decision: decisions/THEORY-280.yaml
+  carried_out_in:
+  - '#239'
+- code: THEORY-289
+  wave: 3
+  triage: batch-042
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-042
+  decision: decisions/THEORY-289.yaml
+  carried_out_in:
+  - '#239'
+- code: THEORY-344
+  wave: 3
+  triage: batch-042
+  state: decided
+  disposition: retain-proposed
+  batch: batch-042
+  decision: decisions/THEORY-344.yaml
+- code: THEORY-387
+  wave: 3
+  triage: batch-042
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-042
+  decision: decisions/THEORY-387.yaml
+  carried_out_in:
+  - '#239'
+- code: THEORY-019
+  wave: 3
+  triage: batch-042
+  state: decided
+  disposition: needs-correction
+  batch: batch-042
+  decision: decisions/THEORY-019.yaml
 history:
 - version: 1
   date: '2026-10-19'
@@ -3061,4 +3109,8 @@ history:
   note: 'Batch 046 integrated: 2 promotion paths (CLAIM-265, and the new CLAIM-tmprruzz filed Active),
     1 correction carried out (THEORY-080), 1 retained (THEORY-162); carried_out_in #237; #227 merged before
     it; requeue updated'
+- version: 128
+  date: '2026-10-19'
+  note: 'Batch 042 integrated: 3 of 5 found a promotion path; THEORY-019 needs re-filing as a CLAIM; THEORY-344
+    waits on the owner''s report-title ruling; carried_out_in #239; THEORY-019 and THEORY-344 requeued'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
