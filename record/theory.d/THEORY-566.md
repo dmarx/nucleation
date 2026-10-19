@@ -15,7 +15,7 @@ history:
     itself called settled. It is re-derived in the note of 2026-10-19 below.
     The promote_when asked for an ablation tying the networks' gains to the
     two operations, which the title does not claim and the body disclaims. It
-    moves, unchanged, to QUESTION-tmpa5vf9.
+    moves, unchanged, to QUESTION-162.
 tags:
 - representation-learning
 - mathematics
@@ -120,4 +120,4 @@ distances to geodesic hyperplanes, in closed form with c (Theorem 5).
 exp₀ ∘ F ∘ log₀ for some F. The content is that, for the lifted layers, F
 is the standard c-free layer, while for the bias and the output layer it is
 a c-dependent map. Whether the networks' gains come from those two
-operations is [QUESTION-tmpa5vf9](../questions.d/QUESTION-tmpa5vf9.md).
+operations is [QUESTION-162](../questions.d/QUESTION-162.md).

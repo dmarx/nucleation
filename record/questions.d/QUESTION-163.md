@@ -1,5 +1,8 @@
 ---
+number: 163
 status: Open
+formerly:
+- QUESTION-tmpujty6
 title: "Do Blackwell-equivalent representations of trained networks carry different stitching penalties under the paper's own protocol, by more than the spread across stitching seeds and top networks, or does an independent treatment relate stitching to the comparison of experiments?"
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   paper's protocol is untested.
 ---
 
-# QUESTION-tmpujty6: Do Blackwell-equivalent representations of trained networks carry different stitching penalties under the paper's own protocol, by more than the spread across stitching seeds and top networks, or does an independent treatment relate stitching to the comparison of experiments?
+# QUESTION-163: Do Blackwell-equivalent representations of trained networks carry different stitching penalties under the paper's own protocol, by more than the spread across stitching seeds and top networks, or does an independent treatment relate stitching to the comparison of experiments?
 
 ## Why it is a question
 

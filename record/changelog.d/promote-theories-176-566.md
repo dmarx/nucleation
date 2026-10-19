@@ -1,10 +1,10 @@
 ### Added
 
-- [QUESTION-tmpa5vf9](record/questions.d/QUESTION-tmpa5vf9.md): whether hyperbolic networks' advantage on tree-like
+- [QUESTION-162](record/questions.d/QUESTION-162.md): whether hyperbolic networks' advantage on tree-like
   data goes with the Möbius bias translations and the distance-based output
   layer. It holds [THEORY-566](record/theory.d/THEORY-566.md)'s former promote_when, unchanged, and refines
   [QUESTION-025](record/questions.d/QUESTION-025.md).
-- [QUESTION-tmpujty6](record/questions.d/QUESTION-tmpujty6.md): whether Blackwell-equivalent representations of
+- [QUESTION-163](record/questions.d/QUESTION-163.md): whether Blackwell-equivalent representations of
   trained networks stitch differently by a measurable margin under the
   paper's protocol. It holds [THEORY-176](record/theory.d/THEORY-176.md)'s former promote_when, unchanged.
 

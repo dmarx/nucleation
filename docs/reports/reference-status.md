@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**512 documents cited without acknowledgement.** Not listed: 10061 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**512 documents cited without acknowledgement.** Not listed: 10040 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1097,7 +1097,7 @@ Compositional generalization comes from diversity of combinations, not data volu
 - [`record/notes.d/NOTE-593.md:175`](../../record/notes.d/NOTE-593.md)
 - [`record/notes.d/NOTE-597.md:156`](../../record/notes.d/NOTE-597.md)
 - [`record/notes.d/NOTE-597.md:164`](../../record/notes.d/NOTE-597.md)
-- [`record/questions.d/QUESTION-025.md:194`](../../record/questions.d/QUESTION-025.md)
+- [`record/questions.d/QUESTION-025.md:196`](../../record/questions.d/QUESTION-025.md)
 
 ### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
 

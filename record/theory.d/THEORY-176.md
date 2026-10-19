@@ -16,7 +16,7 @@ history:
     Relation 3 is an existence claim, and the note of 2026-10-19 below now
     shows it with a constructed example, inside the paper's own map class. The
     promote_when asked for the possibility measured in trained networks, which
-    the title does not claim. It moves, unchanged, to QUESTION-tmpujty6.
+    the title does not claim. It moves, unchanged, to QUESTION-163.
 tags:
 - representation-learning
 - mathematical-statistics
@@ -115,7 +115,7 @@ Relation 3 is a possibility the definitions allow, and the paper argues
 that it occurs. The note of 2026-10-19 below shows it with a constructed
 example; it has not been measured in trained networks. The pixel-shuffle
 experiment the paper describes, and does not run, is the test
-[QUESTION-tmpujty6](../questions.d/QUESTION-tmpujty6.md) asks for.
+[QUESTION-163](../questions.d/QUESTION-163.md) asks for.
 
 ## What this does not say
 
@@ -138,7 +138,7 @@ experiment the paper describes, and does not run, is the test
   ([THEORY-112](THEORY-112.md)) is a smaller class than Blackwell equivalence.
 - **Not a measured result.** The paper reports no experiment that
   separates the two orders. The relations are derivations, and the
-  measurement relation 3 would need is [QUESTION-tmpujty6](../questions.d/QUESTION-tmpujty6.md).
+  measurement relation 3 would need is [QUESTION-163](../questions.d/QUESTION-163.md).
 
 ## Note of 2026-10-19: an example for relation 3
 
@@ -156,4 +156,4 @@ sees αX₁ + β, which is independent of Y, so every stitched network has
 error 1/2. The penalty is 0 for r and 1/2 for r′. The two are
 Blackwell-equivalent and stitch differently, so the penalty order is not
 Blackwell's order. Whether the difference is large in trained networks is
-[QUESTION-tmpujty6](../questions.d/QUESTION-tmpujty6.md).
+[QUESTION-163](../questions.d/QUESTION-163.md).

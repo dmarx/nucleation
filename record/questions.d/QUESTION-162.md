@@ -1,5 +1,8 @@
 ---
+number: 162
 status: Open
+formerly:
+- QUESTION-tmpa5vf9
 title: "In hyperbolic neural networks on tree-like data, does the advantage over Euclidean networks go with the Möbius bias translations and the distance-based output layer, the only operations through which curvature acts, or do networks without them keep it?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   operations is untested, since no ablation removes either.
 ---
 
-# QUESTION-tmpa5vf9: In hyperbolic neural networks on tree-like data, does the advantage over Euclidean networks go with the Möbius bias translations and the distance-based output layer, the only operations through which curvature acts, or do networks without them keep it?
+# QUESTION-162: In hyperbolic neural networks on tree-like data, does the advantage over Euclidean networks go with the Möbius bias translations and the distance-based output layer, the only operations through which curvature acts, or do networks without them keep it?
 
 ## Why it is a question
 
