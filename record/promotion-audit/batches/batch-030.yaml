@@ -65,6 +65,8 @@ follow_up_prs:
     THEORY-109: split. A new Active THEORY for Kuditipudi et al.'s Theorem 1
     (ε-dropout-stable ReLU nets are ε-connected) with Draxler et al.'s
     concatenation bound. THEORY-109 extends it and stays Proposed.
+promotion_prs:
+  - "#213: THEORY-109 split into THEORY-tmpnp4vw (branch claude/split-theory-109)."
 notes_for_ledger:
   - >-
     The roots option in sample_wave5.py (--roots_only) drops population
