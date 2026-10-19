@@ -32,7 +32,7 @@ summary: >-
 extended_by:
 - THEORY-320
 ---
-<!-- inactive-ok-file: THEORY-320 THEORY-228 — Proposed; the toy help-and-harm account this was split from and that extends it, and the conductance bound whose graph this uses, cited as open -->
+<!-- inactive-ok-file: THEORY-320 — Proposed; the toy help-and-harm account this was split from and that extends it, cited as open -->
 
 # THEORY-737: In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb
 

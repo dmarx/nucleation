@@ -32,7 +32,6 @@ summary: >-
   tests, which alone is not more than chance; and evaluation-set noise is
   not counted. Theorem 1 does not reach which classes pay.
 ---
-<!-- inactive-ok-file: THEORY-228 — Proposed; the spectral bound whose label-change probability this shows varies by class, named, not leaned on -->
 
 # THEORY-510: How much of an ImageNet image a crop must keep for its label to survive varies widely by class, with architectures agreeing on which classes are fragile, and strengthening random crop raises mean accuracy while some classes lose 20 points or more; how many classes lose is not established
 

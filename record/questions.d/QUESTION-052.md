@@ -33,9 +33,10 @@ summary: >-
   each one's limit.
 refined_by:
 - QUESTION-141
+- QUESTION-tmpdttll
+- QUESTION-tmpvw33h
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-228 — Proposed; partial answers filed in the last two days, cited with their limits -->
 
 # QUESTION-052: If a kind's admissible transformations are given as a distribution over pairs of its realizations, is its stable, decision-sufficient signature the top eigenspace of the pair operator, and what takes that role when the transformations are directed?
 

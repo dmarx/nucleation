@@ -1,22 +1,23 @@
 ---
 number: 319
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpqpbhy
-promote_when: >-
-  An independent derivation or published use of Lemma 1 and Lemma 2 for a
-  general joint law of two views, since the account rests on one paper's
-  proofs (App. A.1–A.2), together with a check that the landmark readout
-  keeps its 1/m rate when the ratio is learned with bounded excess loss
-  under finite E[g*²] alone, without the uniform bound g_max that
-  Theorems 10–11 assume. It is refuted by a joint law with redundant views
-  (small εX and εZ) on which no linear function of g*(x,·) comes within
-  εX + 2√(εXεZ) + εZ of the Bayes predictor, which would mean Lemma 1's
-  proof is wrong. What cannot settle it: linear-probe accuracies of
-  trained contrastive networks, since the account is about the population
-  ratio and redundancy is not measured there.
-title: "When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required"
-version: 1
+title: 'When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor in mean squared error, and it is linear in the contrastive density ratio, so for a bounded label and a square-integrable ratio a linear readout of m random evaluations of the exact ratio approaches it at rate 1/m, with no symmetry between the views required'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-319 (batch 037, ADR-047 v2). Lemma 1, the change-of-measure
+    identity and Lemma 2 were re-derived step by step for a general joint
+    law of two views, in the dated note below. That is the independent
+    derivation the promote_when asked for. The title now says the
+    closeness is in mean squared error, and that the 1/m rate is for the
+    exact ratio, a bounded label and a square-integrable ratio. The
+    promote_when's clause about a learned ratio without a uniform bound
+    moves to QUESTION-tmpdttll.
 tags:
 - representation-learning
 - learning-theory
@@ -33,9 +34,9 @@ summary: >-
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-228 — Proposed; accounts this one bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; accounts this one bears on, not leaned on -->
 
-# THEORY-319: When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required
+# THEORY-319: When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor in mean squared error, and it is linear in the contrastive density ratio, so for a bounded label and a square-integrable ratio a linear readout of m random evaluations of the exact ratio approaches it at rate 1/m, with no symmetry between the views required
 
 ## Source
 
@@ -122,3 +123,27 @@ ratio itself as its minimizer, and its excess loss bounds the risk of η
 - **[THEORY-009](THEORY-009.md).** A guarantee that never uses symmetry. It does not meet
   [THEORY-009](THEORY-009.md)'s promote_when, which asks about asymmetric objectives of
   the BYOL kind and eigen- or singular-function characterizations.
+
+## Note of 2026-10-19: Lemmas 1 and 2, re-derived
+
+With η = E[Y|X,Z], a = E[Y|X], b = E[Y|Z] and µ(x) = E[b(Z) | X = x], the
+tower rule gives a = E[η|X], so µ − a = E[b − η | X]. Conditional Jensen
+gives ‖µ − a‖² ≤ ‖b − η‖² = εZ. Minkowski then gives
+‖µ − η‖ ≤ √εZ + √εX, and squaring gives Lemma 1. Only finite second
+moments are used, with X and Z in any spaces and under any joint law.
+
+For telling a joint pair from an independent one with equal priors, the
+Bayes posterior is g/(1 + g), with g = p(x,z)/(p(x)p(z)), so the logistic
+optimum is log g* and does not involve Y. Then µ(x) = ∫ b(z) g*(x,z) p(z) dz,
+which is linear in g*(x,·).
+
+With landmarks Z_1, …, Z_n drawn from p_Z and weights b(Z_i)/n, the
+readout (1/n) Σ b(Z_i) g*(x, Z_i) is unbiased for µ(x). Its mean squared
+error, averaged over X and the landmarks, is at most V/n, with
+V = var(b(Z̃)g*(X,Z̃)) for independent X and Z̃. Split m landmarks into
+log₂(1/δ) groups. By Markov, each group exceeds 2V/n with probability at
+most ½, so with probability 1 − δ some group's readout is within
+2V/⌊m/log₂(1/δ)⌋: Lemma 2, with its constant. For |Y| ≤ 1,
+V ≤ E[g*(X,Z̃)²] = 1 + χ²(P_XZ ‖ P_X ⊗ P_Z). The rate therefore needs that
+quantity finite. Whether a learned ratio keeps the rate without a uniform
+bound on it is [QUESTION-tmpdttll](../questions.d/QUESTION-tmpdttll.md).

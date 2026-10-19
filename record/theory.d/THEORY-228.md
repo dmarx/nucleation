@@ -1,22 +1,23 @@
 ---
 number: 228
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpakup2
-promote_when: >-
-  Two kinds of result would settle it, and the account claims no more than
-  their conjunction. First, a written-out proof that the guarantee holds
-  off a finite augmentation space under a stated integrability condition,
-  since App. F proves only the existence of an eigenbasis and asserts the
-  extension of Theorems 3.8, 4.2 and 4.3. Second, a measurement of α and of
-  the conductance ρ on a real augmentation graph, or a faithful proxy, in
-  which the bound is non-vacuous. It is refuted by a finite augmentation
-  graph satisfying Assumptions 3.6 and 3.7 whose population spectral
-  minimizer has linear-probe error above the bound. What cannot settle it:
-  linear-probe accuracies of trained networks, which the theorem does not
-  address, since it is about the population minimizer.
-title: "At the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label divided by the squared sparsest-partition conductance of the augmentation graph"
-version: 1
+title: 'On a finite augmentation space, at the population optimum of the spectral contrastive loss with k ≥ 2r, linear-probe error is bounded, up to constant and logarithmic factors, by the error of recovering the label from an augmentation divided by the squared sparsest-partition conductance of the augmentation graph'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-228 (batch 037, ADR-047 v2). Theorem 3.8 was re-derived
+    step by step on a finite augmentation space, in the dated note below,
+    citing only the higher-order Cheeger inequality. The title now says
+    "on a finite augmentation space" and "up to constant and logarithmic
+    factors", and it names α as Assumption 3.6 does: the error of
+    recovering the label from an augmentation. The promote_when's two
+    further results, a proof off a finite space and a measurement showing
+    the bound non-vacuous, move to QUESTION-tmpvw33h.
 tags:
 - representation-learning
 - learning-theory
@@ -38,7 +39,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-005 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
-# THEORY-228: At the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label divided by the squared sparsest-partition conductance of the augmentation graph
+# THEORY-228: On a finite augmentation space, at the population optimum of the spectral contrastive loss with k ≥ 2r, linear-probe error is bounded, up to constant and logarithmic factors, by the error of recovering the label from an augmentation divided by the squared sparsest-partition conductance of the augmentation graph
 
 ## Source
 
@@ -121,3 +122,32 @@ the cross-class leakage α and the conductance enter.
   undirected Cheeger inequality applicable.
 - The paper carries ML practice (a loss to train with and a projection
   head). That part belongs in the anthology and is not filed here.
+
+## Note of 2026-10-19: Theorem 3.8, re-derived
+
+On a finite X, write u_x = √w_x f(x) and let F have rows u_x. Then the
+spectral contrastive loss is
+−2 Σ w_xx′ f(x)ᵀf(x′) + Σ w_x w_x′ (f(x)ᵀf(x′))² = ‖Ā − FFᵀ‖²_F − ‖Ā‖²_F
+(Lemma 3.2). By Eckart–Young, every minimiser has FFᵀ equal to the
+positive part of Ā's top-k spectral truncation, so
+f*(x) = Rᵀ Λ^(1/2) V_k(x)ᵀ / √w_x, with R orthogonal. A bias-free linear
+probe absorbs Λ^(1/2)R, and the positive factor 1/√w_x leaves its argmax
+unchanged (Lemma 3.1). So the probe can realise the argmax of any linear
+function of the top-k eigenvector rows.
+
+Take ŷ, the classifier of Assumption 3.6, and the leakage
+φ = P(ŷ(x) ≠ ŷ(x′)) over positive pairs. For g_c(x) = √w_x 1[ŷ(x) = c],
+Σ_c g_cᵀ(I − Ā)g_c = φ. Every eigenvector outside the top k has Laplacian
+eigenvalue at least μ_{k+1}, so Σ_c ‖g_c − P_k g_c‖² ≤ φ/μ_{k+1}. The probe
+with scores h_c = P_k g_c/√w_x therefore has augmentation-weighted squared
+error at most φ/μ_{k+1} against ŷ. The two members of a positive pair are
+each an augmentation of the same datum, so φ ≤ 2α. Averaging scores over a
+datum's augmentations, a wrong argmax needs a squared error of at least ¼.
+By Jensen and Markov, the error against the true label is at most
+8(φ/μ_{k+1} + 2α) = O(α/μ_{k+1}). The higher-order Cheeger inequality
+(Louis, Raghavendra, Tetali and Vempala; Lee, Oveis Gharan and Trevisan),
+the paper's Lemma B.4, gives μ_{k+1} ≳ ρ²_⌊k/2⌋/log k, and so Õ(α/ρ²_⌊k/2⌋).
+The derivation holds for any k. The condition k ≥ 2r makes ρ_⌊k/2⌋ the
+conductance of partitions at least as fine as the classes, which is what
+makes the bound informative. Whether it extends off a finite space, and
+whether it is non-vacuous on a real graph, is [QUESTION-tmpvw33h](../questions.d/QUESTION-tmpvw33h.md).
