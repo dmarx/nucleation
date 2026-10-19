@@ -31,7 +31,7 @@ summary: >-
   and are not stable under coarse-graining (Examples 1–3).
 ---
 
-<!-- inactive-ok-file: THEORY-013 THEORY-014 THEORY-168 — Proposed; cited for what this reading adds to them -->
+<!-- inactive-ok-file: THEORY-013 THEORY-168 — Proposed; cited for what this reading adds to them -->
 
 # NOTE-643: Contextuality-by-Default 2.0
 

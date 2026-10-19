@@ -38,7 +38,7 @@ summary: >-
   Z2-linear MBQC (Theorem 3) and of k-consistent games (Theorem 4).
 ---
 
-<!-- inactive-ok-file: THEORY-168 THEORY-014 — Proposed; filed from or bearing on this reading -->
+<!-- inactive-ok-file: THEORY-168 — Proposed; filed from or bearing on this reading -->
 
 # NOTE-236: Abramsky, Barbosa & Mansfield, contextual fraction
 

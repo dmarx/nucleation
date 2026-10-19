@@ -30,7 +30,6 @@ extended_by:
 - THEORY-524
 ---
 
-<!-- inactive-ok-file: THEORY-014 — Proposed; named for an analogy NOTE-251 draws, nothing here rests on it -->
 
 # THEORY-526: The Čech cohomology obstruction of a support section is a sound but incomplete witness of contextuality: it vanishes exactly when the section lies in a compatible family of integer combinations of support sections, so it is non-zero on every section of every All-vs-Nothing model, over any coefficient ring, on a connected cover, yet it misses the Hardy model entirely, part of a strongly contextual Kochen–Specker cover, and every section of a strongly contextual model on the fully symmetric (2,2,4) Bell cover
 

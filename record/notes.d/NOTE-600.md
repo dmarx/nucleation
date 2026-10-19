@@ -34,7 +34,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading bears on it without settling its promote_when -->
-<!-- inactive-ok-file: THEORY-014 — Proposed; this reading adds a third instance of its pattern -->
 
 # NOTE-600: Contextuality-by-Default theory
 
