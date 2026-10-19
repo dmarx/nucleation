@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**800 document(s) awaiting a decision.**
+**798 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 800.
+95 of the 798.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-473 of the 800.
+471 of the 798.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -291,7 +291,7 @@
 | 2026-10-13 | Proposed | [THEORY-224](../../record/theory.d/THEORY-224.md) | 4 | 0 | Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict |
 | 2026-10-14 | Proposed | [THEORY-229](../../record/theory.d/THEORY-229.md) | 29 | 1 | For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small initialization learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time, in order of eigenvalue, and ends at the minimum-norm zero-loss solution, kernel PCA |
 | 2026-10-14 | Proposed | [THEORY-232](../../record/theory.d/THEORY-232.md) | 28 | 3 | A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification |
-| 2026-10-14 | Proposed | [THEORY-228](../../record/theory.d/THEORY-228.md) | 23 | 0 | At the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label divided by the squared sparsest-partition conductance of the augmentation graph |
+| 2026-10-14 | Proposed | [THEORY-228](../../record/theory.d/THEORY-228.md) | 24 | 0 | At the population optimum of the spectral contrastive loss, linear-probe error is bounded by the probability that augmentation changes the label divided by the squared sparsest-partition conductance of the augmentation graph |
 | 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 21 | 2 | Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case |
 | 2026-10-14 | Proposed | [THEORY-257](../../record/theory.d/THEORY-257.md) | 20 | 5 | Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many |
 | 2026-10-14 | Proposed | [THEORY-325](../../record/theory.d/THEORY-325.md) | 20 | 0 | Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator |
@@ -320,6 +320,7 @@
 | 2026-10-14 | Proposed | [THEORY-261](../../record/theory.d/THEORY-261.md) | 10 | 4 | In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length |
 | 2026-10-14 | Proposed | [THEORY-285](../../record/theory.d/THEORY-285.md) | 10 | 4 | In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior |
 | 2026-10-14 | Proposed | [THEORY-296](../../record/theory.d/THEORY-296.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked |
+| 2026-10-14 | Proposed | [THEORY-320](../../record/theory.d/THEORY-320.md) | 10 | 0 | In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it |
 | 2026-10-14 | Proposed | [THEORY-225](../../record/theory.d/THEORY-225.md) | 9 | 0 | No single-mechanism analysis of ordinary manipulation fits the clear cases: covert influence, covert intent, non-rational influence, trickery and pressure each misclassify a familiar tactic, so what unifies manipulation is unsettled |
 | 2026-10-14 | Proposed | [THEORY-253](../../record/theory.d/THEORY-253.md) | 9 | 0 | In a model of independent skills with linear task vectors, sequential onset of acquisition comes from the optimizer: under gradient descent orthogonal skills are learned together at rates set by their frequencies, while under sign descent they compete for coordinate signs, so each starts as the previous finishes |
 | 2026-10-14 | Proposed | [THEORY-264](../../record/theory.d/THEORY-264.md) | 9 | 0 | A task given by demonstrations and the same task given by an instruction are carried in a language model by mostly different attention heads, so function vectors find no common task representation across the two presentations |
@@ -343,7 +344,6 @@
 | 2026-10-14 | Proposed | [THEORY-272](../../record/theory.d/THEORY-272.md) | 6 | 4 | A network of threshold units with symmetric Hebbian couplings is a content-addressable memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns, memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are forgotten |
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 6 | 0 | Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation |
 | 2026-10-14 | Proposed | [THEORY-289](../../record/theory.d/THEORY-289.md) | 6 | 0 | When each round of a fixed-design linear regression is refit to labels generated by the previous fit, keeping every earlier round's data bounds the test error at π²/6 times the first fit's, where replacing the data makes it grow linearly in the number of rounds |
-| 2026-10-14 | Proposed | [THEORY-314](../../record/theory.d/THEORY-314.md) | 6 | 0 | Every minimizer of an arbitrary cost on the training outputs plus a strictly increasing function of the RKHS norm lies in the span of the kernel functions at the training points, by the reproducing property and orthogonal decomposition alone |
 | 2026-10-14 | Proposed | [THEORY-321](../../record/theory.d/THEORY-321.md) | 6 | 1 | Under repeated DeGroot averaging, a large society's consensus converges to the truth if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 5 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
@@ -359,7 +359,6 @@
 | 2026-10-14 | Proposed | [THEORY-290](../../record/theory.d/THEORY-290.md) | 5 | 0 | When debaters value true belief but also dislike changing their minds, equilibrium argument can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and raising the weight on truth can lower equilibrium accuracy |
 | 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 5 | 0 | Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action |
 | 2026-10-14 | Proposed | [THEORY-306](../../record/theory.d/THEORY-306.md) | 5 | 0 | Volume-maximizing joint-embedding objectives carry a prior toward equal-sized clusters, explicit in MSN and SwAV and derived for VICReg only through a reduction to K-means, and with mini-batches of two to eight classes they lose semantic transfer while MAE and data2vec do not |
-| 2026-10-14 | Proposed | [THEORY-320](../../record/theory.d/THEORY-320.md) | 5 | 0 | In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 5 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
 | 2026-10-14 | Proposed | [THEORY-226](../../record/theory.d/THEORY-226.md) | 4 | 0 | LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts |
 | 2026-10-14 | Proposed | [THEORY-266](../../record/theory.d/THEORY-266.md) | 4 | 0 | The average generalisation error along an optimisation trajectory is bounded by the rate-distortion function of the trajectory's law given the sample, plus a coupling term that carries the trajectory's dependence on the sample |
@@ -374,7 +373,6 @@
 | 2026-10-14 | Proposed | [THEORY-313](../../record/theory.d/THEORY-313.md) | 3 | 0 | With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus is within O(σ²) of KL as the bandwidth σ shrinks |
 | 2026-10-14 | Proposed | [THEORY-319](../../record/theory.d/THEORY-319.md) | 3 | 0 | When two views are redundant for a label, the predictor that infers one view from the other is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with no symmetry between the views required |
 | 2026-10-14 | Proposed | [THEORY-291](../../record/theory.d/THEORY-291.md) | 2 | 0 | The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks |
-| 2026-10-14 | Proposed | [THEORY-308](../../record/theory.d/THEORY-308.md) | 2 | 0 | The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over a compact family of critics, and its uniform deviation from the population bound is controlled by the parameter count, not the data dimension |
 | 2026-10-15 | Proposed | [THEORY-332](../../record/theory.d/THEORY-332.md) | 15 | 15 | For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown |
 | 2026-10-15 | Proposed | [THEORY-374](../../record/theory.d/THEORY-374.md) | 7 | 4 | Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries |
 | 2026-10-15 | Proposed | [THEORY-335](../../record/theory.d/THEORY-335.md) | 5 | 3 | Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming |
@@ -591,7 +589,7 @@
 
 ## ADRs
 
-2 of the 800.
+2 of the 798.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -600,7 +598,7 @@
 
 ## QUESTIONs
 
-9 of the 800.
+9 of the 798.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -616,7 +614,7 @@
 
 ## CLAIMs
 
-216 of the 800.
+216 of the 798.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -839,7 +837,7 @@
 
 ## CASEs
 
-1 of the 800.
+1 of the 798.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -847,7 +845,7 @@
 
 ## TERMs
 
-2 of the 800.
+2 of the 798.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -856,7 +854,7 @@
 
 ## ARGs
 
-2 of the 800.
+2 of the 798.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

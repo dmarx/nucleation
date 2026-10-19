@@ -1,5 +1,8 @@
 ---
+number: 737
 status: Active
+formerly:
+- THEORY-tmp9irmk
 title: 'In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb'
 version: 1
 history:
@@ -31,7 +34,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-320 THEORY-228 — Proposed; the toy help-and-harm account this was split from and that extends it, and the conductance bound whose graph this uses, cited as open -->
 
-# THEORY-tmp9irmk: In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb
+# THEORY-737: In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb
 
 ## Source
 

@@ -23,7 +23,7 @@ history:
   note: >-
     Carrying out the promotion audit's decision for THEORY-320 (batch 025,
     ADR-047). The exact residual identity is filed apart as
-    THEORY-tmp9irmk, Active, re-derived in three steps (ADR-047 v2). This
+    THEORY-737, Active, re-derived in three steps (ADR-047 v2). This
     THEORY extends it and keeps the toy help-and-harm clauses, which rest
     on appendix B. A reconstruction of the toy from NOTE-833's description
     reproduced Theorem 5.2 and not Theorem 5.3 or Lemma 5.4 (note of
@@ -47,7 +47,7 @@ summary: >-
 answers:
 - QUESTION-052
 extends:
-- THEORY-tmp9irmk
+- THEORY-737
 ---
 <!-- inactive-ok-file: THEORY-228 THEORY-005 — Proposed; the bound whose framework this extends, and an operator account it does not restate -->
 
@@ -136,7 +136,7 @@ and τ_s/τ_c ∈ (1, 1.5), the residual is 0, where the lemma has 2.
 So the reconstruction is not the paper's set-up. One candidate is that
 the labelled entry is fixed rather than floating in the toy. The help and
 harm clauses can be checked only from appendix B, which the promote_when
-already asks for. The identity itself is [THEORY-tmp9irmk](THEORY-tmp9irmk.md).
+already asks for. The identity itself is [THEORY-737](THEORY-737.md).
 
 ## Connections
 

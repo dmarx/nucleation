@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-49 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+50 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -248,6 +248,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
   - [THEORY-481](../record/theory.d/THEORY-481.md) — A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator; at finite context length the modes decouple exactly only when inputs are isotropic, and otherwise couple at order 1/N *(Proposed)*
+
+### From In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb
+
+- [THEORY-737](../record/theory.d/THEORY-737.md) — In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb *(Active)*
+  - [THEORY-320](../record/theory.d/THEORY-320.md) — In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it *(Proposed)*
 
 ### From For binary outcomes and a fixed representation of individuals, a predictor can pass every test in a bounded class without being close to nature: outcome indistinguishability to tests that see the sampled prediction is equivalent, with stated losses, to multicalibration over a closely related class of sets, a predictor meeting it exists at size polynomial in the tests' size and the tolerance whatever nature's complexity, and learning one is as hard as weak agnostic learning of the class
 
@@ -576,6 +581,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-734](../record/theory.d/THEORY-734.md) — In the hyperbolic plane, a root carrying deg_max ≥ 15 chains of length m, embedded with worst-case distortion 1 + ε for ε ≤ 1, forces some node to hyperbolic distance at least (ℓ/(4ε))·ln(deg_max/(π√2)) from the origin, so fixed-point Poincaré coordinates need Ω((ℓ/ε) log deg_max) bits *(Active)*
   - [THEORY-196](../record/theory.d/THEORY-196.md) — A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones *(Proposed)*
+
+### From In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb
+
+- [THEORY-737](../record/theory.d/THEORY-737.md) — In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb *(Active)*
+  - [THEORY-320](../record/theory.d/THEORY-320.md) — In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it *(Proposed)*
 
 ### From On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law
 
