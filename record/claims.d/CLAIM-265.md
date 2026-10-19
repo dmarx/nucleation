@@ -1,13 +1,13 @@
 ---
 number: 265
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpavkxk
 title: 'Local descriptions that disagree are not thereby incompatible: whether
   they obstruct a joint description is decided only relative to a specified class
   of admissible correspondences between their observations, and a correspondence
   admitted only because it removes the disagreement decides nothing'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-13'
@@ -25,6 +25,17 @@ history:
     admitted because they remove the disagreement. The derivation is in the
     note of 2026-10-19, so the warrant moves to demonstrated under ADR-043
     v2. Status unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: Promoted to Active (promotion audit, batch 046, wave 1). Steps 2
+    and 4 of the note of 2026-10-19 are corrected in place. As first
+    written they applied the maps to both descriptions, while the note's
+    own definition maps D1 onto D2, and under that definition no map of
+    outcomes carries (1/2, 1/2) to (1/3, 2/3). The class C' is now the
+    stochastic maps of outcomes, applied to D1, and the constant kernel
+    onto D2 does the work in both steps. The title and the defeat
+    condition are unchanged; with the steps corrected the proof is
+    complete, the claim rests on no other claim and no claim objects to it.
 role: thesis
 warrant: demonstrated
 defeated_if: A case in which two local descriptions are shown to obstruct
@@ -111,17 +122,18 @@ relative to C if no member does.
    two outcomes. D1 assigns (1/2, 1/2) and D2 assigns (1/3, 2/3). Let C be
    the bijections of outcomes. Both bijections carry D1 to (1/2, 1/2),
    which is not (1/3, 2/3), so D1 and D2 obstruct relative to C. Let C' be
-   all maps of outcomes, applied to both descriptions, including the map
-   onto a single outcome. That map carries both to (1), so D1 and D2 are
-   compatible relative to C'. The same pair gets opposite verdicts, so
+   the stochastic maps of outcomes (Markov kernels). The kernel that sends
+   each outcome to (1/3, 2/3) carries D1 to (1/3, 2/3), which is D2, so D1
+   and D2 are compatible relative to C'. The same pair gets opposite verdicts, so
    there is no verdict until a class is specified.
 3. **No single correspondence need be fixed.** The obstruction in step 2
    holds for every member of C at once, and no one bijection was chosen.
    So "only once the correspondence is fixed", in the singular, is
    stronger than what holds. A fixed correspondence is the special case of
    a class with one member.
-4. **The proviso.** Relative to the class of all maps, every pair of
-   descriptions is compatible, by the map onto a single outcome. That a
+4. **The proviso.** Relative to the stochastic maps of outcomes, every
+   pair of descriptions of a single shared context is compatible, by the
+   constant kernel onto the second description. That a
    reconciling correspondence exists therefore says nothing about a given
    pair unless the class was specified first, independently of the
    disagreement. Inside a class so specified, finding a reconciling member
