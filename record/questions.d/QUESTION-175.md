@@ -1,5 +1,8 @@
 ---
+number: 175
 status: Open
+formerly:
+- QUESTION-tmpqtbzj
 title: "From generic small initialization, does gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model follow the aligned trajectory, learning the top eigenvectors one at a time in order of eigenvalue?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   this question holds it.
 ---
 
-# QUESTION-tmpqtbzj: From generic small initialization, does gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model follow the aligned trajectory, learning the top eigenvectors one at a time in order of eigenvalue?
+# QUESTION-175: From generic small initialization, does gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model follow the aligned trajectory, learning the top eigenvectors one at a time in order of eigenvalue?
 
 ## Why it is a question
 

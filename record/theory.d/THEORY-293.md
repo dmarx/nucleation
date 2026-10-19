@@ -19,7 +19,7 @@ history:
     rests on one exponent with no interval (NOTE-796). The data are named
     rather than called such mixtures, since web text is not shown to be
     orthogonal to the biographies. The former promote_when, the test of
-    that link, moves to QUESTION-tmpygew3.
+    that link, moves to QUESTION-176.
 tags:
 - learning-theory
 - information-theory
@@ -156,4 +156,4 @@ The Pythia half is accepted under [ADR-047](../decisions.d/ADR-047.md) v3 as one
 ([NOTE-796](../notes.d/NOTE-796.md), C3): near-zero recall below a model size that falls as r
 rises, and below a mixing ratio at fixed size (70M: 0.4% at r ≤ 0.2 to
 58.1% at 0.45 over three seeds), then a steep rise. Whether those
-thresholds are the optimal learner's is [QUESTION-tmpygew3](../questions.d/QUESTION-tmpygew3.md).
+thresholds are the optimal learner's is [QUESTION-176](../questions.d/QUESTION-176.md).

@@ -1,5 +1,8 @@
 ---
+number: 174
 status: Open
+formerly:
+- QUESTION-tmpk63cw
 title: "Outside finite alphabets, is a variable-rate covering argument, rather than a change of measure alone, what yields data-dependent PAC-Bayes bounds?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   holds that request.
 ---
 
-# QUESTION-tmpk63cw: Outside finite alphabets, is a variable-rate covering argument, rather than a change of measure alone, what yields data-dependent PAC-Bayes bounds?
+# QUESTION-174: Outside finite alphabets, is a variable-rate covering argument, rather than a change of measure alone, what yields data-dependent PAC-Bayes bounds?
 
 ## Why it is a question
 

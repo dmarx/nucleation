@@ -16,7 +16,7 @@ history:
     clause in any measurable space, by the disintegrated change of
     measure. NOTE-806 followed Theorem 1's proof step by step. The
     promote_when's request for a second source deriving the bound from a
-    variable-rate covering outside finite alphabets moves to QUESTION-tmpk63cw.
+    variable-rate covering outside finite alphabets moves to QUESTION-174.
 tags:
 - learning-theory
 - information-theory
@@ -142,4 +142,4 @@ So with the rate set to the pointwise information density, the bound
 holds with no coding argument and in any measurable space, and it is the
 disintegrated PAC-Bayes bound (Rivasplata et al.'s Theorem 1.ii, which
 [LIT-233](../literature.d/LIT-233.md) recovers as eq. 29). Whether a covering argument is nevertheless
-the mechanism outside finite alphabets is [QUESTION-tmpk63cw](../questions.d/QUESTION-tmpk63cw.md).
+the mechanism outside finite alphabets is [QUESTION-174](../questions.d/QUESTION-174.md).

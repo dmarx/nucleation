@@ -17,7 +17,7 @@ history:
     with the top eigenvectors at a common small scale, where the dynamics
     are exact and the order is the eigenvalue order. Generic small
     initialization rests on Result 4.6, an informal derivation, and the
-    former promote_when's request for its proof moves to QUESTION-tmpqtbzj.
+    former promote_when's request for its proof moves to QUESTION-175.
 tags:
 - representation-learning
 - learning-theory
@@ -162,4 +162,4 @@ dW/dt = −4(WΓWᵀ − I)WΓ.
 
 From a generic small initialization, Simon et al. give only an informal
 derivation that the flow follows the aligned trajectory (Result 4.6).
-That is [QUESTION-tmpqtbzj](../questions.d/QUESTION-tmpqtbzj.md).
+That is [QUESTION-175](../questions.d/QUESTION-175.md).

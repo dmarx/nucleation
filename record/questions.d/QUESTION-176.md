@@ -1,5 +1,8 @@
 ---
+number: 176
 status: Open
+formerly:
+- QUESTION-tmpygew3
 title: "Do networks trained by gradient descent on a mixture of random facts and a second domain reach the capacity-optimal allocation, so that their threshold size and mixing ratio are the optimal learner's?"
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   it.
 ---
 
-# QUESTION-tmpygew3: Do networks trained by gradient descent on a mixture of random facts and a second domain reach the capacity-optimal allocation, so that their threshold size and mixing ratio are the optimal learner's?
+# QUESTION-176: Do networks trained by gradient descent on a mixture of random facts and a second domain reach the capacity-optimal allocation, so that their threshold size and mixing ratio are the optimal learner's?
 
 ## Why it is a question
 
