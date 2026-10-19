@@ -1,0 +1,81 @@
+# record/promotion-audit/batches/batch-045.yaml
+batch: batch-045
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+selection: >-
+  A fixed sample of the 49 unqueued entries triage-006 scores exactly 2
+  without the philosophical-title penalty (sorted codes, every 9th):
+  THEORY-026, -177, -253, -294 and -382. The round 036-041 tally sent this
+  band to an ADR-047 v3 review rather than re-derivation; each is sorted by
+  what its title asserts (batch 020) and recorded as formal in fact or not.
+reviewed: [THEORY-026, THEORY-177, THEORY-253, THEORY-294, THEORY-382]
+outcomes:
+  narrow-and-promote: [THEORY-026, THEORY-177, THEORY-253, THEORY-294, THEORY-382]
+yield: >-
+  5 of 5 found a promotion path, all narrowed. THEORY-026, -177 and -294
+  are theorems re-derived here (ADR-047 v2). THEORY-253 and -382 are
+  single-study measurements under ADR-047 v3; THEORY-253's was also
+  reproduced. Carried out in two PRs.
+band:
+  - code: THEORY-026
+    signals: [cites, derived]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-177
+    signals: [cites, relation]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-253
+    signals: [relation, derived]
+    title_asserts: measurement
+    formal_in_fact: false
+    outcome: narrow-and-promote
+  - code: THEORY-294
+    signals: [cites, relation]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-382
+    signals: [title, relation]
+    title_asserts: measurement
+    formal_in_fact: false
+    outcome: narrow-and-promote
+band_verdict: >-
+  The score-2 band yields here: 5 of 5, against 3 of 5 for batch 039's
+  control. Three of the five are formal in fact (batch 039 found 0 of 4 at
+  score 2), so the flag's precision at 2 is about 3/9 across the two
+  samples, but the yield under the batch 020 sort is 8 of 10. Every one
+  needed narrowing: the band's titles overreach more than they misstate.
+  Work through the remaining 44, sorted by title, not by flag.
+finding: >-
+  Three titles claimed more than their own derivation: an identity stated
+  as a protocol-level equality (THEORY-026), a sum of per-content minima
+  stated as one model's least total (THEORY-177), and a one-dimensional
+  proportionality stated for Gaussian data in general (THEORY-294).
+owner_questions: []
+promotion_prs: []
+notes_for_ledger:
+  - >-
+    The score-2 band went 5 of 5 under the batch 020 sort (8 of 10 with
+    batch 039). Queue the remaining 44 score-2 entries for wave 3 in
+    batches of five; do not re-derive by default, sort by title.
+  - >-
+    "Least total X over models" versus "sum of least X per part": the two
+    agree only when one model reaches every part's minimum at once. In
+    Contextuality-by-Default that is noncontextuality (THEORY-177). Check
+    any title that sums per-part minima.
+  - >-
+    When a title says a quantity "equals" another over a protocol, check
+    whether the source's identity is per step and the protocol result a
+    bound (THEORY-026).
+  - >-
+    When a kernel result holds because two kernels are proportional, the
+    proportionality is the theorem; state its setting (THEORY-294:
+    one-dimensional, zero bias, classes split by the origin).
+  - >-
+    A cheap simulation can stand beside an ADR-047 v3 promotion: THEORY-253's
+    two-task and rotated-quadratic results reproduced in seconds.
