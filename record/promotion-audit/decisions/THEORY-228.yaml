@@ -1,0 +1,119 @@
+# record/promotion-audit/decisions/THEORY-228.yaml
+id: THEORY-228
+batch: batch-037
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    HaoChen et al.'s Theorem 3.8 on a finite augmentation space, read in
+    NOTE-740 and re-derived here step by step (ADR-047 v2). One published
+    lemma is cited rather than re-derived: the higher-order Cheeger
+    inequality (Louis, Raghavendra, Tetali and Vempala 2012; Lee, Oveis
+    Gharan and Trevisan 2014), which the paper uses as its Lemma B.4.
+
+    Setting. X is finite. A positive pair (x, x') is drawn by taking a
+    natural datum x̄ and two augmentations from A(·|x̄). w_xx' is the
+    probability of the pair, so w is symmetric and sums to 1, and its row
+    sums w_x are the augmentation marginal. Ā = D^(−1/2) A D^(−1/2), with
+    eigenvalues 1 = λ_1 ≥ λ_2 ≥ … ≥ −1 and orthonormal eigenvectors v_i. The
+    Laplacian L = I − Ā has eigenvalues μ_i = 1 − λ_i in [0, 2].
+
+    (1) The loss is a matrix approximation (Lemma 3.2). The spectral
+        contrastive loss is
+        ℒ(f) = −2 E_{(x,x')}[f(x)ᵀf(x')] + E_{x,x'∼w independently}[(f(x)ᵀf(x'))²].
+        Put u_x = √w_x f(x) and let F have rows u_x. The first term is
+        −2 Σ_{x,x'} w_xx' f(x)ᵀf(x') = −2 Σ (w_xx'/√(w_x w_x')) u_xᵀu_x' = −2 tr(FᵀĀF).
+        The second is Σ w_x w_x' (f(x)ᵀf(x'))² = Σ (u_xᵀu_x')² = ‖FFᵀ‖²_F.
+        So ℒ = ‖FFᵀ‖²_F − 2 tr(ĀFFᵀ) = ‖Ā − FFᵀ‖²_F − ‖Ā‖²_F.
+    (2) The minimisers. FFᵀ ranges over the PSD matrices of rank at most k.
+        By Eckart–Young, the nearest one to the symmetric Ā in Frobenius
+        norm is Σ_{i≤k} max(λ_i, 0) v_i v_iᵀ. So every minimiser has
+        F = V_k Λ_k^(1/2) R with R orthogonal (on the positive part), and
+        f*(x) = (1/√w_x) Rᵀ Λ_k^(1/2) V_k(x)ᵀ, where V_k(x) is row x of the
+        top-k eigenvectors. Assumption 3.7 puts one such f* in the class.
+    (3) The row scaling and right factor are invisible to the probe (Lemma
+        3.1). The probe predicts argmax_c (Bf(x))_c with no bias. Λ^(1/2)R is
+        invertible on the span it acts on, so it is absorbed into B. A
+        positive scalar 1/√w_x does not change an argmax. So the probe on
+        f* can realise argmax_c of any linear function of V_k(x).
+    (4) Leakage against the (k+1)-th eigenvalue (the engine of Thm B.3).
+        Let ŷ map augmentations to classes, and let
+        φ = P_{(x,x')}(ŷ(x) ≠ ŷ(x')). For each class c put
+        g_c(x) = √w_x 1[ŷ(x) = c]. Then
+        g_cᵀ L g_c = ½ Σ_{x,x'} w_xx' (1[ŷ(x)=c] − 1[ŷ(x')=c])²,
+        and summing over c gives Σ_c g_cᵀLg_c = φ, since a pair with
+        ŷ(x) ≠ ŷ(x') contributes ½ to each of its two classes. Write
+        P_k for the projection onto span(v_1, …, v_k). Every eigenvector
+        outside that span has L-eigenvalue at least μ_{k+1}, so
+        ‖g_c − P_k g_c‖² ≤ g_cᵀLg_c / μ_{k+1}, and the total is at most
+        φ/μ_{k+1}. (If some of the top k eigenvalues of Ā are not positive,
+        F drops them, and the excluded eigenvectors have μ ≥ 1, so the
+        bound holds with min(μ_{k+1}, 1). That costs only a constant.)
+    (5) From squared error to classification error. Put
+        h_c(x) = (P_k g_c)(x)/√w_x. That is a linear function of V_k(x)/√w_x,
+        so by (3) the probe can predict argmax_c h_c(x). Then
+        Σ_x w_x Σ_c (h_c(x) − 1[ŷ(x)=c])² = Σ_c ‖P_k g_c − g_c‖² ≤ φ/μ_{k+1}.
+        If argmax_c h_c(x) ≠ ŷ(x), some c has |h_c(x) − 1[ŷ(x)=c]| ≥ ½. So,
+        by Markov, the w-mass of such x is at most 4φ/μ_{k+1}.
+    (6) From ŷ to the true label. Take ŷ to be the classifier of Assumption
+        3.6, with P_{x̄, x∼A(·|x̄)}(ŷ(x) ≠ y(x̄)) ≤ α. The two members of a
+        positive pair are each marginally an augmentation of x̄, so by the
+        union bound φ ≤ 2α. The probe averages its linear scores over a
+        datum's augmentations and takes the argmax. If that is wrong on x̄,
+        some averaged coordinate misses 1[y(x̄) = c] by at least ½. Then,
+        by Jensen, the augmentation-average of Σ_c (h_c(x) − 1[y(x̄)=c])² is
+        at least ¼. So, by Markov, P_x̄(wrong) ≤ 4 E Σ_c (h_c(x) − 1[y(x̄)=c])².
+        Split each term through 1[ŷ(x)=c], using (a + b)² ≤ 2a² + 2b². The
+        ŷ-part is at most φ/μ_{k+1} by (5). Where ŷ(x) ≠ y(x̄), the label
+        part is 2, and that happens with probability at most α. So the error
+        is at most 8(φ/μ_{k+1} + 2α) ≤ 8(2α/μ_{k+1} + 2α). Since μ_{k+1} ≤ 2,
+        that is O(α/μ_{k+1}).
+    (7) Conductance. The higher-order Cheeger inequality (cited, not
+        re-derived) gives μ_{k+1} ≳ ρ²_⌊k/2⌋ / log k. With (6), the error is
+        Õ(α/ρ²_⌊k/2⌋), which is Theorem 3.8. With m clusters (Assumption 3.5,
+        ρ_{m+1} ≥ ρ) and k > 2m, the subscript is at least m + 1, and ρ_i
+        is non-decreasing in i, so the bound is Õ(α/ρ²).
+
+    What could have failed, as the body says. The probe error could have
+    depended on how the graph is cut inside a class. Step (4) shows that it
+    does not: only the leakage across ŷ's classes enters. The condition
+    k ≥ 2r is not used before step (7). It is what makes ρ_⌊k/2⌋ a
+    conductance of partitions at least as fine as the classes, so the bound
+    is informative. The derivation holds for any k.
+  excluded: >-
+    (1) Off a finite space. App. F proves only that an eigenbasis exists,
+    and asserts the extension with the proof omitted. The narrowed title
+    says "on a finite augmentation space", as the summary already does.
+    (2) Non-vacuity on real data. α, ρ and the eigengap are measured nowhere.
+    The promote_when asks for both (1) and (2) "and the account claims no
+    more than their conjunction". The title as narrowed claims neither, so
+    both move unchanged to a new QUESTION. (3) "Bounded by" in the title is
+    up to constant and logarithmic factors (the Õ). The narrowed title says
+    so. (4) α in the title is the error of recovering the label from an
+    augmentation (Assumption 3.6). It is not literally "the probability
+    that augmentation changes the label". The narrowed title uses the
+    assumption's wording.
+evidence:
+  - "NOTE-740 version 2: read in full from arXiv v7. §3 (Lemmas 3.1–3.2, Assumptions 3.5–3.7, Thm 3.8), Theorems B.2–B.3 and Lemmas B.4 and B.6 were read through for their statements and for the steps they rest on."
+  - "The re-derivation above reproduces Theorem 3.8 from Lemma 3.2, Eckart–Young, Lemma 3.1 and the higher-order Cheeger inequality. It differs from the paper only in constants."
+  - "Citers: QUESTION-052 and THEORY-007, -239, -305, -306, -319, -320, -510, -565 and -737 cite it for context. None needs more than the finite-space statement. Inactive-ok directives naming THEORY-228 are in NOTE-833, NOTE-845, NOTE-850, QUESTION-052, LIT-231, LIT-234, LIT-235, LIT-249 and those THEORYs."
+  - "Nothing in the record contradicts it."
+blockers: []
+notes: >-
+  Batch 020's sort rule: a theorem, so it takes the re-derivation route.
+  Triage-006 ranked it 7th on the formal route, and that held. The
+  remaining assumption is the cited Cheeger lemma, a standard published
+  theorem the promote_when does not question.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR. Retitle to "On a finite augmentation space, at the
+  population optimum of the spectral contrastive loss with k ≥ 2r,
+  linear-probe error is bounded, up to constant and logarithmic factors,
+  by the error of recovering the label from an augmentation divided by the
+  squared sparsest-partition conductance of the augmentation graph". Add the
+  re-derivation as a dated note. Move the promote_when (the infinite-space
+  proof and the non-vacuity measurement) to a new QUESTION. Trim the
+  inactive-ok entries naming THEORY-228.

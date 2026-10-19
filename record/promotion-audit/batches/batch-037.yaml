@@ -1,0 +1,70 @@
+# record/promotion-audit/batches/batch-037.yaml
+batch: batch-037
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+selection: >-
+  Triage-006's formal_route, entries 6–10 in the order handed down:
+  THEORY-110, THEORY-228, THEORY-319, THEORY-161, THEORY-185. Batch 020's
+  sort rule was applied first: a theorem goes to re-derivation (ADR-047
+  v2), a measurement read in full goes to v3, and an argument is retained
+  for wave 5. The warrant rule (ADR-043 v2) does not apply, since THEORYs
+  carry no warrant field.
+reviewed: [THEORY-110, THEORY-228, THEORY-319, THEORY-161, THEORY-185]
+sort:
+  THEORY-110: measurement-backed conjecture (barriers reduced, not zero), plus toy-model theorems about other statements
+  THEORY-228: theorem (HaoChen et al. Thm 3.8), re-derivation route
+  THEORY-319: theorem (Tosh et al. Lemmas 1–2, Thm 3), re-derivation route
+  THEORY-161: mixed; two derivations of the record's own (re-derivation) and a reading of two papers read in full (held to them)
+  THEORY-185: conditional theorem about a generative model, re-derivation route
+outcomes:
+  narrow-and-promote: [THEORY-228, THEORY-319, THEORY-161, THEORY-185]
+  retain-proposed: [THEORY-110]
+yield: 4 of 5 found a promotion path (all by re-derivation under ADR-047 v2; THEORY-161 also narrowed to the papers read)
+promotion_prs:
+  - "#229: THEORY-228 and THEORY-319 narrowed and promoted (branch claude/promote-theories-228-319)."
+  - "#233: THEORY-185 and THEORY-161 narrowed and promoted (branch claude/promote-theories-185-161)."
+notes_for_ledger:
+  - >-
+    Triage-006's formal route went 4 of 5 on its entries 6–10. The miss,
+    THEORY-110, is a false flag of a nameable kind: an empirical conjecture
+    whose body cites theorems proved for toy models. The "cites" signal
+    fires on those. When the cited theorems are about a different model
+    from the title's, the entry is not formal.
+  - >-
+    Check every "only when A and B" in a title against the exact condition.
+    THEORY-185's "weak and alike" turned out to be "alike relative to their
+    size" (min s > s_(1) s_(2)). Equal strengths keep the analogies at any
+    strength, so "weak" was a first-order assumption, not a necessity.
+  - >-
+    A Kronecker or tensor-product eigenstructure gives clean attribute
+    modes only when each factor's top eigenvector is constant (balanced
+    attributes). Without that, even the top mode is a product. Check
+    balance before reading "the eigenvectors are the attributes".
+  - >-
+    A bound stated as "Bayes risk at most X above" can be X in expectation
+    and 2X pointwise (THEORY-161's TV bound). The tower rule gives the
+    expectation form. Check which one a title means.
+  - >-
+    A conditional title ("When P, then Q") whose promote_when asks for P to
+    be measured: under ADR-047 the measurement sits outside the title and
+    moves to a QUESTION (THEORY-185). This is the same move as THEORY-324's
+    wider form. It is flagged in the decision in case the owner reads such a
+    promote_when as a hold.
+  - >-
+    A reading claim about a field ("the frameworks of 2021–2025") can be
+    held to the papers read in full, by analogy with ADR-047 v3. The
+    field-wide form moves to a QUESTION (THEORY-161).
+  - >-
+    THEORY-110 could be split in the manner of THEORY-109 once the record
+    has checked Lin et al.'s Theorems 10, 11 and 18 (NOTE-535 read them for
+    statement only).
+owner_questions:
+  - >-
+    THEORY-185: the promote_when asked for the premise (independent,
+    multiplicative attributes) to be measured on real text. The decision
+    treats that as outside the conditional title and moves it to a QUESTION.
+    Should conditional theorems whose promote_when asks for their premise to
+    be tested be held instead? This review recommends no, consistent with
+    wave 2 and batch 032.

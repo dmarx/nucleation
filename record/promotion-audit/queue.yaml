@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 121
+version: 122
 updated: '2026-10-19'
 record_revision: 374ba778e1bc5456455bcdbc42e581b2abff1f59
 procedure: record/decisions.d/ADR-047.md
@@ -39,8 +39,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 60
-  promotion_paths: 37
+  reviewed: 65
+  promotion_paths: 41
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -2439,6 +2439,49 @@ candidates:
   decision: decisions/THEORY-229.yaml
   carried_out_in:
   - '#231'
+- code: THEORY-110
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: retain-proposed
+  batch: batch-037
+  decision: decisions/THEORY-110.yaml
+- code: THEORY-228
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-037
+  decision: decisions/THEORY-228.yaml
+  carried_out_in:
+  - '#229'
+- code: THEORY-319
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-037
+  decision: decisions/THEORY-319.yaml
+  carried_out_in:
+  - '#229'
+- code: THEORY-161
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-037
+  decision: decisions/THEORY-161.yaml
+  carried_out_in:
+  - '#233'
+- code: THEORY-185
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-037
+  decision: decisions/THEORY-185.yaml
+  carried_out_in:
+  - '#233'
 history:
 - version: 1
   date: '2026-10-19'
@@ -2896,4 +2939,8 @@ history:
   date: '2026-10-19'
   note: 'Batch 036 integrated: 4 of 5 found a promotion path; THEORY-080 needs re-filing as a CLAIM first;
     carried_out_in #231, #232; THEORY-290 counted in wave 3 (a model result); THEORY-080 requeued'
+- version: 122
+  date: '2026-10-19'
+  note: 'Batch 037 integrated: 4 of 5 found a promotion path (all by re-derivation under ADR-047 v2; THEORY-161
+    also narrowed to the papers read); carried_out_in #229, #233'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

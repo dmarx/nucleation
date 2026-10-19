@@ -1135,3 +1135,33 @@ history note. THEORY-277 is requeued on this basis.
 - The disintegrated change of measure plus the subgaussian square-moment
   bound reproduces Sefidgaran & Zaidi's Theorem 1 constants exactly; a
   reusable check for PAC-Bayes-shaped titles.
+
+## 2026-10-19 — batch 037 (wave 3, triage-006 formal 6-10)
+
+- Triage-006's formal route went 4 of 5 on its entries 6–10. The miss,
+  THEORY-110, is a false flag of a nameable kind: an empirical conjecture
+  whose body cites theorems proved for toy models. The "cites" signal
+  fires on those. When the cited theorems are about a different model from
+  the title's, the entry is not formal.
+- Check every "only when A and B" in a title against the exact condition.
+  THEORY-185's "weak and alike" turned out to be "alike relative to their
+  size" (min s > s_(1) s_(2)). Equal strengths keep the analogies at any
+  strength, so "weak" was a first-order assumption, not a necessity.
+- A Kronecker or tensor-product eigenstructure gives clean attribute modes
+  only when each factor's top eigenvector is constant (balanced
+  attributes). Without that, even the top mode is a product. Check balance
+  before reading "the eigenvectors are the attributes".
+- A bound stated as "Bayes risk at most X above" can be X in expectation
+  and 2X pointwise (THEORY-161's TV bound). The tower rule gives the
+  expectation form. Check which one a title means.
+- A conditional title ("When P, then Q") whose promote_when asks for P to
+  be measured: under ADR-047 the measurement sits outside the title and
+  moves to a QUESTION (THEORY-185). This is the same move as THEORY-324's
+  wider form. It is flagged in the decision in case the owner reads such a
+  promote_when as a hold.
+- A reading claim about a field ("the frameworks of 2021–2025") can be
+  held to the papers read in full, by analogy with ADR-047 v3. The field-
+  wide form moves to a QUESTION (THEORY-161).
+- THEORY-110 could be split in the manner of THEORY-109 once the record
+  has checked Lin et al.'s Theorems 10, 11 and 18 (NOTE-535 read them for
+  statement only).
