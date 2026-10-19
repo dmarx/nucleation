@@ -621,3 +621,10 @@ history note. THEORY-277 is requeued on this basis.
   should raise wave 3's yield on the hedged empirical entries, and it
   leaves causal or generalising titles, such as THEORY-470, where they
   are.
+- **Trap: history order.** A new `history:` entry goes last, not first.
+  luria lint reads the last entry as the current version and fails with
+  "`history:` ends at version N but the document says N+1". Four PRs from
+  this round prepended entries (#190, #193, #201, and ADR-047 v3 on the
+  ledger) and were fixed by reordering. Also, a CLAIM's `grounds` takes
+  only THEORY, CASE or LIT codes; another claim used as a worked example
+  is cited in the body, not listed (#196).
