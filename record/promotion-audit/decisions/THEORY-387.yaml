@@ -1,0 +1,64 @@
+# record/promotion-audit/decisions/THEORY-387.yaml
+id: THEORY-387
+batch: batch-042
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The title reports Theorem 7.1 of Gupta, Mumick and Subrahmanian (LIT-1114)
+    as stated, its proof referred to an unseen 1992 report. The promote_when
+    asks for a proof read by the record; ADR-047 v2 lets a re-derivation in the
+    decision file meet that. Re-derived here for positive (negation-free)
+    recursive Datalog under set semantics, following DRed's three steps as
+    NOTE-915 transcribes them from the page images.
+
+    Notation. M = lfp of the rules over E (old view); M′ = lfp over E − Δ⁻;
+    M″ = lfp over E^ν = (E − Δ⁻) ∪ Δ⁺. Rules are monotone, so M′ ⊆ M and
+    M′ ⊆ M″.
+    (1) Overestimate. The δ⁻-rules δ⁻(p) :- s₁ & … & δ⁻(s_i) & … & s_n, over
+        the old relations, iterated from δ⁻ = Δ⁻, give D = the tuples of M with
+        some derivation tree in M that uses a fact of Δ⁻ (induction on the
+        tree: if one body atom is in D and the rest in M, the head is in D).
+        If t ∈ M − M′, every derivation of t uses Δ⁻ (else t ∈ M′), and t has
+        one, so t ∈ D. Hence R = M − D ⊆ M′, and E − Δ⁻ ⊆ R since base facts
+        enter D only through Δ⁻.
+    (2) Rederive. δ⁺(p) :- δ⁻(p) & s₁^ν & … & s_n^ν, iterated, yields the least
+        P ⊇ R closed under "t ∈ D and some rule instance for t has its body in
+        P ⇒ t ∈ P". P ⊆ M′: R ⊆ M′ and M′ is closed under the rules. M′ ⊆ P,
+        by induction on derivation height from E − Δ⁻: a base fact is in R; for
+        t with a rule instance whose body is in M′, the body is in P by
+        hypothesis; t ∈ M′ ⊆ M, so either t ∉ D and t ∈ R ⊆ P, or t ∈ D and the
+        δ⁺-rule puts it back. So P = M′. (If s^ν already includes Δ⁺, the same
+        argument gives M′ ⊆ P ⊆ M″, and step 3 closes the gap.)
+    (3) Insert. Semi-naive Δ⁺-rules from P with the inserted base facts give
+        the least set containing M′ ∪ Δ⁺ closed under the rules; it contains
+        E^ν and lies in M″ (since M′ ⊆ M″), so it is M″.
+    Strata. For a positive program the strata are the condensation of the
+    dependency graph; processing them in order with each lower stratum's net
+    changes as the next one's Δ⁻ and Δ⁺ applies the argument stratum by
+    stratum. No derivation counts are used anywhere; set semantics is used in
+    (2), where a tuple is restored once whatever its number of derivations.
+  excluded: >-
+    (1) Stratified negation and aggregation: asserted in the paper, proof and
+    algorithm in the unseen report; under negation a deletion can create
+    tuples and the argument above does not apply. Moves to a new QUESTION
+    with the overestimate's size. (2) The cost comparisons (PF, counting),
+    asserted. (3) Duplicate semantics, excluded by the paper.
+evidence:
+  - "NOTE-915: read in full from page images; DRed's three steps and Theorem 7.1 transcribed; GMS92 not found."
+blockers: []
+notes: >-
+  The narrowed title states the theorem for positive recursive programs as a
+  result, with the extensions and the overestimate reported as unshown. It
+  still answers QUESTION-105 in the paper's sense: nothing about support is
+  retained, and support is rechecked at revision time.
+unlocks: []
+next_action: >-
+  Narrow-and-promote. Retitle to positive recursive Datalog under set
+  semantics: DRed's three steps leave exactly the tuples derivable from
+  (E − Δ⁻) ∪ Δ⁺ with no derivation counts stored; the extension to stratified
+  negation and aggregation is asserted and the overestimate unmeasured.
+  Re-derivation as a dated note; extension and cost to a new QUESTION.

@@ -1,0 +1,61 @@
+# record/promotion-audit/decisions/THEORY-019.yaml
+id: THEORY-019
+batch: batch-042
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411
+current_status: Proposed
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    The whole re-derives; the promote_when's held source is replaced by the
+    derivation (ADR-047 v2). But the summary says the sources state neither
+    the corollary nor its converse and "This document puts that together from
+    several readings", and the body marks its last paragraph "the filer's own
+    inference": the record's own assembly, which batch 036 (THEORY-080) sends
+    to a demonstrated CLAIM under ADR-032.
+
+    Derivation. G compact (finite included), ρ an orthogonal representation on
+    ℝⁿ (any real representation is orthogonal for the averaged inner product),
+    A symmetric with Aρ(g) = ρ(g)A for all g.
+    (a) Eigenspaces are G-invariant: Av = λv ⇒ Aρ(g)v = λρ(g)v.
+    (b) A G-invariant subspace has an invariant orthogonal complement, so each
+        eigenspace splits into real irreducibles, and every multiplicity is a
+        sum of real-irreducible dimensions.
+    (c) Finer, the promote_when's statement. A preserves each isotypic
+        component W ≅ V^m (V irreducible of real dimension d): by Schur,
+        Hom_G(V, V′) = 0 for non-isomorphic V, V′, so A maps W into W. An
+        invariant subspace of W is isomorphic to V^k, so each eigenspace meets
+        W in dimension kd: multiplicities are sums of multiples of the d_i.
+        End_G(V) is a real division algebra, ℝ, ℂ or ℍ (Frobenius); the
+        Hermitian-over-𝔽 form is not needed for the count.
+    (d) Pairs over ℝ. The real irreducibles of SO(2), and of ℤ/n for n ≥ 3,
+        are the trivial and sign characters and 2-D rotation planes with
+        commutant {aI + bJ}, J² = −I, Jᵀ = −J; aI + bJ is symmetric only for
+        b = 0, so on each plane A is a scalar and its eigenvalue is doubled.
+    (e) The converse fails. Every symmetric A with multiplicities m_j commutes
+        with O(m₁) × … × O(m_r) acting on its eigenspaces, and with every
+        subgroup, so no procedure recovers a unique group from the spectrum;
+        the hypercube Laplacian (O'Donnell) has the same spectrum under the
+        hyperoctahedral group, where each level is irreducible, and under S_n,
+        where level 1 is trivial ⊕ standard. Every orthonormal basis of an
+        eigenspace is an eigenbasis, so the spectrum fixes no basis inside a
+        multiplet.
+  excluded: >-
+    Nothing in the title fails. What fails is the filing: (a)–(e) is the
+    record's result, not a source's account.
+evidence:
+  - "Summary and body: 'Neither states the degeneracy corollary or its converse. This document puts that together'; 'This paragraph is the filer's own inference.'"
+  - "NOTE-282, NOTE-305, NOTE-307, NOTE-291: the pieces (Lemma 6, Peter–Weyl §3, the real-type correction, the cube's levels)."
+blockers:
+  - "ADR-032: a result the record proves belongs in a CLAIM (batch 036, THEORY-080; THEORY-005's precedent)."
+notes: >-
+  The record's 7×7 circulant, SO(2) average and quaternion-group checks agree
+  with (c)–(d). THEORY-652 (Active, Wedderburn) gives the algebra-side half
+  the body mentions; (c) needs only Schur and complete reducibility.
+unlocks: []
+next_action: >-
+  Correction PR (a later batch, with THEORY-080's): file a demonstrated
+  CLAIM stating (b)–(e), grounded on LIT-305, LIT-329 and LIT-346, with the
+  derivation above as its body; THEORY-019 then rests on it or is superseded
+  by it, by the owner's choice.

@@ -1,0 +1,92 @@
+# record/promotion-audit/decisions/THEORY-280.yaml
+id: THEORY-280
+batch: batch-042
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    A theorem, so re-derivation (batch 020; ADR-047 v2). The promote_when asks
+    for an independent check of Theorem 1 of Calo et al. (LIT-948); this
+    decision is that check, made against the arXiv v1 text (2505.18005, App. A
+    and C, re-extracted for this batch), at the level of the polynomial rate
+    the title claims, not the constants.
+
+    (P1) Kernel-free LP (Proposition 1). Write ν_µ(x,y) = Σ_{x′y′} µ(x,y,x′,y′).
+      LIT-962's kernel coherence (THEORY-247, Active) is
+      Σ_{y′} µ(x,y,x′,y′) = P_X(x′|x)·ν_µ(x,y), and the same for Y.
+      (⇒) Put λ_X(y|x) = ν_µ(x,y)/ν_X(x) where ν_X(x) > 0. Since
+      ν_X(x,x′) = ν_X(x)P_X(x′|x), ν_X(x,x′)λ_X(y|x) = P_X(x′|x)ν_µ(x,y), which
+      is (7). Where ν_X(x) = 0 the X-marginal of a valid ν_µ is 0, so (7) holds
+      for any λ. (⇐) Summing (7) over x′ gives ν_µ(x,y) = ν_X(x)λ_X(y|x); so
+      Σ_{y′} µ = ν_X(x)P_X(x′|x)λ_X(y|x) = P_X(x′|x)ν_µ(x,y), the coherence
+      constraint. Normalisation: marginalising the flow constraint (6) over y
+      and using coherence, m(x) = Σ_y ν_µ(x,y) solves m = γP_Xᵀm + (1−γ)δ_{x0},
+      whose unique solution is ν_X; hence Σ_y λ_X(y|x) = 1 where ν_X(x) > 0.
+
+    (P2) Error ≤ duality gap (Lemma 1). The Lagrangian is linear in (µ, λ) for
+      fixed duals, so (1/K)Σ_k L(µ_k, λ_k; α, V) = L(µ̄, λ̄; α, V). Its maximum
+      over sup-norm balls of radius 6/(1−γ) (α) and 2/(1−γ) (V) is
+      ⟨µ̄,c⟩ + (6∂C_X + 6∂C_Y + 2∂F)/(1−γ), where ∂F, ∂C_X, ∂C_Y are the ℓ1
+      residuals of (6)–(8). The rounding r(µ̄) (Altschuler et al.'s procedure
+      applied per state pair to the transition coupling µ̄ induces) is a valid
+      occupancy coupling, and ‖µ̄ − r(µ̄)‖₁ ≤ (∂F + ‖∆‖₁)/(1−γ): the flow
+      identity for r(µ̄) and a triangle inequality give
+      ‖r − µ̄‖₁ ≤ γ‖r − µ̄‖₁ + ∂F + ‖∆‖₁. Per state pair, Altschuler's Lemma 7
+      bounds ∆ by the marginal mismatches, and each mismatch is at most twice
+      the local coherence residual (because ν_X(x,x′) = ν_X(x)P_X(x′|x));
+      summed, ‖∆‖₁ ≤ 3∂C_X + 3∂C_Y. With ‖c‖∞ ≤ 1 and ⟨r(µ̄) − µ*, c⟩ ≥ 0,
+      |⟨µ̄ − µ*, c⟩| ≤ ⟨µ̄ − µ*, c⟩ + 2‖µ̄ − r(µ̄)‖₁ ≤ G_K.
+
+    (P3) Gap ≤ sum of regrets, each polynomial. Dimensions: µ on a simplex of
+      size |X|²|Y|²; α_X in ℝ^{|X|²|Y|}, α_Y in ℝ^{|X||Y|²}, V in ℝ^{|X||Y|};
+      λ_X a product of |X| simplices over Y. Bounds re-checked:
+      α_X (projected SGA): Bregman ≤ ½·|X|²|Y|·(6/(1−γ))², gradient and noise
+      ℓ2 norms ≤ ℓ1 norms ≤ 2, so regret = O(√(|X|²|Y|K)/(1−γ)) at the stated
+      step; V (exact gradients, ‖g‖₁ ≤ 2): O(√(|X||Y|K)/(1−γ)); µ (entropic
+      SMD, exact gradients, ‖g‖∞ ≤ 1 + 12/(1−γ) + 4/(1−γ) ≤ 17/(1−γ)):
+      O(√(log(|X||Y|)K)/(1−γ)); λ_X (entropic on the product, 1-strongly convex
+      in the 2,1 group norm by Pinsker blockwise; ‖g‖_{2,∞} ≤ 6/(1−γ) because
+      only the sampled state's block is non-zero, and the true gradient's
+      norm is ≤ 6/(1−γ)·(Σ_x ν_X(x)²)^½): O(√(|X| log|Y| K)/(1−γ)). The
+      data-dependent comparator (α*, V*) is handled by the ghost-iterate
+      device (Nemirovski et al.; Rakhlin and Sridharan): the martingale
+      increments are bounded by ‖g − g̃‖₁·‖·‖∞-diameter, so the
+      high-probability terms are O(√(K log(1/δ))/(1−γ)) for α and
+      O(√(|X|K log(1/δ))/(1−γ)) for λ_X. Summing and dividing by K gives
+      O((√(|X||Y|(|X|+|Y|)) + √((|X|+|Y|) log(1/δ)))/(√K(1−γ))), so
+      K = O((|X||Y|(|X|+|Y|) + (|X|+|Y|)log(1/δ))/((1−γ)²ε²)) samples per chain.
+  excluded: >-
+    (1) The exact constants. Slips found, none affecting the rate: with the
+    choice η̃ = η the Bregman term of Lemma 4 appears twice but is counted
+    once in Lemmas 5 and 8; the λ-player's martingale constant is off by a
+    factor 2; C.4 takes a union bound over "Lemma 5 and 5" giving 1 − 2δ,
+    where four probabilistic claims (α_X, α_Y, λ_X, λ_Y) give 1 − 4δ; and
+    App. D's ghost update is written with B(z‖z_k) for B(z‖z̃_k). (2) The
+    optimality of ε⁻², argued from static-OT lower bounds and not proved; the
+    promote_when's "lower bound matching the ε⁻² rate" moves to a new
+    QUESTION. (3) Single-stream data, latent states, unknown costs: outside
+    the theorem, as the body already says.
+evidence:
+  - "NOTE-763: read in full, App. C followed through Lemmas 1, 2 and 4–8 and C.4."
+  - "arXiv 2505.18005v1, re-extracted for this batch: Lemma 1 and the dual radii read 6/(1−γ) and 2/(1−γ)."
+blockers: []
+notes: >-
+  NOTE-763 gives the dual balls' radii as (1−γ)/6 and (1−γ)/2. They are
+  6/(1−γ) and 2/(1−γ): Lemma 1's maximum must reach
+  (6∂C_X + 6∂C_Y + 2∂F)/(1−γ) to dominate twice the rounding error, and the
+  step sizes β ∝ 1/(1−γ) match. The promotion PR adds a dated correction to
+  NOTE-763. Narrowing: the title says "from sampled transitions"; the theorem
+  needs independent draws from each chain's discounted state-pair occupancy
+  (restarts), observed finite states and a known cost bounded by 1, and the
+  bound holds with probability 1 − δ, polynomial also in 1/(1−γ) and
+  log(1/δ).
+unlocks: []
+next_action: >-
+  Narrow-and-promote. Retitle to name the sampling model, the observed finite
+  states, the known bounded cost, the probability 1 − δ and the dependence on
+  1/(1−γ) and log(1/δ); re-derivation summary as a dated note; the ε⁻²
+  lower-bound request to a new QUESTION; dated correction of the radii in
+  NOTE-763.
