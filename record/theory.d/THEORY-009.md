@@ -94,7 +94,6 @@ extends:
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-239 — Proposed; the account filed from LIT-975, cited for the mechanism it sharpens, not leaned on -->
 <!-- inactive-ok-file: THEORY-314 — Proposed; the representer-theorem account filed from LIT-261, cited as a parallel case, not leaned on -->
 <!-- inactive-ok-file: QUESTION-141 — Open; the asymmetric-objective question this reading was narrowed away from, named as open -->
 

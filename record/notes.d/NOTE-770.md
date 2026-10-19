@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp7o2ar
 paper: LIT-975
 title: 'Zhai — Contextures: The Mechanism of Representation Learning'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-14'
@@ -16,19 +16,28 @@ history:
     the central claims rest. Chapter 6 (distribution shift) was read in
     its main text; Appendices C, D and E (proofs of the Chapter 4, 5 and 6
     results) were not read line by line, and nothing below leans on them.
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Annotated for the promotion audit's batch 012
+    (record/promotion-audit/decisions/THEORY-239.yaml, ADR-047). Theorem
+    3.4's "unique … up to span" is false. A span tilted off μ_d towards
+    μ_{d+2} can tie the worst case (THEORY-239, note of 2026-10-19). The
+    optimal value and the optimality of the top span hold, and were
+    re-derived there.
 date: '2026-10-14'
 summary: >-
   For any joint law of an input X and a context A, symmetric or not, the
   conditional-expectation operator from L²(P_A) to L²(P_X) has a singular
   value decomposition (assuming Hilbert–Schmidt), and its top-d left
-  singular functions are the unique d-dimensional encoder, up to
-  invertible linear maps, that minimizes worst-case linear-probe
+  singular functions are a d-dimensional encoder (not the unique one,
+  as the thesis says; see version 2) that minimizes worst-case linear-probe
   approximation error over tasks of compatibility at least 1−ε. Several
   squared-error objectives reach that span at their optimum. The claims
   about scaling and about moderate association are argued and measured,
   not proved.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-005 THEORY-239 — Proposed; the accounts this reading bears on, and the one filed from it, open -->
+<!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; the accounts this reading bears on, and the one filed from it, open -->
 
 # NOTE-770: Zhai — Contextures: The Mechanism of Representation Learning
 
@@ -103,7 +112,8 @@ Bayes' rule.
   F_ε(P⁺) = {f : ρ(f,P⁺) ≥ 1 − ε} if and only if it learns the contexture,
   and the minimum is (s₁² − (1−ε)²)/(s₁² − s²_{d+1}). Conversely every
   d-dimensional Φ has a task at compatibility exactly 1 − ε with at least
-  that error. Proof in App. B.2.
+  that error. Proof in App. B.2. (Annotated 2026-10-19: the "only if"
+  fails, since other spans can tie the minimum; see version 2.)
 - **Theorem 3.10.** For an arbitrary encoder, the worst-case error on
   F_ε is at most (s₁² − (1−ε)² + s₁·TG)/(s₁² − TG²), with TG the trace gap
   built from the ratio trace Tr(C_Φ⁻¹B_Φ), B_Φ = Cov[T_P⁺*Φ].
@@ -130,7 +140,7 @@ Bayes' rule.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | For any joint law of X and A, the top-d left singular functions of E[·(A)|X] minimize worst-case linear-probe approximation error over tasks of compatibility ≥ 1−ε, uniquely up to span | strong | Theorem 3.4, App. B.2 |
+| C1 | For any joint law of X and A, the top-d left singular functions of E[·(A)|X] minimize worst-case linear-probe approximation error over tasks of compatibility ≥ 1−ε (uniqueness, claimed in the thesis, is false; annotated 2026-10-19) | strong | Theorem 3.4, App. B.2 |
 | C2 | Tasks compatible with a context are nearly invariant across two context draws for the same input | strong | Theorem 3.2, App. B.1 |
 | C3 | Spectral contrastive, covariance-constrained non-contrastive, balanced MSE and SVME objectives reach the contexture at their optimum | strong | Theorems 2.4, 2.9, 2.11, App. A |
 | C4 | Larger networks align more closely with the top-d singular functions, up to a point | weak | one tabular dataset (abalone), KNN context, CCA ≈ 0.9 (§2.6, Fig. 2.4) |

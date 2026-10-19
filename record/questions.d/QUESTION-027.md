@@ -45,7 +45,7 @@ refined_by:
 <!-- inactive-ok-file: CLAIM-137 THEORY-112 THEORY-116 THEORY-191 THEORY-192 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-125 CLAIM-092 THEORY-175 CLAIM-135 — Proposed; open, and cited as the claims and reading this question is set beside, not as settled -->
 <!-- inactive-ok-file: CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-234 THEORY-230 — Proposed; the accounts filed from the readings in the note of 2026-10-14, not leaned on -->
+<!-- inactive-ok-file: THEORY-230 — Proposed; the accounts filed from the readings in the note of 2026-10-14, not leaned on -->
 
 # QUESTION-027: Is there a relational signature of a communicative kind that is stable under admissible transformations, sufficient for a family of decisions and discriminating on designated contrasts, and can it be identified from the available probes, for decisions outside them, when the full latent model cannot?
 

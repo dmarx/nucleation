@@ -28,7 +28,7 @@ summary: >-
   and 1.1k co-occurrences respectively, at any training step.
   Correlational; LREs are relation maps, not attribute directions.
 ---
-<!-- inactive-ok-file: THEORY-185 THEORY-234 THEORY-269 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-185 THEORY-269 — Proposed; the accounts this reading bears on, and the one filed from it -->
 
 # NOTE-786: Merullo et al. — Linear Representations and Pretraining Data Frequency
 
