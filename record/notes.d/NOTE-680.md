@@ -32,7 +32,7 @@ summary: >-
   of the distance removed. Greedy routing by the coordinates is
   near-optimal and robust in its networks. No real network is embedded.
 ---
-<!-- inactive-ok-file: THEORY-188 THEORY-185 QUESTION-025 CLAIM-119 CLAIM-042 — Proposed or Open; cited as the accounts this reading bears on -->
+<!-- inactive-ok-file: THEORY-188 QUESTION-025 CLAIM-119 CLAIM-042 — Proposed or Open; cited as the accounts this reading bears on -->
 
 # NOTE-680: Hyperbolic Geometry of Complex Networks
 

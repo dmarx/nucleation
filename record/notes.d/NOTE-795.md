@@ -30,7 +30,7 @@ summary: >-
   accuracy. A two-person model, n = 3 propositions, and every result is
   numerical.
 ---
-<!-- inactive-ok-file: CLAIM-192 THEORY-290 — Proposed; the thesis this reading bears on, named and not leaned on, and the account filed from this reading -->
+<!-- inactive-ok-file: CLAIM-192 — Proposed; the thesis this reading bears on, named and not leaned on -->
 
 # NOTE-795: Handfield et al. — Cooperative Dilemmas in Rational Debate
 

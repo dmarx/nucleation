@@ -53,7 +53,7 @@ summary: >-
 extends:
 - THEORY-738
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-278 — Proposed; the record's statement of collapse, its account of limiting dynamics, and the MSE account filed beside this one -->
+<!-- inactive-ok-file: THEORY-083 THEORY-209 — Proposed; the record's statement of collapse, its account of limiting dynamics, and the MSE account filed beside this one -->
 
 # THEORY-286: Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows
 

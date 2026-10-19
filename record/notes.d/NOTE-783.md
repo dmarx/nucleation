@@ -32,7 +32,7 @@ summary: >-
   Σ_W^(−1/2)M̃ to infinity as (4t/N)^(1/4), and drives them to equality.
   That gives NC1–NC4 in closed form.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-039 THEORY-278 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late training phases, and the account filed from this reading -->
+<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-039 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late training phases, and the account filed from this reading -->
 
 # NOTE-783: Han, Papyan & Donoho — Neural Collapse Under MSE Loss
 

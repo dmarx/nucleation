@@ -34,7 +34,7 @@ summary: >-
   separable data but tracks finite networks poorly when the classes
   overlap or are imbalanced. Erf collapses more than ReLU.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-212 THEORY-278 THEORY-286 THEORY-294 — Proposed; the record's statement of collapse, the lazy-versus-rich regime account, the two UFM accounts this reading sets beside, and the theory filed from it -->
+<!-- inactive-ok-file: THEORY-083 THEORY-212 THEORY-286 THEORY-294 — Proposed; the record's statement of collapse, the lazy-versus-rich regime account, the two UFM accounts this reading sets beside, and the theory filed from it -->
 
 # NOTE-774: Kothapalli & Tirer — Can Kernel Methods Explain How the Data Affects Neural Collapse?
 

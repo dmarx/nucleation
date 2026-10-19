@@ -54,7 +54,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-213 QUESTION-080 — Proposed or Open; a symmetry account of collapse and the question it bears on, open -->
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-278 THEORY-286 — Proposed; derivations in free-features models, cited for the limits they set on this account, not leaned on -->
+<!-- inactive-ok-file: THEORY-286 — Proposed; derivations in free-features models, cited for the limits they set on this account, not leaned on -->
 
 # THEORY-083: Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean
 

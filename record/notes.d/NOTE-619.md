@@ -28,7 +28,6 @@ summary: >-
   open problems. It catalogues rather than reconciles.
 ---
 
-<!-- inactive-ok-file: THEORY-161 — Proposed; filed from this batch's readings, under test -->
 
 # NOTE-619: Semantic Communication: A Survey of Its Theoretical Development
 

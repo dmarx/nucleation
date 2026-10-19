@@ -41,7 +41,7 @@ summary: >-
   Euclidean models are confined to a synthetic tree-like task and to
   separating WordNet subtrees in low-dimensional Poincaré embeddings.
 ---
-<!-- inactive-ok-file: THEORY-185 THEORY-189 THEORY-196 THEORY-186 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts and question this reading bears on -->
+<!-- inactive-ok-file: THEORY-189 THEORY-196 THEORY-186 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts and question this reading bears on -->
 
 # NOTE-686: Hyperbolic Neural Networks
 

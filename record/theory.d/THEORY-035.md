@@ -81,7 +81,6 @@ summary: >-
   [LIT-338](../literature.d/LIT-338.md), the tanh two-phase observation and the gradient-SNR transition
   are not.
 ---
-<!-- inactive-ok-file: THEORY-238 — Proposed; the account of LIT-245's bound, cited under what this does not say, not leaned on -->
 
 # THEORY-035: Deep networks generalise because the diffusion phase of SGD compresses each layer's information about the input
 

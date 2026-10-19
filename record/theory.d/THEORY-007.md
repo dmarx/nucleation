@@ -68,7 +68,6 @@ extended_by:
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-229 THEORY-228 — Proposed; the accounts filed from LIT-242 and LIT-249, named in Connections and not leaned on -->
 
 # THEORY-007: Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets
 

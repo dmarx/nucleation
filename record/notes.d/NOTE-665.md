@@ -33,7 +33,7 @@ summary: >-
   bounds and simulated; Wikipedia agrees in shape. Every embedding is an
   eigendecomposition, none is trained.
 ---
-<!-- inactive-ok-file: THEORY-185 THEORY-182 THEORY-183 THEORY-019 THEORY-001 THEORY-002 THEORY-159 CLAIM-082 — Proposed; cited as what this reading produced or bears on -->
+<!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-019 THEORY-001 THEORY-002 THEORY-159 CLAIM-082 — Proposed; cited as what this reading produced or bears on -->
 
 # NOTE-665: On the Emergence of Linear Analogies in Word Embeddings
 

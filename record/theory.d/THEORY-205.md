@@ -36,7 +36,7 @@ summary: >-
 answers:
 - QUESTION-065
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-161 QUESTION-025 CLAIM-092 — Proposed or open; cited as the accounts this one underpins or is set beside, and the question and claim it does not answer -->
+<!-- inactive-ok-file: THEORY-194 QUESTION-025 CLAIM-092 — Proposed or open; cited as the accounts this one underpins or is set beside, and the question and claim it does not answer -->
 
 # THEORY-205: For a short-range lattice model on a cylinder with a symmetric transfer matrix whose leading excited eigenvalue is non-degenerate, with block and environment as slabs L_B transfer steps apart, the uninformative information-bottleneck encoder first loses stability at β = (λ0/λ1)^(2L_B), in the direction of the boundary weak value of the leading excited eigenvector, which by the cited conformal finite-size relation is the lowest-dimension primary at large circumference; the uninformative encoder can stop being optimal at a smaller β, and nothing is shown for blocks inside a buffer shell or for the fixed-alphabet RSMI optimum
 

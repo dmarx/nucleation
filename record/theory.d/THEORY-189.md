@@ -31,7 +31,7 @@ summary: >-
 answers:
 - QUESTION-025
 ---
-<!-- inactive-ok-file: THEORY-196 THEORY-185 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
+<!-- inactive-ok-file: THEORY-196 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 
 # THEORY-189: Nested angular cones in the Poincaré ball, symmetric about the outward ray with an aperture depending only on the apex's radius, are transitive only if the aperture is at most π/2 and r sin ψ(r)/(1 − r²) does not increase outward; so no such cone can be defined near the origin, the widest admissible family is sin ψ = K(1 − r²)/r, and every point a cone contains lies farther from the origin than its apex
 

@@ -41,7 +41,7 @@ summary: >-
   the distribution need not give RG, though it does not engage the
   identity.
 ---
-<!-- inactive-ok-file: THEORY-197 THEORY-194 THEORY-036 QUESTION-025 THEORY-185 — Proposed or open; cited as what this reading produced, the account it is set beside, a neighbour, and the question it does not answer -->
+<!-- inactive-ok-file: THEORY-194 THEORY-036 QUESTION-025 — Proposed or open; cited as what this reading produced, the account it is set beside, a neighbour, and the question it does not answer -->
 
 # NOTE-683: An exact mapping between the Variational Renormalization Group and Deep Learning
 

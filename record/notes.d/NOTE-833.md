@@ -31,7 +31,7 @@ summary: >-
   known classes into one block.
 ---
 <!-- inactive-ok-file: NOTE-227 — Superseded; the skim of HaoChen et al. that first listed this paper -->
-<!-- inactive-ok-file: THEORY-228 THEORY-005 THEORY-320 — Proposed; the bound this paper's framework comes from, an operator account it does not restate, and the account filed from this reading -->
+<!-- inactive-ok-file: THEORY-005 THEORY-320 — Proposed; an operator account this paper does not restate, and the account filed from this reading -->
 
 # NOTE-833: Sun, Shi, Liang & Li — when known classes help discover novel ones
 

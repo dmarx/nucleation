@@ -63,7 +63,6 @@ summary: >-
 supports:
 - CLAIM-152
 ---
-<!-- inactive-ok-file: THEORY-197 — Proposed; cited as the formal counterpart, not as settled -->
 <!-- inactive-ok-file: THEORY-036 THEORY-017 QUESTION-025 — Proposed or open; cited as accounts this one bears on and the question it does not answer -->
 
 # THEORY-194: For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about

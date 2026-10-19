@@ -31,7 +31,7 @@ summary: >-
   noisy or approximate shapes, or about attributes that imply one
   another.
 ---
-<!-- inactive-ok-file: THEORY-185 THEORY-183 — Proposed; the accounts this one is set beside -->
+<!-- inactive-ok-file: THEORY-183 — Proposed; the accounts this one is set beside -->
 
 # THEORY-271: In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it
 

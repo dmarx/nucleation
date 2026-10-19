@@ -31,7 +31,7 @@ summary: >-
   Gaussian, and a non-perturbative formalism is missing. The piece makes
   no new claim of its own.
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-197 THEORY-202 — Proposed; the record's accounts of renormalization and learning, which this Comment gives context for -->
+<!-- inactive-ok-file: THEORY-194 THEORY-202 — Proposed; the record's accounts of renormalization and learning, which this Comment gives context for -->
 
 # NOTE-821: Kupiainen — Rigorous renormalization group
 
