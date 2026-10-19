@@ -18,7 +18,7 @@ summary: >-
   impossibility side ([THEORY-127](../theory.d/THEORY-127.md), [CLAIM-030](../claims.d/CLAIM-030.md), [CLAIM-271](../claims.d/CLAIM-271.md)) for aggregating
   judgments, not for allocating jurisdiction.
 ---
-<!-- inactive-ok-file: THEORY-127 CLAIM-285 CLAIM-271 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-285 CLAIM-271 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-094: When an organization allocates authority over related propositions to different processes by endorsement, what keeps its collective judgments consistent, and must that be a separate integration step as in judgment aggregation?
 

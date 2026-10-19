@@ -32,7 +32,6 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the network account filed in this batch -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account filed in this batch -->
-<!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, named for a contrast, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-717 LIT-732 — Unavailable, unread; Longino's books, named as where the argument is made -->
 
 # THEORY-151: Scientific objectivity belongs to a community's critical practices rather than to individual method: because evidence bears on hypotheses only through background assumptions that no evidence supports, a community is objective to the degree that its criticism has venues, uptake, public standards and tempered equality of intellectual authority

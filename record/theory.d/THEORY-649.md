@@ -22,7 +22,6 @@ summary: >-
   sentences, rests on two values of M and is contradicted for F_OP.
 ---
 <!-- inactive-ok-file: LIT-070 — Unavailable; a continuous-opinion model named for contrast -->
-<!-- inactive-ok-file: THEORY-127 — Proposed; the discursive-dilemma account named in Connections -->
 
 # THEORY-649: When agents holding uniformly random consistent theories over two or three atomic sentences each average their theories once, bit by bit, with all peers within a Hamming bound of confidence, an individual agent ends up with the inconsistent theory at most 1.81% of the time, but the chance that some agent in the group does reaches 6.4% for two sentences and 16.9% for three
 

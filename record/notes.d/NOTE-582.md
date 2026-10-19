@@ -28,7 +28,7 @@ summary: >-
   normative individualism.
 ---
 <!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; Group Agency, the book these replies defend and quote -->
-<!-- inactive-ok-file: THEORY-127 THEORY-139 THEORY-133 — Proposed; the accounts these replies bear on -->
+<!-- inactive-ok-file: THEORY-139 THEORY-133 — Proposed; the accounts these replies bear on -->
 <!-- inactive-ok-file: THEORY-147 — Proposed; Wolf on accountability, named for the psychopathic corporation -->
 
 # NOTE-582: Episteme Symposium on Group Agency: Replies to Gaus, Cariani, Sylvan, and Briggs

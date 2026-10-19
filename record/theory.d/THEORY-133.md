@@ -34,7 +34,6 @@ supports:
 presupposed_by:
 - THEORY-410
 ---
-<!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, the premise this builds on -->
 <!-- inactive-ok-file: THEORY-048 — Proposed; named for a parallel, nothing here rests on it -->
 
 # THEORY-133: A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels

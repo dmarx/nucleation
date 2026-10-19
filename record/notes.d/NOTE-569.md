@@ -21,7 +21,6 @@ summary: >-
   significant choice, the capacity for normative judgment, and control
   over acting on it. So corporations are fit to be held responsible.
 ---
-<!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, the premise this builds on -->
 <!-- inactive-ok-file: LIT-742 — Unavailable, unread; Responsibility Incorporated, named as the paper the 2017 chapter restates -->
 <!-- inactive-ok-file: THEORY-139 — Proposed; filed in this batch -->
 

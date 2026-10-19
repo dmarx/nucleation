@@ -36,7 +36,7 @@ summary: >-
 presupposed_by:
 - THEORY-207
 ---
-<!-- inactive-ok-file: THEORY-127 THEORY-207 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-207 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the open question this account bears on, cited as such -->
 
 # THEORY-561: If moral evaluation has thresholds below which effects are negligible, a system of agents can do good or evil that none of its members' interactions does, and the same thresholds make an environment tolerant of small evils and inert to small goods; on the examples offered the non-additivity lies in the evaluation, as a step function of summed impact, not in the actions
