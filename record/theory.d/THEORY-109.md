@@ -26,7 +26,7 @@ history:
   date: '2026-10-19'
   note: >-
     Kuditipudi et al.'s Theorem 1, with Draxler et al.'s concatenation
-    bound, is split into THEORY-tmpnp4vw, filed Active, carrying out the
+    bound, is split into THEORY-736, filed Active, carrying out the
     promotion audit's decision for this entry (batch 030, ADR-047). This
     account extends it. It stays Proposed for what the body already calls
     extrapolated (one connected set), for whether training produces
@@ -53,7 +53,7 @@ summary: >-
   global minima that are not, so connectivity belongs to found solutions.
   Proposed: the evidence is pairs and small complexes of CIFAR classifiers.
 extends:
-- THEORY-tmpnp4vw
+- THEORY-736
 extended_by:
 - THEORY-110
 - THEORY-112
@@ -183,4 +183,4 @@ It is not declared as `rivals`. If the barrier survives alignment, this account 
 
 ## Note of 2026-10-19: the theorem is held Active apart
 
-Kuditipudi et al.'s Theorem 1 and Draxler et al.'s concatenation bound are now [THEORY-tmpnp4vw](THEORY-tmpnp4vw.md), Active: two ε-dropout-stable ReLU solutions are joined by a piecewise-linear path at most ε above the worse endpoint, and joined pairs compose at no higher barrier. That is the part of this account that was proved and read in full ([NOTE-544](../notes.d/NOTE-544.md), Appendix A). What stays here, Proposed, is what the promote_when asks about: that the solutions training finds form one set, and that they are dropout-stable or noise-stable, so that the theorem applies to them.
+Kuditipudi et al.'s Theorem 1 and Draxler et al.'s concatenation bound are now [THEORY-736](THEORY-736.md), Active: two ε-dropout-stable ReLU solutions are joined by a piecewise-linear path at most ε above the worse endpoint, and joined pairs compose at no higher barrier. That is the part of this account that was proved and read in full ([NOTE-544](../notes.d/NOTE-544.md), Appendix A). What stays here, Proposed, is what the promote_when asks about: that the solutions training finds form one set, and that they are dropout-stable or noise-stable, so that the theorem applies to them.

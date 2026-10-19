@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**511 documents cited without acknowledgement.** Not listed: 10063 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**511 documents cited without acknowledgement.** Not listed: 10070 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2158,8 +2158,8 @@ Across load and temperature, the connectivity and output similarity of independe
 - [`record/notes.d/NOTE-714.md:129`](../../record/notes.d/NOTE-714.md)
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:53`](../../record/questions.d/QUESTION-069.md)
-- [`record/theory.d/THEORY-109.md:162`](../../record/theory.d/THEORY-109.md)
-- [`record/theory.d/THEORY-109.md:166`](../../record/theory.d/THEORY-109.md)
+- [`record/theory.d/THEORY-109.md:175`](../../record/theory.d/THEORY-109.md)
+- [`record/theory.d/THEORY-109.md:179`](../../record/theory.d/THEORY-109.md)
 
 ### [THEORY-137](../../record/theory.d/THEORY-137.md) — Proposed
 
@@ -2567,7 +2567,7 @@ How much cognitive control to exert, and on what, is decided by a cost-benefit c
 
 The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
 
-5 citations in 3 files await a look; 8 other citations of it are acknowledged.
+5 citations in 3 files await a look; 15 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
