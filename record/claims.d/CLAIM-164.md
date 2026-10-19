@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-164
 title: 'What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-11'
@@ -18,6 +18,16 @@ history:
     drifted 2.3°, and with a wide gap at the top the vector was the more
     stable object (2.1° against 4.7°). The exact angles differ from
     MOM's with the random draw.
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Note added, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-164.yaml, batch 015, ADR-047).
+    THEORY-084, one of this claim's grounds, was split after the note of
+    2026-10-12 described it whole. Its spectral identity is now CLAIM-377,
+    Active; the block inheritance and the threshold stay in THEORY-084,
+    Proposed. The new note says which part is established and what it
+    gives this claim. Grounds and status are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -44,6 +54,7 @@ summary: >-
   enough.
 complements:
 - CLAIM-154
+- CLAIM-377
 supports:
 - CLAIM-157
 grounds:
@@ -84,3 +95,16 @@ dancer's own. That application is this record's.
 ## Note of 2026-10-12: evidence now linked
 
 Two THEORYs now ground this claim. [THEORY-084](../theory.d/THEORY-084.md): a spectral threshold on the lazy-regime Fisher is well posed only at gaps between blocks, with guarantees stated only for whole eigenspaces. [THEORY-078](../theory.d/THEORY-078.md), weaker because its attribution is made by eye: a cut at the bulk edge keeps the span of the class means, not C discriminative directions.
+
+## Note of 2026-10-19: which part of [THEORY-084](../theory.d/THEORY-084.md) is established
+
+Since the split of [THEORY-084](../theory.d/THEORY-084.md), only its first step is held Active, as
+[CLAIM-377](CLAIM-377.md): the Gauss–Newton Fisher βJᵀJ and the NTK Gram matrix JJᵀ have the
+same non-zero eigenvalues with the same multiplicities, and the eigenvectors
+correspond as u ↦ Jᵀu, normalized. That gives this claim one exact instance.
+A gap in the Fisher's spectrum is the same gap in the NTK Gram's, and the
+subspaces the two gaps isolate correspond, so a gap test run on either is the
+same test. That the lazy-regime Fisher inherits the NTK's harmonic-degree
+blocks, and that a threshold is well posed only between them, are still
+[THEORY-084](../theory.d/THEORY-084.md)'s, Proposed. This claim does not need them: its core is
+Davis–Kahan.

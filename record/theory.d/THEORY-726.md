@@ -35,6 +35,8 @@ summary: >-
   like, which is [THEORY-180](THEORY-180.md)'s spectral law.
 extended_by:
 - THEORY-180
+supports:
+- CLAIM-148
 ---
 <!-- inactive-ok-file: THEORY-180 — Proposed; the spectral law this identity was split from and that extends it, cited as open -->
 

@@ -78,8 +78,6 @@ extended_by:
 - THEORY-018
 presupposed_by:
 - THEORY-019
-supports:
-- CLAIM-148
 ---
 
 

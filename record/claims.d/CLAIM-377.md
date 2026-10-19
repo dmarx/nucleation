@@ -38,6 +38,8 @@ summary: >-
   empirical Fisher of observed residuals. It holds at every width, in
   every regime and on any data. It says nothing about what the spectrum
   looks like, which is [THEORY-084](../theory.d/THEORY-084.md)'s.
+complements:
+- CLAIM-164
 ---
 <!-- inactive-ok-file: THEORY-084 — Proposed; the account this step was split from and that cites it, cited as open -->
 
