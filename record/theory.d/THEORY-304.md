@@ -13,7 +13,21 @@ promote_when: >-
   R. What cannot settle it: experiments on transition, which bear on the
   conjecture this account excludes, not on the linear scalings.
 title: 'In plane Couette and Poiseuille flow the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-304.yaml, batch 013, ADR-047),
+    the lower bounds behind the scalings (growth at least cR, resonance at
+    least cR², a destabilizing perturbation of norm at most CR⁻²) are
+    derived from the streamwise-independent scaling and filed apart as
+    CLAIM-tmpyj9zk, demonstrated and Active. That rules out the refuter the promote_when
+    names, growth bounded independently of R. The leading-order
+    scalings and their constants still rest on the source's computation
+    alone, so this THEORY keeps its promote_when unchanged. The status stays
+    Proposed.
 tags:
 - natural-sciences
 - mathematics
@@ -68,7 +82,12 @@ and discretized in y, with amplification measured in the energy norm.
   O(R) time. The pseudospectra give a lower bound on transient growth
   that falls short by a factor of about 1.4.
 
-The scalings could have come out bounded in R; they did not. The paper
+The scalings could have come out bounded in R; they did not. Their lower
+bounds, transient growth at least cR, resonance at least cR², and a
+destabilizing perturbation of norm at most CR⁻², follow from the
+streamwise-independent scaling alone. That derivation is [CLAIM-tmpyj9zk](../claims.d/CLAIM-tmpyj9zk.md),
+demonstrated and Active since 2026-10-19. The constants, and the fact
+that growth is no more than order R, are the computation's. The paper
 credits the discovery of large transient growth to Gustavsson, Henningson
 et al. and Butler & Farrell, and its foundation to Butler & Farrell and
 Reddy & Henningson.

@@ -15,7 +15,18 @@ promote_when: >-
   reconstruction-error comparisons, which bear on whether the effect
   matters, not on whether it occurs.
 title: "In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-288.yaml, batch 013, ADR-047),
+    the symmetry argument behind the ablation, the record's own, is filed
+    apart as CLAIM-tmpt2jwl, demonstrated and Active, with its proof and
+    the optimiser condition it needs. This THEORY cites it and keeps its
+    empirical title, whose promote_when is unchanged. The status stays
+    Proposed.
 tags:
 - representation-learning
 - mathematics
@@ -82,11 +93,14 @@ given spread representations, with the basis showing only in parameters.
 Or radial networks could have formed the same beams through the data's
 own pixel axes, which the encoder mixes at random.
 
-**A symmetry argument behind it.** This is the record's, from the setup.
-With a radial activation, every part of the network and its training is
-equivariant to rotations of each hidden space, and the initialisation is
+**A symmetry argument behind it.** This is the record's, from the setup,
+and since 2026-10-19 it is [CLAIM-tmpt2jwl](../claims.d/CLAIM-tmpt2jwl.md), demonstrated and Active, with its
+proof. With a radial activation, every part of the network and its training
+is equivariant to rotations of each hidden space, and the initialisation is
 invariant in distribution. So the law of the learned representation is
-rotation-invariant, and no beam can prefer the standard axes. The
+rotation-invariant, and no beam can prefer the standard axes. The argument
+needs an orthogonally equivariant optimiser. Bird's momentum SGD is one,
+and Adam would not be. The
 non-trivial findings are three:
 - elementwise activations produce strong concentration, not a mild
   basis-dependence;
