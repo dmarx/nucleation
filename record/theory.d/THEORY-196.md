@@ -4,16 +4,30 @@ status: Proposed
 formerly:
 - THEORY-tmpzw8vz
 promote_when: >-
-  A complete proof of the lower bound, without the small-angle substitution
-  taken as an equality, extended to the Poincaré ball H^r for r > 2: that
-  any embedding of some family of trees with worst-case distortion 1 + ε
-  needs Ω((ℓ/(εr)) log deg_max) bits per coordinate for r up to about
-  log deg_max, and Ω(ℓ/ε) beyond. Or a construction that beats the upper
-  bound in depth, which would refute the linear dependence on ℓ. Further
-  experiments in which deep trees need more bits than bushy ones cannot
-  settle it, because the upper bound already predicts that.
+  A reading or re-derivation of Sarkar's distortion bound: that placing
+  each node's children evenly on a hyperbolic circle of radius
+  τ = ((1 + ε)/ε)·2 log(deg_max/(π/2)) around it gives worst-case
+  distortion at most 1 + ε for every finite tree. With THEORY-tmpfydax's
+  planar lower bound, that settles the Θ. Or a construction that beats the
+  upper bound in depth, which would refute the linear dependence on ℓ.
+  Further experiments in which deep trees need more bits than bushy ones
+  cannot settle it, because the upper bound already predicts that.
 title: 'A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-196.yaml, batch 012, ADR-047),
+    the planar lower bound is filed apart as THEORY-tmpfydax, Active. It is
+    re-derived there by exact hyperbolic trigonometry, without the
+    small-angle substitution, and with explicit constants (ADR-047 v2).
+    This THEORY extends it and keeps the Θ, whose upper bound rests on
+    Sarkar's construction, which neither record holds. The promote_when
+    narrows to that upper bound. Its extension to H^r for r > 2 is not
+    claimed by the title, and it moves to QUESTION-tmpr1c4g. The claim is
+    unchanged, and the status stays Proposed.
 tags:
 - representation-learning
 - mathematics
@@ -30,6 +44,8 @@ summary: >-
   hierarchy.
 answers:
 - QUESTION-025
+extends:
+- THEORY-tmpfydax
 ---
 <!-- inactive-ok-file: THEORY-185 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 
@@ -60,7 +76,8 @@ any model, against log d in Euclidean space. The largest distance in
 Sarkar's embedding is ℓτ = O((ℓ/ε) log deg_max), and that is the bit count.
 For a root carrying deg_max chains of length m (ℓ = 2m), any H² embedding
 with distortion 1 + ε must put a node at depth whose −log(1 − ‖x‖) is
-Ω((ℓ/ε) log deg_max), so the bound is tight in the plane. The degree
+Ω((ℓ/ε) log deg_max), so the bound is tight in the plane. That lower
+bound is now proved exactly, with constants, in [THEORY-tmpfydax](THEORY-tmpfydax.md). The degree
 enters only through the angle siblings need. In H^r, code-selected
 placement on a hypercube widens that angle, cutting the upper bound to
 O((ℓ/(εr)) log deg_max) up to r ≈ log deg_max. The depth term is
@@ -81,9 +98,11 @@ grow with the embedded distances would have shown flat numbers here.
 - **Not proved in r > 2 dimensions.** The lower bound is for the plane.
   That dimension stops helping beyond log deg_max is a footnote argument,
   and the H^r rate is an upper bound only.
-- **Not with exact constants.** The lower-bound proof replaces
-  √(2(1 − cos θ)) by θ as an equality and passes over "some algebra". The
-  order is credible, but no constant is established.
+- **Not with exact constants, in the source.** The paper's lower-bound
+  proof replaces √(2(1 − cos θ)) by θ as an equality and passes over
+  "some algebra". [THEORY-tmpfydax](THEORY-tmpfydax.md) redoes it exactly, for deg_max ≥ 15 and
+  ε ≤ 1. The upper bound's distortion guarantee is Sarkar's, cited and not
+  held.
 - **Not that a tree carries Θ(ℓ) bits of information per node.** The cost
   is that of fixed-point coordinates in the Poincaré ball (bits until
   1 − ‖x‖ does not round to zero). A tree is a list of edges in O(n log n)
