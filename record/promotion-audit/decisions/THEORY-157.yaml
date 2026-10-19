@@ -51,3 +51,7 @@ next_action: >-
   sourced to LIT-772, with the re-derivation and the definitions stated.
   THEORY-157 keeps Fisher–Neyman and Bahadur, extends the new THEORY, and
   stays Proposed under its promote_when.
+hold: >-
+  Held by the parent on 2026-10-19 before carrying out: the definitions were
+  reconstructed from prose (the source's diagrams were lost in extraction).
+  Verify them against the source's diagrams before opening the split PR.

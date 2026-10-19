@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 64
+version: 65
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
@@ -652,6 +652,7 @@ candidates:
   disposition: split
   batch: batch-008
   decision: decisions/THEORY-157.yaml
+  held: definitions reconstructed from prose; verify against the source's diagrams before carrying out
 - code: THEORY-037
   wave: 2
   score: 4
@@ -966,4 +967,8 @@ history:
   date: '2026-10-19'
   note: 'Close batch 008: 4 of 5 (THEORY-171, -160, -158 narrow-and-promote; THEORY-157 split; THEORY-277
     defer). Hand-off rewritten with the open PRs by batch and the merge order.'
+- version: 65
+  date: '2026-10-19'
+  note: 'THEORY-157 held by the parent: definitions reconstructed from prose; verify against the source''s
+    diagrams before carrying out (hold: in its decision file).'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
