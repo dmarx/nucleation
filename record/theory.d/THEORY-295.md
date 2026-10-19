@@ -1,21 +1,23 @@
 ---
 number: 295
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpz5itv
-promote_when: >-
-  A model in which the consensus has memory (a challenger must win
-  repeatedly, or evidence accumulates) and in which scientists can
-  learn. It must still find that a population whose proposals never put
-  the true model against the consensus holds a false consensus with high
-  reproducibility, while a population that keeps the model space
-  connected does not. Alternatively, a meta-scientific study of a real
-  field whose replications succeed at a high rate while independent
-  evidence shows its standing model to be wrong, traced to which
-  alternatives were tested. Further runs of the memoryless 14-model
-  framework cannot settle it. Its result is already proven there.
-title: "In a community that updates a single consensus model by sound pairwise model comparison, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility does not track convergence to truth"
-version: 1
+title: "In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision (record/promotion-audit/decisions/THEORY-295.yaml,
+    batch 020, ADR-047 v3). The study was read in full, and the title now
+    claims no more than it showed. Its scope is narrowed to a consensus
+    that a single test can replace, which is the only rule the model ran,
+    and "does not track" becomes "need not track", since four of the five
+    populations show a positive correlation. The S23 argument is re-derived
+    in a dated note below. The promote_when, a model with memory or a real
+    field, moves unchanged to QUESTION-tmpsg8s1.
 tags:
 - philosophy-of-science
 - epistemology
@@ -36,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-148 THEORY-146 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
 
-# THEORY-295: In a community that updates a single consensus model by sound pairwise model comparison, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility does not track convergence to truth
+# THEORY-295: In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth
 
 ## Source
 
@@ -117,3 +119,23 @@ replication expects. It does for some populations and not for Bo.
   one fixes a false consensus through which comparisons are run, without
   any test being unsound. Both put the failure in the population's
   composition rather than in its members' reasoning.
+
+## Note of 2026-10-19: why replication cannot move the chain (S23, re-derived)
+
+Without replication the consensus is a Markov chain,
+P(M_G' = M_ℓ | M_G = M_i) = Σ_a P(R_a) P(M_ℓ | R_a, M_i) P(S(M_ℓ) < S(M_i)),
+whose inputs are the strategy mix, the proposal kernels and the comparison
+probabilities. A replication re-tests the previous pair on fresh data,
+independent of the original test's. So summing the joint probability
+q_ijℓ over the replication's outcomes returns the original step's
+probability, Σ_j q_ijℓ = P(M_ℓ | M_i) P(S(M_ℓ) < S(M_i)), and the
+transition law is the same with or without replication. The rate of
+reproducibility, P(M_G^(t+1) = M_G^(t) | replication at t), is a statistic
+of the chain's path, not an input to its transition law. So it cannot move
+the stationary distribution, the first-passage times or the stickiness.
+The paper's labels q_iiℓ and q_iℓℓ are muddled ([NOTE-792](../notes.d/NOTE-792.md)), but the argument
+needs only the independence of the replication. The existence half rests
+on the Bo-dominant population: near-perfect reproducibility, 25% (AIC) or
+48% (SC) of its time at the truth, and Spearman r = −0.06 between the two
+([NOTE-792](../notes.d/NOTE-792.md), C2). Whether the decoupling survives a consensus with memory is
+[QUESTION-tmpsg8s1](../questions.d/QUESTION-tmpsg8s1.md).
