@@ -11,14 +11,29 @@ promote_when: >-
   decides its open cases, such as brain-state transfer (Shoemaker yes,
   Unger no), on principle rather than case by case. It would be refuted
   by a defence of animalism that disarms the transplant case, or by
-  showing that a non-branching clause, which makes whether I survive
-  depend on what happens to a second hemisphere, cannot be part of what
-  persistence is. More imagined transfers of consciousness (the prince and
+  showing that neither a non-branching clause, which makes whether I
+  survive depend on what happens to a second hemisphere, nor multiple
+  occupancy can be part of what persistence is. More imagined transfers of consciousness (the prince and
   the cobbler, the day-man and the night-man) cannot settle it: they work
   only on a reader who already agrees where the person goes, and a
   brute-physical view reads them otherwise.
-title: "A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity and intransitivity only when recast as overlapping chains of causally dependent psychological states, with a clause against branching"
-version: 1
+title: "A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity, intransitivity and gaps when recast as overlapping chains of causally dependent psychological states with quasi-memory, and fission then needs either a clause against branching or multiple occupancy"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Corrected at the owner's direction, carrying out the promotion audit's
+    decision (record/promotion-audit/decisions/THEORY-546.yaml, batch 020,
+    ADR-047). The title said the criterion meets its charges "only when"
+    recast, "with a clause against branching". The body and its sources
+    report fission as a dilemma: either multiple occupancy or a
+    non-branching clause (NOTE-374 C5). Parfit gives non-branching as a
+    sufficient condition only (NOTE-378 C4). Circularity is answered by
+    quasi-memory, which the title left out. The title now drops the
+    exclusive "only", names quasi-memory and gaps, and gives fission both
+    responses. The promote_when's refuter is adjusted to match. The status
+    stays Proposed.
 tags:
 - personhood
 - individuation
@@ -42,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-447 THEORY-531 THEORY-650 THEORY-681 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
 
-# THEORY-546: A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity and intransitivity only when recast as overlapping chains of causally dependent psychological states, with a clause against branching
+# THEORY-546: A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity, intransitivity and gaps when recast as overlapping chains of causally dependent psychological states with quasi-memory, and fission then needs either a clause against branching or multiple occupancy
 
 ## Source
 

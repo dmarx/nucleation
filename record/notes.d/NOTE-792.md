@@ -31,7 +31,7 @@ summary: >-
   convergence. A population with all four strategies equally represented
   is never the worst and has low variance.
 ---
-<!-- inactive-ok-file: CLAIM-192 THEORY-148 THEORY-295 — Proposed; the thesis and the transient-diversity account this reading bears on, named and not leaned on, and the account filed from this reading -->
+<!-- inactive-ok-file: CLAIM-192 THEORY-148 — Proposed; the thesis and the transient-diversity account this reading bears on, named and not leaned on -->
 
 # NOTE-792: Devezer et al. — Scientific discovery in a model-centric framework
 
