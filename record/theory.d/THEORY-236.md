@@ -1,20 +1,24 @@
 ---
 number: 236
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpuowt1
-promote_when: >-
-  An independent statement of the result in the literature, or a second
-  reader's line-by-line check of the App. A proof together with a written
-  version for column-centred representations, whose rank is at most n − 1
-  so that the theorem's hypothesis rank = n is never met by them. It is
-  refuted by a similarity index invariant to all invertible linear maps
-  that distinguishes two representations of full row rank on the same
-  examples. What cannot settle it: experiments showing that CCA-family
-  indexes fail sanity checks, which bear on which index to prefer, not on
-  whether this degeneracy holds.
 title: "A representational similarity index that is invariant to every invertible linear map takes the same value on all representations whose rank equals the number of examples"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/THEORY-236.yaml,
+    batch 006, ADR-047). The promote_when's second option is met. The App. A
+    proof of Theorem 1 was checked line by line for the review, with its
+    companions (the SVD argument and Proposition 1), and a written version
+    for column-centred representations is filed as CLAIM-tmp67453. That
+    version is the record's own and more general: an invariant index
+    depends only on the column space. The precision paragraph and the
+    column-space bullet now cite it. The promote_when is removed. The claim
+    is unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -65,11 +69,12 @@ to the examples. It cannot, because the group acts transitively on them.
 
 **A precision of the record's.** The paper centres columns. A centred
 n × p matrix has rank at most n − 1, so centred representations never meet
-the hypothesis rank = n as written. The same construction should go
-through at rank n − 1, since two centred full-rank representations share
-the column space orthogonal to the all-ones vector. That is the record's
-inference, not a statement of the paper, and it is what promote_when asks
-to have written out.
+the hypothesis rank = n as written. The construction does go through at
+rank n − 1, because two centred representations of that rank share the
+column space orthogonal to the all-ones vector. [CLAIM-tmp67453](../claims.d/CLAIM-tmp67453.md) writes it
+out, in the general form: an index invariant to every invertible linear map
+depends on a representation only through its column space. That is the
+record's, not a statement of the paper.
 
 ## What this does not say
 
@@ -81,7 +86,7 @@ to have written out.
 - **Not that such indexes are blank below full rank.** When the rank is
   below n, an invertible-linear-invariant index can distinguish
   representations, but only through their column spaces, since XA has the
-  column space of X.
+  column space of X ([CLAIM-tmp67453](../claims.d/CLAIM-tmp67453.md)).
 - **Not that CKA is the right index.** CKA's success on the sanity check
   (Table 2) is a separate, empirical finding.
 

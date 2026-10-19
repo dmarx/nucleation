@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpz6mng
 title: 'With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell''s order over finitely many states, and has A86''s D_Q, with the identity on tasks, as its symmetrization'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    A ground added at the owner's direction, as the follow-up to the
+    owner's promotion audit of 2026-10-19. Step (b) uses the converse with
+    Z finite. When U and V also take finitely many values, as with coded
+    renderings, THEORY-717 (Active) covers it. For renderings with
+    unbounded outcome spaces, the ground is still THEORY-156. The claim is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -21,6 +31,7 @@ date: '2026-10-15'
 line: pragmatic-transport
 grounds:
 - THEORY-156
+- THEORY-717
 summary: >-
   Split from [CLAIM-259](CLAIM-259.md) under [ADR-043](../decisions.d/ADR-043.md): the properties of the restated decision
   term, which [CLAIM-259](CLAIM-259.md) called "elementary and checkable", stated on their own
@@ -97,3 +108,13 @@ follows from the definitions.
   has not read.
 - It does not supply a correspondence of tasks for re-performance fidelity.
   It assumes one situation and the identity on tasks.
+
+## Note of 2026-10-19: when step (b) rests on an Active ground
+
+Step (b) applies the converse of Blackwell's theorem with Z finite. If U and
+V also take finitely many values, as they do once renderings are coded into
+a finite set of categories, then that converse is Theorem 6 of Blackwell
+(1953), held in [THEORY-717](../theory.d/THEORY-717.md), which is Active. If the outcome spaces are
+unrestricted, as for raw texts, step (b) still rests on [THEORY-156](../theory.d/THEORY-156.md), which is
+Proposed for that case. The claim states no restriction on the outcome
+spaces, so it keeps both grounds.

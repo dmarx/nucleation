@@ -4,16 +4,29 @@ status: Proposed
 formerly:
 - THEORY-tmpwdx4q
 promote_when: >-
-  A reading of a standard reference that proves the general statements
-  rather than collecting them, such as Trefethen & Embree's Spectra and
-  Pseudospectra or Schmid & Henningson's Stability and Transition in Shear
-  Flows, confirming that for any norm the growth over time t is
-  ‖e^{At}‖, that the numerical abscissa bounds it as t → 0, and that the
-  white-noise variance equals the equivalent normal variance only when A
-  is normal. What cannot settle it: more examples of transient growth in
-  particular systems, which illustrate the claim and do not prove it.
-title: 'For a non-normal linear operator the eigenvalues govern only the long-run limit: a system whose every mode decays can amplify perturbations over finite times, and hold more forced variance, by factors its spectrum does not predict'
-version: 1
+  A held proof of the white-noise variance inequality and its equality
+  case: that trace(P), with AP + PA† + I = 0, is at least
+  Σ 1/(−2 Re λ_i), with equality only when A is normal. Ioannou (1995), to
+  whom LIT-931 eq. 22 cites it, or a standard reference, would meet it. So
+  would a record-own proof checked step by step, for instance via the Schur
+  form A = U(Λ + N)U† with N strictly upper triangular. The finite-time and
+  resolvent statements this clause used to share are THEORY-tmpr7w9h,
+  Active. More examples of large variance in particular systems cannot
+  settle it.
+title: 'Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Split at the owner's direction, carrying out the promotion audit's
+    decision (record/promotion-audit/decisions/THEORY-323.yaml, batch 007,
+    ADR-047). The finite-time growth and resolvent statements, each checked
+    by its textbook proof, are now THEORY-tmpr7w9h, Active, which this
+    THEORY extends. What stays is the white-noise variance clause, which
+    LIT-931 eq. 22 cites to Ioannou (1995) and does not prove. The title is
+    restated to that clause, and the promote_when is narrowed to it. The
+    body below is unchanged; the note of 2026-10-19 says which parts moved.
 tags:
 - mathematics
 - complex-systems
@@ -22,6 +35,8 @@ date: '2026-10-14'
 source:
 - LIT-931
 - LIT-932
+extends:
+- THEORY-tmpr7w9h
 summary: >-
   Farrell & Ioannou (1996), [LIT-931](../literature.d/LIT-931.md), read in [NOTE-831](../notes.d/NOTE-831.md), with Trefethen
   et al. (1993), [LIT-932](../literature.d/LIT-932.md), read in [NOTE-839](../notes.d/NOTE-839.md). Linear algebra, worked in
@@ -34,7 +49,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-186 — Proposed; the claim this account bears on, open -->
 <!-- inactive-ok-file: THEORY-304 THEORY-325 — Proposed; companion accounts filed from the same readings -->
 
-# THEORY-323: For a non-normal linear operator the eigenvalues govern only the long-run limit: a system whose every mode decays can amplify perturbations over finite times, and hold more forced variance, by factors its spectrum does not predict
+# THEORY-323: Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance
 
 ## Source
 
@@ -126,3 +141,13 @@ No relations are declared.
   number.
 - **[THEORY-325](THEORY-325.md).** The time-dependent case, where transient growth
   can become asymptotic instability.
+
+## Note of 2026-10-19: what moved, and what stays
+
+The finite-time and resolvent statements in "What was actually shown" are
+now [THEORY-tmpr7w9h](THEORY-tmpr7w9h.md), Active, with their textbook proofs written out. They
+cover normal operators, growth as a singular value, the eigenvalue floor,
+the numerical abscissa, the harmonic-forcing bound and pseudospectra. What
+this THEORY still holds is the white-noise clause: trace(P) ≥
+Σ 1/(−2 Re λ_i), with equality only for normal A. [LIT-931](../literature.d/LIT-931.md) cites it and the
+record has not read the proof, so it stays Proposed.

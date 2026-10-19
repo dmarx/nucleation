@@ -34,7 +34,7 @@ summary: >-
 answers:
 - QUESTION-058
 ---
-<!-- inactive-ok-file: THEORY-184 THEORY-017 THEORY-022 — Proposed; accounts this one bears on -->
+<!-- inactive-ok-file: THEORY-017 THEORY-022 — Proposed; accounts this one bears on -->
 
 # THEORY-288: In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task
 

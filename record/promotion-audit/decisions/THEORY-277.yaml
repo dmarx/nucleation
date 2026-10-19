@@ -1,0 +1,72 @@
+# record/promotion-audit/decisions/THEORY-277.yaml
+id: THEORY-277
+batch: batch-008
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+supersedes_review: >-
+  batch-006, retain-proposed (the promote_when asks for an independent
+  proof, which the record did not hold). Requeued under ADR-047 v2, the
+  owner's rule of 2026-10-19 that a checked step-by-step re-derivation in the
+  decision file meets such a condition. This review attempted it.
+current_status: Proposed
+disposition: defer
+confidence: high
+scope:
+  accepted: >-
+    Nothing is promoted. The attempt below closes the first direction of
+    Theorem IV.8 and reduces the second to Lemma C.4, but it does not close
+    Lemma C.4.
+  excluded: The whole entry, until Lemma C.4 is re-derived.
+rederivation_attempt: >-
+  Notation: K is prefix complexity; x has length n; models are finite sets
+  S ∋ x with K(S) ≤ n + O(log n) (larger sets never help); Λ(S) = K(S) +
+  log |S|; δ(x | S) = log |S| − K(x | S). All equalities are up to
+  O(log n).
+
+  (1) The identity. Symmetry of information gives K(S, x) = K(x) + K(S | x*)
+  = K(S) + K(x | S*). Since S* is S together with K(S) ≤ n + O(log n),
+  K(x | S) and K(x | S*) differ by O(log n). Hence
+  δ(x | S) + K(x) = Λ(S) − K(S | x*). This is the paper's (C.4).
+
+  (2) Direction one: β_x(α) + K(x) ≤ λ_x(α). Take S witnessing λ_x(α), so
+  K(S) ≤ α. By (1), δ(x | S) + K(x) ≤ Λ(S) = λ_x(α). Since β_x(α) ≤ δ(x | S),
+  the inequality follows. Closed.
+
+  (3) Direction two reduces to Lemma C.4. Take A witnessing β_x(α). If some
+  S ∋ x has log |S| ≤ log |A| + O(1) and K(S) ≤ K(A) − K(A | x) + O(log n),
+  then K(S) ≤ α + O(log n), and Λ(S) ≤ Λ(A) − K(A | x) = δ(x | A) + K(x) by
+  (1), so λ_x(α + O(log n)) ≤ β_x(α) + K(x). Closed, given Lemma C.4.
+
+  (4) Lemma C.4, attempted. Put m = K(A), s = ⌈log |A|⌉, L = K(A | x), and
+  𝒜 = the sets of complexity at most m and size at most 2^s. 𝒜 is
+  enumerable from (m, s) and has at most 2^(m+1) members. Given x, m and s,
+  A is fixed by its rank among the members of 𝒜 that contain x, so x lies in
+  at least 2^(L − O(log n)) of them. Put L′ = L − O(log n) and let T be the
+  strings in at least 2^L′ members of 𝒜. T is enumerable from (m, s, L′),
+  contains x, and has |T| ≤ 2^(m+1+s−L′) by double counting. NOTE-787's
+  account of the paper's device: chop T into blocks of 2^s strings in
+  enumeration order, so that the block S containing x has
+  K(S) ≤ m − L′ + O(log n). The counting is correct.
+blockers:
+  - >-
+    The exact step that blocks: the final block. T is enumerable but not
+    decidable, so the block of T in enumeration order that never fills has
+    no finite description from its index alone. Specifying it costs either
+    the stage at which 𝒜's enumeration is complete (about m bits, through
+    the count of halting programs of length at most m) or the block's size
+    (up to s bits). Either one breaks K(S) ≤ m − L′ + O(log n), so
+    Λ(S) ≤ Λ(A) − K(A | x) + O(log n) fails for an x in that block. Two
+    repairs were tried, and each gives K(S) ≈ 2(m − L). The first gives
+    the most significant m − L bits of |𝒜| and covers a finite stage. The
+    second runs a greedy cover offline at that stage. Neither closes it. An online covering strategy is needed:
+    a computable way to choose, as members of 𝒜 appear, at most
+    2^(m − L′ + O(log n)) sets of size 2^s covering every string that
+    reaches multiplicity 2^L′. This is presumably the content of the
+    paper's Claim C.5. NOTE-787 records that the counting checks out, not
+    how the incomplete block is handled.
+unlocks: []
+next_action: >-
+  Defer. The next attempt should read Claim C.5's handling of the last
+  block in LIT-239, or Vereshchagin & Shen's survey proof of the same
+  lemma, then complete step (4) here and promote under ADR-047 v2. One
+  retrieval round should suffice.

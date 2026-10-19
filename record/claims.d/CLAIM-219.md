@@ -48,7 +48,6 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of the headline this objection led to, cited in the history -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-038 CLAIM-044 CLAIM-125 CLAIM-078 — Proposed; cited for the distinction from context dependence, as a non-citer of LIT-264, for the signalling counts and for the success criterion, not as settled -->
-<!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited as CLAIM-105 cites it, not as settled -->
 
 # CLAIM-219: The headline that translation changes global structure is either about contextuality, which has no case but a constructed one while the behavioural data show none, or about inconsistent connectedness, the ordinary context dependence the line says it goes beyond
 

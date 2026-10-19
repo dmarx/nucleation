@@ -1,0 +1,39 @@
+# record/promotion-audit/decisions/CLAIM-322.yaml
+id: CLAIM-322
+batch: batch-004
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: interpretive
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    The evidential rule as stated. Agreement under a probe family is
+    evidence of shared structure only insofar as the family was fixed
+    independently of the comparison and is tested on cases it was not
+    chosen on. It is argued from two premises, both Active once PR #165
+    merges: CLAIM-264's exact half (agreement on a restricted family is
+    coarser than identity), and CLAIM-011 (Active, granted), whose
+    anchoring remedy this rule applies to probes. The step is the familiar
+    selection-effect argument: a family chosen to make two objects agree
+    cannot fail to, so its agreement carries no information about them.
+  excluded: >-
+    Nothing beyond the claim's own "What it does not say": which probes to
+    choose (QUESTION-031), and that held-out agreement settles identity.
+evidence:
+  - "Its only rests_on is CLAIM-264, which PR #165 corrects and promotes. The correction does not touch the exact half's conclusion that this claim uses."
+  - "No objection or counter to it is filed."
+  - "CLAIM-011 (Active, granted) is the same rule for correspondences, so promoting this adds no new commitment in kind."
+  - "Its defeat condition is an argument, which fits an interpretive warrant (ADR-043)."
+blockers:
+  - >-
+    Wait for PR #165, so that it does not go Active resting on a Proposed
+    claim. Interpretive promotions are a credence call for the owner. The
+    PR should say so and cite this decision.
+unlocks:
+  - "CLAIM-142 rests on it (and on CLAIM-046, which is Proposed), so it is not unlocked alone."
+next_action: >-
+  Promotion PR after #165 merges: set it Active, with a history note citing
+  this decision and CLAIM-011's parallel. Trim the stale inactive-ok
+  directives that name it.

@@ -1,0 +1,6 @@
+### Changed
+
+- [CLAIM-313](record/claims.d/CLAIM-313.md) is promoted to Active: copies let several partitions coexist,
+  so bins realize one partition only when each item is stored once.
+  [CLAIM-310](record/claims.d/CLAIM-310.md), the thesis it countered, now states that one-copy condition.
+  This carries out the promotion audit's batch-002 decision ([ADR-047](record/decisions.d/ADR-047.md)).

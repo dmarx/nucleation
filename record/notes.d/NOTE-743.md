@@ -36,7 +36,6 @@ summary: >-
   finds corresponding layers across CNN initialisations (99.3%, against
   at most 45.4% for the other linear indexes).
 ---
-<!-- inactive-ok-file: THEORY-008 — Proposed; the theories that cite this paper as supporting -->
 
 # NOTE-743: Kornblith et al. — Similarity of Neural Network Representations Revisited
 

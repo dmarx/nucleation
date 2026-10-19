@@ -1,0 +1,46 @@
+# record/promotion-audit/batches/batch-009.yaml
+batch: batch-009
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  The next five wave-2 pending candidates of triage-002, in queue order. One
+  more, THEORY-565, is still pending after this batch.
+reviewed: [THEORY-037, THEORY-002, THEORY-127, THEORY-686, THEORY-604]
+outcomes:
+  promote: [THEORY-037]
+  split: [THEORY-002, THEORY-127, THEORY-604]
+  needs-correction: [THEORY-686]
+yield: 4 of 5 found a promotion path; wave 2 stands at 27 of 30
+finding: >-
+  Four of five fit batch 007's predictive class: a mathematical THEORY
+  whose promote_when, or title, bundles a small proved core with something
+  broader. The cores were a frame (THEORY-037), symmetry and distance
+  results held in a full reading (THEORY-002), the court-agenda results
+  (THEORY-127) and the fixed-point construction of an adjunction
+  (THEORY-604). Two of them needed ADR-047 v2 re-derivations (THEORY-037,
+  THEORY-604) and one needed none (THEORY-002, whose proofs NOTE-738
+  read). The fifth, THEORY-686, is a third instance of a scope error in a
+  correct theorem's statement, after CLAIM-264 and CLAIM-123: "no
+  generative effect" is weaker than "preserves all joins", and a constant
+  map to ⊤ separates them. Re-deriving a promote_when's cited theorems also
+  checks the title's quantifiers, and that is where the errors turn up.
+recommendation: >-
+  Wave 2's marginal yield has not declined, so by ADR-047 it should
+  continue. But triage-002's list is exhausted except THEORY-565. Re-triage
+  the remaining mathematics-tagged Proposed THEORYs, about 38 after
+  triage-002 and the control, by bundling rather than keywords. Score one
+  point for a promote_when that asks for more than the title claims, one
+  for a title with "and"-joined clauses of different kinds (theorem plus
+  reading), and one for a source NOTE rated Read. Then run one or two more
+  wave-2 batches. Start wave 3 (source-backed THEORYs outside
+  mathematics) after that, or in parallel if forks allow. Its yield will
+  be lower, because there the record-own re-derivation that ADR-047 v2
+  allows is rarely available.
+follow_up_prs:
+  - "THEORY-037: promote, with the frame re-derivation as a dated note (ADR-047 v2)."
+  - "THEORY-002: split. The new Active THEORY holds the symmetry and distance results; then a wave-4 note for CLAIM-269 and CLAIM-193."
+  - "THEORY-127: split. The new Active THEORY holds the court-agenda results, and THEORY-127 is requeued for Proposition 3."
+  - "THEORY-686: correct the title, then promote (ADR-047 v2)."
+  - "THEORY-604: split. The new Active THEORY holds the fixed-point construction."

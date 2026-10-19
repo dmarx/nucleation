@@ -4,8 +4,13 @@ status: Proposed
 formerly:
 - THEORY-tmpzelk0
 promote_when: >-
-  A held proof of the singular half. The regular half is derived in the
-  sources. The singular half rests on Watanabe's free-energy asymptotics
+  A held proof of the singular half, and of the regular half beyond the
+  linear-Gaussian models where it is exact (THEORY-718). In general
+  the regular half is a Gaussian approximation in MacKay and a cited
+  asymptotic in Grünwald & Roos and Watanabe; a reading of a proof of the
+  regular expansion F = nL_n(ŵ) + (d/2) log n + O_p(1), such as Schwarz
+  (1978) or a Laplace or Bernstein–von Mises argument with its
+  conditions, would meet that part. The singular half rests on Watanabe's free-energy asymptotics
   (Theorem 2 of LIT-616), which that paper states and cites but does
   not prove, and on its §7.1 remark that λ < d/2 when the prior is positive
   on the optimal set, which is also stated with a citation. A reading of
@@ -20,7 +25,24 @@ promote_when: >-
   they are derived from the same theory. Further agreement between BIC
   and the evidence in regular models cannot settle it either.
 title: 'The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, as the follow-up to the owner's promotion
+    audit of 2026-10-19. The audit proposed promoting the regular half as
+    "established in the sources". The check found that true only for
+    linear-in-parameters models with Gaussian noise and prior, where
+    MacKay's formula is exact (NOTE-471). That case is now
+    THEORY-718, Active, which this THEORY extends. For nonlinear
+    regular models the record holds MacKay's Gaussian approximation and
+    two citations (NOTE-760's eqs. 15–16 cite Rissanen and Suzuki &
+    Yamanishi; NOTE-473's Theorem 5 is about WBIC, and the free-energy
+    expansion it would need is Theorem 2, cited). The promote_when said
+    "the regular half is derived in the sources". That overstated it, and
+    it now asks for a held proof of the regular expansion as well. The
+    claim is unchanged; the status stays Proposed.
 tags:
 - model-comparison
 - information-geometry
@@ -44,6 +66,8 @@ summary: >-
   with λ the RLCT (Theorem 2). The regular half is derived. The singular
   half is a theorem the record holds only as cited, so this is Proposed.
   The volume reading of λ is in Watanabe's book, which is unread.
+extends:
+- THEORY-718
 extended_by:
 - THEORY-080
 presupposed_by:
@@ -160,3 +184,15 @@ estimates came out at 14.69, 15.74 and 16.53.
   the singular models it is applied to.
 - **[THEORY-080](THEORY-080.md)** extends the regular half to a linearised network
   whose prior is set by its tangent kernel.
+
+## Note of 2026-10-19: how much of the regular half is held
+
+Only the linear-Gaussian case is held exactly. There MacKay's Occam factor
+is exact, and the (d/2) log n cost follows by algebra. That case is
+[THEORY-718](THEORY-718.md), Active. For nonlinear regular models MacKay's formula is
+a Gaussian approximation. Grünwald & Roos cite the (k/2) log n expansion
+(eq. 16) to Rissanen and to Suzuki & Yamanishi. Watanabe's Lemma 3 gives
+λ = d/2 for a regular truth, but the free-energy expansion that turns λ
+into a penalty is his Theorem 2, which is cited. The body's "The regular
+half is derived" holds in this sense: derived exactly for one model class,
+and by approximation otherwise.

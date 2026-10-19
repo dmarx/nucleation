@@ -67,7 +67,6 @@ supports:
 objected_by:
 - CLAIM-206
 ---
-<!-- inactive-ok-file: CLAIM-264 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-046 CLAIM-050 CLAIM-038 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: TERM-002 — Superseded; cited as the definition the Yoneda reading restates, not as current -->
 <!-- inactive-ok-file: CLAIM-206 CLAIM-217 — Proposed; the objection that prompted version 2 and the record's reply to it, both open -->
@@ -178,3 +177,14 @@ formal-apparatus line, resting on no claim. This claim now rests on it for
 the general content, and keeps [CLAIM-046](CLAIM-046.md) and [CLAIM-011](CLAIM-011.md), for the realist reading of communicative identity and the anchored-correspondence remedy. Claims in other lines that need
 only the general content cite [CLAIM-264](CLAIM-264.md), so setting pragmatic-transport aside
 does not take it from them.
+
+## Note of 2026-10-19: the strong-generator sentence is corrected in [CLAIM-264](CLAIM-264.md)
+
+The exact half above says a strong generator reflects isomorphisms and that
+any other family identifies objects only up to a coarser equivalence. The
+first is right, as conservativity of the restricted functor, but read with
+the second it implies that a strong generator identifies objects, and it
+does not: (ℤ/p)³ and the Heisenberg group mod p, for p odd, have isomorphic
+profiles through ℤ and are not isomorphic. Identifying objects does not
+need density either. [CLAIM-264](CLAIM-264.md), version 2, states the three cases
+apart, and is now Active. This claim's application is unchanged.

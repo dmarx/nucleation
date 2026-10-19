@@ -24,7 +24,7 @@ summary: >-
   learns nothing about which symmetry the data have, and does not separate
   the effect of equivariance from the changed channel structure.
 ---
-<!-- inactive-ok-file: THEORY-019 THEORY-184 — Proposed; accounts of symmetry in spectra and in updates, named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-019 — Proposed; accounts of symmetry in spectra and in updates, named in Connections, not leaned on -->
 
 # THEORY-445: A network built from group correlations over a discrete split group of plane symmetries, pointwise nonlinearities and coset pooling is equivariant to that group by construction, through the regular representation alone: the group is fixed before training and built into the weight sharing, not found in the data
 

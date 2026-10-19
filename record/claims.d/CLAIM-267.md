@@ -1,13 +1,13 @@
 ---
 number: 267
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpjp2tl
 title: Per-step discrepancies between a chain of maps and a reference chain
   compound through the sensitivity of the later steps, so the same local error
   can be damped, accumulated or amplified, and closeness at every step can
   coexist with large end-to-end divergence
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-13'
@@ -21,6 +21,16 @@ history:
     Where the record applies it now names LIT-971's closed-form case of
     the bounded regime (THEORY-289), prompted by NOTE-815. The
     claim is unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/CLAIM-267.yaml,
+    batch 001, ADR-047). The derivation was checked: one triangle inequality
+    per step. The indices are pinned to one map: ε_i is measured at the
+    reference point and L_i is the Lipschitz constant of the actual chain's
+    map f_i. A section of witnesses for the three regimes is added. The
+    claim is otherwise unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: A chain of maps on a metric space, with per-step discrepancies
@@ -54,11 +64,16 @@ supports:
 ## The claim
 
 Take a chain u_0 → u_1 → … → u_n produced by maps f_1, …, f_n on a metric
-space, and a reference chain produced by maps g_i. Let ε_i be the
-discrepancy introduced at step i, and L_i a Lipschitz constant for the
-later maps. Then e_(i+1) ≤ L_i e_i + ε_i, so
+space, u_i = f_i(u_(i−1)), and a reference chain v_i = g_i(v_(i−1)). Let
+e_i = d(u_i, v_i). Let ε_i = d(f_i(v_(i−1)), g_i(v_(i−1))) be the
+discrepancy step i introduces at the reference point, and L_i a Lipschitz
+constant of f_i. By the triangle inequality,
 
-e_n ≤ (∏ L_j) e_0 + Σ ε_i ∏_(j>i) L_j.
+e_i ≤ d(f_i(u_(i−1)), f_i(v_(i−1))) + d(f_i(v_(i−1)), g_i(v_(i−1))) ≤ L_i e_(i−1) + ε_i,
+
+so
+
+e_n ≤ (∏_(j=1..n) L_j) e_0 + Σ_(i=1..n) ε_i ∏_(j>i) L_j.
 
 The impact of a local error depends on the dynamics after it. There are
 three regimes: contractive (L < 1, errors are damped), neutral (L = 1, they
@@ -93,3 +108,16 @@ Error is accumulated but bounded: every round still adds some.
 - It does not say drift is random. Attraction toward conventions is a
   further claim ([CLAIM-068](CLAIM-068.md)).
 - It does not cover directed, non-metric distortion ([QUESTION-017](../questions.d/QUESTION-017.md)).
+
+## Note of 2026-10-19: witnesses for the three regimes
+
+The bound is an upper bound. Each regime is also attained, on ℝ with the
+reference g_i(x) = c·x and the actual chain f_i(x) = c·x + ε, from
+u_0 = v_0. Then e_i = c·e_(i−1) + ε exactly, and every step introduces the
+same discrepancy ε.
+
+- c = 1/2: e_n = 2ε(1 − 2⁻ⁿ) < 2ε. Each error is damped, and the total
+  stays bounded.
+- c = 1: e_n = nε. The errors accumulate, so each step is within ε of the
+  reference while the endpoints are nε apart.
+- c = 2: e_n = (2ⁿ − 1)ε. The errors are amplified.

@@ -1,0 +1,40 @@
+# record/promotion-audit/decisions/CLAIM-081.yaml
+id: CLAIM-081
+batch: batch-003
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing that is not already CLAIM-270's. That retention and drift come
+    apart on Markov chains is CLAIM-270, which PR #167 promotes with
+    two-state constructions for all four combinations. CASE-017 (Active) is
+    a constructed contractive chain showing the same.
+  excluded: >-
+    This claim's own content: that serial reconstruction of utterances is
+    such a chain, read through CLAIM-056's transport errors, so that the
+    two profiles are the right fidelity profiles for translation chains.
+evidence:
+  - "rests_on CLAIM-056 (Proposed), which rests on CLAIM-106 (Proposed, interpretive) for reading chain steps as transports with graded fidelity."
+  - "The defeat condition is about serial reconstruction ('always move together, so that one profile predicts the other'), a universal over a domain. CASE-017 is constructed, not observed, so it can show the profiles can come apart in a model of the domain, not how the domain behaves."
+blockers:
+  - >-
+    CLAIM-056 is Proposed. Its premise CLAIM-106, that fidelity is graded
+    and directed, is the line's interpretive thesis. Until CLAIM-056 is
+    decided, this claim cannot be Active, whatever #167 does for
+    CLAIM-270.
+  - >-
+    Once CLAIM-056 is decided, review the warrant. If the claim is read as
+    "a reconstruction chain can forget its origin while staying far", it is
+    CLAIM-270 applied and adds nothing demonstrable. If it is read as its
+    defeat condition reads, a statement about real serial reconstruction,
+    it is interpretive (ADR-043: an empirical hypothesis with no observation
+    under it).
+unlocks:
+  - "PR #167 (CLAIM-270 → Active) removes one of its two Proposed premises. The other is CLAIM-056."
+next_action: >-
+  None now. Re-review in the wave-4 pass after CLAIM-056 is decided (CLAIM-056
+  is pending in the queue).

@@ -1,0 +1,32 @@
+# record/promotion-audit/batches/batch-005.yaml
+batch: batch-005
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  The five highest-scoring pending candidates of triage-002 (wave 2,
+  Proposed THEORYs; a keyword heuristic, see queue history), with batch-000's
+  wave-2 decisions skipped.
+reviewed: [THEORY-174, THEORY-184, THEORY-168, THEORY-017, THEORY-165]
+outcomes:
+  promote: [THEORY-184]
+  split: [THEORY-174, THEORY-168, THEORY-017, THEORY-165]
+yield: 5 of 5 found a promotion path
+finding: >-
+  Every one of the five had a promote_when that bundled a proved part with
+  something else. The extra was a contested or corrected theorem
+  (THEORY-174's Theorem 44), an asserted case (THEORY-168's CbD 1.0
+  non-heredity), a synthesis (THEORY-017's table), or the record's own
+  derivation sitting in a THEORY (THEORY-165's Lipschitz bound, and
+  THEORY-184, whose whole proof is a few lines). In three of the five, the
+  promote_when itself says the proved half is done ("already proved in
+  refereed venues", "already proved", "condition is met"). Wave 2's yield
+  across batch-000 and batch-005 is 11 of 11, against wave 1's 10 of 18 and
+  wave 4's 2 of 5. Stay in wave 2.
+follow_up_prs:
+  - "Promote THEORY-184 (remove its promote_when; history note citing the independent check)."
+  - "Split THEORY-174: the monotonicity results (LIT-846, LIT-847) as a new Active THEORY."
+  - "Split THEORY-168: the coarse-graining result and the two-variable agreement (LIT-831) as a new Active THEORY."
+  - "Split THEORY-017: the unitary-transitivity and Frobenius–basis core (LIT-274, LIT-275) as a new Active THEORY."
+  - "Split THEORY-165: narrow it to the LP and convexity (LIT-265), Active, and file the Lipschitz bound as a new demonstrated CLAIM, Active."

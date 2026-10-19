@@ -1,0 +1,51 @@
+# record/promotion-audit/decisions/CLAIM-193.yaml
+id: CLAIM-193
+batch: batch-003
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    Nothing beyond CLAIM-269's. Since the ADR-040 split of 2026-10-13, the
+    linear-readout result (same normalized kernel, indistinguishable to
+    every regularized linear readout; different kernels, some task z with
+    K_X z ≠ K_Y z, so "exactly what the kernel separates") is CLAIM-269, in
+    the formal-apparatus line. The first disjunct of this claim's defeat
+    condition is CLAIM-269's first disjunct, word for word.
+  excluded: >-
+    This claim's own content: that communicative realizations, read
+    through a probe family, have a kernel that plays the same role, so the
+    linear result answers QUESTION-031's linear half for them. The body
+    calls this "the filer's step", and the second disjunct of the defeat
+    condition is about it.
+evidence:
+  - "rests_on CLAIM-142 (Proposed) and CLAIM-269 (Proposed). grounds THEORY-008, THEORY-002, THEORY-019 (Proposed) and THEORY-018 (Active)."
+  - "The body: 'That communicative realizations, read through a probe family, have a kernel playing the same role is the filer's step.' The note of 2026-10-12 records an open dispute (CLAIM-142 vs CLAIM-206) on whether human judges are a probe family at all."
+blockers:
+  - >-
+    The warrant is misclassified, as with CLAIM-098: the demonstrated part
+    is held by another entry (CLAIM-269), and what remains is a carry-over
+    argument, which is interpretive (ADR-043). The first disjunct of the
+    defeat condition belongs to CLAIM-269 and should be dropped here.
+  - >-
+    After correction it stays Proposed, resting on CLAIM-142 (Proposed) and
+    on the open CLAIM-142/CLAIM-206 dispute over whether judges are probes.
+unlocks:
+  - >-
+    CLAIM-269, the formal core, is the wave-4 target, not this claim. PR
+    #165 makes THEORY-008 Active for a finite stimulus set, and CLAIM-269
+    should then say "on a finite set of stimuli". Its second clause, that
+    kernels fix a representation only up to symmetry, grounds on THEORY-002
+    (Proposed). THEORY-004 (Active) already proves that a centred kernel
+    determines a representation up to a translation and an orthogonal
+    transformation, which may be all CLAIM-269 needs. If so, re-grounding on
+    THEORY-004 and THEORY-008 would let CLAIM-269 be promoted without
+    THEORY-002 or THEORY-019.
+next_action: >-
+  Correction PR: set the warrant to interpretive and drop the first defeat
+  disjunct (CLAIM-269's). Status unchanged. Then review CLAIM-269 in the
+  wave-4 pass after PR #165 merges, with the THEORY-004 re-grounding in
+  view.
