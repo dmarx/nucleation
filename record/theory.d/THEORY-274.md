@@ -36,7 +36,6 @@ summary: >-
 answers:
 - QUESTION-060
 ---
-<!-- inactive-ok-file: THEORY-229 — Proposed; accounts on the same mechanism or question, open -->
 
 # THEORY-274: Sequence models trained only on a graph's edge bigrams store it as a global embedding geometry, not as a lookup, although the lookup is expressible, found faster and no less succinct; in a wide two-layer weight-tied model the geometry is the top Laplacian eigenspace, reached by cross-entropy training without a rank bottleneck, regularization or multi-hop supervision
 

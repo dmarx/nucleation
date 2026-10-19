@@ -1,23 +1,25 @@
 ---
 number: 293
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxwps9
-promote_when: >-
-  A test of the link from the optimal learner to trained networks, on the
-  quantity the theory predicts: the threshold model size or mixing ratio,
-  predicted in advance from the measured loss-versus-size curve of the
-  second domain and the facts' total entropy Htot, matched by networks
-  trained to convergence over several seeds and several values of r, with
-  recall rising over a width of about Htot past the threshold. It is
-  refuted if the measured thresholds depart systematically from
-  (1/(r·p))^(1/(α+1)), or if networks below the threshold do learn the
-  facts given enough further training, which would make the wall a matter
-  of dynamics and not of allocation. More sigmoid-shaped curves in r or in
-  size are the wrong kind of evidence: they show a threshold, not that
-  capacity allocation sets it.
-title: 'For an optimal capacity-bounded learner on a mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full above it, and Pythia models trained on such mixtures show the same threshold in model size and in mixing ratio'
-version: 1
+title: "For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-293 (batch 036, ADR-047 v2 and
+    v3). Theorem 4.3 was re-derived by an exchange argument, in the dated
+    note below. The title now says the facts are learned in full only once
+    capacity exceeds the threshold by their total entropy, as the theorem
+    states, and that the Pythia models show a threshold, not the same
+    threshold: that the networks' thresholds are the optimal learner's
+    rests on one exponent with no interval (NOTE-796). The data are named
+    rather than called such mixtures, since web text is not shown to be
+    orthogonal to the biographies. The former promote_when, the test of
+    that link, moves to QUESTION-tmpygew3.
 tags:
 - learning-theory
 - information-theory
@@ -35,9 +37,9 @@ summary: >-
 answers:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-204 THEORY-039 THEORY-229 — Proposed; partial answers to the same question, compared, not leaned on -->
+<!-- inactive-ok-file: THEORY-204 THEORY-039 — Proposed; partial answers to the same question, compared, not leaned on -->
 
-# THEORY-293: For an optimal capacity-bounded learner on a mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full above it, and Pythia models trained on such mixtures show the same threshold in model size and in mixing ratio
+# THEORY-293: For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio
 
 ## Source
 
@@ -120,3 +122,38 @@ predicted from the fitted web-loss exponent α ≈ 0.283 (Fig. 7a–b).
 - **[THEORY-039](THEORY-039.md).** A further kind of transition: in what the end of
   training holds, as a function of mixture and size, not a phase within
   one run.
+
+## Note of 2026-10-19: Theorem 4.3, re-derived
+
+The source's assumptions: capacity splits additively, m1 + m2 ≤ M,
+between the facts and the second domain, because the mixture is
+orthogonal (Definition F.5). The facts' best loss falls with slope −p
+per unit of capacity until m1 reaches their total entropy Htot (Theorem
+4.2). The second domain's best loss F_P2 is convex and non-increasing.
+The learner minimises r·F_P1(m1) + (1 − r)·F_P2(m2). Put
+t = r·p/(1 − r).
+
+1. A unit of capacity given to the facts lowers the loss by r·p. Given to
+   the second domain at m2, it lowers it by (1 − r)·(−F′_P2(m2)), which
+   does not increase with m2.
+2. Below. Let M ≤ M₀⁻(t), the supremum of the sizes at which −F′_P2 > t.
+   If an optimum gave the facts m1 > 0, then m2 < M₀⁻, so −F′_P2(m2) > t,
+   and moving a little capacity from the facts to the second domain would
+   lower the loss. So no optimum learns any of the facts.
+3. Above. Let M ≥ M₀⁺(t) + Htot, with M₀⁺(t) the infimum of the sizes at
+   which −F′_P2 < t. If an optimum gave the facts m1 < Htot, it would use
+   all its capacity (spare capacity given to the facts lowers the loss),
+   so m2 > M₀⁺ and −F′_P2(m2) < t, and moving a little capacity from the
+   second domain to the facts would lower the loss. So every optimum
+   learns all of them.
+4. In between, the facts take every further unit until Htot is spent, so
+   recall rises linearly over a width of Htot.
+5. With F_P2 = C + A·M^(−α), −F′_P2(M) = αA·M^(−(α+1)) = t gives
+   M₀ = (αA(1 − r)/(r·p))^(1/(α+1)), which scales as
+   (1/(r·p))^(1/(α+1)) for small r.
+
+The Pythia half is accepted under [ADR-047](../decisions.d/ADR-047.md) v3 as one study read in full
+([NOTE-796](../notes.d/NOTE-796.md), C3): near-zero recall below a model size that falls as r
+rises, and below a mixing ratio at fixed size (70M: 0.4% at r ≤ 0.2 to
+58.1% at 0.45 over three seeds), then a steep rise. Whether those
+thresholds are the optimal learner's is [QUESTION-tmpygew3](../questions.d/QUESTION-tmpygew3.md).
