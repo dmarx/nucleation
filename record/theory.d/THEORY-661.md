@@ -4,7 +4,17 @@ status: Active
 formerly:
 - THEORY-tmpx1n2e
 title: "In a nearly decomposable system, where interactions within subsystems are much stronger than interactions between them, each subsystem's short-run behaviour is approximately independent of the others', and in the long run each depends on the others only through their aggregate behaviour; so a hierarchy defined by intensity of interaction separates fast dynamics inside its parts from slow, aggregate dynamics between them"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    The Source section said the record does not hold Simon & Ando (1961).
+    It has held it, unread, as LIT-1127 since 2026-10-16; corrected. A
+    connection is added for the exchange of 2026-10-19 on coarse-to-fine
+    processes: the closure of block aggregates stated here is not bounded,
+    and closure does not need a block (CLAIM-tmpkoi6k, QUESTION-tmpt64jh).
+    The account is unchanged.
 tags:
 - complex-systems
 date: '2026-10-16'
@@ -23,6 +33,7 @@ supports:
 - CLAIM-157
 - CLAIM-331
 ---
+<!-- inactive-ok-file: LIT-1127 LIT-tmp6vpg9 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-194 CLAIM-331 THEORY-257 THEORY-265 — Proposed; claims that rest on this result and neighbouring accounts, named for context -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; the objection named for what the theorem does not settle -->
 
@@ -33,7 +44,7 @@ supports:
 Simon (1962), [LIT-905](../literature.d/LIT-905.md), "The Architecture of Complexity", *Proceedings of
 the American Philosophical Society* 106(6):467–482, read in full in
 [NOTE-704](../notes.d/NOTE-704.md). The theorem is Simon & Ando (1961), which the lecture cites and
-the record does not hold.
+the record holds unread as [LIT-1127](../literature.d/LIT-1127.md).
 
 ## What was actually shown
 
@@ -100,6 +111,11 @@ one, to order ε.
 - **Dynamical independence ([THEORY-257](THEORY-257.md))** asks when a coarse variable is
   closed given its own history. Near decomposability gives approximate
   closure of block aggregates over the long run, by coupling strength.
+  The record has no bound of the one by the other ([QUESTION-tmpt64jh](../questions.d/QUESTION-tmpt64jh.md)),
+  and the converse fails: a collective variable can be exactly closed
+  while no grouping of the units is a block ([CLAIM-tmpkoi6k](../claims.d/CLAIM-tmpkoi6k.md)). Shpak et al.
+  ([LIT-tmp6vpg9](../literature.d/LIT-tmp6vpg9.md), unread) separate aggregation from decomposition in
+  Simon and Ando's setting.
 - **Modular synchronisation ([THEORY-265](THEORY-265.md))** is a model of the same shape:
   coupling strong inside modules makes each module respond as a unit.
 - **Coupling is not constitution ([CLAIM-173](../claims.d/CLAIM-173.md), [CLAIM-194](../claims.d/CLAIM-194.md)).** A block can be

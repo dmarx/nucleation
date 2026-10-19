@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-11'
@@ -31,6 +31,13 @@ history:
     grounds gains THEORY-661, which states Simon's
     near-decomposability result that the criterion relies on. The claim
     is unchanged.
+- version: 5
+  date: '2026-10-19'
+  note: >-
+    Note of 2026-10-19 added, from the exchange on coarse-to-fine
+    processes: closure without a block (CLAIM-tmpkoi6k), and the two
+    questions it opens (QUESTION-tmplru2n, QUESTION-tmpmz64i). The
+    criterion is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -82,6 +89,7 @@ objected_by:
 supports:
 - CLAIM-174
 ---
+<!-- inactive-ok-file: LIT-tmp2snx1 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
 <!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
 <!-- inactive-ok-file: THEORY-257 THEORY-265 THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 set beside the criterion, open -->
@@ -167,3 +175,28 @@ test. The name is earned when the gap beats the cost of keeping it.
   some forms and misses others ([THEORY-254](../theory.d/THEORY-254.md), [LIT-955](../literature.d/LIT-955.md), [NOTE-814](../notes.d/NOTE-814.md)).
   The Occam factor here is set per block, which is the kind of per-region
   setting a global threshold lacks.
+
+## Note of 2026-10-19: closure without a block, and flux
+
+A5 of the exchange of 2026-10-19 on coarse-to-fine processes asked whether
+"organizational unity require[s] a subsystem boundary, or can it arise from
+a dynamically closed collective mode distributed across multiple otherwise
+entangled subsystems?" Two things came of it.
+
+- **The two tests come apart under symmetric coupling too.** This claim
+  already records that dynamical independence and the block pick different
+  units when coupling is one-way. [CLAIM-tmpkoi6k](CLAIM-tmpkoi6k.md) shows they also differ
+  when it is symmetric. Under uniform coupling the sum of all units is
+  exactly closed, and no grouping of the units is a block ([CASE-tmpvt6wb](../cases.d/CASE-tmpvt6wb.md)).
+  The unit named here is already a mode (point 3, after [CLAIM-164](CLAIM-164.md)), but it
+  is found by grouping members. Whether a mode found without a grouping can
+  be one system is [QUESTION-tmplru2n](../questions.d/QUESTION-tmplru2n.md). A case of it that compensated and
+  entrained would meet this claim's `defeated_if`.
+- **A third kind of organization.** A5 set containment (this claim's
+  block) and mode (closure) beside flux: a pattern of transfer that
+  persists while constituents are replaced. In turbulence, transfer across
+  scales is local without the scales being weakly coupled blocks (Eyink and
+  Aluie, [LIT-tmp2snx1](../literature.d/LIT-tmp2snx1.md), unread). Whether flux picks out units this test
+  misses is [QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md). A5's guard is this claim's: a newly found
+  mode or flux "should not automatically be treated as an individual, much
+  less an agent."

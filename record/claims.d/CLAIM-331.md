@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,6 +12,12 @@ history:
     grounds gains THEORY-661, which states the near-decomposability
     result (slow, aggregate dynamics between weakly coupled blocks) this
     claim cites Simon for. The claim is unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Note of 2026-10-19 added, from the exchange on coarse-to-fine
+    processes: three sources of a timescale hierarchy that the claim's
+    "characteristically" runs together. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,7 +55,8 @@ complements:
 supports:
 - CLAIM-344
 ---
-
+<!-- inactive-ok-file: LIT-tmpko78q — Deferred; works registered unread, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-923 — Unavailable; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-331: A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
 
@@ -123,3 +130,28 @@ and twice confirmed its own limit.
   0.98, while the members are resampled and never read it. Strong
   timescale separation, no level. It is the construction behind "Not that
   a slow variable is a level" above.
+
+## Note of 2026-10-19: three sources of slowness
+
+A4 of the exchange of 2026-10-19 on coarse-to-fine processes read this
+claim against the physics of model reduction and separated three situations
+that "timescale hierarchy" groups:
+
+1. **Weakly coupled subsystems.** Slow collective modes follow from
+   near-decomposability. That is [THEORY-661](../theory.d/THEORY-661.md), the mechanism this claim cites.
+2. **Metastable systems.** Slow transitions run between long-lived
+   configurations ([QUESTION-079](../questions.d/QUESTION-079.md), [THEORY-571](../theory.d/THEORY-571.md)).
+3. **Turbulent systems.** "Scale-dependent turnover times coexist with
+   persistent transfer across scales", with no clean slow–fast split (Eyink
+   2005, [LIT-tmpko78q](../literature.d/LIT-tmpko78q.md), unread).
+
+A4: "CLAIM-331 already avoids defining levels by slowness alone. The
+expansion could make that qualification much more precise. It might also
+reveal whether its phrase *characteristically slower* is actually justified
+outside a restricted class of systems." That is a test of scope, not
+evidence against the claim. The third situation is the one this claim's
+`defeated_if` would need: variables another criterion individuates as
+higher-level, changing as fast as their constituents over ordinary
+dynamics. Nobody has yet shown that a cascade has such variables. A5 added
+that memory may carry a level's persistence where no instantaneous
+variable is slow ([QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md)).

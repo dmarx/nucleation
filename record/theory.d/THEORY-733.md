@@ -37,6 +37,8 @@ summary: >-
   multimodality of the dynamical-dependence cost, or about nonlinear maps.
 extended_by:
 - THEORY-257
+supports:
+- CLAIM-tmpkoi6k
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account this was split from and that extends it, cited as open -->
 
