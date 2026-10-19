@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 125
+version: 126
 updated: '2026-10-19'
 record_revision: 735f6240684ada2fc488e24d376436458aca4f0d
 procedure: record/decisions.d/ADR-047.md
@@ -10,27 +10,14 @@ handoff:
   state: between batches
   in_review:
   - '#227'
-  - '#228'
-  - '#229'
-  - '#230'
-  - '#231'
-  - '#232'
-  - '#233'
-  - '#234'
-  - '#235'
-  next_step: 'Round 036-041 is integrated. Open PRs: #227 (CLAIM-265 class-relative correction; owner
-    wording), #228 (THEORY-290), #229 (THEORY-228, -319), #230 (THEORY-238, -266, -278), #231 (THEORY-263,
-    -293, -229), #232 (THEORY-321), #233 (THEORY-185, -161), #234 (THEORY-197), #235 (THEORY-205, -275,
-    -365). Merge one at a time after each regenerate commit, this ledger last; pairs #229/#231, #230/#231,
-    #233/#234 and #228/#232 touch the same directive lines, so merge main into the later one and keep
-    both trims. Merge #231 before #230 (THEORY-266 rests on THEORY-263). Next: triage-006 formal_route
-    16-20 (THEORY-280, -289, -344, -387, -019), with the threshold raised to 3 or relation paired with
-    derived/cites (batch 039); score-2 entries go to v3 review, not re-derivation. Wave 5: the requeue
-    list. Owner questions open: THEORY-073 narrow-and-promote of an argument; CLAIM-265/-143 class-relative
-    wording (#227); THEORY-351/-071/-628 whether a title reporting an argument is promotable; THEORY-321
-    multi-group case; THEORY-185 conditional theorems whose promote_when asks the premise be tested; CLAIM-139
-    remedy; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160 narrowing; CLAIM-322,
-    CLAIM-251, THEORY-157, THEORY-277.'
+  next_step: 'Round 036-041 is integrated. #228-#235 are merged; #227 (CLAIM-265 class-relative correction)
+    waits on the owner''s wording ruling. Next: triage-006 formal_route 16-20 (THEORY-280, -289, -344,
+    -387, -019), with the threshold raised to 3 or relation paired with derived/cites (batch 039); score-2
+    entries go to v3 review, not re-derivation. Wave 5: the requeue list. Owner questions open: THEORY-073
+    narrow-and-promote of an argument; CLAIM-265/-143 class-relative wording (#227); THEORY-351/-071/-628
+    whether a title reporting an argument is promotable; THEORY-321 multi-group case; THEORY-185 conditional
+    theorems whose promote_when asks the premise be tested; CLAIM-139 remedy; CLAIM-328; CLAIM-206 vs
+    CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160 narrowing; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -3060,6 +3047,9 @@ history:
     in one PR.; carried_out_in #235'
 - version: 125
   date: '2026-10-19'
-  note: 'Round 036-041 closed: 16 promotions in 28 reviews; THEORY-162 requeued to wave 5; hand-off
-    updated.'
+  note: 'Round 036-041 closed: 16 promotions in 28 reviews; THEORY-162 requeued to wave 5; hand-off updated.'
+- version: 126
+  date: '2026-10-19'
+  note: '#228-#235 merged; directive-line conflicts resolved by merging main into the later PR of each
+    pair.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
