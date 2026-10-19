@@ -3,8 +3,8 @@ number: 87
 status: Proposed
 formerly:
 - CLAIM-tmpovy47
-title: 'Cross-modal reconstruction can improve a receiver''s access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text''s literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do'
-version: 2
+title: 'Cross-modal reconstruction often improves a receiver''s access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text''s literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do'
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -18,6 +18,18 @@ history:
     above the text-only baseline at any stage.' The improvement is to
     a receiver's usable information (CLAIM-199); version 1's
     'never rises … at any stage' was a universal negative.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Title restated on 2026-10-19 by the promotion audit, batch 034
+    (ADR-047). Version 2 made the defeat condition a prevalence test
+    after CLAIM-238 but left the title saying "can improve", which
+    one item settles and no rate defeats. The first clause now
+    states the prevalence the condition tests; the garbling bound
+    (CLAIM-225) and the defeat condition are unchanged. Version 2's
+    title began: 'Cross-modal reconstruction can improve a
+    receiver's access to an implicit communicative relation, as
+    when'. Status and warrant unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,7 +60,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-199 — Proposed; the reconciliation this restatement follows, cited as open -->
 
-# CLAIM-087: Cross-modal reconstruction can improve a receiver's access to an implicit communicative relation, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do
+# CLAIM-087: Cross-modal reconstruction often improves a receiver's access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do
 
 ## The claim
 
@@ -82,3 +94,15 @@ rests on this claim, so this claim cannot rest on it without a cycle,
 and the two are already linked. This claim keeps the improvement for a
 given receiver as its conclusion, with the bound as the condition that
 scopes it, and its warrant stays interpretive. The title is kept.
+
+## Note of 2026-10-19: the title restated as prevalence
+
+The promotion audit's batch 034 found the title's first clause behind
+its own defeat condition. Since version 2 the condition tests the share
+of items on which access rises above the text-only baseline by a margin,
+after [CLAIM-238](CLAIM-238.md). The title still said reconstruction "can" improve
+access, which one item settles. It now says "often", and "beyond the
+text-only baseline", which is what the condition measures. The bound in
+the last clause still scopes it: the improvement is for a given receiver
+([CLAIM-199](CLAIM-199.md)), never past what an ideal receiver could do ([CLAIM-225](CLAIM-225.md)). The
+warrant stays interpretive, because no chain has been run.
