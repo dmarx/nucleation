@@ -1,0 +1,63 @@
+# record/promotion-audit/decisions/THEORY-686.yaml
+id: THEORY-686
+batch: batch-009
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    After correction, the whole account. (1) A monotone observation
+    satisfies Φ(a) ∨ Φ(b) ≤ Φ(a ∨ b), and has a generative effect when the
+    inequality is strict (Def. 1.93), as in the partition example. (2) Left
+    adjoints preserve all joins (Prop. 1.111). (3) Out of a preorder with all
+    joins, a monotone map preserving all joins is a left adjoint (Thm
+    1.115). All three are re-derived below, which meets the promote_when
+    under ADR-047 v2.
+  excluded: >-
+    The title's "the observations that never do so are exactly the left
+    adjoints". "Never doing so" means having no generative effect, which
+    concerns binary joins only. That is weaker than preserving all joins,
+    and the characterisation fails for it.
+evidence:
+  - "NOTE-601 is Skimmed. Chapter 1 was read closely and its exercises were not worked. The promote_when asks for a read proof of Prop. 1.111 and Thm 1.115."
+  - >-
+    Re-derivation of (1): a ≤ a ∨ b, so Φ(a) ≤ Φ(a ∨ b), and likewise for b.
+    So Φ(a ∨ b) is an upper bound of Φ(a) and Φ(b), and lies above their
+    join where one exists.
+  - >-
+    Re-derivation of (2): let f ⊣ g, that is, f(p) ≤ q iff p ≤ g(q). For any
+    family (a_i) with a join, f(∨a_i) is an upper bound of the f(a_i), by
+    monotonicity. If q is any upper bound, then each a_i ≤ g(q). So
+    ∨a_i ≤ g(q), hence f(∨a_i) ≤ q. So f(∨a_i) is the least upper bound.
+    The empty family gives f(⊥) = ⊥.
+  - >-
+    Re-derivation of (3): let P have all joins and f preserve all of them.
+    Put g(q) = ∨{p : f(p) ≤ q}. Then f(g(q)) = ∨{f(p) : f(p) ≤ q} ≤ q, and
+    p ≤ g(f(p)), because p is in the set for q = f(p). Those two
+    inequalities are equivalent to f ⊣ g.
+  - >-
+    Counterexamples to the title as worded. First, on P = Q = {0 < 1}, the
+    constant map f ≡ 1 has no generative effect, since 1 ∨ 1 = 1. It is not
+    a left adjoint, because f(⊥) = 1 ≠ ⊥. Second, on P = ℕ ∪ {∞} into
+    {0 < 1}, let f(n) = 0 for finite n and f(∞) = 1. It preserves binary
+    joins and ⊥, but ∨ℕ = ∞ ↦ 1 while ∨f(n) = 0. So it is not a left
+    adjoint either. Avoiding generative effects pins down the left
+    adjoints only together with preservation of the empty join and of
+    infinite joins, which is to say preservation of all joins.
+blockers:
+  - >-
+    A material overstatement in the title, and in the matching sentence of
+    "Adjoints": "the observations without generative effects are exactly
+    the left adjoints". Restate it as: "out of a preorder with all joins,
+    the observations that preserve all joins (the empty join and infinite
+    joins included, which an absence of generative effects does not
+    guarantee) are exactly the left adjoints". Add the two counterexamples
+    to "What this does not say". With that correction the account can be
+    promoted under ADR-047 v2, using the re-derivations above.
+unlocks: []
+next_action: >-
+  Correction-and-promotion PR. Restate the title and the Adjoints sentence
+  as above, add the counterexamples, and add a dated note with the
+  re-derivations. Cite ADR-047 v2, remove the promote_when and set Active.
