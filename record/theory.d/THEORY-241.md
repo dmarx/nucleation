@@ -33,7 +33,7 @@ summary: >-
 answers:
 - QUESTION-060
 ---
-<!-- inactive-ok-file: THEORY-197 THEORY-210 THEORY-112 THEORY-230 — Proposed; accounts this one bears on -->
+<!-- inactive-ok-file: THEORY-210 THEORY-112 THEORY-230 — Proposed; accounts this one bears on -->
 
 # THEORY-241: Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves
 

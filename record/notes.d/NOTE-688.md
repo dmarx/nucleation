@@ -45,7 +45,7 @@ summary: >-
   partition function nor the exact trace condition supplies one; it is
   wrong that the target must come from supervision.
 ---
-<!-- inactive-ok-file: THEORY-202 THEORY-197 THEORY-194 THEORY-201 THEORY-186 THEORY-185 QUESTION-025 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question it bears on -->
+<!-- inactive-ok-file: THEORY-202 THEORY-194 THEORY-201 THEORY-186 THEORY-185 QUESTION-025 — Proposed or open; cited as what this reading produced, the accounts it is set beside, and the question it bears on -->
 
 # NOTE-688: Why does deep and cheap learning work so well?
 

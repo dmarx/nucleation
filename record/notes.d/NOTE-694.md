@@ -32,7 +32,7 @@ summary: >-
   condition, and says nothing to the later point that the trace condition
   does not select the coarse variables.
 ---
-<!-- inactive-ok-file: THEORY-197 THEORY-202 THEORY-194 QUESTION-025 — Proposed or open; cited as the accounts this reading bears on and the question it does not answer -->
+<!-- inactive-ok-file: THEORY-202 THEORY-194 QUESTION-025 — Proposed or open; cited as the accounts this reading bears on and the question it does not answer -->
 
 # NOTE-694: Comment on "Why does deep and cheap learning work so well?"
 
