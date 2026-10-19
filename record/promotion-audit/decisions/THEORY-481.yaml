@@ -1,0 +1,105 @@
+# record/promotion-audit/decisions/THEORY-481.yaml
+id: THEORY-481
+batch: batch-016
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    What holds, re-derived here (ADR-047 v2) from the paper's own setup
+    (LIT-859, App. A; arXiv 2504.12916v2 was retrieved for this review,
+    because NOTE-658 says the Wishart step "was followed as statements,
+    not re-derived").
+
+    Setup. In the eigenbasis, the reduced predictor is ŷ = PΛŜQx̄, with P
+    and Q diagonal (the alignment assumption) and Λ diagonal with
+    independent N(0, 1) entries (the tasks). The empirical covariance is
+    Ŝ = (1/N)Σ_i x̄_i x̄_iᵀ with x̄_i ~ N(0, S), and the query is x̄ ~ N(0, S).
+    The task-averaged loss is
+    L = E tr[(PΛŜQ − Λ) S (PΛŜQ − Λ)ᵀ]. Since E[λ_α λ_β] = δ_αβ, only
+    diagonal entries survive the average over tasks, and
+    L = Σ_α { p_α² E[(Ŝ A Ŝ)_αα] − 2 p_α q_α s_α² + s_α }, with A = QSQ,
+    so a_β = q_β² s_β.
+
+    The Wishart moment. For Gaussian x̄, E[x̄_α (x̄ᵀAx̄) x̄_α] =
+    2a_α s_α² + s_α Σ_β a_β s_β. Summing over the i = j and i ≠ j terms
+    gives E[(ŜAŜ)_αα] = ((N+1)/N) a_α s_α² + (s_α/N) Σ_β a_β s_β. So
+    L = Σ_α { ((N+1)/N) p_α² q_α² s_α³ + (1/N) p_α² s_α Σ_β q_β² s_β²
+              − 2 p_α q_α s_α² + s_α }.
+
+    (a) The infinite-context limit, N → ∞. Then
+    L = Σ_α s_α (p_α q_α s_α − 1)². Gradient flow at rate ηP gives
+    τ_α dp_α/dt = q_α(1 − p_α q_α s_α), and the same with p and q exchanged,
+    with τ_α = (ηP s_α²)⁻¹. Each p_α² − q_α² is conserved, since
+    d(p² − q²)/dt ∝ pq(1 − pqs) − qp(1 − pqs) = 0. From a balanced start,
+    a_α = p_α q_α obeys τ_α da_α/dt = (p_α² + q_α²)(1 − a_α s_α)
+    = 2a_α(1 − a_α s_α), which is logistic to a_α = 1/s_α. So each mode is
+    learned on a logistic curve with timescale proportional to s_α⁻², the
+    learning is staged by the input spectrum, and the fixed point is
+    ŷ = WŜS⁻¹x_q, which tends to Wx_q.
+
+    (b) Finite N, isotropic inputs, balanced and equal modes (S = sI,
+    p_α = p, q_α = q for every α). Then Σ_β q_β² s_β² = d q² s², and the
+    coupling term reduces to the paper's form: τ dp/dt = q(1 − pq s^∞), with
+    s^∞ = ((N+1)s + Tr S)/N. The paper's fixed point ŷ = WŜ[((N+1)/N)S +
+    (Tr S/N)I]⁻¹x_q holds in this case, and it is preconditioned only by a
+    scalar.
+  excluded: >-
+    The finite-N decoupling for general S, which the title and body state
+    as exact within the assumptions. At finite N the 1/N term
+    (1/N)(Σ_α p_α² s_α)(Σ_β q_β² s_β²) couples the modes. Each mode's flow
+    is τ_α dp_α/dt = q_α − p_α(((N+1)/N) s_α q_α² + (1/N) Σ_β q_β² s_β²/s_α),
+    not q_α(1 − p_α q_α s^∞_α). The two agree only when q_β² s_β is the same
+    for every mode. The paper's error is at (A71) and (A73): "since Ŝ and
+    q̄1 are diagonal matrices and commute" and "all matrices in the
+    expression are diagonal". Ŝ is the rotated empirical covariance. It is
+    not diagonal at finite N, and x̄_q x̄_qᵀ is rank one, so the commutation
+    turns E[ŜAŜ] into E[Ŝ²]A, which replaces Σ_β a_β s_β with a_α Tr S. It
+    is also inconsistent: Ŝ is treated as diagonal, which is exact only as
+    N → ∞, yet the Wishart moment's 1/N correction is kept. Consequences:
+    per-mode conservation of p_α² − q_α² fails at finite N. The global
+    ‖p₂‖² − ‖q₁‖² is still conserved, since L is invariant under P → cP,
+    Q → Q/c, and that is NOTE-658's C4 as written. Per-mode logistic curves
+    and the s^∞_α of Eq. 11 are approximations at finite N for anisotropic
+    S, and nothing in the paper bounds the error. The agreement with Ahn et
+    al. and Zhang, Frei & Bartlett is with analyses whose task vectors are
+    isotropic, where the Tr S term does arise. Also excluded, unchanged:
+    whether misaligned weights align. The promote_when tests this, but the
+    title assumes alignment, so the promote_when is mis-targeted (NOTES,
+    batch 010). Excluded too: anything about softmax or deep transformers.
+evidence:
+  - "LIT-859 arXiv v2, Appendix A.11, (A70)–(A83), retrieved for this review: the reordering 'since Ŝ and q̄1 are diagonal matrices and commute' at (A71), 'all matrices in the expression are diagonal' at (A73), and E[Ŝ²] = ((N+1)/N)S² + Tr(S)S/N used at (A76)–(A78)."
+  - "NOTE-658 (Read), history: the Wishart fourth-moment step 'followed as statements, not re-derived'. Claims table: C2 is strong (derivation) within the assumptions; C4 is global conservation."
+  - "The derivation above: the correct E[(ŜAŜ)_αα], the loss, (a) the exact N → ∞ dynamics, and (b) the finite-N case with isotropic inputs and equal modes."
+blockers:
+  - "THEORY-481 states the finite-N per-mode logistic dynamics, the per-mode conservation law and s^∞_α = ((N+1)s_α + Tr S)/N as exact under its assumptions. They follow from an invalid commutation in the source. Correct the title and body first: exact as N → ∞; exact at finite N for isotropic inputs with equal modes; otherwise modes couple at order 1/N, and only the global conservation law holds."
+notes: >-
+  This is the first wave-3 review where checking a source's derivation
+  found an error in the source, not in the record's reading of it. The
+  NOTE was honest about which step it did not re-derive, and that step is
+  where the error is. A NOTE history line saying "followed as statements,
+  not re-derived" is the place to look, and the step it names is where to
+  re-derive first. After correction the entry has a clean
+  narrow-and-promote path: the title becomes the N → ∞ statement plus the
+  isotropic finite-N case. The promote_when about reaching alignment moves
+  to a QUESTION, since the title assumes alignment. That needs its own
+  review after the correction merges, because a correction PR should not
+  also change status. Rubric: depth scored 2 from "read in full", but the
+  NOTE's own history marks the decisive step as not re-derived, so depth
+  should be scored per claim, not per NOTE. Bundling 2 and extends 1 were
+  real but not what decided this. CLAIM-118 uses only "learned on its own
+  slow, logistic timescale", which survives as the N → ∞ statement and as
+  an approximation.
+unlocks: []
+next_action: >-
+  Correction PR, with status unchanged. Correct THEORY-481's title and body
+  as in the blocker. Write the corrected Wishart moment and the coupled
+  finite-N flow as a dated note citing this decision, batch 016 and
+  ADR-047. Add a dated history note to NOTE-658 recording the error at
+  (A71)/(A73) and that its claims table's C2 holds exactly only as N → ∞,
+  or for isotropic inputs with equal modes. Then requeue THEORY-481 for a
+  narrow-and-promote review: the title becomes the N → ∞ statement plus
+  the isotropic case, and the alignment promote_when moves to a new
+  QUESTION.

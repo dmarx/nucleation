@@ -1,0 +1,50 @@
+# record/promotion-audit/decisions/THEORY-079.yaml
+id: THEORY-079
+batch: batch-016
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing is promotable now. The pieces the argument assembles are each
+    held elsewhere. BMR's exact identity is THEORY-081, which is Active.
+    The Laplace closed form is LIT-620 Eq. 9 and LIT-614 Eq. 11. Singular
+    free energies grow as λ log n, with λ below the Gaussian half-dimension
+    for the reduced-rank models of LIT-616 Table 3 (λ = 15, 16, 17 against
+    16, 17.5, 18 for ranks 4–6 of a rank-3 truth).
+  excluded: >-
+    The claim itself, that Laplace BMR's free-energy differences between
+    reductions of a singular parent are wrong by a term growing in log n.
+    The summary marks it "the filer's synthesis, stated by no source". It
+    presupposes THEORY-087's singular half, which is Proposed. It is an
+    asymptotic statement about what a Gaussian fitted at the peak of a
+    singular posterior assigns to reduced sets. Settling it needs either
+    the comparison its promote_when names or an asymptotic analysis of
+    Eq. 9 at a singular parent. No short re-derivation covers it. Whether
+    the Laplace complexity of the rank-6 fit is the half-dimension, or
+    something else, depends on the Hessian at a finite-n fitted point near
+    the singular set. That is the open step.
+evidence:
+  - "THEORY-079's summary: 'The filer's synthesis, stated by no source.'"
+  - "THEORY-079's body: 'That step is the filer's, made from the paper's definition' (the bound λ ≤ r/2 at smooth points of the optimal set)."
+  - "LIT-616 Table 3 (read in NOTE-473): RLCTs below half-dimensions for reduced-rank regression."
+  - "THEORY-087 (presupposed): Proposed."
+blockers:
+  - "The comparison its promote_when names. On LIT-616 §6's reduced-rank regression (M = N = 6, true rank 3), compare the BMR differences between ranks 1–6 with free energies computed independently of Laplace, by thermodynamic integration or WBIC, over at least two decades of n, and test whether the discrepancy grows linearly in log n."
+  - "THEORY-087's singular half, which this account presupposes, must be Active first."
+notes: >-
+  The triage-004 score of 7 overstates the fit. Bundling scored 2 because
+  the promote_when's "what cannot settle it" list and the body's
+  disclaimers share vocabulary (simulation, ranking, Laplace re-fits). They
+  echo each other without bundling a separable core. Firsthand scored 1,
+  but the summary says no source states the claim. Depth 2 is true of the
+  NOTEs and beside the point, because what is unproved is the synthesis,
+  not the readings. This is the shape NOTES anticipated for wave 3: a
+  synthesis whose settling result is an experiment the record has not run.
+unlocks: []
+next_action: >-
+  None now. Re-review when THEORY-087's singular half is promoted, or when
+  a LIT reporting the reduced-rank comparison is read. A proposed-study
+  entry could hold the experiment's design if the owner wants it run.

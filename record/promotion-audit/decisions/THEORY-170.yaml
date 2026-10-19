@@ -1,0 +1,50 @@
+# record/promotion-audit/decisions/THEORY-170.yaml
+id: THEORY-170
+batch: batch-016
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing. The entry reports Jakobson's 1959 argument faithfully (LIT-786,
+    pp. 235–236, read in NOTE-614), and its "What this does not say" section
+    is careful. But it is an empirical thesis about what translators do and
+    what chains of translation lose, and the support is worked examples.
+  excluded: >-
+    All three parts. Obligation (grammars differ in what they force a
+    speaker to say). The translation consequence (renderings add answers to
+    the target's obligatory questions and drop the source's). The chain
+    claim (round trips erode content, less so with richer context). The
+    promote_when asks for a study measuring these on the same items, and it
+    excludes "restatements of Jakobson or Boas, and examples chosen to
+    illustrate the thesis". The entry offers nothing beyond those: "Nothing
+    was tested; the support is argument from worked examples." The two
+    later accounts the record holds, Nida (LIT-791) and House (LIT-789),
+    are Unavailable and unread.
+evidence:
+  - "THEORY-170: 'Nothing was tested; the support is argument from worked examples.'"
+  - "THEORY-170: the chain claim is 'a could', stated through an analogy, with the damping by context asserted."
+  - "LIT-791 and LIT-789: Unavailable (inactive-ok directives on THEORY-170)."
+blockers:
+  - "A study of human or machine translation between languages that differ in an obligatory category (number, aspect, gender, evidentiality, definiteness). It must measure, on the same items, forced marking where the source was unspecified and the dropping of source distinctions the target lacks. For the chain half, it must measure round-trip loss against single steps, as a function of context."
+notes: >-
+  The obligation half looks like linguistic fact rather than theory. The
+  Russian aspect and gender choices, and the dual, are standard
+  descriptive grammar. Still, the promote_when deliberately rules out
+  illustrative examples, and the owner wrote it, so no split on that basis.
+  Machine-translation evaluation on gender and number marking is a
+  literature that probably meets the first half (for example, studies of
+  gender bias in MT, where a source pronoun lacks gender and the target
+  forces it). That is a retrieval lead for a later pass, not evidence held
+  now. Rubric: compound 1 is accurate (", so "), but neither half is
+  supported, so it predicts nothing here. Firsthand scored 1 because the
+  phrase "nothing was tested" is not among triage_wave3.py's markers.
+  Depth 2 is true and irrelevant: reading an argument in full does not
+  turn it into a measurement.
+unlocks: []
+next_action: >-
+  None now. Retrieval lead: an MT study of gender or number marking under
+  underspecified sources (half 1), or a back-translation or round-trip
+  study by category (half 2). Re-review once one is read.
