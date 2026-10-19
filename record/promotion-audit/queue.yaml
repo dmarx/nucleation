@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 43
+version: 44
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-006
   state: in_progress
-  in_review: THEORY-236
+  in_review: THEORY-206
   next_step: 'Batch 006 (wave 2) in progress: THEORY-325, THEORY-277, THEORY-247, THEORY-236, THEORY-206,
     in that order. Finish the one in_review first.'
   cautions:
@@ -25,8 +25,8 @@ waves:
   promotion_paths: 10
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 14
-  promotion_paths: 13
+  reviewed: 15
+  promotion_paths: 14
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 0
@@ -546,6 +546,7 @@ candidates:
   disposition: split
   batch: batch-005
   decision: decisions/THEORY-017.yaml
+  carried_out_in: '#177'
 - code: THEORY-165
   wave: 2
   score: 5
@@ -583,12 +584,15 @@ candidates:
   wave: 2
   score: 4
   triage: triage-002
-  state: in_review
+  state: decided
+  disposition: split
+  batch: batch-006
+  decision: decisions/THEORY-236.yaml
 - code: THEORY-206
   wave: 2
   score: 4
   triage: triage-002
-  state: pending
+  state: in_review
 - code: THEORY-171
   wave: 2
   score: 4
@@ -792,4 +796,8 @@ history:
 - version: 43
   date: '2026-10-19'
   note: 'Batch 006: THEORY-236 in review.'
+- version: 44
+  date: '2026-10-19'
+  note: 'Batch 006: THEORY-236 split (Theorem 1 checked line by line; the column-space generalisation,
+    which covers the centred case, becomes a CLAIM). carried_out_in #177 for THEORY-017.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
