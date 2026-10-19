@@ -31,7 +31,9 @@ recommendation: >-
   share the logistic per-mode mechanism, so THEORY-187 and THEORY-229 (same
   mechanism, Proposed) are natural next candidates if not already queued.
 owner_questions: []
-promotion_prs: []
+promotion_prs:
+  - "#214: THEORY-169 and THEORY-283, narrow-and-promote (branch claude/promote-theories-169-283)."
+  - "#218: THEORY-182, THEORY-186 and THEORY-286, splits into THEORY-tmpppb1u, THEORY-tmpyyddn and THEORY-tmpbyp9v (branch claude/split-theories-182-186-286)."
 follow_up_prs:
   - "THEORY-169 and THEORY-283: narrow-and-promote. THEORY-169 to unnormalized linear attention and softmax attention, with the three re-derivations as a dated note; THEORY-283 to the estimators and the spectral-first-layer network. Each promote_when moves to a new QUESTION."
   - "THEORY-182, THEORY-186 and THEORY-286: splits. New Active THEORYs for the quartic proxy's minimisers and aligned dynamics (LIT-855), the decoupled balanced exact solution with the shallow contrast (LIT-862, LIT-864), and the UF-SVM geometry under STEP imbalance (LIT-994), each with its re-derivation as a dated note. Parents extend them and stay Proposed."
