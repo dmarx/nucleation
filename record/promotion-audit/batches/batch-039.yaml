@@ -1,0 +1,124 @@
+# record/promotion-audit/batches/batch-039.yaml
+batch: batch-039
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+selection: >-
+  Triage-006's control sample: sorted codes, every k-th, from the 62
+  formal-flagged entries outside its top 20. They are THEORY-162, -205,
+  -275, -365 and -578. Each is sorted by batch 020's rule (a theorem is
+  re-derived, a measurement goes to ADR-047 v3, an argument to wave 5).
+  Each is also recorded as formal in fact or not, meaning a theorem the
+  record can re-derive, to measure triage-006's new flag.
+reviewed: [THEORY-162, THEORY-205, THEORY-275, THEORY-365, THEORY-578]
+outcomes:
+  narrow-and-promote: [THEORY-205, THEORY-275, THEORY-365]
+  retain-proposed: [THEORY-162, THEORY-578]
+yield: >-
+  3 of 5 found a promotion path. THEORY-205 is a theorem, re-derived
+  exactly. THEORY-275 and THEORY-365 are single-study measurements under
+  ADR-047 v3. All three are carried out in one PR.
+control:
+  - code: THEORY-162
+    formal_score: 2
+    signals: [cites, derived]
+    title_asserts: argument
+    formal_in_fact: false
+    outcome: retain-proposed
+    why: >-
+      A philosophy-of-language thesis resting on judgement data. Veltman's
+      numbered proposition is cited but does not carry the title. The
+      philosophical-title penalty missed it because its word list lacks
+      "is part of its meaning".
+  - code: THEORY-205
+    formal_score: 3
+    signals: [title, relation, derived]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+    why: >-
+      An exact SVD of the block–environment channel and the IB second
+      variation give the bifurcation at (λ0/λ1)^(2n). It is narrowed
+      because the global first transition can come earlier (1/s* < 1/ρ²),
+      shown on a 3-state chain.
+  - code: THEORY-275
+    formal_score: 2
+    signals: [relation, derived]
+    title_asserts: measurement
+    formal_in_fact: false
+    outcome: narrow-and-promote
+    why: >-
+      Estimated TE and delayed MI in one bead experiment and its fitted
+      model. The flag fired on the analytic covariance formulas in the
+      body.
+  - code: THEORY-365
+    formal_score: 2
+    signals: [title, relation]
+    title_asserts: measurement
+    formal_in_fact: false
+    outcome: narrow-and-promote
+    why: >-
+      Measured scaling curves. The flag fired on "logarithmically" and on
+      a per-layer step formula from a sketch whose assumption the title
+      itself says is unmet.
+  - code: THEORY-578
+    formal_score: 2
+    signals: [title, relation]
+    title_asserts: measurement
+    formal_in_fact: false
+    outcome: retain-proposed
+    why: >-
+      One figure, no numbers in the text (batch 019). The flag fired on
+      "Fisher–Rao geodesic" and a defining equation.
+control_verdict: >-
+  The formal flag was right on 1 of 5. Its only true hit is the one entry
+  scoring 3, and all four scoring 2 are false. That fits triage-006's own
+  doubt that the score-2 band is noisy: its four labelled false flags also
+  sat at 2. The "relation" signal fired on four of the five, three of them
+  wrongly. Equations appear in measurement and argument bodies as
+  definitions or estimator formulas, not only as results. Batch 020's sort
+  by what the title asserts again got all five right. Yield came anyway:
+  two of the false flags are measurements that promote under v3. The flag
+  failed at classifying entries, not at finding promotions.
+finding: >-
+  The flag does not pick out formal entries at score 2. As a queue it
+  still yielded 3 of 5, because formal-looking bodies tend to report
+  their measurements precisely enough for v3. For routing, use the title
+  sort. For ordering, score 3 and above is the formal list; score 2 is a
+  mixed list worth reviewing, but not as re-derivation work.
+recommendation: >-
+  Before batching triage-006's formal_route 11–20 and the rest of its
+  score-2 band, raise the formal threshold to 3. Or keep 2 but require
+  "derived" or "cites" together with "relation", since "relation" alone
+  fired on definitions and estimators. Sort every entry by its title as
+  usual.
+owner_questions: []
+promotion_prs: []
+notes_for_ledger:
+  - >-
+    Triage-006 control: the formal flag went 1 of 5. Only the score-3
+    entry (THEORY-205) is formal. All four score-2 entries are
+    measurements or arguments, and so were the four labelled false
+    flags. The 'relation' signal fired on definitions and estimator
+    formulas. Raise the threshold to 3, or require 'relation' together
+    with 'derived' or 'cites'.
+  - >-
+    Batch 020's title sort got 5 of 5 again. Measurements flagged formal
+    still promote under v3 (THEORY-275, -365), so the score-2 band is
+    worth reviewing as v3 work, not as re-derivation work.
+  - >-
+    IB titles saying "first transition": the linear-stability point is
+    β = 1/ρ_m², the squared top singular value of the normalised channel.
+    The point where the trivial encoder stops being optimal is 1/s*, the
+    KL contraction coefficient, and s* ≥ ρ_m², so that point can come much
+    earlier. They coincide in the symmetric Ising check (s*/ρ² = 0.999999)
+    and differ 27-fold on a skewed 3-state chain. Name the bifurcation.
+  - >-
+    The philosophical-title penalty's word list missed THEORY-162 ("is
+    part of its meaning"). Thesis-shaped titles about what meaning,
+    content or understanding "is" should count.
+  - >-
+    Checking a NOTE's quotations against the source's extracted text
+    (THEORY-365) is quick when the arXiv PDF is reachable, and it settles
+    batch 018's 'title rests only on results the text reports' directly.

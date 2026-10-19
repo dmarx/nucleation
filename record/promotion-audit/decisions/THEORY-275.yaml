@@ -1,0 +1,60 @@
+# record/promotion-audit/decisions/THEORY-275.yaml
+id: THEORY-275
+batch: batch-039
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    The title narrowed to the one system it was measured in (ADR-047 v3):
+    two optically trapped beads with a symmetric hydrodynamic coupling,
+    one trap moved by a recorded Ornstein–Uhlenbeck drive (LIT-947, read
+    in full in NOTE-788).
+      - At θ = 0.56 and ε = 0.49, in experiment and numerics,
+        time-delayed MI and transfer entropy order drive → driven bead →
+        other bead.
+      - The reverse inter-bead measures also peak, so the flow reads both
+        ways (λ → x₁ ⇄ x₂).
+      - At θ = 5.6, in numerics of the fitted linear model only, the
+        inter-bead flow reads one way, TE_{x₁→x₂} ≫ TE_{x₂→x₁}.
+      - Without the drive, the beads are independent at steady state and
+        the delayed measures are symmetric.
+      - The coupling tensor is the same symmetric one throughout.
+    Each result is stated in the paper's text (App. D, F, H, §IV), which
+    meets batch 018's reading of v3, although the figures were read from
+    their captions. The title's results are orderings, not numbers.
+  excluded: >-
+    "Two symmetrically coupled units" as a general class. The study is
+    one linear, Gaussian, two-body system at two values of ε and four of
+    θ, and its body says nothing is shown for nonlinear units or more
+    than two. Also excluded is "follow the path of a recorded drive, not
+    the symmetry of the coupling" as a general law. In this system it is
+    what the measurements show, and the narrowed title says it of this
+    system only. The one-way regime is a model simulation, and the
+    narrowed title marks it as one. The promote_when (a second system,
+    with strong drive measured) moves to a QUESTION.
+evidence:
+  - "NOTE-788 version 2: read in full from arXiv:2504.10124v2, §§I–V and Appendices A–H; figures read from captions and text. C1 moderate, C2 weak to moderate."
+  - "THEORY-275's 'What this does not say': one linear Gaussian two-body system; strong-drive result not experimental."
+blockers: []
+notes: >-
+  Medium confidence because C2, the two-way-then-one-way reading, is rated
+  weak to moderate. NOTE-788 also notes that the surrogate threshold tests
+  against independence, not against a symmetric-coupling null, so
+  "two-way" means both directions are above the shuffle threshold. The
+  narrowed title says "reads" for that reason. Triage-006 flagged it
+  formal at score 2 (relation, derived), from the analytic covariance and
+  TDMI expressions. The title rests on estimates and simulations, not on
+  those expressions. False flag. A real formal core is available: in a
+  linear Gaussian OU pair, delayed MI asymmetry is c_xy(τ)² − c_yx(τ)²,
+  and the strong-drive limit could be derived from the covariance. Nobody
+  has done this, and it is the cheapest way to raise confidence.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the bead system with the two regimes, the
+  strong one marked as numerics. Move the promote_when unchanged to a new
+  QUESTION on QUESTION-063's line.

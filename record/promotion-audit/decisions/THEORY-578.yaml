@@ -1,0 +1,41 @@
+# record/promotion-audit/decisions/THEORY-578.yaml
+id: THEORY-578
+batch: batch-039
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing for promotion. The "can" is the right shape for one instance
+    (NOTES, batch 008), but the instance is not held in a form ADR-047 v3
+    accepts.
+  excluded: >-
+    The whole title, for now. Its one instance is one pair of 4x-width
+    ResNet-20s, and the low loss along the chain is known only from
+    Fig. 2, which NOTE-521 read from its caption and the text. The paper
+    reports no numbers in the text. Batch 019's rule ("v3 needs the
+    numbers in the text") therefore fails, as it did for THEORY-292. The
+    formal-looking part of the title, that a chain minimising summed JSD
+    is a discretised Fisher–Rao geodesic, is the paper's Eq. 1–2 gloss
+    (the Fisher–Rao length is √8 ∫ √dJSD to leading order, and the
+    energy's minimiser is the constant-speed path). It is a standard
+    identity that the title uses as a description, not a result the
+    title asserts.
+evidence:
+  - "NOTE-521: read in full (4 pages); 'Figure 2's curves were read from its caption and the text; no numbers are reported in the text'. C1 is rated weak: one pair, one figure, no numbers in text."
+  - "THEORY-578's body: the chain may be low-loss almost by construction, since neighbours that agree in output stay near the endpoints' function; the promote_when's control is for this."
+blockers:
+  - "No numbers in the text for the one instance (batch 019)."
+  - "The by-construction worry is open, and the promote_when's control chain has not been run."
+notes: >-
+  Triage-006 flagged it formal at score 2 (title, relation): "geodesic"
+  and "Fisher–Rao" in the title, and Eq. 1 in the body. The title asserts
+  a measurement; the equation is a definition it leans on. False flag.
+  The anthology-candidate flag stands: loss landscapes are the
+  anthology's ground. Whether to move it is the owner's call.
+unlocks: []
+next_action: None until the figure's values are read from the plotted curves or a second source states numbers. Stays in wave 3 as retained.

@@ -1,0 +1,40 @@
+# record/promotion-audit/decisions/THEORY-162.yaml
+id: THEORY-162
+batch: batch-039
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: false
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is a thesis in the philosophy of language, that
+    context-change potential is part of meaning and is underdetermined by
+    truth conditions. It rests on three bodies of judgement data
+    (Heim's marble and spouse pairs, Veltman's order-sensitive "might"
+    sequences, Krifka's declarations) and on frameworks that model them.
+    Its own body says "Not a measurement" and "Not that static rivals have
+    been refuted". Veltman's Proposition 1.2 (a dynamic system reduces to
+    a static one exactly when it is additive) is a theorem, but the title
+    does not rest on it: the title needs the further, empirical premise
+    that natural-language "might" is a test, which is the judgement data.
+    The promote_when asks for a developed static rival to be read and
+    checked against the three contrasts. No such rival (E-type, situation
+    semantics, a pragmatic account of "might") is held.
+evidence:
+  - "NOTE-608 (Heim), NOTE-617 (Veltman), NOTE-602 (Krifka): each read in its cited sections; the data are constructed examples with intuitive judgements."
+  - "THEORY-162's own 'What this does not say': not a measurement, static rivals not read, the three formalisms are not one theory."
+blockers:
+  - "The promote_when's comparison with a static rival needs a reading the record does not hold."
+notes: >-
+  Triage-006 flagged it formal at score 2 (cites, derived): the body cites
+  Veltman's numbered Proposition, and a source NOTE records a step-by-step
+  reading of a derivation. Neither carries the title. This is a false
+  flag of the kind the philosophical-title penalty was meant to catch; the
+  title says "is part of its meaning", which the penalty's word list
+  (thesis, argument, account, should) does not contain.
+unlocks: []
+next_action: None. Move to wave 5 in the queue; the next step is a reading of a static rival, which is the promote_when.
