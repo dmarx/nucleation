@@ -1,0 +1,42 @@
+# record/promotion-audit/batches/batch-015.yaml
+batch: batch-015
+date: '2026-10-19'
+kind: evidence-audit
+wave: 4
+record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+selection: >-
+  The dependency follow-ups named in #183 (CLAIM-107's stale THEORY-158
+  directive), #185 (CLAIM-269 and CLAIM-193 against THEORY-723 and
+  THEORY-004) and #187 (CLAIM-164 against CLAIM-377; CLAIM-148 against
+  THEORY-726). THEORY-239, also named in #187, is a wave-2 candidate and is
+  left to its batch.
+reviewed: [CLAIM-269, CLAIM-193, CLAIM-107, CLAIM-148, CLAIM-164]
+outcomes:
+  split: [CLAIM-269]
+  needs-correction: [CLAIM-107, CLAIM-148, CLAIM-164]
+  retain-proposed: [CLAIM-193]
+yield: 1 of 5 found a promotion path (CLAIM-269's split); three are corrections to Active entries
+finding: >-
+  A dependency pass after a run of splits is mostly evidence hygiene on
+  entries that are already Active. Three of five candidates (CLAIM-107,
+  -148, -164) were Active claims citing a THEORY whose status or scope a
+  split had changed. The fix is to point the citation at the entry that now
+  holds the part used, not to change any status. Only CLAIM-269 had a real
+  promotion path, and that was batch 004's split, waiting on THEORY-008.
+  THEORY-723 did not help: a split's new entry holds the parent's proved
+  core, and the dependents often cite the parent for the other half
+  (here THEORY-002's symmetry-of-observation clause).
+recommendation: >-
+  After each split PR merges, list the entries that ground on or cite the
+  parent, and check which half each one uses. Do it in the split PR itself
+  when the list is short; it saves a batch.
+owner_questions: []
+follow_up_prs:
+  - "CLAIM-269: split. New demonstrated CLAIM, Active, formal-apparatus: the readout result on a finite stimulus set (b > 0: orthogonal orbit; b = 0: general linear orbit), grounded on THEORY-008, THEORY-004 and THEORY-723, resting on CLAIM-290. CLAIM-269 rests on it and stays Proposed."
+  - "CLAIM-107, CLAIM-148, CLAIM-164: corrections, statuses unchanged. CLAIM-107 drops 'Proposed' for THEORY-158 and its directive; CLAIM-148 re-grounds THEORY-180 → THEORY-726 and THEORY-017 → THEORY-721; CLAIM-164 gets a note citing CLAIM-377 for THEORY-084's established part."
+notes_for_ledger:
+  - "Wave 4 counts: 5 reviewed, 1 promotion path (CLAIM-269 split)."
+  - "CLAIM-107 was decided in batch 003 (narrow-and-promote, carried out in #173); its decision file is overwritten with supersedes_review, disposition needs-correction. CLAIM-193 (batch 003, needs-correction, carried out) and CLAIM-269 (batch 004, split) likewise. The queue entries for these three need their batch and disposition updated."
+  - "CLAIM-148 and CLAIM-164 are new to the queue: add them as wave-4 candidates, decided."
+  - "THEORY-127's dependents, for a later batch: CLAIM-192 (Proposed, interpretive) and CLAIM-271 (Proposed, interpretive) use only the court-agenda possibility, that premise-wise and conclusion-wise majority can disagree, so each can re-ground on THEORY-725. CLAIM-030 (Active, interpretive) cites 'a rational group cannot judge proposition by proposition from its members' judgments', which is the general impossibility (Propositions 2–3), still THEORY-127's; THEORY-725's Proposition 1 is one instance of it, enough as a formal anchor if the text says 'can fail to', not 'cannot'."
+  - "Pattern: an Active claim with a Proposed ground and an inactive-ok directive is a cheap wave-4 find after a split. Grep for directives naming a split parent."

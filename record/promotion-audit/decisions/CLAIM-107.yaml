@@ -1,48 +1,45 @@
 # record/promotion-audit/decisions/CLAIM-107.yaml
 id: CLAIM-107
-batch: batch-003
+batch: batch-015
 reviewed: '2026-10-19'
-reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
-current_status: Proposed
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Active
 warrant: demonstrated
-disposition: narrow-and-promote
+disposition: needs-correction
 confidence: high
+supersedes_review:
+  batch: batch-003
+  disposition: narrow-and-promote
+  why: >-
+    Batch 003's narrow-and-promote was carried out in #173: CLAIM-107 is
+    Active at version 2. Since then #183 narrowed THEORY-158 to the finite
+    state space and promoted it. CLAIM-107 still calls THEORY-158 Proposed
+    and carries an inactive-ok directive for it. This review is that
+    follow-up, which #183 left on purpose (NOTES, batch 009).
 scope:
   accepted: >-
-    The discrete-time criterion, as mean conservation. If K_i f = f for
-    every step's kernel, then E[f(S_(i+1)) | S_i] = f(S_i), so f(S_n) is a
-    martingale and E f(S_n) is invariant. If ‖K_i f − f‖∞ ≤ ε_i, then
-    |E f(S_(i+1)) − E f(S_i)| = |E[(K_(i+1) f − f)(S_i)]| ≤ ε_(i+1), so the
-    mean drifts by at most Σ ε_i. On a finite irreducible chain only
-    constants are harmonic, by the maximum principle, which the claim's note
-    of 2026-10-10 already proves. So a non-trivial exactly conserved mean
-    needs several closed classes, a restricted state space, or
-    time-dependent kernels.
+    The correction. CLAIM-107's "What it does not say" describes the
+    Noether-type equivalence as "for finite continuous-time processes",
+    needing "the second moment as well", and Baez and Fong's
+    "(THEORY-158, Proposed), cited here and not leaned on". THEORY-158 is
+    now Active with exactly that scope: on a finite state space, commuting
+    with the generator is equivalent to the mean and variance both being
+    conserved in every state. A conserved variance with a conserved mean is
+    a conserved second moment, so the two statements agree. The
+    "Proposed" is stale, and so is the directive. "Not leaned on" stays
+    true and should stay: the claim's three steps (martingale, drift
+    bound, maximum principle) use nothing from THEORY-158.
   excluded: >-
-    "Is conserved" and "a Noether-type conservation criterion" in the title.
-    Only the mean is conserved: in a walk on {0, …, N} absorbed at the ends,
-    f(x) = x is harmonic while the distribution of f(S_n) spreads to the
-    endpoints. And mean conservation does not make an observable a
-    symmetry. CLAIM-094 (Active, granted) holds both points against this
-    claim, and the Noether-type equivalence for finite continuous-time
-    processes is Baez and Fong's (THEORY-158, Proposed).
+    Making THEORY-158 a ground. The claim is about discrete-time kernels,
+    and THEORY-158 is about continuous-time generators; it is cited for the
+    limit on the Noether reading, not for any step.
 evidence:
-  - "The martingale and drift bounds are one line each, checked for this review."
-  - "CLAIM-094 (Active, granted, objects to this claim): 'A harmonic observable conserves only its mean, and Baez and Fong show that mean conservation for every initial state does not make an observable a symmetry'."
-  - "The defeat condition (an observable meeting the criterion whose distribution drifts in a way the manuscript counts as non-conservation) is met by the absorbing walk if 'conserved' means more than the mean. The manuscript itself calls its bounds expectation-preservation only."
+  - "THEORY-158 version 2 (#183): Active; title 'an observable commutes with the generator exactly when its mean and variance are both conserved in every state'."
+  - "CLAIM-107, 'What it does not say', second bullet, and the inactive-ok-file directive for THEORY-158."
 blockers: []
-notes: >-
-  A claim with an Active granted objection is a cue that the granted point
-  should be in the claim's own statement. The narrowed title is roughly
-  "Under Markov reconstruction kernels, an observable's expectation is
-  invariant when the observable is harmonic (K f = f), and drifts by at
-  most Σ ε_i when ‖K_i f − f‖∞ ≤ ε_i; on a finite irreducible chain only
-  constants are harmonic." The Noether connection moves to a "what it
-  does not say" line citing CLAIM-094 and THEORY-158. Restate the defeat
-  condition as an error in the martingale or drift bound.
 unlocks: []
 next_action: >-
-  Promotion PR. Narrow the title and defeat condition as above, keep the
-  body's derivation and maximum-principle note, cite CLAIM-094 for the
-  limit, and set Active. THEORY-158 stays Proposed and is cited, not leaned
-  on.
+  Correction PR: change "(THEORY-158, Proposed), cited here and not leaned
+  on" to "(THEORY-158), cited here and not leaned on", remove the THEORY-158
+  inactive-ok-file directive, bump the version with a dated history note.
+  Status unchanged.

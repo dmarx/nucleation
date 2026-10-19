@@ -1,51 +1,67 @@
 # record/promotion-audit/decisions/CLAIM-269.yaml
 id: CLAIM-269
-batch: batch-004
+batch: batch-015
 reviewed: '2026-10-19'
-reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
 current_status: Proposed
 warrant: demonstrated
 disposition: split
 confidence: high
+supersedes_review:
+  batch: batch-004
+  disposition: split
+  why: >-
+    Same disposition, now unblocked. Batch 004's split waited on THEORY-008,
+    which #165 made Active for a finite stimulus set. This review re-checks
+    the readout core against the merged entries and fixes its grounds:
+    THEORY-008 and THEORY-004 (Active), with CLAIM-290 (Active), which proves
+    the finite-sample Gram step THEORY-004 cites.
 scope:
   accepted: >-
-    The readout half, re-grounded on two THEORYs and one line of algebra. On
-    a finite set of M stimuli, a regularized linear readout with
-    G = aC_X + bI decodes only through K = X G⁻¹ Xᵀ/M (THEORY-008). By the
-    push-through identity, K = Γ(aΓ + bI)⁻¹ with Γ = XXᵀ/M. For b > 0 the
-    map t ↦ t/(at + b) is injective on t ≥ 0, so Γ = bK(I − aK)⁻¹: K fixes
-    the Gram matrix. THEORY-004 (Active) then fixes X up to an orthogonal
-    transformation, after centring. So readouts with b > 0 cannot tell apart
-    two representations exactly when they differ by an orthogonal map. For
-    the CCA member (a = 1, b = 0), K = UUᵀ is the projection onto the
-    column space and fixes X only up to an invertible linear map, which is
-    THEORY-018's (Active) situation for softmax layers.
+    The readout result, on a finite set of M stimuli. A regularized linear
+    readout with G = aC_X + bI decodes only through
+    K_X = X G⁻¹ Xᵀ/M (THEORY-008). Re-derived for this review: with the
+    thin SVD X = USVᵀ and C_X = XᵀX/M, K_X = U diag(s²/(as² + bM)) Uᵀ,
+    while Γ_X = XXᵀ/M = U diag(s²/M) Uᵀ. So each eigenvalue γ of Γ_X maps to
+    k = γ/(aγ + b), with the same eigenvectors, and zero to zero. For b > 0
+    the map t ↦ t/(at + b) has derivative b/(at + b)² > 0 on t ≥ 0, so it is
+    injective with values below 1/a, and its inverse gives
+    Γ_X = bK_X(I − aK_X)⁻¹. K_X therefore fixes the Gram matrix XXᵀ. Two
+    representations with the same number of columns and the same centred
+    Gram matrix differ by a translation and an orthogonal map (CLAIM-290;
+    THEORY-004). So for b > 0, readouts cannot tell two centred
+    representations apart exactly when one is an orthogonal transformation
+    of the other. For the CCA member (a = 1, b = 0), K_X = UUᵀ is the
+    projection onto the column space, so K_X fixes X only up to an
+    invertible linear map Y = XA (both of full column rank, the same
+    column space). That is THEORY-723's and THEORY-018's situation for a
+    softmax layer.
   excluded: >-
-    The clauses grounded on THEORY-002 and THEORY-019 (both Proposed): that
-    kernels fix representations "up to the symmetry group of what is
-    observed", which is a statement about converging kernels and the
-    data's symmetries, not about the representation's orthogonal freedom;
-    and that degeneracy does not identify the symmetry. Also the gloss
-    "supplied by the analyst".
+    CLAIM-269's clauses grounded on THEORY-002 and THEORY-019, both still
+    Proposed: that converging kernels fix a representation "up to the
+    symmetry group of what is observed", and that spectral degeneracy does
+    not identify the symmetry. THEORY-723, split from THEORY-002 in #185,
+    holds the softmax identifiability results, not the symmetry-of-data
+    clause, so it cannot replace THEORY-002 there. Also the gloss that any
+    further distinction is "supplied by the analyst".
 evidence:
-  - "Push-through: X(cXᵀX + bI)⁻¹Xᵀ = XXᵀ(cXXᵀ + bI)⁻¹, with c = a/M; checked by the thin SVD X = USVᵀ, which gives K = U diag(s²/(as² + bM)) Uᵀ."
-  - "THEORY-004 (Active): a centred kernel determines a representation up to a translation and an orthogonal transformation."
-  - "THEORY-008 states the decoding identities on a finite stimulus set. PR #165 promotes it confined to finite M. Until #165 merges it is Proposed on main."
+  - "THEORY-008 (Active, #165): on a finite set of stimuli the decoded signal is K_X z, K_X = X G(X)⁻¹ Xᵀ/M, with G = aC_X + bI (LIT-257 eqs. 2, 4, 7–8)."
+  - "Push-through re-derived above from the thin SVD; the inverse Γ = bK(I − aK)⁻¹ needs b > 0 and holds on the whole space because K and Γ share eigenvectors."
+  - "CLAIM-290 (Active, demonstrated): two finite representation matrices with the same centred Gram matrix differ by a translation and an orthogonal map; THEORY-004 cites it for that step."
+  - "THEORY-019 and THEORY-002 are Proposed on 9ca3a0dc; THEORY-723 (Active) is the identifiability half of THEORY-002, not its symmetry clause."
 blockers:
   - >-
-    The split's Active half grounds on THEORY-008, Active only once PR #165
-    merges. The split PR should wait for #165, or ground the first step on
-    LIT-257 directly with NOTE-834's re-derivation.
-  - >-
     The remainder (the THEORY-002 and THEORY-019 clauses) stays Proposed
-    until those THEORYs are promoted. Its demonstrated warrant should then
-    be checked again: "the symmetry of what is observed" is a reading of
-    THEORY-002, not a derivation.
+    until those THEORYs are promoted. Wave-2 review of THEORY-019 is pending
+    in the queue's mathematics class; THEORY-002 keeps its Platonic reading.
 unlocks:
-  - "CLAIM-193 rests on this claim; its correction (decisions/CLAIM-193.yaml) already assumes the formal core lives here."
+  - >-
+    CLAIM-193 rests on CLAIM-269. It stays Proposed on CLAIM-142 regardless
+    (decisions/CLAIM-193.yaml), so the split unlocks nothing there.
 next_action: >-
-  Split PR after #165 merges. File the readout result (b > 0: orthogonal
-  orbit; b = 0: general linear orbit) as a demonstrated claim, Active,
-  grounded on THEORY-008 and THEORY-004, line formal-apparatus. CLAIM-269
-  keeps the symmetry-of-observation clauses, rests on the new claim, and is
-  re-checked for its warrant.
+  Split PR. File the readout result as a demonstrated CLAIM, Active, line
+  formal-apparatus, grounded on THEORY-008, THEORY-004 and THEORY-723,
+  resting on CLAIM-290, with the derivation above as its body. CLAIM-269
+  rests on the new claim, keeps its title and its THEORY-002 and THEORY-019
+  clauses, and stays Proposed. Its history note says which part is now held
+  Active.
