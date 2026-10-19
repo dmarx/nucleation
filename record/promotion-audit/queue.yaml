@@ -10,13 +10,13 @@ handoff:
   state: paused
   in_review: null
   next_step: 'Paused by the parent session on 2026-10-19 until the open PRs merge. #166 (this ledger)
-    merged. Open from this audit: #165, #167-#165''s successors through #187; batch 010''s are #186 (THEORY-014
-    promote; THEORY-021 narrow-and-promote) and #187 (splits of THEORY-565, -084, -180). Many PRs trim
-    the same inactive-ok lines, so merge in number order and resolve conflicts by keeping both trims.
-    When resuming: wave 2 has 16 pending (review in code order, per batch 010); start wave 3 (source-backed
-    THEORYs) in parallel; THEORY-157 is held (definitions to check against the source''s diagrams); THEORY-277
-    is deferred at Lemma C.4; follow-ups named in #185 (CLAIM-269, CLAIM-193 re-grounding) and #187 (THEORY-239,
-    CLAIM-164, CLAIM-148).'
+    merged. Open from this audit: #165 and #167-#187; batch 010''s are #186 (THEORY-014 promote; THEORY-021
+    narrow-and-promote) and #187 (splits of THEORY-565, -084, -180). Many PRs trim the same inactive-ok
+    lines, so merge in number order and resolve conflicts by keeping both trims. When resuming: wave 2
+    has 16 pending (review in code order, per batch 010); start wave 3 (source-backed THEORYs) in parallel;
+    THEORY-157 is held (definitions to check against the source''s diagrams); THEORY-277 is deferred at
+    Lemma C.4; follow-ups named in #185 (CLAIM-269, CLAIM-193 re-grounding) and #187 (THEORY-239, CLAIM-164,
+    CLAIM-148).'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
