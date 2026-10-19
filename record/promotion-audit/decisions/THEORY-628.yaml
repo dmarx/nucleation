@@ -1,0 +1,40 @@
+# record/promotion-audit/decisions/THEORY-628.yaml
+id: THEORY-628
+batch: batch-041
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes_review:
+  batch: batch-035
+  disposition: retain-proposed
+  why: Reviewed then as wave 3; same blockers, now judged as an argument (wave 5).
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_type: argument
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title, judged as an argument on its own terms (wave 5). It
+    makes three claims: autopoiesis as defined gives only an all-or-nothing
+    norm visible to an observer; a graded norm the system has needs
+    adaptivity; sense-making and agency need adaptivity. The first is a
+    reading of autopoietic theory that Di Paolo himself qualifies (note 1:
+    later formulations may contain adaptivity). The second and third are
+    argued from chosen cases (the bacterium, the cliff), which the
+    promote_when rules out as a test. THEORY-666 (Weber and Varela), the
+    declared rival, holds that self-production suffices for sense-making
+    and is still Proposed; neither paper settles it, as the entry says.
+evidence:
+  - "NOTE-719 version 1, read in full; claims C1 and C2 rated moderate, supported by a reading of the primary texts and conceptual argument."
+  - "THEORY-666: Proposed, version 1. No commits to THEORY-628, NOTE-719 or THEORY-666 after cb938c23."
+blockers:
+  - "The promote_when asks for a worked case with the viability set and state space stated formally. That is not an argument, and a record-built toy model would build regulation in by construction (batch 035)."
+  - "An open rival (THEORY-666) disputes the central necessity claim."
+notes: >-
+  The formal restatement NOTE-719 suggests (the constraint set K or the
+  viability kernel, via the Active THEORY-134) is what could make a real
+  worked case possible. That is new work, not a review. A
+  reported-argument narrowing waits on the THEORY-351 owner question, as
+  for THEORY-071.
+unlocks: []
+next_action: None, unless the owner rules that reported-argument titles are promotable (THEORY-351 question).

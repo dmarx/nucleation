@@ -1,0 +1,44 @@
+# record/promotion-audit/decisions/THEORY-071.yaml
+id: THEORY-071
+batch: batch-041
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes_review:
+  batch: batch-033
+  disposition: retain-proposed
+  why: Reviewed then as wave 3; same blockers, now judged as an argument (wave 5).
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_type: argument
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title, judged as an argument on its own terms (wave 5). Its
+    necessity half ("requires individuality, interactional asymmetry and
+    self-generated normativity") is argued from the Table 1 cases of
+    LIT-566, from which the definition was built, so the cases cannot also
+    test it, as the promote_when itself says. Its exclusion half
+    ("individuality without the other two is not agency") follows from
+    the definition, so it is no stronger than the definition. Joint
+    sufficiency rests on the authors' failure to conceive a
+    counterexample. The asymmetry criterion depends, by the authors' own
+    account, on how the modeller splits parameters from variables, which
+    is the gap the promote_when names. THEORY-583 (Levin), its declared
+    rival, is still Proposed and disagrees about the homeostat, so a
+    disputed case remains unanswered.
+evidence:
+  - "NOTE-458 version 1, read in full; unchanged since batch 033 (no commits to THEORY-071, NOTE-458 or THEORY-583 after cb938c23)."
+  - "THEORY-583: Proposed, version 1."
+blockers:
+  - "The promote_when's mechanical procedure (closure and normativity measures and a modeller-independent asymmetry criterion, applied to a protocell, an evolved controller and a homeostat) does not exist. An argument cannot meet it; it asks for a worked procedure."
+  - "An unanswered rival on a named case: THEORY-583, itself retained in batch 020."
+notes: >-
+  No narrowing helps. Its premises are the definition's own clauses, not
+  record entries that could be reviewed separately. A narrowing to
+  "Barandiaran, Di Paolo and Rohde argue that ..." would be an accurate
+  report, but whether a title that reports an argument is promotable is
+  the owner question batch 032 raised on THEORY-351. Until that is
+  settled, judge the title as the thesis argued.
+unlocks: []
+next_action: None, unless the owner rules that reported-argument titles are promotable (THEORY-351 question).

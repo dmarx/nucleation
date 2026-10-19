@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/THEORY-485.yaml
+id: THEORY-485
+batch: batch-041
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes_review:
+  batch: batch-033
+  disposition: retain-proposed
+  why: Reviewed then as wave 3; same blockers, now judged as an argument (wave 5).
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_type: argument
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title, judged as an argument on its own terms (wave 5). Its
+    first clause (C1) is close to analytic once spacetime-restricted and
+    fundamental-physical closure are defined, which makes it true but too
+    thin to split as a core (as batch 033 found). The weight is on "so
+    quantum ontology opens no causal gap", which needs P7, that quantum
+    theories deliver dynamical and not causal structure. LIT-164 asserts
+    P7 with a citation to Ney (2016), and nothing in the record argues it:
+    a search for entries that bear on a dynamical-to-causal bridge found
+    only causal-set and causal-space entries on another subject. The
+    sorting of Ney (2021), Chalmers and McQueen (2022) and Bikaraan-Behesht
+    (2022) has not been checked against those texts, which the record does
+    not hold.
+evidence:
+  - "NOTE-112 version 2: the PhilSci-Archive preprint read in full; it rates C1 close to analytic and the §5 generalization weak."
+  - "No commits to THEORY-485 or NOTE-112 after cb938c23."
+blockers:
+  - "P7 asserted, not argued. The promote_when asks for it to be argued."
+  - "The readings of the three sorted accounts are unchecked; the record holds none of their texts."
+notes: >-
+  The promote_when asks for things an argument could meet, unlike
+  THEORY-071's. Both are readings: a checking pass on the three cited
+  accounts, and an argument for P7. Both need reading tasks first (Ney
+  2021 and 2016, Chalmers and McQueen 2022, Bikaraan-Behesht 2022). This
+  is the cheapest of the three wave-5 arguments here to move.
+unlocks: []
+next_action: Reading task on Ney (2016, 2021), Chalmers and McQueen (2022) and Bikaraan-Behesht (2022); requeue after.
