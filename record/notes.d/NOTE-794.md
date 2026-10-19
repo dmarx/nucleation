@@ -27,7 +27,7 @@ summary: >-
   these curves and has exact conserved quantities u_i^(1/p_i). A small MLP
   also shows the effect when one parity is the XOR of two others.
 ---
-<!-- inactive-ok-file: THEORY-253 THEORY-186 THEORY-212 THEORY-039 — Proposed; the account filed from this reading and the accounts of acquisition order it is set beside -->
+<!-- inactive-ok-file: THEORY-186 THEORY-212 THEORY-039 — Proposed; the account filed from this reading and the accounts of acquisition order it is set beside -->
 
 # NOTE-794: Liu et al. — Physics of Skill Learning
 

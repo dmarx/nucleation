@@ -36,8 +36,9 @@ refined_by:
 - QUESTION-166
 - QUESTION-176
 - QUESTION-175
+- QUESTION-tmpihczu
 ---
-<!-- inactive-ok-file: THEORY-279 THEORY-253 — Proposed; partial answers filed in the last two days, cited with their limits -->
+<!-- inactive-ok-file: THEORY-279 — Proposed; partial answers filed in the last two days, cited with their limits -->
 
 # QUESTION-039: What sets the order and the moment, in training time or in examples, at which a network acquires a structure, and is acquisition one kind of event or several?
 

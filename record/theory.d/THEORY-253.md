@@ -1,37 +1,37 @@
 ---
 number: 253
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp99x1h
-promote_when: >-
-  An analysis of sign descent, or of Adam at small β, on a sum of
-  frequency-weighted quadratic losses whose eigendirections are not
-  aligned with the coordinates. It would need to derive the delayed onset
-  of each weaker skill, and the ratio t₂/t₁ → 2, that the paper shows
-  only in simulation. Or a trained network on independent skills of
-  unequal frequency whose onsets go from simultaneous to sequential when
-  only the optimizer is changed from SGD to sign descent. It is refuted by
-  a case in which orthogonal skills under plain gradient descent start one
-  after another without small-initialization plateaus, or by sign descent
-  on a rotated quadratic that learns all directions together. Further fits
-  of the Resource ODE cannot settle it, since that model was fitted to
-  the behaviour it would be confirming.
-title: 'In a model of independent skills with linear task vectors, sequential onset of acquisition comes from the optimizer: under gradient descent orthogonal skills are learned together at rates set by their frequencies, while under sign descent they compete for coordinate signs, so each starts as the previous finishes'
-version: 1
+title: "In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal task vectors, simulation shows skills progressing together under gradient descent, the weaker taking about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence appears under sign descent only when the loss's eigendirections are misaligned with the coordinates"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-253 (batch 045, ADR-047 v3): one study read in full, whose text
+    states the results the title uses. "Sequential onset comes from the
+    optimizer" becomes the measured result in the Geometry model, with the
+    misalignment condition the rotated quadratic shows. The two-task and
+    rotated-quadratic results were reproduced by the record (dated note
+    below). The promote_when moves to QUESTION-tmpihczu.
 tags:
 - learning-theory
 date: '2026-10-14'
 source:
 - LIT-951
 summary: >-
-  Liu, Liu, Michaud, Gore and Tegmark (2025), [LIT-951](../literature.d/LIT-951.md), read in
-  [NOTE-794](../notes.d/NOTE-794.md). The Geometry model has loss Σ p_i L((θ − θ₀)·t_i) with
-  orthogonal t_i. In it, SGD learns task 2 in time ∝ 1/p₂, while SignGD
-  holds task 2 back until task 1 is done and then takes a constant extra
-  delay (t₂/t₁ → 2). A rotated quadratic shows the same split (Fig. 12).
-  The order is frequency order either way. The evidence is simulation
-  and one fitted ODE. Sequential onset caused by dependency between
-  skills is a separate experiment, not part of this account.
+  Liu, Liu, Michaud, Gore and Tegmark (2025), [LIT-951](../literature.d/LIT-951.md), read in [NOTE-794](../notes.d/NOTE-794.md).
+  The Geometry model has loss Σ p_i L((θ − θ₀)·t_i) with orthogonal t_i.
+  In it, SGD learns task 2 in time ∝ 1/p₂, while SignGD holds task 2 back
+  until task 1 is done and then takes a constant extra delay (t₂/t₁ → 2).
+  A rotated quadratic shows the split only when its eigendirections are
+  misaligned with the coordinates (Fig. 12). The record reproduced both.
+  The order is frequency order either way. The evidence is simulation and
+  one fitted ODE; a derivation and a trained-network test are QUESTION-
+  tmpihczu. Sequential onset caused by dependency between skills is a
+  separate experiment, not part of this account.
 answers:
 - QUESTION-039
 supports:
@@ -39,7 +39,7 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-186 THEORY-212 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
 
-# THEORY-253: In a model of independent skills with linear task vectors, sequential onset of acquisition comes from the optimizer: under gradient descent orthogonal skills are learned together at rates set by their frequencies, while under sign descent they compete for coordinate signs, so each starts as the previous finishes
+# THEORY-253: In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal task vectors, simulation shows skills progressing together under gradient descent, the weaker taking about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence appears under sign descent only when the loss's eigendirections are misaligned with the coordinates
 
 ## Source
 
@@ -135,3 +135,20 @@ skills".
 - **[THEORY-039](THEORY-039.md).** Its caution that transitions differ in kind is borne
   out. Optimizer competition, dependency and small-initialization escape
   are three different routes to the same-looking staircase.
+
+## Note of 2026-10-19: the two-task and quadratic results, reproduced
+
+Reproduced for the promotion audit (batch 045), with full-batch
+deterministic updates, n_dim = 1000, squared loss, and a skill counted
+as learned at s ≥ 0.9.
+
+- **Two orthogonal tasks.** Under gradient descent, task 2's time grows
+  with 1/p₂. Under sign descent, t₂/t₁ was 1.00, 1.48, 1.76, 1.88 and 2.02
+  at p₁ = 0.5, 0.8, 0.9, 0.95 and 0.99.
+- **The rotated quadratic** x₁² + 0.1x₂² + 0.01x₃² + 0.001x₄², with x = Rθ.
+  Under sign descent with R = I, all four coordinates fell below half
+  their start at the same step. With R = H₄ they did so at steps 250, 729,
+  1171 and 1730. Gradient descent was identical under both.
+
+Both match the paper's text. They are the paper's model run again, not
+new evidence about trained networks.

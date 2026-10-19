@@ -1,19 +1,19 @@
 ---
 number: 382
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpqvlyg
-promote_when: >-
-  An analysis bounding the response time of OVIS(θ), or of any rule of its
-  kind, against the best plan that meets the same freshness threshold (the
-  best fixed plan, or an offline optimum over the same access and update
-  streams), or a measurement on a real server or recorded web workload that
-  compares it with that best plan. More synthetic simulations in which OVIS
-  lies between all-materialized and caching-only cannot settle it: that is
-  what is already held, and it says nothing about how far from the best plan
-  OVIS is.
-title: "When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, held freshness near the threshold, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown"
-version: 1
+title: "When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, tracked that threshold by the authors' reading of its curves, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted, carrying out the promotion audit's decision for THEORY-382
+    (batch 045, ADR-047 v3): one study read in full, and the title already
+    held to it. "Held freshness near the threshold" becomes the authors' own
+    reading of their curves, since the paper gives no data table for it. The
+    promote_when, which the title disclaims, moves to QUESTION-tmpqzpcd.
 tags:
 - databases
 - operations-research
@@ -35,7 +35,7 @@ summary: >-
   user-set threshold, not a price, and switching and storage are free.
 ---
 
-# THEORY-382: When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, held freshness near the threshold, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown
+# THEORY-382: When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, tracked that threshold by the authors' reading of its curves, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown
 
 ## Source
 
