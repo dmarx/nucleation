@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'Do trained networks follow the continually renormalized gradient flow toward neural collapse under MSE loss, and does the classifier stay near the least-squares classifier of its features outside LIT-974''s settings?'
+title: 'Do trained networks follow the continually renormalized gradient flow toward neural collapse under MSE loss, and does the classifier stay near the least-squares classifier of its features outside Han, Papyan and Donoho''s settings?'
 version: 1
 tags:
 - learning-theory
@@ -17,7 +17,7 @@ summary: >-
   the paper did not test. This question holds both.
 ---
 
-# QUESTION-tmpu84bn: Do trained networks follow the continually renormalized gradient flow toward neural collapse under MSE loss, and does the classifier stay near the least-squares classifier of its features outside [LIT-974](../literature.d/LIT-974.md)'s settings?
+# QUESTION-tmpu84bn: Do trained networks follow the continually renormalized gradient flow toward neural collapse under MSE loss, and does the classifier stay near the least-squares classifier of its features outside Han, Papyan and Donoho's settings?
 
 ## Why it is a question
 
