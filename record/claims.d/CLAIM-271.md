@@ -4,7 +4,21 @@ status: Proposed
 formerly:
 - CLAIM-tmp09i1b
 title: 'A collective''s reasons need not be any of its members'' reasons, so aggregating members'' conclusions, as polling does, can yield verdicts the collective''s own reasons do not support'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Re-grounded at the owner's direction, carrying out the promotion
+    audit's decision (record/promotion-audit/decisions/CLAIM-271.yaml,
+    batch 021, ADR-047). Step 2 uses List and Pettit for a possibility:
+    majorities on the premises can imply a conclusion that a majority
+    rejects. THEORY-725 proves that for the court agenda (Proposition 1),
+    and it is Active. The ground, step 2, the defeat condition and "What it
+    does not say" now cite THEORY-725. THEORY-127, which keeps the general
+    impossibility the argument does not need, is no longer a ground. The
+    status stays Proposed, because step 3 rests on THEORY-131 and
+    THEORY-139.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -13,7 +27,7 @@ defeated_if: >-
   are reliably the ones its members' majority reasons, aggregated premise
   by premise, would also support, across a range of issues where the
   reasons are recorded alongside the conclusions. That is, an empirical
-  showing that the discursive dilemma THEORY-127 proves possible does not
+  showing that the discursive dilemma THEORY-725 proves possible does not
   arise in practice, not a showing that it can be avoided by design.
 tags:
 - society-and-governance
@@ -26,14 +40,14 @@ answers:
 rests_on:
 - CLAIM-030
 grounds:
-- THEORY-127
+- THEORY-725
 - THEORY-131
 - THEORY-139
 summary: >-
   The owner's thesis of 2026-10-13, given in conversation by refining
   "the good of a higher level agent need not align with the respective
   goods of the parts" to reasons. The assistant drew the polling
-  consequence. On [THEORY-127](../theory.d/THEORY-127.md) a group that judges linked propositions must
+  consequence. On [THEORY-725](../theory.d/THEORY-725.md) a group that judges linked propositions must
   choose between aggregating premises and aggregating conclusions, and the
   two can disagree. A poll aggregates conclusions. It does not say that
   polling is illegitimate, nor that the collective knows better than its
@@ -54,7 +68,7 @@ The argument, drawn by the assistant:
 
 1. [CLAIM-030](CLAIM-030.md): a whole's operative intention is produced by its organization,
    not by taking an expectation over its members' intentions.
-2. [THEORY-127](../theory.d/THEORY-127.md) (List and Pettit) makes this exact for reasons. A group that
+2. [THEORY-725](../theory.d/THEORY-725.md) (List and Pettit) makes this exact for reasons. A group that
    judges interconnected propositions, premises and the conclusion they
    imply, cannot always form each judgement from its members' judgements
    on that proposition alone. Majorities on each premise can imply a
@@ -88,7 +102,7 @@ reason, and a government that acts on the majority acts on neither.
   warns that attributing a mind to an institution partly shapes the
   institution to fit.
 - It does not say that the discursive dilemma arises often in actual
-  polities. [THEORY-127](../theory.d/THEORY-127.md) shows it is possible. How often it happens is the
+  polities. [THEORY-725](../theory.d/THEORY-725.md) shows it is possible. How often it happens is the
   empirical question [QUESTION-082](../questions.d/QUESTION-082.md) asks, and the record holds no evidence
   on it yet.
 
@@ -110,3 +124,17 @@ corrects the inconsistency aggregation produces) and [CLAIM-027](CLAIM-027.md)'s
 C pair it with a whole whose description merges its members' claims
 ([CLAIM-348](CLAIM-348.md), [CASE-110](../cases.d/CASE-110.md)), where a collective judgment rule is the
 optional extension A22 left unbuilt. The status is unchanged.
+
+## Note of 2026-10-19: the formal ground is the court-agenda result
+
+Step 2 needs only an existence statement: some profile of consistent
+members on a premise–conclusion agenda gives premise majorities that imply
+a conclusion the majority rejects. [THEORY-725](../theory.d/THEORY-725.md)'s Proposition 1 is such a
+profile on the court agenda {P, Q, R, R iff (P and Q)}. Its Proposition 4
+shows that the premise-based procedure always gives the group a
+consistent set, so the route through reasons is available. [THEORY-127](../theory.d/THEORY-127.md),
+from which [THEORY-725](../theory.d/THEORY-725.md) was split, keeps the general result, Propositions
+2–3, that no proposition-wise rule meeting the usual conditions is robustly
+rational. The source cites that result without proof, and this argument
+does not use it. The note of 2026-10-18 above records that A21 cited
+[THEORY-127](../theory.d/THEORY-127.md), and that record is left as it stands.
