@@ -8,17 +8,31 @@ promote_when: >-
   are independently known, such as a mechanical system with conserved
   quantities or a neural recording with an established macrostate.
   Minimizing dynamical dependence must recover those variables at the
-  expected scale, the remaining optima must be reported, and the
-  generic-absence result for VAR order above 1 must hold in the fitted
-  models. It is refuted by a system in which the variables of least
-  dynamical dependence are not the ones its dynamics single out (for
-  example, not built from its invariants), or by a proof that a generic
-  stable VAR(p), p > 1, has exactly independent linear coarse-grainings on
-  a set of positive measure. What cannot settle it: further toy models
-  built from a planted causal graph, which the authors call privileged
-  by construction.
-title: "Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but generically none is exact and the optima are many"
-version: 1
+  expected scale, and the remaining optima must be reported. It is
+  refuted by a system in which the variables of least dynamical dependence
+  are not the ones its dynamics single out (for example, not built from
+  its invariants). The generic-absence result for VAR order above 1 is
+  proved in THEORY-tmp7brn5 and no longer part of this condition. What
+  cannot settle it: further toy models built from a planted causal graph,
+  which the authors call privileged by construction.
+title: "Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-257.yaml, batch 012, ADR-047),
+    the VAR criterion and its genericity are filed apart as
+    THEORY-tmp7brn5, Active. There the count of equations against unknowns
+    is replaced by a proof for order above 1 (ADR-047 v2). The title said
+    "generically none is exact" without qualification. For VAR(1) that is
+    false, since exact coarse-grainings exist on open sets, so the title
+    now restricts it to order above 1. The body's claim that VAR(1) models
+    have exact solutions "at every scale" generically is also false over
+    the reals, and is corrected. The promote_when loses the generic-absence
+    clause, which the new entry settles. This THEORY extends it and stays
+    Proposed.
 tags:
 - complex-systems
 - information-theory
@@ -28,6 +42,8 @@ source:
 - LIT-979
 answers:
 - QUESTION-065
+extends:
+- THEORY-tmp7brn5
 summary: >-
   Barnett and Seth (2023), [LIT-979](../literature.d/LIT-979.md), read in [NOTE-791](../notes.d/NOTE-791.md): definition
   (2.6), transitivity (App. A), the causal-graph form (2.12), the
@@ -41,7 +57,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-198 THEORY-205 CLAIM-157 CLAIM-167 — Proposed; the locality accounts on QUESTION-065 and the boundary claims this account bears on, open -->
 
-# THEORY-257: Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but generically none is exact and the optima are many
+# THEORY-257: Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many
 
 ## Source
 
@@ -73,8 +89,11 @@ full in [NOTE-791](../notes.d/NOTE-791.md) (arXiv:2106.06511v2).
   - Exact independence ⇔ LCA^kKMᵀ ≡ 0 for k < r (3.25). For a VAR(p) it
     is LA_kMᵀ ≡ 0 (3.26).
   - By counting equations against the m(n − m) Grassmannian parameters,
-    exact solutions are generic at every scale for VAR(1) and absent for
-    VAR(p > 1), except on a set of measure zero.
+    the paper expects exact solutions at every scale for VAR(1) and none
+    for VAR(p > 1), except on a set of measure zero. [THEORY-tmp7brn5](THEORY-tmp7brn5.md)
+    proves the second, and shows the first fails over the reals: exact
+    VAR(1) solutions are the invariant subspaces of Aᵀ, which a rotation
+    in the plane lacks on an open set.
 - **Search (simulation).**
   - Minimizing F over the Grassmannian is "in general multi-modal", and a
     (1+1) evolution strategy with restarts was used.
