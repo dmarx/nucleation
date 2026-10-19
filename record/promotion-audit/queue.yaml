@@ -1,23 +1,22 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 110
+version: 111
 updated: '2026-10-19'
 record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batches 024-030 (parallel)
-  state: in_progress
+  batch: null
+  state: between batches
   in_review: null
-  next_step: 'Started 2026-10-19 after #202-#210 merged. Parallel batches on claude/promotion-audit-batch-NNN,
-    writing only decisions/ and batches/: 024 (wave 3 re-derivation: THEORY-169, -182, -186, -283, -286);
-    025 (THEORY-308, -314, -320, -391, -472); 026 (THEORY-478, -614, and the doubted-formal THEORY-231,
-    -590, -690); 027 (missed-formal THEORY-187, -195, -211, -566, plus THEORY-176); 028 (warrant-correction
-    sweep over interpretive claims with empirical defeaters, first 10, with warrant_sweep.py); 029 (ADR-040
-    parents still marked demonstrated, up to 10); 030 (wave 5, second sample, roots of argument lines).
-    This ledger integrates each as it lands. A batch branch without its batch file did not finish: rerun
-    it from its first candidate without a decision file. Merge the resulting PRs one at a time after each
-    regenerate commit; the ledger last.'
+  next_step: 'Round 024-030 is integrated. Its PRs: #212-#220, plus #221 (ADR-043 v2 and the CLAIM-052
+    revert). Merge them one at a time after each regenerate commit, this ledger (#211) last. Next: wave
+    3 has the triage-005 source-route list left (THEORY-073, -115, -116, -216, -223, -324, -351, -411,
+    -490, -560, -593, and the control 071, 178, 306, 485, 628); re-triage wave 3 for formal content, since
+    the re-derivation route went 17 of 20 this round; the possibility theses CLAIM-238 names (CLAIM-115,
+    -139, -077, -143, -087, -105) reviewed together with CLAIM-033 (batch 028); the warrant sweep needs
+    no further pass under ADR-043 v2. Owner questions open: CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241;
+    CLAIM-046; CLAIM-160''s narrowing; and the older CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -27,6 +26,7 @@ handoff:
     merging).
   - 'ADR-047 v3: one fully read study suffices for an empirical THEORY whose title claims no more than
     it measured; the replication request moves to a QUESTION.'
+  - 'ADR-043 v2: warrant records present support; an untested empirical claim is interpretive.'
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
@@ -2680,4 +2680,7 @@ history:
   note: 'Batch 030 integrated: 3 of 5 found a promotion path. THEORY-109''s split can be carried out now.
     CLAIM-046 and CLAIM-241 are interpretive, so their promotion is the owner''s call.; carried_out_in
     #213'
+- version: 111
+  date: '2026-10-19'
+  note: 'Round 024-030 closed. Owner rule on warrant (ADR-043 v2, #221): present support. Hand-off rewritten.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

@@ -899,3 +899,24 @@ history note. THEORY-277 is requeued on this basis.
 - A theorem read in full can still hide inside a multi-LIT synthesis
   (THEORY-109's Theorem 1). Check every wave-5 THEORY's NOTE claims table
   for "strong (proof)".
+
+## 2026-10-19 — round 024–030, summary
+
+- **Yields.** Wave 3, re-derivation route: 024 at 5 of 5, 025 at 5 of 5,
+  027 at 5 of 5 (the formal entries triage-005 missed), and 026 at 2 of 5.
+  The three entries whose formal flag triage-005 doubted split one
+  promotion, THEORY-231, and two retentions. So the route predicts yield
+  well, and its errors run toward missing formal entries rather than
+  over-flagging them.
+- **Sweeps.** The warrant sweep (028) found no miswarranted claims in 10.
+  The ADR-040 parent sweep (029) found one, CLAIM-081. Both are mostly
+  done. Under ADR-043 v2, the 37 interpretive claims with empirical
+  defeaters are correctly labelled.
+- **The owner's warrant rule (ADR-043 v2, #221).** `warrant` records how
+  a claim is supported now. An untested empirical claim is interpretive,
+  and its defeat condition can still be an observation. CLAIM-052 is
+  reverted. Do not relabel a warrant only because the defeater is
+  empirical.
+- **Wave 5 roots (030).** Drawing roots of argument lines worked:
+  3 of 5 had a path. Two of them are interpretive promotions, so they go
+  to the owner.
