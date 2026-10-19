@@ -1,0 +1,65 @@
+# record/promotion-audit/decisions/THEORY-301.yaml
+id: THEORY-301
+batch: batch-013
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title and eqs. 25–26 as stated, for E[zzᵀ] = I. Re-derived here,
+    meeting the promote_when's request for a second check of App. A.1
+    (ADR-047 v2). Notation: K_X = XG(X)⁻¹Xᵀ/M, X̃ = XG(X)^{−1/2}/√M (so
+    X̃X̃ᵀ = K_X), α = Tr K_X, β = Tr K_Y, Δ = K_X − K_Y, D = E‖Xw* − Yv*‖²,
+    R_Δ = ‖Δ‖²_*/‖Δ‖²_F.
+    (0) Cor. 1: Xw* = XG⁻¹Xᵀz/M = K_X z, so D = E‖Δz‖² = Tr(Δ E[zzᵀ] Δ) =
+    ‖Δ‖²_F. This needs only E[zzᵀ] = I, and none of THEORY-008, which is
+    Proposed.
+    (1) Procrustes is Bures (THEORY-004, Active). P² = α + β − 2F, with
+    F = ‖K_X^{1/2} K_Y^{1/2}‖_* = max over Q of ⟨X̃, ỸQ⟩.
+    (2) Upper bound on P². F ≥ Tr(K_X^{1/2} K_Y^{1/2}), so P² ≤
+    ‖K_X^{1/2} − K_Y^{1/2}‖²_F. Powers–Størmer gives ‖A^{1/2} − B^{1/2}‖²_F ≤
+    ‖A − B‖_* for PSD A and B. Proof: set S = A^{1/2}, T = B^{1/2},
+    E = S − T with eigenpairs (dᵢ, eᵢ), and J = sign(E). A − B =
+    ½(E(S+T) + (S+T)E), and J commutes with E, so Tr(J(A − B)) =
+    Σᵢ |dᵢ| ⟨eᵢ, (S+T)eᵢ⟩ ≥ Σᵢ |dᵢ| |⟨eᵢ, (S−T)eᵢ⟩| = Σᵢ dᵢ², because S and
+    T are PSD. ‖J‖_op ≤ 1, so ‖A − B‖_* ≥ Tr(J(A − B)) ≥ ‖E‖²_F. Hence
+    P² ≤ ‖Δ‖_* = √(R_Δ D).
+    (3) Lower bound on P². Replace Ỹ by ỸQ*, the optimal Q, which leaves
+    K_Y unchanged. Let u = vec X̃/√α and v = vec Ỹ/√β in ℝ^M ⊗ ℝ^N, with
+    c = ⟨u, v⟩ = F/√(αβ). Partial trace over ℝ^N maps αuuᵀ to K_X and βvvᵀ
+    to K_Y. It is a trace-norm contraction for real symmetric matrices:
+    ‖Tr_N H‖_* = sup over ‖W‖_op ≤ 1 of Tr((W ⊗ I)H) ≤ ‖H‖_*. So ‖Δ‖_* ≤
+    ‖αuuᵀ − βvvᵀ‖_*. On span{u, v}, with v = cu + sw and s = √(1 − c²), the
+    matrix is [[α − βc², −βcs], [−βcs, −βs²]]. Its trace is α − β and its
+    determinant −αβs² ≤ 0, so the nuclear norm is |λ₁ − λ₂| =
+    √((α − β)² + 4αβs²) = √((α + β)² − 4F²) (Lemma 1). Then R_Δ D ≤
+    (α + β)² − (α + β − P²)², and since α + β − P² = 2F ≥ 0, P² ≥ (α + β) −
+    √((α + β)² − R_Δ D). That is eq. 25.
+    (4) Eq. 26 rearranges eq. 25. Since R_Δ ≥ 1 (‖·‖_* ≥ ‖·‖_F),
+    D ≤ 2(α + β)P², which is the title's forward direction.
+    (5) The converse fails. With K_X = Π₁/r and K_Y = Π₂/r, for orthogonal
+    rank-r projections, F = 0, so P² = 2, the maximum at α = β = 1, while
+    D = ‖Π₁ − Π₂‖²_F/r² = 2/r.
+  excluded: >-
+    Nothing in the title. The body's limits stand: K_z = I only, linear
+    readouts, finite M, tightness not characterised, and random ensembles
+    rather than trained networks.
+evidence:
+  - "NOTE-834's reading of Proposition 3 and App. A.1 (eqs. 27–53), with the reader's orthogonal-projection example and the short proof of Lemma 2."
+  - "THEORY-004 (Active) supplies P = d_B. Uhlmann's theorem is used only through it, as the maximisation over Q."
+  - "The re-derivation above is step by step and real-matrix throughout, which is the promote_when's concern that the paper argues in quantum-information terms."
+blockers: []
+notes: >-
+  The same Fuchs–van de Graaf route as THEORY-233, promoted in #181 under
+  ADR-047 v2. Cor. 1 is re-derived in one line, so the promotion does not
+  lean on THEORY-008 (Proposed). The inactive-ok directive that THEORY-008
+  holds for THEORY-301 becomes stale.
+unlocks:
+  - "THEORY-008 cites THEORY-301. It is Proposed for other reasons, so check it in a dependency pass."
+next_action: >-
+  Promotion PR. Set THEORY-301 Active and remove promote_when. Add a dated
+  history note citing this decision and the re-derivation (including the
+  Powers–Størmer proof). Trim stale inactive-ok directives naming THEORY-301
+  (NOTE-834, LIT-257, THEORY-008).

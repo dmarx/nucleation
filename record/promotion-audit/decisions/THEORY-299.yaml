@@ -1,0 +1,77 @@
+# record/promotion-audit/decisions/THEORY-299.yaml
+id: THEORY-299
+batch: batch-013
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    A narrowed title. Structured and translational knowledge-graph
+    embeddings (Structured Embedding, the Unstructured Model, TransE, TransR
+    and RotatE) are 0-cochains of a cellular sheaf of vector spaces pulled
+    back from the schema, and each triple is scored by a norm of the
+    coboundary on its edge, shifted by a relation vector for the
+    translational models. In the squared-Euclidean form LIT-232 uses, the
+    summed score is the sheaf Laplacian form. Since the zero cochain is
+    always a global section, a positive-only objective is minimised by a
+    degenerate embedding, and what these models learn is a contrastive
+    margin, not the existence of a section. Re-derived (ADR-047 v2):
+    (1) Pullback. Restriction maps depend only on the relation type, so
+    the edges of relation r share F_{h⊴r} and F_{t⊴r}. With x a 0-cochain,
+    (δx)_e = F_{h⊴r} x_h − F_{t⊴r} x_t. (2) Identifications, term by term:
+    for SE, F_{h⊴r} = R_r^lhs and F_{t⊴r} = R_r^rhs; for UM, F = I and no
+    translation; for TransE, F = I with a pulled-back 1-cochain r_r, so the
+    score is ‖(δx)_e + r_r‖; for TransR, F_{h⊴r} = F_{t⊴r} = M_r with r_r;
+    for RotatE, F_{h⊴r} = diag(r), with |rᵢ| = 1 as a real 2×2 block
+    rotation on ℂ^d ≅ ℝ^{2d}, and F_{t⊴r} = I. (3) Laplacian: with L = δᵀδ,
+    xᵀLx = ‖δx‖² = Σ_e ‖(δx)_e‖², the summed squared SE score. With
+    translations, Σ_e ‖(δx)_e + r_e‖² = ‖δx + r‖², the affine form of
+    Appendix C. (4) The zero section: δ0 = 0, so x = 0 is a global section of
+    any sheaf of vector spaces. (5) A positive-only objective, Σ over true
+    triples of the score, has minimum 0, attained by a degenerate
+    embedding in every model listed. For SE, UM and TransR this is x = 0
+    (with r = 0). For TransE under its unit-norm constraint, all entities
+    equal and r = 0. For RotatE, x = 0 with any unit-modulus r. Such an
+    embedding gives every triple the same score, so it ranks nothing. All
+    discriminating content therefore comes from the negatives, and a margin
+    ranking loss is zero exactly on γ-gapped embeddings (Definition 11 and
+    Eq. 4, by construction; NOTE-843 C3).
+  excluded: >-
+    (a) "Scored by its Laplacian" in general. Several of the original models
+    are scored by an unsquared or ℓ1 norm of the same coboundary: SE, TransE
+    in its L1 variant, and RotatE. This is from the reviewer's knowledge of
+    the originals, which the record does not hold. For these the triple
+    score is still a function of (δx)_e, which is what the promote_when's
+    refutation test asks, but the summed score is not xᵀLx. The narrowed
+    title states the norm form and keeps the Laplacian for the squared form.
+    (b) The promote_when's request for a proof or counterexample that
+    bilinear scores (RESCAL, ComplEx, HolE, NTN, QuatE) have no
+    representation as a coboundary of a sheaf of vector spaces. The title
+    does not claim this, and the body disclaims it ("It does not unify all
+    knowledge-graph embedding"; NOTE-843 C2, moderate, "not proved
+    impossible"). It moves to a new QUESTION. (c) The extension-question
+    reading of harmonic extension, and its Schur-complement cost, are not
+    in the title and stay in the body unchanged.
+evidence:
+  - "NOTE-843 (read in full): C1 'SE, UM, TransE, TransR and RotatE scores are sheaf coboundary norms; their summed SE score is the sheaf Laplacian form', strong, a direct identification (§4.2, Appendix A)."
+  - "NOTE-843 lines 85–109: the paper writes every score as a squared Euclidean norm, ‖F_{h⊴r} x_h + r_r − F_{t⊴r} x_t‖² (Eq. 3)."
+  - "The derivation above is term by term and uses only L = δᵀδ."
+blockers: []
+notes: >-
+  The promote_when's first request, an independent check against the
+  original scoring functions, is met for the paper's forms by the term-by-term
+  identification above. Against the originals it is met only as far as
+  the reviewer recalls their norms. The narrowing removes the one place
+  where the norm matters (the Laplacian), so the promoted statement does
+  not depend on that recollection. A fourth correct-theorem, wrong-scope
+  case, after CLAIM-264, CLAIM-123 and THEORY-686. This one is a statement
+  exact for the paper's normalised variant, read as covering the originals.
+unlocks: []
+next_action: >-
+  Promotion PR. Narrow the title and summary as above, set THEORY-299
+  Active and remove promote_when. Add a dated history note citing this
+  decision, with the derivation and the norm caveat. File a QUESTION with
+  the bilinear-impossibility request, related to THEORY-299. Trim stale
+  inactive-ok directives naming THEORY-299 (NOTE-843, LIT-232).

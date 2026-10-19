@@ -1,0 +1,70 @@
+# record/promotion-audit/decisions/THEORY-288.yaml
+id: THEORY-288
+batch: batch-013
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: medium
+scope:
+  accepted: >-
+    A demonstrated core, the record's own (the body's "A symmetry argument
+    behind it ... This is the record's, from the setup"), to be filed as a
+    CLAIM (ADR-032; compare THEORY-165 and THEORY-084). Statement: in an
+    autoencoder whose affine maps are initialised with i.i.d. Gaussian
+    entries (Xavier-normal) and zero biases, and trained by SGD or momentum
+    SGD on a loss of the output alone, let G_l be a group of orthogonal maps
+    of hidden space l commuting with the activation on that space. Then at
+    every training step, the joint law of the representations {h_l(x)} over
+    initialisation and training randomness is invariant under h ↦ Qh for
+    Q ∈ G_l. G_l is O(n) for a radial activation, the signed permutations
+    B_n for elementwise tanh, and the permutations S_n for elementwise
+    Leaky-ReLU. Derivation, step by step:
+    (1) Pick Q_l ∈ G_l for each hidden space and act on the parameters by
+    W_enc ↦ Q_0 W_enc, W_l ↦ Q_l W_l Q_{l−1}ᵀ, b_l ↦ Q_l b_l, and
+    W_dec ↦ W_dec Q_Lᵀ. (2) Since σ(Q_l h) = Q_l σ(h), the transformed
+    network computes h_l ↦ Q_l h_l at every layer and the same output, so the
+    loss is invariant: ℓ(Tθ) = ℓ(θ). (3) T is an orthogonal linear map of
+    parameter space, so ∇ℓ(Tθ) = T∇ℓ(θ). An SGD step, and a momentum step
+    (linear in past gradients), therefore commute with T for every minibatch
+    sequence. (4) An i.i.d. Gaussian matrix has the same law as Q W Q'ᵀ for
+    orthogonal Q and Q', and zero biases are fixed by T, so the
+    initialisation's law is T-invariant. (5) So for any minibatch sequence
+    the trained parameters θ_t and Tθ_t have the same law, and
+    h_l(x; Tθ_t) = Q_l h_l(x; θ_t) gives the invariance.
+    Consequences: under a radial activation, any statistic of the
+    representations' alignment with the standard basis has the same
+    distribution as for any rotated basis, so no basis is privileged in law.
+    Under an elementwise activation the law is invariant only under the
+    finite group, so the axes (B_n) or the ±1 diagonal (S_n) can be
+    privileged. The symmetry permits this but does not force it.
+  excluded: >-
+    THEORY-288's title, which stays Proposed with its promote_when
+    unchanged. That title has three empirical parts. Elementwise activations
+    do produce strong beams. The beams are narrow and arranged by the group.
+    Radial networks stay spread rather than forming clusters in random
+    directions in each run. The invariance in law says nothing about any of
+    these. A rotation-invariant law is consistent with every run clustering
+    in some random direction. The evidence is density plots without a
+    statistic (NOTE-759 C1–C3, moderate to weak).
+evidence:
+  - "THEORY-288 body and NOTE-759: Xavier-normal weights, zero biases, momentum SGD on MSE, and every component except the activation commuting with rotations of the hidden spaces."
+  - "The derivation above uses only orthogonal invariance of the i.i.d. Gaussian law and the equivariance of a gradient step under an orthogonal reparametrisation that leaves the loss unchanged."
+  - "A caveat the derivation makes explicit: step (3) fails for Adam and other coordinate-wise optimisers. These are equivariant only under signed permutations, so with them even a radial network's law is only B_n-invariant. The claim must name the optimiser."
+blockers:
+  - "For the parent: a replication with a statistic, as its promote_when asks."
+notes: >-
+  The same shape as THEORY-165 and THEORY-084: a THEORY whose body holds the
+  record's own short derivation alongside an empirical title. The core is
+  worth filing because it marks exactly what the experiment adds. The
+  record already guarantees no axis preference for radial networks in law.
+  The empirical content is the strength and the narrowness of the beams,
+  and the absence of random-direction clusters in each run.
+unlocks:
+  - "THEORY-022 and QUESTION-058 cite THEORY-288 for group structure that comes from the network. They can cite the CLAIM for the symmetry-in-law part."
+next_action: >-
+  Split PR. File a demonstrated CLAIM (luria new claim; role and line
+  following CLAIM-377's precedent), Active, with the derivation above,
+  including the optimiser caveat. THEORY-288 cites it in its body ("A
+  symmetry argument behind it") and gains a dated history note. Its status
+  and promote_when are unchanged.

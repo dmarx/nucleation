@@ -1,0 +1,48 @@
+# record/promotion-audit/batches/batch-013.yaml
+batch: batch-013
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+selection: >-
+  Wave 2's pending mathematics THEORYs in code order (batch-010
+  recommendation), the third block of five, run in parallel with batches
+  011, 012 and 014: THEORY-276, THEORY-288, THEORY-299, THEORY-301,
+  THEORY-304.
+reviewed: [THEORY-276, THEORY-288, THEORY-299, THEORY-301, THEORY-304]
+outcomes:
+  promote: [THEORY-276, THEORY-301]
+  narrow-and-promote: [THEORY-299]
+  split: [THEORY-288, THEORY-304]
+yield: 5 of 5 found a promotion path (3 promote or narrow, 2 split cores as CLAIMs)
+finding: >-
+  Code order kept wave 2's high yield. Two of the five were not
+  mathematics THEORYs in the sense wave 2 assumes. THEORY-288 is an
+  empirical ablation, and THEORY-304 is a numerical computation. Each still
+  held a short record-own derivation that bounds what its experiment or
+  computation adds. These became split cores, filed as CLAIMs (ADR-032):
+  an invariance in law for equivariant training (THEORY-288), and the
+  lift-up lower bounds (THEORY-304). Both parents keep their titles and
+  promote_whens. The other three are theorems. THEORY-276's promote_when
+  was mis-targeted, asking for a second experiment where the title states
+  an invariance. THEORY-301's asked for a second reading of a proof, which
+  the re-derivation supplies. THEORY-299's title was exact only for the
+  paper's squared-norm variants.
+recommendation: >-
+  Continue in code order. Tag "mathematics" THEORYs whose title is
+  empirical or numerical (ablations, computed constants) as a sub-class.
+  Their yield is a split core, not a promotion of the title. A
+  dependency pass should follow the promotions: THEORY-008 cites THEORY-301,
+  THEORY-022 and QUESTION-058 cite THEORY-288, and THEORY-323 and CLAIM-186
+  cite THEORY-304.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-276 and THEORY-301: promote. THEORY-276's promote_when moves to a new QUESTION related to QUESTION-063."
+  - "THEORY-299: narrow-and-promote. The bilinear-impossibility request moves to a new QUESTION."
+  - "THEORY-288 and THEORY-304: splits, each into a demonstrated Active CLAIM. The parents stay Proposed."
+notes_for_ledger:
+  - "Fixed-point subspaces settle symmetry-cluster claims. For an equivariant vector field, Fix(Σ) is invariant for every subgroup Σ. Isolated desynchronization is Fix(K), with K the product of the other factors, and it needs the moving factor's support to be the cluster (THEORY-276). Use this instead of equal-input computations."
+  - "An empirical THEORY can hide a record-own invariance-in-law argument (THEORY-288). With equivariant initialisation and optimiser, the law of the learned representation inherits the architecture's symmetry group. The argument needs an orthogonally equivariant optimiser. Adam breaks it, leaving only signed-permutation invariance. Check the optimiser before filing any such claim."
+  - "Numerical scaling THEORYs (THEORY-304) yield their lower bounds to a rescaling argument (lift-up at streamwise wavenumber 0). Their constants and sharpness need the computation. File the lower bounds as a CLAIM and keep the parent."
+  - "A fourth correct-theorem, wrong-scope case (THEORY-299), after CLAIM-264, CLAIM-123 and THEORY-686. An identification exact for the source's normalised variant (squared norms) is read as covering the original models. Check which variant a source actually works with."
+  - "Re-deriving a promote_when's lemma chain can remove a Proposed dependency. THEORY-301's Cor. 1 is one line, so its promotion does not rest on THEORY-008."
