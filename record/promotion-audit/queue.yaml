@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 16
+version: 17
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-003
   state: in_progress
-  in_review: CLAIM-188
+  in_review: CLAIM-193
   next_step: 'Batch 001''s decisions are open as PRs #167 (promote CLAIM-267, CLAIM-270), #168 (warrants
     of CLAIM-077, CLAIM-098) and #169 (split CLAIM-285). Next: open the PRs batch 002 calls for (batches/batch-002.yaml
     follow_up_prs; at most three entries each). Then either a wave-4 dependency pass (CLAIM-310 after
@@ -21,7 +21,7 @@ handoff:
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
-  reviewed: 16
+  reviewed: 17
   promotion_paths: 10
 - wave: 2
   class: THEORYs with verified mathematical cores
@@ -294,7 +294,10 @@ candidates:
   proposed_deps:
   - THEORY-087
   - THEORY-079
-  state: in_review
+  state: decided
+  disposition: needs-correction
+  batch: batch-003
+  decision: decisions/CLAIM-188.yaml
 - code: CLAIM-193
   wave: 1
   score: 13
@@ -310,7 +313,7 @@ candidates:
   - THEORY-008
   - THEORY-002
   - THEORY-019
-  state: pending
+  state: in_review
 - code: CLAIM-212
   wave: 1
   score: 13
@@ -503,3 +506,7 @@ history:
   date: '2026-10-19'
   note: CLAIM-107 decided, narrow-and-promote; mean conservation only, as CLAIM-094 grants. CLAIM-188
     in review.
+- version: 17
+  date: '2026-10-19'
+  note: CLAIM-188 decided, needs-correction; the singular model is the one with the candidate, at the
+    point where it is switched off. CLAIM-193 in review.
