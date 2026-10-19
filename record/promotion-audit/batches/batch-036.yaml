@@ -44,7 +44,9 @@ rubric_vs_outcome:
     formal_score: 4
     outcome: narrow-and-promote
     mattered: The informal generic-initialization result, which the title folded in.
-promotion_prs: []
+promotion_prs:
+  - "#231: THEORY-263 promoted; THEORY-293 and THEORY-229 narrowed and promoted (branch claude/promote-theories-263-293-229)."
+  - "#232: THEORY-321 narrowed and promoted (branch claude/promote-theory-321)."
 notes_for_ledger:
   - >-
     Triage-006's top five went 4 of 5 by re-derivation; the fifth
