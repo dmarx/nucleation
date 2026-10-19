@@ -411,3 +411,29 @@ history note. THEORY-277 is requeued on this basis.
   .tmp-main/, not committed) and run them one at a time. `git archive -o
   file.tar origin/main record` followed by `tar -xf` gives a clean copy of
   main's record for triage.
+
+## 2026-10-19 — merging the audit's PRs (#165–#188)
+
+- **Merge one PR at a time.** The Docs workflow has no `concurrency:`
+  group. Merges seconds apart start several `docs-generate` runs at once.
+  Each concretizes the same tmp codes with different numbers, and the
+  runs that lose the push race fail on rebase: the main runs for #182 and
+  #184 did. Nothing broken landed, because a later run concretized
+  everything. Still, if the last run to start is one that loses, its tmp
+  codes stay on main until the next push. Wait for each merge's generate
+  step (its "docs: regenerate views" commit) before merging the next. A
+  concurrency group on the workflow would remove the race; that is the
+  owner's decision.
+- **GitHub's "has merge conflicts" can be stale.** After main's
+  concretization commit, #181, #183 and #186 were refused as conflicted
+  while `git merge-tree --write-tree` exited 0, and the refusal did not
+  clear on retry. Merging origin/main into the branch (a plain merge
+  commit, no conflicts) and pushing reset it. Check the merged tree for
+  references to tmp codes that no longer exist before pushing.
+- **Conflicts are almost all `inactive-ok` lines.** Several PRs trim the
+  same directive. Resolve by position, and keep a code only if every side
+  keeps it, so every trim survives. Where line counts differ, resolve
+  by hand.
+- **Bot repair commits on a branch** ("docs: repair sources") leave a run
+  at action_required. CI on the commit beneath is what counts. Read the
+  repair's diff before merging. So far every one has only added links.

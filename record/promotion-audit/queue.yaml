@@ -1,27 +1,31 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 80
+version: 81
 updated: '2026-10-19'
-record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batch-010
-  state: paused
+  batch: batches 011-015 (parallel)
+  state: in_progress
   in_review: null
-  next_step: 'Paused by the parent session on 2026-10-19 until the open PRs merge. #166 (this ledger)
-    merged. Open from this audit: #165 and #167-#187; batch 010''s are #186 (THEORY-014 promote; THEORY-021
-    narrow-and-promote) and #187 (splits of THEORY-565, -084, -180). Many PRs trim the same inactive-ok
-    lines, so merge in number order and resolve conflicts by keeping both trims. When resuming: wave 2
-    has 16 pending (review in code order, per batch 010); start wave 3 (source-backed THEORYs) in parallel;
-    THEORY-157 is held (definitions to check against the source''s diagrams); THEORY-277 is deferred at
-    Lemma C.4; follow-ups named in #185 (CLAIM-269, CLAIM-193 re-grounding) and #187 (THEORY-239, CLAIM-164,
-    CLAIM-148).'
+  next_step: 'Resumed 2026-10-19 after every audit PR through #188 merged. Five batches run in parallel,
+    each on its own branch, writing only decisions/ and batches/ (no queue or NOTES edits): batch 011
+    (claude/promotion-audit-batch-011: THEORY-022, -183, -191, -192, -193), batch 012 (-012: THEORY-196,
+    -234, -239, -254, -257), batch 013 (-013: THEORY-276, -288, -299, -301, -304), batch 014 (-014: THEORY-312,
+    CLAIM-123, CLAIM-326, CLAIM-212, CLAIM-228), batch 015 (-015, wave 4: CLAIM-269, -193, -164, -148,
+    -107, the follow-ups of #183, #185, #187). triage-004 (claude/promotion-audit-triage-004) scores wave
+    3 into triage-004.yaml. This ledger branch integrates each batch branch as it lands: copy its decision
+    and batch files, mark the candidates decided, fold notes_for_ledger into NOTES.md, add triage-004
+    as wave-3 candidates, recompute wave counts, run check.py. If a batch branch is missing its batch
+    file, that batch did not finish: rerun it from its first candidate without a decision file.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
   - Read NOTES.md before starting a batch.
   - Fetch origin/main fresh before triage; the ledger branch's record/ may lag main.
+  - Merge audit PRs one at a time, waiting for main's docs-generate to finish between merges (NOTES, 2026-10-19
+    merging).
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
@@ -1258,4 +1262,7 @@ history:
 - version: 80
   date: '2026-10-19'
   note: 'carried_out_in #186 and #187 (batch 010). Audit paused until the open PRs merge; hand-off rewritten.'
+- version: 81
+  date: '2026-10-19'
+  note: 'Resumed: batches 011-015 and triage-004 started in parallel; hand-off rewritten.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
