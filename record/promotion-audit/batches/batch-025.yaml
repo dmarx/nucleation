@@ -1,0 +1,75 @@
+# record/promotion-audit/batches/batch-025.yaml
+batch: batch-025
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+selection: >-
+  Wave 3, the re-derivation route of triage-005 (queue v102), in code
+  order: THEORY-308, THEORY-314, THEORY-320, THEORY-391, THEORY-472. Run in
+  parallel with other batch sessions. The parent session integrates this
+  file into queue.yaml and NOTES.md.
+reviewed: [THEORY-308, THEORY-314, THEORY-320, THEORY-391, THEORY-472]
+outcomes:
+  promote: [THEORY-314]
+  narrow-and-promote: [THEORY-308, THEORY-391, THEORY-472]
+  split: [THEORY-320]
+yield: 5 of 5 found a promotion path (three on ADR-047 v2, two on v3 after narrowing)
+route_check:
+  # batch 020's sort rule applied before review
+  - code: THEORY-308
+    title_asserts: theorems
+    route: re-derivation
+  - code: THEORY-314
+    title_asserts: theorem
+    route: re-derivation
+  - code: THEORY-320
+    title_asserts: an identity plus toy results
+    route: re-derivation for the identity; the toy results need appendix B
+  - code: THEORY-391
+    title_asserts: a cited theorem plus a measurement
+    route: ADR-047 v3, after attributing the theorem
+  - code: THEORY-472
+    title_asserts: a derivation plus two measurements
+    route: v2 for the derivation, v3 for the measurements
+finding: >-
+  triage-005's re-derivation route held up on its first full batch: all
+  five yielded. But two of the five were mixed titles whose measured half
+  took v3. The route flag sorts on formal content, not on the absence of
+  measurement. Both mixed cases needed the same two narrowings:
+  - attribute a theorem that the record cites but does not hold (THEORY-391);
+  - name the derivation's assumptions (THEORY-472).
+  The one split (THEORY-320) is the familiar shape: an exact identity
+  re-derivable in three lines, sharing a title with toy computations
+  from an unread appendix.
+recommendation: >-
+  Keep sending triage-005's re-derivation route first. In the decision file,
+  mark each clause of a mixed title with its route (v2 or v3) before
+  narrowing. A narrowed title should attribute any theorem it cites but
+  the record does not hold.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-308: narrow-and-promote, with the two closed gaps and the rate's assumptions as a dated note. THEORY-314: promote, with the H_k proof and existence conditions as a dated note. THEORY-320: split; a new Active THEORY holds the exact residual identity, and THEORY-320 keeps the toy clauses with a note recording the reconstruction."
+  - "THEORY-391 and THEORY-472: narrow-and-promote under ADR-047 v3, each promote_when moved to a new QUESTION (refining QUESTION-120, and beside THEORY-172)."
+notes_for_ledger:
+  - >-
+    A reconstruction can show that a toy is not recoverable from the
+    record. For THEORY-320, rebuilding the toy graph from NOTE-833's
+    description reproduced Theorem 5.2 exactly, but not Theorem 5.3's
+    threshold or Lemma 5.4's harm case. That shows the set-up is
+    underdetermined, not that the paper is wrong. Record the
+    reconstruction and its mismatches in the decision file, so the next
+    reading of appendix B can settle it in one round.
+  - >-
+    The Donsker–Varadhan approximation gap closes by two-sided truncation.
+    The negative part of log dP/dQ is P-integrable whenever MI is finite:
+    ∫ p log(q/p) over {p < q} is at most 1, by log x ≤ x − 1. The
+    estimation gap closes by weak convergence of the empirical measures,
+    uniform over an equicontinuous family. Both are reusable for other
+    variational-bound estimators (NWJ, InfoNCE) the record may hold.
+  - >-
+    Representer theorems over the completed RKHS need only projection onto
+    a finite span and strict monotonicity. Existence needs lower
+    semicontinuity and coercivity, and a counterexample without lower
+    semicontinuity takes one line. Use this template when other kernel
+    results are stated over expansion classes rather than H_k.

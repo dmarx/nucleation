@@ -1,0 +1,68 @@
+# record/promotion-audit/decisions/THEORY-472.yaml
+id: THEORY-472
+batch: batch-025
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    Two parts. The derivation is re-derived under ADR-047 v2, and the
+    experiments take ADR-047 v3's route. NOTE-627 read the paper in full,
+    and every number the title rests on is in its text.
+
+    The derivation.
+    Let the intended meaning M_S be a point mass on the referent r, and
+    let a word's literal meaning w̃ be uniform on its extension ext(w),
+    with |w| = |ext(w)|.
+    D_KL(M_S ‖ w̃) = Σ_o M_S(o) log(M_S(o)/w̃(o)) = log(1/w̃(r)).
+    This is log |w| if r ∈ ext(w), and ∞ otherwise.
+    With utility U = −D_KL and P(w) ∝ exp(αU), P(w | r) = |w|^(−α) / Σ
+    |w′|^(−α) over the words true of r. False words get probability 0,
+    since exp(−∞) = 0.
+    That is the size principle, derived from informative choice. It
+    needs both assumptions: the point-mass intent and the uniform literal
+    meanings.
+
+    The learner (Eq. 12).
+    Let the referent be known, with two candidate lexicons under a uniform
+    prior: the novel word names f₁, or it names f₂. With α = 1, the
+    posterior on f₁ is |f₁|⁻¹ / (|f₁|⁻¹ + |f₂|⁻¹). With one red object and
+    two circles, that gives 2/3 for "red", as the paper says.
+
+    The measurements.
+    Experiment 1 (700 participants): bets against the parameter-free model
+    correlate at r = .93 on condition means.
+    Experiment 2 (44 describers): tag-word use against Eq. 10 correlates at
+    r = .19 overall, .51 without colour terms, and .02 for colour terms.
+
+    Narrowed title:
+    "A speaker who chooses words to minimise the information lost about a
+    single intended referent, with words' literal meanings uniform over
+    their extensions, picks each true word with probability inversely
+    proportional to a power of its extension, so the size principle
+    follows from informative communication; in one betting experiment,
+    learners who knew the referent bet on a novel word's meaning in line
+    with the inversion of that speaker (r = .93 on condition means), and
+    in one free-description study speakers' word use followed it only
+    weakly (r = .19)."
+  excluded: >-
+    That learners reason about the speaker. The body already disclaims it:
+    in these displays the informative-speaker learner and a plain
+    size-principle learner coincide by construction. The promote_when asks
+    for a discriminating experiment, which tests that disclaimed claim. It
+    moves unchanged to a new QUESTION, set beside THEORY-172. Also excluded:
+    any production claim beyond the one weak study.
+evidence:
+  - "NOTE-627 (Read in full): Eqs. 4–12 checked by hand (C1 strong); Experiment 1 (C2 moderate) and Experiment 2 (C3 weak), all numbers in text."
+  - "The derivation above (ADR-047 v2)."
+blockers: []
+notes: >-
+  This is a mis-targeted promote_when, the THEORY-014 shape. The condition
+  tests a claim the title does not make. The title narrows to the
+  derivation's two assumptions and to "in one experiment", the hedge v3
+  needs.
+next_action: >-
+  Narrow and promote in batch 025's v3 PR, with the promote_when moved to
+  a new QUESTION related to THEORY-172.
