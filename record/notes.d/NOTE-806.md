@@ -30,7 +30,6 @@ summary: >-
   data-dependent except for a coupling term, and its experiment drops
   that term.
 ---
-<!-- inactive-ok-file: THEORY-238 — Proposed; the account of LIT-245's bound, the application this paper names, cited for context -->
 <!-- inactive-ok-file: NOTE-216 — Superseded; the skim of this paper, whose open questions this reading answers -->
 
 # NOTE-806: Sefidgaran & Zaidi — Data-Dependent Generalization Bounds via Variable-Size Compressibility

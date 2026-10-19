@@ -34,7 +34,7 @@ summary: >-
 answers:
 - QUESTION-040
 ---
-<!-- inactive-ok-file: THEORY-263 THEORY-266 THEORY-318 — Proposed; the lossy, data-dependent and trajectory extensions, named in Connections and not leaned on -->
+<!-- inactive-ok-file: THEORY-263 THEORY-318 — Proposed; the lossy, data-dependent and trajectory extensions, named in Connections and not leaned on -->
 
 # THEORY-028: The expected bias of any data-dependent choice, and the expected generalisation error of any learning algorithm, is at most √(2σ²·I) for σ-subgaussian losses, where I is the information the output carries about the data
 

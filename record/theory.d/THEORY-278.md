@@ -1,26 +1,25 @@
 ---
 number: 278
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpqg4nq
-promote_when: >-
-  A measurement in trained networks that the model's dynamics are the
-  ones training follows. Track the singular values ω_j of
-  Σ_W^(−1/2)M̃ through the terminal phase of MSE training, without
-  imposed re-whitening, on more than one architecture and with several
-  seeds. Check that they grow at a common rate, that their ratio tends to
-  1, and that the limiting direction is set by the singular vectors early
-  in training, as Corollary 2 predicts. A derivation that drops the
-  continual renormalization, or that allows weight decay, would also
-  promote it. It is refuted if, near the central path, the ω_j spread
-  apart or stall while L⊥_LS stays negligible. It is also refuted if the
-  deviation from the least-squares classifier stops being negligible in
-  settings LIT-974 did not test (augmentation, many classes, imbalance).
-  Further closed-form results in the same renormalized model cannot settle
-  it, nor can NC1–NC4 curves alone, which any account of collapse
-  predicts.
-title: 'Under MSE loss a trained classifier stays near the least-squares classifier for its own features, and on that central path, for unconstrained features continually renormalized to identity within-class covariance, gradient flow drives the class-separation singular values to infinity at equal rates, which is neural collapse'
-version: 1
+title: 'Under MSE loss, in LIT-974''s VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-278 (batch 038, ADR-047 v2 and v3). The measured half is
+    narrowed to what LIT-974 measured: fifteen cells, balanced ten-class
+    datasets, one run each, with the authors' "negligible" kept as
+    theirs. The derived half (Lemma 1, Proposition 2, Corollaries 1 and
+    2) was re-derived step by step, in the dated note below, and it now
+    says "without weight decay", as the theory assumes. The promote_when
+    asked whether ordinary training follows the renormalized flow, and
+    whether the central path holds in untested settings. This account
+    claims neither, and the request moves unchanged to
+    QUESTION-tmpu84bn.
 tags:
 - learning-theory
 - representation-learning
@@ -43,7 +42,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
 
-# THEORY-278: Under MSE loss a trained classifier stays near the least-squares classifier for its own features, and on that central path, for unconstrained features continually renormalized to identity within-class covariance, gradient flow drives the class-separation singular values to infinity at equal rates, which is neural collapse
+# THEORY-278: Under MSE loss, in [LIT-974](../literature.d/LIT-974.md)'s VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse
 
 ## Source
 
@@ -126,3 +125,36 @@ strongest, so the means equalize as they separate.
 - **Anthology.** MSE training of classifiers is ML practice, and the
   anthology is the place for it. This account claims nothing about which
   loss to use.
+
+## Note of 2026-10-19: the renormalized dynamics, re-derived
+
+From [LIT-974](../literature.d/LIT-974.md) App. D (arXiv v4, pp. 25–31). The features X are kept on the
+manifold X C Xᵀ = I_C, where C = (1/CN)(I − YᵀY/N) centres within classes.
+They follow the gradient flow projected onto that manifold's tangent space.
+
+- **The loss.** In aligned SNR coordinates, Ω = (1/N) X Yᵀ is diagonal,
+  and ω_j = (1/N) x_jᵀ y_j for the j-th rows x_j and y_j of X and of the
+  label-indicator matrix Y. Each direction contributes
+  (1/C)(ω²/(ω²+C) − 1)² + ω²/(C+ω²)² = 1/(ω²+C), so L = ½ Σ 1/(ω_j² + C).
+- **The flow.** The projected differential of ω_j involves only x_j, and
+  dx_j/dt = (ω_j/(C+ω_j²)²)((1/N) y_j − ω_j C x_j). Since Y y_j = N e_j,
+  C y_j = 0. Hence dω_j/dt = (1/N) y_jᵀ dx_j/dt = (1/N) ω_j/(C+ω_j²)².
+  The same computation gives (dΩ/dt)_jk ∝ δ_jk. So Ω stays diagonal in
+  the basis it entered the path with, and the singular vectors do not
+  move.
+- **Integration.** Separating variables, (C+ω²)²/ω dω = dt/N, gives
+  C²N log ω_j + CN ω_j² + (N/4) ω_j⁴ = a_j + t.
+- **Limits.** ω_j increases. It cannot stay bounded while the right side
+  grows, so ω_j → ∞. The quartic term then dominates, giving
+  ω_j/(4t/N)^(1/4) → 1 for every j, and max ω_j / min ω_j → 1.
+- **Collapse.** With Σ_W held at I, Σ_B grows like ω², so Σ_B†Σ_W → 0
+  (NC1). The whitened class means tend to a multiple of U₀V₀ᵀ. Their Gram
+  matrix tends to a multiple of I − 11ᵀ/C, a simplex ETF (NC2). NC3 and
+  NC4 follow on the central path by [LIT-618](../literature.d/LIT-618.md)'s Theorem 1, which is cited,
+  not re-derived.
+
+The measured half was not re-derived. It rests on Figure 2, which the
+record holds through its caption and the text's statement that L⊥_LS
+"becomes negligible compared to" L_LS "starting from an early epoch in
+training and persists into TPT".
+

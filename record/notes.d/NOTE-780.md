@@ -29,7 +29,6 @@ summary: >-
   A tail bound replaces I(S;W) by its supremum over laws within log(1/δ)
   in KL. Every bound depends on the unknown data distribution.
 ---
-<!-- inactive-ok-file: THEORY-238 — Proposed; the account of LIT-245's bound, which descends from this framework, cited for context -->
 
 # NOTE-780: Sefidgaran, Gohari, Richard & Şimşekli — Rate-Distortion Theoretic Generalization Bounds
 

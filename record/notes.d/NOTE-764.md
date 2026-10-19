@@ -31,7 +31,7 @@ summary: >-
   minority classifiers closer together. No finite weight decay gives SELI,
   and SGD approaches it more slowly as imbalance grows.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-278 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, the MSE account filed beside this reading, and the account filed from it -->
+<!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, the MSE account filed beside this reading, and the account filed from it -->
 
 # NOTE-764: Thrampoulidis et al. — Imbalance Trouble
 
