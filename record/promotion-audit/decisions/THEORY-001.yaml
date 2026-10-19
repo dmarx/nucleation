@@ -1,0 +1,18 @@
+# record/promotion-audit/decisions/THEORY-001.yaml
+id: THEORY-001
+batch: batch-000
+reviewed: '2026-10-19'
+reviewed_revision: 27ae8a3906d5b75a57767f7e524acd6749a2344f  # head of PR #165, where the decision was made and carried out
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The spectral and NT-Logistic minimizers (THEORY-tmpsuto2), Active.
+  excluded: >-
+    The InfoNCE/NT-Xent minimizer.
+evidence:
+  - "PR #165 and its curation entries record/curation.d/2026/10/19/024107.md, 034134.md and 041525.md."
+blockers: ['A read derivation of the InfoNCE minimizer with its conditions on negatives.']
+carried_out_in: 'PR #165 (open as of 2026-10-19)'
+next_action: None.

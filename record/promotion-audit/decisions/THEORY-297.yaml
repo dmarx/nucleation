@@ -1,0 +1,52 @@
+# record/promotion-audit/decisions/THEORY-297.yaml
+id: THEORY-297
+batch: batch-007
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+triage: triage-002-control
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The title's three statements, for a measurable bijection T: M → N
+    between compact Riemannian manifolds, each checked for this review by a
+    direct route.
+    (1) Equivalence: T_F(f) = f∘T⁻¹ is linear and sends 1_A to 1_(T(A)), so
+    it determines T(A) for every measurable A, and with it T up to null sets
+    (pointwise if T is continuous).
+    (2) Orthogonality: if T preserves volume, ‖f∘T⁻¹‖²_N = ∫_N |f(T⁻¹y)|² dy
+    = ∫_M |f|² dx, so T_F is unitary L²(M) → L²(N). In orthonormal bases its
+    matrix C satisfies Cᵀ C = I, and C = Dᵀ with D the matrix of T⁻¹. This
+    agrees with NOTE-822's check of Theorem 5.1(1).
+    (3) Eigenspaces: a Riemannian isometry pulls back the metric, and the
+    Laplace–Beltrami operator is built from the metric alone, so
+    Δ_N(f∘T⁻¹) = (Δ_M f)∘T⁻¹. So T_F maps the λ-eigenspace of M onto the
+    λ-eigenspace of N, and C_ij = 0 whenever λ_i ≠ λ_j, by orthogonality of
+    eigenspaces. That is the textbook naturality of the Laplacian under
+    isometries, which the paper cites "as well known".
+  excluded: >-
+    The promote_when's clause on truncation: conditions under which the
+    truncated n × n block of an exact isometry stays orthogonal (a spectral
+    gap at n), and the stability of truncated eigenspaces under
+    near-isometries (Kato). The THEORY already disclaims both ("Not that
+    truncation is stable"), so they go to a QUESTION unchanged. The title's
+    "equivalent" needs the qualifier "up to null sets" for merely measurable
+    bijections.
+evidence:
+  - "NOTE-822: orthogonality 'checked'; commutation with the Laplacian 'cited as well known'."
+  - "The three checks above, using only change of variables and the metric naturality of Δ."
+  - "For an exact isometry the truncation question is in fact easy when n ends at a spectral gap: C is block-diagonal by eigenspace, so the leading n × n block is a direct sum of orthogonal blocks. The promote_when's harder content is the near-isometric case, which the THEORY does not claim."
+blockers: []
+notes: >-
+  The promote_when's first clause, "an independent statement and proof of
+  Theorem 5.1 and of the eigenspace-preservation consequence", is met by
+  the record's own proof above, not by a second source. Recorded so that
+  this is not a silent override; as with THEORY-233, the proof can go in a
+  dated note or a CLAIM, at the owner's preference.
+unlocks:
+  - "QUESTION-052 and CLAIM-164 cite it for isometry-invariant signatures (eigenspaces as spaces)."
+next_action: >-
+  Narrow-and-promote PR. Qualify "equivalent" (up to null sets), add the
+  three checks as a dated note, move the truncation and near-isometry
+  clause to a QUESTION, remove the promote_when, and set Active.

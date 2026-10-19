@@ -5,9 +5,21 @@ formerly:
 - CLAIM-tmpjmtw0
 title: Sorting schemes over objects with determinate properties never conflict as
   descriptions, since the product of any sortings refines them all; they conflict
-  as arrangements, since a fixed number of bins realizes one partition, and which
-  costs least depends on what is searched for and on what stands out within a bin
-version: 1
+  as arrangements, since a fixed number of bins realizes one partition when each
+  item is stored once, and which costs least depends on what is searched for and on
+  what stands out within a bin
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    The one-copy condition is added to the title and the arrangement clause,
+    answering CLAIM-313, which goes Active in the same change, at the owner's
+    direction (promotion audit, record/promotion-audit/decisions/CLAIM-313.yaml,
+    ADR-047). "A fixed number of bins realizes one partition" holds for items
+    that cannot be copied, such as bricks. It fails for index entries, which
+    can be stored in several bins at once. The description clause, the LEGO
+    case and the defeat condition are unchanged. The status stays Active.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -58,7 +70,7 @@ objected_by:
 <!-- inactive-ok-file: LIT-1081 — Unavailable; held without a reading, cited as such -->
 <!-- inactive-ok-file: CLAIM-037 CLAIM-296 — Proposed or new; open claims cited as open, nothing here rests on their being settled -->
 
-# CLAIM-310: Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition, and which costs least depends on what is searched for and on what stands out within a bin
+# CLAIM-310: Sorting schemes over objects with determinate properties never conflict as descriptions, since the product of any sortings refines them all; they conflict as arrangements, since a fixed number of bins realizes one partition when each item is stored once, and which costs least depends on what is searched for and on what stands out within a bin
 
 ## The claim
 
@@ -73,7 +85,9 @@ builders who bin the same brick differently are attending to different
 coordinates of one value.
 
 **As arrangements, a real trade.** A set of k bins realizes one partition
-of the collection at a time. Three things then decide which partition
+of the collection at a time when each item is stored once, as a brick is.
+Where items can be copied, several partitions coexist at a price in space
+([CLAIM-313](CLAIM-313.md)). Three things then decide which partition
 serves a builder, and none of them is a fact about any brick ([CASE-095](../cases.d/CASE-095.md)):
 
 1. **The bin budget.** The product of the sortings serves every query and
@@ -137,3 +151,12 @@ collection.
   corroborates that one ([ADR-044](../decisions.d/ADR-044.md)): changing the arrangement alone changes
   the cost of retrieval, which meets [CLAIM-296](CLAIM-296.md)'s defeat condition head-on.
   [CLAIM-296](CLAIM-296.md) does not rest on it.
+
+## Note of 2026-10-19: the one-copy condition
+
+[CLAIM-313](CLAIM-313.md), now Active, showed that "a fixed number of bins realizes one
+partition" is a fact about items that cannot be copied, not about bins.
+Hashing-based search stores every point in many tables, each a partition.
+The title and the arrangement clause now carry the condition. The trade this
+claim describes is unchanged for bricks. For copyable items it becomes a
+trade of space against query time.

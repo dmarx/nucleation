@@ -12,7 +12,7 @@ promote_when: >-
   Poole et al. cite it from Ma & Collins; a close reading of either original
   proof, with its conditions on the negatives, would settle it.
 title: 'On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -36,6 +36,16 @@ history:
     Connections. The §2.4 quotation from Tosh et al. replaced with the
     paper's own words, and their §5 cited for the log-versus-ratio
     contrast. The Deferred comment on LIT-251 removed.
+- version: 4
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, from the second pass of the owner's
+    promotion audit of 2026-10-19, the confirmed half is filed apart as
+    THEORY-719, Active: the spectral and NT-Logistic minimizers on a
+    finite space, App. B.2–B.3, read in NOTE-751. This THEORY extends it
+    and keeps the three-way statement, which waits on the InfoNCE/NT-Xent
+    minimizer as before. The promote_when and the claim are unchanged;
+    the status stays Proposed.
 tags:
 - representation-learning
 - information-theory
@@ -54,6 +64,8 @@ summary: >-
   classes; that form is taken from van den Oord et al., not derived. It is a
   statement about the unconstrained optimum, not about what a network
   reaches.
+extends:
+- THEORY-719
 extended_by:
 - THEORY-007
 answers:
@@ -84,3 +96,11 @@ The derivation could have come out otherwise: a loss whose optimum depended on t
 ## Connections
 
 - Tan et al. ([LIT-227](../literature.d/LIT-227.md), [THEORY-305](THEORY-305.md)) show a different statement: InfoNCE equals a Laplacian form on the positive-pair graph plus log normalizers, at every embedding. They name no optimum and no density ratio.
+
+## Note of 2026-10-19: the confirmed half filed apart
+
+The spectral and NT-Logistic minimizers, which [NOTE-751](../notes.d/NOTE-751.md) confirmed, are now
+[THEORY-719](THEORY-719.md), Active. What keeps this THEORY Proposed is only the third
+loss: the InfoNCE/NT-Xent minimizer, taken from van den Oord et al. and
+derived over symmetric functions only. The promote_when says what would
+settle it.

@@ -30,7 +30,6 @@ summary: >-
   stationarity.
 ---
 
-<!-- inactive-ok-file: THEORY-155 — Proposed; the account this reading bears on -->
 <!-- inactive-ok-file: LIT-768 — Unavailable; named as the classical case, not leaned on -->
 
 # NOTE-616: Iterated learning (Kalish, Griffiths & Lewandowsky)

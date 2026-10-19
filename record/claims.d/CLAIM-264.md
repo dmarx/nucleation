@@ -1,10 +1,10 @@
 ---
 number: 264
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmp5bgh5
 title: 'Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-13'
@@ -12,12 +12,33 @@ history:
     with the group B splits"). The assistant restated the general content
     without the premises about translation that CLAIM-142 rests on; CLAIM-142
     now rests on this claim.
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Corrected, then promoted from Proposed to Active at the owner's
+    direction, from the owner's promotion audit of 2026-10-19, which asked
+    for a final check of the density and strong-generator statements
+    first. The check found one wrong. The body said a strong generator
+    reflects isomorphisms and that any other family identifies objects
+    only up to a coarser equivalence, which implied that a strong
+    generator identifies objects. It does not: it makes the restricted
+    functor conservative, so a morphism the probes cannot tell from an
+    isomorphism is one, but two objects with isomorphic profiles need not
+    be isomorphic. (ℤ/p)³ and the Heisenberg group mod p, for p odd, are
+    the counterexample now in the body. Nor does identifying objects
+    require density. The leftover evidential half, which CLAIM-322 has
+    held since 2026-10-15, is removed from the body and the summary. The
+    defeat condition is restated for a demonstrated claim. With the
+    evidential half gone, the claim is cited results and the record's
+    counterexamples, all checked.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  A probe family fixed in advance, not chosen for the comparison at hand and not
-  dense or strongly generating, that is shown to separate every pair of non-
-  isomorphic objects in a class of interest.
+  An error in a cited result (density as full faithfulness of the restricted
+  Yoneda functor; a strong generator as conservativity in a category with
+  finite limits; Cramér–Wold; Lovász's homomorphism counts) or in one of the
+  record's counterexamples: (ℤ/p)³ and the Heisenberg group mod p through ℤ,
+  and distributions that agree on every probe's marginal and differ.
 tags:
 - mathematics
 - epistemology
@@ -30,12 +51,11 @@ grounds:
 - LIT-221
 summary: 'The general content of [CLAIM-142](CLAIM-142.md), filed alone under [ADR-040](../decisions.d/ADR-040.md) so that
   it does not rest on [CLAIM-046](CLAIM-046.md) and [CLAIM-011](CLAIM-011.md), which are about pragmatic identity.
-  The exact half: the restricted Yoneda functor is fully faithful exactly
-  when the probe family is dense, and reflects isomorphisms when it is a strong
-  generator; otherwise it identifies only up to a coarser equivalence. Matching
-  every probe''s marginal leaves the joint unconstrained. The evidential half:
-  a family chosen to make two objects look alike is weak evidence that they
-  share structure.'
+  The restricted Yoneda functor is fully faithful exactly when the probe
+  family is dense. A strong generator makes it conservative, which is weaker:
+  a morphism the probes see as invertible is invertible, but objects with
+  isomorphic profiles need not be isomorphic. Matching every probe''s marginal
+  leaves the joint unconstrained. The evidential rule is [CLAIM-322](CLAIM-322.md)''s.'
 supports:
 - CLAIM-142
 - CLAIM-190
@@ -45,17 +65,41 @@ complements:
 - CLAIM-302
 ---
 <!-- inactive-ok-file: CLAIM-046 CLAIM-142 CLAIM-187 CLAIM-190 CLAIM-193 QUESTION-031 — Proposed; cited for what each holds or applies, open, not settled -->
+<!-- inactive-ok-file: CLAIM-322 — Proposed; the evidential half split from this claim, named as where it now lives, not leaned on -->
 
 # CLAIM-264: Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough
 
 ## The claim
 
-**The exact half.** Restrict an object's profile to a family 𝒬 of probes,
-A ↦ Hom(−, A)|_𝒬. This functor is fully faithful exactly when 𝒬 is dense,
-as the one-point set is in Set. When 𝒬 is only a strong generator, in a
-category with finite limits, it reflects isomorphisms without capturing
-all morphisms, as ℤ does in groups. Any other family identifies objects
-only up to an equivalence coarser than isomorphism. [THEORY-032](../theory.d/THEORY-032.md) adds three
+Restrict an object's profile to a full subcategory 𝒬 of probes,
+A ↦ Hom(−, A)|_𝒬. Three things can be asked of this functor, and they come
+apart.
+
+- **It is fully faithful exactly when 𝒬 is dense**, as the one-point set is
+  in Set. Then objects with isomorphic profiles are isomorphic, and every
+  map of profiles comes from a unique morphism.
+- **In a category with finite limits, it is conservative exactly when 𝒬 is
+  a strong generator** in Kelly's sense, as ℤ is in groups. Conservative
+  means a morphism f: A → B is an isomorphism when every Hom(Q, f) is a
+  bijection. It says
+  nothing about two objects whose profiles are isomorphic by a map that no
+  morphism induces. Through ℤ, a group's profile is its underlying set with
+  the power maps g ↦ gⁿ. For p an odd prime, (ℤ/p)³ and the Heisenberg group
+  of 3 × 3 upper unitriangular matrices over ℤ/p both have order p³ and
+  exponent p. Choosing a generator of each of their (p³ − 1)/(p − 1)
+  subgroups of order p and sending gᵏ to hᵏ gives a bijection that commutes
+  with every power map, so the profiles are isomorphic, and one group is
+  abelian and the other is not.
+- **When 𝒬 is not a strong generator** in such a category, the functor is
+  not conservative: some morphism that is not an isomorphism induces a
+  bijection on every probe.
+
+Identifying objects up to isomorphism does not need density. In
+finite-dimensional vector spaces over a finite field, the field alone is
+not dense, yet its profile, the underlying set with scalar multiplication,
+has qⁿ elements and so fixes the dimension. Whether a given family is rich
+enough is a question about the family and the class of objects, which is why the claim says only that
+agreement can fall short of isomorphism. [THEORY-032](../theory.d/THEORY-032.md) adds three
 conditions from the nLab reading ([LIT-221](../literature.d/LIT-221.md)). The identifying profile is the
 hom-functor with its action by composition, not a table of hom-sets. The
 lemma needs identities. And it presupposes the objects it identifies.
@@ -68,11 +112,8 @@ linear projections determine a distribution (Cramér–Wold). For finite
 relational structures, homomorphism counts from every finite structure
 determine isomorphism (Lovász).
 
-**The evidential half.** Agreement under a probe family is evidence of
-shared structure only to the degree that the family was chosen
-independently of the comparison and is evaluated on cases it was not
-chosen on. A family selected to make two objects look alike shows that it
-can be selected.
+The rule for reading agreement under a probe family as evidence of shared
+structure is [CLAIM-322](CLAIM-322.md)'s, split from this claim on 2026-10-15.
 
 ## Where the record applies it
 

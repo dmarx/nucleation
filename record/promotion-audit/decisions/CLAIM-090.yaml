@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/CLAIM-090.yaml
+id: CLAIM-090
+batch: batch-004
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: empirical
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    What the held observations show is already Active elsewhere. THEORY-489
+    (Active): in human function-learning chains, 28 of 32 families forgot
+    their starting function and settled on the bias earlier studies report.
+    THEORY-155 (Active once PR #165 merges) is the theorem for sampling
+    learners. CLAIM-066 (Active, granted) separates what the three cited
+    works show.
+  excluded: >-
+    CLAIM-090's own content goes beyond those. It says that serial
+    transmission of utterances is filtered by inductive biases, and that
+    the endpoint "remains interpretable". The only utterance-level evidence
+    is Kirby, Cornish and Smith, whose structured outcome needs the
+    experimenter's homonym filter (CLAIM-066), and Bartlett (LIT-768),
+    which is Unavailable and unread.
+evidence:
+  - "THEORY-489 is about function learning, not utterances. 2 of 8 negative-start families ended on the negative function, and the prior was taken from earlier studies, not measured."
+  - "THEORY-155's promotion (in #165) adds a theorem, not an observation, so it does not move an empirical claim."
+blockers:
+  - >-
+    An unfiltered transmission chain of utterances or texts whose
+    transmitters' bias is stated or measured in advance, with the endpoint
+    compared against it. For example, a serial-reproduction study the
+    record reads, which Bartlett would have been. Until then the claim
+    generalizes from function learning, and an empirical claim of this
+    scope should stay Proposed.
+unlocks: []
+next_action: None. Re-review if the record reads an unfiltered utterance-level transmission chain.

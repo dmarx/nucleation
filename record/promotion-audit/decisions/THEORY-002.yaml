@@ -1,0 +1,51 @@
+# record/promotion-audit/decisions/THEORY-002.yaml
+id: THEORY-002
+batch: batch-009
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The formal core, as a new Active THEORY sourced to LIT-253 and LIT-250,
+    presupposing THEORY-004 and stated for the final embedding and
+    unembedding of softmax models.
+    (1) What is observed fixes the representation only up to that
+    observation's symmetry group. A centred linear kernel fixes it up to a
+    translation and an orthogonal map (THEORY-004, Active). The softmax
+    output distribution fixes the embedding and unembedding only up to
+    f = Af′, g₀ = A⁻ᵀg′₀ for invertible A (LIT-253 Thm 2.2, proof in
+    App. B).
+    (2) Whether near-closeness in distribution gives near-closeness of
+    representation depends on the distances used. KL can tend to zero
+    while the embeddings stay non-linearly-related (Thm 3.1, constructive
+    proof App. C.1, in the saturation regime; Cor. 3.2 for deterministic
+    labels). Under d_LLV, d_LLV ≤ ε implies d_f,g ≤ 2Mε (Thm 4.7, App.
+    E.5–E.6).
+  excluded: >-
+    What THEORY-002 keeps, Proposed: that convergence "in the Platonic
+    hypothesis's sense" is convergence of kernels, and the application to
+    Huh et al.'s pooled hidden-state kernels. NOTE-738 says that
+    application is "the record's inference, not the paper's", and it
+    reaches those kernels only by analogy, since LIT-253's results cover
+    the final layer alone. The promote_when, a stability result for the
+    representations' own kernels or a measurement of MNN against Bures
+    alignment, bears on this part and stays unchanged.
+evidence:
+  - "NOTE-738 version 1: 'Read in full … the formal statements and proofs in Apps B, C.1, C.2, E.1–E.7'. Its claims table rates C1 (Thm 2.2), C2 (Thm 3.1), C3 (Cor. 3.2) and C5 (Thm 4.7) 'strong'. C1 is a prior result restated, with proof given in App. B."
+  - "NOTE-738's Bearing on the record: the THEORY cites Thm 2.2, 3.1 and Cor. 3.2 accurately. The scope is the final embedding and unembedding only. The Platonic application is the record's inference."
+  - "THEORY-004 (Active) supplies the orthogonal case, which THEORY-002 already presupposes."
+blockers: []
+notes: >-
+  This is a wave-2 split of the THEORY-005/THEORY-001 kind. The proved part
+  is held in full readings, and the title bundles it with an interpretive
+  reading of a hypothesis. Thm 2.2 is a restated prior result, but App. B
+  gives its proof and NOTE-738 read that, so ADR-047 v2 is not needed.
+unlocks:
+  - "CLAIM-269 and CLAIM-193 ground 'kernels fix a representation only up to the symmetry of what is observed' on THEORY-002. Once the new THEORY merges, they can re-ground on it (with THEORY-004), which removes a Proposed ground from CLAIM-269's split (batch 004)."
+next_action: >-
+  Split PR. File the formal core as a new Active THEORY (source LIT-253,
+  LIT-250; presupposes THEORY-004; final-layer scope stated). THEORY-002
+  extends it and keeps the Platonic reading and its promote_when, Proposed.
+  Then a wave-4 note for CLAIM-269 and CLAIM-193.

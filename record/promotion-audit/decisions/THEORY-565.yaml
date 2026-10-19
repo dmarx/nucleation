@@ -1,0 +1,65 @@
+# record/promotion-audit/decisions/THEORY-565.yaml
+id: THEORY-565
+batch: batch-010
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The algebraic core, on a finite data set, as a new Active THEORY sourced
+    to LIT-981. Take a symmetric, positivity-preserving, positive
+    semi-definite affinity k. The Markov normalization A = D⁻¹K is conjugate
+    to the symmetric Ã = D^(-1/2) K D^(-1/2), so it has real eigenvalues
+    1 = λ₀ ≥ λ₁ ≥ … ≥ 0. Scaling its right eigenvectors by λ^m embeds the
+    data so that Euclidean distance equals the m-step diffusion distance
+    exactly, using all eigenvectors; truncation is approximate. LIT-981
+    states this and calls it standard. It is re-derived below under ADR-047
+    v2.
+  excluded: >-
+    What THEORY-565 keeps, Proposed, with its promote_when unchanged: the
+    α-family and Theorem 2.1, which say the α = 1 normalization converges to
+    the Laplace–Beltrami operator independently of the sampling density.
+    LIT-981 defers the proof to Coifman and Lafon's companion paper, which
+    the record does not hold, and NOTE-784 could not see the displayed
+    equations. That is an analytic limit theorem, and no short
+    re-derivation is available within this pass.
+evidence:
+  - "NOTE-784 (Skimmed; prose, theorem statement and captions read; equations not visible): the construction and the embedding are stated in prose, and the convergence theorem is stated without proof."
+  - >-
+    Re-derivation (finite data, n points). Let K = (k(x,y)) be symmetric with
+    positive entries and positive semi-definite, d(x) = Σ_y k(x,y),
+    D = diag(d), vol = Σ_x d(x) and π = d/vol. Put A = D⁻¹K, a Markov matrix
+    with stationary law π, since πA = 1ᵀK/vol = dᵀ/vol = π by the symmetry
+    of K. Then Ã = D^(1/2) A D^(-1/2) = D^(-1/2) K D^(-1/2) is symmetric, and
+    it is positive semi-definite as a congruence of K. So Ã = Σ_j λ_j v_j v_jᵀ
+    with orthonormal v_j and λ_j ≥ 0. A is stochastic, so its spectral
+    radius is 1, and λ_j ≤ 1, with λ₀ = 1 and v₀ = √d/√vol. Put
+    ψ_j = √vol · D^(-1/2) v_j and φ_j = D^(1/2) v_j / √vol. Then
+    A^m = Σ_j λ_j^m ψ_j φ_jᵀ, ψ₀ ≡ 1, and Σ_y φ_i(y) φ_j(y) / π(y) = δ_ij.
+    Define the diffusion distance
+    D_m(x,z)² = Σ_y (A^m(x,y) − A^m(z,y))² / π(y). Expanding and using that
+    orthogonality gives D_m(x,z)² = Σ_{j≥1} λ_j^(2m) (ψ_j(x) − ψ_j(z))². The
+    j = 0 term vanishes because ψ₀ is constant. So the map
+    x ↦ (λ_j^m ψ_j(x))_{j≥1} is an isometry from the diffusion distance to
+    Euclidean distance. Truncating to the first few coordinates drops only
+    nonnegative summands, so the truncated distance is a lower bound, short
+    by exactly the dropped terms. These are small once λ_j^(2m) is, which is
+    the approximate isometry the paper states.
+blockers: []
+notes: >-
+  A wave-2 split of the THEORY-604 kind. A standard spectral construction is
+  bundled with an analytic convergence theorem, and the promote_when tests
+  only the theorem. The isometry needs the 1/π weighting in the diffusion
+  distance. The new THEORY should state that weighting, since NOTE-784 says
+  the paper's formula was not seen and the standard definition was
+  assumed. The positive semi-definite hypothesis is used only for λ_j ≥ 0.
+  Without it the eigenvalues lie in [−1, 1], and the embedding is still an
+  isometry for every m, with signed coordinates λ_j^m ψ_j.
+unlocks:
+  - "THEORY-239 cites this diffusion distance through LIT-975 §5.3. Check it in a dependency pass once the split merges."
+next_action: >-
+  Split PR. File the finite-data construction and isometry as a new Active
+  THEORY sourced to LIT-981, with the re-derivation above as a dated note.
+  THEORY-565 extends it and keeps the α-family and Theorem 2.1, Proposed.

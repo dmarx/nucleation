@@ -29,7 +29,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-164 — Proposed; filed from this reading -->
-<!-- inactive-ok-file: THEORY-155 — Proposed; named for contrast, not tested here -->
 
 # NOTE-628: Larger communities create more systematic languages
 

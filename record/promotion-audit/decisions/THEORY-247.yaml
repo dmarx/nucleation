@@ -1,0 +1,56 @@
+# record/promotion-audit/decisions/THEORY-247.yaml
+id: THEORY-247
+batch: batch-006
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    Narrowed to the fixed-point form. For finite action-free labelled chains
+    and γ in (0, 1), the bisimulation metric, taken as the unique fixed point
+    of Ferns et al.'s equation, equals the bicausal transport cost with
+    ground cost (1−γ)|r(x)−r(y)|. That cost is (1/(1−γ)) times the minimum
+    of ⟨µ, c⟩ over occupancy couplings satisfying the flow constraint and
+    the two coherence constraints. Both steps were checked for this review
+    by a route independent of the paper's text.
+    (1) Identification: T V(xy) = c(xy) + γ min over p in Π_xy of Σ p V is a
+    γ-contraction in sup norm, since a minimum over one fixed set of linear
+    functionals is 1-Lipschitz. Eq. 3 and Eq. 5 are the same operator when
+    c = (1−γ)|r(x) − r(y)|, so their unique fixed points coincide.
+    (2) Lemma 1, as the occupancy-measure LP of a finite MDP whose states
+    are pairs and whose actions are couplings in Π_xy. A stationary
+    coupling π gives µ_π satisfying flow and coherence. Conversely, from a
+    feasible µ, set π = µ/ν where ν > 0, and any coupling elsewhere.
+    Coherence makes π a coupling of the marginals. ν then solves
+    νᵀ = (1−γ)δᵀ + γνᵀZ_π, which has a unique solution because I − γZ_π is
+    invertible, so µ = µ_π. The objective is the discounted cost, and the
+    minimum over stationary couplings is W_γ by Theorem 3.
+  excluded: >-
+    That this fixed point equals the logical bisimulation metric, a
+    supremum over a grammar of functional expressions, and that distance
+    zero means bisimilar. Both are cited to van Breugel & Worrell (2001) and
+    Desharnais et al. (2002), not proved in LIT-962 (NOTE-757 C6,
+    "second-hand"). The title's "the discounted bisimulation metric"
+    should name the fixed-point definition, with the logical
+    characterisation moved to "What this does not say" as cited.
+evidence:
+  - "NOTE-757: C1 'strong; uniqueness of the two fixed points, Eqs. 3 and 5; the logical form is cited'. C2 'strong; Lemma 1 and Theorem 1, proved in App. B'."
+  - "LIT-962 is refereed: NeurIPS 2024 (LIT-962, history version 1). The promote_when lists 'a machine-checked or refereed derivation of the occupancy-coupling LP' as one way to meet it."
+  - "The two re-derivations above. The MDP route for (2) is the textbook occupancy-measure argument, not the paper's own."
+blockers: []
+notes: >-
+  The promote_when asks for "an independent check". This decision counts
+  the record's own re-derivation, by the standard contraction and
+  occupancy-measure route, together with the paper's refereed status. It
+  says so here so that the reading is not a silent override. If the owner
+  wants a held textbook source for the occupancy LP (Puterman, ch. 6), that
+  is a LIT to register, and the promotion can wait for it.
+unlocks:
+  - "THEORY-280 builds on the LP and makes it estimable from samples. Check it in a wave-4 pass."
+next_action: >-
+  Narrow-and-promote PR. Restate the title with the fixed-point definition
+  of the metric, add the two checks above as a dated note, move the logical
+  characterisation into "What this does not say" as cited, remove the
+  promote_when, and set Active.

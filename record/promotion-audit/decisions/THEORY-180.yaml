@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-180.yaml
+id: THEORY-180
+batch: batch-010
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The identity, as a new Active THEORY sourced to LIT-857 (Appendix A,
+    proved there). With tied weights, λ‖W‖²_F = λ‖WWᵀ‖_*, so weight decay on W
+    is a nuclear-norm penalty on the PSD query–key map S = WWᵀ. For untied
+    factors, min over UVᵀ = M of (‖U‖²_F + ‖V‖²_F)/2 equals ‖M‖_*. Either way,
+    for any loss that depends on the weights only through the product,
+    square-penalized training is nuclear-norm-penalized training of the
+    product. Re-derived below (ADR-047 v2), as a check on the source's
+    proof.
+  excluded: >-
+    What THEORY-180 keeps, Proposed, with its promote_when unchanged: the
+    spectral law η·ReLU(S0 + δZ − εI) for the trained map, which is a
+    replica/AMP claim with a proof sketch, valid under a replicon condition
+    checked only numerically (LIT-857 Claim 4.1, NOTE-661). The paper
+    itself says the multi-token Gaussian-universality and AMP bound
+    arguments are still missing. The conjectured decomposition of the
+    excess error stays too.
+evidence:
+  - "THEORY-180's own 'What was actually shown': 'Two things of different strength. An identity, proved ... A spectral law, derived non-rigorously.'"
+  - >-
+    Re-derivation. Tied: ‖W‖²_F = Tr(WWᵀ). WWᵀ is symmetric PSD, so its
+    singular values are its eigenvalues and ‖WWᵀ‖_* = Tr(WWᵀ). Untied: for
+    any U, V with UVᵀ = M, Hölder's inequality for Schatten norms gives
+    ‖M‖_* = ‖UVᵀ‖_* ≤ ‖U‖_F ‖V‖_F, and AM–GM gives
+    ‖U‖_F‖V‖_F ≤ (‖U‖²_F + ‖V‖²_F)/2. Equality is attained: if M = PΣQᵀ is
+    an SVD, take U = PΣ^(1/2) and V = QΣ^(1/2). Then UVᵀ = M and
+    ‖U‖²_F = ‖V‖²_F = Tr Σ = ‖M‖_*. So the minimum is ‖M‖_*. When the loss
+    depends on (U, V) only through UVᵀ, minimizing loss + λ(‖U‖²_F + ‖V‖²_F)/2
+    over (U, V) is minimizing loss + λ‖M‖_* over M, with ranks bounded by the
+    inner dimension.
+blockers: []
+notes: >-
+  A wave-2 split of the clean kind. The THEORY already separates the
+  proved identity from the non-rigorous law, and the promote_when tests
+  only the law. The new THEORY should keep the caveat that the rank of M
+  is bounded by the factor's inner dimension, which is p for W ∈ ℝ^(d×p),
+  so the nuclear-norm problem is over matrices of rank at most p.
+unlocks:
+  - "CLAIM-148 is supported by THEORY-180. In a dependency pass, check whether it uses only the identity."
+next_action: >-
+  Split PR. File the weight-decay/nuclear-norm identity as a new Active
+  THEORY sourced to LIT-857 (App. A), with the re-derivation as a dated
+  note. THEORY-180 extends it and keeps the spectral law, the
+  error decomposition and the promote_when, Proposed.

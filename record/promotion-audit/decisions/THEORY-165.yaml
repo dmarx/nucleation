@@ -1,0 +1,55 @@
+# record/promotion-audit/decisions/THEORY-165.yaml
+id: THEORY-165
+batch: batch-005
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    Both parts can be Active, filed in the right schemes.
+    (1) THEORY-165, narrowed to what LIT-265 proves: within a fixed scenario,
+    NCF(e) is the value of the linear programme max{1·b : Mb ≤ v_e, b ≥ 0}
+    (Eq. 3), and CF is convex along mixtures (Theorem 2, supplemental proof
+    read in NOTE-236). That is narrow-and-promote.
+    (2) A new demonstrated CLAIM in the formal-apparatus line, the record's
+    own derivation: CF is piecewise linear and Lipschitz in the probability
+    table, |CF(e) − CF(e′)| ≤ (max_k ‖y_k‖₁)·‖v_e − v_e′‖_∞, with y_k the
+    vertices of the dual polyhedron and a constant that depends only on the
+    scenario. The THEORY's own summary calls this "the reader's derivation
+    from strong duality, not stated in the paper". A result the record
+    proves is a CLAIM (ADR-032; THEORY-005 precedent).
+  excluded: >-
+    Nothing beyond "What this does not say": no cross-scenario statement, no
+    signalling data, no bound on the scenario constant, and no continuity of
+    the decomposition.
+evidence:
+  - >-
+    Checked for this review, as the promote_when's second option asks.
+    The primal is feasible (b = 0) and bounded: each global assignment's
+    column has exactly one 1 in each context, and v_e sums to 1 over a
+    context, so 1·b ≤ 1. LP duality then gives strong duality, without
+    needing the paper's proof. The dual P = {y ≥ 0 : Mᵀy ≥ 1} is nonempty:
+    the indicator of one context's entries satisfies Mᵀy = 1. P lies in the
+    orthant, so it contains no line and has finitely many vertices, and its
+    recession cone is nonnegative. Since v_e ≥ 0, y·v_e does not decrease
+    along a recession direction, so the minimum is attained at a vertex, and
+    NCF(e) = min_k y_k·v_e. That function is concave and piecewise linear,
+    so CF is convex, which agrees with Theorem 2. Lipschitz:
+    |min_k a_k − min_k b_k| ≤ max_k |a_k − b_k|, and |y_k·Δv| ≤ ‖y_k‖₁‖Δv‖_∞.
+  - "NOTE-236 read Theorem 1, Theorem 2 and the supplemental proofs."
+  - "The CHSH line check (CF = 0 up to t = ½, then 2t − 1) is consistent, and is not needed for the proof."
+blockers: []
+notes: >-
+  "Strong duality holds" needs no citation once boundedness is shown,
+  since a feasible and bounded LP has a dual attaining the same value.
+  Writing that in the claim removes the last dependence on the paper's
+  supplemental proof for (2).
+unlocks:
+  - "CLAIM-105, CLAIM-235, CLAIM-319 and CLAIM-320 cite THEORY-165. Check in a wave-4 pass whether any needs only the Lipschitz bound, which would become the new claim."
+next_action: >-
+  Split PR. Narrow THEORY-165 to the LP characterisation and convexity
+  (LIT-265) and set it Active, removing the promote_when. File the
+  piecewise-linear Lipschitz bound as a new demonstrated CLAIM, Active,
+  with the proof above, and have THEORY-165 name it.

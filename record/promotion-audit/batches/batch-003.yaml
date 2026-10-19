@@ -1,0 +1,30 @@
+# record/promotion-audit/batches/batch-003.yaml
+batch: batch-003
+date: '2026-10-19'
+kind: evidence-audit
+wave: 1
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  The next five pending candidates in queue order (queue.yaml version 12 at
+  opening), skipping the requeue list (CLAIM-123, CLAIM-326).
+reviewed: [CLAIM-268, CLAIM-081, CLAIM-107, CLAIM-188, CLAIM-193]
+outcomes:
+  promote: [CLAIM-268]
+  narrow-and-promote: [CLAIM-107]
+  retain-proposed: [CLAIM-081]
+  needs-correction: [CLAIM-188, CLAIM-193]
+yield: 2 of 5 found a promotion path
+finding: >-
+  The yield is falling as the queue reaches candidates with Proposed
+  premises (triage evidence of 3 or 4). Three of the five were blocked or
+  misclassified because of something another entry already holds. CLAIM-081
+  and CLAIM-193 are application claims whose demonstrated content was split
+  out under ADR-040 (into CLAIM-270 and CLAIM-269). Their remainder is a
+  carry-over to a domain, and so interpretive. CLAIM-107 has an Active,
+  granted objection (CLAIM-094) whose point belongs in its statement. Both
+  promotions needed a defeat condition or a title restated, not new
+  evidence. CLAIM-188 misplaced where the singularity lives: in the model
+  with the candidate, not in the reduced model.
+follow_up_prs:
+  - "Promote CLAIM-268 (restate the empirical defeat disjunct; add the composition argument and the 1×1-stitcher construction) and CLAIM-107 (narrow to mean conservation; cite CLAIM-094)."
+  - "Correct CLAIM-188 (the singular model is the one with the candidate) and CLAIM-193 (warrant to interpretive; drop the defeat disjunct that is CLAIM-269's)."

@@ -1,0 +1,51 @@
+# record/promotion-audit/decisions/THEORY-236.yaml
+id: THEORY-236
+batch: batch-006
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    Both parts can be Active.
+    (1) THEORY-236 as it stands: Kornblith et al.'s Theorem 1, whose App. A
+    proof was checked line by line for this review. Stack X with a basis of
+    a complement of its row space to get an invertible X′, do the same for
+    Y, and set A = X′⁻¹Y′. Then the first n rows of X′A = Y′ give XA = Y.
+    So rank(X) = rank(Y) = n puts X and Y in one GL(p) orbit. The
+    companions are also checked: per-axis scaling with orthogonal maps
+    gives GL(p) by the SVD, and s(Q_X, Q_Y) is GL-invariant (Proposition 1).
+    (2) A new demonstrated CLAIM, the record's own, in the formal-apparatus
+    line: an index invariant to every invertible linear map depends on X
+    only through its column space. If col(X) = col(Y) = W of dimension r,
+    write X = BC and Y = BD with B an n × r basis of W and C, D full row
+    rank r × p. Extend them to invertible C′ = [C; E] and D′ = [D; F], and
+    set A = C′⁻¹D′. Then CA = D, so XA = BCA = BD = Y. Theorem 1 is the case
+    W = ℝⁿ. The centred case the promote_when asks for is W = 1^⊥: all
+    column-centred representations of rank n − 1 share that column space,
+    so a GL-invariant index takes one value on all of them, given Z.
+  excluded: >-
+    Nothing beyond "What this does not say". Which group is right is an
+    empirical argument (§2.2, Fig. 1). The new claim also makes exact the
+    bullet "only through their column spaces", which the THEORY states
+    without proof, so that bullet can cite it.
+evidence:
+  - "NOTE-743 read Theorem 1 with its App. A proof, and Proposition 1 with App. B."
+  - "The promote_when's second option, 'a second reader's line-by-line check of the App. A proof together with a written version for column-centred representations', is met by the two checks above."
+blockers: []
+notes: >-
+  The written centred version is more general than the promote_when asked
+  for. It shows that invariance under every invertible map reduces an index
+  to a function of the column space. That is why it is filed as a claim,
+  following the NOTES pattern "the record's own in a THEORY → a CLAIM"
+  (THEORY-005, THEORY-165), and not left as prose in the THEORY.
+unlocks:
+  - "THEORY-008's Connections cites THEORY-236 for why the CCA member is degenerate at full rank. Once both are Active, the citation no longer needs an inactive-ok."
+  - "CLAIM-193's note on symmetry smaller than GL(p) can cite the new claim."
+next_action: >-
+  Split PR. Promote THEORY-236 (remove promote_when, history note recording
+  the line-by-line check). File the column-space claim, Active,
+  demonstrated, with the proof above, and point THEORY-236's "precision of
+  the record's" paragraph and its "only through their column spaces"
+  bullet to it.

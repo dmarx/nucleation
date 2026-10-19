@@ -1,0 +1,47 @@
+# record/promotion-audit/batches/batch-007.yaml
+batch: batch-007
+date: '2026-10-19'
+kind: evidence-audit
+wave: 2
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  A control sample for triage-002 (queue version 47). Eligible: Proposed
+  THEORYs on origin/main tagged mathematics whose promote_when contains none
+  of triage-002's keywords (met, done, confirmed, re-derived, proved,
+  checked, first clause, first half; whole-word match). N = 43. Sorted by
+  code, every k-th from index 0 with k = floor(N/5) = 8.
+reviewed: [THEORY-009, THEORY-106, THEORY-233, THEORY-297, THEORY-323]
+outcomes:
+  promote: [THEORY-233]
+  narrow-and-promote: [THEORY-009, THEORY-297]
+  split: [THEORY-323]
+  retain-proposed: [THEORY-106]
+yield: 4 of 5 found a promotion path (control), against 15 of 16 for triage-002's keyword-selected candidates
+finding: >-
+  Triage-002's ranking is only weakly informative. 4 of 5 (80%) is close to
+  15 of 16 (94%), and with samples this small the difference is not
+  distinguishable from chance (one fewer promotion in the keyword group
+  would make them 14 of 16, 88%). What predicts yield in wave 2 is the
+  class, mathematical THEORYs whose promote_when bundles a check with
+  something the body disclaims, not the keywords. The keywords mark entries
+  whose filer already found part of the condition met. The control
+  entries yielded for a different reason: in three of the four, the
+  promote_when asks for a reading or a second source (a standard
+  reference, an independent proof, a close reading of an appendix), and
+  the record could supply the proof itself in a few lines (THEORY-233,
+  THEORY-297, and the growth half of THEORY-323). So the control yield
+  rests heavily on the record's own proofs standing in for requested
+  readings. That is a substitution the owner has not ruled on. It is the
+  same question THEORY-277 raised (the THEORY-004 standard). The one
+  retention, THEORY-106, is the case where the theorems are not short: two
+  determinantal and random-matrix results read only in outline.
+owner_question: >-
+  May a short record-own proof, written into the THEORY or filed as a CLAIM,
+  meet a promote_when that asks for a reading of a proof or a second
+  source? Batch 006's THEORY-247 and batch 007's THEORY-233, THEORY-297
+  and THEORY-323 assume yes and say so in their decisions. THEORY-277's
+  retention assumes no. The answer changes four dispositions.
+follow_up_prs:
+  - "Narrow-and-promote THEORY-009 (title to the positive-pair papers; asymmetric-objective QUESTION)."
+  - "Promote THEORY-233 and narrow-and-promote THEORY-297 (each with its proof as a dated note or a CLAIM, and its empirical or truncation clause as a QUESTION)."
+  - "Split THEORY-323 (finite-time growth statements Active; white-noise variance stays)."

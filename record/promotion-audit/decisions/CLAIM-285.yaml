@@ -1,0 +1,39 @@
+# record/promotion-audit/decisions/CLAIM-285.yaml
+id: CLAIM-285
+batch: batch-001
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: split
+confidence: medium
+scope:
+  accepted: >-
+    An existence result by construction. Under one-hop allocation within an
+    epoch, an operator's authority g_i is independent of its own
+    endorsements (CLAIM-282, Active). Take unnormalized endorsements
+    E_kj ≥ 0, g_j = Σ_(k≠j) w_k E_kj with weights w fixed from the previous
+    epoch, the collective decision p* = Σ_j g_j p_j / Σ_j g_j, and, before
+    cost, J_i = −‖p* − p_i‖². Raising E_ij for an ally j with
+    ‖p_j − p_i‖ < ‖p* − p_i‖ moves p* along the segment toward p_j. Since
+    t ↦ ‖p* + t(p_j − p*) − p_i‖² is convex and lower at t = 1 than at
+    t = 0, it falls for every t in (0, 1]. So J_i rises, g_i is unchanged,
+    and both of A2's conditions hold at once. For small enough λ this
+    survives the cost term.
+  excluded: >-
+    That the incentive does work in a population, the second disjunct of the
+    defeat condition (operators stop delegating, or delegate at random). And
+    whether any multi-hop rule can keep both conditions, the first disjunct.
+evidence:
+  - "CLAIM-282 (Active) supplies the one-hop independence exactly."
+  - "The construction above is the record's, written for this review. The body argues the point in prose from A2."
+blockers:
+  - >-
+    The remainder has an empirical disjunct with no observation under it. By
+    ADR-043's rule it is interpretive, and it stays Proposed until a
+    population model is run or the multi-hop question is answered.
+unlocks: []
+next_action: >-
+  Split PR. File the construction as a demonstrated claim, Active, resting on
+  CLAIM-282. CLAIM-285 keeps the incentive thesis, rests on the new claim,
+  and becomes interpretive.

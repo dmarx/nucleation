@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpw35n1
 title: 'Where source and rendering are experiments about one common situation, a rendering that depends on the situation other than through the source is not a garbling of it and can be incomparable with it in Blackwell''s order: with Z uniform on {1, 2, 3}, a source that tells whether Z = 1 and a rendering that tells whether Z = 3 each have the lower 0–1 risk on one of the problems of saying whether Z = 1 and whether Z = 3, so neither dominates'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Re-grounded at the owner's direction, as the follow-up to the
+    owner's promotion audit of 2026-10-19. The worked case has three
+    situations and two-valued reports, so the finite-outcome THEORY-717
+    (Active) covers all of it. THEORY-156 is Proposed only for arbitrary
+    outcome spaces, which this case does not use. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -19,7 +28,7 @@ tags:
 date: '2026-10-15'
 line: pragmatic-transport
 grounds:
-- THEORY-156
+- THEORY-717
 summary: >-
   Split from [CLAIM-258](CLAIM-258.md) under [ADR-043](../decisions.d/ADR-043.md): the worked case that objection uses,
   stated on its own so that its warrant can be. Over a common situation Z
@@ -81,3 +90,13 @@ reaches the same verdict.
   (Torgersen, [LIT-778](../literature.d/LIT-778.md)).
 - It does not say the rendering is worse. It is better for one decision and
   worse for another.
+
+## Note of 2026-10-19: grounded on the finite case
+
+The case has three situations and two-valued reports, so its experiments
+are 3 × 2 Markov matrices. What it uses is the definition of a garbling,
+and the direction "if one dominated the other, it would do at least as well
+in every problem". [THEORY-717](../theory.d/THEORY-717.md), Active, states both for finite outcome
+spaces. The ground is now that THEORY. The quotations above are [THEORY-156](../theory.d/THEORY-156.md)'s
+wording of the same definitions, which still holds them for arbitrary
+outcome spaces.

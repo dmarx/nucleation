@@ -1,0 +1,51 @@
+# record/promotion-audit/decisions/THEORY-158.yaml
+id: THEORY-158
+batch: batch-008
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The finite-state equivalence, re-derived for this review under ADR-047
+    v2. Setting: X is finite, H is infinitesimal stochastic (off-diagonal
+    Hᵢⱼ ≥ 0, columns summing to 0), the master equation is ψ′ = Hψ, and O is
+    a function on X. Write
+    d⟨f⟩/dt = Σᵢ f(i)(Hψ)ᵢ = Σⱼ ψⱼ Σᵢ f(i)Hᵢⱼ. This vanishes along every
+    solution iff Σᵢ f(i)Hᵢⱼ = 0 for every j, since the starting point can be
+    any point mass.
+    (a) If O and O² have constant means, then for every j,
+    Σᵢ (Oⱼ − Oᵢ)² Hᵢⱼ = Oⱼ² Σᵢ Hᵢⱼ − 2Oⱼ Σᵢ OᵢHᵢⱼ + Σᵢ Oᵢ² Hᵢⱼ = 0. The
+    i = j term is 0, and every other term is non-negative. So Hᵢⱼ ≠ 0 implies
+    Oᵢ = Oⱼ, which means O is constant on each connected component of the
+    transition graph. It also gives [O, H]ᵢⱼ = (Oᵢ − Oⱼ)Hᵢⱼ = 0.
+    (b) If [O, H] = 0, then (Oᵢ − Oⱼ)Hᵢⱼ = 0, so O is constant on components.
+    Then for every polynomial p, Σᵢ p(Oᵢ)Hᵢⱼ = p(Oⱼ)Σᵢ Hᵢⱼ = 0, and every
+    polynomial in O has a constant mean. That closes the cycle of four
+    conditions.
+    Counterexample, checked: H₁₂ = H₃₂ = r, H₂₂ = −2r, all else 0, and
+    O = (0, 1, 2). Then Σᵢ OᵢHᵢ₂ = −2r + 2r = 0, so the mean of O is conserved,
+    while [O, H]₁₂ = −r ≠ 0.
+  excluded: >-
+    The general Markov-process form in the title's first clause, beyond
+    finite X. On σ-finite measure spaces, Theorem 3 (one stochastic
+    operator, by Chebyshev) is read. Theorem 2 (Markov semigroups) is
+    "stated as a consequence". Neither is re-derived here. The title should
+    lead with the finite case, with the measure-space moment form reported
+    as the source's.
+evidence:
+  - "NOTE-598 read Theorem 1 with its proof and the Section 1 counterexample. Re-derived above."
+blockers: []
+notes: >-
+  The promote_when asks for "a second, independent derivation of the
+  finite-state equivalence". Under ADR-047 v2, the re-derivation above
+  meets it.
+unlocks:
+  - "CLAIM-094 and CLAIM-107, which this THEORY supports. CLAIM-107 is in #173. Check both in a dependency pass."
+next_action: >-
+  Promotion PR. Retitle to the finite state space, keeping the moment and
+  component forms. Report Theorems 2–3 as the source's measure-space form,
+  in "What this does not say". Move the general-space clause of the
+  promote_when to a new QUESTION. Add a dated note with the re-derivation,
+  remove the promote_when, and set Active.
