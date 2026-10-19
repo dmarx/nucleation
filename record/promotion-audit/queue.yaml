@@ -1,30 +1,16 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 72
+version: 73
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batch-009
-  state: reviewed
-  in_review: null
-  next_step: 'Batch 009 (wave 2) is reviewed: 4 of 5 found a promotion path (THEORY-037 promote; THEORY-002,
-    -127, -604 split; THEORY-686 needs correction, then promote). Wave 2 stands at 27 of 30. MERGE ORDER:
-    merge #166 first, because later PRs cite ADR-047. Open PRs from this audit, by batch: first audit
-    and its passes, #165. Ledger and ADR-047, #166. Batch 001: #167, #168, #169. Batch 002: #170, #171,
-    #174. Batch 003: #172, #173. Batch 004: #175. Batch 005: #176, #177, #178. Batch 006: #179, #180.
-    Batch 007: #181, #182. Batch 008: #183 (narrow and promote THEORY-171, -160, -158; new QUESTION-tmpilsf5,
-    QUESTION-tmpb09gm, QUESTION-tmpnm9ml). HELD: THEORY-157 (batch 008, split), whose definitions were
-    reconstructed from prose; verify them against the source''s diagrams before carrying it out. DEFERRED:
-    THEORY-277 (batch 008), whose Lemma C.4 is blocked at the never-filling block; it needs Claim C.5.
-    Gated on #165: the CLAIM-269 split and the CLAIM-322 promotion (interpretive, the owner''s call).
-    Next: (1) open batch 009''s PRs (batches/batch-009.yaml follow_up_prs; at most three entries each).
-    (2) Re-triage wave 2 over the remaining mathematics-tagged Proposed THEORYs by bundling, as batch-009.yaml
-    recommends, then run one or two more batches; THEORY-565 is the last triage-002 entry pending. (3)
-    A dedicated pass for THEORY-127''s Proposition 3 (requeue). (4) Wave-4 passes: the THEORY-165 citers
-    once #176 merges; CLAIM-269 and CLAIM-193 once THEORY-002''s split merges; CLAIM-038 and CLAIM-094
-    after batch 008''s PRs. (5) Waves 3 and 5 have not started; triage them by bundling, not by keywords.'
+  batch: batch-010
+  state: selected
+  in_review: THEORY-565
+  next_step: 'Batch 010 (wave 2): THEORY-565 (triage-002''s last), then triage-003''s top four: THEORY-014,
+    THEORY-084, THEORY-180, THEORY-021.'
   cautions:
   - Read NOTES.md before starting a batch.
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks. Write
@@ -701,7 +687,7 @@ candidates:
   wave: 2
   score: 2
   triage: triage-002
-  state: pending
+  state: in_review
 - code: THEORY-009
   wave: 2
   score: null
@@ -746,6 +732,206 @@ candidates:
   batch: batch-007
   decision: decisions/THEORY-323.yaml
   carried_out_in: '#182'
+- code: THEORY-014
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 1
+  triage: triage-003
+  state: pending
+- code: THEORY-084
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 1
+  triage: triage-003
+  state: pending
+- code: THEORY-180
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 1
+  triage: triage-003
+  state: pending
+- code: THEORY-021
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-022
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-183
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-191
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-192
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-193
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-196
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-234
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-239
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-254
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-257
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-276
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-288
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-299
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-301
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-304
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
+- code: THEORY-312
+  wave: 2
+  score: 3
+  rubric:
+    extends: 1
+    compound: 1
+    read: 1
+  supports: 0
+  triage: triage-003
+  state: pending
 history:
 - version: 1
   date: '2026-10-19'
@@ -1012,4 +1198,12 @@ history:
 - version: 72
   date: '2026-10-19'
   note: 'carried_out_in #183 for THEORY-171, -160 and -158 (batch 008).'
+- version: 73
+  date: '2026-10-19'
+  note: 'Triage-003 (wave 2) adds 20 Proposed mathematics THEORYs from origin/main d3f55159, scored by
+    bundling (triage_bundling.py, batch 009''s recommendation): 1 if the promote_when asks for another
+    kind of thing than a proof check (general/arbitrary case, experiment, trained networks, people, population,
+    second source), 1 if the title joins clauses of different kinds, 1 if a source LIT has a Read NOTE;
+    ties by supported claims, then code. Decided, queued and requeued codes are skipped. The score saturates:
+    27 of 34 eligible score 3, so within the top group the order is mostly the tie-break.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
