@@ -1,0 +1,74 @@
+# record/promotion-audit/decisions/THEORY-313.yaml
+id: THEORY-313
+batch: batch-043
+reviewed: '2026-10-19'
+reviewed_revision: 651753a0
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The promote_when asked for a line-by-line check of Proposition 5,
+    which NOTE-837 followed only in outline, and a second source or an
+    independent derivation of D(p̃‖q̃) ≤ D(Σ_p‖Σ_q) ≤ D(p‖q). Under ADR-047
+    v2 the re-derivations here meet both requests for the title as
+    narrowed. Setting (A1): X compact, k continuous, positive definite,
+    k(x, x) = 1, base measure τ with Σ = Σ_τ.
+      (1) State. Σ_p = ∫ϕϕ* dp is PSD and tr Σ_p = ∫k(x, x)dp = 1.
+      (2) Upper bound. The map p ↦ Σ_p is a channel from classical laws
+          to states (positive, trace-preserving), so D(Σ_p‖Σ_q) ≤ D(p‖q)
+          by monotonicity; Bach's joint-convexity route gives the same.
+      (3) Tightness, made exact. If k is orthonormal (k(x, y) = 0 for
+          x ≠ y) the states commute and D(Σ_p‖Σ_q) = D(p‖q) for every pair.
+          Conversely, if k(x, y) ≠ 0 for some x ≠ y, take p ≠ q of full
+          support on {x, y}. Equality in monotonicity would make the channel
+          sufficient for {p, q} (Petz), with the Petz map R recovering both.
+          R ∘ Φ is linear and p, q span R², so R would map the pure states
+          ϕ(x)ϕ(x)*, ϕ(y)ϕ(y)* to δ_x, δ_y, raising their trace distance from
+          below 2 to 2, which no channel does. So the inequality is strict,
+          and equality for every pair holds exactly for orthonormal
+          embeddings. A continuous unit-diagonal k with k(x, y) = 0 off the
+          diagonal forces every point to be isolated, so X is finite.
+          Numerically, with overlap 0.3 and p = (½, ½), q = (¼, ¾):
+          KL 0.1438 > 0.1348. For p = q, or for laws on mutually orthogonal
+          points, equality holds with any kernel, so the title's "tight
+          only for" needs "for every pair".
+      (4) Lower bound. D(y) = Σ^{−1/2}ϕ(y)ϕ(y)*Σ^{−1/2} integrates under τ to
+          Σ^{−1/2}ΣΣ^{−1/2} = I, so it is a measurement; tr Σ_p D(y) =
+          ∫⟨ϕ(x), Σ^{−1/2}ϕ(y)⟩² dp(x) = p̃(y). Monotonicity under it gives
+          D(p̃‖q̃) ≤ D(Σ_p‖Σ_q). Since ∫h(x, y)dτ(y) = ‖ϕ(x)‖² = 1, h is a
+          Markov kernel and p̃ is p smoothed by it.
+      (5) The gap, re-derived (in place of the line-by-line check). With
+          P(x, y) = p(x)h(x, y), Q(x, y) = q(x)h(x, y), the chain rule gives
+          D(p‖q) − D(p̃‖q̃) = E_(p̃) D(p(·|y)‖q(·|y)). The posterior ratio is
+          ρ(x)/ρ̄(y), ρ = p/q, ρ̄(y) = E_(q(·|y)) ρ. KL ≤ χ² and
+          Var ≤ E(ρ(x) − ρ(y))² ≤ C²_(p/q) d(x, y)² give
+          gap ≤ (C²_(p/q) / inf ρ) · sup_x ∫h(x, y)d(x, y)² dτ(y), for
+          strictly positive densities with p/q Lipschitz in d. That is
+          Proposition 5's form with a simpler constant.
+      (6) The torus. τ uniform on [0, 1], k̂(ω) ∝ e^{−σ|ω|}, d(x, y) =
+          |sin π(x − y)|: Σ is diagonal in the Fourier basis, so h(x, y) =
+          g(x − y)² with ĝ = k̂^{1/2}, a Poisson kernel. Bach's closed form
+          for ∫h d² is equal to ½ tanh(σ/2) tanh(σ/4) (checked numerically
+          to 4 digits at σ = 0.01–4) and is at most σ²/16 because
+          tanh u ≤ u. On [0, 1]^d with e^{−σ‖ω‖₁} the kernel factorizes, so
+          the bound is dσ²/16. Hence D(p‖q) − D(Σ_p‖Σ_q) ≤ gap = O(σ²).
+  excluded: >-
+    (1) "Tight only for an orthonormal embedding" without "for every pair",
+    which fails at p = q. (2) Torus kernels other than the exponential
+    Fourier family: Bach asserts that the rate extends to every
+    translation-invariant kernel and to compact groups, and sketches a
+    leverage-score argument; that is not shown, and the promote_when's
+    request for a confirmation beyond the torus moves to a new QUESTION.
+evidence:
+  - "NOTE-837: read in full; appendix A proofs followed; appendix B (Proposition 5) followed only in structure."
+  - "Bach arXiv v2, §4.2: d(x, y) = |sin π(x − y)| and the bound dσ²/16 for k̂ ∝ e^{−σ‖ω‖₁}."
+  - "Numerical check: 300 random finite examples satisfy both inequalities to 1e−13."
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem chain. The narrowing adds "for every pair"
+  and names the kernel family that the O(σ²) is proved for.
+unlocks: []
+next_action: >-
+  Narrow-and-promote: title amended as above; derivations as a dated note;
+  the beyond-the-torus request to a new QUESTION (line formal-apparatus).

@@ -1320,3 +1320,44 @@ history note. THEORY-277 is requeued on this basis.
 - Queue: THEORY-083 requeued after a reading task (Figures 2–7 of
   arXiv:2008.08186 into NOTE-476). THEORY-270 and THEORY-110 leave the
   requeue list.
+
+## 2026-10-19 — batch 043 (wave 3, triage-006 score-3)
+
+- Triage-006's formal flag went 5 of 5 on the score-3 entries after the
+  top 20. Together with batches 036–038 that is 17 of 20 at score 3 or
+  more, against 1 of 5 for the score-2 control (batch 039).
+- A source that asserts a sufficiency theorem "by a similar proof" can
+  still be settled by re-derivation in one batch when the necessity proof
+  already computes the boundary condition: at equality the condition
+  becomes tangency (THEORY-189).
+- "Tight only for X" titles: test the claim at p = q and at other trivial
+  pairs; the intended reading is usually "for every pair" (THEORY-313).
+- "Tight" applied to a bound family that includes InfoNCE: InfoNCE's
+  supremum is at most log K and generally below I, so say "attains its
+  supremum" and name the members that then equal I (THEORY-237).
+- When a negative clause ("does not make the minimizer X") has a
+  promote_when that accepts a finite counterexample, a numerical
+  counterexample with many restarts settles it at medium confidence
+  (THEORY-305). Record the generating recipe in the decision file, since
+  scratch scripts do not survive the session.
+- Check every constant a body quotes against the source text: THEORY-189's
+  K ≤ 2ε/(1 − ε²) misread Eq. 25, which gives K ≤ ε/(1 − ε²).
+
+## 2026-10-19 — round 042-046 tally
+
+- Triage-006's formal route is exhausted: 17 of 20 at score 3 or more
+  promoted (batches 036-038, 042-044), against 1 of 5 for the score-2
+  control. But the score-2 band yields under ADR-047 v3 review: batch 045
+  went 5 of 5, so 8 of 10 across both samples. Only 3 of the 9 checked
+  score-2 entries were formal. Work through the remaining 44 by title.
+- Misses on the formal route fall into four recognisable kinds: a report
+  title (THEORY-344), the record's own synthesis (THEORY-019, -080, which
+  go to a demonstrated CLAIM under ADR-032), a theorem read only in outline
+  (THEORY-270, now re-derived), and an empirical conjecture citing toy-model
+  theorems (THEORY-083, -110; split the theorems out once checked).
+- A re-derivation can show a title false, not just unproved (THEORY-585,
+  -313, -237). Correct the title to what was proved, then promote.
+- Recheck a fresh proof against its own definitions: CLAIM-265's
+  day-old proof contradicted its definition and was repaired in #237.
+- Put the recipe for a numerical counterexample in the decision file;
+  scratch scripts do not survive the session.
