@@ -19,7 +19,7 @@ history:
   note: >-
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-168.yaml, batch 005, ADR-047),
-    the proved part is filed apart as THEORY-tmpm565o, Active: coarse-graining
+    the proved part is filed apart as THEORY-722, Active: coarse-graining
     can turn a noncontextual CbD 2.0 system into a contextual one, and CbD 1.0
     and 2.0 agree on two-variable connections and on consistently connected
     systems. This THEORY extends it and keeps what is asserted or waiting on a
@@ -35,7 +35,7 @@ source:
 - LIT-831
 - LIT-777
 extends:
-- THEORY-tmpm565o
+- THEORY-722
 summary: >-
   Dzhafarov, Cervantes & Kujala (2017), [LIT-790](../literature.d/LIT-790.md), with Dzhafarov &
   Kujala's CbD 2.0 ([LIT-831](../literature.d/LIT-831.md)) and CbD 1.0 ([LIT-777](../literature.d/LIT-777.md)). The same
@@ -124,7 +124,7 @@ is. The proof shows instead that the maximal couplings of the 1- and
 ## Note of 2026-10-19: the proved part filed apart
 
 Item 2 above, the coarse-graining failure, and the agreement of CbD 1.0 and
-2.0 stated in item 1 are now [THEORY-tmpm565o](THEORY-tmpm565o.md), Active, sourced to [LIT-831](../literature.d/LIT-831.md).
+2.0 stated in item 1 are now [THEORY-722](THEORY-722.md), Active, sourced to [LIT-831](../literature.d/LIT-831.md).
 What keeps this THEORY Proposed is the rest of the title's first clause.
 [LIT-831](../literature.d/LIT-831.md) asserts that maximal and multimaximal couplings disagree on larger
 connections, with no worked example, and Theorem 4.6 is waiting on a second

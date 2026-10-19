@@ -13,7 +13,7 @@ history:
     decision (record/promotion-audit/decisions/CLAIM-285.yaml, batch 001,
     ADR-047). The existence result, that under one-hop allocation an
     operator's authority stays fixed while endorsing a nearer ally raises
-    its objective, is now CLAIM-tmpso62d, demonstrated and Active, with a
+    its objective, is now CLAIM-375, demonstrated and Active, with a
     construction. This claim rests on it and keeps what its defeat
     condition was about: that the incentive does work in a population, and
     that the conditions are not confined to one hop. Neither has a
@@ -42,7 +42,7 @@ line:
 - distributed-agency
 rests_on:
 - CLAIM-282
-- CLAIM-tmpso62d
+- CLAIM-375
 uses:
 - TERM-053
 summary: >-
@@ -126,7 +126,7 @@ delegates authority to a different operator."
 ## Note of 2026-10-19: split under [ADR-043](../decisions.d/ADR-043.md)
 
 The compatibility of A2's two conditions under one-hop allocation is now
-[CLAIM-tmpso62d](CLAIM-tmpso62d.md), written as a construction and Active. This claim keeps what
+[CLAIM-375](CLAIM-375.md), written as a construction and Active. This claim keeps what
 its defeat condition tests. One part is that the reward does work: that
 operators bound by the constraint delegate, and delegate to aligned others
 rather than at random. The other is that the two conditions can be held

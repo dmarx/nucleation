@@ -1,5 +1,8 @@
 ---
+number: 372
 status: Active
+formerly:
+- CLAIM-tmp496tl
 title: 'Within a fixed measurement scenario, the contextual fraction is a piecewise-linear and Lipschitz-continuous function of the empirical model''s probability table, with a constant that depends only on the scenario'
 version: 1
 history:
@@ -40,7 +43,7 @@ summary: >-
   applies to signalling data.
 ---
 
-# CLAIM-tmp496tl: Within a fixed measurement scenario, the contextual fraction is a piecewise-linear and Lipschitz-continuous function of the empirical model's probability table, with a constant that depends only on the scenario
+# CLAIM-372: Within a fixed measurement scenario, the contextual fraction is a piecewise-linear and Lipschitz-continuous function of the empirical model's probability table, with a constant that depends only on the scenario
 
 ## The claim
 

@@ -1,6 +1,6 @@
 ### Added
 
-- [CLAIM-tmp496tl](record/claims.d/CLAIM-tmp496tl.md), Active: within a fixed scenario the contextual fraction
+- [CLAIM-372](record/claims.d/CLAIM-372.md), Active: within a fixed scenario the contextual fraction
   is piecewise linear and Lipschitz in the empirical table, with a
   constant set by the scenario. This is the record's own derivation, split
   from [THEORY-165](record/theory.d/THEORY-165.md), with a proof.

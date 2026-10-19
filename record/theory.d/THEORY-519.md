@@ -22,7 +22,6 @@ summary: >-
   says how learners compose, not whether they learn.
 ---
 
-<!-- inactive-ok-file: THEORY-686 — Proposed; the book's order-level version, named in Connections -->
 
 # THEORY-519: Supervised learners compose only once each carries a request function that passes a corrected input upstream; with it they form a symmetric monoidal category, and for a fixed step size and an error whose derivative in its first argument is invertible, gradient descent with backpropagation is a faithful strong symmetric monoidal functor into it from differentiable parametrised functions
 

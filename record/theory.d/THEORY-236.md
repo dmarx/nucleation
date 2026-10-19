@@ -14,7 +14,7 @@ history:
     batch 006, ADR-047). The promote_when's second option is met. The App. A
     proof of Theorem 1 was checked line by line for the review, with its
     companions (the SVD argument and Proposition 1), and a written version
-    for column-centred representations is filed as CLAIM-tmp67453. That
+    for column-centred representations is filed as CLAIM-378. That
     version is the record's own and more general: an invariant index
     depends only on the column space. The precision paragraph and the
     column-space bullet now cite it. The promote_when is removed. The claim
@@ -71,7 +71,7 @@ to the examples. It cannot, because the group acts transitively on them.
 n × p matrix has rank at most n − 1, so centred representations never meet
 the hypothesis rank = n as written. The construction does go through at
 rank n − 1, because two centred representations of that rank share the
-column space orthogonal to the all-ones vector. [CLAIM-tmp67453](../claims.d/CLAIM-tmp67453.md) writes it
+column space orthogonal to the all-ones vector. [CLAIM-378](../claims.d/CLAIM-378.md) writes it
 out, in the general form: an index invariant to every invertible linear map
 depends on a representation only through its column space. That is the
 record's, not a statement of the paper.
@@ -86,7 +86,7 @@ record's, not a statement of the paper.
 - **Not that such indexes are blank below full rank.** When the rank is
   below n, an invertible-linear-invariant index can distinguish
   representations, but only through their column spaces, since XA has the
-  column space of X ([CLAIM-tmp67453](../claims.d/CLAIM-tmp67453.md)).
+  column space of X ([CLAIM-378](../claims.d/CLAIM-378.md)).
 - **Not that CKA is the right index.** CKA's success on the sanity check
   (Table 2) is a separate, empirical finding.
 

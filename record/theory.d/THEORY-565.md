@@ -14,13 +14,26 @@ promote_when: >-
   term. More embeddings that look right, or classification examples, cannot
   settle it.
 title: "From a symmetric, positivity-preserving, positive semi-definite affinity, the normalized Markov operator is conjugate to a symmetric one, so its leading eigenfunctions scaled by powers of their eigenvalues embed the data with Euclidean distance equal to diffusion distance, and a density-corrected normalization recovers the Laplace–Beltrami operator independently of how the data were sampled"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-565.yaml, batch 010, ADR-047),
+    the finite-data construction and its isometry are filed apart as
+    THEORY-728, Active, with the derivation written out (ADR-047 v2).
+    This THEORY extends it and keeps the α-family and Theorem 2.1. Its
+    promote_when already concerned only those and is unchanged. The claim
+    is unchanged, and the status stays Proposed.
 tags:
 - mathematics
 - representation-learning
 date: '2026-10-16'
 source:
 - LIT-981
+extends:
+- THEORY-728
 answers:
 - QUESTION-052
 summary: >-
@@ -106,3 +119,13 @@ would not be defined. The paper does not consider that case.
   diffusion distance ([THEORY-239](THEORY-239.md) is filed from it).
 - [QUESTION-027](../questions.d/QUESTION-027.md)'s "stable" might require the α = 1 property; its exact
   conditions are not stated in this paper.
+
+## Note of 2026-10-19: the finite construction filed apart
+
+The construction and the embedding, as far as they hold on a finite data
+set, are now [THEORY-728](THEORY-728.md), Active, with the derivation the paper's
+unseen equations left out: the symmetric conjugate, the spectral form of
+the walk, and the exact isometry for the 1/π-weighted diffusion distance.
+What keeps this THEORY Proposed is only the analytic half, the α-family
+and the Laplace–Beltrami limit of Theorem 2.1, whose proofs are in a
+companion paper the record does not hold.

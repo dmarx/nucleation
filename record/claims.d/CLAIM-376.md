@@ -1,5 +1,8 @@
 ---
+number: 376
 status: Active
+formerly:
+- CLAIM-tmp007ve
 title: 'A linear system that is stable at every instant can have a positive Lyapunov exponent: shifting any operator with exponent λ > 0 by −δI lowers its exponent by exactly δ and makes every instantaneous operator stable, so for 0 < δ < λ the shifted system is stable at every instant and unstable'
 version: 1
 history:
@@ -28,7 +31,7 @@ line: formal-apparatus
 grounds:
 - LIT-929
 summary: >-
-  The case [THEORY-tmp8dvpa](../theory.d/THEORY-tmp8dvpa.md)'s source asserts and does not show. If A(t)
+  The case [THEORY-724](../theory.d/THEORY-724.md)'s source asserts and does not show. If A(t)
   has first Lyapunov exponent λ > 0, the propagator of A(t) − δI is
   e^(−δt)Φ(t), so its exponent is exactly λ − δ, while every eigenvalue of
   every A(t) moves left by δ. Applied to the undamped oscillator switching
@@ -38,7 +41,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-325 — Proposed; the stochastic account, named as what this does not cover -->
 
-# CLAIM-tmp007ve: A linear system that is stable at every instant can have a positive Lyapunov exponent: shifting any operator with exponent λ > 0 by −δI lowers its exponent by exactly δ and makes every instantaneous operator stable, so for 0 < δ < λ the shifted system is stable at every instant and unstable
+# CLAIM-376: A linear system that is stable at every instant can have a positive Lyapunov exponent: shifting any operator with exponent λ > 0 by −δI lowers its exponent by exactly δ and makes every instantaneous operator stable, so for 0 < δ < λ the shifted system is stable at every instant and unstable
 
 ## The claim
 
@@ -80,4 +83,4 @@ exponential of the shifted operators.
   damped curves.
 - **Anything about random variation.** That is [THEORY-325](../theory.d/THEORY-325.md)'s, still Proposed.
 - **That such a shifted operator is normal.** It inherits A(t)'s
-  non-normality, as [THEORY-tmp8dvpa](../theory.d/THEORY-tmp8dvpa.md)'s bound requires.
+  non-normality, as [THEORY-724](../theory.d/THEORY-724.md)'s bound requires.

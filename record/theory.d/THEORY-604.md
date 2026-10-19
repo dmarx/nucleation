@@ -14,7 +14,20 @@ promote_when: >-
   examples of dualities that are adjunctions cannot settle it, since the
   paper already concedes there is no single account.
 title: "Most mathematical dualities are adjunctions between one category and the opposite of another, which become dual equivalences on their fixed points; what makes them dualities rather than equivalences is the reversal of arrows, so many of the 'dualities' physicists name are, in the mathematician's sense, equivalences or symmetries"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-604.yaml, batch 009, ADR-047),
+    the core construction is filed apart as THEORY-729, Active. That
+    construction is that an adjunction into an opposite category restricts
+    to a dual equivalence on its fixed points, with the proof the paper
+    omits re-derived under ADR-047 v2. This THEORY extends it and keeps the
+    breadth thesis and the verdicts on physicists' dualities. The
+    promote_when bears on those and is unchanged, and the status stays
+    Proposed.
 tags:
 - philosophy-of-mathematics
 - mathematics
@@ -30,6 +43,8 @@ summary: >-
   Reserving "duality" for structural reversal is a stated preference, and
   the verdicts on string dualities are a paragraph each. The proposal that
   philosophers of physics need homotopy type theory is an expectation.
+extends:
+- THEORY-729
 ---
 <!-- inactive-ok-file: THEORY-459 THEORY-690 — Proposed; the De Haro and Butterfield accounts named for their different use of the word -->
 
@@ -98,3 +113,14 @@ though the survey is exposition drawn from the literature, not a proof.
   structural realism needs ([LIT-151](../literature.d/LIT-151.md)) gets a direction from this paper,
   equivalence and groupoids, not a criterion.
 - Stone duality, the dualising object 2, is the record's [THEORY-020](THEORY-020.md).
+
+## Note of 2026-10-19: the core construction filed apart
+
+The construction in §3 is now [THEORY-729](THEORY-729.md), Active, with the proof
+written out: an adjunction between C and D^op restricts to a dual
+equivalence between the full subcategories on which its unit and counit are
+isomorphisms. What keeps this THEORY Proposed is the claim that most
+mathematical dualities have that form, which the source shows by worked
+exposition and not by proof. Also kept are the verdicts on the dualities
+physicists name, which rest on a stated preference. The promote_when says
+what would settle both.

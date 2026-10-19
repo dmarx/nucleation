@@ -32,7 +32,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-024 — Rejected; the account this one corrects, cited as such -->
-<!-- inactive-ok-file: THEORY-037 — Proposed; named in Connections, not leaned on -->
 
 # THEORY-516: For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections
 

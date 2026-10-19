@@ -1,26 +1,22 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 79
+version: 80
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-010
-  state: reviewed
+  state: paused
   in_review: null
-  next_step: 'Batch 010 (wave 2) is reviewed: 5 of 5 found a promotion path. Wave 2 stands at 32 of 35.
-    MERGE ORDER: merge #166 first, because later PRs cite ADR-047. Open PRs from this audit, by batch:
-    first audit #165; ledger and ADR-047 #166; batch 001 #167, #168, #169; batch 002 #170, #171, #174;
-    batch 003 #172, #173; batch 004 #175; batch 005 #176, #177, #178; batch 006 #179, #180; batch 007
-    #181, #182; batch 008 #183 (THEORY-157 held: definitions reconstructed from prose; verify against
-    the source''s diagrams before carrying out); batch 009 #184, #185. Not yet opened: batch 010''s PRs
-    (batches/batch-010.yaml follow_up_prs, at most three entries each). Deferred: THEORY-277 (Lemma C.4''s
-    covering step). Requeued: CLAIM-123, CLAIM-326 (after #165), and THEORY-127 (its Proposition 3, a
-    dedicated pass). Gated on #165: the CLAIM-269 split and the CLAIM-322 promotion (batch 004; CLAIM-322
-    is interpretive, the owner''s call). Next: (1) open batch 010''s PRs; (2) per batch 010''s recommendation,
-    review the remaining wave-2 pending in code order, five per batch (16 pending: THEORY-022, THEORY-183,
-    THEORY-191, THEORY-192, THEORY-193, ...), and start wave 3 with a control sample in parallel.'
+  next_step: 'Paused by the parent session on 2026-10-19 until the open PRs merge. #166 (this ledger)
+    merged. Open from this audit: #165 and #167-#187; batch 010''s are #186 (THEORY-014 promote; THEORY-021
+    narrow-and-promote) and #187 (splits of THEORY-565, -084, -180). Many PRs trim the same inactive-ok
+    lines, so merge in number order and resolve conflicts by keeping both trims. When resuming: wave 2
+    has 16 pending (review in code order, per batch 010); start wave 3 (source-backed THEORYs) in parallel;
+    THEORY-157 is held (definitions to check against the source''s diagrams); THEORY-277 is deferred at
+    Lemma C.4; follow-ups named in #185 (CLAIM-269, CLAIM-193 re-grounding) and #187 (THEORY-239, CLAIM-164,
+    CLAIM-148).'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -703,6 +699,7 @@ candidates:
   disposition: split
   batch: batch-010
   decision: decisions/THEORY-565.yaml
+  carried_out_in: '#187'
 - code: THEORY-009
   wave: 2
   score: null
@@ -760,6 +757,7 @@ candidates:
   disposition: promote
   batch: batch-010
   decision: decisions/THEORY-014.yaml
+  carried_out_in: '#186'
 - code: THEORY-084
   wave: 2
   score: 3
@@ -773,6 +771,7 @@ candidates:
   disposition: split
   batch: batch-010
   decision: decisions/THEORY-084.yaml
+  carried_out_in: '#187'
 - code: THEORY-180
   wave: 2
   score: 3
@@ -786,6 +785,7 @@ candidates:
   disposition: split
   batch: batch-010
   decision: decisions/THEORY-180.yaml
+  carried_out_in: '#187'
 - code: THEORY-021
   wave: 2
   score: 3
@@ -799,6 +799,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-010
   decision: decisions/THEORY-021.yaml
+  carried_out_in: '#186'
 - code: THEORY-022
   wave: 2
   score: 3
@@ -1254,4 +1255,7 @@ history:
     (5 of 5). carried_out_in #184 (THEORY-037, -686) and #185 (THEORY-002, -127, -604); batch 009''s PRs
     are complete. Finding: triage-003''s bundling score saturates (27 of 34 at 3) and ranks no better
     than code order.'
+- version: 80
+  date: '2026-10-19'
+  note: 'carried_out_in #186 and #187 (batch 010). Audit paused until the open PRs merge; hand-off rewritten.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

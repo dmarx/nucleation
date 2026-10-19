@@ -18,7 +18,7 @@ history:
     as written in the note below. The uniform-approximation lower bound
     rests on a step that fails, and the biased case is untreated. The
     promote_when asked for those two, and it moves unchanged to
-    QUESTION-tmpg2gry. The title now says "match its Taylor polynomial at
+    QUESTION-139. The title now says "match its Taylor polynomial at
     the origin", keeping the uniform upper bounds.
 tags:
 - mathematics
@@ -84,7 +84,7 @@ univariate polynomial of degree d needs only d+1), and it is not.
   Taylor coefficients close, which fails for networks in general
   (ε·tanh(x/ε²) is within ε of 0 with first coefficient 1/ε). Whether the
   bound holds uniformly, and what replaces it with biases, is
-  [QUESTION-tmpg2gry](../questions.d/QUESTION-tmpg2gry.md).
+  [QUESTION-139](../questions.d/QUESTION-139.md).
 - **Not about standard networks.** No biases, smooth σ with nonzero
   low-order coefficients; ReLU and tanh fall outside. Neuron counts are
   finite only because weights are unbounded.
