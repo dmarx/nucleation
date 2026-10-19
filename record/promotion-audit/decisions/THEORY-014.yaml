@@ -1,0 +1,52 @@
+# record/promotion-audit/decisions/THEORY-014.yaml
+id: THEORY-014
+batch: batch-010
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as it stands. In each of the three formalisms, a real-linear
+    representation always exists, and classicality is the existence of a
+    nonnegative one. In the sheaf formalism this is LIT-016 Thms 5.4, 5.9
+    and 8.1 (NOTE-016, Read). In the GPT formalism it is LIT-003 Thm 2.8,
+    Cor 3.5 and Prop 4.4, with the structure theorem Thm 4.1 and its full
+    proof in App. B (NOTE-017, Read). In Contextuality-by-Default it is
+    LIT-777 Thms 4.1 and 6.1 (NOTE-600, Read). "Negativity is universal and
+    only its unavoidability is nonclassical" restates the conjunction:
+    signed representations always exist, and a system is classical exactly
+    when one of them can be taken nonnegative. The "shared shape" the
+    summary calls the record's inference is just that conjunction. It
+    claims no map between the formalisms.
+  excluded: >-
+    The promote_when, which asks for something the title does not claim: a
+    published map from an empirical model's signed global sections to a
+    quasiprobability or frame representation of the corresponding GPT
+    fragment, or a proof that no such map preserves positivity. The body's
+    "What this does not say" already disclaims it ("That the two
+    representations are the same object"; "That a sheaf-noncontextual
+    empirical model yields a diagram-preserving ontological model ... or
+    the reverse"). It moves, unchanged, to a new QUESTION.
+evidence:
+  - "NOTE-016 (Read): Thm 5.4 (equal linear spans, dimension D), Thm 5.9 (signed realizations exist iff no-signalling), Thm 8.1 (factorizable realization iff global section)."
+  - "NOTE-017 (Read): Thm 2.8 (a diagram-preserving representation in FVect_R exists for every tomographically local GPT), Cor 3.5 (noncontextual models correspond to ontological models of the GPT), Prop 4.4 (positivity of the pair (χ⁻¹, χ)), Thm 4.1 with full proof in App. B (claims table C2, strong)."
+  - "NOTE-600 (Read): CbD Thm 6.1 (a signed maximally connected quasi-coupling always exists, signalling or not) and Thm 4.1 (noncontextuality iff a nonnegative one exists)."
+  - "Each half is a theorem proved in a work the record has read. The title adds no step beyond stating them side by side, so no re-derivation under ADR-047 v2 is needed."
+blockers: []
+notes: >-
+  This is a mis-targeted promote_when, not a bundled one. The condition
+  tests a stronger claim, a bridge between formalisms, that the THEORY
+  explicitly does not make. The triage-003 signal ("asks for more than the
+  title claims") picked it up. The remedy is to move the condition to a
+  QUESTION rather than split, because the title needs no narrowing.
+unlocks:
+  - "CLAIM-037 is supported by THEORY-014. Batch 002 split it; check its Proposed remainder in a dependency pass once this is Active."
+next_action: >-
+  Promotion PR. Set THEORY-014 Active and remove promote_when. Add a history
+  note citing this decision, and that each half is proved in a Read
+  source. File a QUESTION carrying the promote_when unchanged (a
+  positivity-preserving map between sheaf signed sections and GPT
+  quasiprobability representations, or its impossibility), related to
+  QUESTION-067. Trim stale inactive-ok directives naming THEORY-014.
