@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 118
+version: 119
 updated: '2026-10-19'
 record_revision: 374ba778e1bc5456455bcdbc42e581b2abff1f59
 procedure: record/decisions.d/ADR-047.md
@@ -39,7 +39,7 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 60
+  reviewed: 57
   promotion_paths: 32
 - wave: 4
   class: Dependency unlocks
@@ -47,18 +47,9 @@ waves:
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
-  reviewed: 21
-  promotion_paths: 4
+  reviewed: 25
+  promotion_paths: 5
 requeue:
-- code: THEORY-073
-  when: when wave 5 resumes
-  why: 'batch-031: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-223
-  when: when wave 5 resumes
-  why: 'batch-031: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-593
-  when: when wave 5 resumes
-  why: 'batch-033: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
 - code: THEORY-071
   when: when wave 5 resumes
   why: 'batch-033: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
@@ -68,15 +59,15 @@ requeue:
 - code: THEORY-628
   when: when wave 5 resumes
   why: 'batch-035: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: CLAIM-265
-  when: next wave-5 batch
-  why: 'batch-035: general form of CLAIM-143; decide it before requeuing CLAIM-143'
 - code: CLAIM-143
-  when: after CLAIM-265 is decided
+  when: after CLAIM-004 is decided and the owner rules on the class-relative wording
   why: 'batch-035: second clause too strong ("only after" vs a class of correspondences)'
 - code: THEORY-167
   when: after a clean copy of the tale-by-tale analyses is read
   why: 'batch-035: narrow to the 100 tales and promote under ADR-047 v3'
+- code: CLAIM-265
+  when: 'after PR #227 merges'
+  why: 'batch-040: corrected with a proof; review in wave 1 as demonstrated'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -1861,7 +1852,7 @@ candidates:
   carried_out_in:
   - '#223'
 - code: THEORY-073
-  wave: 3
+  wave: 5
   score: 6
   rubric:
     bundling: 1
@@ -1875,8 +1866,8 @@ candidates:
   triage: triage-005
   state: decided
   route: source
-  disposition: retain-proposed
-  batch: batch-031
+  disposition: narrow-and-promote
+  batch: batch-040
   decision: decisions/THEORY-073.yaml
 - code: THEORY-115
   wave: 3
@@ -2016,7 +2007,7 @@ candidates:
   carried_out_in:
   - '#217'
 - code: THEORY-223
-  wave: 3
+  wave: 5
   score: 6
   rubric:
     bundling: 2
@@ -2031,7 +2022,7 @@ candidates:
   state: decided
   route: source
   disposition: retain-proposed
-  batch: batch-031
+  batch: batch-040
   decision: decisions/THEORY-223.yaml
 - code: THEORY-351
   wave: 3
@@ -2088,7 +2079,7 @@ candidates:
   batch: batch-032
   decision: decisions/THEORY-560.yaml
 - code: THEORY-593
-  wave: 3
+  wave: 5
   score: 6
   rubric:
     bundling: 2
@@ -2103,7 +2094,7 @@ candidates:
   state: decided
   route: source
   disposition: retain-proposed
-  batch: batch-033
+  batch: batch-040
   decision: decisions/THEORY-593.yaml
 - code: THEORY-071
   wave: 3
@@ -2388,6 +2379,15 @@ candidates:
   disposition: retain-proposed
   batch: batch-035
   decision: decisions/CLAIM-143.yaml
+- code: CLAIM-265
+  wave: 5
+  triage: batch-040
+  state: decided
+  disposition: needs-correction
+  batch: batch-040
+  decision: decisions/CLAIM-265.yaml
+  carried_out_in:
+  - '#227'
 history:
 - version: 1
   date: '2026-10-19'
@@ -2831,4 +2831,9 @@ history:
 - version: 118
   date: '2026-10-19'
   note: '#222-#225 merged; owner chose prevalence over possibility for CLAIM-033, -087, -105 (#222).'
+- version: 119
+  date: '2026-10-19'
+  note: 'Batch 040 integrated: 1 correction (CLAIM-265, in #227), 1 narrow-and-promote for the owner (THEORY-073),
+    2 retained.; carried_out_in #227; THEORY-073, -223, -593 and CLAIM-265 counted in wave 5; requeue
+    updated'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

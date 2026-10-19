@@ -1069,3 +1069,22 @@ history note. THEORY-277 is requeued on this basis.
   possibility thesis's defeater tests a rate, restate the title as a
   prevalence claim (CLAIM-238's remedy); do not weaken the defeater to
   "the cited instances fail on inspection".
+
+## 2026-10-19 — batch 040 (wave 5, requeue)
+
+- CLAIM-265's defeat condition was met by its own counterexample: a
+  verdict reached over a whole class "without any correspondence being
+  fixed". When a defeater names a condition, check whether a case the
+  record already holds meets it.
+- An argument whose title, cut down to what it establishes, becomes the
+  premise or a conditional on it (THEORY-223, THEORY-593) is a conceptual
+  proposal waiting on its experiment. Retain it. Do not keep narrowing.
+- An argument THEORY can have a real narrow-and-promote path in wave 5
+  (THEORY-073: restrict to the formulation and applications the critiques
+  examined). ADR-047 has no route for arguments, so it goes to the owner
+  like an interpretive CLAIM promotion.
+- A correction that gives a CLAIM a proof (CLAIM-265) moves it to wave 1.
+  Requeue it there as demonstrated once #227 merges.
+- Requeue: CLAIM-265 to wave 1 after #227. CLAIM-143 after CLAIM-004 is
+  decided and the owner rules on carrying the class wording into it.
+  THEORY-223 and THEORY-593 wait on studies; no requeue.
