@@ -1,0 +1,119 @@
+# record/promotion-audit/decisions/THEORY-238.yaml
+id: THEORY-238
+batch: batch-038
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    Theorem 4 of LIT-245 as the title states it, with one narrowing. The
+    promote_when's first request is a check of the constant in Theorem 4's
+    proof, which NOTE-742 found applying Lemma 3 "conditioned that
+    λ/n < 1.36" against the lemma's stated λ/n < 0.68. That request is met
+    here. The apparent inconsistency is a rescaling: the proof applies
+    Lemma 3 at λ/2, not at λ. Lemma 3's own proof (App. E.9, which NOTE-742
+    did not check) and the closing steps of E.5 were re-derived below from
+    the arXiv v1 text (arXiv:2402.03254v1, pp. 32–38). The second request,
+    a numerical evaluation showing whether the bound is non-vacuous, is
+    about whether the quantity accounts for generalization in practice.
+    The title does not claim that and the body disclaims it, so it moves to
+    a QUESTION.
+
+    Re-derivation of E.5 (for Ŵ = W, ε = 0; the lossy case follows by the
+    distortion criterion).
+      (a) With a ghost set S′, λ·E gen(S,W) = E[(λ/n) Σ_i (1{Y′_i ≠ Ŷ′_i} −
+          1{Y_i ≠ Ŷ_i})] under P = P_{S′} P_{S,W} ν₁, where ν₁ draws the 2n
+          latents from the encoder and the labels from the decoder.
+      (b) Donsker–Varadhan against R = P_{S′} P_{S,W} ν₂, where ν₂ draws the
+          latents from the prior Q and the labels from the same decoder
+          kernel: E_P[f] ≤ D(P ‖ R) + log E_R[e^f]. The decoder kernel is
+          shared, so by the chain rule D(P ‖ R) is the KL of the latent laws,
+          which is B. No property of the decoder enters, which gives "for
+          any decoder".
+      (c) Under R the predicted labels have law P_Q(Ŷ, Ŷ′ | S, S′, W). Q is
+          invariant under label-preserving permutations of the 2n
+          positions, and Ŷ depends on (X, Y) only through U, so P_Q is
+          invariant too.
+      (d) Match T = n − (n/2)‖p̂_S − p̂_{S′}‖₁ pairs (f_i, k_i) of equal label
+          across S and S′. That is the largest such matching:
+          Σ_k min(n p̂_k, n p̂′_k). Swapping a matched pair is a
+          label-preserving permutation, so under R each matched term can
+          be given an independent random sign. Its exponential moment is
+          then cosh(λ/n) ≤ e^{λ²/(2n²)}. Each of the n − T unmatched terms is
+          at most λ/n.
+      (e) So E_R[e^f] ≤ E[e^{λ²T/(2n²)} e^{λ(n−T)/n}]
+          ≤ e^{λ²/(2n)} E[e^{(λ/2)‖p̂_S − p̂_{S′}‖₁}], using T ≤ n and
+          n − T = (n/2)‖·‖₁. The last expectation is over the labels alone,
+          which are i.i.d.
+      (f) Lemma 3 at λ′ = λ/2 gives log E[e^{λ′‖·‖₁}] ≤ (K+2)/2 + 6λ′²/n
+          = (K+2)/2 + 3λ²/(2n), valid when λ′/n < 0.68, that is λ/n < 1.36.
+          This is the proof's condition. So log E_R[e^f] ≤ (K+2)/2 + 2λ²/n.
+      (g) Hence E gen ≤ (2B + K + 2)/(2λ) + 2λ/n. The minimizer is
+          λ* = √(n(2B+K+2))/2, with value 2√((2B+K+2)/n). If λ*/n ≥ 1.36,
+          the right-hand side equals 4λ*/n ≥ 5.44 > 1, and the bound holds
+          trivially because gen ≤ 1. λ* is deterministic, since B is an
+          expectation.
+
+    Re-derivation of Lemma 3 (App. E.9). Let U, U′ be the label counts of
+    S and S′ and p̂ = U/n. Poissonize as Devroye does: N, N′ ~ Poisson(n),
+    with V, V′ the counts among the first N and N′ draws. Then the V_k are
+    independent Poisson(n p_k), and Σ_k |U_k − V_k| = |N − n|.
+      (h) ‖p̂ − p̂′‖₁ ≤ (1/n)(|N − n| + |N′ − n| + Σ_k |V_k − V′_k|), by the
+          triangle inequality. Cauchy–Schwarz splits the exponential moment
+          into the square roots of two moments at 2λ/n.
+      (i) With t = 2λ/n, E e^{t|N−n|} ≤ e^{n(e^t−1−t)} + e^{n(e^{−t}−1+t)}
+          ≤ 2e^{n(e^t−1−t)}. The second term is the smaller because
+          e^t − e^{−t} ≥ 2t. Two such factors, for N and N′, give
+          4e^{2n(e^t−1−t)}.
+      (j) E e^{t|V_k−V′_k|} ≤ 2e^{n p_k(e^t + e^{−t} − 2)}. Over k, with
+          Σp_k = 1, this gives 2^K e^{n(e^t+e^{−t}−2)}.
+      (k) So log E ≤ (1 + K/2) log 2 + n[(e^t − 1 − t) + (cosh t − 1)]
+          ≤ (K+2)/2 + n t²(1/1.2 + 7/12) = (K+2)/2 + (17/3)λ²/n
+          ≤ (K+2)/2 + 6λ²/n. This uses e^t ≤ 1 + t + t²/1.2 and
+          cosh t ≤ 1 + 7t²/12.
+      (l) The two inequalities in (k) were checked numerically on a grid of
+          2·10⁵ points over (0, 1.36]. Both hold, with margins 0.0051 and
+          0.0025 at t = 1.36. The first fails just above 1.36 and the second
+          above 1.37. t < 1.36 is λ/n < 0.68, the lemma's condition. The
+          paper states the second inequality only for t < 1.3 (λ/n < 0.65),
+          a looser range than the lemma needs. The check here closes that
+          gap.
+    So the constants of Theorem 4 stand as stated.
+
+    The narrowing is in the last clause. "The bound stays finite for
+    deterministic continuous encoders under lossy compression" reads as
+    general. What the paper shows is that for such encoders the lossless
+    term is infinite, and that a lossy compression can make it finite, in
+    the constructed example of App. C.3 (U = ±1 + X/5, with I(Û;X) = 1 at
+    distortion below 0.05). The title should say that lossy compression
+    can keep it finite where the lossless bound is infinite.
+  excluded: >-
+    (1) Whether the bound is non-vacuous for a trained encoder with a prior
+    that does not use the ghost data. This is the promote_when's second
+    request, moved unchanged to a new QUESTION. (2) A general finiteness
+    guarantee for every deterministic continuous encoder at every ε. (3)
+    Anything about CDVIB's accuracy, which the promote_when itself says
+    cannot settle the bound.
+evidence:
+  - "NOTE-742 version 1: LIT-245 read in full (§§1–5, Apps. A–D); of the proofs, E.1 and E.5 (Theorem 4) read; Lemmas 1–3 not checked. Claims table C1 strong."
+  - "arXiv:2402.03254v1, pp. 32–38 (E.5 and E.9), re-read for this decision: Lemma 3 is applied to E[e^{(λ/2)‖p̂_S − p̂_S′‖₁}], so its condition λ/2n < 0.68 is the proof's λ/n < 1.36."
+  - "Numerical check of e^x ≤ 1 + x + x²/1.2 and cosh x ≤ 1 + 7x²/12 on (0, 1.36]: minimum margin 0 (at x → 0), margins at 1.36 of 0.0051 and 0.0025."
+  - "Citers: none in grounds or relations. Inactive-ok directives naming THEORY-238 are in LIT-224, LIT-245, NOTE-776, NOTE-780, NOTE-806, THEORY-035, THEORY-244, THEORY-248 and THEORY-263."
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem, so the re-derivation route. Triage-006 agreed
+  (formal score 3: title, cites, relation). The NOTE's flagged
+  "inconsistency" was not one. Batch-level lesson: when a proof applies a
+  lemma "conditioned that" a looser bound holds, check whether the lemma is
+  applied at a rescaled argument before calling the constants wrong.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR. Restate the last clause as "and under lossy
+  compression it can stay finite for deterministic continuous encoders,
+  whose lossless bound is infinite". Status Active, version 3, with a
+  history note citing this re-derivation, and a dated body note that the
+  constant check resolves NOTE-742's flagged inconsistency. File a QUESTION
+  holding the promote_when's numerical-evaluation request. Trim the
+  inactive-ok entries naming THEORY-238 in the nine files listed.

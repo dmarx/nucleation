@@ -1,0 +1,51 @@
+# record/promotion-audit/batches/batch-040.yaml
+batch: batch-040
+wave: 5
+date: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+selection: >-
+  The requeue list: CLAIM-265 (to be decided before CLAIM-143, batch 035),
+  and THEORY-073, THEORY-223 and THEORY-593, arguments routed to wave 5 by
+  batches 031 and 033.
+reviewed:
+  - CLAIM-265
+  - THEORY-073
+  - THEORY-223
+  - THEORY-593
+yield: >-
+  1 correction (CLAIM-265, in #227), 1 narrow-and-promote for the owner
+  (THEORY-073), 2 retained.
+promotion_prs:
+  - "#227: CLAIM-265 restated relative to a class of admissible correspondences; warrant to demonstrated; status unchanged (branch claude/claim-265-class-relative)."
+notes_for_ledger:
+  - >-
+    CLAIM-265's defeat condition was met by its own counterexample: a
+    verdict reached over a whole class "without any correspondence being
+    fixed". When a defeater names a condition, check whether a case the
+    record already holds meets it.
+  - >-
+    An argument whose title, cut down to what it establishes, becomes the
+    premise or a conditional on it (THEORY-223, THEORY-593) is a
+    conceptual proposal waiting on its experiment. Retain it. Do not keep
+    narrowing.
+  - >-
+    An argument THEORY can have a real narrow-and-promote path in wave 5
+    (THEORY-073: restrict to the formulation and applications the
+    critiques examined). ADR-047 has no route for arguments, so it goes to
+    the owner like an interpretive CLAIM promotion.
+  - >-
+    A correction that gives a CLAIM a proof (CLAIM-265) moves it to wave 1.
+    Requeue it there as demonstrated once #227 merges.
+  - >-
+    Requeue: CLAIM-265 to wave 1 after #227. CLAIM-143 after CLAIM-004 is
+    decided and the owner rules on carrying the class wording into it.
+    THEORY-223 and THEORY-593 wait on studies; no requeue.
+owner_questions:
+  - >-
+    #227: confirm the class-relative wording for CLAIM-265 (batch 035's
+    question, answered for CLAIM-265 only), and whether to carry it into
+    CLAIM-143, whose title quotes the exchange.
+  - >-
+    THEORY-073: narrow to Friston's 2013 formulation and the applications
+    the record holds, and promote, moving the later formulations to a
+    QUESTION?

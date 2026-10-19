@@ -1,37 +1,52 @@
 # record/promotion-audit/decisions/THEORY-073.yaml
 id: THEORY-073
-batch: batch-031
+batch: batch-040
 reviewed: '2026-10-19'
-reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes: batch-031 (retain-proposed; routed here as an argument)
 current_status: Proposed
-disposition: retain-proposed
-confidence: high
+disposition: narrow-and-promote
+confidence: medium
 scope:
-  accepted: Nothing.
+  accepted: >-
+    Proposed narrowed title: "In Friston's 2013 formulation and the
+    applications the record holds, a Markov blanket does not individuate a
+    system. Where it falls is fixed by modelling choices made before it is
+    traced: the coupling graph, the internal set and the time steady state
+    is assumed. A blanket read from a fixed graph is the same whether the
+    system produced the boundary or it was imposed." Every clause is shown
+    in the body. The soup's three choices are documented from the
+    published code (LIT-603 §4.2, read in NOTE-447). The three published
+    placements are in LIT-598 §3.2 (NOTE-450). The last clause follows
+    from the formalism, since a fixed graph's conditional independences
+    carry no variable for how the boundary came about (LIT-598 §3.3 and
+    fn. 17, and THEORY-066).
   excluded: >-
-    The whole title. It is a conceptual argument: a blanket "presupposes
-    the boundary it is used to find" and "cannot represent a boundary the
-    system produces". Its formal core, that the partition takes the
-    internal set as input, is already THEORY-066's. What this entry adds is
-    a reading of practice (the soup's three modelling choices, the
-    placements in three published applications) and a philosophical
-    conclusion drawn from it. Nothing is measured, and the conclusion is an
-    argument that the free-energy literature disputes.
+    The unrestricted "a Markov blanket" and "cannot represent a boundary
+    the system produces", as claims about the later formulations. Those
+    are sparse coupling at nonequilibrium steady state (Friston 2019 and
+    later) and time-varying blanket states (Ramstead et al. 2020). The
+    body says it does not settle them, and the record holds neither.
 evidence:
-  - "NOTE-447 (LIT-603) and NOTE-450 (LIT-598) read the cited sections; NOTE-421 read LIT-526. The soup re-run (LIT-603 §4.2) is evidence about one simulation, as the body says."
-  - "The body's own 'What this does not say' leaves the later steady-state formulations unsettled. They are known only through the critiques' summaries."
-  - "The promote_when asks about the sparse-coupling definition at nonequilibrium steady state (Friston 2019 and later) and Ramstead et al. 2020. The record holds neither."
+  - "NOTE-447 and NOTE-450 read the cited sections of both critiques, and NOTE-421 read LIT-526. The soup re-run is from LIT-526's own code."
+  - "Dependants: CLAIM-152 (Active, demonstrated) cites the placement clause, and CLAIM-194 grounds on the made-or-imposed clause. Both survive the narrowing, because neither leans on the later formulations."
+  - "No claim in the record objects to THEORY-073. The free-energy literature's reply runs through the later formulations, which the narrowing sets aside."
 blockers:
-  - "The promote_when's test needs the later formulations, which the record does not hold. The title is an argument, which no audit route can promote (batch 020's sort rule): route it to wave 5."
+  - "An argument THEORY in wave 5. ADR-047 gives arguments no audit route, and interpretive promotions go to the owner (NOTES, round 024-030). So the narrowing is the owner's call, and no PR is opened."
 notes: >-
-  Batch 020's sort rule puts this in the argument class. Its first clause
-  ("where it falls is fixed by modelling choices") could be read as a
-  formal claim, but in that form it is THEORY-066, which the entry
-  extends. The rest ("presupposes", "cannot represent a boundary the
-  system produces") is interpretive. ADR-047 v3 does not apply, since no
-  measurement is claimed. The soup's three choices are documented
-  (LIT-603 §4.2) and could ground an existence claim, that one published
-  blanket demonstration rests on unstated modelling choices. NOTE-447
-  already holds that reading, so it is not a core worth splitting.
-unlocks: []
-next_action: Requeue to wave 5 (argument class). No PR.
+  Batch 031 retained it because the promote_when asks about the later
+  formulations. On wave 5's terms, the question is whether the title is
+  what the argument establishes. It is, once restricted to the
+  formulation and the placements the critiques examine. The rest of the
+  promote_when (the later formulations, the refutation by a
+  partition-free procedure, the Ramstead model) moves to a new QUESTION
+  if the owner agrees, as ADR-047 v3 does for out-of-scope clauses.
+owner_questions:
+  - >-
+    Narrow THEORY-073 to Friston's 2013 formulation and the applications
+    the record holds (title above), and promote it, moving the later
+    formulations to a QUESTION? The narrowing keeps both clauses
+    CLAIM-152 and CLAIM-194 use.
+unlocks:
+  - CLAIM-194
+next_action: Owner decision. If yes, one promotion PR with the new QUESTION.

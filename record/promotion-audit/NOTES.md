@@ -1069,3 +1069,175 @@ history note. THEORY-277 is requeued on this basis.
   possibility thesis's defeater tests a rate, restate the title as a
   prevalence claim (CLAIM-238's remedy); do not weaken the defeater to
   "the cited instances fail on inspection".
+
+## 2026-10-19 — batch 040 (wave 5, requeue)
+
+- CLAIM-265's defeat condition was met by its own counterexample: a
+  verdict reached over a whole class "without any correspondence being
+  fixed". When a defeater names a condition, check whether a case the
+  record already holds meets it.
+- An argument whose title, cut down to what it establishes, becomes the
+  premise or a conditional on it (THEORY-223, THEORY-593) is a conceptual
+  proposal waiting on its experiment. Retain it. Do not keep narrowing.
+- An argument THEORY can have a real narrow-and-promote path in wave 5
+  (THEORY-073: restrict to the formulation and applications the critiques
+  examined). ADR-047 has no route for arguments, so it goes to the owner
+  like an interpretive CLAIM promotion.
+- A correction that gives a CLAIM a proof (CLAIM-265) moves it to wave 1.
+  Requeue it there as demonstrated once #227 merges.
+- Requeue: CLAIM-265 to wave 1 after #227. CLAIM-143 after CLAIM-004 is
+  decided and the owner rules on carrying the class wording into it.
+  THEORY-223 and THEORY-593 wait on studies; no requeue.
+
+## 2026-10-19 — batch 041 (wave 5, requeue)
+
+- Judging an argument on its own terms in wave 5 did not change any of the
+  three wave-3 verdicts. Each promote_when asks for something an argument
+  cannot supply (a mechanical procedure for THEORY-071, a formally stated
+  worked case for THEORY-628), or for readings the record lacks
+  (THEORY-485). Requeuing an argument from wave 3 to wave 5 is only worth
+  a review if its promote_when, its premises or its rival changed in
+  between. Check git log on the entry, its NOTE and its rival before
+  spending a review.
+- The one route by which these arguments could move is a title that
+  reports the argument ("X argue that ..."). That is batch 032's open
+  owner question on THEORY-351. THEORY-071 and THEORY-628 both wait on it.
+  Ask it once for the class.
+- THEORY-485 is the cheapest of the three: its promote_when can be met by
+  readings (Ney 2016 and 2021, Chalmers and McQueen 2022, Bikaraan-Behesht
+  2022) plus an argument for P7. Queue a reading task.
+- A numerical model result read in full counts as one study under v3
+  (THEORY-178, now THEORY-290). Narrow to the model's sizes and strategy
+  space, and keep the equilibrium-selection caveat in the body when a
+  result depends on which equilibrium is chosen.
+- Triage-006's philosophical-title penalty is a word match. THEORY-290's
+  "argument" was debate content. Before applying the penalty, check
+  whether the word is the entry's subject or its method.
+
+## 2026-10-19 — batch 036 (wave 3, triage-006 formal 1-5)
+
+- Triage-006's top five went 4 of 5 by re-derivation; the fifth
+  (THEORY-080) derives too but is the record's own synthesis. Before re-
+  deriving a formal_route entry, read its summary for "the filer's
+  synthesis" or "stated by no source": those go to a CLAIM under ADR-032,
+  not to promotion.
+- A source theorem about a sequence of networks can hold as stated only
+  under strong connectivity. When a title says "the consensus" or "the
+  limit belief", check whether the source's statement allows several
+  closed groups, and narrow to one if the derivation needs it
+  (THEORY-321).
+- "Learned not at all below X and in full above it" (THEORY-293) is a
+  recurring overstatement of threshold theorems whose upper bound carries
+  a margin. Check both ends of a threshold.
+- For a "learns modes in order of eigenvalue" title, check that the order
+  is stated for a common initial scale; the step time depends on the
+  initial scale too (THEORY-229).
+- The disintegrated change of measure plus the subgaussian square-moment
+  bound reproduces Sefidgaran & Zaidi's Theorem 1 constants exactly; a
+  reusable check for PAC-Bayes-shaped titles.
+
+## 2026-10-19 — batch 037 (wave 3, triage-006 formal 6-10)
+
+- Triage-006's formal route went 4 of 5 on its entries 6–10. The miss,
+  THEORY-110, is a false flag of a nameable kind: an empirical conjecture
+  whose body cites theorems proved for toy models. The "cites" signal
+  fires on those. When the cited theorems are about a different model from
+  the title's, the entry is not formal.
+- Check every "only when A and B" in a title against the exact condition.
+  THEORY-185's "weak and alike" turned out to be "alike relative to their
+  size" (min s > s_(1) s_(2)). Equal strengths keep the analogies at any
+  strength, so "weak" was a first-order assumption, not a necessity.
+- A Kronecker or tensor-product eigenstructure gives clean attribute modes
+  only when each factor's top eigenvector is constant (balanced
+  attributes). Without that, even the top mode is a product. Check balance
+  before reading "the eigenvectors are the attributes".
+- A bound stated as "Bayes risk at most X above" can be X in expectation
+  and 2X pointwise (THEORY-161's TV bound). The tower rule gives the
+  expectation form. Check which one a title means.
+- A conditional title ("When P, then Q") whose promote_when asks for P to
+  be measured: under ADR-047 the measurement sits outside the title and
+  moves to a QUESTION (THEORY-185). This is the same move as THEORY-324's
+  wider form. It is flagged in the decision in case the owner reads such a
+  promote_when as a hold.
+- A reading claim about a field ("the frameworks of 2021–2025") can be
+  held to the papers read in full, by analogy with ADR-047 v3. The field-
+  wide form moves to a QUESTION (THEORY-161).
+- THEORY-110 could be split in the manner of THEORY-109 once the record
+  has checked Lin et al.'s Theorems 10, 11 and 18 (NOTE-535 read them for
+  statement only).
+
+## 2026-10-19 — batch 038 (wave 3, triage-006 formal 11-15)
+
+- Triage-006's formal route went 4 of 5 on its entries 11–15, all at score
+  3. The miss (THEORY-270) was a theorem whose long proofs the NOTE read
+  only in outline. Read a NOTE's history line for "overviews" or "not
+  checked line by line" before routing a theorem to a one-batch re-
+  derivation.
+- A flagged constant inconsistency can be a rescaling. THEORY-238's proof
+  applies Lemma 3 at λ/2, so "λ/n < 1.36" in the proof and "λ/n < 0.68" in
+  the lemma agree. Check the argument the lemma is applied at before
+  calling the constants wrong.
+- Check whether a promote_when was met by sources added later.
+  THEORY-197's promote_when asked for a second derivation, and versions 2
+  and 3 had already added two sources (LIT-887, LIT-891) that give it.
+  Neither version note said the condition was met.
+- THEORY-266's promotion rests on Theorem 4 of LIT-233, which is
+  THEORY-263's framework and was reviewed elsewhere in this round. If that
+  review finds a defect in Theorem 4's proof, revisit THEORY-266. #230
+  also trims THEORY-266's and THEORY-238's names from THEORY-263's
+  inactive-ok directives, so expect a directive-line conflict if a
+  THEORY-263 PR touches the same lines.
+- Numerical side conditions are worth one script. Lemma 3's second
+  inequality is stated by the paper for x < 1.3, but the lemma needs it to
+  1.36. It holds there, by 0.0025.
+- THEORY-270 should be requeued for a dedicated re-derivation of LIT-941
+  App. C, the common-nonsense upper and lower bounds. Once that is done,
+  narrow the title to the stylised models and promote, moving the
+  promote_when to a QUESTION.
+
+## 2026-10-19 — lint trap: codes in titles
+
+- Never put a bare code in a `title:`. `luria repair` links it in the body
+  heading but not in the front matter, so `title:` and the heading
+  disagree and lint fails (#230: THEORY-278, two new QUESTIONs). Name the
+  source by its authors instead.
+
+## 2026-10-19 — batch 039 (wave 3, triage-006 control)
+
+- Triage-006 control: the formal flag went 1 of 5. Only the score-3 entry
+  (THEORY-205) is formal. All four score-2 entries are measurements or
+  arguments, and so were the four labelled false flags. The 'relation'
+  signal fired on definitions and estimator formulas. Raise the threshold
+  to 3, or require 'relation' together with 'derived' or 'cites'.
+- Batch 020's title sort got 5 of 5 again. Measurements flagged formal
+  still promote under v3 (THEORY-275, -365), so the score-2 band is worth
+  reviewing as v3 work, not as re-derivation work.
+- IB titles saying "first transition": the linear-stability point is β =
+  1/ρ_m², the squared top singular value of the normalised channel. The
+  point where the trivial encoder stops being optimal is 1/s*, the KL
+  contraction coefficient, and s* ≥ ρ_m², so that point can come much
+  earlier. They coincide in the symmetric Ising check (s*/ρ² = 0.999999)
+  and differ 27-fold on a skewed 3-state chain. Name the bifurcation.
+- The philosophical-title penalty's word list missed THEORY-162 ("is part
+  of its meaning"). Thesis-shaped titles about what meaning, content or
+  understanding "is" should count.
+- Checking a NOTE's quotations against the source's extracted text
+  (THEORY-365) is quick when the arXiv PDF is reachable, and it settles
+  batch 018's 'title rests only on results the text reports' directly.
+
+## 2026-10-19 — round 036-041 tally
+
+- Triage-006's formal route went 12 of 15 on entries 1-15 (batches
+  036-038), against 1 of 5 for its control (batch 039), where the one hit
+  was the only score-3 entry. Two control misses still promoted as
+  measurements under ADR-047 v3. Raise the formal threshold to 3, or
+  require `relation` with `derived` or `cites`; send score-2 entries to a
+  v3 review.
+- Batch 020's sort by what the title asserts got all five control entries
+  right again.
+- Wave 5 (batches 040-041): the six requeued arguments moved none of their
+  wave-3 verdicts except THEORY-073, which has a narrowing path that is
+  the owner's call. Before requeuing an argument, check git log for a
+  change to its promote_when, premises or rival.
+- THEORY-080: the exact half is the record's own synthesis; file it as a
+  demonstrated CLAIM (ADR-032) rather than promoting the THEORY.

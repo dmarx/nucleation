@@ -1,0 +1,93 @@
+# record/promotion-audit/decisions/THEORY-161.yaml
+id: THEORY-161
+batch: batch-037
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The title has three parts, and they are sorted separately.
+
+    (A) A reading of the field: "the semantic rate–distortion frameworks
+    of 2021–2025" treat meaning as a latent variable with a known joint law
+    with the observation. That is a claim about what papers contain. The
+    record read two of them in full, Zhao et al. (NOTE-638) and Chai et al.
+    (NOTE-605), and each reading supports it for that paper. A third, Liu,
+    Zhang and Poor's, is known only through the survey (NOTE-619), and the
+    promote_when asks for it, and for one further framework by other
+    authors, to be read directly. By analogy with ADR-047 v3 (readings in
+    full, the title held to what was read), (A) is narrowed to the two
+    papers read. The field-wide form moves to a new QUESTION.
+
+    (B) The KL identity, a derivation of the record's own, re-derived here
+    (ADR-047 v2). The promote_when accepts "a second reader's derivation".
+      (1) Zhao et al.'s posterior distortion is
+          E_{X,Y}[d(p(S|X), p(S|Y))], with S–X–Y Markov.
+      (2) Markov gives p(s|x,y) = p(s|x). So, for d = KL,
+          E_{X,Y} Σ_s p(s|X) log(p(s|X)/p(s|Y))
+          = E_{S,X,Y}[log p(S|X) − log p(S|Y)].
+      (3) That is H(S|Y) − H(S|X) = (H(S) − I(S;Y)) − (H(S) − I(S;X))
+          = I(S;X) − I(S;Y).
+      (4) The rate is min I(X;Y) subject to the expected distortion being at
+          most D_p. With no symbolic constraint this is
+          min{I(X;Y) : I(S;Y) ≥ I(S;X) − D_p}, the information bottleneck
+          with Y as the bottleneck variable.
+
+    (C) The TV bound, also the record's derivation, re-derived.
+      (5) For any loss L(a, s) with values in an interval of length at most 1,
+          and laws P and Q on S, |E_P L(a,·) − E_Q L(a,·)| ≤ d_TV(P, Q) for
+          each action a.
+      (6) A difference of minima is at most the largest difference, so
+          |min_a E_P L − min_a E_Q L| ≤ sup_a |E_P L − E_Q L| ≤ d_TV(P, Q).
+      (7) The receiver that sees Y and acts optimally on p(S|Y) has Bayes
+          risk E_Y[min_a E_{p(S|Y)} L], by the tower rule. The one that sees
+          X has E_X[min_a E_{p(S|X)} L], which is also E_{X,Y}[…] by
+          marginalising. Their difference is E_{X,Y} of the pointwise
+          difference in (6). So it is at most E[d_TV(p(S|X), p(S|Y))] ≤ D_p,
+          for every such loss at once, at the given prior.
+      The bound is on the expected risk. Pointwise, the regret of acting on
+      p(S|y) when the posterior is p(S|x) can be up to 2 d_TV. The tower
+      step in (7) is what gives d_TV and not 2 d_TV. The body's wording
+      ("has Bayes risk at most E[d_TV] above") is the expected form, which
+      is correct.
+  excluded: >-
+    (1) "the frameworks of 2021–2025" as a class, and Liu, Zhang and Poor's
+    framework, which the record holds only second-hand. The narrowed title
+    names Zhao et al. (2025) and Chai et al. (2023). (2) The promote_when's
+    refuter, a framework whose limit depends on a property of meaning
+    beyond the joint law, is a question about the wider class, and it moves
+    with it. (3) "a uniform bound on lost decision value" is uniform over
+    bounded losses, at one prior, and in expectation. The narrowed title
+    says "the expected lost value of every bounded-loss decision". (4)
+    Zhao et al.'s coding theorems as stated: NOTE-638 found their sequence
+    distortion written one way and proved another. The identities are
+    single-letter and unaffected, as the body says.
+evidence:
+  - "NOTE-638 version 1: read in full from arXiv v1, 34 pages. NOTE-605 version 1: read in full from arXiv v1, 6 pages. NOTE-619 version 1: the survey, read in full. It reports Liu et al.'s Eqs. 21–22 second-hand."
+  - "Both identities are re-derived above. The promote_when names a second reader's derivation as sufficient for this half."
+  - "Citers: CLAIM-088, CLAIM-050 and CLAIM-258 cite only the TV bound, which the narrowed title keeps. THEORY-602 and QUESTION-003 and -017 cite it as the place the frameworks' limits are held. Narrowing to two papers changes their gloss but not their argument. THEORY-205 and THEORY-270 cite it for comparison."
+  - "Nothing in the record contradicts the narrowed form."
+blockers: []
+notes: >-
+  Batch 020's sort rule: mixed. (B) and (C) are derivations, and (A) is a
+  reading of papers. Triage-006 flagged it formal through its title
+  keywords, relations and "derived", which is right for (B) and (C) but
+  not for (A). The ADR-047 v3 analogy for (A) is the batch 035 note that
+  a coded corpus counts as a measurement: here a reading in full of each
+  paper counts, and the claim is held to the papers read. If the owner
+  prefers a split instead (the identities as one THEORY, the field reading
+  kept Proposed), the derivation above serves either way.
+unlocks: []
+next_action: >-
+  Narrow-and-promote PR. Retitle to "In Zhao et al.'s (2025) and Chai et
+  al.'s (2023) semantic rate–distortion frameworks, meaning is a latent
+  variable with a known joint law with the observation, so their limits
+  are indirect source-coding limits; Zhao et al.'s posterior-matching
+  semantic distortion is, with KL divergence, exactly the information
+  bottleneck, and with total variation a bound on the expected lost value
+  of every bounded-loss decision". Add the re-derivations as a dated note.
+  Move the field-wide reading (Liu et al. and a further framework, and the
+  refuter) to a new QUESTION. Trim the inactive-ok entries naming
+  THEORY-161.

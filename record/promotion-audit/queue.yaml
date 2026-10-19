@@ -1,21 +1,23 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 118
+version: 126
 updated: '2026-10-19'
-record_revision: 374ba778e1bc5456455bcdbc42e581b2abff1f59
+record_revision: 735f6240684ada2fc488e24d376436458aca4f0d
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: null
   state: between batches
-  in_review: null
-  next_step: 'Round 031-035 plus triage-006 is integrated. Round 024-030 (#211-#221) is merged. Its PRs
-    #222-#225 are merged. Next: wave 3 from triage-006 formal_route (THEORY-080, -263, -293, -321, -229,
-    -110, -228, -319, -161, -185, then 11-20) with its control 5 (THEORY-162, -205, -275, -365, -578);
-    sort each by what its title asserts (batch 020), not by the flag. Wave 5: the requeue list. Owner
-    questions open: CLAIM-238 remedy for CLAIM-139 (restate with a margin, or split); CLAIM-143/-265 wording;
-    THEORY-351 title as report vs thesis; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046;
-    CLAIM-160 narrowing; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
+  in_review:
+  - '#227'
+  next_step: 'Round 036-041 is integrated. #228-#235 are merged; #227 (CLAIM-265 class-relative correction)
+    waits on the owner''s wording ruling. Next: triage-006 formal_route 16-20 (THEORY-280, -289, -344,
+    -387, -019), with the threshold raised to 3 or relation paired with derived/cites (batch 039); score-2
+    entries go to v3 review, not re-derivation. Wave 5: the requeue list. Owner questions open: THEORY-073
+    narrow-and-promote of an argument; CLAIM-265/-143 class-relative wording (#227); THEORY-351/-071/-628
+    whether a title reporting an argument is promotable; THEORY-321 multi-group case; THEORY-185 conditional
+    theorems whose promote_when asks the premise be tested; CLAIM-139 remedy; CLAIM-328; CLAIM-206 vs
+    CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160 narrowing; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -39,44 +41,41 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 60
-  promotion_paths: 32
+  reviewed: 75
+  promotion_paths: 48
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
-  reviewed: 21
-  promotion_paths: 4
+  reviewed: 28
+  promotion_paths: 5
 requeue:
-- code: THEORY-073
-  when: when wave 5 resumes
-  why: 'batch-031: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-223
-  when: when wave 5 resumes
-  why: 'batch-031: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-593
-  when: when wave 5 resumes
-  why: 'batch-033: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-071
-  when: when wave 5 resumes
-  why: 'batch-033: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-485
-  when: when wave 5 resumes
-  why: 'batch-033: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: THEORY-628
-  when: when wave 5 resumes
-  why: 'batch-035: an argument, not a measurement or theorem; review as interpretive synthesis (wave 5)'
-- code: CLAIM-265
-  when: next wave-5 batch
-  why: 'batch-035: general form of CLAIM-143; decide it before requeuing CLAIM-143'
 - code: CLAIM-143
-  when: after CLAIM-265 is decided
+  when: after CLAIM-004 is decided and the owner rules on the class-relative wording
   why: 'batch-035: second clause too strong ("only after" vs a class of correspondences)'
 - code: THEORY-167
   when: after a clean copy of the tale-by-tale analyses is read
   why: 'batch-035: narrow to the 100 tales and promote under ADR-047 v3'
+- code: CLAIM-265
+  when: 'after PR #227 merges'
+  why: 'batch-040: corrected with a proof; review in wave 1 as demonstrated'
+- code: THEORY-485
+  when: after a reading task (Ney 2016/2021, Chalmers and McQueen 2022, Bikaraan-Behesht 2022) and an
+    argument for P7
+  why: 'batch-041: cheapest of the wave-5 arguments to move'
+- code: THEORY-080
+  when: when a CLAIM is filed for its exact half
+  why: 'batch-036: the exact Occam-factor identity is the record''s own synthesis; file it as a demonstrated
+    CLAIM (ADR-032); the spherical half stays Proposed'
+- code: THEORY-270
+  when: after a dedicated re-derivation of LIT-941 App. C
+  why: 'batch-038: the proofs it rests on were read only in outline; title must name the uniform, lossless
+    models'
+- code: THEORY-162
+  when: when wave 5 resumes
+  why: 'batch-039: an argument about what meaning is; review as interpretive synthesis'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -1861,7 +1860,7 @@ candidates:
   carried_out_in:
   - '#223'
 - code: THEORY-073
-  wave: 3
+  wave: 5
   score: 6
   rubric:
     bundling: 1
@@ -1875,8 +1874,8 @@ candidates:
   triage: triage-005
   state: decided
   route: source
-  disposition: retain-proposed
-  batch: batch-031
+  disposition: narrow-and-promote
+  batch: batch-040
   decision: decisions/THEORY-073.yaml
 - code: THEORY-115
   wave: 3
@@ -2016,7 +2015,7 @@ candidates:
   carried_out_in:
   - '#217'
 - code: THEORY-223
-  wave: 3
+  wave: 5
   score: 6
   rubric:
     bundling: 2
@@ -2031,7 +2030,7 @@ candidates:
   state: decided
   route: source
   disposition: retain-proposed
-  batch: batch-031
+  batch: batch-040
   decision: decisions/THEORY-223.yaml
 - code: THEORY-351
   wave: 3
@@ -2088,7 +2087,7 @@ candidates:
   batch: batch-032
   decision: decisions/THEORY-560.yaml
 - code: THEORY-593
-  wave: 3
+  wave: 5
   score: 6
   rubric:
     bundling: 2
@@ -2103,10 +2102,10 @@ candidates:
   state: decided
   route: source
   disposition: retain-proposed
-  batch: batch-033
+  batch: batch-040
   decision: decisions/THEORY-593.yaml
 - code: THEORY-071
-  wave: 3
+  wave: 5
   score: 4
   rubric:
     bundling: 1
@@ -2122,7 +2121,7 @@ candidates:
   route: source
   control: true
   disposition: retain-proposed
-  batch: batch-033
+  batch: batch-041
   decision: decisions/THEORY-071.yaml
 - code: THEORY-178
   wave: 3
@@ -2167,7 +2166,7 @@ candidates:
   carried_out_in:
   - '#225'
 - code: THEORY-485
-  wave: 3
+  wave: 5
   score: 3
   rubric:
     bundling: 0
@@ -2183,10 +2182,10 @@ candidates:
   route: source
   control: true
   disposition: retain-proposed
-  batch: batch-033
+  batch: batch-041
   decision: decisions/THEORY-485.yaml
 - code: THEORY-628
-  wave: 3
+  wave: 5
   score: 4
   rubric:
     bundling: 0
@@ -2202,7 +2201,7 @@ candidates:
   route: source
   control: true
   disposition: retain-proposed
-  batch: batch-035
+  batch: batch-041
   decision: decisions/THEORY-628.yaml
 - code: CLAIM-052
   wave: 5
@@ -2388,6 +2387,194 @@ candidates:
   disposition: retain-proposed
   batch: batch-035
   decision: decisions/CLAIM-143.yaml
+- code: CLAIM-265
+  wave: 5
+  triage: batch-040
+  state: decided
+  disposition: needs-correction
+  batch: batch-040
+  decision: decisions/CLAIM-265.yaml
+  carried_out_in:
+  - '#227'
+- code: THEORY-290
+  wave: 3
+  triage: batch-041
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-041
+  decision: decisions/THEORY-290.yaml
+  carried_out_in:
+  - '#228'
+- code: THEORY-080
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: needs-correction
+  batch: batch-036
+  decision: decisions/THEORY-080.yaml
+- code: THEORY-263
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: promote
+  batch: batch-036
+  decision: decisions/THEORY-263.yaml
+  carried_out_in:
+  - '#231'
+- code: THEORY-293
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-036
+  decision: decisions/THEORY-293.yaml
+  carried_out_in:
+  - '#231'
+- code: THEORY-321
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-036
+  decision: decisions/THEORY-321.yaml
+  carried_out_in:
+  - '#232'
+- code: THEORY-229
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-036
+  decision: decisions/THEORY-229.yaml
+  carried_out_in:
+  - '#231'
+- code: THEORY-110
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: retain-proposed
+  batch: batch-037
+  decision: decisions/THEORY-110.yaml
+- code: THEORY-228
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-037
+  decision: decisions/THEORY-228.yaml
+  carried_out_in:
+  - '#229'
+- code: THEORY-319
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-037
+  decision: decisions/THEORY-319.yaml
+  carried_out_in:
+  - '#229'
+- code: THEORY-161
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-037
+  decision: decisions/THEORY-161.yaml
+  carried_out_in:
+  - '#233'
+- code: THEORY-185
+  wave: 3
+  triage: batch-037
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-037
+  decision: decisions/THEORY-185.yaml
+  carried_out_in:
+  - '#233'
+- code: THEORY-197
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: promote
+  batch: batch-038
+  decision: decisions/THEORY-197.yaml
+  carried_out_in:
+  - '#234'
+- code: THEORY-238
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-038
+  decision: decisions/THEORY-238.yaml
+  carried_out_in:
+  - '#230'
+- code: THEORY-266
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-038
+  decision: decisions/THEORY-266.yaml
+  carried_out_in:
+  - '#230'
+- code: THEORY-270
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: retain-proposed
+  batch: batch-038
+  decision: decisions/THEORY-270.yaml
+- code: THEORY-278
+  wave: 3
+  triage: batch-038
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-038
+  decision: decisions/THEORY-278.yaml
+  carried_out_in:
+  - '#230'
+- code: THEORY-162
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: retain-proposed
+  batch: batch-039
+  decision: decisions/THEORY-162.yaml
+- code: THEORY-205
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-039
+  decision: decisions/THEORY-205.yaml
+  carried_out_in:
+  - '#235'
+- code: THEORY-275
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-039
+  decision: decisions/THEORY-275.yaml
+  carried_out_in:
+  - '#235'
+- code: THEORY-365
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-039
+  decision: decisions/THEORY-365.yaml
+  carried_out_in:
+  - '#235'
+- code: THEORY-578
+  wave: 3
+  triage: batch-039
+  state: decided
+  disposition: retain-proposed
+  batch: batch-039
+  decision: decisions/THEORY-578.yaml
 history:
 - version: 1
   date: '2026-10-19'
@@ -2831,4 +3018,38 @@ history:
 - version: 118
   date: '2026-10-19'
   note: '#222-#225 merged; owner chose prevalence over possibility for CLAIM-033, -087, -105 (#222).'
+- version: 119
+  date: '2026-10-19'
+  note: 'Batch 040 integrated: 1 correction (CLAIM-265, in #227), 1 narrow-and-promote for the owner (THEORY-073),
+    2 retained.; carried_out_in #227; THEORY-073, -223, -593 and CLAIM-265 counted in wave 5; requeue
+    updated'
+- version: 120
+  date: '2026-10-19'
+  note: 'Batch 041 integrated: 1 of 4. THEORY-290, a model result, promoted under ADR-047 v3. The three
+    arguments keep their blockers.; carried_out_in #228; THEORY-071, -485, -628 counted in wave 5; THEORY-485
+    requeued after a reading task'
+- version: 121
+  date: '2026-10-19'
+  note: 'Batch 036 integrated: 4 of 5 found a promotion path; THEORY-080 needs re-filing as a CLAIM first;
+    carried_out_in #231, #232; THEORY-290 counted in wave 3 (a model result); THEORY-080 requeued'
+- version: 122
+  date: '2026-10-19'
+  note: 'Batch 037 integrated: 4 of 5 found a promotion path (all by re-derivation under ADR-047 v2; THEORY-161
+    also narrowed to the papers read); carried_out_in #229, #233'
+- version: 123
+  date: '2026-10-19'
+  note: 'Batch 038 integrated: 4 of 5 found a promotion path (THEORY-197 promote; THEORY-238, -266, -278
+    narrow-and-promote); carried_out_in #230, #234; THEORY-270 requeued'
+- version: 124
+  date: '2026-10-19'
+  note: 'Batch 039 integrated: 3 of 5 found a promotion path. THEORY-205 is a theorem, re-derived exactly.
+    THEORY-275 and THEORY-365 are single-study measurements under ADR-047 v3. All three are carried out
+    in one PR.; carried_out_in #235'
+- version: 125
+  date: '2026-10-19'
+  note: 'Round 036-041 closed: 16 promotions in 28 reviews; THEORY-162 requeued to wave 5; hand-off updated.'
+- version: 126
+  date: '2026-10-19'
+  note: '#228-#235 merged; directive-line conflicts resolved by merging main into the later PR of each
+    pair.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

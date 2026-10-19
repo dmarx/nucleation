@@ -1,0 +1,56 @@
+# record/promotion-audit/decisions/THEORY-321.yaml
+id: THEORY-321
+batch: batch-036
+reviewed: '2026-10-19'
+reviewed_revision: 735f6240
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The theorem (Lemma 1 and Proposition 2, proofs checked in NOTE-840),
+    re-derived here for a strongly connected society (ADR-047 v2). Beliefs
+    p_i(0) ∈ [0, 1], independent, mean μ, variance at least σ² > 0;
+    T(n) stochastic, strongly connected and aperiodic.
+      (a) By Proposition 1, every agent's limit is s·p(0), with s the unit
+          left eigenvector of T (s ≥ 0, Σ s_i = 1).
+      (b) E[s·p(0)] = μ Σ s_i = μ, and Var = Σ s_i² Var p_i(0).
+      (c) If s_1 = max_i s_i → 0: Var p_i ≤ 1/4 on [0, 1], so
+          Var ≤ ¼ Σ s_i² ≤ ¼ s_1 Σ s_i = s_1/4 → 0, and Chebyshev gives
+          s·p(0) → μ in probability: the society is wise.
+      (d) If s_1 does not tend to 0, along a subsequence s_1 ≥ c > 0 and
+          Var ≥ σ² s_1² ≥ σ²c². Because |s·p(0) − μ| ≤ 1, convergence in
+          probability would force Var → 0 (bounded convergence), so the
+          society is not wise.
+    That the criterion holds for every admissible signal distribution or for
+    none follows, since (c)–(d) use only the bounds 0 ≤ Var ≤ 1/4 and
+    Var ≥ σ². That is the sense of "network structure alone". The title's
+    "under repeated DeGroot averaging" keeps it inside the model.
+  excluded: >-
+    (1) Societies that are not strongly connected. NOTE-840 states
+    Proposition 2 for any convergent T, with wisdom the convergence of
+    max_i |p_i(∞) − μ|. With several closed groups the maximum runs over
+    their separate consensus values, and the reviewer's sketch suggests a
+    vanishing largest weight may not then suffice: n/k closed groups of size
+    k = √(log n), each with equal weights, have s_1 = 1/√(log n) → 0, yet
+    the chance that some group's average misses μ by ε tends to 1. Whether
+    the paper defines influence or wisdom to exclude this was not checked
+    against the source, so the title is narrowed to the strongly connected
+    case, where (a)–(d) hold. (2) Real groups: the promote_when asks for a
+    laboratory or field case. The title does not claim one; it moves to a
+    new QUESTION.
+evidence:
+  - "NOTE-840: read in full; Lemma 1, Proposition 3 and Theorem 1 checked step by step; signals in [0, 1] with variance at least σ²."
+  - "NOTE-840 Lemma 1 summary: 'var ≤ Σ s_i² ≤ s_1 → 0 one way; var ≥ s_1²σ² the other.'"
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem, so re-derivation; the direction holds both
+  ways in the strongly connected case. The singular "consensus" in the
+  title already presumes one consensus; the narrowing makes that explicit.
+  Owner may want the multi-group case checked against Golub & Jackson's
+  Proposition 2 and Theorem 3 when the paper is next opened.
+unlocks: []
+next_action: >-
+  Narrow-and-promote: "in a strongly connected society" added; re-derivation
+  as a dated note; the real-groups test to a new QUESTION (line
+  distributed-agency), which also records the multi-group check.

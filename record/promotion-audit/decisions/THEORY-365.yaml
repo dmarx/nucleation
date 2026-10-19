@@ -1,0 +1,64 @@
+# record/promotion-audit/decisions/THEORY-365.yaml
+id: THEORY-365
+batch: batch-039
+reviewed: '2026-10-19'
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement (with a conditional derivation reported, not asserted)
+formal_in_fact: false
+scope:
+  accepted: >-
+    What one study, LIT-1098, read in full in NOTE-916, measured and
+    states in its text (ADR-047 v3, with batch 018's reading of "in
+    full": the title rests only on results the text reports). Checked for
+    this review against the extracted text of arXiv v4.
+      - §5.1: on d = 8 uniform random data, 10-NN at recall 0.95, HNSW's
+        number of distance computations has "a complexity scaling for
+        this setting not worse than logarithmic", and it "outperforms NSW
+        at any dataset size".
+      - §4.2: on d = 4 uniform random data, the ef needed for a fixed
+        recall "saturates with the rise of the dataset size" (Fig. 11).
+        That shows backtracking adds a bounded term.
+      - §4.2: the O(log N) search argument is stated "under the
+        assumption that we build exact Delaunay graphs", which HNSW does
+        not build.
+      - §5.4: on SIFT subsets up to 200M, "the scaling deviates from the
+        pure logarithm".
+    The title's derivation clause and its SIFT clause already say what the
+    paper says.
+  excluded: >-
+    Three phrasings that claim more than the text reports.
+      (a) "Where single-layer navigable graphs grow polylogarithmically",
+          as a measurement. The text measures only that HNSW beats NSW at
+          every size. NSW's polylogarithmic scaling is the paper's account
+          of its earlier work ([25, 26, 44], not read).
+      (b) "Grow about logarithmically ... in 4 ... dimensions." For d = 4
+          the measured quantity is ef against N. Cost against N at d = 4
+          is the paper's inference from that saturation together with the
+          per-layer argument.
+      (c) "Makes", as if the layering's effect had been isolated. Across
+          the reported tests the layering is not ablated at fixed graph
+          construction, except through the mL = 0 versus mL > 0 contrast
+          (§4.1, Figs. 3–5), which is at fixed N.
+    The promote_when's proof request is wider than the title and moves to
+    a QUESTION.
+evidence:
+  - "NOTE-916: read in full (all sections, Algorithms 1–5, Figures 1–15 with captions, Tables 1–3); quotations checked by script against the extracted text."
+  - "LIT-1098 arXiv v4 §4.2, §5.1 and §5.4, quoted in scope.accepted, re-checked against pdftotext output for this review."
+blockers: []
+notes: >-
+  Medium confidence because, apart from the quoted sentences, the scaling
+  results are curves, and the range (10² to about 10⁸) is read from the
+  axes. The narrowed title stays with the sentences. Triage-006 flagged it
+  formal at score 2 (title, relation), from "logarithmically" and the
+  body's S = 1/(1−exp(−mL)). The title asserts a measurement; the
+  derivation is a sketch under an assumption that is not met, and the
+  title says so. False flag.
+unlocks: []
+next_action: >-
+  Promote in a PR. Narrow the title to the d = 8 cost scaling against
+  NSW, the d = 4 ef saturation, the Delaunay-only derivation and the SIFT
+  departure. Move the promote_when unchanged to a new QUESTION on
+  QUESTION-114's line.

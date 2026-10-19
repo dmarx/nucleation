@@ -1,0 +1,69 @@
+# record/promotion-audit/decisions/THEORY-229.yaml
+id: THEORY-229
+batch: batch-036
+reviewed: '2026-10-19'
+reviewed_revision: 735f6240
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+scope:
+  accepted: >-
+    The proved part (Propositions 4.1, 4.3 and 5.1; NOTE-741 C1 strong, C2
+    moderate, C4 strong), re-derived here (ADR-047 v2).
+
+    Setting. f(x) = Wx, W ∈ R^{d×D}; Γ = (1/2n) Σ (x_i x′_iᵀ + x′_i x_iᵀ) with
+    eigenpairs (γ_j, v_j), γ_1 > … > γ_d > 0, γ_d > γ_{d+1};
+    L(W) = ‖WΓWᵀ − I_d‖²_F; gradient flow dW/dt = −∇L = −4(WΓWᵀ − I)WΓ.
+      (a) Alignment is preserved. If W = U diag(s) V_dᵀ with U orthogonal and
+          V_d = [v_1..v_d], then WΓWᵀ = U diag(s²γ) Uᵀ and
+          ∇L = 4U diag((s_j²γ_j − 1)s_jγ_j) V_dᵀ, which has the same form; so
+          the flow stays aligned, U fixed, and
+          ds_j/dt = 4γ_j s_j − 4γ_j² s_j³, each mode on its own.
+      (b) Solution. u_j = s_j^(−2) obeys du_j/dt = −8γ_j u_j + 8γ_j², so
+          u_j(t) = γ_j + (s_j(0)^(−2) − γ_j)e^(−8γ_j t), i.e.
+          s_j(t) = e^(4γ_j t)/√(s_j(0)^(−2) + (e^(8γ_j t) − 1)γ_j) (eq. 10),
+          tending to γ_j^(−1/2).
+      (c) Timing. For s_j(0)²γ_j ≪ 1, s_j stays near its start until
+          γ_j e^(8γ_j t) is comparable with s_j(0)^(−2), that is until
+          τ_j = −log(s_j(0)²γ_j)/(8γ_j) (eq. 16), then rises to γ_j^(−1/2).
+          For a common initial scale s_0, τ(γ) = (log s_0^(−2) − log γ)/(8γ)
+          has τ′(γ) = (log γ − 1 − log s_0^(−2))/(8γ²) < 0 whenever
+          s_0²γ < e, so larger eigenvalues arrive first: the order is the
+          eigenvalue order.
+      (d) Minimum norm. Let A satisfy AΓAᵀ = I_d and put G = AAᵀ (positive
+          definite) and Q = G^(−1/2)A, so QQᵀ = I_d and QΓQᵀ = G^(−1). The
+          eigenvalues θ_1 ≥ … ≥ θ_d of QΓQᵀ are positive and, by Cauchy
+          interlacing (Poincaré), θ_j ≤ γ_j. So ‖A‖²_F = tr G = Σ 1/θ_j
+          ≥ Σ_{j≤d} 1/γ_j, with equality iff θ_j = γ_j for all j, which with
+          γ_d > γ_{d+1} forces the row space of Q to be span(v_1..v_d) and
+          A = U diag(γ_j^(−1/2)) V_dᵀ: the top spectral solutions are exactly
+          the minimum-norm zero-loss ones (Prop. 4.3).
+      (e) Fixed kernel. A fixed-kernel model is linear in its feature map, so
+          (a)–(d) apply in feature space with Γ the features' symmetrized
+          cross-correlation. Its non-zero eigenvalues are those of
+          K_Γ = K̃^(−1/2) Z K̃^(−1/2) (Prop. 5.1, App. B.2, read in NOTE-741),
+          and the minimum-RKHS-norm solution is given by K_Γ's top
+          eigenvectors: kernel PCA on K_Γ.
+  excluded: >-
+    Generic small initialization (Result 4.6, C3 moderate): the paper gives
+    an informal derivation only, and the promote_when asks for a formal
+    proof of it. This review does not supply one. The title is narrowed to
+    initialization aligned with Γ's top eigenvectors at a common small
+    scale, where (a)–(c) are exact; the generic case and the promote_when's
+    request move to a new QUESTION.
+evidence:
+  - "NOTE-741: read in full, proofs in App. B; C1 strong (proof by substitution), C2 moderate (brief proof with index slips, re-derived above by interlacing), C3 moderate (informal), C4 strong."
+  - "THEORY-293's inactive-ok directive names THEORY-229; NOTE-805 and NOTE-796 directives as well (trimmed at PR time)."
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem. The direction check holds: the source proves
+  aligned-start dynamics and min-norm characterization, the title's
+  direction. No Active entry holds them. The interlacing proof in (d) is
+  the reviewer's, replacing App. B.1's ε-regularised argument whose index
+  slips NOTE-741 records.
+unlocks: []
+next_action: >-
+  Narrow-and-promote. Retitle to aligned initialization at a common small
+  scale; keep the minimum-norm and kernel-PCA clauses; re-derivation as a
+  dated note; generic initialization to a new QUESTION (line
+  learned-structure).

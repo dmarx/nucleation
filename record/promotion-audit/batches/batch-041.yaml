@@ -1,0 +1,57 @@
+# record/promotion-audit/batches/batch-041.yaml
+batch: batch-041
+date: '2026-10-19'
+kind: evidence-audit
+wave: 5
+record_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+selection: >-
+  From the requeue list: THEORY-071, THEORY-485 and THEORY-628, arguments
+  retained in batches 033 and 035 and requeued to wave 5. Plus THEORY-290,
+  which triage-006 named as wrongly penalised by its philosophical-title
+  signal ("argument" there is debate content).
+reviewed: [THEORY-071, THEORY-485, THEORY-628, THEORY-290]
+outcomes:
+  narrow-and-promote: [THEORY-290]
+  retain-proposed: [THEORY-071, THEORY-485, THEORY-628]
+yield: 1 of 4. THEORY-290, a model result, promoted under ADR-047 v3. The three arguments keep their blockers.
+title_types:
+  - {code: THEORY-071, type: argument (conceptual analysis from cases)}
+  - {code: THEORY-485, type: argument (metaphysics; analytic core plus an asserted bridge)}
+  - {code: THEORY-628, type: argument (conceptual analysis)}
+  - {code: THEORY-290, type: measurement (numerical model result), route: ADR-047 v3}
+promotion_prs:
+  - "#228: THEORY-290 narrowed and promoted (branch claude/promote-theory-290)."
+notes_for_ledger:
+  - >-
+    Judging an argument on its own terms in wave 5 did not change any of
+    the three wave-3 verdicts. Each promote_when asks for something an
+    argument cannot supply (a mechanical procedure for THEORY-071, a
+    formally stated worked case for THEORY-628), or for readings the record
+    lacks (THEORY-485). Requeuing an argument from wave 3 to wave 5 is only
+    worth a review if its promote_when, its premises or its rival changed
+    in between. Check git log on the entry, its NOTE and its rival before
+    spending a review.
+  - >-
+    The one route by which these arguments could move is a title that
+    reports the argument ("X argue that ..."). That is batch 032's open
+    owner question on THEORY-351. THEORY-071 and THEORY-628 both wait on
+    it. Ask it once for the class.
+  - >-
+    THEORY-485 is the cheapest of the three: its promote_when can be met by
+    readings (Ney 2016 and 2021, Chalmers and McQueen 2022,
+    Bikaraan-Behesht 2022) plus an argument for P7. Queue a reading task.
+  - >-
+    A numerical model result read in full counts as one study under v3
+    (THEORY-178, now THEORY-290). Narrow to the model's sizes and strategy
+    space, and keep the equilibrium-selection caveat in the body when a
+    result depends on which equilibrium is chosen.
+  - >-
+    Triage-006's philosophical-title penalty is a word match. THEORY-290's
+    "argument" was debate content. Before applying the penalty, check
+    whether the word is the entry's subject or its method.
+owner_questions:
+  - >-
+    The THEORY-351 question (batch 032) bears directly on THEORY-071 and
+    THEORY-628. Can a title that accurately reports an argument ("LIT-566
+    argues that ...") be promoted, or is a title judged as the thesis it
+    argues? This batch judged them as theses.

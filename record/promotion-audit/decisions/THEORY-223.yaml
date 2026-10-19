@@ -1,34 +1,36 @@
 # record/promotion-audit/decisions/THEORY-223.yaml
 id: THEORY-223
-batch: batch-031
+batch: batch-040
 reviewed: '2026-10-19'
-reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+supersedes: batch-031 (retain-proposed; routed here as an argument)
 current_status: Proposed
 disposition: retain-proposed
-confidence: high
+confidence: medium
 scope:
   accepted: Nothing.
   excluded: >-
-    The whole title. It is an argument from one platform's architecture,
-    LIT-1039's "recursive governance". The body says so: "An argument from
-    architecture, with anecdotes." None of the paper's vignettes or
-    incidents shows an agent altering a control on itself, and the paper
-    calls its cases "not as systematic empirical evidence".
+    The whole title, judged as an argument. Read literally it is false:
+    rules within the system's action space can still be enforced from
+    outside it. An audit that detects and reverts an edit is one example,
+    and then the governor's authority does not rest on the system leaving
+    the rules alone. Narrowed to exclude that case ("when the rules and
+    every mechanism that enforces them lie within..."), it is analytic.
+    It restates the premise, which the promote_when itself says cannot
+    settle the entry ("the architectural fact that configuration files are
+    writable, which is the premise, not the finding").
 evidence:
-  - "NOTE-732 read LIT-1039 §§3.1, 4.3–4.6. The two vignettes add a channel and a demo. Those are new coordination surfaces, not changes to a control (THEORY-223, 'What this does not say')."
-  - "The promote_when asks for logs of deployed agents with controls kept in two places, with alteration coded by the paper's test. No such record is held or cited."
+  - "NOTE-732 read LIT-1039 §§3.1, 4.3–4.6. The body: 'An argument from architecture, with anecdotes'. None of the vignettes shows an agent altering a control on itself."
+  - "The promote_when's refutation clauses are about what matters in practice (reach versus other reasons controls hold), which is an empirical thesis the title does not state."
 blockers:
-  - "Nothing is observed for the title's recursion, and the promote_when's log study is not in the record. The title is an argument (batch 020's sort rule): route it to wave 5."
+  - "No version of the title is both true as written and more than the premise. The entry's content is the empirical thesis, that reach is what decides whether a control holds in deployed agents. That needs the log study the promote_when names, which the record does not hold."
 notes: >-
-  The first clause ("the governor's authority rests on the system leaving
-  them alone") is close to analytic once "within its own action space" is
-  read as "the system can alter them". The second ("further controls in
-  the same space inherit that dependence") follows by the same reading.
-  So a formal route would only restate the premise, and the promote_when
-  says the premise cannot settle it ("the architectural fact that
-  configuration files are writable, which is the premise, not the
-  finding"). What the entry claims beyond the premise is that the
-  dependence matters in practice, and that is untested. ADR-047 v3 does
-  not apply.
+  Wave 5 confirms batch 031's reading from the other side: the argument
+  establishes only an analytic conditional, and the entry means more than
+  that. Restating the title as the empirical thesis would make it honest
+  but not promotable. It would then be an untested empirical THEORY, with
+  no route until a study is filed. CLAIM-086's use (an inverted case of a
+  constraint not governing its own authority) needs only the analytic
+  conditional, and CLAIM-086 can cite LIT-1039 for it directly.
 unlocks: []
-next_action: Requeue to wave 5 (argument class). No PR.
+next_action: None. Stays Proposed until a study of deployed-agent control logs is filed.
