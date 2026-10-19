@@ -11,7 +11,7 @@ history:
   note: >-
     Re-grounded at the owner's direction, as the follow-up to the
     owner's promotion audit of 2026-10-19. The worked case has three
-    situations and two-valued reports, so the finite-outcome THEORY-tmp2m4ke
+    situations and two-valued reports, so the finite-outcome THEORY-717
     (Active) covers all of it. THEORY-156 is Proposed only for arbitrary
     outcome spaces, which this case does not use. The claim is unchanged.
 role: thesis
@@ -28,7 +28,7 @@ tags:
 date: '2026-10-15'
 line: pragmatic-transport
 grounds:
-- THEORY-tmp2m4ke
+- THEORY-717
 summary: >-
   Split from [CLAIM-258](CLAIM-258.md) under [ADR-043](../decisions.d/ADR-043.md): the worked case that objection uses,
   stated on its own so that its warrant can be. Over a common situation Z
@@ -96,7 +96,7 @@ reaches the same verdict.
 The case has three situations and two-valued reports, so its experiments
 are 3 × 2 Markov matrices. What it uses is the definition of a garbling,
 and the direction "if one dominated the other, it would do at least as well
-in every problem". [THEORY-tmp2m4ke](../theory.d/THEORY-tmp2m4ke.md), Active, states both for finite outcome
+in every problem". [THEORY-717](../theory.d/THEORY-717.md), Active, states both for finite outcome
 spaces. The ground is now that THEORY. The quotations above are [THEORY-156](../theory.d/THEORY-156.md)'s
 wording of the same definitions, which still holds them for arbitrary
 outcome spaces.

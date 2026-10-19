@@ -1,21 +1,21 @@
 ### Added
 
-- [CLAIM-tmpzk12h](record/claims.d/CLAIM-tmpzk12h.md), Active: under the componentwise order on distortion
+- [CLAIM-371](record/claims.d/CLAIM-371.md), Active: under the componentwise order on distortion
   profiles, incomparability is exactly a trade-off, and positive weights
   can rank a trade-off either way but never reverse a dominance. Split
   from [CLAIM-128](record/claims.d/CLAIM-128.md).
-- [QUESTION-tmpxheie](record/questions.d/QUESTION-tmpxheie.md): whether human transmission chains converge to an
+- [QUESTION-137](record/questions.d/QUESTION-137.md): whether human transmission chains converge to an
   independently measured prior, the empirical test formerly in
   [THEORY-155](record/theory.d/THEORY-155.md)'s promotion condition.
 - The proved parts of three Proposed THEORYs, filed apart and Active:
-  [THEORY-tmpsuto2](record/theory.d/THEORY-tmpsuto2.md) (spectral and NT-Logistic minimizers, from [THEORY-001](record/theory.d/THEORY-001.md)),
-  [THEORY-tmp2m4ke](record/theory.d/THEORY-tmp2m4ke.md) (Blackwell's theorem for finite outcome spaces, from
-  [THEORY-156](record/theory.d/THEORY-156.md)), and [CLAIM-tmpu2dsm](record/claims.d/CLAIM-tmpu2dsm.md) (the conditional-expectation operator is
+  [THEORY-719](record/theory.d/THEORY-719.md) (spectral and NT-Logistic minimizers, from [THEORY-001](record/theory.d/THEORY-001.md)),
+  [THEORY-717](record/theory.d/THEORY-717.md) (Blackwell's theorem for finite outcome spaces, from
+  [THEORY-156](record/theory.d/THEORY-156.md)), and [CLAIM-370](record/claims.d/CLAIM-370.md) (the conditional-expectation operator is
   Hilbert–Schmidt exactly when χ² is finite, the record's own derivation
   from [THEORY-005](record/theory.d/THEORY-005.md), now with a proof).
-- [QUESTION-tmp4uhs6](record/questions.d/QUESTION-tmp4uhs6.md): the population form of the readout identities,
+- [QUESTION-136](record/questions.d/QUESTION-136.md): the population form of the readout identities,
   formerly a clause of [THEORY-008](record/theory.d/THEORY-008.md)'s promotion condition.
-- [THEORY-tmp60l2i](record/theory.d/THEORY-tmp60l2i.md), Active: in linear-Gaussian models the evidence is
+- [THEORY-718](record/theory.d/THEORY-718.md), Active: in linear-Gaussian models the evidence is
   exactly best fit times an Occam factor costing (k/2) log n. Split from
   [THEORY-087](record/theory.d/THEORY-087.md).
 

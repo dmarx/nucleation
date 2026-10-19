@@ -41,7 +41,7 @@ history:
   note: >-
     At the owner's direction, from the second pass of the owner's
     promotion audit of 2026-10-19, the confirmed half is filed apart as
-    THEORY-tmpsuto2, Active: the spectral and NT-Logistic minimizers on a
+    THEORY-719, Active: the spectral and NT-Logistic minimizers on a
     finite space, App. B.2–B.3, read in NOTE-751. This THEORY extends it
     and keeps the three-way statement, which waits on the InfoNCE/NT-Xent
     minimizer as before. The promote_when and the claim are unchanged;
@@ -65,7 +65,7 @@ summary: >-
   statement about the unconstrained optimum, not about what a network
   reaches.
 extends:
-- THEORY-tmpsuto2
+- THEORY-719
 extended_by:
 - THEORY-007
 answers:
@@ -100,7 +100,7 @@ The derivation could have come out otherwise: a loss whose optimum depended on t
 ## Note of 2026-10-19: the confirmed half filed apart
 
 The spectral and NT-Logistic minimizers, which [NOTE-751](../notes.d/NOTE-751.md) confirmed, are now
-[THEORY-tmpsuto2](THEORY-tmpsuto2.md), Active. What keeps this THEORY Proposed is only the third
+[THEORY-719](THEORY-719.md), Active. What keeps this THEORY Proposed is only the third
 loss: the InfoNCE/NT-Xent minimizer, taken from van den Oord et al. and
 derived over symmetric functions only. The promote_when says what would
 settle it.

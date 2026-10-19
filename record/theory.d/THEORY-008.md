@@ -46,7 +46,7 @@ history:
     forward: another source, or "a rewording that confines the claim to
     finite M". This takes the second. The body already stated everything
     at finite M; the title now says so. The population clause moves,
-    unchanged, to QUESTION-tmp4uhs6, and the promote_when is removed.
+    unchanged, to QUESTION-136, and the promote_when is removed.
 tags:
 - representation-learning
 - mathematics
@@ -82,7 +82,7 @@ For readouts w maximizing zᵀXw/M − ½wᵀG(X)w, the decoded signal is K_X z 
 
 ## What this does not say
 
-- **Anything in the population limit.** Every identity here is for M stimuli. Whether the K_z = I identities have a non-degenerate limit as M grows, which the source's App. A.3 does not reach, is [QUESTION-tmp4uhs6](../questions.d/QUESTION-tmp4uhs6.md).
+- **Anything in the population limit.** Every identity here is for M stimuli. Whether the K_z = I identities have a non-degenerate limit as M grows, which the source's App. A.3 does not reach, is [QUESTION-136](../questions.d/QUESTION-136.md).
 - Anything about nonlinear readouts, which are outside the source, or classifiers (§5 names linear classifiers, SVMs and multi-class logistic regression, as future work).
 - Which task distribution K_z is the right one to average over.
 - The source's Proposition 3 (bounds via Procrustes distance) is a result of a different kind: two-sided inequalities rather than identities. It is now read and holds, given the imported Procrustes–Bures equivalence; [THEORY-301](THEORY-301.md) holds it.

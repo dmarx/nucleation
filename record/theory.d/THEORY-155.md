@@ -14,7 +14,7 @@ history:
     human transmission-chain experiment with an independently measured
     prior, which tests the theorem's application to people, not the
     theorem; the body already said the THEORY does not claim that
-    application. The condition moves, unchanged, to QUESTION-tmpxheie, and
+    application. The condition moves, unchanged, to QUESTION-137, and
     the THEORY keeps the theorem. Checked again for this promotion: with
     Q(h′|h) = Σ_d P(h′|d)P(d|h), Σ_h Q(h′|h)P(h) = Σ_d P(h′|d)P(d) = P(h′), so
     the prior is stationary whatever the data space, as NOTE-599
@@ -39,7 +39,7 @@ summary: >-
   It is a theorem about an idealized chain. It does not say human chains
   reach the prior, and Kirby, Cornish & Smith's laboratory chains,
   [LIT-771](../literature.d/LIT-771.md), are consistent with it without testing it. Whether human
-  chains do is [QUESTION-tmpxheie](../questions.d/QUESTION-tmpxheie.md).
+  chains do is [QUESTION-137](../questions.d/QUESTION-137.md).
 supports:
 - CLAIM-066
 - CLAIM-090
@@ -98,7 +98,7 @@ same distribution is the stable equilibrium of an unbounded population.
 ## What this does not say
 
 - **It does not say human languages, or human transmission chains,
-  converge to human priors.** That is [QUESTION-tmpxheie](../questions.d/QUESTION-tmpxheie.md). That depends on whether people learn by
+  converge to human priors.** That is [QUESTION-137](../questions.d/QUESTION-137.md). That depends on whether people learn by
   something like posterior sampling, which the source calls unexplored for
   language, and on all learners sharing one prior and one likelihood
   matched to production.

@@ -1,5 +1,8 @@
 ---
+number: 137
 status: Open
+formerly:
+- QUESTION-tmpxheie
 title: "Do human transmission chains converge to the learners' independently measured prior where their responses behave as posterior samples, and depart from it as the MAP analysis predicts where they behave as maximizers?"
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-596 — Skimmed; cited for what the chains did and did not measure, not leaned on -->
 
-# QUESTION-tmpxheie: Do human transmission chains converge to the learners' independently measured prior where their responses behave as posterior samples, and depart from it as the MAP analysis predicts where they behave as maximizers?
+# QUESTION-137: Do human transmission chains converge to the learners' independently measured prior where their responses behave as posterior samples, and depart from it as the MAP analysis predicts where they behave as maximizers?
 
 ## Why it is a question
 

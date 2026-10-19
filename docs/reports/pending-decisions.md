@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**846 document(s) awaiting a decision.**
+**843 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 846.
+95 of the 843.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,15 +111,14 @@
 
 ## THEORYs
 
-512 of the 846.
+510 of the 843.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-09-26 | Proposed | [THEORY-009](../../record/theory.d/THEORY-009.md) | 70 | 9 | Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem |
-| 2026-09-26 | Proposed | [THEORY-008](../../record/theory.d/THEORY-008.md) | 48 | 21 | What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement |
+| 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 51 | 2 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 46 | 12 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used |
-| 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 45 | 2 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
-| 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 34 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
+| 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 40 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
 | 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 79 | 28 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
 | 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 66 | 17 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
 | 2026-09-27 | Proposed | [THEORY-014](../../record/theory.d/THEORY-014.md) | 19 | 10 | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical |
@@ -146,9 +145,9 @@
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 49 | 7 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 47 | 4 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-083](../../record/theory.d/THEORY-083.md) | 47 | 2 | Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean |
+| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 36 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 35 | 9 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 35 | 2 | In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
-| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 31 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 30 | 5 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
 | 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 27 | 5 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
 | 2026-10-03 | Proposed | [THEORY-096](../../record/theory.d/THEORY-096.md) | 27 | 9 | Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced |
@@ -238,17 +237,16 @@
 | 2026-10-05 | Proposed | [THEORY-150](../../record/theory.d/THEORY-150.md) | 7 | 3 | A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy |
 | 2026-10-05 | Proposed | [THEORY-135](../../record/theory.d/THEORY-135.md) | 6 | 1 | Multicellular cooperation depends on suppressing cells that gain fitness at the expense of the organism, across five foundations (proliferation inhibition, controlled cell death, division of labour, resource allocation and maintenance of the extracellular environment); cancer-like cheating on them is found across the independent origins of complex multicellularity, so complex multicellularity can be understood as a system for detecting and suppressing cheaters |
 | 2026-10-05 | Proposed | [THEORY-140](../../record/theory.d/THEORY-140.md) | 6 | 0 | At NASA, as the Columbia Accident Investigation Board found, the Challenger and Columbia accidents had the same organizational cause: evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms |
+| 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 54 | 3 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
 | 2026-10-09 | Proposed | [THEORY-185](../../record/theory.d/THEORY-185.md) | 54 | 0 | When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike |
 | 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 44 | 0 | A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity |
 | 2026-10-09 | Proposed | [THEORY-194](../../record/theory.d/THEORY-194.md) | 44 | 1 | For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about |
-| 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 42 | 3 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
 | 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 35 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
-| 2026-10-09 | Proposed | [THEORY-155](../../record/theory.d/THEORY-155.md) | 33 | 1 | Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior |
 | 2026-10-09 | Proposed | [THEORY-195](../../record/theory.d/THEORY-195.md) | 33 | 0 | On data generated by a random hierarchical grammar, deep networks that learn features need a number of examples polynomial in the input dimension, about n_c m^L, which is where the class statistics of input patches, equal for interchangeable patches, rise above sampling noise and where hidden layers become invariant to swapping them; shallow and fixed-kernel learners need an exponential number, and so do deep ones when those statistics are removed |
 | 2026-10-09 | Proposed | [THEORY-197](../../record/theory.d/THEORY-197.md) | 33 | 2 | Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization |
 | 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 31 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
+| 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 24 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-183](../../record/theory.d/THEORY-183.md) | 24 | 0 | When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics |
-| 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 23 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-187](../../record/theory.d/THEORY-187.md) | 21 | 6 | In a deep linear network trained by gradient descent, depth slows learning through the initial end-to-end strength of each mode: from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth |
 | 2026-10-09 | Proposed | [THEORY-199](../../record/theory.d/THEORY-199.md) | 19 | 1 | In data generated by a random hierarchical grammar, the Bayes-optimal denoiser recovers the top-level class only below a threshold noise, which becomes sharp as the tree deepens and exists only when the grammar uses a small enough fraction of possible tuples (branching times that fraction below one), while low-level features degrade smoothly with noise and so survive past the threshold |
 | 2026-10-09 | Proposed | [THEORY-201](../../record/theory.d/THEORY-201.md) | 19 | 0 | In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay |
@@ -630,7 +628,7 @@
 
 ## ADRs
 
-2 of the 846.
+2 of the 843.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -639,7 +637,7 @@
 
 ## QUESTIONs
 
-9 of the 846.
+9 of the 843.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -655,7 +653,7 @@
 
 ## CLAIMs
 
-223 of the 846.
+222 of the 843.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -718,7 +716,7 @@
 | 2026-10-09 | Proposed | [CLAIM-050](../../record/claims.d/CLAIM-050.md) | 66 | 1 | Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise |
 | 2026-10-09 | Proposed | [CLAIM-125](../../record/claims.d/CLAIM-125.md) | 43 | 0 | Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data |
 | 2026-10-09 | Proposed | [CLAIM-127](../../record/claims.d/CLAIM-127.md) | 38 | 10 | Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context |
-| 2026-10-09 | Proposed | [CLAIM-123](../../record/claims.d/CLAIM-123.md) | 25 | 11 | In conditional generation, adding scores composes conditions only under conditional independence of the conditions at the noisy state |
+| 2026-10-09 | Proposed | [CLAIM-123](../../record/claims.d/CLAIM-123.md) | 25 | 11 | In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require |
 | 2026-10-09 | Proposed | [CLAIM-037](../../record/claims.d/CLAIM-037.md) | 21 | 3 | Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context |
 | 2026-10-09 | Proposed | [CLAIM-082](../../record/claims.d/CLAIM-082.md) | 21 | 1 | A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent |
 | 2026-10-09 | Proposed | [CLAIM-013](../../record/claims.d/CLAIM-013.md) | 11 | 0 | Existing text-to-image benchmarks evaluate object presence and attributes, and need extending to pragmatically consequential relations and social uptake |
@@ -729,11 +727,11 @@
 | 2026-10-10 | Proposed | [CLAIM-151](../../record/claims.d/CLAIM-151.md) | 88 | 0 | Which communicative act an utterance performs is partly constituted by its relations to participant roles, norms and expected uptake, so a transformation that changes those relations can change the act and not only its realization |
 | 2026-10-10 | Proposed | [CLAIM-142](../../record/claims.d/CLAIM-142.md) | 67 | 14 | Two communicative realizations can agree on every probe in a restricted family without being structurally identical, so observational equivalence is relative to the probes, and only independently justified probes evaluated on held-out cases are evidence that structure was preserved |
 | 2026-10-10 | Proposed | [CLAIM-201](../../record/claims.d/CLAIM-201.md) | 38 | 3 | Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open |
+| 2026-10-10 | Proposed | [CLAIM-128](../../record/claims.d/CLAIM-128.md) | 33 | 4 | No single ranking of translations holds across tasks: where distortion profiles trade off, only a task's priorities rank them, and the theory of fidelity fixes no weighting |
 | 2026-10-10 | Proposed | [CLAIM-217](../../record/claims.d/CLAIM-217.md) | 33 | 0 | For a communicative kind, the standard of sufficiency is the uptake of competent participants who know the standings and norms in play, so the judges are the criterion a probe family is tested against, and a kind outruns only the families coarser than that standard |
 | 2026-10-10 | Proposed | [CLAIM-137](../../record/claims.d/CLAIM-137.md) | 32 | 2 | A communicative kind is identified by an invariant that does not depend on any one realization, as a group character identifies a representation up to isomorphism, so that invariant has classificatory priority over any particular realization |
 | 2026-10-10 | Proposed | [CLAIM-221](../../record/claims.d/CLAIM-221.md) | 31 | 0 | The relational-constitution thesis's defeat condition describes a standard rival the record holds no counter for, intention-based accounts of illocution, which plausibly meet it for every act in the four-speakers case except the institutional one |
 | 2026-10-10 | Proposed | [CLAIM-204](../../record/claims.d/CLAIM-204.md) | 30 | 0 | A communicative kind's identity is grounded in its relational organization, for which competent participants' uptake is the standard; statistical methods recover aspects of it from restricted observations; translation transports it; and what persists is what the receivers can still recover, of which the analyst can certify the independently identifiable part |
-| 2026-10-10 | Proposed | [CLAIM-128](../../record/claims.d/CLAIM-128.md) | 28 | 4 | Transports whose distortion profiles trade off are incomparable until a task fixes weights, so no single ranking of translations holds across tasks |
 | 2026-10-10 | Proposed | [CLAIM-199](../../record/claims.d/CLAIM-199.md) | 28 | 4 | Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible |
 | 2026-10-10 | Proposed | [CLAIM-202](../../record/claims.d/CLAIM-202.md) | 22 | 1 | What the line adds to functional and relevance-theoretic accounts of translation is measured structure beyond a static pragmatic profile: the context-indexed profile, its response to later framings and its decision relevance predict receivers' recovery beyond the similarity of static stance and footing ratings |
 | 2026-10-10 | Proposed | [CLAIM-220](../../record/claims.d/CLAIM-220.md) | 21 | 1 | For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force |
@@ -817,7 +815,6 @@
 | 2026-10-13 | Proposed | [CLAIM-277](../../record/claims.d/CLAIM-277.md) | 25 | 5 | Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early |
 | 2026-10-13 | Proposed | [CLAIM-279](../../record/claims.d/CLAIM-279.md) | 20 | 2 | Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator |
 | 2026-10-13 | Proposed | [CLAIM-267](../../record/claims.d/CLAIM-267.md) | 19 | 12 | Per-step discrepancies between a chain of maps and a reference chain compound through the sensitivity of the later steps, so the same local error can be damped, accumulated or amplified, and closeness at every step can coexist with large end-to-end divergence |
-| 2026-10-13 | Proposed | [CLAIM-264](../../record/claims.d/CLAIM-264.md) | 18 | 8 | Two objects can agree on every probe in a restricted family without being isomorphic, so equivalence under a probe family is coarser than identity unless the family is rich enough |
 | 2026-10-13 | Proposed | [CLAIM-285](../../record/claims.d/CLAIM-285.md) | 16 | 0 | An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities |
 | 2026-10-13 | Proposed | [CLAIM-274](../../record/claims.d/CLAIM-274.md) | 11 | 1 | Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself |
 | 2026-10-13 | Proposed | [CLAIM-278](../../record/claims.d/CLAIM-278.md) | 10 | 3 | An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids |
@@ -846,9 +843,9 @@
 | 2026-10-15 | Proposed | [CLAIM-315](../../record/claims.d/CLAIM-315.md) | 8 | 6 | In comparative anchoring tasks, considering an anchor shifts the later numerical estimate without adding evidence about the target, and the shift is carried by anchor-consistent knowledge made more accessible; the shift is established, the accessibility step is inferred and has not been measured |
 | 2026-10-15 | Proposed | [CLAIM-316](../../record/claims.d/CLAIM-316.md) | 8 | 8 | A person's drive profile is time-indexed: who drives changes with state, such as hungry or sated and stressed or calm, with task and with regime |
 | 2026-10-15 | Proposed | [CLAIM-301](../../record/claims.d/CLAIM-301.md) | 6 | 0 | Iterative retrieval can turn a provisional interpretation into a premise: a framing selects what is encountered, what is encountered reinforces the framing, and the question being investigated drifts as well as the queries |
+| 2026-10-15 | Proposed | [CLAIM-322](../../record/claims.d/CLAIM-322.md) | 6 | 1 | Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected |
+| 2026-10-15 | Proposed | [CLAIM-326](../../record/claims.d/CLAIM-326.md) | 5 | 5 | With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order over finitely many states, and has A86's D_Q, with the identity on tasks, as its symmetrization |
 | 2026-10-15 | Proposed | [CLAIM-317](../../record/claims.d/CLAIM-317.md) | 4 | 3 | Self-presentations that differ by audience do no harm while the audiences are kept apart; people keep them apart and script the occasions where they must meet, and broadcast and networked media bring them together unchosen, which is when the presentations collide |
-| 2026-10-15 | Proposed | [CLAIM-326](../../record/claims.d/CLAIM-326.md) | 4 | 4 | With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk increase on the same decision problem, D⁺_Q(U → V; π), is directed, is zero from a garbling back to its source, vanishes for every finite problem and prior exactly when the rendering is at least as informative as the source in Blackwell's order over finitely many states, and has A86's D_Q, with the identity on tasks, as its symmetrization |
-| 2026-10-15 | Proposed | [CLAIM-322](../../record/claims.d/CLAIM-322.md) | 3 | 3 | Agreement under a probe family is evidence that two objects share structure only to the degree that the family was chosen independently of the comparison and is evaluated on cases it was not chosen on, so a family selected to make two objects look alike shows only that it can be selected |
 | 2026-10-15 | Proposed | [CLAIM-324](../../record/claims.d/CLAIM-324.md) | 3 | 3 | In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument's items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost |
 | 2026-10-15 | Proposed | [CLAIM-313](../../record/claims.d/CLAIM-313.md) | 2 | 0 | A fixed number of bins realizes one partition only when each item is stored once: with copies, overlapping partitions coexist, as hashing-based similarity search stores each item in many partitions and pays for it in space, so sortings conflict as arrangements only under a one-copy constraint, which binds bricks but not index entries |
 | 2026-10-15 | Proposed | [CLAIM-314](../../record/claims.d/CLAIM-314.md) | 2 | 0 | Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent |
@@ -885,7 +882,7 @@
 
 ## CASEs
 
-1 of the 846.
+1 of the 843.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -893,7 +890,7 @@
 
 ## TERMs
 
-2 of the 846.
+2 of the 843.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -902,7 +899,7 @@
 
 ## ARGs
 
-2 of the 846.
+2 of the 843.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

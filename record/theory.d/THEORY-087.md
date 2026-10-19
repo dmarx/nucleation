@@ -5,7 +5,7 @@ formerly:
 - THEORY-tmpzelk0
 promote_when: >-
   A held proof of the singular half, and of the regular half beyond the
-  linear-Gaussian models where it is exact (THEORY-tmp60l2i). In general
+  linear-Gaussian models where it is exact (THEORY-718). In general
   the regular half is a Gaussian approximation in MacKay and a cited
   asymptotic in Grünwald & Roos and Watanabe; a reading of a proof of the
   regular expansion F = nL_n(ŵ) + (d/2) log n + O_p(1), such as Schwarz
@@ -35,7 +35,7 @@ history:
     "established in the sources". The check found that true only for
     linear-in-parameters models with Gaussian noise and prior, where
     MacKay's formula is exact (NOTE-471). That case is now
-    THEORY-tmp60l2i, Active, which this THEORY extends. For nonlinear
+    THEORY-718, Active, which this THEORY extends. For nonlinear
     regular models the record holds MacKay's Gaussian approximation and
     two citations (NOTE-760's eqs. 15–16 cite Rissanen and Suzuki &
     Yamanishi; NOTE-473's Theorem 5 is about WBIC, and the free-energy
@@ -67,7 +67,7 @@ summary: >-
   half is a theorem the record holds only as cited, so this is Proposed.
   The volume reading of λ is in Watanabe's book, which is unread.
 extends:
-- THEORY-tmp60l2i
+- THEORY-718
 extended_by:
 - THEORY-080
 presupposed_by:
@@ -189,7 +189,7 @@ estimates came out at 14.69, 15.74 and 16.53.
 
 Only the linear-Gaussian case is held exactly. There MacKay's Occam factor
 is exact, and the (d/2) log n cost follows by algebra. That case is
-[THEORY-tmp60l2i](THEORY-tmp60l2i.md), Active. For nonlinear regular models MacKay's formula is
+[THEORY-718](THEORY-718.md), Active. For nonlinear regular models MacKay's formula is
 a Gaussian approximation. Grünwald & Roos cite the (k/2) log n expansion
 (eq. 16) to Rissanen and to Suzuki & Yamanishi. Watanabe's Lemma 3 gives
 λ = d/2 for a regular truth, but the free-energy expansion that turns λ

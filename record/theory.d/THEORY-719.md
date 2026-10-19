@@ -1,5 +1,8 @@
 ---
+number: 719
 status: Active
+formerly:
+- THEORY-tmpsuto2
 title: 'On a finite augmentation space, over unconstrained functions of the two views, the spectral contrastive and NT-Logistic losses are both minimized at the positive-pair density ratio'
 version: 1
 history:
@@ -34,7 +37,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the three-way account this half was split from and that extends it, cited as open -->
 
-# THEORY-tmpsuto2: On a finite augmentation space, over unconstrained functions of the two views, the spectral contrastive and NT-Logistic losses are both minimized at the positive-pair density ratio
+# THEORY-719: On a finite augmentation space, over unconstrained functions of the two views, the spectral contrastive and NT-Logistic losses are both minimized at the positive-pair density ratio
 
 ## Source
 
@@ -72,7 +75,7 @@ the product of the marginals, and the target is the ratio.
   communicating classes ([THEORY-001](THEORY-001.md)).
 - **Anything for continuous views.** The derivation is on a finite space;
   in the continuous case the ratio needs P⁺ ≪ P⊗P, and the spectral loss
-  needs K⁺ ∈ L²(p⊗p), which is finite χ² ([CLAIM-tmpu2dsm](../claims.d/CLAIM-tmpu2dsm.md)).
+  needs K⁺ ∈ L²(p⊗p), which is finite χ² ([CLAIM-370](../claims.d/CLAIM-370.md)).
 - **That the two losses give the same d-dimensional features.** The
   spectral loss fits K⁺ and the logistic loss fits log K⁺, and truncation to
   rank d does not commute with the logarithm.

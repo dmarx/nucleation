@@ -13,7 +13,7 @@ history:
     promotion audit of 2026-10-19. The claim was filed demonstrated, but
     only its order-theoretic part is proved: trade-off is incomparability
     under the componentwise order, and positive weights can rank a
-    trade-off either way. That part is now CLAIM-tmpzk12h, Active, and this
+    trade-off either way. That part is now CLAIM-371, Active, and this
     claim rests on it. What stays is the thesis that fidelity is ranked
     only relative to a task and that the theory fixes no weighting. It is
     argued from the manuscript, and whether trade-offs occur for the tasks
@@ -35,7 +35,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 rests_on:
 - CLAIM-106
-- CLAIM-tmpzk12h
+- CLAIM-371
 complements:
 - CLAIM-033
 - CLAIM-240
@@ -100,7 +100,7 @@ theory of fidelity itself.
 
 ## Note of 2026-10-19: split under [ADR-043](../decisions.d/ADR-043.md)
 
-The order-theoretic part of this claim is now [CLAIM-tmpzk12h](CLAIM-tmpzk12h.md), with its
+The order-theoretic part of this claim is now [CLAIM-371](CLAIM-371.md), with its
 proof: under the componentwise order, two profiles are incomparable exactly
 when they trade off, positive weights can then rank them either way, and no
 positive weighting reverses a dominance. That part is demonstrated and

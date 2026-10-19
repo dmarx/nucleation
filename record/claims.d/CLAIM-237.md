@@ -12,7 +12,7 @@ history:
     A ground added at the owner's direction, as the follow-up to the
     owner's promotion audit of 2026-10-19. The step "by Blackwell's easy
     direction applied context by context" is on finite measurement
-    scenarios, so it is covered by THEORY-tmp2m4ke (Active) whenever the
+    scenarios, so it is covered by THEORY-717 (Active) whenever the
     situations z are finitely many. THEORY-156 stays as the ground
     otherwise. The claim is unchanged.
 role: granted
@@ -24,7 +24,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 grounds:
 - THEORY-156
-- THEORY-tmp2m4ke
+- THEORY-717
 - THEORY-174
 objects_to:
 - CLAIM-125
@@ -129,6 +129,6 @@ chain." It does not make the cover version.
 The empirical models here are on finite measurement scenarios
 ([THEORY-174](../theory.d/THEORY-174.md)), so each experiment z ↦ e^z_C has finitely many outcomes. When
 the situations z are also finitely many, the step it takes from Blackwell
-is the direct implication in [THEORY-tmp2m4ke](../theory.d/THEORY-tmp2m4ke.md), Active: Q = PM gives the rule
+is the direct implication in [THEORY-717](../theory.d/THEORY-717.md), Active: Q = PM gives the rule
 MD the risks of D. "Theorem 3 in [THEORY-156](../theory.d/THEORY-156.md)'s reading" above names the same
 step. For infinitely many situations the ground is still [THEORY-156](../theory.d/THEORY-156.md).

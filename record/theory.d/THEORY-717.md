@@ -1,5 +1,8 @@
 ---
+number: 717
 status: Active
+formerly:
+- THEORY-tmp2m4ke
 title: 'For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix'
 version: 1
 history:
@@ -41,7 +44,7 @@ supports:
 <!-- inactive-ok-file: THEORY-156 — Proposed; the general case this one was split from and that extends it, cited as open -->
 <!-- inactive-ok-file: LIT-778 — Unavailable; named as where the quantitative question lives, not read -->
 
-# THEORY-tmp2m4ke: For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix
+# THEORY-717: For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix
 
 ## Source
 

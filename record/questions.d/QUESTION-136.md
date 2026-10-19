@@ -1,5 +1,8 @@
 ---
+number: 136
 status: Open
+formerly:
+- QUESTION-tmp4uhs6
 title: 'As the number of stimuli grows, do the task-averaged readout identities with white-noise tasks have a non-degenerate population form, with (1/M²)Tr(K̂_X K̂_Y) converging to the Hilbert–Schmidt inner product of the kernel operators, and at what rate when the regularizer is estimated?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   does not hold it.
 ---
 
-# QUESTION-tmp4uhs6: As the number of stimuli grows, do the task-averaged readout identities with white-noise tasks have a non-degenerate population form, with (1/M²)Tr(K̂_X K̂_Y) converging to the Hilbert–Schmidt inner product of the kernel operators, and at what rate when the regularizer is estimated?
+# QUESTION-136: As the number of stimuli grows, do the task-averaged readout identities with white-noise tasks have a non-degenerate population form, with (1/M²)Tr(K̂_X K̂_Y) converging to the Hilbert–Schmidt inner product of the kernel operators, and at what rate when the regularizer is estimated?
 
 ## Why it is a question
 

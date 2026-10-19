@@ -12,7 +12,7 @@ history:
     A ground added at the owner's direction, as the follow-up to the
     owner's promotion audit of 2026-10-19. Step (b) uses the converse with
     Z finite. When U and V also take finitely many values, as with coded
-    renderings, THEORY-tmp2m4ke (Active) covers it. For renderings with
+    renderings, THEORY-717 (Active) covers it. For renderings with
     unbounded outcome spaces, the ground is still THEORY-156. The claim is
     unchanged.
 role: thesis
@@ -31,7 +31,7 @@ date: '2026-10-15'
 line: pragmatic-transport
 grounds:
 - THEORY-156
-- THEORY-tmp2m4ke
+- THEORY-717
 summary: >-
   Split from [CLAIM-259](CLAIM-259.md) under [ADR-043](../decisions.d/ADR-043.md): the properties of the restated decision
   term, which [CLAIM-259](CLAIM-259.md) called "elementary and checkable", stated on their own
@@ -114,7 +114,7 @@ follows from the definitions.
 Step (b) applies the converse of Blackwell's theorem with Z finite. If U and
 V also take finitely many values, as they do once renderings are coded into
 a finite set of categories, then that converse is Theorem 6 of Blackwell
-(1953), held in [THEORY-tmp2m4ke](../theory.d/THEORY-tmp2m4ke.md), which is Active. If the outcome spaces are
+(1953), held in [THEORY-717](../theory.d/THEORY-717.md), which is Active. If the outcome spaces are
 unrestricted, as for raw texts, step (b) still rests on [THEORY-156](../theory.d/THEORY-156.md), which is
 Proposed for that case. The claim states no restriction on the outcome
 spaces, so it keeps both grounds.

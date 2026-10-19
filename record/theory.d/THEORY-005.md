@@ -53,7 +53,7 @@ history:
   note: >-
     At the owner's direction, from the second pass of the owner's
     promotion audit of 2026-10-19, the record's own derivation is filed
-    apart as CLAIM-tmpu2dsm, Active and demonstrated, with a proof. That
+    apart as CLAIM-370, Active and demonstrated, with a proof. That
     claim includes the converse, that T is Hilbert–Schmidt only if χ² is
     finite. This THEORY keeps its reading of the sources and the
     eigenfunction identification for trained or spectral features. Its
@@ -105,7 +105,7 @@ The L²(p) here is the space the commutative GNS construction produces from the 
 
 The derivation in "What was actually shown", that K⁺ is T's kernel, that T
 is Hilbert–Schmidt with ‖T‖²_HS = 1 + χ², and that it is self-adjoint, is
-now [CLAIM-tmpu2dsm](../claims.d/CLAIM-tmpu2dsm.md). It is stated there with a proof, including the
+now [CLAIM-370](../claims.d/CLAIM-370.md). It is stated there with a proof, including the
 converse (Hilbert–Schmidt only if χ² is finite), and it is Active.
 Mathematics the record proves does not wait on a source. What this THEORY
 still waits on is what the sources show, and whether features reach the

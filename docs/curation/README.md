@@ -6,6 +6,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [19 Oct 04:15 — The promotion audit's follow-up: THEORY-087's regular half, and the claims that cite THEORY-156](2026-10.md#the-promotion-audits-follow-up-theory-087s-regular-half-and-the-claims-that-cite-theory-156)
+- [19 Oct 03:41 — The promotion audit's second pass: the proved parts of THEORY-001, -005, -008 and -156](2026-10.md#the-promotion-audits-second-pass-the-proved-parts-of-theory-001--005--008-and--156)
+- [19 Oct 02:41 — The owner's promotion audit of 2026-10-19: two corrections, two promotions and a split](2026-10.md#the-owners-promotion-audit-of-2026-10-19-two-corrections-two-promotions-and-a-split)
 - [18 Oct 19:54 — Seven works registered unread from the relayed synthesis on ecological coexistence and feature learning; Chizat and Bach left to the anthology](2026-10.md#seven-works-registered-unread-from-the-relayed-synthesis-on-ecological-coexistence-and-feature-learning-chizat-and-bach-left-to-the-anthology)
 - [18 Oct 00:59 — Twenty-five works registered unread from the exchange on synthesis opportunities; the anthology's share and the unidentified left out](2026-10.md#twenty-five-works-registered-unread-from-the-exchange-on-synthesis-opportunities-the-anthologys-share-and-the-unidentified-left-out)
 - [17 Oct 02:53 — Multivariate redundancy: Griffith's view and the three-source impossibility, read; the record files why the gap cannot close as stated](2026-10.md#multivariate-redundancy-griffiths-view-and-the-three-source-impossibility-read-the-record-files-why-the-gap-cannot-close-as-stated)
@@ -103,9 +106,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-141 entries across 2 books, newest first.
+144 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 94 | 2026-10-01 | 2026-10-18 |
+| [2026-10](2026-10.md) | 97 | 2026-10-01 | 2026-10-19 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |
