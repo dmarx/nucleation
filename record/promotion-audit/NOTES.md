@@ -209,3 +209,12 @@ decision files do not say.
   CLAIM-105, -235, -319 and -320 may need only THEORY-165's Lipschitz
   claim. THEORY-018, THEORY-019 and CLAIM-148 may need only THEORY-017's
   core, which bears on CLAIM-269's THEORY-019 clause.
+
+## 2026-10-19 — batch 006, in progress
+
+- **Wave-4 re-grounding candidates after #176.** CLAIM-105, CLAIM-201,
+  CLAIM-219, CLAIM-235, CLAIM-319, CLAIM-320 and CASE-037 cite THEORY-165
+  for the continuity of the contextual fraction. That result is now held
+  by CLAIM-tmp496tl, the Lipschitz bound split from THEORY-165 in #176.
+  Once #176 merges, each one that needs only continuity can re-ground on
+  the new claim.
