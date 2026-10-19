@@ -1,5 +1,8 @@
 ---
+number: 374
 status: Active
+formerly:
+- CLAIM-tmpkve75
 title: 'On a consistently connected system, Contextuality-by-Default and the sheaf criterion agree: a maximally connected coupling exists exactly when a global law has the contexts'' laws as its marginals'
 version: 1
 history:
@@ -44,7 +47,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-037 — Proposed; the methodological thesis this result was split from and that rests on it, cited as open -->
 
-# CLAIM-tmpkve75: On a consistently connected system, Contextuality-by-Default and the sheaf criterion agree: a maximally connected coupling exists exactly when a global law has the contexts' laws as its marginals
+# CLAIM-374: On a consistently connected system, Contextuality-by-Default and the sheaf criterion agree: a maximally connected coupling exists exactly when a global law has the contexts' laws as its marginals
 
 ## The claim
 

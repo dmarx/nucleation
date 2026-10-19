@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-36 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+38 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -90,6 +90,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-024](../record/theory.d/THEORY-024.md) — Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified *(Rejected)*
   - [THEORY-516](../record/theory.d/THEORY-516.md) — For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections *(Active)*
+
+### From In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree
+
+- [THEORY-722](../record/theory.d/THEORY-722.md) — In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree *(Active)*
+  - [THEORY-168](../record/theory.d/THEORY-168.md) — In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included *(Proposed)*
+
+### From Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned
+
+- [THEORY-720](../record/theory.d/THEORY-720.md) — Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned *(Active)*
+  - [THEORY-174](../record/theory.d/THEORY-174.md) — Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it *(Proposed)*
 
 ## databases
 
@@ -275,9 +285,10 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Active)*
   - [THEORY-008](../record/theory.d/THEORY-008.md) — On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement *(Active)*
-  - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)*
+  - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)* — also carries further THEORY-721
     - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*
       - [THEORY-234](../record/theory.d/THEORY-234.md) — Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none only when it lies in those subspaces *(Proposed)*
+- [THEORY-721](../record/theory.d/THEORY-721.md) — On a complex Hilbert space no orthonormal basis or tensor factorisation of given dimensions is distinguished by the space alone, and orthonormal bases correspond exactly to commutative special †-Frobenius algebras; over the reals that correspondence fails *(Active)*
 
 ### From Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
@@ -288,6 +299,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-717](../record/theory.d/THEORY-717.md) — For experiments with finitely many states and finitely many outcomes, being at least as informative in every decision problem is the same as being reproducible from the other by a Markov matrix *(Active)*
   - [THEORY-156](../record/theory.d/THEORY-156.md) — For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation *(Proposed)*
+
+### From In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree
+
+- [THEORY-722](../record/theory.d/THEORY-722.md) — In Contextuality-by-Default 2.0, whether a system of non-binary variables is contextual depends on which variables represent the measurements: coarse-graining can turn a noncontextual system into a contextual one, while for connections of two variables, and for consistently connected systems, CbD 1.0 and 2.0 agree *(Active)*
+  - [THEORY-168](../record/theory.d/THEORY-168.md) — In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included *(Proposed)*
+
+### From Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned
+
+- [THEORY-720](../record/theory.d/THEORY-720.md) — Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned *(Active)*
+  - [THEORY-174](../record/theory.d/THEORY-174.md) — Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it *(Proposed)*
 
 ### From In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball
 
@@ -442,6 +463,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-024](../record/theory.d/THEORY-024.md) — Classical Boolean logic is restored when a presheaf of contextual data acquires a global section or is sheafified *(Rejected)*
   - [THEORY-516](../record/theory.d/THEORY-516.md) — For any presheaf of propositions over a small category of contexts, a sieve-valued valuation satisfies the generalized functional-composition condition exactly when it is a subobject of that presheaf, and the construction runs unchanged in classical physics, where every microstate gives a global section yet truth values are still non-Boolean sieves; so the logic of the truth values is fixed by the base category, not by whether a presheaf has global sections *(Active)*
 
+### From Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned
+
+- [THEORY-720](../record/theory.d/THEORY-720.md) — Classical simulations between no-signalling empirical models on finite scenarios, which may change the cover, never create contextuality: a model is non-contextual exactly when the empty model simulates it, the non-contextual fraction cannot fall along a simulation, strong contextuality is reflected backwards, and only non-contextual models can be cloned *(Active)*
+  - [THEORY-174](../record/theory.d/THEORY-174.md) — Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it *(Proposed)*
+
 ## representation-learning
 
 ### From On a finite augmentation space, over unconstrained functions of the two views, the spectral contrastive and NT-Logistic losses are both minimized at the positive-pair density ratio
@@ -451,14 +477,6 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [THEORY-007](../record/theory.d/THEORY-007.md) — Kernel PCA under the positive-pair density ratio recovers the eigenfunctions of the positive-pair Markov chain, and their top span is minimax-optimal for linear prediction of approximately view-invariant targets *(Active)*
       - [THEORY-005](../record/theory.d/THEORY-005.md) — The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite *(Proposed)*
       - [THEORY-009](../record/theory.d/THEORY-009.md) — Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair distribution, not from the Riesz representation theorem *(Proposed)*
-
-### From A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels
-
-- [THEORY-004](../record/theory.d/THEORY-004.md) — A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels *(Active)*
-  - [THEORY-008](../record/theory.d/THEORY-008.md) — On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement *(Active)*
-  - [THEORY-017](../record/theory.d/THEORY-017.md) — In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it *(Proposed)*
-    - [THEORY-018](../record/theory.d/THEORY-018.md) — Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation *(Active)*
-      - [THEORY-234](../record/theory.d/THEORY-234.md) — Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none only when it lies in those subspaces *(Proposed)*
 
 ### From A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms
 

@@ -11,7 +11,7 @@ promote_when: >-
   corrected statement; the published chapter carries the uncorrected one.
   Further examples of contextuality-monotone operations cannot settle it,
   since the monotonicity half is already proved in refereed venues and is
-  filed apart as THEORY-tmp4o2p3, Active; this condition concerns the
+  filed apart as THEORY-720, Active; this condition concerns the
   characterisation alone.
 title: 'Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it'
 version: 2
@@ -21,7 +21,7 @@ history:
   note: >-
     At the owner's direction, carrying out the promotion audit's decision
     (record/promotion-audit/decisions/THEORY-174.yaml, batch 005, ADR-047),
-    the monotonicity half is filed apart as THEORY-tmp4o2p3, Active: (a)
+    the monotonicity half is filed apart as THEORY-720, Active: (a)
     non-contextual models are those the empty model simulates, (b) NCF
     cannot fall along a simulation, (c) strong contextuality is reflected
     backwards, and (d) no cloning. This THEORY extends it and keeps the
@@ -38,7 +38,7 @@ source:
 - LIT-847
 - LIT-845
 extends:
-- THEORY-tmp4o2p3
+- THEORY-720
 summary: >-
   Karvonen (2018), [LIT-846](../literature.d/LIT-846.md); Abramsky, Barbosa, Karvonen & Mansfield
   (2019), [LIT-847](../literature.d/LIT-847.md); Barbosa, Karvonen & Mansfield (2021, v2 2024),
@@ -140,7 +140,7 @@ Bell shows that whether they do is itself a contextuality question.
 ## Note of 2026-10-19: the monotonicity half filed apart
 
 The three results that "hold across all three formulations" above are now
-[THEORY-tmp4o2p3](THEORY-tmp4o2p3.md), Active, sourced to [LIT-846](../literature.d/LIT-846.md) and [LIT-847](../literature.d/LIT-847.md), whose proofs [NOTE-651](../notes.d/NOTE-651.md)
+[THEORY-720](THEORY-720.md), Active, sourced to [LIT-846](../literature.d/LIT-846.md) and [LIT-847](../literature.d/LIT-847.md), whose proofs [NOTE-651](../notes.d/NOTE-651.md)
 and [NOTE-647](../notes.d/NOTE-647.md) followed. Its no-cloning result cites [LIT-847](../literature.d/LIT-847.md) Theorem 22 rather
 than [LIT-846](../literature.d/LIT-846.md) Theorem 4.8, which rests on a monoidal structure the paper
 asserts without checking. What keeps this THEORY Proposed is the

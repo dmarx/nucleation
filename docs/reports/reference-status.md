@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**522 documents cited without acknowledgement.** Not listed: 10215 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**520 documents cited without acknowledgement.** Not listed: 10224 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -615,7 +615,7 @@ Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment
 
 ### [CLAIM-308](../../record/claims.d/CLAIM-308.md) — Proposed
 
-Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no rule without foresight does better, under fixed known costs and with staleness left out
+Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no deterministic rule without foresight does better, under fixed known costs and with staleness left out
 
 30 citations in 15 files await a look; 14 other citations of it are acknowledged.
 
@@ -724,7 +724,7 @@ A judgement–observation loop cut off from action loses one route for evidence 
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-28 citations in 24 files await a look; 51 other citations of it are acknowledged.
+28 citations in 24 files await a look; 57 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:213`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -1324,7 +1324,7 @@ In both formalisms of contextuality, classicality is the existence of a nonnegat
 
 10 citations in 7 files await a look; 9 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-037.md:93`](../../record/claims.d/CLAIM-037.md)
+- [`record/claims.d/CLAIM-037.md:109`](../../record/claims.d/CLAIM-037.md)
 - [`record/notes.d/NOTE-249.md:184`](../../record/notes.d/NOTE-249.md)
 - [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-250.md:205`](../../record/notes.d/NOTE-250.md)
@@ -2341,7 +2341,7 @@ Local transport errors propagate through later reconstructions according to the 
 
 Translation may preserve local meanings while changing the global structure of meaning: reconstruction can keep most local judgements and change their global compatibility
 
-5 citations in 2 files await a look; 49 other citations of it are acknowledged.
+5 citations in 2 files await a look; 48 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:200`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:229`](../../record/decisions.d/ADR-043.md)
@@ -2559,7 +2559,7 @@ Structuralism
 
 5 citations in 2 files await a look.
 
-- [`record/claims.d/CLAIM-098.md:69`](../../record/claims.d/CLAIM-098.md)
+- [`record/claims.d/CLAIM-098.md:82`](../../record/claims.d/CLAIM-098.md)
 - [`record/literature.d/LIT-837.md:6`](../../record/literature.d/LIT-837.md)
 - [`record/literature.d/LIT-837.md:46`](../../record/literature.d/LIT-837.md)
 - [`record/literature.d/LIT-837.md:110`](../../record/literature.d/LIT-837.md)
@@ -3001,17 +3001,6 @@ What an utterance does to the context it is used in is part of its meaning, and 
 - [`record/literature.d/LIT-838.md:107`](../../record/literature.d/LIT-838.md)
 - [`record/notes.d/NOTE-644.md:173`](../../record/notes.d/NOTE-644.md)
 
-### [THEORY-184](../../record/theory.d/THEORY-184.md) — Proposed
-
-Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely many steps
-
-4 citations in 2 files await a look; 11 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-712.md:117`](../../record/notes.d/NOTE-712.md)
-- [`record/notes.d/NOTE-712.md:159`](../../record/notes.d/NOTE-712.md)
-- [`record/questions.d/QUESTION-058.md:28`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:48`](../../record/questions.d/QUESTION-058.md)
-
 ### [THEORY-261](../../record/theory.d/THEORY-261.md) — Proposed
 
 In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length
@@ -3134,7 +3123,7 @@ An organized agent's will is its own to the degree that its operative commitment
 
 Formal contextuality is a failure of global extension, distinct from ordinary context dependence, and needs Contextuality-by-Default when marginals shift with context
 
-3 citations in 2 files await a look; 18 other citations of it are acknowledged.
+3 citations in 2 files await a look; 23 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:113`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-067.md:47`](../../record/questions.d/QUESTION-067.md)
@@ -3214,7 +3203,7 @@ A gap or coupling criterion cannot tell a boundary a system produces from one im
 
 Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open
 
-3 citations in 1 file await a look; 35 other citations of it are acknowledged.
+3 citations in 1 file await a look; 36 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:237`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:248`](../../record/decisions.d/ADR-043.md)
@@ -3604,7 +3593,7 @@ A platform that sits between the two sides of a market and can cheaply change ho
 
 For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation
 
-3 citations in 3 files await a look; 51 other citations of it are acknowledged.
+3 citations in 3 files await a look; 52 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-350.md:95`](../../record/claims.d/CLAIM-350.md)
 - [`record/literature.d/LIT-781.md:90`](../../record/literature.d/LIT-781.md)
@@ -3870,7 +3859,7 @@ Communicative meaning is constituted through systems of distinctions and relatio
 
 A transport that approximately intertwines each framing operation approximately preserves their commutator, so the degree to which interpretive perspectives interfere can itself be part of what a translation preserves
 
-2 citations in 2 files await a look; 5 other citations of it are acknowledged.
+2 citations in 2 files await a look; 10 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-117.md:84`](../../record/claims.d/CLAIM-117.md)
 - [`record/decisions.d/ADR-043.md:255`](../../record/decisions.d/ADR-043.md)
@@ -5132,17 +5121,9 @@ Sheaf-theoretic contextuality has to be extended to directed transport between o
 
 Pragmatic fidelity is a graded, potentially asymmetric property of transport, not an equivalence relation; equivalence is its zero-distortion limit
 
-1 citation in 1 file awaits a look; 32 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 33 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:166`](../../record/decisions.d/ADR-040.md)
-
-### [CLAIM-107](../../record/claims.d/CLAIM-107.md) — Proposed
-
-A pragmatic observable is conserved under a Markov reconstruction process when it is harmonic for the kernel, which gives a Noether-type conservation criterion
-
-1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-040.md:126`](../../record/decisions.d/ADR-040.md)
 
 ### [CLAIM-108](../../record/claims.d/CLAIM-108.md) — Superseded
 
@@ -5296,14 +5277,6 @@ A family of probes that supplies an optimized system's training signal cannot al
 
 - [`record/decisions.d/ADR-040.md:188`](../../record/decisions.d/ADR-040.md)
 
-### [CLAIM-268](../../record/claims.d/CLAIM-268.md) — Proposed
-
-Model stitching certifies an order of information only in its reconstruction form: a map fitted to reproduce the target layers shows the source representation is at least as informative for every decision on the label, task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-040.md:188`](../../record/decisions.d/ADR-040.md)
-
 ### [CLAIM-273](../../record/claims.d/CLAIM-273.md) — Proposed
 
 A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability
@@ -5335,6 +5308,14 @@ Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of o
 1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-336.md:70`](../../record/claims.d/CLAIM-336.md)
+
+### [CLAIM-314](../../record/claims.d/CLAIM-314.md) — Proposed
+
+Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent
+
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-308.md:20`](../../record/claims.d/CLAIM-308.md)
 
 ### [CLAIM-322](../../record/claims.d/CLAIM-322.md) — Proposed
 

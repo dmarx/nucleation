@@ -12,7 +12,7 @@ history:
     Split under ADR-043 at the owner's direction, carrying out the promotion
     audit's decision (record/promotion-audit/decisions/CLAIM-063.yaml, batch
     002, ADR-047). The commutator identity and its norm bound, which this
-    claim used, are now CLAIM-tmp5pd5m, demonstrated and Active, with a
+    claim used, are now CLAIM-373, demonstrated and Active, with a
     proof. This claim rests on it and keeps the thesis: that how far
     interpretive perspectives interfere can be part of what a translation
     preserves. Its defeat condition is about measured order effects, which
@@ -33,7 +33,7 @@ line: pragmatic-transport
 works:
 - what-survives-translation
 rests_on:
-- CLAIM-tmp5pd5m
+- CLAIM-373
 uses:
 - TERM-024
 summary: >-
@@ -80,7 +80,7 @@ quoted above is unchanged.
 ## Note of 2026-10-19: split under [ADR-043](../decisions.d/ADR-043.md)
 
 The identity Φ[A,B] − [A′,B′]Φ = A′E_B + E_A B − B′E_A − E_B A, with its
-norm bound, is now [CLAIM-tmp5pd5m](CLAIM-tmp5pd5m.md). It is proved there and Active, and it is
+norm bound, is now [CLAIM-373](CLAIM-373.md). It is proved there and Active, and it is
 the approximate case that [ARG-006](../arguments.d/ARG-006.md) names. This claim keeps the thesis that
 the identity is used for: that interference between perspectives can be
 part of what a translation preserves. That thesis is tested by measured

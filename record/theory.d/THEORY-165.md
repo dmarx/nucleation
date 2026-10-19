@@ -16,7 +16,7 @@ history:
     supplemental proofs: NCF as the value of the linear programme (Eq. 3)
     and convexity of CF under mixing (Theorem 2). Piecewise linearity and
     the Lipschitz bound were, as the summary said, the reader's derivation.
-    They are now CLAIM-tmp496tl, demonstrated and Active, with a proof that
+    They are now CLAIM-372, demonstrated and Active, with a proof that
     also shows strong duality without the paper's supplement. That met the
     promote_when's second option. The title is narrowed to the source's part,
     and the promote_when is removed.
@@ -31,7 +31,7 @@ summary: >-
   fraction is the value of a linear programme whose constraint vector is
   the empirical model (Eq. 3), and convexity of CF under mixing is their
   Theorem 2. Piecewise linearity and the Lipschitz bound are the record's
-  own derivation, now CLAIM-tmp496tl. The Lipschitz
+  own derivation, now CLAIM-372. The Lipschitz
   constant depends on the scenario and is not bounded here. Nothing here
   applies to signalling data, where CF is undefined.
 supports:
@@ -98,7 +98,7 @@ is a sample, not the constant.
 
 The derivation in "What was actually shown", that NCF is the minimum over
 the dual polyhedron's vertices, and so is piecewise linear and Lipschitz
-in the table, is now [CLAIM-tmp496tl](../claims.d/CLAIM-tmp496tl.md). It is Active, with a written proof.
+in the table, is now [CLAIM-372](../claims.d/CLAIM-372.md). It is Active, with a written proof.
 This THEORY keeps the linear programme and Theorem 2, which the paper
 proves. The CHSH check and the sample of dual norms above stay here as
 what the reader computed.
