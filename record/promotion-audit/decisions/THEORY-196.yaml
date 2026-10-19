@@ -61,7 +61,7 @@ notes: >-
   can often be redone with exact hyperbolic trigonometry. The identity
   cosh d = cosh(r₁ + r₂) sin²(θ/2) + cosh(r₁ − r₂) cos²(θ/2) does the work
   in two lines. The constant 15 (on deg_max) is an artefact of the
-  small-scale case. For deg_max ≤ 6 the bound is vacuous, since
+  small-scale case. For deg_max ≤ 4 the bound is vacuous, since
   ln(k/(π√2)) ≤ 0. Paths, for instance, need no bits at all, so the title's
   log deg_max is only meaningful for bushy trees, as the body says.
 unlocks: []

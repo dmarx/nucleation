@@ -34,6 +34,9 @@ recommendation: >-
   in the title by perturbing the claimed optimum or by a 2 × 2 example.
   These four batches found most of the scope errors that way.
 owner_questions: []
+promotion_prs:
+  - "#197: THEORY-234 and THEORY-239, narrow-and-promote (branch claude/promote-theories-234-239)."
+  - "#200: THEORY-196 and THEORY-257, splits into THEORY-tmpfydax and THEORY-tmp7brn5 (branch claude/split-theories-196-257)."
 follow_up_prs:
   - "THEORY-234 and THEORY-239: narrow-and-promote. THEORY-234's 'only when' becomes 'when', and its trained-model clause moves to a new QUESTION. THEORY-239 drops 'unique' and states the range of ε, with the counterexample and the non-reversible worked case. Annotate NOTE-770."
   - "THEORY-196 and THEORY-257: splits. New Active THEORYs hold the exact planar lower bound (LIT-874) and the VAR genericity result with its p = 1 correction (LIT-979). The parents narrow their promote_when and titles. A new QUESTION takes THEORY-196's H^r clause. Annotate NOTE-791 C4."
