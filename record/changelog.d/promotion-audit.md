@@ -15,6 +15,9 @@
   from [THEORY-005](record/theory.d/THEORY-005.md), now with a proof).
 - [QUESTION-tmp4uhs6](record/questions.d/QUESTION-tmp4uhs6.md): the population form of the readout identities,
   formerly a clause of [THEORY-008](record/theory.d/THEORY-008.md)'s promotion condition.
+- [THEORY-tmp60l2i](record/theory.d/THEORY-tmp60l2i.md), Active: in linear-Gaussian models the evidence is
+  exactly best fit times an Occam factor costing (k/2) log n. Split from
+  [THEORY-087](record/theory.d/THEORY-087.md).
 
 ### Fixed
 
@@ -34,3 +37,9 @@
   interpretive.
 - [THEORY-008](record/theory.d/THEORY-008.md) is confined to a finite stimulus set, where its identities
   are proved, and promoted to Active.
+- [THEORY-087](record/theory.d/THEORY-087.md)'s promotion condition no longer says its regular half is
+  derived in the sources. Only the linear-Gaussian case is derived there,
+  and the condition now asks for a proof of the general regular case as
+  well.
+- [CLAIM-323](record/claims.d/CLAIM-323.md) now rests on the finite-outcome Blackwell THEORY.
+  [CLAIM-237](record/claims.d/CLAIM-237.md) and [CLAIM-326](record/claims.d/CLAIM-326.md) cite it alongside [THEORY-156](record/theory.d/THEORY-156.md).

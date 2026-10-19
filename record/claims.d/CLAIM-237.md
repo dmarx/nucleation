@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmpkf8pe
 title: 'The first open problem of directed transport is not yet posed: a contextual model is a menu of incompatible experiments, and under the natural order on menus any state-independent classical simulation is dominated automatically, so what is open is only the converse or a deficiency bound'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    A ground added at the owner's direction, as the follow-up to the
+    owner's promotion audit of 2026-10-19. The step "by Blackwell's easy
+    direction applied context by context" is on finite measurement
+    scenarios, so it is covered by THEORY-tmp2m4ke (Active) whenever the
+    situations z are finitely many. THEORY-156 stays as the ground
+    otherwise. The claim is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -14,6 +24,7 @@ date: '2026-10-10'
 line: pragmatic-transport
 grounds:
 - THEORY-156
+- THEORY-tmp2m4ke
 - THEORY-174
 objects_to:
 - CLAIM-125
@@ -112,3 +123,12 @@ chain." It does not make the cover version.
   ([CLAIM-258](CLAIM-258.md)).
 - It does not cover adaptive or contextual simulations. Whether the same
   holds for them was not checked.
+
+## Note of 2026-10-19: the finite case
+
+The empirical models here are on finite measurement scenarios
+([THEORY-174](../theory.d/THEORY-174.md)), so each experiment z ↦ e^z_C has finitely many outcomes. When
+the situations z are also finitely many, the step it takes from Blackwell
+is the direct implication in [THEORY-tmp2m4ke](../theory.d/THEORY-tmp2m4ke.md), Active: Q = PM gives the rule
+MD the risks of D. "Theorem 3 in [THEORY-156](../theory.d/THEORY-156.md)'s reading" above names the same
+step. For infinitely many situations the ground is still [THEORY-156](../theory.d/THEORY-156.md).

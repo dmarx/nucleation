@@ -53,7 +53,6 @@ supports:
 - CLAIM-212
 - CLAIM-228
 - CLAIM-259
-- CLAIM-323
 - CLAIM-326
 ---
 
@@ -114,3 +113,9 @@ without the quoted results: Theorems 4–6 for the converse, and a one-line
 matrix argument for the direct implication. Claims that cite this THEORY
 for experiments with finitely many outcomes can cite that one instead.
 This one is Proposed only for the arbitrary-outcome extension.
+
+The citing claims were checked the same day. [CLAIM-323](../claims.d/CLAIM-323.md), whose case is
+finite, now rests on that THEORY alone. [CLAIM-237](../claims.d/CLAIM-237.md) and [CLAIM-326](../claims.d/CLAIM-326.md) cite
+both, each with a note saying when the finite case suffices. The other ten
+use the definition or the order for unrestricted renderings, and they
+stay here.
