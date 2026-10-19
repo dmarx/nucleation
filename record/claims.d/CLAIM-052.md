@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpevciu
 title: 'Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,8 +19,17 @@ history:
     sequential and context-dependent-marginal models describe them
     (LIT-264). The status stays Proposed: the claim is untested, and
     CASE-021, run, is what would move it.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Warrant restored to interpretive at the owner's direction (ADR-043
+    v2: `warrant` records how a claim is supported now). The record holds
+    no observation of framing-order effects on pragmatic judgements;
+    CASE-021 is a design not yet run. Version 2's relabelling read
+    `warrant` as the kind of evidence that would settle the claim, which
+    the owner rejected. Status unchanged.
 role: thesis
-warrant: empirical
+warrant: interpretive
 defeated_if: >-
   In controlled designs the order of framing prompts makes no
   difference, beyond noise, to the distribution of later pragmatic
