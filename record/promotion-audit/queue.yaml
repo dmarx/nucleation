@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 91
+version: 92
 updated: '2026-10-19'
 record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
 procedure: record/decisions.d/ADR-047.md
@@ -10,8 +10,8 @@ handoff:
   state: between batches
   in_review: null
   next_step: 'Batches 011-017 are integrated (queue v91). Wave 2 is exhausted: 51 reviewed, 43 promotion
-    paths. Promotion PRs open from this round: #190-#201 except #189 (this ledger); merge them one at
-    a time, waiting for each merge''s docs-generate commit. Next: wave 3 from triage-004 in code order,
+    paths. Every promotion PR from this round (#190-#201) merged on 2026-10-19, one at a time, each after
+    main''s regenerate commit; this ledger (#189) merges last. Next: wave 3 from triage-004 in code order,
     preferring entries with formal content (batches 016 and 017 went 2 of 5 each, both yields from formal
     results; triage-004''s ranking did not predict yield). Take THEORY-191 and -192 under ADR-047 v3 in
     the first wave-3 batch. Then a wave-4 pass for the requeue list, and sample wave 5 (CLAIM-212/-228
@@ -1777,4 +1777,7 @@ history:
   note: Owner rule on single-study empirical THEORYs recorded as ADR-047 v3; THEORY-191 and -192 requeued
     under it; CLAIM-123 and CLAIM-326 leave the requeue (decided in batch 014); THEORY-127 dependents
     requeued for wave 4; hand-off rewritten.
+- version: 92
+  date: '2026-10-19'
+  note: '#190-#201 merged; hand-off updated.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
