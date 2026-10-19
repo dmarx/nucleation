@@ -13,7 +13,7 @@ promote_when: >-
   later silent-alignment analysis that supplies one would serve. Further
   simulations of small hand-built datasets cannot settle it.
 title: 'A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data''s spectrum, not from nonlinearity'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-09'
@@ -24,6 +24,16 @@ history:
     promote_when records that the 2014 paper does not supply the missing
     proof. Its depth results are stated separately in THEORY-187. The
     claim is unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    for THEORY-186 (batch 024, ADR-047), the exact solution from a
+    decoupled, balanced start and the shallow contrast are filed apart as
+    THEORY-tmpyyddn, Active, re-derived (ADR-047 v2). This THEORY extends
+    it and keeps the claim that small random, unbalanced starts follow the
+    solution. Its promote_when already concerned only that and is
+    unchanged. The status stays Proposed.
 tags:
 - representation-learning
 - learning-theory
@@ -44,6 +54,8 @@ extended_by:
 - THEORY-481
 supports:
 - CLAIM-360
+extends:
+- THEORY-tmpyyddn
 ---
 <!-- inactive-ok-file: THEORY-211 — Proposed; readings on balance filed on 2026-10-13, open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-039 THEORY-187 — Proposed; accounts this one underlies or is set beside -->

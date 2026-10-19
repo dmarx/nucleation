@@ -18,7 +18,19 @@ promote_when: >-
   of the SEL matrix once training error is zero. More UFM simulations
   cannot settle it, nor can single-seed runs at one weight decay.
 title: 'Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix''s SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    for THEORY-286 (batch 024, ADR-047), the UF-SVM geometry under step
+    imbalance (LIT-994 Theorem 1 and Corollary 1.3) is filed apart as
+    THEORY-tmpbyp9v, Active, re-derived by a dual certificate (ADR-047 v2).
+    This THEORY extends it and keeps the gradient-descent conjecture, the
+    ridge results and the measurements of trained networks. Its
+    promote_when already concerned only those and is unchanged. The status
+    stays Proposed.
 tags:
 - representation-learning
 - learning-theory
@@ -38,6 +50,8 @@ summary: >-
   ResNet-18 and VGG-13 runs sit closer to SELI than to the ETF, and
   approach it more slowly at larger R. Not shown: that gradient descent
   reaches it, and anything with more than one seed.
+extends:
+- THEORY-tmpbyp9v
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-278 — Proposed; the record's statement of collapse, its account of limiting dynamics, and the MSE account filed beside this one -->
 

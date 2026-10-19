@@ -11,7 +11,19 @@ promote_when: >-
   eigenspace of the deviation-from-independence matrix in eigenvalue order.
   Further runs under the symmetric, tied setting cannot settle it.
 title: 'A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix''s relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    for THEORY-182 (batch 024, ADR-047), the proved part is filed apart as
+    THEORY-tmpppb1u, Active: the quartic proxy's rank-d minimisers and its
+    aligned-initialisation dynamics (LIT-855 Theorem 1 and Proposition 2),
+    re-derived (ADR-047 v2). This THEORY extends it and keeps the
+    random-initialisation derivation and the carry-over to word2vec. Its
+    promote_when already concerned only those and is unchanged. The status
+    stays Proposed.
 tags:
 - representation-learning
 - learning-theory
@@ -27,6 +39,8 @@ summary: >-
   are an approximate derivation.
 supports:
 - CLAIM-082
+extends:
+- THEORY-tmpppb1u
 ---
 <!-- inactive-ok-file: THEORY-001 — Proposed; the unconstrained-optimum account this one is set beside -->
 <!-- inactive-ok-file: THEORY-229 — Proposed; the self-supervised account this one shares a mechanism with, named in Connections -->
