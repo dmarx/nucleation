@@ -46,7 +46,7 @@ summary: >-
   dimers' emergent U(1). All the models' answers were known; the
   non-equilibrium example is one figure.
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-019 THEORY-002 THEORY-036 THEORY-185 THEORY-198 — Proposed; cited as accounts this reading is set beside -->
+<!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-019 THEORY-002 THEORY-036 THEORY-185 — Proposed; cited as accounts this reading is set beside -->
 
 # NOTE-692: Symmetries and phase diagrams with real-space mutual information neural estimation
 

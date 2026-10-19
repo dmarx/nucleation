@@ -33,7 +33,7 @@ summary: >-
 answers:
 - QUESTION-065
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-198 THEORY-161 QUESTION-025 CLAIM-092 — Proposed or open; cited as the accounts this one underpins or is set beside, and the question and claim it does not answer -->
+<!-- inactive-ok-file: THEORY-194 THEORY-161 QUESTION-025 CLAIM-092 — Proposed or open; cited as the accounts this one underpins or is set beside, and the question and claim it does not answer -->
 
 # THEORY-205: For a short-range lattice model on a cylinder, with block and environment as slabs separated by a buffer, the information-bottleneck encoder at its first transition depends on the block only through the boundary weak value of the leading transfer-matrix eigenvector, at β_c = (λ0/λ1)^(2L_B): at large circumference this is the lowest-dimension primary, so the first feature information-theoretic relevance selects is the most RG-relevant operator; nothing is shown for blocks inside a buffer shell or for the fixed-alphabet RSMI optimum
 

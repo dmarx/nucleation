@@ -37,7 +37,7 @@ summary: >-
   information is kept. Explains decimation in 1D and majority rule in 2D
   by the cost of encoding into one binary spin.
 ---
-<!-- inactive-ok-file: THEORY-198 THEORY-194 THEORY-073 THEORY-017 QUESTION-025 — Proposed or open; cited as what this reading produced, accounts it bears on, and the question it does not answer -->
+<!-- inactive-ok-file: THEORY-194 THEORY-073 THEORY-017 QUESTION-025 — Proposed or open; cited as what this reading produced, accounts it bears on, and the question it does not answer -->
 
 # NOTE-682: Optimal Renormalization Group Transformation from Information Theory
 
