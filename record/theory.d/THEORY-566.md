@@ -1,20 +1,21 @@
 ---
 number: 566
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpka1qg
-promote_when: >-
-  An ablation on tree-like data that removes, in turn, the Möbius bias
-  translations and the distance-based hyperbolic output layer from Ganea
-  et al.'s networks, with several seeds and a measure of the data's
-  tree-likeness. The account is supported if the advantage over Euclidean
-  networks goes with those two operations, and refuted if networks without
-  them keep it. The algebra (a stack of lifted layers without biases is a
-  Euclidean network conjugated by the chart at the origin) is settled and
-  cannot by itself promote the account, and more benchmark comparisons of
-  whole hyperbolic and Euclidean networks cannot either.
-title: "In Ganea et al.'s hyperbolic neural networks, linear maps and nonlinearities are Euclidean ones read through the chart at the origin, so a stack of them without biases is a Euclidean network conjugated by that chart, and the curvature acts only through the bias translations and the distance-based output layer"
-version: 1
+title: 'In Ganea et al.''s hyperbolic neural networks, linear maps and nonlinearities are Euclidean ones read through the chart at the origin, so a stack of them without biases is a Euclidean network conjugated by that chart, and the curvature acts only through the bias translations and the distance-based output layer'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision for THEORY-566 (batch 027, ADR-047). The
+    title is a structural fact about the construction, which the promote_when
+    itself called settled. It is re-derived in the note of 2026-10-19 below.
+    The promote_when asked for an ablation tying the networks' gains to the
+    two operations, which the title does not claim and the body disclaims. It
+    moves, unchanged, to QUESTION-tmpa5vf9.
 tags:
 - representation-learning
 - mathematics
@@ -102,3 +103,21 @@ dimensions (Table 2).
   paper's exponential map and optimiser, not its cones.
 - **[THEORY-421](THEORY-421.md)** (Yang et al., [LIT-871](../literature.d/LIT-871.md)) names this paper among those
   that assumed training would place general concepts near the origin.
+
+## Note of 2026-10-19: the composition argument
+
+Carried out for the promotion audit's batch 027. On the Poincaré ball of
+curvature −c, exp₀(v) = tanh(√c‖v‖) v/(√c‖v‖) maps ℝⁿ onto the open ball,
+and log₀(y) = artanh(√c‖y‖) y/(√c‖y‖) is its inverse. A lifted map is
+f^{⊗c} = exp₀ ∘ f ∘ log₀, so g^{⊗c} ∘ f^{⊗c} = exp₀ ∘ g ∘ f ∘ log₀, and by
+induction a stack of lifted layers is exp₀ ∘ (the Euclidean composition) ∘
+log₀. The Euclidean network inside does not depend on c. In the chart the
+bias is F_b(v) = log₀(exp₀(v) ⊕_c b), which by Theorem 4 is a c-dependent
+map, and reduces to v + b only as c → 0. The output layer's logits are
+distances to geodesic hyperplanes, in closed form with c (Theorem 5).
+
+"Conjugated" is meant in this sense. Any map on the ball can be written as
+exp₀ ∘ F ∘ log₀ for some F. The content is that, for the lifted layers, F
+is the standard c-free layer, while for the bias and the output layer it is
+a c-dependent map. Whether the networks' gains come from those two
+operations is [QUESTION-tmpa5vf9](../questions.d/QUESTION-tmpa5vf9.md).

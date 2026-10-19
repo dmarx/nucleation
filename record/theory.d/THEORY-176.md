@@ -1,26 +1,22 @@
 ---
 number: 176
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpn16i4
-promote_when: >-
-  The step that is argued and not shown, that Blackwell-equivalent
-  representations can carry different stitching penalties, is measured: two
-  representations, each an invertible function of the other (the paper's
-  own case is a spatial permutation of a layer's activations), stitched
-  into the same top network under the paper's protocol (1×1 convolutional
-  stitcher, trained on the task's training set, penalty on its test set),
-  with the difference in penalty larger than the spread across stitching
-  seeds and across two top networks. Or an independent published treatment
-  that relates the stitching penalty to the comparison of experiments, or
-  to a usable-information order, and reaches the same relation. It is
-  refuted by a step of the derivation shown wrong, or by the stitching
-  order shown, for the paper's map class, to be invariant under every
-  invertible transformation of the representation. More experiments in
-  which a better-trained representation lowers a weaker network's error
-  cannot settle it, since they are compatible with both readings.
-title: "A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell's order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced"
-version: 1
+title: 'A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell''s order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision for THEORY-176 (batch 027, ADR-047). The
+    title's three clauses follow from the paper's definitions and Blackwell's
+    order. Relations 1, 2 and 4 were derived when the THEORY was filed.
+    Relation 3 is an existence claim, and the note of 2026-10-19 below now
+    shows it with a constructed example, inside the paper's own map class. The
+    promote_when asked for the possibility measured in trained networks, which
+    the title does not claim. It moves, unchanged, to QUESTION-tmpujty6.
 tags:
 - representation-learning
 - mathematical-statistics
@@ -45,7 +41,7 @@ supports:
 - CLAIM-225
 - CLAIM-199
 ---
-<!-- inactive-ok-file: THEORY-156 THEORY-008 THEORY-112 — Proposed; the order this one is compared with, and accounts named in What this does not say, cited as readings, not as settled -->
+<!-- inactive-ok-file: THEORY-156 THEORY-112 — Proposed; the order this one is compared with, and an account named in What this does not say, cited as readings, not as settled -->
 
 # THEORY-176: A task-loss stitching penalty compares representations in one decision problem, through a fixed top network and a restricted map class, so it is not Blackwell's order: representations that are functions of each other can stitch differently, and a negative penalty shows the fitted map did not reproduce the layers it replaced
 
@@ -116,8 +112,10 @@ record's derivations, not the paper's, and each is elementary.
 **What could have come out otherwise.** Relations 1, 2 and 4 are
 consequences of definitions and cannot fail except by an error in a step.
 Relation 3 is a possibility the definitions allow, and the paper argues
-that it occurs; it has not been measured. The pixel-shuffle experiment the
-paper describes, and does not run, is the test that `promote_when` asks for.
+that it occurs. The note of 2026-10-19 below shows it with a constructed
+example; it has not been measured in trained networks. The pixel-shuffle
+experiment the paper describes, and does not run, is the test
+[QUESTION-tmpujty6](../questions.d/QUESTION-tmpujty6.md) asks for.
 
 ## What this does not say
 
@@ -139,5 +137,23 @@ paper describes, and does not run, is the test that `promote_when` asks for.
   comparison again; and invariance under the architecture's symmetry group
   ([THEORY-112](THEORY-112.md)) is a smaller class than Blackwell equivalence.
 - **Not a measured result.** The paper reports no experiment that
-  separates the two orders. The relations are derivations, and the one
-  that needs a measurement is named in `promote_when`.
+  separates the two orders. The relations are derivations, and the
+  measurement relation 3 would need is [QUESTION-tmpujty6](../questions.d/QUESTION-tmpujty6.md).
+
+## Note of 2026-10-19: an example for relation 3
+
+Carried out for the promotion audit's batch 027. Let the label Y ∈ {0, 1}
+be uniform, and the input X have one channel and two positions, with
+X₀ = 2Y − 1 and X₁ a fair ±1 coin independent of Y. Let A's first ℓ layers
+be the identity, so r = A_{≤ℓ}(X) = X, and let its head read position 0,
+A_{>ℓ}(z) = 1[z₀ > 0]. A has error 0. Let r′ swap the two positions. Then
+r and r′ are invertible functions of each other, so each is a garbling of
+the other and they are equivalent in Blackwell's order.
+
+The paper's stitcher, a 1×1 convolution between BatchNorms, is here the
+same affine map z_p ↦ αz_p + β at every position p. Through it the head
+sees αX₁ + β, which is independent of Y, so every stitched network has
+error 1/2. The penalty is 0 for r and 1/2 for r′. The two are
+Blackwell-equivalent and stitch differently, so the penalty order is not
+Blackwell's order. Whether the difference is large in trained networks is
+[QUESTION-tmpujty6](../questions.d/QUESTION-tmpujty6.md).

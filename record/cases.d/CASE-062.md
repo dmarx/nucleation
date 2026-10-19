@@ -28,7 +28,7 @@ illustrates:
 ---
 <!-- inactive-ok-file: CLAIM-199 — Proposed; the reconciliation this case is filed for, open, and cited as open -->
 <!-- inactive-ok-file: CLAIM-087 CLAIM-050 — Proposed; the improvement claim and the Blackwell thesis, cited as open -->
-<!-- inactive-ok-file: THEORY-156 THEORY-176 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
+<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
 
 # CASE-062: Simplified texts for restricted and for full readers: a gain and a loss documented on different texts, documented nulls and a reversal, and a design that tests both on the same renderings
 

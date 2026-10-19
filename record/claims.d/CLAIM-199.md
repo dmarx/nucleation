@@ -43,7 +43,7 @@ illustrated_by:
 - CASE-062
 ---
 <!-- inactive-ok-file: CLAIM-050 CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
-<!-- inactive-ok-file: THEORY-156 THEORY-176 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
+<!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-076 — Proposed; the manuscript's thesis and the blind-captioner design, cited as open -->
 
 # CLAIM-199: Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible

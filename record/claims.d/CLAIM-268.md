@@ -57,7 +57,7 @@ summary: The general content of [CLAIM-126](CLAIM-126.md), filed alone under [AD
 supports:
 - CLAIM-126
 ---
-<!-- inactive-ok-file: CLAIM-050 CLAIM-126 THEORY-176 — Proposed; cited for what each holds or applies, open, not settled -->
+<!-- inactive-ok-file: CLAIM-050 CLAIM-126 — Proposed; cited for what each holds or applies, open, not settled -->
 
 # CLAIM-268: Model stitching certifies an order of information only in its reconstruction form: a map fitted to reproduce the target layers shows the source representation is at least as informative for every decision on the label, task-loss stitching compares one decision problem through a fixed head, and a failure to stitch is no evidence against sufficiency
 
