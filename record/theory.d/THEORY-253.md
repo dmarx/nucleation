@@ -37,7 +37,7 @@ answers:
 supports:
 - CLAIM-367
 ---
-<!-- inactive-ok-file: THEORY-229 THEORY-186 THEORY-212 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
+<!-- inactive-ok-file: THEORY-186 THEORY-212 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
 
 # THEORY-253: In a model of independent skills with linear task vectors, sequential onset of acquisition comes from the optimizer: under gradient descent orthogonal skills are learned together at rates set by their frequencies, while under sign descent they compete for coordinate signs, so each starts as the previous finishes
 

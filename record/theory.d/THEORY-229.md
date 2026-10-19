@@ -1,22 +1,23 @@
 ---
 number: 229
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbaoyn
-promote_when: >-
-  A formal proof of Simon et al.'s Result 4.6 (generic small initialization
-  follows the aligned trajectory as the scale goes to zero), which the
-  paper derives only informally, or a proof of the same stepwise order for
-  a second spectral SSL loss on a linear or fixed-kernel model. Either
-  would settle the account in the regime it claims. It is refuted by a
-  linear or fixed-kernel case of this loss, from vanishing generic
-  initialization with distinct positive eigenvalues, that does not reach
-  the minimum-norm solution or learns a lower mode first. What cannot
-  settle it: more ResNet runs showing stepwise rank growth, since the
-  theory does not cover a moving tangent kernel and the paper's own
-  initial-NTK predictions for ResNets are poor.
-title: "For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small initialization learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time, in order of eigenvalue, and ends at the minimum-norm zero-loss solution, kernel PCA"
-version: 1
+title: "For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from a small initialization of common scale aligned with the top eigenvectors of the pairs' symmetrized cross-correlation learns them one at a time, in order of eigenvalue, and ends at a top spectral solution, which is exactly a minimum-norm zero-loss solution: kernel PCA on K_Γ"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-229 (batch 036, ADR-047 v2).
+    Propositions 4.1, 4.3 and 5.1 were re-derived, in the dated note
+    below; the minimum-norm step is re-proved by interlacing in place of
+    App. B.1's brief argument. The title now covers initialization aligned
+    with the top eigenvectors at a common small scale, where the dynamics
+    are exact and the order is the eigenvalue order. Generic small
+    initialization rests on Result 4.6, an informal derivation, and the
+    former promote_when's request for its proof moves to QUESTION-tmpqtbzj.
 tags:
 - representation-learning
 - learning-theory
@@ -39,7 +40,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-182 THEORY-186 QUESTION-039 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
-# THEORY-229: For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from small initialization learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time, in order of eigenvalue, and ends at the minimum-norm zero-loss solution, kernel PCA
+# THEORY-229: For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from a small initialization of common scale aligned with the top eigenvectors of the pairs' symmetrized cross-correlation learns them one at a time, in order of eigenvalue, and ends at a top spectral solution, which is exactly a minimum-norm zero-loss solution: kernel PCA on K_Γ
 
 ## Source
 
@@ -129,3 +130,36 @@ initialization, and it did not.
 - **[QUESTION-052](../questions.d/QUESTION-052.md).** For a symmetrized loss on directed or cross-modal
   pairs, the operator that takes the top eigenspace's place is the
   symmetric part of the cross-correlation. That answers only for this loss.
+
+## Note of 2026-10-19: Propositions 4.1, 4.3 and 5.1, re-derived
+
+Let f(x) = Wx with W ∈ R^{d×D}, and let Γ have eigenpairs (γ_j, v_j),
+γ_1 > … > γ_d > 0 and γ_d > γ_(d+1). The loss is
+L(W) = ‖WΓWᵀ − I_d‖²_F, and gradient flow is
+dW/dt = −4(WΓWᵀ − I)WΓ.
+
+1. Alignment is kept. If W = U diag(s) V_dᵀ with U orthogonal and
+   V_d = [v_1 … v_d], then WΓWᵀ = U diag(s_j²γ_j) Uᵀ and the gradient is
+   4U diag((s_j²γ_j − 1)s_jγ_j) V_dᵀ, of the same form. So U stays fixed
+   and ds_j/dt = 4γ_j s_j − 4γ_j² s_j³, each mode on its own.
+2. With u_j = s_j^(−2), du_j/dt = −8γ_j u_j + 8γ_j², so
+   s_j(t) = e^(4γ_j t)/√(s_j(0)^(−2) + (e^(8γ_j t) − 1)γ_j), which tends
+   to γ_j^(−1/2) (eq. 10).
+3. For s_j(0)²γ_j ≪ 1, mode j stays small until about
+   τ_j = −log(s_j(0)²γ_j)/(8γ_j) (eq. 16) and then rises. With a common
+   initial scale s_0, dτ/dγ = (log γ − 1 − log s_0^(−2))/(8γ²), which is
+   negative whenever s_0²γ < e, so larger eigenvalues arrive first.
+4. Minimum norm. Let AΓAᵀ = I_d, G = AAᵀ and Q = G^(−1/2)A, so QQᵀ = I_d
+   and QΓQᵀ = G^(−1). Its eigenvalues θ_1 ≥ … ≥ θ_d are positive and, by
+   Cauchy interlacing, θ_j ≤ γ_j. So ‖A‖²_F = tr G = Σ 1/θ_j ≥
+   Σ_(j≤d) 1/γ_j, with equality only if the row space of Q is
+   span(v_1 … v_d), which makes A = U diag(γ_j^(−1/2)) V_dᵀ. The top
+   spectral solutions are exactly the minimum-norm zero-loss ones.
+5. A fixed-kernel model is linear in its feature map, so 1–4 hold in
+   feature space. The non-zero eigenvalues there are those of
+   K_Γ = K̃^(−1/2) Z K̃^(−1/2) (Proposition 5.1), and the minimum-RKHS-norm
+   solution is given by K_Γ's top eigenvectors.
+
+From a generic small initialization, Simon et al. give only an informal
+derivation that the flow follows the aligned trajectory (Result 4.6).
+That is [QUESTION-tmpqtbzj](../questions.d/QUESTION-tmpqtbzj.md).

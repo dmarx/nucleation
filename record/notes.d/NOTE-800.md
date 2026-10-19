@@ -31,7 +31,7 @@ summary: >-
   bottleneck, shown empirically, with an informal partial proof. Why
   deeper models prefer geometry is left open.
 ---
-<!-- inactive-ok-file: THEORY-229 THEORY-274 — Proposed; the account this reading bears on, and the one filed from it, open -->
+<!-- inactive-ok-file: THEORY-274 — Proposed; the account this reading bears on, and the one filed from it, open -->
 
 # NOTE-800: Noroozizadeh et al. — Deep sequence models tend to memorize geometrically
 
