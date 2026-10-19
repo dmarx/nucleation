@@ -1,35 +1,16 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 57
+version: 58
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batch-007
-  state: reviewed
-  in_review: null
-  next_step: 'Batch 007 is reviewed. It was a control sample for triage-002, and it yielded 4 of 5 against
-    the keyword group''s 15 of 16, so the keyword ranking is weakly informative. Wave 2 stands at 19 of
-    21. OWNER''S CALL, blocking four dispositions: may a short record-own proof meet a promote_when that
-    asks for a reading of a proof or a second source? THEORY-247 (batch 006), THEORY-233, THEORY-297 and
-    THEORY-323''s growth half (batch 007) assume yes; THEORY-277 (batch 006, retain-proposed) assumes
-    no. The question is in batches/batch-007.yaml (owner_question) and decisions/THEORY-277.yaml. Open
-    PRs from this audit: #165 (first audit, second pass, follow-up), #166 (this ledger), #167 (promote
-    CLAIM-267, -270), #168 (warrants of CLAIM-077, -098), #169 (split CLAIM-285), #170 (promote CLAIM-313;
-    CLAIM-310''s one-copy condition), #171 (correct CLAIM-308, -251), #172 (correct CLAIM-188, -193),
-    #173 (promote CLAIM-268; narrow-and-promote CLAIM-107), #174 (split CLAIM-063, -037), #175 (CLAIM-056
-    warrant), #176 (promote THEORY-184; split THEORY-165 into CLAIM-tmp496tl), #177 (split THEORY-017
-    into THEORY-tmpa07hh), #178 (split THEORY-174 and THEORY-168 into THEORY-tmp4o2p3 and THEORY-tmpm565o).
-    #179 (split THEORY-325 into THEORY-tmp8dvpa; THEORY-236 promoted with the column-space CLAIM, a departure
-    from its split decision). Pending, being opened by a parallel fork, number not yet recorded: P5 (narrow-and-promote
-    THEORY-247 and THEORY-206). Gated on #165 merging: the CLAIM-269 split and the CLAIM-322 promotion
-    (batch 004; CLAIM-322 is interpretive, the owner''s call). Next, in order: (1) record P5''s PR number
-    when given; (2) once the owner rules, open batch 007''s PRs (batches/batch-007.yaml follow_up_prs;
-    THEORY-009''s narrowing does not depend on the ruling and can go first); (3) re-triage wave 2 by bundling
-    and title-is-mathematics, not keywords (NOTES, batch 007), before the next five triage-002 pending
-    (THEORY-171, THEORY-160, THEORY-158, THEORY-157, THEORY-037); (4) a wave-4 pass on the THEORY-165
-    citers once #176 merges (CLAIM-105, -201, -219, -235, -319, -320, CASE-037).'
+  batch: batch-008
+  state: in_review
+  in_review: THEORY-277
+  next_step: 'Batch 008 (wave 2) in progress: THEORY-277 (requeued under ADR-047 v2; re-derivation attempt),
+    then THEORY-171, THEORY-160, THEORY-158, THEORY-157.'
   cautions:
   - 'PR #165''s tmp codes (CLAIM-tmpzk12h and others) are concretized at merge. Update decisions/ when
     they are.'
@@ -933,4 +914,8 @@ history:
 - version: 57
   date: '2026-10-19'
   note: 'carried_out_in #181 (THEORY-009, -233) and #182 (THEORY-297, -323). Batch 007''s PRs are complete.'
+- version: 58
+  date: '2026-10-19'
+  note: 'Open batch 008: THEORY-277 in review (requeued under ADR-047 v2), then THEORY-171, -160, -158,
+    -157.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
