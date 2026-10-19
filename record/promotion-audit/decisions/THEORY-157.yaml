@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-157.yaml
+id: THEORY-157
+batch: batch-008
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: medium
+scope:
+  accepted: >-
+    Basu's theorem in every Markov category (Fritz's Theorem 15.8),
+    re-derived for this review under ADR-047 v2, because NOTE-588 could not
+    check the diagrammatic proof ("steps not checked here, diagrams lost").
+    The definitions are those the THEORY reports. Write copy for the
+    comonoid on an object and ! for discard.
+    - Sufficiency of s for p : Θ → X means there is α : V → X with
+      (s ⊗ id)∘copy∘p = (id ⊗ α)∘copy∘sp.
+    - f =_q g almost surely means (id ⊗ f)∘copy∘q = (id ⊗ g)∘copy∘q.
+    - Completeness of sp means f∘sp = g∘sp implies f =_sp g.
+    - Ancillarity of t means tp = c∘!_Θ for a state c : I → T.
+    Let s be complete sufficient and t ancillary, and put f = t∘α : V → T.
+    (1) Composing the sufficiency equation with (id ⊗ t), and using that s
+    is deterministic, gives (s ⊗ t)∘copy∘p = (id ⊗ f)∘copy∘sp.
+    (2) Discarding the first leg of (1) gives tp = f∘sp, by the counit law
+    and naturality of discard.
+    (3) By ancillarity, f∘sp = tp = c∘!_Θ = (c∘!_V)∘sp, since sp is a
+    Markov morphism and preserves discard. By completeness, f =_sp c∘!_V.
+    (4) Substituting in (1), (s ⊗ t)∘copy∘p = (id ⊗ c∘!_V)∘copy∘sp
+    = sp ⊗ c = (sp ⊗ tp)∘copy_Θ. So s and t are independent given θ.
+    No positivity, conditionals or causality is used.
+  excluded: >-
+    Fisher–Neyman (Theorem 14.5) and Bahadur (Theorem 16.3) under strict
+    positivity. They are not re-derived here, and NOTE-588 took their
+    defining equations from prose because the diagrams were lost. They stay
+    Proposed with the THEORY's promote_when, which also asks for the
+    measure-theoretic Fisher–Neyman recovery.
+evidence:
+  - "NOTE-588 C4: Basu holds in every Markov category, 'strong (diagrammatic proof; steps not checked here, diagrams lost)'. Re-derived above in algebraic form."
+  - "NOTE-588 C7 and Example 15.4: abstract completeness in Stoch is bounded completeness, so the abstract theorem recovers the standard Basu theorem."
+blockers: []
+notes: >-
+  Confidence is medium, not high. The re-derivation uses the definitions as
+  NOTE-588 reconstructed them from prose: the sufficiency equation 14.1,
+  and completeness as quantifying over every pair of morphisms out of V.
+  If Fritz's completeness restricts the codomain (NOTE-588 line 266 notes a
+  codomain subtlety in the Basu proof), step (3) needs T to be admissible.
+  The promotion PR should state the definitions it relies on.
+unlocks: []
+next_action: >-
+  Split PR. File Basu-in-every-Markov-category as a new Active THEORY,
+  sourced to LIT-772, with the re-derivation and the definitions stated.
+  THEORY-157 keeps Fisher–Neyman and Bahadur, extends the new THEORY, and
+  stays Proposed under its promote_when.
