@@ -1,0 +1,29 @@
+# record/promotion-audit/batches/batch-002.yaml
+batch: batch-002
+date: '2026-10-19'
+kind: evidence-audit
+wave: 1
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  The next five pending candidates in queue order (queue.yaml version 3 at
+  opening), skipping the requeue list (CLAIM-123, CLAIM-326).
+reviewed: [CLAIM-308, CLAIM-063, CLAIM-313, CLAIM-037, CLAIM-251]
+outcomes:
+  promote: [CLAIM-313]
+  split: [CLAIM-063, CLAIM-037]
+  needs-correction: [CLAIM-308, CLAIM-251]
+yield: 3 of 5 found a promotion path
+finding: >-
+  Three of the five are counters (CLAIM-308, CLAIM-313, CLAIM-251), and
+  counters behave differently from theses. Promoting one means the record is
+  persuaded, so the entry it opposes needs revisiting. CLAIM-313's promotion
+  carries a correction to the Active CLAIM-310. Both needs-correction cases
+  are scope errors of the CLAIM-264 and CLAIM-123 kind: a qualifier dropped
+  from an Active source (CLAIM-308 loses THEORY-348's "deterministic"), and
+  an exclusive "only" that a standard example refutes (CLAIM-251: the CHSH
+  scenario carries both contextual and noncontextual models). The
+  warrant/defeater mismatch held again for both splits.
+follow_up_prs:
+  - "Promote CLAIM-313 together with CLAIM-310's one-copy correction (two entries)."
+  - "Split CLAIM-063 (the approximate commutator identity) and CLAIM-037 (the criteria coincide on consistently connected systems)."
+  - "Correct CLAIM-308 (deterministic) and CLAIM-251 (two kinds of change, CHSH witness)."

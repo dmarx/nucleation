@@ -1,0 +1,58 @@
+# record/promotion-audit/decisions/THEORY-084.yaml
+id: THEORY-084
+batch: batch-010
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    Step 1, as a demonstrated Active CLAIM in the formal-apparatus line. It
+    is the record's own linear algebra, as the summary and NOTE-475 both
+    say. For any differentiable model and any n inputs, under squared loss
+    with Gaussian noise of precision β, the Fisher (equal to the
+    Gauss–Newton matrix) is βJᵀJ, up to the 1/n convention. Its non-zero
+    eigenvalues are exactly β times those of the empirical NTK Gram matrix
+    JJᵀ, with the same multiplicities, and its eigenvectors are Jᵀ applied
+    to the Gram matrix's, normalized. This holds at every width, in every
+    regime and on any data.
+  excluded: >-
+    What THEORY-084 keeps, Proposed, with its promote_when unchanged. In the
+    lazy regime on uniform spherical data, the Fisher inherits the NTK's
+    harmonic-degree blocks, and a spectral threshold is well posed only at
+    gaps between blocks. That needs (i) the empirical Gram spectrum of n
+    samples to approximate the integral operator's µ_k with multiplicity
+    N(d,k), a sampling-concentration statement that is only approximate at
+    finite n and that no held source states for this kernel; (ii) a
+    Davis–Kahan-type subspace bound, which the filer appealed to without a
+    held source; and (iii) the numerical check the promote_when names.
+    None is re-derivable within this pass.
+evidence:
+  - "The THEORY's summary: 'The identity is linear algebra'. NOTE-475 records it as 'a fact of linear algebra and not a claim of LIT-608'."
+  - >-
+    Re-derivation. Let J = UΣVᵀ be a singular value decomposition, with J of
+    size n × p and rank r. Then JᵀJ = VΣᵀΣVᵀ and JJᵀ = UΣΣᵀUᵀ, whose
+    non-zero eigenvalues are both σ₁², …, σ_r², with equal multiplicities.
+    For a unit eigenvector u of JJᵀ with eigenvalue σ² > 0, Jᵀu/σ is a unit
+    eigenvector of JᵀJ with the same eigenvalue, since
+    JᵀJ(Jᵀu) = Jᵀ(JJᵀu) = σ²Jᵀu and ‖Jᵀu‖² = uᵀJJᵀu = σ². For
+    y | x ~ N(f(x;θ), β⁻¹), the score is β(y − f)∇f, and
+    E_y[score scoreᵀ] = β∇f∇fᵀ. Summed over the n inputs this gives βJᵀJ,
+    which is the Gauss–Newton matrix of the squared loss with weight β.
+    With k outputs, J stacks nk rows and the argument is unchanged.
+blockers: []
+notes: >-
+  The value is the exact bridge. CLAIM-164, which THEORY-084 supports, and
+  any later Fisher-threshold argument can cite a demonstrated identity
+  instead of a Proposed synthesis for the step that needs no evidence. The
+  CLAIM should say that "the Fisher" here means the model's Fisher under
+  the Gaussian likelihood, not the empirical Fisher of observed residuals,
+  which differs away from the optimum.
+unlocks:
+  - "CLAIM-164: check in a dependency pass which of its steps need only the identity."
+next_action: >-
+  Split PR. File the identity as a demonstrated Active CLAIM (formal-apparatus)
+  with the proof above. THEORY-084 rests on it (or cites it under Step 1)
+  and keeps the block-inheritance and threshold claims and its promote_when,
+  Proposed.

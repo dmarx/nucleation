@@ -1,0 +1,31 @@
+# record/promotion-audit/decisions/CLAIM-098.yaml
+id: CLAIM-098
+batch: batch-001
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    That Markov kernels form a category, with invertible maps a sub-groupoid,
+    and that approximate transports compose in total variation. This is
+    already held by CLAIM-260 (Active, demonstrated), which objects to this
+    claim and scopes it. CLAIM-035 (Active) holds the irreversibility.
+  excluded: >-
+    The thesis that translation and cross-modal reconstruction are better
+    modelled as directed lossy transport than as symmetry. Its defeat
+    condition is about predictive power, which is a matter of modelling
+    adequacy.
+evidence:
+  - "Defeat condition: 'directed, lossy transport adds no predictive power over symmetry alone', which no derivation can meet."
+  - "The demonstrated content lives in CLAIM-260 and CLAIM-035, both Active."
+blockers:
+  - >-
+    The warrant is misclassified. It should be interpretive. After that it is
+    retained Proposed. The defeat condition is a comparative null with no
+    margin (CLAIM-238's first shape), so it needs a stated margin and a
+    comparison design before any result can bear on it.
+unlocks: []
+next_action: Correction PR. Set the warrant to interpretive and note that the demonstrated part is CLAIM-260's. The status is unchanged.

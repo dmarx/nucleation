@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/CLAIM-037.yaml
+id: CLAIM-037
+batch: batch-002
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: split
+confidence: medium
+scope:
+  accepted: >-
+    Two formal results.
+    (1) On consistently connected systems the sheaf criterion and
+    Contextuality-by-Default coincide. Each connection's elements share one
+    distribution, so the maximal coupling gives them coincidence probability
+    1 (NOTE-600, Thm 3.3, Thorisson). A maximally connected coupling (Def.
+    3.4) is then a joint law of one variable per observable whose marginals
+    are the contexts' laws, which is a global section in the
+    Abramsky–Brandenburger sense (LIT-016), and conversely. Checked for this
+    review. NOTE-600 marks it as the reader's inference, not the paper's, so
+    it is the record's own derivation.
+    (2) Order effects without contextuality: a classical Markov system in
+    which asking A changes the state that B reads gives AB ≠ BA with a
+    global law over the sequential outcomes. This is the manuscript's §9
+    point, and a two-state construction suffices.
+  excluded: >-
+    "Needs Contextuality-by-Default when marginals shift with context." That
+    is a methodological thesis. Part of its support is empirical: every
+    corpus model in LIT-842 signals, and LIT-844's criteria diverge, 71.1%
+    against 0.148%. And LIT-843 offers a rival sheaf-side route that folds
+    signalling from a declared causal past into the classical model. The
+    first disjunct of the defeat condition, "a pragmatic data set ... handled
+    by the sheaf-theoretic test without loss", is empirical. CLAIM-069
+    (Active) also says which CbD version it should name: multimaximal
+    couplings, for observables in more than two contexts.
+evidence:
+  - "NOTE-600 Thm 3.3, Def. 3.4 and Thm 4.1, and its own line 226 ('by my inference rather than the paper's')."
+  - "Grounds include THEORY-014, which is Proposed. The split core needs only THEORY-012 and NOTE-600's definitions, not THEORY-014's signed-coupling reading."
+blockers:
+  - >-
+    For the remainder: an empirical disjunct with observations from two
+    readings (LIT-842, LIT-844), and an interpretive "needs" that LIT-843's
+    route contests. It is retained Proposed until the record compares the
+    CbD and causal-past routes on a signalling data set, or concedes "needs"
+    to "can handle".
+unlocks: []
+next_action: >-
+  Split PR. File (1), and optionally (2), as a demonstrated claim on the
+  formal-apparatus line, Active, citing NOTE-600. CLAIM-037 keeps the
+  methodological thesis and its empirical support, names the multimaximal
+  version per CLAIM-069, and takes the warrant of what remains. That is
+  empirical if stated as "language data signal", interpretive if
+  "needs".

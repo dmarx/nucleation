@@ -1,0 +1,52 @@
+# record/promotion-audit/decisions/CLAIM-308.yaml
+id: CLAIM-308
+batch: batch-002
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+role: counter
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    The record's extension of THEORY-348 (Active) to a filed state with
+    per-use cost b = c_a + u. Write d = c_r − b and filing price F. Hindsight
+    pays OPT = nb + min(nd, F). Filing before the use at which cumulative
+    overpayment would exceed F (after k = ⌊F/d⌋ reconstructions) pays nr when
+    n ≤ k, which equals OPT, and nb + kd + F ≤ nb + 2F otherwise, when
+    OPT = nb + F. So the ratio is at most 2 on every sequence. Checked for this
+    review.
+  excluded: >-
+    "No rule without foresight does better" / "No rule without foresight
+    guarantees better than 2". THEORY-348 says no deterministic rule does,
+    and says nothing for randomized rules. Randomized rent-or-buy rules are
+    known to guarantee e/(e−1) ≈ 1.58 in expectation (Karlin, Manasse,
+    McGeoch & Owicki), which the record does not hold. In the discrete case
+    the deterministic lower bound is also 2 only asymptotically: with F ≤ d,
+    filing at once is optimal. The normative step, that recurrences are "the
+    criterion" where reuse cannot be forecast, is an argument about the
+    record's practice (ADR-032) and is not part of the theorem.
+evidence:
+  - "THEORY-348 (Active), title and 'What this does not say': 'no deterministic online rule does better'; 'Anything for randomized rules. All lower bounds are deterministic.'"
+  - "The upper bound, re-derived above with the per-use filed cost."
+blockers:
+  - >-
+    A material overstatement. The title and body drop THEORY-348's
+    "deterministic" qualifier. Correct both to "no deterministic rule", and
+    note that a randomized rule can guarantee less in expectation (source
+    not held) and that the bound of 2 is approached only when F is large
+    relative to d.
+  - >-
+    After correction it stays Proposed. It is a counter, so going Active
+    would mean the record is persuaded against CLAIM-303's clause. CLAIM-314
+    objects that reuse has a recognition cost that is not a fixed per-use
+    price, which goes to whether the fixed-cost model applies to the record
+    at all, and it is open. Promotion needs CLAIM-314 answered or conceded
+    as a scope restriction.
+unlocks: []
+next_action: >-
+  Correction PR. Add "deterministic" to the title and the lower-bound
+  sentence, and add a "What it does not say" bullet on randomized rules and
+  small F/d. The status is unchanged. Re-review after CLAIM-314 is
+  settled.

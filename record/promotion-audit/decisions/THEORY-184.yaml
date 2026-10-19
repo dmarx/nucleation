@@ -1,0 +1,49 @@
+# record/promotion-audit/decisions/THEORY-184.yaml
+id: THEORY-184
+batch: batch-005
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The title as written. Under a permutation-equivariant update with a
+    K-Lipschitz map: coincident neurons stay coincident at every step size
+    (LIT-861 Lemma 1), and for ηK < 1 each step scales every pairwise neuron
+    distance by a factor in [1 − ηK, 1 + ηK], so distinct neurons cannot
+    merge in finitely many steps (Lemma 2, Theorem 1(iii)). The body's local
+    form is included: i and j can coincide after a step only if
+    η‖U(X) − U(PX)‖/‖X − PX‖ ≥ 1.
+  excluded: >-
+    Nothing beyond what "What this does not say" already excludes:
+    simplification above 1/K, asymptotic merging (THEORY-213), the shape of
+    the neuron cloud, and 1/λ_max as the merging scale.
+evidence:
+  - >-
+    Checked for this review, independently of NOTE-663, as the promote_when
+    asks. Lemma 1: the swap P of i and j fixes X when x_i = x_j, so
+    U(X) = U(PX) = PU(X), giving U_i = U_j. Lemma 2: equivariance gives
+    U(PX) = PU(X), so U(X) − U(PX) is zero except for U_i − U_j at i and
+    U_j − U_i at j. Its norm is √2‖U_i − U_j‖, and ‖X − PX‖ = √2‖x_i − x_j‖.
+    So ‖U_i − U_j‖ ≤ K‖x_i − x_j‖. Then x_i′ − x_j′ = (x_i − x_j) + η(U_i − U_j)
+    has norm in [(1 − ηK), (1 + ηK)]·‖x_i − x_j‖. For ηK < 1 the lower factor
+    is positive, so it survives any finite number of steps.
+  - >-
+    The local form: x_i′ = x_j′ requires ‖x_i − x_j‖ = η‖U_i − U_j‖, which is
+    η‖U(X) − U(PX)‖/‖X − PX‖ = 1. So a ratio of at least 1 is necessary,
+    which is the promote_when's second clause.
+  - "The refutation clause (an equivariant update with ηK < 1 merging two neurons in one step) is impossible by the computation above."
+  - "The equivariance of GD and Adam under a permutation-symmetric loss is the paper's (NOTE-663) and standard; the THEORY's title assumes equivariance rather than deriving it."
+blockers: []
+notes: >-
+  The result is elementary, so the independent check that the promote_when
+  asks for is exactly this computation. The record could equally hold it as
+  its own derivation. Promoting the THEORY sourced to LIT-861 keeps the
+  attribution.
+unlocks:
+  - "QUESTION-058 names THEORY-184 in answers. Check whether the question is now Answered for the finite-step half."
+next_action: >-
+  Promotion PR. Set Active, with a history note recording that the
+  promote_when's independent check is this review's computation, and remove
+  the promote_when. Trim stale inactive-ok directives naming THEORY-184.

@@ -1,0 +1,50 @@
+# record/promotion-audit/decisions/THEORY-171.yaml
+id: THEORY-171
+batch: batch-008
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The title, which is an existence statement: when causal constraints
+    depend on context, deterministic assignments that are causal in each
+    context can fail to glue. One checked example settles an existence
+    statement, and LIT-808's Θ₃ example is one. NOTE-612 followed it step
+    by step. Re-derived for this review: Θ₃ is the meet of the spaces of
+    total(A, B) ∨ discrete(C) and discrete(A) ∨ total(C, B), so event B has
+    causal past {A, B} in one and {B, C} in the other. {B:b} alone is a
+    history in neither, so λ = {A:a, B:b}↓ and λ′ = {B:b, C:c}↓ share no
+    history, and any two sections on them are compatible. Set B's output to
+    1 on λ, where its past is {A:a, B:b}, and to 0 on λ′, where its past is
+    {B:b, C:c}. Each is causal on its open. On the extension
+    {A:a, B:b, C:c}, B is the tip of both sub-histories, so a causal
+    function there must give B both outputs. No gluing exists, and the
+    presheaf of causal functions is not a sheaf. LIT-843's Example 7.2 is an
+    independent second instance of the same kind.
+  excluded: >-
+    Theorem 2.34's "exactly when": the presheaf is a sheaf iff the space has
+    no solipsistic contextuality witness. Its proof was not read (NOTE-612
+    C2: "proof, not checked"), and the paper is an unrefereed preprint. The
+    summary currently states it as part of the account. Also excluded: the
+    count of 1767 of 2644 causally complete spaces, which is not checked.
+evidence:
+  - "NOTE-612 history: 'Θ₃ was followed step by step'. Re-derived above."
+  - "LIT-843 Example 7.2 (Abramsky, Barbosa and Searle 2024), added in version 2, is a second, independent non-gluing instance."
+blockers: []
+notes: >-
+  The promote_when asks for a refereed version or a checked proof of
+  Theorem 2.34, the characterisation. That asks for more than the title
+  claims. It states outright that a further example "does not count",
+  because an example shows only that some spaces fail. That is right for
+  the characterisation. But it is not what the title asserts. So this is a
+  narrowing, as with THEORY-155: the title stands, and the iff moves out of
+  the account.
+unlocks:
+  - "CLAIM-038, which THEORY-171 supports. Check it in a dependency pass once this is Active."
+next_action: >-
+  Promotion PR. Restate the summary so that Theorem 2.34's iff is reported
+  as the source's unchecked theorem, not as part of the account. Move the
+  iff and its promote_when, unchanged, to a new QUESTION. Add a dated note
+  with the re-derivation above, remove the promote_when, and set Active.

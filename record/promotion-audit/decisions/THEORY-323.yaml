@@ -1,0 +1,54 @@
+# record/promotion-audit/decisions/THEORY-323.yaml
+id: THEORY-323
+batch: batch-007
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+triage: triage-002-control
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The finite-time growth half, for du/dt = Au with A fixed, in an
+    inner-product norm. Each statement was checked for this review by its
+    textbook proof.
+    (1) Normal A is unitarily diagonalizable, so ‖e^(At)‖ = e^(α(A)t), with α
+    the spectral abscissa.
+    (2) The growth over t is the operator norm ‖e^(At)‖ = σ_max(e^(At)), and
+    the optimal perturbation is its top right singular vector, by the SVD.
+    (3) σ_max(e^(At)) ≥ ρ(e^(At)) = max_i |e^(λ_i t)|, so the eigenvalues give
+    a floor (eq. 6).
+    (4) d/dt ‖e^(At)x‖² at t = 0 is ⟨(A + A†)x, x⟩, so the initial growth rate
+    of ‖e^(At)‖ is the numerical abscissa λ_max((A + A†)/2), which is positive
+    for some A with every eigenvalue in the left half-plane. Witness:
+    A = [[−1, M], [0, −2]] with M > 2√2, for which λ_max((A + A†)/2) =
+    (−3 + √(1 + M²))/2 > 0.
+    (5) Harmonic forcing: if A = EΛE⁻¹, ‖(iωI − A)⁻¹‖ ≤ κ(E)/dist(iω, Λ(A))
+    (eq. 19), and the ε-pseudospectrum, the set of z with
+    ‖(zI − A)⁻¹‖ > 1/ε, is exactly where eigenvalues of A + Δ with ‖Δ‖ < ε can
+    go (eq. 13).
+    Both sources were read in full (NOTE-831, NOTE-839).
+  excluded: >-
+    The forced-variance clause of the title: under white noise, the variance
+    trace(P), with AP + PA† + I = 0, is at least the sum of the pole
+    contributions Σ 1/(−2 Re λ_i), "with equality only when A is normal".
+    LIT-931 eq. 22 cites it to Ioannou (1995) and does not prove it, and the
+    record has not read Ioannou. The promote_when's third clause is exactly
+    this, so it stays, narrowed to it.
+evidence:
+  - "THEORY-323's own 'What could have come out otherwise: the examples. The general statements are theorems of linear algebra, quoted with their standard proofs or cited.' The split sorts the quoted-with-proof statements from the cited one."
+  - "LIT-931 eq. 22 'cited to Ioannou 1995', as the THEORY body says."
+  - "The checks (1)–(5) above. For the witness in (4): the symmetric part of A is [[−1, M/2], [M/2, −2]], whose top eigenvalue is (−3 + √(1 + M²))/2, positive iff M² > 8."
+blockers:
+  - >-
+    For the remainder: a held proof of the white-noise variance inequality
+    and its equality case, from Ioannou (1995), a standard reference, or a
+    record-own proof via the Schur form A = U(Λ + N)U†, with N strictly upper
+    triangular.
+unlocks:
+  - "CLAIM-186 bears on it. THEORY-304 and THEORY-325 are companion accounts. THEORY-325's split (batch 006, PR pending from P4) rests on the same finite-time statements."
+next_action: >-
+  Split PR. File the finite-time growth and resolvent statements (1)–(5) as
+  a new Active THEORY sourced to LIT-931 and LIT-932, with the checks as a
+  dated note. THEORY-323 keeps the forced-variance clause, extends the new
+  THEORY, and narrows its promote_when to that clause.

@@ -1,0 +1,44 @@
+# record/promotion-audit/decisions/THEORY-106.yaml
+id: THEORY-106
+batch: batch-007
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+triage: triage-002-control
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing promotable now. The account has two halves, each a theorem the
+    record holds only at the level of statements followed in outline.
+  excluded: >-
+    (1) The random-features half (LIT-679, NOTE-519): the divergence at
+    2N = n rests on Lemma 5, det(Ω⁻¹) ∝ λ, which the promote_when itself
+    says "the record has followed ... only in outline". (2) The linear half
+    (LIT-683, NOTE-518): Theorem 1's exact MSE, the value σ² tr(Σ⁻¹) at
+    n = d, and Theorem 2's implicit ridge. NOTE-518's history says
+    Appendices C–E were "followed in outline, not checked line by line",
+    and Lemmas 8–9 are cited from other papers. The claims table rates C1–C3
+    "strong (theorem)", which is the paper's standing, not a check by the
+    record.
+evidence:
+  - "promote_when: 'the record has followed that proof only in outline' (Lemma 5)."
+  - "NOTE-518 history, version 1: 'Appendices ... C (Theorem 1 through Lemmas 10–11), D (Lemma 2 and Theorem 2) and E (Theorem 3) followed in outline, not checked line by line.'"
+  - "The account's own arithmetic (the peak about d times its value at n = 2d) follows from Theorem 1's formula as stated, and is correct given it: σ² tr(Σ⁻¹) / (σ² tr(Σ⁻¹)(1 − e^(−d))/d) = d/(1 − e^(−d))."
+blockers:
+  - >-
+    For the random-features half: the promote_when as written. That is a
+    line-by-line reading of Liao et al.'s Lemma 5, or a held second
+    derivation (Mei and Montanari, or Hastie et al.).
+  - >-
+    For the linear half, which the promote_when does not mention: a
+    line-by-line reading of LIT-683 Appendix C (Theorem 1 through Lemmas
+    10–11), with Lemmas 8–9 checked at their sources or re-derived. That
+    alone would let the exact finite-sample statement split off as an
+    Active THEORY, independent of the random-features half. The promote_when
+    should name it, so that the two halves can move separately.
+unlocks: []
+next_action: >-
+  None now. Optionally, a small correction PR adds the linear-half clause
+  to the promote_when, so that the bundling is visible. Re-review after
+  either reading.

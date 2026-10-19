@@ -1,0 +1,34 @@
+# record/promotion-audit/batches/batch-004.yaml
+batch: batch-004
+date: '2026-10-19'
+kind: evidence-audit
+wave: 4
+record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+selection: >-
+  A dependency pass. The candidates are Proposed entries whose rests_on or
+  grounds include something promoted on main or in an open PR (#165:
+  CLAIM-264, THEORY-155, THEORY-008 and the new splits; #167: CLAIM-267,
+  CLAIM-270; #170: CLAIM-313), found mechanically and then scored by hand.
+  Twelve matched. The five with the best expected yield were taken. Of the
+  hand-off's suggestions, CLAIM-310 and ARG-006 are already Active, so they
+  were not candidates.
+reviewed: [CLAIM-269, CLAIM-322, CLAIM-090, CLAIM-056, CLAIM-191]
+outcomes:
+  split: [CLAIM-269]
+  promote: [CLAIM-322]
+  needs-correction: [CLAIM-056]
+  retain-proposed: [CLAIM-090, CLAIM-191]
+yield: 2 of 5 found a promotion path, and both wait on PR #165 merging
+finding: >-
+  Dependency unlocks are real but shallow. Promoting a formal premise
+  rarely unlocks a dependent outright, because the dependents usually
+  also rest on an interpretive premise that is Proposed (CLAIM-106 under
+  CLAIM-056 and CLAIM-081; CLAIM-046 under CLAIM-142; three under
+  CLAIM-191). The two promotion paths are entries whose only Proposed
+  premise was the promoted one (CLAIM-322 on CLAIM-264), or whose
+  dependence could be re-grounded on an Active entry (CLAIM-269 on
+  THEORY-004). The cheap test for wave 4: count the dependent's other
+  Proposed premises. If there is more than zero, expect retain.
+follow_up_prs:
+  - "After #165 merges: split CLAIM-269 (readout orbit result, Active) and promote CLAIM-322."
+  - "Correct CLAIM-056's warrant to interpretive. This can ride with any warrant-correction PR."

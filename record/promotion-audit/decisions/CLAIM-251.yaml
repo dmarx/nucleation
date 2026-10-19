@@ -1,0 +1,49 @@
+# record/promotion-audit/decisions/CLAIM-251.yaml
+id: CLAIM-251
+batch: batch-002
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+role: counter
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    What the definitions settle. In Abramsky–Brandenburger terms a cover is
+    part of the measurement scenario: the observables and the family of
+    jointly measurable contexts. A response distribution on a fixed cover is
+    an empirical model on it. So a change in which questions a population
+    answers determinately, a property of the responses, is a change of
+    empirical model and is not by itself a change of cover. The objection to
+    CLAIM-201's operational "cover" stands on this.
+  excluded: >-
+    "Only the third [changing the compatibility structure] directly engages
+    gluing obstructions." As a formal statement this is false in two ways.
+    On a fixed CHSH cover, changing only the response distribution takes the
+    empirical model from noncontextual (any product law) to contextual (the
+    PR box), so distributions engage gluing. And changing the measurement
+    domain changes the cover, since a cover is a family of subsets of it.
+    The recommendation to name the operational notion separately is
+    terminological and interpretive.
+evidence:
+  - "Contextuality is a property of an empirical model on a fixed cover: the CHSH scenario carries both noncontextual and contextual models (LIT-016's framework, the record's THEORY-012)."
+  - "The claim's own 'What would answer it' asks for a construction of the operational cover with restriction maps, which does not yet exist."
+blockers:
+  - >-
+    A material misstatement. Restate the three operations as two kinds of
+    change: of the scenario (domain and cover), which can change what
+    gluing means, and of the empirical model (distributions) on a fixed
+    cover, which can create or remove an obstruction. Then say that
+    determinate-answerability is the second kind, not a change of cover.
+  - >-
+    After correction it stays Proposed. It is a counter whose remedy is
+    terminological: renaming CLAIM-201's operational notion in every entry
+    that uses "cover". That is a decision for the owner, not a proof, and
+    CLAIM-201 is itself Proposed and open.
+unlocks: []
+next_action: >-
+  Correction PR. Restate the "three operations, only the third engages
+  gluing" clause as above, with the CHSH witness. The status is unchanged.
+  Ask the owner whether to adopt a separate name for the operational
+  notion; that would answer the objection.

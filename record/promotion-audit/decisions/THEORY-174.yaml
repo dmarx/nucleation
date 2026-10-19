@@ -1,0 +1,57 @@
+# record/promotion-audit/decisions/THEORY-174.yaml
+id: THEORY-174
+batch: batch-005
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The monotonicity half, as a new Active THEORY sourced to LIT-846 and
+    LIT-847. For finite scenarios and no-signalling models, with possibly
+    different covers:
+    (a) a model is non-contextual exactly when the empty model simulates it
+    (LIT-846 Thm 4.1);
+    (b) if d simulates e then NCF(d) ≤ NCF(e) (Thm 4.5; LIT-847 Thm 21);
+    (c) simulation reflects strong contextuality (Thm 4.3);
+    (d) a model clones itself by classical simulation only if it is
+    non-contextual (LIT-847 Thm 22).
+    Both papers are refereed (EPTCS/QPL 2018, LICS 2019). NOTE-651 followed
+    the proofs of 4.1, 4.3 and 4.5 step by step, and NOTE-647 followed the
+    no-cloning proof. The promote_when itself says "the monotonicity half
+    is already proved in refereed venues".
+  excluded: >-
+    The characterisation half (LIT-845 Theorem 44, as corrected in v2): a
+    convex map between model sets is a classical non-adaptive procedure iff
+    a non-contextual model of the hom scenario induces it. The published
+    chapter carries the uncorrected statement, so it stays Proposed under
+    the existing promote_when. Also excluded: the gluing reading of §4.5
+    (NOTE-650 C4, argued in prose) and the adaptive extension (C6, not
+    supported).
+evidence:
+  - "NOTE-651 history: 'The proofs of Theorems 4.1, 4.3, 4.5 and 4.8 and of Lemma 3.12 were followed step by step'; claims C1–C3 strong (proof)."
+  - "NOTE-647 C4 (Theorem 22, no-cloning): strong (proof), proof followed."
+  - >-
+    Checked for this review. A simulation F is convex (LIT-845 Lemma 24),
+    and it sends non-contextual models to non-contextual ones by (a) and
+    composition. So d = λe + (1−λ)e′ with e non-contextual gives
+    F(d) = λF(e) + (1−λ)F(e′), with F(e) non-contextual, and NCF(F(d)) ≥ λ.
+    So the contextual fraction cannot rise.
+  - "NOTE-650 C3: Theorem 44 is strong only 'as corrected in v2'; C4 is moderate, C6 not supported."
+blockers:
+  - >-
+    The characterisation stays Proposed until an independent proof of the
+    corrected Theorem 44 is read and checked, or the corrected statement is
+    published (the existing promote_when, which concerns only this half).
+notes: >-
+  For Karvonen's version, the no-cloning theorem (4.8) rests on a monoidal
+  structure that LIT-846 asserts without checking ("straightforward but
+  tedious"). Cite LIT-847 Theorem 22 for (d), whose proof was followed.
+unlocks:
+  - "CLAIM-237 (Active) cites THEORY-174 for the easy direction of the simulation order. It can ground on the new THEORY once that is Active."
+  - "CLAIM-070, CLAIM-121, CLAIM-125 and CLAIM-245 cite it. Check in a wave-4 pass which half each one uses."
+next_action: >-
+  Split PR. A new Active THEORY for (a)–(d), sourced to LIT-846 and LIT-847.
+  THEORY-174 keeps the characterisation, extends the new THEORY, and keeps
+  its promote_when, now worded for that half alone.

@@ -1,0 +1,62 @@
+# record/promotion-audit/decisions/THEORY-127.yaml
+id: THEORY-127
+batch: batch-009
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: medium
+scope:
+  accepted: >-
+    As a new Active THEORY sourced to LIT-705, stated for the court agenda
+    {P, Q, R, B = R↔(P∧Q)} and its negations under universal domain:
+    (1) proposition-wise majority voting is not robustly rational
+    (Proposition 1, by the discursive-dilemma profile);
+    (2) the premise-based procedure is robustly rational and makes the
+    group's judgment set a function of the members' judgment sets
+    (set-wise supervenience, Proposition 4);
+    (3) under it, the members' judgments on the conclusion are not enough
+    to fix the group's (weak discontinuity, Tables 2–3) and need not enter
+    at all (strong discontinuity; Proposition 5's distributed procedure).
+  excluded: >-
+    What THEORY-127 keeps, Proposed. First, the general impossibility that
+    its title states: no proposition-wise rule, uniform or not, that depends
+    on more than one individual and respects unanimity is robustly rational
+    (Propositions 2–3, cited from Pauly and van Hees and from Dietrich and
+    List, with proofs omitted). Second, the agenda classes to which the
+    results extend (n. 3, only named). Third, List's extension to corporate
+    attitudes in general (LIT-700).
+evidence:
+  - "NOTE-550: 'Propositions 2 and 3 are stated without proof … Proposition 1 is given a sketch proof and Propositions 4 and 5 short arguments.' Claims table: C2 (impossibility) 'Propositions 1–3; 2 and 3 cited, not proved here'; C3 (possibility) 'constructive'."
+  - >-
+    Re-derived: Proposition 1 on the court agenda. J1 accepts P, Q, B and so
+    R. J2 accepts P, ¬Q, B and so ¬R. J3 accepts ¬P, Q, B and so ¬R. Each
+    set is complete and consistent. The majorities are P, Q, B and ¬R, and
+    P ∧ Q together with B entail R. The majority set is inconsistent, so
+    majority voting fails robust rationality under universal domain.
+  - >-
+    Re-derived: Proposition 4. Take majorities on the premises P, Q and B,
+    with an odd number of members, so each majority exists. Then derive R:
+    if B is accepted, R iff P ∧ Q; if B is rejected, R iff ¬(P ∧ Q). Any
+    combination of P, Q and B is consistent, and fixing R this way makes
+    the set complete, consistent and deductively closed for every profile.
+    The output is a function of the members' whole sets, but not
+    proposition-wise, because the group's R ignores the members' R.
+blockers:
+  - >-
+    For the remainder, Proposition 3. Under ADR-047 v2 a step-by-step
+    re-derivation would meet the promote_when. For this agenda that means
+    showing it is path-connected (totally blocked) and running the
+    decisive-coalition (ultrafilter) argument from independence, unanimity
+    and robust rationality to dependence on a single individual. That is
+    feasible, but it needs a dedicated pass and is beyond this one's two
+    retrieval rounds. The general-agenda form also needs the conditions of
+    n. 3 stated, and the corporate-attitude extension needs a separate
+    result, as the promote_when says.
+unlocks:
+  - "CLAIM-030, CLAIM-192 and CLAIM-271 cite THEORY-127. Check in a dependency pass whether any of them needs only the court-agenda results (1)–(3)."
+next_action: >-
+  Split PR. File (1)–(3) as a new Active THEORY sourced to LIT-705, with the
+  two re-derivations above. THEORY-127 extends it and keeps the general
+  impossibility and its promote_when. Requeue THEORY-127 for a dedicated
+  Proposition-3 re-derivation pass.

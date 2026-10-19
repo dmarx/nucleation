@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/CLAIM-313.yaml
+id: CLAIM-313
+batch: batch-002
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+role: counter
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    k bins realize only one partition only under a one-copy constraint. With
+    copies, several partitions coexist. A library catalogue filed by author,
+    title and subject at once is enough to show it, and LSH's L tables over
+    the same points, each a partition holding every point (THEORY-388,
+    Active), are the costed case. THEORY-372 (Active) prices the copies
+    against query time.
+  excluded: >-
+    Nothing of substance. The claim already declines the LEGO case, sorting
+    by discrete attributes and descriptions.
+evidence:
+  - "The core needs no theorem, as the claim says: one item stored in several bins is in several partitions."
+  - "THEORY-388 and THEORY-372 are both Active and are cited only for the costed example."
+  - "No objection to CLAIM-313 is filed."
+  - "CLAIM-310 (Active, demonstrated) states 'a fixed number of bins realizes one partition' without the one-copy condition, so the counter is right as stated."
+blockers: []
+notes: >-
+  Not material: the body's "no hashing-based scheme beats on random
+  instances" should read as THEORY-372 states it, "no list-of-points
+  structure" on random instances with d = ω(log n), a lower bound the paper
+  calls conditional.
+unlocks:
+  - >-
+    CLAIM-310 (Active) then needs a correction: the one-copy condition in its
+    title and its arrangement clause, as CLAIM-313's "How CLAIM-310 could
+    answer" proposes. luria.yaml: "A counter that goes Active means the
+    record was persuaded, and the thesis it opposed needs revisiting."
+next_action: >-
+  Promotion PR, paired with CLAIM-310's correction. Set CLAIM-313 Active,
+  qualify the lower-bound sentence, and add the one-copy condition to
+  CLAIM-310 with a history note citing this decision.

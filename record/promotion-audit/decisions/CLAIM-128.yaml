@@ -1,0 +1,18 @@
+# record/promotion-audit/decisions/CLAIM-128.yaml
+id: CLAIM-128
+batch: batch-000
+reviewed: '2026-10-19'
+reviewed_revision: 27ae8a3906d5b75a57767f7e524acd6749a2344f  # head of PR #165, where the decision was made and carried out
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The partial-order result, filed as its own claim (CLAIM-tmpzk12h in PR #165), Active.
+  excluded: >-
+    The task-relativity thesis, which stays Proposed and becomes interpretive.
+evidence:
+  - "PR #165 and its curation entries record/curation.d/2026/10/19/024107.md, 034134.md and 041525.md."
+blockers: ['The thesis has a comparative defeat condition with no observation under it.']
+carried_out_in: 'PR #165 (open as of 2026-10-19)'
+next_action: None once PR #165 merges.

@@ -1,0 +1,33 @@
+# record/promotion-audit/decisions/CLAIM-077.yaml
+id: CLAIM-077
+batch: batch-001
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    The mechanical consequence: if some pair has d_O(s_1, s_2) > δ, a
+    constant Φ gives distance 0 ≤ δ′ on it, so the separation condition
+    excludes constant transports. This is one line and does not need its own
+    claim.
+  excluded: >-
+    The thesis: that transport should be defined by an admissibility
+    condition on independently specified distinctions. Its defeat
+    condition, that no family of distinctions can be fixed independently of
+    the transports compared, is an impossibility claim met only by argument
+    (CLAIM-238, Active, as narrowed by CLAIM-239).
+evidence:
+  - "Defeat condition is about whether the definition can be applied, not about a derivation."
+  - "ADR-043: a claim checked against the record's own wording is demonstrated only when the check is mechanical; this one turns on how the proposal is read."
+blockers:
+  - >-
+    The warrant is misclassified. It should be interpretive (ADR-043), with
+    the mechanical consequence stated as one sentence in the body. After
+    that it is retained Proposed until an argument settles QUESTION-005: who
+    fixes the distinctions, and whether they can be fixed independently of
+    the transports.
+unlocks: []
+next_action: Correction PR. Set the warrant to interpretive, with a history note citing this decision. The status is unchanged.
