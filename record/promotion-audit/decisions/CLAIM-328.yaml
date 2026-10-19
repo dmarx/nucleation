@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/CLAIM-328.yaml
+id: CLAIM-328
+batch: batch-022
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+warrant: interpretive
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    The title as an existence claim ("can each be a genuine successor ... in
+    a different respect"). CASE-105 (Active, documented) supplies one case
+    in which two respects select different successors: by franchise the
+    original Senators' successor is the Minnesota Twins (relocated 1961),
+    and by civic role it is the expansion Senators, who took the name and
+    Washington's place in the league the same year. One documented case
+    settles a "can" (NOTES, batch 008). The "without branching" clause is
+    the claim's own restriction, quoted from A4: the account does not need
+    numerical identity to branch. It asserts nothing further that needs
+    evidence.
+  excluded: >-
+    How supporters divided (the interpersonal row is "divided, unknown"),
+    which the claim disclaims. Which successor relation, if any, is
+    persistence, which is QUESTION-118's and CLAIM-329's. Any
+    generalization beyond "can".
+evidence:
+  - "CASE-105: status Active, standing documented, kind specimen; its title records the three lineages."
+  - "No objection or counter is filed against CLAIM-328, and it rests on no claim."
+  - "Its defeat condition is either cases (which cannot refute a 'can') or an argument that the respects are arbitrary labels; the body's table names what each respect preserves."
+blockers:
+  - >-
+    The owner's decision. The warrant is interpretive, and "genuine" in
+    "genuine successor" is the interpretive commitment: that franchise
+    succession and civic-role succession are each succession of the
+    collective, not only of the legal entity or of the city's slot. The
+    entry was promoted from QUESTION-118 "at the owner's word ... with that
+    standing", which made it a claim, not an Active one.
+notes: >-
+  The one interpretive promotion path in the sample. It is cheap because
+  the claim is an existence claim and its case is documented. Promotion is
+  left to the owner, as for CLAIM-322.
+unlocks: []
+next_action: >-
+  Owner question: promote CLAIM-328 on CASE-105? If yes, a PR sets it
+  Active with a dated history note appended last; no other entry changes.

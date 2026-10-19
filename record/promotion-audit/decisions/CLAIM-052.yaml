@@ -1,0 +1,44 @@
+# record/promotion-audit/decisions/CLAIM-052.yaml
+id: CLAIM-052
+batch: batch-022
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+warrant: interpretive
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    Nothing is promoted. The correction is to the warrant. The title's main
+    clause, that interpretive framing operations generally do not commute,
+    is an empirical generalization about how the order of framing prompts
+    changes later pragmatic judgements. Its defeat condition is purely
+    empirical ("In controlled designs the order of framing prompts makes no
+    difference, beyond noise"), and the body says "It is untested". Under
+    ADR-043 that is `empirical` (supported by observation or experiment,
+    scoped to the evidence), not `interpretive` (conceptual argument,
+    analogy or synthesis). The second clause, that order effects can be
+    investigated without committing to quantum probability, needs no
+    separate warrant: classical sequential and context-dependent-marginal
+    models describe order effects, the separation LIT-264 (Active) draws.
+  excluded: >-
+    The generalization itself. The record holds no study of framing-prompt
+    order on pragmatic judgements. CASE-021 is a proposed study, not run.
+    THEORY-166 (Proposed) is about survey question-order effects, a
+    neighbouring but different domain, and is not evidence for this one.
+evidence:
+  - "CLAIM-052's defeated_if is an observational result; its body: 'It is untested; CASE-021 and the manuscript's Case II ... would test it.'"
+  - "CASE-021: standing stipulated, kind proposed-study, 'Proposed at A21 and refined at A24, not run'."
+  - "ADR-043's definitions of empirical and interpretive."
+  - "LIT-264 (Active) separates context-dependent marginals from contextuality, so order dependence can be modelled classically."
+blockers:
+  - "No run study of framing-prompt order on pragmatic judgements. CASE-021, or the manuscript's Case II, run and filed, is what would move it."
+notes: >-
+  Pattern 1's interpretive variant: a claim filed as interpretive whose
+  defeat condition is an observation. The warrant is wrong and the status
+  is right. CLAIM-117 rests on it; warrants are not inherited (ADR-043), so
+  CLAIM-117 needs no change.
+unlocks: []
+next_action: >-
+  A correction PR: CLAIM-052's warrant becomes empirical, with a dated
+  history note appended last. Status unchanged.

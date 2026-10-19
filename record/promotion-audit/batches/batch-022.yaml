@@ -1,0 +1,90 @@
+# record/promotion-audit/batches/batch-022.yaml
+batch: batch-022
+date: '2026-10-19'
+kind: evidence-audit
+wave: 5
+record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+selection: >-
+  The first wave-5 batch, a fixed-rule sample rather than a ranking (NOTES,
+  batch 007: no textual heuristic has been shown to predict wave 5's
+  yield). sample_wave5.py lists the population and takes every k-th code.
+  CLAIM-052, CLAIM-151, CLAIM-217, CLAIM-328, THEORY-058.
+population:
+  definition: >-
+    Proposed CLAIMs with warrant interpretive (any role), plus Proposed
+    THEORYs with no mathematics tag whose source names at least three
+    distinct LIT codes, excluding every code already a candidate or
+    requeued in queue.yaml.
+  size: 219
+  claims: 179
+  theories: 40
+rule: >-
+  Sort by scheme then number; k = population // 5 = 43; take positions
+  21, 64, 107, 150, 193 (k // 2 + i·k).
+reviewed: [CLAIM-052, CLAIM-151, CLAIM-217, CLAIM-328, THEORY-058]
+outcomes:
+  promote: [CLAIM-328]
+  needs-correction: [CLAIM-052]
+  retain-proposed: [CLAIM-151, CLAIM-217, THEORY-058]
+yield: >-
+  1 of 5 found a promotion path (CLAIM-328, interpretive, so the owner's
+  call); 1 correction (CLAIM-052's warrant)
+finding: >-
+  Wave 5's blockers are structural, not evidential gaps a review can
+  close. Two of the three retained claims rest on Proposed claims and
+  carry open counters (CLAIM-151, CLAIM-217, which rests on CLAIM-151),
+  so they move only when the argument they belong to is decided. The
+  synthesis THEORY (THEORY-058) has a precise promote_when that asks for
+  evidence the record has not registered. The one promotion path is an
+  existence claim with a documented case, the shape that also yielded in
+  waves 2 and 3. NOTES' pattern 1 (a demonstrated warrant over an
+  empirical defeater) did not appear in the sample. Its interpretive
+  variant did once (CLAIM-052). A mechanical count over the population: 36
+  of 192 Proposed interpretive claims have a defeat condition with
+  empirical vocabulary (study, elicited, experiment, participants, data),
+  13 of them dated 2026-10-10. Only CLAIM-326 and CLAIM-269 have a
+  demonstrated warrant over an empirical defeater, and both were split in
+  batches 014 and 015.
+recommendation: >-
+  Do not run wave 5 in ranked batches. Two cheaper passes would do more.
+  (1) A warrant pass over the 36 interpretive claims with empirical-looking
+  defeat conditions, checking each the way CLAIM-052 was checked: is the
+  title a generalization that only an observation could settle? That is a
+  correction pass, not a promotion pass. (2) An argument-level pass by
+  line. Pragmatic-transport claims rest on one another (CLAIM-217 on
+  CLAIM-151, CLAIM-151 on CLAIM-004 and CLAIM-061), so they should be
+  decided root first, in one sitting, with the owner, not sampled one at a
+  time.
+owner_questions:
+  - >-
+    CLAIM-328 (plural successors, distributed-agency line): promote it to
+    Active? It says that when a collective's bundled continuities separate,
+    several later collectives can each be a genuine successor in a
+    different respect, without identity branching. CASE-105 (documented)
+    shows it once: by franchise the Senators' successor is the Twins, by
+    civic role the 1961 expansion Senators. No objection is filed. The
+    decision turns on whether "genuine successor" in each respect is a
+    commitment the record wants to hold as Active.
+follow_up_prs:
+  - "CLAIM-052: needs-correction. Warrant interpretive → empirical, with a dated history note appended last. Status unchanged."
+notes_for_ledger:
+  - >-
+    Wave 5's population (sample_wave5.py): 219 codes, 179 Proposed
+    interpretive CLAIMs and 40 multi-source non-mathematics THEORYs. The
+    THEORY half of the definition (at least three distinct LIT sources) is
+    a proxy for "synthesis" and was not validated; THEORY-058 fit it well.
+  - >-
+    An interpretive warrant over an observational defeat condition is
+    pattern 1's mirror (CLAIM-052). The fix is a warrant correction to
+    empirical, not a split, when the claim is a single generalization that
+    is simply untested. ADR-043's "empirical" covers untested hypotheses
+    whose support would be observational.
+  - >-
+    An existence title with a documented case is the cheapest promotion
+    path in every wave so far (THEORY-171's in batch 008, CLAIM-328 here).
+    For interpretive claims it still goes to the owner.
+  - >-
+    Claims in one argument line should be decided root first. CLAIM-217
+    cannot move before CLAIM-151, which cannot move before CLAIM-004 and
+    CLAIM-061. Sampling such claims independently spends reviews on
+    entries that are blocked by construction.

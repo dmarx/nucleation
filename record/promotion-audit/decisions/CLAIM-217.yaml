@@ -1,0 +1,40 @@
+# record/promotion-audit/decisions/CLAIM-217.yaml
+id: CLAIM-217
+batch: batch-022
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing is promoted. Steps 1 and 2 check against the text: TERM-040 and
+    CLAIM-135 quote A218 Ch7 that a kind may be indistinguishable "under an
+    insufficient family", and "insufficient" is relative to a standard.
+    These are readings, too small to file apart.
+  excluded: >-
+    Step 3 and the conclusion. They rest on CLAIM-151 (Proposed, retained in
+    this batch), as the entry itself says. CLAIM-241 (Proposed counter,
+    open) argues that partial constitution makes competent uptake a
+    defeasible standard, not the criterion, which goes to the title's "the
+    judges are the criterion". CLAIM-160 reads expected uptake as the
+    writer's, against step 3's reading, and the entry leaves that to the
+    owner.
+evidence:
+  - "rests_on: CLAIM-151 (Proposed); objected_by: CLAIM-241 (Proposed counter)."
+  - "The entry: 'it is a proposal: it rests on CLAIM-151, which is Proposed, and its defeat condition is empirical'."
+  - "The note of 2026-10-12 leaves CLAIM-160's writer-side reading of expected uptake to the owner."
+blockers:
+  - "CLAIM-151, its only rests_on, is Proposed."
+  - "CLAIM-241's objection (a defeasible standard, not the criterion) is open."
+  - "The owner's reading of expected uptake (CLAIM-160 against step 3) is undecided."
+notes: >-
+  A 2026-10-10 pragmatic-transport reply. Its defeat condition mixes an
+  empirical disjunct (participants' verdicts unstable across occasions)
+  with a conceptual one (an act turning on what participants cannot
+  recover), and its core is a conceptual argument, so interpretive is the
+  right warrant. Not pattern 1.
+unlocks: []
+next_action: >-
+  None. Requeue after CLAIM-151 and CLAIM-241 are decided.
