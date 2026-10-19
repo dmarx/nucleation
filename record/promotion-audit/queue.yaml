@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 46
+version: 47
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batch-006
-  state: reviewed
-  in_review: null
+  batch: batch-007
+  state: in_review
+  in_review: THEORY-009
   next_step: 'Batch 006 (wave 2) is reviewed: 4 of 5 found a promotion path (THEORY-325 split; THEORY-247
     and THEORY-206 narrow-and-promote; THEORY-236 split; THEORY-277 retain-proposed). Wave 2 stands at
     15 of 16. Open PRs from this audit: #165 (first audit, second pass, follow-up), #166 (this ledger),
@@ -661,6 +661,31 @@ candidates:
   score: 2
   triage: triage-002
   state: pending
+- code: THEORY-009
+  wave: 2
+  score: null
+  triage: triage-002-control
+  state: in_review
+- code: THEORY-106
+  wave: 2
+  score: null
+  triage: triage-002-control
+  state: pending
+- code: THEORY-233
+  wave: 2
+  score: null
+  triage: triage-002-control
+  state: pending
+- code: THEORY-297
+  wave: 2
+  score: null
+  triage: triage-002-control
+  state: pending
+- code: THEORY-323
+  wave: 2
+  score: null
+  triage: triage-002-control
+  state: pending
 history:
 - version: 1
   date: '2026-10-19'
@@ -826,4 +851,11 @@ history:
   date: '2026-10-19'
   note: 'Batch 006 closed. carried_out_in #178 for THEORY-174 and THEORY-168. Hand-off rewritten: batch
     005''s PRs #176-#178 are open, none pending.'
+- version: 47
+  date: '2026-10-19'
+  note: 'Triage-002-control (batch 007) tests whether triage-002''s keyword heuristic selected easy cases.
+    Eligible: Proposed THEORYs on origin/main d3f55159 tagged mathematics whose promote_when contains
+    none of triage-002''s keywords (met, done, confirmed, re-derived, proved, checked, first clause, first
+    half; whole-word match). N = 43. Sorted by code, taking every k-th from index 0 with k = floor(N/5)
+    = 8, i.e. indices 0, 8, 16, 24, 32: THEORY-009, THEORY-106, THEORY-233, THEORY-297, THEORY-323.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
