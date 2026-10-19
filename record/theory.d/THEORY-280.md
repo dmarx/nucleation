@@ -35,7 +35,7 @@ summary: >-
   known, and the samples drawn with restarts. A single running stream and
   latent states are outside it.
 ---
-<!-- inactive-ok-file: QUESTION-008 THEORY-247 — Deferred or Proposed; the set-aside question this bears on, and the identification this account inherits, cited as open -->
+<!-- inactive-ok-file: QUESTION-008 — Deferred or Proposed; the set-aside question this bears on, and the identification this account inherits, cited as open -->
 
 # THEORY-280: The bisimulation metric between two finite Markov chains can be estimated from sampled transitions without a transition model, to accuracy ε with a number of samples polynomial in the state-space sizes and 1/ε²
 

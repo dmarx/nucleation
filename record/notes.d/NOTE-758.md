@@ -26,7 +26,7 @@ summary: >-
   subspaces. With token noise that makes factoring lossy they collapse to
   it first and expand only later. RNNs and LSTMs show it less sharply.
 ---
-<!-- inactive-ok-file: THEORY-197 THEORY-206 THEORY-256 — Proposed; the accounts this reading bears on, and the one filed from it, open -->
+<!-- inactive-ok-file: THEORY-197 THEORY-256 — Proposed; the accounts this reading bears on, and the one filed from it, open -->
 
 # NOTE-758: Shai et al. — Transformers learn factored representations
 
