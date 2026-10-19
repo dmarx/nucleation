@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 24
+version: 25
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-004
   state: in_review
-  in_review: CLAIM-056
+  in_review: CLAIM-191
   next_step: 'Batch 004 (wave 4, dependency unlocks) is open: CLAIM-269, CLAIM-322, CLAIM-090, CLAIM-056,
     CLAIM-191, in that order. Finish the one in_review, then the next pending of these.'
   cautions:
@@ -31,7 +31,7 @@ waves:
   promotion_paths: 0
 - wave: 4
   class: Dependency unlocks
-  reviewed: 3
+  reviewed: 4
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
@@ -388,7 +388,10 @@ candidates:
     risk: 1
   proposed_deps:
   - CLAIM-106
-  state: in_review
+  state: decided
+  disposition: needs-correction
+  batch: batch-004
+  decision: decisions/CLAIM-056.yaml
 - code: CLAIM-206
   wave: 1
   score: 12
@@ -503,7 +506,7 @@ candidates:
   - CLAIM-177
   - CLAIM-182
   - CLAIM-002
-  state: pending
+  state: in_review
 history:
 - version: 1
   date: '2026-10-19'
@@ -593,3 +596,6 @@ history:
 - version: 24
   date: '2026-10-19'
   note: 'Batch 004: CLAIM-090 decided (retain-proposed).'
+- version: 25
+  date: '2026-10-19'
+  note: 'Batch 004: CLAIM-056 decided (needs-correction).'
