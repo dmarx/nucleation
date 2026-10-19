@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**775 document(s) awaiting a decision.**
+**774 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 775.
+95 of the 774.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-448 of the 775.
+447 of the 774.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -237,7 +237,6 @@
 | 2026-10-09 | Proposed | [THEORY-194](../../record/theory.d/THEORY-194.md) | 44 | 1 | For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about |
 | 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 39 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
 | 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 36 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
-| 2026-10-09 | Proposed | [THEORY-197](../../record/theory.d/THEORY-197.md) | 33 | 2 | Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization |
 | 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 30 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-183](../../record/theory.d/THEORY-183.md) | 29 | 0 | When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics |
 | 2026-10-09 | Proposed | [THEORY-196](../../record/theory.d/THEORY-196.md) | 21 | 0 | A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones |
@@ -566,7 +565,7 @@
 
 ## ADRs
 
-2 of the 775.
+2 of the 774.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -575,7 +574,7 @@
 
 ## QUESTIONs
 
-9 of the 775.
+9 of the 774.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -591,7 +590,7 @@
 
 ## CLAIMs
 
-216 of the 775.
+216 of the 774.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -814,7 +813,7 @@
 
 ## CASEs
 
-1 of the 775.
+1 of the 774.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -822,7 +821,7 @@
 
 ## TERMs
 
-2 of the 775.
+2 of the 774.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -831,7 +830,7 @@
 
 ## ARGs
 
-2 of the 775.
+2 of the 774.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

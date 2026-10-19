@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**507 documents cited without acknowledgement.** Not listed: 9769 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**506 documents cited without acknowledgement.** Not listed: 9738 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -4637,15 +4637,6 @@ In a model that decodes the sum of two learned embeddings, a training set fixes 
 
 - [`record/questions.d/QUESTION-058.md:28`](../../record/questions.d/QUESTION-058.md)
 - [`record/questions.d/QUESTION-058.md:48`](../../record/questions.d/QUESTION-058.md)
-
-### [THEORY-197](../../record/theory.d/THEORY-197.md) — Proposed
-
-Mehta and Schwab's correspondence between Kadanoff's variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization
-
-2 citations in 1 file await a look; 31 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-060.md:23`](../../record/questions.d/QUESTION-060.md)
-- [`record/questions.d/QUESTION-060.md:42`](../../record/questions.d/QUESTION-060.md)
 
 ### [THEORY-200](../../record/theory.d/THEORY-200.md) — Proposed
 
