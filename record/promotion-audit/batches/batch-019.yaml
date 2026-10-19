@@ -1,0 +1,94 @@
+# record/promotion-audit/batches/batch-019.yaml
+batch: batch-019
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+selection: >-
+  Wave 3, formal results first, as the hand-off of queue v92 recommends:
+  the three untagged formal results triage-004 flagged (THEORY-198,
+  THEORY-248, THEORY-315), then the next two pending triage-004 entries in
+  code order (THEORY-256, THEORY-292). Run in parallel with other batch
+  sessions. The parent session integrates this file into queue.yaml and
+  NOTES.md.
+reviewed: [THEORY-198, THEORY-248, THEORY-315, THEORY-256, THEORY-292]
+outcomes:
+  promote: [THEORY-315]
+  narrow-and-promote: [THEORY-198, THEORY-248, THEORY-256]
+  retain-proposed: [THEORY-292]
+yield: 4 of 5 found a promotion path
+rubric_vs_outcome:
+  # triage-004 components: bundling, depth, firsthand, extends, compound; all five scored 7
+  - code: THEORY-198
+    outcome: narrow-and-promote
+    mattered: >-
+      Formal content and depth. The promote_when asks about the maximizer
+      short of full capture, which the body disclaims. That is bundling, so
+      the bundling score was right for once.
+  - code: THEORY-248
+    outcome: narrow-and-promote
+    mattered: >-
+      Formal content. The proof is a triangle inequality on top of
+      Xu–Raginsky. The promote_when asks for non-vacuity, which the body
+      disclaims (bundling).
+  - code: THEORY-315
+    outcome: promote
+    mattered: >-
+      Formal content alone. The promote_when asked for exactly what ADR-047
+      v2 lets the record supply, an independent derivation.
+  - code: THEORY-256
+    outcome: narrow-and-promote
+    mattered: >-
+      Depth, and ADR-047 v3. The experimental numbers are in the text, so
+      the one study read in full carries the hedged clauses.
+  - code: THEORY-292
+    outcome: retain-proposed
+    mattered: >-
+      Depth misfired. The NOTE says "read in full" but saw the results
+      only through captions, and the paper gives no values in text.
+finding: >-
+  The formal-results route held: all three flagged formal entries found a
+  path, two of them as narrowings of an overstated hypothesis, not of the
+  mathematics. ADR-047 v3 carried one empirical entry (THEORY-256) and
+  failed one (THEORY-292). The difference was whether the measurements are
+  stated in the text the NOTE read, or only in figures it could not see.
+  Every promote_when in the four promotion paths asked for something the
+  body disclaims, and moves to a QUESTION; that pattern is now the commonest
+  shape in wave 3.
+recommendation: >-
+  For ADR-047 v3 candidates, read the NOTE's history line for figure
+  access as well as for "read in full". Where results live only in figures
+  (common in ML papers read via pdftotext), retain until the figures are
+  read. Keep routing untagged formal entries first; triage-004's score of 7
+  carried no further information within this batch.
+owner_questions: []
+promotion_prs:
+  - "#208: THEORY-315 promote; THEORY-198 and THEORY-248 narrow-and-promote; QUESTION-tmpavq90 and QUESTION-tmpgpocu (branch claude/promote-theories-198-248-315)."
+  - "#210: THEORY-256 narrow-and-promote; QUESTION-tmpmknot (branch claude/promote-theory-256)."
+follow_up_prs:
+  - "THEORY-198, THEORY-248 and THEORY-315: narrow-and-promote, narrow-and-promote and promote, with re-derivations as dated notes. The promote_whens of THEORY-198 and THEORY-248 move to new QUESTIONs."
+  - "THEORY-256: narrow-and-promote under ADR-047 v3, with the theorem's re-derivation as a dated note. Its promote_when moves to a new QUESTION related to QUESTION-060."
+notes_for_ledger:
+  - >-
+    ADR-047 v3 needs the measurements, not only the reading. NOTE-816
+    (THEORY-292) and NOTE-758 (THEORY-256) both say "read in full" and
+    "figures read through captions only". The difference was that LIT-986
+    states its numbers in the text and LIT-937 does not. Grep the NOTE's
+    history for "captions" and check that the title's numbers appear in
+    the extracted text.
+  - >-
+    A short derivation of a preparation-noncontextuality bound without
+    outcome determinism. Put u = μ1 − μ3 and v = μ4 − μ2. The equivalence
+    gives |u|, |v| ≤ ν pointwise, and |σa + τb| + |σa − τb| = 2max(|a|, |b|)
+    ≤ 2. Together these give σ⟨X⟩ + τ⟨Z⟩ ≤ 1. Dropping the equivalence gives
+    2, the gbit. The same template may serve other symmetric-orbit
+    inequalities.
+  - >-
+    Screening lemmas from full capture. If I(H:E) = I(V:E) with H drawn from
+    V alone, then I(V:E|H) = 0, and any separation statement that holds
+    given V passes to H. This is the core of THEORY-198, and it is a
+    general tool for information-bottleneck claims in the record.
+  - >-
+    "Stays finite" in a bound's title should name its finiteness condition.
+    THEORY-248's Lipschitz bound is finite exactly when the output law's
+    rate-distortion function is finite at ε/(2L).

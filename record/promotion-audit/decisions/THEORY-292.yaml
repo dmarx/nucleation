@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/THEORY-292.yaml
+id: THEORY-292
+batch: batch-019
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    Nothing new. The alignment of separately fitted CAVs for co-occurring
+    attributes (C1) and the reader's derivation that a per-concept
+    least-squares fit mixes true directions by label covariance
+    (w_c ∝ Σ_k Cov(t_k, t_c) u_k) are sound as stated in the body.
+  excluded: >-
+    The whole title, for now. Under ADR-047 v3 a single study can promote
+    an empirical THEORY only if the NOTE read the study in full and the
+    title claims no more than was measured. NOTE-816 says the measurements
+    are not in hand: "The figures were read only through their captions
+    and the text that describes them. The paper states no AUROC or
+    orthogonality value in its text, so the numbers below are
+    hyperparameters, set-up proportions and the ranges on the figure axes,
+    not results." The title's "with little loss of AUROC", and the "so …
+    not forced by the representation" that rests on it, are the paper's
+    description of figures the record has not read. The per-concept range
+    of about ±20% relative change in AUROC is an axis range, not a reading.
+evidence:
+  - "NOTE-816 v1 history, quoted above; claims C2 'moderate ... AUROC only, read from figures, no seeds or error bars'."
+  - "THEORY-292 'What this does not say': 'the paper gives no values or error bars. \"Little loss\" is the paper's description of its figures.'"
+blockers:
+  - >-
+    The AUROC results (Figs. 3–6 of LIT-937) are unread. A reading of those
+    figures that records the per-concept AUROC before and after
+    orthogonalisation, above all for the concept that lost most ("Young")
+    and the strongly correlated pairs, would let ADR-047 v3 apply. The
+    title would then need narrowing to VGG16 and ResNet18 at the last
+    convolutional layer, on CelebA and FunnyBirds, with the measured
+    losses stated.
+notes: >-
+  A boundary case for ADR-047 v3. "Read in full" in a NOTE's history is not
+  enough when the same history says the results were seen only through
+  captions. Check the history line for figure access, not only for "read
+  in full".
+next_action: >-
+  None now. Requeue once a reading of LIT-937's Figs. 3–6 is filed, then
+  review under ADR-047 v3 with the narrowing above.

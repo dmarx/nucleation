@@ -1,0 +1,66 @@
+# record/promotion-audit/decisions/THEORY-248.yaml
+id: THEORY-248
+batch: batch-019
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    Theorem 4 of LIT-236: for a σ-subgaussian loss,
+    |E gen(S, W)| ≤ √(2σ²R_E(ε)/n) + ε, with R_E(ε) the least I(S; Ŵ) over
+    surrogates within ε in expected generalisation error, and I(S; W) the
+    case ε = 0. Also Corollary 6: for an L-Lipschitz loss, R_E(ε) is at most
+    the rate-distortion function RD(ε/(2L); P_W, ρ) of the output's law, which
+    can be finite where I(S; W) is infinite. NOTE-780 followed every proof
+    step by step. Both are re-derived below.
+  excluded: >-
+    The title's unqualified "the lossy bound stays finite where I(S;W) is
+    infinite". It is finite exactly when the output law's rate-distortion
+    function is finite at distortion ε/(2L), which holds for the usual
+    cases (for example W in ℝ^d with finite first moment and ρ a norm) but
+    is not shown for every law. The narrowed title states the condition.
+    Also excluded: the promote_when, which asks for a non-trivial value
+    evaluated for an algorithm with infinite I(S;W). The body disclaims it
+    ("Not that it is computable"; "Not that it is non-vacuous for
+    networks"), and the promote_when itself says "The theorem itself is
+    proved". It moves, unchanged, to a new QUESTION.
+evidence:
+  - "NOTE-780 v1 history: 'every proof in Appendix E (E.1–E.19). The proofs were followed step by step.' Claims C2 strong (Theorem 4, proved in general by E.3); C3 moderate (Corollary 6; the worked example has a units error)."
+  - "promote_when: 'The theorem itself is proved, by Xu–Raginsky's bound applied to a surrogate'."
+  - >-
+    Re-derivation. (1) Theorem 4. Let P_{Ŵ|S} be any kernel with
+    |E[gen(S, W) − gen(S, Ŵ)]| ≤ ε, where gen(s, w) = L_μ(w) − L_s(w). The
+    loss ℓ(w, Z) is σ-subgaussian under Z ~ μ for every w, so Xu–Raginsky
+    (LIT-347, Thm 1) applies to the pair (S, Ŵ):
+    |E gen(S, Ŵ)| ≤ √(2σ² I(S; Ŵ)/n). By the triangle inequality,
+    |E gen(S, W)| ≤ |E gen(S, Ŵ)| + ε ≤ √(2σ² I(S; Ŵ)/n) + ε. The right side
+    is increasing in I(S; Ŵ), so taking the infimum over admissible kernels
+    gives √(2σ² R_E(ε)/n) + ε (the bound holds for every admissible kernel,
+    so it holds for the infimum whether or not it is attained). With Ŵ = W
+    and ε = 0 it is Xu–Raginsky itself. (2) Corollary 6. Suppose
+    |ℓ(z, w) − ℓ(z, ŵ)| ≤ L·ρ(w, ŵ) for all z. Then
+    |gen(s, w) − gen(s, ŵ)| ≤ |L_μ(w) − L_μ(ŵ)| + |L_s(w) − L_s(ŵ)|
+    ≤ 2L·ρ(w, ŵ). Take Ŵ from a kernel P_{Ŵ|W} applied to W alone, so
+    S – W – Ŵ is a Markov chain, with E ρ(W, Ŵ) ≤ ε/(2L). Then
+    |E[gen(S, W) − gen(S, Ŵ)]| ≤ 2L·E ρ(W, Ŵ) ≤ ε, so Ŵ is admissible, and
+    by data processing I(S; Ŵ) ≤ I(W; Ŵ). The infimum of I(W; Ŵ) over such
+    kernels is RD(ε/(2L); P_W, ρ), so R_E(ε) ≤ RD(ε/(2L); P_W, ρ). Nothing in
+    this uses I(S; W), so the bound is finite whenever that rate-distortion
+    value is, including for deterministic algorithms with continuous W,
+    where I(S; W) = ∞.
+blockers: []
+notes: >-
+  Under ADR-047 v2 the re-derivation is the record's check; the source's
+  own proofs were also followed in full. The finiteness condition is the
+  only narrowing, and it is a hypothesis the corollary already carries.
+  The body's correction of the Gaussian-mean example's units stands.
+unlocks:
+  - "THEORY-028 (its Xu–Raginsky half) and THEORY-263 cite this; check them in a dependency pass."
+next_action: >-
+  Narrow-and-promote PR. Retitle so the Lipschitz rate-distortion bound
+  "is finite whenever the output law's rate-distortion function is finite
+  at distortion ε/(2L), including where I(S;W) is infinite". Set Active.
+  Add the re-derivation as a dated note. Move the promote_when, unchanged,
+  to a new QUESTION.

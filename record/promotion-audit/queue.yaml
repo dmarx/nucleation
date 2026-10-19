@@ -1,23 +1,23 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 99
+version: 101
 updated: '2026-10-19'
 record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batches 018-023 and triage-005 (parallel)
-  state: in_progress
+  batch: null
+  state: between batches
   in_review: null
-  next_step: 'Started 2026-10-19 after #189-#201 merged. Parallel batches, each on its own branch claude/promotion-audit-batch-NNN,
-    writing only decisions/ and batches/: 018 (wave 3, ADR-047 v3: THEORY-191, -192, -033, -235, -255);
-    019 (wave 3 formal: THEORY-198, -248, -315, -256, -292); 020 (wave 3: THEORY-295, -414, -460, -546,
-    -583); 021 (wave 4: CLAIM-192, -271, -030, -206, -126); 022 (wave 5 opens: a fixed-rule sample of
-    5, with sample_wave5.py); 023 (THEORY-127, the Proposition 3 pass). triage-005 (claude/promotion-audit-triage-005)
-    fixes triage_wave3.py and re-scores wave 3 into triage-005.yaml. This ledger branch integrates each
-    as it lands (decisions, batch file, queue states, notes, wave counts, check.py). A batch branch without
-    its batch file did not finish: rerun it from its first candidate without a decision file. Merge the
-    resulting PRs one at a time, waiting for each merge''s regenerate commit.'
+  next_step: 'Batches 018-023 and triage-005 are integrated. Their PRs: #203, #204, #205, #206, #207,
+    #208, #209, #210. Merge them one at a time, waiting for each merge''s regenerate commit; #203 and
+    #206 both touch THEORY-127, so whichever merges second may need a merge of main. Then this ledger.
+    Next work: wave 3 from triage-005''s queued candidates, re-derivation route first (route: re-derivation),
+    with batch 020''s sorting rule (theorem -> re-derivation, measurement -> ADR-047 v3, argument -> wave
+    5); a warrant-correction pass over the 36 Proposed interpretive claims with empirical-sounding defeat
+    conditions (batch 022) and over ADR-040 parents still marked demonstrated (batch 021); more wave-5
+    samples, deciding argument lines root first. Owner questions open: CLAIM-328 (batch 022), CLAIM-206
+    vs CLAIM-217 (batch 021), and the older CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -38,8 +38,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 18
-  promotion_paths: 7
+  reviewed: 23
+  promotion_paths: 11
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -1170,8 +1170,13 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
   note: untagged formal result; ADR-047 v2 re-derivation may apply (wave-2 route)
+  disposition: narrow-and-promote
+  batch: batch-019
+  decision: decisions/THEORY-198.yaml
+  carried_out_in:
+  - '#208'
 - code: THEORY-235
   wave: 3
   score: 7
@@ -1198,8 +1203,13 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
   note: untagged formal result; ADR-047 v2 re-derivation may apply (wave-2 route)
+  disposition: narrow-and-promote
+  batch: batch-019
+  decision: decisions/THEORY-248.yaml
+  carried_out_in:
+  - '#208'
 - code: THEORY-255
   wave: 3
   score: 7
@@ -1228,7 +1238,12 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-019
+  decision: decisions/THEORY-256.yaml
+  carried_out_in:
+  - '#210'
 - code: THEORY-292
   wave: 3
   score: 7
@@ -1240,7 +1255,10 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-019
+  decision: decisions/THEORY-292.yaml
 - code: THEORY-295
   wave: 3
   score: 7
@@ -1269,8 +1287,13 @@ candidates:
     compound: 1
   supports: 0
   triage: triage-004
-  state: pending
+  state: decided
   note: untagged formal result; ADR-047 v2 re-derivation may apply (wave-2 route)
+  disposition: promote
+  batch: batch-019
+  decision: decisions/THEORY-315.yaml
+  carried_out_in:
+  - '#208'
 - code: THEORY-414
   wave: 3
   score: 7
@@ -2433,4 +2456,10 @@ history:
   date: '2026-10-19'
   note: 'Batch 018 integrated: 4 of 5 found a promotion path (two under ADR-047 v3, two formal cores under
     v2); carried_out_in #207, #209'
+- version: 100
+  date: '2026-10-19'
+  note: 'Batch 019 integrated: 4 of 5 found a promotion path; carried_out_in #208, #210'
+- version: 101
+  date: '2026-10-19'
+  note: Round 018-023 closed; hand-off rewritten.
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

@@ -716,3 +716,43 @@ history note. THEORY-277 is requeued on this basis.
   doesn't score. Batch 017's formal-content flag is the fix.
 - THEORY-235 should move to wave 5 in the queue: a single-source
   philosophical argument with open objections.
+
+## 2026-10-19 — batch 019 (wave 3, formal)
+
+- ADR-047 v3 needs the measurements, not only the reading. NOTE-816
+  (THEORY-292) and NOTE-758 (THEORY-256) both say "read in full" and
+  "figures read through captions only". The difference was that LIT-986
+  states its numbers in the text and LIT-937 does not. Grep the NOTE's
+  history for "captions" and check that the title's numbers appear in the
+  extracted text.
+- A short derivation of a preparation-noncontextuality bound without
+  outcome determinism. Put u = μ1 − μ3 and v = μ4 − μ2. The equivalence
+  gives |u|, |v| ≤ ν pointwise, and |σa + τb| + |σa − τb| = 2max(|a|, |b|)
+  ≤ 2. Together these give σ⟨X⟩ + τ⟨Z⟩ ≤ 1. Dropping the equivalence gives
+  2, the gbit. The same template may serve other symmetric-orbit
+  inequalities.
+- Screening lemmas from full capture. If I(H:E) = I(V:E) with H drawn from
+  V alone, then I(V:E|H) = 0, and any separation statement that holds
+  given V passes to H. This is the core of THEORY-198, and it is a general
+  tool for information-bottleneck claims in the record.
+- "Stays finite" in a bound's title should name its finiteness condition.
+  THEORY-248's Lipschitz bound is finite exactly when the output law's
+  rate-distortion function is finite at ε/(2L).
+
+## 2026-10-19 — round 018–023, summary
+
+- **Yields.** Wave 3: 018 at 4 of 5, 019 at 4 of 5, 020 at 1 of 5.
+  Wave 4: 021 at 0 of 5, with four corrections. Wave 5: 022 at 1 of 5,
+  the owner's call. THEORY-127 (023): narrow-and-promote, after
+  Proposition 3 was re-derived. Every wave-3 path was a formal result or
+  a measurement read in full (ADR-047 v3). Arguments and conceptual
+  analyses went 0 of 7.
+- **Sort wave 3 by what the title asserts** (batch 020). A theorem goes
+  to re-derivation, a measurement to v3, and an argument to wave 5.
+  Triage-005's route flag does this. Its score does not.
+- **v3 needs the numbers in the text.** "Read in full" excludes results
+  that the NOTE saw only in figure captions (THEORY-292).
+- **Warrant correction is the next cheap work.** Wave 5's first sample
+  promoted almost nothing. It found misclassified warrants, and a
+  mechanical count suggests 36 more. ADR-040 parents marked demonstrated
+  are a second sweep (pattern 1, five cases now).

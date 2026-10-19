@@ -1,0 +1,75 @@
+# record/promotion-audit/decisions/THEORY-198.yaml
+id: THEORY-198
+batch: batch-019
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The Lemma, Proposition 1 and Proposition 2 of LIT-881 (Appendix B),
+    which NOTE-682 followed step by step, with their hypotheses in the
+    title: full capture makes the coarse measure factorize across the block
+    in 1D, and in D dimensions when capture by a hyperplane of blocks
+    amounts to capture by each block and no existing couplings cancel
+    exactly; 1D product disorder then gains no correlations across the
+    block. The title's numerical clause, which is already hedged ("shown
+    only numerically, in 1D"), stays, restricted to what was computed:
+    two-spin blocks of the 1D Ising and dilute random Ising chains. Under
+    ADR-047 v3 the one study suffices for that clause: NOTE-682 read it in
+    full, the clause claims no more than was computed, and nothing in the
+    record contradicts it. The Lemma is re-derived below.
+  excluded: >-
+    The promote_when, which asks about coarse-grainings short of full
+    capture in two or more dimensions, or for a 2D check of the per-block
+    assumption. The body disclaims both ("Not that the maximizer gets full
+    capture"; "Not a proof for two or more dimensions without
+    conditions"), so the condition tests a stronger claim than the title
+    makes. It moves, unchanged, to a new QUESTION related to QUESTION-065.
+    Also excluded: the unconditional D-dimensional reading of the current
+    title's first clause.
+evidence:
+  - "NOTE-682 v1 history: 'The Lemma and Propositions 1 and 2 (Appendix B, Eqs. B1–B22) followed step by step'; claims table C1 'strong in 1D; moderate in D dimensions', C2 'strong, for its hypotheses'."
+  - "NOTE-682 Assumptions: the D-dimensional step needs full capture for a hyperplane to be equivalent to full capture by each block, and excludes integrating out the buffer exactly cancelling pre-existing longer couplings."
+  - >-
+    Re-derivation of the Lemma (1D). Order the chain E_L, B_L, V, B_R, E_R,
+    with V one block, B_L and B_R the neighbouring blocks (the buffer) and
+    E_L, E_R the rest. H is V's coarse variable, drawn from P(H | V), so
+    H is independent of everything else given V. (i) Full capture,
+    I(H : E) = I(V : E) with E = (E_L, E_R), gives I(V : E | H) = 0. By the
+    chain rule, I(V, H : E) = I(V : E) + I(H : E | V) = I(V : E), since
+    I(H : E | V) = 0. Also I(V, H : E) = I(H : E) + I(V : E | H). Equate:
+    I(V : E | H) = I(V : E) − I(H : E) = 0. (ii) Locality: blocks are wide
+    enough that only neighbouring blocks interact, so the Gibbs measure is
+    Markov along the chain and V separates (E_L, B_L) from (B_R, E_R);
+    hence E_L ⊥ E_R | V. (iii) Combine. For h with P(h) > 0 and any v with
+    P(v | h) > 0, (i) gives P(e_L, e_R | h) = P(e_L, e_R | v, h)
+    = P(e_L, e_R | v), the second step because H depends on V only. By (ii)
+    this is P(e_L | v) P(e_R | v). By (i) again, marginalised,
+    P(e_L | v) = P(e_L | h) and P(e_R | v) = P(e_R | h). So
+    P(e_L, e_R | h) = P(e_L | h) P(e_R | h). (iv) The coarse variables of
+    the blocks in E_L are drawn block by block from E_L's spins, and
+    likewise for E_R, so conditional independence passes to them:
+    P(X′_{≤−2}, X′_{≥2} | X′_0) = P(X′_{≤−2} | X′_0) P(X′_{≥2} | X′_0), the
+    coarse buffer X′_{±1} summed out. That is Proposition 1. No term of the
+    marginal coarse measure couples the two sides across X′_0. Reading this
+    as "the renormalized Hamiltonian gains no range" needs the no-fine-
+    tuning exclusion: summing out the coarse buffer must not exactly cancel
+    a longer coupling. Translation invariance is not used.
+blockers: []
+notes: >-
+  A mis-targeted promote_when, as with THEORY-014: the body already
+  disclaims what it asks for. The narrowing is small. It makes the
+  D-dimensional hypotheses explicit and names the computed cases. The
+  0.505 share of information decimation keeps (NOTE-682's own check) stays
+  in the body as the reason the theorem does not cover the worked case.
+unlocks:
+  - "THEORY-194 cites this as the argument for short-ranged effective Hamiltonians; its promote_when asks about the maximizer, which this does not settle."
+next_action: >-
+  Narrow-and-promote PR. Retitle so the factorization is stated for 1D and,
+  in D dimensions, under the per-block capture and no-cancellation
+  hypotheses; keep the numerical clause, naming two-spin blocks of the 1D
+  Ising and dilute random Ising chains. Set Active. Add the Lemma's
+  re-derivation as a dated note. Move the promote_when, unchanged, to a new
+  QUESTION related to QUESTION-065.
