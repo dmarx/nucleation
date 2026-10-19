@@ -264,3 +264,56 @@ as the wave's rate.
   chained with git commands, is refused as "too complex to verify". Put
   the script in the scratchpad, run it alone, then run each git command
   separately.
+
+## 2026-10-19 — batch 007: a control sample for triage-002
+
+**What the control showed.** Five mathematics THEORYs whose promote_when
+has none of triage-002's keywords, drawn by a fixed rule (sorted codes,
+every 8th of 43). Four of five found a promotion path, against 15 of 16
+for the keyword group. That is not a distinguishable difference at these
+sizes, so triage-002's ranking is weakly informative at best. The class
+predicts yield, not the keywords: a mathematical THEORY whose
+promote_when asks for more than its title claims.
+
+**What drives the control's yield.** Three of its four paths (THEORY-233,
+THEORY-297 and THEORY-323's growth half) rest on short record-own proofs
+standing in for a requested reading or second source. The keyword group's
+paths more often rested on readings already done. So a high wave-2 rate
+partly measures how often the record is willing to substitute its own
+proof. That needs the owner's ruling (batch-007.yaml's owner_question,
+and THEORY-277). Until then, every decision that substitutes says so in
+its notes.
+
+**Implications for triaging waves 3 and 5.**
+
+- Don't rank by promote_when wording alone. Score instead (a) whether the
+  promote_when names something the body's "What this does not say"
+  disclaims, which is the bundling that splits, and (b) whether the title
+  is mathematics with short textbook proofs. Both can be read off the
+  entry in one pass.
+- Wave 3 (source-backed, non-mathematical THEORYs) can't use the
+  record-own-proof route. Its yield will depend on whether the NOTE says
+  the source was "read in full" or "followed in outline". Score that from
+  the NOTE's history line, and expect THEORY-106's shape (theorems read
+  only in outline) to be common.
+- Wave 5 (interpretive synthesis) should be sampled, not ranked, the way
+  this batch did. No textual heuristic has yet been shown to predict
+  yield, and a control is cheap.
+- Always draw a small control alongside a ranked batch when a wave
+  starts. Five entries was enough to show the ranking was not doing the
+  work.
+
+**Patterns.**
+
+- *A title broader than its own body.* THEORY-009's title claims "spectral
+  SSL" while its body lists three routes (symmetrized loss, kernel
+  precondition, composition with an adjoint) that contradict it. Read the
+  body's exceptions against the title.
+- *A promote_when about something the THEORY disclaims.* THEORY-233
+  (trained-network magnitude), THEORY-297 (truncation stability) and
+  THEORY-009 (asymmetric objectives) each ask for evidence on a point the
+  body says it does not claim. Move that clause to a QUESTION and judge the
+  title on its own.
+- *"Cited to" inside a THEORY's own list of results.* THEORY-323's
+  white-noise inequality is cited in the source to an unread paper. Grep
+  the body for "cited" before promoting a list of results whole.
