@@ -1,5 +1,8 @@
 ---
+number: 153
 status: Open
+formerly:
+- QUESTION-tmpq3pd7
 title: 'Do the hyperbolic Betti-curve matches in odour space and in CA1 separate a hyperbolic metric from a flat sphere or a flat multiscale code, and do they replicate on other data?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-618 — Proposed; named as the general hypothesis an answer would bear on, not leaned on -->
 
-# QUESTION-tmpq3pd7: Do the hyperbolic Betti-curve matches in odour space and in CA1 separate a hyperbolic metric from a flat sphere or a flat multiscale code, and do they replicate on other data?
+# QUESTION-153: Do the hyperbolic Betti-curve matches in odour space and in CA1 separate a hyperbolic metric from a flat sphere or a flat multiscale code, and do they replicate on other data?
 
 ## Why it is a question
 

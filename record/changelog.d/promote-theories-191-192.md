@@ -1,6 +1,6 @@
 ### Added
 
-- [QUESTION-tmpq3pd7](record/questions.d/QUESTION-tmpq3pd7.md), Open: whether the hyperbolic Betti-curve matches in
+- [QUESTION-153](record/questions.d/QUESTION-153.md), Open: whether the hyperbolic Betti-curve matches in
   odour space and in CA1 separate a hyperbolic metric from a flat sphere
   or a flat multiscale code, and whether they replicate. It holds
   [THEORY-191](record/theory.d/THEORY-191.md)'s and [THEORY-192](record/theory.d/THEORY-192.md)'s former promote_when clauses, unchanged.

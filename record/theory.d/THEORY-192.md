@@ -18,7 +18,7 @@ history:
     sets, and "the fitted radius grows with" becomes "rose with", the
     correlation measured (r = 0.85 across days, r = 0.50 within the long
     track). The promote_when, which asked for a replication and for a flat
-    multiscale null, moves unchanged to QUESTION-tmpq3pd7 and is removed.
+    multiscale null, moves unchanged to QUESTION-153 and is removed.
 tags:
 - neuroscience
 - mathematics
@@ -85,6 +85,6 @@ account for it, and four hours away from the track did not advance it.
   extrapolation of a simulated curve under independent Poisson neurons.
 - **Not general.** Dorsal CA1 of rats, spatial tasks, a few environments;
   the title names the sessions. Whether the match replicates, and whether
-  it survives a flat multiscale null, is [QUESTION-tmpq3pd7](../questions.d/QUESTION-tmpq3pd7.md).
+  it survives a flat multiscale null, is [QUESTION-153](../questions.d/QUESTION-153.md).
   Nothing here says that non-spatial or cortical codes are hyperbolic, or
   that semantic or categorical hierarchies are represented this way.

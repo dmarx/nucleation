@@ -18,7 +18,7 @@ history:
     four sources measured and the 127 odorants rated, and "a uniform
     Euclidean cube" to "any uniform Euclidean cube tried". The promote_when, which
     asked for a replication and for flat near-spherical nulls, moves
-    unchanged to QUESTION-tmpq3pd7 and is removed.
+    unchanged to QUESTION-153 and is removed.
 tags:
 - neuroscience
 - natural-sciences
@@ -91,6 +91,6 @@ the shuffles and high-dimensional hyperbolic balls.
   shell against a full ball, and no mapping between them is fitted.
 - **Not general.** Four odour sources, one perceptual dataset; the title
   names them. Whether the match replicates, and whether it survives flat
-  near-spherical nulls, is [QUESTION-tmpq3pd7](../questions.d/QUESTION-tmpq3pd7.md). Nothing
+  near-spherical nulls, is [QUESTION-153](../questions.d/QUESTION-153.md). Nothing
   here says other sensory or conceptual spaces are hyperbolic, or that a
   co-occurrence embedding of words would be.
