@@ -1,22 +1,25 @@
 ---
 number: 283
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpsluko
-promote_when: >-
-  A proof that gradient descent on a two-layer network, without a
-  spectral initialization or a data split, recovers direction k of a
-  scale-free hierarchical multi-index target at n = Θ(a_k^(−2) d) samples
-  and attains the optimal weighted error. Or the same thresholds proved
-  for a second input law that is not isotropic Gaussian. Either would
-  carry the account from estimators to trained networks, or beyond the
-  one data law. It is refuted inside its regime by a direction that a
-  Bayes-optimal or spectral estimator recovers well below a_k^(−2) d, or
-  one that stays unrecoverable well above it. Simulations of more spikes
-  leaving the bulk cannot settle it, since the result is already proved
-  where it holds.
-title: 'For a two-layer network on a hierarchical multi-index target with Gaussian inputs, direction k becomes recoverable at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples, and a target-agnostic spectral estimator reaches the Bayes-optimal rates'
-version: 1
+title: 'For a hierarchical multi-index target with isotropic Gaussian inputs and even, separable links, direction k becomes weakly recoverable by the Bayes-optimal estimator at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples; a target-agnostic spectral estimator attains the thresholds and the optimal weighted error, and a two-layer network whose first layer is that estimator, with a ridge readout, attains them in excess risk'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision for THEORY-283 (batch 024,
+    ADR-047). The title began "for a two-layer network", which read as a
+    trained network. The thresholds are proved for the Bayes-optimal and
+    spectral estimators, and the network result for Algorithm 1 (spectral
+    first layer, data split, ridge readout); the title now says so and
+    names the target's conditions. The theorems were proved in a work the
+    record has read in full (NOTE-805), so promotion rests on that reading.
+    The promote_when asked for a gradient-descent proof or a second input
+    law, both outside the narrowed title. It moves unchanged to
+    QUESTION-tmp7nyvd.
 tags:
 - learning-theory
 - representation-learning
@@ -37,7 +40,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-229 THEORY-187 THEORY-204 THEORY-201 THEORY-180 — Proposed; accounts this one is set beside, none of them rested on -->
 
-# THEORY-283: For a two-layer network on a hierarchical multi-index target with Gaussian inputs, direction k becomes recoverable at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples, and a target-agnostic spectral estimator reaches the Bayes-optimal rates
+# THEORY-283: For a hierarchical multi-index target with isotropic Gaussian inputs and even, separable links, direction k becomes weakly recoverable by the Bayes-optimal estimator at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples; a target-agnostic spectral estimator attains the thresholds and the optimal weighted error, and a two-layer network whose first layer is that estimator, with a ridge readout, attains them in excess risk
 
 ## Source
 

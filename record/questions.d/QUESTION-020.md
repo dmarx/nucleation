@@ -18,7 +18,7 @@ summary: >-
   improving the interpreter (§5), and an implication (§11); the trade-
   off itself was dropped without critique.
 ---
-<!-- inactive-ok-file: CLAIM-049 CLAIM-074 CLAIM-182 THEORY-169 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: CLAIM-049 CLAIM-074 CLAIM-182 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-118 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: LIT-767 — Unavailable; unread here or set aside, cited as what the exchange or manuscript names and not leaned on -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-258 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->

@@ -29,7 +29,7 @@ summary: >-
   them in excess risk. The cascade is in sample size. The link to
   gradient descent is a remark.
 ---
-<!-- inactive-ok-file: THEORY-283 THEORY-229 THEORY-204 THEORY-201 THEORY-180 THEORY-187 THEORY-039 — Proposed; the account filed from this reading and the accounts of acquisition thresholds it is set beside -->
+<!-- inactive-ok-file: THEORY-229 THEORY-204 THEORY-201 THEORY-180 THEORY-187 THEORY-039 — Proposed; the account filed from this reading and the accounts of acquisition thresholds it is set beside -->
 
 # NOTE-805: Defilippis et al. — Optimal scaling laws in learning hierarchical multi-index models
 

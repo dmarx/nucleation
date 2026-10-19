@@ -28,7 +28,6 @@ summary: >-
   curvature-corrected variant (GD++) rather than gradient descent.
 ---
 
-<!-- inactive-ok-file: THEORY-169 — Proposed; the account this reading supports -->
 
 # NOTE-621: Transformers learn in-context by gradient descent
 
