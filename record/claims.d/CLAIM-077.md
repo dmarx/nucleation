@@ -4,9 +4,22 @@ status: Proposed
 formerly:
 - CLAIM-tmplxhnv
 title: 'A transport is admissible only if it keeps specified observable distinctions apart, which excludes trivial collapse by construction'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Warrant corrected from demonstrated to interpretive at the owner's
+    direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-077.yaml, batch 001, ADR-047).
+    The claim is a proposal for how transport should be defined. Its defeat
+    condition is an impossibility claim that only an argument can meet
+    (CLAIM-238, as narrowed by CLAIM-239), and by ADR-043 a check that turns
+    on how a proposal is read is interpretive. The one mechanical
+    consequence, that the condition excludes constant transports, is now
+    stated in the body. The status stays Proposed. The claim is unchanged.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   No family of observable distinctions can be fixed independently of the
   transports being compared, so that the admissibility condition cannot
@@ -67,3 +80,14 @@ constraints; this rules out constant transports when the anchors distinguish
 multiple source states", with maps "specified using domain knowledge and
 independently anchored observations, not chosen solely to minimize the score".
 Neither the anchor nor the separation condition is in the manuscript.
+
+## Note of 2026-10-19: the warrant, and the one mechanical step
+
+The warrant is interpretive. That transport should be defined by an
+admissibility condition is a proposal, and its defeat condition is met only
+by an argument that no family of distinctions can be fixed independently of
+the transports compared ([QUESTION-005](../questions.d/QUESTION-005.md) asks who fixes them). One step is
+mechanical. If some pair has d_O(s_1, s_2) > δ, a constant Φ sends both to
+one point, at distance 0 ≤ δ′, so it is not admissible. That is what
+"excludes trivial collapse by construction" means, and it holds whatever
+the distinctions are.
