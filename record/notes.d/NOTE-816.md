@@ -27,7 +27,7 @@ summary: >-
   CNNs, and the alignment comes from the separate fits. Steering with the
   orthogonal directions changes correlated concepts less.
 ---
-<!-- inactive-ok-file: THEORY-117 THEORY-185 THEORY-292 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-117 THEORY-292 — Proposed; the accounts this reading bears on, and the one filed from it -->
 
 # NOTE-816: Erogullari et al. — Post-Hoc Concept Disentanglement
 

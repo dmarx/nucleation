@@ -1,19 +1,22 @@
 ---
 number: 263
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpgdeej
-promote_when: >-
-  A check of Theorem 1's proof and of the claim that the rate log
-  dP_{W|S}/dP(W) satisfies Theorem 2's condition at zero distortion,
-  together with a second source deriving a PAC-Bayes bound from a
-  variable-rate covering argument outside finite alphabets. The account
-  is refuted by an algorithm and prior for which the variable-rate bound
-  with that rate fails where the disintegrated PAC-Bayes bound holds, or
-  the reverse. What cannot settle it: whether either bound is tight or
-  non-vacuous for networks, which is a different question.
 title: "A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted at the owner's direction, carrying out the promotion audit's
+    decision for THEORY-263 (batch 036, ADR-047 v2). The title is
+    unchanged. The promote_when asked for a check that the information-density rate gives the bound at zero distortion, which the paper
+    proves only for finite alphabets; the dated note below re-derives that
+    clause in any measurable space, by the disintegrated change of
+    measure. NOTE-806 followed Theorem 1's proof step by step. The
+    promote_when's request for a second source deriving the bound from a
+    variable-rate covering outside finite alphabets moves to QUESTION-174.
 tags:
 - learning-theory
 - information-theory
@@ -110,3 +113,33 @@ rate. The 1/j weighting is what keeps the cost at the realised rate.
 - **[THEORY-238](THEORY-238.md) ([LIT-245](../literature.d/LIT-245.md)).** The same group applies a block-coding
   argument to an encoder's latents, and this paper names that work as an
   extension.
+
+## Note of 2026-10-19: the PAC-Bayes case, re-derived
+
+Let S = (Z_1, …, Z_n) be iid, W ~ P_{W|S}, and ℓ(w, Z) σ-subgaussian for
+each fixed w. Write gen(S, w) for the population loss minus the sample
+mean, and let P be a prior that does not depend on S, with
+P_{W|S} ≪ P.
+
+1. For fixed w, gen(S, w) is the mean of n iid centred σ-subgaussian
+   terms, so it is σ/√n-subgaussian.
+2. If X is τ-subgaussian and 0 ≤ c < 1/(2τ²), then
+   E e^{cX²} ≤ (1 − 2cτ²)^{−1/2}. Write e^{cx²} = E_G e^{√(2c)·Gx} with G
+   standard normal, swap the expectations, and apply the subgaussian
+   bound: E_G e^{cτ²G²} = (1 − 2cτ²)^{−1/2}.
+3. Take F(S, w) = (2n − 1)·gen(S, w)²/(4σ²). Then c = (2n − 1)/(4σ²),
+   τ² = σ²/n and 2cτ² = (2n − 1)/(2n), so E_S e^{F(S, w)} ≤ √(2n) for
+   every w. Since P does not depend on S, ξ = E_{W~P} E_S e^{F(S, W)}
+   ≤ √(2n).
+4. With R_{S,W} = log (dP_{W|S}/dP)(W),
+   E_S E_{W~P_{W|S}} e^{F − R} ≤ E_S E_{W~P} e^{F} = ξ. By Markov's
+   inequality, with probability at least 1 − δ over (S, W),
+   F(S, W) ≤ R_{S,W} + log(√(2n)/δ).
+5. Rearranged, gen(S, W)² ≤ 4σ²(R_{S,W} + log(√(2n)/δ))/(2n − 1). That is
+   Theorem 1's bound at ε = 0 with this rate, with Theorem 1's constants.
+
+So with the rate set to the pointwise information density, the bound
+holds with no coding argument and in any measurable space, and it is the
+disintegrated PAC-Bayes bound (Rivasplata et al.'s Theorem 1.ii, which
+[LIT-233](../literature.d/LIT-233.md) recovers as eq. 29). Whether a covering argument is nevertheless
+the mechanism outside finite alphabets is [QUESTION-174](../questions.d/QUESTION-174.md).

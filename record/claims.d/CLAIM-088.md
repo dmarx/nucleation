@@ -23,7 +23,6 @@ summary: >-
   survey, Chai et al., Zhao et al. 2025), apparently by inadvertence;
   none is in the record.
 ---
-<!-- inactive-ok-file: THEORY-161 — Proposed; semantic rate–distortion as indirect coding, cited for what it implies here, not as settled -->
 
 # CLAIM-088: Task-sensitive information preservation is established in semantic and goal-oriented communication; what is new is applying it to sheaf-structured pragmatic observations under sequential, context-dependent reconstruction
 

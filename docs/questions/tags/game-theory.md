@@ -6,8 +6,8 @@
 
 **Game theory** — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
 
-0 of 172 QUESTION documents. Back to the [full index](../README.md).
+1 of 178 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-173](../../../record/questions.d/QUESTION-173.md) | Does the free-riding structure of truth-and-obstinacy debate survive with more than two debaters or with strategies richer than fixed, memoryless premise and conclusion rules? | The promotion condition formerly on [THEORY-290](../../../record/theory.d/THEORY-290.md), moved here when [THEORY-290](../../../record/theory.d/THEORY-290.md) was narrowed to the two-debater, three-proposition model it was computed in and promoted on 2026-10-19 ([ADR-047](../../../record/decisions.d/ADR-047.md) v3). [LIT-966](../../../record/literature.d/LIT-966.md) finds that debaters who value true belief but pay to revise free-ride on one another's bold arguments, in a model with two players and fixed, memoryless strategies. Whether the structure holds for groups, or for debaters who can target a partner's false beliefs, is not shown. | Open |

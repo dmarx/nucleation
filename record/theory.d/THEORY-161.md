@@ -1,23 +1,24 @@
 ---
 number: 161
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp3ijnj
-promote_when: >-
-  Two kinds of result settle it. For the account of the field: a reading of
-  Liu, Zhang and Poor's framework (ISIT 2021; IEEE Trans. Commun. 2022) and
-  of one further semantic rate–distortion framework not by these authors,
-  each found either to treat meaning as a latent variable with a known
-  joint law with the observation, coded through the observation, or not.
-  A framework whose limit depends on a property of the meaning beyond that
-  joint law and the distortion would refute the general statement. For
-  the two identities: an independent check (a published statement, or a
-  second reader's derivation) that under Zhao et al.'s definitions the
-  expected KL posterior distortion equals I(S;X) − I(S;Y) and the expected
-  TV posterior distortion bounds the excess Bayes risk of bounded losses.
-  Agreement among papers by the same groups does not count for the first.
-title: 'In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value'
-version: 1
+title: 'In Zhao et al.''s (2025) and Chai et al.''s (2023) semantic rate–distortion frameworks, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; Zhao et al.''s posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a bound on the expected lost value of every bounded-loss decision'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-161 (batch 037, ADR-047 v2). The two identities were
+    re-derived step by step, in the dated note below, which is the second
+    reader's derivation the promote_when allowed. The reading of the field
+    is narrowed to the two frameworks the record read in full, Zhao et
+    al. and Chai et al. Liu, Zhang and Poor's framework, known here only
+    through the survey, and the frameworks of 2021–2025 as a class move to
+    QUESTION-177. "A uniform bound on lost decision value" now says
+    what was shown: a bound on the expected lost value of every
+    bounded-loss decision, at the given prior.
 tags:
 - information-theory
 - mathematical-statistics
@@ -42,7 +43,7 @@ supports:
 
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited for the qualitative comparison this account's TV bound quantifies -->
 
-# THEORY-161: In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value
+# THEORY-161: In Zhao et al.'s (2025) and Chai et al.'s (2023) semantic rate–distortion frameworks, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; Zhao et al.'s posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a bound on the expected lost value of every bounded-loss decision
 
 ## Source
 
@@ -111,3 +112,22 @@ for the bottleneck.
   maxima of per-letter expectations ([NOTE-638](../notes.d/NOTE-638.md)); the identities here
   are single-letter and unaffected, but the coding theorems hold for the
   per-letter form.
+
+## Note of 2026-10-19: the two identities, re-derived
+
+**KL.** With S–X–Y Markov, p(s|x,y) = p(s|x). So
+E_{X,Y}[D(p(S|X) ‖ p(S|Y))] = E_{S,X,Y}[log p(S|X) − log p(S|Y)]
+= H(S|Y) − H(S|X) = (H(S) − I(S;Y)) − (H(S) − I(S;X)) = I(S;X) − I(S;Y).
+Minimising I(X;Y) subject to that being at most D_p is
+min{I(X;Y) : I(S;Y) ≥ I(S;X) − D_p}, the information bottleneck with the
+reconstruction as the bottleneck variable.
+
+**TV.** For a loss with values in an interval of length at most 1,
+|E_P L(a,·) − E_Q L(a,·)| ≤ d_TV(P, Q) for each action, so the minima over
+actions differ by at most d_TV too. By the tower rule, the receiver acting
+optimally on p(S|Y) has Bayes risk E_Y[min_a E_{p(S|Y)}L], and the one
+acting on p(S|X) has E_X[min_a E_{p(S|X)}L]. Their difference is therefore
+at most E[d_TV(p(S|X), p(S|Y))], for every such loss at once, at the given
+prior. The bound is on expected risk. Pointwise, the regret of acting on
+p(S|y) when the posterior is p(S|x) can reach 2 d_TV. Whether frameworks
+beyond these two share their form is [QUESTION-177](../questions.d/QUESTION-177.md).

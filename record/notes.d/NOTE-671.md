@@ -41,7 +41,7 @@ summary: >-
   closure edges are in training. Trained on the transitive reduction
   alone, every method fails.
 ---
-<!-- inactive-ok-file: THEORY-189 THEORY-196 THEORY-185 THEORY-186 QUESTION-025 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading produced and the accounts and question it bears on -->
+<!-- inactive-ok-file: THEORY-189 THEORY-196 THEORY-186 QUESTION-025 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading produced and the accounts and question it bears on -->
 
 # NOTE-671: Hyperbolic Entailment Cones for Learning Hierarchical Embeddings
 

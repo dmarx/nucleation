@@ -22,7 +22,7 @@ answered_by:
 refined_by:
 - QUESTION-074
 ---
-<!-- inactive-ok-file: CLAIM-059 CLAIM-106 CLAIM-186 THEORY-161 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: CLAIM-059 CLAIM-106 CLAIM-186 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-056 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-017: What bound on accumulated drift holds when distortion is directed and need not satisfy the triangle inequality?

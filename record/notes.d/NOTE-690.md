@@ -44,7 +44,7 @@ summary: >-
   cylinder. It does not cover the planar block-in-a-shell geometry or
   the fixed-alphabet β → ∞ limit that RSMI uses, which [LIT-878](../literature.d/LIT-878.md) relies on.
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-161 THEORY-017 THEORY-205 QUESTION-025 CLAIM-092 — Proposed or open; cited as accounts this reading underpins or is set beside, the account it produced, and the question and claim it does not answer -->
+<!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-205 QUESTION-025 CLAIM-092 — Proposed or open; cited as accounts this reading underpins or is set beside, the account it produced, and the question and claim it does not answer -->
 
 # NOTE-690: Relevance in the Renormalization Group and in Information Theory
 

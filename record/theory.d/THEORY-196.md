@@ -47,7 +47,7 @@ answers:
 extends:
 - THEORY-734
 ---
-<!-- inactive-ok-file: THEORY-185 QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
+<!-- inactive-ok-file: QUESTION-025 CLAIM-119 — Proposed or open; cited as the accounts this one sits beside -->
 
 # THEORY-196: A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones
 
