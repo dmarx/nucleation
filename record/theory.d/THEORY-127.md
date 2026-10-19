@@ -1,29 +1,10 @@
 ---
 number: 127
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpwsee8
-promote_when: >-
-  A read proof of the general impossibility, Proposition 3 of List and
-  Pettit (2006), which they cite from Dietrich and List (2005) and omit,
-  together with the agenda conditions under which it holds ("strongly
-  connected" agendas, which the paper only names), or a first-hand reading
-  of chapter 3 of Group Agency (LIT-391) that states and proves it. The
-  record would then hold the theorem and not a citation of it, and the
-  account would go Active as a result about judgments. It is refuted only
-  by an error in that proof, or by a robustly rational, non-dictatorial,
-  unanimity-respecting proposition-wise rule on such an agenda under
-  universal domain. The claim's extension beyond categorical judgments, to
-  the corporate attitudes in general that List (2014) names, needs a
-  separate kind of result: an impossibility, or a possibility, proved for
-  that kind of attitude. More cases of the discursive dilemma in courts or
-  committees cannot settle either part. The court-agenda results
-  (Propositions 1, 4 and 5) are already THEORY-725, Active, so this
-  condition bears only on the general impossibility and its extension.
-  Under ADR-047 v2, a step-by-step re-derivation of Proposition 3 for the
-  court agenda, written in a decision file, would meet the first part.
-title: "A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them"
-version: 3
+title: "On the court agenda, and on any agenda in which every proposition reaches every other by conditional entailment and some minimally inconsistent triple stays consistent with two of its members negated, a group whose judgments are robustly rational under universal domain and respect unanimity cannot form its judgment on each proposition from its members' judgments on that proposition alone unless one member dictates; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them"
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -45,6 +26,20 @@ history:
     classes and the extension to corporate attitudes. The promote_when now
     says that it bears only on these. Proposition 3 is requeued for a
     dedicated re-derivation pass. The status stays Proposed.
+- version: 4
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision (record/promotion-audit/decisions/THEORY-127.yaml,
+    batch 023, ADR-047 v2). Proposition 3 is re-derived step by step in
+    that file by the decisive-coalition argument, with Proposition 2 as a
+    corollary. Under ADR-047 v2 this meets the first part of the old
+    promote_when. The title was unconditioned ("interconnected
+    propositions"). That fails on affine agendas such as {p, q, p↔q},
+    where issue-wise parity is a counterexample. The title now names the
+    court agenda and the two conditions the proof uses. The extension to
+    corporate attitudes, the second part of the promote_when, moves to
+    QUESTION-tmpumkgh. The promote_when is removed.
 tags:
 - social-ontology
 - agency
@@ -67,8 +62,11 @@ summary: >-
   to fix the group's judgment on it. List (2014), [LIT-700](../literature.d/LIT-700.md), makes this
   the mark of a third kind of collective attitude: corporate attitudes, a
   group agent's, supervene "holistically", while aggregate and common
-  attitudes supervene proposition by proposition. Proposed: a theorem the
-  record holds by citation, stated for categorical judgments only.
+  attitudes supervene proposition by proposition. Active since 2026-10-19
+  for categorical judgments on the court agenda and on agendas with two
+  stated connectedness conditions: the record re-derived Proposition 3
+  (and Proposition 2 as a corollary) itself. The extension to corporate
+  attitudes in general is QUESTION-tmpumkgh.
 presupposed_by:
 - THEORY-139
 extends:
@@ -84,7 +82,7 @@ supports:
 <!-- inactive-ok-file: THEORY-125 — Proposed; filed in the same batch, Huebner's genuinely collective emotion, named for the parallel, no relation declared -->
 <!-- inactive-ok-file: THEORY-043 THEORY-065 — Proposed; named in Connections for how this bears on group agency, nothing here rests on them -->
 
-# THEORY-127: A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
+# THEORY-127: On the court agenda, and on any agenda in which every proposition reaches every other by conditional entailment and some minimally inconsistent triple stays consistent with two of its members negated, a group whose judgments are robustly rational under universal domain and respect unanimity cannot form its judgment on each proposition from its members' judgments on that proposition alone unless one member dictates; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
 
 ## Source
 
@@ -211,7 +209,7 @@ any member's nor commonly known (§5).
   supervenience stay "extremely limited" and exclude "some of the most
   natural methods of aggregation" (p. 4). That supports this account beyond
   the strict conditions its title states, on the authors' word and not by
-  proof, so `promote_when` is unchanged. The replies also confirm that the
+  proof, so this account does not lean on it. The replies also confirm that the
   premise-based procedure is one illustration, not a recommendation.
   [THEORY-536](THEORY-536.md), their account of group attitudes as real and
   non-redundant, is compatible with this supervenience.
@@ -253,3 +251,46 @@ THEORY Proposed is the general claim its title states: that no
 proposition-wise rule, uniform or not, can do what the premise-based
 procedure does (Propositions 2–3). The source cites that claim without
 proving it.
+
+## Note of 2026-10-19: Proposition 3 re-derived, and the title narrowed
+
+The record now proves Proposition 3, which [LIT-705](../literature.d/LIT-705.md) cites from Dietrich
+and List (2005) without proof. The full steps are in
+record/promotion-audit/decisions/THEORY-127.yaml (batch 023, [ADR-047](../decisions.d/ADR-047.md) v2).
+In outline, with independence, unanimity, universal domain and robust
+rationality:
+
+1. For each literal a, let W_a be the family of coalitions C such that
+   the group accepts a whenever exactly C does. By independence this is
+   well defined. C ∈ W_a exactly when N∖C ∉ W_¬a.
+2. If a minimally inconsistent set contains a and ¬b, then
+   W_a ⊆ W_b. Let C hold a together with the rest of the set, let
+   everyone else hold ¬b together with the rest, and apply unanimity and
+   consistency.
+3. The court agenda {P, Q, R, R↔(P∧Q)} has six minimally inconsistent
+   sets: {¬P, R, B}, {¬Q, R, B}, {¬P, ¬R, ¬B}, {¬Q, ¬R, ¬B},
+   {P, Q, ¬R, B} and {P, Q, R, ¬B}. Through them every literal reaches
+   R and R reaches every literal, so all eight W_a are one family W.
+4. The triple {¬P, R, B} stays consistent with two members negated,
+   {P, ¬R, B}. A profile built on it shows that W is closed under
+   intersection.
+5. W is then an ultrafilter on a finite set, so it is generated by one
+   member, who dictates.
+
+The uniform case, Proposition 2, follows. A uniform rule must be
+self-dual. It must also respect unanimity, because the unanimous profile
+{P, Q, R, B} would otherwise yield the inconsistent {¬P, ¬Q, ¬R, ¬B}.
+
+The title used to say "interconnected propositions" without conditions,
+and that is false. On {p, q, p↔q} the judgment sets form an affine
+subspace over GF(2). There the issue-wise parity rule x₁ ⊕ x₂ ⊕ x₃ is
+independent, unanimous and robustly rational, and it depends on three
+members. So the title now names the court agenda and the two conditions
+the proof uses:
+- every literal reaches every other by conditional entailment;
+- some minimally inconsistent triple stays consistent with two of its
+  members negated.
+
+Whether these coincide with [LIT-705](../literature.d/LIT-705.md) n. 3's "strongly connected" agendas
+is not claimed. The extension to corporate attitudes beyond judgment,
+which [LIT-700](../literature.d/LIT-700.md) proposes, is [QUESTION-tmpumkgh](../questions.d/QUESTION-tmpumkgh.md).

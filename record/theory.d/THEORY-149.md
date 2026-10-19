@@ -24,7 +24,6 @@ answers:
 supports:
 - CLAIM-358
 ---
-<!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, named for a contrast, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-737 — Unavailable, unread; Governing the Commons, named as the book whose principles the lecture restates -->
 
 # THEORY-149: Users can govern a shared resource durably without either privatisation or central control, and the institutions that last are marked not by particular rules but by structural regularities: user-made and user-monitored rules, graduated sanctions, cheap local conflict resolution, recognised rights to self-organise, and nested layers of governance

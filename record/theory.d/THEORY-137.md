@@ -38,7 +38,7 @@ supports:
 - CLAIM-183
 ---
 <!-- inactive-ok-file: LIT-483 — Unavailable, unread; Groups as Agents, named as unread -->
-<!-- inactive-ok-file: THEORY-127 THEORY-139 — Proposed; the group-judgment and corporate-responsibility accounts, named for contrasts -->
+<!-- inactive-ok-file: THEORY-139 — Proposed; the group-judgment and corporate-responsibility accounts, named for contrasts -->
 
 # THEORY-137: Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds
 

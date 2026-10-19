@@ -35,7 +35,6 @@ supports:
 - CLAIM-271
 ---
 <!-- inactive-ok-file: THEORY-139 — Proposed; Pettit's account, named for comparison -->
-<!-- inactive-ok-file: THEORY-127 — Proposed; List & Pettit on group judgment, named for comparison -->
 <!-- inactive-ok-file: THEORY-133 — Proposed; List & Menzies, named for the test this lacks -->
 
 # THEORY-131: A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person

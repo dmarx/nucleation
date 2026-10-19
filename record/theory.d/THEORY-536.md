@@ -36,7 +36,7 @@ summary: >-
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the question this account partly answers, named in Connections -->
 <!-- inactive-ok-file: THEORY-575 — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: LIT-391 — Unavailable, no lawful full text; Group Agency, the book these replies defend and quote -->
-<!-- inactive-ok-file: THEORY-127 THEORY-131 THEORY-137 THEORY-139 THEORY-043 — Proposed; neighbouring accounts of group judgment, corporate agency and attribution, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-131 THEORY-137 THEORY-139 THEORY-043 — Proposed; neighbouring accounts of group judgment, corporate agency and attribution, named and not leaned on -->
 
 # THEORY-536: A group agent's attitudes are real and non-redundant: each group belief needs members' role-based acceptance, by assent in the group's name or by acting on it in an executive role, but that acceptance does not explain or reduce the group belief, because which members' acceptance counts, and that it plays the role of belief, is fixed only from the group-level view
 

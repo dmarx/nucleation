@@ -57,7 +57,7 @@ supports:
 <!-- inactive-ok-file: LIT-701 — Unavailable, no lawful full text; Gilbert's plural-subject account, named as the other "need not be felt" view and known only through Huebner's report, not leaned on -->
 <!-- inactive-ok-file: LIT-697 — Unavailable, no lawful full text; Schmid, named from his abstract as the view that groups can feel, not leaned on -->
 <!-- inactive-ok-file: LIT-426 — Unavailable, unread; Huebner's Macrocognition, named as the book-length programme, not leaned on -->
-<!-- inactive-ok-file: THEORY-126 THEORY-127 — Proposed; filed in the same batch, the convergence account this is compatible with and the group-judgment result this parallels, no relation declared -->
+<!-- inactive-ok-file: THEORY-126 — Proposed; filed in the same batch, the convergence account this is compatible with and the group-judgment result this parallels, no relation declared -->
 <!-- inactive-ok-file: THEORY-043 THEORY-045 THEORY-055 THEORY-057 — Proposed; named in Connections for how this bears on them, nothing here rests on them -->
 
 # THEORY-125: A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown
