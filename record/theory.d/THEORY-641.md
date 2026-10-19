@@ -29,7 +29,6 @@ summary: >-
   and the Gaussian equivalence (half the Granger statistic) are exact.
 ---
 
-<!-- inactive-ok-file: THEORY-275 — Proposed; named as where such a test would apply, nothing here rests on it -->
 
 # THEORY-641: Under a well-specified, identifiable parametric Markov model of the target given the joint past, with ergodic lagged states, transfer entropy is the limit of the normalised log-likelihood ratio for the null of no dependence on the source's past, so it is Granger-sense predictive improvement; for finite-state chains the plug-in estimator is exactly that statistic, and under the null and the usual regularity it is asymptotically χ² with the difference in parameter counts as degrees of freedom
 

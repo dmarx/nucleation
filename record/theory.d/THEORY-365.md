@@ -1,21 +1,23 @@
 ---
 number: 365
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp4zwbu
-promote_when: >-
-  A proof that greedy layered search on the graph HNSW actually builds,
-  with a fixed number of pruned links per element and not an exact
-  Delaunay graph, takes expected O(log N) distance computations to reach
-  a stated recall, under a stated condition on the data, such as bounded
-  intrinsic or doubling dimension. It is refuted for that class by a
-  family of datasets meeting the condition on which the cost needed for
-  a fixed recall grows faster than log N. More benchmarks at fixed
-  dimension cannot settle it. They re-establish low-dimensional
-  measurements that are already held, and they cannot reach the sizes at
-  which the paper says the high-dimensional case could be checked.
-title: "A stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, makes greedy search cost grow about logarithmically with the number of items on uniform random data in 4 and 8 dimensions, where single-layer navigable graphs grow polylogarithmically; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it"
-version: 1
+title: "In one study of a stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed a number of distance computations that grew no worse than logarithmically with the number of items and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-365 (batch 039, ADR-047 v3). The title keeps what LIT-1098's
+    text reports, checked against the extracted text of arXiv v4. Three
+    phrasings that went past it are dropped. Single-layer graphs'
+    polylogarithmic growth is the paper's account of earlier work, and
+    only "below NSW at every size" was measured. At d = 4 the measured
+    quantity is the beam width, not the cost. "Makes" claimed an
+    isolated effect. The promote_when moves unchanged to
+    QUESTION-tmps5cfz.
 tags:
 - databases
 - information-retrieval
@@ -32,13 +34,16 @@ summary: >-
   O(log N) layers. That holds if each layer is an exact Delaunay graph of
   bounded mean degree. HNSW does not build such graphs, and Delaunay
   degree grows exponentially with dimension. For the graphs it does build,
-  logarithmic growth is measured on uniform random data at d = 4 and 8,
-  and at d = 128 (200M SIFT) the growth departs from a logarithm. The
+  cost no worse than logarithmic is measured on uniform random data at
+  d = 8, a saturating beam width at d = 4, and at d = 128 (200M SIFT) the
+  growth departs from a logarithm. A proof for the graphs HNSW builds is
+  QUESTION-tmps5cfz. The
   paper gives no worst-case bound and no recall guarantee. Construction is
   argued to cost about N searches.
 ---
+<!-- inactive-ok-file: THEORY-385 — Proposed; the paper's other finding, set beside, nothing here rests on it -->
 
-# THEORY-365: A stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, makes greedy search cost grow about logarithmically with the number of items on uniform random data in 4 and 8 dimensions, where single-layer navigable graphs grow polylogarithmically; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it
+# THEORY-365: In one study of a stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed a number of distance computations that grew no worse than logarithmically with the number of items and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it
 
 ## Source
 
@@ -86,6 +91,10 @@ efConstruction buys little query speed for much longer builds.
 
 ## What this does not say
 
+- **Not that single-layer graphs were measured to grow
+  polylogarithmically.** The paper measures HNSW below NSW at every
+  size. NSW's polylogarithmic scaling is its account of the authors'
+  earlier work, which is not read here.
 - **No worst-case bound.** The analysis is an expected-case sketch under
   an assumption the index does not meet. Nothing bounds the cost on
   adversarial data, and nothing bounds recall: the search is
@@ -117,3 +126,19 @@ efConstruction buys little query speed for much longer builds.
   log N. That reading is the record's, not the paper's.
 - [THEORY-385](THEORY-385.md) is the paper's other finding, on neighbour selection and
   clustered data.
+
+## Note of 2026-10-19: what the text reports
+
+Checked against pdftotext output of arXiv v4 for the promotion audit. The
+three measured clauses of the title rest on these sentences.
+
+- §5.1, d = 8: "Hierarchical NSW has a complexity scaling for this
+  setting not worse than logarithmic and outperforms NSW at any dataset
+  size".
+- §4.2, d = 4: "the dependence of the required ef parameter … to get a
+  fixed recall saturates with the rise of the dataset size".
+- §5.4, SIFT: "the scaling deviates from the pure logarithm".
+
+The range, 10² to about 10⁸ items, and the shapes of the curves are read
+from Figs. 11, 12b and 15, not from the text. So the title says "no worse
+than logarithmically", not "logarithmically".

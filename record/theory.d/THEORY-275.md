@@ -1,22 +1,10 @@
 ---
 number: 275
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpo4fgq
-promote_when: >-
-  A second system, experimental or exactly solvable, in which units with
-  a known reciprocal coupling are driven on one side at graded strengths.
-  Transfer-entropy asymmetry between them must grow with the drive to
-  one-way flow while the coupling stays symmetric, measured, not only
-  simulated, in the strong-drive regime. It is refuted by a case where
-  directional information measures between reciprocally coupled units
-  stay symmetric under strong one-sided drive, or where they recover the
-  coupling's symmetry without the drive being recorded or intervened on.
-  What cannot settle it: systems whose coupling is itself asymmetric, or
-  further cases in the moderate regime alone, where flow is already
-  two-way.
-title: "Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive"
-version: 2
+title: "In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only"
+version: 3
 history:
 - version: 2
   date: '2026-10-17'
@@ -24,6 +12,15 @@ history:
     A bullet added to What this does not say: "flow" is directed predictive
     improvement, per CLAIM-335, and the paper's transfer entropy uses a
     single target value (TERM-057). The account is unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-275 (batch 039, ADR-047 v3). The title moves from "two
+    symmetrically coupled units" to the one bead system LIT-947 studied,
+    read in full in NOTE-788. The strong-drive regime is marked as
+    numerics of the fitted model. The promote_when, a second system with
+    strong drive measured, moves unchanged to QUESTION-tmpbr2ll.
 tags:
 - information-theory
 - causality
@@ -42,11 +39,12 @@ summary: >-
   drive. In numerics only, flow is one-way at strong drive. With no drive
   the coupled particles are independent at steady state. The paper does
   not test an unrecorded drive shared by both units, and it does not
-  claim that the measures reveal coupling architecture.
+  claim that the measures reveal coupling architecture. Whether the
+  same holds in other reciprocally coupled systems is QUESTION-tmpbr2ll.
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-167 THEORY-129 — Proposed; the architecture claims this account qualifies and the shared-cue account set beside it, open -->
 
-# THEORY-275: Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive
+# THEORY-275: In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only
 
 ## Source
 
@@ -106,6 +104,9 @@ Das, Manikandan and Banerjee (2025), *Physical Review Applied* 24,
   single target value ([TERM-057](../terms.d/TERM-057.md)).
 - **It does not establish the strong-drive result experimentally.** θ ≫ 1
   is "beyond our experimental regime".
+- **It does not say "two-way" against a symmetric null.** The
+  significance threshold is computed on shuffled trajectories. It tests
+  against independence, so "two-way" means both directions clear it.
 - **It is one linear, Gaussian, two-body system** with an analytically
   known covariance. Nothing is shown for nonlinear units or for more than
   two.
@@ -137,3 +138,14 @@ Das, Manikandan and Banerjee (2025), *Physical Review Applied* 24,
 - **[THEORY-129](THEORY-129.md).** Coral colonies synchronized by a shared light cue are
   the case this account does not reach: a common, unrecorded drive on
   every member.
+
+## Note of 2026-10-19: scope at promotion
+
+Promoted on one study read in full ([ADR-047](../decisions.d/ADR-047.md) v3). Each ordering in the
+title is stated in [LIT-947](../literature.d/LIT-947.md)'s text: the moderate-drive orderings beside
+Figs. 3–4 and in App. F, strong drive in App. D, no drive in App. H. [NOTE-788](../notes.d/NOTE-788.md) read the figures from their
+captions, so the title gives orderings and no values. The general claim,
+that directional information measures between reciprocally coupled units
+follow a one-sided drive, is [QUESTION-tmpbr2ll](../questions.d/QUESTION-tmpbr2ll.md). In the linear Gaussian
+pair it could be settled exactly, because delayed-MI asymmetry there is
+c_xy(τ)² − c_yx(τ)², computable from the stationary covariance.

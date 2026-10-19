@@ -41,7 +41,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question this reply keeps apart from system-hood -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected by this reply; cited as the objection answered -->
-<!-- inactive-ok-file: THEORY-275 — Proposed; the reading that sets a limit on observational tests of direction -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-172 CLAIM-175 — Proposed; the criterion this defends, the entrainment claim it revises and the owner's couple claim, open -->
 
 # CLAIM-167: One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership

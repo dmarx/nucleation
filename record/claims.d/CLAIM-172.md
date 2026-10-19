@@ -110,7 +110,7 @@ complements:
 ---
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the owner's challenge that occasioned version 3, open -->
 <!-- inactive-ok-file: CLAIM-163 CLAIM-165 — Proposed; the earlier objection this bears on and the open objection to this claim -->
-<!-- inactive-ok-file: THEORY-265 THEORY-275 — Proposed; the model case that supports and sharpens the criterion, and the reading that limits observational tests of direction -->
+<!-- inactive-ok-file: THEORY-265 — Proposed; the model case that supports and sharpens the criterion, and the reading that limits observational tests of direction -->
 <!-- inactive-ok-file: THEORY-069 — Proposed; the coordination-dynamics reading the criterion is drawn from, with its unread originals -->
 
 # CLAIM-172: Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
