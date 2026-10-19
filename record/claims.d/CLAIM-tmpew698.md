@@ -33,7 +33,6 @@ line:
 - formal-apparatus
 grounds:
 - THEORY-717
-- CLAIM-323
 supports:
 - CLAIM-259
 - CLAIM-326
