@@ -60,6 +60,8 @@ recommendation: >-
   THEORY-590 and THEORY-690 in wave 5. Give THEORY-614 one dedicated
   retrieval of LIT-797 Appendix B, like THEORY-127's pass.
 owner_questions: []
+promotion_prs:
+  - "#215: THEORY-478 narrow-and-promote, THEORY-231 promote, THEORY-614 correction (branch claude/promote-theories-478-231-correct-614)."
 follow_up_prs:
   - "THEORY-478: narrow-and-promote. Retitle to the conditional equivalence under the Hellinger bounds (H1)–(H2) with α < θ/β. Add a dated note with the re-derivation. The promote_when (tree heat-kernel bounds, data bridge) moves to a new QUESTION related to QUESTION-025."
   - "THEORY-231: promote. Add a dated note with definitions (D1)–(D4) and Steps 1–4, including the derivation of the prepare-measure realizability claim."
