@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 77
+version: 78
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-010
   state: selected
-  in_review: THEORY-021
+  in_review: null
   next_step: 'Batch 010 (wave 2): THEORY-565 (triage-002''s last), then triage-003''s top four: THEORY-014,
     THEORY-084, THEORY-180, THEORY-021.'
   cautions:
@@ -26,8 +26,8 @@ waves:
   promotion_paths: 10
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 34
-  promotion_paths: 31
+  reviewed: 35
+  promotion_paths: 32
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 0
@@ -783,7 +783,10 @@ candidates:
     read: 1
   supports: 0
   triage: triage-003
-  state: in_review
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-010
+  decision: decisions/THEORY-021.yaml
 - code: THEORY-022
   wave: 2
   score: 3
@@ -1230,4 +1233,7 @@ history:
 - version: 77
   date: '2026-10-19'
   note: 'Batch 010: THEORY-180 split. THEORY-021 in review.'
+- version: 78
+  date: '2026-10-19'
+  note: 'Batch 010: THEORY-021 narrow-and-promote.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
