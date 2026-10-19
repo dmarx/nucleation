@@ -1,8 +1,8 @@
 # Luria configuration for nucleation.
 #
 # Nucleation is the catchall companion to the Anthology of the SOTA
-# (dmarx/anthology-of-the-sota): it holds reading whose subject no anthology
-# topic can hold, so that "out of scope there" never means "unrecorded". The
+# (dmarx/anthology-of-the-sota): it holds whatever reading the owner files
+# here, so that "out of scope there" never means "unrecorded" (ADR-048). The
 # scheme definitions for LIT, NOTE and THEORY are ported from the anthology's
 # own config, so a work can move between the two records without being
 # re-shaped. What is dropped is the anthology's product — SOTA practices and
@@ -15,12 +15,12 @@
 vocabularies:
   topics:
     label: Topics
-    blurb: 'What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose
-      subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage
-      of 2026-09-25 found, and grow by decision.'
+    blurb: 'What a work is about. Nucleation holds whatever reading the owner files here, whether or not
+      an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology
+      (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and
+      grow by decision.'
     alert: Closed so that every tag is one somebody chose and blurbed, not because the list is finished.
-      If a work wants a word this list lacks, add it with a label, a blurb and a decision. If a work fits
-      an anthology topic, it belongs in the anthology, not here.
+      If a work wants a word this list lacks, add it with a label, a blurb and a decision.
     terms:
       quantum-foundations:
         label: Quantum foundations
@@ -215,7 +215,7 @@ vocabularies:
         blurb: 'religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated'
       anthology-candidate:
         label: Anthology candidate
-        blurb: 'a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags)'
+        blurb: 'a curation flag, not a subject — somebody judged the Anthology of the SOTA may want this work as well; it stays here unless a transfer is decided, and is never a primary topic (ADR-005, ADR-048; group: flags)'
   lit-statuses:
     label: Paper statuses
     blurb: 'A work''s standing in this record: whether it is worth reading. Not whether its findings are

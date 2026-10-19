@@ -3,7 +3,8 @@
 you gotta start somewhere, right?
 
 The catchall companion to the [Anthology of the SOTA](https://github.com/dmarx/anthology-of-the-sota):
-a record of reading whose subject the anthology's topics cannot hold —
+a record of whatever reading gets filed here, whether or not the anthology
+could also hold it —
 quantum foundations, network science, complex systems, mathematics,
 neuroscience, and whatever else gets read closely enough to be worth
 keeping. Same shape as the anthology's reading list — a note per work, a
