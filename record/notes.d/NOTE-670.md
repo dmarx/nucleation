@@ -30,7 +30,7 @@ summary: >-
   data shown are the olfactory embedding of Zhou, Smith & Sharpee (2018).
 ---
 
-<!-- inactive-ok-file: THEORY-185 THEORY-192 THEORY-188 CLAIM-119 — Proposed; cited as the accounts this reading is set against -->
+<!-- inactive-ok-file: THEORY-185 THEORY-188 CLAIM-119 — Proposed; cited as the accounts this reading is set against -->
 <!-- inactive-ok-file: LIT-270 — Rejected; cited for its reading's point that Zipf-like curves do not identify a mechanism -->
 
 # NOTE-670: An argument for hyperbolic geometry in neural circuits

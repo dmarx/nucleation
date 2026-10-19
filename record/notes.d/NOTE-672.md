@@ -36,7 +36,7 @@ summary: >-
   model is not recovered from the data.
 ---
 
-<!-- inactive-ok-file: THEORY-191 THEORY-192 THEORY-196 THEORY-188 THEORY-185 — Proposed; cited as the THEORY this reading sources, as sibling findings in the batch, and as the account QUESTION-025 builds on -->
+<!-- inactive-ok-file: THEORY-196 THEORY-188 THEORY-185 — Proposed; cited as the THEORY this reading sources, as sibling findings in the batch, and as the account QUESTION-025 builds on -->
 
 # NOTE-672: Hyperbolic geometry of the olfactory space
 

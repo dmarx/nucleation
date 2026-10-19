@@ -40,7 +40,6 @@ summary: >-
   three dimensions cites Mostow's theorem, which concerns finite-volume
   manifolds and says nothing about noisy point clouds.
 ---
-<!-- inactive-ok-file: THEORY-191 THEORY-192 — Proposed; the two findings this account extends, open like it -->
 <!-- inactive-ok-file: THEORY-188 — Proposed; the hyperbolic random-graph account, named in Connections and not leaned on -->
 <!-- inactive-ok-file: LIT-270 — Rejected; named as the reading that shows Zipf curves arise without meaning, not leaned on -->
 

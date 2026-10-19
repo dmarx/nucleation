@@ -1,19 +1,24 @@
 ---
 number: 192
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpae88o
-promote_when: >-
-  An independent analysis, on CA1 recordings other than the CRCNS hc-3 and
-  48-m-track sessions used here or by another group on the same data,
-  finds the same Betti-curve match to a 3D hyperbolic ball AND rejects
-  Euclidean models in which a size coordinate is exponentially distributed
-  (multiscale fields in a flat space), not only uniform Euclidean cubes.
-  A replication that again compares hyperbolic against uniform Euclidean
-  sampling alone does not count, because that comparison cannot separate
-  a hyperbolic metric from an exponential distribution of field scales.
-title: 'Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time'
-version: 1
+title: 'In twelve sessions of rat dorsal CA1 from three data sets, pairwise correlations among place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius rose with the logarithm of exploration time'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-192.yaml, batch 018). The
+    owner's rule of 2026-10-19 (ADR-047 v3): one study read in full can
+    promote an empirical THEORY whose title claims no more than that study
+    measured. The title is narrowed to the twelve sessions from three data
+    sets, and "the fitted radius grows with" becomes "rose with", the
+    correlation measured (r = 0.85 across days, r = 0.50 within the long
+    track). The promote_when, which asked for a replication and for a flat
+    multiscale null, moves unchanged to QUESTION-tmpq3pd7 and is removed.
 tags:
 - neuroscience
 - mathematics
@@ -32,7 +37,7 @@ extended_by:
 - THEORY-618
 ---
 
-# THEORY-192: Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius grows with the logarithm of exploration time
+# THEORY-192: In twelve sessions of rat dorsal CA1 from three data sets, pairwise correlations among place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius rose with the logarithm of exploration time
 
 ## Source
 
@@ -78,6 +83,8 @@ account for it, and four hours away from the track did not advance it.
 - **Not that the radius is optimal.** The match between the measured
   radius and the Fisher-optimal one for CA1's cell count is an
   extrapolation of a simulated curve under independent Poisson neurons.
-- **Not general.** Dorsal CA1 of rats, spatial tasks, a few environments.
+- **Not general.** Dorsal CA1 of rats, spatial tasks, a few environments;
+  the title names the sessions. Whether the match replicates, and whether
+  it survives a flat multiscale null, is [QUESTION-tmpq3pd7](../questions.d/QUESTION-tmpq3pd7.md).
   Nothing here says that non-spatial or cortical codes are hyperbolic, or
   that semantic or categorical hierarchies are represented this way.
