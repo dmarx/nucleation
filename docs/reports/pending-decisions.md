@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**791 document(s) awaiting a decision.**
+**790 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 791.
+95 of the 790.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-464 of the 791.
+463 of the 790.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -275,8 +275,7 @@
 | 2026-10-13 | Proposed | [THEORY-210](../../record/theory.d/THEORY-210.md) | 21 | 3 | Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss |
 | 2026-10-13 | Proposed | [THEORY-222](../../record/theory.d/THEORY-222.md) | 19 | 3 | A coarse-grained macro description can carry more effective information than the micro description it supervenes on, so the scale at which a system's causal structure is most effective can be a macro scale |
 | 2026-10-13 | Proposed | [THEORY-212](../../record/theory.d/THEORY-212.md) | 14 | 2 | In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic |
-| 2026-10-13 | Proposed | [THEORY-216](../../record/theory.d/THEORY-216.md) | 12 | 1 | On a contested shared canvas, lasting artworks are those whose coalitions keep working under continual overwriting, participants consolidate into large coalitions as the event proceeds, and which coalitions survive is barely predictable from their size, area, start time and colour complexity until late |
-| 2026-10-13 | Proposed | [THEORY-214](../../record/theory.d/THEORY-214.md) | 11 | 2 | Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning |
+| 2026-10-13 | Proposed | [THEORY-214](../../record/theory.d/THEORY-214.md) | 12 | 2 | Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning |
 | 2026-10-13 | Proposed | [THEORY-218](../../record/theory.d/THEORY-218.md) | 11 | 2 | The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated |
 | 2026-10-13 | Proposed | [THEORY-220](../../record/theory.d/THEORY-220.md) | 11 | 6 | A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights |
 | 2026-10-13 | Proposed | [THEORY-217](../../record/theory.d/THEORY-217.md) | 7 | 3 | A trait malfunctions when its operation does not correlate positively with the normative field, the minimum change its organization's viability requires at each precarious state; malfunction needs no second order of regulatory norms, and regulatory traits can malfunction by the same standard |
@@ -582,7 +581,7 @@
 
 ## ADRs
 
-2 of the 791.
+2 of the 790.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -591,7 +590,7 @@
 
 ## QUESTIONs
 
-9 of the 791.
+9 of the 790.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -607,7 +606,7 @@
 
 ## CLAIMs
 
-216 of the 791.
+216 of the 790.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -763,16 +762,16 @@
 | 2026-10-12 | Proposed | [CLAIM-262](../../record/claims.d/CLAIM-262.md) | 1 | 1 | Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur |
 | 2026-10-13 | Proposed | [CLAIM-288](../../record/claims.d/CLAIM-288.md) | 45 | 4 | A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself |
 | 2026-10-13 | Proposed | [CLAIM-284](../../record/claims.d/CLAIM-284.md) | 29 | 0 | A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists |
-| 2026-10-13 | Proposed | [CLAIM-280](../../record/claims.d/CLAIM-280.md) | 27 | 5 | A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts |
+| 2026-10-13 | Proposed | [CLAIM-280](../../record/claims.d/CLAIM-280.md) | 28 | 5 | A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts |
 | 2026-10-13 | Proposed | [CLAIM-277](../../record/claims.d/CLAIM-277.md) | 25 | 5 | Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early |
 | 2026-10-13 | Proposed | [CLAIM-285](../../record/claims.d/CLAIM-285.md) | 23 | 0 | An endorsement scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation |
 | 2026-10-13 | Proposed | [CLAIM-279](../../record/claims.d/CLAIM-279.md) | 20 | 2 | Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator |
 | 2026-10-13 | Proposed | [CLAIM-269](../../record/claims.d/CLAIM-269.md) | 14 | 7 | A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts |
 | 2026-10-13 | Proposed | [CLAIM-274](../../record/claims.d/CLAIM-274.md) | 11 | 1 | Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself |
 | 2026-10-13 | Proposed | [CLAIM-278](../../record/claims.d/CLAIM-278.md) | 10 | 3 | An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids |
+| 2026-10-13 | Proposed | [CLAIM-273](../../record/claims.d/CLAIM-273.md) | 9 | 1 | A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability |
 | 2026-10-13 | Proposed | [CLAIM-281](../../record/claims.d/CLAIM-281.md) | 9 | 1 | Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions |
 | 2026-10-13 | Proposed | [CLAIM-272](../../record/claims.d/CLAIM-272.md) | 8 | 0 | Giving every member an equal budget of actions does not equalize their influence, because coordination lets a member's plan direct other members' actions, so a cap on self-allocation constrains action and not authority |
-| 2026-10-13 | Proposed | [CLAIM-273](../../record/claims.d/CLAIM-273.md) | 8 | 1 | A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability |
 | 2026-10-13 | Proposed | [CLAIM-287](../../record/claims.d/CLAIM-287.md) | 8 | 4 | What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation |
 | 2026-10-13 | Proposed | [CLAIM-266](../../record/claims.d/CLAIM-266.md) | 7 | 1 | A family of probes that supplies an optimized system's training signal cannot also certify what the system preserves: optimization pushes toward whatever the probes reward, including what they cannot see, so preservation must be shown under probes not used to train it |
 | 2026-10-13 | Proposed | [CLAIM-271](../../record/claims.d/CLAIM-271.md) | 7 | 5 | A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support |
@@ -830,7 +829,7 @@
 
 ## CASEs
 
-1 of the 791.
+1 of the 790.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -838,7 +837,7 @@
 
 ## TERMs
 
-2 of the 791.
+2 of the 790.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -847,7 +846,7 @@
 
 ## ARGs
 
-2 of the 791.
+2 of the 790.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

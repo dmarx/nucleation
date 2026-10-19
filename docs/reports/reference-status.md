@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**511 documents cited without acknowledgement.** Not listed: 9963 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**510 documents cited without acknowledgement.** Not listed: 9955 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2387,7 +2387,7 @@ Durable authority among an organization's processes need not be a primitive: tru
 
 A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts
 
-5 citations in 3 files await a look; 22 other citations of it are acknowledged.
+5 citations in 3 files await a look; 23 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-102.md:56`](../../record/cases.d/CASE-102.md)
 - [`record/claims.d/CLAIM-329.md:41`](../../record/claims.d/CLAIM-329.md)
@@ -4707,7 +4707,7 @@ In a two-layer linear network trained by gradient flow, the relative scale of th
 
 Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning
 
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
+2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-111.md:27`](../../record/cases.d/CASE-111.md)
 - [`record/cases.d/CASE-111.md:111`](../../record/cases.d/CASE-111.md)
@@ -5165,7 +5165,7 @@ A family of probes that supplies an optimized system's training signal cannot al
 
 A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability
 
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-913.md:75`](../../record/literature.d/LIT-913.md)
 
@@ -5679,7 +5679,7 @@ Rhythmic bimanual coordination switches from anti-phase to in-phase through a no
 
 1 citation in 1 file awaits a look; 22 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-273.md:131`](../../record/claims.d/CLAIM-273.md)
+- [`record/claims.d/CLAIM-273.md:140`](../../record/claims.d/CLAIM-273.md)
 
 ### [THEORY-078](../../record/theory.d/THEORY-078.md) — Proposed
 
@@ -5832,14 +5832,6 @@ Agency is multiply realisable without cognition or mental states, and AI is a ne
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-032.md:90`](../../record/questions.d/QUESTION-032.md)
-
-### [THEORY-216](../../record/theory.d/THEORY-216.md) — Proposed
-
-On a contested shared canvas, lasting artworks are those whose coalitions keep working under continual overwriting, participants consolidate into large coalitions as the event proceeds, and which coalitions survive is barely predictable from their size, area, start time and colour complexity until late
-
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-272.md:76`](../../record/claims.d/CLAIM-272.md)
 
 ### [THEORY-229](../../record/theory.d/THEORY-229.md) — Proposed
 

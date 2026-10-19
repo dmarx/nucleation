@@ -29,7 +29,7 @@ history:
     universal "lasting artworks are those whose coalitions keep working
     under continual overwriting" became an existence clause, so the first
     bullet below now cites that form, with the population question in
-    QUESTION-tmp4zyze. The claim is unchanged.
+    QUESTION-169. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -92,7 +92,7 @@ the outside ([NOTE-424](../notes.d/NOTE-424.md), C6). The r/place readings meet 
 - Under 7% of 2017 updates survive to the end, and some lasting artworks
   were held by coalitions that kept placing under sustained overwriting
   ([THEORY-216](../theory.d/THEORY-216.md)). Whether lasting artworks typically persist that way is
-  open ([QUESTION-tmp4zyze](../questions.d/QUESTION-tmp4zyze.md)).
+  open ([QUESTION-169](../questions.d/QUESTION-169.md)).
 - Compositions persist as a balance of attack and repair, and are
   overthrown when attack outruns defence or defence lapses ([THEORY-214](../theory.d/THEORY-214.md)).
 - The pattern is a property of the flow, not of the pixels, which turn

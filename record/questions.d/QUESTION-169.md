@@ -1,5 +1,8 @@
 ---
+number: 169
 status: Open
+formerly:
+- QUESTION-tmp4zyze
 title: 'On a contested shared canvas, do lasting artworks as a population receive sustained overwrites and repairs, and does adding interaction features make coalition survival predictable early?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-280 CLAIM-273 THEORY-214 — Proposed; claims this question would test and a sister reading, cited as open -->
 
-# QUESTION-tmp4zyze: On a contested shared canvas, do lasting artworks as a population receive sustained overwrites and repairs, and does adding interaction features make coalition survival predictable early?
+# QUESTION-169: On a contested shared canvas, do lasting artworks as a population receive sustained overwrites and repairs, and does adding interaction features make coalition survival predictable early?
 
 ## Why it is a question
 

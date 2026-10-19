@@ -17,7 +17,7 @@ history:
     coalitions keep working under continual overwriting" becomes an
     existence clause, since it rests on ten illustrated lifecycles. The
     promote_when, a population measure of repair and a test with
-    interaction features, moves unchanged to QUESTION-tmp4zyze.
+    interaction features, moves unchanged to QUESTION-169.
 tags:
 - social-science
 - complex-systems
@@ -111,7 +111,7 @@ recovered coalitions.
   from coarse coalition features. The two do not conflict. One predicts an
   imminent event from fine dynamics, the other a final outcome from four
   static features.
-- **[QUESTION-tmp4zyze](../questions.d/QUESTION-tmp4zyze.md).** What this account leaves open: whether lasting
+- **[QUESTION-169](../questions.d/QUESTION-169.md).** What this account leaves open: whether lasting
   artworks as a population were sustained by repair, and whether
   interaction features restore early predictability. It was this
   account's promotion condition until 2026-10-19.
