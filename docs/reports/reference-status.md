@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**511 documents cited without acknowledgement.** Not listed: 10062 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**511 documents cited without acknowledgement.** Not listed: 10063 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2267,7 +2267,7 @@ A communicative object is a context-indexed system of empirical constraints over
 
 Local transport errors propagate through later reconstructions according to the dynamics of those reconstructions, so the same local error can be damped, accumulated or amplified, and local similarity can coexist with large global drift
 
-5 citations in 2 files await a look; 29 other citations of it are acknowledged.
+5 citations in 2 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:14`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:48`](../../record/decisions.d/ADR-040.md)
