@@ -1,0 +1,44 @@
+# record/promotion-audit/decisions/THEORY-191.yaml
+id: THEORY-191
+batch: batch-011
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    The title reports what Zhou, Smith & Sharpee measured, in the source's
+    own terms. Four odour sources' Betti curves fall inside a 3D hyperbolic
+    shell's distribution and outside every uniform Euclidean cube tried,
+    and Dravnieks' descriptor profiles fit a full 3D hyperbolic ball.
+    NOTE-672 grades both C1 and C3 moderate. The test could reject, since
+    it rejected the cubes, the shuffles and hyperbolic balls of high
+    dimension.
+  excluded: >-
+    The title's general subject, "in natural odour sources", on one study
+    of four sources, with Supplementary tables S1–S5 not seen (NOTE-672's
+    history line). The record has no route to promote a single moderate
+    empirical study on its own reading. There is nothing to re-derive: the
+    claim is a measurement, not a theorem. NOTE-672 says "the equations
+    were followed, not re-derived".
+evidence:
+  - "NOTE-672 (Read in full, figures and Supplementary Materials not seen): C1 moderate ('four datasets, shuffle control, two scoring rules; the only flat null is a uniform cube'); C3 moderate ('one dataset of 127 odorants')."
+  - "The promote_when has two halves. The replication clause tests the title's generality. The sphere-null clause tests a claim the body disclaims (hyperbolic metric as against a flat sphere), which the title does not make."
+blockers:
+  - "No independent analysis of another odour data set, or by another group, in the record."
+notes: >-
+  Not a wave-2 entry. Its "mathematics" tag comes from the topology used,
+  but its claim is an empirical measurement, so it belongs in wave 3
+  (source-backed). Half its promote_when is mis-targeted in THEORY-014's
+  way. The sphere-versus-hyperbolic test could move to a QUESTION, and
+  the condition would then ask only for replication. That edit changes no
+  status, so it is left to wave 3, together with the policy question
+  below. THEORY-618 extends this entry and THEORY-192.
+unlocks: []
+next_action: >-
+  Requeue in wave 3. There, decide the policy for single-study,
+  carefully hedged titles (see batch-011.yaml's owner question). If the
+  owner accepts promoting a moderate single study whose title says only
+  what was measured, narrow the title to "in four natural odour sources",
+  move the sphere-null clause to a QUESTION, and promote.

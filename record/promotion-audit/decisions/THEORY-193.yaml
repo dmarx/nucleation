@@ -1,0 +1,125 @@
+# record/promotion-audit/decisions/THEORY-193.yaml
+id: THEORY-193
+batch: batch-011
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    After correction: the growth statistics the source derives (the degree
+    law by master equation, which NOTE-678 followed and checked for its
+    exponent), the tree structure of the gluing, and the result the
+    promote_when asks for. The 1-skeleton's graph metric is Gromov
+    hyperbolic, with geodesic triangles 2-thin for every N, every d ≥ 1
+    and every flavor s. So the coarse hyperbolicity of the network is a
+    consequence of the growth, not of the equal-length convention. That
+    meets the promote_when under ADR-047 v2, by the re-derivation below.
+    Its first alternative is "the graph metric of the grown complex's
+    1-skeleton is Gromov δ-hyperbolic with δ bounded independently of N",
+    asked "for at least the manifold flavor".
+
+    Re-derivation (δ ≤ 2, Rips thin triangles).
+    (0) The decomposition. Let T have one node per d-simplex. The parent of
+    a non-initial simplex σ, glued on face α, is the earliest simplex
+    containing α. Each node's bag B_σ is the set of σ's d + 1 vertices, a
+    clique of G, the 1-skeleton.
+    (1) This is a tree decomposition. (a) Every vertex and every edge lies
+    in some bag, because edges are created only as edges of a new simplex.
+    (b) For each vertex v, the simplices containing v form a connected
+    subtree. If v ∈ σ and v is not σ's new vertex, then v ∈ α ⊆ parent(σ).
+    So following parents from any simplex containing v stays among
+    simplices containing v, and ends at the simplex that created v (or the
+    initial simplex).
+    (2) The separation lemma. If node w lies on the T-path between a bag
+    containing u and a bag containing v, every u–v path in G meets B_w.
+    Proof: suppose a path avoids B_w. No vertex on it has w in its subtree.
+    Consecutive vertices share a bag (their edge lies in one), so their
+    subtrees meet. The union of the subtrees along the path is then
+    connected in T − w, and it joins a bag of u to a bag of v. That
+    contradicts w separating them.
+    (3) Thinness. Take any geodesic triangle with vertices x, y, z and any
+    geodesics, and a point p on [x, y]. Choose bags t_x, t_y, t_z
+    containing x, y, z and t_p containing p. Let Y be the subtree of T
+    spanned by t_x, t_y, t_z, a tripod with centre m, and let q be the
+    node of Y nearest t_p. The T-path from t_p to any node of Y passes
+    through q.
+    Case q on the leg [t_x, m]. The T-paths t_p → t_x and t_p → t_y both
+    pass through q. By (2), the sub-geodesic [x, p] meets B_q at some p′,
+    and [p, y] meets it at some p″. All three lie on the geodesic [x, y]
+    in the order p′, p, p″, so d(p′, p) + d(p, p″) = d(p′, p″) ≤ 1, since
+    B_q is a clique. The T-path t_x → t_z runs along the same leg through
+    q, so [x, z] meets B_q at some c′. Then
+    d(p, [x, z]) ≤ d(p, p′) + d(p′, c′) ≤ 1 + 1 = 2.
+    Case q on [t_y, m]: the same argument, with [y, z] in place of
+    [x, z].
+    Case q on [t_z, m], including q = m: the T-paths from t_p to t_x and
+    to t_y both pass through m. So [x, p] and [p, y] meet B_m, and
+    d(p, B_m) ≤ 1 as before. The T-path t_x → t_z passes through m, so
+    [x, z] meets B_m, and d(p, [x, z]) ≤ 2.
+    So every side lies in the 2-neighbourhood of the other two: δ ≤ 2,
+    independently of N, d and s. The growth probabilities never enter.
+    (Equivalently, the 1-skeleton is chordal, because each new vertex's
+    neighbourhood is a clique, and its tree-length is 1. Results of the
+    form "chordal graphs are 1-hyperbolic" (Brinkmann, Koolen & Moulton,
+    2001) and "δ ≤ tree-length" are known, but the record holds no LIT for
+    them. The argument above is self-contained.)
+  excluded: >-
+    Three parts of the current title and body that need correcting.
+    (1) "is a tiling of hyperbolic d-space by ideal simplices". This holds
+    for d = 2 in the manifold flavor s = −1. There each new vertex lies on
+    the open arc cut off by its parent edge, so drawn triangles have
+    disjoint interiors and fill the disc as every free edge is glued. It
+    fails for s = 0, 1, where siblings coincide (NOTE-678). It cannot hold
+    as a face-to-face tiling for d ≥ 3. For d ≥ 3, a (d − 2)-face of an
+    ideal simplex has at least two ideal vertices, so it meets H^d. In a
+    locally finite face-to-face tiling, the tiles around such a face form
+    a finite cycle, each sharing a (d − 1)-face with the next, with
+    dihedral angles summing to 2π. But the grown complex has no cycles of
+    face-adjacent simplices. So around each (d − 2)-face the drawn
+    simplices form a path, and they either overlap once their angles pass
+    2π or fail to close up. The source's "a tree of ideal simplices tiles
+    H^d" is asserted, and NOTE-678 grades it weak. (2) "has a tree as its
+    dual" holds as stated (simplices linked when they share a face) only
+    for s = −1. For s = 0, 1, several simplices can be glued on one face,
+    which makes a clique in that graph. What is a tree for every flavor is
+    the gluing or parent structure used in (0). (3) "though the curvature
+    comes from the equal-length convention and not from the growth". This
+    holds for the constant curvature of the drawing, but the re-derivation
+    shows the graph's own coarse hyperbolicity comes from the growth. The
+    clause should say which curvature it means.
+evidence:
+  - "NOTE-678 (Read in full; every derivation followed): C3 'The dual of the complex is a tree', strong, 'immediate from the rule'; C4 (the equal-length geometry is hyperbolic d-space filled by ideal simplices) weak, 'a construction and an argument; no proof of uniqueness or of hyperbolicity of the graph metric'. Methods: for s = 0, 1 sibling nodes coincide in the drawing."
+  - "The re-derivation above (tree decomposition with clique bags, the separation lemma, a three-case thin-triangle bound)."
+  - "The promote_when says either bound 'would make the hyperbolicity a property of the network rather than of the drawing the source chooses'. The record now has the first bound, for every flavor."
+blockers:
+  - "The title's tiling clause is false for d ≥ 3 as a face-to-face tiling, and for s = 0, 1 in any d. Its dual-tree clause is exact only for s = −1. Both must be corrected before promotion."
+notes: >-
+  This is the fourth scope error in a correct construction, after
+  CLAIM-264, CLAIM-123 and THEORY-686. NOTES' test of "the smallest
+  degenerate case" would have caught it at d = 3, with the cycle of
+  tetrahedra around an edge. The result also turns the entry's own moral
+  around. Its last clause says the curvature is a convention, but the
+  network's coarse geometry is hyperbolic whatever convention is drawn,
+  and only the constant-curvature picture is chosen. The bound needs only
+  that the complex is grown by gluing on single faces. That makes it a
+  record-own result about a class of graphs, so a CLAIM could hold it
+  under ADR-032. It is kept inside the THEORY because the promote_when
+  asks for exactly it, and ADR-047 v2 lets a re-derivation in the decision
+  file meet that request.
+unlocks:
+  - "THEORY-188 (real networks' hyperbolicity) and THEORY-196 (Sarkar–Sala) sit beside this one. Neither rests on it."
+  - "QUESTION-025 cites THEORY-193 on hierarchy in embeddings; the correction does not change that answer."
+next_action: >-
+  Promotion PR (correct, then promote). Retitle along these lines: "A
+  simplicial complex grown by gluing each new d-simplex to one (d −
+  1)-face, by a rule that uses no geometry, has a 1-skeleton whose
+  geodesic triangles are 2-thin at every size, so hyperbolic network
+  geometry, in Gromov's sense, is an outcome of the combinatorial growth;
+  the source's equal-link drawing as ideal simplices is a convention, a
+  tiling of the hyperbolic plane for d = 2 in the manifold flavor but not
+  a tiling of H^d for d ≥ 3". Correct the body's dual-tree and tiling
+  statements per `excluded`. Add the δ ≤ 2 derivation as a dated note,
+  set Active, remove promote_when (the distortion alternative is no
+  longer needed), and trim inactive-ok directives naming THEORY-193.

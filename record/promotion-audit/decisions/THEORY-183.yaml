@@ -1,0 +1,104 @@
+# record/promotion-audit/decisions/THEORY-183.yaml
+id: THEORY-183
+batch: batch-011
+reviewed: '2026-10-19'
+reviewed_revision: 9ca3a0dc62777269b1e48624060125cc47848167
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    For a new Active THEORY: the theorem in the first clause of the title,
+    with its hypotheses. Take an embedding W with W Wᵀ = |M*| and
+    d ≥ rank M*. Let a set S of words sit on a periodic lattice
+    Λ = (ℤ/L)^D, with the S-blocks of M⁺ and M⁻ (M* = M⁺ − M⁻) each
+    translation invariant (Assumption B.1). Then the PCA coordinates of S
+    are Fourier modes of the latent coordinate. They come in degenerate
+    cos/sin pairs, with amplitude √(2 m̃(k)/|S|), plus Nyquist modes
+    (Proposition 1). For the periodised exponential kernel the amplitudes
+    are those of Corollary 2. NOTE-664 followed the source's proofs of
+    Proposition 3 (open boundary, continuum limit) and Proposition 4 (the
+    rank-r probe bound on a periodic lattice) step by step in Appendix E
+    (claims C2 and C3, strong), and the new entry carries both as read.
+    Proposition 1 and Corollary 2 are re-derived here (ADR-047 v2).
+
+    Re-derivation of Proposition 1.
+    (0) |M*| = M⁺ + M⁻. On S, under B.1, G_ij := (W Wᵀ)_ij = c(x_i − x_j)
+    with c = c₊ + c₋, and c is even because G is symmetric. Since
+    d ≥ rank M*, G is exactly the S-block of |M*|, so it is the Gram
+    matrix of the vectors w_i, i ∈ S.
+    (1) On a periodic lattice, G is circulant. For a wavevector k in the
+    dual lattice, let e_k(i) = exp(i k·x_i). Then
+    (G e_k)(i) = Σ_j c(x_i − x_j) e^{ik·x_j}
+               = e^{ik·x_i} Σ_{y∈Λ} c(y) e^{−ik·y}
+               = m̃(k) e_k(i),
+    by translation invariance and the substitution y = x_i − x_j, which
+    ranges over Λ. So plane waves are eigenvectors, with eigenvalue the
+    discrete Fourier transform m̃(k).
+    (2) c is even, so m̃(k) is real and m̃(k) = m̃(−k). G is a Gram matrix,
+    so it is PSD, so m̃(k) ≥ 0 and m̃(k) = |m̃(k)|. For k ≢ −k, the real
+    vectors cos(k·x) and sin(k·x), which are (e_k ± e_{−k})/2 up to a
+    factor of i, span the eigenspace for the pair {k, −k}. That pair is
+    the degeneracy. For a Nyquist k ≡ −k, sin(k·x) vanishes on the
+    lattice and cos alone remains.
+    (3) Normalisation: Σ_i cos²(k·x_i) = Σ_i sin²(k·x_i) = |S|/2 for
+    k ≢ −k and k ≠ 0, since the cross-term Σ_i cos(2k·x_i) vanishes. The
+    unit eigenvectors are therefore √(2/|S|) cos(k·x_i) and
+    √(2/|S|) sin(k·x_i). For a Nyquist mode it is |S|^(−1/2) cos(k·x_i),
+    and for k = 0 it is |S|^(−1/2).
+    (4) Centring: with H = I − 11ᵀ/|S|, the constant vector is G's k = 0
+    eigenvector. So H commutes with G, and HGH = G − m̃(0)11ᵀ/|S|.
+    Centring removes the constant mode and nothing else.
+    (5) PCA: write the centred vectors as rows of W̄, with Gram
+    W̄W̄ᵀ = HGH = Σ_k λ_k u_k u_kᵀ. The SVD W̄ = Σ_k √λ_k u_k v_kᵀ makes
+    v_k the principal directions, and the coordinate of word i along v_k
+    is √λ_k u_k(i). With λ_k = m̃(k) and step (3), the coordinates are
+    √(2 m̃(k)/|S|) cos(k·x_i) and √(2 m̃(k)/|S|) sin(k·x_i), in
+    degenerate pairs. Nyquist modes have √(m̃(k)/|S|) cos(k·x_i). This
+    holds up to rotation within each degenerate eigenspace and
+    permutation of directions. That is Proposition 1.
+
+    Re-derivation of Corollary 2 (D = 1; L sites with spacing 2/L; the
+    kernel e^(−|Δx|/σ) periodised). On the lattice, c(m) = q^|m| summed
+    over periodic images, with q = e^(−2/(σL)). At an allowed θ = 2k/L,
+    the periodised sum equals the sum over ℤ:
+    m̃ = Σ_{m∈ℤ} q^|m| e^{−iθm} = (1 − q²)/(1 − 2q cos θ + q²).
+    By step (5), a_μ = √((2/L) m̃), which is the source's formula. As
+    L → ∞: 1 − q² ≈ 4/(σL), and the denominator
+    ≈ (1 − q)² + qθ² ≈ 4/(σ²L²) + 4k²/L², so
+    m̃ ≈ Lσ/(1 + σ²k²) and a² → 2σ/(1 + σ²k²). The loop is closed with
+    integer frequencies k_n = πn because the lattice is periodic.
+  excluded: >-
+    What THEORY-183 keeps, Proposed and with its promote_when unchanged.
+    (a) That the corpus statistics do have this symmetry. Wikipedia's month
+    and year blocks are near-circulant or Toeplitz with an exponential
+    profile: C4, moderate, one corpus. (b) That spectral embeddings computed
+    from them match the predicted curves, in relative amplitude only (C5,
+    moderate). (c) The robustness account (C6 moderate, C7 weak). (d) Above
+    all, "so the circles ... of months, years and places come from a
+    symmetry of the corpus statistics" for trained embeddings and language
+    models (C8, weak). The promote_when tests exactly (d) by intervention,
+    so it stays with the parent.
+evidence:
+  - "NOTE-664 (Read in full): 'Appendices ... E (the proofs of Proposition 1, Corollary 2, Proposition 3 and Proposition 4, followed step by step)'; claims C1 and C2 'strong (proof)', C3 'strong (proof) for the periodic lattice'."
+  - "NOTE-664 Assumptions: Proposition 1 and Corollary 2 are proved under Assumption B.1 (M⁺ and M⁻ each translation invariant), not under the main text's 3.1. The new entry must carry B.1, because |M*| restricted to S is not |M*_SS| in general."
+  - "Re-derivation above: Proposition 1 by the circulant eigenbasis, with centring and the SVD reading of PCA coordinates; Corollary 2 by the Poisson-kernel sum and its L → ∞ limit."
+blockers: []
+notes: >-
+  This is the batch-010 shape again: a record-checkable theorem bundled
+  with an empirical carry-over, and a promote_when aimed only at the
+  carry-over. The theorem does not depend on THEORY-182, which is
+  Proposed. It is conditional on an embedding with W Wᵀ = |M*|, and
+  whether word2vec is such an embedding is THEORY-182's question. Keep that
+  condition in the new title.
+unlocks:
+  - "THEORY-022 cites THEORY-183 as the data-side mechanism. After the split, its mathematical half can cite the new Active THEORY."
+  - "QUESTION-025 is answered by THEORY-183. Check whether the theorem alone bears on it."
+next_action: >-
+  Promotion PR (split). File a new Active THEORY (source LIT-860; tags
+  representation-learning, mathematics) whose title states Proposition 1
+  with B.1, d ≥ rank M* and W Wᵀ = |M*|, plus Corollary 2, Proposition 3
+  and Proposition 4. Put the re-derivations above in a dated note. Make
+  THEORY-183 extend it, and change THEORY-183's history only, with its
+  title and promote_when unchanged. Retarget the "Proposition 1" clauses
+  in entries that cite THEORY-183 for the theorem alone.
