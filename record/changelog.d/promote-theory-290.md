@@ -1,0 +1,1 @@
+[THEORY-290](record/theory.d/THEORY-290.md) is narrowed to the two-debater, three-proposition model of deductive debate it was computed in and promoted under [ADR-047](record/decisions.d/ADR-047.md) v3, with its group and richer-strategy conditions moved to [QUESTION-tmpyem0w](record/questions.d/QUESTION-tmpyem0w.md) (promotion audit, batch 041).

@@ -1,23 +1,23 @@
 ---
 number: 290
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpvtupa
-promote_when: >-
-  An analysis or experiment that measures accuracy and revision costs
-  separately and finds the same free-riding structure among more than
-  two debaters, or with richer strategies than fixed, memoryless
-  premise and conclusion rules. In such a study, a participant facing a
-  bold partner must argue less boldly, collective accuracy must fall
-  short of what mutual boldness would give, and the shortfall must vanish
-  when the cost of revision is removed. It is refuted if, with
-  strategies that can target the partner's false beliefs (the paper's
-  "ideal cooperative debater"), the truth-optimal profile is an
-  equilibrium wherever the truth weight is positive. More runs of the
-  two-person, three-proposition model cannot settle it, and neither can
-  observational data on debates, which cannot measure revision costs.
-title: "When debaters value true belief but also dislike changing their minds, equilibrium argument can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and raising the weight on truth can lower equilibrium accuracy"
-version: 1
+title: "In a two-debater, three-proposition model of deductive debate whose payoff trades true beliefs against changes of mind, the most truth-conducive equilibrium can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and in a narrow band of mixed equilibria a higher weight on truth gives lower equilibrium accuracy"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision file
+    for THEORY-290 (batch 041, ADR-047 v3). The study was read in full, and
+    its results are exact computations on one model, so it counts as one
+    study, as THEORY-178's model ensemble did. The title now claims no more
+    than the model showed: two debaters, three propositions, fixed
+    memoryless strategies, the most truth-conducive equilibrium, and the
+    accuracy dip confined to the band of mixed equilibria where it was
+    found. The promote_when, asking for groups or richer strategies, moves
+    unchanged to QUESTION-tmpyem0w.
 tags:
 - epistemology
 - game-theory
@@ -34,11 +34,12 @@ summary: >-
   dip in accuracy as w rises occurs in a narrow band of mixed equilibria.
   It is shown numerically for two players and three propositions. It
   concerns collective accuracy, not a belief the pair settles on, and
-  at high truth weight in short debates there is no dilemma.
+  at high truth weight in short debates there is no dilemma. The title
+  claims the model only; groups and richer strategies are QUESTION-tmpyem0w.
 ---
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account this one is set beside -->
 
-# THEORY-290: When debaters value true belief but also dislike changing their minds, equilibrium argument can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and raising the weight on truth can lower equilibrium accuracy
+# THEORY-290: In a two-debater, three-proposition model of deductive debate whose payoff trades true beliefs against changes of mind, the most truth-conducive equilibrium can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and in a narrow band of mixed equilibria a higher weight on truth gives lower equilibrium accuracy
 
 ## Source
 
@@ -119,3 +120,24 @@ debates. Accuracy could have risen monotonically in w.
   costs leaves disagreement standing where mutual boldness would have
   removed it. The paper cites Zollman for "why expert communities
   sometimes maintain mistaken consensus" without modelling it.
+
+## Note of 2026-10-19: what the narrowing keeps and why
+
+The promotion audit reviewed this entry in batch 041. Its title is a model
+result, not an argument: "argument" there names what the debaters exchange.
+It is not a theorem either. The paper proves nothing, and checking it by
+hand would mean recomputing a 2,816-state Markov chain over a 17 × 17
+payoff table. So it was judged as one study under [ADR-047](../decisions.d/ADR-047.md) v3, on the
+precedent of [THEORY-178](THEORY-178.md).
+
+- **Kept:** the snowdrift equilibrium (§2.6.3, Table 1 at δ = 0.8, Fig 5)
+  and the dip in accuracy as the truth weight rises, which Fig 5 shows and
+  [NOTE-795](../notes.d/NOTE-795.md) viewed as a rendered page. The dip is small and lies in the band
+  without a pure equilibrium, and the title now says where it lies.
+- **Dropped:** the unqualified "debaters". Every exact result is for two
+  players and n = 3, and the strategy space excludes the targeted "ideal
+  cooperative debater". Those extensions are [QUESTION-tmpyem0w](../questions.d/QUESTION-tmpyem0w.md).
+- **Still carried by the body:** the dependence on equilibrium selection.
+  (Exit, Exit) is always an equilibrium, and the regimes describe the most
+  truth-conducive equilibrium left after removing weakly dominated
+  strategies.
