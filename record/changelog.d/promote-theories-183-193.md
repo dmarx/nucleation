@@ -1,6 +1,6 @@
 ### Added
 
-- [THEORY-tmpv2de0](record/theory.d/THEORY-tmpv2de0.md), Active: for an embedding with W Wᵀ = |M*| at full rank,
+- [THEORY-730](record/theory.d/THEORY-730.md), Active: for an embedding with W Wᵀ = |M*| at full rank,
   words on a periodic lattice whose positive and negative co-occurrence
   parts are each translation invariant have Fourier modes as principal
   components, in degenerate cos/sin pairs ([LIT-860](record/literature.d/LIT-860.md) Propositions 1, 3 and

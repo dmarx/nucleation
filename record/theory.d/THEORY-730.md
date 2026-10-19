@@ -1,5 +1,8 @@
 ---
+number: 730
 status: Active
+formerly:
+- THEORY-tmpv2de0
 title: "For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval"
 version: 1
 history:
@@ -34,7 +37,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-183 THEORY-182 — Proposed; the empirical account this was split from, and the premise about trained embeddings that this result does not assume -->
 
-# THEORY-tmpv2de0: For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval
+# THEORY-730: For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval
 
 ## Source
 

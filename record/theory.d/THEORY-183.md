@@ -24,7 +24,7 @@ history:
     (record/promotion-audit/decisions/THEORY-183.yaml, batch 011, ADR-047),
     the theorem in the first clause (Propositions 1, 3 and 4 and
     Corollary 2 of LIT-860, under Assumption B.1) is filed apart as
-    THEORY-tmpv2de0, Active, with Proposition 1 and Corollary 2 re-derived
+    THEORY-730, Active, with Proposition 1 and Corollary 2 re-derived
     (ADR-047 v2). This THEORY extends it and keeps the empirical account:
     the symmetry in corpus statistics and its carry-over to trained
     embeddings and language models. Its promote_when already concerned only
@@ -39,7 +39,7 @@ source:
 - LIT-855
 - LIT-322
 extends:
-- THEORY-tmpv2de0
+- THEORY-730
 summary: >-
   Karkada, Korchinski, Nava, Wyart and Bahri (2026), [LIT-860](../literature.d/LIT-860.md): proved
   for an embedding whose Gram matrix equals the co-occurrence matrix (or its
@@ -68,7 +68,7 @@ answers:
 
 ## What was actually shown
 
-**The theorem** (filed apart, Active, as [THEORY-tmpv2de0](THEORY-tmpv2de0.md), with
+**The theorem** (filed apart, Active, as [THEORY-730](THEORY-730.md), with
 its hypotheses and a re-derivation). Take an embedding W whose Gram matrix W Wᵀ is the matrix
 absolute value of M*, with M*_ij = (P_ij − P_iP_j)/(½(P_ij + P_iP_j)) and
 d ≥ rank M*. Suppose a set S of words sits on a lattice in a latent space

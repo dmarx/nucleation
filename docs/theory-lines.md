@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-45 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+46 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -337,6 +337,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-726](../record/theory.d/THEORY-726.md) — Weight decay on factors is a nuclear-norm penalty on their product: with tied weights λ‖W‖²_F = λ‖WWᵀ‖_*, and for untied factors the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M is ‖M‖_*, so for any loss that sees the weights only through the product, square-penalized training is nuclear-norm-penalized training of a product of bounded rank *(Active)*
   - [THEORY-180](../record/theory.d/THEORY-180.md) — In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise *(Proposed)*
 
+### From For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval
+
+- [THEORY-730](../record/theory.d/THEORY-730.md) — For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval *(Active)*
+  - [THEORY-183](../record/theory.d/THEORY-183.md) — When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics *(Proposed)*
+
 ### From In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball
 
 - [THEORY-191](../record/theory.d/THEORY-191.md) — In natural odour sources, the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional hyperbolic ball *(Proposed)*
@@ -541,6 +546,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-116](../record/theory.d/THEORY-116.md) — A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms *(Proposed)*
   - [THEORY-111](../record/theory.d/THEORY-111.md) — Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features *(Proposed)*
+
+### From For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval
+
+- [THEORY-730](../record/theory.d/THEORY-730.md) — For an embedding whose Gram matrix is the absolute co-occurrence deviation matrix at full rank, words on a periodic lattice whose positive and negative co-occurrence parts each depend only on separation have Fourier modes of the lattice as principal components, in degenerate cos/sin pairs with amplitude the square root of the kernel's Fourier transform, and the exponential kernel gives a closed loop with integer frequencies on a periodic lattice and an open curve with non-integer frequencies on an interval *(Active)*
+  - [THEORY-183](../record/theory.d/THEORY-183.md) — When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics *(Proposed)*
 
 ### From A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity
 
