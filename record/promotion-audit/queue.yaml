@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 81
+version: 82
 updated: '2026-10-19'
 record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
 procedure: record/decisions.d/ADR-047.md
@@ -964,6 +964,315 @@ candidates:
   supports: 0
   triage: triage-003
   state: pending
+- code: THEORY-111
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 2
+  triage: triage-004
+  state: pending
+- code: THEORY-079
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  state: pending
+- code: THEORY-170
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  state: pending
+- code: THEORY-369
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  state: pending
+  note: untagged formal result; ADR-047 v2 re-derivation may apply (wave-2 route)
+- code: THEORY-481
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  state: pending
+- code: THEORY-033
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-198
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+  note: untagged formal result; ADR-047 v2 re-derivation may apply (wave-2 route)
+- code: THEORY-235
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-248
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+  note: untagged formal result; ADR-047 v2 re-derivation may apply (wave-2 route)
+- code: THEORY-255
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-256
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-292
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-295
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-315
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+  note: untagged formal result; ADR-047 v2 re-derivation may apply (wave-2 route)
+- code: THEORY-414
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-460
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-546
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-583
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+- code: THEORY-167
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 3
+  triage: triage-004
+  state: pending
+- code: THEORY-176
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 3
+  triage: triage-004
+  state: pending
+- code: THEORY-078
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 1
+    depth: 0
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 1
+  triage: triage-004
+  state: pending
+  control: true
+- code: THEORY-199
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 0
+  supports: 0
+  triage: triage-004
+  state: pending
+  control: true
+- code: THEORY-309
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+  control: true
+- code: THEORY-470
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 1
+    depth: 1
+    firsthand: 1
+    extends: 0
+    compound: 1
+  supports: 0
+  triage: triage-004
+  state: pending
+  control: true
+- code: THEORY-625
+  wave: 3
+  score: 5
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+  supports: 1
+  triage: triage-004
+  state: pending
+  control: true
 history:
 - version: 1
   date: '2026-10-19'
@@ -1265,4 +1574,8 @@ history:
 - version: 81
   date: '2026-10-19'
   note: 'Resumed: batches 011-015 and triage-004 started in parallel; hand-off rewritten.'
+- version: 82
+  date: '2026-10-19'
+  note: Triage-004 (triage_wave3.py) scored 447 eligible wave-3 THEORYs; the top 20 and a control of 5
+    are queued (25 added). Scores saturate at the top (18 at 7); review the control alongside.
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
