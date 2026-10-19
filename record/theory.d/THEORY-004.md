@@ -100,6 +100,7 @@ presupposed_by:
 - THEORY-723
 supports:
 - CLAIM-148
+- CLAIM-tmp861ar
 ---
 
 # THEORY-004: A representation is determined by its centred kernel up to a translation and an orthogonal transformation, and the rotation-aligned distance between two representations equals the Bures distance between their kernels

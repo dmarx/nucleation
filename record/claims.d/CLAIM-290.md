@@ -33,6 +33,8 @@ summary: >-
   orthogonal, with no assumption that the rows span R^d. With centring
   this becomes a translation and an orthogonal map. It does not say Q is
   unique, which fails when the rank is below d.
+supports:
+- CLAIM-tmp861ar
 ---
 
 # CLAIM-290: A positive-definite kernel's minimal realizations are unique up to a unitary, and two finite representation matrices with the same centred Gram matrix differ by a translation and an orthogonal map
