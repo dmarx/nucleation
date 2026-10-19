@@ -1,24 +1,31 @@
 ---
 number: 369
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpc74vc
-promote_when: >-
-  A proof that, for uniformly distributed independent data and queries in
-  the unit cube and any partition of N points into convex clusters of at
-  least two points, the expected fraction of clusters an optimal
-  nearest-neighbour search must read tends to one as dimension grows at
-  fixed N. The proof must use each query's own nearest-neighbour distance,
-  not its expectation. Alternatively, an independent replication with other
-  index implementations and data sizes that measures the crossover against
-  a scan. More simulations of the paper's own Monte Carlo integrals would
-  not settle it, and neither would results on data with low intrinsic
-  dimension.
-title: "Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10"
-version: 1
+title: "Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance and a fixed number of points, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters of at least two points must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted to Active at the owner's direction, carrying out
+    the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-369.yaml, batch 016, ADR-047).
+    The promote_when asked for a proof, using each query's own
+    nearest-neighbour distance, that the expected fraction of convex
+    clusters an optimal search reads tends to one as dimension grows at
+    fixed N. The proof is written out under "The asymptotic statement,
+    proved" and in the decision file, and under ADR-047 v2 (the owner's
+    rule of 2026-10-19) it meets the condition. The title now states the
+    two hypotheses the proof needs: a fixed number of points, and clusters
+    of at least two points. The finite-dimensional crossover figures stay
+    estimates and measurements, as before. promote_when is removed, and the
+    mathematics tag is added.
 tags:
 - databases
 - information-retrieval
+- mathematics
 date: '2026-10-15'
 source:
 - LIT-1107
@@ -33,13 +40,15 @@ summary: >-
   clustering puts it below 610. The often-quoted "around 10" is the measured
   crossover for an R*-tree and an X-tree. The VA-file, a scan of compact
   per-vector approximations, is the paper's alternative. Nothing is shown
-  for data of low intrinsic dimension, and the lower bounds are not
-  rigorous as stated.
+  for data of low intrinsic dimension, and the finite-dimensional
+  bounds are not rigorous as stated. The asymptotic statement, at fixed N
+  and for clusters of two or more points, is proved by the record by a
+  concentration argument.
 supports:
 - CLAIM-311
 ---
 
-# THEORY-369: Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10
+# THEORY-369: Under uniformly distributed, independent data and queries in the unit cube with Euclidean distance and a fixed number of points, an optimal nearest-neighbour search over any index that partitions points into blocks or convex clusters of at least two points must read a fraction of blocks that grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost to a scan beyond about 10
 
 ## Source
 
@@ -89,6 +98,25 @@ bound. At d = 50 and N = 500,000, under 0.1% of vectors survived the
 filter and about 20 were read for k = 10. On the image data it was fastest
 for d ≥ 6.
 
+**The asymptotic statement, proved.** This proof is the record's
+([ADR-047](../decisions.d/ADR-047.md) v2), and it uses each query's own nearest-neighbour distance. Let
+X_1, …, X_N and q be independent and uniform on [0, 1]^d, with N fixed.
+For distinct points U and V among them, |U − V|² is a sum of d independent
+bounded terms of mean E(U_k − V_k)² = 1/6. So |U − V|²/d → 1/6 in
+probability, jointly over the finitely many pairs. Hence r_q²/d → 1/6,
+where r_q = min_i |q − X_i|. For a ≠ b, the midpoint m of X_a and X_b
+satisfies |q − m|² = ½|q − X_a|² + ½|q − X_b|² − ¼|X_a − X_b|², so
+|q − m|²/d → 1/12 + 1/12 − 1/24 = 1/8 < 1/6. With probability tending to 1,
+every such midpoint lies inside the open ball of radius r_q about q. A
+convex region holding two of the points holds their midpoint. So on that
+event every block of two or more points meets the ball and must be read,
+for every partition at once, including one chosen after the data are seen.
+The expected fraction read is at least the probability of that event,
+which tends to 1. The hypotheses are needed. A singleton block meets the
+open ball only if its point is closer than the nearest neighbour, which
+never happens, and if N grows exponentially in d, r_q no longer
+concentrates at √(d/6).
+
 **What could have come out otherwise.** The measured trees could have
 stayed under 20% past 10 dimensions on these data. They did not, on either
 the uniform or the image set.
@@ -109,9 +137,11 @@ the uniform or the image set.
   points into convex regions. The VA-file escapes it by being a scan of
   smaller records, and the paper's claim that all methods "ultimately
   become linear" is stated as a postulate.
-- **That the bounds are rigorous.** Using the expected nearest-neighbour
-  distance in place of each query's own, and evaluating the volumes by
-  Monte Carlo, are not shown to preserve the inequalities.
+- **That the finite-dimensional bounds are rigorous.** Using the expected
+  nearest-neighbour distance in place of each query's own, and evaluating
+  the volumes by Monte Carlo, are not shown to preserve the inequalities.
+  So the 15–26 and 610 figures are estimates. Only the limit as d grows,
+  at fixed N, is proved, and it gives no rate.
 - **Anything about build cost, upkeep or amortization.** Building is
   free. That organizing fails here even so is the point, but the paper
   does not price the VA-file's space or upkeep either.
