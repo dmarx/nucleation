@@ -1,23 +1,20 @@
 ---
 number: 308
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpapktz
-promote_when: >-
-  A read proof, in Belghazi et al. corrected or in an independent source,
-  that closes the two gaps found in NOTE-828. First, the
-  approximation lemma when the joint distribution vanishes on a set of
-  positive product measure, so that the log density ratio is −∞ there.
-  Second, the estimation lemma stated as almost-sure convergence rather
-  than with a deterministic N. Refuted by a pair of distributions on a
-  compact domain, with Lebesgue densities and finite mutual information,
-  for which the empirical Donsker–Varadhan supremum over every compact
-  family of continuous networks stays bounded away from the mutual
-  information as n grows. What cannot settle it: estimator benchmarks on
-  Gaussians, which measure what gradient training reaches, not the
-  empirical supremum the theorem is about.
-title: 'The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over a compact family of critics, and its uniform deviation from the population bound is controlled by the parameter count, not the data dimension'
-version: 1
+title: 'The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over compact families of critics, and, for critics bounded by M and L-Lipschitz in their d parameters, its uniform deviation from the population bound needs a number of samples set by d, M, L and the parameter radius, not by the data dimension'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-308 (batch 025, ADR-047 v2). The promote_when asked for a proof
+    closing NOTE-828's two gaps. Both close, by a re-derivation written out
+    in the decision file and summarised in the note of 2026-10-19 below.
+    The title now names the assumptions of the sample-complexity clause.
+    promote_when is removed.
 tags:
 - information-theory
 - mathematical-statistics
@@ -38,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-237 — Proposed; the account of the bound family this estimator belongs to, named in Connections -->
 
-# THEORY-308: The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over a compact family of critics, and its uniform deviation from the population bound is controlled by the parameter count, not the data dimension
+# THEORY-308: The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over compact families of critics, and, for critics bounded by M and L-Lipschitz in their d parameters, its uniform deviation from the population bound needs a number of samples set by d, M, L and the parameter radius, not by the data dimension
 
 ## Source
 
@@ -89,17 +86,41 @@ in the number of parameters, and only samples enter.
   excludes the unbounded log ratio that large MI needs. Its constants grow
   like e^{2M}. No theorem joins the approximation error to the sample
   size.
-- **Not proved as stated, in two places** ([NOTE-828](../notes.d/NOTE-828.md)).
+- **Not proved as stated in the paper, in two places** ([NOTE-828](../notes.d/NOTE-828.md)).
+  Both are repaired in the note of 2026-10-19 below.
   - Lemma 3's proof needs T* finite and Q-integrable where it is
     approximated. When P_XZ vanishes on a set of positive P_X⊗P_Z measure,
-    T* = −∞ there and the written bound fails. A lower truncation would
-    probably repair it, but none is given.
+    T* = −∞ there and the written bound fails.
   - Lemma 4 is stated with one deterministic N after which the deviation
-    is small with probability one. The uniform law gives almost-sure
-    convergence with a sample-dependent N. The weaker statement suffices
-    for consistency.
+    is small with probability one. What holds is almost-sure convergence
+    with a sample-dependent N, which suffices for consistency.
 - **Not beyond compact domains with Lebesgue densities.** Discrete,
   mixed or unbounded variables are outside the proof.
+
+## Note of 2026-10-19: the two gaps closed
+
+Re-derived for the promotion audit (batch 025, [ADR-047](../decisions.d/ADR-047.md) v2). The full
+steps are in the audit's decision file for THEORY-308.
+
+- **Lemma 3 with a lower truncation.** Take T_M = max(−M, min(T*, M)).
+  The negative part of T* is P-integrable whenever I is finite, since
+  ∫_{p<q} p log(q/p) ≤ 1 by log x ≤ x − 1. So E_P[T_M] → I, and
+  E_Q[e^{T_M}] → 1, both by dominated convergence (e^{T_M} ≤ dP/dQ + 1).
+  Lusin's theorem, Tietze's extension and uniform approximation on the
+  compact Ω then give a network within η of I, with one-point Θ.
+- **Lemma 4 as almost-sure convergence.** {T_θ} is uniformly bounded and
+  equicontinuous on compact Ω × Θ, hence totally bounded in sup-norm. The
+  empirical measures converge weakly almost surely. That holds for i.i.d.
+  marginal pairs and for the product of the two empirical marginals, and
+  weak convergence is uniform over such a family. So
+  Î_n → I_Θ almost surely, with a sample-dependent N.
+- **The rate.** With |T_θ| ≤ M, L-Lipschitz in θ and ‖θ‖ ≤ K in ℝ^d,
+  Hoeffding on a net of the parameter ball gives sup_θ |V_n − V| ≤ ε with
+  probability 1 − δ once
+  n ≥ 8 max(M², e^{4M})(d log(12KL(1 + e^{2M})/ε) + log(4/δ))/ε².
+  For the product-of-marginals form, McDiarmid's inequality gives the
+  same order. These are the record's constants. The paper's were not
+  rechecked. The data dimension does not enter.
 
 ## Connections
 
