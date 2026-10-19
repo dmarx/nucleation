@@ -7,6 +7,14 @@
 - [QUESTION-tmpxheie](record/questions.d/QUESTION-tmpxheie.md): whether human transmission chains converge to an
   independently measured prior, the empirical test formerly in
   [THEORY-155](record/theory.d/THEORY-155.md)'s promotion condition.
+- The proved parts of three Proposed THEORYs, filed apart and Active:
+  [THEORY-tmpsuto2](record/theory.d/THEORY-tmpsuto2.md) (spectral and NT-Logistic minimizers, from [THEORY-001](record/theory.d/THEORY-001.md)),
+  [THEORY-tmp2m4ke](record/theory.d/THEORY-tmp2m4ke.md) (Blackwell's theorem for finite outcome spaces, from
+  [THEORY-156](record/theory.d/THEORY-156.md)), and [CLAIM-tmpu2dsm](record/claims.d/CLAIM-tmpu2dsm.md) (the conditional-expectation operator is
+  Hilbert–Schmidt exactly when χ² is finite, the record's own derivation
+  from [THEORY-005](record/theory.d/THEORY-005.md), now with a proof).
+- [QUESTION-tmp4uhs6](record/questions.d/QUESTION-tmp4uhs6.md): the population form of the readout identities,
+  formerly a clause of [THEORY-008](record/theory.d/THEORY-008.md)'s promotion condition.
 
 ### Fixed
 
@@ -24,3 +32,5 @@
   states the ergodicity its convergence needs.
 - [CLAIM-128](record/claims.d/CLAIM-128.md) keeps only its task-relativity thesis, and its warrant is now
   interpretive.
+- [THEORY-008](record/theory.d/THEORY-008.md) is confined to a finite stimulus set, where its identities
+  are proved, and promoted to Active.

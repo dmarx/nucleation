@@ -34,7 +34,6 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-083 — Proposed; compared in Bearing on the record as a different sense of "categorical", not supported or contradicted -->
 <!-- inactive-ok-file: THEORY-102 — Proposed; its decoding evidence is one this paper's warning bears on, not tested -->
-<!-- inactive-ok-file: THEORY-008 — Proposed; named for why rotation-invariant readout measures cannot see neuron types -->
 <!-- inactive-ok-file: THEORY-017 — Proposed; named for the point that a basis is extra structure, which the neuron basis supplies physically -->
 
 # NOTE-549: Rarely categorical, highly separable representations along the cortical hierarchy
