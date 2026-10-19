@@ -1,0 +1,34 @@
+# record/promotion-audit/decisions/THEORY-590.yaml
+id: THEORY-590
+batch: batch-026
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing. By batch 020's sort rule the title asserts a philosophical
+    thesis: that the self of autonomous governance is not the self of
+    personal persistence. It is argued from counterexample (Winnicott's
+    False Self, the Agamemnon sequel), from case interpretation (Freud's
+    Rat Man) and from debunking genealogy. That is an argument, not a
+    theorem or a measurement. Triage-005's formal flag misfired here,
+    on keywords such as "governance" and "essence".
+  excluded: >-
+    Everything in the title, until an argument-level review. The body
+    states the warrant's limits itself. Frankfurt's reply is unread, and
+    Velleman's positive view is assumed from other work and says nothing
+    of how the understanding motivates. The genealogical argument is
+    framed as a "worry", and the Rat Man argument depends on Freud's
+    interpretation. None of the three wave-3 routes applies: there is
+    no derivation, no single measurement, and no formal core to split.
+evidence:
+  - "NOTE-268 (Read in full): Velleman (2002), the three critiques and the positive sketch, with Frankfurt's texts as Velleman reports them."
+blockers:
+  - "Argument, not theorem; it belongs to wave 5. The promote_when's own routes remain: an analysis of Frankfurt's reply to Velleman (Contours of Agency, pp. 124–128), or a statement of autonomy as motivation by the understanding that says how the understanding motivates."
+notes: >-
+  A formal-flag false positive, as triage-005 suspected. Move it to wave 5
+  and sample it there with its argument line, root first, per batch 022.
+next_action: >-
+  None in this wave. Requeue in wave 5.

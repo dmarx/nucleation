@@ -1,0 +1,102 @@
+# record/promotion-audit/decisions/THEORY-478.yaml
+id: THEORY-478
+batch: batch-026
+reviewed: '2026-10-19'
+reviewed_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The conditional equivalence, with its hypotheses stated on the
+    diffusion densities themselves and the admissible range of α tied to
+    the Hölder exponent they carry. Re-derived here under ADR-047 v2.
+
+    Setting. Points i, j with tree distance d = d_T(i, j). Times t_k =
+    2^(−k), k = 0, …, K. Densities φ_i^k = √(P^(t_k) e_i), so
+    h_k := ‖φ_i^k − φ_j^k‖₂ is a Hellinger distance between probability
+    vectors and 0 ≤ h_k ≤ √2. The distance is
+    D(i, j) = Σ_{k=0}^{K} 2 sinh⁻¹(2^(1−kα) h_k) (LIT-870 Eq. 9).
+
+    Hypotheses, for constants C₁, c, c₀ > 0, a time exponent β > 0 and a
+    Hölder exponent θ > 0, uniformly in i, j and k:
+    (H1) Hölder: h_k ≤ C₁ (d / t_k^(1/β))^θ.
+    (H2) Separation: h_k ≥ c whenever d ≥ c₀ t_k^(1/β).
+
+    Claim. For 0 < α < θ/β, D(i, j) is two-sided equivalent, with
+    constants depending only on α, β, θ, C₁, c, c₀, to min{1, d^(αβ)}, for
+    every pair with d ≥ c₀ 2^(−K/β) (all pairs, if K = ∞).
+
+    Step 1, the inverse sinh is linear on the range used. Each argument
+    x_k = 2^(1−kα) h_k lies in [0, 2√2], since 2^(−kα) ≤ 1 and h_k ≤ √2.
+    sinh⁻¹ is concave on [0, ∞) with sinh⁻¹(0) = 0 and derivative at most
+    1, so on [0, M] it satisfies (sinh⁻¹(M)/M)·x ≤ sinh⁻¹(x) ≤ x. With
+    M = 2√2, each term of D is between a₀·2^(−kα) h_k and 4·2^(−kα) h_k,
+    a₀ = 4 sinh⁻¹(2√2)/(2√2) > 0. So D ≍ S := Σ_k 2^(−kα) h_k.
+
+    Step 2, the crossing scale. Let k* be the least k with
+    c₀ t_k^(1/β) ≤ d, that is 2^(−k/β) ≤ d/c₀. Then
+    2^(−k*) ≍ (d/c₀)^β, within a factor 2 from rounding. The hypothesis
+    d ≥ c₀ 2^(−K/β) puts k* ≤ K.
+
+    Step 3, upper bound on the fine scales k ≥ k*. Using h_k ≤ √2,
+    Σ_{k ≥ k*} 2^(−kα) h_k ≤ √2 · 2^(−k*α) / (1 − 2^(−α)), and
+    2^(−k*α) ≍ d^(αβ).
+
+    Step 4, upper bound on the coarse scales k < k*. By (H1),
+    2^(−kα) h_k ≤ C₁ d^θ 2^(k(θ/β − α)). Since α < θ/β the ratio
+    2^(θ/β − α) exceeds 1, so the geometric sum over 0 ≤ k < k* is at most
+    a constant times its last term, C₁ d^θ 2^(k*(θ/β − α)). With
+    2^(k*) ≍ (c₀/d)^β, that term is ≍ d^θ · d^(−θ) · d^(αβ) = d^(αβ). This
+    is the only place where α < θ/β is used; at α ≥ θ/β the coarse
+    scales are not dominated, and the bound fails.
+
+    Step 5, lower bound. For k ≥ k*, (H2) gives h_k ≥ c, so
+    S ≥ c · 2^(−k*α) ≍ d^(αβ) from the k = k* term alone.
+
+    Step 6, the threshold. If d ≥ c₀ then k* = 0, every scale is
+    separated, and S ≥ c (the k = 0 term), while
+    S ≤ √2 / (1 − 2^(−α)) in all cases. So D ≍ 1 when d ≥ c₀. For
+    d < c₀, Steps 3–5 give D ≍ d^(αβ), and since d^(αβ) ≤ c₀^(αβ) there,
+    D ≍ min{1, d^(αβ)} with constants absorbing c₀. Pairs beyond the
+    radius c₀ are only known to be far. That is the sense in which the
+    distance keeps neighbourhoods and not global distances.
+
+    Remarks. (a) The finite K matters: for d < c₀ 2^(−K/β) only upper
+    bounds are available, and the equivalence is not claimed. (b) With
+    β = 2 and θ = 1, the range is LIT-870's 0 < α < 1/2 and the
+    equivalence is to min{1, d^(2α)}. With θ = 1/2, the exponent NOTE-675
+    finds after repairing Proposition C.5's Hölder step for close points,
+    the range is α < 1/4. Either way some thresholded snowflake is
+    recovered.
+  excluded: >-
+    That the heat kernel of a metric tree satisfies (H1) and (H2), with
+    which θ. LIT-870 cites the Gaussian and Hölder kernel bounds (Lemmas
+    C.4–C.6) without proving them, and its passage from the kernel bounds
+    to a Hellinger bound for close points needs NOTE-675's repair. Also
+    excluded: that the diffusion operator of sampled data approximates a
+    tree's heat kernel, which the source assumes. Both make up the
+    promote_when, and both move, unchanged, to a new QUESTION. The
+    0-hyperbolicity remark at α → 1/2 and the experiments at α = 1/2 lie
+    outside the theorem, as the body already says.
+evidence:
+  - "NOTE-675 (Read, Appendix C's proofs included): Eq. 9, Proposition 1, Proposition C.4 (Theorem 1), and the Hölder step of Proposition C.5, which holds only for d_T ≥ 1 as written."
+  - "Re-derivation above, under ADR-047 v2: Steps 1–6 use only Hellinger ≤ √2, concavity of sinh⁻¹, and the two geometric sums. They give the equivalence and its range α < θ/β."
+blockers: []
+notes: >-
+  The narrowing moves the theorem's hypothesis from 'behaves like a tree
+  heat kernel' to the two Hellinger bounds the proof actually uses, and
+  ties the admissible α to their Hölder exponent. That makes the source's
+  range and the reader's repaired range two instances of one statement,
+  rather than a dispute. This is the batch-019 pattern: the overstated
+  part was the hypothesis, not the mathematics. The finest-scale condition
+  d ≥ c₀ 2^(−K/β) is new. The source sums to a finite K without stating it.
+next_action: >-
+  Promotion PR. Retitle THEORY-478 to the conditional equivalence under
+  (H1)–(H2) with α < θ/β, naming LIT-870's β = 2, θ = 1 instance and the
+  repaired θ = 1/2. Set it Active and remove promote_when. Add a dated
+  note with Steps 1–6, and a history entry citing this decision (by
+  description, not by path). File a QUESTION carrying the promote_when:
+  the tree heat-kernel bounds with their Hölder exponent, and the
+  data-to-tree-kernel bridge. Relate it to QUESTION-025. Trim stale
+  inactive-ok directives naming THEORY-478.

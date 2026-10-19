@@ -1,0 +1,93 @@
+# record/promotion-audit/batches/batch-026.yaml
+batch: batch-026
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 6f70fc1becf3477785e057c48e5d06884a2f2e3e
+selection: >-
+  The last two of triage-005's re-derivation route in code order
+  (THEORY-478, THEORY-614), then the three it routed formal while doubting
+  the flag (THEORY-231, THEORY-590, THEORY-690). Run in parallel with
+  other batch sessions. The parent session integrates this file into
+  queue.yaml and NOTES.md.
+reviewed: [THEORY-478, THEORY-614, THEORY-231, THEORY-590, THEORY-690]
+outcomes:
+  narrow-and-promote: [THEORY-478]
+  promote: [THEORY-231]
+  needs-correction: [THEORY-614]
+  retain-proposed: [THEORY-590, THEORY-690]
+yield: 2 of 5 found a promotion path, plus 1 correction
+rubric_vs_outcome:
+  # triage-005: route re-derivation for all five; three flagged as doubtful
+  - code: THEORY-478
+    outcome: narrow-and-promote
+    mattered: >-
+      The formal route was right. The overstated part was the hypothesis
+      ('behaves like a tree heat kernel'), as in batch 019. The
+      re-derivation needs only two Hellinger bounds.
+  - code: THEORY-614
+    outcome: needs-correction
+    mattered: >-
+      The formal route was right, but the proof was not followed. The
+      re-derivation stops at one step: Appendix B's bound across delimiter
+      states. The promote_when is mis-targeted.
+  - code: THEORY-231
+    outcome: promote
+    mattered: >-
+      The doubted formal flag was right. The title relates formal notions,
+      and every step re-derives from definitions in the sections read.
+  - code: THEORY-590
+    outcome: retain-proposed
+    mattered: >-
+      The formal flag was a false positive, on keywords in a philosophical
+      title.
+  - code: THEORY-690
+    outcome: retain-proposed
+    mattered: >-
+      The formal flag was a false positive. The title is a synthesis over
+      a book's examples.
+finding: >-
+  Of triage-005's three doubted flags, one was a real formal result
+  (THEORY-231, quantum foundations) and two were philosophy (THEORY-590,
+  THEORY-690). The doubt tracked the subject tags, not the content. The two
+  undoubted re-derivation entries split: one closed and was narrowed to
+  the hypotheses its proof uses, and one stopped at a single unread
+  appendix step.
+recommendation: >-
+  Read the formal flag against what the title asserts, not against its
+  tags. A title that relates defined notions ('implies', 'refutes', 'is
+  equivalent to') is formal even in philosophy-tagged fields. Requeue
+  THEORY-590 and THEORY-690 in wave 5. Give THEORY-614 one dedicated
+  retrieval of LIT-797 Appendix B, like THEORY-127's pass.
+owner_questions: []
+follow_up_prs:
+  - "THEORY-478: narrow-and-promote. Retitle to the conditional equivalence under the Hellinger bounds (H1)–(H2) with α < θ/β. Add a dated note with the re-derivation. The promote_when (tree heat-kernel bounds, data bridge) moves to a new QUESTION related to QUESTION-025."
+  - "THEORY-231: promote. Add a dated note with definitions (D1)–(D4) and Steps 1–4, including the derivation of the prepare-measure realizability claim."
+  - "THEORY-614: correction, status unchanged. The promote_when becomes the Appendix B step. The trained-model promote_when moves to a new QUESTION. Add a dated note with the partial re-derivation."
+notes_for_ledger:
+  - >-
+    A conditional theorem should be promoted on the hypotheses its proof
+    uses, not the ones its source names. THEORY-478's source assumed 'a
+    tree heat kernel'. The proof needs only a Hölder bound and a
+    separation bound on Hellinger distances, and the admissible range is
+    α < θ/β. The source's range (θ = 1) and the reader's repaired range
+    (θ = 1/2) are then two instances of one theorem, not a dispute.
+  - >-
+    Multiscale sums of the form Σ_k 2^(−kα) h_k with a Hölder regime below
+    a crossing scale and a separation regime above it are equivalent to
+    d^(αβ) exactly when α < θ/β. The coarse-scale geometric sum is the
+    only place the exponent condition enters. A reusable template for
+    multiscale diffusion distances.
+  - >-
+    'No Bell-like no-go in a prepare-measure scenario' has a one-line
+    proof: send λ = (x, a). Any distribution with Y independent of (X, A)
+    is then realized. Worth reusing wherever a source states a
+    realizability claim without derivation.
+  - >-
+    Triage-005's formal flag, read against content: one of three doubted
+    flags was right. The doubt followed the subject tags (philosophy,
+    quantum foundations), not whether the title relates defined notions.
+  - >-
+    THEORY-614 is the first re-derivation-route entry to stop at one
+    unread appendix step. Record the step exactly (likelihood summed over
+    delimiter states) so that a single retrieval can close it.
