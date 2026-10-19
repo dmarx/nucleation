@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**805 document(s) awaiting a decision.**
+**804 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 805.
+95 of the 804.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-478 of the 805.
+477 of the 804.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -349,7 +349,6 @@
 | 2026-10-14 | Proposed | [THEORY-321](../../record/theory.d/THEORY-321.md) | 6 | 1 | Under repeated DeGroot averaging, a large society's consensus converges to the truth if and only if the largest influence weight vanishes, so network structure alone, not the members' common updating rule, decides whether the group belief is right |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 5 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
-| 2026-10-14 | Proposed | [THEORY-256](../../record/theory.d/THEORY-256.md) | 5 | 0 | When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); small transformers trained by next-token prediction on such processes settle near that dimension in approximately orthogonal subspaces, and reach it first even when noise makes it lossy |
 | 2026-10-14 | Proposed | [THEORY-263](../../record/theory.d/THEORY-263.md) | 5 | 0 | A coding rate that varies with the realised sample and output makes rate-distortion generalisation bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W) against a fixed prior the bound is the disintegrated PAC-Bayes bound |
 | 2026-10-14 | Proposed | [THEORY-267](../../record/theory.d/THEORY-267.md) | 5 | 0 | A prediction-market price can keep most of an arbitrary shock that no trader's information supported for at least sixty days, because later trading undoes only part of it and undoes it ever more slowly |
 | 2026-10-14 | Proposed | [THEORY-269](../../record/theory.d/THEORY-269.md) | 5 | 0 | In OLMo-1B, OLMo-7B and GPT-J, whether a factual relation is computed by an affine map from subject to object representation tracks how often its subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, whenever in training that count is reached |
@@ -596,7 +595,7 @@
 
 ## ADRs
 
-2 of the 805.
+2 of the 804.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -605,7 +604,7 @@
 
 ## QUESTIONs
 
-9 of the 805.
+9 of the 804.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -621,7 +620,7 @@
 
 ## CLAIMs
 
-216 of the 805.
+216 of the 804.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -844,7 +843,7 @@
 
 ## CASEs
 
-1 of the 805.
+1 of the 804.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -852,7 +851,7 @@
 
 ## TERMs
 
-2 of the 805.
+2 of the 804.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -861,7 +860,7 @@
 
 ## ARGs
 
-2 of the 805.
+2 of the 804.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

@@ -1,6 +1,6 @@
 ### Added
 
-- [QUESTION-tmpmknot](record/questions.d/QUESTION-tmpmknot.md): whether factored-process results replicate on other
+- [QUESTION-157](record/questions.d/QUESTION-157.md): whether factored-process results replicate on other
   generator families or objectives, and what loss gap the factored
   representation pays when noise makes it lossy. It holds [THEORY-256](record/theory.d/THEORY-256.md)'s
   former promote_when, unchanged, and refines [QUESTION-060](record/questions.d/QUESTION-060.md).

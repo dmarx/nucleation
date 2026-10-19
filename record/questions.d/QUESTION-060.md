@@ -23,7 +23,7 @@ summary: >-
   [THEORY-197](../theory.d/THEORY-197.md) and [THEORY-206](../theory.d/THEORY-206.md) answer it in part; the body gives each one's
   limit.
 refined_by:
-- QUESTION-tmpmknot
+- QUESTION-157
 ---
 <!-- inactive-ok-file: THEORY-241 THEORY-274 — Proposed; partial answers filed today, cited with their limits -->
 

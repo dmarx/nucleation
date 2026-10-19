@@ -21,7 +21,7 @@ history:
     was shown, linear independence and approximate orthogonality in the
     leading components; and the noise clause names the construction
     tested. The promote_when asked for a replication. It moves, unchanged,
-    to QUESTION-tmpmknot.
+    to QUESTION-157.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -150,4 +150,4 @@ and collapse to about 10 dimensions under every noise level. Under
 measured. The title now names the architecture, the five factors, what
 the subspace measurements show, and the noise construction. The
 replication the promote_when asked for moves, unchanged, to
-[QUESTION-tmpmknot](../questions.d/QUESTION-tmpmknot.md).
+[QUESTION-157](../questions.d/QUESTION-157.md).
