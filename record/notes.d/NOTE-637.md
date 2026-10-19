@@ -28,7 +28,6 @@ summary: >-
   structural rules or distribution shift.
 ---
 
-<!-- inactive-ok-file: THEORY-169 — Proposed; named as the neighbouring account -->
 
 # NOTE-637: Test-Time Training for Few-Shot Learning
 

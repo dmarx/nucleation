@@ -18,7 +18,7 @@ summary: >-
   been calling a delivery frame". Kept as "convention induction" in
   outlines v3 and v4; absent from the manuscript.
 ---
-<!-- inactive-ok-file: CLAIM-118 THEORY-169 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: CLAIM-118 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: THEORY-264 — Proposed; filed today, cited as a reading that does not answer this question -->
 

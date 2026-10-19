@@ -33,7 +33,6 @@ summary: >-
   condition in the title.
 ---
 
-<!-- inactive-ok-file: THEORY-169 — Proposed; the mechanistic account named as complementary, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-029 — Proposed; named for the reading it uses, not leaned on -->
 
 # THEORY-614: If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown

@@ -29,7 +29,7 @@ summary: >-
   representation across the two presentations, only partly overlapping
   mechanisms; the authors note they cannot prove the negative.
 ---
-<!-- inactive-ok-file: CLAIM-029 CLAIM-118 CLAIM-074 THEORY-169 THEORY-264 — Proposed; the claims and theories this reading bears on or files, open -->
+<!-- inactive-ok-file: CLAIM-029 CLAIM-118 CLAIM-074 THEORY-264 — Proposed; the claims and theories this reading bears on or files, open -->
 
 # NOTE-803: Davidson et al. — Do different prompting methods yield a common task representation?
 

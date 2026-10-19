@@ -27,7 +27,6 @@ summary: >-
   Mamba at up to 1.3B parameters.
 ---
 
-<!-- inactive-ok-file: THEORY-169 — Proposed; the account this reading supports -->
 
 # NOTE-620: Learning to (Learn at Test Time)
 
