@@ -97,3 +97,44 @@ decision files do not say.
 - The next five pending in queue order: CLAIM-268, CLAIM-081, CLAIM-107,
   CLAIM-188, CLAIM-193. CLAIM-081 is better taken in the wave-4 pass after
   CLAIM-270.
+
+## 2026-10-19 — batch-003
+
+**Patterns.**
+
+- *ADR-040 parents.* A claim whose note says "the general content is filed
+  separately" (CLAIM-081 → CLAIM-270, CLAIM-193 → CLAIM-269) keeps only the
+  carry-over to a domain. Its demonstrated warrant is then usually wrong.
+  Review the general entry instead, and correct the parent's warrant.
+- *An Active granted objection.* If an Active claim with `role: granted`
+  objects to the candidate (CLAIM-094 → CLAIM-107), the granted point is
+  the narrowing. Write it into the candidate's statement and promote the
+  rest.
+- *Empirical disjuncts that cannot defeat.* "Shown to agree on every pair
+  tested" (CLAIM-268) does not refute a statement about what a method
+  guarantees. Restate it as a derivation-type defeater rather than
+  calling the claim compound.
+- *Locate the singularity.* In model-reduction claims, check which model is
+  singular at which parameter. For pruning, it is the model with the
+  candidate, at the point where the candidate is switched off (THEORY-082),
+  not the reduced model (CLAIM-188).
+- *Look for an Active substitute ground.* CLAIM-269 grounds on THEORY-002
+  (Proposed) for "kernels fix representations up to symmetry", but
+  THEORY-004 (Active) proves the orthogonal-equivalence form. Before
+  recording a dependency blocker, grep the Active THEORYs for the same
+  statement.
+
+**Traps.**
+
+- Shell quoting: a note passed on the command line breaks on an
+  apostrophe. Quote the whole note.
+
+**Open threads.**
+
+- Wave 1's yield fell from 3/5 to 2/5, and the remaining wave-1 candidates
+  are mostly ones with Proposed premises. Run a wave-4 pass next: CLAIM-269
+  (THEORY-004 and THEORY-008 re-grounding), CLAIM-310, ARG-006, and
+  CLAIM-056 then CLAIM-081. Each is gated on an open PR merging (#165,
+  #167, or batch 002's follow-ups).
+- Wave 2 seeding (THEORY `promote_when` texts with "Done", "met" or
+  "confirmed") is still untried.

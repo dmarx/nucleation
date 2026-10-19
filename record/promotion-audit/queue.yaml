@@ -1,23 +1,29 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 18
+version: 19
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-003
-  state: in_progress
+  state: reviewed
   in_review: null
-  next_step: 'Batch 001''s decisions are open as PRs #167 (promote CLAIM-267, CLAIM-270), #168 (warrants
-    of CLAIM-077, CLAIM-098) and #169 (split CLAIM-285). Next: open the PRs batch 002 calls for (batches/batch-002.yaml
-    follow_up_prs; at most three entries each). Then either a wave-4 dependency pass (CLAIM-310 after
-    CLAIM-313; ARG-006 after the CLAIM-063 split; CLAIM-081/-056 once CLAIM-270/-267 are Active), or batch-003
-    with the next five pending: CLAIM-268, CLAIM-081, CLAIM-107, CLAIM-188, CLAIM-193.'
+  next_step: 'Batch 003 is reviewed. Open PRs: #165 (first audit, its second pass and follow-up), #166
+    (this ledger), #167 (promote CLAIM-267, CLAIM-270), #168 (warrants of CLAIM-077, CLAIM-098), #169
+    (split CLAIM-285). Not yet opened: the follow-up PRs of batch 002 and batch 003 (batches/batch-00{2,3}.yaml
+    follow_up_prs, at most three entries each). Wave 1''s yield fell to 2 of 5. The remaining wave-1 candidates
+    mostly have Proposed premises, so a wave-4 dependency pass is the better next batch once #165 and
+    #167 merge: CLAIM-269 (re-ground on THEORY-004 and THEORY-008 finite-M; see decisions/CLAIM-193.yaml
+    unlocks), CLAIM-310 (after CLAIM-313), ARG-006 (after the CLAIM-063 split), CLAIM-056 and then CLAIM-081
+    (after CLAIM-267 and CLAIM-270 are Active; both still rest on CLAIM-106). Otherwise batch-004 takes
+    the next five pending in queue order, skipping requeue: CLAIM-212, CLAIM-228, CLAIM-269, CLAIM-056,
+    CLAIM-206.'
   cautions:
   - 'PR #165 is open. Its tmp codes (CLAIM-tmpzk12h and others) are concretized at merge; update decisions/
     when they are.'
   - Read NOTES.md before starting a batch.
+  - Recompute the wave counts on every queue save, and run check.py before every commit.
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
@@ -517,3 +523,7 @@ history:
   date: '2026-10-19'
   note: CLAIM-193 decided, needs-correction; the demonstrated part is CLAIM-269's and the warrant should
     be interpretive. Batch 003 reviews complete.
+- version: 19
+  date: '2026-10-19'
+  note: 'Batch 003 closed: 1 promote, 1 narrow-and-promote, 1 retain-proposed, 2 needs-correction. Hand-off
+    rewritten for a wave-4 pass.'
