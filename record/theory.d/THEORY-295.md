@@ -17,7 +17,7 @@ history:
     and "does not track" becomes "need not track", since four of the five
     populations show a positive correlation. The S23 argument is re-derived
     in a dated note below. The promote_when, a model with memory or a real
-    field, moves unchanged to QUESTION-tmpsg8s1.
+    field, moves unchanged to QUESTION-151.
 tags:
 - philosophy-of-science
 - epistemology
@@ -138,4 +138,4 @@ needs only the independence of the replication. The existence half rests
 on the Bo-dominant population: near-perfect reproducibility, 25% (AIC) or
 48% (SC) of its time at the truth, and Spearman r = −0.06 between the two
 ([NOTE-792](../notes.d/NOTE-792.md), C2). Whether the decoupling survives a consensus with memory is
-[QUESTION-tmpsg8s1](../questions.d/QUESTION-tmpsg8s1.md).
+[QUESTION-151](../questions.d/QUESTION-151.md).

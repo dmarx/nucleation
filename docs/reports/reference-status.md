@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**515 documents cited without acknowledgement.** Not listed: 10147 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**515 documents cited without acknowledgement.** Not listed: 10142 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2656,8 +2656,8 @@ A multi-session argument's thesis can move without any participant arguing for t
 
 - [`record/claims.d/CLAIM-332.md:102`](../../record/claims.d/CLAIM-332.md)
 - [`record/questions.d/QUESTION-047.md:30`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:44`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:60`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:46`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:62`](../../record/questions.d/QUESTION-047.md)
 
 ### [CLAIM-199](../../record/claims.d/CLAIM-199.md) — Proposed
 
@@ -4609,7 +4609,7 @@ When a group learns only about the options its members pursue and good evidence 
 2 citations in 1 file await a look; 19 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:48`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:50`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-146](../../record/theory.d/THEORY-146.md) — Proposed
 
@@ -4618,7 +4618,7 @@ Industry can bias a scientific community toward a worse treatment without corrup
 2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:50`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:52`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-147](../../record/theory.d/THEORY-147.md) — Proposed
 
@@ -4636,7 +4636,7 @@ A group learning by trying needs diversity in what its members pursue that lasts
 2 citations in 1 file await a look; 20 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:49`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:51`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-151](../../record/theory.d/THEORY-151.md) — Proposed
 
@@ -4645,7 +4645,7 @@ Scientific objectivity belongs to a community's critical practices rather than t
 2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:32`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:51`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:53`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-154](../../record/theory.d/THEORY-154.md) — Proposed
 

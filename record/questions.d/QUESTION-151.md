@@ -1,5 +1,8 @@
 ---
+number: 151
 status: 'Open'
+formerly:
+- QUESTION-tmpsg8s1
 title: 'Does the decoupling of reproducibility from convergence survive a consensus with memory, where a challenger must win repeatedly or evidence accumulates, and scientists can learn?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   reproducible false consensus once the consensus has memory is untested.
 ---
 
-# QUESTION-tmpsg8s1: Does the decoupling of reproducibility from convergence survive a consensus with memory, where a challenger must win repeatedly or evidence accumulates, and scientists can learn?
+# QUESTION-151: Does the decoupling of reproducibility from convergence survive a consensus with memory, where a challenger must win repeatedly or evidence accumulates, and scientists can learn?
 
 ## Why it is a question
 

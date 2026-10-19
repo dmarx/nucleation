@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**813 document(s) awaiting a decision.**
+**812 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 813.
+95 of the 812.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-486 of the 813.
+485 of the 812.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -368,7 +368,6 @@
 | 2026-10-14 | Proposed | [THEORY-283](../../record/theory.d/THEORY-283.md) | 5 | 0 | For a two-layer network on a hierarchical multi-index target with Gaussian inputs, direction k becomes recoverable at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples, and a target-agnostic spectral estimator reaches the Bayes-optimal rates |
 | 2026-10-14 | Proposed | [THEORY-284](../../record/theory.d/THEORY-284.md) | 5 | 0 | If a feature's values form a compact metric space carried continuously and injectively onto the unit sphere, and cosine similarity is locally a C² decreasing function of squared feature distance, then every path on the representation manifold is √(−2g′(0)) times as long as the feature path it images, so on-manifold shortest paths recover the feature's intrinsic length metric up to one scale; a homeomorphism alone does not fix it |
 | 2026-10-14 | Proposed | [THEORY-290](../../record/theory.d/THEORY-290.md) | 5 | 0 | When debaters value true belief but also dislike changing their minds, equilibrium argument can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting arguments, and raising the weight on truth can lower equilibrium accuracy |
-| 2026-10-14 | Proposed | [THEORY-295](../../record/theory.d/THEORY-295.md) | 5 | 0 | In a community that updates a single consensus model by sound pairwise model comparison, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility does not track convergence to truth |
 | 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 5 | 0 | Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action |
 | 2026-10-14 | Proposed | [THEORY-306](../../record/theory.d/THEORY-306.md) | 5 | 0 | Volume-maximizing joint-embedding objectives carry a prior toward equal-sized clusters, explicit in MSN and SwAV and derived for VICReg only through a reduction to K-means, and with mini-batches of two to eight classes they lose semantic transfer while MAE and data2vec do not |
 | 2026-10-14 | Proposed | [THEORY-320](../../record/theory.d/THEORY-320.md) | 5 | 0 | In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it |
@@ -427,7 +426,7 @@
 | 2026-10-16 | Proposed | [THEORY-691](../../record/theory.d/THEORY-691.md) | 9 | 0 | A self is an abstractum like a centre of gravity, posited by interpreting a person's behaviour and talk, the brain's own autobiography included; it is as determinate as that story, it can be authored by a process with no self in it, and a body holds as many selves as the points the best story coheres around |
 | 2026-10-16 | Proposed | [THEORY-414](../../record/theory.d/THEORY-414.md) | 8 | 2 | Institutions are rules in equilibrium, correlated equilibria of coordination games with several equilibria that the players represent to themselves as rules, and a constitutive rule 'X counts as Y in C' is a regulative rule split by a coined term into a base rule and a status rule, so the term adds a name and cognitive economy but no new kind of fact |
 | 2026-10-16 | Proposed | [THEORY-538](../../record/theory.d/THEORY-538.md) | 8 | 0 | A system believes and desires when its behaviour is reliably and voluminously predictable by treating it as a rational agent with the beliefs and desires it ought to have, and the success of that strategy is an objective fact though adopting it is free; the more richly a system is connected to its world, the fewer interpretations fit, so thermostat and person differ in degree |
-| 2026-10-16 | Proposed | [THEORY-546](../../record/theory.d/THEORY-546.md) | 8 | 0 | A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity and intransitivity only when recast as overlapping chains of causally dependent psychological states, with a clause against branching |
+| 2026-10-16 | Proposed | [THEORY-546](../../record/theory.d/THEORY-546.md) | 8 | 0 | A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity, intransitivity and gaps when recast as overlapping chains of causally dependent psychological states with quasi-memory, and fission then needs either a clause against branching or multiple occupancy |
 | 2026-10-16 | Proposed | [THEORY-577](../../record/theory.d/THEORY-577.md) | 8 | 2 | Our judgments that consciousness poses a hard problem are behaviour, so explaining them is an easy problem that can be solved without mentioning consciousness; and a theory that names a mechanism as the basis of consciousness owes an account of how that mechanism produces those judgments, which IIT and biological theories struggle to give, since a functional duplicate with zero integrated information, or in silicon, would make the same reports |
 | 2026-10-16 | Proposed | [THEORY-453](../../record/theory.d/THEORY-453.md) | 7 | 0 | Basic physical objects can be nothing beyond the bearers of their relations: relations give them identity conditions wherever they discern them, and where nothing discerns them, as with entangled systems of one kind or points of a symmetric space-time, a primitive numerical diversity that is not a thisness suffices; general relativity's tensor and fibre-bundle formulations fit this reading but do not require it |
 | 2026-10-16 | Proposed | [THEORY-492](../../record/theory.d/THEORY-492.md) | 7 | 0 | Life was forced into existence by geochemistry: core metabolism, rooted in the reductive citric-acid cycle, formed as a channel relieving the free-energy stresses abiotic processes keep building, as lightning relieves a charge separation, so its early steps would recur on any similar planet and selection on metabolism came before replication |
@@ -604,7 +603,7 @@
 
 ## ADRs
 
-2 of the 813.
+2 of the 812.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -613,7 +612,7 @@
 
 ## QUESTIONs
 
-9 of the 813.
+9 of the 812.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -629,7 +628,7 @@
 
 ## CLAIMs
 
-216 of the 813.
+216 of the 812.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -852,7 +851,7 @@
 
 ## CASEs
 
-1 of the 813.
+1 of the 812.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -860,7 +859,7 @@
 
 ## TERMs
 
-2 of the 813.
+2 of the 812.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -869,7 +868,7 @@
 
 ## ARGs
 
-2 of the 813.
+2 of the 812.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
