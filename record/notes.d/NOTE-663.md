@@ -31,7 +31,6 @@ summary: >-
   ηλ_max far below 1.
 ---
 
-<!-- inactive-ok-file: THEORY-184 — Proposed; the THEORY this reading produced -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, which this reading bears on -->
 <!-- inactive-ok-file: LIT-370 — Proposed; the two-phase paper this one cites, named for the lineage -->
 <!-- inactive-ok-file: THEORY-112 — Proposed; the record's account of permutation symmetry in the loss landscape, named as a neighbour -->
