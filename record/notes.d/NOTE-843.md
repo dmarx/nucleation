@@ -30,7 +30,6 @@ summary: >-
   Laplacian, which beats summing TransE vectors on ip and pi queries.
 ---
 <!-- inactive-ok-file: NOTE-211 — Superseded; the skim this reading replaces -->
-<!-- inactive-ok-file: THEORY-299 — Proposed; the account filed from this reading, open -->
 <!-- inactive-ok-file: LIT-276 — Rejected; the measurement-as-sheafification paper, named for NOTE-249's comparison, not leaned on -->
 
 # NOTE-843: Gebhart, Hansen and Schrater — Knowledge Sheaves

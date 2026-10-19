@@ -1,22 +1,26 @@
 ---
 number: 301
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp52yl2
-promote_when: >-
-  A second close reading of App. A.1, with the Procrustes–Bures
-  equivalence it imports from Harvey, Larsen & Williams (LIT-250) in
-  force. That means checking Lemma 1 through Uhlmann's theorem and the
-  monotonicity of the trace norm under partial trace, which the paper
-  argues in quantum-information terms and here applies to real matrices,
-  and the Powers–Størmer step of the upper bound. This account rests on
-  one reading of a workshop paper. It is refuted by a pair of positive
-  semidefinite kernels that violates eq. 25 or 26. What cannot settle it:
-  the random ensembles of Fig. 2, or kernels from trained networks, which
-  populate the allowed region but cannot test an inequality beyond the
-  pairs drawn.
 title: 'The Procrustes distance between regularization-normalized representations and their average linear-decoding distance bound each other only through the participation ratio of the kernel difference: a small Procrustes distance forces a small decoding distance, but not conversely'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/THEORY-301.yaml,
+    batch 013). The promote_when asked for a second close reading of
+    App. A.1: Lemma 1, the partial-trace monotonicity and the
+    Powers–Størmer step. It is met instead by a direct derivation of
+    eqs. 25–26 for real matrices, written out below and in the decision
+    file, which also re-derives Cor. 1 so that nothing here rests on
+    THEORY-008. The owner's rule of 2026-10-19 (ADR-047): a checked
+    step-by-step re-derivation recorded in the decision file meets a
+    promote_when that asks for a proof the record does not hold, and the
+    THEORY is promoted. The promote_when is removed. The claim is
+    unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -113,3 +117,36 @@ where they are not.
   bounds come from the Fuchs–van de Graaf route, and both say the
   Euclidean and Bures geometries of kernels agree only up to a
   dimension-like factor.
+
+## Note of 2026-10-19: eqs. 25–26, derived directly
+
+With the notation above, write Δ = K_X − K_Y and D = E‖Xw* − Yv*‖². All
+matrices are real.
+
+- **Cor. 1.** Xw* = XG(X)⁻¹Xᵀz/M = K_X z, so D = E‖Δz‖² =
+  Tr(Δ E[zzᵀ] Δ) = ‖Δ‖²_F when E[zzᵀ] = I.
+- **Procrustes is Bures** ([THEORY-004](THEORY-004.md)). P² = α + β − 2F, with F the
+  fidelity ‖K_X^{1/2}K_Y^{1/2}‖_*, which is also the maximum over
+  orthogonal Q of ⟨X̃, ỸQ⟩.
+- **Upper bound on P².** F ≥ Tr(K_X^{1/2}K_Y^{1/2}), so
+  P² ≤ ‖K_X^{1/2} − K_Y^{1/2}‖²_F. For Powers–Størmer, let S = K_X^{1/2},
+  T = K_Y^{1/2}, E = S − T with eigenpairs (dᵢ, eᵢ), and J = sign(E).
+  Then K_X − K_Y = ½(E(S + T) + (S + T)E), and J commutes with E, so
+  Tr(JΔ) = Σᵢ |dᵢ|⟨eᵢ, (S + T)eᵢ⟩ ≥ Σᵢ |dᵢ||⟨eᵢ, (S − T)eᵢ⟩| = ‖E‖²_F,
+  because S and T are positive semidefinite. Since ‖J‖_op ≤ 1,
+  P² ≤ ‖E‖²_F ≤ ‖Δ‖_* = √(R_Δ D).
+- **Lower bound on P².** Replace Ỹ by ỸQ for the optimal Q, which leaves
+  K_Y unchanged. Let u = vec X̃/√α and v = vec Ỹ/√β in ℝ^M ⊗ ℝ^N, so
+  ⟨u, v⟩ = c = F/√(αβ). The partial trace over ℝ^N sends αuuᵀ to K_X and
+  βvvᵀ to K_Y. It is a trace-norm contraction:
+  ‖Tr_N H‖_* = sup over ‖W‖_op ≤ 1 of Tr((W ⊗ I)H) ≤ ‖H‖_*. On span{u, v},
+  with v = cu + sw, the matrix αuuᵀ − βvvᵀ has trace α − β and
+  determinant −αβs² ≤ 0. Its nuclear norm is therefore |λ₁ − λ₂| =
+  √((α − β)² + 4αβs²) = √((α + β)² − 4F²), which is Lemma 1. So
+  R_Δ D = ‖Δ‖²_* ≤ (α + β)² − (α + β − P²)². Since α + β − P² = 2F ≥ 0,
+  this is the left side of eq. 25.
+- **Eq. 26** rearranges eq. 25. Since ‖·‖_* ≥ ‖·‖_F, R_Δ ≥ 1 and
+  D ≤ 2(α + β)P².
+
+Uhlmann's theorem enters only through the maximisation in [THEORY-004](THEORY-004.md).
+The other steps are elementary and hold for real matrices as stated.

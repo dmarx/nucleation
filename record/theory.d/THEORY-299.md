@@ -1,22 +1,29 @@
 ---
 number: 299
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2q47k
-promote_when: >-
-  An independent check of the identifications in Appendix A against the
-  original scoring functions (Structured Embedding, TransE, TransR,
-  RotatE), and a proof, or a counterexample, for the claim that
-  bilinear scores have no representation as a coboundary of a sheaf of
-  vector spaces. The account is refuted if a model it counts as a
-  sheaf embedding has a score that is not a function of
-  F_h x_h − F_t x_t (plus a fixed translation), or if training such a
-  model without negative examples yields a nontrivial embedding for a
-  reason other than an added constraint. What cannot settle it: further
-  benchmark results, which bear on how well the models work, not on
-  what they are.
-title: 'Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf of vector spaces pulled back from the schema and scored by its Laplacian; since the zero cochain is always a global section, what they learn is a contrastive margin, not the existence of a section'
-version: 1
+title: 'Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf of vector spaces pulled back from the schema, each triple scored by a norm of the coboundary on its edge and, in the squared-Euclidean form, the whole graph by the sheaf Laplacian; since the zero cochain is always a global section, what they learn is a contrastive margin, not the existence of a section'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-299.yaml, batch 013, ADR-047).
+    The title said the embeddings are "scored by its Laplacian". That is
+    exact for the squared-Euclidean scores LIT-232 writes throughout, but
+    several of the original models use an unsquared or ℓ1 norm of the same
+    coboundary, for which the per-triple score is still a function of the
+    coboundary while the summed score is not the Laplacian form. The title
+    now says so. The identifications, the zero section and the degeneracy
+    of a positive-only objective are re-derived below. The promote_when's
+    request for a proof or counterexample about bilinear scores tests a
+    claim the title does not make. It moves to QUESTION-tmpvxp0f. Under the
+    owner's rule of 2026-10-19 (ADR-047), the re-derivation meets the
+    request for a second check of the identifications. The promote_when is
+    removed.
 tags:
 - mathematics
 - representation-learning
@@ -32,9 +39,10 @@ summary: >-
   extend, is the paper's own remark taken further by the record; it is
   what separates this use of sheaves from the contextuality line.
 ---
+<!-- inactive-ok-file: QUESTION-tmpvxp0f — Open; the bilinear question moved out of this account's promote_when, named as open -->
 <!-- inactive-ok-file: LIT-276 THEORY-024 — Rejected; named for contrast, not leaned on: LIT-276 for NOTE-249's finding that it has no connection to this paper, THEORY-024 as a neighbouring use of global sections -->
 
-# THEORY-299: Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf of vector spaces pulled back from the schema and scored by its Laplacian; since the zero cochain is always a global section, what they learn is a contrastive margin, not the existence of a section
+# THEORY-299: Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf of vector spaces pulled back from the schema, each triple scored by a norm of the coboundary on its edge and, in the squared-Euclidean form, the whole graph by the sheaf Laplacian; since the zero cochain is always a global section, what they learn is a contrastive margin, not the existence of a section
 
 ## Source
 
@@ -100,6 +108,10 @@ do.
   linear constraints, not that anything nonclassical is avoided.
 - **It does not give "approximate section" a precise sense** beyond a
   small score.
+- **It does not make every original model's score the Laplacian.** The
+  paper writes each score as a squared Euclidean norm. Where an original
+  model uses an unsquared or ℓ1 norm, the triple's score is still that
+  norm of the same coboundary, but the summed score is not xᵀLx.
 - **It is not an instruction.** Which restriction-map structure to use is
   practice, and belongs in the anthology.
 
@@ -119,3 +131,36 @@ do.
   from cellular sheaves and Hansen and Ghrist's Laplacians rather than
   from Abramsky and Brandenburger, covers this paper too. [NOTE-249](../notes.d/NOTE-249.md) finds
   that [LIT-276](../literature.d/LIT-276.md) has no connection to it.
+- **[QUESTION-tmpvxp0f](../questions.d/QUESTION-tmpvxp0f.md).** Whether bilinear scores admit a sheaf-coboundary
+  representation at all: the request this account's promote_when carried
+  until 2026-10-19.
+
+## Note of 2026-10-19: the identifications, derived directly
+
+Restriction maps depend only on the relation type, so every edge e of
+relation r has F_{h⊴r} and F_{t⊴r}, and for a 0-cochain x,
+(δx)_e = F_{h⊴r} x_h − F_{t⊴r} x_t.
+
+- **Structured Embedding:** F_{h⊴r} = R_r^lhs and F_{t⊴r} = R_r^rhs, with
+  score ‖(δx)_e‖.
+- **Unstructured Model:** F = I, with no translation.
+- **TransE:** F = I, plus a pulled-back 1-cochain r_r, with score
+  ‖(δx)_e + r_r‖.
+- **TransR:** F_{h⊴r} = F_{t⊴r} = M_r, plus r_r.
+- **RotatE:** F_{h⊴r} = diag(r) with |rᵢ| = 1, a real 2 × 2 block rotation
+  on ℂ^d ≅ ℝ^{2d}, and F_{t⊴r} = I.
+- **The Laplacian.** With L = δᵀδ, xᵀLx = ‖δx‖² = Σ_e ‖(δx)_e‖², the
+  summed squared score. With translations it is ‖δx + r‖², the affine form
+  of Appendix C.
+- **The zero section, and why negatives carry the content.** δ0 = 0, so
+  x = 0 is a global section of any sheaf of vector spaces. A positive-only
+  objective, the summed score over true triples, has minimum 0, and a
+  degenerate embedding attains it in every model above:
+  - x = 0 with r = 0 for SE, UM and TransR;
+  - all entities equal and r = 0 for TransE under its unit-norm
+    constraint;
+  - x = 0 for RotatE.
+
+  Such an embedding gives every triple the same score, so it ranks
+  nothing. A margin ranking loss is zero exactly on γ-gapped embeddings
+  (Definition 11, Eq. 4).

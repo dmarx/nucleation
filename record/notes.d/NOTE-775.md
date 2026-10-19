@@ -32,7 +32,6 @@ summary: >-
   predicted.
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-167 CLAIM-157 — Proposed; the coupling and boundary claims this reading bears on, open -->
-<!-- inactive-ok-file: THEORY-276 — Proposed; the account filed from this reading -->
 
 # NOTE-775: Pecora et al. — Cluster synchronization and isolated desynchronization
 

@@ -23,7 +23,7 @@ summary: >-
 refined_by:
 - QUESTION-084
 ---
-<!-- inactive-ok-file: THEORY-275 THEORY-276 — Proposed; readings listed with their limits, one an answer in part -->
+<!-- inactive-ok-file: THEORY-275 — Proposed; a reading listed with its limits, an answer in part -->
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement tells which architecture produced it?
 
