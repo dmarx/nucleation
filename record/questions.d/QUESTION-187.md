@@ -1,5 +1,8 @@
 ---
+number: 187
 status: Open
+formerly:
+- QUESTION-tmps5cfz
 title: "Does greedy layered search on the graph HNSW actually builds take expected O(log N) distance computations to a stated recall, under a stated condition on the data such as bounded doubling dimension?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   scaling departs from a logarithm.
 ---
 
-# QUESTION-tmps5cfz: Does greedy layered search on the graph HNSW actually builds take expected O(log N) distance computations to a stated recall, under a stated condition on the data such as bounded doubling dimension?
+# QUESTION-187: Does greedy layered search on the graph HNSW actually builds take expected O(log N) distance computations to a stated recall, under a stated condition on the data such as bounded doubling dimension?
 
 ## Why it is a question
 

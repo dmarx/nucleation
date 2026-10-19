@@ -6,8 +6,8 @@
 
 **Thermodynamics** — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020).
 
-0 of 184 QUESTION documents. Back to the [full index](../README.md).
+1 of 187 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [QUESTION-186](../../../record/questions.d/QUESTION-186.md) | In a second system with a known reciprocal coupling and one unit driven at graded strengths, does the measured transfer-entropy asymmetry grow to one-way flow under strong drive while the coupling stays symmetric? | The promotion condition formerly on [THEORY-275](../../../record/theory.d/THEORY-275.md), moved here when [THEORY-275](../../../record/theory.d/THEORY-275.md) was narrowed to the one bead system of [LIT-947](../../../record/literature.d/LIT-947.md) and promoted on 2026-10-19 ([ADR-047](../../../record/decisions.d/ADR-047.md) v3). In that system the one-way regime under strong drive is a simulation of the fitted model, not a measurement. | Open |

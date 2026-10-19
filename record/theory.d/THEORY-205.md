@@ -17,7 +17,7 @@ history:
     a 3-state chain. The transfer matrix is stated as symmetric with a
     non-degenerate leading excited eigenvalue, and the CFT reading is
     marked as cited. The promote_when, widened to ask when the two
-    thresholds coincide, moves to QUESTION-tmpbc3nl.
+    thresholds coincide, moves to QUESTION-185.
 tags:
 - natural-sciences
 - information-theory
@@ -30,7 +30,7 @@ summary: >-
   Ising cylinder, reproduced exactly in [NOTE-690](../notes.d/NOTE-690.md). The theorem holds
   for slabs of a cylinder, at the point where the uninformative encoder
   first loses stability. The global first transition can come earlier,
-  and when the two coincide is QUESTION-tmpbc3nl. The paper's
+  and when the two coincide is QUESTION-185. The paper's
   "equivalence" of IB and RG relevance, and [LIT-878](../literature.d/LIT-878.md)'s use of it for RSMI
   filters on planar blocks, go beyond it.
 answers:
@@ -82,7 +82,7 @@ cylinder makes P(v, e) a sum of rank-one terms with weights
   bifurcation an encoder far from uninformative can already beat it,
   which happens on a skewed 3-state chain (dated note below). The two
   thresholds agree in the Ising check, and when they agree in general is
-  [QUESTION-tmpbc3nl](../questions.d/QUESTION-tmpbc3nl.md).
+  [QUESTION-185](../questions.d/QUESTION-185.md).
 - **Not that IB and RG relevance are equivalent in general**, as the
   paper's abstract puts it. The theorem concerns the first IB feature in
   one geometry. Later transitions are not derived.
@@ -167,4 +167,4 @@ boundary slice s and E's boundary slice t.
    transition of the global optimum. The encoder that wins on the 3-state
    chain still separates states by the sign of r_1. Whether the global
    optimum's first feature is always the leading excited mode is part of
-   [QUESTION-tmpbc3nl](../questions.d/QUESTION-tmpbc3nl.md).
+   [QUESTION-185](../questions.d/QUESTION-185.md).

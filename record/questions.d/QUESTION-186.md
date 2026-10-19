@@ -1,5 +1,8 @@
 ---
+number: 186
 status: Open
+formerly:
+- QUESTION-tmpbr2ll
 title: "In a second system with a known reciprocal coupling and one unit driven at graded strengths, does the measured transfer-entropy asymmetry grow to one-way flow under strong drive while the coupling stays symmetric?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   strong drive is a simulation of the fitted model, not a measurement.
 ---
 
-# QUESTION-tmpbr2ll: In a second system with a known reciprocal coupling and one unit driven at graded strengths, does the measured transfer-entropy asymmetry grow to one-way flow under strong drive while the coupling stays symmetric?
+# QUESTION-186: In a second system with a known reciprocal coupling and one unit driven at graded strengths, does the measured transfer-entropy asymmetry grow to one-way flow under strong drive while the coupling stays symmetric?
 
 ## Why it is a question
 

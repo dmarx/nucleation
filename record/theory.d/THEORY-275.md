@@ -20,7 +20,7 @@ history:
     symmetrically coupled units" to the one bead system LIT-947 studied,
     read in full in NOTE-788. The strong-drive regime is marked as
     numerics of the fitted model. The promote_when, a second system with
-    strong drive measured, moves unchanged to QUESTION-tmpbr2ll.
+    strong drive measured, moves unchanged to QUESTION-186.
 tags:
 - information-theory
 - causality
@@ -40,7 +40,7 @@ summary: >-
   the coupled particles are independent at steady state. The paper does
   not test an unrecorded drive shared by both units, and it does not
   claim that the measures reveal coupling architecture. Whether the
-  same holds in other reciprocally coupled systems is QUESTION-tmpbr2ll.
+  same holds in other reciprocally coupled systems is QUESTION-186.
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-167 THEORY-129 — Proposed; the architecture claims this account qualifies and the shared-cue account set beside it, open -->
 
@@ -146,6 +146,6 @@ title is stated in [LIT-947](../literature.d/LIT-947.md)'s text: the moderate-dr
 Figs. 3–4 and in App. F, strong drive in App. D, no drive in App. H. [NOTE-788](../notes.d/NOTE-788.md) read the figures from their
 captions, so the title gives orderings and no values. The general claim,
 that directional information measures between reciprocally coupled units
-follow a one-sided drive, is [QUESTION-tmpbr2ll](../questions.d/QUESTION-tmpbr2ll.md). In the linear Gaussian
+follow a one-sided drive, is [QUESTION-186](../questions.d/QUESTION-186.md). In the linear Gaussian
 pair it could be settled exactly, because delayed-MI asymmetry there is
 c_xy(τ)² − c_yx(τ)², computable from the stationary covariance.

@@ -1,5 +1,8 @@
 ---
+number: 185
 status: Open
+formerly:
+- QUESTION-tmpbc3nl
 title: "When does the information bottleneck's first global transition between a lattice block and its far environment coincide with the point where the uninformative encoder loses stability, and is the first feature the leading excited transfer-matrix mode beyond the Ising check?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   chain. In the circumference-3 Ising check the two agree.
 ---
 
-# QUESTION-tmpbc3nl: When does the information bottleneck's first global transition between a lattice block and its far environment coincide with the point where the uninformative encoder loses stability, and is the first feature the leading excited transfer-matrix mode beyond the Ising check?
+# QUESTION-185: When does the information bottleneck's first global transition between a lattice block and its far environment coincide with the point where the uninformative encoder loses stability, and is the first feature the leading excited transfer-matrix mode beyond the Ising check?
 
 ## Why it is a question
 

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**506 documents cited without acknowledgement.** Not listed: 9738 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**502 documents cited without acknowledgement.** Not listed: 9727 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2201,19 +2201,6 @@ A far-from-equilibrium system that contributes to its own maintenance has functi
 - [`record/questions.d/QUESTION-128.md:81`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:112`](../../record/questions.d/QUESTION-128.md)
 
-### [THEORY-275](../../record/theory.d/THEORY-275.md) — Proposed
-
-Directional information measures between two symmetrically coupled units follow the path of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of one unit and one-way under strong drive
-
-6 citations in 4 files await a look; 8 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1177.md:14`](../../record/literature.d/LIT-1177.md)
-- [`record/notes.d/NOTE-943.md:148`](../../record/notes.d/NOTE-943.md)
-- [`record/notes.d/NOTE-945.md:146`](../../record/notes.d/NOTE-945.md)
-- [`record/notes.d/NOTE-945.md:154`](../../record/notes.d/NOTE-945.md)
-- [`record/notes.d/NOTE-945.md:157`](../../record/notes.d/NOTE-945.md)
-- [`record/theory.d/THEORY-701.md:81`](../../record/theory.d/THEORY-701.md)
-
 ### [THEORY-539](../../record/theory.d/THEORY-539.md) — Proposed
 
 Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation
@@ -3114,8 +3101,8 @@ Mutual entrainment is a sufficient mark of a combined form, and marks it as one 
 3 citations in 1 file await a look; 42 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
-- [`record/questions.d/QUESTION-063.md:32`](../../record/questions.d/QUESTION-063.md)
-- [`record/questions.d/QUESTION-063.md:36`](../../record/questions.d/QUESTION-063.md)
+- [`record/questions.d/QUESTION-063.md:31`](../../record/questions.d/QUESTION-063.md)
+- [`record/questions.d/QUESTION-063.md:35`](../../record/questions.d/QUESTION-063.md)
 
 ### [CLAIM-186](../../record/claims.d/CLAIM-186.md) — Proposed
 
@@ -3515,7 +3502,7 @@ Coral bleaching is the breakdown of a regulated host–symbiont exchange, reache
 
 - [`record/notes.d/NOTE-656.md:205`](../../record/notes.d/NOTE-656.md)
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
-- [`record/questions.d/QUESTION-063.md:41`](../../record/questions.d/QUESTION-063.md)
+- [`record/questions.d/QUESTION-063.md:40`](../../record/questions.d/QUESTION-063.md)
 
 ### [THEORY-150](../../record/theory.d/THEORY-150.md) — Proposed
 
@@ -3898,7 +3885,7 @@ One-way drive rightly passes the threshold criterion: a metronome and its musici
 2 citations in 1 file await a look; 26 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
-- [`record/questions.d/QUESTION-063.md:32`](../../record/questions.d/QUESTION-063.md)
+- [`record/questions.d/QUESTION-063.md:31`](../../record/questions.d/QUESTION-063.md)
 
 ### [CLAIM-179](../../record/claims.d/CLAIM-179.md) — Proposed
 
@@ -4546,7 +4533,7 @@ In Acropora millepora the natural night-light regime is necessary for spawning o
 2 citations in 1 file await a look; 4 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
-- [`record/questions.d/QUESTION-063.md:40`](../../record/questions.d/QUESTION-063.md)
+- [`record/questions.d/QUESTION-063.md:39`](../../record/questions.d/QUESTION-063.md)
 
 ### [THEORY-133](../../record/theory.d/THEORY-133.md) — Proposed
 
@@ -4655,15 +4642,6 @@ In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), w
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
 - [`record/questions.d/QUESTION-039.md:57`](../../record/questions.d/QUESTION-039.md)
-
-### [THEORY-205](../../record/theory.d/THEORY-205.md) — Proposed
-
-For a short-range lattice model on a cylinder, with block and environment as slabs separated by a buffer, the information-bottleneck encoder at its first transition depends on the block only through the boundary weak value of the leading transfer-matrix eigenvector, at β_c = (λ0/λ1)^(2L_B): at large circumference this is the lowest-dimension primary, so the first feature information-theoretic relevance selects is the most RG-relevant operator; nothing is shown for blocks inside a buffer shell or for the fixed-alphabet RSMI optimum
-
-2 citations in 1 file await a look; 4 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-065.md:24`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:45`](../../record/questions.d/QUESTION-065.md)
 
 ### [THEORY-207](../../record/theory.d/THEORY-207.md) — Proposed
 
@@ -4790,15 +4768,6 @@ Tetris players rotate pieces more often and earlier than planning a placement an
 
 - [`record/theory.d/THEORY-334.md:112`](../../record/theory.d/THEORY-334.md)
 - [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
-
-### [THEORY-365](../../record/theory.d/THEORY-365.md) — Proposed
-
-A stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, makes greedy search cost grow about logarithmically with the number of items on uniform random data in 4 and 8 dimensions, where single-layer navigable graphs grow polylogarithmically; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it
-
-2 citations in 2 files await a look.
-
-- [`record/questions.d/QUESTION-114.md:350`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-385.md:94`](../../record/theory.d/THEORY-385.md)
 
 ### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
 
@@ -5868,14 +5837,6 @@ Cognitive mechanisms can be derived as the one, among those a brain can execute,
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-343.md:132`](../../record/theory.d/THEORY-343.md)
-
-### [THEORY-385](../../record/theory.d/THEORY-385.md) — Proposed
-
-In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data
-
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
-
-- [`record/theory.d/THEORY-365.md:118`](../../record/theory.d/THEORY-365.md)
 
 ### [THEORY-419](../../record/theory.d/THEORY-419.md) — Proposed
 

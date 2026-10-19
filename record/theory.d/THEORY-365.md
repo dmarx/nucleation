@@ -17,7 +17,7 @@ history:
     only "below NSW at every size" was measured. At d = 4 the measured
     quantity is the beam width, not the cost. "Makes" claimed an
     isolated effect. The promote_when moves unchanged to
-    QUESTION-tmps5cfz.
+    QUESTION-187.
 tags:
 - databases
 - information-retrieval
@@ -37,7 +37,7 @@ summary: >-
   cost no worse than logarithmic is measured on uniform random data at
   d = 8, a saturating beam width at d = 4, and at d = 128 (200M SIFT) the
   growth departs from a logarithm. A proof for the graphs HNSW builds is
-  QUESTION-tmps5cfz. The
+  QUESTION-187. The
   paper gives no worst-case bound and no recall guarantee. Construction is
   argued to cost about N searches.
 ---
