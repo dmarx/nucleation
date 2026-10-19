@@ -1,20 +1,10 @@
 ---
 number: 8
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpqq4es
-promote_when: >-
-  A close reading of Harvey, Lipshutz & Williams confirming Prop. 2 and Cor.
-  1 at finite M, and, for the population version, a source that proves the
-  identities at K_z = I, such as GULP's population analysis (not held).
-  As of 2026-10-14 (NOTE-834) the first clause is met: both are
-  proved in full and re-derived. The population clause is not, and cannot
-  be met from this paper: App. A.3 is an outline, needs b > 0 (so the CCA
-  member is not covered), mis-states a constant, and treats a trace-class
-  task covariance, so at K_z = I its limit is zero. The status stays
-  Proposed.
-title: 'What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement'
-version: 4
+title: 'On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement'
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -45,6 +35,18 @@ history:
     §5's future work is linear classifiers. Prop. 3 is read, holds, gives
     inequalities, and is cited as THEORY-301. The Deferred comment on
     LIT-257 removed.
+- version: 5
+  date: '2026-10-19'
+  note: >-
+    Confined to a finite stimulus set and promoted from Proposed to Active
+    at the owner's direction, from the second pass of the owner's
+    promotion audit of 2026-10-19. NOTE-834 found the promote_when's first
+    clause met (Prop. 2 and Cor. 1 proved in full and re-derived) and its
+    population clause unmeetable from this paper, and named the two ways
+    forward: another source, or "a rewording that confines the claim to
+    finite M". This takes the second. The body already stated everything
+    at finite M; the title now says so. The population clause moves,
+    unchanged, to QUESTION-tmp4uhs6, and the promote_when is removed.
 tags:
 - representation-learning
 - mathematics
@@ -68,7 +70,7 @@ supports:
 <!-- inactive-ok-file: THEORY-301 — Proposed; the account of Prop. 3 filed from LIT-257, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-236 — Proposed; named in Connections for why GL-invariant comparison is degenerate, not leaned on -->
 
-# THEORY-008: What a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+# THEORY-008: On a finite set of stimuli, what a regularized linear readout can decode from a representation is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
 
 ## Source
 
@@ -80,6 +82,7 @@ For readouts w maximizing zᵀXw/M − ½wᵀG(X)w, the decoded signal is K_X z 
 
 ## What this does not say
 
+- **Anything in the population limit.** Every identity here is for M stimuli. Whether the K_z = I identities have a non-degenerate limit as M grows, which the source's App. A.3 does not reach, is [QUESTION-tmp4uhs6](../questions.d/QUESTION-tmp4uhs6.md).
 - Anything about nonlinear readouts, which are outside the source, or classifiers (§5 names linear classifiers, SVMs and multi-class logistic regression, as future work).
 - Which task distribution K_z is the right one to average over.
 - The source's Proposition 3 (bounds via Procrustes distance) is a result of a different kind: two-sided inequalities rather than identities. It is now read and holds, given the imported Procrustes–Bures equivalence; [THEORY-301](THEORY-301.md) holds it.

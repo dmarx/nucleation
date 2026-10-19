@@ -43,7 +43,6 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-083 — Proposed; compared in Connections as a different sense of "categorical", no relation declared -->
 <!-- inactive-ok-file: THEORY-102 — Proposed; named in Connections for the decoding caution, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-008 — Proposed; named in Connections for why separability cannot see types, nothing here rests on it -->
 
 # THEORY-124: During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way
 

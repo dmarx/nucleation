@@ -71,7 +71,6 @@ supports:
 - CLAIM-148
 ---
 
-<!-- inactive-ok-file: THEORY-008 — Proposed: cited for which comparison measures are the invariant ones, itself awaiting close readings; the directive lapses when its status changes -->
 
 # THEORY-017: In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 

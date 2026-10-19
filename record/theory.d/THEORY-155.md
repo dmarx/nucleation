@@ -1,19 +1,26 @@
 ---
 number: 155
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp0w0cu
-promote_when: >-
-  A transmission-chain experiment in which the learners' prior over the
-  hypotheses is measured or set independently of the chain (for example
-  by manipulation or a separate elicitation), and the chains' long-run
-  distribution of hypotheses is compared against it, matching it where
-  the learners' responses behave as posterior samples and departing from
-  it in the direction the MAP analysis predicts where they behave as
-  maximizers. Chains that merely become more structured, with no
-  independent measure of the prior, cannot settle it either way.
-title: 'Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior'
-version: 1
+title: 'Iterated learning by Bayesian agents who sample from the posterior converges, in an ergodic chain, to the shared prior'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, from the
+    owner's promotion audit of 2026-10-19. The promote_when asked for a
+    human transmission-chain experiment with an independently measured
+    prior, which tests the theorem's application to people, not the
+    theorem; the body already said the THEORY does not claim that
+    application. The condition moves, unchanged, to QUESTION-tmpxheie, and
+    the THEORY keeps the theorem. Checked again for this promotion: with
+    Q(h′|h) = Σ_d P(h′|d)P(d|h), Σ_h Q(h′|h)P(h) = Σ_d P(h′|d)P(d) = P(h′), so
+    the prior is stationary whatever the data space, as NOTE-599
+    reads Eqs. 25–36. Convergence to it needs the chain to be ergodic,
+    which the body stated and the title now does. The claim is otherwise
+    unchanged.
 tags:
 - linguistics
 - probabilistic-modeling
@@ -31,7 +38,8 @@ summary: >-
   mode but depends on data amount and noise, and can amplify weak biases.
   It is a theorem about an idealized chain. It does not say human chains
   reach the prior, and Kirby, Cornish & Smith's laboratory chains,
-  [LIT-771](../literature.d/LIT-771.md), are consistent with it without testing it.
+  [LIT-771](../literature.d/LIT-771.md), are consistent with it without testing it. Whether human
+  chains do is [QUESTION-tmpxheie](../questions.d/QUESTION-tmpxheie.md).
 supports:
 - CLAIM-066
 - CLAIM-090
@@ -39,9 +47,10 @@ supports:
 - CLAIM-191
 ---
 
+<!-- inactive-ok-file: NOTE-596 — Skimmed; cited for what Kirby, Cornish & Smith's chains do and do not test, not leaned on -->
 <!-- inactive-ok-file: LIT-768 — Unavailable, no lawful full text; named as the classical case the claim would have to meet, not leaned on -->
 
-# THEORY-155: Iterated learning by Bayesian agents who sample from the posterior converges to the shared prior
+# THEORY-155: Iterated learning by Bayesian agents who sample from the posterior converges, in an ergodic chain, to the shared prior
 
 ## Source
 
@@ -89,7 +98,7 @@ same distribution is the stable equilibrium of an unbounded population.
 ## What this does not say
 
 - **It does not say human languages, or human transmission chains,
-  converge to human priors.** That depends on whether people learn by
+  converge to human priors.** That is [QUESTION-tmpxheie](../questions.d/QUESTION-tmpxheie.md). That depends on whether people learn by
   something like posterior sampling, which the source calls unexplored for
   language, and on all learners sharing one prior and one likelihood
   matched to production.
