@@ -1,22 +1,22 @@
 ---
 number: 309
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbf74l
-promote_when: >-
-  A close reading of Fritz (2012), the construction the review adapts, or
-  of another primary source, that states the general version: for any
-  marginal scenario, every nondisturbing family of context distributions
-  is realized by jointly measurable POVMs proportional to the identity.
-  The review proves it for CHSH and says the extension is
-  straightforward. The extension checks by hand (NOTE-844), but
-  holds on the record's own derivation until a source states it. Refuted
-  by a nondisturbing behaviour in some scenario that no family of jointly
-  measurable POVMs reproduces. What cannot settle it: arguments that
-  trivial POVMs are physically unreasonable. Those are the point of the
-  claim, not evidence against it.
 title: 'If contexts are defined by joint measurability alone, every nondisturbing correlation, maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum system, so Kochen–Specker contextuality needs a stronger operational notion of context'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted to Active, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-309.yaml, batch 017, ADR-047).
+    The promote_when asked for a primary source stating the general
+    version, which the review proves only for CHSH and NOTE-844 checked by
+    hand. Under ADR-047 v2 (the owner's rule of 2026-10-19), a checked
+    step-by-step re-derivation meets a request for a proof the record does
+    not hold. The general construction is written out below under "The
+    general scenario". The claim is unchanged.
 tags:
 - contextuality
 - quantum-foundations
@@ -62,11 +62,29 @@ straightforwardly to any arbitrary contextuality scenario". The
 nondisturbing correlations replace the nonsignalling ones, and with them
 "all maximally contextual correlations".
 
-The reader checked the extension ([NOTE-844](../notes.d/NOTE-844.md)). For a marginal
-scenario with locally consistent context distributions p_C, set
-G^C_{a_C} := p_C(a_C)𝟙. Local consistency makes the induced single-observable
-POVMs the same in every context containing them. Each context's
-observables are jointly measurable by G^C.
+**The general scenario** (checked in [NOTE-844](../notes.d/NOTE-844.md) and re-derived for
+the promotion audit, [ADR-047](../decisions.d/ADR-047.md) v2). A marginal scenario has observables X,
+each with a finite outcome set O_X, and a cover of contexts C. A behaviour
+gives a distribution p_C on O_C = Π_{X∈C} O_X for each context, and it is
+nondisturbing when p_C and p_C′ have the same marginal on C ∩ C′.
+
+1. Take the one-dimensional Hilbert space ℂ and its only state, ρ = 1.
+2. For each context C and each a_C ∈ O_C, put G^C_{a_C} := p_C(a_C)𝟙. Each
+   effect is a non-negative multiple of 𝟙, and they sum to 𝟙, so G^C is a
+   POVM on O_C.
+3. For X ∈ C, the induced POVM is E^{X,C}_a := Σ_{a_C : a_C(X) = a} G^C_{a_C}
+   = p_C|_X(a)𝟙.
+4. Nondisturbance on {X} ⊆ C ∩ C′ gives p_C|_X = p_C′|_X. So E^{X,C} does not
+   depend on C: each observable is a single POVM E^X, and each context's
+   observables are jointly measurable, with G^C as the joint POVM.
+5. Born's rule gives tr(ρ G^C_{a_C}) = p_C(a_C), so every context's
+   statistics are reproduced. That includes behaviours with no global
+   section, such as the PR box and the maximally contextual behaviours.
+
+So if a context is any jointly measurable set, every nondisturbing
+behaviour has a quantum realization by effects proportional to the
+identity, and contextuality relative to that notion of context marks
+nothing.
 
 The review concludes that "when one uses too broad of a notion of
 contexts, i.e., joint-measurability alone, contextuality becomes a

@@ -31,7 +31,7 @@ summary: >-
   smallest contextual scenarios. Stated and illustrated in the review,
   not proved there.
 ---
-<!-- inactive-ok-file: THEORY-309 THEORY-013 — Proposed; the companion account filed from the same reading, and the account of context-dependent marginals named as outside this one -->
+<!-- inactive-ok-file: THEORY-013 — Proposed; the account of context-dependent marginals named as outside this one -->
 
 # THEORY-303: A measurement scenario whose compatibility hypergraph is acyclic admits no contextuality: locally consistent context distributions always glue to a global one, so a contextual scenario needs an induced cycle of length at least four
 

@@ -18,7 +18,20 @@ promote_when: >-
   Neither can further measurements under the deterministic protocol of
   LIT-617, which the existing evidence already covers.
 title: "The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-078.yaml, batch 017, ADR-047).
+    The exact algebra of LIT-619 (the four-term decomposition, the rank and
+    Gram-matrix statement for the class-centre term, and the eigenvalue
+    inequalities) is filed apart as THEORY-tmpuga9q, Active, with its
+    derivation written out (ADR-047 v2). This THEORY extends it and keeps
+    the measured attribution. Its promote_when already concerned only the
+    attribution and is unchanged. The claim is unchanged, and the status
+    stays Proposed.
 tags:
 - information-geometry
 - representation-learning
@@ -42,6 +55,8 @@ summary: >-
   Hessian's outliers to G. The decomposition is algebra. That G₁ carries
   the outliers is measured, by eye, under a training protocol narrower
   than practice. So this is Proposed.
+extends:
+- THEORY-tmpuga9q
 extended_by:
 - THEORY-085
 supports:
@@ -138,6 +153,10 @@ whether it sits above or below it ([NOTE-474](../notes.d/NOTE-474.md)).
 
 ## Connections
 
+- **[THEORY-tmpuga9q](THEORY-tmpuga9q.md)** holds the exact algebra this account builds on: the
+  decomposition, the rank and Gram-matrix statement for G₁, and
+  λ_k(G) ≥ λ_k(G₁₊₂) ≥ λ_k(G₁), derived. What is left here is the
+  measurement that the inequalities are nearly tight in trained networks.
 - **[THEORY-085](THEORY-085.md)** extends this account layer by layer, to the
   Kronecker structure of the class directions and what K-FAC does to them.
 - **[THEORY-083](THEORY-083.md)** is the last-layer end state the separation clause
