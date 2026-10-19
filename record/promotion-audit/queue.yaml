@@ -1,41 +1,38 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 70
+version: 72
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batch-008
+  batch: batch-009
   state: reviewed
   in_review: null
-  next_step: 'Batch 008 (wave 2) is reviewed: 4 of 5 found a promotion path. Wave 2 stands at 23 of 25.
-    MERGE ORDER: merge #166 first, because later PRs cite ADR-047. Open PRs from this audit, by batch:
-    first audit and its passes, #165. Ledger and ADR-047, #166. Batch 001: #167 (promote CLAIM-267, -270),
-    #168 (warrants of CLAIM-077, -098), #169 (split CLAIM-285). Batch 002: #170 (promote CLAIM-313; CLAIM-310
-    one-copy condition; held only by a bot run awaiting maintainer approval), #171 (correct CLAIM-308,
-    -251), #174 (split CLAIM-063, -037). Batch 003: #172 (correct CLAIM-188, -193), #173 (promote CLAIM-268;
-    narrow and promote CLAIM-107). Batch 004: #175 (CLAIM-056 warrant). Gated on #165: the CLAIM-269 split
-    and the CLAIM-322 promotion (interpretive, the owner''s call). Batch 005: #176 (promote THEORY-184;
-    split THEORY-165), #177 (split THEORY-017), #178 (split THEORY-174, -168). Batch 006: #179 (split
-    THEORY-325; THEORY-236 promoted with a CLAIM), #180 (narrow and promote THEORY-247, -206). Batch 007:
-    #181 (THEORY-009, -233), #182 (THEORY-297, -323). Batch 008: no PRs yet. Next: (1) open batch 008''s
-    PRs (batches/batch-008.yaml follow_up_prs). (2) Run the next wave-2 batch with THEORY-037, THEORY-002,
-    THEORY-127, THEORY-686 and THEORY-604; THEORY-002 may now ground on THEORY-233 once #181 merges. (3)
-    Re-try THEORY-277 after one retrieval round on Claim C.5 (decisions/THEORY-277.yaml). (4) Run a wave-4
-    pass on the THEORY-165 citers once #176 merges (CLAIM-105, -201, -219, -235, -319, -320, CASE-037),
-    and on CLAIM-038 and CLAIM-094 once batch 008''s PRs merge. (5) Waves 3 (source-backed THEORYs) and
-    5 (interpretive claims) have not started; triage them by bundling, as batch 007 recommends, not by
-    keywords.'
+  next_step: 'Batch 009 (wave 2) is reviewed: 4 of 5 found a promotion path (THEORY-037 promote; THEORY-002,
+    -127, -604 split; THEORY-686 needs correction, then promote). Wave 2 stands at 27 of 30. MERGE ORDER:
+    merge #166 first, because later PRs cite ADR-047. Open PRs from this audit, by batch: first audit
+    and its passes, #165. Ledger and ADR-047, #166. Batch 001: #167, #168, #169. Batch 002: #170, #171,
+    #174. Batch 003: #172, #173. Batch 004: #175. Batch 005: #176, #177, #178. Batch 006: #179, #180.
+    Batch 007: #181, #182. Batch 008: #183 (narrow and promote THEORY-171, -160, -158; new QUESTION-tmpilsf5,
+    QUESTION-tmpb09gm, QUESTION-tmpnm9ml). HELD: THEORY-157 (batch 008, split), whose definitions were
+    reconstructed from prose; verify them against the source''s diagrams before carrying it out. DEFERRED:
+    THEORY-277 (batch 008), whose Lemma C.4 is blocked at the never-filling block; it needs Claim C.5.
+    Gated on #165: the CLAIM-269 split and the CLAIM-322 promotion (interpretive, the owner''s call).
+    Next: (1) open batch 009''s PRs (batches/batch-009.yaml follow_up_prs; at most three entries each).
+    (2) Re-triage wave 2 over the remaining mathematics-tagged Proposed THEORYs by bundling, as batch-009.yaml
+    recommends, then run one or two more batches; THEORY-565 is the last triage-002 entry pending. (3)
+    A dedicated pass for THEORY-127''s Proposition 3 (requeue). (4) Wave-4 passes: the THEORY-165 citers
+    once #176 merges; CLAIM-269 and CLAIM-193 once THEORY-002''s split merges; CLAIM-038 and CLAIM-094
+    after batch 008''s PRs. (5) Waves 3 and 5 have not started; triage them by bundling, not by keywords.'
   cautions:
-  - 'PR #165''s tmp codes (CLAIM-tmpzk12h and others) are concretized at merge. Update decisions/ when
-    they are.'
   - Read NOTES.md before starting a batch.
-  - Recompute the wave counts on every queue save, and run check.py before every commit.
-  - Read THEORY entries and their NOTEs from origin/main (git show origin/main:<path>). The ledger branch's
-    tree is based on an older main.
-  - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
+  - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks. Write
     it out step by step.'
+  - Re-deriving a promote_when's theorems also checks the title's quantifiers. Three scope errors have
+    been found that way (CLAIM-264, CLAIM-123, THEORY-686).
+  - Fork worktrees share the branch ref. The parent's checkout must not sit on claude/promotion-audit-ledger
+    while a fork owns it.
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
@@ -64,6 +61,10 @@ requeue:
 - code: CLAIM-326
   when: before its review
   why: 'PR #165 adds a second ground (THEORY-tmp2m4ke); review the merged version'
+- code: THEORY-127
+  when: a dedicated pass, after its batch-009 split merges
+  why: 'Proposition 3 on the court agenda: path-connectedness, then the decisive-coalition argument, under
+    ADR-047 v2 (decisions/THEORY-127.yaml blockers)'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -628,6 +629,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-008
   decision: decisions/THEORY-171.yaml
+  carried_out_in: '#183'
 - code: THEORY-160
   wave: 2
   score: 4
@@ -636,6 +638,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-008
   decision: decisions/THEORY-160.yaml
+  carried_out_in: '#183'
 - code: THEORY-158
   wave: 2
   score: 4
@@ -644,6 +647,7 @@ candidates:
   disposition: narrow-and-promote
   batch: batch-008
   decision: decisions/THEORY-158.yaml
+  carried_out_in: '#183'
 - code: THEORY-157
   wave: 2
   score: 4
@@ -1001,4 +1005,11 @@ history:
 - version: 70
   date: '2026-10-19'
   note: 'Batch 009: THEORY-604 decided (split).'
+- version: 71
+  date: '2026-10-19'
+  note: 'Batch 009 closed: 1 promote, 3 split, 1 needs-correction. THEORY-127 requeued for Proposition
+    3. Hand-off rewritten.'
+- version: 72
+  date: '2026-10-19'
+  note: 'carried_out_in #183 for THEORY-171, -160 and -158 (batch 008).'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

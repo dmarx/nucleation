@@ -353,3 +353,33 @@ history note. THEORY-277 is requeued on this basis.
 - **Keep a superseded decision traceable.** When a candidate is re-reviewed,
   overwrite its decision file and record the earlier disposition in
   `supersedes_review`. check.py allows one file per code.
+
+## 2026-10-19 — batch 009
+
+- **A third scope error in a correct theorem.** THEORY-686's title says
+  the observations with no generative effect are exactly the left
+  adjoints. The absence of generative effects is about binary joins, while
+  Thm 1.115 needs all joins. A constant map to ⊤ has no generative effect
+  and is not a left adjoint. That makes three after CLAIM-264 and CLAIM-123.
+  When re-deriving under ADR-047 v2, test the title's quantifiers against
+  the smallest degenerate case: the empty join, a two-element order, a
+  constant map.
+- **Frames from Stonean spectra.** THEORY-037's Heyting structure follows
+  in a few lines once each stage is extremally disconnected. Closures of
+  open unions are then clopen, and S ∩ cl U = cl(S ∩ U) for clopen S. A
+  promote_when that rules out "Sub(X) is Heyting in any topos" is met by an
+  argument internal to the clopen sub-objects.
+- **Full readings can already hold the core.** THEORY-002 needed no
+  re-derivation. NOTE-738 read every proof in App. B, C and E. Its title
+  simply bundled them with a reading of the Platonic hypothesis. Check a
+  NOTE's version-1 history line, which says what was read, before
+  re-deriving anything.
+- **The Dietrich–List result is beyond a two-round pass.** Proposition 3
+  for the court agenda needs path-connectedness and a decisive-coalition
+  argument. It is requeued as a dedicated pass, not deferred.
+- **Wave 2's triage-002 list is exhausted except for THEORY-565.** The yield
+  stays high (27 of 30), so re-triage the remaining mathematics THEORYs by
+  bundling (batch-009.yaml recommendation) before moving to wave 3.
+- **A stale directive was left on purpose.** CLAIM-107 still has a THEORY-158
+  `inactive-ok` directive. #183 left it in place because #173 rewrites that
+  file. Trim it once both #173 and #183 have merged.
