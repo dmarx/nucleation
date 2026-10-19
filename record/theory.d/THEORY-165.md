@@ -1,17 +1,25 @@
 ---
 number: 165
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp8ly9g
-promote_when: >-
-  A published proof or statement of the continuity (or Lipschitz bound) of
-  the contextual fraction in the empirical model, read and checked. Or an
-  independent check of the derivation below against the linear programme
-  of LIT-265, including that strong duality holds and that the dual
-  minimum is attained at a vertex for every empirical model. Numerical
-  agreement on more examples does not count.
-title: 'Within a fixed measurement scenario, the contextual fraction is a convex, piecewise-linear and Lipschitz-continuous function of the empirical model''s probability table'
-version: 1
+title: 'Within a fixed measurement scenario, the non-contextual fraction is the value of a linear programme whose constraint vector is the empirical model''s probability table, and the contextual fraction is convex under mixing'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Split and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-165.yaml, batch 005, ADR-047).
+    This THEORY now holds what LIT-265 proves, which NOTE-236 read with the
+    supplemental proofs: NCF as the value of the linear programme (Eq. 3)
+    and convexity of CF under mixing (Theorem 2). Piecewise linearity and
+    the Lipschitz bound were, as the summary said, the reader's derivation.
+    They are now CLAIM-tmp496tl, demonstrated and Active, with a proof that
+    also shows strong duality without the paper's supplement. That met the
+    promote_when's second option. The title is narrowed to the source's part,
+    and the promote_when is removed.
 tags:
 - contextuality
 - mathematics
@@ -22,8 +30,8 @@ summary: >-
   From Abramsky, Barbosa & Mansfield (2017), [LIT-265](../literature.d/LIT-265.md): the non-contextual
   fraction is the value of a linear programme whose constraint vector is
   the empirical model (Eq. 3), and convexity of CF under mixing is their
-  Theorem 2. Piecewise linearity and the Lipschitz bound are the reader's
-  derivation from strong duality, not stated in the paper. The Lipschitz
+  Theorem 2. Piecewise linearity and the Lipschitz bound are the record's
+  own derivation, now CLAIM-tmp496tl. The Lipschitz
   constant depends on the scenario and is not bounded here. Nothing here
   applies to signalling data, where CF is undefined.
 supports:
@@ -33,7 +41,7 @@ supports:
 - CLAIM-320
 ---
 
-# THEORY-165: Within a fixed measurement scenario, the contextual fraction is a convex, piecewise-linear and Lipschitz-continuous function of the empirical model's probability table
+# THEORY-165: Within a fixed measurement scenario, the non-contextual fraction is the value of a linear programme whose constraint vector is the empirical model's probability table, and the contextual fraction is convex under mixing
 
 ## Source
 
@@ -85,3 +93,12 @@ is a sample, not the constant.
 - **Not that the strongly contextual / noncontextual decomposition varies
   continuously.** The decomposition need not be unique (the paper's
   Table II), even though its weight is continuous.
+
+## Note of 2026-10-19: split
+
+The derivation in "What was actually shown", that NCF is the minimum over
+the dual polyhedron's vertices, and so is piecewise linear and Lipschitz
+in the table, is now [CLAIM-tmp496tl](../claims.d/CLAIM-tmp496tl.md). It is Active, with a written proof.
+This THEORY keeps the linear programme and Theorem 2, which the paper
+proves. The CHSH check and the sample of dual norms above stay here as
+what the reader computed.

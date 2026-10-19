@@ -1,0 +1,31 @@
+# record/promotion-audit/decisions/CLAIM-191.yaml
+id: CLAIM-191
+batch: batch-004
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: interpretive
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    None to promote. The three formal premises it takes from (CLAIM-267 and
+    CLAIM-270 in PR #167, THEORY-155 in #165) supply the recursion, the
+    retention/drift distinction and the convergence theorem. None of them
+    says which way restatements drift.
+  excluded: >-
+    The thesis. Restatements across memoryless sessions drift toward the
+    collaborators' own framings, not at random, and a code restores
+    continuity. Its defeat condition is a blind-rater study of
+    re-derivations, which has not been run.
+evidence:
+  - "rests_on also has CLAIM-177, CLAIM-182 and CLAIM-002, all Proposed."
+  - "Objected to by CLAIM-189 (Proposed): fidelity is the wrong measure of a developing argument."
+  - "The merges of #165 and #167 make three of its premises Active, and three Proposed premises and one open objection remain."
+blockers:
+  - >-
+    The blind-rater study its defeat condition names, or the coded and
+    uncoded identity comparison. Also decisions on CLAIM-177, CLAIM-182 and
+    CLAIM-002, and an answer to CLAIM-189.
+unlocks: []
+next_action: None. A wave-5 candidate if a study of restatements across sessions is ever run.

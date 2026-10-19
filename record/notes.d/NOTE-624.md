@@ -37,7 +37,6 @@ summary: >-
 
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn predecessor whose polytope and causal-fraction claims this paper proves -->
 <!-- inactive-ok-file: THEORY-171 — Proposed; named to say this reading does not test it -->
-<!-- inactive-ok-file: THEORY-165 — Proposed; named to say this reading does not test it -->
 
 # NOTE-624: The Geometry of Causality
 

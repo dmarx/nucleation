@@ -28,7 +28,7 @@ summary: >-
   100-eigenfunction basis, which beat Blended Intrinsic Maps on SCAPE and
   TOSCA.
 ---
-<!-- inactive-ok-file: THEORY-297 THEORY-239 — Proposed; the account filed from this reading, and two accounts it bears on, open -->
+<!-- inactive-ok-file: THEORY-239 — Proposed; two accounts this reading bears on, open -->
 <!-- inactive-ok-file: CLAIM-098 — Proposed; the claim that translation is directed, which this reading bears on, open -->
 
 # NOTE-822: Ovsjanikov et al. — Functional maps

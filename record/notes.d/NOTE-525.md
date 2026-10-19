@@ -31,7 +31,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-002 — Proposed; named for the record's account of representational convergence, with no relation claimed -->
-<!-- inactive-ok-file: THEORY-008 — Proposed; named for kernel similarity as averaged readout agreement, with no relation claimed -->
 
 # NOTE-525: Does Data Scaling Lead to Visual Compositional Generalization?
 

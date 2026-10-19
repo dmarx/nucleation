@@ -3,8 +3,8 @@ number: 123
 status: Proposed
 formerly:
 - CLAIM-tmpzkhdr
-title: 'In conditional generation, adding scores composes conditions only under conditional independence of the conditions at the noisy state'
-version: 2
+title: 'In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require'
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,11 +12,24 @@ history:
     Grounds add THEORY-405, the account of Composable Diffusion filed
     from LIT-770 in the THEORY backfill, which states the conditions under
     which summed scores are a product. The claim is unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Corrected at the owner's direction, from the owner's promotion audit
+    of 2026-10-19. The title said score addition composes conditions only
+    under conditional independence. That is a sufficient condition stated
+    as a necessary one, and the claim's own defeat condition (a proof that
+    score addition composes without the assumption) is met: the derivation
+    gives an exact criterion, and the body now gives dependent conditions
+    that satisfy it. The derivation survives, so the claim is corrected,
+    not rejected. Title, defeat condition and the first section are
+    revised; the warrant stays demonstrated and the status Proposed.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
-  A proof that score addition composes conditions without the conditional-
-  independence assumption.
+  An error in the identity s₁₂ − s₁ − s₂ + s₀ = ∇ₓ log [p(y₁,y₂|x) /
+  (p(y₁|x)p(y₂|x))], or in the example of conditions that are dependent
+  given x and whose ratio does not vary with x.
 tags:
 - compositionality
 - probabilistic-modeling
@@ -42,7 +55,7 @@ corroborated_by:
 - CLAIM-321
 ---
 
-# CLAIM-123: In conditional generation, adding scores composes conditions only under conditional independence of the conditions at the noisy state
+# CLAIM-123: In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require
 
 ## The claim
 
@@ -51,6 +64,32 @@ Composable Diffusion exploits ([LIT-770](../literature.d/LIT-770.md)). The manus
 conditional independence at the relevant noisy state and does not guarantee
 correct joint bindings. Schrödinger bridges give a path-space view of
 conditional transport ([LIT-776](../literature.d/LIT-776.md)).
+
+**The exact condition.** Write s₀ = ∇ₓ log p(x), sᵢ = ∇ₓ log p(x|yᵢ) and
+s₁₂ = ∇ₓ log p(x|y₁,y₂), all at the same noisy state x. By Bayes,
+∇ₓ log p(x|y) = ∇ₓ log p(x) + ∇ₓ log p(y|x), so
+
+  s₁₂ − s₁ − s₂ + s₀ = ∇ₓ log [p(y₁,y₂|x) / (p(y₁|x)p(y₂|x))].
+
+The scores add exactly when the right side vanishes, that is, when the
+ratio does not vary with x on a connected region where the densities are
+positive and differentiable. Conditional independence given x makes the
+ratio 1 for every x, so it is sufficient. It is not necessary. Let y₁ and
+y₂ each take values in {0, 1, 2}, with p(yᵢ|x) = (σ(x)/2, σ(x)/2, 1 − σ(x))
+for any smooth σ into (0, 1), and let v = (1, −1, 0), so that
+Σ_y v(y)p(y|x) = 0 for every x. Then
+
+  p(y₁,y₂|x) = (1 + ε v(y₁)v(y₂)) p(y₁|x) p(y₂|x),  0 < ε < 1,
+
+is a conditional distribution with the given marginals for every x. The
+conditions are dependent given x (the factor is 1 + ε at y₁ = y₂ = 0), and
+the ratio is 1 + ε v(y₁)v(y₂) for every x, so the scores add exactly. The
+example is constructed; nothing here says prompts behave this way.
+
+The manuscript's caution therefore stands with one correction. Conditional
+independence is the condition under which addition is guaranteed for every
+pair of condition values, not the only one under which it holds, and the
+criterion is about one pair (y₁, y₂) at one noise level.
 
 ## What it does not say
 
@@ -77,7 +116,7 @@ to condition. The open question behind it is [QUESTION-018](../questions.d/QUEST
 
 Ho and Salimans ([LIT-839](../literature.d/LIT-839.md)) show that learned scores are not
 conservative, so a guided field is in general the score of no density. That
-is a caveat on s₁₂ = s₁ + s₂ − s₀ beyond the conditional independence this
+is a caveat on s₁₂ = s₁ + s₂ − s₀ beyond the condition on the ratio this
 claim states. Attend-and-Excite ([LIT-806](../literature.d/LIT-806.md)) documents conjunctions failing
 by omission ("catastrophic neglect"), and in T2I-CompBench++ ([LIT-798](../literature.d/LIT-798.md))
 Composable Diffusion is again the weakest method.

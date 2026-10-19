@@ -1,19 +1,27 @@
 ---
 number: 297
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp11baf
-promote_when: >-
-  An independent statement and proof of Theorem 5.1 and of the
-  eigenspace-preservation consequence for smooth manifolds, with the
-  conditions under which the truncated matrix C_{n×n} of an exact isometry
-  stays orthogonal (a spectral gap at n). It is refuted by a
-  volume-preserving bijection whose functional matrix in orthonormal bases
-  is not orthogonal, or an isometry whose matrix mixes eigenspaces with
-  different eigenvalues. What cannot settle it: shape-matching benchmark
-  results, which test the method, not the theorem.
-title: "A bijection between shapes is equivalent to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace"
-version: 1
+title: "A bijection between shapes is equivalent, up to null sets, to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-297.yaml, batch 007, ADR-047).
+    The promote_when's first clause asked for an independent statement and
+    proof of Theorem 5.1 and of eigenspace preservation. The record does
+    not hold a second source. The owner ruled on 2026-10-19 that a checked
+    step-by-step re-derivation recorded in the decision file meets such a
+    clause, and the three statements were re-derived there by change of
+    variables and the metric naturality of the Laplacian. The note of
+    2026-10-19 below gives them. "Equivalent" now carries "up to null sets",
+    which a merely measurable bijection needs. The clause on truncation and
+    near-isometries, which the THEORY already disclaimed, moves unchanged to
+    QUESTION-tmp3bfqc, and the promote_when is removed.
 tags:
 - mathematics
 date: '2026-10-14'
@@ -30,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-239 — Proposed; accounts this one sits beside, open -->
 
-# THEORY-297: A bijection between shapes is equivalent to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace
+# THEORY-297: A bijection between shapes is equivalent, up to null sets, to the linear operator it induces on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace
 
 ## Source
 
@@ -69,7 +77,9 @@ why the paper uses an unweighted Laplacian where it helps compactness.
   numerical step without guarantee.
 - **Not that truncation is stable.** That the span of the first n
   eigenfunctions survives a near-isometry is cited to Kato (1995), with a
-  gap between the nth and (n + 1)st eigenvalues; it is not shown.
+  gap between the nth and (n + 1)st eigenvalues; it is not shown. When the
+  truncated block of an exact or near isometry stays orthogonal is
+  [QUESTION-tmp3bfqc](../questions.d/QUESTION-tmp3bfqc.md).
 - **Not which matrices come from point maps.** The paper calls that "a
   difficult open problem" (§5.5).
 - **Not that near-isometries are nearly diagonal in general.** The 94%
@@ -90,3 +100,28 @@ why the paper uses an unweighted Laplacian where it helps compactness.
 - [THEORY-009](THEORY-009.md) says self-adjointness in spectral self-supervised learning
   comes from a symmetric pair distribution. Here the analogue of symmetry
   is volume preservation, which makes the inverse the adjoint.
+
+## Note of 2026-10-19: the three statements, re-derived
+
+For a measurable bijection T: M → N between compact Riemannian manifolds,
+with T_F(f) = f∘T⁻¹:
+
+1. **Equivalence.** T_F is linear and sends 1_A to 1_(T(A)), so it fixes
+   T(A) for every measurable A, and with it T up to null sets. If T is
+   continuous, it fixes T pointwise.
+2. **Orthogonality.** If T preserves volume, change of variables gives
+   ‖f∘T⁻¹‖²_N = ∫_N |f(T⁻¹y)|² dy = ∫_M |f|² dx, so T_F is unitary from
+   L²(M) to L²(N). In orthonormal bases its matrix C satisfies CᵀC = I, and
+   its inverse is the matrix D of T⁻¹, so C = Dᵀ. That is Theorem 5.1(1),
+   which [NOTE-822](../notes.d/NOTE-822.md) checked.
+3. **Eigenspaces.** A Riemannian isometry pulls back the metric, and the
+   Laplace–Beltrami operator is built from the metric alone, so
+   Δ_N(f∘T⁻¹) = (Δ_M f)∘T⁻¹. So T_F maps the λ-eigenspace of M onto the
+   λ-eigenspace of N, and C_ij = 0 whenever λ_i ≠ λ_j, since eigenspaces of
+   distinct eigenvalues are orthogonal. The paper cites this as well known.
+   It is the naturality of the Laplacian under isometries.
+
+For an exact isometry the truncation question is easy when n ends at a
+spectral gap. C is block-diagonal by eigenspace, so its leading n × n block
+is a direct sum of orthogonal blocks. The open part is the near-isometric
+case, which is [QUESTION-tmp3bfqc](../questions.d/QUESTION-tmp3bfqc.md).

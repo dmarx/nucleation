@@ -4,15 +4,27 @@ status: Proposed
 formerly:
 - CLAIM-tmppqir6
 title: 'A linear probe family can tell apart only realizations whose representations differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed: any distinction beyond that is supplied by the analyst'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Warrant corrected from demonstrated to interpretive at the owner's
+    direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/CLAIM-193.yaml, batch 003, ADR-047).
+    Since the ADR-040 split of 2026-10-13, the demonstrated linear-readout
+    result has been CLAIM-269's, and the first disjunct of this claim's
+    defeat condition was CLAIM-269's, word for word. That disjunct is
+    dropped. What this claim adds is the carry-over to communicative
+    realizations, which the body calls "the filer's step", so it is
+    interpretive (ADR-043). The status stays Proposed.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
-  A regularized linear readout is shown to separate two representations
-  with the same normalized kernel. Or, for communicative realizations, a
-  probe family is found whose separating power is not determined by a
-  kernel or similarity structure over the realizations, so that the
-  result does not carry across.
+  For communicative realizations, a probe family is found whose separating
+  power is not determined by a kernel or similarity structure over the
+  realizations, so that the linear-readout result (CLAIM-269) does not
+  carry across.
 tags:
 - representation-learning
 - mathematics
@@ -107,3 +119,12 @@ formal-apparatus line, resting on no claim. This claim now rests on it for
 the general content, and keeps [CLAIM-142](CLAIM-142.md), for carrying the result to communicative realizations. Claims in other lines that need
 only the general content cite [CLAIM-269](CLAIM-269.md), so setting pragmatic-transport aside
 does not take it from them.
+
+## Note of 2026-10-19: the warrant
+
+The linear-readout result is [CLAIM-269](CLAIM-269.md)'s, in the formal-apparatus line,
+and its defeat condition is that claim's. This claim keeps the step that
+communicative realizations read through a probe family have a kernel that
+plays the same role. That step is argued, not proved, and whether human
+judges are a probe family at all is the open dispute between [CLAIM-142](CLAIM-142.md) and
+[CLAIM-206](CLAIM-206.md). So the warrant is interpretive.

@@ -1,0 +1,50 @@
+# record/promotion-audit/decisions/CLAIM-268.yaml
+id: CLAIM-268
+batch: batch-003
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    (1) Reconstruction form: if s ∘ r = t on the input distribution, then
+    P(t | Y) = s#P(r | Y), so t is a deterministic garbling of r about the
+    label, and any decision rule δ on t gives the rule δ ∘ s on r with the
+    same risk. This holds on any outcome space; it needs neither THEORY-176
+    nor a finite-outcome Blackwell theorem. (2) Task-loss form: the stitched
+    loss and the target loss are each an upper bound on the best risk
+    attainable from r and from t, and a difference of upper bounds orders
+    neither minimum. (3) Not invariant: with the paper's 1×1 convolutional
+    stitcher, which acts on each spatial position separately, take a top
+    network whose output reads only position (0, 0), and a spatial
+    permutation φ that moves it. Then r and φ(r) are each a function of the
+    other (Blackwell-equivalent), but no 1×1 stitcher can bring position
+    (0, 0)'s content back, so on a task that depends on it their penalties
+    differ. (4) A failure says only that no map in the class works.
+  excluded: >-
+    The measured size of the effect in real networks, which is THEORY-176's
+    promote_when (a measurement under the paper's protocol), and stays
+    there.
+evidence:
+  - "Steps (1) and (2) are one line each. Step (3) is a construction written for this review; the claim's 'it is not invariant' should read 'it is not in general invariant'."
+  - "LIT-363 and LIT-850 are Active. THEORY-176 is Proposed only for the measured effect, which the claim does not need."
+blockers: []
+notes: >-
+  The defeat condition's second disjunct is empirical ("task-loss stitching
+  penalties shown, for the map class in use, to agree with Blackwell's order
+  on every pair of representations tested"), and it cannot defeat the claim:
+  agreement on the pairs tested does not refute a statement about what the
+  penalty guarantees. It is the warrant/defeater mismatch pattern, here in a
+  claim that is demonstrable once the disjunct is restated. Restate it as "a
+  proof that, for the map class in use, the task-loss penalty is monotone in
+  Blackwell's order on every pair of representations". Also write steps
+  (1) and (3) into the body, and ground step (1) on the composition argument
+  rather than on THEORY-176.
+unlocks:
+  - "CLAIM-126 rests on this, and also on CLAIM-050, CLAIM-268, THEORY-156, THEORY-175 and THEORY-176. Promoting it does not unlock CLAIM-126 alone."
+next_action: >-
+  Promotion PR. Restate the second defeat disjunct, add the composition
+  argument and the 1×1-stitcher construction, write "not in general
+  invariant", and set Active.

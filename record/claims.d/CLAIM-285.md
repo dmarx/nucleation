@@ -3,10 +3,25 @@ number: 285
 status: Proposed
 formerly:
 - CLAIM-tmpxuigm
-title: 'An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities'
-version: 1
+title: 'An endorsement scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Split at the owner's direction, carrying out the promotion audit's
+    decision (record/promotion-audit/decisions/CLAIM-285.yaml, batch 001,
+    ADR-047). The existence result, that under one-hop allocation an
+    operator's authority stays fixed while endorsing a nearer ally raises
+    its objective, is now CLAIM-tmpso62d, demonstrated and Active, with a
+    construction. This claim rests on it and keeps what its defeat
+    condition was about: that the incentive does work in a population, and
+    that the conditions are not confined to one hop. Neither has a
+    construction or an observation under it, so the warrant is interpretive
+    (ADR-043). The title is restated to lead with that. The defeat condition
+    is unchanged, and the status stays Proposed.
 role: thesis
-warrant: demonstrated
+warrant: interpretive
 defeated_if: >-
   A result showing that, for every aggregation rule that lets endorsement
   carry authority further than one hop, an operator that delegates in order
@@ -27,6 +42,7 @@ line:
 - distributed-agency
 rests_on:
 - CLAIM-282
+- CLAIM-tmpso62d
 uses:
 - TERM-053
 summary: >-
@@ -48,7 +64,7 @@ complements:
 ---
 <!-- inactive-ok-file: THEORY-029 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-285: An endorsement scheme can deny each operator control over its own authority and still reward it for delegating, because the authority an operator holds and how far its preferred policies are realized are different quantities
+# CLAIM-285: An endorsement scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation
 
 ## The claim
 
@@ -106,3 +122,12 @@ delegates authority to a different operator."
   and of endorsing its judgement about whom to trust (A2 §9, "third-order
   endorsement"), is not filed. [THEORY-029](../theory.d/THEORY-029.md)'s regress is a warning against
   expecting authority to come from the order of an endorsement alone.
+
+## Note of 2026-10-19: split under [ADR-043](../decisions.d/ADR-043.md)
+
+The compatibility of A2's two conditions under one-hop allocation is now
+[CLAIM-tmpso62d](CLAIM-tmpso62d.md), written as a construction and Active. This claim keeps what
+its defeat condition tests. One part is that the reward does work: that
+operators bound by the constraint delegate, and delegate to aligned others
+rather than at random. The other is that the two conditions can be held
+together beyond one hop. Neither is shown, so this claim is interpretive.

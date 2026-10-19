@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/CLAIM-188.yaml
+id: CLAIM-188
+batch: batch-003
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+role: counter
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    The conditional argument. If the model with the candidate is singular at
+    the parameters where the candidate is switched off, and its RLCT there
+    is λ < d/2 (THEORY-087's singular half), then the Gaussian Occam term
+    charges keeping the candidate (d/2) log n where the true charge is
+    λ log n − (m − 1) log log n. The rule then overcharges, and prunes
+    structure the exact Bayes factor keeps, by a gap that grows as
+    (d/2 − λ) log n. That is the direction the body gives.
+  excluded: >-
+    The title's placement of the singularity, and the claim as
+    unconditional.
+evidence:
+  - "THEORY-082 (Active): an MLP's Fisher 'loses rank wherever an output weight is zero'. Pruning a hidden unit is that point of the full model."
+  - "THEORY-087's singular half is held as cited (Watanabe's Theorem 2 and the §7.1 remark, unproved in LIT-616). The follow-up of PR #165 also found the general regular half cited, not proved; THEORY-087's promote_when now asks for both."
+  - "The body itself: 'It does not rest on read theorems', and the step from blocks and couplings to singular 'should be checked on a concrete family'."
+blockers:
+  - >-
+    A misstatement of the mechanism. The title says the candidate's
+    "removal makes the remaining model singular". The singular model is the
+    model WITH the candidate, at the parameters where its contribution is
+    zero: for an MLP, an output weight of zero (THEORY-082). The reduced
+    model is typically regular. The argument in the body works only on that
+    reading, so correct the title and the first bullet's framing.
+  - >-
+    After correction it stays Proposed until THEORY-087's singular half is
+    held as a proof, or the claim's own "What would answer it" is run: the
+    rule against an exact or WBIC-estimated Bayes factor near the
+    threshold, across n, on reduced-rank regression or a two-block coupling
+    model. WBIC alone cannot settle THEORY-087 (its promote_when says why),
+    so for this claim an exact or numerically integrated free energy is the
+    better comparator.
+unlocks: []
+next_action: >-
+  Correction PR: restate the title as about the model with the candidate,
+  singular where the candidate is switched off. Status unchanged.

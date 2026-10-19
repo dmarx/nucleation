@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-206.yaml
+id: THEORY-206
+batch: batch-006
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The Taylor-sense statement, which the body already states and NOTE-693
+    checked (C2, "strong, bias-free networks only"). For bias-free networks
+    of smooth σ with nonzero Taylor coefficients up to degree d = Σ rᵢ:
+    matching x₁^r₁⋯xₙ^rₙ's degree-d Taylor polynomial at 0 with one hidden
+    layer needs exactly ∏(rᵢ+1) neurons, and a deep network needs at most
+    Σ(7⌈log₂ rᵢ⌉ + 4). The upper bounds also hold for uniform approximation
+    on a box (Proposition 3.3). The bounded-degree edge (c monomials cost
+    at most c·2ᵈ in one layer, for any n) is also part of it.
+    The lower bound was re-derived for this review. Suppose the rows a_j^S
+    over sub-multisets S were dependent: q(a) = Σ λ_S a^S = 0 at every
+    a_j. Let K be the largest |S| with λ_S ≠ 0, and f_e the degree-e
+    homogeneous part of f = Σ w_j σ(a_j·x). Then
+    g = Σ_S μ_S ∂^S f_(d−K+|S|), with
+    μ_S = λ_S (d−K)! / (σ_(d−K+|S|) (d−K+|S|)!), equals
+    Σ_j w_j q(a_j)(a_j·x)^(d−K) = 0. But Taylor matching gives f_e = 0 for
+    e < d and f_d = x^r, so g = Σ_(|S|=K) μ_S ∂^S x^r. That is a combination
+    of distinct monomials x^(r−S) with nonzero coefficients, so g ≠ 0, a
+    contradiction. So the ∏(rᵢ+1) rows are independent, and m ≥ ∏(rᵢ+1).
+    This uses σ_e ≠ 0 for d − K ≤ e ≤ d only.
+  excluded: >-
+    The title's "to approximate", read as uniform approximation. Theorem
+    4.1's lower bound assumes that uniform closeness forces the Taylor
+    coefficients close. That fails: ε·tanh(x/ε²) is within ε of 0 with
+    first coefficient 1/ε (NOTE-693 C3, "weak as proved"). Also excluded:
+    what replaces the bound with hidden-layer biases. Both are the
+    promote_when's open half and go to a QUESTION.
+evidence:
+  - "NOTE-693 claims table: C2 'strong, bias-free networks only; Theorem 4.2 and its proof; checked'. C5 and C6 'checked'. C3 'weak as proved'."
+  - "LIT-890 was published at ICLR 2018 (NOTE-693, version 1)."
+  - "The re-derivation above, which differs from the NOTE's summary ('a dependence among rows of maximal |S|') by using the lower-degree parts that Taylor matching forces to zero."
+blockers: []
+notes: >-
+  This is NOTES pattern 2 again. The promote_when asks for the uniform and
+  biased versions, which is a different theorem from the one the body
+  proves. The title's "approximate" is what bundles them.
+unlocks:
+  - "QUESTION-060 is answered by THEORY-206, and CLAIM-360 rests on it. Check in a wave-4 pass whether each needs only the Taylor-sense bound."
+next_action: >-
+  Narrow-and-promote PR. Restate the title as "to match its Taylor
+  polynomial at the origin", keeping the uniform upper bounds. Add the
+  re-derivation as a dated note, remove the promote_when, and set Active.
+  File a QUESTION carrying the old promote_when, unchanged: the uniform
+  lower bound, and what replaces it with biases.

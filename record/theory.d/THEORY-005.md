@@ -20,7 +20,7 @@ promote_when: >-
   et al.'s F.1, and they have no operator or eigenfunctions; this does
   not meet it.
 title: 'The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator''s eigenfunctions, well defined when the positive-pair χ²-divergence is finite'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -48,6 +48,17 @@ history:
     promote_when says this does not meet it. Jorgensen & Tian's Ex. 4.86
     and Lemma 3.28 are cited for L²(μ) as the commutative GNS space, for
     compact X only. The Deferred comments on LIT-251 and LIT-259 removed.
+- version: 4
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, from the second pass of the owner's
+    promotion audit of 2026-10-19, the record's own derivation is filed
+    apart as CLAIM-370, Active and demonstrated, with a proof. That
+    claim includes the converse, that T is Hilbert–Schmidt only if χ² is
+    finite. This THEORY keeps its reading of the sources and the
+    eigenfunction identification for trained or spectral features. Its
+    promote_when, which asks for a published statement or a result about
+    trained features, is unchanged, and the status stays Proposed.
 tags:
 - representation-learning
 - mathematics
@@ -89,3 +100,13 @@ The L²(p) here is the space the commutative GNS construction produces from the 
 - That HaoChen et al.'s guarantees hold under finite χ² alone. Their infinite-space case assumes the uniform bound of Assumption F.1, and its extension of the main theorems is not written out.
 - Anything when χ²(P⁺‖P⊗P) is infinite, which happens when views are too informative about each other (for example, near-deterministic augmentations on continuous inputs).
 - That the GNS identification adds a result. It names the space; the theorems are the spectral theorem and the sources' own.
+
+## Note of 2026-10-19: the derivation filed as the record's own
+
+The derivation in "What was actually shown", that K⁺ is T's kernel, that T
+is Hilbert–Schmidt with ‖T‖²_HS = 1 + χ², and that it is self-adjoint, is
+now [CLAIM-370](../claims.d/CLAIM-370.md). It is stated there with a proof, including the
+converse (Hilbert–Schmidt only if χ² is finite), and it is Active.
+Mathematics the record proves does not wait on a source. What this THEORY
+still waits on is what the sources show, and whether features reach the
+eigenfunctions.

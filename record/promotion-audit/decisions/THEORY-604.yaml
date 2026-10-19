@@ -1,0 +1,51 @@
+# record/promotion-audit/decisions/THEORY-604.yaml
+id: THEORY-604
+batch: batch-009
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The core construction (LIT-115 §3, p. 58), as a new Active THEORY
+    sourced to LIT-115: an adjunction between C and D^op restricts to an
+    equivalence C′ ≃ D′^op between the full subcategories on which the unit
+    and counit are isomorphisms. This is a dual equivalence, with Pontrjagin
+    duality as the example. Re-derived below under ADR-047 v2, since the
+    paper states it without proof.
+  excluded: >-
+    What THEORY-604 keeps, Proposed, with its promote_when unchanged: that
+    most mathematical dualities are of this form (NOTE-141: "shown by
+    worked exposition of standard cases, not proved"; the paper says there
+    is unlikely to be "a single monolithic account"); and the verdicts on
+    physicists' dualities, which rest on a stated preference ("In my view
+    it is preferable", p. 57) and a paragraph per case. The promote_when's
+    case-by-case analysis bears on these.
+evidence:
+  - "NOTE-141 (read in full): the core construction is stated in §3. The breadth claim is exposition, and the reservation of 'duality' for structural reversal is a preference."
+  - >-
+    Re-derivation: let F : C → D^op be left adjoint to G : D^op → C, with
+    unit η : 1 → GF and counit ε : FG → 1. Let C′ be the full subcategory
+    of objects c with η_c an isomorphism, and D′ that of objects d with ε_d
+    an isomorphism. If c ∈ C′, the triangle identity
+    ε_(Fc) ∘ F(η_c) = 1_(Fc) has F(η_c) invertible, so ε_(Fc) is invertible
+    and Fc ∈ D′. Dually, G(ε_d) ∘ η_(Gd) = 1_(Gd) puts Gd in C′ for d ∈ D′.
+    On C′ and D′ the unit and counit are natural isomorphisms 1 ≅ GF and
+    FG ≅ 1, so the restrictions are inverse equivalences C′ ≃ D′, with D′
+    a full subcategory of D^op. That is, C′ is equivalent to the opposite
+    of a full subcategory of D.
+blockers: []
+notes: >-
+  This is a wave-2 split of the THEORY-005 kind. A small proved construction
+  is bundled with a survey thesis and a terminological preference, and the
+  promote_when tests only the latter two. The core is standard category
+  theory, so its value to the record is as the precise statement the
+  thesis is about.
+unlocks:
+  - "THEORY-020 (Stone duality) is the record's instance with dualising object 2. Check in a dependency pass whether it cites THEORY-604 for the construction."
+next_action: >-
+  Split PR. File the fixed-point construction as a new Active THEORY sourced
+  to LIT-115, with the re-derivation above. THEORY-604 extends it and keeps
+  the breadth thesis, the physicists' verdicts and the promote_when,
+  Proposed.

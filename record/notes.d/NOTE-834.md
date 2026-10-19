@@ -32,7 +32,7 @@ summary: >-
   outline that requires b > 0 and a trace-class task covariance, and it
   does not reach the K_z = I case.
 ---
-<!-- inactive-ok-file: THEORY-002 THEORY-236 THEORY-301 CLAIM-193 CLAIM-269 NOTE-225 — Proposed or Superseded; the accounts and claims this reading bears on, the account filed from it, and the skim it replaces -->
+<!-- inactive-ok-file: THEORY-002 THEORY-301 CLAIM-193 CLAIM-269 NOTE-225 — Proposed or Superseded; the accounts and claims this reading bears on, the account filed from it, and the skim it replaces -->
 
 # NOTE-834: Harvey, Lipshutz & Williams — What Representational Similarity Measures Imply about Decodable Information
 

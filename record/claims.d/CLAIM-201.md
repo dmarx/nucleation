@@ -49,7 +49,6 @@ objected_by:
 ---
 <!-- ref::uses-file: TERM-043 — applied unnamed: the weighted observational distortion D_obs computed in the example is the observational component of the profile this term defines -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the headline this claim narrows, open -->
-<!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for its scenario-dependent constant, not as settled -->
 <!-- inactive-ok-file: CLAIM-257 — Proposed; the measure of a change of cover, cited as a companion proposal -->
 
 # CLAIM-201: Over a fixed scenario, a change of global compatibility at small local distortion needs contextual judgements, which the behavioural data read so far lack; the form of the headline those data leave open is a change of cover, in which a rendering makes some of the source's questions undecidable for its readers and decides others the source left open

@@ -1,0 +1,49 @@
+# record/promotion-audit/decisions/THEORY-160.yaml
+id: THEORY-160
+batch: batch-008
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The symmetry–conservation equivalence for a bracket with unique flows
+    (Baez's Theorems 3, 4, 8 and 10), re-derived for this review under
+    ADR-047 v2. Assume that for each a the flow equation
+    d/dt F_t(b) = {a, F_t(b)}, F_0(b) = b, has a unique solution. (i) If
+    F_t^a(b) = b for all t, differentiating at t = 0 gives {a, b} = 0.
+    (ii) If {a, b} = 0, the constant path c(t) = b satisfies
+    c′(t) = 0 = {a, b} = {a, c(t)} and c(0) = b. By uniqueness,
+    F_t^a(b) = b for all t. So "a generates symmetries of b", meaning
+    F_t^a(b) = b for all t, iff {a, b} = 0. (iii) Antisymmetry gives
+    {a, b} = 0 iff {b, a} = 0, so the relation is symmetric. (iv) For a
+    bilinear bracket over a field of characteristic ≠ 2, antisymmetry is
+    equivalent to {a, a} = 0 for all a. Antisymmetry gives {a, a} = −{a, a}.
+    Conversely, expanding {a + b, a + b} = 0 gives {a, b} + {b, a} = 0. The
+    Jacobi identity and any associative product are used nowhere, as the
+    THEORY says of Theorem 8.
+  excluded: >-
+    Alfsen and Shultz's theorem for JB-algebras (Baez's Theorem 12): that a
+    dynamical correspondence ψ exists exactly when O is the self-adjoint
+    part of a C*-algebra. Baez quotes it without proof, and the record has
+    not read it. It stays Proposed, and the THEORY should state it as quoted.
+    The title's gloss, "the theorem's content lies in identifying
+    observables with generators", reports Baez's reading. It is not a
+    further mathematical claim, and the body's third bullet already marks
+    the interpretive part.
+evidence:
+  - "NOTE-630 read Theorems 3, 4, 8 and 10 with their proofs. The THEORY says 'The proofs are short and were checked in the reading.' Re-derived above."
+blockers: []
+notes: >-
+  The promote_when asks for "a second, independent treatment read and
+  checked", or a checked reading of Alfsen–Shultz. Under ADR-047 v2, the
+  re-derivation above meets the first for the bracket equivalence. The
+  Alfsen–Shultz clause concerns only the excluded part.
+unlocks:
+  - "CLAIM-094, which this THEORY supports. Check it in a dependency pass."
+next_action: >-
+  Promotion PR. Restate the JB-algebra sentence as quoted and not checked,
+  in the body and in "What this does not say". Move the Alfsen–Shultz
+  clause of the promote_when to a new QUESTION. Add a dated note with the
+  re-derivation, remove the promote_when, and set Active.

@@ -42,7 +42,6 @@ supports:
 - CLAIM-105
 ---
 <!-- inactive-ok-file: CLAIM-105 — Proposed; the claim this was split from, cited as open -->
-<!-- inactive-ok-file: THEORY-165 — Proposed; continuity of the contextual fraction, cited for what it implies here, not as settled -->
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing of CLAIM-105's headline, cited as open -->
 
 # CLAIM-320: Within one fixed measurement scenario, two no-signalling empirical models can agree on all but one of their contexts and on every single-observable marginal while their contextual fractions are 1 and 0, so keeping most local judgement distributions does not fix their global compatibility

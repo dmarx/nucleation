@@ -1,0 +1,51 @@
+# record/promotion-audit/decisions/CLAIM-269.yaml
+id: CLAIM-269
+batch: batch-004
+reviewed: '2026-10-19'
+reviewed_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
+current_status: Proposed
+warrant: demonstrated
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    The readout half, re-grounded on two THEORYs and one line of algebra. On
+    a finite set of M stimuli, a regularized linear readout with
+    G = aC_X + bI decodes only through K = X G⁻¹ Xᵀ/M (THEORY-008). By the
+    push-through identity, K = Γ(aΓ + bI)⁻¹ with Γ = XXᵀ/M. For b > 0 the
+    map t ↦ t/(at + b) is injective on t ≥ 0, so Γ = bK(I − aK)⁻¹: K fixes
+    the Gram matrix. THEORY-004 (Active) then fixes X up to an orthogonal
+    transformation, after centring. So readouts with b > 0 cannot tell apart
+    two representations exactly when they differ by an orthogonal map. For
+    the CCA member (a = 1, b = 0), K = UUᵀ is the projection onto the
+    column space and fixes X only up to an invertible linear map, which is
+    THEORY-018's (Active) situation for softmax layers.
+  excluded: >-
+    The clauses grounded on THEORY-002 and THEORY-019 (both Proposed): that
+    kernels fix representations "up to the symmetry group of what is
+    observed", which is a statement about converging kernels and the
+    data's symmetries, not about the representation's orthogonal freedom;
+    and that degeneracy does not identify the symmetry. Also the gloss
+    "supplied by the analyst".
+evidence:
+  - "Push-through: X(cXᵀX + bI)⁻¹Xᵀ = XXᵀ(cXXᵀ + bI)⁻¹, with c = a/M; checked by the thin SVD X = USVᵀ, which gives K = U diag(s²/(as² + bM)) Uᵀ."
+  - "THEORY-004 (Active): a centred kernel determines a representation up to a translation and an orthogonal transformation."
+  - "THEORY-008 states the decoding identities on a finite stimulus set. PR #165 promotes it confined to finite M. Until #165 merges it is Proposed on main."
+blockers:
+  - >-
+    The split's Active half grounds on THEORY-008, Active only once PR #165
+    merges. The split PR should wait for #165, or ground the first step on
+    LIT-257 directly with NOTE-834's re-derivation.
+  - >-
+    The remainder (the THEORY-002 and THEORY-019 clauses) stays Proposed
+    until those THEORYs are promoted. Its demonstrated warrant should then
+    be checked again: "the symmetry of what is observed" is a reading of
+    THEORY-002, not a derivation.
+unlocks:
+  - "CLAIM-193 rests on this claim; its correction (decisions/CLAIM-193.yaml) already assumes the formal core lives here."
+next_action: >-
+  Split PR after #165 merges. File the readout result (b > 0: orthogonal
+  orbit; b = 0: general linear orbit) as a demonstrated claim, Active,
+  grounded on THEORY-008 and THEORY-004, line formal-apparatus. CLAIM-269
+  keeps the symmetry-of-observation clauses, rests on the new claim, and is
+  re-checked for its warrant.
