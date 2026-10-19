@@ -16,7 +16,19 @@ promote_when: >-
   it: clustering accuracies of trained networks on benchmarks, which
   measure the method, not the population residual.
 title: "In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Carrying out the promotion audit's decision for THEORY-320 (batch 025,
+    ADR-047). The exact residual identity is filed apart as
+    THEORY-tmp9irmk, Active, re-derived in three steps (ADR-047 v2). This
+    THEORY extends it and keeps the toy help-and-harm clauses, which rest
+    on appendix B. A reconstruction of the toy from NOTE-833's description
+    reproduced Theorem 5.2 and not Theorem 5.3 or Lemma 5.4 (note of
+    2026-10-19 below). The status stays Proposed, and the promote_when is
+    unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -34,6 +46,8 @@ summary: >-
   part of this account. Nothing here is about trained networks.
 answers:
 - QUESTION-052
+extends:
+- THEORY-tmp9irmk
 ---
 <!-- inactive-ok-file: THEORY-228 THEORY-005 — Proposed; the bound whose framework this extends, and an operator account it does not restate -->
 
@@ -101,6 +115,28 @@ left the residual unchanged.
   shared augmented views.
 - **No instruction.** Which known classes to supply for discovery is a
   question of ML practice and belongs in the Anthology of the SOTA.
+
+## Note of 2026-10-19: the toy could not be rebuilt from the record
+
+For the promotion audit (batch 025), the toy graph was rebuilt from
+[NOTE-833](../notes.d/NOTE-833.md)'s description and its residuals computed exactly:
+- an unnormalized adjacency with 1 on the diagonal;
+- τ_s between same-shape objects and τ_c between same-colour objects;
+- the known class linked by its shared attribute;
+- k = 3, with the labelled entry floating.
+
+The reconstruction reproduces Theorem 5.2. With a gray cylinder the
+residual is 1 when τ_s > τ_c and 0 when τ_s < τ_c. With a red cylinder it
+is 0.
+
+It does not reproduce Theorem 5.3. The residual falls from 1 to 0 for any
+link t > 0, not at t̄. Nor does it reproduce Lemma 5.4. With a gray cube
+and τ_s/τ_c ∈ (1, 1.5), the residual is 0, where the lemma has 2.
+
+So the reconstruction is not the paper's set-up. One candidate is that
+the labelled entry is fixed rather than floating in the toy. The help and
+harm clauses can be checked only from appendix B, which the promote_when
+already asks for. The identity itself is [THEORY-tmp9irmk](THEORY-tmp9irmk.md).
 
 ## Connections
 
