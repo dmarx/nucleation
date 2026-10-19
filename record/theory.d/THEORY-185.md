@@ -33,7 +33,7 @@ history:
     outrank every product mode. Equal strengths meet it at any strength.
     The theorem is conditional on its premise, so the promote_when's
     request to measure that premise on real text moves to
-    QUESTION-tmpwzwpl.
+    QUESTION-178.
 tags:
 - representation-learning
 - compositionality
@@ -194,4 +194,4 @@ strength below 1. So what matters is that the strengths be alike relative
 to their size, and the source's "small and narrowly spread" is a
 sufficient first-order regime. Without balance, each factor's top
 eigenvector is not constant, and even the top mode of M is a product.
-Whether real co-occurrence is close to the premise is [QUESTION-tmpwzwpl](../questions.d/QUESTION-tmpwzwpl.md).
+Whether real co-occurrence is close to the premise is [QUESTION-178](../questions.d/QUESTION-178.md).

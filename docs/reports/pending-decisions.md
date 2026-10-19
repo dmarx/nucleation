@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**783 document(s) awaiting a decision.**
+**781 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 783.
+95 of the 781.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-456 of the 783.
+454 of the 781.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -233,7 +233,6 @@
 | 2026-10-05 | Proposed | [THEORY-135](../../record/theory.d/THEORY-135.md) | 6 | 1 | Multicellular cooperation depends on suppressing cells that gain fitness at the expense of the organism, across five foundations (proliferation inhibition, controlled cell death, division of labour, resource allocation and maintenance of the extracellular environment); cancer-like cheating on them is found across the independent origins of complex multicellularity, so complex multicellularity can be understood as a system for detecting and suppressing cheaters |
 | 2026-10-05 | Proposed | [THEORY-140](../../record/theory.d/THEORY-140.md) | 6 | 0 | At NASA, as the Columbia Accident Investigation Board found, the Challenger and Columbia accidents had the same organizational cause: evidence that the design was not performing as expected was repeatedly reinterpreted as acceptable, each decision seeming correct in itself and each survived anomaly justifying the next flight, while budget and schedule pressure, consensus sign-off, a hierarchy that kept dissent from rising and a safety organization dependent on the program it oversaw sustained the pattern for twenty years and undid post-Challenger reforms |
 | 2026-10-09 | Proposed | [THEORY-156](../../record/theory.d/THEORY-156.md) | 58 | 3 | For experiments on a finite parameter set, being at least as informative for every decision problem is the same as being able to simulate the other by a randomisation |
-| 2026-10-09 | Proposed | [THEORY-185](../../record/theory.d/THEORY-185.md) | 54 | 0 | When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence ratio mixes in products of attributes and keeps them only when the signals are weak and alike |
 | 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 50 | 0 | A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity |
 | 2026-10-09 | Proposed | [THEORY-194](../../record/theory.d/THEORY-194.md) | 44 | 1 | For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about |
 | 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 39 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
@@ -248,7 +247,6 @@
 | 2026-10-09 | Proposed | [THEORY-175](../../record/theory.d/THEORY-175.md) | 16 | 1 | Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ |
 | 2026-10-09 | Proposed | [THEORY-188](../../record/theory.d/THEORY-188.md) | 16 | 0 | In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model |
 | 2026-10-09 | Proposed | [THEORY-202](../../record/theory.d/THEORY-202.md) | 16 | 1 | In variational renormalization, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target |
-| 2026-10-09 | Proposed | [THEORY-161](../../record/theory.d/THEORY-161.md) | 15 | 0 | In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation a uniform bound on lost decision value |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 14 | 6 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
 | 2026-10-09 | Proposed | [THEORY-173](../../record/theory.d/THEORY-173.md) | 14 | 0 | Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale |
 | 2026-10-09 | Proposed | [THEORY-167](../../record/theory.d/THEORY-167.md) | 13 | 0 | The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how |
@@ -574,7 +572,7 @@
 
 ## ADRs
 
-2 of the 783.
+2 of the 781.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -583,7 +581,7 @@
 
 ## QUESTIONs
 
-9 of the 783.
+9 of the 781.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -599,7 +597,7 @@
 
 ## CLAIMs
 
-216 of the 783.
+216 of the 781.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -822,7 +820,7 @@
 
 ## CASEs
 
-1 of the 783.
+1 of the 781.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -830,7 +828,7 @@
 
 ## TERMs
 
-2 of the 783.
+2 of the 781.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -839,7 +837,7 @@
 
 ## ARGs
 
-2 of the 783.
+2 of the 781.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

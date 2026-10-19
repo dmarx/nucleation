@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**508 documents cited without acknowledgement.** Not listed: 9898 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**508 documents cited without acknowledgement.** Not listed: 9829 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1097,7 +1097,7 @@ Compositional generalization comes from diversity of combinations, not data volu
 - [`record/notes.d/NOTE-593.md:175`](../../record/notes.d/NOTE-593.md)
 - [`record/notes.d/NOTE-597.md:156`](../../record/notes.d/NOTE-597.md)
 - [`record/notes.d/NOTE-597.md:164`](../../record/notes.d/NOTE-597.md)
-- [`record/questions.d/QUESTION-025.md:196`](../../record/questions.d/QUESTION-025.md)
+- [`record/questions.d/QUESTION-025.md:197`](../../record/questions.d/QUESTION-025.md)
 
 ### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
 
@@ -2182,8 +2182,8 @@ In a language a term's value is fixed by its relations to the coexisting terms o
 6 citations in 5 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-072.md:42`](../../record/claims.d/CLAIM-072.md)
-- [`record/claims.d/CLAIM-082.md:99`](../../record/claims.d/CLAIM-082.md)
-- [`record/claims.d/CLAIM-082.md:117`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:98`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:116`](../../record/claims.d/CLAIM-082.md)
 - [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
 - [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
@@ -2461,7 +2461,7 @@ Comparison of Statistical Experiments
 
 5 citations in 5 files await a look; 8 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:93`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:92`](../../record/claims.d/CLAIM-050.md)
 - [`record/decisions.d/ADR-031.md:41`](../../record/decisions.d/ADR-031.md)
 - [`record/literature.d/LIT-781.md:92`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
@@ -4203,7 +4203,7 @@ The rate-distortion function for source coding with side information at the deco
 
 2 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-050.md:95`](../../record/claims.d/CLAIM-050.md)
+- [`record/claims.d/CLAIM-050.md:94`](../../record/claims.d/CLAIM-050.md)
 - [`record/literature.d/LIT-765.md:83`](../../record/literature.d/LIT-765.md)
 
 ### [LIT-775](../../record/literature.d/LIT-775.md) — Unavailable
@@ -4212,7 +4212,7 @@ Structural Anthropology
 
 2 citations in 2 files await a look; 11 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-082.md:60`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:59`](../../record/claims.d/CLAIM-082.md)
 - [`record/decisions.d/ADR-034.md:40`](../../record/decisions.d/ADR-034.md)
 
 ### [LIT-928](../../record/literature.d/LIT-928.md) — Unavailable
@@ -6024,9 +6024,12 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now
 - record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
+- record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
+- record/literature.d/LIT-871.md:80: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
+- record/theory.d/THEORY-188.md:34: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-201.md:42: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
 - record/theory.d/THEORY-255.md:44: annotation no longer applies — nothing in scope cites LIT-316

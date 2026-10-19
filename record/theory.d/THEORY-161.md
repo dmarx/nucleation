@@ -16,7 +16,7 @@ history:
     is narrowed to the two frameworks the record read in full, Zhao et
     al. and Chai et al. Liu, Zhang and Poor's framework, known here only
     through the survey, and the frameworks of 2021–2025 as a class move to
-    QUESTION-tmpmh3yq. "A uniform bound on lost decision value" now says
+    QUESTION-177. "A uniform bound on lost decision value" now says
     what was shown: a bound on the expected lost value of every
     bounded-loss decision, at the given prior.
 tags:
@@ -130,4 +130,4 @@ acting on p(S|X) has E_X[min_a E_{p(S|X)}L]. Their difference is therefore
 at most E[d_TV(p(S|X), p(S|Y))], for every such loss at once, at the given
 prior. The bound is on expected risk. Pointwise, the regret of acting on
 p(S|y) when the posterior is p(S|x) can reach 2 d_TV. Whether frameworks
-beyond these two share their form is [QUESTION-tmpmh3yq](../questions.d/QUESTION-tmpmh3yq.md).
+beyond these two share their form is [QUESTION-177](../questions.d/QUESTION-177.md).

@@ -1,5 +1,8 @@
 ---
+number: 177
 status: Open
+formerly:
+- QUESTION-tmpmh3yq
 title: 'Do the semantic rate–distortion frameworks beyond Zhao et al. and Chai et al., Liu, Zhang and Poor''s among them, also treat meaning as a latent variable with a known joint law with the observation, or does any limit depend on a property of meaning beyond that law?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   question holds that wider reading.
 ---
 
-# QUESTION-tmpmh3yq: Do the semantic rate–distortion frameworks beyond Zhao et al. and Chai et al., Liu, Zhang and Poor's among them, also treat meaning as a latent variable with a known joint law with the observation, or does any limit depend on a property of meaning beyond that law?
+# QUESTION-177: Do the semantic rate–distortion frameworks beyond Zhao et al. and Chai et al., Liu, Zhang and Poor's among them, also treat meaning as a latent variable with a known joint law with the observation, or does any limit depend on a property of meaning beyond that law?
 
 ## Why it is a question
 

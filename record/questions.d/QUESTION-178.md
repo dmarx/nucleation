@@ -1,5 +1,8 @@
 ---
+number: 178
 status: Open
+formerly:
+- QUESTION-tmpwzwpl
 title: 'Is word co-occurrence close to independent, multiplicative binary attributes in the analogy families where spectral embeddings complete parallelograms, and does adding an interaction between two attributes break their parallelogram?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   that request.
 ---
 
-# QUESTION-tmpwzwpl: Is word co-occurrence close to independent, multiplicative binary attributes in the analogy families where spectral embeddings complete parallelograms, and does adding an interaction between two attributes break their parallelogram?
+# QUESTION-178: Is word co-occurrence close to independent, multiplicative binary attributes in the analogy families where spectral embeddings complete parallelograms, and does adding an interaction between two attributes break their parallelogram?
 
 ## Why it is a question
 
