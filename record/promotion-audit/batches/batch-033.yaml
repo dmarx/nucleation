@@ -78,7 +78,8 @@ recommendation: >-
   measured contrast rather than the title's wording. Route the arguments
   to wave 5. triage-005's ranked list is now exhausted.
 owner_questions: []
-promotion_prs: []
+promotion_prs:
+  - "#225: THEORY-178 and THEORY-306 narrowed and promoted."
 follow_up_prs:
   - "THEORY-178: narrow-and-promote under ADR-047 v3. Retitle to the sign-consistent Boolean ensemble on the 87-gene E. coli core, with the positive-circuit condition as measured in that network. The promote_when (a transient CRISPRi perturbation in cells) moves to a new QUESTION. A dated note gives the phase-shift counterexample to general necessity."
   - "THEORY-306: narrow-and-promote under ADR-047 v3. Retitle to MSN's and SwAV's explicit prior and the single-study imbalance measurement. The promote_when moves to a new QUESTION. A dated note gives the KL identity."

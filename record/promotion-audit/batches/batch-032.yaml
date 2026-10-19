@@ -80,7 +80,8 @@ owner_questions:
     what it asserts, and the self-report belongs in the body, where it
     already is. If the owner agrees, a later pass could move such clauses
     out of titles.
-promotion_prs: []
+promotion_prs:
+  - "#224: THEORY-324 narrowed and promoted (branch claude/promote-theory-324)."
 follow_up_prs:
   - "THEORY-324: narrow-and-promote under ADR-047 v2. Retitle so the parameters change 'whenever, and as long as' an essential variable is outside its limits. Add the re-derivation as a dated note. Move the promote_when's wider 'any system' scope to a new QUESTION. Trim the inactive-ok entries naming THEORY-324."
 notes_for_ledger:

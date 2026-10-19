@@ -40,7 +40,8 @@ recommendation: >-
   split already holds it. For measurements, check the NOTE's history line
   for "captions" and the title for a generalisation across studies.
 owner_questions: []
-promotion_prs: []
+promotion_prs:
+  - "#223: THEORY-216 narrowed and promoted (branch claude/promote-theory-216)."
 follow_up_prs:
   - "THEORY-216: narrow-and-promote under ADR-047 v3. Narrow to the 2017 log and recovered coalitions; keep 'barely predictable' relative to the four features; turn 'lasting artworks are those ...' into an existence clause; move the promote_when to a new QUESTION related to QUESTION-093; restate CLAIM-273's first bullet; trim THEORY-216 from eight inactive-ok directives."
 notes_for_ledger:
