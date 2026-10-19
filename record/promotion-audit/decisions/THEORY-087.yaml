@@ -1,0 +1,18 @@
+# record/promotion-audit/decisions/THEORY-087.yaml
+id: THEORY-087
+batch: batch-000
+reviewed: '2026-10-19'
+reviewed_revision: 27ae8a3906d5b75a57767f7e524acd6749a2344f  # head of PR #165, where the decision was made and carried out
+current_status: Proposed
+disposition: split
+confidence: high
+scope:
+  accepted: >-
+    Only the linear-Gaussian case, where MacKay's factor is exact (THEORY-tmp60l2i), Active.
+  excluded: >-
+    The general regular expansion and the singular half.
+evidence:
+  - "PR #165 and its curation entries record/curation.d/2026/10/19/024107.md, 034134.md and 041525.md."
+blockers: ['A held proof of the regular expansion (Schwarz, or a Laplace or Bernstein–von Mises argument), and of Watanabe Theorem 2.']
+carried_out_in: 'PR #165 (open as of 2026-10-19)'
+next_action: None.

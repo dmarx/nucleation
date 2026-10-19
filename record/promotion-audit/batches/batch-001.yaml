@@ -1,0 +1,26 @@
+# record/promotion-audit/batches/batch-001.yaml
+batch: batch-001
+date: '2026-10-19'
+kind: evidence-audit
+wave: 1
+record_revision: b84ad2e37d98bdc5dc6b14957d5b4a1f2e0df648
+selection: >-
+  The five highest-scoring pending candidates of triage-001 (queue.yaml,
+  version 1), with batch-000's decisions skipped. Ties were broken by code.
+reviewed: [CLAIM-267, CLAIM-270, CLAIM-077, CLAIM-098, CLAIM-285]
+outcomes:
+  promote: [CLAIM-267, CLAIM-270]
+  split: [CLAIM-285]
+  needs-correction: [CLAIM-077, CLAIM-098]
+yield: 3 of 5 found a promotion path
+finding: >-
+  Two of five were filed as demonstrated, but their defeat conditions are
+  about modelling adequacy or impossibility, not about a derivation. In
+  each, the demonstrated content was a one-line consequence (CLAIM-077) or
+  was already held by an Active claim (CLAIM-098 by CLAIM-260). A mismatch
+  between warrant and defeat condition is a cheap triage signal, and the
+  next triage should score it.
+follow_up_prs:
+  - "Promote CLAIM-267 and CLAIM-270 (each with the wording or construction its decision names)."
+  - "Split CLAIM-285."
+  - "Correct the warrants of CLAIM-077 and CLAIM-098 to interpretive."

@@ -1,0 +1,411 @@
+# record/promotion-audit/queue.yaml
+# The promotion audit's queue (ADR-047). Bump `version` and append to `history`
+# on every change; keep `handoff` current; run check.py before committing.
+version: 1
+updated: '2026-10-19'
+record_revision: b84ad2e37d98bdc5dc6b14957d5b4a1f2e0df648
+procedure: record/decisions.d/ADR-047.md
+handoff:
+  batch: batch-001
+  state: reviewed
+  in_review: null
+  next_step: 'Batch 001 is reviewed and its decisions are written. Next: open the promotion and correction
+    PRs it calls for (at most three entries each: CLAIM-267 and CLAIM-270 promote; CLAIM-285 split; CLAIM-077
+    and CLAIM-098 warrant corrections). Or start batch-002 with the next five pending candidates in queue
+    order.'
+  cautions:
+  - 'PR #165 is open. Its tmp codes (CLAIM-tmpzk12h and others) are concretized at merge; update decisions/
+    when they are.'
+  - Read NOTES.md before starting a batch.
+waves:
+- wave: 1
+  class: Demonstrated CLAIMs still Proposed
+  reviewed: 8
+  promotion_paths: 5
+- wave: 2
+  class: THEORYs with verified mathematical cores
+  reviewed: 6
+  promotion_paths: 6
+- wave: 3
+  class: Source-backed THEORYs
+  reviewed: 0
+  promotion_paths: 0
+- wave: 4
+  class: Dependency unlocks
+  reviewed: 0
+  promotion_paths: 0
+- wave: 5
+  class: Broad interpretive and synthesis claims
+  reviewed: 0
+  promotion_paths: 0
+requeue:
+- code: CLAIM-123
+  when: 'after PR #165 merges'
+  why: corrected there; review again as demonstrated
+- code: CLAIM-326
+  when: 'after PR #165 merges'
+  why: filed as CLAIM-tmpz6mng on main; re-grounded there; Proposed, demonstrated, wave 1
+candidates:
+- code: CLAIM-264
+  wave: 1
+  score: 20
+  rubric:
+    evidence: 5
+    scope: 4
+    downstream: 4
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: decided
+  disposition: promote
+  batch: batch-000
+  decision: decisions/CLAIM-264.yaml
+- code: CLAIM-267
+  wave: 1
+  score: 19
+  rubric:
+    evidence: 5
+    scope: 4
+    downstream: 3
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: decided
+  disposition: promote
+  batch: batch-001
+  decision: decisions/CLAIM-267.yaml
+- code: CLAIM-123
+  wave: 1
+  score: 18
+  rubric:
+    evidence: 5
+    scope: 3
+    downstream: 3
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: decided
+  disposition: needs-correction
+  batch: batch-000
+  decision: decisions/CLAIM-123.yaml
+- code: CLAIM-270
+  wave: 1
+  score: 18
+  rubric:
+    evidence: 5
+    scope: 4
+    downstream: 2
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: decided
+  disposition: promote
+  batch: batch-001
+  decision: decisions/CLAIM-270.yaml
+- code: CLAIM-077
+  wave: 1
+  score: 17
+  rubric:
+    evidence: 5
+    scope: 2
+    downstream: 4
+    cost: 4
+    risk: 2
+  proposed_deps: []
+  state: decided
+  disposition: needs-correction
+  batch: batch-001
+  decision: decisions/CLAIM-077.yaml
+- code: CLAIM-098
+  wave: 1
+  score: 17
+  rubric:
+    evidence: 5
+    scope: 2
+    downstream: 4
+    cost: 4
+    risk: 2
+  proposed_deps: []
+  state: decided
+  disposition: needs-correction
+  batch: batch-001
+  decision: decisions/CLAIM-098.yaml
+- code: CLAIM-285
+  wave: 1
+  score: 17
+  rubric:
+    evidence: 5
+    scope: 2
+    downstream: 3
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: decided
+  disposition: split
+  batch: batch-001
+  decision: decisions/CLAIM-285.yaml
+- code: CLAIM-308
+  wave: 1
+  score: 17
+  rubric:
+    evidence: 5
+    scope: 2
+    downstream: 4
+    cost: 4
+    risk: 2
+  proposed_deps: []
+  state: pending
+- code: CLAIM-063
+  wave: 1
+  score: 16
+  rubric:
+    evidence: 5
+    scope: 2
+    downstream: 3
+    cost: 4
+    risk: 2
+  proposed_deps: []
+  state: pending
+- code: CLAIM-313
+  wave: 1
+  score: 16
+  rubric:
+    evidence: 5
+    scope: 3
+    downstream: 1
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: pending
+- code: CLAIM-037
+  wave: 1
+  score: 15
+  rubric:
+    evidence: 4
+    scope: 3
+    downstream: 4
+    cost: 2
+    risk: 2
+  proposed_deps:
+  - THEORY-014
+  state: pending
+- code: CLAIM-251
+  wave: 1
+  score: 15
+  rubric:
+    evidence: 5
+    scope: 2
+    downstream: 1
+    cost: 4
+    risk: 3
+  proposed_deps: []
+  state: pending
+- code: CLAIM-268
+  wave: 1
+  score: 15
+  rubric:
+    evidence: 4
+    scope: 4
+    downstream: 2
+    cost: 2
+    risk: 3
+  proposed_deps:
+  - THEORY-176
+  state: pending
+- code: CLAIM-081
+  wave: 1
+  score: 14
+  rubric:
+    evidence: 3
+    scope: 2
+    downstream: 4
+    cost: 2
+    risk: 3
+  proposed_deps:
+  - CLAIM-056
+  - CLAIM-270
+  state: pending
+- code: CLAIM-107
+  wave: 1
+  score: 14
+  rubric:
+    evidence: 4
+    scope: 3
+    downstream: 3
+    cost: 2
+    risk: 2
+  proposed_deps:
+  - THEORY-158
+  state: pending
+- code: CLAIM-128
+  wave: 1
+  score: 14
+  rubric:
+    evidence: 4
+    scope: 2
+    downstream: 3
+    cost: 2
+    risk: 3
+  proposed_deps:
+  - CLAIM-106
+  state: decided
+  disposition: split
+  batch: batch-000
+  decision: decisions/CLAIM-128.yaml
+- code: CLAIM-188
+  wave: 1
+  score: 14
+  rubric:
+    evidence: 3
+    scope: 3
+    downstream: 3
+    cost: 2
+    risk: 3
+  proposed_deps:
+  - THEORY-087
+  - THEORY-079
+  state: pending
+- code: CLAIM-193
+  wave: 1
+  score: 13
+  rubric:
+    evidence: 3
+    scope: 2
+    downstream: 4
+    cost: 1
+    risk: 3
+  proposed_deps:
+  - CLAIM-142
+  - CLAIM-269
+  - THEORY-008
+  - THEORY-002
+  - THEORY-019
+  state: pending
+- code: CLAIM-212
+  wave: 1
+  score: 13
+  rubric:
+    evidence: 4
+    scope: 2
+    downstream: 2
+    cost: 2
+    risk: 3
+  proposed_deps:
+  - THEORY-156
+  state: pending
+- code: CLAIM-228
+  wave: 1
+  score: 13
+  rubric:
+    evidence: 4
+    scope: 2
+    downstream: 3
+    cost: 2
+    risk: 2
+  proposed_deps:
+  - THEORY-156
+  state: pending
+- code: CLAIM-269
+  wave: 1
+  score: 13
+  rubric:
+    evidence: 3
+    scope: 4
+    downstream: 2
+    cost: 1
+    risk: 3
+  proposed_deps:
+  - THEORY-008
+  - THEORY-002
+  - THEORY-019
+  state: pending
+- code: CLAIM-056
+  wave: 1
+  score: 12
+  rubric:
+    evidence: 3
+    scope: 2
+    downstream: 4
+    cost: 2
+    risk: 1
+  proposed_deps:
+  - CLAIM-106
+  - CLAIM-267
+  state: pending
+- code: CLAIM-206
+  wave: 1
+  score: 12
+  rubric:
+    evidence: 3
+    scope: 2
+    downstream: 3
+    cost: 2
+    risk: 2
+  proposed_deps:
+  - CLAIM-135
+  - CLAIM-046
+  state: pending
+- code: CLAIM-126
+  wave: 1
+  score: 11
+  rubric:
+    evidence: 3
+    scope: 2
+    downstream: 3
+    cost: 1
+    risk: 2
+  proposed_deps:
+  - CLAIM-050
+  - CLAIM-268
+  - THEORY-176
+  - THEORY-156
+  - THEORY-175
+  state: pending
+- code: THEORY-155
+  wave: 2
+  score: null
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-000
+  decision: decisions/THEORY-155.yaml
+- code: THEORY-008
+  wave: 2
+  score: null
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-000
+  decision: decisions/THEORY-008.yaml
+- code: THEORY-005
+  wave: 2
+  score: null
+  state: decided
+  disposition: split
+  batch: batch-000
+  decision: decisions/THEORY-005.yaml
+- code: THEORY-001
+  wave: 2
+  score: null
+  state: decided
+  disposition: split
+  batch: batch-000
+  decision: decisions/THEORY-001.yaml
+- code: THEORY-156
+  wave: 2
+  score: null
+  state: decided
+  disposition: split
+  batch: batch-000
+  decision: decisions/THEORY-156.yaml
+- code: THEORY-087
+  wave: 2
+  score: null
+  state: decided
+  disposition: split
+  batch: batch-000
+  decision: decisions/THEORY-087.yaml
+history:
+- version: 1
+  date: '2026-10-19'
+  note: 'Queue opened under ADR-047. Triage-001 scored the 25 Proposed, demonstrated CLAIMs on main at
+    record_revision from metadata (rubric in ADR-047). Batch-000 records the decisions PR #165 made. Batch-001
+    reviewed CLAIM-267, CLAIM-270, CLAIM-077, CLAIM-098 and CLAIM-285.'

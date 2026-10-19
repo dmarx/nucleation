@@ -1,0 +1,31 @@
+# record/promotion-audit/decisions/CLAIM-267.yaml
+id: CLAIM-267
+batch: batch-001
+reviewed: '2026-10-19'
+reviewed_revision: b84ad2e37d98bdc5dc6b14957d5b4a1f2e0df648
+current_status: Proposed
+warrant: demonstrated
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The recursion e_(i+1) ≤ L e_i + ε and its unrolled bound; the damped,
+    accumulating and amplifying regimes; and the total-variation
+    restriction, under which Markov kernels have contraction coefficient at
+    most 1 (Dobrushin).
+  excluded: >-
+    Nothing. The applications to translation and to restated arguments are
+    already in CLAIM-056 and CLAIM-191, which rest on this claim.
+evidence:
+  - "The bound follows from one triangle inequality: d(f(u), g(v)) ≤ d(f(u), f(v)) + d(f(v), g(v))."
+  - "Amplification is witnessed by f(x) = 2x on ℝ, which doubles an error exactly; damping by f(x) = x/2."
+  - "No dependency is Proposed. The defeat condition is an error in the derivation, which the check did not find."
+blockers: []
+notes: >-
+  Not material: L_i and ε_i should be pinned to one map. With
+  ε_(i+1) = d(f_(i+1)(v_i), g_(i+1)(v_i)), L_(i+1) is the Lipschitz constant
+  of f_(i+1), the actual chain's map, not "the later maps" in general. Fix
+  the wording in the promotion pull request.
+unlocks:
+  - "CLAIM-056: rests on this and on CLAIM-106, which is Proposed. Promotion does not unlock it alone."
+next_action: Promotion PR. Pin the indices, add the two one-line witnesses, set Active.
