@@ -22,7 +22,9 @@ outcomes:
   narrow-and-promote: [THEORY-228, THEORY-319, THEORY-161, THEORY-185]
   retain-proposed: [THEORY-110]
 yield: 4 of 5 found a promotion path (all by re-derivation under ADR-047 v2; THEORY-161 also narrowed to the papers read)
-promotion_prs: []
+promotion_prs:
+  - "#229: THEORY-228 and THEORY-319 narrowed and promoted (branch claude/promote-theories-228-319)."
+  - "#233: THEORY-185 and THEORY-161 narrowed and promoted (branch claude/promote-theories-185-161)."
 notes_for_ledger:
   - >-
     Triage-006's formal route went 4 of 5 on its entries 6–10. The miss,
