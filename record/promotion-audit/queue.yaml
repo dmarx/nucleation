@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 120
+version: 121
 updated: '2026-10-19'
 record_revision: 374ba778e1bc5456455bcdbc42e581b2abff1f59
 procedure: record/decisions.d/ADR-047.md
@@ -39,16 +39,16 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 54
-  promotion_paths: 32
+  reviewed: 60
+  promotion_paths: 37
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
-  reviewed: 29
-  promotion_paths: 6
+  reviewed: 28
+  promotion_paths: 5
 requeue:
 - code: CLAIM-143
   when: after CLAIM-004 is decided and the owner rules on the class-relative wording
@@ -63,6 +63,10 @@ requeue:
   when: after a reading task (Ney 2016/2021, Chalmers and McQueen 2022, Bikaraan-Behesht 2022) and an
     argument for P7
   why: 'batch-041: cheapest of the wave-5 arguments to move'
+- code: THEORY-080
+  when: when a CLAIM is filed for its exact half
+  why: 'batch-036: the exact Occam-factor identity is the record''s own synthesis; file it as a demonstrated
+    CLAIM (ADR-032); the spherical half stays Proposed'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2384,7 +2388,7 @@ candidates:
   carried_out_in:
   - '#227'
 - code: THEORY-290
-  wave: 5
+  wave: 3
   triage: batch-041
   state: decided
   disposition: narrow-and-promote
@@ -2392,6 +2396,49 @@ candidates:
   decision: decisions/THEORY-290.yaml
   carried_out_in:
   - '#228'
+- code: THEORY-080
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: needs-correction
+  batch: batch-036
+  decision: decisions/THEORY-080.yaml
+- code: THEORY-263
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: promote
+  batch: batch-036
+  decision: decisions/THEORY-263.yaml
+  carried_out_in:
+  - '#231'
+- code: THEORY-293
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-036
+  decision: decisions/THEORY-293.yaml
+  carried_out_in:
+  - '#231'
+- code: THEORY-321
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-036
+  decision: decisions/THEORY-321.yaml
+  carried_out_in:
+  - '#232'
+- code: THEORY-229
+  wave: 3
+  triage: batch-036
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-036
+  decision: decisions/THEORY-229.yaml
+  carried_out_in:
+  - '#231'
 history:
 - version: 1
   date: '2026-10-19'
@@ -2845,4 +2892,8 @@ history:
   note: 'Batch 041 integrated: 1 of 4. THEORY-290, a model result, promoted under ADR-047 v3. The three
     arguments keep their blockers.; carried_out_in #228; THEORY-071, -485, -628 counted in wave 5; THEORY-485
     requeued after a reading task'
+- version: 121
+  date: '2026-10-19'
+  note: 'Batch 036 integrated: 4 of 5 found a promotion path; THEORY-080 needs re-filing as a CLAIM first;
+    carried_out_in #231, #232; THEORY-290 counted in wave 3 (a model result); THEORY-080 requeued'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

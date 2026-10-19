@@ -1,0 +1,68 @@
+# record/promotion-audit/decisions/THEORY-263.yaml
+id: THEORY-263
+batch: batch-036
+reviewed: '2026-10-19'
+reviewed_revision: 735f6240
+current_status: Proposed
+disposition: promote
+confidence: medium
+scope:
+  accepted: >-
+    Both clauses. NOTE-806 read every proof in Appendix E and followed them
+    step by step (C1 strong: Theorem 1 proved). The promote_when's first job
+    was a check that the information-density rate meets the coding condition
+    at zero distortion, which the paper proves only for finite alphabets
+    (Theorem 2). The second clause is re-derived here directly, in general
+    spaces, by the disintegrated change of measure (ADR-047 v2).
+
+    Setting. S = (Z_1..Z_n) iid, W ~ P_{W|S}, loss ℓ(w, Z) σ-subgaussian for
+    each fixed w, gen(S, w) = E ℓ(w, Z) − (1/n) Σ ℓ(w, Z_i); P a prior not
+    depending on S.
+      (a) For fixed w, gen(S, w) is the mean of n iid centred σ-subgaussian
+          terms, so it is σ/√n-subgaussian: E_S e^{t·gen} ≤ e^{t²σ²/(2n)}.
+      (b) For X that is τ-subgaussian and 0 ≤ c < 1/(2τ²),
+          E e^{cX²} ≤ (1 − 2cτ²)^{−1/2}. Proof: e^{cx²} = E_G e^{√(2c)Gx}
+          with G ~ N(0, 1); swap expectations and apply the subgaussian bound,
+          E_G e^{cτ²G²} = (1 − 2cτ²)^{−1/2}.
+      (c) Take F(S, w) = (2n − 1)·gen(S, w)²/(4σ²), so c = (2n − 1)/(4σ²),
+          τ² = σ²/n, 2cτ² = (2n − 1)/(2n) < 1. By (b),
+          E_S e^{F(S, w)} ≤ (1/(2n))^{−1/2} = √(2n) for every w, hence
+          ξ := E_{W~P} E_S e^{F(S, W)} ≤ √(2n), using that P does not depend
+          on S (Fubini).
+      (d) Disintegrated change of measure (Rivasplata et al., Thm 1.ii, as
+          LIT-233 eq. 29 recovers it): with R_{S,W} = log (dP_{W|S}/dP)(W),
+          E_S E_{W~P_{W|S}} e^{F(S,W) − R_{S,W}} ≤ E_S E_{W~P} e^{F(S,W)} = ξ
+          (requires P_{W|S} ≪ P; equality when they share support). Markov's
+          inequality: with probability ≥ 1 − δ over (S, W),
+          F(S, W) ≤ R_{S,W} + log(ξ/δ) ≤ R_{S,W} + log(√(2n)/δ).
+      (e) Rearranged: gen(S, W)² ≤ 4σ²(R_{S,W} + log(√(2n)/δ))/(2n − 1),
+          which is Theorem 1's bound at ε = 0 with this rate.
+    So with the rate set to the pointwise information density against a
+    fixed prior, Theorem 1's bound holds with no coding argument and in any
+    measurable space; it is the disintegrated PAC-Bayes bound. The first
+    clause (a rate depending on the realised S and W gives a bound computable
+    at that realisation) is Theorem 1 itself, and (e) is an instance of it.
+  excluded: >-
+    The promote_when's second job, a second source deriving a PAC-Bayes bound
+    from a variable-rate covering outside finite alphabets. The title does not
+    say compression is the mechanism outside finite alphabets, and the body
+    disclaims it; (d) shows the bound needs no covering at all there. That
+    question moves to a new QUESTION.
+evidence:
+  - "NOTE-806: read in full, every proof in Appendix E followed step by step; C1 and C2 strong."
+  - "NOTE-806 Method: Theorem 1's proof sums Chernoff bounds over book entries with weight 1/j; the general theorems are Lemma 1 plus Donsker–Varadhan."
+  - "Inactive-ok directives naming THEORY-263: checked at PR time."
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem from a source read in full, so re-derivation.
+  The direction check (batch 031 note) holds: the title claims the bound with
+  this rate is a PAC-Bayes bound, which is what (a)–(e) prove, not the
+  converse. No Active entry holds it already: THEORY-248 is the fixed-rate
+  bound and THEORY-028 the in-expectation MI bound. Confidence is medium,
+  not high, because the first clause's general Theorem 1 is accepted on
+  NOTE-806's step-by-step reading, not re-derived here.
+unlocks: []
+next_action: >-
+  Promote with the title unchanged; add the re-derivation as a dated note;
+  move the promote_when's second-source request to a new QUESTION (line
+  learned-structure).

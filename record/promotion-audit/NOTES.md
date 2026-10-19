@@ -1113,3 +1113,25 @@ history note. THEORY-277 is requeued on this basis.
 - Triage-006's philosophical-title penalty is a word match. THEORY-290's
   "argument" was debate content. Before applying the penalty, check
   whether the word is the entry's subject or its method.
+
+## 2026-10-19 — batch 036 (wave 3, triage-006 formal 1-5)
+
+- Triage-006's top five went 4 of 5 by re-derivation; the fifth
+  (THEORY-080) derives too but is the record's own synthesis. Before re-
+  deriving a formal_route entry, read its summary for "the filer's
+  synthesis" or "stated by no source": those go to a CLAIM under ADR-032,
+  not to promotion.
+- A source theorem about a sequence of networks can hold as stated only
+  under strong connectivity. When a title says "the consensus" or "the
+  limit belief", check whether the source's statement allows several
+  closed groups, and narrow to one if the derivation needs it
+  (THEORY-321).
+- "Learned not at all below X and in full above it" (THEORY-293) is a
+  recurring overstatement of threshold theorems whose upper bound carries
+  a margin. Check both ends of a threshold.
+- For a "learns modes in order of eigenvalue" title, check that the order
+  is stated for a common initial scale; the step time depends on the
+  initial scale too (THEORY-229).
+- The disintegrated change of measure plus the subgaussian square-moment
+  bound reproduces Sefidgaran & Zaidi's Theorem 1 constants exactly; a
+  reusable check for PAC-Bayes-shaped titles.
