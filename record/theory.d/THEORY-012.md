@@ -79,6 +79,7 @@ supports:
 - CLAIM-038
 - CLAIM-131
 - CLAIM-141
+- CLAIM-tmpkve75
 ---
 
 # THEORY-012: An empirical model is Kochen–Specker-noncontextual exactly when its context distributions glue to one global distribution, and since signed global sections always exist for no-signalling models, negative probability does not mark contextuality
