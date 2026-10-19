@@ -171,3 +171,41 @@ decision files do not say.
   PR can split CLAIM-269 and promote CLAIM-322.
 - Wave 2 seeding is still untried, and it is the better next batch.
   Wave 4 has little left with zero other Proposed premises.
+
+## 2026-10-19 — batch 005 (wave 2 begins)
+
+**Patterns.**
+
+- *The promote_when says the proved half is done.* THEORY-174 ("already
+  proved in refereed venues"), THEORY-168 ("already proved") and THEORY-017
+  ("condition is met") each named a finished half and held the whole entry
+  for the rest. Grep for those phrases first. Triage-002's keyword
+  heuristic found them, and wave 2 went 5 of 5.
+- *An elementary proof can be checked in the review itself.* THEORY-184's
+  promote_when asked for "the proof checked independently of this reading".
+  The proof is a triangle inequality on the pair (X, PX), so the review is
+  that check. Write the computation in the decision's evidence, so the
+  promotion PR can cite it.
+- *The record's own derivation, found in a THEORY, goes to a CLAIM.*
+  THEORY-165's Lipschitz bound is "the reader's derivation". It is
+  correct, and its LP duality needs nothing from the paper once the primal
+  is shown bounded. This is the same split as batch-000's THEORY-005.
+- *Read the claims table in the source NOTE.* "asserted, no example" (C3)
+  and "asserted, not computed" (C7) marked exactly what THEORY-168 must
+  keep Proposed. "followed step by step" marked what could go Active.
+
+**Traps.**
+
+- In a worktree-isolated session, shell loops over `$n` and multi-command
+  git pipelines are refused. Write `git show origin/main:<path> > file`
+  one per call, then grep the files.
+- The ledger branch's working tree lags main. Read entries with `git show
+  origin/main:<path>`, not from disk.
+
+**Open threads.**
+
+- Batch 005's five follow-up PRs are not opened (batch-005.yaml).
+- Wave 4 after them: CLAIM-237 could ground on THEORY-174's monotone half.
+  CLAIM-105, -235, -319 and -320 may need only THEORY-165's Lipschitz
+  claim. THEORY-018, THEORY-019 and CLAIM-148 may need only THEORY-017's
+  core, which bears on CLAIM-269's THEORY-019 clause.
