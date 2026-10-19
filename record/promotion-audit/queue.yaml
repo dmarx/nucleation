@@ -1,14 +1,14 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 21
+version: 22
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-004
   state: in_review
-  in_review: CLAIM-269
+  in_review: CLAIM-322
   next_step: 'Batch 004 (wave 4, dependency unlocks) is open: CLAIM-269, CLAIM-322, CLAIM-090, CLAIM-056,
     CLAIM-191, in that order. Finish the one in_review, then the next pending of these.'
   cautions:
@@ -31,8 +31,8 @@ waves:
   promotion_paths: 0
 - wave: 4
   class: Dependency unlocks
-  reviewed: 0
-  promotion_paths: 0
+  reviewed: 1
+  promotion_paths: 1
 - wave: 5
   class: Broad interpretive and synthesis claims
   reviewed: 0
@@ -303,7 +303,7 @@ candidates:
   disposition: needs-correction
   batch: batch-003
   decision: decisions/CLAIM-188.yaml
-  carried_out_in: PR pending (parent)
+  carried_out_in: '#172'
 - code: CLAIM-193
   wave: 1
   score: 13
@@ -323,7 +323,7 @@ candidates:
   disposition: needs-correction
   batch: batch-003
   decision: decisions/CLAIM-193.yaml
-  carried_out_in: PR pending (parent)
+  carried_out_in: '#172'
 - code: CLAIM-212
   wave: 1
   score: 13
@@ -361,7 +361,10 @@ candidates:
   - THEORY-008
   - THEORY-002
   - THEORY-019
-  state: in_review
+  state: decided
+  disposition: split
+  batch: batch-004
+  decision: decisions/CLAIM-269.yaml
 - code: CLAIM-326
   wave: 1
   score: 13
@@ -468,7 +471,7 @@ candidates:
     risk: 3
   proposed_deps:
   - CLAIM-264
-  state: pending
+  state: in_review
 - code: CLAIM-090
   wave: 4
   score: 12
@@ -575,3 +578,6 @@ history:
     on main or in an open PR (#165, #167, #170), found from rests_on and grounds, and scored by hand:
     CLAIM-269, CLAIM-322, CLAIM-090, CLAIM-056, CLAIM-191. CLAIM-269 and CLAIM-056 move from wave 1. CLAIM-310
     and ARG-006 were named in the hand-off but are Active, so they are not promotion candidates.'
+- version: 22
+  date: '2026-10-19'
+  note: 'Batch 004: CLAIM-269 decided (split).'
