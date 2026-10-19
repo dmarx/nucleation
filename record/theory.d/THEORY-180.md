@@ -18,7 +18,18 @@ promote_when: >-
   More qualitative resemblance between these spectra and those of trained
   transformers cannot settle it: that tests an analogy, not the law.
 title: 'In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    At the owner's direction, carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-180.yaml, batch 010, ADR-047),
+    the weight-decay/nuclear-norm identity is filed apart as
+    THEORY-tmpkmw55, Active, sourced to LIT-857's Appendix A and re-derived
+    (ADR-047 v2). This THEORY extends it and keeps the spectral law and the
+    error decomposition. Its promote_when already concerned only the law
+    and is unchanged. The status stays Proposed.
 tags:
 - learning-theory
 - mathematics
@@ -35,6 +46,8 @@ summary: >-
   not say that real transformers' spectra arise this way: the data are
   isotropic Gaussian, the target is inside the model class, and the
   agreement with measured spectra is qualitative.
+extends:
+- THEORY-tmpkmw55
 supports:
 - CLAIM-148
 ---
@@ -103,3 +116,12 @@ approximation term along the outliers.
 - **Not [THEORY-106](THEORY-106.md)'s case.** That account is for random features, whose
   features are not learned. This model's interpolation peak is not shown
   to diverge; Appendix G's simulations suggest a large but finite one.
+
+## Note of 2026-10-19: the identity filed apart
+
+The identity is now [THEORY-tmpkmw55](THEORY-tmpkmw55.md), Active. With tied weights,
+λ‖W‖²_F = λ‖WWᵀ‖_*. For untied factors, the balanced SVD factorization attains
+‖M‖_* as the least (‖U‖²_F + ‖V‖²_F)/2 over UVᵀ = M. What keeps this THEORY
+Proposed is only the spectral law η·ReLU(S0 + δZ − εI), which is derived by
+replica and AMP arguments under a replicon condition checked only
+numerically, and the conjectured error decomposition.
