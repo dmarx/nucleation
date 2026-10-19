@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**515 documents cited without acknowledgement.** Not listed: 10140 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**515 documents cited without acknowledgement.** Not listed: 10147 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1098,6 +1098,26 @@ Compositional generalization comes from diversity of combinations, not data volu
 - [`record/notes.d/NOTE-597.md:164`](../../record/notes.d/NOTE-597.md)
 - [`record/questions.d/QUESTION-025.md:194`](../../record/questions.d/QUESTION-025.md)
 
+### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
+
+A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
+
+13 citations in 5 files await a look; 25 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-030.md:90`](../../record/claims.d/CLAIM-030.md)
+- [`record/claims.d/CLAIM-271.md:21`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:77`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:121`](../../record/claims.d/CLAIM-271.md)
+- [`record/questions.d/QUESTION-049.md:17`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:33`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:48`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-049.md:53`](../../record/questions.d/QUESTION-049.md)
+- [`record/questions.d/QUESTION-070.md:98`](../../record/questions.d/QUESTION-070.md)
+- [`record/questions.d/QUESTION-070.md:112`](../../record/questions.d/QUESTION-070.md)
+- [`record/questions.d/QUESTION-082.md:20`](../../record/questions.d/QUESTION-082.md)
+- [`record/questions.d/QUESTION-082.md:44`](../../record/questions.d/QUESTION-082.md)
+- [`record/questions.d/QUESTION-082.md:47`](../../record/questions.d/QUESTION-082.md)
+
 ### [CLAIM-025](../../record/claims.d/CLAIM-025.md) — Proposed
 
 An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately
@@ -1155,33 +1175,14 @@ Mapping morality with a compass: Testing the theory of ‘morality-as-cooperatio
 - [`record/theory.d/THEORY-505.md:85`](../../record/theory.d/THEORY-505.md)
 - [`record/theory.d/THEORY-539.md:97`](../../record/theory.d/THEORY-539.md)
 
-### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
-
-A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
-
-12 citations in 5 files await a look; 25 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-030.md:74`](../../record/claims.d/CLAIM-030.md)
-- [`record/claims.d/CLAIM-271.md:63`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:107`](../../record/claims.d/CLAIM-271.md)
-- [`record/questions.d/QUESTION-049.md:17`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:33`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:48`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-049.md:53`](../../record/questions.d/QUESTION-049.md)
-- [`record/questions.d/QUESTION-070.md:98`](../../record/questions.d/QUESTION-070.md)
-- [`record/questions.d/QUESTION-070.md:112`](../../record/questions.d/QUESTION-070.md)
-- [`record/questions.d/QUESTION-082.md:20`](../../record/questions.d/QUESTION-082.md)
-- [`record/questions.d/QUESTION-082.md:44`](../../record/questions.d/QUESTION-082.md)
-- [`record/questions.d/QUESTION-082.md:47`](../../record/questions.d/QUESTION-082.md)
-
 ### [CLAIM-027](../../record/claims.d/CLAIM-027.md) — Proposed
 
 Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes
 
 11 citations in 7 files await a look; 22 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-271.md:108`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:109`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:122`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:123`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-352.md:89`](../../record/claims.d/CLAIM-352.md)
 - [`record/claims.d/CLAIM-353.md:58`](../../record/claims.d/CLAIM-353.md)
 - [`record/claims.d/CLAIM-353.md:87`](../../record/claims.d/CLAIM-353.md)
@@ -1209,24 +1210,6 @@ Irreversibility and Heat Generation in the Computing Process
 - [`record/notes.d/NOTE-310.md:149`](../../record/notes.d/NOTE-310.md)
 - [`record/theory.d/THEORY-030.md:12`](../../record/theory.d/THEORY-030.md)
 - [`record/theory.d/THEORY-030.md:76`](../../record/theory.d/THEORY-030.md)
-
-### [THEORY-127](../../record/theory.d/THEORY-127.md) — Proposed
-
-A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
-
-11 citations in 5 files await a look; 34 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-104.md:45`](../../record/cases.d/CASE-104.md)
-- [`record/cases.d/CASE-110.md:84`](../../record/cases.d/CASE-110.md)
-- [`record/claims.d/CLAIM-192.md:60`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-271.md:16`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:36`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:57`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:91`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:102`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:109`](../../record/claims.d/CLAIM-271.md)
-- [`record/questions.d/QUESTION-082.md:18`](../../record/questions.d/QUESTION-082.md)
-- [`record/questions.d/QUESTION-082.md:46`](../../record/questions.d/QUESTION-082.md)
 
 ### [CLAIM-127](../../record/claims.d/CLAIM-127.md) — Proposed
 
@@ -1423,6 +1406,22 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 - [`record/theory.d/THEORY-102.md:185`](../../record/theory.d/THEORY-102.md)
 - [`record/theory.d/THEORY-102.md:187`](../../record/theory.d/THEORY-102.md)
 
+### [THEORY-127](../../record/theory.d/THEORY-127.md) — Proposed
+
+A group whose judgments on interconnected propositions are robustly rational cannot form its judgment on each proposition from its members' judgments on that proposition alone; its judgments must supervene on the members' whole sets of judgments, and so can depart from what the members judge on the same proposition while being wholly fixed by them
+
+9 citations in 4 files await a look; 38 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-104.md:45`](../../record/cases.d/CASE-104.md)
+- [`record/cases.d/CASE-110.md:84`](../../record/cases.d/CASE-110.md)
+- [`record/claims.d/CLAIM-271.md:18`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:116`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:123`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:135`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:140`](../../record/claims.d/CLAIM-271.md)
+- [`record/questions.d/QUESTION-082.md:18`](../../record/questions.d/QUESTION-082.md)
+- [`record/questions.d/QUESTION-082.md:46`](../../record/questions.d/QUESTION-082.md)
+
 ### [THEORY-209](../../record/theory.d/THEORY-209.md) — Proposed
 
 A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
@@ -1463,7 +1462,7 @@ Will-organization is not one more higher-order preference: changing the conditio
 
 - [`record/cases.d/CASE-112.md:79`](../../record/cases.d/CASE-112.md)
 - [`record/claims.d/CLAIM-027.md:103`](../../record/claims.d/CLAIM-027.md)
-- [`record/claims.d/CLAIM-192.md:70`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:83`](../../record/claims.d/CLAIM-192.md)
 - [`record/claims.d/CLAIM-354.md:100`](../../record/claims.d/CLAIM-354.md)
 - [`record/questions.d/QUESTION-062.md:22`](../../record/questions.d/QUESTION-062.md)
 - [`record/questions.d/QUESTION-062.md:35`](../../record/questions.d/QUESTION-062.md)
@@ -2186,7 +2185,7 @@ Attributions of mental states to institutions, such as the knowledge that the co
 
 - [`record/cases.d/CASE-103.md:21`](../../record/cases.d/CASE-103.md)
 - [`record/cases.d/CASE-103.md:54`](../../record/cases.d/CASE-103.md)
-- [`record/claims.d/CLAIM-271.md:87`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:101`](../../record/claims.d/CLAIM-271.md)
 - [`record/questions.d/QUESTION-049.md:19`](../../record/questions.d/QUESTION-049.md)
 - [`record/questions.d/QUESTION-049.md:36`](../../record/questions.d/QUESTION-049.md)
 - [`record/questions.d/QUESTION-049.md:49`](../../record/questions.d/QUESTION-049.md)
@@ -2323,9 +2322,9 @@ An argument developed with collaborators who keep no memory fails at identity, n
 5 citations in 3 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-178.md:107`](../../record/claims.d/CLAIM-178.md)
-- [`record/claims.d/CLAIM-192.md:32`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:49`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:77`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:44`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:62`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:90`](../../record/claims.d/CLAIM-192.md)
 - [`record/questions.d/QUESTION-072.md:71`](../../record/questions.d/QUESTION-072.md)
 
 ### [CLAIM-178](../../record/claims.d/CLAIM-178.md) — Proposed
@@ -2591,6 +2590,18 @@ The solutions SGD finds in a deep network lie in one connected low-loss set, joi
 - [`record/questions.d/QUESTION-069.md:48`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-108.md:185`](../../record/theory.d/THEORY-108.md)
 - [`record/theory.d/THEORY-108.md:187`](../../record/theory.d/THEORY-108.md)
+
+### [THEORY-131](../../record/theory.d/THEORY-131.md) — Proposed
+
+A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
+
+5 citations in 3 files await a look; 6 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-271.md:20`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:77`](../../record/claims.d/CLAIM-271.md)
+- [`record/questions.d/QUESTION-009.md:61`](../../record/questions.d/QUESTION-009.md)
+- [`record/questions.d/QUESTION-082.md:20`](../../record/questions.d/QUESTION-082.md)
+- [`record/questions.d/QUESTION-082.md:43`](../../record/questions.d/QUESTION-082.md)
 
 ### [THEORY-257](../../record/theory.d/THEORY-257.md) — Proposed
 
@@ -2912,17 +2923,6 @@ Once the architecture's symmetries are factored out, most of the linear barrier 
 - [`record/notes.d/NOTE-712.md:120`](../../record/notes.d/NOTE-712.md)
 - [`record/questions.d/QUESTION-127.md:54`](../../record/questions.d/QUESTION-127.md)
 
-### [THEORY-131](../../record/theory.d/THEORY-131.md) — Proposed
-
-A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
-
-4 citations in 3 files await a look; 6 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-271.md:63`](../../record/claims.d/CLAIM-271.md)
-- [`record/questions.d/QUESTION-009.md:61`](../../record/questions.d/QUESTION-009.md)
-- [`record/questions.d/QUESTION-082.md:20`](../../record/questions.d/QUESTION-082.md)
-- [`record/questions.d/QUESTION-082.md:43`](../../record/questions.d/QUESTION-082.md)
-
 ### [THEORY-152](../../record/theory.d/THEORY-152.md) — Proposed
 
 When a firm, public service or other organization deteriorates, its members' exit and voice are both recuperation mechanisms: voice carries richer information than exit and can be felt as a benefit rather than a cost, exit can be costly even without loyalty and can signal nothing, loyalty makes members voice rather than exit, and an organization needs floor levels of both for feedback but disintegrates or is disrupted beyond ceiling levels, while its managers may favour whichever response least threatens their hold on power
@@ -3141,8 +3141,8 @@ How fast an argument grows sets how it grows: drift tracks how fast new material
 3 citations in 2 files await a look; 29 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-190.md:46`](../../record/claims.d/CLAIM-190.md)
-- [`record/claims.d/CLAIM-192.md:35`](../../record/claims.d/CLAIM-192.md)
-- [`record/claims.d/CLAIM-192.md:65`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:47`](../../record/claims.d/CLAIM-192.md)
+- [`record/claims.d/CLAIM-192.md:78`](../../record/claims.d/CLAIM-192.md)
 
 ### [CLAIM-194](../../record/claims.d/CLAIM-194.md) — Proposed
 
@@ -3231,7 +3231,7 @@ No coarse-graining is normatively adequate in general because it preserves stabi
 3 citations in 3 files await a look.
 
 - [`record/claims.d/CLAIM-115.md:105`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-271.md:111`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:125`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-350.md:111`](../../record/claims.d/CLAIM-350.md)
 
 ### [CLAIM-349](../../record/claims.d/CLAIM-349.md) — Proposed
@@ -4983,7 +4983,7 @@ What survives translation is the invariants, and approximately preserved relatio
 
 Fidelity is relative to the communicative decisions the receiver must make, and Blackwell's order of experiments makes that comparison precise
 
-1 citation in 1 file awaits a look; 65 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 68 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:176`](../../record/decisions.d/ADR-040.md)
 
