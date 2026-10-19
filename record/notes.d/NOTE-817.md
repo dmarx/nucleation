@@ -28,7 +28,7 @@ summary: >-
   product. Most theorems are stated without proof, and negation is never
   written out.
 ---
-<!-- inactive-ok-file: THEORY-037 CLAIM-038 — Proposed; the account and claim this reading bears on, named and not leaned on -->
+<!-- inactive-ok-file: CLAIM-038 — Proposed; the account and claim this reading bears on, named and not leaned on -->
 
 # NOTE-817: Sayed Ahmed — Back and forth between algebraic geometry, algebraic logic, sheaves and forcing
 
