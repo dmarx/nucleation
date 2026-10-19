@@ -1,16 +1,18 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 9
+version: 10
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: batch-002
-  state: in_progress
+  state: reviewed
   in_review: null
-  next_step: 'Batch 002 in progress: finish the in_review candidate, then continue with the next pending
-    candidates in queue order until five are decided.'
+  next_step: 'Batch 002 is reviewed. Open the follow-up PRs that batches 001-002 call for (batches/batch-00*.yaml
+    follow_up_prs; at most three entries each). Then either a wave-4 dependency pass (CLAIM-310 after
+    CLAIM-313; ARG-006 after the CLAIM-063 split; CLAIM-081/-056 once CLAIM-270/-267 are Active) or batch-003
+    with the next five pending: CLAIM-268, CLAIM-081, CLAIM-107, CLAIM-188, CLAIM-193.'
   cautions:
   - 'PR #165 is open. Its tmp codes (CLAIM-tmpzk12h and others) are concretized at merge; update decisions/
     when they are.'
@@ -461,3 +463,7 @@ history:
 - version: 9
   date: '2026-10-19'
   note: 'Batch-002: CLAIM-251 decided (needs-correction).'
+- version: 10
+  date: '2026-10-19'
+  note: 'Batch-002 closed: CLAIM-313 promote; CLAIM-063, CLAIM-037 split; CLAIM-308, CLAIM-251 needs-correction.
+    Wave 1 now 13 reviewed, 8 promotion paths.'
