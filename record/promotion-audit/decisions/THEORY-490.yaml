@@ -1,0 +1,38 @@
+# record/promotion-audit/decisions/THEORY-490.yaml
+id: THEORY-490
+batch: batch-032
+reviewed: '2026-10-19'
+reviewed_revision: de0974aa4e91505b1ebeb9d4d768bbc2aea8a461
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. "Fixed by the context of use, not by the system" is a
+    philosophical thesis about reference, and its support is two invented
+    usages ("I am still learning", "I did not say that"), which the body
+    says are "invented, not sampled". The role-play framing is rated
+    moderate as a description (NOTE-370). The rival account, Goldstein
+    and Lederman (LIT-206, NOTE-138), fixes one referent, the
+    per-conversation instance, so the record holds an open contrary
+    reading. "None of them the self by nature" leans on Shanahan's no-self
+    conclusion, which the body calls asserted without a criterion. The
+    solid part (a conversation self is literally a transcript plus a
+    program, NOTE-376 strong) is a description of chat systems that the
+    title uses but does not assert.
+evidence:
+  - "NOTE-376 read Shanahan (2025). NOTE-370 read the role-play paper for the self, with the arXiv differences."
+  - "THEORY-490's own 'What could have come out otherwise' says whether real usage behaves so is untested, and 'What this does not say' excludes deployed assistants and agents with memory across conversations."
+  - "The promote_when asks for a blind-coded sample of deployed conversations and regeneration elicitation. The record holds neither."
+blockers:
+  - "No sample of real uses of a chat agent's 'I'. The two-referent claim rests on invented examples, and a rival account (LIT-206) predicts a single referent."
+notes: >-
+  Batch 020's sort rule: an argument, retained for wave 5. The subject is
+  philosophical, and the promote_when proposes an empirical test of a
+  linguistic thesis, so the entry may in the end divide into a QUESTION
+  (which referent deployed agents' uses pick out) and an interpretive
+  thesis. That is wave-5 work, not a promotion path. The warrant rule
+  (ADR-043 v2) does not apply to a THEORY.
+unlocks: []
+next_action: None. Leave it for the wave-5 sample.

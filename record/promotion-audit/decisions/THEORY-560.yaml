@@ -1,0 +1,44 @@
+# record/promotion-audit/decisions/THEORY-560.yaml
+id: THEORY-560
+batch: batch-032
+reviewed: '2026-10-19'
+reviewed_revision: de0974aa4e91505b1ebeb9d4d768bbc2aea8a461
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It reads like a hedged measured result, but its source
+    is a narrative review with no search method, written by employees of a
+    probiotics manufacturer (LIT-915, NOTE-703), and every result in the
+    title is cited from studies the record has not read. ADR-047 v3 admits
+    one study read in full whose measurements the title does not exceed. It
+    does not admit a secondary summary of unread studies. The human half
+    claims something about the whole literature ("so far shown at most
+    small reductions"; strains "have failed"), which a review without a
+    stated search cannot support. Its basis is one cited meta-analysis and
+    a few cited trials (NOTE-703: C3 moderate and mixed, C4 weak, C5 weak).
+    The rodent routes are rated moderate in animals (C1), and the
+    transplant result weak to moderate (C2, "at least partial", few
+    donors).
+evidence:
+  - "NOTE-703 version 1: the review was read in full from the Europe PMC XML. Tables 1 and 2 were flattened in extraction, and the reference list was not read."
+  - "THEORY-560's summary already gives the reason for Proposed: the source is a narrative industry review."
+  - "The promote_when asks for an independent systematic review or meta-analysis that separates healthy volunteers from patients. The record holds none."
+blockers:
+  - "No independent systematic review with a stated search. The human-trial results, including the meta-analysis behind 'small reductions in subjective stress', are cited by the review, not read."
+notes: >-
+  Batch 020's sort rule puts a measured result on the v3 route, but v3's
+  condition is a primary study read in full, and a narrative review is
+  not one. That the review documents failures against its authors'
+  interest raises credence in the null half, but it does not make the
+  record a reader of the trials. Reading the JB-1 human trial the review
+  cites would ground the failure clause first-hand. The meta-analysis
+  would still be needed for "at most small reductions". The warrant rule
+  (ADR-043 v2) does not apply to a THEORY. CLAIM-166, which grounds on
+  this account, is unaffected.
+unlocks: []
+next_action: >-
+  None in this audit. Requeue if an independent systematic review of
+  psychobiotic RCTs is registered and read.

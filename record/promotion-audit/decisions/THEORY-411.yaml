@@ -1,0 +1,43 @@
+# record/promotion-audit/decisions/THEORY-411.yaml
+id: THEORY-411
+batch: batch-032
+reviewed: '2026-10-19'
+reviewed_revision: de0974aa4e91505b1ebeb9d4d768bbc2aea8a461
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: Nothing.
+  excluded: >-
+    The whole title. It is exegesis, a claim about what Sen's approach
+    holds, resting on a secondary source (Wells, IEP, read in NOTE-257)
+    that attributes intersection and ranges of weights to Sen without a
+    citation. The one first-hand Sen text the record holds (LIT-289, 1979,
+    NOTE-258) gives "a partial ordering" supplemented by "conventions of
+    relative importance", not public reasoning. The SEP (LIT-283) says Sen
+    "has never explained in detail" how selection should be done, which is
+    a direct rival reading of "deliberately incomplete". The formal part,
+    that a comparison on which every weighting in a set agrees gives a
+    quasi-ordering, holds by construction. In the IEP's example, 1L + 2H
+    beats 2L + 1H iff the weight w on literacy is below 1, and all four
+    weights are. That is a tautology, not a result, and the promote_when
+    itself says the arithmetic cannot settle the account.
+evidence:
+  - "NOTE-257 read the IEP entry in full. NOTE-258 read Sen (1979) first-hand."
+  - "The record holds none of the texts the promote_when names: Inequality Reexamined, Development as Freedom, or 'Capabilities, Lists, and Public Reason'. A grep of literature.d finds no LIT for any of them."
+  - "THEORY-411's 'What this does not say' grants that the Sen text stating the mechanism is unverified, and that the SEP finds three incompatible readings."
+blockers:
+  - "No first-hand reading of a Sen text that states intersection or ranges of weights. Registering and reading Inequality Reexamined (ch. 3) would settle the exegetical half."
+  - "The applied half (a real evaluation in which the agreed range decides a contested comparison) is not in the record. It is an interpretive and empirical question, not exegesis."
+notes: >-
+  Batch 020's sort rule: an interpretive (exegetical) account, retained for
+  wave 5. The promote_when bundles two jobs, a source reading and an
+  applied case. If the Sen text is registered and read, the exegetical
+  half could be split off and promoted, and the applied case moved to a
+  QUESTION. No split now: the attribution is exactly what is unverified.
+  The warrant rule (ADR-043 v2) does not apply to a THEORY.
+unlocks: []
+next_action: >-
+  None in this audit. A reading task, if the owner wants one: register
+  Sen's Inequality Reexamined (1992) and read it for intersection and
+  ranges of weights, then requeue THEORY-411 for a split.
