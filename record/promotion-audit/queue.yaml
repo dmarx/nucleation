@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 93
+version: 94
 updated: '2026-10-19'
 record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 procedure: record/decisions.d/ADR-047.md
@@ -1414,6 +1414,543 @@ candidates:
   decision: decisions/CLAIM-164.yaml
   carried_out_in:
   - '#190'
+- code: THEORY-169
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-182
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-186
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-231
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+  note: triage-005 doubts the formal flag here (keyword hit on a philosophical title)
+- code: THEORY-283
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-286
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-308
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-314
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-320
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-391
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-472
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-478
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-590
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+  note: triage-005 doubts the formal flag here (keyword hit on a philosophical title)
+- code: THEORY-614
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+- code: THEORY-690
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 1
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 1
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: re-derivation
+  note: triage-005 doubts the formal flag here (keyword hit on a philosophical title)
+- code: THEORY-566
+  wave: 3
+  score: 7
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: source
+  note: looks formal though routed to source (prose title); try the re-derivation route
+- code: THEORY-216
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 3
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-073
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 2
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-115
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 2
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-116
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 2
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-324
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 2
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-411
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 2
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-187
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+  note: looks formal though routed to source (prose title); try the re-derivation route
+- code: THEORY-195
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+  note: looks formal though routed to source (prose title); try the re-derivation route
+- code: THEORY-211
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+  note: looks formal though routed to source (prose title); try the re-derivation route
+- code: THEORY-223
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-351
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-490
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-560
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-593
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 1
+    firsthand: 1
+    extends: 1
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+- code: THEORY-071
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 1
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 3
+  triage: triage-005
+  state: pending
+  route: source
+  control: true
+- code: THEORY-178
+  wave: 3
+  score: 3
+  rubric:
+    bundling: 1
+    depth: 0
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 1
+  triage: triage-005
+  state: pending
+  route: source
+  control: true
+- code: THEORY-306
+  wave: 3
+  score: 6
+  rubric:
+    bundling: 2
+    depth: 2
+    firsthand: 1
+    extends: 1
+    compound: 0
+    empirical_hedged: 0
+    formal: 0
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: source
+  control: true
+- code: THEORY-485
+  wave: 3
+  score: 3
+  rubric:
+    bundling: 0
+    depth: 1
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 0
+  triage: triage-005
+  state: pending
+  route: source
+  control: true
+- code: THEORY-628
+  wave: 3
+  score: 4
+  rubric:
+    bundling: 0
+    depth: 2
+    firsthand: 1
+    extends: 0
+    compound: 1
+    empirical_hedged: 0
+    formal: 0
+  supports: 2
+  triage: triage-005
+  state: pending
+  route: source
+  control: true
 history:
 - version: 1
   date: '2026-10-19'
@@ -1762,4 +2299,10 @@ history:
   date: '2026-10-19'
   note: Batches 018-023 and triage-005 started in parallel; wave 5 opens with batch 022; requeued entries
     assigned to batches 018, 021 and 023.
+- version: 94
+  date: '2026-10-19'
+  note: 'Triage-005 (triage_wave3.py revised per batch 017) re-scored 436 eligible THEORYs; 55 carry the
+    formal flag. Queued the top 15 of the re-derivation route, the top 15 of the source route and a control
+    of 5 (35 added). Backtest on batches 016-017: the route separated yielders from non-yielders 10 of
+    10, the score did not; the flag rule was chosen with those 10 in view, so the separation is fitted.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
