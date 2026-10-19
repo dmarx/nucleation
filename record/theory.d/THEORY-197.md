@@ -1,23 +1,10 @@
 ---
 number: 197
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp1hbbz
-promote_when: >-
-  A second, independent derivation of the correspondence is read and
-  checked that states its scope as here: the identity of the coarse
-  Hamiltonians for every parameter value, the coincidence of RG
-  exactness with an exact fit of the data, and nothing in between (for
-  instance, a treatment of variational RG that works out what its
-  approximate criterion becomes under the RBM parametrization). Or,
-  against it, a proof that for some class of local Hamiltonians
-  minimizing the KL divergence with fewer hidden than visible units
-  yields a short-ranged coarse Hamiltonian that keeps the relevant
-  operators, which would give the correspondence content away from the
-  exact point. Further pictures of block-like receptive fields cannot
-  settle it either way.
 title: 'Mehta and Schwab''s correspondence between Kadanoff''s variational renormalization group and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step is a perfect fit of the data distribution; away from that point it does not make training by distribution fitting a renormalization'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-09'
@@ -33,6 +20,18 @@ history:
     Schwab & Mehta's comment (LIT-891, read in NOTE-694) joins
     the sources: the mapping's own authors put its content at the trace
     condition and withdraw Eq. 8's converse. The claim is unchanged.
+- version: 4
+  date: '2026-10-19'
+  note: >-
+    Promoted, carrying out the promotion audit's decision for THEORY-197
+    (batch 038, ADR-047 v2). The promote_when asked for a second,
+    independent derivation stating the scope as here. The record already
+    held two sources that state it, added in versions 2 and 3: LIT-887's
+    v2 appendix makes the normalization point, and LIT-891, the mapping's
+    own authors, places its content at the trace condition and withdraws
+    Eq. 8's converse. The identity, the exactness condition and the
+    free-energy point were also re-derived step by step, in the dated
+    note below. The claim is unchanged.
 tags:
 - natural-sciences
 - representation-learning
@@ -128,3 +127,28 @@ It is the formal counterpart of [THEORY-194](THEORY-194.md), the empirical accou
 the RG-relevant one while a distribution-fitting one is not. Together they
 say: the formalisms correspond exactly, and which variables are kept is
 fixed by the objective, not by the correspondence.
+
+## Note of 2026-10-19: the correspondence, re-derived
+
+Write p(v) = e^{−H(v)}/Z for the data. The RBM has joint energy E(v, h)
+and marginal energies e^{−H^RBM(h)} = Tr_v e^{−E} and
+e^{−H^RBM(v)} = Tr_h e^{−E}, with partition function Z_λ.
+
+- **The identity.** With T = −E + H, Tr_v e^{T − H} = Tr_v e^{−E} =
+  e^{−H^RBM(h)}. So H^RG = H^RBM for every parameter value. Nothing about
+  training or the form of E is used.
+- **Exactness.** Tr_h e^T = e^{H(v) − H^RBM(v)}, which is 1 for every v iff
+  H^RBM = H. Then Z_λ = Z and p_λ = p, so an exact step is a perfect fit.
+  The converse holds only up to a constant. A perfect fit gives
+  H^RBM = H + log(Z_λ/Z), and the trace condition holds once E is shifted
+  by that constant, which leaves p_λ unchanged.
+- **Short of exactness.** F^h = −log Tr_{h,v} e^{−E} = −log Z_λ, so
+  ΔF = log Z − log Z_λ. A constant shift of E sets ΔF to zero for any
+  parameters. Under the mapping's kernel, the criterion variational RG
+  minimizes measures only normalization, while the RBM minimizes the KL
+  divergence. ΔF = 0 is the trace condition only on average under the
+  data, which is why Eq. 8's converse fails.
+- **The negative half.** It is a non-implication, so one counterexample
+  suffices. [LIT-873](../literature.d/LIT-873.md)'s contrastive-divergence RBM fits the distribution of
+  dimers with decoupled spin pairs and keeps the wrong variables.
+

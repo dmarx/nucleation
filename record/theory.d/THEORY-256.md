@@ -40,7 +40,7 @@ summary: >-
 answers:
 - QUESTION-060
 ---
-<!-- inactive-ok-file: THEORY-197 THEORY-274 — Proposed; accounts on the same question, open -->
+<!-- inactive-ok-file: THEORY-274 — Proposed; accounts on the same question, open -->
 
 # THEORY-256: When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and approximately orthogonal in their leading components, and under the token noise tested reach it first even when noise makes it lossy
 
