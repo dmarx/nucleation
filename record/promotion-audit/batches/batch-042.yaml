@@ -41,7 +41,8 @@ rubric_vs_outcome:
     formal_score: 3
     outcome: needs-correction
     mattered: Derives, but "this document puts that together" (ADR-032), as THEORY-080.
-promotion_prs: []
+promotion_prs:
+  - "#239: THEORY-280, THEORY-289 and THEORY-387 narrowed and promoted (branch claude/promote-theories-280-289-387)."
 notes_for_ledger:
   - >-
     Triage-006's formal_route 16–20 went 3 of 5 to promotion, with every
