@@ -1,20 +1,24 @@
 ---
 number: 315
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpkfnig
-promote_when: >-
-  A check of the main result by someone other than its authors: an
-  independent derivation of |⟨X⟩| + |⟨Z⟩| ≤ 1 from the A²₁-orbit
-  condition, or an experiment that tests it with the equivalence of
-  Eq. 11 certified, as Mazurek et al. certified earlier preparation
-  inequalities. It is refuted by a preparation-noncontextual model of
-  four states that satisfy Eqs. 10–11 and exceed the bound. What cannot
-  settle it: further qubit calculations, which only confirm the
-  violation, or uncertainty relations of theories without the symmetry,
-  which the bound does not cover.
 title: 'For a state whose four-state reflection orbit is realizable, generalized noncontextuality bounds two binary predictabilities by |⟨X⟩| + |⟨Z⟩| ≤ 1, so the form of a predictability trade-off, not its existence, can witness contextuality'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-315.yaml, batch 019, ADR-047).
+    The promote_when asked for "an independent derivation of |⟨X⟩| + |⟨Z⟩|
+    ≤ 1 from the A²₁-orbit condition". One is given in the note of
+    2026-10-19 below. It differs from the paper's Appendix A: it uses
+    neither outcome determinism nor measurement noncontextuality, only
+    preparation noncontextuality for the one equivalence of Eq. 11. Under
+    ADR-047 v2 (the owner's rule of 2026-10-19) that meets the condition,
+    and the promote_when is removed. The title is unchanged.
 tags:
 - contextuality
 - quantum-foundations
@@ -138,3 +142,35 @@ curve.
 - **[CLAIM-009](../claims.d/CLAIM-009.md), [CLAIM-037](../claims.d/CLAIM-037.md), [CLAIM-044](../claims.d/CLAIM-044.md).** Their contextuality is the
   global-extension kind. A violation of this bound would not support them
   as worded.
+
+## Note of 2026-10-19: an independent derivation of the bound
+
+Written for the promotion audit's batch 019 ([ADR-047](../decisions.d/ADR-047.md)). It is also in
+record/promotion-audit/decisions/THEORY-315.yaml.
+
+A preparation-noncontextual model gives preparation s_i a distribution
+μ_i over ontic states λ. X and Z get response functions ξ_X(λ) and
+ξ_Z(λ) in [0, 1]. Write a = 2ξ_X − 1 and b = 2ξ_Z − 1, so |a| ≤ 1 and
+|b| ≤ 1 pointwise, with ⟨X⟩_s = ∫ a dμ_s and ⟨Z⟩_s = ∫ b dμ_s. Treat the
+μ_i as densities with respect to their sum. By Eq. 10,
+⟨X⟩s1 = −⟨X⟩s2 = −⟨X⟩s3 = ⟨X⟩s4 = x and
+⟨Z⟩s1 = ⟨Z⟩s2 = −⟨Z⟩s3 = −⟨Z⟩s4 = z.
+
+1. **Noncontextuality.** Eq. 11 is an operational equivalence, so
+   μ1 + μ3 = μ2 + μ4 =: ν, of total mass 2.
+2. **Two differences.** Put u = μ1 − μ3 and v = μ4 − μ2. The μ_i are
+   non-negative, so |u| ≤ μ1 + μ3 = ν and |v| ≤ μ2 + μ4 = ν pointwise.
+   The second inequality is where step 1 is used.
+3. **An identity.** By Eq. 10, ∫ua = 2x, ∫va = 2x, ∫ub = 2z and ∫vb = −2z.
+   So for any signs σ, τ ∈ {±1},
+   σx + τz = ¼ ∫ [u(σa + τb) + v(σa − τb)].
+4. **The bound.** Pointwise, |σa + τb| + |σa − τb| = 2 max(|a|, |b|) ≤ 2.
+   So the integrand is at most 2ν, and σx + τz ≤ ¼ · 2 · ∫ν = 1. Choosing
+   σ and τ as the signs of x and z gives |⟨X⟩| + |⟨Z⟩| ≤ 1.
+
+Without step 1, step 2 gives only |v| ≤ μ2 + μ4, and the same steps give
+2, the gbit's value. That shows where noncontextuality does the work.
+Neither outcome determinism nor any assumption about measurements is
+used. The paper fixes four outcome-deterministic ontic states. Tightness
+is the paper's saturating model (Eqs. A35–A38, checked by hand in
+[NOTE-825](../notes.d/NOTE-825.md)).

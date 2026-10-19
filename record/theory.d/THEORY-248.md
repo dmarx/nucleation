@@ -1,20 +1,25 @@
 ---
 number: 248
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7xiz6
-promote_when: >-
-  A bound of this form, R_E(ε) or the rate-distortion function of the
-  output's law, is evaluated for an algorithm whose I(S;W) is infinite,
-  such as deterministic training of a network with continuous weights,
-  and gives a non-trivial value, with distortion measured in the units
-  the Lipschitz condition uses. The theorem itself is proved, by
-  Xu–Raginsky's bound applied to a surrogate, so a counterexample to it
-  would refute the account outright. What cannot settle it: correlations
-  between estimated compressibility and test error across training
-  settings, since they do not show that the bound holds or is tight.
-title: "The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and the lossy bound stays finite where I(S;W) is infinite"
-version: 1
+title: "The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and for an L-Lipschitz loss R is at most the rate-distortion function of the output's law at distortion ε/(2L), so the bound is finite wherever that function is, including where I(S;W) is infinite"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-248.yaml, batch 019, ADR-047).
+    The title said the lossy bound "stays finite where I(S;W) is
+    infinite". It now states the condition: the bound is finite wherever
+    the output law's rate-distortion function is finite at distortion
+    ε/(2L). The promote_when asked for a non-trivial value for an algorithm
+    with infinite I(S;W), which the body disclaims ("Not that it is
+    non-vacuous for networks"). It moves, unchanged, to QUESTION-tmpgpocu.
+    Theorem 4 and Corollary 6 are re-derived in the note of 2026-10-19
+    below, and NOTE-780 followed every proof step by step.
 tags:
 - learning-theory
 - information-theory
@@ -33,7 +38,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-238 THEORY-263 — Proposed; the account of a related block-coding bound for representations, and the data-dependent successor filed today, cited for context -->
 
-# THEORY-248: The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and the lossy bound stays finite where I(S;W) is infinite
+# THEORY-248: The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where R is the least information about the sample carried by any surrogate output whose expected generalisation error is within ε; I(S;W) is the lossless case, and for an L-Lipschitz loss R is at most the rate-distortion function of the output's law at distortion ε/(2L), so the bound is finite wherever that function is, including where I(S;W) is infinite
 
 ## Source
 
@@ -113,3 +118,31 @@ dimension. Here that enters only through the Lipschitz corollaries.
   realised sample, turning these bounds into data-dependent ones.
 - **[THEORY-238](THEORY-238.md)** ([LIT-245](../literature.d/LIT-245.md)) applies a block-coding bound of the same family
   to an encoder's latents instead of the whole output.
+
+## Note of 2026-10-19: the bound, re-derived, and the narrowing
+
+Written for the promotion audit's batch 019 ([ADR-047](../decisions.d/ADR-047.md)). The re-derivation
+is in record/promotion-audit/decisions/THEORY-248.yaml and is restated
+here. Write gen(s, w) = L_μ(w) − L_s(w).
+
+1. **Theorem 4.** Take any kernel P_{Ŵ|S} with
+   |E[gen(S, W) − gen(S, Ŵ)]| ≤ ε. The loss ℓ(w, Z) is σ-subgaussian for
+   every w, so Xu and Raginsky's bound applies to (S, Ŵ):
+   |E gen(S, Ŵ)| ≤ √(2σ² I(S; Ŵ)/n). The triangle inequality adds ε. The
+   result is increasing in I(S; Ŵ) and holds for every admissible kernel,
+   so it holds for the infimum R_E(ε), attained or not. Ŵ = W with ε = 0 is
+   Xu–Raginsky itself.
+2. **Corollary 6.** If |ℓ(z, w) − ℓ(z, ŵ)| ≤ L·ρ(w, ŵ), then
+   |gen(s, w) − gen(s, ŵ)| ≤ 2L·ρ(w, ŵ), one L from the population term
+   and one from the empirical term. Draw Ŵ from a kernel on W alone, so
+   that S – W – Ŵ is a Markov chain, with E ρ(W, Ŵ) ≤ ε/(2L). Then Ŵ is
+   admissible, and by data processing I(S; Ŵ) ≤ I(W; Ŵ). The infimum
+   over such kernels is RD(ε/(2L); P_W, ρ), so R_E(ε) ≤ RD(ε/(2L); P_W, ρ).
+
+Nothing in step 2 uses I(S; W). The bound is finite whenever that
+rate-distortion value is, as it is for W in ℝ^d with a finite first
+moment and ρ a norm, and that includes deterministic training with
+continuous weights, where I(S; W) is infinite. The old title's "stays
+finite" did not state this condition, and the new title does. Whether the
+finite value is ever non-trivial for a learned model is the question the
+promote_when asked. It moves, unchanged, to [QUESTION-tmpgpocu](../questions.d/QUESTION-tmpgpocu.md).

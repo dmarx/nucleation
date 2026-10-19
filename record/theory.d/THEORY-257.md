@@ -55,7 +55,7 @@ summary: >-
   optimum kept. The criterion is closure, not locality or informativeness
   about a far environment.
 ---
-<!-- inactive-ok-file: THEORY-198 THEORY-205 CLAIM-157 CLAIM-167 — Proposed; the locality accounts on QUESTION-065 and the boundary claims this account bears on, open -->
+<!-- inactive-ok-file: THEORY-205 CLAIM-157 CLAIM-167 — Proposed; the locality accounts on QUESTION-065 and the boundary claims this account bears on, open -->
 
 # THEORY-257: Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many
 

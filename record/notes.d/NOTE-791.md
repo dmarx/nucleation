@@ -33,7 +33,7 @@ summary: >-
   exactly independent for VAR order above 1. The minima are many, and the
   authors treat them all as the "emergence portrait".
 ---
-<!-- inactive-ok-file: THEORY-198 THEORY-205 CLAIM-157 CLAIM-167 — Proposed; the partial answers to QUESTION-065 and the boundary claims this reading bears on, open -->
+<!-- inactive-ok-file: THEORY-205 CLAIM-157 CLAIM-167 — Proposed; the partial answers to QUESTION-065 and the boundary claims this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account filed from this reading -->
 
 # NOTE-791: Barnett and Seth — Dynamical independence

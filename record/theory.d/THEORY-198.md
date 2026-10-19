@@ -1,21 +1,27 @@
 ---
 number: 198
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpc8tc8
-promote_when: >-
-  A proof that the coarse-graining maximizing mutual information with the
-  environment beyond a buffer, under a fixed number and type of coarse
-  variables and so short of full capture, yields effective couplings whose
-  range or strength beyond nearest neighbours is bounded by the
-  information lost, for a class of local Hamiltonians in two or more
-  dimensions; or a check, on a 2D lattice model with its blocks, that the
-  per-block capture assumption of the D-dimensional proof holds or fails.
-  More 1D cases cannot settle it, nor can examples in which the
-  renormalized Hamiltonian is short-ranged for reasons of the model
-  (decimation of the Ising chain is exact whatever information it keeps).
-title: 'For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, so the renormalized Hamiltonian gains no range and, in 1D, product disorder gains no correlations across the block; the coarse-grainings actually optimized fall short of that condition, and for them the link is shown only numerically, in 1D'
-version: 1
+title: 'For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings actually optimized fall short of that condition, and for them the link is computed only for two-spin blocks of 1D Ising chains'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted from Proposed to Active at the owner's direction,
+    carrying out the promotion audit's decision
+    (record/promotion-audit/decisions/THEORY-198.yaml, batch 019, ADR-047).
+    The title stated the factorization for every dimension. It now carries
+    the D-dimensional proof's hypotheses: capture by a hyperplane of blocks
+    amounting to capture by each block, and no exact cancellation of
+    existing couplings when the buffer is summed out. The numerical clause
+    names what was computed, two-spin blocks of the 1D Ising and dilute
+    random Ising chains. The promote_when asked about coarse-grainings short
+    of full capture in two or more dimensions, which the body disclaims. It
+    moves, unchanged, to QUESTION-tmpavq90. The Lemma is re-derived in the
+    note of 2026-10-19 below. Under ADR-047 v3 the hedged numerical clause
+    rests on the one study, which NOTE-682 read in full.
 tags:
 - natural-sciences
 - information-theory
@@ -36,7 +42,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-194 THEORY-073 QUESTION-025 — Proposed or open; cited as the account this one underpins, a neighbour, and the question it does not answer -->
 
-# THEORY-198: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, so the renormalized Hamiltonian gains no range and, in 1D, product disorder gains no correlations across the block; the coarse-grainings actually optimized fall short of that condition, and for them the link is shown only numerically, in 1D
+# THEORY-198: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual information the block shares with the system beyond a buffer makes the coarse measure factorize across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings actually optimized fall short of that condition, and for them the link is computed only for two-spin blocks of 1D Ising chains
 
 ## Source
 
@@ -108,3 +114,40 @@ perfect case. The Lemma is a screening statement of the kind [THEORY-073](THEORY
 examines for Markov blankets, with the screening region likewise placed
 in advance; that parallel is the reader's. It does not bear on
 [QUESTION-025](../questions.d/QUESTION-025.md).
+
+## Note of 2026-10-19: the Lemma, re-derived, and the narrowing
+
+Written for the promotion audit's batch 019 ([ADR-047](../decisions.d/ADR-047.md)). The re-derivation
+is in record/promotion-audit/decisions/THEORY-198.yaml and is restated
+here.
+
+Order the 1D chain E_L, B_L, V, B_R, E_R, with V one block, B_L and B_R the
+buffer blocks beside it, and E_L, E_R the rest. H is V's coarse variable,
+drawn from P(H | V), so H is independent of everything else given V.
+
+1. **Full capture screens.** By the chain rule,
+   I(V, H : E) = I(V : E) + I(H : E | V) = I(V : E), and also
+   I(V, H : E) = I(H : E) + I(V : E | H). So full capture,
+   I(H : E) = I(V : E), gives I(V : E | H) = 0.
+2. **Locality.** Only neighbouring blocks interact, so the Gibbs measure is
+   Markov along the chain and V separates the two sides: E_L ⊥ E_R | V.
+3. **Combined.** For any v with P(v | h) > 0, step 1 gives
+   P(e_L, e_R | h) = P(e_L, e_R | v), which step 2 splits into
+   P(e_L | v) P(e_R | v). Step 1 again, marginalised, turns each factor into
+   P(e_L | h) and P(e_R | h). So E_L ⊥ E_R | H.
+4. **To the coarse lattice.** The coarse variables of E_L's blocks are drawn
+   from E_L's spins alone, and likewise for E_R, so the independence passes
+   to them. With the coarse buffer summed out,
+   P(X′_{≤−2}, X′_{≥2} | X′_0) = P(X′_{≤−2} | X′_0) P(X′_{≥2} | X′_0).
+
+No term of that marginal measure couples the two sides across X′_0.
+Reading this as "the renormalized Hamiltonian gains no range" needs the
+source's exclusion of fine-tuning: summing out the coarse buffer must not
+exactly cancel a longer coupling. The title now says so. The
+D-dimensional proof runs the same steps on hyperplanes of blocks. It
+needs full capture for the hyperplane to amount to full capture by each
+block, which the source calls reasonable and does not show, and the title
+now states that too.
+
+The promote_when asked what happens short of full capture, which this
+account disclaims. It moves, unchanged, to [QUESTION-tmpavq90](../questions.d/QUESTION-tmpavq90.md).

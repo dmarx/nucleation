@@ -31,7 +31,7 @@ summary: >-
   saturates it, and the simplicial theory escapes it because its jointly
   predictable states lack the orbit.
 ---
-<!-- inactive-ok-file: THEORY-231 THEORY-010 CLAIM-009 CLAIM-037 THEORY-315 — Proposed; the theories and claims this reading bears on or files, open -->
+<!-- inactive-ok-file: THEORY-231 THEORY-010 CLAIM-009 CLAIM-037 — Proposed; the theories and claims this reading bears on or files, open -->
 <!-- inactive-ok-file: NOTE-737 — Skimmed; the partial reading of LIT-945, cited for what it says of prepare-measure scenarios -->
 
 # NOTE-825: Catani et al. — What is nonclassical about uncertainty relations?

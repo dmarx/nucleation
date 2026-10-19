@@ -49,7 +49,6 @@ summary: >-
   and [THEORY-016](../theory.d/THEORY-016.md) answer it in part; the body gives each one's limit.
 ---
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: THEORY-315 — Proposed; the account filed from LIT-980, cited as a test with no distinguishability condition, not as settled -->
 
 # QUESTION-067: Which noncontextuality assumption would a test of pragmatic judgements refute: the sheaf or Kochen–Specker kind over measurement contexts, or Spekkens's generalized kind, which also requires that renderings no probe can tell apart get the same representation?
 
