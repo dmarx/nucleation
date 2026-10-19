@@ -1,12 +1,12 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 82
+version: 83
 updated: '2026-10-19'
 record_revision: 9ca3a0dc62777269b1e48624060125cc47848167
 procedure: record/decisions.d/ADR-047.md
 handoff:
-  batch: batches 011-015 (parallel)
+  batch: batches 011-017 (parallel)
   state: in_progress
   in_review: null
   next_step: 'Resumed 2026-10-19 after every audit PR through #188 merged. Five batches run in parallel,
@@ -14,11 +14,13 @@ handoff:
     (claude/promotion-audit-batch-011: THEORY-022, -183, -191, -192, -193), batch 012 (-012: THEORY-196,
     -234, -239, -254, -257), batch 013 (-013: THEORY-276, -288, -299, -301, -304), batch 014 (-014: THEORY-312,
     CLAIM-123, CLAIM-326, CLAIM-212, CLAIM-228), batch 015 (-015, wave 4: CLAIM-269, -193, -164, -148,
-    -107, the follow-ups of #183, #185, #187). triage-004 (claude/promotion-audit-triage-004) scores wave
-    3 into triage-004.yaml. This ledger branch integrates each batch branch as it lands: copy its decision
-    and batch files, mark the candidates decided, fold notes_for_ledger into NOTES.md, add triage-004
-    as wave-3 candidates, recompute wave counts, run check.py. If a batch branch is missing its batch
-    file, that batch did not finish: rerun it from its first candidate without a decision file.'
+    -107, the follow-ups of #183, #185, #187). Triage-004 is integrated (v82). Wave 3 started: batch 016
+    (-016: THEORY-111, -079, -170, -369, -481, triage-004''s top five) and batch 017 (-017: THEORY-078,
+    -199, -309, -470, -625, its control); compare their yields before trusting the ranking. This ledger
+    branch integrates each batch branch as it lands: copy its decision and batch files, mark the candidates
+    decided, fold notes_for_ledger into NOTES.md, add triage-004 as wave-3 candidates, recompute wave
+    counts, run check.py. If a batch branch is missing its batch file, that batch did not finish: rerun
+    it from its first candidate without a decision file.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -1578,4 +1580,7 @@ history:
   date: '2026-10-19'
   note: Triage-004 (triage_wave3.py) scored 447 eligible wave-3 THEORYs; the top 20 and a control of 5
     are queued (25 added). Scores saturate at the top (18 at 7); review the control alongside.
+- version: 83
+  date: '2026-10-19'
+  note: Batches 016 (wave 3, ranked) and 017 (wave 3, control) started in parallel.
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
