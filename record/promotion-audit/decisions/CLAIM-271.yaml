@@ -1,0 +1,43 @@
+# record/promotion-audit/decisions/CLAIM-271.yaml
+id: CLAIM-271
+batch: batch-021
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+warrant: interpretive
+disposition: needs-correction
+confidence: high
+scope:
+  accepted: >-
+    Re-grounding. Step 2 uses List and Pettit for an existence statement: a
+    group judging premises and conclusion "cannot always form each
+    judgement from its members' judgements on that proposition alone.
+    Majorities on each premise can imply a conclusion that a majority
+    rejects." One profile on one agenda settles that. THEORY-725's
+    Proposition 1 (Active) is such a profile on the court agenda, and its
+    premise-based procedure shows that the route through reasons is
+    available. The defeat condition's "the discursive dilemma THEORY-127
+    proves possible" and the line "THEORY-127 shows it is possible" in
+    "What it does not say" refer to the same possibility. None of this
+    needs the general impossibility for proposition-wise rules
+    (Propositions 2–3), which THEORY-127 keeps, Proposed. The ground moves
+    to THEORY-725.
+  excluded: >-
+    Promotion. The title's "the collective's own reasons" comes from step
+    3, which rests on THEORY-131 (French) and THEORY-139 (Pettit), both
+    Proposed, and the claim is interpretive. The note of 2026-10-18
+    reports that A21 cited THEORY-127. That is a record of what A21 said,
+    so it stays.
+evidence:
+  - "CLAIM-271 step 2: 'cannot always form each judgement from its members' judgements on that proposition alone. Majorities on each premise can imply a conclusion that a majority rejects.'"
+  - "THEORY-725 (Active): Proposition 1's three-member profile on {P, Q, R, R iff (P and Q)}; Proposition 4's premise-based procedure."
+  - "grounds: THEORY-131 and THEORY-139, both Proposed; rests_on CLAIM-030 (Active)."
+blockers:
+  - "THEORY-131 and THEORY-139 are Proposed, and step 3 needs them."
+  - "Interpretive warrant: promotion would be the owner's call."
+unlocks: []
+next_action: >-
+  Correction PR. Change the ground from THEORY-127 to THEORY-725. Make
+  step 2, the defeat condition and "What it does not say" cite THEORY-725,
+  and name THEORY-127 once as the general impossibility the argument does
+  not need. Add a dated note and move to version 2. Status unchanged.

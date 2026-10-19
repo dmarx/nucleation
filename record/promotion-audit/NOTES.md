@@ -647,3 +647,18 @@ history note. THEORY-277 is requeued on this basis.
   cannot move before CLAIM-151, which cannot move before CLAIM-004 and
   CLAIM-061. Sampling such claims independently spends reviews on entries
   that are blocked by construction.
+
+## 2026-10-19 — batch 021 (wave 4, THEORY-127 dependents)
+
+- Wave 4 counts: 3 reviewed (CLAIM-192, -271, -030), 0 promotion paths.
+  CLAIM-206 and CLAIM-126 are wave-1 candidates: 2 reviewed, 0 promotion
+  paths.
+- All five decisions are new; none supersedes an earlier review. Remove
+  CLAIM-192, CLAIM-271 and CLAIM-030 from the requeue list.
+- Pattern 1, a demonstrated warrant left over a split-off formal core, has
+  now appeared in five ADR-040 parents: CLAIM-081, -193, -056, -269 and
+  -126. Check every ADR-040 parent still marked demonstrated, in one
+  sweep.
+- Pattern: dependents of a split parent usually cite its general result
+  only for an existence statement. 'Cannot always' or 'can fail to' is
+  settled by one instance, so the split's core is enough.

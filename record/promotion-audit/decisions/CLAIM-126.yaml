@@ -1,0 +1,48 @@
+# record/promotion-audit/decisions/CLAIM-126.yaml
+id: CLAIM-126
+batch: batch-021
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+warrant: demonstrated
+disposition: needs-correction
+confidence: medium
+scope:
+  accepted: >-
+    This is the batch-003 and batch-004 pattern again: an ADR-040 parent
+    keeps a demonstrated warrant after its formal content was filed
+    separately. CLAIM-268 (Active, demonstrated, batch 003) holds the whole
+    stitching result:
+    - when the reconstruction form succeeds, the target is a deterministic
+      garbling of r about the label, on any outcome space;
+    - the task-loss penalty is a difference of upper bounds, so it orders
+      neither minimum;
+    - the penalty is not invariant under invertible reparametrisation.
+    CLAIM-268's decision file notes that the garbling step "needs neither
+    THEORY-176 nor a finite-outcome Blackwell theorem". By CLAIM-126's own
+    note of 2026-10-13, what it adds is a reading: stitching as a test of
+    whether a transport preserves decision-relevant information. It takes
+    that reading from CLAIM-050 (Proposed, interpretive). A reading is not
+    a derivation, so the warrant is interpretive. Everything a derivation
+    could give now rests on CLAIM-268, and THEORY-176 and THEORY-156 no
+    longer carry the formal part.
+  excluded: >-
+    Promotion. With the warrant corrected, the claim still rests on
+    CLAIM-050, which is Proposed. CLAIM-230, an Active conceded counter,
+    objects to it: Blackwell comparison is relative to whoever fixes the
+    state. For stitching the state is the label, and CLAIM-126 already
+    says so ("for decisions about the label used to define the
+    experiment"). The title is not changed. Its framing is the
+    interpretive part, and narrowing it would duplicate CLAIM-268.
+evidence:
+  - "CLAIM-126 note of 2026-10-13: 'This claim now rests on [CLAIM-268] for the general content, and keeps CLAIM-050, for reading stitching as a test of decision-relevant transport.'"
+  - "decisions/CLAIM-268.yaml (promote, batch 003): the reconstruction step 'holds on any outcome space; it needs neither THEORY-176 nor a finite-outcome Blackwell theorem'."
+  - "rests_on: CLAIM-050 (Proposed, interpretive), CLAIM-268 (Active); objected_by CLAIM-230 (Active, counter)."
+blockers:
+  - "CLAIM-050 is Proposed."
+unlocks: []
+next_action: >-
+  Correction PR. Change the warrant from demonstrated to interpretive. Add
+  a dated note saying the formal content is CLAIM-268's, and that what
+  this claim adds is CLAIM-050's reading. Move to version 2. Status
+  unchanged.

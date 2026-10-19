@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 95
+version: 96
 updated: '2026-10-19'
 record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 procedure: record/decisions.d/ADR-047.md
@@ -30,7 +30,7 @@ handoff:
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
-  reviewed: 21
+  reviewed: 23
   promotion_paths: 12
 - wave: 2
   class: THEORYs with verified mathematical cores
@@ -42,7 +42,7 @@ waves:
   promotion_paths: 4
 - wave: 4
   class: Dependency unlocks
-  reviewed: 7
+  reviewed: 10
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
@@ -430,7 +430,10 @@ candidates:
   proposed_deps:
   - CLAIM-135
   - CLAIM-046
-  state: pending
+  state: decided
+  disposition: retain-proposed
+  batch: batch-021
+  decision: decisions/CLAIM-206.yaml
 - code: CLAIM-126
   wave: 1
   score: 11
@@ -446,7 +449,12 @@ candidates:
   - THEORY-176
   - THEORY-156
   - THEORY-175
-  state: pending
+  state: decided
+  disposition: needs-correction
+  batch: batch-021
+  decision: decisions/CLAIM-126.yaml
+  carried_out_in:
+  - '#203'
 - code: THEORY-155
   wave: 2
   score: null
@@ -1988,6 +1996,33 @@ candidates:
   disposition: retain-proposed
   batch: batch-022
   decision: decisions/THEORY-058.yaml
+- code: CLAIM-192
+  wave: 4
+  triage: batch-021
+  state: decided
+  disposition: needs-correction
+  batch: batch-021
+  decision: decisions/CLAIM-192.yaml
+  carried_out_in:
+  - '#203'
+- code: CLAIM-271
+  wave: 4
+  triage: batch-021
+  state: decided
+  disposition: needs-correction
+  batch: batch-021
+  decision: decisions/CLAIM-271.yaml
+  carried_out_in:
+  - '#203'
+- code: CLAIM-030
+  wave: 4
+  triage: batch-021
+  state: decided
+  disposition: needs-correction
+  batch: batch-021
+  decision: decisions/CLAIM-030.yaml
+  carried_out_in:
+  - '#203'
 history:
 - version: 1
   date: '2026-10-19'
@@ -2346,4 +2381,8 @@ history:
   date: '2026-10-19'
   note: 'Batch 022 integrated: 1 of 5 found a promotion path (CLAIM-328, interpretive, so the owner''s
     call); 1 correction (CLAIM-052''s warrant); carried_out_in #204'
+- version: 96
+  date: '2026-10-19'
+  note: 'Batch 021 integrated: 0 of 5 found a promotion path; four corrections (three re-groundings on
+    THEORY-725, one warrant); carried_out_in #203'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
