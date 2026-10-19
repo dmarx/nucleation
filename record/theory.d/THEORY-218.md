@@ -42,7 +42,7 @@ supports:
 answers:
 - QUESTION-084
 ---
-<!-- inactive-ok-file: CLAIM-272 CLAIM-279 CLAIM-280 THEORY-224 THEORY-216 — Proposed; open claims and sister readings, cited as what this bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-272 CLAIM-279 CLAIM-280 THEORY-224 — Proposed; open claims and sister readings, cited as what this bears on, nothing here rests on their being settled -->
 
 # THEORY-218: The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated
 

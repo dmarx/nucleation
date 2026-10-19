@@ -35,7 +35,7 @@ summary: >-
 supports:
 - CLAIM-273
 ---
-<!-- inactive-ok-file: THEORY-216 THEORY-218 CLAIM-279 — Proposed; sister readings of r/place studies and an open claim, cited for context, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-218 CLAIM-279 — Proposed; sister readings of r/place studies and an open claim, cited for context, nothing here rests on them -->
 
 # THEORY-224: Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict
 

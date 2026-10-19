@@ -1,24 +1,23 @@
 ---
 number: 216
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7w5tq
-promote_when: >-
-  Promoted by a measurement on full placement logs, in r/place or a
-  comparable contested canvas, that tracks recovered or recorded coalitions
-  through time and shows (a) that artworks lasting to the end received
-  sustained overwrites and repairs throughout, as a population and not in
-  hand-picked lifecycles, and (b) that coalition survival stays
-  near-unpredictable early even when interaction features (who attacks
-  whom, shared members, alliance ties) are added to state features.
-  Weakened if lasting artworks turn out mostly unattacked, or if richer
-  features make early outcomes predictable, which would place the
-  unpredictability in the feature set and not in the dynamics. What cannot
-  settle it: more illustrated lifecycles, or better final-canvas
-  segmentation scores, which validate the recovery method and not the
-  dynamics.
-title: 'On a contested shared canvas, lasting artworks are those whose coalitions keep working under continual overwriting, participants consolidate into large coalitions as the event proceeds, and which coalitions survive is barely predictable from their size, area, start time and colour complexity until late'
-version: 1
+title: 'On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-216 (batch 031, ADR-047 v3). The one study was read in full,
+    and the title now claims no more than it measured. Its scope is the
+    2017 log and the recovered coalitions. "Barely predictable" stays
+    relative to the four features tried. "Lasting artworks are those whose
+    coalitions keep working under continual overwriting" becomes an
+    existence clause, since it rests on ten illustrated lifecycles. The
+    promote_when, a population measure of repair and a test with
+    interaction features, moves unchanged to QUESTION-tmp4zyze.
 tags:
 - social-science
 - complex-systems
@@ -29,7 +28,7 @@ summary: >-
   Wu & Silva (2024; v3 2026), [LIT-1032](../literature.d/LIT-1032.md), read in [NOTE-724](../notes.d/NOTE-724.md). On the
   2017 r/place log, coalitions are recovered, failed ones included, from
   co-placement and image segmentation. Under 7% of updates survive to the
-  end. Coalition sizes shift toward large over the event. A decision tree on
+  end. Recovered coalition sizes shift toward large over the event. A decision tree on
   four state features predicts survival at F1 0.09 in the first 48 hours and
   0.67 later. Illustrated successful coalitions keep working under
   overwriting throughout, and some failures look like successes until a late
@@ -42,7 +41,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-280 CLAIM-272 THEORY-214 — Proposed; open claims and a reading of a sister study, cited as what this bears on, nothing here rests on their being settled -->
 
-# THEORY-216: On a contested shared canvas, lasting artworks are those whose coalitions keep working under continual overwriting, participants consolidate into large coalitions as the event proceeds, and which coalitions survive is barely predictable from their size, area, start time and colour complexity until late
+# THEORY-216: On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting
 
 ## Source
 
@@ -112,3 +111,7 @@ recovered coalitions.
   from coarse coalition features. The two do not conflict. One predicts an
   imminent event from fine dynamics, the other a final outcome from four
   static features.
+- **[QUESTION-tmp4zyze](../questions.d/QUESTION-tmp4zyze.md).** What this account leaves open: whether lasting
+  artworks as a population were sustained by repair, and whether
+  interaction features restore early predictability. It was this
+  account's promotion condition until 2026-10-19.

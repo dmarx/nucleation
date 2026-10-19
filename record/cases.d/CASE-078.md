@@ -22,7 +22,7 @@ summary: >-
   such as the 2022 moderator wipes and large raids. It is the test named in
   [CLAIM-274](../claims.d/CLAIM-274.md)'s defeater.
 ---
-<!-- inactive-ok-file: CLAIM-274 CLAIM-273 QUESTION-085 CLAIM-280 THEORY-214 THEORY-216 THEORY-218 THEORY-224 QUESTION-084 — Proposed or Open; claims, questions and readings the study would test, cited as open -->
+<!-- inactive-ok-file: CLAIM-274 CLAIM-273 QUESTION-085 CLAIM-280 THEORY-214 THEORY-218 THEORY-224 QUESTION-084 — Proposed or Open; claims, questions and readings the study would test, cited as open -->
 
 # CASE-078: Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools
 
