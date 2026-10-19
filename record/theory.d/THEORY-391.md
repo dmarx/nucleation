@@ -1,17 +1,21 @@
 ---
 number: 391
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp644mk
-promote_when: >-
-  A proof that, for some non-Gaussian ensemble in the paper's class, such as
-  random signs, the ℓ₁ recovery transition converges to the Gaussian
-  ρ(δ; C) as N → ∞; or simulations at problem sizes an order of magnitude
-  beyond N = 1600 in which the gap to the Gaussian curve keeps shrinking as
-  N^(−1/2) for an ensemble not used to choose that exponent. More
-  simulations at the same sizes do not settle it.
-title: 'Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that face counts of randomly projected polytopes fix for Gaussian matrices; eight non-Gaussian ensembles were observed to approach the same curve, with gaps shrinking as N^(−1/2), while at finite N the location depends on the ensemble'
-version: 1
+title: 'Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors'' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-391 (batch 025, ADR-047 v3). NOTE-933 read the study in full, and
+    every number the title rests on is in its text and tables. The title now
+    attributes the Gaussian transition to the earlier theorems the paper
+    restates, which the record does not hold. It also says the N^(−1/2)
+    exponent was fitted on the same data. The promote_when, a proof or larger
+    simulations, moves unchanged to QUESTION-tmpnscuv.
 tags:
 - mathematics
 - mathematical-statistics
@@ -26,12 +30,12 @@ summary: >-
   papers, restated here. The universality is an observation from 2,948,000
   optimizations at N = 200, 400 and 1600: strict finite-N universality is
   rejected, and agreement as N → ∞ is not rejected. Sparse and Hadamard
-  matrices sit about one transition width low at small N. Proposed because
-  the asymptotic claim rests on three problem sizes and an exponent chosen
-  on the same data.
+  matrices sit about one transition width low at small N. The title states
+  only what was measured. Whether the agreement is a limit theorem is
+  QUESTION-tmpnscuv.
 ---
 
-# THEORY-391: Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that face counts of randomly projected polytopes fix for Gaussian matrices; eight non-Gaussian ensembles were observed to approach the same curve, with gaps shrinking as N^(−1/2), while at finite N the location depends on the ensemble
+# THEORY-391: Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble
 
 ## Source
 

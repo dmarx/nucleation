@@ -53,7 +53,6 @@ supports:
 - CLAIM-214
 - CLAIM-242
 ---
-<!-- inactive-ok-file: THEORY-472 — Proposed; the precursor this account extends, cited as open -->
 
 # THEORY-172: Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said
 

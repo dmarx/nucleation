@@ -1,21 +1,23 @@
 ---
 number: 472
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp99ydy
-promote_when: >-
-  A word-learning experiment whose displays make an informative-speaker
-  learner and a plain size-principle learner predict different bets, for
-  example vague intended meanings, non-uniform literal meanings, or a
-  speaker the learner knows to be uninformative, with both models and a
-  frequency baseline fitted on part of the data and tested on the rest.
-  It is promoted if the informative-speaker model wins on held-out
-  displays. It is refuted if the plain size-principle learner does as
-  well where they differ. Further correlations of condition means with a
-  parameter-free model, in displays where the two coincide, cannot settle
-  it.
-title: "A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly"
-version: 1
+title: 'A speaker who chooses words to minimise the information lost about a single intended referent, with words'' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word''s meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers'' word use followed it only weakly (r = .19)'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-472 (batch 025, ADR-047 v2 for the derivation, v3 for the
+    experiments). The derivation is re-derived in the decision file. NOTE-627
+    read the paper in full, and the title's numbers are in its text. The
+    title now names the uniform-literal-meaning assumption and the two
+    studies. The promote_when asked for an experiment that discriminates
+    between an informative-speaker learner and a plain size-principle
+    learner, which tests a claim the body disclaims. It moves unchanged to
+    QUESTION-tmp2pp7t.
 tags:
 - pragmatics
 - cognition
@@ -39,7 +41,7 @@ extended_by:
 <!-- inactive-ok-file: LIT-1041 — Unavailable; Grice 1975, read only at pp. 45–47, named as the informal ancestor and not leaned on -->
 <!-- inactive-ok-file: THEORY-172 — Proposed; the rational-speech-act account this one is set beside, not leaned on -->
 
-# THEORY-472: A speaker who chooses words to minimise the information lost about a single intended referent picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; word learners who know the referent bet on a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions follow it only weakly
+# THEORY-472: A speaker who chooses words to minimise the information lost about a single intended referent, with words' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word's meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers' word use followed it only weakly (r = .19)
 
 ## Source
 
