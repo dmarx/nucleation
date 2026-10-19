@@ -628,3 +628,22 @@ history note. THEORY-277 is requeued on this basis.
   ledger) and were fixed by reordering. Also, a CLAIM's `grounds` takes
   only THEORY, CASE or LIT codes; another claim used as a worked example
   is cited in the body, not listed (#196).
+
+## 2026-10-19 — batch 022 (wave 5 opens, fixed-rule sample)
+
+- Wave 5's population (sample_wave5.py): 219 codes, 179 Proposed
+  interpretive CLAIMs and 40 multi-source non-mathematics THEORYs. The
+  THEORY half of the definition (at least three distinct LIT sources) is a
+  proxy for "synthesis" and was not validated; THEORY-058 fit it well.
+- An interpretive warrant over an observational defeat condition is
+  pattern 1's mirror (CLAIM-052). The fix is a warrant correction to
+  empirical, not a split, when the claim is a single generalization that
+  is simply untested. ADR-043's "empirical" covers untested hypotheses
+  whose support would be observational.
+- An existence title with a documented case is the cheapest promotion path
+  in every wave so far (THEORY-171's in batch 008, CLAIM-328 here). For
+  interpretive claims it still goes to the owner.
+- Claims in one argument line should be decided root first. CLAIM-217
+  cannot move before CLAIM-151, which cannot move before CLAIM-004 and
+  CLAIM-061. Sampling such claims independently spends reviews on entries
+  that are blocked by construction.

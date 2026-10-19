@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 94
+version: 95
 updated: '2026-10-19'
 record_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
 procedure: record/decisions.d/ADR-047.md
@@ -46,8 +46,8 @@ waves:
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
-  reviewed: 0
-  promotion_paths: 0
+  reviewed: 5
+  promotion_paths: 1
 requeue: []
 candidates:
 - code: CLAIM-264
@@ -1951,6 +1951,43 @@ candidates:
   state: pending
   route: source
   control: true
+- code: CLAIM-052
+  wave: 5
+  triage: batch-022
+  state: decided
+  disposition: needs-correction
+  batch: batch-022
+  decision: decisions/CLAIM-052.yaml
+  carried_out_in:
+  - '#204'
+- code: CLAIM-151
+  wave: 5
+  triage: batch-022
+  state: decided
+  disposition: retain-proposed
+  batch: batch-022
+  decision: decisions/CLAIM-151.yaml
+- code: CLAIM-217
+  wave: 5
+  triage: batch-022
+  state: decided
+  disposition: retain-proposed
+  batch: batch-022
+  decision: decisions/CLAIM-217.yaml
+- code: CLAIM-328
+  wave: 5
+  triage: batch-022
+  state: decided
+  disposition: promote
+  batch: batch-022
+  decision: decisions/CLAIM-328.yaml
+- code: THEORY-058
+  wave: 5
+  triage: batch-022
+  state: decided
+  disposition: retain-proposed
+  batch: batch-022
+  decision: decisions/THEORY-058.yaml
 history:
 - version: 1
   date: '2026-10-19'
@@ -2305,4 +2342,8 @@ history:
     formal flag. Queued the top 15 of the re-derivation route, the top 15 of the source route and a control
     of 5 (35 added). Backtest on batches 016-017: the route separated yielders from non-yielders 10 of
     10, the score did not; the flag rule was chosen with those 10 in view, so the separation is fitted.'
+- version: 95
+  date: '2026-10-19'
+  note: 'Batch 022 integrated: 1 of 5 found a promotion path (CLAIM-328, interpretive, so the owner''s
+    call); 1 correction (CLAIM-052''s warrant); carried_out_in #204'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

@@ -1,0 +1,39 @@
+# record/promotion-audit/decisions/THEORY-058.yaml
+id: THEORY-058
+batch: batch-022
+reviewed: '2026-10-19'
+reviewed_revision: 8999ea617b6099200c3e87e6ae4fe529e4b1acbd
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+scope:
+  accepted: >-
+    Nothing is promoted. The three sources were read in full (NOTE-435,
+    NOTE-428, NOTE-432), and the convergence the summary describes is
+    reported accurately.
+  excluded: >-
+    The whole title. It is a synthesis across three traditions about mental
+    disorders in general, and its promote_when asks for individual time
+    series showing critical slowing down or hysteresis, or an experiment
+    that cuts one maintaining link. None of the read sources measures a
+    loop in an individual patient. Borsboom's hysteresis rests on cited
+    simulations (NOTE-435 C5); Salkovskis et al.'s link-cutting evidence is
+    three cited trials co-authored by Salkovskis (NOTE-428 C5); Kendler's
+    loops are sketches. ADR-047 v3 does not apply, because the title
+    generalizes past any one study, and ADR-047 v2 does not apply, because
+    nothing here is a derivation.
+evidence:
+  - "NOTE-435, NOTE-428, NOTE-432: Read, in full."
+  - "The record's only critical-slowing or hysteresis measurements are outside psychopathology: THEORY-069 (HKB coordination) and LIT-1025 (an online game). The entry already says THEORY-069 is not evidence about disorders."
+blockers:
+  - "No individual time series of symptoms showing critical slowing down or hysteresis, read first-hand."
+  - "No experiment cutting a named maintaining link with exposure held constant, read first-hand, beyond the three cited trials."
+notes: >-
+  A clean wave-5 synthesis. The promote_when is precise and names what
+  would not settle it, so the review was short. Wave 5's synthesis
+  THEORYs may often be like this: well specified, and waiting on evidence
+  the record has not registered.
+unlocks: []
+next_action: >-
+  None. Requeue if an experience-sampling study of critical slowing down
+  before depressive onset or relapse is registered and read.
