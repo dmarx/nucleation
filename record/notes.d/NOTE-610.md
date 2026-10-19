@@ -31,7 +31,6 @@ summary: >-
   interaction category remains near ceiling for humans.
 ---
 
-<!-- inactive-ok-file: CLAIM-123 — Proposed; named as the manuscript claim this reading bears on -->
 <!-- inactive-ok-file: CLAIM-013 — Proposed; named as the manuscript claim this reading bears on -->
 
 # NOTE-610: T2I-CompBench++

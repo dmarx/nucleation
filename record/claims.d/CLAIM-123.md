@@ -1,10 +1,10 @@
 ---
 number: 123
-status: Proposed
+status: Active
 formerly:
 - CLAIM-tmpzkhdr
 title: 'In conditional generation, adding scores composes two conditions exactly when the ratio p(y₁,y₂|x)/(p(y₁|x)p(y₂|x)) does not vary with the noisy state x, which conditional independence of the conditions at that state is sufficient for but does not require'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -24,6 +24,16 @@ history:
     that satisfy it. The derivation survives, so the claim is corrected,
     not rejected. Title, defeat condition and the first section are
     revised; the warrant stays demonstrated and the status Proposed.
+- version: 4
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/CLAIM-123.yaml,
+    batch 014, ADR-047). The corrected claim was reviewed again as
+    demonstrated. The identity follows from Bayes in one line. In the
+    example of dependent conditions, the joint law is nonnegative, has the
+    stated marginals, and has a ratio that does not depend on x. No
+    objection is open. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-

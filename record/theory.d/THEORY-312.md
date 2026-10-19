@@ -1,21 +1,24 @@
 ---
 number: 312
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpijp65
-promote_when: >-
-  A second, independent derivation of Li et al.'s eq. 28 and Theorem B.1
-  that settles the sign of the Theorem B.1 remainder. A published erratum
-  or later statement would do, or a check by another reader of the record
-  against the appendix. An exact numerical check on a small finite
-  dataset would also do, computing the population quantities in closed
-  form rather than estimating them. It is refuted by a finite dataset and
-  bounded positive-definite critic for which the large-batch InfoNCE loss
-  falls below −HSIC(Z,Y). What cannot settle it: training curves or
-  linear-probe accuracies comparing InfoNCE with SSL-HSIC, which test the
-  methods, not the identity.
 title: 'The large-batch InfoNCE loss is the negative HSIC between representations and image identity plus a nonnegative log-mean-exp of the centred critic, so it bounds a kernel dependence loss from above'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted from Proposed to Active at the owner's direction, carrying out
+    the promotion audit's decision (record/promotion-audit/decisions/THEORY-312.yaml,
+    batch 014). The promote_when asked for a second, independent derivation
+    of eq. 28 and Theorem B.1 that settles the sign of the remainder. It is
+    met by a step-by-step re-derivation, written out below and in the
+    decision file, under the owner's rule of 2026-10-19 (ADR-047): a checked
+    re-derivation recorded in the decision file meets a promote_when that
+    asks for a proof the record does not hold. The sign is plus, as the
+    THEORY already said. The promote_when is removed. The claim is
+    unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -115,3 +118,30 @@ rederivation and the paper's eq. 8 agree on the plus sign.
 - **[THEORY-001](THEORY-001.md).** It holds that InfoNCE's population optimum on a finite
   augmentation space is the positive-pair density ratio. This account
   concerns the loss's value at every encoder, not its optimum.
+
+## Note of 2026-10-19: eq. 28 and Theorem B.1, re-derived
+
+Written for the promotion audit (batch 014). The full version is in
+record/promotion-audit/decisions/THEORY-312.yaml.
+
+- **Theorem A.1.** With l = N·1[y = y′] + l₀, the constant l₀ adds
+  nothing to HSIC. P(Y = Y′) = 1/N, and given Y = Y′, (Z, Z′) is a
+  positive pair. So the three terms of HSIC are (1/N)E_pos k,
+  (1/N)E_Z E_Z′ k and (1/N)E_Z E_Z′ k, and HSIC(Z,Y) = E_pos k − E_Z E_Z′ k.
+- **Eq. 28.** log E_Z′ exp k = μ₁(Z) + log E_Z′ exp(k − μ₁(Z)). Taking E_Z
+  and subtracting E_pos k gives the decomposition exactly.
+- **Lemma B.0.1.** For γ ∈ (0, 1/4], 1 + x + γx² has roots
+  x_min = −(1 + √(1 − 4γ))/(2γ) and r = −2/(1 + √(1 − 4γ)) ∈ [−2, −1].
+  - On [x_min, r] the quadratic is ≤ 0 < eˣ.
+  - On [r, 0] it is at most (1 + x/2)² ≤ eˣ, since 0 ≤ 1 + x/2 ≤ e^(x/2).
+  - On [0, ∞), eˣ ≥ 1 + x + x²/2.
+  So eˣ ≥ 1 + x + γx² on [x_min, ∞), which contains the range of k − μ₁
+  when x_min ≤ −2k_max. With k_max = 10, x_min = −20 gives γ = 0.0475.
+- **Theorem B.1.**
+  - Averaging the lemma gives E_Z′ exp(k − μ₁) ≥ 1 + γV.
+  - By log(1 + x) ≥ x/(1 + x) = x − x²/(1 + x), E_Z log(1 + γV) ≥
+    γE_Z V − E_Z[(γV)²/(1 + γV)].
+  - E_Z V − HSIC(Z,Z) = Var μ₁(Z) ≥ 0.
+  - So −HSIC(Z,Y) + γHSIC(Z,Z) ≤ L_InfoNCE + E_Z[(γV)²/(1 + γV)].
+  The remainder enters with a plus sign. The printed minus would be a
+  stronger claim, and this derivation does not give it.

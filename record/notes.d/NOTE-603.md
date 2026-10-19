@@ -27,7 +27,6 @@ summary: >-
   not what is shown to be sampled.
 ---
 
-<!-- inactive-ok-file: CLAIM-123 — Proposed; named as the manuscript claim this reading bears on -->
 
 # NOTE-603: Classifier-Free Diffusion Guidance
 
