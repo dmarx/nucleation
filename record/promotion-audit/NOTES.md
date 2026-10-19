@@ -317,3 +317,12 @@ its notes.
 - *"Cited to" inside a THEORY's own list of results.* THEORY-323's
   white-noise inequality is cited in the source to an unread paper. Grep
   the body for "cited" before promoting a list of results whole.
+
+## 2026-10-19 — the owner's rule on re-derivations (after batch 007)
+
+Asked whether a record-own re-derivation meets a promote_when that asks
+for a proof the record does not hold, the owner chose to promote the
+THEORY (ADR-047 v2). The alternatives were filing the proof as a CLAIM
+only, or holding the entry. In practice, write the derivation out step by
+step in the decision file, as batches 006 and 007 did, and cite it in the
+history note. THEORY-277 is requeued on this basis.

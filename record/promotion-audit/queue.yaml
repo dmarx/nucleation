@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 54
+version: 55
 updated: '2026-10-19'
 record_revision: d3f55159e57ff91f3a959796d61328e5ed698b01
 procedure: record/decisions.d/ADR-047.md
@@ -37,7 +37,8 @@ handoff:
   - Recompute the wave counts on every queue save, and run check.py before every commit.
   - Read THEORY entries and their NOTEs from origin/main (git show origin/main:<path>). The ledger branch's
     tree is based on an older main.
-  - THEORY-277 awaits the owner's call on the THEORY-004 standard; do not re-review it until then.
+  - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
+    it out step by step.'
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
@@ -66,6 +67,11 @@ requeue:
 - code: CLAIM-326
   when: before its review
   why: 'PR #165 adds a second ground (THEORY-tmp2m4ke); review the merged version'
+- code: THEORY-277
+  when: next wave-2 batch
+  why: retained Proposed in batch 006 because its promote_when asks for an independent proof. Under ADR-047
+    v2 (owner, 2026-10-19), a step-by-step re-derivation in the decision file meets it. Re-review with
+    the re-derivation.
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -908,4 +914,10 @@ history:
     CLAIM-tmp67453. Departure from the decision: THEORY-236''s decision was split, but #179 promotes THEORY-236
     itself and adds only the column-space CLAIM. The disposition stays split as decided; the PR''s outcome
     is recorded here.'
+- version: 55
+  date: '2026-10-19'
+  note: 'Owner''s rule on batch 007''s question: a checked step-by-step re-derivation in the decision
+    file meets a promote_when that asks for a proof the record does not hold, and the THEORY is promoted
+    (ADR-047 v2). Batch 007''s dispositions stand. THEORY-277 is requeued for a re-derivation. PRs for
+    batch 007 are opening (P6: THEORY-009+233; P7: THEORY-297+323).'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
