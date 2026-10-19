@@ -31,7 +31,6 @@ summary: >-
   the authors' own statement. The linear objects are per-relation
   affine maps between hidden states, not attribute directions.
 ---
-<!-- inactive-ok-file: THEORY-185 — Proposed; the account this one is set beside -->
 
 # THEORY-269: In OLMo-1B, OLMo-7B and GPT-J, whether a factual relation is computed by an affine map from subject to object representation tracks how often its subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, whenever in training that count is reached
 

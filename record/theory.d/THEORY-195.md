@@ -40,7 +40,7 @@ answers:
 supports:
 - CLAIM-360
 ---
-<!-- inactive-ok-file: THEORY-186 THEORY-185 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
+<!-- inactive-ok-file: THEORY-186 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
 
 # THEORY-195: On the Random Hierarchy Model, in the experiments reported (s = 2, L ≤ 4, small v), deep CNNs matched to the tree and trained in a feature-learning regime reach a tenth of chance error from about n_c m^L examples, polynomial in the input dimension, at the training-set size at which their hidden layers become invariant to swapping synonymous tuples; two-layer networks and the same CNNs as fixed kernels need a number proportional to the whole input space, exponential in the input dimension, and deep CNNs stay near chance when every tuple is made equally likely in every class
 

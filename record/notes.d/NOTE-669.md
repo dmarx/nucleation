@@ -32,7 +32,7 @@ summary: >-
   75–84% and improves link prediction and node classification, most on
   the least tree-like graphs.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-185 CLAIM-119 LIT-267 — Open or Proposed; cited as the question this reading was filed for and the accounts it joins -->
+<!-- inactive-ok-file: QUESTION-025 CLAIM-119 LIT-267 — Open or Proposed; cited as the question this reading was filed for and the accounts it joins -->
 
 # NOTE-669: Hyperbolic Representation Learning: Revisiting and Advancing
 

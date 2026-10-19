@@ -33,7 +33,7 @@ summary: >-
   where the loss for a given context length levels off. The route from
   correlations to learned hidden variables is argued, not proved.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-182 THEORY-183 THEORY-185 THEORY-186 THEORY-201 CLAIM-046 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading bears on or produced -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-182 THEORY-183 THEORY-186 THEORY-201 CLAIM-046 CLAIM-119 LIT-267 — Proposed or open; cited as what this reading bears on or produced -->
 
 # NOTE-687: How the structure of language is acquired
 
