@@ -1,5 +1,8 @@
 ---
+number: 171
 status: Open
+formerly:
+- QUESTION-tmp06usk
 title: "Do volume-maximizing joint-embedding objectives prefer equal-sized clusters as they are actually trained, and does the preference cost semantic transfer on naturally long-tailed data?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   classes per batch, not a natural long tail.
 ---
 
-# QUESTION-tmp06usk: Do volume-maximizing joint-embedding objectives prefer equal-sized clusters as they are actually trained, and does the preference cost semantic transfer on naturally long-tailed data?
+# QUESTION-171: Do volume-maximizing joint-embedding objectives prefer equal-sized clusters as they are actually trained, and does the preference cost semantic transfer on naturally long-tailed data?
 
 ## Why it is a question
 

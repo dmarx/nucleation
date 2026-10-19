@@ -16,7 +16,7 @@ history:
     condition is stated as measured in this network, because as a general
     law of synchronous Boolean networks it fails. A dated note below gives
     the counterexample. The promote_when, a transient perturbation in
-    cells with slow return excluded, moves unchanged to QUESTION-tmpq0kil.
+    cells with slow return excluded, moves unchanged to QUESTION-172.
 tags:
 - complex-systems
 - network-science
@@ -34,7 +34,7 @@ summary: >-
   without epigenetic marks, in the model. The evidence is a model
   ensemble, read in full in NOTE-655, and the title claims no more. No
   transient perturbation has been shown to have a lasting effect in
-  cells; that experiment is QUESTION-tmpq0kil.
+  cells; that experiment is QUESTION-172.
 supports:
 - CLAIM-184
 ---
@@ -105,7 +105,7 @@ direction of change well and the irreversibility prediction only weakly
 ## Connections
 
 - **[THEORY-136](THEORY-136.md)** gives the evidential standard that a claim about cells
-  must meet, and [QUESTION-tmpq0kil](../questions.d/QUESTION-tmpq0kil.md) is written to it. Its remark that positive
+  must meet, and [QUESTION-172](../questions.d/QUESTION-172.md) is written to it. Its remark that positive
   feedback must be strong to make alternative states matches the paper's
   continuous model: self-activation and switch-like response favour
   irreversibility.

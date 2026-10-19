@@ -17,7 +17,7 @@ history:
     for the methods and batches tested. The class-wide claim is dropped,
     because VICReg's prior rests on a reduction of a simplified loss and
     SimCLR's on a cited equivalence. The promote_when moves unchanged to
-    QUESTION-tmp06usk.
+    QUESTION-171.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -33,7 +33,7 @@ summary: >-
   SimCLR on a cited equivalence, so the title claims the prior for MSN
   and SwAV only. The effect is shown with batches of two to eight
   ImageNet classes, one run per cell, not with natural long tails; the
-  open half is QUESTION-tmp06usk.
+  open half is QUESTION-171.
 ---
 <!-- inactive-ok-file: THEORY-305 THEORY-228 — Proposed; neighbouring accounts of what self-supervised objectives commit a representation to, open -->
 

@@ -1,5 +1,8 @@
 ---
+number: 172
 status: Open
+formerly:
+- QUESTION-tmpq0kil
 title: "Does a transient change to one regulator, released with the environment held fixed, leave a bacterium's other genes in a changed expression state for many generations once slow return is excluded?"
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   [THEORY-178](../theory.d/THEORY-178.md), reads it as evidence about what a lasting state needs.
 ---
 
-# QUESTION-tmpq0kil: Does a transient change to one regulator, released with the environment held fixed, leave a bacterium's other genes in a changed expression state for many generations once slow return is excluded?
+# QUESTION-172: Does a transient change to one regulator, released with the environment held fixed, leave a bacterium's other genes in a changed expression state for many generations once slow return is excluded?
 
 ## Why it is a question
 

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**509 documents cited without acknowledgement.** Not listed: 9946 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**509 documents cited without acknowledgement.** Not listed: 9938 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -5086,6 +5086,14 @@ Drift is retrieval failure outside a critical distance: a restatement close enou
 
 - [`record/questions.d/QUESTION-064.md:55`](../../record/questions.d/QUESTION-064.md)
 
+### [CLAIM-184](../../record/claims.d/CLAIM-184.md) — Proposed
+
+Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
+
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-172.md:20`](../../record/questions.d/QUESTION-172.md)
+
 ### [CLAIM-190](../../record/claims.d/CLAIM-190.md) — Proposed
 
 The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply
@@ -5773,14 +5781,6 @@ Cosine similarities to matched anchor points are invariant exactly to the maps t
 1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-950.md:103`](../../record/literature.d/LIT-950.md)
-
-### [THEORY-178](../../record/theory.d/THEORY-178.md) — Proposed
-
-Transcriptional regulation alone can make a bacterium's gene-expression state depend on its history: a transient change to one regulator can leave its regulatory network in a different self-maintaining state, but only through a gene that reaches a positive circuit
-
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-184.md:91`](../../record/claims.d/CLAIM-184.md)
 
 ### [THEORY-194](../../record/theory.d/THEORY-194.md) — Proposed
 
