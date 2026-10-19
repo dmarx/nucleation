@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**825 document(s) awaiting a decision.**
+**823 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 825.
+95 of the 823.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,16 +111,15 @@
 
 ## THEORYs
 
-497 of the 825.
+495 of the 823.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 52 | 12 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used |
 | 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 51 | 2 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
 | 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 40 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
-| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 85 | 28 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
+| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 85 | 27 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
 | 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 66 | 17 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
-| 2026-09-27 | Proposed | [THEORY-014](../../record/theory.d/THEORY-014.md) | 19 | 10 | In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical |
 | 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 11 | 5 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
 | 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 146 | 3 | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer |
 | 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 106 | 2 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
@@ -134,7 +133,6 @@
 | 2026-09-30 | Proposed | [THEORY-034](../../record/theory.d/THEORY-034.md) | 24 | 1 | Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings two are of that kind: Floridi's informational structural realism and Esfeld and Lam's moderate structural realism |
 | 2026-09-30 | Proposed | [THEORY-025](../../record/theory.d/THEORY-025.md) | 10 | 3 | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation |
 | 2026-09-30 | Proposed | [THEORY-038](../../record/theory.d/THEORY-038.md) | 7 | 0 | Category theory gives radical ontic structural realism no formal support: generalized elements exist in every category, morphisms relate objects the category presupposes, and Bain's physical cases eliminate spacetime points, not relata |
-| 2026-09-30 | Proposed | [THEORY-021](../../record/theory.d/THEORY-021.md) | 4 | 2 | In the efficiently packed geometries of uniform superposition the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity |
 | 2026-09-30 | Proposed | [THEORY-033](../../record/theory.d/THEORY-033.md) | 0 | 0 | The critical batch size is set by the gradient's noise-to-signal ratio, because per-step progress saturates as 1/(1 + B_noise/B); the measured noise scale predicts it only to within an order of magnitude |
 | 2026-10-02 | Proposed | [THEORY-043](../../record/theory.d/THEORY-043.md) | 202 | 4 | A mind of mindless agents and a mind of minded agents are one functionalist move run in two directions, and what separates them is an anti-nesting principle or an architectural criterion, neither yet principled |
 | 2026-10-03 | Proposed | [THEORY-056](../../record/theory.d/THEORY-056.md) | 63 | 7 | Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them |
@@ -615,7 +613,7 @@
 
 ## ADRs
 
-2 of the 825.
+2 of the 823.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -624,7 +622,7 @@
 
 ## QUESTIONs
 
-9 of the 825.
+9 of the 823.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -640,7 +638,7 @@
 
 ## CLAIMs
 
-217 of the 825.
+217 of the 823.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -864,7 +862,7 @@
 
 ## CASEs
 
-1 of the 825.
+1 of the 823.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -872,7 +870,7 @@
 
 ## TERMs
 
-2 of the 825.
+2 of the 823.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -881,7 +879,7 @@
 
 ## ARGs
 
-2 of the 825.
+2 of the 823.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

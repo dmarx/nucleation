@@ -21,7 +21,7 @@ history:
     tightness depends on its vertex heights, and NOTE-278 does not check it.
     The promote_when said "The algebra is settled for the exact
     configurations" and asked only whether trained models reach them. That
-    question moves, unchanged, to QUESTION-tmpm0s0z. The algebra is
+    question moves, unchanged, to QUESTION-145. The algebra is
     re-derived in the note of 2026-10-19 below, which under ADR-047 v2 (the
     owner's rule of 2026-10-19) meets the condition for the narrowed claim.
 tags:
@@ -95,7 +95,7 @@ simulating" a larger, sparse one.
   such a configuration.** Its symmetry group acts reducibly on ℝ³, so its
   tightness is not forced and is not checked here.
 - **That trained networks are in these configurations.** That is
-  [QUESTION-tmpm0s0z](../questions.d/QUESTION-tmpm0s0z.md). The geometry is
+  [QUESTION-145](../questions.d/QUESTION-145.md). The geometry is
   toy-only, best-of-many runs, and the authors expect it to generalise least
   ([NOTE-278](../notes.d/NOTE-278.md)). Non-uniform importance or sparsity deforms the polytopes, and
   the identity need not hold.
@@ -150,4 +150,4 @@ span, and in ℝ¹ that holds for any two antipodal vectors, whatever their
 norms. The narrowed title states the sufficient condition, which is the
 paper's polytope case. The square antiprism is excluded until its frame
 operator is checked at the paper's vertex heights. Whether trained models
-reach any of these configurations is [QUESTION-tmpm0s0z](../questions.d/QUESTION-tmpm0s0z.md).
+reach any of these configurations is [QUESTION-145](../questions.d/QUESTION-145.md).

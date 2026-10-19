@@ -1,5 +1,8 @@
 ---
+number: 145
 status: Open
+formerly:
+- QUESTION-tmpm0s0z
 title: 'In trained models, do the features'' dimensionality-weighted projectors sum to the identity on their span, as they do in the exact polytope and tegum configurations of uniform superposition?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   trained weights reach them is a measurement no one has made.
 ---
 
-# QUESTION-tmpm0s0z: In trained models, do the features' dimensionality-weighted projectors sum to the identity on their span, as they do in the exact polytope and tegum configurations of uniform superposition?
+# QUESTION-145: In trained models, do the features' dimensionality-weighted projectors sum to the identity on their span, as they do in the exact polytope and tegum configurations of uniform superposition?
 
 ## Why it is a question
 

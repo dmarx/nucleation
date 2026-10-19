@@ -24,7 +24,7 @@ history:
     side and adds no step, so no re-derivation was needed. The promote_when
     asked for something the title does not claim, a map between the
     formalisms, which "What this does not say" already disclaimed. It moves,
-    unchanged, to QUESTION-tmpx8hzz. The claim is unchanged.
+    unchanged, to QUESTION-146. The claim is unchanged.
 tags:
 - contextuality
 - mathematics
@@ -62,4 +62,4 @@ In the sheaf formalism every no-signalling model has a real signed global sectio
 - Anything beyond finite, tomographically local settings.
 - **Whether a map between the formalisms exists.** A map from signed global
   sections to a GPT fragment's quasiprobability representation, or a proof
-  that none preserves positivity, is [QUESTION-tmpx8hzz](../questions.d/QUESTION-tmpx8hzz.md).
+  that none preserves positivity, is [QUESTION-146](../questions.d/QUESTION-146.md).

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**516 documents cited without acknowledgement.** Not listed: 10141 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**514 documents cited without acknowledgement.** Not listed: 10131 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -724,7 +724,7 @@ A judgement–observation loop cut off from action loses one route for evidence 
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-28 citations in 24 files await a look; 57 other citations of it are acknowledged.
+27 citations in 23 files await a look; 58 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:213`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -749,7 +749,6 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 - [`record/notes.d/NOTE-307.md:116`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
 - [`record/theory.d/THEORY-018.md:95`](../../record/theory.d/THEORY-018.md)
-- [`record/theory.d/THEORY-021.md:101`](../../record/theory.d/THEORY-021.md)
 - [`record/theory.d/THEORY-022.md:161`](../../record/theory.d/THEORY-022.md)
 - [`record/theory.d/THEORY-032.md:112`](../../record/theory.d/THEORY-032.md)
 - [`record/theory.d/THEORY-041.md:52`](../../record/theory.d/THEORY-041.md)
@@ -1278,23 +1277,6 @@ Is It Good to Cooperate? Testing the Theory of Morality-as-Cooperation in 60 Soc
 - [`record/theory.d/THEORY-653.md:13`](../../record/theory.d/THEORY-653.md)
 - [`record/theory.d/THEORY-653.md:15`](../../record/theory.d/THEORY-653.md)
 - [`record/theory.d/THEORY-653.md:30`](../../record/theory.d/THEORY-653.md)
-
-### [THEORY-014](../../record/theory.d/THEORY-014.md) — Proposed
-
-In both formalisms of contextuality, classicality is the existence of a nonnegative version of a linear representation that always exists over the reals, so negativity is universal and only its unavoidability is nonclassical
-
-10 citations in 7 files await a look; 9 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-037.md:109`](../../record/claims.d/CLAIM-037.md)
-- [`record/notes.d/NOTE-249.md:184`](../../record/notes.d/NOTE-249.md)
-- [`record/notes.d/NOTE-250.md:204`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-250.md:205`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-250.md:207`](../../record/notes.d/NOTE-250.md)
-- [`record/notes.d/NOTE-251.md:231`](../../record/notes.d/NOTE-251.md)
-- [`record/notes.d/NOTE-251.md:233`](../../record/notes.d/NOTE-251.md)
-- [`record/notes.d/NOTE-252.md:201`](../../record/notes.d/NOTE-252.md)
-- [`record/notes.d/NOTE-253.md:223`](../../record/notes.d/NOTE-253.md)
-- [`record/notes.d/NOTE-254.md:289`](../../record/notes.d/NOTE-254.md)
 
 ### [THEORY-024](../../record/theory.d/THEORY-024.md) — Rejected
 
@@ -2839,7 +2821,7 @@ The reverse-engineered grokking network computes modular addition by multiplying
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-058.md:27`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:45`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:47`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
 
@@ -3904,7 +3886,7 @@ Recovering latent structure from relational data is three achievements, reconstr
 2 citations in 1 file await a look; 16 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:27`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:41`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:43`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-137](../../record/claims.d/CLAIM-137.md) — Proposed
 
@@ -3913,7 +3895,7 @@ A communicative kind is identified by an invariant that does not depend on any o
 2 citations in 1 file await a look; 30 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:26`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:41`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:43`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-155](../../record/claims.d/CLAIM-155.md) — Proposed
 
@@ -4329,15 +4311,6 @@ The positive-pair density ratio is the kernel of the conditional-expectation ope
 - [`record/questions.d/QUESTION-052.md:31`](../../record/questions.d/QUESTION-052.md)
 - [`record/questions.d/QUESTION-052.md:53`](../../record/questions.d/QUESTION-052.md)
 
-### [THEORY-021](../../record/theory.d/THEORY-021.md) — Proposed
-
-In the efficiently packed geometries of uniform superposition the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity
-
-2 citations in 1 file await a look; 2 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-058.md:28`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:47`](../../record/questions.d/QUESTION-058.md)
-
 ### [THEORY-029](../../record/theory.d/THEORY-029.md) — Proposed
 
 A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain
@@ -4696,7 +4669,7 @@ In a model that decodes the sum of two learned embeddings, a training set fixes 
 2 citations in 1 file await a look; 7 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:28`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:46`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:48`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-197](../../record/theory.d/THEORY-197.md) — Proposed
 

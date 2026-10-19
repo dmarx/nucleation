@@ -1,9 +1,9 @@
 ### Added
 
-- [QUESTION-tmpx8hzz](record/questions.d/QUESTION-tmpx8hzz.md): whether a positivity-preserving map exists between
+- [QUESTION-146](record/questions.d/QUESTION-146.md): whether a positivity-preserving map exists between
   sheaf signed global sections and GPT quasiprobability representations,
   the condition formerly on [THEORY-014](record/theory.d/THEORY-014.md).
-- [QUESTION-tmpm0s0z](record/questions.d/QUESTION-tmpm0s0z.md): whether trained models reach the exact superposition
+- [QUESTION-145](record/questions.d/QUESTION-145.md): whether trained models reach the exact superposition
   configurations, the condition formerly on [THEORY-021](record/theory.d/THEORY-021.md). It refines
   [QUESTION-058](record/questions.d/QUESTION-058.md).
 

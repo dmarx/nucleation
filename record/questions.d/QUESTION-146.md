@@ -1,5 +1,8 @@
 ---
+number: 146
 status: Open
+formerly:
+- QUESTION-tmpx8hzz
 title: 'Is there a map from an empirical model''s signed global sections to a quasiprobability or frame representation of the corresponding GPT fragment, and if so does it preserve positivity both ways?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   positivity.
 ---
 
-# QUESTION-tmpx8hzz: Is there a map from an empirical model's signed global sections to a quasiprobability or frame representation of the corresponding GPT fragment, and if so does it preserve positivity both ways?
+# QUESTION-146: Is there a map from an empirical model's signed global sections to a quasiprobability or frame representation of the corresponding GPT fragment, and if so does it preserve positivity both ways?
 
 ## Why it is a question
 
