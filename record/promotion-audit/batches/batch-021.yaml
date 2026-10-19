@@ -37,7 +37,8 @@ recommendation: >-
 owner_questions: []
 follow_up_prs:
   - "CLAIM-192, CLAIM-271 and CLAIM-030 re-ground from THEORY-127 to THEORY-725. CLAIM-030 adds THEORY-725 and keeps THEORY-127, cited as open, and its summary says 'can fail to'. CLAIM-126's warrant changes from demonstrated to interpretive. Statuses unchanged."
-prs: []
+prs:
+  - 'dmarx/nucleation#203: CLAIM-192, CLAIM-271, CLAIM-030, CLAIM-126 corrections'
 notes_for_ledger:
   - "Wave 4 counts: 3 reviewed (CLAIM-192, -271, -030), 0 promotion paths. CLAIM-206 and CLAIM-126 are wave-1 candidates: 2 reviewed, 0 promotion paths."
   - "All five decisions are new; none supersedes an earlier review. Remove CLAIM-192, CLAIM-271 and CLAIM-030 from the requeue list."
