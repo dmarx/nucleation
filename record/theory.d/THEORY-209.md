@@ -17,7 +17,17 @@ promote_when: >-
   instantaneous speed that does not scale as η²/(S(1 − β²)) across a sweep.
   More two-dimensional projections of the same ResNet cannot settle it.
 title: 'A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian''s column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The exact linear-regression result split off into THEORY-tmpopk8o,
+    filed Active, by the promotion audit (batch 062, ADR-040), on the
+    pattern of THEORY-770. This THEORY keeps the claim that converged deep
+    networks are in that state, extends the new one, and stays Proposed:
+    its promote_when asks for a deep-network test. A dated note corrects
+    "broken detailed balance" for the model.
 tags:
 - learning-theory
 - loss-landscapes
@@ -26,6 +36,8 @@ tags:
 date: '2026-10-13'
 source:
 - LIT-1011
+extends:
+- THEORY-tmpopk8o
 answers:
 - QUESTION-069
 summary: >-
@@ -162,3 +174,28 @@ account covers the Hessian's image, where the run oscillates
 isotropically on a modified loss. [THEORY-211](THEORY-211.md) covers the symmetry
 directions, where the run is driven to a balance. The cost of
 Assumption 3 is that it misdescribes the second.
+
+## Note of 2026-10-20: the model result split off, and what "broken detailed balance" means here
+
+The promotion audit (batch 062) re-derived the linear-regression stationary
+state and filed it as [THEORY-tmpopk8o](THEORY-tmpopk8o.md), which this account now extends.
+Under Assumption 3 the moments come out as the paper says. The parameter
+covariance is ησ²H(H + λI)⁻¹/(2S(1 − β)), isotropic on H's column space
+for small λ. The velocity covariance is σ²H/(S(1 − β²)), each mode's
+damping ratio is as stated, and the expected squared step is
+η²σ² tr(H)/(S(1 − β²)).
+
+One correction to the summary above. The paper's "broken detailed
+balance" means only that the probability current is nonzero (§6). In the
+model the current is the reversible part. Each Hessian eigenmode is an
+equilibrium damped oscillator at its own temperature, and the stationary
+process is time-reversible once velocities are flipped. So for linear
+regression with Σ = σ²H the state is not a nonequilibrium steady state in
+the usual sense. It is an equilibrium of a modified loss in phase space.
+Irreversibility needs a noise covariance that does not commute with the
+Hessian, which is one of the things a deep-network test of the
+assumptions would show.
+
+The deep-network claim is unchanged and still Proposed. It still rests on
+one ResNet-18 projection and on plotted speeds.
+
