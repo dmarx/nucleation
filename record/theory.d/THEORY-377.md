@@ -1,18 +1,23 @@
 ---
 number: 377
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmph9339
-promote_when: >-
-  A proof that, under stated processes for value changes and query precision
-  demands, the width set by the widen-on-push, narrow-on-fetch rule converges
-  (in distribution or in time-average cost) to within a stated factor of the
-  best fixed width, or a trace study on data other than the authors' that
-  measures its cost against the best fixed width and against an adaptive
-  cache-or-not rule. Further simulations on random walks, or results on the
-  authors' own traces, do not settle it.
-title: "A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved"
-version: 1
+title: "In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries tolerated imprecision, it cost less; that it converges to the best width is argued, not proved"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-377 (batch 054, ADR-047 v3). Olston, Loo and Widom (2001)
+    was read in full. The title is held to their simulations: the 1% is
+    one random walk and the 5% the eight walk settings; the trace results
+    are one 50-host trace; "matched" becomes "almost matched", as the paper
+    says; and the gain where queries tolerate imprecision is held to the
+    50-value cache, since with a cache of 20 it mostly disappears. The
+    convergence proof or independent trace study the promote_when asked
+    for moves to QUESTION-227.
 tags:
 - databases
 - operations-research
@@ -36,7 +41,7 @@ summary: >-
   is no worst-case guarantee.
 ---
 
-# THEORY-377: A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved
+# THEORY-377: In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries tolerated imprecision, it cost less; that it converges to the best width is argued, not proved
 
 ## Source
 
@@ -104,3 +109,25 @@ Caching.
 - [CLAIM-303](../claims.d/CLAIM-303.md): a filed item could carry a tolerance adjusted the same way,
   loosened when upkeep fires and tightened when a use needs more, if something
   watched its premises.
+
+## Note of 2026-10-20: what the title keeps
+
+Checked for the promotion audit (batch 054, [ADR-047](../decisions.d/ADR-047.md) v3), against
+[NOTE-912](../notes.d/NOTE-912.md)'s full reading of the paper.
+
+- **The random walks (Section 4.2).** With steps uniform in [0.5, 1.5],
+  T_q = 2, δ_avg = 20 and ρ = 1, the rule settled at W = 3.11, "within 1% of
+  the optimal W*". Over the eight combinations T_q ∈ {1, 2}, δ_avg ∈ {10, 20},
+  ρ ∈ {1, 4}, it came within 5%.
+- **Exact copies (Section 4.6).** With τ∞ = 0 it "almost precisely matches"
+  the adaptive exact-caching rule built from Wolfson, Jajodia and Huang,
+  whose window was tuned per run, across the workloads, cache sizes and
+  costs tested on the one two-hour, 50-host trace.
+- **Imprecise copies.** With τ∞ = ∞ it cost markedly less where queries
+  tolerated imprecision, slightly more for exact SUM workloads and much less
+  for MAX. With a cache of 20 values "the gain mostly disappears", so the
+  title holds the gain to the 50-value cache.
+
+Convergence, its rate and any worst-case bound remain argued, not proved,
+as the title says. A proof, or a study on other data, is
+[QUESTION-227](../questions.d/QUESTION-227.md).
