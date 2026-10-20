@@ -1,0 +1,1 @@
+<!-- THEORY-194 (Koch-Janusz and Ringel's mutual-information coarse-graining) is narrowed to what was measured on the 2D Ising and noisy dimer models and promoted under ADR-047 v3, with the figures checked against the arXiv PDF; its promote_when, the general equivalence with renormalization, moves to a new QUESTION. -->

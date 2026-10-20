@@ -42,7 +42,7 @@ summary: >-
   slow eigenfunctions are closed in mean, and in law only under a condition,
   is the record's addition.
 ---
-<!-- inactive-ok-file: THEORY-744 CLAIM-157 CLAIM-331 THEORY-257 — Proposed; the α-family limit this paper restates and open claims it bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-331 THEORY-257 — Proposed; open claims and a reading this paper bears on, nothing here rests on their being settled -->
 # NOTE-986: Nadler, Lafon, Coifman and Kevrekidis — Diffusion maps and reaction coordinates
 
 ## Contribution

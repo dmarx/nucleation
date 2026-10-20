@@ -41,7 +41,7 @@ summary: >-
   phase and decays algebraically with the buffer in the critical one.
   The model's operators were known; the optimality theorem is cited.
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-017 THEORY-036 — Proposed; cited as accounts this reading is set beside -->
+<!-- inactive-ok-file: THEORY-017 THEORY-036 — Proposed; cited as accounts this reading is set beside -->
 
 # NOTE-681: Statistical Physics through the Lens of Real-Space Mutual Information
 

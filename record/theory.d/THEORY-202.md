@@ -42,7 +42,7 @@ summary: >-
 supports:
 - CLAIM-152
 ---
-<!-- inactive-ok-file: THEORY-194 QUESTION-025 — Proposed or open; cited as the accounts this one extends and is set beside, and the question it does not answer -->
+<!-- inactive-ok-file: QUESTION-025 — Proposed or open; cited as the accounts this one extends and is set beside, and the question it does not answer -->
 
 # THEORY-202: In variational renormalization over general Boltzmann machines, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a further stated condition
 

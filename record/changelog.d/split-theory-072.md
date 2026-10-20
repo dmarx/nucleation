@@ -1,0 +1,1 @@
+<!-- The formal core of THEORY-072's reading of Montévil and Mossio's closure (a closed set has at least two constraints and, under stated readings, a slow and a fast dependence) is filed as an Active, demonstrated claim; THEORY-072 keeps the demarcation thesis and stays Proposed. -->

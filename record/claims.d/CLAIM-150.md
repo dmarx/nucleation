@@ -35,7 +35,6 @@ supports:
 ---
 <!-- inactive-ok-file: THEORY-038 — Proposed; cited for the categorial point it shares with THEORY-032, not as settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-137 — Proposed; the two theses this disclaimer guards, both open -->
-<!-- inactive-ok-file: THEORY-243 — Proposed; filed today, cited as an instance of this claim's premise, not leaned on -->
 
 # CLAIM-150: Identification is not constitution: neither the Yoneda lemma, nor the invariance of a character, nor predictive or interventional success shows that relations constitute what a communicative act is, because an ontology of intrinsically individuated objects with relational properties can reproduce the same predictions
 

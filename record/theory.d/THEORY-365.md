@@ -41,7 +41,6 @@ summary: >-
   paper gives no worst-case bound and no recall guarantee. Construction is
   argued to cost about N searches.
 ---
-<!-- inactive-ok-file: THEORY-385 — Proposed; the paper's other finding, set beside, nothing here rests on it -->
 
 # THEORY-365: In one study of a stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed a number of distance computations that grew no worse than logarithmically with the number of items and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it
 
