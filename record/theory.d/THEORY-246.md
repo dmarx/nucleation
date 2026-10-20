@@ -1,25 +1,22 @@
 ---
 number: 246
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7kkpe
-promote_when: >-
-  Two kinds of result, one for each weak point. For generality: the same
-  comparison, fixed-feature readout of new-class tasks against
-  penultimate class separation, in a pretraining setting LIT-1044 did
-  not test (a much larger label space, a transformer, or a network
-  trained past zero training error), with the inverse relation holding.
-  For the mechanism: an intervention that changes within-class spread in
-  the last layers with the loss held fixed (or holds it fixed while the
-  loss changes) and shows new-class transfer moving with the spread and
-  not with the loss. It is refuted if, at matched class separation,
-  different losses give clearly different new-class transfer, or if with
-  a large and diverse pretraining label space more separation stops
-  costing new-class transfer. More losses on ResNet-50 and ImageNet, or
-  more same-class shift benchmarks, cannot settle it: the first repeats
-  the measured correlation, and the second is a different question.
-title: 'Training objectives that tighten the class clusters of a classifier''s last layers buy accuracy on the trained classes and pay for it in new tasks: among ImageNet-trained ResNet-50s, fixed penultimate features with more class separation transfer worse to datasets with other classes, the difference lies in the last few blocks, and fine-tuning removes it'
-version: 1
+title: 'Among ResNet-50s trained on ImageNet with nine objectives and stopped early, seven of which beat softmax cross-entropy''s top-1 by up to 0.9 points, fixed penultimate features with more class separation transfer worse by linear probe to datasets whose classes are mostly not ImageNet''s (Spearman ρ = −0.93 across the nine; mean accuracy 75.9% for softmax to 48.3% for squared error), and within cosine softmax a higher temperature raises separation and lowers that accuracy; the objectives'' representations differ mainly in the last third of the network, and full fine-tuning brings mean transfer to within 1.3 points across them'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-246 (batch 063, ADR-047 v3): one study read in full in NOTE-762,
+    every number in the title from its tables. The lead clause, that
+    objectives which tighten class clusters buy training-class accuracy and
+    pay in new tasks, is a general causal thesis the study measured only as
+    a nine-point correlation, and leaves the title; "fine-tuning removes it"
+    becomes the measured 1.3-point spread. The generality and mechanism
+    requests move unchanged to QUESTION-tmpu3u0x.
 tags:
 - representation-learning
 - learning-theory
@@ -40,11 +37,12 @@ summary: >-
   differences in the last third of the network; fine-tuning erases them.
   The cost is for new classes: relearning the training classes, more
   separation helps. Networks early-stopped near 92% training accuracy;
-  one dataset; correlational across losses.
+  one dataset; correlational across losses. Promoted 2026-10-20 on this
+  one study (ADR-047 v3), narrowed to what it measured.
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-104 — Proposed; the statement of collapse it measures short of, the layer-wise account it is set against, and the MSE derivation it touches -->
 
-# THEORY-246: Training objectives that tighten the class clusters of a classifier's last layers buy accuracy on the trained classes and pay for it in new tasks: among ImageNet-trained ResNet-50s, fixed penultimate features with more class separation transfer worse to datasets with other classes, the difference lies in the last few blocks, and fine-tuning removes it
+# THEORY-246: Among ResNet-50s trained on ImageNet with nine objectives and stopped early, seven of which beat softmax cross-entropy's top-1 by up to 0.9 points, fixed penultimate features with more class separation transfer worse by linear probe to datasets whose classes are mostly not ImageNet's (Spearman ρ = −0.93 across the nine; mean accuracy 75.9% for softmax to 48.3% for squared error), and within cosine softmax a higher temperature raises separation and lowers that accuracy; the objectives' representations differ mainly in the last third of the network, and full fine-tuning brings mean transfer to within 1.3 points across them
 
 ## Source
 
@@ -151,3 +149,24 @@ more separated features do better (Figure 6). On Oxford Pets, 25 of whose
 - **Anthology.** Which loss to pretrain with for transfer is ML practice.
   This account claims only the measured relation, and carries the
   candidate flag.
+
+## Note of 2026-10-20: narrowed and promoted
+
+The promotion audit (batch 063) narrowed the title to what [LIT-1044](../literature.d/LIT-1044.md)
+measured, and promoted it on that one study under [ADR-047](../decisions.d/ADR-047.md) v3. [NOTE-762](../notes.d/NOTE-762.md)
+read it in full, with every table checked against the extracted text and
+the Spearman coefficient recomputed from Tables 1 and 3. The title before
+this version opened with a general claim: that training objectives which
+tighten the class clusters of a classifier's last layers buy accuracy on
+the trained classes and pay for it in new tasks. That is the causal
+reading of a correlation across nine objectives in one setting, and the
+study itself cuts against its first half: squared error has the most
+separation and no significant accuracy gain, and AutoAugment raises
+accuracy without raising separation (Table E.3). It is left out, as is
+"fine-tuning removes it", which becomes the measured spread of 85.1–86.4%
+(Table 2). That a linear head relearned for the ImageNet classes does
+better on more separated features stays in the body: the study shows it
+in a figure and states it in words, without numbers. The former
+promote_when, which asked for another pretraining
+setting and for an intervention on within-class spread at a fixed loss,
+moves unchanged to [QUESTION-tmpu3u0x](../questions.d/QUESTION-tmpu3u0x.md).
