@@ -24,7 +24,6 @@ summary: >-
   causes autonomous.
 ---
 <!-- inactive-ok-file: THEORY-048 — Proposed; named for a parallel, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-133 — Proposed; filed in this batch -->
 
 # NOTE-560: Nonreductive Physicalism and the Limits of the Exclusion Principle
 

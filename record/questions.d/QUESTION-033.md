@@ -27,10 +27,11 @@ answered_by:
 - CLAIM-316
 - THEORY-410
 - THEORY-612
+refined_by:
+- QUESTION-tmp8n4yk
 ---
 <!-- inactive-ok-file: CLAIM-158 CLAIM-166 CLAIM-167 — Proposed; the owner's claims and the reply this question follows from, open -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question this sharpens -->
-<!-- inactive-ok-file: THEORY-133 — Proposed; List & Menzies, named as material for an answer -->
 
 # QUESTION-033: In a system described at more than one level, does "who drives?" have an answer at a given level, and what kinds of answer are there?
 

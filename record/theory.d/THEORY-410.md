@@ -36,7 +36,6 @@ summary: >-
   difference-making with proportionality.
 ---
 <!-- inactive-ok-file: THEORY-048 THEORY-057 — Proposed; named because they cite the same paper, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-133 — Proposed; the List and Menzies criterion this account presupposes, open -->
 
 # THEORY-410: Brain–computer interface decoding does not show intentions to be causes distinct from their neural realisers: what is many-to-one realised there is a coarse cortical variable over single-neuron patterns, and each intention matches one value of it, so under proportional difference-making the evidence fits identifying the intention with that variable
 

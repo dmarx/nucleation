@@ -46,7 +46,6 @@ summary: >-
   claim is an ensemble average, not a per-operation floor. Whether the
   bound fails without the two conditions is [QUESTION-191](../questions.d/QUESTION-191.md).
 ---
-<!-- inactive-ok-file: THEORY-030 — Proposed; the Landauer account, named in Connections, not leaned on -->
 
 # THEORY-026: For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient
 

@@ -33,7 +33,7 @@ summary: >-
   only one way (Thm 5.13). None of this holds for a complex or unknown
   source, or for one string.
 ---
-<!-- inactive-ok-file: THEORY-277 THEORY-163 THEORY-157 — Proposed; the companion theory filed today and the entries named under Connections -->
+<!-- inactive-ok-file: THEORY-277 THEORY-157 — Proposed; the companion theory filed today and the entries named under Connections -->
 
 # THEORY-244: Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution
 

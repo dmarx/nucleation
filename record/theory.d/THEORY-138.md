@@ -27,7 +27,6 @@ presupposed_by:
 - THEORY-612
 ---
 <!-- inactive-ok-file: LIT-723 — Unavailable, unread; Making Things Happen, named as the unread book -->
-<!-- inactive-ok-file: THEORY-133 — Proposed; List & Menzies, named as an application -->
 <!-- inactive-ok-file: THEORY-131 — Proposed; French, named for a contrast -->
 
 # THEORY-138: X is a cause of Y exactly when some intervention on X with respect to Y would change Y, where an intervention is an exogenous causal process that alone sets X (M1), affects Y only through X (M2), is not caused by anything that affects Y by another route (M3), and leaves Y's causes off the path through X unchanged (M4); so defined, causation is not reduced to non-causal facts but is not viciously circular, and needs no human agent

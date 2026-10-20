@@ -49,7 +49,7 @@ answers:
 - QUESTION-093
 ---
 <!-- inactive-ok-file: THEORY-497 — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
-<!-- inactive-ok-file: THEORY-133 THEORY-071 — Proposed; compared, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-071 — Proposed; compared, nothing here rests on them -->
 
 # THEORY-222: A coarse-grained macro description can carry more effective information than the micro description it supervenes on, so the scale at which a system's causal structure is most effective can be a macro scale
 

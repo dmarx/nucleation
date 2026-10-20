@@ -24,7 +24,6 @@ summary: >-
   manuscript keeps the caveat (§5) and cites Tishby, Pereira and Bialek
   in its references, but states no bottleneck anywhere in its text.
 ---
-<!-- inactive-ok-file: THEORY-163 — Proposed; colour naming near the information-bottleneck bound, cited as the nearest precedent, not as settled -->
 
 # CLAIM-092: Translation can be posed as a context-indexed information bottleneck: compress the source while preserving information about the responses in each measurement context separately
 
