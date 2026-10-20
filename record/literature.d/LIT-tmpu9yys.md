@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-10-19 ([NOTE-tmpt0l4z](../notes.d/NOTE-tmpt0l4z.md)) in full; worth reading as the one-page report that founded the rubber hand illusion paradigm: synchronous brushing of a seen rubber hand and the hidden real hand makes touch be felt where the rubber hand is touched and the rubber hand be felt as one''s own, and after 30 minutes the felt position of the real hand drifts toward the rubber hand in proportion to how long the illusion lasted, while asynchronous brushing abolishes both. Read it as a brief communication: ten subjects, no stated control-group size, statistics given only as P-values, and a connectionist model and a premotor-cell analogy mentioned but not shown. Its closing claim, that intermodal matching "can be sufficient for self-attribution", is the sentence the later literature on body ownership builds on.'
 title: "Rubber hands 'feel' touch that eyes see"
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-19'
@@ -27,6 +27,12 @@ history:
   date: '2026-10-20'
   note: >-
     Filed as a source of THEORY-tmpef8lf, THEORY-tmpxdoe8. Standing says so.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The owner accepted the copy read, Nature's typeset page on a UC Davis
+    faculty site, as a lawful source on 2026-10-20. The reading and its
+    status stand.
 tags:
 - self
 - neuroscience
