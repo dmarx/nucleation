@@ -15,6 +15,8 @@ summary: >-
   promoted [THEORY-313](../theory.d/THEORY-313.md) to the kernel family Bach (2022) works out. The
   former promote_when asked for a confirmation of the O(σ²) gap beyond
   the torus; this question holds it.
+answered_by:
+- THEORY-811
 ---
 
 # QUESTION-198: Does the O(σ²) gap between the kernel and Shannon relative entropies hold for translation-invariant kernels on the torus beyond the exponential Fourier family, and on other compact spaces?

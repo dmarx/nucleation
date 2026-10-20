@@ -1,33 +1,37 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 162
+version: 163
 updated: '2026-10-20'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: null
   state: between batches
-  in_review:
-  - '#283'
+  in_review: []
   next_step: '#275-#281 merged; tmp codes in decisions/ and batches/060-064 concretized (THEORY-778, -779,
-    CLAIM-395, QUESTION-232..236). ADR-047 v4 (#283): a narrowing routes each dropped clause to a Proposed
-    THEORY (kind 1), a Proposed interpretive CLAIM (kind 2), a note (kind 3) or a QUESTION (kind 4). Next:
-    the narrowing-loss sweep from triage-008.yaml, 52 codes in 11 batches of five (summary.batches), kind
-    1 first; file new Proposed entries beside the Active ones, re-review nothing. Owner rulings needed
-    from triage-008.unsure: unchecked source theorems as separate Proposed THEORYs or body only (THEORY-158,
-    -160, -171, -244, -247, -318, -367, -387, -478); THEORY-334 against its Active rival THEORY-346; THEORY-246
-    kind 3 vs 1; THEORY-161, -290 kind 1 vs 2; THEORY-026 needs LIT-041 checked. After the sweep: triage-007
-    measurement route 6-20 (4 of 5 in batch 063), then theorem route margin >= 4 only. Other owner questions
-    open: narrow THEORY-646''s promote_when to its title; THEORY-039 as an interpretive CLAIM; record-own
-    results filed Active (CLAIM-384, -385, -391, and CLAIM-395); skimmed peer-reviewed proof as "a
-    proof" (THEORY-188, -270, -763); report titles (THEORY-344, -351, -071, -628, -336); conditional theorems
-    with promote_when moved to a QUESTION (THEORY-185, -133, -419, -527, -204, -243); splits of textbook
-    or toy-model theorems (THEORY-110, -673, -209, -476 definitional core, -529 not split); Propp selection
-    point as an objection claim; closed sources (Ney 2016/2021, Mandelkern, Geisler 1989, Propp schemes,
-    Ladyman 1998); THEORY-073; CLAIM-143; THEORY-321; CLAIM-139; CLAIM-328; CLAIM-206 vs CLAIM-217 with
-    CLAIM-241; CLAIM-046; CLAIM-160; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277. THEORY-675 to the anthology
-    is moot under ADR-048.'
+    CLAIM-395, QUESTION-232..236). ADR-047 v4 (#283, merged): a narrowing routes each dropped clause to
+    a Proposed THEORY (kind 1), a Proposed interpretive CLAIM (kind 2), a note (kind 3) or a QUESTION
+    (kind 4). Sweep batches 065-069 merged (#284-#287, #289): 25 codes, 26 new Proposed entries (THEORY-780..804,
+    CLAIM-396). Next: batches 070-072 (narrowing_sweep.in_progress) cover the remaining 15 codes in narrowing_sweep.remaining,
+    five per batch, kind 1 first; check suggested titles against the source (they over-reach like the
+    old titles), check who_asserts against the NOTE, grep claims.d for an existing carrier first, and
+    link each new entry to the QUESTION holding the old promote_when via answers; file new Proposed entries
+    beside the Active ones, re-review nothing. Owner rulings needed (narrowing_sweep.held_for_owner):
+    report form vs direct form for titles of sources'' wide claims (batch 069 used direct); THEORY-163
+    causal reading as its own Proposed THEORY; unchecked source theorems as separate Proposed THEORYs
+    or body only (THEORY-158, -160, -171, -244, -247, -318, -367, -387, -478); THEORY-334 against its
+    Active rival THEORY-346; THEORY-246 kind 3 vs 1; THEORY-161, -290 kind 1 vs 2; THEORY-026 needs LIT-041
+    checked. After the sweep: triage-007 measurement route 6-20 (4 of 5 in batch 063), then theorem route
+    margin >= 4 only. Other owner questions open: narrow THEORY-646''s promote_when to its title; THEORY-039
+    as an interpretive CLAIM; record-own results filed Active (CLAIM-384, -385, -391, and CLAIM-395);
+    skimmed peer-reviewed proof as "a proof" (THEORY-188, -270, -763); report titles (THEORY-344, -351,
+    -071, -628, -336); conditional theorems with promote_when moved to a QUESTION (THEORY-185, -133, -419,
+    -527, -204, -243); splits of textbook or toy-model theorems (THEORY-110, -673, -209, -476 definitional
+    core, -529 not split); Propp selection point as an objection claim; closed sources (Ney 2016/2021,
+    Mandelkern, Geisler 1989, Propp schemes, Ladyman 1998); THEORY-073; CLAIM-143; THEORY-321; CLAIM-139;
+    CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160; CLAIM-322, CLAIM-251, THEORY-157,
+    THEORY-277. THEORY-675 to the anthology is moot under ADR-048.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -4044,6 +4048,94 @@ history:
     file.'
 - version: 162
   date: '2026-10-20'
+  note: 'Narrowing sweep batches 065-069 integrated (#284-#287, #289 merged): 25 codes, 26 new Proposed
+    entries; narrowing_sweep block added; hand-off updated (#283 merged).'
+- version: 163
+  date: '2026-10-20'
   note: 'THEORY-771 (filed as THEORY-tmp5mn7l; Bousquet and Slotine) promoted at the owner''s direction,
     outside a numbered batch, on the re-derivations recorded in its decision file; carried out in #288.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
+narrowing_sweep:
+  procedure: record/decisions.d/ADR-047.md (v4)
+  triage: triage-008.yaml
+  done:
+  - THEORY-194
+  - THEORY-083
+  - THEORY-222
+  - THEORY-172
+  - THEORY-195
+  - THEORY-187
+  - THEORY-211
+  - THEORY-229
+  - THEORY-117
+  - THEORY-163
+  - THEORY-175
+  - THEORY-278
+  - THEORY-216
+  - THEORY-275
+  - THEORY-166
+  - THEORY-178
+  - THEORY-204
+  - THEORY-253
+  - THEORY-181
+  - THEORY-213
+  - THEORY-243
+  - THEORY-714
+  - THEORY-190
+  - THEORY-272
+  - THEORY-527
+  batches:
+  - batch-065
+  - batch-066
+  - batch-067
+  - batch-068
+  - batch-069
+  held_for_owner:
+  - THEORY-158
+  - THEORY-160
+  - THEORY-171
+  - THEORY-244
+  - THEORY-247
+  - THEORY-318
+  - THEORY-367
+  - THEORY-387
+  - THEORY-478
+  - THEORY-334
+  - THEORY-246
+  - THEORY-161
+  - THEORY-290
+  remaining:
+  - THEORY-256
+  - THEORY-306
+  - THEORY-255
+  - THEORY-270
+  - THEORY-293
+  - THEORY-294
+  - THEORY-295
+  - THEORY-391
+  - THEORY-267
+  - THEORY-313
+  - THEORY-365
+  - THEORY-472
+  - THEORY-026
+  - THEORY-362
+  - THEORY-377
+  in_progress:
+    batch-070:
+    - THEORY-256
+    - THEORY-306
+    - THEORY-255
+    - THEORY-270
+    - THEORY-293
+    batch-071:
+    - THEORY-294
+    - THEORY-295
+    - THEORY-391
+    - THEORY-267
+    - THEORY-313
+    batch-072:
+    - THEORY-365
+    - THEORY-472
+    - THEORY-026
+    - THEORY-362
+    - THEORY-377

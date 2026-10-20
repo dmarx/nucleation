@@ -11,27 +11,27 @@ reviewed:
 - THEORY-213
 filed:
 - narrowed: THEORY-178
-  new: THEORY-tmp0drff
+  new: THEORY-780
   kind: 1
   answers: QUESTION-172
   thesis: transcriptional regulation alone can give E. coli's expression state a memory of a transient regulator change (Zhao, Wytock, Reynolds and Motter's prediction for cells, NOTE-655 C8)
 - narrowed: THEORY-204
-  new: THEORY-tmpz9axt
+  new: THEORY-784
   kind: 1
   answers: QUESTION-233
   thesis: the usable horizon P^(1/(2β)) is why data-limited language models show the exponent γ/(2β) (Cagnetta, Raventós, Ganguli and Wyart)
 - narrowed: THEORY-253
-  new: THEORY-tmpnt3o1
+  new: THEORY-783
   kind: 1
   answers: QUESTION-193
   thesis: sign-descent-like optimizers are one source of sequential skill onset in trained networks (Liu, Liu, Michaud, Gore and Tegmark)
 - narrowed: THEORY-181
-  new: THEORY-tmplgh5u
+  new: THEORY-782
   kind: 1
   answers: QUESTION-199
   thesis: grokking's critical training fraction is where the training set fixes the summed-embedding representation, for addition at every group size (Liu, Kitouni, Nolte, Michaud, Tegmark and Williams)
 - narrowed: THEORY-213
-  new: THEORY-tmp43jo4
+  new: THEORY-781
   kind: 1
   answers: QUESTION-206
   thesis: strong SGD noise makes a mirror symmetry's subspace attracting even at a saddle, giving sparsity, low rank and identical neurons in SGD-trained networks (Ziyin)

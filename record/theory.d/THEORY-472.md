@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp99ydy
 title: 'A speaker who chooses words to minimise the information lost about a single intended referent, with words'' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word''s meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers'' word use followed it only weakly (r = .19)'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,12 @@ history:
     between an informative-speaker learner and a plain size-principle
     learner, which tests a claim the body disclaims. It moves unchanged to
     QUESTION-167.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 072, ADR-047 v4) filed THEORY-816,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - pragmatics
 - cognition
@@ -37,7 +43,9 @@ summary: >-
   not show that learners reason about the speaker.
 extended_by:
 - THEORY-172
+- THEORY-816
 ---
+<!-- inactive-ok-file: THEORY-816 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: LIT-1041 — Unavailable; Grice 1975, read only at pp. 45–47, named as the informal ancestor and not leaned on -->
 
 # THEORY-472: A speaker who chooses words to minimise the information lost about a single intended referent, with words' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word's meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers' word use followed it only weakly (r = .19)
@@ -117,3 +125,10 @@ terms.
 - The companion *Psychological Science* paper ([LIT-815](../literature.d/LIT-815.md)) infers referential
   intentions and has no informative speaker. [NOTE-627](../notes.d/NOTE-627.md) confirms that RSA
   work cites this paper, not that one, for the informative speaker.
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 072) filed [THEORY-816](THEORY-816.md)
+as Proposed, extending this entry. It carries the claim this entry's
+title gave up when batch 025 narrowed it: that word learners reason about an informative speaker when they infer a novel word's meaning, so the size principle in word learning is a consequence of that inference, as Frank, Goodman, Lai and Tenenbaum propose.
+This entry is its evidence and is not changed by the filing.

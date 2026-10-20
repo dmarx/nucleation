@@ -1,0 +1,49 @@
+# record/promotion-audit/batches/batch-071.yaml
+batch: '071'
+date: '2026-10-20'
+kind: narrowing-loss sweep (ADR-047 v4, triage-008)
+reviewed:
+- THEORY-294
+- THEORY-295
+- THEORY-391
+- THEORY-267
+- THEORY-313
+yield: 5 Proposed THEORYs filed for 5 narrowed entries (all kind 1); none re-classified; no status changed.
+filed:
+  THEORY-294:
+  - code: THEORY-tmpit8ng
+    kind: 1
+    who_asserts: LIT-985 (Kothapalli and Tirer; the solved case is Theorem 5.1, the higher-dimensional part is their Gaussian simulations, NOTE-774 C3, moderate)
+    answers: QUESTION-192
+    note: Triage-008's "as the NTK study proposes" dropped; the thesis is titled directly and the higher-dimensional evidence is named as simulation in the body.
+  THEORY-295:
+  - code: THEORY-tmppuc79
+    kind: 1
+    who_asserts: LIT-988 (Devezer et al., the paper's main finding drawn as a lesson for science; NOTE-792 C1-C2)
+    answers: QUESTION-151
+    note: "need not track" (triage-008) strengthened back to the pre-narrowing "is not evidence", which is the paper's own conclusion about reproducibility; the title keeps the sound-comparison condition.
+  THEORY-391:
+  - code: THEORY-tmpgv8ip
+    kind: 1
+    who_asserts: LIT-1160 (Donoho and Tanner, "weak universality" as a stated hypothesis; NOTE-933 C2)
+    answers: QUESTION-168
+    note: Triage-008's "ensembles well beyond the Gaussian" narrowed to the class the authors name ("a kind of orthogonality or weak independence", §3.7); finite-N disagreement kept in the title, since the authors reject strict universality. The limit-theorem analogy (C7, weak) is not part of the thesis.
+  THEORY-267:
+  - code: THEORY-tmpavmtf
+    kind: 1
+    who_asserts: LIT-958 (Rasooly and Rozzi, against Wolfers and Zitzewitz's short-transition view; NOTE-778 C1-C2)
+    answers: QUESTION-212
+    note: Triage-008's suggested title asserted the limited-rebalancing mechanism ("because traders ... undo it only partly"); the data cannot tell it from learning (NOTE-778 C4), so the mechanism is in the body only and the title asserts persistence.
+  THEORY-313:
+  - code: THEORY-tmpbqu7h
+    kind: 1
+    who_asserts: LIT-255 (Bach, asserted with a leverage-score sketch; NOTE-837 open question)
+    answers: QUESTION-198
+reclassified: []
+promotion_prs:
+- "#291"
+notes_for_ledger:
+- All five narrowed entries already had a QUESTION holding the old promote_when (QUESTION-192, -151, -168, -212, -198); each new THEORY inherits it verbatim and answers that QUESTION.
+- Triage-008's suggested titles over-reached in two ways here, as batches 068 and 069 found: one widened the class past what the source names (THEORY-391), one asserted a mechanism the source cannot identify (THEORY-267). One was weaker than the source (THEORY-295).
+- No existing CLAIM carries any of the five; no kind-2 clause in this batch.
+owner_questions: []

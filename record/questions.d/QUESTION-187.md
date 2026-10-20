@@ -18,6 +18,8 @@ summary: >-
   exact Delaunay layers of bounded degree. It measures logarithmic scaling
   only at d = 8 and saturating ef only at d = 4, and at d = 128 its
   scaling departs from a logarithm.
+answered_by:
+- THEORY-815
 ---
 
 # QUESTION-187: Does greedy layered search on the graph HNSW actually builds take expected O(log N) distance computations to a stated recall, under a stated condition on the data such as bounded doubling dimension?

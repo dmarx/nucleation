@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpz5itv
 title: "In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,13 @@ history:
     populations show a positive correlation. The S23 argument is re-derived
     in a dated note below. The promote_when, a model with memory or a real
     field, moves unchanged to QUESTION-151.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 071, ADR-047 v4) filed
+    THEORY-814, Proposed, to carry what the narrowing dropped. This
+    entry's status, title and claims are unchanged; a dated note says what
+    moved.
 tags:
 - philosophy-of-science
 - epistemology
@@ -35,7 +42,11 @@ summary: >-
   the strategy mix. The consensus is memoryless, scientists hold no
   beliefs, and an equal strategy mix is shown only never to be the
   worst, not best.
+extended_by:
+- THEORY-814
 ---
+
+<!-- inactive-ok-file: THEORY-814 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-148 THEORY-146 — Proposed; accounts of community-level epistemic mechanisms this one sits beside -->
 
 # THEORY-295: In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth
@@ -139,3 +150,7 @@ on the Bo-dominant population: near-perfect reproducibility, 25% (AIC) or
 48% (SC) of its time at the truth, and Spearman r = −0.06 between the two
 ([NOTE-792](../notes.d/NOTE-792.md), C2). Whether the decoupling survives a consensus with memory is
 [QUESTION-151](../questions.d/QUESTION-151.md).
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 071) filed [THEORY-814](THEORY-814.md) as Proposed, extending this entry. It carries the general reading this entry's title carried before the promotion audit narrowed it: that in real scientific communities high reproducibility is not evidence that the consensus is true, as Devezer et al. draw the lesson. This entry is its evidence and is not changed by the filing.

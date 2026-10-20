@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpye6gw
 title: "For a wide two-layer ReLU network with zero bias on one-dimensional data whose two classes lie on opposite sides of the origin, the tangent kernel is a constant multiple of the initialization kernel, so lazy training leaves the within-class variability of its features, NC1, where initialization put it"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -16,6 +16,13 @@ history:
     it is unchanged. The title is held to that setting; "does not collapse
     its features" in general and "on two-class Gaussian data" are dropped.
     The promote_when moves to QUESTION-192.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 071, ADR-047 v4) filed
+    THEORY-813, Proposed, to carry what the narrowing dropped. This
+    entry's status, title and claims are unchanged; a dated note says what
+    moved.
 tags:
 - learning-theory
 - representation-learning
@@ -34,7 +41,11 @@ summary: >-
   no lower, and for ReLU higher; whether lazy training leaves NC1 in place
   there is [QUESTION-192](../questions.d/QUESTION-192.md). The inference that collapse requires feature
   learning is the reading's, not proved.
+extended_by:
+- THEORY-813
 ---
+
+<!-- inactive-ok-file: THEORY-813 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-083 THEORY-212 THEORY-286 — Proposed; the record's statement of collapse, its lazy-versus-rich regime and NTK-spectrum accounts, and the two UFM accounts filed today -->
 
 # THEORY-294: For a wide two-layer ReLU network with zero bias on one-dimensional data whose two classes lie on opposite sides of the origin, the tangent kernel is a constant multiple of the initialization kernel, so lazy training leaves the within-class variability of its features, NC1, where initialization put it
@@ -145,3 +156,7 @@ its correction for samples where some cross-class product is not
 negative. Nothing in the argument survives once the kernels stop being
 proportional, as they do beyond one dimension. That wider case, which the
 promote_when asked for, is [QUESTION-192](../questions.d/QUESTION-192.md).
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 071) filed [THEORY-813](THEORY-813.md) as Proposed, extending this entry. It carries the general reading this entry's title carried before the promotion audit narrowed it: that lazy-regime training does not collapse a wide network's features in general, so collapse needs feature learning, as Kothapalli and Tirer conclude. This entry is its evidence and is not changed by the filing.

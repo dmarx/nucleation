@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbx1ck
 title: "When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and approximately orthogonal in their leading components, and under the token noise tested reach it first even when noise makes it lossy"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -22,6 +22,12 @@ history:
     leading components; and the noise clause names the construction
     tested. The promote_when asked for a replication. It moves, unchanged,
     to QUESTION-157.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-808,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -39,7 +45,10 @@ summary: >-
   leaves open, and it varies neither the objective nor the data domain.
 answers:
 - QUESTION-060
+extended_by:
+- THEORY-808
 ---
+<!-- inactive-ok-file: THEORY-808 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-274 — Proposed; accounts on the same question, open -->
 
 # THEORY-256: When a sequence generator's latent dynamics factor as a tensor product, its predictive state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and approximately orthogonal in their leading components, and under the token noise tested reach it first even when noise makes it lossy
@@ -151,3 +160,16 @@ measured. The title now names the architecture, the five factors, what
 the subspace measurements show, and the noise construction. The
 replication the promote_when asked for moves, unchanged, to
 [QUESTION-157](../questions.d/QUESTION-157.md).
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-808](THEORY-808.md)
+as Proposed, extending this entry. It carries the general reading this
+entry's title carried before batch 019 narrowed it: that transformers
+trained by next-token prediction on factored processes in general learn
+factored, approximately orthogonal belief representations of about the
+factored dimension, and reach them first when factoring is lossy, as Shai et
+al. present it. The architectural-bias reading ([NOTE-758](../notes.d/NOTE-758.md), C5) and
+persistence at convergence under strong noise, which Fig. 12 contradicts,
+are left out of it. This entry is its evidence and is not changed by the
+filing.

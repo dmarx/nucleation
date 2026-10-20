@@ -11,33 +11,33 @@ reviewed:
 yield: 6 Proposed THEORYs filed for 5 narrowed entries (all kind 1); none re-classified; no status changed.
 filed:
   THEORY-243:
-  - code: THEORY-tmpmojjf
+  - code: THEORY-802
     kind: 1
     who_asserts: LIT-961 (Wu et al., App. A, conjecture; triage-008 named LIT-968, but the conjecture is the reply's), with LIT-968 §8 granting the premise
     answers: QUESTION-234
     note: QUESTION-234 holds the old promote_when as a question; the trained-network clause is a thesis Wu et al. assert, so it is filed as their proposed answer, citing that QUESTION.
   THEORY-714:
-  - code: THEORY-tmpomt6b
+  - code: THEORY-804
     kind: 1
     who_asserts: LIT-1201 (Ince)
     answers: QUESTION-223
     note: The re-derived failure of subset equality is recorded in the body as evidence against; promote_when inherits the old one plus that weakening condition.
   THEORY-190:
-  - code: THEORY-tmp2r4mq
+  - code: THEORY-799
     kind: 1
     who_asserts: LIT-869 (degree flow and phase boundaries)
     answers: QUESTION-203
-  - code: THEORY-tmpof2md
+  - code: THEORY-803
     kind: 1
     who_asserts: LIT-869 (six embedded real networks self-similar; evidence of hidden metric spaces)
     note: triage-008 listed one clause; it holds two distinct theses, a model result and an empirical inference, so two entries were filed.
   THEORY-272:
-  - code: THEORY-tmph9xj9
+  - code: THEORY-800
     kind: 1
     who_asserts: LIT-918 (Hopfield, Eq. 10 crosstalk estimate; p. 2557 forgetting)
     answers: QUESTION-201
   THEORY-527:
-  - code: THEORY-tmpmmfpx
+  - code: THEORY-801
     kind: 1
     who_asserts: LIT-909 (Kenton et al., §1, §4)
     answers: QUESTION-032, QUESTION-228
@@ -49,6 +49,6 @@ notes_for_ledger:
 - When the old promote_when has already moved to a QUESTION, the new Proposed THEORY carries it as its own promote_when and `answers` that QUESTION, so the question shows the proposal that would answer it.
 - One triage-008 clause can hold two theses (THEORY-190's model degree flow and its real-network inference); file one entry per thesis.
 - triage-008's who_asserts can name the wrong paper of a pair (THEORY-243); check against the NOTE.
-- THEORY-tmph9xj9 keeps Hopfield's 0.15N; the analytic value usually cited is about 0.138N, unread here. If the record reads Amit, Gutfreund and Sompolinsky, the figure may need correcting.
+- THEORY-800 keeps Hopfield's 0.15N; the analytic value usually cited is about 0.138N, unread here. If the record reads Amit, Gutfreund and Sompolinsky, the figure may need correcting.
 owner_questions:
 - Should a Proposed THEORY carrying a source's wide claim be titled as the claim (done here) or as "X proposes that ..." (the report-title question)?

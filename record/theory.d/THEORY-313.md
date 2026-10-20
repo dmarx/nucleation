@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpiu6h1
 title: "With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight for every pair of distributions only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus, with Fourier coefficients proportional to e^(−σ‖ω‖₁) and strictly positive Lipschitz densities, is within O(σ²) of KL as the bandwidth σ shrinks"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -17,6 +17,13 @@ history:
     single pair can be tight with any kernel, as at p = q), and names the
     kernel family and densities the O(σ²) is proved for. The request for a
     confirmation beyond the torus moves to QUESTION-198.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 071, ADR-047 v4) filed
+    THEORY-811, Proposed, to carry what the narrowing dropped. This
+    entry's status, title and claims are unchanged; a dated note says what
+    moved.
 tags:
 - information-theory
 - mathematics
@@ -36,7 +43,11 @@ summary: >-
   to e^(−σ‖ω‖₁), with Lipschitz densities. It does not cover centred
   kernels, or similarity measures that compare Gram matrices of
   representations.
+extended_by:
+- THEORY-811
 ---
+
+<!-- inactive-ok-file: THEORY-811 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; accounts this one is set beside and does not rest on -->
 
 # THEORY-313: With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight for every pair of distributions only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus, with Fourier coefficients proportional to e^(−σ‖ω‖₁) and strictly positive Lipschitz densities, is within O(σ²) of KL as the bandwidth σ shrinks
@@ -171,3 +182,7 @@ definite, k(x, x) = 1, base measure τ with covariance Σ.
 A numerical check on 300 random finite examples satisfied both
 inequalities to 10⁻¹³. That the rate extends beyond this kernel family,
 as the source asserts, is held in [QUESTION-198](../questions.d/QUESTION-198.md).
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 071) filed [THEORY-811](THEORY-811.md) as Proposed, extending this entry. It carries the general reading this entry's title carried before the promotion audit narrowed it: that the O(σ²) gap holds for translation-invariant kernels generally and on compact groups, as Bach asserts. This entry is its evidence and is not changed by the filing.
