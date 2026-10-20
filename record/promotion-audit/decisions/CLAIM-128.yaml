@@ -8,7 +8,7 @@ disposition: split
 confidence: high
 scope:
   accepted: >-
-    The partial-order result, filed as its own claim (CLAIM-tmpzk12h in PR #165), Active.
+    The partial-order result, filed as its own claim (CLAIM-371 in PR #165), Active.
   excluded: >-
     The task-relativity thesis, which stays Proposed and becomes interpretive.
 evidence:

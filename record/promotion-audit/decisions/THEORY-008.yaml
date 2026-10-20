@@ -10,7 +10,7 @@ scope:
   accepted: >-
     The finite-M identities, promoted.
   excluded: >-
-    The population limit, moved to QUESTION-tmp4uhs6.
+    The population limit, moved to QUESTION-136.
 evidence:
   - "PR #165 and its curation entries record/curation.d/2026/10/19/024107.md, 034134.md and 041525.md."
 blockers: []

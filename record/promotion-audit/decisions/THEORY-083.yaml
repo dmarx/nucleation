@@ -22,7 +22,7 @@ scope:
     and nearest class mean disagrees with the network on about a tenth of
     test examples. The body's "monotone across all 21 cells", which the
     plots contradict. Replication outside the protocol and a
-    gradient-descent derivation, moved to QUESTION-tmpybmwx.
+    gradient-descent derivation, moved to QUESTION-202.
 evidence:
   - "Fig. 6: NC1 ratio ends about 1e-4 to 1e-2 on the four easier datasets, 1e-2 to 1e-1 on CIFAR-100 and STL10, about 1-10 on ImageNet."
   - "Fig. 7: NCC mismatch near 0 on the easier datasets, 0.02-0.07 on CIFAR-100 and STL10, about 0.1 on ImageNet."

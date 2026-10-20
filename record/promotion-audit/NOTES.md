@@ -1631,8 +1631,6 @@ history note. THEORY-277 is requeued on this basis.
 - A paper-length rigorous proof cannot be re-derived in a batch. Whether a
   held, peer-reviewed proof that was skimmed meets "a proof" is an owner
   question (THEORY-188; compare THEORY-270 in batch 038).
-- Rename CLAIM-tmp1w7aa's decision file to its permanent code after #262
-  merges.
 
 ## 2026-10-20 — round 053-057 tally; triage-006 finished
 
@@ -1716,3 +1714,7 @@ history note. THEORY-277 is requeued on this basis.
   entries; the completed versions were on its branch. Porting that commit
   (#271) fixed main. When main fails lint on files no audit PR touches,
   look for the fix on the originating branch first.
+- Decision files outlive the PRs they cite, so tmp codes in them go
+  stale when docs-generate concretizes main. After each round, map every
+  `X-tmp…` in decisions/ to the file whose `formerly:` lists it, and
+  replace it. Batch files keep their tmp codes as a historical log.

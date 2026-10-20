@@ -8,7 +8,7 @@ disposition: split
 confidence: high
 scope:
   accepted: >-
-    The operator identity, as the record's own demonstrated claim (CLAIM-tmpu2dsm), Active.
+    The operator identity, as the record's own demonstrated claim (CLAIM-370), Active.
   excluded: >-
     The sources' statement and trained features, which stay Proposed.
 evidence:

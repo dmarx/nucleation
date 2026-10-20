@@ -1,29 +1,26 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 153
-updated: '2026-10-19'
+version: 154
+updated: '2026-10-20'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: null
   state: between batches
-  in_review:
-  - '#272'
-  - '#274'
-  next_step: 'Rounds 053-059 integrated; #262-#268 and #271 merged. Open: #272 (THEORY-673 split, Price
-    equation as its own THEORY), #274 (Chalmers & McQueen reading). Merge them, then this ledger. Next:
-    triage-007 theorem_route and measurement_route in batches of five, sorting each by hand (the classifier
-    over-calls conditional-shaped arguments as theorems and some theses as measurements); its control
-    5. After #272 merges rename THEORY-tmp9jqpz in the ledger. Reading tasks THEORY-162, -336, -485 need
-    owner-supplied copies; THEORY-167 needs the scheme fold-out. Wave 5 yields only splittable formal
-    cores; requeue arguments only when promote_when, premises or rivals change. Owner questions open:
-    skimmed peer-reviewed proof as "a proof" (THEORY-188, -270); report titles (THEORY-344, -351, -071,
-    -628, -336); record-own results filed Active (CLAIM-384, -385, -391); conditional theorems with promote_when
-    moved to a QUESTION (THEORY-185, -133, -419, -527); splits of textbook or toy-model theorems (THEORY-110,
-    THEORY-673); THEORY-675 to the anthology; Propp selection point as an objection claim; THEORY-073;
-    CLAIM-143; THEORY-321; CLAIM-139; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160;
-    CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
+  in_review: []
+  next_step: 'Rounds 053-059 integrated; #262-#268, #271, #272 (THEORY-673 split; Price equation is THEORY-770)
+    and #274 merged. Next: triage-007 theorem_route and measurement_route in batches of five, sorting
+    each by hand (the classifier over-calls conditional-shaped arguments as theorems and some theses as
+    measurements); its control 5. Reading tasks THEORY-162, -336, -485 need owner-supplied copies; THEORY-167
+    needs the scheme fold-out. Wave 5 yields only splittable formal cores; requeue arguments only when
+    promote_when, premises or rivals change. Owner questions open: skimmed peer-reviewed proof as "a proof"
+    (THEORY-188, -270); report titles (THEORY-344, -351, -071, -628, -336); record-own results filed Active
+    (CLAIM-384, -385, -391); conditional theorems with promote_when moved to a QUESTION (THEORY-185, -133,
+    -419, -527); splits of textbook or toy-model theorems (THEORY-110, THEORY-673); THEORY-675 to the
+    anthology; Propp selection point as an objection claim; THEORY-073; CLAIM-143; THEORY-321; CLAIM-139;
+    CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160; CLAIM-322, CLAIM-251, THEORY-157,
+    THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -3774,4 +3771,8 @@ history:
   date: '2026-10-20'
   note: '#265, #266, #268, #271 merged (main lint fixed by porting 1bb070b3); triage-007 (title-assertion
     sort) and batches 058, 059 integrated.'
+- version: 154
+  date: '2026-10-20'
+  note: '#272 and #274 merged; THEORY-tmp9jqpz is THEORY-770; tmp codes left in decision files (CLAIM-128,
+    THEORY-001, -005, -008, -083, -087, -155, -156, -188, -233, -485) replaced by their permanent codes.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

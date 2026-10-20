@@ -13,7 +13,7 @@ reviewed:
   - THEORY-673
 yield: "1 split of 4 (THEORY-673); 3 retained unchanged"
 promotion_prs:
-  - "#272: THEORY-673 split; the Price equation's derivation filed Active as THEORY-tmp9jqpz."
+  - "#272: THEORY-673 split; the Price equation's derivation filed Active as THEORY-770."
 notes_for_ledger:
   - >-
     Batch 041's lesson held again: none of the four had changed since its
