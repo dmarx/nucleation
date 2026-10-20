@@ -35,7 +35,6 @@ summary: >-
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; the record's account of the modular-addition circuit, which this reading bears on -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, which this reading bears on -->
-<!-- inactive-ok-file: THEORY-083 — Proposed; the record's account of neural collapse, which App. I bears on -->
 <!-- inactive-ok-file: LIT-369 — Proposed; named because NOTE-317's reading of it cites this paper -->
 
 # NOTE-662: Towards Understanding Grokking

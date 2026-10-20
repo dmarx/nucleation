@@ -1,28 +1,23 @@
 ---
 number: 83
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpi6wt0
-promote_when: >-
-  Replication outside the protocol of LIT-618, read in the record.
-  That protocol had balanced classes, no augmentation, dropout removed,
-  one run per learning rate and the best run shown. Measurements of NC1
-  and NC2 through the terminal phase under augmentation, label noise
-  and several seeds per cell would promote this, and of NC1 under class
-  imbalance. NC2 is predicted for balanced classes only: under imbalance
-  the geometry to test is that of THEORY-286, not equiangularity.
-  So would a held paper that derives collapse as the limit of gradient
-  descent on cross-entropy, which would turn the measured regularity into
-  an account. No held paper meets that yet: LIT-974 derives collapse for
-  MSE under a re-whitened flow, and LIT-994 gives an endpoint, not a
-  gradient-descent derivation. The claim is refuted if standard training
-  run well past zero error leaves within-class variability of last-layer
-  features flat, or, with balanced classes, leaves the centred class
-  means far from equiangular. Further runs under
-  the original protocol cannot settle it. Nor can the theorems, which
-  assume the collapsed end state.
-title: 'Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean'
-version: 1
+title: 'In Papyan, Han and Donoho''s runs of VGG, ResNet and DenseNet trained with cross-entropy on seven balanced datasets without augmentation, training past zero error shrinks last-layer within-class variability against between-class variability, and moves the centred class means and the classifier toward a common simplex equiangular tight frame and the decision toward nearest class mean, nearly to completion on the four easier datasets and only partly on ImageNet'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision file
+    for THEORY-083 (batches 044 and 052, ADR-047 v3). The figures were read
+    from the plots, not only their captions (NOTE-476, dated note). The
+    title now claims what the plotted runs show: the direction of every
+    measure in all 21 cells, collapse close to complete on MNIST,
+    Fashion-MNIST, SVHN and CIFAR-10, and partial on ImageNet. The body's
+    "monotone across all 21 cells" is corrected. The promote_when,
+    replication outside this protocol and a gradient-descent derivation,
+    moves unchanged in substance to QUESTION-tmpybmwx.
 tags:
 - representation-learning
 - learning-theory
@@ -41,7 +36,8 @@ summary: >-
   (NC3), and the decision becomes nearest class mean (NC4). They prove that
   NC1 and NC2 imply NC3 and NC4 for the MSE-optimal and max-margin
   classifiers, and that the simplex ETF is the unique error-exponent-optimal
-  codebook. Papyan (2020), [LIT-613](../literature.d/LIT-613.md), sees class means separate and grow
+  codebook. Read from the plots, collapse is close to complete on the
+  four easier datasets and partial on ImageNet at the last epoch. Papyan (2020), [LIT-613](../literature.d/LIT-613.md), sees class means separate and grow
   more orthogonal with depth. The measurements cover one protocol, and the
   dynamics are unexplained outside free-features models. Within them,
   THEORY-278 (LIT-974) derives collapse for MSE under a re-whitened
@@ -56,7 +52,7 @@ answers:
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-286 — Proposed; derivations in free-features models, cited for the limits they set on this account, not leaned on -->
 
-# THEORY-083: Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean
+# THEORY-083: In Papyan, Han and Donoho's runs of VGG, ResNet and DenseNet trained with cross-entropy on seven balanced datasets without augmentation, training past zero error shrinks last-layer within-class variability against between-class variability, and moves the centred class means and the classifier toward a common simplex equiangular tight frame and the decision toward nearest class mean, nearly to completion on the four easier datasets and only partly on ImageNet
 
 ## Source
 
@@ -85,9 +81,10 @@ Figures 2–7):
 - NC4: the disagreement between the network's decision and nearest class
   mean on test data.
 
-The trends are monotone across all 21 cells. Each cell is one trained
-model per learning rate, with the best final test error selected
-([NOTE-476](../notes.d/NOTE-476.md), Limitations).
+Every measure moves in the stated direction in all 21 cells, but not
+monotonically in all of them, and not to zero everywhere (see the note of
+2026-10-20). Each cell is one trained model per learning rate, with the
+best final test error selected ([NOTE-476](../notes.d/NOTE-476.md), Limitations).
 
 **The theorems, which assume the end state.** If features have collapsed
 (NC1) onto a simplex ETF (NC2), the MSE-optimal Webb–Lowe classifier and
@@ -155,3 +152,18 @@ as this account defines them. Whether the symmetry account predicts the
 simplex equiangular geometry, or only low rank, is open. It bears on
 [QUESTION-080](../questions.d/QUESTION-080.md) too: an absorbing collapsed state would stay fixed while
 other parameters keep moving.
+
+## Note of 2026-10-20: what the plots show
+
+Promotion audit, batch 052. [NOTE-476](../notes.d/NOTE-476.md) had read Figures 2–7 from their
+captions; they are now read from the plots ([NOTE-476](../notes.d/NOTE-476.md), dated note). Collapse
+is close to complete on MNIST, Fashion-MNIST, SVHN and CIFAR-10: NC1's
+ratio Tr(Σ_W Σ_B†)/C falls to about 10⁻⁴–10⁻² and nearest class mean
+agrees with the network on almost every test example. It is partial on
+CIFAR-100 and STL10 and clearly incomplete on ImageNet, where the ratio
+ends near or above 1 for all three networks and nearest class mean
+disagrees on about a tenth of test examples. Several cells rise and fall
+after the terminal phase begins, and some of the largest drops coincide
+with the learning-rate cuts. The title is narrowed to these runs and to
+what they show. Whether collapse holds outside this protocol, and why
+training reaches it, is [QUESTION-tmpybmwx](../questions.d/QUESTION-tmpybmwx.md).
