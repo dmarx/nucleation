@@ -1,0 +1,66 @@
+# record/promotion-audit/batches/batch-059.yaml
+batch: batch-059
+date: '2026-10-20'
+reviewed_revision: f4de4a36ed90e33160abe701e3197d1b924569f8
+waves: [requeue]
+reviewed:
+  - THEORY-336
+  - THEORY-162
+  - THEORY-167
+  - THEORY-485
+yield: >-
+  0 promotions. All four entries are retained, with readings attempted for
+  each. One source was read (Chalmers and McQueen, filed as LIT and NOTE).
+  A second text of Propp narrows THEORY-167's promotable scope to 45
+  tales. THEORY-485's blockers are narrowed to the closed Ney works.
+promotion_prs:
+  - "PENDING_PR: Chalmers and McQueen filed and read in part; dated notes on NOTE-112 and NOTE-615; no promotions (branch claude/reading-chalmers-mcqueen)."
+notes_for_ledger:
+  - >-
+    What could be fetched, and from where. arXiv: Chalmers and McQueen
+    (2105.02314), full text. gumer.info: Propp's Morphology, Russian HTML,
+    apparently the 1969 edition, encoded cp1251 (decode it explicitly).
+    It carries the appendices but not the fold-out schemes.
+  - >-
+    What was closed. Unpaywall, OpenAlex and Semantic Scholar list no
+    open-access copy of: Geisler 1989; Banks, Geisler and Bennett 1987;
+    Geisler 1984; Banks, Sekuler and Anderson 1991; Mandelkern, Bounded
+    Meaning (2024) and 'Bounded Modality' (2019); Ney 2016 and 2021;
+    Bikaraan-Behesht 2021/22. No copy was found for Heim 1990 or Elbourne
+    2005 either. The 1968 English Propp at archive.org is
+    lending-restricted.
+  - >-
+    Sources that were blocked. philpapers.org returns 403 and
+    PhilSci-Archive fails TLS through the proxy, so philosophy preprints
+    are mostly unreachable from a session. cps.utexas.edu redirects to a
+    page with no PDFs, and jov.arvojournals.org returns 403. Philosophy and
+    vision-science reading tasks for closed works need owner-supplied
+    copies; requeueing them unchanged will not help.
+  - >-
+    Reading the source can narrow a promotable scope even when the clean
+    copy is missing. Propp's appendix states that five tabulated tales
+    were dropped, partly because their order was not strictly canonical.
+    So an order claim checked on the remaining 45 is partly a selection
+    effect, and a v3 title must say so.
+  - >-
+    A source cited as a rival can turn out to argue against the citing
+    THEORY's conclusion while still being represented accurately.
+    Chalmers and McQueen are LIT-164's "explicit, testable rival", and they
+    also argue that collapse is a causal-closure gap. Record both points.
+owner_questions:
+  - >-
+    THEORY-336's title asserts a report ("human performance is reported
+    to parallel the retinal-stage ideal"). Can a report title promote on
+    the review it reports (Geisler 2011, read)? Or must it wait for the
+    primary study its promote_when names? ADR-047 does not say. Not decided
+    here.
+  - >-
+    Can the owner supply copies of Ney (2016) and (2021), Mandelkern's
+    Bounded Meaning, Geisler (1989), and the Propp fold-out schemes (or the
+    1968 English appendix)? These four entries are blocked on them and on
+    nothing else.
+  - >-
+    THEORY-167: should the selection point (order checked on tales kept
+    partly for conformity to the order) be filed as an objection CLAIM in
+    the record's own argument? It was left out as beyond this batch's
+    directive.
