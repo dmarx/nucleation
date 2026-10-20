@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**491 documents cited without acknowledgement.** Not listed: 9601 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**491 documents cited without acknowledgement.** Not listed: 9913 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1481,7 +1481,7 @@ Pregeometry, Formal Language and Constructivist Foundations of Physics
 
 The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences
 
-8 citations in 6 files await a look; 7 other citations of it are acknowledged.
+8 citations in 6 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-014.md:54`](../../record/decisions.d/ADR-014.md)
 - [`record/literature.d/LIT-384.md:93`](../../record/literature.d/LIT-384.md)
@@ -1581,6 +1581,21 @@ Pereboom — Living without Free Will
 - [`record/theory.d/THEORY-119.md:33`](../../record/theory.d/THEORY-119.md)
 - [`record/theory.d/THEORY-121.md:21`](../../record/theory.d/THEORY-121.md)
 - [`record/theory.d/THEORY-121.md:201`](../../record/theory.d/THEORY-121.md)
+
+### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
+
+Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
+
+8 citations in 6 files await a look; 45 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-379.md:18`](../../record/claims.d/CLAIM-379.md)
+- [`record/claims.d/CLAIM-391.md:17`](../../record/claims.d/CLAIM-391.md)
+- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:227`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
+- [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
+- [`record/theory.d/THEORY-022.md:159`](../../record/theory.d/THEORY-022.md)
 
 ### [THEORY-126](../../record/theory.d/THEORY-126.md) — Proposed
 
@@ -1778,20 +1793,6 @@ Cumulative cultural evolution in the laboratory
 - [`record/literature.d/LIT-771.md:17`](../../record/literature.d/LIT-771.md)
 - [`record/literature.d/LIT-771.md:47`](../../record/literature.d/LIT-771.md)
 - [`record/notes.d/NOTE-599.md:181`](../../record/notes.d/NOTE-599.md)
-
-### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
-
-Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
-
-7 citations in 5 files await a look; 45 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-379.md:18`](../../record/claims.d/CLAIM-379.md)
-- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:227`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
-- [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
-- [`record/theory.d/THEORY-022.md:159`](../../record/theory.d/THEORY-022.md)
 
 ### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
 
@@ -2501,6 +2502,18 @@ How much cognitive control to exert, and on what, is decided by a cost-benefit c
 - [`record/questions.d/QUESTION-054.md:61`](../../record/questions.d/QUESTION-054.md)
 - [`record/questions.d/QUESTION-054.md:84`](../../record/questions.d/QUESTION-054.md)
 
+### [THEORY-080](../../record/theory.d/THEORY-080.md) — Proposed
+
+In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
+
+5 citations in 3 files await a look; 13 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-385.md:17`](../../record/claims.d/CLAIM-385.md)
+- [`record/claims.d/CLAIM-391.md:17`](../../record/claims.d/CLAIM-391.md)
+- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
+
 ### [THEORY-109](../../record/theory.d/THEORY-109.md) — Proposed
 
 The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
@@ -2834,17 +2847,6 @@ Obligation is the reflective rejection of what would violate the agent's practic
 - [`record/questions.d/QUESTION-007.md:36`](../../record/questions.d/QUESTION-007.md)
 - [`record/questions.d/QUESTION-007.md:57`](../../record/questions.d/QUESTION-007.md)
 - [`record/questions.d/QUESTION-129.md:69`](../../record/questions.d/QUESTION-129.md)
-
-### [THEORY-080](../../record/theory.d/THEORY-080.md) — Proposed
-
-In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
-
-4 citations in 2 files await a look; 13 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-385.md:17`](../../record/claims.d/CLAIM-385.md)
-- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
 
 ### [THEORY-088](../../record/theory.d/THEORY-088.md) — Proposed
 
@@ -3940,10 +3942,10 @@ Spectral Networks and Betti Lagrangians
 
 Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets
 
-2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/decisions.d/ADR-013.md:27`](../../record/decisions.d/ADR-013.md)
-- [`record/decisions.d/ADR-013.md:63`](../../record/decisions.d/ADR-013.md)
+- [`record/decisions.d/ADR-013.md:34`](../../record/decisions.d/ADR-013.md)
+- [`record/decisions.d/ADR-013.md:70`](../../record/decisions.d/ADR-013.md)
 
 ### [LIT-1041](../../record/literature.d/LIT-1041.md) — Unavailable
 
@@ -4165,7 +4167,7 @@ Fricker — Epistemic Injustice (précis)
 
 Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks?
 
-2 citations in 2 files await a look; 22 other citations of it are acknowledged.
+2 citations in 2 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-107.md:130`](../../record/cases.d/CASE-107.md)
 - [`record/questions.d/QUESTION-121.md:70`](../../record/questions.d/QUESTION-121.md)
@@ -4183,7 +4185,7 @@ On a finite augmentation space, InfoNCE, logistic and spectral contrastive losse
 
 The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
 
-2 citations in 1 file await a look; 40 other citations of it are acknowledged.
+2 citations in 1 file await a look; 41 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:31`](../../record/questions.d/QUESTION-052.md)
 - [`record/questions.d/QUESTION-052.md:54`](../../record/questions.d/QUESTION-052.md)
@@ -4201,7 +4203,7 @@ A higher-order attitude cannot make a motive the agent's own by its order alone:
 
 Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
 
-2 citations in 1 file await a look; 60 other citations of it are acknowledged.
+2 citations in 1 file await a look; 77 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-059.md:23`](../../record/questions.d/QUESTION-059.md)
 - [`record/questions.d/QUESTION-059.md:42`](../../record/questions.d/QUESTION-059.md)
@@ -4246,7 +4248,7 @@ The readiness potential does not show that a neural decision to act precedes awa
 
 A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being
 
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
+2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-043.md:23`](../../record/questions.d/QUESTION-043.md)
 - [`record/questions.d/QUESTION-043.md:40`](../../record/questions.d/QUESTION-043.md)
@@ -4289,9 +4291,9 @@ Goals pursued for identified or intrinsic reasons receive more sustained effort,
 
 ### [THEORY-085](../../record/theory.d/THEORY-085.md) — Proposed
 
-A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors
+A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them
 
-2 citations in 1 file await a look; 8 other citations of it are acknowledged.
+2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:59`](../../record/questions.d/QUESTION-051.md)

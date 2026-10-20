@@ -2,7 +2,7 @@
 
 # QUESTIONs with `tags` `philosophy-of-science`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Philosophy of science** — what science is and what its theories say about the world — realism and structural realism, explanation, causation and evidence, the interpretation of physical theories (group: philosophy).
 

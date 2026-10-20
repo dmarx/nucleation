@@ -137,7 +137,7 @@ this directory, then run `luria index`.
 
 **[Religion](tags/religion.md)** (0) — religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated.
 
-**[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
+**[Anthology candidate](tags/anthology-candidate.md)** (0) — a curation flag, not a subject — somebody judged the Anthology of the SOTA may want this work as well; it stays here unless a transfer is decided, and is never a primary topic (ADR-005, ADR-048; group: flags).
 
 **By status:** [The current account](status/Active.md) (5) · [Offered](status/Proposed.md) (2) · [Not yet judged](status/Deferred.md) (0) · [Disbelieved](status/Rejected.md) (3) · [Replaced](status/Superseded.md) (0)
 

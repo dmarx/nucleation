@@ -27,7 +27,7 @@ history:
     The line of algebra relating K-FAC to the class-wise product, CFAC −
     K-FAC = the class-weighted between-class covariance of the two factors,
     is the record's own (the summary said "the filer adds a line of
-    algebra") and is filed as a demonstrated claim, CLAIM-tmp1w7aa, under
+    algebra") and is filed as a demonstrated claim, CLAIM-391, under
     ADR-032 (promotion audit, batches 047 and 057). The title drops its
     last clause, which stated that identity; the body points to the claim.
     The mechanism, class gradient means approximately h_c ⊗ δ_c, is
@@ -52,7 +52,7 @@ summary: >-
   misaligned", and the class-wise CFAC aligns much better at deep layers.
   The identity relating the two, CFAC − K-FAC = the class-weighted
   between-class covariance of the factors, is the record's own and is
-  filed as CLAIM-tmp1w7aa. The evidence for the mechanism is one MLP,
+  filed as CLAIM-391. The evidence for the mechanism is one MLP,
   spectra only, judged by eye.
 answers:
 - QUESTION-051
@@ -102,7 +102,7 @@ feature mean of a class would only be multiplied by the error mean of that
 class" (§7.12). From this he infers that the gradient class means, which
 cause the outliers, are approximately g_c ≈ h_c ⊗ δ_c.
 
-**The algebra behind it.** This step is the record's own, filed with its proof as [CLAIM-tmp1w7aa](../claims.d/CLAIM-tmp1w7aa.md); it is summarised here. Write H_c and Δ_c
+**The algebra behind it.** This step is the record's own, filed with its proof as [CLAIM-391](../claims.d/CLAIM-391.md); it is summarised here. Write H_c and Δ_c
 for the per-class second moments, and H̄ and Δ̄ for their averages. Then
 K-FAC is H̄ ⊗ Δ̄ = Ave_{c,c′} H_c ⊗ Δ_{c′}, which has all C² pairings, and
 CFAC is Ave_c H_c ⊗ Δ_c, which has C. Their difference is
@@ -151,7 +151,7 @@ Promotion audit, batches 047 and 057. The identity CFAC − K-FAC =
 Σ_c π_c (H_c − H̄) ⊗ (Δ_c − Δ̄), with class weights π_c (K-FAC's factors
 are averages over all examples), is stated by neither source and holds for
 any matrices by bilinearity, so it is filed as the record's own
-demonstrated claim, [CLAIM-tmp1w7aa](../claims.d/CLAIM-tmp1w7aa.md), with the proof. This account no longer
+demonstrated claim, [CLAIM-391](../claims.d/CLAIM-391.md), with the proof. This account no longer
 states it in its title. What stays here is Papyan's reading: the class
 gradient means are approximately h_c ⊗ δ_c, so K-FAC's cross-class
 pairings misplace the outliers. That is inferred from CFAC's better

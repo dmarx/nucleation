@@ -2,11 +2,11 @@
 
 # CLAIMs with `tags` `translation`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Translation** — translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033).
 
-26 of 390 CLAIM documents. Back to the [full index](../README.md).
+26 of 391 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

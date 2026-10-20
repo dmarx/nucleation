@@ -2,11 +2,11 @@
 
 # CLAIMs with `tags` `phenomenal-unity`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Phenomenal unity** — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
-2 of 390 CLAIM documents. Back to the [full index](../README.md).
+2 of 391 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

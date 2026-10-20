@@ -2,7 +2,7 @@
 
 # QUESTIONs with `tags` `probabilistic-modeling`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Probabilistic modeling** — Bayesian inference and statistical models outside deep learning — nonparametric priors, topic models, samplers.
 

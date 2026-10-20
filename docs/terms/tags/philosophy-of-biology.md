@@ -2,7 +2,7 @@
 
 # TERMs with `tags` `philosophy-of-biology`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Philosophy of biology** — what life, organisms and biological functions are — teleology and function, organisation and closure, biological individuality and autonomy, and the demarcation of the living (group: philosophy; ADR-025).
 

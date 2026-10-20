@@ -2,12 +2,13 @@
 
 # CLAIMs with `tags` `anthology-candidate`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
-**Anthology candidate** — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
+**Anthology candidate** — a curation flag, not a subject — somebody judged the Anthology of the SOTA may want this work as well; it stays here unless a transfer is decided, and is never a primary topic (ADR-005, ADR-048; group: flags).
 
-1 of 390 CLAIM documents. Back to the [full index](../README.md).
+2 of 391 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CLAIM-384](../../../record/claims.d/CLAIM-384.md) | For a network linearised at its initial parameters, with an isotropic Gaussian prior of precision α on the parameter displacement and Gaussian noise of precision β, the log-determinant part of the evidence is −½ Σ log(1 + βλ/α) over the non-zero eigenvalues λ of the empirical neural tangent kernel's Gram matrix on the training inputs, so at most n directions are priced however many parameters the network has |  | Active |
+| [CLAIM-391](../../../record/claims.d/CLAIM-391.md) | For any classes with weights π_c and per-class factor matrices H_c and Δ_c, the class-wise Kronecker product Σ_c π_c H_c ⊗ Δ_c exceeds the product of the weighted averages H̄ ⊗ Δ̄ by exactly the weighted between-class covariance Σ_c π_c (H_c − H̄) ⊗ (Δ_c − Δ̄), so the two agree when either factor is the same in every class |  | Active |

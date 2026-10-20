@@ -2,7 +2,7 @@
 
 # ARGs with `tags` `causality`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Causality** — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
 

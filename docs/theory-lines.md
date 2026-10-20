@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-52 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+53 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -139,6 +139,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-579](../record/theory.d/THEORY-579.md) — If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue *(Proposed)*
   - [THEORY-512](../record/theory.d/THEORY-512.md) — The extended-mind thesis worth disputing is that external entities partly constitute a subject's mental states in virtue of the subject's sensorimotor interaction with them; so stated it can reach standing belief but not consciousness, if consciousness needs information directly available for global control, since perception makes availability indirect *(Proposed)*
 
+### From Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects
+
+- [THEORY-765](../record/theory.d/THEORY-765.md) — Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects *(Rejected)*
+  - [THEORY-766](../record/theory.d/THEORY-766.md) — Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them *(Proposed)*
+
 ## emotion-and-affect
 
 ### From Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
@@ -207,7 +212,7 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-731](../record/theory.d/THEORY-731.md) — For softmax cross-entropy with balanced classes, the Gauss–Newton matrix splits exactly into four positive semidefinite second-moment terms, the class-centre term has rank at most C with eigenvectors in the span of the class centres and the spectrum of a C × C Gram matrix, and so the k-th eigenvalue of the whole is never below the k-th eigenvalue of the class-centre term *(Active)*
   - [THEORY-078](../record/theory.d/THEORY-078.md) — The top C eigenvalues of a trained C-class classifier's Fisher are carried by the second moment of its class-mean logit derivatives, so a cut at the bulk edge keeps the span of the class means, and they stand clear of the bulk to the extent between-class separation exceeds within-class variation *(Proposed)*
-    - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors *(Proposed)*
+    - [THEORY-085](../record/theory.d/THEORY-085.md) — A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them *(Proposed)*
 
 ## information-retrieval
 
@@ -469,6 +474,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-618](../record/theory.d/THEORY-618.md) — Neural circuits that must represent hierarchically organised states in few dimensions use a hyperbolic geometry, three-dimensional where it has been measured, because hyperbolic space holds exponentially many well-separated states within a small radius; the argument from Zipf's law to this geometry does not hold, and the evidence is two Betti-curve studies tested only against uniform Euclidean nulls *(Proposed)* — also carries further THEORY-192
 - [THEORY-192](../record/theory.d/THEORY-192.md) — In twelve sessions of rat dorsal CA1 from three data sets, pairwise correlations among place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius rose with the logarithm of exploration time *(Active)*
 
+### From Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects
+
+- [THEORY-765](../record/theory.d/THEORY-765.md) — Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects *(Rejected)*
+  - [THEORY-766](../record/theory.d/THEORY-766.md) — Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them *(Proposed)*
+
 ## operations-research
 
 ### From When stored views are never updated, greedily storing the view of largest marginal saving in query cost gets at least 1 − 1/e of the optimal saving on a data-cube lattice or any OR or AND view graph, against the optimum for the same number of views or for the space the greedy ends up using, which may exceed the budget by one view
@@ -615,6 +625,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-728](../record/theory.d/THEORY-728.md) — On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law *(Active)*
   - [THEORY-565](../record/theory.d/THEORY-565.md) — From a symmetric, positivity-preserving, positive semi-definite affinity, the normalized Markov operator is conjugate to a symmetric one, so its leading eigenfunctions scaled by powers of their eigenvalues embed the data with Euclidean distance equal to diffusion distance, and a density-corrected normalization recovers the Laplace–Beltrami operator independently of how the data were sampled *(Proposed)*
+
+## self
+
+### From Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects
+
+- [THEORY-765](../record/theory.d/THEORY-765.md) — Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects *(Rejected)*
+  - [THEORY-766](../record/theory.d/THEORY-766.md) — Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them *(Proposed)*
 
 ## self-governance
 
