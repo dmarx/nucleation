@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-20 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+21 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -37,6 +37,18 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-333](../record/claims.d/CLAIM-333.md) — Measuring every relevant variable is necessary but not sufficient for a Granger-causal analysis to say anything about interventions: the intervention must also be an isolated exogenous change and no influence may act within one sampling step, and then Granger noncausality implies no intervention effect and the effect is identified from the observational predictor, but a Granger-causal relation is still only potentially causal *(Active)*
   - [CLAIM-334](../record/claims.d/CLAIM-334.md) — Granger causation from a macro variable to the micro variables it supervenes on, Seth's downward Granger causation, is not evidence of a macro-to-micro intervention effect, even with every micro variable measured: supervenience leaves no intervention on the macro variable that holds its micro base fixed at the same time *(Active)*
+
+### From Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other
+
+- [CLAIM-387](../record/claims.d/CLAIM-387.md) — Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other *(Active)*
+  - [CLAIM-392](../record/claims.d/CLAIM-392.md) — Stochastic information-bottleneck optima at two budgets need not be nested: for X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the unique optima at β = 8 and β = 12 admit no Markov chain X → T₂ → T₁, so raising the budget reorganizes the optimum even with noisy encoders *(Active)*
+
+## learned-structure
+
+### From Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other
+
+- [CLAIM-387](../record/claims.d/CLAIM-387.md) — Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other *(Active)*
+  - [CLAIM-392](../record/claims.d/CLAIM-392.md) — Stochastic information-bottleneck optima at two budgets need not be nested: for X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the unique optima at β = 8 and β = 12 admit no Markov chain X → T₂ → T₁, so raising the budget reorganizes the optimum even with noisy encoders *(Active)*
 
 ## nucleating-argument
 

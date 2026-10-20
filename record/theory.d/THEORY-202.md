@@ -6,6 +6,12 @@ formerly:
 title: 'In variational renormalization over general Boltzmann machines, neither a matched partition function nor Kadanoff''s exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a further stated condition'
 version: 3
 history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted under ADR-047, batch 049.
+    The counterexamples are re-derived below.
+    The remaining Kadanoff-family question is QUESTION-205.
 - version: 3
   date: '2026-10-20'
   note: >-
@@ -14,12 +20,6 @@ history:
     relevance condition using the singular Fisher
     metric but does not settle QUESTION-205.
     The Active theorem is unchanged.
-- version: 2
-  date: '2026-10-20'
-  note: >-
-    Narrowed and promoted under ADR-047, batch 049.
-    The counterexamples are re-derived below.
-    The remaining Kadanoff-family question is QUESTION-205.
 tags:
 - natural-sciences
 - representation-learning
