@@ -36,7 +36,6 @@ summary: >-
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading whose phrase is checked here -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-331 THEORY-186 THEORY-481 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-tmp3j6t7 — Proposed; the account filed from this reading -->
-<!-- inactive-ok-file: LIT-tmptogwd — Deferred; works registered unread, cited as open -->
 
 # NOTE-tmpv8yf2: Coifman and Lafon — Diffusion maps
 
@@ -241,7 +240,7 @@ family as precursors. The proofs extend Lafon's thesis from hypersurfaces
 to submanifolds. The finite-sample rates are cited from Hein, Audibert and
 von Luxburg (2005) and Singer (2005), and the α = 1/2 case from Nadler,
 Lafon and Coifman in the same issue. The PNAS announcement is [LIT-981](../literature.d/LIT-981.md)
-([NOTE-784](NOTE-784.md), Skimmed), and diffusion wavelets ([LIT-tmptogwd](../literature.d/LIT-tmptogwd.md), unread) is the
+([NOTE-784](NOTE-784.md), Skimmed), and diffusion wavelets ([LIT-tmptogwd](../literature.d/LIT-tmptogwd.md), read 2026-10-20 in [NOTE-tmpuwro4](NOTE-tmpuwro4.md)) is the
 multiscale companion the paper cites for compressing P^t. Zhai ([LIT-975](../literature.d/LIT-975.md),
 §5.3) identifies his power-kernel metric with D_t. [NOTE-675](NOTE-675.md) uses the
 Leeb–Coifman multiscale diffusion distance that descends from it.

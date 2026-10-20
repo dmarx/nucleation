@@ -1,14 +1,38 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on coarse-to-fine processes, which the owner relayed. No NOTE is filed.
+  read 2026-10-20 ([NOTE-tmpurwf1](../notes.d/NOTE-tmpurwf1.md)) in full; worth reading for the
+  experiment in which a ReLU network fits low frequencies before high ones
+  even when the high ones are ten times stronger ([THEORY-tmpon8ox](../theory.d/THEORY-tmpon8ox.md)), for
+  the Fourier analysis of piecewise-linear networks ([THEORY-tmpuaxgt](../theory.d/THEORY-tmpuaxgt.md)), and
+  for the observation that the frequencies that are hard to learn depend
+  on how the data's manifold is embedded. Read it knowing that its theorem
+  is proved only for compactly supported networks, that the link from the
+  theorem to the order of learning is an upper bound on speed and not a
+  proof of order, that the volume result in Appendix D does not follow,
+  and that its "manifold complexity" is confounded with the curve's
+  length.
 title: 'On the Spectral Bias of Neural Networks'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-19. `published:` is arXiv v1, 22 June 2018 (ICML 2019), per ADR-002. No DOI. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-19, commit d1573d2) for the authors, title and identifiers found nothing.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Read in full from arXiv 1806.08734v3, NOTE-tmpurwf1. Status Deferred to
+    Active. THEORY-tmpuaxgt (Active) and THEORY-tmpon8ox (Proposed) are
+    filed from it. The summary is corrected: the Fourier analysis bounds
+    what a network contains and does not show the order of learning,
+    which is experimental, and the manifold result says that more complex
+    embeddings make high frequencies easier, not that the bias "depends
+    on the geometry" in general. The body's "Not read" paragraph is
+    replaced. The paper carries no instruction for ML practice; the
+    anthology-candidate flag stays because an anthology topic could hold
+    it. "Its NOTE-296", which linked to this record's unrelated NOTE-296,
+    is corrected to ANTH-NOTE-296.
 tags:
 - learning-theory
 - anthology-candidate
@@ -24,16 +48,17 @@ keywords:
 - 'frequency principle'
 implementations: []
 summary: >-
-  Rahaman et al. (2019; arXiv 2018). Shows by Fourier analysis of ReLU networks and experiments that networks learn low-frequency components of a target before high-frequency ones, and that the bias depends on the geometry of the data manifold.
+  Rahaman et al. (2019; arXiv 2018). Proves, for compactly supported ReLU networks, that the Fourier transform falls as k^(−d−1) in almost every direction and no slower than k^(−2). Shows by experiment that a deep ReLU network fits low frequencies before high ones, even when the high ones are ten times stronger, and that its high-frequency components are the least robust to parameter noise. Shows that on a curve embedded in the plane, high latent frequencies are fitted more easily as the embedding gets longer and more convoluted.
 ---
+<!-- inactive-ok-file: THEORY-tmpon8ox — Proposed; the empirical account filed from this reading -->
 
 # LIT-tmpzunec: On the Spectral Bias of Neural Networks
 
 Rahaman, N., Baratin, A., Arpit, D., Draxler, F., Lin, M., Hamprecht, F. A., Bengio, Y. & Courville, A. (2019). On the Spectral Bias of Neural Networks. *Proceedings of the 36th International Conference on Machine Learning*, PMLR 97: 5301–5310. Preprint: arXiv:1806.08734 (22 June 2018).
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full on 2026-10-20 in [NOTE-tmpurwf1](../notes.d/NOTE-tmpurwf1.md). The proved Fourier bound is
+[THEORY-tmpuaxgt](../theory.d/THEORY-tmpuaxgt.md), and the experimental order of fitting is [THEORY-tmpon8ox](../theory.d/THEORY-tmpon8ox.md).
 
 ## Why this is here
 
-A2 listed it as a contrastive reading: an order of acquisition by frequency, which need not be an order by semantic generality. Bears on [QUESTION-tmp8qovh](../questions.d/QUESTION-tmp8qovh.md), beside [THEORY-086](../theory.d/THEORY-086.md). [NOTE-483](../notes.d/NOTE-483.md) and [NOTE-777](../notes.d/NOTE-777.md) cite it without a LIT. The anthology does not hold it (only its [NOTE-296](../notes.d/NOTE-296.md) mentions it), and it is held here for this record's question about orders of acquisition ([ADR-036](../decisions.d/ADR-036.md)), flagged `anthology-candidate`.
+A2 listed it as a contrastive reading: an order of acquisition by frequency, which need not be an order by semantic generality. Bears on [QUESTION-tmp8qovh](../questions.d/QUESTION-tmp8qovh.md), beside [THEORY-086](../theory.d/THEORY-086.md). [NOTE-483](../notes.d/NOTE-483.md) and [NOTE-777](../notes.d/NOTE-777.md) cite it without a LIT. The anthology does not hold it (only its [ANTH-NOTE-296](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/notes.d/NOTE-296.md) mentions it), and it is held here for this record's question about orders of acquisition ([ADR-036](../decisions.d/ADR-036.md)), flagged `anthology-candidate`.

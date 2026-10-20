@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -22,6 +22,10 @@ history:
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added, from the readings of that day: in turbulence the ordering of time scales is graded and moves with the analyst's cut (THEORY-tmp4ou43), and weak coupling alone does not make an aggregate slower (NOTE-tmpinykd). The claim is unchanged.
+- version: 5
+  date: '2026-10-20'
+  note: >-
+    The note of 2026-10-20 gains a third point, from the reading of slow feature analysis (NOTE-tmp6kiiy): hierarchies built to be slow are slower by construction and are not evidence for the claim. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -182,3 +186,10 @@ names. Neither defeats it.
   spectral gap, not just small off-block entries. This is a limit on the
   mechanism the claim cites ([THEORY-661](../theory.d/THEORY-661.md)), not on the claim, which already
   says slowness is a mark of a level and not its definition.
+- **Slow by construction is not evidence.** Wiskott and Sejnowski's slow
+  feature analysis ([NOTE-tmp6kiiy](../notes.d/NOTE-tmp6kiiy.md), [THEORY-tmp45pcv](../theory.d/THEORY-tmp45pcv.md)) builds a hierarchy
+  whose higher stages are slower because the objective requires it, and
+  only weakly. On test data the slowness curves across layers cross. The
+  slowest outputs include location, which is not an invariant, and nothing
+  reads them back, as in [CASE-116](../cases.d/CASE-116.md) arm A. Hierarchies optimized for slowness
+  should not be cited as cases of this claim.

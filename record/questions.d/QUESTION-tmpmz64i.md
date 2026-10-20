@@ -17,6 +17,9 @@ summary: >-
   as through an inertial range, is not an individual. The record holds
   dissipative structures ([THEORY-072](../theory.d/THEORY-072.md), [THEORY-532](../theory.d/THEORY-532.md), [CLAIM-273](../claims.d/CLAIM-273.md), [QUESTION-085](QUESTION-085.md))
   but has not set flux beside its block and closure tests.
+answered_by:
+- THEORY-tmp784do
+- THEORY-tmpe0x90
 ---
 <!-- inactive-ok-file: LIT-tmp2snx1 LIT-tmp8dl8g LIT-tmpko78q — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-273 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -73,4 +76,16 @@ requires a balance law for a specified transferred quantity; it is not a
 generic scalar that exists for every agent-based system." A3's: energy and
 information transfer "should not be identified merely because both can be
 assigned a direction across scales" (Granero-Belinchón et al.,
-[LIT-tmp8dl8g](../literature.d/LIT-tmp8dl8g.md)).
+[LIT-tmp8dl8g](../literature.d/LIT-tmp8dl8g.md)). Read on 2026-10-20 ([NOTE-tmp5kark](../notes.d/NOTE-tmp5kark.md)), that paper defines no
+information flux at all. Its "scaling of information" is the second-order
+structure function in nats ([THEORY-tmpe0x90](../theory.d/THEORY-tmpe0x90.md)). Its entropy rates are
+exactly blind to the cascade's direction ([THEORY-tmp784do](../theory.d/THEORY-tmp784do.md)), so its
+claimed information-theoretic proof of the cascade does not follow. A5's
+precondition, a balance law for a transferred quantity, is met by energy
+and by no information quantity the record holds.
+
+Constantin, E and Titi ([NOTE-tmpqux8d](../notes.d/NOTE-tmpqux8d.md), [THEORY-tmp99aof](../theory.d/THEORY-tmp99aof.md)) prove only one
+half of A3's point about rough fields. Above Besov regularity 1/3, the
+flux into unresolved scales must vanish as the scale goes to zero. That a
+flux can survive for rougher fields is the negative half of Onsager's
+conjecture (Isett 2018 and others), which the record does not hold.

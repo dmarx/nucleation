@@ -1,12 +1,23 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on
-  coarse-to-fine processes, which the owner relayed. No NOTE is filed. A
-  lawful open copy was found on 2026-10-20 (the `url:`) and has not been
-  read. The copy is gzipped PostScript.
+  read 2026-10-20 ([NOTE-tmp6kiiy](../notes.d/NOTE-tmp6kiiy.md)) in full, from Wiskott's own PostScript
+  preprint; worth reading for the slowness objective stated exactly
+  (minimize ⟨ẏ²⟩ under zero mean, unit variance and decorrelation), for its
+  closed-form solution within a fixed nonlinear expansion by sphering and
+  an eigendecomposition of the derivative covariance ([THEORY-tmp45pcv](../theory.d/THEORY-tmp45pcv.md)), and
+  for the demonstration that stacked modules learn translation, size,
+  rotation, contrast and, less well, illumination invariance for 1-D
+  patterns from the training stimulus alone. Read it knowing that
+  optimality holds per module, on the training signal and within the
+  chosen function space, and not for the greedy hierarchy; that "slower is
+  more abstract" is its premise, not a finding, so a stack built this way
+  is slower at higher stages by construction; that the slowest outputs
+  include location, so slowness is not invariance; that no generative model
+  and no learning dynamics appear; and that every stimulus is synthetic and
+  one-dimensional.
 title: 'Slow Feature Analysis: Unsupervised Learning of Invariances'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-19'
@@ -27,6 +38,16 @@ history:
     PDF copies on course pages at Berkeley's Redwood Center and at CMU were
     not used, since neither is posted by the authors. This corrects version
     1, which found no open copy. Status stays Deferred.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Read in full (NOTE-tmp6kiiy) from the PostScript at the `url:`,
+    converted with Ghostscript and extracted with pdftotext. The typeset
+    article was not compared. Status Deferred → Active. THEORY-tmp45pcv
+    filed. The summary is corrected: the slowest outputs of the visual
+    model include location, not only invariants, and the closed form,
+    the hierarchy and its limits are now stated. The body's "Not read"
+    paragraph is replaced.
 tags:
 - representation-learning
 - neuroscience
@@ -42,15 +63,15 @@ keywords:
 - 'unsupervised learning'
 implementations: []
 summary: >-
-  Wiskott & Sejnowski (2002). Learns input–output functions whose outputs vary as slowly as possible over time, under unit-variance and decorrelation constraints, and shows that the slowest features recover invariances such as translation in a model of the visual hierarchy.
+  Wiskott & Sejnowski (2002). Learns instantaneous functions of the input whose outputs vary as slowly as possible, minimizing ⟨ẏ²⟩ under zero-mean, unit-variance and decorrelation constraints, solved in closed form within a fixed (usually quadratic) expansion by sphering and taking the smallest eigenvectors of the derivative covariance. Stacked modules in a 1-D model of the visual hierarchy learn translation, size, rotation, contrast and, less well, illumination invariance from the training stimulus, with location ("where") among the slowest outputs alongside identity ("what").
 ---
 
 # LIT-tmpf5lvd: Slow Feature Analysis: Unsupervised Learning of Invariances
 
 Wiskott, L. & Sejnowski, T. J. (2002). Slow Feature Analysis: Unsupervised Learning of Invariances. *Neural Computation* 14(4): 715–770. doi:10.1162/089976602317318938.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in [NOTE-tmp6kiiy](../notes.d/NOTE-tmp6kiiy.md). The closed form is re-derived in
+[THEORY-tmp45pcv](../theory.d/THEORY-tmp45pcv.md).
 
 ## Why this is here
 

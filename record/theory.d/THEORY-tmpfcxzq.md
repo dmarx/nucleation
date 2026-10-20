@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'If a velocity field''s third-order increments obey ‖δu(r)‖₃ ≤ C u_rms (r/L)^σ at every separation r, with 0 < σ < 1, then for a smooth, rapidly decaying filter the space-averaged energy flux across scale ℓ takes at most a fraction of order (ℓ/Δ)^(1−σ) from strain at scales above Δ and of order (δ/ℓ)^(2σ) from stress at scales below δ, measured against u_rms³/L·(ℓ/L)^(3σ−1); so transfer between scales is local in scale, with a power-law decay and no gap'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -14,6 +14,10 @@ history:
     held as a conditional: whether Navier–Stokes solutions satisfy the
     hypothesis is not part of it. The general-σ prefactor, and the reading
     of the decay as banded rather than gapped, are the record's.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Connections gain Constantin, E and Titi (THEORY-tmp99aof): the same estimate vanishes for σ > 1/3, so the non-zero mean flux this account assumes requires σ₃ ≤ 1/3. The account is unchanged.
 tags:
 - natural-sciences
 - mathematics
@@ -166,3 +170,9 @@ local.
   out a unit.
 - **[LIT-tmpko78q](../literature.d/LIT-tmpko78q.md).** Eyink (2005) holds the original proofs, including the
   pointwise and all-subsets versions this account does not re-derive.
+- **[THEORY-tmp99aof](THEORY-tmp99aof.md) (Constantin, E and Titi).** The same Besov hypothesis
+  makes the flux across ℓ at most of order ℓ^(3σ−1), which vanishes as
+  ℓ → 0 when σ > 1/3. So the non-zero mean flux that this account's
+  reading as fractions assumes is consistent only with σ₃ ≤ 1/3, and
+  Kolmogorov's 1/3 is the largest exponent at which a cascade can carry
+  energy to arbitrarily small scales.

@@ -21,8 +21,11 @@ refined_by:
 - QUESTION-tmpproc1
 answered_by:
 - THEORY-tmp3xg7a
+- THEORY-tmp45pcv
+- THEORY-tmpm2oxc
+- THEORY-tmpon8ox
 ---
-<!-- inactive-ok-file: LIT-tmpc7k0w LIT-tmpf5lvd LIT-tmpokskn LIT-tmptogwd LIT-tmpzunec — Deferred; works registered unread, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpon8ox — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 THEORY-481 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-tmp8qovh: When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
 
@@ -71,6 +74,31 @@ A2: "Crucially, the default should not be to assume these orderings agree."
     learning operator, so it says nothing about acquisition.
   - [CLAIM-tmphan8l](../claims.d/CLAIM-tmphan8l.md): among optimal compressions at different budgets the
     refinement order itself can fail to be a chain.
+- Third batch, read the same day:
+  - [THEORY-tmpm2oxc](../theory.d/THEORY-tmpm2oxc.md) (diffusion wavelets, [NOTE-tmpuwro4](../notes.d/NOTE-tmpuwro4.md)): the multilevel
+    version of the commuting case. The levels are octave bands of an
+    operator's spectrum, nested exactly for any operator with spectrum in
+    [0, 1]. Spectral decay buys compression, not nesting. The paper's
+    compressed algorithm thresholds T^(2^(j−1)), not the T^(2^j − 1) it
+    states.
+  - [THEORY-tmp45pcv](../theory.d/THEORY-tmp45pcv.md) (slow feature analysis, [NOTE-tmp6kiiy](../notes.d/NOTE-tmp6kiiy.md)): a third
+    commuting case. Slow features are the bottom of a generalized
+    eigenproblem, nested by eigenvalue. A stack of SFA stages is a
+    refinement chain by construction, and its slowness values cannot rise
+    from stage to stage on the training signal. Slow features are coarse
+    only in that sense: they include squares, products and location. The
+    paper says nothing on predictive sufficiency or learning dynamics.
+  - [THEORY-tmpon8ox](../theory.d/THEORY-tmpon8ox.md) (spectral bias, Proposed, [NOTE-tmpurwf1](../notes.d/NOTE-tmpurwf1.md)): a finite
+    ReLU network trained with Adam fits sinusoids in order of frequency,
+    even when amplitude rises tenfold with frequency. So in that setting
+    the learner, not the target's strength, sets the acquisition order,
+    against [THEORY-186](../theory.d/THEORY-186.md)'s order by singular value. Fourier bands are not a
+    refinement chain, so this order has no structural partner.
+    [THEORY-tmpuaxgt](../theory.d/THEORY-tmpuaxgt.md) is the paper's proved representational bound, which is
+    about what a network can contain, not about training.
+  - Open: where the amplitude ratio flips the order from by-frequency to
+    by-strength. The record has no formula for the product of the
+    learner's spectrum and the data's outside the kernel regime.
 
 What the record lacks is the condition under which a spectral order is a
 refinement order. A2's candidate ("Conjecture A", in its words "a

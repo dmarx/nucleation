@@ -19,6 +19,7 @@ summary: >-
   which of them the record's "one system" should track.
 answered_by:
 - THEORY-tmpj32n2
+- THEORY-tmpm2oxc
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-tmplru2n: Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?
@@ -52,6 +53,13 @@ the whole and a closure test finds the mode.
   their members "did not communicate with one another at all". Schema
   marginals close on the linkage-equilibrium manifold although rates
   between classes are as large as rates within them.
+- Coarse levels of an operator ([THEORY-tmpm2oxc](../theory.d/THEORY-tmpm2oxc.md), diffusion wavelets). Each
+  level is an exactly closed subspace, but its localized basis is a choice
+  the level does not fix. On three tight clusters the localized scaling
+  functions each sat on one cluster. On a circle, with no gap, no
+  localized coarse basis exists. So closure belongs to the subspace, and
+  blockhood to a basis that only a gap supplies, as [CLAIM-157](../claims.d/CLAIM-157.md) and
+  [CLAIM-164](../claims.d/CLAIM-164.md) would have it.
 - [CLAIM-157](../claims.d/CLAIM-157.md)'s guard: clearing a test is not being an agent or a self. A5
   kept it: "A newly discovered distributed collective mode should not
   automatically be treated as an individual, much less an agent."
