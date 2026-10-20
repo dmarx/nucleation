@@ -1,0 +1,72 @@
+# record/promotion-audit/decisions/THEORY-360.yaml
+id: THEORY-360
+batch: batch-074
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement plus a report of the authors' reading
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3. One study, Kirsh and Maglio (1994), read in full in NOTE-878
+    from the scan of the version of record posted on Kirsh's UCSD page, with
+    every quotation checked against the extracted text by script and the
+    figures read from page images. The fetch was not repeated here: the
+    UCSD host now redirects to HTTPS with a certificate that does not
+    verify, and the review did not bypass it. Kept, each with numbers in
+    the text or a table: "rotation begins in earnest by 400 to 600 ms and,
+    on occasion, at the very outset of an episode", some rotations "before
+    100 ms" while the zoid "is not yet completely in view" (text, with
+    Figure 7); and in Table 1, mean drop distance after the
+    translate-to-wall routine is longer than for ordinary drops at every
+    skill level (13.18 against 19.04 squares, 13.69 against 19.33, 15.65
+    against 20.05), each difference significant by a t test at .05.
+  excluded: >-
+    Over-rotation ("rotate pieces more often ... than planning a placement
+    and then executing it requires") rests on Figure 6 alone: NOTE-878 says
+    no numbers are printed and the number of players and episodes is not
+    stated, so ADR-047 v3's rule (one figure with no numbers in the text is
+    not enough) takes it out of the measured title. "Checking the column
+    more the higher the drop" is the rising proportion in Figure 15, also
+    without printed numbers; the narrowed title keeps the Table 1
+    comparison instead. "Kirsh and Maglio read these moves as physical
+    action standing in for mental computation ... a saving argued from
+    timing, not measured" reports the authors' interpretation; it leaves
+    the title rather than wait on the open report-title question.
+  dropped_clause_routes:
+    - clause: "players rotate pieces more often than plan-then-act requires, and check the column more the higher the drop"
+      route: kind 1, asserted by the source (Figure 6, Figure 15 and their text)
+      carrier: the new Proposed THEORY below, which states it with the reading it supports
+    - clause: "these moves are physical action standing in for mental computation at the moment of use (epistemic action)"
+      route: kind 1, the source's thesis
+      who_asserts: >-
+        LIT-1054, Kirsh and Maglio, Discussion and the five epistemic uses
+        of rotation; restated in LIT-1076, Kirsh (1995) §5.1.
+      carrier: >-
+        A new Proposed THEORY, sources LIT-1054 and LIT-1076, extends
+        THEORY-360, inheriting its promote_when (the action-cost
+        experiment) unchanged.
+    - clause: "a saving argued from timing, not measured"
+      route: kind 3, a hedge on the reading; it goes with the reading into the new entry's body
+  moved_to_question: >-
+    Nothing. The promote_when tests the epistemic reading, so it moves with
+    that reading to the new Proposed THEORY. The narrowed entry keeps
+    answering QUESTION-095, as the measured instance of offloading at the
+    moment of use.
+evidence:
+  - "LIT-1054, read in full in NOTE-878 (version-of-record scan: text, Table 1, Figures 6, 7, 10 and 15 from page images)."
+contradictions_in_record: >-
+  None. NOTE-878 notes that the text's "about 13" and "about 19" squares
+  for experts match the intermediate and advanced rows of Table 1 rather
+  than the expert row; the narrowed title quotes the table.
+blockers: []
+notes: >-
+  Confidence is medium: the number of players behind Table 1 is not given
+  in NOTE-878 beyond the three skill levels, and no score was compared with
+  and without the moves. Neither touches the narrowed title, which claims
+  only the timing and the drop-length difference.

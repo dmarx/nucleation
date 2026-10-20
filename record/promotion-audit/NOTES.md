@@ -2051,3 +2051,88 @@ history note. THEORY-277 is requeued on this basis.
   earlier sweep entry with the same mechanism from different sources
   (THEORY-816 beside THEORY-785); check for overlap before filing and say
   how they differ in the body.
+
+## 2026-10-20 — batch 073 (triage-007 measurement route 6-10)
+
+- Hand against classifier: 3 of 5 agree (THEORY-333, -376, -421, all
+  measurement). The two misses, THEORY-680 and THEORY-684 at margin 3, are
+  a psychology framework whose one empirical clause is a review's report
+  of other studies, and a philosophy argument on testimony. Both titles
+  state findings in the indicative ("has different consequences",
+  "holds"), which reads as measurement to a title classifier.
+- Measurement titles already written to the study (THEORY-333, -376)
+  promote with little or no change; the yield came from earlier careful
+  filing, not from this review.
+- Figure inset statistics count as numbers in the text for ADR-047 v3 when
+  the PDF text layer carries them: THEORY-421's Figure 2 ROOT, MIN, MEAN
+  and MAX values are in the extracted text of arXiv:2306.09118v1, and the
+  paper's prose repeats two of them.
+- A formal remark inside a measurement title can be kept if it is re-
+  derived and stated conditionally (THEORY-421's "a loss built only on
+  pairwise distances leaves the origin arbitrary"); here the condition
+  matters, because HGCN's node-classification loss is not pairwise-only.
+- Reading task: THEORY-680's reappraisal-suppression contrast could be
+  split off as a measured THEORY once Gross (1998, JPSP 74:224-237) is
+  read; the framework itself goes to wave 5.
+- After the PR merges, three tmp codes in this file and in
+  decisions/THEORY-421.yaml need their permanent codes.
+
+## 2026-10-20 — batch 074 (triage-007 measurement route 11-15)
+
+- Hand against classifier: 2 of 5 agree. All five sit at margin 3, and the
+  three misses are arguments whose titles use empirical words ("empirical
+  hypothesis", "open empirical question", "may exploit a cognitive
+  process"). With batch 063 (3 of 5 at margins 3-4), the measurement label
+  below margin 4 looks no better than a coin.
+- ADR-047 v4 changes what a narrowing PR carries. In both narrowings here
+  the old promote_when tested the dropped claim rather than the
+  measurement, so it moved with that claim to the new Proposed carrier
+  instead of to a QUESTION. Expect this whenever a title's measured part
+  is fully supported and its promote_when asks for something else.
+- A figure with no printed numbers keeps a clause out of an Active title
+  under v3, but under v4 it need not be lost: THEORY-360's over-rotation
+  result is carried, with the reading it supports, by the Proposed entry.
+- The UCSD copy of Kirsh and Maglio (adrenaline.ucsd.edu) now redirects to
+  HTTPS with a certificate that does not verify from here; NOTE-878's
+  reading, with its script-checked quotations, was relied on. arXiv PDFs
+  fetch fine.
+
+## 2026-10-20 — batch 075 (triage-007 measurement route 16-20)
+
+- Hand against classifier at margin 2: 3 of 5 agree. The two misses
+  (THEORY-495, -575) are theses whose titles list measured-sounding
+  examples or behaviours; both were the ones the directive flagged. Over
+  batches 063 and 075 the measurement label is right outright on 6 of 10
+  and partly on 1, better than the theorem label at margin 2-3.
+- Under v4, when a narrowed entry's old promote_when tests exactly the
+  claim the narrowing sets aside, it goes with that claim to the new
+  Proposed THEORY and no QUESTION is needed: the Proposed entry is the
+  record's test. All three promotions here took that route.
+- THEORY-766 needed no clause removed: its title claimed no causal
+  attribution, but "raises reports" invited one. Appending the expectation
+  confound makes the v3 condition plain, and the causal reading the
+  promote_when tests is a source's thesis (Ehrsson et al.), so it gets a
+  Proposed carrier rather than a QUESTION.
+- THEORY-105's edge clause failed v3's figures rule (extrapolation curves
+  read only from captions), so the measured part kept is narrower than the
+  old title's headline. Rendering App. F/G from the arXiv PDF could later
+  support an edge clause on the narrowed entry.
+- THEORY-495 is a reading task before it is a wave-5 argument: one primary
+  study read in full (Hamann et al. 2011, Nature 476) would let the
+  sharing contrast split off as a measured THEORY.
+
+## 2026-10-20 — round 073-075 tally (triage-007 measurement route 6-20)
+
+- 8 of 15 promoted, all under ADR-047 v4: every narrowing filed its
+  dropped generalization as a Proposed THEORY in the same PR (THEORY-823 to
+  THEORY-828), or noted it when it was a mis-statement (THEORY-376).
+- Hand sort against triage-007's measurement label: 8 of 15 agree. All 7
+  misses are arguments whose titles use empirical words or list measured-
+  sounding examples (THEORY-547, -436, -627, -680, -684, -495, -575).
+  Across batches 063 and 073-075 the measurement label is right on 11 of
+  20; below margin 4 the hand sort decides.
+- When the narrowed entry's old promote_when tested exactly the dropped
+  claim, it moved to the new Proposed carrier and no QUESTION was needed.
+- Owner, 2026-10-20: a pre-acceptance manuscript read in full meets "one
+  study read in full" (THEORY-123, Barsade 2001).
+- adrenaline.ucsd.edu fails TLS verification from here; arXiv fetches.

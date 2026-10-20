@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-376.yaml
+id: THEORY-376
+batch: batch-073
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3. One study, Dar, Franklin, Jonsson, Srivastava and Tan (VLDB
+    1996, LIT-1113), read in full in NOTE-904 from the VLDB Endowment's copy,
+    with Tables 1-3 and Figures 4-9 read from rendered page images. The
+    title is a simulation result with its own hedge (probe and remainder
+    computation not charged). Kept, each stated in the running text and
+    shown in a figure: on the clustered indexed attribute the three
+    architectures "perform similarly" (Figure 4); on the unclustered indexed
+    attribute page caching "performs far worse" (Figure 5); on an unindexed
+    attribute with a disk cache, where every server request costs a full
+    scan, "over 60% of the small (1%) queries are answered completely from
+    the client's cache" (Figures 7-8).
+  excluded: >-
+    One precision, not a dropped thesis: the old title gave "answered over
+    60% of small queries without contacting the server" with no condition.
+    The paper reports it for 1% queries on the unindexed attribute with a
+    disk cache only; the narrowed title says so.
+  moved_to_question: >-
+    The promote_when, unchanged, to a new QUESTION: a measurement in an
+    implemented client-server system, or a simulation that charges the
+    client for computing probe and remainder queries and for maintaining
+    region descriptions, that reproduces the ordering.
+dropped_clauses:
+  - clause: "over 60% of small queries answered without contacting the server, unconditioned"
+    route: note (ADR-047 v4 kind 3, a mis-statement corrected by the exact condition)
+evidence:
+  - "LIT-1113, read in full in NOTE-904; figures and tables read from page images."
+contradictions_in_record: none found. CLAIM-303 prices reuse at a fixed cost; this does not contradict it.
+blockers: []
+notes: >-
+  Proposed new title: In a simulated single-client, read-only database
+  answering selection queries on one relation, describing cached data by
+  the predicates of past queries let each query be answered partly from
+  cache, with only the remainder Q AND NOT V sent to the server; this
+  matched page caching on a clustered index, beat it on an unclustered one,
+  and, on an unindexed attribute with a disk cache, answered over 60% of 1%
+  queries without contacting the server; the cost of computing probe and
+  remainder queries was not charged. Confidence medium: one simulator, one
+  synthetic relation, three runs.

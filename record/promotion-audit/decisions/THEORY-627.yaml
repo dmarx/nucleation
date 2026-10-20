@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/THEORY-627.yaml
+id: THEORY-627
+batch: batch-074
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: an argument about oversight, with a prescription
+hand_label: argument
+triage_007_label: measurement
+agrees_with_classifier: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Schmauder et al. (2023), LIT-179, read in NOTE-171, argue that a nudge a
+    learning system discovers comes with no prior theory of why it works,
+    that judging it by outcomes cannot diagnose its side effects, and that
+    oversight needs inspection by experts in human cognition. Nothing is
+    measured; the title's "may exploit a cognitive process no theory yet
+    describes" is a possibility the argument rests on.
+  excluded: >-
+    Both demonstrations the promote_when asks for (a learned policy shown to
+    use an undocumented cognitive process, and a test of expert oversight
+    against outcome monitoring) are absent from the source and the record.
+  dropped_clause_routes: []
+evidence:
+  - "LIT-179, read in NOTE-171 (an argument paper)."
+contradictions_in_record: none found
+blockers:
+  - "The two demonstrations the promote_when names."
+recommended_wave: 5
+notes: >-
+  Triage-007 called this a measurement (margin 3); it is an argument. The
+  possibility clause is not a rate claim, so the CLAIM-238 prevalence rule
+  does not apply.

@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/THEORY-547.yaml
+id: THEORY-547
+batch: batch-074
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: an argument from an idealization, with an empirical question it leaves open
+hand_label: argument (with a definitional core)
+triage_007_label: measurement
+agrees_with_classifier: false
+formal_in_fact: partly
+scope:
+  accepted: >-
+    Bottou and Schölkopf (2023), LIT-178, read in full in NOTE-102, is an
+    essay. Its idealized model, which continues any text with a plausible
+    next word from the collection of all plausible texts, follows narrative
+    coherence and not truth almost by definition, since nothing in the
+    collection marks a continuation as true. The promote_when says as much:
+    "The idealization itself is a definition and needs no test." Nothing is
+    measured.
+  excluded: >-
+    The title's weight is on what the idealization says about trained and
+    aligned chat models, which it calls open. That needs the evidence the
+    promote_when names (a frame-independent truth variable that steers what
+    deployed models assert, or its absence), none of which the source or the
+    record holds.
+  dropped_clause_routes: []
+evidence:
+  - "LIT-178, read in full in NOTE-102 (an essay; no data)."
+contradictions_in_record: none found
+blockers:
+  - >-
+    The promote_when asks for evidence about deployed models' internal
+    truth representations across frames. That evidence is empirical
+    interpretability work the record does not hold.
+  - >-
+    The definitional core could be split under ADR-040, as THEORY-476's
+    was proposed to be. Whether to split definitional cores is the open
+    owner question (THEORY-110, -673, -476), so it is not split here.
+recommended_wave: 5
+notes: >-
+  Triage-007 called this a measurement (margin 3); it is argument-shaped,
+  a conditional on an idealization. Not a promotion candidate on any
+  reading the record can support now.

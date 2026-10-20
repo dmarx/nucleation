@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 164
+version: 168
 updated: '2026-10-20'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
@@ -9,26 +9,28 @@ handoff:
   batch: null
   state: between batches
   in_review: []
-  next_step: '#275-#281 merged; tmp codes in decisions/ and batches/060-064 concretized (THEORY-778, -779,
-    CLAIM-395, QUESTION-232..236). ADR-047 v4 (#283, merged): a narrowing routes each dropped clause to
-    a Proposed THEORY (kind 1), a Proposed interpretive CLAIM (kind 2), a note (kind 3) or a QUESTION
-    (kind 4). Sweep batches 065-072 merged (#284-#287, #289, #291-#293): 40 codes, 39 new Proposed entries
-    (THEORY-780..817, CLAIM-396); THEORY-362 and -377 were not narrowing losses. The sweep is done except
-    narrowing_sweep.held_for_owner, which waits on the rulings below. Owner rulings needed (narrowing_sweep.held_for_owner):
-    report form vs direct form for titles of sources'' wide claims (batch 069 used direct); THEORY-163
-    causal reading as its own Proposed THEORY; unchecked source theorems as separate Proposed THEORYs
-    or body only (THEORY-158, -160, -171, -244, -247, -318, -367, -387, -478); THEORY-334 against its
-    Active rival THEORY-346; THEORY-246 kind 3 vs 1; THEORY-161, -290 kind 1 vs 2; THEORY-026 needs LIT-041
-    checked. After the sweep: triage-007 measurement route 6-20 (4 of 5 in batch 063), then theorem route
-    margin >= 4 only. Other owner questions open: narrow THEORY-646''s promote_when to its title; THEORY-039
-    as an interpretive CLAIM; record-own results filed Active (CLAIM-384, -385, -391, and CLAIM-395);
-    skimmed peer-reviewed proof as "a proof" (THEORY-188, -270, -763); report titles (THEORY-344, -351,
-    -071, -628, -336); conditional theorems with promote_when moved to a QUESTION (THEORY-185, -133, -419,
-    -527, -204, -243); splits of textbook or toy-model theorems (THEORY-110, -673, -209, -476 definitional
-    core, -529 not split); Propp selection point as an objection claim; closed sources (Ney 2016/2021,
-    Mandelkern, Geisler 1989, Propp schemes, Ladyman 1998); THEORY-073; CLAIM-143; THEORY-321; CLAIM-139;
-    CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160; CLAIM-322, CLAIM-251, THEORY-157,
-    THEORY-277. THEORY-675 to the anthology is moot under ADR-048.'
+  next_step: 'Batches 073-075 (triage-007 measurement route 6-20) merged (#296-#298): 8 of 15 promoted,
+    each narrowing with its dropped claim filed as a Proposed THEORY under ADR-047 v4 (THEORY-823..828);
+    the 7 retained are arguments the classifier called measurements (THEORY-547, -436, -627, -680, -684,
+    -495, -575). Next: triage-007''s remaining routes are exhausted at margin >= 3 for measurements; the
+    theorem route 16-30 and the argument class go to wave 5 or a new triage. Sweep batches 065-072 merged
+    (#284-#287, #289, #291-#293): 40 codes, 39 new Proposed entries (THEORY-780..817, CLAIM-396); THEORY-362
+    and -377 were not narrowing losses. The sweep is done except narrowing_sweep.held_for_owner, which
+    waits on the rulings below. Owner rulings needed (narrowing_sweep.held_for_owner): report form vs
+    direct form for titles of sources'' wide claims (batch 069 used direct); THEORY-163 causal reading
+    as its own Proposed THEORY; unchecked source theorems as separate Proposed THEORYs or body only (THEORY-158,
+    -160, -171, -244, -247, -318, -367, -387, -478); THEORY-334 against its Active rival THEORY-346; THEORY-246
+    kind 3 vs 1; THEORY-161, -290 kind 1 vs 2; THEORY-026 needs LIT-041 checked. After the sweep: triage-007
+    measurement route 6-20 (4 of 5 in batch 063), then theorem route margin >= 4 only. Other owner questions
+    open: THEORY-684 as a prevalence claim (CLAIM-238 rule); THEORY-547 definitional-core split; narrow
+    THEORY-646''s promote_when to its title; THEORY-039 as an interpretive CLAIM; record-own results filed
+    Active (CLAIM-384, -385, -391, and CLAIM-395); skimmed peer-reviewed proof as "a proof" (THEORY-188,
+    -270, -763); report titles (THEORY-344, -351, -071, -628, -336); conditional theorems with promote_when
+    moved to a QUESTION (THEORY-185, -133, -419, -527, -204, -243); splits of textbook or toy-model theorems
+    (THEORY-110, -673, -209, -476 definitional core, -529 not split); Propp selection point as an objection
+    claim; closed sources (Ney 2016/2021, Mandelkern, Geisler 1989, Propp schemes, Ladyman 1998); THEORY-073;
+    CLAIM-143; THEORY-321; CLAIM-139; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160;
+    CLAIM-322, CLAIM-251, THEORY-157, THEORY-277. THEORY-675 to the anthology is moot under ADR-048.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -41,6 +43,8 @@ handoff:
   - 'ADR-043 v2: warrant records present support; an untested empirical claim is interpretive.'
   - 'Owner, 2026-10-19: a possibility thesis whose defeater tests a rate is restated as a prevalence claim
     (easier to corroborate, harder to reject), per CLAIM-238; do not restate the defeater instead.'
+  - 'Owner, 2026-10-20: a pre-acceptance manuscript read in full meets ADR-047 v3''s "one study read in
+    full" (THEORY-123).'
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
@@ -52,8 +56,8 @@ waves:
   promotion_paths: 46
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 157
-  promotion_paths: 109
+  reviewed: 172
+  promotion_paths: 117
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -3387,7 +3391,128 @@ candidates:
   disposition: promote
   batch: owner-directed-2026-10-20
   decision: decisions/THEORY-771.yaml
-  note: 'Filed as THEORY-tmp5mn7l (Bousquet and Slotine); promoted at the owner''s direction.'
+  note: Filed as THEORY-tmp5mn7l (Bousquet and Slotine); promoted at the owner's direction.
+- code: THEORY-333
+  wave: 3
+  triage: batch-073
+  state: decided
+  disposition: promote
+  batch: batch-073
+  decision: decisions/THEORY-333.yaml
+  carried_out_in:
+  - '#297'
+- code: THEORY-376
+  wave: 3
+  triage: batch-073
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-073
+  decision: decisions/THEORY-376.yaml
+  carried_out_in:
+  - '#297'
+- code: THEORY-421
+  wave: 3
+  triage: batch-073
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-073
+  decision: decisions/THEORY-421.yaml
+  carried_out_in:
+  - '#297'
+- code: THEORY-680
+  wave: 3
+  triage: batch-073
+  state: decided
+  disposition: retain-proposed
+  batch: batch-073
+  decision: decisions/THEORY-680.yaml
+- code: THEORY-684
+  wave: 3
+  triage: batch-073
+  state: decided
+  disposition: retain-proposed
+  batch: batch-073
+  decision: decisions/THEORY-684.yaml
+- code: THEORY-360
+  wave: 3
+  triage: batch-074
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-074
+  decision: decisions/THEORY-360.yaml
+  carried_out_in:
+  - '#296'
+- code: THEORY-547
+  wave: 3
+  triage: batch-074
+  state: decided
+  disposition: retain-proposed
+  batch: batch-074
+  decision: decisions/THEORY-547.yaml
+- code: THEORY-674
+  wave: 3
+  triage: batch-074
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-074
+  decision: decisions/THEORY-674.yaml
+  carried_out_in:
+  - '#296'
+- code: THEORY-436
+  wave: 3
+  triage: batch-074
+  state: decided
+  disposition: retain-proposed
+  batch: batch-074
+  decision: decisions/THEORY-436.yaml
+- code: THEORY-627
+  wave: 3
+  triage: batch-074
+  state: decided
+  disposition: retain-proposed
+  batch: batch-074
+  decision: decisions/THEORY-627.yaml
+- code: THEORY-123
+  wave: 3
+  triage: batch-075
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-075
+  decision: decisions/THEORY-123.yaml
+  carried_out_in:
+  - '#298'
+- code: THEORY-495
+  wave: 3
+  triage: batch-075
+  state: decided
+  disposition: retain-proposed
+  batch: batch-075
+  decision: decisions/THEORY-495.yaml
+- code: THEORY-575
+  wave: 3
+  triage: batch-075
+  state: decided
+  disposition: retain-proposed
+  batch: batch-075
+  decision: decisions/THEORY-575.yaml
+- code: THEORY-766
+  wave: 3
+  triage: batch-075
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-075
+  decision: decisions/THEORY-766.yaml
+  carried_out_in:
+  - '#298'
+- code: THEORY-105
+  wave: 3
+  triage: batch-075
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-075
+  decision: decisions/THEORY-105.yaml
+  carried_out_in:
+  - '#298'
 history:
 - version: 1
   date: '2026-10-19'
@@ -4056,6 +4181,30 @@ history:
   note: 'Narrowing sweep batches 070-072 integrated (#291-#293): 15 codes, 13 new Proposed THEORYs (THEORY-805..817);
     2 found not to be narrowing losses. Sweep complete except the 13 codes held for the owner. batch-071.yaml
     made parseable; check.py now parses every batch file.'
+- version: 165
+  date: '2026-10-20'
+  note: 'Batch 073 integrated: 3 of 5 promoted, all on one fully read study each (ADR-047 v3). THEORY-333''s
+    title already claimed no more than was measured. THEORY-376 gained the condition its 60% figure was
+    measured under. THEORY-421 was narrowed to HGCN on two synthetic trees, its numbers re-checked against
+    the arXiv PDF and its formal clause re-derived; the general claim for hyperbolic models is filed as
+    a new Proposed THEORY (ADR-047 v4 kind 1). THEORY-680 and THEORY-684 are arguments the classifier
+    called measurements.; carried_out_in #297'
+- version: 166
+  date: '2026-10-20'
+  note: 'Batch 074 integrated: 2 of 5 have a promotion path. THEORY-674 narrows to its extraction''s series
+    with the controlled slope beside it, and THEORY-360 to the timing and Table 1 comparison; each narrowing''s
+    dropped claim is the source''s own thesis and is filed as a new Proposed THEORY in the same PR (ADR-047
+    v4). THEORY-547, -436 and -627 are arguments the classifier called measurements.; carried_out_in #296'
+- version: 167
+  date: '2026-10-20'
+  note: 'Batch 075 integrated: 3 of 5 promoted under ADR-047 v3, each narrowed to the setting and measure
+    the study used, with the wider claim each narrowing set aside filed under v4 as a new Proposed THEORY
+    that extends it and carries its former promote_when (three new entries). THEORY-495 and THEORY-575
+    are theses, as the directive suspected, and stay Proposed.; carried_out_in #298'
+- version: 168
+  date: '2026-10-20'
+  note: 'Round 073-075 tally: 8 of 15 promoted (#296-#298); owner rules a pre-acceptance manuscript read
+    in full counts (THEORY-123); hand-off updated.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
 narrowing_sweep:
   procedure: record/decisions.d/ADR-047.md (v4)

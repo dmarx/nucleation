@@ -1,0 +1,34 @@
+# record/promotion-audit/decisions/THEORY-575.yaml
+id: THEORY-575
+batch: batch-075
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: a metaphysical classification (two kinds of social group)
+hand_label: argument
+triage_007_label: measurement
+agrees_with_classifier: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    None. Ritchie (2020), LIT-486, read in full in NOTE-389, offers a
+    framework to "motivate": three accounts of gender are shown to fit it,
+    rivals are not argued against, and the exclusion of arbitrary
+    collections is done by a restriction the framework imports (p. 410).
+    Nothing in it is a measurement or a theorem.
+  excluded: >-
+    The whole title is the thesis. The promote_when asks for arguments (a
+    case the framework must treat as a node and cannot, or a prediction a
+    rival does not make; an exclusion principle derived from
+    structuralism), which only a wave-5 review can weigh.
+blockers:
+  - "Its promote_when: an argument that the feature-group half is more than a redescription, and an exclusion principle derived from the framework."
+notes: >-
+  The classifier's margin-2 measurement call came from the listed examples
+  (teams, courts, families; women, racial groups, classes). It is a thesis,
+  as the directive suspected. Recommend wave 5 only if its premises or
+  rivals change.
+unlocks: []
+next_action: "Wave 5, if premises or rivals change."

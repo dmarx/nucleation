@@ -1,0 +1,69 @@
+# record/promotion-audit/decisions/THEORY-674.yaml
+id: THEORY-674
+batch: batch-074
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement of an extraction, with the economics claim it is taken to show
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3. One study, Garg and Fetzer, "Causal Claims in Economics"
+    (arXiv:2501.06873v2), read in full in NOTE-083. This review fetched the
+    same v2 PDF and checked the kept numbers against its running text (§3):
+    "In 1990, the average proportion of causal edges was 7.7%. By 2000, it
+    had risen to 8.6% ... by 2010 ... 21.5%, and by 2020, it climbed to
+    31.7% (reaching 32.6% by 2023)"; and "the unadjusted rise in
+    share-causal-claims is +0.0187 per decade; controlling for field
+    composition yields +0.0174 per decade; and adding conservative controls
+    for method mix and graph volume yields +0.0011 per decade". The
+    direction holds at every edge-overlap threshold (Fig. A1) and the level
+    rises with the threshold (Table A10: 0.152 at EO = 1, 0.225 at EO = 4,
+    0.270 at EO = 9), both in NOTE-083. The narrowed title states what was
+    measured: the share of edges that GPT-4o-mini labelled design-based in
+    the authors' pipeline, and the controlled slope, with the absence of an
+    edge-level check against human labels.
+  excluded: >-
+    The old title's subject is "the share of claims backed by a design-based
+    identification strategy", which the extraction is taken to measure. No
+    edge was checked against a human label, the paper-level RCT label has
+    F1 about 0.03, and the controlled slope is about a seventeenth of the
+    unadjusted one, so the review cannot say the rise is in economics rather
+    than in the extractor. That clause leaves the title. "About fourfold" is
+    dropped with it; the narrowed title gives the levels.
+  dropped_clause_routes:
+    - clause: "the share of claims in NBER and CEPR working papers backed by a design-based identification strategy rose about fourfold from 1990 to 2020"
+      route: kind 1, a generalization the source asserts
+      who_asserts: >-
+        LIT-079, Garg and Fetzer §3: "This upward trend indicates that
+        economic papers have increasingly incorporated causal inference
+        methods to substantiate their claims over the past three decades."
+      carrier: >-
+        A new Proposed THEORY, same source, extends THEORY-674, inheriting
+        its promote_when (the edge-level audit against human labels)
+        unchanged.
+    - clause: "as measured by an LLM extraction whose edges were never checked against human labels"
+      route: kept in the narrowed title
+  moved_to_question: >-
+    Nothing. The promote_when (an edge-level audit against human labels)
+    tests the economics claim, not the measurement, so it moves with that
+    claim to the new Proposed THEORY instead of to a QUESTION.
+evidence:
+  - "LIT-079, read in full in NOTE-083 (arXiv v2, §2-§3, Tables A6-A7, A10, Figures 2 and A1); the §3 numbers re-checked here against the v2 PDF text."
+contradictions_in_record: >-
+  None against the measured series. NOTE-083 notes that the per-decade
+  units are hard to square with the headline levels (+0.0187 per decade
+  against a rise of about 0.08 per decade) and that the promised robustness
+  table is absent; the narrowed title gives both numbers as the paper
+  states them and says the units are the paper's.
+blockers: []
+notes: >-
+  Confidence is medium. The measurement is of a pipeline's output, which is
+  what the narrowed title says; its interest lies in the gap between the raw
+  and the controlled slopes, which is the evidence the wide thesis has to
+  answer.
