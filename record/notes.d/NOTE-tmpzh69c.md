@@ -265,7 +265,7 @@ Lessig's.
 
 ## Bearing on the record
 
-- **Lessig's copy trigger (LIT-tmpreyek, NOTE-tmptp3k0).** This is the
+- **Lessig's copy trigger ([LIT-tmpreyek](../literature.d/LIT-tmpreyek.md), [NOTE-tmptp3k0](NOTE-tmptp3k0.md)).** This is the
   closest contact, and the two books agree on the mechanism. Lessig: the
   1909 Act made copyright regulate "copies", every digital use makes one,
   so the law now reaches ordinary use (pp. 97–103 of *Remix*). Perzanowski
@@ -286,43 +286,43 @@ Lessig's.
   work: the right to remake it and the right to keep it. The record has
   no claim yet that states the copy trigger as its own. If one is
   written, this book supplies the case law Lessig's sketch lacks.
-- **Doctorow on platforms (LIT-731, LIT-033; THEORY-150, THEORY-470).**
-  The connection is real but partial. THEORY-150 lists lock-in through
-  DRM among what sustains platform decay, and THEORY-470 names DMCA
+- **Doctorow on platforms ([LIT-731](../literature.d/LIT-731.md), [LIT-033](../literature.d/LIT-033.md); [THEORY-150](../theory.d/THEORY-150.md), [THEORY-470](../theory.d/THEORY-470.md)).**
+  The connection is real but partial. [THEORY-150](../theory.d/THEORY-150.md) lists lock-in through
+  DRM among what sustains platform decay, and [THEORY-470](../theory.d/THEORY-470.md) names DMCA
   § 1201 as what disabled the interoperability constraint. This book
   supports both steps with cases. DRM raised the cost of leaving iTunes
   until the labels abandoned it, quoting Doctorow's "roach motel"
   (pp. 133–134). § 1201 makes circumvention unlawful whether or not a use
   infringes (*Corley*, p. 132). Keurig and Lexmark used locks to tie
-  consumables, as in Doctorow's HP ink example (NOTE-041). The book also
+  consumables, as in Doctorow's HP ink example ([NOTE-041](NOTE-041.md)). The book also
   qualifies Doctorow. Courts have sometimes required a nexus to
   infringement before § 1201 bites (*Chamberlain*, Federal Circuit;
   *Lexmark*, Sixth Circuit; pp. 137–138), so the law is less uniformly hostile to
-  interoperability than NOTE-041's talk implies. The book says nothing
-  about the three-stage cycle of THEORY-150, or about competition,
-  regulation and worker power as THEORY-470's other constraints. It
+  interoperability than [NOTE-041](NOTE-041.md)'s talk implies. The book says nothing
+  about the three-stage cycle of [THEORY-150](../theory.d/THEORY-150.md), or about competition,
+  regulation and worker power as [THEORY-470](../theory.d/THEORY-470.md)'s other constraints. It
   supports the lock-in mechanism, not the decay schema.
-- **CLAIM-332 and QUESTION-119 (distributed uptake).** The book has
+- **[CLAIM-332](../claims.d/CLAIM-332.md) and [QUESTION-119](../questions.d/QUESTION-119.md) (distributed uptake).** The book has
   incidental cases of a loose population changing a firm's conduct.
   Microsoft dropped its Xbox One resale limits after "persistent and
   overwhelmingly negative feedback from customers" (p. 32). Keurig partly
   retreated after Facebook posts, Amazon reviews and a 10 percent stock
   drop (p. 150). A petition of over 100,000 led to the unlocking law
-  (p. 143). They fit CLAIM-332's pattern of separately motivated acts
+  (p. 143). They fit [CLAIM-332](../claims.d/CLAIM-332.md)'s pattern of separately motivated acts
   without a collective judgment. But they are chosen anecdotes, and the
   book itself says market pressure "is often only partly effective in
-  protecting consumer interests" (p. 150). That is QUESTION-119's caution.
+  protecting consumer interests" (p. 150). That is [QUESTION-119](../questions.d/QUESTION-119.md)'s caution.
   They are not evidence for the claim.
-- **CLAIM-002 (artifact identity).** The book's copy/work distinction is
-  the law's version of CLAIM-002's first relation, identity of the
+- **[CLAIM-002](../claims.d/CLAIM-002.md) (artifact identity).** The book's copy/work distinction is
+  the law's version of [CLAIM-002](../claims.d/CLAIM-002.md)'s first relation, identity of the
   artifact. The book's point is that in digital media the artifact no
   longer has a stable identity: copies "flit into and out of existence"
   (p. 46). Even "the definition of the work" becomes hard for copyright
   (p. 181). That bears on how the record uses artifact identity for
   digital texts. It says nothing about retelling or translation.
-- **No bearing** on CASE-100 or CLAIM-034. The book is about consumption
+- **No bearing** on [CASE-100](../cases.d/CASE-100.md) or [CLAIM-034](../claims.d/CLAIM-034.md). The book is about consumption
   and transfer, not making new work, and excludes remix. It has no bearing
-  on QUESTION-002, QUESTION-023, CLAIM-210 or CLAIM-220 either. Its
+  on [QUESTION-002](../questions.d/QUESTION-002.md), [QUESTION-023](../questions.d/QUESTION-023.md), [CLAIM-210](../claims.d/CLAIM-210.md) or [CLAIM-220](../claims.d/CLAIM-220.md) either. Its
   remarks that owned things "help define who we are" (p. 53) and on Hegel
   (p. 22) are passing, and bear on nothing in the personhood line.
 - No instruction for machine-learning practice, and not held by the
@@ -377,4 +377,4 @@ Lessig's.
   private reading or running then fall inside copyright, as Mulligan's
   display-and-performance proposal suggests (p. 185)?
 - For the record: does the loss of a stable artifact in digital media
-  change what CLAIM-002's first relation can do for digital texts?
+  change what [CLAIM-002](../claims.d/CLAIM-002.md)'s first relation can do for digital texts?

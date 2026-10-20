@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-20 (NOTE-tmpzh69c) in full except the last page of the Conclusion, which the copy lacks; worth reading as the standard account of how licences, DRM and the copy-centred law of exhaustion turn digital purchases into conditional access, with the case law from Bobbs-Merrill to Lexmark v. Impression Products, a survey showing that "Buy Now" misleads buyers, and a proposed multifactor test for digital exhaustion. Its diagnosis is the consumer side of Lessig''s copy trigger: exhaustion is tied to owning a copy, and digital use and transfer make new copies. Read it knowing that it is US law as of early 2016, that it is advocacy by two authors who were parties or counsel in several of its episodes, that the survey is their own and of a mock store, and that several of its pending cases have since been decided.'
+status_note: 'read 2026-10-20 ([NOTE-tmpzh69c](../notes.d/NOTE-tmpzh69c.md)) in full except the last page of the Conclusion, which the copy lacks; worth reading as the standard account of how licences, DRM and the copy-centred law of exhaustion turn digital purchases into conditional access, with the case law from Bobbs-Merrill to Lexmark v. Impression Products, a survey showing that "Buy Now" misleads buyers, and a proposed multifactor test for digital exhaustion. Its diagnosis is the consumer side of Lessig''s copy trigger: exhaustion is tied to owning a copy, and digital use and transfer make new copies. Read it knowing that it is US law as of early 2016, that it is advocacy by two authors who were parties or counsel in several of its episodes, that the survey is their own and of a mock store, and that several of its pending cases have since been decided.'
 title: 'The End of Ownership: Personal Property in the Digital Economy'
 version: 1
 history:
@@ -67,7 +67,7 @@ Perzanowski, A., and Schultz, J. (2016). *The End of Ownership: Personal Propert
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpzh69c.*
+*From the reading, [NOTE-tmpzh69c](../notes.d/NOTE-tmpzh69c.md).*
 
 - **Licensed, not sold.** Digital retailers say the buyer gets a licence,
   not a copy: "Kindle Content is licensed, not sold, to you." (p. 4). The
@@ -104,11 +104,11 @@ Perzanowski, A., and Schultz, J. (2016). *The End of Ownership: Personal Propert
 ## Standing in the record
 
 Filed on 2026-10-20 at the owner's request, with Lessig's *Remix*
-(LIT-tmpreyek), as a second reading on what copyright's reliance on the
+([LIT-tmpreyek](LIT-tmpreyek.md)), as a second reading on what copyright's reliance on the
 copy does to ordinary use. It does not cite Lessig. It reaches the same
 copy-trigger diagnosis from the side of the buyer's property rather than
 the remixer's creativity, and it sets remix aside explicitly (p. 183). It
 quotes Doctorow on DRM lock-in (p. 134) and supplies the case law behind
 the lock-in and interoperability steps of the enshittification argument
-(THEORY-150, THEORY-470; LIT-731, LIT-033). How it bears on those and on
+([THEORY-150](../theory.d/THEORY-150.md), [THEORY-470](../theory.d/THEORY-470.md); [LIT-731](LIT-731.md), [LIT-033](LIT-033.md)). How it bears on those and on
 the translation line is set out in the reading.
