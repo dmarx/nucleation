@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpkpfpe
 title: "In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language and the plausibility prior are uniform over sets from which shared random nonsense is removed and translators are one-to-one, maximum likelihood with the prior alone translates without parallel data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense α, in the size of the source language and in the number of samples"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,12 @@ history:
     model and the lower bound stay in the body as the paper's statements.
     The former promote_when, a bound outside the uniform, lossless models,
     moves to QUESTION-195.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-tmpliiy2,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - translation
 - learning-theory
@@ -33,7 +39,10 @@ summary: >-
   O(log|Θ| / (α·min(m,|T|))) is tight up to a constant. Information-
   theoretic only. The prior substitutes for parallel data in learning the
   decoder, not for information in a message.
+extended_by:
+- THEORY-tmpliiy2
 ---
+<!-- inactive-ok-file: THEORY-tmpliiy2 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-170 CLAIM-054 — Proposed; theories and claim this account bears on, open -->
 
 # THEORY-270: In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language and the plausibility prior are uniform over sets from which shared random nonsense is removed and translators are one-to-one, maximum likelihood with the prior alone translates without parallel data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense α, in the size of the source language and in the number of samples
@@ -133,3 +142,14 @@ most a γ fraction of translations impossible under ρ.
 
 Not re-derived: the lower bound (Theorem 3.5, App. C.2) and the
 knowledge-graph bound (Theorem 3.2, App. D). The title claims neither.
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-tmpliiy2](THEORY-tmpliiy2.md)
+as Proposed, extending this entry. It carries the general reading this
+entry's title carried before batch 044 narrowed it to the common-nonsense
+model: that translation without parallel data, as of animal communication,
+is learnable from a plausibility prior over the target language alone, with
+error falling in the common ground and in the richness of the source
+language, as Goldwasser, Gruber, Kalai and Paradise frame it. This entry is
+its evidence and is not changed by the filing.

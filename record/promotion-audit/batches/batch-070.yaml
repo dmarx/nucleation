@@ -1,0 +1,48 @@
+# record/promotion-audit/batches/batch-070.yaml
+batch: '070'
+date: '2026-10-20'
+kind: narrowing-loss sweep (ADR-047 v4, triage-008)
+reviewed:
+- THEORY-256
+- THEORY-306
+- THEORY-255
+- THEORY-270
+- THEORY-293
+yield: 5 Proposed THEORYs filed for 5 narrowed entries (all kind 1); none re-classified; no status changed.
+filed:
+  THEORY-256:
+  - code: THEORY-tmpq57h3
+    kind: 1
+    who_asserts: LIT-986 (Shai et al., titled "Transformers learn factored representations"; NOTE-758 C2-C4)
+    answers: QUESTION-157
+    note: The architectural-bias inference (C5, weak) and persistence at convergence under strong noise (contradicted by Fig. 12) are left out of the title.
+  THEORY-306:
+  - code: THEORY-tmp0gm1u
+    kind: 1
+    who_asserts: LIT-231 (Assran et al.; NOTE-850 C3, C4, C7, all weak)
+    answers: QUESTION-171
+  THEORY-255:
+  - code: THEORY-tmpnk0sx
+    kind: 1
+    who_asserts: LIT-934 (Aerts; NOTE-808 C5 emergent-subspace model, C6 two-layer reading)
+    answers: QUESTION-156
+    note: The old title's "need an emergent concept" as a consequence of Theorem 9 stays kind 3 (the theorem forces only dropping the meet or the monotone weight); Aerts's emergence reading is filed as his thesis, with a new promote_when, since the old one tested the record's generalization of Theorem 9, which the narrowed entry now carries.
+  THEORY-270:
+  - code: THEORY-tmpliiy2
+    kind: 1
+    who_asserts: LIT-941 (Goldwasser, Gruber, Kalai and Paradise; framed by animal communication; NOTE-804 C1 strong, C3 weak beyond the models)
+    answers: QUESTION-195
+  THEORY-293:
+  - code: THEORY-tmptwk75
+    kind: 1
+    who_asserts: LIT-984 (Gu, Lyu, Li and Zhang; NOTE-796 C5, weak)
+    answers: QUESTION-176
+    note: The size exponent 1.152 against a predicted 1.283 is recorded against it; the PopQA extension (C6) is not filed.
+reclassified: []
+promotion_prs: []
+notes_for_ledger:
+- All five narrowings had moved their old promote_when to a QUESTION asking the dropped thesis (QUESTION-157, -171, -156, -195, -176); each new entry answers it.
+- THEORY-255's old promote_when tested the record's own generalization of Theorem 9 (now in the narrowed Active title), not the emergence thesis, so the new entry has its own promote_when; inheriting unchanged is not always right.
+- Counter-results in the same paper trimmed two suggested titles' scope (THEORY-256's strong-noise persistence; THEORY-293's PopQA extension left out).
+- The narrowing batches named in triage-008 contexts are batch-019, -033, -018, -044 and -036 (from the decision files); triage-008 does not record them, so check the decision file.
+owner_questions: []

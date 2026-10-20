@@ -18,6 +18,8 @@ summary: >-
   promoted on 2026-10-19 ([ADR-047](../decisions.d/ADR-047.md) v3). The embedding theorem is settled.
   Whether the training behaviour holds beyond one synthetic family and one
   objective, and what the lossy case costs, has not been measured.
+answered_by:
+- THEORY-tmpq57h3
 ---
 
 # QUESTION-157: Do networks trained on factored sequence processes other than Mess3 and Bloch Walk factors, or under an objective other than next-token prediction, also settle near the factored dimension in per-factor subspaces, and what loss gap does the factored representation pay when noise makes it lossy?
