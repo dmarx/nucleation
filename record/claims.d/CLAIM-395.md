@@ -1,5 +1,8 @@
 ---
+number: 395
 status: Active
+formerly:
+- CLAIM-tmp2pvi2
 title: "Under Montévil and Mossio's definition of closure, a closed set of constraints has at least two members, and if each constraint is produced at the time scale of a constraint in the set that generates it and not at the scale at which it is itself conserved, the set includes at least one slow and one fast dependence, so a system with a single constraint of its own cannot realise closure"
 version: 1
 history:
@@ -39,7 +42,7 @@ grounds:
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-085 — Proposed; the account this was filed from, which keeps the demarcation thesis, and the precedent named in the history; neither is leaned on -->
 
-# CLAIM-tmp2pvi2: Under Montévil and Mossio's definition of closure, a closed set of constraints has at least two members, and if each constraint is produced at the time scale of a constraint in the set that generates it and not at the scale at which it is itself conserved, the set includes at least one slow and one fast dependence, so a system with a single constraint of its own cannot realise closure
+# CLAIM-395: Under Montévil and Mossio's definition of closure, a closed set of constraints has at least two members, and if each constraint is produced at the time scale of a constraint in the set that generates it and not at the scale at which it is itself conserved, the set includes at least one slow and one fast dependence, so a system with a single constraint of its own cannot realise closure
 
 ## The claim
 

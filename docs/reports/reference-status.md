@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**485 documents cited without acknowledgement.** Not listed: 10099 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**485 documents cited without acknowledgement.** Not listed: 10105 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2834,7 +2834,7 @@ In relational frame theory the self is verbal behaviour's content, its process a
 
 Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
 
-4 citations in 2 files await a look; 45 other citations of it are acknowledged.
+4 citations in 2 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-194.md:31`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:59`](../../record/claims.d/CLAIM-194.md)
@@ -4286,7 +4286,7 @@ Goals pursued for identified or intrinsic reasons receive more sustained effort,
 
 A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them
 
-2 citations in 1 file await a look; 12 other citations of it are acknowledged.
+2 citations in 1 file await a look; 13 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:59`](../../record/questions.d/QUESTION-051.md)

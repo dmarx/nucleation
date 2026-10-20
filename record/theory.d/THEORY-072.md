@@ -33,7 +33,7 @@ history:
   date: '2026-10-20'
   note: >-
     The formal core of the record's reading of the 2015 closure is filed
-    as CLAIM-tmp2pvi2, Active and demonstrated, by the promotion audit
+    as CLAIM-395, Active and demonstrated, by the promotion audit
     (batch 064, ADR-032 and ADR-040): a closed set has at least two
     constraints and, under two stated readings of the time scales, a slow
     and a fast dependence, so a single-constraint system cannot realise
@@ -144,7 +144,7 @@ inference. The title states the line in the form common to the two
 papers.
 
 **2026-10-20.** The first half of this reading is now proved, not
-inferred: [CLAIM-tmp2pvi2](../claims.d/CLAIM-tmp2pvi2.md) shows from Definition 4 that a closed set has at
+inferred: [CLAIM-395](../claims.d/CLAIM-395.md) shows from Definition 4 that a closed set has at
 least two constraints, and, if each constraint is produced at the
 conserved scale of a generator in the set and not at its own, that it
 has both a slow and a fast dependence. The paper states the second
