@@ -21,7 +21,7 @@ answers:
 summary: >-
   Charvin, Catenacci Volpi and Polani (2023), [LIT-1258](../literature.d/LIT-1258.md), read in [NOTE-981](../notes.d/NOTE-981.md). It turns [QUESTION-220](../questions.d/QUESTION-220.md)'s Markov formulation into a finite check: nesting between two IB optima is a convex-hull inclusion of their decoder points, which a linear programme decides. The check is on given optima, and refinability asks for some pair. So a failed check settles the question only when the optima are certified globally optimal and unique. This entry adds that the information bottleneck's own convex-envelope dual can supply that certificate. Finite alphabets, two stages.
 supports:
-- CLAIM-tmpfqsca
+- CLAIM-392
 ---
 <!-- inactive-ok-file: THEORY-751 — Proposed; the rate–distortion analogue named for comparison, nothing here rests on it -->
 # THEORY-753: For finite X and Y, the information bottleneck is successively refinable from budget λ₁ to λ₂ > λ₁ iff some pair of optimal encoders forms a Markov chain X → T₂ → T₁, that is, iff the coarse optimal encoder is a garbling of a fine one; when the fine optimum's decoder points q(X|t₂) are affinely independent, this holds for that pair iff every decoder point q(X|t₁) of the coarse optimum lies in their convex hull, so a failed hull test on optima that are unique up to merging and relabelling proves that refinement fails

@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpht8fg
 paper: 'LIT-788'
 title: 'The Geometry of Causality'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -23,6 +23,15 @@ history:
     separability). Not read: the proofs (2.10). The landscapes are
     images and were followed from the prose. Skimmed, not Read, because
     most of the main text's worked material was not followed.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The proofs of Theorems 2.18, 2.19 and 2.25 and of Proposition 2.29
+    (§§2.10.11–2.10.18) were read and checked during the promotion review
+    of THEORY-580, against the definitions they take from The Topology of
+    Causality. Status stays Skimmed: the main text's worked material
+    beyond those proofs is as before. A dated note below records the
+    check.
 date: '2026-10-09'
 summary: >-
   Empirical models on any cover of a space of input histories are
@@ -198,3 +207,16 @@ proves the polytope and causal-fraction statements that the withdrawn
 - Whether the tight correlation between separable and local fractions in
   the contextually controlled switch is generic or by construction. The
   authors say it holds "by construction" in that example.
+
+## Note of 2026-10-20: the proofs read
+
+The proofs in §2.10.11–2.10.18 were read for [THEORY-580](../theory.d/THEORY-580.md)'s promotion. They
+are short and correct given the definitions in "The Topology of
+Causality" (arXiv 2303.07148): causal functions are assignments constant
+on tip-equivalence classes (its Eq. 9 and Obs. 2.12), and separable
+functions are those arising on a causally complete subspace, of which the
+causal completions suffice (its Def. 2.9 and Obs. 2.6). The one step left
+implicit, in the proof of Theorem 2.25, is that ⌈·⌉ is injective on the
+lowerset μ the restrictions land in; Theorem 2.19 applied to μ gives it.
+The citation numbers 4.x in the paper refer to an older version of that
+companion, as the Limitations above say.

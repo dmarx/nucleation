@@ -2,11 +2,11 @@
 
 # LITs with `tags` `databases`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Databases and data structures** — how stored data is organized so that it can be found and kept current — physical database design and index selection, materialized views and the choice of which answers to precompute, adaptive and self-organizing structures, lower bounds on lookup, caching and paging; and the cost of organizing ahead of use against organizing in use. Read for itself, not as ML practice: learned indexes and other machine-learning approaches go to the anthology (ADR-045).
 
-36 of 1261 LIT documents. Back to the [full index](../README.md).
+36 of 1284 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

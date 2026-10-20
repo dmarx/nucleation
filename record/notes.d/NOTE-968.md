@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmprcqzl
 paper: 'LIT-1201'
 title: 'Ince — Measuring multivariate redundant information with pointwise common change in surprisal'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-17'
@@ -21,6 +21,13 @@ history:
     I_ccs (scratchpad/iccs/iccs.py: iterative proportional fitting for P̂,
     then the sign rule of Def. 4.1) and reproduced the paper's examples
     before applying it to the record's.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Correction from the promotion audit (batch 056). Subset equality,
+    which the paper proves and this reading recorded as kept, fails for
+    I_ccs as defined: the proof cancels the co-information terms but
+    not the sign rule. See the dated note at the end.
 date: '2026-10-17'
 summary: >-
   I_ccs measures redundancy as the expected local co-information over only
@@ -34,7 +41,6 @@ summary: >-
   against Bertschinger et al.
 ---
 
-<!-- inactive-ok-file: THEORY-714 — Proposed; the account filed from this reading -->
 
 # NOTE-968: Ince — Measuring multivariate redundant information with pointwise common change in surprisal
 
@@ -112,7 +118,7 @@ can carry local misinformation the other source does not.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | I_ccs is a redundancy measure for any number of sources satisfying symmetry, self-redundancy, subset equality and independent identity | strong | §4.4, proved for these four |
+| C1 | I_ccs is a redundancy measure for any number of sources satisfying symmetry, self-redundancy, subset equality and independent identity | strong for three; false for subset equality (note of 2026-10-20) | §4.4, proved for these four |
 | C2 | I_ccs is not monotone, so its PID has negative atoms | strong | Table 7, checked |
 | C3 | Negative atoms are a necessary consequence of measuring overlapping content | interpretive | §§4.4, 8; supported by DBLXOR and by Rauh et al.'s theorem, not proved for every such measure |
 | C4 | Bertschinger et al.'s operational definition is not necessary for unique information | moderate | REDUCEDOR game (§4.3.1); a counterexample to necessity of their criterion, given the paper's game-theoretic premise |
@@ -202,3 +208,17 @@ can carry local misinformation the other source does not.
   conjectured monotone (§8).
 - Whether I_ccs satisfies Rauh's secret-sharing property in general (§8).
 - A partial entropy decomposition compatible with it (Ince 2017, not held).
+
+## Note of 2026-10-20: subset equality does not hold
+
+The promotion audit (batch 056) re-derived §4.4. The subset-equality
+proof (Eqs. 39–41) shows that the local co-information of a collection
+is unchanged when a source contained in another is added. That part is
+right. But Def. 4.1 keeps an event only if every source's local
+information has the same sign, and a source and a source containing it
+can disagree. Take A1 = X1 and A2 = (X1, X2) with
+p(x1, x2, s) ∝ (0,0,0) 0.2, (0,0,1) 0.05, (0,1,0) 0.05, (0,1,1) 0.2,
+(1,0,0) 0.3, (1,0,1) 0.2. Then I_ccs({1}{12}) = 0.0272 bit against
+I(S; X1) = 0.0073. The other kept properties, and every value this
+reading recomputed, stand. C1 is corrected above, and the summary's
+"keeps … subset equality" should be read with this note.

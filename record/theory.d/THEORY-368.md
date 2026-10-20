@@ -1,18 +1,21 @@
 ---
 number: 368
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpc25xn
-promote_when: >-
-  An independent run of the published hard instances with the released
-  HNSW, NSG and DiskANN code, at the parameters the paper states, that
-  finds recall@5 at or near zero until the search queue holds about a
-  tenth of the points. A proof that one of these builds needs a linear
-  number of scanned vertices on some family of inputs would be a
-  different and stronger THEORY, and would not promote this one; benchmark
-  results on natural data cannot settle it either way.
-title: "On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms"
-version: 1
+title: "On two-dimensional point sets constructed for the purpose, the authors' code for fast-preprocessing DiskANN, HNSW and NSG, at parameters from the original papers, in most cases found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶, and at that queue length ten graph indexes averaged recall@5 between 0.0 and 0.42; this is shown by experiment on one query per instance, and no theorem bounds these algorithms"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-368 (batch 053, ADR-047 v3): one study read in full,
+    rechecked against the arXiv text. The "until about 10%" clause is now
+    held to DiskANN, HNSW and NSG, the only indexes measured below that
+    queue length. Of the other seven, three were run from a survey's
+    reimplementations, not their authors' code. The promote_when asked for
+    an independent replication, which moves to QUESTION-230.
 tags:
 - databases
 - information-retrieval
@@ -30,7 +33,7 @@ summary: >-
   show that these indexes fail on natural data or natural queries.
 ---
 
-# THEORY-368: On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms
+# THEORY-368: On two-dimensional point sets constructed for the purpose, the authors' code for fast-preprocessing DiskANN, HNSW and NSG, at parameters from the original papers, in most cases found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶, and at that queue length ten graph indexes averaged recall@5 between 0.0 and 0.42; this is shown by experiment on one query per instance, and no theorem bounds these algorithms
 
 ## Source
 
@@ -94,3 +97,24 @@ does, and recall could have risen at small L.
 - [THEORY-370](THEORY-370.md): Kleinberg's r = 0 network has short paths no local
   searcher finds quickly; here the right point is reachable, but the
   links lead search through a decoy first.
+
+## Note of 2026-10-20: what the paper measured, rechecked
+
+Rechecked against arXiv 2310.19126v1 for the promotion audit (batch 053,
+[ADR-047](../decisions.d/ADR-047.md) v3).
+
+- **Below L = 0.1n, only three builds.** The paper runs DiskANN with fast
+  preprocessing (R = 70, L = 125, α = 2), HNSW (efConstruction = 200, M = 64)
+  and NSG (K = 400, L = 400, iter = 12, S = 15, R = 100) from their authors'
+  code over queue lengths from 1% to 50% of n. Its words: DiskANN "in most
+  cases ... cannot achieve non-zero Recall@5 unless scanning at least 10% of
+  the vertex set"; NSG and HNSW "for most values of n ... cannot achieve good
+  Recall@5 unless scanning at least 10%".
+- **At L = 0.1n, ten builds.** Table 1, averaged over n and 5 or 10 runs:
+  DiskANN 0.0, NSG 0.27, HNSW 0.1, NGT 0.05, SSG 0.16, KGraph 0.42, DPG 0.37,
+  NSW 0.02, SPTAG-KDT 0.02, EFANNA 0.12. KGraph, DPG and NSW were run from
+  the survey's reimplementations, not their authors' code.
+
+The title is narrowed to these. Whether an independent run reproduces them,
+and whether the trap appears on natural data, is
+[QUESTION-230](../questions.d/QUESTION-230.md).

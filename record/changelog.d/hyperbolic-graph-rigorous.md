@@ -1,0 +1,1 @@
+<!-- File the rigorous results on random hyperbolic graphs (Gugelmann, Panagiotou and Peter; Candellero and Fountoulakis) and record in THEORY-188 what they meet of its promote_when (promotion audit, batch 057). -->

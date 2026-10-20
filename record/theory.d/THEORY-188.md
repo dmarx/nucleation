@@ -14,13 +14,27 @@ promote_when: >-
   what the model produces, and a fit of summary statistics does not show
   the geometry is what produced them in a real network.
 title: 'In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promotion audit, batch 057: the reading task batch 048 set. Two
+    rigorous sources filed and skimmed, Gugelmann, Panagiotou and Peter
+    (LIT-1282, NOTE-1010) and Candellero and Fountoulakis
+    (LIT-1283, NOTE-1011), and added to `source:`. Their theorems
+    meet the promote_when's T = 0 degree and clustering clauses and its
+    T ≥ 1 clustering clause as statements, and show the T < 1 clustering
+    clause holds for the global coefficient only when α > ζ. A dated note
+    says what is met and what is not. Status unchanged.
 tags:
 - network-science
 - complex-systems
 date: '2026-10-09'
 source:
 - LIT-865
+- LIT-1282
+- LIT-1283
 summary: >-
   Krioukov, Papadopoulos, Kitsak, Vahdat and Boguñá (2010), [LIT-865](../literature.d/LIT-865.md):
   derived, in a large-distance approximation, for a model in the
@@ -100,3 +114,38 @@ linear in it.
   structure; here, the additive per-node part alone is the degenerate
   configuration model, and the structure sits in the non-additive angular
   term. [QUESTION-025](../questions.d/QUESTION-025.md) is where that contrast is open.
+
+## Note of 2026-10-20: the rigorous literature
+
+Promotion audit, batches 048 and 057. The promote_when asks for proofs in
+the limit N → ∞. Two held sources now state them in part.
+
+- **Degrees, T = 0.** Gugelmann, Panagiotou and Peter ([LIT-1282](../literature.d/LIT-1282.md),
+  Theorems 2.2–2.4) prove for the threshold model at curvature −1 that the
+  degree sequence is a power law with exponent 2α + 1 up to the maximum
+  degree, which is 2α/ζ + 1 at ζ = 1, with the large-distance
+  approximation's error bounded (their Lemmas 3.1–3.2). The degree law at
+  T > 0 is attributed by Candellero and Fountoulakis to a paper of
+  Fountoulakis's that the record does not hold.
+- **Clustering, T = 0.** The same paper proves the average local
+  clustering coefficient is Θ(1) with high probability (Theorem 2.1): a
+  lower bound, not a limit.
+- **Clustering, T > 0.** Candellero and Fountoulakis ([LIT-1283](../literature.d/LIT-1283.md),
+  Theorem 1.2) prove, for the global clustering coefficient C2 with
+  0 < ζ/α < 2: below T = 1, C2 tends to a positive constant when ζ/α < 1
+  and to zero when 1 ≤ ζ/α < 2; at and above T = 1, C2 tends to zero. So
+  "bounded away from zero below T = 1" holds for C2 only when the degree
+  exponent exceeds 3. For exponents between 2 and 3 the hubs drive C2 to
+  zero at every temperature, while the clustering among vertices of
+  bounded type stays positive (Theorem 1.3). Neither source treats the
+  average local coefficient at 0 < T < 1, the quantity [LIT-865](../literature.d/LIT-865.md) simulates.
+- **The configuration-model limit** needs no source: with x = r_i + r_j
+  the link probability is a function of e^(−ζr_i/2)e^(−ζr_j/2), the
+  product of the two expected degrees, by inspection.
+
+What keeps the account Proposed: both readings are skims ([NOTE-1010](../notes.d/NOTE-1010.md),
+[NOTE-1011](../notes.d/NOTE-1011.md)), the theorems taken as stated and the proofs followed only
+in outline, which is what held [THEORY-270](THEORY-270.md) in batch 038; and the T < 1
+local-clustering clause has no held source. If promoted, the title should
+name the clustering coefficient and the ζ/α < 1 condition for the global
+one.

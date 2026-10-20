@@ -31,7 +31,7 @@ summary: >-
   is bought by its tree restriction. It says nothing about stochastic
   encoders, where finite-β optima generally live ([THEORY-743](../theory.d/THEORY-743.md)).
 supports:
-- CLAIM-tmpfqsca
+- CLAIM-392
 ---
 <!-- inactive-ok-file: THEORY-163 — Proposed; the annealed colour-naming hierarchy named for contrast, open -->
 # CLAIM-387: Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other
@@ -65,7 +65,7 @@ joint distributions with four to six states. That was not re-run here.
   channel between the stochastic optima of this example at β = 8, 10 and
   12, but it certified neither global optimality nor uniqueness. That
   was settled the same day: with certified unique optima, the stochastic
-  optima at β = 8 and 12 do not nest either ([CLAIM-tmpfqsca](CLAIM-tmpfqsca.md)).
+  optima at β = 8 and 12 do not nest either ([CLAIM-392](CLAIM-392.md)).
 - **Nothing about rate–distortion with block coding.** Equitz and Cover's
   successive refinability is asymptotic. Their own Gaussian example shows
   single-shot quantizers failing to nest for a source that is refinable
