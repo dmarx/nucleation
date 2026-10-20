@@ -17,6 +17,8 @@ summary: >-
   promoted [THEORY-267](../theory.d/THEORY-267.md) to what Rasooly and Rozzi measured on Manifold. The
   former promote_when asked for a second randomised experiment elsewhere,
   or a design that measures traders' beliefs; this question holds it.
+answered_by:
+- THEORY-tmpavmtf
 ---
 
 # QUESTION-212: Does a one-off random shock to a prediction-market price persist for weeks on other platforms and at real-money stakes, and do the traders come to believe the shocked price?
