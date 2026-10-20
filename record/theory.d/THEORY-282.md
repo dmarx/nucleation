@@ -155,4 +155,4 @@ Re-derived for the promotion audit (batch 051, [ADR-047](../decisions.d/ADR-047.
 
 Whether GPT-2 Small's MLP8 on IOI is such a case, rather than two
 cancelling subspaces in one component, is the open question this entry's
-promote_when asked; it is now [QUESTION-tmpkpb79](../questions.d/QUESTION-tmpkpb79.md).
+promote_when asked; it is now [QUESTION-200](../questions.d/QUESTION-200.md).

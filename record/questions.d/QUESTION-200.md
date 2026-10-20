@@ -1,10 +1,13 @@
 ---
+number: 200
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpkpb79
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Is the subspace-patching effect measured in GPT-2 Small's layer-8 MLP an instance of the dormant-direction construction, rather than two cancelling subspaces in that component, and does its dependence on the disconnected component replicate in a second model family?"
@@ -32,7 +35,7 @@ summary: >-
 
 <!-- unresolved-ok-file: QUESTION-000 — the placeholder a new document replaces -->
 
-# QUESTION-tmpkpb79: Is the subspace-patching effect measured in GPT-2 Small's layer-8 MLP an instance of the dormant-direction construction, rather than two cancelling subspaces in that component, and does its dependence on the disconnected component replicate in a second model family?
+# QUESTION-200: Is the subspace-patching effect measured in GPT-2 Small's layer-8 MLP an instance of the dormant-direction construction, rather than two cancelling subspaces in that component, and does its dependence on the disconnected component replicate in a second model family?
 
 ## Why it is a question
 
