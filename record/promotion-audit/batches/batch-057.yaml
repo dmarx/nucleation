@@ -1,0 +1,43 @@
+# record/promotion-audit/batches/batch-057.yaml
+batch: batch-057
+date: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+selection: >-
+  Follow-ups from the requeue list: THEORY-085 (batch 047: file the
+  CFAC - K-FAC identity as a demonstrated CLAIM) and THEORY-188 (batch 048:
+  the reading task on the rigorous random-hyperbolic-graph literature).
+reviewed:
+- THEORY-085
+- CLAIM-tmp1w7aa
+- THEORY-188
+yield: >-
+  1 new demonstrated CLAIM filed Active (CLAIM-tmp1w7aa); THEORY-085
+  corrected; THEORY-188 retained with two rigorous sources filed (2 LITs,
+  2 NOTEs, skimmed).
+promotion_prs:
+  - "#262: CLAIM-tmp1w7aa filed Active, demonstrated; THEORY-085 v2 (branch claude/claim-cfac-kfac-identity)."
+  - "#267: LIT-tmp30ynx, LIT-tmple1gv, NOTE-tmp79m4y, NOTE-tmprov8v filed; THEORY-188 v2 (branch claude/hyperbolic-graph-rigorous)."
+notes_for_ledger:
+  - >-
+    A reading task can find that the rigorous literature narrows a title
+    rather than confirming it: Candellero and Fountoulakis show the global
+    clustering of the hyperbolic random graph vanishes at every temperature
+    when the degree exponent is at most 3, a transition the source's
+    simulations did not report.
+  - >-
+    Name which clustering coefficient a title means. The average of local
+    coefficients and the global (transitivity) coefficient behave
+    differently under heavy tails.
+  - >-
+    A paper-length rigorous proof cannot be re-derived in a batch. Whether
+    a held, peer-reviewed proof that was skimmed meets "a proof" is an
+    owner question (THEORY-188; compare THEORY-270 in batch 038).
+  - >-
+    Rename CLAIM-tmp1w7aa's decision file to its permanent code after #262
+    merges.
+owner_questions:
+  - >-
+    THEORY-188: does a peer-reviewed proof the record holds, read for its
+    statements and method but not followed line by line, meet a
+    promote_when that asks for "a proof"? Batch 038 held THEORY-270 on the
+    same ground.

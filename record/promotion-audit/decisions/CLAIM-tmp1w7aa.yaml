@@ -1,0 +1,29 @@
+# record/promotion-audit/decisions/CLAIM-tmp1w7aa.yaml
+id: CLAIM-tmp1w7aa
+batch: batch-057
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Active
+disposition: promote
+carried_out: '#262'
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Filed Active, demonstrated, from THEORY-085 under ADR-032 (precedents
+    CLAIM-370, CLAIM-384, CLAIM-385). The proof is bilinearity of the
+    Kronecker product and sum_c pi_c = 1, three lines, written out in the
+    claim; corollary: CFAC = K-FAC when either factor is class-constant
+    (sufficient, not necessary, as the claim says).
+  excluded: >-
+    Nothing about which approximation is closer to the true layer Fisher,
+    and no characterisation of when the covariance term vanishes.
+evidence:
+  - "The proof in CLAIM-tmp1w7aa; the numerical check recorded in THEORY-085's decision."
+blockers: []
+notes: >-
+  Rename this file to the permanent code after #262 merges (NOTES.md,
+  2026-10-20).
+unlocks: []
+next_action: none
