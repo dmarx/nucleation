@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp9wyar
 title: 'In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -15,6 +15,15 @@ history:
     surveys with nothing read out between the questions. The equality and the
     classical construction behind the negative clause are worked in a dated
     note. The promote_when moves to QUESTION-210.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Dated note added under ADR-047 v4 (the narrowing-loss sweep, batch
+    067). The wider claim this entry's narrowing dropped, the general law
+    that question-order effects leave the agreement probability unchanged,
+    which the source proposes beyond the surveys it tested, is now carried
+    by THEORY-tmpcwkzh, which extends this entry. Status and title are
+    unchanged.
 tags:
 - cognition
 - social-science
@@ -37,9 +46,12 @@ summary: >-
   with a constrained classical rival is [QUESTION-210](../questions.d/QUESTION-210.md).
 supports:
 - CLAIM-041
+extended_by:
+- THEORY-tmpcwkzh
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; named as the neighbouring account this one is consistent with -->
+<!-- inactive-ok-file: THEORY-tmpcwkzh — Proposed; the general law this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-166: In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability
 
@@ -119,3 +131,10 @@ same table with the two discordant cells swapped for BA. Then
 P(A yes) is 0.6 in one order and 0.4 in the other, an order effect, while
 the agreement probability is 0.8 in both. The equality constrains which
 tables occur; it does not by itself require noncommuting operations.
+
+## Note of 2026-10-20: the wider claim, filed apart
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
+Proposed entry, so that evidence can later confirm or reject it as a
+thesis. [THEORY-tmpcwkzh](THEORY-tmpcwkzh.md) carries the general law that question-order effects leave the agreement probability unchanged, which the source proposes beyond the surveys it tested. It extends this entry, whose
+measured or derived content is its evidence. Nothing here changes.
