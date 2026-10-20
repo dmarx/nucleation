@@ -20,7 +20,9 @@ summary: >-
 answered_by:
 - THEORY-tmp784do
 - THEORY-tmpe0x90
+- THEORY-tmpy2pkj
 ---
+<!-- inactive-ok-file: NOTE-tmpi1i5f THEORY-tmpy2pkj — Skimmed or Proposed; the negative half of Onsager, cited as open -->
 <!-- inactive-ok-file: LIT-tmp2snx1 LIT-tmp8dl8g LIT-tmpko78q — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-273 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-tmpmz64i: Can a persistent pattern of transfer through a system, kept while its constituents are replaced, pick out a unit that neither a block test nor a closed collective mode finds, and what separates such organized throughput from mere transport?
@@ -88,4 +90,10 @@ Constantin, E and Titi ([NOTE-tmpqux8d](../notes.d/NOTE-tmpqux8d.md), [THEORY-tm
 half of A3's point about rough fields. Above Besov regularity 1/3, the
 flux into unresolved scales must vanish as the scale goes to zero. That a
 flux can survive for rougher fields is the negative half of Onsager's
-conjecture (Isett 2018 and others), which the record does not hold.
+conjecture. Isett (2018) is now registered and skimmed ([NOTE-tmpi1i5f](../notes.d/NOTE-tmpi1i5f.md)).
+Through [THEORY-tmp99aof](../theory.d/THEORY-tmp99aof.md)'s energy balance, it gives [THEORY-tmpy2pkj](../theory.d/THEORY-tmpy2pkj.md)
+(Proposed): the flux across vanishing scales survives the limit, but in
+both directions, since the solutions gain energy and then lose it. They are
+not admissible, so this is not a one-way dissipative cascade. The
+admissible version (Buckmaster, De Lellis, Székelyhidi and Vicol 2019) is
+not held.

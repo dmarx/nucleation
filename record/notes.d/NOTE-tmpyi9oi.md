@@ -2,7 +2,7 @@
 status: Read
 paper: 'LIT-tmp25otd'
 title: 'Equitz and Cover — Successive refinement of information'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -25,6 +25,10 @@ history:
     output distributions (33)–(36) by Blahut–Arimoto, Theorem 3's condition
     (42) on a grid, and the Hamming transition (49) for random sources.
     The Gaussian and Laplacian constructions were re-derived by hand.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The log-loss result recalled in Connections was misattributed. It is No and Weissman (ISIT 2015; No, Entropy 2019), not No, Ingber and Weissman (2016), which treats second-order refinability and was read in NOTE-tmpmscti. That reading also shows the result concerns direct log-loss, where refinability is trivial. The information bottleneck is remote log-loss, so the result does not bear on QUESTION-tmpproc1's stochastic half. Corrected in place.
 date: '2026-10-20'
 summary: >-
   Defines successive refinement: a description at distortion D₁, followed by
@@ -208,11 +212,13 @@ characterized the full achievable rate region, with excess rate allowed.
 Chow and Berger (1997) gave failures for symmetric Gaussian mixtures under
 squared error. Lastras and Berger (2001) showed that every source is
 nearly refinable: under squared error the rate loss is at most half a bit
-per sample. No, Ingber and Weissman (2016) are recalled as showing that
-every discrete memoryless source is refinable under logarithmic loss. That
-loss is the one under which the information bottleneck is a rate–distortion
-problem, so this is the lead most directly relevant to
-[QUESTION-tmpproc1](../questions.d/QUESTION-tmpproc1.md), to be registered and checked.
+per sample. No and Weissman (ISIT 2015) show that every discrete memoryless source is
+refinable under logarithmic loss. This NOTE first credited the result to
+No, Ingber and Weissman (2016), which is a different paper ([NOTE-tmpmscti](NOTE-tmpmscti.md)).
+The result concerns *direct* log-loss, soft reconstructions of the source
+itself, where R(D) = H − D and refinability is trivial. The information
+bottleneck is *remote* log-loss, scored on Y. So the result does not bear
+on [QUESTION-tmpproc1](../questions.d/QUESTION-tmpproc1.md) ([NOTE-tmpmscti](NOTE-tmpmscti.md)).
 
 ## Bearing on the record
 
@@ -359,8 +365,9 @@ problem, so this is the lead most directly relevant to
 - Is there a structural condition on p(x, y) under which the information
   bottleneck is successively refinable for every β₁ < β₂, the analogue of
   "Hamming distortion makes every discrete source refinable"? The
-  log-loss result recalled above, if it holds as remembered, is the
-  nearest candidate.
+  direct log-loss result does not answer it (see Connections). Charvin,
+  Catenacci Volpi and Polani (2023) give a test by linear programming for
+  exact IB refinability, and are the nearest lead.
 - Does the four-state example's non-nesting survive with stochastic
   encoders under a certified global optimum? The IB curve for four source
   states can be computed to certified precision by convex relaxation or a

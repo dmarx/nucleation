@@ -20,6 +20,7 @@ answered_by:
 - CLAIM-tmpmonrv
 - THEORY-tmpepvai
 - THEORY-tmpswb4h
+- THEORY-tmpvmmpz
 ---
 <!-- inactive-ok-file: LIT-tmpai9kc LIT-tmpki8cm LIT-tmple6xy LIT-tmpvihtb — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -73,6 +74,13 @@ representation-invariant measure of emergence."
     ([THEORY-tmpswb4h](../theory.d/THEORY-tmpswb4h.md)). Its error is not controlled: the memory length is
     fitted, and the kernel's shape is fixed by a quadrature rule rather
     than by the eliminated spectrum.
+- Slow eigenfunctions of a reversible diffusion ([THEORY-tmpvmmpz](../theory.d/THEORY-tmpvmmpz.md), from
+  Nadler et al., [NOTE-tmpvqn3y](../notes.d/NOTE-tmpvqn3y.md)). A generator eigenfunction has
+  E[ψ(X_{t+s}) | past] = e^{−λs}ψ(X_t), so its Mori–Zwanzig memory and noise
+  vanish in mean, exactly. It is Markov in law only if |∇ψ|² is a function
+  of ψ. Otherwise the memory sits in the noise intensity, and one extra
+  coordinate, |∇ψ|², carries it. That is a finite augmentation for this
+  class.
 - Memory against dynamical independence, settled for linear Gaussian
   VAR(1) ([CLAIM-tmpmonrv](../claims.d/CLAIM-tmpmonrv.md)). Independence implies zero memory, but zero
   memory does not imply independence. A5's own example shows the gap: with

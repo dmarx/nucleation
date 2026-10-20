@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'A weak solution of the incompressible Euler equations on the periodic box that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves kinetic energy, because the energy flux into scales below a mollification scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does not show that rougher solutions dissipate'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -15,6 +15,10 @@ history:
     identity (10) and the scalings (7), (8) and (12) were also checked
     numerically on a synthetic field. The comparison with THEORY-tmpfcxzq
     and the shear-flow example are the record's.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Connections gain the negative half, THEORY-tmpy2pkj (Isett). The account is unchanged.
 tags:
 - mathematics
 - natural-sciences
@@ -32,6 +36,7 @@ summary: >-
   theorem (Isett 2018 and others), which the record has not read, and some
   rough solutions conserve energy anyway.
 ---
+<!-- inactive-ok-file: THEORY-tmpy2pkj — Proposed; the negative half, cited as open -->
 <!-- inactive-ok-file: LIT-tmpko78q — Unavailable; Eyink 2005, cited for where finer versions of the same estimate are proved, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion named for context, nothing here rests on it -->
 # THEORY-tmp99aof: A weak solution of the incompressible Euler equations on the periodic box that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves kinetic energy, because the energy flux into scales below a mollification scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does not show that rougher solutions dissipate
@@ -204,3 +209,8 @@ the algebra and the estimates, not the theorem.
   locality bounds; not read.
 - **[THEORY-661](THEORY-661.md) and [CLAIM-157](../claims.d/CLAIM-157.md).** Unrelated: no blocks, no gap, no
   aggregation.
+- **The negative half (2026-10-20).** [THEORY-tmpy2pkj](THEORY-tmpy2pkj.md) (Isett, Proposed):
+  below 1/3, Hölder solutions exist whose flux across vanishing scales
+  survives the limit, in both directions. So the threshold here is sharp
+  in that sense. It is not sharp for one-way, dissipative transfer, which
+  needs admissible solutions.

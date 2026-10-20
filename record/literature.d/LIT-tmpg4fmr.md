@@ -1,0 +1,52 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-20 ([NOTE-tmpvqn3y](../notes.d/NOTE-tmpvqn3y.md)) in full, from arXiv:math/0503445v1; worth reading for the bridge from a diffusion map to the dynamics behind the data. For samples from p = e^{−U}, the ordinary normalized graph Laplacian (α = 0) tends to a backward Fokker–Planck generator with potential 2U, and the anisotropic normalization α = 1/2 to the generator of the Langevin dynamics with potential U itself, whose slow eigenfunctions the paper proposes as reaction coordinates. It also has worked examples: Ornstein–Uhlenbeck (the finite-ε spectrum λ_k = (τ/(τ+ε))^k), a double well whose first eigenfunction is ±1 on the two wells, and a three-well potential with two pathways. Read it knowing that the generators as printed are twice what the paper's own kernel and time step give (its Ornstein–Uhlenbeck lemma and its equation (32) disagree by that factor, which this reading checked); that "converge" means a formal small-ε expansion of the operator, with the large-sample limit cited and no spectral convergence shown; that its sufficient condition for the first eigenfunctions to depend only on the slow variable is printed the wrong way round; that its double-well example is separable, so the slow coordinate is closed by construction; and that from equilibrium samples the eigenfunctions are recovered well while the slow eigenvalue, the inter-well rate, is not. In what sense slow eigenfunctions are closed coarse variables is the record's addition ([THEORY-tmpvmmpz](../theory.d/THEORY-tmpvmmpz.md)). The published ACHA version was not reached.
+title: 'Diffusion maps, spectral clustering and reaction coordinates of dynamical systems'
+version: 2
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Registered on 2026-10-20 as a follow-up named by the reading of Coifman and Lafon's "Diffusion maps" (NOTE-tmpv8yf2), which cites this paper for the α = 1/2 Fokker–Planck case and names it as the next reading for the link between spectral gaps and metastable clusters. Citation from the arXiv API and Crossref: arXiv:math/0503445, v1 submitted 22 March 2005 (no later version); published as Applied and Computational Harmonic Analysis 21(1):113–127, July 2006, doi:10.1016/j.acha.2005.07.004 (Crossref gives month only; its `created` date, 11 June 2006, is a deposit date and is not used). `published:` is the arXiv v1 date, the earliest, per ADR-002. Not held in this record or in the Anthology of the SOTA: a grep of both record/ trees (the anthology clone at commit d1573d2) for "Nadler", the arXiv id and the DOI found only this record's citations of it in NOTE-784 and NOTE-tmpv8yf2. Tagged as its companion LIT-tmpc7k0w is, with the anthology-candidate flag last (ADR-005): a manifold-learning and spectral-clustering paper that an anthology topic could hold, read here for the record's questions on slow variables and closure.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Read in full (NOTE-tmpvqn3y) from arXiv:math/0503445v1. Status Deferred → Active. THEORY-tmpvmmpz filed Active. The published version is open in Elsevier's archive (OpenAlex: bronze), but ScienceDirect returned a bot check (HTTP 403) and the Elsevier API refused the request (HTTP 429), so it was not compared with the preprint. The summary is written from the reading.
+tags:
+- mathematics
+- representation-learning
+- probabilistic-modeling
+- anthology-candidate
+date: '2026-10-20'
+published: '2005-03-22'
+arxiv: 'math/0503445'
+doi: '10.1016/j.acha.2005.07.004'
+first_author: 'Nadler'
+keywords:
+- 'diffusion maps'
+- 'spectral clustering'
+- 'reaction coordinates'
+- 'Fokker–Planck operator'
+- 'anisotropic diffusion'
+implementations: []
+summary: >-
+  Nadler, Lafon, Coifman & Kevrekidis (2005; ACHA 2006). For data sampled from p = e^{−U}, it expands the α-normalized diffusion-map operators for small kernel width. The normalized graph Laplacian (α = 0) tends to a backward Fokker–Planck generator with potential 2U, equivalently a Schrödinger operator with potential |∇U|² − ΔU. The normalization α = 1/2 gives the generator of the Langevin dynamics ẋ = −∇U + √2ẇ itself. α = 1 gives the Laplace–Beltrami operator, free of the density. So for data from a stochastic system in equilibrium, the leading eigenfunctions approximate the system's slowest modes, and the paper proposes them as reaction coordinates. Examples: Ornstein–Uhlenbeck processes, where the first eigenfunctions parametrize the slow variable; a double well, where the first eigenfunction is ±1 on the two wells; three wells; and the iris data. The expansions are formal, and the printed generators are twice what the stated kernel and time step give.
+---
+<!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading named for context -->
+<!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this reading bears on, nothing here rests on it -->
+# LIT-tmpg4fmr: Diffusion maps, spectral clustering and reaction coordinates of dynamical systems
+
+Nadler, B., Lafon, S., Coifman, R. R. & Kevrekidis, I. G. (2006). Diffusion maps, spectral clustering and reaction coordinates of dynamical systems. *Applied and Computational Harmonic Analysis* 21(1): 113–127. doi:10.1016/j.acha.2005.07.004. arXiv:math/0503445 (22 March 2005).
+
+Read in full in [NOTE-tmpvqn3y](../notes.d/NOTE-tmpvqn3y.md), from the arXiv copy. [THEORY-tmpvmmpz](../theory.d/THEORY-tmpvmmpz.md) states in
+what sense the slow eigenfunctions it recovers are closed coarse variables.
+
+## Why this is here
+
+The companion of Coifman and Lafon ([LIT-tmpc7k0w](LIT-tmpc7k0w.md), [NOTE-tmpv8yf2](../notes.d/NOTE-tmpv8yf2.md)) that turns
+diffusion maps toward dynamics. It is the record's source for reading the slow
+eigenfunctions of a sampled Fokker–Planck operator as the slow variables of the
+system that produced the data. That bears on [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md) (are they closed
+coarse variables?) and on [CLAIM-164](../claims.d/CLAIM-164.md) and [CLAIM-157](../claims.d/CLAIM-157.md) (spectral gaps and
+metastable clusters).

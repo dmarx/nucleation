@@ -64,6 +64,15 @@ of it is wrong.
   coarsening of the causal (minimal sufficient) partition, which is the
   β → ∞ limit. So every finite optimum nests under the top. Whether two
   finite optima nest is open for stochastic encoders.
+- Log-loss refinability does not close it ([NOTE-tmpmscti](../notes.d/NOTE-tmpmscti.md)). The known
+  result (No and Weissman 2015) is for *direct* log-loss, where every
+  channel at rate H − D is optimal and refinability is trivial. The
+  information bottleneck is *remote* log-loss, scored on Y, and the two
+  coincide only when Y is a function of X. On [CLAIM-tmphan8l](../claims.d/CLAIM-tmphan8l.md)'s example,
+  erasure-degrading the β = 12 optimum to the β = 8 rate keeps 0.079 bits
+  about Y, against 0.097 for the β = 8 optimum. The direct lead is
+  Charvin, Catenacci Volpi and Polani (2023), a test by linear
+  programming for exact IB refinability, which is not yet registered.
 
 ## What would count as an answer
 

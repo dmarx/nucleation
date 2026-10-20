@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-11'
@@ -42,6 +42,10 @@ history:
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added, from the readings of that day: bounds on how block tests and closure relate (CLAIM-tmpymy0a, CLAIM-tmp614wx), equitable partitions (THEORY-tmpj32n2), the spectral reading of near-decomposability (NOTE-tmpinykd), and scale locality (THEORY-tmpfcxzq). The criterion is unchanged.
+- version: 7
+  date: '2026-10-20'
+  note: >-
+    The note of 2026-10-20 gains a fifth point, from the reading of Nadler et al. (NOTE-tmpvqn3y): a data-driven gap finds the block well and its duration poorly. The criterion is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -232,3 +236,10 @@ ways. None changes the criterion.
   partitions ([THEORY-tmpj32n2](../theory.d/THEORY-tmpj32n2.md)) and turbulent scale bands ([THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md),
   conditional) organize a system without a gap. Whether either is "one
   system" is [QUESTION-tmplru2n](../questions.d/QUESTION-tmplru2n.md) and [QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md).
+- **A data-driven gap gives the block, not its duration.** Nadler et al.
+  ([NOTE-tmpvqn3y](../notes.d/NOTE-tmpvqn3y.md)) recover the wells of a double-well diffusion from
+  equilibrium samples almost perfectly (99.6–99.8% of points). But they
+  underestimate the slow eigenvalue that sets the wells' lifetime by
+  30–80%, because few samples cross the barrier. This claim's duration
+  clause needs a lifetime, and equilibrium data are the weak place to get
+  one.
