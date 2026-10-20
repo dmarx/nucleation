@@ -1,5 +1,8 @@
 ---
+number: 190
 status: Open
+formerly:
+- QUESTION-tmpimdnt
 title: 'Is the ε⁻² sample complexity of estimating the bisimulation metric between finite Markov chains from occupancy samples optimal, and does an estimator keep a polynomial guarantee on samples from one running trajectory?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   single-stream case the authors expect but do not test.
 ---
 
-# QUESTION-tmpimdnt: Is the ε⁻² sample complexity of estimating the bisimulation metric between finite Markov chains from occupancy samples optimal, and does an estimator keep a polynomial guarantee on samples from one running trajectory?
+# QUESTION-190: Is the ε⁻² sample complexity of estimating the bisimulation metric between finite Markov chains from occupancy samples optimal, and does an estimator keep a polynomial guarantee on samples from one running trajectory?
 
 ## Why it is a question
 

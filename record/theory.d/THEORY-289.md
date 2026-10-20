@@ -17,7 +17,7 @@ history:
     says the error is expected excess error, and says it stays below
     π²/6 times the first fit's while rising every round. The former
     promote_when, an extension beyond this setting, moves to
-    QUESTION-tmpc62ca.
+    QUESTION-189.
 tags:
 - learning-theory
 - probabilistic-modeling

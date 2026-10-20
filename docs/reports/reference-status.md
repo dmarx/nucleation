@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**501 documents cited without acknowledgement.** Not listed: 9733 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**500 documents cited without acknowledgement.** Not listed: 9722 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -389,7 +389,7 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 - [`record/theory.d/THEORY-382.md:104`](../../record/theory.d/THEORY-382.md)
 - [`record/theory.d/THEORY-383.md:95`](../../record/theory.d/THEORY-383.md)
 - [`record/theory.d/THEORY-386.md:92`](../../record/theory.d/THEORY-386.md)
-- [`record/theory.d/THEORY-387.md:87`](../../record/theory.d/THEORY-387.md)
+- [`record/theory.d/THEORY-387.md:94`](../../record/theory.d/THEORY-387.md)
 
 ### [CLAIM-341](../../record/claims.d/CLAIM-341.md) — Proposed
 
@@ -3601,8 +3601,8 @@ For nonrecursive Datalog or SQL views with safe stratified negation and stratifi
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1114.md:15`](../../record/literature.d/LIT-1114.md)
-- [`record/questions.d/QUESTION-105.md:71`](../../record/questions.d/QUESTION-105.md)
-- [`record/theory.d/THEORY-387.md:83`](../../record/theory.d/THEORY-387.md)
+- [`record/questions.d/QUESTION-105.md:73`](../../record/questions.d/QUESTION-105.md)
+- [`record/theory.d/THEORY-387.md:90`](../../record/theory.d/THEORY-387.md)
 
 ### [THEORY-367](../../record/theory.d/THEORY-367.md) — Proposed
 
@@ -3611,7 +3611,7 @@ For positive queries over a tree data model that covers SPJU relational queries,
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1104.md:17`](../../record/literature.d/LIT-1104.md)
-- [`record/questions.d/QUESTION-105.md:77`](../../record/questions.d/QUESTION-105.md)
+- [`record/questions.d/QUESTION-105.md:79`](../../record/questions.d/QUESTION-105.md)
 - [`record/theory.d/THEORY-373.md:107`](../../record/theory.d/THEORY-373.md)
 
 ### [THEORY-368](../../record/theory.d/THEORY-368.md) — Proposed
@@ -3653,16 +3653,6 @@ A rule that multiplies a cached interval's width by 1 + α on a pushed refresh w
 - [`record/literature.d/LIT-1109.md:16`](../../record/literature.d/LIT-1109.md)
 - [`record/theory.d/THEORY-364.md:97`](../../record/theory.d/THEORY-364.md)
 - [`record/theory.d/THEORY-386.md:90`](../../record/theory.d/THEORY-386.md)
-
-### [THEORY-387](../../record/theory.d/THEORY-387.md) — Proposed
-
-For recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from the remaining relations, then adding what insertions derive, is stated to leave exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the proof and the extension to stratified negation and aggregation are referred to an unpublished report, and the size of the overestimate is not measured
-
-3 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-1114.md:17`](../../record/literature.d/LIT-1114.md)
-- [`record/questions.d/QUESTION-105.md:73`](../../record/questions.d/QUESTION-105.md)
-- [`record/theory.d/THEORY-362.md:91`](../../record/theory.d/THEORY-362.md)
 
 ### [THEORY-411](../../record/theory.d/THEORY-411.md) — Proposed
 
@@ -4785,7 +4775,7 @@ For datalog on relations annotated from a commutative ω-continuous semiring, wi
 2 citations in 2 files await a look.
 
 - [`record/literature.d/LIT-1110.md:15`](../../record/literature.d/LIT-1110.md)
-- [`record/questions.d/QUESTION-105.md:76`](../../record/questions.d/QUESTION-105.md)
+- [`record/questions.d/QUESTION-105.md:78`](../../record/questions.d/QUESTION-105.md)
 
 ### [THEORY-382](../../record/theory.d/THEORY-382.md) — Proposed
 

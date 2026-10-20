@@ -18,7 +18,7 @@ history:
     affect it. The title now names the sampling model, the observed finite
     states, the known bounded cost, the probability 1 − δ and the
     dependence on 1/(1−γ) and log(1/δ). The former promote_when's request
-    for a matching ε⁻² lower bound moves to QUESTION-tmpimdnt.
+    for a matching ε⁻² lower bound moves to QUESTION-190.
 tags:
 - mathematical-statistics
 - probabilistic-modeling

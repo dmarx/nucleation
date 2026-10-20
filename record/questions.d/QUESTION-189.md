@@ -1,5 +1,8 @@
 ---
+number: 189
 status: Open
+formerly:
+- QUESTION-tmpc62ca
 title: "Does keeping every earlier round's data bound the error of a model refit on its own outputs beyond least squares with reused Gaussian covariates, when covariates are regenerated or the model class is nonlinear or over-parameterised?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   and this question holds it.
 ---
 
-# QUESTION-tmpc62ca: Does keeping every earlier round's data bound the error of a model refit on its own outputs beyond least squares with reused Gaussian covariates, when covariates are regenerated or the model class is nonlinear or over-parameterised?
+# QUESTION-189: Does keeping every earlier round's data bound the error of a model refit on its own outputs beyond least squares with reused Gaussian covariates, when covariates are regenerated or the model class is nonlinear or over-parameterised?
 
 ## Why it is a question
 

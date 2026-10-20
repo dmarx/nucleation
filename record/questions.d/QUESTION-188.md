@@ -1,5 +1,8 @@
 ---
+number: 188
 status: Open
+formerly:
+- QUESTION-tmp5fubd
 title: 'Is delete-and-rederive correct for recursive Datalog views with stratified negation and aggregation, and how large is its overestimate of deletions against the deletions actually needed?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   no overestimate. This question holds both.
 ---
 
-# QUESTION-tmp5fubd: Is delete-and-rederive correct for recursive Datalog views with stratified negation and aggregation, and how large is its overestimate of deletions against the deletions actually needed?
+# QUESTION-188: Is delete-and-rederive correct for recursive Datalog views with stratified negation and aggregation, and how large is its overestimate of deletions against the deletions actually needed?
 
 ## Why it is a question
 

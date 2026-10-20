@@ -17,7 +17,7 @@ history:
     The title now asserts the result for positive programs and reports
     the extension to stratified negation and aggregation as asserted, not
     shown. That extension and the size of the overestimate move to
-    QUESTION-tmp5fubd.
+    QUESTION-188.
 tags:
 - databases
 - logic
@@ -123,4 +123,4 @@ stratum's net changes as the next one's deletions and insertions, applies
 the argument stratum by stratum. No derivation counts are used. Set
 semantics is used in the second step, where a tuple is restored once
 whatever its number of derivations. Under negation a deletion can add
-tuples, and the argument does not apply; that case is [QUESTION-tmp5fubd](../questions.d/QUESTION-tmp5fubd.md).
+tuples, and the argument does not apply; that case is [QUESTION-188](../questions.d/QUESTION-188.md).
