@@ -1,5 +1,8 @@
 ---
+number: 215
 status: Open
+formerly:
+- QUESTION-tmpxmcgr
 title: "Does Landauer's bound hold without assuming reversible microdynamics, and does any logically reversible operation have a positive entropy floor?"
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-328 — Unavailable; named as the reading that would add the original statement -->
 
-# QUESTION-tmpxmcgr: Does Landauer's bound hold without assuming reversible microdynamics, and does any logically reversible operation have a positive entropy floor?
+# QUESTION-215: Does Landauer's bound hold without assuming reversible microdynamics, and does any logically reversible operation have a positive entropy floor?
 
 ## Why it is a question
 

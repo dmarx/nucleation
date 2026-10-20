@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**490 documents cited without acknowledgement.** Not listed: 9417 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**488 documents cited without acknowledgement.** Not listed: 9362 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1175,24 +1175,6 @@ Which of an agent's available regimes becomes effective depends on maintained re
 - [`record/questions.d/QUESTION-066.md:23`](../../record/questions.d/QUESTION-066.md)
 - [`record/questions.d/QUESTION-066.md:32`](../../record/questions.d/QUESTION-066.md)
 
-### [LIT-328](../../record/literature.d/LIT-328.md) — Unavailable
-
-Irreversibility and Heat Generation in the Computing Process
-
-11 citations in 5 files await a look; 6 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-360.md:6`](../../record/literature.d/LIT-360.md)
-- [`record/literature.d/LIT-360.md:65`](../../record/literature.d/LIT-360.md)
-- [`record/notes.d/NOTE-295.md:93`](../../record/notes.d/NOTE-295.md)
-- [`record/notes.d/NOTE-296.md:89`](../../record/notes.d/NOTE-296.md)
-- [`record/notes.d/NOTE-296.md:98`](../../record/notes.d/NOTE-296.md)
-- [`record/notes.d/NOTE-310.md:109`](../../record/notes.d/NOTE-310.md)
-- [`record/notes.d/NOTE-310.md:118`](../../record/notes.d/NOTE-310.md)
-- [`record/notes.d/NOTE-310.md:126`](../../record/notes.d/NOTE-310.md)
-- [`record/notes.d/NOTE-310.md:149`](../../record/notes.d/NOTE-310.md)
-- [`record/theory.d/THEORY-030.md:12`](../../record/theory.d/THEORY-030.md)
-- [`record/theory.d/THEORY-030.md:76`](../../record/theory.d/THEORY-030.md)
-
 ### [CLAIM-127](../../record/claims.d/CLAIM-127.md) — Proposed
 
 Conditioning on a communicative situation, intervening on it and intervening on what the interpreter is told are three different operations, so a framing intervention should index the empirical model, e_C^a = P(Y_C | do(a)), not enter its cover as one more context
@@ -1323,6 +1305,22 @@ Measurement as Sheafification: Context, Logic, and Truth after Quantum Mechanics
 - [`record/theory.d/THEORY-024.md:53`](../../record/theory.d/THEORY-024.md)
 - [`record/theory.d/THEORY-024.md:62`](../../record/theory.d/THEORY-024.md)
 - [`record/theory.d/THEORY-024.md:67`](../../record/theory.d/THEORY-024.md)
+
+### [LIT-328](../../record/literature.d/LIT-328.md) — Unavailable
+
+Irreversibility and Heat Generation in the Computing Process
+
+9 citations in 4 files await a look; 8 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-360.md:6`](../../record/literature.d/LIT-360.md)
+- [`record/literature.d/LIT-360.md:65`](../../record/literature.d/LIT-360.md)
+- [`record/notes.d/NOTE-295.md:93`](../../record/notes.d/NOTE-295.md)
+- [`record/notes.d/NOTE-296.md:89`](../../record/notes.d/NOTE-296.md)
+- [`record/notes.d/NOTE-296.md:98`](../../record/notes.d/NOTE-296.md)
+- [`record/notes.d/NOTE-310.md:109`](../../record/notes.d/NOTE-310.md)
+- [`record/notes.d/NOTE-310.md:118`](../../record/notes.d/NOTE-310.md)
+- [`record/notes.d/NOTE-310.md:126`](../../record/notes.d/NOTE-310.md)
+- [`record/notes.d/NOTE-310.md:149`](../../record/notes.d/NOTE-310.md)
 
 ### [LIT-332](../../record/literature.d/LIT-332.md) — Unavailable
 
@@ -1463,7 +1461,7 @@ A person's drive profile is time-indexed: who drives changes with state, such as
 - [`record/claims.d/CLAIM-170.md:88`](../../record/claims.d/CLAIM-170.md)
 - [`record/decisions.d/ADR-043.md:283`](../../record/decisions.d/ADR-043.md)
 - [`record/notes.d/NOTE-705.md:99`](../../record/notes.d/NOTE-705.md)
-- [`record/questions.d/QUESTION-033.md:47`](../../record/questions.d/QUESTION-033.md)
+- [`record/questions.d/QUESTION-033.md:48`](../../record/questions.d/QUESTION-033.md)
 
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
@@ -1584,21 +1582,6 @@ Pereboom — Living without Free Will
 - [`record/theory.d/THEORY-119.md:33`](../../record/theory.d/THEORY-119.md)
 - [`record/theory.d/THEORY-121.md:21`](../../record/theory.d/THEORY-121.md)
 - [`record/theory.d/THEORY-121.md:201`](../../record/theory.d/THEORY-121.md)
-
-### [THEORY-030](../../record/theory.d/THEORY-030.md) — Proposed
-
-Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost
-
-8 citations in 4 files await a look; 22 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-373.md:38`](../../record/literature.d/LIT-373.md)
-- [`record/literature.d/LIT-373.md:85`](../../record/literature.d/LIT-373.md)
-- [`record/notes.d/NOTE-321.md:36`](../../record/notes.d/NOTE-321.md)
-- [`record/notes.d/NOTE-321.md:39`](../../record/notes.d/NOTE-321.md)
-- [`record/notes.d/NOTE-321.md:155`](../../record/notes.d/NOTE-321.md)
-- [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:199`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-324.md:168`](../../record/notes.d/NOTE-324.md)
 
 ### [THEORY-126](../../record/theory.d/THEORY-126.md) — Proposed
 
@@ -4457,15 +4440,6 @@ In Acropora millepora the natural night-light regime is necessary for spawning o
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:39`](../../record/questions.d/QUESTION-063.md)
 
-### [THEORY-133](../../record/theory.d/THEORY-133.md) — Proposed
-
-A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels
-
-2 citations in 1 file await a look; 25 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-035.md:47`](../../record/decisions.d/ADR-035.md)
-- [`record/decisions.d/ADR-035.md:78`](../../record/decisions.d/ADR-035.md)
-
 ### [THEORY-142](../../record/theory.d/THEORY-142.md) — Proposed
 
 Because the returns to exploitation are surer, nearer and closer to the decision than the returns to exploration, organizational learning refines exploitation faster and tends to become self-destructive in the long run; and where an organizational code learns only from members who deviate from it, slow socialization, a mix of slow and fast learners and moderate turnover raise what the organization knows, while without turnover a changing environment degrades its knowledge to chance
@@ -5851,10 +5825,12 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
+- record/literature.d/LIT-810.md:52: annotation no longer applies — THEORY-155 is Active now
 - record/literature.d/LIT-871.md:80: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-891.md:75: annotation no longer applies — QUESTION-025 is Active now
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
+- record/notes.d/NOTE-631.md:34: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now

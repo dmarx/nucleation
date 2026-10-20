@@ -16,7 +16,7 @@ history:
     that the higher-level property is itself a difference-maker, and it says
     the effect occurs in some nearest situation, not that it would occur.
     The promote_when, evidence about a particular system, moves to
-    QUESTION-tmp8n4yk.
+    QUESTION-213.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -33,7 +33,7 @@ summary: >-
   the effect present; the record re-derived this. The claim that
   higher-level relations are typically insensitive to their realizers is
   an observation about scientific practice, and Pernu disputes the paper's
-  main example. Which systems meet the condition is [QUESTION-tmp8n4yk](../questions.d/QUESTION-tmp8n4yk.md).
+  main example. Which systems meet the condition is [QUESTION-213](../questions.d/QUESTION-213.md).
 supports:
 - CLAIM-158
 presupposed_by:

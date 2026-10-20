@@ -14,7 +14,7 @@ history:
     text, figure legends and Table 1, whose text and table state the results
     the title uses. "The world's languages" becomes the World Color Survey
     languages and English, and the title names the source estimated from the
-    naming data. The promote_when moves to QUESTION-tmphu7q4.
+    naming data. The promote_when moves to QUESTION-214.
 tags:
 - linguistics
 - information-theory

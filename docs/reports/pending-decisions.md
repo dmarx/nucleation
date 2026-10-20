@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**736 document(s) awaiting a decision.**
+**733 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 736.
+95 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-410 of the 736.
+407 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -127,7 +127,6 @@
 | 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 52 | 7 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
 | 2026-09-30 | Proposed | [THEORY-036](../../record/theory.d/THEORY-036.md) | 36 | 0 | Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work |
 | 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 31 | 4 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
-| 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 30 | 8 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
 | 2026-09-30 | Proposed | [THEORY-022](../../record/theory.d/THEORY-022.md) | 25 | 4 | The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network |
 | 2026-09-30 | Proposed | [THEORY-034](../../record/theory.d/THEORY-034.md) | 24 | 1 | Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic identity-fixing feature, and among the record's readings two are of that kind: Floridi's informational structural realism and Esfeld and Lam's moderate structural realism |
 | 2026-09-30 | Proposed | [THEORY-025](../../record/theory.d/THEORY-025.md) | 10 | 3 | Neither utility information nor resource holdings, alone or together, can register claims that arise from how differently people convert resources into what they can do and be: equal resources leave unequal capabilities, and utility adapts to deprivation |
@@ -211,7 +210,6 @@
 | 2026-10-04 | Proposed | [THEORY-123](../../record/theory.d/THEORY-123.md) | 4 | 1 | In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves |
 | 2026-10-04 | Proposed | [THEORY-124](../../record/theory.d/THEORY-124.md) | 2 | 2 | During a visual decision task, neurons within a single area of mouse cortex rarely form discrete functional types, yet the task conditions the area distinguishes are linearly separable in nearly every way |
 | 2026-10-05 | Proposed | [THEORY-139](../../record/theory.d/THEORY-139.md) | 38 | 13 | A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment |
-| 2026-10-05 | Proposed | [THEORY-133](../../record/theory.d/THEORY-133.md) | 27 | 2 | A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels |
 | 2026-10-05 | Proposed | [THEORY-148](../../record/theory.d/THEORY-148.md) | 22 | 2 | A group learning by trying needs diversity in what its members pursue that lasts long enough to survive misleading early evidence and then gives way to consensus; limited communication and stubborn priors each supply it, and together they make it permanent, so the group never settles |
 | 2026-10-05 | Proposed | [THEORY-143](../../record/theory.d/THEORY-143.md) | 21 | 2 | When a group learns only about the options its members pursue and good evidence is scarce, sparser communication makes it more likely to settle on the better option, at a large cost in speed; when evidence is plentiful, sparsity only slows learning |
 | 2026-10-05 | Proposed | [THEORY-151](../../record/theory.d/THEORY-151.md) | 13 | 2 | Scientific objectivity belongs to a community's critical practices rather than to individual method: because evidence bears on hypotheses only through background assumptions that no evidence supports, a community is objective to the degree that its criticism has venues, uptake, public standards and tempered equality of intellectual authority |
@@ -246,7 +244,6 @@
 | 2026-10-09 | Proposed | [THEORY-162](../../record/theory.d/THEORY-162.md) | 12 | 4 | What an utterance does to the context it is used in is part of its meaning, and its truth conditions do not fix it: sentences with the same truth conditions can differ in what they make available to later discourse, in whether they inform or only test, and in whether they describe a state of affairs or bring one about |
 | 2026-10-09 | Proposed | [THEORY-180](../../record/theory.d/THEORY-180.md) | 12 | 0 | In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise |
 | 2026-10-09 | Proposed | [THEORY-204](../../record/theory.d/THEORY-204.md) | 12 | 2 | In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows |
-| 2026-10-09 | Proposed | [THEORY-163](../../record/theory.d/THEORY-163.md) | 10 | 0 | The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it |
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 8 | 2 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
 | 2026-10-09 | Proposed | [THEORY-170](../../record/theory.d/THEORY-170.md) | 8 | 0 | Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message |
 | 2026-10-09 | Proposed | [THEORY-200](../../record/theory.d/THEORY-200.md) | 7 | 2 | On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task |
@@ -528,7 +525,7 @@
 
 ## ADRs
 
-2 of the 736.
+2 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -537,7 +534,7 @@
 
 ## QUESTIONs
 
-9 of the 736.
+9 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -553,7 +550,7 @@
 
 ## CLAIMs
 
-215 of the 736.
+215 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -775,7 +772,7 @@
 
 ## CASEs
 
-1 of the 736.
+1 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -783,7 +780,7 @@
 
 ## TERMs
 
-2 of the 736.
+2 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -792,7 +789,7 @@
 
 ## ARGs
 
-2 of the 736.
+2 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

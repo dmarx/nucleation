@@ -1,5 +1,8 @@
 ---
+number: 214
 status: Open
+formerly:
+- QUESTION-tmphu7q4
 title: 'Do colour-naming systems stay near the information-bottleneck bound when the need distribution is measured independently of the naming data, and do lexicons in a second semantic domain?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   independently measured source, or in a second domain, is open.
 ---
 
-# QUESTION-tmphu7q4: Do colour-naming systems stay near the information-bottleneck bound when the need distribution is measured independently of the naming data, and do lexicons in a second semantic domain?
+# QUESTION-214: Do colour-naming systems stay near the information-bottleneck bound when the need distribution is measured independently of the naming data, and do lexicons in a second semantic domain?
 
 ## Why it is a question
 

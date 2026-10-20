@@ -23,7 +23,7 @@ history:
     show it false: learning has a minimum cost in total entropy production
     (Goldt and Seifert's Eq. 16), and what has no floor is the heat. The
     open part of the promote_when (weaker assumptions, Earman and Norton,
-    Landauer 1961) moves to QUESTION-tmpxmcgr.
+    Landauer 1961) moves to QUESTION-215.
 tags:
 - information-theory
 - thermodynamics
@@ -46,7 +46,7 @@ summary: >-
   bound information learnt by total entropy production, payable with
   vanishing heat in their toy model. It does not license a k_BT ln 2 heat
   floor per judgment, per gradient step or per bit learnt. Whether the
-  bound survives without reversible dynamics is [QUESTION-tmpxmcgr](../questions.d/QUESTION-tmpxmcgr.md).
+  bound survives without reversible dynamics is [QUESTION-215](../questions.d/QUESTION-215.md).
 ---
 <!-- inactive-ok-file: LIT-328 — Unavailable; named as unread, nothing here quotes it -->
 

@@ -1,5 +1,8 @@
 ---
+number: 213
 status: Open
+formerly:
+- QUESTION-tmp8n4yk
 title: 'In which causal systems would the effect still occur had a higher-level property been realized differently, and how would an intervention show it?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   still occurs. Which systems meet that condition is the open part.
 ---
 
-# QUESTION-tmp8n4yk: In which causal systems would the effect still occur had a higher-level property been realized differently, and how would an intervention show it?
+# QUESTION-213: In which causal systems would the effect still occur had a higher-level property been realized differently, and how would an intervention show it?
 
 ## Why it is a question
 
