@@ -1252,7 +1252,7 @@ history note. THEORY-277 is requeued on this basis.
   on a single context (the constant kernel); deterministic maps do not.
   Use them for a vacuous-class example.
 - A record-own result split from a THEORY can be filed Active at once when
-  its proof is self-contained (CLAIM-370, CLAIM-tmprruzz); its decision
+  its proof is self-contained (CLAIM-370, CLAIM-384); its decision
   file is its review.
 - THEORY-162 joins THEORY-485 and THEORY-167 as entries whose next step is
   a reading task, not a review. Track reading tasks separately from the
@@ -1401,3 +1401,11 @@ history note. THEORY-277 is requeued on this basis.
   asks for a held source.
 - THEORY-019 supports CLAIM-193 and CLAIM-269. Whether they should rest on
   the new claim instead is for their next review.
+
+## 2026-10-20 — tmp codes in the ledger
+
+- A decision file for a CLAIM filed in a batch is named by its tmp code
+  (CLAIM-tmprruzz). docs-generate concretizes the code in record/ but not
+  in record/promotion-audit, so after the filing PR merges, rename the
+  decision file and every ledger reference to the permanent code
+  (CLAIM-tmprruzz became CLAIM-384).

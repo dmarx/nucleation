@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 135
+version: 136
 updated: '2026-10-19'
 record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
 procedure: record/decisions.d/ADR-047.md
@@ -14,10 +14,10 @@ handoff:
     five, sorted by what the title asserts (batch 045 went 5 of 5, 8 of 10 with batch 039). Follow-ups:
     THEORY-019 (file a demonstrated CLAIM, as THEORY-080); reading tasks for THEORY-083, -162, -167, -485.
     Owner questions open: report titles (THEORY-344, -351, -071, -628); filing a split-off record-own
-    result Active at once (CLAIM-tmprruzz); THEORY-110 split (#242); THEORY-073 narrow-and-promote of
-    an argument; CLAIM-143 class-relative wording; THEORY-321 multi-group case; THEORY-185 conditional
-    theorems; CLAIM-139 remedy; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160
-    narrowing; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
+    result Active at once (CLAIM-384); THEORY-110 split (#242); THEORY-073 narrow-and-promote of an argument;
+    CLAIM-143 class-relative wording; THEORY-321 multi-group case; THEORY-185 conditional theorems; CLAIM-139
+    remedy; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160 narrowing; CLAIM-322,
+    CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -2577,13 +2577,13 @@ candidates:
   disposition: retain-proposed
   batch: batch-039
   decision: decisions/THEORY-578.yaml
-- code: CLAIM-tmprruzz
+- code: CLAIM-384
   wave: 1
   triage: batch-046
   state: decided
   disposition: promote
   batch: batch-046
-  decision: decisions/CLAIM-tmprruzz.yaml
+  decision: decisions/CLAIM-384.yaml
   carried_out_in:
   - '#237'
 - code: THEORY-280
@@ -3277,9 +3277,9 @@ history:
     pair.'
 - version: 127
   date: '2026-10-19'
-  note: 'Batch 046 integrated: 2 promotion paths (CLAIM-265, and the new CLAIM-tmprruzz filed Active),
-    1 correction carried out (THEORY-080), 1 retained (THEORY-162); carried_out_in #237; #227 merged before
-    it; requeue updated'
+  note: 'Batch 046 integrated: 2 promotion paths (CLAIM-265, and the new CLAIM-384 filed Active), 1 correction
+    carried out (THEORY-080), 1 retained (THEORY-162); carried_out_in #237; #227 merged before it; requeue
+    updated'
 - version: 128
   date: '2026-10-19'
   note: 'Batch 042 integrated: 3 of 5 found a promotion path; THEORY-019 needs re-filing as a CLAIM; THEORY-344
@@ -3315,4 +3315,7 @@ history:
   note: 'Batch 052 integrated: 2 promotion paths (THEORY-083 narrowed and promoted; the new CLAIM-tmpjqb3e
     filed Active), 1 correction carried out (THEORY-019); carried_out_in #252, #253; THEORY-019 and -083
     off the requeue list'
+- version: 136
+  date: '2026-10-20'
+  note: 'CLAIM-tmprruzz renamed to its permanent code CLAIM-384 in the ledger; #248 merged.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
