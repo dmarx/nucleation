@@ -22,7 +22,7 @@ yield: >-
   PR (ADR-047 v4). THEORY-547, -436 and -627 are arguments the classifier
   called measurements.
 promotion_prs:
-  - "PR pending: THEORY-674 and THEORY-360 narrowed and promoted, with two new Proposed carriers (branch claude/promote-theories-674-360)."
+  - "#296: THEORY-674 and THEORY-360 narrowed and promoted, with two new Proposed carriers, THEORY-tmpx9ksh and THEORY-tmpkxsq7 (branch claude/promote-theories-674-360)."
 band:
   - {code: THEORY-360, title_asserts: measurement plus a report of the authors' reading, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
   - {code: THEORY-547, title_asserts: argument from an idealization, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
