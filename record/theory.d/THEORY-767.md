@@ -49,7 +49,6 @@ summary: >-
   et al. 2011). None of the studies was read here, and no control
   separates the heartbeat from any other periodic signal.
 ---
-<!-- inactive-ok-file: THEORY-766 — Proposed; the corrected rubber hand finding, named -->
 <!-- inactive-ok-file: THEORY-765 THEORY-769 THEORY-768 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-045 THEORY-291 — Proposed; accounts in the interoception cluster this one is joined to, not leaned on -->
 

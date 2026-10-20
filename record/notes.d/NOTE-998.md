@@ -32,7 +32,7 @@ summary: >-
   ownership item, no expectation measure, and a 0.13 °C cooling of the
   real hand in one comparison of four, significant only one-tailed.
 ---
-<!-- inactive-ok-file: THEORY-766 THEORY-769 THEORY-767 THEORY-768 THEORY-458 THEORY-064 — Proposed; accounts this reading bears on, named and not leaned on -->
+<!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 THEORY-458 THEORY-064 — Proposed; accounts this reading bears on, named and not leaned on -->
 
 # NOTE-998: Hohwy & Paton — Explaining away the body
 

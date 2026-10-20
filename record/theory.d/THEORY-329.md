@@ -32,7 +32,7 @@ summary: >-
   joy share fewer (R² 0.08–0.13). The paper calls this causal; the design
   is observational, and the fake set is selected for having spread.
 ---
-<!-- inactive-ok-file: LIT-083 THEORY-055 THEORY-057 THEORY-123 — Proposed; named in Connections to mark what this account is not about, not leaned on -->
+<!-- inactive-ok-file: LIT-083 THEORY-055 THEORY-057 — Proposed; named in Connections to mark what this account is not about, not leaned on -->
 
 # THEORY-329: On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown
 

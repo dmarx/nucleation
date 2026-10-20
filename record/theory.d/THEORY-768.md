@@ -53,7 +53,6 @@ summary: >-
   claims are asserted, and the agency thesis rests on adults whose agency
   was intact.
 ---
-<!-- inactive-ok-file: THEORY-766 — Proposed; the corrected rubber hand finding, named -->
 <!-- inactive-ok-file: THEORY-765 THEORY-769 THEORY-767 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; accounts this one is compared with, not leaned on -->
 <!-- inactive-ok-file: LIT-1186 — Unavailable; the attempted out-of-body study, named for the line it would need, not leaned on -->

@@ -1,24 +1,23 @@
 ---
 number: 105
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5fzhc
-promote_when: >-
-  Three results, none of which the source supplies. First, end-to-end
-  evaluation of points inside the hull of fine-tuned models, not a
-  linear probe refitted on a frozen encoder. Second, the same geometry
-  from other pretrained models and architectures and on generative tasks,
-  with the hull sampled densely enough to estimate it. Third, a direct
-  test of the explanation for averaging. Locate model soups and SWA
-  solutions relative to the region's members and centroid, and show that
-  their gains grow as they sit further inside. It is refuted if hull
-  points lose to their members when evaluated end to end, or if soups and
-  SWA gain while sitting no further inside the region than the members.
-  It is also refuted if the region has no walls in many directions, of
-  which the origin direction of Appendix F is already one. More
-  probe-based hull samples on RoBERTa-base would not move it.
-title: 'Fine-tuning from one pretrained model lands near the edge of a task-specific low-loss region that contains the convex hull of the fine-tuned models, and averaging them moves inward'
-version: 1
+title: "For RoBERTa-base fine-tuned on English classification data, with loss measured by a linear probe refitted on the frozen encoder, points sampled from the convex hull of models fine-tuned on one dataset, one task family or twelve GLUE and SuperGLUE datasets lost no more than any model fine-tuned elsewhere and beat the group's own members in 88% to 96.7% of comparisons, and the centroid of the general-level models was a better starting point for BitFit than the pretrained model"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted from Proposed to Active, carrying out the
+    promotion audit's decision for THEORY-105 (batch 075, ADR-047 v3
+    and v4): one study read in full in NOTE-515. The title now keeps
+    only the results with numbers in the text, for the one model and
+    task type measured, with loss as a linear probe's. The edge
+    clause, which rests on extrapolation curves read only from
+    captions, and the reading of averaging as moving inward leave the
+    title and are filed, with the promote_when unchanged, as the new
+    Proposed THEORY-tmpsug2e, which extends this one.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -39,12 +38,17 @@ summary: >-
   inside the region is argued in its §8, not tested. Moving from the
   centroid towards the origin stays low-loss far past the members, which
   the authors cannot explain.
+  Promoted 2026-10-20 on the probe-loss comparisons measured (ADR-047
+  v3); the geometric thesis is THEORY-tmpsug2e.
 answers:
 - QUESTION-069
+extended_by:
+- THEORY-tmpsug2e
 ---
+<!-- inactive-ok-file: THEORY-tmpsug2e — Proposed; the geometric thesis this narrowing dropped, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-115 THEORY-111 THEORY-107 THEORY-110 — Proposed; the account this one extends and siblings named in Connections, nothing here rests on their open parts -->
 
-# THEORY-105: Fine-tuning from one pretrained model lands near the edge of a task-specific low-loss region that contains the convex hull of the fine-tuned models, and averaging them moves inward
+# THEORY-105: For RoBERTa-base fine-tuned on English classification data, with loss measured by a linear probe refitted on the frozen encoder, points sampled from the convex hull of models fine-tuned on one dataset, one task family or twelve GLUE and SuperGLUE datasets lost no more than any model fine-tuned elsewhere and beat the group's own members in 88% to 96.7% of comparisons, and the centroid of the general-level models was a better starting point for BitFit than the pretrained model
 
 ## Source
 
@@ -137,3 +141,17 @@ better on 9 of 12 datasets, equal on 2 and worse on 1 (§7, Table 2).
   stronger property than a star domain. Since convexity of the region
   itself is not shown, the star-domain description fits this evidence as
   well as the convex one.
+
+## Narrowed and promoted (2026-10-20)
+
+The promotion audit (batch 075) narrowed this entry and promoted it under
+[ADR-047](../decisions.d/ADR-047.md) v3: one study read in full, [NOTE-515](../notes.d/NOTE-515.md), with the title keeping only
+results stated with numbers in the text. The extrapolation behind "near the
+edge" was read only from figure captions and the text's "a relatively flat
+base and steep cliffs", so it left the title, and Appendix F's origin
+direction is already an exception to it.
+
+What the narrowing dropped went to [THEORY-tmpsug2e](THEORY-tmpsug2e.md) under [ADR-047](../decisions.d/ADR-047.md) v4: that
+fine-tuning typically lands near the edge of a task-specific low-loss
+region containing the hull, and that averaging works by moving inward. It
+carries this entry's former promote_when.

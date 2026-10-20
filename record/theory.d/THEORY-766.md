@@ -1,25 +1,24 @@
 ---
 number: 766
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpfufvf
-promote_when: >-
-  A first-hand reading of a rubber hand study in which participants'
-  expectations of the synchronous and comparison conditions are measured in
-  the stimulated participants themselves and matched by design, or shown
-  equal with a Bayes factor, and in which the synchrony difference in
-  referred touch and in ownership survives, each item reported on its own
-  with trait suggestibility as a covariate. Surviving trait suggestibility
-  alone does not meet this: the reply of Lush and Seth shows that a
-  synchrony effect unrelated to suggestibility is also what unequal but
-  uniform expectations predict. It is refuted if, with expectations matched,
-  synchronous and comparison brushing no longer differ on the ownership
-  item; the referred-touch clause is refuted if they no longer differ on it
-  either. A further replication with only control statements or an
-  asynchronous condition as its control cannot settle it, and neither can
-  drift.
-title: "Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them"
-version: 1
+title: "Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them; the standard comparison conditions do not equalise participants' expectations, so whether the stimulation or the expectation produces the report difference is open"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promoted from Proposed to Active, carrying out the promotion
+    audit's decision for THEORY-766 (batch 075, ADR-047 v3 and v4):
+    the report differences, the weaker ownership item and the drift
+    dissociation each rest on studies read in full, and the title now
+    adds that the standard controls do not equalise expectations, so
+    it claims no more than was measured. The promote_when tested only
+    the causal reading, that the stimulation produces the difference;
+    that reading, Ehrsson et al.'s, is filed with the promote_when
+    unchanged as the new Proposed THEORY-tmppz903, which extends this
+    one.
 tags:
 - self
 - neuroscience
@@ -49,11 +48,16 @@ summary: >-
   referred-touch report and tracks trait suggestibility. Whether the
   synchronous stimulation, not expectation, produces the report difference
   is not settled.
+  Promoted 2026-10-20 on the report differences measured ([ADR-047](../decisions.d/ADR-047.md) v3);
+  the perceptual reading is [THEORY-tmppz903](THEORY-tmppz903.md).
+extended_by:
+- THEORY-tmppz903
 ---
+<!-- inactive-ok-file: THEORY-tmppz903 — Proposed; the perceptual reading this entry leaves open, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-765 — Rejected; the account this one corrects, named -->
 <!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 THEORY-458 THEORY-064 — Proposed; accounts this finding bears on, named and not leaned on -->
 
-# THEORY-766: Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them
+# THEORY-766: Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them; the standard comparison conditions do not equalise participants' expectations, so whether the stimulation or the expectation produces the report difference is open
 
 ## Source
 
@@ -164,3 +168,14 @@ ownership arises.
   expectation, is what manipulates them.
 - **[QUESTION-048](../questions.d/QUESTION-048.md).** A worked case: report and behaviour dissociate, and
   both sides agree on the numbers while disagreeing on what they show.
+
+## Narrowed and promoted (2026-10-20)
+
+The promotion audit (batch 075) promoted this entry under [ADR-047](../decisions.d/ADR-047.md) v3. Its
+title already rested on ten works read in full and claimed no causal
+attribution; the clause on expectations is added so that "raises reports"
+cannot be read as saying the stimulation produces the difference.
+
+That reading, Ehrsson et al.'s claim that the illusion is perceptual and
+multisensory ([NOTE-997](../notes.d/NOTE-997.md), C8), went to [THEORY-tmppz903](THEORY-tmppz903.md) under [ADR-047](../decisions.d/ADR-047.md) v4,
+with this entry's former promote_when, which is its test.

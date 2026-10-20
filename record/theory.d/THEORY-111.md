@@ -61,7 +61,7 @@ supports:
 - CLAIM-187
 - CLAIM-263
 ---
-<!-- inactive-ok-file: THEORY-116 THEORY-105 — Proposed; the account this one extends, and a sibling named in Connections, nothing here rests on their open parts -->
+<!-- inactive-ok-file: THEORY-116 — Proposed; the account this one extends, and a sibling named in Connections, nothing here rests on their open parts -->
 
 # THEORY-111: Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features
 

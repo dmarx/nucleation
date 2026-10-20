@@ -49,7 +49,6 @@ summary: >-
   synchrony alone, apart from expectation, produces the report, and it
   concerns a hand, not the whole body or the self.
 ---
-<!-- inactive-ok-file: THEORY-766 — Proposed; the corrected rubber hand finding, named -->
 <!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; accounts this finding bears on, named and not leaned on -->
 
