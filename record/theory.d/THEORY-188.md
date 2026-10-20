@@ -21,8 +21,8 @@ history:
   note: >-
     Promotion audit, batch 057: the reading task batch 048 set. Two
     rigorous sources filed and skimmed, Gugelmann, Panagiotou and Peter
-    (LIT-tmp30ynx, NOTE-tmp79m4y) and Candellero and Fountoulakis
-    (LIT-tmple1gv, NOTE-tmprov8v), and added to `source:`. Their theorems
+    (LIT-1282, NOTE-1010) and Candellero and Fountoulakis
+    (LIT-1283, NOTE-1011), and added to `source:`. Their theorems
     meet the promote_when's T = 0 degree and clustering clauses and its
     T ≥ 1 clustering clause as statements, and show the T < 1 clustering
     clause holds for the global coefficient only when α > ζ. A dated note
@@ -33,8 +33,8 @@ tags:
 date: '2026-10-09'
 source:
 - LIT-865
-- LIT-tmp30ynx
-- LIT-tmple1gv
+- LIT-1282
+- LIT-1283
 summary: >-
   Krioukov, Papadopoulos, Kitsak, Vahdat and Boguñá (2010), [LIT-865](../literature.d/LIT-865.md):
   derived, in a large-distance approximation, for a model in the
@@ -120,7 +120,7 @@ linear in it.
 Promotion audit, batches 048 and 057. The promote_when asks for proofs in
 the limit N → ∞. Two held sources now state them in part.
 
-- **Degrees, T = 0.** Gugelmann, Panagiotou and Peter ([LIT-tmp30ynx](../literature.d/LIT-tmp30ynx.md),
+- **Degrees, T = 0.** Gugelmann, Panagiotou and Peter ([LIT-1282](../literature.d/LIT-1282.md),
   Theorems 2.2–2.4) prove for the threshold model at curvature −1 that the
   degree sequence is a power law with exponent 2α + 1 up to the maximum
   degree, which is 2α/ζ + 1 at ζ = 1, with the large-distance
@@ -130,7 +130,7 @@ the limit N → ∞. Two held sources now state them in part.
 - **Clustering, T = 0.** The same paper proves the average local
   clustering coefficient is Θ(1) with high probability (Theorem 2.1): a
   lower bound, not a limit.
-- **Clustering, T > 0.** Candellero and Fountoulakis ([LIT-tmple1gv](../literature.d/LIT-tmple1gv.md),
+- **Clustering, T > 0.** Candellero and Fountoulakis ([LIT-1283](../literature.d/LIT-1283.md),
   Theorem 1.2) prove, for the global clustering coefficient C2 with
   0 < ζ/α < 2: below T = 1, C2 tends to a positive constant when ζ/α < 1
   and to zero when 1 ≤ ζ/α < 2; at and above T = 1, C2 tends to zero. So
@@ -143,8 +143,8 @@ the limit N → ∞. Two held sources now state them in part.
   the link probability is a function of e^(−ζr_i/2)e^(−ζr_j/2), the
   product of the two expected degrees, by inspection.
 
-What keeps the account Proposed: both readings are skims ([NOTE-tmp79m4y](../notes.d/NOTE-tmp79m4y.md),
-[NOTE-tmprov8v](../notes.d/NOTE-tmprov8v.md)), the theorems taken as stated and the proofs followed only
+What keeps the account Proposed: both readings are skims ([NOTE-1010](../notes.d/NOTE-1010.md),
+[NOTE-1011](../notes.d/NOTE-1011.md)), the theorems taken as stated and the proofs followed only
 in outline, which is what held [THEORY-270](THEORY-270.md) in batch 038; and the T < 1
 local-clustering clause has no held source. If promoted, the title should
 name the clustering coefficient and the ζ/α < 1 condition for the global

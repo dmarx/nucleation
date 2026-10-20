@@ -6,7 +6,7 @@
 
 **Learning and conditioning** — how organisms learn from contingencies and consequences — Pavlovian and instrumental conditioning, reinforcement and reward learning in brains, habit and goal-directed control, behaviour analysis and relational responding. Not machine learning, which is learning-theory or the anthology (ADR-025).
 
-15 of 1281 LIT documents. Back to the [full index](../README.md).
+15 of 1283 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

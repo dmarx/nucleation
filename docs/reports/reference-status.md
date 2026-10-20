@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**488 documents cited without acknowledgement.** Not listed: 9905 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**490 documents cited without acknowledgement.** Not listed: 9913 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2704,6 +2704,28 @@ Algebraic Geometry and Statistical Learning Theory
 - [`record/notes.d/NOTE-283.md:178`](../../record/notes.d/NOTE-283.md)
 - [`record/notes.d/NOTE-287.md:125`](../../record/notes.d/NOTE-287.md)
 - [`record/notes.d/NOTE-287.md:150`](../../record/notes.d/NOTE-287.md)
+
+### [NOTE-1010](../../record/notes.d/NOTE-1010.md) — Skimmed
+
+Random Hyperbolic Graphs: Degree Sequence and Clustering
+
+4 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-1282.md:12`](../../record/literature.d/LIT-1282.md)
+- [`record/literature.d/LIT-1282.md:82`](../../record/literature.d/LIT-1282.md)
+- [`record/theory.d/THEORY-188.md:24`](../../record/theory.d/THEORY-188.md)
+- [`record/theory.d/THEORY-188.md:146`](../../record/theory.d/THEORY-188.md)
+
+### [NOTE-1011](../../record/notes.d/NOTE-1011.md) — Skimmed
+
+Clustering and the hyperbolic geometry of complex networks
+
+4 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-1283.md:12`](../../record/literature.d/LIT-1283.md)
+- [`record/literature.d/LIT-1283.md:84`](../../record/literature.d/LIT-1283.md)
+- [`record/theory.d/THEORY-188.md:25`](../../record/theory.d/THEORY-188.md)
+- [`record/theory.d/THEORY-188.md:147`](../../record/theory.d/THEORY-188.md)
 
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
@@ -5828,7 +5850,7 @@ None. Every scanned file is checked. ✅
 - record/questions.d/QUESTION-220.md:30: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
-- record/theory.d/THEORY-188.md:34: annotation no longer applies — QUESTION-025 is Active now
+- record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-201.md:42: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-213.md:42: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
