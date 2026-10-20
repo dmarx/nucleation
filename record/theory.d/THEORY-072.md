@@ -27,7 +27,19 @@ promote_when: >-
   the flame asserted without the definitions applied, which is how every
   holding in the record now treats it.
 title: 'Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The formal core of the record's reading of the 2015 closure is filed
+    as CLAIM-tmp2pvi2, Active and demonstrated, by the promotion audit
+    (batch 064, ADR-032 and ADR-040): a closed set has at least two
+    constraints and, under two stated readings of the time scales, a slow
+    and a fast dependence, so a single-constraint system cannot realise
+    closure. This THEORY keeps the demarcation thesis and stays Proposed;
+    its promote_when (a flame and a protocell analysed under Definitions
+    1-4, and two unread works) is unchanged.
 tags:
 - philosophy-of-biology
 - individuation
@@ -130,6 +142,15 @@ is differentiation in the 2009 sense, built into closure. [NOTE-468](../notes.d/
 and [NOTE-444](../notes.d/NOTE-444.md) both reach this reading and both mark it as an
 inference. The title states the line in the form common to the two
 papers.
+
+**2026-10-20.** The first half of this reading is now proved, not
+inferred: [CLAIM-tmp2pvi2](../claims.d/CLAIM-tmp2pvi2.md) shows from Definition 4 that a closed set has at
+least two constraints, and, if each constraint is produced at the
+conserved scale of a generator in the set and not at its own, that it
+has both a slow and a fast dependence. The paper states the second
+property and does not prove it. The step from two constraints at
+distinct scales to the 2009 paper's differentiation is still the
+record's interpretation.
 
 ## What this does not say
 
