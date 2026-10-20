@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**497 documents cited without acknowledgement.** Not listed: 9601 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**496 documents cited without acknowledgement.** Not listed: 9599 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2937,18 +2937,7 @@ In sparse distributed memory, recall of uniform random data is a signal-to-noise
 - [`record/literature.d/LIT-921.md:28`](../../record/literature.d/LIT-921.md)
 - [`record/literature.d/LIT-921.md:96`](../../record/literature.d/LIT-921.md)
 - [`record/notes.d/NOTE-779.md:213`](../../record/notes.d/NOTE-779.md)
-- [`record/theory.d/THEORY-272.md:97`](../../record/theory.d/THEORY-272.md)
-
-### [THEORY-272](../../record/theory.d/THEORY-272.md) — Proposed
-
-A network of threshold units with symmetric Hebbian couplings is a content-addressable memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns, memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are forgotten
-
-4 citations in 3 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-918.md:30`](../../record/literature.d/LIT-918.md)
-- [`record/literature.d/LIT-918.md:104`](../../record/literature.d/LIT-918.md)
-- [`record/notes.d/NOTE-819.md:241`](../../record/notes.d/NOTE-819.md)
-- [`record/theory.d/THEORY-261.md:85`](../../record/theory.d/THEORY-261.md)
+- [`record/theory.d/THEORY-272.md:100`](../../record/theory.d/THEORY-272.md)
 
 ### [THEORY-285](../../record/theory.d/THEORY-285.md) — Proposed
 
@@ -5894,7 +5883,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 1 mention marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 2 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)

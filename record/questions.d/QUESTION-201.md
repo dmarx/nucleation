@@ -1,10 +1,13 @@
 ---
+number: 201
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpymmv6
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: 'Do random patterns stored by the Hebbian outer-product rule stay attractors with basins of nonzero width up to a load near 0.14N at large N, does recall then collapse for every pattern at once, and at what overlap do two stored patterns fuse?'
@@ -29,7 +32,7 @@ summary: >-
 
 <!-- unresolved-ok-file: QUESTION-000 — the placeholder a new document replaces -->
 
-# QUESTION-tmpymmv6: Do random patterns stored by the Hebbian outer-product rule stay attractors with basins of nonzero width up to a load near 0.14N at large N, does recall then collapse for every pattern at once, and at what overlap do two stored patterns fuse?
+# QUESTION-201: Do random patterns stored by the Hebbian outer-product rule stay attractors with basins of nonzero width up to a load near 0.14N at large N, does recall then collapse for every pattern at once, and at what overlap do two stored patterns fuse?
 
 ## Why it is a question
 

@@ -18,7 +18,7 @@ history:
     forgetting clause, reported only in words, is dropped. The dated
     note below checks the energy argument and the crosstalk estimate.
     The large-N request in the promote_when moves to
-    QUESTION-tmpymmv6.
+    QUESTION-201.
 tags:
 - complex-systems
 - neuroscience
@@ -129,4 +129,4 @@ Checked for the promotion audit (batch 051, [ADR-047](../decisions.d/ADR-047.md)
    - At N = 100 with n = 500, no stored pattern was stable.
 
    Whether 0.15N holds at large N, and how the fusion distance scales, is
-   [QUESTION-tmpymmv6](../questions.d/QUESTION-tmpymmv6.md).
+   [QUESTION-201](../questions.d/QUESTION-201.md).

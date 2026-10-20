@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**751 document(s) awaiting a decision.**
+**750 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 751.
+95 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-425 of the 751.
+424 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -316,7 +316,6 @@
 | 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 6 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
 | 2026-10-14 | Proposed | [THEORY-244](../../record/theory.d/THEORY-244.md) | 6 | 0 | Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution |
 | 2026-10-14 | Proposed | [THEORY-262](../../record/theory.d/THEORY-262.md) | 6 | 0 | Neural complexity is low when a system's parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated; in simulated cortex, patchy grouped connectivity raises it above random connectivity of equal density |
-| 2026-10-14 | Proposed | [THEORY-272](../../record/theory.d/THEORY-272.md) | 6 | 4 | A network of threshold units with symmetric Hebbian couplings is a content-addressable memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns, memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are forgotten |
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 6 | 0 | Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 5 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
@@ -543,7 +542,7 @@
 
 ## ADRs
 
-2 of the 751.
+2 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -552,7 +551,7 @@
 
 ## QUESTIONs
 
-9 of the 751.
+9 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -568,7 +567,7 @@
 
 ## CLAIMs
 
-215 of the 751.
+215 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -790,7 +789,7 @@
 
 ## CASEs
 
-1 of the 751.
+1 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -798,7 +797,7 @@
 
 ## TERMs
 
-2 of the 751.
+2 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -807,7 +806,7 @@
 
 ## ARGs
 
-2 of the 751.
+2 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
