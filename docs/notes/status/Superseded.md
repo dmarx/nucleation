@@ -6,7 +6,7 @@
 
 **Re-read** — a later reading replaced this one, and names it.
 
-38 of 968 NOTE documents. Back to the [full index](../README.md).
+38 of 1011 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

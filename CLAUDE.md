@@ -1,13 +1,14 @@
 # CLAUDE.md
 
 **Before anything else, read [the design principles](docs/design-principles.md)
-in full, then [ADR-001](record/decisions.d/ADR-001.md).** Together they say what
-this record is for.
+in full, then [ADR-001](record/decisions.d/ADR-001.md) and
+[ADR-048](record/decisions.d/ADR-048.md).** Together they say what this record
+is for.
 
 Nucleation is the catchall companion to the
 [Anthology of the SOTA](https://github.com/dmarx/anthology-of-the-sota). It
-holds reading whose subject no anthology topic can hold. Its memory is a Luria
-record, scaffolded, generated and linted by the `luria` CLI. This file is a
+holds whatever reading the owner files here. Its memory is a Luria record,
+scaffolded, generated and linted by the `luria` CLI. This file is a
 map, not a copy. When it disagrees with `luria --help` or with the record, this
 file is wrong.
 
@@ -32,20 +33,16 @@ file is wrong.
 
 ## The boundary
 
-**By default, if an anthology topic can hold a work, it goes to the anthology,
-not here.** The same applies if the work carries an instruction for
-machine-learning practice. To cite the anthology, write `ANTH-LIT-285` or
-`ANTH-THEORY-106`. Codes are not shared between the records.
+**Nucleation files any work the owner wants here, whether or not an anthology
+topic could hold it** ([ADR-048](record/decisions.d/ADR-048.md)). Do not check
+the anthology before filing: whether a work is also held there is the
+anthology's question, not this record's. The one thing that still belongs to
+the anthology is an instruction for machine-learning practice.
 
-**A work may be held in both records when each reads it for its own question**
-([ADR-013](record/decisions.d/ADR-013.md)). Each entry is its own reading, with
-its own NOTE, status, tags and relations. The two entries name each other: the
-nucleation LIT cites the `ANTH-LIT-…` code in its body. The curation entry
-states the second question. Check the anthology before filing, and when the
-owner asks for a work here that the anthology holds, file it here under this
-rule rather than declining. A work filed here that an anthology topic could
-hold carries the `anthology-candidate` flag last
-([ADR-005](record/decisions.d/ADR-005.md)).
+When you know the anthology's code for the same work, cite it (`ANTH-LIT-285`,
+`ANTH-THEORY-106`). It is a nice-to-have, not a requirement. Codes are not
+shared between the records. A work that the anthology may also want carries
+the `anthology-candidate` flag last ([ADR-005](record/decisions.d/ADR-005.md)).
 
 ## Rules that are enforced
 

@@ -6,6 +6,12 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [20 Oct 01:49 — Six more: philosophers' experiments on the rubber hand and self-location, and folk-concept x-phi on the self and pain](2026-10.md#six-more-philosophers-experiments-on-the-rubber-hand-and-self-location-and-folk-concept-x-phi-on-the-self-and-pain)
+- [20 Oct 01:05 — First readings of the coarse-to-fine program: six works read, copies sought for nine, three Unavailable, and what the readings gave the record](2026-10.md#first-readings-of-the-coarse-to-fine-program-six-works-read-copies-sought-for-nine-three-unavailable-and-what-the-readings-gave-the-record)
+- [20 Oct 00:59 — Nine experimental works on the rubber hand illusion, and the THEORY they correct](2026-10.md#nine-experimental-works-on-the-rubber-hand-illusion-and-the-theory-they-correct)
+- [20 Oct 00:10 — Four THEORYs from the rubber-hand batch, all Proposed](2026-10.md#four-theorys-from-the-rubber-hand-batch-all-proposed)
+- [19 Oct 23:53 — Five works on the rubber hand illusion and bodily self-consciousness, filed to fill a gap next to Metzinger's self-model](2026-10.md#five-works-on-the-rubber-hand-illusion-and-bodily-self-consciousness-filed-to-fill-a-gap-next-to-metzingers-self-model)
+- [19 Oct 22:53 — Nineteen works registered unread from the exchange on coarse-to-fine processes and the physics of model reduction; Simon & Ando and Barnett & Seth already held](2026-10.md#nineteen-works-registered-unread-from-the-exchange-on-coarse-to-fine-processes-and-the-physics-of-model-reduction-simon--ando-and-barnett--seth-already-held)
 - [19 Oct 04:15 — The promotion audit's follow-up: THEORY-087's regular half, and the claims that cite THEORY-156](2026-10.md#the-promotion-audits-follow-up-theory-087s-regular-half-and-the-claims-that-cite-theory-156)
 - [19 Oct 03:41 — The promotion audit's second pass: the proved parts of THEORY-001, -005, -008 and -156](2026-10.md#the-promotion-audits-second-pass-the-proved-parts-of-theory-001--005--008-and--156)
 - [19 Oct 02:41 — The owner's promotion audit of 2026-10-19: two corrections, two promotions and a split](2026-10.md#the-owners-promotion-audit-of-2026-10-19-two-corrections-two-promotions-and-a-split)
@@ -106,9 +112,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-144 entries across 2 books, newest first.
+150 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 97 | 2026-10-01 | 2026-10-19 |
+| [2026-10](2026-10.md) | 103 | 2026-10-01 | 2026-10-20 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

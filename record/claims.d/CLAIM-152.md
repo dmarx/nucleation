@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3qyzh
 title: 'Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal'
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-11'
@@ -26,6 +26,10 @@ history:
     A formal instance from NOTE-833 (LIT-235): THEORY-320, where
     the auxiliary labelled data decides which partition of the same
     unlabelled data wins. Added as a note; the claim is unchanged.
+- version: 4
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added: the target is itself relative to an instrument (THEORY-756). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -153,3 +157,15 @@ partitioned by colour or by shape depending on which auxiliary labelled
 classes are present (Theorem 5.2 against Lemma 5.4). What the top
 eigenspace picks out is relative to what else the operator connects.
 Recorded as support; the claim is unchanged.
+
+## Note of 2026-10-20: the target is relative to an instrument
+
+The causal states, the minimal sufficient partition for predicting a
+process's future, are canonical only given the target. Crutchfield and
+Shalizi's own logistic-map example ([NOTE-978](../notes.d/NOTE-978.md)) adds that the target
+also depends on the measuring instrument. Under a generating partition the
+map has one causal state; under a non-generating partition it has
+countably many. [THEORY-756](../theory.d/THEORY-756.md) records that among fully predictive
+partitions the causal states are the coarsest. So sufficiency
+individuates relative to a target, and the target is relative to how the
+system is observed. That is this claim's point, one level down.

@@ -4,18 +4,22 @@ status: Active
 formerly:
 - THEORY-tmp5vljo
 title: 'In variational renormalization over general Boltzmann machines, neither a matched partition function nor Kadanoff''s exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a further stated condition'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Added the Raju, Machta and Sethna connection
+    (THEORY-742). This provides a candidate
+    relevance condition using the singular Fisher
+    metric but does not settle QUESTION-205.
+    The Active theorem is unchanged.
 - version: 2
   date: '2026-10-20'
   note: >-
-    Narrowed and promoted, carrying out the promotion audit's decision for
-    THEORY-202 (batch 049, ADR-047 v2). The dated note below re-derives both
-    counterexamples. The title is held to the two conditions taken as
-    criteria over general Boltzmann machines, since the second construction
-    needs visible–visible couplings and so lies outside Kadanoff's kernel
-    families. The promote_when, which asks about those families, moves to
-    QUESTION-205.
+    Narrowed and promoted under ADR-047, batch 049.
+    The counterexamples are re-derived below.
+    The remaining Kadanoff-family question is QUESTION-205.
 tags:
 - natural-sciences
 - representation-learning
@@ -132,3 +136,11 @@ chosen freely. The construction needs a visible–visible term H(v) in E,
 which a restricted Boltzmann machine lacks, and it couples no hidden spin
 to any block, which Kadanoff's kernels require. The title is held to
 general Boltzmann machines for that reason.
+
+**A candidate target (2026-10-20).** [THEORY-742](THEORY-742.md) (Raju, Machta and 
+Sethna) proposes keeping the singular part of the Fisher metric of the
+bare couplings. This record's non-interacting construction fails that
+target, since its coarse variables carry no Fisher information about the
+couplings. The identity map passes it, so it is necessary, not
+sufficient. It does not meet this account's promote_when, which asks
+about variational RG and the trace condition.

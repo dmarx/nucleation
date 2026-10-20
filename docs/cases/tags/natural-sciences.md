@@ -2,11 +2,11 @@
 
 # CASEs with `tags` `natural-sciences`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Natural sciences** — physics, astronomy, planetary and earth science, chemistry, biology and medicine read outside any machine-learning claim.
 
-1 of 119 CASE documents. Back to the [full index](../README.md).
+1 of 120 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
