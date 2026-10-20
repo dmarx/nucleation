@@ -72,7 +72,7 @@ limit taken ([NOTE-1015](../notes.d/NOTE-1015.md)).
 
 - **Not for Markov chains as stated.** There a slow eigenfunction closes
   only in conditional mean; closing the whole law needs eigenvectors
-  constant on the blocks, that is strong lumpability ([THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md)).
+  constant on the blocks, that is strong lumpability ([THEORY-822](../theory.d/THEORY-822.md)).
   Slowness then gives metastability, not exact closure.
 - **Not that slowness finds closure in general.** In irreversible
   linear dynamics, in nonlinear dynamics, or at lags above one, a slow

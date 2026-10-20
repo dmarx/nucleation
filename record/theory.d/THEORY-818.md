@@ -1,5 +1,8 @@
 ---
+number: 818
 status: Proposed
+formerly:
+- THEORY-tmpdjsgt
 promote_when: >-
   A rerun of the two-scale Lorenz 96 test at the paper's parameters
   (ε = 0.5, K = 18, J = 20, F = 10, h_x = −1, h_y = 1), by the record or
@@ -17,7 +20,7 @@ history:
 - version: 1
   date: '2026-10-20'
   note: >-
-    Filed Proposed from NOTE-tmpejcu2. The numbers are the paper's
+    Filed Proposed from NOTE-1028. The numbers are the paper's
     Tables 2–3 and Figs. 1–2, the figures read from the rendered arXiv
     pages, which match the published text on PMC. Proposed because the
     evidence is one numerical study whose model orders were selected by
@@ -30,11 +33,11 @@ tags:
 - natural-sciences
 date: '2026-10-20'
 source:
-- LIT-tmp6gimq
+- LIT-1304
 answers:
 - QUESTION-222
 summary: >-
-  Chorin and Lu (2015), [LIT-tmp6gimq](../literature.d/LIT-tmp6gimq.md), read in [NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md). A data-driven
+  Chorin and Lu (2015), [LIT-1304](../literature.d/LIT-1304.md), read in [NOTE-1028](../notes.d/NOTE-1028.md). A data-driven
   closure with one or two steps of discrete memory, plus one moving-average
   innovation, is enough on this test to reproduce the resolved statistics
   and to double forecast skill against a memoryless-in-x closure. It is the
@@ -45,12 +48,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-747 — Proposed; the analogous empirical account from the turbulence reading -->
 
-# THEORY-tmpdjsgt: In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from 2 to 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound
+# THEORY-818: In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from 2 to 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound
 
 ## Source
 
-Chorin and Lu (2015), *PNAS* 112(32):9804–9809, [LIT-tmp6gimq](../literature.d/LIT-tmp6gimq.md), read in full
-in [NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md). The closure is the paper's Eqs. 5–7 and 10. The results
+Chorin and Lu (2015), *PNAS* 112(32):9804–9809, [LIT-1304](../literature.d/LIT-1304.md), read in full
+in [NOTE-1028](../notes.d/NOTE-1028.md). The closure is the paper's Eqs. 5–7 and 10. The results
 are its Tables 2–3 and Figs. 1–2.
 
 ## What was actually shown
@@ -116,7 +119,7 @@ dependence on the past of x non-zero at every lag, decaying geometrically.
   moves with the orders, and no out-of-sample rule for choosing them. The
   statistics used to choose the structure are among those reported.
 - **Not that the closure approximates the Mori–Zwanzig memory.** The paper
-  draws the link by analogy only ([NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md)). The fitted Φ is whatever
+  draws the link by analogy only ([NOTE-1028](../notes.d/NOTE-1028.md)). The fitted Φ is whatever
   predicts z best within the chosen family; it also absorbs the RK4
   scheme's own error at step δ, which the paper intends.
 - **Not a property of the system independent of the sampling.** The fitted
@@ -136,7 +139,7 @@ dependence on the past of x non-zero at every lag, decaying geometrically.
 turbulence: a finite set of memory coordinates whose length is fitted and
 whose error is not bounded. This account is the discrete, data-driven
 version of the same shape, in a chaotic system without a scale gap. The
-record's linear check in [NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md) shows the mechanism by which a few
+record's linear check in [NOTE-1028](../notes.d/NOTE-1028.md) shows the mechanism by which a few
 lags can be exact: a partially observed linear Gaussian VAR(1) is an ARMA
 process whose order matches the rank of its MZ memory kernels ([CLAIM-389](../claims.d/CLAIM-389.md),
 [NOTE-989](../notes.d/NOTE-989.md)), so a memory non-zero at every lag is carried exactly by

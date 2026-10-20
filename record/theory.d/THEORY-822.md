@@ -1,12 +1,15 @@
 ---
+number: 822
 status: Active
+formerly:
+- THEORY-tmpz4ja2
 title: 'For a Markov chain and a partition of its states, strong lumpability, every state of a block sending the same probability into each block, is the column-equitability of the master-equation operator and makes the block label informationally closed; when the chain is irreducible, an informationally closed label that is itself Markov is strongly lumpable, with no aperiodicity needed; weak lumpability gives a Markov label that need not be closed; and the same holds on the causal-state chain of any stationary process'
 version: 1
 history:
 - version: 1
   date: '2026-10-20'
   note: >-
-    Filed Active from NOTE-tmpvlpd4. The results are the paper's
+    Filed Active from NOTE-1030. The results are the paper's
     Proposition 4 and Theorem 3, with Counterexamples 4, 6 and 7. The
     paper proves the converse through a cited theorem of Geiger and Temmel
     for stationary, irreducible, aperiodic finite chains. It is re-derived
@@ -20,19 +23,19 @@ tags:
 - mathematics
 date: '2026-10-20'
 source:
-- LIT-tmpcw129
+- LIT-1306
 - LIT-1242
 answers:
 - QUESTION-218
 summary: >-
-  Rosas et al. (arXiv 2024), [LIT-tmpcw129](../literature.d/LIT-tmpcw129.md), read in [NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md), on Kemeny–Snell lumpability, joined to Shpak et al.'s column-equitable partitions ([LIT-1242](../literature.d/LIT-1242.md), [THEORY-755](THEORY-755.md)). Exact closure of a block label in a Markov chain is a condition on transition rows, a symmetry, and not weak coupling. The converse needs the label to be Markov: a closed label can have memory. Exact results only, with no bound for nearly lumpable partitions.
+  Rosas et al. (arXiv 2024), [LIT-1306](../literature.d/LIT-1306.md), read in [NOTE-1030](../notes.d/NOTE-1030.md), on Kemeny–Snell lumpability, joined to Shpak et al.'s column-equitable partitions ([LIT-1242](../literature.d/LIT-1242.md), [THEORY-755](THEORY-755.md)). Exact closure of a block label in a Markov chain is a condition on transition rows, a symmetry, and not weak coupling. The converse needs the label to be Markov: a closed label can have memory. Exact results only, with no bound for nearly lumpable partitions.
 ---
-# THEORY-tmpz4ja2: For a Markov chain and a partition of its states, strong lumpability, every state of a block sending the same probability into each block, is the column-equitability of the master-equation operator and makes the block label informationally closed; when the chain is irreducible, an informationally closed label that is itself Markov is strongly lumpable, with no aperiodicity needed; weak lumpability gives a Markov label that need not be closed; and the same holds on the causal-state chain of any stationary process
+# THEORY-822: For a Markov chain and a partition of its states, strong lumpability, every state of a block sending the same probability into each block, is the column-equitability of the master-equation operator and makes the block label informationally closed; when the chain is irreducible, an informationally closed label that is itself Markov is strongly lumpable, with no aperiodicity needed; weak lumpability gives a Markov label that need not be closed; and the same holds on the causal-state chain of any stationary process
 
 ## Source
 
-Rosas et al. (2024), arXiv:2402.09090, [LIT-tmpcw129](../literature.d/LIT-tmpcw129.md), read in full in
-[NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md): Definition 7, Lemma 4 (cited from Geiger and Temmel 2014),
+Rosas et al. (2024), arXiv:2402.09090, [LIT-1306](../literature.d/LIT-1306.md), read in full in
+[NOTE-1030](../notes.d/NOTE-1030.md): Definition 7, Lemma 4 (cited from Geiger and Temmel 2014),
 Proposition 4, Theorem 3 and Counterexamples 4, 6 and 7. Lumpability is
 from Kemeny and Snell (*Finite Markov Chains*, §6.3–6.4). The link to
 column-equitable partitions is the record's, from [THEORY-755](THEORY-755.md) (Shpak et
@@ -61,7 +64,7 @@ lumpability.
 
 **Strong lumpability ⟹ informational closure.** By the row condition,
 p(Z_{t+1} | X⃗_t) = q(Z_t, ·), a function of Z_t. So
-I(X⃗_t; Z_{t+1} | Z⃗_t) = 0, and by [THEORY-tmpri29w](THEORY-tmpri29w.md) (a) Z is
+I(X⃗_t; Z_{t+1} | Z⃗_t) = 0, and by [THEORY-820](THEORY-820.md) (a) Z is
 informationally closed, i.e. dynamically independent. No irreducibility,
 aperiodicity or stationarity of the start is needed. The paper's
 Proposition 4 assumes all three.
@@ -111,7 +114,7 @@ of any stationary process X, a Markov chain with unifilar transitions.
   informationally closed. Z is then a coarse-graining of X's past, not in
   general of its present state.
 - *(3) Closure gives strong lumpability.* Let Z = f(X_t) be spatial and
-  informationally closed. By [THEORY-tmpri29w](THEORY-tmpri29w.md), E′_t = f*(E_t), with
+  informationally closed. By [THEORY-820](THEORY-820.md), E′_t = f*(E_t), with
   E′_{t+1} = δ(E′_t, Z_{t+1}) by unifilarity. So
   p(E′_{t+1} | E_t) = Σ_z p(Z_{t+1} = z | E_t)·1[δ(E′_t, z) = ·].
   Here p(Z_{t+1} | E_t) = p(Z_{t+1} | X⃗_t) = p(Z_{t+1} | Z⃗_t) =
@@ -136,11 +139,11 @@ lumpability, which is the wrong notion for closure.
   lumpable partitions are closed under common coarsening: within a block
   of the join, states are linked by chains of shared blocks of either
   partition, and each link preserves the probabilities into the join's
-  blocks. They are not closed under common refinement ([THEORY-tmpri29w](THEORY-tmpri29w.md)'s
+  blocks. They are not closed under common refinement ([THEORY-820](THEORY-820.md)'s
   three-bit example, where A and B are strongly lumpable and (A, B) is
   not).
 - **Not anything approximate.** A partition whose row sums nearly agree
-  is not shown to be nearly closed. One example in [NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md) (a
+  is not shown to be nearly closed. One example in [NOTE-1030](../notes.d/NOTE-1030.md) (a
   jittered modular walk) fits that, and it is no bound.
 - **Not that closure needs modularity.** On a random walk with uniform
   weights, every partition is strongly lumpable (checked on 50 random

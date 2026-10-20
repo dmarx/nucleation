@@ -6,7 +6,7 @@
 
 **No copy reached** — a lawful full text was looked for and none could be obtained — none was found, or one was found that this client could not fetch; the status note says where and when. Not a judgement on merit, and a supplied copy returns it to reading (ADR-041).
 
-262 of 1303 LIT documents. Back to the [full index](../README.md).
+262 of 1307 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

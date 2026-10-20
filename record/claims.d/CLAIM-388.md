@@ -16,7 +16,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The note of 2026-10-20 gains the Markov-chain counterpart, from the reading of Rosas et al. (NOTE-tmpvlpd4): with uniform weights every partition is strongly lumpable. The claim is unchanged.
+    The note of 2026-10-20 gains the Markov-chain counterpart, from the reading of Rosas et al. (NOTE-1030): with uniform weights every partition is strongly lumpable. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -118,6 +118,6 @@ choice between "a subset of members" and "a function of the whole state"
 leaves out the equitable partition.
 
 The same holds for Markov chains. With uniform weights every partition is
-strongly lumpable, so every block label is closed ([THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md)), and
+strongly lumpable, so every block label is closed ([THEORY-822](../theory.d/THEORY-822.md)), and
 Rosas et al.'s "modular" random walk closes at every ratio of between- to
-within-module rates, by symmetry rather than modularity ([NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md)).
+within-module rates, by symmetry rather than modularity ([NOTE-1030](../notes.d/NOTE-1030.md)).

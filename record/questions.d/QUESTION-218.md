@@ -23,8 +23,8 @@ summary: >-
 answered_by:
 - THEORY-755
 - THEORY-758
-- THEORY-tmpri29w
-- THEORY-tmpz4ja2
+- THEORY-820
+- THEORY-822
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-218: Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?
@@ -65,12 +65,12 @@ the whole and a closure test finds the mode.
   localized coarse basis exists. So closure belongs to the subspace, and
   blockhood to a basis that only a gap supplies, as [CLAIM-157](../claims.d/CLAIM-157.md) and
   [CLAIM-164](../claims.d/CLAIM-164.md) would have it.
-- Rosas et al. (2024, [LIT-tmpcw129](../literature.d/LIT-tmpcw129.md), read in [NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md)) take the
+- Rosas et al. (2024, [LIT-1306](../literature.d/LIT-1306.md), read in [NOTE-1030](../notes.d/NOTE-1030.md)) take the
   unit to be a function of the whole state, up to computational
   equivalence. Informational closure, causal closure and Barnett–Seth
-  dynamical independence coincide ([THEORY-tmpri29w](../theory.d/THEORY-tmpri29w.md)); for a partition of a
+  dynamical independence coincide ([THEORY-820](../theory.d/THEORY-820.md)); for a partition of a
   Markov chain, closure is strong lumpability, the equitable condition of
-  [THEORY-755](../theory.d/THEORY-755.md) on Pᵀ ([THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md)). Two warnings: closure is cheap, since
+  [THEORY-755](../theory.d/THEORY-755.md) on Pᵀ ([THEORY-822](../theory.d/THEORY-822.md)). Two warnings: closure is cheap, since
   an i.i.d. noise component is closed; and two closed coarse-grainings
   taken together need not be closed, contrary to the paper's sublattice
   claim. The paper offers no independent mark of unity.

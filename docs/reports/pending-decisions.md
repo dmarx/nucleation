@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**763 document(s) awaiting a decision.**
+**764 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 763.
+92 of the 764.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -45,8 +45,8 @@
 | 2026-10-03 | Proposed | [LIT-676](../../record/literature.d/LIT-676.md) | 17 | 0 | Unveiling Mode Connectivity in Graph Neural Networks |
 | 2026-10-03 | Proposed | [LIT-660](../../record/literature.d/LIT-660.md) | 11 | 0 | Mode Connectivity Beyond Classifiers: Evidence from Generative and Contrastive Models |
 | 2026-10-03 | Proposed | [LIT-677](../../record/literature.d/LIT-677.md) | 10 | 0 | Unveiling mode-connectivity of the ELBO landscape |
+| 2026-10-16 | Deferred | [LIT-1126](../../record/literature.d/LIT-1126.md) | 4 | 0 | Computational Mechanics: Pattern and Prediction, Structure and Simplicity |
 | 2026-10-16 | Deferred | [LIT-1137](../../record/literature.d/LIT-1137.md) | 4 | 0 | The information theory of individuality |
-| 2026-10-16 | Deferred | [LIT-1126](../../record/literature.d/LIT-1126.md) | 3 | 0 | Computational Mechanics: Pattern and Prediction, Structure and Simplicity |
 | 2026-10-16 | Deferred | [LIT-1122](../../record/literature.d/LIT-1122.md) | 2 | 0 | Multiple time-scales and the developmental dynamics of social systems |
 | 2026-10-16 | Deferred | [LIT-1124](../../record/literature.d/LIT-1124.md) | 2 | 0 | Reconceptualizing Organizational Routines as a Source of Flexibility and Change |
 | 2026-10-16 | Deferred | [LIT-1128](../../record/literature.d/LIT-1128.md) | 2 | 0 | Nonequilibrium phase transition in the coevolution of networks and opinions |
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-438 of the 763.
+439 of the 764.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -133,7 +133,7 @@
 | 2026-10-03 | Proposed | [THEORY-045](../../record/theory.d/THEORY-045.md) | 79 | 2 | Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled |
 | 2026-10-03 | Proposed | [THEORY-056](../../record/theory.d/THEORY-056.md) | 63 | 7 | Emotion regulation is not a process separate from emotion generation: most of it is one motive state checking another, with no distinct regulating system above them |
 | 2026-10-03 | Proposed | [THEORY-071](../../record/theory.d/THEORY-071.md) | 58 | 6 | Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency |
-| 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 54 | 4 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
+| 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 55 | 4 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 49 | 7 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 38 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-064](../../record/theory.d/THEORY-064.md) | 37 | 0 | What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self |
@@ -258,7 +258,7 @@
 | 2026-10-13 | Proposed | [THEORY-219](../../record/theory.d/THEORY-219.md) | 4 | 2 | Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one |
 | 2026-10-13 | Proposed | [THEORY-223](../../record/theory.d/THEORY-223.md) | 4 | 2 | When the rules that govern a system lie within its own action space, the governor's authority rests on the system leaving them alone, and further controls in the same space inherit that dependence |
 | 2026-10-13 | Proposed | [THEORY-224](../../record/theory.d/THEORY-224.md) | 4 | 0 | Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict |
-| 2026-10-14 | Proposed | [THEORY-257](../../record/theory.d/THEORY-257.md) | 59 | 5 | Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many |
+| 2026-10-14 | Proposed | [THEORY-257](../../record/theory.d/THEORY-257.md) | 72 | 6 | Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many |
 | 2026-10-14 | Proposed | [THEORY-232](../../record/theory.d/THEORY-232.md) | 28 | 3 | A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification |
 | 2026-10-14 | Proposed | [THEORY-286](../../record/theory.d/THEORY-286.md) | 25 | 2 | Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows |
 | 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 21 | 2 | Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case |
@@ -336,8 +336,8 @@
 | 2026-10-16 | Proposed | [THEORY-485](../../record/theory.d/THEORY-485.md) | 11 | 0 | Wave-function realism falsifies causal closure restricted to spacetime but is compatible with closure relative to fundamental physics, so quantum ontology opens no causal gap for non-physical causes; what it forces on the physicalist is a criterion of the physical and a bridge from dynamical to causal completeness |
 | 2026-10-16 | Proposed | [THEORY-539](../../record/theory.d/THEORY-539.md) | 11 | 6 | Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation |
 | 2026-10-16 | Proposed | [THEORY-546](../../record/theory.d/THEORY-546.md) | 11 | 0 | A person persists by psychological continuity, not by sameness of substance or of the human animal; Locke's sameness of consciousness, which he leaves undefined, meets the charges of circularity, intransitivity and gaps when recast as overlapping chains of causally dependent psychological states with quasi-memory, and fission then needs either a clause against branching or multiple occupancy |
+| 2026-10-16 | Proposed | [THEORY-532](../../record/theory.d/THEORY-532.md) | 10 | 0 | Systems pushed from equilibrium develop structures that degrade the applied gradient faster, and living systems and maturing ecosystems are such structures, continuous with convection cells and vortices, so the second law is a necessary but not a sufficient condition for life |
 | 2026-10-16 | Proposed | [THEORY-633](../../record/theory.d/THEORY-633.md) | 10 | 0 | Experiences have no phenomenal properties: introspection represents physical, quasi-phenomenal properties of sensory states as phenomenal, so what needs explaining is why experiences seem to have phenomenal properties, not how a brain produces them; a weaker view that keeps a deflated phenomenal residue is unstable unless it can say what that residue is |
-| 2026-10-16 | Proposed | [THEORY-532](../../record/theory.d/THEORY-532.md) | 9 | 0 | Systems pushed from equilibrium develop structures that degrade the applied gradient faster, and living systems and maturing ecosystems are such structures, continuous with convection cells and vortices, so the second law is a necessary but not a sufficient condition for life |
 | 2026-10-16 | Proposed | [THEORY-671](../../record/theory.d/THEORY-671.md) | 9 | 0 | An open system with enough internal degrees of freedom settles, among its possible steady states, into the one of maximum entropy production; this selects among steady states, where Prigogine's minimum principle only describes relaxation toward one |
 | 2026-10-16 | Proposed | [THEORY-691](../../record/theory.d/THEORY-691.md) | 9 | 0 | A self is an abstractum like a centre of gravity, posited by interpreting a person's behaviour and talk, the brain's own autobiography included; it is as determinate as that story, it can be authored by a process with no self in it, and a body holds as many selves as the points the best story coheres around |
 | 2026-10-16 | Proposed | [THEORY-414](../../record/theory.d/THEORY-414.md) | 8 | 2 | Institutions are rules in equilibrium, correlated equilibria of coordination games with several equilibria that the players represent to themselves as rules, and a constitutive rule 'X counts as Y in C' is a regulative rule split by a coined term into a base rule and a status rule, so the term adds a name and cognitive economy but no new kind of fact |
@@ -505,13 +505,14 @@
 | 2026-10-20 | Proposed | [THEORY-768](../../record/theory.d/THEORY-768.md) | 41 | 0 | Minimal selfhood is identification with the whole body, located where that body is felt to be and seen from inside it; owning a body part does not reach it, and bodily agency enables it causally without being part of it |
 | 2026-10-20 | Proposed | [THEORY-766](../../record/theory.d/THEORY-766.md) | 40 | 0 | Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them |
 | 2026-10-20 | Proposed | [THEORY-767](../../record/theory.d/THEORY-767.md) | 40 | 0 | Body ownership draws on interoceptive as well as exteroceptive signals: a visual cue synchronous with one's heartbeat increases ownership of a virtual hand and identification with a virtual body, and lower interoceptive sensitivity goes with greater susceptibility to the rubber hand illusion |
-| 2026-10-20 | Proposed | [THEORY-776](../../record/theory.d/THEORY-776.md) | 28 | 0 | For every β < 1/3 and every smooth, strictly positive and strictly decreasing energy profile e(t) on [0, T], there is a weak solution of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent β in space and time, with ∫|v(t)|² = e(t) at every time; for such a solution the energy flux across a mollification scale ε, integrated over any time interval, tends as ε → 0 to ½ times the drop in e, which is strictly negative, so energy leaves the resolved field for vanishing scales on every interval; this is one-way for the energy of the whole box, not at every point, and it is chosen by the prescribed profile, not forced by the equations |
-| 2026-10-20 | Proposed | [THEORY-763](../../record/theory.d/THEORY-763.md) | 26 | 0 | For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls |
-| 2026-10-20 | Proposed | [THEORY-771](../../record/theory.d/THEORY-771.md) | 21 | 0 | In a singularly perturbed system, fast states x̃ with dx̃/dt = f̃(x̃, y) + ε·δf and slow states y with dy/dt = ε·ḡ(y) + ε·δg, if f̃ is contracting in x̃ at rate β_f with x̃ = 0 an equilibrium for every y, ḡ is contracting at rate β_g, and |δf| ≤ d_f + α_f,x|x̃| + α_f,y|y|, |δg| ≤ d_g + α_g,x|x̃|, then for every ε below ε_c = β_f / [χ_f(α_f,x + χ_g α_f,y α_g,x / β_g)] the fast states stay within O(ε) of zero and, when d_g = 0, the slow states within O(ε) of the reduced trajectory, uniformly in time after a transient of order (1/β_f + 1/(εβ_g)) log(1/ε) |
+| 2026-10-20 | Proposed | [THEORY-776](../../record/theory.d/THEORY-776.md) | 38 | 0 | For every β < 1/3 and every smooth, strictly positive and strictly decreasing energy profile e(t) on [0, T], there is a weak solution of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent β in space and time, with ∫|v(t)|² = e(t) at every time; for such a solution the energy flux across a mollification scale ε, integrated over any time interval, tends as ε → 0 to ½ times the drop in e, which is strictly negative, so energy leaves the resolved field for vanishing scales on every interval; this is one-way for the energy of the whole box, not at every point, and it is chosen by the prescribed profile, not forced by the equations |
+| 2026-10-20 | Proposed | [THEORY-763](../../record/theory.d/THEORY-763.md) | 29 | 0 | For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls |
+| 2026-10-20 | Proposed | [THEORY-772](../../record/theory.d/THEORY-772.md) | 22 | 0 | For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction's first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale |
 | 2026-10-20 | Proposed | [THEORY-777](../../record/theory.d/THEORY-777.md) | 12 | 0 | In Monte Carlo on a 64×64 periodic square-lattice Ising model at its critical point, parametrized by a field and 13 nearby couplings and observed only through the spins left after n checkerboard decimations (b = √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the gradient of T_c stay within a factor of about two of their microscopic values, while the others fall by up to about six decades, in three groups whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4 |
-| 2026-10-20 | Proposed | [THEORY-772](../../record/theory.d/THEORY-772.md) | 11 | 0 | For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction's first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale |
+| 2026-10-20 | Proposed | [THEORY-821](../../record/theory.d/THEORY-821.md) | 12 | 0 | For every α < 1/15 there are weak solutions of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent α in space and time, that satisfy the local energy inequality; in the construction their dissipation measure is a nonnegative function of time alone, equal at each time to the rate at which the total energy falls, zero while the local energy equality holds and positive on all of space during a short final interval in which the solution's energy is drained to zero; uncountably many such solutions share one initial datum and one dissipation measure; for them the local coarse-grained energy flux into vanishing scales converges to that measure, so the transfer is one-way at every place and time in the limit and spread uniformly over the box, with its timing chosen by the construction, not forced by the equations |
+| 2026-10-20 | Proposed | [THEORY-818](../../record/theory.d/THEORY-818.md) | 10 | 1 | In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from 2 to 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound |
+| 2026-10-20 | Proposed | [THEORY-747](../../record/theory.d/THEORY-747.md) | 8 | 0 | In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian |
 | 2026-10-20 | Proposed | [THEORY-759](../../record/theory.d/THEORY-759.md) | 7 | 0 | A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order of frequency, and keeps that order when the amplitudes rise tenfold with frequency, so in this setting the order of acquisition is set by the learner and not by the strength of the target's components |
-| 2026-10-20 | Proposed | [THEORY-747](../../record/theory.d/THEORY-747.md) | 6 | 0 | In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian |
 | 2026-10-20 | Proposed | [THEORY-785](../../record/theory.d/THEORY-785.md) | 4 | 0 | Listeners interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could have said, as the rational speech act account of Frank, Goodman and coauthors proposes |
 | 2026-10-20 | Proposed | [THEORY-780](../../record/theory.d/THEORY-780.md) | 2 | 0 | Transcriptional regulation alone can give a bacterium's gene expression a memory: in E. coli, a transient knockdown or overexpression of one regulator, with the environment held fixed, can leave other genes in a different self-maintaining expression state after it is released, as Zhao, Wytock, Reynolds and Motter predict from a Boolean-network model of its regulatory core |
 | 2026-10-20 | Proposed | [THEORY-782](../../record/theory.d/THEORY-782.md) | 2 | 0 | In networks that learn addition from summed embeddings, the critical training fraction of grokking is the fraction at which the training set's same-answer pairs come to fix the generalising representation up to translation and scale, at every group size, as Liu, Kitouni, Nolte, Michaud, Tegmark and Williams propose |
@@ -553,7 +554,7 @@
 
 ## ADRs
 
-2 of the 763.
+2 of the 764.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -562,7 +563,7 @@
 
 ## QUESTIONs
 
-9 of the 763.
+9 of the 764.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -578,7 +579,7 @@
 
 ## CLAIMs
 
-217 of the 763.
+217 of the 764.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -684,7 +685,7 @@
 | 2026-10-10 | Proposed | [CLAIM-241](../../record/claims.d/CLAIM-241.md) | 3 | 1 | Partial constitution by uptake makes competent participants' uptake a defeasible standard of a communicative kind, not the criterion: where the act's other constituents, such as its institutional conditions, diverge from how even informed participants take it, their verdicts can be wrong, and a standard must say whose competence counts, for which class of acts, and how divided verdicts are combined, which a majority does not |
 | 2026-10-10 | Proposed | [CLAIM-242](../../record/claims.d/CLAIM-242.md) | 3 | 0 | The use-level counterpart of Saussure's value is an utterance's contrast with the alternatives its speaker could have used in context; values do not cross between languages, which is why fidelity is graded transport through an anchored correspondence rather than identity of value |
 | 2026-10-10 | Proposed | [CLAIM-216](../../record/claims.d/CLAIM-216.md) | 2 | 0 | A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another |
-| 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 124 | 17 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
+| 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 125 | 17 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
 | 2026-10-11 | Proposed | [CLAIM-174](../../record/claims.d/CLAIM-174.md) | 53 | 8 | A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization |
 | 2026-10-11 | Proposed | [CLAIM-172](../../record/claims.d/CLAIM-172.md) | 46 | 3 | Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture |
 | 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 45 | 3 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
@@ -769,10 +770,10 @@
 | 2026-10-15 | Proposed | [CLAIM-324](../../record/claims.d/CLAIM-324.md) | 3 | 3 | In the What Survives Translation? exchange, the manuscript drafted straight from the crystallized argument changed the thesis with no turn arguing the move and dropped 24 of that argument's items, none on request, and the second crystallized argument announced its change of question but left items out without saying which had dissolved and which were lost |
 | 2026-10-16 | Proposed | [CLAIM-341](../../record/claims.d/CLAIM-341.md) | 64 | 61 | The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active |
 | 2026-10-16 | Proposed | [CLAIM-342](../../record/claims.d/CLAIM-342.md) | 55 | 51 | What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available |
-| 2026-10-16 | Proposed | [CLAIM-331](../../record/claims.d/CLAIM-331.md) | 38 | 5 | A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition |
+| 2026-10-16 | Proposed | [CLAIM-331](../../record/claims.d/CLAIM-331.md) | 39 | 5 | A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition |
 | 2026-10-16 | Proposed | [CLAIM-339](../../record/claims.d/CLAIM-339.md) | 31 | 28 | A judgement–observation loop cut off from action loses one route for evidence it did not select, and the free-energy principle's reason for minimizing surprise, that a persisting system must keep its states in bounds, needs action on the world, though a loop can confirm itself with action available too |
+| 2026-10-16 | Proposed | [CLAIM-327](../../record/claims.d/CLAIM-327.md) | 25 | 3 | A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it |
 | 2026-10-16 | Proposed | [CLAIM-337](../../record/claims.d/CLAIM-337.md) | 24 | 22 | Active inference already runs an internal loop: mental action selects among higher-level cognitive states and sets the precision of lower-level observations, structure learning reshapes the generative model without action, and a judgement is behaviour, so a judgement–observation loop may be action and perception one Markov blanket inward |
-| 2026-10-16 | Proposed | [CLAIM-327](../../record/claims.d/CLAIM-327.md) | 22 | 3 | A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it |
 | 2026-10-16 | Proposed | [CLAIM-332](../../record/claims.d/CLAIM-332.md) | 16 | 2 | A loosely organized population can change what an outside institution does through its members' separately motivated acts of making, selecting and passing things on, without forming a collective intention or judgment, when the organized pattern of those acts, and not only the acts of identifiable individuals, earns its place in explaining the change |
 | 2026-10-16 | Proposed | [CLAIM-329](../../record/claims.d/CLAIM-329.md) | 6 | 4 | A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it |
 | 2026-10-16 | Proposed | [CLAIM-336](../../record/claims.d/CLAIM-336.md) | 2 | 2 | The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them |
@@ -802,7 +803,7 @@
 
 ## CASEs
 
-1 of the 763.
+1 of the 764.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -810,7 +811,7 @@
 
 ## TERMs
 
-2 of the 763.
+2 of the 764.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -819,7 +820,7 @@
 
 ## ARGs
 
-2 of the 763.
+2 of the 764.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

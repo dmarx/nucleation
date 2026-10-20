@@ -26,9 +26,9 @@ answered_by:
 - THEORY-763
 - THEORY-776
 - THEORY-772
-- THEORY-tmpxpm2w
+- THEORY-821
 ---
-<!-- inactive-ok-file: NOTE-974 THEORY-763 THEORY-776 NOTE-1022 THEORY-772 NOTE-tmpb08k2 THEORY-tmpxpm2w — Skimmed or Proposed; the negative half of Onsager, cited as open -->
+<!-- inactive-ok-file: NOTE-974 THEORY-763 THEORY-776 NOTE-1022 THEORY-772 NOTE-1027 THEORY-821 — Skimmed or Proposed; the negative half of Onsager, cited as open -->
 <!-- inactive-ok-file: LIT-1239 LIT-1243 LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-273 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-219: Can a persistent pattern of transfer through a system, kept while its constituents are replaced, pick out a unit that neither a block test nor a closed collective mode finds, and what separates such organized throughput from mere transport?
@@ -118,8 +118,8 @@ every place and time, though no sign is shown at any finite scale. Where
 and how fast the energy goes are inputs here too: a periodic array of
 pipes, decaying exponentially. That tells further against the flux's
 picking out a unit. In a Hölder class (C^α, α < 1/15) the transfer can
-also be one-way at every place in the limit (Isett, [LIT-tmp6vocc](../literature.d/LIT-tmp6vocc.md), skimmed
-in [NOTE-tmpb08k2](../notes.d/NOTE-tmpb08k2.md); [THEORY-tmpxpm2w](../theory.d/THEORY-tmpxpm2w.md), Proposed). There the dissipation is
+also be one-way at every place in the limit (Isett, [LIT-1305](../literature.d/LIT-1305.md), skimmed
+in [NOTE-1027](../notes.d/NOTE-1027.md); [THEORY-821](../theory.d/THEORY-821.md), Proposed). There the dissipation is
 uniform in space and present only while the construction drains the
 solution to zero: a transfer with no spatial pattern and no persistence,
 which fails A5's conditions outright.

@@ -1,12 +1,15 @@
 ---
+number: 820
 status: Active
+formerly:
+- THEORY-tmpri29w
 title: 'For a stationary discrete-valued process X and any coarse-graining Z of its past, informational closure at every horizon is the same condition as zero one-step transfer entropy from the micro past, Barnett and Seth''s dynamical independence, and as causal closure, Z''s ε-machine coinciding with its υ-machine; for a coarse-graining of the present state it also makes Z''s causal states a coarse-graining of X''s, which does not imply closure, and the closed coarse-grainings are not closed under common refinement'
 version: 1
 history:
 - version: 1
   date: '2026-10-20'
   note: >-
-    Filed Active from NOTE-tmpvlpd4. Theorem 1 (informational ⟺ causal
+    Filed Active from NOTE-1030. Theorem 1 (informational ⟺ causal
     closure), Proposition 1 (minimality of the υ-machine), Proposition 2
     (order part) and Theorem 2 (spatial causal ⟹ computational closure) are
     the paper's; each is re-derived below step by step, which meets
@@ -22,20 +25,20 @@ tags:
 - mathematics
 date: '2026-10-20'
 source:
-- LIT-tmpcw129
+- LIT-1306
 - LIT-979
 answers:
 - QUESTION-218
 summary: >-
-  Rosas et al. (arXiv 2024), [LIT-tmpcw129](../literature.d/LIT-tmpcw129.md), read in [NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md), with Barnett and Seth's definition ([LIT-979](../literature.d/LIT-979.md)). For discrete stationary processes, the information-theoretic criterion of emergent closure (dynamical independence), the interventionist one (the macro's own causal states are all the micro distinctions that matter for it) and, for maps of the present state, a computational one are nested as stated. The first two are one condition. It says nothing about approximate closure. It does not make closure a mark of unity. "Causal" is only in the Granger sense unless X is fully observed.
+  Rosas et al. (arXiv 2024), [LIT-1306](../literature.d/LIT-1306.md), read in [NOTE-1030](../notes.d/NOTE-1030.md), with Barnett and Seth's definition ([LIT-979](../literature.d/LIT-979.md)). For discrete stationary processes, the information-theoretic criterion of emergent closure (dynamical independence), the interventionist one (the macro's own causal states are all the micro distinctions that matter for it) and, for maps of the present state, a computational one are nested as stated. The first two are one condition. It says nothing about approximate closure. It does not make closure a mark of unity. "Causal" is only in the Granger sense unless X is fully observed.
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the interpretive reading of dynamical independence this bears on, cited as open -->
-# THEORY-tmpri29w: For a stationary discrete-valued process X and any coarse-graining Z of its past, informational closure at every horizon is the same condition as zero one-step transfer entropy from the micro past, Barnett and Seth's dynamical independence, and as causal closure, Z's ε-machine coinciding with its υ-machine; for a coarse-graining of the present state it also makes Z's causal states a coarse-graining of X's, which does not imply closure, and the closed coarse-grainings are not closed under common refinement
+# THEORY-820: For a stationary discrete-valued process X and any coarse-graining Z of its past, informational closure at every horizon is the same condition as zero one-step transfer entropy from the micro past, Barnett and Seth's dynamical independence, and as causal closure, Z's ε-machine coinciding with its υ-machine; for a coarse-graining of the present state it also makes Z's causal states a coarse-graining of X's, which does not imply closure, and the closed coarse-grainings are not closed under common refinement
 
 ## Source
 
 Rosas, Geiger, Luppi, Seth, Polani, Gastpar and Mediano (2024),
-arXiv:2402.09090, [LIT-tmpcw129](../literature.d/LIT-tmpcw129.md), read in full in [NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md). The
+arXiv:2402.09090, [LIT-1306](../literature.d/LIT-1306.md), read in full in [NOTE-1030](../notes.d/NOTE-1030.md). The
 equivalence of informational and causal closure is the paper's Theorem 1,
 the implication to computational closure its Theorem 2, and the
 minimality lemma its Proposition 1. Dynamical independence is Barnett and
@@ -123,7 +126,7 @@ C_t) be bits, with A_{t+1} and C_{t+1} fresh fair bits and
 B_{t+1} = A_{t+1} ⊕ C_t.
 
 - Every state sends probability ½ to each value of A and of B. So by
-  [THEORY-tmpz4ja2](THEORY-tmpz4ja2.md) each of A and B is closed.
+  [THEORY-822](THEORY-822.md) each of A and B is closed.
 - The pair is not: A_{t+1} ⊕ B_{t+1} = C_t is known to X_t and
   independent of the past of (A, B).
 - Computed from the exact chain: T = 0, 0 and 1 bit for A, B and (A, B),
@@ -152,7 +155,7 @@ ones of their kind.
   Gaussian case, [THEORY-733](THEORY-733.md) holds the corresponding criterion.
 - **Not that the closed coarse-grainings form any lattice.** Closure
   under common coarsening is shown for strongly lumpable partitions
-  ([THEORY-tmpz4ja2](THEORY-tmpz4ja2.md)'s note), not for closure in general.
+  ([THEORY-822](THEORY-822.md)'s note), not for closure in general.
 
 ## Connections
 
@@ -161,7 +164,7 @@ ones of their kind.
   L A_k = B_k L is also the VAR form of causal closure. [THEORY-257](THEORY-257.md)'s
   reading that the dynamics fix the variables meets the objection that
   closure overcounts (noise components, copies).
-- **[THEORY-tmpz4ja2](THEORY-tmpz4ja2.md).** For Markov chains, closure is strong lumpability
+- **[THEORY-822](THEORY-822.md).** For Markov chains, closure is strong lumpability
   when the label is Markov.
 - **[THEORY-756](THEORY-756.md).** Part (b) is the υ-machine version of [THEORY-756](THEORY-756.md)'s
   coarsest prescient partition.

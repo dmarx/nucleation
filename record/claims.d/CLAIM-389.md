@@ -34,7 +34,7 @@ summary: >-
   VAR(p ≥ 2), where the reading reports that an independent variable can
   carry memory, nor about nonlinear systems.
 supports:
-- CLAIM-tmp5fx5d
+- CLAIM-398
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose criterion this relates to memory, open -->
 # CLAIM-389: In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent
@@ -82,8 +82,8 @@ not it started inside. A coarse variable can receive news it never sent.
 
 For any scalar stationary process, Mori's memory for the projection onto
 the current value is a functional of the process's own autocovariance, and
-vanishes iff that autocovariance is geometric ([CLAIM-tmp511ss](CLAIM-tmp511ss.md), from the
-reading of Lin and Lu, [NOTE-tmpqnsb1](../notes.d/NOTE-tmpqnsb1.md)). Memory is a property of Y's own law;
+vanishes iff that autocovariance is geometric ([CLAIM-397](CLAIM-397.md), from the
+reading of Lin and Lu, [NOTE-1029](../notes.d/NOTE-1029.md)). Memory is a property of Y's own law;
 dependence is a property of its joint law with the rest of the system. So
 no memory measure can detect dependence, which is the structural reason
 the converse fails.

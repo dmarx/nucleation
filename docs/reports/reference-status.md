@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**486 documents cited without acknowledgement.** Not listed: 10200 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**487 documents cited without acknowledgement.** Not listed: 10254 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -869,7 +869,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
-17 citations in 7 files await a look; 107 other citations of it are acknowledged.
+17 citations in 7 files await a look; 108 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:20`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-101.md:56`](../../record/cases.d/CASE-101.md)
@@ -2158,6 +2158,19 @@ A far-from-equilibrium system that contributes to its own maintenance has functi
 - [`record/questions.d/QUESTION-128.md:81`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:112`](../../record/questions.d/QUESTION-128.md)
 
+### [THEORY-257](../../record/theory.d/THEORY-257.md) — Proposed
+
+Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many
+
+6 citations in 6 files await a look; 66 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-101.md:55`](../../record/cases.d/CASE-101.md)
+- [`record/claims.d/CLAIM-397.md:69`](../../record/claims.d/CLAIM-397.md)
+- [`record/notes.d/NOTE-945.md:140`](../../record/notes.d/NOTE-945.md)
+- [`record/questions.d/QUESTION-115.md:58`](../../record/questions.d/QUESTION-115.md)
+- [`record/theory.d/THEORY-703.md:82`](../../record/theory.d/THEORY-703.md)
+- [`record/theory.d/THEORY-707.md:85`](../../record/theory.d/THEORY-707.md)
+
 ### [THEORY-539](../../record/theory.d/THEORY-539.md) — Proposed
 
 Moral judgment draws on several innately prepared intuitive foundations, at least Care, Fairness, Loyalty, Authority and Sanctity, each a response to a different adaptive challenge, and Sanctity descends from pathogen avoidance rather than from cooperation
@@ -2355,7 +2368,7 @@ With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk in
 
 A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
 
-5 citations in 4 files await a look; 33 other citations of it are acknowledged.
+5 citations in 4 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-102.md:76`](../../record/cases.d/CASE-102.md)
 - [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
@@ -2518,18 +2531,6 @@ A corporation whose Corporate Internal Decision (CID) Structure, an organization
 - [`record/questions.d/QUESTION-009.md:61`](../../record/questions.d/QUESTION-009.md)
 - [`record/questions.d/QUESTION-082.md:20`](../../record/questions.d/QUESTION-082.md)
 - [`record/questions.d/QUESTION-082.md:43`](../../record/questions.d/QUESTION-082.md)
-
-### [THEORY-257](../../record/theory.d/THEORY-257.md) — Proposed
-
-Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many
-
-5 citations in 5 files await a look; 54 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-101.md:55`](../../record/cases.d/CASE-101.md)
-- [`record/notes.d/NOTE-945.md:140`](../../record/notes.d/NOTE-945.md)
-- [`record/questions.d/QUESTION-115.md:58`](../../record/questions.d/QUESTION-115.md)
-- [`record/theory.d/THEORY-703.md:82`](../../record/theory.d/THEORY-703.md)
-- [`record/theory.d/THEORY-707.md:85`](../../record/theory.d/THEORY-707.md)
 
 ### [THEORY-614](../../record/theory.d/THEORY-614.md) — Proposed
 
@@ -2834,7 +2835,7 @@ In relational frame theory the self is verbal behaviour's content, its process a
 
 Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
 
-4 citations in 2 files await a look; 50 other citations of it are acknowledged.
+4 citations in 2 files await a look; 51 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-194.md:31`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:59`](../../record/claims.d/CLAIM-194.md)
@@ -3156,7 +3157,7 @@ In the What Survives Translation? exchange, the manuscript drafted straight from
 
 A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 
-3 citations in 1 file await a look; 19 other citations of it are acknowledged.
+3 citations in 1 file await a look; 22 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
 - [`record/cases.d/CASE-116.md:79`](../../record/cases.d/CASE-116.md)
@@ -5107,7 +5108,7 @@ A Maximum-Likelihood Interpretation for Slow Feature Analysis
 
 1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-394.md:80`](../../record/claims.d/CLAIM-394.md)
+- [`record/claims.d/CLAIM-394.md:84`](../../record/claims.d/CLAIM-394.md)
 
 ### [LIT-129](../../record/literature.d/LIT-129.md) — Unavailable
 
@@ -5765,6 +5766,14 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 - [`record/theory.d/THEORY-687.md:107`](../../record/theory.d/THEORY-687.md)
 
+### [THEORY-818](../../record/theory.d/THEORY-818.md) — Proposed
+
+In two-scale Lorenz 96 without time-scale separation (ε = 0.5, K = 18, J = 20, F = 10), a discrete-time closure for each resolved variable that fits the one-step discrepancy of a fourth-order Runge–Kutta step as a NARMAX series, with one autoregressive lag, at most two lags of the resolved variable and at most one moving-average term, reproduces the mean, spread, distribution, autocorrelation and neighbour cross-correlation of x₁ (Kolmogorov–Smirnov distance 0.005) and, with observations every 0.05, extends the 20-member ensemble forecast lead time at anomaly correlation 0.6 from 2 to 4 time units over a polynomial-plus-AR(1) closure; the model structure was chosen by trial and error, differs between the two observation spacings, and carries no error bound
+
+1 citation in 1 file awaits a look; 9 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-398.md:81`](../../record/claims.d/CLAIM-398.md)
+
 ## Codes that resolve to no document
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
@@ -5801,10 +5810,15 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-331.md:70: annotation no longer applies — NOTE-1015 is Active now
 - record/claims.d/CLAIM-387.md:36: annotation no longer applies — THEORY-163 is Active now
 - record/claims.d/CLAIM-394.md:38: annotation no longer applies — NOTE-1015 is Active now
+- record/claims.d/CLAIM-397.md:36: annotation no longer applies — NOTE-1029 is Active now
+- record/claims.d/CLAIM-398.md:37: annotation no longer applies — NOTE-1028 is Active now
 - record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
 - record/literature.d/LIT-1254.md:37: annotation no longer applies — THEORY-202 is Active now
 - record/literature.d/LIT-1257.md:50: annotation no longer applies — THEORY-202 is Active now
 - record/literature.d/LIT-1289.md:43: annotation no longer applies — NOTE-1013 is Active now
+- record/literature.d/LIT-1292.md:39: annotation no longer applies — THEORY-771 is Active now
+- record/literature.d/LIT-1295.md:41: annotation no longer applies — THEORY-771 is Active now
+- record/literature.d/LIT-1307.md:44: annotation no longer applies — NOTE-1029, THEORY-819 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-810.md:52: annotation no longer applies — THEORY-155 is Active now
@@ -5813,7 +5827,11 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-882.md:67: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-891.md:75: annotation no longer applies — QUESTION-025 is Active now
+- record/notes.d/NOTE-1020.md:37: annotation no longer applies — THEORY-771 is Active now
 - record/notes.d/NOTE-1022.md:45: annotation no longer applies — NOTE-1013 is Active now
+- record/notes.d/NOTE-1025.md:35: annotation no longer applies — THEORY-771 is Active now
+- record/notes.d/NOTE-1029.md:46: annotation no longer applies — THEORY-819 is Active now
+- record/notes.d/NOTE-1030.md:32: annotation no longer applies — CLAIM-394 is Active now
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-631.md:34: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-694.md:35: annotation no longer applies — QUESTION-025 is Active now
@@ -5824,6 +5842,7 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-988.md:52: annotation no longer applies — THEORY-163 is Active now
 - record/questions.d/QUESTION-217.md:34: annotation no longer applies — CLAIM-394, THEORY-775 is Active now
 - record/questions.d/QUESTION-220.md:32: annotation no longer applies — THEORY-163 is Active now
+- record/questions.d/QUESTION-222.md:33: annotation no longer applies — NOTE-1029 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:61: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now
@@ -5840,3 +5859,4 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-751.md:48: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-757.md:24: annotation no longer applies — THEORY-751 is Active now
 - record/theory.d/THEORY-771.md:64: annotation no longer applies — NOTE-1020 is Active now
+- record/theory.d/THEORY-819.md:42: annotation no longer applies — LIT-1307, NOTE-1029 is Active now

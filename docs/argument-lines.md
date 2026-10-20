@@ -2,7 +2,7 @@
 
 # Lines of argument
 
-21 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
+22 lines, walked from `rests_on:` and `argued_from` (`(c:CLAIM)<-[:concludes]-(g:ARG)-[:rests_on]->(p:CLAIM) WHERE NOT (g {status: 'Rejected'})`) on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `line`, which every line holds in common — a line about two things is listed under both.
 
@@ -20,6 +20,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-311](../record/claims.d/CLAIM-311.md) — A search cut off before an exhaustive pass can establish absence when the arrangement certifies that the unsearched remainder cannot hold the item: a sorted table answers non-membership in a logarithmic number of probes, and the Threshold Algorithm stops early with its answer proved, so absence needs a certificate about the remainder, not exhaustion; similarity search in high dimension is where no such certificate exists *(Active)*
   - [CLAIM-312](../record/claims.d/CLAIM-312.md) — "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default *(Active)*
+
+### From In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent
+
+- [CLAIM-389](../record/claims.d/CLAIM-389.md) — In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent *(Active)*
+  - [CLAIM-398](../record/claims.d/CLAIM-398.md) — In a stable linear Gaussian VAR(1) on ℝⁿ, a scalar linear coarse variable Y = LX is, in its own law, an ARMA process of orders at most (n, n − 1); so its Mori–Zwanzig memory, though non-zero at every lag in general, is carried exactly by finitely many coordinates that are functions of Y's own past and innovations *(Active)*
 
 ## formal-apparatus
 
@@ -42,6 +47,11 @@ Grouped by `line`, which every line holds in common — a line about two things 
 
 - [CLAIM-387](../record/claims.d/CLAIM-387.md) — Optimal deterministic information-bottleneck partitions at two budgets need not be nested: with X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the optimum is {0,1,2 | 3} for 6.91 < β < 9.26 and {0,1 | 2,3} for 9.26 < β < 16.06, two partitions neither of which refines the other *(Active)*
   - [CLAIM-392](../record/claims.d/CLAIM-392.md) — Stochastic information-bottleneck optima at two budgets need not be nested: for X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the unique optima at β = 8 and β = 12 admit no Markov chain X → T₂ → T₁, so raising the budget reorganizes the optimum even with noisy encoders *(Active)*
+
+### From In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent
+
+- [CLAIM-389](../record/claims.d/CLAIM-389.md) — In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent *(Active)*
+  - [CLAIM-398](../record/claims.d/CLAIM-398.md) — In a stable linear Gaussian VAR(1) on ℝⁿ, a scalar linear coarse variable Y = LX is, in its own law, an ARMA process of orders at most (n, n − 1); so its Mori–Zwanzig memory, though non-zero at every lag in general, is carried exactly by finitely many coordinates that are functions of Y's own past and innovations *(Active)*
 
 ## learned-structure
 

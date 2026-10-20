@@ -1,5 +1,8 @@
 ---
+number: 397
 status: Active
+formerly:
+- CLAIM-tmp511ss
 title: 'For a scalar stationary process with autocovariance C, the Mori–Zwanzig memory kernels for the projection onto the current value are fixed by C alone, through C(m+1) = Σ_{k≤m} c_k C(m−k); the memory vanishes iff C is geometric, and when C has finite Hankel rank d the memory has Hankel rank exactly d − 1'
 version: 1
 role: thesis
@@ -20,25 +23,25 @@ line:
 answers:
 - QUESTION-222
 grounds:
-- LIT-tmpd20t2
-- THEORY-tmpgukcy
+- LIT-1307
+- THEORY-819
 summary: >-
-  Derived in the reading of Lin and Lu (2019), [NOTE-tmpqnsb1](../notes.d/NOTE-tmpqnsb1.md), and
-  re-checked here. It settles the minimal-order question [CLAIM-tmp5fx5d](CLAIM-tmp5fx5d.md)
+  Derived in the reading of Lin and Lu (2019), [NOTE-1029](../notes.d/NOTE-1029.md), and
+  re-checked here. It settles the minimal-order question [CLAIM-398](CLAIM-398.md)
   left open, for every scalar stationary process with rational
   autocovariance, and gives the structural reason for [CLAIM-389](CLAIM-389.md)'s "not
   conversely": the memory is a functional of the coarse variable's own law,
   so it cannot register dependence on the rest of the system.
 ---
-<!-- inactive-ok-file: NOTE-tmpqnsb1 — new reading, cited as where the result was derived -->
+<!-- inactive-ok-file: NOTE-1029 — new reading, cited as where the result was derived -->
 
-# CLAIM-tmp511ss: For a scalar stationary process with autocovariance C, the Mori–Zwanzig memory kernels for the projection onto the current value are fixed by C alone, through C(m+1) = Σ_{k≤m} c_k C(m−k); the memory vanishes iff C is geometric, and when C has finite Hankel rank d the memory has Hankel rank exactly d − 1
+# CLAIM-397: For a scalar stationary process with autocovariance C, the Mori–Zwanzig memory kernels for the projection onto the current value are fixed by C alone, through C(m+1) = Σ_{k≤m} c_k C(m−k); the memory vanishes iff C is geometric, and when C has finite Hankel rank d the memory has Hankel rank exactly d − 1
 
 ## The claim
 
 **The kernels are fixed by C.** Project onto the span of the current value
 Y_t. Taking the covariance of the discrete Mori–Zwanzig equation
-([THEORY-tmpgukcy](../theory.d/THEORY-tmpgukcy.md)) with Y₀, the noise term drops out, being orthogonal to
+([THEORY-819](../theory.d/THEORY-819.md)) with Y₀, the noise term drops out, being orthogonal to
 the projection space at the initial time, and what remains is the Volterra
 recursion C(m+1) = Σ_{k=0}^{m} c_k C(m−k). In generating functions,
 1 − Σ_k c_k w^{k+1} = C(0)/Ĉ(w). So the kernels c_k are a functional of C,
@@ -54,7 +57,7 @@ max(deg N, deg num + 1). If deg N = d − 1, that is d − 1. Otherwise
 deg D = d, the w^d coefficient of N − C(0)D − c₀wN is −C(0)D_d ≠ 0, so
 deg num = d − 2, and the rank is again d − 1.
 
-**Checks** ([NOTE-tmpqnsb1](../notes.d/NOTE-tmpqnsb1.md)). In a random n = 4 VAR(1) the Mori kernels
+**Checks** ([NOTE-1029](../notes.d/NOTE-1029.md)). In a random n = 4 VAR(1) the Mori kernels
 computed from the projection blocks matched the Volterra recursion from C
 to 2 × 10⁻¹⁶, with d = 4 and memory rank 3; seven cases in all, including
 [CLAIM-389](CLAIM-389.md)'s counterexample (d = 1, rank 0). Re-run by the coordinator.
@@ -68,5 +71,5 @@ to 2 × 10⁻¹⁶, with d = 4 and memory rank 3; seven cases in all, including
 - **Not about other projections.** Projecting onto Y's whole past (the
   Wiener projection) gives a different kernel with the same numerator
   and a different denominator in the VAR(1) case; that is in
-  [NOTE-tmpqnsb1](../notes.d/NOTE-tmpqnsb1.md), not here.
+  [NOTE-1029](../notes.d/NOTE-1029.md), not here.
 - **Nothing about nonlinear functionals.** Second order only.

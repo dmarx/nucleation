@@ -1,5 +1,8 @@
 ---
+number: 398
 status: Active
+formerly:
+- CLAIM-tmp5fx5d
 title: 'In a stable linear Gaussian VAR(1) on ℝⁿ, a scalar linear coarse variable Y = LX is, in its own law, an ARMA process of orders at most (n, n − 1); so its Mori–Zwanzig memory, though non-zero at every lag in general, is carried exactly by finitely many coordinates that are functions of Y''s own past and innovations'
 version: 1
 role: thesis
@@ -19,22 +22,22 @@ line:
 answers:
 - QUESTION-222
 grounds:
-- LIT-tmp6gimq
+- LIT-1304
 - THEORY-733
 rests_on:
 - CLAIM-389
 summary: >-
-  Derived in the reading of Chorin and Lu (2015), [NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md), and
+  Derived in the reading of Chorin and Lu (2015), [NOTE-1028](../notes.d/NOTE-1028.md), and
   re-checked here. Their NARMAX closures are fitted, with no error bound;
   in the linear Gaussian class the same idea is exact. A coarse variable
   with memory admits a finite Markovian augmentation built only from its
   own history, which is the augmentation [THEORY-257](../theory.d/THEORY-257.md)'s criterion conditions
   on. Scalar Y, VAR(1), Gaussian noise.
 ---
-<!-- inactive-ok-file: NOTE-tmpejcu2 — new reading, cited as where the result was derived -->
+<!-- inactive-ok-file: NOTE-1028 — new reading, cited as where the result was derived -->
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose conditioning set this matches, nothing here rests on it -->
 
-# CLAIM-tmp5fx5d: In a stable linear Gaussian VAR(1) on ℝⁿ, a scalar linear coarse variable Y = LX is, in its own law, an ARMA process of orders at most (n, n − 1); so its Mori–Zwanzig memory, though non-zero at every lag in general, is carried exactly by finitely many coordinates that are functions of Y's own past and innovations
+# CLAIM-398: In a stable linear Gaussian VAR(1) on ℝⁿ, a scalar linear coarse variable Y = LX is, in its own law, an ARMA process of orders at most (n, n − 1); so its Mori–Zwanzig memory, though non-zero at every lag in general, is carried exactly by finitely many coordinates that are functions of Y's own past and innovations
 
 ## The claim
 
@@ -67,15 +70,15 @@ coordinator.
 
 - **Not the minimal order.** That the ARMA order equals 1 plus the Hankel
   rank of the memory is not proved here. It is proved, for every scalar
-  stationary process with rational autocovariance, in [CLAIM-tmp511ss](CLAIM-tmp511ss.md). The
+  stationary process with rational autocovariance, in [CLAIM-397](CLAIM-397.md). The
   ARMA state is a finite realization of the Wiener filter of
-  [THEORY-tmpgukcy](../theory.d/THEORY-tmpgukcy.md).
+  [THEORY-819](../theory.d/THEORY-819.md).
 - **Not a bound for truncation.** Dropping the moving-average part leaves
   an AR(p) model whose extra error fell geometrically, at a rate set by
   the moving-average zero, in one example. That rate is neither an
   eigenvalue of A nor of K₂₂. It is numerical, not part of the claim.
 - **Nothing beyond the linear Gaussian VAR(1).** Chorin and Lu's
-  nonlinear closures ([THEORY-tmpdjsgt](../theory.d/THEORY-tmpdjsgt.md)) are fitted and carry no such
+  nonlinear closures ([THEORY-818](../theory.d/THEORY-818.md)) are fitted and carry no such
   guarantee.
 - **Not for vector Y without change.** The same adjugate argument gives
   a VARMA, but its orders and identifiability are not checked here.

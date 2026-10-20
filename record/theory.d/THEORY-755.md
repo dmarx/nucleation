@@ -18,7 +18,7 @@ history:
 - version: 2
   date: '2026-10-20'
   note: >-
-    Connections gain strong lumpability (THEORY-tmpz4ja2, from the reading of Rosas et al.). The account is unchanged.
+    Connections gain strong lumpability (THEORY-822, from the reading of Rosas et al.). The account is unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -123,6 +123,6 @@ single fixed state. For all states, it reduces to column sums alone.
 - **[CLAIM-157](../claims.d/CLAIM-157.md) and [THEORY-661](THEORY-661.md).** Equitability is a symmetry condition and
   near-decomposability a weak-coupling one. They select different
   partitions, and only the second is a block.
-- **[THEORY-tmpz4ja2](THEORY-tmpz4ja2.md).** For a Markov chain, this condition applied to Pᵀ
+- **[THEORY-822](THEORY-822.md).** For a Markov chain, this condition applied to Pᵀ
   is Kemeny and Snell's strong lumpability, and it makes the block label
   exactly dynamically independent in Barnett and Seth's sense.

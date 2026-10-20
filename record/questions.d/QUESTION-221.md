@@ -65,11 +65,11 @@ the long run, by coupling strength."
     the relative defect after the transient is then second order in ε,
     and first order otherwise.
   - For a partition of a Markov chain, exact closure of the label is
-    strong lumpability ([THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md)). Rosas et al. name
+    strong lumpability ([THEORY-822](../theory.d/THEORY-822.md)). Rosas et al. name
     quasi-lumpability methods but give no bound. In one jittered random
     walk the transfer entropy into the module label rose from 3 × 10⁻⁸ to
     4 × 10⁻⁶ as the between-module rate rose from 0.001 to 1, roughly in
-    step with the spread of block row sums ([NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md)). One example,
+    step with the spread of block row sums ([NOTE-1030](../notes.d/NOTE-1030.md)). One example,
     not a rate. The open target: a bound on transfer entropy from that
     spread and the smallest probability of leaving a block.
   - Still open: the aggregate's dynamical dependence itself, rather than

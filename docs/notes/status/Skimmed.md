@@ -6,7 +6,7 @@
 
 **Skimmed** — abstract, figures and selected sections; honest, useful, and explicitly not enough to source a practice from.
 
-32 of 1026 NOTE documents. Back to the [full index](../README.md).
+33 of 1030 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -42,3 +42,4 @@
 | [NOTE-1011](../../../record/notes.d/NOTE-1011.md) | Clustering and the hyperbolic geometry of complex networks | For Krioukov et al.'s hyperbolic random graph with 0 < ζ/α < 2, proves that below temperature 1 (β > 1) the global clustering coefficient converges to an explicit positive constant when ζ/α < 1 and to zero when 1 ≤ ζ/α < 2, and that at or above temperature 1 it converges to zero; clustering among vertices of bounded type stays positive for all ζ/α < 2 when β > 1. Skimmed: §1 and the theorem statements read, the proofs not. | Skimmed |
 | [NOTE-1012](../../../record/notes.d/NOTE-1012.md) | Consciousness and the Collapse of the Wave Function | Chalmers and McQueen make consciousness-collapse precise as a super-resistance model (IIT's Q-shape resisting superposition, with a continuous-collapse dynamics), find simple versions refuted by the quantum Zeno effect, and argue that collapse is the gap in causal closure that interactionist property dualism needs. Skimmed: the introduction, the objections and §8 were read, the formal §§2-7 were not. | Skimmed |
 | [NOTE-1022](../../../record/notes.d/NOTE-1022.md) | Giri, Kwon and Novack — The L³-based strong Onsager theorem | The L³-based strong Onsager theorem: for every β < 1/3 there are weak Euler solutions in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}) satisfying the local energy inequality and strictly dissipating total energy. In the proof the Duchon–Robert measure is exactly the smooth density −e e′ρ₀², positive in a periodic array of pipes and zero outside, fixed at the first step; so the coarse-grained flux into vanishing scales is one-signed locally in space and time, in the limit ([THEORY-772](../../../record/theory.d/THEORY-772.md)), with its place and rate chosen by the construction. | Skimmed |
+| [NOTE-1027](../../../record/notes.d/NOTE-1027.md) | Isett — Continuous, globally dissipative Euler flows | The first continuous weak Euler solutions satisfying the local energy inequality with nonzero dissipation: C^α_{t,x}, α < 1/15, on T^d, d ≥ 3, with a Cantor family sharing one initial datum and one dissipation measure. In the construction that measure is a function of time alone, so the coarse-grained flux into vanishing scales is one-way at every place in the limit and uniform in space, switched on only while the solution is drained to zero ([THEORY-821](../../../record/theory.d/THEORY-821.md)). | Skimmed |

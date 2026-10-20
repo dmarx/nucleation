@@ -1,5 +1,8 @@
 ---
+number: 821
 status: Proposed
+formerly:
+- THEORY-tmpxpm2w
 promote_when: >-
   A reading recorded as Read that checks, step by step, the estimates this
   entry takes on trust: the component bounds and transport estimates of
@@ -24,7 +27,7 @@ history:
 - version: 1
   date: '2026-10-20'
   note: >-
-    Filed Proposed from NOTE-tmpb08k2, a skim of the arXiv v4 text. The
+    Filed Proposed from NOTE-1027, a skim of the arXiv v4 text. The
     existence and nonuniqueness statements are the paper's Theorems 1, 4
     and 7. That the dissipation measure is a function of time alone, equal
     to minus the derivative of the total energy, is the record's reading of
@@ -40,13 +43,13 @@ tags:
 - natural-sciences
 date: '2026-10-20'
 source:
-- LIT-tmp6vocc
+- LIT-1305
 - LIT-1248
 - LIT-1289
 answers:
 - QUESTION-219
 summary: >-
-  Isett (2017; ARMA 2022), [LIT-tmp6vocc](../literature.d/LIT-tmp6vocc.md), skimmed in [NOTE-tmpb08k2](../notes.d/NOTE-tmpb08k2.md): the first
+  Isett (2017; ARMA 2022), [LIT-1305](../literature.d/LIT-1305.md), skimmed in [NOTE-1027](../notes.d/NOTE-1027.md): the first
   continuous, indeed C^α with α < 1/15, weak Euler solutions satisfying the
   local energy inequality with nonzero dissipation, and a Cantor family of
   them sharing one initial datum and one dissipation measure. In the
@@ -58,15 +61,15 @@ summary: >-
   Where, when and how fast the energy goes are inputs; the exponent is far
   from 1/3; nothing ties these solutions to Navier–Stokes.
 ---
-<!-- inactive-ok-file: NOTE-tmpb08k2 — Skimmed; this entry's reading -->
+<!-- inactive-ok-file: NOTE-1027 — Skimmed; this entry's reading -->
 <!-- inactive-ok-file: THEORY-772 THEORY-776 THEORY-763 — Proposed; the L³-local, whole-box and two-signed accounts, cited for contrast -->
-# THEORY-tmpxpm2w: For every α < 1/15 there are weak solutions of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent α in space and time, that satisfy the local energy inequality; in the construction their dissipation measure is a nonnegative function of time alone, equal at each time to the rate at which the total energy falls, zero while the local energy equality holds and positive on all of space during a short final interval in which the solution's energy is drained to zero; uncountably many such solutions share one initial datum and one dissipation measure; for them the local coarse-grained energy flux into vanishing scales converges to that measure, so the transfer is one-way at every place and time in the limit and spread uniformly over the box, with its timing chosen by the construction, not forced by the equations
+# THEORY-821: For every α < 1/15 there are weak solutions of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent α in space and time, that satisfy the local energy inequality; in the construction their dissipation measure is a nonnegative function of time alone, equal at each time to the rate at which the total energy falls, zero while the local energy equality holds and positive on all of space during a short final interval in which the solution's energy is drained to zero; uncountably many such solutions share one initial datum and one dissipation measure; for them the local coarse-grained energy flux into vanishing scales converges to that measure, so the transfer is one-way at every place and time in the limit and spread uniformly over the box, with its timing chosen by the construction, not forced by the equations
 
 ## Source
 
 Isett, "Nonuniqueness and existence of continuous, globally dissipative
 Euler flows", *Archive for Rational Mechanics and Analysis* 244:1223–1309
-(2022), [LIT-tmp6vocc](../literature.d/LIT-tmp6vocc.md), skimmed in [NOTE-tmpb08k2](../notes.d/NOTE-tmpb08k2.md) from arXiv:1710.11186v4. The
+(2022), [LIT-1305](../literature.d/LIT-1305.md), skimmed in [NOTE-1027](../notes.d/NOTE-1027.md) from arXiv:1710.11186v4. The
 existence statements are its Theorems 1 and 4, both consequences of the
 Approximation Theorem 7. The form of the dissipation measure is read from
 the proof of the Main Lemma 3.1 (lines (43)–(44) and (117)) and from Lemma
