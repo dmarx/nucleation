@@ -38,7 +38,7 @@ summary: >-
   neurons, with collapse and loss of plasticity as consequences. Proposed:
   the SGD half is approximate and the network evidence is limited.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
+<!-- inactive-ok-file: THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
 
 # THEORY-213: Every mirror symmetry of a network's loss makes its symmetric subspace absorbing for gradient-based training, and weight decay above a threshold or strong gradient noise makes that subspace favoured, so rescaling symmetry yields sparsity, rotation symmetry low rank, and permutation symmetry merged, identical neurons
 

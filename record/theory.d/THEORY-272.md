@@ -1,21 +1,24 @@
 ---
 number: 272
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmplenr2
-promote_when: >-
-  A reading of the analytic treatment of the same model (Amit, Gutfreund
-  and Sompolinsky 1985 and 1987, or an equivalent) or of a later
-  simulation at N in the thousands, confirming that random patterns
-  stored by Eq. 2 are attractors with basins of nonzero width up to a
-  load near 0.14–0.15N, that recall then collapses for all patterns
-  rather than degrading pattern by pattern, and that two patterns fuse
-  once their overlap is high. It is refuted if the capacity scaling fails
-  at large N, or if the large-N basins shrink to zero width at any load.
-  A further simulation at N = 30 or 100 cannot settle it, since those are
-  the sizes the claim already rests on.
-title: 'A network of threshold units with symmetric Hebbian couplings is a content-addressable memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns, memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are forgotten'
-version: 1
+title: 'In Hopfield''s 1982 simulations at N = 30 and 100, a network of threshold units with symmetric Hebbian couplings acts as a content-addressable memory whose stored random patterns are attractors: recall degrades severely near 0.15N patterns, a pattern placed 10 bits from another at N = 100 often fuses with it, and at 25-fold overload no stored pattern stays stable'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-272 (batch 051, ADR-047 v3). Hopfield (1982) was read
+    in full and gives its numbers in the text. The title is narrowed
+    to his simulations at N = 30 and 100. The fusion clause is held to
+    the one design at N = 100, and the overload clause to the measured
+    case, no stored pattern stable at N = 100 and n = 500. The
+    forgetting clause, reported only in words, is dropped. The dated
+    note below checks the energy argument and the crosstalk estimate.
+    The large-N request in the promote_when moves to
+    QUESTION-201.
 tags:
 - complex-systems
 - neuroscience
@@ -33,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-179 CLAIM-180 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->
 
-# THEORY-272: A network of threshold units with symmetric Hebbian couplings is a content-addressable memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns, memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are forgotten
+# THEORY-272: In Hopfield's 1982 simulations at N = 30 and 100, a network of threshold units with symmetric Hebbian couplings acts as a content-addressable memory whose stored random patterns are attractors: recall degrades severely near 0.15N patterns, a pattern placed 10 bits from another at N = 100 often fuses with it, and at 25-fold overload no stored pattern stays stable
 
 ## Source
 
@@ -100,3 +103,30 @@ n = 10, N = 100; observed 0.6).
 - **[THEORY-136](THEORY-136.md)** holds what evidence shows alternative stable states in a
   field system; this account is the designed case, where the attractors
   are written in.
+
+## Note of 2026-10-20: what was measured, and the two checks
+
+Checked for the promotion audit (batch 051, [ADR-047](../decisions.d/ADR-047.md) v3).
+
+1. **The energy argument.** Take V in {0, 1}, T symmetric and Tᵢᵢ = 0.
+   Updating unit i changes E = −½ Σᵢⱼ TᵢⱼVᵢVⱼ by ΔE = −ΔVᵢ Σⱼ TᵢⱼVⱼ. The
+   threshold rule raises Vᵢ only when that sum is positive and lowers it
+   only when the sum is negative, so every change lowers E. The state
+   space is finite, so asynchronous updating ends at a fixed point.
+2. **The crosstalk estimate.** For a stored random pattern, the local field
+   has a signal of ±N/2 and n − 1 noise terms. Each noise term is a sum of
+   about N/2 terms of ±1, so the noise has rms [(n − 1)N/2]^½ (Eq. 10). At
+   n = 10 and N = 100: σ ≈ 21.2, z ≈ 2.36, a bit errs with probability about
+   0.009, and a perfect 100-bit recall has probability about e^−0.92 ≈ 0.40.
+   That agrees with the paper; its simulation gave 0.6.
+3. **What the title keeps.**
+   - At N = 100, five patterns are almost always stable; at fifteen, about
+     half are recalled within 5 bits.
+   - At N = 30 with five patterns, a start within 5 bits of a memory
+     reaches it more than 90% of the time.
+   - At N = 100, an extra pattern 10 bits from another was "often fused"
+     with it.
+   - At N = 100 with n = 500, no stored pattern was stable.
+
+   Whether 0.15N holds at large N, and how the fusion distance scales, is
+   [QUESTION-201](../questions.d/QUESTION-201.md).

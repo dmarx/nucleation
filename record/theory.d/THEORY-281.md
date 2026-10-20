@@ -1,22 +1,22 @@
 ---
 number: 281
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmprhafq
-promote_when: >-
-  A second, independent derivation or textbook statement of the bound
-  and its attainability conditions, separating the deterministic case
-  (attained iff the group distributions are permutations of one another)
-  from the stochastic case (attained iff each group distribution is a
-  deterministic coarsening of one common output distribution, which a
-  quantile common refinement always supplies under disjoint supports).
-  It is refuted by an erasure Z = f(X) with I(Z;A) = 0 and
-  I(Z;X) > H(X|A), or by a deterministic erasure reaching the bound on
-  groups that are not permutations of one another. What cannot settle
-  it: benchmark comparisons of erasure algorithms on estimated
-  distributions, which measure an estimator, not the limit.
-title: "Perfect concept erasure caps what a representation can keep at the information not about the concept: if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups' distributions are permutations of one another"
-version: 1
+title: 'Perfect concept erasure caps what a representation can keep at the information not about the concept: for X of finite support, if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups'' distributions are permutations of one another'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-281 (batch 051, ADR-047 v2). The dated note below
+    re-derives the cap, the necessity of the permutation condition for
+    deterministic erasure, its sufficiency under disjoint groups, and
+    the stochastic attainment condition the body states. The title is
+    narrowed to X of finite support, where every entropy is finite.
+    The promote_when's request for an independent derivation is met by
+    the note.
 tags:
 - information-theory
 - representation-learning
@@ -37,7 +37,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-199 — Proposed; the partial answer of the same shape, open -->
 
-# THEORY-281: Perfect concept erasure caps what a representation can keep at the information not about the concept: if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups' distributions are permutations of one another
+# THEORY-281: Perfect concept erasure caps what a representation can keep at the information not about the concept: for X of finite support, if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups' distributions are permutations of one another
 
 ## Source
 
@@ -108,3 +108,31 @@ condition does not suffice for deterministic maps, and it holds.
   noise destroys a top-level class while low-level features survive.
   Here, a designed map destroys a chosen label at a known information
   price.
+
+## Note of 2026-10-20: the cap and its attainment, re-derived
+
+Re-derived for the promotion audit (batch 051, [ADR-047](../decisions.d/ADR-047.md) v2). X has finite
+support; A is the concept; Z is produced from X alone, possibly with
+independent randomness, so A → X → Z.
+
+1. **The cap.** I(Z; X, A) expands two ways, as I(Z;X) + I(Z;A|X) and as
+   I(Z;A) + I(Z;X|A). The Markov condition gives I(Z;A|X) = 0, and
+   perfect erasure gives I(Z;A) = 0. So I(Z;X) = I(Z;X|A) = H(X|A) −
+   H(X|Z,A) ≤ H(X|A), with equality iff H(X|Z,A) = 0, that is, iff X is a
+   function of (Z, A).
+2. **Deterministic necessity.** Let Z = f(X). Equality forces f to be
+   one-to-one on the support of each group's distribution p_a. Zero leakage
+   forces Z given A = a to have one law Q for every a. A one-to-one image of
+   p_a is p_a relabelled, so every p_a has the point masses of Q: the
+   groups' distributions are permutations of one another. This direction
+   uses neither disjoint groups nor strict concavity of entropy.
+3. **Deterministic sufficiency.** Under disjoint group supports, if the
+   p_a are permutations of a common Q, map each group's support one-to-one
+   onto Q's support, matching masses. Then Z given A = a is Q for every a,
+   and f is one-to-one on each group, so both conditions in 1 hold.
+4. **Stochastic attainment.** H(X|Z,A) = 0 means x = g_a(z) on group a, so
+   each p_a is a deterministic coarsening of the common law Q of Z.
+   Conversely, given such a Q and g_a, draw Z from Q conditioned on
+   g_A(Z) = X. Under disjoint finite supports, the common refinement of the
+   groups' cumulative partitions of [0, 1] supplies Q. This is the
+   correction the body makes to the paper's §4.
