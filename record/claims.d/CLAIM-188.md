@@ -47,7 +47,6 @@ summary: >-
   (d/2) log n, and [THEORY-079](../theory.d/THEORY-079.md) says the Laplace form errs by a term that
   grows with log n. Both THEORYs are Proposed, so this is too.
 ---
-<!-- inactive-ok-file: THEORY-259 — Proposed; the reading named in the note of 2026-10-14, not leaned on -->
 <!-- inactive-ok-file: CLAIM-174 CLAIM-175 THEORY-079 THEORY-087 — Proposed; open, and cited as open: under test, not settled -->
 
 # CLAIM-188: Where the model with a candidate structure is singular at the parameters that switch the candidate off, with real log canonical threshold λ below d/2, the reification rule's Gaussian Occam term overcharges keeping the candidate by a term that grows as (d/2 − λ) log n, so the rule is exact only where that model stays regular
