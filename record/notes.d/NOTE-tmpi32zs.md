@@ -144,7 +144,7 @@ off the projection at a single instant without any history.
   visibly different phase and amplitude.
 - **Theorem 8.1.** Under the t-damping equation with separable H,
   dℋ/dt = −t P[(Σⱼ(H_pⱼ − ℋ_pⱼ)ℋ_qⱼ)²] − t P[(Σⱼ(H_qⱼ − ℋ_qⱼ)ℋ_pⱼ)²] ≤ 0,
-  sums over the resolved j. Re-derived step by step in THEORY-tmpepvai. For
+  sums over the resolved j. Re-derived step by step in [THEORY-tmpepvai](../theory.d/THEORY-tmpepvai.md). For
   the model the right side is −2t x₁²x₂²/(1 + x₁²)², which checks against
   dℋ/dt computed directly from (28).
 - **Prior data (§4).** E[ϕⱼ(x, t) | x̂] ≈ Σ_ν cⱼ^ν(t)h^ν(x̂), with cⱼ^ν(t)
@@ -182,7 +182,7 @@ over the first peaks.
 | C3 | The memory kernel can be computed from equilibrium time-correlation functions through a Volterra equation, without solving the orthogonal dynamics | strong as a derivation, moderate as a method | (21); one example with 21 basis functions, accurate to t ≈ 8 |
 | C4 | Replacing the orthogonal dynamics by the full flow changes the memory term by O(t³) | strong for small t | Taylor argument of §7, checked here |
 | C5 | At leading order the memory is tS(Φ), and the t-damping equation needs no previously computed averages | strong as a derivation of the equation; weak as an approximation | (26)–(27); no error estimate, one example with phase and amplitude error |
-| C6 | With separable H and the conditional expectation, the t-damping equation makes the effective Hamiltonian non-increasing | strong | Theorem 8.1 with proof, re-derived in THEORY-tmpepvai |
+| C6 | With separable H and the conditional expectation, the t-damping equation makes the effective Hamiltonian non-increasing | strong | Theorem 8.1 with proof, re-derived in [THEORY-tmpepvai](../theory.d/THEORY-tmpepvai.md) |
 | C7 | "The result of the computations is close to the best possible estimate that can be obtained given the partial data" (abstract) | weak | Fig. 6 holds to t ≈ 8 and then misses the amplitude by a factor of about three; no error measure is given |
 | C8 | First-order optimal prediction is "optimal in the class of Markovian approximations" | not assessed | cited from Hald and Kupferman (2001), not read |
 
@@ -221,16 +221,16 @@ over the first peaks.
 
 It builds on the authors' earlier first-order optimal prediction (Chorin,
 Kast and Kupferman 1998–1999), on their 2000 PNAS paper connecting it to
-Mori–Zwanzig (LIT-tmpai9kc, being read concurrently), and on Mori (1965)
+Mori–Zwanzig ([LIT-tmpai9kc](../literature.d/LIT-tmpai9kc.md), being read concurrently), and on Mori (1965)
 and Zwanzig (1973, 1980) for the projection formalism, with the nonlinear
 (conditional-expectation) projection taken from Zwanzig. Its Volterra
 scheme is the one sketched in "Non-Markovian optimal prediction" (2001), a
 different paper. The t-model is its own new construction here. Parish and
-Duraisamy (LIT-tmpvihtb, unread) work in this line.
+Duraisamy ([LIT-tmpvihtb](../literature.d/LIT-tmpvihtb.md), unread) work in this line.
 
 ## Bearing on the record
 
-- **QUESTION-tmpxapb2.** It answers the part the question takes as given
+- **[QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md).** It answers the part the question takes as given
   and the record lacked a reading of: that eliminating variables leaves an
   exact decomposition into a Markovian term, a memory term and noise, and
   that this decomposition depends on the projection. Three projections are
@@ -238,7 +238,7 @@ Duraisamy (LIT-tmpvihtb, unread) work in this line.
   caution that a kernel norm is not representation-invariant. It also
   shows, on one example, that the memory decides prediction beyond a
   couple of oscillations (the re-check table), and that its leading-order
-  effect in a Hamiltonian system is a time-growing damping (THEORY-tmpepvai).
+  effect in a Hamiltonian system is a time-growing damping ([THEORY-tmpepvai](../theory.d/THEORY-tmpepvai.md)).
   It **does not** answer the question's main ask. There is no Markovian
   augmentation with memory coordinates anywhere in the paper, and no error
   bound for any approximation, let alone one in terms of the spectrum of
@@ -247,29 +247,29 @@ Duraisamy (LIT-tmpvihtb, unread) work in this line.
   scheme keeps the full history. Its "short memory" is assumed, not
   derived from a gap. Nothing here rules on whether a level's criteria
   apply to the augmented or the instantaneous state.
-- **A5's linear example in QUESTION-tmpxapb2.** Not in the paper, but its
+- **A5's linear example in [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md).** Not in the paper, but its
   formalism places it. The kernel bc·e^{−dt} is a single exponential, so
   the memory is generated exactly by one auxiliary linear ODE; that
   coordinate is y itself, up to its noise term. So in that example the
   exact one-coordinate augmentation is just the eliminated variable.
   Nothing in this paper says when a kernel is close to a finite sum of
   exponentials, which is what a nontrivial answer would need.
-- **THEORY-257 and THEORY-733.** Different conditioning. Optimal prediction
+- **[THEORY-257](../theory.d/THEORY-257.md) and [THEORY-733](../theory.d/THEORY-733.md).** Different conditioning. Optimal prediction
   estimates the future of x̂ from its value at time 0, averaged over an
   initial law. Dynamical independence asks whether the micro history adds
   to the coarse variable's own history in a stationary process. The memory
   term in (6) is a pathwise function of the resolved history, so a system
   with nonzero K can still be dynamically independent if the noise F adds
   nothing given that history. The paper neither states nor tests this.
-  Nothing in it contradicts either entry, and it gives THEORY-733 no new
+  Nothing in it contradicts either entry, and it gives [THEORY-733](../theory.d/THEORY-733.md) no new
   case.
-- **CLAIM-327.** Consistent in spirit (the past of the resolved variable
+- **[CLAIM-327](../claims.d/CLAIM-327.md).** Consistent in spirit (the past of the resolved variable
   matters to its future), but the paper's memory is a mechanical
   consequence of elimination, not a variable members read. No bearing
   beyond that.
-- **CLAIM-157.** The model problem has no scale separation (the paper says
+- **[CLAIM-157](../claims.d/CLAIM-157.md).** The model problem has no scale separation (the paper says
   so in §9), so it cannot speak to gap-isolated blocks.
-- **THEORY-tmpepvai** is filed from this reading.
+- **[THEORY-tmpepvai](../theory.d/THEORY-tmpepvai.md)** is filed from this reading.
 
 No instruction for machine-learning practice; nothing for the anthology.
 
@@ -311,7 +311,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 - For what class of systems is the memory kernel, under a given
   projection, close in some norm to a finite sum of exponentials, so that
   k auxiliary linear coordinates reproduce it with a stated error? That is
-  QUESTION-tmpxapb2's ask, and this paper's machinery (the Volterra
+  [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md)'s ask, and this paper's machinery (the Volterra
   equation for A(t)) gives the kernel numerically but not that bound.
 - What controls the validity of the t-model: the ratio of the prediction
   horizon to the memory time, and how could that ratio be estimated from

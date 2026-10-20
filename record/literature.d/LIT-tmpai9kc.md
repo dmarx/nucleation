@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-20 (NOTE-tmpzc5m1) in full, from the authors' PostScript copy on Chorin's Berkeley page; worth reading for the generalized Langevin identity of the resolved variables, with conditional expectation under an invariant measure as the projection (Markovian term R(A) = E[LA|A], memory K(s, A) = E[LS⊥ˢF|A], noise S⊥ᵗF with zero conditional mean), for first-order optimal prediction as its Markovian part, and for the renormalized Hamiltonian −log∫e^{−H} in the canonical case. Read it knowing that its claim that no m-equation Markovian model beats first-order optimal prediction in mean square holds only for the instantaneous rate, that it states no fluctuation–dissipation relation and no criterion for when memory may be dropped, and that its one demonstration (m = 0, perturbative, kernels cut off at a time chosen to give a reasonable decay) shows the decay of the mean but not a faithful mean after t ≈ 2.
+  read 2026-10-20 ([NOTE-tmpzc5m1](../notes.d/NOTE-tmpzc5m1.md)) in full, from the authors' PostScript copy on Chorin's Berkeley page; worth reading for the generalized Langevin identity of the resolved variables, with conditional expectation under an invariant measure as the projection (Markovian term R(A) = E[LA|A], memory K(s, A) = E[LS⊥ˢF|A], noise S⊥ᵗF with zero conditional mean), for first-order optimal prediction as its Markovian part, and for the renormalized Hamiltonian −log∫e^{−H} in the canonical case. Read it knowing that its claim that no m-equation Markovian model beats first-order optimal prediction in mean square holds only for the instantaneous rate, that it states no fluctuation–dissipation relation and no criterion for when memory may be dropped, and that its one demonstration (m = 0, perturbative, kernels cut off at a time chosen to give a reasonable decay) shows the decay of the mean but not a faithful mean after t ≈ 2.
 title: 'Optimal prediction and the Mori–Zwanzig representation of irreversible processes'
 version: 2
 history:
@@ -36,7 +36,7 @@ summary: >-
 
 Chorin, A. J., Hald, O. H. & Kupferman, R. (2000). Optimal prediction and the Mori–Zwanzig representation of irreversible processes. *Proceedings of the National Academy of Sciences* 97(7): 2968–2973. doi:10.1073/pnas.97.7.2968. Open copy: PMC16175.
 
-Read in full 2026-10-20 (NOTE-tmpzc5m1), from the authors' copy at
+Read in full 2026-10-20 ([NOTE-tmpzc5m1](../notes.d/NOTE-tmpzc5m1.md)), from the authors' copy at
 https://math.berkeley.edu/~chorin/CHK.ps.
 
 ## Why this is here

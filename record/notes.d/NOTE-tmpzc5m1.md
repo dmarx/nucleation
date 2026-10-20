@@ -202,7 +202,7 @@ continues Chorin, Kast and Kupferman's first-order optimal prediction
 reproduced. The "later work" it promises, on memory truncation with more
 resolved variables and on sampling-based higher-order schemes, is the
 programme of Chorin, Hald and Kupferman's "Optimal prediction with memory"
-(LIT-tmple6xy, registered unread). Parish and Duraisamy (LIT-tmpvihtb,
+([LIT-tmple6xy](../literature.d/LIT-tmple6xy.md), registered unread). Parish and Duraisamy ([LIT-tmpvihtb](../literature.d/LIT-tmpvihtb.md),
 unread) apply the formalism to large-eddy closure.
 
 ## Bearing on the record
@@ -211,7 +211,7 @@ This is the record's first reading of Mori–Zwanzig. What follows the first
 item is the record's own derivation, not the paper's. The scripts are in
 the session scratchpad. None of it is filed as a THEORY.
 
-- **QUESTION-tmpxapb2, the general form.** A3's
+- **[QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md), the general form.** A3's
   Ż = F(Z) + ∫K(t − s, Z_s) ds + η is (2.7). The paper fixes three things
   A3 left open. The projection is conditional expectation under an
   invariant measure, so it is not arbitrary once the measure and A are
@@ -239,9 +239,9 @@ the session scratchpad. None of it is filed as a THEORY.
   dA/dt = R(A) exactly**, which is closure. Whenever first-order optimal
   prediction is not exact, the memory kernel is nonzero. For a linear flow
   ẋ = Jx and A = Lx, F = 0 is LJ = BL. That is Shpak et al.'s ĀQ = QA
-  (NOTE-tmpl2r9w) and the continuous-time form of THEORY-733's L A = B L.
+  ([NOTE-tmpl2r9w](NOTE-tmpl2r9w.md)) and the continuous-time form of [THEORY-733](../theory.d/THEORY-733.md)'s L A = B L.
   This was checked for an invariant 2-plane of a skew J (|F| ~ 10⁻¹⁵).
-- **THEORY-733 and THEORY-257: MZ memory against dynamical independence in
+- **[THEORY-733](../theory.d/THEORY-733.md) and [THEORY-257](../theory.d/THEORY-257.md): MZ memory against dynamical independence in
   a linear Gaussian VAR(1) (the record's).** Barnett and Seth's setting is
   stochastic and in discrete time, so the paper's FDT does not carry over.
   Apply the discrete Dyson identity
@@ -255,7 +255,7 @@ the session scratchpad. None of it is filed as a THEORY.
   M_j = K₁₂K₂₂^{j−1}K₂₁ for j ≥ 1, and the first orthogonal-dynamics term
   is K₂₁. The Volterra identity was checked to 10⁻¹⁷. Then:
   1. **Exact dynamical independence ⇔ K₂₁ = 0.** Q𝒦P = 0 iff Aᵀ maps
-     row(L) into itself, iff LA = BL, which is THEORY-733's criterion. In
+     row(L) into itself, iff LA = BL, which is [THEORY-733](../theory.d/THEORY-733.md)'s criterion. In
      words, E[Y_{t+1} | X_t] is a function of Y_t. In the MZ split, DI is
      the vanishing of the noise from the unresolved initial state, not of
      the memory.
@@ -269,7 +269,7 @@ the session scratchpad. None of it is filed as a THEORY.
      form and numerically. In the Π-orthonormal frame, K₂₁ is the inward
      leg (the rest driving Y), K₁₂ the outward leg, and the memory is the
      round trip Y → rest → Y. DI asks only that the inward leg vanish,
-     which matches THEORY-257's reading ("dynamical independence asks only
+     which matches [THEORY-257](../theory.d/THEORY-257.md)'s reading ("dynamical independence asks only
      for none coming in"). Zero memory needs the round trip to vanish,
      which an absent outward leg also achieves. The legs are measured in
      Π-whitened coordinates, not in raw entries of A. Zero memory is
@@ -281,7 +281,7 @@ the session scratchpad. None of it is filed as a THEORY.
      non-Markovianity is not a failure of dynamical independence, is right
      for p ≥ 2. For p = 1 it is half right: there nonzero memory does
      imply dependence.
-  5. **QUESTION-tmpxapb2's own example shows item 3 in continuous time.**
+  5. **[QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md)'s own example shows item 3 in continuous time.**
      In ẋ = −ax + by, ẏ = cx − dy, K = bc e^{−dt}. With c = 0 and b ≠ 0
      the memory vanishes, but x is not closed: b e^{−dt} y(0) remains. That
      system is dissipative and has no invariant measure with a
@@ -304,7 +304,7 @@ the session scratchpad. None of it is filed as a THEORY.
   memory and DI coincide.** In the paper's own setting, a
   deterministic flow with an invariant measure, memory, noise and
   non-closure vanish together.
-- **QUESTION-tmpxapb2, augmentation (the record's, linear class).** There
+- **[QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md), augmentation (the record's, linear class).** There
   are two distinct "Markovian augmentations", and they differ in size.
   - Making Y's own law Markov needs k = rank of the Hankel matrix of
     (M_j) memory coordinates. That is the minimal realization of
@@ -320,7 +320,7 @@ the session scratchpad. None of it is filed as a THEORY.
   - So "add memory coordinates" answers the question only if it says
     which closure is meant. Controlled-error truncation, the question's
     real demand, is not touched by this paper.
-- **QUESTION-tmpt64jh (a by-product, the record's).** In a VAR(1) whose block Y
+- **[QUESTION-tmpt64jh](../questions.d/QUESTION-tmpt64jh.md) (a by-product, the record's).** In a VAR(1) whose block Y
   receives coupling A_{YR} from the rest:
   T(X → Y) ≤ ½ log det(I + (LΣLᵀ)⁻¹ A_{YR} Cov(R_t | Y_t) A_{YR}ᵀ). The
   reason is that conditioning on Y's whole past does no worse than
@@ -330,12 +330,12 @@ the session scratchpad. None of it is filed as a THEORY.
   answers the forward half of the question for linear Gaussian VAR(1)
   with Cov(R | Y) bounded. The MZ memory in the same runs is O(ε), not
   O(ε²), so memory is the coarser signal.
-- **CLAIM-327 and CLAIM-331.** Reading 3 says how a variable members read
+- **[CLAIM-327](../claims.d/CLAIM-327.md) and [CLAIM-331](../claims.d/CLAIM-331.md).** Reading 3 says how a variable members read
   from the past can be closed without being Markov in its own history, or
   Markov without being closed. The paper says nothing about timescales
   beyond "short times", "m not too small" and "low temperature". It gives
   no support to the idea that slower variables have less memory.
-- **CLAIM-tmpkoi6k and THEORY-tmpj32n2.** They are consistent with readings 1 and
+- **[CLAIM-tmpkoi6k](../claims.d/CLAIM-tmpkoi6k.md) and [THEORY-tmpj32n2](../theory.d/THEORY-tmpj32n2.md).** They are consistent with readings 1 and
   2. An exactly closed collective mode, K₂₁ = 0, carries no MZ memory and
   no noise from the eliminated state. Only its own innovation Lε remains.
 
@@ -387,9 +387,9 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 - When is the memory kernel short enough that a truncation, or a few
   augmented coordinates, gives bounded error over a stated horizon? The
-  paper promises "later work" (see LIT-tmple6xy). For the linear class,
+  paper promises "later work" (see [LIT-tmple6xy](../literature.d/LIT-tmple6xy.md)). For the linear class,
   balanced truncation of (K₂₂, K₂₁, K₁₂) would give an error bound in
-  terms of Hankel singular values. That would answer QUESTION-tmpxapb2's
+  terms of Hankel singular values. That would answer [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md)'s
   demand for k and the error in terms of the eliminated spectrum.
 - Does the record's VAR(1) relation (DI ⇔ Q𝒦P = 0 ⇒ zero memory) extend
   to near-independence? Is the dynamical dependence bounded by a norm of
