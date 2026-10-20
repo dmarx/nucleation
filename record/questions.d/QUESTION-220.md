@@ -29,7 +29,6 @@ answered_by:
 - THEORY-753
 - THEORY-757
 ---
-<!-- inactive-ok-file: THEORY-751 — Proposed; the successive-refinement reading, cited as open -->
 <!-- inactive-ok-file: THEORY-163 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-220: When are the optimal representations of an information-bottleneck or rate–distortion objective at two budgets nested, so that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and when does raising the budget reorganize the optimum into a partition incomparable with the last?
 

@@ -42,7 +42,7 @@ summary: >-
   with soft reconstructions of the source itself, and does not reach the
   information bottleneck, whose loss is remote.
 ---
-<!-- inactive-ok-file: THEORY-751 THEORY-163 CLAIM-157 — Proposed; the first-order characterization and an open reading this bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-163 CLAIM-157 — Proposed; an open reading and an open claim this bears on, nothing here rests on their being settled -->
 # NOTE-980: No, Ingber and Weissman — Strong successive refinability
 
 ## Contribution
