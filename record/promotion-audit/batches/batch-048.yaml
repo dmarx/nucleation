@@ -59,7 +59,9 @@ finding: >-
   separation and fails, by up to 86% in a worked example, between
   neighbouring supernodes, where most links are.
 owner_questions: []
-promotion_prs: []
+promotion_prs:
+  - "#249: THEORY-166, THEORY-172 and THEORY-175 narrowed and promoted (branch claude/promote-theories-166-172-175)."
+  - "#255: THEORY-190 narrowed and promoted (branch claude/promote-theory-190)."
 notes_for_ledger:
   - >-
     The score-2 band went 4 of 5 (12 of 15 with batches 039 and 045).
