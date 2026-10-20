@@ -24,7 +24,7 @@ history:
     stationary, and recomputes the feedback channel. "Equals" is held to one
     switch, the two conditions enter the title, and the feedback clause is
     held to the one proved channel. The rest of the promote_when moves to
-    QUESTION-tmpu8tif.
+    QUESTION-191.
 tags:
 - information-theory
 - thermodynamics
@@ -44,7 +44,7 @@ summary: >-
   al. ([LIT-041](../literature.d/LIT-041.md)) show that with feedback, in one binary channel,
   predictive, max-entropy-action and efficient agents are disjoint. The
   claim is an ensemble average, not a per-operation floor. Whether the
-  bound fails without the two conditions is [QUESTION-tmpu8tif](../questions.d/QUESTION-tmpu8tif.md).
+  bound fails without the two conditions is [QUESTION-191](../questions.d/QUESTION-191.md).
 ---
 <!-- inactive-ok-file: THEORY-030 — Proposed; the Landauer account, named in Connections, not leaned on -->
 
@@ -65,7 +65,7 @@ Read together, the two papers bound the claim. Predictive memory is what thermod
 
 ## What this does not say
 
-- **That the per-step nostalgia is a nonnegative cost under any drive.** [NOTE-295](../notes.d/NOTE-295.md) found that nonnegativity needs a Markov drive, which the paper does not state. The note below proves it under that condition; that it fails without it is not shown ([QUESTION-tmpu8tif](../questions.d/QUESTION-tmpu8tif.md)). Under a non-Markov drive, a state that remembers x_{t−1} can predict x_{t+1} better than it tracks x_t, and then the step's "dissipation" as defined is negative. The relaxation step ⟨ΔF^relax_neq⟩ ≤ 0 also needs an unstated stationarity condition.
+- **That the per-step nostalgia is a nonnegative cost under any drive.** [NOTE-295](../notes.d/NOTE-295.md) found that nonnegativity needs a Markov drive, which the paper does not state. The note below proves it under that condition; that it fails without it is not shown ([QUESTION-191](../questions.d/QUESTION-191.md)). Under a non-Markov drive, a state that remembers x_{t−1} can predict x_{t+1} better than it tracks x_t, and then the step's "dissipation" as defined is negative. The relaxation step ⟨ΔF^relax_neq⟩ ≤ 0 also needs an unstated stationarity condition.
 - **Anything per operation.** Every quantity is an average over paths and protocols. The unit is nats, not bits, and neither paper states a "k_BT ln 2 per bit" cost.
 - **Anything about learning systems.** Both papers hold the kernel fixed. [LIT-327](../literature.d/LIT-327.md)'s Discussion raises adaptation but proves nothing about it. [LIT-041](../literature.d/LIT-041.md)'s agent has no learning. Its "prediction and energy efficiency may be at odds in active learning systems" is a hedged extrapolation ([NOTE-032](../notes.d/NOTE-032.md), C14).
 - **That efficiency under feedback is a trade-off between prediction and forgetting.** In the only proved example the efficient agent is memoryless ([NOTE-032](../notes.d/NOTE-032.md), C13). No interior optimum is exhibited.
@@ -125,4 +125,4 @@ under a kernel K_x at fixed x_{t+1}. Nothing feeds back from s to x.
 
 Steps 2 and 3 meet the promote_when's request for a derivation under the
 two conditions. A system in which the bound fails without them is not
-built, and neither is a physical test; both are [QUESTION-tmpu8tif](../questions.d/QUESTION-tmpu8tif.md).
+built, and neither is a physical test; both are [QUESTION-191](../questions.d/QUESTION-191.md).

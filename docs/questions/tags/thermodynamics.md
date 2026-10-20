@@ -6,8 +6,9 @@
 
 **Thermodynamics** — the second law and its extensions read for themselves — entropy and entropy production, irreversibility, nonequilibrium steady states and their stability, dissipative structures, fluctuation theorems and stochastic thermodynamics, and the thermodynamics of computation and of life (ADR-020).
 
-1 of 190 QUESTION documents. Back to the [full index](../README.md).
+2 of 192 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-186](../../../record/questions.d/QUESTION-186.md) | In a second system with a known reciprocal coupling and one unit driven at graded strengths, does the measured transfer-entropy asymmetry grow to one-way flow under strong drive while the coupling stays symmetric? | The promotion condition formerly on [THEORY-275](../../../record/theory.d/THEORY-275.md), moved here when [THEORY-275](../../../record/theory.d/THEORY-275.md) was narrowed to the one bead system of [LIT-947](../../../record/literature.d/LIT-947.md) and promoted on 2026-10-19 ([ADR-047](../../../record/decisions.d/ADR-047.md) v3). In that system the one-way regime under strong drive is a simulation of the fitted model, not a measurement. | Open |
+| [QUESTION-191](../../../record/questions.d/QUESTION-191.md) | Does the per-step nostalgia of a driven system without feedback fail to bound its dissipation when the drive is not Markov or the kernel does not keep each equilibrium stationary, and does any physical system show dissipation tracking nonpredictive information? | The promotion condition formerly on [THEORY-026](../../../record/theory.d/THEORY-026.md), with the part met removed. [THEORY-026](../../../record/theory.d/THEORY-026.md) was promoted on 2026-10-19 ([ADR-047](../../../record/decisions.d/ADR-047.md) v2) on a derivation that the per-step nostalgia I[s_t;x_t] − I[s_t;x_{t+1}] is nonnegative under a Markov drive and, summed, bounds dissipation from below when the kernel keeps each equilibrium stationary. What is left is whether the bound fails when either condition is dropped, and a physical system. | Open |

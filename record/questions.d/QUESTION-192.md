@@ -1,5 +1,8 @@
 ---
+number: 192
 status: Open
+formerly:
+- QUESTION-tmpx46z2
 title: 'Does lazy-regime training leave the within-class variability of a network''s features at its initial value beyond one-dimensional, zero-bias, two-class data, where the tangent and initialization kernels are not proportional?'
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   kernels are not proportional is open.
 ---
 
-# QUESTION-tmpx46z2: Does lazy-regime training leave the within-class variability of a network's features at its initial value beyond one-dimensional, zero-bias, two-class data, where the tangent and initialization kernels are not proportional?
+# QUESTION-192: Does lazy-regime training leave the within-class variability of a network's features at its initial value beyond one-dimensional, zero-bias, two-class data, where the tangent and initialization kernels are not proportional?
 
 ## Why it is a question
 

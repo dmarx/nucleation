@@ -1,5 +1,8 @@
 ---
+number: 191
 status: Open
+formerly:
+- QUESTION-tmpu8tif
 title: 'Does the per-step nostalgia of a driven system without feedback fail to bound its dissipation when the drive is not Markov or the kernel does not keep each equilibrium stationary, and does any physical system show dissipation tracking nonpredictive information?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   physical system.
 ---
 
-# QUESTION-tmpu8tif: Does the per-step nostalgia of a driven system without feedback fail to bound its dissipation when the drive is not Markov or the kernel does not keep each equilibrium stationary, and does any physical system show dissipation tracking nonpredictive information?
+# QUESTION-191: Does the per-step nostalgia of a driven system without feedback fail to bound its dissipation when the drive is not Markov or the kernel does not keep each equilibrium stationary, and does any physical system show dissipation tracking nonpredictive information?
 
 ## Why it is a question
 

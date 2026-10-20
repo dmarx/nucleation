@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**500 documents cited without acknowledgement.** Not listed: 9722 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**499 documents cited without acknowledgement.** Not listed: 9671 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3394,16 +3394,6 @@ Neither utility information nor resource holdings, alone or together, can regist
 - [`record/claims.d/CLAIM-352.md:83`](../../record/claims.d/CLAIM-352.md)
 - [`record/theory.d/THEORY-027.md:66`](../../record/theory.d/THEORY-027.md)
 
-### [THEORY-026](../../record/theory.d/THEORY-026.md) — Proposed
-
-For a system driven without feedback, the work dissipated equals the memory that fails to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction is no longer what efficiency requires
-
-3 citations in 3 files await a look; 38 other citations of it are acknowledged.
-
-- [`record/notes.d/NOTE-321.md:156`](../../record/notes.d/NOTE-321.md)
-- [`record/notes.d/NOTE-322.md:186`](../../record/notes.d/NOTE-322.md)
-- [`record/theory.d/THEORY-030.md:82`](../../record/theory.d/THEORY-030.md)
-
 ### [THEORY-047](../../record/theory.d/THEORY-047.md) — Proposed
 
 A regulation taken in under controlling conditions is introjected rather than integrated, so the social history of how a value was acquired fixes how autonomous acting on it is
@@ -4361,7 +4351,7 @@ Training a classifier past zero training error collapses its last-layer features
 2 citations in 1 file await a look; 45 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:55`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:56`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-085](../../record/theory.d/THEORY-085.md) — Proposed
 
@@ -4370,7 +4360,7 @@ A classifier's class-driven Fisher outliers pair each class's feature mean with 
 2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:57`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:58`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-089](../../record/theory.d/THEORY-089.md) — Proposed
 
@@ -4451,7 +4441,7 @@ Under distribution shift the best layer for a linear readout lies below the top:
 2 citations in 1 file await a look; 9 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:56`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:57`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-105](../../record/theory.d/THEORY-105.md) — Proposed
 

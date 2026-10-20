@@ -15,7 +15,7 @@ history:
     zero across, and NC1 is a ratio of linear functionals of the kernel, so
     it is unchanged. The title is held to that setting; "does not collapse
     its features" in general and "on two-class Gaussian data" are dropped.
-    The promote_when moves to QUESTION-tmpx46z2.
+    The promote_when moves to QUESTION-192.
 tags:
 - learning-theory
 - representation-learning
@@ -32,7 +32,7 @@ summary: >-
   wide two-layer net is a constant multiple of the NNGP kernel, so NC1 is
   the same (Theorem 5.1, re-derived). In higher dimensions it is measured
   no lower, and for ReLU higher; whether lazy training leaves NC1 in place
-  there is [QUESTION-tmpx46z2](../questions.d/QUESTION-tmpx46z2.md). The inference that collapse requires feature
+  there is [QUESTION-192](../questions.d/QUESTION-192.md). The inference that collapse requires feature
   learning is the reading's, not proved.
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-212 THEORY-286 — Proposed; the record's statement of collapse, its lazy-versus-rich regime and NTK-spectrum accounts, and the two UFM accounts filed today -->
@@ -144,4 +144,4 @@ condition, not only in expectation. Eq. 57's closed form follows, with
 its correction for samples where some cross-class product is not
 negative. Nothing in the argument survives once the kernels stop being
 proportional, as they do beyond one dimension. That wider case, which the
-promote_when asked for, is [QUESTION-tmpx46z2](../questions.d/QUESTION-tmpx46z2.md).
+promote_when asked for, is [QUESTION-192](../questions.d/QUESTION-192.md).
