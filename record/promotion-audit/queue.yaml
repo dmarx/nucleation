@@ -1,24 +1,36 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 148
+version: 149
 updated: '2026-10-19'
-record_revision: d20d032b
+record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: null
   state: between batches
-  in_review: null
-  next_step: 'Round 047-052 is integrated and all its PRs (#248-#259) are merged. Next: the remaining
-    19 score-2 entries (THEORY-332, -336, -362, -367, -368, -377, -380, -419, -459, -486, -527, -535,
-    -548, -580, -660, -671, -673, -675, -714) in batches of five by title; the band has gone 26 of 30.
-    Follow-ups: THEORY-085 (file a demonstrated CLAIM for the class-weighted identity); reading tasks
-    THEORY-162, -167, -188, -485; THEORY-203 conditional requeue; wave-5 arguments THEORY-302 and the
-    earlier requeue. After a CLAIM filed in a batch merges, rename its tmp-coded decision file to the
-    permanent code. Owner questions open: report titles (THEORY-344, -351, -071, -628); filing record-own
-    results Active at once (CLAIM-384, CLAIM-385); THEORY-110 split; THEORY-185 and THEORY-133 conditional
-    theorems; THEORY-073; CLAIM-143 wording; THEORY-321 multi-group; CLAIM-139; CLAIM-328; CLAIM-206 vs
-    CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
+  in_review:
+  - '#262'
+  - '#263'
+  - '#264'
+  - '#265'
+  - '#266'
+  - '#267'
+  - '#268'
+  next_step: 'Round 053-057 is integrated. Open PRs: #262 (CLAIM-tmp1w7aa filed; THEORY-085 corrected),
+    #263 (THEORY-714), #264 (THEORY-332, -362, -367), #265 (THEORY-377, -380, -419), #266 (THEORY-368),
+    #267 (THEORY-188 reading: two LITs and NOTEs; stays Proposed), #268 (THEORY-580, -548, -527). Main
+    fails lint (NOTE-981, THEORY-753, THEORY-757, THEORY-202) after #246/#247 from another session, which
+    is fixing it on its branch; once main is green, merge main into each PR and merge one at a time, this
+    ledger last. After #262 merges, rename CLAIM-tmp1w7aa decision file to its permanent code. Next: triage-006
+    is exhausted (score-2 band 40 of 54). 316 unqueued wave-3 entries remain at formal score <= 1; a triage-007
+    that sorts titles by what they assert (theorem/measurement/argument), with a control sample, is the
+    recommended next pass. Reading tasks: THEORY-162, -167, -336, -485, -535. Wave 5: THEORY-302, -459,
+    -660, -673 and earlier requeues. Owner questions open: skimmed peer-reviewed proof as "a proof" (THEORY-188,
+    -270); report titles (THEORY-344, -351, -071, -628, -336); record-own results filed Active (CLAIM-384,
+    -385, tmp1w7aa); conditional theorems with promote_when moved to a QUESTION (THEORY-185, -133, -419,
+    -527); THEORY-110 split; THEORY-675 to the anthology; THEORY-073; CLAIM-143; THEORY-321; CLAIM-139;
+    CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160; CLAIM-322, CLAIM-251, THEORY-157,
+    THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -3759,4 +3771,8 @@ history:
   note: 'Batch 057 integrated: 1 new demonstrated CLAIM filed Active (CLAIM-tmp1w7aa); THEORY-085 corrected;
     THEORY-188 retained with two rigorous sources filed (2 LITs, 2 NOTEs, skimmed).; carried_out_in #262,
     #267; requeue updated (THEORY-188, -336, -535, -660)'
+- version: 149
+  date: '2026-10-20'
+  note: 'Round 053-057 closed: 11 promotions and 1 new demonstrated CLAIM in 22 reviews; triage-006 score-2
+    band finished at 40 of 54.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

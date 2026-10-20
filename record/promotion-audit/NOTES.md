@@ -1633,3 +1633,23 @@ history note. THEORY-277 is requeued on this basis.
   question (THEORY-188; compare THEORY-270 in batch 038).
 - Rename CLAIM-tmp1w7aa's decision file to its permanent code after #262
   merges.
+
+## 2026-10-20 — round 053-057 tally; triage-006 finished
+
+- The score-2 band finished at 40 of 54 promoted (batches 039, 045,
+  047-051, 053-056). The earlier "26 of 30" in these notes undercounted;
+  the counts per batch are in the batch files. The tail (batch 056) went 1
+  of 4.
+- Again several titles were false as written and were corrected before
+  promotion: THEORY-332 (the 3x bound becomes 3 + 2f under overshoot),
+  THEORY-380 (a theorem stated without proof was false; the cycle need not
+  pass through t), THEORY-714 (subset equality fails; the proof never
+  checks the sign rule). Re-derive a source's unproved theorems and every
+  axiom proof, not just conclusions.
+- A reading task can narrow rather than confirm (THEORY-188: global
+  clustering vanishes for degree exponent <= 3). Name which coefficient.
+- Before retaining an entry waiting on a refereed version, check arXiv for
+  a newer version (THEORY-486). PhilSci-Archive is TLS-blocked here.
+- What remains of wave 3: 316 unqueued entries at formal score <= 1. The
+  formal flag has nothing left to rank; a triage-007 that sorts by what the
+  title asserts, with a control sample, is the next step.
