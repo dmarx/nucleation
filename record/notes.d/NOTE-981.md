@@ -15,7 +15,7 @@ date: '2026-10-20'
 summary: >-
   Defines successive refinement for the information bottleneck as extending a coarse optimum T₁ to a fine optimum (T₁, S), and shows it equivalent to some pair of optima forming X → T₂ → T₁. With an injective fine decoder, it is also equivalent to the coarse decoder points lying in the convex hull of the fine ones, which a linear programme checks. Refinability is proved for binary X and Y, for Y a function of X, and for jointly Gaussian variables. Numerically the hull test on computed optima often fails, and the loss, measured by unique information, stays under a few percent. Those failures are uncertified. Run here with certified optima, the test shows that the four-state source of [CLAIM-387](../claims.d/CLAIM-387.md) is not refinable between β = 8 and β = 12: its stochastic optima do not nest either.
 ---
-<!-- inactive-ok-file: THEORY-751 THEORY-163 CLAIM-157 — Proposed; the rate–distortion analogue, the annealed colour-naming hierarchy and a dynamical entry named for contrast, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-163 CLAIM-157 — Proposed; the annealed colour-naming hierarchy and a dynamical entry named for contrast, cited as open, nothing here rests on them -->
 # NOTE-981: Charvin, Catenacci Volpi and Polani — Exact and soft successive refinement of the IB
 
 ## Contribution

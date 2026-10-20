@@ -41,7 +41,6 @@ summary: >-
   compressed algorithm.
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-331 THEORY-186 THEORY-257 — Proposed; open claims and accounts this reading bears on, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-744 — Proposed; the companion reading's account of the α-family, named for context -->
 
 # NOTE-984: Coifman and Maggioni — Diffusion wavelets
 

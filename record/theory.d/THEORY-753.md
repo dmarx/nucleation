@@ -23,7 +23,6 @@ summary: >-
 supports:
 - CLAIM-392
 ---
-<!-- inactive-ok-file: THEORY-751 — Proposed; the rate–distortion analogue named for comparison, nothing here rests on it -->
 # THEORY-753: For finite X and Y, the information bottleneck is successively refinable from budget λ₁ to λ₂ > λ₁ iff some pair of optimal encoders forms a Markov chain X → T₂ → T₁, that is, iff the coarse optimal encoder is a garbling of a fine one; when the fine optimum's decoder points q(X|t₂) are affinely independent, this holds for that pair iff every decoder point q(X|t₁) of the coarse optimum lies in their convex hull, so a failed hull test on optima that are unique up to merging and relabelling proves that refinement fails
 
 ## Source

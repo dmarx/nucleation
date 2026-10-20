@@ -49,7 +49,7 @@ summary: >-
   Gaussian do not nest even though the Gaussian is refinable.
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 CLAIM-331 THEORY-257 — Proposed; entries named as not bearing, open -->
-<!-- inactive-ok-file: THEORY-163 THEORY-751 — Proposed; the account this reading files, and an open reading it bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-163 — Proposed; an open reading this bears on, nothing here rests on their being settled -->
 # NOTE-988: Equitz and Cover — Successive refinement of information
 
 ## Contribution
