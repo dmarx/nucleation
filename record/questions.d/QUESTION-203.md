@@ -1,5 +1,8 @@
 ---
+number: 203
 status: Open
+formerly:
+- QUESTION-tmpenqmz
 title: 'How does the average degree of the S¹ hidden-metric model flow under geometric coarse-graining when the closure fails between nearby supernodes, and does an exact ν(γ, β, r) confirm or move the phase boundaries γ = 3 and β = 2?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   closure holding at every separation and on a power-law approximation.
 ---
 
-# QUESTION-tmpenqmz: How does the average degree of the S¹ hidden-metric model flow under geometric coarse-graining when the closure fails between nearby supernodes, and does an exact ν(γ, β, r) confirm or move the phase boundaries γ = 3 and β = 2?
+# QUESTION-203: How does the average degree of the S¹ hidden-metric model flow under geometric coarse-graining when the closure fails between nearby supernodes, and does an exact ν(γ, β, r) confirm or move the phase boundaries γ = 3 and β = 2?
 
 ## Why it is a question
 
