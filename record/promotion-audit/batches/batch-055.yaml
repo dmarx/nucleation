@@ -21,7 +21,8 @@ yield: >-
   which it matches. THEORY-527's recovery theorem re-derives; the verdicts
   argued from its definition leave the title. THEORY-535 waits on its
   source; THEORY-660's thesis outruns its study.
-promotion_prs: []
+promotion_prs:
+  - "#268: THEORY-580 promoted; THEORY-548 and THEORY-527 narrowed and promoted; QUESTION-tmpq1dzv and QUESTION-tmpbgam3 (branch claude/promote-theories-580-548-527)."
 band:
   - {code: THEORY-527, title_asserts: conditional theorem, formal_in_fact: true, outcome: narrow-and-promote}
   - {code: THEORY-535, title_asserts: theorem, formal_in_fact: true, outcome: retain-proposed}
