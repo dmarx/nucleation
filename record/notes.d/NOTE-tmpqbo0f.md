@@ -1,0 +1,358 @@
+---
+status: Read
+paper: 'LIT-tmpo3ov2'
+title: 'Lush — Demand characteristics confound the rubber hand illusion'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Read in full on 2026-10-20 from the PsyArXiv preprint's current file
+    (OSF preprint mpncv, file "Demand characteristics confound the rubber
+    hand illusion.pdf", version 8, uploaded 10 April 2020), downloaded
+    through the OSF API. It is a 32-page Word manuscript whose cover says
+    "Published version" and gives the Collabra citation: the author's
+    final manuscript, not the typeset version of record, which the
+    publisher's site refused to this client (403). Read: abstract,
+    introduction, method, pre-registered and exploratory analyses,
+    results, discussion, Table 1, both figures (pages rendered and
+    viewed, because the extracted text loses the Bayes factors'
+    exponents and the bar heights), the contributions, data and
+    pre-registration statements, and the reference list. Not read: the
+    pre-registration (osf.io/89m7j), the materials and data
+    (osf.io/9c8mq), the video, the supplementary table of fixed-order
+    practice, and the supplementary data from the seven participants
+    asked after a real induction, all reported here only as the paper
+    describes them. Page references are to the manuscript's pages.
+date: '2026-10-20'
+summary: >-
+  People told about the rubber hand procedure, but never put through it,
+  expect the illusion statements more than the control statements and
+  more under synchronous than asynchronous brushing (d = 1.40 and 1.05,
+  n = 20), which is the pattern published reports show. So the field's
+  standard controls do not control for suggestion. The paper does not show
+  that the illusion is suggestion, and says so.
+---
+<!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the accounts of the rubber hand illusion this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-458 THEORY-064 — Proposed; accounts whose rubber-hand support this reading qualifies, not leaned on -->
+
+# NOTE-tmpqbo0f: Lush — Demand characteristics confound the rubber hand illusion
+
+## Contribution
+
+The paper tests the assumption behind both standard controls for
+suggestion in rubber hand illusion research: that participants expect
+the "illusion" and "control" statements, and the synchronous and
+asynchronous conditions, equally. Before it, the assumption had been
+noted as unvalidated (Riemer et al. 2019) but not tested. After it, there
+is a pre-registered result that it fails, and with large effects: people
+who know only what the procedure looks like predict the published
+pattern of agreement.
+
+## Key insight
+
+A control condition controls for demand only if the demand is the same
+in both arms. In the rubber hand illusion it is not. Anyone who sees a
+fake hand brushed in time with their own can guess which statements the
+experimenter expects them to endorse, and when. So a difference between
+illusion and control statements, or between synchronous and asynchronous
+brushing, is what suggestion alone would produce. Such differences
+therefore cannot show that something beyond suggestion is at work. The
+paper's own octopus-tentacle example (p. 6) makes the logic plain: an
+expectancy-driven difference "should therefore occur even if response to
+both statements is entirely driven by demand characteristics".
+
+## Assumptions
+
+- **Stated expectancy stands in for the demand on an actual participant.**
+  Orne's quasi-control logic (Orne 1969): people given the information a
+  participant has can say what they would be led to expect. The
+  participants here read a text and watched a 62-second video, and were
+  not stimulated (pp. 9–10).
+- **An expectancy rating is the same kind of thing as an agreement
+  rating.** The scale runs from "+3. I am certain I will feel some effect"
+  to "−3. I am certain I won't feel any effect" (Table 1, p. 12). Its
+  points are compared with agreement scores after induction only by
+  pattern, not on a common scale.
+- **The participants resemble RHI participants.** They were psychology
+  undergraduates who took part online for course credit; people who had
+  heard of the procedure were kept in, on the reasoning that typical RHI
+  participants are such undergraduates (p. 14).
+- **Fixed order.** Expectancies were taken statement by statement,
+  synchronous then asynchronous (pp. 10–11). A reviewer pointed out that
+  this may cause order effects. The author kept it because about 80% of
+  RHI studies use a fixed order (p. 11).
+- **Background theory, not tested here.** "Phenomenological control" is
+  the trait ability to meet expectancies by top-down control of
+  experience that is felt as involuntary. It is taken from the then
+  preprint of Lush et al. (cited as 2019; the Nature Communications paper
+  of 2020 filed alongside), and from Dienes et al. (pp. 3–4, 7–8). The
+  experiment tests a consequence of that theory, that the controls must
+  be flawed; it does not test the theory.
+
+## Key results
+
+- **Sample (p. 9).** Data were recorded from 32 people. The pre-registered
+  exclusions removed 12: six spent under ten seconds on the information
+  page, and six had taken part in a similar procedure. Bayes factors were
+  computed at n = 20 and all passed the pre-registered stopping threshold
+  (above 6 or below 1/6), so collection stopped. The final sample was 20
+  (17 female, mean age 20.8, SD 6.0).
+- **Illusion against control, synchronous (p. 15).** Illusion expectancy
+  had M = 1.7 (SD 0.9) and control expectancy M = 0.0 (SD 1.3), with
+  t(19) = 6.24, p < .001, Cohen's d = 1.40, B_H(0,1) = 3.93 × 10⁷. The
+  manuscript prints "t(1,19)".
+- **Synchronous against asynchronous, illusion statements (p. 15).** The
+  asynchronous mean was 0.4 (SD 1.3), with t(19) = 4.68, p < .001,
+  d = 1.05, B_H(0,1) = 1.14 × 10⁴. Bayes factors used a half-normal prior
+  scaled to the one-point synchronous–asynchronous expectancy difference
+  in Lush et al. (p. 13).
+- **The shape (Fig. 1, p. 16; Fig. 2, p. 17).** Only the synchronous
+  illusion mean has a 95% interval wholly above zero. On the rendered
+  figure the synchronous control mean sits at about zero with an interval
+  spanning it. The asynchronous control mean sits at about −0.7, with an
+  interval wholly below zero. By statement (Fig. 2), synchronous S1 is the
+  highest at about 2.1, and S2 and S3 are about 1.4–1.5. C1–C3 are slightly
+  above zero under synchrony and C4–C6 below it, and every control
+  statement is lower under asynchrony. The author calls the pattern
+  "characteristic of agreement scores following illusion induction", with
+  reference to Botvinick & Cohen's Fig. 1 (p. 15). The comparison is
+  visual; no published agreement data are entered into an analysis.
+- **Participants new to the illusion (exploratory, pp. 17–18).** Nine had
+  never heard of it. Illusion against control under synchrony was 1.9
+  against −0.1, t(8) = 6.90, d = 2.30. Synchronous against asynchronous
+  illusion expectancy was 1.9 against 0.7, t(8) = 5.05, d = 1.68.
+  "Participants who reported having no previous knowledge of the RHI
+  expected the classic RHI pattern of results."
+- **Would real participants notice the conditions? (p. 23).** At a
+  reviewer's suggestion, seven people were asked after an actual RHI
+  procedure to describe the difference between conditions. "All seven
+  participants were able to identify this difference."
+- **The prior evidence it builds on (p. 7).** The author reports, from
+  the Lush et al. preprint (n = 353), a slope of 0.57 scale points of
+  illusion agreement per SWASH point. Synchronous expectancy predicted
+  synchronous report with a slope of 0.33. Synchronous drift rose 0.53 cm
+  per SWASH point. For the ownership statement alone the slope was 0.76,
+  with intercept −0.50. These are reported, not re-analysed here; the
+  sibling reading of Lush et al. 2020 is where they are checked.
+- **What is concluded (p. 19; p. 23).** "RHI control methods are not fit
+  for purpose and cannot provide evidence that the RHI is not a suggestion
+  effect." And, explicitly: "These results do not provide evidence that
+  the RHI is a suggestion effect, but rather that existing claims to the
+  contrary are invalid."
+- **Implicit measures (pp. 22–23).** First, "it is not clear why
+  proprioceptive drift is considered resistant to demand
+  characteristics". It resembles the hypnotic "magnetic hands" item, and
+  "to my knowledge the demand characteristics have never been tested".
+  Claims that skin conductance cannot be voluntarily controlled are
+  "assertions not backed by reference to evidence". Second, implicit
+  measures are taken to reflect ownership only because they correlate
+  with report: "Without valid subjective reports of ownership experience,
+  proprioceptive drift is a measure of confusion about where one's hand
+  is". Suggestion is also said to affect fMRI measures and histamine
+  reactivity, citing Lush et al.
+- **The proposed control (pp. 19–20).** Match illusion and control
+  statements on expectancy and on suggestion difficulty. Difficulty is to
+  be assessed by response to direct suggestion in participants matched on
+  trait phenomenological control, "in a task closely matched to the
+  illusion induction procedure, but for which posited mechanisms (e.g.,
+  multimodal synchrony) can be ruled out". Inferences of no difference
+  should use Bayes factors. "Higher scores for illusion than control
+  statements matched on both expectancies and of suggestion difficulty
+  would provide compelling evidence of an illusion not attributable to
+  suggestion."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Expectancies for the RHI illusion statements exceed those for the control statements under synchrony | strong for this sample | pre-registered; n = 20; d = 1.40; B ≈ 4 × 10⁷; p. 15 |
+| C2 | Expectancies for the illusion statements are higher under synchronous than asynchronous brushing | strong for this sample | pre-registered; d = 1.05; replicates the one-point difference in Lush et al.; p. 15 |
+| C3 | People with no prior knowledge of the RHI show the same expectancy pattern | moderate | exploratory; n = 9; d = 2.30 and 1.68; pp. 17–18 |
+| C4 | The standard RHI controls (control statements, asynchronous brushing) therefore do not control for demand characteristics | strong as an inference from C1–C2, given that stated expectancy reflects demand | pp. 19, 23; the inference is valid if the quasi-control assumption holds |
+| C5 | The RHI may be partly or wholly a suggestion effect | weak as a finding; it is offered as a possibility the controls cannot exclude | the author's own wording; no illusion was measured |
+| C6 | Proprioceptive drift and skin conductance are open to the same confound | weak | argued, with citations on suggestion and electrodermal activity; no data on drift here |
+| C7 | Matching both expectancy and suggestion difficulty would give a valid control | proposed, untested | pp. 19–20 |
+
+## Concepts
+
+- **Demand characteristics** — "the totality of cues which convey an
+  experimental hypothesis to the subject" (Orne 1962, quoted p. 3). The
+  paper's point is that they can drive "actual experience", not only
+  compliance (Orne & Scheiber 1964, as the paper cites it, p. 3).
+- **Quasi-experiment / quasi-control** — a design in which people given
+  the information about a procedure predict their response to it (Orne
+  1969, p. 3).
+- **Phenomenological control** — "a general ability to meet expectancies
+  (e.g. arising from direct suggestion or from demand characteristics)
+  with top down control of experience in a range of contexts" (p. 4).
+  Hypnotisability is its measure within a hypnotic context.
+- **Suggestion difficulty** — the fact that suggestions with matched
+  explicit demand still differ in how many people respond to them. The
+  paper's examples are about 77% for magnetic hands and about 26% for a
+  suggested mosquito (pp. 19–20). A higher mean for an illusion statement
+  than a control statement could reflect this alone.
+
+## Connections
+
+The paper takes its method from Orne's work on demand characteristics and
+quasi-controls. It takes its hypothesis from the Lush et al. preprint
+(filed alongside as the 2020 Nature Communications paper), which found
+that hypnotisability predicts RHI report. It cites Riemer et al. (2019)
+for the observation that the control items had never been validated. It
+places the illusion beside mirror touch, vicarious pain and mesmerism.
+The comparison with mesmeric induction (pp. 23–24) is rhetorical: without
+valid controls, multisensory accounts are "on no firmer ground than the
+claims that mesmeric convulsions were induced by the manipulation of
+magnetic fluid". Among the record's sibling readings, Kalckert & Ehrsson
+(2012) and Abdulkarim & Ehrsson are cited as examples of the
+illusion-versus-control comparison and the "illusion index" (p. 5).
+Rohde, Di Luca & Ernst (2011) is cited as an example of contrasting a
+significant with a non-significant result (p. 15). Longo et al. (2008)
+is cited as a top-down theory that "may merely be referring to effects
+arising from demand characteristics" (p. 4). Roseboom & Lush 2022 builds
+on this paper.
+
+## Bearing on the record
+
+- **[THEORY-tmpef8lf](../theory.d/THEORY-tmpef8lf.md) (Proposed), the synchrony effect.** Its
+  `promote_when` asks for a replication "that controls for suggestion: a
+  design in which participants' expectations of the synchronous and
+  asynchronous conditions are measured or matched, or in which trait
+  suggestibility is measured and the synchrony effect survives it".
+  - **Does it meet the test?** No. Expectations are measured, but in a
+    separate group who were never stimulated, and no questionnaire or
+    drift was taken after induction. Nothing here says whether the
+    synchrony effect survives once expectations are matched.
+  - **Does it trigger the refutation?** No. It does not show that
+    synchronous and asynchronous brushing stop differing when
+    expectations are matched, and it has no drift data.
+  - **What it does show.** The synchronous–asynchronous difference that
+    the THEORY reports (7% against 42%; Fig. 1's illusion items) is a
+    difference that expectation alone predicts, in the same direction.
+    So the 1998 control does not do the work the THEORY's "What was
+    actually shown" section credits it with: "seeing a hand brushed
+    beside one's own, at any timing, could have produced the same
+    reports". Expectation can produce a timing-dependent report. The
+    THEORY's own "What this does not say" already names this gap, and
+    this paper confirms that it is real.
+  - **Proposed change (proposal only).** The status stays Proposed. The
+    `promote_when` could be sharpened in two ways. First, require
+    expectancy to be measured in the stimulated participants themselves,
+    or matched across conditions, with a Bayes factor for any claim of
+    no difference. Second, add the author's second condition: illusion
+    and control statements matched on suggestion difficulty. The
+    refutation clause on drift might also note that drift's own demand
+    characteristics are untested.
+- **[THEORY-tmpxdoe8](../theory.d/THEORY-tmpxdoe8.md) (Proposed), graded common-cause ownership.**
+  - **Neither meets nor refutes.** Its `promote_when` asks for parametric
+    variation of the reliability or correlation of input, with ownership
+    and drift predicted in held-out conditions.
+  - **The risk for that design.** This paper shows that expectancy
+    follows the manipulation people can see, so graded manipulations may
+    well produce graded expectations. A causal-inference model that fits
+    graded ratings would then fit graded demand as well. That reading is
+    mine; the paper concerns only the two-level synchrony contrast.
+  - **The second leg.** The paper notes that suggestion can change
+    histamine reactivity (p. 22). That weakens further the
+    physiological signs the THEORY already treats as only interpreted.
+  - **Proposed change (proposal only).** The held-out test should
+    measure or match expectancy in each condition.
+- **[THEORY-tmpom3z2](../theory.d/THEORY-tmpom3z2.md) (Proposed), interoceptive signals.**
+  - **Nothing direct.** The paper does not discuss interoception or the
+    cardio-visual studies.
+  - **By extension, mine.** The cardio-visual paradigm also rests on a
+    synchronous–asynchronous contrast, so it faces the same question.
+    Unlike brushing, though, cardiac synchrony is not something
+    participants can be assumed to see; whether they can is an
+    empirical question the THEORY's sources would need to answer. The
+    THEORY's proposed non-bodily periodic control would not by itself
+    match expectations.
+- **[THEORY-tmpuehzc](../theory.d/THEORY-tmpuehzc.md) (Proposed), minimal selfhood as whole-body
+  identification.** The author extends the conclusion to "the full body
+  illusion, enfacement etc" (p. 19), because they use the same controls.
+  - **The full-body evidence.** Lenggenhager et al. 2007 ([LIT-tmpwaa0j](../literature.d/LIT-tmpwaa0j.md)),
+    on which the THEORY leans, used the same questionnaire and
+    synchronous–asynchronous logic. So its self-identification ratings
+    are open to the same confound. Its drift measure is too, on this
+    paper's argument about implicit measures.
+  - **The first half of the promotion test.** A study that finds
+    whole-body self-location unchanged during the rubber hand illusion
+    would also need an expectancy check. Participants would not expect
+    the whole body to move, so a null could reflect demand as much as
+    mechanism. That point is mine.
+  - **Neither meets nor refutes.**
+- **[THEORY-458](../theory.d/THEORY-458.md) (Proposed) and [LIT-1009](../literature.d/LIT-1009.md).** The record has used the rubber
+  hand as ownership without agency. That use rests on the ownership
+  reports this paper says are uncontrolled for suggestion. The
+  ownership–agency dissociation in Kalckert & Ehrsson 2012, filed
+  alongside, uses the illusion-against-control comparison the paper
+  criticises. The THEORY's comparator half is untouched.
+- **[QUESTION-048](../questions.d/QUESTION-048.md).** This is a direct case of the question.
+  - **Report.** Report-based evidence for an experience is uninterpretable
+    when the report can be produced by expectation. The paper also
+    allows, following its theory, that the expected experience may be
+    genuinely had.
+  - **Implicit measures.** These gain their meaning only through their
+    correlation with report, and inherit its problem (pp. 22–23).
+  - **The limit.** The paper does not show that the report is not of an
+    experience. It shows that the experience, if had, may not be caused
+    by the multisensory mechanism.
+- **[NOTE-372](NOTE-372.md), C6, and [THEORY-064](../theory.d/THEORY-064.md).** C6 says body ownership "can be
+  manipulated by multisensory conflict". This paper removes the
+  warrant for the words "by multisensory conflict" without showing
+  them false. Ownership reports can be manipulated by the procedure; the
+  procedure's multisensory part has not been separated from its
+  suggestive part.
+- **[NOTE-tmpt0l4z](NOTE-tmpt0l4z.md)'s limitation.** That reading flagged that the 1998
+  questionnaire makes "the intended answer guessable". This is the test
+  of that worry, and it comes out as feared.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- **Twenty participants, one online sample.** The participants were
+  undergraduates, and 17 of the 20 were female. The large effects make
+  the result unlikely to be noise, but the sample says little about
+  other populations.
+- **The comparison with published data is by eye.** No published
+  agreement data were entered into a test. The claim that expectancies
+  "differ similarly to published illusion reports" is a match of
+  direction and pattern, not of magnitude.
+- **Expectation is not demand on a stimulated participant.**
+  Participants read an explicit description of the two conditions. A
+  real participant has to work out what the conditions are. The
+  reviewer-suggested check (seven of seven could tell the conditions
+  apart afterwards) speaks to this. It is small, reported only in a
+  supplement not read here, and it asks people afterwards, not during.
+- **Fixed order.** Each statement's synchronous and asynchronous ratings
+  were taken in adjacent pairs. That may push people to differentiate the
+  conditions. The author defends it as common RHI practice; it remains a
+  possible inflation of C2.
+- **Reporting slips.** "t(1,19)" is printed for a one-sample or paired t.
+  The control statements are labelled "C1-C9" and "S4-9" in places,
+  though there are six. The sentence on which intervals span zero
+  (p. 15) is ambiguous about which asynchronous score it means; on the
+  figure the asynchronous illusion interval spans zero and the
+  asynchronous control interval does not. None changes the result.
+- **No illusion, drift or physiological measure was taken.** The claims
+  about drift and skin conductance are argued from the literature.
+- **The background theory is the author's.** The paper is written within
+  the phenomenological-control framework of its author's group. The
+  experiment's conclusion (C4) does not depend on that framework. The
+  suggestion that the RHI is "entirely" suggestion (p. 7) does.
+
+## Open questions
+
+- Does the synchrony effect on the ownership statement survive in
+  participants whose expectations for the two conditions are measured and
+  found equal, or are matched by design? This is exactly [THEORY-tmpef8lf](../theory.d/THEORY-tmpef8lf.md)'s
+  `promote_when`, and this paper does not answer it.
+- What are the demand characteristics of proprioceptive drift? The paper
+  says they were untested; the sibling literature (Lush, Seth & Dienes,
+  cited in Roseboom & Lush 2022) takes it up.
+- Can suggestion difficulty be measured independently of the illusion, as
+  the proposed control requires, in a task matched to the induction but
+  with the multisensory mechanism ruled out? No such task is given.
+- Do participants' expectancies in a cardio-visual or other paradigm,
+  where synchrony is hard to perceive, show the same pattern?
