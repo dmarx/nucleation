@@ -46,7 +46,7 @@ history:
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added: the wider claim this entry's narrowing
-    dropped is now filed as THEORY-tmprdkd2, Proposed, which extends
+    dropped is now filed as THEORY-789, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - natural-sciences
@@ -70,10 +70,10 @@ summary: >-
 supports:
 - CLAIM-152
 extended_by:
-- THEORY-tmprdkd2
+- THEORY-789
 ---
 
-<!-- inactive-ok-file: THEORY-tmprdkd2 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
+<!-- inactive-ok-file: THEORY-789 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: THEORY-036 THEORY-017 QUESTION-025 — Proposed or open; cited as accounts this one bears on and the question it does not answer -->
 
 # THEORY-194: On Monte Carlo samples of the 2D Ising model and of the 2D dimer model with added noise spins, a block coarse-graining trained to maximize mutual information with the system beyond a buffer recovered the variables renormalization already uses (Kadanoff block spins; the dimers' low-momentum electric fields, with no weight on the noise), and iterated on 128 × 128 Ising samples gave the flow away from the critical point, locating it to about 1% and giving ν ≈ 1.0 ± 0.15, while a restricted Boltzmann machine trained by contrastive divergence on the noisy dimer data coupled to the noise and to columnar patterns instead
@@ -182,5 +182,5 @@ with it but do not test it apart from the choice of environment.
 
 The promotion audit narrowed this entry to what was shown. Under
 [ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, that the mutual-information criterion finds the renormalization-group-relevant variables in general, where they are not known beforehand. The record's gloss, that which variables a compression keeps is set by what it must stay informative about, is already carried by [CLAIM-152](../claims.d/CLAIM-152.md), which grounds on this entry, is now filed as
-[THEORY-tmprdkd2](THEORY-tmprdkd2.md), Proposed, which extends this entry and takes it as
+[THEORY-789](THEORY-789.md), Proposed, which extends this entry and takes it as
 evidence. This entry's title and status are unchanged.

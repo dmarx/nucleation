@@ -1,4 +1,5 @@
 ---
+number: 788
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmpnkoyu
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: 'Replication outside the protocol of LIT-618, read in the record. That protocol had balanced classes, no augmentation, dropout removed, one run per learning rate and the best run shown. Measurements of NC1 and NC2 through the terminal phase under augmentation, label noise and several seeds per cell would promote this, and of NC1 under class imbalance. NC2 is predicted for balanced classes only: under imbalance the geometry to test is that of THEORY-286, not equiangularity. So would a held paper that derives collapse as the limit of gradient descent on cross-entropy, which would turn the measured regularity into an account. No held paper meets that yet: LIT-974 derives collapse for MSE under a re-whitened flow, and LIT-994 gives an endpoint, not a gradient-descent derivation. The claim is refuted if standard training run well past zero error leaves within-class variability of last-layer features flat, or, with balanced classes, leaves the centred class means far from equiangular. Further runs under the original protocol cannot settle it. Nor can the theorems, which assume the collapsed end state.'
 
-# The claim. Repeat it as the body's `# THEORY-tmpnkoyu:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-788:` heading; the lint checks
 # that the two agree.
 title: 'Training a deep classifier past zero training error generally collapses its last-layer features onto their class means, drives the centred means toward a simplex equiangular tight frame aligned with the classifier, and makes the decision nearest class mean, as Papyan, Han and Donoho propose from their runs'
 
@@ -61,7 +64,7 @@ answers:
 
 <!-- inactive-ok-file: THEORY-286 — Proposed; the imbalanced-class geometry this claim defers to, cited as open -->
 
-# THEORY-tmpnkoyu: Training a deep classifier past zero training error generally collapses its last-layer features onto their class means, drives the centred means toward a simplex equiangular tight frame aligned with the classifier, and makes the decision nearest class mean, as Papyan, Han and Donoho propose from their runs
+# THEORY-788: Training a deep classifier past zero training error generally collapses its last-layer features onto their class means, drives the centred means toward a simplex equiangular tight frame aligned with the classifier, and makes the decision nearest class mean, as Papyan, Han and Donoho propose from their runs
 
 ## Source
 

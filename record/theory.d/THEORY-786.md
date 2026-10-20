@@ -1,4 +1,5 @@
 ---
+number: 786
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmp83501
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: "A result that separates the number of examples a deep network needs from the counting of the grammar, by moving the input–label correlations while n_c, m and L stay fixed: for instance, non-uniform production probabilities that make some tuples' class statistics detectable earlier than others, with the training-set sizes at which each level becomes synonym-invariant, and at which test error falls, tracking the predicted detection thresholds rather than n_c m^L. Or a proof that gradient descent on a deep network learns the Random Hierarchy Model from a number of examples of order n_c m^L, polynomial in the input dimension. Further collapses of learning curves on n_c m^L at other parameter values cannot settle it, because the threshold and the grammar's size are the same number there."
 
-# The claim. Repeat it as the body's `# THEORY-tmp83501:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-786:` heading; the lint checks
 # that the two agree.
 title: 'Deep networks learn hierarchically generated data from a number of examples set by when the correlations between input patches and the class rise above sampling noise, so detecting those correlations is how they learn the grammar, as Cagnetta and coauthors propose'
 
@@ -59,7 +62,7 @@ answers:
 
 <!-- inactive-ok-file: THEORY-201 — Proposed; the companion mechanism for next-token prediction, cited as open -->
 
-# THEORY-tmp83501: Deep networks learn hierarchically generated data from a number of examples set by when the correlations between input patches and the class rise above sampling noise, so detecting those correlations is how they learn the grammar, as Cagnetta and coauthors propose
+# THEORY-786: Deep networks learn hierarchically generated data from a number of examples set by when the correlations between input patches and the class rise above sampling noise, so detecting those correlations is how they learn the grammar, as Cagnetta and coauthors propose
 
 ## Source
 

@@ -1,4 +1,5 @@
 ---
+number: 787
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmpfb136
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: "A test of whether the macro advantage depends on the uniform intervention distribution that LIT-1038 imposes separately at each level. The account is promoted by a result showing that, on systems not built to display emergence, the EI-optimal coarse-graining stays the same, or stays macro, when the interventions follow the system's own stationary distribution or another distribution fixed in advance, and that it agrees with an independent interventionist test of which level the effects track (realization insensitivity under changes of realizer). It is in trouble if the macro advantage disappears whenever the same intervention distribution over micro states is used at both levels, since then the gain measures the change of distribution, not a property of the system. What cannot settle it: more hand-built toy systems with positive CE, which show only that the arithmetic works; or applications that estimate a TPM and report the best of many coarse-grainings with no correction for the search."
 
-# The claim. Repeat it as the body's `# THEORY-tmpfb136:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-787:` heading; the lint checks
 # that the two agree.
 title: "A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information"
 
@@ -58,7 +61,7 @@ answers:
 ---
 
 
-# THEORY-tmpfb136: A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
+# THEORY-787: A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information
 
 ## Source
 

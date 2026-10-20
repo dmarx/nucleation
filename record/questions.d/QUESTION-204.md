@@ -21,7 +21,7 @@ summary: >-
   intervention distribution, and whether the EI peak marks where
   causation happens, is open.
 answered_by:
-- THEORY-tmpfb136
+- THEORY-787
 ---
 
 # QUESTION-204: Does a macro description's effective-information advantage survive when the same intervention distribution over micro states is used at both levels, and does the EI-optimal level agree with an independent interventionist test of which level the effects track?

@@ -26,7 +26,7 @@ history:
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added: the wider claim this entry's narrowing
-    dropped is now filed as THEORY-tmpfb136, Proposed, which extends
+    dropped is now filed as THEORY-787, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - causality
@@ -50,10 +50,10 @@ summary: >-
 answers:
 - QUESTION-093
 extended_by:
-- THEORY-tmpfb136
+- THEORY-787
 ---
 
-<!-- inactive-ok-file: THEORY-tmpfb136 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
+<!-- inactive-ok-file: THEORY-787 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: THEORY-497 — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; compared, nothing here rests on them -->
 
@@ -169,5 +169,5 @@ again at the macro level, which weights d at 1/2 instead of 1/4.
 
 The promotion audit narrowed this entry to what was shown. Under
 [ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, that causation itself, not only effective information, can be most effective at a macro scale, is now filed as
-[THEORY-tmpfb136](THEORY-tmpfb136.md), Proposed, which extends this entry and takes it as
+[THEORY-787](THEORY-787.md), Proposed, which extends this entry and takes it as
 evidence. This entry's title and status are unchanged.

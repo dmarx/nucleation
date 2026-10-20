@@ -1,4 +1,5 @@
 ---
+number: 785
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmp6lphc
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: 'Listener judgements in reference or signalling games whose alternative utterances and costs are manipulated while the uttered form is held fixed, predicted in advance by the inverted-informative-speaker model with its parameters set before the data are seen, and shown to beat a literal listener with the same prior and a likelihood-only model on unaggregated, trial-level data. A high correlation of condition means with a parameter-free model, which is what exists, cannot settle it.'
 
-# The claim. Repeat it as the body's `# THEORY-tmp6lphc:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-785:` heading; the lint checks
 # that the two agree.
 title: 'Listeners interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could have said, as the rational speech act account of Frank, Goodman and coauthors proposes'
 
@@ -61,7 +64,7 @@ answers:
 ---
 
 
-# THEORY-tmp6lphc: Listeners interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could have said, as the rational speech act account of Frank, Goodman and coauthors proposes
+# THEORY-785: Listeners interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could have said, as the rational speech act account of Frank, Goodman and coauthors proposes
 
 ## Source
 

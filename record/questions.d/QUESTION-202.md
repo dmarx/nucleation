@@ -20,7 +20,7 @@ summary: >-
   Whether collapse holds outside that protocol, and why training reaches
   it, is open.
 answered_by:
-- THEORY-tmpnkoyu
+- THEORY-788
 ---
 
 # QUESTION-202: Does neural collapse hold outside its first protocol, under augmentation, label noise, class imbalance and several seeds per setting, and does gradient descent on cross-entropy provably reach it?

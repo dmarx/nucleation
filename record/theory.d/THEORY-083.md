@@ -22,7 +22,7 @@ history:
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added: the wider claim this entry's narrowing
-    dropped is now filed as THEORY-tmpnkoyu, Proposed, which extends
+    dropped is now filed as THEORY-788, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - representation-learning
@@ -54,10 +54,10 @@ summary: >-
 answers:
 - QUESTION-051
 extended_by:
-- THEORY-tmpnkoyu
+- THEORY-788
 ---
 
-<!-- inactive-ok-file: THEORY-tmpnkoyu — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
+<!-- inactive-ok-file: THEORY-788 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: QUESTION-080 — Proposed or Open; a symmetry account of collapse and the question it bears on, open -->
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-286 — Proposed; derivations in free-features models, cited for the limits they set on this account, not leaned on -->
@@ -182,5 +182,5 @@ training reaches it, is [QUESTION-202](../questions.d/QUESTION-202.md).
 
 The promotion audit narrowed this entry to what was shown. Under
 [ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, neural collapse as a general law of training past zero error, beyond Papyan, Han and Donoho's protocol, is now filed as
-[THEORY-tmpnkoyu](THEORY-tmpnkoyu.md), Proposed, which extends this entry and takes it as
+[THEORY-788](THEORY-788.md), Proposed, which extends this entry and takes it as
 evidence. This entry's title and status are unchanged.

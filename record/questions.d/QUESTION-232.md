@@ -19,7 +19,7 @@ summary: >-
   short-ranged effective Hamiltonian is proved only for 1D and quasi-1D
   chains.
 answered_by:
-- THEORY-tmprdkd2
+- THEORY-789
 ---
 
 # QUESTION-232: Does the coarse-graining that maximizes mutual information with the system beyond a buffer find the renormalization-group variables of a system where they were not known beforehand, and does it give short-ranged effective Hamiltonians in two or more dimensions?

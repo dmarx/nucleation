@@ -30,7 +30,7 @@ history:
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added: the wider claim this entry's narrowing
-    dropped is now filed as THEORY-tmp6lphc, Proposed, which extends
+    dropped is now filed as THEORY-785, Proposed, which extends
     this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - pragmatics
@@ -63,10 +63,10 @@ supports:
 - CLAIM-214
 - CLAIM-242
 extended_by:
-- THEORY-tmp6lphc
+- THEORY-785
 ---
 
-<!-- inactive-ok-file: THEORY-tmp6lphc — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
+<!-- inactive-ok-file: THEORY-785 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 # THEORY-172: In Frank and Goodman's one-shot reference games, listeners' mean bets matched a parameter-free listener inverting a speaker who chooses among true utterances by informativeness, with a separately measured salience prior, and not salience alone; and in Bergen, Goodman and Levy's signalling games with novel symbols, listeners read a signal as excluding what the available alternative would have conveyed
 
 ## Source
@@ -155,5 +155,5 @@ follow the alternatives by a simpler route, is [QUESTION-209](../questions.d/QUE
 
 The promotion audit narrowed this entry to what was shown. Under
 [ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, that listeners interpret utterances by inverting an informative speaker, as the mechanism and not only a fit to mean bets, is now filed as
-[THEORY-tmp6lphc](THEORY-tmp6lphc.md), Proposed, which extends this entry and takes it as
+[THEORY-785](THEORY-785.md), Proposed, which extends this entry and takes it as
 evidence. This entry's title and status are unchanged.

@@ -1,4 +1,5 @@
 ---
+number: 789
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmprdkd2
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: 'A system whose relevant variables were not known beforehand, in two or more dimensions, where the coarse-graining that maximizes mutual information with the environment beyond a buffer is computed, iterated, and gives critical exponents that agree with an independent method (high-precision Monte Carlo, series or conformal bootstrap) within stated errors, while a coarse-graining fitted to the data distribution on the same samples does not. Or a proof, for a class of local Hamiltonians in two or more dimensions, that the maximizer yields an effective Hamiltonian whose couplings decay with distance. More rediscoveries of block spins or of other variables already known cannot settle it, because the account was shown on exactly those.'
 
-# The claim. Repeat it as the body's `# THEORY-tmprdkd2:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-789:` heading; the lint checks
 # that the two agree.
 title: 'The block coarse-graining that maximizes mutual information with the system beyond a buffer picks out the renormalization-group-relevant variables in general, so those variables can be found from samples by information alone, without being known beforehand, as Koch-Janusz and Ringel propose'
 
@@ -58,7 +61,7 @@ answers:
 ---
 
 
-# THEORY-tmprdkd2: The block coarse-graining that maximizes mutual information with the system beyond a buffer picks out the renormalization-group-relevant variables in general, so those variables can be found from samples by information alone, without being known beforehand, as Koch-Janusz and Ringel propose
+# THEORY-789: The block coarse-graining that maximizes mutual information with the system beyond a buffer picks out the renormalization-group-relevant variables in general, so those variables can be found from samples by information alone, without being known beforehand, as Koch-Janusz and Ringel propose
 
 ## Source
 
