@@ -37,7 +37,6 @@ summary: >-
   extension to computable distributions costs O(log n).
 ---
 <!-- inactive-ok-file: THEORY-277 THEORY-036 THEORY-087 CLAIM-188 — Proposed; the theory filed from this reading and the entries it bears on, open -->
-<!-- inactive-ok-file: THEORY-244 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-787: Vereshchagin & Vitányi — Kolmogorov's structure functions and model selection
 
