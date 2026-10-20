@@ -1,0 +1,324 @@
+---
+status: Read
+paper: LIT-tmpreyek
+title: 'Lessig — Remix: Making Art and Commerce Thrive in the Hybrid Economy'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Read in full from Bloomsbury Academic's CC BY-NC edition (archive.org
+    item LawrenceLessigRemix, 352 pp., Penguin Press pagination), text
+    extracted with pdftotext with a marker at each page end. The book was
+    read in three parts by three sub-agents of this session, each told to
+    read every line of its part: front matter to p. 116; pp. 117–224;
+    pp. 225–318 with the Acknowledgments and Notes. Each consulted the
+    endnotes for its chapters. This NOTE was composed from their reports
+    and spot-checked against the text. Every quotation here was checked
+    against the extracted text by script. The Index (pp. 319–328) was not
+    read. The p. 110 chart survives extraction only as axis labels.
+date: '2026-10-20'
+summary: >-
+  Remix is quotation in media, and its meaning comes from the reference,
+  so it needs the original. Copyright regulates copies, every digital use
+  is a copy, so the law that once left amateurs alone now reaches every
+  ordinary use and makes read/write culture presumptively illegal.
+  Commercial and sharing economies are kept apart by whether money is a
+  proper term; hybrids join them and survive only while the line holds.
+  The legal reforms and the economics are argued, not measured.
+---
+
+# NOTE-tmptp3k0: Lessig — Remix: Making Art and Commerce Thrive in the Hybrid Economy
+
+## Contribution
+
+It names two cultures by how their works are used: Read/Only culture,
+"made to be consumed", and Read/Write culture, "made to be remade"
+(p. 116). It argues that digital tools revive RW culture at the moment
+digital copying brings it under copyright for the first time. It adds
+an account of the economies that could sustain it (commercial, sharing,
+hybrid) and five legal reforms. It closes Lessig's run of books on
+copyright (*Code*, *The Future of Ideas*, *Free Culture*). The
+Acknowledgments say his focus is moving elsewhere (p. 295). The Preface
+states the motive: the copyright war is criminalizing a generation, and
+"Criminalizing an entire generation is too high a price to pay for
+almost any end." (p. xviii).
+
+## Key insight
+
+The law did not decide to regulate amateurs; two architectures collided.
+Since 1909 copyright has regulated "copies", and digital technology makes
+a copy at every use. So reading, playing and quoting, which in print
+triggered nothing, now each need a licence or a fair-use defence: "By
+default, RW use violates copyright law. RW culture is thus presumptively
+illegal." (p. 100). Remix is caught hardest, because it cannot avoid the
+copy. Its meaning "comes from the reference, which is expressible only if
+it is the original that gets used." (p. 74).
+
+## Assumptions
+
+- **US law, 2008.** The legal argument is about the US Copyright Act,
+  with *Sony*, *Grokster*, *Bridgeport v. Dimension* and the 1909 and
+  1976 revisions. Ch. 9 n. 12 concedes that international obligations
+  limit the reforms.
+- **The RAM-copy reading of "copy".** "To read a book requires
+  permission" (p. 100) holds only if a transient copy in memory is a
+  copy in law. Lessig cites Litman for it and hedges with "technically"
+  and "subject to 'fair use'", but argues from the strong form.
+- **RO and RW differ by degree.** "RW creativity would become less
+  significant; RO culture, more." (p. 29). No one feared amateur
+  creativity would vanish. The legal argument of ch. 5 nonetheless
+  treats them as separate kinds of use.
+- **Money changes a relation.** The sharing economy is defined by money
+  being the one inappropriate term (p. 118). His "only claim" about it is
+  Benkler's crowding-out proposition, cited through Benkler to Frey and
+  qualified at once: "Often, not always" (p. 150).
+- **Sources.** Much of chs. 6–8 rests on Lessig's own interviews with
+  founders and executives. The figures come largely from press,
+  industry and Wikipedia sources.
+
+## Key results
+
+The book's results are arguments, not theorems or measurements. Listed
+in the order the book makes them.
+
+- **The two cultures (ch. 1).** RW culture is one where people "add to
+  the culture they read by creating and re-creating the culture around
+  them" (p. 28); "Culture in this world is flat; it is shared person to
+  person." (p. 28). RO is "more comfortable (think: couch) with simple
+  consumption." (p. 28). Sousa's 1906 testimony is the witness both that
+  recording would make us "just consumers of culture, not also
+  producers" (p. 25) and that copyright should not reach singing
+  together (pp. 31–33).
+- **RO extended (ch. 3).** Analog copying was limited by economics more
+  than law. Digital copying changes that: "What before was both
+  impossible and illegal is now just illegal." (p. 38). Jobs's iTunes
+  showed that digital technology has no fixed nature (p. 40). Lessig
+  predicts free, ad-supported access over policing (pp. 47–49), and says
+  "That choice is a false choice." of protecting RO by outlawing RW
+  (p. 50).
+- **Remix is quotation (ch. 4).** A friend's essays built from quotations:
+  "Were it music, we’d call it sampling. Were it painting, it would be
+  called collage." (p. 51). With text, "the cite is always sufficient
+  payment" (p. 52). Quoting a film clip is the same act: "The act is the
+  same; only the source is different." (p. 53). Media remix quotes in
+  layers (sound over image), and "Sounds are being used like paint on a
+  palette. But all the paint has been scratched off of other paintings."
+  (p. 70).
+- **Why the original (pp. 74–76).** The reference carries the meaning, so
+  only the original will do. Victor Stone: four notes of the Beatles'
+  "Revolution" mean something. *The Mashin' of the Christ* could not be
+  made by shooting another crucifixion film. The summary: "remix is
+  collage; it comes from combining elements of RO culture; it succeeds by
+  leveraging the meaning created by the reference to build something
+  new." (p. 76).
+- **What remix is good for (pp. 76–82).** Community, with anime music
+  videos and Mimi Ito's contrast between Japanese and US children's
+  media. Education, as "interest-based learning". Only the technique is
+  new: "All that’s new is the technique and the ease with which the
+  product of that technique can be shared." (p. 82). What held remix back
+  was cost, and "Digital technologies have now removed that economic
+  censor." (p. 83).
+- **The cultures compared (ch. 5).** RW work "is offered as a draft. It
+  invites a response." (p. 85). On quality Lessig concedes the first
+  objection outright: "The vast majority of remix, like the vast majority
+  of home movies, or consumer photographs, or singing in the shower, or
+  blogs, is just crap." (p. 92). Even if culture were declining, "Subsidies
+  are one thing. Prohibition is something radically different." (p. 97).
+- **The copy trigger (pp. 97–103).** From 1790 to 1909 the law regulated
+  printing, publishing and vending. The 1909 revision generalized "copy",
+  which before had reached statues and not books. Patterson calls it
+  probably a drafting error (ch. 9 n. 10). Its reach then grew with copying
+  technology. With digital tools, "For the first time, the law regulates
+  ordinary citizens generally." (p. 103).
+- **The case against the war (pp. 109–114).** The file-sharing war has
+  failed, by the BigChampagne user counts. The remix case is "a thousand
+  times stronger", because it is a matter of literacy (p. 114). The burden
+  goes to the regulator: "We need to decriminalize creativity before we
+  further criminalize a generation of our kids." (p. 114).
+- **Three economies (ch. 6).** An economy is a practice of exchange
+  sustained through time (p. 117). Following Benkler, a commercial economy
+  is one where price is a term of the ordinary exchange. In a sharing
+  economy money is the one inappropriate term: "Money in the sharing
+  economy is not just inappropriate; it is poisonous." (p. 119). The
+  internet's commercial successes rest on Long Tails, "Little Brother"
+  (data gathered as a by-product of use, after Bricklin) and LEGO-ized
+  innovation (pp. 128–141). Wikipedia is the paradigm sharing economy
+  (pp. 156–162). Sharing economies can be thin, with me-regarding
+  motives, or thick, with motives at least ambiguous between me and thee
+  (p. 152).
+- **Hybrids (ch. 7).** "The hybrid is either a commercial entity that aims
+  to leverage value from a sharing economy, or it is a sharing economy
+  that builds a commercial entity to better support its sharing aims."
+  (p. 177). It lasts only while the two economies stay distinct (pp.
+  177–178). Free software and Red Hat are the paradigm. The catalogue
+  runs from community spaces (craigslist, Flickr, YouTube) through
+  collaboration spaces (Slashdot, Yahoo! Answers, Wikia, Warner's Harry
+  Potter fan sites, *Lost*) to communities (Second Life). "No one builds
+  hybrids on community sacrifice." (p. 224).
+- **Economy lessons (ch. 8).** Lessig opens by saying "We've not yet seen
+  enough to say anything conclusive" (p. 225). Parallel economies are
+  possible. Licences signal which economy a creator works for. Hybrids
+  will grow because revealing information pays (after von Hippel and
+  Baumol). Perceptions of fairness will mediate. "Sharecropping" terms
+  that take all rights in contest remixes will lose. Lessig's research
+  assistant surveyed some 25 remix-contest sites in April 2007: in 28%
+  the remixer kept no rights (p. 244).
+- **Reforming law (ch. 9).** "Copyright law must be changed. Changed, not
+  abolished." (p. 253). There are five changes:
+  1. Exempt amateur remix from clearance: free use, not fair use. A 2×2
+     of professional and amateur against copies and remix leaves only
+     professional copies fully controlled (pp. 254–256).
+  2. Require registration after an initial term, about 14 years in "one
+     proposal", or the work becomes free or cheap to use (pp. 260–265).
+  3. Simplify, with uses that copyright does not reach listed in the
+     statute (pp. 266–268).
+  4. Regulate uses, such as public distribution, not the copy (pp.
+     268–271).
+  5. Decriminalize file sharing by a levy (Netanel, Fisher) or a
+     voluntary blanket licence (EFF) (pp. 271–272).
+- **Reforming us (ch. 10).** Lessig wants the norms of text, where you
+  answer a bad opinion rather than sue, to govern culture generally (pp.
+  274–276). Creative Commons does voluntarily four of the five reforms
+  (pp. 277–279). His own *Code* was "an apology for regulation"; now
+  regulation has limits, and past a point more of it reduces control
+  (pp. 280–282). The Conclusion blames the war on campaign money (p.
+  294).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Because copyright regulates copies and digital use always copies, the law now reaches ordinary, amateur uses it never reached in print | moderate | statutory history 1790–1909–1976 (Reese, Patterson); rests on the RAM-copy reading, which Lessig hedges |
+| C2 | Remix's meaning depends on the reference, so it needs the original rather than a re-creation | moderate | argument from examples (Stone, Negativland, *Mashin' of the Christ*) and interviews |
+| C3 | RW creativity does not compete with or weaken the market for what it remixes | weak | asserted (p. 56); the burden is put on regulators (p. 114) |
+| C4 | The twentieth century was the first in which popular culture was professionalized | moderate | phonograph, piano-roll and record figures (ch. 1, mostly secondary sources) |
+| C5 | In a sharing economy money is inappropriate and can crowd out the activity | weak to moderate | Benkler and Frey at second hand; Hyde; anecdote; "Often, not always" |
+| C6 | Hybrids last only while the commercial and the sharing are kept distinct in participants' eyes | weak | founders' interviews; Lessig says how "cannot be answered in the abstract" (p. 178) |
+| C7 | The war on file sharing has neither stopped sharing nor paid artists | moderate | BigChampagne user counts, RIAA sales figures; the effect of piracy on sales is contested in n. 15 |
+| C8 | Perceived unjust copyright law weakens young people's respect for law generally | weak | anecdote and one essay in the text; the evidence in ch. 10 n. 8 (Nadler, Tyler), graded there by Lessig himself |
+| C9 | Free amateur remix, registration after a term and the other reforms would not "threaten one dime" of existing markets | weak | asserted (p. 253); no analysis |
+
+## Concepts
+
+- **RO (Read/Only) culture.** Culture made to be consumed, carried by
+  "tokens" (recordings fixed and sold), dominant in the twentieth
+  century.
+- **RW (Read/Write) culture.** Culture made to be remade, where readers
+  also create, with the tools professionals use. From the file permission
+  of the same name (p. 28 footnote).
+- **Remix.** Collage of elements of RO culture that works through the
+  meaning of the reference. In ch. 9, "Remix" is transformative work, and
+  "Copies" are efforts to make the original more accessible without
+  changing it (p. 255).
+- **Commercial economy.** One where money is a normal term of exchange.
+- **Sharing economy.** One where money is not a term of exchange, though
+  participants may be paid elsewhere and may act for themselves. **Thin**
+  where motives are me-regarding, **thick** where they are at least
+  ambiguous between me and thee.
+- **Hybrid.** A commercial entity that leverages a sharing economy, or a
+  sharing economy that builds a commercial entity.
+- **Little Brother.** A system that learns what its users want from the
+  data they give off while using it, after Bricklin's "Cornucopia of the
+  Commons".
+- **Sharecropping.** Hybrid terms that take all rights in contributors'
+  work, as in the Lucasfilm and Sony contest rules (pp. 243–248).
+- **Free use.** As against fair use: uses outside copyright's scope
+  altogether, proposed for amateur remix (p. 255).
+
+## Connections
+
+The book builds on Benkler (*Wealth of Networks*, "Sharing Nicely") for
+the economies, von Hippel for democratized innovation and free revealing,
+Hyde's *The Gift* for gift exchange, and Litman, Patterson and Reese for
+the history of "copy". It takes the Potter Wars and the split between
+"prohibitionist" and "collaborationist" companies from Jenkins's
+*Convergence Culture* ([LIT-1121](../literature.d/LIT-1121.md); ch. 7, ch. 10 nn. 3–4), with
+interviews of the participants. Tapscott and Williams's *Wikinomics*
+supplies many of the platform cases. It does not cite Titmuss or
+Zelizer, the standard sources for crowding out and for the social
+meaning of money, and cites Mauss only through Hyde.
+
+## Bearing on the record
+
+- **[CASE-100](../cases.d/CASE-100.md) (the Juggernaut redub).** The book has the frame the case
+  needs and not its question. On Lessig's terms the redub is RW remix of
+  an RO token, circulated in a sharing economy and taken up by a
+  commercial one. The film used the line rather than the redub, so no
+  copy of the fans' work was involved. His nearest case is Warner and the
+  Harry Potter fan sites (pp. 205–212). There the studio dealt with fans
+  as a party, by cease-and-desist letters and then a negotiated line. It
+  does not ask what produced the outcome.
+- **[CLAIM-332](../claims.d/CLAIM-332.md) (distributed cultural uptake).** Lessig's unit is an
+  economy: a practice of exchange sustained by its participants' motives
+  and norms. He never asks whether a population of remixers acts or has
+  effects as a population. So the book neither supports nor bears against
+  [CLAIM-332](../claims.d/CLAIM-332.md), but it does supply its mechanism's terms: making, selecting
+  and passing on, in a sharing economy, with uptake by a hybrid.
+- **[QUESTION-002](../questions.d/QUESTION-002.md) and [CLAIM-002](../claims.d/CLAIM-002.md) (what survives a retelling).** This is the
+  sharpest point of contact. [CLAIM-002](../claims.d/CLAIM-002.md) says a retelling's identity is a
+  family of relations: identity of the artifact, continuity of
+  transmission and similarity of function. Lessig's argument about why
+  remix needs the original (pp. 74–76) says that for remix the first
+  relation is what does the work. A remix means what it means because the
+  audience recognizes the very artifact, and a re-creation with the same
+  content would lose that. That is the reverse of translation, where
+  re-expression is the point. The record could ask whether recognizability
+  of the artifact is a preservation target in its own right, next to
+  [QUESTION-023](../questions.d/QUESTION-023.md)'s opacity of insider vocabulary.
+- **[CLAIM-034](../claims.d/CLAIM-034.md) (fidelity among other goals).** Political remix (Söderberg's
+  Bush/Blair "Endless Love", pp. 73–74) is a rendering whose goal is
+  critique or parody, which [CLAIM-034](../claims.d/CLAIM-034.md) lists beside fidelity.
+- **Unread neighbours.** It relies on Jenkins ([LIT-1121](../literature.d/LIT-1121.md)) for its Potter
+  Wars material, so a reading of [LIT-1121](../literature.d/LIT-1121.md) would check that. Jenkins, Ford
+  and Green's *Spreadable Media* ([LIT-1143](../literature.d/LIT-1143.md)) argues the circulation side
+  that Lessig treats as a sharing economy.
+- No instruction for machine-learning practice, and not held by the
+  anthology.
+
+## Limitations
+
+- **The economic core is not shown.** That remix does not compete with
+  its sources (p. 56) and harms no one (p. 114) is asserted, and the
+  burden is put on regulators. Crowding out carries the hybrid argument
+  but is cited at second hand and qualified as "Often, not always" (p. 150).
+- **The evidence for the economies is a convenience sample.** The hybrids
+  are successes, told by their founders in Lessig's own interviews. Of
+  the six economy lessons he says nothing is conclusive. The contest-site
+  survey (about 25 sites) is unpublished.
+- **The category lines move.** The sharing economy is first defined by
+  money being inappropriate (p. 118), later by terms "not centered on
+  cash" (p. 172). Thin cases such as the stock market and Skype stretch it
+  to by-products of commerce. Ch. 9 equates amateur with noncommercial,
+  then calls the Grey Album, distributed noncommercially, professional.
+- **The reforms are sketches.** No rates, administration or definition of
+  amateur are given for the levy or the exemption. That they would not "threaten one dime"
+  of existing markets (p. 253) is not analysed. The claim that Creative Commons enables four of the five
+  overlooks that NoDerivatives licences forbid remix and that a licence
+  cannot remove the statutory copy trigger.
+- **The effect on youth rests on anecdote** in the text: the RIAA
+  lawsuits, hundreds of conversations and one teenager's essay. The
+  careful evidence, and Lessig's own grading of it, is in ch. 10 n. 8.
+- **Small inconsistencies.** RO is dated from recording technology
+  (p. 116) but credited to Gutenberg (p. 36). The "250 percent increase"
+  in copyright litigation (p. 39) does not match ch. 3 n. 11's own table
+  (2,056 to 5,488 district-court filings, 2000–2006, an increase of about
+  167%). Britney Spears "draws on nothing" (p. 95) sits badly with the
+  thesis that all art builds on earlier art (pp. 8, 107).
+- **Dated predictions:** open access to everything written within ten
+  years (p. 67), the remix debate over in ten or twenty (p. 97), "Every
+  interesting Internet business will be a hybrid" (p. 116).
+
+## Open questions
+
+- Does remix substitute for its sources or complement them? An empirical
+  answer would settle C3, which the book leaves on the burden of proof.
+- Under what conditions does adding money crowd out a sharing economy,
+  and when does it not? Lessig names the question for hybrids (p. 178) and
+  does not answer it.
+- Where should the line between amateur and professional fall in law, if
+  not at commerciality?
+- For the record: is recognizability of the source artifact a property a
+  rendering can be required to preserve, and how would it be measured,
+  given that the translation line's measures ([CLAIM-220](../claims.d/CLAIM-220.md), [CLAIM-210](../claims.d/CLAIM-210.md)) are
+  about communicative distinctions rather than tokens?
