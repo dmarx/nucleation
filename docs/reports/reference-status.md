@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**490 documents cited without acknowledgement.** Not listed: 9913 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**487 documents cited without acknowledgement.** Not listed: 9917 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -867,7 +867,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
-17 citations in 7 files await a look; 104 other citations of it are acknowledged.
+17 citations in 7 files await a look; 105 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:20`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-101.md:56`](../../record/cases.d/CASE-101.md)
@@ -2770,17 +2770,6 @@ Coifman et al. — Diffusion maps
 - [`record/literature.d/LIT-981.md:22`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:61`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:81`](../../record/literature.d/LIT-981.md)
-
-### [NOTE-981](../../record/notes.d/NOTE-981.md) — Skimmed
-
-Charvin, Catenacci Volpi and Polani — Exact and soft successive refinement of the IB
-
-4 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:7`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:46`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:55`](../../record/literature.d/LIT-1258.md)
 
 ### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
 
@@ -4764,24 +4753,6 @@ Asserting is undertaking a commitment that entitles others to reassert it and ca
 - [`record/claims.d/CLAIM-115.md:123`](../../record/claims.d/CLAIM-115.md)
 - [`record/claims.d/CLAIM-363.md:100`](../../record/claims.d/CLAIM-363.md)
 
-### [THEORY-753](../../record/theory.d/THEORY-753.md) — Proposed
-
-x
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:55`](../../record/literature.d/LIT-1258.md)
-
-### [THEORY-757](../../record/theory.d/THEORY-757.md) — Proposed
-
-y
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:56`](../../record/literature.d/LIT-1258.md)
-
 ### [CLAIM-017](../../record/claims.d/CLAIM-017.md) — Superseded
 
 What survives translation is the invariants, and approximately preserved relations, of communicative transformation
@@ -5802,7 +5773,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 8 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 4 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)
@@ -5831,7 +5802,7 @@ None. Every scanned file is checked. ✅
 
 - record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now
 - record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
-- record/claims.d/CLAIM-387.md:34: annotation no longer applies — THEORY-163 is Active now
+- record/claims.d/CLAIM-387.md:36: annotation no longer applies — THEORY-163 is Active now
 - record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
 - record/literature.d/LIT-1257.md:50: annotation no longer applies — THEORY-202 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
@@ -5845,9 +5816,8 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/notes.d/NOTE-970.md:41: annotation no longer applies — nothing in scope cites LIT-1252
 - record/notes.d/NOTE-973.md:37: annotation no longer applies — nothing in scope cites THEORY-747
-- record/notes.d/NOTE-981.md:47: annotation no longer applies — nothing in scope cites LIT-000
 - record/notes.d/NOTE-984.md:44: annotation no longer applies — nothing in scope cites THEORY-744
-- record/questions.d/QUESTION-220.md:30: annotation no longer applies — THEORY-163 is Active now
+- record/questions.d/QUESTION-220.md:33: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now
