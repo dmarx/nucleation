@@ -4,7 +4,7 @@
 
 **ethics**.
 
-67 of 1012 NOTE documents. Back to the [full index](../README.md).
+68 of 1026 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -75,3 +75,4 @@
 | [NOTE-859](../../../record/notes.d/NOTE-859.md) | Fricker — Powerlessness and Social Interpretation | Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation. It is systematic when the marginalisation is persistent and wide-ranging, and incidental when it is one-off and local, which can happen to a socially powerful subject. A gap with no marginalisation behind it is bad luck. The primary harm is situated hermeneutical inequality. Secondary harms include lost epistemic confidence and the social construction of identity. | Read |
 | [NOTE-860](../../../record/notes.d/NOTE-860.md) | Fricker — Epistemic Injustice and a Role for Virtue in the Politics of Knowing | A hearer takes testimony critically but without inference, through a socially trained testimonial sensibility. Because that sensibility runs on stereotypes of credibility, it can carry prejudice, and then a speaker receives the wrong degree of credibility through the hearer's unintended prejudice: testimonial injustice. The corrective virtue, reflexive critical openness, is available only where the critical concepts of the time allow it. | Read |
 | [NOTE-862](../../../record/notes.d/NOTE-862.md) | Caruso — Skepticism About Moral Responsibility (SEP) | The SEP survey of free will skepticism. It defines basic-desert responsibility in Pereboom's words and states hard incompatibilism: compatibilism falls to the manipulation argument, event-causal libertarianism to luck, and agent-causal libertarianism to physics. It quotes Pereboom's Case 2, gives the four-case argument's structure, and says why soft-line replies are fragile. It also reports Levy's argument that historical compatibilism cannot let agents take responsibility for their constitutive luck. | Read |
+| [NOTE-1014](../../../record/notes.d/NOTE-1014.md) | Boyle — The Line: AI and the Future of Personhood | A law professor's essay on the line between persons and things, run across four cases: AI, corporations, nonhuman animals and transgenic entities. Personhood is pressed on two tracks, empathy-driven moral reasoning and efficiency-driven legal engineering, and the corporate history shows the second track working without a theory. Boyle predicts some intermediate legal status for AI, argues that capacity-based criteria cannot escape a species-bound standpoint, and ends on a hybrid of species membership as of right plus capacity. It argues and predicts; it does not measure. | Read |

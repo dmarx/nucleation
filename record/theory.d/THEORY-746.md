@@ -37,6 +37,8 @@ summary: >-
   It is about the training signal and a fixed function space. It says
   nothing about test data, about a generative model, about invariance as
   opposed to slowness, or about learning dynamics.
+supports:
+- CLAIM-394
 ---
 <!-- inactive-ok-file: CLAIM-331 THEORY-186 — Proposed; claims and accounts this bears on, nothing here rests on their being settled -->
 

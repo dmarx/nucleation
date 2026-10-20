@@ -24,6 +24,7 @@ answered_by:
 - THEORY-752
 - THEORY-760
 - THEORY-762
+- THEORY-773
 ---
 <!-- inactive-ok-file: LIT-1245 LIT-1251 LIT-1253 LIT-1259 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -91,6 +92,14 @@ representation-invariant measure of emergence."
 - Germano ([LIT-1251](../literature.d/LIT-1251.md), Unavailable) supplies a related distinction: a
   hierarchy of filtered descriptions can exist with no closed equation at
   any level.
+- When the eliminated variable is fast and contracting, no augmentation
+  is needed: the memoryless quasi-steady-state reduction predicts to O(ε)
+  uniformly in time, with explicit constants, provided the reduced system
+  is itself contracting (Del Vecchio and Slotine, [THEORY-773](../theory.d/THEORY-773.md); the
+  paper's Theorem 3 omits that hypothesis and is false without it). On
+  A5's example with c = κd the memory kernel tends to a delta and the
+  Markovian error is O(1/d), checked at d = 5 to 500. Deterministic only;
+  open for slow or noisy eliminated variables.
 
 ## What would count as an answer
 

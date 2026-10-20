@@ -4,7 +4,7 @@
 
 **contextuality**.
 
-46 of 1012 NOTE documents. Back to the [full index](../README.md).
+46 of 1026 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

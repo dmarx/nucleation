@@ -6,6 +6,10 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [20 Oct 07:23 — Three entries from the property-and-expression readings: two cases and an objection to CLAIM-174](2026-10.md#three-entries-from-the-property-and-expression-readings-two-cases-and-an-objection-to-claim-174)
+- [20 Oct 06:48 — Ten works in conversation with Remix, on property and expression: seven read, three Unavailable](2026-10.md#ten-works-in-conversation-with-remix-on-property-and-expression-seven-read-three-unavailable)
+- [20 Oct 06:30 — THEORY-458 and THEORY-531 revised from the rubber-hand and x-phi readings](2026-10.md#theory-458-and-theory-531-revised-from-the-rubber-hand-and-x-phi-readings)
+- [20 Oct 01:56 — Lessig's Remix filed and read; the two Jenkins books searched and marked Unavailable](2026-10.md#lessigs-remix-filed-and-read-the-two-jenkins-books-searched-and-marked-unavailable)
 - [20 Oct 01:49 — Six more: philosophers' experiments on the rubber hand and self-location, and folk-concept x-phi on the self and pain](2026-10.md#six-more-philosophers-experiments-on-the-rubber-hand-and-self-location-and-folk-concept-x-phi-on-the-self-and-pain)
 - [20 Oct 01:05 — First readings of the coarse-to-fine program: six works read, copies sought for nine, three Unavailable, and what the readings gave the record](2026-10.md#first-readings-of-the-coarse-to-fine-program-six-works-read-copies-sought-for-nine-three-unavailable-and-what-the-readings-gave-the-record)
 - [20 Oct 00:59 — Nine experimental works on the rubber hand illusion, and the THEORY they correct](2026-10.md#nine-experimental-works-on-the-rubber-hand-illusion-and-the-theory-they-correct)
@@ -112,9 +116,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-150 entries across 2 books, newest first.
+154 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 103 | 2026-10-01 | 2026-10-20 |
+| [2026-10](2026-10.md) | 107 | 2026-10-01 | 2026-10-20 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

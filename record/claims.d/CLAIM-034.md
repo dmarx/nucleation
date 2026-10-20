@@ -24,6 +24,7 @@ complements:
 - CLAIM-147
 illustrated_by:
 - CASE-038
+- CASE-122
 supports:
 - CLAIM-189
 ---

@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-16'
@@ -26,6 +26,10 @@ history:
   date: '2026-10-20'
   note: >-
     The note of 2026-10-20 gains a third point, from the reading of slow feature analysis (NOTE-971): hierarchies built to be slow are slower by construction and are not evidence for the claim. The claim is unchanged.
+- version: 6
+  date: '2026-10-20'
+  note: >-
+    The third point of the note of 2026-10-20 adds that probabilistic slow feature analysis assumes slowness in its prior (NOTE-1015). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,6 +67,7 @@ complements:
 supports:
 - CLAIM-344
 ---
+<!-- inactive-ok-file: NOTE-1015 — new reading, cited for what it assumes -->
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -192,4 +197,7 @@ names. Neither defeats it.
   only weakly. On test data the slowness curves across layers cross. The
   slowest outputs include location, which is not an invariant, and nothing
   reads them back, as in [CASE-116](../cases.d/CASE-116.md) arm A. Hierarchies optimized for slowness
-  should not be cited as cases of this claim.
+  should not be cited as cases of this claim. The probabilistic readings
+  of slow feature analysis put slowness in the prior: a random walk in
+  Schüler and Wiskott ([NOTE-1015](../notes.d/NOTE-1015.md)), an ordered decay in Turner and
+  Sahani as that paper reports it. So they are not evidence either.

@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpeh0fp
 paper: 'LIT-1254'
 title: 'Raju, Machta and Sethna — Information loss under coarse graining'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -23,6 +23,13 @@ history:
     the drift's information under a non-Gaussian kernel, and the decimated
     1D Ising chain were checked by short scripts in the reader's
     scratchpad.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Machta et al. (2013) is now read (LIT-1299, NOTE-1018). The
+    λ = d/2 dividing line is credited to its supplement, and the
+    description of its diffusion numerics is corrected. The reading is
+    unchanged.
 date: '2026-10-20'
 summary: >-
   For a Boltzmann distribution linear in its couplings, the Fisher
@@ -179,7 +186,8 @@ by the Jacobian ∂θ̃/∂θ.
 
 It builds on the sloppy-models programme (Transtrum, Machta and Sethna
 2011; Transtrum et al. 2015) and directly on Machta et al. (2013, Science),
-whose numerics on decimated Ising models and time-blurred diffusion it
+whose numerics on decimated Ising models, and densities of a hopping
+model observed at a later time with fixed Gaussian error, it
 sets out to explain. It corrects Maity, Mahapatra and Sarkar (2015). They
 derived the metric by assuming distances are preserved under flow along
 the beta functions, which the present authors say captures only the
@@ -268,8 +276,9 @@ companion visualization paper is Quinn et al. (2017, arXiv:1709.02000).
   the line: the diffusion drift (λ = 1/2 = d/2) and the 2D Ising field
   (15/8 > 1) and temperature (1 = d/2, logarithmic). Even the marginal
   variance in diffusion contracts. So "relevant ⇔ preserved" holds for
-  the examples given, not in general. This is the reader's algebra on
-  Eqs. 20–21.
+  the examples given, not in general. This paper does not state it;
+  Machta et al. (2013, [LIT-1299](../literature.d/LIT-1299.md)) did, in their supplement (Eq. 31
+  and the text after Eq. 41), and this paper dropped it.
 - **The drift is exactly preserved only at the Gaussian fixed point.** The
   explanation, "the mean drift is given by the two endpoints, unchanged
   under coarse-graining", holds only when the endpoints are sufficient,

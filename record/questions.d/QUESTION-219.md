@@ -24,8 +24,10 @@ answered_by:
 - THEORY-748
 - THEORY-750
 - THEORY-763
+- THEORY-776
+- THEORY-772
 ---
-<!-- inactive-ok-file: NOTE-974 THEORY-763 — Skimmed or Proposed; the negative half of Onsager, cited as open -->
+<!-- inactive-ok-file: NOTE-974 THEORY-763 THEORY-776 NOTE-1022 THEORY-772 — Skimmed or Proposed; the negative half of Onsager, cited as open -->
 <!-- inactive-ok-file: LIT-1239 LIT-1243 LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-273 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-219: Can a persistent pattern of transfer through a system, kept while its constituents are replaced, pick out a unit that neither a block test nor a closed collective mode finds, and what separates such organized throughput from mere transport?
@@ -98,5 +100,20 @@ Through [THEORY-749](../theory.d/THEORY-749.md)'s energy balance, it gives [THEO
 (Proposed): the flux across vanishing scales survives the limit, but in
 both directions, since the solutions gain energy and then lose it. They are
 not admissible, so this is not a one-way dissipative cascade. The
-admissible version (Buckmaster, De Lellis, Székelyhidi and Vicol 2019) is
-not held.
+admissible version, Buckmaster, De Lellis, Székelyhidi and Vicol (2019,
+[LIT-1300](../literature.d/LIT-1300.md)), read in [NOTE-1013](../notes.d/NOTE-1013.md), gives [THEORY-776](../theory.d/THEORY-776.md) (Proposed):
+below 1/3 the energy can follow any strictly decreasing profile, so the
+flux into vanishing scales is one-way on every time interval. It is
+one-way for the whole box only, since no local energy inequality is
+proved, and its direction is chosen with the profile, not forced by the
+equations: an increasing profile is built the same way. The dissipation
+rate is a free input, which tells against the flux's picking out a unit.
+The transfer is now local as well, in another class: Giri, Kwon and
+Novack ([LIT-1289](../literature.d/LIT-1289.md), skimmed in [NOTE-1022](../notes.d/NOTE-1022.md)) give [THEORY-772](../theory.d/THEORY-772.md)
+(Proposed): below 1/3, in L³-based Besov spaces rather than Hölder ones,
+solutions whose Duchon–Robert measure is a prescribed smooth nonnegative
+density. In the limit of vanishing scale, the flux is then one-way at
+every place and time, though no sign is shown at any finite scale. Where
+and how fast the energy goes are inputs here too: a periodic array of
+pipes, decaying exponentially. That tells further against the flux's
+picking out a unit.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp99aof
 title: 'A weak solution of the incompressible Euler equations on the periodic box that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves kinetic energy, because the energy flux into scales below a mollification scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does not show that rougher solutions dissipate'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-20'
@@ -22,6 +22,12 @@ history:
   date: '2026-10-20'
   note: >-
     Connections gain the negative half, THEORY-763 (Isett). The account is unchanged.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The summary no longer calls Isett's solutions dissipative or says the
+    negative half is unread: it cites THEORY-763 for non-conservation and
+    THEORY-776 for strictly decreasing energy. The account is unchanged.
 tags:
 - mathematics
 - natural-sciences
@@ -35,11 +41,12 @@ summary: >-
   time, the coarse-grained energy flux across scale ε is O(ε^(3α−1)) and
   no energy can be lost to vanishing scales. It is a statement about
   regular fields only. It does not show that a flux survives the limit for
-  rougher ones: that dissipative solutions exist below 1/3 is a later
-  theorem (Isett 2018 and others), which the record has not read, and some
-  rough solutions conserve energy anyway.
+  rougher ones: that energy can fail to be conserved below 1/3 is Isett's
+  later theorem ([THEORY-763](THEORY-763.md)), that it can strictly decrease is Buckmaster,
+  De Lellis, Székelyhidi and Vicol's (THEORY-776), both Proposed,
+  and some rough solutions conserve energy anyway.
 ---
-<!-- inactive-ok-file: THEORY-763 — Proposed; the negative half, cited as open -->
+<!-- inactive-ok-file: THEORY-763 THEORY-776 — Proposed; the negative half, cited as open -->
 <!-- inactive-ok-file: LIT-1252 — Unavailable; Eyink 2005, cited for where finer versions of the same estimate are proved, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion named for context, nothing here rests on it -->
 # THEORY-749: A weak solution of the incompressible Euler equations on the periodic box that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves kinetic energy, because the energy flux into scales below a mollification scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does not show that rougher solutions dissipate

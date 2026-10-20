@@ -73,6 +73,7 @@ illustrated_by:
 - CASE-044
 objected_by:
 - CLAIM-194
+- CLAIM-393
 supports:
 - CLAIM-367
 ---
