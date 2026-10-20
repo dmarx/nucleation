@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**486 documents cited without acknowledgement.** Not listed: 10103 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**485 documents cited without acknowledgement.** Not listed: 10101 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2547,7 +2547,7 @@ If pretraining text is a mixture of hidden Markov models indexed by a latent con
 
 The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
 
-5 citations in 1 file await a look.
+5 citations in 1 file await a look; 1 other citation of it is acknowledged.
 
 - [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
@@ -2772,8 +2772,8 @@ Kothapalli — Neural Collapse: A Review on Modelling Principles and Generalizat
 
 - [`record/literature.d/LIT-978.md:6`](../../record/literature.d/LIT-978.md)
 - [`record/literature.d/LIT-978.md:22`](../../record/literature.d/LIT-978.md)
-- [`record/literature.d/LIT-978.md:68`](../../record/literature.d/LIT-978.md)
-- [`record/literature.d/LIT-978.md:94`](../../record/literature.d/LIT-978.md)
+- [`record/literature.d/LIT-978.md:67`](../../record/literature.d/LIT-978.md)
+- [`record/literature.d/LIT-978.md:93`](../../record/literature.d/LIT-978.md)
 
 ### [NOTE-784](../../record/notes.d/NOTE-784.md) — Skimmed
 
@@ -4367,7 +4367,7 @@ Perceptual consciousness overflows cognitive access: in partial-report tasks mor
 
 Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls
 
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
+2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:58`](../../record/questions.d/QUESTION-051.md)
@@ -4606,15 +4606,6 @@ Database cracking, which partitions a copy of a column in place as a side effect
 - [`record/theory.d/THEORY-332.md:100`](../../record/theory.d/THEORY-332.md)
 - [`record/theory.d/THEORY-344.md:99`](../../record/theory.d/THEORY-344.md)
 
-### [THEORY-334](../../record/theory.d/THEORY-334.md) — Proposed
-
-In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics
-
-2 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-346.md:103`](../../record/theory.d/THEORY-346.md)
-- [`record/theory.d/THEORY-360.md:117`](../../record/theory.d/THEORY-360.md)
-
 ### [THEORY-339](../../record/theory.d/THEORY-339.md) — Proposed
 
 People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result
@@ -4648,7 +4639,7 @@ Tetris players rotate pieces more often and earlier than planning a placement an
 
 2 citations in 2 files await a look.
 
-- [`record/theory.d/THEORY-334.md:112`](../../record/theory.d/THEORY-334.md)
+- [`record/theory.d/THEORY-334.md:117`](../../record/theory.d/THEORY-334.md)
 - [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
 
 ### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
@@ -5828,7 +5819,7 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now
-- record/theory.d/THEORY-201.md:42: annotation no longer applies — QUESTION-025 is Active now
+- record/theory.d/THEORY-201.md:56: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-202.md:45: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-213.md:42: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now

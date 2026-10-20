@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-54 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+55 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -74,6 +74,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-724](../record/theory.d/THEORY-724.md) — For a linear system du/dt = A(t)u, non-normality is necessary for time dependence to destabilize an operator that is uniformly stable at every instant, and a non-normal operator neutral at every instant can be asymptotically unstable under switching *(Active)*
   - [THEORY-325](../record/theory.d/THEORY-325.md) — Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator *(Proposed)*
+
+## compositionality
+
+### From In the Random Hierarchy Model with v symbols per level, m rules per symbol and s-tuples, the covariance between two tokens whose lowest common ancestor is ℓ levels up has zero mean over grammars and root-mean-square size about ((1 − m/v^(s−1))/(v³ m^(2ℓ−1)))^(1/2), falling by a factor m per level, while its estimate from P sequences carries noise of about (v²P)^(−1/2), so the two meet at P_ℓ ≈ v m^(2ℓ−1)/(1 − m/v^(s−1)); all to leading order in large v and m
+
+- [THEORY-778](../record/theory.d/THEORY-778.md) — In the Random Hierarchy Model with v symbols per level, m rules per symbol and s-tuples, the covariance between two tokens whose lowest common ancestor is ℓ levels up has zero mean over grammars and root-mean-square size about ((1 − m/v^(s−1))/(v³ m^(2ℓ−1)))^(1/2), falling by a factor m per level, while its estimate from P sequences carries noise of about (v²P)^(−1/2), so the two meet at P_ℓ ≈ v m^(2ℓ−1)/(1 − m/v^(s−1)); all to leading order in large v and m *(Active)*
+  - [THEORY-201](../record/theory.d/THEORY-201.md) — In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay *(Proposed)*
 
 ## consciousness
 
@@ -260,6 +267,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-740](../record/theory.d/THEORY-740.md) — A two-layer linear network trained by gradient flow on white inputs from a decoupled, balanced start learns each singular mode of its input–output correlation in a logistic rise that waits a time of order its inverse strength times the log of the inverse initial scale, so the modes arrive one at a time in order of strength; a single-layer network on the same data learns every mode on one timescale with no plateau, so under these conditions the stages come from the product of layers and the data's spectrum *(Active)*
   - [THEORY-186](../record/theory.d/THEORY-186.md) — A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity *(Proposed)*
     - [THEORY-481](../record/theory.d/THEORY-481.md) — A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator; at finite context length the modes decouple exactly only when inputs are isotropic, and otherwise couple at order 1/N *(Proposed)*
+
+### From In the Random Hierarchy Model with v symbols per level, m rules per symbol and s-tuples, the covariance between two tokens whose lowest common ancestor is ℓ levels up has zero mean over grammars and root-mean-square size about ((1 − m/v^(s−1))/(v³ m^(2ℓ−1)))^(1/2), falling by a factor m per level, while its estimate from P sequences carries noise of about (v²P)^(−1/2), so the two meet at P_ℓ ≈ v m^(2ℓ−1)/(1 − m/v^(s−1)); all to leading order in large v and m
+
+- [THEORY-778](../record/theory.d/THEORY-778.md) — In the Random Hierarchy Model with v symbols per level, m rules per symbol and s-tuples, the covariance between two tokens whose lowest common ancestor is ℓ levels up has zero mean over grammars and root-mean-square size about ((1 − m/v^(s−1))/(v³ m^(2ℓ−1)))^(1/2), falling by a factor m per level, while its estimate from P sequences carries noise of about (v²P)^(−1/2), so the two meet at P_ℓ ≈ v m^(2ℓ−1)/(1 − m/v^(s−1)); all to leading order in large v and m *(Active)*
+  - [THEORY-201](../record/theory.d/THEORY-201.md) — In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay *(Proposed)*
 
 ### From In the unconstrained-features max-margin problem with k classes under step imbalance and feature dimension at least k − 1, the unique optimal logits are the simplex-encoded labels, every margin equals one, and the classifier and embedding Gram matrices are the two square-root factors of that matrix's singular value decomposition; the geometry is the simplex equiangular tight frame exactly when the classes are balanced or there are two of them
 

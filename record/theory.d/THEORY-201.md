@@ -26,7 +26,7 @@ history:
   note: >-
     The derived statistics of the Random Hierarchy Model (the covariance by
     depth of common ancestor, the sampling-noise floor and the thresholds
-    P_ℓ) split off into THEORY-tmpnxcxo, filed Active, by the promotion
+    P_ℓ) split off into THEORY-778, filed Active, by the promotion
     audit (batch 063, ADR-040, ADR-047 v2), on the pattern of THEORY-770.
     This THEORY keeps the learning curves, the representation probes, the
     character-level test and the argued link, extends the new one, and
@@ -51,7 +51,7 @@ summary: >-
 answers:
 - QUESTION-025
 extends:
-- THEORY-tmpnxcxo
+- THEORY-778
 ---
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-186 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
 
@@ -131,7 +131,7 @@ The promotion audit (batch 063) re-derived the first two clauses of this
 title to leading order and checked them against exact covariances of
 sampled grammars: the root-mean-square covariance by depth of common
 ancestor, the (v²P)^(−1/2) sampling floor and the thresholds P_ℓ. They are
-now [THEORY-tmpnxcxo](THEORY-tmpnxcxo.md), which this account extends. What stays here is what a
+now [THEORY-778](THEORY-778.md), which this account extends. What stays here is what a
 review could not check. The loss steps, the insensitivity to resampling a
 subtree and the character-level collapse are measured, but [NOTE-687](../notes.d/NOTE-687.md) read
 those figures from captions, axis labels and text, not plotted values, so

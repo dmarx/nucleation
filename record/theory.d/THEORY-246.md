@@ -16,7 +16,7 @@ history:
     pay in new tasks, is a general causal thesis the study measured only as
     a nine-point correlation, and leaves the title; "fine-tuning removes it"
     becomes the measured 1.3-point spread. The generality and mechanism
-    requests move unchanged to QUESTION-tmpu3u0x.
+    requests move unchanged to QUESTION-236.
 tags:
 - representation-learning
 - learning-theory
@@ -169,4 +169,4 @@ better on more separated features stays in the body: the study shows it
 in a figure and states it in words, without numbers. The former
 promote_when, which asked for another pretraining
 setting and for an intervention on within-class spread at a fixed loss,
-moves unchanged to [QUESTION-tmpu3u0x](../questions.d/QUESTION-tmpu3u0x.md).
+moves unchanged to [QUESTION-236](../questions.d/QUESTION-236.md).

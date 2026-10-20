@@ -1,10 +1,13 @@
 ---
+number: 235
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpsdkg1
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: 'When looking and holding are priced independently and timed per person, do people still prefer re-fetching information that stays in view where it costs more total time?'
@@ -29,7 +32,7 @@ refines:
 - QUESTION-095
 ---
 
-# QUESTION-tmpsdkg1: When looking and holding are priced independently and timed per person, do people still prefer re-fetching information that stays in view where it costs more total time?
+# QUESTION-235: When looking and holding are priced independently and timed per person, do people still prefer re-fetching information that stays in view where it costs more total time?
 
 ## Why it is a question
 

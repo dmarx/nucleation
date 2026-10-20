@@ -18,7 +18,7 @@ history:
     that holding costs more than re-fetching leave it; the inference, which
     THEORY-346 contests, stays in the body. The request for a powered study
     with the two costs varied independently moves unchanged to
-    QUESTION-tmpsdkg1.
+    QUESTION-235.
 tags:
 - embodied-cognition
 - cognition
@@ -137,4 +137,4 @@ prices both in time alone, and the reading Bogacz's commentary (not read in
 [NOTE-883](../notes.d/NOTE-883.md)) puts down to task unfamiliarity. The body keeps it as the
 authors' inference. The former promote_when, a powered study with the cost
 of looking and of holding varied independently and total time measured per
-person, moves unchanged to [QUESTION-tmpsdkg1](../questions.d/QUESTION-tmpsdkg1.md).
+person, moves unchanged to [QUESTION-235](../questions.d/QUESTION-235.md).

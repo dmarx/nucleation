@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**727 document(s) awaiting a decision.**
+**725 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 727.
+92 of the 725.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-403 of the 727.
+401 of the 725.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -172,12 +172,12 @@
 | 2026-10-03 | Proposed | [THEORY-065](../../record/theory.d/THEORY-065.md) | 12 | 2 | The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones |
 | 2026-10-03 | Proposed | [THEORY-076](../../record/theory.d/THEORY-076.md) | 12 | 0 | Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining |
 | 2026-10-03 | Proposed | [THEORY-091](../../record/theory.d/THEORY-091.md) | 12 | 3 | A deficit in which consciousness and a capacity are lost together does not show that the capacity is a function of phenomenal consciousness, since access is lost too and the capacity is one the machinery of access has |
+| 2026-10-03 | Proposed | [THEORY-104](../../record/theory.d/THEORY-104.md) | 12 | 2 | Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls |
 | 2026-10-03 | Proposed | [THEORY-106](../../record/theory.d/THEORY-106.md) | 12 | 2 | In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form |
 | 2026-10-03 | Proposed | [THEORY-110](../../record/theory.d/THEORY-110.md) | 12 | 3 | A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex |
 | 2026-10-03 | Proposed | [THEORY-088](../../record/theory.d/THEORY-088.md) | 11 | 4 | Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same |
 | 2026-10-03 | Proposed | [THEORY-093](../../record/theory.d/THEORY-093.md) | 11 | 2 | A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it |
 | 2026-10-03 | Proposed | [THEORY-098](../../record/theory.d/THEORY-098.md) | 11 | 2 | The neural basis of perceptual consciousness does not include the prefrontal machinery of cognitive access: it is recurrent activity in sensory cortex |
-| 2026-10-03 | Proposed | [THEORY-104](../../record/theory.d/THEORY-104.md) | 11 | 2 | Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls |
 | 2026-10-03 | Proposed | [THEORY-116](../../record/theory.d/THEORY-116.md) | 11 | 1 | A linear barrier between two minima that survives the removal of symmetries marks a difference in the input attributes the two models rely on: they compute by different mechanisms |
 | 2026-10-03 | Proposed | [THEORY-048](../../record/theory.d/THEORY-048.md) | 10 | 2 | In explaining psychiatric disorder, biological findings implement psychological functions rather than replacing them |
 | 2026-10-03 | Proposed | [THEORY-052](../../record/theory.d/THEORY-052.md) | 10 | 6 | Frustration of the needs for autonomy, competence and relatedness is a transdiagnostic process in psychopathology |
@@ -229,10 +229,10 @@
 | 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 39 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
 | 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 30 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-183](../../record/theory.d/THEORY-183.md) | 29 | 0 | When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics |
+| 2026-10-09 | Proposed | [THEORY-201](../../record/theory.d/THEORY-201.md) | 25 | 0 | In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay |
 | 2026-10-09 | Proposed | [THEORY-188](../../record/theory.d/THEORY-188.md) | 24 | 0 | In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model |
 | 2026-10-09 | Proposed | [THEORY-196](../../record/theory.d/THEORY-196.md) | 21 | 0 | A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones |
 | 2026-10-09 | Proposed | [THEORY-199](../../record/theory.d/THEORY-199.md) | 21 | 1 | In data generated by a random hierarchical grammar, the Bayes-optimal denoiser recovers the top-level class only below a threshold noise, which becomes sharp as the tree deepens and exists only when the grammar uses a small enough fraction of possible tuples (branching times that fraction below one), while low-level features degrade smoothly with noise and so survive past the threshold |
-| 2026-10-09 | Proposed | [THEORY-201](../../record/theory.d/THEORY-201.md) | 19 | 0 | In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay |
 | 2026-10-09 | Proposed | [THEORY-168](../../record/theory.d/THEORY-168.md) | 18 | 0 | In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included |
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 15 | 2 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 14 | 6 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
@@ -276,7 +276,6 @@
 | 2026-10-14 | Proposed | [THEORY-326](../../record/theory.d/THEORY-326.md) | 11 | 2 | Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group |
 | 2026-10-14 | Proposed | [THEORY-328](../../record/theory.d/THEORY-328.md) | 11 | 0 | An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible |
 | 2026-10-14 | Proposed | [THEORY-245](../../record/theory.d/THEORY-245.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three; no prefrontal site responded at stimulus offset |
-| 2026-10-14 | Proposed | [THEORY-246](../../record/theory.d/THEORY-246.md) | 10 | 0 | Training objectives that tighten the class clusters of a classifier's last layers buy accuracy on the trained classes and pay for it in new tasks: among ImageNet-trained ResNet-50s, fixed penultimate features with more class separation transfer worse to datasets with other classes, the difference lies in the last few blocks, and fine-tuning removes it |
 | 2026-10-14 | Proposed | [THEORY-250](../../record/theory.d/THEORY-250.md) | 10 | 0 | DALL-E 3 renders single familiar relations well but is not robustly compositional: human-judged agreement falls when subject and object of an asymmetric relation are reversed and when two relations are combined, and its failures on reversed prompts are mostly wrong or role-swapped relations, not missing objects |
 | 2026-10-14 | Proposed | [THEORY-285](../../record/theory.d/THEORY-285.md) | 10 | 4 | In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior |
 | 2026-10-14 | Proposed | [THEORY-296](../../record/theory.d/THEORY-296.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked |
@@ -315,7 +314,6 @@
 | 2026-10-15 | Proposed | [THEORY-375](../../record/theory.d/THEORY-375.md) | 3 | 3 | In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved |
 | 2026-10-15 | Proposed | [THEORY-376](../../record/theory.d/THEORY-376.md) | 3 | 3 | In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged |
 | 2026-10-15 | Proposed | [THEORY-333](../../record/theory.d/THEORY-333.md) | 2 | 2 | Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested |
-| 2026-10-15 | Proposed | [THEORY-334](../../record/theory.d/THEORY-334.md) | 2 | 2 | In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics |
 | 2026-10-15 | Proposed | [THEORY-339](../../record/theory.d/THEORY-339.md) | 2 | 2 | People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result |
 | 2026-10-15 | Proposed | [THEORY-342](../../record/theory.d/THEORY-342.md) | 2 | 2 | In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-search compute substitute along a straight line in log–log space, about 15× less search for each 10× more training over about two decades of training compute, down to a one-node search; the trade is measured for one search and counts no games played |
 | 2026-10-15 | Proposed | [THEORY-343](../../record/theory.d/THEORY-343.md) | 2 | 1 | In laboratory choice tasks, people offload cognition more as a task's internal demand rises, but the choice follows their evaluation of the demand rather than its benefit: they offload where it gives no gain and more when less confident at equal ability, and offloading can lower memory for what was offloaded |
@@ -363,6 +361,7 @@
 | 2026-10-16 | Proposed | [THEORY-638](../../record/theory.d/THEORY-638.md) | 6 | 0 | Instantiating a formal program is never by itself sufficient for understanding or intentionality, since a person can carry out a program for answering questions in Chinese by hand without understanding Chinese; whatever thinks does so in virtue of causal powers at least equivalent to the brain's, and the reply that the whole system understands is answered only by an asserted internalisation |
 | 2026-10-16 | Proposed | [THEORY-650](../../record/theory.d/THEORY-650.md) | 6 | 0 | Whether a self at one time is the same as a self at another has an answer only relative to a level of abstraction fixed by the purpose of asking, and asked at no such level it has none; the question with a substantive answer is what makes a self one thing at a time |
 | 2026-10-16 | Proposed | [THEORY-655](../../record/theory.d/THEORY-655.md) | 6 | 3 | Social behaviour evolves as if each individual valued a neighbour's fitness against its own by their coefficient of relationship, and its discriminations evolve to make that coefficient determinate; so kin are favoured and strangers met with hostility, relatives fight less, and haplodiploid sisters, related by 3/4, are predisposed to worker altruism |
+| 2026-10-16 | Proposed | [THEORY-673](../../record/theory.d/THEORY-673.md) | 6 | 5 | The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply |
 | 2026-10-16 | Proposed | [THEORY-690](../../record/theory.d/THEORY-690.md) | 6 | 1 | In the physical dualities examined, theoretically inequivalent duals turn out empirically inequivalent, so dualities yield no genuine in-principle underdetermination; where duals would contradict each other a cautious realist is warranted in committing only to their common core, and because the exact cases' common cores are rich rather than empty, dualities give no support to structural realism |
 | 2026-10-16 | Proposed | [THEORY-694](../../record/theory.d/THEORY-694.md) | 6 | 0 | After every function associated with consciousness is explained (discrimination, integration, report, access, attention, control), why these functions are accompanied by experience remains open, because those phenomena are defined by their functions and experience, what it is like for the subject, is not; so experience cannot be reductively explained by any mechanism, though it may be related to the physical by further laws |
 | 2026-10-16 | Proposed | [THEORY-464](../../record/theory.d/THEORY-464.md) | 5 | 0 | In the ethical questions that seem to turn on whether someone is the same person, among them prudential concern, responsibility, abortion, advance directives and the separateness of persons, the relation that decides is usually not numerical identity but one that comes apart from it, so the metaphysics of persistence constrains these questions and rarely settles them |
@@ -379,7 +378,6 @@
 | 2026-10-16 | Proposed | [THEORY-614](../../record/theory.d/THEORY-614.md) | 5 | 5 | If pretraining text is a mixture of hidden Markov models indexed by a latent concept and a model fits that distribution exactly, then a prompt of concatenated examples moves the posterior onto the prompt's concept, and the in-context predictor becomes Bayes-optimal as examples accumulate, whenever each example's evidence for the concept outweighs the cost of the improbable transitions between examples; whether trained networks learn in context this way is not shown |
 | 2026-10-16 | Proposed | [THEORY-663](../../record/theory.d/THEORY-663.md) | 5 | 4 | Altruism between non-relatives can be selected when each act costs the giver less than it benefits the recipient, the same partners meet often and symmetrically, and help is withheld from those who do not return it; in humans, moralistic aggression, gratitude, sympathy and guilt are adaptations that regulate such exchange, and selection then favours sham versions of each and the ability to detect them |
 | 2026-10-16 | Proposed | [THEORY-665](../../record/theory.d/THEORY-665.md) | 5 | 2 | Asserting is undertaking a commitment that entitles others to reassert it and carries a responsibility to show entitlement if challenged; every interlocutor keeps score of everyone's commitments and entitlements, so the score is doubly perspectival, and a speech act's significance is the change it makes to the scores, fixed by its content's inferential role |
-| 2026-10-16 | Proposed | [THEORY-673](../../record/theory.d/THEORY-673.md) | 5 | 5 | The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply |
 | 2026-10-16 | Proposed | [THEORY-432](../../record/theory.d/THEORY-432.md) | 4 | 0 | In Lévi-Straussian analysis of myth the group of transformations is not given by the material: which variants count as transforms of which, and by what operation, is cut by the analyst from a continuum, unlike transformations that develop an initial form by a rule, and the computational encodings of the method confirm this by taking the analyst's table of oppositions as input |
 | 2026-10-16 | Proposed | [THEORY-448](../../record/theory.d/THEORY-448.md) | 4 | 0 | On a substance ontology, a gestated foster that is part of the pregnant organism either is no substance, so that mammals begin at birth and the foster is not the later baby, or is part and substance at once, which leaves no consistent count; a process ontology keeps both parthood and foster–neonate identity, at the price of a count between one and two that it does not define |
 | 2026-10-16 | Proposed | [THEORY-451](../../record/theory.d/THEORY-451.md) | 4 | 0 | A singular causal claim, that C will contribute or did contribute to E in a particular setting, is warranted only by joint evidence on each step of the causal process there, its causal principle, its support factors and the absence of its derailers, which no single method supplies; a well-run RCT secures at most the study population's average effect, and often not even that rigorously, and its result is not by its method evidence about any other population |
@@ -518,7 +516,7 @@
 
 ## ADRs
 
-2 of the 727.
+2 of the 725.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -527,7 +525,7 @@
 
 ## QUESTIONs
 
-9 of the 727.
+9 of the 725.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -543,7 +541,7 @@
 
 ## CLAIMs
 
-216 of the 727.
+216 of the 725.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -766,7 +764,7 @@
 
 ## CASEs
 
-1 of the 727.
+1 of the 725.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -774,7 +772,7 @@
 
 ## TERMs
 
-2 of the 727.
+2 of the 725.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -783,7 +781,7 @@
 
 ## ARGs
 
-2 of the 727.
+2 of the 725.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
