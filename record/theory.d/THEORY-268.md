@@ -34,7 +34,7 @@ summary: >-
   not show that every system flickers, or say what a negative moment
   means.
 ---
-<!-- inactive-ok-file: CLAIM-157 CLAIM-161 THEORY-222 — Proposed; the answer, persistence test and account this bears on, open -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-161 — Proposed; the answer, persistence test and account this bears on, open -->
 
 # THEORY-268: An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment
 

@@ -31,7 +31,7 @@ summary: >-
   to "not indicative": on a theoretically equivalent reading, its
   "emergent gravity" "cannot be understood as ontological emergence".
 ---
-<!-- inactive-ok-file: THEORY-222 THEORY-690 — Proposed; named as a contrasting emergence account and as the same book's companion account, not leaned on -->
+<!-- inactive-ok-file: THEORY-690 — Proposed; named as a contrasting emergence account and as the same book's companion account, not leaned on -->
 
 # THEORY-459: Exact duality between two models is incompatible with ontological emergence of one from the other, reductive or not, because a duality is an isomorphism and ontological emergence needs a non-injective linkage whose interpretation does not commute; the two combine only when emergence runs beside the duality, as along the radial direction in AdS/CFT, through an approximate duality, or as merely epistemic emergence
 
