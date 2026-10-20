@@ -1494,3 +1494,22 @@ history note. THEORY-277 is requeued on this basis.
   and slightly optimistic at large p, because Hamming-ball overlaps vary
   more than Poisson. Its optimum (2MT)^(-1/3) still sits between the
   measured and predicted optima.
+
+## 2026-10-20 — round 047-052 tally
+
+- The score-2 band went 21 of 25 (batches 047-051), so 26 of 30 with
+  batches 039 and 045. Sorting by what the title asserts predicted every
+  outcome; the misses were an argument (THEORY-302), a reading task
+  (THEORY-188), a scaling argument (THEORY-203) and the record's own
+  algebra (THEORY-085, which goes to a demonstrated CLAIM).
+- Several titles were false as written and were corrected before
+  promotion: THEORY-030 (only the heat has no floor), THEORY-133 (missing
+  difference-making condition, "would" vs "might"), THEORY-190 (closure
+  only at large separation), THEORY-259 ("only to within" was a bound).
+- A reading task can be done inside a batch when the source is on arXiv
+  (THEORY-083): render the figure pages and read the plots.
+- A promote_when that names a simulation as sufficient can be met inside
+  the review; record the design, seeds and results (THEORY-261).
+- With ten-odd PRs touching shared inactive-ok lines, conflicts recur after
+  nearly every merge. resolve_directives handles most; a hunk where one side
+  dropped a whole directive line needs a hand merge (keep the intersection).
