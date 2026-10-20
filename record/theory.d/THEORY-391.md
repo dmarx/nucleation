@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp644mk
 title: 'Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors'' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -16,6 +16,13 @@ history:
     restates, which the record does not hold. It also says the N^(−1/2)
     exponent was fitted on the same data. The promote_when, a proof or larger
     simulations, moves unchanged to QUESTION-168.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 071, ADR-047 v4) filed
+    THEORY-tmpgv8ip, Proposed, to carry what the narrowing dropped. This
+    entry's status, title and claims are unchanged; a dated note says what
+    moved.
 tags:
 - mathematics
 - mathematical-statistics
@@ -33,8 +40,11 @@ summary: >-
   matrices sit about one transition width low at small N. The title states
   only what was measured. Whether the agreement is a limit theorem is
   QUESTION-168.
+extended_by:
+- THEORY-tmpgv8ip
 ---
 
+<!-- inactive-ok-file: THEORY-tmpgv8ip — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 # THEORY-391: Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain failure across a curve ρ(δ) that, for Gaussian matrices, the authors' earlier face-counting theorems fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data, while at finite N the location depended on the ensemble
 
 ## Source
@@ -90,3 +100,7 @@ claim. At the sizes tried, none did.
 - [QUESTION-120](../questions.d/QUESTION-120.md): the superposition thread. The transition gives the sharp location
   that a sufficiency bound like [THEORY-390](THEORY-390.md) only brackets in order.
   It is not of the question's proposed shape.
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 071) filed [THEORY-tmpgv8ip](THEORY-tmpgv8ip.md) as Proposed, extending this entry. It carries the general reading this entry's title carried before the promotion audit narrowed it: that the ℓ₁ transition is weakly universal across a broad class of random-matrix ensembles, as Donoho and Tanner hypothesise. This entry is its evidence and is not changed by the filing.

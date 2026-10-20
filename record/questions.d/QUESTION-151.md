@@ -20,6 +20,8 @@ summary: >-
   memoryless consensus and agents that do not learn. Whether a population
   that never pits the true model against the consensus still holds a
   reproducible false consensus once the consensus has memory is untested.
+answered_by:
+- THEORY-tmppuc79
 ---
 
 # QUESTION-151: Does the decoupling of reproducibility from convergence survive a consensus with memory, where a challenger must win repeatedly or evidence accumulates, and scientists can learn?
