@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 150
+version: 153
 updated: '2026-10-19'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
@@ -9,24 +9,21 @@ handoff:
   batch: null
   state: between batches
   in_review:
-  - '#265'
-  - '#266'
-  - '#268'
-  next_step: 'Round 053-057 is integrated. Open PRs: #262 (CLAIM-391 filed; THEORY-085 corrected), #263
-    (THEORY-714), #264 (THEORY-332, -362, -367), #265 (THEORY-377, -380, -419), #266 (THEORY-368), #267
-    (THEORY-188 reading: two LITs and NOTEs; stays Proposed), #268 (THEORY-580, -548, -527). Main fails
-    lint (NOTE-981, THEORY-753, THEORY-757, THEORY-202) after #246/#247 from another session, which is
-    fixing it on its branch; once main is green, merge main into each PR and merge one at a time, this
-    ledger last. After #262 merges, rename CLAIM-391 decision file to its permanent code. Next: triage-006
-    is exhausted (score-2 band 40 of 54). 316 unqueued wave-3 entries remain at formal score <= 1; a triage-007
-    that sorts titles by what they assert (theorem/measurement/argument), with a control sample, is the
-    recommended next pass. Reading tasks: THEORY-162, -167, -336, -485, -535. Wave 5: THEORY-302, -459,
-    -660, -673 and earlier requeues. Owner questions open: skimmed peer-reviewed proof as "a proof" (THEORY-188,
-    -270); report titles (THEORY-344, -351, -071, -628, -336); record-own results filed Active (CLAIM-384,
-    -385, tmp1w7aa); conditional theorems with promote_when moved to a QUESTION (THEORY-185, -133, -419,
-    -527); THEORY-110 split; THEORY-675 to the anthology; THEORY-073; CLAIM-143; THEORY-321; CLAIM-139;
-    CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160; CLAIM-322, CLAIM-251, THEORY-157,
-    THEORY-277.'
+  - '#272'
+  - '#274'
+  next_step: 'Rounds 053-059 integrated; #262-#268 and #271 merged. Open: #272 (THEORY-673 split, Price
+    equation as its own THEORY), #274 (Chalmers & McQueen reading). Merge them, then this ledger. Next:
+    triage-007 theorem_route and measurement_route in batches of five, sorting each by hand (the classifier
+    over-calls conditional-shaped arguments as theorems and some theses as measurements); its control
+    5. After #272 merges rename THEORY-tmp9jqpz in the ledger. Reading tasks THEORY-162, -336, -485 need
+    owner-supplied copies; THEORY-167 needs the scheme fold-out. Wave 5 yields only splittable formal
+    cores; requeue arguments only when promote_when, premises or rivals change. Owner questions open:
+    skimmed peer-reviewed proof as "a proof" (THEORY-188, -270); report titles (THEORY-344, -351, -071,
+    -628, -336); record-own results filed Active (CLAIM-384, -385, -391); conditional theorems with promote_when
+    moved to a QUESTION (THEORY-185, -133, -419, -527); splits of textbook or toy-model theorems (THEORY-110,
+    THEORY-673); THEORY-675 to the anthology; Propp selection point as an objection claim; THEORY-073;
+    CLAIM-143; THEORY-321; CLAIM-139; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160;
+    CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -50,7 +47,7 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 136
+  reviewed: 132
   promotion_paths: 98
 - wave: 4
   class: Dependency unlocks
@@ -58,40 +55,29 @@ waves:
   promotion_paths: 2
 - wave: 5
   class: Broad interpretive and synthesis claims
-  reviewed: 28
-  promotion_paths: 5
+  reviewed: 32
+  promotion_paths: 6
 requeue:
 - code: CLAIM-143
   when: after CLAIM-004 is decided and the owner rules on the class-relative wording
   why: 'batch-035: second clause too strong ("only after" vs a class of correspondences)'
 - code: THEORY-167
   when: after a clean copy of the tale-by-tale analyses is read
-  why: 'batch-035: narrow to the 100 tales and promote under ADR-047 v3'
+  why: 'batch-035: narrow to the 100 tales and promote under ADR-047 v3; batch 059: order claim rests
+    on 45 tales after Propp dropped five, so any v3 title must name the exclusions'
 - code: THEORY-485
-  when: after a reading task (Ney 2016/2021, Chalmers and McQueen 2022, Bikaraan-Behesht 2022) and an
-    argument for P7
+  when: when the owner supplies the closed source (batch 059 found no open copy)
   why: 'batch-041: cheapest of the wave-5 arguments to move'
 - code: THEORY-162
-  when: after a static rival account is read
+  when: when the owner supplies the closed source (batch 059 found no open copy)
   why: 'batch-046: its promote_when needs a reading of a static rival; a reading task, not a review'
 - code: THEORY-344
   when: after the owner rules on report titles
   why: 'batch-042: every clause checks; promotable at once if a title reporting a conjecture is promotable'
-- code: THEORY-302
-  when: when wave 5 resumes
-  why: 'batch-051: a universal control thesis supported only at the spinal level; review as interpretive
-    synthesis'
 - code: THEORY-203
   when: if THEORY-199 is promoted and the nu gap (1.89 vs 1.78) is explained or a second parameter set
     measured
   why: 'batch-049: scaling argument plus one figure collapse'
-- code: THEORY-673
-  when: when wave 5 resumes
-  why: 'batch-056: an argument with the Price identity attached; decide in wave 5 whether to split the
-    identity off (ADR-040)'
-- code: THEORY-459
-  when: when wave 5 resumes
-  why: 'batch-054: an argument; only the finite reductive case is proved'
 - code: THEORY-486
   when: when a refereed or revised version of arXiv:2504.08144 appears
   why: 'batch-054: Floer analysis cannot be re-derived in a review'
@@ -100,14 +86,11 @@ requeue:
   why: 'batch-057: Gugelmann et al. and Candellero & Fountoulakis read for statements; title must name
     the coefficient and zeta/alpha < 1'
 - code: THEORY-336
-  when: after a reading of Geisler (1989) or Banks, Geisler & Bennett (1987) and the report-title ruling
+  when: when the owner supplies the closed source (batch 059 found no open copy)
   why: 'batch-053: empirical clause rests on a review'
 - code: THEORY-535
   when: when the source (PhilSci-Archive, TLS-blocked here) can be read
   why: 'batch-055: reading task; needs quasi-set theory axioms'
-- code: THEORY-660
-  when: when wave 5 resumes
-  why: 'batch-055: explanatory thesis'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -1430,7 +1413,7 @@ candidates:
   triage: triage-004
   state: decided
   disposition: retain-proposed
-  batch: batch-035
+  batch: batch-059
   decision: decisions/THEORY-167.yaml
 - code: THEORY-176
   wave: 3
@@ -2214,8 +2197,10 @@ candidates:
   route: source
   control: true
   disposition: retain-proposed
-  batch: batch-041
+  batch: batch-059
   decision: decisions/THEORY-485.yaml
+  carried_out_in:
+  - '#274'
 - code: THEORY-628
   wave: 5
   score: 4
@@ -2577,7 +2562,7 @@ candidates:
   triage: batch-039
   state: decided
   disposition: retain-proposed
-  batch: batch-046
+  batch: batch-059
   decision: decisions/THEORY-162.yaml
 - code: THEORY-205
   wave: 3
@@ -2819,11 +2804,11 @@ candidates:
   carried_out_in:
   - '#248'
 - code: THEORY-302
-  wave: 3
+  wave: 5
   triage: batch-051
   state: decided
   disposition: retain-proposed
-  batch: batch-051
+  batch: batch-058
   decision: decisions/THEORY-302.yaml
 - code: CLAIM-385
   wave: 1
@@ -3020,12 +3005,14 @@ candidates:
   batch: batch-056
   decision: decisions/THEORY-671.yaml
 - code: THEORY-673
-  wave: 3
+  wave: 5
   triage: batch-056
   state: decided
-  disposition: retain-proposed
-  batch: batch-056
+  disposition: split
+  batch: batch-058
   decision: decisions/THEORY-673.yaml
+  carried_out_in:
+  - '#272'
 - code: THEORY-675
   wave: 3
   triage: batch-056
@@ -3070,11 +3057,11 @@ candidates:
   carried_out_in:
   - '#265'
 - code: THEORY-459
-  wave: 3
+  wave: 5
   triage: batch-054
   state: decided
   disposition: retain-proposed
-  batch: batch-054
+  batch: batch-058
   decision: decisions/THEORY-459.yaml
 - code: THEORY-486
   wave: 3
@@ -3097,7 +3084,7 @@ candidates:
   triage: batch-053
   state: decided
   disposition: retain-proposed
-  batch: batch-053
+  batch: batch-059
   decision: decisions/THEORY-336.yaml
 - code: THEORY-362
   wave: 3
@@ -3161,11 +3148,11 @@ candidates:
   carried_out_in:
   - '#268'
 - code: THEORY-660
-  wave: 3
+  wave: 5
   triage: batch-055
   state: decided
   disposition: retain-proposed
-  batch: batch-055
+  batch: batch-058
   decision: decisions/THEORY-660.yaml
 - code: CLAIM-391
   wave: 1
@@ -3774,4 +3761,17 @@ history:
 - version: 150
   date: '2026-10-20'
   note: '#262, #263, #264, #267 merged; CLAIM-tmp1w7aa renamed to CLAIM-391 in the ledger.'
+- version: 151
+  date: '2026-10-19'
+  note: 'Batch 058 integrated: 1 split of 4 (THEORY-673); 3 retained unchanged; carried_out_in #272'
+- version: 152
+  date: '2026-10-19'
+  note: 'Batch 059 integrated: 0 promotions. All four entries are retained, with readings attempted for
+    each. One source was read (Chalmers and McQueen, filed as LIT and NOTE). A second text of Propp narrows
+    THEORY-167''s promotable scope to 45 tales. THEORY-485''s blockers are narrowed to the closed Ney
+    works.; carried_out_in #274'
+- version: 153
+  date: '2026-10-20'
+  note: '#265, #266, #268, #271 merged (main lint fixed by porting 1bb070b3); triage-007 (title-assertion
+    sort) and batches 058, 059 integrated.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

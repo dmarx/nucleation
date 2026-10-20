@@ -1,8 +1,16 @@
 # record/promotion-audit/decisions/THEORY-167.yaml
 id: THEORY-167
-batch: batch-035
-reviewed: '2026-10-19'
-reviewed_revision: cb938c23fe2a3caa87dfb880a8b736f462007994
+batch: batch-059
+reviewed: '2026-10-20'
+reviewed_revision: f4de4a36ed90e33160abe701e3197d1b924569f8
+supersedes_review:
+  batch: batch-035
+  disposition: retain-proposed
+  why: >-
+    Batch 035 asked for a clean copy of the per-tale schemes, so the entry
+    could be narrowed to the corpus and promoted under v3. Batch 059 found
+    a second Russian text but not the schemes. That text also shows that the
+    order claim's sample is narrower than batch 035's proposed title.
 current_status: Proposed
 disposition: retain-proposed
 confidence: medium
@@ -10,51 +18,43 @@ title_type: measurement
 route: source (ADR-047 v3)
 scope:
   accepted: >-
-    Nothing yet. A narrowed title is within reach under ADR-047 v3: "In
-    Afanasyev's tales 50-151, as Propp coded them, the actions fall into
-    31 functions occurring in one order up to the inversions and swaps he
-    names, distributed over seven roles." Propp's analysis of one fixed
-    corpus is a measured (coded) result, and the main text was read in
-    full (NOTE-615 version 1: preface and chapters I-IX). The promote_when's
-    request for an independent coding with agreement measured is a
-    replication request and would move to a QUESTION; NOTE-615 already
-    states it as an open question.
+    Nothing yet. Batch 035's narrowed title would itself need narrowing.
+    Appendix III of the 1969 Russian edition (HTML at gumer.info) says the
+    order was checked on the schemes of 45 tales, not 100. Five of the
+    fifty tabulated tales were excluded: No. 94 as being of a different
+    kind, and Nos. 123, 127, 139 and 159 because their moves are interrupted
+    too often and "the canonical sequence is also not strictly kept". A v3
+    title that claims no more than was measured would read roughly: "In 45
+    of Afanasyev's tales 50-151, as Propp coded and selected them, the
+    functions occur in one order up to the inversions and swaps he names."
   excluded: >-
-    The title as written, for two reasons. First, its scope: "The Russian
-    wondertale" and "all wondertales share one composition" go beyond the
-    hundred tales measured, and the "all" is partly definitional, since
-    Propp ends by defining the class as the tales that follow the scheme
-    (NOTE-615 C4, "moderate, partly definitional"). ADR-047 v3 covers a
-    title that claims no more than the study measured. Second, the
-    measurement itself: the order invariance, the title's core, rests on
-    the per-tale schemes in chapter IX and appendices II-IV, which NOTE-615
-    did not check ("the schemes in ch. IX are garbled in the OCR";
-    appendices II-IV "were not read"). This is batch 019's trap: v3 needs
-    the result in the text the record read, and here the data behind the
-    order claim was not read. C1 (functions as the constant elements) is
-    shown in chapter III with examples from each tale, and the exclusive
-    pairs' counts (41 and 33 of 100) are in the text, but those do not
-    carry "in a fixed order".
+    The title as written, for batch 035's two reasons, both still holding.
+    First, it generalises from the corpus to the class. Second, the per-tale
+    schemes behind the order claim are still unread. Appendix III says they
+    are printed "на вклейке", on a fold-out insert, which the HTML does not
+    reproduce, and the 1968 English edition at the Internet Archive is
+    lending-restricted. A third reason is now on record: the sample was
+    filtered on the property the claim asserts, since tales were dropped in
+    part because their order was not strictly canonical. That makes the
+    order invariance partly a selection effect.
 evidence:
-  - "NOTE-615 version 1: main text read in full in the 1928 Russian OCR; appendix I skimmed; appendices II-IV not read; ch. IX schemes garbled."
-  - "NOTE-615 claims table: C1 strong (for the corpus); C2 and C3 (order invariant up to named inversions and swaps) moderate; C4 moderate, partly definitional."
-  - "NOTE-642 (LIT-830, Skimmed) covers chapters II-III of the 1968 English edition only, not the schemes."
+  - "gumer.info bibliotek_Buks/Linguist/propp, pages 09 (ch. IX) and 12-16 (appendices), cp1251 HTML, apparently the 1969 edition: read 2026-10-20 for the appendices. Recorded in a dated note on NOTE-615 (version 2), in the reading PR."
+  - "Appendix III: fold-out schemes of 45 tales; five exclusions with Propp's reasons; 'Мы выписали половину нашего рабочего материала' (the printed material is half of the working material)."
+  - "Appendix II: full analyses of a few tales (including Nos. 131 and 247); one note says some tales break the canon through parodic treatment."
+  - "archive.org morphologyoffolk00prop and morphologyoffolk0000prop (the 1968 English edition): lending-restricted, not readable."
 blockers:
-  - "The per-tale schemes, on which the order invariance rests, are unread. A clean copy (the English edition's appendix of schemes, or a better scan of the Russian) read and checked against chapter IX would remove this."
-  - "The title generalises from the corpus to the class, and the class is defined by fit to the scheme."
+  - "The per-tale schemes are still unchecked, since the fold-out is in neither text the record can reach."
+  - "The order claim is shown on a sample selected partly for conformity to the order."
+  - "The title generalises from the corpus to the class."
 notes: >-
-  Pending since batch 021 with no route; triage-004 scored it (6) before
-  triage-005 assigned routes. Under batch 020's sorting rule its title is
-  a measurement, so it takes the source route, ADR-047 v3. A small
-  inaccuracy for whichever PR next touches the entry: its Source line
-  says NOTE-615 read "chapters II, III, VI and IX", but NOTE-615's history
-  says the main text was read in full, chapters I-IX. That understates the
-  reading and does not change the decision, so it is not filed as a
-  separate correction.
+  A clean copy of the schemes could not be had. The reading still changed
+  what a promotion would look like: a v3 title has to name the 45 printed
+  schemes and the exclusions, not "the hundred tales". The selection point
+  is a candidate objection CLAIM for the record's own argument. It is not
+  filed here, since that is outside this batch's directive.
 unlocks: []
 next_action: >-
-  A reading task, not an audit one: read Propp's per-tale schemes from a
-  clean text and record them in NOTE-615 (or a NOTE on LIT-830). Then
-  requeue for narrow-and-promote to the corpus-scoped title above, with
-  the independent-coding request moved to a QUESTION and the Source line
-  corrected.
+  Requeue for an owner-supplied scan of the fold-out (in the 1928 or 1969
+  Russian edition) or of the 1968 English appendix of schemes. When it
+  arrives, check the 45 schemes against chapter IX and promote to the
+  45-tale title with the exclusions stated.

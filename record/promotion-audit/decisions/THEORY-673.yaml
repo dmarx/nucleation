@@ -1,47 +1,42 @@
 # record/promotion-audit/decisions/THEORY-673.yaml
 id: THEORY-673
-batch: batch-056
+batch: batch-058
 reviewed: '2026-10-20'
-reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+reviewed_revision: 583807252166df4f301809572ea8a22c49e874e1
 current_status: Proposed
-disposition: retain-proposed
-confidence: high
-title_asserts: argument
+disposition: split
+confidence: medium
+title_asserts: argument with a derivation attached
 formal_in_fact: partly
+supersedes: batch-056
+carried_out_in: "#272"
 scope:
   accepted: >-
-    The title's first clause is a derivation, and it re-derives (ADR-047
-    v2). Ancestors i with frequency q_i, character z_i and fitness w_i
-    (descendant count), descendants' mean character z'_i, Delta z_i =
-    z'_i - z_i, closed population (every descendant assigned to an
-    ancestor). Descendant frequencies q'_i = q_i w_i / w-bar, so
-    z-bar' = sum q_i w_i z'_i / w-bar and
-    w-bar Delta z-bar = sum q_i w_i (z_i + Delta z_i) - w-bar sum q_i z_i
-    = Cov(w, z) + E(w Delta z). Equivalently, with relative fitness
-    omega = w / w-bar, Delta z-bar = Cov(omega, z) + E(omega Delta z). No
-    assumption beyond closure and the mapping is used, and the interval is
-    arbitrary. The rest of the title, the generalization-sketch reading and
-    the reply to the tautology and predictive-power charges, is the
-    paper's argument (NOTE-101: moderate by analogy; the tautology reply
-    answers the word, conceded in §7.2).
+    The first clause, the Price equation, re-derives from closure and the
+    ancestor-descendant mapping alone (batch 056's derivation, set out in
+    the new THEORY's body): w-bar Delta z-bar = Cov(w, z) + E(w Delta z),
+    over any interval. Luque (LIT-205, §3) states and derives it after
+    Price (1970), so it is a source's result and goes to a THEORY, not to a
+    demonstrated CLAIM under ADR-032. No Active entry held the identity
+    (THEORY-408 and THEORY-567 are specific models). Split off, on the
+    THEORY-736 and THEORY-741 pattern, as THEORY-tmp9jqpz, filed Active.
   excluded: >-
-    The schema reading, the f = ma analogy and the replies to critics. The
-    promote_when asks which partition a causal model licenses and for
-    specialisations yielding results not derivable otherwise, which the
-    source does not supply (its case-study authors "found previous
-    results").
+    The generalization-sketch reading, the f = ma analogy and the replies
+    to the tautology and predictive-power charges stay in THEORY-673,
+    Proposed. Judged as an argument, it is by analogy plus two case
+    studies whose authors recovered already-derivable results, and its
+    promote_when (which partition a causal model licenses; specialisations
+    yielding new results) asks for what no argument can supply.
 evidence:
-  - "This review's derivation of the Price equation (scope.accepted)."
+  - "Batch 056's derivation of the Price equation."
   - "Luque (2016), LIT-205, read in NOTE-101."
 blockers:
-  - "The title's thesis is an argument whose promote_when no review can meet."
+  - "For the reading: a treatment of which Price partition a causal model licenses, and specialisations yielding results not otherwise derivable."
 notes: >-
-  Triage-006 scored it 2; only the first clause is formal. Sorted as an
-  argument (batch 020): the title's weight is the interpretation. The
-  derivation is textbook and could be split off as its own Active THEORY
-  (ADR-040 pattern) if the record wants the identity held on its own; the
-  wave-5 review of the argument would be the place to decide.
-unlocks: []
-next_action: >-
-  Keep Proposed; requeue to wave 5, where a split of the derivation can be
-  decided with the argument.
+  Medium confidence on the split, not the mathematics: whether a textbook
+  identity should be held as its own Active entry is the open owner
+  question already raised by the THEORY-110 split (#242). The derivation
+  itself is high confidence.
+unlocks:
+  - "The Price identity is available to cite as Active (e.g. from THEORY-408-style models)."
+next_action: "Merge #272; rename the new THEORY's tmp code in the ledger afterwards if any ledger file names it."

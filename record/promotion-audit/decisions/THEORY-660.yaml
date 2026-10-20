@@ -1,37 +1,31 @@
 # record/promotion-audit/decisions/THEORY-660.yaml
 id: THEORY-660
-batch: batch-055
+batch: batch-058
 reviewed: '2026-10-20'
-reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+reviewed_revision: 583807252166df4f301809572ea8a22c49e874e1
 current_status: Proposed
 disposition: retain-proposed
-confidence: medium
-title_asserts: explanatory thesis plus model numerics plus measurement
+confidence: high
+title_asserts: explanatory thesis
 formal_in_fact: false
+supersedes: batch-055
 scope:
   accepted: >-
-    The title's main clause, that branching geometry "is set by" surface
-    minimisation, is an explanatory thesis. Under ADR-047 v3 the single
-    study (Meng et al. 2026, read in full with the SI in NOTE-075) would
-    have to measure it, and it does not: agreement is qualitative, real
-    motifs are 1.20–1.35 times Steiner length unexplained, and the
-    thresholds χ ≈ 0.83 and ρ ≈ 0.6 come from a local, penalised optimiser
-    on two symmetric motifs, not a proof or a global minimum.
+    Reviewed as interpretive synthesis (wave 5). No change since batch 055.
+    The thesis that branching geometry "is set by" surface minimisation is
+    argued from qualitative agreement between a local penalised optimiser
+    on two symmetric motifs and six 3D network classes.
   excluded: >-
-    A narrowing to what was measured is hollow. The trifurcation excess is
-    partly made by the merging rule (two bifurcations within w/2π become
-    one), and the one robustness check moves P(λ → 0) 4.3-fold; the
-    sprouting breakpoints are chosen per dataset with no null. What
-    survives is "degree-4 nodes and non-120° angles occur in six 3D network
-    classes", which is not this account. The promote_when's three analyses
-    (no merging rule, the minimiser on random terminals, a breakpoint test
-    against a smooth model) are the work that would settle it and are
-    beyond a review.
+    As an argument it does not establish the causal "is set by": the
+    trifurcation excess is partly made by the merging rule, the one
+    robustness check moves the key probability 4.3-fold, and the sprouting
+    breakpoints have no null. Its promote_when names three reanalyses
+    (no merging rule, minimiser on random terminals, breakpoint test
+    against a smooth model) that are data work, not argument.
 evidence:
-  - "THEORY-660 body and NOTE-075 on LIT-069."
+  - "NOTE-075 on LIT-069; batch 055's review."
 blockers:
-  - "Reanalysis of the skeletons without the merging rule; the surface minimiser on random terminal sets; a breakpoint test against Zamir-type cylinders."
-notes: >-
-  Retained. Its title asserts a mechanism the study's own robustness
-  checks do not support; it is the THEORY-110 shape (conjecture beyond
-  what was solved), but with nothing proved to split off.
+  - "The three reanalyses named in the promote_when."
+notes: "Unchanged by wave 5; nothing formal to split off."
+unlocks: []
+next_action: "None from the audit; the reanalyses are beyond a review."

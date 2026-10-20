@@ -1653,3 +1653,66 @@ history note. THEORY-277 is requeued on this basis.
 - What remains of wave 3: 316 unqueued entries at formal score <= 1. The
   formal flag has nothing left to rank; a triage-007 that sorts by what the
   title asserts, with a control sample, is the next step.
+
+## 2026-10-19 — batch 058 (wave 5, arguments)
+
+- Batch 041's lesson held again: none of the four had changed since its
+  wave-3 review, and wave 5 moved none of the three pure arguments. Check
+  git log before requeuing an argument; requeue only when a promote_when,
+  premise or rival has changed, or when the entry carries a separable
+  formal core.
+- A separable formal core is the one thing wave 5 reliably yields
+  (THEORY-673, like THEORY-109 and THEORY-110). Whether it becomes a
+  THEORY or a demonstrated CLAIM turns on whether a source states it
+  (THEORY) or the record assembled it (CLAIM, ADR-032).
+- THEORY-302 and THEORY-660 now wait on reading or data tasks, not
+  reviews; THEORY-459 waits on a structural argument from its source or a
+  rival. Track them off the review queue.
+- Main still fails lint on NOTE-981, THEORY-753, THEORY-757 and
+  THEORY-202; #272's CI will stay red until #271 merges.
+
+## 2026-10-19 — batch 059 (reading tasks)
+
+- What could be fetched, and from where. arXiv: Chalmers and McQueen
+  (2105.02314), full text. gumer.info: Propp's Morphology, Russian HTML,
+  apparently the 1969 edition, encoded cp1251 (decode it explicitly). It
+  carries the appendices but not the fold-out schemes.
+- What was closed. Unpaywall, OpenAlex and Semantic Scholar list no open-
+  access copy of: Geisler 1989; Banks, Geisler and Bennett 1987; Geisler
+  1984; Banks, Sekuler and Anderson 1991; Mandelkern, Bounded Meaning
+  (2024) and 'Bounded Modality' (2019); Ney 2016 and 2021; Bikaraan-
+  Behesht 2021/22. No copy was found for Heim 1990 or Elbourne 2005
+  either. The 1968 English Propp at archive.org is lending-restricted.
+- Sources that were blocked. philpapers.org returns 403 and PhilSci-
+  Archive fails TLS through the proxy, so philosophy preprints are mostly
+  unreachable from a session. cps.utexas.edu redirects to a page with no
+  PDFs, and jov.arvojournals.org returns 403. Philosophy and vision-
+  science reading tasks for closed works need owner-supplied copies;
+  requeueing them unchanged will not help.
+- Reading the source can narrow a promotable scope even when the clean
+  copy is missing. Propp's appendix states that five tabulated tales were
+  dropped, partly because their order was not strictly canonical. So an
+  order claim checked on the remaining 45 is partly a selection effect,
+  and a v3 title must say so.
+- A source cited as a rival can turn out to argue against the citing
+  THEORY's conclusion while still being represented accurately. Chalmers
+  and McQueen are LIT-164's "explicit, testable rival", and they also
+  argue that collapse is a causal-closure gap. Record both points.
+
+## 2026-10-20 — triage-007, batches 058-059, and a broken main
+
+- Triage-007 sorts the 327 unqueued wave-3 entries by what the title
+  asserts: 76 theorem, 115 measurement, 130 argument, 6 report. On the 97
+  labelled entries (fitted to them) theorem precision 0.82 / recall 0.95,
+  measurement 0.89 / 0.67, argument weak (0.60 / 0.40): conditional-shaped
+  arguments are called theorems. Sort each route entry by hand before
+  re-deriving.
+- Wave 5 (batch 058) moved none of the pure arguments again; its only
+  yield is a separable formal core (THEORY-673's Price equation, split as
+  a THEORY because a source states it).
+- Reading tasks for closed works (batch 059) need owner-supplied copies;
+  philpapers 403s and PhilSci-Archive fails TLS from here.
+- Main broke when another session's PRs (#246, #247) merged half-written
+  entries; the completed versions were on its branch. Porting that commit
+  (#271) fixed main. When main fails lint on files no audit PR touches,
+  look for the fix on the originating branch first.
