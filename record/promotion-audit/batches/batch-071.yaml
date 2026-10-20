@@ -40,7 +40,8 @@ filed:
     who_asserts: LIT-255 (Bach, asserted with a leverage-score sketch; NOTE-837 open question)
     answers: QUESTION-198
 reclassified: []
-promotion_prs: []
+promotion_prs:
+- "#291"
 notes_for_ledger:
 - All five narrowed entries already had a QUESTION holding the old promote_when (QUESTION-192, -151, -168, -212, -198); each new THEORY inherits it verbatim and answers that QUESTION.
 - Triage-008's suggested titles over-reached in two ways here, as batches 068 and 069 found: one widened the class past what the source names (THEORY-391), one asserted a mechanism the source cannot identify (THEORY-267). One was weaker than the source (THEORY-295).
