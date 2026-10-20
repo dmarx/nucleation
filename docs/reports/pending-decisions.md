@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**742 document(s) awaiting a decision.**
+**741 document(s) awaiting a decision.**
 
 ## LITs
 
-94 of the 742.
+94 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -110,7 +110,7 @@
 
 ## THEORYs
 
-417 of the 742.
+416 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -519,7 +519,6 @@
 | 2026-10-16 | Proposed | [THEORY-673](../../record/theory.d/THEORY-673.md) | 0 | 0 | The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply |
 | 2026-10-16 | Proposed | [THEORY-674](../../record/theory.d/THEORY-674.md) | 0 | 0 | In NBER and CEPR working papers from 1980 to 2023, the share of claims backed by a design-based identification strategy (difference-in-differences, instrumental variables, RCT, regression discontinuity or synthetic control) rose about fourfold, from 7.7% of a paper's extracted edges in 1990 to 31.7% in 2020, as measured by an LLM extraction whose edges were never checked against human labels |
 | 2026-10-16 | Proposed | [THEORY-682](../../record/theory.d/THEORY-682.md) | 0 | 0 | The time-average of a single threshold (Hill) response to a periodic signal is independent of the signal's period for a fixed waveform, so a frequency cannot be read by one sigmoidal stage; two cascaded stages can read it, because the first changes the waveform with period; and a delayed kinesin–dynein signalling loop whose period grows with axon length, read out this way and coupled to protrusion and contraction, can hold an axon at a stable length |
-| 2026-10-17 | Proposed | [THEORY-714](../../record/theory.d/THEORY-714.md) | 8 | 0 | Redundancy among any number of sources can be measured as the expected local co-information over only those events where every source, the joint source and the overlap change the target's surprisal in the same direction, under the maximum-entropy joint that preserves the source–target and joint-source marginals; this keeps symmetry, self-redundancy, subset equality and identity for independent sources, and gives up Harder et al.'s identity, monotonicity and non-negative atoms, which then read as local misinformation and mechanistic redundancy |
 | 2026-10-20 | Proposed | [THEORY-769](../../record/theory.d/THEORY-769.md) | 43 | 0 | Ownership of a body part is a graded belief that it is the most probable common cause of correlated multisensory input, so that synchronous stimulation of another object moves some of that belief to the object and away from the real part |
 | 2026-10-20 | Proposed | [THEORY-767](../../record/theory.d/THEORY-767.md) | 40 | 0 | Body ownership draws on interoceptive as well as exteroceptive signals: a visual cue synchronous with one's heartbeat increases ownership of a virtual hand and identification with a virtual body, and lower interoceptive sensitivity goes with greater susceptibility to the rubber hand illusion |
 | 2026-10-20 | Proposed | [THEORY-768](../../record/theory.d/THEORY-768.md) | 40 | 0 | Minimal selfhood is identification with the whole body, located where that body is felt to be and seen from inside it; owning a body part does not reach it, and bodily agency enables it causally without being part of it |
@@ -534,7 +533,7 @@
 
 ## ADRs
 
-2 of the 742.
+2 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -543,7 +542,7 @@
 
 ## QUESTIONs
 
-9 of the 742.
+9 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -559,7 +558,7 @@
 
 ## CLAIMs
 
-215 of the 742.
+215 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -781,7 +780,7 @@
 
 ## CASEs
 
-1 of the 742.
+1 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -789,7 +788,7 @@
 
 ## TERMs
 
-2 of the 742.
+2 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -798,7 +797,7 @@
 
 ## ARGs
 
-2 of the 742.
+2 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

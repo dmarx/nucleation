@@ -1,5 +1,8 @@
 ---
+number: 223
 status: 'Open'
+formerly:
+- QUESTION-tmpttlk1
 title: "Is Ince's common change in surprisal a correct redundancy measure: is it continuous, does it agree with a redundancy fixed by mechanism where rivals with non-negative atoms do not, may unique information depend on the source-source marginal, and can a modified sign rule restore subset equality?"
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   moves here.
 ---
 
-# QUESTION-tmpttlk1: Is Ince's common change in surprisal a correct redundancy measure: is it continuous, does it agree with a redundancy fixed by mechanism where rivals with non-negative atoms do not, may unique information depend on the source-source marginal, and can a modified sign rule restore subset equality?
+# QUESTION-223: Is Ince's common change in surprisal a correct redundancy measure: is it continuous, does it agree with a redundancy fixed by mechanism where rivals with non-negative atoms do not, may unique information depend on the source-source marginal, and can a modified sign rule restore subset equality?
 
 ## Why it is a question
 

@@ -17,7 +17,7 @@ history:
     and a two-source counterexample gives 0.0272 bit against 0.0073.
     The title now says so, and no longer claims I_ccs is the right
     measure or reads its negative atoms. That question, the former
-    promote_when, moves to QUESTION-tmpttlk1.
+    promote_when, moves to QUESTION-223.
 tags:
 - information-theory
 - complex-systems
@@ -30,7 +30,7 @@ summary: >-
   (re-derived 2026-10-20), and every discrete example reproduces. That
   the dropped properties ought to be dropped, and that unique information
   depends on the source–source marginal, are argued, not proved. Whether it is
-  the right redundancy measure is open (QUESTION-tmpttlk1). It meets Rauh et al.'s −1-bit bound
+  the right redundancy measure is open (QUESTION-223). It meets Rauh et al.'s −1-bit bound
   exactly on XORCOPY.
 supports:
 - CLAIM-343
@@ -137,4 +137,4 @@ redundancy function to the lattice's antichains, so its failure bears on
 the measure's rationale. It leaves the lattice computation and every
 value in the record (the −1-bit XORCOPY atom, the examples above, the
 values [CLAIM-343](../claims.d/CLAIM-343.md) and [THEORY-712](THEORY-712.md) use) unchanged. Whether a modified sign
-rule could restore the property is [QUESTION-tmpttlk1](../questions.d/QUESTION-tmpttlk1.md).
+rule could restore the property is [QUESTION-223](../questions.d/QUESTION-223.md).

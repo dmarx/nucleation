@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**491 documents cited without acknowledgement.** Not listed: 9913 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**491 documents cited without acknowledgement.** Not listed: 9905 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -953,7 +953,7 @@ A macro feature can supervene on a system's present state and still carry inform
 - [`record/theory.d/THEORY-704.md:86`](../../record/theory.d/THEORY-704.md)
 - [`record/theory.d/THEORY-705.md:107`](../../record/theory.d/THEORY-705.md)
 - [`record/theory.d/THEORY-707.md:82`](../../record/theory.d/THEORY-707.md)
-- [`record/theory.d/THEORY-712.md:89`](../../record/theory.d/THEORY-712.md)
+- [`record/theory.d/THEORY-712.md:88`](../../record/theory.d/THEORY-712.md)
 
 ### [CLAIM-142](../../record/claims.d/CLAIM-142.md) — Proposed
 
