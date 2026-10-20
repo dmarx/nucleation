@@ -11,23 +11,23 @@ reviewed:
 - THEORY-166
 filed:
 - narrowed: THEORY-175
-  entry: THEORY-tmpphsfd
+  entry: THEORY-798
   kind: 1
   carries: independently trained latent spaces differ mainly by an angle-preserving map (Moschella et al.'s hypothesis)
 - narrowed: THEORY-278
-  entry: THEORY-tmpdzmf1
+  entry: THEORY-797
   kind: 1
   carries: trained MSE networks follow the renormalized central-path dynamics to neural collapse (Han, Papyan and Donoho's proposal)
 - narrowed: THEORY-216
-  entry: THEORY-tmp3ucjb
+  entry: THEORY-795
   kind: 1
   carries: lasting artworks on a contested canvas are, as a population, those whose coalitions keep repairing them (Wu and Silva's claim C6)
 - narrowed: THEORY-166
-  entry: THEORY-tmpcwkzh
+  entry: THEORY-796
   kind: 1
   carries: the QQ equality as a general law of question-order effects (Wang, Solloway, Shiffrin and Busemeyer)
 - narrowed: THEORY-275
-  entry: CLAIM-tmp3gd3i
+  entry: CLAIM-396
   kind: 2
   carries: directional information measures between reciprocally coupled units follow a one-sided drive, not the coupling, in general
 reclassified:
