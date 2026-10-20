@@ -4,7 +4,7 @@ batch: batch-064
 reviewed: '2026-10-20'
 reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
 current_status: Proposed
-disposition: retain
+disposition: retain-proposed
 confidence: high
 hand_label: argument resting on an empirical premise
 classifier_label: argument (score 0 on every class)
