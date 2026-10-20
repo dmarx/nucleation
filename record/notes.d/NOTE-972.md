@@ -35,7 +35,7 @@ summary: >-
   b^−(d−2λ) rest on a scaling argument. On the paper's own scalings the
   dividing line is λ = d/2, not 0.
 ---
-<!-- inactive-ok-file: THEORY-194 THEORY-202 — Proposed; accounts this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-202 — Proposed; accounts this reading bears on, nothing here rests on their being settled -->
 # NOTE-972: Raju, Machta and Sethna — Information loss under coarse graining
 
 ## Contribution
