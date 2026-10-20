@@ -1,18 +1,21 @@
 ---
 number: 376
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpgvxim
-promote_when: >-
-  A measurement in an implemented client-server system, or a simulation that
-  charges the client for computing probe and remainder queries and for
-  maintaining region descriptions, that reproduces the ordering (semantic
-  caching about equal to page caching under good clustering, better under bad
-  clustering, and faster when queries are answered wholly from cache). A
-  further simulation that leaves reasoning about cache contents free does not
-  settle it.
-title: "In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged"
-version: 1
+title: "In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server; this matched page caching on a clustered index, beat it on an unclustered one, and, on an unindexed attribute with a disk cache, answered over 60% of 1% queries without contacting the server; the cost of computing probe and remainder queries was not charged"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-376 (batch 073, ADR-047 v3): one simulation study read in full in
+    NOTE-904. The 60% figure now carries the condition under which it was
+    measured (1% queries on an unindexed attribute with a disk cache), and
+    the clustering comparison names the indexes. The promote_when, which
+    asked for an implemented system or a simulation that charges the cache
+    reasoning, moves unchanged to QUESTION-tmp4iwgh.
 tags:
 - databases
 - information-retrieval
@@ -31,8 +34,9 @@ summary: >-
   were left out, so it does not show that predicate-described storage pays
   when finding the reusable part is costly.
 ---
+<!-- inactive-ok-file: CLAIM-303 THEORY-375 — Proposed; the reuse-pricing claim this is set beside and the same paper's replacement results, named, not leaned on -->
 
-# THEORY-376: In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged
+# THEORY-376: In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server; this matched page caching on a clustered index, beat it on an unclustered one, and, on an unindexed attribute with a disk cache, answered over 60% of 1% queries without contacting the server; the cost of computing probe and remainder queries was not charged
 
 ## Source
 
@@ -93,3 +97,16 @@ whole answers in cache often enough to avoid server scans.
 - [THEORY-356](THEORY-356.md) and [THEORY-350](THEORY-350.md) (view selection under space and upkeep budgets)
   choose what to store ahead of queries; here everything fetched is stored
   and the question is what to drop.
+
+## Note of 2026-10-20: narrowed and promoted
+
+The promotion audit (batch 073) narrowed the title and promoted it on the
+one study it rests on, under [ADR-047](../decisions.d/ADR-047.md) v3. [LIT-1113](../literature.d/LIT-1113.md) was read in full in
+[NOTE-904](../notes.d/NOTE-904.md), with its tables and figures read from page images. The old title
+gave "answered over 60% of small queries without contacting the server"
+without its condition; the paper reports it for 1% queries on an unindexed
+attribute with a disk cache, where every server request is a full scan,
+and the title now says so (a correction, not a dropped thesis). "Good" and
+"bad clustering" become the clustered and unclustered indexed attributes
+the paper compared. The former promote_when moves unchanged to
+[QUESTION-tmp4iwgh](../questions.d/QUESTION-tmp4iwgh.md).

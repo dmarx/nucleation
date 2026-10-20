@@ -35,7 +35,6 @@ summary: >-
   low-dimensional Poincaré embeddings, come from those two operations is
   this record's inference. [NOTE-686](../notes.d/NOTE-686.md) filed no THEORY.
 ---
-<!-- inactive-ok-file: THEORY-421 — Proposed; neighbouring accounts of attribute directions, cones and radial hierarchy, named, not leaned on -->
 
 # THEORY-566: In Ganea et al.'s hyperbolic neural networks, linear maps and nonlinearities are Euclidean ones read through the chart at the origin, so a stack of them without biases is a Euclidean network conjugated by that chart, and the curvature acts only through the bias translations and the distance-based output layer
 
