@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**502 documents cited without acknowledgement.** Not listed: 9729 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**501 documents cited without acknowledgement.** Not listed: 9733 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3438,7 +3438,7 @@ A Markov blanket does not individuate a system: where it falls is fixed by model
 
 In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
 
-3 citations in 1 file await a look; 9 other citations of it are acknowledged.
+3 citations in 1 file await a look; 13 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-040.md:30`](../../record/questions.d/QUESTION-040.md)
 - [`record/questions.d/QUESTION-040.md:47`](../../record/questions.d/QUESTION-040.md)
@@ -4260,7 +4260,7 @@ On a finite augmentation space, InfoNCE, logistic and spectral contrastive losse
 
 The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
 
-2 citations in 1 file await a look; 38 other citations of it are acknowledged.
+2 citations in 1 file await a look; 39 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:31`](../../record/questions.d/QUESTION-052.md)
 - [`record/questions.d/QUESTION-052.md:54`](../../record/questions.d/QUESTION-052.md)
@@ -5101,14 +5101,6 @@ Whether an agent's regimes are coordinated by discrete switches or by continuous
 1 citation in 1 file awaits a look.
 
 - [`record/cases.d/CASE-074.md:78`](../../record/cases.d/CASE-074.md)
-
-### [CLAIM-265](../../record/claims.d/CLAIM-265.md) — Proposed
-
-Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description is decided only relative to a specified class of admissible correspondences between their observations, and a correspondence admitted only because it removes the disagreement decides nothing
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-040.md:187`](../../record/decisions.d/ADR-040.md)
 
 ### [CLAIM-266](../../record/claims.d/CLAIM-266.md) — Proposed
 

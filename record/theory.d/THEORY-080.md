@@ -32,7 +32,7 @@ history:
   note: >-
     The exact half of the derivation, the Occam factor as a sum over the
     non-zero eigenvalues of the empirical NTK Gram matrix, is filed as the
-    record's own demonstrated claim, CLAIM-tmprruzz, under ADR-032
+    record's own demonstrated claim, CLAIM-384, under ADR-032
     (promotion audit, batches 036 and 046). This account keeps the
     spherical, per-harmonic half, which rests on approximating the Gram
     spectrum by nµ_k, and its promote_when, which tests that half. Status
@@ -49,7 +49,7 @@ source:
 - LIT-612
 summary: >-
   The filer's synthesis, stated by no source. Its exact half is filed as
-  the record's own claim, CLAIM-tmprruzz; what stays here is the
+  the record's own claim, CLAIM-384; what stays here is the
   spherical account. A network linearised at
   initialisation, with an isotropic Gaussian prior on its parameters and
   Gaussian noise, is MacKay's linear-in-parameters model ([LIT-623](../literature.d/LIT-623.md)).
@@ -165,7 +165,7 @@ factor, through which degrees are determined at all.
 Promotion audit, batches 036 and 046. The model and Occam-factor steps of
 the derivation re-derive exactly from MacKay's Eq. 20, and no source states
 them for a tangent kernel, so they are the record's own result. They are
-filed as [CLAIM-tmprruzz](../claims.d/CLAIM-tmprruzz.md), demonstrated, with the proof. This account keeps
+filed as [CLAIM-384](../claims.d/CLAIM-384.md), demonstrated, with the proof. This account keeps
 what depends on the sphere: the Gram eigenvalues approximated by nµ_k with
 multiplicity N(d, k), the per-harmonic cost ½ log(1 + βnµ_k/α), and the
 rate γ ~ n^((d−1)/d). Those are what the promote_when's computation tests.

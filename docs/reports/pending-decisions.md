@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**771 document(s) awaiting a decision.**
+**770 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 771.
+95 of the 770.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,13 +111,13 @@
 
 ## THEORYs
 
-444 of the 771.
+444 of the 770.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 56 | 14 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used |
 | 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 51 | 2 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
-| 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 40 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
+| 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 41 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
 | 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 86 | 27 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
 | 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 66 | 17 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
 | 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 11 | 5 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
@@ -141,7 +141,7 @@
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 49 | 7 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 47 | 4 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
 | 2026-10-03 | Proposed | [THEORY-083](../../record/theory.d/THEORY-083.md) | 47 | 2 | Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean |
-| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 37 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
+| 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 38 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 35 | 9 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 35 | 2 | In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 30 | 5 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
@@ -167,6 +167,7 @@
 | 2026-10-03 | Proposed | [THEORY-070](../../record/theory.d/THEORY-070.md) | 19 | 5 | How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control |
 | 2026-10-03 | Proposed | [THEORY-094](../../record/theory.d/THEORY-094.md) | 18 | 3 | Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does |
 | 2026-10-03 | Proposed | [THEORY-051](../../record/theory.d/THEORY-051.md) | 17 | 0 | Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering |
+| 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 16 | 3 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
 | 2026-10-03 | Proposed | [THEORY-092](../../record/theory.d/THEORY-092.md) | 16 | 1 | Behavioural capacity does not fix intelligence: a system with the capacity to respond sensibly to every possible input can lack it, so whether behaviour is intelligent, or the mark of any mental property, depends partly on how it is produced |
 | 2026-10-03 | Proposed | [THEORY-103](../../record/theory.d/THEORY-103.md) | 16 | 2 | Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued |
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 15 | 3 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
@@ -175,7 +176,6 @@
 | 2026-10-03 | Proposed | [THEORY-111](../../record/theory.d/THEORY-111.md) | 13 | 1 | Along a low-loss linear path between two networks, every layer's features are the interpolation of the endpoints' features, so averaging weights within a basin averages features |
 | 2026-10-03 | Proposed | [THEORY-065](../../record/theory.d/THEORY-065.md) | 12 | 2 | The unity that makes a movement an agent's action is achieved by conformity to the constitutive norms of agency, not given by the causal unity of a mind, so collective agents are agents in the same sense as individual ones |
 | 2026-10-03 | Proposed | [THEORY-076](../../record/theory.d/THEORY-076.md) | 12 | 0 | Diachronic self-governance is constituted by cross-temporal links of intention that are intrapersonal analogues of shared intention, not by narrative unity and not by intertemporal bargaining |
-| 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 12 | 3 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
 | 2026-10-03 | Proposed | [THEORY-091](../../record/theory.d/THEORY-091.md) | 12 | 3 | A deficit in which consciousness and a capacity are lost together does not show that the capacity is a function of phenomenal consciousness, since access is lost too and the capacity is one the machinery of access has |
 | 2026-10-03 | Proposed | [THEORY-106](../../record/theory.d/THEORY-106.md) | 12 | 2 | In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form |
 | 2026-10-03 | Proposed | [THEORY-060](../../record/theory.d/THEORY-060.md) | 11 | 2 | A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being |
@@ -562,7 +562,7 @@
 
 ## ADRs
 
-2 of the 771.
+2 of the 770.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -571,7 +571,7 @@
 
 ## QUESTIONs
 
-9 of the 771.
+9 of the 770.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -587,7 +587,7 @@
 
 ## CLAIMs
 
-216 of the 771.
+215 of the 770.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -761,7 +761,6 @@
 | 2026-10-13 | Proposed | [CLAIM-275](../../record/claims.d/CLAIM-275.md) | 5 | 3 | An intervention can come before the interpretation it makes available, so in an organization of processes meaning, policy and influence co-evolve and none of them is simply upstream of the others |
 | 2026-10-13 | Proposed | [CLAIM-283](../../record/claims.d/CLAIM-283.md) | 4 | 4 | The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them |
 | 2026-10-13 | Proposed | [CLAIM-286](../../record/claims.d/CLAIM-286.md) | 4 | 1 | Habit, akrasia, rumination, rigidity and insight can be modelled as regimes of one organization, in which processes transform shared meaning and allocate one another's influence, with trust, specialization and higher-level agency arising from its history and not imposed |
-| 2026-10-13 | Proposed | [CLAIM-265](../../record/claims.d/CLAIM-265.md) | 3 | 1 | Local descriptions that disagree are not thereby incompatible: whether they obstruct a joint description is decided only relative to a specified class of admissible correspondences between their observations, and a correspondence admitted only because it removes the disagreement decides nothing |
 | 2026-10-15 | Proposed | [CLAIM-303](../../record/claims.d/CLAIM-303.md) | 120 | 81 | Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion |
 | 2026-10-15 | Proposed | [CLAIM-308](../../record/claims.d/CLAIM-308.md) | 44 | 30 | Where reuse cannot be forecast, recurrence weighted by reconstruction cost is the filing criterion, not only evidence for one: filing once the reconstruction already paid for equals the cost of filing is within twice the hindsight optimum on every sequence of uses, and no deterministic rule without foresight does better, under fixed known costs and with staleness left out |
 | 2026-10-15 | Proposed | [CLAIM-296](../../record/claims.d/CLAIM-296.md) | 33 | 3 | What a system has, what it knows it has, and what it can deploy within a task's deadline are different, and the last is a relation among the resource, the agent, its environment, the task, the deadline and the cue, not a property of any one of them |
@@ -810,7 +809,7 @@
 
 ## CASEs
 
-1 of the 771.
+1 of the 770.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -818,7 +817,7 @@
 
 ## TERMs
 
-2 of the 771.
+2 of the 770.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -827,7 +826,7 @@
 
 ## ARGs
 
-2 of the 771.
+2 of the 770.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

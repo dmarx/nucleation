@@ -6,8 +6,8 @@
 
 **Anthology candidate** — a curation flag, not a subject — somebody judged this work may belong in the Anthology of the SOTA; it stays here until a transfer is decided, and is never a primary topic (ADR-005; group: flags).
 
-0 of 383 CLAIM documents. Back to the [full index](../README.md).
+1 of 384 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-384](../../../record/claims.d/CLAIM-384.md) | For a network linearised at its initial parameters, with an isotropic Gaussian prior of precision α on the parameter displacement and Gaussian noise of precision β, the log-determinant part of the evidence is −½ Σ log(1 + βλ/α) over the non-zero eigenvalues λ of the empirical neural tangent kernel's Gram matrix on the training inputs, so at most n directions are priced however many parameters the network has |  | Active |

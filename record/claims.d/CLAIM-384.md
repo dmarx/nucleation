@@ -1,5 +1,8 @@
 ---
+number: 384
 status: Active
+formerly:
+- CLAIM-tmprruzz
 title: "For a network linearised at its initial parameters, with an isotropic Gaussian prior of precision α on the parameter displacement and Gaussian noise of precision β, the log-determinant part of the evidence is −½ Σ log(1 + βλ/α) over the non-zero eigenvalues λ of the empirical neural tangent kernel's Gram matrix on the training inputs, so at most n directions are priced however many parameters the network has"
 version: 1
 history:
@@ -36,7 +39,7 @@ grounds:
 ---
 <!-- inactive-ok-file: THEORY-080 THEORY-087 THEORY-005 — Proposed; the account this was filed from, which keeps the spherical half, the singular-model account named in what this does not say, and the precedent named in the history; none is leaned on -->
 
-# CLAIM-tmprruzz: For a network linearised at its initial parameters, with an isotropic Gaussian prior of precision α on the parameter displacement and Gaussian noise of precision β, the log-determinant part of the evidence is −½ Σ log(1 + βλ/α) over the non-zero eigenvalues λ of the empirical neural tangent kernel's Gram matrix on the training inputs, so at most n directions are priced however many parameters the network has
+# CLAIM-384: For a network linearised at its initial parameters, with an isotropic Gaussian prior of precision α on the parameter displacement and Gaussian noise of precision β, the log-determinant part of the evidence is −½ Σ log(1 + βλ/α) over the non-zero eigenvalues λ of the empirical neural tangent kernel's Gram matrix on the training inputs, so at most n directions are priced however many parameters the network has
 
 ## The claim
 
