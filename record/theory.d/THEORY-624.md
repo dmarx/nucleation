@@ -24,6 +24,7 @@ source:
 - LIT-911
 rivals:
 - THEORY-527
+- THEORY-tmpmmfpx
 answers:
 - QUESTION-032
 summary: >-

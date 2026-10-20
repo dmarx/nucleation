@@ -30,6 +30,8 @@ summary: >-
 
 refines:
 - QUESTION-032
+answered_by:
+- THEORY-tmpmmfpx
 ---
 
 # QUESTION-228: Run on real systems, does Kenton et al.'s interventional procedure give the verdicts its definition of agency predicts, for a thermostat with and without its design process, an RL policy with and without its training loop, and a human, and does it separate an accidentally optimal input-output system from an agent where a compression test does not, under a principled choice of variables?

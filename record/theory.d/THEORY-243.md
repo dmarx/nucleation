@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp6lt8x
 title: 'In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal change of basis, pass every interchange intervention on the input equally, so interchange interventions on that variable alone do not fix which internal direction mediates it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,12 @@ history:
     relative to a chosen decomposition into units". A tie in a trained
     network, or a uniqueness bound, the former promote_when, moves to
     QUESTION-234.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-tmpmojjf,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - causality
 - philosophy-of-science
@@ -35,7 +41,10 @@ summary: >-
   reply rests its on the interventions performed. Shown exactly for one
   constructed network only; whether trained networks have such ties is
   open (QUESTION-234).
+extended_by:
+- THEORY-tmpmojjf
 ---
+<!-- inactive-ok-file: THEORY-tmpmojjf — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-243: In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal change of basis, pass every interchange intervention on the input equally, so interchange interventions on that variable alone do not fix which internal direction mediates it
 
@@ -149,3 +158,7 @@ alignments was not checked. [CLAIM-150](../claims.d/CLAIM-150.md) cites this acc
 instance of interventional underdetermination, and the narrowed title
 still supplies that.
 
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-tmpmojjf](THEORY-tmpmojjf.md)
+as Proposed, extending this entry. It carries the general reading this entry's title carried before batch 062 narrowed it: that interchange interventions leave the mediating direction fixed only relative to a chosen decomposition into units, in trained networks as well, with several correct abstractions expected in complex models, as Wu et al. conjecture. This entry is its evidence and is not changed by the filing.

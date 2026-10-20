@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgjsxj
 title: 'If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.''s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,12 @@ history:
     definition and are relative to the variables chosen, not derived. They
     stay in the body as the authors' arguments. Whether the definition picks
     out agency, the promote_when, moves to QUESTION-228.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-tmpmmfpx,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - agency
 - causality
@@ -34,7 +40,10 @@ summary: >-
   proposal; the verdicts on thermostats and RL are argued from it, and
   "reliably classifies humans as agents" is asserted. The labels depend on
   the chosen variables, which the paper states.
+extended_by:
+- THEORY-tmpmmfpx
 ---
+<!-- inactive-ok-file: THEORY-tmpmmfpx — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 THEORY-208 THEORY-249 THEORY-624 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
 # THEORY-527: If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.'s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms
@@ -139,3 +148,8 @@ definition; they test it only against intuition.
 
 The theorem does not test the definition in its antecedent, and the
 paper's verdicts on particular systems are not consequences of it.
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-tmpmmfpx](THEORY-tmpmmfpx.md)
+as Proposed, extending this entry. It carries Kenton et al.'s definition of agency and the verdicts they argue from it (thermostat and design process, RL training and learnt policy, humans), which this entry's title carried before batch 055 narrowed it to the recovery theorem. This entry is its evidence and is not changed by the filing.
