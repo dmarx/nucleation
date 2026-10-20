@@ -1,0 +1,73 @@
+# record/promotion-audit/decisions/THEORY-259.yaml
+id: THEORY-259
+batch: batch-050
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The two facts the promote_when names, derived here (ADR-047 v2) from
+    the existence of a universal lower-semicomputable conditional
+    semimeasure m(.|.) and Levin's coding theorem K(D|H) = -log m(D|H) +
+    O(1), uniformly in H.
+
+    Eq. 25 (domination). Enumerate the lower-semicomputable conditional
+    semimeasures mu_1, mu_2, ...; xi(D|H) = sum_i 2^(-K(i)) mu_i(D|H) is one
+    (Kraft bounds the weights), so m >= c xi >= c 2^(-K(mu)) mu for each mu.
+    A recursive likelihood family Pr(.|.) is such a mu, so
+    m(D|H) >= c 2^(-K(Pr(.|.))) Pr(D|H). Applied to the single distribution
+    Pr(.|H) as an unconditional semimeasure it gives the paper's
+    2^(-K(Pr(.|H))) form; both hold.
+
+    Theorem 11 (universal sum test). For recursive P,
+    delta0(x) = log(m(x)/P(x)) is lower semicomputable and
+    sum_x P(x) 2^delta0(x) = sum_x m(x) <= 1, so it is a sum P-test. For any
+    lower-semicomputable sum test delta, P(x)2^delta(x) is a lower-
+    semicomputable semimeasure, so by domination delta0 >= delta - K(delta)
+    - O(1): delta0 is universal. D is random for P exactly when delta0(D)
+    is bounded.
+
+    The Fundamental Inequality then reduces to an identity. Write
+    d(D|H) = log(m(D|H)/Pr(D|H)), the universal deficiency of D for
+    Pr(.|H). By the coding theorem,
+    -log Pr(D|H) = K(D|H) + d(D|H) + O(1), and under the universal prior
+    -log m(H) = K(H) + O(1). So the Bayesian two-part length
+    -log Pr(D|H) - log m(H) equals the ideal-MDL length K(D|H) + K(H) plus
+    d(D|H), up to O(1). By domination d(D|H) >= -K(Pr(.|.)) - O(1); it is
+    bounded above exactly when D is random for H. Selection (Theorem 4):
+    if the MDL choice H1 and the MAP choice H2 both have d <= c, then
+    L_map(H1) <= L_mdl(H2) + c + O(1) <= L_map(H2) + c + K(Pr(.|.)) + O(1),
+    so their posteriors differ by at most a factor 2^(c + K(Pr(.|.)) +
+    O(1)). Where d is large they part: 0^n has deficiency about
+    n - O(log n) for the fair coin (Example 3).
+  excluded: >-
+    "Agree only to within the complexity of the hypothesis's likelihood."
+    The paper's slack alpha = K(Pr(.|H)) + K(P) is an upper bound, and the
+    conditional form of domination gives the family's complexity
+    K(Pr(.|.)) instead, a constant over H. Nothing shows the slack must be
+    as large as K(Pr(.|H)); the title's "only" is not supported, and
+    NOTE-801's "alpha can be as large as K(H)" describes the bound, not the
+    gap. The title is restated as the identity. Recursive priors other
+    than m keep the paper's K(P) term and are not in the narrowed title.
+evidence:
+  - "LIT-225, Theorems 3-5 and 11, Examples 2-3 and Remarks 1-3, read in full in NOTE-801 (proofs step by step)."
+  - "This review's derivation of eq. 25 and Theorem 11 and of the deficiency identity (scope.accepted)."
+blockers: []
+notes: >-
+  Triage-006 scored it 2 (cites, relation); it is formal in fact. Medium
+  confidence because the conditional-domination tightening is the
+  review's, not the paper's, and rests on reading K(D|H) with H supplied as
+  the input to a fixed recursive family. The derivation takes the
+  universal semimeasure and Levin's coding theorem as given; the record
+  holds no entry for either, but the promote_when asks only for eq. 25 and
+  Theorem 11, which follow from them as shown.
+unlocks: []
+next_action: >-
+  Promote in a PR with the title restated as the deficiency identity under
+  the universal prior, and the derivation, with the correction to
+  NOTE-801's reading of alpha, as a dated note on THEORY-259. No QUESTION
+  is needed: the promote_when is met.

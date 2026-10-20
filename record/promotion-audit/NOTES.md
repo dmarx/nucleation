@@ -1252,7 +1252,7 @@ history note. THEORY-277 is requeued on this basis.
   on a single context (the constant kernel); deterministic maps do not.
   Use them for a vacuous-class example.
 - A record-own result split from a THEORY can be filed Active at once when
-  its proof is self-contained (CLAIM-370, CLAIM-tmprruzz); its decision
+  its proof is self-contained (CLAIM-370, CLAIM-384); its decision
   file is its review.
 - THEORY-162 joins THEORY-485 and THEORY-167 as entries whose next step is
   a reading task, not a review. Track reading tasks separately from the
@@ -1361,3 +1361,155 @@ history note. THEORY-277 is requeued on this basis.
   day-old proof contradicted its definition and was repaired in #237.
 - Put the recipe for a numerical counterexample in the decision file;
   scratch scripts do not survive the session.
+
+## 2026-10-19 — batch 051 (wave 3, score-2 band)
+
+- The score-2 band went 4 of 5 here. With batches 039 and 045 that is 12
+  of 15. Three of the five are formal in fact, so 6 of 14 checked score-2
+  entries are formal. Sorting by title kept predicting every outcome.
+- A possibility title ("an intervention can reproduce X without Y") is
+  settled by an existence construction. The promote_when's request to show
+  the measured cases are instances is wider than the title and moves to a
+  QUESTION (THEORY-282).
+- A promote_when asking for "a second reader's line-by-line check" is met
+  by an ADR-047 v2 re-derivation in the decision file. When the re-
+  derivation also shows the named counterexample cannot exist, no QUESTION
+  is needed (THEORY-284, -281).
+- For an "only when" over deterministic maps, check which hypotheses the
+  necessity direction actually uses. THEORY-281's needs neither disjoint
+  groups nor strict concavity; only sufficiency needs disjointness.
+- In a single-study measurement, drop any clause the source states in
+  words with no number (THEORY-272's "unless old ones are forgotten") and
+  keep the measured one (no stored pattern stable at N = 100, n = 500).
+- THEORY-302: requeue to wave 5.
+
+## 2026-10-19 — batch 052 (follow-ups)
+
+- A reading task can be done inside a batch when the source is on arXiv:
+  render the figure pages (pdftoppm) and read the plots, not the extracted
+  text, which scrambles multi-panel figures.
+- Reading the plots changed the verdict's shape, not just its confidence:
+  the captions said every measure "decreases" and the NOTE said "monotone
+  across all 21 cells"; the plots show non-monotone cells and a partial
+  collapse on ImageNet. A captions-only reading of a grid of curves tends
+  to overstate both completeness and monotonicity.
+- Check whether large drops in a training curve coincide with learning-
+  rate cuts before crediting them to the phase the paper names.
+- The THEORY-080 pattern applied cleanly a second time (THEORY-019): the
+  split CLAIM carries the proof and the THEORY keeps the reading and its
+  promote_when. Neither THEORY promotes on the split, since what remains
+  asks for a held source.
+- THEORY-019 supports CLAIM-193 and CLAIM-269. Whether they should rest on
+  the new claim instead is for their next review.
+
+## 2026-10-20 — tmp codes in the ledger
+
+- A decision file for a CLAIM filed in a batch is named by its tmp code
+  (CLAIM-tmprruzz). docs-generate concretizes the code in record/ but not
+  in record/promotion-audit, so after the filing PR merges, rename the
+  decision file and every ledger reference to the permanent code
+  (CLAIM-tmprruzz became CLAIM-384).
+
+## 2026-10-19 — batch 048 (wave 3, score-2 band)
+
+- The score-2 band went 4 of 5 (12 of 15 with batches 039 and 045). Keep
+  working through the remaining 34 by title.
+- "Approximately closed" or "to first order" in a theorem title: bound the
+  error, then check whether it vanishes uniformly or only in one regime,
+  and narrow the title to the regime (THEORY-190).
+- A promote_when that asks for a limit proof of a model's signatures,
+  where the record's own derivation is the approximation being set aside,
+  is a reading task, not a re-derivation (THEORY-188: the rigorous random-
+  hyperbolic-graph literature).
+- "Does not by itself favour X over Y" is settled by constructing a Y
+  model that meets the regularity (THEORY-166's classical model with order
+  events).
+- A mechanism verb in a measurement title ("interpret by inverting")
+  narrows to "matched" when the evidence is a fit of condition means with
+  no rival fitted (THEORY-172).
+
+## 2026-10-19 — batch 049 (wave 3, score-2 band)
+
+- The score-2 band went 4 of 5 here, 12 of 15 across batches 039, 045 and
+  049. Keep working through it by title.
+- "A symmetry implies a mirror" depends on the group containing an
+  involution with a nontrivial fixed subspace. Positive rescaling (ReLU's
+  λ > 0) contains none, so check the sign before carrying a sparsity
+  corollary (THEORY-213).
+- A weight-decay threshold for "every minimum on the symmetric subspace"
+  needs only a lower bound on the loss's Hessian, not smoothness: the even
+  function's gradient vanishes at zero, so f(z) − f(0) ≥ −(c/2)‖z‖²
+  (THEORY-213).
+- A "can" thesis about an information measure promotes by construction
+  once the title names the measure and the intervention distribution; its
+  interpretive reading moves to a QUESTION (THEORY-222).
+- Recomputing a quoted exponent from the paper's own equations is a cheap
+  check that can close the theorem route (THEORY-203's ν ≈ 1.89 against a
+  quoted 1.78).
+- Requeue THEORY-203 if THEORY-199 is promoted and the ν gap is explained
+  or a second parameter set is measured.
+
+## 2026-10-19 — batch 047 (wave 3, score-2 band)
+
+- Score-2 band: 4 of 5 here, 12 of 15 across batches 039, 045 and 047. Two
+  of the four (THEORY-030, -133) were formal in fact and both titles were
+  false as written; the other two were measurements narrowed under ADR-047
+  v3. Keep sorting by title.
+- Landauer-type titles: with reversible joint dynamics of memory and
+  environment, the floor is on the logical entropy lost, H(X | f(X)), so
+  many-to-one maps on known data have no floor either. "Learning has no
+  minimum cost" is false in Goldt and Seifert's own framework; what has no
+  floor is the heat (THEORY-030).
+- Counterfactual "exactly when" titles: check that the precondition (the
+  higher-level property is a difference-maker) is in the title, and
+  whether the condition is "would" (all nearest worlds) or "might" (some)
+  (THEORY-133).
+- "Suitably arranged" in a determination result usually means a
+  connectivity condition; state it (THEORY-117: the seen-pair graph must
+  connect every value). A span condition needed for a classifier is not
+  needed for determining the embeddings.
+- THEORY-085's CFAC - KFAC identity is the record's own one-line algebra
+  (class-weighted); file it as a demonstrated CLAIM with THEORY-019 in the
+  next follow-up batch.
+
+## 2026-10-19 — batch 050 (wave 3, score-2 band)
+
+- The score-2 band went 5 of 5 (13 of 15 across batches 039, 045 and 050).
+  Keep working through it by title.
+- When a title says two quantities agree "only to within" some term, check
+  whether the source shows the term is reached or only bounds the gap.
+  THEORY-244's entropy gap is reached (a point mass); THEORY-259's alpha
+  is only an upper bound, and the conditional form of domination replaces
+  it by the likelihood family's complexity, constant over H.
+- A promote_when that names a simulation as sufficient can often be met in
+  the review itself (THEORY-261: Kanerva's basic SDM at up to 200,000
+  locations, about 20 s per run). Record the design, seeds and results in
+  the decision file; the scripts do not survive the session.
+- For a theorem over "some labelling", look for a convexity argument that
+  covers every labelling at once before following a case analysis
+  (THEORY-271: a nonnegative affine function vanishing on half the cube
+  vanishes on a facet).
+- Jaeckel's SDM fidelity formula is slightly conservative at small p,
+  because it treats the target's own activation count as additive noise,
+  and slightly optimistic at large p, because Hamming-ball overlaps vary
+  more than Poisson. Its optimum (2MT)^(-1/3) still sits between the
+  measured and predicted optima.
+
+## 2026-10-20 — round 047-052 tally
+
+- The score-2 band went 21 of 25 (batches 047-051), so 26 of 30 with
+  batches 039 and 045. Sorting by what the title asserts predicted every
+  outcome; the misses were an argument (THEORY-302), a reading task
+  (THEORY-188), a scaling argument (THEORY-203) and the record's own
+  algebra (THEORY-085, which goes to a demonstrated CLAIM).
+- Several titles were false as written and were corrected before
+  promotion: THEORY-030 (only the heat has no floor), THEORY-133 (missing
+  difference-making condition, "would" vs "might"), THEORY-190 (closure
+  only at large separation), THEORY-259 ("only to within" was a bound).
+- A reading task can be done inside a batch when the source is on arXiv
+  (THEORY-083): render the figure pages and read the plots.
+- A promote_when that names a simulation as sufficient can be met inside
+  the review; record the design, seeds and results (THEORY-261).
+- With ten-odd PRs touching shared inactive-ok lines, conflicts recur after
+  nearly every merge. resolve_directives handles most; a hunk where one side
+  dropped a whole directive line needs a hand merge (keep the intersection).

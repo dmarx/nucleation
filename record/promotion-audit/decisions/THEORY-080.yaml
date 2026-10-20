@@ -10,7 +10,7 @@ confidence: high
 scope:
   accepted: >-
     The correction batch 036 asked for: the exact half filed as the
-    record's own claim (CLAIM-tmprruzz), and THEORY-080 pointed to it by a
+    record's own claim (CLAIM-384), and THEORY-080 pointed to it by a
     version-3 history entry, a summary sentence and a dated note.
   excluded: >-
     Promotion of THEORY-080. The spherical half rests on approximating the

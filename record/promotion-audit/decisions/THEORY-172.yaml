@@ -1,0 +1,48 @@
+# record/promotion-audit/decisions/THEORY-172.yaml
+id: THEORY-172
+batch: batch-048
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3: two studies read in full, whose text states the results.
+    Frank and Goodman (2012), LIT-821, NOTE-634 (author manuscript with
+    Supplementary Materials; the derivation S1-S4 followed and its
+    reduction to Eq. 2 checked): mean listener bets over seven context
+    types matched the parameter-free listener that inverts a size-principle
+    speaker with a separately measured salience prior at r = .99 (.87
+    without the 0 and 100 predictions), while salience alone correlated
+    r = .19 (p = .40). Bergen, Goodman and Levy (2012), LIT-809, NOTE-613:
+    with novel symbols and no conventions, listeners (40 participants) read the alien
+    symbol as the unnamed object on every trial (Experiment 1), so the
+    reading of a fixed form followed the available alternative.
+  excluded: >-
+    "Listeners interpret by inverting a model of a speaker" as the
+    mechanism: what was measured is a match of condition means to one
+    model with no competitor fitted, and a likelihood-only model is not
+    reported, so "neither the prior nor the literal meaning alone" keeps
+    only its prior half. The Horn-principle result of Experiment 2 is
+    evidence for lexical uncertainty, a further mechanism, not for the base
+    inversion, and stays in the body. Natural comprehension, speakers'
+    actual rationality, and recursion depth stay out, as the body says.
+evidence:
+  - "LIT-821, Brevia text, figure legend and Supplementary Materials, read in full in NOTE-634."
+  - "LIT-809, Experiments 1-2 and Eqs. 1-8, read in full in NOTE-613."
+blockers: []
+notes: >-
+  Sorted as a measurement: the title states how listeners interpret, and
+  the evidence is behavioural. Triage-006 scored it 2 (relation, derived);
+  the derived part is the model, not the claim about listeners. The
+  promote_when asks for preregistered, trial-level tests against named
+  rivals; under ADR-047 v3 that moves to a QUESTION, refining QUESTION-167
+  (which asks the same of the word-learning precursor).
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the two games and to "matched" rather than
+  "interpret by", keep the salience comparison, and move the promote_when
+  to a new QUESTION refining QUESTION-167.

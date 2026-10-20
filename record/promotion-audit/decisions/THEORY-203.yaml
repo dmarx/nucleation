@@ -1,0 +1,51 @@
+# record/promotion-audit/decisions/THEORY-203.yaml
+id: THEORY-203
+batch: batch-049
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: compound
+formal_in_fact: false
+scope:
+  accepted: >-
+    The setting and the annealed computation as NOTE-691 reports them: the
+    product-of-matrices form of two tokens' change statistics through
+    their lowest common ancestor (Eq. 51), and the linearisation of the
+    level-to-level belief map near its repulsive fixed point. The
+    Gaussian-field contrast (App. B) is an exact calculation: with an exact
+    score, the changed modes are those above κ*(t) = (1/α_t − 1)^(−1/a),
+    so the change length grows monotonically and χ is largest at the end.
+  excluded: >-
+    The exponent clause, which is the title's centre. ν = log s / log F′(p*)
+    comes from a scaling argument, not a derivation: it equates the
+    correlation length with the block spanned by a latent at the escape
+    depth from the unstable fixed point, inside an annealed (mean-field)
+    approximation. The decay exponent at criticality (a = 1) is fitted. The
+    record's own recomputation from Eqs. 22 and 54 at v = 32, m = 8, s = 2
+    gives ν ≈ 1.89 where the paper quotes ν ≃ 1.78, an unexplained gap
+    (NOTE-691, Limitations). So the theorem route (ADR-047 v2) is closed:
+    there is no proof to re-derive, and the numbers disagree. The measured
+    route (ADR-047 v3) is also closed: the comparison with exact BP is one
+    parameter set, and its evidence is a data collapse in Figs. 2a and 9,
+    with no table of fitted exponents in the text (the batch 019 rule).
+evidence:
+  - "LIT-886, §3, App. A.2 (Eqs. 20–54), App. B, Figs. 2 and 8–11, read in NOTE-691."
+  - "THEORY-199 (the threshold this account builds on), still Proposed."
+blockers:
+  - "The exponent rests on a mean-field scaling argument, and the record's recomputation disagrees with the paper's quoted value."
+  - "The one exact-BP comparison is a figure collapse at one parameter set."
+  - "It inherits THEORY-199's threshold, which is Proposed."
+notes: >-
+  A narrowing to what was computed exactly (the annealed product formula,
+  or the Gaussian-field contrast alone) would leave a different claim
+  from the title, not a hedged version of it. The promote_when already
+  names the decisive test: exact-BP runs at another branching s, compared
+  with ν computed from the map. Triage-006 scored it 2 (title, relation);
+  it is not formal in fact. Batch 020's sort reads it as a compound of an
+  argument and one figure.
+unlocks: []
+next_action: >-
+  Retain. Requeue if THEORY-199 is promoted and either the ν gap is
+  explained or a second parameter set is measured.

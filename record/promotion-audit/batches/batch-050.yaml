@@ -1,0 +1,88 @@
+# record/promotion-audit/batches/batch-050.yaml
+batch: batch-050
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+selection: >-
+  Five of the 44 remaining unqueued entries triage-006 scores exactly 2
+  without the philosophical-title penalty (sorted codes, positions 16-20):
+  THEORY-244, -259, -261, -267 and -271. The round 042-046 tally sent this
+  band to review sorted by what each title asserts (batch 020).
+reviewed: [THEORY-244, THEORY-259, THEORY-261, THEORY-267, THEORY-271]
+outcomes:
+  promote: [THEORY-271]
+  narrow-and-promote: [THEORY-244, THEORY-259, THEORY-261, THEORY-267]
+yield: >-
+  5 of 5 found a promotion path. THEORY-244, -259 and -271 are theorems
+  re-derived here (ADR-047 v2); THEORY-267 is one study read in full
+  (ADR-047 v3); THEORY-261 is an approximate derivation confirmed by the
+  record's own simulation, which its promote_when named as sufficient.
+  Carried out in two PRs.
+band:
+  - code: THEORY-244
+    signals: [cites, derived]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-259
+    signals: [cites, relation]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-261
+    signals: [relation, derived]
+    title_asserts: approximate derivation
+    formal_in_fact: false
+    outcome: narrow-and-promote
+  - code: THEORY-267
+    signals: [relation, derived]
+    title_asserts: measurement
+    formal_in_fact: false
+    outcome: narrow-and-promote
+  - code: THEORY-271
+    signals: [title, relation]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: promote
+band_verdict: >-
+  5 of 5 again; the score-2 band is now 13 of 15 across batches 039, 045
+  and 050. Three of the five were formal in fact. Four needed narrowing,
+  and one (THEORY-259) needed its title restated, because the
+  re-derivation showed the paper's slack is a bound, not the gap.
+finding: >-
+  Two titles carried an "only" that the source's bound does not support
+  as a lower limit (THEORY-259) or that rests on an asserted step
+  (THEORY-244's distortion-rate clause). One promote_when that asked for a
+  simulation could be met by running it (THEORY-261, about 25 minutes of
+  compute).
+owner_questions: []
+promotion_prs:
+  - "#250: THEORY-244 and THEORY-259 narrowed and promoted, THEORY-271 promoted (branch claude/promote-theories-244-259-271)."
+  - "#259: THEORY-267 and THEORY-261 narrowed and promoted (branch claude/promote-theories-267-261)."
+notes_for_ledger:
+  - >-
+    The score-2 band went 5 of 5 (13 of 15 across batches 039, 045 and
+    050). Keep working through it by title.
+  - >-
+    When a title says two quantities agree "only to within" some term,
+    check whether the source shows the term is reached or only bounds the
+    gap. THEORY-244's entropy gap is reached (a point mass); THEORY-259's
+    alpha is only an upper bound, and the conditional form of domination
+    replaces it by the likelihood family's complexity, constant over H.
+  - >-
+    A promote_when that names a simulation as sufficient can often be met
+    in the review itself (THEORY-261: Kanerva's basic SDM at up to 200,000
+    locations, about 20 s per run). Record the design, seeds and results
+    in the decision file; the scripts do not survive the session.
+  - >-
+    For a theorem over "some labelling", look for a convexity argument
+    that covers every labelling at once before following a case analysis
+    (THEORY-271: a nonnegative affine function vanishing on half the cube
+    vanishes on a facet).
+  - >-
+    Jaeckel's SDM fidelity formula is slightly conservative at small p,
+    because it treats the target's own activation count as additive noise,
+    and slightly optimistic at large p, because Hamming-ball overlaps vary
+    more than Poisson. Its optimum (2MT)^(-1/3) still sits between the
+    measured and predicted optima.

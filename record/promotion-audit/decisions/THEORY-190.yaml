@@ -1,0 +1,57 @@
+# record/promotion-audit/decisions/THEORY-190.yaml
+id: THEORY-190
+batch: batch-048
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Proved here, the closure at large separation with its error bounded
+    (ADR-047 v2). In S^1, a pair at arc distance d with hidden degrees
+    k_i, k_j links with p = 1/(1 + (d/a_ij)^beta), a_ij = mu k_i k_j, so
+    (a/d)^beta (1 - (a/d)^beta) <= p <= (a/d)^beta. Merge two blocks of r
+    angular neighbours, each of arc width at most w, into supernodes at arc
+    distance D = R dtheta' (supernode angles inside their blocks); every
+    member pair has d_ij in [D - w, D + w]. By the Bonferroni bounds the
+    union probability U satisfies sum p_ij - sum_{pairs} p p' <= U <=
+    sum p_ij, and sum_ij a_ij^beta = mu^beta (sum k_i^beta)(sum k_j^beta)
+    = (mu k' k'')^beta with k' = (sum k^beta)^{1/beta}. So
+    U = (mu k' k''/D)^beta (1 + e) with |e| <= beta w/D (1 + o(1)) plus a
+    term of order r^2 max_ij (a_ij/D)^beta. The S^1 form after
+    coarse-graining, with mu' = mu/r and R' = R/r, has D'/mu' = D/mu, so
+    p' = (mu k' k''/D)^beta (1 + O((mu k' k''/D)^beta)). Hence U/p' -> 1 as
+    D grows large against w and mu k' k'', with beta kept.
+
+    Computed here, where it does not hold: two-node blocks of equal hidden
+    degree with mu k^2 = 1, members at unit spacing (positions 0, 1 and
+    s, s + 1, supernode separation s). U/p' at s = 2, 4, 8, 16, 64 is 1.32,
+    1.18, 1.07, 1.03, 1.003 for beta = 1.5; 1.42, 1.17, 1.05, 1.01, 1.001
+    for beta = 2; 1.86, 1.23, 1.05, 1.01, 1.001 for beta = 3. Recipe:
+    U = 1 - prod over the four member pairs of (1 - 1/(1 + d^beta)),
+    p' = 1/(1 + (s/2^{2/beta})^beta).
+  excluded: >-
+    The degree flow (<k>' = r^nu <k> with nu = 2/(gamma - 1) - 1 or
+    2/beta - 1 and the phase boundaries gamma = 3, beta = 2): its closed
+    forms rest on the closure holding at every separation and on a further
+    power-law approximation, and the excess at short range above is where
+    most links lie, so the flow is not derived here. The real-network
+    self-similarity stays out, as the body says.
+evidence:
+  - "LIT-869, Appendix C, read in NOTE-673 (derivations followed, not re-derived)."
+  - "This review's bound and worked example (scope.accepted)."
+blockers: []
+notes: >-
+  The promote_when accepts either a bounded-error proof of closure or an
+  exact computation showing where it fails. The proof here covers large
+  separation and the computation shows the failure at short range, so the
+  title is narrowed to what holds; the degree-flow request moves to a new
+  QUESTION. Triage-006 scored it 2 (relation, derived); formal in fact.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to asymptotic closure at large separation with
+  the short-range excess, add the bound and the worked example as a dated
+  note, and move the degree-flow request to a new QUESTION.
