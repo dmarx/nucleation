@@ -19,7 +19,7 @@ summary: >-
   cited equivalence. Its imbalance experiment uses two to eight ImageNet
   classes per batch, not a natural long tail.
 answered_by:
-- THEORY-tmp0gm1u
+- THEORY-805
 ---
 
 # QUESTION-171: Do volume-maximizing joint-embedding objectives prefer equal-sized clusters as they are actually trained, and does the preference cost semantic transfer on naturally long-tailed data?

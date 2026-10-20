@@ -1,5 +1,8 @@
 ---
+number: 805
 status: Proposed
+formerly:
+- THEORY-tmp0gm1u
 promote_when: 'Two kinds of result, one for each half. For the prior: a derivation of the cluster-size preference for the losses as used (VICReg with its hinge variance term, SimCLR at finite temperature), or a measurement of the cluster-size distribution that trained VICReg and SimCLR models induce on data with known unequal classes. For the effect: the imbalance experiment repeated with batches sampled uniformly from a naturally long-tailed dataset, at one architecture across methods, with seeds. The account is refuted for a method if its learned partitions track unequal class sizes as well as an instance-based method''s do. What cannot settle it: more results with two-class batches, or gains from a prior matched with labels.'
 title: Volume-maximizing joint-embedding objectives as a class, VICReg and SimCLR as well as MSN and SwAV, carry a prior toward equal-sized clusters, and that prior costs them semantic transfer when the pretraining data are class-imbalanced, including on naturally long-tailed data
 version: 1
@@ -16,7 +19,7 @@ answers:
 - QUESTION-171
 ---
 
-# THEORY-tmp0gm1u: Volume-maximizing joint-embedding objectives as a class, VICReg and SimCLR as well as MSN and SwAV, carry a prior toward equal-sized clusters, and that prior costs them semantic transfer when the pretraining data are class-imbalanced, including on naturally long-tailed data
+# THEORY-805: Volume-maximizing joint-embedding objectives as a class, VICReg and SimCLR as well as MSN and SwAV, carry a prior toward equal-sized clusters, and that prior costs them semantic transfer when the pretraining data are class-imbalanced, including on naturally long-tailed data
 
 ## Source
 

@@ -27,7 +27,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-tmpnk0sx,
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-807,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
 tags:
@@ -46,9 +46,9 @@ summary: >-
   appears only as the orthocomplement used to derive the conjunction
   model from the disjunction model; no negated concept is measured.
 extended_by:
-- THEORY-tmpnk0sx
+- THEORY-807
 ---
-<!-- inactive-ok-file: THEORY-tmpnk0sx — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
+<!-- inactive-ok-file: THEORY-807 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-119 CLAIM-038 THEORY-013 — Proposed; the claims and account this bears on, named and not leaned on -->
 <!-- inactive-ok-file: LIT-316 — Unavailable; Busemeyer and Bruza, named as what would settle this, not leaned on -->
 
@@ -176,7 +176,7 @@ Written for the promotion audit's batch 018
 
 ## Note of 2026-10-20: the wider claim, filed Proposed
 
-Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-tmpnk0sx](THEORY-tmpnk0sx.md)
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-807](THEORY-807.md)
 as Proposed, extending this entry. It carries Aerts's emergence reading,
 which this entry's title carried before batch 018 narrowed it to what
 Theorem 9 forces: that the guppy-type deviations arise because a combined

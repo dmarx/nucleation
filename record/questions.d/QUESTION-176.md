@@ -20,7 +20,7 @@ summary: >-
   optimal learner's was the former promote_when, and this question holds
   it.
 answered_by:
-- THEORY-tmptwk75
+- THEORY-809
 ---
 
 # QUESTION-176: Do networks trained by gradient descent on a mixture of random facts and a second domain reach the capacity-optimal allocation, so that their threshold size and mixing ratio are the optimal learner's?

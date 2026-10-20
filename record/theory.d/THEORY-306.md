@@ -21,7 +21,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-tmp0gm1u,
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-805,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
 tags:
@@ -41,9 +41,9 @@ summary: >-
   ImageNet classes, one run per cell, not with natural long tails; the
   open half is QUESTION-171.
 extended_by:
-- THEORY-tmp0gm1u
+- THEORY-805
 ---
-<!-- inactive-ok-file: THEORY-tmp0gm1u — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
+<!-- inactive-ok-file: THEORY-805 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-306: MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one
 
@@ -144,7 +144,7 @@ needs Propositions 2 or 4, which are the sketches [NOTE-850](../notes.d/NOTE-850
 
 ## Note of 2026-10-20: the wider claim, filed Proposed
 
-Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-tmp0gm1u](THEORY-tmp0gm1u.md)
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-805](THEORY-805.md)
 as Proposed, extending this entry. It carries the general reading this
 entry's title carried before batch 033 narrowed it: that volume-maximizing
 joint-embedding objectives as a class, VICReg and SimCLR included, carry a

@@ -1,5 +1,8 @@
 ---
+number: 808
 status: Proposed
+formerly:
+- THEORY-tmpq57h3
 promote_when: 'A replication on a different family of factored generators, or under a second objective on the same data, in which the dimension and per-factor orthogonality of the learned representation are measured, and in which the noise experiment reports the loss gap between the factored and joint representations at each noise level. It is refuted by a transformer trained on a lossless factored process with room for the joint representation that settles near the joint dimension, or by a lossy process on which training reaches the joint representation without first passing near the factored one. What cannot settle it: linear decodability of each factor''s belief alone, since a representation with overlapping factor subspaces also supports accurate linear readout (App. H.1.2).'
 title: Transformers trained by next-token prediction on sequence processes whose latent dynamics factor as a tensor product learn to represent the belief state in approximately orthogonal per-factor subspaces of about the factored dimension rather than the joint one, and reach that factored representation first even when noise makes it lossy
 version: 1
@@ -16,7 +19,7 @@ answers:
 - QUESTION-157
 ---
 
-# THEORY-tmpq57h3: Transformers trained by next-token prediction on sequence processes whose latent dynamics factor as a tensor product learn to represent the belief state in approximately orthogonal per-factor subspaces of about the factored dimension rather than the joint one, and reach that factored representation first even when noise makes it lossy
+# THEORY-808: Transformers trained by next-token prediction on sequence processes whose latent dynamics factor as a tensor product learn to represent the belief state in approximately orthogonal per-factor subspaces of about the factored dimension rather than the joint one, and reach that factored representation first even when noise makes it lossy
 
 ## Source
 

@@ -1,5 +1,8 @@
 ---
+number: 807
 status: Proposed
+formerly:
+- THEORY-tmpnk0sx
 promote_when: 'A second, independent model of concept-combination data that carries the guppy-type deviations in an emergent component distinct from any operation on the two parts, and that predicts the weights of items it was not fitted to, rather than fitting one free parameter per item. It is refuted by a model with no emergent component, one that takes conjunction as some non-meet operation on the parts or drops the monotone weight, that reproduces Hampton''s over- and underextended items with no more free parameters. What cannot settle it: a better fit of Aerts''s own ℝ⁸ model, which has a free parameter per item and two angles per pair fixed by stipulated conditions.'
 title: The guppy-type overextension in Hampton's membership data arises because a combined concept is in part a new, emergent concept and not only a logical combination of its parts, so human concept combination runs in two superposed layers, one classical and logical and one quantum and conceptual
 version: 1
@@ -17,7 +20,7 @@ answers:
 - QUESTION-156
 ---
 
-# THEORY-tmpnk0sx: The guppy-type overextension in Hampton's membership data arises because a combined concept is in part a new, emergent concept and not only a logical combination of its parts, so human concept combination runs in two superposed layers, one classical and logical and one quantum and conceptual
+# THEORY-807: The guppy-type overextension in Hampton's membership data arises because a combined concept is in part a new, emergent concept and not only a logical combination of its parts, so human concept combination runs in two superposed layers, one classical and logical and one quantum and conceptual
 
 ## Source
 

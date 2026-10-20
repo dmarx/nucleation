@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**750 document(s) awaiting a decision.**
+**755 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 750.
+92 of the 755.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-425 of the 750.
+430 of the 755.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -536,11 +536,16 @@
 | 2026-10-20 | Proposed | [THEORY-802](../../record/theory.d/THEORY-802.md) | 2 | 0 | In trained networks as in constructed ones, interchange interventions on a fixed set of variables can be satisfied equally by alignments related by a change of basis, so which internal direction mediates a high-level variable is fixed only relative to a chosen decomposition into units, and complex models will generally have several distinct, fully correct abstractions |
 | 2026-10-20 | Proposed | [THEORY-803](../../record/theory.d/THEORY-803.md) | 2 | 0 | Real complex networks embedded in the hyperbolic plane are self-similar under geometric renormalization, their coarse-grained layers keeping the degree distribution, clustering and degree–degree correlations of the original, and this self-similarity is evidence that a hidden metric space underlies them |
 | 2026-10-20 | Proposed | [THEORY-804](../../record/theory.d/THEORY-804.md) | 2 | 0 | Ince's common change in surprisal is a correct measure of the redundancy among any number of sources, and the negative partial-information atoms it gives are local misinformation and mechanistic redundancy, not defects of the measure |
+| 2026-10-20 | Proposed | [THEORY-805](../../record/theory.d/THEORY-805.md) | 2 | 0 | Volume-maximizing joint-embedding objectives as a class, VICReg and SimCLR as well as MSN and SwAV, carry a prior toward equal-sized clusters, and that prior costs them semantic transfer when the pretraining data are class-imbalanced, including on naturally long-tailed data |
+| 2026-10-20 | Proposed | [THEORY-806](../../record/theory.d/THEORY-806.md) | 2 | 0 | Translation without parallel data, as of an unknown animal communication system into a human language, is learnable from a plausibility prior over the target language alone, with error falling as the common ground between the languages grows and as the source language grows richer |
+| 2026-10-20 | Proposed | [THEORY-807](../../record/theory.d/THEORY-807.md) | 2 | 0 | The guppy-type overextension in Hampton's membership data arises because a combined concept is in part a new, emergent concept and not only a logical combination of its parts, so human concept combination runs in two superposed layers, one classical and logical and one quantum and conceptual |
+| 2026-10-20 | Proposed | [THEORY-808](../../record/theory.d/THEORY-808.md) | 2 | 0 | Transformers trained by next-token prediction on sequence processes whose latent dynamics factor as a tensor product learn to represent the belief state in approximately orthogonal per-factor subspaces of about the factored dimension rather than the joint one, and reach that factored representation first even when noise makes it lossy |
+| 2026-10-20 | Proposed | [THEORY-809](../../record/theory.d/THEORY-809.md) | 2 | 0 | Language models trained by gradient descent on a mixture of random facts and other data reach the capacity-optimal allocation, so the model size and the mixing ratio at which they begin to learn the facts are those of an optimal capacity-bounded learner |
 | 2026-10-20 | Proposed | [THEORY-781](../../record/theory.d/THEORY-781.md) | 1 | 0 | Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes |
 
 ## ADRs
 
-2 of the 750.
+2 of the 755.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -549,7 +554,7 @@
 
 ## QUESTIONs
 
-9 of the 750.
+9 of the 755.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -565,7 +570,7 @@
 
 ## CLAIMs
 
-217 of the 750.
+217 of the 755.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -789,7 +794,7 @@
 
 ## CASEs
 
-1 of the 750.
+1 of the 755.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -797,7 +802,7 @@
 
 ## TERMs
 
-2 of the 750.
+2 of the 755.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -806,7 +811,7 @@
 
 ## ARGs
 
-2 of the 750.
+2 of the 755.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

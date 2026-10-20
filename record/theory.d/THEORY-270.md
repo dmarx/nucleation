@@ -22,7 +22,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-tmpliiy2,
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-806,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
 tags:
@@ -40,9 +40,9 @@ summary: >-
   theoretic only. The prior substitutes for parallel data in learning the
   decoder, not for information in a message.
 extended_by:
-- THEORY-tmpliiy2
+- THEORY-806
 ---
-<!-- inactive-ok-file: THEORY-tmpliiy2 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
+<!-- inactive-ok-file: THEORY-806 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-170 CLAIM-054 — Proposed; theories and claim this account bears on, open -->
 
 # THEORY-270: In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language and the plausibility prior are uniform over sets from which shared random nonsense is removed and translators are one-to-one, maximum likelihood with the prior alone translates without parallel data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense α, in the size of the source language and in the number of samples
@@ -145,7 +145,7 @@ knowledge-graph bound (Theorem 3.2, App. D). The title claims neither.
 
 ## Note of 2026-10-20: the wider claim, filed Proposed
 
-Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-tmpliiy2](THEORY-tmpliiy2.md)
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-806](THEORY-806.md)
 as Proposed, extending this entry. It carries the general reading this
 entry's title carried before batch 044 narrowed it to the common-nonsense
 model: that translation without parallel data, as of animal communication,

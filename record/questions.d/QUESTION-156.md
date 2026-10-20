@@ -20,7 +20,7 @@ summary: >-
   Bruza's ([LIT-316](../literature.d/LIT-316.md), unavailable) and Franco's among them, has not been
   read.
 answered_by:
-- THEORY-tmpnk0sx
+- THEORY-807
 ---
 <!-- inactive-ok-file: LIT-316 — Unavailable; named as one of the models an answer would read, not leaned on -->
 

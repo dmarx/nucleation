@@ -17,7 +17,7 @@ summary: >-
   re-derived from its appendix. The former promote_when, a bound outside the
   uniform, lossless models, is held here.
 answered_by:
-- THEORY-tmpliiy2
+- THEORY-806
 ---
 
 # QUESTION-195: Does prior-scored translation without parallel data keep an error bound that falls in the common ground and the size of the source language when the languages are not uniform or the translators are lossy?

@@ -23,7 +23,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-tmptwk75,
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-809,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
 tags:
@@ -43,9 +43,9 @@ summary: >-
 answers:
 - QUESTION-039
 extended_by:
-- THEORY-tmptwk75
+- THEORY-809
 ---
-<!-- inactive-ok-file: THEORY-tmptwk75 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
+<!-- inactive-ok-file: THEORY-809 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; partial answers to the same question, compared, not leaned on -->
 
 # THEORY-293: For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio
@@ -169,7 +169,7 @@ thresholds are the optimal learner's is [QUESTION-176](../questions.d/QUESTION-1
 
 ## Note of 2026-10-20: the wider claim, filed Proposed
 
-Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-tmptwk75](THEORY-tmptwk75.md)
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-809](THEORY-809.md)
 as Proposed, extending this entry. It carries the link this entry's title
 asserted before batch 036 narrowed it: that SGD-trained language models
 reach the capacity-optimal allocation, so their fact-learning thresholds in

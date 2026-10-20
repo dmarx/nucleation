@@ -1,5 +1,8 @@
 ---
+number: 806
 status: Proposed
+formerly:
+- THEORY-tmpliiy2
 promote_when: 'A proof of the same kind of bound outside the uniform, lossless models: for non-uniform (for instance Zipfian) source languages, or for lossy translators, an error bound that still falls in the common ground and in the size of the source language, with a lower bound to match. Or an experiment on real corpora in which the error of prior-scored translation without parallel data falls with measured common ground at the predicted rate. It is refuted for natural settings by a non-uniform model in which richer source languages do not reduce the common ground needed. What cannot settle it: further synthetic runs in the same two models, which only confirm the proofs.'
 title: Translation without parallel data, as of an unknown animal communication system into a human language, is learnable from a plausibility prior over the target language alone, with error falling as the common ground between the languages grows and as the source language grows richer
 version: 1
@@ -17,7 +20,7 @@ answers:
 - QUESTION-195
 ---
 
-# THEORY-tmpliiy2: Translation without parallel data, as of an unknown animal communication system into a human language, is learnable from a plausibility prior over the target language alone, with error falling as the common ground between the languages grows and as the source language grows richer
+# THEORY-806: Translation without parallel data, as of an unknown animal communication system into a human language, is learnable from a plausibility prior over the target language alone, with error falling as the common ground between the languages grows and as the source language grows richer
 
 ## Source
 

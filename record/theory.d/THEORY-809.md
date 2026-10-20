@@ -1,5 +1,8 @@
 ---
+number: 809
 status: Proposed
+formerly:
+- THEORY-tmptwk75
 promote_when: 'A test of the link from the optimal learner to trained networks, on the quantity the theory predicts: the threshold model size or mixing ratio, predicted in advance from the measured loss-versus-size curve of the second domain and the facts'' total entropy Htot, matched by networks trained to convergence over several seeds and several values of r, with recall rising over a width of about Htot past the threshold. It is refuted if the measured thresholds depart systematically from (1/(r·p))^(1/(α+1)), or if networks below the threshold do learn the facts given enough further training, which would make the wall a matter of dynamics and not of allocation. More sigmoid-shaped curves in r or in size are the wrong kind of evidence: they show a threshold, not that capacity allocation sets it.'
 title: Language models trained by gradient descent on a mixture of random facts and other data reach the capacity-optimal allocation, so the model size and the mixing ratio at which they begin to learn the facts are those of an optimal capacity-bounded learner
 version: 1
@@ -16,7 +19,7 @@ answers:
 - QUESTION-176
 ---
 
-# THEORY-tmptwk75: Language models trained by gradient descent on a mixture of random facts and other data reach the capacity-optimal allocation, so the model size and the mixing ratio at which they begin to learn the facts are those of an optimal capacity-bounded learner
+# THEORY-809: Language models trained by gradient descent on a mixture of random facts and other data reach the capacity-optimal allocation, so the model size and the mixing ratio at which they begin to learn the facts are those of an optimal capacity-bounded learner
 
 ## Source
 
