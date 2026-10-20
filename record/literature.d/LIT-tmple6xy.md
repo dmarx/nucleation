@@ -1,12 +1,21 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on
-  coarse-to-fine processes, which the owner relayed. No NOTE is filed. A
-  lawful open copy was found on 2026-10-20 (the `url:`) and has not been
-  read.
+  read 2026-10-20 (NOTE-tmpi32zs) in full, from the published version on
+  Chorin's Berkeley page; worth reading for the exact generalized Langevin
+  equation under three projections (conditional expectation, linear,
+  finite-rank), for computing the memory kernel from equilibrium
+  correlation functions through a Volterra equation, and for the
+  t-damping (t-model) equation dΦ/dt = R̄(Φ) + tS(Φ) with its proof that,
+  for separable Hamiltonians, it dissipates the effective energy
+  (THEORY-tmpepvai). Read it knowing that it has one 4-variable example,
+  no error bound for any approximation, no Markovian augmentation by memory
+  coordinates, that its abstract's "close to the best possible estimate"
+  holds on that example only to t ≈ 8, and that the t-model it calls a
+  short-memory approximation treats the kernel as constant over the whole
+  window.
 title: 'Optimal prediction with memory'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-19'
@@ -25,6 +34,16 @@ history:
     Monte Carlo approximation of the orthogonal dynamics and cites the need
     for memory as "previous work". An arXiv search by title and author found
     no version of this paper. Status stays Deferred.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Read in full (NOTE-tmpi32zs) from the published version at the `url:`.
+    Status Deferred → Active. THEORY-tmpepvai is filed from Theorem 8.1.
+    The summary is corrected: the paper keeps the memory term and shows on
+    one example that it is needed past a couple of oscillations, but its
+    main content is how to approximate the memory (a Volterra equation
+    from correlation functions, short-memory and t-damping forms), so the
+    summary now says so. The body's "Not read" paragraph is replaced.
 tags:
 - mathematics
 - natural-sciences
@@ -41,15 +60,14 @@ keywords:
 - 'model reduction'
 implementations: []
 summary: >-
-  Chorin, Hald & Kupferman (2002). Extends optimal prediction to keep the memory term of the Mori–Zwanzig equation, and shows on examples that the memory is needed to predict the resolved variables over longer times.
+  Chorin, Hald & Kupferman (2002). Writes the resolved variables of an ODE with uncertain unresolved initial data as an exact generalized Langevin equation (Markovian term, memory, noise) under three projections, computes the memory from equilibrium correlation functions through a Volterra equation, and introduces the t-damping (t-model) equation, whose leading-order memory term dissipates the effective energy of separable Hamiltonian systems. On one 4-variable example the memory restores the decay of the conditional mean that the Markovian equation misses. No error bounds.
 ---
 <!-- inactive-ok-file: CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # LIT-tmple6xy: Optimal prediction with memory
 
 Chorin, A. J., Hald, O. H. & Kupferman, R. (2002). Optimal prediction with memory. *Physica D* 166(3–4): 239–257. doi:10.1016/S0167-2789(02)00446-3.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in NOTE-tmpi32zs. THEORY-tmpepvai is filed from it.
 
 ## Why this is here
 
