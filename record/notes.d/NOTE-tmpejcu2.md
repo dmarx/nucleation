@@ -161,7 +161,8 @@ Lu, Lin and Chorin's Kuramoto–Sivashinsky reduction (arXiv:1509.09279), in
 their comparison of continuous and discrete-time modelling for hypoelliptic
 systems (arXiv:1605.02273), and in Lin and Lu's derivation linking NARMAX
 to a discrete Mori–Zwanzig formalism through Wiener projections
-(arXiv:1908.07725). None of these is in the record.
+(arXiv:1908.07725). Lin and Lu is since read ([LIT-tmpd20t2](../literature.d/LIT-tmpd20t2.md), [NOTE-tmpqnsb1](NOTE-tmpqnsb1.md));
+the other two are not in the record.
 
 ## Bearing on the record
 

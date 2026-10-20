@@ -13,6 +13,8 @@
 - Giri, Kwon & Novack (2023, skimmed) and Schüler & Wiskott (2025) registered and read: [THEORY-tmp6pe5a](record/theory.d/THEORY-tmp6pe5a.md) (Proposed: Onsager's negative half with a local energy inequality, in an L³-based class), [THEORY-tmpn460i](record/theory.d/THEORY-tmpn460i.md) (Active: the linear optimum of variational slow feature analysis) and [CLAIM-tmpho867](record/claims.d/CLAIM-tmpho867.md) (demonstrated: in a reversible linear Gaussian VAR(1), slow features are exactly dynamically independent).
 - Del Vecchio & Slotine (2013) registered and read: [THEORY-tmpcfuar](record/theory.d/THEORY-tmpcfuar.md) (Active: contraction bounds make the memoryless quasi-steady-state reduction accurate to O(ε) for all time, provided the reduced system contracts, a hypothesis the paper's Theorem 3 omits).
 - Isett (2017, skimmed) and Chorin & Lu (2015) registered and read: [THEORY-tmpxpm2w](record/theory.d/THEORY-tmpxpm2w.md) (Proposed: Hölder Euler flows below 1/15 with the local energy inequality, dissipating only during a final drain), [THEORY-tmpdjsgt](record/theory.d/THEORY-tmpdjsgt.md) (Proposed: a NARMAX closure of Lorenz 96) and [CLAIM-tmp5fx5d](record/claims.d/CLAIM-tmp5fx5d.md) (demonstrated: a scalar linear coarse variable of a Gaussian VAR(1) is exactly ARMA, so its memory has a finite augmentation in its own history).
+- Rosas et al. (2024) registered and read: [THEORY-tmpri29w](record/theory.d/THEORY-tmpri29w.md) (Active: informational closure, causal closure and dynamical independence coincide) and [THEORY-tmpz4ja2](record/theory.d/THEORY-tmpz4ja2.md) (Active: closure of a Markov-chain partition is strong lumpability).
+- Lin & Lu (2019) registered and read: [THEORY-tmpgukcy](record/theory.d/THEORY-tmpgukcy.md) (Active: the discrete Mori–Zwanzig identity and its Wiener-projection form) and [CLAIM-tmp511ss](record/claims.d/CLAIM-tmp511ss.md) (demonstrated: a scalar process's Mori memory is fixed by its autocovariance, with Hankel rank one less).
 
 ### Changed
 
@@ -26,6 +28,8 @@
 - [THEORY-661](record/theory.d/THEORY-661.md), [QUESTION-222](record/questions.d/QUESTION-222.md) and [THEORY-tmp5mn7l](record/theory.d/THEORY-tmp5mn7l.md) cite Del Vecchio & Slotine.
 - [THEORY-tmp5mn7l](record/theory.d/THEORY-tmp5mn7l.md) (Bousquet & Slotine) is promoted to Active at the owner's direction, on re-derivations recorded in record/promotion-audit/decisions/[THEORY-tmp5mn7l](record/theory.d/THEORY-tmp5mn7l.md).yaml; the entries that cited it as Proposed are updated.
 - [QUESTION-219](record/questions.d/QUESTION-219.md), [THEORY-tmpnvuqr](record/theory.d/THEORY-tmpnvuqr.md) and [THEORY-tmp6pe5a](record/theory.d/THEORY-tmp6pe5a.md) cite Isett's globally dissipative flows; [QUESTION-222](record/questions.d/QUESTION-222.md) cites Chorin & Lu and the ARMA claim.
+- [QUESTION-218](record/questions.d/QUESTION-218.md), [QUESTION-221](record/questions.d/QUESTION-221.md), [CLAIM-388](record/claims.d/CLAIM-388.md), [THEORY-755](record/theory.d/THEORY-755.md), [CLAIM-tmpho867](record/claims.d/CLAIM-tmpho867.md) and [NOTE-124](record/notes.d/NOTE-124.md) cite the reading of Rosas et al.
+- [QUESTION-222](record/questions.d/QUESTION-222.md), [CLAIM-389](record/claims.d/CLAIM-389.md), [CLAIM-tmp5fx5d](record/claims.d/CLAIM-tmp5fx5d.md) and [NOTE-tmpejcu2](record/notes.d/NOTE-tmpejcu2.md) cite the reading of Lin & Lu.
 
 ### Fixed
 

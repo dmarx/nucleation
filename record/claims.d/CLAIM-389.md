@@ -77,3 +77,13 @@ not it started inside. A coarse variable can receive news it never sent.
   an invariant measure, the reading derives that zero memory, zero noise
   and exact closure coincide. That is a different statement, with no noise
   injected from outside, and it is recorded in the NOTE, not here.
+
+## Note of 2026-10-20: why "not conversely"
+
+For any scalar stationary process, Mori's memory for the projection onto
+the current value is a functional of the process's own autocovariance, and
+vanishes iff that autocovariance is geometric ([CLAIM-tmp511ss](CLAIM-tmp511ss.md), from the
+reading of Lin and Lu, [NOTE-tmpqnsb1](../notes.d/NOTE-tmpqnsb1.md)). Memory is a property of Y's own law;
+dependence is a property of its joint law with the rest of the system. So
+no memory measure can detect dependence, which is the structural reason
+the converse fails.

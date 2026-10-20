@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpkoi6k
 title: 'Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -13,6 +13,10 @@ history:
     (NOTE-979): in the same system every partition is column-equitable,
     so the vector of block sums closes though no block does. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The note of 2026-10-20 gains the Markov-chain counterpart, from the reading of Rosas et al. (NOTE-tmpvlpd4): with uniform weights every partition is strongly lumpable. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -112,3 +116,8 @@ the pair of block sums was 0 to machine precision, and into one block sum
 about the sum of all units, stands. What changes is [QUESTION-218](../questions.d/QUESTION-218.md): its
 choice between "a subset of members" and "a function of the whole state"
 leaves out the equitable partition.
+
+The same holds for Markov chains. With uniform weights every partition is
+strongly lumpable, so every block label is closed ([THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md)), and
+Rosas et al.'s "modular" random walk closes at every ratio of between- to
+within-module rates, by symmetry rather than modularity ([NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md)).

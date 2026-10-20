@@ -27,7 +27,10 @@ answered_by:
 - THEORY-tmpcfuar
 - THEORY-tmpdjsgt
 - CLAIM-tmp5fx5d
+- THEORY-tmpgukcy
+- CLAIM-tmp511ss
 ---
+<!-- inactive-ok-file: NOTE-tmpqnsb1 — new reading, cited as where CLAIM-tmp511ss was derived -->
 <!-- inactive-ok-file: THEORY-tmpdjsgt — Proposed; the Lorenz 96 finding, cited as partial -->
 <!-- inactive-ok-file: LIT-1245 LIT-1251 LIT-1253 LIT-1259 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -115,6 +118,20 @@ representation-invariant measure of emergence."
   error of truncating to AR(p) fell at a rate set by the moving-average
   zero, not by the eliminated dynamics' spectrum; three projections gave
   three memory lengths, as A3 cautioned.
+- Lin and Lu (2019, [LIT-tmpd20t2](../literature.d/LIT-tmpd20t2.md), [NOTE-tmpqnsb1](../notes.d/NOTE-tmpqnsb1.md)) prove the discrete
+  Mori–Zwanzig identity exactly for any projection, and, for the Wiener
+  projection onto the whole past of the resolved variables under a
+  measure-preserving invertible map, that the memory term vanishes and the
+  next state is a causal Wiener filter of the past ([THEORY-tmpgukcy](../theory.d/THEORY-tmpgukcy.md),
+  Active). Their step to NARMAX is a heuristic rational approximation
+  with no error bound. In the linear Gaussian VAR(1) the filter is exactly
+  rational, and its pole, the moving-average zero, sets the truncation
+  rate. Mori's memory for a scalar variable is fixed by its own
+  autocovariance and has Hankel rank one less than it ([CLAIM-tmp511ss](../claims.d/CLAIM-tmp511ss.md)).
+  So every stationary variable has an own-history representation in
+  second order; having one marks nothing. What can mark a level is that
+  the micro past does not predict the residual ([THEORY-257](../theory.d/THEORY-257.md)'s test), or that
+  the representation is finite.
 
 ## What would count as an answer
 

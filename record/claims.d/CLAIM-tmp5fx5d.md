@@ -66,8 +66,10 @@ coordinator.
 ## What it does not say
 
 - **Not the minimal order.** That the ARMA order equals 1 plus the Hankel
-  rank of the M_j held in four checked cases ([NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md)) and is not
-  proved here.
+  rank of the memory is not proved here. It is proved, for every scalar
+  stationary process with rational autocovariance, in [CLAIM-tmp511ss](CLAIM-tmp511ss.md). The
+  ARMA state is a finite realization of the Wiener filter of
+  [THEORY-tmpgukcy](../theory.d/THEORY-tmpgukcy.md).
 - **Not a bound for truncation.** Dropping the moving-average part leaves
   an AR(p) model whose extra error fell geometrically, at a rate set by
   the moving-average zero, in one example. That rate is neither an

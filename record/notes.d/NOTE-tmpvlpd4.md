@@ -1,0 +1,412 @@
+---
+status: Read
+paper: 'LIT-tmpcw129'
+title: 'Rosas et al. — Software in the natural world'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Read in full from the arXiv PDF, v2 (5 June 2024, 33 pages), text
+    extracted with pdftotext in raw and layout modes. Read: the
+    introduction, §II on software and ε-machines, §III's overview, all six
+    case studies of §IV, the discussion, and the whole appendix: Lemmas
+    1–4, Definitions 1–7, Propositions 1–4, Theorems 1–3, Examples 1–3
+    and Counterexamples 1–7, with every proof given. Lemma 4 is cited from
+    Geiger and Temmel, not proved, and was re-derived here in the
+    direction used. Figures were read from their captions and the text;
+    Fig. 4 and Fig. 13 were partly recoverable as text. Some displayed
+    equations were garbled by extraction and were reconstructed from the
+    layout text and the surrounding prose: (A.10) and (A.27) from the
+    layout rows, (A.22)–(A.26) and (A.31)–(A.36) from the proof steps.
+    v1 (14 February 2024) was not compared.
+date: '2026-10-20'
+summary: >-
+  Three exact closures of a coarse-graining Z of a stationary discrete process X, built from computational mechanics. Informational closure (the micro past adds nothing to predicting Z, which is Barnett–Seth dynamical independence) is proved equivalent to causal closure (Z's ε-machine equals its υ-machine). For spatial maps it implies computational closure (Z's ε-machine is a coarse-graining of X's), and the converse fails. For Markov chains closure is tied to strong lumpability. The proofs of the main equivalences hold, re-derived in [THEORY-tmpri29w](../theory.d/THEORY-tmpri29w.md) and [THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md). The lattice claims are asserted and in part false. Several examples contain slips. The modular random walk closes by symmetry, not modularity. Nothing is said about approximate closure.
+---
+<!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1126 — Deferred; the computational-mechanics source the paper builds on, registered unread -->
+<!-- inactive-ok-file: CLAIM-tmpho867 — new claim from a parallel reading, cited for comparison -->
+# NOTE-tmpvlpd4: Rosas et al. — Software in the natural world
+
+## Contribution
+
+It gives one framework for three ways a coarse-graining can be
+self-contained, and proves how they relate. **Informational closure**
+means the micro past adds nothing to predicting the macro future.
+**Causal closure** means the macro's own ε-machine is as fine as its
+υ-machine, the minimal machine that predicts the macro from the micro.
+**Computational closure** means the macro's ε-machine is a coarse-graining
+of the micro's. The first two are equivalent. For spatial coarse-grainings
+they imply the third, which does not imply them. For Markov chains, the
+paper ties them to Kemeny–Snell strong and weak lumpability, applied to
+the micro ε-machine. On that basis it proposes the lattice of strongly
+lumpable coarse-grainings of the micro ε-machine, with computationally
+equivalent ones identified, as a system's "functional architecture".
+
+## Key insight
+
+A macro variable is closed when every difference in the micro past that
+matters for its future is already visible in its own past. In
+computational-mechanics terms, the two partitions of micro pasts coincide.
+One is what predicts Z from X. The other is what predicts Z from Z. That
+single condition is at once informational (no transfer entropy into Z),
+interventional in the Granger sense (setting Z's past is all the control
+over Z's future there is), and, for maps of the present state,
+computational (the macro machine is a quotient of the micro machine). For
+Markov chains it is a condition on transition rows: every micro state in a
+block must send the same probability into each block. That is a symmetry
+condition, not a weak-coupling one.
+
+## Assumptions
+
+- X is a stationary stochastic process in discrete time with a discrete
+  alphabet. Markov is not assumed, except in §7 on lumpability.
+- A coarse-graining is Z_t = g(X⃗_t), a deterministic function of the
+  infinite past (spatio-temporal), or Z_t = f(X_t) (spatial). Several
+  results hold only for spatial ones.
+- Causal states are equivalence classes of infinite pasts with equal
+  conditional future laws at every horizon L. The proofs treat classes as
+  having positive probability. The measure-theoretic details for
+  uncountably many pasts are not addressed.
+- §7: for Proposition 4, X is a stationary, irreducible, aperiodic Markov
+  chain. Theorem 3's parts 3–4 take the micro ε-machine irreducible and
+  aperiodic. The cited Lemma 4 (Geiger and Temmel, Thm. 9) needs a finite
+  state space (footnote 109). That is not stated for ε-machines, which can
+  be infinite.
+- "Causal" is used in the computational-mechanics sense. The paper says
+  causal states give counterfactual guarantees only if X is fully
+  observed, and otherwise "in the Granger sense".
+
+## Key results
+
+Notation: Z⃗ᴸ_{t+1} = (Z_{t+1}, …, Z_{t+L}); E, E′ and U are the causal
+states of X's ε-machine, Z's ε-machine and Z's υ-machine.
+
+- **Definition 2 (υ-machine).** x⃗ ≡_υ x⃗′ iff p(z⃗ᴸ_{t+1} | x⃗) =
+  p(z⃗ᴸ_{t+1} | x⃗′) for all L.
+  **Proposition 1:** U is prescient, I(U_t; Z⃗ᴸ) = I(X⃗_t; Z⃗ᴸ), and is a
+  coarse-graining of any other prescient coarse-graining of X⃗. *Proved*,
+  by strict convexity of KL. A shorter route: if D is a function of X⃗ and
+  prescient, then I(X⃗; Z⃗ᴸ | D) = 0, so pasts in one D-class share
+  conditionals.
+- **Lemma 2.** I(U_t; Z⃗ᴸ) ≥ I(E′_t; Z⃗ᴸ), by data processing. *Proved.*
+  Counterexamples 1–2 show that E′ can have infinitely many states while E
+  and U have two. So E′ need not be a coarse-graining of E or of U.
+- **Definition 3 (causal closure):** E′ and U induce equivalent
+  partitions. **Definition 4 (informational closure):**
+  I(X⃗_t; Z⃗ᴸ_{t+1} | Z⃗_t) = 0 for all L.
+- **Theorem 1.** For any Z_t = g(X⃗_t), causal closure ⟺ informational
+  closure ⟺ I(U_t; Z⃗ᴸ) = I(E′_t; Z⃗ᴸ) for all L. *Proved*, and re-derived
+  in [THEORY-tmpri29w](../theory.d/THEORY-tmpri29w.md).
+- **Proposition 2.** For spatial Z, U is a coarse-graining of E, via
+  p(z⃗ᴸ | x⃗) = Σ_{x⃗ᴸ ∈ f⁻¹(z⃗ᴸ)} p(x⃗ᴸ | x⃗). *Proved.* Its further claim,
+  that the υ-machines "form a lattice … homomorphic to the lattice of
+  coarse-grainings", is shown only to be order-preserving. It does not
+  preserve meets (see the Limitations).
+- **Definition 5 / computational closure.** Z_t = g(X⃗_t) is
+  computationally closed iff E′_t = f*(E_t) for some f*.
+  **Theorem 2:** a spatial, causally closed Z is computationally closed,
+  so coarse-graining and taking the ε-machine commute. *Proved*:
+  E′ ≅ U = f′(E). **Counterexample 4** shows the converse is false, and was
+  checked here. P has rows (½, ½, 0, 0), (0, 0, ½, ½), (½, ½, 0, 0),
+  (0, 0, ½, ½), with Z merging {1, 2} and {3, 4}. Z is i.i.d., so E′ is
+  trivial and Z is computationally closed. The transfer entropy into Z is
+  1 bit.
+- **Lemma 3.** A computationally closed spatial Z with
+  Δ(X, Z) = I(X⃗; X⃗⁺) − I(Z⃗; Z⃗⁺) = 0 is computationally equivalent to X.
+  *Proved.*
+- **Proposition 3.** I(X⃗_t; X⃗_{t+1}) = Σ_k Δ(Zᵏ, Zᵏ⁺¹) for a nested
+  chain from X to the constant. *True, but a telescoping identity* (see
+  the Limitations).
+- **Definition 7 (lumpability).** Strong: f(X_t) is Markov, with the same
+  transitions, for every initial law. Weak: for at least one.
+  **Lemma 4** (cited): for a stationary, irreducible, aperiodic chain,
+  strong lumpability ⟺ H(Z_{t+1}|Z_t) = H(Z_{t+1}|X_t), and weak
+  lumpability ⟺ H(Z_{t+1}|Z_t) = H(Z_{t+1}|Z⃗_t).
+- **Proposition 4.** A strongly lumpable spatial Z of such a chain is
+  informationally closed. An informationally closed Z that is Markov is
+  strongly lumpable. *Proved*, given Lemma 4. Re-derived in
+  [THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md) without aperiodicity, and without irreducibility for the
+  first half.
+- **Counterexamples 6–7.**
+  - 6: a deterministic 4-cycle with Z merging pairs. Z is closed and
+    second-order Markov, but not first-order lumpable.
+  - 7: X strongly 2-lumpable, but Z not closed. It has
+    H(Z_{t+1}|Z_t, Z_{t−1}) ≈ 0.733 and H(Z_{t+1}|X_t) ≈ 0.552. Checked
+    here: 0.7329 and 0.5521, with the transfer entropy 0.1808 bits at both
+    2 and 6 steps of history.
+- **Theorem 3.** For the micro ε-machine E:
+  - (1) computational closure ⇒ E weakly lumpable with respect to f*;
+  - (2) E weakly lumpable with respect to f ⇒ f(E) computationally
+    closed;
+  - (3) for irreducible, aperiodic E, a spatial, informationally closed Z
+    ⇒ E strongly lumpable with respect to f*;
+  - (4) E strongly lumpable with respect to f ⇒ f(E) informationally
+    closed.
+  *Proved.* (3) is re-derived in [THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md) by a shorter route.
+- **Case studies.**
+  - Rule 150 parity is a non-trivial invariant; rule 60 parity is a
+    trivial one.
+  - The Ehrenfest count is strongly lumpable (Kemeny and Snell).
+  - Glauber energy, under a permutation-invariant Hamiltonian, is said to
+    close.
+  - The module label of a random walk closes, and so does the module-size
+    class above it, making three nested levels.
+  - Agent counts on a graph close under the conditions of Geiger et al.
+    (2023).
+  - Hopfield pattern overlaps Z^μ = (1/n)Σᵢ p^μᵢ X^i close, because every
+    neuron's input is h_j = Σ_μ p^μ_j Z^μ.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Informational and causal closure are the same condition for every coarse-graining of the past | strong | Theorem 1 with proof; re-derived in [THEORY-tmpri29w](../theory.d/THEORY-tmpri29w.md) |
+| C2 | For spatial coarse-grainings, informational/causal closure implies computational closure, and not conversely | strong | Theorem 2 and Counterexample 4; both checked |
+| C3 | Spatiality is needed for C2 | strong as a statement, but the paper's Counterexample 5 is wrong | Z_t = X_{t−1} is not closed; a corrected counterexample is in [THEORY-tmpri29w](../theory.d/THEORY-tmpri29w.md) |
+| C4 | For an irreducible Markov chain, strong lumpability implies closure, and closure with a Markov macro implies strong lumpability; weak lumpability does not imply closure | strong | Proposition 4, Counterexample 4; re-derived in [THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md) |
+| C5 | Informational closure of a spatial Z is equivalent, through the micro ε-machine, to strong lumpability of that machine | moderate | Theorem 3 (3)–(4). Part 4 yields a spatio-temporal Z, so the "if and only if" of §III D overstates it, and finiteness of E is assumed silently |
+| C6 | The closed spatial coarse-grainings form a sublattice of all coarse-grainings, mapped homomorphically to a lattice of ε-machines | weak, and false as stated | asserted in §III E and Theorem 2's proof, not proved; a counterexample is in the Limitations |
+| C7 | The lattice of strongly lumpable coarse-grainings of the micro ε-machine, modulo computational equivalence, is the "natural blueprint" of a system's functional architecture | weak | a proposal, argued from two examples (an i.i.d. noise component is closed but trivial; two copies are closed twice) |
+| C8 | Informational closure is more "robust" than computational closure, because weak lumpability depends on the initial law | moderate | follows from C4 and Theorem 3, informally stated |
+| C9 | The energy of a Glauber Ising model with a permutation-invariant Hamiltonian is causally closed | weak; false in general | "it is possible to show" (12), no proof; fails with a uniform field (Limitations) |
+| C10 | Causally closed levels can be controlled optimally by macroscopic interventions, which may explain how macroscopic organisms act effectively | weak | interpretive; holds only in the Granger sense when X is not fully observed, by the paper's own caveat |
+
+## Method
+
+None beyond the formalism. Every result is exact and analytic. No
+estimator is given, and the authors list estimation of large ε-machines
+as the main obstacle to applying the theory. They point to lumpability
+algorithms (Derisavi et al.; Barr and Thomas; Jacobi and Görnerup), to
+quasi-lumpability methods (Jacobi's spectral method; Geiger et al.'s KL
+aggregation), and to annealing to avoid trivial lumpings. These would be
+applied to the causal-state chain, not to the raw states.
+
+## Concepts
+
+- **Coarse-graining**: Z_t = g(X⃗_t), a deterministic function of the
+  past; **spatial** if Z_t = f(X_t). Z⁽¹⁾ ⪰ Z⁽²⁾ when Z⁽¹⁾ is a
+  coarse-graining of Z⁽²⁾.
+- **ε-machine**: the causal states of a process and their unifilar
+  transitions. It is read two ways: as a hidden Markov model (the "causal
+  face") and as a deterministic automaton driven by the data (the
+  "computational face").
+- **υ-machine** ("underlying"): the causal states of the micro past with
+  respect to the macro future, i.e. the coarsest prescient partition of X⃗
+  for Z⃗⁺.
+- **Informational closure**: X⃗_t → Z⃗_t → Z⃗_{t+1} is a Markov chain.
+  The paper credits it to Bertschinger et al. and to Chang et al.
+- **Causal closure**: Z's ε-machine and υ-machine are equivalent.
+- **Computational closure**: the causal states of Z are a function of
+  those of X. Defined first for automata: coarse-grainings of inputs and of
+  states that leave the automaton deterministic.
+- **Computational equivalence**: two coarse-grainings with equivalent
+  ε-machines.
+- **Strong / weak lumpability**: as in Kemeny and Snell §6.3–6.4.
+  Strong lumpability is equivalent to a row condition: Σ_{y∈C} P(x, y)
+  takes the same value for every x in a block.
+- **Δ_L(X, Z)**: I(X⃗; X⃗ᴸ) − I(Z⃗; Z⃗ᴸ), the information "processed in
+  X but not in Z".
+
+## Connections
+
+The paper takes Barnett and Seth's dynamical independence ([LIT-979](../literature.d/LIT-979.md),
+"from which it takes direct inspiration") and adds computational
+mechanics: Crutchfield and Young; Shalizi and Crutchfield ([LIT-1126](../literature.d/LIT-1126.md),
+registered unread). It credits Pfante, Bertschinger, Olbrich, Ay and Jost
+(2014) with the equivalence of informational closure and "commutativity"
+for Markov spatial coarse-grainings, and generalizes it to non-Markov
+processes and spatio-temporal maps. The lumpability results rest on
+Kemeny and Snell and on Geiger and Temmel (2014). It does not use the
+whole-minus-sum Ψ criterion of the same group's "Reconciling emergences"
+([LIT-1244](../literature.d/LIT-1244.md)), and contrasts itself with information-only criteria
+of emergence in general.
+
+## Bearing on the record
+
+- **[THEORY-733](../theory.d/THEORY-733.md) and [THEORY-257](../theory.d/THEORY-257.md).**
+  - Informational closure is Barnett–Seth dynamical independence with
+    no environment. The paper asserts this ("Dynamical independence
+    proposes to identify emergent macroscopic process via information
+    closure") but never shows it, since its Definition 4 asks for every
+    horizon L. The reduction to one step is made here ([THEORY-tmpri29w](../theory.d/THEORY-tmpri29w.md)):
+    by the chain rule, monotonicity and stationarity, the all-L condition
+    holds iff I(Z_{t+1}; X⃗_t | Z⃗_t) = 0.
+  - So Theorem 1 gives Barnett–Seth's condition two further readings. It
+    is causal closure, in the Granger sense. For spatial maps it is also
+    computational closure.
+  - The linear Gaussian counterpart of strong lumpability, "p(Y_{t+1} | X_t)
+    depends on X_t only through Y_t", is L A = B L. With Σ ≻ 0, [THEORY-733](../theory.d/THEORY-733.md)
+    shows that closure forces it, so a closed linear Y is always Markov.
+    In finite chains it need not be: X_t = (Z_t, Z_{t−1}), with Z
+    second-order Markov, makes Z closed and not first-order Markov. The
+    difference comes from Σ ≻ 0, which excludes exact delayed copies.
+  - For [THEORY-257](../theory.d/THEORY-257.md)'s reading that the dynamics fix the emergent
+    variables, the paper adds an objection: closure overcounts. An i.i.d.
+    noise component is closed, and so is each of two copies of a process.
+    It screens these by computational triviality and equivalence. That is
+    a criterion beyond closure, and it is not about locality.
+- **[THEORY-755](../theory.d/THEORY-755.md).** Kemeny–Snell strong lumpability is [THEORY-755](../theory.d/THEORY-755.md)'s
+  column-equitability for the forward operator A = Pᵀ of the master
+  equation p_{t+1} = Pᵀp_t:
+  Σ_{i∈C_I} (Pᵀ)_{ij} = P(j → C_I), equal for all j ∈ C_J.
+  So [THEORY-755](../theory.d/THEORY-755.md) is, for Markov chains, the statement that the block
+  occupation probabilities close for every initial law iff the partition is
+  strongly lumpable. By Proposition 4, the block label is then
+  informationally closed. The join is the record's ([THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md)). Weak
+  lumpability is closure from one initial law only. It does not give
+  dynamical independence, as Counterexample 4 shows (1 bit).
+- **[CLAIM-388](../claims.d/CLAIM-388.md) and [QUESTION-218](../questions.d/QUESTION-218.md).**
+  - The paper's "random walk over modular networks" is presented as
+    modular (r_w ≫ r_b). Its closure uses only the uniformity of the
+    weights. Checked: with three modules of sizes 3, 3 and 2 and q = 0.5,
+    the module label is exactly closed (transfer entropy ≤ 2 × 10⁻¹⁶) at
+    r_b/r_w = 0.01, 1 and 3. At r_b = r_w, every one of 50 random
+    partitions of the eight nodes into two or three groups was strongly
+    lumpable.
+  - That is [CLAIM-388](../claims.d/CLAIM-388.md)'s point in a discrete-state system: closure
+    without any weakly coupled block.
+  - Its other closed variables are orbit partitions under a permutation
+    symmetry, i.e. equitable partitions: the Ehrenfest count, Curie–Weiss
+    magnetization (and energy, when it closes), agent counts, and the
+    module-size class.
+  - On [QUESTION-218](../questions.d/QUESTION-218.md)'s choice of unit, the paper's answer is a function of
+    the whole state, taken up to computational equivalence. Its proposed
+    unit is the ε-machine of a level, not the variable. It gives no
+    independent mark of unity. It takes closure as sufficient by
+    stipulation ("we explore the consequences of taking this condition to
+    be also sufficient"). Its noise example shows that closure alone is
+    too cheap to mark a system.
+- **[QUESTION-221](../questions.d/QUESTION-221.md).** Nothing approximate. The paper names
+  quasi-lumpability methods (Jacobi's spectral method for "lumpings and
+  meta stable states"; KL aggregation) and gives no bound.
+  - One observation here, not a rate: with the same walk, weights
+    jittered by up to 5% and five seeds, the transfer entropy into the
+    module label was 2.9 × 10⁻⁸ bits at r_b = 0.001, 2.7 × 10⁻⁷ at 0.01,
+    1.9 × 10⁻⁶ at 0.1 and 3.9 × 10⁻⁶ at 1.
+  - In this one family, then, near-decomposability shrinks the closure
+    defect of a nearly lumpable partition, roughly in proportion to r_b at
+    fixed relative jitter. The question stays open.
+- **[CLAIM-tmpho867](../claims.d/CLAIM-tmpho867.md).** The paper says nothing on slowness. The
+  record's link: strong lumpability is invariance of the span of block
+  indicators under P, the discrete counterpart of [THEORY-733](../theory.d/THEORY-733.md)'s invariant
+  row space.
+  - Any right eigenvector φ of any chain closes in conditional mean,
+    E[φ(X_{t+1}) | X_t] = λφ(X_t).
+  - Informational closure needs the whole law, so a slow eigenfunction
+    gives a closed partition only when it is piecewise constant. In
+    [CLAIM-tmpho867](../claims.d/CLAIM-tmpho867.md)'s reversible linear Gaussian case, Gaussianity turns
+    closure in mean into closure in law. Outside it, slowness gives
+    metastability, the quasi-lumpability the cited spectral methods find,
+    not exact closure.
+- **[THEORY-756](../theory.d/THEORY-756.md), [THEORY-743](../theory.d/THEORY-743.md), [LIT-1240](../literature.d/LIT-1240.md).** Proposition 1 applies to
+  the υ-machine the same minimality [THEORY-756](../theory.d/THEORY-756.md) states for causal states:
+  the coarsest prescient partition, here prescient for the macro future
+  only. The paper notes the information-bottleneck reading of causal
+  states, which [THEORY-743](../theory.d/THEORY-743.md) makes exact for memoryless transduction.
+- **[THEORY-764](../theory.d/THEORY-764.md).** That entry's Ψ and dynamical dependence come from the
+  same group's earlier framework. This paper keeps closure and drops Ψ.
+- **[CLAIM-389](../claims.d/CLAIM-389.md).** Counterexample 4 is the discrete counterpart of
+  [CLAIM-389](../claims.d/CLAIM-389.md)'s last clause: a coarse variable that is Markov (here i.i.d.)
+  in its own law and still dynamically dependent.
+- **[NOTE-124](NOTE-124.md)** recorded the work as "not held". It now is.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Sublattice claim false for closed coarse-grainings.** Let
+  X_t = (A_t, B_t, C_t) be three bits, with A_{t+1} and C_{t+1} fresh fair
+  bits and B_{t+1} = A_{t+1} ⊕ C_t. A and B are each strongly lumpable,
+  since every state sends probability ½ to each value. So each is
+  informationally closed. Their common refinement (A, B) is not:
+  A_{t+1} ⊕ B_{t+1} = C_t is known to X_t and hidden from the past of
+  (A, B). Checked: the transfer entropy is 0 into A, 0 into B and 1 bit
+  into (A, B), at one, two and three steps of history. So the closed
+  spatial coarse-grainings are not closed under meets. The υ-machine map
+  of Proposition 2 does not preserve them either: U_A and U_B are
+  trivial, while U_{(A,B)} = C_t. The order-preserving part of Prop. 2
+  holds.
+- **Counterexample 5 is wrong.** It claims Z_t = X_{t−1} is informationally
+  closed for a Markov X. But X⃗_t contains Z_{t+1} = X_t, and Z⃗_t =
+  X⃗_{t−1} does not. So I(X⃗_t; Z_{t+1} | Z⃗_t) = H(X_t | X_{t−1}) > 0
+  unless X is deterministic. In (A.13) the two entropies are subtracted in
+  the wrong order, and their difference is −H(X_t | X⃗_{t−1}), not 0. The
+  point it was meant to make survives with Z_t = (X_t, X_{t−1}) for an
+  i.i.d. X. That Z is closed, its causal state is X_t, and X's ε-machine
+  is trivial ([THEORY-tmpri29w](../theory.d/THEORY-tmpri29w.md)). The example also cites "Theorem 2" for
+  closure ⇒ causal closure, which is Theorem 1.
+- **(A.11) has the wrong states.** For the printed matrix,
+  p(Z_{t+1} = A | X_t = x) = 1 for x ∈ {1, 3}, not {1, 4}. The conclusion,
+  1 bit of transfer entropy, is unaffected (checked).
+- **Example 2's i.i.d. condition is wrong.** It says Z is not i.i.d. "if
+  p(c|a) ≠ 1/2 or p(c|c) ≠ 1/2". Given p(c|a) = p(c|b), Z is i.i.d. iff
+  p(c|a) = p(c|c), at any value. Checked at 0.3: H(Z_{t+1}|Z_t) =
+  H(Z) = 0.881 bits.
+- **The Ising energy claim (12) fails in general.** A Curie–Weiss
+  Hamiltonian −(J/2n)(Σs)² − hΣs is permutation-invariant, as footnote
+  62 asks. The up-count closes, since it is an orbit partition.
+  - The energy is a function of the up-count. With h = 0, or when that
+    function is injective, it closes. With n = 6, J = 1, β = 0.7 and
+    h = 1/6, the counts 2 and 3 (and two other pairs) share an energy and
+    have different energy transitions: the within-level spread of
+    p(E_{t+1} | k) is 0.157.
+  - The transfer entropy into the energy was 0.0099 bits with six steps
+    of energy history (an upper bound on the infinite-history value). A
+    filtering estimate over 4 × 10⁵ steps put the infinite-history value
+    near 0.006 bits.
+  - So the energy is not closed there. The stated sufficient condition is
+    not sufficient.
+- **The modular walk's (14) is misstated.** It omits the 1 − q of staying
+  put and the exclusion of the current node. The true probability of
+  staying in the module is 1 − q + q r_w(|c_x| − 1)/φ(c_x). It depends
+  only on the module, so the conclusion stands. Modularity plays no part
+  in it (see above).
+- **Proposition 3 is a telescoping identity.** Σ_k [I(Zᵏ⃗; Zᵏ⁺) −
+  I(Zᵏ⁺¹⃗; Zᵏ⁺¹⁺)] sums to I(X⃗; X⃗⁺) − 0 for any nested chain, closed
+  or not. Closure is needed only for reading each term as
+  I(X⃗; Zᵏ⁺ | Zᵏ⁺¹⁺), information processed "in isolation" at level k.
+  The proposition assumes computational closure, while the proof uses
+  informational closure.
+- **Theorem 3's hypotheses.** Parts 1–2 define weak lumpability as
+  Markov for some initial law. The proof needs Markov under the
+  stationary law, and silently takes the two to be the same. Parts 3–4
+  rely on Lemma 4, which is for finite chains. Part 4's Z = f(E) is a
+  spatio-temporal coarse-graining of X, so it does not give the
+  "if and only if" for spatial levels claimed in §III D.
+- **Hopfield is not classified.** The micro causal state is the law of
+  X_{t+1} given X_t, which depends only on the input vector h = W̃Z.
+  With linearly independent patterns and g strictly monotone, X's causal
+  states are therefore in bijection with the reachable values of Z. Z is
+  then computationally equivalent to X, class (b) of the paper's
+  Fig. 7, not a sub-computation. This is the record's reading and was not
+  checked numerically. The input-potential formula (15) also has an index
+  slip, w_ij X^j for w_ij X^i.
+- **Exact only.** No estimator, no approximate closure, no bound linking
+  near-lumpability to near-closure.
+- **Discrete and stationary.** Continuous alphabets and non-stationary
+  processes are left to future work. Measure-theoretic care for
+  uncountably many pasts is not taken.
+- **"Causal" is predictive.** It is interventional only if X is fully
+  observed, as the authors say.
+
+## Open questions
+
+- Which family of closed coarse-grainings is a lattice? The informationally
+  closed spatial ones fail under meets. Are they closed under joins (common
+  coarsenings)? Strongly lumpable partitions of a Markov chain are: within
+  a block of the join, any two states are linked by a chain of shared
+  blocks of one partition or the other, and each link keeps the
+  probabilities into every block of the join. For closure without a
+  Markov chain it is open.
+- A quantitative version: does a small departure from strong
+  lumpability, measured as the spread of block row sums, bound the
+  transfer entropy into the label, and with what dependence on the
+  smallest inter-block probability? The jittered walk above suggests the
+  ratio, not the spread alone, governs it. This is [QUESTION-221](../questions.d/QUESTION-221.md) for
+  Markov chains.
+- Is computational equivalence, the paper's quotient, the right identity
+  criterion for levels, or does it merge levels that differ in what can
+  be done to them? Two copies of a process are equivalent computationally
+  but are separately manipulable.
