@@ -2001,3 +2001,53 @@ history note. THEORY-277 is requeued on this basis.
 - (batch 069) THEORY-800 keeps Hopfield's 0.15N; the analytic value
   usually cited is about 0.138N, unread here. If the record reads Amit,
   Gutfreund and Sompolinsky, the figure may need correcting.
+
+## 2026-10-20 — narrowing sweep, batches 070-072; sweep complete
+
+- 15 codes, 13 new Proposed THEORYs (THEORY-805..817). THEORY-362 and
+  THEORY-377 were not narrowing losses. Across 065-072: 40 codes, 39 new
+  Proposed entries. 13 codes wait on owner rulings.
+- Recurring triage-008 errors, now checked by every batch: suggested titles
+  over-reach or drop the source's hedge; who_asserts names the wrong
+  authors; clauses listed that were never in a title.
+- batch-071.yaml reached main unparseable (a note opening with a quoted
+  phrase and continuing past the quote). check.py now parses every batch
+  file; quote YAML notes that start with a quotation mark.
+- (batch 070) All five narrowings had moved their old promote_when to a
+  QUESTION asking the dropped thesis (QUESTION-157, -171, -156, -195,
+  -176); each new entry answers it.
+- (batch 070) THEORY-255's old promote_when tested the record's own
+  generalization of Theorem 9 (now in the narrowed Active title), not the
+  emergence thesis, so the new entry has its own promote_when; inheriting
+  unchanged is not always right.
+- (batch 070) Counter-results in the same paper trimmed two suggested
+  titles' scope (THEORY-256's strong-noise persistence; THEORY-293's PopQA
+  extension left out).
+- (batch 070) The narrowing batches named in triage-008 contexts are
+  batch-019, -033, -018, -044 and -036 (from the decision files);
+  triage-008 does not record them, so check the decision file.
+- (batch 071) All five narrowed entries already had a QUESTION holding the
+  old promote_when (QUESTION-192, -151, -168, -212, -198); each new THEORY
+  inherits it verbatim and answers that QUESTION.
+- (batch 071) {"Triage-008's suggested titles over-reached in two ways
+  here, as batches 068 and 069 found": 'one widened the class past what
+  the source names (THEORY-391), one asserted a mechanism the source
+  cannot identify (THEORY-267). One was weaker than the source
+  (THEORY-295).'}
+- (batch 071) No existing CLAIM carries any of the five; no kind-2 clause
+  in this batch.
+- (batch 072) Triage-008 also listed clauses from as-is promotions
+  (THEORY-362) and clauses still in the Active title as hedges
+  (THEORY-377). Neither is a narrowing loss; check the pre-narrowing and
+  current titles before filing.
+- (batch 072) Triage-008's who_asserts can name the wrong authors outright
+  (THEORY-026: 'Garner and coauthors' for Fiderer et al.); check against
+  the LIT's first_author and the NOTE.
+- (batch 072) Triage-008's suggested titles can drop the source's own
+  hedge (THEORY-365's low-dimension qualification). The filed title keeps
+  it, because the paper's own high-dimensional measurement departs from
+  the claim.
+- (batch 072) A new Proposed entry for one source can sit beside an
+  earlier sweep entry with the same mechanism from different sources
+  (THEORY-816 beside THEORY-785); check for overlap before filing and say
+  how they differ in the body.

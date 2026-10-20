@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 163
+version: 164
 updated: '2026-10-20'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
@@ -12,12 +12,9 @@ handoff:
   next_step: '#275-#281 merged; tmp codes in decisions/ and batches/060-064 concretized (THEORY-778, -779,
     CLAIM-395, QUESTION-232..236). ADR-047 v4 (#283, merged): a narrowing routes each dropped clause to
     a Proposed THEORY (kind 1), a Proposed interpretive CLAIM (kind 2), a note (kind 3) or a QUESTION
-    (kind 4). Sweep batches 065-069 merged (#284-#287, #289): 25 codes, 26 new Proposed entries (THEORY-780..804,
-    CLAIM-396). Next: batches 070-072 (narrowing_sweep.in_progress) cover the remaining 15 codes in narrowing_sweep.remaining,
-    five per batch, kind 1 first; check suggested titles against the source (they over-reach like the
-    old titles), check who_asserts against the NOTE, grep claims.d for an existing carrier first, and
-    link each new entry to the QUESTION holding the old promote_when via answers; file new Proposed entries
-    beside the Active ones, re-review nothing. Owner rulings needed (narrowing_sweep.held_for_owner):
+    (kind 4). Sweep batches 065-072 merged (#284-#287, #289, #291-#293): 40 codes, 39 new Proposed entries
+    (THEORY-780..817, CLAIM-396); THEORY-362 and -377 were not narrowing losses. The sweep is done except
+    narrowing_sweep.held_for_owner, which waits on the rulings below. Owner rulings needed (narrowing_sweep.held_for_owner):
     report form vs direct form for titles of sources'' wide claims (batch 069 used direct); THEORY-163
     causal reading as its own Proposed THEORY; unchecked source theorems as separate Proposed THEORYs
     or body only (THEORY-158, -160, -171, -244, -247, -318, -367, -387, -478); THEORY-334 against its
@@ -4054,6 +4051,11 @@ history:
   date: '2026-10-20'
   note: 'THEORY-771 (filed as THEORY-tmp5mn7l; Bousquet and Slotine) promoted at the owner''s direction,
     outside a numbered batch, on the re-derivations recorded in its decision file; carried out in #288.'
+- version: 164
+  date: '2026-10-20'
+  note: 'Narrowing sweep batches 070-072 integrated (#291-#293): 15 codes, 13 new Proposed THEORYs (THEORY-805..817);
+    2 found not to be narrowing losses. Sweep complete except the 13 codes held for the owner. batch-071.yaml
+    made parseable; check.py now parses every batch file.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
 narrowing_sweep:
   procedure: record/decisions.d/ADR-047.md (v4)
@@ -4084,27 +4086,6 @@ narrowing_sweep:
   - THEORY-190
   - THEORY-272
   - THEORY-527
-  batches:
-  - batch-065
-  - batch-066
-  - batch-067
-  - batch-068
-  - batch-069
-  held_for_owner:
-  - THEORY-158
-  - THEORY-160
-  - THEORY-171
-  - THEORY-244
-  - THEORY-247
-  - THEORY-318
-  - THEORY-367
-  - THEORY-387
-  - THEORY-478
-  - THEORY-334
-  - THEORY-246
-  - THEORY-161
-  - THEORY-290
-  remaining:
   - THEORY-256
   - THEORY-306
   - THEORY-255
@@ -4120,22 +4101,30 @@ narrowing_sweep:
   - THEORY-026
   - THEORY-362
   - THEORY-377
-  in_progress:
-    batch-070:
-    - THEORY-256
-    - THEORY-306
-    - THEORY-255
-    - THEORY-270
-    - THEORY-293
-    batch-071:
-    - THEORY-294
-    - THEORY-295
-    - THEORY-391
-    - THEORY-267
-    - THEORY-313
-    batch-072:
-    - THEORY-365
-    - THEORY-472
-    - THEORY-026
-    - THEORY-362
-    - THEORY-377
+  batches:
+  - batch-065
+  - batch-066
+  - batch-067
+  - batch-068
+  - batch-069
+  - batch-070
+  - batch-071
+  - batch-072
+  held_for_owner:
+  - THEORY-158
+  - THEORY-160
+  - THEORY-171
+  - THEORY-244
+  - THEORY-247
+  - THEORY-318
+  - THEORY-367
+  - THEORY-387
+  - THEORY-478
+  - THEORY-334
+  - THEORY-246
+  - THEORY-161
+  - THEORY-290
+  remaining: []
+  not_losses:
+    THEORY-362: promoted as-is; clause never in the title (batch 072)
+    THEORY-377: still in the Active title as "argued, not proved"; QUESTION-227 covers it (batch 072)
