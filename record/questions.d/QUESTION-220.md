@@ -25,7 +25,7 @@ answered_by:
 - THEORY-743
 - THEORY-751
 - CLAIM-387
-- CLAIM-tmpfqsca
+- CLAIM-392
 - THEORY-753
 - THEORY-757
 ---
@@ -88,7 +88,7 @@ of it is wrong.
   - **Refinable at every pair of budgets** when Y = f(X), and when X and Y
     are both binary ([THEORY-757](../theory.d/THEORY-757.md)).
   - **The stochastic half, answered in the negative for one source**
-    ([CLAIM-tmpfqsca](../claims.d/CLAIM-tmpfqsca.md)). For [CLAIM-387](../claims.d/CLAIM-387.md)'s source, the unique optima at β = 8 and
+    ([CLAIM-392](../claims.d/CLAIM-392.md)). For [CLAIM-387](../claims.d/CLAIM-387.md)'s source, the unique optima at β = 8 and
     12 fail the hull test. The certificate is numerical, and the cost of
     forcing nesting is small (0.49% of the budget in unique information).
 - Still open: a structural condition beyond the special cases, a proof in
