@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**490 documents cited without acknowledgement.** Not listed: 9913 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**485 documents cited without acknowledgement.** Not listed: 9916 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -384,8 +384,8 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 - [`record/theory.d/THEORY-367.md:112`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:102`](../../record/theory.d/THEORY-373.md)
 - [`record/theory.d/THEORY-376.md:88`](../../record/theory.d/THEORY-376.md)
-- [`record/theory.d/THEORY-377.md:104`](../../record/theory.d/THEORY-377.md)
-- [`record/theory.d/THEORY-380.md:93`](../../record/theory.d/THEORY-380.md)
+- [`record/theory.d/THEORY-377.md:109`](../../record/theory.d/THEORY-377.md)
+- [`record/theory.d/THEORY-380.md:100`](../../record/theory.d/THEORY-380.md)
 - [`record/theory.d/THEORY-382.md:104`](../../record/theory.d/THEORY-382.md)
 - [`record/theory.d/THEORY-383.md:95`](../../record/theory.d/THEORY-383.md)
 - [`record/theory.d/THEORY-386.md:92`](../../record/theory.d/THEORY-386.md)
@@ -647,7 +647,7 @@ Where reuse cannot be forecast, recurrence weighted by reconstruction cost is th
 - [`record/notes.d/NOTE-922.md:189`](../../record/notes.d/NOTE-922.md)
 - [`record/notes.d/NOTE-922.md:191`](../../record/notes.d/NOTE-922.md)
 - [`record/theory.d/THEORY-375.md:81`](../../record/theory.d/THEORY-375.md)
-- [`record/theory.d/THEORY-377.md:97`](../../record/theory.d/THEORY-377.md)
+- [`record/theory.d/THEORY-377.md:102`](../../record/theory.d/THEORY-377.md)
 - [`record/theory.d/THEORY-386.md:95`](../../record/theory.d/THEORY-386.md)
 
 ### [CLAIM-306](../../record/claims.d/CLAIM-306.md) — Superseded
@@ -867,7 +867,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
-17 citations in 7 files await a look; 104 other citations of it are acknowledged.
+17 citations in 7 files await a look; 105 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:20`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-101.md:56`](../../record/cases.d/CASE-101.md)
@@ -2771,17 +2771,6 @@ Coifman et al. — Diffusion maps
 - [`record/literature.d/LIT-981.md:61`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:81`](../../record/literature.d/LIT-981.md)
 
-### [NOTE-981](../../record/notes.d/NOTE-981.md) — Skimmed
-
-Charvin, Catenacci Volpi and Polani — Exact and soft successive refinement of the IB
-
-4 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:7`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:46`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:55`](../../record/literature.d/LIT-1258.md)
-
 ### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
 
 The reverse-engineered grokking network computes modular addition by multiplying characters of ℤ/p at a few frequencies, the same real two-dimensional irreducibles later found as circles in language models; in both the group comes from the task, not the network
@@ -2921,7 +2910,7 @@ Given views with conjunctive definitions, deciding that they answer a conjunctiv
 4 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:338`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:339`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
 - [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
 
@@ -3236,7 +3225,7 @@ The difficulty of optimum index selection
 
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
-- [`record/questions.d/QUESTION-114.md:177`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:178`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-1167](../../record/literature.d/LIT-1167.md) — Unavailable
 
@@ -3555,7 +3544,7 @@ In one simulator evicting whole query-shaped cache regions, no replacement value
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:342`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:343`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-376.md:92`](../../record/theory.d/THEORY-376.md)
 
 ### [THEORY-376](../../record/theory.d/THEORY-376.md) — Proposed
@@ -3565,18 +3554,8 @@ In a simulated single-client, read-only database answering selection queries on 
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:342`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:343`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-375.md:88`](../../record/theory.d/THEORY-375.md)
-
-### [THEORY-377](../../record/theory.d/THEORY-377.md) — Proposed
-
-A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved
-
-3 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-1109.md:16`](../../record/literature.d/LIT-1109.md)
-- [`record/theory.d/THEORY-364.md:97`](../../record/theory.d/THEORY-364.md)
-- [`record/theory.d/THEORY-386.md:90`](../../record/theory.d/THEORY-386.md)
 
 ### [THEORY-411](../../record/theory.d/THEORY-411.md) — Proposed
 
@@ -3951,7 +3930,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:320`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:321`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-378.md:125`](../../record/theory.d/THEORY-378.md)
 
 ### [LIT-1108](../../record/literature.d/LIT-1108.md) — Unavailable
@@ -3961,7 +3940,7 @@ Combining Fuzzy Information from Multiple Systems
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
-- [`record/questions.d/QUESTION-114.md:355`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:356`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -4133,6 +4112,15 @@ Balestriero & LeCun 2022 — SSL recovers spectral embedding
 
 - [`record/notes.d/NOTE-319.md:189`](../../record/notes.d/NOTE-319.md)
 - [`record/notes.d/NOTE-752.md:20`](../../record/notes.d/NOTE-752.md)
+
+### [NOTE-696](../../record/notes.d/NOTE-696.md) — Skimmed
+
+Causality: Models, Reasoning, and Inference
+
+2 citations in 1 file await a look; 11 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-226.md:26`](../../record/questions.d/QUESTION-226.md)
+- [`record/questions.d/QUESTION-226.md:41`](../../record/questions.d/QUESTION-226.md)
 
 ### [NOTE-832](../../record/notes.d/NOTE-832.md) — Skimmed
 
@@ -4665,22 +4653,13 @@ When the orderings of m attribute-sorted lists of N objects are probabilisticall
 - [`record/theory.d/THEORY-361.md:84`](../../record/theory.d/THEORY-361.md)
 - [`record/theory.d/THEORY-363.md:104`](../../record/theory.d/THEORY-363.md)
 
-### [THEORY-380](../../record/theory.d/THEORY-380.md) — Proposed
-
-For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules
-
-2 citations in 2 files await a look.
-
-- [`record/literature.d/LIT-1110.md:15`](../../record/literature.d/LIT-1110.md)
-- [`record/questions.d/QUESTION-105.md:79`](../../record/questions.d/QUESTION-105.md)
-
 ### [THEORY-383](../../record/theory.d/THEORY-383.md) — Proposed
 
 On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:329`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:330`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-382.md:102`](../../record/theory.d/THEORY-382.md)
 
 ### [THEORY-414](../../record/theory.d/THEORY-414.md) — Proposed
@@ -4763,24 +4742,6 @@ Asserting is undertaking a commitment that entitles others to reassert it and ca
 
 - [`record/claims.d/CLAIM-115.md:123`](../../record/claims.d/CLAIM-115.md)
 - [`record/claims.d/CLAIM-363.md:100`](../../record/claims.d/CLAIM-363.md)
-
-### [THEORY-753](../../record/theory.d/THEORY-753.md) — Proposed
-
-x
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:55`](../../record/literature.d/LIT-1258.md)
-
-### [THEORY-757](../../record/theory.d/THEORY-757.md) — Proposed
-
-y
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:56`](../../record/literature.d/LIT-1258.md)
 
 ### [CLAIM-017](../../record/claims.d/CLAIM-017.md) — Superseded
 
@@ -5702,14 +5663,6 @@ Cognitive mechanisms can be derived as the one, among those a brain can execute,
 
 - [`record/theory.d/THEORY-343.md:132`](../../record/theory.d/THEORY-343.md)
 
-### [THEORY-419](../../record/theory.d/THEORY-419.md) — Proposed
-
-In a structural causal model an intervention do(X = x) is a surgery that deletes X's own equation, sets X to x and solves the rest, while observing X = x violates no equation and is ordinary conditioning; so models that agree on every observational distribution can disagree on the effect of an intervention, and a structural coefficient is the rate of change of E[Y | do(x)], not a regression slope
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-341.md:108`](../../record/claims.d/CLAIM-341.md)
-
 ### [THEORY-454](../../record/theory.d/THEORY-454.md) — Proposed
 
 Perception is constitutively iconic, nonconceptual and nonpropositional and cognition paradigmatically discursive, and percepts are put to cognitive use only inside a 'cognitive envelope', the global workspace read as conceptualisation, where working memory holds recoded, task-dependent abstractions rather than the percepts themselves
@@ -5802,7 +5755,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 8 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 4 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)
@@ -5831,7 +5784,7 @@ None. Every scanned file is checked. ✅
 
 - record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now
 - record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
-- record/claims.d/CLAIM-387.md:34: annotation no longer applies — THEORY-163 is Active now
+- record/claims.d/CLAIM-387.md:36: annotation no longer applies — THEORY-163 is Active now
 - record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
 - record/literature.d/LIT-1257.md:50: annotation no longer applies — THEORY-202 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
@@ -5845,9 +5798,8 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/notes.d/NOTE-970.md:41: annotation no longer applies — nothing in scope cites LIT-1252
 - record/notes.d/NOTE-973.md:37: annotation no longer applies — nothing in scope cites THEORY-747
-- record/notes.d/NOTE-981.md:47: annotation no longer applies — nothing in scope cites LIT-000
 - record/notes.d/NOTE-984.md:44: annotation no longer applies — nothing in scope cites THEORY-744
-- record/questions.d/QUESTION-220.md:30: annotation no longer applies — THEORY-163 is Active now
+- record/questions.d/QUESTION-220.md:33: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now

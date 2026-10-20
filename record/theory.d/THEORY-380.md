@@ -1,17 +1,24 @@
 ---
 number: 380
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmplwy86
-promote_when: >-
-  A read proof of Theorems 5.6, 6.4 and 6.5, which this paper states
-  without proof (a journal or thesis version by the authors would do), or an
-  independent proof of the fixed-point characterization and the
-  factorization through formal power series for commutative ω-continuous
-  semirings. Worked examples and the paper's algorithms cannot settle it;
-  they presuppose the theorems.
-title: "For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules"
-version: 1
+title: "For datalog over a finite input instance annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when one of its derivation trees contains a tuple lying on a cycle of unit rules"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Corrected and promoted, carrying out the promotion audit's decision
+    for THEORY-380 (batch 054, ADR-047 v2). The paper states Theorems 5.6,
+    6.4 and 6.5 without proof; the dated note below proves all three, which
+    is the read proof the promote_when asked for. The input instance is
+    made explicit as finite. The infinite-coefficient clause is corrected:
+    as the paper states it, with the unit-rule cycle passing through the
+    tuple itself, it is false. A cycle on any tuple in one of the tuple's
+    derivation trees suffices, and the note gives a four-rule
+    counterexample. The paper's own Monomial-Coefficient algorithm already
+    uses the corrected condition.
 tags:
 - databases
 - mathematics
@@ -34,7 +41,7 @@ summary: >-
   equations, and negation remains outside.
 ---
 
-# THEORY-380: For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules
+# THEORY-380: For datalog over a finite input instance annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when one of its derivation trees contains a tuple lying on a cycle of unit rules
 
 ## Source
 
@@ -92,3 +99,54 @@ paper; only Proposition 5.2 has a sketch. The record has not read a proof.
   equation system, not a list of supports.
 - [CLAIM-303](../claims.d/CLAIM-303.md): when derivations recur, dependency tracking stores equations
   whose solution is computed on demand, a mixed position in the trade.
+
+## Note of 2026-10-20: the three theorems, proved
+
+Proved for the promotion audit (batch 054, [ADR-047](../decisions.d/ADR-047.md) v2). The paper states
+Theorems 5.6, 6.4 and 6.5 without proof. Taken as given: in a commutative
+ω-continuous semiring K, a countable sum (the supremum of its finite
+partial sums) does not depend on order or grouping, + and · distribute
+over it, and an ω-continuous map has least fixed point sup_n T^n(0)
+(Kleene). The input instance is finite, so the instantiated program has
+finitely many IDB tuples N and finitely many rules.
+
+1. **Least fixed point (Theorem 5.6).** The immediate consequence operator
+   T sends x to the vector whose t-component is the sum, over instantiated
+   rules with head t, of the product of the body's EDB tags and IDB
+   components x_u. T is polynomial, hence ω-continuous. By induction,
+   T^n(0)_t is the sum over derivation trees of t of height at most n of
+   the product of their leaf tags: for n + 1, distribute the finite product
+   over the finite sums T^n(0)_u, which gives one term per rule for t and
+   choice of a height-≤n tree for each IDB body atom. Every finite set of
+   trees lies within some height, so the least fixed point sup_n T^n(0)_t
+   is the countable sum over all of t's trees, Definition 5.1's tag. This
+   holds when the tag is 0 as well.
+2. **Factorization (Theorem 6.4).** With each input tuple tagged by its id,
+   t's provenance is Σ_μ N_μ μ in N∞⟦X⟧, where N_μ counts t's trees with
+   fringe μ. For a valuation ν: X → K let Eval_ν(Σ c_μ μ) = Σ c_μ·ν(μ), with
+   ∞·a = sup_n n·a. Regrouping the countable sum gives
+   Eval_ν(prov(t)) = Σ over trees of the product of ν at the leaves, which
+   is t's tag in the K-relation with tags ν. Eval_ν is an ω-continuous
+   semiring homomorphism.
+3. **Infinite coefficients (Theorem 6.5, corrected).** A unit rule has a
+   single IDB atom as its body. *If* a tree τ of t contains a tuple u with
+   a cycle of unit rules back to u, splicing the cycle in above u's node m
+   times gives distinct trees with τ's fringe, so that coefficient is ∞.
+   *Only if*: suppose no tree of t contains a tuple on a unit cycle, and
+   take a fringe of degree m. At most m internal nodes have a leaf child,
+   and at most m − 1 have two or more internal children. Every other
+   internal node has exactly one internal child, and those nodes form at
+   most 2m − 1 vertical chains. A chain cannot repeat a tuple, since that
+   would be a unit cycle, so it has at most N nodes. The tree then has at
+   most (2m − 1)(N + 1) internal nodes, so there are finitely many such
+   trees and every coefficient is finite.
+4. **Why the paper's wording fails.** Theorem 6.5 asks for a unit-rule cycle
+   with t itself on it. Take EDB facts e, f and the instantiated rules
+   u ← e, v ← u, u ← v and t ← u, f. Then t is on no unit cycle, but u has
+   infinitely many trees with fringe e, so the coefficient of e·f in t's
+   series is ∞. Counting t's trees by height gives 0, 1, 1, 2, 2, 3, 3, …
+   with no bound. As written, the paper's "t is in the result" conjunct
+   also fails for a tuple with no derivation: its series is 0, which has no
+   ∞ coefficient. The Monomial-Coefficient algorithm (Figure 9) marks a
+   tree infinite when any child pair is, which is the corrected
+   condition, so the algorithms are unaffected.

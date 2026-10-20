@@ -1,18 +1,20 @@
 ---
 number: 580
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmplzpix
-promote_when: >-
-  A full reading that follows the proofs of the causaltope theorem
-  (Theorem 2.25) and of the lower bound by the separable local fraction
-  (Proposition 2.29), or an independent proof of either. Either would
-  promote it as stated; a gap in either proof would send it back. The
-  computed examples cannot settle it, since they are checks of the
-  framework on chosen models, and neither can agreement with the withdrawn
-  LIT-813, whose corresponding results were stated with proofs deferred.
-title: "On any cover of a space of input histories, the empirical models compatible with a causal structure are exactly the points of a polytope cut from a product of simplices by linear causality equations, so how much of a model a causal structure can explain is a linear program; causal separability is relative to an assumed ambient structure, and the causally separable fraction is never less than the separable local fraction"
-version: 1
+title: 'On any cover of a space of input histories, the empirical models compatible with a causal structure are exactly the points of a polytope cut from a product of simplices by linear causality equations, so how much of a model a causal structure can explain is a linear program; causal separability is relative to an assumed ambient structure, and the causally separable fraction is never less than the separable local fraction'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promoted, carrying out the promotion audit's decision for THEORY-580
+    (batch 055, ADR-047 v2). Its promote_when asked for a full reading that
+    follows the proofs of Theorem 2.25 and Proposition 2.29. Both proofs
+    (Gogioso and Pinzani §§2.10.11–2.10.18) were read and checked against the
+    definitions they use, including those taken from The Topology of
+    Causality. The title is unchanged; the dated note below gives the check.
 tags:
 - causality
 - contextuality
@@ -21,13 +23,13 @@ date: '2026-10-16'
 source:
 - LIT-788
 summary: >-
-  Gogioso and Pinzani (2023), [LIT-788](../literature.d/LIT-788.md), skimmed in [NOTE-624](../notes.d/NOTE-624.md): the
-  introduction, the causaltope theorems, standard causal separability and
-  the quantum-switch examples, with the proofs unread. It proves in general
-  the polytope and causal-fraction claims that the withdrawn [LIT-813](../literature.d/LIT-813.md) made
-  with proofs deferred. Proposed because it rests on a skim of proved
-  results. The quantum switches witness indefinite order only relative to
-  an ambient space with known no-signalling constraints, not absolutely.
+  Gogioso and Pinzani (2023), [LIT-788](../literature.d/LIT-788.md), skimmed in [NOTE-624](../notes.d/NOTE-624.md), with the
+  proofs of the causaltope theorems (2.18, 2.19, 2.25) and of the lower bound
+  (2.29) read and checked on promotion (2026-10-20), against the
+  definitions they take from The Topology of Causality. The proofs are short
+  because the work is in the definitions; the one step left implicit closes.
+  The quantum switches witness indefinite order only relative to an ambient
+  space with known no-signalling constraints, not absolutely.
 ---
 <!-- inactive-ok-file: NOTE-624 — Skimmed; the reading this account rests on, as it says -->
 <!-- inactive-ok-file: LIT-813 — Superseded; the withdrawn predecessor whose results this paper proves -->
@@ -103,3 +105,32 @@ theorem says they do not here.
   test it.
 - Its fractions are linear-programming values over polytopes, the setting of
   [THEORY-165](THEORY-165.md) on the contextual fraction, which this reading does not test.
+
+## Note of 2026-10-20: the proofs, checked
+
+The proofs in §2.10 were read on promotion, with the definitions they cite
+from "The Topology of Causality" (arXiv 2303.07148; its numbering differs
+between versions).
+
+- **Theorem 2.19.** A causal function on a lowerset λ assigns outputs at tip
+  events, constant on each ∼ω class (Topology, Eq. 9). So causal functions
+  correspond one-to-one with free assignments per class (Topology, Obs.
+  2.12), and pushing distributions forward gives the convex-linear bijection
+  d ↦ ⌈d⌉.
+- **Theorem 2.25.** Injectivity is componentwise. For surjectivity, take u
+  in the causaltope and set e_λ := ⌊u_λ⌋_λ. The causality equations range
+  over every lowerset μ inside two contexts, λ ∩ λ′ among them. Restriction
+  commutes with ⌈·⌉ because each tip class in μ lies in one in λ (Lemma
+  2.20), so ⌈e_λ|_μ⌉ = ⌈e_λ′|_μ⌉. Theorem 2.19 on μ then gives
+  e_λ|_μ = e_λ′|_μ, a step the printed proof leaves implicit. So e is a
+  compatible family.
+- **Fractions as linear programs.** A component is v with 0 ≤ v ≤ u in the
+  cone of a causaltope, which is cut out by linear equations and v ≥ 0; its
+  maximal mass is an LP, and so is a decomposition over several sub-spaces.
+- **Proposition 2.29.** A separably local model is a mixture of
+  deterministic models of separable causal functions, each arising on a
+  causally complete Θ′ ≤ Θ, and the causal completions suffice (Topology,
+  Def. 2.9, Obs. 2.6). So it decomposes over the completions, and scaling
+  by p bounds the causally separable fraction below by p. The fraction is
+  defined (Def. 2.15) when the sub-spaces share events, inputs and maximal
+  extended histories with Θ, as under free choice.

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**738 document(s) awaiting a decision.**
+**733 document(s) awaiting a decision.**
 
 ## LITs
 
-94 of the 738.
+94 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -110,7 +110,7 @@
 
 ## THEORYs
 
-413 of the 738.
+408 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -320,7 +320,6 @@
 | 2026-10-15 | Proposed | [THEORY-368](../../record/theory.d/THEORY-368.md) | 3 | 3 | On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms |
 | 2026-10-15 | Proposed | [THEORY-375](../../record/theory.d/THEORY-375.md) | 3 | 3 | In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved |
 | 2026-10-15 | Proposed | [THEORY-376](../../record/theory.d/THEORY-376.md) | 3 | 3 | In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged |
-| 2026-10-15 | Proposed | [THEORY-377](../../record/theory.d/THEORY-377.md) | 3 | 3 | A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within 1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision it cost less; that it converges to the best width is argued, not proved |
 | 2026-10-15 | Proposed | [THEORY-333](../../record/theory.d/THEORY-333.md) | 2 | 2 | Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested |
 | 2026-10-15 | Proposed | [THEORY-334](../../record/theory.d/THEORY-334.md) | 2 | 2 | In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics |
 | 2026-10-15 | Proposed | [THEORY-339](../../record/theory.d/THEORY-339.md) | 2 | 2 | People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result |
@@ -329,7 +328,6 @@
 | 2026-10-15 | Proposed | [THEORY-355](../../record/theory.d/THEORY-355.md) | 2 | 2 | Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured |
 | 2026-10-15 | Proposed | [THEORY-360](../../record/theory.d/THEORY-360.md) | 2 | 2 | Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured |
 | 2026-10-15 | Proposed | [THEORY-379](../../record/theory.d/THEORY-379.md) | 2 | 2 | When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed |
-| 2026-10-15 | Proposed | [THEORY-380](../../record/theory.d/THEORY-380.md) | 2 | 2 | For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules |
 | 2026-10-15 | Proposed | [THEORY-383](../../record/theory.d/THEORY-383.md) | 2 | 2 | On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either |
 | 2026-10-15 | Proposed | [THEORY-385](../../record/theory.d/THEORY-385.md) | 2 | 0 | In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data |
 | 2026-10-15 | Proposed | [THEORY-330](../../record/theory.d/THEORY-330.md) | 1 | 1 | After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load |
@@ -408,7 +406,6 @@
 | 2026-10-16 | Proposed | [THEORY-687](../../record/theory.d/THEORY-687.md) | 4 | 1 | For empirically equivalent dual theories read naively, adding the common core as a candidate world does not break the underdetermination, and neither do super-empirical virtues or an overarching theory: each route to a single actual world needs a further metaphysical principle, such as the identity of indiscernibles |
 | 2026-10-16 | Proposed | [THEORY-703](../../record/theory.d/THEORY-703.md) | 4 | 4 | Weak emergence of a macro variable from micro variables can be measured as its Granger autonomy from them times their mean Granger causation of it, which is zero if it is independent of them or fully predicted by them; in a boids model this measure, and Granger causation from the flock's centre of mass to each boid, are higher for flocking than for random or rigid motion; the measure is relative to the regression model and the variables included |
 | 2026-10-16 | Proposed | [THEORY-416](../../record/theory.d/THEORY-416.md) | 3 | 0 | Quantum thermodynamics has at least four inequivalent notions of work, the ensemble average, the two-point-measurement random variable, the ε-deterministic single-shot work content and the resource-theory work, which answer different operational questions; only the two single-shot optima coincide, by identification of formulas and for energy-diagonal states |
-| 2026-10-16 | Proposed | [THEORY-419](../../record/theory.d/THEORY-419.md) | 3 | 1 | In a structural causal model an intervention do(X = x) is a surgery that deletes X's own equation, sets X to x and solves the rest, while observing X = x violates no equation and is ordinary conditioning; so models that agree on every observational distribution can disagree on the effect of an intervention, and a structural coefficient is the rate of change of E[Y | do(x)], not a regression slope |
 | 2026-10-16 | Proposed | [THEORY-436](../../record/theory.d/THEORY-436.md) | 3 | 0 | Pain is a functional state of a whole organism, possessing a certain functional organisation as a probabilistic automaton, rather than a brain state, and this is the more plausible empirical hypothesis because one pain predicate applies to physically different organisms; the hypothesis keeps swarms out only by a stipulated condition that no pain-feeler has parts that separately possess the organisation |
 | 2026-10-16 | Proposed | [THEORY-442](../../record/theory.d/THEORY-442.md) | 3 | 0 | Where the non-epistemic consequences of error are foreseeable, sound scientific reasoning requires weighing them in the internal choices that carry inductive risk, and non-epistemic values then enter legitimately only indirectly, through the costs of error, never as reasons to think a claim true |
 | 2026-10-16 | Proposed | [THEORY-446](../../record/theory.d/THEORY-446.md) | 3 | 0 | Organism–environment reciprocal causation, taken diachronically, unrolls into an acyclic sequence of organism, environment and experienced-environment states joined by interventionist arrows; on that representation each niche-construction type has a characteristic causal pattern, and multi-species cases come apart only if organism and environment are kept distinct |
@@ -521,16 +518,14 @@
 | 2026-10-20 | Proposed | [THEORY-768](../../record/theory.d/THEORY-768.md) | 40 | 0 | Minimal selfhood is identification with the whole body, located where that body is felt to be and seen from inside it; owning a body part does not reach it, and bodily agency enables it causally without being part of it |
 | 2026-10-20 | Proposed | [THEORY-766](../../record/theory.d/THEORY-766.md) | 38 | 0 | Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them |
 | 2026-10-20 | Proposed | [THEORY-744](../../record/theory.d/THEORY-744.md) | 11 | 0 | As the kernel width ε goes to 0, Coifman and Lafon's α-normalized diffusion operator on data sampled with density q = e^{−U} from a compact manifold has generator Δf + 2(1 − α)⟨∇U, ∇f⟩, the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density |
+| 2026-10-20 | Proposed | [THEORY-751](../../record/theory.d/THEORY-751.md) | 10 | 0 | For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error |
 | 2026-10-20 | Proposed | [THEORY-763](../../record/theory.d/THEORY-763.md) | 10 | 0 | For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls |
-| 2026-10-20 | Proposed | [THEORY-751](../../record/theory.d/THEORY-751.md) | 7 | 0 | For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error |
 | 2026-10-20 | Proposed | [THEORY-759](../../record/theory.d/THEORY-759.md) | 7 | 0 | A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order of frequency, and keeps that order when the amplitudes rise tenfold with frequency, so in this setting the order of acquisition is set by the learner and not by the strength of the target's components |
 | 2026-10-20 | Proposed | [THEORY-747](../../record/theory.d/THEORY-747.md) | 6 | 0 | In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian |
-| 2026-10-20 | Proposed | [THEORY-753](../../record/theory.d/THEORY-753.md) | 2 | 2 | x |
-| 2026-10-20 | Proposed | [THEORY-757](../../record/theory.d/THEORY-757.md) | 2 | 2 | y |
 
 ## ADRs
 
-2 of the 738.
+2 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -539,7 +534,7 @@
 
 ## QUESTIONs
 
-9 of the 738.
+9 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -555,7 +550,7 @@
 
 ## CLAIMs
 
-215 of the 738.
+215 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -661,7 +656,7 @@
 | 2026-10-10 | Proposed | [CLAIM-241](../../record/claims.d/CLAIM-241.md) | 3 | 1 | Partial constitution by uptake makes competent participants' uptake a defeasible standard of a communicative kind, not the criterion: where the act's other constituents, such as its institutional conditions, diverge from how even informed participants take it, their verdicts can be wrong, and a standard must say whose competence counts, for which class of acts, and how divided verdicts are combined, which a majority does not |
 | 2026-10-10 | Proposed | [CLAIM-242](../../record/claims.d/CLAIM-242.md) | 3 | 0 | The use-level counterpart of Saussure's value is an utterance's contrast with the alternatives its speaker could have used in context; values do not cross between languages, which is why fidelity is graded transport through an anchored correspondence rather than identity of value |
 | 2026-10-10 | Proposed | [CLAIM-216](../../record/claims.d/CLAIM-216.md) | 2 | 0 | A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another |
-| 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 121 | 17 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
+| 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 122 | 17 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
 | 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 45 | 3 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
 | 2026-10-11 | Proposed | [CLAIM-172](../../record/claims.d/CLAIM-172.md) | 45 | 3 | Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture |
 | 2026-10-11 | Proposed | [CLAIM-174](../../record/claims.d/CLAIM-174.md) | 38 | 8 | A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization |
@@ -777,7 +772,7 @@
 
 ## CASEs
 
-1 of the 738.
+1 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -785,7 +780,7 @@
 
 ## TERMs
 
-2 of the 738.
+2 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -794,7 +789,7 @@
 
 ## ARGs
 
-2 of the 738.
+2 of the 733.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
