@@ -30,7 +30,6 @@ summary: >-
   experiments agree that MLP8 carries almost no name-position information.
 ---
 <!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this reading is set beside, open -->
-<!-- inactive-ok-file: THEORY-243 — Proposed; the accounts this reading bears on, one filed from it -->
 
 # NOTE-809: Wu et al. — a reply to Makelov et al.'s interpretability illusion arguments
 

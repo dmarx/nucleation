@@ -34,7 +34,7 @@ summary: >-
   WikiText-103 transformers match the predicted exponents up to about 10^8
   tokens and horizons of a few tens of tokens.
 ---
-<!-- inactive-ok-file: THEORY-204 QUESTION-025 THEORY-201 THEORY-182 THEORY-183 THEORY-186 CLAIM-008 — Proposed, open or Superseded; cited as what this reading bears on or produced -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-201 THEORY-182 THEORY-183 THEORY-186 CLAIM-008 — Proposed, open or Superseded; cited as what this reading bears on or produced -->
 
 # NOTE-689: Deriving neural scaling laws from language statistics
 
