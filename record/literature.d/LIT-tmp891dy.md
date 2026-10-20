@@ -58,6 +58,8 @@ summary: >-
   that corporate rights grew without reasoned decision, and that
   capacity-based criteria cannot escape a species-bound standpoint. Boyle
   predicts an intermediate legal status for AI.
+supports:
+- CLAIM-tmp1ugth
 ---
 <!-- inactive-ok-file: CLAIM-155 CLAIM-170 CLAIM-174 THEORY-023 THEORY-092 THEORY-131 THEORY-433 THEORY-554 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
