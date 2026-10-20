@@ -1,0 +1,76 @@
+# record/promotion-audit/decisions/THEORY-332.yaml
+id: THEORY-332
+batch: batch-053
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived here (ADR-047 v2) in Bruno and Chaudhuri's single-index model
+    (one index, build cost B, free drops, no space limit). Write each
+    statement as (c0, c1), its cost without and with the index, and its
+    saving as d = c0 - c1. Online-SI starts without the index. It keeps
+    D, the running sum of d; it builds after a statement once D - Dmin >= B,
+    with Dmin the low since the last drop; and it drops once Dmax - D >= B,
+    with Dmax the high since the last build.
+
+    (1) The old title's last clause is false. Fix f in (0, 1] and a small
+    eta > 0. One cycle is two phases. In the query phase, statements
+    (s, 0) with every s <= fB are given until their savings sum to B - eta;
+    then one more statement (fB, 0) follows. In the update phase,
+    statements (0, s) with s <= fB are given until their losses sum to
+    B - eta; then one more (0, fB) follows. Online-SI never reaches the
+    threshold before the last statement of a phase, so it pays every query
+    of the query phase without the index, (B - eta) + fB in all. It then
+    builds, paying B. In the update phase it pays every update with the
+    index, (B - eta) + fB, and then drops. Its Dmin and Dmax reset at the
+    drop and the build, so every cycle repeats this, at 3B + 2fB - 2eta per
+    cycle. The offline schedule that builds at each cycle's start and drops
+    before its update phase pays B per cycle. Over m cycles the ratio is
+    (3 + 2f) - 2eta/B, so no additive constant rescues a factor of 3, for
+    any bound f on the steps. The paper's own example is the case where
+    the overshoot vanishes, which gives 3.
+
+    (2) One large saving makes the ratio unbounded. The single statement
+    (K, 0) with K > B costs Online-SI K, since it builds only after the
+    statement, while the optimum builds first and pays B. The ratio
+    (K + B)/B goes to infinity with K (including Online-SI's build).
+
+    (3) Numerical check. The recipe is below. Hill-climbing over workloads
+    whose statements are all queries (s, 0) or updates (0, s) with s <= fB
+    found worst ratios of 3.998, 3.400, 3.199 and 3.093 at f = 0.5, 0.2,
+    0.1 and 0.05. These match 3 + 2f, approached from below. Random search
+    with f = 1 found 4.73, which is consistent with NOTE-896's own check.
+  excluded: >-
+    An upper bound. Whether Online-SI is within (3 + 2f) times the optimum,
+    or within any constant, on workloads whose steps are bounded by fB is
+    not shown here or in the paper; that is the old promote_when, and it
+    moves to a new QUESTION. The multi-index tuner, which the paper calls
+    heuristic, is excluded, as are optimizer-estimated costs.
+evidence:
+  - "LIT-1095, Figure 4 (Online-SI) and Theorems 1-2, read in NOTE-896."
+  - "This review's construction (scope.accepted 1-2)."
+  - >-
+    Recipe for (3): an exact dynamic program for the offline optimum (two
+    states, building costs B and dropping is free, a build is allowed before
+    the first statement) against a direct simulation of Online-SI as defined
+    above, with B = 1. Hill-climb over T = 8/f statements, each either
+    (s, 0) or (0, s) with s uniform on [0, fB]; 20,000 single-statement
+    mutations, accepting a mutation if the ratio does not fall; best of
+    seeds 0-3. For f = 1: 100,000 random workloads of 12 statements, seed 1.
+blockers: []
+notes: >-
+  The old title held that the ratio approaches 3 and that "within three
+  when every saving is small" was unshown. The construction shows the
+  latter is false for every positive bound on the steps, so the title is
+  corrected to the lower bound that is proved. Triage-006 scored it 2; it
+  is formal in fact.
+unlocks: []
+next_action: >-
+  Correct the title to the proved lower bound 3 + 2f, add the construction
+  as a dated note, move the upper-bound request to a new QUESTION that
+  refines QUESTION-114, and promote.

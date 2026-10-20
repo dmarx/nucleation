@@ -1,0 +1,84 @@
+# record/promotion-audit/decisions/THEORY-362.yaml
+id: THEORY-362
+batch: batch-053
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem (stated without proof)
+formal_in_fact: true
+scope:
+  accepted: >-
+    Theorems 4.1, 6.1 and 6.2 are re-derived here (ADR-047 v2) for
+    nonrecursive programs, which meets the promote_when's "a proof, read by
+    the record".
+
+    (1) Counts as bag semantics. Read a predicate's count of a tuple as its
+    multiplicity. Join multiplies multiplicities, union adds them, and
+    projection sums them over the tuples it merges. For a nonrecursive
+    program, induction on strata then gives each derived tuple's count as
+    its number of derivations.
+
+    (2) The delta rule is an exact identity. For a rule body s_1 & ... &
+    s_n, with s_i' = s_i + D(s_i) as signed multiplicities, the product
+    telescopes: prod s_i' - prod s_i = sum_i (prod_{j<i} s_j') D(s_i)
+    (prod_{j>i} s_j). This is Gupta, Mumick and Subrahmanian's delta rule,
+    with new values before position i and old after it. Joins and sums
+    distribute over it, so the derived D(p) equals count(p') - count(p)
+    exactly (Theorem 4.1). Lemma 4.1 follows: if every deleted base tuple
+    was present, every new count is a count of derivations in the new
+    database, so it is at least 0.
+
+    (3) Strata. Lower strata are complete before a higher one is evaluated,
+    so every subgoal's old and new value is known when its rule is
+    processed. Under set semantics a subgoal enters as its membership
+    indicator, and D is the change in membership, -1, 0 or +1. The same
+    identity holds, which is why passing only membership changes upward is
+    correct.
+
+    (4) Negation (Theorem 6.1). A safe negated subgoal not q(t), with q in
+    a lower stratum, is the factor [count q'(t) = 0], with old and new
+    values known. It is one more factor in the identity of (2).
+
+    (5) Aggregation (Theorem 6.2). A grouped aggregate over a lower stratum
+    is a derived relation whose old and new contents follow from that
+    stratum's old and new contents. Its change, delete (g, a_old) and
+    insert (g, a_new) for each affected group g, enters the identity like
+    any other D. COUNT, SUM and AVG update from the old value and the
+    delta. MIN and MAX on deletion of the current extreme must be
+    recomputed from the group's remaining tuples. Those tuples are in the
+    stored lower stratum, so nothing beyond the counts and the stored
+    relations is needed.
+
+    (6) Brute-force check. The recipe is below. Algorithm 4.1 on a
+    two-stratum program with a bag join, a set-semantics stratum with
+    negation and union, and a grouped count matched full recomputation on
+    3,000 random instances and changes, with 0 mismatches.
+  excluded: >-
+    Recursive views: the paper drops counts there, since counts can be
+    infinite. That is THEORY-387's case. The cost claims ("almost as
+    efficient as evaluating the view") are arguments, not measured, and are
+    left out of the title.
+evidence:
+  - "LIT-1114, Section 4 (delta rules, Algorithm 4.1, Theorem 4.1, Lemma 4.1) and Section 6 (Theorems 6.1, 6.2), read in NOTE-915."
+  - "This review's re-derivation (scope.accepted 1-5)."
+  - >-
+    Recipe for (6): the domain {0..3}. Base bags r(x,y) and s(y,z), with 6
+    random tuples each, and a base set q(z). v(x,z) :- r(x,y), s(y,z) as a
+    bag. p(x) :- v(x,z), not q(z) and p(x) :- q(x), under set semantics on v
+    and q. g(x,c) with c the number of distinct z with v(x,z), recomputed
+    for affected groups from v's new contents. Random signed deltas to r
+    and s (deletions of present tuples, plus insertions) and to q
+    (membership flips). Compare Algorithm 4.1's v', p' and g' with full
+    re-evaluation. Python's random.Random(0), 3,000 trials.
+blockers: []
+notes: >-
+  Narrowed. "Is stated to suffice" and "the proof is not in the paper"
+  become the proved statement. The aggregation clause names what MIN and
+  MAX need on deletion. Triage-006 scored it 2; it is formal in fact.
+unlocks: []
+next_action: >-
+  Narrow the title to the proved statement, add the re-derivation as a
+  dated note, and promote. No QUESTION is needed, since the promote_when is
+  met.

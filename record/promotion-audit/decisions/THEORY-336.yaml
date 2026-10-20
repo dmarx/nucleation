@@ -1,0 +1,40 @@
+# record/promotion-audit/decisions/THEORY-336.yaml
+id: THEORY-336
+batch: batch-053
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument plus a reported measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    The first clause is definitional and holds as stated. An ideal taken at
+    Z = g(S; theta) is the posterior-optimal rule given Z (Geisler's Eq. 1),
+    so it is the optimal decoder of a garbled input, not a restricted
+    decoder of S.
+  excluded: >-
+    The empirical clause: that human performance in early-vision tasks
+    parallels the retinal-stage ideal across conditions while falling well
+    below it. The title marks it "is reported". The only source is a review
+    whose cited primary studies the record has not read, and the
+    promote_when asks for one such primary study. It is also a report
+    title, the class the owner's open ruling covers (THEORY-344, -351,
+    -071, -628).
+evidence:
+  - "LIT-1055 (Geisler 2011 review), read in NOTE-870; figures not seen and no cited primary study read."
+blockers:
+  - >-
+    A primary study comparing human performance with ideals at successive
+    stages, such as Geisler (1989, Psychological Review) or Banks, Geisler
+    and Bennett (1987), read by the record. Neither is on arXiv.
+  - The owner's ruling on report titles.
+notes: >-
+  Retain. The definitional half could be split out and promoted on its own
+  as analytic, but it says little beyond Eq. 1. The weight of the entry is
+  the stage-comparison clause, which needs a reading task.
+unlocks: []
+next_action: >-
+  Queue a reading task for a stage-comparison primary study, and requeue
+  once it is read or the report-title ruling is made.
