@@ -39,7 +39,8 @@ filed:
     answers: QUESTION-176
     note: The size exponent 1.152 against a predicted 1.283 is recorded against it; the PopQA extension (C6) is not filed.
 reclassified: []
-promotion_prs: []
+promotion_prs:
+- "#292"
 notes_for_ledger:
 - All five narrowings had moved their old promote_when to a QUESTION asking the dropped thesis (QUESTION-157, -171, -156, -195, -176); each new entry answers it.
 - THEORY-255's old promote_when tested the record's own generalization of Theorem 9 (now in the narrowed Active title), not the emergence thesis, so the new entry has its own promote_when; inheriting unchanged is not always right.
