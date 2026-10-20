@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-164
 title: 'What a spectral gap makes definite is the subspace of the cluster it isolates, not a single direction: the gap picks the object, and the object is a vector only when its own gap is wide'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-11'
@@ -28,6 +28,10 @@ history:
     Active; the block inheritance and the threshold stay in THEORY-084,
     Proposed. The new note says which part is established and what it
     gives this claim. Grounds and status are unchanged.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added, from the reading of Nadler et al. (NOTE-tmpvqn3y). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -108,3 +112,13 @@ same test. That the lazy-regime Fisher inherits the NTK's harmonic-degree
 blocks, and that a threshold is well posed only between them, are still
 [THEORY-084](../theory.d/THEORY-084.md)'s, Proposed. This claim does not need them: its core is
 Davis–Kahan.
+
+## Note of 2026-10-20: a gap-isolated subspace need not count slow variables
+
+Nadler, Lafon, Coifman and Kevrekidis ([NOTE-tmpvqn3y](../notes.d/NOTE-tmpvqn3y.md), §5.2) show that a
+slow subspace isolated by a gap can be spanned by several functions of one
+slow variable, ψ and its powers, when the gap between that variable's
+harmonics and the fast modes is wide. So the dimension of the subspace
+this claim makes definite is not the number of slow variables. The object
+is still the subspace. Reading off how many independent slow variables it
+holds needs a further step, which the gap does not supply.

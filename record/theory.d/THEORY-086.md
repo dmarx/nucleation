@@ -4,7 +4,12 @@ status: Active
 formerly:
 - THEORY-tmpo9r23
 title: 'In the kernel regime gradient descent fits the target eigenspace by eigenspace of the neural tangent kernel, at rates set by their eigenvalues; on uniform spherical data the eigenspaces are the harmonic degrees, and for fully connected ReLU networks the non-zero eigenvalues decay as k^(−d) at every depth'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Connections gain a line separating this account's eigenvalue decay from the Fourier decay in Rahaman et al. (THEORY-tmpuaxgt). The account is unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -128,3 +133,9 @@ theorems, consistent with them.
   claim about the Fisher of the same networks and its spectral thresholds.
 - **[THEORY-080](THEORY-080.md)** reads the same spectrum as a prior and computes the
   Occam factor it implies.
+- **Not the same k^(−d−1) as spectral bias (2026-10-20).** [THEORY-tmpuaxgt](THEORY-tmpuaxgt.md)
+  (Rahaman et al.) bounds the Fourier transform of a ReLU network's
+  function, which decays as k^(−d−1) in generic directions. The decay
+  here, k^(−d), is of NTK eigenvalues, which are learning rates. The two
+  are different objects and should not be cited as agreeing or
+  disagreeing.

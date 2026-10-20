@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 2
+version: 5
 history:
 - version: 2
   date: '2026-10-16'
@@ -12,6 +12,20 @@ history:
     grounds gains THEORY-661, which states the near-decomposability
     result (slow, aggregate dynamics between weakly coupled blocks) this
     claim cites Simon for. The claim is unchanged.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    Note of 2026-10-19 added, from the exchange on coarse-to-fine
+    processes: three sources of a timescale hierarchy that the claim's
+    "characteristically" runs together. The claim is unchanged.
+- version: 4
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added, from the readings of that day: in turbulence the ordering of time scales is graded and moves with the analyst's cut (THEORY-tmp4ou43), and weak coupling alone does not make an aggregate slower (NOTE-tmpinykd). The claim is unchanged.
+- version: 5
+  date: '2026-10-20'
+  note: >-
+    The note of 2026-10-20 gains a third point, from the reading of slow feature analysis (NOTE-tmp6kiiy): hierarchies built to be slow are slower by construction and are not evidence for the claim. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,7 +63,9 @@ complements:
 supports:
 - CLAIM-344
 ---
-
+<!-- inactive-ok-file: THEORY-tmp4ou43 — Proposed; the measured memory length cited for the graded ordering, open -->
+<!-- inactive-ok-file: LIT-tmpko78q — Deferred; works registered unread, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-923 — Unavailable; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-331: A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
 
@@ -123,3 +139,57 @@ and twice confirmed its own limit.
   0.98, while the members are resampled and never read it. Strong
   timescale separation, no level. It is the construction behind "Not that
   a slow variable is a level" above.
+
+## Note of 2026-10-19: three sources of slowness
+
+A4 of the exchange of 2026-10-19 on coarse-to-fine processes read this
+claim against the physics of model reduction and separated three situations
+that "timescale hierarchy" groups:
+
+1. **Weakly coupled subsystems.** Slow collective modes follow from
+   near-decomposability. That is [THEORY-661](../theory.d/THEORY-661.md), the mechanism this claim cites.
+2. **Metastable systems.** Slow transitions run between long-lived
+   configurations ([QUESTION-079](../questions.d/QUESTION-079.md), [THEORY-571](../theory.d/THEORY-571.md)).
+3. **Turbulent systems.** "Scale-dependent turnover times coexist with
+   persistent transfer across scales", with no clean slow–fast split (Eyink
+   2005, [LIT-tmpko78q](../literature.d/LIT-tmpko78q.md), unread).
+
+A4: "CLAIM-331 already avoids defining levels by slowness alone. The
+expansion could make that qualification much more precise. It might also
+reveal whether its phrase *characteristically slower* is actually justified
+outside a restricted class of systems." That is a test of scope, not
+evidence against the claim. The third situation is the one this claim's
+`defeated_if` would need: variables another criterion individuates as
+higher-level, changing as fast as their constituents over ordinary
+dynamics. Nobody has yet shown that a cascade has such variables. A5 added
+that memory may carry a level's persistence where no instantaneous
+variable is slow ([QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md)).
+
+## Note of 2026-10-20: graded slowness, and weak coupling without it
+
+Two readings of the coarse-to-fine program bear on the facet this claim
+names. Neither defeats it.
+
+- **In turbulence the ordering is graded and set by the cut.** Parish and
+  Duraisamy ([NOTE-tmpg06if](../notes.d/NOTE-tmpg06if.md)) fit the memory length of the unresolved scales
+  at about a fifth of the fastest resolved time scale. It shortens as the
+  Reynolds number rises and lengthens as the cutoff is coarsened
+  ([THEORY-tmp4ou43](../theory.d/THEORY-tmp4ou43.md), Proposed). The unresolved scales are faster, so the
+  ordering this claim expects holds. But it holds by a ratio that moves
+  with where the analyst cuts, not across a gap. That is the third
+  situation of the note of 2026-10-19, now with numbers.
+- **Weak coupling is not slowness.** On Shpak, Stadler, Wagner and
+  Altenberg's flat landscape ([NOTE-tmpinykd](../notes.d/NOTE-tmpinykd.md)), coupling between blocks is
+  entrywise weak at every mutation rate. Yet the block's internal gap and
+  the global slow rate stay in a ratio near 0.94, so the aggregate is not
+  slower than the activity inside the blocks. Simon's mechanism needs a
+  spectral gap, not just small off-block entries. This is a limit on the
+  mechanism the claim cites ([THEORY-661](../theory.d/THEORY-661.md)), not on the claim, which already
+  says slowness is a mark of a level and not its definition.
+- **Slow by construction is not evidence.** Wiskott and Sejnowski's slow
+  feature analysis ([NOTE-tmp6kiiy](../notes.d/NOTE-tmp6kiiy.md), [THEORY-tmp45pcv](../theory.d/THEORY-tmp45pcv.md)) builds a hierarchy
+  whose higher stages are slower because the objective requires it, and
+  only weakly. On test data the slowness curves across layers cross. The
+  slowest outputs include location, which is not an invariant, and nothing
+  reads them back, as in [CASE-116](../cases.d/CASE-116.md) arm A. Hierarchies optimized for slowness
+  should not be cited as cases of this claim.

@@ -16,7 +16,7 @@ promote_when: >-
   cannot settle it: further toy models built from a planted causal graph,
   which the authors call privileged by construction.
 title: "Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -33,6 +33,10 @@ history:
     the reals, and is corrected. The promote_when loses the generic-absence
     clause, which the new entry settles. This THEORY extends it and stays
     Proposed.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Connections gain the readings of 2026-10-20: memory against dynamical independence (CLAIM-tmpmonrv), the conditioning difference from optimal prediction (NOTE-tmpi32zs), and the inward-coupling bound (CLAIM-tmpymy0a). The account is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -157,3 +161,21 @@ full in [NOTE-791](../notes.d/NOTE-791.md) (arXiv:2106.06511v2).
 - **[CLAIM-152](../claims.d/CLAIM-152.md).** It is consistent with [CLAIM-152](../claims.d/CLAIM-152.md): this is still
   sufficiency for a target, fixed here as self-prediction. It does not
   refute it.
+
+- **Mori–Zwanzig memory (2026-10-20).** In a linear Gaussian VAR(1),
+  exact dynamical independence implies that the coarse variable's
+  Mori–Zwanzig memory vanishes, but zero memory does not imply
+  independence ([CLAIM-tmpmonrv](../claims.d/CLAIM-tmpmonrv.md)). Memory is the round trip out of the coarse
+  variable and back; dependence is the inward leg alone. Optimal
+  prediction ([NOTE-tmpzc5m1](../notes.d/NOTE-tmpzc5m1.md), [NOTE-tmpi32zs](../notes.d/NOTE-tmpi32zs.md)) also conditions differently.
+  It conditions on the resolved initial value under an initial law, where
+  this criterion conditions on the variable's own stationary history. So
+  the two literatures' "closure" are not one notion.
+- **Weak incoming coupling (2026-10-20).** For a block of coordinates,
+  dynamical dependence is of second order in the coupling into it
+  ([CLAIM-tmpymy0a](../claims.d/CLAIM-tmpymy0a.md)). That is the quantitative form of "independence
+  forbids incoming".
+- **Causal emergence (2026-10-20).** [THEORY-tmpyjeab](THEORY-tmpyjeab.md): Rosas et al.'s Ψ
+  subtracts exactly the one-step dynamical dependence, which bounds this
+  account's history-conditioned dependence from above. So Ψ's decoupling
+  term vanishing implies dynamical independence, but not conversely.
