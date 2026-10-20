@@ -1,20 +1,22 @@
 ---
 number: 419
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2k3a9
-promote_when: >-
-  A reading of the chapters that define and use the operator (chapter 3 on
-  the do-calculus and identification, chapter 7 on structural
-  counterfactuals, and §§11.4.3–11.4.7 on whether do(x) is universal) which
-  confirms that surgery on autonomous equations is the book's definition
-  of intervention throughout, and states the conditions the book puts on
-  it. It would be refuted only if the book defines intervention otherwise
-  where the excerpts were silent. More citations of the do-calculus cannot
-  settle it, since what is at issue is what the excerpts show the book
-  says, not whether the calculus is used.
-title: "In a structural causal model an intervention do(X = x) is a surgery that deletes X's own equation, sets X to x and solves the rest, while observing X = x violates no equation and is ordinary conditioning; so models that agree on every observational distribution can disagree on the effect of an intervention, and a structural coefficient is the rate of change of E[Y | do(x)], not a regression slope"
-version: 1
+title: "In a structural causal model of autonomous equations, with intervention do(X = x) defined, as Pearl defines it, as a surgery that deletes X's own equation, sets X to x and solves the rest, and with observing X = x violating no equation and amounting to ordinary conditioning, models that agree on every observational distribution can disagree on the effect of an intervention, and in a structural equation y = βx + ε the coefficient β is the rate of change of E[Y | do(x)], which equals the regression slope of Y on X only when X is uncorrelated with ε"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-419 (batch 054, ADR-047 v2). The definition is taken as
+    Pearl gives it in the pages NOTE-696 read in full (§5.3.3 and the
+    Epilogue). Its two consequences are re-derived in the dated note below.
+    The regression clause is stated exactly. The note also corrects the
+    body's quoted parameters for the two models: they agree as quoted only
+    when x = u. The book-wide reading the promote_when asked for moves to
+    QUESTION-tmpa4291.
 tags:
 - causality
 - probabilistic-modeling
@@ -40,7 +42,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-127 CLAIM-130 — Proposed; the claims that cite this account, named in Connections -->
 <!-- inactive-ok-file: THEORY-491 — Proposed; named in Connections, not leaned on -->
 
-# THEORY-419: In a structural causal model an intervention do(X = x) is a surgery that deletes X's own equation, sets X to x and solves the rest, while observing X = x violates no equation and is ordinary conditioning; so models that agree on every observational distribution can disagree on the effect of an intervention, and a structural coefficient is the rate of change of E[Y | do(x)], not a regression slope
+# THEORY-419: In a structural causal model of autonomous equations, with intervention do(X = x) defined, as Pearl defines it, as a surgery that deletes X's own equation, sets X to x and solves the rest, and with observing X = x violating no equation and amounting to ordinary conditioning, models that agree on every observational distribution can disagree on the effect of an intervention, and in a structural equation y = βx + ε the coefficient β is the rate of change of E[Y | do(x)], which equals the regression slope of Y on X only when X is uncorrelated with ε
 
 ## Source
 
@@ -123,3 +125,33 @@ interventional query separates them.
   stated here.
 - Randomisation as surgery, with a coin as the new mechanism (p. 418),
   bears on the arguments weighed in [THEORY-491](THEORY-491.md).
+
+## Note of 2026-10-20: the two consequences, derived
+
+Derived for the promotion audit (batch 054, [ADR-047](../decisions.d/ADR-047.md) v2), taking the
+surgery and conditioning definitions as stated on pp. 157–158, 417 and 421.
+
+1. **Same observations, different interventions.** In M (x = u + ε₁,
+   z = αx + ε₂, y = βz + γu + ε₃, with independent zero-mean Gaussian u
+   and ε's), put k = σ_u²/(σ_u² + σ₁²) and ε₃′ = γ(u − kx) + ε₃.
+   Cov(u − kx, x) = 0, so ε₃′ is independent of x and of ε₂. Then
+   M′ (x exogenous, z = αx + ε₂, y = βz + γk·x + ε₃′) is a Markovian model
+   with the same joint distribution of (x, z, y). Surgery on x gives
+   E[Y | do(x)] = αβx in M and (αβ + γk)x in M′, which differ whenever
+   γ ≠ 0 and σ_u > 0. A simulation (α = 0.7, β = 1.3, γ = 0.9, σ_u = 1,
+   σ₁ = 0.8, 2·10⁶ draws) reproduced matching covariances and do-slopes
+   0.91 and 1.46.
+2. **The structural coefficient.** If y = βx + ε is structural (Definition
+   5.4.1), then under do(X = x), Y = βx + ε with ε's distribution unchanged,
+   so E[Y | do(x)] = βx + E[ε] and its derivative is β. The regression slope
+   is β + Cov(X, ε)/Var(X), which is β exactly when X and ε are
+   uncorrelated.
+3. **A correction to "What was actually shown".** The quoted agreement of M
+   and M′ with α′ = α, β′ = β and δ = γ, and E(Y | x) = (αβ + γ)x in M, hold
+   only when σ₁ = 0, that is when x = u. For σ₁ > 0 the regression slope is
+   αβ + γk, and the matching M′ needs δ = γk and
+   Var(ε₃′) = γ²σ_u²(1 − k) + σ₃². The conclusion needs only one such pair,
+   so it stands.
+
+Whether the book defines intervention the same way in the chapters not read
+is [QUESTION-tmpa4291](../questions.d/QUESTION-tmpa4291.md).
