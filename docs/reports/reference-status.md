@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**498 documents cited without acknowledgement.** Not listed: 9640 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**497 documents cited without acknowledgement.** Not listed: 9622 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2816,7 +2816,7 @@ The reverse-engineered grokking network computes modular addition by multiplying
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-058.md:27`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:47`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:48`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
 
@@ -3840,7 +3840,7 @@ Recovering latent structure from relational data is three achievements, reconstr
 2 citations in 1 file await a look; 16 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:27`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:43`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:44`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-137](../../record/claims.d/CLAIM-137.md) — Proposed
 
@@ -3849,7 +3849,7 @@ A communicative kind is identified by an invariant that does not depend on any o
 2 citations in 1 file await a look; 30 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:26`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:43`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:44`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-155](../../record/claims.d/CLAIM-155.md) — Proposed
 
@@ -4597,15 +4597,6 @@ The classical theorems on sufficient statistics need only the copy/discard struc
 
 - [`record/questions.d/QUESTION-065.md:25`](../../record/questions.d/QUESTION-065.md)
 - [`record/questions.d/QUESTION-065.md:46`](../../record/questions.d/QUESTION-065.md)
-
-### [THEORY-181](../../record/theory.d/THEORY-181.md) — Proposed
-
-In a model that decodes the sum of two learned embeddings, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free, and the critical training fraction is where that becomes likely
-
-2 citations in 1 file await a look; 7 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-058.md:28`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:48`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-200](../../record/theory.d/THEORY-200.md) — Proposed
 

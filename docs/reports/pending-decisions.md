@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**756 document(s) awaiting a decision.**
+**754 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 756.
+95 of the 754.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-430 of the 756.
+428 of the 754.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -252,7 +252,6 @@
 | 2026-10-09 | Proposed | [THEORY-180](../../record/theory.d/THEORY-180.md) | 12 | 0 | In a tied single-head attention layer trained by ridge-penalized empirical risk minimization on high-dimensional Gaussian sequences, weight decay is a nuclear-norm penalty on the query–key map, and the learned map is a soft-thresholded noisy copy of the target: its outliers are recovered target directions and its bulk is finite-sample noise |
 | 2026-10-09 | Proposed | [THEORY-204](../../record/theory.d/THEORY-204.md) | 12 | 2 | In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows |
 | 2026-10-09 | Proposed | [THEORY-163](../../record/theory.d/THEORY-163.md) | 10 | 0 | The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it |
-| 2026-10-09 | Proposed | [THEORY-181](../../record/theory.d/THEORY-181.md) | 9 | 2 | In a model that decodes the sum of two learned embeddings, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free, and the critical training fraction is where that becomes likely |
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 8 | 2 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
 | 2026-10-09 | Proposed | [THEORY-166](../../record/theory.d/THEORY-166.md) | 8 | 1 | Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability |
 | 2026-10-09 | Proposed | [THEORY-170](../../record/theory.d/THEORY-170.md) | 8 | 0 | Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message |
@@ -288,7 +287,6 @@
 | 2026-10-14 | Proposed | [THEORY-304](../../record/theory.d/THEORY-304.md) | 13 | 0 | In plane Couette and Poiseuille flow the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability |
 | 2026-10-14 | Proposed | [THEORY-243](../../record/theory.d/THEORY-243.md) | 12 | 0 | Interchange interventions on a fixed set of variables can be satisfied equally by different alignments related by a change of basis, so which internal direction is the mediating variable is fixed only relative to a chosen decomposition into units |
 | 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 12 | 0 | Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided |
-| 2026-10-14 | Proposed | [THEORY-237](../../record/theory.d/THEORY-237.md) | 11 | 0 | The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ, MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and each is tight only at a critic equal to the log density ratio up to a term its normalization leaves free |
 | 2026-10-14 | Proposed | [THEORY-268](../../record/theory.d/THEORY-268.md) | 11 | 0 | An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment |
 | 2026-10-14 | Proposed | [THEORY-277](../../record/theory.d/THEORY-277.md) | 11 | 0 | For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated |
 | 2026-10-14 | Proposed | [THEORY-282](../../record/theory.d/THEORY-282.md) | 11 | 0 | A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data |
@@ -548,7 +546,7 @@
 
 ## ADRs
 
-2 of the 756.
+2 of the 754.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -557,7 +555,7 @@
 
 ## QUESTIONs
 
-9 of the 756.
+9 of the 754.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -573,7 +571,7 @@
 
 ## CLAIMs
 
-215 of the 756.
+215 of the 754.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -795,7 +793,7 @@
 
 ## CASEs
 
-1 of the 756.
+1 of the 754.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -803,7 +801,7 @@
 
 ## TERMs
 
-2 of the 756.
+2 of the 754.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -812,7 +810,7 @@
 
 ## ARGs
 
-2 of the 756.
+2 of the 754.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

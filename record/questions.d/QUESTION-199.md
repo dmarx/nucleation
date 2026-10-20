@@ -1,5 +1,8 @@
 ---
+number: 199
 status: Open
+formerly:
+- QUESTION-tmp322q5
 title: "Does the training fraction at which networks summing two learned embeddings generalise follow the fraction at which the training set's same-answer equations leave only translation and scale free, across group sizes?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   multi-size test; this question holds it.
 ---
 
-# QUESTION-tmp322q5: Does the training fraction at which networks summing two learned embeddings generalise follow the fraction at which the training set's same-answer equations leave only translation and scale free, across group sizes?
+# QUESTION-199: Does the training fraction at which networks summing two learned embeddings generalise follow the fraction at which the training set's same-answer equations leave only translation and scale free, across group sizes?
 
 ## Why it is a question
 

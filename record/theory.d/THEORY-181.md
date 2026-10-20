@@ -15,7 +15,7 @@ history:
     loss and an injective decoder. The critical-fraction clause is held to
     the one size Liu et al. measured, non-modular addition with p = 10 and
     1D embeddings. The former promote_when, a test across sizes, moves to
-    QUESTION-tmp322q5.
+    QUESTION-199.
 tags:
 - representation-learning
 - learning-theory
@@ -134,6 +134,6 @@ the text states. The steps trained networks need to realise 95% of the
 parallelograms diverge at the same fraction (Fig. 4a–b). That is one study
 at one size, so the title is held to it ([ADR-047](../decisions.d/ADR-047.md) v3). That the critical
 fraction tracks the nullity threshold at other sizes, which the former
-promote_when asked, is [QUESTION-tmp322q5](../questions.d/QUESTION-tmp322q5.md). Power et al.'s critical fraction
+promote_when asked, is [QUESTION-199](../questions.d/QUESTION-199.md). Power et al.'s critical fraction
 comes from a different task, modular arithmetic with a transformer, and
 the title no longer names it.
