@@ -26,7 +26,7 @@ summary: >-
   coexistence and exclusion. Heterogeneous embeddings, unequal routing
   weights or persistent expert identities do not answer it.
 ---
-<!-- inactive-ok-file: CLAIM-277 CLAIM-362 LIT-1219 THEORY-548 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-277 CLAIM-362 LIT-1219 — Proposed or Deferred; open claims, readings and works cited as open, nothing here rests on their being settled -->
 
 # QUESTION-132: Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?
 

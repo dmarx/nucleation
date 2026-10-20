@@ -35,7 +35,7 @@ summary: >-
   verdicts depend on the prior; under the speed prior everything may look
   like an agent.
 ---
-<!-- inactive-ok-file: CLAIM-168 CLAIM-174 THEORY-036 THEORY-249 THEORY-527 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-168 CLAIM-174 THEORY-036 THEORY-249 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited for the position it states, not leaned on -->
 
 # THEORY-624: Whether an identified system is an agent or a device can be cast as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so the verdict is relative to the observer's prior; on toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and some priors make everything look like an agent
