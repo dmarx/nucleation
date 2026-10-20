@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/THEORY-436.yaml
+id: THEORY-436
+batch: batch-074
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: a metaphysical hypothesis with the argument for it and its limiting condition
+hand_label: argument
+triage_007_label: measurement
+agrees_with_classifier: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Putnam (1967), LIT-396, recorded as Skimmed in NOTE-335 from a course
+    excerpt; the full 1967 text is closed. The title states Putnam's
+    functionalist hypothesis, his multiple-realizability argument for its
+    greater plausibility, and the record's observation that condition (3)
+    excludes swarms only by stipulation. None of it is measured or derived.
+  excluded: >-
+    "The more plausible empirical hypothesis" calls for comparative
+    evidence (one pain predicate applying across organisms with different
+    physical correlates, by the same functional criteria), which neither
+    the source nor the record holds.
+  dropped_clause_routes: []
+evidence:
+  - "LIT-396, Skimmed in NOTE-335 from a course excerpt."
+contradictions_in_record: none checked beyond the entry's own connections
+blockers:
+  - "A first-hand reading of the 1967 text, which is closed; the promote_when asks for it."
+  - "The comparative evidence on pain across physically different organisms that the promote_when names."
+recommended_wave: 5
+notes: >-
+  Triage-007 called this a measurement (margin 3), probably on "empirical
+  hypothesis"; it is an argument. A reading task for the closed source
+  comes before any wave-5 review.

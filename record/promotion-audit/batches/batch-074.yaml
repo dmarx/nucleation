@@ -1,0 +1,66 @@
+# record/promotion-audit/batches/batch-074.yaml
+batch: batch-074
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+selection: >-
+  Triage-007's measurement_route, entries 11-15 in its order: THEORY-360,
+  -547, -674, -436 and -627, all at margin 3. Each was sorted by hand by
+  what its title asserts (batch 020) before review, and the hand label is
+  recorded against triage-007's. ADR-047 v4 is in force: each clause a
+  narrowing drops is routed, and the routes are in the decision files.
+reviewed: [THEORY-360, THEORY-547, THEORY-674, THEORY-436, THEORY-627]
+outcomes:
+  narrow-and-promote: [THEORY-360, THEORY-674]
+  retain-proposed: [THEORY-547, THEORY-436, THEORY-627]
+yield: >-
+  2 of 5 have a promotion path. THEORY-674 narrows to its extraction's
+  series with the controlled slope beside it, and THEORY-360 to the
+  timing and Table 1 comparison; each narrowing's dropped claim is the
+  source's own thesis and is filed as a new Proposed THEORY in the same
+  PR (ADR-047 v4). THEORY-547, -436 and -627 are arguments the classifier
+  called measurements.
+promotion_prs:
+  - "PR pending: THEORY-674 and THEORY-360 narrowed and promoted, with two new Proposed carriers (branch claude/promote-theories-674-360)."
+band:
+  - {code: THEORY-360, title_asserts: measurement plus a report of the authors' reading, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-547, title_asserts: argument from an idealization, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-674, title_asserts: measurement of an extraction plus the economics claim, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-436, title_asserts: metaphysical hypothesis and its argument, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-627, title_asserts: argument about oversight with a prescription, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
+dropped_clause_routes:
+  THEORY-674:
+    - {clause: "the share of design-backed claims in economics rose about fourfold", kind: 1, carrier: new Proposed THEORY extending THEORY-674}
+  THEORY-360:
+    - {clause: "over-rotation and the wall check rising with drop height (figure-only)", kind: 1, carrier: new Proposed THEORY extending THEORY-360}
+    - {clause: "the moves are epistemic actions standing in for mental computation", kind: 1, carrier: the same new Proposed THEORY}
+    - {clause: "a saving argued from timing, not measured", kind: 3, carrier: the new entry's body}
+notes_for_ledger:
+  - >-
+    Hand against classifier: 2 of 5 agree. All five sit at margin 3, and
+    the three misses are arguments whose titles use empirical words
+    ("empirical hypothesis", "open empirical question", "may exploit a
+    cognitive process"). With batch 063 (3 of 5 at margins 3-4), the
+    measurement label below margin 4 looks no better than a coin.
+  - >-
+    ADR-047 v4 changes what a narrowing PR carries. In both narrowings here
+    the old promote_when tested the dropped claim rather than the
+    measurement, so it moved with that claim to the new Proposed carrier
+    instead of to a QUESTION. Expect this whenever a title's measured part
+    is fully supported and its promote_when asks for something else.
+  - >-
+    A figure with no printed numbers keeps a clause out of an Active title
+    under v3, but under v4 it need not be lost: THEORY-360's over-rotation
+    result is carried, with the reading it supports, by the Proposed entry.
+  - >-
+    The UCSD copy of Kirsh and Maglio (adrenaline.ucsd.edu) now redirects to
+    HTTPS with a certificate that does not verify from here; NOTE-878's
+    reading, with its script-checked quotations, was relied on. arXiv
+    PDFs fetch fine.
+owner_questions:
+  - >-
+    THEORY-547's definitional core (an idealized model sampling plausible
+    continuations has nothing in its collection that marks truth) is the
+    same kind of split as THEORY-476's; it waits on the open question on
+    splitting definitional cores (THEORY-110, -673, -476).
