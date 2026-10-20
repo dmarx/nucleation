@@ -1,0 +1,43 @@
+# record/promotion-audit/decisions/THEORY-267.yaml
+id: THEORY-267
+batch: batch-050
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3: one primary study, Rasooly and Rozzi (2025), read in full in
+    NOTE-778 with its regression tables (Tables 2, 3, A1, A3, A5), not only
+    captions. A pre-registered randomised field experiment on 817 Manifold
+    markets, each given a +5-point, -5-point or no trade. The yes-no gap
+    beta1 was 0.0748 at one week (about 25% reversion), 0.0686 at 30 days
+    and 0.0586 [0.0114] at 60 days in the 771 markets not yet resolved
+    (0.0559 in the full sample), all p < 0.01, symmetric between yes and no.
+    So about 59% of a random shock that no trader's information supported
+    was still in the price after 60 days, with reversion fast in the first
+    week and slower afterwards. The model's partial, slowing reversion with
+    finite risk-averse traders and no learning is Lemma 3 plus simulation
+    (Table A1), and is reported as the paper's model, not as the cause.
+  excluded: >-
+    "A prediction-market price" in general: one platform, play money, one
+    shock size; the 110-market real-money follow-up reverted faster and ran
+    a week. "Because later trading undoes only part of it": the data cannot
+    tell limited rebalancing from learning from the price; that is the
+    model's mechanism, not a measured cause. "At least sixty days" stays,
+    since 60 days was the last measurement.
+evidence:
+  - "LIT-958, §§2-6 and Appendices A-C, read in full in NOTE-778 (tables read, figures from captions and text)."
+blockers: []
+notes: >-
+  Triage-006 scored it 2 (relation, derived). It is a measurement, not
+  formal. The promote_when asks for a second experiment or a belief-
+  measuring design, which moves to a new QUESTION under ADR-047 v3.
+unlocks: []
+next_action: >-
+  Promote in a PR with the title narrowed to the Manifold experiment's
+  measured persistence, the mechanism reported as the paper's model, and
+  the former promote_when moved to a new QUESTION refining QUESTION-047.
