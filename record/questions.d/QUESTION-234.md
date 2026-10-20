@@ -1,5 +1,8 @@
 ---
+number: 234
 status: Open
+formerly:
+- QUESTION-tmpszev1
 title: 'Do interchange interventions leave the mediating direction underdetermined in trained networks: do two basis-related alignments in a trained model tie on every interchange drawn from the data, and for which networks are alignments that agree on all such interventions unique up to a stated symmetry?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   moves here.
 ---
 
-# QUESTION-tmpszev1: Do interchange interventions leave the mediating direction underdetermined in trained networks: do two basis-related alignments in a trained model tie on every interchange drawn from the data, and for which networks are alignments that agree on all such interventions unique up to a stated symmetry?
+# QUESTION-234: Do interchange interventions leave the mediating direction underdetermined in trained networks: do two basis-related alignments in a trained model tie on every interchange drawn from the data, and for which networks are alignments that agree on all such interventions unique up to a stated symmetry?
 
 ## Why it is a question
 

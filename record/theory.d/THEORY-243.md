@@ -15,7 +15,7 @@ history:
     constructed network proves, and no longer generalises to "fixed only
     relative to a chosen decomposition into units". A tie in a trained
     network, or a uniqueness bound, the former promote_when, moves to
-    QUESTION-tmpszev1.
+    QUESTION-234.
 tags:
 - causality
 - philosophy-of-science
@@ -34,7 +34,7 @@ summary: >-
   checked. Makelov et al. rest their verdict on component boundaries; the
   reply rests its on the interventions performed. Shown exactly for one
   constructed network only; whether trained networks have such ties is
-  open (QUESTION-tmpszev1).
+  open (QUESTION-234).
 ---
 
 # THEORY-243: In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal change of basis, pass every interchange intervention on the input equally, so interchange interventions on that variable alone do not fix which internal direction mediates it
@@ -142,7 +142,7 @@ either basis.
 direction is the mediating variable is fixed only relative to a chosen
 decomposition into units". That holds in this network. As a general
 statement it needs the trained-network tie or the uniqueness bound that
-the former promote_when asked for, and that is now [QUESTION-tmpszev1](../questions.d/QUESTION-tmpszev1.md).
+the former promote_when asked for, and that is now [QUESTION-234](../questions.d/QUESTION-234.md).
 
 The reply's remark that aligning a second variable separates the two
 alignments was not checked. [CLAIM-150](../claims.d/CLAIM-150.md) cites this account as a proved

@@ -16,7 +16,7 @@ history:
     window overlaps the prediction on both corpora. The title now states
     the measured match and the conditional derivation, and no longer says
     the horizon is why real learners show the exponent. That test, the
-    former promote_when, moves to QUESTION-tmpcvdv0.
+    former promote_when, moves to QUESTION-233.
 tags:
 - learning-theory
 - linguistics
@@ -33,7 +33,7 @@ summary: >-
   WikiText-103, with transformers up to about 10^8 tokens and horizons of
   tens of tokens, the fitted exponent overlaps γ/(2β), best near the start
   of the envelope; γ is estimated from trained models' own n-gram losses.
-  Whether the horizon is why is open (QUESTION-tmpcvdv0).
+  Whether the horizon is why is open (QUESTION-233).
 answers:
 - QUESTION-039
 ---
@@ -148,5 +148,5 @@ reaches the prediction.
 **What moved.** The title used to say the loss falls as P^(−γ/(2β))
 *because* P tokens resolve correlations only out to the horizon. The match
 does not show that the horizon is the reason. The test that would, the
-former promote_when, is now [QUESTION-tmpcvdv0](../questions.d/QUESTION-tmpcvdv0.md).
+former promote_when, is now [QUESTION-233](../questions.d/QUESTION-233.md).
 

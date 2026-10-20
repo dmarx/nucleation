@@ -1,5 +1,8 @@
 ---
+number: 233
 status: Open
+formerly:
+- QUESTION-tmpcvdv0
 title: 'Do language models show the data-limited exponent γ/(2β) because data limits the usable horizon: does the exponent track γ/(2β) when one corpus statistic is moved and the other held, and does the match survive at horizons of thousands of tokens with γ estimated outside the model class?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   it moves here.
 ---
 
-# QUESTION-tmpcvdv0: Do language models show the data-limited exponent γ/(2β) because data limits the usable horizon: does the exponent track γ/(2β) when one corpus statistic is moved and the other held, and does the match survive at horizons of thousands of tokens with γ estimated outside the model class?
+# QUESTION-233: Do language models show the data-limited exponent γ/(2β) because data limits the usable horizon: does the exponent track γ/(2β) when one corpus statistic is moved and the other held, and does the match survive at horizons of thousands of tokens with γ estimated outside the model class?
 
 ## Why it is a question
 
