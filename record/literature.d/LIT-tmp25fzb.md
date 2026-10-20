@@ -79,18 +79,18 @@ should check it first.
 ## Why this is here
 
 Filed at the owner's request on 2026-10-20 as contemporary work in
-conversation with Lessig's *Remix* (LIT-tmpreyek) at the intersection of
+conversation with Lessig's *Remix* ([LIT-tmpreyek](LIT-tmpreyek.md)) at the intersection of
 property and expression. Lessig argues from the copy: every digital use
-makes one, so copyright reaches every use (NOTE-tmptp3k0). Drassinower
+makes one, so copyright reaches every use ([NOTE-tmptp3k0](../notes.d/NOTE-tmptp3k0.md)). Drassinower
 argues that copying as such is not the wrong, which is the opposite
 starting point to the same complaint.
 
 It would be read for the record's line on what a work is across its
-renderings. If a work is a communicative act, then CLAIM-002 (a text's
+renderings. If a work is a communicative act, then [CLAIM-002](../claims.d/CLAIM-002.md) (a text's
 identity across retellings as identity of artifact, continuity of
 transmission and similarity of communicative function) has a legal
 counterpart, and the line between using a work as speech and using it
-mechanically is a candidate for CLAIM-210's line between being a
-rendering and only sharing a kind. Both bear on QUESTION-002 (what
+mechanically is a candidate for [CLAIM-210](../claims.d/CLAIM-210.md)'s line between being a
+rendering and only sharing a kind. Both bear on [QUESTION-002](../questions.d/QUESTION-002.md) (what
 survives translation, retelling or rendering). Whether the book says
 anything usable on those points is not known until it is read.

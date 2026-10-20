@@ -221,17 +221,17 @@ filed in this record separately.
 
 ## Bearing on the record
 
-- **CLAIM-210 (sharing a kind versus being a rendering).** The sharpest
+- **[CLAIM-210](../claims.d/CLAIM-210.md) (sharing a kind versus being a rendering).** The sharpest
   point of contact. Drassinower's anchor, as reported, is independent
   creation: a work identical to an earlier one but made without copying
   does not infringe and may be protected itself (p. 1052). That is
-  CLAIM-210's distinction in legal form: two works can share everything
+  [CLAIM-210](../claims.d/CLAIM-210.md)'s distinction in legal form: two works can share everything
   that would be preserved and still differ in whether one is a rendering of
   the other, and the law's wrong attaches only to the rendering.
   Drassinower gives a reason the distinction matters normatively: the
   independent maker speaks in their own words, the copier speaks the
   author's.
-- **CLAIM-061 (footing and force).** CLAIM-061 says renderings that share
+- **[CLAIM-061](../claims.d/CLAIM-061.md) (footing and force).** [CLAIM-061](../claims.d/CLAIM-061.md) says renderings that share
   content can differ in footing. Drassinower's account of infringement is a
   claim about footing: an unauthorized reproduction is wrong because it
   presents the author as speaking, so that "a defendant purports to speak
@@ -239,20 +239,20 @@ filed in this record separately.
   said but in who is made to say it. The record could use this as a case
   where a change of footing, not of content, is what a community treats as
   the harm. The review does not use the word footing.
-- **CLAIM-002 (identity across retellings).** Copyright's copying
+- **[CLAIM-002](../claims.d/CLAIM-002.md) (identity across retellings).** Copyright's copying
   requirement weights continuity of transmission: similarity without
   derivation is no wrong. Drassinower's version adds that what is protected
   is the work as communication, not the artifact as object, which puts
-  weight on the third of CLAIM-002's relations, similarity of communicative
+  weight on the third of [CLAIM-002](../claims.d/CLAIM-002.md)'s relations, similarity of communicative
   function, as the thing whose unauthorized transmission wrongs the author.
   This is the book's view as reported, and the review does not discuss
   retellings or translation.
-- **QUESTION-002 and CLAIM-220 (what survives a rendering).** No direct
+- **[QUESTION-002](../questions.d/QUESTION-002.md) and [CLAIM-220](../claims.d/CLAIM-220.md) (what survives a rendering).** No direct
   bearing. The review never asks what a reproduction or a derivative work
   preserves. The communicative/noncommunicative line (*Baker*) is a line
   about uses, not about what survives a rendering. Whether the book treats
   translation as compelled speech is a question for the book.
-- **NOTE-tmptp3k0 (Lessig).** A real contrast. Lessig complains that
+- **[NOTE-tmptp3k0](NOTE-tmptp3k0.md) (Lessig).** A real contrast. Lessig complains that
   copyright regulates every copy, so ordinary digital use needs permission.
   On Drassinower's account as reported, copying for personal use is not
   within an author's copyright at all and noncommunicative uses are
@@ -262,7 +262,7 @@ filed in this record separately.
   remixer's own speech as an author among authors. Lessig argues the same
   outcomes from culture and economics; Drassinower, as reported, from the
   structure of the right.
-- **CASE-100, CLAIM-332, QUESTION-119.** No bearing.
+- **[CASE-100](../cases.d/CASE-100.md), [CLAIM-332](../claims.d/CLAIM-332.md), [QUESTION-119](../questions.d/QUESTION-119.md).** No bearing.
 - No instruction for machine-learning practice, and not held by the
   anthology.
 
@@ -294,4 +294,4 @@ filed in this record separately.
   the book say?
 - For the record: is the legal line between independent creation and
   copying evidence that communities treat the rendering relation of
-  CLAIM-210 as normatively significant apart from what is preserved?
+  [CLAIM-210](../claims.d/CLAIM-210.md) as normatively significant apart from what is preserved?

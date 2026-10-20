@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-20 (NOTE-tmpalydh) in full; worth reading as the standard statement that copyright law takes the written word as its model and so oscillates between treating images as transparent (their meaning obvious, a copy of reality) and as opaque (beyond analysis in words), of verbal overshadowing as a reason the substantial-similarity test cannot work, and of the proposal to replace that test with a reproduction right against exact or near-exact copies, leaving the rest to the derivative-works right. Read it knowing that it is US law as of 2011, that the cognitive findings are cited from the psychology literature rather than tested on legal factfinders, that the author flags the verbal-overshadowing effect as possibly smaller than first reported, and that the reform is stated without its implementation (n. 258).'
+status_note: 'read 2026-10-20 ([NOTE-tmpalydh](../notes.d/NOTE-tmpalydh.md)) in full; worth reading as the standard statement that copyright law takes the written word as its model and so oscillates between treating images as transparent (their meaning obvious, a copy of reality) and as opaque (beyond analysis in words), of verbal overshadowing as a reason the substantial-similarity test cannot work, and of the proposal to replace that test with a reproduction right against exact or near-exact copies, leaving the rest to the derivative-works right. Read it knowing that it is US law as of 2011, that the cognitive findings are cited from the psychology literature rather than tested on legal factfinders, that the author flags the verbal-overshadowing effect as possibly smaller than first reported, and that the reform is stated without its implementation (n. 258).'
 title: 'Worth a Thousand Words: The Images of Copyright'
 version: 1
 history:
@@ -56,7 +56,7 @@ Tushnet, R. (2012). Worth a Thousand Words: The Images of Copyright. *Harvard La
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpalydh.*
+*From the reading, [NOTE-tmpalydh](../notes.d/NOTE-tmpalydh.md).*
 
 - **Transparent or opaque.** Courts treat an image either as a window on
   reality whose meaning admits no debate, or as ineffable and beyond
@@ -81,7 +81,7 @@ Tushnet, R. (2012). Worth a Thousand Words: The Images of Copyright. *Harvard La
 ## Standing in the record
 
 Filed on 2026-10-20 at the owner's request, with Balganesh's review of
-Drassinower (LIT-tmpjk5ls), as reading on what copyright law thinks a work
-is. It cites Lessig's *Remix* (LIT-tmpreyek) for Read/Write culture and
-for the freedom to quote. Its bearing on the translation line (QUESTION-002,
-CLAIM-220, CLAIM-076) is set out in the reading.
+Drassinower ([LIT-tmpjk5ls](LIT-tmpjk5ls.md)), as reading on what copyright law thinks a work
+is. It cites Lessig's *Remix* ([LIT-tmpreyek](LIT-tmpreyek.md)) for Read/Write culture and
+for the freedom to quote. Its bearing on the translation line ([QUESTION-002](../questions.d/QUESTION-002.md),
+[CLAIM-220](../claims.d/CLAIM-220.md), [CLAIM-076](../claims.d/CLAIM-076.md)) is set out in the reading.

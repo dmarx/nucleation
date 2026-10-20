@@ -255,16 +255,16 @@ Ostrom, Hess and Carol Rose are thanked for the governance of the commons
 Litman, Patterson, Rose and Woodmansee. The music chapter relies on
 McLeod and Vaidhyanathan, Burkholder and Carroll (pp. 277–279).
 Chapter 8 is built on Benkler's "Coase's Penguin" and *The Wealth of
-Networks* (pp. 286, 289). Ostrom's *Governing the Commons* (LIT-737)
+Networks* (pp. 286, 289). Ostrom's *Governing the Commons* ([LIT-737](../literature.d/LIT-737.md))
 appears only in the notes, with Carol Rose, as nuance against Hardin's
 tragedy (pp. 264, 266). The text never uses Ostrom's design principles.
 Of Lessig's books it cites *The Future of Ideas* and *Free Culture* (pp.
-278, 293), not *Remix* (LIT-tmpreyek), which appeared the same year. It
-does not cite Jenkins (LIT-1121).
+278, 293), not *Remix* ([LIT-tmpreyek](../literature.d/LIT-tmpreyek.md)), which appeared the same year. It
+does not cite Jenkins ([LIT-1121](../literature.d/LIT-1121.md)).
 
 ## Bearing on the record
 
-- **LIT-tmpreyek and NOTE-tmptp3k0 (Lessig, Remix).** The two books agree
+- **[LIT-tmpreyek](../literature.d/LIT-tmpreyek.md) and [NOTE-tmptp3k0](NOTE-tmptp3k0.md) (Lessig, Remix).** The two books agree
   on the frame and differ in method. Three points of contact:
   1. *The copy trigger.* Lessig's argument that copyright now reaches every
      ordinary use because digital use always copies (*Remix*, pp. 98–103)
@@ -282,15 +282,15 @@ does not cite Jenkins (LIT-1121).
      for authenticity" (p. 150). Both authors assert this. Neither measures
      it.
   3. *A difference of diagnosis.* Lessig ends by blaming campaign money
-     (NOTE-tmptp3k0, *Remix* p. 294). Boyle says the cause is a sincerely
+     ([NOTE-tmptp3k0](NOTE-tmptp3k0.md), *Remix* p. 294). Boyle says the cause is a sincerely
      held worldview, not "economic determinism or industry conspiracy"
      (p. 199). Boyle's remedies for remix overlap with Lessig's (stronger
      fair use for amateur work, a licence for commerce, renewal after
      28 years). Boyle, unlike Lessig, rejects relying on technology to
      evade the law: "A system that can only function well through repeated
      lawbreaking is an unstable and dangerous one." (p. 157).
-- **CLAIM-002 and QUESTION-002 (what survives a retelling).** The music
-  chapter is a worked chain for CLAIM-002. From "I've Got a Savior" to
+- **[CLAIM-002](../claims.d/CLAIM-002.md) and [QUESTION-002](../questions.d/QUESTION-002.md) (what survives a retelling).** The music
+  chapter is a worked chain for [CLAIM-002](../claims.d/CLAIM-002.md). From "I've Got a Savior" to
   "I Got a Woman" to "Gold Digger" to The Legendary K.O., the melody and
   the phrase pattern carry through ("I've got a savior, Oh what a savior"
   becomes "I got a woman, way over town" becomes "There's a Gold Digger,
@@ -302,35 +302,35 @@ does not cite Jenkins (LIT-1121).
   pulling apart. The received transmission story (a 1904 hymn) was wrong.
   Similarity of melody found the real source (pp. 127, 133). It would be a
   candidate CASE if the chain turns up again.
-- **CLAIM-210 (kind versus rendering).** Copyright's line between genre and
-  song maps onto CLAIM-210. Genre-defining sequences such as the twelve-bar
+- **[CLAIM-210](../claims.d/CLAIM-210.md) (kind versus rendering).** Copyright's line between genre and
+  song maps onto [CLAIM-210](../claims.d/CLAIM-210.md). Genre-defining sequences such as the twelve-bar
   blues or the flattened fifth are left free. Charles's borrowing "is not
   just copying the genre. It is copying the lines of the song within the
   genre." (p. 154). *Bridgeport*'s advice to re-create a riff instead of
   sampling it amounts to an independent utterance of the same kind, with
   no fidelity to the source. Boyle's report that samplers refuse it fits
-  CLAIM-210's point that kind-sharing is not transport.
-- **CLAIM-034 (fidelity among other goals).** *Acuff-Rose*, as Boyle reads
+  [CLAIM-210](../claims.d/CLAIM-210.md)'s point that kind-sharing is not transport.
+- **[CLAIM-034](../claims.d/CLAIM-034.md) (fidelity among other goals).** *Acuff-Rose*, as Boyle reads
   it, makes the goal of a rendering decide its legality. Parody that
   "takes aim" at its original gets favoured treatment as fair use. Satire
   that uses the original to hit another target does not (pp. 151–152). The
   K.O. song fails the parody test for that reason. This is a legal system
-  sorting renderings by the goals CLAIM-034 lists.
-- **CASE-100 and CLAIM-332 (distributed uptake).** Boyle's account of the
-  K.O. song adds a reason the redub in CASE-100 could reach a film only as
+  sorting renderings by the goals [CLAIM-034](../claims.d/CLAIM-034.md) lists.
+- **[CASE-100](../cases.d/CASE-100.md) and [CLAIM-332](../claims.d/CLAIM-332.md) (distributed uptake).** Boyle's account of the
+  K.O. song adds a reason the redub in [CASE-100](../cases.d/CASE-100.md) could reach a film only as
   a line: "Copyright acts as the barbed wire around mass media outlets."
   (p. 158). A mashup whose rights cannot be cleared stays online. For
-  CLAIM-332, the reserve-price argument (p. 189) explains production by the
+  [CLAIM-332](../claims.d/CLAIM-332.md), the reserve-price argument (p. 189) explains production by the
   organized pattern (numbers, low overhead, modular tasks) and not by any
-  member's motive. That is the kind of explanation CLAIM-332 needs.
+  member's motive. That is the kind of explanation [CLAIM-332](../claims.d/CLAIM-332.md) needs.
   But Boyle's examples are of producing a commons, not of changing an
   outside institution. His evidence is the famous successes (Linux, IBM,
-  Wikipedia), which is the biased sample QUESTION-119 warns of. So the
-  book illustrates CLAIM-332's form but does not test it.
-- **LIT-719 and LIT-737 (Ostrom; THEORY-149).** LIT-719, the Nobel
-  lecture, is Active and read. LIT-737, *Governing the Commons*, is
+  Wikipedia), which is the biased sample [QUESTION-119](../questions.d/QUESTION-119.md) warns of. So the
+  book illustrates [CLAIM-332](../claims.d/CLAIM-332.md)'s form but does not test it.
+- **[LIT-719](../literature.d/LIT-719.md) and [LIT-737](../literature.d/LIT-737.md) (Ostrom; [THEORY-149](../theory.d/THEORY-149.md)).** [LIT-719](../literature.d/LIT-719.md), the Nobel
+  lecture, is Active and read. [LIT-737](../literature.d/LIT-737.md), *Governing the Commons*, is
   Unavailable. The connection is real but thin, and mostly a contrast.
-  THEORY-149 concerns users governing a subtractable resource they depend
+  [THEORY-149](../theory.d/THEORY-149.md) concerns users governing a subtractable resource they depend
   on, with clear boundaries and graduated sanctions. Boyle's commons is
   nonrival, so the tragedy Ostrom's institutions prevent does not arise
   (pp. 47–48). It is open to the whole society (p. 39), which removes the
@@ -338,14 +338,14 @@ does not cite Jenkins (LIT-1121).
   1. The free-software governance Boyle describes resembles self-organised
      rule-making: community judgment of contributions, governance assembled
      by the same distributed method, and forking as exit (pp. 186, 190).
-     Boyle does not compare it to Ostrom. Whether THEORY-149's principles
+     Boyle does not compare it to Ostrom. Whether [THEORY-149](../theory.d/THEORY-149.md)'s principles
      hold for nonrival commons is open.
   2. The arrangement in the book that most resembles a bounded Ostrom
      commons is the patent pool, which has members and excludes others. It
      is the one Boyle criticises, as "a park that only residents may
      enter" (p. 203).
-  The book neither supports nor contradicts THEORY-149.
-- **Does not bear on** CLAIM-220 or QUESTION-023. It has nothing on
+  The book neither supports nor contradicts [THEORY-149](../theory.d/THEORY-149.md).
+- **Does not bear on** [CLAIM-220](../claims.d/CLAIM-220.md) or [QUESTION-023](../questions.d/QUESTION-023.md). It has nothing on
   measuring what survives a rendering, or on insider vocabulary.
 - No instruction for machine-learning practice, and not held by the
   anthology.
@@ -387,5 +387,5 @@ does not cite Jenkins (LIT-1121).
   that people undervalue open systems relative to their outcomes?
 - For the record: Lessig and Boyle now both assert that remix needs the
   recognized original. Should the question of recognizability as a
-  preservation target be filed under QUESTION-002, with this chain of
+  preservation target be filed under [QUESTION-002](../questions.d/QUESTION-002.md), with this chain of
   borrowing as its case?
