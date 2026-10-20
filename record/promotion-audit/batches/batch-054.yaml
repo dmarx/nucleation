@@ -23,7 +23,8 @@ yield: >-
   read. THEORY-459 is an argument whose proved core is a counting fact.
   THEORY-486 is a theorem that is neither refereed nor re-derivable in a
   review.
-promotion_prs: []
+promotion_prs:
+  - "#265: THEORY-377, -380 and -419 narrowed and promoted; QUESTION-tmpgenqn and QUESTION-tmpa4291 (branch claude/promote-theories-377-380-419)."
 band:
   - {code: THEORY-377, title_asserts: measurement, formal_in_fact: false, outcome: narrow-and-promote}
   - {code: THEORY-380, title_asserts: theorem, formal_in_fact: true, outcome: narrow-and-promote}
