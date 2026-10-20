@@ -1,0 +1,67 @@
+# record/promotion-audit/batches/batch-075.yaml
+batch: batch-075
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+selection: >-
+  Triage-007's measurement_route, entries 16-20 in its order: THEORY-123,
+  -495, -575, -766 and -105, all at margin 2, where the classifier is
+  weakest. Each was sorted by hand by what its title asserts (batch 020)
+  before review, under ADR-047 v4 (each dropped clause routed).
+reviewed: [THEORY-123, THEORY-495, THEORY-575, THEORY-766, THEORY-105]
+outcomes:
+  narrow-and-promote: [THEORY-123, THEORY-766, THEORY-105]
+  retain-proposed: [THEORY-495, THEORY-575]
+yield: >-
+  3 of 5 promoted under ADR-047 v3, each narrowed to the setting and
+  measure the study used, with the wider claim each narrowing set aside
+  filed under v4 as a new Proposed THEORY that extends it and carries its
+  former promote_when (three new entries). THEORY-495 and THEORY-575 are
+  theses, as the directive suspected, and stay Proposed.
+promotion_prs:
+  - '#298: THEORY-123, -766 and -105 narrowed and promoted; their set-aside wider claims filed as THEORY-826, THEORY-827 and THEORY-828 (branch claude/promote-theories-123-766-105).'
+band:
+  - {code: THEORY-123, title_asserts: measurement stated for work groups in general, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-495, title_asserts: explanatory thesis with reported contrasts, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-575, title_asserts: metaphysical classification, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-766, title_asserts: measurement (condition differences; a dissociation), hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-105, title_asserts: measurement plus a geometric thesis, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+dropped_clause_routes:
+  - {code: THEORY-123, clause: "contagion in work groups generally, and its causal effect on cooperation and conflict (Barsade)", kind: 1, carrier: new Proposed THEORY extending THEORY-123}
+  - {code: THEORY-766, clause: "the report difference is perceptual, produced by the stimulation rather than by expectation (Ehrsson et al., NOTE-997 C8)", kind: 1, carrier: new Proposed THEORY extending THEORY-766}
+  - {code: THEORY-105, clause: "fine-tuning lands near the edge of a task-specific region and averaging works by moving inward (Gueta et al. §§8-9)", kind: 1, carrier: new Proposed THEORY extending THEORY-105, answering QUESTION-069}
+notes_for_ledger:
+  - >-
+    Hand against classifier at margin 2: 3 of 5 agree. The two misses
+    (THEORY-495, -575) are theses whose titles list measured-sounding
+    examples or behaviours; both were the ones the directive flagged. Over
+    batches 063 and 075 the measurement label is right outright on 6 of
+    10 and partly on 1, better than the theorem label at margin 2-3.
+  - >-
+    Under v4, when a narrowed entry's old promote_when tests exactly the
+    claim the narrowing sets aside, it goes with that claim to the new
+    Proposed THEORY and no QUESTION is needed: the Proposed entry is the
+    record's test. All three promotions here took that route.
+  - >-
+    THEORY-766 needed no clause removed: its title claimed no causal
+    attribution, but "raises reports" invited one. Appending the
+    expectation confound makes the v3 condition plain, and the causal
+    reading the promote_when tests is a source's thesis (Ehrsson et al.),
+    so it gets a Proposed carrier rather than a QUESTION.
+  - >-
+    THEORY-105's edge clause failed v3's figures rule (extrapolation curves
+    read only from captions), so the measured part kept is narrower than
+    the old title's headline. Rendering App. F/G from the arXiv PDF could
+    later support an edge clause on the narrowed entry.
+  - >-
+    THEORY-495 is a reading task before it is a wave-5 argument: one
+    primary study read in full (Hamann et al. 2011, Nature 476) would let
+    the sharing contrast split off as a measured THEORY.
+owner_questions:
+  - >-
+    THEORY-123 was promoted on a pre-acceptance manuscript read in full
+    (August 2001), not the published ASQ article, whose numbers may
+    differ; the title says the numbers are the manuscript's. Does a
+    manuscript read in full meet v3's "one study read in full", or should
+    promotion wait for the published version?

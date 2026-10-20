@@ -1,5 +1,5 @@
 # record/promotion-audit/decisions/THEORY-771.yaml
-# Filed as THEORY-tmp5mn7l.
+# Filed as THEORY-771.
 id: THEORY-771
 batch: owner-directed-2026-10-20
 reviewed: '2026-10-20'
@@ -113,7 +113,7 @@ rederivation: |
 blockers: []
 notes: >-
   Promoted at the owner's direction of 2026-10-20 ("promote
-  THEORY-tmp5mn7l"), outside a numbered batch and in the reading PR rather
+  THEORY-771"), outside a numbered batch and in the reading PR rather
   than a separate promotion PR, as the owner asked. ADR-047 v2's condition
   (a re-derivation recorded step by step in the decision file) is met
   above.

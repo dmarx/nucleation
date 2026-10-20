@@ -1,0 +1,35 @@
+# record/promotion-audit/decisions/THEORY-684.yaml
+id: THEORY-684
+batch: batch-073
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: conceptual argument plus a conclusion resting on first-person testimony
+hand_label: argument
+triage_007_label: measurement
+agrees_with_classifier: false
+formal_in_fact: false
+scope:
+  accepted: none.
+  excluded: >-
+    Strawson (2004), "Against Narrativity", LIT-452, read in full in
+    NOTE-383. The separability of Diachronicity, form-finding, story-telling
+    and revision is argued by cases; the conclusion that neither Narrativity
+    thesis holds in general rests on testimony, the author's own and that of
+    writers he classifies. Nothing is measured.
+  moved_to_question: none.
+dropped_clauses: []
+evidence:
+  - "LIT-452, read in full in NOTE-383."
+contradictions_in_record: THEORY-060 (rival) holds the narrative-identity view.
+blockers:
+  - "The promote_when asks for a measure that classifies people as Diachronic or Episodic apart from their own theory of the self; an argument cannot meet it."
+notes: >-
+  Recommend wave 5. Two things for it: the separability claim is
+  conceptual and may be narrow-and-promotable on its own terms; and the
+  "some normal people are Episodic" premise is a possibility thesis whose
+  defeater (the promote_when) tests a rate, so under the owner's rule of
+  2026-10-19 (CLAIM-238) it would be restated as a prevalence claim before
+  any promotion.

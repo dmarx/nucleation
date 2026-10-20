@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/THEORY-495.yaml
+id: THEORY-495
+batch: batch-075
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+title_asserts: an explanatory thesis (what the sense of obligation is) with behavioural contrasts reported from others' experiments
+hand_label: argument
+triage_007_label: measurement
+agrees_with_classifier: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    None as a measurement. LIT-125 (Tomasello 2019, BBS target article) is
+    a synthesis with no new data; the behavioural contrasts (protest at a
+    knowing defection, leave-taking, equal division of joint spoils, the
+    chimpanzee contrast) are reported from primary studies the record has
+    not read (Hamann et al. 2011; Kachel et al. 2018; Grafenhain et al.
+    2009, 2013; Melis et al. 2006, 2011). ADR-047 v3 needs one primary
+    study read in full, and none is.
+  excluded: >-
+    The definitional and explanatory lead, that obligation is internalized
+    pressure from a joint agent "we", is argued, and the alternatives
+    (prosociality, adult framing, learned scripts) are argued against, not
+    excluded by experiment.
+blockers:
+  - "Reading task: one primary study read in full, most usefully Hamann, Warneken, Greenberg and Tomasello (2011), 'Collaboration encourages equal sharing in children but not in chimpanzees' (Nature 476), which would let the sharing contrast split off as its own measured THEORY under v3."
+  - "The thesis itself waits on its promote_when (commitment varied with collaboration held fixed, before age three, in non-WEIRD samples), which an argument cannot meet."
+notes: >-
+  The classifier read the list of measured-sounding behaviours as a
+  measurement title; the head of the title is a thesis. Recommend the
+  reading task first, then wave 5 for the thesis if nothing changes.
+unlocks: []
+next_action: "Requeue as a reading task (Hamann et al. 2011)."

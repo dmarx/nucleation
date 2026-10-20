@@ -1,0 +1,39 @@
+# record/promotion-audit/decisions/THEORY-680.yaml
+id: THEORY-680
+batch: batch-073
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: thesis (a distinct process and a taxonomy) plus an empirical contrast reported from studies not read
+hand_label: argument
+triage_007_label: measurement
+agrees_with_classifier: false
+formal_in_fact: false
+scope:
+  accepted: none.
+  excluded: >-
+    The title's lead is a theoretical thesis (regulation is a set of
+    processes distinct from generation) with a stipulated definition and a
+    taxonomy offered as "working distinctions" (Gross 1998, Review of General
+    Psychology, LIT-554, read in full in NOTE-429). Its one empirical clause,
+    reappraisal against suppression, is reported from experiments the review
+    cites and the record has not read (Gross 1998 JPSP; Gross and Levenson
+    1993, 1997). A review is not a primary study under ADR-047 v3, and the
+    rival THEORY-056 predicts the same contrast, so even the contrast would
+    not meet the promote_when.
+  moved_to_question: none.
+dropped_clauses: []
+evidence:
+  - "LIT-554, read in full in NOTE-429; the cited primary studies not read."
+contradictions_in_record: THEORY-056 (rival) denies a distinct regulating process.
+blockers:
+  - "The promote_when asks for studies that estimate an unregulated baseline and compare strategies by stage; an argument cannot meet it."
+  - "Reading task: the reappraisal-suppression contrast could be split off as its own measured THEORY once a primary study (Gross 1998, JPSP 74:224-237) is read in full."
+notes: >-
+  The classifier's measurement label came from the reported contrast
+  ("has different consequences"). The title is the framework, and the
+  contrast is the review's report of other work. Recommend: reading task
+  for Gross (1998, JPSP), then a split of the contrast; the framework
+  itself stays for wave 5.

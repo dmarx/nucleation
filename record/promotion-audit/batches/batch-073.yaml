@@ -1,0 +1,76 @@
+# record/promotion-audit/batches/batch-073.yaml
+batch: batch-073
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+selection: >-
+  Triage-007's measurement_route, entries 6-10 in its order: THEORY-333,
+  -376, -421, -680 and -684. Each was sorted by hand by what its title
+  asserts (batch 020) before review, and the hand label is recorded against
+  triage-007's. ADR-047 v4 in force: every clause a narrowing drops is
+  routed, and the route is recorded in the decision file.
+reviewed: [THEORY-333, THEORY-376, THEORY-421, THEORY-680, THEORY-684]
+outcomes:
+  promote: [THEORY-333]
+  narrow-and-promote: [THEORY-376, THEORY-421]
+  retain-proposed: [THEORY-680, THEORY-684]
+yield: >-
+  3 of 5 promoted, all on one fully read study each (ADR-047 v3).
+  THEORY-333's title already claimed no more than was measured. THEORY-376
+  gained the condition its 60% figure was measured under. THEORY-421 was
+  narrowed to HGCN on two synthetic trees, its numbers re-checked against
+  the arXiv PDF and its formal clause re-derived; the general claim for
+  hyperbolic models is filed as a new Proposed THEORY (ADR-047 v4 kind 1).
+  THEORY-680 and THEORY-684 are arguments the classifier called
+  measurements.
+promotion_prs:
+  - "#297: THEORY-333 promoted; THEORY-376 and THEORY-421 narrowed and promoted; THEORY-825, QUESTION-238 and QUESTION-237 filed (branch claude/promote-theories-333-376-421)."
+band:
+  - {code: THEORY-333, title_asserts: measurement, hand_label: measurement, triage_007: measurement, agrees: true, outcome: promote}
+  - {code: THEORY-376, title_asserts: measurement, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-421, title_asserts: thesis plus measurement plus a formal remark, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-680, title_asserts: thesis plus a reported contrast, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-684, title_asserts: conceptual argument on testimony, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
+dropped_clause_routes:
+  - {code: THEORY-376, clause: "60% of small queries, unconditioned", route: note (kind 3)}
+  - {code: THEORY-421, clause: "hyperbolic graph embeddings in general", route: new Proposed THEORY (kind 1), carrier: THEORY-825}
+new_entries:
+  - "THEORY-825 (Proposed): the general hyperbolic-embedding claim, extends THEORY-421, inherits its former promote_when."
+  - "QUESTION-238: THEORY-333's former promote_when (an independent measurement of cracking), refines QUESTION-114."
+  - "QUESTION-237: THEORY-376's former promote_when (semantic caching with the cache reasoning charged)."
+notes_for_ledger:
+  - >-
+    Hand against classifier: 3 of 5 agree (THEORY-333, -376, -421, all
+    measurement). The two misses, THEORY-680 and THEORY-684 at margin 3,
+    are a psychology framework whose one empirical clause is a review's
+    report of other studies, and a philosophy argument on testimony. Both
+    titles state findings in the indicative ("has different consequences",
+    "holds"), which reads as measurement to a title classifier.
+  - >-
+    Measurement titles already written to the study (THEORY-333, -376)
+    promote with little or no change; the yield came from earlier careful
+    filing, not from this review.
+  - >-
+    Figure inset statistics count as numbers in the text for ADR-047 v3 when
+    the PDF text layer carries them: THEORY-421's Figure 2 ROOT, MIN, MEAN
+    and MAX values are in the extracted text of arXiv:2306.09118v1, and the
+    paper's prose repeats two of them.
+  - >-
+    A formal remark inside a measurement title can be kept if it is
+    re-derived and stated conditionally (THEORY-421's "a loss built only on
+    pairwise distances leaves the origin arbitrary"); here the condition
+    matters, because HGCN's node-classification loss is not pairwise-only.
+  - >-
+    Reading task: THEORY-680's reappraisal-suppression contrast could be
+    split off as a measured THEORY once Gross (1998, JPSP 74:224-237) is
+    read; the framework itself goes to wave 5.
+  - >-
+    After the PR merges, three tmp codes in this file and in
+    decisions/THEORY-421.yaml need their permanent codes.
+owner_questions:
+  - >-
+    THEORY-684 rests on "some normal people are Episodic", a possibility
+    thesis whose promote_when tests a rate. Under the rule of 2026-10-19
+    (CLAIM-238) it would be restated as a prevalence claim before promotion;
+    flagged for wave 5, not decided here.

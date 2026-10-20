@@ -1,0 +1,61 @@
+# record/promotion-audit/decisions/THEORY-105.yaml
+id: THEORY-105
+batch: batch-075
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement (probe loss of hull points) plus a general geometric thesis (members at the edge of a region; averaging moves inward)
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3. One study, Gueta et al. (2023), LIT-658, read in full in
+    NOTE-515 from the arXiv HTML of v3 (main text, Appendices A-H; figures
+    from captions and text). Kept, each with numbers in the text: for
+    RoBERTa-base fine-tuned on English classification data, with loss as
+    the test loss of a linear probe refitted on the frozen encoder, points
+    sampled from the convex hull of models fine-tuned on one dataset (MNLI),
+    one task family (NLI) or 12 GLUE and SuperGLUE datasets had loss no
+    higher than every model fine-tuned elsewhere (100% at each level) and
+    beat the group's own members in 88%, 96.7% and 90% of comparisons
+    (§5.2); and the centroid of the general-level models, excluding those
+    trained on the target, was a better BitFit start than the pretrained
+    model (mean accuracy 65.54 against 61.51, better on 9 of 12, §7 Table 2).
+  excluded: >-
+    "Lands near the edge of a region" rests on extrapolation curves (§6,
+    App. F, G) that NOTE-515 read only from captions and text ("a
+    relatively flat base and steep cliffs"); the plotted curves were not
+    recoverable, so by v3's rule (one figure with no numbers in the text is
+    not enough) the edge clause leaves the title, and App. F's origin
+    direction is already an exception. "Averaging moves inward", as the
+    reason model soups and SWA work, is argued in §8 and not tested.
+    "Task-specific low-loss region" as a general fact about fine-tuning
+    generalises past one model and one task type.
+  dropped_clause_routes:
+    - clause: "Fine-tuning from one pretrained model typically lands near the edge of a task-specific low-loss region containing the hull of the fine-tuned models, and averaging them (model soups, SWA) moves inward (Gueta et al. §§8-9)"
+      kind: 1
+      route: >-
+        A new Proposed THEORY in the promotion PR, sourced to LIT-658,
+        extending THEORY-105 and inheriting its promote_when unchanged
+        (end-to-end evaluation of hull points; other models and generative
+        tasks; soups and SWA located against the region), and answering
+        QUESTION-069 as THEORY-105 does.
+  moved_to_question: >-
+    Nothing: the promote_when goes with the wide claim.
+evidence:
+  - "LIT-658, read in full in NOTE-515 (§§2-8, Appendices B, F, G); the percentages and Table 2 re-checked against NOTE-515's key results."
+contradictions_in_record: >-
+  None. THEORY-107 (TIES) reports end-to-end losses from cross-task
+  merging, a different measure; the narrowed title says the loss is a
+  probe's.
+blockers: []
+notes: >-
+  The hull is sampled thinly (as many draws as members, 5 in most
+  settings); the title gives the comparison rates as measured, which is
+  why confidence is medium. The anthology-candidate flag stays.
+unlocks: []
+next_action: "Carried out in #298."
