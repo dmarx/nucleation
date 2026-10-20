@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxwps9
 title: "For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,12 @@ history:
     rather than called such mixtures, since web text is not shown to be
     orthogonal to the biographies. The former promote_when, the test of
     that link, moves to QUESTION-176.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-tmptwk75,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - learning-theory
 - information-theory
@@ -36,7 +42,10 @@ summary: >-
   reaches the optimal allocation.
 answers:
 - QUESTION-039
+extended_by:
+- THEORY-tmptwk75
 ---
+<!-- inactive-ok-file: THEORY-tmptwk75 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-039 — Proposed; partial answers to the same question, compared, not leaned on -->
 
 # THEORY-293: For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio
@@ -157,3 +166,14 @@ The Pythia half is accepted under [ADR-047](../decisions.d/ADR-047.md) v3 as one
 rises, and below a mixing ratio at fixed size (70M: 0.4% at r ≤ 0.2 to
 58.1% at 0.45 over three seeds), then a steep rise. Whether those
 thresholds are the optimal learner's is [QUESTION-176](../questions.d/QUESTION-176.md).
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-tmptwk75](THEORY-tmptwk75.md)
+as Proposed, extending this entry. It carries the link this entry's title
+asserted before batch 036 narrowed it: that SGD-trained language models
+reach the capacity-optimal allocation, so their fact-learning thresholds in
+model size and mixing ratio are the optimal learner's, as Gu, Lyu, Li and
+Zhang propose. The measured size exponent, 1.152 against a predicted 1.283,
+is recorded against it there. This entry is its evidence and is not changed
+by the filing.

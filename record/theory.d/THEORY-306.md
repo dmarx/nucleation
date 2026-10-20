@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp8v921
 title: "MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,12 @@ history:
     because VICReg's prior rests on a reduction of a simplified loss and
     SimCLR's on a cited equivalence. The promote_when moves unchanged to
     QUESTION-171.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-tmp0gm1u,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -34,7 +40,10 @@ summary: >-
   and SwAV only. The effect is shown with batches of two to eight
   ImageNet classes, one run per cell, not with natural long tails; the
   open half is QUESTION-171.
+extended_by:
+- THEORY-tmp0gm1u
 ---
+<!-- inactive-ok-file: THEORY-tmp0gm1u — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-306: MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one
 
@@ -132,3 +141,13 @@ the title needs only the identity. SwAV's Sinkhorn–Knopp step projects the
 assignment matrix onto matrices whose prototype sums are all N/K (Eq. 8),
 so equal soft cluster sizes are a constraint of the method. Neither half
 needs Propositions 2 or 4, which are the sketches [NOTE-850](../notes.d/NOTE-850.md) flags.
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-tmp0gm1u](THEORY-tmp0gm1u.md)
+as Proposed, extending this entry. It carries the general reading this
+entry's title carried before batch 033 narrowed it: that volume-maximizing
+joint-embedding objectives as a class, VICReg and SimCLR included, carry a
+prior toward equal-sized clusters that costs them semantic transfer on
+class-imbalanced data, natural long tails included, as Assran et al. argue.
+This entry is its evidence and is not changed by the filing.

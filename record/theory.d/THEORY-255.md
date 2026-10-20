@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpajs5h
 title: "In Aerts's subspace model of Hampton's membership data, and in any lattice whose membership weight is order-preserving, whatever its negation, taking concept conjunction and disjunction as meet and join cannot produce overextension or underextension, so a model of the guppy-type deviations must take conjunction as some operation other than the meet or drop the monotone weight, while the Kolmogorov-type deviations can be had from the meet of a non-Boolean subspace lattice"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,12 @@ history:
     QUESTION-156. The title's "need an emergent concept" overstated
     the theorem, which forces only that the meet or monotonicity be
     dropped, and is narrowed. The promote_when is removed.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 070, ADR-047 v4) filed THEORY-tmpnk0sx,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - cognition
 - logic
@@ -39,7 +45,10 @@ summary: >-
   emergent sector are models with free parameters, not tests. Negation
   appears only as the orthocomplement used to derive the conjunction
   model from the disjunction model; no negated concept is measured.
+extended_by:
+- THEORY-tmpnk0sx
 ---
+<!-- inactive-ok-file: THEORY-tmpnk0sx — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-119 CLAIM-038 THEORY-013 — Proposed; the claims and account this bears on, named and not leaned on -->
 <!-- inactive-ok-file: LIT-316 — Unavailable; Busemeyer and Bruza, named as what would settle this, not leaned on -->
 
@@ -164,3 +173,15 @@ Written for the promotion audit's batch 018
    θ = 80.9026° in ℝ⁴) is an instance. That every k-type item in
    Hampton's data can be fitted this way is not shown: [NOTE-808](../notes.d/NOTE-808.md) grades it
    moderate, worked for one pair.
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 070) filed [THEORY-tmpnk0sx](THEORY-tmpnk0sx.md)
+as Proposed, extending this entry. It carries Aerts's emergence reading,
+which this entry's title carried before batch 018 narrowed it to what
+Theorem 9 forces: that the guppy-type deviations arise because a combined
+concept is partly a new, emergent concept, with thought running in a
+classical and a quantum layer. Theorem 9 alone forces only that conjunction
+is not the meet or that the weight is not monotone, which is why the reading
+is a separate, Proposed thesis. This entry is its evidence and is not
+changed by the filing.
