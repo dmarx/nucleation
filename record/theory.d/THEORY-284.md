@@ -1,20 +1,21 @@
 ---
 number: 284
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpsvlpi
-promote_when: >-
-  A second reader's line-by-line check of the App. B proof, written out
-  with the conclusion stated for the intrinsic (length) metric that path
-  length induces, which is d_f only on a length space. It is refuted by a
-  compact metric space, an injective continuous map onto the sphere and a
-  C² g with g′(0) < 0 meeting Hypothesis 2 for which some rectifiable path
-  violates L(γ) = √(−2g′(0))L(η). What cannot settle it: correlations
-  between k-NN geodesics and a guessed metric on real models, which test
-  whether the hypotheses hold of a model, not whether the theorem
-  follows from them.
 title: "If a feature's values form a compact metric space carried continuously and injectively onto the unit sphere, and cosine similarity is locally a C² decreasing function of squared feature distance, then every path on the representation manifold is √(−2g′(0)) times as long as the feature path it images, so on-manifold shortest paths recover the feature's intrinsic length metric up to one scale; a homeomorphism alone does not fix it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promoted, carrying out the promotion audit's decision for
+    THEORY-284 (batch 051, ADR-047 v2). The dated note below
+    re-derives Theorem 1 in both directions, so infinite and finite
+    lengths correspond, and the shortest-path conclusion for the
+    intrinsic length metric. That is the line-by-line check the
+    promote_when asked for, and it shows the named counterexample
+    cannot exist under the hypotheses. The title is unchanged.
 tags:
 - representation-learning
 - mathematics
@@ -110,3 +111,26 @@ theorem.
   identify one either.
 - **[CLAIM-135](../claims.d/CLAIM-135.md) and [CLAIM-193](../claims.d/CLAIM-193.md).** Identification up to a homeomorphism, then
   a scale, with the candidate space supplied by the analyst.
+
+## Note of 2026-10-20: Theorem 1 and the shortest-path step, re-derived
+
+Re-derived for the promotion audit (batch 051, [ADR-047](../decisions.d/ADR-047.md) v2), under
+Hypotheses 1 and 2. Write c = √(−2g′(0)) > 0.
+
+1. **One step.** For d = d_f(z, z′) ≤ ε, put u = ϕ(z) and v = ϕ(z′) on the
+   unit sphere. A vector's cosine with itself is 1, so g(0) = 1, and
+   ‖u − v‖² = 2(1 − g(d²)) = c²d² − g″(ξ)d⁴ for some ξ in (0, d²). With
+   α = ‖u − v‖, β = cd and K = max |g″| on [0, ε²]: |α² − β²| ≤ Kd⁴, and
+   since |α − β|² ≤ |α − β|(α + β), |α − β| ≤ √K·d².
+2. **Paths.** For a path η and γ = ϕ ∘ η, refinement raises both sums of
+   step lengths. Uniform continuity of η makes every step at most δ ≤ ε on
+   fine partitions, and then |Σα_i − cΣd_i| ≤ √K·δ·Σd_i. Along common
+   refinements of near-optimal partitions, with δ → 0, L(γ) = c·L(η) when
+   L(η) is finite. When it is infinite, α_i ≥ cd_i − √K·d_i² ≥ (c/2)d_i
+   for small steps, so L(γ) is infinite too.
+3. **Shortest paths.** A continuous injection from a compact space into a
+   Hausdorff one is a homeomorphism onto its image (Proposition 1). So every
+   path in M_f is ϕ ∘ η for a path η in Z_f, and its length is c·L(η). The
+   on-manifold geodesic distance is c times the length metric that d_f
+   induces. That metric is d_f itself only on a length space, as the body
+   says.
