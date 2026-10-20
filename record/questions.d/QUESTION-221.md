@@ -79,7 +79,7 @@ the long run, by coupling strength."
     fast modules and of the reduced slow system, and a small-gain
     separation ε < ε_c, fast states stay O(ε) from quasi-steady values
     and slow states O(ε) from the reduced trajectory, uniformly in time
-    after a transient (Bousquet and Slotine, [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md)).
+    after a transient (Bousquet and Slotine, [THEORY-771](../theory.d/THEORY-771.md)).
     It is deterministic. With that estimate the block sums' closure
     defect ε·QCx̃ is O(ε²), matching [CLAIM-386](../claims.d/CLAIM-386.md)'s measured second order.
     One numerical check in the reading, not a proof, put the transfer

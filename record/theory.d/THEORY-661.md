@@ -98,7 +98,7 @@ other things".
 could have left no separation of time scales. The theorem says it leaves
 one for ε small enough. The open statement the record holds gives no rate
 in ε ([NOTE-977](../notes.d/NOTE-977.md)), so this entry does not claim one. A rate is
-available in a different frame: Bousquet and Slotine ([THEORY-tmp5mn7l](THEORY-tmp5mn7l.md))
+available in a different frame: Bousquet and Slotine ([THEORY-771](THEORY-771.md))
 give a first-order bound in ε on trajectory error, uniform in
 time after a transient, for nonlinear continuous-time systems whose fast
 modules and reduced slow system are contracting and whose slow

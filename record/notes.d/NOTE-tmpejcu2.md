@@ -245,7 +245,7 @@ the other two are not in the record.
   bounds its error. Item 6 is the first statement in the record of a
   bounded truncation error, and it holds only for the linear Gaussian
   class.
-- **[THEORY-tmpcfuar](../theory.d/THEORY-tmpcfuar.md).** At ε = 0.5 its hypothesis of fast contracting
+- **[THEORY-773](../theory.d/THEORY-773.md).** At ε = 0.5 its hypothesis of fast contracting
   eliminated variables fails, and memory helps, as [THEORY-tmpdjsgt](../theory.d/THEORY-tmpdjsgt.md) shows.
   The two readings are consistent.
 - **[THEORY-752](../theory.d/THEORY-752.md), [NOTE-975](NOTE-975.md).** The paper says MZ has been carried out in full
@@ -312,4 +312,4 @@ No instruction for machine-learning practice; nothing for the anthology.
   error for linear systems.
 - How do the fitted NARMAX orders scale with ε in Lorenz 96? A sweep
   from ε = 0.5 towards the scale-separated limit would show memory
-  becoming unnecessary, as [THEORY-tmpcfuar](../theory.d/THEORY-tmpcfuar.md) predicts.
+  becoming unnecessary, as [THEORY-773](../theory.d/THEORY-773.md) predicts.

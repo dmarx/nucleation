@@ -84,7 +84,7 @@ which was not proved here.
 
 The post-transient orders above rested on "the standard estimate that
 post-transient states lie within O(ε) of the slow subspace". Bousquet and
-Slotine's Lemma 3 ([THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md)) is that estimate in
+Slotine's Lemma 3 ([THEORY-771](../theory.d/THEORY-771.md)) is that estimate in
 continuous time, under contraction of the fast modules and of the
 reduced slow system: the fast part x̃ stays O(ε) uniformly after a
 transient, so the coupling defect ε·QCx̃ is O(ε²). In continuous time

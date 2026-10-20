@@ -42,7 +42,7 @@ date: '2026-10-20'
 source:
 - LIT-tmp6vocc
 - LIT-1248
-- LIT-tmpfah3l
+- LIT-1289
 answers:
 - QUESTION-219
 summary: >-
@@ -52,14 +52,14 @@ summary: >-
   them sharing one initial datum and one dissipation measure. In the
   construction the dissipation measure is a function of time alone, so in
   the limit of vanishing scale the energy flux runs one way at every place,
-  as in [THEORY-tmp6pe5a](THEORY-tmp6pe5a.md), but in a Hölder class and spread uniformly over the
+  as in [THEORY-772](THEORY-772.md), but in a Hölder class and spread uniformly over the
   torus rather than set in pipes. It is switched on only while the
   constructor drains the solution's energy to zero at the end of its life.
   Where, when and how fast the energy goes are inputs; the exponent is far
   from 1/3; nothing ties these solutions to Navier–Stokes.
 ---
 <!-- inactive-ok-file: NOTE-tmpb08k2 — Skimmed; this entry's reading -->
-<!-- inactive-ok-file: THEORY-tmp6pe5a THEORY-tmpnvuqr THEORY-763 — Proposed; the L³-local, whole-box and two-signed accounts, cited for contrast -->
+<!-- inactive-ok-file: THEORY-772 THEORY-776 THEORY-763 — Proposed; the L³-local, whole-box and two-signed accounts, cited for contrast -->
 # THEORY-tmpxpm2w: For every α < 1/15 there are weak solutions of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent α in space and time, that satisfy the local energy inequality; in the construction their dissipation measure is a nonnegative function of time alone, equal at each time to the rate at which the total energy falls, zero while the local energy equality holds and positive on all of space during a short final interval in which the solution's energy is drained to zero; uncountably many such solutions share one initial datum and one dissipation measure; for them the local coarse-grained energy flux into vanishing scales converges to that measure, so the transfer is one-way at every place and time in the limit and spread uniformly over the box, with its timing chosen by the construction, not forced by the equations
 
 ## Source
@@ -72,7 +72,7 @@ Approximation Theorem 7. The form of the dissipation measure is read from
 the proof of the Main Lemma 3.1 (lines (43)–(44) and (117)) and from Lemma
 6.1. The coarse-grained energy balance is Constantin, E and Titi's
 ([LIT-1248](../literature.d/LIT-1248.md)), re-derived in [THEORY-749](THEORY-749.md), taken in its local form as in
-[THEORY-tmp6pe5a](THEORY-tmp6pe5a.md) ([LIT-tmpfah3l](../literature.d/LIT-tmpfah3l.md)).
+[THEORY-772](THEORY-772.md) ([LIT-1289](../literature.d/LIT-1289.md)).
 
 ## What was actually shown
 
@@ -85,7 +85,7 @@ in the sense of distributions; the left side is then minus a nonnegative
 Radon measure µ, the *dissipation measure*. "Globally" does not mean "for
 the whole box": it means the local inequality holds everywhere, and the
 inequality need not be strict. The record's other entries use "global" for
-the whole-box energy ([THEORY-tmpnvuqr](THEORY-tmpnvuqr.md)); the two usages are opposite.
+the whole-box energy ([THEORY-776](THEORY-776.md)); the two usages are opposite.
 
 **The theorems.**
 
@@ -163,7 +163,7 @@ solution by at least a fixed fraction of the stage's amplitude in C_tL²_x.
 
 **The consequence for the local flux (the record's).** v is bounded and
 uniformly continuous, and p ∈ L^q_{t,x} for every q < ∞ (Section 6.2).
-Mollifying in space at scale ℓ, as in [THEORY-tmp6pe5a](THEORY-tmp6pe5a.md),
+Mollifying in space at scale ℓ, as in [THEORY-772](THEORY-772.md),
 
   ∂_t(½|v^ℓ|²) + div((½|v^ℓ|² + p^ℓ)v^ℓ + τ_ℓv^ℓ) = τ_ℓ : ∇v^ℓ,  τ_ℓ = (v⊗v)^ℓ − v^ℓ⊗v^ℓ.
 
@@ -183,7 +183,7 @@ controlled.
 What could have come out otherwise: above 1/3 the measure must vanish
 (Duchon and Robert; [THEORY-749](THEORY-749.md) for the total). Isett's 2018 solutions
 ([THEORY-763](THEORY-763.md)) and Buckmaster, De Lellis, Székelyhidi and Vicol's
-([THEORY-tmpnvuqr](THEORY-tmpnvuqr.md)) satisfy no proved local sign. A scheme whose waves create
+([THEORY-776](THEORY-776.md)) satisfy no proved local sign. A scheme whose waves create
 energy locally where they are cut off, which the paper says of Mikado
 schemes, would not give (2).
 
@@ -192,13 +192,13 @@ schemes, would not give (2).
 - **Not near 1/3.** α < 1/15 in C^α_{t,x}. De Lellis and Kwon improved the
   Hölder exponent to 1/7, drawing on this paper's ideas (Analysis & PDE
   15:2003–2059, 2022, not read); Giri, Kwon and Novack reach 1/3 only in
-  L³-based Besov spaces ([THEORY-tmp6pe5a](THEORY-tmp6pe5a.md)). The strong Onsager conjecture in
+  L³-based Besov spaces ([THEORY-772](THEORY-772.md)). The strong Onsager conjecture in
   L^∞_tC^{1/3}_x, the paper's Conjecture 1, stays open.
 - **Not dissipation the dynamics selects.** The functions e_(k)(t) are
   fixed by the frequency–energy levels and the intervals; the constructor
   chooses when the drain happens. The sign is not free, since µ ≥ 0 is what
   the scheme is built to keep, but the place, the time and the rate are
-  inputs, as in [THEORY-tmp6pe5a](THEORY-tmp6pe5a.md) and [THEORY-tmpnvuqr](THEORY-tmpnvuqr.md).
+  inputs, as in [THEORY-772](THEORY-772.md) and [THEORY-776](THEORY-776.md).
 - **Not a spatially structured dissipation.** In this construction the
   measure has no spatial structure at all: it is uniform on T³ at each time.
   That is the record's reading of the proof, not a statement of the paper.
@@ -208,7 +208,7 @@ schemes, would not give (2).
   is being shut off: before the drain interval the local energy equality
   holds, and after it the solution is zero. There is no stationary or
   persistent cascade.
-- **Not one-signed at a positive scale.** As in [THEORY-tmp6pe5a](THEORY-tmp6pe5a.md), the sign
+- **Not one-signed at a positive scale.** As in [THEORY-772](THEORY-772.md), the sign
   holds only for the limit ℓ → 0 tested against fixed functions.
 - **Not non-uniqueness for given smooth data, nor turbulence.** The common
   initial datum of Theorem 4 is produced by the construction. By
@@ -227,18 +227,18 @@ schemes, would not give (2).
 ## Connections
 
 - **[QUESTION-219](../questions.d/QUESTION-219.md): answers in part.** It gives the one-way local transfer
-  that [THEORY-tmpnvuqr](THEORY-tmpnvuqr.md) lacked in a Hölder class, as [THEORY-tmp6pe5a](THEORY-tmp6pe5a.md) does in
+  that [THEORY-776](THEORY-776.md) lacked in a Hölder class, as [THEORY-772](THEORY-772.md) does in
   an L³ one, and so makes the class no longer the obstruction. For the
   question proper it bears negatively, more sharply than the pipes did: the
   flux has no spatial pattern to pick out a unit, its timing is the
   constructor's, and it exists only while the solution is being drained.
   None of A5's four conditions can be met by a transfer with no spatial
   structure and no persistence.
-- **[THEORY-tmp6pe5a](THEORY-tmp6pe5a.md).** Both prescribe the dissipation. Giri, Kwon and Novack
+- **[THEORY-772](THEORY-772.md).** Both prescribe the dissipation. Giri, Kwon and Novack
   set a smooth density in pipes, positive for all time, with β < 1/3 in L³
   Besov spaces; here it is uniform in space, confined to a final interval,
   with α < 1/15 in Hölder spaces. Neither contains the other.
-- **[THEORY-tmpnvuqr](THEORY-tmpnvuqr.md).** Its qualification "not one-way at every point" holds
+- **[THEORY-776](THEORY-776.md).** Its qualification "not one-way at every point" holds
   for its solutions. This paper is the earlier Hölder construction that
   removes it at a lower exponent, and its author says that the Mikado
   cutoffs of that scheme create energy locally.

@@ -8,7 +8,7 @@ history:
 - version: 1
   date: '2026-10-20'
   note: >-
-    Registered on 2026-10-20 for QUESTION-219, as the work THEORY-tmpnvuqr names unread for continuous globally dissipative flows. Citation from the arXiv abstract page and Crossref: Isett, P., arXiv:1710.11186, v1 submitted 30 October 2017, v2 11 August 2018, v3 18 November 2021, v4 7 February 2022 ("Improvements in presentation"); published as Archive for Rational Mechanics and Analysis 244:1223–1309, doi:10.1007/s00205-022-01780-6, which Crossref dates 22 April 2022 online and June 2022 in print. `published:` is the arXiv v1 date, the earliest, per ADR-002. Per ADR-048 the Anthology of the SOTA was not checked; a grep of this record for the arXiv id and the title found only citations of it as unread (THEORY-tmpnvuqr and the notes beside it).
+    Registered on 2026-10-20 for QUESTION-219, as the work THEORY-776 names unread for continuous globally dissipative flows. Citation from the arXiv abstract page and Crossref: Isett, P., arXiv:1710.11186, v1 submitted 30 October 2017, v2 11 August 2018, v3 18 November 2021, v4 7 February 2022 ("Improvements in presentation"); published as Archive for Rational Mechanics and Analysis 244:1223–1309, doi:10.1007/s00205-022-01780-6, which Crossref dates 22 April 2022 online and June 2022 in print. `published:` is the arXiv v1 date, the earliest, per ADR-002. Per ADR-048 the Anthology of the SOTA was not checked; a grep of this record for the arXiv id and the title found only citations of it as unread (THEORY-776 and the notes beside it).
 - version: 2
   date: '2026-10-20'
   note: >-
@@ -37,7 +37,7 @@ summary: >-
   Isett (2017; Archive for Rational Mechanics and Analysis 2022). For every α < 1/15 there are weak solutions of the incompressible Euler equations on T³ (and T^d, d ≥ 3) in C^α_{t,x} that satisfy the local energy inequality ∂_t(|v|²/2) + ∇·((|v|²/2 + p)v) ≤ 0, strictly on an open time interval: the first continuous examples, and a first partial result on the strong Onsager conjecture. From one initial datum there is a Cantor family of them, with no isolated points, positive Hausdorff dimension in C_tL²_x and one common dissipation measure; the same holds for solutions with the local energy equality, and wild data are C⁰ dense. The scheme is a convex integration of "dissipative Euler–Reynolds flows" with one-directional transported plane waves, whose triad interactions cancel the unresolved energy flux current. In the proof the dissipation measure is a function of time alone, switched on only while the construction drains the solution to zero.
 ---
 <!-- inactive-ok-file: NOTE-tmpb08k2 — Skimmed; this work's reading -->
-<!-- inactive-ok-file: THEORY-tmpxpm2w THEORY-tmpnvuqr — Proposed; the account this reading files, and the entry that named this work -->
+<!-- inactive-ok-file: THEORY-tmpxpm2w THEORY-776 — Proposed; the account this reading files, and the entry that named this work -->
 # LIT-tmp6vocc: Nonuniqueness and existence of continuous, globally dissipative Euler flows
 
 Isett, P. (2022). Nonuniqueness and existence of continuous, globally dissipative Euler flows. *Archive for Rational Mechanics and Analysis* 244: 1223–1309. doi:10.1007/s00205-022-01780-6. arXiv:1710.11186 (30 October 2017).
@@ -47,7 +47,7 @@ local coarse-grained energy flux is filed as [THEORY-tmpxpm2w](../theory.d/THEOR
 
 ## Why this is here
 
-Named unread by [THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md), whose Hölder solutions lose energy only for
+Named unread by [THEORY-776](../theory.d/THEORY-776.md), whose Hölder solutions lose energy only for
 the box as a whole. [QUESTION-219](../questions.d/QUESTION-219.md) needed to know whether one-way transfer at
 every place is possible for Hölder solutions, and what the dissipation
 looks like when it is. This paper gives the first such solutions, at a low

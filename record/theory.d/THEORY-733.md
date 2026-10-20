@@ -41,7 +41,7 @@ supports:
 - CLAIM-388
 - CLAIM-389
 - CLAIM-390
-- CLAIM-tmpho867
+- CLAIM-394
 - CLAIM-tmp5fx5d
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account this was split from and that extends it, cited as open -->

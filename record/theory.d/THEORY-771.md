@@ -36,11 +36,11 @@ history:
   date: '2026-10-20'
   note: >-
     Promoted Active at the owner's direction, carrying out the promotion
-    audit's decision (record/promotion-audit/decisions/THEORY-tmp5mn7l.yaml).
+    audit's decision (record/promotion-audit/decisions/THEORY-771.yaml).
     The promote_when asked for step-by-step re-derivations of Lemma 1 in a
     state- and time-dependent metric and of the passage to O(ε) from an
     arbitrary fast state. Both are recorded in the decision file (R2 and R5
-    of NOTE-tmpio97l), so the condition is met under ADR-047 v2. Lemma 4 is
+    of NOTE-1020), so the condition is met under ADR-047 v2. Lemma 4 is
     bypassed, not repaired. "What this does not say" gains the two
     precisions R2 makes explicit.
 tags:
@@ -160,7 +160,7 @@ reduced slow system is what makes it uniform.
   value of the metric anywhere over the smallest anywhere; the supremum of
   the pointwise condition numbers can be smaller and does not suffice. A
   metric that depends on y must certify contraction along every admissible
-  path of y ([NOTE-tmpio97l](../notes.d/NOTE-tmpio97l.md), R2).
+  path of y ([NOTE-1020](../notes.d/NOTE-1020.md), R2).
 - **Not a necessary condition.** ε_c guarantees; it does not mark where the
   approximation fails.
 - **Not that the reduced system is stable whenever the modules are.**

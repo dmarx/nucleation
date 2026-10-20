@@ -140,6 +140,6 @@ record's linear check in [NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md) shows the 
 lags can be exact: a partially observed linear Gaussian VAR(1) is an ARMA
 process whose order matches the rank of its MZ memory kernels ([CLAIM-389](../claims.d/CLAIM-389.md),
 [NOTE-989](../notes.d/NOTE-989.md)), so a memory non-zero at every lag is carried exactly by
-finitely many coordinates. [THEORY-tmpcfuar](THEORY-tmpcfuar.md) is the opposite case: where the
+finitely many coordinates. [THEORY-773](THEORY-773.md) is the opposite case: where the
 eliminated variables are fast and contracting, no memory is needed at all.
 Here ε = 0.5, so that theorem's hypothesis fails and memory helps.

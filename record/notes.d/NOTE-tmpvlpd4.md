@@ -26,7 +26,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1126 — Deferred; the computational-mechanics source the paper builds on, registered unread -->
-<!-- inactive-ok-file: CLAIM-tmpho867 — new claim from a parallel reading, cited for comparison -->
+<!-- inactive-ok-file: CLAIM-394 — new claim from a parallel reading, cited for comparison -->
 # NOTE-tmpvlpd4: Rosas et al. — Software in the natural world
 
 ## Contribution
@@ -288,7 +288,7 @@ of emergence in general.
   - In this one family, then, near-decomposability shrinks the closure
     defect of a nearly lumpable partition, roughly in proportion to r_b at
     fixed relative jitter. The question stays open.
-- **[CLAIM-tmpho867](../claims.d/CLAIM-tmpho867.md).** The paper says nothing on slowness. The
+- **[CLAIM-394](../claims.d/CLAIM-394.md).** The paper says nothing on slowness. The
   record's link: strong lumpability is invariance of the span of block
   indicators under P, the discrete counterpart of [THEORY-733](../theory.d/THEORY-733.md)'s invariant
   row space.
@@ -296,7 +296,7 @@ of emergence in general.
     E[φ(X_{t+1}) | X_t] = λφ(X_t).
   - Informational closure needs the whole law, so a slow eigenfunction
     gives a closed partition only when it is piecewise constant. In
-    [CLAIM-tmpho867](../claims.d/CLAIM-tmpho867.md)'s reversible linear Gaussian case, Gaussianity turns
+    [CLAIM-394](../claims.d/CLAIM-394.md)'s reversible linear Gaussian case, Gaussianity turns
     closure in mean into closure in law. Outside it, slowness gives
     metastability, the quasi-lumpability the cited spectral methods find,
     not exact closure.

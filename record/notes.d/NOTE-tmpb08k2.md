@@ -38,8 +38,8 @@ summary: >-
   place in the limit and uniform in space, switched on only while the
   solution is drained to zero ([THEORY-tmpxpm2w](../theory.d/THEORY-tmpxpm2w.md)).
 ---
-<!-- inactive-ok-file: THEORY-tmpxpm2w THEORY-tmp6pe5a THEORY-tmpnvuqr THEORY-763 — Proposed; the account this reading files, and the three it is compared with -->
-<!-- inactive-ok-file: NOTE-tmpms8u2 NOTE-974 — Skimmed; the readings of the L³-local and the two-signed constructions -->
+<!-- inactive-ok-file: THEORY-tmpxpm2w THEORY-772 THEORY-776 THEORY-763 — Proposed; the account this reading files, and the three it is compared with -->
+<!-- inactive-ok-file: NOTE-1022 NOTE-974 — Skimmed; the readings of the L³-local and the two-signed constructions -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 CLAIM-331 CLAIM-327 THEORY-072 THEORY-532 — Proposed; entries named as not bearing, open -->
 # NOTE-tmpb08k2: Isett — Continuous, globally dissipative Euler flows
 
@@ -48,7 +48,7 @@ summary: >-
 Before this paper, convex integration gave either continuous Euler flows
 that dissipate total energy but satisfy the local energy inequality on no
 open ball (De Lellis and Székelyhidi; Buckmaster, De Lellis, Székelyhidi and
-Vicol, [LIT-tmpv4d6t](../literature.d/LIT-tmpv4d6t.md)), or bounded, nowhere-continuous ones that satisfy it
+Vicol, [LIT-1300](../literature.d/LIT-1300.md)), or bounded, nowhere-continuous ones that satisfy it
 (De Lellis and Székelyhidi 2010). It constructs the first continuous, in
 fact C^α_{t,x} for every α < 1/15, weak solutions satisfying the local
 energy inequality with a nonzero dissipation measure. It shows these, and
@@ -146,7 +146,7 @@ claims table. What the skim supports is in [THEORY-tmpxpm2w](../theory.d/THEORY-
 ## Concepts
 
 - **Globally dissipative**: v ∈ L³_{t,x} and the local energy inequality
-  (2). Not the whole-box sense used in [THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md).
+  (2). Not the whole-box sense used in [THEORY-776](../theory.d/THEORY-776.md).
 - **Dissipative Euler–Reynolds flow** (Definition 2.1): (v, p, R, κ, ϕ, µ)
   with the Euler–Reynolds system (10) and the relaxed inequality (11);
   µ ≥ 0 the dissipation measure (12). Any ensemble average of globally
@@ -171,7 +171,7 @@ and Buckmaster, De Lellis, Székelyhidi and Vicol, which it says create and
 destroy energy where the waves are cut off). Later: De Lellis and Kwon
 raised the Hölder exponent to 1/7 (Analysis & PDE 2022, not read); Giri and
 Kwon extended the ideas to compressible Euler; Giri, Kwon and Novack reached
-1/3 in L³-based spaces ([LIT-tmpfah3l](../literature.d/LIT-tmpfah3l.md), [NOTE-tmpms8u2](NOTE-tmpms8u2.md)). The Burgers example
+1/3 in L³-based spaces ([LIT-1289](../literature.d/LIT-1289.md), [NOTE-1022](NOTE-1022.md)). The Burgers example
 cites Dafermos; weak–strong uniqueness, Brenier, De Lellis and Székelyhidi.
 
 ## Bearing on the record
@@ -181,24 +181,24 @@ cites Dafermos; weak–strong uniqueness, Brenier, De Lellis and Székelyhidi.
   measure is m(t), a nonnegative integrable function of time alone, equal to
   −(d/dt)∫|v|²/2, zero while the local equality holds and positive on all of
   T³ during the final drain. Through the local coarse-grained balance, as in
-  [THEORY-tmp6pe5a](../theory.d/THEORY-tmp6pe5a.md), the flux into scales below ℓ tends to m(t) in
+  [THEORY-772](../theory.d/THEORY-772.md), the flux into scales below ℓ tends to m(t) in
   distributions.
 - **[QUESTION-219](../questions.d/QUESTION-219.md).** The question's four answers on the negative half now
-  read: two-signed ([THEORY-763](../theory.d/THEORY-763.md)), one-signed for the box ([THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md)),
+  read: two-signed ([THEORY-763](../theory.d/THEORY-763.md)), one-signed for the box ([THEORY-776](../theory.d/THEORY-776.md)),
   one-signed everywhere in an L³ class with dissipation in pipes
-  ([THEORY-tmp6pe5a](../theory.d/THEORY-tmp6pe5a.md)), and, here, one-signed everywhere in a Hölder class at
+  ([THEORY-772](../theory.d/THEORY-772.md)), and, here, one-signed everywhere in a Hölder class at
   α < 1/15 with dissipation uniform in space and confined to a final
   interval. On whether a pattern of transfer picks out a unit, this is the
   sharpest negative so far: the transfer has no spatial pattern at all, and
   it exists only while the construction is switching the flow off.
-- **[THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md).** Its line "Isett (arXiv:1710.11186) … is not read"
+- **[THEORY-776](../theory.d/THEORY-776.md).** Its line "Isett (arXiv:1710.11186) … is not read"
   can now cite [THEORY-tmpxpm2w](../theory.d/THEORY-tmpxpm2w.md). Its claim that nothing excludes backscatter
   for its solutions gains the author's remark that Mikado implementations
   "introduce both creation and dissipation of energy in the disjoint
   regions where the waves are supported and cut off". That remark is not
   proved in this paper. The "1/7 (De Lellis and Kwon)" there is right, and
   1/15 here is its predecessor.
-- **[THEORY-tmp6pe5a](../theory.d/THEORY-tmp6pe5a.md).** Its "Not Hölder, not bounded" bullet can add that
+- **[THEORY-772](../theory.d/THEORY-772.md).** Its "Not Hölder, not bounded" bullet can add that
   Hölder solutions with the local inequality exist below 1/15 (this paper)
   and 1/7 (De Lellis and Kwon), and that in this construction too the
   dissipation is an input, uniform rather than in pipes.
