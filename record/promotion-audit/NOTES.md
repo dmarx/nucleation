@@ -1361,3 +1361,24 @@ history note. THEORY-277 is requeued on this basis.
   day-old proof contradicted its definition and was repaired in #237.
 - Put the recipe for a numerical counterexample in the decision file;
   scratch scripts do not survive the session.
+
+## 2026-10-19 — batch 051 (wave 3, score-2 band)
+
+- The score-2 band went 4 of 5 here. With batches 039 and 045 that is 12
+  of 15. Three of the five are formal in fact, so 6 of 14 checked score-2
+  entries are formal. Sorting by title kept predicting every outcome.
+- A possibility title ("an intervention can reproduce X without Y") is
+  settled by an existence construction. The promote_when's request to show
+  the measured cases are instances is wider than the title and moves to a
+  QUESTION (THEORY-282).
+- A promote_when asking for "a second reader's line-by-line check" is met
+  by an ADR-047 v2 re-derivation in the decision file. When the re-
+  derivation also shows the named counterexample cannot exist, no QUESTION
+  is needed (THEORY-284, -281).
+- For an "only when" over deterministic maps, check which hypotheses the
+  necessity direction actually uses. THEORY-281's needs neither disjoint
+  groups nor strict concavity; only sufficiency needs disjointness.
+- In a single-study measurement, drop any clause the source states in
+  words with no number (THEORY-272's "unless old ones are forgotten") and
+  keep the measured one (no stored pattern stable at N = 100, n = 500).
+- THEORY-302: requeue to wave 5.

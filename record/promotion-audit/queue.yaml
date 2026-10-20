@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 133
+version: 134
 updated: '2026-10-19'
 record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
 procedure: record/decisions.d/ADR-047.md
@@ -41,8 +41,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 92
-  promotion_paths: 65
+  reviewed: 97
+  promotion_paths: 69
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -75,6 +75,10 @@ requeue:
 - code: THEORY-083
   when: after Figures 2-7 of arXiv:2008.08186 are read into NOTE-476
   why: 'batch-044: the NC1-NC4 results were read only from captions; a reading task'
+- code: THEORY-302
+  when: when wave 5 resumes
+  why: 'batch-051: a universal control thesis supported only at the spinal level; review as interpretive
+    synthesis'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2745,6 +2749,49 @@ candidates:
   decision: decisions/THEORY-313.yaml
   carried_out_in:
   - '#243'
+- code: THEORY-272
+  wave: 3
+  triage: batch-051
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-051
+  decision: decisions/THEORY-272.yaml
+  carried_out_in:
+  - '#251'
+- code: THEORY-281
+  wave: 3
+  triage: batch-051
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-051
+  decision: decisions/THEORY-281.yaml
+  carried_out_in:
+  - '#248'
+- code: THEORY-282
+  wave: 3
+  triage: batch-051
+  state: decided
+  disposition: promote
+  batch: batch-051
+  decision: decisions/THEORY-282.yaml
+  carried_out_in:
+  - '#248'
+- code: THEORY-284
+  wave: 3
+  triage: batch-051
+  state: decided
+  disposition: promote
+  batch: batch-051
+  decision: decisions/THEORY-284.yaml
+  carried_out_in:
+  - '#248'
+- code: THEORY-302
+  wave: 3
+  triage: batch-051
+  state: decided
+  disposition: retain-proposed
+  batch: batch-051
+  decision: decisions/THEORY-302.yaml
 history:
 - version: 1
   date: '2026-10-19'
@@ -3251,4 +3298,10 @@ history:
 - version: 133
   date: '2026-10-20'
   note: '#237-#244 merged.'
+- version: 134
+  date: '2026-10-19'
+  note: 'Batch 051 integrated: 4 of 5 have a promotion path. THEORY-281, -282 and -284 are theorems re-derived
+    here (ADR-047 v2); -282 and -284 keep their titles, and -281 is narrowed to finite support. THEORY-272
+    is a single-study measurement under ADR-047 v3, narrowed to Hopfield''s simulations. THEORY-302 is
+    an argument.; carried_out_in #248, #251; THEORY-302 requeued to wave 5'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
