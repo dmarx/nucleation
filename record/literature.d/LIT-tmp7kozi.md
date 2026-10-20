@@ -51,6 +51,7 @@ summary: >-
   position sense does not change ownership, so drift is not a cause of
   the illusion; whether ownership causes drift is left open.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the accounts this reading bears on, named and not leaned on -->
 
 # LIT-tmp7kozi: No causal link between changes in hand position sense and feeling of limb ownership in the rubber hand illusion
@@ -107,3 +108,5 @@ authors cite for drift with one moving finger; Longo et al. 2008; and
 the work on demand characteristics and suggestion (Lush 2020; Lush et
 al. 2020; Ehrsson et al. 2022; Lush & Seth 2022; Roseboom & Lush 2022).
 It carries no instruction for machine-learning practice.
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

@@ -54,6 +54,7 @@ summary: >-
   hallucination item, so they read hypnotisability as a general influence
   on report, not a driver of the illusion.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the accounts this exchange bears on, named and not leaned on -->
 
 # LIT-tmp3z5v4: No specific relationship between hypnotic suggestibility and the rubber hand illusion
@@ -110,3 +111,5 @@ of [THEORY-tmpxdoe8](../theory.d/THEORY-tmpxdoe8.md), signs this comment; Anil S
 ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)), the source of [THEORY-tmpom3z2](../theory.d/THEORY-tmpom3z2.md), signs the reply. Matthew
 Longo, an author here, is first author of Longo et al. 2008, which a
 sibling is filing and which this comment cites.
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

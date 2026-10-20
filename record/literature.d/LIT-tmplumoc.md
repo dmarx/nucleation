@@ -54,6 +54,7 @@ summary: >-
   higher, and correlated with ownership (r = 0.50), only when the hand was
   owned.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the batch's accounts this experiment bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-458 THEORY-322 — Proposed; the accounts of ownership against agency and of prospective agency this experiment tests in part, not leaned on -->
 
@@ -116,3 +117,5 @@ Rohde, Di Luca & Ernst 2011 on proprioceptive drift, Abdulkarim &
 Ehrsson 2015, and Longo et al. 2008 on the questionnaire's structure.
 This paper cites Rohde et al. for not relying on drift alone and Longo et
 al. for its questionnaire items.
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

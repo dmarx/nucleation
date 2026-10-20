@@ -62,6 +62,7 @@ summary: >-
   effect"; he proposes controls matched on expectancy and on suggestion
   difficulty.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the accounts of the rubber hand illusion this reading bears on, not leaned on -->
 
 # LIT-tmpo3ov2: Demand Characteristics Confound the Rubber Hand Illusion
@@ -132,3 +133,5 @@ Communications); Ehrsson et al. 2022 and Lush & Seth 2022, the exchange
 over it; Roseboom & Lush 2022 ([LIT-tmpwtltl](LIT-tmpwtltl.md)); Rohde, Di Luca & Ernst 2011;
 Abdulkarim & Ehrsson 2015; Longo et al. 2008; Kalckert & Ehrsson 2012. It
 carries no instruction for machine-learning practice.
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

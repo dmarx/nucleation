@@ -54,6 +54,7 @@ summary: >-
   significant role in RHI measures awaits experiments with adequate
   controls.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the accounts this exchange bears on, named and not leaned on -->
 
 # LIT-tmp6cu56: Reply to: No specific relationship between hypnotic suggestibility and the rubber hand illusion
@@ -108,3 +109,5 @@ asynchronous comparison of the kind this reply says "offers no protection
 against demand characteristic effects". Manos Tsakiris, of Apps &
 Tsakiris 2014 ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)), is on the other side, an author of the
 comment.
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

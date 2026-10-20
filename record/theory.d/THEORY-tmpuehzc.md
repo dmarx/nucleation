@@ -1,22 +1,35 @@
 ---
 status: Proposed
 promote_when: >-
-  Two results, read first-hand. First, a study that measures self-location
-  and self-identification with the whole body during the rubber hand
-  illusion and finds them unchanged while hand ownership and drift change.
-  That would show part ownership and global ownership come apart, not just
+  Two results, read first-hand. First, a study that measures self-
+  location and self-identification with the whole body during the rubber
+  hand illusion and finds them unchanged while hand-ownership reports
+  change, with participants' expectations of whole-body change measured,
+  since they would not expect it and a null could reflect that. That
+  would show part ownership and global ownership come apart, not just
   that the rubber-hand studies did not look. Second, full-body illusions
   shown in people with little or no history of bodily agency, such as
-  severe congenital paralysis, with self-identification and self-location
-  shifting as in typical adults. That would show agency is not needed even
-  in development. It is refuted on the first count if the rubber hand
-  illusion shifts whole-body self-location or self-identification. It is
-  refuted on the second if minimal selfhood, so measured, is absent or
-  altered in people without an agency history. Further conceptual analysis
-  cannot settle it, and neither can more studies on adults whose agency is
-  intact but unused during the illusion.
+  severe congenital paralysis, with self-identification and self-
+  location shifting as in typical adults, under the same expectation
+  control. That would show agency is not needed even in development. It
+  is refuted on the first count if the rubber hand illusion shifts
+  whole-body self-location or self-identification. It is refuted on the
+  second if minimal selfhood, so measured, is absent or altered in
+  people without an agency history. Further conceptual analysis cannot
+  settle it, and neither can more studies on adults whose agency is
+  intact but unused during the illusion. A walking-back drift does not
+  by itself measure self-location: the hand drift it is modelled on
+  arises from vision alone (THEORY-tmpfufvf).
 title: "Minimal selfhood is identification with the whole body, located where that body is felt to be and seen from inside it; owning a body part does not reach it, and bodily agency enables it causally without being part of it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The promote_when now asks for expectation controls and no longer
+    treats hand drift as moving with ownership, after the readings of
+    2026-10-20 (LIT-tmpybpjq, LIT-tmp7kozi, LIT-tmpo3ov2, LIT-tmpwtltl).
+    The claim is unchanged.
 tags:
 - self
 - consciousness
@@ -37,6 +50,7 @@ summary: >-
   claims are asserted, and the agency thesis rests on adults whose agency
   was intact.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; the corrected rubber hand finding, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; accounts this one is compared with, not leaned on -->
 <!-- inactive-ok-file: LIT-1186 — Unavailable; the attempted out-of-body study, named for the line it would need, not leaned on -->
@@ -131,6 +145,23 @@ a constitutive condition, for phenomenal selfhood" (p. 12).
   form of the self-model theory's transparency claim: opacity weakens
   self-identification. Its evidence is reports of how real the experience
   is, so it does not test [THEORY-064](THEORY-064.md)'s distinctive claim.
+
+## Added on 2026-10-20
+
+- **The full-body evidence inherits the hand's problems.** Lenggenhager et
+  al. used Botvinick & Cohen's questionnaire and a synchronous–asynchronous
+  comparison. Lush (2020, [LIT-tmpo3ov2](../literature.d/LIT-tmpo3ov2.md)) and Roseboom & Lush (2022,
+  [LIT-tmpwtltl](../literature.d/LIT-tmpwtltl.md)) predict, without testing, the same expectation confound
+  for the full-body illusion. Their walking-back drift is modelled on the
+  hand drift, which Rohde et al. (2011, [LIT-tmpybpjq](../literature.d/LIT-tmpybpjq.md)) found as large with
+  vision alone. That the same holds for the walking-back measure is the
+  record's analogy, not a finding.
+- **Ownership and agency of a hand come apart in both directions.** Kalckert
+  & Ehrsson (2012, [LIT-tmplumoc](../literature.d/LIT-tmplumoc.md)) gave ownership without agency by passive
+  movement, and agency without ownership with a rotated hand. At the level
+  of the hand this fits "agency enables but does not constitute". But
+  agency reports were stronger when the hand was owned, which runs the
+  other way. The study measures nothing whole-body.
 
 ## Connections
 

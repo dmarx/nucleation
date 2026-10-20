@@ -55,6 +55,7 @@ summary: >-
   out suggestion, and that the illusion as commonly reported may be at
   least partly an implicit imaginative-suggestion effect.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the accounts this reading bears on, named and not leaned on -->
 
 # LIT-tmpg1kz6: Trait phenomenological control predicts experience of mirror synaesthesia and the rubber hand illusion
@@ -116,3 +117,5 @@ Collabra, on demand characteristics in the illusion, is its companion. The
 Nature Communications exchange between Ehrsson et al. 2022 and Lush & Seth
 2022 contests this paper's inference, and Roseboom & Lush 2022, also in
 Collabra, is filed alongside them. It carries no instruction for machine-learning practice.
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

@@ -1,5 +1,12 @@
 ---
-status: Proposed
+status: Rejected
+status_note: >-
+  Rejected on 2026-10-20 by its own refutation condition: drift toward the
+  rubber hand appeared as strongly under asynchronous brushing interrupted
+  by pauses, and with the hand only seen (Rohde et al. 2011, LIT-tmpybpjq).
+  Its suggestion control was also too weak to separate perception from
+  expectation (Lush & Seth 2022, LIT-tmp6cu56). The report half is restated,
+  narrower, in THEORY-tmpfufvf.
 promote_when: >-
   A first-hand reading of a replication of the rubber hand illusion that
   gives sample sizes, named tests and effect sizes for both the
@@ -14,7 +21,13 @@ promote_when: >-
   describing the 1998 result cannot settle it, and neither can more
   questionnaires without a suggestion control.
 title: "Brushing a seen rubber hand in synchrony with the hidden real hand makes touch be felt at the rubber hand, makes it be reported as one's own, and shifts the felt position of the real hand toward it; a small asynchrony removes these effects"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Status Proposed → Rejected, corrected by THEORY-tmpfufvf. The body is
+    unchanged: it is the claim as filed.
 tags:
 - self
 - neuroscience
@@ -22,6 +35,8 @@ tags:
 date: '2026-10-20'
 source:
 - LIT-tmpu9yys
+corrected_by:
+- THEORY-tmpfufvf
 summary: >-
   Botvinick & Cohen (1998), [LIT-tmpu9yys](../literature.d/LIT-tmpu9yys.md), read in full in [NOTE-tmpt0l4z](../notes.d/NOTE-tmpt0l4z.md).
   Ten subjects affirmed referred touch and ownership after ten minutes of
@@ -31,6 +46,7 @@ summary: >-
   synchrony alone, apart from expectation, produces the report, and it
   concerns a hand, not the whole body or the self.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; the corrected rubber hand finding, named -->
 <!-- inactive-ok-file: THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; accounts this finding bears on, named and not leaned on -->
 

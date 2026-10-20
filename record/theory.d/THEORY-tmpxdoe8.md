@@ -1,21 +1,35 @@
 ---
 status: Proposed
 promote_when: >-
-  A model-based test of graded ownership, read first-hand: a design in which
-  the reliability or correlation of visual and tactile input is varied
-  parametrically and a common-cause (causal-inference) model, fitted to
-  some conditions, predicts ownership and drift in held-out ones better
-  than a model in which ownership is all-or-none or follows synchrony
-  alone. A second, independent result should show the real hand losing
-  ownership as the other object gains it, on a measure other than skin
-  temperature or histamine, whose link to ownership is only interpreted.
-  It is refuted if ownership proves all-or-none under graded manipulation,
-  or if objects given the same correlations are owned to the same degree
-  whatever their prior plausibility as body parts. A further review that
-  re-describes the illusions in these terms cannot settle it: the source
-  grants the account fits the findings without the findings requiring it.
+  A model-based test of graded ownership, read first-hand: a design in
+  which the reliability or correlation of visual and tactile input is
+  varied parametrically and a common-cause (causal-inference) model,
+  fitted to some conditions, predicts ownership reports in held-out ones
+  better than a model in which ownership is all-or-none or follows
+  synchrony alone. Expectations must be measured in each condition or
+  matched across them, with trait suggestibility as a covariate, since
+  graded manipulations can produce graded expectations (THEORY-
+  tmpfufvf). Proprioceptive drift is to be modelled as a separate
+  output, not as a second measure of ownership. A second, independent
+  result should show the real hand losing ownership as the other object
+  gains it, on a measure other than skin temperature or histamine, which
+  suggestion can also move. It is refuted if ownership proves all-or-
+  none under graded manipulation, or if objects given the same
+  correlations are owned to the same degree whatever their prior
+  plausibility as body parts. A further review that re-describes the
+  illusions in these terms cannot settle it: the source grants the
+  account fits the findings without the findings requiring it.
 title: "Ownership of a body part is a graded belief that it is the most probable common cause of correlated multisensory input, so that synchronous stimulation of another object moves some of that belief to the object and away from the real part"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The promote_when now asks for expectations to be measured or
+    matched, and for drift to be modelled apart from ownership, after
+    the readings of 2026-10-20: the suggestion debate (LIT-tmpo3ov2,
+    LIT-tmpg1kz6, LIT-tmp3z5v4, LIT-tmp6cu56, LIT-tmpwtltl) and the
+    drift studies (LIT-tmpybpjq, LIT-tmp7kozi). The claim is unchanged.
 tags:
 - self
 - probabilistic-modeling
@@ -34,6 +48,7 @@ summary: >-
   evidence and that it is hard to falsify with standard fMRI. It does not
   say why such a model is experienced as a self.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; the corrected rubber hand finding, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-064 THEORY-322 — Proposed; accounts this one is compared with, not leaned on -->
 
@@ -99,6 +114,19 @@ commitments that could fail:
 - **It is about ownership, not agency.** It makes motor signals one kind of
   prediction among others, so that self-recognition needs no action. That
   is argued, not shown.
+
+## Added on 2026-10-20
+
+- **The finding it explains is narrower than first filed.** [THEORY-tmpef8lf](THEORY-tmpef8lf.md),
+  which this account was built to explain, is Rejected and corrected by
+  [THEORY-tmpfufvf](THEORY-tmpfufvf.md). Drift is not a measure of ownership reports, and the
+  ownership report is the weakest of the illusion items and tracks trait
+  suggestibility. An account that predicts drift and ownership from one
+  belief now has two outputs to fit, not one.
+- **The source's authors are on one side of an open dispute.** Tsakiris
+  signs Ehrsson et al. (2022, [LIT-tmp3z5v4](../literature.d/LIT-tmp3z5v4.md)), which reads the rubber hand
+  data as multisensory perception. Whether they are is [THEORY-tmpfufvf](THEORY-tmpfufvf.md)'s
+  open question.
 
 ## Connections
 

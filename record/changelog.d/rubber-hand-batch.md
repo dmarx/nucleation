@@ -9,3 +9,15 @@
   ownership as a graded belief about the common cause of multisensory
   input; interoceptive signals in body ownership; and minimal selfhood as
   identification with the whole body, with agency only enabling it.
+- Nine experimental works building on the rubber hand illusion, each read
+  in full: the suggestion debate (Lush 2020; Lush et al. 2020; Ehrsson et
+  al. 2022; Lush & Seth 2022; Roseboom & Lush 2022), two studies separating
+  proprioceptive drift from ownership (Rohde et al. 2011; Abdulkarim &
+  Ehrsson 2016), Longo et al. 2008 and Kalckert & Ehrsson 2012.
+
+### Changed
+
+- The rubber hand synchrony THEORY is Rejected by its own refutation
+  condition and corrected by a narrower one about reports. The other three
+  rubber-hand THEORYs take tighter promotion tests that control for
+  expectation.

@@ -59,6 +59,7 @@ summary: >-
   interpreted because of Lush (2020), and that implicit, neuroimaging and
   animal measures are tied to ownership only through these reports.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the accounts of the rubber hand illusion this reading bears on, not leaned on -->
 
 # LIT-tmpwtltl: Serious Problems With Interpreting Rubber Hand “Illusion” Experiments
@@ -136,3 +137,5 @@ asynchronous condition rests; Lush et al. 2020; Ehrsson et al. 2022 and
 Lush & Seth 2022; Rohde, Di Luca & Ernst 2011; Abdulkarim & Ehrsson 2015;
 Longo et al. 2008; Kalckert & Ehrsson 2012. It carries no instruction for
 machine-learning practice.
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

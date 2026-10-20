@@ -59,6 +59,7 @@ summary: >-
   toward the rubber hand was 1.34 cm after synchrony and a non-significant
   0.30 cm after asynchrony, and ownership and location each predicted it.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-tmpuehzc — Proposed; the batch's accounts of the rubber hand illusion this reading bears on, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-458 — Proposed; the ownership–agency account this reading bears on, not leaned on -->
 
@@ -121,3 +122,5 @@ The NOTE sets this out.
 Filed alongside, earlier in the batch: Botvinick & Cohen 1998 ([LIT-tmpu9yys](LIT-tmpu9yys.md)),
 Lenggenhager et al. 2007 ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)), Blanke & Metzinger 2009
 ([LIT-tmpnbv1d](LIT-tmpnbv1d.md)), Apps & Tsakiris 2014 ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)), Seth 2013 ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)).
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

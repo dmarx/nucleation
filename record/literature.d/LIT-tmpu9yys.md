@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-10-19 ([NOTE-tmpt0l4z](../notes.d/NOTE-tmpt0l4z.md)) in full; worth reading as the one-page report that founded the rubber hand illusion paradigm: synchronous brushing of a seen rubber hand and the hidden real hand makes touch be felt where the rubber hand is touched and the rubber hand be felt as one''s own, and after 30 minutes the felt position of the real hand drifts toward the rubber hand in proportion to how long the illusion lasted, while asynchronous brushing abolishes both. Read it as a brief communication: ten subjects, no stated control-group size, statistics given only as P-values, and a connectionist model and a premotor-cell analogy mentioned but not shown. Its closing claim, that intermodal matching "can be sufficient for self-attribution", is the sentence the later literature on body ownership builds on.'
 title: "Rubber hands 'feel' touch that eyes see"
-version: 3
+version: 4
 history:
 - version: 1
   date: '2026-10-19'
@@ -33,6 +33,11 @@ history:
     The owner accepted the copy read, Nature's typeset page on a UC Davis
     faculty site, as a lawful source on 2026-10-20. The reading and its
     status stand.
+- version: 4
+  date: '2026-10-20'
+  note: >-
+    THEORY-tmpef8lf, filed from this work, is Rejected; THEORY-tmpfufvf
+    corrects it. Standing says so.
 tags:
 - self
 - neuroscience
@@ -63,7 +68,8 @@ summary: >-
   time against 42% and showed no drift toward it. The authors conclude
   that intermodal matching "can be sufficient for self-attribution".
 ---
-<!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 — Proposed; filed from this reading, named -->
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; filed with this work as a source, named -->
+<!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 — Rejected and Proposed; filed from this reading, named -->
 
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; the accounts of the self-model and of ownership against agency this report bears on, not leaned on -->
 
@@ -119,3 +125,5 @@ senses it is an early behavioural instance of. The NOTE sets this out.
 Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Lenggenhager et al. 2007, the full-body illusion ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)); Blanke & Metzinger 2009, minimal phenomenal selfhood ([LIT-tmpnbv1d](LIT-tmpnbv1d.md)); Apps & Tsakiris 2014, the free-energy self ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)); Seth 2013, interoceptive inference ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)).
 
 Filed from this work on 2026-10-20: [THEORY-tmpef8lf](../theory.d/THEORY-tmpef8lf.md), on the synchrony effect itself; [THEORY-tmpxdoe8](../theory.d/THEORY-tmpxdoe8.md), the predictive account of ownership, as the finding it explains.
+
+One of the sources of [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md) (filed 2026-10-20), which restates the rubber hand synchrony effect as a difference in reports, separates drift from those reports, and leaves open whether expectation produces the difference.

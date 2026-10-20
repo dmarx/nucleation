@@ -1,20 +1,34 @@
 ---
 status: Proposed
 promote_when: >-
-  A first-hand reading of Suzuki et al. (2013) and Tsakiris et al. (2011),
-  or of independent replications, showing two things. First, that a visual
-  cue pulsing in time with the participant's own heartbeat increases
-  ownership of a virtual hand or body, on questionnaire and on drift, more
-  than the same cue pulsing at the same rate but locked to a non-bodily
-  signal. Second, that lower heartbeat-detection sensitivity predicts
-  greater susceptibility to the rubber hand illusion in a sample with
-  reported effect sizes. It is refuted if a non-bodily periodic signal at
-  heart rate does as well as the heartbeat, since the effect would then be
-  one more temporal correlation that vision locks to, not an interoceptive
-  one; or if the sensitivity–susceptibility relation does not replicate.
-  Opinion pieces re-describing these studies cannot settle it.
+  A first-hand reading of Suzuki et al. (2013) and Tsakiris et al.
+  (2011), or of independent replications, showing two things. First,
+  that a visual cue pulsing in time with the participant's own heartbeat
+  increases ownership reports for a virtual hand or body more than the
+  same cue pulsing at the same rate but locked to a non-bodily signal,
+  with expectations of the two conditions measured or matched in the
+  stimulated participants. Proprioceptive drift alone does not count as
+  ownership (THEORY-tmpfufvf). Second, that lower heartbeat-detection
+  sensitivity predicts greater susceptibility to the rubber hand
+  illusion in a sample with reported effect sizes, and that the relation
+  survives trait suggestibility as a covariate. It is refuted if a non-
+  bodily periodic signal at heart rate does as well as the heartbeat,
+  since the effect would then be one more temporal correlation that
+  vision locks to, not an interoceptive one; or if the
+  sensitivity–susceptibility relation does not replicate or vanishes
+  once suggestibility is controlled. Opinion pieces re-describing these
+  studies cannot settle it.
 title: "Body ownership draws on interoceptive as well as exteroceptive signals: a visual cue synchronous with one's heartbeat increases ownership of a virtual hand and identification with a virtual body, and lower interoceptive sensitivity goes with greater susceptibility to the rubber hand illusion"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The promote_when now asks for expectations to be measured or
+    matched, for drift not to stand in for ownership, and for the
+    sensitivity relation to survive trait suggestibility, after the
+    readings of 2026-10-20 (LIT-tmpo3ov2, LIT-tmpg1kz6, LIT-tmp6cu56,
+    LIT-tmpwtltl, LIT-tmpybpjq). The claim is unchanged.
 tags:
 - self
 - embodied-cognition
@@ -32,6 +46,7 @@ summary: >-
   et al. 2011). None of the studies was read here, and no control
   separates the heartbeat from any other periodic signal.
 ---
+<!-- inactive-ok-file: THEORY-tmpfufvf — Proposed; the corrected rubber hand finding, named -->
 <!-- inactive-ok-file: THEORY-tmpef8lf THEORY-tmpxdoe8 THEORY-tmpuehzc — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-045 THEORY-291 — Proposed; accounts in the interoception cluster this one is joined to, not leaned on -->
 
@@ -96,6 +111,23 @@ could have done as well as one in time. As reported, it did not.
 - **The autonomic results are not part of it.** Cooling and histamine
   changes in the real hand are called "compatible with" active inference,
   not predicted by it. They are left out here.
+
+## Added on 2026-10-20
+
+- **Its evidence uses the design the suggestion papers question.** Suzuki
+  et al.'s cardio-visual hand compares synchronous with asynchronous
+  feedback, the comparison Lush & Seth (2022, [LIT-tmp6cu56](../literature.d/LIT-tmp6cu56.md)) say "offers no
+  protection against demand characteristic effects". Lush et al.'s
+  supplement ([LIT-tmpg1kz6](../literature.d/LIT-tmpg1kz6.md)) lists Suzuki et al. 2013 and Tsakiris et al.
+  2011 among the studies using such controls. Applying this to the
+  cardiac result is the record's inference. Seth co-authored the source,
+  Lush et al. and the reply.
+- **A third variable is possible.** Rubber hand reports track trait
+  suggestibility (Roseboom & Lush 2022, [LIT-tmpwtltl](../literature.d/LIT-tmpwtltl.md)), so the
+  sensitivity–susceptibility relation could run through it. Nothing read
+  tests this.
+- **Part of its evidence is drift.** Suzuki et al.'s drift result cannot
+  carry ownership on its own (Rohde et al. 2011, [LIT-tmpybpjq](../literature.d/LIT-tmpybpjq.md)).
 
 ## Connections
 
