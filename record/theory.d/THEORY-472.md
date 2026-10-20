@@ -39,7 +39,6 @@ extended_by:
 - THEORY-172
 ---
 <!-- inactive-ok-file: LIT-1041 — Unavailable; Grice 1975, read only at pp. 45–47, named as the informal ancestor and not leaned on -->
-<!-- inactive-ok-file: THEORY-172 — Proposed; the rational-speech-act account this one is set beside, not leaned on -->
 
 # THEORY-472: A speaker who chooses words to minimise the information lost about a single intended referent, with words' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word's meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers' word use followed it only weakly (r = .19)
 

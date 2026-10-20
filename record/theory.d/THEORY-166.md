@@ -1,17 +1,20 @@
 ---
 number: 166
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp9wyar
-promote_when: >-
-  A test of the equality on question pairs chosen before the data were
-  seen, by investigators other than its proposers, with the per-pair
-  tables published, and a comparison against a classical model with
-  memory that is constrained to satisfy the same equality and fitted to
-  the same tables. Re-analyses of the same 72 studies cannot settle it,
-  and neither can a fit of the quantum model alone.
-title: 'Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability'
-version: 1
+title: 'In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-166 (batch 048, ADR-047 v3): one study read in full, whose text
+    states the result. "Survey question-order effects" becomes the 66 Pew
+    surveys with nothing read out between the questions. The equality and the
+    classical construction behind the negative clause are worked in a dated
+    note. The promote_when moves to QUESTION-tmpp7mar.
 tags:
 - cognition
 - social-science
@@ -23,20 +26,22 @@ source:
 - LIT-264
 summary: >-
   Wang, Solloway, Shiffrin & Busemeyer (2014), [LIT-795](../literature.d/LIT-795.md), on the QQ
-  equality derived in [LIT-834](../literature.d/LIT-834.md): across 66 unselected Pew surveys,
-  question order shifts the answers (p = 0.0004) but not the probability
-  that the two answers agree (p = 0.4625). The Lüders projection model
-  predicts this without parameters. The authors concede that a classical
-  model can be built to satisfy the equality, and [LIT-264](../literature.d/LIT-264.md) shows that data
-  meeting it are noncontextual, so it is evidence for a constraint on
-  order effects, not for nonclassical probability or contextuality.
+  equality derived in [LIT-834](../literature.d/LIT-834.md): across the 66 Pew surveys of 2001-2011 that
+  varied the order of two questions, question order shifts the answers
+  (p = 0.0004) but not the probability that the two answers agree
+  (p = 0.4625). The Lüders projection model predicts this without
+  parameters, by a one-line identity. A classical model with order events
+  can be built to satisfy the equality, and [LIT-264](../literature.d/LIT-264.md) shows that data meeting
+  it are noncontextual, so it is evidence for a constraint on order effects,
+  not for nonclassical probability or contextuality. A preregistered test
+  with a constrained classical rival is [QUESTION-tmpp7mar](../questions.d/QUESTION-tmpp7mar.md).
 supports:
 - CLAIM-041
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; named as the neighbouring account this one is consistent with -->
 
-# THEORY-166: Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability
+# THEORY-166: In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability
 
 ## Source
 
@@ -94,3 +99,23 @@ chance.
   information breaks the prediction, the tests are on US surveys (mostly
   one organisation's), and the regularity is uninformative where order
   effects are small.
+
+## Note of 2026-10-20: the equality and a classical model that meets it
+
+Worked for the promotion audit (batch 048).
+
+**The equality.** With Lüders projectors P (A yes) and Q (B yes) and a
+state S, the probability of agreeing answers in order AB is
+⟨S|P Q P + (I − P)(I − Q)(I − P)|S⟩. Since P² = P,
+(I − P)(I − Q)(I − P) = I − P − Q + P Q + Q P − P Q P, so the operator is
+I − P − Q + P Q + Q P, which is symmetric in P and Q. The agreement
+probability is therefore the same in both orders, for any projectors in
+any dimension, and for density matrices by linearity.
+
+**A classical model that meets it.** Let the order be an event O that sets
+the joint distribution of answers. Take p(yes, yes | AB) = 0.4,
+p(yes, no | AB) = 0.2, p(no, yes | AB) = 0, p(no, no | AB) = 0.4, and the
+same table with the two discordant cells swapped for BA. Then
+P(A yes) is 0.6 in one order and 0.4 in the other, an order effect, while
+the agreement probability is 0.8 in both. The equality constrains which
+tables occur; it does not by itself require noncommuting operations.

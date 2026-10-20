@@ -33,7 +33,7 @@ summary: >-
 extended_by:
 - THEORY-511
 ---
-<!-- inactive-ok-file: CLAIM-221 THEORY-172 THEORY-511 THEORY-665 — Proposed; the objection, the rational-speech-act account and the neighbouring accounts of illocution and assertion, cited as open -->
+<!-- inactive-ok-file: CLAIM-221 THEORY-511 THEORY-665 — Proposed; the objection, the rational-speech-act account and the neighbouring accounts of illocution and assertion, cited as open -->
 
 # THEORY-444: To mean something by an utterance, in the non-natural sense, is to intend it to produce an effect in an audience by means of the audience's recognition of that intention, where the recognition is meant to be a reason for the effect and not merely its cause; an intention to produce the effect, or to have it recognised, is not enough
 

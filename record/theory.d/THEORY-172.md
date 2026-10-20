@@ -1,18 +1,10 @@
 ---
 number: 172
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmprknoj
-promote_when: >-
-  Listener judgements in reference or signalling games whose alternative
-  utterances and costs are manipulated while the uttered form is held
-  fixed, predicted in advance by the inverted-informative-speaker model
-  with its parameters set before the data are seen, and shown to beat a
-  literal listener with the same prior and a likelihood-only model on
-  unaggregated, trial-level data. A high correlation of condition means
-  with a parameter-free model, which is what exists, cannot settle it.
-title: 'Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said'
-version: 2
+title: 'In Frank and Goodman''s one-shot reference games, listeners'' mean bets matched a parameter-free listener inverting a speaker who chooses among true utterances by informativeness, with a separately measured salience prior, and not salience alone; and in Bergen, Goodman and Levy''s signalling games with novel symbols, listeners read a signal as excluding what the available alternative would have conveyed'
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -24,6 +16,16 @@ history:
     referent. LIT-824 is not added to the source, because its Experiment 1
     tests the neighbouring inference and not this one. A Connections
     section names both.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-172 (batch 048, ADR-047 v3): two studies read in full, whose text
+    states the results. "Listeners interpret an utterance by inverting a
+    speaker model" becomes the measured match in those games, and "neither
+    the prior nor the literal meaning alone" keeps only the prior, since no
+    likelihood-only model was fitted. The promote_when moves to
+    QUESTION-tmpgh1rg.
 tags:
 - pragmatics
 - linguistics
@@ -37,15 +39,17 @@ source:
 extends:
 - THEORY-472
 summary: >-
-  Frank & Goodman (2012), [LIT-821](../literature.d/LIT-821.md), read in [NOTE-634](../notes.d/NOTE-634.md): a
-  parameter-free Bayesian listener inverting a size-principle speaker,
-  with a measured salience prior, predicts mean listener bets at r = .99;
-  Bergen, Goodman & Levy (2012), [LIT-809](../literature.d/LIT-809.md), read in [NOTE-613](../notes.d/NOTE-613.md):
-  people draw specificity and Horn implicatures among novel signals, and
-  lexical uncertainty lets the same recursion derive Horn's mapping;
-  Goodman & Frank (2016), [LIT-816](../literature.d/LIT-816.md), states the framework. Shown for
-  artificial games with given alternatives; it does not say that natural
-  comprehension computes this recursion, nor that speakers are rational.
+  Frank & Goodman (2012), [LIT-821](../literature.d/LIT-821.md), read in [NOTE-634](../notes.d/NOTE-634.md): a parameter-free
+  Bayesian listener inverting a size-principle speaker, with a separately
+  measured salience prior, matches mean listener bets over seven context
+  types at r = .99 (.87 without the 0 and 100 predictions), while salience
+  alone correlates at r = .19. Bergen, Goodman & Levy (2012), [LIT-809](../literature.d/LIT-809.md), read
+  in [NOTE-613](../notes.d/NOTE-613.md): with novel signals and no conventions, listeners read the
+  signal as the object its alternative did not name, and lexical
+  uncertainty derives Horn's mapping. Goodman & Frank (2016), [LIT-816](../literature.d/LIT-816.md),
+  states the framework. Shown for artificial games with given alternatives,
+  by fits of condition means with no rival fitted; a test against named
+  rivals on trial-level data is [QUESTION-tmpgh1rg](../questions.d/QUESTION-tmpgh1rg.md).
 supports:
 - CLAIM-111
 - CLAIM-221
@@ -54,7 +58,7 @@ supports:
 - CLAIM-242
 ---
 
-# THEORY-172: Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said
+# THEORY-172: In Frank and Goodman's one-shot reference games, listeners' mean bets matched a parameter-free listener inverting a speaker who chooses among true utterances by informativeness, with a separately measured salience prior, and not salience alone; and in Bergen, Goodman and Levy's signalling games with novel symbols, listeners read a signal as excluding what the available alternative would have conveyed
 
 ## Source
 
@@ -75,9 +79,9 @@ prior on literal truth. Two consequences follow and are observed: a
 general utterance is read as excluding what a more specific available
 utterance would have conveyed (specificity implicature), and, when the
 agents are uncertain what the signals mean, a costlier signal is read as
-the less likely meaning (Horn's principle). Neither the prior nor the
-literal meaning alone predicts the interpretation; their combination
-through the speaker model does.
+the less likely meaning (Horn's principle). The measured prior alone
+does not predict the interpretation; its combination with the speaker
+model does. A literal-meaning-only listener was not fitted.
 
 ## What was actually shown
 
@@ -124,3 +128,16 @@ supplies.
   finds that Experiment 1 adds support here in that neighbouring form,
   and that its evidence (r = .93 on condition means, one model, no
   competitor) is of the kind `promote_when` says cannot settle it.
+
+## Note of 2026-10-20: what the promotion keeps
+
+The account is held to what the two studies measured. Frank and
+Goodman's listener condition is a match of condition means to one model
+(r = .99) against a measured prior that does not predict the bets
+(r = .19); a likelihood-only listener is not reported, so the title does
+not claim that literal meaning alone fails. Bergen, Goodman and Levy's
+Experiment 1 shows the dependence of a fixed form's reading on its
+alternative at ceiling. Their Experiment 2, the Horn mapping, supports
+lexical uncertainty, which goes beyond the basic inversion, and stays in
+the body as such. Whether listeners compute the inversion, rather than
+follow the alternatives by a simpler route, is [QUESTION-tmpgh1rg](../questions.d/QUESTION-tmpgh1rg.md).

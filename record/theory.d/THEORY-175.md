@@ -1,25 +1,21 @@
 ---
 number: 175
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpcgnsc
-promote_when: >-
-  A direct measurement of the maps between independently trained latent
-  spaces, on the encoders and data where anchor-based transfer has been
-  shown: the residual of the best orthogonal-times-scalar map (orthogonal
-  Procrustes on normalised embeddings) against the residual of the best
-  general linear map, on held-out samples, together with stitched
-  performance. The account is promoted if the conformal residual is close
-  to the linear one where stitching works and the gap grows where it fails
-  (cross-architecture, distant languages, an anchor count below the
-  latent width). It is refuted if stitching through cosine profiles
-  succeeds where the best conformal map leaves a large residual that a
-  linear map removes, or fails where the conformal residual is small and
-  the anchors cover the data. More stitching tables of the kind the source
-  reports cannot settle it, since they do not separate distortion from
-  anchor coverage.
-title: 'Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ'
-version: 1
+title: 'Cosine similarities to matched anchor points are unchanged by exactly the maps that preserve each sample''s cosines to the anchors, among them every orthogonal map times a positive scalar and every per-sample positive rescaling but not translations; in Moschella et al.''s experiments independently trained encoders agreed in them only approximately, enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differed'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-175 (batch 048): the invariance re-derived (ADR-047 v2, dated note)
+    and the agreement one study read in full (ADR-047 v3). The invariance
+    class is stated as the maps preserving each sample's cosines to the
+    anchors, with the members the derivation fixes, and the agreement is held
+    to Moschella et al.'s experiments. The promote_when moves to
+    QUESTION-tmpqgnk6.
 tags:
 - representation-learning
 - anthology-candidate
@@ -27,22 +23,23 @@ date: '2026-10-09'
 source:
 - LIT-849
 summary: >-
-  Moschella et al. (2022; ICLR 2023), [LIT-849](../literature.d/LIT-849.md), as read in
-  [NOTE-652](../notes.d/NOTE-652.md). The invariance is by construction; its exact class
-  (every cosine-preserving map, including per-sample positive rescaling,
-  but no translation and no general linear map) is the reader's
-  statement. The approximate agreement is the paper's evidence: relative
-  vectors match at cosine 0.86–0.97 across encoders, while ten-nearest-
-  neighbour overlap is 0.10–0.39. It does not say the maps between
-  trained spaces are isometries, which the source never measures, nor
-  that the transfer needs no paired data: the anchors are paired data.
+  Moschella et al. (2022; ICLR 2023), [LIT-849](../literature.d/LIT-849.md), as read in [NOTE-652](../notes.d/NOTE-652.md). The
+  invariance is by construction; its class (the maps preserving each
+  sample's cosines to the anchors, which include every orthogonal map times
+  a positive scalar and every per-sample positive rescaling, but not
+  translations) is the reader's statement, re-derived in a dated note. The
+  approximate agreement is the paper's evidence: relative vectors match at
+  cosine 0.86–0.97 across encoders, while ten-nearest-neighbour overlap is
+  0.10–0.39. It does not say the maps between trained spaces are
+  isometries, which the source never measures ([QUESTION-tmpqgnk6](../questions.d/QUESTION-tmpqgnk6.md)), nor that
+  the transfer needs no paired data: the anchors are paired data.
 supports:
 - CLAIM-126
 - CLAIM-082
 ---
 <!-- inactive-ok-file: THEORY-008 THEORY-112 — Proposed; cited as the kernel and symmetry accounts this one sits beside -->
 
-# THEORY-175: Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ
+# THEORY-175: Cosine similarities to matched anchor points are unchanged by exactly the maps that preserve each sample's cosines to the anchors, among them every orthogonal map times a positive scalar and every per-sample positive rescaling but not translations; in Moschella et al.'s experiments independently trained encoders agreed in them only approximately, enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differed
 
 ## Source
 
@@ -121,3 +118,24 @@ broad kernel agreement and modest nearest-neighbour agreement. At one layer,
 the permutations and residual-stream rotations that [THEORY-112](THEORY-112.md) factors out
 of weight space act on activations as orthogonal maps, so relative
 representations there are blind to them.
+
+## Note of 2026-10-20: the invariance class, derived
+
+Worked for the promotion audit (batch 048). Write r_x = (cos(e_x, e_a))
+over anchors a.
+
+- A map f leaves every r_x unchanged exactly when
+  cos(f(e_x), f(e_a)) = cos(e_x, e_a) for every sample x and anchor a.
+  That is the definition unwound, and it is the class the title names.
+- Per-sample positive rescaling x ↦ c(x)x with c > 0 is in it, since
+  cosine ignores positive scale. A translation x ↦ x + t is not, for
+  generic t.
+- The linear maps of the space that preserve every cosine are the
+  orthogonal maps times a positive scalar. Such an L is injective and
+  preserves orthogonality; on an orthonormal basis, e_i + e_j ⟂ e_i − e_j
+  forces ‖Le_i‖ = ‖Le_j‖, so LᵀL = c²I.
+
+On a finite data set with fewer anchors than dimensions, maps that are
+not conformal on the whole space can still preserve every sample-anchor
+cosine, so the title names the members of the class that hold in general
+rather than listing it.

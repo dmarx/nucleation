@@ -34,7 +34,7 @@ objected_by:
 <!-- inactive-ok-file: CLAIM-242 — Proposed; the record's reply to this objection, cited in "Where it stands" as open -->
 <!-- inactive-ok-file: CLAIM-082 — Proposed; open, and cited as the claim this objection is to -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited as resting on CLAIM-082, not as settled -->
-<!-- inactive-ok-file: THEORY-159 THEORY-175 — Proposed; the readings of Saussure and of relative representations, cited for what they say, not as settled -->
+<!-- inactive-ok-file: THEORY-159 — Proposed; the readings of Saussure and of relative representations, cited for what they say, not as settled -->
 
 # CLAIM-254: Read as the Saussure correction has it, the structuralist premise argues against transport: value is internal to one language state, so what can cross between languages is signification, the aspect the premise demotes
 
