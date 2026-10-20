@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp99x1h
 title: "In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal task vectors, simulation shows skills progressing together under gradient descent, the weaker taking about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence appears under sign descent only when the loss's eigendirections are misaligned with the coordinates"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -16,6 +16,14 @@ history:
     misalignment condition the rotated quadratic shows. The two-task and
     rotated-quadratic results were reproduced by the record (dated note
     below). The promote_when moves to QUESTION-193.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The wider claim this account dropped when it was narrowed, that sign-
+    descent-like optimizers such as Adam are one source of sequential
+    skill onset in trained networks, as the paper proposes, is filed as
+    the Proposed THEORY-tmpnt3o1, which extends this one (ADR-047 v4,
+    narrowing-loss sweep, batch 068). Status and title are unchanged.
 tags:
 - learning-theory
 date: '2026-10-14'
@@ -29,14 +37,17 @@ summary: >-
   A rotated quadratic shows the split only when its eigendirections are
   misaligned with the coordinates (Fig. 12). The record reproduced both.
   The order is frequency order either way. The evidence is simulation and
-  one fitted ODE; a derivation and a trained-network test are QUESTION-
-  tmpihczu. Sequential onset caused by dependency between skills is a
+  one fitted ODE; a derivation and a trained-network test are QUESTION-193.
+  Sequential onset caused by dependency between skills is a
   separate experiment, not part of this account.
 answers:
 - QUESTION-039
 supports:
 - CLAIM-367
+extended_by:
+- THEORY-tmpnt3o1
 ---
+<!-- inactive-ok-file: THEORY-tmpnt3o1 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-212 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
 
 # THEORY-253: In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal task vectors, simulation shows skills progressing together under gradient descent, the weaker taking about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence appears under sign descent only when the loss's eigendirections are misaligned with the coordinates
@@ -152,3 +163,11 @@ as learned at s ≥ 0.9.
 
 Both match the paper's text. They are the paper's model run again, not
 new evidence about trained networks.
+
+## Note of 2026-10-20: the wider claim, filed separately
+
+When this account was narrowed, its wider form went nowhere a later result
+could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
+[THEORY-tmpnt3o1](THEORY-tmpnt3o1.md): that sign-descent-like optimizers such as Adam are one
+source of sequential skill onset in trained networks, as the paper
+proposes. This account is that one's evidence, and nothing here changes.
