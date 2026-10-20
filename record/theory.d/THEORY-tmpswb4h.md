@@ -22,11 +22,11 @@ source:
 answers:
 - QUESTION-tmpxapb2
 summary: >-
-  Parish and Duraisamy (2017), LIT-tmpvihtb, read in NOTE-tmpg06if. The
+  Parish and Duraisamy (2017), [LIT-tmpvihtb](../literature.d/LIT-tmpvihtb.md), read in [NOTE-tmpg06if](../notes.d/NOTE-tmpg06if.md). The
   finite-memory closure turns the Mori–Zwanzig memory integral into
   auxiliary ordinary differential equations, so the reduced model is the
   resolved variables plus finitely many memory coordinates: the shape of
-  augmentation QUESTION-tmpxapb2 asks about. But the truncation drops the
+  augmentation [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md) asks about. But the truncation drops the
   next auxiliary term without a bound, the memory length is fitted, and
   the kernel's form is fixed by the quadrature, not by the eliminated
   dynamics. It is an augmentation with uncontrolled error, not the
@@ -41,7 +41,7 @@ summary: >-
 ## Source
 
 Parish and Duraisamy (2017), *Physical Review Fluids* 2: 014604,
-LIT-tmpvihtb, read in full in NOTE-tmpg06if from arXiv:1611.03311v2. The
+[LIT-tmpvihtb](../literature.d/LIT-tmpvihtb.md), read in full in [NOTE-tmpg06if](../notes.d/NOTE-tmpg06if.md) from arXiv:1611.03311v2. The
 closure is the paper's §II.B, Eqs. 20–26, which it credits to Stinis
 (2006, 2012). The derivations below are the record's.
 
@@ -82,7 +82,7 @@ relaxation equations, one per order, for each resolved mode. Every
 right-hand side depends only on the current resolved state and the
 current auxiliary variables. So the state (φ̂, w^{(0)}, …, w^{(m)}) of
 dimension (m + 2)N evolves Markovianly. That is the "coarse variable plus
-k memory coordinates" of QUESTION-tmpxapb2, with k = (m + 1)N.
+k memory coordinates" of [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md), with k = (m + 1)N.
 
 **Step 3: the kernel it implies.** At m = 0 with w^{(1)} = 0 and
 w^{(0)}(0) = 0 (the paper's initially resolved runs), the relaxation
@@ -136,7 +136,7 @@ form is fixed by the quadrature.
   decreases with the repeated application of QL", and gives no bound. The
   trapezoidal error is stated as O(τ₀²), with no constant. τ₀ is fitted to DNS for Burgers and set to 0.1 for
   Navier–Stokes. So this is a Markovian augmentation without the
-  controlled prediction error QUESTION-tmpxapb2 asks for.
+  controlled prediction error [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md) asks for.
 - **Not that the true memory has finite support.** The paper's linear
   analysis (its Eqs. 15–19) shows that the memory integrand decays like
   e^{Λs} for the eigenvalues Λ of the unresolved block. Exponential decay
@@ -159,7 +159,7 @@ form is fixed by the quadrature.
 
 ## Connections
 
-- **QUESTION-tmpxapb2: answers in part.** It asks for a class in which
+- **[QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md): answers in part.** It asks for a class in which
   the reduced process has a finite Markovian augmentation with bounded
   prediction error, with k and the error in terms of the eliminated
   dynamics' spectrum. This shows the turbulence literature's working
@@ -175,12 +175,12 @@ form is fixed by the quadrature.
   becomes a field that relaxes at rate 2/τ₀, driven by the resolved field
   and the Leonard stress. A5's "additional internal memory coordinate" is
   here a named physical quantity, the stress the unresolved scales exert.
-- **THEORY-257.** Dynamical independence conditions on the coarse
+- **[THEORY-257](THEORY-257.md).** Dynamical independence conditions on the coarse
   variable's own history, so a coarse variable with memory need not fail
   it. This closure gives one way such a history could be summarised by a
   finite state. Whether the record's criteria should be applied to φ̂ or
-  to (φ̂, w) is what QUESTION-tmpxapb2 asks, and this account does not
+  to (φ̂, w) is what [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md) asks, and this account does not
   decide it.
-- **Chorin, Hald and Kupferman** (LIT-tmpai9kc, LIT-tmple6xy, registered
+- **Chorin, Hald and Kupferman** ([LIT-tmpai9kc](../literature.d/LIT-tmpai9kc.md), [LIT-tmple6xy](../literature.d/LIT-tmple6xy.md), registered
   unread) are the optimal-prediction source of the projection and of the
   t-model. Their readings may say whether a bound exists for any class.

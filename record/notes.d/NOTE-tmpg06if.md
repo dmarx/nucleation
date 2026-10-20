@@ -90,7 +90,7 @@ its length depends on where the cut is made.
   The paper prints the last coefficient as A₂₁. That is a typo, checked
   numerically: with A₂₁ the equation misses dx/dt by up to 2.1, and with
   A₁₂ it agrees to quadrature error, 1.6 × 10⁻⁵. It is A5's example in
-  QUESTION-tmpxapb2.
+  [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md).
 - **Mori–Zwanzig identity (Eq. 10).** ∂_t e^{tL}φ₀ⱼ = e^{tL}PLφ₀ⱼ
   (Markovian) + e^{tQL}QLφ₀ⱼ (noise) + ∫₀ᵗ e^{(t−s)L}PL e^{sQL}QLφ₀ⱼ ds
   (memory), from Dyson's formula.
@@ -106,7 +106,7 @@ its length depends on where the cut is made.
   order m over lags [0, τ_m], constant τ_m and one trapezoidal interval:
   dw^{(m)}/dt = −(2/τ_m)w^{(m)} + 2e^{tL}PL(QL)^{m+1}φ₀ⱼ + w^{(m+1)}.
   Truncated at w^{(m+1)} = 0, this is a finite Markovian augmentation.
-  Re-derived in THEORY-tmpswb4h, which also shows that at first order it
+  Re-derived in [THEORY-tmpswb4h](../theory.d/THEORY-tmpswb4h.md), which also shows that at first order it
   is an exponential kernel 2e^{−2s/τ₀} on the first-order term, tending
   to the t-model with t replaced by τ₀.
 - **Memory-length rule (Fig. 2).** Over 60 Burgers runs, the fitted τ₀
@@ -146,7 +146,7 @@ its length depends on where the cut is made.
 |---|---|---|---|
 | C1 | Coarse-graining leads to memory: the reduced dynamics of resolved modes are exactly Markovian term + memory + noise | strong | the Mori–Zwanzig identity, Eq. 10; standard |
 | C2 | For stable linear systems, the memory integrand has "finite support" with a timescale set by the eigenvalues of the orthogonal dynamics | weak as worded, strong as "decays exponentially" | Eqs. 15–19 and Fig. 1; exponential decay is not finite support |
-| C3 | The finite-memory hierarchy reduces the memory to Markovian equations, truncated by neglecting the next term | strong as a construction; the truncation is unjustified | Eqs. 21–26; re-derived in THEORY-tmpswb4h |
+| C3 | The finite-memory hierarchy reduces the memory to Markovian equations, truncated by neglecting the next term | strong as a construction; the truncation is unjustified | Eqs. 21–26; re-derived in [THEORY-tmpswb4h](../theory.d/THEORY-tmpswb4h.md) |
 | C4 | The memory length scales with the inverse spectral radius of the resolved Jacobian, τ₀ ≈ 0.2/ρ | moderate, for Burgers | 60 fitted runs, Fig. 2; "evidence rather than proof" in the authors' words; partly dimensional (see Limitations) |
 | C5 | Finite-memory closures predict energy, dissipation and subgrid transfer accurately on Burgers and Navier–Stokes test flows | moderate | Figs. 3–9; qualitative, no error norms; FM1's subgrid transfer peak about 40% too deep in isotropic turbulence |
 | C6 | They are more robust than Smagorinsky outside equilibrium turbulence, because they make no assumption about the flow state | moderate | Taylor–Green and Burgers runs that start resolved; on isotropic turbulence the authors decline to claim superiority |
@@ -190,7 +190,7 @@ its length depends on where the cut is made.
 ## Connections
 
 It builds on the optimal-prediction programme of Chorin, Hald and
-Kupferman (2000, 2002, 2006; LIT-tmpai9kc and LIT-tmple6xy are registered
+Kupferman (2000, 2002, 2006; [LIT-tmpai9kc](../literature.d/LIT-tmpai9kc.md) and [LIT-tmple6xy](../literature.d/LIT-tmple6xy.md) are registered
 unread), on Givon, Hald and Kupferman's existence proof for orthogonal
 dynamics, on Bernstein's and Hald and Stinis's t-model studies, on Chandy
 and Frankel's t-model LES, and above all on Stinis's finite-memory and
@@ -203,10 +203,10 @@ memory effects (arXiv:1611.06277) and a dynamic Mori–Zwanzig model
 
 ## Bearing on the record
 
-- **QUESTION-tmpxapb2, the central bearing.** The finite-memory closure
+- **[QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md), the central bearing.** The finite-memory closure
   is a finite-dimensional Markovian augmentation in the question's sense:
   the resolved modes plus (m + 1)N auxiliary variables, all evolving
-  Markovianly (THEORY-tmpswb4h, Active, answers in part). It does not
+  Markovianly ([THEORY-tmpswb4h](../theory.d/THEORY-tmpswb4h.md), Active, answers in part). It does not
   have the controlled error the question asks for:
   - the truncation drops w^{(m+1)} with no bound;
   - the memory length is fitted to DNS or preset;
@@ -224,7 +224,7 @@ memory effects (arXiv:1611.06277) and a dynamic Mori–Zwanzig model
   coordinate", and it suggests applying the record's level criteria to
   (φ̂, w), the augmented state. The paper's "numerical, not physical"
   memory supports A3's caution that the split depends on the projection.
-- **CLAIM-331.** The paper's premise is the third case in the claim's
+- **[CLAIM-331](../claims.d/CLAIM-331.md).** The paper's premise is the third case in the claim's
   note of 2026-10-19: turbulence "lack[s] scale separation", and
   Markovian eddy viscosity rests on "rapid equilibration of small
   scales", which fails. Its measurement adds something. The fitted
@@ -236,24 +236,24 @@ memory effects (arXiv:1611.06277) and a dynamic Mori–Zwanzig model
   with "characteristically slower", and shows the ordering is graded and
   depends on the chosen cut. It is not a defeater: no variable another
   criterion individuates changes faster than its constituents here.
-- **QUESTION-tmpmz64i.** The quantity the augmentation carries is the
+- **[QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md).** The quantity the augmentation carries is the
   energy flux across the cutoff, T^{SGS}(k) = u*·w^{(0)}. In isotropic
   turbulence the DNS drain sits within a few wavenumbers of the cutoff,
   and only the memory closure reproduces that location; the Smagorinsky
   models drain at low k. That is indirect evidence that transfer across
   the cut is local in scale, the property A3 took from Eyink and Aluie
-  (LIT-tmp2snx1, unread). The paper does not frame it that way. Nothing
+  ([LIT-tmp2snx1](../literature.d/LIT-tmp2snx1.md), unread). The paper does not frame it that way. Nothing
   here bears on organized throughput as a criterion of unity.
-- **THEORY-257, CLAIM-327.** A memory closure summarizes the eliminated
-  history by a finite present state. That is the shape CLAIM-327 gives a
+- **[THEORY-257](../theory.d/THEORY-257.md), [CLAIM-327](../claims.d/CLAIM-327.md).** A memory closure summarizes the eliminated
+  history by a finite present state. That is the shape [CLAIM-327](../claims.d/CLAIM-327.md) gives a
   reputation, a variable that stores the past. It does not test
   dynamical independence: the resolved modes here are not closed, which
   is why a closure is needed at all.
-- **CLAIM-157.** A Fourier cutoff in turbulence is a partition with
+- **[CLAIM-157](../claims.d/CLAIM-157.md).** A Fourier cutoff in turbulence is a partition with
   strong coupling across it. The closure works without any weakly
   coupled block, a further case of closure without a block for
-  QUESTION-tmplru2n.
-- **LIT-tmpki8cm** (Germano, unread): the paper's Leonard-stress form
+  [QUESTION-tmplru2n](../questions.d/QUESTION-tmplru2n.md).
+- **[LIT-tmpki8cm](../literature.d/LIT-tmpki8cm.md)** (Germano, unread): the paper's Leonard-stress form
   (Appendix C) is the filtered-description vocabulary Germano's work
   uses.
 
@@ -311,7 +311,7 @@ No instruction for machine-learning practice; nothing for the anthology.
   analysis says) or the resolved one (as the rule assumes)? A test that
   varies the cutoff with the flow fixed would separate them.
 - Is the subgrid force, as the augmenting coordinate, dynamically
-  independent in THEORY-257's sense once paired with the resolved field?
+  independent in [THEORY-257](../theory.d/THEORY-257.md)'s sense once paired with the resolved field?
   That is, does (φ̂, w) close to the accuracy shown? This would put
-  QUESTION-tmpxapb2's "apply the level criteria to the augmented state"
+  [QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md)'s "apply the level criteria to the augmented state"
   to a concrete test.

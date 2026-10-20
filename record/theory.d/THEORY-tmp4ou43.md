@@ -28,8 +28,8 @@ date: '2026-10-20'
 source:
 - LIT-tmpvihtb
 summary: >-
-  Parish and Duraisamy (2017), LIT-tmpvihtb, read in NOTE-tmpg06if. The
-  closure is THEORY-tmpswb4h's finite Markovian augmentation. Here is how
+  Parish and Duraisamy (2017), [LIT-tmpvihtb](../literature.d/LIT-tmpvihtb.md), read in [NOTE-tmpg06if](../notes.d/NOTE-tmpg06if.md). The
+  closure is [THEORY-tmpswb4h](THEORY-tmpswb4h.md)'s finite Markovian augmentation. Here is how
   it did, as far as the paper's plots show: close to filtered DNS in
   integral quantities, comparable to dynamic Smagorinsky in equilibrium
   turbulence, clearly better on a transitional flow, and with the subgrid
@@ -46,7 +46,7 @@ summary: >-
 ## Source
 
 Parish and Duraisamy (2017), *Physical Review Fluids* 2: 014604,
-LIT-tmpvihtb, read in full in NOTE-tmpg06if from arXiv:1611.03311v2.
+[LIT-tmpvihtb](../literature.d/LIT-tmpvihtb.md), read in full in [NOTE-tmpg06if](../notes.d/NOTE-tmpg06if.md) from arXiv:1611.03311v2.
 §§III–V and Appendix B, Figs. 2–11.
 
 ## What was actually shown
@@ -118,18 +118,18 @@ relation to the resolved timescale.
 
 ## Connections
 
-- **THEORY-tmpswb4h** is what the closure is: a finite Markovian
+- **[THEORY-tmpswb4h](THEORY-tmpswb4h.md)** is what the closure is: a finite Markovian
   augmentation with an exponential kernel and no error bound. This
   account is how well it worked.
-- **CLAIM-331.** Turbulence is the third source of slowness in the
+- **[CLAIM-331](../claims.d/CLAIM-331.md).** Turbulence is the third source of slowness in the
   claim's note of 2026-10-19: no gap between resolved and unresolved
   scales. Here the fitted memory is about a fifth of the fastest resolved
   timescale. So the eliminated scales' influence decays faster than any
   resolved mode moves, a ratio set by the cutoff, not a spectral gap.
   That fits the claim's "characteristically slower", and shows the
   ordering is graded and moves with the chosen cut.
-- **QUESTION-tmpmz64i.** What the closure carries is the energy flux
+- **[QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md).** What the closure carries is the energy flux
   across the cutoff (T^{SGS} = u*·w^{(0)}). It gets the flux's location
   right, which Smagorinsky does not, by carrying it as a relaxing state
-  variable. Eyink and Aluie (LIT-tmp2snx1, unread) are the record's
+  variable. Eyink and Aluie ([LIT-tmp2snx1](../literature.d/LIT-tmp2snx1.md), unread) are the record's
   pending source on how local that transfer is.

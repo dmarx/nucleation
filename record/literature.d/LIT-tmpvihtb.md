@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-20 (NOTE-tmpg06if) in full; worth reading for the clearest working example of a Mori–Zwanzig memory term turned into a finite Markovian augmentation (Stinis's finite-memory closure: the resolved modes plus a relaxing subgrid-force field), tested against filtered DNS on Burgers and four Navier–Stokes flows. Read it knowing that the augmentation's error is not bounded, the memory length is fitted or preset, the zero-variance projection makes the formalism a deterministic trajectory closure, "finite support" is exponential decay, and the comparisons are plots without error norms. THEORY-tmpswb4h (Active) and THEORY-tmp4ou43 (Proposed) are filed from it.
+  read 2026-10-20 ([NOTE-tmpg06if](../notes.d/NOTE-tmpg06if.md)) in full; worth reading for the clearest working example of a Mori–Zwanzig memory term turned into a finite Markovian augmentation (Stinis's finite-memory closure: the resolved modes plus a relaxing subgrid-force field), tested against filtered DNS on Burgers and four Navier–Stokes flows. Read it knowing that the augmentation's error is not bounded, the memory length is fitted or preset, the zero-variance projection makes the formalism a deterministic trajectory closure, "finite support" is exponential decay, and the comparisons are plots without error norms. [THEORY-tmpswb4h](../theory.d/THEORY-tmpswb4h.md) (Active) and [THEORY-tmp4ou43](../theory.d/THEORY-tmp4ou43.md) (Proposed) are filed from it.
 title: 'Non-Markovian closure models for large eddy simulations using the Mori-Zwanzig formalism'
 version: 2
 history:
@@ -36,9 +36,9 @@ summary: >-
 
 Parish, E. J. & Duraisamy, K. (2017). Non-Markovian closure models for large eddy simulations using the Mori-Zwanzig formalism. *Physical Review Fluids* 2(1): 014604. doi:10.1103/PhysRevFluids.2.014604. Preprint: arXiv:1611.03311 (10 November 2016).
 
-Read in full on 2026-10-20 (NOTE-tmpg06if). The reading's findings for
-the record are THEORY-tmpswb4h, on what the closure is (a finite Markovian
-augmentation with uncontrolled error), and THEORY-tmp4ou43, on how well
+Read in full on 2026-10-20 ([NOTE-tmpg06if](../notes.d/NOTE-tmpg06if.md)). The reading's findings for
+the record are [THEORY-tmpswb4h](../theory.d/THEORY-tmpswb4h.md), on what the closure is (a finite Markovian
+augmentation with uncontrolled error), and [THEORY-tmp4ou43](../theory.d/THEORY-tmp4ou43.md), on how well
 it did against DNS.
 
 ## Why this is here
