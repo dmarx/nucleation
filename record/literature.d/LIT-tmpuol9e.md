@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-20 (NOTE-tmpnodc1) in full, from the published version in the University of Hertfordshire Research Archive; worth reading for the single-letter definition of successive refinement for the information bottleneck and its equivalent forms (Proposition 1: some pair of optimal encoders forms the Markov chain X → T₂ → T₁; Proposition 8: the coarse encoder is a Blackwell garbling of the fine one); for the convex-hull test (Proposition 4: with an injective fine decoder, refinement holds iff every decoder point q(X|t₁) lies in the convex hull of the q(X|t₂)), checkable by a linear programme; for proofs of refinability when X and Y are both binary, when Y is a function of X, and for jointly Gaussian variables (the last resting on Kline and Palmer's semigroup result); and for soft refinement measured by unique information. Read it knowing that the linear programme tests the particular optima a solver returns, so that a failed test certifies nothing unless the optima are globally optimal and unique, which the paper leaves as Conjecture 1 and calls its own figures "mere numerical proxies" (Appendix D); that its evidence that refinement fails is therefore numerical and uncertified, with no count of how many sampled distributions failed; that the unique information computed is an upper bound on the soft measure for the same reason; that the deep-learning reading of §4.2 is speculative; and that the commentary on Proposition 8 swaps its points (ii) and (iii).
+  read 2026-10-20 ([NOTE-tmpnodc1](../notes.d/NOTE-tmpnodc1.md)) in full, from the published version in the University of Hertfordshire Research Archive; worth reading for the single-letter definition of successive refinement for the information bottleneck and its equivalent forms (Proposition 1: some pair of optimal encoders forms the Markov chain X → T₂ → T₁; Proposition 8: the coarse encoder is a Blackwell garbling of the fine one); for the convex-hull test (Proposition 4: with an injective fine decoder, refinement holds iff every decoder point q(X|t₁) lies in the convex hull of the q(X|t₂)), checkable by a linear programme; for proofs of refinability when X and Y are both binary, when Y is a function of X, and for jointly Gaussian variables (the last resting on Kline and Palmer's semigroup result); and for soft refinement measured by unique information. Read it knowing that the linear programme tests the particular optima a solver returns, so that a failed test certifies nothing unless the optima are globally optimal and unique, which the paper leaves as Conjecture 1 and calls its own figures "mere numerical proxies" (Appendix D); that its evidence that refinement fails is therefore numerical and uncertified, with no count of how many sampled distributions failed; that the unique information computed is an upper bound on the soft measure for the same reason; that the deep-learning reading of §4.2 is speculative; and that the commentary on Proposition 8 swaps its points (ii) and (iii).
 title: 'Exact and Soft Successive Refinement of the Information Bottleneck'
 version: 2
 history:
@@ -40,14 +40,14 @@ summary: >-
 
 Charvin, H., Catenacci Volpi, N. & Polani, D. (2023). Exact and Soft Successive Refinement of the Information Bottleneck. *Entropy* 25(9): 1355. doi:10.3390/e25091355. Open access (CC BY), also PMC10528077.
 
-Read in full in NOTE-tmpnodc1, from the copy in the University of Hertfordshire Research Archive.
+Read in full in [NOTE-tmpnodc1](../notes.d/NOTE-tmpnodc1.md), from the copy in the University of Hertfordshire Research Archive.
 
 ## Why this is here
 
-Named by NOTE-tmpmscti as the direct reading for the stochastic half of
-QUESTION-tmpproc1: when are the information-bottleneck optima at two budgets
+Named by [NOTE-tmpmscti](../notes.d/NOTE-tmpmscti.md) as the direct reading for the stochastic half of
+[QUESTION-tmpproc1](../questions.d/QUESTION-tmpproc1.md): when are the information-bottleneck optima at two budgets
 nested, X → Z₂ → Z₁? The paper supplies the exact criterion and a test for it,
 and proves nesting for three special cases. Its own evidence that nesting
 fails in general is numerical and uncertified. The reading certified one
-failure on the record's four-state example (NOTE-tmpnodc1), and THEORY-tmpeu1u4
-and THEORY-tmpkusod hold what the paper proves.
+failure on the record's four-state example ([NOTE-tmpnodc1](../notes.d/NOTE-tmpnodc1.md)), and [THEORY-tmpeu1u4](../theory.d/THEORY-tmpeu1u4.md)
+and [THEORY-tmpkusod](../theory.d/THEORY-tmpkusod.md) hold what the paper proves.
