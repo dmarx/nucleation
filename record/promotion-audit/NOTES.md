@@ -1409,3 +1409,42 @@ history note. THEORY-277 is requeued on this basis.
   in record/promotion-audit, so after the filing PR merges, rename the
   decision file and every ledger reference to the permanent code
   (CLAIM-tmprruzz became CLAIM-384).
+
+## 2026-10-19 — batch 048 (wave 3, score-2 band)
+
+- The score-2 band went 4 of 5 (12 of 15 with batches 039 and 045). Keep
+  working through the remaining 34 by title.
+- "Approximately closed" or "to first order" in a theorem title: bound the
+  error, then check whether it vanishes uniformly or only in one regime,
+  and narrow the title to the regime (THEORY-190).
+- A promote_when that asks for a limit proof of a model's signatures,
+  where the record's own derivation is the approximation being set aside,
+  is a reading task, not a re-derivation (THEORY-188: the rigorous random-
+  hyperbolic-graph literature).
+- "Does not by itself favour X over Y" is settled by constructing a Y
+  model that meets the regularity (THEORY-166's classical model with order
+  events).
+- A mechanism verb in a measurement title ("interpret by inverting")
+  narrows to "matched" when the evidence is a fit of condition means with
+  no rival fitted (THEORY-172).
+
+## 2026-10-19 — batch 049 (wave 3, score-2 band)
+
+- The score-2 band went 4 of 5 here, 12 of 15 across batches 039, 045 and
+  049. Keep working through it by title.
+- "A symmetry implies a mirror" depends on the group containing an
+  involution with a nontrivial fixed subspace. Positive rescaling (ReLU's
+  λ > 0) contains none, so check the sign before carrying a sparsity
+  corollary (THEORY-213).
+- A weight-decay threshold for "every minimum on the symmetric subspace"
+  needs only a lower bound on the loss's Hessian, not smoothness: the even
+  function's gradient vanishes at zero, so f(z) − f(0) ≥ −(c/2)‖z‖²
+  (THEORY-213).
+- A "can" thesis about an information measure promotes by construction
+  once the title names the measure and the intervention distribution; its
+  interpretive reading moves to a QUESTION (THEORY-222).
+- Recomputing a quoted exponent from the paper's own equations is a cheap
+  check that can close the theorem route (THEORY-203's ν ≈ 1.89 against a
+  quoted 1.78).
+- Requeue THEORY-203 if THEORY-199 is promoted and the ν gap is explained
+  or a second parameter set is measured.

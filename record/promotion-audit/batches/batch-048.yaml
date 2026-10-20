@@ -1,0 +1,85 @@
+# record/promotion-audit/batches/batch-048.yaml
+batch: batch-048
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+selection: >-
+  The second five of the 44 unqueued entries triage-006 scores exactly 2
+  without the philosophical-title penalty (sorted codes): THEORY-166, -172,
+  -175, -188 and -190. Sorted by what each title asserts (batch 020) and
+  recorded as formal in fact or not, following batch 045.
+reviewed: [THEORY-166, THEORY-172, THEORY-175, THEORY-188, THEORY-190]
+outcomes:
+  narrow-and-promote: [THEORY-166, THEORY-172, THEORY-175, THEORY-190]
+  retain-proposed: [THEORY-188]
+yield: >-
+  4 of 5 found a promotion path, all narrowed. THEORY-166 and -172 are
+  measurements under ADR-047 v3 (THEORY-166's equality and negative clause
+  also checked by derivation and construction). THEORY-175 is a compound:
+  its invariance re-derived, its agreement one study read in full.
+  THEORY-190 is a theorem whose closure was proved at large separation and
+  shown to fail at short range, so its title is narrowed to that.
+  THEORY-188 needs a limit proof the record has no source for.
+band:
+  - code: THEORY-166
+    signals: [relation, derived]
+    title_asserts: measurement
+    formal_in_fact: false
+    outcome: narrow-and-promote
+  - code: THEORY-172
+    signals: [relation, derived]
+    title_asserts: measurement
+    formal_in_fact: false
+    outcome: narrow-and-promote
+  - code: THEORY-175
+    signals: [title, relation]
+    title_asserts: compound
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-188
+    signals: [relation, derived]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: retain-proposed
+  - code: THEORY-190
+    signals: [relation, derived]
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+band_verdict: >-
+  The score-2 band yields again: 4 of 5, so 12 of 15 across batches 039,
+  045 and 048. Three of these five are formal in fact. Every promotion
+  needed narrowing.
+finding: >-
+  Two theorem titles rest on a large-distance or first-order
+  approximation (THEORY-188, -190). Where the promote_when asks for the
+  approximation's error to be bounded, check whether the error vanishes
+  everywhere or only in a regime: THEORY-190's closure holds at large
+  separation and fails, by up to 86% in a worked example, between
+  neighbouring supernodes, where most links are.
+owner_questions: []
+promotion_prs:
+  - "#249: THEORY-166, THEORY-172 and THEORY-175 narrowed and promoted (branch claude/promote-theories-166-172-175)."
+  - "#255: THEORY-190 narrowed and promoted (branch claude/promote-theory-190)."
+notes_for_ledger:
+  - >-
+    The score-2 band went 4 of 5 (12 of 15 with batches 039 and 045).
+    Keep working through the remaining 34 by title.
+  - >-
+    "Approximately closed" or "to first order" in a theorem title: bound
+    the error, then check whether it vanishes uniformly or only in one
+    regime, and narrow the title to the regime (THEORY-190).
+  - >-
+    A promote_when that asks for a limit proof of a model's signatures,
+    where the record's own derivation is the approximation being set
+    aside, is a reading task, not a re-derivation (THEORY-188: the rigorous
+    random-hyperbolic-graph literature).
+  - >-
+    "Does not by itself favour X over Y" is settled by constructing a Y
+    model that meets the regularity (THEORY-166's classical model with
+    order events).
+  - >-
+    A mechanism verb in a measurement title ("interpret by inverting")
+    narrows to "matched" when the evidence is a fit of condition means
+    with no rival fitted (THEORY-172).

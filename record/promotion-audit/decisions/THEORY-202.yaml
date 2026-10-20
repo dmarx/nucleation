@@ -1,0 +1,64 @@
+# record/promotion-audit/decisions/THEORY-202.yaml
+id: THEORY-202
+batch: batch-049
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Both counterexamples re-derived here (ADR-047 v2), as Lin and Tegmark
+    (v1 Appendix A, v2 Appendix B) state them and NOTE-688 works them out.
+
+    (1) A matched partition function does not match the distribution. Let
+    Z = Σ_y e^{−H(y)}, take any non-constant K and Z̃ = Σ_y e^{−H(y)−K(y)},
+    and set H(y, y′) = H(y) + H(y′) + K(y) + ln Z̃. Then
+    Z_tot = Σ_{y,y′} e^{−H(y)−H(y′)−K(y)}/Z̃ = (Z̃/Z̃)·Z = Z, while the
+    marginal of y is e^{−H(y)−K(y)} Z /(Z̃ Z_tot) = e^{−H−K}/Z̃, which is not
+    e^{−H}/Z because K is not constant. If H carries a parameter β, the
+    identity Z_tot(β) = Z(β) holds for every β, so every derivative of
+    ln Z, and with it every thermodynamic observable, also matches.
+
+    (2) Kadanoff's trace condition does not select the coarse variables.
+    Under Mehta and Schwab's identification T(v, h) = −E(v, h) + H(v),
+    take E(v, h) = H(v) + H′(h) + ln Z′ with Z′ = Σ_h e^{−H′(h)} and H′
+    arbitrary. Then T = −H′(h) − ln Z′, so Tr_h e^{T} = 1 for every v;
+    the visible marginal is ∝ e^{−H(v)} Σ_h e^{−H′(h)} ∝ e^{−H(v)}, the
+    data exactly; and the coarse Hamiltonian
+    H_RG(h) = −ln Tr_v e^{T(v,h)−H(v)} = H′(h) + ln Z′ − ln Z is H′ up to a
+    constant, chosen freely and coupled to nothing in the system.
+
+    Since neither condition fixes which variables the coarse description
+    keeps, a coarse-graining that is to count as a renormalization of
+    particular variables needs a further stated condition. That step is
+    the contrapositive of (1)–(2), not a further result.
+  excluded: >-
+    "In variational renormalization" without qualification. Construction
+    (2) needs a general Boltzmann machine with visible–visible couplings;
+    it lies outside Kadanoff's kernel families, where each hidden spin
+    couples to a block through a kernel of fixed form. Whether the trace
+    condition suffices inside those families is what the promote_when
+    asks, and it is not settled here. The narrowed title states the two
+    conditions as criteria over general Boltzmann machines.
+evidence:
+  - "LIT-887, v1 Appendix A and v2 Appendix B, read in NOTE-688; LIT-882, Eqs. 18–22, read in NOTE-683."
+  - "This review's re-derivation (scope.accepted 1–2)."
+blockers: []
+notes: >-
+  The promote_when asks either for a treatment that names a further
+  condition or for a proof that, inside Kadanoff's kernel families, the
+  trace condition does force the relevant operators. Both are about the
+  restricted families, which the narrowed title no longer covers, so the
+  request moves to a new QUESTION, as for THEORY-266 and THEORY-294.
+  CLAIM-152 grounds on this entry for the clause "the variables a
+  renormalization keeps must be fixed by a stated target", which the
+  narrowed title keeps. Triage-006 scored it 2; it is formal in fact.
+unlocks: [CLAIM-152]
+next_action: >-
+  Promote in a PR. Retitle to the two conditions taken as criteria over
+  general Boltzmann machines, add the re-derivation as a dated note, and
+  move the promote_when to a new QUESTION about Kadanoff's kernel
+  families.

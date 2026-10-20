@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 136
+version: 138
 updated: '2026-10-19'
 record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
 procedure: record/decisions.d/ADR-047.md
@@ -41,8 +41,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 97
-  promotion_paths: 70
+  reviewed: 107
+  promotion_paths: 78
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -72,6 +72,13 @@ requeue:
   when: when wave 5 resumes
   why: 'batch-051: a universal control thesis supported only at the spinal level; review as interpretive
     synthesis'
+- code: THEORY-188
+  when: after the rigorous random-hyperbolic-graph literature is read
+  why: 'batch-048: promote_when asks for limit proofs; a reading task'
+- code: THEORY-203
+  when: if THEORY-199 is promoted and the nu gap (1.89 vs 1.78) is explained or a second parameter set
+    measured
+  why: 'batch-049: scaling argument plus one figure collapse'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2798,6 +2805,92 @@ candidates:
   decision: decisions/CLAIM-tmpjqb3e.yaml
   carried_out_in:
   - '#252'
+- code: THEORY-166
+  wave: 3
+  triage: batch-048
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-048
+  decision: decisions/THEORY-166.yaml
+  carried_out_in:
+  - '#249'
+- code: THEORY-172
+  wave: 3
+  triage: batch-048
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-048
+  decision: decisions/THEORY-172.yaml
+  carried_out_in:
+  - '#249'
+- code: THEORY-175
+  wave: 3
+  triage: batch-048
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-048
+  decision: decisions/THEORY-175.yaml
+  carried_out_in:
+  - '#249'
+- code: THEORY-188
+  wave: 3
+  triage: batch-048
+  state: decided
+  disposition: retain-proposed
+  batch: batch-048
+  decision: decisions/THEORY-188.yaml
+- code: THEORY-190
+  wave: 3
+  triage: batch-048
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-048
+  decision: decisions/THEORY-190.yaml
+  carried_out_in:
+  - '#255'
+- code: THEORY-202
+  wave: 3
+  triage: batch-049
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-049
+  decision: decisions/THEORY-202.yaml
+  carried_out_in:
+  - '#256'
+- code: THEORY-203
+  wave: 3
+  triage: batch-049
+  state: decided
+  disposition: retain-proposed
+  batch: batch-049
+  decision: decisions/THEORY-203.yaml
+- code: THEORY-213
+  wave: 3
+  triage: batch-049
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-049
+  decision: decisions/THEORY-213.yaml
+  carried_out_in:
+  - '#256'
+- code: THEORY-222
+  wave: 3
+  triage: batch-049
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-049
+  decision: decisions/THEORY-222.yaml
+  carried_out_in:
+  - '#256'
+- code: THEORY-230
+  wave: 3
+  triage: batch-049
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-049
+  decision: decisions/THEORY-230.yaml
+  carried_out_in:
+  - '#257'
 history:
 - version: 1
   date: '2026-10-19'
@@ -3318,4 +3411,19 @@ history:
 - version: 136
   date: '2026-10-20'
   note: 'CLAIM-tmprruzz renamed to its permanent code CLAIM-384 in the ledger; #248 merged.'
+- version: 137
+  date: '2026-10-19'
+  note: 'Batch 048 integrated: 4 of 5 found a promotion path, all narrowed. THEORY-166 and -172 are measurements
+    under ADR-047 v3 (THEORY-166''s equality and negative clause also checked by derivation and construction).
+    THEORY-175 is a compound: its invariance re-derived, its agreement one study read in full. THEORY-190
+    is a theorem whose closure was proved at large separation and shown to fail at short range, so its
+    title is narrowed to that. THEORY-188 needs a limit proof the record has no source for.; carried_out_in
+    #249, #255'
+- version: 138
+  date: '2026-10-19'
+  note: 'Batch 049 integrated: 4 of 5 found a promotion path, all narrowed. THEORY-202, -213 and -222
+    are formal in fact and re-derived here (ADR-047 v2). THEORY-230 pairs an identification identity with
+    a single-study measurement (ADR-047 v3). THEORY-203 rests on a mean-field scaling argument whose exponent
+    the record''s own recomputation does not reproduce.; carried_out_in #256, #257; THEORY-188 and -203
+    requeued'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

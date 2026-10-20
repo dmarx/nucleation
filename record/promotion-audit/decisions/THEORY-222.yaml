@@ -1,0 +1,56 @@
+# record/promotion-audit/decisions/THEORY-222.yaml
+id: THEORY-222
+batch: batch-049
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The possibility clause, as an exact statement about effective
+    information (EI) under the paper's definitions, re-derived here by
+    construction (ADR-047 v2).
+
+    EI of a known transition matrix is I(X; Y) with X set uniformly over
+    the states at that level. Micro: four states, three of which (call
+    them a, b, c) each move to one of a, b, c uniformly at random, while
+    the fourth, d, moves to itself. With X uniform over the four,
+    P(Y = a) = P(Y = b) = P(Y = c) = (3/4)(1/3) = 1/4 and P(Y = d) = 1/4,
+    so H(Y) = 2 bits; H(Y | X) = (3/4) log₂ 3 ≈ 1.189 bits; EI_micro ≈
+    0.811 bits. Macro: A = {a, b, c}, B = {d}, with A → A and B → B
+    deterministically; with X uniform over the two macro states,
+    EI_macro = 1 bit. So EI_macro − EI_micro ≈ 0.189 bits > 0, and the
+    EI-maximizing description of this system is the macro one. This is
+    the paper's "noise" case in miniature; its four examples give 0.40 to
+    2.92 bits, and its decomposition into an effectiveness gain and a size
+    loss, which the size term always makes negative, is arithmetic.
+  excluded: >-
+    "The scale at which a system's causal structure is most effective" as
+    anything more than "the scale at which EI is highest". That reading,
+    that the EI peak marks where causation happens, rests on imposing a
+    uniform intervention distribution separately at each level, which
+    weights micro states differently at the two levels. The paper adopts
+    this and does not test another. The narrowed title says EI, and says
+    under which interventions.
+evidence:
+  - "LIT-1038, Theory and Results, read in NOTE-726."
+  - "This review's construction (scope.accepted)."
+blockers: []
+notes: >-
+  The title is a "can" thesis made true by construction, not a rate, so
+  the owner's 2026-10-19 prevalence ruling does not apply. The
+  promote_when asks whether the macro advantage survives a fixed
+  intervention distribution used at both levels, and whether it agrees
+  with an independent interventionist test. That is the interpretive
+  question the narrowed title no longer claims, so it moves to a new
+  QUESTION that refines QUESTION-093. Dependents (THEORY-459, CASE-092,
+  CASE-101, QUESTION-115) cite the entry as an EI measure, which the
+  narrowed title keeps. Triage-006 scored it 2; it is formal in fact.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the EI statement under uniform
+  interventions imposed at each level, add the construction as a dated
+  note, and move the promote_when to a new QUESTION.
