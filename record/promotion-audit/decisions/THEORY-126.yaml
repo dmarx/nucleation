@@ -1,0 +1,43 @@
+id: THEORY-126
+batch: batch-062
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: false
+hand_label: argument
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand as an argument: a stipulated definition (collective
+    emotion is the synchronous convergence of individuals' affective
+    responses), causal claims about where convergence comes from (shared
+    appraisal, contagion, membership), and a hypothesis (the We-mode
+    form). None of these is a theorem. The classifier's theorem call
+    probably came from the conditional "when the appraisals rest on".
+    The one measured element is Barsade's intraclass correlation of
+    members' mood, .00 before and .24 after (26 groups, Study 2). The
+    title does not claim it.
+  excluded: >-
+    Everything else in the title. Shared appraisal and membership have
+    not been tested as routes, and the We-mode clause is a hypothesis that
+    von Scheve and Ismer say lacks evidence. A v3 narrowing to the
+    measured convergence would turn this THEORY into a restatement of
+    Barsade, whose contagion result is THEORY-123's. That would not be a
+    narrower version of this claim.
+evidence:
+  - "von Scheve & Ismer (2013), LIT-696, read in NOTE-552; Barsade (2002), LIT-706, read in NOTE-551; the THEORY body."
+blockers:
+  - "The promote_when asks for a study that holds one event fixed and varies the routes, plus a We-mode comparison. Neither is in the record."
+notes: >-
+  The promote_when is empirical, so wave 5 cannot meet it. It waits on a
+  reading or data task: a study of convergence among co-located people
+  without mutual awareness, or one comparing identified with
+  non-identified appraisers.
+unlocks: []
+next_action: >-
+  Retain Proposed. Requeue as a reading task if a study of the kind the
+  promote_when names is found. A wave-5 review would not move it.

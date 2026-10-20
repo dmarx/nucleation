@@ -1,0 +1,119 @@
+id: THEORY-209
+batch: batch-062
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: split
+confidence: high
+title_asserts: theorem
+formal_in_fact: partly
+hand_label: theorem in an idealized model, plus a one-network measurement
+triage007_class: theorem
+classifier_agrees: true
+scope:
+  accepted: >-
+    Sorted by hand: an exact result for an idealized model, plus a claim
+    that deep networks behave like it. The first part re-derives, and is
+    split off under ADR-040 as its own Active THEORY. That follows the
+    pattern of THEORY-770 from THEORY-673 and THEORY-741 from THEORY-110,
+    since a source states the result. The second part stays here.
+
+    The model (Kunin et al., LIT-1011, arXiv 2107.09133v4, §§4-6, Eqs.
+    2-8, 13-18 and App. G, read from the PDF in this review). SGD with
+    momentum, v_{k+1} = beta v_k - g(theta_k) - lambda theta_k and
+    theta_{k+1} = theta_k + eta v_{k+1}, is modelled by the modified
+    equation
+    (eta/2)(1 + beta) theta'' + (1 - beta) theta' + lambda theta
+    = -g + sqrt(eta/S) sqrt(Sigma) xi.
+    For linear regression, g = H theta - b. Under Assumption 3, Sigma is
+    constant and equal to sigma^2 H. In phase space this is the OU
+    process d(theta, v) = -A((theta, v) - (mu, 0)) dt + sqrt(2 D / kappa) dW,
+    with:
+    - kappa = S(1 - beta^2);
+    - A = [[0, -I], [a K, c I]] and D = diag(0, c Sigma), where K = H + lambda I,
+      a = 2/(eta(1 + beta)) and c = 2(1 - beta)/(eta(1 + beta)).
+
+    Re-derivation. H, K and Sigma commute, so in H's eigenbasis each mode
+    is a damped oscillator, q'' = -a k q - c q' + noise, with noise
+    intensity 2 c sigma^2 h / kappa. Its stationary moments are
+    <v^2> = sigma^2 h / kappa, <q^2> = <v^2>/(a k) and <q v> = 0. So the
+    stationary state is Gaussian:
+    - Cov(theta) = eta(1 + beta) sigma^2 H K^-1 / (2 kappa)
+      = eta sigma^2 H(H + lambda I)^-1 / (2 S (1 - beta));
+    - Cov(v) = sigma^2 H / (S(1 - beta^2)).
+    That is exp(-kappa Psi), where Psi is a quadratic form with curvature
+    (2/(eta(1 + beta))) Sigma^-1 K in theta (proportional to
+    H^-1(H + lambda I)/(eta(1 + beta)), as in Eq. 15) and Sigma^-1 in v.
+    For lambda -> 0 the theta covariance is
+    eta sigma^2 / (2 S (1 - beta)) times the projector on H's column
+    space: equal along every nonzero Hessian direction and zero on the
+    null space. A Gibbs distribution on the training loss would instead
+    spread as K^-1.
+
+    Each mode's damping ratio is c/(2 sqrt(a k)) =
+    (1 - beta)/sqrt(2 eta (1 + beta)(rho + lambda)). The expected squared
+    step is E||theta_{k+1} - theta_k||^2 = eta^2 tr Cov(v) =
+    eta^2 sigma^2 tr(H)/(S(1 - beta^2)), which is Eq. 18. The
+    stationary current is J = (v, -a K(theta - mu)) p_ss (Eq. 17), which
+    is nonzero, so the run circulates in each eigen-plane.
+
+    Recipe and checks (numpy and scipy.linalg; not committed). A 4-dimensional H with
+    eigenvalues (3, 1, 0.2, 0) in a random orthonormal basis, and
+    sigma^2 = 0.5.
+    - Continuous Lyapunov equation A B + B A^T = 2D/kappa, at three
+      settings of (eta, beta, S, lambda): (0.01, 0.9, 32, 1e-4),
+      (0.05, 0, 8, 1e-3) and (0.002, 0.5, 128, 0). It reproduces
+      kappa^-1 U^-1 to within 1e-13 relative (5e-5 at lambda = 0, where
+      the null mode is singular), with zero theta-v cross-covariance.
+    - Exact stationary covariance of the discrete SGD-momentum recursion,
+      by the discrete Lyapunov equation. It agrees with the continuous
+      model to O(eta h): 0.8% at eta = 0.01 and up to 8% at
+      eta = 0.05, h = 3. The step size agrees to 0.6% and 6%.
+
+    The split-off title states the model result. THEORY-209 keeps the
+    claim that a converged deep network is in this state, with its
+    promote_when, and extends the new THEORY.
+  excluded: >-
+    Excluded from the split-off THEORY:
+    - Deep networks. Sigma proportional to H is derived for a noisy linear
+      teacher, not measured, and the end-of-training Hessian has negative
+      eigenvalues. Isotropy is shown in one 2-D projection of one
+      ResNet-18, and the speed match is read from plots with one fitted
+      constant. All of this stays with THEORY-209's promote_when.
+    - "Broken detailed balance" in any sense stronger than a nonzero
+      current. The paper defines detailed balance as J_ss = 0 (§6). Under
+      Assumption 3 the process is reversible under time reversal with the
+      velocity flipped: the stationary autocovariance C(t) = e^{-At}B
+      equals eps C(t)^T eps with eps = diag(I, -I), to 3e-16 (scipy expm at
+      t = 0.1, 1, 5, 20, with eta = 0.01, beta = 0.9, S = 32,
+      lambda = 1e-3 and H eigenvalues 2, 0.7, 0.1). Each eigenmode is an equilibrium oscillator at
+      its own temperature, and the current is the reversible
+      (Hamiltonian) part. Irreversibility appears only when Sigma fails
+      to commute with H: the same check gives 4e-3 for a random Sigma.
+      The THEORY body's "nonequilibrium stationary state" overstates the
+      model, and gets a dated note.
+    - The anomalous-diffusion exponents and the Hessian's null space. The
+      latter is THEORY-211's subject.
+evidence:
+  - "Kunin et al. (2021), LIT-1011, arXiv 2107.09133v4, §§4-7 and App. G, read from the PDF in this review; NOTE-711 for §§1-9 and Apps. A-C, H."
+  - "This review's per-mode derivation, its Lyapunov and discrete-recursion checks, and the time-reversal check (scope.accepted, scope.excluded)."
+blockers:
+  - "For THEORY-209 itself: the deep-network test its promote_when names (noise covariance tracking the Hessian outside one convnet; isotropy across many eigendirections, bulk included)."
+notes: >-
+  Hand label and classifier agree on "theorem", but only the
+  idealized-model half is formal. This is a split, not a narrowing,
+  because THEORY-209's subject is converged deep networks, which a
+  measurement could still settle. Narrowing it to the model would change
+  its subject. It also falls under the open owner question on splitting
+  textbook or toy-model theorems (THEORY-110, THEORY-673). The model here
+  is a toy, but it is the paper's own result, not a textbook one. The
+  anthology-candidate flag stays on THEORY-209; ADR-048 does not ask for
+  a check.
+unlocks: []
+next_action: >-
+  Split in a PR. File a new Active THEORY for the linear-regression
+  stationary state, on LIT-1011, with the derivation and the detailed-
+  balance caution. Bump THEORY-209 to version 2: add extends to the new
+  THEORY and a dated note correcting "broken detailed balance" to "nonzero
+  reversible current under Assumption 3". It stays Proposed.
+promotion_pr: '#281'

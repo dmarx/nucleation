@@ -1,0 +1,87 @@
+# record/promotion-audit/batches/batch-062.yaml
+batch: batch-062
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+selection: >-
+  Triage-007 theorem_route entries 11-15, in the route's order:
+  THEORY-529, -126, -204, -209 and -243. Before review, each was sorted by
+  hand by what its title asserts (batch 020), and the hand label was
+  recorded against triage-007's class.
+reviewed: [THEORY-529, THEORY-126, THEORY-204, THEORY-209, THEORY-243]
+outcomes:
+  narrow-and-promote: [THEORY-204, THEORY-243]
+  split: [THEORY-209]
+  retain-proposed: [THEORY-529, THEORY-126]
+yield: >-
+  3 of 5 have a promotion path.
+  - THEORY-204 (a scaling-law measurement explained by a conditional
+    derivation) is narrowed to the measured match plus the re-derived
+    exponent min(δ, γ/(2β)).
+  - THEORY-243 (an existence theorem shown by a constructed network) is
+    narrowed to that network.
+  - THEORY-209 is split: its exact linear-regression result becomes a new
+    Active THEORY, and THEORY-209 keeps the deep-network claim.
+  THEORY-529 and THEORY-126 are arguments that the classifier called
+  theorems.
+promotion_prs:
+  - "#276: THEORY-204 and THEORY-243 narrowed and promoted; QUESTION-tmpcvdv0 and QUESTION-tmpszev1 (branch claude/promote-theories-204-243)."
+  - "#281: THEORY-209 split, its linear-regression result filed as THEORY-tmpopk8o, Active (branch claude/split-theory-209)."
+band:
+  - {code: THEORY-529, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-126, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-204, hand_label: measurement with a conditional derivation, triage007: theorem, agrees: false, outcome: narrow-and-promote}
+  - {code: THEORY-209, hand_label: idealized-model theorem plus one-network measurement, triage007: theorem, agrees: true, outcome: split}
+  - {code: THEORY-243, hand_label: existence theorem by construction, triage007: theorem, agrees: true, outcome: narrow-and-promote}
+notes_for_ledger:
+  - >-
+    Hand against classifier: 2 of 5 agree. That is below triage-007's
+    fitted theorem precision of 0.82, as expected at margins 2-3.
+    - The two arguments were called theorems on a conditional clause
+      ("when the appraisals rest on") and on a textbook-theorem clause
+      ("cannot increase along a processing chain").
+    - The scaling law was called a theorem on "because ... provided".
+    - Even so, the misclassified scaling law promoted by the measurement
+      route. Route membership is a worse predictor of yield than the hand
+      sort.
+  - >-
+    Scaling-law and training-dynamics titles split two ways.
+    - THEORY-204's derivation rests on assumed scaling forms, so it is a
+      measurement with a conditional derivation. ADR-047 v3 narrows it to
+      the measured match and moves the causal "because" to a QUESTION.
+    - THEORY-209's model result is exact, and its subject is deep
+      networks, so it is split rather than narrowed (ADR-040).
+    Rule of thumb: when the THEORY's subject is the real system, split
+    off the model result; when the subject is the measured system, narrow.
+  - >-
+    A paper's "broken detailed balance" can mean only a nonzero current.
+    Kunin et al. define it as J ≠ 0. Under their own Assumption 3 the
+    linear-regression state is time-reversible once velocities are
+    flipped: each Hessian mode is an equilibrium oscillator at its own
+    temperature. Check the definition before carrying "nonequilibrium"
+    into a title. A one-line numerical check suffices: C(t) = εC(t)ᵀε.
+  - >-
+    Check a paper's text claim against its own table. LIT-888's text says
+    the fits overlap "for up to 10 of the first 12 points"; its table
+    shows all eight TinyStories windows overlapping. Its TinyStories
+    intervals also drift downward with fit length, which neither the text
+    nor the THEORY mentioned.
+  - >-
+    Both arXiv PDFs (2107.09133v4, 2602.07488v3) fetched cleanly with
+    pdftotext -layout. Equation fractions come out split across lines, so
+    reconstruct constants by re-deriving them, not by reading the text.
+  - >-
+    THEORY-529 and THEORY-126 wait on a measure or a study, not on a
+    wave-5 review. Track them off the review queue.
+owner_questions:
+  - >-
+    THEORY-204, THEORY-243 and the THEORY-209 split fall under the open
+    questions on conditional or toy-model theorems whose wider
+    promote_when moves to a QUESTION (THEORY-185, -133, -419, -527) and on
+    splitting toy-model results (THEORY-110, -673). They were handled by
+    the existing practice and flagged here, not decided.
+  - >-
+    THEORY-529's only formal clause is the data-processing inequality, a
+    textbook theorem. Whether to split such a clause off is the open
+    textbook-split question. It was not split.
