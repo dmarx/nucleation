@@ -29,7 +29,7 @@ answered_by:
 either member" ([CLAIM-164](../claims.d/CLAIM-164.md)), but it is found by grouping members into a
 block whose edge is weakly coupled. [THEORY-257](../theory.d/THEORY-257.md)'s candidates are "linear
 subspaces mixing all units, not partitions". A5, after Shpak et al.
-([LIT-tmp6vpg9](../literature.d/LIT-tmp6vpg9.md), read in NOTE-tmpl2r9w): aggregation, a map whose dynamics close, is not
+([LIT-tmp6vpg9](../literature.d/LIT-tmp6vpg9.md), read in [NOTE-tmpl2r9w](../notes.d/NOTE-tmpl2r9w.md)): aggregation, a map whose dynamics close, is not
 decomposition, a split into weakly coupled subsets, and "systems that are
 both aggregable and decomposable are a special case."
 
