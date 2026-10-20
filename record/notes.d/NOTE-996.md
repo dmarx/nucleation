@@ -40,7 +40,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-531 THEORY-546 THEORY-447 THEORY-476 — Proposed; the accounts of Williams's two tellings, psychological continuity, what matters and stages, which this survey bears on, not leaned on -->
 <!-- inactive-ok-file: LIT-448 — Unavailable; Olson's animalism, the bodily view the paper cites, not leaned on -->
-<!-- inactive-ok-file: THEORY-766 THEORY-769 THEORY-767 THEORY-768 THEORY-458 — Proposed; the bodily-self THEORYs, named to say this work does not bear on them -->
+<!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 THEORY-458 — Proposed; the bodily-self THEORYs, named to say this work does not bear on them -->
 
 # NOTE-996: Nichols & Bruno — Intuitions about personal identity
 

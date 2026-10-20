@@ -33,7 +33,7 @@ summary: >-
   "phenomenological sense" of where we reside, is assumed and not tested.
 ---
 <!-- inactive-ok-file: THEORY-768 — Proposed; the account whose self-location dimension this reading is set against, not leaned on -->
-<!-- inactive-ok-file: THEORY-766 THEORY-769 THEORY-767 THEORY-458 — Proposed; named to say this reading does not bear on them -->
+<!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-458 — Proposed; named to say this reading does not bear on them -->
 
 # NOTE-995: Starmans & Bloom — Windows to the soul
 

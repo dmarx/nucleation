@@ -1,30 +1,24 @@
 ---
 number: 123
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6iizp
-promote_when: >-
-  For the clause on mood: a second experiment, with a manipulated source
-  of displayed mood, run in groups that differ from Barsade's in the way
-  that most threatens the claim. That means ongoing teams rather than ad
-  hoc student groups, several confederates rather than one actor, and mood
-  measured during the interaction rather than recalled afterwards. The
-  clause holds if members' mood again moves with the source's valence on
-  a measure independent of self-report. For the clause on group process:
-  a design in which process outcomes (cooperation, conflict) are compared
-  across the manipulated conditions, or contagion is manipulated and the
-  process measured, rather than regressing process on measured contagion.
-  It is refuted if the manipulated conditions spread mood but leave
-  cooperation and conflict unchanged, which would mean the correlations
-  were carried by a third factor, such as members' own reaction to the
-  task. For the clause on awareness: a designed test of whether members
-  attribute their judgments of the group and of themselves to mood they
-  caught. The published version of the article (ASQ 47(4)) should also be
-  read, since every number here is from the 2001 manuscript and may have
-  changed. More correlational field studies of mood convergence cannot
-  settle the causal clauses.
-title: "In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves"
-version: 1
+title: "In ad hoc groups of students negotiating a bonus, a confederate's randomly assigned pleasant or unpleasant mood spread to the other members, by their self-reports and by blind coders, and the more pleasant mood a group caught, the more cooperative and the less conflicted coders rated it, a correlation with measured contagion rather than a manipulated effect; members' moods also converged without a confederate, and members did not credit their mood for how effective they judged themselves; the numbers are from the 2001 manuscript"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted from Proposed to Active, carrying out the
+    promotion audit's decision for THEORY-123 (batch 075, ADR-047 v3
+    and v4): one article read in full in NOTE-551, from the 2001
+    manuscript. The title now names the setting measured, ad hoc
+    student groups in a negotiation, and keeps the spread as
+    experimental and the process link as a correlation with measured
+    contagion. The generalisation to work groups and Barsade's causal
+    reading of the process link leave the title and are filed, with
+    the promote_when unchanged, as the new Proposed THEORY-tmpkn062,
+    which extends this one.
 tags:
 - emotion-and-affect
 - social-science
@@ -45,17 +39,21 @@ summary: >-
   conflict (−.49). Members related how pleasantly they behaved to others'
   conduct but showed "absolutely no awareness" of mood bearing on their
   judged effectiveness. Valence and energy hypotheses failed or were
-  marginal. Proposed: one experiment, one actor, retrospective mood,
+  marginal. Limits: one experiment, one actor, retrospective mood,
   correlational process effects.
+  Promoted 2026-10-20 on what the manuscript measured (ADR-047 v3); the
+  wider claim is THEORY-tmpkn062.
 extended_by:
 - THEORY-126
+- THEORY-tmpkn062
 answers:
 - QUESTION-053
 ---
+<!-- inactive-ok-file: THEORY-tmpkn062 — Proposed; the wider claim this narrowing dropped, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-126 — Proposed; filed in the same batch, the convergence account that widens this one, named for that -->
 <!-- inactive-ok-file: THEORY-055 THEORY-045 — Proposed; named in What this does not say for how contagion stands to appraisal and bodily feedback, nothing here rests on them -->
 
-# THEORY-123: In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves
+# THEORY-123: In ad hoc groups of students negotiating a bonus, a confederate's randomly assigned pleasant or unpleasant mood spread to the other members, by their self-reports and by blind coders, and the more pleasant mood a group caught, the more cooperative and the less conflicted coders rated it, a correlation with measured contagion rather than a manipulated effect; members' moods also converged without a confederate, and members did not credit their mood for how effective they judged themselves; the numbers are from the 2001 manuscript
 
 ## Source
 
@@ -166,3 +164,16 @@ opposite of the prediction (pp. 27–28).
   about level of analysis, not a claim that the group bears a mood. It is
   the empirical floor any account of a group's own emotional state must
   stand on, and it does not reach that question.
+
+## Narrowed and promoted (2026-10-20)
+
+The promotion audit (batch 075) narrowed this entry to the setting Barsade
+measured and promoted it under [ADR-047](../decisions.d/ADR-047.md) v3: one article read in full,
+[NOTE-551](../notes.d/NOTE-551.md), with the title claiming no more than it reports measuring. The
+read was of the August 2001 manuscript, so the title says the numbers are
+the manuscript's; the published ASQ article has not been read.
+
+What the narrowing dropped went to [THEORY-tmpkn062](THEORY-tmpkn062.md) under [ADR-047](../decisions.d/ADR-047.md) v4: that
+in work groups generally a member's mood spreads, and that pleasant
+contagion improves cooperation and reduces conflict. It carries this entry's
+former promote_when, which is the test of that wider claim.

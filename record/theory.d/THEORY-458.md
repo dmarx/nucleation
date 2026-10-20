@@ -50,7 +50,7 @@ summary: >-
   embodied or reflective, the analysis concerns.
 ---
 <!-- inactive-ok-file: THEORY-684 THEORY-691 — Proposed; filed in the same batch and named as a rival, a parallel or a contrast, not leaned on -->
-<!-- inactive-ok-file: THEORY-766 THEORY-768 — Proposed; the rubber hand finding and minimal-selfhood account named in the addition, not leaned on -->
+<!-- inactive-ok-file: THEORY-768 — Proposed; the rubber hand finding and minimal-selfhood account named in the addition, not leaned on -->
 <!-- inactive-ok-file: THEORY-023 THEORY-044 THEORY-064 THEORY-300 THEORY-322 — Proposed; named as a neighbouring account, nothing here rests on its being settled -->
 
 # THEORY-458: Within the minimal self, the sense that a movement or a thought is mine and the sense that I am its source are distinct and come apart, as in involuntary movement and thought insertion; on Frith's comparator model the sense of agency depends on a forward model that precedes action and ownership on sensory feedback, so failed forward monitoring would explain thought insertion and, by the same mechanism, why first-person reference ordinarily cannot misidentify its subject

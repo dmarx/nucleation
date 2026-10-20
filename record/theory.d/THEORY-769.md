@@ -51,7 +51,6 @@ summary: >-
   evidence and that it is hard to falsify with standard fMRI. It does not
   say why such a model is experienced as a self.
 ---
-<!-- inactive-ok-file: THEORY-766 — Proposed; the corrected rubber hand finding, named -->
 <!-- inactive-ok-file: THEORY-765 THEORY-767 THEORY-768 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-064 THEORY-322 — Proposed; accounts this one is compared with, not leaned on -->
 

@@ -34,7 +34,7 @@ summary: >-
   concept is "polyeidic": several framing-sensitive dimensions, of which
   mental/bodily is one.
 ---
-<!-- inactive-ok-file: THEORY-766 THEORY-769 THEORY-767 THEORY-768 THEORY-458 THEORY-045 — Proposed; named to say this reading does not bear on them, not leaned on -->
+<!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 THEORY-458 THEORY-045 — Proposed; named to say this reading does not bear on them, not leaned on -->
 <!-- inactive-ok-file: QUESTION-059 — Deferred; named to say this reading does not answer it -->
 
 # NOTE-994: Borg, Harrison, Stazicker & Salomons — Is the folk concept of pain polyeidic?
