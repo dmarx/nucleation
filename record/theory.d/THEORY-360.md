@@ -1,21 +1,24 @@
 ---
 number: 360
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpzye1b
-promote_when: >-
-  An experiment in Tetris or a task like it in which the cost or availability of
-  the physical action is varied (a delay on the rotate key, or rotation disabled
-  until a piece is fully in view) and the internal computation it is said to
-  replace is measured directly, as decision time, placement errors or a
-  working-memory probe. It promotes the account if extra and early rotations fall
-  as the action gets dearer and placement time or error rises where they are
-  blocked; it refutes the epistemic reading if blocking them costs nothing. More
-  keystroke counts, or another comparison of physical with mental rotation time,
-  cannot settle it: those re-establish that the moves happen and are fast, which
-  is already held.
-title: "Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured"
-version: 1
+title: 'In Kirsh and Maglio''s Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-360 (batch 074, ADR-047 v3 and v4): one study read in full in
+    NOTE-878. The title keeps only what the paper gives with numbers in its
+    text or Table 1. Over-rotation rests on Figure 6 alone, with no numbers
+    printed, and the rise of the wall check with drop height on Figure 15;
+    both leave the title. So does the authors' reading of the moves as
+    epistemic action, which the old title reported. Under ADR-047 v4 the
+    measured-but-figure-only clauses and that reading are filed together as
+    a new Proposed THEORY, THEORY-tmpkxsq7, which extends this one and takes
+    the promote_when (the action-cost experiment) unchanged.
 tags:
 - cognition
 - embodied-cognition
@@ -35,9 +38,15 @@ summary: >-
   three-player pilot comparing physical with mental rotation, not measured in
   performance. The trade is offloading at the moment of use, once, with nothing
   stored; the paper sets itself against caching.
+  Promoted 2026-10-20 on the timing and Table 1 alone (ADR-047 v3); the
+  epistemic-action reading is held as THEORY-tmpkxsq7.
+extended_by:
+- THEORY-tmpkxsq7
 ---
+<!-- inactive-ok-file: THEORY-355 — Proposed; the maintained-arrangement case from the same author, named as a neighbour, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpkxsq7 — Proposed; the epistemic-action reading of these moves, filed when the narrowing dropped it -->
 
-# THEORY-360: Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured
+# THEORY-360: In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16
 
 ## Source
 
@@ -116,3 +125,12 @@ performing".
 - [THEORY-355](THEORY-355.md) holds the maintained-arrangement case from the same author.
 - [THEORY-334](THEORY-334.md): Ballard et al. defer and re-read the world; Kirsh and Maglio act
   on it to make the computation cheaper. In both nothing computed is stored.
+
+## Narrowed and promoted (2026-10-20)
+
+Batch 074 of the promotion audit narrowed the title to the timing and the
+Table 1 comparison and promoted it under [ADR-047](../decisions.d/ADR-047.md) v3. Over-rotation and the
+height-dependence of the wall check are read off figures with no printed
+numbers, and the saving in computation is argued, not measured, so they
+are held with the authors' epistemic-action reading as [THEORY-tmpkxsq7](THEORY-tmpkxsq7.md),
+Proposed until an experiment varies what the moves cost.
