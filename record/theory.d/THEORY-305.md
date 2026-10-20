@@ -1,22 +1,20 @@
 ---
 number: 305
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7rs2e
-promote_when: >-
-  Two results together. First, an independent check of the identity, for
-  instance in Van Assel et al.'s Lemma on which Step 2 rests, or a
-  re-derivation that writes out R(Z). Second, a settlement of the clause
-  about minimizers: a derivation that the minimizer of
-  tr(Zᵀ L(π) Z) + log R(Z) on the sphere does, or does not, span the
-  bottom eigenvectors of L(π) under stated conditions, or a finite graph
-  on which InfoNCE's exact minimizer lies outside every such span. It is
-  refuted in its second clause by a proof that the minimizers are
-  Laplacian eigenvectors in general. What cannot settle it: embeddings of
-  trained networks, or free vectors, that look clustered, as in the
-  paper's App. C, since clustering is consistent with both readings.
 title: "SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Promoted, carrying out the promotion audit's decision for THEORY-305
+    (batch 043, ADR-047 v2). The identity is re-derived with R(Z) written
+    out, and a finite-graph counterexample shows the exact minimizer
+    outside every bottom-eigenvector span, both in the dated note below;
+    together they meet the promote_when. The counterexample is numerical.
+    Title unchanged.
 tags:
 - representation-learning
 - probabilistic-modeling
@@ -80,8 +78,9 @@ nothing about minimizers.
 
 ## What this does not say
 
-- **That InfoNCE's embedding is a set of Laplacian eigenvectors.** No
-  minimizer is characterized. The record's population-optimum account,
+- **That InfoNCE's embedding is a set of Laplacian eigenvectors.** The
+  paper characterizes no minimizer, and on small graphs the minimizer is
+  near such an embedding but not one (note of 2026-10-19). The record's population-optimum account,
   [THEORY-001](THEORY-001.md), says InfoNCE's critic fits the log of the density ratio,
   and that exp and log do not commute with rank-d truncation. That points
   away from an eigenvector reading, though neither paper proves it.
@@ -112,3 +111,42 @@ nothing about minimizers.
 - **[THEORY-009](THEORY-009.md).** The CLIP case is a non-symmetric pair structure. It
   does not meet [THEORY-009](THEORY-009.md)'s promote_when, since no eigen- or
   singular-function analysis is given.
+
+## Note of 2026-10-19: the identity written out, and a minimizer that is not an eigenvector embedding
+
+The promotion audit (batch 043, [ADR-047](../decisions.d/ADR-047.md) v2) checked both clauses.
+
+**The identity, written out.** π is row-stochastic and symmetric
+([NOTE-846](../notes.d/NOTE-846.md)), so it is doubly stochastic, with π_ii = 0; L = I − π. With
+query i, positive j drawn from π_i·, and every other object a negative,
+the expected InfoNCE loss is
+
+Σ_ij π_ij [‖Z_i − Z_j‖²/2τ + log Σ_(l≠i) k(Z_i − Z_l)].
+
+For symmetric π, Σ_ij π_ij ‖Z_i − Z_j‖² = 2 tr(Zᵀ(D − π)Z), and
+Σ_j π_ij = 1. So the loss is exactly
+
+tr(Zᵀ L Z)/τ + Σ_i log Σ_(l≠i) k(Z_i − Z_l)
+
+at every Z. The second term is log R(Z), which confirms the
+reconstruction of R in Step 2 above without Lemma 2.5. The 1/τ is the
+factor the paper's statement drops. The identity does not need the
+sphere; the sphere is what makes the Gaussian kernel SimCLR's cosine
+softmax. A numerical check on 200 random Z agreed to 10⁻¹⁴.
+
+**The minimizer.** On a finite graph the exact minimizer lies outside
+every span of bottom Laplacian eigenvectors. Take n = 8, d = 2 (the unit
+circle) and τ = 0.5. For π, draw an 8 × 8 matrix of exponential weights
+(numpy's default_rng with seeds 1, 2, 3 or 11), symmetrize it, zero its
+diagonal, and apply 3,000 sweeps of row normalization and
+symmetrization. Minimize over the angles by BFGS from 300 uniform starts.
+For the seed-2 graph every start reached the same minimum, and for the
+other three graphs 58–99% did; the gradient norm was below 10⁻⁶. On
+every graph, the minimizer's columns lay 6–15% (relative norm) outside
+span(1, v₂) and outside span(1, v₂, v₃), and about 90% outside
+span(v₂, v₃). A span without the constant vector cannot be reached on
+the sphere at all: for span(v₂, v₃), the equations that put every row on
+the unit circle have no solution (least-squares residual 1.24). So the
+minimizer is near an eigenvector embedding but is not one, which is what
+the second clause says. The counterexample is numerical: global
+optimality rests on the restarts, not on a certificate.

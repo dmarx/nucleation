@@ -71,7 +71,6 @@ extended_by:
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-305 — Proposed; Tan et al.'s objective identity, cited under Connections as a different statement -->
 
 # THEORY-001: On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio
 
