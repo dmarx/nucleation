@@ -1,0 +1,66 @@
+# record/promotion-audit/decisions/THEORY-123.yaml
+id: THEORY-123
+batch: batch-075
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement (experimental spread, correlational process link, attribution items) stated for work groups in general
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3. One article, Barsade (2002), read in full in NOTE-551 from
+    the August 2001 revise-and-resubmit manuscript deposited in Penn's
+    repository (both studies, General Discussion, Tables 1-8). The narrowed
+    title keeps what the manuscript reports measuring, in the setting
+    measured: in Study 1 (94 undergraduates, 29 ad hoc groups, a 30-minute
+    leaderless negotiation) a confederate randomly assigned to show pleasant
+    or unpleasant mood moved members' mood with the confederate's valence,
+    by self-report (+.41 against -.26, chi-squared(1) = 9.97) and by blind
+    video-coders (2.75 against 2.33, chi-squared(1) = 10.30); the more
+    pleasant mood a group caught, the more cooperative and the less
+    conflicted coders rated it (r = .44 and -.42 at group level, N = 26),
+    which is a correlation with measured contagion, not a comparison of the
+    manipulated conditions; in Study 2 (113 MBA students, 26 groups, no
+    confederate) the intraclass correlation of members' mood rose from .00
+    to .24; and members related their pleasantness to others' conduct but
+    showed no awareness of their mood bearing on how effective they judged
+    themselves (attribution items, p. 37). Every number is the manuscript's.
+  excluded: >-
+    "In small work groups" generalises past the setting: ad hoc, competitive
+    student groups with one male actor as the source in all four
+    conditions, Time 2 mood recalled afterwards. The narrowed title names
+    the setting. Barsade's abstract also states the process link as an
+    effect ("this contagion improved cooperation, decreased conflict"),
+    which the old title already declined.
+  dropped_clause_routes:
+    - clause: "In small work groups a member's displayed mood spreads to the others, and pleasant contagion improves cooperation and reduces conflict (Barsade's general and causal reading)"
+      kind: 1
+      route: >-
+        A new Proposed THEORY in the promotion PR, sourced to LIT-706,
+        extending THEORY-123 and inheriting its promote_when unchanged
+        (which tests exactly that: ongoing teams, several confederates,
+        process compared across manipulated conditions). Barsade asserts
+        it in the abstract and General Discussion; the record holds as
+        shown only the narrowed title.
+  moved_to_question: >-
+    Nothing: the old promote_when goes with the wide claim to its new
+    Proposed THEORY, which is the record's test of it.
+evidence:
+  - "LIT-706, read in full in NOTE-551 (manuscript pp. 26-37, Tables 3b and 5); the numbers kept were re-checked against NOTE-551's results and THEORY-123's body."
+contradictions_in_record: none found
+blockers: []
+notes: >-
+  Confidence is medium. The read was of the 2001 manuscript, not the
+  published ASQ article (doi:10.2307/3094912), whose numbers may differ;
+  the narrowed title says the numbers are the manuscript's. Whether a
+  pre-acceptance manuscript read in full meets v3's "one study read in
+  full" is raised as an owner question; this review took it as meeting it,
+  because every analysis the title keeps is in the manuscript's tables and
+  the published article is not held.
+unlocks: []
+next_action: "Promotion PR (batch 075)."

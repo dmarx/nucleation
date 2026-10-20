@@ -1,0 +1,63 @@
+# record/promotion-audit/decisions/THEORY-766.yaml
+id: THEORY-766
+batch: batch-075
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement (report differences between conditions; a drift dissociation)
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3, met by several studies each read in full (the title already
+    rests on ten): the synchronous-minus-asynchronous difference in
+    referred-touch and ownership reports (Botvinick and Cohen 1998; Longo et
+    al. 2008, 131 participants within subjects; Kalckert and Ehrsson 2012;
+    Abdulkarim and Ehrsson 2016, d 0.58-1.76; Lush et al.'s 353
+    participants as reanalysed by Ehrsson et al., significant in every
+    hypnotisability quartile); the ownership item weaker and less reliable
+    (0.7 against 1.9 and 1.2 on a -3 to +3 scale; minimal agreement only in
+    the top 31% of hypnotisability, Lush and Seth; about 4% of resampled
+    n = 20 studies below the median, Roseboom and Lush); and drift coming
+    apart from the reports (Rohde et al.: about 6 cm with vision alone and
+    with interrupted asynchrony; Abdulkarim and Ehrsson: pointing followed
+    an 8 cm hidden-hand shift by about 5-6 cm with ownership unchanged).
+  excluded: >-
+    Nothing is removed, but "raises reports" can be read as saying the
+    stimulation produces the difference. The measured comparison bundles
+    stimulation with participants' expectations, which the standard
+    controls do not equalise (Lush 2020: d = 1.40 and 1.05 in unstimulated
+    observers). The narrowed title appends that the controls do not
+    equalise expectations, so whether stimulation or expectation produces
+    the difference is open.
+  dropped_clause_routes:
+    - clause: "The synchrony difference in reports is perceptual, produced by the multisensory stimulation rather than by expectation (Ehrsson et al. 2022, NOTE-997 C8)"
+      kind: 1
+      route: >-
+        A new Proposed THEORY in the promotion PR, sourced to LIT-1264 with
+        LIT-1268, extending THEORY-766 and inheriting its promote_when
+        unchanged (expectations matched in stimulated participants; the
+        synchrony difference must survive). THEORY-765, which asserted the
+        stimulation reading with drift, is Rejected; THEORY-769 is a
+        different (Bayesian) thesis; nothing Proposed carried this one.
+  moved_to_question: >-
+    Nothing: the promote_when goes with the perceptual claim to its new
+    Proposed THEORY.
+evidence:
+  - "The ten LITs in THEORY-766's source list, each read in full (NOTE-1006, -1004, -993, -992, -1009, -1005, -990, -997, -1003, -1001); NOTE-997's claims table re-read for Ehrsson et al.'s C8."
+contradictions_in_record: >-
+  None against the narrowed title. THEORY-765 (Rejected) is the account
+  this one corrected.
+blockers: []
+notes: >-
+  Filed earlier the same day by another session. Its promote_when tests
+  only the causal reading the narrowed title now disclaims, so v3 holds:
+  the title claims no more than the studies measured. Both drift studies
+  are small (10 and 18) and the drift null has no equivalence test, which
+  the body already says; confidence is medium for that.
+unlocks: []
+next_action: "Promotion PR (batch 075)."
