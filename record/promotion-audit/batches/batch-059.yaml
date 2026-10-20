@@ -14,7 +14,7 @@ yield: >-
   A second text of Propp narrows THEORY-167's promotable scope to 45
   tales. THEORY-485's blockers are narrowed to the closed Ney works.
 promotion_prs:
-  - "PENDING_PR: Chalmers and McQueen filed and read in part; dated notes on NOTE-112 and NOTE-615; no promotions (branch claude/reading-chalmers-mcqueen)."
+  - "#274: Chalmers and McQueen filed and read in part; dated notes on NOTE-112 and NOTE-615; no promotions (branch claude/reading-chalmers-mcqueen)."
 notes_for_ledger:
   - >-
     What could be fetched, and from where. arXiv: Chalmers and McQueen
