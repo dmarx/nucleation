@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/THEORY-333.yaml
+id: THEORY-333
+batch: batch-073
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: promote
+confidence: medium
+title_asserts: measurement
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3. One study, Idreos, Kersten and Manegold (CIDR 2007, LIT-1090),
+    read in full in NOTE-892 (all sections, Algorithms 1-2, Figures 1-5
+    checked against rendered page images). The title already claims no more
+    than that study measured, with its own hedge. Each clause has a number in
+    the running text: first cracking select 0.38 s against 0.27 s for a scan
+    (+41%, "about 40%") and about 3 s extra for sort-then-search; later
+    selects 10 to 100 microseconds; sorting overtakes cracking in cumulative
+    cost "at around 10^5 queries in our current implementation", all on 10^7
+    distinct integers in memory under uniformly random ranges. "That only
+    the queried ranges get organized is not tested" is kept: every workload
+    is uniformly random.
+  excluded: none; the title stands as written.
+  moved_to_question: >-
+    The promote_when, unchanged, to a new QUESTION: an independent
+    measurement in another implementation or paper, of cracking against a
+    scan and an upfront sort on an in-memory column under random ranges,
+    with per-query and cumulative cost over a long query sequence.
+dropped_clauses: []
+evidence:
+  - "LIT-1090, read in full in NOTE-892; the figures and every number in the title checked there against page images."
+contradictions_in_record: none found. THEORY-332 prices the build-or-drop decision this paper leaves open; it does not contradict the measurements.
+blockers: []
+notes: >-
+  Confidence is medium: one system (MonetDB 5.0alpha), one machine, one
+  synthetic workload, no variance reported. Those limits are in the title
+  ("measured in memory on 10^7 integers under uniformly random ranges") or
+  under "What this does not say".

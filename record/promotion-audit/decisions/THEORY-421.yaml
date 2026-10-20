@@ -1,0 +1,70 @@
+# record/promotion-audit/decisions/THEORY-421.yaml
+id: THEORY-421
+batch: batch-073
+reviewed: '2026-10-20'
+reviewed_revision: f17a3e8bd449a2fc6d0630ddada69e18c14b3bb6
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: thesis plus measurement plus a formal remark
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: partly
+scope:
+  accepted: >-
+    ADR-047 v3. One study, Yang, Zhou, Ying, Chen and King (ICML 2023,
+    LIT-871), read in full in NOTE-669. NOTE-669 read Figure 2's inset
+    statistics and Table 9 from extracted text; this review fetched
+    arXiv:2306.09118v1 again and checked them against the PDF text: Figure 2
+    insets ROOT/MIN = 3.1/2.0 (TREE-L, link prediction), 1.8/1.2 (TREE-L,
+    node classification), 3.3/2.1 (TREE-H, LP), 2.7/2.4 (TREE-H, NC); Table 9
+    HGCN pairwise level-order accuracy 72.5% and 68.9% at dimension 16,
+    75.3% and 73.7% at 256, on 5,000 random node pairs. The text says the
+    same for LP ("the ROOTs of TREE-L and TREE-H are 3.1 and 3.3,
+    respectively, while the MINs are 2.0 and 2.1"). The measured scope is
+    HGCN on two synthetic 3-ary trees of eight levels.
+  re_derivation: >-
+    The clause "a loss built on pairwise distances leaves the origin
+    arbitrary" is the record's own (NOTE-669, Key insight); re-derived here.
+    (1) Hyperbolic space H^n has a transitive isometry group G: for any
+    points p, q there is g in G with g(p) = q, and d(g x, g y) = d(x, y)
+    for all x, y. (2) Let L(Z) depend on an embedding Z = (z_1..z_N) only
+    through the pairwise distances d(z_i, z_j), as the Fermi-Dirac link
+    likelihood and a softmax over distances do. Then L(gZ) = L(Z) for every
+    g in G. (3) So if Z* minimises L, so does gZ* for every g, and by (1)
+    g can carry any node, the root included, to the origin or to any
+    distance from it. (4) Hence L does not fix where the origin lies
+    relative to the embedding: the root's distance from the origin is set
+    by parametrization and training dynamics, not by the loss. The node-
+    classification loss in HGCN maps to the tangent space at the origin and
+    is not pairwise-only, so (4) covers the link-prediction runs; the title
+    keeps the conditional form, which is exactly what is proved.
+  excluded: >-
+    The lead clause "In hyperbolic graph embeddings trained on
+    link-prediction or classification losses, distance from the origin is
+    only a partial reading of hierarchical level" generalizes past the
+    measurement: Figure 2 and Table 9 are HGCN only, and "other hyperbolic
+    models have demonstrated comparable results" is asserted without data
+    (NOTE-669, C1). The narrowed title names HGCN and the two trees.
+  moved_to_question: none; the promote_when goes with the wider claim to the new Proposed THEORY.
+dropped_clauses:
+  - clause: "hyperbolic graph embeddings in general (beyond HGCN) read hierarchical level only partly from distance to the origin"
+    route: >-
+      new Proposed THEORY (ADR-047 v4 kind 1). Yang et al. assert it ("other
+      hyperbolic models have demonstrated comparable results"). It extends
+      the narrowed entry, keeps LIT-871 as source and inherits the old
+      promote_when unchanged (several architectures and seeds, levels
+      decoupled from degree, before and after recentring).
+evidence:
+  - "LIT-871, read in full in NOTE-669; Figure 2 insets and Table 9 re-checked against arXiv:2306.09118v1 by this review."
+contradictions_in_record: none found. THEORY-196 (near-isometric tree embedding exists) is consistent; this says task training realises it only partly.
+blockers: []
+notes: >-
+  Proposed narrowed title: In HGCN embeddings of two synthetic 3-ary trees
+  trained for link prediction or node classification, distance from the
+  origin is only a partial reading of hierarchical level: the root is not
+  innermost (distance 1.8-3.3 against a minimum of 1.2-2.4) and level order
+  is recovered for 69-75% of node pairs; a loss built only on pairwise
+  distances leaves the origin arbitrary. Confidence medium: one run per
+  setting shown, no variance.
