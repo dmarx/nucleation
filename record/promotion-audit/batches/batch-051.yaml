@@ -20,7 +20,9 @@ yield: >-
   is narrowed to finite support. THEORY-272 is a single-study measurement
   under ADR-047 v3, narrowed to Hopfield's simulations. THEORY-302 is an
   argument.
-promotion_prs: []
+promotion_prs:
+  - "#248: THEORY-281 (narrowed), THEORY-282 and THEORY-284 promoted; QUESTION-tmpkpb79 (branch claude/promote-theories-281-282-284)."
+  - "#251: THEORY-272 narrowed and promoted; QUESTION-tmpymmv6 (branch claude/promote-theory-272)."
 band:
   - {code: THEORY-272, title_asserts: measurement, formal_in_fact: false, outcome: narrow-and-promote}
   - {code: THEORY-281, title_asserts: theorem, formal_in_fact: true, outcome: narrow-and-promote}
