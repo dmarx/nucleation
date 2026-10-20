@@ -14,7 +14,7 @@ history:
     that minimal witnesses are invariant for SPJU queries, the alternative
     the promote_when named. The rewrite-system clauses rest on rules the
     paper does not give, and "only for traceable queries" claims more than
-    the paper shows. Both leave the title for QUESTION-tmpo255i.
+    the paper shows. Both leave the title for QUESTION-225.
 tags:
 - databases
 - logic
@@ -139,4 +139,4 @@ queries.
 The paper's rewrite-system results (Lemma 1, Proposition 2) are not
 re-derived, since the rules are not given. Whether traceability is
 necessary as well as sufficient is also left open. Both are
-[QUESTION-tmpo255i](../questions.d/QUESTION-tmpo255i.md).
+[QUESTION-225](../questions.d/QUESTION-225.md).

@@ -1,10 +1,13 @@
 ---
+number: 225
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpo255i
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Are why-provenance and, for traceable queries, where-provenance preserved by Buneman, Khanna and Tan's rewrite system, and is traceability necessary for where-provenance to be preserved?"
@@ -32,7 +35,7 @@ summary: >-
 
 <!-- unresolved-ok-file: QUESTION-000 — the placeholder a new document replaces -->
 
-# QUESTION-tmpo255i: Are why-provenance and, for traceable queries, where-provenance preserved by Buneman, Khanna and Tan's rewrite system, and is traceability necessary for where-provenance to be preserved?
+# QUESTION-225: Are why-provenance and, for traceable queries, where-provenance preserved by Buneman, Khanna and Tan's rewrite system, and is traceability necessary for where-provenance to be preserved?
 
 ## Why it is a question
 

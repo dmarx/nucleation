@@ -15,7 +15,7 @@ history:
     next to the build cost. A construction shows it does not, for any
     positive bound on step size: the ratio approaches 3 + 2f. The title
     now states that lower bound. The promote_when asked for an upper
-    bound, which moves to QUESTION-tmp7o5ig.
+    bound, which moves to QUESTION-224.
 tags:
 - databases
 - operations-research
@@ -134,4 +134,4 @@ with steps at most fB found 3.998, 3.400, 3.199 and 3.093 at f = 0.5, 0.2,
 0.1 and 0.05. That is 3 + 2f, approached from below. The note's earlier 2.4
 at f = 0.1 came from random workloads, which do not find this pattern.
 Whether some constant bounds the rule from above on such workloads is
-[QUESTION-tmp7o5ig](../questions.d/QUESTION-tmp7o5ig.md).
+[QUESTION-224](../questions.d/QUESTION-224.md).

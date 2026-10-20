@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**491 documents cited without acknowledgement.** Not listed: 9905 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**488 documents cited without acknowledgement.** Not listed: 9905 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -378,10 +378,10 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 - [`record/theory.d/THEORY-339.md:120`](../../record/theory.d/THEORY-339.md)
 - [`record/theory.d/THEORY-355.md:123`](../../record/theory.d/THEORY-355.md)
 - [`record/theory.d/THEORY-356.md:111`](../../record/theory.d/THEORY-356.md)
-- [`record/theory.d/THEORY-362.md:89`](../../record/theory.d/THEORY-362.md)
+- [`record/theory.d/THEORY-362.md:93`](../../record/theory.d/THEORY-362.md)
 - [`record/theory.d/THEORY-364.md:101`](../../record/theory.d/THEORY-364.md)
-- [`record/theory.d/THEORY-367.md:110`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-367.md:111`](../../record/theory.d/THEORY-367.md)
+- [`record/theory.d/THEORY-367.md:112`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:102`](../../record/theory.d/THEORY-373.md)
 - [`record/theory.d/THEORY-376.md:88`](../../record/theory.d/THEORY-376.md)
 - [`record/theory.d/THEORY-377.md:104`](../../record/theory.d/THEORY-377.md)
@@ -682,7 +682,7 @@ Under a deadline, search can establish presence by finding one item but absence 
 - [`record/notes.d/NOTE-920.md:86`](../../record/notes.d/NOTE-920.md)
 - [`record/theory.d/THEORY-341.md:113`](../../record/theory.d/THEORY-341.md)
 - [`record/theory.d/THEORY-358.md:113`](../../record/theory.d/THEORY-358.md)
-- [`record/theory.d/THEORY-367.md:112`](../../record/theory.d/THEORY-367.md)
+- [`record/theory.d/THEORY-367.md:113`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:105`](../../record/theory.d/THEORY-373.md)
 
 ### [CLAIM-339](../../record/claims.d/CLAIM-339.md) — Proposed
@@ -910,28 +910,6 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 - [`record/notes.d/NOTE-294.md:140`](../../record/notes.d/NOTE-294.md)
 - [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
 - [`record/notes.d/NOTE-299.md:128`](../../record/notes.d/NOTE-299.md)
-
-### [THEORY-332](../../record/theory.d/THEORY-332.md) — Proposed
-
-For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown
-
-15 citations in 14 files await a look.
-
-- [`record/literature.d/LIT-1105.md:18`](../../record/literature.d/LIT-1105.md)
-- [`record/notes.d/NOTE-906.md:193`](../../record/notes.d/NOTE-906.md)
-- [`record/notes.d/NOTE-908.md:188`](../../record/notes.d/NOTE-908.md)
-- [`record/notes.d/NOTE-911.md:191`](../../record/notes.d/NOTE-911.md)
-- [`record/notes.d/NOTE-912.md:162`](../../record/notes.d/NOTE-912.md)
-- [`record/notes.d/NOTE-912.md:164`](../../record/notes.d/NOTE-912.md)
-- [`record/notes.d/NOTE-922.md:169`](../../record/notes.d/NOTE-922.md)
-- [`record/questions.d/QUESTION-114.md:326`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-333.md:108`](../../record/theory.d/THEORY-333.md)
-- [`record/theory.d/THEORY-350.md:104`](../../record/theory.d/THEORY-350.md)
-- [`record/theory.d/THEORY-377.md:101`](../../record/theory.d/THEORY-377.md)
-- [`record/theory.d/THEORY-378.md:114`](../../record/theory.d/THEORY-378.md)
-- [`record/theory.d/THEORY-382.md:97`](../../record/theory.d/THEORY-382.md)
-- [`record/theory.d/THEORY-383.md:92`](../../record/theory.d/THEORY-383.md)
-- [`record/theory.d/THEORY-386.md:88`](../../record/theory.d/THEORY-386.md)
 
 ### [THEORY-497](../../record/theory.d/THEORY-497.md) — Proposed
 
@@ -2921,7 +2899,7 @@ Given views with conjunctive definitions, deciding that they answer a conjunctiv
 4 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:337`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:338`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
 - [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
 
@@ -3236,7 +3214,7 @@ The difficulty of optimum index selection
 
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
-- [`record/questions.d/QUESTION-114.md:176`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:177`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-1167](../../record/literature.d/LIT-1167.md) — Unavailable
 
@@ -3538,26 +3516,6 @@ Selective accessibility, the account that comparing a target with a plausible an
 - [`record/theory.d/THEORY-337.md:72`](../../record/theory.d/THEORY-337.md)
 - [`record/theory.d/THEORY-337.md:93`](../../record/theory.d/THEORY-337.md)
 
-### [THEORY-362](../../record/theory.d/THEORY-362.md) — Proposed
-
-For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations is stated to suffice to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, and a tuple leaves when its count reaches zero; the proof is not in the paper, and counting is set aside for recursive views because counts can be infinite
-
-3 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-1114.md:15`](../../record/literature.d/LIT-1114.md)
-- [`record/questions.d/QUESTION-105.md:73`](../../record/questions.d/QUESTION-105.md)
-- [`record/theory.d/THEORY-387.md:90`](../../record/theory.d/THEORY-387.md)
-
-### [THEORY-367](../../record/theory.d/THEORY-367.md) — Proposed
-
-For positive queries over a tree data model that covers SPJU relational queries, why-provenance taken as the witness basis, one set of matched source facts per derivation, is preserved by query rewriting and its minimal witnesses are the same for equivalent queries with equality conditions, while where-provenance, the source location a value was copied from, can differ between equivalent queries and is preserved by rewriting only for traceable queries
-
-3 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-1104.md:17`](../../record/literature.d/LIT-1104.md)
-- [`record/questions.d/QUESTION-105.md:79`](../../record/questions.d/QUESTION-105.md)
-- [`record/theory.d/THEORY-373.md:107`](../../record/theory.d/THEORY-373.md)
-
 ### [THEORY-368](../../record/theory.d/THEORY-368.md) — Proposed
 
 On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms
@@ -3575,7 +3533,7 @@ In one simulator evicting whole query-shaped cache regions, no replacement value
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:342`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-376.md:92`](../../record/theory.d/THEORY-376.md)
 
 ### [THEORY-376](../../record/theory.d/THEORY-376.md) — Proposed
@@ -3585,7 +3543,7 @@ In a simulated single-client, read-only database answering selection queries on 
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:342`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-375.md:88`](../../record/theory.d/THEORY-375.md)
 
 ### [THEORY-377](../../record/theory.d/THEORY-377.md) — Proposed
@@ -3971,7 +3929,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:319`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:320`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-378.md:125`](../../record/theory.d/THEORY-378.md)
 
 ### [LIT-1108](../../record/literature.d/LIT-1108.md) — Unavailable
@@ -3981,7 +3939,7 @@ Combining Fuzzy Information from Multiple Systems
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
-- [`record/questions.d/QUESTION-114.md:354`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:355`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -4692,7 +4650,7 @@ For datalog on relations annotated from a commutative ω-continuous semiring, wi
 2 citations in 2 files await a look.
 
 - [`record/literature.d/LIT-1110.md:15`](../../record/literature.d/LIT-1110.md)
-- [`record/questions.d/QUESTION-105.md:78`](../../record/questions.d/QUESTION-105.md)
+- [`record/questions.d/QUESTION-105.md:79`](../../record/questions.d/QUESTION-105.md)
 
 ### [THEORY-383](../../record/theory.d/THEORY-383.md) — Proposed
 
@@ -4700,7 +4658,7 @@ On one Apache and Informix server answering cheap indexed selections, a page who
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:328`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:329`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-382.md:102`](../../record/theory.d/THEORY-382.md)
 
 ### [THEORY-414](../../record/theory.d/THEORY-414.md) — Proposed
@@ -5822,7 +5780,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 6 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 8 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)

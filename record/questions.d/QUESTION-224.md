@@ -1,10 +1,13 @@
 ---
+number: 224
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmp7o5ig
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Is Bruno and Chaudhuri's single-index online tuner within some constant, such as 3 + 2f, of the offline optimum on every workload whose per-statement savings and losses are at most a fraction f of the build cost?"
@@ -32,7 +35,7 @@ summary: >-
 
 <!-- unresolved-ok-file: QUESTION-000 — the placeholder a new document replaces -->
 
-# QUESTION-tmp7o5ig: Is Bruno and Chaudhuri's single-index online tuner within some constant, such as 3 + 2f, of the offline optimum on every workload whose per-statement savings and losses are at most a fraction f of the build cost?
+# QUESTION-224: Is Bruno and Chaudhuri's single-index online tuner within some constant, such as 3 + 2f, of the offline optimum on every workload whose per-statement savings and losses are at most a fraction f of the build cost?
 
 ## Why it is a question
 

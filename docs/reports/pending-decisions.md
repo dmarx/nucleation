@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**741 document(s) awaiting a decision.**
+**738 document(s) awaiting a decision.**
 
 ## LITs
 
-94 of the 741.
+94 of the 738.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -110,7 +110,7 @@
 
 ## THEORYs
 
-416 of the 741.
+413 of the 738.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -314,12 +314,9 @@
 | 2026-10-14 | Proposed | [THEORY-329](../../record/theory.d/THEORY-329.md) | 4 | 0 | On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown |
 | 2026-10-14 | Proposed | [THEORY-302](../../record/theory.d/THEORY-302.md) | 3 | 0 | Coordinated action is controlled by tuning relatively autonomous coordinative structures, not by commanding muscles: a higher level specifies an equivalence class of acceptable states and sets the parameters of self-regulating units, leaving the realized details to them |
 | 2026-10-14 | Proposed | [THEORY-303](../../record/theory.d/THEORY-303.md) | 3 | 0 | A measurement scenario whose compatibility hypergraph is acyclic admits no contextuality: locally consistent context distributions always glue to a global one, so a contextual scenario needs an induced cycle of length at least four |
-| 2026-10-15 | Proposed | [THEORY-332](../../record/theory.d/THEORY-332.md) | 15 | 15 | For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown |
 | 2026-10-15 | Proposed | [THEORY-374](../../record/theory.d/THEORY-374.md) | 7 | 4 | Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries |
 | 2026-10-15 | Proposed | [THEORY-335](../../record/theory.d/THEORY-335.md) | 5 | 3 | Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming |
 | 2026-10-15 | Proposed | [THEORY-331](../../record/theory.d/THEORY-331.md) | 3 | 3 | Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved |
-| 2026-10-15 | Proposed | [THEORY-362](../../record/theory.d/THEORY-362.md) | 3 | 3 | For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations is stated to suffice to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, and a tuple leaves when its count reaches zero; the proof is not in the paper, and counting is set aside for recursive views because counts can be infinite |
-| 2026-10-15 | Proposed | [THEORY-367](../../record/theory.d/THEORY-367.md) | 3 | 3 | For positive queries over a tree data model that covers SPJU relational queries, why-provenance taken as the witness basis, one set of matched source facts per derivation, is preserved by query rewriting and its minimal witnesses are the same for equivalent queries with equality conditions, while where-provenance, the source location a value was copied from, can differ between equivalent queries and is preserved by rewriting only for traceable queries |
 | 2026-10-15 | Proposed | [THEORY-368](../../record/theory.d/THEORY-368.md) | 3 | 3 | On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms |
 | 2026-10-15 | Proposed | [THEORY-375](../../record/theory.d/THEORY-375.md) | 3 | 3 | In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved |
 | 2026-10-15 | Proposed | [THEORY-376](../../record/theory.d/THEORY-376.md) | 3 | 3 | In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged |
@@ -533,7 +530,7 @@
 
 ## ADRs
 
-2 of the 741.
+2 of the 738.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -542,7 +539,7 @@
 
 ## QUESTIONs
 
-9 of the 741.
+9 of the 738.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -558,7 +555,7 @@
 
 ## CLAIMs
 
-215 of the 741.
+215 of the 738.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -780,7 +777,7 @@
 
 ## CASEs
 
-1 of the 741.
+1 of the 738.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -788,7 +785,7 @@
 
 ## TERMs
 
-2 of the 741.
+2 of the 738.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -797,7 +794,7 @@
 
 ## ARGs
 
-2 of the 741.
+2 of the 738.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
