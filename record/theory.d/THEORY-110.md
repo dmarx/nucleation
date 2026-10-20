@@ -24,7 +24,7 @@ history:
   date: '2026-10-19'
   note: >-
     Lin et al.'s toy-model theorems split off at the owner's direction
-    into THEORY-tmpettm0, filed Active, carrying out the promotion audit's
+    into THEORY-741, filed Active, carrying out the promotion audit's
     decision for THEORY-110 (batch 044, ADR-040). The audit re-derived
     Theorems 6, 11 and 18 and found Theorem 10's probability bound not
     derived. This THEORY keeps the conjecture about trained networks,
@@ -39,7 +39,7 @@ source:
 extends:
 - THEORY-112
 - THEORY-109
-- THEORY-tmpettm0
+- THEORY-741
 summary: >-
   Sonthalia et al. (2024), [LIT-659](../literature.d/LIT-659.md), conjecture that below the width at
   which SGD solutions become convex modulo permutation they are still a star
@@ -153,7 +153,7 @@ VGG16s and ResNets on MNIST and CIFAR-10. Barriers through the centre are
 ## Note of 2026-10-19: the toy-model theorems, split off
 
 The promotion audit (batch 044) re-derived Lin et al.'s Theorems 6, 11 and
-18 and filed them as [THEORY-tmpettm0](THEORY-tmpettm0.md), which this account extends. Two
+18 and filed them as [THEORY-741](THEORY-741.md), which this account extends. Two
 corrections to what is quoted above. Theorem 10's probability bound is
 stated by the paper but not derived: its proof does not define the
 uniform distribution it draws minima from, and its arithmetic does not
