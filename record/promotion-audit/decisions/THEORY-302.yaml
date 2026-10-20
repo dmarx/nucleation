@@ -1,36 +1,34 @@
 # record/promotion-audit/decisions/THEORY-302.yaml
 id: THEORY-302
-batch: batch-051
+batch: batch-058
 reviewed: '2026-10-20'
-reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+reviewed_revision: 583807252166df4f301809572ea8a22c49e874e1
 current_status: Proposed
 disposition: retain-proposed
 confidence: high
 title_asserts: argument
 formal_in_fact: false
+supersedes: batch-051
 scope:
   accepted: >-
-    Turvey's account (LIT-904, read in NOTE-826) is an argument. It works
-    from Bernstein's degrees-of-freedom problem and Greene's equivalence
-    classes. Its support is spinal: reflex-probe studies show the
-    segmental apparatus retuned in the tens of milliseconds before a
-    voluntary movement, and Fel'dman's joint goes to a preset equilibrium.
+    Reviewed as interpretive synthesis (wave 5). git log shows no change to
+    the entry, its promote_when, its source (LIT-904, NOTE-826) or any rival
+    since batch 051. Turvey's argument works from Bernstein's
+    degrees-of-freedom problem; the support for tuning over commanding is
+    spinal (reflex-probe retuning before voluntary movement, Fel'dman's
+    preset equilibrium).
   excluded: >-
-    The title is universal ("coordinated action is controlled by tuning
-    ..., not by commanding muscles"). Its extension above the single joint,
-    and to tuning set directly by vision, is by the body's own account the
-    author's speculation. The promote_when asks for exactly that evidence,
-    and the record holds none.
+    The title is universal over coordinated action. Above the single joint
+    and for environment-set pretuning, the body concedes the extension is
+    the author's speculation, and the promote_when asks for exactly that
+    evidence. An argument cannot supply it, and narrowing to the spinal
+    level leaves a measurement report that is not the thesis.
 evidence:
-  - "LIT-904, read in NOTE-826."
+  - "LIT-904, read in NOTE-826; batch 051's review."
 blockers:
-  - "No measurement above the single joint, and none of environment-related pretuning."
+  - "A reading of reflex-probe or pretuning studies above the single joint."
 notes: >-
-  Sorted as an argument (batch 020), so ADR-047 v3 does not apply; one
-  study cannot carry a universal control thesis. Narrowing to the spinal
-  evidence would leave a measurement report that is not the thesis.
-  Recommend wave 5. Triage-006 scored it 2; it is not formal.
+  Batch 041's lesson held: wave 5 changed nothing. The entry now waits on a
+  reading task, not a review.
 unlocks: []
-next_action: >-
-  Requeue to wave 5 as interpretive synthesis. It moves only with a
-  reading of reflex-probe or pretuning studies above the single joint.
+next_action: "Reading task: reflex-probe or pretuning evidence above the single joint."

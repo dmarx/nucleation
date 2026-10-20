@@ -8,7 +8,7 @@ disposition: split
 confidence: high
 scope:
   accepted: >-
-    The spectral and NT-Logistic minimizers (THEORY-tmpsuto2), Active.
+    The spectral and NT-Logistic minimizers (THEORY-719), Active.
   excluded: >-
     The InfoNCE/NT-Xent minimizer.
 evidence:

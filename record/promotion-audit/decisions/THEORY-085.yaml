@@ -1,46 +1,41 @@
 # record/promotion-audit/decisions/THEORY-085.yaml
 id: THEORY-085
-batch: batch-047
+batch: batch-057
+supersedes: batch-047
 reviewed: '2026-10-20'
-reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
 current_status: Proposed
-disposition: retain-proposed
+disposition: needs-correction
+carried_out: '#262'
 confidence: high
 title_asserts: measurement plus the record's own algebra
 formal_in_fact: false
 scope:
   accepted: >-
-    The algebraic clause checks, with class weights pi_c and H-bar =
-    sum_c pi_c H_c, Delta-bar = sum_c pi_c Delta_c (K-FAC's factors are
-    averages over all examples, so these are the right weights):
-    sum_c pi_c (H_c - H-bar) (x) (Delta_c - Delta-bar)
-    = sum_c pi_c H_c (x) Delta_c - H-bar (x) Delta-bar - H-bar (x)
-    Delta-bar + H-bar (x) Delta-bar = CFAC - KFAC. The body's unweighted
-    "Ave_c" is right for balanced classes.
+    Batch 047's check of the identity stands and is now filed with its
+    proof as CLAIM-391 (Active, demonstrated, ADR-032): for any class
+    weights pi_c and matrices H_c, Delta_c, sum_c pi_c H_c (x) Delta_c -
+    H-bar (x) Delta-bar = sum_c pi_c (H_c - H-bar) (x) (Delta_c -
+    Delta-bar). Numerical check (numpy, seed 0, C = 4, Dirichlet weights,
+    random PSD 3x3 and 2x2 factors): agreement to 6e-15; the difference
+    has eigenvalues of both signs (-5.26, 5.51).
   excluded: >-
-    The title's central clause, that class-driven outliers pair each class's
-    feature mean with its own error mean (g_c ~ h_c (x) delta_c), is
-    inferred by Papyan from CFAC's better spectral alignment and not
-    measured (NOTE-474, C3); the alignment itself is judged by eye on one
-    MLP (Figures 11-12). The promote_when asks for exactly the two
-    measurements that would settle it. "K-FAC misplaces them" rests on the
-    same spectra.
+    The mechanism (class gradient means approximately h_c (x) delta_c, so
+    K-FAC's cross-class pairings misplace the outliers) is unchanged:
+    inferred from spectra judged by eye on one MLP; the promote_when's two
+    measurements are still missing.
 evidence:
-  - "Papyan (2020), LIT-613, read in NOTE-474: Eqs. 7.3-7.8, Definitions 7.1-7.2, Figures 11-12."
-  - "Martens & Grosse (2015), LIT-622, read in NOTE-486."
-  - "This review's check of the CFAC - KFAC identity, with class weights (scope.accepted)."
+  - "Papyan (2020), LIT-613, read in NOTE-474; Martens & Grosse (2015), LIT-622, read in NOTE-486."
+  - "CLAIM-391, filed in #262 with the proof."
 blockers:
-  - "The mechanism g_c ~ h_c (x) delta_c is inferred, not measured; ADR-047 v3 needs a measurement the text reports, and the alignment is by eye from figures."
+  - "The mechanism is inferred, not measured (ADR-047 v3)."
 notes: >-
-  Sorted as a measurement, since the title's mechanism is an empirical
-  claim about trained classifiers. Triage-006 scored it 2 on the algebra;
-  the algebra is the filer's line ("The filer adds a line of algebra"), the
-  record's own synthesis, so under ADR-032 it belongs in a demonstrated
-  CLAIM, the THEORY-080 and THEORY-019 pattern. It is a one-line identity;
-  file it with the next follow-up batch rather than in this one.
+  Supersedes batch 047's retain-proposed, which deferred the CLAIM to this
+  follow-up. The correction drops the title's last clause ("and differs
+  from the class-wise product by the between-class covariance of its two
+  factors"), which stated the record's own identity, and points the
+  summary and body to the claim (version 2).
 unlocks: []
 next_action: >-
-  Requeue for a follow-up: file the weighted identity CFAC - KFAC = sum_c
-  pi_c (H_c - H-bar) (x) (Delta_c - Delta-bar) as a demonstrated CLAIM
-  (ADR-032) and point THEORY-085 to it. The mechanism waits on the
-  promote_when's measurements.
+  None until the promote_when's measurements exist; requeue only if a
+  source measuring g_c against h_c (x) delta_c is filed.

@@ -1,0 +1,64 @@
+# record/promotion-audit/batches/batch-056.yaml
+batch: batch-056
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+selection: >-
+  The last four of the 44 unqueued entries triage-006 scores exactly 2
+  without the philosophical-title penalty (sorted codes, positions 41-44):
+  THEORY-671, -673, -675 and -714. Each is sorted by what its title
+  asserts (batch 020), not by the flag.
+reviewed: [THEORY-671, THEORY-673, THEORY-675, THEORY-714]
+outcomes:
+  narrow-and-promote: [THEORY-714]
+  retain-proposed: [THEORY-671, THEORY-673, THEORY-675]
+yield: >-
+  1 of 4 has a promotion path. THEORY-714 is a theorem whose title is
+  false on one clause: I_ccs fails subset equality, though Ince's proof
+  says it holds, because the proof cancels the co-information terms and
+  never checks the sign condition. Corrected and promoted. THEORY-671 is
+  an empirical principle with no derivation beyond the linear regime;
+  THEORY-673 is an argument whose first clause (the Price equation)
+  re-derives; THEORY-675 is a measurement whose barriers are plots only.
+promotion_prs:
+  - "#263: THEORY-714 corrected and promoted; QUESTION-tmpttlk1; dated corrections to NOTE-968 and LIT-1201 (branch claude/promote-theory-714)."
+band:
+  - {code: THEORY-671, title_asserts: principle, formal_in_fact: false, outcome: retain-proposed}
+  - {code: THEORY-673, title_asserts: argument, formal_in_fact: partly, outcome: retain-proposed}
+  - {code: THEORY-675, title_asserts: measurement, formal_in_fact: false, outcome: retain-proposed}
+  - {code: THEORY-714, title_asserts: theorem, formal_in_fact: true, outcome: narrow-and-promote}
+notes_for_ledger:
+  - >-
+    The score-2 band's tail went 1 of 4. The three misses are kinds the
+    band has shown before: an unsupported principle, an argument with a
+    derivation attached, and a measurement reported only in plots.
+  - >-
+    Re-derive a source's own proof of an axiom, not just its conclusion.
+    Ince's subset-equality proof is right about the co-information and
+    silent about the sign rule, which is what fails. Pointwise measures
+    with a sign condition need the condition checked in every property
+    proof.
+  - >-
+    THEORY-673's first clause is the Price equation, which re-derives in
+    four lines. When the wave-5 review takes up the argument, decide
+    whether to split the identity off as its own Active THEORY (ADR-040).
+  - >-
+    THEORY-675 carries the anthology-candidate flag and is a loss-landscape
+    measurement; it is a candidate for the anthology rather than further
+    review here.
+  - >-
+    What remains unqueued in wave 3 (triage_wave3.py scoring against the
+    queue at 6759e51b, excluding this batch): 331 eligible entries. 15 are
+    still flagged formal at score 2 or more (THEORY-332, -336, -362, -367,
+    -368, -377, -380, -419, -459, -486, -527, -535, -548, -580, -660),
+    which are the remaining score-2 band. After them, 316 remain: 84 at
+    formal score 1, 224 at 0 and 8 at -1. Ten carry the philosophical-title
+    penalty, which misfired once (THEORY-290). The formal flag has nothing
+    left to rank, so a further pass is worth it only if it sorts by what
+    the title asserts. A triage-007 that tags each remaining title as
+    theorem, measurement or argument (with a fixed control sample), and
+    queues the measurement and theorem titles for ADR-047 v3 and v2
+    review, is the next useful step; the score-2 band went 26 of 30 on
+    exactly that sort.
+owner_questions: []

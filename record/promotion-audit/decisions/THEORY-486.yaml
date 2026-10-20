@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/THEORY-486.yaml
+id: THEORY-486
+batch: batch-054
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The title states theorems of Casals and Nho (2025), and NOTE-022 read
+    the 150-page preprint in full, but neither route to promotion is open.
+    (1) A refereed version: none exists. The arXiv record for 2504.08144,
+    checked 2026-10-20, still shows only v1 of 10 April 2025, with no
+    journal reference. (2) A re-derivation: the promote_when names the
+    analytic core. That is the convergence of pseudo-holomorphic strips to
+    D₄⁻-trees in the adiabatic limit (§4, Propositions 4.3 and 4.13, on
+    the cited parts of Ekholm 2007 and the second author's 2024 preprint),
+    and Gromov compactness and transversality for the deformed
+    continuation strips (§5). These rest on Floer-theoretic analysis that
+    a review cannot re-derive step by step, and on a further unrefereed
+    preprint the record does not hold.
+  excluded: >-
+    Narrowing does not help. The combinatorial statements, that a finite
+    creative spectral network exists and its walls are where strips
+    survive, depend on the same analytic steps.
+evidence:
+  - "LIT-017, read in full in NOTE-022; arXiv API metadata for 2504.08144, 2026-10-20."
+blockers:
+  - "A refereed version, or an independent check of §§4–5 by a Floer theorist, as the promote_when says."
+notes: >-
+  Triage-006 scored it 2. It is formal, but not re-derivable within a
+  review. Requeue only when a v2 or journal version appears.
+unlocks: []
+next_action: "Retain; requeue when the paper is refereed or revised."

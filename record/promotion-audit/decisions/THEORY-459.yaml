@@ -1,0 +1,35 @@
+# record/promotion-audit/decisions/THEORY-459.yaml
+id: THEORY-459
+batch: batch-058
+reviewed: '2026-10-20'
+reviewed_revision: 583807252166df4f301809572ea8a22c49e874e1
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: partly
+supersedes: batch-054
+scope:
+  accepted: >-
+    Reviewed as interpretive synthesis (wave 5). No change to the entry,
+    its promote_when or LIT-199/NOTE-178 since batch 054. Batch 054's three
+    findings stand: only the finite reductive case is proved, and it is a
+    counting fact; the irreducible case works only if a duality counts as
+    a reduction, which the main text asserts and footnote 58's definition
+    does not give; for infinite state spaces cardinality cannot close it
+    (the backward shift on l^2 is surjective and not injective), so the
+    book's case is the lattice-regularisation argument of footnote 57.
+  excluded: >-
+    Judged as an argument, the title says more than the argument
+    establishes in both the irreducible and the infinite case. A split was
+    considered and rejected: the separable formal core is that a bijection
+    between finite sets is not surjective and non-injective, which is a
+    counting fact not worth an entry of its own (batch 040's rule on
+    narrowings that leave only the premise).
+evidence:
+  - "LIT-199 chapter 14, NOTE-178; batch 054's check of arXiv 2508.01616v1."
+blockers:
+  - "A structural proof for the infinite case, or the reduction criterion stated so that a duality is a reduction."
+notes: "Unchanged by wave 5."
+unlocks: []
+next_action: "None until the source or a rival supplies a structural argument."

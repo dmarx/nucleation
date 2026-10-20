@@ -1513,3 +1513,208 @@ history note. THEORY-277 is requeued on this basis.
 - With ten-odd PRs touching shared inactive-ok lines, conflicts recur after
   nearly every merge. resolve_directives handles most; a hunk where one side
   dropped a whole directive line needs a hand merge (keep the intersection).
+
+## 2026-10-19 — batch 056 (wave 3, score-2 band tail)
+
+- The score-2 band's tail went 1 of 4. The three misses are kinds the band
+  has shown before: an unsupported principle, an argument with a
+  derivation attached, and a measurement reported only in plots.
+- Re-derive a source's own proof of an axiom, not just its conclusion.
+  Ince's subset-equality proof is right about the co-information and
+  silent about the sign rule, which is what fails. Pointwise measures with
+  a sign condition need the condition checked in every property proof.
+- THEORY-673's first clause is the Price equation, which re-derives in
+  four lines. When the wave-5 review takes up the argument, decide whether
+  to split the identity off as its own Active THEORY (ADR-040).
+- THEORY-675 carries the anthology-candidate flag and is a loss-landscape
+  measurement; it is a candidate for the anthology rather than further
+  review here.
+- What remains unqueued in wave 3 (triage_wave3.py scoring against the
+  queue at 6759e51b, excluding this batch): 331 eligible entries. 15 are
+  still flagged formal at score 2 or more (THEORY-332, -336, -362, -367,
+  -368, -377, -380, -419, -459, -486, -527, -535, -548, -580, -660), which
+  are the remaining score-2 band. After them, 316 remain: 84 at formal
+  score 1, 224 at 0 and 8 at -1. Ten carry the philosophical-title
+  penalty, which misfired once (THEORY-290). The formal flag has nothing
+  left to rank, so a further pass is worth it only if it sorts by what the
+  title asserts. A triage-007 that tags each remaining title as theorem,
+  measurement or argument (with a fixed control sample), and queues the
+  measurement and theorem titles for ADR-047 v3 and v2 review, is the next
+  useful step; the score-2 band went 26 of 30 on exactly that sort.
+
+## 2026-10-19 — batch 054 (wave 3, score-2 band)
+
+- The score-2 band went 3 of 5 here, so 32 of 40 across batches 039, 045,
+  047–051 and 054 (039 and 045 went 8 of 10, 047–051 went 21 of 25).
+  Sorting by title predicted every outcome. The two misses are an argument
+  whose proved core is trivial (THEORY-459) and a theorem outside the
+  reach of a review (THEORY-486).
+- A theorem a paper states without proof can itself be false as stated.
+  GKT's Theorem 6.5 puts the unit-rule cycle through t, but a cycle on any
+  tuple in one of t's derivation trees makes a coefficient infinite. The
+  paper's own algorithm propagates that correctly. Check a stated
+  criterion against the paper's algorithm, which often encodes the true
+  condition.
+- Check a quoted observational-equivalence example's parameters, not only
+  its conclusion. Pearl's M and M′ agree with δ = γ only when x = u (σ₁ =
+  0). The general pair needs δ = γσ_u²/(σ_u² + σ₁²) (THEORY-419).
+- When an argument's formal step is a cardinality count, test it on an
+  infinite structure first. The backward shift on ℓ² is a surjective, non-
+  injective linear map of a space onto an isomorphic copy, which is why De
+  Haro and Butterfield need a physical argument for infinite state spaces
+  (THEORY-459).
+- Before retaining a "needs a refereed version" entry, check the arXiv API
+  for a later version or journal reference. THEORY-486's source is still
+  v1 with none, so requeue only when that changes.
+- Requeue THEORY-459 to wave 5. THEORY-486 waits on a refereed or revised
+  source.
+
+## 2026-10-19 — batch 053 (wave 3, score-2 band)
+
+- The score-2 band went 4 of 5 here, 30 of 35 with the earlier samples.
+  Sorting by title again predicted every outcome.
+- A threshold rule's "competitive within c" can fail by its overshoot.
+  When the trigger fires on the statement that crosses a threshold, a step
+  of size f times the threshold adds about f on each side of a cycle.
+  Online-SI's 3 becomes 3 + 2f. Check lower-bound examples for an
+  overshoot before trusting that the bound is tight (THEORY-332).
+- "Stated without proof" titles on algebraic maintenance rules (counting,
+  delta rules) can often be re-derived from a telescoping identity. A
+  small brute-force check against full recomputation is cheap and catches
+  stratification mistakes (THEORY-362).
+- For provenance invariance, monotonicity alone makes minimal witnesses
+  semantic: every witness contains a single-derivation image and every
+  such image is a witness. Rewrite-system results whose rules are not
+  given cannot be re-derived, so move them to a QUESTION (THEORY-367).
+- In a multi-system measurement title, check which systems were measured
+  at which settings. Indyk and Xu measured seven of their ten indexes only
+  at L = 0.1n, and ran three from a survey's reimplementations, not their
+  authors' code (THEORY-368).
+- THEORY-336 waits on a reading task, a stage-comparison primary study
+  such as Geisler (1989) or Banks, Geisler and Bennett (1987), and on the
+  report-title ruling.
+
+## 2026-10-19 — batch 055 (wave 3, score-2 band)
+
+- The score-2 band went 3 of 5 here; with batches 039, 045 and 047-051, 29
+  of 35. Four of the five are formal in fact. Sorting by title again
+  predicted every outcome.
+- A promote_when asking for a null comparison can be met inside the
+  review, and the answer can be "it is the null" (THEORY-548: community
+  variability falls with S exactly as summing independent oscillators
+  does). State that in the narrowed title rather than dropping the clause.
+- THEORY-548: τ_c is not set by the largest growth rate alone, as NOTE-061
+  inferred; from S = 40 up its correlation with π/(2 max r) is about 0.2,
+  and τ_c falls below that bound. Worth a dated note on NOTE-061 when it
+  is next touched.
+- A short printed proof can rest on definitions in a companion paper
+  (THEORY-580 on "The Topology of Causality"); fetch the companion and
+  check the definitions, and note that its numbering differs by arXiv
+  version.
+- THEORY-527 is the third conditional theorem promoted with its
+  promote_when moved to a QUESTION (after THEORY-185 and -133). Verdicts
+  argued in prose from a definition are not consequences a review can
+  check; drop them from the title.
+- PhilSci-Archive fails TLS verification from this environment
+  (THEORY-535); a reading task there needs another route to the text.
+
+## 2026-10-19 — batch 057 (follow-ups)
+
+- A reading task can find that the rigorous literature narrows a title
+  rather than confirming it: Candellero and Fountoulakis show the global
+  clustering of the hyperbolic random graph vanishes at every temperature
+  when the degree exponent is at most 3, a transition the source's
+  simulations did not report.
+- Name which clustering coefficient a title means. The average of local
+  coefficients and the global (transitivity) coefficient behave
+  differently under heavy tails.
+- A paper-length rigorous proof cannot be re-derived in a batch. Whether a
+  held, peer-reviewed proof that was skimmed meets "a proof" is an owner
+  question (THEORY-188; compare THEORY-270 in batch 038).
+
+## 2026-10-20 — round 053-057 tally; triage-006 finished
+
+- The score-2 band finished at 40 of 54 promoted (batches 039, 045,
+  047-051, 053-056). The earlier "26 of 30" in these notes undercounted;
+  the counts per batch are in the batch files. The tail (batch 056) went 1
+  of 4.
+- Again several titles were false as written and were corrected before
+  promotion: THEORY-332 (the 3x bound becomes 3 + 2f under overshoot),
+  THEORY-380 (a theorem stated without proof was false; the cycle need not
+  pass through t), THEORY-714 (subset equality fails; the proof never
+  checks the sign rule). Re-derive a source's unproved theorems and every
+  axiom proof, not just conclusions.
+- A reading task can narrow rather than confirm (THEORY-188: global
+  clustering vanishes for degree exponent <= 3). Name which coefficient.
+- Before retaining an entry waiting on a refereed version, check arXiv for
+  a newer version (THEORY-486). PhilSci-Archive is TLS-blocked here.
+- What remains of wave 3: 316 unqueued entries at formal score <= 1. The
+  formal flag has nothing left to rank; a triage-007 that sorts by what the
+  title asserts, with a control sample, is the next step.
+
+## 2026-10-19 — batch 058 (wave 5, arguments)
+
+- Batch 041's lesson held again: none of the four had changed since its
+  wave-3 review, and wave 5 moved none of the three pure arguments. Check
+  git log before requeuing an argument; requeue only when a promote_when,
+  premise or rival has changed, or when the entry carries a separable
+  formal core.
+- A separable formal core is the one thing wave 5 reliably yields
+  (THEORY-673, like THEORY-109 and THEORY-110). Whether it becomes a
+  THEORY or a demonstrated CLAIM turns on whether a source states it
+  (THEORY) or the record assembled it (CLAIM, ADR-032).
+- THEORY-302 and THEORY-660 now wait on reading or data tasks, not
+  reviews; THEORY-459 waits on a structural argument from its source or a
+  rival. Track them off the review queue.
+- Main still fails lint on NOTE-981, THEORY-753, THEORY-757 and
+  THEORY-202; #272's CI will stay red until #271 merges.
+
+## 2026-10-19 — batch 059 (reading tasks)
+
+- What could be fetched, and from where. arXiv: Chalmers and McQueen
+  (2105.02314), full text. gumer.info: Propp's Morphology, Russian HTML,
+  apparently the 1969 edition, encoded cp1251 (decode it explicitly). It
+  carries the appendices but not the fold-out schemes.
+- What was closed. Unpaywall, OpenAlex and Semantic Scholar list no open-
+  access copy of: Geisler 1989; Banks, Geisler and Bennett 1987; Geisler
+  1984; Banks, Sekuler and Anderson 1991; Mandelkern, Bounded Meaning
+  (2024) and 'Bounded Modality' (2019); Ney 2016 and 2021; Bikaraan-
+  Behesht 2021/22. No copy was found for Heim 1990 or Elbourne 2005
+  either. The 1968 English Propp at archive.org is lending-restricted.
+- Sources that were blocked. philpapers.org returns 403 and PhilSci-
+  Archive fails TLS through the proxy, so philosophy preprints are mostly
+  unreachable from a session. cps.utexas.edu redirects to a page with no
+  PDFs, and jov.arvojournals.org returns 403. Philosophy and vision-
+  science reading tasks for closed works need owner-supplied copies;
+  requeueing them unchanged will not help.
+- Reading the source can narrow a promotable scope even when the clean
+  copy is missing. Propp's appendix states that five tabulated tales were
+  dropped, partly because their order was not strictly canonical. So an
+  order claim checked on the remaining 45 is partly a selection effect,
+  and a v3 title must say so.
+- A source cited as a rival can turn out to argue against the citing
+  THEORY's conclusion while still being represented accurately. Chalmers
+  and McQueen are LIT-164's "explicit, testable rival", and they also
+  argue that collapse is a causal-closure gap. Record both points.
+
+## 2026-10-20 — triage-007, batches 058-059, and a broken main
+
+- Triage-007 sorts the 327 unqueued wave-3 entries by what the title
+  asserts: 76 theorem, 115 measurement, 130 argument, 6 report. On the 97
+  labelled entries (fitted to them) theorem precision 0.82 / recall 0.95,
+  measurement 0.89 / 0.67, argument weak (0.60 / 0.40): conditional-shaped
+  arguments are called theorems. Sort each route entry by hand before
+  re-deriving.
+- Wave 5 (batch 058) moved none of the pure arguments again; its only
+  yield is a separable formal core (THEORY-673's Price equation, split as
+  a THEORY because a source states it).
+- Reading tasks for closed works (batch 059) need owner-supplied copies;
+  philpapers 403s and PhilSci-Archive fails TLS from here.
+- Main broke when another session's PRs (#246, #247) merged half-written
+  entries; the completed versions were on its branch. Porting that commit
+  (#271) fixed main. When main fails lint on files no audit PR touches,
+  look for the fix on the originating branch first.
+- Decision files outlive the PRs they cite, so tmp codes in them go
+  stale when docs-generate concretizes main. After each round, map every
+  `X-tmp…` in decisions/ to the file whose `formerly:` lists it, and
+  replace it. Batch files keep their tmp codes as a historical log.

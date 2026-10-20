@@ -8,7 +8,7 @@ disposition: split
 confidence: high
 scope:
   accepted: >-
-    The finite-outcome case, Theorems 4–6 (THEORY-tmp2m4ke), Active.
+    The finite-outcome case, Theorems 4–6 (THEORY-717), Active.
   excluded: >-
     Arbitrary outcome spaces.
 evidence:

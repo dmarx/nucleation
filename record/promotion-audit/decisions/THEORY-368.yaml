@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/THEORY-368.yaml
+id: THEORY-368
+batch: batch-053
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    One study read in full (ADR-047 v3): Indyk and Xu, arXiv 2310.19126v1,
+    rechecked against the arXiv text in this review.
+
+    Text, Section 4.1: fast-preprocessing DiskANN, from the authors' code
+    with R = 70, L = 125 and alpha = 2, "in most cases ... cannot achieve
+    non-zero Recall@5 unless scanning at least 10% of the vertex set".
+
+    Text, Section 4.2: NSG (K = 400, L = 400, iter = 12, S = 15, R = 100)
+    and HNSW (efConstruction = 200, M = 64), each from the authors' code,
+    "for most values of n ... cannot achieve good Recall@5 unless scanning
+    at least 10% of the vertex set".
+
+    Table 1, at queue length L = 0.1n, averaged over n from 10^5 to 2·10^6
+    and 5 or 10 runs: DiskANN 0.0, NSG 0.27, HNSW 0.1, NGT 0.05, SSG 0.16,
+    KGraph 0.42, DPG 0.37, NSW 0.02, SPTAG-KDT 0.02, EFANNA 0.12.
+  excluded: >-
+    For the seven other indexes, recall below L = 0.1n is not reported in
+    the main text, so the old title's "until the queue held about 10%"
+    holds only for DiskANN, NSG and HNSW. KGraph, DPG and NSW were run
+    from the survey's reimplementations, not their authors' code, so "run
+    from their authors' code" is narrowed. The recall-against-L curves are
+    figures read from captions and text. The promote_when's independent
+    replication moves to a new QUESTION under ADR-047 v3.
+evidence:
+  - "LIT-1112 (arXiv 2310.19126v1), Sections 4.1-4.5 and Table 1, read in NOTE-910 and rechecked against the arXiv text in this review."
+blockers: []
+notes: >-
+  Medium confidence: one query per instance, and the curves are figures.
+  The narrowing keeps the text's statements and Table 1's numbers.
+  Triage-006 scored it 2; it is not formal.
+unlocks: []
+next_action: >-
+  Narrow the title, add a dated note, move the replication request to a new
+  QUESTION, and promote.

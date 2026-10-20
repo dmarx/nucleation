@@ -39,7 +39,7 @@ notes: >-
   substitution is not a silent override. The derivation is the record's
   own. It can be written into the THEORY as a dated note, or filed as a
   CLAIM if the owner prefers record-own proofs kept out of THEORYs (compare
-  THEORY-tmpm565o in PR #178).
+  THEORY-722 in PR #178).
 unlocks:
   - "THEORY-002's promote_when cites eq. 24 as the reason a CKA bound does not count. An Active THEORY-233 makes that citation settled."
 next_action: >-

@@ -8,7 +8,7 @@ disposition: split
 confidence: high
 scope:
   accepted: >-
-    Only the linear-Gaussian case, where MacKay's factor is exact (THEORY-tmp60l2i), Active.
+    Only the linear-Gaussian case, where MacKay's factor is exact (THEORY-718), Active.
   excluded: >-
     The general regular expansion and the singular half.
 evidence:
