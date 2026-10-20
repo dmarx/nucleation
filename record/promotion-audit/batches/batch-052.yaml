@@ -5,13 +5,13 @@ reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
 waves: [3]
 reviewed:
   - THEORY-019
-  - CLAIM-tmpjqb3e
+  - CLAIM-385
   - THEORY-083
 yield: >-
   2 promotion paths (THEORY-083 narrowed and promoted; the new
-  CLAIM-tmpjqb3e filed Active), 1 correction carried out (THEORY-019)
+  CLAIM-385 filed Active), 1 correction carried out (THEORY-019)
 promotion_prs:
-  - "#252: CLAIM-tmpjqb3e filed Active (THEORY-019's assembled result); THEORY-019 corrected (branch claude/claim-schur-degeneracy)."
+  - "#252: CLAIM-385 filed Active (THEORY-019's assembled result); THEORY-019 corrected (branch claude/claim-schur-degeneracy)."
   - "#253: THEORY-083 narrowed and promoted; NOTE-476's figure reading; QUESTION-tmpybmwx (branch claude/promote-theory-083)."
 notes_for_ledger:
   - >-
@@ -37,6 +37,6 @@ notes_for_ledger:
     on the new claim instead is for their next review.
 owner_questions:
   - >-
-    CLAIM-tmpjqb3e is the third record-own result filed Active at once
+    CLAIM-385 is the third record-own result filed Active at once
     (after CLAIM-370 and CLAIM-384). The open question from batch 046,
     whether such claims skip Proposed, now covers it too.

@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 139
+version: 140
 updated: '2026-10-19'
 record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
 procedure: record/decisions.d/ADR-047.md
@@ -2800,13 +2800,13 @@ candidates:
   disposition: retain-proposed
   batch: batch-051
   decision: decisions/THEORY-302.yaml
-- code: CLAIM-tmpjqb3e
+- code: CLAIM-385
   wave: 1
   triage: batch-052
   state: decided
   disposition: promote
   batch: batch-052
-  decision: decisions/CLAIM-tmpjqb3e.yaml
+  decision: decisions/CLAIM-385.yaml
   carried_out_in:
   - '#252'
 - code: THEORY-166
@@ -3452,7 +3452,7 @@ history:
     an argument.; carried_out_in #248, #251; THEORY-302 requeued to wave 5'
 - version: 135
   date: '2026-10-19'
-  note: 'Batch 052 integrated: 2 promotion paths (THEORY-083 narrowed and promoted; the new CLAIM-tmpjqb3e
+  note: 'Batch 052 integrated: 2 promotion paths (THEORY-083 narrowed and promoted; the new CLAIM-385
     filed Active), 1 correction carried out (THEORY-019); carried_out_in #252, #253; THEORY-019 and -083
     off the requeue list'
 - version: 136
@@ -3477,4 +3477,7 @@ history:
   date: '2026-10-19'
   note: 'Batch 047 integrated: 4 of 5 promotion paths (THEORY-030, -117, -133, -163 narrowed and promoted);
     THEORY-085 retained; carried_out_in #254, #258; THEORY-085 requeued'
+- version: 140
+  date: '2026-10-20'
+  note: '#248, #251, #252, #253 merged; CLAIM-tmpjqb3e renamed to CLAIM-385 in the ledger.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
