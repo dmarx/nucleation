@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**496 documents cited without acknowledgement.** Not listed: 9553 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**496 documents cited without acknowledgement.** Not listed: 9559 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -724,7 +724,7 @@ A judgement–observation loop cut off from action loses one route for evidence 
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-27 citations in 23 files await a look; 59 other citations of it are acknowledged.
+27 citations in 23 files await a look; 60 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:213`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -1796,12 +1796,12 @@ Analysis of Boolean Functions
 7 citations in 4 files await a look.
 
 - [`record/literature.d/LIT-346.md:6`](../../record/literature.d/LIT-346.md)
-- [`record/literature.d/LIT-346.md:74`](../../record/literature.d/LIT-346.md)
+- [`record/literature.d/LIT-346.md:76`](../../record/literature.d/LIT-346.md)
 - [`record/notes.d/NOTE-307.md:115`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:118`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-019.md:66`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:99`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:102`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:78`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:111`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:114`](../../record/theory.d/THEORY-019.md)
 
 ### [NOTE-596](../../record/notes.d/NOTE-596.md) — Skimmed
 
@@ -1821,7 +1821,7 @@ Cumulative cultural evolution in the laboratory
 
 Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
-7 citations in 5 files await a look; 41 other citations of it are acknowledged.
+7 citations in 5 files await a look; 45 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-379.md:18`](../../record/claims.d/CLAIM-379.md)
 - [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
@@ -2095,8 +2095,8 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
 - [`record/literature.d/LIT-319.md:78`](../../record/literature.d/LIT-319.md)
 - [`record/notes.d/NOTE-307.md:117`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:115`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-019.md:67`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:126`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:79`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:138`](../../record/theory.d/THEORY-019.md)
 
 ### [NOTE-863](../../record/notes.d/NOTE-863.md) — Skimmed
 
@@ -2873,6 +2873,17 @@ Obligation is the reflective rejection of what would violate the agent's practic
 - [`record/questions.d/QUESTION-007.md:57`](../../record/questions.d/QUESTION-007.md)
 - [`record/questions.d/QUESTION-129.md:69`](../../record/questions.d/QUESTION-129.md)
 
+### [THEORY-080](../../record/theory.d/THEORY-080.md) — Proposed
+
+In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
+
+4 citations in 2 files await a look; 13 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-385.md:17`](../../record/claims.d/CLAIM-385.md)
+- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
+
 ### [THEORY-088](../../record/theory.d/THEORY-088.md) — Proposed
 
 Slow large-scale activity in human cortex is organised as in a pattern-forming medium: its flow is set by interacting spiral defects centred on phase singularities, which sit on boundaries between functional regions, annihilate with spirals of opposite rotation and repel those of the same
@@ -3423,16 +3434,6 @@ A Markov blanket does not individuate a system: where it falls is fixed by model
 - [`record/claims.d/CLAIM-152.md:116`](../../record/claims.d/CLAIM-152.md)
 - [`record/claims.d/CLAIM-194.md:47`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-337.md:92`](../../record/claims.d/CLAIM-337.md)
-
-### [THEORY-080](../../record/theory.d/THEORY-080.md) — Proposed
-
-In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
-
-3 citations in 1 file await a look; 13 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
 
 ### [THEORY-090](../../record/theory.d/THEORY-090.md) — Proposed
 
@@ -4231,7 +4232,7 @@ On a finite augmentation space, InfoNCE, logistic and spectral contrastive losse
 
 The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
 
-2 citations in 1 file await a look; 39 other citations of it are acknowledged.
+2 citations in 1 file await a look; 40 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:31`](../../record/questions.d/QUESTION-052.md)
 - [`record/questions.d/QUESTION-052.md:54`](../../record/questions.d/QUESTION-052.md)
@@ -5165,7 +5166,7 @@ Philosophy of Mathematics and Natural Science
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-329.md:62`](../../record/literature.d/LIT-329.md)
+- [`record/literature.d/LIT-329.md:64`](../../record/literature.d/LIT-329.md)
 
 ### [LIT-1081](../../record/literature.d/LIT-1081.md) — Unavailable
 

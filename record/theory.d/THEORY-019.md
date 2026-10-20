@@ -32,7 +32,7 @@ history:
     have eigenspaces built from real irreducibles, that SO(2) and ℤ/n for
     n ≥ 3 pair eigenvalues over ℝ, and that the spectrum fixes neither the
     group nor a basis inside a multiplet, is filed as the record's own
-    demonstrated claim, CLAIM-tmpjqb3e, under ADR-032 (promotion audit,
+    demonstrated claim, CLAIM-385, under ADR-032 (promotion audit,
     batches 042 and 052). This account keeps the reading of the sources and
     its promote_when, which asks for a held source stating the real Schur
     corollary. Status stays Proposed. Title unchanged.
@@ -53,7 +53,7 @@ summary: >-
   intertwiners preserve isotypic components. Neither states the degeneracy
   corollary or its converse. This document puts that together from several
   readings, and that assembly, with its proof, is now the record's own
-  claim, CLAIM-tmpjqb3e; what stays here is the reading. It adds the real-scalar correction in [NOTE-282](../notes.d/NOTE-282.md), found in the
+  claim, CLAIM-385; what stays here is the reading. It adds the real-scalar correction in [NOTE-282](../notes.d/NOTE-282.md), found in the
   reading of [LIT-362](../literature.d/LIT-362.md), and the counting in the reading of [LIT-346](../literature.d/LIT-346.md). It does not
   support "degeneracy detects symmetry": a spectrum is consistent with several
   groups and says nothing about the characters inside a multiplet.
@@ -155,6 +155,6 @@ Promotion audit, batches 042 and 052. The forward direction, the pairing
 over ℝ and the failure of the converse re-derive from Schur's lemma,
 complete reducibility and Frobenius's theorem, and no held source states
 them together, so they are the record's own result. They are filed as
-[CLAIM-tmpjqb3e](../claims.d/CLAIM-tmpjqb3e.md), demonstrated, with the proof. This account keeps what the
+[CLAIM-385](../claims.d/CLAIM-385.md), demonstrated, with the proof. This account keeps what the
 sources say and do not say, the readers' real-scalar correction, and the
 promote_when, which a held representation-theory text would meet.

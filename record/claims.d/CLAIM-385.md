@@ -1,5 +1,8 @@
 ---
+number: 385
 status: Active
+formerly:
+- CLAIM-tmpjqb3e
 title: 'If a symmetric operator on ℝⁿ commutes with an orthogonal representation of a compact group, each eigenspace is a sum of real irreducibles and each multiplicity a sum of multiples of their dimensions, so SO(2) and ℤ/n for n ≥ 3 force paired eigenvalues; conversely the spectrum fixes neither the group nor a basis inside an eigenspace'
 version: 1
 history:
@@ -39,7 +42,7 @@ grounds:
 ---
 <!-- inactive-ok-file: THEORY-019 THEORY-017 THEORY-005 — Proposed; the account this was filed from, which keeps the reading of the sources, the sense of intrinsic named in what this does not say, and the precedent named in the history; none is leaned on -->
 
-# CLAIM-tmpjqb3e: If a symmetric operator on ℝⁿ commutes with an orthogonal representation of a compact group, each eigenspace is a sum of real irreducibles and each multiplicity a sum of multiples of their dimensions, so SO(2) and ℤ/n for n ≥ 3 force paired eigenvalues; conversely the spectrum fixes neither the group nor a basis inside an eigenspace
+# CLAIM-385: If a symmetric operator on ℝⁿ commutes with an orthogonal representation of a compact group, each eigenspace is a sum of real irreducibles and each multiplicity a sum of multiples of their dimensions, so SO(2) and ℤ/n for n ≥ 3 force paired eigenvalues; conversely the spectrum fixes neither the group nor a basis inside an eigenspace
 
 ## The claim
 
