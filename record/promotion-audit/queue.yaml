@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 162
+version: 163
 updated: '2026-10-20'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
@@ -51,8 +51,8 @@ waves:
   promotion_paths: 15
 - wave: 2
   class: THEORYs with verified mathematical cores
-  reviewed: 51
-  promotion_paths: 45
+  reviewed: 52
+  promotion_paths: 46
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 157
@@ -3383,6 +3383,14 @@ candidates:
   disposition: retain-proposed
   batch: batch-064
   decision: decisions/THEORY-646.yaml
+- code: THEORY-771
+  wave: 2
+  score: null
+  state: decided
+  disposition: promote
+  batch: owner-directed-2026-10-20
+  decision: decisions/THEORY-771.yaml
+  note: 'Filed as THEORY-tmp5mn7l (Bousquet and Slotine); promoted at the owner''s direction.'
 history:
 - version: 1
   date: '2026-10-19'
@@ -4042,6 +4050,10 @@ history:
   date: '2026-10-20'
   note: 'Narrowing sweep batches 065-069 integrated (#284-#287, #289 merged): 25 codes, 26 new Proposed
     entries; narrowing_sweep block added; hand-off updated (#283 merged).'
+- version: 163
+  date: '2026-10-20'
+  note: 'THEORY-771 (filed as THEORY-tmp5mn7l; Bousquet and Slotine) promoted at the owner''s direction,
+    outside a numbered batch, on the re-derivations recorded in its decision file; carried out in #288.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
 narrowing_sweep:
   procedure: record/decisions.d/ADR-047.md (v4)

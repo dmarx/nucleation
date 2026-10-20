@@ -1,0 +1,55 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-20 ([NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md)) in full; worth reading for three exact notions of a self-contained coarse-graining Z of a stationary discrete process X and how they relate: informational closure, I(X⃗_t; Z⃗ᴸ_{t+1} | Z⃗_t) = 0 for every horizon, which is Barnett and Seth's dynamical independence without an environment; causal closure, the ε-machine of Z equivalent to its υ-machine (the coarsest partition of micro pasts that predicts Z's future); and computational closure, Z's ε-machine a coarse-graining of X's. Theorem 1 proves informational ⟺ causal closure for any coarse-graining of the past; Theorem 2 proves causal ⇒ computational closure for spatial ones, and Counterexample 4 the converse false. Proposition 4 and Theorem 3 tie closure to Kemeny–Snell lumpability: strong lumpability gives closure, closure with a Markov Z gives strong lumpability, weak lumpability gives only computational closure. Read it knowing that the sublattice claims are asserted and, for informationally closed spatial coarse-grainings, false under common refinement (a three-bit counterexample in the NOTE); that the stated sufficient condition for the Ising energy to close (a permutation-invariant Hamiltonian) fails with a uniform field at coincident energies; that Proposition 3 is a telescoping identity whose closure hypothesis is idle; that (A.11) and Example 2 contain slips; that the modular random walk closes by symmetry of the weights and not by modularity; and that every result is exact, with nothing on approximate closure.
+title: 'Software in the natural world: A computational approach to hierarchical emergence'
+version: 2
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Registered on 2026-10-20 for the coarse-to-fine questions (QUESTION-218, QUESTION-221), as the source of the closure notions that McKenzie's book cites (NOTE-124: "not held"). Citation from the arXiv abstract page: Rosas, F. E., Geiger, B. C., Luppi, A. I., Seth, A. K., Polani, D., Gastpar, M. & Mediano, P. A. M., arXiv:2402.09090 [nlin.AO], v1 submitted 14 February 2024, v2 5 June 2024 (33 pages, 13 figures). `published:` is the v1 date per ADR-002. No journal version was found: the arXiv page carries no journal reference or publisher DOI, and Crossref searches by title and by title with author returned nothing matching. Semantic Scholar and OpenAlex refused the queries (rate limits). Not held in this record: a grep of record/ for the arXiv id, the title and "Software in the natural world" found only NOTE-124's mention. Not flagged anthology-candidate: it carries no instruction for machine-learning practice.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Read in full (NOTE-tmpvlpd4) from the arXiv PDF, v2. Status Deferred → Active. The reading re-derived Theorems 1 and 2, Propositions 1, 2 (its order part) and 4, and Theorem 3, and filed them as THEORY-tmpri29w and THEORY-tmpz4ja2. It checked the counterexamples numerically and found the errors listed in the status note.
+tags:
+- complex-systems
+- information-theory
+- causality
+- mathematics
+date: '2026-10-20'
+published: '2024-02-14'
+arxiv: '2402.09090'
+first_author: 'Rosas'
+keywords:
+- 'emergence'
+- 'computational mechanics'
+- 'epsilon-machine'
+- 'causal states'
+- 'information closure'
+- 'causal closure'
+- 'computational closure'
+- 'lumpability'
+- 'coarse-graining'
+- 'software'
+implementations: []
+summary: >-
+  Rosas, Geiger, Luppi, Seth, Polani, Gastpar & Mediano (arXiv 2024). Defines three exact closures of a coarse-graining Z of a stationary discrete process X. In informational closure the micro past adds nothing to predicting Z's future (Barnett–Seth dynamical independence). In causal closure Z's ε-machine equals its υ-machine, the coarsest partition of micro pasts that predicts Z. In computational closure Z's ε-machine is a coarse-graining of X's. It proves informational ⟺ causal closure, and causal ⇒ computational closure for spatial coarse-grainings, not conversely. It ties these to strong and weak lumpability of the micro ε-machine. It proposes the lattice of strongly lumpable coarse-grainings of that ε-machine, modulo computational equivalence, as a system's "functional architecture". The case studies are cellular-automaton parity, Ehrenfest, Glauber energy, a modular random walk, agent counts and Hopfield overlaps. Most of them close by a permutation symmetry.
+---
+
+# LIT-tmpcw129: Software in the natural world: A computational approach to hierarchical emergence
+
+Rosas, F. E., Geiger, B. C., Luppi, A. I., Seth, A. K., Polani, D., Gastpar, M. & Mediano, P. A. M. (2024). Software in the natural world: A computational approach to hierarchical emergence. arXiv:2402.09090 [nlin.AO].
+
+Read in full in [NOTE-tmpvlpd4](../notes.d/NOTE-tmpvlpd4.md), from the arXiv v2 PDF.
+
+## Why this is here
+
+The exact theory of closure that [QUESTION-218](../questions.d/QUESTION-218.md) and [QUESTION-221](../questions.d/QUESTION-221.md) lacked
+for discrete processes. It shows that informational closure, Barnett and Seth's
+dynamical independence ([THEORY-733](../theory.d/THEORY-733.md)), is the same condition as causal
+closure. For Markov chains it is Kemeny–Snell strong lumpability when the
+coarse process is Markov. That is the master-equation form of [THEORY-755](../theory.d/THEORY-755.md)'s
+column-equitable partitions. The reading's results are in
+[THEORY-tmpri29w](../theory.d/THEORY-tmpri29w.md) and [THEORY-tmpz4ja2](../theory.d/THEORY-tmpz4ja2.md).

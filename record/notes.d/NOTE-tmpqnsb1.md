@@ -1,0 +1,386 @@
+---
+status: Read
+paper: 'LIT-tmpd20t2'
+title: 'Lin and Lu — Wiener projections and the Koopman–Mori–Zwanzig formalism'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Read in full from the arXiv v5 PDF (50 pages, 5 October 2020, the
+    version marked "to appear in Journal of Computational Physics"),
+    extracted with pdftotext. Read: the introduction; §2 (Koopman setting,
+    the discrete Mori–Zwanzig equation and its Dyson-formula derivation,
+    NARMAX); §3 (the Wiener projection and its properties with the
+    footnoted proofs, the rational approximation, the multistep form, the
+    skew-product and delay constructions); §4 (cascade parametrization,
+    initialization, fitting, noise model); §5 (Kuramoto–Sivashinsky and
+    stochastic Burgers); §6; Appendices A (dual equation), B (z-transforms
+    and Wiener filters), C and D (model terms and further results). The
+    figures were read only from their captions and the axis labels that
+    survived extraction, so no value is quoted from a figure. Earlier arXiv
+    versions were not compared; v4 says it made "substantial revisions".
+    The Dyson formula, the Wiener-projection collapse and the orthogonality
+    were re-derived by hand and checked on finite-dimensional unitary
+    examples in numpy. The comparison of Mori's kernels with the Wiener
+    filter, the Volterra and Hankel-rank results, and the linear Gaussian
+    checks are the record's, run from scripts in the session scratchpad.
+date: '2026-10-20'
+summary: >-
+  An exact link between Mori–Zwanzig and NARMAX, with the approximation
+  named. For an invertible map with an invariant measure, projecting onto
+  the whole past of chosen functions of the resolved variables removes the
+  memory term: the reduced equation is the causal Wiener filter on the
+  coarse variable's own history, with a residual orthogonal to all of it.
+  NARMAX follows only by an "uncontrolled" rational approximation of the
+  filter; no error is bounded. The record's checks: Mori's kernels and the
+  Wiener filter are both fixed by the coarse variable's autocovariance;
+  for a scalar coarse variable of a linear Gaussian VAR(1) both are
+  rational with the same numerator, the rational form is exact, and the
+  memory Hankel rank is d − 1 for any rational autocovariance of rank d.
+---
+<!-- inactive-ok-file: THEORY-tmpdjsgt THEORY-257 THEORY-747 CLAIM-327 — Proposed; the Lorenz 96 finding this paper's examples sit beside, the criterion whose conditioning set the Wiener projection matches, the turbulence analogue, and the endogenous-variable claim, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmpgukcy — new, filed from this reading -->
+
+# NOTE-tmpqnsb1: Lin and Lu — Wiener projections and the Koopman–Mori–Zwanzig formalism
+
+## Contribution
+
+It puts data-driven reduction in discrete time on the footing of the
+Koopman operator and the Mori–Zwanzig (MZ) identity, and adds one
+construction, the Wiener projection: orthogonal projection onto the closed
+span of the whole past of chosen observables Ψ of the resolved variables.
+Under it the MZ memory term vanishes identically, the reduced equation
+becomes the causal Wiener filter, and its residual is orthogonal to every
+past observable, not only to the present one. NARMAX is then motivated as
+a rational approximation of the filter's transfer function. The paper
+tests the resulting least-squares fits on Kuramoto–Sivashinsky (KS) and a
+stochastically forced Burgers equation.
+
+## Key insight
+
+Memory is not a fixed property of the reduced dynamics. It is what a
+projection leaves out. Project onto the present of the resolved variables
+and the leftover appears as a memory convolution plus a noise correlated
+with the past. Project onto their entire past and the same information is
+inside the projection, so there is nothing left for a memory term to
+carry. That makes the reduced equation exact and built only from the coarse
+variable's own history, but infinite-dimensional. Finiteness has to come
+from somewhere else, here from a rational approximation that the paper
+does not control.
+
+## Assumptions
+
+- **Discrete time, invertible dynamics.** X_{n+1} = F(X_n) with F
+  invertible, so the Koopman operator Mφ = φ∘F is unitary on L²(μ). A
+  continuous system enters through its time-Δt map. Randomly forced
+  systems enter as skew products, with the state augmented by the
+  two-sided forcing sequence and the shift (§3.3). Bounded delays enter
+  through the (L + 1)-fold product state (Eq. 3.25).
+- **Stationarity.** μ is F-invariant and X₀ ~ μ, so the process is
+  stationary. The isometry of M rests on this.
+- **Second-order projection.** The projections used are orthogonal
+  projections onto linear spans in L²(μ): the finite-rank one onto the
+  span of ψ₁(x), …, ψ_ν(x) (Eq. 2.3), and the Wiener one onto
+  W = span(Ψ ∪ M⁻¹Ψ ∪ M⁻²Ψ ∪ …) (Eq. 3.3). Orthogonality is not
+  independence, and the paper says so. A footnote states that with
+  conditional expectation in place of the linear projection the residuals
+  are martingale differences.
+- **For NARMAX:** the filter's transfer function is approximated by
+  B(z)/A(z), called "the (uncontrolled) approximation" (Eq. 3.13), and the
+  roots of A(z) are kept inside the unit circle ("decaying memory").
+  Convergence issues are set aside: the z-transforms of the stationary
+  series "do not converge for any z ∈ ℂ" and are used formally.
+- **Examples:** KS with L ≈ 21.55, 108 modes as the full model, 5 kept,
+  step 0.1; Burgers with ν = 0.05, forcing on |k| ≤ 4, 128 modes as the
+  full model, 9 kept, step 0.01. The orders (p, r) are chosen "by
+  trial-and-error" for stability.
+
+## Key results
+
+- **Discrete MZ equation (Eqs. 2.2, 2.5–2.6).** For any projection P with
+  range in functions of x and Q = I − P, the Dyson formula
+  M^{n+1} = Σ_{k=0}^{n} M^{n−k}PM(QM)^k + (QM)^{n+1}, applied to π and
+  evaluated at X₀, gives
+  x_{n+1} = PF(x_n) + Σ_{k=1}^{n} Γ_k(x_{n−k}) + ξ_{n+1}(X₀),
+  with ξ_k = (QM)^kπ, Γ_k = P(ξ_k∘F) and Pξ_k = 0. With the finite-rank
+  P, PF = Ψ·c₀, Γ_k = Ψ·c_k, c_k = ⟨Ψ,Ψ⟩⁻¹⟨Ψ, ξ_k∘F⟩, and ξ_n is
+  orthogonal to Ψ(x₀) only (Eq. 2.4c). Re-derived: the Dyson formula by
+  induction (M^{n+2} = M·M^{n+1}, and M(QM)^{n+1} = PM(QM)^{n+1} + (QM)^{n+2}
+  gives the new k = n + 1 term), and checked on random 12 × 12 matrices to
+  2 × 10⁻¹⁶. The induction uses only P + Q = I; Pξ_k = 0 needs PQ = 0.
+- **Wiener projection (Eqs. 3.4–3.10).** Since M⁻¹W ⊆ W,
+  Q_W M⁻¹ P_W = 0, and by unitarity P_W M Q_W = 0: W⊥ is M-invariant.
+  So every term with k ≥ 1 in the Dyson sum vanishes and
+  M^{n+1} = MⁿP_W M + (Q_W M)^{n+1}. Applied to π:
+  x_{n+1} = Σ_{k≥0} Ψ(x_{n−k})·h_k + ξ_{n+1}, with
+  ⟨ξ_n, Ψ(x_m)⟩ = 0 for every n > m (Eq. 3.6). Also
+  (Q_W M)ⁿπ = M^{n−1}ξ₁ = ξ₁∘F^{n−1} (Eq. 3.8), so ξ and Ψ are jointly
+  wide-sense stationary. Re-derived step by step ([THEORY-tmpgukcy](../theory.d/THEORY-tmpgukcy.md)) and
+  checked on an orthogonal 12 × 12 M with a 7-dimensional invariant W:
+  P_W M Q_W = 1.2 × 10⁻¹⁵, the collapsed formula to 2.5 × 10⁻¹⁵. With a
+  non-normal M and an M⁻¹-invariant W, P_W M Q_W = 1.58 and the collapsed
+  formula fails by 2.8: unitarity is needed, and invariance of μ is what
+  supplies it.
+- **Rational approximation and NARMAX (Eqs. 3.11–3.14).** With
+  H(z) = Σ h_n z⁻ⁿ ≈ B(z)/A(z), deg A = p, deg B = r, the filter becomes
+  the recursion y_n + a_{p−1}y_{n−1} + … + a₀y_{n−p} = Ψ_{n−p+r}·b_r + … +
+  Ψ_{n−p}·b₀, x_{n+1} = y_n + ξ_{n+1}, which with one column of Ψ equal to
+  f is the NARMAX form (2.7). Equivalent, modulo transients and when A's
+  roots lie inside the unit circle, to the multistep form (3.18) with
+  noise ξ̄ = A-filtered ξ (Appendix B).
+- **Fitting (§4).** A(z) is factored into quadratics z² + α_iz + β_i, so
+  stability is the triangle β_i ≤ 1, β_i ≥ ±α_i − 1 (the standard
+  stability triangle for a monic quadratic). The loss is the
+  one-step MSE through the cascade (4.8), with b solved by linear
+  regression inside a BOBYQA search over (α, β). Residuals are modelled by
+  a Gaussian process with their estimated power spectrum (4.13).
+- **KS (§5.1, Appendix C).** A 5-mode model with p = r = 3 and three
+  groups of predictors (the modes, one Galerkin step R_Δt, and quadratic
+  high-mode interaction terms) follows the full solution to t ≈ 40–50,
+  about 1.8 Lyapunov times, against t ≈ 20 for the 5-mode truncation, and
+  reproduces the energy spectrum, autocovariances, energy
+  cross-correlations and marginals. Fitting the same form by linear
+  regression on the multistep form gave no (p, r) with 0 ≤ p, r ≤ 3 that
+  was stable under both procedures. The nearest pair (nonlinear p = r = 1,
+  linear p = 1, r = 0) shows linear regression worse on forecasts and
+  correlations.
+- **Burgers (§5.2, Appendix D).** With the forcing increments entered as a
+  moving-average input (5.7), a 9-mode model with p = r = 1 tracks the
+  forced response and reproduces the statistics, and linear and nonlinear
+  regression agree.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The discrete MZ equation is an exact identity for any projection | strong | Dyson formula, proved by induction (§2.2); re-derived |
+| C2 | Under the Wiener projection the memory term vanishes and the residual is orthogonal to all past Ψ, a strictly stronger orthogonality than Mori's | strong, given invertible F and invariant μ | §3.1, Eqs. 3.4–3.10; re-derived |
+| C3 | Coefficients h_k exist with Eq. 3.6, and are unique if ∪_k M^{−k}Ψ is linearly independent | moderate, overstated | an element of a closed span need not be a convergent series, and linear independence of an infinite family does not give unique expansion; see Limitations |
+| C4 | NARMAX is derived from the dynamics via the Wiener projection | weak as "derived"; the paper itself calls it heuristic | rational approximation, "uncontrolled" (Eq. 3.13); exact in the linear Gaussian VAR(1) class (record's check) |
+| C5 | The noise ξ comes "a step closer" to the independence NARMAX assumes | moderate | orthogonality to all past Ψ; for scalar x with x among Ψ the exact residual is uncorrelated in time (record's remark) |
+| C6 | Classical Wiener filtering is an alternative to MZ as a framework for model reduction, and Wiener-based reduction is a special case of MZ | strong for stationary problems | the Wiener projection is a projection in the MZ sense |
+| C7 | Nonlinear least squares beats linear regression for KS, and they tie for Burgers | moderate | one nearest pair of orders for KS, not a matched comparison |
+| C8 | The fitted NARMAX in earlier work is "nearly optimal in the least squares sense" | weak | similar statistics from two estimators on one system |
+
+## Method
+
+1. Choose observables Ψ(x) (resolved modes, one numerical step, closure
+   terms suggested by inertial-manifold theory).
+2. Parametrize the Wiener filter by B(z)/A(z), with A as a cascade of
+   stable quadratics.
+3. Minimize the one-step prediction MSE over (α, β) by derivative-free
+   search, solving for b and the cascade's initial states by linear
+   regression at each step.
+4. Fit a stationary Gaussian process to the residuals by their power
+   spectrum, and run the model with that noise.
+
+## Concepts
+
+- **Koopman operator** — Mφ(X) = φ(F(X)), unitary on L²(μ) when F is
+  invertible and μ invariant.
+- **Wiener projection** — orthogonal projection P_W onto the closed span of
+  Ψ and all its backward iterates M^{−k}Ψ, i.e. of the observables
+  evaluated at every past time.
+- **Decaying memory** — the paper's name for h_n → 0, used
+  interchangeably with "the roots of A(z) lie strictly inside the unit
+  circle". The two differ when A and B share factors.
+- **Second-order cascade** — the factorization of A(z) into quadratics,
+  each a two-term recursion, so stability is a set of linear inequalities.
+
+## Connections
+
+It descends from Chorin and Lu's discrete NARMAX closure ([LIT-tmp6gimq](../literature.d/LIT-tmp6gimq.md),
+[NOTE-tmpejcu2](NOTE-tmpejcu2.md)) and from Lu, Lin and Chorin's KS reduction (Physica D
+2017), whose model it reuses, and it takes the discrete MZ setting from
+Darve, Solomon and Kia (2009). Its MZ background is Chorin and Hald,
+Zwanzig, and Chorin, Hald and Kupferman ([LIT-1253](../literature.d/LIT-1253.md)). Its Wiener-filter
+background is Wiener (1949), Kailath and Yaglom. It cites Parish and
+Duraisamy ([LIT-1259](../literature.d/LIT-1259.md)) among the MZ applications, and Lu's later Burgers
+paper (arXiv:2010.00736) for consistency of the estimators and model
+selection. None of Darve et al., the 2017 KS paper or the 2020 Burgers
+paper is in the record.
+
+## Bearing on the record
+
+- **[QUESTION-222](../questions.d/QUESTION-222.md), the paper's part.** The Wiener projection gives an exact
+  Markovian description of any stationary coarse variable in second order,
+  but the augmentation is its whole past, infinite-dimensional in general.
+  The memory is moved into the projection, not removed. A finite
+  augmentation enters only through the rational approximation, and for
+  that the paper offers no error bound, no convergence statement and no
+  rule for the orders. So the question's "controlled prediction error" is
+  not answered here for any nonlinear class. What is proved is filed as
+  [THEORY-tmpgukcy](../theory.d/THEORY-tmpgukcy.md), Active.
+- **[QUESTION-222](../questions.d/QUESTION-222.md), the record's check: Mori and Wiener are both fixed by
+  the autocovariance.** For a scalar stationary x with Ψ(x) = x and
+  autocovariance C(n):
+  1. *Mori's kernels.* Taking the covariance of the finite-rank MZ
+     equation with x₀, and using ⟨ξ_{m+1}, x₀⟩ = 0, gives the triangular
+     system C(m+1) = Σ_{k=0}^{m} c_k C(m − k), m ≥ 0. It fixes every c_k
+     from C alone. In generating functions, with Ĉ(w) = Σ_{n≥0} C(n)wⁿ,
+     1 − Σ_k c_k w^{k+1} = C(0)/Ĉ(w).
+  2. *The Wiener filter.* Orthogonality to all past values gives
+     C(j+1) = Σ_{k≥0} h_k C(j − k) for every j ≥ 0, with C(−m) = C(m), and
+     1 − Σ_k h_k w^{k+1} = 1/G(w), G the normalized outer factor of the
+     spectrum. The two systems differ only in that Mori's stops at the
+     initial time.
+  3. *Consequence.* Both kernels are functionals of the coarse variable's
+     own second-order law, whatever the micro dynamics. Mori's memory
+     vanishes iff C(n) = c₀ⁿC(0) for all n. If it vanishes, the system
+     gives C(m+1) = c₀C(m). Conversely, if C is geometric, the equations
+     for m = 1, 2, … give c₁ = c₂ = … = 0 in turn. In the linear
+     Gaussian case that is "Y is AR(1) in its own law", which is the
+     equivalence [NOTE-tmpejcu2](NOTE-tmpejcu2.md) item 3 observed in four cases, now for any
+     stationary scalar process.
+- **The linear Gaussian VAR(1) class.** Take X_{t+1} = AX_t + ε_t, stable,
+  Σ ≻ 0, and scalar Y = LX. Let φ(w) = det(I − Aw), let K₂₂ be the
+  eliminated block of [CLAIM-389](../claims.d/CLAIM-389.md) and χ₂₂(w) = det(I − K₂₂w), and let θ(w)
+  be the MA polynomial of [CLAIM-tmp5fx5d](../claims.d/CLAIM-tmp5fx5d.md)'s ARMA form (roots outside the
+  unit disk, θ(0) = 1).
+  4. *Same numerator, different denominators.*
+     1 − Σ c_k w^{k+1} = φ(w)/χ₂₂(w) (the Schur complement of I − Aw in
+     Π-orthogonal coordinates), and 1 − Σ h_k w^{k+1} = φ(w)/θ(w). So
+     χ₂₂(w) = φ(w)Ĉ(w)/C(0). Mori's kernels decay at the uncancelled
+     eigenvalues of K₂₂. The Wiener filter decays at the uncancelled MA
+     zeros. The stationary Mori noise is (θ/χ₂₂)(B)e, e the innovations, so
+     it is white iff θ = χ₂₂ after cancellation, which is iff the two
+     projections agree.
+  5. *The paper's rational ansatz is exact here,* with deg A ≤ n − 1 and
+     deg B ≤ n − 1, and its decaying-memory condition is MA invertibility,
+     which Σ ≻ 0 guarantees (the spectrum of Y is then positive on the unit
+     circle).
+  6. *Checks* (Mori kernels from the block form against the Volterra
+     solution from C; Wiener h from a 300-lag Toeplitz solve against the
+     series of (θ − φ)/(wθ)):
+
+     | case | Mori: blocks vs C | χ₂₂ = φĈ/C(0) | Wiener: Toeplitz vs rational | Mori decay / ρ(K₂₂) | Wiener decay / MA zero | lag-1 autocorr of Mori noise |
+     |---|---|---|---|---|---|---|
+     | random n = 3 | 3 × 10⁻¹⁷ | exact | 1 × 10⁻¹⁶ | 0.691 / 0.685 | 0.720 / 0.715 | 0.024 |
+     | [QUESTION-222](../questions.d/QUESTION-222.md)'s example, h = 0.1 | 7 × 10⁻¹⁶ | exact | 3 × 10⁻¹³ | 0.888 / 0.888 | 0.901 / 0.901 | −0.012 |
+     | [CLAIM-389](../claims.d/CLAIM-389.md)'s counterexample | 0 | exact | 1 × 10⁻¹⁶ | none (c_k = 0) | none (θ cancels) | 0 |
+     | random n = 4 | 2 × 10⁻¹⁶ | exact | 4 × 10⁻¹⁶ | 0.491 / 0.489 | 0.268 / 0.250 | 0.164 |
+
+     Decay rates are envelope estimates over lags 5–35 of the closed-form
+     series. In [QUESTION-222](../questions.d/QUESTION-222.md)'s example h₀ = 0.97628 and h_k for k ≥ 1
+     falls by 0.90088 per lag. That is the MA zero θ = −0.9009 of
+     [NOTE-tmpejcu2](NOTE-tmpejcu2.md) item 6, and its square is the 0.8116 per-lag ratio of
+     the AR(p) truncation error found there. The rate that controls lag
+     truncation is the pole of the Wiener filter. In a stable feed-forward
+     n = 3 case (X₃ driven by X₂ with eigenvalue 0.5, no feedback), K₂₂ has
+     eigenvalues 0.465 and 0.5 and θ has zeros 0.5 and 0.530. The 0.5
+     cancels against φ in both, and the kernels decay at what remains:
+     Mori 0.465, Wiener 0.530.
+- **[NOTE-tmpejcu2](NOTE-tmpejcu2.md)'s open question on the minimal order: answered for any
+  rational autocovariance.** Let C have Hankel rank d (the rank of
+  [C(i+j)]_{i,j≥0}), with Ĉ = N/D coprime and D(0) = 1, so
+  d = max(deg D, deg N + 1). From item 1, the memory sequence (c_k)_{k≥1}
+  has generating function num/N, with num = (N − C(0)D − c₀wN)/w². The
+  constant and w-coefficients of N − C(0)D − c₀wN vanish (N(0) = C(0); the
+  w-coefficient is the n = 1 case of ĈD = N). num and N are coprime,
+  because a common root would be a root of D. By Kronecker's theorem the
+  memory Hankel rank is max(deg N, deg num + 1). If deg N = d − 1 this
+  is d − 1. Otherwise deg D = d and the w^d coefficient of
+  N − C(0)D − c₀wN is −C(0)D_d ≠ 0, so deg num = d − 2 and the rank is
+  again d − 1. **So d = 1 + (Hankel rank of the Mori memory)** for every
+  scalar stationary process with rational autocovariance, not only for
+  VAR(1). Checked: d = 3, 2, 1, 4 against memory ranks 2, 1, 0, 3 in the
+  four cases of the table; d = 2 against 1 in the feed-forward case; a
+  mixture of five AR(1) autocovariances, d = 5, rank 4; and a sequence with
+  constant numerator, d = 3, rank 2.
+- **[THEORY-257](../theory.d/THEORY-257.md): the Wiener projection is its conditioning set, in second
+  order.** W is spanned by functions of the coarse variable's own past, and
+  in the conditional-expectation version (the footnote) the residual is a
+  martingale difference with respect to that past. Dynamical dependence
+  asks whether the micro past predicts this residual. In the linear
+  Gaussian case the transfer entropy is
+  ½ ln(Wiener residual variance / one-step noise variance of Y in the full
+  model). In [CLAIM-389](../claims.d/CLAIM-389.md)'s counterexample the Wiener residual variance is
+  0.75, recomputed here, which is the numerator of its 0.120 nats. Since
+  every memory kernel is a functional of Y's own law (items 1–3), no size
+  or shape of memory can detect dependence, which needs the joint law
+  with the micro variables. That is the structural reason behind
+  [CLAIM-389](../claims.d/CLAIM-389.md)'s "not conversely".
+- **[QUESTION-222](../questions.d/QUESTION-222.md)'s second half, "is a level whose history does the
+  predicting still a level?"** In second order every stationary coarse
+  variable has an exact own-history reduced equation with a residual
+  orthogonal to its past. Having one is therefore no mark of a level. What
+  can mark one is that the residual is also unpredictable from the micro
+  past ([THEORY-257](../theory.d/THEORY-257.md)), or that the own-history representation is finite.
+  The record holds the latter exactly only for linear classes
+  ([CLAIM-tmp5fx5d](../claims.d/CLAIM-tmp5fx5d.md)).
+- **A3's caution** that the split into memory and noise depends on the
+  projection now has an exact form in the linear class: two projections,
+  one numerator, two denominators (item 4).
+- **[THEORY-tmpdjsgt](../theory.d/THEORY-tmpdjsgt.md).** The KS and Burgers results join Chorin and Lu's
+  Lorenz 96 as numerical evidence that a few lags suffice on chaotic and
+  forced systems without scale separation, with orders tuned for
+  stability. They neither strengthen nor weaken its Proposed status.
+- **[CLAIM-327](../claims.d/CLAIM-327.md).** Its formal shape, a collective variable built from the
+  accumulated past that members read, is the Wiener projection's state.
+  Nothing here bears on whether that variable is endogenous.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **The NARMAX derivation is heuristic,** as the abstract says. Nothing
+  bounds the error of B(z)/A(z), nothing says the orders converge, and the
+  "additional memory-like corrections" from not satisfying (3.5b) exactly
+  are "left for future work". The concluding claim of "evidence that it
+  may be nearly optimal in the sense of least squares" rests on two
+  examples.
+- **Property (i) is overstated.** P_W Mπ lies in the closed span W, which
+  makes it a limit of finite combinations of past Ψ, not necessarily a
+  convergent series Σ_k Ψ(x_{−k})h_k. And linear independence of
+  ∪_k M^{−k}Ψ does not make an expansion unique in the closure. For a
+  scalar Gaussian process the series exists when, for example, the
+  spectral density is bounded and bounded away from zero (true in the
+  linear Gaussian VAR(1) class with Σ ≻ 0). The paper notes the
+  ill-conditioning but not the existence question.
+- **Invertibility and stationarity are essential, not technical.** The
+  collapse needs P_W M Q_W = 0, which fails without unitarity (shown
+  above). The paper handles dissipative systems by noting that F⁻¹ need not
+  be computed. That is right for computing, but the invertibility of F on
+  the support of μ is still an assumption.
+- **A contradiction about the noise term in KS.** §5.1: without the noise,
+  "the reduced models do considerably worse at all tasks, and at least for
+  some choices of (p, r) the solutions converge quickly to 0". Appendix
+  C: running with ξ_n ≡ 0 "does not appreciably change the ACF or
+  marginal distributions, nor the forecasting skill". Both cannot hold for
+  the same model. Perhaps they concern different (p, r), but the paper
+  does not say so.
+- **The residual's whiteness is never used as a check.** For scalar x with
+  x among the Ψ, the exact Wiener residual lies in the span of the past
+  and present Ψ, so it is uncorrelated at every non-zero lag. For vector x
+  only the summed E[ξ_n·ξ_m] must vanish. The KS residual spectrum is
+  "far from white", and the paper reads that as a call for better noise
+  models. It could instead measure how far the fitted rational filter is
+  from the Wiener projection.
+- **"Decaying memory" conflates h_n → 0 with the roots of A(z)** lying in
+  the unit circle. These differ when A and B share factors.
+- **"The rational approximation above implies p = q"** (§3.2) is not
+  explained. In the linear class the MA order equals deg A, which may be
+  what is meant.
+- **The linear-against-nonlinear-regression comparison is not matched.** No
+  (p, r) was stable under both procedures for KS, so the comparison is
+  between different orders.
+- **Orders by trial; two systems; figures read from captions only.**
+
+## Open questions
+
+- For which nonlinear classes is the Wiener filter on a finite Ψ exactly
+  rational, so that a finite NARMAX is exact? The linear Gaussian class
+  is one, and Koopman-invariant finite subspaces would be the natural
+  next.
+- Is the error of the best rational approximation of order p bounded by
+  the distance of the filter's singularities from the unit circle, as
+  the linear case suggests (truncation error ∝ |θ|^{2p})? A bound of that
+  kind would give [QUESTION-222](../questions.d/QUESTION-222.md) its controlled error.
+- With conditional expectation in place of the linear projection, the
+  Wiener residual is a martingale difference. Does a vanishing dynamical
+  dependence ([THEORY-257](../theory.d/THEORY-257.md)) then make it independent of the micro past, and
+  so the reduced model exact in law?
+- The vector case: do Mori's and the Wiener kernels for a vector Y = LX
+  share a numerator matrix in the same way, and does d = 1 + memory rank
+  survive with McMillan degrees?

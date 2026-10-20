@@ -25,7 +25,13 @@ answered_by:
 - THEORY-760
 - THEORY-762
 - THEORY-773
+- THEORY-tmpdjsgt
+- CLAIM-tmp5fx5d
+- THEORY-tmpgukcy
+- CLAIM-tmp511ss
 ---
+<!-- inactive-ok-file: NOTE-tmpqnsb1 — new reading, cited as where CLAIM-tmp511ss was derived -->
+<!-- inactive-ok-file: THEORY-tmpdjsgt — Proposed; the Lorenz 96 finding, cited as partial -->
 <!-- inactive-ok-file: LIT-1245 LIT-1251 LIT-1253 LIT-1259 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-222: When a coarse variable's reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation with controlled prediction error, and is a level whose history, not its present state, does the predicting still a level?
@@ -100,6 +106,32 @@ representation-invariant measure of emergence."
   A5's example with c = κd the memory kernel tends to a delta and the
   Markovian error is O(1/d), checked at d = 5 to 500. Deterministic only;
   open for slow or noisy eliminated variables.
+- Chorin and Lu (2015, [LIT-tmp6gimq](../literature.d/LIT-tmp6gimq.md), [NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md)): a discrete NARMAX
+  closure is a finite augmentation by past states, discrepancies and
+  innovations. On Lorenz 96 at ε = 0.5, with no gap of time scales, one or
+  two lags sufficed ([THEORY-tmpdjsgt](../theory.d/THEORY-tmpdjsgt.md), Proposed), with orders tuned by trial
+  and no error bound. Its derivation from Mori–Zwanzig is motivation only.
+- In the linear Gaussian VAR(1) the augmentation is exact and needs only
+  the coarse variable's own history: a scalar coarse variable is ARMA of
+  orders at most (n, n − 1) ([CLAIM-tmp5fx5d](../claims.d/CLAIM-tmp5fx5d.md), demonstrated), though its
+  Mori–Zwanzig kernels are non-zero at every lag. In one example the extra
+  error of truncating to AR(p) fell at a rate set by the moving-average
+  zero, not by the eliminated dynamics' spectrum; three projections gave
+  three memory lengths, as A3 cautioned.
+- Lin and Lu (2019, [LIT-tmpd20t2](../literature.d/LIT-tmpd20t2.md), [NOTE-tmpqnsb1](../notes.d/NOTE-tmpqnsb1.md)) prove the discrete
+  Mori–Zwanzig identity exactly for any projection, and, for the Wiener
+  projection onto the whole past of the resolved variables under a
+  measure-preserving invertible map, that the memory term vanishes and the
+  next state is a causal Wiener filter of the past ([THEORY-tmpgukcy](../theory.d/THEORY-tmpgukcy.md),
+  Active). Their step to NARMAX is a heuristic rational approximation
+  with no error bound. In the linear Gaussian VAR(1) the filter is exactly
+  rational, and its pole, the moving-average zero, sets the truncation
+  rate. Mori's memory for a scalar variable is fixed by its own
+  autocovariance and has Hankel rank one less than it ([CLAIM-tmp511ss](../claims.d/CLAIM-tmp511ss.md)).
+  So every stationary variable has an own-history representation in
+  second order; having one marks nothing. What can mark a level is that
+  the micro past does not predict the residual ([THEORY-257](../theory.d/THEORY-257.md)'s test), or that
+  the representation is finite.
 
 ## What would count as an answer
 

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpj32n2
 title: 'For a linear system x(t+1) = Ax and a partition of its variables, the vector of block sums evolves autonomously from every initial state iff the partition is column-equitable, every column of each block of A summing to the same value; the aggregate operator then keeps a subset of A''s eigenvalues, and the blocks may interact as strongly as they like, so exact aggregation is not decomposition'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -15,6 +15,10 @@ history:
     meets the condition for Active under ADR-047 v2. The example that the
     blocks may interact strongly, and the identification with THEORY-733,
     are the record's.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Connections gain strong lumpability (THEORY-tmpz4ja2, from the reading of Rosas et al.). The account is unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -119,3 +123,6 @@ single fixed state. For all states, it reduces to column sums alone.
 - **[CLAIM-157](../claims.d/CLAIM-157.md) and [THEORY-661](THEORY-661.md).** Equitability is a symmetry condition and
   near-decomposability a weak-coupling one. They select different
   partitions, and only the second is a block.
+- **[THEORY-tmpz4ja2](THEORY-tmpz4ja2.md).** For a Markov chain, this condition applied to Pᵀ
+  is Kemeny and Snell's strong lumpability, and it makes the block label
+  exactly dynamically independent in Barnett and Seth's sense.

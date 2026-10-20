@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpfgy3y
 paper: LIT-141
 title: 'McKenzie — Emergence from physics to computer science'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-26'
@@ -20,6 +20,11 @@ history:
     captions and surrounding text were read.). Upgraded from `Skimmed` to
     `Read`: the claims table, assumptions and results are new, and the skim
     is corrected where the full text disagreed.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Rosas et al. 2024, which this note called not held, is now read
+    (NOTE-tmpvlpd4). The reading is unchanged.
 date: '2026-09-26'
 summary: >-
   Sole-authored survey by a condensed-matter physicist. It takes novelty
@@ -96,7 +101,7 @@ This is a survey, so the results are its argued conclusions and demonstrations:
 
 ## Connections
 
-The book is cited by Rizi ([LIT-150](../literature.d/LIT-150.md), x30), whose coarse-graining view it overlaps but does not share. McKenzie's mark is novelty relative to parts; Rizi's is predictive many-to-one maps. §14's causal-emergence review covers the Hoel effective-information and Rosas PID frameworks that the record holds through Varley & Hoel ([LIT-027](../literature.d/LIT-027.md)) and Mediano et al. ([LIT-025](../literature.d/LIT-025.md)). The book's §2.12 closure notions are from Rosas et al.'s 2024 "Software in the natural world", which is not held. The AdS/CFT discussion (§12) quotes Crowther that neither dual side should be called emergent. That is the position De Haro & Butterfield ([LIT-199](../literature.d/LIT-199.md)) develop and Le Bihan ([LIT-113](../literature.d/LIT-113.md)) discusses. The biology sections (§18) touch the extended-synthesis debate. Noble's "biological relativity" (no privileged causal level) and Ball's "causal spreading" are close to the organism-centred views of Baedke ([LIT-167](../literature.d/LIT-167.md), [LIT-110](../literature.d/LIT-110.md)), and to exactly the interlevel-causation question Hazelwood ([LIT-156](../literature.d/LIT-156.md)) presses. McKenzie reports Noble's upward and downward causation without engaging the exclusion or composition worry.
+The book is cited by Rizi ([LIT-150](../literature.d/LIT-150.md), x30), whose coarse-graining view it overlaps but does not share. McKenzie's mark is novelty relative to parts; Rizi's is predictive many-to-one maps. §14's causal-emergence review covers the Hoel effective-information and Rosas PID frameworks that the record holds through Varley & Hoel ([LIT-027](../literature.d/LIT-027.md)) and Mediano et al. ([LIT-025](../literature.d/LIT-025.md)). The book's §2.12 closure notions are from Rosas et al.'s 2024 "Software in the natural world", since read ([LIT-tmpcw129](../literature.d/LIT-tmpcw129.md), [NOTE-tmpvlpd4](NOTE-tmpvlpd4.md)). The AdS/CFT discussion (§12) quotes Crowther that neither dual side should be called emergent. That is the position De Haro & Butterfield ([LIT-199](../literature.d/LIT-199.md)) develop and Le Bihan ([LIT-113](../literature.d/LIT-113.md)) discusses. The biology sections (§18) touch the extended-synthesis debate. Noble's "biological relativity" (no privileged causal level) and Ball's "causal spreading" are close to the organism-centred views of Baedke ([LIT-167](../literature.d/LIT-167.md), [LIT-110](../literature.d/LIT-110.md)), and to exactly the interlevel-causation question Hazelwood ([LIT-156](../literature.d/LIT-156.md)) presses. McKenzie reports Noble's upward and downward causation without engaging the exclusion or composition worry.
 
 **Metaphysical thesis.** The book defends a stratified, pluralist ontology. Each stratum has "a distinct ontology (what is real)". Quasiparticles, and by parity share values, are real. No level is privileged or "more fundamental". This is combined with weak emergence (§22) and a rejection of strong emergence from chemistry (§15). It presupposes that novelty relative to parts is an objective feature of systems. These are theses about levels, reality and fundamentality, so the `metaphysics` tag is **justified**. The book states them from a physicist's side and explicitly defers "the philosophical questions" (§24 "Open questions").
 

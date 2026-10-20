@@ -1,21 +1,10 @@
 ---
 number: 771
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5mn7l
-promote_when: >-
-  A step-by-step re-derivation, recorded in the record, of the two steps the
-  paper only sketches: the contraction robustness bound (Lemma 1: a
-  β, χ-contracting system under a disturbance d stays within
-  χR(0)e^{−βt} + χ‖d‖/β of the undisturbed one, proved along a path of
-  virtual displacements in a state- and time-dependent metric), and the
-  passage from an arbitrary initial fast state to an O(ε) one within
-  log(1/ε)/β_f (Lemma 4), with the constants written out; or a reading of a
-  published proof of both, such as Del Vecchio and Slotine (IEEE TAC 2013),
-  the source the paper builds on. A numerical check of more examples is not
-  that kind of result.
 title: 'In a singularly perturbed system, fast states x̃ with dx̃/dt = f̃(x̃, y) + ε·δf and slow states y with dy/dt = ε·ḡ(y) + ε·δg, if f̃ is contracting in x̃ at rate β_f with x̃ = 0 an equilibrium for every y, ḡ is contracting at rate β_g, and |δf| ≤ d_f + α_f,x|x̃| + α_f,y|y|, |δg| ≤ d_g + α_g,x|x̃|, then for every ε below ε_c = β_f / [χ_f(α_f,x + χ_g α_f,y α_g,x / β_g)] the fast states stay within O(ε) of zero and, when d_g = 0, the slow states within O(ε) of the reduced trajectory, uniformly in time after a transient of order (1/β_f + 1/(εβ_g)) log(1/ε)'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-20'
@@ -43,6 +32,17 @@ history:
     state, confirming that d_g = 0 is needed. The promote_when condition
     appears to be met. The entry stays Proposed until the promotion audit
     checks R2 and R5. The account is unchanged.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Promoted Active at the owner's direction, carrying out the promotion
+    audit's decision (record/promotion-audit/decisions/THEORY-771.yaml).
+    The promote_when asked for step-by-step re-derivations of Lemma 1 in a
+    state- and time-dependent metric and of the passage to O(ε) from an
+    arbitrary fast state. Both are recorded in the decision file (R2 and R5
+    of NOTE-1020), so the condition is met under ADR-047 v2. Lemma 4 is
+    bypassed, not repaired. "What this does not say" gains the two
+    precisions R2 makes explicit.
 tags:
 - complex-systems
 - mathematics
@@ -156,6 +156,11 @@ reduced slow system is what makes it uniform.
   column of each block summing to zero in continuous time: the
   equal-column-sum condition of [CLAIM-386](../claims.d/CLAIM-386.md) and [THEORY-755](THEORY-755.md). Neither the
   coordinates nor the blocks are found.
+- **Not with a pointwise condition number.** χ is the largest singular
+  value of the metric anywhere over the smallest anywhere; the supremum of
+  the pointwise condition numbers can be smaller and does not suffice. A
+  metric that depends on y must certify contraction along every admissible
+  path of y ([NOTE-1020](../notes.d/NOTE-1020.md), R2).
 - **Not a necessary condition.** ε_c guarantees; it does not mark where the
   approximation fails.
 - **Not that the reduced system is stable whenever the modules are.**
