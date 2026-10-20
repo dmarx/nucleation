@@ -104,3 +104,5 @@ ownership–agency distinction of Gallagher ([LIT-453](LIT-453.md)) and Haggard
 with no agency at stake; and on the precision-weighted multisensory
 accounts in the record ([LIT-1181](LIT-1181.md)), whose reconciliation of conflicting
 senses it is an early behavioural instance of. The NOTE sets this out.
+
+Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Lenggenhager et al. 2007, the full-body illusion ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)); Blanke & Metzinger 2009, minimal phenomenal selfhood ([LIT-tmpnbv1d](LIT-tmpnbv1d.md)); Apps & Tsakiris 2014, the free-energy self ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)); Seth 2013, interoceptive inference ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)).

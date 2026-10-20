@@ -112,3 +112,5 @@ request assumed. It is a theoretical review: it reports no data
 and no model, and its case is that the account fits the findings, not that
 the findings require it. Its relations to the record are set out in the
 NOTE.
+
+Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Botvinick & Cohen 1998, the rubber hand illusion ([LIT-tmpu9yys](LIT-tmpu9yys.md)); Lenggenhager et al. 2007, the full-body illusion ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)); Blanke & Metzinger 2009, minimal phenomenal selfhood ([LIT-tmpnbv1d](LIT-tmpnbv1d.md)); Seth 2013, interoceptive inference ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)).

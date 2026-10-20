@@ -121,3 +121,5 @@ weakest: the evidence is from adults whose agency was intact, and
 [NOTE-tmplqqpe](../notes.d/NOTE-tmplqqpe.md) says what it does and does not show.
 It carries no instruction for machine-learning practice; its remark on
 artificial systems is a conceptual possibility, not a practice.
+
+Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Botvinick & Cohen 1998, the rubber hand illusion ([LIT-tmpu9yys](LIT-tmpu9yys.md)); Lenggenhager et al. 2007, the full-body illusion ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)); Apps & Tsakiris 2014, the free-energy self ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)); Seth 2013, interoceptive inference ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)).

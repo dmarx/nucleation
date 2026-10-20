@@ -126,3 +126,5 @@ Where it meets the record, set out in the NOTE:
   layer.
 - **Active inference** ([LIT-1181](LIT-1181.md), [NOTE-960](../notes.d/NOTE-960.md)). It carries Friston's
   account of motor control to autonomic control.
+
+Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Botvinick & Cohen 1998, the rubber hand illusion ([LIT-tmpu9yys](LIT-tmpu9yys.md)); Lenggenhager et al. 2007, the full-body illusion ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)); Blanke & Metzinger 2009, minimal phenomenal selfhood ([LIT-tmpnbv1d](LIT-tmpnbv1d.md)); Apps & Tsakiris 2014, the free-energy self ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)).
