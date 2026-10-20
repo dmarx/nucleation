@@ -34,7 +34,6 @@ summary: >-
 answers:
 - QUESTION-025
 ---
-<!-- inactive-ok-file: THEORY-117 — Proposed; the accounts this one is set beside -->
 
 # THEORY-292: In CNN image classifiers, concept directions fitted one concept at a time align for attributes that co-occur in the labels, yet a joint fit finds mutually orthogonal directions that still separate each concept with little loss of AUROC, so the alignment is a property of the separate fits and not forced by the representation
 
