@@ -1,5 +1,8 @@
 ---
+number: 396
 status: Proposed
+formerly:
+- CLAIM-tmp3gd3i
 title: 'Directional information measures between reciprocally coupled units follow the path of a one-sided drive rather than the symmetry of the coupling, so the observed direction of information flow does not by itself reveal which way, or whether both ways, the units are coupled'
 version: 1
 role: thesis
@@ -29,7 +32,7 @@ summary: >-
 
 <!-- inactive-ok-file: CLAIM-172 CLAIM-167 — Proposed; the architecture claims this one qualifies, open -->
 
-# CLAIM-tmp3gd3i: Directional information measures between reciprocally coupled units follow the path of a one-sided drive rather than the symmetry of the coupling, so the observed direction of information flow does not by itself reveal which way, or whether both ways, the units are coupled
+# CLAIM-396: Directional information measures between reciprocally coupled units follow the path of a one-sided drive rather than the symmetry of the coupling, so the observed direction of information flow does not by itself reveal which way, or whether both ways, the units are coupled
 
 ## The claim
 

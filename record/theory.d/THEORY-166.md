@@ -22,7 +22,7 @@ history:
     067). The wider claim this entry's narrowing dropped, the general law
     that question-order effects leave the agreement probability unchanged,
     which the source proposes beyond the surveys it tested, is now carried
-    by THEORY-tmpcwkzh, which extends this entry. Status and title are
+    by THEORY-796, which extends this entry. Status and title are
     unchanged.
 tags:
 - cognition
@@ -47,11 +47,11 @@ summary: >-
 supports:
 - CLAIM-041
 extended_by:
-- THEORY-tmpcwkzh
+- THEORY-796
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; named as the neighbouring account this one is consistent with -->
-<!-- inactive-ok-file: THEORY-tmpcwkzh — Proposed; the general law this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
+<!-- inactive-ok-file: THEORY-796 — Proposed; the general law this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-166: In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions, question order changed the answers but not the probability of giving the same answer to both, the equality a Lüders projection model predicts for any projectors; a classical model with order events can meet the same equality, so the regularity does not by itself favour quantum over classical probability
 
@@ -136,5 +136,5 @@ tables occur; it does not by itself require noncommuting operations.
 
 Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
 Proposed entry, so that evidence can later confirm or reject it as a
-thesis. [THEORY-tmpcwkzh](THEORY-tmpcwkzh.md) carries the general law that question-order effects leave the agreement probability unchanged, which the source proposes beyond the surveys it tested. It extends this entry, whose
+thesis. [THEORY-796](THEORY-796.md) carries the general law that question-order effects leave the agreement probability unchanged, which the source proposes beyond the surveys it tested. It extends this entry, whose
 measured or derived content is its evidence. Nothing here changes.

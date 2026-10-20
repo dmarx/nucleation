@@ -27,7 +27,7 @@ history:
     067). The wider claim this entry's narrowing dropped, the proposal
     that trained networks themselves follow the renormalized central-path
     dynamics to neural collapse, which rests on the unmeasured assumption
-    A3, is now carried by THEORY-tmpdzmf1, which extends this entry.
+    A3, is now carried by THEORY-797, which extends this entry.
     Status and title are unchanged.
 tags:
 - learning-theory
@@ -49,10 +49,10 @@ summary: >-
   follow. Not shown: that ordinary training is this flow, or anything for
   cross-entropy or with weight decay.
 extended_by:
-- THEORY-tmpdzmf1
+- THEORY-797
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
-<!-- inactive-ok-file: THEORY-tmpdzmf1 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
+<!-- inactive-ok-file: THEORY-797 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-278: Under MSE loss, in Han, Papyan and Donoho's VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse
 
@@ -174,5 +174,5 @@ training and persists into TPT".
 
 Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
 Proposed entry, so that evidence can later confirm or reject it as a
-thesis. [THEORY-tmpdzmf1](THEORY-tmpdzmf1.md) carries the proposal that trained networks themselves follow the renormalized central-path dynamics to neural collapse, which rests on the unmeasured assumption A3. It extends this entry, whose
+thesis. [THEORY-797](THEORY-797.md) carries the proposal that trained networks themselves follow the renormalized central-path dynamics to neural collapse, which rests on the unmeasured assumption A3. It extends this entry, whose
 measured or derived content is its evidence. Nothing here changes.

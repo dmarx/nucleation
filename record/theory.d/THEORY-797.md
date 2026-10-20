@@ -1,5 +1,8 @@
 ---
+number: 797
 status: Proposed
+formerly:
+- THEORY-tmpdzmf1
 promote_when: >-
   A measurement in trained networks that the model's dynamics are the ones
   training follows. Track the singular values ω_j of Σ_W^(−1/2)M̃ through
@@ -35,7 +38,7 @@ summary: >-
   decay, which the derivation excludes.
 ---
 
-# THEORY-tmpdzmf1: Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose
+# THEORY-797: Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose
 
 ## Source
 

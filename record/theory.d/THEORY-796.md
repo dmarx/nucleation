@@ -1,5 +1,8 @@
 ---
+number: 796
 status: Proposed
+formerly:
+- THEORY-tmpcwkzh
 promote_when: >-
   A test of the equality on question pairs chosen before the data were seen,
   by investigators other than its proposers, with the per-pair tables
@@ -31,7 +34,7 @@ summary: >-
   itself favour quantum probability.
 ---
 
-# THEORY-tmpcwkzh: Question-order effects in surveys generally leave the probability of giving the same answer to both questions unchanged, the QQ equality that a projection model of judgment predicts, as Wang, Solloway, Shiffrin and Busemeyer propose
+# THEORY-796: Question-order effects in surveys generally leave the probability of giving the same answer to both questions unchanged, the QQ equality that a projection model of judgment predicts, as Wang, Solloway, Shiffrin and Busemeyer propose
 
 ## Source
 

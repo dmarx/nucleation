@@ -30,7 +30,7 @@ history:
     measures between reciprocally coupled units follow a one-sided drive
     and not the coupling. The source makes no general claim, so it is
     filed as the record's own interpretive claim, is now carried by
-    CLAIM-tmp3gd3i, which names this entry in its grounds. Status and
+    CLAIM-396, which names this entry in its grounds. Status and
     title are unchanged.
 tags:
 - information-theory
@@ -53,10 +53,10 @@ summary: >-
   claim that the measures reveal coupling architecture. Whether the
   same holds in other reciprocally coupled systems is QUESTION-186.
 supports:
-- CLAIM-tmp3gd3i
+- CLAIM-396
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-167 THEORY-129 — Proposed; the architecture claims this account qualifies and the shared-cue account set beside it, open -->
-<!-- inactive-ok-file: CLAIM-tmp3gd3i — Proposed; the record's generalization this entry's narrowing dropped, filed apart under ADR-047 v4 with this entry in its grounds -->
+<!-- inactive-ok-file: CLAIM-396 — Proposed; the record's generalization this entry's narrowing dropped, filed apart under ADR-047 v4 with this entry in its grounds -->
 
 # THEORY-275: In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only
 
@@ -168,7 +168,7 @@ c_xy(τ)² − c_yx(τ)², computable from the stationary covariance.
 
 Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
 Proposed entry, so that evidence can later confirm or reject it as a
-thesis. [CLAIM-tmp3gd3i](../claims.d/CLAIM-tmp3gd3i.md) carries the generalization beyond this system, that
+thesis. [CLAIM-396](../claims.d/CLAIM-396.md) carries the generalization beyond this system, that
 directional information measures between reciprocally coupled units follow
 a one-sided drive and not the coupling. The source makes no general claim,
 so it is filed as the record's own interpretive claim. It names this entry

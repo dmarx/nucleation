@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**486 documents cited without acknowledgement.** Not listed: 10142 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**486 documents cited without acknowledgement.** Not listed: 10157 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2331,7 +2331,7 @@ Durable authority among an organization's processes need not be a primitive: tru
 
 A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts
 
-5 citations in 3 files await a look; 23 other citations of it are acknowledged.
+5 citations in 3 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-102.md:56`](../../record/cases.d/CASE-102.md)
 - [`record/claims.d/CLAIM-329.md:41`](../../record/claims.d/CLAIM-329.md)
@@ -3056,7 +3056,7 @@ A combined form constituted by mutual entrainment is not thereby a self in the s
 
 Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
 
-3 citations in 1 file await a look; 42 other citations of it are acknowledged.
+3 citations in 1 file await a look; 43 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:31`](../../record/questions.d/QUESTION-063.md)
@@ -3800,7 +3800,7 @@ Mindfulness integrates a population of interests by changing which of them may a
 
 One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership
 
-2 citations in 1 file await a look; 27 other citations of it are acknowledged.
+2 citations in 1 file await a look; 28 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:31`](../../record/questions.d/QUESTION-063.md)
@@ -4538,7 +4538,7 @@ In a two-layer linear network trained by gradient flow, the relative scale of th
 
 Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning
 
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
+2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-111.md:27`](../../record/cases.d/CASE-111.md)
 - [`record/cases.d/CASE-111.md:111`](../../record/cases.d/CASE-111.md)

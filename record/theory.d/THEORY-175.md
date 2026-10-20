@@ -23,7 +23,7 @@ history:
     067). The wider claim this entry's narrowing dropped, the hypothesis
     that independently trained latent spaces differ mainly by an
     angle-preserving map, which the source assumes and tests only through
-    its consequences, is now carried by THEORY-tmpphsfd, which extends
+    its consequences, is now carried by THEORY-798, which extends
     this entry. Status and title are unchanged.
 tags:
 - representation-learning
@@ -46,10 +46,10 @@ supports:
 - CLAIM-126
 - CLAIM-082
 extended_by:
-- THEORY-tmpphsfd
+- THEORY-798
 ---
 <!-- inactive-ok-file: THEORY-008 THEORY-112 — Proposed; cited as the kernel and symmetry accounts this one sits beside -->
-<!-- inactive-ok-file: THEORY-tmpphsfd — Proposed; the wider hypothesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
+<!-- inactive-ok-file: THEORY-798 — Proposed; the wider hypothesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-175: Cosine similarities to matched anchor points are unchanged by exactly the maps that preserve each sample's cosines to the anchors, among them every orthogonal map times a positive scalar and every per-sample positive rescaling but not translations; in Moschella et al.'s experiments independently trained encoders agreed in them only approximately, enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differed
 
@@ -156,5 +156,5 @@ rather than listing it.
 
 Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
 Proposed entry, so that evidence can later confirm or reject it as a
-thesis. [THEORY-tmpphsfd](THEORY-tmpphsfd.md) carries the hypothesis that independently trained latent spaces differ mainly by an angle-preserving map, which the source assumes and tests only through its consequences. It extends this entry, whose
+thesis. [THEORY-798](THEORY-798.md) carries the hypothesis that independently trained latent spaces differ mainly by an angle-preserving map, which the source assumes and tests only through its consequences. It extends this entry, whose
 measured or derived content is its evidence. Nothing here changes.

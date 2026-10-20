@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**739 document(s) awaiting a decision.**
+**744 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 739.
+92 of the 744.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-415 of the 739.
+419 of the 744.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -250,7 +250,7 @@
 | 2026-10-13 | Proposed | [THEORY-209](../../record/theory.d/THEORY-209.md) | 36 | 9 | A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size |
 | 2026-10-13 | Proposed | [THEORY-210](../../record/theory.d/THEORY-210.md) | 21 | 3 | Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss |
 | 2026-10-13 | Proposed | [THEORY-212](../../record/theory.d/THEORY-212.md) | 14 | 2 | In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic |
-| 2026-10-13 | Proposed | [THEORY-214](../../record/theory.d/THEORY-214.md) | 12 | 2 | Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning |
+| 2026-10-13 | Proposed | [THEORY-214](../../record/theory.d/THEORY-214.md) | 13 | 2 | Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning |
 | 2026-10-13 | Proposed | [THEORY-218](../../record/theory.d/THEORY-218.md) | 11 | 2 | The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated |
 | 2026-10-13 | Proposed | [THEORY-220](../../record/theory.d/THEORY-220.md) | 11 | 6 | A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights |
 | 2026-10-13 | Proposed | [THEORY-217](../../record/theory.d/THEORY-217.md) | 7 | 3 | A trait malfunctions when its operation does not correlate positively with the normative field, the minimum change its organization's viability requires at each precarious state; malfunction needs no second order of regulatory norms, and regulatory traits can malfunction by the same standard |
@@ -526,11 +526,15 @@
 | 2026-10-20 | Proposed | [THEORY-792](../../record/theory.d/THEORY-792.md) | 2 | 0 | In a deep linear network trained by gradient descent from generic initial weights, not only from decoupled ones, depth slows learning through the initial end-to-end strength of each mode, so that random orthogonal weights, whose product is an isometry, learn in a number of iterations that stays bounded as depth grows, as Saxe, McClelland and Ganguli argue from simulation |
 | 2026-10-20 | Proposed | [THEORY-793](../../record/theory.d/THEORY-793.md) | 2 | 0 | Gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model, from generic small initialization and not only from initialization aligned with the eigenvectors, learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time in order of eigenvalue and ends at a top spectral solution, as Simon and coauthors derive informally |
 | 2026-10-20 | Proposed | [THEORY-794](../../record/theory.d/THEORY-794.md) | 2 | 0 | In vision models, compositional generalization to unseen combinations of concepts is driven by the diversity of the combinations seen in training rather than by data volume, and arrives with representations that are linearly factored by concept, as Uselis, Dittadi and Oh propose |
+| 2026-10-20 | Proposed | [THEORY-795](../../record/theory.d/THEORY-795.md) | 2 | 0 | On a contested shared canvas, the artworks that last are those whose coalitions keep repairing them under continual overwriting, not those left unattacked, as Wu and Silva propose from the 2017 r/place lifecycles |
+| 2026-10-20 | Proposed | [THEORY-796](../../record/theory.d/THEORY-796.md) | 2 | 0 | Question-order effects in surveys generally leave the probability of giving the same answer to both questions unchanged, the QQ equality that a projection model of judgment predicts, as Wang, Solloway, Shiffrin and Busemeyer propose |
+| 2026-10-20 | Proposed | [THEORY-797](../../record/theory.d/THEORY-797.md) | 2 | 0 | Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose |
+| 2026-10-20 | Proposed | [THEORY-798](../../record/theory.d/THEORY-798.md) | 2 | 0 | Independently trained neural encoders of the same data learn latent spaces that differ mainly by an angle-preserving map, a rotation or reflection times a rescaling, so their cosine similarities to shared anchor samples agree across seeds, architectures and languages, as Moschella et al. propose |
 | 2026-10-20 | Proposed | [THEORY-781](../../record/theory.d/THEORY-781.md) | 1 | 0 | Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes |
 
 ## ADRs
 
-2 of the 739.
+2 of the 744.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -539,7 +543,7 @@
 
 ## QUESTIONs
 
-9 of the 739.
+9 of the 744.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -555,7 +559,7 @@
 
 ## CLAIMs
 
-216 of the 739.
+217 of the 744.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -663,10 +667,10 @@
 | 2026-10-10 | Proposed | [CLAIM-216](../../record/claims.d/CLAIM-216.md) | 2 | 0 | A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another |
 | 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 124 | 17 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
 | 2026-10-11 | Proposed | [CLAIM-174](../../record/claims.d/CLAIM-174.md) | 53 | 8 | A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization |
+| 2026-10-11 | Proposed | [CLAIM-172](../../record/claims.d/CLAIM-172.md) | 46 | 3 | Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture |
 | 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 45 | 3 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
-| 2026-10-11 | Proposed | [CLAIM-172](../../record/claims.d/CLAIM-172.md) | 45 | 3 | Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture |
 | 2026-10-11 | Proposed | [CLAIM-186](../../record/claims.d/CLAIM-186.md) | 32 | 3 | How fast an argument grows sets how it grows: drift tracks how fast new material arrives relative to how fast it is anchored, so a fast, prolific exchange branches, as a crystal grown far from equilibrium does, and a project memory stabilizes an argument by keeping anchoring up with arrival |
-| 2026-10-11 | Proposed | [CLAIM-167](../../record/claims.d/CLAIM-167.md) | 29 | 2 | One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership |
+| 2026-10-11 | Proposed | [CLAIM-167](../../record/claims.d/CLAIM-167.md) | 30 | 2 | One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership |
 | 2026-10-11 | Proposed | [CLAIM-185](../../record/claims.d/CLAIM-185.md) | 26 | 0 | The nucleation threshold of an argument is whatever makes a structure persist: a persistent structure is available as an anchor, and more complex structure can evolve only on anchors |
 | 2026-10-11 | Proposed | [CLAIM-179](../../record/claims.d/CLAIM-179.md) | 23 | 2 | When an agent does the filing, the cost of capturing argument falls on the party that would otherwise pay to re-derive it, which removes the disparity that design-rationale systems were abandoned over |
 | 2026-10-11 | Proposed | [CLAIM-176](../../record/claims.d/CLAIM-176.md) | 22 | 0 | Recurrence is the trigger of persistence this record is built around: coding a thing the second time it turns up captures exactly the drift that defeats an argument, and keeps capture from flooding the record |
@@ -710,8 +714,8 @@
 | 2026-10-12 | Proposed | [CLAIM-251](../../record/claims.d/CLAIM-251.md) | 2 | 0 | A change in which questions a receiver population can answer determinately is not by itself a change of cover in the sheaf sense: the cover belongs to the measurement scenario and the responses are an empirical model on it, so such a change is a change of empirical model, which can create or remove a gluing obstruction on a fixed cover but does not change what the cover is, and the operational notion needs its own name until a functorial link is shown |
 | 2026-10-12 | Proposed | [CLAIM-262](../../record/claims.d/CLAIM-262.md) | 1 | 1 | Whether an agent's regimes are coordinated by discrete switches or by continuous reorganization depends on how the agent is constituted; both occur |
 | 2026-10-13 | Proposed | [CLAIM-288](../../record/claims.d/CLAIM-288.md) | 45 | 4 | A simulation whose operators each maximize an objective the modeller fixed cannot show self-constitution, because the norms the organization appears to maintain are then the modeller's, not set by the organization itself |
+| 2026-10-13 | Proposed | [CLAIM-280](../../record/claims.d/CLAIM-280.md) | 30 | 5 | A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts |
 | 2026-10-13 | Proposed | [CLAIM-284](../../record/claims.d/CLAIM-284.md) | 29 | 0 | A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists |
-| 2026-10-13 | Proposed | [CLAIM-280](../../record/claims.d/CLAIM-280.md) | 28 | 5 | A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts |
 | 2026-10-13 | Proposed | [CLAIM-277](../../record/claims.d/CLAIM-277.md) | 25 | 5 | Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early |
 | 2026-10-13 | Proposed | [CLAIM-285](../../record/claims.d/CLAIM-285.md) | 23 | 0 | An endorsement scheme that denies each operator control over its own authority can make delegation do work: rewarded for how far their preferred policies are realized and not for authority held, operators delegate to aligned others, and the two conditions need not be confined to one-hop allocation |
 | 2026-10-13 | Proposed | [CLAIM-279](../../record/claims.d/CLAIM-279.md) | 20 | 2 | Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator |
@@ -774,11 +778,12 @@
 | 2026-10-18 | Proposed | [CLAIM-360](../../record/claims.d/CLAIM-360.md) | 3 | 1 | The deep-versus-shallow learning results separate three effects that aggregate loss conflates: a larger realizable function class, a larger set reachable within a fixed data and compute budget, and a different internal organization with the same attainable outcomes; the deep linear results show the third, the random-hierarchy results the second, and the depth-separation result for products of inputs the first, at fixed size |
 | 2026-10-18 | Proposed | [CLAIM-353](../../record/claims.d/CLAIM-353.md) | 2 | 1 | A will-organization that gives two operators decisive jurisdiction over a pair of options each, respects unanimous preference and admits any profile of operator rankings cannot always choose, and unlike Arrow's impossibility this is not escaped by giving endorsement richer, cardinal or comparable, information, so what distributed governance must give up is jurisdiction, unanimity or the domain, not an informational restriction |
 | 2026-10-18 | Proposed | [CLAIM-344](../../record/claims.d/CLAIM-344.md) | 1 | 1 | Resolve is a maintained organization of precedence, commitment and revision that keeps a temporally extended policy effective across changes in locally dominant evaluations while keeping the capacity to revise it; mere slowness or persistence is not resolve |
+| 2026-10-20 | Proposed | [CLAIM-396](../../record/claims.d/CLAIM-396.md) | 2 | 0 | Directional information measures between reciprocally coupled units follow the path of a one-sided drive rather than the symmetry of the coupling, so the observed direction of information flow does not by itself reveal which way, or whether both ways, the units are coupled |
 | 2026-10-20 | Proposed | [CLAIM-393](../../record/claims.d/CLAIM-393.md) | 0 | 0 | Ordinary and legal attributions of agency to an artifact cannot serve as the independent marks that would defeat the record's agency test, because they turn on whether its mechanism is understood: a known mechanism invites "This is all just programmed!", an inscrutable one invites fear, whatever the description lengths |
 
 ## CASEs
 
-1 of the 739.
+1 of the 744.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -786,7 +791,7 @@
 
 ## TERMs
 
-2 of the 739.
+2 of the 744.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -795,7 +800,7 @@
 
 ## ARGs
 
-2 of the 739.
+2 of the 744.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

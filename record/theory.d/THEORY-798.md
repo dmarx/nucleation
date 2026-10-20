@@ -1,5 +1,8 @@
 ---
+number: 798
 status: Proposed
+formerly:
+- THEORY-tmpphsfd
 promote_when: >-
   A direct measurement of the maps between independently trained latent
   spaces, on the encoders and data where anchor-based transfer has been
@@ -32,7 +35,7 @@ summary: >-
   consequences; it never fits a map between two spaces.
 ---
 
-# THEORY-tmpphsfd: Independently trained neural encoders of the same data learn latent spaces that differ mainly by an angle-preserving map, a rotation or reflection times a rescaling, so their cosine similarities to shared anchor samples agree across seeds, architectures and languages, as Moschella et al. propose
+# THEORY-798: Independently trained neural encoders of the same data learn latent spaces that differ mainly by an angle-preserving map, a rotation or reflection times a rescaling, so their cosine similarities to shared anchor samples agree across seeds, architectures and languages, as Moschella et al. propose
 
 ## Source
 
