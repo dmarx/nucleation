@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**487 documents cited without acknowledgement.** Not listed: 9920 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**488 documents cited without acknowledgement.** Not listed: 10195 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-279 citations in 250 files await a look; 4 other citations of it are acknowledged.
+281 citations in 252 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-273.md:23`](../../record/claims.d/CLAIM-273.md)
 - [`record/literature.d/LIT-026.md:17`](../../record/literature.d/LIT-026.md)
@@ -59,6 +59,8 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/literature.d/LIT-1086.md:44`](../../record/literature.d/LIT-1086.md)
 - [`record/literature.d/LIT-1101.md:37`](../../record/literature.d/LIT-1101.md)
 - [`record/literature.d/LIT-1108.md:41`](../../record/literature.d/LIT-1108.md)
+- [`record/literature.d/LIT-1121.md:20`](../../record/literature.d/LIT-1121.md)
+- [`record/literature.d/LIT-1143.md:20`](../../record/literature.d/LIT-1143.md)
 - [`record/literature.d/LIT-1158.md:19`](../../record/literature.d/LIT-1158.md)
 - [`record/literature.d/LIT-117.md:17`](../../record/literature.d/LIT-117.md)
 - [`record/literature.d/LIT-1179.md:18`](../../record/literature.d/LIT-1179.md)
@@ -867,7 +869,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
-17 citations in 7 files await a look; 105 other citations of it are acknowledged.
+17 citations in 7 files await a look; 107 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:20`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-101.md:56`](../../record/cases.d/CASE-101.md)
@@ -1414,7 +1416,7 @@ Will-organization is not one more higher-order preference: changing the conditio
 
 A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
 
-8 citations in 2 files await a look; 30 other citations of it are acknowledged.
+8 citations in 2 files await a look; 45 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-194.md:43`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:68`](../../record/claims.d/CLAIM-194.md)
@@ -1622,7 +1624,7 @@ Different hidden-state models can produce identical observations, so pragmatic i
 
 A system persists as the same self over an interval when a coherence measure is approximately conserved along its own trajectory, not merely matched by some map between its states
 
-7 citations in 2 files await a look; 12 other citations of it are acknowledged.
+7 citations in 2 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-329.md:14`](../../record/claims.d/CLAIM-329.md)
 - [`record/claims.d/CLAIM-329.md:79`](../../record/claims.d/CLAIM-329.md)
@@ -2353,7 +2355,7 @@ With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk in
 
 A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
 
-5 citations in 4 files await a look; 24 other citations of it are acknowledged.
+5 citations in 4 files await a look; 33 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-102.md:76`](../../record/cases.d/CASE-102.md)
 - [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
@@ -2509,7 +2511,7 @@ In a linearised network with a Gaussian prior on its parameters, the Occam facto
 
 A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
 
-5 citations in 3 files await a look; 6 other citations of it are acknowledged.
+5 citations in 3 files await a look; 9 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-271.md:20`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-271.md:77`](../../record/claims.d/CLAIM-271.md)
@@ -2521,7 +2523,7 @@ A corporation whose Corporate Internal Decision (CID) Structure, an organization
 
 Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many
 
-5 citations in 5 files await a look; 48 other citations of it are acknowledged.
+5 citations in 5 files await a look; 54 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:55`](../../record/cases.d/CASE-101.md)
 - [`record/notes.d/NOTE-945.md:140`](../../record/notes.d/NOTE-945.md)
@@ -2557,7 +2559,7 @@ The Price equation follows from any ancestor–descendant mapping in a closed po
 
 A text's identity across retellings is a family of relations, namely identity of the artifact, continuity of transmission and similarity of communicative function, which is why a distant retelling can be recognizably descended from an original it no longer resembles
 
-4 citations in 3 files await a look; 13 other citations of it are acknowledged.
+4 citations in 3 files await a look; 39 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-328.md:79`](../../record/claims.d/CLAIM-328.md)
 - [`record/decisions.d/ADR-040.md:53`](../../record/decisions.d/ADR-040.md)
@@ -2601,7 +2603,7 @@ A multi-session argument's thesis can move without any participant arguing for t
 
 Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible
 
-4 citations in 4 files await a look; 25 other citations of it are acknowledged.
+4 citations in 4 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-350.md:116`](../../record/claims.d/CLAIM-350.md)
 - [`record/literature.d/LIT-1055.md:81`](../../record/literature.d/LIT-1055.md)
@@ -3014,7 +3016,7 @@ Affective states can be properties of organized systems, characterized functiona
 
 Cross-modal reconstruction often improves a receiver's access to an implicit communicative relation beyond the text-only baseline, as when posture or expression conveys solidarity better than the source text's literal content, though a rendering made without the situation is a garbling and cannot improve what an ideal receiver could do
 
-3 citations in 1 file await a look; 26 other citations of it are acknowledged.
+3 citations in 1 file await a look; 28 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:260`](../../record/decisions.d/ADR-043.md)
 - [`record/decisions.d/ADR-043.md:288`](../../record/decisions.d/ADR-043.md)
@@ -3154,7 +3156,7 @@ In the What Survives Translation? exchange, the manuscript drafted straight from
 
 A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 
-3 citations in 1 file await a look; 16 other citations of it are acknowledged.
+3 citations in 1 file await a look; 19 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
 - [`record/cases.d/CASE-116.md:79`](../../record/cases.d/CASE-116.md)
@@ -3364,7 +3366,7 @@ will, as a second- or higher-order attractor
 
 Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer
 
-3 citations in 1 file await a look; 143 other citations of it are acknowledged.
+3 citations in 1 file await a look; 146 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-048.md:30`](../../record/questions.d/QUESTION-048.md)
 - [`record/questions.d/QUESTION-048.md:52`](../../record/questions.d/QUESTION-048.md)
@@ -3484,7 +3486,7 @@ Coral bleaching is the breakdown of a regulated host–symbiont exchange, reache
 
 A platform that sits between the two sides of a market and can cheaply change how it allocates value tends to decay in three stages, first good to its users, then abusing them to favour its business customers, then abusing both to claw the value back for itself, each stage made possible by the lock-in the one before it built; how far it can go is set by the cost of leaving, so lowering that cost is the remedy
 
-3 citations in 2 files await a look; 4 other citations of it are acknowledged.
+3 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-470.md:29`](../../record/theory.d/THEORY-470.md)
 - [`record/theory.d/THEORY-470.md:97`](../../record/theory.d/THEORY-470.md)
@@ -3672,7 +3674,7 @@ Canguilhem's distinction between functioning under a norm and capacity for norm-
 
 Fidelity is one evaluative goal among adaptation, critique and parody, and a deliberately adaptive translation calls for one-way simulation of the source's relevant possibilities rather than equivalence
 
-2 citations in 1 file await a look; 12 other citations of it are acknowledged.
+2 citations in 1 file await a look; 26 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:52`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:257`](../../record/decisions.d/ADR-040.md)
@@ -3780,7 +3782,7 @@ A communicative kind is identified by an invariant that does not depend on any o
 
 Willed agency is a kind between agency and selfhood: a control system whose behaviour is governed by a will-organization over several regimes is more than an agent and closer to a self, in the self-governing sense, without thereby being a subject
 
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
+2 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-046.md:20`](../../record/questions.d/QUESTION-046.md)
 - [`record/questions.d/QUESTION-046.md:35`](../../record/questions.d/QUESTION-046.md)
@@ -3879,7 +3881,7 @@ Whether an intervention stabilizes or destabilizes a pattern is relative to a po
 
 A loosely organized population can change what an outside institution does through its members' separately motivated acts of making, selecting and passing things on, without forming a collective intention or judgment, when the organized pattern of those acts, and not only the acts of identifiable individuals, earns its place in explaining the change
 
-2 citations in 1 file await a look.
+2 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-119.md:48`](../../record/questions.d/QUESTION-119.md)
 - [`record/questions.d/QUESTION-119.md:66`](../../record/questions.d/QUESTION-119.md)
@@ -4785,7 +4787,7 @@ Interpretive framing operations generally do not commute, and this can be invest
 
 Renderings that share a loose situation model can differ in footing and illocutionary force, so preserving the proposition is neither necessary nor sufficient for preserving the communicative event
 
-1 citation in 1 file awaits a look; 41 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 43 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:259`](../../record/decisions.d/ADR-043.md)
 
@@ -4953,7 +4955,7 @@ Probes and statistical models recover only the distinctions identifiable from th
 
 For a named population of receivers and a stated family of tasks, what survives a translation, retelling or rendering is the set of task-relevant communicative distinctions those receivers can still recover from it, and measured preservation of the pragmatic observables predicts that recovery better than preservation of the wording or of the proposition, with or without its force
 
-1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 33 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-043.md:233`](../../record/decisions.d/ADR-043.md)
 
@@ -5116,6 +5118,14 @@ Neurodiversity & evaluation: a defense (or not) of affective fictionalism
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/decisions.d/ADR-014.md:52`](../../record/decisions.d/ADR-014.md)
+
+### [LIT-1287](../../record/literature.d/LIT-1287.md) — Unavailable
+
+A Maximum-Likelihood Interpretation for Slow Feature Analysis
+
+1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-394.md:80`](../../record/claims.d/CLAIM-394.md)
 
 ### [LIT-129](../../record/literature.d/LIT-129.md) — Unavailable
 
@@ -5513,9 +5523,9 @@ The top C eigenvalues of a trained C-class classifier's Fisher are carried by th
 
 Behavioural capacity does not fix intelligence: a system with the capacity to respond sensibly to every possible input can lack it, so whether behaviour is intelligent, or the mark of any mental property, depends partly on how it is produced
 
-1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-174.md:174`](../../record/claims.d/CLAIM-174.md)
+- [`record/claims.d/CLAIM-174.md:175`](../../record/claims.d/CLAIM-174.md)
 
 ### [THEORY-111](../../record/theory.d/THEORY-111.md) — Proposed
 
@@ -5697,7 +5707,7 @@ Perception is constitutively iconic, nonconceptual and nonpropositional and cogn
 
 Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored
 
-1 citation in 1 file awaits a look.
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-480.md:103`](../../record/theory.d/THEORY-480.md)
 
@@ -5806,21 +5816,26 @@ None. Every scanned file is checked. ✅
 
 - record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now
 - record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
+- record/claims.d/CLAIM-331.md:70: annotation no longer applies — NOTE-1015 is Active now
 - record/claims.d/CLAIM-387.md:36: annotation no longer applies — THEORY-163 is Active now
+- record/claims.d/CLAIM-394.md:38: annotation no longer applies — NOTE-1015 is Active now
 - record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
 - record/literature.d/LIT-1257.md:50: annotation no longer applies — THEORY-202 is Active now
+- record/literature.d/LIT-1289.md:43: annotation no longer applies — NOTE-1013 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-810.md:52: annotation no longer applies — THEORY-155 is Active now
 - record/literature.d/LIT-871.md:80: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-891.md:75: annotation no longer applies — QUESTION-025 is Active now
+- record/notes.d/NOTE-1022.md:45: annotation no longer applies — NOTE-1013 is Active now
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-631.md:34: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/notes.d/NOTE-970.md:41: annotation no longer applies — nothing in scope cites LIT-1252
 - record/notes.d/NOTE-973.md:37: annotation no longer applies — nothing in scope cites THEORY-747
 - record/notes.d/NOTE-984.md:44: annotation no longer applies — nothing in scope cites THEORY-744
+- record/questions.d/QUESTION-217.md:34: annotation no longer applies — CLAIM-394, THEORY-775 is Active now
 - record/questions.d/QUESTION-220.md:33: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
@@ -5833,3 +5848,4 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-299.md:42: annotation no longer applies — QUESTION-148 is Active now
 - record/theory.d/THEORY-301.md:41: annotation no longer applies — THEORY-008 is Active now
 - record/theory.d/THEORY-751.md:50: annotation no longer applies — THEORY-163 is Active now
+- record/theory.d/THEORY-771.md:64: annotation no longer applies — NOTE-1020 is Active now

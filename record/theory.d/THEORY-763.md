@@ -9,7 +9,7 @@ promote_when: >-
   gluing estimates of Sections 9–10 and the convex-integration estimates of
   Section 17, either in this paper or in an independent complete proof of
   the same statement. Buckmaster, De Lellis, Székelyhidi and Vicol
-  (THEORY-tmpnvuqr) prove Hölder non-conservation below 1/3 but need a
+  (THEORY-776) prove Hölder non-conservation below 1/3 but need a
   strictly positive energy, so they do not give compact time support and
   cannot stand in for it. The journal's acceptance, citation
   counts or later work that assumes the theorem do not count. The
@@ -32,7 +32,7 @@ history:
 - version: 2
   date: '2026-10-20'
   note: >-
-    The admissible version is now read (THEORY-tmpnvuqr, Proposed). "What
+    The admissible version is now read (THEORY-776, Proposed). "What
     this does not say" cites it, and promote_when no longer names it as an
     independent proof, since it needs a strictly positive energy and so
     cannot give compact support in time. The account is unchanged.
@@ -56,7 +56,7 @@ summary: >-
   surviving flux takes both signs. Nor does it say that such solutions are
   limits of Navier–Stokes or describe turbulence.
 ---
-<!-- inactive-ok-file: THEORY-tmpnvuqr — Proposed; the admissible version, cited for contrast, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-776 — Proposed; the admissible version, cited for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: NOTE-974 — Skimmed; the partial reading this account rests on -->
 # THEORY-763: For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls
 
@@ -152,7 +152,7 @@ is consistent, and it shows that the threshold is sharp in the exponent.
   solutions are not admissible: their energy rises from zero before it
   falls. Weak solutions with energy that only decreases, at every α < 1/3,
   are a later theorem (Buckmaster, De Lellis, Székelyhidi and Vicol, 2019),
-  filed as [THEORY-tmpnvuqr](THEORY-tmpnvuqr.md) (Proposed). With it, the record can say that
+  filed as [THEORY-776](THEORY-776.md) (Proposed). With it, the record can say that
   energy can cross vanishing scales one way for the whole box; this entry
   alone says only that it can cross in either direction.
 - **Not that all rough solutions transfer energy.** The rough shear flows

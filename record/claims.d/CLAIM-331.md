@@ -29,7 +29,7 @@ history:
 - version: 6
   date: '2026-10-20'
   note: >-
-    The third point of the note of 2026-10-20 adds that probabilistic slow feature analysis assumes slowness in its prior (NOTE-tmp9qf8v). The claim is unchanged.
+    The third point of the note of 2026-10-20 adds that probabilistic slow feature analysis assumes slowness in its prior (NOTE-1015). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,7 +67,7 @@ complements:
 supports:
 - CLAIM-344
 ---
-<!-- inactive-ok-file: NOTE-tmp9qf8v — new reading, cited for what it assumes -->
+<!-- inactive-ok-file: NOTE-1015 — new reading, cited for what it assumes -->
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->
 <!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -199,5 +199,5 @@ names. Neither defeats it.
   reads them back, as in [CASE-116](../cases.d/CASE-116.md) arm A. Hierarchies optimized for slowness
   should not be cited as cases of this claim. The probabilistic readings
   of slow feature analysis put slowness in the prior: a random walk in
-  Schüler and Wiskott ([NOTE-tmp9qf8v](../notes.d/NOTE-tmp9qf8v.md)), an ordered decay in Turner and
+  Schüler and Wiskott ([NOTE-1015](../notes.d/NOTE-1015.md)), an ordered decay in Turner and
   Sahani as that paper reports it. So they are not evidence either.

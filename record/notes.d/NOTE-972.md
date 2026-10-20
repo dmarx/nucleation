@@ -26,7 +26,7 @@ history:
 - version: 2
   date: '2026-10-20'
   note: >-
-    Machta et al. (2013) is now read (LIT-tmps1ffa, NOTE-tmpfc575). The
+    Machta et al. (2013) is now read (LIT-1299, NOTE-1018). The
     λ = d/2 dividing line is credited to its supplement, and the
     description of its diffusion numerics is corrected. The reading is
     unchanged.
@@ -277,7 +277,7 @@ companion visualization paper is Quinn et al. (2017, arXiv:1709.02000).
   (15/8 > 1) and temperature (1 = d/2, logarithmic). Even the marginal
   variance in diffusion contracts. So "relevant ⇔ preserved" holds for
   the examples given, not in general. This paper does not state it;
-  Machta et al. (2013, [LIT-tmps1ffa](../literature.d/LIT-tmps1ffa.md)) did, in their supplement (Eq. 31
+  Machta et al. (2013, [LIT-1299](../literature.d/LIT-1299.md)) did, in their supplement (Eq. 31
   and the text after Eq. 41), and this paper dropped it.
 - **The drift is exactly preserved only at the Gaussian fixed point.** The
   explanation, "the mean drift is given by the two endpoints, unchanged

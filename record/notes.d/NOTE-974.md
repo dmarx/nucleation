@@ -34,7 +34,7 @@ history:
   date: '2026-10-20'
   note: >-
     The admissible version of Buckmaster, De Lellis, Székelyhidi and Vicol
-    is now read (NOTE-tmp18d5h, THEORY-tmpnvuqr); the places that called it
+    is now read (NOTE-1013, THEORY-776); the places that called it
     not held now cite it. The reading is unchanged.
 date: '2026-10-20'
 summary: >-
@@ -50,7 +50,7 @@ summary: >-
   solutions gain energy and then lose it.
 ---
 <!-- inactive-ok-file: THEORY-763 — Proposed; the account this reading files, cited as its outcome -->
-<!-- inactive-ok-file: THEORY-tmpnvuqr — Proposed; the admissible version, cited as the later reading -->
+<!-- inactive-ok-file: THEORY-776 — Proposed; the admissible version, cited as the later reading -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 CLAIM-331 CLAIM-327 — Proposed; entries named as not bearing, open -->
 # NOTE-974: Isett — A proof of Onsager's conjecture
 
@@ -196,8 +196,8 @@ earliest non-uniqueness and non-conservation examples, in L² rather than
 Hölder classes, are Scheffer (1993) and Shnirelman (1997, 2000), and the
 paper suggests its gluing is related to Shnirelman's construction. Later
 work: Buckmaster, De Lellis, Székelyhidi and Vicol (2019) for admissible,
-strictly dissipative solutions below 1/3, since read ([LIT-tmpv4d6t](../literature.d/LIT-tmpv4d6t.md),
-[NOTE-tmp18d5h](NOTE-tmp18d5h.md)).
+strictly dissipative solutions below 1/3, since read ([LIT-1300](../literature.d/LIT-1300.md),
+[NOTE-1013](NOTE-1013.md)).
 
 ## Bearing on the record
 
@@ -217,7 +217,7 @@ strictly dissipative solutions below 1/3, since read ([LIT-tmpv4d6t](../literatu
     goes back in, so they show transfer across vanishing scales, not a
     dissipative cascade. A one-way transfer, for the whole box, is
     Buckmaster, De Lellis, Székelyhidi and Vicol (2019), since read
-    ([THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md)).
+    ([THEORY-776](../theory.d/THEORY-776.md)).
   - *It is not about turbulence.* The solutions are constructed by convex
     integration, start from rest and are non-unique, and nothing ties them
     to vanishing-viscosity limits.
@@ -276,7 +276,7 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 - Are there weak solutions below 1/3 whose energy only decreases, and is
   the surviving flux then one-signed at every time? Buckmaster, De Lellis,
-  Székelyhidi and Vicol (2019) answer the first part yes ([THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md),
+  Székelyhidi and Vicol (2019) answer the first part yes ([THEORY-776](../theory.d/THEORY-776.md),
   Proposed); the second, at every point in space, needs a local energy
   inequality they do not prove.
 - Does any vanishing-viscosity limit of Navier–Stokes fall in this class

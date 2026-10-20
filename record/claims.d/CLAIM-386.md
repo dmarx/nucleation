@@ -34,7 +34,7 @@ summary: >-
   dynamics, one step; the post-transient orders reported below are
   numerical, not part of the claim.
 ---
-<!-- inactive-ok-file: THEORY-tmp5mn7l — Proposed; the estimate the numerical orders rest on, cited for context -->
+<!-- inactive-ok-file: THEORY-771 — Proposed; the estimate the numerical orders rest on, cited for context -->
 
 # CLAIM-386: For x(t+1) = (A* + εC)x with A* block-diagonal, the Simon–Ando aggregate Â = QAV has one-step closure defect exactly QA − ÂQ = QA(I − VQ); the part from the blocks' own dynamics vanishes iff every block has equal column sums, and then the whole defect is ε·QC(I − VQ)
 
@@ -85,7 +85,7 @@ which was not proved here.
 
 The post-transient orders above rested on "the standard estimate that
 post-transient states lie within O(ε) of the slow subspace". Bousquet and
-Slotine's Lemma 3 ([THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md), Proposed) is that estimate in
+Slotine's Lemma 3 ([THEORY-771](../theory.d/THEORY-771.md), Proposed) is that estimate in
 continuous time, under contraction of the fast modules and of the
 reduced slow system: the fast part x̃ stays O(ε) uniformly after a
 transient, so the coupling defect ε·QCx̃ is O(ε²). In continuous time

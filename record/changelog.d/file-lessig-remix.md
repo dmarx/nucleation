@@ -1,6 +1,6 @@
 ### Added
 
-- [LIT-tmpreyek](record/literature.d/LIT-tmpreyek.md) and [NOTE-tmptp3k0](record/notes.d/NOTE-tmptp3k0.md): Lessig's *Remix: Making Art and Commerce
+- [LIT-1298](record/literature.d/LIT-1298.md) and [NOTE-1023](record/notes.d/NOTE-1023.md): Lessig's *Remix: Making Art and Commerce
   Thrive in the Hybrid Economy* (2008), read in full from the CC BY-NC
   Bloomsbury Academic edition. It is the record's first work on remix
   culture.

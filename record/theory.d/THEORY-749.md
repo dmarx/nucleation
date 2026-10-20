@@ -27,7 +27,7 @@ history:
   note: >-
     The summary no longer calls Isett's solutions dissipative or says the
     negative half is unread: it cites THEORY-763 for non-conservation and
-    THEORY-tmpnvuqr for strictly decreasing energy. The account is unchanged.
+    THEORY-776 for strictly decreasing energy. The account is unchanged.
 tags:
 - mathematics
 - natural-sciences
@@ -43,10 +43,10 @@ summary: >-
   regular fields only. It does not show that a flux survives the limit for
   rougher ones: that energy can fail to be conserved below 1/3 is Isett's
   later theorem ([THEORY-763](THEORY-763.md)), that it can strictly decrease is Buckmaster,
-  De Lellis, Székelyhidi and Vicol's (THEORY-tmpnvuqr), both Proposed,
+  De Lellis, Székelyhidi and Vicol's (THEORY-776), both Proposed,
   and some rough solutions conserve energy anyway.
 ---
-<!-- inactive-ok-file: THEORY-763 THEORY-tmpnvuqr — Proposed; the negative half, cited as open -->
+<!-- inactive-ok-file: THEORY-763 THEORY-776 — Proposed; the negative half, cited as open -->
 <!-- inactive-ok-file: LIT-1252 — Unavailable; Eyink 2005, cited for where finer versions of the same estimate are proved, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion named for context, nothing here rests on it -->
 # THEORY-749: A weak solution of the incompressible Euler equations on the periodic box that lies in L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) with α > 1/3 conserves kinetic energy, because the energy flux into scales below a mollification scale ε is bounded by Cε^(3α−1)∫‖u‖³ and so vanishes as ε → 0; this does not show that rougher solutions dissipate

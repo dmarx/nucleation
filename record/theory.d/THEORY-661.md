@@ -28,7 +28,7 @@ history:
   date: '2026-10-20'
   note: >-
     "What could have come out otherwise" cites Bousquet and Slotine
-    (THEORY-tmp5mn7l), and Del Vecchio and Slotine (THEORY-tmpcfuar),
+    (THEORY-771), and Del Vecchio and Slotine (THEORY-773),
     for a first-order rate in ε on trajectory error,
     under contraction, in a different frame. The account is unchanged, and
     still claims no rate for Simon–Ando's own statement.
@@ -52,7 +52,7 @@ supports:
 ---
 <!-- inactive-ok-file: LIT-1127 LIT-1242 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-194 CLAIM-331 THEORY-257 THEORY-265 — Proposed; claims that rest on this result and neighbouring accounts, named for context -->
-<!-- inactive-ok-file: THEORY-tmp5mn7l — Proposed; a rate in a different frame, cited for contrast, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-771 — Proposed; a rate in a different frame, cited for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-173 — Rejected; the objection named for what the theorem does not settle -->
 
 # THEORY-661: In a nearly decomposable system, where interactions within subsystems are much stronger than interactions between them, each subsystem's short-run behaviour is approximately independent of the others', and in the long run each depends on the others only through their aggregate behaviour; so a hierarchy defined by intensity of interaction separates fast dynamics inside its parts from slow, aggregate dynamics between them
@@ -99,11 +99,11 @@ other things".
 could have left no separation of time scales. The theorem says it leaves
 one for ε small enough. The open statement the record holds gives no rate
 in ε ([NOTE-977](../notes.d/NOTE-977.md)), so this entry does not claim one. A rate is
-available in a different frame: Bousquet and Slotine ([THEORY-tmp5mn7l](THEORY-tmp5mn7l.md),
+available in a different frame: Bousquet and Slotine ([THEORY-771](THEORY-771.md),
 Proposed) give a first-order bound in ε on trajectory error, uniform in
 time after a transient, for nonlinear continuous-time systems whose fast
 modules and reduced slow system are contracting and whose slow
-coordinates are given. Del Vecchio and Slotine ([THEORY-tmpcfuar](THEORY-tmpcfuar.md)) give
+coordinates are given. Del Vecchio and Slotine ([THEORY-773](THEORY-773.md)) give
 the same kind of rate for the quasi-steady-state reduction, with explicit
 constants. Neither is Simon and Ando's theorem, and neither bounds
 dependence.

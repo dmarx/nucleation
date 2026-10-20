@@ -20,10 +20,10 @@ history:
 - version: 2
   date: '2026-10-20'
   note: >-
-    Machta et al. (2013) is now read (NOTE-tmpfc575). The λ = d/2 dividing
+    Machta et al. (2013) is now read (NOTE-1018). The λ = d/2 dividing
     line, which this entry called the reader's algebra, is credited to
     their supplement, and the numerics behind Eq. 21 are described and
-    cited (THEORY-tmpzyxwe). The account is unchanged.
+    cited (THEORY-777). The account is unchanged.
 tags:
 - information-geometry
 - natural-sciences
@@ -42,7 +42,7 @@ summary: >-
   the drift loses information.
 ---
 <!-- inactive-ok-file: THEORY-194 THEORY-202 — Proposed; accounts this one is set beside, nothing here rests on their being settled -->
-<!-- inactive-ok-file: THEORY-tmpzyxwe — Proposed; the numerics behind Eq. 21, cited for what they are -->
+<!-- inactive-ok-file: THEORY-777 — Proposed; the numerics behind Eq. 21, cited for what they are -->
 # THEORY-742: For a Boltzmann distribution linear in its couplings, observed through any coarse-graining map, the Fisher information the coarse data lose about the bare couplings is the expected conditional covariance of the energy operators given the coarse state; when the renormalized Hamiltonian stays in the family, the parameter map is linear and the additive constant of the step is analytic, that loss is the constant's Hessian, so the singular part of the metric passes unchanged to the coarse data. In the hopping model of diffusion at its Gaussian fixed point, keeping every n-th position of a trajectory of fixed duration multiplies the metric by n^(1−μ) in the μ-th Hermite coordinate: the drift's information is kept exactly, the variance's falls as 1/n, and higher shape parameters' faster
 
 ## Source
@@ -126,7 +126,7 @@ variance; it is neither.
   diverges. A relevant direction with 0 < λ < d/2, such as the thermal
   direction of a transition with α < 0, would lose information as
   b^{−(d−2λ)} until b reaches ξ. The paper does not state this, but
-  Machta et al. (2013, [LIT-tmps1ffa](../literature.d/LIT-tmps1ffa.md)) do: their supplement says the
+  Machta et al. (2013, [LIT-1299](../literature.d/LIT-1299.md)) do: their supplement says the
   singular part dominates "provided 2y_i − d ≥ 0" and that relevant
   directions with 0 < 2y < d contract. This paper dropped it. The diffusion example
   agrees with it: the drift, kept exactly, has λ = 1/2 = d/2.
@@ -141,7 +141,7 @@ variance; it is neither.
 - **Not that irrelevant directions contract as b^−(d−2λ).** Eq. 21 comes
   from a scaling argument ("should be dominated by", "with higher order
   corrections"), and the authors rest their confidence on the numerics of
-  Machta et al. (2013), filed as [THEORY-tmpzyxwe](THEORY-tmpzyxwe.md) (Proposed): one 64×64
+  Machta et al. (2013), filed as [THEORY-777](THEORY-777.md) (Proposed): one 64×64
   lattice at T_c, at most six decimation steps of √2, rates read against
   drawn bands with no fitted exponents or error bars. It is exact only for
   the diffusion model above.
