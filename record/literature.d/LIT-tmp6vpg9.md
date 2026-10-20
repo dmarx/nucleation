@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on coarse-to-fine processes, which the owner relayed. No NOTE is filed.
+  read 2026-10-20 ([NOTE-tmpl2r9w](../notes.d/NOTE-tmpl2r9w.md)) in full, from the authors' manuscript in Leipzig University's repository; worth reading for the distinction between aggregation (a closed lower-dimensional description) and decomposition (non-interacting subsets), for the exact condition under which a partition's block sums close in a linear system (column-equitability, [THEORY-tmpj32n2](../theory.d/THEORY-tmpj32n2.md)), and for its application to fitness landscapes, exact for one or two peaks and not for three. Read it knowing that it treats exact aggregation only, paraphrases Simon–Ando without an error bound, states Result 1.1 in a form that fails for some real 2×2 matrices, and overstates in its discussion that every linear aggregation is an equitable partition.
 title: 'Aggregation of Variables and System Decomposition: Applications to Fitness Landscape Analysis'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-19. `published:` is the first of Crossref's month, June 2004, per ADR-002. The exchange gave no authors; Crossref lists only "M SHPAK", and the full list is from the Leipzig repository (Qucosa), which agrees with the erratum. An open copy is in that repository. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-19, commit d1573d2) for the authors, title and identifiers found nothing.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Read in full at the owner's request (NOTE-tmpl2r9w), from the copy in Leipzig University's repository (qucosa:31929), which is the authors' manuscript. Status Deferred → Active. The open-copy URL is added. The summary is checked against the reading and kept.
 tags:
 - complex-systems
 - mathematics
@@ -16,6 +20,7 @@ tags:
 date: '2026-10-19'
 published: '2004-06-01'
 doi: '10.1016/j.thbio.2004.02.001'
+url: 'https://ul.qucosa.de/id/qucosa%3A31929'
 first_author: 'Shpak'
 keywords:
 - 'aggregation of variables'

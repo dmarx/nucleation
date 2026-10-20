@@ -17,6 +17,8 @@ summary: >-
   across multiple otherwise entangled subsystems?" [CLAIM-tmpkoi6k](../claims.d/CLAIM-tmpkoi6k.md) shows
   the two come apart; [CASE-tmpvt6wb](../cases.d/CASE-tmpvt6wb.md) is the construction. The question is
   which of them the record's "one system" should track.
+answered_by:
+- THEORY-tmpj32n2
 ---
 <!-- inactive-ok-file: LIT-tmp6vpg9 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -41,6 +43,11 @@ the whole and a closure test finds the mode.
 
 - [CLAIM-157](../claims.d/CLAIM-157.md), [CLAIM-164](../claims.d/CLAIM-164.md) and [THEORY-661](../theory.d/THEORY-661.md) on the block side.
 - [THEORY-257](../theory.d/THEORY-257.md) and [THEORY-733](../theory.d/THEORY-733.md) on the closure side.
+- A third kind of unit, from Shpak et al. ([THEORY-tmpj32n2](../theory.d/THEORY-tmpj32n2.md), read
+  2026-10-20): a partition of members whose block sums jointly close, which
+  happens iff the partition is column-equitable, while the blocks interact
+  strongly. In [CASE-tmpvt6wb](../cases.d/CASE-tmpvt6wb.md) every partition is one. It is a grouping of
+  members, as a block is, and closed, as a mode is, and it is neither.
 - [CLAIM-157](../claims.d/CLAIM-157.md)'s guard: clearing a test is not being an agent or a self. A5
   kept it: "A newly discovered distributed collective mode should not
   automatically be treated as an individual, much less an agent."

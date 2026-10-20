@@ -1,7 +1,15 @@
 ---
 status: Active
 title: 'Exact dynamical closure of a collective variable does not require a nearly decomposable block: in a linear Gaussian VAR(1) with uniform coupling among n units, the sum of all units is exactly dynamically independent at every stable coupling strength, while every partition of the units into two or more groups couples as strongly across its edges as within them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added, from the reading of Shpak et al.
+    (NOTE-tmpl2r9w): in the same system every partition is column-equitable,
+    so the vector of block sums closes though no block does. The claim is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -86,3 +94,18 @@ sum of three units 4.7 × 10⁻⁴ to 8.5 × 10⁻², rising with |β|.
 - **Not anything beyond the model.** Linear maps, Gaussian noise and VAR(1).
   For VAR(p ≥ 2), lags that are all of the uniform form keep the condition;
   generic lags do not ([THEORY-733](../theory.d/THEORY-733.md)).
+
+## Note of 2026-10-20: every partition aggregates, none is a block
+
+Shpak, Stadler, Wagner and Hermisson ([LIT-tmp6vpg9](../literature.d/LIT-tmp6vpg9.md), read in [NOTE-tmpl2r9w](../notes.d/NOTE-tmpl2r9w.md))
+give the exact condition for a partition's block sums to close jointly:
+column-equitability ([THEORY-tmpj32n2](../theory.d/THEORY-tmpj32n2.md)). Under uniform coupling every
+partition meets it. So in this system grouping the members does find closed
+objects, namely the vector of block sums for any grouping, even though no
+group is a weakly coupled block and no single group's sum closes on its own.
+Re-checked: with six units split three and three, the transfer entropy into
+the pair of block sums was 0 to machine precision, and into one block sum
+5.0 × 10⁻² at (α, β) = (0.2, 0.1). The claim, which is about blocks and
+about the sum of all units, stands. What changes is [QUESTION-tmplru2n](../questions.d/QUESTION-tmplru2n.md): its
+choice between "a subset of members" and "a function of the whole state"
+leaves out the equitable partition.
