@@ -4,7 +4,7 @@
 
 **anthology-candidate**.
 
-212 of 1011 NOTE documents. Back to the [full index](../README.md).
+212 of 1012 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

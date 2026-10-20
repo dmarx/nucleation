@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpa8ntc
 paper: 'LIT-828'
 title: 'Морфология сказки'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-09'
@@ -25,6 +25,14 @@ history:
     and the schemes in ch. IX are garbled in the OCR, so the per-tale
     schemes were not checked. Quotations below are my translations.
     The 1958 and 1968 English translations were not read.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Appendices II and III read in a second Russian text, the HTML at
+    gumer.info (bibliotek_Buks/Linguist/propp, pages 09 and 12-16), which
+    appears to be the 1969 edition. Recorded in the dated note under
+    Claims: what the order claim's sample is and why the per-tale schemes
+    still could not be checked. The readings above are unchanged.
 date: '2026-10-09'
 summary: >-
   Finds that in a hundred Russian wondertales the stable units are
@@ -140,6 +148,23 @@ monotony.
 | C6 | Tales can be generated artificially from the scheme | weak | asserted as an experimental check; no generated tales are shown |
 | C7 | All wondertales derive by transformation from the dragon-abduction tale | weak | ch. VIII–IX; "a very bold claim, since we do not give the picture of transformations in this work" |
 | C8 | The wondertale is morphologically a myth | weak | ch. VIII–IX, offered as a hypothesis for the historian |
+
+*Note of 2026-10-20:* the appendices were read in a second text, the
+HTML of the 1969 Russian edition at gumer.info. The per-tale schemes still
+could not be checked, because Appendix III says the schemes are printed
+"на вклейке", on a fold-out insert, and the HTML does not carry it. The
+appendix does fix the sample behind C2 and C3. Of the fifty tales whose
+schemes were tabulated, five were left out: No. 94 as a tale of another
+kind, and Nos. 123, 127, 139 and 159 because their moves are interrupted
+too often and "the canonical sequence is also not strictly kept". Propp
+also says that the material he printed is half his working material. So
+the order invariance is shown on 45 printed schemes, chosen after setting
+aside the tales where the order was not strictly kept. That makes C3 an
+order claim about a filtered set, which is a reason to narrow it further
+than "the hundred tales". Appendix II gives full analyses of a few tales
+(including Nos. 131 and 247), and one of its notes says some tales break
+the canon through parodic treatment. The 1968 English edition at the
+Internet Archive is lending-restricted and was not read.
 
 ## Method
 

@@ -1,0 +1,1 @@
+<!-- The Price equation's derivation, re-derived by the promotion audit, is filed as its own Active theory, split from THEORY-673, which keeps the generalization-sketch reading and stays Proposed. -->

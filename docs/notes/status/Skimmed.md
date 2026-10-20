@@ -6,7 +6,7 @@
 
 **Skimmed** — abstract, figures and selected sections; honest, useful, and explicitly not enough to source a practice from.
 
-30 of 1011 NOTE documents. Back to the [full index](../README.md).
+31 of 1012 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -40,3 +40,4 @@
 | [NOTE-974](../../../record/notes.d/NOTE-974.md) | Isett — A proof of Onsager's conjecture | The negative half of Onsager's conjecture. For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, in C^α in space and time, that vanishes outside a finite time interval and so does not conserve energy. It is built by iterating a Main Lemma that first glues exact local Euler solutions so that the error lives on separated short time intervals, then cancels each piece with a single transported Mikado-flow wave. For the record, it shows that a coarse-grained energy flux can survive the limit of vanishing scale for rough fields; it does not show a one-way dissipative cascade, since these solutions gain energy and then lose it. | Skimmed |
 | [NOTE-1010](../../../record/notes.d/NOTE-1010.md) | Random Hyperbolic Graphs: Degree Sequence and Clustering | Proves for the threshold hyperbolic random graph (curvature −1, density exponent α > 1/2, R = 2 log n + C) that the average local clustering coefficient is Θ(1) with high probability and that the degree sequence is a power law with exponent 2α + 1 up to the maximum degree n^(1/(2α)+o(1)), with exact asymptotics for the fraction of each degree. Skimmed: the statements and the method were read, the proofs only in outline. | Skimmed |
 | [NOTE-1011](../../../record/notes.d/NOTE-1011.md) | Clustering and the hyperbolic geometry of complex networks | For Krioukov et al.'s hyperbolic random graph with 0 < ζ/α < 2, proves that below temperature 1 (β > 1) the global clustering coefficient converges to an explicit positive constant when ζ/α < 1 and to zero when 1 ≤ ζ/α < 2, and that at or above temperature 1 it converges to zero; clustering among vertices of bounded type stays positive for all ζ/α < 2 when β > 1. Skimmed: §1 and the theorem statements read, the proofs not. | Skimmed |
+| [NOTE-1012](../../../record/notes.d/NOTE-1012.md) | Consciousness and the Collapse of the Wave Function | Chalmers and McQueen make consciousness-collapse precise as a super-resistance model (IIT's Q-shape resisting superposition, with a continuous-collapse dynamics), find simple versions refuted by the quantum Zeno effect, and argue that collapse is the gap in causal closure that interactionist property dualism needs. Skimmed: the introduction, the objections and §8 were read, the formal §§2-7 were not. | Skimmed |

@@ -13,13 +13,24 @@ promote_when: >-
   the equation recovers, or further analogies with f = ma, cannot settle
   it.
 title: "The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The Price equation's derivation split off into THEORY-770, filed
+    Active, by the promotion audit (batch 058, ADR-040), on the pattern of
+    THEORY-736 and THEORY-741. This THEORY keeps Luque's
+    generalization-sketch reading, extends the new one, and stays Proposed:
+    its promote_when asks for results an argument cannot supply.
 tags:
 - philosophy-of-science
 - philosophy-of-biology
 date: '2026-10-16'
 source:
 - LIT-205
+extends:
+- THEORY-770
 summary: >-
   Luque (2016), [LIT-205](../literature.d/LIT-205.md), read in [NOTE-101](../notes.d/NOTE-101.md) from the PhilSci manuscript. The
   derivation and the diallelic re-derivation are strong; the
@@ -108,3 +119,13 @@ nothing in the paper could have refuted it.
   reusable move, granting that a general identity is predictively empty and
   locating its value in unification and model-building, is what [NOTE-101](../notes.d/NOTE-101.md)
   names as this paper's contribution to the record.
+
+## Dated note, 2026-10-20
+
+The derivation in this entry's first clause is now held on its own as
+[THEORY-770](THEORY-770.md) (Active), split off by the promotion audit (batch 058).
+What remains Proposed here is the reading: that the equation is a
+generalization-sketch whose value lies in guiding model construction, and
+that the tautology and predictive-power charges ask of it what only its
+specialisations can supply. Wave 5 found no change to the premises, the
+rivals or the promote_when since batch 056.

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**486 documents cited without acknowledgement.** Not listed: 9908 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**487 documents cited without acknowledgement.** Not listed: 9915 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2104,6 +2104,19 @@ Across load and temperature, the connectivity and output similarity of independe
 - [`record/theory.d/THEORY-109.md:175`](../../record/theory.d/THEORY-109.md)
 - [`record/theory.d/THEORY-109.md:179`](../../record/theory.d/THEORY-109.md)
 
+### [THEORY-109](../../record/theory.d/THEORY-109.md) — Proposed
+
+The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
+
+6 citations in 4 files await a look; 16 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
+- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:50`](../../record/questions.d/QUESTION-069.md)
+- [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
+- [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
+- [`record/theory.d/THEORY-770.md:13`](../../record/theory.d/THEORY-770.md)
+
 ### [THEORY-137](../../record/theory.d/THEORY-137.md) — Proposed
 
 Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds
@@ -2430,7 +2443,7 @@ Morphology of the Folktale
 - [`record/literature.d/LIT-830.md:75`](../../record/literature.d/LIT-830.md)
 - [`record/literature.d/LIT-830.md:154`](../../record/literature.d/LIT-830.md)
 - [`record/literature.d/LIT-830.md:204`](../../record/literature.d/LIT-830.md)
-- [`record/notes.d/NOTE-615.md:188`](../../record/notes.d/NOTE-615.md)
+- [`record/notes.d/NOTE-615.md:213`](../../record/notes.d/NOTE-615.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -2492,18 +2505,6 @@ In a linearised network with a Gaussian prior on its parameters, the Occam facto
 - [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
 - [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
 
-### [THEORY-109](../../record/theory.d/THEORY-109.md) — Proposed
-
-The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
-
-5 citations in 3 files await a look; 16 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:50`](../../record/questions.d/QUESTION-069.md)
-- [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
-- [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
-
 ### [THEORY-131](../../record/theory.d/THEORY-131.md) — Proposed
 
 A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
@@ -2539,6 +2540,18 @@ If pretraining text is a mixture of hidden Markov models indexed by a latent con
 - [`record/questions.d/QUESTION-161.md:26`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:35`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:43`](../../record/questions.d/QUESTION-161.md)
+
+### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
+
+The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
+
+5 citations in 1 file await a look.
+
+- [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:77`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:82`](../../record/theory.d/THEORY-770.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
@@ -2910,7 +2923,7 @@ Given views with conjunctive definitions, deciding that they answer a conjunctiv
 4 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:339`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:340`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
 - [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
 
@@ -3225,7 +3238,7 @@ The difficulty of optimum index selection
 
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
-- [`record/questions.d/QUESTION-114.md:178`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:179`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-1167](../../record/literature.d/LIT-1167.md) — Unavailable
 
@@ -3266,6 +3279,16 @@ Convention: A Philosophical Study
 - [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
 - [`record/literature.d/LIT-765.md:28`](../../record/literature.d/LIT-765.md)
 - [`record/literature.d/LIT-768.md:31`](../../record/literature.d/LIT-768.md)
+
+### [NOTE-1012](../../record/notes.d/NOTE-1012.md) — Skimmed
+
+Consciousness and the Collapse of the Wave Function
+
+3 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-1284.md:6`](../../record/literature.d/LIT-1284.md)
+- [`record/notes.d/NOTE-112.md:23`](../../record/notes.d/NOTE-112.md)
+- [`record/notes.d/NOTE-112.md:106`](../../record/notes.d/NOTE-112.md)
 
 ### [NOTE-198](../../record/notes.d/NOTE-198.md) — Superseded
 
@@ -3417,6 +3440,16 @@ Neither report nor no-report paradigms isolate the neural basis of consciousness
 - [`record/questions.d/QUESTION-048.md:50`](../../record/questions.d/QUESTION-048.md)
 - [`record/questions.d/QUESTION-048.md:53`](../../record/questions.d/QUESTION-048.md)
 
+### [THEORY-110](../../record/theory.d/THEORY-110.md) — Proposed
+
+A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex
+
+3 citations in 2 files await a look; 9 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:52`](../../record/questions.d/QUESTION-069.md)
+- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
+
 ### [THEORY-118](../../record/theory.d/THEORY-118.md) — Proposed
 
 Praiseworthiness is compatible with being psychologically determined by good reasons, but blameworthiness requires that the agent could have done otherwise, that is, could have acted on the right reasons
@@ -3527,16 +3560,6 @@ Selective accessibility, the account that comparing a target with a plausible an
 - [`record/theory.d/THEORY-337.md:72`](../../record/theory.d/THEORY-337.md)
 - [`record/theory.d/THEORY-337.md:93`](../../record/theory.d/THEORY-337.md)
 
-### [THEORY-368](../../record/theory.d/THEORY-368.md) — Proposed
-
-On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms
-
-3 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-370.md:101`](../../record/theory.d/THEORY-370.md)
-- [`record/theory.d/THEORY-384.md:64`](../../record/theory.d/THEORY-384.md)
-- [`record/theory.d/THEORY-384.md:82`](../../record/theory.d/THEORY-384.md)
-
 ### [THEORY-375](../../record/theory.d/THEORY-375.md) — Proposed
 
 In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved
@@ -3544,7 +3567,7 @@ In one simulator evicting whole query-shaped cache regions, no replacement value
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:343`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:344`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-376.md:92`](../../record/theory.d/THEORY-376.md)
 
 ### [THEORY-376](../../record/theory.d/THEORY-376.md) — Proposed
@@ -3554,7 +3577,7 @@ In a simulated single-client, read-only database answering selection queries on 
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:343`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:344`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-375.md:88`](../../record/theory.d/THEORY-375.md)
 
 ### [THEORY-411](../../record/theory.d/THEORY-411.md) — Proposed
@@ -3930,7 +3953,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:321`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:322`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-378.md:125`](../../record/theory.d/THEORY-378.md)
 
 ### [LIT-1108](../../record/literature.d/LIT-1108.md) — Unavailable
@@ -3940,7 +3963,7 @@ Combining Fuzzy Information from Multiple Systems
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
-- [`record/questions.d/QUESTION-114.md:356`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:357`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -4374,15 +4397,6 @@ Merging models fine-tuned from one pretrained start loses accuracy through inter
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:54`](../../record/questions.d/QUESTION-069.md)
 
-### [THEORY-110](../../record/theory.d/THEORY-110.md) — Proposed
-
-A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex
-
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:52`](../../record/questions.d/QUESTION-069.md)
-
 ### [THEORY-114](../../record/theory.d/THEORY-114.md) — Proposed
 
 Linear mode connectivity emerges during training, not at initialization: copies trained from a shared state become stable to SGD noise after 1.5–20% of training, and independently trained networks become linearly connected after alignment only gradually
@@ -4659,7 +4673,7 @@ On one Apache and Informix server answering cheap indexed selections, a page who
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:330`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:331`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-382.md:102`](../../record/theory.d/THEORY-382.md)
 
 ### [THEORY-414](../../record/theory.d/THEORY-414.md) — Proposed
@@ -5763,7 +5777,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 4 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 5 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)

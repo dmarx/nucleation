@@ -4,7 +4,7 @@
 
 **consciousness**.
 
-95 of 1011 NOTE documents. Back to the [full index](../README.md).
+96 of 1012 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -103,3 +103,4 @@
 | [NOTE-1005](../../../record/notes.d/NOTE-1005.md) | Lush — Demand characteristics confound the rubber hand illusion | People told about the rubber hand procedure, but never put through it, expect the illusion statements more than the control statements and more under synchronous than asynchronous brushing (d = 1.40 and 1.05, n = 20), which is the pattern published reports show. So the field's standard controls do not control for suggestion. The paper does not show that the illusion is suggestion, and says so. | Read |
 | [NOTE-1006](../../../record/notes.d/NOTE-1006.md) | Botvinick & Cohen — Rubber hands 'feel' touch that eyes see | The founding report of the rubber hand illusion. Synchronous brushing of a seen rubber hand and the hidden real hand made ten subjects feel the touch at the rubber hand and feel it as their own; after 30 minutes, blind reaches drifted toward the rubber hand in proportion to how long the illusion lasted, and asynchronous brushing removed both effects. The authors read it as constraint satisfaction among vision, touch and proprioception, and conclude that intermodal matching "can be sufficient for self-attribution". | Read |
 | [NOTE-1007](../../../record/notes.d/NOTE-1007.md) | Reuter, Sienhold & Sytsma — Putting pain in its proper place | Three online studies on the "pain is in my fingertip, the fingertip is in my mouth" argument. People reject its conclusion for pain about as much as for tissue damage and inflammation, and accept it for a paper-clip; across fourteen items, acceptance tracks how misleading the conclusion is rated; and "technically speaking" wording raises acceptance. The authors explain the argument's failure by implicature, not by an intensional "pain" or a non-spatial "in", and conclude that the data favour a bodily conception of pain. | Read |
+| [NOTE-1012](../../../record/notes.d/NOTE-1012.md) | Consciousness and the Collapse of the Wave Function | Chalmers and McQueen make consciousness-collapse precise as a super-resistance model (IIT's Q-shape resisting superposition, with a continuous-collapse dynamics), find simple versions refuted by the quantum Zeno effect, and argue that collapse is the gap in causal closure that interactionist property dualism needs. Skimmed: the introduction, the objections and §8 were read, the formal §§2-7 were not. | Skimmed |
