@@ -14,6 +14,11 @@
   al. 2022; Lush & Seth 2022; Roseboom & Lush 2022), two studies separating
   proprioceptive drift from ownership (Rohde et al. 2011; Abdulkarim &
   Ehrsson 2016), Longo et al. 2008 and Kalckert & Ehrsson 2012.
+- Six more: Hohwy & Paton 2010 and Alsmith & Longo 2014, experiments by
+  philosophers on the rubber hand and on self-location; and folk-concept
+  experimental philosophy on where the self is (Starmans & Bloom 2012),
+  personal identity (Nichols & Bruno 2010) and whether pain is in the body
+  (Reuter, Sienhold & Sytsma 2019; Borg et al. 2020).
 
 ### Changed
 
@@ -21,3 +26,5 @@
   condition and corrected by a narrower one about reports. The other three
   rubber-hand THEORYs take tighter promotion tests that control for
   expectation.
+- The rubber hand THEORY on ownership as a graded belief notes that the
+  cooling evidence its source cites is thinner than cited.

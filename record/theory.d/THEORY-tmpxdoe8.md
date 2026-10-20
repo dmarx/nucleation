@@ -127,6 +127,15 @@ commitments that could fail:
   signs Ehrsson et al. (2022, [LIT-tmp3z5v4](../literature.d/LIT-tmp3z5v4.md)), which reads the rubber hand
   data as multisensory perception. Whether they are is [THEORY-tmpfufvf](THEORY-tmpfufvf.md)'s
   open question.
+- **The cooling evidence is thinner than its citation.** Hohwy & Paton
+  (2010, [LIT-tmpkgqd7](../literature.d/LIT-tmpkgqd7.md)), which the source cites for cooling of the real hand,
+  report 0.13 °C in one comparison of four. It is significant only
+  one-tailed and uncorrected, under a real foreign arm, not a rubber one,
+  and with no ownership measure. Their box result, touch referred to a box
+  only after the illusion has begun, is explained there by a prior that
+  drops once the illusion is running. That is the after-the-fact move this
+  account is warned against above. The promote_when already asks for a
+  measure other than temperature, so the THEORY's standing does not change.
 
 ## Connections
 
