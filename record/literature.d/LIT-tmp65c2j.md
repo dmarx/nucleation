@@ -26,7 +26,7 @@ status_note: >-
   Gatsby page. It stays Unavailable until a copy is supplied. No NOTE is
   filed.
 title: 'A Maximum-Likelihood Interpretation for Slow Feature Analysis'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -49,6 +49,15 @@ history:
     start, per ADR-041, after the copy hunt the status note lists. The
     summary is from the abstract on the Cambridge Machine Learning Group's
     publications page.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Still Unavailable. Schüler and Wiskott (2025, LIT-tmpmhlyu) report its
+    result secondhand: linear SFA as the maximum-likelihood emission model,
+    exact only with zero observation noise and dynamics annealed towards
+    white noise. The record's own noise-free check of a model of this kind
+    is in NOTE-tmp9qf8v and CLAIM-tmpho867. Neither is a reading of this
+    paper.
 tags:
 - probabilistic-modeling
 - representation-learning

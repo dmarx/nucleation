@@ -2,7 +2,7 @@
 status: Read
 paper: 'LIT-tmpv4d6t'
 title: "Buckmaster, De Lellis, Székelyhidi and Vicol — Onsager's conjecture for admissible weak solutions"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -24,6 +24,11 @@ history:
     without proof and was not checked. Figure 1 (the squiggling supports)
     was not seen. Many displayed formulas were garbled by extraction and
     were read from their surrounding text. The CPAM text was not compared.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Giri, Kwon and Novack is now skimmed (NOTE-tmpms8u2); Connections and
+    the first open question cite it. The reading is unchanged.
 date: '2026-10-20'
 summary: >-
   The admissible version of the negative half of Onsager's conjecture. For
@@ -35,6 +40,7 @@ summary: >-
   box as a whole (no local energy inequality), and chosen by the prescribed
   profile, since an increasing e works just as well.
 ---
+<!-- inactive-ok-file: NOTE-tmpms8u2 THEORY-tmp6pe5a — Skimmed or Proposed; the local version, cited as the later reading -->
 <!-- inactive-ok-file: THEORY-tmpnvuqr THEORY-763 — Proposed; the account this reading files, and Isett's, cited as outcomes -->
 <!-- inactive-ok-file: NOTE-974 — Skimmed; the Isett reading that named this work -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 CLAIM-331 CLAIM-327 — Proposed; entries named as not bearing, open -->
@@ -185,13 +191,14 @@ were 1/10, 1/5 (Isett; Buckmaster, De Lellis, Isett and Székelyhidi) and
 1/3 in L¹_tC^β_x (Buckmaster, De Lellis and Székelyhidi). The positive half
 is Constantin, E and Titi ([LIT-1248](../literature.d/LIT-1248.md)), after Eyink, with Cheskidov et al.
 for the endpoint space. The non-L^∞ precursors are Scheffer and Shnirelman.
-Later work, named and not read: Isett, "Nonuniqueness and existence of
+Later work: Isett, "Nonuniqueness and existence of
 continuous, globally dissipative Euler flows" (arXiv:1710.11186); Daneri,
 Runa and Székelyhidi, "Non-uniqueness for the Euler equations up to
 Onsager's critical exponent" (arXiv:2004.00391), for admissible
 non-uniqueness from given data; and Giri, Kwon and Novack, "The L³-based
-strong Onsager theorem" (arXiv:2305.18509), reported to obtain the local
-energy inequality.
+strong Onsager theorem" (arXiv:2305.18509), which obtains the local
+energy inequality in an L³-based class, since skimmed ([LIT-tmpfah3l](../literature.d/LIT-tmpfah3l.md),
+[NOTE-tmpms8u2](NOTE-tmpms8u2.md)). The first two are not read.
 
 ## Bearing on the record
 
@@ -270,8 +277,9 @@ No instruction for machine-learning practice; nothing for the anthology.
 ## Open questions
 
 - Are there C^β solutions, β < 1/3, satisfying the local energy inequality,
-  so that transfer to vanishing scales is one-way at every point? Giri,
-  Kwon and Novack (arXiv:2305.18509), not held, is reported to answer this.
+  so that transfer to vanishing scales is one-way at every point? In the
+  L³-Besov class, yes (Giri, Kwon and Novack, [THEORY-tmp6pe5a](../theory.d/THEORY-tmp6pe5a.md), Proposed).
+  For C^β it is still open; the best known is β < 1/7.
 - Is any vanishing-viscosity limit of Navier–Stokes of this kind? Only a
   theorem about Navier–Stokes would settle it.
 - Given an initial datum, how many admissible solutions start from it?

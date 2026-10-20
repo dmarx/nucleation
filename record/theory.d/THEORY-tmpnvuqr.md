@@ -14,7 +14,7 @@ promote_when: >-
   covered by this entry and would need the local energy inequality, a
   different theorem.
 title: 'For every β < 1/3 and every smooth, strictly positive and strictly decreasing energy profile e(t) on [0, T], there is a weak solution of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent β in space and time, with ∫|v(t)|² = e(t) at every time; for such a solution the energy flux across a mollification scale ε, integrated over any time interval, tends as ε → 0 to ½ times the drop in e, which is strictly negative, so energy leaves the resolved field for vanishing scales on every interval; this is one-way for the energy of the whole box, not at every point, and it is chosen by the prescribed profile, not forced by the equations'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -28,6 +28,12 @@ history:
     sign on every interval, and the limits on what "admissible" means here
     are the record's, derived from the energy balance re-derived in
     THEORY-749.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    "What this does not say" cites Giri, Kwon and Novack (THEORY-tmp6pe5a)
+    for the local inequality in the L³-Besov class, in place of calling it
+    reported and unread. The account is unchanged.
 tags:
 - mathematics
 - natural-sciences
@@ -52,6 +58,7 @@ summary: >-
   construction; and nothing ties these solutions to Navier–Stokes, to a
   constant-flux inertial range or to uniqueness.
 ---
+<!-- inactive-ok-file: THEORY-tmp6pe5a — Proposed; the local version in another class, cited for contrast -->
 <!-- inactive-ok-file: THEORY-763 — Proposed; Isett's non-admissible half, cited for contrast -->
 # THEORY-tmpnvuqr: For every β < 1/3 and every smooth, strictly positive and strictly decreasing energy profile e(t) on [0, T], there is a weak solution of the 3D incompressible Euler equations on the periodic box, Hölder-continuous of exponent β in space and time, with ∫|v(t)|² = e(t) at every time; for such a solution the energy flux across a mollification scale ε, integrated over any time interval, tends as ε → 0 to ½ times the drop in e, which is strictly negative, so energy leaves the resolved field for vanishing scales on every interval; this is one-way for the energy of the whole box, not at every point, and it is chosen by the prescribed profile, not forced by the equations
 
@@ -146,10 +153,12 @@ escape that only because β < 1/3.
   equivalently a non-negative Duchon–Robert dissipation measure, is not
   claimed or proved. So nothing excludes backscatter: energy may return
   from vanishing scales in some regions while more leaves in others. Later
-  work is reported to reach the local inequality below 1/3 (Isett,
-  arXiv:1710.11186, for continuous globally dissipative flows; Giri, Kwon
-  and Novack, "The L³-based strong Onsager theorem", arXiv:2305.18509);
-  the record has not read either.
+  work reaches the local inequality below 1/3 in a different class: Giri,
+  Kwon and Novack ([THEORY-tmp6pe5a](THEORY-tmp6pe5a.md), Proposed), in L³-based Besov spaces,
+  not Hölder. For Hölder solutions the local inequality is known only for
+  β < 1/7 (De Lellis and Kwon), so this qualification stands for the
+  solutions of this entry. Isett (arXiv:1710.11186), for continuous
+  globally dissipative flows, is not read.
 - **Not that the direction is forced.** Theorem 1.1 accepts any smooth
   positive e. An increasing profile gives solutions that steadily draw
   energy out of vanishing scales, by the same proof. At this regularity the

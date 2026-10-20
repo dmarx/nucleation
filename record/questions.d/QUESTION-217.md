@@ -28,7 +28,10 @@ answered_by:
 - THEORY-758
 - THEORY-759
 - THEORY-tmpcvqfo
+- THEORY-tmpn460i
+- CLAIM-tmpho867
 ---
+<!-- inactive-ok-file: CLAIM-tmpho867 THEORY-tmpn460i — new entries of this batch, cited as partial answers -->
 <!-- inactive-ok-file: THEORY-tmpzyxwe — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 THEORY-481 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -115,6 +118,17 @@ A2: "Crucially, the default should not be to assume these orderings agree."
   one rate). Another commuting case, as in [THEORY-745](../theory.d/THEORY-745.md). Its Ising half
   ([THEORY-tmpzyxwe](../theory.d/THEORY-tmpzyxwe.md), Proposed) orders relevance along decimation, with no
   learner.
+
+- Schüler and Wiskott (2025), [THEORY-tmpn460i](../theory.d/THEORY-tmpn460i.md) (Active): slow feature
+  analysis as a variational objective with a random-walk prior. On
+  whitened linear input its optimum is SFA's span of directions with
+  lag-one autocorrelation above ½, up to rotation, so the spans nest by
+  slowness as more latents are allowed: a refinement order of spans, not
+  of features. On raw input it is not SFA. [CLAIM-tmpho867](../claims.d/CLAIM-tmpho867.md)
+  (demonstrated): in a reversible linear Gaussian VAR(1) every slow
+  direction is a left eigenvector of A, so slowness selects exactly
+  closed coarse-grainings; off reversibility it does not. Neither speaks to
+  the order of acquisition.
 
 What the record lacks is the condition under which a spectral order is a
 refinement order. A2's candidate ("Conjecture A", in its words "a
