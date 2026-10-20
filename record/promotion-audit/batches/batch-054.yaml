@@ -1,0 +1,68 @@
+# record/promotion-audit/batches/batch-054.yaml
+batch: batch-054
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+selection: >-
+  Five of the 19 remaining unqueued entries that triage-006 scores exactly 2
+  without the philosophical-title penalty: THEORY-377, -380, -419, -459 and
+  -486. Following batches 045 and 047–051, each is sorted by what its title
+  asserts (batch 020), not by the flag.
+reviewed: [THEORY-377, THEORY-380, THEORY-419, THEORY-459, THEORY-486]
+outcomes:
+  narrow-and-promote: [THEORY-377, THEORY-380, THEORY-419]
+  retain-proposed: [THEORY-459, THEORY-486]
+yield: >-
+  3 of 5 have a promotion path. THEORY-377 is a single-study measurement
+  under ADR-047 v3, held to the authors' simulations. THEORY-380 is a
+  theorem the paper states without proof. It is re-derived here (ADR-047
+  v2), and its infinite-coefficient clause, false as the paper states it,
+  is corrected. THEORY-419 is a definition plus two consequences: the
+  consequences are re-derived and the definition is taken from the pages
+  read. THEORY-459 is an argument whose proved core is a counting fact.
+  THEORY-486 is a theorem that is neither refereed nor re-derivable in a
+  review.
+promotion_prs:
+  - "#265: THEORY-377, -380 and -419 narrowed and promoted; QUESTION-tmpgenqn and QUESTION-tmpa4291 (branch claude/promote-theories-377-380-419)."
+band:
+  - {code: THEORY-377, title_asserts: measurement, formal_in_fact: false, outcome: narrow-and-promote}
+  - {code: THEORY-380, title_asserts: theorem, formal_in_fact: true, outcome: narrow-and-promote}
+  - {code: THEORY-419, title_asserts: definition plus theorem, formal_in_fact: true, outcome: narrow-and-promote}
+  - {code: THEORY-459, title_asserts: argument, formal_in_fact: partly, outcome: retain-proposed}
+  - {code: THEORY-486, title_asserts: theorem, formal_in_fact: true, outcome: retain-proposed}
+notes_for_ledger:
+  - >-
+    The score-2 band went 3 of 5 here, so 32 of 40 across batches 039,
+    045, 047–051 and 054 (039 and 045 went 8 of 10, 047–051 went 21 of 25). Sorting by title predicted every outcome. The two
+    misses are an argument whose proved core is trivial (THEORY-459) and a
+    theorem outside the reach of a review (THEORY-486).
+  - >-
+    A theorem a paper states without proof can itself be false as stated.
+    GKT's Theorem 6.5 puts the unit-rule cycle through t, but a cycle on any
+    tuple in one of t's derivation trees makes a coefficient infinite. The
+    paper's own algorithm propagates that correctly. Check a stated
+    criterion against the paper's algorithm, which often encodes the true
+    condition.
+  - >-
+    Check a quoted observational-equivalence example's parameters, not only
+    its conclusion. Pearl's M and M′ agree with δ = γ only when x = u
+    (σ₁ = 0). The general pair needs δ = γσ_u²/(σ_u² + σ₁²) (THEORY-419).
+  - >-
+    When an argument's formal step is a cardinality count, test it on an
+    infinite structure first. The backward shift on ℓ² is a surjective,
+    non-injective linear map of a space onto an isomorphic copy, which is
+    why De Haro and Butterfield need a physical argument for infinite
+    state spaces (THEORY-459).
+  - >-
+    Before retaining a "needs a refereed version" entry, check the arXiv
+    API for a later version or journal reference. THEORY-486's source is
+    still v1 with none, so requeue only when that changes.
+  - "Requeue THEORY-459 to wave 5. THEORY-486 waits on a refereed or revised source."
+owner_questions:
+  - >-
+    THEORY-419 is promoted although its promote_when asked for a reading
+    of other chapters of Pearl's book, not a proof. The title now cites the
+    pages read, and the book-wide reading moves to a QUESTION. This is the
+    THEORY-185 / THEORY-133 pattern; if you rule against that pattern,
+    hold THEORY-419 with them.

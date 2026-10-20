@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 144
+version: 145
 updated: '2026-10-19'
 record_revision: d20d032b
 procedure: record/decisions.d/ADR-047.md
@@ -42,8 +42,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 121
-  promotion_paths: 88
+  reviewed: 126
+  promotion_paths: 91
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -88,6 +88,12 @@ requeue:
   when: when wave 5 resumes
   why: 'batch-056: an argument with the Price identity attached; decide in wave 5 whether to split the
     identity off (ADR-040)'
+- code: THEORY-459
+  when: when wave 5 resumes
+  why: 'batch-054: an argument; only the finite reductive case is proved'
+- code: THEORY-486
+  when: when a refereed or revised version of arXiv:2504.08144 appears
+  why: 'batch-054: Floer analysis cannot be re-derived in a review'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -3018,6 +3024,47 @@ candidates:
   decision: decisions/THEORY-714.yaml
   carried_out_in:
   - '#263'
+- code: THEORY-377
+  wave: 3
+  triage: batch-054
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-054
+  decision: decisions/THEORY-377.yaml
+  carried_out_in:
+  - '#265'
+- code: THEORY-380
+  wave: 3
+  triage: batch-054
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-054
+  decision: decisions/THEORY-380.yaml
+  carried_out_in:
+  - '#265'
+- code: THEORY-419
+  wave: 3
+  triage: batch-054
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-054
+  decision: decisions/THEORY-419.yaml
+  carried_out_in:
+  - '#265'
+- code: THEORY-459
+  wave: 3
+  triage: batch-054
+  state: decided
+  disposition: retain-proposed
+  batch: batch-054
+  decision: decisions/THEORY-459.yaml
+- code: THEORY-486
+  wave: 3
+  triage: batch-054
+  state: decided
+  disposition: retain-proposed
+  batch: batch-054
+  decision: decisions/THEORY-486.yaml
 history:
 - version: 1
   date: '2026-10-19'
@@ -3581,4 +3628,13 @@ history:
     is an empirical principle with no derivation beyond the linear regime; THEORY-673 is an argument whose
     first clause (the Price equation) re-derives; THEORY-675 is a measurement whose barriers are plots
     only.; carried_out_in #263; THEORY-673 requeued to wave 5; THEORY-675 is an anthology candidate (owner)'
+- version: 145
+  date: '2026-10-19'
+  note: 'Batch 054 integrated: 3 of 5 have a promotion path. THEORY-377 is a single-study measurement
+    under ADR-047 v3, held to the authors'' simulations. THEORY-380 is a theorem the paper states without
+    proof. It is re-derived here (ADR-047 v2), and its infinite-coefficient clause, false as the paper
+    states it, is corrected. THEORY-419 is a definition plus two consequences: the consequences are re-derived
+    and the definition is taken from the pages read. THEORY-459 is an argument whose proved core is a
+    counting fact. THEORY-486 is a theorem that is neither refereed nor re-derivable in a review.; carried_out_in
+    #265; THEORY-459 and -486 requeued'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

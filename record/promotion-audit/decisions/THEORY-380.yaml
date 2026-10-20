@@ -1,0 +1,110 @@
+# record/promotion-audit/decisions/THEORY-380.yaml
+id: THEORY-380
+batch: batch-054
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived under ADR-047 v2; the paper states Theorems 5.6, 6.4 and 6.5
+    without proof, so this re-derivation is the read proof the promote_when
+    asks for. Taken as given: the standard facts about a commutative
+    ω-continuous semiring K (Kuich 1997; Ésik and Kuich), namely that a
+    countable sum Σ_{i∈I} a_i, defined as the supremum of its finite partial
+    sums, does not depend on order or grouping, that + and · distribute over
+    it, and Kleene's theorem that an ω-continuous map has least fixed point
+    sup_n T^n(0). The input instance is finite (K-relations have finite
+    support, Definition 3.1), so the instantiated program has finitely many
+    IDB tuples N and finitely many instantiated rules.
+
+    (1) Fixed point (Theorem 5.6). Let T be the immediate consequence
+    operator on K^IDB: T(x)_t = Σ over instantiated rules r with head t of
+    the product, over r's body atoms, of the EDB tag or x_u. T is a finite
+    polynomial map, hence ω-continuous, so its least fixed point is
+    sup_n T^n(0). By induction on n, T^n(0)_t is the sum over derivation
+    trees of t of height at most n of the product of the leaf tags: the
+    case n = 0 is the empty sum; for n + 1, expand each x_u = T^n(0)_u and
+    distribute the finite product over the finite sums, which gives one
+    term per choice of a rule for t and a tree of height ≤ n for each IDB
+    body atom, that is, one term per tree of height ≤ n + 1. There are
+    finitely many trees of height ≤ n, and every finite set of trees lies
+    within some height bound, so sup_n T^n(0)_t equals the countable sum
+    over all trees, which is Definition 5.1's tag. This holds whether or
+    not the tag is 0, so the paper's "when not 0" is not needed.
+
+    (2) Factorization (Theorem 6.4). Tag each input tuple with its own id,
+    in N∞⟦X⟧. Then prov(t) = Σ_μ N_μ μ, where N_μ ∈ N∞ is the number of
+    derivation trees of t whose fringe is μ. For any valuation ν: X → K
+    define Eval_ν(Σ_μ c_μ μ) = Σ_μ c_μ·ν(μ), where n·a is the n-fold sum and
+    ∞·a = sup_n n·a, which is the countable sum of a with itself. Then
+    Eval_ν(prov(t)) = Σ_μ Σ_{trees with fringe μ} ν(μ) = Σ_trees Π_leaves
+    ν(leaf), by regrouping a countable sum, and that is t's tag in the
+    K-relation with tags ν. Eval_ν is a semiring homomorphism (the product
+    of series is the Cauchy product, and · distributes over countable
+    sums) and is ω-continuous. So the K-semantics is Eval_ν applied to the
+    N∞⟦X⟧-semantics.
+
+    (3) Infinite coefficients (Theorem 6.5), as corrected. A unit rule is an
+    instantiated rule whose body is a single IDB atom. Claim: t's series
+    has an infinite coefficient exactly when some derivation tree of t
+    contains a node whose tuple lies on a cycle of unit rules.
+    If: let a tree τ of t contain a node for u, and let u ← w_{k−1}, …,
+    w_2 ← w_1, w_1 ← u be unit rules. Splicing the chain in above that
+    node m times gives trees τ_m with the same fringe as τ and m·k more
+    nodes, all distinct, so the coefficient of fringe(τ) is ∞.
+    Only if: suppose no tree of t contains a tuple on a unit cycle, and
+    fix a monomial of degree m. In a tree with fringe μ the leaves are
+    the m EDB atoms. An internal node is a unit node if it has exactly one
+    child and that child is internal. At most m internal nodes have a leaf
+    child, and at most m − 1 have two or more internal children, so at
+    most 2m − 1 nodes are not unit nodes. Unit nodes form vertical chains,
+    each ending just above a non-unit node, so there are at most 2m − 1
+    chains. A chain cannot repeat a tuple, since a repeat would be a cycle
+    of unit rules among tuples in the tree, so each chain has at most N
+    nodes. The tree has at most (2m − 1)(N + 1) internal nodes, and with
+    finitely many instantiated rules there are finitely many such trees,
+    so every coefficient is finite. A tuple with no derivation has series
+    0, which has no infinite coefficient.
+
+    (4) The stated condition is too narrow. The paper's Theorem 6.5, and
+    the title, put the cycle through t itself ("t is part of the cycle").
+    Counterexample: EDB facts e, f; instantiated rules u ← e, v ← u, u ← v,
+    t ← u, f. The unit cycle is u ↔ v, and t is on no unit cycle (its
+    only rule has two body atoms). But u has infinitely many trees with
+    fringe e (u ← e, u ← v ← u ← e, …), so t has infinitely many with
+    fringe e·f: the coefficient of e·f in t's series is ∞. Counting trees
+    of t by height (scratch check) gives 0, 1, 1, 2, 2, 3, 3, 4, … without
+    bound, all with fringe e·f. The paper's own Monomial-Coefficient
+    algorithm propagates ∞ from a child pair in P∞, which is the corrected
+    condition. The paper's "t is in the result" conjunct also misfires
+    as written: a tuple not in the result has series 0, which is in
+    N⟦X⟧. The title is corrected to the condition proved in (3).
+  excluded: >-
+    - Termination or complexity of All-Trees and Monomial-Coefficient
+      (argued in the paper, not proved here).
+    - Section 8 (finite distributive lattices, c-tables, event tables).
+    - Infinite input instances. The title now says "finite input
+      instance", which Definition 3.1's finite support already gives.
+    - Negation, and the tropical semiring's evaluation procedure, left
+      open by the authors.
+evidence:
+  - "LIT-1110, Sections 5–7, Definitions 5.1, 5.5 and 6.1, Theorems 5.6, 6.4 and 6.5, Figures 7–9, read in full in NOTE-913; Theorem 6.5 and footnote 7 rechecked against the postprint text."
+  - "This review's proofs of (1)–(3) and the counterexample in (4)."
+blockers: []
+notes: >-
+  The record's summary and NOTE-913 paraphrase Theorem 6.5 accurately; the
+  defect is in the theorem's statement, not the reading. Section 7's
+  algorithm handles inherited infinities correctly, so the paper's methods
+  are unaffected. Triage-006 scored it 2 (relation, derived); it is formal.
+  Counterexample recipe: the four instantiated rules in (4); count trees of
+  t by height with the recursion trees(x, h) = Σ over x's rules of the
+  product of trees(body atom, h − 1), EDB atoms counting 1.
+unlocks: []
+next_action: >-
+  Promote in a PR with the corrected title, a dated note giving the proofs
+  and the counterexample, and no new QUESTION: the promote_when asked for a
+  proof, which this review supplies.

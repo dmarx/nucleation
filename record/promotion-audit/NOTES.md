@@ -1541,3 +1541,30 @@ history note. THEORY-277 is requeued on this basis.
   measurement or argument (with a fixed control sample), and queues the
   measurement and theorem titles for ADR-047 v3 and v2 review, is the next
   useful step; the score-2 band went 26 of 30 on exactly that sort.
+
+## 2026-10-19 — batch 054 (wave 3, score-2 band)
+
+- The score-2 band went 3 of 5 here, so 32 of 40 across batches 039, 045,
+  047–051 and 054 (039 and 045 went 8 of 10, 047–051 went 21 of 25).
+  Sorting by title predicted every outcome. The two misses are an argument
+  whose proved core is trivial (THEORY-459) and a theorem outside the
+  reach of a review (THEORY-486).
+- A theorem a paper states without proof can itself be false as stated.
+  GKT's Theorem 6.5 puts the unit-rule cycle through t, but a cycle on any
+  tuple in one of t's derivation trees makes a coefficient infinite. The
+  paper's own algorithm propagates that correctly. Check a stated
+  criterion against the paper's algorithm, which often encodes the true
+  condition.
+- Check a quoted observational-equivalence example's parameters, not only
+  its conclusion. Pearl's M and M′ agree with δ = γ only when x = u (σ₁ =
+  0). The general pair needs δ = γσ_u²/(σ_u² + σ₁²) (THEORY-419).
+- When an argument's formal step is a cardinality count, test it on an
+  infinite structure first. The backward shift on ℓ² is a surjective, non-
+  injective linear map of a space onto an isomorphic copy, which is why De
+  Haro and Butterfield need a physical argument for infinite state spaces
+  (THEORY-459).
+- Before retaining a "needs a refereed version" entry, check the arXiv API
+  for a later version or journal reference. THEORY-486's source is still
+  v1 with none, so requeue only when that changes.
+- Requeue THEORY-459 to wave 5. THEORY-486 waits on a refereed or revised
+  source.
