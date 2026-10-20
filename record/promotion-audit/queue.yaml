@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 149
+version: 150
 updated: '2026-10-19'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
@@ -9,19 +9,15 @@ handoff:
   batch: null
   state: between batches
   in_review:
-  - '#262'
-  - '#263'
-  - '#264'
   - '#265'
   - '#266'
-  - '#267'
   - '#268'
-  next_step: 'Round 053-057 is integrated. Open PRs: #262 (CLAIM-tmp1w7aa filed; THEORY-085 corrected),
-    #263 (THEORY-714), #264 (THEORY-332, -362, -367), #265 (THEORY-377, -380, -419), #266 (THEORY-368),
-    #267 (THEORY-188 reading: two LITs and NOTEs; stays Proposed), #268 (THEORY-580, -548, -527). Main
-    fails lint (NOTE-981, THEORY-753, THEORY-757, THEORY-202) after #246/#247 from another session, which
-    is fixing it on its branch; once main is green, merge main into each PR and merge one at a time, this
-    ledger last. After #262 merges, rename CLAIM-tmp1w7aa decision file to its permanent code. Next: triage-006
+  next_step: 'Round 053-057 is integrated. Open PRs: #262 (CLAIM-391 filed; THEORY-085 corrected), #263
+    (THEORY-714), #264 (THEORY-332, -362, -367), #265 (THEORY-377, -380, -419), #266 (THEORY-368), #267
+    (THEORY-188 reading: two LITs and NOTEs; stays Proposed), #268 (THEORY-580, -548, -527). Main fails
+    lint (NOTE-981, THEORY-753, THEORY-757, THEORY-202) after #246/#247 from another session, which is
+    fixing it on its branch; once main is green, merge main into each PR and merge one at a time, this
+    ledger last. After #262 merges, rename CLAIM-391 decision file to its permanent code. Next: triage-006
     is exhausted (score-2 band 40 of 54). 316 unqueued wave-3 entries remain at formal score <= 1; a triage-007
     that sorts titles by what they assert (theorem/measurement/argument), with a control sample, is the
     recommended next pass. Reading tasks: THEORY-162, -167, -336, -485, -535. Wave 5: THEORY-302, -459,
@@ -3171,13 +3167,13 @@ candidates:
   disposition: retain-proposed
   batch: batch-055
   decision: decisions/THEORY-660.yaml
-- code: CLAIM-tmp1w7aa
+- code: CLAIM-391
   wave: 1
   triage: batch-057
   state: decided
   disposition: promote
   batch: batch-057
-  decision: decisions/CLAIM-tmp1w7aa.yaml
+  decision: decisions/CLAIM-391.yaml
   carried_out_in:
   - '#262'
 history:
@@ -3768,11 +3764,14 @@ history:
     thesis outruns its study.; carried_out_in #268'
 - version: 148
   date: '2026-10-19'
-  note: 'Batch 057 integrated: 1 new demonstrated CLAIM filed Active (CLAIM-tmp1w7aa); THEORY-085 corrected;
+  note: 'Batch 057 integrated: 1 new demonstrated CLAIM filed Active (CLAIM-391); THEORY-085 corrected;
     THEORY-188 retained with two rigorous sources filed (2 LITs, 2 NOTEs, skimmed).; carried_out_in #262,
     #267; requeue updated (THEORY-188, -336, -535, -660)'
 - version: 149
   date: '2026-10-20'
   note: 'Round 053-057 closed: 11 promotions and 1 new demonstrated CLAIM in 22 reviews; triage-006 score-2
     band finished at 40 of 54.'
+- version: 150
+  date: '2026-10-20'
+  note: '#262, #263, #264, #267 merged; CLAIM-tmp1w7aa renamed to CLAIM-391 in the ledger.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

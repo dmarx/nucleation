@@ -8,14 +8,14 @@ selection: >-
   the reading task on the rigorous random-hyperbolic-graph literature).
 reviewed:
 - THEORY-085
-- CLAIM-tmp1w7aa
+- CLAIM-391
 - THEORY-188
 yield: >-
-  1 new demonstrated CLAIM filed Active (CLAIM-tmp1w7aa); THEORY-085
+  1 new demonstrated CLAIM filed Active (CLAIM-391); THEORY-085
   corrected; THEORY-188 retained with two rigorous sources filed (2 LITs,
   2 NOTEs, skimmed).
 promotion_prs:
-  - "#262: CLAIM-tmp1w7aa filed Active, demonstrated; THEORY-085 v2 (branch claude/claim-cfac-kfac-identity)."
+  - "#262: CLAIM-391 filed Active, demonstrated; THEORY-085 v2 (branch claude/claim-cfac-kfac-identity)."
   - "#267: LIT-tmp30ynx, LIT-tmple1gv, NOTE-tmp79m4y, NOTE-tmprov8v filed; THEORY-188 v2 (branch claude/hyperbolic-graph-rigorous)."
 notes_for_ledger:
   - >-
@@ -33,7 +33,7 @@ notes_for_ledger:
     a held, peer-reviewed proof that was skimmed meets "a proof" is an
     owner question (THEORY-188; compare THEORY-270 in batch 038).
   - >-
-    Rename CLAIM-tmp1w7aa's decision file to its permanent code after #262
+    Rename CLAIM-391's decision file to its permanent code after #262
     merges.
 owner_questions:
   - >-

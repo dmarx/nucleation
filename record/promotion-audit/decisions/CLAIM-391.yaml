@@ -1,5 +1,5 @@
-# record/promotion-audit/decisions/CLAIM-tmp1w7aa.yaml
-id: CLAIM-tmp1w7aa
+# record/promotion-audit/decisions/CLAIM-391.yaml
+id: CLAIM-391
 batch: batch-057
 reviewed: '2026-10-20'
 reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
@@ -20,7 +20,7 @@ scope:
     Nothing about which approximation is closer to the true layer Fisher,
     and no characterisation of when the covariance term vanishes.
 evidence:
-  - "The proof in CLAIM-tmp1w7aa; the numerical check recorded in THEORY-085's decision."
+  - "The proof in CLAIM-391; the numerical check recorded in THEORY-085's decision."
 blockers: []
 notes: >-
   Rename this file to the permanent code after #262 merges (NOTES.md,

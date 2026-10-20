@@ -13,7 +13,7 @@ formal_in_fact: false
 scope:
   accepted: >-
     Batch 047's check of the identity stands and is now filed with its
-    proof as CLAIM-tmp1w7aa (Active, demonstrated, ADR-032): for any class
+    proof as CLAIM-391 (Active, demonstrated, ADR-032): for any class
     weights pi_c and matrices H_c, Delta_c, sum_c pi_c H_c (x) Delta_c -
     H-bar (x) Delta-bar = sum_c pi_c (H_c - H-bar) (x) (Delta_c -
     Delta-bar). Numerical check (numpy, seed 0, C = 4, Dirichlet weights,
@@ -26,7 +26,7 @@ scope:
     measurements are still missing.
 evidence:
   - "Papyan (2020), LIT-613, read in NOTE-474; Martens & Grosse (2015), LIT-622, read in NOTE-486."
-  - "CLAIM-tmp1w7aa, filed in #262 with the proof."
+  - "CLAIM-391, filed in #262 with the proof."
 blockers:
   - "The mechanism is inferred, not measured (ADR-047 v3)."
 notes: >-
