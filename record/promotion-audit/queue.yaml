@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 140
+version: 141
 updated: '2026-10-19'
 record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
 procedure: record/decisions.d/ADR-047.md
@@ -41,8 +41,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 112
-  promotion_paths: 82
+  reviewed: 117
+  promotion_paths: 87
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -2938,6 +2938,51 @@ candidates:
   decision: decisions/THEORY-163.yaml
   carried_out_in:
   - '#254'
+- code: THEORY-244
+  wave: 3
+  triage: batch-050
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-050
+  decision: decisions/THEORY-244.yaml
+  carried_out_in:
+  - '#250'
+- code: THEORY-259
+  wave: 3
+  triage: batch-050
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-050
+  decision: decisions/THEORY-259.yaml
+  carried_out_in:
+  - '#250'
+- code: THEORY-261
+  wave: 3
+  triage: batch-050
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-050
+  decision: decisions/THEORY-261.yaml
+  carried_out_in:
+  - '#259'
+- code: THEORY-267
+  wave: 3
+  triage: batch-050
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-050
+  decision: decisions/THEORY-267.yaml
+  carried_out_in:
+  - '#259'
+- code: THEORY-271
+  wave: 3
+  triage: batch-050
+  state: decided
+  disposition: promote
+  batch: batch-050
+  decision: decisions/THEORY-271.yaml
+  carried_out_in:
+  - '#250'
 history:
 - version: 1
   date: '2026-10-19'
@@ -3480,4 +3525,10 @@ history:
 - version: 140
   date: '2026-10-20'
   note: '#248, #251, #252, #253 merged; CLAIM-tmpjqb3e renamed to CLAIM-385 in the ledger.'
+- version: 141
+  date: '2026-10-19'
+  note: 'Batch 050 integrated: 5 of 5 found a promotion path. THEORY-244, -259 and -271 are theorems re-derived
+    here (ADR-047 v2); THEORY-267 is one study read in full (ADR-047 v3); THEORY-261 is an approximate
+    derivation confirmed by the record''s own simulation, which its promote_when named as sufficient.
+    Carried out in two PRs.; carried_out_in #250, #259'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

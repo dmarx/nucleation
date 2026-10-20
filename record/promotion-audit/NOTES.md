@@ -1471,3 +1471,26 @@ history note. THEORY-277 is requeued on this basis.
 - THEORY-085's CFAC - KFAC identity is the record's own one-line algebra
   (class-weighted); file it as a demonstrated CLAIM with THEORY-019 in the
   next follow-up batch.
+
+## 2026-10-19 — batch 050 (wave 3, score-2 band)
+
+- The score-2 band went 5 of 5 (13 of 15 across batches 039, 045 and 050).
+  Keep working through it by title.
+- When a title says two quantities agree "only to within" some term, check
+  whether the source shows the term is reached or only bounds the gap.
+  THEORY-244's entropy gap is reached (a point mass); THEORY-259's alpha
+  is only an upper bound, and the conditional form of domination replaces
+  it by the likelihood family's complexity, constant over H.
+- A promote_when that names a simulation as sufficient can often be met in
+  the review itself (THEORY-261: Kanerva's basic SDM at up to 200,000
+  locations, about 20 s per run). Record the design, seeds and results in
+  the decision file; the scripts do not survive the session.
+- For a theorem over "some labelling", look for a convexity argument that
+  covers every labelling at once before following a case analysis
+  (THEORY-271: a nonnegative affine function vanishing on half the cube
+  vanishes on a facet).
+- Jaeckel's SDM fidelity formula is slightly conservative at small p,
+  because it treats the target's own activation count as additive noise,
+  and slightly optimistic at large p, because Hamming-ball overlaps vary
+  more than Poisson. Its optimum (2MT)^(-1/3) still sits between the
+  measured and predicted optima.

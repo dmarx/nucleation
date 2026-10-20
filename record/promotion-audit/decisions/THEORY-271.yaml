@@ -1,0 +1,68 @@
+# record/promotion-audit/decisions/THEORY-271.yaml
+id: THEORY-271
+batch: batch-050
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived here for every labelling and for any number d of aspects,
+    which meets both parts of the promote_when (ADR-047 v2).
+
+    Setting. Subjects s in {0,1}^d (all 2^d), one verb per aspect v, and
+    objects o(v,b), b in {0,1}; sentence (s, v, o(v, s_v)) with probability
+    p(s,v). The raw co-occurrence row of s has entry p(s,v) at verb v and
+    p(s,v)1[s_v = b] at object o(v,b) (subjects never co-occur). Definition
+    1: the rows form a parallelepiped if, for some bijection sigma from the
+    cube's vertices to the subjects, x -> row(sigma(x)) is affine in x
+    (equal edge vectors along each axis are the same thing on the cube).
+
+    Sufficiency. If p(s,v) = q(v, s_v) for every object (Eq. 5), take sigma
+    the identity: the verb entry q(v,0)(1 - s_v) + q(v,1)s_v and the object
+    entries q(v,1)s_v and q(v,0)(1 - s_v) are affine in s. The edge vector
+    for aspect k is supported on verb k and its two objects, so the d edge
+    vectors have disjoint supports and are independent whenever every verb
+    has positive probability (otherwise the shape is degenerate but still
+    meets Definition 1).
+
+    Necessity, for any sigma. Fix an object o(v,b) and let f(x) be its
+    column, read through sigma. f is affine and nonnegative on the vertices,
+    hence on the whole cube. If f is not identically zero, its zero set on
+    the cube is the cube's intersection with a supporting hyperplane, which
+    is a face, and the zero vertices are that face's vertices. f vanishes
+    at least on the 2^(d-1) subjects with s_v != b, so the face has at least
+    2^(d-1) vertices: it is a facet (it cannot be the whole cube, since f is
+    not identically zero) and holds exactly those subjects. An affine function
+    that vanishes on a facet {x_k = c} is a multiple of x_k - c, so it is
+    constant on the opposite facet: the 2^(d-1) sentences ending in o(v,b)
+    are equally probable. If f is identically zero they are all 0. This
+    replaces the paper's case analysis over permutations with one argument
+    that covers every labelling.
+
+    Checked numerically for d = 3 over all 8! = 40320 labellings: a
+    distribution meeting Eq. 5 forms a parallelepiped, including with one
+    object's group at zero; one sentence perturbed by 0.1%, or a uniform
+    random p, forms none. Recipe: rows as above; for each permutation test
+    whether the rows equal their projection onto span{1, x1, x2, x3}
+    (tolerance 1e-9).
+  excluded: >-
+    Nothing in the title. The body's existing limits stand: raw counts
+    only, exact shapes only, independent aspects with the full hypercube of
+    subjects, nothing about PMI, log counts or natural text.
+evidence:
+  - "LIT-977, §§5.3-5.6, Theorem 1 and its proof, read in full in NOTE-781."
+  - "This review's derivation for any labelling and any d (scope.accepted), and the d = 3 brute-force check."
+blockers: []
+notes: >-
+  Triage-006 scored it 2 (title, relation); it is formal in fact. The
+  promote_when asked for a clean proof over every labelling and a
+  generalisation to d aspects with 2^d subjects; the facet argument gives
+  both, so no QUESTION is needed.
+unlocks: []
+next_action: >-
+  Promote in a PR with the title unchanged and the derivation, the
+  generalisation to d aspects and the numerical check as a dated note.
