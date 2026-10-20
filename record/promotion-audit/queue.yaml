@@ -1,35 +1,23 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 132
+version: 133
 updated: '2026-10-19'
 record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
 procedure: record/decisions.d/ADR-047.md
 handoff:
   batch: null
   state: between batches
-  in_review:
-  - '#237'
-  - '#238'
-  - '#239'
-  - '#240'
-  - '#241'
-  - '#242'
-  - '#243'
-  - '#244'
-  next_step: 'Round 042-046 is integrated. Open PRs: #237 (CLAIM-265 promoted with a repaired proof; CLAIM-tmprruzz
-    filed; THEORY-080 corrected), #238 (THEORY-026, -177, -294), #239 (THEORY-280, -289, -387), #240 (THEORY-318,
-    -270, -585), #241 (THEORY-253, -382), #242 (THEORY-110 split), #243 (THEORY-189, -305, -313), #244
-    (THEORY-181, -237). Merge one at a time after each regenerate commit, this ledger last; when a merge
-    leaves a later PR conflicted on inactive-ok lines or refined_by lists, merge main into it and keep
-    both sides (resolve_directives). Next: triage-006 formal route is exhausted (17 of 20 at score >=
-    3). Work through the 44 remaining score-2 entries in batches of five, sorted by what the title asserts
-    (batch 045 went 5 of 5, 8 of 10 with batch 039). Follow-ups: THEORY-019 (file a demonstrated CLAIM,
-    as THEORY-080); reading tasks for THEORY-083, -162, -167, -485. Owner questions open: report titles
-    (THEORY-344, -351, -071, -628); filing a split-off record-own result Active at once (CLAIM-tmprruzz);
-    THEORY-110 split (#242); THEORY-073 narrow-and-promote of an argument; CLAIM-143 class-relative wording;
-    THEORY-321 multi-group case; THEORY-185 conditional theorems; CLAIM-139 remedy; CLAIM-328; CLAIM-206
-    vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160 narrowing; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
+  in_review: null
+  next_step: 'Round 042-046 is integrated. Its PRs #237-#244 are merged. Next: triage-006 formal route
+    is exhausted (17 of 20 at score >= 3). Work through the 44 remaining score-2 entries in batches of
+    five, sorted by what the title asserts (batch 045 went 5 of 5, 8 of 10 with batch 039). Follow-ups:
+    THEORY-019 (file a demonstrated CLAIM, as THEORY-080); reading tasks for THEORY-083, -162, -167, -485.
+    Owner questions open: report titles (THEORY-344, -351, -071, -628); filing a split-off record-own
+    result Active at once (CLAIM-tmprruzz); THEORY-110 split (#242); THEORY-073 narrow-and-promote of
+    an argument; CLAIM-143 class-relative wording; THEORY-321 multi-group case; THEORY-185 conditional
+    theorems; CLAIM-139 remedy; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160
+    narrowing; CLAIM-322, CLAIM-251, THEORY-157, THEORY-277.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -3260,4 +3248,7 @@ history:
   date: '2026-10-19'
   note: 'Round 042-046 closed: 17 promotions, 1 split, 1 new demonstrated CLAIM, 2 corrections in 24 reviews;
     hand-off updated.'
+- version: 133
+  date: '2026-10-20'
+  note: '#237-#244 merged.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
