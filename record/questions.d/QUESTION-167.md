@@ -20,6 +20,8 @@ summary: >-
   [THEORY-172](../theory.d/THEORY-172.md), the listener-side account that extends [THEORY-472](../theory.d/THEORY-472.md).
 refined_by:
 - QUESTION-209
+answered_by:
+- THEORY-tmpcgnmv
 ---
 
 # QUESTION-167: Do word learners reason about an informative speaker, or only apply the size principle, when displays are built so that the two predict different bets?
