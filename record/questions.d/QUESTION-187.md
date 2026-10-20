@@ -19,7 +19,7 @@ summary: >-
   only at d = 8 and saturating ef only at d = 4, and at d = 128 its
   scaling departs from a logarithm.
 answered_by:
-- THEORY-tmp880z4
+- THEORY-815
 ---
 
 # QUESTION-187: Does greedy layered search on the graph HNSW actually builds take expected O(log N) distance computations to a stated recall, under a stated condition on the data such as bounded doubling dimension?

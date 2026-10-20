@@ -1,4 +1,5 @@
 ---
+number: 816
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmpcgnmv
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: 'A word-learning experiment whose displays make an informative-speaker learner and a plain size-principle learner predict different bets, for example vague intended meanings, non-uniform literal meanings, or a speaker the learner knows to be uninformative, with both models and a frequency baseline fitted on part of the data and tested on the rest. It is promoted if the informative-speaker model wins on held-out displays. It is refuted if the plain size-principle learner does as well where they differ. Further correlations of condition means with a parameter-free model, in displays where the two coincide, cannot settle it.'
 
-# The claim. Repeat it as the body's `# THEORY-tmpcgnmv:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-816:` heading; the lint checks
 # that the two agree.
 title: 'Learners inferring what a novel word means from its use reason about a speaker who chose the word to be informative about the referent, so the size principle in word learning is a consequence of that inference and not a separate rule of generalisation'
 
@@ -59,7 +62,7 @@ answers:
 <!-- inactive-ok-file: THEORY-785 — Proposed; the listener-side counterpart of this thesis, cited to say how the two differ -->
 
 
-# THEORY-tmpcgnmv: Learners inferring what a novel word means from its use reason about a speaker who chose the word to be informative about the referent, so the size principle in word learning is a consequence of that inference and not a separate rule of generalisation
+# THEORY-816: Learners inferring what a novel word means from its use reason about a speaker who chose the word to be informative about the referent, so the size principle in word learning is a consequence of that inference and not a separate rule of generalisation
 
 ## Source
 

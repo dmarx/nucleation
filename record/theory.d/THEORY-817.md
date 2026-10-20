@@ -1,4 +1,5 @@
 ---
+number: 817
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmprjbsb
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: "A proof, for a stated class of percept-action channels with feedback wider than Fiderer et al.'s one binary memoryless channel, that no maximally predictive agent attains the channel's work capacity. It is refuted for a class by a feedback channel in it whose work-efficient agents include a maximally predictive one. Further single-channel examples cannot settle it."
 
-# The claim. Repeat it as the body's `# THEORY-tmprjbsb:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-817:` heading; the lint checks
 # that the two agree.
 title: "Once an agent's actions affect the percepts it receives, maximal prediction of those percepts is generally not what thermodynamic efficiency requires: in percept-action loops with feedback, maximally predictive agents generally extract less work than the most efficient agent"
 
@@ -57,7 +60,7 @@ extends:
 ---
 
 
-# THEORY-tmprjbsb: Once an agent's actions affect the percepts it receives, maximal prediction of those percepts is generally not what thermodynamic efficiency requires: in percept-action loops with feedback, maximally predictive agents generally extract less work than the most efficient agent
+# THEORY-817: Once an agent's actions affect the percepts it receives, maximal prediction of those percepts is generally not what thermodynamic efficiency requires: in percept-action loops with feedback, maximally predictive agents generally extract less work than the most efficient agent
 
 ## Source
 

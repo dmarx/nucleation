@@ -21,7 +21,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The narrowing-loss sweep (batch 072, ADR-047 v4) filed THEORY-tmp880z4,
+    The narrowing-loss sweep (batch 072, ADR-047 v4) filed THEORY-815,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
 tags:
@@ -47,9 +47,9 @@ summary: >-
   paper gives no worst-case bound and no recall guarantee. Construction is
   argued to cost about N searches.
 extended_by:
-- THEORY-tmp880z4
+- THEORY-815
 ---
-<!-- inactive-ok-file: THEORY-tmp880z4 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
+<!-- inactive-ok-file: THEORY-815 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-365: In one study of a stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed a number of distance computations that grew no worse than logarithmically with the number of items and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it
 
@@ -153,7 +153,7 @@ than logarithmically", not "logarithmically".
 
 ## Note of 2026-10-20: the wider claim, filed Proposed
 
-Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 072) filed [THEORY-tmp880z4](THEORY-tmp880z4.md)
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 072) filed [THEORY-815](THEORY-815.md)
 as Proposed, extending this entry. It carries the claim this entry's
 title gave up when batch 039 narrowed it: that the layered hierarchy is what makes greedy search logarithmic, where single-layer navigable graphs grow polylogarithmically, as Malkov and Yashunin argue, stated for data of low intrinsic dimension because the paper's own 200-million-vector SIFT measurement departs from a logarithm.
 This entry is its evidence and is not changed by the filing.

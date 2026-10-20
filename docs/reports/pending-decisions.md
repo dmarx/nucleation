@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**760 document(s) awaiting a decision.**
+**763 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 760.
+92 of the 763.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-435 of the 760.
+438 of the 763.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -512,11 +512,11 @@
 | 2026-10-20 | Proposed | [THEORY-772](../../record/theory.d/THEORY-772.md) | 11 | 0 | For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction's first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale |
 | 2026-10-20 | Proposed | [THEORY-759](../../record/theory.d/THEORY-759.md) | 7 | 0 | A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order of frequency, and keeps that order when the amplitudes rise tenfold with frequency, so in this setting the order of acquisition is set by the learner and not by the strength of the target's components |
 | 2026-10-20 | Proposed | [THEORY-747](../../record/theory.d/THEORY-747.md) | 6 | 0 | In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian |
+| 2026-10-20 | Proposed | [THEORY-785](../../record/theory.d/THEORY-785.md) | 4 | 0 | Listeners interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could have said, as the rational speech act account of Frank, Goodman and coauthors proposes |
 | 2026-10-20 | Proposed | [THEORY-780](../../record/theory.d/THEORY-780.md) | 2 | 0 | Transcriptional regulation alone can give a bacterium's gene expression a memory: in E. coli, a transient knockdown or overexpression of one regulator, with the environment held fixed, can leave other genes in a different self-maintaining expression state after it is released, as Zhao, Wytock, Reynolds and Motter predict from a Boolean-network model of its regulatory core |
 | 2026-10-20 | Proposed | [THEORY-782](../../record/theory.d/THEORY-782.md) | 2 | 0 | In networks that learn addition from summed embeddings, the critical training fraction of grokking is the fraction at which the training set's same-answer pairs come to fix the generalising representation up to translation and scale, at every group size, as Liu, Kitouni, Nolte, Michaud, Tegmark and Williams propose |
 | 2026-10-20 | Proposed | [THEORY-783](../../record/theory.d/THEORY-783.md) | 2 | 0 | In neural-network training, sign-descent-like optimizers such as Adam make independent skills of unequal frequency compete for coordinate signs, so that they are learned one after another where gradient descent would learn them together; this is one source of sequential skill onset, beside dependence between skills, as Liu, Liu, Michaud, Gore and Tegmark propose |
 | 2026-10-20 | Proposed | [THEORY-784](../../record/theory.d/THEORY-784.md) | 2 | 0 | Language models trained on limited data show a test loss falling as P^(−γ/(2β)) because P training tokens resolve token correlations only out to a horizon growing as P^(1/(2β)), so that more data mainly lengthens the context a model can use, when the model learns within that horizon faster than it grows, as Cagnetta, Raventós, Ganguli and Wyart propose |
-| 2026-10-20 | Proposed | [THEORY-785](../../record/theory.d/THEORY-785.md) | 2 | 0 | Listeners interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could have said, as the rational speech act account of Frank, Goodman and coauthors proposes |
 | 2026-10-20 | Proposed | [THEORY-786](../../record/theory.d/THEORY-786.md) | 2 | 0 | Deep networks learn hierarchically generated data from a number of examples set by when the correlations between input patches and the class rise above sampling noise, so detecting those correlations is how they learn the grammar, as Cagnetta and coauthors propose |
 | 2026-10-20 | Proposed | [THEORY-787](../../record/theory.d/THEORY-787.md) | 2 | 0 | A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information |
 | 2026-10-20 | Proposed | [THEORY-788](../../record/theory.d/THEORY-788.md) | 2 | 0 | Training a deep classifier past zero training error generally collapses its last-layer features onto their class means, drives the centred means toward a simplex equiangular tight frame aligned with the classifier, and makes the decision nearest class mean, as Papyan, Han and Donoho propose from their runs |
@@ -546,11 +546,14 @@
 | 2026-10-20 | Proposed | [THEORY-812](../../record/theory.d/THEORY-812.md) | 2 | 0 | As dimension grows with the undersampling and sparsity ratios fixed, the ℓ₁ phase transition for recovering sparse vectors from random measurements sits at the same curve for a broad class of random-matrix ensembles, those with a kind of orthogonality or weak independence, as for Gaussian matrices, while differing at finite size |
 | 2026-10-20 | Proposed | [THEORY-813](../../record/theory.d/THEORY-813.md) | 2 | 0 | Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces |
 | 2026-10-20 | Proposed | [THEORY-814](../../record/theory.d/THEORY-814.md) | 2 | 0 | In scientific communities that settle on a consensus model by sound model comparisons, high reproducibility of results is not evidence that the consensus is true, because which alternatives get proposed can hold a false consensus whose results reproduce almost perfectly |
+| 2026-10-20 | Proposed | [THEORY-815](../../record/theory.d/THEORY-815.md) | 2 | 0 | Layering a navigable small-world graph on nested random subsets of the data, with links separated by length scale and each layer's degree capped, makes greedy nearest-neighbour search cost grow logarithmically with the number of items on data of low intrinsic dimension, where the single-layer graph's cost grows polylogarithmically |
+| 2026-10-20 | Proposed | [THEORY-816](../../record/theory.d/THEORY-816.md) | 2 | 0 | Learners inferring what a novel word means from its use reason about a speaker who chose the word to be informative about the referent, so the size principle in word learning is a consequence of that inference and not a separate rule of generalisation |
+| 2026-10-20 | Proposed | [THEORY-817](../../record/theory.d/THEORY-817.md) | 2 | 0 | Once an agent's actions affect the percepts it receives, maximal prediction of those percepts is generally not what thermodynamic efficiency requires: in percept-action loops with feedback, maximally predictive agents generally extract less work than the most efficient agent |
 | 2026-10-20 | Proposed | [THEORY-781](../../record/theory.d/THEORY-781.md) | 1 | 0 | Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes |
 
 ## ADRs
 
-2 of the 760.
+2 of the 763.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -559,7 +562,7 @@
 
 ## QUESTIONs
 
-9 of the 760.
+9 of the 763.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -575,7 +578,7 @@
 
 ## CLAIMs
 
-217 of the 760.
+217 of the 763.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -799,7 +802,7 @@
 
 ## CASEs
 
-1 of the 760.
+1 of the 763.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -807,7 +810,7 @@
 
 ## TERMs
 
-2 of the 760.
+2 of the 763.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -816,7 +819,7 @@
 
 ## ARGs
 
-2 of the 760.
+2 of the 763.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

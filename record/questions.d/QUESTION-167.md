@@ -21,7 +21,7 @@ summary: >-
 refined_by:
 - QUESTION-209
 answered_by:
-- THEORY-tmpcgnmv
+- THEORY-816
 ---
 
 # QUESTION-167: Do word learners reason about an informative speaker, or only apply the size principle, when displays are built so that the two predict different bets?

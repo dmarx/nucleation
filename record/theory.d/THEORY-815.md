@@ -1,4 +1,5 @@
 ---
+number: 815
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmp880z4
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: 'A proof that greedy layered search on the graph HNSW actually builds, with a fixed number of pruned links per element and not an exact Delaunay graph, takes expected O(log N) distance computations to reach a stated recall, under a stated condition on the data, such as bounded intrinsic or doubling dimension. It is refuted for that class by a family of datasets meeting the condition on which the cost needed for a fixed recall grows faster than log N. More benchmarks at fixed dimension cannot settle it. They re-establish low-dimensional measurements that are already held, and they cannot reach the sizes at which the paper says the high-dimensional case could be checked.'
 
-# The claim. Repeat it as the body's `# THEORY-tmp880z4:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-815:` heading; the lint checks
 # that the two agree.
 title: "Layering a navigable small-world graph on nested random subsets of the data, with links separated by length scale and each layer's degree capped, makes greedy nearest-neighbour search cost grow logarithmically with the number of items on data of low intrinsic dimension, where the single-layer graph's cost grows polylogarithmically"
 
@@ -58,7 +61,7 @@ answers:
 ---
 
 
-# THEORY-tmp880z4: Layering a navigable small-world graph on nested random subsets of the data, with links separated by length scale and each layer's degree capped, makes greedy nearest-neighbour search cost grow logarithmically with the number of items on data of low intrinsic dimension, where the single-layer graph's cost grows polylogarithmically
+# THEORY-815: Layering a navigable small-world graph on nested random subsets of the data, with links separated by length scale and each layer's degree capped, makes greedy nearest-neighbour search cost grow logarithmically with the number of items on data of low intrinsic dimension, where the single-layer graph's cost grows polylogarithmically
 
 ## Source
 
