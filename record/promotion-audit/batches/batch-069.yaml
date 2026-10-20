@@ -42,7 +42,8 @@ filed:
     who_asserts: LIT-909 (Kenton et al., §1, §4)
     answers: QUESTION-032, QUESTION-228
 reclassified: []
-promotion_prs: []
+promotion_prs:
+- "#289"
 notes_for_ledger:
 - Triage-008's suggested titles end "as X proposes"; that is the report-title form still open with the owner (THEORY-344, -351, -071, -628, -336). The filed titles state the thesis as a finding and name the proposer in the summary and body instead.
 - When the old promote_when has already moved to a QUESTION, the new Proposed THEORY carries it as its own promote_when and `answers` that QUESTION, so the question shows the proposal that would answer it.
