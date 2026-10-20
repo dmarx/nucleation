@@ -1,40 +1,39 @@
-# record/promotion-audit/decisions/THEORY-083.yaml
 id: THEORY-083
-batch: batch-044
-reviewed: '2026-10-19'
-reviewed_revision: 2f565411
+batch: batch-052
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+supersedes: batch-044 (retain-proposed pending a reading task; this batch does the reading)
 current_status: Proposed
-disposition: retain-proposed
-confidence: high
+disposition: narrow-and-promote
+confidence: medium
 scope:
   accepted: >-
-    The theorems stated in the body (Theorems 2, 4 and 5 of Papyan, Han
-    and Donoho), which take the collapsed end state as given and are read
-    with proofs in NOTE-476. They are not what the title claims.
+    ADR-047 v3: one study (Papyan, Han & Donoho, arXiv v2) read in full,
+    now including Figures 2-7 read from the rendered plots, which batch 044
+    found missing. The title is narrowed to the plotted runs (VGG, ResNet,
+    DenseNet; seven balanced datasets; cross-entropy, SGD, weight decay, no
+    augmentation) and to what they show: every measure moves toward
+    collapse in all 21 cells, close to completion on MNIST, Fashion-MNIST,
+    SVHN and CIFAR-10, partial on CIFAR-100 and STL10, and clearly
+    incomplete on ImageNet.
   excluded: >-
-    The title is a measurement: training past zero error collapses
-    features (NC1), drives the centred means to a simplex ETF (NC2), aligns
-    the classifier (NC3) and makes the decision nearest class mean (NC4).
-    Under ADR-047 v3 one study read in full could carry a title hedged to
-    what it measured, but the measurements here are Figures 2–7, and
-    NOTE-476's history says "Figures 2–8 are read from their captions and
-    the text". No values are in the text, and Table 1 reports only test
-    accuracy. That is batch 019's and batch 031's case (THEORY-578,
-    THEORY-115): the record has not read the result it would promote.
+    "Collapses onto their class means" as a general statement: on ImageNet
+    Tr(Sigma_W Sigma_B^+)/C ends near 1 (ResNet), 2 (VGG) and 10 (DenseNet),
+    and nearest class mean disagrees with the network on about a tenth of
+    test examples. The body's "monotone across all 21 cells", which the
+    plots contradict. Replication outside the protocol and a
+    gradient-descent derivation, moved to QUESTION-tmpybmwx.
 evidence:
-  - "NOTE-476 version 1 history: 'Figures 2–8 are read from their captions and the text; Table 1 is read from the text.'"
-  - "THEORY-083 body: the trends 'monotone across all 21 cells', one model per learning rate with the best final test error selected."
-blockers:
-  - "The NC1–NC4 curves (Figures 2–7) have not been read; NOTE-476 needs a dated note recording what they show, cell by cell."
+  - "Fig. 6: NC1 ratio ends about 1e-4 to 1e-2 on the four easier datasets, 1e-2 to 1e-1 on CIFAR-100 and STL10, about 1-10 on ImageNet."
+  - "Fig. 7: NCC mismatch near 0 on the easier datasets, 0.02-0.07 on CIFAR-100 and STL10, about 0.1 on ImageNet."
+  - "Figs. 2-5: equinorm, equiangular, maximal-angle and self-duality measures fall in every cell; plateaus above zero on the harder datasets (e.g. NC3 about 0.3 for DenseNet on ImageNet)."
+  - "Methods: one plotted run per dataset-network pair (best final test error of a learning-rate sweep), no seeds or intervals; values read from plots, not stated in the text."
+blockers: []
 notes: >-
-  Batch 020's sort: a measurement. Triage-006 scored it 3 (cites,
-  relation, derived) because the body quotes the end-state theorems: the
-  same false flag batch 037 named for THEORY-110, theorems cited in the
-  body of an empirical claim. Once the figures are read, narrow to the
-  protocol (seven balanced datasets, three architectures, no augmentation,
-  one selected run per cell) and promote under ADR-047 v3, moving the
-  replication request to a QUESTION. The anthology-candidate flag stands.
+  Medium, not high: the values are read from log-scale plots, there are no
+  seeds, and some of the largest drops sit at the learning-rate cuts, so
+  "through the terminal phase" and "because of the learning-rate schedule"
+  are not separated by these figures. The title claims only the direction
+  and the end states, which the plots show directly.
 unlocks: []
-next_action: >-
-  Requeue after a reading task: view Figures 2–7 of arXiv:2008.08186 and
-  add their values to NOTE-476.
+next_action: Merge #253.

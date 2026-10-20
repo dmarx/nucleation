@@ -1,61 +1,33 @@
-# record/promotion-audit/decisions/THEORY-019.yaml
 id: THEORY-019
-batch: batch-042
-reviewed: '2026-10-19'
-reviewed_revision: 2f565411
+batch: batch-052
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+supersedes: batch-042 (needs-correction; this batch carries it out)
 current_status: Proposed
 disposition: needs-correction
-confidence: medium
+confidence: high
 scope:
   accepted: >-
-    The whole re-derives; the promote_when's held source is replaced by the
-    derivation (ADR-047 v2). But the summary says the sources state neither
-    the corollary nor its converse and "This document puts that together from
-    several readings", and the body marks its last paragraph "the filer's own
-    inference": the record's own assembly, which batch 036 (THEORY-080) sends
-    to a demonstrated CLAIM under ADR-032.
-
-    Derivation. G compact (finite included), ρ an orthogonal representation on
-    ℝⁿ (any real representation is orthogonal for the averaged inner product),
-    A symmetric with Aρ(g) = ρ(g)A for all g.
-    (a) Eigenspaces are G-invariant: Av = λv ⇒ Aρ(g)v = λρ(g)v.
-    (b) A G-invariant subspace has an invariant orthogonal complement, so each
-        eigenspace splits into real irreducibles, and every multiplicity is a
-        sum of real-irreducible dimensions.
-    (c) Finer, the promote_when's statement. A preserves each isotypic
-        component W ≅ V^m (V irreducible of real dimension d): by Schur,
-        Hom_G(V, V′) = 0 for non-isomorphic V, V′, so A maps W into W. An
-        invariant subspace of W is isomorphic to V^k, so each eigenspace meets
-        W in dimension kd: multiplicities are sums of multiples of the d_i.
-        End_G(V) is a real division algebra, ℝ, ℂ or ℍ (Frobenius); the
-        Hermitian-over-𝔽 form is not needed for the count.
-    (d) Pairs over ℝ. The real irreducibles of SO(2), and of ℤ/n for n ≥ 3,
-        are the trivial and sign characters and 2-D rotation planes with
-        commutant {aI + bJ}, J² = −I, Jᵀ = −J; aI + bJ is symmetric only for
-        b = 0, so on each plane A is a scalar and its eigenvalue is doubled.
-    (e) The converse fails. Every symmetric A with multiplicities m_j commutes
-        with O(m₁) × … × O(m_r) acting on its eigenspaces, and with every
-        subgroup, so no procedure recovers a unique group from the spectrum;
-        the hypercube Laplacian (O'Donnell) has the same spectrum under the
-        hyperoctahedral group, where each level is irreducible, and under S_n,
-        where level 1 is trivial ⊕ standard. Every orthonormal basis of an
-        eigenspace is an eigenbasis, so the spectrum fixes no basis inside a
-        multiplet.
+    The correction batch 042 asked for: the assembled result, (b)-(e) of
+    batch 042's derivation, filed as the record's own claim
+    (CLAIM-tmpjqb3e) with the proof, and THEORY-019 pointed to it by a
+    version-3 history entry, a summary sentence and a dated note.
   excluded: >-
-    Nothing in the title fails. What fails is the filing: (a)–(e) is the
-    record's result, not a source's account.
+    Promotion of THEORY-019. What stays is a reading of sources that state
+    neither the corollary nor its converse; its promote_when asks for a
+    held source that does, and the record holds none. Re-deriving the
+    result does not meet that request for a reading account, now that the
+    derivation lives in the claim.
 evidence:
-  - "Summary and body: 'Neither states the degeneracy corollary or its converse. This document puts that together'; 'This paragraph is the filer's own inference.'"
-  - "NOTE-282, NOTE-305, NOTE-307, NOTE-291: the pieces (Lemma 6, Peter–Weyl §3, the real-type correction, the cube's levels)."
+  - "Batch 042's derivation (a)-(e), restated as the new claim's proof."
+  - "Summary: 'Neither states the degeneracy corollary or its converse. This document puts that together from several readings.'"
 blockers:
-  - "ADR-032: a result the record proves belongs in a CLAIM (batch 036, THEORY-080; THEORY-005's precedent)."
+  - "A held representation-theory text (e.g. Serre) stating the real Schur corollary with the three real types."
 notes: >-
-  The record's 7×7 circulant, SO(2) average and quaternion-group checks agree
-  with (c)–(d). THEORY-652 (Active, Wedderburn) gives the algebra-side half
-  the body mentions; (c) needs only Schur and complete reducibility.
+  Title left unchanged, as with THEORY-080. Its supports (CLAIM-193,
+  CLAIM-269) are not moved to the new claim: whether they should rest on
+  the claim instead is for the next review of those claims.
 unlocks: []
 next_action: >-
-  Correction PR (a later batch, with THEORY-080's): file a demonstrated
-  CLAIM stating (b)–(e), grounded on LIT-305, LIT-329 and LIT-346, with the
-  derivation above as its body; THEORY-019 then rests on it or is superseded
-  by it, by the owner's choice.
+  Merge #252. Requeue THEORY-019 only if a representation-theory text is
+  added to the record.
