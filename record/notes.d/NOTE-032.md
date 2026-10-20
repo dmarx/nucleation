@@ -44,8 +44,6 @@ summary: >-
   plays action 0 with probability 1/√2.
 ---
 
-<!-- inactive-ok-file: THEORY-026 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
-
 # NOTE-032: Work capacity of channels with memory
 
 ## Contribution

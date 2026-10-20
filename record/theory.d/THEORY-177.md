@@ -1,18 +1,22 @@
 ---
 number: 177
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpsywrj
-promote_when: >-
-  The step the proof quotes is checked at its source: a reading of Jones
-  (2019), Proposition 8.4, confirming that every coupling of the observed
-  system corresponds to a canonical model with the same per-content
-  disagreement probabilities and conversely. An independent derivation of
-  the identity from a causal-model formalism would also serve.
-  Applications of Δ to data, and restatements in later papers by the same
-  group, do not count.
-title: 'In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the least total direct influence of context that any canonical causal model of the data must contain, and each content''s share is the total-variation distance between its marginals'
-version: 1
+title: "In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the sum, over contents, of the least direct influence of context that a canonical causal model of the data must place on each content, and each content's least influence is the total-variation distance between its two marginals"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-177 (batch 045, ADR-047 v2). The dated note below derives the
+    correspondence between canonical models and couplings from the causal-
+    model side, which the promote_when accepts in place of reading Jones's
+    Proposition 8.4. "The least total direct influence" becomes the sum of
+    per-content minima: one model reaches every content's minimum at once
+    only when the system is noncontextual, so in a contextual system the
+    least total is larger.
 tags:
 - contextuality
 - probabilistic-modeling
@@ -21,13 +25,14 @@ date: '2026-10-09'
 source:
 - LIT-851
 summary: >-
-  Wang, Sadrzadeh, Abramsky & Cervantes (2021), [LIT-851](../literature.d/LIT-851.md),
-  Proposition 1. It joins CbD's maximal couplings ([LIT-777](../literature.d/LIT-777.md), Theorem 3.3)
-  to Jones's 2019 correspondence between couplings and canonical models,
-  which is quoted, not proved. The result measures signalling. It says
-  nothing about contextuality, beyond the bound that a rank-2 system with
-  Δ ≥ 2 cannot be contextual. The minimum is taken over models, so no
-  particular causal model is identified.
+  Wang, Sadrzadeh, Abramsky & Cervantes (2021), [LIT-851](../literature.d/LIT-851.md), Proposition 1. It
+  joins CbD's maximal couplings ([LIT-777](../literature.d/LIT-777.md), Theorem 3.3) to Jones's 2019
+  correspondence between couplings and canonical models, which the paper
+  quotes and the record derives independently. The result measures
+  signalling. Its minima are per content, each reached in its own model;
+  one model reaches them all only if the system is noncontextual. It says
+  nothing about contextuality beyond the bound that a rank-2 system with Δ
+  ≥ 2 cannot be contextual, and identifies no particular causal model.
 supports:
 - CLAIM-125
 - CLAIM-245
@@ -35,7 +40,7 @@ supports:
 
 <!-- inactive-ok-file: CLAIM-125 — Proposed; open, and cited as the claim this finding bears on -->
 
-# THEORY-177: In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the least total direct influence of context that any canonical causal model of the data must contain, and each content's share is the total-variation distance between its marginals
+# THEORY-177: In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice the sum, over contents, of the least direct influence of context that a canonical causal model of the data must place on each content, and each content's least influence is the total-variation distance between its two marginals
 
 ## Source
 
@@ -53,7 +58,7 @@ content F_q. The direct influence of context on q is the probability over
 Λ that F_q(λ, c) ≠ F_q(λ, c′). Let Δ*(F_q) be its least value over all
 canonical models that reproduce the observed distributions.
 
-The proposition is Δ = 2 Σ_q Δ*(F_q), with Δ*(F_q) = 1 − Σ_v
+The proposition is Δ = 2 Σ_q Δ*(F_q), a sum of per-content minima, with Δ*(F_q) = 1 − Σ_v
 min(P[R_q^c = v], P[R_q^{c′} = v]). The proof has three steps:
 
 1. The coupling that keeps a content's copies equal as often as possible
@@ -86,3 +91,39 @@ step, which is why `promote_when` asks for that step to be read.
 - **Not about transport.** It measures signalling within one scenario.
   Whether maps between scenarios ([CLAIM-125](../claims.d/CLAIM-125.md)) preserve or bound it is not
   addressed.
+
+## Note of 2026-10-19: the quoted step, derived
+
+Derived for the promotion audit (batch 045, [ADR-047](../decisions.d/ADR-047.md) v2) from the
+causal-model side, as the promote_when allows. A canonical model has
+context C and background Λ, with Λ independent of C. The definition of
+direct influence as P(Λ ∈ {λ : F_q(λ, c) ≠ F_q(λ, c′)}), unconditional on
+the context, requires that. F_q(Λ, c) is distributed as the observed R_q^c.
+
+1. **Every model gives a coupling.** Take content q, measured in
+   contexts c and c′. Since Λ is independent of C, the pair
+   (F_q(Λ, c), F_q(Λ, c′)) has the two observed marginals, so it is a
+   coupling of them. Its disagreement probability is q's direct influence.
+   So every model's direct influence on q is at least the least
+   disagreement over couplings. That is 1 − Σ_v min(P[R_q^c = v],
+   P[R_q^{c′} = v]), the total-variation distance, reached by the maximal
+   coupling ([LIT-777](../literature.d/LIT-777.md), Theorem 3.3).
+2. **The minimal coupling gives a model, for one content at a time.**
+   Fix the maximal coupling of q's two copies, and leave the other
+   contents' copies uncoupled. In a cyclic system the remaining
+   constraints, the context bundles and q's pair, form a path with no
+   cycle. So they glue into one joint distribution by conditional
+   independence along it. Taking Λ to be that joint reproduces every
+   context's observed distribution and gives q the least direct
+   influence. So Δ*(F_q) equals the total-variation distance.
+3. **The factor 2.** For ±1 variables with P(R = +1) = p,
+   |⟨R⟩ − ⟨R′⟩| = 2|p − p′| = 2·TV. Summing over contents,
+   Δ = 2 Σ_q Δ*(F_q).
+
+Step 2 reaches each content's minimum in its own model. A single model
+that reached every content's minimum at once would be a coupling with
+every connection maximal. In Contextuality-by-Default that exists exactly
+when the system is noncontextual. So the least total direct influence of
+one model equals Δ/2 for a noncontextual system and exceeds it for a
+contextual one, which is why the title now says "the sum, over contents,
+of the least".
