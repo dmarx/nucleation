@@ -1,0 +1,421 @@
+---
+status: Read
+paper: 'LIT-tmplpq6l'
+title: 'Del Vecchio and Slotine — Contraction and singular perturbation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Read in full from the authors' revised manuscript (TACSubmission-revision.pdf,
+    15 pages, dated 22 December 2011, from Del Vecchio's MIT pages): every
+    section, every proof, the example and the references. pdftotext kept
+    the symbols, and pages 4–6 and 12 were also read as page images to
+    check the formulas. Fig. 1 was read for its caption and axes only. The
+    CDC-ECC 2011 version (MIT DSpace, authors' final manuscript) was read
+    for its statements of Lemma 1, Lemma 2, Theorems 2 and 3 and its
+    introduction. The version of record was not reached, so differences
+    between the revision and the printed note are unknown. Re-derived
+    here: Lemma 1 (constant metric), Lemma 2 and Theorem 3, and, beyond the
+    paper, Lemma 1 for a state- and time-dependent metric and the passage
+    that Bousquet and Slotine's Lemma 4 sketches. Checked numerically
+    (scripts in the session scratchpad, not in the record).
+date: '2026-10-20'
+summary: >-
+  Contraction gives global, explicit, uniform-in-time bounds for singular
+  perturbation: the fast state reaches an εχ_z(d + K)/λ_z neighbourhood of
+  the slow manifold at rate λ_z/ε, and the reduced (quasi-steady-state)
+  trajectory is O(ε)-accurate for all time. Theorem 3 as printed is false:
+  it needs the reduced system, not f alone, to be contracting. The
+  robustness lemma is proved for constant metrics only; the reading
+  re-derives it for state- and time-dependent ones, and with it the two
+  steps [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md) lacked.
+---
+<!-- inactive-ok-file: THEORY-tmp5mn7l — Proposed; the account whose missing steps this reading supplies -->
+<!-- inactive-ok-file: THEORY-257 — Proposed; named for context, nothing here rests on it -->
+
+# NOTE-tmpio97l: Del Vecchio and Slotine — Contraction and singular perturbation
+
+## Contribution
+
+Standard singular perturbation (Tikhonov, Khalil) gives O(ε) estimates for
+ε below an unspecified ε*, locally, and on infinite horizons only with
+extra stability assumptions. This note replaces the local stability
+hypotheses by contraction of the fast and slow subsystems and obtains
+global bounds with every constant explicit, valid at any ε, on the fast
+state's distance from the slow manifold and on the slow state's distance
+from the reduced trajectory. It extends the result to three time scales and
+applies it to retroactivity attenuation in a phosphorylation cycle, where
+the explicit constants say which parameters to tune.
+
+## Key insight
+
+Treat the slow manifold z = γ(x(t)) as a trajectory of the fast system
+disturbed by the manifold's own motion, of size ε|∂γ/∂x · f|. Contraction
+turns a bounded disturbance into a bounded distance, divided by the
+contraction rate λ_z/ε, so the fast state sits O(ε) from the manifold.
+The slow state is then the reduced system disturbed by f's dependence on
+that O(ε) gap, and contraction of the reduced system turns it into an
+O(ε) trajectory error that does not accumulate.
+
+## Assumptions
+
+- **Two time scales (1):** ẋ = f(x, z, t), εż = g(x, z, ε), ε ≥ 0.
+- **Contraction by matrix measure (Theorem 1, Table I).** µ(∂f/∂x) ≤ −λ for
+  a matrix measure µ induced by |·|₁, |·|₂, |·|_∞ or a weighted norm |Θx|
+  with **Θ a constant invertible matrix**. "Contraction can use
+  time-varying and state-dependent Θ(x, t)" is mentioned (CDC version) and
+  never used. χ is an upper bound on the condition number of Θ.
+- **Partial contraction (Definition 1).** In x: ẏ = f(y, z(t), t) is
+  contracting for every z(t). In z: εẏ = g(x(t), y, ε) is contracting for
+  every x(t) and every ε > 0, at rate λ_z/ε.
+- **Lemma 2:** |∂γ/∂x · f(x, z, t)| ≤ d for all x, z, t, and g K-Lipschitz
+  in ε. With f contracting in x and γ linear this cannot hold globally (f
+  is then unbounded). The proof uses it only along the trajectory.
+- **Theorem 3:** in addition, partial contraction in x at rate λ_x, f
+  α-Lipschitz in z, γ α_γ-Lipschitz. As shown below, the proof needs the
+  reduced system ẋ = f(x, γ(x), t) to be contracting, which partial
+  contraction in x does not give.
+- **Section V:** biomolecular systems (13)–(14) with properties P1 (TA +
+  MB = 0, Ml = 0, MC = 0) and P2 (ker D ⊆ ker C), so that a change of
+  variables x = Tu + My puts them in form (1) with ε = 1/G₁.
+- Deterministic, continuous time throughout.
+
+## Key results
+
+- **Lemma 1 (robustness).** If ẋ = f(x, t) is contracting at rate λ in a
+  metric Θ and |d(x_p, t)| ≤ d for all x_p, t, then any trajectory of
+  ẋ_p = f(x_p, t) + d satisfies |x_p(t) − x(t)| ≤ χe^{−λt}|x_p(0) − x(0)| + χd/λ.
+  Proof: "With R(t) = |Θ(x_p(t) − x(t))|, one has (see [20]) dR/dt + λR ≤
+  |Θd(x_p, t)| … Integrating the above yields the result." The
+  differential inequality is cited, not shown. Re-derived below (R1).
+- **Theorem 2.** Partial contraction in z gives a unique global root
+  z = γ(x, ε) of g = 0; γ(x) := γ(x, 0) has ∂γ/∂x = −(∂g/∂z)⁻¹ ∂g/∂x
+  (4), ∂g/∂z being uniformly invertible.
+- **Lemma 2 (fast bound).** |z(t) − γ(x(t))| ≤ χ_z e^{−(λ_z/ε)t}|z(0) − γ(x(0))| + (d + K)χ_z ε/λ_z, for all t ≥ 0 (5).
+  Re-derived (R3).
+- **Theorem 3 (slow bound).** |x(t) − x_γ(t)| ≤ χ_x|x(0) − x_γ(0)|e^{−λ_x t} + ε[C₁(e^{−λ_x t} − e^{−(λ_z/ε)t}) + C₂(1 − e^{−λ_x t})] (7),
+  and (8) for z − γ(x_γ), with C₁ = χ_x α χ_z |z(0) − γ(x(0))|/(λ_z − ελ_x)
+  and C₂ = χ_x α χ_z (d + K)/(λ_z λ_x). *Holds when:* the reduced system is
+  contracting at rate λ_x, not as stated (R4).
+- **Remark.** With x(0) = x_γ(0) and ε → 0 this recovers the standard
+  O(ε) results, but "ε does not need to be small"; the conditions are
+  "stronger than the local exponential stability requirements".
+- **Three time scales (Proposition 1, Lemma 3, Theorem 4).** With
+  ν₁ = ε₁, ν₂ = ε₂/ε₁ and q = (z, w), if the stacked Jacobian [∂g/∂q; ∂h/∂q]
+  has µ_∞ ≤ −λ, then (10) is partially contracting in q at rate
+  λ min(1, 1/ν₂)/ν₁, and the errors are O(ε₁) + O(ε₂). The µ_∞ argument
+  is a row-wise check and is right. The O(ε₂) term arises because
+  C₁, C₂ = O(ε₂/ε₁) when ν₂ > 1.
+- **Modularity (Definition 2, Theorem 5).** |y(t) − y_is(t)| ≤ K₀e^{−λG₁t} + K₁/G₁
+  for G₁ > G* = 2λ_x/min(λ_y, λ_z), even when the load's rate G₂ = βG₁ is
+  as large as G₁, because P1 and P2 make the load act on the slow
+  manifold only through C s = 0 at equilibrium.
+- **The phosphorylation example.** u = Z (kinase), y = X*, v = C; λ_x = δ,
+  λ_y = ηδ, α = 0, so C₁ = C₂ = 0; the connected system contracts in µ₁
+  with Θ_z = diag(1, θ), θ ∈ (1, 1 + a/b). The bound K₁/G₁ = 2 × 10⁻⁶ against
+  a simulated error of 5 × 10⁻⁸, "a factor of about 40", which the
+  authors trace to a factor of about 40 between J's eigenvalues.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A contracting system disturbed by d stays within χe^{−λt}\|Δ(0)\| + χd/λ of an undisturbed trajectory | strong, for constant Θ | Lemma 1; the differential inequality cited to Lohmiller–Slotine and Desoer–Vidyasagar; re-derived here (R1) |
+| C2 | The fast state approaches the slow manifold at rate λ_z/ε and stays within εχ_z(d + K)/λ_z of it | strong | Lemma 2; re-derived (R3) |
+| C3 | Under partial contraction in x and z, the reduced trajectory is within (7) of the true one for all t ≥ 0 | wrong as stated; strong with the reduced system contracting | Theorem 3; counterexample and corrected re-derivation (R4) |
+| C4 | The bounds hold at any ε, not only as ε → 0 | strong, under the corrected hypotheses | Lemma 2, Theorem 3 |
+| C5 | With three time scales the errors are O(ε₁) + O(ε₂) | moderate | Theorem 4, from Theorem 3 (so with the same gap) and Proposition 1 |
+| C6 | Interconnections satisfying P1–P2 are functionally modular for G₁ large, even with G₂ comparable to G₁ | moderate | Theorem 5 from Lemmas 4–5; in the example α = 0, so the gap in Theorem 3 does not bite |
+| C7 | The bound in the example is conservative by a factor of about 40 | weak | one simulation, Fig. 1 |
+| C8 | The bounds show which parameters to tune (lower p_T/k_d, raise k₂Y_T against k₁X_T), "information [that] could not be obtained by the singular perturbation analysis" | moderate | the form of K₁ |
+
+## Method
+
+Write the slow manifold's image γ(x(t)) as a disturbed solution of the
+fast virtual system; apply the robustness lemma to bound the gap; write
+the slow equation as the reduced system disturbed by f(x, z) − f(x, γ(x));
+apply the lemma again and integrate against the fast bound. For several
+time scales, stack the fast variables and check contraction of the
+stacked system by µ_∞.
+
+## Concepts
+
+- **Contracting system**: any two trajectories converge exponentially;
+  certified here by µ(∂f/∂x) ≤ −λ in some (constant-weighted) norm.
+- **Partial contraction**: contraction of a virtual system in which the
+  other variables are replaced by arbitrary given functions of time.
+- **Virtual system**: a system that the actual trajectory, and the
+  comparison trajectory, both solve (here εẏ = g(x(t), y, ε)).
+- **Retroactivity**: the back-action of a downstream system on an upstream
+  one through the reactions that connect them.
+- **Functionally modular interconnection** (Definition 2): the
+  connected and isolated trajectories differ by at most K₀e^{−λG₁t} + K₁/G₁.
+
+## Re-derivations
+
+The record's, step by step. Norms |·| are Euclidean unless said otherwise;
+σ̄(·) and σ(·) are the largest and smallest singular values.
+
+**R1. Lemma 1, constant metric, any norm (the paper's frame).** Let
+µ_Θ(∂f/∂x(x, t)) ≤ −λ for all x, t, with µ_Θ(A) = µ(ΘAΘ⁻¹). Put
+e = x_p − x and w = Θe. Then ẇ = Θ(f(x_p, t) − f(x, t)) + Θd =
+A(t)w + Θd(t), where A(t) = ∫₀¹ Θ ∂f/∂x(x + se, t) Θ⁻¹ ds (mean-value
+theorem along the segment) and d(t) = d(x_p(t), t).
+
+1. µ is subadditive and positively homogeneous, so it is convex; the
+   integral is a limit of Riemann sums, so µ(A(t)) ≤ ∫₀¹ µ_Θ(∂f/∂x) ds ≤ −λ.
+2. For h > 0, w(t + h) = (I + hA)w(t) + hΘd(t) + o(h), so
+   |w(t + h)| ≤ |I + hA||w(t)| + h|Θd(t)| + o(h). Subtract |w(t)|, divide by
+   h and let h → 0⁺: D⁺|w| ≤ µ(A)|w| + |Θd| ≤ −λ|w| + |Θd|.
+3. Comparison lemma: |w(t)| ≤ e^{−λt}|w(0)| + ∫₀ᵗ e^{−λ(t−τ)}|Θd(τ)| dτ.
+4. |e| ≤ |Θ⁻¹||w|, |w(0)| ≤ |Θ||e(0)| and |Θd| ≤ |Θ||d|. With χ = |Θ||Θ⁻¹|:
+   |e(t)| ≤ χe^{−λt}|e(0)| + χ∫₀ᵗ e^{−λ(t−τ)}|d(τ)| dτ ≤ χe^{−λt}|e(0)| + χ sup_{τ≤t}|d(τ)|(1 − e^{−λt})/λ.
+
+This is the paper's bound, in a slightly stronger form: only the
+disturbance along the perturbed trajectory, up to time t, enters. That is
+the form Bousquet and Slotine's Lemma 3 uses, with running maxima.
+
+**R2. Lemma 1 for a state- and time-dependent metric (not in this
+paper).** Bousquet and Slotine's Definition 1 allows Θ(x, t), certified by
+the generalized Jacobian F = (Θ̇ + Θ ∂f/∂x)Θ⁻¹ with Θ̇ = ∂_tΘ + Σᵢ ∂_{xᵢ}Θ fᵢ
+along f, and sym(F) ≼ −λI. Assume f and Θ are C¹ and
+0 < θ ≤ σ(Θ(x, t)) ≤ σ̄(Θ(x, t)) ≤ Θ̄ for all x, t.
+
+1. For a C¹ curve c: [0, 1] → ℝⁿ define its length at time t,
+   ℓ_t(c) = ∫₀¹ |Θ(c(s), t) c′(s)| ds, and D(t) = inf ℓ_t(c) over curves from
+   x(t) to x_p(t).
+2. Flowing a curve by f shrinks its length. Let φ_{t,h} be f's flow from t
+   to t + h. For fixed s, v(τ) = ∂_s φ_{t,τ−t}(c(s)) satisfies v̇ = (∂f/∂x)v,
+   so δz = Θv satisfies δż = Θ̇v + Θ(∂f/∂x)v = Fδz, and
+   d|δz|²/dτ = 2δzᵀFδz ≤ −2λ|δz|². So |δz(t + h)| ≤ e^{−λh}|δz(t)|, and
+   integrating over s, ℓ_{t+h}(φ_{t,h}∘c) ≤ e^{−λh}ℓ_t(c). Θ̇ is taken along
+   f, as the certificate requires, because the curve is moved by f alone.
+3. The perturbed endpoint moves off the flowed curve by at most h|d|.
+   x_p(t + h) − φ_{t,h}(x_p(t)) = h d(t) + o(h) for d continuous in t.
+   The straight segment between them has length at time t + h of
+   h|Θ(x_p(t), t)d(t)| + o(h).
+4. Given η > 0, take c with ℓ_t(c) ≤ D(t) + η. The flowed curve followed
+   by the segment joins x(t + h) to x_p(t + h), so
+   D(t + h) ≤ e^{−λh}(D(t) + η) + h|Θ d| + o(h). Since η is arbitrary,
+   D⁺D(t) ≤ −λD(t) + |Θ(x_p(t), t)d(t)|.
+5. Comparison lemma: D(t) ≤ e^{−λt}D(0) + ∫₀ᵗ e^{−λ(t−τ)}|Θd(τ)| dτ.
+6. For any curve, |x_p − x| ≤ ∫|c′| ds ≤ ℓ_t(c)/θ, so |x_p(t) − x(t)| ≤ D(t)/θ.
+   The straight segment gives D(0) ≤ Θ̄|x_p(0) − x(0)|, and |Θd| ≤ Θ̄|d|.
+   With χ = Θ̄/θ:
+   |x_p(t) − x(t)| ≤ χe^{−λt}|x_p(0) − x(0)| + χ∫₀ᵗ e^{−λ(t−τ)}|d(τ)| dτ.
+
+Two points the sketches leave implicit. First, χ must be Θ̄/θ, the ratio of
+the largest singular value anywhere to the smallest anywhere. The
+supremum of the pointwise condition numbers can be smaller and is not
+enough. Second, for partial contraction (f depending on another
+variable's path y(t)) with Θ depending on y, Θ̇ includes ∂_yΘ·ẏ along the
+actual path. The certificate must hold for every admissible path, the
+actual one included, or Θ must not depend on y.
+
+**R3. Lemma 2.** By Theorem 2 and the definition of γ, g(x, γ(x), 0) = 0.
+Let y_d(t) = γ(x(t)). Then
+εẏ_d = ε ∂γ/∂x f(x, z, t) = g(x(t), y_d, ε) + [ε ∂γ/∂x f + g(x, y_d, 0) − g(x, y_d, ε)].
+The bracket has norm at most εd + Kε. z(t) solves the undisturbed system
+εẏ = g(x(t), y, ε), which is contracting at rate λ_z/ε in Θ_z. Divide by
+ε: the disturbance on ẏ is at most d + K. R1 gives
+|z(t) − γ(x(t))| ≤ χ_z e^{−(λ_z/ε)t}|z(0) − γ(x(0))| + χ_z(d + K)/(λ_z/ε),
+which is (5).
+
+**R4. Theorem 3, and why it needs the reduced system contracting.**
+Write ẋ = f(x, γ(x), t) + Δ₂(t), with Δ₂ = f(x, z, t) − f(x, γ(x), t) and
+|Δ₂| ≤ α|z − γ(x)|. The comparison trajectory x_γ solves the reduced
+system ẋ = f(x, γ(x), t). The step "R = |Θ_x(x − x_γ)|, D⁺R + λ_x R ≤
+|Θ_x Δ₂|" is R1 applied to the reduced system, so it needs
+µ_{Θ_x}(∂f/∂x + ∂f/∂z ∂γ/∂x) ≤ −λ_x. Partial contraction in x bounds only
+µ(∂f/∂x). Granted the corrected hypothesis:
+
+1. D⁺R ≤ −λ_x R + |Θ_x|α(χ_z e^{−(λ_z/ε)t}E₀ + εχ_z(d + K)/λ_z), with
+   E₀ = |z(0) − γ(x(0))|, by R3.
+2. ∫₀ᵗ e^{−λ_x(t−s)}e^{−(λ_z/ε)s} ds = ε(e^{−λ_x t} − e^{−(λ_z/ε)t})/(λ_z − ελ_x),
+   valid for either sign of λ_z − ελ_x and by continuity at 0.
+   ∫₀ᵗ e^{−λ_x(t−s)} ds = (1 − e^{−λ_x t})/λ_x.
+3. R(t) ≤ e^{−λ_x t}R(0) + |Θ_x|αχ_z E₀ ε(e^{−λ_x t} − e^{−(λ_z/ε)t})/(λ_z − ελ_x) + |Θ_x|αχ_z ε(d + K)(1 − e^{−λ_x t})/(λ_z λ_x).
+4. Multiply by |Θ_x⁻¹|, use R(0) ≤ |Θ_x||x(0) − x_γ(0)|: (7) with the
+   stated C₁ and C₂. (8) follows from |z − γ(x_γ)| ≤ |z − γ(x)| + α_γ|x − x_γ|.
+
+The CDC version's proof is the same and makes the singular values
+explicit. **Counterexample to the theorem as stated:** ẋ = −x + 2 tanh z,
+εż = −z + 2 tanh x. Partial contraction in x and in z at rates 1 (Θ = I,
+χ = 1); K = 0; α = 2; γ(x) = 2 tanh x, α_γ = 2;
+|∂γ/∂x f| = |2 sech²x (−x + 2 tanh z)| ≤ 4.895 for all x, z. The reduced
+system ẋ = −x + 2 tanh(2 tanh x) has slope 3 at 0 and stable equilibria at
+±1.915. With x(0) = x_γ(0) = 0.01 and z(0) = −1, x(20) = −1.915 and
+x_γ(20) = +1.915 at ε = 0.1 and at ε = 0.01, an error of 3.83, while (7)
+gives at most 0.98 and 0.098. The CDC version's introduction assumes "the
+reduced system and the fast system are each partially contracting",
+which is the corrected hypothesis.
+
+**R5. What this gives [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md).** That entry lacks Lemma 1 in a
+state- and time-dependent metric and the passage from an arbitrary fast
+initial state to O(ε) (Bousquet and Slotine's Lemma 4). R2 supplies the
+first. For the second, Lemma 4 is not needed under Hypothesis 2: R2's
+convolution form gives the whole of Theorem 1 directly. In Bousquet and
+Slotine's notation (fast time; x̃ fast, ỹ = y − ȳ; |ỹ(0)| = |Δ|; |ȳ| ≤ M̄;
+ε_c = β_f/[χ_f(α_f,x + χ_g α_f,y α_g,x/β_g)]; ε < ε_c):
+
+1. Fast line. x̃ ≡ 0 solves dx̃/dt = f̃(x̃, y(t), u) because f̃(0, y, u) = 0,
+   and f̃ is contracting in x̃ at rate β_f for the actual path y(t). With the
+   disturbance εδf, R2 gives
+   |x̃(t)| ≤ χ_f e^{−β_f t}|x̃₀| + εχ_f∫₀ᵗ e^{−β_f(t−τ)}|δf(τ)| dτ.  (A)
+2. Slow line. ȳ solves dy/dt = εḡ(y, u(εt)), contracting at rate εβ_g in
+   fast time (if Θ_g depends on y and on slow time εt only, its derivative
+   along εḡ is ε times its slow-time derivative, so the rate scales by ε);
+   y solves it with disturbance εδg. R2 gives
+   |ỹ(t)| ≤ χ_g e^{−εβ_g t}|Δ| + εχ_g∫₀ᵗ e^{−εβ_g(t−τ)}|δg(τ)| dτ.  (B)
+3. Small gain on running maxima X(t) = max_{τ≤t}|x̃|, Y(t) = max_{τ≤t}|ỹ|.
+   With |δf| ≤ d_f + α_f,x X + α_f,y(M̄ + Y) and |δg| ≤ d_g + α_g,x X,
+   (A) and (B) give X ≤ χ_f|x̃₀| + (εχ_f/β_f)(d_f + α_f,x X + α_f,y(M̄ + Y))
+   and Y ≤ χ_g|Δ| + (χ_g/β_g)(d_g + α_g,x X). Substituting,
+   X ≤ X* = [χ_f|x̃₀| + (εχ_f/β_f)(d_f + α_f,y(M̄ + χ_g|Δ| + χ_g d_g/β_g))]/(1 − ε/ε_c),
+   Y ≤ Y* = χ_g|Δ| + (χ_g/β_g)(d_g + α_g,x X*).
+   This is Bousquet and Slotine's (11), and it holds for **any** x̃₀, not only
+   x̃₀ = O(ε). X(t) is finite on every interval where the solution exists,
+   so the bound also rules out finite-time blow-up, and the solution is
+   global.
+4. Fast decay. Let D_f = d_f + α_f,x X* + α_f,y(M̄ + Y*). By (A),
+   |x̃(t)| ≤ χ_f|x̃₀|e^{−β_f t} + εχ_f D_f/β_f, so for t ≥ log(1/ε)/β_f,
+   |x̃(t)| ≤ ε(χ_f|x̃₀| + χ_f D_f/β_f). That is Lemma 4's conclusion on x̃,
+   with its constant written out. D_f stays bounded as ε → 0, for example
+   for ε ≤ ε_c/2.
+5. Slow error. Put step 4's bound into |δg| and (B). Using
+   ε∫₀ᵗ e^{−εβ_g(t−τ)} dτ ≤ 1/β_g and ∫₀ᵗ e^{−εβ_g(t−τ)}e^{−β_f τ} dτ ≤ 1/β_f:
+   |ỹ(t)| ≤ χ_g|Δ|e^{−εβ_g t} + χ_g d_g/β_g + εχ_g α_g,x χ_f(D_f/(β_f β_g) + |x̃₀|/β_f).  (C)
+   With d_g = 0, |ỹ(t)| = O(ε) for t ≥ log(1/ε)/(εβ_g). The transient is
+   max(log(1/ε)/β_f, log(1/ε)/(εβ_g)), within the
+   (1/β_f + 1/(εβ_g)) log(1/ε) of Theorem 1. With d_g ≠ 0 the floor
+   χ_g d_g/β_g is O(1), as [NOTE-tmpydsd3](NOTE-tmpydsd3.md) found.
+
+So, given R2, every step of [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md)'s statement is proved, with
+constants, and Lemma 4, its loosest step, is bypassed rather than repaired.
+R2 is the record's derivation. The paper supplies the constant-metric
+case (R1).
+
+**Checks** (scripts in the session scratchpad).
+
+- R1, constant metric: A = [[−1, 4], [0, −2]] is not contracting in the
+  identity metric (µ₂(A) = 0.56). In the Lyapunov metric it contracts at
+  λ = 0.263 with χ = 3.23. Under a bounded, state- and time-dependent
+  disturbance (|d| ≤ 0.7), the error stayed at most 0.42 of the bound
+  over 50 random initial pairs.
+- R5: a 2 + 1 linear system in Bousquet and Slotine's form, with a
+  non-normal fast block (β_f = 0.445, χ_f = 2.15), β_g = 0.5,
+  α_f,x = 0.45, α_f,y = 0.94, α_g,x = 1.08, ε_c = 0.083, d_f = d_g = 0, a large
+  initial fast state |x̃₀| = 5 and Δ = 0.5. At ε = 0.05, 0.2, 0.5 and 0.9 ε_c,
+  sup|x̃| = 5 ≤ X* and sup|ỹ| = 0.5 ≤ Y*. The largest ratio of |x̃| to
+  bound (A) was 0.04 to 0.44, and of |ỹ| to bound (C) 0.002 to 0.26. After the
+  transient, sup|x̃|/ε ≤ 0.034 and sup|ỹ|/ε ≤ 0.48.
+- R4: the counterexample above. The corrected theorem on [QUESTION-222](../questions.d/QUESTION-222.md)'s
+  example (ẋ = −2x + y, ẏ = d(x − y), ε = 1/d, γ(x) = x, reduced rate 1, with
+  d taken along the trajectory): the slow error was 41 to 74% of bound (7) at
+  d = 5, 20, 100 and 500, and sup|x − x_γ|/ε rose from 1.65 to 2.95, first
+  order. The fast bound (5) held after t = 5ε.
+
+## Connections
+
+It applies Lohmiller and Slotine (1998) on contraction, Wang and Slotine
+(2005) on partial contraction and Slotine (2003) on robustness, to the
+singular-perturbation setting of Tikhonov (1952), Kokotović, Khalil and
+O'Reilly and Khalil's textbook. It cites Simon (1962), [LIT-905](../literature.d/LIT-905.md), as the
+motivation for multiple time scales as modularity. Its application builds
+on Del Vecchio, Ninfa and Sontag (2008) and Jayanthi and Del Vecchio
+(2010) on retroactivity. Bousquet and Slotine (2015), [LIT-tmpjuu33](../literature.d/LIT-tmpjuu33.md), build on
+it. They need its Lemma 1 for a disturbance that grows with the state
+(their Remark 3), and they close a feedback loop by small gain where this
+paper has a cascade.
+
+## Bearing on the record
+
+- **[THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md).** Its promote_when asks for a step-by-step
+  re-derivation of two steps, or a reading of a published proof of both,
+  "such as Del Vecchio and Slotine". The paper proves the first step only
+  for constant metrics (R1). It does not contain the second: its Lemma 2 is
+  the analogous fast bound in a different setting, with a globally bounded
+  manifold drift and no small-gain loop. The re-derivations here meet the
+  first branch of the condition. R2 proves Lemma 1 in a state- and
+  time-dependent metric, with the convolution form Lemma 3 uses. R5 proves
+  the passage to O(ε) from any initial fast state, with constants, and
+  closes Theorem 1 without Lemma 4. **Recommended: promote
+  [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md) under [ADR-047](../decisions.d/ADR-047.md) v2,** with R2 and R5 copied into the
+  decision file, and with three precisions added to its text: χ_f and χ_g
+  are Θ̄/θ, global over state and time; for a metric depending on y, the
+  partial-contraction certificate must hold along every admissible path
+  of y; and the transient is max(log(1/ε)/β_f, log(1/ε)/(εβ_g)) or less,
+  which its title's sum already bounds. Its existing corrections (ε_c
+  inverted in Remark 8, d_g = 0) stand, and R5 step 5 confirms the second.
+- **[THEORY-tmpcfuar](../theory.d/THEORY-tmpcfuar.md)** is filed from this reading: Lemma 2 and Theorem 3,
+  with the reduced system assumed contracting. Active: every step is
+  re-derived (R1, R3, R4).
+- **[QUESTION-221](../questions.d/QUESTION-221.md).** Nothing new on dependence: deterministic, trajectory
+  error only. What it adds is the cascade form. When the fast state's
+  disturbance does not grow with the slow state, no small-gain ceiling
+  ε_c is needed, and the O(ε) trajectory error holds at every ε. That
+  matters for a future stochastic version, where the analogue of d is the
+  noise-driven motion of the manifold.
+- **[THEORY-661](../theory.d/THEORY-661.md).** A second source, beside [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md), for a uniform
+  first-order rate of the reduction, in a cascade setting. Recommended: if
+  [THEORY-661](../theory.d/THEORY-661.md)'s "What could have come out otherwise" is revised, cite
+  [THEORY-tmpcfuar](../theory.d/THEORY-tmpcfuar.md) alongside [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md). Neither is Simon and Ando's
+  theorem.
+- **[CLAIM-386](../claims.d/CLAIM-386.md).** R5 steps 3–4 are the estimate its post-transient orders
+  rested on, now with the general-metric lemma behind them. Lemma 2 is the
+  same estimate in the cascade form. Recommended: the note of 2026-10-20 on
+  [CLAIM-386](../claims.d/CLAIM-386.md) can cite R5 (or [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md), once promoted) as proved,
+  not Proposed. The claim itself is unchanged.
+- **[QUESTION-222](../questions.d/QUESTION-222.md).** A partial answer, filed as [THEORY-tmpcfuar](../theory.d/THEORY-tmpcfuar.md)'s
+  `answers:`. When the eliminated variable is fast and contracting, the
+  quasi-steady-state reduction is a Markovian model of the coarse variable
+  with prediction error O(ε) for all time, constants explicit: the
+  augmentation needed is none. On A5's example with c = κd, the kernel
+  bκde^{−dt} → bκδ(t), and the memoryless model's error is bounded by
+  O(1/d) (checked). The memory term matters only in the initial layer,
+  through C₁ and the e^{−dt}y(0) term. The question stays open where it is
+  hard: slow or noisy eliminated variables, and history-dependent levels.
+  Remark-level reading: singular perturbation is Markovian reduction by
+  time-scale separation, and contraction of the reduced system is what
+  keeps the memoryless error from accumulating.
+- **[THEORY-257](../theory.d/THEORY-257.md).** No bearing beyond context: nothing information-theoretic.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Theorem 3's hypothesis is wrong** in both versions read (R4). Theorem 4
+  and Lemmas 4–5 apply Theorem 3, so they inherit the gap. Lemma 4 and the
+  example have α = 0, where it does no harm.
+- **Constant metrics only.** State- and time-dependent metrics are
+  mentioned and not used. R2 extends Lemma 1, and is the record's.
+- **The bound d is global** ("∀x, ∀z, ∀t") and so cannot hold for linear
+  f with linear γ. The proofs use it along the trajectory, and the example
+  computes it so. That makes d trajectory-dependent and the bound a
+  posteriori unless d is bounded a priori.
+- **Lemma 1's differential inequality is cited**, not shown, and its
+  statement needs a global bound on d where the proof gives the stronger
+  running-supremum form.
+- **Misprints in the revision:** λ_z in the example is printed as a max of
+  the two column rates where it is their min (µ₁ is the max of the column
+  sums, so the rate is the min); the text refers to "Theorem 7", which
+  does not exist (Theorem 5 is meant); and "system (16) is already in the
+  form (15)" is printed twice.
+- **One example,** one simulation per regime, figures with no error
+  metric shown.
+- **Deterministic.** No noise, no dependence measure.
+- The version of record was not read; the revision of 22 December 2011
+  was.
+
+## Open questions
+
+- With noise on the fast variable, does a Lemma 2 analogue bound the mean
+  square distance from the manifold by O(ε) times the noise intensity, and
+  the slow error accordingly? That is the bridge to [QUESTION-221](../questions.d/QUESTION-221.md).
+- Is there a version of Theorem 3 between partial contraction in x (not
+  enough) and contraction of the reduced system (enough), for instance
+  contraction of the full system in a metric weighted by ε, as the CDC
+  version's Theorem 3 gives?
+- How conservative are the constants in general? Here by 1.4 to 2.4 times
+  in a linear check and by 40 in the paper's example.

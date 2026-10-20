@@ -12,7 +12,7 @@ promote_when: >-
   the source the paper builds on. A numerical check of more examples is not
   that kind of result.
 title: 'In a singularly perturbed system, fast states x̃ with dx̃/dt = f̃(x̃, y) + ε·δf and slow states y with dy/dt = ε·ḡ(y) + ε·δg, if f̃ is contracting in x̃ at rate β_f with x̃ = 0 an equilibrium for every y, ḡ is contracting at rate β_g, and |δf| ≤ d_f + α_f,x|x̃| + α_f,y|y|, |δg| ≤ d_g + α_g,x|x̃|, then for every ε below ε_c = β_f / [χ_f(α_f,x + χ_g α_f,y α_g,x / β_g)] the fast states stay within O(ε) of zero and, when d_g = 0, the slow states within O(ε) of the reduced trajectory, uniformly in time after a transient of order (1/β_f + 1/(εβ_g)) log(1/ε)'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -25,6 +25,21 @@ history:
     re-derived step by step from Lemma 1. Lemma 1 itself and Lemma 4 are
     sketched in the paper and were not re-derived, so the entry is Proposed.
     The linear checks are the record's.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Del Vecchio and Slotine (2013) is now read (NOTE-tmpio97l,
+    THEORY-tmpcfuar). It does not itself prove the two sketched steps: its
+    Lemma 1 is for a constant metric, and its fast bound is for a cascade
+    without the small-gain loop. The reading's own re-derivations do: R2
+    proves Lemma 1 for a state- and time-dependent metric, with χ the
+    largest singular value of Θ anywhere over the smallest anywhere (not
+    the supremum of pointwise condition numbers) and, when Θ depends on y,
+    the contraction certificate holding along every admissible path of y;
+    R5 replaces Lemma 4 by explicit bounds from an arbitrary initial fast
+    state, confirming that d_g = 0 is needed. The promote_when condition
+    appears to be met. The entry stays Proposed until the promotion audit
+    checks R2 and R5. The account is unchanged.
 tags:
 - complex-systems
 - mathematics
@@ -43,6 +58,7 @@ summary: >-
   rest of the system sends into the slow variables, and it takes the slow
   coordinates as given.
 ---
+<!-- inactive-ok-file: NOTE-tmpio97l — new reading, cited for the re-derivations its promotion would rest on -->
 <!-- inactive-ok-file: LIT-1127 LIT-tmpl8e6l — Unavailable; the works this result stands in for, nothing rests on them -->
 <!-- inactive-ok-file: THEORY-257 CLAIM-157 CLAIM-331 — Proposed; accounts and claims named for context, nothing here rests on their being settled -->
 

@@ -28,7 +28,8 @@ history:
   date: '2026-10-20'
   note: >-
     "What could have come out otherwise" cites Bousquet and Slotine
-    (THEORY-tmp5mn7l) for a first-order rate in ε on trajectory error,
+    (THEORY-tmp5mn7l), and Del Vecchio and Slotine (THEORY-tmpcfuar),
+    for a first-order rate in ε on trajectory error,
     under contraction, in a different frame. The account is unchanged, and
     still claims no rate for Simon–Ando's own statement.
 tags:
@@ -102,8 +103,10 @@ available in a different frame: Bousquet and Slotine ([THEORY-tmp5mn7l](THEORY-t
 Proposed) give a first-order bound in ε on trajectory error, uniform in
 time after a transient, for nonlinear continuous-time systems whose fast
 modules and reduced slow system are contracting and whose slow
-coordinates are given. It is not Simon and Ando's theorem and does not
-bound dependence.
+coordinates are given. Del Vecchio and Slotine ([THEORY-tmpcfuar](THEORY-tmpcfuar.md)) give
+the same kind of rate for the quasi-steady-state reduction, with explicit
+constants. Neither is Simon and Ando's theorem, and neither bounds
+dependence.
 
 ## What this does not say
 
