@@ -9,6 +9,7 @@
 - Follow-ups registered and read on 2026-10-20: No, Ingber & Weissman (2016), Isett (2018, skimmed) and Nadler, Lafon, Coifman & Kevrekidis (2006); [THEORY-762](record/theory.d/THEORY-762.md) (Active: a reversible diffusion's eigenfunctions have no Mori–Zwanzig memory in mean, and are Markov in law only under a gradient condition) and [THEORY-763](record/theory.d/THEORY-763.md) (Proposed: Onsager's negative half, flux surviving in both directions). Notes on [CLAIM-164](record/claims.d/CLAIM-164.md) and [CLAIM-157](record/claims.d/CLAIM-157.md).
 - Charvin, Catenacci Volpi & Polani (2023) registered and read: [THEORY-753](record/theory.d/THEORY-753.md) (refinability as garbling, and its hull test) and [THEORY-757](record/theory.d/THEORY-757.md) (refinable when Y = f(X) or both binary), Active; [CLAIM-tmpfqsca](record/claims.d/CLAIM-tmpfqsca.md) (demonstrated): stochastic information-bottleneck optima need not nest.
 - Buckmaster, De Lellis, Székelyhidi & Vicol (2019) registered and read ([LIT-tmpv4d6t](record/literature.d/LIT-tmpv4d6t.md), [NOTE-tmp18d5h](record/notes.d/NOTE-tmp18d5h.md)): [THEORY-tmpnvuqr](record/theory.d/THEORY-tmpnvuqr.md) (Proposed), Hölder Euler solutions below 1/3 whose energy follows any strictly decreasing profile, so the flux into vanishing scales is one-way for the whole box. Ando & Fisher (1963), [LIT-tmpl8e6l](record/literature.d/LIT-tmpl8e6l.md), and Turner & Sahani (2007), [LIT-tmp65c2j](record/literature.d/LIT-tmp65c2j.md), are registered Unavailable.
+- Machta, Chachra, Transtrum & Sethna (2013) and Bousquet & Slotine (2015) registered and read: [THEORY-tmpcvqfo](record/theory.d/THEORY-tmpcvqfo.md) (Active: a hopping model's Fisher eigenvalues scale as t^{3/2−k}), [THEORY-tmpzyxwe](record/theory.d/THEORY-tmpzyxwe.md) (Proposed: Ising decimation rates) and [THEORY-tmp5mn7l](record/theory.d/THEORY-tmp5mn7l.md) (Proposed: a first-order trajectory-error bound for near-decomposable contracting systems).
 
 ### Changed
 
@@ -17,6 +18,7 @@
 
 - [LIT-1127](record/literature.d/LIT-1127.md) (Simon & Ando 1961) is Unavailable: no lawful full text was reached.
 - [THEORY-749](record/theory.d/THEORY-749.md), [THEORY-763](record/theory.d/THEORY-763.md), [NOTE-974](record/notes.d/NOTE-974.md) and [QUESTION-219](record/questions.d/QUESTION-219.md) cite the admissible Onsager theorem in place of saying it is not held; [THEORY-749](record/theory.d/THEORY-749.md) no longer calls Isett's solutions dissipative.
+- [THEORY-742](record/theory.d/THEORY-742.md) and [NOTE-972](record/notes.d/NOTE-972.md) credit the λ = d/2 dividing line to Machta et al.; [THEORY-661](record/theory.d/THEORY-661.md), [QUESTION-221](record/questions.d/QUESTION-221.md), [CLAIM-386](record/claims.d/CLAIM-386.md) and [QUESTION-217](record/questions.d/QUESTION-217.md) cite the new readings.
 
 ### Fixed
 

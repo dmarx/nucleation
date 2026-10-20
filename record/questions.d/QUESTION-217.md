@@ -27,7 +27,9 @@ answered_by:
 - THEORY-746
 - THEORY-758
 - THEORY-759
+- THEORY-tmpcvqfo
 ---
+<!-- inactive-ok-file: THEORY-tmpzyxwe — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 THEORY-481 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-217: When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
@@ -102,6 +104,17 @@ A2: "Crucially, the default should not be to assume these orderings agree."
   - Open: where the amplitude ratio flips the order from by-frequency to
     by-strength. The record has no formula for the product of the
     learner's spectrum and the data's outside the kernel regime.
+
+- Machta, Chachra, Transtrum and Sethna (2013), [THEORY-tmpcvqfo](../theory.d/THEORY-tmpcvqfo.md)
+  (Active): in their hopping model, observed at a later time t, the k-th
+  Fisher eigenvalue scales as t^{3/2−k}, so the nested effective models
+  (creation; then drift; then diffusion; ...) are ordered by relevance.
+  Since the metric is the Gauss–Newton Hessian of the least-squares
+  cost, gradient flow near a fit acquires the same directions in the same
+  order, in these coordinates only (natural-gradient flow would fit all at
+  one rate). Another commuting case, as in [THEORY-745](../theory.d/THEORY-745.md). Its Ising half
+  ([THEORY-tmpzyxwe](../theory.d/THEORY-tmpzyxwe.md), Proposed) orders relevance along decimation, with no
+  learner.
 
 What the record lacks is the condition under which a spectral order is a
 refinement order. A2's candidate ("Conjecture A", in its words "a
