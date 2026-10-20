@@ -20,7 +20,7 @@ history:
   date: '2026-10-20'
   note: >-
     A dated note under Bearing on the record: one of the cited accounts,
-    Chalmers and McQueen, has been read in part (NOTE-tmpoa1mw), and the
+    Chalmers and McQueen, has been read in part (NOTE-1012), and the
     paper's representation of it checked. The reading is unchanged.
 date: '2026-09-26'
 summary: >-
@@ -103,7 +103,7 @@ It bridges the wave-function cluster and the mental-causation and physicalism ma
 *Note of 2026-10-16:* [THEORY-485](../theory.d/THEORY-485.md) now cites [LIT-164](../literature.d/LIT-164.md) as a source.
 
 *Note of 2026-10-20:* of the three cited accounts, Chalmers and McQueen has
-now been read in part ([LIT-tmp0wmvt](../literature.d/LIT-tmp0wmvt.md), [NOTE-tmpoa1mw](NOTE-tmpoa1mw.md)). The paper's
+now been read in part ([LIT-1284](../literature.d/LIT-1284.md), [NOTE-1012](NOTE-1012.md)). The paper's
 representation of it, as a mind-modified collapse law that is new dynamics
 and an explicit, testable rival hypothesis, is accurate. Those authors also
 argue that collapse is a gap in causal closure, and whether their law is

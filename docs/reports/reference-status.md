@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**485 documents cited without acknowledgement.** Not listed: 9908 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**486 documents cited without acknowledgement.** Not listed: 9915 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2430,7 +2430,7 @@ Morphology of the Folktale
 - [`record/literature.d/LIT-830.md:75`](../../record/literature.d/LIT-830.md)
 - [`record/literature.d/LIT-830.md:154`](../../record/literature.d/LIT-830.md)
 - [`record/literature.d/LIT-830.md:204`](../../record/literature.d/LIT-830.md)
-- [`record/notes.d/NOTE-615.md:188`](../../record/notes.d/NOTE-615.md)
+- [`record/notes.d/NOTE-615.md:213`](../../record/notes.d/NOTE-615.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -3266,6 +3266,16 @@ Convention: A Philosophical Study
 - [`record/decisions.d/ADR-019.md:52`](../../record/decisions.d/ADR-019.md)
 - [`record/literature.d/LIT-765.md:28`](../../record/literature.d/LIT-765.md)
 - [`record/literature.d/LIT-768.md:31`](../../record/literature.d/LIT-768.md)
+
+### [NOTE-1012](../../record/notes.d/NOTE-1012.md) — Skimmed
+
+Consciousness and the Collapse of the Wave Function
+
+3 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-1284.md:6`](../../record/literature.d/LIT-1284.md)
+- [`record/notes.d/NOTE-112.md:23`](../../record/notes.d/NOTE-112.md)
+- [`record/notes.d/NOTE-112.md:106`](../../record/notes.d/NOTE-112.md)
 
 ### [NOTE-198](../../record/notes.d/NOTE-198.md) — Superseded
 
