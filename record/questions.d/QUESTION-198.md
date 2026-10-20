@@ -1,5 +1,8 @@
 ---
+number: 198
 status: Open
+formerly:
+- QUESTION-tmphxde6
 title: 'Does the O(σ²) gap between the kernel and Shannon relative entropies hold for translation-invariant kernels on the torus beyond the exponential Fourier family, and on other compact spaces?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   the torus; this question holds it.
 ---
 
-# QUESTION-tmphxde6: Does the O(σ²) gap between the kernel and Shannon relative entropies hold for translation-invariant kernels on the torus beyond the exponential Fourier family, and on other compact spaces?
+# QUESTION-198: Does the O(σ²) gap between the kernel and Shannon relative entropies hold for translation-invariant kernels on the torus beyond the exponential Fourier family, and on other compact spaces?
 
 ## Why it is a question
 

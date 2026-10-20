@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**759 document(s) awaiting a decision.**
+**756 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 759.
+95 of the 756.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-433 of the 759.
+430 of the 756.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -256,7 +256,6 @@
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 8 | 2 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
 | 2026-10-09 | Proposed | [THEORY-166](../../record/theory.d/THEORY-166.md) | 8 | 1 | Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability |
 | 2026-10-09 | Proposed | [THEORY-170](../../record/theory.d/THEORY-170.md) | 8 | 0 | Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message |
-| 2026-10-09 | Proposed | [THEORY-189](../../record/theory.d/THEORY-189.md) | 7 | 0 | Nested angular cones in the Poincaré ball, symmetric about the outward ray with an aperture depending only on the apex's radius, are transitive only if the aperture is at most π/2 and r sin ψ(r)/(1 − r²) does not increase outward; so no such cone can be defined near the origin, the widest admissible family is sin ψ = K(1 − r²)/r, and every point a cone contains lies farther from the origin than its apex |
 | 2026-10-09 | Proposed | [THEORY-200](../../record/theory.d/THEORY-200.md) | 7 | 2 | On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task |
 | 2026-10-09 | Proposed | [THEORY-164](../../record/theory.d/THEORY-164.md) | 5 | 0 | In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect |
 | 2026-10-09 | Proposed | [THEORY-190](../../record/theory.d/THEORY-190.md) | 3 | 0 | The S¹ hidden-metric network model is approximately closed under geometric coarse-graining: merging angular neighbours keeps its connection law with β fixed, and the average degree flows as r^ν with ν set by the degree exponent and β |
@@ -310,7 +309,6 @@
 | 2026-10-14 | Proposed | [THEORY-230](../../record/theory.d/THEORY-230.md) | 8 | 0 | The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector structure goes beyond what the shared laws imply |
 | 2026-10-14 | Proposed | [THEORY-259](../../record/theory.d/THEORY-259.md) | 8 | 0 | Ideal MDL and Bayesian MAP selection under the universal prior agree only to within the complexity of the hypothesis's likelihood, and only among hypotheses for which the data are individually random |
 | 2026-10-14 | Proposed | [THEORY-298](../../record/theory.d/THEORY-298.md) | 8 | 1 | Report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory |
-| 2026-10-14 | Proposed | [THEORY-305](../../record/theory.d/THEORY-305.md) | 8 | 0 | SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers, which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer the Laplacian's eigenvectors |
 | 2026-10-14 | Proposed | [THEORY-251](../../record/theory.d/THEORY-251.md) | 7 | 0 | In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout |
 | 2026-10-14 | Proposed | [THEORY-254](../../record/theory.d/THEORY-254.md) | 7 | 0 | Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do |
 | 2026-10-14 | Proposed | [THEORY-258](../../record/theory.d/THEORY-258.md) | 7 | 1 | Optimizing a language model on feedback from a simulated population in which a few users reward harmful validation selects a policy that picks those users out by contextual cues and harms only them, with no one designing the targeting |
@@ -340,7 +338,6 @@
 | 2026-10-14 | Proposed | [THEORY-329](../../record/theory.d/THEORY-329.md) | 4 | 0 | On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown |
 | 2026-10-14 | Proposed | [THEORY-302](../../record/theory.d/THEORY-302.md) | 3 | 0 | Coordinated action is controlled by tuning relatively autonomous coordinative structures, not by commanding muscles: a higher level specifies an equivalence class of acceptable states and sets the parameters of self-regulating units, leaving the realized details to them |
 | 2026-10-14 | Proposed | [THEORY-303](../../record/theory.d/THEORY-303.md) | 3 | 0 | A measurement scenario whose compatibility hypergraph is acyclic admits no contextuality: locally consistent context distributions always glue to a global one, so a contextual scenario needs an induced cycle of length at least four |
-| 2026-10-14 | Proposed | [THEORY-313](../../record/theory.d/THEORY-313.md) | 3 | 0 | With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence that is tight only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed distributions, and on the torus is within O(σ²) of KL as the bandwidth σ shrinks |
 | 2026-10-14 | Proposed | [THEORY-291](../../record/theory.d/THEORY-291.md) | 2 | 0 | The brain's visceromotor and interoceptive regions form one intrinsic system that reproduces their tract-traced anatomy and contains the hubs of the default-mode and salience networks |
 | 2026-10-15 | Proposed | [THEORY-332](../../record/theory.d/THEORY-332.md) | 15 | 15 | For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown |
 | 2026-10-15 | Proposed | [THEORY-374](../../record/theory.d/THEORY-374.md) | 7 | 4 | Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries |
@@ -551,7 +548,7 @@
 
 ## ADRs
 
-2 of the 759.
+2 of the 756.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -560,7 +557,7 @@
 
 ## QUESTIONs
 
-9 of the 759.
+9 of the 756.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -576,7 +573,7 @@
 
 ## CLAIMs
 
-215 of the 759.
+215 of the 756.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -798,7 +795,7 @@
 
 ## CASEs
 
-1 of the 759.
+1 of the 756.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -806,7 +803,7 @@
 
 ## TERMs
 
-2 of the 759.
+2 of the 756.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -815,7 +812,7 @@
 
 ## ARGs
 
-2 of the 759.
+2 of the 756.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

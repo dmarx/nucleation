@@ -6,7 +6,7 @@
 
 **Open** — being worked on.
 
-187 of 197 QUESTION documents. Back to the [full index](../README.md).
+188 of 198 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -197,3 +197,4 @@
 | [QUESTION-195](../../../record/questions.d/QUESTION-195.md) | Does prior-scored translation without parallel data keep an error bound that falls in the common ground and the size of the source language when the languages are not uniform or the translators are lossy? | Filed when the promotion audit (batch 044, [ADR-047](../../../record/decisions.d/ADR-047.md) v2) narrowed and promoted THEORY-270 to Goldwasser and co-authors' common-nonsense theorem, re-derived from its appendix. The former promote_when, a bound outside the uniform, lossless models, is held here. | Open |
 | [QUESTION-196](../../../record/questions.d/QUESTION-196.md) | Does Thresholdout keep every one of m adaptively chosen statistical queries within τ of its true mean, with probability 1 − β, on a holdout whose size grows only logarithmically in m, as Dwork and co-authors' Theorem 11 states? | Filed when the promotion audit (batch 044, [ADR-047](../../../record/decisions.d/ADR-047.md) v2) narrowed and promoted THEORY-318 to the two results the record has re-derived: max-information bounds the chance of overfitting, and ε-differential privacy bounds max-information. The holdout clause, and the former promote_when's request for the deferred proofs, are held here. | Open |
 | [QUESTION-197](../../../record/questions.d/QUESTION-197.md) | Is there a variant of the Döring–Isham rules, or of the context category, under which tensor-product composites of quantum systems satisfy the translation condition? | Filed when the promotion audit (batch 044, [ADR-047](../../../record/decisions.d/ADR-047.md) v2) proved, for finite dimensions, the failure that THEORY-585 had held as asserted: along a tensor product the pull-back of a non-scalar quantity disagrees with the composite's quantity at some context, and no operator realises it. The former promote_when's refutation route, a variant of the rules that repairs the composite, is held here. | Open |
+| [QUESTION-198](../../../record/questions.d/QUESTION-198.md) | Does the O(σ²) gap between the kernel and Shannon relative entropies hold for translation-invariant kernels on the torus beyond the exponential Fourier family, and on other compact spaces? | Filed when the promotion audit (batch 043, [ADR-047](../../../record/decisions.d/ADR-047.md) v2) narrowed and promoted [THEORY-313](../../../record/theory.d/THEORY-313.md) to the kernel family Bach (2022) works out. The former promote_when asked for a confirmation of the O(σ²) gap beyond the torus; this question holds it. | Open |

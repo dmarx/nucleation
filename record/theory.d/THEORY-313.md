@@ -16,7 +16,7 @@ history:
     bound is tight for every pair only for an orthonormal embedding (a
     single pair can be tight with any kernel, as at p = q), and names the
     kernel family and densities the O(σ²) is proved for. The request for a
-    confirmation beyond the torus moves to QUESTION-tmphxde6.
+    confirmation beyond the torus moves to QUESTION-198.
 tags:
 - information-theory
 - mathematics
@@ -100,7 +100,7 @@ observed.
 - **The O(σ²) rate is shown only on the torus, for one kernel family.**
   Other translation-invariant kernels, and kernels on compact groups, are
   asserted to behave alike, and a leverage-score argument is sketched,
-  not completed ([QUESTION-tmphxde6](../questions.d/QUESTION-tmphxde6.md)).
+  not completed ([QUESTION-198](../questions.d/QUESTION-198.md)).
 - **Nothing about conditional quantities.** Kernel mutual information
   characterizes independence (Proposition 9). Kernel conditional
   entropies do not decompose, and the submodularity equality case
@@ -170,4 +170,4 @@ definite, k(x, x) = 1, base measure τ with covariance Σ.
 
 A numerical check on 300 random finite examples satisfied both
 inequalities to 10⁻¹³. That the rate extends beyond this kernel family,
-as the source asserts, is held in [QUESTION-tmphxde6](../questions.d/QUESTION-tmphxde6.md).
+as the source asserts, is held in [QUESTION-198](../questions.d/QUESTION-198.md).
