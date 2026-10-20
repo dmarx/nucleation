@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**755 document(s) awaiting a decision.**
+**760 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 755.
+92 of the 760.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-430 of the 755.
+435 of the 760.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -541,11 +541,16 @@
 | 2026-10-20 | Proposed | [THEORY-807](../../record/theory.d/THEORY-807.md) | 2 | 0 | The guppy-type overextension in Hampton's membership data arises because a combined concept is in part a new, emergent concept and not only a logical combination of its parts, so human concept combination runs in two superposed layers, one classical and logical and one quantum and conceptual |
 | 2026-10-20 | Proposed | [THEORY-808](../../record/theory.d/THEORY-808.md) | 2 | 0 | Transformers trained by next-token prediction on sequence processes whose latent dynamics factor as a tensor product learn to represent the belief state in approximately orthogonal per-factor subspaces of about the factored dimension rather than the joint one, and reach that factored representation first even when noise makes it lossy |
 | 2026-10-20 | Proposed | [THEORY-809](../../record/theory.d/THEORY-809.md) | 2 | 0 | Language models trained by gradient descent on a mixture of random facts and other data reach the capacity-optimal allocation, so the model size and the mixing ratio at which they begin to learn the facts are those of an optimal capacity-bounded learner |
+| 2026-10-20 | Proposed | [THEORY-810](../../record/theory.d/THEORY-810.md) | 2 | 0 | Prediction-market prices keep much of an arbitrary price shock that no trader's information supports for weeks, rather than correcting it within a short transition phase |
+| 2026-10-20 | Proposed | [THEORY-811](../../record/theory.d/THEORY-811.md) | 2 | 0 | With a kernel normalised to unit diagonal, the kernel quantum relative entropy of two distributions is within O(σ²) of their Kullback–Leibler divergence as the bandwidth σ shrinks, for translation-invariant kernels on the torus generally and for kernels on other compact groups |
+| 2026-10-20 | Proposed | [THEORY-812](../../record/theory.d/THEORY-812.md) | 2 | 0 | As dimension grows with the undersampling and sparsity ratios fixed, the ℓ₁ phase transition for recovering sparse vectors from random measurements sits at the same curve for a broad class of random-matrix ensembles, those with a kind of orthogonality or weak independence, as for Gaussian matrices, while differing at finite size |
+| 2026-10-20 | Proposed | [THEORY-813](../../record/theory.d/THEORY-813.md) | 2 | 0 | Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces |
+| 2026-10-20 | Proposed | [THEORY-814](../../record/theory.d/THEORY-814.md) | 2 | 0 | In scientific communities that settle on a consensus model by sound model comparisons, high reproducibility of results is not evidence that the consensus is true, because which alternatives get proposed can hold a false consensus whose results reproduce almost perfectly |
 | 2026-10-20 | Proposed | [THEORY-781](../../record/theory.d/THEORY-781.md) | 1 | 0 | Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes |
 
 ## ADRs
 
-2 of the 755.
+2 of the 760.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -554,7 +559,7 @@
 
 ## QUESTIONs
 
-9 of the 755.
+9 of the 760.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -570,7 +575,7 @@
 
 ## CLAIMs
 
-217 of the 755.
+217 of the 760.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -794,7 +799,7 @@
 
 ## CASEs
 
-1 of the 755.
+1 of the 760.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -802,7 +807,7 @@
 
 ## TERMs
 
-2 of the 755.
+2 of the 760.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -811,7 +816,7 @@
 
 ## ARGs
 
-2 of the 755.
+2 of the 760.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

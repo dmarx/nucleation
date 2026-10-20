@@ -1,5 +1,8 @@
 ---
+number: 810
 status: Proposed
+formerly:
+- THEORY-tmpavmtf
 promote_when: 'A second randomised manipulation experiment on a different prediction market, preferably a real-money one with larger markets, that again finds most of a one-off random shock present after several weeks. Alternatively, a design that measures traders'' beliefs before and after the shock and shows whether the persistence comes from learning from the price or from limited rebalancing. The first would establish the persistence beyond Manifold. The second would say whether the persistent price is something traders came to believe. More simulations of the authors'' model cannot settle it, and neither can observational studies of historical manipulation attempts, which have no counterfactual price path.'
 title: 'Prediction-market prices keep much of an arbitrary price shock that no trader''s information supports for weeks, rather than correcting it within a short transition phase'
 version: 1
@@ -25,7 +28,7 @@ answers:
 - QUESTION-212
 ---
 
-# THEORY-tmpavmtf: Prediction-market prices keep much of an arbitrary price shock that no trader's information supports for weeks, rather than correcting it within a short transition phase
+# THEORY-810: Prediction-market prices keep much of an arbitrary price shock that no trader's information supports for weeks, rather than correcting it within a short transition phase
 
 ## Source
 

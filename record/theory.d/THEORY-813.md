@@ -1,5 +1,8 @@
 ---
+number: 813
 status: Proposed
+formerly:
+- THEORY-tmpit8ng
 promote_when: 'A result beyond the one-dimensional case where the NTK and the NNGP differ by more than a within-class rescaling. That could be a derivation for multi-dimensional or multi-class data, or a measurement of NC1, with a stated metric, on networks trained in a verified lazy regime (the tangent kernel measured to stay fixed) on real data. The measurement should show NC1 staying at its initial value while the same architecture, trained out of the lazy regime, collapses. The account is refuted by a lazy-regime network, kernel verified static, whose hidden features'' NC1 falls substantially below its value at initialization. More Gaussian-mixture simulations of NNGP against NTK cannot settle it, and neither can finite networks whose regime is not checked.'
 title: 'Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces'
 version: 1
@@ -27,7 +30,7 @@ answers:
 - QUESTION-192
 ---
 
-# THEORY-tmpit8ng: Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces
+# THEORY-813: Training a wide network in the lazy, kernel regime does not make its features more collapsed than at initialization, so neural collapse, where it occurs, is something only feature learning produces
 
 ## Source
 

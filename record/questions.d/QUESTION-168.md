@@ -20,7 +20,7 @@ summary: >-
   that agreement is a limit theorem is [THEORY-391](../theory.d/THEORY-391.md)'s former promote_when,
   moved here unchanged.
 answered_by:
-- THEORY-tmpgv8ip
+- THEORY-812
 ---
 
 # QUESTION-168: Does the ℓ₁ recovery transition of some non-Gaussian measurement ensemble provably converge to the Gaussian curve ρ(δ) as N → ∞, or do simulations an order of magnitude beyond N = 1600 keep the gap shrinking as N^(−1/2) for an ensemble not used to choose that exponent?

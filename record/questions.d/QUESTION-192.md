@@ -21,7 +21,7 @@ summary: >-
   so NC1 is unchanged. Whether lazy training leaves NC1 in place where the
   kernels are not proportional is open.
 answered_by:
-- THEORY-tmpit8ng
+- THEORY-813
 ---
 
 # QUESTION-192: Does lazy-regime training leave the within-class variability of a network's features at its initial value beyond one-dimensional, zero-bias, two-class data, where the tangent and initialization kernels are not proportional?

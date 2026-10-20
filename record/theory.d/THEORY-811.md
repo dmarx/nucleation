@@ -1,5 +1,8 @@
 ---
+number: 811
 status: Proposed
+formerly:
+- THEORY-tmpbqu7h
 promote_when: 'A line-by-line check of the proof of Proposition 5 (appendix B), which this reading followed only in outline, and a second source: either an independent derivation of D(p̃‖q̃) ≤ D(Σ_p‖Σ_q) ≤ D(p‖q), or a later paper that uses it and confirms the O(σ²) gap beyond the torus. The inequalities themselves follow from joint convexity and monotonicity of quantum relative entropy and are not in doubt. It is refuted by a unit-diagonal kernel and a pair p, q with D(Σ_p‖Σ_q) > D(p‖q), or with equality at a non-orthonormal embedding. What cannot settle it: numerical agreement of kernel and Shannon estimates on examples, which the inequalities permit at any bandwidth.'
 title: 'With a kernel normalised to unit diagonal, the kernel quantum relative entropy of two distributions is within O(σ²) of their Kullback–Leibler divergence as the bandwidth σ shrinks, for translation-invariant kernels on the torus generally and for kernels on other compact groups'
 version: 1
@@ -25,7 +28,7 @@ answers:
 - QUESTION-198
 ---
 
-# THEORY-tmpbqu7h: With a kernel normalised to unit diagonal, the kernel quantum relative entropy of two distributions is within O(σ²) of their Kullback–Leibler divergence as the bandwidth σ shrinks, for translation-invariant kernels on the torus generally and for kernels on other compact groups
+# THEORY-811: With a kernel normalised to unit diagonal, the kernel quantum relative entropy of two distributions is within O(σ²) of their Kullback–Leibler divergence as the bandwidth σ shrinks, for translation-invariant kernels on the torus generally and for kernels on other compact groups
 
 ## Source
 

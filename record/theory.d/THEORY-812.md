@@ -1,5 +1,8 @@
 ---
+number: 812
 status: Proposed
+formerly:
+- THEORY-tmpgv8ip
 promote_when: 'A proof that, for some non-Gaussian ensemble in the paper''s class, such as random signs, the ℓ₁ recovery transition converges to the Gaussian ρ(δ; C) as N → ∞; or simulations at problem sizes an order of magnitude beyond N = 1600 in which the gap to the Gaussian curve keeps shrinking as N^(−1/2) for an ensemble not used to choose that exponent. More simulations at the same sizes do not settle it.'
 title: 'As dimension grows with the undersampling and sparsity ratios fixed, the ℓ₁ phase transition for recovering sparse vectors from random measurements sits at the same curve for a broad class of random-matrix ensembles, those with a kind of orthogonality or weak independence, as for Gaussian matrices, while differing at finite size'
 version: 1
@@ -25,7 +28,7 @@ answers:
 - QUESTION-168
 ---
 
-# THEORY-tmpgv8ip: As dimension grows with the undersampling and sparsity ratios fixed, the ℓ₁ phase transition for recovering sparse vectors from random measurements sits at the same curve for a broad class of random-matrix ensembles, those with a kind of orthogonality or weak independence, as for Gaussian matrices, while differing at finite size
+# THEORY-812: As dimension grows with the undersampling and sparsity ratios fixed, the ℓ₁ phase transition for recovering sparse vectors from random measurements sits at the same curve for a broad class of random-matrix ensembles, those with a kind of orthogonality or weak independence, as for Gaussian matrices, while differing at finite size
 
 ## Source
 
