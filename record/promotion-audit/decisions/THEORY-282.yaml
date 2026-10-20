@@ -1,0 +1,60 @@
+# record/promotion-audit/decisions/THEORY-282.yaml
+id: THEORY-282
+batch: batch-051
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The title states a possibility, and the construction proves it.
+    Re-derived here (ADR-047 v2), Makelov, Lange and Nanda §3.2, Eq. 3 and
+    Lemma A.1.
+
+    (1) The patch. Patching run B from run A along a unit vector v sets
+    act_B′ = act_B + (vᵀact_A − vᵀact_B)v. Take v = cos θ·v_d + sin θ·v_o
+    with v_d ⊥ v_o unit vectors, W_out v_d = 0, and vᵀ_o act equal to one
+    constant κ on every input of the data. Then
+    vᵀact_A − vᵀact_B = cos θ·(v_dᵀact_A − v_dᵀact_B), the κ terms
+    cancelling, and W_out v = sin θ·W_out v_o. So the next layer receives
+    W_out act_B + sin θ cos θ·(v_dᵀact_A − v_dᵀact_B)·W_out v_o: Eq. 3 at
+    θ = π/4, where the factor is ½.
+
+    (2) Neither part alone acts. θ = 0 gives W_out v = 0; θ = π/2 gives a
+    zero coefficient, since v_o does not vary on the data. The effect is
+    ½ sin 2θ times a fixed vector, largest at θ = π/4 (Lemma A.1).
+
+    (3) It reproduces a variable's effect without localizing it. If v_d
+    varies with the variable (v_dᵀact differs between inputs with
+    different values) and W_out v_o lies along the direction downstream
+    components read for that variable, the patch moves the output as
+    changing the variable would. Yet on the data the layer never writes
+    along W_out v_o, and the direction that tracks the variable cannot
+    reach the output. Such a v_d and v_o exist whenever W_out has a
+    nontrivial kernel and the activations have a direction constant on the
+    data, as in an MLP whose hidden width exceeds its output width. So the
+    possibility the title states holds.
+  excluded: >-
+    Whether GPT-2 Small's MLP8 on IOI, or GPT2-XL's MLPs on factual recall,
+    is such a case rather than two cancelling subspaces in the same
+    component. That is what the promote_when asks, and the authors leave
+    the rival open. The general reliability of subspace patching is also
+    excluded, as the body says.
+evidence:
+  - "LIT-968, §3.2 with Eqs. 1–3 and Lemma A.1, §4 with Table 1 and Figures 4–5, read in NOTE-782."
+  - "LIT-961 (the reply), read in NOTE-809, which contests the label, not the construction."
+  - "This review's re-derivation (scope.accepted 1–3)."
+blockers: []
+notes: >-
+  The promote_when asks for something wider than the title: a replication in
+  a second model family and a test against the cancelling-subspaces
+  reading of the measured cases. The title claims only the possibility,
+  which the construction proves, so that request moves to a new QUESTION.
+  Triage-006 scored it 2; it is formal in fact.
+unlocks: []
+next_action: >-
+  Promote in a PR, title unchanged. Move the promote_when to a new
+  QUESTION, and add a dated note carrying the re-derivation.

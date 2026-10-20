@@ -1,0 +1,56 @@
+# record/promotion-audit/decisions/THEORY-284.yaml
+id: THEORY-284
+batch: batch-051
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived here (ADR-047 v2): Modell, Rubin-Delanchy and Whiteley's
+    Theorem 1 and the shortest-path conclusion the title draws from it.
+
+    (1) One step. For z, z′ with d = d_f(z, z′) ≤ ε, let u = ϕ(z),
+    v = ϕ(z′) on the unit sphere. g(0) = 1, since a vector's cosine with
+    itself is 1. So ‖u − v‖² = 2(1 − g(d²)) = c²d² − g″(ξ)d⁴ for some ξ in
+    (0, d²), with c = √(−2g′(0)) > 0. With α = ‖u − v‖, β = cd and
+    K = max |g″| on [0, ε²] (finite, g ∈ C²): |α² − β²| ≤ Kd⁴, and since
+    |α − β|² ≤ |α − β|(α + β) = |α² − β²|, |α − β| ≤ √K·d².
+
+    (2) Path lengths. Let η be a path in Z_f and γ = ϕ ∘ η. Refining a
+    partition raises both sums Σd_i and Σα_i (triangle inequality). By
+    uniform continuity of η, partitions fine enough make every step
+    d_i ≤ δ ≤ ε, and then |Σα_i − cΣd_i| ≤ √K δ Σd_i. Take a common
+    refinement of near-optimal partitions for both sums and let δ → 0:
+    if L(η) is finite, L(γ) = c·L(η). If L(η) is infinite, then for small
+    δ, α_i ≥ cd_i − √K d_i² ≥ (c/2)d_i, so L(γ) is infinite too. So
+    L(γ) = c·L(η) for every path.
+
+    (3) Shortest paths. Z_f is compact and ϕ is a continuous injection
+    into a Hausdorff space, so ϕ is a homeomorphism onto M_f
+    (Proposition 1). Every path in M_f is therefore ϕ ∘ η for a path η in
+    Z_f, and by (2) its length is c·L(η). So the on-manifold geodesic
+    distance between ϕ(z) and ϕ(z′) is c times the infimum of L(η) over
+    paths from z to z′, which is the intrinsic length metric d_f induces.
+    It equals d_f only when Z_f is a length space; the title says
+    "intrinsic length metric", which is right.
+  excluded: >-
+    Whether trained models satisfy Hypotheses 1 and 2 (assumed, tested only
+    by correlations) and any reading of a group structure off the
+    recovered metric, as the body says.
+evidence:
+  - "LIT-935, Definitions 1–2, Hypotheses 1–2, Proposition 1, Theorem 1 and its proof in App. B, read in NOTE-802."
+  - "This review's re-derivation (scope.accepted 1–3)."
+blockers: []
+notes: >-
+  The promote_when asks for a second reader's line-by-line check of App. B,
+  stated for the intrinsic length metric, and names a refutation by
+  counterexample. The re-derivation above is that check (ADR-047 v2), and
+  it shows no counterexample can exist under the hypotheses. The title
+  already states the intrinsic-metric conclusion, so it stands unchanged.
+  Triage-006 scored it 2; it is formal in fact.
+unlocks: []
+next_action: Promote in a PR, title unchanged, with a dated note carrying the re-derivation.

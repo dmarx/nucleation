@@ -1,0 +1,54 @@
+# record/promotion-audit/batches/batch-051.yaml
+batch: batch-051
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+selection: >-
+  Five of the 44 unqueued entries triage-006 scores exactly 2 without the
+  philosophical-title penalty (sorted codes, positions 21–25): THEORY-272,
+  -281, -282, -284 and -302. Following batch 045, each is sorted by what
+  its title asserts (batch 020), not by the flag.
+reviewed: [THEORY-272, THEORY-281, THEORY-282, THEORY-284, THEORY-302]
+outcomes:
+  promote: [THEORY-282, THEORY-284]
+  narrow-and-promote: [THEORY-272, THEORY-281]
+  retain-proposed: [THEORY-302]
+yield: >-
+  4 of 5 have a promotion path. THEORY-281, -282 and -284 are theorems
+  re-derived here (ADR-047 v2); -282 and -284 keep their titles, and -281
+  is narrowed to finite support. THEORY-272 is a single-study measurement
+  under ADR-047 v3, narrowed to Hopfield's simulations. THEORY-302 is an
+  argument.
+promotion_prs: []
+band:
+  - {code: THEORY-272, title_asserts: measurement, formal_in_fact: false, outcome: narrow-and-promote}
+  - {code: THEORY-281, title_asserts: theorem, formal_in_fact: true, outcome: narrow-and-promote}
+  - {code: THEORY-282, title_asserts: theorem, formal_in_fact: true, outcome: promote}
+  - {code: THEORY-284, title_asserts: theorem, formal_in_fact: true, outcome: promote}
+  - {code: THEORY-302, title_asserts: argument, formal_in_fact: false, outcome: retain-proposed}
+notes_for_ledger:
+  - >-
+    The score-2 band went 4 of 5 here. With batches 039 and 045 that is 12
+    of 15. Three of the five are formal in fact, so 6 of 14 checked score-2
+    entries are formal. Sorting by title kept predicting every outcome.
+  - >-
+    A possibility title ("an intervention can reproduce X without Y") is
+    settled by an existence construction. The promote_when's request to
+    show the measured cases are instances is wider than the title and moves
+    to a QUESTION (THEORY-282).
+  - >-
+    A promote_when asking for "a second reader's line-by-line check" is met
+    by an ADR-047 v2 re-derivation in the decision file. When the
+    re-derivation also shows the named counterexample cannot exist, no
+    QUESTION is needed (THEORY-284, -281).
+  - >-
+    For an "only when" over deterministic maps, check which hypotheses the
+    necessity direction actually uses. THEORY-281's needs neither disjoint
+    groups nor strict concavity; only sufficiency needs disjointness.
+  - >-
+    In a single-study measurement, drop any clause the source states in
+    words with no number (THEORY-272's "unless old ones are forgotten") and
+    keep the measured one (no stored pattern stable at N = 100, n = 500).
+  - "THEORY-302: requeue to wave 5."
+owner_questions: []

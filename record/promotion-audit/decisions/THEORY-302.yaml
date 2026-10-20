@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/THEORY-302.yaml
+id: THEORY-302
+batch: batch-051
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: false
+scope:
+  accepted: >-
+    Turvey's account (LIT-904, read in NOTE-826) is an argument. It works
+    from Bernstein's degrees-of-freedom problem and Greene's equivalence
+    classes. Its support is spinal: reflex-probe studies show the
+    segmental apparatus retuned in the tens of milliseconds before a
+    voluntary movement, and Fel'dman's joint goes to a preset equilibrium.
+  excluded: >-
+    The title is universal ("coordinated action is controlled by tuning
+    ..., not by commanding muscles"). Its extension above the single joint,
+    and to tuning set directly by vision, is by the body's own account the
+    author's speculation. The promote_when asks for exactly that evidence,
+    and the record holds none.
+evidence:
+  - "LIT-904, read in NOTE-826."
+blockers:
+  - "No measurement above the single joint, and none of environment-related pretuning."
+notes: >-
+  Sorted as an argument (batch 020), so ADR-047 v3 does not apply; one
+  study cannot carry a universal control thesis. Narrowing to the spinal
+  evidence would leave a measurement report that is not the thesis.
+  Recommend wave 5. Triage-006 scored it 2; it is not formal.
+unlocks: []
+next_action: >-
+  Requeue to wave 5 as interpretive synthesis. It moves only with a
+  reading of reflex-probe or pretuning studies above the single joint.
