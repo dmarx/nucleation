@@ -18,7 +18,15 @@ promote_when: >-
   what fear can rationally follow, and Williams calls his own resolution
   "rather shaky".
 title: "Told in the third person, a transfer of memories and character between two bodies reads as the persons exchanging bodies; told in the first person, no predicted psychological change removes the subject's reason to fear pain to his own body, and the step that completes the exchange happens only to the other man, so the two tellings support opposite criteria"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    "What this does not say" adds two points from Nichols & Bruno (2010,
+    LIT-1269): ordinary verdicts on the two frames do not follow the
+    person of the telling, and the experimenter's-will explanation is
+    weakly undercut. The claim and the promote_when are unchanged.
 tags:
 - personhood
 - individuation
@@ -111,6 +119,23 @@ none is, and the last step concerns only B.
   time on A's side, so Lewis's tensed identity has nothing to do here.
 - **That the series survives a gradually replaced body.** The body is held
   fixed throughout.
+- **That ordinary people's verdicts follow the person of the telling.**
+  Williams observes that the mentalistic conclusion came from a
+  third-person argument and the bodily one from a first-person argument
+  (p. 179). That is a remark about his own two arguments. Among Arizona
+  undergraduates, Nichols & Bruno (2010, [LIT-1269](../literature.d/LIT-1269.md), [NOTE-996](../notes.d/NOTE-996.md)) found
+  no first- against third-person difference. In a simplified Pain frame,
+  68% (N = 50) and 72% (N = 54) agreed that the subject would feel the
+  later pain, χ²(1, N = 64) = 0.062. In a brain-transplant case the
+  differences were t(70) = 0.69 and 1.09. These are small samples with no
+  equivalence test.
+- **That the third-person verdict is only "the will of the
+  experimenter".** In the same survey, memory still mattered in a case
+  where the memories are erased and go to no one. Williams's explanation
+  concerned a full exchange, which was not tested, so this undercuts it
+  only weakly. None of this bears on the claim itself: the survey did not
+  ask what anyone would fear, and the promote_when already says such
+  reports cannot settle it.
 
 ## Connections
 
@@ -131,5 +156,9 @@ none is, and the last step concerns only B.
 - **Dennett's narrator** ([LIT-405](../literature.d/LIT-405.md)) follows his point of view and leaves his
   body. Williams's subject has his point of view rewritten and is still the
   one in pain.
+- **Folk verdicts.** Nichols & Bruno (2010, [LIT-1269](../literature.d/LIT-1269.md)) put simplified
+  versions of both frames to students. The Pain frame's bodily verdict is
+  the majority in both persons. The authors favour psychological criteria
+  on reflection, but only conditionally, if intuitions inform the theory.
 - **Locke's prince and cobbler** ([THEORY-546](THEORY-546.md)) is the first telling's
   case, with the first telling's verdict.
