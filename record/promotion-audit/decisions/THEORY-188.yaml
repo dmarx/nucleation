@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/THEORY-188.yaml
+id: THEORY-188
+batch: batch-048
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The heuristic the source gives was followed: for large radii the
+    distance is x ~ r + r' + (2/zeta) ln sin(dtheta/2), so a node at radius
+    r links within an angle ~ 2 e^{zeta(R - r - r')/2}, its expected degree
+    is proportional to e^{-zeta r/2}, and with radial density proportional
+    to sinh(alpha r) the tail P(k > K) ~ K^{-2 alpha/zeta}, i.e.
+    gamma = 2 alpha/zeta + 1. Removing the angular term (x = r_i + r_j)
+    makes the link probability a function of the product of expected
+    degrees, the configuration model, by inspection.
+  excluded: >-
+    Everything the promote_when asks: a proof in the limit N -> infinity
+    that the degree distribution converges to the power law with the
+    large-distance approximation removed or its error bounded, and that
+    clustering stays bounded away from zero below T = 1 and vanishes above
+    it. Those are known results of a separate literature (rigorous degree
+    sequence and clustering of random hyperbolic graphs) that the record
+    does not hold; a re-derivation here would be a paper-length proof.
+evidence:
+  - "LIT-865, read in NOTE-680 (the derivation is a large-distance approximation with simulations)."
+blockers:
+  - "The promote_when asks for a limit proof of both signatures; the record holds no rigorous source and the approximation's error is not bounded."
+notes: >-
+  Sorted as a theorem: the title states what the model produces. Not a
+  case for ADR-047 v2's re-derivation route, because the derivation in the
+  record is itself the approximation the promote_when sets aside.
+unlocks: []
+next_action: >-
+  A reading task: the rigorous results on random hyperbolic graphs
+  (Gugelmann, Panagiotou and Peter's degree sequence and clustering for
+  T = 0, and later work on clustering for 0 < T < 1), read in full against
+  this title, then requeue.

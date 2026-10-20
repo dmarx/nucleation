@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-175.yaml
+id: THEORY-175
+batch: batch-048
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: compound
+formal_in_fact: true
+scope:
+  accepted: >-
+    The invariance, re-derived here. With r_x = (cos(e_x, e_a))_a, a map f
+    leaves every r_x unchanged exactly when cos(f(e_x), f(e_a)) =
+    cos(e_x, e_a) for every sample x and anchor a; that is the definition
+    unwound. Per-sample positive rescaling x -> c(x)x with c > 0 is in the
+    class, since cosine ignores positive scale. Translations are not in
+    general: cos(e_x + t, e_a + t) differs from cos(e_x, e_a) for generic t.
+    The linear maps of the space that preserve every cosine are exactly
+    the orthogonal maps times a positive scalar: such an L is injective,
+    preserves orthogonality, and e_i + e_j orthogonal to e_i - e_j forces
+    ||Le_i|| = ||Le_j|| on an orthonormal basis, so L^T L = c^2 I.
+
+    The agreement, ADR-047 v3: one study, Moschella et al. (2022), LIT-849,
+    read in full in NOTE-652, every table surviving extraction: relative
+    vectors agree across encoders at cosine 0.86 (FastText vs Word2Vec) and
+    0.96-0.97 (two ViTs), ten-nearest-neighbour overlap 0.34-0.39 and
+    0.10-0.12 (Tables 1, 8); untrained decoder transfer across seeds,
+    architectures and languages with loss against the diagonal (Tables
+    3-6); absolute transfer near chance.
+  excluded: >-
+    That trained spaces differ by an isometry (never measured: no map is
+    fitted and no residual reported), that transfer needs no paired data
+    (the anchors are paired), and anything beyond the paper's encoders and
+    data. The title's "exactly to the maps that preserve cosines" is kept
+    as the maps preserving each sample's cosines to the anchors; on a
+    finite data set that class can contain further maps, so the title
+    names the members it is sure of.
+evidence:
+  - "LIT-849, sections 3.1, 4.1, 5.1-5.3 and Tables 1, 3-8, 15-18, read in full in NOTE-652."
+  - "This review's derivation of the invariance class (scope.accepted)."
+blockers: []
+notes: >-
+  A compound: a construction-level theorem and a measurement. The
+  promote_when asks a different measurement (orthogonal Procrustes residual
+  against the best linear map on held-out samples); the title disclaims an
+  isometry, so under ADR-047 v3 that request moves to a QUESTION. The
+  anthology-candidate flag stands.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the anchor-cosine class and to Moschella et
+  al.'s experiments, add the derivation as a dated note, and move the
+  promote_when to a new QUESTION.

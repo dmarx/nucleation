@@ -1,0 +1,63 @@
+# record/promotion-audit/decisions/THEORY-166.yaml
+id: THEORY-166
+batch: batch-048
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3: one study, Wang, Solloway, Shiffrin and Busemeyer (2014),
+    LIT-795, main text read in full in NOTE-604, whose text states the
+    result: across all 66 Pew surveys of 2001-2011 that varied the order of
+    two questions, the order-effect chi-square distribution departs from
+    the null (p = 0.0004) and the q-value distribution does not
+    (p = 0.4625). The per-pair q statistics were read in LIT-264's table S1
+    (NOTE-235), which recomputes them from the authors' data; the pooled
+    chi-square over the 72 studies was recomputed there (76.04, p ~ 0.35).
+
+    The predicted equality, re-derived here. With Lueders projectors P (A
+    yes) and Q (B yes) and state S, p_AB(same) = <S|PQP + (I-P)(I-Q)(I-P)|S>.
+    Expanding with P^2 = P, (I-P)(I-Q)(I-P) = I - P - Q + PQ + QP - PQP, so
+    the sum is I - P - Q + PQ + QP, symmetric in P and Q; hence
+    p_AB(same) = p_BA(same) for any projectors in any dimension, and for
+    mixed states by linearity.
+
+    "Does not by itself favour quantum over classical probability", shown
+    here by construction. A classical model in which the order is an event
+    O that sets the joint response distribution can meet the equality with
+    an order effect: p(yy|AB) = .4, p(yn|AB) = .2, p(ny|AB) = 0, p(nn|AB) = .4
+    and p(yy|BA) = .4, p(yn|BA) = 0, p(ny|BA) = .2, p(nn|BA) = .4 give
+    P(A yes) = .6 in one order and .4 in the other, while p(same) = .8 in
+    both. LIT-264 adds that tables meeting the equality are noncontextual
+    for these rank-2 systems, and the authors concede that a constrained
+    classical model can satisfy it.
+  excluded: >-
+    "Survey question-order effects" in general: the evidence is US surveys,
+    mostly one organisation's, with nothing read out before or between the
+    two questions (the Rose-Jackson poll, with background information,
+    breaks the equality, q = 0.1514). The unread supporting information
+    (the distribution tests' details, the two classical models, the partial
+    updating variant) is not relied on.
+evidence:
+  - "LIT-795, Results and Table 1, read in full in NOTE-604; figures from captions and prose."
+  - "LIT-264, section 3 and table S1, read in full in NOTE-235."
+  - "LIT-834, Appendix, followed line by line in NOTE-636."
+  - "This review's expansion of PQP + (I-P)(I-Q)(I-P) and the classical construction (scope.accepted)."
+blockers: []
+notes: >-
+  A measurement with a theorem inside it: the equality is a one-line
+  identity, the regularity in data is the measurement, and the negative
+  clause is settled by a construction. Triage-006 scored it 2 (relation,
+  derived); the formal part is the identity, not the title's claim. The
+  promote_when asks for a preregistered test by other investigators with a
+  constrained classical rival; under ADR-047 v3 that moves to a QUESTION.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the 66 Pew surveys and the no-insertion
+  condition, keep the negative clause, add the derivation and the
+  construction as a dated note, and move the promote_when to a new
+  QUESTION.
