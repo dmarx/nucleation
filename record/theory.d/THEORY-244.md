@@ -15,7 +15,7 @@ history:
     which the former promote_when already treated as checked. The
     distortion-rate bridge (Theorem 6.27), the one clause that promote_when
     waited on, leaves the title's assertion and is reported as unverified;
-    its clause of the promote_when moves to QUESTION-tmpog8lp.
+    its clause of the promote_when moves to QUESTION-208.
 tags:
 - information-theory
 - learning-theory
@@ -31,7 +31,7 @@ summary: >-
   theorem; the entropy gap is attained by a point mass. The expected
   structure function is stated to bracket D*_m(R) and to equal D*(R) per
   symbol in the limit (Thm 6.27), but its right-hand step is asserted, so
-  that bridge is not part of this account's claim ([QUESTION-tmpog8lp](../questions.d/QUESTION-tmpog8lp.md)).
+  that bridge is not part of this account's claim ([QUESTION-208](../questions.d/QUESTION-208.md)).
   Sufficiency links only one way (Thm 5.13). None of this holds for a
   complex or unknown source, or for one string.
 ---
@@ -69,7 +69,7 @@ distortion d, a total recursive f and m i.i.d. repetitions,
 and lim_{m→∞} (1/m) E h_x(mR) = D*(R). For the uniform source with
 log-cardinality distortion, E h_x(R) = (1 + o(1))(n − R) = (1 + o(1)) D*(R)
 (Example 6.13). The right-hand step is asserted (see below), so this
-bridge is reported, not claimed; [QUESTION-tmpog8lp](../questions.d/QUESTION-tmpog8lp.md) holds it.
+bridge is reported, not claimed; [QUESTION-208](../questions.d/QUESTION-208.md) holds it.
 
 **Sufficiency (Theorem 5.13), one way only.** A sequential statistic
 that is algorithmically sufficient for every x is nearly sufficient in
@@ -150,4 +150,4 @@ K(x) = −log m(x) + O(1).
 The distortion-rate bridge was not re-derived. Its right-hand step, which
 identifies h_x(mR) with a sphere radius in a canonical cover, is the one
 the reading found asserted, and the former promote_when waited on it. It
-moves to [QUESTION-tmpog8lp](../questions.d/QUESTION-tmpog8lp.md), and the title now reports it as unverified.
+moves to [QUESTION-208](../questions.d/QUESTION-208.md), and the title now reports it as unverified.

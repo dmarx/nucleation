@@ -1,5 +1,8 @@
 ---
+number: 208
 status: Open
+formerly:
+- QUESTION-tmpog8lp
 title: "Does the expected structure function of a computable i.i.d. source match its distortion-rate function, with the right-hand step of Grünwald and Vitányi's Theorem 6.27 filled in?"
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   promote_when's clause for it is held here.
 ---
 
-# QUESTION-tmpog8lp: Does the expected structure function of a computable i.i.d. source match its distortion-rate function, with the right-hand step of Grünwald and Vitányi's Theorem 6.27 filled in?
+# QUESTION-208: Does the expected structure function of a computable i.i.d. source match its distortion-rate function, with the right-hand step of Grünwald and Vitányi's Theorem 6.27 filled in?
 
 ## Why it is a question
 

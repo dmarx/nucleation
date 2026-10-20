@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**744 document(s) awaiting a decision.**
+**741 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 744.
+95 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-418 of the 744.
+415 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -298,17 +298,14 @@
 | 2026-10-14 | Proposed | [THEORY-316](../../record/theory.d/THEORY-316.md) | 9 | 0 | Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one |
 | 2026-10-14 | Proposed | [THEORY-327](../../record/theory.d/THEORY-327.md) | 9 | 0 | Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault |
 | 2026-10-14 | Proposed | [THEORY-230](../../record/theory.d/THEORY-230.md) | 8 | 0 | The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector structure goes beyond what the shared laws imply |
-| 2026-10-14 | Proposed | [THEORY-259](../../record/theory.d/THEORY-259.md) | 8 | 0 | Ideal MDL and Bayesian MAP selection under the universal prior agree only to within the complexity of the hypothesis's likelihood, and only among hypotheses for which the data are individually random |
 | 2026-10-14 | Proposed | [THEORY-298](../../record/theory.d/THEORY-298.md) | 8 | 1 | Report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory |
 | 2026-10-14 | Proposed | [THEORY-251](../../record/theory.d/THEORY-251.md) | 7 | 0 | In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout |
 | 2026-10-14 | Proposed | [THEORY-254](../../record/theory.d/THEORY-254.md) | 7 | 0 | Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do |
 | 2026-10-14 | Proposed | [THEORY-258](../../record/theory.d/THEORY-258.md) | 7 | 1 | Optimizing a language model on feedback from a simulated population in which a few users reward harmful validation selects a policy that picks those users out by contextual cues and harms only them, with no one designing the targeting |
-| 2026-10-14 | Proposed | [THEORY-271](../../record/theory.d/THEORY-271.md) | 7 | 0 | In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it |
 | 2026-10-14 | Proposed | [THEORY-292](../../record/theory.d/THEORY-292.md) | 7 | 0 | In CNN image classifiers, concept directions fitted one concept at a time align for attributes that co-occur in the labels, yet a joint fit finds mutually orthogonal directions that still separate each concept with little loss of AUROC, so the alignment is a property of the separate fits and not forced by the representation |
 | 2026-10-14 | Proposed | [THEORY-227](../../record/theory.d/THEORY-227.md) | 6 | 0 | Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse |
 | 2026-10-14 | Proposed | [THEORY-240](../../record/theory.d/THEORY-240.md) | 6 | 0 | Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters |
 | 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 6 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
-| 2026-10-14 | Proposed | [THEORY-244](../../record/theory.d/THEORY-244.md) | 6 | 0 | Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution |
 | 2026-10-14 | Proposed | [THEORY-262](../../record/theory.d/THEORY-262.md) | 6 | 0 | Neural complexity is low when a system's parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated; in simulated cortex, patchy grouped connectivity raises it above random connectivity of equal density |
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 6 | 0 | Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
@@ -536,7 +533,7 @@
 
 ## ADRs
 
-2 of the 744.
+2 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -545,7 +542,7 @@
 
 ## QUESTIONs
 
-9 of the 744.
+9 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -561,7 +558,7 @@
 
 ## CLAIMs
 
-215 of the 744.
+215 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -783,7 +780,7 @@
 
 ## CASEs
 
-1 of the 744.
+1 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -791,7 +788,7 @@
 
 ## TERMs
 
-2 of the 744.
+2 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -800,7 +797,7 @@
 
 ## ARGs
 
-2 of the 744.
+2 of the 741.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
