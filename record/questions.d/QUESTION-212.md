@@ -1,5 +1,8 @@
 ---
+number: 212
 status: Open
+formerly:
+- QUESTION-tmp4627m
 title: "Does a one-off random shock to a prediction-market price persist for weeks on other platforms and at real-money stakes, and do the traders come to believe the shocked price?"
 version: 1
 tags:
@@ -16,7 +19,7 @@ summary: >-
   or a design that measures traders' beliefs; this question holds it.
 ---
 
-# QUESTION-tmp4627m: Does a one-off random shock to a prediction-market price persist for weeks on other platforms and at real-money stakes, and do the traders come to believe the shocked price?
+# QUESTION-212: Does a one-off random shock to a prediction-market price persist for weeks on other platforms and at real-money stakes, and do the traders come to believe the shocked price?
 
 ## Why it is a question
 

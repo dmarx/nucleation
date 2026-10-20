@@ -15,7 +15,7 @@ history:
     experiment's measured persistence, and "because later trading undoes
     only part of it" becomes the paper's model, reported with the data's
     inability to tell it from learning. The former promote_when moves to
-    QUESTION-tmp4627m.
+    QUESTION-212.
 tags:
 - social-science
 - epistemology
@@ -130,4 +130,4 @@ regression tables (Tables 2, 3, A1, A3 and A5).
   reverted faster.
 - The causal "because". Whether the persisting price is anyone's belief
   is the open part, together with replication elsewhere, in
-  [QUESTION-tmp4627m](../questions.d/QUESTION-tmp4627m.md).
+  [QUESTION-212](../questions.d/QUESTION-212.md).

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**738 document(s) awaiting a decision.**
+**736 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 738.
+95 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-412 of the 738.
+410 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -286,7 +286,6 @@
 | 2026-10-14 | Proposed | [THEORY-245](../../record/theory.d/THEORY-245.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three; no prefrontal site responded at stimulus offset |
 | 2026-10-14 | Proposed | [THEORY-246](../../record/theory.d/THEORY-246.md) | 10 | 0 | Training objectives that tighten the class clusters of a classifier's last layers buy accuracy on the trained classes and pay for it in new tasks: among ImageNet-trained ResNet-50s, fixed penultimate features with more class separation transfer worse to datasets with other classes, the difference lies in the last few blocks, and fine-tuning removes it |
 | 2026-10-14 | Proposed | [THEORY-250](../../record/theory.d/THEORY-250.md) | 10 | 0 | DALL-E 3 renders single familiar relations well but is not robustly compositional: human-judged agreement falls when subject and object of an asymmetric relation are reversed and when two relations are combined, and its failures on reversed prompts are mostly wrong or role-swapped relations, not missing objects |
-| 2026-10-14 | Proposed | [THEORY-261](../../record/theory.d/THEORY-261.md) | 10 | 4 | In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length |
 | 2026-10-14 | Proposed | [THEORY-285](../../record/theory.d/THEORY-285.md) | 10 | 4 | In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior |
 | 2026-10-14 | Proposed | [THEORY-296](../../record/theory.d/THEORY-296.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked |
 | 2026-10-14 | Proposed | [THEORY-320](../../record/theory.d/THEORY-320.md) | 10 | 0 | In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it |
@@ -307,7 +306,6 @@
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 6 | 0 | Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 5 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
-| 2026-10-14 | Proposed | [THEORY-267](../../record/theory.d/THEORY-267.md) | 5 | 0 | A prediction-market price can keep most of an arbitrary shock that no trader's information supported for at least sixty days, because later trading undoes only part of it and undoes it ever more slowly |
 | 2026-10-14 | Proposed | [THEORY-269](../../record/theory.d/THEORY-269.md) | 5 | 0 | In OLMo-1B, OLMo-7B and GPT-J, whether a factual relation is computed by an affine map from subject to object representation tracks how often its subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, whenever in training that count is reached |
 | 2026-10-14 | Proposed | [THEORY-273](../../record/theory.d/THEORY-273.md) | 5 | 3 | Inductive and explanatory usefulness is necessary but not sufficient for a natural kind: it holds of classes that share any natural property, and on its own it cannot tell a natural kind from a conventional or pragmatic one |
 | 2026-10-14 | Proposed | [THEORY-274](../../record/theory.d/THEORY-274.md) | 5 | 0 | Sequence models trained only on a graph's edge bigrams store it as a global embedding geometry, not as a lookup, although the lookup is expressible, found faster and no less succinct; in a wide two-layer weight-tied model the geometry is the top Laplacian eigenspace, reached by cross-entropy training without a rank bottleneck, regularization or multi-hop supervision |
@@ -530,7 +528,7 @@
 
 ## ADRs
 
-2 of the 738.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -539,7 +537,7 @@
 
 ## QUESTIONs
 
-9 of the 738.
+9 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -555,7 +553,7 @@
 
 ## CLAIMs
 
-215 of the 738.
+215 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -777,7 +775,7 @@
 
 ## CASEs
 
-1 of the 738.
+1 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -785,7 +783,7 @@
 
 ## TERMs
 
-2 of the 738.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -794,7 +792,7 @@
 
 ## ARGs
 
-2 of the 738.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
