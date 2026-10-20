@@ -1,24 +1,22 @@
 ---
 number: 117
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxlzlq
-promote_when: >-
-  For the empirical half: the volume-against-diversity comparison
-  repeated with model selection on a validation split disjoint from the
-  unseen combinations, so that a model never chosen by its score on the
-  test pairs still fails to generalize under more data of the same
-  combinations and succeeds as coverage rises. A second architecture
-  trained from scratch, or more than two concepts, would widen it. For
-  the theoretical half: a line-by-line check of Proposition B.7's proof,
-  or a second derivation such as Trager et al.'s. The account is refuted
-  if, at fixed combinatorial coverage, enough added data of the seen
-  combinations closes the gap on unseen ones, or if networks reach high
-  accuracy on unseen pairs at low coverage without linearly factored
-  features. Further runs with oracle selection on the test pairs cannot
-  settle it, since they measure the best case by construction.
-title: 'Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one'
-version: 1
+title: "In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-117 (batch 047, ADR-047 v3 for the measured half, v2 for the
+    theorem). One study read in full, whose text states the volume and
+    coverage results; the title now names oracle checkpoint selection and
+    drops the general causal opener. The determination clause is re-derived
+    (dated note below), which makes "suitably arranged" exact: the seen
+    pairs must connect every value. The promote_when moves to
+    QUESTION-tmpn5l6x.
 tags:
 - representation-learning
 - compositionality
@@ -28,21 +26,22 @@ date: '2026-10-03'
 source:
 - LIT-667
 summary: >-
-  Uselis, Dittadi & Oh (2025), [LIT-667](../literature.d/LIT-667.md). In an n × n grid of two
-  concepts with k combinations seen per value, ResNet-50s trained from
-  scratch fit seen pairs and fail on unseen ones; four times the data of
-  the same combinations leaves 60–80% drops, while more values and more
+  Uselis, Dittadi & Oh (2025), [LIT-667](../literature.d/LIT-667.md). In an n × n grid of two concepts
+  with k combinations seen per value, ResNet-50s trained from scratch fit
+  seen pairs and fail on unseen ones; four times the data of the same
+  combinations leaves 60–80% drops, while more values and more
   combinations help. Features pass from spurious, to decodable but
-  entangled, to linearly factored as coverage grows. Proposition 4.1: under
-  exact linear factorization with a (2n − 1)-dimensional span, k = 2
-  suffices for a linear classifier to be right on all unseen pairs. Model
-  selection was on the test set, by design, so the results bound what is
-  possible. Synthetic data, two concepts, one from-scratch architecture.
+  entangled, to linearly factored as coverage grows. Model selection was
+  on the test set, by design, so the results bound what is possible. The
+  record re-derived that exactly factored embeddings of every unseen pair
+  are fixed by seen pairs connecting every value, as the paper's k = 2
+  cycle does. Honest selection, other architectures and more concepts are
+  [QUESTION-tmpn5l6x](../questions.d/QUESTION-tmpn5l6x.md).
 answers:
 - QUESTION-025
 ---
 
-# THEORY-117: Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one
+# THEORY-117: In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair
 
 ## Source
 
@@ -144,3 +143,17 @@ practitioner without access to the unseen pairs would select.
   it generalizes ([ANTH-SOTA-402](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/practices.d/SOTA-402.md), from Wang et al., [ANTH-LIT-667](https://github.com/dmarx/anthology-of-the-sota/blob/main/record/literature.d/LIT-667.md)). There as
   here, what matters is which combinations the data contain, not how much
   data there is.
+
+## Derivation (2026-10-20, promotion audit batch 047)
+
+Exact linear factorization: the embedding of pair (i, j) is z(i, j) = a_i + b_j. Let G be the bipartite graph whose nodes are the values a_1, …, a_n of the first concept and b_1, …, b_n of the second, with an edge for each seen pair.
+
+**Claim.** If G is connected, every z(i, j), seen or not, is a fixed linear combination of the seen embeddings.
+
+**Proof.** G is bipartite, so a path from a_i to b_j alternates sides: a_i = u_0, u_1, …, u_{2m+1} = b_j, with edges e_1, …, e_{2m+1}. Summing the edges' embeddings with alternating signs, z(e_1) − z(e_2) + z(e_3) − …, each interior node enters once with a plus and once with a minus, leaving a_i + b_j = z(i, j). ∎
+
+The arrangement in the paper's proof of Proposition B.7, the pairs (i, i), (i, i + 1) and (n, 1), is a single cycle b_1, a_1, b_2, a_2, …, a_n, b_1 through every node, so two pairs per value so arranged connect G.
+
+Connectivity is needed. If G has two components, adding a constant vector c to every a and subtracting it from every b in one component leaves every seen sum unchanged and changes every sum across the components. With k = 1 the seen pairs form a matching of n edges on 2n nodes, never connected for n ≥ 2.
+
+The paper's span condition (2n − 1 dimensions) is what its classifier statement needs, a linear readout correct on every unseen pair. That statement is not re-derived here and not claimed; this account claims only that the unseen embeddings are determined.

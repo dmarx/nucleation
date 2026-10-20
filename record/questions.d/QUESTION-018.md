@@ -16,7 +16,7 @@ summary: >-
   The fourth of the five central questions (A110 §IX). The manuscript
   states the failure (§7) and its benchmarks (§10) but not the question.
 ---
-<!-- inactive-ok-file: CLAIM-013 THEORY-117 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: CLAIM-013 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: THEORY-250 — Proposed; filed today, cited as evidence about the explanandum, not as an answer -->
 
 # QUESTION-018: When a generator receives several conditions, what determines whether it preserves their conjunction and relational bindings?
