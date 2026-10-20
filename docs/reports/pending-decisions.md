@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**738 document(s) awaiting a decision.**
+**736 document(s) awaiting a decision.**
 
 ## LITs
 
-94 of the 738.
+94 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -110,7 +110,7 @@
 
 ## THEORYs
 
-413 of the 738.
+411 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -521,16 +521,14 @@
 | 2026-10-20 | Proposed | [THEORY-768](../../record/theory.d/THEORY-768.md) | 40 | 0 | Minimal selfhood is identification with the whole body, located where that body is felt to be and seen from inside it; owning a body part does not reach it, and bodily agency enables it causally without being part of it |
 | 2026-10-20 | Proposed | [THEORY-766](../../record/theory.d/THEORY-766.md) | 38 | 0 | Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing, raises reports that touch is felt at the rubber hand and, more weakly and less reliably, that the rubber hand is one's own; the proprioceptive drift toward the rubber hand that accompanies these reports is not a measure of them |
 | 2026-10-20 | Proposed | [THEORY-744](../../record/theory.d/THEORY-744.md) | 11 | 0 | As the kernel width ε goes to 0, Coifman and Lafon's α-normalized diffusion operator on data sampled with density q = e^{−U} from a compact manifold has generator Δf + 2(1 − α)⟨∇U, ∇f⟩, the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density |
+| 2026-10-20 | Proposed | [THEORY-751](../../record/theory.d/THEORY-751.md) | 10 | 0 | For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error |
 | 2026-10-20 | Proposed | [THEORY-763](../../record/theory.d/THEORY-763.md) | 10 | 0 | For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls |
-| 2026-10-20 | Proposed | [THEORY-751](../../record/theory.d/THEORY-751.md) | 7 | 0 | For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error |
 | 2026-10-20 | Proposed | [THEORY-759](../../record/theory.d/THEORY-759.md) | 7 | 0 | A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order of frequency, and keeps that order when the amplitudes rise tenfold with frequency, so in this setting the order of acquisition is set by the learner and not by the strength of the target's components |
 | 2026-10-20 | Proposed | [THEORY-747](../../record/theory.d/THEORY-747.md) | 6 | 0 | In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian |
-| 2026-10-20 | Proposed | [THEORY-753](../../record/theory.d/THEORY-753.md) | 2 | 2 | x |
-| 2026-10-20 | Proposed | [THEORY-757](../../record/theory.d/THEORY-757.md) | 2 | 2 | y |
 
 ## ADRs
 
-2 of the 738.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -539,7 +537,7 @@
 
 ## QUESTIONs
 
-9 of the 738.
+9 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -555,7 +553,7 @@
 
 ## CLAIMs
 
-215 of the 738.
+215 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -661,7 +659,7 @@
 | 2026-10-10 | Proposed | [CLAIM-241](../../record/claims.d/CLAIM-241.md) | 3 | 1 | Partial constitution by uptake makes competent participants' uptake a defeasible standard of a communicative kind, not the criterion: where the act's other constituents, such as its institutional conditions, diverge from how even informed participants take it, their verdicts can be wrong, and a standard must say whose competence counts, for which class of acts, and how divided verdicts are combined, which a majority does not |
 | 2026-10-10 | Proposed | [CLAIM-242](../../record/claims.d/CLAIM-242.md) | 3 | 0 | The use-level counterpart of Saussure's value is an utterance's contrast with the alternatives its speaker could have used in context; values do not cross between languages, which is why fidelity is graded transport through an anchored correspondence rather than identity of value |
 | 2026-10-10 | Proposed | [CLAIM-216](../../record/claims.d/CLAIM-216.md) | 2 | 0 | A thesis that conjoins relational constitution, statistical recovery, transport and receivers' recovery is defeated whole by any one of its empirical findings, though its clauses can hold or fail apart, so the line is better put as separate theses, each with its own defeat condition, resting on one another only where one is a premise of another |
-| 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 121 | 17 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
+| 2026-10-11 | Proposed | [CLAIM-157](../../record/claims.d/CLAIM-157.md) | 122 | 17 | Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member |
 | 2026-10-11 | Proposed | [CLAIM-163](../../record/claims.d/CLAIM-163.md) | 45 | 3 | "Synchronization" is an analogy without a mechanism: phase synchrony among coupled oscillators has a coupling, an order parameter and transitions, valuations that fail to cross have none of these, and the word adds nothing to "the curves do not cross" |
 | 2026-10-11 | Proposed | [CLAIM-172](../../record/claims.d/CLAIM-172.md) | 45 | 3 | Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture |
 | 2026-10-11 | Proposed | [CLAIM-174](../../record/claims.d/CLAIM-174.md) | 38 | 8 | A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization |
@@ -777,7 +775,7 @@
 
 ## CASEs
 
-1 of the 738.
+1 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -785,7 +783,7 @@
 
 ## TERMs
 
-2 of the 738.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -794,7 +792,7 @@
 
 ## ARGs
 
-2 of the 738.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
