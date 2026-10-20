@@ -38,7 +38,6 @@ summary: >-
 answers:
 - QUESTION-058
 ---
-<!-- inactive-ok-file: THEORY-213 — Proposed; the account of the asymptotic half, filed 2026-10-13, open -->
 
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, named for what this does not settle -->
 

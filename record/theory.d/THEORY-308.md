@@ -33,7 +33,6 @@ summary: >-
   gradient training. The finite-sample estimate is not a bound (Poole et
   al., [LIT-246](../literature.d/LIT-246.md)), and the proof has two gaps a reading found.
 ---
-<!-- inactive-ok-file: THEORY-237 — Proposed; the account of the bound family this estimator belongs to, named in Connections -->
 
 # THEORY-308: The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an extremum estimator over compact families of critics, and, for critics bounded by M and L-Lipschitz in their d parameters, its uniform deviation from the population bound needs a number of samples set by d, M, L and the parameter radius, not by the data dimension
 

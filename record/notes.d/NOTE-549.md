@@ -32,7 +32,6 @@ summary: >-
   participation ratio near min(k, M).
 ---
 
-<!-- inactive-ok-file: THEORY-083 — Proposed; compared in Bearing on the record as a different sense of "categorical", not supported or contradicted -->
 <!-- inactive-ok-file: THEORY-102 — Proposed; its decoding evidence is one this paper's warning bears on, not tested -->
 <!-- inactive-ok-file: THEORY-017 — Proposed; named for the point that a basis is extra structure, which the neuron basis supplies physically -->
 

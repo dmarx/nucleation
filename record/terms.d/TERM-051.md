@@ -33,7 +33,7 @@ used_by:
 <!-- inactive-ok-file: CLAIM-167 — Proposed; the claim that made direction an architecture, open -->
 <!-- inactive-ok-file: CLAIM-155 — Proposed; its tier names are why one rejected name would blur, not leaned on -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the agency question kept apart -->
-<!-- inactive-ok-file: THEORY-133 THEORY-069 — Proposed; readings the definition borrows its cases from, with their standing as it is -->
+<!-- inactive-ok-file: THEORY-069 — Proposed; readings the definition borrows its cases from, with their standing as it is -->
 
 # TERM-051: drive profile
 

@@ -1,21 +1,24 @@
 ---
 number: 270
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpkpfpe
-promote_when: >-
-  A proof of the same kind of bound outside the uniform, lossless models:
-  for non-uniform (for instance Zipfian) source languages, or for lossy
-  translators, an error bound that still falls in the common ground and in
-  the size of the source language, with a lower bound to match. Or an
-  experiment on real corpora in which the error of prior-scored translation
-  without parallel data falls with measured common ground at the predicted
-  rate. It is refuted for natural settings by a non-uniform model in which
-  richer source languages do not reduce the common ground needed. What
-  cannot settle it: further synthetic runs in the same two models, which
-  only confirm the proofs.
-title: 'Translation without parallel data is learnable from a plausibility prior over the target language alone, with error falling in the common ground between prior and translations, in the size of the source language and in the number of samples'
-version: 1
+title: "In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language and the plausibility prior are uniform over sets from which shared random nonsense is removed and translators are one-to-one, maximum likelihood with the prior alone translates without parallel data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense α, in the size of the source language and in the number of samples"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-270 (batch 044, ADR-047 v2).
+    The upper bound of the common-nonsense model (Theorem 3.4, with
+    Lemma C.1 and Proposition C.2) was re-derived from LIT-941's
+    Appendix C.1, in the dated note below; Theorem A.2 had been re-derived
+    in batch 038. The title is narrowed from "translation without parallel
+    data is learnable" to that model and its bound. The knowledge-graph
+    model and the lower bound stay in the body as the paper's statements.
+    The former promote_when, a bound outside the uniform, lossless models,
+    moves to QUESTION-195.
 tags:
 - translation
 - learning-theory
@@ -33,7 +36,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-170 CLAIM-054 — Proposed; theories and claim this account bears on, open -->
 
-# THEORY-270: Translation without parallel data is learnable from a plausibility prior over the target language alone, with error falling in the common ground between prior and translations, in the size of the source language and in the number of samples
+# THEORY-270: In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language and the plausibility prior are uniform over sets from which shared random nonsense is removed and translators are one-to-one, maximum likelihood with the prior alone translates without parallel data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense α, in the size of the source language and in the number of samples
 
 ## Source
 
@@ -99,3 +102,34 @@ and this is about data for learning a decoder.
 - **[THEORY-161](THEORY-161.md).** Both treat meaning against a known joint law; here the
   law is replaced by a prior over the target and a ground-truth map,
   unknown to the learner.
+
+## Note of 2026-10-19: the common-nonsense upper bound, re-derived
+
+The promotion audit (batch 044) worked through [LIT-941](../literature.d/LIT-941.md)'s Appendix C.1
+(arXiv:2211.11081v2). Setting: T ⊆ P ⊆ Y finite; S ⊆ Y keeps each y
+independently with probability β = 1 − α; τ = U(T ∩ S) and ρ = U(P ∩ S);
+each translator f_θ is one-to-one, and π_θ = f_θ∘f⋆⁻¹ is extended to a
+permutation of Y. ε_γ is the largest error among translators that make at
+most a γ fraction of translations impossible under ρ.
+
+- **Proposition C.2.** The points a permutation moves split into A1, A2,
+  A3 with π(A_i) ∩ A_i = ∅: alternate each cycle between A1 and A2, and
+  put the last element of an odd cycle in A3.
+- **Lemma C.1.** For γ ≥ (8/(β|T|)) ln(4|Θ|/δ), with probability ≥ 1 − δ,
+  ε_γ ≤ 6γ/α. Put a = 6γ/α. A Chernoff bound gives |T ∩ S| > β|T|/2
+  except with probability below δ/4. Fix π and intersect each A_i with T
+  (the source computes τ(A_i) as if A_i ⊆ T; intersecting keeps
+  π(A_i) ∩ A_i = ∅). Error above a puts τ(A_i) > a/3 for some i. Given
+  V = A_i ∩ T ∩ S of size at least βa|T|/6, making at most a γ fraction
+  impossible forces fewer than an α/2 fraction of π(V) outside S. Those
+  indicators are independent Bernoulli(α) even given A_i ∩ S, because π
+  is one-to-one and maps A_i outside itself, so Chernoff bounds the event
+  by e^{−α|V|/8} ≤ e^{−βγ|T|/8} ≤ δ/(4|Θ|). A union over the three parts
+  and the |Θ| translators completes it.
+- **Theorem 3.4.** With γ = max(1/m, 8/(β|T|)) ln(6|Θ|/δ), Lemma C.1 at
+  confidence 2δ/3 and Theorem A.2 at δ/3 give, with probability ≥ 1 − δ,
+  err(θ̂) ≤ (6/α) max(1/m, 8/(β|T|)) ln(6|Θ|/δ) ≤ (6/α) max(1/m, 16/|T|)
+  ln(6|Θ|/δ) for α ≤ 1/2.
+
+Not re-derived: the lower bound (Theorem 3.5, App. C.2) and the
+knowledge-graph bound (Theorem 3.2, App. D). The title claims neither.

@@ -28,7 +28,6 @@ summary: >-
   twin revert more, but those splits are correlational and only
   marginally significant.
 ---
-<!-- inactive-ok-file: THEORY-267 — Proposed; the account filed from this reading -->
 
 # NOTE-778: Rasooly and Rozzi — How manipulable are prediction markets?
 

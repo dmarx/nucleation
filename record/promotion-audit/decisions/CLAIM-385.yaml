@@ -1,0 +1,31 @@
+id: CLAIM-385
+batch: batch-052
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Active
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    Filed Active, demonstrated, following CLAIM-370 and CLAIM-384. Proof:
+    (1) eigenspaces are invariant and split by complete reducibility;
+    (2) Schur's lemma keeps A inside each isotypic component, so each
+    eigenspace meets W ≅ V^m in dimension kd; (3) on a rotation plane of
+    SO(2) or Z/n (n >= 3) the commutant is {aI + bJ} and symmetry forces
+    b = 0; (4) A commutes with the block-orthogonal group of its
+    eigenspaces, and the n-cube's levels are irreducible under the
+    hyperoctahedral group but split under S_n.
+  excluded: >-
+    Noisy operators and thresholds for near-degeneracy; any claim that
+    degeneracy detects a symmetry.
+evidence:
+  - "Batch 042's derivation; the record's 7x7 circulant, SO(2) average and quaternion-group checks in THEORY-019."
+  - "LIT-305 Lemma 6, LIT-329 §3, LIT-346 (the cube's levels), LIT-362 (real rotation planes)."
+blockers: []
+notes: >-
+  Filed Active at once, the third such case. The owner question on whether
+  record-own results split from a THEORY with a self-contained proof skip
+  Proposed (batch 046) is still open; if the answer is no, this claim
+  moves to Proposed with the others.
+unlocks: []
+next_action: Merge #252.

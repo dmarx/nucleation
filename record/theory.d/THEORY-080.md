@@ -19,7 +19,7 @@ promote_when: >-
   rate. Evidence computed for networks outside the kernel regime cannot
   settle it, since the account is about the linearised model.
 title: "In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-05'
@@ -27,6 +27,16 @@ history:
     `extends: THEORY-087` declared. Connections already said this account
     extends it in its regular half, and that account names this one among
     those that extend it; the frontmatter never carried the relation.
+- version: 3
+  date: '2026-10-19'
+  note: >-
+    The exact half of the derivation, the Occam factor as a sum over the
+    non-zero eigenvalues of the empirical NTK Gram matrix, is filed as the
+    record's own demonstrated claim, CLAIM-384, under ADR-032
+    (promotion audit, batches 036 and 046). This account keeps the
+    spherical, per-harmonic half, which rests on approximating the Gram
+    spectrum by nµ_k, and its promote_when, which tests that half. Status
+    stays Proposed. Title unchanged.
 tags:
 - model-comparison
 - information-geometry
@@ -38,7 +48,9 @@ source:
 - LIT-608
 - LIT-612
 summary: >-
-  The filer's synthesis, stated by no source. A network linearised at
+  The filer's synthesis, stated by no source. Its exact half is filed as
+  the record's own claim, CLAIM-384; what stays here is the
+  spherical account. A network linearised at
   initialisation, with an isotropic Gaussian prior on its parameters and
   Gaussian noise, is MacKay's linear-in-parameters model ([LIT-623](../literature.d/LIT-623.md)).
   Its Occam factor is −½ Σ log(1 + βλ_a/α) over the eigenvalues of JᵀJ.
@@ -147,3 +159,13 @@ factor, through which degrees are determined at all.
 - **[THEORY-084](THEORY-084.md)** reads the same spectrum as the Fisher and asks where
   a hard threshold on it is well posed. The Occam factor needs no
   threshold, since it prices every direction smoothly.
+
+## Note of 2026-10-19: the exact half is a claim
+
+Promotion audit, batches 036 and 046. The model and Occam-factor steps of
+the derivation re-derive exactly from MacKay's Eq. 20, and no source states
+them for a tangent kernel, so they are the record's own result. They are
+filed as [CLAIM-384](../claims.d/CLAIM-384.md), demonstrated, with the proof. This account keeps
+what depends on the sphere: the Gram eigenvalues approximated by nµ_k with
+multiplicity N(d, k), the per-harmonic cost ½ log(1 + βnµ_k/α), and the
+rate γ ~ n^((d−1)/d). Those are what the promote_when's computation tests.

@@ -1,0 +1,58 @@
+# record/promotion-audit/decisions/THEORY-230.yaml
+id: THEORY-230
+batch: batch-049
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: compound
+formal_in_fact: false
+scope:
+  accepted: >-
+    Identification, re-derived here (ADR-047 v2). The relational geometry
+    is d_ij = 2 arccos Σ_a √(p_i(a) p_j(a)) over a context battery, a
+    function of the next-token laws alone, so it is unchanged by every
+    reparameterization that leaves outputs unchanged, and two models with
+    identical laws on the battery have identical matrices. Activation
+    geometry is not so fixed: for an invertible A, replacing the hidden
+    state h by Ah and the readout g by g ∘ A⁻¹ leaves every output the
+    same, while the Gram matrix becomes hᵢᵀAᵀAhⱼ, which differs unless A
+    is orthogonal (Prop. 1).
+
+    Measurement, under ADR-047 v3. NOTE-755 read the paper in full, with
+    the numbers in the text and Supplementary Notes: over ten models (70M
+    to 7B parameters; transformer, state-space and recurrent kinds; seven
+    training pipelines; four tokenizers) the mean Spearman agreement of
+    output distance matrices on natural text is 0.88, against 0.62 for
+    mid-layer and 0.61 for last-layer activation geometry, with a bootstrap
+    interval on the gap excluding zero. The top-six cross-family
+    eigenvector overlap is 0.698, and a null matched in displacement
+    magnitude gives 0.636. The residual +0.063 (+0.056 to +0.070) is
+    0.063 / 0.698 ≈ 9% of the raw overlap (SN18).
+  excluded: >-
+    "Across ten architectures": there are ten models of three
+    architecture kinds, not ten architectures. "What the shared laws
+    imply": the 9% is measured against one displacement-matched null, and
+    whether that null is fair is what the promote_when asks. "Far more":
+    replaced by the numbers. Convergence from fit (Theorems 6 and 8) is
+    excluded too, since its bound is vacuous on real models (Remark 2).
+evidence:
+  - "LIT-936, Part I (Eq. 1, Lemma 2, Props. 1 and 3), Part II and SN18, read in full in NOTE-755."
+  - "This review's re-derivation of the identification (scope.accepted, first paragraph)."
+blockers: []
+notes: >-
+  Medium confidence. The study is a single-author v1 preprint with code
+  on request. The figures were read from their captions, but every number
+  in the narrowed title is stated in the text or a Supplementary Note. The
+  promote_when asks for an independent replication and a test that
+  varies the law while holding training fixed; both move to a new QUESTION
+  that refines QUESTION-027. Dependents (THEORY-018, THEORY-241,
+  QUESTION-027) cite the identification and the measured agreement, both
+  kept. Triage-006 scored it 2; batch 020's sort reads it as an
+  identification identity plus one measurement.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the identification and the measured numbers
+  in Picozzi's ten models, add a dated note, and move the promote_when to
+  a new QUESTION.

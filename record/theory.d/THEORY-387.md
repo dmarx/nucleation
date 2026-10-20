@@ -1,16 +1,23 @@
 ---
 number: 387
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmptzp8y
-promote_when: >-
-  A proof, read by the record, of Theorem 7.1 under the stated conditions,
-  in the 1992 AT&T report or a later published correctness proof of
-  delete-and-rederive for recursive Datalog. Examples or benchmarks do not
-  settle a correctness claim; a measurement of the overestimate's size would
-  settle only the separate cost question.
-title: "For recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from the remaining relations, then adding what insertions derive, is stated to leave exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the proof and the extension to stratified negation and aggregation are referred to an unpublished report, and the size of the overestimate is not measured"
-version: 1
+title: 'For positive recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from what remains, then adding what insertions derive, leaves exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the extension to stratified negation and aggregation is asserted, not shown, and the size of the overestimate is not measured'
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-387 (batch 042, ADR-047 v2).
+    The proof of Theorem 7.1 the paper refers to an unseen report was
+    supplied for positive recursive programs by re-derivation, in the
+    dated note below, which meets the former promote_when for that case.
+    The title now asserts the result for positive programs and reports
+    the extension to stratified negation and aggregation as asserted, not
+    shown. That extension and the size of the overestimate move to
+    QUESTION-188.
 tags:
 - databases
 - logic
@@ -31,7 +38,7 @@ summary: >-
   and that it is slower than counting on nonrecursive views.
 ---
 
-# THEORY-387: For recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from the remaining relations, then adding what insertions derive, is stated to leave exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the proof and the extension to stratified negation and aggregation are referred to an unpublished report, and the size of the overestimate is not measured
+# THEORY-387: For positive recursive Datalog views under set semantics, deleting every derived tuple that has any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation from what remains, then adding what insertions derive, leaves exactly the tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the extension to stratified negation and aggregation is asserted, not shown, and the size of the overestimate is not measured
 
 ## Source
 
@@ -86,3 +93,34 @@ refute Theorem 7.1.
   the base, so no selection function or ordering is needed.
 - [CLAIM-303](../claims.d/CLAIM-303.md): dependency tracking paid at revision time instead of at
   filing.
+
+## Note of 2026-10-19: Theorem 7.1 for positive programs, re-derived
+
+The paper states Theorem 7.1 and refers its proof to a report the record
+has not found. The promotion audit (batch 042) re-derived it for positive
+recursive Datalog under set semantics. Write M for the old view, M′ for
+what E − Δ⁻ derives and M″ for what (E − Δ⁻) ∪ Δ⁺ derives; the rules are
+monotone, so M′ lies in both M and M″.
+
+1. *Overestimate.* The Δ⁻-rules, run on the old relations from the
+   deleted base facts, mark exactly the tuples of M that have some
+   derivation using a deleted fact. A tuple of M not in M′ has only such
+   derivations and at least one, so it is marked. What survives unmarked
+   therefore lies in M′, and includes every base fact of E − Δ⁻.
+2. *Rederive.* Restoring marked tuples that have a rule instance with its
+   body in the current relations, until nothing changes, yields exactly
+   M′. Everything restored is derivable from the survivors, which lie in
+   M′, and M′ is closed under the rules. Conversely, by induction on
+   derivation height from E − Δ⁻, every tuple of M′ is present: its body
+   is present by hypothesis, and it is either unmarked or restored by its
+   rule instance.
+3. *Insert.* Adding what the insertions derive, from M′ and Δ⁺, gives
+   the least set containing them that is closed under the rules, which is
+   M″.
+
+For a positive program, processing strata in order, with each lower
+stratum's net changes as the next one's deletions and insertions, applies
+the argument stratum by stratum. No derivation counts are used. Set
+semantics is used in the second step, where a tuple is restored once
+whatever its number of derivations. Under negation a deletion can add
+tuples, and the argument does not apply; that case is [QUESTION-188](../questions.d/QUESTION-188.md).

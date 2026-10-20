@@ -18,7 +18,17 @@ promote_when: >-
   as the centre's own loss rises, so that the centre is not a solution.
   Larger relative improvements over the pairwise baseline cannot settle it.
 title: 'A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Lin et al.'s toy-model theorems split off at the owner's direction
+    into THEORY-741, filed Active, carrying out the promotion audit's
+    decision for THEORY-110 (batch 044, ADR-040). The audit re-derived
+    Theorems 6, 11 and 18 and found Theorem 10's probability bound not
+    derived. This THEORY keeps the conjecture about trained networks,
+    extends the new one, and stays Proposed on batch 037's verdict.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -29,6 +39,7 @@ source:
 extends:
 - THEORY-112
 - THEORY-109
+- THEORY-741
 summary: >-
   Sonthalia et al. (2024), [LIT-659](../literature.d/LIT-659.md), conjecture that below the width at
   which SGD solutions become convex modulo permutation they are still a star
@@ -138,3 +149,16 @@ VGG16s and ResNets on MNIST and CIFAR-10. Barriers through the centre are
   Benton et al.'s simplexes ([LIT-656](../literature.d/LIT-656.md)) are the volume version of
   joining many solutions at once, and Sonthalia et al. place their star
   domains beside them.
+
+## Note of 2026-10-19: the toy-model theorems, split off
+
+The promotion audit (batch 044) re-derived Lin et al.'s Theorems 6, 11 and
+18 and filed them as [THEORY-741](THEORY-741.md), which this account extends. Two
+corrections to what is quoted above. Theorem 10's probability bound is
+stated by the paper but not derived: its proof does not define the
+uniform distribution it draws minima from, and its arithmetic does not
+match the model it then uses. And the paper's description of the ReLU
+minima allows negative multiples of e_j, where its proof, correctly, gives
+positive ones. Theorem 11's two-piece centre and Theorem 18's linear
+centre for linear networks stand. What this account claims beyond them,
+a star domain of trained solutions modulo permutation, is unchanged.

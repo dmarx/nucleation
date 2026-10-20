@@ -29,7 +29,7 @@ summary: >-
   constant; in the knowledge-graph model more knowledge per node needs less
   agreement. Information-theoretic only, lossless, uniform languages.
 ---
-<!-- inactive-ok-file: CLAIM-199 CLAIM-054 THEORY-170 THEORY-270 — Proposed; the claims and theories this reading bears on or files, open -->
+<!-- inactive-ok-file: CLAIM-199 CLAIM-054 THEORY-170 — Proposed; the claims and theories this reading bears on or files, open -->
 <!-- inactive-ok-file: LIT-767 — Unavailable; Wyner–Ziv, named by QUESTION-020, not leaned on -->
 
 # NOTE-804: Goldwasser et al. — A Theory of Unsupervised Translation Motivated by Animal Communication

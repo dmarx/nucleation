@@ -1,0 +1,53 @@
+# record/promotion-audit/decisions/THEORY-244.yaml
+id: THEORY-244
+batch: batch-050
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The entropy and mutual-information bridges, re-derived here (ADR-047
+    v2) from two textbook facts: m, the universal lower-semicomputable
+    semimeasure, dominates every computable mass function f up to
+    2^(-K(f)) (m(x) >= c 2^(-K(f)) f(x)), and Levin's coding theorem
+    K(x) = -log m(x) + O(1).
+
+    Entropy (Theorem 2.10). K is a prefix-free code length, so Kraft gives
+    sum_x 2^(-K(x)) <= 1 and the noiseless coding theorem gives
+    E_f K(x) >= H(f). Domination plus the coding theorem give pointwise
+    K(x) <= log 1/f(x) + K(f) + O(1); taking the f-expectation,
+    E_f K(x) <= H(f) + K(f) + O(1). The upper gap is attained up to O(1)
+    by a point mass on one string x0: H = 0, E K = K(x0), and
+    K(f) = K(x0) + O(1).
+
+    Mutual information (Theorem 3.6). With I(x:y) = K(x) + K(y) - K(x,y),
+    apply the entropy bounds to the joint f and to its two marginals, whose
+    complexities are at most K(f) + O(1):
+    E I(x:y) >= H(X) + H(Y) - [H(X,Y) + K(f)] - O(1) = I(X;Y) - K(f) - O(1),
+    and E I(x:y) <= [H(X) + K(f)] + [H(Y) + K(f)] - H(X,Y) + O(1)
+    = I(X;Y) + 2K(f) + O(1). This is the paper's bracket to within O(1).
+  excluded: >-
+    The distortion-rate clause (Theorem 6.27). Its right-hand step, which
+    identifies h_x(mR) with the radius of x's sphere in a canonical cover,
+    is asserted, and the former promote_when waits on exactly that step.
+    It is not re-derived here, so it leaves the title and moves, with the
+    former promote_when, to a new QUESTION. Theorem 5.13 (sufficiency, one
+    way) was never in the title and stays in the body as reported.
+evidence:
+  - "LIT-224, Theorems 2.10, 3.6 and 6.27 and Lemma 3.7, read in NOTE-776 (proofs read step by step)."
+  - "This review's derivation of the entropy and mutual-information brackets (scope.accepted)."
+blockers: []
+notes: >-
+  Triage-006 scored it 2 (cites, derived); it is formal in fact. The
+  promote_when itself says Theorems 2.10 and 3.6 were checked and only the
+  distortion-rate clause waits, so narrowing the title to the two checked
+  bridges is the whole change.
+unlocks: []
+next_action: >-
+  Promote in a PR with the title narrowed to entropy and mutual
+  information, the derivation as a dated note, and the distortion-rate
+  clause with the former promote_when moved to a new QUESTION.

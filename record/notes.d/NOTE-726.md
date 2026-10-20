@@ -41,8 +41,7 @@ summary: >-
   intervention distribution at each level, which the paper adopts and
   does not test.
 ---
-<!-- inactive-ok-file: THEORY-133 THEORY-071 — Proposed; compared, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-222 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
+<!-- inactive-ok-file: THEORY-071 — Proposed; compared, nothing here rests on them -->
 
 # NOTE-726: Hoel, Albantakis & Tononi — Quantifying causal emergence shows that macro can beat micro
 

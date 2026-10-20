@@ -1,26 +1,10 @@
 ---
 number: 222
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpuumxo
-promote_when: >-
-  A test of whether the macro advantage depends on the uniform
-  intervention distribution that LIT-1038 imposes separately at each
-  level. The account is promoted by a result showing that, on systems not
-  built to display emergence, the EI-optimal coarse-graining stays the
-  same, or stays macro, when the interventions follow the system's own
-  stationary distribution or another distribution fixed in advance, and
-  that it agrees with an independent interventionist test of which level
-  the effects track (realization insensitivity under changes of
-  realizer). It is in trouble if the macro advantage disappears whenever
-  the same intervention distribution over micro states is used at both
-  levels, since then the gain measures the change of distribution, not a
-  property of the system. What cannot settle it: more hand-built toy
-  systems with positive CE, which show only that the arithmetic works;
-  or applications that estimate a TPM and report the best of many
-  coarse-grainings with no correction for the search.
-title: 'A coarse-grained macro description can carry more effective information than the micro description it supervenes on, so the scale at which a system''s causal structure is most effective can be a macro scale'
-version: 2
+title: 'With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level'
+version: 3
 history:
 - version: 2
   date: '2026-10-16'
@@ -28,6 +12,16 @@ history:
     Connections: the ΦID account is now filed (THEORY-497), so the
     line saying the record holds none is replaced. No rivalry is declared,
     since whether the two disagree depends on the redundancy function.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-222 (batch 049, ADR-047 v2). The dated note below gives a
+    four-state construction. The title now names the measure and the
+    intervention distribution; "the scale at which a system's causal
+    structure is most effective" becomes "the level at which effective
+    information is highest". The promote_when, which asks whether the gain
+    survives one distribution at both levels, moves to QUESTION-204.
 tags:
 - causality
 - complex-systems
@@ -44,14 +38,16 @@ summary: >-
   EI(micro) is positive. Four toy systems give 0.40 to 2.92 bits. The
   arithmetic is exact. The reading that the EI peak marks where causation
   happens rests on imposing a uniform distribution at each level, which
-  the paper adopts and does not test, so the account is Proposed.
+  the paper adopts and does not test; the title does not claim it.
+  Promoted on 2026-10-20 on a construction. Whether the gain survives one
+  intervention distribution at both levels is QUESTION-204.
 answers:
 - QUESTION-093
 ---
 <!-- inactive-ok-file: THEORY-497 — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
-<!-- inactive-ok-file: THEORY-133 THEORY-071 — Proposed; compared, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-071 — Proposed; compared, nothing here rests on them -->
 
-# THEORY-222: A coarse-grained macro description can carry more effective information than the micro description it supervenes on, so the scale at which a system's causal structure is most effective can be a macro scale
+# THEORY-222: With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level
 
 ## Source
 
@@ -145,3 +141,16 @@ chosen to display it.
 - **[THEORY-071](THEORY-071.md) (minimal agency).** Its individuality condition, a
   boundary the system makes for itself, is exactly what CE does not
   supply.
+
+## Note of 2026-10-20: a four-state construction
+
+For the promotion audit (batch 049, [ADR-047](../decisions.d/ADR-047.md) v2). Take micro states a, b,
+c and d. Each of a, b and c moves to one of a, b, c uniformly at random,
+and d moves to itself. With interventions uniform over the four states,
+P(Y = a) = P(Y = b) = P(Y = c) = (3/4)(1/3) = 1/4 and P(Y = d) = 1/4, so
+H(Y) = 2 bits and H(Y | X) = (3/4) log₂ 3 ≈ 1.189 bits, and EI ≈ 0.811
+bits. Group A = {a, b, c} and B = {d}. A moves to A and B to B, so with
+interventions uniform over the two macro states EI = 1 bit. The macro
+gains about 0.189 bits, and the level with the highest EI is the macro
+one. The construction depends on the uniform distribution being imposed
+again at the macro level, which weights d at 1/2 instead of 1/4.

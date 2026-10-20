@@ -47,7 +47,6 @@ supports:
 extended_by:
 - THEORY-234
 ---
-<!-- inactive-ok-file: THEORY-230 — Proposed; accounts filed today, named in Connections and not leaned on -->
 
 # THEORY-018: Softmax training identifies a language model's final-layer representation only up to an invertible linear map, so no inner product on it is intrinsic, and Park, Choe and Veitch's causal inner product is fixed by a stipulation
 

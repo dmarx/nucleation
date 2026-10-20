@@ -1,40 +1,38 @@
 # record/promotion-audit/decisions/THEORY-162.yaml
 id: THEORY-162
-batch: batch-039
+batch: batch-046
 reviewed: '2026-10-19'
-reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+supersedes: batch-039 (retain-proposed; this wave-5 review confirms it)
 current_status: Proposed
 disposition: retain-proposed
 confidence: high
 title_asserts: argument
-formal_in_fact: false
 scope:
   accepted: Nothing.
   excluded: >-
-    The whole title. It is a thesis in the philosophy of language, that
-    context-change potential is part of meaning and is underdetermined by
-    truth conditions. It rests on three bodies of judgement data
-    (Heim's marble and spouse pairs, Veltman's order-sensitive "might"
-    sequences, Krifka's declarations) and on frameworks that model them.
-    Its own body says "Not a measurement" and "Not that static rivals have
-    been refuted". Veltman's Proposition 1.2 (a dynamic system reduces to
-    a static one exactly when it is additive) is a theorem, but the title
-    does not rest on it: the title needs the further, empirical premise
-    that natural-language "might" is a test, which is the judgement data.
-    The promote_when asks for a developed static rival to be read and
-    checked against the three contrasts. No such rival (E-type, situation
-    semantics, a pragmatic account of "might") is held.
+    The whole title. Judged as interpretive synthesis: the three bodies of
+    judgement data (Heim's marble and spouse pairs, Veltman's order-
+    sensitive "might" sequences, Krifka's declarations) are uncontested as
+    data, but the title's first clause, that context change is part of
+    meaning, is exactly what static rivals (E-type and situation accounts of
+    anaphora, pragmatic accounts of "might") deny by assigning the same data
+    to syntax or pragmatics. The body itself says the rivals were not read.
+    A narrowing to the data ("sentences with the same truth conditions can
+    differ in ...") does not escape: "inform or only test" and "bring a
+    state of affairs about" are already the dynamic framework's
+    descriptions, and Krifka's case is "argued from grammatical evidence,
+    not tested". The promote_when asks for a reading of a developed static
+    rival checked against the three contrasts, which no argument can
+    supply.
 evidence:
-  - "NOTE-608 (Heim), NOTE-617 (Veltman), NOTE-602 (Krifka): each read in its cited sections; the data are constructed examples with intuitive judgements."
-  - "THEORY-162's own 'What this does not say': not a measurement, static rivals not read, the three formalisms are not one theory."
+  - "No LIT or NOTE in the record is an E-type, situation-semantic or pragmatic account of 'might' (searched 2026-10-19)."
+  - "THEORY-162 'What this does not say': static rivals not read; not a measurement."
+  - "git log: the entry is unchanged since batch 039."
 blockers:
-  - "The promote_when's comparison with a static rival needs a reading the record does not hold."
+  - "Reading task: a developed static rival (e.g. Elbourne's situation semantics for donkey anaphora, or a pragmatic account of epistemic 'might'), then check the three contrasts."
 notes: >-
-  Triage-006 flagged it formal at score 2 (cites, derived): the body cites
-  Veltman's numbered Proposition, and a source NOTE records a step-by-step
-  reading of a derivation. Neither carries the title. This is a false
-  flag of the kind the philosophical-title penalty was meant to catch; the
-  title says "is part of its meaning", which the penalty's word list
-  (thesis, argument, account, should) does not contain.
+  Wave 5 changed nothing, as batch 041 found for the other requeued
+  arguments. Its next step is a reading, not a review.
 unlocks: []
-next_action: None. Move to wave 5 in the queue; the next step is a reading of a static rival, which is the promote_when.
+next_action: Queue a reading task for a static rival; requeue after it.

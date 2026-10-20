@@ -1,0 +1,60 @@
+# record/promotion-audit/decisions/THEORY-117.yaml
+id: THEORY-117
+batch: batch-047
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement plus a theorem
+formal_in_fact: partly
+scope:
+  accepted: >-
+    Empirical half (ADR-047 v3). One study, Uselis, Dittadi & Oh (2025),
+    Sections 1-6 read in full in NOTE-525, whose text states what the title
+    uses: with n = 3, k = 1, training sets of 7,500 to 30,000 images (to
+    120,000 on dSprites and FSprites) leave "accuracy drops of 60-80% on
+    unseen combinations" (Figure 4); raising n or k raises unseen accuracy,
+    above 90% on most datasets at high coverage (Figures 3, 5). Every
+    from-scratch number is the best checkpoint as scored on the unseen
+    pairs (oracle selection, Section 3), so the title must say so.
+
+    Theoretical half, re-derived (ADR-047 v2), without the span condition.
+    Exact linear factorization: z(i,j) = a_i + b_j. Let G be the bipartite
+    graph on value-nodes {a_1..a_n, b_1..b_n} with an edge for each seen
+    pair. Claim: if G is connected, every z(i,j) is a fixed linear
+    combination of the seen embeddings. Proof: a path a_i = u_0, u_1, ...,
+    u_{2m+1} = b_j in G alternates sides, so its edges' embeddings sum with
+    alternating signs to a_i + b_j (each interior node enters once with +
+    and once with -). Hence z(i,j) = sum_t (-1)^t z(e_t). The cycle in
+    Proposition B.7's proof, edges (i,i), (i,i+1), (n,1), is a single
+    2n-cycle b_1 a_1 b_2 a_2 ... a_n b_1 through every node, so k = 2 so
+    arranged connects G. Without connection the claim fails: on a
+    disconnected G, adding c to every a and subtracting c from every b in
+    one component fixes all seen sums and changes cross-component sums.
+    k = 1 is a matching of n edges on 2n nodes, never connected for n >= 2.
+  excluded: >-
+    "Compositional generalization comes from diversity of combinations, not
+    data volume" as a general cause: the volume test is one architecture,
+    n = 3, k = 1, up to 4x (16x on two datasets), with oracle selection.
+    The classifier half of Proposition 4.1 (a linear readout correct on
+    every unseen pair, which is where the 2n - 1 span condition enters) is
+    not re-derived and not claimed; the title claims only that the unseen
+    embeddings are determined. Approximate factorization is open.
+evidence:
+  - "Uselis, Dittadi & Oh (2025), LIT-667, Sections 1-6 read in full in NOTE-525 (results as the text states them)."
+  - "This review's derivation of the determination clause (scope.accepted), which also makes 'suitably arranged' exact: the seen pairs must connect every value."
+blockers: []
+notes: >-
+  Triage-006 scored it 2; the theorem half is formal, the title's lead
+  clause is a measurement. The derivation sharpens "suitably arranged" to
+  connectivity of the seen-pair graph and drops the span condition, which
+  the classifier statement needs and the determination statement does
+  not. The promote_when's validation-split repetition and second
+  architecture move to a new QUESTION.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to Uselis, Dittadi and Oh's measured result with
+  oracle selection named, and the connectivity form of the determination
+  clause; add the derivation as a dated note; move the promote_when to a
+  new QUESTION.

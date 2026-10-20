@@ -26,7 +26,7 @@ supports:
 - CLAIM-321
 ---
 <!-- inactive-ok-file: CLAIM-321 — Proposed; the record's own claims that cite this reading, named in Connections -->
-<!-- inactive-ok-file: THEORY-117 THEORY-678 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-678 — Proposed; neighbouring accounts named in Connections, nothing here rests on them -->
 
 # THEORY-405: Adding one classifier-free guidance term per concept to a diffusion model's unconditional noise prediction samples images that satisfy several concepts at once without retraining, and on synthetic scenes it composes object positions far better than compositional energy-based models but relations no better; the reading of the summed score as the score of a product of experts holds only for concepts conditionally independent given the image, unit weights, a conservative field and the noise-free distribution
 

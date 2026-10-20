@@ -53,7 +53,7 @@ summary: >-
   does not say the governance is unreal, or that a network cannot come to
   hold some of it.
 ---
-<!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-027 CLAIM-288 CLAIM-194 CLAIM-157 CLAIM-284 THEORY-253 CASE-113 QUESTION-122 CLAIM-368 — Proposed; open claims and readings, cited as open -->
+<!-- inactive-ok-file: CLAIM-170 CLAIM-174 CLAIM-027 CLAIM-288 CLAIM-194 CLAIM-157 CLAIM-284 CASE-113 QUESTION-122 CLAIM-368 — Proposed; open claims and readings, cited as open -->
 
 # CLAIM-367: Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network
 

@@ -1,64 +1,45 @@
 # record/promotion-audit/decisions/CLAIM-265.yaml
 id: CLAIM-265
-batch: batch-040
+batch: batch-046
 reviewed: '2026-10-19'
-reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+supersedes: batch-040 (needs-correction, carried out in #227)
 current_status: Proposed
-warrant: interpretive
-disposition: needs-correction
-confidence: medium
+warrant: demonstrated
+disposition: promote
+confidence: high
 scope:
   accepted: >-
-    The class-relative form. Two local descriptions that disagree are not
-    thereby incompatible. Whether they obstruct a joint description is
-    decided only relative to a specified class of admissible
-    correspondences. A correspondence admitted only because it removes the
-    disagreement decides nothing.
-  excluded: >-
-    The singular "only once the correspondence is fixed". The defeat
-    condition's first disjunct (a verdict "without any correspondence ...
-    being fixed") is met by the bijection case below, so the title as
-    written is defeated on its own terms. The proviso as written ("a
-    correspondence fitted to remove the disagreement decides nothing") is
-    also too broad. Inside a class specified in advance, finding a
-    reconciling member is the compatibility verdict for that class.
+    The title as restated in #227: disagreement does not entail
+    incompatibility; the verdict is relative to a specified class of
+    admissible correspondences; a correspondence admitted only because it
+    removes the disagreement decides nothing.
+  excluded: Nothing.
 derivation: >-
-  Let V(D1, D2, C) be the verdict under a class C of correspondences, each
-  coherent with restriction. The descriptions are compatible relative to C
-  if some member carries D1 onto a description agreeing with D2 on every
-  shared context, and obstruct relative to C if none does.
-  (1) CASE-039 (Active): inertial frames disagree on simultaneity, and the
-  Lorentz maps reconcile them, so disagreement does not entail
-  incompatibility.
-  (2) Take one shared context with two outcomes, D1 = (1/2, 1/2) and
-  D2 = (1/3, 2/3). Under C = the outcome bijections, both bijections give
-  (1/2, 1/2), which is not (1/3, 2/3), so they obstruct. Under C' = all
-  maps applied to both descriptions, the map onto a single outcome gives
-  (1) for both, so they are compatible. The same pair gets opposite
-  verdicts.
-  (3) The obstruction under C holds for every member at once, with no
-  member fixed, so a singular fixed correspondence is not necessary.
-  (4) Under all maps every pair is compatible, so the existence of a
-  reconciling map is uninformative unless the class was specified
-  independently of the disagreement first. Inside such a class it is the
-  verdict.
+  Checked step by step. Steps 1 and 3 hold as written. Steps 2 and 4 did
+  not match the note's own definition (compatible relative to C iff some
+  member of C carries D1 onto a description agreeing with D2): they applied
+  the maps to both descriptions. Under the definition, the deterministic
+  maps of a two-outcome space push (1/2, 1/2) only to (1/2, 1/2), (1, 0)
+  or (0, 1), never to (1/3, 2/3), so "all maps" also obstructs and step 2
+  fails as written. Repair: let C' be the stochastic maps of outcomes. The
+  constant kernel K(·) = (1/3, 2/3) carries D1 to D2, so the pair is
+  compatible relative to C' and obstructs relative to the bijections C,
+  which is step 2. For step 4, on any single shared context the constant
+  kernel onto D2 reconciles any D1, so relative to the stochastic maps
+  every pair is compatible, which is what the proviso needs. With these
+  repairs the four steps establish the title.
 evidence:
-  - "Version 1, 2026-10-13, split from CLAIM-143 under ADR-040. It grounds on CASE-039 only and rests on no claim."
-  - "objected_by: none. CLAIM-238's objection is to CLAIM-143's defeat condition, not to this entry."
-  - "Batch 035's decision for CLAIM-143 found the singular wording too strong, with the same counterexample."
-blockers:
-  - "The title is broader than what holds. Corrected in PR #227 (the class-relative restatement, with the derivation as a dated note and the warrant moved to demonstrated under ADR-043 v2). That answers batch 035's owner question for CLAIM-265, pending the owner's review of #227."
+  - "Front matter: no rests_on; grounds CASE-039 (Active)."
+  - "No CLAIM has objects_to CLAIM-265; CLAIM-238's objection is to CLAIM-143."
+  - "Only CLAIM-143 carries an inactive-ok directive naming it; trimmed in #237."
+blockers: []
 notes: >-
-  Wave 5 judges the argument on its own terms. The argument as written
-  establishes the class-relative form, not the singular one. Once
-  restated, the claim is mathematical: the derivation is a proof, and the
-  claim has no Proposed premise and no objection. It then belongs with the
-  wave-1 class (demonstrated CLAIMs still Proposed), and promotion would
-  follow there. The audit does not promote it here, because the wording
-  is the open owner question.
+  The correction is to the proof, not the title, so it rides the promotion
+  PR (#237) rather than a separate correction. The owner approved the
+  class-relative wording with #227.
 unlocks:
   - CLAIM-143
 next_action: >-
-  After #227 merges, requeue CLAIM-265 in wave 1 as demonstrated. Requeue
-  CLAIM-143 once CLAIM-004 is decided and the owner rules on carrying the
-  class wording into it.
+  Merge #237. CLAIM-143 still waits on CLAIM-004 and on the owner's ruling
+  about carrying the class wording into it.

@@ -30,7 +30,7 @@ summary: >-
   deterministic maps: a stochastic quantile coupling reaches it for any
   finite distributions with disjoint supports.
 ---
-<!-- inactive-ok-file: THEORY-281 THEORY-199 THEORY-030 — Proposed; the theory filed from this reading, the partial answer of the same shape, and an unrelated theory named to set it aside, open -->
+<!-- inactive-ok-file: THEORY-199 — Proposed; the theory filed from this reading, the partial answer of the same shape, and an unrelated theory named to set it aside, open -->
 
 # NOTE-820: Chowdhury et al. — Fundamental Limits of Perfect Concept Erasure
 

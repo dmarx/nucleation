@@ -29,7 +29,7 @@ summary: >-
   "unifying theory" of the title is a framing: the EI section re-describes
   a known decomposition and adds no result.
 ---
-<!-- inactive-ok-file: THEORY-222 THEORY-268 THEORY-497 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-268 THEORY-497 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
 # THEORY-581: Two exactly consistent descriptions of one system, at different scales and with equal past–future mutual information, can differ in how that information divides between redundancy and synergy; in small generated Boolean networks under the Williams–Beer redundancy measure the coarser scale was more synergy-biased in every random stochastic system, by at most about 0.07, and the direction mostly reversed for redundancy-biased deterministic ones
 

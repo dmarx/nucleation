@@ -55,7 +55,7 @@ answers:
 - QUESTION-025
 ---
 <!-- inactive-ok-file: CLAIM-119 LIT-267 QUESTION-025 — Proposed or open; cited as what this result bears on -->
-<!-- inactive-ok-file: THEORY-271 THEORY-292 — Proposed; filed today, named in Connections as a rival and a counterpart, not leaned on -->
+<!-- inactive-ok-file: THEORY-292 — Proposed; filed today, named in Connections as a rival and a counterpart, not leaned on -->
 <!-- inactive-ok-file: THEORY-183 THEORY-182 THEORY-019 — Proposed; cited as the continuous counterpart, the premise about trained models, and the symmetry account this one bears on -->
 
 # THEORY-185: When each binary attribute of a word affects its co-occurrence independently and multiplicatively, the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear image of the attribute hypercube and parallelogram analogies hold exactly; over the full hypercube of words, each attribute's two values equally frequent, the raw co-occurrence ratio mixes in products of attributes, and keeps exact analogies only when the strengths are alike enough that every attribute mode outranks every product mode

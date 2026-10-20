@@ -1,0 +1,1 @@
+<!-- THEORY-318 and THEORY-270 are narrowed and promoted, and THEORY-585 corrected and promoted, by re-derivation in the promotion audit (batch 044); their wider promote_when clauses become three new questions, and QUESTION-040's reading of THEORY-318 is updated. -->

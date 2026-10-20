@@ -33,7 +33,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: LIT-530 — Unavailable: Schrödinger is unread; named because this paper cites his entropy "paradox", not leaned on -->
-<!-- inactive-ok-file: THEORY-026 THEORY-030 — Proposed; named only to say this paper states no bound they could be checked against -->
 <!-- inactive-ok-file: THEORY-492 — Proposed; named in the dated note of 2026-10-16 as citing this paper, nothing in the reading rests on it -->
 
 # NOTE-425: Energy flow and the organization of life

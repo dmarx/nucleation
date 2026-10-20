@@ -35,7 +35,7 @@ summary: >-
   O(log n) cost. It says nothing at the (k/2) log n scale of parametric
   model selection, and nothing about K(A) + K(x | A).
 ---
-<!-- inactive-ok-file: THEORY-259 THEORY-244 THEORY-036 THEORY-087 — Proposed; the companion theories filed today and the entries named under Connections -->
+<!-- inactive-ok-file: THEORY-036 THEORY-087 — Proposed; the companion theories filed today and the entries named under Connections -->
 
 # THEORY-277: For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated
 

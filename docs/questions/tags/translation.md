@@ -6,8 +6,9 @@
 
 **Translation** — translation and its theory — equivalence and its kinds (formal, dynamic, functional), interpretive resemblance, register and quality assessment, translation as skopos-driven action, intersemiotic translation between media, and what a translation preserves or changes (ADR-033).
 
-1 of 187 QUESTION documents. Back to the [full index](../README.md).
+2 of 216 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [QUESTION-074](../../../record/questions.d/QUESTION-074.md) | Can the transport structure fitted to single transformations predict what receivers recover under a composition of transformations no data were fitted on, within the conditions under which approximate transports compose? | From the interlocutor's reading of PR [#121](https://github.com/dmarx/nucleation/issues/121) and its reconciliation, relayed by the owner on 2026-10-12. It names the test the reading takes to separate a structural formalism from a richer feature set. Its scope is set by [CLAIM-260](../../../record/claims.d/CLAIM-260.md): approximate transports compose only under conditions. | Open |
+| [QUESTION-195](../../../record/questions.d/QUESTION-195.md) | Does prior-scored translation without parallel data keep an error bound that falls in the common ground and the size of the source language when the languages are not uniform or the translators are lossy? | Filed when the promotion audit (batch 044, [ADR-047](../../../record/decisions.d/ADR-047.md) v2) narrowed and promoted THEORY-270 to Goldwasser and co-authors' common-nonsense theorem, re-derived from its appendix. The former promote_when, a bound outside the uniform, lossless models, is held here. | Open |

@@ -29,7 +29,6 @@ summary: >-
   work gives W_diss = βσ²/2. Its practical reach is work fluctuations of
   order k_BT.
 ---
-<!-- inactive-ok-file: THEORY-026 — Proposed; named as the account this reading bears on, not leaned on -->
 
 # NOTE-417: Nonequilibrium Equality for Free Energy Differences
 

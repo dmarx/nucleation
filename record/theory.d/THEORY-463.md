@@ -20,7 +20,6 @@ summary: >-
   result. The entry is classical only, excludes the direction of time, and
   reports rather than settles the disputes about each repair.
 ---
-<!-- inactive-ok-file: THEORY-030 — Proposed; named because it already cites this entry, nothing here rests on it -->
 
 # THEORY-463: In classical statistical mechanics a strictly irreversible approach to equilibrium cannot come from the isolated Hamiltonian dynamics alone: the fine-grained Gibbs entropy is constant and bounded systems recur, so each account surveyed either weakens the target to typical or long-run behaviour or adds something from outside the dynamics
 

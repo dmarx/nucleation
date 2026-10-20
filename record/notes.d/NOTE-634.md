@@ -26,7 +26,6 @@ summary: >-
   three-object reference games at r = .99 with no fitted parameters, and
   the speaker model predicts speaker bets at r = .98.
 ---
-<!-- inactive-ok-file: THEORY-172 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # NOTE-634: Predicting pragmatic reasoning in language games
 

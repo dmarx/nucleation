@@ -1,58 +1,78 @@
 # record/promotion-audit/decisions/THEORY-110.yaml
 id: THEORY-110
-batch: batch-037
+batch: batch-044
 reviewed: '2026-10-19'
-reviewed_revision: 808d0f8a29187a4be92891ae31e9fffebec3862c
+reviewed_revision: 2f565411
 current_status: Proposed
-disposition: retain-proposed
-confidence: high
+disposition: split
+confidence: medium
+supersedes: "batch-037 (retain-proposed): the parent's verdict stands; this review adds the split batch 037 proposed, now that Lin et al.'s Theorems 10, 11 and 18 have been checked."
 scope:
   accepted: >-
-    What was measured, and is already stated in the body. After weight
-    matching, Sonthalia et al.'s trained centre has training-loss barriers to
-    held-out solutions 2–5 times lower than the barriers between held-out
-    solutions, on four architecture–dataset pairs (Table 1), and the gap
-    holds for 3, 5 and 15 held-out solutions (Table 5). Lin et al. prove
-    star-shaped linear connectivity for wide two-layer ReLU teacher–student
-    networks and for deep linear networks (Theorems 10, 11, 18), and find
-    low-barrier centres for five fitted minima with no alignment and no
-    held-out test.
+    A new THEORY, filed Active, holding the theorems of Lin, Li and Wu
+    (2024) that re-derive, checked here from arXiv:2404.06391 App. A.1,
+    A.4–A.5 and B.1. THEORY-110 keeps the conjecture and extends it.
+      (a) Theorem 6 (global minima, two-layer ReLU, orthonormal teacher of
+          M ≤ d neurons, x uniform on the sphere). Zero loss means
+          Σ_i σ(w_i·x) = Σ_{j≤M} σ(x_j) on the sphere. x = ±e_j gives
+          w_ij ≥ 0 and Σ_i w_ij = 1 for j ≤ M, and w_ij = 0 for j > M;
+          x = √(1−ε²)e₁ − εe₂ shows no neuron has two non-zero entries. The
+          converse is σ(Σ_j w_ij x_j) = Σ_j w_ij σ(x_j) for w_ij ≥ 0. Erratum:
+          the paper's S_j = {αe_j : α ≠ 0} must read α > 0. Its own proof
+          gives w_ij ≥ 0, and with α < 0 allowed the set is wrong
+          (m = 2, M = 1: rows 2e₁ and −e₁ satisfy Σ w = 1 but give
+          2σ(x₁) + σ(−x₁) ≠ σ(x₁)).
+      (b) Lemma 7. Two minima are linearly connected iff, row by row,
+          one is zero or both are positive multiples of the same e_j: a
+          segment through rows with different supports has two non-zero
+          entries inside it, and otherwise every point of it stays in the
+          set and keeps column sums 1.
+      (c) Theorem 11 (m ≥ kM). Merge each θ_i to θ_i⁰, keeping one row e_t
+          per type t at a row where θ_i has type t and zeroing the rest;
+          θ_i ↔ θ_i⁰ by (b). The non-zero rows of θ_1⁰, …, θ_{k−1}⁰ number at
+          most (k−1)M, so at least m − (k−1)M ≥ M rows are zero in all of
+          them. On M such rows put e_1, …, e_M, matching θ_k⁰'s type where
+          θ_k⁰ is non-zero and filling the other types into the rest; zero
+          elsewhere. That centre is a minimum linearly connected to every
+          θ_i⁰, hence two-piece-linearly connected to every θ_i.
+      (d) Theorem 18 (deep linear network, depth L, width m, y = Qx with
+          non-degenerate input covariance, minima A_L⋯A₁ = Q). The
+          interpolated product Π_l (tA_l^{(i)} + (1−t)A_l*) is a polynomial in
+          t whose coefficient of t^k(1−t)^{L−k} is σ_{i,k,L}, the sum over
+          the products with k factors from θ_i. It equals Q for all t iff
+          σ_{i,k,L} = C(L,k)Q for all i, k. Choosing A_L*, …, A₂* in turn by
+          Lemma 25 keeps the (w+1)r + 1 partial products independent at each
+          step (needs m > (w+1)r + 1, i.e. m > (L−1)r + 1 at the last). Then
+          the (L−1)r + 1 equations for A₁* have independent coefficient rows
+          and are solvable column by column. Requires the general-position
+          condition (Assumption 26: the r partial products A_L^{(i)}⋯A_{L−k+1}^{(i)}
+          independent for each k), which the paper says fails on a null set
+          of M^{⊗r}; that measure claim is stated, not argued. Lemma 25's
+          hypothesis "r₁ > q" should read r₁ ≥ p; it is applied with r₁ = m,
+          where both hold.
   excluded: >-
-    The title's claim, that the solution set has a centre linearly connected
-    to the rest, is not what was measured. The measured barriers are reduced,
-    not zero, and the authors say they are "often significantly greater than
-    zero". On DenseNet, CIFAR-100 and ImageNet the centre's own training loss
-    is well above a regular solution's, so the centre is doubtfully in the
-    set. Narrowing under ADR-047 v3 to "a trained centre lowers held-out
-    barriers 2–5 times but not to zero" would not be a narrowing of this
-    title: it would replace the thesis with the evidence that falls short of
-    it. The toy-model theorems are real proofs, but of a different statement
-    (wide teacher–student and linear networks, no permutations), and re-deriving
-    them would not meet the promote_when, which asks for a non-linear deep
-    network modulo permutation, or for held-out barriers followed to zero.
+    (1) Theorem 10, the probabilistic star-shaped linear connectivity. Its
+    proof (A.4, following A.2) takes "Unif(M)" on a set made of pieces of
+    different dimension without defining it, treats the rows as independent
+    and uniform over the M + 1 neuron types, and then uses the chance 1/M²
+    where that model gives 1/(M+1)². The bound is not derived. (2) Everything
+    the parent THEORY-110 claims about trained networks: the star domain
+    of SGD solutions modulo permutation, below the width at which they
+    become convex. Its batch-037 verdict stands.
 evidence:
-  - "NOTE-533 version 1: main text and Appendices A, B, C and E read in full; Tables 1–6 read; Appendix D figures from captions. The barriers quoted in the THEORY match Table 1."
-  - "NOTE-535 version 1: Sections 1–6 and A.1–A.2 read in full; the other proofs read for statement and structure, not checked. So the record does not hold checked proofs of Theorems 10, 11 or 18."
-  - "The star barrier was still falling at 50 source models (Fig. 1). That is the promote_when's open test, not a result."
-blockers:
-  - "The promote_when's first route needs held-out barriers followed as source models grow, in a network too thin for pairwise connectivity. The record holds no such study."
-  - "Its second route needs a proof of star-shaped connectivity modulo permutation for a non-linear deep network. Neither source gives one."
+  - "arXiv:2404.06391 (Lin, Li and Wu 2024), App. A.1, A.2, A.4, A.5 and B.1, text extracted with pdftotext and worked through for this decision."
+  - "NOTE-535: proofs other than A.1–A.2 read for statement and structure, not checked."
+  - "Batch 037's decision: 'A split in the manner of THEORY-109 (batch 030) is possible … not done here, because NOTE-535 did not check those proofs.'"
+blockers: []
 notes: >-
-  Batch 020's sort rule: the title states a structural claim about trained
-  solution sets, and its evidence is measurement that falls short of it plus
-  theorems about other models. It is a measurement-backed conjecture, not a
-  theorem, so neither ADR-047 v2 nor v3 applies. Triage-006 flagged it
-  formal (cites Theorems, relations, derived), because the body cites Lin et
-  al.'s theorems. That is a false flag of a kind worth naming: theorems
-  about toy models cited in the body of an empirical conjecture. A split
-  in the manner of THEORY-109 (batch 030) is possible. The Lin et al.
-  theorems for wide two-layer and deep linear networks could stand as their
-  own THEORY, with this one keeping the conjecture. It is not done here,
-  because NOTE-535 did not check those proofs and the split would need a
-  re-derivation first. The anthology-candidate flag stands: loss landscapes
-  are the anthology's ground.
+  The split follows ADR-040 and the THEORY-109 precedent (batch 030, #213):
+  the proved core gets its own THEORY, Active, and the parent keeps the
+  conjecture with an `extends` link to it. The child's title states only
+  what (a)–(d) give, both theorems in their toy models, with the 2-piece
+  path for ReLU (Theorem 11) rather than the linear one (Theorem 10). The
+  THEORY-109 split was filed at the owner's direction; this one is offered
+  in a PR on the same pattern, and the owner can decline it there.
 unlocks: []
 next_action: >-
-  Keep Proposed in wave 3. Requeue only when a study follows held-out
-  barriers to their limit, or when the record has checked Lin et al.'s
-  Theorems 10, 11 and 18 and a split is wanted.
+  Split PR: new Active THEORY for the two theorems (source LIT-682), with
+  the errata; THEORY-110 to version 2, `extends` the new THEORY, Proposed.

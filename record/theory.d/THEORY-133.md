@@ -1,19 +1,22 @@
 ---
 number: 133
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp3fc4z
-promote_when: >-
-  For a particular system, evidence that a higher-level cause is
-  realization-insensitive: interventions that change the realizer while
-  holding the higher-level property fixed leave the effect in place, and
-  interventions that change the higher-level property change it. The
-  account is in trouble for that system if changing the realizer alone
-  changes the effect. Arguments about the metaphysics of causation in
-  general cannot settle it, since the account's own point is that the
-  answer is system by system.
-title: 'A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels'
-version: 1
+title: "In List and Menzies's account of causes as difference-makers, a higher-level property that makes a difference to an effect is its cause, and its realizer is not, exactly when in some nearest situation without that realizer the property is realized differently and the effect still occurs; which holds depends on each causal system's counterfactual structure, not on levels a priori"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-133 (batch 047, ADR-047 v2): the downward-exclusion result is
+    re-derived in the paper's framework (dated note below). The title is
+    corrected in two places where it was false as written: it now requires
+    that the higher-level property is itself a difference-maker, and it says
+    the effect occurs in some nearest situation, not that it would occur.
+    The promote_when, evidence about a particular system, moves to
+    QUESTION-213.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -22,13 +25,15 @@ date: '2026-10-05'
 source:
 - LIT-722
 summary: >-
-  List & Menzies (2009), [LIT-722](../literature.d/LIT-722.md). Take causes to be proportional
-  difference-makers. Then Kim's exclusion principle fails, and a revised
-  one holds or fails system by system. A higher-level property excludes its
-  realizer as the cause exactly when the relation is realization-insensitive.
-  Proposed: the formal result is proved, but the claim that higher-level
-  relations are typically insensitive is an observation about scientific
-  practice, and Pernu disputes the paper's main example.
+  List & Menzies (2009), [LIT-722](../literature.d/LIT-722.md). Take causes to be difference-makers.
+  Then Kim's exclusion principle fails, and a revised one holds or fails
+  system by system. Given that a higher-level property makes a difference
+  to an effect, its realizer is not a cause exactly when some nearest
+  situation without the realizer has the property realized otherwise and
+  the effect present; the record re-derived this. The claim that
+  higher-level relations are typically insensitive to their realizers is
+  an observation about scientific practice, and Pernu disputes the paper's
+  main example. Which systems meet the condition is [QUESTION-213](../questions.d/QUESTION-213.md).
 supports:
 - CLAIM-158
 presupposed_by:
@@ -36,7 +41,7 @@ presupposed_by:
 ---
 <!-- inactive-ok-file: THEORY-048 — Proposed; named for a parallel, nothing here rests on it -->
 
-# THEORY-133: A higher-level property is a cause in its own right, and its realizer is not, exactly when the effect would still follow had the property been realized differently; whether that holds is a fact about each causal system, not an a priori truth about levels
+# THEORY-133: In List and Menzies's account of causes as difference-makers, a higher-level property that makes a difference to an effect is its cause, and its realizer is not, exactly when in some nearest situation without that realizer the property is realized differently and the effect still occurs; which holds depends on each causal system's counterfactual structure, not on levels a priori
 
 ## Source
 
@@ -89,3 +94,18 @@ patterns.
   this account's question. Its answer turns on whether the outcome would
   survive a different distribution of members' judgments realizing the
   same group attitude.
+
+## Derivation (2026-10-20, promotion audit batch 047)
+
+The framework: F is a cause of G iff F is a difference-maker for G, that is F □→ G and ¬F □→ ¬G. Counterfactuals are Lewis–Stalnaker: true iff the consequent holds at every nearest antecedent-world, with strong centering and the limit assumption. At the actual world the realizer P, the property F and the effect G all hold, and P entails F, so every ¬F-world is a ¬P-world.
+
+By centering, F □→ G and P □→ G are true. So F causes G iff ¬F □→ ¬G, and P causes G iff ¬P □→ ¬G.
+
+**Result.** Suppose F causes G. Then P is not a cause of G iff some nearest ¬P-world is an (F ∧ ¬P ∧ G)-world: F realized differently, G still present.
+
+- *If.* Such a world is a nearest ¬P-world where G holds, so ¬P □→ ¬G fails.
+- *Only if.* If P is not a cause, some nearest ¬P-world w has G. Suppose w were a ¬F-world. Because the ¬F-worlds are among the ¬P-worlds, no ¬F-world is closer than the nearest ¬P-worlds, so w, at that distance, is a nearest ¬F-world. Then ¬F □→ ¬G puts ¬G at w, a contradiction. So w is an (F ∧ ¬P ∧ G)-world.
+
+**Corollary.** F and P are both causes iff every nearest ¬P-world lacks G. Which case holds is fixed by which situations are nearest for the system in question, not by the levels.
+
+The title before this note said the effect "would still follow" and did not require F to make a difference. Without ¬F □→ ¬G, G surviving a change of realizer does not make F a cause, and the condition the proof needs is about some nearest ¬P-world, not all.

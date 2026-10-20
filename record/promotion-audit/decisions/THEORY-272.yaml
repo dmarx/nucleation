@@ -1,0 +1,65 @@
+# record/promotion-audit/decisions/THEORY-272.yaml
+id: THEORY-272
+batch: batch-051
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    Promoted under ADR-047 v3: one primary study, Hopfield (1982), read in
+    full from the page images (NOTE-819), with its numbers given in the
+    text. The title is narrowed to what those simulations measured.
+
+    (1) The derivation, checked. With V ∈ {0, 1}, T symmetric and Tᵢᵢ = 0,
+    E = −½ Σᵢⱼ TᵢⱼVᵢVⱼ changes on updating unit i by
+    ΔE = −ΔVᵢ Σⱼ TᵢⱼVⱼ. The threshold rule sets ΔVᵢ > 0 only when the sum is
+    positive and ΔVᵢ < 0 only when it is negative, so ΔE < 0 at every
+    change. The state space is finite, so asynchronous updating ends at a
+    fixed point.
+
+    (2) The crosstalk estimate, checked. For a stored random pattern s,
+    the local field has signal ±N/2 and n − 1 noise terms, each a sum of
+    about N/2 terms of ±1, so its rms is [(n − 1)N/2]^½ (Eq. 10). At
+    n = 10, N = 100: σ = √450 ≈ 21.2, z = 50/21.2 ≈ 2.36, P(bit error)
+    ≈ 0.009, and P(perfect 100-bit recall) ≈ e^(−0.92) ≈ 0.40, as the
+    paper says; the simulation gave 0.6.
+
+    (3) What was measured, all at N ≤ 100.
+    - Capacity: at N = 100, five patterns almost always stable; at fifteen
+      (0.15N), about half recalled within 5 bits.
+    - Basins: at N = 30, n = 5, a start within 5 bits of a memory reaches
+      it over 90% of the time, falling to 0.2 at 12 bits.
+    - Merging: at N = 100, an eighth pattern 10 bits from another was
+      "often fused" with it, at 20 bits displaced, and at 30 bits both
+      were usually stable.
+    - Overload: at N = 100, n = 500, no stored pattern was stable.
+  excluded: >-
+    Three things are excluded:
+    - That 0.15N holds for all large N. The paper expects it from the noise
+      estimate but shows it only at N ≤ 100; the analytic large-N
+      treatment the promote_when names is not held.
+    - "Memories closer than about a tenth of N fuse" as a general scale.
+      It is one design at N = 100.
+    - "Unless old ones are forgotten". The saturating-coupling result is
+      reported in words with no numbers, so the title keeps only the
+      measured 25-fold overload.
+evidence:
+  - "LIT-918, Eqs. 1–13 and Figs. 1–2 with the text of pp. 2556–2558, read in full in NOTE-819."
+  - "This review's checks of Eqs. 7–8 and Eq. 10 (scope.accepted 1–2)."
+blockers: []
+notes: >-
+  The promote_when asks for the large-N analytic treatment (Amit, Gutfreund
+  and Sompolinsky) or a large simulation. That is wider than the narrowed
+  title, so it moves to a new QUESTION. Confidence is medium because the
+  capacity and basin figures come from small Monte Carlo runs with no
+  error bars. Triage-006 scored it 2; it is not formal (one derivation,
+  the rest simulation).
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to Hopfield's simulations at N = 30 and 100,
+  move the promote_when to a new QUESTION, and add a dated note with the
+  checks.

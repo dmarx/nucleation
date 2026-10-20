@@ -1,21 +1,22 @@
 ---
 number: 318
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpqnhih
-promote_when: >-
-  A reading of the proofs of Theorems 6, 8 and 11 and Lemma 10, which the
-  Supplementary Material defers to Dwork et al.'s companion papers
-  (arXiv:1411.2664, arXiv:1506.02629), confirming the bounds as stated
-  there, together with a reading of the Science main text. It is refuted
-  by an ε-differentially private mechanism and an adaptive analyst for
-  which the chosen statistic's empirical mean exceeds its true mean by τ
-  with probability above the stated bound. What cannot settle it:
-  simulations in which a reused holdout does or does not overfit, since
-  the claim is a worst-case bound over all analysts and the simulated
-  implementation is not the analysed algorithm.
-title: "A bound on the max-information between a dataset and the functions an analyst chooses bounds the probability that an adaptively chosen statistic overfits that dataset, and differential privacy supplies the bound, so a holdout can validate many adaptively chosen statistics"
-version: 1
+title: "A bound k on the max-information between a dataset and an analyst's chosen statistic multiplies by at most 2^k the probability that the statistic overfits that dataset, and an ε-differentially private mechanism on datasets of n points keeps k at most log₂e·εn, whatever the distribution on datasets"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted at the owner's direction, carrying out the
+    promotion audit's decision for THEORY-318 (batch 044, ADR-047 v2).
+    Theorem 2 and Lemma 5 of the Supplementary Material were re-derived,
+    in the dated note below. The title drops its third clause, "so a
+    holdout can validate many adaptively chosen statistics", which rests
+    on Thresholdout's Theorem 11 and on proofs held in companion papers
+    the record has not read. That clause and the former promote_when move
+    to QUESTION-196.
 tags:
 - mathematical-statistics
 - learning-theory
@@ -36,7 +37,7 @@ answers:
 ---
 <!-- inactive-ok-file: NOTE-848 — Skimmed; the reading this rests on, of the Supplementary Material only -->
 
-# THEORY-318: A bound on the max-information between a dataset and the functions an analyst chooses bounds the probability that an adaptively chosen statistic overfits that dataset, and differential privacy supplies the bound, so a holdout can validate many adaptively chosen statistics
+# THEORY-318: A bound k on the max-information between a dataset and an analyst's chosen statistic multiplies by at most 2^k the probability that the statistic overfits that dataset, and an ε-differentially private mechanism on datasets of n points keeps k at most log₂e·εn, whatever the distribution on datasets
 
 ## Source
 
@@ -101,3 +102,26 @@ leaves no room for one once I∞ is bounded.
   private mechanism, the inflation is bounded with high probability,
   logarithmically in the number of queries. It does not price a search
   that was not so mediated.
+
+## Note of 2026-10-19: Theorem 2 and Lemma 5, re-derived
+
+The promotion audit (batch 044) re-derived the two results the title now
+states. S is a dataset drawn from any distribution, φ = M(S) the
+analyst's output, taking countably many values, and R(f) a set of
+"bad" datasets for each output f.
+
+- **Max-information.** I∞(S; φ) is the least k with
+  P[S = s | φ = f] ≤ 2^k P[S = s] for all s and f.
+- **Theorem 2.** P[S ∈ R(φ)] = Σ_f P[φ = f] Σ_{s∈R(f)} P[S = s | φ = f]
+  ≤ Σ_f P[φ = f] · 2^k P[S ∈ R(f)] ≤ 2^k max_f P[S ∈ R(f)]. With R(f) the
+  datasets on which f's empirical mean exceeds its true mean by τ,
+  Hoeffding bounds the maximum by e^{−2τ²n}.
+- **Lemma 5.** If M is ε-differentially private, any two datasets of n
+  points differ in at most n places, so P[M(s) = f] ≤ e^{εn} P[M(s′) = f]
+  for all s, s′. Then P[S = s | M(S) = f] = P[S = s] P[M(s) = f] /
+  Σ_{s′} P[S = s′] P[M(s′) = f] ≤ e^{εn} P[S = s], so k ≤ εn·log₂e.
+
+These are the proofs [NOTE-848](../notes.d/NOTE-848.md) checked in the Supplementary Material. The
+stronger transfers (Theorems 6 and 8) and Thresholdout's guarantee
+(Theorem 11), stated above, are not re-derived; they are what
+[QUESTION-196](../questions.d/QUESTION-196.md) asks about.

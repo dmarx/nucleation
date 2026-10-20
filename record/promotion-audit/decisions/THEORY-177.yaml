@@ -1,0 +1,58 @@
+# record/promotion-audit/decisions/THEORY-177.yaml
+id: THEORY-177
+batch: batch-045
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    An independent derivation from the causal-model side, which the
+    promote_when accepts in place of reading Jones (2019), Proposition 8.4.
+    Canonical model: context C and background Λ, Λ independent of C (as the
+    unconditional P(Λ ∈ ·) in the definition of direct influence requires),
+    with F_q(Λ, c) distributed as the observed R_q^c.
+
+    (1) Model → coupling. For content q in contexts c and c′, the pair
+    (F_q(Λ,c), F_q(Λ,c′)) has the two observed marginals because Λ ⟂ C, so
+    it is a coupling of them, and its disagreement probability is q's
+    direct influence. Every model's direct influence on q is therefore at
+    least the least disagreement over couplings, 1 − Σ_v min(P[R_q^c = v],
+    P[R_q^{c′} = v]), the total-variation distance (maximal coupling;
+    Dzhafarov–Kujala Theorem 3.3).
+
+    (2) Coupling → model, one content at a time. Fix the maximal coupling of
+    q's two copies. In a cyclic system the other constraints are the
+    context bundles and the other contents' connections; leaving those
+    connections free, the constraint graph is a path, so the bundles and
+    q's pair glue into one joint distribution by conditional independence
+    along it. Take Λ to be that joint: it reproduces every context's
+    observed distribution and gives q the minimal direct influence. So
+    Δ*(F_q) equals the total-variation distance.
+
+    (3) For ±1 variables, |⟨R⟩ − ⟨R′⟩| = 2|p − p′| = 2·TV, so
+    Δ = 2 Σ_q Δ*(F_q). The paper's example (Δ = 1; 7/20 and 3/20) checks.
+  excluded: >-
+    "The least total direct influence that any canonical causal model must
+    contain": the identity is a sum of per-content minima, each reached in
+    its own model. One model reaches them all at once exactly when a
+    coupling makes every connection maximal, which in Contextuality-by-
+    Default is noncontextuality. In a contextual system the least total
+    exceeds Δ/2. The title is narrowed to the sum of per-content minima.
+evidence:
+  - "LIT-851, Proposition 1, Lemma 1, Proposition 2 and Corollary 1, read in full in NOTE-654; the quoted Jones step not read."
+  - "This review's derivation (scope.accepted 1–3), which replaces the quoted step."
+blockers: []
+notes: >-
+  Triage-006 scored it 2 (cites, relation); it is formal in fact. The
+  narrowing matters for CLAIM-125 and CLAIM-245, which it supports: the
+  measure is per content, and summing the minima is not the least influence
+  one model needs.
+unlocks: []
+next_action: >-
+  Promote in a PR with the narrowed title and the derivation as a dated
+  note. The promote_when is met by its second clause; no QUESTION is
+  needed beyond noting the contextual case in the body.

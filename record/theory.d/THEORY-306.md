@@ -35,7 +35,6 @@ summary: >-
   ImageNet classes, one run per cell, not with natural long tails; the
   open half is QUESTION-171.
 ---
-<!-- inactive-ok-file: THEORY-305 — Proposed; neighbouring accounts of what self-supervised objectives commit a representation to, open -->
 
 # THEORY-306: MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes, and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost 11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one
 

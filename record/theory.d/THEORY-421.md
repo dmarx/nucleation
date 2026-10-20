@@ -33,7 +33,7 @@ summary: >-
   and the paper does not separate a real failure to order levels from the
   origin's arbitrariness under losses that see only pairwise distances.
 ---
-<!-- inactive-ok-file: THEORY-189 THEORY-196 — Proposed; other encodings of hierarchy and the paper this one tests, named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-196 — Proposed; other encodings of hierarchy and the paper this one tests, named in Connections, not leaned on -->
 
 # THEORY-421: In hyperbolic graph embeddings trained on link-prediction or classification losses, distance from the origin is only a partial reading of hierarchical level: on synthetic trees the root is not innermost and level order is recovered for 69–75% of node pairs, and a loss built on pairwise distances leaves the origin arbitrary
 

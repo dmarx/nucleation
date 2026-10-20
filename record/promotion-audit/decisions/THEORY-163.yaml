@@ -1,0 +1,43 @@
+# record/promotion-audit/decisions/THEORY-163.yaml
+id: THEORY-163
+batch: batch-047
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3: one study, Zaslavsky, Kemp, Regier & Tishby (2018), read
+    in NOTE-631 through the main text, all figure legends and Table 1,
+    whose text and table state the results the title uses. Table 1
+    (five-fold cross-validation over held-out languages, LI source): IB
+    epsilon 0.18 +/- 0.07, gNID 0.18, beta 1.03 +/- 0.01; RKK+ gNID 0.47.
+    With a uniform source the fit is worse but the systems are still near
+    the curve (epsilon 0.24, beta 1.06). Rotation control: 93% of
+    languages beat all 39 hue-rotated variants of themselves. The identity
+    E[D(M || M-hat)] = I(M;U) - I(W;U) (Eq. 5) was checked by hand in the
+    NOTE.
+  excluded: >-
+    "The world's languages": the evidence is the World Color Survey
+    languages and English, in one domain, with a fixed CIELAB perceptual
+    model. The best-fitting need distribution is estimated from the naming
+    data themselves (cross-validated over languages), so the fit is not
+    against an independently grounded source; the title now says so. No
+    process driving languages to the bound is shown. The SI (per-language
+    results, rotation-control details) was not read.
+evidence:
+  - "Zaslavsky, Kemp, Regier & Tishby (2018), LIT-810, read in NOTE-631: main text, figure legends, Table 1 (results as the text and table state them)."
+blockers: []
+notes: >-
+  Triage-006 scored it 2; it is a measurement, not formal. The
+  promote_when's independent-need test and second domain move to a new
+  QUESTION refining QUESTION-003. CLAIM-092 cites it as "the nearest
+  precedent, not as settled" and needs no change.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the World Color Survey and English result,
+  naming the beta, the rotation control and the source estimated from the
+  naming data; move the promote_when to a new QUESTION.

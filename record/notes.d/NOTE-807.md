@@ -25,7 +25,7 @@ summary: >-
   percolation is asserted, not shown, and the scaling laws rest on
   chosen assumptions.
 ---
-<!-- inactive-ok-file: THEORY-181 THEORY-039 — Proposed; the record's account of a critical training fraction and its caution about phases, compared, not leaned on -->
+<!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of a critical training fraction and its caution about phases, compared, not leaned on -->
 
 # NOTE-807: Gokhale — The semantic landscape paradigm for neural networks
 

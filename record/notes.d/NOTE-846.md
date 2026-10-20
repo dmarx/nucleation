@@ -29,7 +29,7 @@ summary: >-
   show that the minimizer is a set of Laplacian eigenvectors, and it names
   no population optimum.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-305 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-001 — Proposed; the accounts this reading bears on, and the one filed from it -->
 <!-- inactive-ok-file: NOTE-227 — Superseded; the skim of HaoChen et al., named for its wording about this paper -->
 
 # NOTE-846: Tan et al. — contrastive learning is spectral clustering on a similarity graph

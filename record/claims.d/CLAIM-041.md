@@ -47,7 +47,6 @@ summary: >-
 illustrated_by:
 - CASE-017
 ---
-<!-- inactive-ok-file: THEORY-166 — Proposed; the QQ equality, cited as the quantum-cognition evidence that bears on this claim, not as settled -->
 <!-- inactive-ok-file: CLAIM-009 CLAIM-037 THEORY-013 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-073 — Rejected; answered or abandoned, and cited as the history this entry answers -->
 <!-- inactive-ok-file: LIT-316 — Unavailable; the work is unread here, cited as what the exchange or manuscript cites and not leaned on -->

@@ -1,0 +1,57 @@
+# record/promotion-audit/decisions/THEORY-318.yaml
+id: THEORY-318
+batch: batch-044
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The first two clauses, Theorem 2 and Lemma 5 of the Supplementary
+    Material, re-derived here (ADR-047 v2). Discrete dataset S, an
+    analyst's output φ = M(S) taking countably many values, and for each
+    value f a set R(f) of "bad" datasets.
+      (a) Definition: I∞(S; φ) is the least k with P[S = s | φ = f] ≤
+          2^k P[S = s] for all s and f in the supports.
+      (b) Theorem 2. P[S ∈ R(φ)] = Σ_f P[φ = f] · Σ_{s ∈ R(f)} P[S = s | φ = f]
+          ≤ Σ_f P[φ = f] · 2^k · P[S ∈ R(f)] ≤ 2^k · max_f P[S ∈ R(f)],
+          using (a) term by term and Σ_f P[φ = f] = 1. With R(f) the
+          datasets on which f's empirical mean exceeds its true mean by τ,
+          Hoeffding's max_f P[S ∈ R(f)] ≤ e^{−2τ²n} gives Corollary 3.
+      (c) Lemma 5. Let M be ε-differentially private on datasets of n
+          points, neighbours differing in one point. Any two datasets s, s′
+          differ in at most n points, so group privacy (n steps of the
+          neighbour inequality) gives P[M(s) = f] ≤ e^{εn} P[M(s′) = f].
+          By Bayes, P[S = s | M(S) = f] = P[S = s]·P[M(s) = f] /
+          Σ_{s′} P[S = s′]·P[M(s′) = f] ≤ P[S = s]·P[M(s) = f] /
+          (e^{−εn} P[M(s) = f]) = e^{εn} P[S = s]. So k ≤ εn·log₂e, for
+          any distribution on datasets.
+    Both proofs are short and close; they are the ones NOTE-848 checked.
+  excluded: >-
+    The third clause, "so a holdout can validate many adaptively chosen
+    statistics". It rests on Thresholdout's guarantee (Theorem 11), with
+    Lemma 10's privacy bound and Theorems 6 and 8's sharper transfer, whose
+    proofs are deferred to the companion papers (arXiv:1411.2664,
+    arXiv:1506.02629), which the record does not hold. The promote_when
+    asks for exactly those proofs; it moves to a new QUESTION. Lemma 5's
+    bound n·ε is too weak alone to justify reuse at useful sample sizes
+    (it needs ε ≈ τ² over the whole interaction), which is why the
+    holdout clause needs the stronger theorems.
+evidence:
+  - "NOTE-848 (Skimmed: the main text was not reached): Supplementary Material read in full; proofs of Theorem 2 and Lemma 5 given there and checked; Theorems 6, 8, 11 and Lemma 10 proved elsewhere."
+  - "THEORY-318 body, 'What was actually shown': Theorem 2 and Lemma 5 marked 'proved and checked'."
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem. Triage-006 scored it 3 (title, cites,
+  relation). The NOTE's Skimmed status concerns the main text; the two
+  results kept are proved in the part read in full and are re-derived
+  here, so the reading depth does not bear on them. QUESTION-040 quotes
+  the old title in its "What the record holds"; its bullet is updated in
+  the same PR so it does not cite the dropped clause.
+unlocks: []
+next_action: >-
+  Narrow-and-promote: title cut to the max-information transfer and the
+  differential-privacy bound; re-derivation as a dated note; the holdout
+  clause and the old promote_when to a new QUESTION; QUESTION-040's bullet
+  updated.

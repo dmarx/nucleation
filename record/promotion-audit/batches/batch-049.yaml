@@ -1,0 +1,78 @@
+# record/promotion-audit/batches/batch-049.yaml
+batch: batch-049
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+selection: >-
+  Triage-006's score-2 band, sorted codes, next five after batch 048's
+  share: THEORY-202, -203, -213, -222 and -230. Each is sorted by what its
+  title asserts (batch 020), not by the flag.
+reviewed: [THEORY-202, THEORY-203, THEORY-213, THEORY-222, THEORY-230]
+outcomes:
+  narrow-and-promote: [THEORY-202, THEORY-213, THEORY-222, THEORY-230]
+  retain-proposed: [THEORY-203]
+yield: >-
+  4 of 5 found a promotion path, all narrowed. THEORY-202, -213 and -222
+  are formal in fact and re-derived here (ADR-047 v2). THEORY-230 pairs an
+  identification identity with a single-study measurement (ADR-047 v3).
+  THEORY-203 rests on a mean-field scaling argument whose exponent the
+  record's own recomputation does not reproduce.
+band:
+  - code: THEORY-202
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-203
+    title_asserts: compound
+    formal_in_fact: false
+    outcome: retain-proposed
+  - code: THEORY-213
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-222
+    title_asserts: theorem
+    formal_in_fact: true
+    outcome: narrow-and-promote
+  - code: THEORY-230
+    title_asserts: compound
+    formal_in_fact: false
+    outcome: narrow-and-promote
+finding: >-
+  Each promoted title overreached in one recognisable way. THEORY-202
+  stated its two criteria for all of variational renormalization, though
+  one counterexample needs a general Boltzmann machine. THEORY-213 claimed
+  a mirror for "rescaling symmetry", which is false for ReLU's λ > 0, and
+  kept an approximate SGD clause. THEORY-222 read "most effective causal
+  structure" for "highest EI". THEORY-230 called ten models "ten
+  architectures".
+notes_for_ledger:
+  - >-
+    The score-2 band went 4 of 5 here, 12 of 15 across batches 039, 045
+    and 049. Keep working through it by title.
+  - >-
+    "A symmetry implies a mirror" depends on the group containing an
+    involution with a nontrivial fixed subspace. Positive rescaling
+    (ReLU's λ > 0) contains none, so check the sign before carrying a
+    sparsity corollary (THEORY-213).
+  - >-
+    A weight-decay threshold for "every minimum on the symmetric subspace"
+    needs only a lower bound on the loss's Hessian, not smoothness: the
+    even function's gradient vanishes at zero, so f(z) − f(0) ≥ −(c/2)‖z‖²
+    (THEORY-213).
+  - >-
+    A "can" thesis about an information measure promotes by construction
+    once the title names the measure and the intervention distribution;
+    its interpretive reading moves to a QUESTION (THEORY-222).
+  - >-
+    Recomputing a quoted exponent from the paper's own equations is a
+    cheap check that can close the theorem route (THEORY-203's ν ≈ 1.89
+    against a quoted 1.78).
+  - >-
+    Requeue THEORY-203 if THEORY-199 is promoted and the ν gap is
+    explained or a second parameter set is measured.
+owner_questions: []
+promotion_prs:
+  - "#256: THEORY-202, THEORY-213, THEORY-222 narrowed and promoted (branch claude/promote-theories-202-213-222)."
+  - "#257: THEORY-230 narrowed and promoted (branch claude/promote-theory-230)."

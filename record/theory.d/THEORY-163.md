@@ -1,19 +1,20 @@
 ---
 number: 163
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp64mn6
-promote_when: >-
-  A test in which the need distribution over meanings is measured
-  independently of the naming data (for example from usage frequencies)
-  and the languages scored are held out from every fitted quantity, so
-  that attested systems are compared with the IB bound and with
-  structured alternatives other than hue rotations; or the same result
-  in a second semantic domain with its own independently grounded
-  meaning space. A better fit with a source estimated from the same
-  naming data cannot settle it.
-title: 'The colour-naming systems of the world''s languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it'
-version: 1
+title: "In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-163 (batch 047, ADR-047 v3): one study read through its main
+    text, figure legends and Table 1, whose text and table state the results
+    the title uses. "The world's languages" becomes the World Color Survey
+    languages and English, and the title names the source estimated from the
+    naming data. The promote_when moves to QUESTION-214.
 tags:
 - linguistics
 - information-theory
@@ -35,7 +36,7 @@ supports:
 - CLAIM-092
 ---
 
-# THEORY-163: The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it
+# THEORY-163: In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data
 
 ## Source
 

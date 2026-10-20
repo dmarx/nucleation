@@ -1,21 +1,20 @@
 ---
 number: 271
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpkwsi6
-promote_when: >-
-  A clean restatement and proof of Theorem 1 that handles every
-  labelling of subjects to vertices, together with a generalisation
-  beyond the one 24-sentence design: any corpus in which each sentence
-  expresses one binary aspect of its subject, with d aspects and the
-  full 2^d subjects. A proof that raw rows are affine in the aspects
-  exactly when each object's sentences are equiprobable would promote
-  it. It is refuted by a sentence distribution violating Eq. 5 whose raw
-  subject rows still satisfy Definition 1. Further pictures of
-  parallelogram-like shapes in natural text cannot settle it, since the
-  claim is about the toy corpus's exact condition.
 title: "In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promoted, carrying out the promotion audit's decision for THEORY-271
+    (batch 050, ADR-047 v2). The dated note below proves Theorem 1 for every
+    labelling of subjects to vertices and for any number d of aspects with
+    the full 2^d subjects, which meets both parts of the former
+    promote_when, and checks the three-aspect case numerically over all
+    40,320 labellings. The title is unchanged.
 tags:
 - representation-learning
 - linguistics
@@ -125,3 +124,51 @@ parallelograms", *PLOS ONE* 19(10): e0312151, [LIT-977](../literature.d/LIT-977.
   of co-occurrence. This one gets it from a symmetry of the sentence
   distribution. Both read word geometry as a symmetry of the
   statistics.
+
+## Note of 2026-10-20: Theorem 1 for every labelling and any number of aspects
+
+Promotion audit, batch 050.
+
+**Setting.**
+- Subjects are s ∈ {0,1}^d, all 2^d of them. There is one verb per aspect
+  v, and two objects o(v,b) per verb, b ∈ {0,1}.
+- Sentence (s, v, o(v, s_v)) has probability p(s,v).
+- The raw row of subject s has entry p(s,v) at verb v and
+  p(s,v)·1[s_v = b] at object o(v,b). Subjects never co-occur.
+- The rows form a parallelepiped (Definition 1) if, for some bijection σ
+  from the cube's vertices to the subjects, x ↦ row(σ(x)) is affine in x.
+  On the cube, equal edge vectors along each axis are the same thing.
+
+**Sufficiency.** Suppose p(s,v) = q(v, s_v) for every object (Eq. 5).
+Take σ to be the identity.
+- The verb entry is q(v,0)(1 − s_v) + q(v,1)s_v, and the object entries
+  are q(v,1)s_v and q(v,0)(1 − s_v). All are affine in s.
+- Aspect k's edge vector is supported on verb k and its two objects. So
+  the d edge vectors have disjoint supports, and they are independent
+  whenever every verb has positive probability.
+
+**Necessity, for any σ.**
+1. Fix an object o(v,b) and let f(x) be its column, read through σ. Then
+   f is affine and nonnegative on the vertices, hence on the whole cube.
+2. If f is not identically zero, its zero set on the cube is the cube's
+   intersection with a supporting hyperplane. That is a face, and the zero
+   vertices are the face's vertices.
+3. f vanishes on at least the 2^(d−1) subjects with s_v ≠ b. A face with
+   at least 2^(d−1) vertices that is not the whole cube is a facet, so the
+   face is a facet {x_k = c} and holds exactly those subjects.
+4. An affine function vanishing on {x_k = c} is a multiple of x_k − c, so
+   it is constant on the opposite facet. So the 2^(d−1) sentences ending
+   in o(v,b) are equally probable.
+5. If f is identically zero, they are all 0.
+
+The verb columns are sums of two object columns, so they add nothing. This
+one argument replaces the paper's case analysis over permutations and
+holds for every d.
+
+**A numerical check (d = 3).** Build the rows as above. For each of the
+8! = 40,320 permutations, test whether the rows equal their projection
+onto span{1, x₁, x₂, x₃} (tolerance 10⁻⁹).
+- A distribution meeting Eq. 5 forms a parallelepiped, also with one
+  object's group at zero.
+- One sentence perturbed by 0.1% forms none.
+- A uniform random p forms none.

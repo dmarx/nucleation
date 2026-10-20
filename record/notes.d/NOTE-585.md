@@ -26,7 +26,6 @@ summary: >-
   not discussed.
 ---
 <!-- inactive-ok-file: LIT-723 — Unavailable, unread; Making Things Happen, named as the unread book -->
-<!-- inactive-ok-file: THEORY-133 — Proposed; List & Menzies, named for its use of Woodward -->
 
 # NOTE-585: Causation and Manipulability
 

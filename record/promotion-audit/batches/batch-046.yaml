@@ -1,0 +1,38 @@
+# record/promotion-audit/batches/batch-046.yaml
+batch: batch-046
+date: '2026-10-19'
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+waves: [1, 3, 5]
+reviewed:
+  - CLAIM-265
+  - CLAIM-384
+  - THEORY-080
+  - THEORY-162
+yield: >-
+  2 promotion paths (CLAIM-265, and the new CLAIM-384 filed Active),
+  1 correction carried out (THEORY-080), 1 retained (THEORY-162)
+promotion_prs:
+  - "#237: CLAIM-265 promoted with steps 2 and 4 of its proof repaired; CLAIM-384 filed Active (THEORY-080's exact half); THEORY-080 corrected (branch claude/promote-claim-265-occam-claim)."
+notes_for_ledger:
+  - >-
+    A proof written the day before can contradict its own definition.
+    CLAIM-265's steps 2 and 4 applied maps to both descriptions while the
+    definition maps one onto the other. Recheck a fresh proof against its
+    stated definitions, not only its conclusion.
+  - >-
+    Stochastic maps are the class that makes "every pair is compatible"
+    true on a single context (the constant kernel); deterministic maps do
+    not. Use them for a vacuous-class example.
+  - >-
+    A record-own result split from a THEORY can be filed Active at once
+    when its proof is self-contained (CLAIM-370, CLAIM-384); its
+    decision file is its review.
+  - >-
+    THEORY-162 joins THEORY-485 and THEORY-167 as entries whose next step
+    is a reading task, not a review. Track reading tasks separately from
+    the requeue list.
+owner_questions:
+  - >-
+    CLAIM-384 is filed Active (following CLAIM-370) rather than
+    Proposed. Keep that as the rule for record-own results split from a
+    THEORY with a self-contained proof?
