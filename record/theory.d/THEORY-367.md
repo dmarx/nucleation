@@ -1,19 +1,20 @@
 ---
 number: 367
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbyiv8
-promote_when: >-
-  A read proof of the paper's Theorems 1–3 and Proposition 2 for its rewrite
-  system, which this paper states without proof and without giving the rules
-  (a full or journal version by the authors would do), or an independent
-  proof that the minimal witnesses of a positive conjunctive query with
-  equality conditions are the same for every equivalent query. More examples
-  cannot settle it, and the where-provenance half does not wait on it: that
-  where-provenance differs between equivalent queries is already shown by
-  the paper's counterexamples.
-title: "For positive queries over a tree data model that covers SPJU relational queries, why-provenance taken as the witness basis, one set of matched source facts per derivation, is preserved by query rewriting and its minimal witnesses are the same for equivalent queries with equality conditions, while where-provenance, the source location a value was copied from, can differ between equivalent queries and is preserved by rewriting only for traceable queries"
-version: 1
+title: "For SPJU relational queries, which Buneman, Khanna and Tan's tree model encodes, the minimal witnesses of an output tuple, the inclusion-minimal sets of source facts from which the query still derives it, are the minimal sets matched by single derivations and so are the same for every equivalent query, while where-provenance, the source location a value was copied from, can differ between equivalent queries"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-367 (batch 053, ADR-047 v2). The dated note below proves
+    that minimal witnesses are invariant for SPJU queries, the alternative
+    the promote_when named. The rewrite-system clauses rest on rules the
+    paper does not give, and "only for traceable queries" claims more than
+    the paper shows. Both leave the title for QUESTION-tmpo255i.
 tags:
 - databases
 - logic
@@ -32,7 +33,7 @@ summary: >-
   the source, negation, aggregation and strengths of support are all outside it.
 ---
 
-# THEORY-367: For positive queries over a tree data model that covers SPJU relational queries, why-provenance taken as the witness basis, one set of matched source facts per derivation, is preserved by query rewriting and its minimal witnesses are the same for equivalent queries with equality conditions, while where-provenance, the source location a value was copied from, can differ between equivalent queries and is preserved by rewriting only for traceable queries
+# THEORY-367: For SPJU relational queries, which Buneman, Khanna and Tan's tree model encodes, the minimal witnesses of an output tuple, the inclusion-minimal sets of source facts from which the query still derives it, are the minimal sets matched by single derivations and so are the same for every equivalent query, while where-provenance, the source location a value was copied from, can differ between equivalent queries
 
 ## Source
 
@@ -111,3 +112,31 @@ record has not seen proved.
   the reconstruct side of [CLAIM-303](../claims.d/CLAIM-303.md)'s trade.
 - [CLAIM-306](../claims.d/CLAIM-306.md): both notions are defined only for what is in the output, so
   neither says anything about a conclusion of absence.
+
+## Note of 2026-10-20: minimal witnesses, proved invariant
+
+Proved for the promotion audit (batch 053, [ADR-047](../decisions.d/ADR-047.md) v2), for SPJU relational
+queries.
+
+1. **Witnesses are semantic.** A witness for an output tuple t is a
+   subinstance J ⊆ D with t ∈ Q(J). Equivalent queries therefore have the
+   same witnesses.
+2. **The witness basis covers them.** A union of conjunctive queries with
+   comparisons of variables to constants is monotone. If t ∈ Q(J), some
+   valuation of one disjunct maps its body into J and produces t. Its image
+   is a member of the witness basis and lies inside J. Conversely,
+   monotonicity makes every member of the basis a witness.
+3. **Minimal witnesses are the minimal basis members.** Every witness
+   contains a basis member and every basis member is a witness. So the
+   inclusion-minimal witnesses are exactly the inclusion-minimal members of
+   the basis, and by step 1 they do not depend on how the query is written.
+   This is the paper's Theorem 3. The proof uses only monotonicity.
+4. **Where-provenance is not invariant.** The queries "select x from R(x)
+   where x = 5" and "select 5 from R(x) where x = 5" are equivalent. In the
+   first the output 5 is copied from R; in the second it is a constant with
+   no source location.
+
+The paper's rewrite-system results (Lemma 1, Proposition 2) are not
+re-derived, since the rules are not given. Whether traceability is
+necessary as well as sufficient is also left open. Both are
+[QUESTION-tmpo255i](../questions.d/QUESTION-tmpo255i.md).
