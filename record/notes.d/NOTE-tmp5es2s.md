@@ -129,7 +129,7 @@ locality.
   |⟨fgh⟩| ≤ ‖f‖₃‖g‖₃‖h‖₃. With σ₃ = 1/3 both exponents are exactly 2/3.
   *Holds when:* the scaling hypothesis holds as an upper bound; read as a
   fraction of the flux, when also ⟨Π_ℓ⟩ ≈ ε ≠ 0. Re-derived step by step
-  in THEORY-tmpfcxzq, where the prefactor for general σ₃ is
+  in [THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md), where the prefactor for general σ₃ is
   (u_rms³/L)(ℓ/L)^(3σ₃−1), which is ε only at σ₃ = 1/3.
 - **Decorrelation estimates (§III.B, heuristic).** With a correlation
   factor S(Δ)/S(ℓ) between large-scale strain and small-scale stress,
@@ -155,7 +155,7 @@ locality.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | Kinetic energy splits exactly into non-negative band contributions on a geometric sequence of scales, with no off-diagonal terms, and each band's energy changes by Π_(n−1) − Π_n | strong for the identity; qualified for "non-negative" | (A-1) and (11), proved by telescoping; re-derived and checked numerically here. Pointwise non-negativity fails for the S-type kernels (11) needs (see Limitations) |
-| C2 | The mean energy flux across ℓ receives at most O((ℓ/Δ)^(1−σ₃)) from scales above Δ and O((δ/ℓ)^(2σ₃)) from scales below δ | strong as a conditional inequality | sketched in §III.A, proved in Eyink (2005); re-derived in THEORY-tmpfcxzq from the scaling hypothesis |
+| C2 | The mean energy flux across ℓ receives at most O((ℓ/Δ)^(1−σ₃)) from scales above Δ and O((δ/ℓ)^(2σ₃)) from scales below δ | strong as a conditional inequality | sketched in §III.A, proved in Eyink (2005); re-derived in [THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md) from the scaling hypothesis |
 | C3 | Turbulent energy transfer is therefore scale-local, "assuming only the scaling properties expected in a turbulent inertial-range" | moderate | C2 plus two hypotheses not proved for Navier–Stokes: 0 < σ_p < 1 and a non-zero mean flux |
 | C4 | Band-to-band transfers are local in both scale and space | moderate in scale (via C2); weak in space | space-locality rests on the pointwise Hölder sketch, which the authors say gives no fractional statement |
 | C5 | Kraichnan's faster 4/3 decay is due to cancellation of signed non-local contributions under space averaging | moderate | heuristic decorrelation and fusion-rule argument ("plausible but non-rigorous"); one 512³ DNS whose signed slopes are 1.1 and 1.9 |
@@ -200,7 +200,7 @@ locality.
 
 ## Connections
 
-It extends Eyink (2005), LIT-tmpko78q, from low-pass to band-pass
+It extends Eyink (2005), [LIT-tmpko78q](../literature.d/LIT-tmpko78q.md), from low-pass to band-pass
 decompositions, and generalizes Germano (1992)'s identity. It answers
 Cheskidov, Constantin, Friedlander and Shvydkoy (2008), whose band
 decomposition keeps off-diagonal terms, and the DNS studies of Alexakis,
@@ -211,10 +211,10 @@ Eyink, sharp spectral filters and linear bands) is not filed.
 
 ## Bearing on the record
 
-- **THEORY-tmpfcxzq** is filed from this reading, Active: the conditional
+- **[THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md)** is filed from this reading, Active: the conditional
   mean bounds C2, re-derived step by step. It holds them as an inequality
   from a hypothesis, not as a fact about turbulence.
-- **THEORY-661 and CLAIM-157: scale locality is a different organizing
+- **[THEORY-661](../theory.d/THEORY-661.md) and [CLAIM-157](../claims.d/CLAIM-157.md): scale locality is a different organizing
   principle from near-decomposability.** The paper does not mention
   near-decomposability; the comparison is the record's. Near-decomposability
   is a block pattern with a gap: strong inside, weak (order ε) across.
@@ -222,14 +222,14 @@ Eyink, sharp spectral filters and linear bands) is not filed.
   neighbouring scales and decaying as a power of the scale ratio, with no
   gap. In the band budget, the whole throughput ε crosses every inertial
   scale. So no contiguous group of bands is weakly coupled to the rest,
-  and CLAIM-157's test would find no block among scales. What the paper
+  and [CLAIM-157](../claims.d/CLAIM-157.md)'s test would find no block among scales. What the paper
   establishes is that the coupling decays with distance in scale; what it
   does not establish is any weak coupling. This supports the premise
-  QUESTION-tmpmz64i and CLAIM-157's note of 2026-10-19 take from A3, in
+  [QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md) and [CLAIM-157](../claims.d/CLAIM-157.md)'s note of 2026-10-19 take from A3, in
   that form. Those entries say "unread" and can now cite this reading.
   They should also say that the proofs are Eyink (2005)'s and that
   locality is conditional on the scaling hypothesis.
-- **QUESTION-tmpmz64i.** The paper meets A5's precondition for any flux
+- **[QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md).** The paper meets A5's precondition for any flux
   test, "a balance law for a specified transferred quantity": energy, with
   an exact band budget and Galilean-invariant fluxes. It does not touch the
   question itself. Π_ℓ is a field at each scale of one velocity field. It
@@ -244,15 +244,15 @@ Eyink, sharp spectral filters and linear bands) is not filed.
   decomposition, the transfer to band-pass fluxes, and the decorrelation
   account. Eyink (2005) should be read before anything rests on the
   pointwise statements.
-- **CLAIM-331 (higher levels slower).** Not addressed. The paper says
+- **[CLAIM-331](../claims.d/CLAIM-331.md) (higher levels slower).** Not addressed. The paper says
   nothing about time scales across bands beyond strain rates S(ℓ) ∼
   δu(ℓ)/ℓ in the heuristic section.
-- **THEORY-257 and QUESTION-tmplru2n.** The bands are not dynamically
+- **[THEORY-257](../theory.d/THEORY-257.md) and [QUESTION-tmplru2n](../questions.d/QUESTION-tmplru2n.md).** The bands are not dynamically
   closed: each band's energy is driven by the flux from above. The paper
   offers no closed coarse variable; large-eddy closure is a separate
   literature.
 - **Information transfer across scales.** Nothing here; A3's caution
-  against identifying energy and information transfer (LIT-tmp8dl8g)
+  against identifying energy and information transfer ([LIT-tmp8dl8g](../literature.d/LIT-tmp8dl8g.md))
   stands.
 
 No instruction for machine-learning practice; nothing for the anthology.

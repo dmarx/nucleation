@@ -21,8 +21,8 @@ date: '2026-10-20'
 source:
 - LIT-tmp2snx1
 summary: >-
-  Eyink and Aluie (2009), LIT-tmp2snx1, read in NOTE-tmp5es2s, stating
-  bounds proved in Eyink (2005), LIT-tmpko78q. A conditional inequality:
+  Eyink and Aluie (2009), [LIT-tmp2snx1](../literature.d/LIT-tmp2snx1.md), read in [NOTE-tmp5es2s](../notes.d/NOTE-tmp5es2s.md), stating
+  bounds proved in Eyink (2005), [LIT-tmpko78q](../literature.d/LIT-tmpko78q.md). A conditional inequality:
   if velocity increments scale no faster than r^σ in the L³ mean, the
   contributions of far larger and far smaller scales to the mean flux
   across ℓ are bounded by powers of the scale ratio. It needs 0 < σ < 1:
@@ -37,10 +37,10 @@ summary: >-
 
 ## Source
 
-Eyink and Aluie (2009), *Physics of Fluids* 21:115107, LIT-tmp2snx1, read
-in full in NOTE-tmp5es2s from arXiv:0909.2386v1. The bounds are its (23)
+Eyink and Aluie (2009), *Physics of Fluids* 21:115107, [LIT-tmp2snx1](../literature.d/LIT-tmp2snx1.md), read
+in full in [NOTE-tmp5es2s](../notes.d/NOTE-tmp5es2s.md) from arXiv:0909.2386v1. The bounds are its (23)
 and (24). The paper sketches them heuristically and refers to Eyink (2005),
-LIT-tmpko78q (registered unread), for the proofs. The derivation below is
+[LIT-tmpko78q](../literature.d/LIT-tmpko78q.md) (registered unread), for the proofs. The derivation below is
 the record's, written from the hypothesis the paper states as its (20).
 
 ## What was actually shown
@@ -97,7 +97,7 @@ right only at σ₃ = 1/3; the general form is the record's.
 ultraviolet-local, and one smooth enough for σ ≥ 1 is not
 infrared-local, by this argument.
 
-**Checked numerically** (NOTE-tmp5es2s): on a synthetic one-dimensional
+**Checked numerically** ([NOTE-tmp5es2s](../notes.d/NOTE-tmp5es2s.md)): on a synthetic one-dimensional
 Gaussian field with σ₂ = 1/3, the L² share of the large-scale filtered
 field in an increment fell as (r/Δ)^0.62, and that of the high-passed
 field as (δ/r)^0.36. The predictions were 2/3 and 1/3. That is a check on
@@ -150,19 +150,19 @@ local.
 
 ## Connections
 
-- **THEORY-661 and CLAIM-157.** Near-decomposability is a block-diagonal
+- **[THEORY-661](THEORY-661.md) and [CLAIM-157](../claims.d/CLAIM-157.md).** Near-decomposability is a block-diagonal
   interaction pattern with a gap: strong within blocks, weak, of order ε,
   between them. Scale locality is a banded pattern: strongest between
   neighbouring scales, decaying as a power of the scale ratio, with no gap
   anywhere along the chain. Cut the chain of bands anywhere and the flux
   across the cut is the whole throughput. So no contiguous group of scales
-  is a gap-isolated block, and CLAIM-157's test would find none. The two
+  is a gap-isolated block, and [CLAIM-157](../claims.d/CLAIM-157.md)'s test would find none. The two
   are different organizing principles. This contrast is the record's; the
   paper does not mention near-decomposability.
-- **QUESTION-tmpmz64i.** The paper provides what A5 required before any
+- **[QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md).** The paper provides what A5 required before any
   flux test: a balance law for a specified quantity, with an exact
   band-by-band budget (its (11) and the telescoping flux equations). It
   does not touch the question asked, whether a pattern of transfer picks
   out a unit.
-- **LIT-tmpko78q.** Eyink (2005) holds the original proofs, including the
+- **[LIT-tmpko78q](../literature.d/LIT-tmpko78q.md).** Eyink (2005) holds the original proofs, including the
   pointwise and all-subsets versions this account does not re-derive.

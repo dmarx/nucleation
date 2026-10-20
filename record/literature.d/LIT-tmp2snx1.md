@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-20 (NOTE-tmp5es2s) in full, from arXiv:0909.2386v1; worth reading for its exact band-pass decomposition of kinetic energy with smooth filters (a multiscale Germano identity, in which each band's energy changes by the flux in minus the flux out), for a compact statement of when and why the energy flux across a scale is local in scale (THEORY-tmpfcxzq), and for the account of why the rigorous 2/3 exponent is weaker than Kraichnan's 4/3. Read it knowing that the rigorous bounds are proved in Eyink (2005), LIT-tmpko78q, and only sketched here; that they are conditional on a scaling hypothesis for velocity increments (exponents strictly between 0 and 1) and a non-zero mean flux, neither proved for Navier–Stokes; that the 4/3 argument is heuristic and its one simulation brackets rather than confirms it; that the band decomposition's non-negativity holds only after integration for the kernels it needs; and that locality here is in scale, for one field, and says nothing about units.
+  read 2026-10-20 ([NOTE-tmp5es2s](../notes.d/NOTE-tmp5es2s.md)) in full, from arXiv:0909.2386v1; worth reading for its exact band-pass decomposition of kinetic energy with smooth filters (a multiscale Germano identity, in which each band's energy changes by the flux in minus the flux out), for a compact statement of when and why the energy flux across a scale is local in scale ([THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md)), and for the account of why the rigorous 2/3 exponent is weaker than Kraichnan's 4/3. Read it knowing that the rigorous bounds are proved in Eyink (2005), [LIT-tmpko78q](LIT-tmpko78q.md), and only sketched here; that they are conditional on a scaling hypothesis for velocity increments (exponents strictly between 0 and 1) and a non-zero mean flux, neither proved for Navier–Stokes; that the 4/3 argument is heuristic and its one simulation brackets rather than confirms it; that the band decomposition's non-negativity holds only after integration for the kernels it needs; and that locality here is in scale, for one field, and says nothing about units.
 title: 'Localness of energy cascade in hydrodynamic turbulence. I. Smooth coarse graining'
 version: 2
 history:
@@ -37,10 +37,10 @@ summary: >-
 
 Eyink, G. L. & Aluie, H. (2009). Localness of energy cascade in hydrodynamic turbulence. I. Smooth coarse graining. *Physics of Fluids* 21(11): 115107. doi:10.1063/1.3266883. Preprint: arXiv:0909.2386 (13 September 2009).
 
-Read in full on 2026-10-20 in NOTE-tmp5es2s, from the arXiv copy.
+Read in full on 2026-10-20 in [NOTE-tmp5es2s](../notes.d/NOTE-tmp5es2s.md), from the arXiv copy.
 
 ## Why this is here
 
 A3 put it at the centre of the turbulence readings: a proof that coupling across a hierarchy of scales is local, which is not the same as the hierarchy being nearly decomposable. Bears on [QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md) and [CLAIM-157](../claims.d/CLAIM-157.md).
 
-The reading qualifies A3's description. The proof is Eyink (2005)'s, LIT-tmpko78q, and it is conditional on a scaling hypothesis for velocity increments. What it establishes, in that form, is that coupling between scales decays as a power of the scale ratio, with no gap: the whole energy throughput crosses every inertial scale. So the scales are not weakly coupled blocks, which is the record's contrast with THEORY-661, not the paper's (THEORY-tmpfcxzq). Nothing in the paper concerns units or individuation.
+The reading qualifies A3's description. The proof is Eyink (2005)'s, [LIT-tmpko78q](LIT-tmpko78q.md), and it is conditional on a scaling hypothesis for velocity increments. What it establishes, in that form, is that coupling between scales decays as a power of the scale ratio, with no gap: the whole energy throughput crosses every inertial scale. So the scales are not weakly coupled blocks, which is the record's contrast with [THEORY-661](../theory.d/THEORY-661.md), not the paper's ([THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md)). Nothing in the paper concerns units or individuation.
