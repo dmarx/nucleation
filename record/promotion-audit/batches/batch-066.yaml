@@ -2,6 +2,8 @@
 batch: '066'
 date: '2026-10-20'
 kind: narrowing-loss sweep (ADR-047 v4, triage-008 batch 2)
+promotion_prs:
+- "#286"
 reviewed:
 - THEORY-187
 - THEORY-211
