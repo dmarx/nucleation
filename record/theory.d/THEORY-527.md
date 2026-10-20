@@ -1,22 +1,21 @@
 ---
 number: 527
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpgjsxj
-promote_when: >-
-  The interventional procedure run on real systems, not described: with
-  mechanism interventions actually performed on a thermostat with and
-  without its design process, an RL policy with and without its training
-  loop, and a human, the verdicts coming out as the account says, and the
-  procedure separating an accidentally optimal input-output system from
-  an agent where a compression test does not. It is refuted if natural
-  choices of variables give opposite verdicts on the same system with no
-  principled way to choose (the frame problem THEORY-249 presses), or if
-  the five recovery assumptions fail for the systems that matter. The
-  recovery theorem itself, which holds, cannot settle whether the
-  definition picks out agency.
-title: "If agents are the systems that would adapt their policy were their actions to affect the world differently, then in causal models with mechanism variables they can be found from interventions on mechanisms, provably under five assumptions; on that definition the agent is wherever the adaptation is, so a thermostat is not an agent while it together with its design process is, and an RL training process is while its learnt policy generally is not"
-version: 1
+title: 'If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.''s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-527 (batch 055, ADR-047 v2). Theorem 1 and Lemmas 1–2 were
+    re-derived. The verdicts on thermostats, design processes, RL training and
+    learnt policies leave the title: they are argued in prose from the
+    definition and are relative to the variables chosen, not derived. They
+    stay in the body as the authors' arguments. Whether the definition picks
+    out agency, the promote_when, moves to QUESTION-tmpbgam3.
 tags:
 - agency
 - causality
@@ -29,15 +28,16 @@ answers:
 - QUESTION-032
 summary: >-
   Kenton, Kumar, Farquhar, Richens, MacDermott & Everitt (2022), [LIT-909](../literature.d/LIT-909.md),
-  read in [NOTE-707](../notes.d/NOTE-707.md). The recovery result is proved (Theorem 1) under five
-  assumptions, including the availability of interventions on mechanisms.
-  The definition is a proposal, the verdicts on thermostats and RL are
-  argued from it, and "reliably classifies humans as agents" is asserted.
-  The labels depend on the chosen variables, which the paper states.
+  read in [NOTE-707](../notes.d/NOTE-707.md). The recovery result (Theorem 1) is proved under five
+  assumptions, including the availability of interventions on mechanisms,
+  and was re-derived on promotion (2026-10-20). The definition is a
+  proposal; the verdicts on thermostats and RL are argued from it, and
+  "reliably classifies humans as agents" is asserted. The labels depend on
+  the chosen variables, which the paper states.
 ---
 <!-- inactive-ok-file: CLAIM-170 CLAIM-174 THEORY-208 THEORY-249 THEORY-624 — Proposed; related or rival accounts named in Connections, nothing here rests on their being settled -->
 
-# THEORY-527: If agents are the systems that would adapt their policy were their actions to affect the world differently, then in causal models with mechanism variables they can be found from interventions on mechanisms, provably under five assumptions; on that definition the agent is wherever the adaptation is, so a thermostat is not an agent while it together with its design process is, and an RL training process is while its learnt policy generally is not
+# THEORY-527: If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.'s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms
 
 ## Source
 
@@ -113,3 +113,29 @@ definition; they test it only against intuition.
 - On [QUESTION-032](../questions.d/QUESTION-032.md) it gives a level- and variable-relative answer: a factor
   is an agent if its decision mechanism responds to interventions on how its
   actions affect its utility.
+
+## Note of 2026-10-20: Theorem 1, re-derived
+
+- **Lemmas 1–2.** Leave-one-out discovery declares W → V when some
+  intervention on all other variables and two values of W change P(V),
+  which is the definition of a direct edge, cyclic or not. Algorithm 1 then
+  tests terminality by Definition 3, given structural interventions on
+  every node.
+- **Decisions.** For a decision D of agent A, Assumption 1 gives a utility U
+  of A reached by a path from D through no other utility of A. Assumption 5
+  sets the path to copy D, makes U = 1 for one value of D, and makes every
+  other mechanism ignore D. By Assumption 2 A picks that value; inverting
+  U's mechanism makes another uniquely optimal, so the mechanism edge from
+  U to D is found. With D's effects cut, every rule ties and Assumption 3
+  forbids a switch, so the edge is kept as terminal. Terminal edges into a
+  non-decision's mechanism do not exist (Assumption 4), so none is kept.
+- **Utilities.** The same construction gives the edge for every utility.
+  For a non-utility W with its children cut and every other mechanism
+  fixed, W's mechanism can reach expected utility only through W, whose
+  effects are cut, so no rule changes and W gets no terminal edge.
+- **Agents.** The terminal edges are the reversed edges of the agent
+  subgraphs, whose weakly connected components are the agents by
+  Assumption 1, and Algorithm 2 colours components.
+
+The theorem does not test the definition in its antecedent, and the
+paper's verdicts on particular systems are not consequences of it.
