@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**485 documents cited without acknowledgement.** Not listed: 9916 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**486 documents cited without acknowledgement.** Not listed: 9908 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2074,7 +2074,7 @@ Minimal agency requires individuality, interactional asymmetry and self-generate
 - [`record/claims.d/CLAIM-194.md:31`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:62`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:67`](../../record/claims.d/CLAIM-194.md)
-- [`record/questions.d/QUESTION-032.md:86`](../../record/questions.d/QUESTION-032.md)
+- [`record/questions.d/QUESTION-032.md:88`](../../record/questions.d/QUESTION-032.md)
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:78`](../../record/questions.d/QUESTION-128.md)
 
@@ -3065,7 +3065,7 @@ A gap or coupling criterion cannot tell a boundary a system produces from one im
 
 - [`record/cases.d/CASE-101.md:64`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-102.md:59`](../../record/cases.d/CASE-102.md)
-- [`record/questions.d/QUESTION-032.md:86`](../../record/questions.d/QUESTION-032.md)
+- [`record/questions.d/QUESTION-032.md:88`](../../record/questions.d/QUESTION-032.md)
 
 ### [CLAIM-201](../../record/claims.d/CLAIM-201.md) — Proposed
 
@@ -5605,7 +5605,15 @@ Agency is multiply realisable without cognition or mental states, and AI is a ne
 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-032.md:90`](../../record/questions.d/QUESTION-032.md)
+- [`record/questions.d/QUESTION-032.md:92`](../../record/questions.d/QUESTION-032.md)
+
+### [THEORY-249](../../record/theory.d/THEORY-249.md) — Proposed
+
+Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided
+
+1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-228.md:47`](../../record/questions.d/QUESTION-228.md)
 
 ### [THEORY-258](../../record/theory.d/THEORY-258.md) — Proposed
 
@@ -5695,14 +5703,6 @@ A linear-attention layer trained on in-context regression learns as a two-layer 
 
 - [`record/notes.d/NOTE-658.md:29`](../../record/notes.d/NOTE-658.md)
 
-### [THEORY-527](../../record/theory.d/THEORY-527.md) — Proposed
-
-If agents are the systems that would adapt their policy were their actions to affect the world differently, then in causal models with mechanism variables they can be found from interventions on mechanisms, provably under five assumptions; on that definition the agent is wherever the adaptation is, so a thermostat is not an agent while it together with its design process is, and an RL training process is while its learnt policy generally is not
-
-1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-341.md:237`](../../record/claims.d/CLAIM-341.md)
-
 ### [THEORY-533](../../record/theory.d/THEORY-533.md) — Proposed
 
 When a President can end a funding lapse selectively, paying the parts of government he favours from funds named by no appropriation, a shutdown stops checking him and instead hands him the choice of what to fund; each payment left unchallenged becomes a precedent, and a Speaker who lets it stand gives up his own chamber's power of the purse
@@ -5718,6 +5718,14 @@ Moral judgment is usually caused by quick affective intuitions, and moral reason
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-539.md:58`](../../record/theory.d/THEORY-539.md)
+
+### [THEORY-624](../../record/theory.d/THEORY-624.md) — Proposed
+
+Whether an identified system is an agent or a device can be cast as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so the verdict is relative to the observer's prior; on toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and some priors make everything look like an agent
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/questions.d/QUESTION-228.md:57`](../../record/questions.d/QUESTION-228.md)
 
 ### [THEORY-625](../../record/theory.d/THEORY-625.md) — Proposed
 

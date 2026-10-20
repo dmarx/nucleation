@@ -17,7 +17,7 @@ history:
     species (ADR-047 v3); the pattern reproduces and matches the null, which
     the title now says. "Globally stable" and "sustained oscillation" in
     general leave the title. The weak-self-regulation, supercriticality and
-    divergence requests move to QUESTION-tmpq1dzv.
+    divergence requests move to QUESTION-229.
 tags:
 - ecology
 - complex-systems

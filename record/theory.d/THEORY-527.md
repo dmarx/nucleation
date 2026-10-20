@@ -15,7 +15,7 @@ history:
     learnt policies leave the title: they are argued in prose from the
     definition and are relative to the variables chosen, not derived. They
     stay in the body as the authors' arguments. Whether the definition picks
-    out agency, the promote_when, moves to QUESTION-tmpbgam3.
+    out agency, the promote_when, moves to QUESTION-228.
 tags:
 - agency
 - causality

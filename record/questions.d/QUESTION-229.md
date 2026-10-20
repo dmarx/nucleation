@@ -1,10 +1,13 @@
 ---
+number: 229
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpq1dzv
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: 'Does the critical delay of a delayed random Lotka–Volterra community still fall with diversity when self-regulation is weak and interactions set the leading eigenvalue, is its Hopf bifurcation supercritical, and is the divergent phase reported past it real under a stiff delay-equation solver?'
@@ -28,7 +31,7 @@ summary: >-
 
 ---
 
-# QUESTION-tmpq1dzv: Does the critical delay of a delayed random Lotka–Volterra community still fall with diversity when self-regulation is weak and interactions set the leading eigenvalue, is its Hopf bifurcation supercritical, and is the divergent phase reported past it real under a stiff delay-equation solver?
+# QUESTION-229: Does the critical delay of a delayed random Lotka–Volterra community still fall with diversity when self-regulation is weak and interactions set the leading eigenvalue, is its Hopf bifurcation supercritical, and is the divergent phase reported past it real under a stiff delay-equation solver?
 
 ## Why it is a question
 

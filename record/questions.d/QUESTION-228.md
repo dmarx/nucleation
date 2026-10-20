@@ -1,10 +1,13 @@
 ---
+number: 228
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpbgam3
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Run on real systems, does Kenton et al.'s interventional procedure give the verdicts its definition of agency predicts, for a thermostat with and without its design process, an RL policy with and without its training loop, and a human, and does it separate an accidentally optimal input-output system from an agent where a compression test does not, under a principled choice of variables?"
@@ -29,7 +32,7 @@ refines:
 - QUESTION-032
 ---
 
-# QUESTION-tmpbgam3: Run on real systems, does Kenton et al.'s interventional procedure give the verdicts its definition of agency predicts, for a thermostat with and without its design process, an RL policy with and without its training loop, and a human, and does it separate an accidentally optimal input-output system from an agent where a compression test does not, under a principled choice of variables?
+# QUESTION-228: Run on real systems, does Kenton et al.'s interventional procedure give the verdicts its definition of agency predicts, for a thermostat with and without its design process, an RL policy with and without its training loop, and a human, and does it separate an accidentally optimal input-output system from an agent where a compression test does not, under a principled choice of variables?
 
 ## Why it is a question
 
