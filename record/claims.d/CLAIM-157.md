@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 4
+version: 7
 history:
 - version: 2
   date: '2026-10-11'
@@ -31,6 +31,21 @@ history:
     grounds gains THEORY-661, which states Simon's
     near-decomposability result that the criterion relies on. The claim
     is unchanged.
+- version: 5
+  date: '2026-10-19'
+  note: >-
+    Note of 2026-10-19 added, from the exchange on coarse-to-fine
+    processes: closure without a block (CLAIM-388), and the two
+    questions it opens (QUESTION-218, QUESTION-219). The
+    criterion is unchanged.
+- version: 6
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added, from the readings of that day: bounds on how block tests and closure relate (CLAIM-390, CLAIM-386), equitable partitions (THEORY-755), the spectral reading of near-decomposability (NOTE-977), and scale locality (THEORY-754). The criterion is unchanged.
+- version: 7
+  date: '2026-10-20'
+  note: >-
+    The note of 2026-10-20 gains a fifth point, from the reading of Nadler et al. (NOTE-986): a data-driven gap finds the block well and its duration poorly. The criterion is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -167,3 +182,64 @@ test. The name is earned when the gap beats the cost of keeping it.
   some forms and misses others ([THEORY-254](../theory.d/THEORY-254.md), [LIT-955](../literature.d/LIT-955.md), [NOTE-814](../notes.d/NOTE-814.md)).
   The Occam factor here is set per block, which is the kind of per-region
   setting a global threshold lacks.
+
+## Note of 2026-10-19: closure without a block, and flux
+
+A5 of the exchange of 2026-10-19 on coarse-to-fine processes asked whether
+"organizational unity require[s] a subsystem boundary, or can it arise from
+a dynamically closed collective mode distributed across multiple otherwise
+entangled subsystems?" Two things came of it.
+
+- **The two tests come apart under symmetric coupling too.** This claim
+  already records that dynamical independence and the block pick different
+  units when coupling is one-way. [CLAIM-388](CLAIM-388.md) shows they also differ
+  when it is symmetric. Under uniform coupling the sum of all units is
+  exactly closed, and no grouping of the units is a block ([CASE-120](../cases.d/CASE-120.md)).
+  The unit named here is already a mode (point 3, after [CLAIM-164](CLAIM-164.md)), but it
+  is found by grouping members. Whether a mode found without a grouping can
+  be one system is [QUESTION-218](../questions.d/QUESTION-218.md). A case of it that compensated and
+  entrained would meet this claim's `defeated_if`.
+- **A third kind of organization.** A5 set containment (this claim's
+  block) and mode (closure) beside flux: a pattern of transfer that
+  persists while constituents are replaced. In turbulence, transfer across
+  scales is local without the scales being weakly coupled blocks (Eyink and
+  Aluie, [LIT-1239](../literature.d/LIT-1239.md), unread). Whether flux picks out units this test
+  misses is [QUESTION-219](../questions.d/QUESTION-219.md). A5's guard is this claim's: a newly found
+  mode or flux "should not automatically be treated as an individual, much
+  less an agent."
+
+## Note of 2026-10-20: what the readings did to the block test
+
+The first readings of the coarse-to-fine program bear on this claim in four
+ways. None changes the criterion.
+
+- **Weak coupling in, little dependence.** For a block's full state in a
+  linear Gaussian VAR(1), dynamical dependence is of second order in the
+  coupling into the block, whatever the coupling out of it
+  ([CLAIM-390](CLAIM-390.md)). So a block that clears this claim's test because its
+  incoming coupling is weak is also nearly closed in Barnett and Seth's
+  sense. A block that clears it with strong outgoing coupling and weak
+  incoming coupling is too. That is the one-way case this claim already
+  passes ([CLAIM-167](CLAIM-167.md)).
+- **The aggregate is another matter.** The sum over a block closes only if
+  the block's own dynamics close on it. In one step that needs equal
+  column sums within the block ([CLAIM-386](CLAIM-386.md)). Simon's argument relies on
+  the fast transient to make the rest small. The unit this claim names, the
+  projector onto the block's joint mode (point 3), is the right object for
+  that reason: it is the slow part of the block, not its sum.
+- **Read the gap spectrally.** Shpak, Stadler, Wagner and Altenberg's flat
+  landscape ([NOTE-977](../notes.d/NOTE-977.md)) has entrywise weak coupling between blocks and
+  no separation of time scales at any rate. This claim's test compares a
+  gap against coupling, so it is already the spectral reading, which is
+  the one that works.
+- **Groupings that close without being blocks.** Column-equitable
+  partitions ([THEORY-755](../theory.d/THEORY-755.md)) and turbulent scale bands ([THEORY-754](../theory.d/THEORY-754.md),
+  conditional) organize a system without a gap. Whether either is "one
+  system" is [QUESTION-218](../questions.d/QUESTION-218.md) and [QUESTION-219](../questions.d/QUESTION-219.md).
+- **A data-driven gap gives the block, not its duration.** Nadler et al.
+  ([NOTE-986](../notes.d/NOTE-986.md)) recover the wells of a double-well diffusion from
+  equilibrium samples almost perfectly (99.6–99.8% of points). But they
+  underestimate the slow eigenvalue that sets the wells' lifetime by
+  30–80%, because few samples cross the barrier. This claim's duration
+  clause needs a lifetime, and equilibrium data are the weak place to get
+  one.

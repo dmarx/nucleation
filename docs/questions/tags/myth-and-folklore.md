@@ -2,11 +2,11 @@
 
 # QUESTIONs with `tags` `myth-and-folklore`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Myth and folklore** — myths, folktales and their variants as objects of study — morphology of the folktale, structural and transformational analysis of myth, and the computational modelling of either (ADR-034).
 
-0 of 216 QUESTION documents. Back to the [full index](../README.md).
+0 of 229 QUESTION documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

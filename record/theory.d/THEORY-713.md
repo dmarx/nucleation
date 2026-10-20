@@ -21,7 +21,7 @@ supports:
 - CLAIM-343
 ---
 
-<!-- inactive-ok-file: THEORY-497 THEORY-714 — Proposed; named as the account the theorem bears on and as one escape route, nothing here rests on either being settled -->
+<!-- inactive-ok-file: THEORY-497 — Proposed; named as the account the theorem bears on and as one escape route, nothing here rests on either being settled -->
 
 # THEORY-713: No redundancy measure on the Williams–Beer partial-information lattice can satisfy symmetry, self-redundancy, monotonicity, the identity axiom and non-negative atoms once there are three sources: for two independent bits, their XOR and a target that copies all three, identity forces three one-bit atoms under a two-bit total, so one atom is at most −1 bit, and a multivariate decomposition that keeps identity must give up non-negativity or the lattice
 

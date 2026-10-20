@@ -48,7 +48,6 @@ summary: >-
   an experiment manipulates. The sharp edge: in a vignette or rating
   study every manipulation is a do(I).
 ---
-<!-- inactive-ok-file: THEORY-419 — Proposed on a skim; the account of do() this claim relied on, added to its grounds -->
 <!-- inactive-ok-file: NOTE-696 — Skimmed; the reading of four excerpts of Pearl, cited as a partial reading, which it is -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-115 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; the constitution thesis this claim complements, cited as open -->

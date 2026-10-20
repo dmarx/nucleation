@@ -4,7 +4,12 @@ status: Open
 formerly:
 - QUESTION-tmp1bt6j
 title: 'Can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree, which of persistence, integration and causal level does each track?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added, from the reading of Rosas et al. 2020 (NOTE-987, THEORY-764).
 tags:
 - individuation
 - information-theory
@@ -25,6 +30,7 @@ summary: >-
   controlled models and reports where the criteria part.
 answered_by:
 - THEORY-424
+- THEORY-764
 ---
 
 <!-- inactive-ok-file: CLAIM-331 LIT-1137 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -104,3 +110,25 @@ interventions. That is A12's question and A14's realization defect again
 instead of a fandom's resentment. A21 did not cite this question. Its
 judgment-preserving form is [CLAIM-350](../claims.d/CLAIM-350.md), whose causal version is
 recorded there as a definition, not a result.
+
+## Note of 2026-10-20: ΦID emergence picks no level without a price
+
+The primary ΦID paper, Rosas et al. 2020, read in [NOTE-987](../notes.d/NOTE-987.md), answers
+part of this question for one pair of criteria.
+
+- **Emergence capacity peaks at the microstate.** By its Theorem 1's own
+  witness, the emergence score is maximized by the full microstate. So
+  ΦID emergence alone selects no coarse level; selecting one needs a price
+  such as [CLAIM-154](../claims.d/CLAIM-154.md)'s.
+- **Ψ against dynamical independence.** They diverge both ways
+  ([THEORY-764](../theory.d/THEORY-764.md)):
+  - A self-copying single part is independent and not emergent.
+  - A parity whose persistence depends on one bit passes the decoupling
+    test and is not independent.
+  - The sum of independent identical AR(1) channels is both, with no
+    interaction at all.
+- **Neither detects interaction.** Neither criterion requires the parts to
+  interact.
+- **Effective information asks something else again.** Ψ rewards closure
+  and penalizes redundancy among the parts. Effective information is
+  measured under imposed interventions ([THEORY-222](../theory.d/THEORY-222.md)).

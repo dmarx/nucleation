@@ -1,21 +1,21 @@
 ---
 number: 332
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp326zp
-promote_when: >-
-  A proof that Bruno and Chaudhuri's single-index rule (Online-SI) costs at most
-  three times, or at most some stated constant times, the offline optimum on
-  every workload whose per-statement saving or loss is bounded by an explicit
-  fraction of the build cost, in the paper's model (one index, fixed build cost,
-  free drops, no space limit). A later analysis of this algorithm or of its
-  rent-or-buy structure would do. It is refuted by one workload that meets such
-  a bound and exceeds the ratio. Random-workload simulations, more examples where
-  the ratio approaches 3, and experiments with the multi-index tuner cannot
-  settle it: the first two only re-establish what is held, and the third has no
-  guarantee to test.
-title: "For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown"
-version: 1
+title: "For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, is not three-competitive: when every statement's saving or loss is at most a fraction f of the build cost, a repeated workload makes it cost nearly 3 + 2f times the offline optimum, and one statement whose saving exceeds the build cost makes the ratio unbounded; no upper bound is shown"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promoted with a corrected title, carrying out the promotion audit's
+    decision for THEORY-332 (batch 053, ADR-047 v2). The old title left
+    open whether the rule stays within three when every saving is small
+    next to the build cost. A construction shows it does not, for any
+    positive bound on step size: the ratio approaches 3 + 2f. The title
+    now states that lower bound. The promote_when asked for an upper
+    bound, which moves to QUESTION-224.
 tags:
 - databases
 - operations-research
@@ -33,11 +33,11 @@ summary: >-
   ratio approaches 3, a lower bound. The reading's own check found ratios up to
   4.7 when one statement's saving is near the build cost, and an unbounded ratio
   when it exceeds it; with every saving at most a tenth of the build cost no
-  random workload passed 2.4. The multi-index tuner with a space limit is
+  random workload passed 2.4, but a constructed one with steps at most fB approaches 3 + 2f (note of 2026-10-20). The multi-index tuner with a space limit is
   heuristic, and all costs are optimizer estimates.
 ---
 
-# THEORY-332: For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown
+# THEORY-332: For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, is not three-competitive: when every statement's saving or loss is at most a fraction f of the build cost, a repeated workload makes it cost nearly 3 + 2f times the offline optimum, and one statement whose saving exceeds the build cost makes the ratio unbounded; no upper bound is shown
 
 ## Source
 
@@ -102,3 +102,36 @@ With every |δ| at most B_I/10, the worst ratio found was 2.4.
 - [CASE-094](../cases.d/CASE-094.md) and [CLAIM-307](../claims.d/CLAIM-307.md): a near-free bin makes the create rule fire at
   the first retrieval that would have gone faster, but one search through a large
   pile can cost more than the bin, which is outside the small-step regime.
+
+## Note of 2026-10-20: the lower bound, derived
+
+Derived for the promotion audit (batch 053, [ADR-047](../decisions.d/ADR-047.md) v2), in the paper's
+single-index model. A statement is (c0, c1), its cost without and with the
+index. Its saving is c0 − c1, and D is the running sum of savings.
+
+1. **The cycle.** Fix f in (0, 1] and a small η > 0. In the query phase,
+   statements (s, 0) with every s ≤ fB come until their savings sum to
+   B − η, and then one (fB, 0) follows. In the update phase, statements
+   (0, s) with s ≤ fB come until their losses sum to B − η, and then one
+   (0, fB) follows.
+2. **What Online-SI pays.** D − Dmin first reaches B on the last query of
+   the phase. So the rule pays every query of the phase without the index,
+   B − η + fB, and then builds for B. Dmax − D first reaches B on the last
+   update, so it pays every update with the index, B − η + fB, and then
+   drops. Dmin and Dmax reset at the drop and at the build, so each cycle
+   costs 3B + 2fB − 2η.
+3. **What the optimum pays.** Build at the start of each query phase and
+   drop before its update phase: B per cycle.
+4. **The ratio.** Over m cycles it is 3 + 2f − 2η/B. No additive constant
+   saves a factor of 3, for any bound f. The paper's own example is the
+   case with no overshoot, which gives 3.
+5. **One large saving.** A single (K, 0) with K > B costs the rule K + B,
+   since it builds only after the statement, while the optimum builds
+   first for B. The ratio grows without bound in K.
+
+A check, with the recipe in the decision file: hill-climbing over workloads
+with steps at most fB found 3.998, 3.400, 3.199 and 3.093 at f = 0.5, 0.2,
+0.1 and 0.05. That is 3 + 2f, approached from below. The note's earlier 2.4
+at f = 0.1 came from random workloads, which do not find this pattern.
+Whether some constant bounds the rule from above on such workloads is
+[QUESTION-224](../questions.d/QUESTION-224.md).

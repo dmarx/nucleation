@@ -16,12 +16,16 @@ promote_when: >-
   refute it as an account of those systems. More applications under one
   unnamed redundancy function cannot settle it.
 title: "A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-17'
   note: >-
     A Connections line: for three or more parts no identity-respecting redundancy gives nonnegative atoms (THEORY-713, CLAIM-343). The account is unchanged.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Connections gain the reading of the primary paper, Rosas et al. 2020 (NOTE-987, THEORY-764). The account and its source are unchanged; whether the primary paper should join source and how its Proposition 1 gap bears on promotion are left to the owner.
 tags:
 - complex-systems
 - information-theory
@@ -128,8 +132,21 @@ general assumptions" without giving them.
   synergy-defined workspace, built on ΦID, to locate where integrated
   information falls under propofol.
 - **Dynamical independence ([THEORY-257](THEORY-257.md))** is the record's other criterion
-  for a macro variable fixed by the dynamics. Both papers name it; the
-  relation between them is not worked out in the record.
+  for a macro variable fixed by the dynamics. Both papers name it. The
+  relation is now worked out for one-step criteria ([THEORY-764](THEORY-764.md), from
+  the primary paper, read 2026-10-20 in [NOTE-987](../notes.d/NOTE-987.md)). Ψ is a whole-minus-sum
+  term minus the one-step dependence, whose vanishing implies Barnett and
+  Seth's independence. Neither condition implies the other, and both can
+  hold with no interaction between the parts.
 - **Interventional individuality ([THEORY-424](THEORY-424.md)).** Bourrat makes the
   same associational-versus-interventional point about Krakauer's
   measures, uncited here.
+
+- **The primary paper (2026-10-20).** Rosas et al. 2020 ([LIT-1244](../literature.d/LIT-1244.md),
+  [NOTE-987](../notes.d/NOTE-987.md)). Three of its findings bear on this account. Its
+  applications compute no ΦID atom: they use only the redundancy-free
+  sufficient criteria Ψ and Γ. Syn = D + G holds by definition. And its
+  Proposition 1, that Ψ > 0 shows a *feature* emergent, proves only that
+  the *system* has synergy. The reading gives a counterexample under MMI,
+  a parity of two self-copying bits, with Ψ = 1 bit and no unique
+  information.
