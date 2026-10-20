@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [20 Oct 01:05 — First readings of the coarse-to-fine program: six works read, copies sought for nine, three Unavailable, and what the readings gave the record](2026-10.md#first-readings-of-the-coarse-to-fine-program-six-works-read-copies-sought-for-nine-three-unavailable-and-what-the-readings-gave-the-record)
+- [19 Oct 22:53 — Nineteen works registered unread from the exchange on coarse-to-fine processes and the physics of model reduction; Simon & Ando and Barnett & Seth already held](2026-10.md#nineteen-works-registered-unread-from-the-exchange-on-coarse-to-fine-processes-and-the-physics-of-model-reduction-simon--ando-and-barnett--seth-already-held)
 - [19 Oct 04:15 — The promotion audit's follow-up: THEORY-087's regular half, and the claims that cite THEORY-156](2026-10.md#the-promotion-audits-follow-up-theory-087s-regular-half-and-the-claims-that-cite-theory-156)
 - [19 Oct 03:41 — The promotion audit's second pass: the proved parts of THEORY-001, -005, -008 and -156](2026-10.md#the-promotion-audits-second-pass-the-proved-parts-of-theory-001--005--008-and--156)
 - [19 Oct 02:41 — The owner's promotion audit of 2026-10-19: two corrections, two promotions and a split](2026-10.md#the-owners-promotion-audit-of-2026-10-19-two-corrections-two-promotions-and-a-split)
@@ -106,9 +108,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-144 entries across 2 books, newest first.
+146 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 97 | 2026-10-01 | 2026-10-19 |
+| [2026-10](2026-10.md) | 99 | 2026-10-01 | 2026-10-20 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

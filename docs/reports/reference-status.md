@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**488 documents cited without acknowledgement.** Not listed: 9354 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**491 documents cited without acknowledgement.** Not listed: 9601 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-279 citations in 250 files await a look.
+279 citations in 250 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-273.md:23`](../../record/claims.d/CLAIM-273.md)
 - [`record/literature.d/LIT-026.md:17`](../../record/literature.d/LIT-026.md)
@@ -838,31 +838,6 @@ Deep networks generalise because the diffusion phase of SGD compresses each laye
 - [`record/theory.d/THEORY-039.md:72`](../../record/theory.d/THEORY-039.md)
 - [`record/theory.d/THEORY-039.md:84`](../../record/theory.d/THEORY-039.md)
 
-### [CLAIM-157](../../record/claims.d/CLAIM-157.md) — Proposed
-
-Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
-
-18 citations in 8 files await a look; 60 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-101.md:20`](../../record/cases.d/CASE-101.md)
-- [`record/cases.d/CASE-101.md:56`](../../record/cases.d/CASE-101.md)
-- [`record/claims.d/CLAIM-194.md:41`](../../record/claims.d/CLAIM-194.md)
-- [`record/claims.d/CLAIM-331.md:77`](../../record/claims.d/CLAIM-331.md)
-- [`record/questions.d/QUESTION-042.md:22`](../../record/questions.d/QUESTION-042.md)
-- [`record/questions.d/QUESTION-042.md:32`](../../record/questions.d/QUESTION-042.md)
-- [`record/questions.d/QUESTION-042.md:36`](../../record/questions.d/QUESTION-042.md)
-- [`record/questions.d/QUESTION-042.md:43`](../../record/questions.d/QUESTION-042.md)
-- [`record/questions.d/QUESTION-065.md:24`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:40`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:51`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-115.md:60`](../../record/questions.d/QUESTION-115.md)
-- [`record/questions.d/QUESTION-116.md:16`](../../record/questions.d/QUESTION-116.md)
-- [`record/questions.d/QUESTION-116.md:31`](../../record/questions.d/QUESTION-116.md)
-- [`record/questions.d/QUESTION-116.md:50`](../../record/questions.d/QUESTION-116.md)
-- [`record/questions.d/QUESTION-125.md:16`](../../record/questions.d/QUESTION-125.md)
-- [`record/questions.d/QUESTION-125.md:41`](../../record/questions.d/QUESTION-125.md)
-- [`record/questions.d/QUESTION-125.md:52`](../../record/questions.d/QUESTION-125.md)
-
 ### [LIT-310](../../record/literature.d/LIT-310.md) — Proposed
 
 A topos foundation for theories of physics: IV. Categories of systems
@@ -887,6 +862,30 @@ A topos foundation for theories of physics: IV. Categories of systems
 - [`record/notes.d/NOTE-334.md:127`](../../record/notes.d/NOTE-334.md)
 - [`record/notes.d/NOTE-334.md:130`](../../record/notes.d/NOTE-334.md)
 - [`record/questions.d/QUESTION-197.md:27`](../../record/questions.d/QUESTION-197.md)
+
+### [CLAIM-157](../../record/claims.d/CLAIM-157.md) — Proposed
+
+Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
+
+17 citations in 7 files await a look; 104 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-101.md:20`](../../record/cases.d/CASE-101.md)
+- [`record/cases.d/CASE-101.md:56`](../../record/cases.d/CASE-101.md)
+- [`record/claims.d/CLAIM-194.md:41`](../../record/claims.d/CLAIM-194.md)
+- [`record/questions.d/QUESTION-042.md:22`](../../record/questions.d/QUESTION-042.md)
+- [`record/questions.d/QUESTION-042.md:32`](../../record/questions.d/QUESTION-042.md)
+- [`record/questions.d/QUESTION-042.md:36`](../../record/questions.d/QUESTION-042.md)
+- [`record/questions.d/QUESTION-042.md:43`](../../record/questions.d/QUESTION-042.md)
+- [`record/questions.d/QUESTION-065.md:24`](../../record/questions.d/QUESTION-065.md)
+- [`record/questions.d/QUESTION-065.md:41`](../../record/questions.d/QUESTION-065.md)
+- [`record/questions.d/QUESTION-065.md:52`](../../record/questions.d/QUESTION-065.md)
+- [`record/questions.d/QUESTION-115.md:66`](../../record/questions.d/QUESTION-115.md)
+- [`record/questions.d/QUESTION-116.md:16`](../../record/questions.d/QUESTION-116.md)
+- [`record/questions.d/QUESTION-116.md:31`](../../record/questions.d/QUESTION-116.md)
+- [`record/questions.d/QUESTION-116.md:50`](../../record/questions.d/QUESTION-116.md)
+- [`record/questions.d/QUESTION-125.md:16`](../../record/questions.d/QUESTION-125.md)
+- [`record/questions.d/QUESTION-125.md:41`](../../record/questions.d/QUESTION-125.md)
+- [`record/questions.d/QUESTION-125.md:52`](../../record/questions.d/QUESTION-125.md)
 
 ### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
 
@@ -938,7 +937,7 @@ For one index with no space limit, Bruno and Chaudhuri's online tuner, which bui
 
 A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function
 
-15 citations in 14 files await a look; 8 other citations of it are acknowledged.
+15 citations in 14 files await a look; 12 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-333.md:105`](../../record/claims.d/CLAIM-333.md)
 - [`record/claims.d/CLAIM-334.md:64`](../../record/claims.d/CLAIM-334.md)
@@ -1707,8 +1706,8 @@ Adding causality to the information-theoretic perspective on individuality
 - [`record/decisions.d/ADR-035.md:47`](../../record/decisions.d/ADR-035.md)
 - [`record/decisions.d/ADR-035.md:76`](../../record/decisions.d/ADR-035.md)
 - [`record/notes.d/NOTE-165.md:102`](../../record/notes.d/NOTE-165.md)
-- [`record/questions.d/QUESTION-115.md:23`](../../record/questions.d/QUESTION-115.md)
-- [`record/questions.d/QUESTION-115.md:48`](../../record/questions.d/QUESTION-115.md)
+- [`record/questions.d/QUESTION-115.md:28`](../../record/questions.d/QUESTION-115.md)
+- [`record/questions.d/QUESTION-115.md:54`](../../record/questions.d/QUESTION-115.md)
 
 ### [LIT-1169](../../record/literature.d/LIT-1169.md) — Unavailable
 
@@ -2108,10 +2107,10 @@ Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share thei
 
 - [`record/claims.d/CLAIM-164.md:26`](../../record/claims.d/CLAIM-164.md)
 - [`record/claims.d/CLAIM-164.md:28`](../../record/claims.d/CLAIM-164.md)
-- [`record/claims.d/CLAIM-164.md:97`](../../record/claims.d/CLAIM-164.md)
-- [`record/claims.d/CLAIM-164.md:99`](../../record/claims.d/CLAIM-164.md)
 - [`record/claims.d/CLAIM-164.md:101`](../../record/claims.d/CLAIM-164.md)
-- [`record/claims.d/CLAIM-164.md:109`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:103`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:105`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:113`](../../record/claims.d/CLAIM-164.md)
 
 ### [THEORY-108](../../record/theory.d/THEORY-108.md) — Proposed
 
@@ -2362,7 +2361,7 @@ With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk in
 
 A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
 
-5 citations in 4 files await a look; 6 other citations of it are acknowledged.
+5 citations in 4 files await a look; 24 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-102.md:76`](../../record/cases.d/CASE-102.md)
 - [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
@@ -2530,11 +2529,11 @@ A corporation whose Corporate Internal Decision (CID) Structure, an organization
 
 Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many
 
-5 citations in 5 files await a look; 15 other citations of it are acknowledged.
+5 citations in 5 files await a look; 48 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:55`](../../record/cases.d/CASE-101.md)
 - [`record/notes.d/NOTE-945.md:140`](../../record/notes.d/NOTE-945.md)
-- [`record/questions.d/QUESTION-115.md:52`](../../record/questions.d/QUESTION-115.md)
+- [`record/questions.d/QUESTION-115.md:58`](../../record/questions.d/QUESTION-115.md)
 - [`record/theory.d/THEORY-703.md:82`](../../record/theory.d/THEORY-703.md)
 - [`record/theory.d/THEORY-707.md:85`](../../record/theory.d/THEORY-707.md)
 
@@ -2637,17 +2636,6 @@ A simulation whose operators each maximize an objective the modeller fixed canno
 - [`record/questions.d/QUESTION-086.md:94`](../../record/questions.d/QUESTION-086.md)
 - [`record/questions.d/QUESTION-128.md:94`](../../record/questions.d/QUESTION-128.md)
 - [`record/terms.d/TERM-060.md:89`](../../record/terms.d/TERM-060.md)
-
-### [CLAIM-327](../../record/claims.d/CLAIM-327.md) — Proposed
-
-A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
-
-4 citations in 2 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
-- [`record/cases.d/CASE-116.md:79`](../../record/cases.d/CASE-116.md)
-- [`record/cases.d/CASE-116.md:109`](../../record/cases.d/CASE-116.md)
-- [`record/claims.d/CLAIM-331.md:97`](../../record/claims.d/CLAIM-331.md)
 
 ### [CLAIM-329](../../record/claims.d/CLAIM-329.md) — Proposed
 
@@ -2763,12 +2751,23 @@ Kothapalli — Neural Collapse: A Review on Modelling Principles and Generalizat
 
 Coifman et al. — Diffusion maps
 
-4 citations in 1 file await a look; 7 other citations of it are acknowledged.
+4 citations in 1 file await a look; 17 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-981.md:6`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:22`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:61`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:81`](../../record/literature.d/LIT-981.md)
+
+### [NOTE-981](../../record/notes.d/NOTE-981.md) — Skimmed
+
+Charvin, Catenacci Volpi and Polani — Exact and soft successive refinement of the IB
+
+4 citations in 1 file await a look.
+
+- [`record/literature.d/LIT-1258.md:7`](../../record/literature.d/LIT-1258.md)
+- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
+- [`record/literature.d/LIT-1258.md:46`](../../record/literature.d/LIT-1258.md)
+- [`record/literature.d/LIT-1258.md:55`](../../record/literature.d/LIT-1258.md)
 
 ### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
 
@@ -2818,7 +2817,7 @@ In relational frame theory the self is verbal behaviour's content, its process a
 
 Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
 
-4 citations in 2 files await a look; 43 other citations of it are acknowledged.
+4 citations in 2 files await a look; 45 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-194.md:31`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:59`](../../record/claims.d/CLAIM-194.md)
@@ -3147,6 +3146,16 @@ In the What Survives Translation? exchange, the manuscript drafted straight from
 - [`record/claims.d/CLAIM-186.md:97`](../../record/claims.d/CLAIM-186.md)
 - [`record/decisions.d/ADR-043.md:283`](../../record/decisions.d/ADR-043.md)
 
+### [CLAIM-327](../../record/claims.d/CLAIM-327.md) — Proposed
+
+A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
+
+3 citations in 1 file await a look; 16 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
+- [`record/cases.d/CASE-116.md:79`](../../record/cases.d/CASE-116.md)
+- [`record/cases.d/CASE-116.md:109`](../../record/cases.d/CASE-116.md)
+
 ### [CLAIM-348](../../record/claims.d/CLAIM-348.md) — Proposed
 
 No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified by the description that preserves it
@@ -3383,7 +3392,7 @@ A Markov blanket does not individuate a system: where it falls is fixed by model
 
 3 citations in 3 files await a look; 17 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-152.md:116`](../../record/claims.d/CLAIM-152.md)
+- [`record/claims.d/CLAIM-152.md:120`](../../record/claims.d/CLAIM-152.md)
 - [`record/claims.d/CLAIM-194.md:47`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-337.md:92`](../../record/claims.d/CLAIM-337.md)
 
@@ -3805,7 +3814,7 @@ Mindfulness integrates a population of interests by changing which of them may a
 
 One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership
 
-2 citations in 1 file await a look; 26 other citations of it are acknowledged.
+2 citations in 1 file await a look; 27 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:31`](../../record/questions.d/QUESTION-063.md)
@@ -4507,10 +4516,10 @@ Whether an expected tangible reward lowers or raises later intrinsic motivation 
 
 The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions
 
-2 citations in 1 file await a look; 6 other citations of it are acknowledged.
+2 citations in 1 file await a look; 13 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-065.md:25`](../../record/questions.d/QUESTION-065.md)
-- [`record/questions.d/QUESTION-065.md:46`](../../record/questions.d/QUESTION-065.md)
+- [`record/questions.d/QUESTION-065.md:47`](../../record/questions.d/QUESTION-065.md)
 
 ### [THEORY-200](../../record/theory.d/THEORY-200.md) — Proposed
 
@@ -4773,6 +4782,24 @@ Asserting is undertaking a commitment that entitles others to reassert it and ca
 - [`record/claims.d/CLAIM-115.md:123`](../../record/claims.d/CLAIM-115.md)
 - [`record/claims.d/CLAIM-363.md:100`](../../record/claims.d/CLAIM-363.md)
 
+### [THEORY-753](../../record/theory.d/THEORY-753.md) — Proposed
+
+x
+
+2 citations in 1 file await a look.
+
+- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
+- [`record/literature.d/LIT-1258.md:55`](../../record/literature.d/LIT-1258.md)
+
+### [THEORY-757](../../record/theory.d/THEORY-757.md) — Proposed
+
+y
+
+2 citations in 1 file await a look.
+
+- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
+- [`record/literature.d/LIT-1258.md:56`](../../record/literature.d/LIT-1258.md)
+
 ### [CLAIM-017](../../record/claims.d/CLAIM-017.md) — Superseded
 
 What survives translation is the invariants, and approximately preserved relations, of communicative transformation
@@ -4867,7 +4894,7 @@ A communicative kind's identity is grounded in its relational organization rathe
 
 1 citation in 1 file awaits a look; 106 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-152.md:134`](../../record/claims.d/CLAIM-152.md)
+- [`record/claims.d/CLAIM-152.md:138`](../../record/claims.d/CLAIM-152.md)
 
 ### [CLAIM-143](../../record/claims.d/CLAIM-143.md) — Proposed
 
@@ -5001,7 +5028,7 @@ A family of probes that supplies an optimized system's training signal cannot al
 
 A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability
 
-1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-913.md:75`](../../record/literature.d/LIT-913.md)
 
@@ -5523,7 +5550,7 @@ The top C eigenvalues of a trained C-class classifier's Fisher are carried by th
 
 1 citation in 1 file awaits a look; 19 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-164.md:97`](../../record/claims.d/CLAIM-164.md)
+- [`record/claims.d/CLAIM-164.md:101`](../../record/claims.d/CLAIM-164.md)
 
 ### [THEORY-092](../../record/theory.d/THEORY-092.md) — Proposed
 
@@ -5609,15 +5636,15 @@ Organizations that espouse revising their governing values characteristically fa
 
 For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about
 
-1 citation in 1 file awaits a look; 43 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 49 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-152.md:113`](../../record/claims.d/CLAIM-152.md)
+- [`record/claims.d/CLAIM-152.md:117`](../../record/claims.d/CLAIM-152.md)
 
 ### [THEORY-199](../../record/theory.d/THEORY-199.md) — Proposed
 
 In data generated by a random hierarchical grammar, the Bayes-optimal denoiser recovers the top-level class only below a threshold noise, which becomes sharp as the tree deepens and exists only when the grammar uses a small enough fraction of possible tuples (branching times that fraction below one), while low-level features degrade smoothly with noise and so survive past the threshold
 
-1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-010.md:63`](../../record/questions.d/QUESTION-010.md)
 
@@ -5729,7 +5756,7 @@ Where a general-search monopoly was kept by exclusive distribution deals, the co
 
 A linear-attention layer trained on in-context regression learns as a two-layer linear network does: when tasks share the input covariance's eigenbasis and the weights stay aligned with it, then in the long-context limit each input mode is learned on its own logistic curve whose timescale falls with the square of its variance, so learning is staged by the input spectrum, and the layer converges to a preconditioned estimator; at finite context length the modes decouple exactly only when inputs are isotropic, and otherwise couple at order 1/N
 
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-658.md:29`](../../record/notes.d/NOTE-658.md)
 
@@ -5793,7 +5820,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 2 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 6 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)
@@ -5822,7 +5849,9 @@ None. Every scanned file is checked. ✅
 
 - record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now
 - record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
+- record/claims.d/CLAIM-387.md:34: annotation no longer applies — THEORY-163 is Active now
 - record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
+- record/literature.d/LIT-1257.md:50: annotation no longer applies — THEORY-202 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-810.md:52: annotation no longer applies — THEORY-155 is Active now
@@ -5832,6 +5861,11 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-631.md:34: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
+- record/notes.d/NOTE-970.md:41: annotation no longer applies — nothing in scope cites LIT-1252
+- record/notes.d/NOTE-973.md:37: annotation no longer applies — nothing in scope cites THEORY-747
+- record/notes.d/NOTE-981.md:47: annotation no longer applies — nothing in scope cites LIT-000
+- record/notes.d/NOTE-984.md:44: annotation no longer applies — nothing in scope cites THEORY-744
+- record/questions.d/QUESTION-220.md:30: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-188.md:34: annotation no longer applies — QUESTION-025 is Active now
@@ -5842,3 +5876,4 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now
 - record/theory.d/THEORY-299.md:42: annotation no longer applies — QUESTION-148 is Active now
 - record/theory.d/THEORY-301.md:41: annotation no longer applies — THEORY-008 is Active now
+- record/theory.d/THEORY-751.md:50: annotation no longer applies — THEORY-163 is Active now

@@ -21,11 +21,11 @@ history:
 - version: 4
   date: '2026-10-20'
   note: >-
-    Note of 2026-10-20 added, from the readings of that day: in turbulence the ordering of time scales is graded and moves with the analyst's cut (THEORY-tmp4ou43), and weak coupling alone does not make an aggregate slower (NOTE-tmpinykd). The claim is unchanged.
+    Note of 2026-10-20 added, from the readings of that day: in turbulence the ordering of time scales is graded and moves with the analyst's cut (THEORY-747), and weak coupling alone does not make an aggregate slower (NOTE-977). The claim is unchanged.
 - version: 5
   date: '2026-10-20'
   note: >-
-    The note of 2026-10-20 gains a third point, from the reading of slow feature analysis (NOTE-tmp6kiiy): hierarchies built to be slow are slower by construction and are not evidence for the claim. The claim is unchanged.
+    The note of 2026-10-20 gains a third point, from the reading of slow feature analysis (NOTE-971): hierarchies built to be slow are slower by construction and are not evidence for the claim. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -63,8 +63,8 @@ complements:
 supports:
 - CLAIM-344
 ---
-<!-- inactive-ok-file: THEORY-tmp4ou43 — Proposed; the measured memory length cited for the graded ordering, open -->
-<!-- inactive-ok-file: LIT-tmpko78q — Deferred; works registered unread, cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->
+<!-- inactive-ok-file: LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-571 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-923 — Unavailable; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-331: A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
@@ -152,7 +152,7 @@ that "timescale hierarchy" groups:
    configurations ([QUESTION-079](../questions.d/QUESTION-079.md), [THEORY-571](../theory.d/THEORY-571.md)).
 3. **Turbulent systems.** "Scale-dependent turnover times coexist with
    persistent transfer across scales", with no clean slow–fast split (Eyink
-   2005, [LIT-tmpko78q](../literature.d/LIT-tmpko78q.md), unread).
+   2005, [LIT-1252](../literature.d/LIT-1252.md), unread).
 
 A4: "CLAIM-331 already avoids defining levels by slowness alone. The
 expansion could make that qualification much more precise. It might also
@@ -163,7 +163,7 @@ evidence against the claim. The third situation is the one this claim's
 higher-level, changing as fast as their constituents over ordinary
 dynamics. Nobody has yet shown that a cascade has such variables. A5 added
 that memory may carry a level's persistence where no instantaneous
-variable is slow ([QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md)).
+variable is slow ([QUESTION-222](../questions.d/QUESTION-222.md)).
 
 ## Note of 2026-10-20: graded slowness, and weak coupling without it
 
@@ -171,15 +171,15 @@ Two readings of the coarse-to-fine program bear on the facet this claim
 names. Neither defeats it.
 
 - **In turbulence the ordering is graded and set by the cut.** Parish and
-  Duraisamy ([NOTE-tmpg06if](../notes.d/NOTE-tmpg06if.md)) fit the memory length of the unresolved scales
+  Duraisamy ([NOTE-973](../notes.d/NOTE-973.md)) fit the memory length of the unresolved scales
   at about a fifth of the fastest resolved time scale. It shortens as the
   Reynolds number rises and lengthens as the cutoff is coarsened
-  ([THEORY-tmp4ou43](../theory.d/THEORY-tmp4ou43.md), Proposed). The unresolved scales are faster, so the
+  ([THEORY-747](../theory.d/THEORY-747.md), Proposed). The unresolved scales are faster, so the
   ordering this claim expects holds. But it holds by a ratio that moves
   with where the analyst cuts, not across a gap. That is the third
   situation of the note of 2026-10-19, now with numbers.
 - **Weak coupling is not slowness.** On Shpak, Stadler, Wagner and
-  Altenberg's flat landscape ([NOTE-tmpinykd](../notes.d/NOTE-tmpinykd.md)), coupling between blocks is
+  Altenberg's flat landscape ([NOTE-977](../notes.d/NOTE-977.md)), coupling between blocks is
   entrywise weak at every mutation rate. Yet the block's internal gap and
   the global slow rate stay in a ratio near 0.94, so the aggregate is not
   slower than the activity inside the blocks. Simon's mechanism needs a
@@ -187,7 +187,7 @@ names. Neither defeats it.
   mechanism the claim cites ([THEORY-661](../theory.d/THEORY-661.md)), not on the claim, which already
   says slowness is a mark of a level and not its definition.
 - **Slow by construction is not evidence.** Wiskott and Sejnowski's slow
-  feature analysis ([NOTE-tmp6kiiy](../notes.d/NOTE-tmp6kiiy.md), [THEORY-tmp45pcv](../theory.d/THEORY-tmp45pcv.md)) builds a hierarchy
+  feature analysis ([NOTE-971](../notes.d/NOTE-971.md), [THEORY-746](../theory.d/THEORY-746.md)) builds a hierarchy
   whose higher stages are slower because the objective requires it, and
   only weakly. On test data the slowness curves across layers cross. The
   slowest outputs include location, which is not an invariant, and nothing

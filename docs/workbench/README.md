@@ -6,6 +6,7 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [19 Oct 22:53 — Session of 2026-10-19, 18:10–22:28 (U1–U5): coarse-to-fine processes, the physics of model reduction, and which entries it bears on](2026-10.md#session-of-2026-10-19-18102228-u1u5-coarse-to-fine-processes-the-physics-of-model-reduction-and-which-entries-it-bears-on)
 - [18 Oct 19:54 — Ecological coexistence and feature learning brought to the distributed-agency line: one demonstrated bridge, four questions, two constructions and a proposed study](2026-10.md#ecological-coexistence-and-feature-learning-brought-to-the-distributed-agency-line-one-demonstrated-bridge-four-questions-two-constructions-and-a-proposed-study)
 - [18 Oct 01:56 — Position note: governance that makes its own intervention less necessary, the synthesis the 2026-10-17 exchange arrived at](2026-10.md#position-note-governance-that-makes-its-own-intervention-less-necessary-the-synthesis-the-2026-10-17-exchange-arrived-at)
 - [18 Oct 01:56 — Review of the filing of the 2026-10-17 exchange: two foundational corrections and five narrowings](2026-10.md#review-of-the-filing-of-the-2026-10-17-exchange-two-foundational-corrections-and-five-narrowings)
@@ -72,8 +73,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-63 entries across 1 book, newest first.
+64 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 63 | 2026-10-07 | 2026-10-18 |
+| [2026-10](2026-10.md) | 64 | 2026-10-07 | 2026-10-19 |

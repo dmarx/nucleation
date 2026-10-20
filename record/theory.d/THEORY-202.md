@@ -10,7 +10,7 @@ history:
   date: '2026-10-20'
   note: >-
     Added the Raju, Machta and Sethna connection
-    (THEORY-tmp1bqec). This provides a candidate
+    (THEORY-742). This provides a candidate
     relevance condition using the singular Fisher
     metric but does not settle QUESTION-205.
     The Active theorem is unchanged.
@@ -137,7 +137,7 @@ which a restricted Boltzmann machine lacks, and it couples no hidden spin
 to any block, which Kadanoff's kernels require. The title is held to
 general Boltzmann machines for that reason.
 
-**A candidate target (2026-10-20).** [THEORY-tmp1bqec](THEORY-tmp1bqec.md) (Raju, Machta and 
+**A candidate target (2026-10-20).** [THEORY-742](THEORY-742.md) (Raju, Machta and 
 Sethna) proposes keeping the singular part of the Fisher metric of the
 bare couplings. This record's non-interacting construction fails that
 target, since its coarse variables carry no Fisher information about the

@@ -6,7 +6,7 @@
 
 **Free will** — free will and volition, as philosophy and as science — compatibilism and its rivals, manipulation and responsibility, and the neuroscience of voluntary action such as the readiness potential (group: philosophy; ADR-025).
 
-4 of 385 CLAIM documents. Back to the [full index](../README.md).
+4 of 390 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

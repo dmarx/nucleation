@@ -25,7 +25,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    Connections gain the reading of the primary paper, Rosas et al. 2020 (NOTE-tmpvy64o, THEORY-tmpyjeab). The account and its source are unchanged; whether the primary paper should join source and how its Proposition 1 gap bears on promotion are left to the owner.
+    Connections gain the reading of the primary paper, Rosas et al. 2020 (NOTE-987, THEORY-764). The account and its source are unchanged; whether the primary paper should join source and how its Proposition 1 gap bears on promotion are left to the owner.
 tags:
 - complex-systems
 - information-theory
@@ -133,8 +133,8 @@ general assumptions" without giving them.
   information falls under propofol.
 - **Dynamical independence ([THEORY-257](THEORY-257.md))** is the record's other criterion
   for a macro variable fixed by the dynamics. Both papers name it. The
-  relation is now worked out for one-step criteria ([THEORY-tmpyjeab](THEORY-tmpyjeab.md), from
-  the primary paper, read 2026-10-20 in [NOTE-tmpvy64o](../notes.d/NOTE-tmpvy64o.md)). Ψ is a whole-minus-sum
+  relation is now worked out for one-step criteria ([THEORY-764](THEORY-764.md), from
+  the primary paper, read 2026-10-20 in [NOTE-987](../notes.d/NOTE-987.md)). Ψ is a whole-minus-sum
   term minus the one-step dependence, whose vanishing implies Barnett and
   Seth's independence. Neither condition implies the other, and both can
   hold with no interaction between the parts.
@@ -142,8 +142,8 @@ general assumptions" without giving them.
   same associational-versus-interventional point about Krakauer's
   measures, uncited here.
 
-- **The primary paper (2026-10-20).** Rosas et al. 2020 ([LIT-tmp8mwu9](../literature.d/LIT-tmp8mwu9.md),
-  [NOTE-tmpvy64o](../notes.d/NOTE-tmpvy64o.md)). Three of its findings bear on this account. Its
+- **The primary paper (2026-10-20).** Rosas et al. 2020 ([LIT-1244](../literature.d/LIT-1244.md),
+  [NOTE-987](../notes.d/NOTE-987.md)). Three of its findings bear on this account. Its
   applications compute no ΦID atom: they use only the redundancy-free
   sufficient criteria Ψ and Γ. Syn = D + G holds by definition. And its
   Proposition 1, that Ψ > 0 shows a *feature* emergent, proves only that

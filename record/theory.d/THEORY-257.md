@@ -36,7 +36,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    Connections gain the readings of 2026-10-20: memory against dynamical independence (CLAIM-tmpmonrv), the conditioning difference from optimal prediction (NOTE-tmpi32zs), and the inward-coupling bound (CLAIM-tmpymy0a). The account is unchanged.
+    Connections gain the readings of 2026-10-20: memory against dynamical independence (CLAIM-389), the conditioning difference from optimal prediction (NOTE-975), and the inward-coupling bound (CLAIM-390). The account is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -165,17 +165,17 @@ full in [NOTE-791](../notes.d/NOTE-791.md) (arXiv:2106.06511v2).
 - **Mori–Zwanzig memory (2026-10-20).** In a linear Gaussian VAR(1),
   exact dynamical independence implies that the coarse variable's
   Mori–Zwanzig memory vanishes, but zero memory does not imply
-  independence ([CLAIM-tmpmonrv](../claims.d/CLAIM-tmpmonrv.md)). Memory is the round trip out of the coarse
+  independence ([CLAIM-389](../claims.d/CLAIM-389.md)). Memory is the round trip out of the coarse
   variable and back; dependence is the inward leg alone. Optimal
-  prediction ([NOTE-tmpzc5m1](../notes.d/NOTE-tmpzc5m1.md), [NOTE-tmpi32zs](../notes.d/NOTE-tmpi32zs.md)) also conditions differently.
+  prediction ([NOTE-989](../notes.d/NOTE-989.md), [NOTE-975](../notes.d/NOTE-975.md)) also conditions differently.
   It conditions on the resolved initial value under an initial law, where
   this criterion conditions on the variable's own stationary history. So
   the two literatures' "closure" are not one notion.
 - **Weak incoming coupling (2026-10-20).** For a block of coordinates,
   dynamical dependence is of second order in the coupling into it
-  ([CLAIM-tmpymy0a](../claims.d/CLAIM-tmpymy0a.md)). That is the quantitative form of "independence
+  ([CLAIM-390](../claims.d/CLAIM-390.md)). That is the quantitative form of "independence
   forbids incoming".
-- **Causal emergence (2026-10-20).** [THEORY-tmpyjeab](THEORY-tmpyjeab.md): Rosas et al.'s Ψ
+- **Causal emergence (2026-10-20).** [THEORY-764](THEORY-764.md): Rosas et al.'s Ψ
   subtracts exactly the one-step dynamical dependence, which bounds this
   account's history-conditioned dependence from above. So Ψ's decoupling
   term vanishing implies dynamical independence, but not conversely.

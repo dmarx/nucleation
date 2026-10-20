@@ -31,7 +31,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    Note of 2026-10-20 added, from the reading of Nadler et al. (NOTE-tmpvqn3y). The claim is unchanged.
+    Note of 2026-10-20 added, from the reading of Nadler et al. (NOTE-986). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -115,7 +115,7 @@ Davis–Kahan.
 
 ## Note of 2026-10-20: a gap-isolated subspace need not count slow variables
 
-Nadler, Lafon, Coifman and Kevrekidis ([NOTE-tmpvqn3y](../notes.d/NOTE-tmpvqn3y.md), §5.2) show that a
+Nadler, Lafon, Coifman and Kevrekidis ([NOTE-986](../notes.d/NOTE-986.md), §5.2) show that a
 slow subspace isolated by a gap can be spanned by several functions of one
 slow variable, ψ and its powers, when the gap between that variable's
 harmonics and the fast modes is wide. So the dimension of the subspace
