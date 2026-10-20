@@ -1,0 +1,97 @@
+# record/promotion-audit/decisions/THEORY-744.yaml
+id: THEORY-744
+batch: batch-060
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+hand_label: theorem
+triage_007_label: theorem
+classifier_agrees: true
+formal_in_fact: true
+scope:
+  accepted: >-
+    The pointwise and uniform limit of (I - P_{eps,alpha})/eps on smooth
+    functions, on a compact manifold without boundary, with an O(eps) rate,
+    and its drift and invariant-density reading. The body already
+    re-derives the interior algebra from the source's Lemma 8, which was the
+    one step not re-derived. Lemma 8 is re-derived below (steps L1-L6). The
+    title is corrected in two places. (a) It now says "compact manifold
+    without boundary". The boundary remainder is where the source's rate
+    fails, and the promote_when names it. (b) With Delta >= 0, the
+    limit operator Delta f + 2(1 - alpha)<grad U, grad f> is MINUS the
+    generator of dX = -2(1 - alpha) grad U dt + sqrt(2) dW. The body says
+    so, and the title said "has generator".
+  excluded: >-
+    Manifolds with boundary (the O(eps^gamma) remainder, which the source
+    states as an L^2 rate that its own bound gives only as
+    O(eps^{gamma/2})). Also the semigroup limit P^{t/eps} -> e^{-tL} (the
+    source's Proposition 11 is flawed as written). The title does not
+    claim either once (a) is made. The excluded part of the promote_when
+    moves to a new QUESTION.
+derivation: >-
+  Lemma 8, interior form, re-derived. M is a compact smooth d-dimensional
+  submanifold of R^n without boundary, f is smooth, and h is smooth with
+  exponential decay. m0 = integral of h(|u|^2) du = 1 and
+  m2 = integral of u_1^2 h(|u|^2) du = 2, with u in R^d. Define
+  G_eps f(x) = eps^{-d/2} integral over M of h(||x - y||^2 / eps) f(y) dvol(y).
+  L1 (localization): M is compact and embedded, so there are r, c > 0 with
+  ||x - y|| >= c d_M(x, y) for d_M < r, and ||x - y|| >= c r otherwise.
+  Points with d_M(x, y) > eps^{1/2 - kappa} (any 0 < kappa < 1/2)
+  therefore contribute O(eps^infinity) uniformly in x, by the exponential
+  decay. So integrate over normal coordinates y = exp_x(s), with |s| small.
+  L2 (expansions at x, standard): ||x - exp_x(s)||^2 = |s|^2 -
+  (1/12)|II(s,s)|^2 + O(|s|^5). dvol = (1 - (1/6)Ric(s,s) + O(|s|^3)) ds.
+  f(exp_x s) = f + s.grad f + (1/2) s^T Hf s + O(|s|^3), where Hf is the
+  coordinate Hessian, whose trace at x is -Delta f in normal coordinates
+  (Delta >= 0).
+  L3 (scaling s = sqrt(eps) u): h(||x-y||^2/eps) = h(|u|^2) -
+  eps h'(|u|^2)|II(u,u)|^2/12 + O(eps^{3/2}|u|^5 sup|h'|) + O(eps^2 ...).
+  The integrand is then [h - eps h' |II|^2/12][1 - eps Ric(u,u)/6]
+  [f + sqrt(eps) u.grad f + (eps/2) u^T Hf u] plus terms of order
+  eps^{3/2} and eps^2. The Jacobian ds = eps^{d/2} du cancels the
+  prefactor.
+  L4 (parity): h(|u|^2), |II(u,u)|^2 and Ric(u,u) are even in u. The
+  sqrt(eps) term u.grad f is odd and integrates to 0. Each eps^{3/2} term
+  is a product of one odd factor (the cubic Taylor term of f, the cubic
+  term of dvol, the quintic term of the distance, or u.grad f against an
+  O(eps) even correction) with even ones, so it integrates to 0 as well.
+  The remainder is O(eps^2), uniformly in x, by compactness and the decay
+  of h.
+  L5 (the O(eps) term): (1/2) integral of h u^T Hf u du =
+  (1/2) m2 tr Hf = -Delta f. The f-terms give eps omega(x) f, with
+  omega = -(1/12) integral of h'(|u|^2)|II(u,u)|^2 du - (1/6) integral of
+  h(|u|^2) Ric(u,u) du, a smooth function of x set by the embedding.
+  L6: G_eps f = f + eps(omega f - Delta f) + O(eps^2) uniformly, which is
+  Lemma 8 without boundary. No first-derivative term appears (L4). That is
+  what makes step 4 of the body's algebra exact at O(eps): there, omega
+  multiplies the function and cancels in the ratio K^(alpha) phi /
+  d^(alpha), whatever its value.
+  Uniformity in step 2 of the body: the function phi q q_eps^{-alpha}
+  depends on eps, but it is smooth in (x, eps) with derivatives bounded
+  uniformly for small eps. So L6 applies to it with a uniform O(eps^2),
+  and L_{eps,alpha} phi converges uniformly at rate O(eps).
+  Drift form, rechecked: with Delta = -nabla^2,
+  Delta(phi g) = g Delta phi + phi Delta g - 2<grad phi, grad g>. So
+  Delta(phi g)/g - phi Delta g/g = Delta phi + 2(1 - alpha)<grad U, grad phi>
+  for g = q^{1 - alpha}. The generator A = nabla^2 - 2(1 - alpha) grad U . grad
+  equals rho^{-1} div(rho grad) with rho = q^{2(1 - alpha)}, so A is
+  symmetric in L^2(rho). The limit operator is -A. The cases alpha = 0, 1/2
+  and 1 follow.
+evidence:
+  - "Coifman and Lafon (2006), LIT-1246, read in full in NOTE-985."
+  - "The body's interior algebra, steps 1-4, and its quadrature check on the circle (error O(eps) at alpha = 0, 1/2 and 1)."
+  - "Lemma 8 (interior) re-derived above, L1-L6."
+new_question: >-
+  Does the alpha-normalized limit hold on a compact manifold with boundary,
+  in L^2 on band-limited functions at a stated rate (the source's printed
+  O(eps^gamma) against the O(eps^{gamma/2}) its bound gives)? And does
+  P_{eps,alpha}^{t/eps} converge to the semigroup of the limit operator
+  (the source's Proposition 11, whose proof is incomplete)?
+notes: >-
+  Promotion PR files the new QUESTION with the promote_when's excluded
+  half. Trim inactive-ok directives naming THEORY-744 in NOTE-984,
+  NOTE-985, NOTE-986 and LIT-1246.
+next_action: "Promote in this batch's PR with the corrected title."
