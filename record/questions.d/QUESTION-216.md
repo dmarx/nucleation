@@ -1,5 +1,8 @@
 ---
+number: 216
 status: Open
+formerly:
+- QUESTION-tmpu5do1
 title: "Does the output Fisher–Rao geometry agreement across language models replicate with released code, and does it fall when models are fitted to different laws while their activation geometry stays as it was, with only a small part of the shared eigenvector structure exceeding a fair law-matched null?"
 version: 1
 tags:
@@ -19,7 +22,7 @@ summary: >-
   a test that varies the law, are open.
 ---
 
-# QUESTION-tmpu5do1: Does the output Fisher–Rao geometry agreement across language models replicate with released code, and does it fall when models are fitted to different laws while their activation geometry stays as it was, with only a small part of the shared eigenvector structure exceeding a fair law-matched null?
+# QUESTION-216: Does the output Fisher–Rao geometry agreement across language models replicate with released code, and does it fall when models are fitted to different laws while their activation geometry stays as it was, with only a small part of the shared eigenvector structure exceeding a fair law-matched null?
 
 ## Why it is a question
 

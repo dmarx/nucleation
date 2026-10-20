@@ -15,7 +15,7 @@ history:
     with every number in the text or a Supplementary Note (ADR-047 v3).
     "Ten architectures" becomes ten models of three kinds, "far more"
     becomes the numbers, and "what the shared laws imply" becomes the
-    displacement-matched null. The promote_when moves to QUESTION-tmpu5do1.
+    displacement-matched null. The promote_when moves to QUESTION-216.
 tags:
 - information-geometry
 - representation-learning
@@ -35,7 +35,7 @@ summary: >-
   is vacuous on real models. Against a law-matched null, about 9% of the
   top-six eigenvector overlap is shared beyond the laws.
   Promoted on 2026-10-20. Replication and a test that varies the law are
-  QUESTION-tmpu5do1.
+  QUESTION-216.
 ---
 <!-- inactive-ok-file: QUESTION-027 QUESTION-052 CLAIM-142 CLAIM-193 CLAIM-209 THEORY-002 — Open or Proposed; cited for context, nothing here rests on them -->
 

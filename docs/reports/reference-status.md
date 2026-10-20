@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**488 documents cited without acknowledgement.** Not listed: 9362 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**488 documents cited without acknowledgement.** Not listed: 9354 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -748,7 +748,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 - [`record/notes.d/NOTE-304.md:88`](../../record/notes.d/NOTE-304.md)
 - [`record/notes.d/NOTE-307.md:116`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:117`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-018.md:95`](../../record/theory.d/THEORY-018.md)
+- [`record/theory.d/THEORY-018.md:94`](../../record/theory.d/THEORY-018.md)
 - [`record/theory.d/THEORY-022.md:161`](../../record/theory.d/THEORY-022.md)
 - [`record/theory.d/THEORY-032.md:112`](../../record/theory.d/THEORY-032.md)
 - [`record/theory.d/THEORY-041.md:52`](../../record/theory.d/THEORY-041.md)

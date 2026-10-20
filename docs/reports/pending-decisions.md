@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**733 document(s) awaiting a decision.**
+**732 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 733.
+95 of the 732.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-407 of the 733.
+406 of the 732.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -290,7 +290,6 @@
 | 2026-10-14 | Proposed | [THEORY-264](../../record/theory.d/THEORY-264.md) | 9 | 0 | A task given by demonstrations and the same task given by an instruction are carried in a language model by mostly different attention heads, so function vectors find no common task representation across the two presentations |
 | 2026-10-14 | Proposed | [THEORY-316](../../record/theory.d/THEORY-316.md) | 9 | 0 | Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one |
 | 2026-10-14 | Proposed | [THEORY-327](../../record/theory.d/THEORY-327.md) | 9 | 0 | Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault |
-| 2026-10-14 | Proposed | [THEORY-230](../../record/theory.d/THEORY-230.md) | 8 | 0 | The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector structure goes beyond what the shared laws imply |
 | 2026-10-14 | Proposed | [THEORY-298](../../record/theory.d/THEORY-298.md) | 8 | 1 | Report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory |
 | 2026-10-14 | Proposed | [THEORY-251](../../record/theory.d/THEORY-251.md) | 7 | 0 | In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout |
 | 2026-10-14 | Proposed | [THEORY-254](../../record/theory.d/THEORY-254.md) | 7 | 0 | Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do |
@@ -525,7 +524,7 @@
 
 ## ADRs
 
-2 of the 733.
+2 of the 732.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -534,7 +533,7 @@
 
 ## QUESTIONs
 
-9 of the 733.
+9 of the 732.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -550,7 +549,7 @@
 
 ## CLAIMs
 
-215 of the 733.
+215 of the 732.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -772,7 +771,7 @@
 
 ## CASEs
 
-1 of the 733.
+1 of the 732.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -780,7 +779,7 @@
 
 ## TERMs
 
-2 of the 733.
+2 of the 732.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -789,7 +788,7 @@
 
 ## ARGs
 
-2 of the 733.
+2 of the 732.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
