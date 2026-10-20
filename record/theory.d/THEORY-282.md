@@ -35,7 +35,7 @@ summary: >-
   the measurements.
 ---
 <!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this account is set beside, open -->
-<!-- inactive-ok-file: THEORY-243 THEORY-287 — Proposed; filed with this account from the same dispute -->
+<!-- inactive-ok-file: THEORY-287 — Proposed; filed with this account from the same dispute -->
 
 # THEORY-282: A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data
 

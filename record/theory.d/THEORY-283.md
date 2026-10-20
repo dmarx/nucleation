@@ -38,7 +38,7 @@ summary: >-
 answers:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-204 THEORY-201 THEORY-180 — Proposed; accounts this one is set beside, none of them rested on -->
+<!-- inactive-ok-file: THEORY-201 THEORY-180 — Proposed; accounts this one is set beside, none of them rested on -->
 
 # THEORY-283: For a hierarchical multi-index target with isotropic Gaussian inputs and even, separable links, direction k becomes weakly recoverable by the Bayes-optimal estimator at a sample count proportional to its squared weight to the power minus one, so features emerge one at a time through sharp spectral transitions in the number of samples; a target-agnostic spectral estimator attains the thresholds and the optimal weighted error, and a two-layer network whose first layer is that estimator, with a ridge readout, attains them in excess risk
 

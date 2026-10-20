@@ -37,7 +37,7 @@ summary: >-
 answers:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-204 THEORY-039 — Proposed; partial answers to the same question, compared, not leaned on -->
+<!-- inactive-ok-file: THEORY-039 — Proposed; partial answers to the same question, compared, not leaned on -->
 
 # THEORY-293: For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random facts and a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models trained on synthetic biographies mixed into web text show a threshold in model size and in mixing ratio
 
