@@ -1,0 +1,97 @@
+---
+status: Active
+status_note: 'read 2026-10-20 ([NOTE-tmpjvg8y](../notes.d/NOTE-tmpjvg8y.md)) in full; worth reading as the standard statement of the "second enclosure movement" argument: that intellectual property is a state-made monopoly to be kept as short and narrow as its purpose allows (the "Jefferson Warning"), that the public domain and the limits on rights do as much work as the rights, that cheaper copying makes those limits more important rather than less (the "Sony Axiom"), and that policy runs on faith rather than evidence. Its music chapter traces one melody from a 1951 gospel record through Ray Charles and Kanye West to a 2005 political mashup. Read it knowing that most of it is argument from cases chosen to make the point; the one sustained empirical test is the database right (ch. 9). It treats the commons of the mind as nonrival and open to all, so it does not engage Ostrom''s work on bounded common-pool resources beyond two notes.'
+title: 'The Public Domain: Enclosing the Commons of the Mind'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Filed at the owner's request and read in full the same day, from the
+    author's own PDF at thepublicdomain.org (thepublicdomain1.pdf, linked
+    from the site's download page; 333 pp.). It is the Yale University
+    Press typesetting with the print pagination. The licence was confirmed
+    from the copy itself: the copyright page says the author "has made an
+    online version of this work available under a Creative Commons
+    Attribution-Noncommercial-Share Alike 3.0 License", and the
+    Acknowledgments thank Yale for agreeing to it (p. x). Text extracted
+    with pdftotext. Citation checked against Crossref: DOI
+    10.12987/9780300142754 is Yale's e-book deposit (ISBN 9780300142754,
+    deposited 2017). The copy read gives ISBN 978-0-300-13740-8 and
+    "Copyright © 2008". `published:` is 2008, to the year. Not held in the
+    Anthology of the SOTA: a grep of its clone of 2026-10-20 (commit
+    d1573d2) for "Boyle" and the title found nothing, and the anthology
+    holds nothing on copyright.
+tags:
+- society-and-governance
+- social-science
+date: '2026-10-20'
+published: '2008-01-01'
+doi: '10.12987/9780300142754'
+url: 'https://thepublicdomain.org/thepublicdomain1.pdf'
+first_author: 'Boyle'
+keywords:
+- 'public domain'
+- 'second enclosure movement'
+- 'intellectual property'
+- 'commons'
+- 'fair use'
+- 'musical borrowing'
+- 'distributed creativity'
+- 'cultural environmentalism'
+implementations: []
+summary: >-
+  Boyle (2008). Intellectual property is a limited monopoly granted to
+  solve a public-goods problem, and its limits matter as much as its
+  rights. A "second enclosure movement" is extending rights over facts,
+  genes, business methods, digital fences and the fragments of music,
+  without evidence that more rights bring more innovation. Cheaper copying
+  makes the limits more important, not less. The book argues for an
+  environmentalism of the public domain.
+---
+<!-- inactive-ok-file: LIT-737 — Unavailable, unread; Governing the Commons, cited by the book only in its notes -->
+
+# LIT-tmpvmhet: The Public Domain: Enclosing the Commons of the Mind
+
+Boyle, J. (2008). *The Public Domain: Enclosing the Commons of the Mind*. New Haven and London: Yale University Press (online edition under CC BY-NC-SA 3.0).
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpjvg8y](../notes.d/NOTE-tmpjvg8y.md).*
+
+- **The Jefferson Warning.** Ideas are nonrival. Rights over them are a
+  state-made monopoly, not a natural right. They should last no longer
+  and reach no further than the incentive needs. The hard part is drawing
+  the line (ch. 2, pp. 19–22).
+- **The second enclosure.** Facts, genes, algorithms, business methods and
+  musical fragments are being fenced. The commons of the mind does not
+  suffer overuse, because it is nonrival. Its risk is the anticommons:
+  too many rights over the inputs of the next work (ch. 3, pp. 45–50).
+  Copyright's triggers, once set off only by industrial competitors, can
+  now be "activated by individual footsteps" (p. 52).
+- **The holes matter as much as the cheese.** Fair use and other limits
+  are part of the grant, not leaks in it (p. 69). The "Sony Axiom":
+  "cheaper copying makes the limitations on copyright more rather than
+  less important" (p. 71). Without them, control over content becomes
+  control over the technology of copying.
+- **Music as the test.** "I Got a Woman" was made by rewording a 1951
+  gospel record. "Gold Digger" loops it, and The Legendary K.O. sample
+  that for a song about Katrina. Much of what founded soul would be
+  illegal under today's law and licensing culture (ch. 6).
+- **Evidence and openness.** Europe's database right produced a one-time
+  spike, then fell behind the US, which has none (ch. 9). The book names
+  an "openness aversion": we systematically undervalue open systems
+  (p. 231). Its remedy is a movement modelled on environmentalism (ch. 10).
+
+## Standing in the record
+
+Filed on 2026-10-20 at the owner's request, after Lessig's *Remix*
+([LIT-tmpreyek](LIT-tmpreyek.md)), as the second work on copyright and remix. The two books
+appeared the same year and Boyle thanks Lessig as his main influence
+(p. viii). Read them together. Lessig argues from the economies that could
+sustain remix. Boyle argues from the history of intellectual property and
+from the public domain. Boyle's chapter 6 gives a second, independent
+account of why sampling needs the original recording (p. 150), next to
+Lessig's (*Remix*, pp. 74–76). The book cites Ostrom's *Governing the
+Commons* ([LIT-737](LIT-737.md)) only in its notes; how it relates to Ostrom's commons
+([LIT-719](LIT-719.md)) is set out in the reading.

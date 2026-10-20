@@ -1,0 +1,284 @@
+---
+status: Read
+paper: LIT-tmpy3oyr
+title: 'Tushnet — Worth a Thousand Words: The Images of Copyright'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Read in full, every line of text and footnotes, from the Harvard Law
+    Review's own PDF (pp. 683–759), text extracted with pdftotext -layout.
+    Nothing was skipped. The reproduced pictures did not survive extraction
+    and were not seen, so points about them rest on the article's own
+    descriptions. Every quotation here was checked against the extracted
+    text by script.
+date: '2026-10-20'
+summary: >-
+  Copyright law takes the word as its model and treats images as either
+  transparent or opaque, with incoherent results in copyrightability,
+  infringement, authorship and fair use. Realism is a style, not a fact.
+  Describing an image changes how it is seen and remembered, so a test that
+  asks factfinders to dissect works in words and then judge their gestalt
+  cannot work. The proposed cure is a reproduction right against
+  near-exact copies plus a narrowed derivative-works right.
+---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-076 CLAIM-087 CLAIM-220 CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
+
+# NOTE-tmpalydh: Tushnet — Worth a Thousand Words: The Images of Copyright
+
+## Contribution
+
+It names a pattern across law's treatment of images and traces it through
+copyright. Courts treat images as transparent, so that interpretation is
+unnecessary, or as opaque, so that interpretation is impossible, and switch
+between the two as the result requires (pp. 686–687). It adds the
+psychology of verbal overshadowing to the critique of the
+substantial-similarity test, and argues from it for replacing that test
+with "a true “reproduction” right against exact or near-exact copying"
+(p. 688). The author calls the article mainly "critical and diagnostic"
+(p. 688).
+
+## Key insight
+
+The two judicial attitudes to images look opposite but are one refusal.
+Both "the assumption that the image is the thing it represents and the
+conclusion that the image lacks meaning that could be analyzed are refusals
+to deal with the image as a separate thing, an entity with a complicated
+relationship to the real" (p. 702). Copyright then needs both: opacity to
+make an image the author's own expression, transparency to strip it back to
+unprotected fact. And because judges and juries reason about works in
+words, the words they use change what they see. "Seeing is always
+selective, always shaped by context." (p. 734).
+
+## Assumptions
+
+- **US law to late 2011.** The doctrine is US federal copyright, with
+  First Amendment, obscenity, privacy and evidence cases in Part I and a few
+  Australian, Canadian and English cases.
+- **Representational images only.** Nonrepresentational art is set aside
+  (p. 688 n. 12).
+- **Perception is partly fixed, its meaning cultural.** "there are certain
+  features of human perception that work in predictable ways", but what
+  follows from them "is neither fixed nor universal" (p. 694).
+- **The cognitive evidence transfers.** Verbal overshadowing was shown
+  mostly for faces, and also for wine, voices and map distances, not for
+  a car image (p. 735 n. 235). The article assumes it operates on
+  factfinders comparing works, and flags that the effect "may be less than
+  initially reported" (p. 735 n. 234).
+
+## Key results
+
+The results are arguments from cases and from cited research, not new
+measurements. In the order the article makes them.
+
+- **Google Book Search (pp. 685–687).** The proposed settlement excluded
+  most images, which were replaced by a blank captioned "copyrighted
+  image". Public talk treated the text-only corpus as "the books". This is
+  the opening metaphor: law privileges the text when text and image
+  conflict.
+- **Transparency (pp. 688–701).** Pictures seem to "resemble unmediated
+  reality" more than words (p. 689, quoting Feigenson and Spiesel). They
+  persuade without seeming to argue. *Scott v. Harris*: eight Justices held
+  a chase video so clear that no jury could find otherwise, yet Kahan and
+  others found viewers' readings split by demographics. "In other words,
+  “picture” is more of a verb than a noun" (p. 701).
+- **Opacity (pp. 701–709).** Courts also treat images as beyond words: the
+  Eleventh Circuit held that nude photographs impart "no information"
+  (p. 703). Obscenity law conflates cartoon images with real children
+  (*Whorley*, *McEwen v. Simmons*). "Images, then, are both greater and
+  lesser than words." (p. 708). Tushnet's remedy here: courts "could
+  consider images as arguments, neither ineffable nor representations of
+  reality" (p. 709).
+- **Copyrightability (pp. 712–716).** *Bleistein*'s refusal to judge
+  pictorial worth rests on images' opacity. *Alfred Bell* lets an accident
+  count as authorship. Photographs are protected almost without a lower
+  bound, while typeface and short phrases are not. *Mannion* says idea and
+  expression merge in a photograph, which should defeat protection, and
+  then protects it. What courts protect in photographs are the marks that
+  it is a photograph (Subotnik).
+- **Look and feel (pp. 716–719).** The two-step test filters out
+  unprotectable elements and then judges the whole, which lets them back
+  in. *Roth Greeting Cards* found infringement where only trite words and
+  lettering were copied. "That two works produce the same emotional state
+  in a viewer does not mean that they are the same." (p. 719).
+- **Judging images (pp. 719–723).** Appellate courts re-see the works:
+  *Boisson* reviewed quilts de novo after a three-day bench trial and
+  reversed. *Rogers v. Koons* was judged from postcard-size black-and-white
+  photographs of a large coloured sculpture.
+- **Realism is a style (pp. 723–733).** *Franklin Mint* gave the painter's
+  own near-duplicate cardinal painting little protection as "realist". But
+  the paintings followed Audubon's conventions, which contemporaries called
+  falsifications. "In other words, reality is itself a style (or series of
+  styles), the great success of which comes when we don’t notice the
+  stylizing operations performed on the image." (p. 729). Daston and
+  Galison's three regimes (truth-to-nature, mechanical objectivity, trained
+  judgment) can each be read as protectable creativity or as unprotectable
+  fact. "Realism, then, is a matter of perspective." (p. 733).
+- **Verbal overshadowing (pp. 733–738).** "Hearing a word made otherwise
+  invisible objects visible." (p. 734, quoting Lupyan and Spivey).
+  Producing a verbal description lowers the accuracy of memory of a
+  nonverbal stimulus but not confidence, and shifts evaluations toward
+  extremes. Others' descriptions also change perception. So "the ways in
+  which the witnesses and lawyers talk about the works at issue and direct
+  factfinders’ attention to specific features will quite literally change
+  how the factfinders see the works" (p. 737). Of *Boisson*: "it might be
+  more accurate to say that the appellate court and the trial court saw
+  different works" (p. 738).
+- **Solutions (pp. 738–740).** Lemley's dissection and Fromer's written
+  claims would add more words. Instead: "abandon substantial similarity
+  entirely" (p. 738). The reproduction right covers copies so near that
+  observers "would be inclined to see two works as the same", judged by
+  differences, not similarities (p. 739). Non-exact cases go to the
+  derivative-works right, with a market-definition question. No protection
+  for style. There is, she says, "no natural law of substantial similarity" (p. 740).
+- **Comics and authorship (pp. 741–751).** In *Gaiman v. McFarlane* Posner
+  made the writer of a stock description co-author of the drawn
+  Cogliostro, reasoning that "A reader of unillustrated fiction completes
+  the work in his mind; the reader of a comic book or the viewer of a movie
+  is passive." (p. 745). Tushnet answers with fan works, which complete
+  visual works on their own pages and screens (pp. 746–747), and with *MGM v.
+  Honda*, where visual concreteness widened protection instead. "What we
+  are really protecting in visual characters, it turns out, are words
+  instantiated in images." (p. 749).
+- **Fair use (pp. 751–755).** The text model favours partial quotation,
+  but criticism of an image often needs the whole. The redrawn Zapruder
+  frames in *Time v. Bernard Geis* were still sued on. *Cariou v. Prince*
+  (district court) treated a photograph as both transparent truth and the
+  artist's unique vision. Factor two, the nature of the work, could carry
+  medium-sensitivity.
+- **Conclusion (pp. 755–759).** Naïve realism about images "cannot simply
+  be transcended" (p. 757, quoting Feigenson and Spiesel). Judges should
+  borrow art, film and narrative theory as they borrow economics. Showing
+  students many myopic world-view pictures changes their *Steinberg*
+  judgment from infringement to shared style (p. 759).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Courts oscillate between treating images as transparent and as opaque, unpredictably | moderate | many cases across evidence, First Amendment, obscenity, privacy and copyright; selected, not sampled |
+| C2 | Copyright protects images on looser terms than text in copyrightability but looser or tighter in infringement as the case requires | moderate | *Bleistein*, *Alfred Bell*, *Mannion*, typeface rule, *Franklin Mint*, *MGM* |
+| C3 | Realism is a style, so the idea/expression line cannot be drawn by a work's realism | strong as argument | art history (Audubon, Jakobson, Snyder), Daston and Galison |
+| C4 | Verbal description in litigation changes what factfinders see and remember | weak to moderate | verbal-overshadowing studies on faces, wine, voices, maps; not tested on legal comparisons; replication caveat (n. 234) |
+| C5 | Dissection and gestalt judgment cannot be combined | moderate | C4 plus the self-contradiction of current tests |
+| C6 | A reproduction right against near-exact copies plus a derivative-works right would be fairer and more predictable | weak | argued; implementation not addressed (n. 258) |
+| C7 | In mixed-media authorship disputes the writer is favoured over the artist | weak to moderate | *Gaiman* and a handful of joint-authorship cases |
+
+## Concepts
+
+- **Transparency.** Treating an image as a direct copy of reality whose
+  meaning is obvious and needs no interpretation.
+- **Opacity.** Treating an image as beyond analysis in words, so that
+  interpretation is impossible.
+- **Look and feel.** The gestalt comparison of whole works in the second
+  step of substantial similarity.
+- **Verbal overshadowing.** The loss of accuracy in memory or perception
+  of a nonverbal stimulus after it is described in words.
+- **Truth-to-nature, mechanical objectivity, trained judgment.** Daston
+  and Galison's three standards for a scientific image: the type, the
+  untouched record, the expert's enhanced image.
+- **Thick and thin copyright.** Highly creative works get broad
+  protection; minimally creative ones are infringed only by virtually
+  identical copies. The reform extends the thin rule to the reproduction
+  right generally.
+
+## Connections
+
+It builds on Feigenson and Spiesel's *Law on Display* for law's handling
+of images, on Silbey, Mnookin and Kahan on film and photographs as
+evidence, on Adler and MacKinnon on images in First Amendment and
+pornography law, on Farley, Yen, Subotnik and Amy Cohen on aesthetic
+judgment in copyright, on Daston and Galison's *Objectivity*, and on
+Schooler's verbal-overshadowing research. It cites Lessig's *Remix*
+([LIT-tmpreyek](../literature.d/LIT-tmpreyek.md)) three times: for text as the elite medium and video as the
+vernacular (p. 710 n. 125), for Read/Write and Read/Only culture, whose
+appeal it traces to the special status of reading (p. 752 n. 313), and for
+freedom to quote as the foundation of textual fair use (p. 753). Christina
+Spiesel published a reply in the same volume, which this record has not
+read.
+
+## Bearing on the record
+
+- **[QUESTION-002](../questions.d/QUESTION-002.md) (what survives a rendering in another medium).** This is
+  the main point of contact. Tushnet's subject is the rendering of an image
+  into words, which courts do whenever they decide an image case. She treats
+  it as a translation that is "flattening and distorting" (p. 694), and
+  cites Kasunic that it is "necessarily subjective and incomplete" (p. 702
+  n. 82). The verbal-overshadowing evidence adds a point the record lacks:
+  the rendering acts back on the reader's grasp of the source. A factfinder
+  who has described an image, or heard it described, sees the image
+  differently afterwards. What survives a rendering can then depend on
+  whether the receiver also meets the source, and in which order.
+- **[CLAIM-076](../claims.d/CLAIM-076.md) and [CLAIM-087](../claims.d/CLAIM-087.md) (cross-modal chains).** [CLAIM-076](../claims.d/CLAIM-076.md) says each
+  interpreter in a cross-modal chain, such as a captioner, may add motives
+  and relations not present. Tushnet supplies legal cases of it: *Roth*,
+  where shared words drove a finding about drawings, and *Gaiman*, where a
+  writer's stock description is credited with the drawn character. Her
+  Barthes quotation, that to describe a photograph is "to change
+  structures, to signify something different to what is shown" (p. 734),
+  is the strong form. [CLAIM-087](../claims.d/CLAIM-087.md)'s claim that cross-modal reconstruction can
+  improve access gets no support here; the article is about loss and
+  distortion from image to word.
+- **[CLAIM-220](../claims.d/CLAIM-220.md) (task-relevant communicative distinctions).** A court
+  comparing two works is a receiver with a stated task. Tushnet's point
+  that "the appellate court and the trial court saw different works"
+  (p. 738) bears on how [CLAIM-220](../claims.d/CLAIM-220.md) names its population of receivers: two
+  receivers with the same task and the same objects recovered different
+  distinctions, because of the words that came with the objects. It does
+  not test [CLAIM-220](../claims.d/CLAIM-220.md).
+- **[CLAIM-210](../claims.d/CLAIM-210.md) (sharing a kind versus being a rendering).** *Franklin Mint*
+  is close to a legal case of it. The third cardinal, painted in court
+  without looking at the first two, shares the kind of the first without
+  being a rendering of it, and that is what the jury used to find no
+  infringement. Copyright's independent-creation defence draws the same
+  line. Tushnet's own reform, judging near-exact copies by differences,
+  is a test of rendering, not of kind.
+- **[CLAIM-002](../claims.d/CLAIM-002.md) (identity across retellings).** Character copyright is a
+  legal attempt to say what persists across versions: Sam Spade, Tarzan,
+  Superman as drawn by several artists and played by several actors
+  (pp. 744, 750). Tushnet shows the courts have no settled account, and
+  that a character's protection "stems from the image but goes beyond it"
+  (p. 750). That fits [CLAIM-002](../claims.d/CLAIM-002.md)'s family of relations better than any one
+  of them, but the article does not argue it.
+- **[NOTE-tmptp3k0](NOTE-tmptp3k0.md) (Lessig).** Lessig argues remix needs the original
+  because its meaning comes from the reference. Tushnet adds the legal and
+  perceptual side for images: criticism of an image needs the whole image,
+  and a redrawing, as in the Zapruder case, loses the persuasive force that
+  was the point of copying (p. 753). Both say the artifact, not only its
+  content, carries the meaning. Tushnet also argues, against Posner, that
+  fans complete visual works on their own pages, which is Lessig's RW
+  culture as a reply to a court (pp. 746–747).
+- **[CASE-100](../cases.d/CASE-100.md) and [CLAIM-332](../claims.d/CLAIM-332.md).** No real bearing. The fan-work point is about
+  audience creativity, not about uptake by an institution.
+- No instruction for machine-learning practice, and not held by the
+  anthology.
+
+## Limitations
+
+- **Cases are selected to show the pattern.** No sample of image cases is
+  drawn, and counter-cases are mentioned (the Second and Ninth Circuits
+  accepting whole-image fair use, pp. 753–754) without weighing.
+- **The psychology is borrowed.** Verbal overshadowing is shown in faces,
+  tastes, voices and maps, not in side-by-side comparison of two works,
+  which is what factfinders do. The replication caveat in n. 234 is
+  material to C4 and is confined to a footnote.
+- **The reform is a sketch.** Where near-exact copying ends, and what the
+  narrowed derivative-works right would cover, are left open (n. 258). The
+  derivative-works right is admitted to be "hardly a model of clarity"
+  (p. 739).
+- **The pictures could not be checked.** The argument leans on reproduced
+  images (*Roth*, *Boisson*, *Franklin Mint*, *Ty*, Spawn), which did not
+  survive extraction.
+
+## Open questions
+
+- Does verbal overshadowing operate when the receiver has both works in
+  front of them, as factfinders usually do? The article assumes it.
+- Would a differences-based test for near-exact copies be more predictable
+  in practice, or move the dispute to the derivative-works right without
+  reducing it?
+- For the record: when a rendering into words changes how a receiver later
+  perceives the source, is that loss in the rendering or a change in the
+  receiver, and can a measure of what survives ([CLAIM-220](../claims.d/CLAIM-220.md)) tell the two
+  apart?

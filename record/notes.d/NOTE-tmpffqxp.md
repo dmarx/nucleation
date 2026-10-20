@@ -1,0 +1,451 @@
+---
+status: Read
+paper: LIT-tmpvpoqj
+title: 'Sotomayor — Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Read in full, every line, from the Court's slip opinion on
+    supremecourt.gov (21-869_87ad.pdf, 87 pp., public domain), text
+    extracted with pdftotext -layout: the Syllabus (pp. 1–6), the opinion
+    of the Court with all 22 footnotes and the Appendix (pp. 1–39),
+    Gorsuch's concurrence (pp. 1–6) and Kagan's dissent with all 10
+    footnotes (pp. 1–36). Read by one agent in this session. Nothing was
+    skipped. The images (the photograph, Purple and Orange Prince, the
+    magazine covers, the superimposition at fig. 6, the Appendix's sixteen
+    works, and the dissent's Marilyn, Giorgione, Titian, Manet, Velázquez
+    and Bacon) did not survive extraction and were not viewed; only their
+    captions were read. Page numbers are slip-opinion pages, which restart
+    for each opinion: "maj." is the opinion of the Court, "Gorsuch" the
+    concurrence, "Kagan" the dissent. Every quotation was checked against
+    the extracted text by script.
+date: '2026-10-20'
+summary: >-
+  Under the first fair-use factor, transformation is a difference in the
+  purpose of a particular use, judged by degree and weighed against
+  commerciality. New meaning or message counts only as evidence of a
+  different purpose, and copying is justified most clearly when the
+  source is the target. AWF's licence of Orange Prince to illustrate a
+  Prince magazine shared the photograph's purpose and was commercial, so
+  the factor favours Goldsmith. Kagan's dissent would measure the
+  factor by added expression and meaning.
+---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-034 CLAIM-220 CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
+
+# NOTE-tmpffqxp: Sotomayor — Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith
+
+## Contribution
+
+It narrows "transformative use", the doctrine that grew from *Campbell
+v. Acuff-Rose* (1994) and Leval's 1990 article. In this case the District
+Court had treated a new meaning or message, seen side by side, as
+enough to make the use transformative (maj. pp. 9–10), and AWF argued
+the same (p. 12). The Court holds that the
+first factor asks about the purpose and character of a specific use,
+that new meaning or message bears on it only as evidence of a different
+purpose, and that commerciality and the reasons for copying are weighed
+against it (maj. pp. 12–20, 28–35). It also ties the doctrine to the
+derivative-work right, so that "transformative" must mean more than
+"transformed" (p. 16). It decides only the first factor, for only the
+2016 licence (pp. 2, 21).
+
+## Key insight
+
+The same copying is judged afresh at each use. "The same copying may be
+fair when used for one purpose but not another." (maj. p. 20). Warhol's
+silkscreen, licensed to illustrate a magazine about Prince, does what the
+photograph was licensed to do. So whatever the silkscreen means, that use
+supersedes the photograph's objects: "Both are portraits of Prince used
+in magazines to illustrate stories about Prince." (p. 22). Meaning would
+matter if it changed the purpose, for example by commenting on the
+photograph itself, and here it does not.
+
+## Assumptions
+
+- **US statute and precedent.** It construes §107(1) of the Copyright
+  Act of 1976, with §101's definition of derivative works and §106(2),
+  read through *Campbell*, *Harper & Row*, *Sony* and *Google v. Oracle*
+  (2021).
+- **Only factor 1 was before the Court.** AWF did not challenge the
+  Second Circuit's holdings that the works are substantially similar and
+  that factors 2–4 favour Goldsmith (maj. pp. 12, 38). Goldsmith
+  abandoned every claim but the 2016 licence and similar future
+  licensing (n. 9).
+- **The use is the licence.** The Court takes the challenged use to be
+  AWF's licensing, not Warhol's making of the work (pp. 20–21). The
+  dissent rejects that framing (Kagan n. 7) and Gorsuch adopts it
+  (Gorsuch p. 2).
+- **Facts as found below.** It grants, without deciding, the District
+  Court's finding that Orange Prince "reasonably can be perceived" to
+  portray Prince as iconic where the photograph is photorealistic
+  (maj. p. 33). The expert record on meaning is taken as given by both
+  sides.
+
+## Key results
+
+The results are holdings and their reasons, in the order the opinions
+give them. "Maj." pages are the opinion of the Court.
+
+- **Facts (maj. pp. 1–12).** Goldsmith photographed Prince for Newsweek
+  in 1981. In 1984 her agency licensed one studio portrait to Vanity
+  Fair as an "artist reference for an illustration", for one use, for
+  $400 and a source credit (p. 3). Warhol made the Vanity Fair image and
+  fifteen more works from the photograph (p. 4; the Appendix counts
+  fourteen silkscreen prints and two pencil drawings). In 2016 Condé Nast
+  paid AWF $10,000 to put Orange Prince on the cover of a tribute issue;
+  Goldsmith got neither fee nor credit (p. 6). People paid Goldsmith
+  $1,000 for a photograph for its own tribute issue (p. 7). On seeing
+  the cover she said "It’s the photograph" (p. 8). The Court describes
+  Orange Prince as one that "crops, flattens, traces, and colors the
+  photo but otherwise does not alter it" (p. 8). The District Court
+  found the works transformative and fair; the Second Circuit reversed
+  on all four factors (pp. 9–12).
+- **What factor 1 asks (pp. 14–16).** Its central question, from
+  *Campbell* quoting Story in *Folsom v. Marsh*, is whether the use
+  supersedes the objects of the original or "instead adds something new,
+  with a further purpose or different character" (p. 15).
+  It relates to the problem of substitution, "copyright’s bête noire"
+  (p. 15). The §107 preamble (criticism, comment, news reporting,
+  teaching, scholarship, research) gives the paradigm of a different
+  purpose (p. 15; n. 4, a book review). Difference is "a matter of
+  degree" (p. 15).
+- **Transformative must exceed derivative (p. 16).** The owner has the
+  right to derivative works, which §101 defines to include "any other
+  form in which a work may be recast, transformed, or adapted", and
+  such transformations "may be substantial, like the adaptation of a
+  book into a movie." So "the degree of transformation required to make
+  “transformative” use of an original must go beyond that required to
+  qualify as a derivative." Footnote 5 adds that transformative purpose
+  and transformation of the work are separable in theory and overlap in
+  practice.
+- **Two further points from Campbell (pp. 17–20).** First, commerciality
+  is an element of factor 1, relevant and not dispositive, weighed
+  against the degree of difference (p. 18; n. 6 on the 1976 House
+  Report). Second, factor 1 concerns justification: broadly, a distinct
+  purpose serves copyright's goal; narrowly, copying is justified when
+  "reasonably necessary to achieve the user’s new purpose" (p. 19).
+  Parody "needs to mimic an original to make its point"; satire "can
+  stand on its own two feet and so requires justification for the very
+  act of borrowing" (p. 17, quoting *Campbell*). The rule: "If an
+  original work and a secondary use share the same or highly similar
+  purposes, and the secondary use is of a commercial nature, the first
+  factor is likely to weigh against fair use, absent some other
+  justification for copying." (p. 20). Footnote 8 reads *Google* the
+  same way: a distinct computing environment, copying only as needed.
+- **The specific use (pp. 20–25).** Several uses were made of the
+  photograph; only the 2016 licence is alleged to infringe, and the
+  Court says nothing about the creation, display or sale of the Prince
+  Series (p. 21, nn. 9–10). Had the use been for teaching, "that clearly
+  would affect the analysis" (n. 10). The typical use of a celebrity
+  photograph is to accompany stories about the celebrity; there was
+  uncontroverted evidence "that photographers generally license others
+  to create stylized derivatives of their work" (p. 22), and
+  Warhol himself paid for some reference photographs. "Such licenses,
+  for photographs or derivatives of them, are how photographers like
+  Goldsmith make a living." (p. 22). In the tribute issue the purposes
+  are substantially the same, and the use is commercial; "both elements
+  point in the same direction" (p. 25).
+- **Purpose described specifically (n. 11).** The Court does not reduce
+  the purpose to "commercial licensing". It compares the specific
+  purposes, and notes that People, Rolling Stone and Time chose varied
+  portrait photographs, black-and-white and colour, for their memorial
+  issues, all serving "the same essential purpose". It rejects the
+  dissent's "magazine editor" test: if an editor's aesthetic preference
+  sufficed, "then every derivative work would qualify" (n. 11).
+- **Factors 1 and 4 (n. 12).** Factor 1 asks whether purposes are
+  substitutable; factor 4 asks about actual or potential market
+  substitution. They are positively associated and not identical. Under both
+  factors "the analysis here might be different if Orange Prince
+  appeared in an art magazine alongside an article about Warhol" (n. 12).
+- **Soup Cans (pp. 25–27).** *Google* had suggested an artistic painting
+  might fairly replicate an advertising logo to comment on consumerism.
+  The Soup Cans' purpose is "orthogonal to advertising soup", and they
+  target the logo: "It is the very nature of Campbell’s copyrighted
+  logo—well known to the public, designed to be reproduced, and a symbol
+  of an everyday item for mass consumption—that enables the
+  commentary." (p. 27). Licensing Soup Cans to a soup
+  company as its logo would be a different case (n. 15). The difference
+  in purpose there is "nearly absolute" (n. 16).
+- **New meaning or message is not the test (pp. 28–32).** *Campbell*'s
+  phrase "new expression, meaning, or message" paraphrased Leval, but
+  cannot mean that any such addition favours the user, or "“transformative
+  use” would swallow the copyright owner’s exclusive right to prepare
+  derivative works" (p. 28). Arrangements, adaptations,
+  sequels and spinoffs all add new expression (p. 28). A commercial remix
+  of Prince's *Purple Rain* would not be favoured just for new expression
+  or aesthetic, and a film or musical of *The Color Purple* may alter a
+  novel's meaning and still need a licence (p. 29). In *Campbell* new
+  meaning "was simply relevant to whether the new use served a purpose
+  distinct from the original" (p. 29). Courts should not judge artistic
+  worth (*Bleistein*, p. 31 and n. 19, which rejects a privilege resting
+  on "It’s a Warhol"), and neither the user's intent nor a court's
+  interpretation fixes purpose. But "the meaning of a secondary work, as
+  reasonably can be perceived, should be considered to the extent
+  necessary to determine whether the purpose of the use is distinct from
+  the original" (pp. 31–32), as when it comments on,
+  criticizes or provides otherwise unavailable information about the
+  original.
+- **Applied to Orange Prince (pp. 32–35).** Granting the iconic against
+  photorealistic difference, the purpose remains to illustrate a
+  magazine about Prince with a portrait of Prince, and the difference
+  "is not enough for the first factor to favor AWF" (p. 33). "The
+  application of an artist’s characteristic style to bring out a
+  particular meaning that was available in the photograph is less likely
+  to constitute a “further purpose” as Campbell used the term." (p. 33).
+  The asserted comment on the dehumanizing nature of celebrity "has no
+  critical bearing on" the photograph, so is at "Campbell’s lowest ebb"
+  (p. 34). AWF never claimed the works target the photograph, which was
+  unpublished and chosen by Goldsmith's agency, not by Warhol (n. 20).
+  Targeting "is not always required", but AWF must justify the taking
+  with some reason other than "I can make it better" (n. 21, contrasting
+  a film of *Gone With the Wind* with *The Wind Done Gone*). Copying
+  that is merely helpful for a new meaning does not distinguish AWF from
+  a sampler, a playwright adapting a novel or a filmmaker making a
+  sequel (p. 35), and the dissent's footnote 5 does not show the Court's
+  test favours them (n. 22).
+- **The reply to the dissent (pp. 36–37).** Copyright is "replete with
+  escape valves": idea and expression, unprotected facts, originality,
+  the standard for actionable copying, limited duration, and fair use's
+  other factors (p. 37). Holding: factor 1 favours Goldsmith; affirmed
+  (p. 38).
+- **Gorsuch, concurring (pp. 1–6).** Factor 1 looks at the challenged
+  use, not at "the purpose the creator had in mind" or the aesthetic
+  character of the work (pp. 1–2). It asks whether the use is different
+  from "(and thus complements)" or the same as "(and thus substitutes
+  for)" a copyrighted work (p. 2). Three clues: the preamble, which speaks of using a work for
+  purposes such as criticism or comment (pp. 2–3); the derivative-work right, which
+  would otherwise put the statute "at war with itself" (p. 3); and the
+  fourth factor's market question (pp. 3–4). AWF used its image "as a
+  commercial substitute" (p. 4). The Court does not decide infringement:
+  originality, substantial similarity, and the rule that two works
+  drawing on a common third source generally do not infringe each other
+  remain open (p. 5). Display "in a nonprofit museum or a for-profit
+  book commenting on 20th-century art" might well be fair (p. 6).
+- **Kagan, dissenting (pp. 1–36).** Warhol "reframed and
+  reformulated—in a word, transformed" others' images (p. 1). All the
+  experts agreed the silkscreen differs in "composition, presentation,
+  color palette, and media" and in meaning: Goldsmith's subject was
+  Prince's "unique human identity", Warhol's "not the private person but
+  the public image" (p. 9). An editor choosing between the two "would
+  care", and the publishers in fact wanted the Warhol (p. 10). Fair use
+  exists because creation borrows (pp. 11–12, Story in *Emerson v.
+  Davies*). Factor 1 is the one factor that asks what the copier
+  accomplished (p. 13), and *Campbell* and *Google* both held
+  commercial, transformative copying favoured (pp. 14–16). Licensors may
+  refuse or overcharge, as Orbison's successor-in-interest refused 2 Live Crew
+  (p. 16). The majority reads "character" out of the statute
+  (pp. 19–20, Webster's), "transplants factor 4 into factor 1" and so
+  double-counts the owner's interest (pp. 21–22), and invents a
+  targeting requirement that *Campbell* (n. 14 there) and *Google* do
+  not support (p. 24). Under its test Shakespeare's *Romeo and Juliet*
+  (after Brooke), *Lolita* (after von Lichberg), *Treasure Island*,
+  the blues, Stravinsky to Charlie Parker, Titian after Giorgione,
+  Manet's *Olympia* and Bacon after Velázquez would get no help from
+  factor 1 (pp. 25–34). Footnote 5: the fourth factor, not the first,
+  stops unlicensed film adaptations, citing *Google*. Footnote 8:
+  artists make art for money, so a use-by-use rule still reduces the
+  incentive to create.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Factor 1 asks whether and how far a specific use has a purpose or character different from the original's, weighed against commerciality | strong (as law) | holding of a 7–2 Court; *Campbell* at 579 and §107(1) text (maj. pp. 14–20) |
+| C2 | New expression, meaning or message is relevant only as evidence of a distinct purpose, and is not by itself enough | strong (as law) | holding (maj. pp. 12, 28–32); read from *Campbell*'s parody analysis |
+| C3 | *Transformative* use must transform more than a derivative work does, or §107 would swallow §106(2) | moderate | structural argument from §§101, 106(2) (maj. p. 16, pp. 28–29; Gorsuch p. 3); the dissent answers that factor 4 can do that work (Kagan n. 5) |
+| C4 | Copying is justified most clearly when the copied work is the target; commentary aimed elsewhere must justify the borrowing | moderate | *Campbell*'s parody/satire distinction (maj. pp. 17–19, 34–35, n. 21); the dissent shows *Google* did not rely on targeting (Kagan p. 24) |
+| C5 | Photographers' licensing of photographs and of stylized derivatives is a market the owner holds, and AWF's licence entered it | moderate | uncontroverted record evidence cited by the Second Circuit (maj. p. 22); the magazine covers (pp. 6–8) |
+| C6 | Bringing out with a characteristic style a meaning already available in the source is unlikely to be a further purpose | weak to moderate | asserted with the human face as example (maj. p. 33); the record's experts, cited by the dissent, say the meaning was new (Kagan pp. 9–10) |
+| C7 (dissent) | Factor 1 should measure the copier's added expression and meaning, and the majority double-counts market harm | moderate | *Campbell* and *Google* text, expert record (Kagan pp. 13–22) |
+| C8 (dissent) | Under the majority's test much of the canon of art, literature and music would get no factor-1 credit | weak | illustrative examples not litigated, outside US copyright and its term (Kagan pp. 25–34); the majority answers that other doctrines cover them (maj. p. 37, n. 10) |
+
+## Concepts
+
+- **Fair use.** An affirmative defence to infringement, codified in
+  §107 with four factors weighed together; the user bears the burden
+  (maj. n. 21).
+- **Purpose and character of the use.** As the majority reads it, the
+  reasons for and nature of a specific use, including whether it is
+  commercial; "character" includes commercial or nonprofit character
+  (n. 14). As the dissent reads it, a thing's "main or essential
+  nature", which for art includes its artistry (Kagan pp. 13, 20).
+- **Transformative.** A use with a further purpose or different
+  character, by degree (maj. p. 16). Distinct from being transformed,
+  which any derivative is.
+- **Derivative work.** A work based on one or more preexisting works,
+  including "any other form in which a work may be recast, transformed,
+  or adapted" (§101, quoted in part at maj. p. 16); preparing one is the
+  owner's exclusive right (§106(2)). The opinion's examples are book to
+  film, musical arrangements, stage adaptations, sequels and spinoffs
+  (p. 28). The part of §101 not quoted lists translation first.
+- **Supersede the objects / supplant.** Story's phrase for a use that
+  serves the original's ends and so substitutes for it (p. 15).
+- **Justification.** Broad: a distinct purpose serves copyright's goal.
+  Narrow: copying is reasonably necessary to the new purpose (p. 19).
+- **Targeting.** The copied work is the object of the comment, as in
+  parody and the Soup Cans, rather than its subject or society (pp.
+  17, 27, 34).
+- **Parody and satire.** Parody targets an author or work; satire
+  ridicules society and does not necessarily target a work (p. 17).
+
+## Connections
+
+It applies and narrows *Campbell v. Acuff-Rose* (1994), and reads *Google
+v. Oracle* (2021) as consistent with it (maj. n. 8, n. 18); the dissent
+reads both the other way. It draws on Leval's *Toward a Fair Use Standard*
+(1990), from which "transformative" comes, and on Leval's own later
+opinion in *Authors Guild v. Google* (2d Cir. 2015). It affirms the Second
+Circuit (11 F.4th 26), whose "celebrity-plagiarist privilege" phrase it
+adopts (n. 19). The dissent's tradition of borrowing (Story, Twain,
+Lethem's *The Ecstasy of Influence*, Eliot in *The Sacred Wood*) is the one Lessig's *Remix*
+([LIT-tmpreyek](../literature.d/LIT-tmpreyek.md)) argues from, though neither opinion cites Lessig.
+
+## Bearing on the record
+
+- **Lessig: remix's meaning comes from the reference ([NOTE-tmptp3k0](NOTE-tmptp3k0.md)).**
+  Lessig argues that remix needs the original because its meaning
+  lies in the reference, which only the original carries (*Remix*,
+  p. 74). The opinion keeps a
+  version of that and confines it. The law credits the need for the
+  original only when the original is what the new work is about: parody
+  "needs to mimic an original to make its point", and the Soup Cans
+  work because of what the logo is (maj. pp. 17, 27). Where the
+  reference serves comment on something else, the new work is satire,
+  and the borrowing must be justified another way (pp. 34–35). So
+  Lessig's argument transfers to law as a justification only for remix
+  that targets its source. His own examples split. Söderberg's
+  Bush/Blair video, which Lessig reads as political comment
+  (*Remix*, pp. 73–74), uses a love song to mock two politicians; on
+  the majority's terms that is satire as to the song. The opinion's
+  list of insufficient reasons names "a musician who finds it helpful to
+  sample another artist’s song" (p. 35), and its *Purple Rain* remix
+  example (p. 29) makes the same point. Three limits on the transfer:
+  the case is a professional, commercial licence, not amateur remix,
+  which Lessig wanted taken out of copyright altogether (free use, not
+  fair use) and which the Court never considers; the Court analyses each
+  *use*, which is close to Lessig's fourth reform (regulate uses, not
+  copies) though not derived from it; and the Court's finding that the
+  owner holds the market for stylized derivatives (p. 22) is the
+  point at which Lessig's unshown claim that remix does not compete with
+  its sources ([NOTE-tmptp3k0](NOTE-tmptp3k0.md), C3) meets a legal answer that assumes it
+  can.
+- **[CLAIM-002](../claims.d/CLAIM-002.md) (identity across retellings: artifact, transmission,
+  function).** The law runs [CLAIM-002](../claims.d/CLAIM-002.md)'s three relations separately, and
+  that separation is the useful datum. Identity of the artifact is the
+  infringement question, conceded here (substantial similarity, maj.
+  p. 12; "It’s the photograph", p. 8). Continuity of transmission is
+  copying in fact, and Gorsuch notes that two works drawing from a common
+  third source generally do not infringe each other (Gorsuch p. 5).
+  Similarity of function is what factor 1 judges. But the opinion's
+  "purpose" is the purpose of a *use* in a market (illustrating a
+  magazine story about Prince), not the communicative function of the
+  work. The dissent's "meaning or message" is the closer analogue of
+  [CLAIM-002](../claims.d/CLAIM-002.md)'s function, and the majority rules it out as the test. So
+  the case does not support or test [CLAIM-002](../claims.d/CLAIM-002.md)'s thesis that descent is
+  not similarity. It shows that one institution judging reworkings needs
+  all three relations and keeps them apart.
+- **[CLAIM-034](../claims.d/CLAIM-034.md) (fidelity one goal among adaptation, critique and
+  parody).** The opinion grades exactly these goals, by the source's
+  role. Parody and critique of the source are favoured because the
+  source is their object (pp. 17–19, n. 7). Adaptation, arrangement,
+  sequel and, by §101, translation are the owner's derivative right
+  (pp. 16, 28). Satire, which uses the source as material for comment
+  elsewhere, must justify the taking (p. 34). This gives [CLAIM-034](../claims.d/CLAIM-034.md) an
+  external criterion it lacks: whether the source is the target or the
+  material of the rendering. It does not bear on [CLAIM-034](../claims.d/CLAIM-034.md)'s evaluative
+  claim. The law asks who may make a rendering, not how to judge one,
+  and it scores high similarity of purpose *against* the user, the
+  reverse of fidelity as a goal. The majority's sentence that a style
+  bringing out "a particular meaning that was available in the
+  photograph" adds no further purpose (p. 33), set against the
+  new meaning the record's experts found, as the dissent cites them
+  (Kagan pp. 9–10), is a dispute over
+  whether a rendering's meaning lies within the source's possibilities.
+  That is the question [CLAIM-034](../claims.d/CLAIM-034.md)'s one-way simulation poses, but the
+  Court decides it by assertion and does not measure it.
+- **[CLAIM-210](../claims.d/CLAIM-210.md) (sharing a kind against being a rendering).** The opinion
+  has the same structure. Factor 1's comparison of purposes is a
+  kind-sharing test, symmetric in itself: the People, Rolling Stone and
+  Time covers share the photograph's purpose too (maj. n. 11), and that
+  wrongs no one because none copied it. Purpose-sharing matters only
+  given a copying, the directed relation, and Gorsuch's common-source
+  rule (Gorsuch p. 5) states the other half. This is an independent
+  instance of the distinction, from law, and supports [CLAIM-210](../claims.d/CLAIM-210.md)'s
+  claim that the two relations are different. It does not touch its
+  claim about fidelity, which the law does not measure.
+- **[QUESTION-002](../questions.d/QUESTION-002.md) (what survives translation, retelling, rendering).**
+  It does not answer it. It is a documented case of an institution
+  deciding, on an expert record, what of a source survives in a
+  reworking: the composition and pose (fig. 6; "crops, flattens, traces,
+  and colors", p. 8), against a changed meaning that the majority
+  grants for argument and the record's experts, cited by the dissent,
+  affirm. The two sides
+  measure different things: the majority the purpose of the use, the
+  dissent the aesthetics and meaning of the work. That is a clean
+  example of [QUESTION-002](../questions.d/QUESTION-002.md)'s demand that an answer say what is held fixed.
+  It also illustrates [CLAIM-220](../claims.d/CLAIM-220.md)'s task-relativity, with the use standing
+  in for the task: the same rendering is judged differently in a tribute
+  magazine, an art magazine (n. 12) or a museum (Gorsuch p. 6). That is
+  an analogy only; the law's "use" is a market deployment, not a
+  population of receivers recovering distinctions.
+- **Recognizability as a target.** The Lessig reading asked whether
+  recognizability of the source artifact could be a preservation target.
+  The opinion splits recognizability in two. Recognizability of the
+  source is what justifies parody's borrowing (it must "conjure up" the
+  original, p. 19). Recognizability of the *renderer*, a work
+  "immediately recognizable as a ‘Warhol’", was rejected as a ground
+  (pp. 10–11, n. 19). The record's question should keep the two apart.
+- **No bearing** on [CASE-100](../cases.d/CASE-100.md): the X-Men film took the line, not the
+  fans' redub, so no copying use of the redub is in question.
+  No bearing on [CLAIM-332](../claims.d/CLAIM-332.md), [QUESTION-119](../questions.d/QUESTION-119.md) or [QUESTION-023](../questions.d/QUESTION-023.md). No instruction
+  for machine-learning practice; not held by the anthology.
+
+## Limitations
+
+- **Narrow by design.** One factor, one use; the making, display and
+  sale of the Prince Series, the other factors, and infringement itself
+  are not decided (maj. p. 21, n. 10; Gorsuch pp. 5–6). Its reach to
+  other uses is left to the lower courts, as the dissent notes (Kagan
+  p. 22).
+- **"Purpose" is chosen at a level the Court picks.** The Court
+  describes the purpose as illustrating a magazine about Prince with a
+  portrait of Prince, and concedes a more specific description is
+  possible (p. 33). Why that level, and not "commercial licensing" or
+  a Warhol for a tribute cover, is argued by example (n. 11), not by
+  a rule. The dissent's charge that the test reduces to commercial
+  substitution (Kagan pp. 18–22) turns on this.
+- **Meaning is both counted and not.** Meaning "as reasonably can be
+  perceived" is relevant to purpose (p. 32), yet the commentary on
+  celebrity is set aside "even if" perceptible (p. 34). The opinion does
+  not say what meaning would have changed the purpose short of
+  targeting, beyond its examples (art magazine, museum, teaching).
+- **The targeting rule is softened in a footnote.** "targeting is not
+  always required" (n. 21), but no other sufficient justification is
+  described except *Google*'s technical necessity (n. 8).
+- **Factor 1 and factor 4.** The relation is called a positive
+  association that is not absolute (n. 12). The dissent's
+  double-counting objection is answered by assertion.
+- **The dissent's canon is outside the case.** Its historical examples
+  were made without US copyright or under expired terms; the majority
+  says so (n. 10), and says other doctrines would cover most of them
+  (p. 37). Neither side shows how they would come out.
+- **The images were not seen** in this reading, so nothing here judges
+  the visual differences the opinions argue over (fig. 6; Kagan n. 3).
+
+## Open questions
+
+- What, short of targeting the source, makes a new meaning a new
+  purpose under factor 1? The lower courts' answers since 2023 would
+  settle it; this reading did not look at them.
+- Does the derivative-work floor (p. 16) leave any room for a
+  commercial translation or adaptation to be favoured under factor 1?
+  The majority's examples suggest not; the dissent says factor 4
+  should carry that load (Kagan n. 5).
+- For the record: can the source's role, target or material, be made a
+  coded variable of renderings next to the goals [CLAIM-034](../claims.d/CLAIM-034.md) lists, and
+  does it predict how readers judge a rendering's fidelity or license?
+- For the record: is "purpose of the use" a usable stand-in for the task
+  in [CLAIM-220](../claims.d/CLAIM-220.md), or does a market deployment differ from a receiver task
+  in a way that blocks the analogy?
