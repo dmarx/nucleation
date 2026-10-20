@@ -15,7 +15,7 @@ history:
     criteria over general Boltzmann machines, since the second construction
     needs visible–visible couplings and so lies outside Kadanoff's kernel
     families. The promote_when, which asks about those families, moves to
-    QUESTION-tmpb2kmp.
+    QUESTION-205.
 tags:
 - natural-sciences
 - representation-learning
@@ -34,7 +34,7 @@ summary: >-
   second construction; that narrows the example, not the claim.
   Promoted on 2026-10-20 with both constructions re-derived. Whether the
   trace condition suffices inside Kadanoff's kernel families is
-  QUESTION-tmpb2kmp.
+  QUESTION-205.
 supports:
 - CLAIM-152
 ---
@@ -85,7 +85,7 @@ the coarse Hamiltonian beyond normalization; it does neither.
   fixed form that couples each hidden spin to a block, which rules out the
   non-interacting construction. The claim is about the two conditions
   taken as criteria; whether they suffice inside his kernel families is
-  [QUESTION-tmpb2kmp](../questions.d/QUESTION-tmpb2kmp.md).
+  [QUESTION-205](../questions.d/QUESTION-205.md).
 - **Not that an exact restricted Boltzmann machine keeps irrelevant
   variables.** An RBM proper has no visible–visible couplings, so it
   cannot fit interacting data with W = 0; the second construction needs a

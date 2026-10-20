@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**748 document(s) awaiting a decision.**
+**745 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 748.
+95 of the 745.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-422 of the 748.
+419 of the 745.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -243,7 +243,6 @@
 | 2026-10-09 | Proposed | [THEORY-168](../../record/theory.d/THEORY-168.md) | 18 | 0 | In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included |
 | 2026-10-09 | Proposed | [THEORY-175](../../record/theory.d/THEORY-175.md) | 16 | 1 | Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ |
 | 2026-10-09 | Proposed | [THEORY-188](../../record/theory.d/THEORY-188.md) | 16 | 0 | In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model |
-| 2026-10-09 | Proposed | [THEORY-202](../../record/theory.d/THEORY-202.md) | 16 | 1 | In variational renormalization, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 14 | 6 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
 | 2026-10-09 | Proposed | [THEORY-173](../../record/theory.d/THEORY-173.md) | 14 | 0 | Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale |
 | 2026-10-09 | Proposed | [THEORY-167](../../record/theory.d/THEORY-167.md) | 13 | 0 | The Russian wondertale is built from a small fixed set of character functions in a fixed order, so that all wondertales share one composition and differ in who performs the functions and how |
@@ -262,13 +261,11 @@
 | 2026-10-10 | Proposed | [THEORY-207](../../record/theory.d/THEORY-207.md) | 6 | 2 | Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes |
 | 2026-10-13 | Proposed | [THEORY-209](../../record/theory.d/THEORY-209.md) | 32 | 9 | A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size |
 | 2026-10-13 | Proposed | [THEORY-210](../../record/theory.d/THEORY-210.md) | 21 | 3 | Continuous parameter symmetries stretch a network's minima into connected manifolds along which the loss is flat, and give gradient flow conserved quantities that fix where on such a manifold training ends; finite steps, gradient noise and weight decay break them, so the position along a symmetry orbit is set by initialization and optimizer, not by the loss |
-| 2026-10-13 | Proposed | [THEORY-222](../../record/theory.d/THEORY-222.md) | 19 | 3 | A coarse-grained macro description can carry more effective information than the micro description it supervenes on, so the scale at which a system's causal structure is most effective can be a macro scale |
 | 2026-10-13 | Proposed | [THEORY-212](../../record/theory.d/THEORY-212.md) | 14 | 2 | In a two-layer linear network trained by gradient flow, the relative scale of the two layers, which gradient flow conserves, sets the learning regime: balanced layers learn in sigmoidal stages and both build task-specific representations, while strongly unbalanced layers learn exponentially with a static kernel and leave the larger layer task-agnostic |
 | 2026-10-13 | Proposed | [THEORY-214](../../record/theory.d/THEORY-214.md) | 12 | 2 | Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning |
 | 2026-10-13 | Proposed | [THEORY-218](../../record/theory.d/THEORY-218.md) | 11 | 2 | The content of a crowd-built r/place artwork is decided off the canvas, in negotiation through shared design images, where a few central members admit or refuse additions, and carried out by placers who mostly never join the discussion, so the placement record shows the outcome of coordination but not who directed it or who cooperated |
 | 2026-10-13 | Proposed | [THEORY-220](../../record/theory.d/THEORY-220.md) | 11 | 6 | A far-from-equilibrium system that contributes to its own maintenance has functions relative to itself, with no history or observer needed, and one that switches among self-maintaining processes has indications of success that can be false by its own lights |
 | 2026-10-13 | Proposed | [THEORY-217](../../record/theory.d/THEORY-217.md) | 7 | 3 | A trait malfunctions when its operation does not correlate positively with the normative field, the minimum change its organization's viability requires at each precarious state; malfunction needs no second order of regulatory norms, and regulatory traits can malfunction by the same standard |
-| 2026-10-13 | Proposed | [THEORY-213](../../record/theory.d/THEORY-213.md) | 6 | 0 | Every mirror symmetry of a network's loss makes its symmetric subspace absorbing for gradient-based training, and weight decay above a threshold or strong gradient noise makes that subspace favoured, so rescaling symmetry yields sparsity, rotation symmetry low rank, and permutation symmetry merged, identical neurons |
 | 2026-10-13 | Proposed | [THEORY-221](../../record/theory.d/THEORY-221.md) | 5 | 0 | Organizational closure is a circular organization of efficient causes by which a system produces the conditions of its own existence, distinct from feedback, self-organization and catalytic cycles; systems whose loops do not regenerate the constraints that make them possible approximate closure without instantiating it |
 | 2026-10-13 | Proposed | [THEORY-219](../../record/theory.d/THEORY-219.md) | 4 | 2 | Agency in the sense that bears on responsibility needs a standpoint that settles and carries forward revised evaluative standards when its inherited ones break down, and planning, autonomy, memory and coordination do not supply one |
 | 2026-10-13 | Proposed | [THEORY-223](../../record/theory.d/THEORY-223.md) | 4 | 2 | When the rules that govern a system lie within its own action space, the governor's authority rests on the system leaving them alone, and further controls in the same space inherit that dependence |
@@ -540,7 +537,7 @@
 
 ## ADRs
 
-2 of the 748.
+2 of the 745.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -549,7 +546,7 @@
 
 ## QUESTIONs
 
-9 of the 748.
+9 of the 745.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -565,7 +562,7 @@
 
 ## CLAIMs
 
-215 of the 748.
+215 of the 745.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -787,7 +784,7 @@
 
 ## CASEs
 
-1 of the 748.
+1 of the 745.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -795,7 +792,7 @@
 
 ## TERMs
 
-2 of the 748.
+2 of the 745.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -804,7 +801,7 @@
 
 ## ARGs
 
-2 of the 748.
+2 of the 745.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

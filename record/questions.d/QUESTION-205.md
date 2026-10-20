@@ -1,5 +1,8 @@
 ---
+number: 205
 status: Open
+formerly:
+- QUESTION-tmpb2kmp
 title: "Inside Kadanoff's kernel families, where each hidden spin couples to a block through a kernel of fixed form, does the exact trace condition force the coarse Hamiltonian to keep the relevant operators, or does some further stated condition still have to choose them?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   suffices inside those families is open.
 ---
 
-# QUESTION-tmpb2kmp: Inside Kadanoff's kernel families, where each hidden spin couples to a block through a kernel of fixed form, does the exact trace condition force the coarse Hamiltonian to keep the relevant operators, or does some further stated condition still have to choose them?
+# QUESTION-205: Inside Kadanoff's kernel families, where each hidden spin couples to a block through a kernel of fixed form, does the exact trace condition force the coarse Hamiltonian to keep the relevant operators, or does some further stated condition still have to choose them?
 
 ## Why it is a question
 

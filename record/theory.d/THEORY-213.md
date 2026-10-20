@@ -15,7 +15,7 @@ history:
     Dropped: the SGD-noise clause, which rests on a diagonal approximation,
     and "rescaling symmetry" without the λ = −1 condition, since ReLU's
     positive rescaling contains no mirror. The promote_when moves to
-    QUESTION-tmpuuniu.
+    QUESTION-206.
 tags:
 - learning-theory
 - loss-landscapes
@@ -37,7 +37,7 @@ summary: >-
   half is approximate and the network evidence is limited; the title holds
   only the exact half.
   Promoted on 2026-10-20 on the exact half, re-derived. The SGD half is
-  QUESTION-tmpuuniu.
+  QUESTION-206.
 ---
 <!-- inactive-ok-file: THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
 

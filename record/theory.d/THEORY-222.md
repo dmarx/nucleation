@@ -21,7 +21,7 @@ history:
     intervention distribution; "the scale at which a system's causal
     structure is most effective" becomes "the level at which effective
     information is highest". The promote_when, which asks whether the gain
-    survives one distribution at both levels, moves to QUESTION-tmp3zal3.
+    survives one distribution at both levels, moves to QUESTION-204.
 tags:
 - causality
 - complex-systems
@@ -40,7 +40,7 @@ summary: >-
   happens rests on imposing a uniform distribution at each level, which
   the paper adopts and does not test; the title does not claim it.
   Promoted on 2026-10-20 on a construction. Whether the gain survives one
-  intervention distribution at both levels is QUESTION-tmp3zal3.
+  intervention distribution at both levels is QUESTION-204.
 answers:
 - QUESTION-093
 ---

@@ -1,5 +1,8 @@
 ---
+number: 206
 status: Open
+formerly:
+- QUESTION-tmpuuniu
 title: "Does stochastic gradient noise drive training into a mirror-symmetric subspace where it is a saddle, beyond the second-order, diagonal-Hessian argument, and does a trained network's distance to that subspace fall to zero past a threshold set by noise and curvature?"
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   at a saddle, rests on a diagonal approximation and is open.
 ---
 
-# QUESTION-tmpuuniu: Does stochastic gradient noise drive training into a mirror-symmetric subspace where it is a saddle, beyond the second-order, diagonal-Hessian argument, and does a trained network's distance to that subspace fall to zero past a threshold set by noise and curvature?
+# QUESTION-206: Does stochastic gradient noise drive training into a mirror-symmetric subspace where it is a saddle, beyond the second-order, diagonal-Hessian argument, and does a trained network's distance to that subspace fall to zero past a threshold set by noise and curvature?
 
 ## Why it is a question
 
