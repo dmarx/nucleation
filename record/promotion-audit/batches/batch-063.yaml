@@ -23,7 +23,7 @@ yield: >-
   split off; its measurements were read only from figures. THEORY-039 is
   the record's own comparative synthesis and has no review path.
 promotion_prs:
-  - "#277: THEORY-246 and THEORY-334 narrowed and promoted; THEORY-201's derived statistics split off as THEORY-tmpnxcxo; QUESTION-tmpu3u0x and QUESTION-tmpsdkg1 (branch claude/promote-theories-246-334-split-201)."
+  - "#277: THEORY-246 and THEORY-334 narrowed and promoted; THEORY-201's derived statistics split off as THEORY-778; QUESTION-236 and QUESTION-235 (branch claude/promote-theories-246-334-split-201)."
   - "#279: THEORY-385 narrowed and promoted on the review's independent re-run (branch claude/promote-theory-385)."
 band:
   - {code: THEORY-246, title_asserts: thesis plus measurement, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}

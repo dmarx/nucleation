@@ -57,5 +57,5 @@ notes: >-
   definition.
 unlocks:
   - "THEORY-072's first promote_when step reduces to showing a flame has one constraint of its own."
-next_action: "Merge #280; rename CLAIM-tmp2pvi2 here to its permanent code after it merges."
+next_action: "Merge #280; rename CLAIM-395 here to its permanent code after it merges."
 recommend: wave 5, with the flame analysis as the task

@@ -26,8 +26,8 @@ yield: >-
   THEORY-529 and THEORY-126 are arguments that the classifier called
   theorems.
 promotion_prs:
-  - "#276: THEORY-204 and THEORY-243 narrowed and promoted; QUESTION-tmpcvdv0 and QUESTION-tmpszev1 (branch claude/promote-theories-204-243)."
-  - "#281: THEORY-209 split, its linear-regression result filed as THEORY-tmpopk8o, Active (branch claude/split-theory-209)."
+  - "#276: THEORY-204 and THEORY-243 narrowed and promoted; QUESTION-233 and QUESTION-234 (branch claude/promote-theories-204-243)."
+  - "#281: THEORY-209 split, its linear-regression result filed as THEORY-779, Active (branch claude/split-theory-209)."
 band:
   - {code: THEORY-529, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
   - {code: THEORY-126, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}

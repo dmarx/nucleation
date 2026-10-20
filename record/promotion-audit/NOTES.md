@@ -1717,7 +1717,8 @@ history note. THEORY-277 is requeued on this basis.
 - Decision files outlive the PRs they cite, so tmp codes in them go
   stale when docs-generate concretizes main. After each round, map every
   `X-tmp…` in decisions/ to the file whose `formerly:` lists it, and
-  replace it. Batch files keep their tmp codes as a historical log.
+  replace it. Batch files may keep them, though replacing them there too is
+  clearer.
 
 ## 2026-10-20 — batch 060 (triage-007 theorem route 1-5)
 
@@ -1902,3 +1903,18 @@ history note. THEORY-277 is requeued on this basis.
 - Never `pkill -f "luria lint"`: parallel forks share the process table,
   and batch 064's kill took out batch 060's lint.
 - ADR-048 (2026-10-19): do not check the anthology before filing.
+
+## 2026-10-20 — narrowing loss and triage-008 (ADR-047 v4)
+
+- The owner noticed that narrowing had dropped the wider claims with
+  nowhere to go: of 93 narrowed THEORYs, 2 had a Proposed carrier of the
+  wide form, 38 only a QUESTION, 53 nothing outside their own body.
+  ADR-047 v4 routes each dropped clause (Proposed THEORY, Proposed
+  interpretive CLAIM, note, or QUESTION).
+- Triage-008 sorted 120 entries (93 narrowed, 21 promoted as-is, 6 from
+  this round): kind 1 54 clauses (2 already carried, by THEORY-618), kind
+  2 2, kind 3 39, kind 4 30. 52 codes need filing; 26 dropped nothing.
+- Several pre-narrowing titles already named their own limits ("is
+  stated", "not shown"); those limits are kind 3.
+- #279 merged on the owner's "merge the PRs": a review's own small re-run
+  counts as a test by others than the authors (THEORY-385).

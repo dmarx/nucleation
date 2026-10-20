@@ -25,7 +25,7 @@ yield: >-
       conditions.
     - THEORY-588 is an impossibility claim made by verbal analysis.
 promotion_prs:
-  - "#275: THEORY-194 narrowed and promoted; QUESTION-tmpjpe7s; inactive-ok directives trimmed (branch claude/promote-theory-194)."
+  - "#275: THEORY-194 narrowed and promoted; QUESTION-232; inactive-ok directives trimmed (branch claude/promote-theory-194)."
 band:
   - {code: THEORY-194, triage_007: theorem, hand: measurement, agrees: false, formal_in_fact: partly, outcome: narrow-and-promote}
   - {code: THEORY-447, triage_007: theorem, hand: argument, agrees: false, formal_in_fact: false, outcome: retain-proposed}

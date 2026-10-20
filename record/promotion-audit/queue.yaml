@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 160
+version: 161
 updated: '2026-10-20'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
@@ -9,24 +9,19 @@ handoff:
   batch: null
   state: between batches
   in_review:
-  - '#275'
-  - '#276'
-  - '#277'
-  - '#278'
-  - '#279'
-  - '#280'
-  - '#281'
-  next_step: 'Batches 060-064 (triage-007 theorem route 1-15, measurement route 1-5, control 5) integrated:
-    11 of 25 have promotion paths. Open: #275 (THEORY-194), #276 (THEORY-204, -243), #277 (THEORY-246,
-    -334; THEORY-201 split), #278 (THEORY-744, -751), #279 (THEORY-385, held on the owner question below),
-    #280 (THEORY-072 split), #281 (THEORY-209 split). Merge them one at a time, then this ledger; after
-    they merge, replace their tmp codes in decisions/ and batches/060-064 (map each via formerly:). Next:
-    theorem route margin >= 4 is reliable, margin 2-3 is mostly arguments (theorem label 3 of 10 there);
-    continue the measurement route 6-20 (4 of 5 in batch 063) before the remaining theorem route. Owner
-    questions open: does a review''s own re-run meet "a test by others than the authors" (THEORY-385);
-    narrow THEORY-646''s promote_when to its title; THEORY-039 as an interpretive CLAIM; record-own results
-    filed Active (CLAIM-384, -385, -391, and #280''s CLAIM); skimmed peer-reviewed proof as "a proof"
-    (THEORY-188, -270, -763); report titles (THEORY-344, -351, -071, -628, -336); conditional theorems
+  - '#283'
+  next_step: '#275-#281 merged; tmp codes in decisions/ and batches/060-064 concretized (THEORY-778, -779,
+    CLAIM-395, QUESTION-232..236). ADR-047 v4 (#283): a narrowing routes each dropped clause to a Proposed
+    THEORY (kind 1), a Proposed interpretive CLAIM (kind 2), a note (kind 3) or a QUESTION (kind 4). Next:
+    the narrowing-loss sweep from triage-008.yaml, 52 codes in 11 batches of five (summary.batches), kind
+    1 first; file new Proposed entries beside the Active ones, re-review nothing. Owner rulings needed
+    from triage-008.unsure: unchecked source theorems as separate Proposed THEORYs or body only (THEORY-158,
+    -160, -171, -244, -247, -318, -367, -387, -478); THEORY-334 against its Active rival THEORY-346; THEORY-246
+    kind 3 vs 1; THEORY-161, -290 kind 1 vs 2; THEORY-026 needs LIT-041 checked. After the sweep: triage-007
+    measurement route 6-20 (4 of 5 in batch 063), then theorem route margin >= 4 only. Other owner questions
+    open: narrow THEORY-646''s promote_when to its title; THEORY-039 as an interpretive CLAIM; record-own
+    results filed Active (CLAIM-384, -385, -391, and CLAIM-395); skimmed peer-reviewed proof as "a
+    proof" (THEORY-188, -270, -763); report titles (THEORY-344, -351, -071, -628, -336); conditional theorems
     with promote_when moved to a QUESTION (THEORY-185, -133, -419, -527, -204, -243); splits of textbook
     or toy-model theorems (THEORY-110, -673, -209, -476 definitional core, -529 not split); Propp selection
     point as an objection claim; closed sources (Ney 2016/2021, Mandelkern, Geisler 1989, Propp schemes,
@@ -4034,4 +4029,9 @@ history:
 - version: 160
   date: '2026-10-20'
   note: Round 060-064 tally; requeue THEORY-034, -410, -528, -646, -072; hand-off updated.
+- version: 161
+  date: '2026-10-20'
+  note: '#275-#281 merged (#279 on the owner''s "merge the PRs", so THEORY-385 promotes on the review''s
+    own re-run); tmp codes concretized; triage-008 (narrowing-loss sort, ADR-047 v4) added: 52 codes to
+    file.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

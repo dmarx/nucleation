@@ -21,7 +21,7 @@ hand_labels:
   THEORY-646: argument
 yield: "1 split of 5 (THEORY-072's formal core filed as an Active, demonstrated CLAIM in #280); 0 promoted; 4 retained"
 promotion_prs:
-  - "#280: closure's formal core split from THEORY-072 as CLAIM-tmp2pvi2 (Active, demonstrated); THEORY-072 stays Proposed."
+  - "#280: closure's formal core split from THEORY-072 as CLAIM-395 (Active, demonstrated); THEORY-072 stays Proposed."
 notes_for_ledger:
   - >-
     Control verdict: the classifier's zero score was right on class for 5
@@ -68,7 +68,7 @@ notes_for_ledger:
     around 14:20 UTC. Never pkill by command pattern while forks run.
 owner_questions:
   - >-
-    CLAIM-tmp2pvi2 (#280) is another record-own result filed Active, the
+    CLAIM-395 (#280) is another record-own result filed Active, the
     same question as CLAIM-384, -385 and -391.
   - >-
     THEORY-646: may its promote_when be narrowed to what its title says
