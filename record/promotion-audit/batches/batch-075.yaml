@@ -19,7 +19,8 @@ yield: >-
   filed under v4 as a new Proposed THEORY that extends it and carries its
   former promote_when (three new entries). THEORY-495 and THEORY-575 are
   theses, as the directive suspected, and stay Proposed.
-promotion_prs: []
+promotion_prs:
+  - '#298: THEORY-123, -766 and -105 narrowed and promoted; their set-aside wider claims filed as THEORY-tmpkn062, THEORY-tmppz903 and THEORY-tmpsug2e (branch claude/promote-theories-123-766-105).'
 band:
   - {code: THEORY-123, title_asserts: measurement stated for work groups in general, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
   - {code: THEORY-495, title_asserts: explanatory thesis with reported contrasts, hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
