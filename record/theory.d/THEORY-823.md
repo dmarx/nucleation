@@ -1,4 +1,5 @@
 ---
+number: 823
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: Proposed
+formerly:
+- THEORY-tmpkxsq7
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -32,7 +35,7 @@ promote_when: >-
   cannot settle it: those re-establish that the moves happen and are fast, which
   is already held.
 
-# The claim. Repeat it as the body's `# THEORY-tmpkxsq7:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-823:` heading; the lint checks
 # that the two agree.
 title: 'Tetris players rotate pieces more often than planning a placement and then executing it would require, rotate them early and check the column more the higher the drop, because these moves are epistemic actions: physical action that stands in for mental computation at the moment of use'
 
@@ -74,7 +77,7 @@ answers:
 - QUESTION-095
 ---
 
-# THEORY-tmpkxsq7: Tetris players rotate pieces more often than planning a placement and then executing it would require, rotate them early and check the column more the higher the drop, because these moves are epistemic actions: physical action that stands in for mental computation at the moment of use
+# THEORY-823: Tetris players rotate pieces more often than planning a placement and then executing it would require, rotate them early and check the column more the higher the drop, because these moves are epistemic actions: physical action that stands in for mental computation at the moment of use
 
 ## Source
 

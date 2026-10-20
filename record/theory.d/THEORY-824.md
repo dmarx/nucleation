@@ -1,4 +1,5 @@
 ---
+number: 824
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: Proposed
+formerly:
+- THEORY-tmpx9ksh
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -31,7 +34,7 @@ promote_when: >-
   the same pipeline, agreement between its passes, or agreement with a
   trend measured by a similar design-keyword method cannot settle it.
 
-# The claim. Repeat it as the body's `# THEORY-tmpx9ksh:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-824:` heading; the lint checks
 # that the two agree.
 title: 'Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020'
 
@@ -71,7 +74,7 @@ extends:
 ---
 
 <!-- inactive-ok-file: LIT-079 — Proposed by its close reading for edges never validated against human labels; the only source, and that limit is why this account is Proposed -->
-# THEORY-tmpx9ksh: Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020
+# THEORY-824: Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020
 
 ## Source
 

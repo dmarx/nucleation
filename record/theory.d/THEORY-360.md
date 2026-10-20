@@ -17,7 +17,7 @@ history:
     both leave the title. So does the authors' reading of the moves as
     epistemic action, which the old title reported. Under ADR-047 v4 the
     measured-but-figure-only clauses and that reading are filed together as
-    a new Proposed THEORY, THEORY-tmpkxsq7, which extends this one and takes
+    a new Proposed THEORY, THEORY-823, which extends this one and takes
     the promote_when (the action-cost experiment) unchanged.
 tags:
 - cognition
@@ -39,12 +39,12 @@ summary: >-
   performance. The trade is offloading at the moment of use, once, with nothing
   stored; the paper sets itself against caching.
   Promoted 2026-10-20 on the timing and Table 1 alone (ADR-047 v3); the
-  epistemic-action reading is held as THEORY-tmpkxsq7.
+  epistemic-action reading is held as THEORY-823.
 extended_by:
-- THEORY-tmpkxsq7
+- THEORY-823
 ---
 <!-- inactive-ok-file: THEORY-355 — Proposed; the maintained-arrangement case from the same author, named as a neighbour, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-tmpkxsq7 — Proposed; the epistemic-action reading of these moves, filed when the narrowing dropped it -->
+<!-- inactive-ok-file: THEORY-823 — Proposed; the epistemic-action reading of these moves, filed when the narrowing dropped it -->
 
 # THEORY-360: In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16
 
@@ -132,5 +132,5 @@ Batch 074 of the promotion audit narrowed the title to the timing and the
 Table 1 comparison and promoted it under [ADR-047](../decisions.d/ADR-047.md) v3. Over-rotation and the
 height-dependence of the wall check are read off figures with no printed
 numbers, and the saving in computation is argued, not measured, so they
-are held with the authors' epistemic-action reading as [THEORY-tmpkxsq7](THEORY-tmpkxsq7.md),
+are held with the authors' epistemic-action reading as [THEORY-823](THEORY-823.md),
 Proposed until an experiment varies what the moves cost.

@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-91 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+93 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -108,6 +108,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-527](../record/theory.d/THEORY-527.md) — If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.'s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms *(Active)*
   - [THEORY-801](../record/theory.d/THEORY-801.md) — Agents are the systems that would adapt their policy were their actions to affect the world differently, so the agent is wherever that adaptation is: a thermostat is not an agent while it together with its design process is, an RL training process is while its learnt policy generally is not, and humans are *(Proposed)*
 
+### From In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled
+
+- [THEORY-674](../record/theory.d/THEORY-674.md) — In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled *(Active)*
+  - [THEORY-824](../record/theory.d/THEORY-824.md) — Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020 *(Proposed)*
+
 ## cognition
 
 ### From In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data
@@ -136,6 +141,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-272](../record/theory.d/THEORY-272.md) — In Hopfield's 1982 simulations at N = 30 and 100, a network of threshold units with symmetric Hebbian couplings acts as a content-addressable memory whose stored random patterns are attractors: recall degrades severely near 0.15N patterns, a pattern placed 10 bits from another at N = 100 often fuses with it, and at 25-fold overload no stored pattern stays stable *(Active)*
   - [THEORY-800](../record/theory.d/THEORY-800.md) — A network of N threshold units with symmetric Hebbian couplings stores random patterns as attractors up to a load proportional to N, about 0.15N for all large N, past which recall fails for every pattern at once, and a provision for forgetting old memories, such as couplings that saturate, keeps the most recent ones retrievable however many are added *(Proposed)*
+
+### From In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16
+
+- [THEORY-360](../record/theory.d/THEORY-360.md) — In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16 *(Active)*
+  - [THEORY-823](../record/theory.d/THEORY-823.md) — Tetris players rotate pieces more often than planning a placement and then executing it would require, rotate them early and check the column more the higher the drop, because these moves are epistemic actions: physical action that stands in for mental computation at the moment of use *(Proposed)*
 
 ### From If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue
 
@@ -270,6 +280,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [THEORY-377](../record/theory.d/THEORY-377.md) — In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries tolerated imprecision, it cost less; that it converges to the best width is argued, not proved *(Active)*
 
 ## embodied-cognition
+
+### From In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16
+
+- [THEORY-360](../record/theory.d/THEORY-360.md) — In Kirsh and Maglio's Tetris keystroke data, rotation began in earnest by 400 to 600 ms after a piece appeared, sometimes before it was fully in view, and at each of three skill levels drops preceded by a move to the wall and back were longer than ordinary drops, about 19 to 20 squares against 13 to 16 *(Active)*
+  - [THEORY-823](../record/theory.d/THEORY-823.md) — Tetris players rotate pieces more often than planning a placement and then executing it would require, rotate them early and check the column more the higher the drop, because these moves are epistemic actions: physical action that stands in for mental computation at the moment of use *(Proposed)*
 
 ### From If belief is individuated by functional role, an external store that is constantly consulted, directly available and automatically endorsed can carry a standing belief, so the material vehicles of some mental states extend beyond the skin; the step from coupling to parthood rests on that premise and a parity principle the authors state rather than argue
 
@@ -905,6 +920,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-295](../record/theory.d/THEORY-295.md) — In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth *(Active)*
   - [THEORY-814](../record/theory.d/THEORY-814.md) — In scientific communities that settle on a consensus model by sound model comparisons, high reproducibility of results is not evidence that the consensus is true, because which alternatives get proposed can hold a false consensus whose results reproduce almost perfectly *(Proposed)*
 
+### From In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled
+
+- [THEORY-674](../record/theory.d/THEORY-674.md) — In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled *(Active)*
+  - [THEORY-824](../record/theory.d/THEORY-824.md) — Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020 *(Proposed)*
+
 ## pragmatics
 
 ### From A speaker who chooses words to minimise the information lost about a single intended referent, with words' literal meanings uniform over their extensions, picks each true word with probability inversely proportional to a power of its extension, so the size principle follows from informative communication; in one betting experiment, learners who knew the referent bet on a novel word's meaning in line with the inversion of that speaker (r = .93 on condition means), and in one free-description study speakers' word use followed it only weakly (r = .19)
@@ -1154,6 +1174,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-295](../record/theory.d/THEORY-295.md) — In a community whose consensus model is replaced whenever a single sound pairwise model comparison favours the challenger, which models get proposed can hold the consensus on a false model while results reproduce almost perfectly, so reproducibility need not track convergence to truth *(Active)*
   - [THEORY-814](../record/theory.d/THEORY-814.md) — In scientific communities that settle on a consensus model by sound model comparisons, high reproducibility of results is not evidence that the consensus is true, because which alternatives get proposed can hold a false consensus whose results reproduce almost perfectly *(Proposed)*
+
+### From In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled
+
+- [THEORY-674](../record/theory.d/THEORY-674.md) — In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled *(Active)*
+  - [THEORY-824](../record/theory.d/THEORY-824.md) — Economics working papers increasingly back their claims with design-based identification: in NBER and CEPR working papers the share of claims supported by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose about fourfold from 1990 to 2020 *(Proposed)*
 
 ## society-and-governance
 

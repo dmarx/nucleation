@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**487 documents cited without acknowledgement.** Not listed: 10254 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**486 documents cited without acknowledgement.** Not listed: 10264 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -3217,7 +3217,7 @@ An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the 
 
 Causal Claims in Economics
 
-3 citations in 2 files await a look; 5 other citations of it are acknowledged.
+3 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-035.md:43`](../../record/decisions.d/ADR-035.md)
 - [`record/decisions.d/ADR-035.md:76`](../../record/decisions.d/ADR-035.md)
@@ -4625,24 +4625,6 @@ In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-s
 - [`record/theory.d/THEORY-331.md:131`](../../record/theory.d/THEORY-331.md)
 - [`record/theory.d/THEORY-351.md:128`](../../record/theory.d/THEORY-351.md)
 
-### [THEORY-355](../../record/theory.d/THEORY-355.md) — Proposed
-
-Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured
-
-2 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-339.md:125`](../../record/theory.d/THEORY-339.md)
-- [`record/theory.d/THEORY-360.md:116`](../../record/theory.d/THEORY-360.md)
-
-### [THEORY-360](../../record/theory.d/THEORY-360.md) — Proposed
-
-Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured
-
-2 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-334.md:117`](../../record/theory.d/THEORY-334.md)
-- [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
-
 ### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
 
 When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed
@@ -5669,6 +5651,14 @@ An access method's read, update and memory overheads, each a ratio to the base d
 1 citation in 1 file awaits a look.
 
 - [`record/theory.d/THEORY-333.md:106`](../../record/theory.d/THEORY-333.md)
+
+### [THEORY-355](../../record/theory.d/THEORY-355.md) — Proposed
+
+Agents arrange their surroundings so that perception and choice take the place of internal search, changing how much thinking a task needs without changing what can physically be done; the set-up is paid once and recovered over the later choice points the arrangement serves, so an arrangement whose scope is the whole task can repay a large set-up and a narrow one must repay within the next few actions, and the arrangement decays unless maintained; the savings are argued and piloted, not measured
+
+1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+
+- [`record/theory.d/THEORY-339.md:125`](../../record/theory.d/THEORY-339.md)
 
 ### [THEORY-359](../../record/theory.d/THEORY-359.md) — Proposed
 

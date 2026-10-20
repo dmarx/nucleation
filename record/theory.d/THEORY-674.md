@@ -16,7 +16,7 @@ history:
     pipeline, with the controlled slope the paper reports beside the raw
     rise. The claim that the share of design-backed claims in economics
     rose about fourfold leaves the title; the paper asserts it, so under
-    ADR-047 v4 it is filed as a new Proposed THEORY, THEORY-tmpx9ksh, which
+    ADR-047 v4 it is filed as a new Proposed THEORY, THEORY-824, which
     extends this one and takes the promote_when (an edge-level audit
     against human labels) unchanged.
 tags:
@@ -37,13 +37,13 @@ summary: >-
   causal structure with top-five publication rests on year-fixed-effect
   regressions over different subsamples and is not part of this claim.
   Promoted 2026-10-20 on the measurement alone (ADR-047 v3); the economics
-  claim is held as THEORY-tmpx9ksh.
+  claim is held as THEORY-824.
 extended_by:
-- THEORY-tmpx9ksh
+- THEORY-824
 ---
 <!-- inactive-ok-file: THEORY-451 — Proposed; Cartwright's account, named as a neighbour, nothing here rests on it -->
 <!-- inactive-ok-file: LIT-079 — Proposed by its close reading for edges never validated against human labels; the only source, and the narrowed title states that limit -->
-<!-- inactive-ok-file: THEORY-tmpx9ksh — Proposed; the economics claim this measurement is taken to show, filed when the narrowing dropped it -->
+<!-- inactive-ok-file: THEORY-824 — Proposed; the economics claim this measurement is taken to show, filed when the narrowing dropped it -->
 
 # THEORY-674: In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled
 
@@ -120,5 +120,5 @@ and +0.0011 with method-mix and graph-volume controls. The units of the
 slopes are the paper's and do not obviously match the levels (see above).
 The wider claim, that economics papers increasingly back their claims with
 design-based identification, is the paper's own reading of the series. It
-is held as [THEORY-tmpx9ksh](THEORY-tmpx9ksh.md), Proposed until the edges are audited against
+is held as [THEORY-824](THEORY-824.md), Proposed until the edges are audited against
 human labels.
