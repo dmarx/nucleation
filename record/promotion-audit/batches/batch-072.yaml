@@ -58,7 +58,8 @@ reclassified:
 - code: THEORY-377
   from: 1
   to: not a narrowing loss (kind 4, covered by QUESTION-227)
-promotion_prs: []
+promotion_prs:
+- '#293'
 notes_for_ledger:
 - Triage-008 also listed clauses from as-is promotions (THEORY-362) and clauses still in the Active title
   as hedges (THEORY-377). Neither is a narrowing loss; check the pre-narrowing and current titles before
