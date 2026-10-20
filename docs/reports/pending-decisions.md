@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**730 document(s) awaiting a decision.**
+**729 document(s) awaiting a decision.**
 
 ## LITs
 
-94 of the 730.
+94 of the 729.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -110,7 +110,7 @@
 
 ## THEORYs
 
-405 of the 730.
+404 of the 729.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -317,7 +317,6 @@
 | 2026-10-15 | Proposed | [THEORY-374](../../record/theory.d/THEORY-374.md) | 7 | 4 | Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries |
 | 2026-10-15 | Proposed | [THEORY-335](../../record/theory.d/THEORY-335.md) | 5 | 3 | Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming |
 | 2026-10-15 | Proposed | [THEORY-331](../../record/theory.d/THEORY-331.md) | 3 | 3 | Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved |
-| 2026-10-15 | Proposed | [THEORY-368](../../record/theory.d/THEORY-368.md) | 3 | 3 | On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms |
 | 2026-10-15 | Proposed | [THEORY-375](../../record/theory.d/THEORY-375.md) | 3 | 3 | In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved |
 | 2026-10-15 | Proposed | [THEORY-376](../../record/theory.d/THEORY-376.md) | 3 | 3 | In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged |
 | 2026-10-15 | Proposed | [THEORY-333](../../record/theory.d/THEORY-333.md) | 2 | 2 | Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested |
@@ -522,7 +521,7 @@
 
 ## ADRs
 
-2 of the 730.
+2 of the 729.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -531,7 +530,7 @@
 
 ## QUESTIONs
 
-9 of the 730.
+9 of the 729.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -547,7 +546,7 @@
 
 ## CLAIMs
 
-215 of the 730.
+215 of the 729.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -769,7 +768,7 @@
 
 ## CASEs
 
-1 of the 730.
+1 of the 729.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -777,7 +776,7 @@
 
 ## TERMs
 
-2 of the 730.
+2 of the 729.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -786,7 +785,7 @@
 
 ## ARGs
 
-2 of the 730.
+2 of the 729.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

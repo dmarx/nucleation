@@ -15,7 +15,7 @@ history:
     held to DiskANN, HNSW and NSG, the only indexes measured below that
     queue length. Of the other seven, three were run from a survey's
     reimplementations, not their authors' code. The promote_when asked for
-    an independent replication, which moves to QUESTION-tmp9l9pn.
+    an independent replication, which moves to QUESTION-230.
 tags:
 - databases
 - information-retrieval
@@ -117,4 +117,4 @@ Rechecked against arXiv 2310.19126v1 for the promotion audit (batch 053,
 
 The title is narrowed to these. Whether an independent run reproduces them,
 and whether the trap appears on natural data, is
-[QUESTION-tmp9l9pn](../questions.d/QUESTION-tmp9l9pn.md).
+[QUESTION-230](../questions.d/QUESTION-230.md).

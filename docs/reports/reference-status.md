@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**486 documents cited without acknowledgement.** Not listed: 9908 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**485 documents cited without acknowledgement.** Not listed: 9908 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2910,7 +2910,7 @@ Given views with conjunctive definitions, deciding that they answer a conjunctiv
 4 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:339`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:340`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
 - [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
 
@@ -3225,7 +3225,7 @@ The difficulty of optimum index selection
 
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
-- [`record/questions.d/QUESTION-114.md:178`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:179`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-1167](../../record/literature.d/LIT-1167.md) — Unavailable
 
@@ -3527,16 +3527,6 @@ Selective accessibility, the account that comparing a target with a plausible an
 - [`record/theory.d/THEORY-337.md:72`](../../record/theory.d/THEORY-337.md)
 - [`record/theory.d/THEORY-337.md:93`](../../record/theory.d/THEORY-337.md)
 
-### [THEORY-368](../../record/theory.d/THEORY-368.md) — Proposed
-
-On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms
-
-3 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-370.md:101`](../../record/theory.d/THEORY-370.md)
-- [`record/theory.d/THEORY-384.md:64`](../../record/theory.d/THEORY-384.md)
-- [`record/theory.d/THEORY-384.md:82`](../../record/theory.d/THEORY-384.md)
-
 ### [THEORY-375](../../record/theory.d/THEORY-375.md) — Proposed
 
 In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved
@@ -3544,7 +3534,7 @@ In one simulator evicting whole query-shaped cache regions, no replacement value
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:343`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:344`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-376.md:92`](../../record/theory.d/THEORY-376.md)
 
 ### [THEORY-376](../../record/theory.d/THEORY-376.md) — Proposed
@@ -3554,7 +3544,7 @@ In a simulated single-client, read-only database answering selection queries on 
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:343`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:344`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-375.md:88`](../../record/theory.d/THEORY-375.md)
 
 ### [THEORY-411](../../record/theory.d/THEORY-411.md) — Proposed
@@ -3930,7 +3920,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:321`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:322`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-378.md:125`](../../record/theory.d/THEORY-378.md)
 
 ### [LIT-1108](../../record/literature.d/LIT-1108.md) — Unavailable
@@ -3940,7 +3930,7 @@ Combining Fuzzy Information from Multiple Systems
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
-- [`record/questions.d/QUESTION-114.md:356`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:357`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -4659,7 +4649,7 @@ On one Apache and Informix server answering cheap indexed selections, a page who
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:330`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:331`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-382.md:102`](../../record/theory.d/THEORY-382.md)
 
 ### [THEORY-414](../../record/theory.d/THEORY-414.md) — Proposed
@@ -5763,7 +5753,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 4 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 5 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)
