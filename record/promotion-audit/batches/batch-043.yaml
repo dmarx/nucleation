@@ -1,0 +1,73 @@
+# record/promotion-audit/batches/batch-043.yaml
+batch: batch-043
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 651753a0
+selection: >-
+  The triage-006 formal entries scoring 3 after the top 20, in the order
+  handed down: THEORY-181, THEORY-189, THEORY-237, THEORY-305, THEORY-313.
+  None was in the queue before. Batch 020's sort rule was applied first.
+  The warrant rule (ADR-043 v2) does not apply to THEORYs.
+reviewed: [THEORY-181, THEORY-189, THEORY-237, THEORY-305, THEORY-313]
+sort:
+  THEORY-181: theorem in an idealised model plus one measurement (ADR-047 v2 and v3)
+  THEORY-189: theorem; the missing sufficiency proof re-derived
+  THEORY-237: theorems; the missing InfoNCE optimum re-derived
+  THEORY-305: identity plus a negative clause settled by a finite counterexample
+  THEORY-313: theorem chain; the outline-read gap bound re-derived
+outcomes:
+  promote: [THEORY-189, THEORY-305]
+  narrow-and-promote: [THEORY-181, THEORY-237, THEORY-313]
+yield: 5 of 5 found a promotion path
+rubric_vs_outcome:
+  - code: THEORY-181
+    formal_signals: [cites, relation, derived]
+    outcome: narrow-and-promote
+    mattered: Bundling (theorem plus a one-size measurement); "the critical fraction" generalised past p = 10.
+  - code: THEORY-189
+    formal_signals: [title, cites, relation]
+    outcome: promote
+    mattered: The source asserts Theorem 4 without proof; a tangency argument settles it. A misread constant in the body.
+  - code: THEORY-237
+    formal_signals: [title, relation, derived]
+    outcome: narrow-and-promote
+    mattered: '"Tight" does not fit InfoNCE, whose supremum is below I when I > log K.'
+  - code: THEORY-305
+    formal_signals: [title, cites, relation]
+    outcome: promote
+    mattered: The negative clause needed a counterexample, which is numerical.
+  - code: THEORY-313
+    formal_signals: [title, cites, relation]
+    outcome: narrow-and-promote
+    mattered: '"Tight only for" fails at p = q; the O(σ²) is proved for one kernel family only.'
+promotion_prs:
+  - "#243: THEORY-189 and THEORY-305 promoted, THEORY-313 narrowed and promoted (branch claude/promote-theories-189-305-313)."
+  - "#244: THEORY-181 and THEORY-237 narrowed and promoted (branch claude/promote-theories-181-237)."
+notes_for_ledger:
+  - >-
+    Triage-006's formal flag went 5 of 5 on the score-3 entries after the
+    top 20. Together with batches 036–038 that is 17 of 20 at score 3 or
+    more, against 1 of 5 for the score-2 control (batch 039).
+  - >-
+    A source that asserts a sufficiency theorem "by a similar proof" can
+    still be settled by re-derivation in one batch when the necessity proof
+    already computes the boundary condition: at equality the condition
+    becomes tangency (THEORY-189).
+  - >-
+    "Tight only for X" titles: test the claim at p = q and at other trivial
+    pairs; the intended reading is usually "for every pair" (THEORY-313).
+  - >-
+    "Tight" applied to a bound family that includes InfoNCE: InfoNCE's
+    supremum is at most log K and generally below I, so say "attains its
+    supremum" and name the members that then equal I (THEORY-237).
+  - >-
+    When a negative clause ("does not make the minimizer X") has a
+    promote_when that accepts a finite counterexample, a numerical
+    counterexample with many restarts settles it at medium confidence
+    (THEORY-305). Record the generating recipe in the decision file, since
+    scratch scripts do not survive the session.
+  - >-
+    Check every constant a body quotes against the source text: THEORY-189's
+    K ≤ 2ε/(1 − ε²) misread Eq. 25, which gives K ≤ ε/(1 − ε²).
+owner_questions: []

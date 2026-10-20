@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/THEORY-382.yaml
+id: THEORY-382
+batch: batch-045
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3: one study, Labrinidis and Roussopoulos (2003), read in full
+    in NOTE-911 from page images with every quotation checked against the
+    OCR. The title already says "in one synthetic simulation with fixed
+    costs" and "no bound on its distance from the best plan is shown". The
+    text states each result the title uses: caching alone "up to ten times
+    worse than OVIS"; under the heavier workload caching saturated, ending
+    three orders of magnitude slower; OVIS(0.875) detected lag at
+    t = 1563 s and reset to all-materialized; "OVIS seems to track the
+    specified QoD threshold".
+  excluded: >-
+    "Held freshness near the threshold" is read off curves with no data
+    table, and the authors' own words are "seems to track". The title is
+    narrowed to the authors' description. One run per setting, no variance,
+    no sensitivity analysis, and no real system stay out, as the body says.
+evidence:
+  - "LIT-1105, Sections 1–6 and Figures 1–16, read in full in NOTE-911."
+blockers: []
+notes: >-
+  Medium because the tracking result rests on the authors' reading of their
+  own curves in a single unrepeated run; the speed and overload results
+  have numbers in the text. The promote_when (a bound against the best plan,
+  or a measurement against it) is what the title disclaims, so it moves to
+  a new QUESTION refining QUESTION-114. Triage-006 scored it 2 (title,
+  relation); the relation signal fired on the cost model, and it is not
+  formal in fact.
+unlocks: []
+next_action: >-
+  Promote in a PR. Replace "held freshness near the threshold" with the
+  authors' "tracked the threshold, as its curves show", and move the
+  promote_when to a new QUESTION.

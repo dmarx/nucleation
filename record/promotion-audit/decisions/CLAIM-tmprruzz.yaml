@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/CLAIM-tmprruzz.yaml
+id: CLAIM-tmprruzz
+batch: batch-046
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+current_status: new (filed Active in #237)
+warrant: demonstrated
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    For a network linearised at θ0, with prior θ − θ0 ~ N(0, α⁻¹I) and
+    Gaussian noise of precision β, the log-determinant part of the log
+    evidence is −½ Σ log(1 + βλ/α) over the non-zero eigenvalues of the
+    empirical NTK Gram matrix J Jᵀ, so at most n directions are priced and
+    γ < n.
+  excluded: >-
+    The Gram spectrum on the sphere and the per-harmonic schedule, which
+    stay in THEORY-080.
+derivation: >-
+  MacKay's Eq. 20 with Z_W = (2π/α)^(k/2): −½ log det A − log Z_W
+  + (k/2) log 2π = −½ log det(A/α) = −½ log det(I + (β/α)JᵀJ), A =
+  αI + βJᵀJ. JᵀJ and J Jᵀ share their non-zero eigenvalues (SVD of J);
+  zero eigenvalues contribute log 1 = 0. γ = Σ βλ/(βλ + α) over the same
+  at most n eigenvalues, each term in [0, 1).
+evidence:
+  - "NOTE-471: MacKay read in full; Eqs. 20 and 23 quoted."
+  - "THEORY-080 summary: 'The filer's synthesis, stated by no source.'"
+  - "Precedent: THEORY-005 → CLAIM-370, filed Active and demonstrated."
+blockers: []
+notes: >-
+  Filed Active rather than Proposed, following CLAIM-370: the proof is
+  self-contained and checked here, so there is nothing for a later review
+  to add. If the owner wants record-own claims filed Proposed first, flip
+  the status in #237.
+unlocks: []
+next_action: Merge #237; luria concretizes the code on main.

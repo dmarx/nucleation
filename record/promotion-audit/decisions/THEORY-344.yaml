@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/THEORY-344.yaml
+id: THEORY-344
+batch: batch-042
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+scope:
+  accepted: >-
+    The title reports a conjecture and adds the record's reading of it. Each
+    of its clauses checks against the paper read in full (NOTE-888):
+    (a) "conjectured, unproved": the authors write that "proving the RUM
+    Conjecture will expand on this line of research".
+    (b) "its formal wording says no more than the floor": every overhead is a
+    ratio of total to base or retrieved data, so each is ≥ 1.0 for every
+    design, and "sets a lower bound for the third" is met by 1.0 always.
+    (c) "pairwise, not symmetric": Prop. 1 (RO = 1 ⇒ UO = 2, MO → ∞) and
+    Prop. 3 (MO = 1 ⇒ RO = N, UO = 1) set read against memory; Props. 2 and 3
+    set update against read; Prop. 3 is optimal on memory and update at once,
+    so memory and update do not conflict at the extremes. Prop. 2's MO → ∞
+    belongs to its log design, not to minimum update.
+  excluded: >-
+    Nothing in the clauses fails. The title asserts no trade-off of its own:
+    its content is what the paper conjectures and fails to show.
+evidence:
+  - "NOTE-888: read in full; definitions, Propositions 1–3, the conjecture, Figure 1, Table 1."
+blockers:
+  - >-
+    The open owner question from batch 032 (THEORY-351), carried by batch 041
+    to THEORY-071 and THEORY-628: can a title that accurately reports an
+    argument or conjecture be promoted, or is it judged as the thesis argued?
+    THEORY-344 is that class; judged as a thesis (the RUM trade), nothing
+    supports it.
+  - >-
+    The promote_when asks for a proof of a quantified conjecture, which the
+    title does not claim. If the ruling allows promotion, it moves to
+    QUESTION-114 or a new QUESTION, as for THEORY-185 and THEORY-266.
+notes: >-
+  Sorted as an argument by batch 020's rule only in the sense that it is a
+  report; its own analytic clauses (b) and (c) are demonstrated above, so a
+  promotion would need no further reading.
+unlocks: []
+next_action: >-
+  Hold for the owner's ruling on report titles. On "promotable", promote
+  with the promote_when moved to a new QUESTION; on "thesis", keep Proposed.

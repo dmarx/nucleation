@@ -1,0 +1,74 @@
+# record/promotion-audit/decisions/THEORY-189.yaml
+id: THEORY-189
+batch: batch-043
+reviewed: '2026-10-19'
+reviewed_revision: 651753a0
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The whole title. Necessity (Lemma 2, Theorem 3) is the source's, with
+    proofs followed step by step in NOTE-671. The radial monotonicity is
+    the record's derivation, already in the body. The promote_when asked
+    for a complete proof that the family sin ψ(r) = K(1 − r²)/r on
+    Dⁿ \ B(O, ε) is transitive in every dimension n ≥ 2 (the source's
+    Theorem 4, asserted without proof). It is re-derived here
+    (ADR-047 v2). Write a = d(O, x), sinh a = 2r/(1 − r²), so the family is
+    sinh(d(O, x)) sin ψ(x) = 2K =: c, with ψ ≤ π/2 needing
+    K ≤ ε/(1 − ε²). For a point w and apex x write θ_x(w) for the angle at
+    x between the outward ray and the geodesic to w; S_x is
+    exp_x of the closed solid cone {θ ≤ ψ(x)}, a closed set, and since
+    exp_x is a diffeomorphism (Cartan–Hadamard) ∂S_x \ {x} is a smooth
+    hypersurface, the image of the cone's lateral surface.
+      (1) Law of sines. In the triangle O, x, w with angle π − θ at x and
+          α at w: sin α = sinh(d(O, x)) sin θ / sinh(d(O, w)). If
+          θ ≤ π/2 the angle at x is at least π/2, so α < π/2.
+      (2) Continuation step. Let z ∈ S_y, z ≠ y, and let δ be the
+          direction at z continuing the geodesic from y. The angle between
+          δ and z's outward ray equals the triangle angle α at z (vertical
+          angles). By (1) and z ∈ S_y, sin α ≤ sinh(d(O, y)) sin ψ(y) /
+          sinh(d(O, z)) = c / sinh(d(O, z)) = sin ψ(z); both acute, so
+          α ≤ ψ(z): δ lies in z's closed cone of directions.
+      (3) Tangency on the boundary. Let z ∈ ∂S_x, z ≠ x, on the generator
+          geodesic from x with continuation direction g. By rotational
+          symmetry about the axis through O and x, the tangent hyperplane
+          of ∂S_x at z is spanned by g and the directions orthogonal to the
+          plane P of O, x, z. z's outward ray lies in P at angle α from g,
+          where by (1) sin α = c / sinh(d(O, z)) = sin ψ(z): α = ψ(z). So
+          the cone of directions of half-angle ψ(z) about z's outward ray
+          lies in the closed half-space on S_x's side and meets the
+          hyperplane only in g. (On S_x's side because the condition is
+          necessary for containment, Theorem 3, and checked numerically.)
+      (4) Transitivity. Let y ∈ S_x, w ∈ S_y, and suppose w ∉ S_x. Every
+          point of the geodesic segment from y to w after y lies in S_y,
+          hence farther from O than y (radial monotonicity), hence not x.
+          Let z be the last point of the segment in S_x (closed). Then
+          z ∈ ∂S_x, z ≠ x, and by (2) its direction δ lies in z's cone. By
+          (3) either δ points strictly into S_x, so the segment is inside
+          S_x just after z, or δ = g, so the segment continues along the
+          generator from x, which lies in S_x. Either way z is not the
+          last point. So w ∈ S_x.
+    A numerical check in D², D³ and D⁵ (K = 0.02, 0.1, 0.3; 35,862
+    random chains, 30% with points on cone edges) found no violation; the
+    largest θ − ψ was 5e−12, the tangency of (3). A control with h
+    increasing gave 2,249 violations. With Theorem 4 proved, "the widest
+    admissible family" holds: for a given K = h(ε), Theorem 3 bounds every
+    transitive family pointwise by this one, and this one is transitive.
+  excluded: >-
+    Nothing in the title. The body's bound K ≤ 2ε/(1 − ε²) is a misreading
+    of the source's Eq. 25, which reads K ≤ ε/(1 − ε²), equivalently
+    ε ≥ 2K/(1 + √(1 + 4K²)) (checked against the arXiv v3 text); it is
+    what sin ψ(ε) ≤ 1 requires. Corrected in the promotion.
+evidence:
+  - "NOTE-671: read in full; Lemma 2, Theorem 3 and Lemma 7 followed step by step; Theorem 4 has no proof in the paper."
+  - "Ganea et al. arXiv v3, Eq. 25: K ≤ ε/(1 − ε²) ⟺ ε ∈ [2K/(1 + √(1 + 4K²)), 1)."
+blockers: []
+notes: >-
+  Batch 020's sort: a theorem. The record's own radial-monotonicity step
+  is what makes (4) work, by keeping the segment away from the apex.
+unlocks: []
+next_action: >-
+  Promote with the title unchanged: the proof of Theorem 4 as a dated note,
+  the K bound corrected, and the numerical-check sentence updated. No
+  wider promote_when to move.

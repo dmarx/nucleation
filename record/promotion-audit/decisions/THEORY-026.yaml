@@ -1,0 +1,73 @@
+# record/promotion-audit/decisions/THEORY-026.yaml
+id: THEORY-026
+batch: batch-045
+reviewed: '2026-10-19'
+reviewed_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived here (ADR-047 v2). Setup of Still, Sivak, Bell and Crooks:
+    system s, drive x, energies E(s,x), p_eq(s|x) ∝ exp(−βE(s,x)); each step
+    the drive switches x_t → x_{t+1} with s_t held (work), then s relaxes
+    under a kernel K_x at fixed x_{t+1}; no feedback from s to x.
+
+    (1) Identity, no further conditions. Write F_neq(x) = ⟨E(s,x)⟩_{p(s|x)}
+    − kT H[p(s|x)], averaged over x. At the switch, ⟨W_t⟩ =
+    ⟨E(s_t,x_{t+1})⟩ − ⟨E(s_t,x_t)⟩, and the change in averaged F_neq is the
+    same energy difference minus kT(H[S_t|X_{t+1}] − H[S_t|X_t]). So
+    β(⟨W_t⟩ − ΔF_neq^work) = H[S_t|X_{t+1}] − H[S_t|X_t] =
+    I[s_t;x_t] − I[s_t;x_{t+1}], the nostalgia.
+
+    (2) Each nostalgia is nonnegative when the drive is Markov. With no
+    feedback, s_t is a function of x_0..x_t and system noise independent of
+    the drive; a Markov drive makes x_{t+1} independent of x_{<t} given
+    x_t; so s_t – x_t – x_{t+1} is a Markov chain and data processing gives
+    I[s_t;x_t] ≥ I[s_t;x_{t+1}].
+
+    (3) Summed nostalgia lower-bounds dissipation when K_x keeps p_eq(·|x)
+    stationary. Over a protocol started in equilibrium, W − ΔF_eq =
+    Σ_t (W_t − ΔF_neq^work) − Σ_t ΔF_neq^relax + kT·D_final, with
+    F_neq = F_eq + kT·D_KL(p(s|x) ‖ p_eq(s|x)). Relaxation does no work, and
+    D_KL contracts under a kernel that keeps p_eq(·|x) stationary, so
+    −ΔF_neq^relax ≥ 0; D_final ≥ 0. Hence βW_diss ≥ Σ_t nostalgia_t.
+    These are the two conditions NOTE-295 found unstated.
+
+    (4) Numerical check: a 4-state system, 3-symbol Markov drive, Metropolis
+    kernels: the per-step identity holds to 10⁻¹⁰ and the total bound holds
+    (0.426 ≥ 0.076 nats).
+
+    (5) The feedback clause, re-derived for Fiderer et al.'s Theorem 5
+    channel (action 0 gives percept 0, action 1 a fair coin): a memoryless
+    agent playing 0 with probability q extracts h(q) − h((1+q)/2) bits,
+    maximal at q = 1/√2 (≈ 0.272), 1 − h(3/4) ≈ 0.189 at q = ½; a
+    predictive agent there has H(A|M) = 0 and extracts ≤ 0. So in that
+    channel no predictive agent is efficient.
+  excluded: >-
+    "Equals": the identity is per switch of the drive; the protocol total is
+    a lower bound, not an equality. "Once actions feed back, prediction is no
+    longer what efficiency requires" generalises one proved channel. A
+    per-operation floor, learning systems and hardware stay out, as the body
+    says.
+evidence:
+  - "LIT-327, Eqs. 14–21 and footnote 24, read in full in NOTE-295, which re-derived Eq. 14 and named the two unstated conditions."
+  - "LIT-041, Theorems 4–5 (Supplement Theorems 9–10) and Lemma 10, read in full in NOTE-032, every proof step followed and the numbers recomputed."
+  - "This review's re-derivation (scope.accepted 1–3, 5) and numeric check (4)."
+blockers: []
+notes: >-
+  The promote_when asks for a derivation stating the conditions under which
+  the nostalgia is a nonnegative lower bound, and either proving it under
+  them or showing failure without them. Steps 2–3 prove it under them, which
+  meets it. A failure example without them (a non-Markov drive with a
+  kernel that keeps p_eq stationary and remembers x_{t−1}) was not built;
+  that, and a worked physical system, go to the new QUESTION. Triage-006
+  scored it 2 (cites, derived); it is formal in fact.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle so the per-switch identity, the conditions and
+  the lower bound are explicit, and the feedback clause is held to the one
+  proved channel. Move the failure example and a physical system to a new
+  QUESTION.

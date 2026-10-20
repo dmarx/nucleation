@@ -1,0 +1,71 @@
+# record/promotion-audit/batches/batch-042.yaml
+batch: batch-042
+date: '2026-10-19'
+kind: evidence-audit
+wave: 3
+record_revision: 2f565411
+selection: >-
+  Triage-006's formal_route, entries 16–20 in the order handed down:
+  THEORY-280, THEORY-289, THEORY-344, THEORY-387, THEORY-019. Batch 020's
+  sort rule first; the warrant rule (ADR-043 v2) does not apply to THEORYs.
+reviewed: [THEORY-280, THEORY-289, THEORY-344, THEORY-387, THEORY-019]
+sort:
+  THEORY-280: theorem, re-derivation against the source's App. A and C
+  THEORY-289: theorem, re-derivation
+  THEORY-344: report of a conjecture, with the record's analytic reading
+  THEORY-387: report of a stated theorem whose proof the record lacked; re-derivation
+  THEORY-019: theorem, but the record's own assembly (ADR-032)
+outcomes:
+  narrow-and-promote: [THEORY-280, THEORY-289, THEORY-387]
+  retain-proposed: [THEORY-344]
+  needs-correction: [THEORY-019]
+yield: 3 of 5 found a promotion path; THEORY-019 needs re-filing as a CLAIM; THEORY-344 waits on the owner's report-title ruling
+rubric_vs_outcome:
+  - code: THEORY-280
+    formal_score: 3
+    outcome: narrow-and-promote
+    mattered: The sampling model and the probability 1 − δ, missing from the title; a misread radius in NOTE-763.
+  - code: THEORY-289
+    formal_score: 3
+    outcome: narrow-and-promote
+    mattered: "\"Bounds at\" for a strict, rising bound; the Gaussian design the expectation needs."
+  - code: THEORY-344
+    formal_score: 3
+    outcome: retain-proposed
+    mattered: A report title; the flag fired on the paper's inequalities, which the title says prove nothing.
+  - code: THEORY-387
+    formal_score: 3
+    outcome: narrow-and-promote
+    mattered: The proof was unseen, but a short induction supplies it for positive programs.
+  - code: THEORY-019
+    formal_score: 3
+    outcome: needs-correction
+    mattered: Derives, but "this document puts that together" (ADR-032), as THEORY-080.
+promotion_prs:
+  - "#239: THEORY-280, THEORY-289 and THEORY-387 narrowed and promoted (branch claude/promote-theories-280-289-387)."
+notes_for_ledger:
+  - >-
+    Triage-006's formal_route 16–20 went 3 of 5 to promotion, with every
+    title in the band re-deriving; the two misses are a report title
+    (THEORY-344, the owner's open question) and the record's own synthesis
+    (THEORY-019, the THEORY-080 pattern). Entries 1–20 now stand at 15 of 20.
+  - >-
+    A title that reports "is stated" with the proof elsewhere (THEORY-387)
+    is a theorem in waiting: if the record can re-derive the stated result,
+    narrow the title to assert it for the case re-derived and move the rest
+    to a QUESTION, rather than holding it as a report.
+  - >-
+    NOTE-763 misreads the dual radii of Calo et al. as (1−γ)/6 and (1−γ)/2;
+    they are 6/(1−γ) and 2/(1−γ). Fractions extracted by pdftotext -layout
+    lose their bar; check a radius or step size against the lemma that uses
+    it before transcribing it.
+  - >-
+    THEORY-019 joins THEORY-080: two derived results filed as THEORYs that
+    the record assembled itself. Both corrections can go in one PR filing two
+    demonstrated CLAIMs.
+owner_questions:
+  - >-
+    THEORY-344 is a pure case of the report-title question (batch 032,
+    THEORY-351; batch 041, THEORY-071 and THEORY-628): its title says what a
+    paper conjectures and fails to show, and every clause checks. One ruling
+    settles all four.

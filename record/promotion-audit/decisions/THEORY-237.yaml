@@ -1,0 +1,65 @@
+# record/promotion-audit/decisions/THEORY-237.yaml
+id: THEORY-237
+batch: batch-043
+reviewed: '2026-10-19'
+reviewed_revision: 651753a0
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+scope:
+  accepted: >-
+    The promote_when asked for a read derivation of the optimal InfoNCE
+    critic, with its conditions on the negatives. Re-derived here
+    (ADR-047 v2), with the other members, assuming the joint P and the
+    product of marginals Q are mutually absolutely continuous; r = dP/dQ =
+    p(x|y)/p(x).
+      (1) UBA. I_UBA(f) = I − E_y KL(p(x|y) ‖ p(x)e^f/Z(y)), so it equals I
+          exactly when f = log r + c(y), with c(y) = log Z(y) free.
+      (2) DV. I_DV = E_P f − log E_Q e^f = I_UBA − (log E_y Z(y) −
+          E_y log Z(y)). Jensen is an equality iff Z(y) is constant, so
+          with (1) I_DV = I exactly when f = log r + c, c a constant.
+          MINE maximizes this bound.
+      (3) TUBA and NWJ. log Z ≤ Z/a + log a − 1 gives I_TUBA ≤ I_UBA, an
+          equality iff a(y) = Z(y). With a ≡ e (NWJ), the objective
+          E_P f − e^{−1}E_Q e^f is strictly concave pointwise, with the unique
+          maximizer f = 1 + log r, where it equals 1 + I − 1 = I.
+      (4) InfoNCE as NWJ. With x₁ ∼ p(x|y) and negatives x₂…x_K i.i.d. p(x)
+          independent of (x₁, y), I(X_(1:K); Y) = I(X; Y). NWJ with critic
+          1 + log(e^{f(x₁,y)}/m), m = (1/K)Σ_k e^{f(x_k,y)}, gives
+          1 + E log(e^{f(x₁,y)}/m) − E_Q[e^{f(x₁,y)}/m]. Under Q every x_k is
+          i.i.d. p(x) and independent of y, so the last expectation is
+          (1/K)·K = 1 by symmetry. That leaves I_NCE ≤ I, and I_NCE ≤ log K.
+      (5) The InfoNCE optimum. Place the positive at a uniform index J.
+          Then I_NCE = log K + E log softmax_J(f(x_k, y)), and the posterior
+          is P(J = j | y, x_(1:K)) = r(x_j, y)/Σ_k r(x_k, y). The expected
+          log-likelihood of any predictor is at most that of the posterior
+          (Gibbs), with equality iff they agree a.s. Ratios across indices
+          j, l give f(x_j, y) − f(x_l, y) = log r(x_j, y) − log r(x_l, y)
+          for a.e. (y, x_j, x_l), so f − log r depends on y alone. So
+          InfoNCE's maximizers are exactly f = log r + c(y), whatever K ≥ 2.
+          The conditions on the negatives: i.i.d. from p(x), independent of
+          the positive and of y (for dependent batches see THEORY-006).
+          At the optimum I_NCE = log K + E log posterior_J, which is below I
+          whenever I > log K.
+    So each bound reaches its supremum over critics only at log r plus
+    the free term: a function of y for UBA, TUBA and InfoNCE; a constant
+    for DV; nothing beyond the +1 for NWJ. At that critic every member
+    but InfoNCE equals I.
+  excluded: >-
+    "Tight" read as "equal to the mutual information" for InfoNCE: its
+    supremum is generally below I and at most log K. The title is narrowed
+    to "attains its supremum", and says which members then equal I. Without
+    mutual absolute continuity the DV supremum is approached, not attained
+    (NOTE-828).
+evidence:
+  - "NOTE-739: read in full; Eqs. 1–11 and §2.6; the InfoNCE optimum cited to Ma & Collins, not derived."
+  - "NOTE-828: read in full; DV tight at the log Radon–Nikodym derivative plus a constant, attained only under mutual absolute continuity."
+blockers: []
+notes: >-
+  Batch 020's sort: theorems. The InfoNCE optimum is the classical
+  Bayes-optimal K-way classifier argument; the derivation needs only that
+  the negatives be i.i.d. from the marginal.
+unlocks: []
+next_action: >-
+  Narrow-and-promote with the derivations as a dated note; the body's
+  list of free terms gains the DV constant. No wider promote_when to move.

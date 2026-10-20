@@ -1241,3 +1241,123 @@ history note. THEORY-277 is requeued on this basis.
   change to its promote_when, premises or rival.
 - THEORY-080: the exact half is the record's own synthesis; file it as a
   demonstrated CLAIM (ADR-032) rather than promoting the THEORY.
+
+## 2026-10-19 — batch 046 (follow-ups)
+
+- A proof written the day before can contradict its own definition.
+  CLAIM-265's steps 2 and 4 applied maps to both descriptions while the
+  definition maps one onto the other. Recheck a fresh proof against its
+  stated definitions, not only its conclusion.
+- Stochastic maps are the class that makes "every pair is compatible" true
+  on a single context (the constant kernel); deterministic maps do not.
+  Use them for a vacuous-class example.
+- A record-own result split from a THEORY can be filed Active at once when
+  its proof is self-contained (CLAIM-370, CLAIM-tmprruzz); its decision
+  file is its review.
+- THEORY-162 joins THEORY-485 and THEORY-167 as entries whose next step is
+  a reading task, not a review. Track reading tasks separately from the
+  requeue list.
+
+## 2026-10-19 — batch 042 (wave 3, triage-006 formal 16-20)
+
+- Triage-006's formal_route 16–20 went 3 of 5 to promotion, with every
+  title in the band re-deriving; the two misses are a report title
+  (THEORY-344, the owner's open question) and the record's own synthesis
+  (THEORY-019, the THEORY-080 pattern). Entries 1–20 now stand at 15 of
+  20.
+- A title that reports "is stated" with the proof elsewhere (THEORY-387)
+  is a theorem in waiting: if the record can re-derive the stated result,
+  narrow the title to assert it for the case re-derived and move the rest
+  to a QUESTION, rather than holding it as a report.
+- NOTE-763 misreads the dual radii of Calo et al. as (1−γ)/6 and (1−γ)/2;
+  they are 6/(1−γ) and 2/(1−γ). Fractions extracted by pdftotext -layout
+  lose their bar; check a radius or step size against the lemma that uses
+  it before transcribing it.
+- THEORY-019 joins THEORY-080: two derived results filed as THEORYs that
+  the record assembled itself. Both corrections can go in one PR filing
+  two demonstrated CLAIMs.
+
+## 2026-10-19 — batch 045 (wave 3, triage-006 score-2 band)
+
+- The score-2 band went 5 of 5 under the batch 020 sort (8 of 10 with
+  batch 039). Queue the remaining 44 score-2 entries for wave 3 in batches
+  of five; do not re-derive by default, sort by title.
+- "Least total X over models" versus "sum of least X per part": the two
+  agree only when one model reaches every part's minimum at once. In
+  Contextuality-by-Default that is noncontextuality (THEORY-177). Check
+  any title that sums per-part minima.
+- When a title says a quantity "equals" another over a protocol, check
+  whether the source's identity is per step and the protocol result a
+  bound (THEORY-026).
+- When a kernel result holds because two kernels are proportional, the
+  proportionality is the theorem; state its setting (THEORY-294: one-
+  dimensional, zero bias, classes split by the origin).
+- A cheap simulation can stand beside an ADR-047 v3 promotion:
+  THEORY-253's two-task and rotated-quadratic results reproduced in
+  seconds.
+
+## 2026-10-19 — batch 044 (wave 3, score-3 and re-derivations)
+
+- Triage-006's score-3 band went 2 of 3 (318, 585), and the miss (083) is
+  the false-flag kind batch 037 named: end-state theorems quoted in the
+  body of an empirical claim. Its formal route is now exhausted; the
+  score-2 band should go to v3 review, as batch 039 advised.
+- A re-derivation can find the title wrong as well as unproved. In
+  THEORY-585 the source asserts the failure and the record had hedged it;
+  proving it showed the failure set is decided by a context's projections
+  (support on the first factor), not by whether the context factorises, so
+  the "only on V₁⊗ℂ1" clause was false (Bell-basis contexts agree).
+  Correct the title to what was proved, then promote.
+- Source proofs carry small errors worth recording in the decision: Lin et
+  al.'s Theorem 6 allows α ≠ 0 where its proof gives α > 0, and their
+  Theorem 10's probability is not derived; Goldwasser et al.'s App. C.1
+  computes τ(A_i) as if A_i ⊆ T. None changed a bound the record keeps,
+  but each changes what may be quoted.
+- The split pattern (ADR-040, THEORY-109) recurs for empirical conjectures
+  that cite toy-model theorems: THEORY-110 now, and the false flags batch
+  037 named. Check the cited theorems' proofs once, then split, rather
+  than re-reviewing the conjecture.
+- Queue: THEORY-083 requeued after a reading task (Figures 2–7 of
+  arXiv:2008.08186 into NOTE-476). THEORY-270 and THEORY-110 leave the
+  requeue list.
+
+## 2026-10-19 — batch 043 (wave 3, triage-006 score-3)
+
+- Triage-006's formal flag went 5 of 5 on the score-3 entries after the
+  top 20. Together with batches 036–038 that is 17 of 20 at score 3 or
+  more, against 1 of 5 for the score-2 control (batch 039).
+- A source that asserts a sufficiency theorem "by a similar proof" can
+  still be settled by re-derivation in one batch when the necessity proof
+  already computes the boundary condition: at equality the condition
+  becomes tangency (THEORY-189).
+- "Tight only for X" titles: test the claim at p = q and at other trivial
+  pairs; the intended reading is usually "for every pair" (THEORY-313).
+- "Tight" applied to a bound family that includes InfoNCE: InfoNCE's
+  supremum is at most log K and generally below I, so say "attains its
+  supremum" and name the members that then equal I (THEORY-237).
+- When a negative clause ("does not make the minimizer X") has a
+  promote_when that accepts a finite counterexample, a numerical
+  counterexample with many restarts settles it at medium confidence
+  (THEORY-305). Record the generating recipe in the decision file, since
+  scratch scripts do not survive the session.
+- Check every constant a body quotes against the source text: THEORY-189's
+  K ≤ 2ε/(1 − ε²) misread Eq. 25, which gives K ≤ ε/(1 − ε²).
+
+## 2026-10-19 — round 042-046 tally
+
+- Triage-006's formal route is exhausted: 17 of 20 at score 3 or more
+  promoted (batches 036-038, 042-044), against 1 of 5 for the score-2
+  control. But the score-2 band yields under ADR-047 v3 review: batch 045
+  went 5 of 5, so 8 of 10 across both samples. Only 3 of the 9 checked
+  score-2 entries were formal. Work through the remaining 44 by title.
+- Misses on the formal route fall into four recognisable kinds: a report
+  title (THEORY-344), the record's own synthesis (THEORY-019, -080, which
+  go to a demonstrated CLAIM under ADR-032), a theorem read only in outline
+  (THEORY-270, now re-derived), and an empirical conjecture citing toy-model
+  theorems (THEORY-083, -110; split the theorems out once checked).
+- A re-derivation can show a title false, not just unproved (THEORY-585,
+  -313, -237). Correct the title to what was proved, then promote.
+- Recheck a fresh proof against its own definitions: CLAIM-265's
+  day-old proof contradicted its definition and was repaired in #237.
+- Put the recipe for a numerical counterexample in the decision file;
+  scratch scripts do not survive the session.
