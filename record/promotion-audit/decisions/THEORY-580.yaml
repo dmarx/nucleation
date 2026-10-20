@@ -1,0 +1,79 @@
+# record/promotion-audit/decisions/THEORY-580.yaml
+id: THEORY-580
+batch: batch-055
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The promote_when asks for a full reading that follows the proofs of
+    Theorem 2.25 and Proposition 2.29 of Gogioso and Pinzani (2023,
+    arXiv 2303.09017v2, §2.10), or an independent proof. Both proofs were
+    read (§§2.10.11–2.10.18) and each step was checked against the
+    definitions they use, including the two the paper takes from its
+    companion, "The Topology of Causality" (arXiv 2303.07148).
+
+    (1) Theorem 2.19 (per context). A causal function on a lowerset λ is,
+    by definition (Topology, Eq. 9), an assignment of outputs at tip events
+    that is constant on each ∼ω class. So causal functions on λ correspond
+    one-to-one with free assignments ∏ω O_ω^TipEq_λ(ω) (Topology, Obs.
+    2.12: a quotient). Extended causal functions are the image of Ext,
+    which is injective because f(h)_ω is read off Ext(f)(k)_ω for any
+    extended k above h. Pushing distributions forward along a bijection
+    gives the convex-linear bijection d ↦ ⌈d⌉.
+
+    (2) Theorem 2.25 (all contexts). Injectivity and convex-linearity are
+    componentwise from (1). Surjectivity: given u in the causaltope, set
+    e_λ := ⌊u_λ⌋_λ. An empirical model is a compatible family:
+    e_λ|_{λ∩λ'} = e_λ'|_{λ∩λ'}. The causality equations range over every
+    lowerset μ ⊆ λ, λ', and λ ∩ λ' is a lowerset, so they include the needed
+    one. What remains is that restricting output distributions agrees with
+    restricting causal-function distributions:
+    ρ_{λ,μ}(⌈Ext f⌉) = ⌈Ext(f)|_μ⌉. This holds because every tip class in μ
+    lies in a tip class in λ (Lemma 2.20), so the output at a μ-class is the
+    output at the λ-class containing it. Then ⌈e_λ|_μ⌉ = ⌈e_λ'|_μ⌉, and (1)
+    applied to μ gives e_λ|_μ = e_λ'|_μ. The printed proof leaves that last
+    step, the injectivity of ⌈·⌉ on μ, implicit. It holds.
+
+    (3) The linear-program clause. The causal fraction in Θ' (Def. 2.14) is
+    the largest mass of v with 0 ≤ v ≤ u componentwise and v in the cone of
+    Caus_std(Θ'). That cone is cut out by the linear causality and
+    quasi-normalisation equations and v ≥ 0, so the fraction is an LP; over
+    a family of sub-spaces (Def. 2.15) it is an LP in one v per sub-space
+    with Σv ≤ u.
+
+    (4) Proposition 2.29. A separably local e_NC is the standard-cover
+    restriction of a classical model on separable causal functions.
+    Separable means arising from a causal function on some causally complete
+    Θ' ≤ Θ (Topology, Def. 2.9), and it suffices to consider the causal
+    completions (Topology, Obs. 2.6). Each such deterministic model lies in
+    Caus_std of a completion. So e_NC decomposes fully over the completions,
+    and scaling by p gives a causal decomposition of e of mass p. Hence
+    causally separable fraction ≥ separable local fraction.
+
+    (5) Relativity to the ambient space. Proposition 2.26 (the standard
+    causaltope of Θ lies inside that of any Θ' ≥ Θ with the same events,
+    inputs and maximal extended histories) follows from Proposition 2.22,
+    whose equations are indexed by extended histories, a superset for the
+    finer space. With Definition 2.16 taking causal completions of the given
+    Θ, separability is relative to Θ.
+  excluded: >-
+    Nothing is excluded from the title. The causally separable fraction is
+    defined (Def. 2.15) only when the sub-spaces share events, inputs and
+    maximal extended histories with Θ, which holds under free choice; the
+    lower bound is stated where the fraction is defined. The body notes
+    this. Conjecture 2.30 is not claimed.
+evidence:
+  - "LIT-788 (arXiv 2303.09017v2): Theorems 2.18, 2.19, 2.25; Definitions 2.12–2.16; Propositions 2.21, 2.22, 2.26, 2.29; proofs in §2.10.11–2.10.18, read in this review."
+  - "Gogioso & Pinzani, The Topology of Causality (arXiv 2303.07148): Eq. 9, Observation 2.12, Definition 2.9, Observation 2.6 (numbering of the current arXiv version)."
+blockers: []
+notes: >-
+  The basis was a skim (NOTE-624); this review reads the proofs, which is
+  what the promote_when asks, and a dated note is added to NOTE-624.
+  The proofs are short because the work is in the definitions; the one
+  gap found (injectivity on μ in 2.25) closes from Theorem 2.19.
+  Triage-006 scored it 2; it is formal in fact.

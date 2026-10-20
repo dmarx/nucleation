@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/THEORY-535.yaml
+id: THEORY-535
+batch: batch-055
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: theorem (a construction in quasi-set theory)
+formal_in_fact: true
+scope:
+  accepted: >-
+    The title is a possibility claim settled by a construction: that the
+    kinds and number of property-bundles can be stated in Krause's
+    quasi-set theory Q, with N indistinguishable particles a subqset of
+    quasi-cardinal N. It is formal, and would promote on a checked
+    construction (the half of the promote_when inside the title; the other
+    half, formalising states and actualization, the title excludes).
+  excluded: >-
+    No check was possible here. The construction (§6, pp. 19–22) needs Q's
+    axioms (French and Krause 2006) to verify that Q(B) := {x ∈ P(Q) | R(x)}
+    exists, that Choice gives it a member without labelling, and that a
+    subqset of quasi-cardinal N exists in it; NOTE-127 records errors in
+    Def. 6 and in Theorem 7's proof, and that R(x) quantifies over the
+    projector-properties as if they formed a classical collection. The
+    source could not be fetched: PhilSci-Archive 19725 failed TLS
+    verification from this environment and the Synthese version is
+    paywalled. A re-derivation from NOTE-127's summary alone would be the
+    record's own construction, not a check of the paper's.
+evidence:
+  - "NOTE-127 on LIT-107 (PhilSci-Archive 19725 preprint), as summarised in the THEORY body."
+blockers:
+  - "A reading task: the preprint's §§5–6 and the axioms of Q (French & Krause 2006, ch. 7), to check the bundle construction and the ∀Π quantification."
+notes: >-
+  Retained for want of the source, not on the merits. Requeue as a
+  reading task; with the text in hand it is a short check.

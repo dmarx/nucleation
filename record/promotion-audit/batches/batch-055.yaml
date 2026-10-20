@@ -1,0 +1,63 @@
+# record/promotion-audit/batches/batch-055.yaml
+batch: batch-055
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+selection: >-
+  Five of the 19 remaining unqueued entries triage-006 scores exactly 2
+  without the philosophical-title penalty (sorted codes, positions 11–15 of
+  the 19): THEORY-527, -535, -548, -580 and -660. Each is sorted by what its
+  title asserts (batch 020).
+reviewed: [THEORY-527, THEORY-535, THEORY-548, THEORY-580, THEORY-660]
+outcomes:
+  promote: [THEORY-580]
+  narrow-and-promote: [THEORY-527, THEORY-548]
+  retain-proposed: [THEORY-535, THEORY-660]
+yield: >-
+  3 of 5 have a promotion path. THEORY-580's proofs were read and checked
+  (its promote_when met in full). THEORY-548's delay half is re-derived and
+  its diversity half reproduced in simulation against an averaging null,
+  which it matches. THEORY-527's recovery theorem re-derives; the verdicts
+  argued from its definition leave the title. THEORY-535 waits on its
+  source; THEORY-660's thesis outruns its study.
+promotion_prs: []
+band:
+  - {code: THEORY-527, title_asserts: conditional theorem, formal_in_fact: true, outcome: narrow-and-promote}
+  - {code: THEORY-535, title_asserts: theorem, formal_in_fact: true, outcome: retain-proposed}
+  - {code: THEORY-548, title_asserts: theorem plus measurement, formal_in_fact: true, outcome: narrow-and-promote}
+  - {code: THEORY-580, title_asserts: theorem, formal_in_fact: true, outcome: promote}
+  - {code: THEORY-660, title_asserts: thesis plus measurement, formal_in_fact: false, outcome: retain-proposed}
+notes_for_ledger:
+  - >-
+    The score-2 band went 3 of 5 here; with batches 039, 045 and 047-051,
+    29 of 35. Four of the five are formal in fact. Sorting by title again
+    predicted every outcome.
+  - >-
+    A promote_when asking for a null comparison can be met inside the
+    review, and the answer can be "it is the null" (THEORY-548: community
+    variability falls with S exactly as summing independent oscillators
+    does). State that in the narrowed title rather than dropping the clause.
+  - >-
+    THEORY-548: τ_c is not set by the largest growth rate alone, as NOTE-061
+    inferred; from S = 40 up its correlation with π/(2 max r) is about 0.2,
+    and τ_c falls below that bound. Worth a dated note on NOTE-061 when it
+    is next touched.
+  - >-
+    A short printed proof can rest on definitions in a companion paper
+    (THEORY-580 on "The Topology of Causality"); fetch the companion and
+    check the definitions, and note that its numbering differs by arXiv
+    version.
+  - >-
+    THEORY-527 is the third conditional theorem promoted with its
+    promote_when moved to a QUESTION (after THEORY-185 and -133). Verdicts
+    argued in prose from a definition are not consequences a review can
+    check; drop them from the title.
+  - >-
+    PhilSci-Archive fails TLS verification from this environment
+    (THEORY-535); a reading task there needs another route to the text.
+owner_questions:
+  - >-
+    THEORY-527 joins THEORY-185 and -133 under the open question on
+    conditional theorems whose promote_when tests the antecedent. If the
+    ruling goes the other way, all three are held together.

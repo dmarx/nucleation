@@ -1,0 +1,78 @@
+# record/promotion-audit/decisions/THEORY-548.yaml
+id: THEORY-548
+batch: batch-055
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: theorem plus measurement
+formal_in_fact: true
+scope:
+  accepted: >-
+    Two halves, each checked here.
+
+    (1) The delay half, re-derived (ADR-047 v2). Saeedian et al. Eq. 12:
+    dx_i/dt = x_i(t)(r_i + Σ_j b_ij x_j(t − τ)), every interaction
+    (self-regulation included) delayed. At a feasible equilibrium
+    x* = −B⁻¹r the bracket vanishes, so the linearisation is
+    δx'(t) = J δx(t − τ) with J = diag(x*) B. On each eigenvector of J
+    with eigenvalue j: λ = j e^{−λτ}. A root on the imaginary axis,
+    λ = iω, needs ω = |j| and i e^{iωτ} = j/|j|, so
+    τ_j = (arg j − π/2)/|j| = arctan(|Re j|/|Im j|)/|j| for Re j < 0,
+    which is π/(2|j|) for real j. That is Eq. 14 with absolute values,
+    which settles the branch NOTE-061 flagged. At τ = 0 every root is j,
+    in the left half-plane; the extra roots of a retarded equation enter
+    from Re λ = −∞; so stability is first lost at τ_c = min_j τ_j.
+    Differentiating λ − j e^{−λτ} = 0 gives dλ/dτ = −λ²/(1 + λτ), and at
+    λ = iω, Re(dλ/dτ) = ω²/(1 + ω²τ²) > 0: the pair crosses
+    transversally, the Hopf condition. Whether the bifurcation is
+    supercritical (a stable cycle) is not derived; the paper and this
+    review see sustained oscillation numerically just past τ_c.
+
+    (2) The diversity half, reproduced and tested against a null. Design:
+    the paper's setting (d_B = 10, σ_B = 0.1, C = 1, r ~ U[0.05, 0.1],
+    resampling until x* > 0), Euler with dt = 0.05 and a ring-buffer
+    history started at x*(1 + 0.05 ξ), run to t = 4000 with t < 2000
+    discarded; S = 10, 20, …, 70; τ = 20 and 22; 20 realisations per point;
+    seeds 100S + τ. CV_c and CV_s as Eq. 15. Null: each species' series
+    independently and circularly time-shifted at random, then summed (20
+    shuffles per realisation). Onset check (S = 50): CV_c ≈ 2e−15 at τ = 12,
+    4e−4 at τ = 15 against τ_c,min = 15.1, 0.055 at τ = 18. Results
+    (mean ± sd over realisations):
+    τ = 20: CV_c 0.174±0.039 (S=10), 0.123 (20), 0.097 (30), 0.092 (40),
+    0.082 (50), 0.079 (60), 0.072±0.017 (70); CV_s 0.39 → 0.52;
+    CV_c/CV_null 0.82–0.98, each within one sd of 1.
+    τ = 22: CV_c 0.243±0.064 (S=10) … 0.103±0.024 (S=70); CV_s 0.55 → 0.70;
+    CV_c/CV_null 0.91–1.02. A dt = 0.02 rerun (S = 40, τ = 22) moved CV_c
+    from 0.123 to 0.119. So community variability falls with S and species
+    variability rises, as the paper reports, and the fall is what
+    summing independently oscillating species gives: CV_c√S stays about
+    0.55–0.60. The diversity–stability pattern here is statistical
+    averaging, not an ecological effect, which is the promote_when's own
+    criterion for reading it.
+
+    (3) A finding beyond the title. τ_c is not just π/(2 max r_i), as
+    NOTE-061 inferred: over 30 draws, mean τ_c = 16.3, 15.3, 14.6, 13.1 at
+    S = 10, 40, 70, 200 against π/(2 max r) = 16.4, 15.9, 15.9, 15.8, with
+    correlation 0.9 at S = 10 and about 0.2 from S = 40 up. So at larger S
+    the interactions, through Im j, set the critical delay.
+  excluded: >-
+    Excluded from the narrowed title: "globally stable" (only local
+    stability of x* enters the result); that the bifurcation is
+    supercritical in general; anything at weak self-regulation, where the
+    promote_when asks whether τ_c still falls with S; whether the
+    "divergent" phase past τ_c^C is real or an Euler artefact; any reading
+    of the CV pattern as ecological stabilisation. The first three and the
+    divergence question move to a new QUESTION.
+evidence:
+  - "LIT-057 (arXiv 2110.11914): Eqs. 12–15, Appendix C, Figs. 2–6, read in this review and in NOTE-061."
+  - "This review's derivation (scope.accepted 1) and simulation (scope.accepted 2–3); script design and every number above."
+blockers: []
+notes: >-
+  The promote_when asks two results. The diversity half (an averaging
+  null) is met here and comes out statistical, which the narrowed title
+  states. The delay half's requests concern claims the narrowed title
+  does not make, so they move to a new QUESTION. Confidence is medium
+  because the diversity half is one parameter setting, one integrator and
+  20 realisations per point.

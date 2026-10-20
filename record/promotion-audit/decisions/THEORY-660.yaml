@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/THEORY-660.yaml
+id: THEORY-660
+batch: batch-055
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+title_asserts: explanatory thesis plus model numerics plus measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    The title's main clause, that branching geometry "is set by" surface
+    minimisation, is an explanatory thesis. Under ADR-047 v3 the single
+    study (Meng et al. 2026, read in full with the SI in NOTE-075) would
+    have to measure it, and it does not: agreement is qualitative, real
+    motifs are 1.20–1.35 times Steiner length unexplained, and the
+    thresholds χ ≈ 0.83 and ρ ≈ 0.6 come from a local, penalised optimiser
+    on two symmetric motifs, not a proof or a global minimum.
+  excluded: >-
+    A narrowing to what was measured is hollow. The trifurcation excess is
+    partly made by the merging rule (two bifurcations within w/2π become
+    one), and the one robustness check moves P(λ → 0) 4.3-fold; the
+    sprouting breakpoints are chosen per dataset with no null. What
+    survives is "degree-4 nodes and non-120° angles occur in six 3D network
+    classes", which is not this account. The promote_when's three analyses
+    (no merging rule, the minimiser on random terminals, a breakpoint test
+    against a smooth model) are the work that would settle it and are
+    beyond a review.
+evidence:
+  - "THEORY-660 body and NOTE-075 on LIT-069."
+blockers:
+  - "Reanalysis of the skeletons without the merging rule; the surface minimiser on random terminal sets; a breakpoint test against Zamir-type cylinders."
+notes: >-
+  Retained. Its title asserts a mechanism the study's own robustness
+  checks do not support; it is the THEORY-110 shape (conjecture beyond
+  what was solved), but with nothing proved to split off.

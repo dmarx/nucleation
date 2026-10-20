@@ -1,0 +1,68 @@
+# record/promotion-audit/decisions/THEORY-527.yaml
+id: THEORY-527
+batch: batch-055
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: conditional theorem plus verdicts argued from a definition
+formal_in_fact: true
+scope:
+  accepted: >-
+    Theorem 1 of Kenton et al. (2022, arXiv 2208.08345v2, pp. 11–13),
+    re-derived step by step (ADR-047 v2), with Lemmas 1–2 checked against
+    the definitions they cite.
+
+    (1) Lemma 1 and Lemma 2. Leave-one-out discovery declares W → V when
+    some do(Y = y) on all other variables and two values of W change
+    P(V); that is the definition of a direct causal edge in an SCM, cyclic
+    or not. Algorithm 1 applies it to object and mechanism variables and
+    then tests terminality by Definition 3's condition (mechanism edge
+    W̃ → Ṽ that survives cutting W's children's dependence on W, and
+    disappears when V's children are cut). So it returns the correct
+    edge-labelled graph, given structural interventions on every node.
+
+    (2) Decisions, all and only. For D of agent A, Assumption 1 gives U of
+    A with a directed path p from D not through another utility of A.
+    Assumption 5 sets every node on p to copy D, U to 1 iff D = d₁, and
+    every other mechanism to ignore D, so A's other utilities are constant
+    in D. By Assumption 2 A then plays d₁; inverting U's mechanism makes
+    d₂ uniquely optimal, so lines 10–13 find (Ũ, D̃). With D cut from its
+    children every rule gives equal utility, and Assumption 3 forbids a
+    switch, so lines 14–17 keep it. A non-decision V may get an edge at
+    lines 10–13, but terminal edges into Ṽ exist only for decisions
+    (Assumption 4), and (1) labels terminality correctly, so 14–17 remove
+    it.
+
+    (3) Utilities, all and only. The construction in (2) gives (Ũ, D̃) for
+    every U of A. For a non-utility W with its children cut and every
+    mechanism but Ṽ fixed, W̃ can reach expected utility only through W,
+    whose children are cut; by Assumptions 2–3 no decision rule changes,
+    so W̃ gets no outgoing terminal edge.
+
+    (4) Colouring. The terminal edges are exactly the reversed edges of the
+    agent subgraphs; by Assumption 1 their weakly connected components are
+    the agents; Algorithm 2 colours components. So G_model = G_real.
+
+    The title's antecedent ("if agents are the systems that would adapt…")
+    is what makes "agent" in the theorem mean that definition; the
+    theorem itself does not test the definition.
+  excluded: >-
+    The verdicts on thermostats, design processes, RL training and learnt
+    policies leave the title. They are argued in prose from the definition
+    (§1, §4), relative to the variables chosen (§5.1), not derived in a
+    model the paper analyses, so they are not a consequence the review can
+    check. The body keeps them as the authors' arguments. The
+    promote_when's request, the procedure run on real systems and the
+    frame problem, concerns whether the definition picks out agency, which
+    the narrowed title does not assert; it moves to a new QUESTION.
+evidence:
+  - "LIT-909 (arXiv 2208.08345v2): Definitions 1–4, Lemmas 1–2, Algorithms 1–2, Assumptions 1–5, Theorem 1 and proof, read in this review and in NOTE-707."
+blockers: []
+notes: >-
+  This is the conditional-theorem pattern of THEORY-185 and THEORY-133
+  (the promote_when asks a test of the antecedent's adequacy that the
+  title, being conditional, does not assert). It is promoted on the same
+  footing and is held with them if the owner rules otherwise. Confidence
+  is medium for that reason; the theorem itself re-derives.
