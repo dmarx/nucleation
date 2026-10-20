@@ -19,7 +19,10 @@ yield: >-
   size, and a construction gives 3 + 2f. THEORY-368 is a single-study
   measurement under ADR-047 v3. THEORY-336's empirical clause is a
   review's report, and the primary studies are unread.
-promotion_prs: []
+promotion_prs:
+  - "#264: THEORY-332 (title corrected), THEORY-362 and THEORY-367 (narrowed) promoted; QUESTION-tmp7o5ig, QUESTION-tmpo255i (branch claude/promote-theories-332-362-367)."
+  - "#266: THEORY-368 narrowed and promoted; QUESTION-tmp9l9pn (branch claude/promote-theory-368)."
+
 band:
   - {code: THEORY-332, title_asserts: theorem, formal_in_fact: true, outcome: narrow-and-promote}
   - {code: THEORY-336, title_asserts: argument plus reported measurement, formal_in_fact: false, outcome: retain-proposed}
@@ -56,3 +59,8 @@ notes_for_ledger:
     such as Geisler (1989) or Banks, Geisler and Bennett (1987), and on the
     report-title ruling.
 owner_questions: []
+main_lint_note: >-
+  Main currently carries 4 lint violations from #246 and #247 (NOTE-981
+  title vs heading; THEORY-753 and THEORY-757 source LIT-000; THEORY-202
+  history ends at v2 but version 3). #266 branched after them, so its
+  docs-check will fail until main is fixed. #264 branched before them.
