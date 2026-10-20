@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**488 documents cited without acknowledgement.** Not listed: 10195 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**488 documents cited without acknowledgement.** Not listed: 10174 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -5834,9 +5834,9 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/notes.d/NOTE-970.md:41: annotation no longer applies — nothing in scope cites LIT-1252
 - record/notes.d/NOTE-973.md:37: annotation no longer applies — nothing in scope cites THEORY-747
-- record/notes.d/NOTE-984.md:44: annotation no longer applies — nothing in scope cites THEORY-744
+- record/notes.d/NOTE-988.md:52: annotation no longer applies — THEORY-163 is Active now
 - record/questions.d/QUESTION-217.md:34: annotation no longer applies — CLAIM-394, THEORY-775 is Active now
-- record/questions.d/QUESTION-220.md:33: annotation no longer applies — THEORY-163 is Active now
+- record/questions.d/QUESTION-220.md:32: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now
@@ -5847,5 +5847,7 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now
 - record/theory.d/THEORY-299.md:42: annotation no longer applies — QUESTION-148 is Active now
 - record/theory.d/THEORY-301.md:41: annotation no longer applies — THEORY-008 is Active now
-- record/theory.d/THEORY-751.md:50: annotation no longer applies — THEORY-163 is Active now
+- record/theory.d/THEORY-745.md:36: annotation no longer applies — THEORY-744 is Active now
+- record/theory.d/THEORY-751.md:48: annotation no longer applies — THEORY-163 is Active now
+- record/theory.d/THEORY-757.md:24: annotation no longer applies — THEORY-751 is Active now
 - record/theory.d/THEORY-771.md:64: annotation no longer applies — NOTE-1020 is Active now

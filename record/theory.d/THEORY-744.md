@@ -25,7 +25,7 @@ history:
     without boundary (the note below), which completes the interior
     derivation. The title now says "without boundary" and "minus the
     generator". The boundary rate and the semigroup limit move to
-    QUESTION-tmpwvrrh.
+    QUESTION-231.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -41,7 +41,7 @@ summary: >-
   without boundary the limit is derived in full, the kernel expansion
   included (re-derived on promotion, 2026-10-20). The paper's own α = 1/2
   display has a sign error. Its boundary rate and heat-kernel proof are
-  incomplete and are left to [QUESTION-tmpwvrrh](../questions.d/QUESTION-tmpwvrrh.md).
+  incomplete and are left to [QUESTION-231](../questions.d/QUESTION-231.md).
 ---
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading whose phrase is checked here -->
 <!-- inactive-ok-file: CLAIM-331 — Proposed; named for context, nothing here rests on it -->
@@ -178,7 +178,7 @@ embedding and not only on the intrinsic geometry. It cancels in step 4.
   operator recovers are the system's slow variables, which is one source
   of the timescale hierarchy that the claim's "characteristically" runs
   together.
-- **[QUESTION-tmpwvrrh](../questions.d/QUESTION-tmpwvrrh.md).** The boundary rate and the semigroup limit,
+- **[QUESTION-231](../questions.d/QUESTION-231.md).** The boundary rate and the semigroup limit,
   which the title no longer claims.
 
 ## Note of 2026-10-20: the kernel expansion, re-derived

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**732 document(s) awaiting a decision.**
+**730 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 732.
+92 of the 730.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-408 of the 732.
+406 of the 730.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -515,15 +515,13 @@
 | 2026-10-20 | Proposed | [THEORY-763](../../record/theory.d/THEORY-763.md) | 26 | 0 | For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on the periodic box, with velocity Hölder-continuous of exponent α in space and time, that vanishes outside a finite time interval; its energy is not conserved, so the energy flux across a mollification scale ε does not vanish as ε → 0, and it runs in both directions, out of the vanishing scales while the energy rises and into them while it falls |
 | 2026-10-20 | Proposed | [THEORY-771](../../record/theory.d/THEORY-771.md) | 21 | 0 | In a singularly perturbed system, fast states x̃ with dx̃/dt = f̃(x̃, y) + ε·δf and slow states y with dy/dt = ε·ḡ(y) + ε·δg, if f̃ is contracting in x̃ at rate β_f with x̃ = 0 an equilibrium for every y, ḡ is contracting at rate β_g, and |δf| ≤ d_f + α_f,x|x̃| + α_f,y|y|, |δg| ≤ d_g + α_g,x|x̃|, then for every ε below ε_c = β_f / [χ_f(α_f,x + χ_g α_f,y α_g,x / β_g)] the fast states stay within O(ε) of zero and, when d_g = 0, the slow states within O(ε) of the reduced trajectory, uniformly in time after a transient of order (1/β_f + 1/(εβ_g)) log(1/ε) |
 | 2026-10-20 | Proposed | [THEORY-777](../../record/theory.d/THEORY-777.md) | 12 | 0 | In Monte Carlo on a 64×64 periodic square-lattice Ising model at its critical point, parametrized by a field and 13 nearby couplings and observed only through the spins left after n checkerboard decimations (b = √2 per step, n ≤ 6), the two Fisher eigenvalues along the field and the gradient of T_c stay within a factor of about two of their microscopic values, while the others fall by up to about six decades, in three groups whose decay is consistent with b^(2y−d) per step for y = 0, −2 and −4 |
-| 2026-10-20 | Proposed | [THEORY-744](../../record/theory.d/THEORY-744.md) | 11 | 0 | As the kernel width ε goes to 0, Coifman and Lafon's α-normalized diffusion operator on data sampled with density q = e^{−U} from a compact manifold has generator Δf + 2(1 − α)⟨∇U, ∇f⟩, the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density |
 | 2026-10-20 | Proposed | [THEORY-772](../../record/theory.d/THEORY-772.md) | 11 | 0 | For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction's first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale |
-| 2026-10-20 | Proposed | [THEORY-751](../../record/theory.d/THEORY-751.md) | 10 | 0 | For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error |
 | 2026-10-20 | Proposed | [THEORY-759](../../record/theory.d/THEORY-759.md) | 7 | 0 | A six-layer, 256-unit ReLU network trained by full-batch Adam to regress a sum of sinusoids at 5 to 50 cycles on [0, 1] fits the components in order of frequency, and keeps that order when the amplitudes rise tenfold with frequency, so in this setting the order of acquisition is set by the learner and not by the strength of the target's components |
 | 2026-10-20 | Proposed | [THEORY-747](../../record/theory.d/THEORY-747.md) | 6 | 0 | In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian |
 
 ## ADRs
 
-2 of the 732.
+2 of the 730.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -532,7 +530,7 @@
 
 ## QUESTIONs
 
-9 of the 732.
+9 of the 730.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -548,7 +546,7 @@
 
 ## CLAIMs
 
-216 of the 732.
+216 of the 730.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -771,7 +769,7 @@
 
 ## CASEs
 
-1 of the 732.
+1 of the 730.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -779,7 +777,7 @@
 
 ## TERMs
 
-2 of the 732.
+2 of the 730.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -788,7 +786,7 @@
 
 ## ARGs
 
-2 of the 732.
+2 of the 730.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

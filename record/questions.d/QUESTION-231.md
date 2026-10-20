@@ -1,10 +1,13 @@
 ---
+number: 231
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpwvrrh
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Does Coifman and Lafon's α-normalized diffusion limit hold on a compact manifold with boundary, in L² on band-limited functions at a stated rate, and does the iterated operator P_{ε,α}^{t/ε} converge to the semigroup of the limit operator?"
@@ -28,7 +31,7 @@ summary: >-
 
 ---
 
-# QUESTION-tmpwvrrh: Does Coifman and Lafon's α-normalized diffusion limit hold on a compact manifold with boundary, in L² on band-limited functions at a stated rate, and does the iterated operator P_{ε,α}^{t/ε} converge to the semigroup of the limit operator?
+# QUESTION-231: Does Coifman and Lafon's α-normalized diffusion limit hold on a compact manifold with boundary, in L² on band-limited functions at a stated rate, and does the iterated operator P_{ε,α}^{t/ε} converge to the semigroup of the limit operator?
 
 ## Why it is a question
 
