@@ -25,7 +25,9 @@ answered_by:
 - CLAIM-388
 - CLAIM-386
 - CLAIM-390
+- THEORY-tmp5mn7l
 ---
+<!-- inactive-ok-file: THEORY-tmp5mn7l — Proposed; a trajectory-error rate, cited as partial -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-221: Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block's aggregate small to a stated order in ε, and is the converse false?
 
@@ -66,6 +68,15 @@ the long run, by coupling strength."
   - Still open: the aggregate's dynamical dependence itself, rather than
     the deterministic defect, and any bound over a horizon longer than one
     step. The open statement of Simon–Ando ([NOTE-977](../notes.d/NOTE-977.md)) gives no rate.
+  - A rate for trajectory error, not dependence: under contraction of the
+    fast modules and of the reduced slow system, and a small-gain
+    separation ε < ε_c, fast states stay O(ε) from quasi-steady values
+    and slow states O(ε) from the reduced trajectory, uniformly in time
+    after a transient (Bousquet and Slotine, [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md), Proposed).
+    It is deterministic. With that estimate the block sums' closure
+    defect ε·QCx̃ is O(ε²), matching [CLAIM-386](../claims.d/CLAIM-386.md)'s measured second order.
+    One numerical check in the reading, not a proof, put the transfer
+    entropy into block sums at second order in ε.
 
 ## What would count as an answer
 

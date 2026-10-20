@@ -1,0 +1,266 @@
+---
+status: Read
+paper: 'LIT-tmpjuu33'
+title: 'Bousquet and Slotine — Contraction and near-decomposability'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Read in full from arXiv:1512.08464v1 (28 December 2015, the only
+    version; 11 pages of text and three pages of figures). pdftotext
+    dropped every ε, so all pages with equations were read from page images
+    at 110 dpi: the introduction and worked example (pp. 2–4), Definition 1,
+    Lemmas 1–4 with proofs, Proposition 1 and Hypotheses 1–2, Theorem 1 and
+    Remarks 1–8 (pp. 4–10), the references, and Figs. 1–3 (axes and titles
+    only; the curves were not digitized). Re-derived here: (2) from (1), the
+    estimate (11) from (10), and ε_c in the worked example. Checked
+    numerically on two linear systems (scripts in the session scratchpad,
+    not in the record). No journal version exists to compare.
+date: '2026-10-20'
+summary: >-
+  Under contraction of the fast modules and of the reduced slow system,
+  and coupling terms bounded affinely in the off-manifold state, a
+  nearly decomposable system stays within O(ε) of its singular-perturbation
+  reduction, uniformly in time after a transient of order
+  (1/β_f + 1/(εβ_g)) log(1/ε), for ε below an explicit critical separation
+  ε_c. Deterministic trajectory error only. Remark 8 prints ε_c inverted,
+  and the slow-error bound needs an unstated d_g = 0.
+---
+<!-- inactive-ok-file: LIT-1127 LIT-tmpl8e6l — Unavailable; the works this one stands in for, nothing rests on them -->
+<!-- inactive-ok-file: THEORY-257 CLAIM-157 CLAIM-331 — Proposed; accounts and claims this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmp5mn7l — Proposed; the account filed from this reading -->
+
+# NOTE-tmpydsd3: Bousquet and Slotine — Contraction and near-decomposability
+
+## Contribution
+
+It turns Simon's near-decomposability into a singular-perturbation
+statement with explicit constants, for nonlinear systems. Before it, the
+open statements the record holds ([THEORY-661](../theory.d/THEORY-661.md), from [LIT-1241](../literature.d/LIT-1241.md)) gave the
+fast–slow separation for ε "small enough", with no rate. After it, under
+contraction hypotheses, the error of the reduced slow description is
+first order in ε for all later time, and there is a computable ceiling ε_c
+on the coupling below which this is guaranteed.
+
+## Key insight
+
+Contraction makes perturbation errors stop accumulating. If the fast
+modules forget their initial conditions at rate β_f and the reduced slow
+system forgets its own at rate εβ_g, then a perturbation of size ε in the
+fast equation costs O(ε/β_f) in the fast states, and the resulting
+disturbance ε·α_g,x|x̃| in the slow equation, divided by the slow rate
+εβ_g, costs O(ε) in the slow states, for ever. The loop between the two
+closes as a small-gain condition, and that condition is ε < ε_c.
+
+## Assumptions
+
+- **Singular-perturbation form (8)**, with time already scaled so that
+  the fast dynamics are O(1) and the slow ones O(ε):
+  dx̃/dt = f̃(x̃, y, u(εt)) + εδf, dy/dt = εḡ(y, u(εt)) + εδg. Reaching it
+  needs slow coordinates y with dy/dt = O(ε) and a unique quasi-steady
+  root x̄(y, u) of the fast equation (Remark 4). Both are assumed found.
+- **Contraction (Definition 1).** A metric M = ΘᵀΘ ≻ 0 with
+  Θ̇Θ⁻¹ + Θ∇fΘ⁻¹ ≼ −βI, and the condition number of Θ bounded by χ.
+  Partial contraction: contracting in x for any fixed path y(t).
+- **Hypothesis 2.** f̃ partially (χ_f, β_f)-contracting in x̃ with
+  f̃(0, y, u) = 0; ḡ (χ_g, β_g)-contracting; |ȳ(t)| ≤ M̄; u bounded;
+  |δf| ≤ d_f + α_f,x|x̃| + α_f,y|y|, |δg| ≤ d_g + α_g,x|x̃|;
+  ε(χ_f/β_f)(α_f,x + (χ_g/β_g)α_f,y α_g,x) < 1.
+- **Nonlinear, deterministic, continuous time.** No noise anywhere.
+  Smoothness "sufficient". Remark 3 says Hypothesis 2 holds for linear
+  systems and finite-gain L-stable perturbations.
+- **Invariants removed.** Systems with a conserved quantity are not
+  contracting. The worked example changes variables to remove total
+  energy first; the paper says some results survive without contraction
+  of ḡ if y is otherwise bounded (Remark 1), and that only the bound on
+  x̃ then survives.
+
+## Key results
+
+- **Lemma 1 (robustness, bounded disturbance).** For f β, χ-contracting,
+  |x(t) − x₀(t)| ≤ χ|x(0) − x₀(0)|e^{−βt} + χ‖d‖/β. Proof sketched along
+  virtual displacements δz = Θδx.
+- **Lemma 2 (finite-gain disturbance).** With |d| ≤ K₀ + K_x|x| and
+  K_x ≤ β/χ, |x − x₀| ≤ |x(0) − x₀(0)|χe^{−(β−χK_x)t} + χ(K₁ + K_x x₀₀)/(β − χK_x).
+  K₁ in the result is K₀ in the hypothesis, and K_x must be strictly below
+  β/χ.
+- **Proposition 1.** Under Hypothesis 1 the hierarchic reduced system
+  (fast x̃ driven by slow y) is contracting, in the metric
+  diag(ε^{1/2}νΘ_x, Θ_y) for ν small, by a Schur complement.
+- **Lemma 3.** Under Hypothesis 2, from (O(ε), y₀ + Δ):
+  M_x̃ ≤ [χ_f|x̃₀| + ε(χ_f/β_f)(d_f + α_f,y(M̄ + χ_g(|Δ| + d_g/β_g)))] / [1 − ε(χ_f/β_f)(α_f,x + (χ_g/β_g)α_f,y α_g,x)]
+  (11), so x̃ = O(ε) for all t, and |ỹ| ≤ χ_g|Δ|e^{−εβ_g t} + χ_g α_g,x M_x̃/β_g
+  "which becomes O(ε) after the transient". Re-derived: (11) follows from
+  (10). The final line drops a term χ_g d_g/β_g, which (10) carries and
+  which is O(1) unless d_g = 0.
+- **Lemma 4.** From any x̃₀, at t = log(1/ε)/β_f the state is
+  (O(ε), y₀ + O(εt)). *Holds when:* ε below some ε₁; the constant K is
+  not fully defined (the proof introduces K₁ and K₂ and then uses K).
+- **Theorem 1.** After a transient (1/β_f + 1/(εβ_g)) log(1/ε), the system
+  stays in an O(ε) neighbourhood of (0, ȳ); the explicit bound is (11).
+- **Remark 8.** "It is required that ε < (χ_f/β_f)(α_f,x + (χ_g/β_g)α_f,y α_g,x) = ε_c."
+  As printed this is the reciprocal of Hypothesis 2's condition. The
+  example's ε_c = √2/7 is the reciprocal form: with β_f = 1/2,
+  β_g = 1/4, α_f,x = √2/4, α_f,y = 3/4, α_g,x = √2/2 and χ = 1,
+  (1/β_f)(α_f,x + α_f,y α_g,x/β_g) = 7√2/2. For a cascade of modules the
+  paper "expects" τ_µ = (ε_c,µ ⋯ ε_c,M)τ_M, not proved.
+- **The building example (1)–(2), Figs. 1–3.** Two floors of two rooms,
+  conductances f inside floors and εg_i across. With f = g₁ = x + ½ sin x
+  and g₂ = −g₁/2 (a reversed air conditioner, so not passive): at
+  ε = 0.5ε_c the reduction holds; at 2.5ε_c there are several equilibria,
+  which the reduction does not foresee; at 5ε_c the system is "often
+  unstable". The figures were read for their titles and axes only.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Under Hypothesis 2, fast states stay O(ε) from the quasi-steady manifold for all time once they start O(ε) | strong | Lemma 3, (10)–(11); (11) re-derived here; rests on Lemma 1, sketched |
+| C2 | Under the same, the slow states stay O(ε) from the reduced trajectory after the slow transient | moderate: true when d_g = 0 or O(ε), not as stated | Lemma 3's last line, which omits d_g; the example sets d_g = 1 |
+| C3 | From any initial state, the system reaches and stays in an O(ε) neighbourhood of (0, ȳ) after (1/β_f + 1/(εβ_g)) log(1/ε) | moderate | Theorem 1 from Lemmas 3 and 4; Lemma 4's proof is loose |
+| C4 | ε_c gives a quantitative estimate of the timescale separation needed | strong as a sufficient condition; misprinted | Hypothesis 2; Remark 8 inverted; the example's √2/7 uses the correct form |
+| C5 | Above ε_c the reduction can fail qualitatively (multiple equilibria, instability) | moderate | one example, Figs. 2–3; ε_c is not shown to be sharp |
+| C6 | Simon's "aggregate way" means aggregation in time (through x̄(y)), not an ensemble aggregate of microstates | weak | Remarks 6–7, argued, not proved; Remark 7 "can be shown", not shown |
+| C7 | Separations compose multiplicatively down a cascade of modules | weak | Remark 8, "we expect" |
+| C8 | The analysis "quantifies and qualifies" existing results on near-decomposability | weak | no comparison with Simon–Ando or Ando–Fisher is made |
+
+## Method
+
+Write the system in singular-perturbation form (Remark 4); certify
+contraction of the fast modules (separately per module when f̃ factors,
+Remark 5, β_f = min β_i, χ_f = max χ_i) and of the reduced slow system in
+some metric; bound the coupling terms affinely; compute ε_c; apply
+Theorem 1.
+
+## Concepts
+
+- **Contracting system**: one whose trajectories converge to each other
+  exponentially, certified by a metric in which the symmetric generalized
+  Jacobian is uniformly negative definite. Stronger than stability of an
+  equilibrium; excludes conserved quantities.
+- **Partial contraction**: contraction in x for every fixed input path y(t).
+- **Finite-gain L-stable perturbation**: |d| ≤ K₀ + K_x|x|.
+- **Microstates / macrostates**: the fast x̃ (or x) and the slow y. The
+  macrostates are whatever coordinates are slow, here differences of
+  floor sums, not a fixed aggregation map.
+- **ε_c**: the largest separation of timescales for which Hypothesis 2's
+  small-gain condition holds.
+
+## Connections
+
+It builds on Del Vecchio and Slotine (IEEE TAC 2013) on contraction and
+singular perturbation, whose Lemma 1 needed δf bounded where this needs it
+only finite-gain (Remark 3); on Lohmiller and Slotine (1998) for
+contraction; and on Slotine (2003) for hierarchic contraction. It cites
+Simon (1962), [LIT-905](../literature.d/LIT-905.md), and neither Simon and Ando (1961, [LIT-1127](../literature.d/LIT-1127.md)) nor
+Ando and Fisher (1963, [LIT-tmpl8e6l](../literature.d/LIT-tmpl8e6l.md)). It does not compare its bounds with
+theirs or with Tikhonov's finite-horizon theorem, though uniformity in
+time is what it adds over the latter.
+
+## Bearing on the record
+
+- **[THEORY-661](../theory.d/THEORY-661.md).** It gives the rate [THEORY-661](../theory.d/THEORY-661.md) withdrew for want of a
+  source: first order in ε, for trajectory error, uniform in time after a
+  transient of order (1/β_f + 1/(εβ_g)) log(1/ε), under contraction of the
+  modules and of the reduced slow system. That is a different frame from
+  Simon–Ando (nonlinear, continuous time, contraction metrics) and it is
+  not their theorem. Recommended: [THEORY-661](../theory.d/THEORY-661.md)'s "What could have come out
+  otherwise" and Source sections cite [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md) for the rate, with
+  its hypotheses stated, and keep "no rate" for Simon–Ando's own statement.
+  Filed as [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md), Proposed: (11) was re-derived, but Lemma 1 and
+  Lemma 4 are sketches.
+- **[QUESTION-221](../questions.d/QUESTION-221.md).** Not answered. The paper is deterministic and bounds
+  distances between trajectories; it has no noise, no conditional
+  variance and no information measure. Its estimate does not transfer as
+  stated: with persistent noise x̃ is not O(ε). What does transfer is the
+  structure. In the linear case with y the block sums, the slow equation
+  is dy/dt = εQCVy + εQCx̃, so the part of the rest of the system that
+  reaches y beyond y itself is εQCx̃, a term of size ε times the
+  off-manifold state. That is [CLAIM-390](../claims.d/CLAIM-390.md)'s shape (dependence governed by
+  the incoming coupling times the variance of what y cannot see), now for
+  the aggregate. A numerical check of my own, not the paper's: in a VAR(1)
+  sampled from dx/dt = (A* + εC)x (three blocks of three, A* minus
+  symmetric Laplacians so the block sums are slow, symmetric C with a
+  leak, step 0.5, unit noise), the transfer entropy into the block sums,
+  with 80 lags of their past, was 5.5 × 10⁻⁴, 2.2 × 10⁻⁴, 7.2 × 10⁻⁵,
+  2.0 × 10⁻⁵ and 5.4 × 10⁻⁶ at ε = 0.2, 0.1, 0.05, 0.025, 0.0125; T/ε²
+  settled from 0.014 to 0.034. That is second order. It is one system, and
+  a proof for the aggregate is still what [QUESTION-221](../questions.d/QUESTION-221.md) asks for.
+  Recommended: [QUESTION-221](../questions.d/QUESTION-221.md)'s "What the record holds" names
+  [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md) as the trajectory-error rate and says it does not bound
+  dependence.
+- **[CLAIM-386](../claims.d/CLAIM-386.md).** Its post-transient orders rest on "the standard estimate
+  that post-transient states lie within O(ε) of the slow subspace, which
+  was not proved here." Lemma 3 is that estimate, under its hypotheses, in
+  continuous time. With it the slow variables' closure defect ε·δg is
+  ε·α_g,x·O(ε) = O(ε²) after the transient, against a drift of O(ε), which
+  is [CLAIM-386](../claims.d/CLAIM-386.md)'s measured second order in the equal-column-sum case. The
+  continuous-time form also explains why equal column sums matter: block
+  sums are slow coordinates (dy/dt = O(ε)) iff QA* = 0, every column of
+  each block summing to zero. Checked: in the linear examples the defect
+  ε|QCx̃| was 9.6 × 10⁻⁶, 5.6 × 10⁻⁵ and 2.0 × 10⁻⁴ at ε = 0.0074, 0.018
+  and 0.037 (slope about 2). [CLAIM-386](../claims.d/CLAIM-386.md) itself is discrete-time and
+  one-step, and is unchanged. Recommended: a note on [CLAIM-386](../claims.d/CLAIM-386.md) citing
+  [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md) for the estimate, in continuous time.
+- **[CLAIM-390](../claims.d/CLAIM-390.md).** No conflict: it bounds dependence of a block's full state
+  at second order in the incoming coupling; this bounds trajectory error
+  at first order. Note that α_f,y (the slow-to-fast gain) and α_g,x (the
+  fast-to-slow gain) enter ε_c only as a product, beside the fast
+  self-coupling α_f,x, so what must be small is the loop through the slow
+  variables, not each direction separately; [CLAIM-390](../claims.d/CLAIM-390.md) likewise needs only
+  the incoming coupling.
+- **[CLAIM-388](../claims.d/CLAIM-388.md) and [QUESTION-218](../questions.d/QUESTION-218.md).** The paper takes the slow coordinates as
+  given and does not test whether a block is needed. Remark 6 is the
+  relevant passage: the micro states influence the macro level and other
+  modules "through their quasi-steady values x̄_i", and only as a group "if
+  the coupling is not only weak … but also low rank", a property "quite
+  different from … connection strength". That is the record's distinction
+  between a weakly coupled block and a closed collective variable, stated
+  from the other side and not developed. Remark 7, that Simon's "aggregate
+  way" is aggregation in time, not an ensemble sum, bears on [QUESTION-222](../questions.d/QUESTION-222.md)
+  (averaging rather than projection) and is asserted, not shown.
+- **[CLAIM-331](../claims.d/CLAIM-331.md).** Remark 8's cascade estimate is the formal shape of
+  "higher levels are slower" and is only "expected".
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Remark 8's ε_c is inverted.** Hypothesis 2 and the example agree on
+  ε_c = β_f/[χ_f(α_f,x + χ_g α_f,y α_g,x/β_g)]; Remark 8 prints the
+  reciprocal.
+- **d_g.** Lemma 3's slow-error bound drops χ_g d_g/β_g. The conclusion
+  y − ȳ = O(ε) needs d_g = 0 (which the Remark 4 construction gives, since
+  δg(0, y) = 0) or d_g = O(ε). The worked example's constants include
+  d_g = 1, for which Lemma 3 as proved gives only an O(1) slow error; a
+  Lipschitz bound on g₁, g₂ would give d_g = 0 there.
+- **Equation (2).** From (1), δ̇_i = −f(2δ_i) + …, not −f(δ_i); the
+  example's β_f = 1/2 matches the printed −f(δ_i). With the correct
+  argument β_f would be 1, and ε_c larger, so the stated ε_c is still
+  sufficient.
+- **Proofs are sketches.** Lemma 1 cites the virtual-displacement
+  argument briefly; Lemma 4 leaves K undefined; Remark 7 "can be shown"
+  and is not. Lemma 2's K₁ should be K₀, and its K_x ≤ β/χ should be
+  strict. Hypothesis 1 asks F_y^s "bounded below" where boundedness of its
+  inverse is used.
+- **Sufficient, not sharp.** In five random non-passive linear couplings
+  the full system first lost stability at 2.8 to 47 times ε_c.
+- **One example**, with figures shown for one random set of initial
+  conditions per ε. No other system is worked.
+- **Deterministic and given coordinates.** No noise, no information
+  measure, no search for the partition or the slow variables.
+- **Unpublished.** Five pages of argument, never refereed as far as could
+  be found.
+
+## Open questions
+
+- With additive noise, is the transfer entropy into the slow variables
+  O(ε²) under Hypothesis 2, with a constant in β_f, β_g, the gains and the
+  noise covariance? The structure εQCx̃ and the check above suggest it;
+  that is [QUESTION-221](../questions.d/QUESTION-221.md).
+- How conservative is ε_c in general, and is there a matching necessary
+  condition (for instance a loss of contraction of the full system)?
+- Does the time-uniform bound extend to systems with conserved quantities
+  without the change of variables, as Simon–Ando's stochastic blocks need?
+  Remark 1 says only the x̃ bound survives.

@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpi1i5f
 paper: 'LIT-1255'
 title: "Isett — A proof of Onsager's conjecture"
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -30,6 +30,12 @@ history:
     redone by hand. The Annals text was not compared. Some displayed
     formulas were garbled by extraction and were read from the surrounding
     text.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The admissible version of Buckmaster, De Lellis, Székelyhidi and Vicol
+    is now read (NOTE-tmp18d5h, THEORY-tmpnvuqr); the places that called it
+    not held now cite it. The reading is unchanged.
 date: '2026-10-20'
 summary: >-
   The negative half of Onsager's conjecture. For every α < 1/3 there is a
@@ -44,6 +50,7 @@ summary: >-
   solutions gain energy and then lose it.
 ---
 <!-- inactive-ok-file: THEORY-763 — Proposed; the account this reading files, cited as its outcome -->
+<!-- inactive-ok-file: THEORY-tmpnvuqr — Proposed; the admissible version, cited as the later reading -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 CLAIM-331 CLAIM-327 — Proposed; entries named as not bearing, open -->
 # NOTE-974: Isett — A proof of Onsager's conjecture
 
@@ -188,8 +195,9 @@ Constantin, Friedlander and Shvydkoy (2008) for the endpoint space. The
 earliest non-uniqueness and non-conservation examples, in L² rather than
 Hölder classes, are Scheffer (1993) and Shnirelman (1997, 2000), and the
 paper suggests its gluing is related to Shnirelman's construction. Later
-work, named and not held: Buckmaster, De Lellis, Székelyhidi and Vicol
-(2019) for admissible, strictly dissipative solutions below 1/3.
+work: Buckmaster, De Lellis, Székelyhidi and Vicol (2019) for admissible,
+strictly dissipative solutions below 1/3, since read ([LIT-tmpv4d6t](../literature.d/LIT-tmpv4d6t.md),
+[NOTE-tmp18d5h](NOTE-tmp18d5h.md)).
 
 ## Bearing on the record
 
@@ -207,8 +215,9 @@ work, named and not held: Buckmaster, De Lellis, Székelyhidi and Vicol
   - *The surviving flux is not one-way.* These solutions are not
     admissible. Energy first comes out of the vanishing scales and later
     goes back in, so they show transfer across vanishing scales, not a
-    dissipative cascade. A one-way cascade needs Buckmaster, De Lellis,
-    Székelyhidi and Vicol (2019), not held.
+    dissipative cascade. A one-way transfer, for the whole box, is
+    Buckmaster, De Lellis, Székelyhidi and Vicol (2019), since read
+    ([THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md)).
   - *It is not about turbulence.* The solutions are constructed by convex
     integration, start from rest and are non-unique, and nothing ties them
     to vanishing-viscosity limits.
@@ -267,8 +276,9 @@ No instruction for machine-learning practice; nothing for the anthology.
 
 - Are there weak solutions below 1/3 whose energy only decreases, and is
   the surviving flux then one-signed at every time? Buckmaster, De Lellis,
-  Székelyhidi and Vicol (2019), not held, is the reading that would answer
-  the first part.
+  Székelyhidi and Vicol (2019) answer the first part yes ([THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md),
+  Proposed); the second, at every point in space, needs a local energy
+  inequality they do not prove.
 - Does any vanishing-viscosity limit of Navier–Stokes fall in this class
   with non-zero flux? Only a theorem about Navier–Stokes would settle it.
 - What does the record's flux question (A5's four conditions) say of a
