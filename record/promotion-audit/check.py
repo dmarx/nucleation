@@ -4,7 +4,7 @@
 The queue is hand-maintained, so it can drift from decisions/. This guards the
 property instead of the list (DP-2): every decided candidate has a decision
 file with the same disposition, every decision file is decided in the queue,
-and the per-wave counts are what the candidates say.
+the per-wave counts are what the candidates say, and every batch file parses.
 
     python3 record/promotion-audit/check.py            # exits 1 on any problem
 """
@@ -21,6 +21,11 @@ HERE = Path(__file__).parent
 def problems(root: Path = HERE) -> list[str]:
     queue = yaml.safe_load((root / "queue.yaml").read_text())
     found: list[str] = []
+    for p in sorted((root / "batches").glob("*.yaml")):
+        try:
+            yaml.safe_load(p.read_text())
+        except yaml.YAMLError as e:
+            found.append(f"batches/{p.name} does not parse: {str(e).splitlines()[0]}")
     files = {p.stem: yaml.safe_load(p.read_text()) for p in sorted((root / "decisions").glob("*.yaml"))}
     seen: set[str] = set()
     for c in queue.get("candidates") or []:

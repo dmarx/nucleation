@@ -12,7 +12,7 @@ yield: 3 Proposed THEORYs filed for 3 narrowed entries (all kind 1); THEORY-362 
   (no clause was dropped from their titles); no status changed.
 filed:
   THEORY-365:
-  - code: THEORY-tmp880z4
+  - code: THEORY-815
     kind: 1
     who_asserts: LIT-1098 (Malkov and Yashunin, complexity analysis and discussion; NOTE-916)
     answers: QUESTION-187
@@ -20,7 +20,7 @@ filed:
       dimension, and its own 200M SIFT measurement departs from a logarithm. Triage-008''s suggested title
       omitted that hedge.'
   THEORY-472:
-  - code: THEORY-tmpcgnmv
+  - code: THEORY-816
     kind: 1
     who_asserts: LIT-824 (Frank, Goodman, Lai and Tenenbaum; NOTE-627 claim C2 and key insight)
     answers: QUESTION-167
@@ -29,7 +29,7 @@ filed:
       The derivation half (size principle from an informative speaker) is already in the Active title,
       so only the learner-reasoning thesis is filed.
   THEORY-026:
-  - code: THEORY-tmprjbsb
+  - code: THEORY-817
     kind: 1
     who_asserts: 'LIT-041 (Fiderer et al., §I p. 2: "in the presence of feedback, maximally predictive
       agents are generally inefficient"; NOTE-032 claim C12)'
@@ -69,6 +69,6 @@ notes_for_ledger:
 - Triage-008's suggested titles can drop the source's own hedge (THEORY-365's low-dimension qualification).
   The filed title keeps it, because the paper's own high-dimensional measurement departs from the claim.
 - A new Proposed entry for one source can sit beside an earlier sweep entry with the same mechanism from
-  different sources (THEORY-tmpcgnmv beside THEORY-785); check for overlap before filing and say how they
+  different sources (THEORY-816 beside THEORY-785); check for overlap before filing and say how they
   differ in the body.
 owner_questions: []

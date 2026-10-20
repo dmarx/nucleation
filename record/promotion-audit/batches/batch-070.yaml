@@ -11,29 +11,29 @@ reviewed:
 yield: 5 Proposed THEORYs filed for 5 narrowed entries (all kind 1); none re-classified; no status changed.
 filed:
   THEORY-256:
-  - code: THEORY-tmpq57h3
+  - code: THEORY-808
     kind: 1
     who_asserts: LIT-986 (Shai et al., titled "Transformers learn factored representations"; NOTE-758 C2-C4)
     answers: QUESTION-157
     note: The architectural-bias inference (C5, weak) and persistence at convergence under strong noise (contradicted by Fig. 12) are left out of the title.
   THEORY-306:
-  - code: THEORY-tmp0gm1u
+  - code: THEORY-805
     kind: 1
     who_asserts: LIT-231 (Assran et al.; NOTE-850 C3, C4, C7, all weak)
     answers: QUESTION-171
   THEORY-255:
-  - code: THEORY-tmpnk0sx
+  - code: THEORY-807
     kind: 1
     who_asserts: LIT-934 (Aerts; NOTE-808 C5 emergent-subspace model, C6 two-layer reading)
     answers: QUESTION-156
     note: The old title's "need an emergent concept" as a consequence of Theorem 9 stays kind 3 (the theorem forces only dropping the meet or the monotone weight); Aerts's emergence reading is filed as his thesis, with a new promote_when, since the old one tested the record's generalization of Theorem 9, which the narrowed entry now carries.
   THEORY-270:
-  - code: THEORY-tmpliiy2
+  - code: THEORY-806
     kind: 1
     who_asserts: LIT-941 (Goldwasser, Gruber, Kalai and Paradise; framed by animal communication; NOTE-804 C1 strong, C3 weak beyond the models)
     answers: QUESTION-195
   THEORY-293:
-  - code: THEORY-tmptwk75
+  - code: THEORY-809
     kind: 1
     who_asserts: LIT-984 (Gu, Lyu, Li and Zhang; NOTE-796 C5, weak)
     answers: QUESTION-176

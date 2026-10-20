@@ -65,3 +65,10 @@ def test_more_than_one_in_review_fails(tmp_path):
     cands = [{"code": c, "wave": 1, "state": "in_review"} for c in ("CLAIM-002", "CLAIM-003")]
     root = ledger(tmp_path, cands, [])
     assert any("in_review" in p for p in problems(root))
+
+
+def test_unparseable_batch_file_fails(tmp_path):
+    root = ledger(tmp_path, [], [])
+    (root / "batches").mkdir()
+    (root / "batches" / "batch-001.yaml").write_text('note: "quoted" then more\n')
+    assert any("batches/batch-001.yaml does not parse" in p for p in problems(root))
