@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmp9u9qo
 paper: LIT-164
 title: 'Poltorak — Wave-function realism and causal closure'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-09-26'
@@ -16,6 +16,12 @@ history:
     Upgraded from `Skimmed` to `Read`: the claims table, assumptions and
     results are new, and the skim is corrected where the full text
     disagreed.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    A dated note under Bearing on the record: one of the cited accounts,
+    Chalmers and McQueen, has been read in part (NOTE-tmpoa1mw), and the
+    paper's representation of it checked. The reading is unchanged.
 date: '2026-09-26'
 summary: >-
   A closure principle has two tacit parameters, its domain and its
@@ -96,12 +102,21 @@ It bridges the wave-function cluster and the mental-causation and physicalism ma
 
 *Note of 2026-10-16:* [THEORY-485](../theory.d/THEORY-485.md) now cites [LIT-164](../literature.d/LIT-164.md) as a source.
 
+*Note of 2026-10-20:* of the three cited accounts, Chalmers and McQueen has
+now been read in part ([LIT-tmp0wmvt](../literature.d/LIT-tmp0wmvt.md), [NOTE-tmpoa1mw](NOTE-tmpoa1mw.md)). The paper's
+representation of it, as a mind-modified collapse law that is new dynamics
+and an explicit, testable rival hypothesis, is accurate. Those authors also
+argue that collapse is a gap in causal closure, and whether their law is
+fundamental physics is the criterion-of-the-physical problem in §7.2. Ney
+(2021) and Bikaraan-Behesht (2022) remain unread: neither has an
+open-access copy that Unpaywall, OpenAlex or Semantic Scholar know of.
+
 ## Limitations
 
 - By its own account (§8.4) it does not defend WFR, solve the macro-object problem, adjudicate among interpretations, treat QFT fully, supply a theory of causation, or establish physicalism or dualism.
 - The target is conceded to be a picture, not a published argument (p. 2, §7.1). That makes the positive contribution chiefly the parameter framework.
 - P7 is doing essential work and is asserted.
-- The representation of the cited literature (Chalmers and McQueen 2022, Bikaraan-Behesht 2022, Ney 2021) was not checked against the sources: unverified.
+- The representation of the cited literature was not checked against the sources when this was read. Chalmers and McQueen has since been checked (dated note of 2026-10-20); Bikaraan-Behesht 2022 and Ney 2021 remain unverified.
 
 ## Open questions
 
