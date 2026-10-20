@@ -1448,3 +1448,26 @@ history note. THEORY-277 is requeued on this basis.
   quoted 1.78).
 - Requeue THEORY-203 if THEORY-199 is promoted and the ν gap is explained
   or a second parameter set is measured.
+
+## 2026-10-19 — batch 047 (wave 3, score-2 band)
+
+- Score-2 band: 4 of 5 here, 12 of 15 across batches 039, 045 and 047. Two
+  of the four (THEORY-030, -133) were formal in fact and both titles were
+  false as written; the other two were measurements narrowed under ADR-047
+  v3. Keep sorting by title.
+- Landauer-type titles: with reversible joint dynamics of memory and
+  environment, the floor is on the logical entropy lost, H(X | f(X)), so
+  many-to-one maps on known data have no floor either. "Learning has no
+  minimum cost" is false in Goldt and Seifert's own framework; what has no
+  floor is the heat (THEORY-030).
+- Counterfactual "exactly when" titles: check that the precondition (the
+  higher-level property is a difference-maker) is in the title, and
+  whether the condition is "would" (all nearest worlds) or "might" (some)
+  (THEORY-133).
+- "Suitably arranged" in a determination result usually means a
+  connectivity condition; state it (THEORY-117: the seen-pair graph must
+  connect every value). A span condition needed for a classifier is not
+  needed for determining the embeddings.
+- THEORY-085's CFAC - KFAC identity is the record's own one-line algebra
+  (class-weighted); file it as a demonstrated CLAIM with THEORY-019 in the
+  next follow-up batch.

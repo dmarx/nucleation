@@ -1,0 +1,48 @@
+# record/promotion-audit/batches/batch-047.yaml
+batch: batch-047
+date: '2026-10-20'
+wave: 3
+class: triage-006 score-2 band (formal score 2, by title)
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+reviewed:
+  - THEORY-030
+  - THEORY-085
+  - THEORY-117
+  - THEORY-133
+  - THEORY-163
+yield: 4 of 5 promotion paths (THEORY-030, -117, -133, -163 narrowed and promoted); THEORY-085 retained
+promotion_prs:
+  - "#254: THEORY-030, -133 and -163 narrowed and promoted (branch claude/promote-theories-030-133-163)."
+  - "#258: THEORY-117 narrowed and promoted (branch claude/promote-theory-117)."
+notes_for_ledger:
+  - >-
+    Score-2 band: 4 of 5 here, 12 of 15 across batches 039, 045 and 047.
+    Two of the four (THEORY-030, -133) were formal in fact and both titles
+    were false as written; the other two were measurements narrowed under
+    ADR-047 v3. Keep sorting by title.
+  - >-
+    Landauer-type titles: with reversible joint dynamics of memory and
+    environment, the floor is on the logical entropy lost, H(X | f(X)), so
+    many-to-one maps on known data have no floor either. "Learning has no
+    minimum cost" is false in Goldt and Seifert's own framework; what has
+    no floor is the heat (THEORY-030).
+  - >-
+    Counterfactual "exactly when" titles: check that the precondition
+    (the higher-level property is a difference-maker) is in the title, and
+    whether the condition is "would" (all nearest worlds) or "might" (some)
+    (THEORY-133).
+  - >-
+    "Suitably arranged" in a determination result usually means a
+    connectivity condition; state it (THEORY-117: the seen-pair graph must
+    connect every value). A span condition needed for a classifier is not
+    needed for determining the embeddings.
+  - >-
+    THEORY-085's CFAC - KFAC identity is the record's own one-line algebra
+    (class-weighted); file it as a demonstrated CLAIM with THEORY-019 in
+    the next follow-up batch.
+owner_questions:
+  - >-
+    THEORY-133 is promoted on the THEORY-185 pattern (a theorem in a stated
+    framework whose promote_when asks for evidence about a particular
+    system; that request moved to a QUESTION). If the owner rules on
+    THEORY-185 the other way, THEORY-133 should be held with it.

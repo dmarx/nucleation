@@ -1,0 +1,80 @@
+# record/promotion-audit/decisions/THEORY-030.yaml
+id: THEORY-030
+batch: batch-047
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The promote_when asks for "a derivation, for stated dynamics, that a
+    many-to-one map of the logical state exports at least k ln 2 of
+    entropy per bit of lost distinguishability while a bijective step has
+    no positive floor". Re-derived here (ADR-047 v2).
+
+    Dynamics. A memory M (logical state X in a finite set, with internal
+    microstates) and an environment E (every non-information-bearing degree
+    of freedom, a heat bath among them). The joint microdynamics are
+    reversible: a permutation of a finite joint microstate space, or a
+    Liouville-measure-preserving flow, so the joint Gibbs-Shannon entropy
+    S(ME) is conserved. M and E start uncorrelated, and every logical state
+    has the same internal entropy s0 before and after (symmetric memory).
+
+    Step 1. S(ME)_after = S(ME)_before = S(M)_before + S(E)_before.
+    Step 2. Subadditivity: S(ME)_after <= S(M)_after + S(E)_after.
+    Step 3. So Delta S(E) >= -Delta S(M) = k [H(X_before) - H(X_after)],
+    the s0 terms cancelling (H in nats).
+    Step 4. A logical map f, X_after = f(X_before): H(X) - H(f(X)) =
+    H(X | f(X)) >= 0, the distinguishability lost. Erasing a uniform bit
+    loses ln 2, so Delta S(E) >= k ln 2. If E is a bath at temperature T,
+    that entropy arrives as heat Q >= kT ln 2; if not, nothing forces heat
+    (Bennett's "need not").
+    Step 5. f injective on the support (copy (x,0) -> (x,x); measurement
+    into a standard-state register; evaluation (x,0) -> (x,f(x))): H is
+    unchanged and the bound is Delta S(E) >= 0. It is attained: an
+    injective map on the support extends to a permutation of M's
+    microstates (CNOT for the copy, Toffoli for evaluation), applied with E
+    untouched, so Delta S(E) = 0 exactly. No positive floor.
+    Step 6. Many-to-one on known data (X deterministic, H = 0): the floor
+    is 0 too, matching Bennett's "merging known data wastes it" and
+    "erasing one of two copies known to be equal" costs nothing.
+
+    Learning (Goldt & Seifert, Eq. 16, N = P = 1 case): Horowitz's
+    subsystem second law, d/dt S(w) + Qdot - l(w; sigma_T) >= 0, integrated
+    from uncorrelated equilibrium (I = 0) gives Delta S(w) + Delta Q >=
+    I(w : sigma_T); data processing gives I(sigma_T : sigma) <= I(w :
+    sigma_T). So learning has a floor in total entropy production, not in
+    heat. NOTE-296 recomputed the toy model: at nu = 8, tau = 1e5, 0.6885
+    nats learnt for Delta Q = 0.0006 kT, Delta S(w) = 0.6931.
+  excluded: >-
+    "Learning it carries no minimum thermodynamic cost" is false as written:
+    Goldt & Seifert's own bound is a minimum, total entropy production at
+    least the information learnt. What has no floor is the heat. The title
+    is corrected to say so. Horowitz's inequality is cited, not derived
+    here, and holds to first order in 1/gamma (NOTE-296, C3). Landauer
+    1961 (LIT-328) is unread; the Earman-Norton charge of circularity is
+    not addressed by a derivation that assumes reversible microdynamics;
+    real hardware is out of scope.
+evidence:
+  - "This review's derivation (scope.accepted, steps 1-6), for reversible joint dynamics of memory and environment."
+  - "Bennett (2003), LIT-360, pp. 1-6, read in NOTE-310: the scope and the 'need not be heat'."
+  - "Goldt & Seifert (2017), LIT-308, Eq. 16 and Supp. II, read in full in NOTE-296, with the toy model recomputed."
+blockers: []
+notes: >-
+  Sorted as a theorem: the promote_when asks for a derivation, and the
+  title's first two clauses are one. The summary calls the convergence of
+  the three readings the record's synthesis, but the title's content is
+  Bennett's statement plus Goldt & Seifert's bound, each source-stated, so
+  ADR-032's CLAIM route does not apply. Triage-006 scored it 2; it is
+  formal in fact. A re-derivation found the learning clause false as
+  written (round 042-046 note: correct the title to what was proved, then
+  promote).
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the derived scope with the learning clause
+  corrected; add the derivation as a dated note. The open matters (Landauer
+  1961, Earman-Norton, a positive floor for a reversible step) move to a
+  new QUESTION.

@@ -1,0 +1,65 @@
+# record/promotion-audit/decisions/THEORY-133.yaml
+id: THEORY-133
+batch: batch-047
+reviewed: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: theorem within a stated framework
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived (ADR-047 v2) in List & Menzies's framework: F is a cause of
+    G iff F is a difference-maker for G, F []-> G and not-F []-> not-G,
+    with Lewis-Stalnaker counterfactuals (true iff the consequent holds at
+    all nearest antecedent-worlds), strong centering and the limit
+    assumption. At the actual world P (the realizer), F and G hold, and P
+    entails F, so not-F worlds are a subset of not-P worlds.
+
+    Centering makes F []-> G and P []-> G true, so F causes G iff not-F
+    []-> not-G, and P causes G iff not-P []-> not-G.
+
+    Theorem. Suppose F causes G. Then P is not a cause of G iff some
+    nearest not-P-world is an (F and not-P and G)-world: F realized
+    differently, G still there.
+    (if) Such a world is a nearest not-P-world where G holds, so not-P
+    []-> not-G fails.
+    (only if) If P is not a cause, some nearest not-P-world w has G.
+    Suppose w were a not-F-world. Since not-F is a subset of not-P, the
+    nearest not-F-worlds are no closer than the nearest not-P-worlds, so
+    w, at the not-P minimum distance, is a nearest not-F-world. Then not-F
+    []-> not-G puts not-G at w, a contradiction. So w is an
+    (F and not-P and G)-world.
+    Corollary. F and P are both causes iff every nearest not-P-world lacks
+    G; which case holds is settled by the system's counterfactual
+    structure, which nearest worlds there are, not by the levels.
+  excluded: >-
+    The title as written is false in two ways. It omits the precondition
+    that the higher-level property is itself a difference-maker (without
+    not-F []-> not-G, G surviving a change of realizer does not make F a
+    cause), and it says the effect "would still follow", where the
+    condition is that it does in some nearest situation. Both are
+    corrected. The source's claim that special-science relations are
+    typically realization-insensitive is an observation, not a theorem,
+    and stays out; so does any particular system (Pernu's dispute over the
+    neuroscience example).
+evidence:
+  - "List & Menzies (2009), LIT-722, read in full in NOTE-560 (definitions and theorem statements; proofs followed for structure)."
+  - "This review's derivation (scope.accepted), independent of the paper's appendix proofs."
+blockers: []
+notes: >-
+  Sorted as a theorem in a stated framework. The promote_when asks for
+  evidence about a particular system; the corrected title claims only the
+  framework result and that the answer is system by system, so that
+  request moves to a new QUESTION, the THEORY-324 and THEORY-185 move.
+  The owner's open question on THEORY-185 (conditional theorems whose
+  promote_when asks for the premise to be tested) bears on this one too.
+  Confidence is medium for that reason. CLAIM-158 and THEORY-410 cite the
+  criterion, not the "would" wording.
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the framework result with the difference-
+  making precondition and the "some nearest situation" condition; add the
+  derivation as a dated note; move the promote_when to a new QUESTION on
+  the distributed-agency line.

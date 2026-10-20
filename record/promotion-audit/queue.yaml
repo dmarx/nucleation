@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 138
+version: 139
 updated: '2026-10-19'
 record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
 procedure: record/decisions.d/ADR-047.md
@@ -41,8 +41,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 107
-  promotion_paths: 78
+  reviewed: 112
+  promotion_paths: 82
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -79,6 +79,10 @@ requeue:
   when: if THEORY-199 is promoted and the nu gap (1.89 vs 1.78) is explained or a second parameter set
     measured
   why: 'batch-049: scaling argument plus one figure collapse'
+- code: THEORY-085
+  when: next follow-up batch
+  why: 'batch-047: the class-weighted identity CFAC - KFAC is the record''s own algebra; file a demonstrated
+    CLAIM (ADR-032); the mechanism stays Proposed'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2891,6 +2895,49 @@ candidates:
   decision: decisions/THEORY-230.yaml
   carried_out_in:
   - '#257'
+- code: THEORY-030
+  wave: 3
+  triage: batch-047
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-047
+  decision: decisions/THEORY-030.yaml
+  carried_out_in:
+  - '#254'
+- code: THEORY-085
+  wave: 3
+  triage: batch-047
+  state: decided
+  disposition: retain-proposed
+  batch: batch-047
+  decision: decisions/THEORY-085.yaml
+- code: THEORY-117
+  wave: 3
+  triage: batch-047
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-047
+  decision: decisions/THEORY-117.yaml
+  carried_out_in:
+  - '#258'
+- code: THEORY-133
+  wave: 3
+  triage: batch-047
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-047
+  decision: decisions/THEORY-133.yaml
+  carried_out_in:
+  - '#254'
+- code: THEORY-163
+  wave: 3
+  triage: batch-047
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-047
+  decision: decisions/THEORY-163.yaml
+  carried_out_in:
+  - '#254'
 history:
 - version: 1
   date: '2026-10-19'
@@ -3426,4 +3473,8 @@ history:
     a single-study measurement (ADR-047 v3). THEORY-203 rests on a mean-field scaling argument whose exponent
     the record''s own recomputation does not reproduce.; carried_out_in #256, #257; THEORY-188 and -203
     requeued'
+- version: 139
+  date: '2026-10-19'
+  note: 'Batch 047 integrated: 4 of 5 promotion paths (THEORY-030, -117, -133, -163 narrowed and promoted);
+    THEORY-085 retained; carried_out_in #254, #258; THEORY-085 requeued'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
