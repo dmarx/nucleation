@@ -50,7 +50,6 @@ supports:
 objected_by:
 - CLAIM-238
 ---
-<!-- inactive-ok-file: CLAIM-265 — Proposed; the general form of a premise, filed under ADR-040, open -->
 <!-- inactive-ok-file: CLAIM-004 CLAIM-037 CLAIM-044 CLAIM-005 CLAIM-009 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: ARG-004 — Rejected; cited as the earlier use of the same analogy, which this claim does not revive -->
 
