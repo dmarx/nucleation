@@ -1,5 +1,8 @@
 ---
+number: 202
 status: Open
+formerly:
+- QUESTION-tmpybmwx
 title: 'Does neural collapse hold outside its first protocol, under augmentation, label noise, class imbalance and several seeds per setting, and does gradient descent on cross-entropy provably reach it?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   it, is open.
 ---
 
-# QUESTION-tmpybmwx: Does neural collapse hold outside its first protocol, under augmentation, label noise, class imbalance and several seeds per setting, and does gradient descent on cross-entropy provably reach it?
+# QUESTION-202: Does neural collapse hold outside its first protocol, under augmentation, label noise, class imbalance and several seeds per setting, and does gradient descent on cross-entropy provably reach it?
 
 ## Why it is a question
 

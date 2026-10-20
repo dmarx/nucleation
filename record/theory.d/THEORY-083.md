@@ -17,7 +17,7 @@ history:
     Fashion-MNIST, SVHN and CIFAR-10, and partial on ImageNet. The body's
     "monotone across all 21 cells" is corrected. The promote_when,
     replication outside this protocol and a gradient-descent derivation,
-    moves unchanged in substance to QUESTION-tmpybmwx.
+    moves unchanged in substance to QUESTION-202.
 tags:
 - representation-learning
 - learning-theory
@@ -166,4 +166,4 @@ disagrees on about a tenth of test examples. Several cells rise and fall
 after the terminal phase begins, and some of the largest drops coincide
 with the learning-rate cuts. The title is narrowed to these runs and to
 what they show. Whether collapse holds outside this protocol, and why
-training reaches it, is [QUESTION-tmpybmwx](../questions.d/QUESTION-tmpybmwx.md).
+training reaches it, is [QUESTION-202](../questions.d/QUESTION-202.md).

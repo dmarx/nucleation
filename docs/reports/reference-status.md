@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**496 documents cited without acknowledgement.** Not listed: 9599 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**496 documents cited without acknowledgement.** Not listed: 9553 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -4335,15 +4335,6 @@ Goals pursued for identified or intrinsic reasons receive more sustained effort,
 - [`record/questions.d/QUESTION-066.md:24`](../../record/questions.d/QUESTION-066.md)
 - [`record/questions.d/QUESTION-066.md:43`](../../record/questions.d/QUESTION-066.md)
 
-### [THEORY-083](../../record/theory.d/THEORY-083.md) — Proposed
-
-Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean
-
-2 citations in 1 file await a look; 45 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:56`](../../record/questions.d/QUESTION-051.md)
-
 ### [THEORY-085](../../record/theory.d/THEORY-085.md) — Proposed
 
 A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors
@@ -4351,7 +4342,7 @@ A classifier's class-driven Fisher outliers pair each class's feature mean with 
 2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:58`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:59`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-089](../../record/theory.d/THEORY-089.md) — Proposed
 
@@ -4432,7 +4423,7 @@ Under distribution shift the best layer for a linear readout lies below the top:
 2 citations in 1 file await a look; 9 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:57`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:58`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-105](../../record/theory.d/THEORY-105.md) — Proposed
 
@@ -4667,6 +4658,15 @@ Covert influence that exploits a person's decision-making vulnerabilities harms 
 
 - [`record/theory.d/THEORY-225.md:104`](../../record/theory.d/THEORY-225.md)
 - [`record/theory.d/THEORY-627.md:107`](../../record/theory.d/THEORY-627.md)
+
+### [THEORY-286](../../record/theory.d/THEORY-286.md) — Proposed
+
+Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows
+
+2 citations in 1 file await a look; 21 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-202.md:42`](../../record/questions.d/QUESTION-202.md)
+- [`record/questions.d/QUESTION-202.md:47`](../../record/questions.d/QUESTION-202.md)
 
 ### [THEORY-326](../../record/theory.d/THEORY-326.md) — Proposed
 
@@ -5920,6 +5920,7 @@ None. Every scanned file is checked. ✅
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-188.md:34: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-201.md:42: annotation no longer applies — QUESTION-025 is Active now
+- record/theory.d/THEORY-213.md:41: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
 - record/theory.d/THEORY-255.md:44: annotation no longer applies — nothing in scope cites LIT-316
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now
