@@ -22,7 +22,7 @@ history:
     The wider claim this account dropped when it was narrowed, that
     grokking's critical training fraction is where the training set fixes
     the representation, for addition at every group size, as the paper
-    proposes, is filed as the Proposed THEORY-tmplgh5u, which extends this
+    proposes, is filed as the Proposed THEORY-782, which extends this
     one (ADR-047 v4, narrowing-loss sweep, batch 068). Status and title
     are unchanged.
 tags:
@@ -45,9 +45,9 @@ summary: >-
 answers:
 - QUESTION-058
 extended_by:
-- THEORY-tmplgh5u
+- THEORY-782
 ---
-<!-- inactive-ok-file: THEORY-tmplgh5u — Proposed; the wider claim this account dropped, filed separately and cited as open -->
+<!-- inactive-ok-file: THEORY-782 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; named as the neighbouring account of the modular-addition circuit -->
 
@@ -154,7 +154,7 @@ the title no longer names it.
 
 When this account was narrowed, its wider form went nowhere a later result
 could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
-[THEORY-tmplgh5u](THEORY-tmplgh5u.md): that grokking's critical training fraction is where the
+[THEORY-782](THEORY-782.md): that grokking's critical training fraction is where the
 training set fixes the representation, for addition at every group size,
 as the paper proposes. This account is that one's evidence, and nothing
 here changes.

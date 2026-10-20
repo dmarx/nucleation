@@ -1,5 +1,8 @@
 ---
+number: 782
 status: Proposed
+formerly:
+- THEORY-tmplgh5u
 promote_when: >-
   What would settle it is the same toy (two learned embeddings summed and
   decoded, addition hard-coded) run at several group sizes p. For each
@@ -38,7 +41,7 @@ answers:
 - QUESTION-199
 ---
 
-# THEORY-tmplgh5u: In networks that learn addition from summed embeddings, the critical training fraction of grokking is the fraction at which the training set's same-answer pairs come to fix the generalising representation up to translation and scale, at every group size, as Liu, Kitouni, Nolte, Michaud, Tegmark and Williams propose
+# THEORY-782: In networks that learn addition from summed embeddings, the critical training fraction of grokking is the fraction at which the training set's same-answer pairs come to fix the generalising representation up to translation and scale, at every group size, as Liu, Kitouni, Nolte, Michaud, Tegmark and Williams propose
 
 ## Source
 

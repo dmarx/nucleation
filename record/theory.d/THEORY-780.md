@@ -1,5 +1,8 @@
 ---
+number: 780
 status: Proposed
+formerly:
+- THEORY-tmp0drff
 promote_when: >-
   An experiment in bacteria, read first-hand, in which a gene is perturbed
   transiently (for example by inducible CRISPR interference, then
@@ -39,7 +42,7 @@ answers:
 - QUESTION-172
 ---
 
-# THEORY-tmp0drff: Transcriptional regulation alone can give a bacterium's gene expression a memory: in E. coli, a transient knockdown or overexpression of one regulator, with the environment held fixed, can leave other genes in a different self-maintaining expression state after it is released, as Zhao, Wytock, Reynolds and Motter predict from a Boolean-network model of its regulatory core
+# THEORY-780: Transcriptional regulation alone can give a bacterium's gene expression a memory: in E. coli, a transient knockdown or overexpression of one regulator, with the environment held fixed, can leave other genes in a different self-maintaining expression state after it is released, as Zhao, Wytock, Reynolds and Motter predict from a Boolean-network model of its regulatory core
 
 ## Source
 

@@ -1,5 +1,8 @@
 ---
+number: 783
 status: Proposed
+formerly:
+- THEORY-tmpnt3o1
 promote_when: >-
   An analysis of sign descent, or of Adam at small β, on a sum of
   frequency-weighted quadratic losses whose eigendirections are not
@@ -34,7 +37,7 @@ answers:
 - QUESTION-193
 ---
 
-# THEORY-tmpnt3o1: In neural-network training, sign-descent-like optimizers such as Adam make independent skills of unequal frequency compete for coordinate signs, so that they are learned one after another where gradient descent would learn them together; this is one source of sequential skill onset, beside dependence between skills, as Liu, Liu, Michaud, Gore and Tegmark propose
+# THEORY-783: In neural-network training, sign-descent-like optimizers such as Adam make independent skills of unequal frequency compete for coordinate signs, so that they are learned one after another where gradient descent would learn them together; this is one source of sequential skill onset, beside dependence between skills, as Liu, Liu, Michaud, Gore and Tegmark propose
 
 ## Source
 

@@ -20,7 +20,7 @@ summary: >-
   nucleating-argument line because [CLAIM-184](../claims.d/CLAIM-184.md), the claim that grounds on
   [THEORY-178](../theory.d/THEORY-178.md), reads it as evidence about what a lasting state needs.
 answered_by:
-- THEORY-tmp0drff
+- THEORY-780
 ---
 
 # QUESTION-172: Does a transient change to one regulator, released with the environment held fixed, leave a bacterium's other genes in a changed expression state for many generations once slow return is excluded?

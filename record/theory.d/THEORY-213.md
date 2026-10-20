@@ -48,9 +48,9 @@ summary: >-
   Promoted on 2026-10-20 on the exact half, re-derived. The SGD half is
   QUESTION-206.
 extended_by:
-- THEORY-tmp43jo4
+- THEORY-781
 ---
-<!-- inactive-ok-file: THEORY-tmp43jo4 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
+<!-- inactive-ok-file: THEORY-781 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
 
 # THEORY-213: Every mirror symmetry of a network's per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss's Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons
@@ -145,7 +145,7 @@ neurons is a reflection across θ_a − θ_b, whose subspace is θ_a = θ_b.
 
 When this account was narrowed, its wider form went nowhere a later result
 could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
-[THEORY-tmp43jo4](THEORY-tmp43jo4.md): that strong SGD noise makes a mirror's subspace
+[THEORY-781](THEORY-781.md): that strong SGD noise makes a mirror's subspace
 attracting even at a saddle, giving sparsity, low rank and identical
 neurons in SGD-trained networks, as the paper argues. This account is that
 one's evidence, and nothing here changes.

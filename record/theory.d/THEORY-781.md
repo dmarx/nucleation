@@ -1,5 +1,8 @@
 ---
+number: 781
 status: Proposed
+formerly:
+- THEORY-tmp43jo4
 promote_when: >-
   The SGD half shown beyond the second-order, diagonal-Hessian argument,
   or measured in a trained network. What would promote: a network with a
@@ -35,7 +38,7 @@ answers:
 - QUESTION-206
 ---
 
-# THEORY-tmp43jo4: Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes
+# THEORY-781: Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes
 
 ## Source
 

@@ -19,7 +19,7 @@ summary: >-
   show the exponent for the horizon reason was the old promote_when, and
   it moves here.
 answered_by:
-- THEORY-tmpz9axt
+- THEORY-784
 ---
 
 # QUESTION-233: Do language models show the data-limited exponent γ/(2β) because data limits the usable horizon: does the exponent track γ/(2β) when one corpus statistic is moved and the other held, and does the match survive at horizons of thousands of tokens with γ estimated outside the model class?

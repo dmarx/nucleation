@@ -18,7 +18,7 @@ summary: >-
   size Liu et al. measured. The former promote_when asked for the
   multi-size test; this question holds it.
 answered_by:
-- THEORY-tmplgh5u
+- THEORY-782
 ---
 
 # QUESTION-199: Does the training fraction at which networks summing two learned embeddings generalise follow the fraction at which the training set's same-answer equations leave only translation and scale free, across group sizes?

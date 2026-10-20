@@ -1,5 +1,8 @@
 ---
+number: 784
 status: Proposed
+formerly:
+- THEORY-tmpz9axt
 promote_when: >-
   A result in which the data-limited exponent of a next-token learner is
   moved by changing one of the two corpus statistics while the other is
@@ -36,7 +39,7 @@ answers:
 - QUESTION-233
 ---
 
-# THEORY-tmpz9axt: Language models trained on limited data show a test loss falling as P^(−γ/(2β)) because P training tokens resolve token correlations only out to a horizon growing as P^(1/(2β)), so that more data mainly lengthens the context a model can use, when the model learns within that horizon faster than it grows, as Cagnetta, Raventós, Ganguli and Wyart propose
+# THEORY-784: Language models trained on limited data show a test loss falling as P^(−γ/(2β)) because P training tokens resolve token correlations only out to a horizon growing as P^(1/(2β)), so that more data mainly lengthens the context a model can use, when the model learns within that horizon faster than it grows, as Cagnetta, Raventós, Ganguli and Wyart propose
 
 ## Source
 

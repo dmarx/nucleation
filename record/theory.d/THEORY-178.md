@@ -23,7 +23,7 @@ history:
     The wider claim this account dropped when it was narrowed, that
     transcriptional regulation alone can give a bacterium's expression
     state a memory of a transient disturbance, as the paper predicts for
-    cells, is filed as the Proposed THEORY-tmp0drff, which extends this
+    cells, is filed as the Proposed THEORY-780, which extends this
     one (ADR-047 v4, narrowing-loss sweep, batch 068). Status and title
     are unchanged.
 tags:
@@ -47,9 +47,9 @@ summary: >-
 supports:
 - CLAIM-184
 extended_by:
-- THEORY-tmp0drff
+- THEORY-780
 ---
-<!-- inactive-ok-file: THEORY-tmp0drff — Proposed; the wider claim this account dropped, filed separately and cited as open -->
+<!-- inactive-ok-file: THEORY-780 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a neighbouring self-maintaining-loop account -->
 
@@ -154,7 +154,7 @@ condition as measured in this network.
 
 When this account was narrowed, its wider form went nowhere a later result
 could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
-[THEORY-tmp0drff](THEORY-tmp0drff.md): that transcriptional regulation alone can give a
+[THEORY-780](THEORY-780.md): that transcriptional regulation alone can give a
 bacterium's expression state a memory of a transient disturbance, as the
 paper predicts for cells. This account is that one's evidence, and nothing
 here changes.
