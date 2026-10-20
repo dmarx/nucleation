@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpxlzlq
 title: "In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -17,6 +17,14 @@ history:
     (dated note below), which makes "suitably arranged" exact: the seen
     pairs must connect every value. The promote_when moves to
     QUESTION-207.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 066, ADR-047 v4) filed
+    THEORY-tmpu18sx as a Proposed THEORY that extends this one, to carry
+    what the narrowing dropped: the general claim that diversity of
+    combinations, not data volume, drives compositional generalization
+    in vision models. This entry's status and title are unchanged.
 tags:
 - representation-learning
 - compositionality
@@ -39,7 +47,10 @@ summary: >-
   [QUESTION-207](../questions.d/QUESTION-207.md).
 answers:
 - QUESTION-025
+extended_by:
+- THEORY-tmpu18sx
 ---
+<!-- inactive-ok-file: THEORY-tmpu18sx — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 
 # THEORY-117: In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair
 
@@ -157,3 +168,11 @@ The arrangement in the paper's proof of Proposition B.7, the pairs (i, i), (i, i
 Connectivity is needed. If G has two components, adding a constant vector c to every a and subtracting it from every b in one component leaves every seen sum unchanged and changes every sum across the components. With k = 1 the seen pairs form a matching of n edges on 2n nodes, never connected for n ≥ 2.
 
 The paper's span condition (2n − 1 dimensions) is what its classifier statement needs, a linear readout correct on every unseen pair. That statement is not re-derived here and not claimed; this account claims only that the unseen embeddings are determined.
+
+## Note of 2026-10-20: the wider claim filed separately
+
+When this THEORY was narrowed to what its source showed, the wider claim
+it had stated was left with nowhere to go but this body and a QUESTION.
+Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-tmpu18sx](THEORY-tmpu18sx.md), which extends
+this one: the general claim that diversity of combinations, not data volume, drives compositional generalization in vision models. This entry is that THEORY's evidence and is not
+changed by it.

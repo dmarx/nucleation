@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpbaoyn
 title: "For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from a small initialization of common scale aligned with the top eigenvectors of the pairs' symmetrized cross-correlation learns them one at a time, in order of eigenvalue, and ends at a top spectral solution, which is exactly a minimum-norm zero-loss solution: kernel PCA on K_Γ"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,14 @@ history:
     are exact and the order is the eigenvalue order. Generic small
     initialization rests on Result 4.6, an informal derivation, and the
     former promote_when's request for its proof moves to QUESTION-175.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 066, ADR-047 v4) filed
+    THEORY-tmpqg47p as a Proposed THEORY that extends this one, to carry
+    what the narrowing dropped: the stepwise order from generic small
+    initialization, which the paper derives informally (Result 4.6).
+    This entry's status and title are unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -37,7 +45,10 @@ summary: >-
   not a consequence.
 answers:
 - QUESTION-039
+extended_by:
+- THEORY-tmpqg47p
 ---
+<!-- inactive-ok-file: THEORY-tmpqg47p — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-182 THEORY-186 QUESTION-039 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
 # THEORY-229: For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from a small initialization of common scale aligned with the top eigenvectors of the pairs' symmetrized cross-correlation learns them one at a time, in order of eigenvalue, and ends at a top spectral solution, which is exactly a minimum-norm zero-loss solution: kernel PCA on K_Γ
@@ -163,3 +174,11 @@ dW/dt = −4(WΓWᵀ − I)WΓ.
 From a generic small initialization, Simon et al. give only an informal
 derivation that the flow follows the aligned trajectory (Result 4.6).
 That is [QUESTION-175](../questions.d/QUESTION-175.md).
+
+## Note of 2026-10-20: the wider claim filed separately
+
+When this THEORY was narrowed to what its source showed, the wider claim
+it had stated was left with nowhere to go but this body and a QUESTION.
+Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-tmpqg47p](THEORY-tmpqg47p.md), which extends
+this one: the stepwise order from generic small initialization, which the paper derives informally (Result 4.6). This entry is that THEORY's evidence and is not
+changed by it.

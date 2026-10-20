@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpdsy58
 title: 'In the stochastic-differential-equation model of SGD, with a gradient-noise covariance that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however small the noise'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,14 @@ history:
     (ADR-047 v2). The promote_when asked for the law measured in a deep
     network on real data, which the body disclaims. It moves, unchanged, to
     QUESTION-164.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 066, ADR-047 v4) filed
+    THEORY-tmp12b36 as a Proposed THEORY that extends this one, to carry
+    what the narrowing dropped: the law of balance in deep networks
+    trained on real data, which the authors present as general. This
+    entry's status and title are unchanged.
 tags:
 - learning-theory
 - loss-landscapes
@@ -46,7 +54,10 @@ summary: >-
   whether it holds in deep networks on real data is QUESTION-164.
 supports:
 - CLAIM-093
+extended_by:
+- THEORY-tmp12b36
 ---
+<!-- inactive-ok-file: THEORY-tmp12b36 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-108 QUESTION-080 — Proposed or Open; the accounts and question this one is set beside, open -->
 
 # THEORY-211: In the stochastic-differential-equation model of SGD, with a gradient-noise covariance that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however small the noise
@@ -152,3 +163,11 @@ dθ = −∇L dt + √(TΣ(θ)) dW with T = η/S, and let J = ‖u‖² − ‖w
 Step 4 assumes the product has stopped moving, that is, stationarity of the
 loss-reducing motion. While M still moves, step 3 gives the drift but not
 convergence.
+
+## Note of 2026-10-20: the wider claim filed separately
+
+When this THEORY was narrowed to what its source showed, the wider claim
+it had stated was left with nowhere to go but this body and a QUESTION.
+Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-tmp12b36](THEORY-tmp12b36.md), which extends
+this one: the law of balance in deep networks trained on real data, which the authors present as general. This entry is that THEORY's evidence and is not
+changed by it.
