@@ -58,7 +58,7 @@ summary: >-
 answers:
 - QUESTION-052
 ---
-<!-- inactive-ok-file: THEORY-237 THEORY-227 — Proposed; the accounts filed from LIT-246 and LIT-247, named in Connections and not leaned on -->
+<!-- inactive-ok-file: THEORY-227 — Proposed; the accounts filed from LIT-246 and LIT-247, named in Connections and not leaned on -->
 
 # THEORY-006: InfoNCE is a lower bound on mutual information for every critic and can never exceed the log of the batch size
 

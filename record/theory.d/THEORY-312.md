@@ -35,7 +35,7 @@ summary: >-
   remainder's sign reversed). It does not say InfoNCE is HSIC, and it says
   nothing of the finite-batch estimator.
 ---
-<!-- inactive-ok-file: THEORY-001 THEORY-227 THEORY-237 — Proposed; the MMD reading of the same HSIC term, and the accounts of InfoNCE's optimum and of mutual information it is set beside -->
+<!-- inactive-ok-file: THEORY-001 THEORY-227 — Proposed; the MMD reading of the same HSIC term, and the accounts of InfoNCE's optimum and of mutual information it is set beside -->
 
 # THEORY-312: The large-batch InfoNCE loss is the negative HSIC between representations and image identity plus a nonnegative log-mean-exp of the centred critic, so it bounds a kernel dependence loss from above
 

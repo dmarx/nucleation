@@ -34,7 +34,6 @@ summary: >-
 <!-- inactive-ok-file: THEORY-039 — Proposed; the record's account of later training phases, which this reading bears on -->
 <!-- inactive-ok-file: LIT-370 — Proposed; the two-phase paper this one cites, named for the lineage -->
 <!-- inactive-ok-file: THEORY-112 — Proposed; the record's account of permutation symmetry in the loss landscape, named as a neighbour -->
-<!-- inactive-ok-file: THEORY-181 — Proposed; named because the paper links its second phase to grokking -->
 <!-- inactive-ok-file: THEORY-180 THEORY-182 — Proposed; named as the 2026-10-09 batch's accounts, on which this reading was checked for bearing -->
 
 # NOTE-663: Topological Invariance and Breakdown in Learning

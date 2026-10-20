@@ -1,24 +1,21 @@
 ---
 number: 181
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmps9ng8
-promote_when: >-
-  What would settle it is the same toy (two learned embeddings summed and
-  decoded, addition hard-coded) run at several group sizes p. For each
-  training set, it would have to report the nullity of the linear system
-  its same-answer pairs impose and whether the trained network generalises.
-  The claim holds if, at every p, full generalisation occurs with high
-  probability exactly on training sets of nullity 2, and the empirical
-  critical fraction follows the fraction at which nullity 2 becomes
-  likely. It is refuted by networks in that setting that generalise fully
-  on training sets of nullity above 2, or by a critical fraction that
-  departs from the nullity threshold as p grows. More single-size runs, or
-  pictures of structured embeddings in larger models, are the wrong kind
-  of evidence: they show structure, not that the training set's equations
-  are what fix it.
-title: 'In a model that decodes the sum of two learned embeddings, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free, and the critical training fraction is where that becomes likely'
-version: 1
+title: "In a model that decodes the sum of two learned embeddings, at zero training loss with an injective decoder, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free; for non-modular addition with p = 10 and one-dimensional embeddings, generalisation sets in near the training fraction, about 0.4, at which that becomes likely"
+version: 2
+history:
+- version: 2
+  date: '2026-10-19'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-181 (batch 043, ADR-047 v2 and v3). The theorem is re-derived
+    in the dated note below and the title names its model: zero training
+    loss and an injective decoder. The critical-fraction clause is held to
+    the one size Liu et al. measured, non-modular addition with p = 10 and
+    1D embeddings. The former promote_when, a test across sizes, moves to
+    QUESTION-tmp322q5.
 tags:
 - representation-learning
 - learning-theory
@@ -42,7 +39,7 @@ answers:
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; named as the neighbouring account of the modular-addition circuit -->
 
-# THEORY-181: In a model that decodes the sum of two learned embeddings, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free, and the critical training fraction is where that becomes likely
+# THEORY-181: In a model that decodes the sum of two learned embeddings, at zero training loss with an injective decoder, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free; for non-modular addition with p = 10 and one-dimensional embeddings, generalisation sets in near the training fraction, about 0.4, at which that becomes likely
 
 ## Source
 
@@ -109,3 +106,34 @@ characters of ℤ/p at a few frequencies. This THEORY is about why a
 training set suffices to fix a structured embedding at all, in a simpler
 model. Both put the group in the task and the architecture, not in
 anything the network discovers.
+
+## Note of 2026-10-19: the theorem re-derived, and the measurement held to one size
+
+The promotion audit (batch 043, [ADR-047](../decisions.d/ADR-047.md) v2 and v3) re-derived the theorem
+and held the measurement to what was measured.
+
+**The theorem.** The model is (a, b) ↦ Dec(E_a + E_b), with embeddings
+E_k ∈ R^m. At zero training loss with an injective decoder, two training
+pairs with the same answer, i + j = u + v, force E_i + E_j = E_u + E_v
+(Proposition 2: equal outputs, and Dec is injective). Each such equation
+is linear in (E_0, …, E_(p−1)) and acts on each of the m coordinates
+separately. Every solution space contains the constants (E_k = a) and the
+scalings (E_k = kb), since both make the sum depend on i + j alone. If the
+nullity is 2, the solutions are exactly E_k = a + kb with a, b ∈ R^m.
+Then E_i + E_j = 2a + (i + j)b depends on the answer alone, so every
+unseen pair whose answer occurs in training gets that answer's sum, which
+the decoder maps to the answer. That is the sense of "fixes the
+generalising representation": unique up to translation and scale. A pair
+whose answer no training pair has is not answered by the representation
+alone; the extreme sums 0 and 2p − 2 each come from one pair.
+
+**The measurement.** [NOTE-662](../notes.d/NOTE-662.md) read Liu et al. in full. For non-modular
+addition with p = 10 and one-dimensional embeddings, the probability that
+a random training set has nullity 2 jumps near a fraction of 0.4, a value
+the text states. The steps trained networks need to realise 95% of the
+parallelograms diverge at the same fraction (Fig. 4a–b). That is one study
+at one size, so the title is held to it ([ADR-047](../decisions.d/ADR-047.md) v3). That the critical
+fraction tracks the nullity threshold at other sizes, which the former
+promote_when asked, is [QUESTION-tmp322q5](../questions.d/QUESTION-tmp322q5.md). Power et al.'s critical fraction
+comes from a different task, modular arithmetic with a transformer, and
+the title no longer names it.
