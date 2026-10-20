@@ -28,3 +28,7 @@
   expectation.
 - The rubber hand THEORY on ownership as a graded belief notes that the
   cooling evidence its source cites is thinner than cited.
+- [THEORY-458](record/theory.d/THEORY-458.md) takes Kalckert & Ehrsson 2012 as a source and records one
+  refutation route as closed, subject to an expectation control. [THEORY-531](record/theory.d/THEORY-531.md)
+  notes that ordinary verdicts on Williams's two tellings do not follow
+  the person of the telling (Nichols & Bruno 2010).
