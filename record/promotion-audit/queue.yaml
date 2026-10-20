@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 143
+version: 144
 updated: '2026-10-19'
 record_revision: d20d032b
 procedure: record/decisions.d/ADR-047.md
@@ -42,8 +42,8 @@ waves:
   promotion_paths: 45
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 117
-  promotion_paths: 87
+  reviewed: 121
+  promotion_paths: 88
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -84,6 +84,10 @@ requeue:
   when: next follow-up batch
   why: 'batch-047: the class-weighted identity CFAC - KFAC is the record''s own algebra; file a demonstrated
     CLAIM (ADR-032); the mechanism stays Proposed'
+- code: THEORY-673
+  when: when wave 5 resumes
+  why: 'batch-056: an argument with the Price identity attached; decide in wave 5 whether to split the
+    identity off (ADR-040)'
 candidates:
 - code: CLAIM-264
   wave: 1
@@ -2984,6 +2988,36 @@ candidates:
   decision: decisions/THEORY-271.yaml
   carried_out_in:
   - '#250'
+- code: THEORY-671
+  wave: 3
+  triage: batch-056
+  state: decided
+  disposition: retain-proposed
+  batch: batch-056
+  decision: decisions/THEORY-671.yaml
+- code: THEORY-673
+  wave: 3
+  triage: batch-056
+  state: decided
+  disposition: retain-proposed
+  batch: batch-056
+  decision: decisions/THEORY-673.yaml
+- code: THEORY-675
+  wave: 3
+  triage: batch-056
+  state: decided
+  disposition: retain-proposed
+  batch: batch-056
+  decision: decisions/THEORY-675.yaml
+- code: THEORY-714
+  wave: 3
+  triage: batch-056
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-056
+  decision: decisions/THEORY-714.yaml
+  carried_out_in:
+  - '#263'
 history:
 - version: 1
   date: '2026-10-19'
@@ -3539,4 +3573,12 @@ history:
 - version: 143
   date: '2026-10-20'
   note: '#254 and #257 merged; round 047-052 complete.'
+- version: 144
+  date: '2026-10-19'
+  note: 'Batch 056 integrated: 1 of 4 has a promotion path. THEORY-714 is a theorem whose title is false
+    on one clause: I_ccs fails subset equality, though Ince''s proof says it holds, because the proof
+    cancels the co-information terms and never checks the sign condition. Corrected and promoted. THEORY-671
+    is an empirical principle with no derivation beyond the linear regime; THEORY-673 is an argument whose
+    first clause (the Price equation) re-derives; THEORY-675 is a measurement whose barriers are plots
+    only.; carried_out_in #263; THEORY-673 requeued to wave 5; THEORY-675 is an anthology candidate (owner)'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

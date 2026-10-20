@@ -1513,3 +1513,31 @@ history note. THEORY-277 is requeued on this basis.
 - With ten-odd PRs touching shared inactive-ok lines, conflicts recur after
   nearly every merge. resolve_directives handles most; a hunk where one side
   dropped a whole directive line needs a hand merge (keep the intersection).
+
+## 2026-10-19 — batch 056 (wave 3, score-2 band tail)
+
+- The score-2 band's tail went 1 of 4. The three misses are kinds the band
+  has shown before: an unsupported principle, an argument with a
+  derivation attached, and a measurement reported only in plots.
+- Re-derive a source's own proof of an axiom, not just its conclusion.
+  Ince's subset-equality proof is right about the co-information and
+  silent about the sign rule, which is what fails. Pointwise measures with
+  a sign condition need the condition checked in every property proof.
+- THEORY-673's first clause is the Price equation, which re-derives in
+  four lines. When the wave-5 review takes up the argument, decide whether
+  to split the identity off as its own Active THEORY (ADR-040).
+- THEORY-675 carries the anthology-candidate flag and is a loss-landscape
+  measurement; it is a candidate for the anthology rather than further
+  review here.
+- What remains unqueued in wave 3 (triage_wave3.py scoring against the
+  queue at 6759e51b, excluding this batch): 331 eligible entries. 15 are
+  still flagged formal at score 2 or more (THEORY-332, -336, -362, -367,
+  -368, -377, -380, -419, -459, -486, -527, -535, -548, -580, -660), which
+  are the remaining score-2 band. After them, 316 remain: 84 at formal
+  score 1, 224 at 0 and 8 at -1. Ten carry the philosophical-title
+  penalty, which misfired once (THEORY-290). The formal flag has nothing
+  left to rank, so a further pass is worth it only if it sorts by what the
+  title asserts. A triage-007 that tags each remaining title as theorem,
+  measurement or argument (with a fixed control sample), and queues the
+  measurement and theorem titles for ADR-047 v3 and v2 review, is the next
+  useful step; the score-2 band went 26 of 30 on exactly that sort.

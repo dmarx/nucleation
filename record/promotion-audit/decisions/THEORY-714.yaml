@@ -1,0 +1,106 @@
+# record/promotion-audit/decisions/THEORY-714.yaml
+id: THEORY-714
+batch: batch-056
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    Sorted as a theorem: the title states a definition and which axioms it
+    keeps and which it gives up. Re-derived here (ADR-047 v2) for the
+    definition as Ince states it (arXiv 1602.05063v3, Defs. 4.1-4.2, Eq.
+    30), read from the paper itself in this review. Write i(x;s) =
+    log p(s|x)/p(s) = Delta_s h(x), and c for the local co-information
+    c(a_1..a_n, s) = sum over nonempty T of (-1)^{|T|+1} i(a_T; s), all
+    under P-hat, the maximum-entropy joint with every Q(A_i, S) and
+    Q(A_1..A_n) fixed. I_ccs = sum p-hat c over events where
+    sgn i(a_1;s) = ... = sgn i(a_n;s) = sgn i(a_1..a_n;s) = sgn c, and 0
+    elsewhere.
+
+    Symmetry. c, the sign condition and the constraint set defining P-hat
+    are all invariant under permuting the sources.
+
+    Self-redundancy. For n = 1, c = i(a;s) and the sign condition is
+    trivially met, so I_ccs = sum p-hat i(a;s) = I(S;A), because P-hat
+    preserves Q(A,S) = P(A,S).
+
+    Independent identity (Eq. 22). Target S = (A_1, A_2) with
+    I(A_1;A_2) = 0. Every Q in the constraint set is supported on
+    s = (a_1, a_2) and has Q(A_1,A_2) = P(A_1,A_2), so P-hat = P. Then
+    i(a_1;s) = -log p(a_1), i(a_2;s) = -log p(a_2), i(a_1a_2;s) =
+    -log p(a_1,a_2) = -log p(a_1) - log p(a_2), so c = 0 pointwise and
+    I_ccs = 0.
+
+    Harder et al.'s identity fails. Same target, dependent sources: P-hat =
+    P again, the three local informations are -log p(a_1), -log p(a_2),
+    -log p(a_1,a_2), all >= 0, and c = i(a_1;a_2), the local mutual
+    information. Where it is negative the sign condition fails and the
+    event drops out, so I_ccs = sum p max(i(a_1;a_2), 0) >= I(A_1;A_2),
+    with equality only when no local mutual information is negative.
+    Example: p(a_1,a_2) = (0.4, 0.1; 0.2, 0.3) gives I_ccs = 0.3415 bit
+    against I(A_1;A_2) = 0.1245.
+
+    Monotonicity fails. Table 7, p(0,0,0) = 0.4, p(0,1,0) = 0.1,
+    p(1,1,1) = 0.5: P-hat = P, I(S;X_1) = 1, I(S;X_2) = 0.6100,
+    I_ccs({1}{2}) = 0.7685 > I(S;X_2), so the unique atom of X_2 is
+    -0.1585 and non-negative atoms fail.
+
+    Subset equality fails, though the paper (§4.4, Eqs. 39-41) says it is
+    satisfied. Its proof shows the co-information cancels,
+    c(..., a_{l-1}, a_l) = c(..., a_{l-1}) when A_{l-1} is a subset of A_l,
+    which is correct (terms with and without a_{l-1} pair off once a_l is
+    present). It does not check the sign condition, which still requires
+    sgn i(a_{l-1};s) = sgn i(a_l;s), and the coarser and finer sources can
+    disagree in sign. Counterexample, two sources A_1 = X_1 and
+    A_2 = (X_1, X_2), joint over (x_1, x_2, s) proportional to
+    (0,0,0) 0.2, (0,0,1) 0.05, (0,1,0) 0.05, (0,1,1) 0.2, (1,0,0) 0.3,
+    (1,0,1) 0.2: P-hat = P (A_2 determines A_1), and
+    I_ccs({1}{12}) = 0.0272 bit while I_ccs({1}) = I(S;X_1) = 0.0073 bit.
+    The events dropped are (0,0,0), where i(x_1;s) = -0.138 and
+    i(x_1x_2;s) = +0.541, and (0,0,1), +0.152 against -1.170.
+
+    Recipe: P-hat by iterative proportional fitting from the uniform
+    distribution over the three marginal constraints (5000 sweeps; the
+    fitted P-hat equalled P to machine precision in all four cases); local
+    informations in bits; the sign of 0 treated as 0. Every number above
+    was recomputed with that script, and Table 7 matches the paper and
+    NOTE-968.
+
+    The title is corrected to what holds: I_ccs, as defined, is symmetric
+    and self-redundant and satisfies the independent identity property;
+    it fails Harder et al.'s identity, monotonicity (so atoms can be
+    negative) and subset equality.
+  excluded: >-
+    "Can be measured as" (that I_ccs is a correct redundancy measure) is
+    dropped: it is the open dispute the promote_when names (continuity, an
+    operationally fixed redundancy, the source-source marginal), and moves
+    to a new QUESTION. So does the reading of negative atoms as local
+    misinformation and mechanistic redundancy, which the paper offers as
+    interpretation. The Gaussian section and continuity are not checked.
+    The subset-equality failure matters for the lattice: Ince argues that
+    subset equality, not monotonicity, is what licenses restricting the
+    redundancy function to antichains, and I_ccs as defined does not meet
+    it. Whether a modified sign rule (dropping the per-source condition
+    for sources contained in others) would restore it is not examined.
+evidence:
+  - "Ince (2017), LIT-1201, arXiv 1602.05063v3, Defs. 4.1-4.2 and §4.4 (Eqs. 36-41), read from the paper in this review; NOTE-968 for the examples."
+  - "This review's derivations and recomputations (scope.accepted), including the subset-equality counterexample."
+blockers: []
+notes: >-
+  Triage-006 scored it 2; it is formal in fact. A re-derivation found the
+  title false on one clause, the paper's own proof having missed the sign
+  condition (round 042-046 note: correct the title to what was proved,
+  then promote). NOTE-968 and LIT-1201 repeat the paper's subset-equality
+  claim and get dated corrections in the same PR. CLAIM-343 cites the
+  account only for its computed values (the -1-bit XORCOPY atom), which
+  stand.
+unlocks: []
+next_action: >-
+  Promote in a PR with the corrected title and the derivation as a dated
+  note; move the normative question (is I_ccs the right redundancy;
+  continuity; source-source marginal; can subset equality be restored)
+  to a new QUESTION; add dated corrections to NOTE-968 and LIT-1201.

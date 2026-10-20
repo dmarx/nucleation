@@ -1,0 +1,47 @@
+# record/promotion-audit/decisions/THEORY-673.yaml
+id: THEORY-673
+batch: batch-056
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: partly
+scope:
+  accepted: >-
+    The title's first clause is a derivation, and it re-derives (ADR-047
+    v2). Ancestors i with frequency q_i, character z_i and fitness w_i
+    (descendant count), descendants' mean character z'_i, Delta z_i =
+    z'_i - z_i, closed population (every descendant assigned to an
+    ancestor). Descendant frequencies q'_i = q_i w_i / w-bar, so
+    z-bar' = sum q_i w_i z'_i / w-bar and
+    w-bar Delta z-bar = sum q_i w_i (z_i + Delta z_i) - w-bar sum q_i z_i
+    = Cov(w, z) + E(w Delta z). Equivalently, with relative fitness
+    omega = w / w-bar, Delta z-bar = Cov(omega, z) + E(omega Delta z). No
+    assumption beyond closure and the mapping is used, and the interval is
+    arbitrary. The rest of the title, the generalization-sketch reading and
+    the reply to the tautology and predictive-power charges, is the
+    paper's argument (NOTE-101: moderate by analogy; the tautology reply
+    answers the word, conceded in §7.2).
+  excluded: >-
+    The schema reading, the f = ma analogy and the replies to critics. The
+    promote_when asks which partition a causal model licenses and for
+    specialisations yielding results not derivable otherwise, which the
+    source does not supply (its case-study authors "found previous
+    results").
+evidence:
+  - "This review's derivation of the Price equation (scope.accepted)."
+  - "Luque (2016), LIT-205, read in NOTE-101."
+blockers:
+  - "The title's thesis is an argument whose promote_when no review can meet."
+notes: >-
+  Triage-006 scored it 2; only the first clause is formal. Sorted as an
+  argument (batch 020): the title's weight is the interpretation. The
+  derivation is textbook and could be split off as its own Active THEORY
+  (ADR-040 pattern) if the record wants the identity held on its own; the
+  wave-5 review of the argument would be the place to decide.
+unlocks: []
+next_action: >-
+  Keep Proposed; requeue to wave 5, where a split of the derivation can be
+  decided with the argument.
