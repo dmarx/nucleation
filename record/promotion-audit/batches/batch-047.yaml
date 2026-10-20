@@ -11,7 +11,9 @@ reviewed:
   - THEORY-133
   - THEORY-163
 yield: 4 of 5 promotion paths (THEORY-030, -117, -133, -163 narrowed and promoted); THEORY-085 retained
-promotion_prs: []
+promotion_prs:
+  - "#254: THEORY-030, -133 and -163 narrowed and promoted (branch claude/promote-theories-030-133-163)."
+  - "#258: THEORY-117 narrowed and promoted (branch claude/promote-theory-117)."
 notes_for_ledger:
   - >-
     Score-2 band: 4 of 5 here, 12 of 15 across batches 039, 045 and 047.
