@@ -27,6 +27,8 @@ answered_by:
 - THEORY-362
 - THEORY-373
 - THEORY-387
+refined_by:
+- QUESTION-tmp5fubd
 ---
 
 # QUESTION-105: What is the least an evolving inquiry must retain to support a stated family of future revisions, and does the optimal retained state look like provenance, dependencies and defeated alternatives, or like something else?
