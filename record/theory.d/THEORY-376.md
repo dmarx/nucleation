@@ -15,7 +15,7 @@ history:
     measured (1% queries on an unindexed attribute with a disk cache), and
     the clustering comparison names the indexes. The promote_when, which
     asked for an implemented system or a simulation that charges the cache
-    reasoning, moves unchanged to QUESTION-tmp4iwgh.
+    reasoning, moves unchanged to QUESTION-237.
 tags:
 - databases
 - information-retrieval
@@ -109,4 +109,4 @@ attribute with a disk cache, where every server request is a full scan,
 and the title now says so (a correction, not a dropped thesis). "Good" and
 "bad clustering" become the clustered and unclustered indexed attributes
 the paper compared. The former promote_when moves unchanged to
-[QUESTION-tmp4iwgh](../questions.d/QUESTION-tmp4iwgh.md).
+[QUESTION-237](../questions.d/QUESTION-237.md).

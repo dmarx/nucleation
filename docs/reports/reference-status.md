@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**486 documents cited without acknowledgement.** Not listed: 10264 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**483 documents cited without acknowledgement.** Not listed: 10269 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -309,7 +309,7 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 
 Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
 
-81 citations in 50 files await a look; 39 other citations of it are acknowledged.
+80 citations in 49 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1054.md:20`](../../record/literature.d/LIT-1054.md)
 - [`record/literature.d/LIT-1059.md:20`](../../record/literature.d/LIT-1059.md)
@@ -385,7 +385,6 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 - [`record/theory.d/THEORY-367.md:111`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-367.md:112`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:102`](../../record/theory.d/THEORY-373.md)
-- [`record/theory.d/THEORY-376.md:88`](../../record/theory.d/THEORY-376.md)
 - [`record/theory.d/THEORY-377.md:109`](../../record/theory.d/THEORY-377.md)
 - [`record/theory.d/THEORY-380.md:100`](../../record/theory.d/THEORY-380.md)
 - [`record/theory.d/THEORY-382.md:104`](../../record/theory.d/THEORY-382.md)
@@ -2926,7 +2925,7 @@ Given views with conjunctive definitions, deciding that they answer a conjunctiv
 4 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:340`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
 - [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
 
@@ -3241,7 +3240,7 @@ The difficulty of optimum index selection
 
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
-- [`record/questions.d/QUESTION-114.md:179`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:180`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-1167](../../record/literature.d/LIT-1167.md) — Unavailable
 
@@ -3562,26 +3561,6 @@ Selective accessibility, the account that comparing a target with a plausible an
 - [`record/theory.d/THEORY-337.md:24`](../../record/theory.d/THEORY-337.md)
 - [`record/theory.d/THEORY-337.md:72`](../../record/theory.d/THEORY-337.md)
 - [`record/theory.d/THEORY-337.md:93`](../../record/theory.d/THEORY-337.md)
-
-### [THEORY-375](../../record/theory.d/THEORY-375.md) — Proposed
-
-In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved
-
-3 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:344`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-376.md:92`](../../record/theory.d/THEORY-376.md)
-
-### [THEORY-376](../../record/theory.d/THEORY-376.md) — Proposed
-
-In a simulated single-client, read-only database answering selection queries on one relation, describing cached data by the predicates of past queries let each query be answered partly from cache, with only the remainder Q ∧ ¬V sent to the server, which matched page caching under good clustering, beat it under bad clustering and answered over 60% of small queries without contacting the server; the cost of computing probe and remainder queries was not charged
-
-3 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:344`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-375.md:88`](../../record/theory.d/THEORY-375.md)
 
 ### [THEORY-411](../../record/theory.d/THEORY-411.md) — Proposed
 
@@ -3956,7 +3935,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:322`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:323`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-378.md:125`](../../record/theory.d/THEORY-378.md)
 
 ### [LIT-1108](../../record/literature.d/LIT-1108.md) — Unavailable
@@ -3966,7 +3945,7 @@ Combining Fuzzy Information from Multiple Systems
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
-- [`record/questions.d/QUESTION-114.md:357`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:358`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -4598,15 +4577,6 @@ Hermeneutical injustice is having a significant area of one's social experience 
 - [`record/theory.d/THEORY-317.md:28`](../../record/theory.d/THEORY-317.md)
 - [`record/theory.d/THEORY-317.md:101`](../../record/theory.d/THEORY-317.md)
 
-### [THEORY-333](../../record/theory.d/THEORY-333.md) — Proposed
-
-Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested
-
-2 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-332.md:100`](../../record/theory.d/THEORY-332.md)
-- [`record/theory.d/THEORY-344.md:99`](../../record/theory.d/THEORY-344.md)
-
 ### [THEORY-339](../../record/theory.d/THEORY-339.md) — Proposed
 
 People's answers to a probability query depend on their own answers to an earlier query whose result it can use: a person's sub-answer predicts their later answer only when asked first, and a bias induced in a first judgment carries into a second only when the two share part of a hypothesis space, so reuse carries the earlier error with it; that reuse saves computation rests on one small response-time study and one secondary-task result
@@ -4625,6 +4595,15 @@ In AlphaZero on 9×9 Hex, at fixed playing strength, training compute and tree-s
 - [`record/theory.d/THEORY-331.md:131`](../../record/theory.d/THEORY-331.md)
 - [`record/theory.d/THEORY-351.md:128`](../../record/theory.d/THEORY-351.md)
 
+### [THEORY-375](../../record/theory.d/THEORY-375.md) — Proposed
+
+In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved
+
+2 citations in 2 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
+- [`record/questions.d/QUESTION-114.md:345`](../../record/questions.d/QUESTION-114.md)
+
 ### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
 
 When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed
@@ -4640,7 +4619,7 @@ On one Apache and Informix server answering cheap indexed selections, a page who
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:331`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:332`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-382.md:102`](../../record/theory.d/THEORY-382.md)
 
 ### [THEORY-414](../../record/theory.d/THEORY-414.md) — Proposed
@@ -5643,14 +5622,6 @@ In laboratory choice tasks, people offload cognition more as a task's internal d
 1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
 
 - [`record/theory.d/THEORY-359.md:123`](../../record/theory.d/THEORY-359.md)
-
-### [THEORY-344](../../record/theory.d/THEORY-344.md) — Proposed
-
-An access method's read, update and memory overheads, each a ratio to the base data alone with a floor of 1.0, are conjectured to trade so that bounding any two forces a lower bound on the third; the conjecture is unproved, its formal wording says no more than the floor already does, and the paper's extreme designs show conflicts between pairs, read against memory and update against read, not a symmetric three-way trade
-
-1 citation in 1 file awaits a look.
-
-- [`record/theory.d/THEORY-333.md:106`](../../record/theory.d/THEORY-333.md)
 
 ### [THEORY-355](../../record/theory.d/THEORY-355.md) — Proposed
 

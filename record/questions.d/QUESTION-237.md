@@ -1,5 +1,8 @@
 ---
+number: 237
 status: Open
+formerly:
+- QUESTION-tmp4iwgh
 title: 'Does semantic caching keep its ordering against page caching once probe and remainder computation and region upkeep are charged, or in an implemented client-server system?'
 version: 1
 tags:
@@ -14,7 +17,7 @@ summary: >-
   charging the client for reasoning about what its cache holds.
 ---
 
-# QUESTION-tmp4iwgh: Does semantic caching keep its ordering against page caching once probe and remainder computation and region upkeep are charged, or in an implemented client-server system?
+# QUESTION-237: Does semantic caching keep its ordering against page caching once probe and remainder computation and region upkeep are charged, or in an implemented client-server system?
 
 ## Why it is a question
 

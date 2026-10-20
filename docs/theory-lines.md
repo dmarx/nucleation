@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-93 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+94 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -90,6 +90,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-213](../record/theory.d/THEORY-213.md) — Every mirror symmetry of a network's per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss's Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons *(Active)*
   - [THEORY-781](../record/theory.d/THEORY-781.md) — Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes *(Proposed)*
+
+### From In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary
+
+- [THEORY-421](../record/theory.d/THEORY-421.md) — In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary *(Active)*
+  - [THEORY-825](../record/theory.d/THEORY-825.md) — Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly *(Proposed)*
 
 ## causality
 
@@ -840,6 +845,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-365](../record/theory.d/THEORY-365.md) — In one study of a stack of proximity graphs on nested random subsets of the data, each element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed a number of distance computations that grew no worse than logarithmically with the number of items and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors the measured growth departs from it *(Active)*
   - [THEORY-815](../record/theory.d/THEORY-815.md) — Layering a navigable small-world graph on nested random subsets of the data, with links separated by length scale and each layer's degree capped, makes greedy nearest-neighbour search cost grow logarithmically with the number of items on data of low intrinsic dimension, where the single-layer graph's cost grows polylogarithmically *(Proposed)*
 
+### From In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary
+
+- [THEORY-421](../record/theory.d/THEORY-421.md) — In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary *(Active)*
+  - [THEORY-825](../record/theory.d/THEORY-825.md) — Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly *(Proposed)*
+
 ## neuroscience
 
 ### From Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
@@ -1116,6 +1126,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-737](../record/theory.d/THEORY-737.md) — In a spectral contrastive graph that joins labelled known classes to unlabelled data, the least-squares residual of a novel labelling on the top-k eigenspace, with the labelled entries left free, equals exactly the part of the labelling outside that eigenspace that the labelled rows of the discarded eigenvectors cannot absorb *(Active)*
   - [THEORY-320](../record/theory.d/THEORY-320.md) — In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it *(Proposed)*
+
+### From In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary
+
+- [THEORY-421](../record/theory.d/THEORY-421.md) — In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary *(Active)*
+  - [THEORY-825](../record/theory.d/THEORY-825.md) — Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly *(Proposed)*
 
 ### From On a finite data set, a symmetric positive affinity normalized to a Markov operator is conjugate to a symmetric one, and its eigenvectors scaled by powers of their eigenvalues embed the data so that Euclidean distance equals the diffusion distance weighted by the inverse stationary law
 

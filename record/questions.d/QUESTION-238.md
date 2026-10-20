@@ -1,5 +1,8 @@
 ---
+number: 238
 status: Open
+formerly:
+- QUESTION-tmpcef4k
 title: 'Does database cracking keep its measured costs against a scan and an upfront sort in another implementation, measured over a long sequence of random range queries?'
 version: 1
 tags:
@@ -16,7 +19,7 @@ refines:
 - QUESTION-114
 ---
 
-# QUESTION-tmpcef4k: Does database cracking keep its measured costs against a scan and an upfront sort in another implementation, measured over a long sequence of random range queries?
+# QUESTION-238: Does database cracking keep its measured costs against a scan and an upfront sort in another implementation, measured over a long sequence of random range queries?
 
 ## Why it is a question
 

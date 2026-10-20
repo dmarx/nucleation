@@ -1,5 +1,8 @@
 ---
+number: 825
 status: Proposed
+formerly:
+- THEORY-tmp5lbcx
 promote_when: >-
   Level-ordering measured on hierarchies whose levels are known, for
   several hyperbolic architectures and seeds, with variance reported and
@@ -31,7 +34,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-196 — Proposed; the tree-embedding result this is set beside, named, not leaned on -->
 
-# THEORY-tmp5lbcx: Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly
+# THEORY-825: Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly
 
 ## Source
 

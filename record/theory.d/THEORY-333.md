@@ -13,7 +13,7 @@ history:
     decision for THEORY-333 (batch 073, ADR-047 v3): one study read in full
     in NOTE-892, every number in the title stated in its text, and the title
     claiming no more than it measured. The promote_when, which asked for an
-    independent measurement, moves unchanged to QUESTION-tmpcef4k.
+    independent measurement, moves unchanged to QUESTION-238.
 tags:
 - databases
 date: '2026-10-15'
@@ -116,4 +116,4 @@ microseconds for later selects; break-even with sort-then-search at about
 10^5 queries. The title already confines the claim to the measured setting
 and keeps the paper's untested premise as untested, so nothing is dropped.
 The former promote_when, which asked for an independent measurement in
-another implementation, moves unchanged to [QUESTION-tmpcef4k](../questions.d/QUESTION-tmpcef4k.md).
+another implementation, moves unchanged to [QUESTION-238](../questions.d/QUESTION-238.md).
