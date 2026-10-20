@@ -1,0 +1,71 @@
+# record/promotion-audit/batches/batch-067.yaml
+batch: batch-067
+date: '2026-10-20'
+procedure: ADR-047 v4, "Where a narrowing's dropped claims go" (narrowing-loss sweep)
+triage: triage-008
+reviewed:
+- THEORY-175
+- THEORY-278
+- THEORY-216
+- THEORY-275
+- THEORY-166
+filed:
+- narrowed: THEORY-175
+  entry: THEORY-tmpphsfd
+  kind: 1
+  carries: independently trained latent spaces differ mainly by an angle-preserving map (Moschella et al.'s hypothesis)
+- narrowed: THEORY-278
+  entry: THEORY-tmpdzmf1
+  kind: 1
+  carries: trained MSE networks follow the renormalized central-path dynamics to neural collapse (Han, Papyan and Donoho's proposal)
+- narrowed: THEORY-216
+  entry: THEORY-tmp3ucjb
+  kind: 1
+  carries: lasting artworks on a contested canvas are, as a population, those whose coalitions keep repairing them (Wu and Silva's claim C6)
+- narrowed: THEORY-166
+  entry: THEORY-tmpcwkzh
+  kind: 1
+  carries: the QQ equality as a general law of question-order effects (Wang, Solloway, Shiffrin and Busemeyer)
+- narrowed: THEORY-275
+  entry: CLAIM-tmp3gd3i
+  kind: 2
+  carries: directional information measures between reciprocally coupled units follow a one-sided drive, not the coupling, in general
+reclassified:
+- code: THEORY-275
+  from: 1
+  to: 2
+  why: >-
+    LIT-947 claims nothing beyond its two beads; NOTE-788's claims C1-C5
+    are all system-specific, and the general law was the record's own
+    pre-narrowing title. Filed as an interpretive CLAIM with THEORY-275 in
+    its grounds.
+not_filed:
+- code: THEORY-216
+  clause: participants consolidate into large coalitions as the event proceeds
+  why: kept in the narrowed Active title as measured (Fig. 7); nothing dropped.
+- code: THEORY-216
+  clause: survival barely predictable until late, as a fact about the dynamics
+  why: >-
+    kind 4. The authors say alliances and coordination were not observed, so
+    they do not assert intrinsic unpredictability; QUESTION-169 asks it.
+kind4_questions:
+  THEORY-175: QUESTION-211
+  THEORY-278: [QUESTION-181, QUESTION-202]
+  THEORY-216: QUESTION-169
+  THEORY-275: QUESTION-186
+  THEORY-166: QUESTION-210
+yield: 5 of 5 narrowed entries now have a Proposed carrier for what they dropped (4 THEORYs, 1 CLAIM).
+promotion_prs: []
+notes_for_ledger:
+- >-
+  Every narrowed entry in this batch already had a QUESTION holding its old
+  promote_when; the new Proposed entry inherits that promote_when and names
+  the QUESTION as the test. The QUESTION asks, the new entry asserts.
+- >-
+  Check whether the source asserts the general form before filing kind 1.
+  The pre-narrowing title can be the record's own generalization (THEORY-275),
+  and then the carrier is an interpretive CLAIM, not a THEORY.
+- >-
+  textwrap breaks codes and hyphenated words at hyphens; use
+  break_on_hyphens=False when wrapping YAML notes that hold codes.
+owner_questions: []

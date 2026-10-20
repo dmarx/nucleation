@@ -1,0 +1,1 @@
+<!-- The narrowing-loss sweep (ADR-047 v4), batch 067: the wider claims dropped when THEORY-175, -278, -216 and -166 were narrowed are filed as Proposed THEORYs that extend them, and THEORY-275's generalization as a Proposed interpretive CLAIM. -->

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcgnsc
 title: 'Cosine similarities to matched anchor points are unchanged by exactly the maps that preserve each sample''s cosines to the anchors, among them every orthogonal map times a positive scalar and every per-sample positive rescaling but not translations; in Moschella et al.''s experiments independently trained encoders agreed in them only approximately, enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differed'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,15 @@ history:
     anchors, with the members the derivation fixes, and the agreement is held
     to Moschella et al.'s experiments. The promote_when moves to
     QUESTION-211.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Dated note added under ADR-047 v4 (the narrowing-loss sweep, batch
+    067). The wider claim this entry's narrowing dropped, the hypothesis
+    that independently trained latent spaces differ mainly by an
+    angle-preserving map, which the source assumes and tests only through
+    its consequences, is now carried by THEORY-tmpphsfd, which extends
+    this entry. Status and title are unchanged.
 tags:
 - representation-learning
 - anthology-candidate
@@ -36,8 +45,11 @@ summary: >-
 supports:
 - CLAIM-126
 - CLAIM-082
+extended_by:
+- THEORY-tmpphsfd
 ---
 <!-- inactive-ok-file: THEORY-008 THEORY-112 — Proposed; cited as the kernel and symmetry accounts this one sits beside -->
+<!-- inactive-ok-file: THEORY-tmpphsfd — Proposed; the wider hypothesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-175: Cosine similarities to matched anchor points are unchanged by exactly the maps that preserve each sample's cosines to the anchors, among them every orthogonal map times a positive scalar and every per-sample positive rescaling but not translations; in Moschella et al.'s experiments independently trained encoders agreed in them only approximately, enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differed
 
@@ -139,3 +151,10 @@ On a finite data set with fewer anchors than dimensions, maps that are
 not conformal on the whole space can still preserve every sample-anchor
 cosine, so the title names the members of the class that hold in general
 rather than listing it.
+
+## Note of 2026-10-20: the wider claim, filed apart
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
+Proposed entry, so that evidence can later confirm or reject it as a
+thesis. [THEORY-tmpphsfd](THEORY-tmpphsfd.md) carries the hypothesis that independently trained latent spaces differ mainly by an angle-preserving map, which the source assumes and tests only through its consequences. It extends this entry, whose
+measured or derived content is its evidence. Nothing here changes.
