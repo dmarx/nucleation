@@ -73,4 +73,6 @@ notes_for_ledger:
     Requeue THEORY-203 if THEORY-199 is promoted and the ν gap is
     explained or a second parameter set is measured.
 owner_questions: []
-promotion_prs: []
+promotion_prs:
+  - "#256: THEORY-202, THEORY-213, THEORY-222 narrowed and promoted (branch claude/promote-theories-202-213-222)."
+  - "#257: THEORY-230 narrowed and promoted (branch claude/promote-theory-230)."
