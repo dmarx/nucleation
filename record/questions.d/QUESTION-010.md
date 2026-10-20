@@ -21,7 +21,6 @@ answered_by:
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-129 CLAIM-177 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: THEORY-281 — Proposed; a partial answer filed today, cited with its limit -->
 
 # QUESTION-010: Can a reconstruction chain preserve information sufficient for one family of pragmatic tasks while progressively destroying the relations needed to support another?
 

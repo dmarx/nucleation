@@ -32,7 +32,7 @@ summary: >-
   rank-1 edits are shown to be nearly interchangeable.
 ---
 <!-- inactive-ok-file: CLAIM-130 — Proposed; the partial answer to QUESTION-030 this reading is set beside, open -->
-<!-- inactive-ok-file: THEORY-282 THEORY-243 — Proposed; the accounts filed from this reading -->
+<!-- inactive-ok-file: THEORY-243 — Proposed; the accounts filed from this reading -->
 
 # NOTE-782: Makelov, Lange and Nanda — an interpretability illusion for subspace activation patching
 

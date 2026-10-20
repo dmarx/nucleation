@@ -1,23 +1,21 @@
 ---
 number: 282
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmps4hmc
-promote_when: >-
-  A replication in a second model family of the dependence on the
-  disconnected component, for a feature whose mediating location is known
-  independently, together with a test that rules out the rival reading
-  the authors themselves leave open: two subspaces in the same component
-  that both mediate the feature and whose contributions cancel. A test
-  that moves those two subspaces while holding the component's total
-  output fixed on the data would separate them. It is refuted by showing,
-  with interventions that stay on the data distribution, that the
-  component the illusory direction lives in does take part in the
-  behaviour. What cannot settle it: more successful patches, or more
-  directions that fail the rowspace test, since the construction predicts
-  both.
 title: 'A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promoted, carrying out the promotion audit's decision for
+    THEORY-282 (batch 051, ADR-047 v2). The title states a
+    possibility, and the dated note below re-derives the construction
+    that proves it (Eq. 3 and Lemma A.1). The promote_when asked for
+    more than the title claims, a replication and a test of the
+    measured cases against the cancelling-subspaces reading, so it
+    moves to a new QUESTION. The title is unchanged.
 tags:
 - causality
 - representation-learning
@@ -132,3 +130,29 @@ removal of the null-space component, as the residual-stream effect did.
   grant: alignments related by a change of basis.
 - **[THEORY-287](THEORY-287.md)** uses DAS-located residual-stream variables, the
   placement this account finds safest, for prediction.
+
+## Note of 2026-10-20: the construction, re-derived
+
+Re-derived for the promotion audit (batch 051, [ADR-047](../decisions.d/ADR-047.md) v2).
+
+1. **The patch.** Patching run B from run A along a unit vector v sets
+   act_B′ = act_B + (vᵀact_A − vᵀact_B)v. Take v = cos θ·v_d + sin θ·v_o,
+   with orthogonal unit vectors v_d and v_o, W_out v_d = 0, and vᵀ_o act
+   one constant on every input of the data. The constant terms cancel, so
+   the next layer receives
+   W_out act_B + sin θ cos θ·(v_dᵀact_A − v_dᵀact_B)·W_out v_o. At
+   θ = π/4 the factor is ½, which is Eq. 3.
+2. **Neither part alone acts.** θ = 0 gives W_out v = 0. θ = π/2 gives a
+   zero coefficient, since v_o does not vary on the data. The effect is
+   ½ sin 2θ times a fixed vector, largest at θ = π/4 (Lemma A.1).
+3. **The possibility.** Suppose v_d varies with the variable, and W_out v_o
+   lies along the direction downstream components read for it. Then the
+   patch moves the output as changing the variable would. Yet the layer
+   never writes along W_out v_o on the data, and the direction that tracks
+   the variable cannot reach the output. Such directions exist whenever
+   W_out has a nontrivial kernel and the activations have a direction that
+   is constant on the data, as in an MLP wider than its output.
+
+Whether GPT-2 Small's MLP8 on IOI is such a case, rather than two
+cancelling subspaces in one component, is the open question this entry's
+promote_when asked; it is now [QUESTION-tmpkpb79](../questions.d/QUESTION-tmpkpb79.md).
