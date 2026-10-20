@@ -1,12 +1,9 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on
-  coarse-to-fine processes, which the owner relayed. No NOTE is filed. A
-  lawful open copy was found on 2026-10-20 (the `url:`) and has not been
-  read. It is the authors' manuscript, not the typeset article.
+  read 2026-10-20 ([NOTE-tmpqux8d](../notes.d/NOTE-tmpqux8d.md)) in full, from the authors' manuscript (the `url:`); worth reading for a complete one-page proof that a weak solution of incompressible Euler with L³-averaged increments scaling as |y|^α, α > 1/3, conserves energy ([THEORY-tmp99aof](../theory.d/THEORY-tmp99aof.md)), and for its mechanism: the energy flux into scales below a mollification scale ε is a commutator of size ε^(3α−1). Read it knowing that it is the positive half of Onsager's conjecture only and shows nothing about rougher fields: that dissipative solutions exist below 1/3 is Isett (2018) and others, and some rough solutions conserve energy anyway; that its "physical interpretation" (ε̄ = 0) passes to Navier–Stokes and to ensemble averages without proof; that the endpoint 1/3 is not covered; and that the manuscript misprints the exponents in the middle line of its final estimate and integrates (2) over R³ for the box D, neither affecting the result.
 title: 'Onsager''s conjecture on the energy conservation for solutions of Euler''s equation'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-19'
@@ -24,6 +21,17 @@ history:
     returned an Incapsula bot-check page, so whether the article is free
     there is unconfirmed. Springer's PDF returned a client challenge.
     Unpaywall and OpenAlex report the work closed. Status stays Deferred.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Read in full from the manuscript, NOTE-tmpqux8d; status Deferred →
+    Active, and THEORY-tmp99aof filed Active from a step-by-step
+    re-derivation. The summary is corrected: the condition is Besov
+    B^α_{3,∞} regularity, L³ in time, which is weaker than Hölder, and the
+    paper does not show that a flux survives for rougher fields. "Why this
+    is here" now says which half of A3's point the paper proves. The
+    typeset article was not reached, so the manuscript's two misprints
+    could not be checked against it.
 tags:
 - mathematics
 - natural-sciences
@@ -39,16 +47,16 @@ keywords:
 - 'Hölder regularity'
 implementations: []
 summary: >-
-  Constantin, E & Titi (1994). Proves the positive half of Onsager's conjecture: weak solutions of the incompressible Euler equations with Hölder-type regularity above exponent 1/3 conserve energy.
+  Constantin, E & Titi (1994). Proves the positive half of Onsager's conjecture: a weak solution of the incompressible Euler equations on the periodic box with u ∈ L³(0,T; B^α_{3,∞}) ∩ C([0,T]; L²) and α > 1/3 conserves energy, because the coarse-grained energy flux across scale ε is O(ε^(3α−1)). Hölder regularity above 1/3 is a special case. It says nothing about solutions below 1/3.
 ---
 
 # LIT-tmpeyk8p: Onsager's conjecture on the energy conservation for solutions of Euler's equation
 
 Constantin, P., E, W. & Titi, E. S. (1994). Onsager's conjecture on the energy conservation for solutions of Euler's equation. *Communications in Mathematical Physics* 165(1): 207–209. doi:10.1007/BF02099744.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full on 2026-10-20 from the authors' manuscript, in [NOTE-tmpqux8d](../notes.d/NOTE-tmpqux8d.md).
+The proof is held, re-derived, as [THEORY-tmp99aof](../theory.d/THEORY-tmp99aof.md).
 
 ## Why this is here
 
-A3 cited it for a general pattern: whether the effect of unresolved structure vanishes in a limit depends on the regularity of the field, so a coarse-grained flux can survive as the scale goes to zero. Bears on [QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md). The exchange named it as "the classic Constantin–E–Titi work" without a title.
+A3 cited it for a general pattern: whether the effect of unresolved structure vanishes in a limit depends on the regularity of the field. The exchange named it as "the classic Constantin–E–Titi work" without a title. Bears on [QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md). The reading narrows what it can be cited for. It proves that above exponent 1/3 the flux into unresolved scales must vanish as the scale goes to zero. It does not prove that a coarse-grained flux can survive for rough fields: that rests on the later negative half (Isett 2018 and others), which the record does not hold. Its estimate is the one behind [THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md), read at a fixed field as the scale goes to zero.
