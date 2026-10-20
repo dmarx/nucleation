@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 134
+version: 135
 updated: '2026-10-19'
 record_revision: 2f565411227085a5cde7e5c88cd7922e506eb301
 procedure: record/decisions.d/ADR-047.md
@@ -33,8 +33,8 @@ handoff:
 waves:
 - wave: 1
   class: Demonstrated CLAIMs still Proposed
-  reviewed: 25
-  promotion_paths: 13
+  reviewed: 26
+  promotion_paths: 14
 - wave: 2
   class: THEORYs with verified mathematical cores
   reviewed: 51
@@ -42,7 +42,7 @@ waves:
 - wave: 3
   class: Source-backed THEORYs
   reviewed: 97
-  promotion_paths: 69
+  promotion_paths: 70
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -65,16 +65,9 @@ requeue:
 - code: THEORY-162
   when: after a static rival account is read
   why: 'batch-046: its promote_when needs a reading of a static rival; a reading task, not a review'
-- code: THEORY-019
-  when: next follow-up batch
-  why: 'batch-042: the record''s own assembly (Schur + complete reducibility); file a demonstrated CLAIM
-    (ADR-032) and correct the THEORY, as for THEORY-080'
 - code: THEORY-344
   when: after the owner rules on report titles
   why: 'batch-042: every clause checks; promotable at once if a title reporting a conjecture is promotable'
-- code: THEORY-083
-  when: after Figures 2-7 of arXiv:2008.08186 are read into NOTE-476
-  why: 'batch-044: the NC1-NC4 results were read only from captions; a reading task'
 - code: THEORY-302
   when: when wave 5 resumes
   why: 'batch-051: a universal control thesis supported only at the spinal level; review as interpretive
@@ -2632,8 +2625,10 @@ candidates:
   triage: batch-042
   state: decided
   disposition: needs-correction
-  batch: batch-042
+  batch: batch-052
   decision: decisions/THEORY-019.yaml
+  carried_out_in:
+  - '#252'
 - code: THEORY-026
   wave: 3
   triage: batch-045
@@ -2692,9 +2687,11 @@ candidates:
   wave: 3
   triage: batch-044
   state: decided
-  disposition: retain-proposed
-  batch: batch-044
+  disposition: narrow-and-promote
+  batch: batch-052
   decision: decisions/THEORY-083.yaml
+  carried_out_in:
+  - '#253'
 - code: THEORY-585
   wave: 3
   triage: batch-044
@@ -2792,6 +2789,15 @@ candidates:
   disposition: retain-proposed
   batch: batch-051
   decision: decisions/THEORY-302.yaml
+- code: CLAIM-tmpjqb3e
+  wave: 1
+  triage: batch-052
+  state: decided
+  disposition: promote
+  batch: batch-052
+  decision: decisions/CLAIM-tmpjqb3e.yaml
+  carried_out_in:
+  - '#252'
 history:
 - version: 1
   date: '2026-10-19'
@@ -3304,4 +3310,9 @@ history:
     here (ADR-047 v2); -282 and -284 keep their titles, and -281 is narrowed to finite support. THEORY-272
     is a single-study measurement under ADR-047 v3, narrowed to Hopfield''s simulations. THEORY-302 is
     an argument.; carried_out_in #248, #251; THEORY-302 requeued to wave 5'
+- version: 135
+  date: '2026-10-19'
+  note: 'Batch 052 integrated: 2 promotion paths (THEORY-083 narrowed and promoted; the new CLAIM-tmpjqb3e
+    filed Active), 1 correction carried out (THEORY-019); carried_out_in #252, #253; THEORY-019 and -083
+    off the requeue list'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01

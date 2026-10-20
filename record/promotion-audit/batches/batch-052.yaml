@@ -1,0 +1,42 @@
+# record/promotion-audit/batches/batch-052.yaml
+batch: batch-052
+date: '2026-10-20'
+reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+waves: [3]
+reviewed:
+  - THEORY-019
+  - CLAIM-tmpjqb3e
+  - THEORY-083
+yield: >-
+  2 promotion paths (THEORY-083 narrowed and promoted; the new
+  CLAIM-tmpjqb3e filed Active), 1 correction carried out (THEORY-019)
+promotion_prs:
+  - "#252: CLAIM-tmpjqb3e filed Active (THEORY-019's assembled result); THEORY-019 corrected (branch claude/claim-schur-degeneracy)."
+  - "#253: THEORY-083 narrowed and promoted; NOTE-476's figure reading; QUESTION-tmpybmwx (branch claude/promote-theory-083)."
+notes_for_ledger:
+  - >-
+    A reading task can be done inside a batch when the source is on arXiv:
+    render the figure pages (pdftoppm) and read the plots, not the
+    extracted text, which scrambles multi-panel figures.
+  - >-
+    Reading the plots changed the verdict's shape, not just its
+    confidence: the captions said every measure "decreases" and the NOTE
+    said "monotone across all 21 cells"; the plots show non-monotone
+    cells and a partial collapse on ImageNet. A captions-only reading of a
+    grid of curves tends to overstate both completeness and monotonicity.
+  - >-
+    Check whether large drops in a training curve coincide with
+    learning-rate cuts before crediting them to the phase the paper names.
+  - >-
+    The THEORY-080 pattern applied cleanly a second time (THEORY-019): the
+    split CLAIM carries the proof and the THEORY keeps the reading and its
+    promote_when. Neither THEORY promotes on the split, since what remains
+    asks for a held source.
+  - >-
+    THEORY-019 supports CLAIM-193 and CLAIM-269. Whether they should rest
+    on the new claim instead is for their next review.
+owner_questions:
+  - >-
+    CLAIM-tmpjqb3e is the third record-own result filed Active at once
+    (after CLAIM-370 and CLAIM-384). The open question from batch 046,
+    whether such claims skip Proposed, now covers it too.

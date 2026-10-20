@@ -1382,3 +1382,22 @@ history note. THEORY-277 is requeued on this basis.
   words with no number (THEORY-272's "unless old ones are forgotten") and
   keep the measured one (no stored pattern stable at N = 100, n = 500).
 - THEORY-302: requeue to wave 5.
+
+## 2026-10-19 — batch 052 (follow-ups)
+
+- A reading task can be done inside a batch when the source is on arXiv:
+  render the figure pages (pdftoppm) and read the plots, not the extracted
+  text, which scrambles multi-panel figures.
+- Reading the plots changed the verdict's shape, not just its confidence:
+  the captions said every measure "decreases" and the NOTE said "monotone
+  across all 21 cells"; the plots show non-monotone cells and a partial
+  collapse on ImageNet. A captions-only reading of a grid of curves tends
+  to overstate both completeness and monotonicity.
+- Check whether large drops in a training curve coincide with learning-
+  rate cuts before crediting them to the phase the paper names.
+- The THEORY-080 pattern applied cleanly a second time (THEORY-019): the
+  split CLAIM carries the proof and the THEORY keeps the reading and its
+  promote_when. Neither THEORY promotes on the split, since what remains
+  asks for a held source.
+- THEORY-019 supports CLAIM-193 and CLAIM-269. Whether they should rest on
+  the new claim instead is for their next review.
