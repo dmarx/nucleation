@@ -1,5 +1,8 @@
 ---
+number: 791
 status: Proposed
+formerly:
+- THEORY-tmpfhkef
 promote_when: >-
   A test in which the need distribution over meanings is measured
   independently of the naming data (for example from usage frequencies) and
@@ -32,7 +35,7 @@ summary: >-
   THEORY holds that general claim.
 ---
 
-# THEORY-tmpfhkef: The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and differences in one trade-off parameter place each language along it, as Zaslavsky, Kemp, Regier and Tishby propose
+# THEORY-791: The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and differences in one trade-off parameter place each language along it, as Zaslavsky, Kemp, Regier and Tishby propose
 
 ## Source
 

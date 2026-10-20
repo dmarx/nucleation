@@ -23,7 +23,7 @@ history:
   date: '2026-10-20'
   note: >-
     The narrowing-loss sweep (batch 066, ADR-047 v4) filed
-    THEORY-tmp12b36 as a Proposed THEORY that extends this one, to carry
+    THEORY-790 as a Proposed THEORY that extends this one, to carry
     what the narrowing dropped: the law of balance in deep networks
     trained on real data, which the authors present as general. This
     entry's status and title are unchanged.
@@ -55,9 +55,9 @@ summary: >-
 supports:
 - CLAIM-093
 extended_by:
-- THEORY-tmp12b36
+- THEORY-790
 ---
-<!-- inactive-ok-file: THEORY-tmp12b36 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
+<!-- inactive-ok-file: THEORY-790 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-209 THEORY-210 THEORY-108 QUESTION-080 — Proposed or Open; the accounts and question this one is set beside, open -->
 
 # THEORY-211: In the stochastic-differential-equation model of SGD, with a gradient-noise covariance that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however small the noise
@@ -168,6 +168,6 @@ convergence.
 
 When this THEORY was narrowed to what its source showed, the wider claim
 it had stated was left with nowhere to go but this body and a QUESTION.
-Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-tmp12b36](THEORY-tmp12b36.md), which extends
+Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-790](THEORY-790.md), which extends
 this one: the law of balance in deep networks trained on real data, which the authors present as general. This entry is that THEORY's evidence and is not
 changed by it.

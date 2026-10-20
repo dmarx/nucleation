@@ -1,5 +1,8 @@
 ---
+number: 794
 status: Proposed
+formerly:
+- THEORY-tmpu18sx
 promote_when: >-
   For the empirical half: the volume-against-diversity comparison repeated
   with model selection on a validation split disjoint from the unseen
@@ -38,7 +41,7 @@ summary: >-
   claim.
 ---
 
-# THEORY-tmpu18sx: In vision models, compositional generalization to unseen combinations of concepts is driven by the diversity of the combinations seen in training rather than by data volume, and arrives with representations that are linearly factored by concept, as Uselis, Dittadi and Oh propose
+# THEORY-794: In vision models, compositional generalization to unseen combinations of concepts is driven by the diversity of the combinations seen in training rather than by data volume, and arrives with representations that are linearly factored by concept, as Uselis, Dittadi and Oh propose
 
 ## Source
 

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**734 document(s) awaiting a decision.**
+**739 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 734.
+92 of the 739.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-410 of the 734.
+415 of the 739.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -521,11 +521,16 @@
 | 2026-10-20 | Proposed | [THEORY-787](../../record/theory.d/THEORY-787.md) | 2 | 0 | A system's causal structure can be most effective at a macro scale, so that causation emerges at a coarse-grained level and the macro description is the one at which the system's causes are found, as Hoel, Albantakis and Tononi propose from effective information |
 | 2026-10-20 | Proposed | [THEORY-788](../../record/theory.d/THEORY-788.md) | 2 | 0 | Training a deep classifier past zero training error generally collapses its last-layer features onto their class means, drives the centred means toward a simplex equiangular tight frame aligned with the classifier, and makes the decision nearest class mean, as Papyan, Han and Donoho propose from their runs |
 | 2026-10-20 | Proposed | [THEORY-789](../../record/theory.d/THEORY-789.md) | 2 | 0 | The block coarse-graining that maximizes mutual information with the system beyond a buffer picks out the renormalization-group-relevant variables in general, so those variables can be found from samples by information alone, without being known beforehand, as Koch-Janusz and Ringel propose |
+| 2026-10-20 | Proposed | [THEORY-790](../../record/theory.d/THEORY-790.md) | 2 | 0 | In deep networks trained by SGD on real data, minibatch noise drives parameter groups related by a rescaling symmetry toward the point where their gradient noise balances, at a rate set by learning rate over batch size, so that at stationarity they sit neither where gradient flow would leave them nor spread out as under isotropic noise, as Ziyin, Li and Ueda propose |
+| 2026-10-20 | Proposed | [THEORY-791](../../record/theory.d/THEORY-791.md) | 2 | 0 | The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and differences in one trade-off parameter place each language along it, as Zaslavsky, Kemp, Regier and Tishby propose |
+| 2026-10-20 | Proposed | [THEORY-792](../../record/theory.d/THEORY-792.md) | 2 | 0 | In a deep linear network trained by gradient descent from generic initial weights, not only from decoupled ones, depth slows learning through the initial end-to-end strength of each mode, so that random orthogonal weights, whose product is an isometry, learn in a number of iterations that stays bounded as depth grows, as Saxe, McClelland and Ganguli argue from simulation |
+| 2026-10-20 | Proposed | [THEORY-793](../../record/theory.d/THEORY-793.md) | 2 | 0 | Gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model, from generic small initialization and not only from initialization aligned with the eigenvectors, learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time in order of eigenvalue and ends at a top spectral solution, as Simon and coauthors derive informally |
+| 2026-10-20 | Proposed | [THEORY-794](../../record/theory.d/THEORY-794.md) | 2 | 0 | In vision models, compositional generalization to unseen combinations of concepts is driven by the diversity of the combinations seen in training rather than by data volume, and arrives with representations that are linearly factored by concept, as Uselis, Dittadi and Oh propose |
 | 2026-10-20 | Proposed | [THEORY-781](../../record/theory.d/THEORY-781.md) | 1 | 0 | Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes |
 
 ## ADRs
 
-2 of the 734.
+2 of the 739.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -534,7 +539,7 @@
 
 ## QUESTIONs
 
-9 of the 734.
+9 of the 739.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -550,7 +555,7 @@
 
 ## CLAIMs
 
-216 of the 734.
+216 of the 739.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -773,7 +778,7 @@
 
 ## CASEs
 
-1 of the 734.
+1 of the 739.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -781,7 +786,7 @@
 
 ## TERMs
 
-2 of the 734.
+2 of the 739.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -790,7 +795,7 @@
 
 ## ARGs
 
-2 of the 734.
+2 of the 739.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

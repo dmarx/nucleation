@@ -19,7 +19,7 @@ history:
   date: '2026-10-20'
   note: >-
     The narrowing-loss sweep (batch 066, ADR-047 v4) filed
-    THEORY-tmpfhkef as a Proposed THEORY that extends this one, to carry
+    THEORY-791 as a Proposed THEORY that extends this one, to carry
     what the narrowing dropped: the general claim about the world's
     languages. This entry's status and title are unchanged.
 tags:
@@ -42,9 +42,9 @@ summary: >-
 supports:
 - CLAIM-092
 extended_by:
-- THEORY-tmpfhkef
+- THEORY-791
 ---
-<!-- inactive-ok-file: THEORY-tmpfhkef — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
+<!-- inactive-ok-file: THEORY-791 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 
 # THEORY-163: In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data
 
@@ -103,6 +103,6 @@ not in the data, a stated failure.
 
 When this THEORY was narrowed to what its source showed, the wider claim
 it had stated was left with nowhere to go but this body and a QUESTION.
-Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-tmpfhkef](THEORY-tmpfhkef.md), which extends
+Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-791](THEORY-791.md), which extends
 this one: the general claim about the world's languages. This entry is that THEORY's evidence and is not
 changed by it.

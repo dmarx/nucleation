@@ -1,5 +1,8 @@
 ---
+number: 793
 status: Proposed
+formerly:
+- THEORY-tmpqg47p
 promote_when: >-
   A formal proof of Simon et al.'s Result 4.6 (generic small initialization
   follows the aligned trajectory as the scale goes to zero), which the paper
@@ -33,7 +36,7 @@ summary: >-
   This THEORY holds that generic case.
 ---
 
-# THEORY-tmpqg47p: Gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model, from generic small initialization and not only from initialization aligned with the eigenvectors, learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time in order of eigenvalue and ends at a top spectral solution, as Simon and coauthors derive informally
+# THEORY-793: Gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model, from generic small initialization and not only from initialization aligned with the eigenvectors, learns the top eigenvectors of the pairs' symmetrized cross-correlation one at a time in order of eigenvalue and ends at a top spectral solution, as Simon and coauthors derive informally
 
 ## Source
 

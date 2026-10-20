@@ -1,5 +1,8 @@
 ---
+number: 792
 status: Proposed
+formerly:
+- THEORY-tmpowz2q
 promote_when: >-
   A derivation, or a controlled measurement across depths, showing that deep
   linear networks started off the decoupled set behave the same way:
@@ -30,7 +33,7 @@ summary: >-
   simulated and not derived.
 ---
 
-# THEORY-tmpowz2q: In a deep linear network trained by gradient descent from generic initial weights, not only from decoupled ones, depth slows learning through the initial end-to-end strength of each mode, so that random orthogonal weights, whose product is an isometry, learn in a number of iterations that stays bounded as depth grows, as Saxe, McClelland and Ganguli argue from simulation
+# THEORY-792: In a deep linear network trained by gradient descent from generic initial weights, not only from decoupled ones, depth slows learning through the initial end-to-end strength of each mode, so that random orthogonal weights, whose product is an isometry, learn in a number of iterations that stays bounded as depth grows, as Saxe, McClelland and Ganguli argue from simulation
 
 ## Source
 

@@ -19,7 +19,7 @@ summary: >-
   four times more data of the same combinations. Whether that survives
   honest model selection, another architecture or more concepts is open.
 answered_by:
-- THEORY-tmpu18sx
+- THEORY-794
 ---
 
 # QUESTION-207: Without choosing checkpoints on the unseen pairs, does coverage of combinations still beat volume for compositional generalization, in a second architecture or with more than two concepts?

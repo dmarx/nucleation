@@ -21,7 +21,7 @@ history:
   date: '2026-10-20'
   note: >-
     The narrowing-loss sweep (batch 066, ADR-047 v4) filed
-    THEORY-tmpu18sx as a Proposed THEORY that extends this one, to carry
+    THEORY-794 as a Proposed THEORY that extends this one, to carry
     what the narrowing dropped: the general claim that diversity of
     combinations, not data volume, drives compositional generalization
     in vision models. This entry's status and title are unchanged.
@@ -48,9 +48,9 @@ summary: >-
 answers:
 - QUESTION-025
 extended_by:
-- THEORY-tmpu18sx
+- THEORY-794
 ---
-<!-- inactive-ok-file: THEORY-tmpu18sx — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
+<!-- inactive-ok-file: THEORY-794 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 
 # THEORY-117: In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and not as up to four times more data of the same combinations is added; and when embeddings are exactly linearly factored, seen pairs that connect every value of both concepts, as two per value arranged in one cycle do, determine the embedding of every unseen pair
 
@@ -173,6 +173,6 @@ The paper's span condition (2n − 1 dimensions) is what its classifier statemen
 
 When this THEORY was narrowed to what its source showed, the wider claim
 it had stated was left with nowhere to go but this body and a QUESTION.
-Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-tmpu18sx](THEORY-tmpu18sx.md), which extends
+Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-794](THEORY-794.md), which extends
 this one: the general claim that diversity of combinations, not data volume, drives compositional generalization in vision models. This entry is that THEORY's evidence and is not
 changed by it.

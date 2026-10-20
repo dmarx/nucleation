@@ -21,7 +21,7 @@ summary: >-
   distribution estimated from the naming data. A test with an
   independently measured source, or in a second domain, is open.
 answered_by:
-- THEORY-tmpfhkef
+- THEORY-791
 ---
 
 # QUESTION-214: Do colour-naming systems stay near the information-bottleneck bound when the need distribution is measured independently of the naming data, and do lexicons in a second semantic domain?

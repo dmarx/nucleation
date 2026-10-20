@@ -1,5 +1,8 @@
 ---
+number: 790
 status: Proposed
+formerly:
+- THEORY-tmp12b36
 promote_when: >-
   The law of balance measured in a deep network trained on real data, during
   its limiting dynamics. What would promote: for parameter groups related by
@@ -37,7 +40,7 @@ summary: >-
   data, which no measurement in the record yet supports.
 ---
 
-# THEORY-tmp12b36: In deep networks trained by SGD on real data, minibatch noise drives parameter groups related by a rescaling symmetry toward the point where their gradient noise balances, at a rate set by learning rate over batch size, so that at stationarity they sit neither where gradient flow would leave them nor spread out as under isotropic noise, as Ziyin, Li and Ueda propose
+# THEORY-790: In deep networks trained by SGD on real data, minibatch noise drives parameter groups related by a rescaling symmetry toward the point where their gradient noise balances, at a rate set by learning rate over batch size, so that at stationarity they sit neither where gradient flow would leave them nor spread out as under isotropic noise, as Ziyin, Li and Ueda propose
 
 ## Source
 

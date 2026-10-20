@@ -18,7 +18,7 @@ summary: >-
   from random orthogonal or small random weights is supported by one MNIST
   experiment and an argument from dynamical isometry, not derived.
 answered_by:
-- THEORY-tmpowz2q
+- THEORY-792
 ---
 
 # QUESTION-166: Does the depth law of deep linear networks hold from starts off the decoupled set: learning time, counted in iterations at the stable step size, bounded in depth when every mode's initial end-to-end gain is of order one, and growing as a power of 1/ε when it is ε, for random orthogonal or small random weights not aligned with the task's singular vectors?
