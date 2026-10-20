@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpzjtfu
 title: 'On the Random Hierarchy Model, in the experiments reported (s = 2, L ≤ 4, small v), deep CNNs matched to the tree and trained in a feature-learning regime reach a tenth of chance error from about n_c m^L examples, polynomial in the input dimension, at the training-set size at which their hidden layers become invariant to swapping synonymous tuples; two-layer networks and the same CNNs as fixed kernels need a number proportional to the whole input space, exponential in the input dimension, and deep CNNs stay near chance when every tuple is made equally likely in every class'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,12 @@ history:
     and the grammar's size are the same expression, and the body disclaims the
     attribution. That clause and the promote_when move, unchanged, to
     QUESTION-165.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added: the wider claim this entry's narrowing
+    dropped is now filed as THEORY-tmp83501, Proposed, which extends
+    this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - learning-theory
 - compositionality
@@ -39,7 +45,11 @@ answers:
 - QUESTION-025
 supports:
 - CLAIM-360
+extended_by:
+- THEORY-tmp83501
 ---
+
+<!-- inactive-ok-file: THEORY-tmp83501 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: THEORY-186 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
 
 # THEORY-195: On the Random Hierarchy Model, in the experiments reported (s = 2, L ≤ 4, small v), deep CNNs matched to the tree and trained in a feature-learning regime reach a tenth of chance error from about n_c m^L examples, polynomial in the input dimension, at the training-set size at which their hidden layers become invariant to swapping synonymous tuples; two-layer networks and the same CNNs as fixed kernels need a number proportional to the whole input space, exponential in the input dimension, and deep CNNs stay near chance when every tuple is made equally likely in every class
@@ -131,3 +141,10 @@ above as the paper's argument. It is a large-v estimate, not a bound
 size, sets the number of examples is [QUESTION-165](../questions.d/QUESTION-165.md). Deep fully
 connected networks (within a factor of about 2^L, one figure) are not in
 the title.
+
+## Note of 2026-10-20: the wider claim filed
+
+The promotion audit narrowed this entry to what was shown. Under
+[ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, that detecting patch-class correlations is what sets the number of examples and how deep networks learn the grammar, is now filed as
+[THEORY-tmp83501](THEORY-tmp83501.md), Proposed, which extends this entry and takes it as
+evidence. This entry's title and status are unchanged.

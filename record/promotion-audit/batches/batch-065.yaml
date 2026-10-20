@@ -1,0 +1,63 @@
+# record/promotion-audit/batches/batch-065.yaml
+batch: batch-065
+date: '2026-10-20'
+kind: narrowing-loss sweep (ADR-047 v4; triage-008 batch 1)
+reviewed:
+- THEORY-194
+- THEORY-083
+- THEORY-222
+- THEORY-172
+- THEORY-195
+filed:
+- narrowed: THEORY-194
+  kind: 1
+  entry: THEORY-tmprdkd2
+  answers: QUESTION-232
+- narrowed: THEORY-083
+  kind: 1
+  entry: THEORY-tmpnkoyu
+  answers: QUESTION-202
+- narrowed: THEORY-222
+  kind: 1
+  entry: THEORY-tmpfb136
+  answers: QUESTION-204
+- narrowed: THEORY-172
+  kind: 1
+  entry: THEORY-tmp6lphc
+  answers: QUESTION-209
+- narrowed: THEORY-195
+  kind: 1
+  entry: THEORY-tmp83501
+  answers: QUESTION-165
+not_filed:
+- narrowed: THEORY-194
+  clause: which variables a compression keeps is set by what it must stay informative about
+  triage_kind: 2
+  why: >-
+    Already carried. CLAIM-152 (Active, demonstrated) holds the general
+    form, that any individuation built on sufficiency is relative to its
+    target, grounds on THEORY-194 and THEORY-202, and quotes this gloss.
+    Triage-008 missed the carrier because it checked only extends,
+    refines and complements on Proposed entries.
+- narrowed: THEORY-194
+  clause: the 1D Ising clause
+  triage_kind: 3
+  why: three filters ranked on a proxy; note only, already in the body.
+reclassified: []
+yield: 5 Proposed THEORYs filed for 5 narrowed entries; 1 kind-2 clause found already carried (CLAIM-152).
+promotion_prs: []
+notes_for_ledger:
+- >-
+  Each new Proposed THEORY `answers` the QUESTION the original narrowing
+  created, so the question now has a proposed answer and the wide claim
+  inherits the old promote_when unchanged. Use that link in later batches.
+- >-
+  Triage-008's existing-carrier check looked only at extends, refines and
+  complements on Proposed entries. A kind-2 gloss can already be held by
+  an Active CLAIM that grounds on the narrowed entry (CLAIM-152 for
+  THEORY-194). Later batches should grep claims.d for grounds naming the
+  code before filing a kind-2 CLAIM.
+- >-
+  luria new --draft takes JSON, not markdown; flags or a JSON object with
+  the frontmatter keys plus body.
+owner_questions: []

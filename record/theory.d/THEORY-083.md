@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpi6wt0
 title: 'In Papyan, Han and Donoho''s runs of VGG, ResNet and DenseNet trained with cross-entropy on seven balanced datasets without augmentation, training past zero error shrinks last-layer within-class variability against between-class variability, and moves the centred class means and the classifier toward a common simplex equiangular tight frame and the decision toward nearest class mean, nearly to completion on the four easier datasets and only partly on ImageNet'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -18,6 +18,12 @@ history:
     "monotone across all 21 cells" is corrected. The promote_when,
     replication outside this protocol and a gradient-descent derivation,
     moves unchanged in substance to QUESTION-202.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added: the wider claim this entry's narrowing
+    dropped is now filed as THEORY-tmpnkoyu, Proposed, which extends
+    this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -47,7 +53,11 @@ summary: >-
   and is left to [THEORY-078](THEORY-078.md).
 answers:
 - QUESTION-051
+extended_by:
+- THEORY-tmpnkoyu
 ---
+
+<!-- inactive-ok-file: THEORY-tmpnkoyu — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: QUESTION-080 — Proposed or Open; a symmetry account of collapse and the question it bears on, open -->
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-286 — Proposed; derivations in free-features models, cited for the limits they set on this account, not leaned on -->
@@ -167,3 +177,10 @@ after the terminal phase begins, and some of the largest drops coincide
 with the learning-rate cuts. The title is narrowed to these runs and to
 what they show. Whether collapse holds outside this protocol, and why
 training reaches it, is [QUESTION-202](../questions.d/QUESTION-202.md).
+
+## Note of 2026-10-20: the wider claim filed
+
+The promotion audit narrowed this entry to what was shown. Under
+[ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, neural collapse as a general law of training past zero error, beyond Papyan, Han and Donoho's protocol, is now filed as
+[THEORY-tmpnkoyu](THEORY-tmpnkoyu.md), Proposed, which extends this entry and takes it as
+evidence. This entry's title and status are unchanged.
