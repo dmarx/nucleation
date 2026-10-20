@@ -1,5 +1,8 @@
 ---
+number: 800
 status: 'Proposed'
+formerly:
+- THEORY-tmph9xj9
 promote_when: 'A reading of the analytic treatment of the same model (Amit, Gutfreund and Sompolinsky 1985 and 1987, or an equivalent) or of a later simulation at N in the thousands, confirming that random patterns stored by the outer-product rule are attractors with basins of nonzero width up to a load proportional to N, near 0.14–0.15N, and that recall then collapses for all patterns rather than degrading pattern by pattern; and, for the forgetting clause, a model with decaying or saturating couplings shown to keep recent patterns retrievable at any number stored. It is refuted if the capacity scaling fails at large N, if the large-N basins shrink to zero width at any load, or if bounded couplings fail to prevent the collapse. A further simulation at N = 30 or 100 cannot settle it.'
 title: 'A network of N threshold units with symmetric Hebbian couplings stores random patterns as attractors up to a load proportional to N, about 0.15N for all large N, past which recall fails for every pattern at once, and a provision for forgetting old memories, such as couplings that saturate, keeps the most recent ones retrievable however many are added'
 version: 1
@@ -19,7 +22,7 @@ answers:
 ---
 
 
-# THEORY-tmph9xj9: A network of N threshold units with symmetric Hebbian couplings stores random patterns as attractors up to a load proportional to N, about 0.15N for all large N, past which recall fails for every pattern at once, and a provision for forgetting old memories, such as couplings that saturate, keeps the most recent ones retrievable however many are added
+# THEORY-800: A network of N threshold units with symmetric Hebbian couplings stores random patterns as attractors up to a load proportional to N, about 0.15N for all large N, past which recall fails for every pattern at once, and a provision for forgetting old memories, such as couplings that saturate, keeps the most recent ones retrievable however many are added
 
 ## Source
 

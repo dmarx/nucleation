@@ -1,5 +1,8 @@
 ---
+number: 801
 status: 'Proposed'
+formerly:
+- THEORY-tmpmmfpx
 promote_when: 'The interventional procedure run on real systems, not described: with mechanism interventions actually performed on a thermostat with and without its design process, an RL policy with and without its training loop, and a human, the verdicts coming out as the account says, and the procedure separating an accidentally optimal input-output system from an agent where a compression test does not. It is refuted if natural choices of variables give opposite verdicts on the same system with no principled way to choose (the frame problem THEORY-249 presses), or if the five recovery assumptions fail for the systems that matter. The recovery theorem, which holds, cannot settle whether the definition picks out agency.'
 title: 'Agents are the systems that would adapt their policy were their actions to affect the world differently, so the agent is wherever that adaptation is: a thermostat is not an agent while it together with its design process is, an RL training process is while its learnt policy generally is not, and humans are'
 version: 1
@@ -22,7 +25,7 @@ answers:
 <!-- inactive-ok-file: THEORY-249 THEORY-624 — Proposed; the frame objection and the rival account, cited as open -->
 
 
-# THEORY-tmpmmfpx: Agents are the systems that would adapt their policy were their actions to affect the world differently, so the agent is wherever that adaptation is: a thermostat is not an agent while it together with its design process is, an RL training process is while its learnt policy generally is not, and humans are
+# THEORY-801: Agents are the systems that would adapt their policy were their actions to affect the world differently, so the agent is wherever that adaptation is: a thermostat is not an agent while it together with its design process is, an RL training process is while its learnt policy generally is not, and humans are
 
 ## Source
 

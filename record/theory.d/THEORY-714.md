@@ -21,7 +21,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-tmpomt6b,
+    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-804,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
 tags:
@@ -41,9 +41,9 @@ summary: >-
 supports:
 - CLAIM-343
 extended_by:
-- THEORY-tmpomt6b
+- THEORY-804
 ---
-<!-- inactive-ok-file: THEORY-tmpomt6b — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
+<!-- inactive-ok-file: THEORY-804 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-714: Ince's I_ccs, the expected local co-information over only those events where every source, the joint source and the overlap change the target's surprisal in the same direction, under the maximum-entropy joint that preserves the source–target and joint-source marginals, is symmetric and self-redundant and satisfies the independent identity property; it fails Harder et al.'s identity and monotonicity, so its atoms can be negative, and, though its paper says otherwise, it fails subset equality
 
@@ -150,5 +150,5 @@ rule could restore the property is [QUESTION-223](../questions.d/QUESTION-223.md
 
 ## Note of 2026-10-20: the wider claim, filed Proposed
 
-Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-tmpomt6b](THEORY-tmpomt6b.md)
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-804](THEORY-804.md)
 as Proposed, extending this entry. It carries Ince's thesis that I_ccs is a correct redundancy measure and that its negative atoms are local misinformation and mechanistic redundancy, which this entry's title carried before batch 056 corrected and narrowed it. This entry is its evidence and is not changed by the filing.

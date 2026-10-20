@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**744 document(s) awaiting a decision.**
+**750 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 744.
+92 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-419 of the 744.
+425 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -265,10 +265,10 @@
 | 2026-10-14 | Proposed | [THEORY-325](../../record/theory.d/THEORY-325.md) | 20 | 0 | Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator |
 | 2026-10-14 | Proposed | [THEORY-323](../../record/theory.d/THEORY-323.md) | 19 | 0 | Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance |
 | 2026-10-14 | Proposed | [THEORY-317](../../record/theory.d/THEORY-317.md) | 16 | 0 | Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required |
+| 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 14 | 1 | Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided |
 | 2026-10-14 | Proposed | [THEORY-288](../../record/theory.d/THEORY-288.md) | 14 | 0 | In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task |
 | 2026-10-14 | Proposed | [THEORY-265](../../record/theory.d/THEORY-265.md) | 13 | 1 | In a minimal model of bistable deciders in a modular coordination game, phase synchronisation within strongly coupled modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not |
 | 2026-10-14 | Proposed | [THEORY-304](../../record/theory.d/THEORY-304.md) | 13 | 0 | In plane Couette and Poiseuille flow the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability |
-| 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 12 | 1 | Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 12 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
 | 2026-10-14 | Proposed | [THEORY-268](../../record/theory.d/THEORY-268.md) | 11 | 0 | An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment |
 | 2026-10-14 | Proposed | [THEORY-277](../../record/theory.d/THEORY-277.md) | 11 | 0 | For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated |
@@ -413,6 +413,7 @@
 | 2026-10-16 | Proposed | [THEORY-571](../../record/theory.d/THEORY-571.md) | 3 | 0 | A brain state is better characterised by how its activity moves among a repertoire of weakly coupled metastable substates on a landscape constrained by the structural connectome, their occupancy, dwell times and transitions, than by static connectivity; health is a metastable balance, depression a landscape of over-deep attractors and psychedelic states a flattened one, at opposite ends of one spectrum |
 | 2026-10-16 | Proposed | [THEORY-612](../../record/theory.d/THEORY-612.md) | 3 | 0 | Natural selection cannot be both a cause and an effect of a process such as niche construction: if selection is an emergent population-level process, niche construction partly composes it, and a whole and its parts are not independently fixable and so not causally related; if selection is not emergent, it is either no cause at all or incoherently individual-level. Niche construction can still cause the product of selection |
 | 2026-10-16 | Proposed | [THEORY-622](../../record/theory.d/THEORY-622.md) | 3 | 0 | Spatial boundaries are bona fide where a spatial discontinuity or a heterogeneity of material is present and fiat where they exist only by demarcation; the two obey different topologies, distinct bodies are never in bona fide contact, so any whole of separate bodies is a fiat object, and real properties of the material still enable and constrain where fiat boundaries can be drawn |
+| 2026-10-16 | Proposed | [THEORY-624](../../record/theory.d/THEORY-624.md) | 3 | 1 | Whether an identified system is an agent or a device can be cast as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so the verdict is relative to the observer's prior; on toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and some priors make everything look like an agent |
 | 2026-10-16 | Proposed | [THEORY-625](../../record/theory.d/THEORY-625.md) | 3 | 1 | Institutional facts are status functions, imposed by collective acceptance on things that cannot perform the function by their physical structure alone; the status carries deontic powers that give desire-independent reasons for action, and it exists only as represented, so institutions require language; 'X counts as Y in C' is the common case of the more general 'We accept (S has power (S does A))' |
 | 2026-10-16 | Proposed | [THEORY-630](../../record/theory.d/THEORY-630.md) | 3 | 0 | A protective measurement yields the expectation value ⟨A⟩ on a single system in the ideal limit, and with enough observables ψ up to a global phase; this shows ψ to be ontic only if the protection procedure carries no information about ψ, a premise that Zeno and adiabatic protection, which select ψ from a discrete eigenbasis the experimenter chose, do not meet |
 | 2026-10-16 | Proposed | [THEORY-631](../../record/theory.d/THEORY-631.md) | 3 | 0 | Standard unitary quantum theory and the general quantum theory of open systems are intertranslatable on their common domain, so neither dependence nor justification ranks them; the open theory comes out more fundamental only through premises about interpretation, that orthodox and Everettian readings exhaust the complete readings of the state vector, and that density operators precede state vectors in how states are assigned |
@@ -443,7 +444,6 @@
 | 2026-10-16 | Proposed | [THEORY-596](../../record/theory.d/THEORY-596.md) | 2 | 0 | To ascribe beliefs and desires is to predict a system by assuming it is rational and its beliefs mostly true, so a wholly false belief system has no coherent intentional description and contradictory beliefs no stable one, and the believer, like the person built on that notion, is an idealisation that real creatures only approximate |
 | 2026-10-16 | Proposed | [THEORY-606](../../record/theory.d/THEORY-606.md) | 2 | 0 | If consciousness words have meaning only through what is public, an entity is a candidate for consciousness only if an encounter with it in a shared world can be engineered, at least in principle; then disembodied chat agents, even with tools and memory, are not candidates, robots and virtually embodied agents could be, and beyond what an informed community comes to say there is no further fact about their consciousness |
 | 2026-10-16 | Proposed | [THEORY-616](../../record/theory.d/THEORY-616.md) | 2 | 0 | If a system has beliefs and desires just when attributing them, with rationality, predicts its behaviour well enough against rival theories, then the bearer of a language model's attitudes is the instance created by one context, not the model, the case that instances have them is presumptive and rests on tractability, and the best current desire hypothesis is helpfulness, honesty and harmlessness plus intrinsic desires a prompt installs |
-| 2026-10-16 | Proposed | [THEORY-624](../../record/theory.d/THEORY-624.md) | 2 | 1 | Whether an identified system is an agent or a device can be cast as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so the verdict is relative to the observer's prior; on toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and some priors make everything look like an agent |
 | 2026-10-16 | Proposed | [THEORY-627](../../record/theory.d/THEORY-627.md) | 2 | 0 | A nudge discovered by a learning system, unlike one a person designed, comes with no prior theory of why it works and may exploit a cognitive process no theory yet describes, so judging it by its outcomes cannot diagnose or repair its side effects; overseeing it needs inspection of which human processes it exploits, by people expert in human cognition |
 | 2026-10-16 | Proposed | [THEORY-637](../../record/theory.d/THEORY-637.md) | 2 | 0 | Treating openness in science as the unlimited sharing of research objects, with transparency ranked before reproducibility and inclusion, can narrow the epistemic diversity of research and entrench epistemic injustice, and this lowers the reliability of what is learned, so sharing is neither a necessary starting point nor a sufficient condition for reliable open science |
 | 2026-10-16 | Proposed | [THEORY-644](../../record/theory.d/THEORY-644.md) | 2 | 0 | Panpsychism escapes dualism's problem of mental causation only in its constitutive Russellian form, where micro-experiences constitute macro-experience; that form meets three combination problems, of subjects, qualities and structure, and every response that avoids combining (emergent, autonomous or identity panpsychism) gives back the advantage in mental causation or revised physics, while the combinatorial responses remain unworked |
@@ -530,11 +530,17 @@
 | 2026-10-20 | Proposed | [THEORY-796](../../record/theory.d/THEORY-796.md) | 2 | 0 | Question-order effects in surveys generally leave the probability of giving the same answer to both questions unchanged, the QQ equality that a projection model of judgment predicts, as Wang, Solloway, Shiffrin and Busemeyer propose |
 | 2026-10-20 | Proposed | [THEORY-797](../../record/theory.d/THEORY-797.md) | 2 | 0 | Deep classifiers trained with MSE loss stay near the least-squares classifier for their own features and move along the central path by the dynamics of continually renormalized gradient flow, whose equal-rate growth of the whitened class-separation singular values is how they reach neural collapse, as Han, Papyan and Donoho propose |
 | 2026-10-20 | Proposed | [THEORY-798](../../record/theory.d/THEORY-798.md) | 2 | 0 | Independently trained neural encoders of the same data learn latent spaces that differ mainly by an angle-preserving map, a rotation or reflection times a rescaling, so their cosine similarities to shared anchor samples agree across seeds, architectures and languages, as Moschella et al. propose |
+| 2026-10-20 | Proposed | [THEORY-799](../../record/theory.d/THEORY-799.md) | 2 | 0 | Under geometric coarse-graining of the S¹ hidden-metric network model the average degree flows as r^ν, with ν = 2/(γ − 1) − 1 when the degree exponent γ sets it and 2/β − 1 when β does, so the coarse-grained networks run toward a complete graph for γ < 3 or β < 2 and toward a ring otherwise |
+| 2026-10-20 | Proposed | [THEORY-800](../../record/theory.d/THEORY-800.md) | 2 | 0 | A network of N threshold units with symmetric Hebbian couplings stores random patterns as attractors up to a load proportional to N, about 0.15N for all large N, past which recall fails for every pattern at once, and a provision for forgetting old memories, such as couplings that saturate, keeps the most recent ones retrievable however many are added |
+| 2026-10-20 | Proposed | [THEORY-801](../../record/theory.d/THEORY-801.md) | 2 | 0 | Agents are the systems that would adapt their policy were their actions to affect the world differently, so the agent is wherever that adaptation is: a thermostat is not an agent while it together with its design process is, an RL training process is while its learnt policy generally is not, and humans are |
+| 2026-10-20 | Proposed | [THEORY-802](../../record/theory.d/THEORY-802.md) | 2 | 0 | In trained networks as in constructed ones, interchange interventions on a fixed set of variables can be satisfied equally by alignments related by a change of basis, so which internal direction mediates a high-level variable is fixed only relative to a chosen decomposition into units, and complex models will generally have several distinct, fully correct abstractions |
+| 2026-10-20 | Proposed | [THEORY-803](../../record/theory.d/THEORY-803.md) | 2 | 0 | Real complex networks embedded in the hyperbolic plane are self-similar under geometric renormalization, their coarse-grained layers keeping the degree distribution, clustering and degree–degree correlations of the original, and this self-similarity is evidence that a hidden metric space underlies them |
+| 2026-10-20 | Proposed | [THEORY-804](../../record/theory.d/THEORY-804.md) | 2 | 0 | Ince's common change in surprisal is a correct measure of the redundancy among any number of sources, and the negative partial-information atoms it gives are local misinformation and mechanistic redundancy, not defects of the measure |
 | 2026-10-20 | Proposed | [THEORY-781](../../record/theory.d/THEORY-781.md) | 1 | 0 | Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes |
 
 ## ADRs
 
-2 of the 744.
+2 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -543,7 +549,7 @@
 
 ## QUESTIONs
 
-9 of the 744.
+9 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -559,7 +565,7 @@
 
 ## CLAIMs
 
-217 of the 744.
+217 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -783,7 +789,7 @@
 
 ## CASEs
 
-1 of the 744.
+1 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -791,7 +797,7 @@
 
 ## TERMs
 
-2 of the 744.
+2 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -800,7 +806,7 @@
 
 ## ARGs
 
-2 of the 744.
+2 of the 750.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

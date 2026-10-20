@@ -1,5 +1,8 @@
 ---
+number: 804
 status: 'Proposed'
+formerly:
+- THEORY-tmpomt6b
 promote_when: "A proof that I_ccs is continuous, together with a system whose redundancy is fixed independently of any measure's construction (by a mechanism both sides of the operational dispute accept, such as a shared bit copied to every source) on which I_ccs agrees and a rival with non-negative atoms does not; or an argument that settles whether unique information may depend on the source–source marginal, which decides between I_ccs and Bertschinger et al. It is weakened if subset equality, which fails for I_ccs as defined, cannot be restored by a modified sign rule without losing the properties it keeps. More examples judged by intuition do not settle it, nor does agreement on systems where every measure agrees."
 title: "Ince's common change in surprisal is a correct measure of the redundancy among any number of sources, and the negative partial-information atoms it gives are local misinformation and mechanistic redundancy, not defects of the measure"
 version: 1
@@ -18,7 +21,7 @@ answers:
 ---
 
 
-# THEORY-tmpomt6b: Ince's common change in surprisal is a correct measure of the redundancy among any number of sources, and the negative partial-information atoms it gives are local misinformation and mechanistic redundancy, not defects of the measure
+# THEORY-804: Ince's common change in surprisal is a correct measure of the redundancy among any number of sources, and the negative partial-information atoms it gives are local misinformation and mechanistic redundancy, not defects of the measure
 
 ## Source
 

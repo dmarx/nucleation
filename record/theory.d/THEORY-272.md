@@ -22,7 +22,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-tmph9xj9,
+    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-800,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
 tags:
@@ -40,9 +40,9 @@ summary: >-
   come only from overload: they appear at a low load too. Nor does it say
   anything about addressed memory.
 extended_by:
-- THEORY-tmph9xj9
+- THEORY-800
 ---
-<!-- inactive-ok-file: THEORY-tmph9xj9 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
+<!-- inactive-ok-file: THEORY-800 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: CLAIM-179 CLAIM-180 — Proposed; open, and cited as open: the theses of the nucleating-argument line are under test, not settled -->
 
 # THEORY-272: In Hopfield's 1982 simulations at N = 30 and 100, a network of threshold units with symmetric Hebbian couplings acts as a content-addressable memory whose stored random patterns are attractors: recall degrades severely near 0.15N patterns, a pattern placed 10 bits from another at N = 100 often fuses with it, and at 25-fold overload no stored pattern stays stable
@@ -142,5 +142,5 @@ Checked for the promotion audit (batch 051, [ADR-047](../decisions.d/ADR-047.md)
 
 ## Note of 2026-10-20: the wider claim, filed Proposed
 
-Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-tmph9xj9](THEORY-tmph9xj9.md)
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-800](THEORY-800.md)
 as Proposed, extending this entry. It carries Hopfield's large-N capacity of about 0.15N and his forgetting clause, which this entry's title carried before batch 051 narrowed it to his simulations at N = 30 and 100. This entry is its evidence and is not changed by the filing.

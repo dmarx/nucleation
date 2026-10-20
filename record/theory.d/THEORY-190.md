@@ -19,7 +19,7 @@ history:
 - version: 3
   date: '2026-10-20'
   note: >-
-    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-tmp2r4mq and THEORY-tmpof2md,
+    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-799 and THEORY-803,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
 tags:
@@ -42,10 +42,10 @@ summary: >-
   hidden metric space, or that the nested layers are a hierarchy found in
   the data.
 extended_by:
-- THEORY-tmp2r4mq
-- THEORY-tmpof2md
+- THEORY-799
+- THEORY-803
 ---
-<!-- inactive-ok-file: THEORY-tmp2r4mq THEORY-tmpof2md — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
+<!-- inactive-ok-file: THEORY-799 THEORY-803 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 <!-- inactive-ok-file: THEORY-188 QUESTION-025 — Proposed or Open; cited as the model this extends and the question it bears on weakly -->
 
 # THEORY-190: Under geometric coarse-graining of the S¹ hidden-metric network model, which merges blocks of r angular neighbours into supernodes linked if any of their members were, the supernodes' link probability approaches the S¹ form with β kept, κ′ = (Σκ^β)^{1/β}, μ′ = μ/r and R′ = R/r, its ratio to that form tending to 1 as their separation grows large against the block width and the coupling μκ′κ″; between nearby supernodes it exceeds that form
@@ -137,5 +137,5 @@ links lie, so a degree flow derived from the closed form inherits it.
 
 ## Note of 2026-10-20: the wider claim, filed Proposed
 
-Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-tmp2r4mq](THEORY-tmp2r4mq.md) and [THEORY-tmpof2md](THEORY-tmpof2md.md)
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-799](THEORY-799.md) and [THEORY-803](THEORY-803.md)
 as Proposed, extending this entry. They carry the two claims this entry set aside when batch 048 narrowed it: the source's degree flow ⟨k⟩′ = r^ν⟨k⟩ with its phase boundaries, and the source's finding that real networks are self-similar under the renormalization, as evidence of hidden metric spaces. This entry is their evidence and is not changed by the filing.

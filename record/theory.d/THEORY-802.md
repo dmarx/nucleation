@@ -1,5 +1,8 @@
 ---
+number: 802
 status: 'Proposed'
+formerly:
+- THEORY-tmpmojjf
 promote_when: 'A demonstration in a trained network, not a constructed one, of two alignments of the same high-level variable that differ by a change of basis crossing component boundaries and agree on every interchange intervention drawn from the data distribution, together with a showing that some further intervention, or nothing, separates them. Or a proof that, for a stated class of networks and high-level models, alignments that agree on all such interventions for every aligned variable are unique up to a stated symmetry. The first would confirm the account in trained models; the second would bound it, and a bound that leaves no ties in the class that matters would refute it there. What cannot settle it: further cases where one alignment scores higher, since the account is about ties under a fixed set of interventions.'
 title: 'In trained networks as in constructed ones, interchange interventions on a fixed set of variables can be satisfied equally by alignments related by a change of basis, so which internal direction mediates a high-level variable is fixed only relative to a chosen decomposition into units, and complex models will generally have several distinct, fully correct abstractions'
 version: 1
@@ -20,7 +23,7 @@ answers:
 ---
 
 
-# THEORY-tmpmojjf: In trained networks as in constructed ones, interchange interventions on a fixed set of variables can be satisfied equally by alignments related by a change of basis, so which internal direction mediates a high-level variable is fixed only relative to a chosen decomposition into units, and complex models will generally have several distinct, fully correct abstractions
+# THEORY-802: In trained networks as in constructed ones, interchange interventions on a fixed set of variables can be satisfied equally by alignments related by a change of basis, so which internal direction mediates a high-level variable is fixed only relative to a chosen decomposition into units, and complex models will generally have several distinct, fully correct abstractions
 
 ## Source
 

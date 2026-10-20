@@ -1,5 +1,8 @@
 ---
+number: 803
 status: 'Proposed'
+formerly:
+- THEORY-tmpof2md
 promote_when: 'A test on embedded real networks that compares the layers produced by geometric coarse-graining with those produced from a null ordering of the circle (random angles, or angles shuffled within degree classes), with the self-similarity of degree distribution, clustering and degree–degree correlations measured by a stated statistic over more than a handful of layers, and the geometric layers collapsing where the null layers do not. It is refuted if null orderings collapse as well, since then the blocks, not the hidden geometry, produce the collapse. Further collapses judged by eye cannot settle it.'
 title: 'Real complex networks embedded in the hyperbolic plane are self-similar under geometric renormalization, their coarse-grained layers keeping the degree distribution, clustering and degree–degree correlations of the original, and this self-similarity is evidence that a hidden metric space underlies them'
 version: 1
@@ -16,7 +19,7 @@ extends:
 ---
 
 
-# THEORY-tmpof2md: Real complex networks embedded in the hyperbolic plane are self-similar under geometric renormalization, their coarse-grained layers keeping the degree distribution, clustering and degree–degree correlations of the original, and this self-similarity is evidence that a hidden metric space underlies them
+# THEORY-803: Real complex networks embedded in the hyperbolic plane are self-similar under geometric renormalization, their coarse-grained layers keeping the degree distribution, clustering and degree–degree correlations of the original, and this self-similarity is evidence that a hidden metric space underlies them
 
 ## Source
 

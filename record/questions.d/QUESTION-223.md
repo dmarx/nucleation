@@ -17,7 +17,7 @@ summary: >-
   right redundancy measure is not: that was the old promote_when, and it
   moves here.
 answered_by:
-- THEORY-tmpomt6b
+- THEORY-804
 ---
 
 # QUESTION-223: Is Ince's common change in surprisal a correct redundancy measure: is it continuous, does it agree with a redundancy fixed by mechanism where rivals with non-negative atoms do not, may unique information depend on the source-source marginal, and can a modified sign rule restore subset equality?

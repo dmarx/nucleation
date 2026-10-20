@@ -19,7 +19,7 @@ summary: >-
   out for some class up to a symmetry, was the old promote_when, and it
   moves here.
 answered_by:
-- THEORY-tmpmojjf
+- THEORY-802
 ---
 
 # QUESTION-234: Do interchange interventions leave the mediating direction underdetermined in trained networks: do two basis-related alignments in a trained model tie on every interchange drawn from the data, and for which networks are alignments that agree on all such interventions unique up to a stated symmetry?

@@ -18,7 +18,7 @@ summary: >-
   The source's flow of ⟨k⟩ as r^ν, and its phase boundaries, rest on the
   closure holding at every separation and on a power-law approximation.
 answered_by:
-- THEORY-tmp2r4mq
+- THEORY-799
 ---
 
 # QUESTION-203: How does the average degree of the S¹ hidden-metric model flow under geometric coarse-graining when the closure fails between nearby supernodes, and does an exact ν(γ, β, r) confirm or move the phase boundaries γ = 3 and β = 2?
