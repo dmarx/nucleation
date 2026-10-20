@@ -1,0 +1,51 @@
+id: THEORY-529
+batch: batch-062
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: partly
+hand_label: argument
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand as an argument. The title is a criterion for
+    representation: a state is shown to be one by adaptation for efficient
+    transmission under a teleofunctionally fixed distortion measure. That
+    is Martínez's proposal, supported by selected examples. The classifier
+    read "cannot increase along a processing chain" as a theorem signal.
+    That clause is the data-processing inequality, which is a textbook
+    theorem: for a Markov chain X -> Y -> Z, I(X;Z) <= I(X;Y), since
+    I(X;Y,Z) = I(X;Z) + I(X;Y|Z) = I(X;Y) + I(X;Z|Y), and I(X;Z|Y) = 0 by
+    the Markov property, so I(X;Z) = I(X;Y) - I(X;Y|Z) <= I(X;Y). Its use
+    here, that a mutual-information criterion would place a car/no-car
+    decision at the retina, follows directly. It is correct and is not
+    what the title asserts.
+  excluded: >-
+    The criterion itself. The promote_when asks for a workable measure of
+    coder complexity and a test against cases chosen to break the
+    criterion. Neither can be met by re-derivation or by argument. The
+    paper's own footnote 9 says the complexity leg cannot be computed, and
+    its footnote 7 concedes that without teleofunctions every system is
+    rate-distortion efficient for some loss.
+evidence:
+  - "Martínez (2025), LIT-149, read in full in NOTE-165; the THEORY body's summary of pp. 1-17 and footnotes 7, 9, 13."
+  - "This review's derivation of the data-processing inequality (scope.accepted)."
+blockers:
+  - "No operational measure of coder complexity exists in the source, so the representational surface cannot be estimated for any system."
+  - "The test against cases chosen to break the criterion has not been run."
+notes: >-
+  A formal core can be separated: the data-processing inequality and its
+  consequence for mutual-information criteria of representation. But it
+  is a textbook theorem that a source applies, so splitting it falls
+  under the open owner question about splitting textbook or toy-model
+  theorems (THEORY-110, THEORY-673). Flagged, not split.
+unlocks: []
+next_action: >-
+  Retain Proposed. Requeue only if a coder-complexity measure, or a test
+  of the criterion against adversarial cases, is filed. A wave-5 review
+  would not move it, because its promote_when asks for a measure and a
+  test, not an argument.

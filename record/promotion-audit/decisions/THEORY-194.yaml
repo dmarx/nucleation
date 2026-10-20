@@ -1,0 +1,102 @@
+# record/promotion-audit/decisions/THEORY-194.yaml
+id: THEORY-194
+batch: batch-061
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: partly
+scope:
+  accepted: >-
+    The title narrowed to what Koch-Janusz and Ringel (LIT-873, read in
+    full in NOTE-674) measured on Monte Carlo samples (ADR-047 v3):
+      - 2D Ising, a 2 x 2 block, one hidden unit: the mutual-information
+        maximizer weights the four spins uniformly, Kadanoff's block spin
+        (Fig. 2A).
+      - Fully packed 2D dimer model with decoupled noise-spin pairs, an
+        8 x 8 block: the filters are the staggered patterns of the
+        low-momentum electric fields E_y and E_x +- E_y (Fig. 4), with
+        vanishing weight on the noise sites (text).
+      - Iterated up to four times on 128 x 128 Ising samples (5000 per
+        temperature): the effective temperature flows down for starting
+        T < T_c and up for T > T_c (Fig. 5, curves from T/T_c = 0.98 to
+        1.03; 0.99 flows down, 1.002 flows up). The text gives T_c "with
+        1% accuracy" from the divergent flow and nu ~ 1.0 +- 0.15 from a
+        finite-size data collapse (main text p. 5; supplement Fig. 9 and
+        Eq. 16).
+      - A contrastive-divergence RBM on the same noisy dimer data couples
+        first to the noise pairs, and with enough hidden units to
+        columnar textures rather than the staggered ones (supplement,
+        Fig. 11 and text).
+    Each item is stated in the text. Figs. 2, 4, 5 and 11 were checked by
+    rendering pages 3, 4 and 18 of arXiv:1704.06279 (latest version, 18
+    pp.), so the figure content no longer rests on captions alone.
+  excluded: >-
+    "Is the renormalization-group relevant one" as a general statement,
+    and the 1D Ising clause. In 1D the paper compares three candidate
+    filters (decimation, boundary majority, uniform majority) on its proxy
+    A_Lambda, to leading order in block size: decimation gives
+    K_LB<e^{-1} v1>, the boundary filter half that, and the uniform filter
+    vanishes as 1/sqrt(L_V). That ranks three filters. It does not show
+    decimation maximizes the objective over all filters. The paper says so
+    itself: "The exact solution ... is difficult to find analytically".
+    Also excluded: the closing gloss, "which variables a compression keeps
+    is set by what it must stay informative about". It is the record's
+    interpretation, and nothing in the study varies the target to test
+    it. The equivalence with a short-ranged effective Hamiltonian in two
+    or more dimensions, and any system with unknown relevant variables,
+    form the promote_when, which moves unchanged to a new QUESTION.
+derivation: >-
+  A check of the 1D factor of two (supplement Eqs. 30-36), so that the
+  body's "twice" is not taken on trust.
+    1. Decimation: P(h|V) = 1 iff h = v1. The coupling to the environment
+       through the boundary gives <-Delta E>_H = K_LB e_{-1} h plus a term
+       in <v_LV> that vanishes exponentially with L_V. So A_dec =
+       K_LB <e_{-1} v1>.
+    2. Boundary majority: h is set by v1 + v_LV.
+       a. Correctly normalised, P(h|v1,v_LV) = (1 + h(v1+v_LV)/2)/2. As
+          printed, Eq. 32 lacks the inner 1/2, which would give a
+          probability of 3/2 when v1 = v_LV. That is a typo, and the
+          paper's later steps use the normalised form.
+       b. With v1 and v_LV independent and uniform for large L_V,
+          conditioning on h gives <v1>_h = (1/4) sum v1 (1 + h(v1+v_LV)/2)
+          = h/2. Under decimation, <v1>_h = h.
+       c. The boundary term in v1 is therefore half the decimation term,
+          which is the paper's A_bnd = (K_LB/2)<e_{-1} v1> (Eq. 36). The
+          paper's intermediate steps differ but give the same ratio: it
+          writes <v1>_H = h/4 in Eq. 34 and doubles in Eq. 35. Only the
+          ratio was checked, not the full form of A_Lambda.
+    3. Uniform majority: the hard constraint shifts the magnetization by
+       O(sqrt(L_V)), which a field H ~ h/sqrt(L_V) reproduces. So
+       A_unif ~ O(1/sqrt(L_V)), which tends to 0.
+  The ranking decimation > boundary > uniform, with the factor of two,
+  holds to leading order. It is a comparison of three filters, as the
+  body says.
+evidence:
+  - "NOTE-674: read in full from arXiv:1704.06279v2 (18 pp.); derivations followed, figures from captions."
+  - "This review: pages 3-4 (Figs. 2-5) rendered and read; supplement text on the flow, the data collapse and the CD-RBM comparison (Figs. 8, 9, 11) read."
+  - "Sequels (LIT-881, LIT-878, LIT-885, LIT-889), already in the source list, are not needed for the narrowed title."
+blockers: []
+notes: >-
+  Hand label: measurement (a numerical study), with a formal side result
+  (the 1D comparison and the quasi-1D saturation argument) that the title
+  no longer carries. Triage-007 called it a theorem from 'derived' and
+  'cites' signals, which fired on the supplement's analytics. Medium
+  confidence, for two reasons. The Ising nu is an estimate with a +- 0.15
+  error bar that the supplement's figure reports only as "consistent".
+  And Tc "to about 1%" is the paper's own reading of Fig. 5. The Fig. 5
+  curves bracket T_c between 0.99 and 1.002, which agrees with it.
+  CLAIM-152 is supported by this account and is unaffected: it is a
+  demonstrated claim about sufficiency, which this narrower title still
+  instances. THEORY-202's Connections paraphrases the former gloss; the
+  dated note says the gloss is the record's reading.
+unlocks: []
+next_action: >-
+  Promote in a PR: retitle to the two 2D models with the measured
+  numbers, move the promote_when unchanged to a new QUESTION, add a dated
+  note on scope and the figure check, and trim the inactive-ok directives
+  naming THEORY-194.

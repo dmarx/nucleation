@@ -1,0 +1,39 @@
+# record/promotion-audit/decisions/THEORY-528.yaml
+id: THEORY-528
+batch: batch-064
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+hand_label: argument with a measurement clause
+classifier_label: argument (score 0 on every class)
+title_asserts: >-
+  An argument (embedded explains the cases at least as well; a generic
+  kind does no work; conservatism favours embedded) carrying a measurement
+  clause: "memory research finds that external stores lack the
+  interference, generation effect and power-law learning and forgetting of
+  internal memory".
+formal_in_fact: false
+scope:
+  accepted: >-
+    The past-endorsement dilemma and the dependence-is-not-constitution
+    point are strong as arguments (NOTE-343), but neither is the title.
+  excluded: >-
+    The measurement clause is false as worded: memory research measured
+    the internal side only; the external side is thought experiment, no
+    external store tested (the body says so). An ADR-047 v3 narrowing
+    would have to drop it, leaving an argument resting on conservatism,
+    which the promote_when explicitly says cannot settle it. Not met by
+    argument; not a wave-5 candidate.
+evidence:
+  - "Rupert (2004), LIT-422, read in NOTE-343."
+blockers:
+  - "Experiments on external stores of the kind promote_when names (interference, generation effect, learning curves); the cognitive-offloading literature (e.g. Risko & Gilbert 2016 review) is the nearest, not held, and may not test these signatures."
+notes: >-
+  Classifier zero right on class, missed the "research finds" measurement
+  clause. Worth a title correction later: "memory research finds" should
+  read as the internal side measured and the external side argued. Not
+  made here; a correction belongs with the reading task.
+next_action: "Requeue as a reading task; correct the measurement clause when it is done."
+recommend: reading task, then title correction

@@ -1,0 +1,89 @@
+# record/promotion-audit/batches/batch-063.yaml
+batch: batch-063
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+selection: >-
+  Triage-007's measurement_route, entries 1–5 in its order: THEORY-246,
+  -385, -201, -334 and -039. Each was sorted by hand by what its title
+  asserts (batch 020) before review, and the hand label is recorded against
+  triage-007's.
+reviewed: [THEORY-246, THEORY-385, THEORY-201, THEORY-334, THEORY-039]
+outcomes:
+  narrow-and-promote: [THEORY-246, THEORY-385, THEORY-334]
+  split: [THEORY-201]
+  retain-proposed: [THEORY-039]
+yield: >-
+  4 of 5 have a promotion path. THEORY-246 and THEORY-334 narrow to what
+  their one fully read study measured (ADR-047 v3). THEORY-385's clustered
+  result was one figure without numbers, so the review re-ran it
+  independently, which its promote_when asked for, and it reproduced.
+  THEORY-201's derived statistics re-derive and check numerically and
+  split off; its measurements were read only from figures. THEORY-039 is
+  the record's own comparative synthesis and has no review path.
+promotion_prs:
+  - "#277: THEORY-246 and THEORY-334 narrowed and promoted; THEORY-201's derived statistics split off as THEORY-tmpnxcxo; QUESTION-tmpu3u0x and QUESTION-tmpsdkg1 (branch claude/promote-theories-246-334-split-201)."
+  - "#279: THEORY-385 narrowed and promoted on the review's independent re-run (branch claude/promote-theory-385)."
+band:
+  - {code: THEORY-246, title_asserts: thesis plus measurement, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-385, title_asserts: measurement, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-201, title_asserts: theorem plus measurement plus argued link, hand_label: theorem plus measurement, triage_007: measurement, agrees: partly, outcome: split}
+  - {code: THEORY-334, title_asserts: measurement plus inference, hand_label: measurement, triage_007: measurement, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-039, title_asserts: comparative synthesis (the record's own), hand_label: argument, triage_007: measurement, agrees: false, outcome: retain-proposed}
+notes_for_ledger:
+  - >-
+    Hand against classifier: 3 of 5 agree outright, 1 partly (THEORY-201,
+    a derivation with measurements attached), 1 wrong (THEORY-039, a
+    cross-work synthesis whose title lists measured-sounding outcomes).
+    That is in line with the 0.89 precision triage-007 reported. Its top
+    measurement entries are good v3 material, but expect ML titles
+    (THEORY-246, -201, -039) to carry a general thesis or a synthesis
+    alongside the measurement.
+  - >-
+    The commonest v3 move in this batch was dropping a generalising or
+    causal lead clause and keeping the measured relation (THEORY-246,
+    -334). Check the lead clause first: in both it was the part the study
+    did not measure.
+  - >-
+    "Drop clauses the source states only in words" bit twice: THEORY-246's
+    relearned-head result (Figure 6) and THEORY-334's "keeps only the
+    property needed" went to the body. Numbers in the running text
+    (Ballard's 50 and 129 ms, Kornblith's "block 13 of 16") were enough to
+    keep a clause.
+  - >-
+    A promote_when asking for "a test by others than the authors" can be
+    met by the review's own re-run when the experiment is small enough to
+    write (THEORY-385: HNSW in about 170 lines of Python, 30,000 points,
+    roughly an hour of CPU in all, with the machine shared). Record the
+    design and every number in the decision file.
+  - >-
+    The re-run contradicted one of the paper's subsidiary claims:
+    candidate extension, which Malkov and Yashunin recommend for
+    clustered data, capped recall at about 0.97 against 0.999 without it.
+    Worth a dated note on NOTE-916 when it is next touched.
+  - >-
+    A leading-order derivation in the source (THEORY-201, App. D–F) can be
+    re-derived in a few steps and checked by exact computation on sampled
+    instances. The check showed where "to leading order" bites: at
+    v = 16, m = 4 the exact covariance at depth 4 is a quarter below the
+    formula. Put that limit in the split THEORY's "does not say".
+  - >-
+    THEORY-039 is a THEORY whose summary says it is "the record's
+    synthesis across the five, not a claim any of them makes". Under
+    ADR-032 that belongs in a CLAIM (interpretive warrant). This is
+    another case for the open owner question on record-own results filed
+    as THEORY or Active (CLAIM-384, -385, -391).
+  - >-
+    The scripts (hnsw_rules.py, rhm_corr.py, rhm_noise.py)
+    live in the session scratchpad and are not committed; the decision
+    files hold the recipes.
+owner_questions:
+  - >-
+    THEORY-039: refile the record's own comparative synthesis as an
+    interpretive CLAIM under ADR-032, or leave it as a Proposed THEORY? It
+    joins the open question on record-own results.
+  - >-
+    THEORY-385 was promoted on the review's own re-run, as an independent
+    test, rather than on a third-party study. If the owner reads "others
+    than the authors" as requiring a published study, hold it.

@@ -1,0 +1,77 @@
+# record/promotion-audit/batches/batch-064.yaml
+batch: batch-064
+date: '2026-10-20'
+wave: 3
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+selection: >-
+  Triage-007's control set: five unqueued wave-3 entries the title
+  classifier scored 0 on every class (margin 0, labelled argument by
+  default). Reviewed as routed entries would be, sorted by hand first.
+reviewed:
+  - THEORY-072
+  - THEORY-152
+  - THEORY-410
+  - THEORY-528
+  - THEORY-646
+hand_labels:
+  THEORY-072: argument with a derivation attached
+  THEORY-152: argument
+  THEORY-410: argument resting on an empirical premise
+  THEORY-528: argument with a measurement clause
+  THEORY-646: argument
+yield: "1 split of 5 (THEORY-072's formal core filed as an Active, demonstrated CLAIM in #280); 0 promoted; 4 retained"
+promotion_prs:
+  - "#280: closure's formal core split from THEORY-072 as CLAIM-tmp2pvi2 (Active, demonstrated); THEORY-072 stays Proposed."
+notes_for_ledger:
+  - >-
+    Control verdict: the classifier's zero score was right on class for 5
+    of 5 (none is a theorem or measurement title) but missed what moves
+    an entry. One carried a derivation in its body (THEORY-072, split);
+    two carried an empirical premise or measurement clause inside an
+    argument's title (THEORY-410 "each intention matches one value of
+    it"; THEORY-528 "memory research finds that external stores lack
+    ..."), which make them reading tasks, not wave-5 arguments. The
+    missing signals are body-level: a section marked as the record's own
+    inference from a definition, and "finds"/"matches" clauses inside an
+    argument. A title-only classifier cannot see the first.
+  - >-
+    Definitions are a source of splittable formal cores, not only
+    theorems: THEORY-072's core is a short proof from Montévil and
+    Mossio's Definition 4, which the paper states as a property without
+    proof. Look for "the record's reading" next to a quoted definition.
+  - >-
+    Reading tasks with named sources: THEORY-410, Sadtler et al. 2014
+    (Nature) and Golub et al. 2018 (Nature Neuroscience) on decoder
+    re-mapping (bear on the refutation clause; may yield a correction, not
+    a promotion), Gallego et al. 2020 (Nature Neuroscience) on stable
+    latent dynamics; THEORY-528, experiments on external stores
+    (cognitive-offloading literature), whose measurement clause is
+    already worded wider than the source (internal side measured, external
+    side argued) and wants a correction when the reading is done.
+  - >-
+    THEORY-152's promote_when is empirical and its title has six clauses;
+    neither wave 5 nor one v3 study can move it. Leave unqueued unless the
+    owner asks for an exit-voice-loyalty-neglect reading, and split the
+    title first.
+  - >-
+    THEORY-646 is the one wave-5 case: its promote_when (an exclusion
+    defence of whole-person functional states) may ask more than its title
+    (realism does not require RTM). THEORY-133, which supplies the
+    difference-making criterion, is Active, but no entry applies it to a
+    whole-person belief.
+  - >-
+    Montévil and Mossio's HAL deposit (hal-01192916, /document) fetches
+    as a PDF from here; the record's LIT-582 url points at it.
+  - >-
+    Process note: a `pkill -f "luria lint"` in this batch matched any
+    running lint, so a parallel fork's local lint may have been killed
+    around 14:20 UTC. Never pkill by command pattern while forks run.
+owner_questions:
+  - >-
+    CLAIM-tmp2pvi2 (#280) is another record-own result filed Active, the
+    same question as CLAIM-384, -385 and -391.
+  - >-
+    THEORY-646: may its promote_when be narrowed to what its title says
+    (that non-representational functionalism is a coherent realism, not
+    that it survives exclusion arguments)? If so it can promote as
+    written.

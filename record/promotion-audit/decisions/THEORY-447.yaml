@@ -1,0 +1,44 @@
+# record/promotion-audit/decisions/THEORY-447.yaml
+id: THEORY-447
+batch: batch-061
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing new. The title is Parfit's (1971) fission argument stated as
+    a conditional: "Granted that a person survives a brain transplant and
+    that half a brain would do, ... so what matters is not identity". The
+    conditional shape is what triage-007 read as a theorem.
+  excluded: >-
+    Promotion as a valid inference from the two premises. Lewis's reply
+    (THEORY-476), a named rival, grants the inference's premises
+    (identity is one-one and all-or-nothing; what matters may branch and
+    come in degrees) and denies the conclusion, by
+    describing division as two persons sharing their earlier stages. A
+    conditional whose antecedent a rival grants while rejecting the
+    consequent is not demonstrated by the antecedent. The step from
+    "each product stands in all that matters" to "what matters is not
+    identity" is where the dispute sits. No formal core separates.
+evidence:
+  - "NOTE-378 (Parfit 1971, read in full); NOTE-374 (Olson's SEP survey, the fission dilemma)."
+  - "THEORY-447's promote_when: a defence of transplant survival or a multiple case, together with an answer to Lewis."
+blockers:
+  - "An argument answering Lewis's multiple-occupancy description (THEORY-476)."
+  - "A defence of brain-transplant survival, or a multiple case that does not need it (Parfit's fn. 5)."
+notes: >-
+  Hand label: argument. Triage-007's 'theorem_title' signal fired on
+  "Granted that ... so ...". Wave 5 would judge it on its own terms, but
+  batch 041 and batch 058 found that wave 5 does not move a pure argument
+  whose promote_when, premises and rivals are unchanged. git log shows
+  THEORY-447 at version 1 since 2026-10-16. Requeue only when an answer
+  to Lewis or a transplant-survival defence is filed.
+unlocks: []
+next_action: >-
+  Retain. Wave 5 only if THEORY-476 or the promote_when changes.

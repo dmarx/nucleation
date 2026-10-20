@@ -1,0 +1,50 @@
+# record/promotion-audit/decisions/THEORY-410.yaml
+id: THEORY-410
+batch: batch-064
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+hand_label: argument resting on an empirical premise
+classifier_label: argument (score 0 on every class)
+title_asserts: >-
+  A conceptual conclusion (BCI decoding fits identifying the intention
+  with a coarse cortical variable, under proportional difference-making)
+  that turns on an empirical premise stated in the title: each intention
+  matches one value of that variable.
+formal_in_fact: false
+scope:
+  accepted: >-
+    The conditional step is sound as Pernu gives it: if one intention
+    matches one ensemble-level value, the mental and the coarse-physical
+    counterfactuals coincide and the proportionality argument for a
+    distinct mental cause collapses. Too slight to split; it is the
+    paper's argument restated, not a formal core. Its presupposition,
+    THEORY-133 (List and Menzies), is Active, so the premise that blocks
+    it is the empirical one alone.
+  excluded: >-
+    The empirical premise, which Pernu asserts from one quotation
+    (Musallam et al. 2004) and which the title carries. The promote_when
+    names the right test (one intention, two ensemble-level states, across
+    sessions or after decoder re-mapping). Not met by argument, so not a
+    wave-5 candidate.
+evidence:
+  - "Pernu (2018), LIT-147, read in full in NOTE-091."
+blockers:
+  - >-
+    A reading task, now with named sources: Sadtler et al. (2014, Nature,
+    "Neural constraints on learning") and Golub et al. (2018, Nature
+    Neuroscience, "Learning by neural reassociation"), where decoder
+    re-mapping makes the same cursor intention depend on different
+    population states, bear on the refutation clause; Gallego et al.
+    (2020, Nature Neuroscience) on stable latent dynamics across neuron
+    turnover bears on the support clause. None held; not read here.
+notes: >-
+  Classifier right that it is no theorem or measurement, but it missed an
+  empirical premise inside an argument's title ("each intention matches
+  one value of it"). Such entries route to reading tasks, not to wave 5.
+  The re-mapping studies may well refute the premise rather than support
+  it, so the reading could end in a correction, not a promotion.
+next_action: "Requeue as a reading task (Sadtler 2014 / Golub 2018 first; bioRxiv preprints may be open)."
+recommend: reading task

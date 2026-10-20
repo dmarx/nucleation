@@ -1718,3 +1718,187 @@ history note. THEORY-277 is requeued on this basis.
   stale when docs-generate concretizes main. After each round, map every
   `X-tmp…` in decisions/ to the file whose `formerly:` lists it, and
   replace it. Batch files keep their tmp codes as a historical log.
+
+## 2026-10-20 — batch 060 (triage-007 theorem route 1-5)
+
+- Hand vs classifier on triage-007's top 5 theorem calls: 3 of 5 agree.
+  Both disagreements are philosophy titles shaped like results. THEORY-453
+  is a colon-joined position statement and THEORY-476 an "If ... then"
+  conditional. Both carry the signals theorem_title, cites, shown_thm and
+  derived. So even at margin 3 the route mixes in arguments. Sort by hand
+  before assigning re-derivations.
+- The route ranks by margin, then rubric score. The three real theorems
+  were margins 5, 5 and 4, and both false positives were margin 3. A
+  margin cut at 4 would have been exact on this sample. The next batches
+  can check whether margin >= 4 stays clean.
+- Two of the three real theorems promoted because the missing steps were
+  textbook-sized: a Laplace-method kernel expansion, and superposition
+  coding plus a KKT check. The third, Isett's Onsager theorem, is paper-
+  length and joins THEORY-188 and THEORY-270 on the skimmed-proof
+  question.
+- The Hamming degrading channel has a closed form worth reusing. a(x) =
+  min(p(x), theta), T = (kappa1/kappa2) I + 1 (a1 - a2)^T / kappa2. It was
+  derived here, not copied from the paper's (49). Numerical recipe in the
+  THEORY-751 decision file.
+
+## 2026-10-20 — batch 061 (triage-007 theorem route 6-10)
+
+- Triage-007's theorem label went 0 of 5 on entries 6-10. Entries 6-10 sit
+  at margin 3, below the margin-5 and margin-4 heads. Four are conditional
+  or modal-shaped arguments ("Granted that ... so", "reaches only", "only
+  if", "as long as ... cannot"), the failure the labelled check already
+  showed. The fifth is a numerical study, flagged from its supplement's
+  analytics. The theorem route below margin 4 should be treated as
+  unsorted. Sort it by hand, and expect mostly arguments.
+- A measurement whose figures a NOTE read only from captions can be
+  promoted under v3 once the figures are rendered from the arXiv PDF and
+  checked (THEORY-194, like THEORY-083). Record which figures, and what
+  each shows, in the dated note.
+- Interpretive glosses appended to a measurement title ("which variables a
+  compression keeps is set by what it must stay informative about") leave
+  the title at promotion and go to a dated note. When other entries cite
+  the account for the gloss (THEORY-202 here), the note should say that
+  the gloss is the record's reading.
+- Check the source's own "small" derivations even when they are not in the
+  title. Supplement Eq. 32 of LIT-873 is not normalised as printed; the
+  ratio that follows is still right. That correction is in the decision
+  file only, since the THEORY's body does not use Eq. 32.
+- THEORY-034 joins the reading tasks for closed works: Ladyman 1998 and
+  Every Thing Must Go are Unavailable. THEORY-153 waits on field data.
+  Keep both off the review queue.
+
+## 2026-10-20 — batch 062 (triage-007 theorem route 11-15)
+
+- Hand against classifier: 2 of 5 agree. That is below triage-007's fitted
+  theorem precision of 0.82, as expected at margins 2-3. - The two
+  arguments were called theorems on a conditional clause ("when the
+  appraisals rest on") and on a textbook-theorem clause ("cannot increase
+  along a processing chain"). - The scaling law was called a theorem on
+  "because ... provided". - Even so, the misclassified scaling law
+  promoted by the measurement route. Route membership is a worse predictor
+  of yield than the hand sort.
+- Scaling-law and training-dynamics titles split two ways. - THEORY-204's
+  derivation rests on assumed scaling forms, so it is a measurement with a
+  conditional derivation. ADR-047 v3 narrows it to the measured match and
+  moves the causal "because" to a QUESTION. - THEORY-209's model result is
+  exact, and its subject is deep networks, so it is split rather than
+  narrowed (ADR-040). Rule of thumb: when the THEORY's subject is the real
+  system, split off the model result; when the subject is the measured
+  system, narrow.
+- A paper's "broken detailed balance" can mean only a nonzero current.
+  Kunin et al. define it as J ≠ 0. Under their own Assumption 3 the
+  linear-regression state is time-reversible once velocities are flipped:
+  each Hessian mode is an equilibrium oscillator at its own temperature.
+  Check the definition before carrying "nonequilibrium" into a title. A
+  one-line numerical check suffices: C(t) = εC(t)ᵀε.
+- Check a paper's text claim against its own table. LIT-888's text says
+  the fits overlap "for up to 10 of the first 12 points"; its table shows
+  all eight TinyStories windows overlapping. Its TinyStories intervals
+  also drift downward with fit length, which neither the text nor the
+  THEORY mentioned.
+- Both arXiv PDFs (2107.09133v4, 2602.07488v3) fetched cleanly with
+  pdftotext -layout. Equation fractions come out split across lines, so
+  reconstruct constants by re-deriving them, not by reading the text.
+- THEORY-529 and THEORY-126 wait on a measure or a study, not on a wave-5
+  review. Track them off the review queue.
+
+## 2026-10-20 — batch 063 (triage-007 measurement route 1-5)
+
+- Hand against classifier: 3 of 5 agree outright, 1 partly (THEORY-201, a
+  derivation with measurements attached), 1 wrong (THEORY-039, a cross-
+  work synthesis whose title lists measured-sounding outcomes). That is in
+  line with the 0.89 precision triage-007 reported. Its top measurement
+  entries are good v3 material, but expect ML titles (THEORY-246, -201,
+  -039) to carry a general thesis or a synthesis alongside the
+  measurement.
+- The commonest v3 move in this batch was dropping a generalising or
+  causal lead clause and keeping the measured relation (THEORY-246, -334).
+  Check the lead clause first: in both it was the part the study did not
+  measure.
+- "Drop clauses the source states only in words" bit twice: THEORY-246's
+  relearned-head result (Figure 6) and THEORY-334's "keeps only the
+  property needed" went to the body. Numbers in the running text
+  (Ballard's 50 and 129 ms, Kornblith's "block 13 of 16") were enough to
+  keep a clause.
+- A promote_when asking for "a test by others than the authors" can be met
+  by the review's own re-run when the experiment is small enough to write
+  (THEORY-385: HNSW in about 170 lines of Python, 30,000 points, roughly
+  an hour of CPU in all, with the machine shared). Record the design and
+  every number in the decision file.
+- The re-run contradicted one of the paper's subsidiary claims: candidate
+  extension, which Malkov and Yashunin recommend for clustered data,
+  capped recall at about 0.97 against 0.999 without it. Worth a dated note
+  on NOTE-916 when it is next touched.
+- A leading-order derivation in the source (THEORY-201, App. D–F) can be
+  re-derived in a few steps and checked by exact computation on sampled
+  instances. The check showed where "to leading order" bites: at v = 16, m
+  = 4 the exact covariance at depth 4 is a quarter below the formula. Put
+  that limit in the split THEORY's "does not say".
+- THEORY-039 is a THEORY whose summary says it is "the record's synthesis
+  across the five, not a claim any of them makes". Under ADR-032 that
+  belongs in a CLAIM (interpretive warrant). This is another case for the
+  open owner question on record-own results filed as THEORY or Active
+  (CLAIM-384, -385, -391).
+- The scripts (hnsw_rules.py, rhm_corr.py, rhm_noise.py) live in the
+  session scratchpad and are not committed; the decision files hold the
+  recipes.
+
+## 2026-10-20 — batch 064 (triage-007 control)
+
+- Control verdict: the classifier's zero score was right on class for 5 of
+  5 (none is a theorem or measurement title) but missed what moves an
+  entry. One carried a derivation in its body (THEORY-072, split); two
+  carried an empirical premise or measurement clause inside an argument's
+  title (THEORY-410 "each intention matches one value of it"; THEORY-528
+  "memory research finds that external stores lack ..."), which make them
+  reading tasks, not wave-5 arguments. The missing signals are body-level:
+  a section marked as the record's own inference from a definition, and
+  "finds"/"matches" clauses inside an argument. A title-only classifier
+  cannot see the first.
+- Definitions are a source of splittable formal cores, not only theorems:
+  THEORY-072's core is a short proof from Montévil and Mossio's Definition
+  4, which the paper states as a property without proof. Look for "the
+  record's reading" next to a quoted definition.
+- Reading tasks with named sources: THEORY-410, Sadtler et al. 2014
+  (Nature) and Golub et al. 2018 (Nature Neuroscience) on decoder re-
+  mapping (bear on the refutation clause; may yield a correction, not a
+  promotion), Gallego et al. 2020 (Nature Neuroscience) on stable latent
+  dynamics; THEORY-528, experiments on external stores (cognitive-
+  offloading literature), whose measurement clause is already worded wider
+  than the source (internal side measured, external side argued) and wants
+  a correction when the reading is done.
+- THEORY-152's promote_when is empirical and its title has six clauses;
+  neither wave 5 nor one v3 study can move it. Leave unqueued unless the
+  owner asks for an exit-voice-loyalty-neglect reading, and split the
+  title first.
+- THEORY-646 is the one wave-5 case: its promote_when (an exclusion
+  defence of whole-person functional states) may ask more than its title
+  (realism does not require RTM). THEORY-133, which supplies the
+  difference-making criterion, is Active, but no entry applies it to a
+  whole-person belief.
+- Montévil and Mossio's HAL deposit (hal-01192916, /document) fetches as a
+  PDF from here; the record's LIT-582 url points at it.
+- Process note: a `pkill -f "luria lint"` in this batch matched any
+  running lint, so a parallel fork's local lint may have been killed
+  around 14:20 UTC. Never pkill by command pattern while forks run.
+
+## 2026-10-20 — round 060-064 tally (triage-007 routes)
+
+- 11 of 25 have promotion paths: theorem route 6 of 15 (batches 060-062),
+  measurement route 4 of 5 (063), control 1 of 5 (064).
+- Hand sort against triage-007: theorem label right on 5 of 15. At
+  margin >= 4 it was right 3 of 3 (THEORY-763, -744, -751); at margin 2-3
+  it was right 2 of 12, the rest conditional- or modal-shaped arguments.
+  Measurement label right on 3 of 5, partly on 1. The control's zero score
+  was right on class for all five.
+- The hand label predicts yield better than the route: two misrouted
+  "theorems" (THEORY-194, -204) promoted as measurements.
+- Measurement titles in ML often lead with a general thesis next to the
+  measurement; in both batch-063 narrowings the lead clause was the part
+  not measured.
+- Definitions are a second source of splittable formal cores (THEORY-072).
+  When a THEORY's subject is the real system, split off the model result;
+  when its subject is the measured system, narrow it (batch 062).
+- Never `pkill -f "luria lint"`: parallel forks share the process table,
+  and batch 064's kill took out batch 060's lint.
+- ADR-048 (2026-10-19): do not check the anthology before filing.

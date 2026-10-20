@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/THEORY-763.yaml
+id: THEORY-763
+batch: batch-060
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: theorem
+hand_label: theorem
+triage_007_label: theorem
+classifier_agrees: true
+formal_in_fact: true
+scope:
+  accepted: >-
+    The flux consequence is already re-derived in the body from THEORY-749's
+    energy balance: for s before the support and t with E(t) > 0 the
+    integrated flux tends to E(t) > 0, and for s with E(s) > 0 and t after
+    the support it tends to -E(s) < 0. Checked again here; it needs only
+    v in C([0,T]; L^2) and E not constant. The exponent bookkeeping
+    alpha = 1/(2b + 1) -> 1/3 as b -> 1 was re-checked from the Main
+    Lemma's scaling, (-2 alpha b^2 = -alpha - alpha b + 1 - b).
+  excluded: >-
+    The existence theorem, Isett's Theorem 1, rests on about 90 pages of
+    gluing and convex-integration estimates (the Main Lemma's bounds
+    (2.7)-(2.10), Sections 9-10 and 17). A batch cannot re-derive them, and
+    the reading (NOTE-974) is a skim. The promote_when asks for exactly
+    that check, and it excludes journal acceptance.
+evidence:
+  - "NOTE-974 (skim of Isett 2018, LIT-1255); THEORY-749 for the energy balance."
+blockers:
+  - "A Read check of Isett's estimates or of an independent complete proof (e.g. Buckmaster, De Lellis, Szekelyhidi and Vicol)."
+notes: >-
+  This is the same case as THEORY-188 and THEORY-270: a peer-reviewed
+  proof, held but skimmed, that a batch cannot re-derive. Do not decide it
+  here. The owner question (does a skimmed peer-reviewed proof meet "a
+  proof"?) decides it. The entry's own promote_when says no, so even a yes
+  to the owner question would need the promote_when amended.
+owner_question: >-
+  Does a skimmed peer-reviewed proof count as "a proof" (THEORY-188, -270)?
+  THEORY-763 is a third case, and its promote_when explicitly says no.
+next_action: "Hold for the owner question; otherwise a reading task (Read of the estimates or of BDSV 2019)."

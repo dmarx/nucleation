@@ -1,0 +1,49 @@
+# record/promotion-audit/decisions/THEORY-039.yaml
+id: THEORY-039
+batch: batch-063
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: comparative synthesis across five works (the record's own)
+hand_label: argument
+triage_007_label: measurement
+agrees_with_classifier: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Each row of the table is a reading of one work, and the five readings
+    are sourced (NOTE-283, -317, -318, -319, -320). The negative half, "none
+    of these is a measured compression of I(X;T)", checks as a statement
+    about the five: only LIT-372 measures I(X;T), and there the fall belongs
+    to double-saturating units under binning (THEORY-035, Active). The other
+    four measure no information quantity.
+  excluded: >-
+    "Differ in kind" is the record's interpretive judgement across works
+    that share no task, architecture, optimiser or time scale, and measure
+    no common quantity; the body itself says the differences "may belong to
+    those settings rather than to training". It is not a measurement, and
+    no single study could have measured it, so ADR-047 v3 does not apply.
+    It is not a derivation either, so ADR-032's demonstrated route does not
+    apply.
+evidence:
+  - "THEORY-039 body and summary; the five NOTEs it cites; THEORY-035."
+blockers:
+  - >-
+    The promote_when names one training setting instrumented with all five
+    works' quantities in the same runs. That is new experimental work, not
+    reachable by a review or a simulation of comparable scale here.
+notes: >-
+  Classifier miss: triage-007 called it measurement because the title
+  lists measured-sounding outcomes (weights, kernels, units); by hand it is
+  the record's own comparative synthesis, which the summary says outright
+  ("the record's synthesis across the five, not a claim any of them
+  makes"). Under ADR-032 the record's own argument belongs in a CLAIM
+  (interpretive warrant, ADR-043 v2), with the five readings as grounds;
+  that refiling is a correction for wave 5 or the owner, not a promotion.
+  The negative half could be split off as a narrow demonstrated-by-reading
+  CLAIM if the owner wants it, but it is a count over five works, which
+  ADR-043 v2 would class as interpretive too.
+unlocks: []
+next_action: "Wave 5: consider refiling as an interpretive CLAIM under ADR-032; no promotion path."

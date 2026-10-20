@@ -1,0 +1,69 @@
+# record/promotion-audit/batches/batch-061.yaml
+batch: batch-061
+date: '2026-10-20'
+kind: evidence-audit
+wave: 3
+record_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+selection: >-
+  Triage-007 theorem_route entries 6-10 in its order: THEORY-194, -447,
+  -034, -153, -588. Each is sorted by hand by what its title asserts
+  (batch 020) before review. The hand label is recorded against
+  triage-007's.
+reviewed: [THEORY-194, THEORY-447, THEORY-034, THEORY-153, THEORY-588]
+outcomes:
+  narrow-and-promote: [THEORY-194]
+  retain-proposed: [THEORY-447, THEORY-034, THEORY-153, THEORY-588]
+yield: >-
+  1 of 5 promoted. None of the five is a theorem by title. THEORY-194 is
+  a numerical measurement, narrowed under v3 to the two 2D models, with
+  the figures checked against the arXiv PDF. The other four are
+  arguments:
+    - THEORY-447 is Parfit's fission argument as a conditional.
+    - THEORY-034 is an interpretive placement waiting on closed founding
+      texts.
+    - THEORY-153 is Beer's unvalidated model, stated as necessary
+      conditions.
+    - THEORY-588 is an impossibility claim made by verbal analysis.
+promotion_prs:
+  - "#275: THEORY-194 narrowed and promoted; QUESTION-tmpjpe7s; inactive-ok directives trimmed (branch claude/promote-theory-194)."
+band:
+  - {code: THEORY-194, triage_007: theorem, hand: measurement, agrees: false, formal_in_fact: partly, outcome: narrow-and-promote}
+  - {code: THEORY-447, triage_007: theorem, hand: argument, agrees: false, formal_in_fact: false, outcome: retain-proposed}
+  - {code: THEORY-034, triage_007: theorem, hand: argument, agrees: false, formal_in_fact: false, outcome: retain-proposed}
+  - {code: THEORY-153, triage_007: theorem, hand: argument, agrees: false, formal_in_fact: false, outcome: retain-proposed}
+  - {code: THEORY-588, triage_007: theorem, hand: argument, agrees: false, formal_in_fact: false, outcome: retain-proposed}
+notes_for_ledger:
+  - >-
+    Triage-007's theorem label went 0 of 5 on entries 6-10. Entries 6-10
+    sit at margin 3, below the margin-5 and margin-4 heads. Four are
+    conditional or modal-shaped arguments ("Granted that ... so",
+    "reaches only", "only if", "as long as ... cannot"), the failure the
+    labelled check already showed. The fifth is a numerical study, flagged
+    from its supplement's analytics. The theorem route below margin 4
+    should be treated as unsorted. Sort it by hand, and expect mostly
+    arguments.
+  - >-
+    A measurement whose figures a NOTE read only from captions can be
+    promoted under v3 once the figures are rendered from the arXiv PDF
+    and checked (THEORY-194, like THEORY-083). Record which figures, and
+    what each shows, in the dated note.
+  - >-
+    Interpretive glosses appended to a measurement title ("which variables
+    a compression keeps is set by what it must stay informative about")
+    leave the title at promotion and go to a dated note. When other
+    entries cite the account for the gloss (THEORY-202 here), the note
+    should say that the gloss is the record's reading.
+  - >-
+    Check the source's own "small" derivations even when they are not in
+    the title. Supplement Eq. 32 of LIT-873 is not normalised as printed;
+    the ratio that follows is still right. That correction is in the
+    decision file only, since the THEORY's body does not use Eq. 32.
+  - >-
+    THEORY-034 joins the reading tasks for closed works: Ladyman 1998 and
+    Every Thing Must Go are Unavailable. THEORY-153 waits on field data.
+    Keep both off the review queue.
+owner_questions:
+  - >-
+    None new. THEORY-447 and THEORY-588 would hinge on no open question.
+    THEORY-034 needs owner-supplied copies of Ladyman 1998 ('What is
+    Structural Realism?') and Ladyman and Ross, Every Thing Must Go.
