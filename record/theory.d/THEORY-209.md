@@ -22,7 +22,7 @@ history:
 - version: 2
   date: '2026-10-20'
   note: >-
-    The exact linear-regression result split off into THEORY-tmpopk8o,
+    The exact linear-regression result split off into THEORY-779,
     filed Active, by the promotion audit (batch 062, ADR-040), on the
     pattern of THEORY-770. This THEORY keeps the claim that converged deep
     networks are in that state, extends the new one, and stays Proposed:
@@ -37,7 +37,7 @@ date: '2026-10-13'
 source:
 - LIT-1011
 extends:
-- THEORY-tmpopk8o
+- THEORY-779
 answers:
 - QUESTION-069
 summary: >-
@@ -178,7 +178,7 @@ Assumption 3 is that it misdescribes the second.
 ## Note of 2026-10-20: the model result split off, and what "broken detailed balance" means here
 
 The promotion audit (batch 062) re-derived the linear-regression stationary
-state and filed it as [THEORY-tmpopk8o](THEORY-tmpopk8o.md), which this account now extends.
+state and filed it as [THEORY-779](THEORY-779.md), which this account now extends.
 Under Assumption 3 the moments come out as the paper says. The parameter
 covariance is ησ²H(H + λI)⁻¹/(2S(1 − β)), isotropic on H's column space
 for small λ. The velocity covariance is σ²H/(S(1 − β²)), each mode's

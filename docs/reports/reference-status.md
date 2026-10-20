@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**485 documents cited without acknowledgement.** Not listed: 10105 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**485 documents cited without acknowledgement.** Not listed: 10110 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1369,7 +1369,7 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 
 A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
 
-9 citations in 3 files await a look; 23 other citations of it are acknowledged.
+9 citations in 3 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
 - [`record/literature.d/LIT-970.md:80`](../../record/literature.d/LIT-970.md)
@@ -2547,7 +2547,7 @@ If pretraining text is a mixture of hidden Markov models indexed by a latent con
 
 The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
 
-5 citations in 1 file await a look; 1 other citation of it is acknowledged.
+5 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
