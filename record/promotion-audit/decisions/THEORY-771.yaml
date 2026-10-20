@@ -1,0 +1,121 @@
+# record/promotion-audit/decisions/THEORY-771.yaml
+# Filed as THEORY-tmp5mn7l.
+id: THEORY-771
+batch: owner-directed-2026-10-20
+reviewed: '2026-10-20'
+reviewed_revision: 2c8f91a5e605e1cf606ff6dcfb8b93a52e03dd72
+current_status: Proposed
+disposition: promote
+confidence: high
+scope:
+  accepted: >-
+    The whole title as it stands (Bousquet and Slotine's Theorem 1, with the
+    record's corrections already in the entry: ε_c as in Hypothesis 2, not
+    Remark 8's inverted print; O(ε) slow error only when d_g = 0), with two
+    precisions R2 makes explicit: χ is the largest singular value of the
+    metric anywhere over the smallest anywhere, and a metric depending on y
+    must certify contraction along every admissible path of y.
+  excluded: >-
+    Nothing in the title. Anything stochastic, any bound on dynamical
+    dependence, and Remark 8's multi-level cascade were never claimed.
+evidence:
+  - "NOTE-1025 (Read in full, arXiv:1512.08464v1): Hypothesis 2, Lemmas 1-4, Theorem 1; bound (11) re-derived there."
+  - "NOTE-1020 (Del Vecchio and Slotine 2013, Read in full): R1 (the constant-metric robustness lemma, the paper's own), R2 and R5 below."
+  - "Numerical checks: dvs-scripts/checks.py Check2 (bounds A and C held at 0.05-0.9 ε_c from |x̃₀| = 5); bs_check.py (bounds held, first order confirmed). Re-run by the coordinator 2026-10-20."
+rederivation: |
+  The promote_when asks for a step-by-step re-derivation of Lemma 1 in a
+  state- and time-dependent metric and of the passage from an arbitrary
+  initial fast state to O(ε) (Lemma 4), with constants. Both follow, as
+  recorded in NOTE-1020 and checked by the coordinator (in particular
+  the small-gain substitution in R5 step 3: substituting the Y bound into
+  the X bound leaves the factor 1 − (εχ_f/β_f)(α_f,x + χ_g α_f,y α_g,x/β_g)
+  = 1 − ε/ε_c, which is positive below ε_c).
+
+    **R2. Lemma 1 for a state- and time-dependent metric (not in this
+    paper).** Bousquet and Slotine's Definition 1 allows Θ(x, t), certified by
+    the generalized Jacobian F = (Θ̇ + Θ ∂f/∂x)Θ⁻¹ with Θ̇ = ∂_tΘ + Σᵢ ∂_{xᵢ}Θ fᵢ
+    along f, and sym(F) ≼ −λI. Assume f and Θ are C¹ and
+    0 < θ ≤ σ(Θ(x, t)) ≤ σ̄(Θ(x, t)) ≤ Θ̄ for all x, t.
+
+    1. For a C¹ curve c: [0, 1] → ℝⁿ define its length at time t,
+       ℓ_t(c) = ∫₀¹ |Θ(c(s), t) c′(s)| ds, and D(t) = inf ℓ_t(c) over curves from
+       x(t) to x_p(t).
+    2. Flowing a curve by f shrinks its length. Let φ_{t,h} be f's flow from t
+       to t + h. For fixed s, v(τ) = ∂_s φ_{t,τ−t}(c(s)) satisfies v̇ = (∂f/∂x)v,
+       so δz = Θv satisfies δż = Θ̇v + Θ(∂f/∂x)v = Fδz, and
+       d|δz|²/dτ = 2δzᵀFδz ≤ −2λ|δz|². So |δz(t + h)| ≤ e^{−λh}|δz(t)|, and
+       integrating over s, ℓ_{t+h}(φ_{t,h}∘c) ≤ e^{−λh}ℓ_t(c). Θ̇ is taken along
+       f, as the certificate requires, because the curve is moved by f alone.
+    3. The perturbed endpoint moves off the flowed curve by at most h|d|.
+       x_p(t + h) − φ_{t,h}(x_p(t)) = h d(t) + o(h) for d continuous in t.
+       The straight segment between them has length at time t + h of
+       h|Θ(x_p(t), t)d(t)| + o(h).
+    4. Given η > 0, take c with ℓ_t(c) ≤ D(t) + η. The flowed curve followed
+       by the segment joins x(t + h) to x_p(t + h), so
+       D(t + h) ≤ e^{−λh}(D(t) + η) + h|Θ d| + o(h). Since η is arbitrary,
+       D⁺D(t) ≤ −λD(t) + |Θ(x_p(t), t)d(t)|.
+    5. Comparison lemma: D(t) ≤ e^{−λt}D(0) + ∫₀ᵗ e^{−λ(t−τ)}|Θd(τ)| dτ.
+    6. For any curve, |x_p − x| ≤ ∫|c′| ds ≤ ℓ_t(c)/θ, so |x_p(t) − x(t)| ≤ D(t)/θ.
+       The straight segment gives D(0) ≤ Θ̄|x_p(0) − x(0)|, and |Θd| ≤ Θ̄|d|.
+       With χ = Θ̄/θ:
+       |x_p(t) − x(t)| ≤ χe^{−λt}|x_p(0) − x(0)| + χ∫₀ᵗ e^{−λ(t−τ)}|d(τ)| dτ.
+
+    Two points the sketches leave implicit. First, χ must be Θ̄/θ, the ratio of
+    the largest singular value anywhere to the smallest anywhere. The
+    supremum of the pointwise condition numbers can be smaller and is not
+    enough. Second, for partial contraction (f depending on another
+    variable's path y(t)) with Θ depending on y, Θ̇ includes ∂_yΘ·ẏ along the
+    actual path. The certificate must hold for every admissible path, the
+    actual one included, or Θ must not depend on y.
+
+    **R5. What this gives THEORY-771.** That entry lacks Lemma 1 in a
+    state- and time-dependent metric and the passage from an arbitrary fast
+    initial state to O(ε) (Bousquet and Slotine's Lemma 4). R2 supplies the
+    first. For the second, Lemma 4 is not needed under Hypothesis 2: R2's
+    convolution form gives the whole of Theorem 1 directly. In Bousquet and
+    Slotine's notation (fast time; x̃ fast, ỹ = y − ȳ; |ỹ(0)| = |Δ|; |ȳ| ≤ M̄;
+    ε_c = β_f/[χ_f(α_f,x + χ_g α_f,y α_g,x/β_g)]; ε < ε_c):
+
+    1. Fast line. x̃ ≡ 0 solves dx̃/dt = f̃(x̃, y(t), u) because f̃(0, y, u) = 0,
+       and f̃ is contracting in x̃ at rate β_f for the actual path y(t). With the
+       disturbance εδf, R2 gives
+       |x̃(t)| ≤ χ_f e^{−β_f t}|x̃₀| + εχ_f∫₀ᵗ e^{−β_f(t−τ)}|δf(τ)| dτ.  (A)
+    2. Slow line. ȳ solves dy/dt = εḡ(y, u(εt)), contracting at rate εβ_g in
+       fast time (if Θ_g depends on y and on slow time εt only, its derivative
+       along εḡ is ε times its slow-time derivative, so the rate scales by ε);
+       y solves it with disturbance εδg. R2 gives
+       |ỹ(t)| ≤ χ_g e^{−εβ_g t}|Δ| + εχ_g∫₀ᵗ e^{−εβ_g(t−τ)}|δg(τ)| dτ.  (B)
+    3. Small gain on running maxima X(t) = max_{τ≤t}|x̃|, Y(t) = max_{τ≤t}|ỹ|.
+       With |δf| ≤ d_f + α_f,x X + α_f,y(M̄ + Y) and |δg| ≤ d_g + α_g,x X,
+       (A) and (B) give X ≤ χ_f|x̃₀| + (εχ_f/β_f)(d_f + α_f,x X + α_f,y(M̄ + Y))
+       and Y ≤ χ_g|Δ| + (χ_g/β_g)(d_g + α_g,x X). Substituting,
+       X ≤ X* = [χ_f|x̃₀| + (εχ_f/β_f)(d_f + α_f,y(M̄ + χ_g|Δ| + χ_g d_g/β_g))]/(1 − ε/ε_c),
+       Y ≤ Y* = χ_g|Δ| + (χ_g/β_g)(d_g + α_g,x X*).
+       This is Bousquet and Slotine's (11), and it holds for **any** x̃₀, not only
+       x̃₀ = O(ε). X(t) is finite on every interval where the solution exists,
+       so the bound also rules out finite-time blow-up, and the solution is
+       global.
+    4. Fast decay. Let D_f = d_f + α_f,x X* + α_f,y(M̄ + Y*). By (A),
+       |x̃(t)| ≤ χ_f|x̃₀|e^{−β_f t} + εχ_f D_f/β_f, so for t ≥ log(1/ε)/β_f,
+       |x̃(t)| ≤ ε(χ_f|x̃₀| + χ_f D_f/β_f). That is Lemma 4's conclusion on x̃,
+       with its constant written out. D_f stays bounded as ε → 0, for example
+       for ε ≤ ε_c/2.
+    5. Slow error. Put step 4's bound into |δg| and (B). Using
+       ε∫₀ᵗ e^{−εβ_g(t−τ)} dτ ≤ 1/β_g and ∫₀ᵗ e^{−εβ_g(t−τ)}e^{−β_f τ} dτ ≤ 1/β_f:
+       |ỹ(t)| ≤ χ_g|Δ|e^{−εβ_g t} + χ_g d_g/β_g + εχ_g α_g,x χ_f(D_f/(β_f β_g) + |x̃₀|/β_f).  (C)
+       With d_g = 0, |ỹ(t)| = O(ε) for t ≥ log(1/ε)/(εβ_g). The transient is
+       max(log(1/ε)/β_f, log(1/ε)/(εβ_g)), within the
+       (1/β_f + 1/(εβ_g)) log(1/ε) of Theorem 1. With d_g ≠ 0 the floor
+       χ_g d_g/β_g is O(1), as NOTE-1025 found.
+
+  So every step of the title is proved with constants. Lemma 4 is bypassed,
+  not repaired: bound (11) holds for any initial fast state.
+blockers: []
+notes: >-
+  Promoted at the owner's direction of 2026-10-20 ("promote
+  THEORY-tmp5mn7l"), outside a numbered batch and in the reading PR rather
+  than a separate promotion PR, as the owner asked. ADR-047 v2's condition
+  (a re-derivation recorded step by step in the decision file) is met
+  above.
+next_action: >-
+  Carried out in the same PR: status Active, history note citing this file.

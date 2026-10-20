@@ -27,7 +27,6 @@ answered_by:
 - CLAIM-390
 - THEORY-771
 ---
-<!-- inactive-ok-file: THEORY-771 — Proposed; a trajectory-error rate, cited as partial -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-221: Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block's aggregate small to a stated order in ε, and is the converse false?
 
@@ -72,7 +71,7 @@ the long run, by coupling strength."
     fast modules and of the reduced slow system, and a small-gain
     separation ε < ε_c, fast states stay O(ε) from quasi-steady values
     and slow states O(ε) from the reduced trajectory, uniformly in time
-    after a transient (Bousquet and Slotine, [THEORY-771](../theory.d/THEORY-771.md), Proposed).
+    after a transient (Bousquet and Slotine, [THEORY-tmp5mn7l](../theory.d/THEORY-tmp5mn7l.md)).
     It is deterministic. With that estimate the block sums' closure
     defect ε·QCx̃ is O(ε²), matching [CLAIM-386](../claims.d/CLAIM-386.md)'s measured second order.
     One numerical check in the reading, not a proof, put the transfer

@@ -21,8 +21,9 @@
 - [LIT-1127](record/literature.d/LIT-1127.md) (Simon & Ando 1961) is Unavailable: no lawful full text was reached.
 - [THEORY-749](record/theory.d/THEORY-749.md), [THEORY-763](record/theory.d/THEORY-763.md), [NOTE-974](record/notes.d/NOTE-974.md) and [QUESTION-219](record/questions.d/QUESTION-219.md) cite the admissible Onsager theorem in place of saying it is not held; [THEORY-749](record/theory.d/THEORY-749.md) no longer calls Isett's solutions dissipative.
 - [THEORY-742](record/theory.d/THEORY-742.md) and [NOTE-972](record/notes.d/NOTE-972.md) credit the λ = d/2 dividing line to Machta et al.; [THEORY-661](record/theory.d/THEORY-661.md), [QUESTION-221](record/questions.d/QUESTION-221.md), [CLAIM-386](record/claims.d/CLAIM-386.md) and [QUESTION-217](record/questions.d/QUESTION-217.md) cite the new readings.
-- [QUESTION-219](record/questions.d/QUESTION-219.md), [THEORY-776](record/theory.d/THEORY-776.md) and [NOTE-1013](record/notes.d/NOTE-1013.md) cite the local Onsager theorem; [QUESTION-217](record/questions.d/QUESTION-217.md), [CLAIM-331](record/claims.d/CLAIM-331.md) and [LIT-1287](record/literature.d/LIT-1287.md) cite the variational reading of slow feature analysis.
-- [THEORY-661](record/theory.d/THEORY-661.md), [QUESTION-222](record/questions.d/QUESTION-222.md) and [THEORY-771](record/theory.d/THEORY-771.md) cite Del Vecchio & Slotine.
+- [QUESTION-219](record/questions.d/QUESTION-219.md), [THEORY-tmpnvuqr](record/theory.d/THEORY-tmpnvuqr.md) and [NOTE-tmp18d5h](record/notes.d/NOTE-tmp18d5h.md) cite the local Onsager theorem; [QUESTION-217](record/questions.d/QUESTION-217.md), [CLAIM-331](record/claims.d/CLAIM-331.md) and [LIT-tmp65c2j](record/literature.d/LIT-tmp65c2j.md) cite the variational reading of slow feature analysis.
+- [THEORY-661](record/theory.d/THEORY-661.md), [QUESTION-222](record/questions.d/QUESTION-222.md) and [THEORY-tmp5mn7l](record/theory.d/THEORY-tmp5mn7l.md) cite Del Vecchio & Slotine.
+- [THEORY-tmp5mn7l](record/theory.d/THEORY-tmp5mn7l.md) (Bousquet & Slotine) is promoted to Active at the owner's direction, on re-derivations recorded in record/promotion-audit/decisions/[THEORY-tmp5mn7l](record/theory.d/THEORY-tmp5mn7l.md).yaml; the entries that cited it as Proposed are updated.
 
 ### Fixed
 
