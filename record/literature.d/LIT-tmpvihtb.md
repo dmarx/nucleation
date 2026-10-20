@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on coarse-to-fine processes, which the owner relayed. No NOTE is filed.
+  read 2026-10-20 (NOTE-tmpg06if) in full; worth reading for the clearest working example of a Mori–Zwanzig memory term turned into a finite Markovian augmentation (Stinis's finite-memory closure: the resolved modes plus a relaxing subgrid-force field), tested against filtered DNS on Burgers and four Navier–Stokes flows. Read it knowing that the augmentation's error is not bounded, the memory length is fitted or preset, the zero-variance projection makes the formalism a deterministic trajectory closure, "finite support" is exponential decay, and the comparisons are plots without error norms. THEORY-tmpswb4h (Active) and THEORY-tmp4ou43 (Proposed) are filed from it.
 title: 'Non-Markovian closure models for large eddy simulations using the Mori-Zwanzig formalism'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-19. `published:` is arXiv v1, 10 November 2016, per ADR-002. The exchange cited it by DOI only. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-19, commit d1573d2) for the authors, title and identifiers found nothing.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Read in full from arXiv:1611.03311v2 (23 January 2017) in NOTE-tmpg06if. Status Deferred → Active. The summary is corrected: the memory is not kept but replaced by auxiliary relaxation equations, and its length is fitted or preset, not derived. The "Not read" paragraph is replaced. THEORY-tmpswb4h and THEORY-tmp4ou43 filed.
 tags:
 - natural-sciences
 - mathematics
@@ -24,15 +28,18 @@ keywords:
 - 'memory'
 implementations: []
 summary: >-
-  Parish & Duraisamy (2017; arXiv 2016). Derives subgrid closure models for large-eddy simulation from the Mori–Zwanzig formalism, keeping a finite memory of the resolved scales in place of a Markovian eddy viscosity.
+  Parish & Duraisamy (2017; arXiv 2016). Derives subgrid closures for large-eddy simulation from the Mori–Zwanzig formalism by Stinis's finite-memory approximation, which replaces the memory integral by auxiliary relaxation equations for the subgrid force: a finite Markovian augmentation of the resolved modes, with no error bound and a memory length fitted to DNS (Burgers: about 0.2 over the spectral radius of the resolved Jacobian) or preset. On Burgers, isotropic turbulence, the Taylor–Green vortex and channel flow it tracks filtered DNS about as well as dynamic Smagorinsky, and better on the transitional Taylor–Green vortex.
 ---
+<!-- inactive-ok-file: THEORY-tmp4ou43 — Proposed; the empirical account filed from this reading -->
 
 # LIT-tmpvihtb: Non-Markovian closure models for large eddy simulations using the Mori-Zwanzig formalism
 
 Parish, E. J. & Duraisamy, K. (2017). Non-Markovian closure models for large eddy simulations using the Mori-Zwanzig formalism. *Physical Review Fluids* 2(1): 014604. doi:10.1103/PhysRevFluids.2.014604. Preprint: arXiv:1611.03311 (10 November 2016).
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full on 2026-10-20 (NOTE-tmpg06if). The reading's findings for
+the record are THEORY-tmpswb4h, on what the closure is (a finite Markovian
+augmentation with uncontrolled error), and THEORY-tmp4ou43, on how well
+it did against DNS.
 
 ## Why this is here
 
