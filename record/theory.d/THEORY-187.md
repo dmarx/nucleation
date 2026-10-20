@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp8wj5h
 title: 'In a deep linear network trained by gradient descent on whitened inputs from decoupled, balanced initial weights, depth slows learning through the initial end-to-end strength of each mode: counting iterations as learning time over the stable step size, from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -19,6 +19,14 @@ history:
     re-derived in the note of 2026-10-19 below (ADR-047 v2). The promote_when
     asked about starts off the decoupled set, which the body disclaims. It
     moves, unchanged, to QUESTION-166.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 066, ADR-047 v4) filed
+    THEORY-tmpowz2q as a Proposed THEORY that extends this one, to carry
+    what the narrowing dropped: the depth law from generic starts, such
+    as random orthogonal weights, which the paper argues from
+    simulation. This entry's status and title are unchanged.
 tags:
 - learning-theory
 date: '2026-10-09'
@@ -37,7 +45,10 @@ answers:
 - QUESTION-039
 supports:
 - CLAIM-360
+extended_by:
+- THEORY-tmpowz2q
 ---
+<!-- inactive-ok-file: THEORY-tmpowz2q — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-182 THEORY-039 — Proposed; accounts this one is set beside -->
 
 # THEORY-187: In a deep linear network trained by gradient descent on whitened inputs from decoupled, balanced initial weights, depth slows learning through the initial end-to-end strength of each mode: counting iterations as learning time over the stable step size, from strength of order one the number of iterations stays bounded as depth grows, once the step size falls with depth as stability requires, while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth
@@ -163,3 +174,11 @@ m = N_l − 1 be the number of weight layers.
 Each step uses the balanced, decoupled start. Off the decoupled set the
 modes couple and step 1 fails, which is why the general case is
 [QUESTION-166](../questions.d/QUESTION-166.md).
+
+## Note of 2026-10-20: the wider claim filed separately
+
+When this THEORY was narrowed to what its source showed, the wider claim
+it had stated was left with nowhere to go but this body and a QUESTION.
+Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-tmpowz2q](THEORY-tmpowz2q.md), which extends
+this one: the depth law from generic starts, such as random orthogonal weights, which the paper argues from simulation. This entry is that THEORY's evidence and is not
+changed by it.

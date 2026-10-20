@@ -1,0 +1,26 @@
+# record/promotion-audit/batches/batch-066.yaml
+batch: '066'
+date: '2026-10-20'
+kind: narrowing-loss sweep (ADR-047 v4, triage-008 batch 2)
+reviewed:
+- THEORY-187
+- THEORY-211
+- THEORY-229
+- THEORY-117
+- THEORY-163
+filed:
+- {narrowed: THEORY-187, new: THEORY-tmpowz2q, kind: 1, carries: depth law from generic starts (random orthogonal weights), argued from simulation by Saxe, McClelland and Ganguli, answers: QUESTION-166}
+- {narrowed: THEORY-211, new: THEORY-tmp12b36, kind: 1, carries: law of balance in deep networks on real data (Ziyin, Li and Ueda), answers: QUESTION-164}
+- {narrowed: THEORY-229, new: THEORY-tmpqg47p, kind: 1, carries: stepwise order from generic small initialization (Simon et al. Result 4.6), answers: QUESTION-175}
+- {narrowed: THEORY-117, new: THEORY-tmpu18sx, kind: 1, carries: diversity not volume as the general driver of compositional generalization in vision models (Uselis, Dittadi and Oh), answers: QUESTION-207}
+- {narrowed: THEORY-163, new: THEORY-tmpfhkef, kind: 1, carries: near-IB-bound colour naming as a property of the world's languages (Zaslavsky, Kemp, Regier and Tishby), answers: QUESTION-214}
+reclassified: []
+yield: 5 of 5 filed as kind 1; no clause re-classified. Each new Proposed THEORY extends its narrowed Active one, inherits its pre-narrowing promote_when, and answers the QUESTION the narrowing created.
+notes_for_ledger:
+- Each narrowing in this batch had already moved its promote_when to a QUESTION that asks exactly the dropped claim, so the new Proposed THEORY `answers` that QUESTION as well as `extends` the narrowed entry. Expect the same for most kind-1 entries whose QUESTION was created by the narrowing.
+- THEORY-187's new entry is titled narrower than triage-008 suggested only in one respect, the ε law from small random weights, which Saxe, McClelland and Ganguli argue is slow but do not derive. The inherited promote_when still asks for the ε law too, so it asks a little more than the title; left as inherited, per the sweep's rule.
+- THEORY-163's authors also read the fit as languages being shaped by a pressure for efficient compression. The paper gives no process (NOTE-631), so that causal reading was not folded into the new entry and is named under "What this does not say"; it would be a separate kind-1 thesis with a promote_when of its own.
+- textwrap's default break_on_hyphens splits codes ("THEORY-" / "tmp…") and hyphenated words across folded YAML lines, which a folded scalar then rejoins with a space. Wrap with break_on_hyphens=False.
+- After the PR merges, replace the five tmp codes above with the codes their files carry under formerly:.
+owner_questions:
+- Should THEORY-163's causal reading (efficient compression shapes colour naming) be filed as its own Proposed THEORY, as a second kind-1 clause triage-008 did not list?
