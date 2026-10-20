@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**491 documents cited without acknowledgement.** Not listed: 9601 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**487 documents cited without acknowledgement.** Not listed: 9917 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -378,10 +378,10 @@ Filing an argument moves work across time: it is paid for now, in filing, indexi
 - [`record/theory.d/THEORY-339.md:120`](../../record/theory.d/THEORY-339.md)
 - [`record/theory.d/THEORY-355.md:123`](../../record/theory.d/THEORY-355.md)
 - [`record/theory.d/THEORY-356.md:111`](../../record/theory.d/THEORY-356.md)
-- [`record/theory.d/THEORY-362.md:89`](../../record/theory.d/THEORY-362.md)
+- [`record/theory.d/THEORY-362.md:93`](../../record/theory.d/THEORY-362.md)
 - [`record/theory.d/THEORY-364.md:101`](../../record/theory.d/THEORY-364.md)
-- [`record/theory.d/THEORY-367.md:110`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-367.md:111`](../../record/theory.d/THEORY-367.md)
+- [`record/theory.d/THEORY-367.md:112`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:102`](../../record/theory.d/THEORY-373.md)
 - [`record/theory.d/THEORY-376.md:88`](../../record/theory.d/THEORY-376.md)
 - [`record/theory.d/THEORY-377.md:104`](../../record/theory.d/THEORY-377.md)
@@ -682,7 +682,7 @@ Under a deadline, search can establish presence by finding one item but absence 
 - [`record/notes.d/NOTE-920.md:86`](../../record/notes.d/NOTE-920.md)
 - [`record/theory.d/THEORY-341.md:113`](../../record/theory.d/THEORY-341.md)
 - [`record/theory.d/THEORY-358.md:113`](../../record/theory.d/THEORY-358.md)
-- [`record/theory.d/THEORY-367.md:112`](../../record/theory.d/THEORY-367.md)
+- [`record/theory.d/THEORY-367.md:113`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:105`](../../record/theory.d/THEORY-373.md)
 
 ### [CLAIM-339](../../record/claims.d/CLAIM-339.md) — Proposed
@@ -867,7 +867,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 
 Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member
 
-17 citations in 7 files await a look; 104 other citations of it are acknowledged.
+17 citations in 7 files await a look; 105 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-101.md:20`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-101.md:56`](../../record/cases.d/CASE-101.md)
@@ -911,28 +911,6 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 - [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
 - [`record/notes.d/NOTE-299.md:128`](../../record/notes.d/NOTE-299.md)
 
-### [THEORY-332](../../record/theory.d/THEORY-332.md) — Proposed
-
-For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the index once the savings it would have given have risen by its build cost above their last low and drops it once they have fallen by the build cost below their last high, can cost nearly three times the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that it stays within three when every saving is small next to the build cost is not shown
-
-15 citations in 14 files await a look.
-
-- [`record/literature.d/LIT-1105.md:18`](../../record/literature.d/LIT-1105.md)
-- [`record/notes.d/NOTE-906.md:193`](../../record/notes.d/NOTE-906.md)
-- [`record/notes.d/NOTE-908.md:188`](../../record/notes.d/NOTE-908.md)
-- [`record/notes.d/NOTE-911.md:191`](../../record/notes.d/NOTE-911.md)
-- [`record/notes.d/NOTE-912.md:162`](../../record/notes.d/NOTE-912.md)
-- [`record/notes.d/NOTE-912.md:164`](../../record/notes.d/NOTE-912.md)
-- [`record/notes.d/NOTE-922.md:169`](../../record/notes.d/NOTE-922.md)
-- [`record/questions.d/QUESTION-114.md:326`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-333.md:108`](../../record/theory.d/THEORY-333.md)
-- [`record/theory.d/THEORY-350.md:104`](../../record/theory.d/THEORY-350.md)
-- [`record/theory.d/THEORY-377.md:101`](../../record/theory.d/THEORY-377.md)
-- [`record/theory.d/THEORY-378.md:114`](../../record/theory.d/THEORY-378.md)
-- [`record/theory.d/THEORY-382.md:97`](../../record/theory.d/THEORY-382.md)
-- [`record/theory.d/THEORY-383.md:92`](../../record/theory.d/THEORY-383.md)
-- [`record/theory.d/THEORY-386.md:88`](../../record/theory.d/THEORY-386.md)
-
 ### [THEORY-497](../../record/theory.d/THEORY-497.md) — Proposed
 
 A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function
@@ -953,7 +931,7 @@ A macro feature can supervene on a system's present state and still carry inform
 - [`record/theory.d/THEORY-704.md:86`](../../record/theory.d/THEORY-704.md)
 - [`record/theory.d/THEORY-705.md:107`](../../record/theory.d/THEORY-705.md)
 - [`record/theory.d/THEORY-707.md:82`](../../record/theory.d/THEORY-707.md)
-- [`record/theory.d/THEORY-712.md:89`](../../record/theory.d/THEORY-712.md)
+- [`record/theory.d/THEORY-712.md:88`](../../record/theory.d/THEORY-712.md)
 
 ### [CLAIM-142](../../record/claims.d/CLAIM-142.md) — Proposed
 
@@ -1481,7 +1459,7 @@ Pregeometry, Formal Language and Constructivist Foundations of Physics
 
 The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences
 
-8 citations in 6 files await a look; 7 other citations of it are acknowledged.
+8 citations in 6 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-014.md:54`](../../record/decisions.d/ADR-014.md)
 - [`record/literature.d/LIT-384.md:93`](../../record/literature.d/LIT-384.md)
@@ -1581,6 +1559,21 @@ Pereboom — Living without Free Will
 - [`record/theory.d/THEORY-119.md:33`](../../record/theory.d/THEORY-119.md)
 - [`record/theory.d/THEORY-121.md:21`](../../record/theory.d/THEORY-121.md)
 - [`record/theory.d/THEORY-121.md:201`](../../record/theory.d/THEORY-121.md)
+
+### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
+
+Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
+
+8 citations in 6 files await a look; 45 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-379.md:18`](../../record/claims.d/CLAIM-379.md)
+- [`record/claims.d/CLAIM-391.md:17`](../../record/claims.d/CLAIM-391.md)
+- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-322.md:227`](../../record/notes.d/NOTE-322.md)
+- [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
+- [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
+- [`record/theory.d/THEORY-022.md:159`](../../record/theory.d/THEORY-022.md)
 
 ### [THEORY-126](../../record/theory.d/THEORY-126.md) — Proposed
 
@@ -1778,20 +1771,6 @@ Cumulative cultural evolution in the laboratory
 - [`record/literature.d/LIT-771.md:17`](../../record/literature.d/LIT-771.md)
 - [`record/literature.d/LIT-771.md:47`](../../record/literature.d/LIT-771.md)
 - [`record/notes.d/NOTE-599.md:181`](../../record/notes.d/NOTE-599.md)
-
-### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
-
-Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
-
-7 citations in 5 files await a look; 45 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-379.md:18`](../../record/claims.d/CLAIM-379.md)
-- [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:200`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-322.md:227`](../../record/notes.d/NOTE-322.md)
-- [`record/notes.d/NOTE-323.md:180`](../../record/notes.d/NOTE-323.md)
-- [`record/notes.d/NOTE-324.md:165`](../../record/notes.d/NOTE-324.md)
-- [`record/theory.d/THEORY-022.md:159`](../../record/theory.d/THEORY-022.md)
 
 ### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
 
@@ -2501,6 +2480,18 @@ How much cognitive control to exert, and on what, is decided by a cost-benefit c
 - [`record/questions.d/QUESTION-054.md:61`](../../record/questions.d/QUESTION-054.md)
 - [`record/questions.d/QUESTION-054.md:84`](../../record/questions.d/QUESTION-054.md)
 
+### [THEORY-080](../../record/theory.d/THEORY-080.md) — Proposed
+
+In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
+
+5 citations in 3 files await a look; 13 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-385.md:17`](../../record/claims.d/CLAIM-385.md)
+- [`record/claims.d/CLAIM-391.md:17`](../../record/claims.d/CLAIM-391.md)
+- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
+
 ### [THEORY-109](../../record/theory.d/THEORY-109.md) — Proposed
 
 The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
@@ -2714,6 +2705,28 @@ Algebraic Geometry and Statistical Learning Theory
 - [`record/notes.d/NOTE-287.md:125`](../../record/notes.d/NOTE-287.md)
 - [`record/notes.d/NOTE-287.md:150`](../../record/notes.d/NOTE-287.md)
 
+### [NOTE-1010](../../record/notes.d/NOTE-1010.md) — Skimmed
+
+Random Hyperbolic Graphs: Degree Sequence and Clustering
+
+4 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-1282.md:12`](../../record/literature.d/LIT-1282.md)
+- [`record/literature.d/LIT-1282.md:82`](../../record/literature.d/LIT-1282.md)
+- [`record/theory.d/THEORY-188.md:24`](../../record/theory.d/THEORY-188.md)
+- [`record/theory.d/THEORY-188.md:146`](../../record/theory.d/THEORY-188.md)
+
+### [NOTE-1011](../../record/notes.d/NOTE-1011.md) — Skimmed
+
+Clustering and the hyperbolic geometry of complex networks
+
+4 citations in 2 files await a look.
+
+- [`record/literature.d/LIT-1283.md:12`](../../record/literature.d/LIT-1283.md)
+- [`record/literature.d/LIT-1283.md:84`](../../record/literature.d/LIT-1283.md)
+- [`record/theory.d/THEORY-188.md:25`](../../record/theory.d/THEORY-188.md)
+- [`record/theory.d/THEORY-188.md:147`](../../record/theory.d/THEORY-188.md)
+
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
 The Theory of Signal Detectability. Part I: The General Theory; Part II: Applications with Gaussian Noise
@@ -2757,17 +2770,6 @@ Coifman et al. — Diffusion maps
 - [`record/literature.d/LIT-981.md:22`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:61`](../../record/literature.d/LIT-981.md)
 - [`record/literature.d/LIT-981.md:81`](../../record/literature.d/LIT-981.md)
-
-### [NOTE-981](../../record/notes.d/NOTE-981.md) — Skimmed
-
-Charvin, Catenacci Volpi and Polani — Exact and soft successive refinement of the IB
-
-4 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:7`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:46`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:55`](../../record/literature.d/LIT-1258.md)
 
 ### [THEORY-022](../../record/theory.d/THEORY-022.md) — Proposed
 
@@ -2834,17 +2836,6 @@ Obligation is the reflective rejection of what would violate the agent's practic
 - [`record/questions.d/QUESTION-007.md:36`](../../record/questions.d/QUESTION-007.md)
 - [`record/questions.d/QUESTION-007.md:57`](../../record/questions.d/QUESTION-007.md)
 - [`record/questions.d/QUESTION-129.md:69`](../../record/questions.d/QUESTION-129.md)
-
-### [THEORY-080](../../record/theory.d/THEORY-080.md) — Proposed
-
-In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
-
-4 citations in 2 files await a look; 13 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-385.md:17`](../../record/claims.d/CLAIM-385.md)
-- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
 
 ### [THEORY-088](../../record/theory.d/THEORY-088.md) — Proposed
 
@@ -2919,7 +2910,7 @@ Given views with conjunctive definitions, deciding that they answer a conjunctiv
 4 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:337`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:338`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
 - [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
 
@@ -3234,7 +3225,7 @@ The difficulty of optimum index selection
 
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
-- [`record/questions.d/QUESTION-114.md:176`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:177`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-1167](../../record/literature.d/LIT-1167.md) — Unavailable
 
@@ -3536,26 +3527,6 @@ Selective accessibility, the account that comparing a target with a plausible an
 - [`record/theory.d/THEORY-337.md:72`](../../record/theory.d/THEORY-337.md)
 - [`record/theory.d/THEORY-337.md:93`](../../record/theory.d/THEORY-337.md)
 
-### [THEORY-362](../../record/theory.d/THEORY-362.md) — Proposed
-
-For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation, under set or duplicate semantics, storing with each derived tuple only the number of its derivations is stated to suffice to maintain the view under insertions and deletions of base tuples: signed counts propagated through delta rules stratum by stratum give each tuple's change as its new count minus its old, and a tuple leaves when its count reaches zero; the proof is not in the paper, and counting is set aside for recursive views because counts can be infinite
-
-3 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-1114.md:15`](../../record/literature.d/LIT-1114.md)
-- [`record/questions.d/QUESTION-105.md:73`](../../record/questions.d/QUESTION-105.md)
-- [`record/theory.d/THEORY-387.md:90`](../../record/theory.d/THEORY-387.md)
-
-### [THEORY-367](../../record/theory.d/THEORY-367.md) — Proposed
-
-For positive queries over a tree data model that covers SPJU relational queries, why-provenance taken as the witness basis, one set of matched source facts per derivation, is preserved by query rewriting and its minimal witnesses are the same for equivalent queries with equality conditions, while where-provenance, the source location a value was copied from, can differ between equivalent queries and is preserved by rewriting only for traceable queries
-
-3 citations in 3 files await a look.
-
-- [`record/literature.d/LIT-1104.md:17`](../../record/literature.d/LIT-1104.md)
-- [`record/questions.d/QUESTION-105.md:79`](../../record/questions.d/QUESTION-105.md)
-- [`record/theory.d/THEORY-373.md:107`](../../record/theory.d/THEORY-373.md)
-
 ### [THEORY-368](../../record/theory.d/THEORY-368.md) — Proposed
 
 On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW, NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found none or few of a query's five nearest neighbours until the search queue held about 10% of the points, for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds these algorithms
@@ -3573,7 +3544,7 @@ In one simulator evicting whole query-shaped cache regions, no replacement value
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:342`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-376.md:92`](../../record/theory.d/THEORY-376.md)
 
 ### [THEORY-376](../../record/theory.d/THEORY-376.md) — Proposed
@@ -3583,7 +3554,7 @@ In a simulated single-client, read-only database answering selection queries on 
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:342`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-375.md:88`](../../record/theory.d/THEORY-375.md)
 
 ### [THEORY-377](../../record/theory.d/THEORY-377.md) — Proposed
@@ -3940,10 +3911,10 @@ Spectral Networks and Betti Lagrangians
 
 Talagrand Meets Talagrand: Upper and Lower Bounds on Expected Soft Maxima of Gaussian Processes with Finite Index Sets
 
-2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/decisions.d/ADR-013.md:27`](../../record/decisions.d/ADR-013.md)
-- [`record/decisions.d/ADR-013.md:63`](../../record/decisions.d/ADR-013.md)
+- [`record/decisions.d/ADR-013.md:34`](../../record/decisions.d/ADR-013.md)
+- [`record/decisions.d/ADR-013.md:70`](../../record/decisions.d/ADR-013.md)
 
 ### [LIT-1041](../../record/literature.d/LIT-1041.md) — Unavailable
 
@@ -3969,7 +3940,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:319`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:320`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-378.md:125`](../../record/theory.d/THEORY-378.md)
 
 ### [LIT-1108](../../record/literature.d/LIT-1108.md) — Unavailable
@@ -3979,7 +3950,7 @@ Combining Fuzzy Information from Multiple Systems
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
-- [`record/questions.d/QUESTION-114.md:354`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:355`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -4165,7 +4136,7 @@ Fricker — Epistemic Injustice (précis)
 
 Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks?
 
-2 citations in 2 files await a look; 22 other citations of it are acknowledged.
+2 citations in 2 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-107.md:130`](../../record/cases.d/CASE-107.md)
 - [`record/questions.d/QUESTION-121.md:70`](../../record/questions.d/QUESTION-121.md)
@@ -4183,7 +4154,7 @@ On a finite augmentation space, InfoNCE, logistic and spectral contrastive losse
 
 The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
 
-2 citations in 1 file await a look; 40 other citations of it are acknowledged.
+2 citations in 1 file await a look; 41 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:31`](../../record/questions.d/QUESTION-052.md)
 - [`record/questions.d/QUESTION-052.md:54`](../../record/questions.d/QUESTION-052.md)
@@ -4201,7 +4172,7 @@ A higher-order attitude cannot make a motive the agent's own by its order alone:
 
 Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled
 
-2 citations in 1 file await a look; 60 other citations of it are acknowledged.
+2 citations in 1 file await a look; 77 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-059.md:23`](../../record/questions.d/QUESTION-059.md)
 - [`record/questions.d/QUESTION-059.md:42`](../../record/questions.d/QUESTION-059.md)
@@ -4246,7 +4217,7 @@ The readiness potential does not show that a neural decision to act precedes awa
 
 A life story constructed from adolescence on is the form a person's diachronic identity takes, and its content shapes later well-being
 
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
+2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-043.md:23`](../../record/questions.d/QUESTION-043.md)
 - [`record/questions.d/QUESTION-043.md:40`](../../record/questions.d/QUESTION-043.md)
@@ -4289,9 +4260,9 @@ Goals pursued for identified or intrinsic reasons receive more sustained effort,
 
 ### [THEORY-085](../../record/theory.d/THEORY-085.md) — Proposed
 
-A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors
+A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them
 
-2 citations in 1 file await a look; 8 other citations of it are acknowledged.
+2 citations in 1 file await a look; 12 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:59`](../../record/questions.d/QUESTION-051.md)
@@ -4690,7 +4661,7 @@ For datalog on relations annotated from a commutative ω-continuous semiring, wi
 2 citations in 2 files await a look.
 
 - [`record/literature.d/LIT-1110.md:15`](../../record/literature.d/LIT-1110.md)
-- [`record/questions.d/QUESTION-105.md:78`](../../record/questions.d/QUESTION-105.md)
+- [`record/questions.d/QUESTION-105.md:79`](../../record/questions.d/QUESTION-105.md)
 
 ### [THEORY-383](../../record/theory.d/THEORY-383.md) — Proposed
 
@@ -4698,7 +4669,7 @@ On one Apache and Informix server answering cheap indexed selections, a page who
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:328`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:329`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-382.md:102`](../../record/theory.d/THEORY-382.md)
 
 ### [THEORY-414](../../record/theory.d/THEORY-414.md) — Proposed
@@ -4781,24 +4752,6 @@ Asserting is undertaking a commitment that entitles others to reassert it and ca
 
 - [`record/claims.d/CLAIM-115.md:123`](../../record/claims.d/CLAIM-115.md)
 - [`record/claims.d/CLAIM-363.md:100`](../../record/claims.d/CLAIM-363.md)
-
-### [THEORY-753](../../record/theory.d/THEORY-753.md) — Proposed
-
-x
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:55`](../../record/literature.d/LIT-1258.md)
-
-### [THEORY-757](../../record/theory.d/THEORY-757.md) — Proposed
-
-y
-
-2 citations in 1 file await a look.
-
-- [`record/literature.d/LIT-1258.md:18`](../../record/literature.d/LIT-1258.md)
-- [`record/literature.d/LIT-1258.md:56`](../../record/literature.d/LIT-1258.md)
 
 ### [CLAIM-017](../../record/claims.d/CLAIM-017.md) — Superseded
 
@@ -5820,7 +5773,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 6 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 4 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)
@@ -5849,7 +5802,7 @@ None. Every scanned file is checked. ✅
 
 - record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now
 - record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
-- record/claims.d/CLAIM-387.md:34: annotation no longer applies — THEORY-163 is Active now
+- record/claims.d/CLAIM-387.md:36: annotation no longer applies — THEORY-163 is Active now
 - record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
 - record/literature.d/LIT-1257.md:50: annotation no longer applies — THEORY-202 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
@@ -5863,12 +5816,11 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/notes.d/NOTE-970.md:41: annotation no longer applies — nothing in scope cites LIT-1252
 - record/notes.d/NOTE-973.md:37: annotation no longer applies — nothing in scope cites THEORY-747
-- record/notes.d/NOTE-981.md:47: annotation no longer applies — nothing in scope cites LIT-000
 - record/notes.d/NOTE-984.md:44: annotation no longer applies — nothing in scope cites THEORY-744
-- record/questions.d/QUESTION-220.md:30: annotation no longer applies — THEORY-163 is Active now
+- record/questions.d/QUESTION-220.md:33: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
-- record/theory.d/THEORY-188.md:34: annotation no longer applies — QUESTION-025 is Active now
+- record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-201.md:42: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-213.md:42: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now

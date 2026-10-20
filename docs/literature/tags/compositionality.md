@@ -2,11 +2,11 @@
 
 # LITs with `tags` `compositionality`
 
-*Topics — What a work is about. Nucleation holds what the Anthology of the SOTA does not: reading whose subject no anthology topic can hold. The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
+*Topics — What a work is about. Nucleation holds whatever reading the owner files here, whether or not an Anthology of the SOTA topic could also hold it; instruction for ML practice belongs to the anthology (ADR-048). The words are seeded from the clusters the reading-time triage of 2026-09-25 found, and grow by decision.*
 
 **Compositionality** — how the structure and meaning of a whole come from its parts and how they are combined — the principle of compositionality and compositional semantics, the emergence of compositional structure in languages under transmission, and composition and binding in learned models (generalization to unseen combinations, attribute binding, composing distributions or concepts). A work on making a model generalize compositionally is ML practice and goes to the anthology (ADR-031).
 
-26 of 1261 LIT documents. Back to the [full index](../README.md).
+26 of 1283 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -18,8 +18,20 @@ promote_when: >-
   tested. Optimizer benchmarks cannot settle it. K-FAC's damping and
   re-scaling can make it a good optimizer with misplaced outliers, and a
   better approximation need not train faster.
-title: "A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors"
-version: 1
+title: "A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The line of algebra relating K-FAC to the class-wise product, CFAC −
+    K-FAC = the class-weighted between-class covariance of the two factors,
+    is the record's own (the summary said "the filer adds a line of
+    algebra") and is filed as a demonstrated claim, CLAIM-391, under
+    ADR-032 (promotion audit, batches 047 and 057). The title drops its
+    last clause, which stated that identity; the body points to the claim.
+    The mechanism, class gradient means approximately h_c ⊗ δ_c, is
+    unchanged and still waits on the promote_when's two measurements.
 tags:
 - information-geometry
 - learning-theory
@@ -38,16 +50,16 @@ summary: >-
   multiplies the class-averaged feature covariance by the class-averaged
   error covariance. Papyan finds its outliers and mini-bulks "drastically
   misaligned", and the class-wise CFAC aligns much better at deep layers.
-  The filer adds a line of algebra: CFAC − K-FAC = Ave_c (H_c − H̄) ⊗
-  (Δ_c − Δ̄), so the two coincide when one factor's per-class
-  statistics do not vary with class. The evidence is one MLP, spectra
-  only, judged by eye.
+  The identity relating the two, CFAC − K-FAC = the class-weighted
+  between-class covariance of the factors, is the record's own and is
+  filed as CLAIM-391. The evidence for the mechanism is one MLP,
+  spectra only, judged by eye.
 answers:
 - QUESTION-051
 ---
 <!-- inactive-ok-file: THEORY-078 — Proposed; this account extends it per layer and is no firmer than it -->
 
-# THEORY-085: A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors
+# THEORY-085: A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them
 
 ## Source
 
@@ -90,7 +102,7 @@ feature mean of a class would only be multiplied by the error mean of that
 class" (§7.12). From this he infers that the gradient class means, which
 cause the outliers, are approximately g_c ≈ h_c ⊗ δ_c.
 
-**The algebra behind it.** This step is the filer's. Write H_c and Δ_c
+**The algebra behind it.** This step is the record's own, filed with its proof as [CLAIM-391](../claims.d/CLAIM-391.md); it is summarised here. Write H_c and Δ_c
 for the per-class second moments, and H̄ and Δ̄ for their averages. Then
 K-FAC is H̄ ⊗ Δ̄ = Ave_{c,c′} H_c ⊗ Δ_{c′}, which has all C² pairings, and
 CFAC is Ave_c H_c ⊗ Δ_c, which has C. Their difference is
@@ -132,3 +144,16 @@ is large.
 - **Extends [THEORY-078](THEORY-078.md).** That account locates the Fisher's outliers
   in the class means. This one follows the class means into each layer's
   Kronecker factors and says what a class-blind factorisation does to them.
+
+## Note of 2026-10-20: the identity is a claim
+
+Promotion audit, batches 047 and 057. The identity CFAC − K-FAC =
+Σ_c π_c (H_c − H̄) ⊗ (Δ_c − Δ̄), with class weights π_c (K-FAC's factors
+are averages over all examples), is stated by neither source and holds for
+any matrices by bilinearity, so it is filed as the record's own
+demonstrated claim, [CLAIM-391](../claims.d/CLAIM-391.md), with the proof. This account no longer
+states it in its title. What stays here is Papyan's reading: the class
+gradient means are approximately h_c ⊗ δ_c, so K-FAC's cross-class
+pairings misplace the outliers. That is inferred from CFAC's better
+spectral alignment on one MLP, judged by eye, and the promote_when's two
+measurements are what would settle it.

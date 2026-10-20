@@ -35,7 +35,7 @@ summary: >-
   and Ince's I_ccs keeps an independent-sources identity and reports a
   −1-bit atom ([THEORY-714](../theory.d/THEORY-714.md)). Two-part ΦID is untouched.
 ---
-<!-- inactive-ok-file: THEORY-714 THEORY-497 — Proposed; cited for what each measure or account computes, not as settled -->
+<!-- inactive-ok-file: THEORY-497 — Proposed; cited for what each measure or account computes, not as settled -->
 
 # CLAIM-343: For three or more parts, no ΦID can use a redundancy function that both satisfies the identity axiom and yields nonnegative atoms, because on the Williams–Beer lattice the two are inconsistent from three sources up; a ΦID verdict on three or more parts therefore rests on which axiom the analyst drops, and should name it
 

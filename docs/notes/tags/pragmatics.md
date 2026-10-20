@@ -4,7 +4,7 @@
 
 **pragmatics**.
 
-17 of 989 NOTE documents. Back to the [full index](../README.md).
+18 of 1011 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -25,3 +25,4 @@
 | [NOTE-736](../../../record/notes.d/NOTE-736.md) | Strawson — Intention and Convention in Speech Acts | Austin's thesis that illocutions are conventional fails for warnings, entreaties and objections. Their force is a wholly overt, audience-directed intention: Grice's three intentions plus a fourth, with uptake as the audience's grasp of it. The scheme strains on orders and fails on institutional acts. What all illocutions share is an overt intention meant to be understood. | Read |
 | [NOTE-750](../../../record/notes.d/NOTE-750.md) | Abdulhai et al. — How LLMs Distort Our Written Language | Three studies of LLM-assisted writing. Heavy LLM use in an essay task made judge-labelled neutral stances 68.9% more common. LLM revisions of 2021 student essays moved them further, and all in one direction, in sentence-embedding space than the students' own revisions did. LLM-written ICLR 2026 reviews named clarity and relevance less often. "Meaning" is measured by embedding position and by an LLM judge, never by the writers. | Read |
 | [NOTE-803](../../../record/notes.d/NOTE-803.md) | Davidson et al. — Do different prompting methods yield a common task representation? | Function vectors extracted from short instructions raise zero-shot accuracy, but they are built from mostly different attention heads than demonstration function vectors (4 to 7 of the top 20 shared), the two add rather than substitute, and swapping heads and activations between them costs accuracy asymmetrically. Under this method there is no common task representation across the two presentations, only partly overlapping mechanisms; the authors note they cannot prove the negative. | Read |
+| [NOTE-1007](../../../record/notes.d/NOTE-1007.md) | Reuter, Sienhold & Sytsma — Putting pain in its proper place | Three online studies on the "pain is in my fingertip, the fingertip is in my mouth" argument. People reject its conclusion for pain about as much as for tissue damage and inflammation, and accept it for a paper-clip; across fourteen items, acceptance tracks how misleading the conclusion is rated; and "technically speaking" wording raises acceptance. The authors explain the argument's failure by implicature, not by an intensional "pain" or a non-spatial "in", and conclude that the data favour a bodily conception of pain. | Read |
