@@ -1918,3 +1918,86 @@ history note. THEORY-277 is requeued on this basis.
   stated", "not shown"); those limits are kind 3.
 - #279 merged on the owner's "merge the PRs": a review's own small re-run
   counts as a test by others than the authors (THEORY-385).
+
+## 2026-10-20 — narrowing sweep, batches 065-069
+
+- 25 codes, 26 new Proposed entries: 25 THEORYs (THEORY-780..804) and one
+  interpretive CLAIM (CLAIM-396, THEORY-275's generalization, which was the
+  record's own). THEORY-190 split into two theses; THEORY-194's gloss was
+  already carried by the Active CLAIM-152.
+- (batch 065) Each new Proposed THEORY `answers` the QUESTION the original
+  narrowing created, so the question now has a proposed answer and the
+  wide claim inherits the old promote_when unchanged. Use that link in
+  later batches.
+- (batch 065) Triage-008's existing-carrier check looked only at extends,
+  refines and complements on Proposed entries. A kind-2 gloss can already
+  be held by an Active CLAIM that grounds on the narrowed entry (CLAIM-152
+  for THEORY-194). Later batches should grep claims.d for grounds naming
+  the code before filing a kind-2 CLAIM.
+- (batch 065) luria new --draft takes JSON, not markdown; flags or a JSON
+  object with the frontmatter keys plus body.
+- (batch 066) Each narrowing in this batch had already moved its
+  promote_when to a QUESTION that asks exactly the dropped claim, so the
+  new Proposed THEORY `answers` that QUESTION as well as `extends` the
+  narrowed entry. Expect the same for most kind-1 entries whose QUESTION
+  was created by the narrowing.
+- (batch 066) THEORY-187's new entry is titled narrower than triage-008
+  suggested only in one respect, the ε law from small random weights,
+  which Saxe, McClelland and Ganguli argue is slow but do not derive. The
+  inherited promote_when still asks for the ε law too, so it asks a little
+  more than the title; left as inherited, per the sweep's rule.
+- (batch 066) THEORY-163's authors also read the fit as languages being
+  shaped by a pressure for efficient compression. The paper gives no
+  process (NOTE-631), so that causal reading was not folded into the new
+  entry and is named under "What this does not say"; it would be a
+  separate kind-1 thesis with a promote_when of its own.
+- (batch 066) textwrap's default break_on_hyphens splits codes ("THEORY-"
+  / "tmp…") and hyphenated words across folded YAML lines, which a folded
+  scalar then rejoins with a space. Wrap with break_on_hyphens=False.
+- (batch 066) After the PR merges, replace the five tmp codes above with
+  the codes their files carry under formerly:.
+- (batch 067) Every narrowed entry in this batch already had a QUESTION
+  holding its old promote_when; the new Proposed entry inherits that
+  promote_when and names the QUESTION as the test. The QUESTION asks, the
+  new entry asserts.
+- (batch 067) Check whether the source asserts the general form before
+  filing kind 1. The pre-narrowing title can be the record's own
+  generalization (THEORY-275), and then the carrier is an interpretive
+  CLAIM, not a THEORY.
+- (batch 067) textwrap breaks codes and hyphenated words at hyphens; use
+  break_on_hyphens=False when wrapping YAML notes that hold codes.
+- (batch 068) Each of the five narrowings had already moved its old
+  promote_when to a QUESTION, and that promote_when tests exactly the
+  dropped thesis. So the new Proposed THEORY inherits the promote_when
+  verbatim and `answers` that QUESTION; QUESTION and THEORY now ask and
+  propose the same thing.
+- (batch 068) Triage-008's suggested titles sometimes over-reach the
+  source in the same way the pre-narrowing titles did (the optimizer as
+  "the" cause; "arithmetic" for addition). Check each suggested title
+  against the NOTE's claims table, and against results in the same paper
+  that cut against the generalization, before filing.
+- (batch 068) A triage-008 clause can bundle two theses (THEORY-204's
+  horizon mechanism and the universality-class conjecture). Split them,
+  and file only what the source asserts with some evidence.
+- (batch 068) The narrowed Active entries get an inactive-ok-file
+  directive naming the new Proposed entry, a version bump with a history
+  note, and a dated body note; no status or title change.
+- (batch 068) THEORY-253's summary still names its QUESTION by a stale tmp
+  code ("QUESTION- tmpihczu", broken across a line, so luria repair never
+  concretized it); it is QUESTION-193. Fixed in this batch, since
+  THEORY-253 is touched anyway.
+- (batch 069) Triage-008's suggested titles end "as X proposes"; that is
+  the report-title form still open with the owner (THEORY-344, -351, -071,
+  -628, -336). The filed titles state the thesis as a finding and name the
+  proposer in the summary and body instead.
+- (batch 069) When the old promote_when has already moved to a QUESTION,
+  the new Proposed THEORY carries it as its own promote_when and `answers`
+  that QUESTION, so the question shows the proposal that would answer it.
+- (batch 069) One triage-008 clause can hold two theses (THEORY-190's
+  model degree flow and its real-network inference); file one entry per
+  thesis.
+- (batch 069) triage-008's who_asserts can name the wrong paper of a pair
+  (THEORY-243); check against the NOTE.
+- (batch 069) THEORY-800 keeps Hopfield's 0.15N; the analytic value
+  usually cited is about 0.138N, unread here. If the record reads Amit,
+  Gutfreund and Sompolinsky, the figure may need correcting.
