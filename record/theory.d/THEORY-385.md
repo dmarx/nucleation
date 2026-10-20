@@ -1,16 +1,24 @@
 ---
 number: 385
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpsdhw2
-promote_when: >-
-  A test by others than the authors, on clustered data with the cluster
-  structure measured, that compares the two linking rules at matched degree
-  and build cost and finds the nearest-neighbour rule losing recall at
-  cluster boundaries while the pruning rule does not. More runs by the
-  authors, or benchmark wins on unclustered data, cannot settle it.
-title: "In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data"
-version: 1
+title: 'In HNSW over 10-dimensional data in 100 isolated clusters, linking each new item to its nearest neighbours leaves part of the bottom layer unreachable from the entry point and caps recall well short of 1 however wide the query search, while linking a candidate only when it is nearer the new item than to any neighbour already kept keeps that layer connected and reaches recall near 1 with about half the links; on uniform data at 10 and 64 dimensions the two rules differ little; shown in Malkov and Yashunin''s own tests on 10 million points and in an independent re-run on 30,000, which found the nearest-neighbour rule capped at a recall@10 of 0.72 to 0.83 against 0.999, at matched build cost too'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-385 (batch 063). The paper's clustered result is one figure
+    with no numbers in its text, so the review re-ran it independently, as
+    the promote_when asked: HNSW with both linking rules on 30,000 points
+    in 100 isolated clusters, at degree above and below the pruning rule's
+    and at matched build cost, plus uniform data at d = 10 and 64. The
+    nearest-neighbour rule left layer 0 partly unreachable and capped
+    recall@10 at 0.72–0.83; the pruning rule reached 0.999. The title
+    narrows to HNSW and to what was measured; "search fast" and candidate
+    extension, which did not help in the re-run, leave it.
 tags:
 - databases
 - information-retrieval
@@ -30,9 +38,11 @@ summary: >-
   at high recall, and on clustered data, and small on uniform or very
   high-dimensional data. These are the authors' benchmarks: one clustered
   dataset, synthetic, with no independent replication in this reading.
+  Re-run independently at smaller scale on promotion (2026-10-20), with the
+  same result.
 ---
 
-# THEORY-385: In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data
+# THEORY-385: In HNSW over 10-dimensional data in 100 isolated clusters, linking each new item to its nearest neighbours leaves part of the bottom layer unreachable from the entry point and caps recall well short of 1 however wide the query search, while linking a candidate only when it is nearer the new item than to any neighbour already kept keeps that layer connected and reaches recall near 1 with about half the links; on uniform data at 10 and 64 dimensions the two rules differ little; shown in Malkov and Yashunin's own tests on 10 million points and in an independent re-run on 30,000, which found the nearest-neighbour rule capped at a recall@10 of 0.72 to 0.83 against 0.999, at matched build cost too
 
 ## Source
 
@@ -94,3 +104,37 @@ did (Fig. 5). The paper reports it as never worse in any test.
 - [THEORY-365](THEORY-365.md) is the paper's scaling claim. The rule is one of the
   approximations that stops the index's graphs being Delaunay graphs, which
   is why that bound is only derived, not proved, for what is built.
+
+## Note of 2026-10-20: an independent re-run
+
+The promotion audit (batch 063) re-ran the paper's clustered test,
+because Fig. 7 gives it without numbers in the text. The full design and
+every number are in the audit's decision for THEORY-385.
+
+- **Setup.** An implementation of HNSW written for the review, in Python
+  and NumPy, following the paper's Algorithms 1–4: M = 16, 2M links on
+  layer 0, ef_construction 100, and overflowing lists re-selected by the
+  same rule. The data were 30,000 points in d = 10 from 100 isolated
+  clusters (centres uniform in the unit cube, Gaussian spread 0.01), with
+  500 queries scored against exact top-10.
+- **Nearest-neighbour linking.** Recall@10 reached only 0.72 (seed 1)
+  and 0.76 (seed 2) at query ef = 320. On layer 0, 23,996 and 1,241 of the
+  30,000 elements were reachable from the entry point. Matching the
+  pruning rule's build cost (ef_construction 400) raised the ceiling only
+  to 0.83. Cutting the degree below the pruning rule's (M = 5) lowered it
+  to 0.53.
+- **The pruning rule.** Recall@10 was 0.995 by ef = 20 and 0.999 at
+  ef ≥ 80, with every element reachable and a mean layer-0 degree of 11.8,
+  against 24.9 for nearest-neighbour linking.
+- **Uniform data.** At d = 10 and d = 64 the two rules were within about
+  0.02 of each other at every ef.
+- **Candidate extension.** The paper calls it useful for extremely
+  clustered data. Here it kept the layer connected but capped recall at
+  about 0.97, below the rule without it. The title no longer relies on
+  it.
+
+**Limits.** One synthetic clustered distribution, two seeds, and about
+1/300 of the paper's scale. Where searches stop was not traced, so "stuck
+at cluster boundaries" is replaced by what was measured: unreachable
+elements and a recall ceiling. The connectivity of the pruned graph is
+still measured, not proved.
