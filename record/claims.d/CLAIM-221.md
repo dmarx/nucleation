@@ -32,7 +32,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1041 LIT-1040 — Unavailable; Grice 1975 read only in part and Bach and Harnish unread, no full lawful copy reached, named in the note of 2026-10-13 as filed, not leaned on -->
 <!-- inactive-ok-file: CLAIM-151 — Proposed; open, and cited as the claim this objection is to -->
-<!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited as the record's own intention-inferring model, not as settled -->
 <!-- inactive-ok-file: CLAIM-111 CLAIM-139 CLAIM-137 — Proposed; cited as the claim that uses that model and the theses that rest on CLAIM-151, not as settled -->
 <!-- inactive-ok-file: LIT-780 LIT-785 — Unavailable; Goffman and Austin, unread here, cited as named and not leaned on -->
 <!-- inactive-ok-file: CLAIM-160 CLAIM-171 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->

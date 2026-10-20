@@ -18,7 +18,7 @@ summary: >-
   measurement cover (§10), neither of which says who fixes the
   correspondence of contexts.
 ---
-<!-- inactive-ok-file: CLAIM-143 CLAIM-149 THEORY-175 — listed as material that may bear on this question, not as settled -->
+<!-- inactive-ok-file: CLAIM-143 CLAIM-149 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-077 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-212 CLAIM-224 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 

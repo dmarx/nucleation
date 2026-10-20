@@ -31,8 +31,6 @@ summary: >-
   colour terms not at all.
 ---
 
-<!-- inactive-ok-file: THEORY-172 — Proposed; the account this reading bears on, discussed not leaned on -->
-
 # NOTE-627: Informative communication in word production and word learning
 
 ## Contribution

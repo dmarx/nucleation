@@ -28,7 +28,7 @@ summary: >-
   derived; the tests supply a candidate metric and find homeomorphism for
   GPT-2's years but isometry only after a log rescaling.
 ---
-<!-- inactive-ok-file: THEORY-022 THEORY-175 CLAIM-135 CLAIM-193 THEORY-284 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-022 CLAIM-135 CLAIM-193 THEORY-284 — Proposed; the accounts this reading bears on, and the one filed from it -->
 
 # NOTE-802: Modell, Rubin-Delanchy and Whiteley — The Origins of Representation Manifolds in Large Language Models
 

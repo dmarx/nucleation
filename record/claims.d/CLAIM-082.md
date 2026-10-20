@@ -40,7 +40,6 @@ complements:
 - CLAIM-242
 ---
 <!-- inactive-ok-file: THEORY-182 — Proposed; cited as a reading that bears on this claim, not as settled -->
-<!-- inactive-ok-file: THEORY-175 — Proposed; cited as a reading that qualifies this claim, not as settled -->
 
 # CLAIM-082: A sign's communicative significance is fixed by its contrasts within a system rather than by correspondence to a referent
 

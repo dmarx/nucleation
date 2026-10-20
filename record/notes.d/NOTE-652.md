@@ -32,7 +32,7 @@ summary: >-
   by an angle-preserving map is never tested directly, and the evidence
   supports it only approximately.
 ---
-<!-- inactive-ok-file: THEORY-175 THEORY-008 THEORY-112 CLAIM-125 CLAIM-082 — Proposed; cited as the accounts and claims this reading bears on, not as settled -->
+<!-- inactive-ok-file: THEORY-008 THEORY-112 CLAIM-125 CLAIM-082 — Proposed; cited as the accounts and claims this reading bears on, not as settled -->
 
 # NOTE-652: Relative representations enable zero-shot latent space communication
 

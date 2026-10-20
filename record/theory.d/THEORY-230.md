@@ -37,7 +37,7 @@ summary: >-
   is vacuous on real models. Against a law-matched null, about 9% of the
   top-six eigenvector overlap is shared beyond the laws.
 ---
-<!-- inactive-ok-file: QUESTION-027 QUESTION-052 CLAIM-142 CLAIM-193 CLAIM-209 THEORY-002 THEORY-175 — Open or Proposed; cited for context, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-027 QUESTION-052 CLAIM-142 CLAIM-193 CLAIM-209 THEORY-002 — Open or Proposed; cited for context, nothing here rests on them -->
 
 # THEORY-230: The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector structure goes beyond what the shared laws imply
 
