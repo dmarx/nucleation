@@ -32,7 +32,7 @@ summary: >-
   supplies the proof of the limit and shows that every finite-β optimum is
   a stochastic coarsening of the causal partition ([THEORY-743](../theory.d/THEORY-743.md)).
 ---
-<!-- inactive-ok-file: THEORY-157 THEORY-163 THEORY-194 — Proposed; readings this note connects to, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-157 THEORY-163 — Proposed; readings this note connects to, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1126 LIT-1238 — Deferred; works registered unread, cited as open -->
 # NOTE-976: Shalizi and Crutchfield — Information bottlenecks, causal states and statistical relevance bases
 

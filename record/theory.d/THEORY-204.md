@@ -1,22 +1,30 @@
 ---
 number: 204
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpi172b
-promote_when: >-
-  A result in which the data-limited exponent of a next-token learner is
-  moved by changing one of the two corpus statistics while the other is
-  held: for instance, text whose correlations beyond some lag are
-  destroyed or weakened by an intervention that keeps its short-range
-  statistics, or a synthetic language with tunable β and γ, with the
-  measured exponent tracking γ/(2β) and departing from it when the
-  within-horizon excess loss is made to decay slowly. Or the same match at
-  a scale where the usable horizon reaches thousands of tokens, with γ
-  estimated without a neural model of the same class. More collapses at
-  the scale already reported, with γ read off the trained models' own
-  n-gram losses, cannot settle it.
-title: 'In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows'
-version: 1
+title: 'On TinyStories and WikiText-103, the data-limited exponent of transformer test loss, fitted to the lower envelope of learning curves across context lengths at up to about 10^8 training tokens, overlaps γ/(2β), where β is the decay with lag of the top singular value of the token–token covariance and γ the decay of next-token conditional entropy with context length; under assumed per-lag scaling forms, a horizon n*(P) ~ P^(1/(2β)) gives the exponent min(δ, γ/(2β)), δ being the decay rate of the within-horizon excess losses'
+version: 3
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-204 (batch 062, ADR-047 v2 and v3). The excess-loss sum was
+    re-derived and gives min(δ, γ/(2β)) under the paper's assumed forms,
+    and the exponent table of App. C.3 was re-read: every tabulated fit
+    window overlaps the prediction on both corpora. The title now states
+    the measured match and the conditional derivation, and no longer says
+    the horizon is why real learners show the exponent. That test, the
+    former promote_when, moves to QUESTION-233.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The wider claim this account dropped when it was narrowed, that the
+    horizon is why language models show the data-limited exponent γ/(2β),
+    as the paper proposes, is filed as the Proposed THEORY-784, which
+    extends this one (ADR-047 v4, narrowing-loss sweep, batch 068). Status
+    and title are unchanged.
 tags:
 - learning-theory
 - linguistics
@@ -27,17 +35,22 @@ source:
 - LIT-883
 summary: >-
   Cagnetta, Raventós, Ganguli and Wyart (2026), [LIT-888](../literature.d/LIT-888.md), building on
-  [LIT-883](../literature.d/LIT-883.md)'s effective context window. The exponent is derived from assumed
-  scaling forms for the conditional entropy and for each lag's learning
-  curve, not proved; it is matched on two corpora, TinyStories and
+  [LIT-883](../literature.d/LIT-883.md)'s effective context window. Under assumed scaling forms for
+  the conditional entropy and for each lag's learning curve, the exponent
+  is min(δ, γ/(2β)) (re-derived 2026-10-20). Measured on TinyStories and
   WikiText-103, with transformers up to about 10^8 tokens and horizons of
-  tens of tokens, with γ estimated from trained models' own n-gram losses.
+  tens of tokens, the fitted exponent overlaps γ/(2β), best near the start
+  of the envelope; γ is estimated from trained models' own n-gram losses.
+  Whether the horizon is why is open (QUESTION-233).
 answers:
 - QUESTION-039
+extended_by:
+- THEORY-784
 ---
+<!-- inactive-ok-file: THEORY-784 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-201 QUESTION-025 — Proposed or open; cited as the accounts this one extends or is set beside and the question it does not answer -->
 
-# THEORY-204: In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows
+# THEORY-204: On TinyStories and WikiText-103, the data-limited exponent of transformer test loss, fitted to the lower envelope of learning curves across context lengths at up to about 10^8 training tokens, overlaps γ/(2β), where β is the decay with lag of the top singular value of the token–token covariance and γ the decay of next-token conditional entropy with context length; under assumed per-lag scaling forms, a horizon n*(P) ~ P^(1/(2β)) gives the exponent min(δ, γ/(2β)), δ being the decay rate of the within-horizon excess losses
 
 ## Source
 
@@ -104,3 +117,54 @@ generalises [THEORY-201](THEORY-201.md)'s envelope rather than competing with it
 - **Not a rule for how much data or context to use.** How to train or
   size a model is an ML-practice question, and this account does not
   answer it.
+
+## Note of 2026-10-20: the derivation re-derived, and the exponent table
+
+The promotion audit (batch 062) re-derived the excess-loss sum and
+re-read App. C.3 of the arXiv v3 PDF.
+
+**The sum.** Take the paper's assumed forms. H_n − H_∞ ~ n^(−γ), the
+threshold is P*_n ~ n^(2β), and past it each lag's excess loss is
+E_n(P) ~ (H_{n−1} − H_n)(P/P*_n)^(−δ). Then
+L − H_∞ = (H_{n*} − H_∞) + Σ_{n<n*} E_n.
+
+- The boundary term is n*^(−γ) = P^(−γ/(2β)).
+- The sum is P^(−δ) Σ_{n<n*} n^(2βδ−γ−1).
+  - If δ > γ/(2β), the sum is dominated by n near n*, and gives
+    P^(−γ/(2β)), the same order as the boundary term.
+  - If δ < γ/(2β), the sum converges at small n, and P^(−δ) dominates.
+
+So the exponent is min(δ, γ/(2β)), as Eq. 40 says. That a lag contributes
+nothing before its pairwise correlation is detectable remains an
+assumption.
+
+**The table.** The predicted intervals are [0.172, 0.198] for TinyStories
+and [0.116, 0.166] for WikiText-103, recomputed by Eq. 56 as
+0.1847 ± 0.0127 and 0.1410 ± 0.0255. The fitted intervals are 95%
+bootstrap intervals for fits to the first m points of the lower envelope.
+
+- **TinyStories, m = 5 to 12.** From [0.1770, 0.1946] down to
+  [0.1494, 0.1751]. All eight overlap the prediction.
+- **WikiText-103, m = 5 to 8.** From [0.1324, 0.1552] to
+  [0.1467, 0.1605]. All four overlap the prediction.
+
+The paper's text says the fits overlap "for up to 10 of the first 12
+points" on TinyStories, but the table shows all of them overlapping.
+
+On TinyStories the fitted exponent drifts downward as m grows: the
+interval midpoint is 0.186 at m = 5 and 0.162 at m = 12. So the match is
+best near the start of the envelope, and the m = 12 interval only just
+reaches the prediction.
+
+**What moved.** The title used to say the loss falls as P^(−γ/(2β))
+*because* P tokens resolve correlations only out to the horizon. The match
+does not show that the horizon is the reason. The test that would, the
+former promote_when, is now [QUESTION-233](../questions.d/QUESTION-233.md).
+
+## Note of 2026-10-20: the wider claim, filed separately
+
+When this account was narrowed, its wider form went nowhere a later result
+could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
+[THEORY-784](THEORY-784.md): that the horizon is why language models show the data-
+limited exponent γ/(2β), as the paper proposes. This account is that one's
+evidence, and nothing here changes.

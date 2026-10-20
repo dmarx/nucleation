@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmppei8o
 title: 'Every mirror symmetry of a network''s per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss''s Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -16,6 +16,15 @@ history:
     and "rescaling symmetry" without the λ = −1 condition, since ReLU's
     positive rescaling contains no mirror. The promote_when moves to
     QUESTION-206.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The wider claim this account dropped when it was narrowed, that strong
+    SGD noise makes a mirror's subspace attracting even at a saddle,
+    giving sparsity, low rank and identical neurons in SGD-trained
+    networks, as the paper argues, is filed as the Proposed THEORY-
+    tmp43jo4, which extends this one (ADR-047 v4, narrowing-loss sweep,
+    batch 068). Status and title are unchanged.
 tags:
 - learning-theory
 - loss-landscapes
@@ -38,7 +47,10 @@ summary: >-
   only the exact half.
   Promoted on 2026-10-20 on the exact half, re-derived. The SGD half is
   QUESTION-206.
+extended_by:
+- THEORY-781
 ---
+<!-- inactive-ok-file: THEORY-781 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
 
 # THEORY-213: Every mirror symmetry of a network's per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss's Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons
@@ -128,3 +140,12 @@ whose subspace is u = w = 0. For a ReLU network the rescaling holds only
 for λ > 0, which gives no mirror. A rotation symmetry contains every
 reflection I − 2ooᵀ, whose subspace oᵀW = 0 lowers the rank. Swapping two
 neurons is a reflection across θ_a − θ_b, whose subspace is θ_a = θ_b.
+
+## Note of 2026-10-20: the wider claim, filed separately
+
+When this account was narrowed, its wider form went nowhere a later result
+could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
+[THEORY-781](THEORY-781.md): that strong SGD noise makes a mirror's subspace
+attracting even at a saddle, giving sparsity, low rank and identical
+neurons in SGD-trained networks, as the paper argues. This account is that
+one's evidence, and nothing here changes.

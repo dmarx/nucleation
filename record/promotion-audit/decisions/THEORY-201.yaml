@@ -1,0 +1,117 @@
+# record/promotion-audit/decisions/THEORY-201.yaml
+id: THEORY-201
+batch: batch-063
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: split
+confidence: medium
+title_asserts: theorem plus measurement plus an argued link
+hand_label: theorem plus measurement
+triage_007_label: measurement
+agrees_with_classifier: partly
+formal_in_fact: partly
+scope:
+  accepted: >-
+    The derived statistics of the Random Hierarchy Model (Cagnetta and
+    Wyart, LIT-883, App. D–F), re-derived here to leading order (ADR-047 v2)
+    and checked by exact computation. They split off as their own Active
+    THEORY (ADR-040), as THEORY-770 split from THEORY-673.
+
+    Setup. L levels, v symbols per level, each symbol with m rules, each
+    rule an s-tuple of symbols of the level below; the v·m tuples of a
+    level are distinct (no tuple has two parents), so a level uses a
+    fraction f = vm/v^s = m/v^(s−1) of all s-tuples. Root and rule choices
+    uniform. Leaf marginals are about 1/v.
+
+    Step 1 (siblings, ℓ = 1). For positions i ≠ j of one tuple,
+    P(x, y) = Σ_a (1/v)(1/m) #{rules of a with x at i and y at j}
+    = N(x, y)/(vm), where N(x, y) counts the chosen tuples with x at i, y at
+    j. Of the v^(s−2) tuples with that pair, each is chosen with probability
+    f, so to leading order E N = v^(s−2) f = m/v and
+    Var N = v^(s−2) f(1 − f) (the 1 − f is the finite-population correction
+    for drawing tuples without replacement). Then E P = 1/v², the product of
+    the marginals to leading order, so the covariance C = P − P_x P_y has
+    mean zero over grammars, and
+    Var C ≈ Var P = v^(s−2) f(1 − f)/(vm)² = (1 − f)/(v³ m).
+
+    Step 2 (one level further). Let a level's single-position transition
+    matrix be T = J/v + Δ, J the all-ones matrix. Row b of T is the
+    fraction of b's m rules with each symbol at that position, so Δ(b, x)
+    has mean zero and variance about (1/v)(1 − 1/v)/m ≈ 1/(vm), entries
+    nearly independent for large v. The covariance between leaves whose
+    lowest common ancestor is one level higher is C' = T₁ᵀ C T₂ over the two
+    branches. A covariance of two distributions has zero row and column
+    sums, so the J/v parts vanish: C' = Δ₁ᵀ C Δ₂. Each factor multiplies
+    the variance by v · 1/(vm) = 1/m (a sum of v independent terms), so one
+    level costs 1/m² in variance, a factor m in root-mean-square size.
+
+    Step 3 (level ℓ). Applying step 2 ℓ − 1 times to step 1:
+    Var C_ℓ ≈ (1 − m/v^(s−1))/(v³ m^(2ℓ−1)), the paper's expression, with
+    zero mean. Since two tokens at distance t have their common ancestor
+    about log_s t levels up, the size decays roughly as t^(−ln m/ln s),
+    the paper's β.
+
+    Step 4 (sampling noise). Estimating P(x, y) from P sequences, each entry
+    of the empirical joint has variance about P(x, y)/P ≈ 1/(v²P); the
+    marginals' error is smaller by a factor of about v. So the empirical
+    covariance carries noise of root-mean-square size about (v²P)^(−1/2).
+
+    Step 5 (threshold). Signal meets noise when
+    (1 − f)/(v³ m^(2ℓ−1)) = 1/(v²P), that is at
+    P_ℓ = v m^(2ℓ−1)/(1 − m/v^(s−1)), the paper's threshold.
+
+    Numerical check (s = 2, L = 4, 20 grammars per row; scripts rhm_corr.py
+    and rhm_noise.py, recipe below). The exact covariance between the last
+    leaf and the rightmost leaf of the other branch of its level-ℓ
+    ancestor, computed by multiplying transition matrices, root-mean-square
+    over the v² entries and the grammars, against the formula (ratio
+    measured/predicted for ℓ = 1, 2, 3, 4):
+    v = 16, m = 4: 1.07, 0.97, 0.91, 0.74.
+    v = 32, m = 8: 1.04, 1.00, 0.95, 0.85.
+    v = 64, m = 8: 1.05, 1.04, 1.01, 0.97.
+    v = 64, m = 16: 1.02, 1.01, 0.98, 0.94.
+    v = 128, m = 16: 1.02, 1.02, 1.01, 0.96.
+    The agreement improves with v and m, as a leading-order result should,
+    and degrades with depth at small v, m. Sampling noise (v = 32, m = 8,
+    ℓ = 1, 10 grammars, P = 10³ to 10⁶ pairs drawn from the exact joint):
+    measured / (v²P)^(−1/2) = 0.97, 0.97, 0.97, 0.98.
+
+    Recipe. For each level draw v·m distinct pairs from the v² without
+    replacement and give m to each parent; T_left, T_right are the
+    per-position transition matrices; the LCA's distribution is the
+    uniform root pushed down the rightmost path; the children's joint J is
+    Σ_a p(a)/m over a's rules; each branch is then pushed down its
+    rightmost path by T_right; C = Aᵀ J B − outer of the marginals. Seeds 0
+    (correlations) and 3 (noise).
+  excluded: >-
+    The rest of the title stays in THEORY-201, which stays Proposed. (1)
+    "Learners come to represent the hidden symbols up to that depth": the
+    loss steps near P_ℓ and the insensitivity to resampling a subtree are
+    measured in small transformers and CNNs, but NOTE-687 read the figures
+    from captions, axis labels and text, not plotted values, so ADR-047 v3's
+    numbers test is not met; and that the networks find the hidden symbols
+    by detecting these correlations is argued, not shown (§4.1, §6). CNNs
+    reach the third step early (App. G), so "at about v m^(2ℓ−1)" is not
+    exact for every architecture. (2) The character-level result (two
+    corpora, contexts up to 15) is a figure collapse, again without plotted
+    values in the note. (3) The promote_when asks for an intervention on
+    correlation decay at fixed grammar size, or a proof about gradient
+    descent; neither is reachable here.
+evidence:
+  - "LIT-883 (arXiv 2406.00048v3), App. D–F, as read in NOTE-687 (followed to the large-v, large-m limits)."
+  - "This review: the leading-order derivation in steps 1–5 and the exact-computation check above."
+blockers:
+  - >-
+    For the remaining title: plotted values of the loss-step and
+    representation figures (or the authors' code and data), and the
+    promote_when's intervention or proof for the argued link.
+notes: >-
+  The new THEORY carries the derivation and states that it is leading
+  order in large v and m with the tuple draws treated as independent,
+  which is how the source states it too. Classifier: triage-007 called the
+  whole entry measurement; by hand its first two clauses are a derivation
+  and the rest a measurement plus an argued link, so the label is only
+  partly right.
+unlocks: []
+next_action: "Carried out in #277 (split; THEORY-201 stays Proposed and extends THEORY-778)."

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpqg4nq
 title: 'Under MSE loss, in Han, Papyan and Donoho''s VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -20,6 +20,15 @@ history:
     whether the central path holds in untested settings. This account
     claims neither, and the request moves unchanged to
     QUESTION-181.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Dated note added under ADR-047 v4 (the narrowing-loss sweep, batch
+    067). The wider claim this entry's narrowing dropped, the proposal
+    that trained networks themselves follow the renormalized central-path
+    dynamics to neural collapse, which rests on the unmeasured assumption
+    A3, is now carried by THEORY-797, which extends this entry.
+    Status and title are unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -39,8 +48,11 @@ summary: >-
   (4t/N)^(1/4), and their ratios tend to 1. That is NC1 and NC2, and NC3–NC4
   follow. Not shown: that ordinary training is this flow, or anything for
   cross-entropy or with weight decay.
+extended_by:
+- THEORY-797
 ---
 <!-- inactive-ok-file: THEORY-083 THEORY-209 THEORY-039 THEORY-286 — Proposed; the record's statement of collapse, its account of limiting dynamics, its comparison of late phases, and the imbalance account filed beside this one -->
+<!-- inactive-ok-file: THEORY-797 — Proposed; the wider proposal this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-278: Under MSE loss, in Han, Papyan and Donoho's VGG, ResNet and DenseNet runs on five balanced ten-class datasets, the trained classifier stays near the least-squares classifier for its own features from an early epoch; and on that central path, for unconstrained features continually renormalized to identity within-class covariance and without weight decay, gradient flow drives the class-separation singular values to infinity at equal rates, which in that model is neural collapse
 
@@ -158,3 +170,9 @@ record holds through its caption and the text's statement that L⊥_LS
 "becomes negligible compared to" L_LS "starting from an early epoch in
 training and persists into TPT".
 
+## Note of 2026-10-20: the wider claim, filed apart
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
+Proposed entry, so that evidence can later confirm or reject it as a
+thesis. [THEORY-797](THEORY-797.md) carries the proposal that trained networks themselves follow the renormalized central-path dynamics to neural collapse, which rests on the unmeasured assumption A3. It extends this entry, whose
+measured or derived content is its evidence. Nothing here changes.

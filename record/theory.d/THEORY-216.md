@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp7w5tq
 title: 'On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -18,6 +18,15 @@ history:
     existence clause, since it rests on ten illustrated lifecycles. The
     promote_when, a population measure of repair and a test with
     interaction features, moves unchanged to QUESTION-169.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Dated note added under ADR-047 v4 (the narrowing-loss sweep, batch
+    067). The wider claim this entry's narrowing dropped, the thesis that
+    lasting artworks, as a population, are those whose coalitions keep
+    repairing them under overwriting (the source's claim C6, shown in ten
+    lifecycles), is now carried by THEORY-795, which extends this
+    entry. Status and title are unchanged.
 tags:
 - social-science
 - complex-systems
@@ -38,8 +47,11 @@ supports:
 - CLAIM-280
 - CLAIM-273
 - CLAIM-274
+extended_by:
+- THEORY-795
 ---
 <!-- inactive-ok-file: CLAIM-280 CLAIM-272 THEORY-214 — Proposed; open claims and a reading of a sister study, cited as what this bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-795 — Proposed; the population thesis this entry's narrowing dropped, filed apart under ADR-047 v4 and extending this one -->
 
 # THEORY-216: On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions survive is barely predictable early from their size, area, start time and colour entropy, the size distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting artworks were held by coalitions that kept working under sustained overwriting
 
@@ -115,3 +127,10 @@ recovered coalitions.
   artworks as a population were sustained by repair, and whether
   interaction features restore early predictability. It was this
   account's promotion condition until 2026-10-19.
+
+## Note of 2026-10-20: the wider claim, filed apart
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
+Proposed entry, so that evidence can later confirm or reject it as a
+thesis. [THEORY-795](THEORY-795.md) carries the thesis that lasting artworks, as a population, are those whose coalitions keep repairing them under overwriting (the source's claim C6, shown in ten lifecycles). It extends this entry, whose
+measured or derived content is its evidence. Nothing here changes.

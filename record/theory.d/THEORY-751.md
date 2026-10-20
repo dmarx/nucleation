@@ -1,22 +1,10 @@
 ---
 number: 751
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpe422n
-promote_when: >-
-  A step-by-step derivation, recorded in a promotion-audit decision file or
-  found in a source the record has read, of the two steps not re-derived
-  below. The first is the achievability half: superposition random coding
-  with a first-stage codebook of rate above I(X; X̂₁) and conditional
-  second-stage codebooks of rate above I(X; X̂₂ | X̂₁) reaches both
-  distortions, by the covering lemma and its conditional form. The second
-  is that the Hamming channel (49) is a stochastic matrix that degrades
-  the fine optimum into the coarse one for every finite source. Numerical
-  confirmation, which the record already has, cannot settle either. A
-  proof covering continuous alphabets is not needed, since the title
-  claims only finite ones.
 title: 'For a memoryless source with finite alphabets and a per-letter distortion, a description at rate R(D₁) can be refined to distortion D₂ < D₁ at total rate R(D₂) iff some pair of rate–distortion-optimal test channels forms a Markov chain X → X̂₂ → X̂₁; the condition holds for every discrete source under Hamming distortion and fails for some three-letter sources under absolute error'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -29,6 +17,15 @@ history:
     rests on El Gamal and Cover's cited theorem, and the Hamming channel
     was checked numerically, not derived, so the entry is not Active under
     ADR-047 v2.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promoted with its title unchanged, carrying out the promotion audit's
+    decision for THEORY-751 (batch 060, ADR-047 v2). The two steps the
+    entry lacked are re-derived in the note below: achievability by
+    superposition coding, from the covering lemma and its conditional
+    form, and a degrading channel for the Hamming optima of every finite
+    source, in closed form from the optimality conditions.
 tags:
 - information-theory
 - mathematics
@@ -38,7 +35,8 @@ source:
 answers:
 - QUESTION-220
 summary: >-
-  Equitz and Cover (1991), [LIT-1238](../literature.d/LIT-1238.md), read in [NOTE-988](../notes.d/NOTE-988.md). Lossless
+  Equitz and Cover (1991), [LIT-1238](../literature.d/LIT-1238.md), read in [NOTE-988](../notes.d/NOTE-988.md), with every step
+  re-derived by 2026-10-20. Lossless
   two-stage description is possible exactly when the coarse optimum is a
   stochastic degradation of the fine optimum. That is a Markov chain on
   test channels, not nesting of partitions, and it is an asymptotic
@@ -94,7 +92,7 @@ The paper reaches the same end by citing Ahlswede's theorem that El Gamal
 and Cover's multiple-descriptions region is tight without excess rate. The
 argument above does not need that theorem.
 
-**Achievability (the paper's, resting on a cited theorem).** Given optimal
+**Achievability (the paper's, resting on a cited theorem; re-derived in the note of 2026-10-20).** Given optimal
 channels with X → X̂₂ → X̂₁, I(X; X̂₁, X̂₂) = I(X; X̂₂) = R(D₂), so the
 second stage needs only R(D₂) − R(D₁) = I(X; X̂₂ | X̂₁). The paper's
 construction (§III-B) draws 2^{nR₁} first-stage codewords i.i.d. from
@@ -123,7 +121,7 @@ for p = 0.1 (two-letter range z ∈ (0.130, 0.770)). The paper prints the
 region conditions in (34)/(36) reversed, and the lower bound in (37)
 without its full factor ½; [NOTE-988](../notes.d/NOTE-988.md) gives the details.
 
-**Hamming distortion (§V-B, checked, not derived).** For any finite source
+**Hamming distortion (§V-B, checked here; derived in the note of 2026-10-20).** For any finite source
 and d = 1 − δ(x, x̂), the paper gives a closed-form degrading channel (49)
 between the "upside-down waterfilling" optima. Here, for four random
 five-letter sources and six slope pairs each, the least-squares solution
@@ -173,3 +171,58 @@ middle column of the two-letter backward channel rules one out.
 - **[THEORY-163](THEORY-163.md).** Annealed IB category hierarchies can now be tested for
   the Markov condition between successive β, rather than read as nested
   from their bifurcations.
+
+## Note of 2026-10-20: achievability and the Hamming channel, re-derived
+
+The promotion audit (batch 060) re-derived the two steps above that rested
+on a citation or a numerical check.
+
+**Achievability.** Fix optimal test channels with X → X̂₂ → X̂₁, so that
+I(X; X̂₁, X̂₂) = I(X; X̂₂) = R(D₂), and let δ > 0.
+
+1. Draw 2^{nR₁} first-stage words X̂₁ⁿ(i) i.i.d. from Π p(x̂₁), with
+   R₁ = R(D₁) + δ. Under each, draw 2^{n(R₂−R₁)} words X̂₂ⁿ(i, j) from
+   Π_k p(x̂₂ | x̂₁ₖ(i)), with R₂ − R₁ = I(X; X̂₂ | X̂₁) + δ.
+2. For typical xⁿ, each X̂₁ⁿ(i) is jointly typical with xⁿ with probability
+   at least 2^{−n(I(X;X̂₁)+δ′)}. So the chance that none is typical is at
+   most exp(−2^{n(δ−δ′)}), which tends to 0 (the covering lemma).
+3. Given a jointly typical (xⁿ, x̂₁ⁿ), each X̂₂ⁿ(i, j) is jointly typical with
+   both with probability at least 2^{−n(I(X;X̂₂|X̂₁)+δ′)}. The same bound
+   applies at rate R₂ − R₁ (the conditional covering lemma).
+4. On joint typicality the distortions are within ε·d_max of E d(X, X̂ᵢ) ≤ Dᵢ.
+   The total rate is I(X; X̂₁) + I(X; X̂₂ | X̂₁) + 2δ = R(D₂) + 2δ. Letting δ
+   and ε go to 0 puts (R(D₁), R(D₂)) in the closure of the achievable set,
+   which is the paper's Definition 2. With the converse above, the iff
+   holds.
+
+**Hamming distortion, for every finite source.** Take d = 1 − [x = x̂] and
+D strictly between 0 and D_max = 1 − max p.
+
+1. For a level θ ∈ (0, max p), put a(x) = min(p(x), θ),
+   κ = 1 − Σ a > 0 and U = {x : p(x) > θ}. Then set
+   q(x̂) = (p(x̂) − θ)/κ on U and 0 off it, and take the backward channel
+   P(x | x̂) = a(x) + κ[x = x̂]. Each row sums to 1, Σ q = 1, and
+   Σ q(x̂)P(x | x̂) = a(x) + κq(x) = p(x).
+2. Its distortion is D = 1 − θ − κ = (|U| − 1)θ + P(Uᶜ). That is continuous
+   and increasing in θ, so every D in range has a θ.
+3. The candidate is optimal. With z = θ/(θ + κ) and λ(x)p(x) = a(x)/z, the
+   sufficient condition for a minimum of I (Csiszár; Gallager's Theorem
+   9.4.1) is c(x̂) = Σ_x λ(x)p(x)z^{d(x,x̂)} ≤ 1, with equality where q > 0.
+   Here c(x̂) = 1 − κ + (κ/θ)a(x̂). That equals 1 on U, where a = θ, and is
+   at most 1 off U, where a = p ≤ θ. This is upside-down waterfilling.
+4. For D₂ < D₁, the levels satisfy θ₂ < θ₁ and U₁ ⊆ U₂. Put
+   T(x̂₂ | x̂₁) = t[x̂₂ = x̂₁] + w(x̂₂), with t = κ₁/κ₂ and w = (a₁ − a₂)/κ₂.
+   Here w ≥ 0, w vanishes off U₂, t ∈ (0, 1] and Σw = 1 − t. So T is a
+   stochastic matrix.
+5. Σ_{x̂₂} T(x̂₂ | x̂₁)P₂(x | x̂₂) = a₂ + κ₁[x = x̂₁] + (a₁ − a₂) = P₁(x | x̂₁),
+   and q₁T = q₂. So q₁(x̂₁)T(x̂₂ | x̂₁)P₂(x | x̂₂) is a joint distribution with
+   the two optima as its marginals and X → X̂₂ → X̂₁. At D₁ = D_max the
+   coarse stage is constant, and at D₂ = 0 the fine stage is X. Both are
+   trivially Markov.
+
+**Numerical check of the derivation.** For 38 random sources on three to six
+letters, Blahut–Arimoto at a random slope matched the θ construction at the
+same distortion, with |ΔR| ≤ 2.2 × 10⁻¹⁵. For 30 random sources and level
+pairs, T was nonnegative and stochastic, with ‖TP₂ − P₁‖ and ‖q₁T − q₂‖ at
+most 9 × 10⁻¹⁵. This T was derived here and not compared symbol by symbol
+with the paper's (49).

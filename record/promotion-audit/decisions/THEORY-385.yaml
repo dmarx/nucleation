@@ -1,0 +1,90 @@
+# record/promotion-audit/decisions/THEORY-385.yaml
+id: THEORY-385
+batch: batch-063
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    Malkov and Yashunin (LIT-1098) were read in full in NOTE-916, but their
+    clustered result is one figure (Fig. 7) with no numbers in the text,
+    only "fails to achieve a high recall", so ADR-047 v3 is not met by the
+    paper alone. The promote_when asks for a test by others than the
+    authors, at matched degree and build cost, on clustered data with the
+    structure measured. This review ran one.
+
+    Design (script hnsw_rules.py, pure Python and NumPy, written for this
+    review; not the authors' code). HNSW as in the paper's Algorithms 1–4:
+    level drawn as floor(−ln U · mL), mL = 1/ln M; M links per element on
+    upper layers and 2M on layer 0; ef_construction 100; neighbour lists
+    that overflow are re-selected by the same rule. Two rules: "simple",
+    the M nearest candidates; "heuristic", Algorithm 4 (a candidate is
+    kept only if nearer the new element than to every neighbour already
+    kept), with keepPrunedConnections off, and candidate extension on or
+    off. Data: 30,000 points in d = 10 from 100 isolated clusters (centres
+    uniform in the unit cube, Gaussian spread σ = 0.01 per coordinate);
+    30,000 uniform points in d = 10; 20,000 uniform points in d = 64. 500
+    queries from the same distribution; exact top-10 by brute force;
+    recall@10 at query ef = 10, 20, 40, 80, 160, 320. Measured also: mean
+    layer-0 out-degree, distance evaluations per inserted item (build cost)
+    and per query, and how many elements are reachable from the entry point
+    along layer-0 links. Seeds 1 and 2.
+
+    Results, recall@10 at ef = 10 → 320 (layer-0 degree; build distances per
+    item; elements reachable on layer 0):
+    Clustered, simple, M = 16, seed 1: 0.63 → 0.72 (24.9; 514; 23,996 of
+    30,000). Seed 2: 0.68 → 0.76 (24.9; 507; 1,241).
+    Clustered, simple, M = 16, ef_construction 400 (build cost matched to
+    the heuristic's): 0.68 → 0.83 (24.8; 870; 26,574).
+    Clustered, simple, M = 5 (degree below the heuristic's): 0.40 → 0.53
+    (7.7; 237; 26,420).
+    Clustered, heuristic, M = 16, seed 1: 0.965 → 0.9996 (11.8; 837;
+    30,000). Seed 2: 0.953 → 0.999 (11.9; 841; 30,000).
+    Clustered, heuristic with candidate extension: 0.93 → 0.97 (13.0; 2,618;
+    30,000).
+    Uniform d = 10: simple 0.959 → 1.000 (25.6; 1,263), heuristic 0.944 →
+    1.000 (18.4; 1,934); both reach 0.999+ by ef = 40.
+    Uniform d = 64: simple 0.32 → 0.968 (23.3; 2,174), heuristic 0.30 →
+    0.980 (23.0; 4,554).
+    Distance evaluations per query at each ef are within about 7% between
+    the rules on the same data (up to about 15% at ef = 10).
+
+    So, at degree both above and below the heuristic's, and at matched build
+    cost, nearest-neighbour linking leaves part of layer 0 unreachable from
+    the entry point and caps recall well short of 1 however wide the query
+    search, on isolated clusters; the heuristic keeps layer 0 connected and
+    reaches recall 0.999 with half the links. On uniform data at d = 10 and
+    d = 64 the two differ by at most about 0.02 in recall at any ef. This
+    matches the paper's Fig. 7 and its statement for uniform and
+    high-dimensional data, at about 1/300 of its scale.
+  excluded: >-
+    "In a proximity-graph index" narrows to HNSW, the index both the paper
+    and the re-run built. "Stuck at cluster boundaries" becomes what was
+    measured: elements unreachable from the entry point on layer 0 and a
+    recall ceiling; where searches stop was not traced. "Search fast" is
+    not kept as a comparison: per-query cost at a given ef is about the
+    same for both rules. The paper's report that candidate extension helps
+    on clustered data did not reproduce here: with extension the heuristic
+    stays connected but its recall caps at about 0.97, below the 0.999 it
+    reaches without; the title does not use extension. "Very
+    high-dimensional" is kept as d = 64, the highest tested here.
+evidence:
+  - "LIT-1098 (arXiv 1603.09320v4), read in full in NOTE-916: §3, §4 (Algorithm 4), §4.1 (Figs. 3–7)."
+  - "This review's re-run, design and every number above; script hnsw_rules.py (batch 063 scratch)."
+contradictions_in_record: "None."
+blockers: []
+notes: >-
+  Confidence is medium: one synthetic clustered distribution, two seeds,
+  30,000 points against the paper's 10 million, and an implementation
+  written for the review rather than the authors' library. The re-run is
+  independent of the authors, which is what the promote_when asked for.
+  The candidate-extension discrepancy is worth a dated note on NOTE-916.
+unlocks: []
+next_action: "Carried out in #279."

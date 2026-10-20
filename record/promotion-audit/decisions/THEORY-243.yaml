@@ -1,0 +1,75 @@
+id: THEORY-243
+batch: batch-062
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: partly
+hand_label: theorem (existence by construction), with an interpretive conclusion
+triage007_class: theorem
+classifier_agrees: true
+scope:
+  accepted: >-
+    Sorted by hand. "Can be satisfied equally by different alignments" is
+    an existence claim, and the constructed network proves it. The
+    general conclusion, "fixed only relative to a chosen decomposition",
+    goes beyond it.
+
+    Re-derived (ADR-047 v2), from Makelov et al., LIT-968, App. A.3, and
+    Wu et al., LIT-961, App. A.
+    - The network: h = x(1, 0, 1), y = (0, 2, 1).h = x.
+    - Standard basis. Patching h_3 from x' into x gives h = (x, 0, x') and
+      y = x'. Unit 3 carries x and is read; unit 1 carries x and is not
+      read (weight 0); unit 2 is read (weight 2) and is always 0.
+    - Rotated basis: d_1 = (e_1 + e_2)/sqrt 2,
+      d_2 = (-e_1 + e_2 - 2e_3)/sqrt 6, d_3 = (-e_1 + e_2 + e_3)/sqrt 3.
+      This is orthonormal: the pairwise dot products are 0 and the norms
+      are 1. Per unit x, h has coordinates (1/sqrt 2, -3/sqrt 6, 0), and
+      the readout has coordinates (sqrt 2, 0, sqrt 3). So d_1 carries x
+      and is read, d_2 carries x and is not read, and d_3 is read and is
+      always 0: the same three roles as e_3, e_1 and e_2.
+    - Patching along d_1 sets h <- h + ((h' - h).d_1) d_1. This gives
+      h = (x + (x' - x)/2, (x' - x)/2, x) and y = 2(x' - x)/2 + x = x'.
+    Both alignments pass the interchange intervention on the input for
+    every pair (x, x'). Checked on 1000 random pairs, maximum error
+    5e-15 (numpy, 1000 normal pairs scaled by 5). Patching the carried-but-unread
+    direction (e_1 or d_2) leaves y = x in both bases. What could have
+    failed: either alignment failing some interchange on the input. None
+    does.
+
+    Narrowed title: in that network, the two alignments, related by an
+    orthogonal change of basis, pass every interchange intervention on
+    the input equally. So interchange interventions on that variable
+    alone do not fix which direction mediates it.
+  excluded: >-
+    The general conclusion, that the mediating direction is "fixed only
+    relative to a chosen decomposition into units" in general. Shown in
+    one constructed network only. Wu et al.'s claim that complex models
+    will have many such ties is a conjecture.
+
+    Also excluded: that aligning more variables separates the two
+    alignments. The reply says so for H2; this review did not check its
+    high-level model. Uniqueness up to a symmetry for some class, and a
+    tie in a trained network, are the promote_when, and move to a new
+    QUESTION. Whether component boundaries should be privileged (Makelov
+    et al.) is not decided.
+evidence:
+  - "Makelov, Lange & Nanda (2023), LIT-968, App. A.3 and §8, read in NOTE-782; Wu et al. (2024), LIT-961, App. A, read in NOTE-809."
+  - "This review's re-derivation and numerical check (scope.accepted)."
+blockers: []
+notes: >-
+  Hand label and classifier agree. This falls under the open owner
+  question on promoting toy-model theorems (THEORY-110, THEORY-673). Here
+  the toy is the whole of what is shown, so it is a narrowing, not a
+  split. CLAIM-150 cites this account as a proved instance of
+  interventional underdetermination, and the narrowed title still
+  supplies that.
+unlocks: []
+next_action: >-
+  Narrow and promote in a PR, and put the derivation in a dated note.
+  The trained-network tie and the uniqueness bound, the old promote_when,
+  move to a new QUESTION on the learned-structure line. Trim the
+  inactive-ok directives that name THEORY-243.
+promotion_pr: '#276'

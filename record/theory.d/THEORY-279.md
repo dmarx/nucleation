@@ -37,7 +37,7 @@ summary: >-
 answers:
 - QUESTION-039
 ---
-<!-- inactive-ok-file: THEORY-204 THEORY-201 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
+<!-- inactive-ok-file: THEORY-201 THEORY-039 — Proposed; accounts this one is set beside, none of them rested on -->
 
 # THEORY-279: Early in training, image classifiers and language models act on the low-order statistics of their inputs, first-order before second-order, and later lose that sensitivity as they come to use higher-order structure
 

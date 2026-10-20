@@ -1,19 +1,10 @@
 ---
 number: 744
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp3j6t7
-promote_when: >-
-  A complete proof that the α-normalized operator (I − P_{ε,α})/ε converges
-  in L² on band-limited functions on a compact manifold with boundary, at a
-  stated rate, together with a correct proof that P_{ε,α}^{t/ε} converges
-  to the semigroup of the limit operator. The proof may come from a later
-  paper read in full, or from a step-by-step re-derivation that includes
-  the kernel expansion on a submanifold (Lemma 8 of the source). More
-  numerical agreement on manifolds without boundary does not settle it,
-  since the interior expansion is not what is in doubt.
-title: 'As the kernel width ε goes to 0, Coifman and Lafon''s α-normalized diffusion operator on data sampled with density q = e^{−U} from a compact manifold has generator Δf + 2(1 − α)⟨∇U, ∇f⟩, the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density'
-version: 1
+title: 'As the kernel width ε goes to 0, Coifman and Lafon''s α-normalized diffusion operator (I − P_{ε,α})/ε, for data sampled with density q = e^{−U} from a compact manifold without boundary, converges uniformly on smooth functions, at rate O(ε), to Δf + 2(1 − α)⟨∇U, ∇f⟩ with Δ the non-negative Laplace–Beltrami operator, which is minus the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density'
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -25,6 +16,16 @@ history:
     which was read and not re-derived. The boundary remainder and the
     semigroup step (Proposition 11) have gaps, listed below, so the
     THEORY is not Active.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision
+    for THEORY-744 (batch 060, ADR-047 v2). The source's Lemma 8, the
+    kernel expansion on a submanifold, is re-derived for a manifold
+    without boundary (the note below), which completes the interior
+    derivation. The title now says "without boundary" and "minus the
+    generator". The boundary rate and the semigroup limit move to
+    QUESTION-231.
 tags:
 - mathematics
 - probabilistic-modeling
@@ -36,15 +37,16 @@ summary: >-
   Coifman and Lafon (2006), [LIT-1246](../literature.d/LIT-1246.md), read in [NOTE-985](../notes.d/NOTE-985.md), with
   the PNAS announcement [LIT-981](../literature.d/LIT-981.md). The paper states the limit as a
   Schrödinger operator. Written as a drift, it shows what each α keeps of
-  the density: the walk's stationary density is q^{2(1−α)}. The paper's
-  own α = 1/2 display has a sign error, and its boundary rate and
-  heat-kernel proof are incomplete. Proposed until the convergence is
-  proved in full.
+  the density: the walk's stationary density is q^{2(1−α)}. On a manifold
+  without boundary the limit is derived in full, the kernel expansion
+  included (re-derived on promotion, 2026-10-20). The paper's own α = 1/2
+  display has a sign error. Its boundary rate and heat-kernel proof are
+  incomplete and are left to [QUESTION-231](../questions.d/QUESTION-231.md).
 ---
 <!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading whose phrase is checked here -->
 <!-- inactive-ok-file: CLAIM-331 — Proposed; named for context, nothing here rests on it -->
 
-# THEORY-744: As the kernel width ε goes to 0, Coifman and Lafon's α-normalized diffusion operator on data sampled with density q = e^{−U} from a compact manifold has generator Δf + 2(1 − α)⟨∇U, ∇f⟩, the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density
+# THEORY-744: As the kernel width ε goes to 0, Coifman and Lafon's α-normalized diffusion operator (I − P_{ε,α})/ε, for data sampled with density q = e^{−U} from a compact manifold without boundary, converges uniformly on smooth functions, at rate O(ε), to Δf + 2(1 − α)⟨∇U, ∇f⟩ with Δ the non-negative Laplace–Beltrami operator, which is minus the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density
 
 ## Source
 
@@ -121,10 +123,11 @@ over θ, against a scale of about 5, was:
 So the error is O(ε). The chain's stationary density matched q^{2(1−α)}
 to within 4 × 10⁻⁴ at ε = 10⁻³.
 
-**Why it is not Active.**
+**What the promotion review left open.**
 
 - Lemma 8, the kernel expansion on a submanifold, was read and not
-  re-derived.
+  re-derived when this entry was filed. It is re-derived for a manifold
+  without boundary in the note of 2026-10-20 below.
 - The boundary step bounds L_{ε,α}φ by O(1) on a strip of measure O(ε^γ),
   and concludes R_ε = O(ε^γ) in L². The L² norm of that piece is
   O(ε^{γ/2}). The convergence survives, but the rate as printed does not.
@@ -175,3 +178,39 @@ embedding and not only on the intrinsic geometry. It cancels in step 4.
   operator recovers are the system's slow variables, which is one source
   of the timescale hierarchy that the claim's "characteristically" runs
   together.
+- **[QUESTION-231](../questions.d/QUESTION-231.md).** The boundary rate and the semigroup limit,
+  which the title no longer claims.
+
+## Note of 2026-10-20: the kernel expansion, re-derived
+
+The promotion audit (batch 060) re-derived the source's Lemma 8 at interior
+points of a compact manifold M without boundary, embedded in ℝⁿ. Take
+m₀ = ∫h(|u|²)du = 1 and m₂ = ∫u₁²h(|u|²)du = 2, with
+G_εf(x) = ε^{−d/2}∫_M h(‖x − y‖²/ε)f(y)dvol(y).
+
+1. **Localization.** M is compact and embedded, so ‖x − y‖ is bounded
+   below by a multiple of the geodesic distance near x, and by a constant
+   away from it. Points beyond geodesic distance ε^{1/2−κ} contribute
+   O(ε^∞) uniformly, by the exponential decay of h. So work in normal
+   coordinates y = exp_x(s).
+2. **Expansions.** ‖x − exp_x(s)‖² = |s|² − |II(s, s)|²/12 + O(|s|⁵), with II
+   the second fundamental form. dvol = (1 − Ric(s, s)/6 + O(|s|³))ds.
+   f(exp_x s) = f + s·∇f + ½sᵀHs + O(|s|³), where the trace of the
+   coordinate Hessian H is −Δf at x.
+3. **Scaling** s = √ε u removes the factor ε^{−d/2}. The integrand is
+   [h − εh′|II(u, u)|²/12][1 − εRic(u, u)/6][f + √ε u·∇f + (ε/2)uᵀHu],
+   up to terms of order ε^{3/2} and ε².
+4. **Parity.** h(|u|²), |II(u, u)|² and Ric(u, u) are even in u. The √ε term
+   and every ε^{3/2} term carry exactly one odd factor, so they vanish, and
+   the remainder is O(ε²) uniformly in x.
+5. **The order-ε term.** ½∫h uᵀHu du = ½m₂ tr H = −Δf. The terms in f give
+   εωf, with ω = −(1/12)∫h′|II(u, u)|²du − (1/6)∫h Ric(u, u)du, a smooth
+   function set by the embedding.
+
+So G_εf = f + ε(ωf − Δf) + O(ε²) uniformly, with no first-derivative term.
+That is what the interior algebra above needs: ω multiplies the function,
+and so it cancels in step 4 whatever its value. The function φq q_ε^{−α}
+in step 2 depends on ε, but smoothly and with bounded derivatives, so the
+O(ε²) holds for it too, and L_{ε,α}φ converges uniformly at rate O(ε). The
+sign is now in the title. With Δ ≥ 0, Δφ + 2(1 − α)⟨∇U, ∇φ⟩ is minus the
+generator ∇²φ − 2(1 − α)∇U·∇φ = ρ⁻¹∇·(ρ∇φ), with ρ = q^{2(1−α)}.

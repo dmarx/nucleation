@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo4fgq
 title: "In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-17'
@@ -21,6 +21,17 @@ history:
     read in full in NOTE-788. The strong-drive regime is marked as
     numerics of the fitted model. The promote_when, a second system with
     strong drive measured, moves unchanged to QUESTION-186.
+- version: 4
+  date: '2026-10-20'
+  note: >-
+    Dated note added under ADR-047 v4 (the narrowing-loss sweep, batch
+    067). The wider claim this entry's narrowing dropped, the
+    generalization beyond this system, that directional information
+    measures between reciprocally coupled units follow a one-sided drive
+    and not the coupling. The source makes no general claim, so it is
+    filed as the record's own interpretive claim, is now carried by
+    CLAIM-396, which names this entry in its grounds. Status and
+    title are unchanged.
 tags:
 - information-theory
 - causality
@@ -41,8 +52,11 @@ summary: >-
   not test an unrecorded drive shared by both units, and it does not
   claim that the measures reveal coupling architecture. Whether the
   same holds in other reciprocally coupled systems is QUESTION-186.
+supports:
+- CLAIM-396
 ---
 <!-- inactive-ok-file: CLAIM-172 CLAIM-167 THEORY-129 — Proposed; the architecture claims this account qualifies and the shared-cue account set beside it, open -->
+<!-- inactive-ok-file: CLAIM-396 — Proposed; the record's generalization this entry's narrowing dropped, filed apart under ADR-047 v4 with this entry in its grounds -->
 
 # THEORY-275: In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only
 
@@ -149,3 +163,13 @@ that directional information measures between reciprocally coupled units
 follow a one-sided drive, is [QUESTION-186](../questions.d/QUESTION-186.md). In the linear Gaussian
 pair it could be settled exactly, because delayed-MI asymmetry there is
 c_xy(τ)² − c_yx(τ)², computable from the stationary covariance.
+
+## Note of 2026-10-20: the wider claim, filed apart
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4, what this entry's narrowing dropped is filed as its own
+Proposed entry, so that evidence can later confirm or reject it as a
+thesis. [CLAIM-396](../claims.d/CLAIM-396.md) carries the generalization beyond this system, that
+directional information measures between reciprocally coupled units follow
+a one-sided drive and not the coupling. The source makes no general claim,
+so it is filed as the record's own interpretive claim. It names this entry
+in its grounds, as its evidence. Nothing here changes.

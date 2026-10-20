@@ -18,6 +18,8 @@ summary: >-
   Simon et al.'s Result 4.6, for generic small initialization, is an
   informal derivation; the former promote_when asked for its proof, and
   this question holds it.
+answered_by:
+- THEORY-793
 ---
 
 # QUESTION-175: From generic small initialization, does gradient flow on a symmetrized Barlow Twins loss with a linear or fixed-kernel model follow the aligned trajectory, learning the top eigenvectors one at a time in order of eigenvalue?

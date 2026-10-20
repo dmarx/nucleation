@@ -1,0 +1,69 @@
+# record/promotion-audit/batches/batch-068.yaml
+batch: '068'
+date: '2026-10-20'
+kind: narrowing-loss sweep (ADR-047 v4, triage-008 batch 4 codes)
+procedure: record/decisions.d/ADR-047.md
+reviewed:
+- THEORY-178
+- THEORY-204
+- THEORY-253
+- THEORY-181
+- THEORY-213
+filed:
+- narrowed: THEORY-178
+  new: THEORY-tmp0drff
+  kind: 1
+  answers: QUESTION-172
+  thesis: transcriptional regulation alone can give E. coli's expression state a memory of a transient regulator change (Zhao, Wytock, Reynolds and Motter's prediction for cells, NOTE-655 C8)
+- narrowed: THEORY-204
+  new: THEORY-tmpz9axt
+  kind: 1
+  answers: QUESTION-233
+  thesis: the usable horizon P^(1/(2β)) is why data-limited language models show the exponent γ/(2β) (Cagnetta, Raventós, Ganguli and Wyart)
+- narrowed: THEORY-253
+  new: THEORY-tmpnt3o1
+  kind: 1
+  answers: QUESTION-193
+  thesis: sign-descent-like optimizers are one source of sequential skill onset in trained networks (Liu, Liu, Michaud, Gore and Tegmark)
+- narrowed: THEORY-181
+  new: THEORY-tmplgh5u
+  kind: 1
+  answers: QUESTION-199
+  thesis: grokking's critical training fraction is where the training set fixes the summed-embedding representation, for addition at every group size (Liu, Kitouni, Nolte, Michaud, Tegmark and Williams)
+- narrowed: THEORY-213
+  new: THEORY-tmp43jo4
+  kind: 1
+  answers: QUESTION-206
+  thesis: strong SGD noise makes a mirror symmetry's subspace attracting even at a saddle, giving sparsity, low rank and identical neurons in SGD-trained networks (Ziyin)
+reclassified:
+- code: THEORY-253
+  clause: sequential onset "comes from the optimizer" as a general cause
+  from_kind: 1
+  to: kind 1 narrowed to "one source"; the sole-cause reading is kind 3
+  why: the paper's own §5.1 (NOTE-794 C5) shows dependent skills starting after their prerequisites, so it does not assert the optimizer as the only cause
+- code: THEORY-181
+  clause: the critical-fraction mechanism for "networks that learn arithmetic"
+  from_kind: 1
+  to: kind 1 held to addition; the arithmetic-in-general reading is kind 3
+  why: for S₃ the paper's predicted accuracy is only a lower bound and its networks generalise beyond the mechanism (NOTE-662, App. H, Fig. 18e)
+- code: THEORY-204
+  clause: the universality-class conjecture (kernel methods and shallow networks fall outside, with worse exponents)
+  from_kind: 1 (merged by triage-008 into the "because" clause)
+  to: not filed; recorded in the new THEORY's body as a separate thesis the source proposes
+  why: a distinct thesis, argued in §6 by analogy with the Random Hierarchy Model and not tested (NOTE-689 C7, weak); filing it would need its own source reading
+kind_3_not_filed:
+- code: THEORY-178
+  clause: positive-circuit necessity as a general law
+  note: already recorded in THEORY-178's note of 2026-10-19 (counterexample)
+- code: THEORY-213
+  clause: '"every" rescaling symmetry'
+  note: ReLU's positive rescaling contains no mirror; recorded in THEORY-213's version-2 history and noted in the new entry
+yield: 5 of 5 codes filed (5 new Proposed THEORYs, all kind 1); 0 kind-2; 3 clauses re-classified or held narrower than triage-008 suggested
+promotion_prs: []
+notes_for_ledger:
+- Each of the five narrowings had already moved its old promote_when to a QUESTION, and that promote_when tests exactly the dropped thesis. So the new Proposed THEORY inherits the promote_when verbatim and `answers` that QUESTION; QUESTION and THEORY now ask and propose the same thing.
+- Triage-008's suggested titles sometimes over-reach the source in the same way the pre-narrowing titles did (the optimizer as "the" cause; "arithmetic" for addition). Check each suggested title against the NOTE's claims table, and against results in the same paper that cut against the generalization, before filing.
+- A triage-008 clause can bundle two theses (THEORY-204's horizon mechanism and the universality-class conjecture). Split them, and file only what the source asserts with some evidence.
+- The narrowed Active entries get an inactive-ok-file directive naming the new Proposed entry, a version bump with a history note, and a dated body note; no status or title change.
+- THEORY-253's summary still names its QUESTION by a stale tmp code ("QUESTION- tmpihczu", broken across a line, so luria repair never concretized it); it is QUESTION-193. Fixed in this batch, since THEORY-253 is touched anyway.
+owner_questions: []

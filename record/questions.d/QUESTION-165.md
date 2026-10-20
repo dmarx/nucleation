@@ -16,6 +16,8 @@ summary: >-
   measured. In the model as given, the correlation threshold and the
   grammar's size are the same expression, n_c m^L, so the measurements
   cannot say which one sets the number of examples.
+answered_by:
+- THEORY-786
 ---
 
 # QUESTION-165: On the Random Hierarchy Model, is the number of examples a deep network needs set by when patch-label correlations become detectable, or by the size of the grammar, once the two are separated by moving the correlations with n_c, m and L fixed?

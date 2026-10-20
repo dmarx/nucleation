@@ -1,0 +1,2838 @@
+triage: triage-008
+date: '2026-10-20'
+base_revision: d2f2fe48
+purpose: 'Narrowing-loss sort. For each THEORY the audit narrowed (narrow-and-promote) or promoted as
+  is (promote), each assertion the narrowing dropped, routed by kind: 1 a generalization or stronger thesis
+  a source asserts (file a Proposed THEORY, same source, the narrowed Active entry as its evidence); 2
+  the record''s own extrapolation or gloss (file a Proposed interpretive CLAIM, ADR-032, ADR-043); 3 a
+  mis-statement corrected by exact conditions, or a clause shown false (note only); 4 open scope nobody
+  asserts (QUESTION). This is the sort only; nothing is filed here.'
+method: 'Hand sort from a digest made by record/promotion-audit/triage_narrowing.py (digest): the last
+  Proposed title from git history, the current title, and the decision file''s scope.excluded. Carriers
+  are Proposed THEORY/CLAIMs linked by extends, refines or complements. Kind-3 and kind-4 clauses are
+  listed briefly; existing QUESTIONs are named only where the decision file names one. suggested_promote_when
+  for kinds 1-2 inherits the pre-narrowing promote_when where that tested the wide claim. Six of this
+  round''s narrowings (#275-#279) are included from their PR and batch branches.'
+entries:
+  THEORY-008:
+  - text: the population limit of the readout-kernel identity
+    kind: 4
+    existing_carrier: QUESTION-136
+  THEORY-009:
+  - text: '"spectral self-supervised learning" as a class: the body names three routes where symmetry
+      comes from elsewhere'
+    kind: 3
+    existing_carrier: null
+  - text: the asymmetric-objective case (BYOL, SimSiam)
+    kind: 4
+    existing_carrier: null
+  THEORY-014: []
+  THEORY-021:
+  - text: whether trained models reach the exact uniform-superposition configurations
+    kind: 4
+    existing_carrier: QUESTION-058
+  - text: the square antiprism, whose tightness depends on vertex heights
+    kind: 3
+    existing_carrier: null
+  THEORY-026:
+  - text: '"equals" for the protocol total, which is a lower bound'
+    kind: 3
+    existing_carrier: null
+  - text: once actions feed back on the drive, prediction is no longer what thermodynamic efficiency requires
+      (generalised from one proved binary channel)
+    kind: 1
+    who_asserts: LIT-041 (percept-action loops; one channel proved)
+    existing_carrier: null
+    suggested_title: 'Once a system''s actions feed back on the process that drives it, predictive memory
+      is no longer what thermodynamic efficiency requires: a predictive agent can dissipate more than
+      a less predictive one, as Garner and coauthors'' work-capacity analysis of percept-action loops
+      proposes'
+    suggested_promote_when: A proof for a class of feedback channels beyond the one binary channel, or
+      a counterexample channel in which every efficient agent is predictive
+  THEORY-030:
+  - text: '"learning carries no minimum thermodynamic cost": false; Goldt and Seifert bound total entropy
+      production'
+    kind: 3
+    existing_carrier: null
+  THEORY-037: []
+  THEORY-073: []
+  THEORY-083:
+  - text: training any classifier past zero error collapses last-layer features onto class means and the
+      means onto a simplex ETF, with nearest-class-mean decisions (neural collapse as a general law)
+    kind: 1
+    who_asserts: LIT-618 (Papyan, Han and Donoho, abstract and discussion); LIT-613
+    existing_carrier: null
+    suggested_title: Training a deep classifier past zero training error generally collapses its last-layer
+      features onto their class means, drives the centred means toward a simplex equiangular tight frame
+      aligned with the classifier, and makes the decision nearest class mean, as Papyan, Han and Donoho
+      propose from their runs
+    suggested_promote_when: 'Replication outside the protocol of LIT-618, read in the record. That protocol
+      had balanced classes, no augmentation, dropout removed, one run per learning rate and the best run
+      shown. Measurements of NC1 and NC2 through the terminal phase under augmentation, label noise and
+      several seeds per cell would promote this, and of NC1 under class imbalance. NC2 is predicted for
+      balanced classes only: under imbalance the geometry to test is that of THEORY-286, not equiangularity.
+      So would a held paper that derives collapse as the limit of gradient descent on cross-entropy, which
+      would turn the measured regularity into an account. No held paper meets that yet: LIT-974 derives
+      collapse for MSE under a re-whitened flow, and LIT-994 gives an endpoint, not a gradient-descent
+      derivation. The claim is refuted if standard training run well past zero error leaves within-class
+      variability of last-layer features flat, or, with balanced classes, leaves the centred class means
+      far from equiangular. Further runs under the original protocol cannot settle it. Nor can the theorems,
+      which assume the collapsed end state.'
+  THEORY-117:
+  - text: compositional generalization comes from diversity of combinations, not data volume, as a general
+      cause
+    kind: 1
+    who_asserts: LIT-667 (Uselis, Dittadi and Oh, abstract)
+    existing_carrier: null
+    suggested_title: In vision models, compositional generalization to unseen combinations of concepts
+      is driven by the diversity of combinations seen in training rather than by data volume, as Uselis,
+      Dittadi and Oh propose
+    suggested_promote_when: 'For the empirical half: the volume-against-diversity comparison repeated
+      with model selection on a validation split disjoint from the unseen combinations, so that a model
+      never chosen by its score on the test pairs still fails to generalize under more data of the same
+      combinations and succeeds as coverage rises. A second architecture trained from scratch, or more
+      than two concepts, would widen it. For the theoretical half: a line-by-line check of Proposition
+      B.7''s proof, or a second derivation such as Trager et al.''s. The account is refuted if, at fixed
+      combinatorial coverage, enough added data of the seen combinations closes the gap on unseen ones,
+      or if networks reach high accuracy on unseen pairs at low coverage without linearly factored features.
+      Further runs with oracle selection on the test pairs cannot settle it, since they measure the best
+      case by construction.'
+  THEORY-127:
+  - text: 'unconditioned "interconnected propositions": false on {p, q, p↔q}'
+    kind: 3
+    existing_carrier: null
+  - text: extension to corporate attitudes other than categorical judgments
+    kind: 4
+    existing_carrier: null
+  THEORY-133:
+  - text: the title omitted the difference-making precondition and the nearest-situation condition
+    kind: 3
+    existing_carrier: null
+  THEORY-155:
+  - text: convergence needs an ergodic chain
+    kind: 3
+    existing_carrier: null
+  - text: human transmission chains
+    kind: 4
+    existing_carrier: null
+  THEORY-158:
+  - text: 'the measure-space form: on σ-finite spaces a stochastic operator or Markov semigroup commutes
+      with an observable exactly when its mean and variance are conserved (source theorems, read, not
+      re-derived)'
+    kind: 1
+    who_asserts: LIT-773 (Theorems 2 and 3)
+    existing_carrier: null
+    suggested_title: For a Markov semigroup on a σ-finite measure space, an observable commutes with the
+      generator exactly when its mean and variance are both conserved, as Baez and Fong state in their
+      Noether theorem for Markov processes
+    suggested_promote_when: A re-derivation of the measure-space theorems (Theorem 3 for one stochastic
+      operator, Theorem 2 for semigroups), or a counterexample
+  THEORY-160:
+  - text: 'Alfsen and Shultz''s theorem: a dynamical correspondence exists exactly when the observables
+      are the self-adjoint part of a C*-algebra (quoted by the source, not read)'
+    kind: 1
+    who_asserts: LIT-819 (Baez, Theorem 12, quoted)
+    existing_carrier: null
+    suggested_title: A JB-algebra of observables admits a dynamical correspondence, a map sending each
+      observable to a derivation that it generates, exactly when it is the self-adjoint part of a C*-algebra,
+      as Alfsen and Shultz proved and Baez reports
+    suggested_promote_when: A reading of Alfsen and Shultz's proof, or a re-derivation
+  THEORY-161:
+  - text: all semantic rate-distortion frameworks of 2021-2025 treat meaning as a latent variable with
+      a known joint law, so their limits are indirect source-coding limits
+    kind: 2
+    who_asserts: record
+    existing_carrier: null
+    suggested_title: The semantic rate–distortion frameworks of 2021–2025 generally treat meaning as a
+      latent variable with a known joint law with the observation, so their limits are indirect source-coding
+      limits, a reading the record draws from Zhao et al. and Chai et al.
+    suggested_promote_when: 'Two kinds of result settle it. For the account of the field: a reading of
+      Liu, Zhang and Poor''s framework (ISIT 2021; IEEE Trans. Commun. 2022) and of one further semantic
+      rate–distortion framework not by these authors, each found either to treat meaning as a latent variable
+      with a known joint law with the observation, coded through the observation, or not. A framework
+      whose limit depends on a property of the meaning beyond that joint law and the distortion would
+      refute the general statement. For the two identities: an independent check (a published statement,
+      or a second reader''s derivation) that under Zhao et al.''s definitions the expected KL posterior
+      distortion equals I(S;X) − I(S;Y) and the expected TV posterior distortion bounds the excess Bayes
+      risk of bounded losses. Agreement among papers by the same groups does not count for the first.'
+  - text: '"a uniform bound on lost decision value": it is in expectation, at one prior'
+    kind: 3
+    existing_carrier: null
+  THEORY-163:
+  - text: the colour-naming systems of the world's languages generally lie near the information-bottleneck
+      bound, placed along it by one trade-off parameter
+    kind: 1
+    who_asserts: LIT-810 (Zaslavsky, Kemp, Regier and Tishby, abstract and discussion)
+    existing_carrier: null
+    suggested_title: Natural languages' colour-naming systems lie near the information-bottleneck bound
+      for compressing perceptual meanings into words, so efficient compression shapes how languages name
+      colours, as Zaslavsky, Kemp, Regier and Tishby propose
+    suggested_promote_when: A test in which the need distribution over meanings is measured independently
+      of the naming data (for example from usage frequencies) and the languages scored are held out from
+      every fitted quantity, so that attested systems are compared with the IB bound and with structured
+      alternatives other than hue rotations; or the same result in a second semantic domain with its own
+      independently grounded meaning space. A better fit with a source estimated from the same naming
+      data cannot settle it.
+  THEORY-166:
+  - text: survey question-order effects in general leave the probability of the same answer to both questions
+      unchanged (the QQ equality as a law)
+    kind: 1
+    who_asserts: LIT-795 (Wang, Solloway, Shiffrin and Busemeyer)
+    existing_carrier: null
+    suggested_title: Question-order effects in surveys generally leave the probability of giving the same
+      answer to both questions unchanged, the QQ equality a projection model predicts, as Wang, Solloway,
+      Shiffrin and Busemeyer propose
+    suggested_promote_when: A test of the equality on question pairs chosen before the data were seen,
+      by investigators other than its proposers, with the per-pair tables published, and a comparison
+      against a classical model with memory that is constrained to satisfy the same equality and fitted
+      to the same tables. Re-analyses of the same 72 studies cannot settle it, and neither can a fit of
+      the quantum model alone.
+  THEORY-169:
+  - text: further layer classes (delta-rule, mini-batch inner updates)
+    kind: 4
+    existing_carrier: null
+  - text: normalized linear attention, TTT-Linear as built
+    kind: 3
+    existing_carrier: null
+  THEORY-171:
+  - text: 'Theorem 2.34: a space''s presheaf is a sheaf exactly when it has no solipsistic contextuality
+      witness (proof not checked; unrefereed preprint)'
+    kind: 1
+    who_asserts: LIT-808 (Gogioso and Pinzani, Theorem 2.34)
+    existing_carrier: null
+    suggested_title: The presheaf of causal distributions on a space of input histories is a sheaf exactly
+      when the space has no solipsistic contextuality witness, as Gogioso and Pinzani state
+    suggested_promote_when: A checked reading or re-derivation of the proof, or a counterexample space
+  THEORY-172:
+  - text: listeners interpret an utterance by inverting a model of an informative speaker, so a fixed
+      form's interpretation depends on the alternatives (the inversion as the mechanism)
+    kind: 1
+    who_asserts: LIT-821 (Frank and Goodman); LIT-809, LIT-816
+    existing_carrier: null
+    suggested_title: Listeners interpret an utterance by inverting a model of a speaker who chooses among
+      alternatives by informativeness, so what a fixed form conveys depends on what else the speaker could
+      have said, as the rational speech act account of Frank, Goodman and coauthors proposes
+    suggested_promote_when: Listener judgements in reference or signalling games whose alternative utterances
+      and costs are manipulated while the uttered form is held fixed, predicted in advance by the inverted-informative-speaker
+      model with its parameters set before the data are seen, and shown to beat a literal listener with
+      the same prior and a likelihood-only model on unaggregated, trial-level data. A high correlation
+      of condition means with a parameter-free model, which is what exists, cannot settle it.
+  THEORY-175:
+  - text: independently trained encoders' latent spaces differ by (approximately) an angle-preserving
+      map, so relative representations make them comparable and decoders transfer zero-shot
+    kind: 1
+    who_asserts: LIT-849 (Moschella et al., abstract and §3)
+    existing_carrier: null
+    suggested_title: Independently trained neural encoders of the same data learn latent spaces that differ
+      mainly by an angle-preserving transformation, so representations relative to shared anchors make
+      them comparable and let decoders transfer between them without training, as Moschella et al. propose
+    suggested_promote_when: A fitted map between two trained spaces with its residual reported, showing
+      (or refuting) that an isometry up to scale accounts for most of the difference
+  THEORY-176:
+  - text: whether the stitching possibility occurs in trained networks
+    kind: 4
+    existing_carrier: null
+  THEORY-177:
+  - text: the least total influence of one model; the identity is a sum of per-content minima
+    kind: 3
+    existing_carrier: null
+  THEORY-178:
+  - text: 'transcriptional regulation alone makes a bacterium''s gene-expression state depend on its history:
+      a transient change to one regulator can leave cells in a different self-maintaining state'
+    kind: 1
+    who_asserts: LIT-854 (abstract and discussion)
+    existing_carrier: null
+    suggested_title: 'Transcriptional regulation alone can give a bacterium''s gene expression a memory:
+      a transient change to one regulator can leave the cells in a different self-maintaining expression
+      state after it is released, as the Boolean-network study of E. coli''s regulatory core proposes'
+    suggested_promote_when: 'An experiment in bacteria, read first-hand, in which a gene is perturbed
+      transiently (for example by inducible CRISPR interference, then released) with the growth environment
+      held fixed, and other genes stay in their changed expression state for many generations after the
+      perturbation is gone, with slow return excluded: either by following the culture until the state
+      has outlasted any plausible relaxation time, or by showing that unperturbed cells started from the
+      other state hold it under the same conditions. Refuted for the network if well-powered transient
+      perturbations of the predicted genes (crp, with zraR, melR or rhaRS as responders) are always followed
+      by a return to the starting state. What would not settle it: further simulations or rule ensembles;
+      agreement with strains evolved under a permanent knockout, which is not a temporary disturbance;
+      and environmentally induced bistable switches such as the lac operon, which were known before and
+      are not perturbations of regulation alone.'
+  - text: '"only through a gene that reaches a positive circuit" as a general law (counterexample in the
+      body)'
+    kind: 3
+    existing_carrier: null
+  THEORY-181:
+  - text: the critical training fraction of grokking-like generalisation is where the training set comes
+      to fix the representation (the mechanism, for trained networks and other sizes)
+    kind: 1
+    who_asserts: LIT-858 (Liu et al., Towards Understanding Grokking)
+    existing_carrier: null
+    suggested_title: In networks that learn arithmetic from embeddings, generalisation sets in at the
+      training fraction at which the training set's same-answer pairs come to fix the generalising representation,
+      so that fraction is the critical one, as Liu and coauthors propose
+    suggested_promote_when: 'What would settle it is the same toy (two learned embeddings summed and decoded,
+      addition hard-coded) run at several group sizes p. For each training set, it would have to report
+      the nullity of the linear system its same-answer pairs impose and whether the trained network generalises.
+      The claim holds if, at every p, full generalisation occurs with high probability exactly on training
+      sets of nullity 2, and the empirical critical fraction follows the fraction at which nullity 2 becomes
+      likely. It is refuted by networks in that setting that generalise fully on training sets of nullity
+      above 2, or by a critical fraction that departs from the nullity threshold as p grows. More single-size
+      runs, or pictures of structured embeddings in larger models, are the wrong kind of evidence: they
+      show structure, not that the training set''s equations are what fix it.'
+  THEORY-184: []
+  THEORY-185:
+  - text: '"keeps them only when the signals are weak and alike": the exact condition is alike, not weak'
+    kind: 3
+    existing_carrier: null
+  - text: the premise measured on real text
+    kind: 4
+    existing_carrier: null
+  THEORY-187:
+  - text: depth-independent learning times hold from generic starts such as random orthogonal initialization,
+      not only decoupled ones
+    kind: 1
+    who_asserts: LIT-864 (Saxe, McClelland and Ganguli, on random orthogonal initialization)
+    existing_carrier: null
+    suggested_title: In deep linear networks trained from random orthogonal initial weights, learning
+      time stays bounded as depth grows, as it does from decoupled starts, as Saxe, McClelland and Ganguli
+      propose
+    suggested_promote_when: 'A derivation, or a controlled measurement across depths, showing that deep
+      linear networks started off the decoupled set behave the same way: learning time, counted in iterations
+      at the stable step size, bounded in depth when the initial end-to-end gain on every mode is of order
+      one, and growing as a power of 1/ε when it is ε. That means random orthogonal or random small weights,
+      not aligned with the task''s singular vectors. More runs from decoupled starts cannot settle it,
+      since there the result is already exact.'
+  THEORY-189: []
+  THEORY-190:
+  - text: the S¹ model's average degree flows as r^ν under coarse-graining, with phase boundaries at γ
+      = 3 and β = 2, and real networks are self-similar in this sense
+    kind: 1
+    who_asserts: LIT-869 (García-Pérez, Boguñá and Serrano)
+    existing_carrier: null
+    suggested_title: Under geometric renormalization of the S¹ hidden-metric model the average degree
+      flows as r^ν, with ν = 2/(γ − 1) − 1 or 2/β − 1, so networks with γ < 3 flow to small worlds, and
+      real networks are self-similar under this renormalization, as García-Pérez, Boguñá and Serrano propose
+    suggested_promote_when: A derivation of the degree flow that controls the short-range excess, or a
+      measurement on real networks with the flow exponent predicted in advance
+  THEORY-191:
+  - text: natural odour sources in general have hyperbolic correlation geometry
+    kind: 1
+    who_asserts: LIT-872
+    existing_carrier: THEORY-618
+  THEORY-192:
+  - text: rat CA1 place-cell correlations in general are hyperbolic, with radius growing logarithmically
+      with exploration
+    kind: 1
+    who_asserts: LIT-876
+    existing_carrier: THEORY-618
+  THEORY-194:
+  - text: the coarse-graining that maximizes mutual information with the environment is the renormalization-group-relevant
+      one, in general
+    kind: 1
+    who_asserts: LIT-873 (Koch-Janusz and Ringel, abstract)
+    existing_carrier: null
+    suggested_title: The block coarse-graining that maximizes mutual information with the system beyond
+      a buffer picks out the renormalization-group-relevant variables, so relevant variables can be found
+      by information alone, as Koch-Janusz and Ringel propose
+    suggested_promote_when: A system whose relevant variables were not known beforehand, in two or more
+      dimensions, where the coarse-graining that maximizes mutual information with the environment beyond
+      a buffer is computed, iterated, and gives critical exponents that agree with an independent method
+      (high-precision Monte Carlo, series or conformal bootstrap) within stated errors, while a coarse-graining
+      fitted to the data distribution on the same samples does not. Or a proof, for a class of local Hamiltonians
+      in two or more dimensions, that the maximizer yields an effective Hamiltonian whose couplings decay
+      with distance. More rediscoveries of block spins or of other variables already known cannot settle
+      it, because the account was shown on exactly those.
+  - text: which variables a compression keeps is set by what it must stay informative about
+    kind: 2
+    who_asserts: record
+    existing_carrier: null
+    suggested_title: Which variables a compression keeps is set by what it must stay informative about,
+      not by fidelity to the data distribution, a reading the record draws from the mutual-information
+      approach to renormalization
+    suggested_promote_when: A study that varies the target a coarse-graining must stay informative about
+      and shows the kept variables change with it, at a fixed data distribution
+  - text: 'the 1D Ising clause: three filters ranked, not a maximum over all filters'
+    kind: 3
+    existing_carrier: null
+  THEORY-195:
+  - text: the sample complexity P* is where the class statistics of input patches rise above sampling
+      noise (correlation detection as the cause)
+    kind: 1
+    who_asserts: LIT-877 (Cagnetta, Petrini, Tomasini, Favero and Wyart)
+    existing_carrier: null
+    suggested_title: Deep networks learn hierarchically generated data from a number of examples set by
+      when the correlations between input patches and the class rise above sampling noise, so detecting
+      those correlations is how they learn the grammar, as Cagnetta and coauthors propose
+    suggested_promote_when: 'A result that separates the number of examples a deep network needs from
+      the counting of the grammar, by moving the input–label correlations while n_c, m and L stay fixed:
+      for instance, non-uniform production probabilities that make some tuples'' class statistics detectable
+      earlier than others, with the training-set sizes at which each level becomes synonym-invariant,
+      and at which test error falls, tracking the predicted detection thresholds rather than n_c m^L.
+      Or a proof that gradient descent on a deep network learns the Random Hierarchy Model from a number
+      of examples of order n_c m^L, polynomial in the input dimension. Further collapses of learning curves
+      on n_c m^L at other parameter values cannot settle it, because the threshold and the grammar''s
+      size are the same number there.'
+  THEORY-197: []
+  THEORY-198:
+  - text: the unconditional D-dimensional reading; coarse-grainings short of full capture
+    kind: 4
+    existing_carrier: QUESTION-065
+  THEORY-202:
+  - text: whether the trace condition suffices inside Kadanoff's kernel families
+    kind: 4
+    existing_carrier: null
+  THEORY-204:
+  - text: real learners show the exponent because P tokens resolve correlations only to a horizon n*(P);
+      and the universality-class conjecture
+    kind: 1
+    who_asserts: LIT-888 (Cagnetta and Wyart)
+    existing_carrier: null
+    suggested_title: Language models trained on limited data show a loss falling as P^(−γ/(2β)) because
+      P tokens resolve token correlations only out to a horizon growing as P^(1/(2β)), as Cagnetta and
+      Wyart propose
+    suggested_promote_when: 'A result in which the data-limited exponent of a next-token learner is moved
+      by changing one of the two corpus statistics while the other is held: for instance, text whose correlations
+      beyond some lag are destroyed or weakened by an intervention that keeps its short-range statistics,
+      or a synthetic language with tunable β and γ, with the measured exponent tracking γ/(2β) and departing
+      from it when the within-horizon excess loss is made to decay slowly. Or the same match at a scale
+      where the usable horizon reaches thousands of tokens, with γ estimated without a neural model of
+      the same class. More collapses at the scale already reported, with γ read off the trained models''
+      own n-gram losses, cannot settle it.'
+  THEORY-205:
+  - text: '"at its first transition" read as where the uninformative encoder stops being optimal: false
+      (counterexample)'
+    kind: 3
+    existing_carrier: null
+  THEORY-206:
+  - text: '"to approximate" read as uniform approximation: the lower bound fails'
+    kind: 3
+    existing_carrier: null
+  - text: what replaces the bound with biases
+    kind: 4
+    existing_carrier: null
+  THEORY-211:
+  - text: the noise-balance law holds for deep networks trained by SGD on real data
+    kind: 1
+    who_asserts: LIT-1012 (Ziyin et al.); LIT-1013
+    existing_carrier: null
+    suggested_title: In deep networks trained by SGD on real data, minibatch noise drives parameter groups
+      related by a rescaling symmetry toward balance of their gradient noise, so trained networks sit
+      away from where gradient flow would leave them, as Ziyin and coauthors propose
+    suggested_promote_when: 'The law of balance measured in a deep network trained on real data, during
+      its limiting dynamics. What would promote: for parameter groups related by a rescaling symmetry
+      (adjacent layers through a ReLU, or the query and key matrices of attention), the difference of
+      squared norms moving toward the value at which the groups'' gradient-noise traces are equal, at
+      a rate that scales with learning rate over batch size, with weight decay adding to it. That should
+      hold from more than one initialization. What would refute it: in such a network at stationarity,
+      the difference staying at its initial value, as under gradient flow, or diffusing without a preferred
+      value, as under isotropic noise. A failure of the SDE approximation at the learning rates used would
+      limit it, not refute it. More solvable toy models cannot settle it.'
+  THEORY-213:
+  - text: strong gradient noise makes symmetric subspaces favoured, so symmetry-induced collapse (sparsity,
+      low rank, merged neurons) happens in trained networks
+    kind: 1
+    who_asserts: LIT-1014 (Ziyin et al., §SGD and Fig. 3)
+    existing_carrier: null
+    suggested_title: Strong gradient noise in SGD, not only weight decay, makes the symmetric subspaces
+      of a network's loss attracting, so mirror symmetries produce sparsity, low rank and identical neurons
+      in trained networks, as Ziyin and coauthors propose
+    suggested_promote_when: A derivation of the noise result without the diagonal approximation, or a
+      measurement on trained networks at controlled noise and zero weight decay
+  - text: '"every" rescaling symmetry: for ReLU λ > 0 contains no mirror'
+    kind: 3
+    existing_carrier: null
+  THEORY-216:
+  - text: on a contested canvas, lasting artworks are those whose coalitions keep working under continual
+      overwriting, and participants consolidate into large coalitions
+    kind: 1
+    who_asserts: LIT-1032 (r/place study)
+    existing_carrier: null
+    suggested_title: On a contested shared canvas, the artworks that last are those whose coalitions keep
+      repairing them under continual overwriting, as the r/place study proposes from its lifecycles
+    suggested_promote_when: 'Promoted by a measurement on full placement logs, in r/place or a comparable
+      contested canvas, that tracks recovered or recorded coalitions through time and shows (a) that artworks
+      lasting to the end received sustained overwrites and repairs throughout, as a population and not
+      in hand-picked lifecycles, and (b) that coalition survival stays near-unpredictable early even when
+      interaction features (who attacks whom, shared members, alliance ties) are added to state features.
+      Weakened if lasting artworks turn out mostly unattacked, or if richer features make early outcomes
+      predictable, which would place the unpredictability in the feature set and not in the dynamics.
+      What cannot settle it: more illustrated lifecycles, or better final-canvas segmentation scores,
+      which validate the recovery method and not the dynamics.'
+  THEORY-222:
+  - text: macro scales can be where a system's causation is most effective (causal emergence), beyond
+      "effective information is highest there"
+    kind: 1
+    who_asserts: LIT-1038 (Hoel, Albantakis and Tononi)
+    existing_carrier: null
+    suggested_title: A system's causal structure can be most effective at a macro scale, so causation
+      can emerge at coarse-grained levels, as Hoel, Albantakis and Tononi propose from effective information
+    suggested_promote_when: An argument or result showing the effective-information peak is invariant
+      to the choice of intervention distribution across levels, or a rival measure that agrees on it
+  THEORY-228:
+  - text: off a finite space; Õ factors; wording of α
+    kind: 3
+    existing_carrier: null
+  - text: non-vacuity on real data
+    kind: 4
+    existing_carrier: null
+  THEORY-229:
+  - text: gradient flow from generic small initialization learns the eigenvectors one at a time (informal
+      in the source)
+    kind: 1
+    who_asserts: LIT-242 (Simon et al., Result 4.6)
+    existing_carrier: null
+    suggested_title: Gradient flow on a symmetrized Barlow Twins loss from generic small initialization
+      learns the top eigenvectors of the views' cross-correlation one at a time in order of eigenvalue,
+      as Simon and coauthors propose from an informal derivation
+    suggested_promote_when: 'A formal proof of Simon et al.''s Result 4.6 (generic small initialization
+      follows the aligned trajectory as the scale goes to zero), which the paper derives only informally,
+      or a proof of the same stepwise order for a second spectral SSL loss on a linear or fixed-kernel
+      model. Either would settle the account in the regime it claims. It is refuted by a linear or fixed-kernel
+      case of this loss, from vanishing generic initialization with distinct positive eigenvalues, that
+      does not reach the minimum-norm solution or learns a lower mode first. What cannot settle it: more
+      ResNet runs showing stepwise rank growth, since the theory does not cover a moving tangent kernel
+      and the paper''s own initial-NTK predictions for ResNets are poor.'
+  THEORY-230:
+  - text: '"ten architectures", "far more", "what the shared laws imply": wording replaced by numbers'
+    kind: 3
+    existing_carrier: null
+  THEORY-231: []
+  THEORY-233:
+  - text: how far CKA and NBS disagree in trained networks
+    kind: 4
+    existing_carrier: null
+  THEORY-234:
+  - text: '"only when": necessity not shown'
+    kind: 3
+    existing_carrier: null
+  - text: whether released models meet the conditions
+    kind: 4
+    existing_carrier: null
+  THEORY-237:
+  - text: '"tight" for InfoNCE; absolute-continuity condition'
+    kind: 3
+    existing_carrier: null
+  THEORY-238:
+  - text: non-vacuity for trained encoders
+    kind: 4
+    existing_carrier: null
+  - text: general finiteness for every encoder
+    kind: 3
+    existing_carrier: null
+  THEORY-239:
+  - text: '"unique": false (counterexample)'
+    kind: 3
+    existing_carrier: null
+  THEORY-243:
+  - text: which internal direction mediates a variable is fixed only relative to a decomposition into
+      units, in general, with many such ties expected in complex models
+    kind: 1
+    who_asserts: LIT-968 (Wu et al.'s reply, conjecture)
+    existing_carrier: null
+    suggested_title: In trained neural networks, interchange interventions generally leave several alignments
+      of a high-level variable that differ by a change of basis, so the mediating direction is fixed only
+      relative to a chosen decomposition into units, as Wu and coauthors conjecture
+    suggested_promote_when: 'A demonstration in a trained network, not a constructed one, of two alignments
+      of the same high-level variable that differ by a change of basis crossing component boundaries and
+      agree on every interchange intervention drawn from the data distribution, together with a showing
+      that some further intervention, or nothing, separates them. Or a proof that, for a stated class
+      of networks and high-level models, alignments that agree on all such interventions for every aligned
+      variable are unique up to a stated symmetry. The first would extend the account from the toy to
+      trained models; the second would bound it. What cannot settle it: further cases where one alignment
+      scores higher, since the account is about ties under a fixed set of interventions.'
+  THEORY-244:
+  - text: the distortion-rate function is the expectation of its Kolmogorov counterpart to within the
+      complexity of the source (Theorem 6.27, a step asserted)
+    kind: 1
+    who_asserts: LIT-224 (Grünwald and Vitányi, Theorem 6.27)
+    existing_carrier: null
+    suggested_title: For a computable source, the Shannon distortion-rate function is the expectation
+      of its Kolmogorov counterpart to within the complexity of the source, as Grünwald and Vitányi state
+    suggested_promote_when: A published version of LIT-224's two new results (Theorem 5.13, Theorem 6.27),
+      or of the Vereshchagin–Vitányi individual rate–distortion paper it follows, that fills in the step
+      in Theorem 6.27's right-hand inequality this reading found asserted. The other bridges (Theorems
+      2.10 and 3.6) were checked and are standard. Only the distortion-rate clause waits on that check.
+      It is refuted by a computable source f for which expected Kolmogorov complexity exceeds entropy
+      by more than K(f) plus a constant. It is also refuted by a recursive source and distortion for which
+      (1/m) E h_x(mR) fails to converge to D*(R). Empirical compression ratios cannot settle it, since
+      a real compressor gives only upper bounds on K.
+  THEORY-246:
+  - text: 'objectives that tighten class clusters buy accuracy and pay in transfer, as a general causal
+      thesis: contradicted by the paper''s own squared-error and augmentation results'
+    kind: 3
+    existing_carrier: null
+  THEORY-247:
+  - text: the fixed-point bisimulation metric equals the logical bisimulation metric and vanishes exactly
+      on bisimilar states (cited theorems)
+    kind: 1
+    who_asserts: LIT-962 (citing van Breugel and Worrell 2001; Desharnais et al. 2002)
+    existing_carrier: null
+    suggested_title: For finite labelled Markov chains, the discounted bisimulation metric defined as
+      a fixed point equals the logical bisimulation metric, and distance zero holds exactly for bisimilar
+      states, as van Breugel and Worrell and Desharnais and coauthors proved
+    suggested_promote_when: A reading of van Breugel and Worrell (2001) or Desharnais et al. (2002), or
+      a re-derivation
+  THEORY-248:
+  - text: finiteness needs the rate-distortion function finite
+    kind: 3
+    existing_carrier: null
+  - text: a non-trivial value for an algorithm with infinite I(S;W)
+    kind: 4
+    existing_carrier: null
+  THEORY-253:
+  - text: sequential onset of skill acquisition in training comes from the optimizer (sign-descent-like
+      dynamics), as a general cause
+    kind: 1
+    who_asserts: LIT-951 (Liu, Liu, Michaud, Gore and Tegmark)
+    existing_carrier: null
+    suggested_title: 'Skills in neural-network training emerge in sequence rather than together because
+      of the optimizer: sign-descent-like updates such as Adam''s make skills compete for coordinate signs,
+      as Liu, Liu, Michaud, Gore and Tegmark propose'
+    suggested_promote_when: An analysis of sign descent, or of Adam at small β, on a sum of frequency-weighted
+      quadratic losses whose eigendirections are not aligned with the coordinates. It would need to derive
+      the delayed onset of each weaker skill, and the ratio t₂/t₁ → 2, that the paper shows only in simulation.
+      Or a trained network on independent skills of unequal frequency whose onsets go from simultaneous
+      to sequential when only the optimizer is changed from SGD to sign descent. It is refuted by a case
+      in which orthogonal skills under plain gradient descent start one after another without small-initialization
+      plateaus, or by sign descent on a rotated quadratic that learns all directions together. Further
+      fits of the Resource ODE cannot settle it, since that model was fitted to the behaviour it would
+      be confirming.
+  THEORY-255:
+  - text: Hampton's guppy-type overextension requires an emergent concept outside the lattice operations
+      (Aerts's emergence reading)
+    kind: 1
+    who_asserts: LIT-934 (Aerts)
+    existing_carrier: null
+    suggested_title: Overextension in concept combination, as in Hampton's guppy data, arises because
+      a combined concept is an emergent new concept rather than a lattice meet of its parts, as Aerts
+      proposes
+    suggested_promote_when: 'A check, written out in the record, of the generalisation this account draws
+      from Theorem 9: that in any lattice whose membership weight is order-preserving, taking "and" as
+      the meet and "or" as the join rules out overextension and underextension, whatever the negation.
+      And a reading of a second, independent quantum model of concept-combination data (Busemeyer and
+      Bruza, LIT-316, if a copy is found, or Franco''s conditional-probability model) that confirms that
+      it too places the guppy-type deviations in an operation other than the lattice meet. It is refuted
+      by a published model that reproduces Hampton''s overextended items with conjunction as a lattice
+      meet and an order-preserving weight. What cannot settle it: a better or more economical fit to Hampton''s
+      data, which bears on the model and not on where the deviation lives.'
+  - text: '"need an emergent concept" as a consequence of the theorem, which forces only dropping meet
+      or monotonicity'
+    kind: 3
+    existing_carrier: null
+  THEORY-256:
+  - text: small transformers trained by next-token prediction on factored processes generally learn factored,
+      orthogonal belief representations
+    kind: 1
+    who_asserts: LIT-986 (Shai et al.)
+    existing_carrier: null
+    suggested_title: Transformers trained by next-token prediction on processes whose latent dynamics
+      factor learn to represent their belief states in approximately orthogonal per-factor subspaces of
+      additive dimension, as Shai and coauthors propose
+    suggested_promote_when: 'A replication on a different family of factored generators, or under a second
+      objective on the same data, in which the dimension and per-factor orthogonality of the learned representation
+      are measured, and in which the noise experiment reports the loss gap between the factored and joint
+      representations at each noise level. It is refuted by a transformer trained on a lossless factored
+      process with room for the joint representation that settles near the joint dimension, or by a lossy
+      process on which training reaches the joint representation without first passing near the factored
+      one. What cannot settle it: linear decodability of each factor''s belief alone, since a representation
+      with overlapping factor subspaces also supports accurate linear readout (App. H.1.2).'
+  THEORY-259:
+  - text: '"only to within the complexity of the likelihood": not supported'
+    kind: 3
+    existing_carrier: null
+  THEORY-261:
+  - text: 'capacity a tenth: large-M limit'
+    kind: 3
+    existing_carrier: null
+  THEORY-263:
+  - text: compression as mechanism outside finite alphabets
+    kind: 4
+    existing_carrier: null
+  THEORY-266:
+  - text: informativeness for trained networks
+    kind: 4
+    existing_carrier: null
+  THEORY-267:
+  - text: prediction-market prices in general keep most of an unsupported shock for weeks, because later
+      trading undoes only part of it
+    kind: 1
+    who_asserts: LIT-958 (Rasooly and Rozzi)
+    existing_carrier: null
+    suggested_title: Prediction-market prices keep much of an arbitrary price shock that no information
+      supports for weeks, because traders with limited capital undo it only partly and ever more slowly,
+      as Rasooly and Rozzi propose
+    suggested_promote_when: A second randomised manipulation experiment on a different prediction market,
+      preferably a real-money one with larger markets, that again finds most of a one-off random shock
+      present after several weeks. Alternatively, a design that measures traders' beliefs before and after
+      the shock and shows whether the persistence comes from learning from the price or from limited rebalancing.
+      The first would establish the persistence beyond Manifold. The second would say whether the persistent
+      price is something traders came to believe. More simulations of the authors' model cannot settle
+      it, and neither can observational studies of historical manipulation attempts, which have no counterfactual
+      price path.
+  THEORY-270:
+  - text: translation without parallel data is learnable from a plausibility prior over the target alone,
+      with error falling in common ground, source size and samples, in general
+    kind: 1
+    who_asserts: LIT-941 (Goldwasser, Gruber, Kalai and Paradise, abstract)
+    existing_carrier: null
+    suggested_title: Unsupervised translation is learnable from a plausibility prior over the target language
+      alone, with error falling as the common ground between the languages grows, as Goldwasser, Gruber,
+      Kalai and Paradise propose from their models
+    suggested_promote_when: 'A proof of the same kind of bound outside the uniform, lossless models: for
+      non-uniform (for instance Zipfian) source languages, or for lossy translators, an error bound that
+      still falls in the common ground and in the size of the source language, with a lower bound to match.
+      Or an experiment on real corpora in which the error of prior-scored translation without parallel
+      data falls with measured common ground at the predicted rate. It is refuted for natural settings
+      by a non-uniform model in which richer source languages do not reduce the common ground needed.
+      What cannot settle it: further synthetic runs in the same two models, which only confirm the proofs.'
+  THEORY-271: []
+  THEORY-272:
+  - text: a Hopfield network's capacity is a fixed fraction of N for large N (about 0.15N), and forgetting
+      old memories prevents catastrophic overload
+    kind: 1
+    who_asserts: LIT-918 (Hopfield 1982, noise estimate and saturating-coupling remark)
+    existing_carrier: null
+    suggested_title: A network of threshold units with symmetric Hebbian couplings stores a number of
+      random patterns proportional to its size, about 0.15 of the number of units, and overloading it
+      destroys every memory unless old ones are forgotten, as Hopfield proposes
+    suggested_promote_when: A reading of the analytic treatment of the same model (Amit, Gutfreund and
+      Sompolinsky 1985 and 1987, or an equivalent) or of a later simulation at N in the thousands, confirming
+      that random patterns stored by Eq. 2 are attractors with basins of nonzero width up to a load near
+      0.14–0.15N, that recall then collapses for all patterns rather than degrading pattern by pattern,
+      and that two patterns fuse once their overlap is high. It is refuted if the capacity scaling fails
+      at large N, or if the large-N basins shrink to zero width at any load. A further simulation at N
+      = 30 or 100 cannot settle it, since those are the sizes the claim already rests on.
+  THEORY-275:
+  - text: directional information measures between symmetrically coupled units follow the drive, not the
+      coupling, as a general law
+    kind: 1
+    who_asserts: LIT-947
+    existing_carrier: null
+    suggested_title: Directional information measures such as transfer entropy between symmetrically coupled
+      units generally follow the path of an external drive rather than the symmetry of the coupling, so
+      they do not reveal the coupling's direction, as the optical-trap study proposes
+    suggested_promote_when: 'A second system, experimental or exactly solvable, in which units with a
+      known reciprocal coupling are driven on one side at graded strengths. Transfer-entropy asymmetry
+      between them must grow with the drive to one-way flow while the coupling stays symmetric, measured,
+      not only simulated, in the strong-drive regime. It is refuted by a case where directional information
+      measures between reciprocally coupled units stay symmetric under strong one-sided drive, or where
+      they recover the coupling''s symmetry without the drive being recorded or intervened on. What cannot
+      settle it: systems whose coupling is itself asymmetric, or further cases in the moderate regime
+      alone, where flow is already two-way.'
+  THEORY-276: []
+  THEORY-278:
+  - text: networks trained with MSE follow the renormalized central-path flow, so it explains neural collapse
+      in real networks
+    kind: 1
+    who_asserts: LIT-974 (Han, Papyan and Donoho)
+    existing_carrier: null
+    suggested_title: Deep classifiers trained with MSE loss stay near the least-squares classifier for
+      their own features and follow the renormalized central-path flow, which drives them to neural collapse,
+      as Han, Papyan and Donoho propose
+    suggested_promote_when: A measurement in trained networks that the model's dynamics are the ones training
+      follows. Track the singular values ω_j of Σ_W^(−1/2)M̃ through the terminal phase of MSE training,
+      without imposed re-whitening, on more than one architecture and with several seeds. Check that they
+      grow at a common rate, that their ratio tends to 1, and that the limiting direction is set by the
+      singular vectors early in training, as Corollary 2 predicts. A derivation that drops the continual
+      renormalization, or that allows weight decay, would also promote it. It is refuted if, near the
+      central path, the ω_j spread apart or stall while L⊥_LS stays negligible. It is also refuted if
+      the deviation from the least-squares classifier stops being negligible in settings LIT-974 did not
+      test (augmentation, many classes, imbalance). Further closed-form results in the same renormalized
+      model cannot settle it, nor can NC1–NC4 curves alone, which any account of collapse predicts.
+  THEORY-280:
+  - text: optimality of the ε⁻² rate
+    kind: 4
+    existing_carrier: null
+  THEORY-281:
+  - text: countable or continuous X
+    kind: 3
+    existing_carrier: null
+  THEORY-282: []
+  THEORY-283:
+  - text: gradient-descent training without spectral initialization (cited remark, not asserted)
+    kind: 4
+    existing_carrier: null
+  THEORY-284: []
+  THEORY-289:
+  - text: beyond OLS with isotropic Gaussian covariates
+    kind: 4
+    existing_carrier: null
+  - text: '"bounds at π²/6": strictly below and rising'
+    kind: 3
+    existing_carrier: null
+  THEORY-290:
+  - text: debaters in general free-ride on each other's belief-disrupting arguments, and a higher weight
+      on truth can lower accuracy
+    kind: 1
+    who_asserts: LIT-966 (Cooperative Dilemmas in Rational Debate)
+    existing_carrier: null
+    suggested_title: In debate between agents who value true belief but dislike changing their minds,
+      one debater free-rides on another's belief-disrupting arguments, so equilibrium argument falls short
+      of the truth-optimal and more weight on truth can lower accuracy, as the rational-debate model proposes
+    suggested_promote_when: An analysis or experiment that measures accuracy and revision costs separately
+      and finds the same free-riding structure among more than two debaters, or with richer strategies
+      than fixed, memoryless premise and conclusion rules. In such a study, a participant facing a bold
+      partner must argue less boldly, collective accuracy must fall short of what mutual boldness would
+      give, and the shortfall must vanish when the cost of revision is removed. It is refuted if, with
+      strategies that can target the partner's false beliefs (the paper's "ideal cooperative debater"),
+      the truth-optimal profile is an equilibrium wherever the truth weight is positive. More runs of
+      the two-person, three-proposition model cannot settle it, and neither can observational data on
+      debates, which cannot measure revision costs.
+  THEORY-293:
+  - text: trained language models' fact-learning thresholds are the optimal capacity-bounded learner's
+    kind: 1
+    who_asserts: LIT-984
+    existing_carrier: null
+    suggested_title: Language models trained on a mixture of random facts and other data learn the facts
+      only above a model size set by the mixing ratio, at the threshold an optimal capacity-bounded learner
+      has, as the knowledge-capacity study proposes
+    suggested_promote_when: 'A test of the link from the optimal learner to trained networks, on the quantity
+      the theory predicts: the threshold model size or mixing ratio, predicted in advance from the measured
+      loss-versus-size curve of the second domain and the facts'' total entropy Htot, matched by networks
+      trained to convergence over several seeds and several values of r, with recall rising over a width
+      of about Htot past the threshold. It is refuted if the measured thresholds depart systematically
+      from (1/(r·p))^(1/(α+1)), or if networks below the threshold do learn the facts given enough further
+      training, which would make the wall a matter of dynamics and not of allocation. More sigmoid-shaped
+      curves in r or in size are the wrong kind of evidence: they show a threshold, not that capacity
+      allocation sets it.'
+  THEORY-294:
+  - text: lazy-regime training of wide networks does not produce neural collapse, in general
+    kind: 1
+    who_asserts: LIT-985
+    existing_carrier: null
+    suggested_title: 'Training a wide network in the lazy, kernel regime does not collapse its features:
+      within-class variability stays near its value at initialization, so neural collapse needs feature
+      learning, as the NTK study proposes'
+    suggested_promote_when: A result beyond the one-dimensional case where the NTK and the NNGP differ
+      by more than a within-class rescaling. That could be a derivation for multi-dimensional or multi-class
+      data, or a measurement of NC1, with a stated metric, on networks trained in a verified lazy regime
+      (the tangent kernel measured to stay fixed) on real data. The measurement should show NC1 staying
+      at its initial value while the same architecture, trained out of the lazy regime, collapses. The
+      account is refuted by a lazy-regime network, kernel verified static, whose hidden features' NC1
+      falls substantially below its value at initialization. More Gaussian-mixture simulations of NNGP
+      against NTK cannot settle it, and neither can finite networks whose regime is not checked.
+  THEORY-295:
+  - text: reproducibility does not track convergence to truth in scientific communities updating by model
+      comparison, in general
+    kind: 1
+    who_asserts: LIT-988 (Devezer et al.)
+    existing_carrier: null
+    suggested_title: In a scientific community that updates a consensus model by sound pairwise comparisons,
+      reproducibility of results need not track convergence to the true model, as Devezer and coauthors
+      propose
+    suggested_promote_when: A model in which the consensus has memory (a challenger must win repeatedly,
+      or evidence accumulates) and in which scientists can learn. It must still find that a population
+      whose proposals never put the true model against the consensus holds a false consensus with high
+      reproducibility, while a population that keeps the model space connected does not. Alternatively,
+      a meta-scientific study of a real field whose replications succeed at a high rate while independent
+      evidence shows its standing model to be wrong, traced to which alternatives were tested. Further
+      runs of the memoryless 14-model framework cannot settle it. Its result is already proven there.
+  THEORY-297:
+  - text: truncation stability
+    kind: 4
+    existing_carrier: null
+  THEORY-299:
+  - text: '"scored by its Laplacian" for unsquared norms'
+    kind: 3
+    existing_carrier: null
+  - text: bilinear scores as sheaf coboundaries
+    kind: 4
+    existing_carrier: null
+  THEORY-301: []
+  THEORY-305: []
+  THEORY-306:
+  - text: volume-maximizing joint-embedding objectives as a class carry a prior toward equal-sized clusters,
+      which costs them on class-imbalanced data
+    kind: 1
+    who_asserts: LIT-231 (Assran et al.)
+    existing_carrier: null
+    suggested_title: Volume-maximizing joint-embedding objectives such as MSN, SwAV, VICReg and SimCLR
+      carry a prior toward equal-sized clusters, which costs them semantic transfer when pretraining data
+      are class-imbalanced, as Assran and coauthors propose
+    suggested_promote_when: 'Two kinds of result, one for each half. For the prior: a derivation of the
+      cluster-size preference for the losses as used (VICReg with its hinge variance term, SimCLR at finite
+      temperature), or a measurement of the cluster-size distribution that trained VICReg and SimCLR models
+      induce on data with known unequal classes. For the effect: the imbalance experiment repeated with
+      batches sampled uniformly from a naturally long-tailed dataset, at one architecture across methods,
+      with seeds. The account is refuted for a method if its learned partitions track unequal class sizes
+      as well as an instance-based method''s do. What cannot settle it: more results with two-class batches,
+      or gains from a prior matched with labels.'
+  THEORY-308: []
+  THEORY-309: []
+  THEORY-312: []
+  THEORY-313:
+  - text: the O(σ²) rate extends to every translation-invariant kernel and to compact groups
+    kind: 1
+    who_asserts: LIT-255 (Bach, with a leverage-score sketch)
+    existing_carrier: null
+    suggested_title: The kernel quantum relative entropy approaches the Kullback–Leibler divergence at
+      rate O(σ²) for every translation-invariant kernel and on compact groups, as Bach asserts
+    suggested_promote_when: 'A line-by-line check of the proof of Proposition 5 (appendix B), which this
+      reading followed only in outline, and a second source: either an independent derivation of D(p̃‖q̃)
+      ≤ D(Σ_p‖Σ_q) ≤ D(p‖q), or a later paper that uses it and confirms the O(σ²) gap beyond the torus.
+      The inequalities themselves follow from joint convexity and monotonicity of quantum relative entropy
+      and are not in doubt. It is refuted by a unit-diagonal kernel and a pair p, q with D(Σ_p‖Σ_q) >
+      D(p‖q), or with equality at a non-orthonormal embedding. What cannot settle it: numerical agreement
+      of kernel and Shannon estimates on examples, which the inequalities permit at any bandwidth.'
+  THEORY-314: []
+  THEORY-315: []
+  THEORY-318:
+  - text: a holdout can validate many adaptively chosen statistics via differential privacy (Thresholdout)
+    kind: 1
+    who_asserts: LIT-964 (Dwork et al., Theorem 11, proofs in companion papers)
+    existing_carrier: null
+    suggested_title: A holdout set reused through a differentially private mechanism such as Thresholdout
+      can validate a number of adaptively chosen statistics exponential in its size, as Dwork and coauthors
+      prove in their companion papers
+    suggested_promote_when: 'A reading of the proofs of Theorems 6, 8 and 11 and Lemma 10, which the Supplementary
+      Material defers to Dwork et al.''s companion papers (arXiv:1411.2664, arXiv:1506.02629), confirming
+      the bounds as stated there, together with a reading of the Science main text. It is refuted by an
+      ε-differentially private mechanism and an adaptive analyst for which the chosen statistic''s empirical
+      mean exceeds its true mean by τ with probability above the stated bound. What cannot settle it:
+      simulations in which a reused holdout does or does not overfit, since the claim is a worst-case
+      bound over all analysts and the simulated implementation is not the analysed algorithm.'
+  THEORY-319:
+  - text: the rate for a learned ratio without a uniform bound
+    kind: 4
+    existing_carrier: null
+  THEORY-321:
+  - text: non-strongly-connected societies
+    kind: 3
+    existing_carrier: null
+  - text: real groups
+    kind: 4
+    existing_carrier: null
+  THEORY-324:
+  - text: trigger on crossing; the wider "any system that keeps its variables within limits" is false
+    kind: 3
+    existing_carrier: null
+  THEORY-332:
+  - text: an upper bound on the tuner's ratio
+    kind: 4
+    existing_carrier: null
+  THEORY-334:
+  - text: '"keep only the property the current step needs", generalised from one colour-change result'
+    kind: 1
+    who_asserts: LIT-1075 (Ballard, Hayhoe and Pelz)
+    existing_carrier: null
+    suggested_title: In visually guided tasks people hold in memory only the property the current step
+      needs and re-fetch the rest from the scene, as Ballard, Hayhoe and Pelz propose
+    suggested_promote_when: A block-copying or similar study with enough participants for inferential
+      statistics, in which the cost of looking and the cost of holding items are varied independently
+      and the time each strategy actually takes, encoding included, is measured per person. It promotes
+      the account if people still prefer re-fetching where it costs more total time, so that memory carries
+      a cost beyond time; it refutes that reading if their choices follow total time, as THEORY-346's
+      model does. More fixation counts in the original design cannot settle it, because the timings in
+      that design do not separate encoding spread over a trial from the cost of each look.
+  - text: holding information in memory costs more than re-fetching it, inferred from the choices
+    kind: 1
+    who_asserts: LIT-1075 (Ballard, Hayhoe and Pelz)
+    existing_carrier: null
+    suggested_title: In tasks where the needed information stays in view, holding it in working memory
+      costs more than re-fetching it with a look, so people choose to re-fetch, as Ballard, Hayhoe and
+      Pelz infer from block copying (set against an Active rival account pricing both in time alone)
+    suggested_promote_when: A block-copying or similar study with enough participants for inferential
+      statistics, in which the cost of looking and the cost of holding items are varied independently
+      and the time each strategy actually takes, encoding included, is measured per person. It promotes
+      the account if people still prefer re-fetching where it costs more total time, so that memory carries
+      a cost beyond time; it refutes that reading if their choices follow total time, as THEORY-346's
+      model does. More fixation counts in the original design cannot settle it, because the timings in
+      that design do not separate encoding spread over a trial from the cost of each look.
+  THEORY-362:
+  - text: counting maintenance is almost as efficient as evaluating the view (argued)
+    kind: 1
+    who_asserts: LIT-1114 (Gupta, Mumick and Subrahmanian)
+    existing_carrier: null
+    suggested_title: Maintaining a nonrecursive view by derivation counts costs about as much as evaluating
+      the view's delta rules, as Gupta, Mumick and Subrahmanian argue
+    suggested_promote_when: A measurement or cost analysis of counting maintenance against re-evaluation
+  THEORY-365:
+  - text: the layered hierarchy is what makes HNSW's greedy search logarithmic, where single-layer navigable
+      graphs grow polylogarithmically
+    kind: 1
+    who_asserts: LIT-1098 (Malkov and Yashunin)
+    existing_carrier: null
+    suggested_title: Layering proximity graphs on nested random subsets, as HNSW does, makes greedy nearest-neighbour
+      search cost grow logarithmically with the number of items, where single-layer navigable graphs grow
+      polylogarithmically, as Malkov and Yashunin propose
+    suggested_promote_when: A proof that greedy layered search on the graph HNSW actually builds, with
+      a fixed number of pruned links per element and not an exact Delaunay graph, takes expected O(log
+      N) distance computations to reach a stated recall, under a stated condition on the data, such as
+      bounded intrinsic or doubling dimension. It is refuted for that class by a family of datasets meeting
+      the condition on which the cost needed for a fixed recall grows faster than log N. More benchmarks
+      at fixed dimension cannot settle it. They re-establish low-dimensional measurements that are already
+      held, and they cannot reach the sizes at which the paper says the high-dimensional case could be
+      checked.
+  THEORY-367:
+  - text: why-provenance is preserved by query rewriting, and where-provenance for traceable queries (the
+      rewrite rules are not given)
+    kind: 1
+    who_asserts: LIT-1104 (Buneman, Khanna and Tan, Lemma 1, Proposition 2)
+    existing_carrier: null
+    suggested_title: Why-provenance is preserved under Buneman, Khanna and Tan's query rewriting, and
+      where-provenance is preserved for traceable queries, as Buneman, Khanna and Tan state
+    suggested_promote_when: A reading of the rewrite system with its rules, or a re-derivation
+  - text: '"only for traceable queries": the converse is not claimed'
+    kind: 3
+    existing_carrier: null
+  THEORY-368:
+  - text: the seven other indexes; "authors' code"
+    kind: 3
+    existing_carrier: null
+  - text: independent replication
+    kind: 4
+    existing_carrier: null
+  THEORY-369:
+  - text: the finite-d estimates are estimates
+    kind: 3
+    existing_carrier: null
+  THEORY-377:
+  - text: the adaptive-precision rule converges to the best interval width (argued from the balance condition)
+    kind: 1
+    who_asserts: LIT-1109 (Olston, Loo and Widom)
+    existing_carrier: null
+    suggested_title: Olston, Loo and Widom's adaptive-precision rule converges to the cost-optimal interval
+      width, as they argue from its balance condition
+    suggested_promote_when: A convergence proof or a competitive bound
+  THEORY-380: []
+  THEORY-382:
+  - text: '"held freshness near the threshold" read off curves'
+    kind: 3
+    existing_carrier: null
+  THEORY-387:
+  - text: delete-and-rederive extends to stratified negation and aggregation (asserted; proof in an unpublished
+      report)
+    kind: 1
+    who_asserts: LIT-1114 (Gupta, Mumick and Subrahmanian)
+    existing_carrier: null
+    suggested_title: Delete-and-rederive maintenance of recursive Datalog views extends to stratified
+      negation and aggregation, as Gupta, Mumick and Subrahmanian assert
+    suggested_promote_when: A proof, read by the record, of Theorem 7.1 under the stated conditions, in
+      the 1992 AT&T report or a later published correctness proof of delete-and-rederive for recursive
+      Datalog. Examples or benchmarks do not settle a correctness claim; a measurement of the overestimate's
+      size would settle only the separate cost question.
+  THEORY-391:
+  - text: ℓ₁ phase transitions are universal across random-matrix ensembles as N → ∞
+    kind: 1
+    who_asserts: LIT-1160 (Donoho and Tanner)
+    existing_carrier: null
+    suggested_title: 'The ℓ₁ phase transition for sparse recovery is universal: as dimension grows, random-matrix
+      ensembles well beyond the Gaussian share the Gaussian transition curve, as Donoho and Tanner propose
+      from their simulations'
+    suggested_promote_when: A proof that, for some non-Gaussian ensemble in the paper's class, such as
+      random signs, the ℓ₁ recovery transition converges to the Gaussian ρ(δ; C) as N → ∞; or simulations
+      at problem sizes an order of magnitude beyond N = 1600 in which the gap to the Gaussian curve keeps
+      shrinking as N^(−1/2) for an ensemble not used to choose that exponent. More simulations at the
+      same sizes do not settle it.
+  THEORY-419:
+  - text: whether the book defines intervention otherwise elsewhere
+    kind: 4
+    existing_carrier: null
+  THEORY-472:
+  - text: word learners reason about an informative speaker when they infer meanings (the inversion as
+      the mechanism)
+    kind: 1
+    who_asserts: LIT-824
+    existing_carrier: null
+    suggested_title: Word learners infer a novel word's meaning by reasoning about an informative speaker
+      who chose it, so the size principle is a consequence of pragmatic inference, as the informative-speaker
+      account proposes
+    suggested_promote_when: A word-learning experiment whose displays make an informative-speaker learner
+      and a plain size-principle learner predict different bets, for example vague intended meanings,
+      non-uniform literal meanings, or a speaker the learner knows to be uninformative, with both models
+      and a frequency baseline fitted on part of the data and tested on the rest. It is promoted if the
+      informative-speaker model wins on held-out displays. It is refuted if the plain size-principle learner
+      does as well where they differ. Further correlations of condition means with a parameter-free model,
+      in displays where the two coincide, cannot settle it.
+  THEORY-478:
+  - text: a metric tree's heat kernel satisfies the Hölder and lower bounds, so the construction applies
+      to trees (cited lemmas)
+    kind: 1
+    who_asserts: LIT-870 (Lemmas C.4–C.6, cited)
+    existing_carrier: null
+    suggested_title: The heat kernel of a metric tree satisfies Hölder-type upper and lower bounds on
+      Hellinger distance between diffusion densities, so hyperbolic diffusion distances recover a thresholded
+      snowflake of the tree metric, as the source's cited kernel bounds give
+    suggested_promote_when: A complete proof that the heat kernel on a metric tree meets the Gaussian
+      upper, lower and Hölder bounds the theorem uses, with the Hölder step of Proposition C.5 repaired
+      for close points, and a stated condition under which the diffusion operator of sampled data approximates
+      a tree's heat kernel. The equivalence to a thresholded snowflake would then be a theorem on its
+      stated range of α, and the bridge from data to it an assumption with content. Better benchmark scores,
+      or more datasets where the method has the best mean average precision, cannot settle it; neither
+      can the experiments at α = 1/2, which lie outside the theorem's range.
+  - text: whether sampled data approximate a tree's heat kernel
+    kind: 4
+    existing_carrier: null
+  THEORY-527:
+  - text: verdicts that a thermostat is not an agent while it with its design process is, and an RL training
+      process is while its learnt policy generally is not
+    kind: 1
+    who_asserts: LIT-909 (Kenton et al., §1, §4)
+    existing_carrier: null
+    suggested_title: On the definition of agents as systems that would adapt their policy were their actions
+      to affect the world differently, a thermostat is not an agent but it together with its design process
+      is, and an RL training process is while its learnt policy generally is not, as Kenton and coauthors
+      argue
+    suggested_promote_when: 'The interventional procedure run on real systems, not described: with mechanism
+      interventions actually performed on a thermostat with and without its design process, an RL policy
+      with and without its training loop, and a human, the verdicts coming out as the account says, and
+      the procedure separating an accidentally optimal input-output system from an agent where a compression
+      test does not. It is refuted if natural choices of variables give opposite verdicts on the same
+      system with no principled way to choose (the frame problem THEORY-249 presses), or if the five recovery
+      assumptions fail for the systems that matter. The recovery theorem itself, which holds, cannot settle
+      whether the definition picks out agency.'
+  THEORY-548:
+  - text: '"globally stable"; supercritical in general'
+    kind: 3
+    existing_carrier: null
+  - text: weak self-regulation; the divergent phase
+    kind: 4
+    existing_carrier: null
+  THEORY-566: []
+  THEORY-580: []
+  THEORY-585:
+  - text: '"only on contexts of the form V₁⊗ℂ1": false'
+    kind: 3
+    existing_carrier: null
+  THEORY-714:
+  - text: I_ccs is a correct measure of redundancy, and its negative atoms read as local misinformation
+      and mechanistic redundancy
+    kind: 1
+    who_asserts: LIT-1201 (Ince)
+    existing_carrier: null
+    suggested_title: Ince's common-change-in-surprisal measure is a correct measure of redundancy among
+      sources, and its negative partial-information atoms are local misinformation and mechanistic redundancy,
+      as Ince proposes
+    suggested_promote_when: A proof that I_ccs is continuous, together with a system whose redundancy
+      is fixed independently of any measure's construction (by a mechanism both sides of the operational
+      dispute accept, such as a shared bit copied to every source) on which I_ccs agrees and a rival with
+      non-negative atoms does not; or an argument that settles whether unique information may depend on
+      the source–source marginal, which decides between I_ccs and Bertschinger et al. More examples judged
+      by intuition do not settle it, nor does agreement on systems where every measure agrees.
+  THEORY-744:
+  - text: manifolds with boundary at the stated L² rate, and the semigroup limit (the source's Proposition
+      11 is flawed as written)
+    kind: 3
+    existing_carrier: null
+meta:
+  THEORY-008:
+    disposition: narrow-and-promote
+    old_title: What a regularized linear readout can decode from a representation is a function of its
+      normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+    new_title: On a finite set of stimuli, what a regularized linear readout can decode from a representation
+      is a function of its normalized kernel, and CKA, CCA and GULP are averages of readout agreement
+    source:
+    - LIT-257
+    - LIT-254
+  THEORY-009:
+    disposition: narrow-and-promote
+    old_title: Spectral self-supervised learning gets its self-adjointness from the symmetry of the positive-pair
+      distribution, not from the Riesz representation theorem
+    new_title: In the positive-pair spectral self-supervised papers, self-adjointness comes from the symmetry
+      of the positive-pair distribution, not from the Riesz representation theorem; elsewhere in the family
+      it comes from a symmetrized loss, a precondition on the kernel, or composing the conditional-expectation
+      operator with its adjoint
+    source:
+    - LIT-258
+    - LIT-249
+    - LIT-252
+    - LIT-242
+    - LIT-228
+    - LIT-230
+  THEORY-014:
+    disposition: promote
+    old_title: In both formalisms of contextuality, classicality is the existence of a nonnegative version
+      of a linear representation that always exists over the reals, so negativity is universal and only
+      its unavoidability is nonclassical
+    new_title: (unchanged)
+    source:
+    - LIT-016
+    - LIT-003
+  THEORY-021:
+    disposition: narrow-and-promote
+    old_title: 'In the efficiently packed geometries of uniform superposition the features form a rank-one
+      POVM compressed from the n-feature basis: their dimensionality-weighted projectors sum to the identity'
+    new_title: 'In the exact configurations of uniform superposition (regular polygons, the tetrahedron,
+      antipodal pairs, and tegum products of these that span the hidden space, with equal norms within
+      each factor) the features form a rank-one POVM compressed from the n-feature basis: their dimensionality-weighted
+      projectors sum to the identity'
+    source:
+    - LIT-323
+  THEORY-026:
+    disposition: narrow-and-promote
+    old_title: For a system driven without feedback, the work dissipated equals the memory that fails
+      to predict the drive, so only nonpredictive memory is wasteful; once actions feed back, prediction
+      is no longer what efficiency requires
+    new_title: For a system driven without feedback through fixed kernels, the average work dissipated
+      at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative
+      when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel
+      keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback,
+      in one binary channel no predictive agent is efficient
+    source:
+    - LIT-327
+    - LIT-041
+  THEORY-030:
+    disposition: narrow-and-promote
+    old_title: Landauer's principle prices only logically irreversible steps, and prices them in exported
+      entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum
+      thermodynamic cost
+    new_title: For a memory evolving reversibly with its environment, Landauer's bound prices only steps
+      that lose logical distinguishability, at least k ln 2 of entropy per bit lost, exported to the environment
+      and not necessarily as heat, so copying onto a blank register, measuring or evaluating a bit has
+      no minimum cost; learning a label has a floor only in total entropy production, at least the information
+      learnt, which in Goldt and Seifert's perceptron can be paid in the weights' own entropy with vanishing
+      heat
+    source:
+    - LIT-360
+    - LIT-308
+    - LIT-327
+  THEORY-037:
+    disposition: promote
+    old_title: In the topos programme quantum propositions form a distributive Heyting algebra, not an
+      orthocomplemented lattice, and its negation is a pseudo-complement under which excluded middle can
+      fail
+    new_title: (unchanged)
+    source:
+    - LIT-335
+    - LIT-343
+    - LIT-325
+  THEORY-073:
+    disposition: narrow-and-promote
+    old_title: 'A Markov blanket does not individuate a system: where it falls is fixed by modelling choices
+      made before it is found, so it presupposes the boundary it is used to find, and it cannot represent
+      a boundary the system produces'
+    new_title: (unchanged)
+    source:
+    - LIT-603
+    - LIT-598
+    - LIT-526
+  THEORY-083:
+    disposition: narrow-and-promote
+    old_title: Training a classifier past zero training error collapses its last-layer features onto their
+      class means and drives the centred means toward a simplex equiangular tight frame, with the classifier
+      aligned to them and the decision becoming nearest class mean
+    new_title: In Papyan, Han and Donoho's runs of VGG, ResNet and DenseNet trained with cross-entropy
+      on seven balanced datasets without augmentation, training past zero error shrinks last-layer within-class
+      variability against between-class variability, and moves the centred class means and the classifier
+      toward a common simplex equiangular tight frame and the decision toward nearest class mean, nearly
+      to completion on the four easier datasets and only partly on ImageNet
+    source:
+    - LIT-618
+    - LIT-613
+  THEORY-117:
+    disposition: narrow-and-promote
+    old_title: 'Compositional generalization comes from diversity of combinations, not data volume: in
+      vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of
+      combinations seen grows and not as data of the same combinations grows, and with linearly factored
+      features two seen combinations per value, suitably arranged, determine every unseen one'
+    new_title: In Uselis, Dittadi and Oh's two-concept grids, ResNet-50s trained from scratch, with checkpoints
+      chosen on the unseen pairs, reach unseen combinations as the share of combinations seen grows and
+      not as up to four times more data of the same combinations is added; and when embeddings are exactly
+      linearly factored, seen pairs that connect every value of both concepts, as two per value arranged
+      in one cycle do, determine the embedding of every unseen pair
+    source:
+    - LIT-667
+  THEORY-127:
+    disposition: narrow-and-promote
+    old_title: A group whose judgments on interconnected propositions are robustly rational cannot form
+      its judgment on each proposition from its members' judgments on that proposition alone; its judgments
+      must supervene on the members' whole sets of judgments, and so can depart from what the members
+      judge on the same proposition while being wholly fixed by them
+    new_title: On the court agenda, and on any agenda in which every proposition reaches every other by
+      conditional entailment and some minimally inconsistent triple stays consistent with two of its members
+      negated, a group whose judgments are robustly rational under universal domain and respect unanimity
+      cannot form its judgment on each proposition from its members' judgments on that proposition alone
+      unless one member dictates; its judgments must supervene on the members' whole sets of judgments,
+      and so can depart from what the members judge on the same proposition while being wholly fixed by
+      them
+    source:
+    - LIT-705
+    - LIT-700
+  THEORY-133:
+    disposition: narrow-and-promote
+    old_title: A higher-level property is a cause in its own right, and its realizer is not, exactly when
+      the effect would still follow had the property been realized differently; whether that holds is
+      a fact about each causal system, not an a priori truth about levels
+    new_title: In List and Menzies's account of causes as difference-makers, a higher-level property that
+      makes a difference to an effect is its cause, and its realizer is not, exactly when in some nearest
+      situation without that realizer the property is realized differently and the effect still occurs;
+      which holds depends on each causal system's counterfactual structure, not on levels a priori
+    source:
+    - LIT-722
+  THEORY-155:
+    disposition: narrow-and-promote
+    old_title: Iterated learning by Bayesian agents who sample from the posterior converges to the shared
+      prior
+    new_title: Iterated learning by Bayesian agents who sample from the posterior converges, in an ergodic
+      chain, to the shared prior
+    source:
+    - LIT-769
+    - LIT-771
+  THEORY-158:
+    disposition: narrow-and-promote
+    old_title: In a Markov process, an observable commutes with the generator exactly when its mean and
+      variance are both conserved in every state; on a finite state space this means it is constant on
+      each connected component of the transition graph, so a conserved mean alone does not give a symmetry
+    new_title: For a Markov process on a finite state space, an observable commutes with the generator
+      exactly when its mean and variance are both conserved in every state, which is exactly when it is
+      constant on each connected component of the transition graph, so a conserved mean alone does not
+      give a symmetry
+    source:
+    - LIT-773
+  THEORY-160:
+    disposition: narrow-and-promote
+    old_title: In the algebraic Hamiltonian setting, symmetry and conservation correspond because the
+      bracket is antisymmetric, which for a bilinear bracket is each observable conserving itself; the
+      theorem's content lies in identifying observables with generators
+    new_title: (unchanged)
+    source:
+    - LIT-819
+  THEORY-161:
+    disposition: narrow-and-promote
+    old_title: In the semantic rate–distortion frameworks of 2021–2025, meaning is a latent variable with
+      a known joint law with the observation, so their limits are indirect source-coding limits; a posterior-matching
+      semantic distortion is, with KL divergence, exactly the information bottleneck, and with total variation
+      a uniform bound on lost decision value
+    new_title: In Zhao et al.'s (2025) and Chai et al.'s (2023) semantic rate–distortion frameworks, meaning
+      is a latent variable with a known joint law with the observation, so their limits are indirect source-coding
+      limits; Zhao et al.'s posterior-matching semantic distortion is, with KL divergence, exactly the
+      information bottleneck, and with total variation a bound on the expected lost value of every bounded-loss
+      decision
+    source:
+    - LIT-793
+    - LIT-812
+    - LIT-823
+    - LIT-338
+  THEORY-163:
+    disposition: narrow-and-promote
+    old_title: The colour-naming systems of the world's languages lie near the information-bottleneck
+      bound for compressing perceptual meanings into words, and one trade-off parameter places them along
+      it
+    new_title: In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World
+      Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual
+      meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants
+      of themselves, with the need distribution over meanings estimated from the naming data
+    source:
+    - LIT-810
+    - LIT-338
+  THEORY-166:
+    disposition: narrow-and-promote
+    old_title: Survey question-order effects leave the probability of giving the same answer to both questions
+      unchanged, as a projection model predicts, and this regularity does not by itself favour quantum
+      over classical probability
+    new_title: In the 66 Pew surveys of 2001–2011 that varied the order of two back-to-back binary questions,
+      question order changed the answers but not the probability of giving the same answer to both, the
+      equality a Lüders projection model predicts for any projectors; a classical model with order events
+      can meet the same equality, so the regularity does not by itself favour quantum over classical probability
+    source:
+    - LIT-795
+    - LIT-834
+    - LIT-264
+  THEORY-169:
+    disposition: narrow-and-promote
+    old_title: 'In attention layers, conditioning on a context is exactly training a learner on it and
+      predicting: linear attention is one batch gradient step of a linear inner model, and softmax attention
+      is kernel regression that stores the context, so conditioning and per-sequence weight updates differ
+      in what state is kept, not in kind'
+    new_title: 'For unnormalized causal linear attention and for softmax attention, conditioning on a
+      context is exactly training a learner on it and predicting: the first is one batch gradient step
+      of a linear inner model from zero, the second kernel regression that stores the context, and one
+      linear self-attention layer with constructed weights carries one gradient step of in-context linear
+      regression; for these layers conditioning and per-sequence weight updates differ in what state is
+      kept, not in kind'
+    source:
+    - LIT-801
+    - LIT-792
+  THEORY-171:
+    disposition: narrow-and-promote
+    old_title: When the causal constraints on events depend on context, deterministic assignments that
+      are causal in each context can fail to glue into one causal assignment, so causal structure is itself
+      a source of contextuality
+    new_title: (unchanged)
+    source:
+    - LIT-808
+    - LIT-800
+    - LIT-843
+  THEORY-172:
+    disposition: narrow-and-promote
+    old_title: Listeners in simple reference games interpret an utterance by inverting a model of a speaker
+      who chooses among alternatives by informativeness, so the interpretation of a fixed form depends
+      on what else the speaker could have said
+    new_title: In Frank and Goodman's one-shot reference games, listeners' mean bets matched a parameter-free
+      listener inverting a speaker who chooses among true utterances by informativeness, with a separately
+      measured salience prior, and not salience alone; and in Bergen, Goodman and Levy's signalling games
+      with novel symbols, listeners read a signal as excluding what the available alternative would have
+      conveyed
+    source:
+    - LIT-821
+    - LIT-809
+    - LIT-816
+  THEORY-175:
+    disposition: narrow-and-promote
+    old_title: 'Cosine similarities to matched anchor points are invariant exactly to the maps that preserve
+      cosines, and independently trained encoders agree in them only approximately: enough for a decoder
+      reading them to transfer untrained between seeds, architectures and languages with loss, while their
+      nearest neighbours mostly differ'
+    new_title: Cosine similarities to matched anchor points are unchanged by exactly the maps that preserve
+      each sample's cosines to the anchors, among them every orthogonal map times a positive scalar and
+      every per-sample positive rescaling but not translations; in Moschella et al.'s experiments independently
+      trained encoders agreed in them only approximately, enough for a decoder reading them to transfer
+      untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly
+      differed
+    source:
+    - LIT-849
+  THEORY-176:
+    disposition: promote
+    old_title: 'A task-loss stitching penalty compares representations in one decision problem, through
+      a fixed top network and a restricted map class, so it is not Blackwell''s order: representations
+      that are functions of each other can stitch differently, and a negative penalty shows the fitted
+      map did not reproduce the layers it replaced'
+    new_title: (unchanged)
+    source:
+    - LIT-850
+    - LIT-781
+    - LIT-363
+  THEORY-177:
+    disposition: narrow-and-promote
+    old_title: In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice
+      the least total direct influence of context that any canonical causal model of the data must contain,
+      and each content's share is the total-variation distance between its marginals
+    new_title: In a binary cyclic system, the Contextuality-by-Default measure of signalling is twice
+      the sum, over contents, of the least direct influence of context that a canonical causal model of
+      the data must place on each content, and each content's least influence is the total-variation distance
+      between its two marginals
+    source:
+    - LIT-851
+  THEORY-178:
+    disposition: narrow-and-promote
+    old_title: 'Transcriptional regulation alone can make a bacterium''s gene-expression state depend
+      on its history: a transient change to one regulator can leave its regulatory network in a different
+      self-maintaining state, but only through a gene that reaches a positive circuit'
+    new_title: In an ensemble of sign-consistent Boolean rules on the 87-gene core of E. coli's regulatory
+      network, a transient knockout or overexpression of one gene can leave the network in a different
+      attractor after release, and every gene that does so reaches a strongly connected component containing
+      a positive circuit
+    source:
+    - LIT-854
+  THEORY-181:
+    disposition: narrow-and-promote
+    old_title: In a model that decodes the sum of two learned embeddings, a training set fixes the generalising
+      representation of addition when its same-answer pairs leave only translation and scale free, and
+      the critical training fraction is where that becomes likely
+    new_title: In a model that decodes the sum of two learned embeddings, at zero training loss with an
+      injective decoder, a training set fixes the generalising representation of addition when its same-answer
+      pairs leave only translation and scale free; for non-modular addition with p = 10 and one-dimensional
+      embeddings, generalisation sets in near the training fraction, about 0.4, at which that becomes
+      likely
+    source:
+    - LIT-858
+    - LIT-341
+  THEORY-184:
+    disposition: promote
+    old_title: Under a permutation-equivariant update whose map is K-Lipschitz, coincident neurons stay
+      coincident at every step size, and at step size below 1/K distinct neurons cannot merge in finitely
+      many steps
+    new_title: (unchanged)
+    source:
+    - LIT-861
+  THEORY-185:
+    disposition: narrow-and-promote
+    old_title: When each binary attribute of a word affects its co-occurrence independently and multiplicatively,
+      the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear
+      image of the attribute hypercube and parallelogram analogies hold exactly; the raw co-occurrence
+      ratio mixes in products of attributes and keeps them only when the signals are weak and alike
+    new_title: When each binary attribute of a word affects its co-occurrence independently and multiplicatively,
+      the PMI is affine in the attributes with rank at most d + 1, so a spectral PMI embedding is a linear
+      image of the attribute hypercube and parallelogram analogies hold exactly; over the full hypercube
+      of words, each attribute's two values equally frequent, the raw co-occurrence ratio mixes in products
+      of attributes, and keeps exact analogies only when the strengths are alike enough that every attribute
+      mode outranks every product mode
+    source:
+    - LIT-863
+    - LIT-860
+  THEORY-187:
+    disposition: narrow-and-promote
+    old_title: 'In a deep linear network trained by gradient descent, depth slows learning through the
+      initial end-to-end strength of each mode: from strength of order one the number of iterations stays
+      bounded as depth grows, once the step size falls with depth as stability requires, while from small
+      strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε at great depth'
+    new_title: 'In a deep linear network trained by gradient descent on whitened inputs from decoupled,
+      balanced initial weights, depth slows learning through the initial end-to-end strength of each mode:
+      counting iterations as learning time over the stable step size, from strength of order one the number
+      of iterations stays bounded as depth grows, once the step size falls with depth as stability requires,
+      while from small strength ε the plateau lengthens from ln(1/ε) with one hidden layer towards 1/ε
+      at great depth'
+    source:
+    - LIT-864
+  THEORY-189:
+    disposition: promote
+    old_title: Nested angular cones in the Poincaré ball, symmetric about the outward ray with an aperture
+      depending only on the apex's radius, are transitive only if the aperture is at most π/2 and r sin
+      ψ(r)/(1 − r²) does not increase outward; so no such cone can be defined near the origin, the widest
+      admissible family is sin ψ = K(1 − r²)/r, and every point a cone contains lies farther from the
+      origin than its apex
+    new_title: (unchanged)
+    source:
+    - LIT-866
+  THEORY-190:
+    disposition: narrow-and-promote
+    old_title: 'The S¹ hidden-metric network model is approximately closed under geometric coarse-graining:
+      merging angular neighbours keeps its connection law with β fixed, and the average degree flows as
+      r^ν with ν set by the degree exponent and β'
+    new_title: Under geometric coarse-graining of the S¹ hidden-metric network model, which merges blocks
+      of r angular neighbours into supernodes linked if any of their members were, the supernodes' link
+      probability approaches the S¹ form with β kept, κ′ = (Σκ^β)^{1/β}, μ′ = μ/r and R′ = R/r, its ratio
+      to that form tending to 1 as their separation grows large against the block width and the coupling
+      μκ′κ″; between nearby supernodes it exceeds that form
+    source:
+    - LIT-869
+  THEORY-191:
+    disposition: narrow-and-promote
+    old_title: In natural odour sources, the rank order of correlations between compound concentrations
+      has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball,
+      not of a uniform Euclidean cube, and human odour-descriptor profiles have that of a full three-dimensional
+      hyperbolic ball
+    new_title: In four natural odour sources (strawberry, tomato, blueberry and mouse-urine volatiles),
+      the rank order of correlations between compound concentrations has the Betti-curve signature of
+      points near the boundary of a three-dimensional hyperbolic ball, not of any uniform Euclidean cube
+      tried, and human odour-descriptor profiles for 127 odorants have that of a full three-dimensional
+      hyperbolic ball
+    source:
+    - LIT-872
+  THEORY-192:
+    disposition: narrow-and-promote
+    old_title: Pairwise correlations among rat CA1 place cells have the Betti-curve signature of points
+      sampled uniformly from a three-dimensional hyperbolic ball, not of a low-dimensional Euclidean cube,
+      and the fitted radius grows with the logarithm of exploration time
+    new_title: In twelve sessions of rat dorsal CA1 from three data sets, pairwise correlations among
+      place cells have the Betti-curve signature of points sampled uniformly from a three-dimensional
+      hyperbolic ball, not of a low-dimensional Euclidean cube, and the fitted radius rose with the logarithm
+      of exploration time
+    source:
+    - LIT-876
+  THEORY-194:
+    disposition: narrow-and-promote
+    old_title: 'For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes
+      mutual information with the system beyond a buffer around the block is the renormalization-group
+      relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables
+      a compression keeps is set by what it must stay informative about'
+    new_title: On Monte Carlo samples of the 2D Ising model and of the 2D dimer model with added noise
+      spins, a block coarse-graining trained to maximize mutual information with the system beyond a buffer
+      recovered the variables renormalization already uses (Kadanoff block spins; the dimers' low-momentum
+      electric fields, with no weight on the noise), and iterated on 128 × 128 Ising samples gave the
+      flow away from the critical point, locating it to about 1% and giving ν ≈ 1.0 ± 0.15, while a restricted
+      Boltzmann machine trained by contrastive divergence on the noisy dimer data coupled to the noise
+      and to columnar patterns instead
+    source:
+    - LIT-873
+    - LIT-881
+    - LIT-878
+    - LIT-885
+    - LIT-889
+    pr_branch: claude/promote-theory-194
+    decision_on: claude/promotion-audit-batch-061
+  THEORY-195:
+    disposition: narrow-and-promote
+    old_title: On data generated by a random hierarchical grammar, deep networks that learn features need
+      a number of examples polynomial in the input dimension, about n_c m^L, which is where the class
+      statistics of input patches, equal for interchangeable patches, rise above sampling noise and where
+      hidden layers become invariant to swapping them; shallow and fixed-kernel learners need an exponential
+      number, and so do deep ones when those statistics are removed
+    new_title: On the Random Hierarchy Model, in the experiments reported (s = 2, L ≤ 4, small v), deep
+      CNNs matched to the tree and trained in a feature-learning regime reach a tenth of chance error
+      from about n_c m^L examples, polynomial in the input dimension, at the training-set size at which
+      their hidden layers become invariant to swapping synonymous tuples; two-layer networks and the same
+      CNNs as fixed kernels need a number proportional to the whole input space, exponential in the input
+      dimension, and deep CNNs stay near chance when every tuple is made equally likely in every class
+    source:
+    - LIT-877
+  THEORY-197:
+    disposition: promote
+    old_title: Mehta and Schwab's correspondence between Kadanoff's variational renormalization group
+      and restricted Boltzmann machines is an identity of parametrizations, under which an exact RG step
+      is a perfect fit of the data distribution; away from that point it does not make training by distribution
+      fitting a renormalization
+    new_title: (unchanged)
+    source:
+    - LIT-882
+    - LIT-873
+    - LIT-887
+    - LIT-891
+  THEORY-198:
+    disposition: narrow-and-promote
+    old_title: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual
+      information the block shares with the system beyond a buffer makes the coarse measure factorize
+      across the block, so the renormalized Hamiltonian gains no range and, in 1D, product disorder gains
+      no correlations across the block; the coarse-grainings actually optimized fall short of that condition,
+      and for them the link is shown only numerically, in 1D
+    new_title: For a finite-range lattice Hamiltonian, a block coarse-graining that keeps all the mutual
+      information the block shares with the system beyond a buffer makes the coarse measure factorize
+      across the block, in 1D and, in D dimensions, when capture by a hyperplane of blocks amounts to
+      capture by each block; barring exact cancellation of existing couplings, the renormalized Hamiltonian
+      then gains no range, and in 1D product disorder gains no correlations across the block. The coarse-grainings
+      actually optimized fall short of that condition, and for them the link is computed only for two-spin
+      blocks of 1D Ising chains
+    source:
+    - LIT-881
+  THEORY-202:
+    disposition: narrow-and-promote
+    old_title: 'In variational renormalization, neither a matched partition function nor Kadanoff''s exact
+      trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians
+      whose marginal is not the data, the second for hidden variables that do not interact with the system,
+      so the variables a renormalization keeps must be fixed by a stated target'
+    new_title: 'In variational renormalization over general Boltzmann machines, neither a matched partition
+      function nor Kadanoff''s exact trace condition makes a coarse-graining a renormalization: the first
+      holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that
+      do not interact with the system, so the variables a renormalization keeps must be fixed by a further
+      stated condition'
+    source:
+    - LIT-887
+    - LIT-882
+  THEORY-204:
+    disposition: narrow-and-promote
+    old_title: In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the
+      decay with lag of the strongest token–token covariance and γ the decay of next-token conditional
+      entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~
+      P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside
+      the horizon faster than the horizon grows
+    new_title: On TinyStories and WikiText-103, the data-limited exponent of transformer test loss, fitted
+      to the lower envelope of learning curves across context lengths at up to about 10^8 training tokens,
+      overlaps γ/(2β), where β is the decay with lag of the top singular value of the token–token covariance
+      and γ the decay of next-token conditional entropy with context length; under assumed per-lag scaling
+      forms, a horizon n*(P) ~ P^(1/(2β)) gives the exponent min(δ, γ/(2β)), δ being the decay rate of
+      the within-horizon excess losses
+    source:
+    - LIT-888
+    - LIT-883
+    pr_branch: claude/promote-theories-204-243
+    decision_on: claude/promotion-audit-batch-062
+  THEORY-205:
+    disposition: narrow-and-promote
+    old_title: 'For a short-range lattice model on a cylinder, with block and environment as slabs separated
+      by a buffer, the information-bottleneck encoder at its first transition depends on the block only
+      through the boundary weak value of the leading transfer-matrix eigenvector, at β_c = (λ0/λ1)^(2L_B):
+      at large circumference this is the lowest-dimension primary, so the first feature information-theoretic
+      relevance selects is the most RG-relevant operator; nothing is shown for blocks inside a buffer
+      shell or for the fixed-alphabet RSMI optimum'
+    new_title: For a short-range lattice model on a cylinder with a symmetric transfer matrix whose leading
+      excited eigenvalue is non-degenerate, with block and environment as slabs L_B transfer steps apart,
+      the uninformative information-bottleneck encoder first loses stability at β = (λ0/λ1)^(2L_B), in
+      the direction of the boundary weak value of the leading excited eigenvector, which by the cited
+      conformal finite-size relation is the lowest-dimension primary at large circumference; the uninformative
+      encoder can stop being optimal at a smaller β, and nothing is shown for blocks inside a buffer shell
+      or for the fixed-alphabet RSMI optimum
+    source:
+    - LIT-885
+  THEORY-206:
+    disposition: narrow-and-promote
+    old_title: 'For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons
+      to approximate the monomial x₁^r₁⋯xₙ^rₙ and a deep network O(Σ log rᵢ), so the cost of flattening
+      a polynomial grows exponentially with its degree in distinct variables and not with the number of
+      inputs: products of many inputs separate depths, bounded-degree polynomials do not'
+    new_title: 'For networks of smooth units without biases, one hidden layer needs exactly ∏(rᵢ+1) neurons
+      to match the monomial x₁^r₁⋯xₙ^rₙ''s Taylor polynomial at the origin, and a deep network O(Σ log
+      rᵢ), with the upper bounds holding for uniform approximation too, so the cost of flattening a polynomial
+      grows exponentially with its degree in distinct variables and not with the number of inputs: products
+      of many inputs separate depths, bounded-degree polynomials do not'
+    source:
+    - LIT-890
+    - LIT-887
+  THEORY-211:
+    disposition: narrow-and-promote
+    old_title: Along a rescaling symmetry, minibatch noise drives SGD to the point where the gradient
+      noise of the two parameter groups balances, at a rate set by learning rate over batch size, so at
+      stationarity SGD neither stays where gradient flow would leave it nor diffuses as isotropic noise
+      would, and differs from gradient descent by a finite amount however small the noise
+    new_title: In the stochastic-differential-equation model of SGD, with a gradient-noise covariance
+      that depends on the parameters, minibatch noise drives the difference of squared norms along a rescaling
+      symmetry, at a rate proportional to learning rate over batch size, to the point on the symmetry
+      orbit where the gradient-noise traces of the two parameter groups are equal, whenever both groups
+      carry noise; so at stationarity SGD neither keeps the difference fixed, as gradient flow does, nor
+      lets it diffuse, as isotropic noise does, and differs from gradient descent by a finite amount however
+      small the noise
+    source:
+    - LIT-1012
+    - LIT-1013
+  THEORY-213:
+    disposition: narrow-and-promote
+    old_title: Every mirror symmetry of a network's loss makes its symmetric subspace absorbing for gradient-based
+      training, and weight decay above a threshold or strong gradient noise makes that subspace favoured,
+      so rescaling symmetry yields sparsity, rotation symmetry low rank, and permutation symmetry merged,
+      identical neurons
+    new_title: Every mirror symmetry of a network's per-sample loss makes its symmetric subspace invariant
+      under gradient descent and SGD, and when the loss's Hessian is bounded below by −c, weight decay
+      γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1,
+      rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed
+      weights, reduced rank and identical neurons
+    source:
+    - LIT-1014
+  THEORY-216:
+    disposition: narrow-and-promote
+    old_title: On a contested shared canvas, lasting artworks are those whose coalitions keep working
+      under continual overwriting, participants consolidate into large coalitions as the event proceeds,
+      and which coalitions survive is barely predictable from their size, area, start time and colour
+      complexity until late
+    new_title: On the 2017 r/place log, with coalitions recovered from co-placement, which coalitions
+      survive is barely predictable early from their size, area, start time and colour entropy, the size
+      distribution of recovered coalitions shifts toward large ones as the event proceeds, and some lasting
+      artworks were held by coalitions that kept working under sustained overwriting
+    source:
+    - LIT-1032
+  THEORY-222:
+    disposition: narrow-and-promote
+    old_title: A coarse-grained macro description can carry more effective information than the micro
+      description it supervenes on, so the scale at which a system's causal structure is most effective
+      can be a macro scale
+    new_title: With uniform interventions imposed separately at each level, a coarse-grained macro description
+      of a known discrete mechanism can have more effective information than the micro description it
+      supervenes on, so the level at which effective information is highest can be a macro level
+    source:
+    - LIT-1038
+  THEORY-228:
+    disposition: narrow-and-promote
+    old_title: At the population optimum of the spectral contrastive loss, linear-probe error is bounded
+      by the probability that augmentation changes the label divided by the squared sparsest-partition
+      conductance of the augmentation graph
+    new_title: On a finite augmentation space, at the population optimum of the spectral contrastive loss
+      with k ≥ 2r, linear-probe error is bounded, up to constant and logarithmic factors, by the error
+      of recovering the label from an augmentation divided by the squared sparsest-partition conductance
+      of the augmentation graph
+    source:
+    - LIT-249
+  THEORY-229:
+    disposition: narrow-and-promote
+    old_title: For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from
+      small initialization learns the top eigenvectors of the pairs' symmetrized cross-correlation one
+      at a time, in order of eigenvalue, and ends at the minimum-norm zero-loss solution, kernel PCA
+    new_title: 'For a symmetrized Barlow Twins loss on a linear or fixed-kernel model, gradient flow from
+      a small initialization of common scale aligned with the top eigenvectors of the pairs'' symmetrized
+      cross-correlation learns them one at a time, in order of eigenvalue, and ends at a top spectral
+      solution, which is exactly a minimum-norm zero-loss solution: kernel PCA on K_Γ'
+    source:
+    - LIT-242
+  THEORY-230:
+    disposition: narrow-and-promote
+    old_title: The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is
+      a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures
+      it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector
+      structure goes beyond what the shared laws imply
+    new_title: The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is
+      a function of those laws alone, so models with identical laws share it, while activation geometry
+      changes under invertible reparameterizations of the hidden layer that leave outputs unchanged; in
+      Picozzi's ten transformer, state-space and recurrent models it agreed at a mean rank correlation
+      of 0.88 against 0.62 for activation geometry, and about 9% of the top eigenvector overlap exceeded
+      a null matched to the shared laws
+    source:
+    - LIT-936
+  THEORY-231:
+    disposition: promote
+    old_title: Within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations,
+      not realist representations as such; it rests on a stronger assumption than a Bell-like no-go and
+      so applies where none exists, as in prepare-measure scenarios, but only Leibnizianity implying noncontextuality
+      is proved
+    new_title: (unchanged)
+    source:
+    - LIT-945
+    - LIT-266
+  THEORY-233:
+    disposition: promote
+    old_title: CKA and normalized Bures similarity are the Euclidean and the Bures comparison of normalized
+      kernels, and each bounds the other only within a factor set by the kernels' ranks, so agreement
+      in one does not carry to the other with a dimension-free constant
+    new_title: (unchanged)
+    source:
+    - LIT-250
+  THEORY-234:
+    disposition: narrow-and-promote
+    old_title: Two softmax next-token predictors induce the same distribution exactly when their embeddings
+      and unembeddings are related by an invertible linear map on the subspaces that enter the logits,
+      with arbitrary distortion off them, so a linear relational property is shared by all such models
+      or none only when it lies in those subspaces
+    new_title: Two softmax next-token predictors induce the same distribution exactly when their embeddings
+      and unembeddings are related by an invertible linear map on the subspaces that enter the logits,
+      with arbitrary distortion off them, so a linear relational property is shared by all such models
+      or none when it lies in those subspaces, and can fail to be shared otherwise
+    source:
+    - LIT-950
+  THEORY-237:
+    disposition: narrow-and-promote
+    old_title: The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ,
+      MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and each is tight only
+      at a critic equal to the log density ratio up to a term its normalization leaves free
+    new_title: The critic-based variational lower bounds on mutual information, Donsker–Varadhan, NWJ,
+      MINE's and InfoNCE, are relaxations of one unnormalized Barber–Agakov bound, and, when the joint
+      and the product of the marginals are mutually absolutely continuous, each attains its supremum over
+      critics only at a critic equal to the log density ratio up to a term its normalization leaves free,
+      where every bound but InfoNCE equals the mutual information
+    source:
+    - LIT-246
+    - LIT-256
+  THEORY-238:
+    disposition: narrow-and-promote
+    old_title: The expected generalization error of an encoder–decoder learner is bounded by the encoder
+      alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving
+      permutations, for any decoder, and the bound stays finite for deterministic continuous encoders
+      under lossy compression
+    new_title: The expected generalization error of an encoder–decoder learner is bounded by the encoder
+      alone, through the KL divergence of its train-and-ghost latents to a prior symmetric under label-preserving
+      permutations, for any decoder; and under lossy compression the bound can stay finite for deterministic
+      continuous encoders, whose lossless bound is infinite
+    source:
+    - LIT-245
+  THEORY-239:
+    disposition: narrow-and-promote
+    old_title: For any joint law of an input and a context, symmetric or not, the top-d left singular
+      functions of the conditional-expectation operator are the unique d-dimensional span minimizing worst-case
+      linear-probe approximation error over tasks of compatibility at least 1 − ε, with error (s₁² − (1
+      − ε)²)/(s₁² − s²_{d+1})
+    new_title: For any joint law of an input and a context, symmetric or not, the top-d left singular
+      functions of the conditional-expectation operator attain the minimum, over d-dimensional spans,
+      of worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, namely
+      (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other spans can tie
+    source:
+    - LIT-975
+  THEORY-243:
+    disposition: narrow-and-promote
+    old_title: Interchange interventions on a fixed set of variables can be satisfied equally by different
+      alignments related by a change of basis, so which internal direction is the mediating variable is
+      fixed only relative to a chosen decomposition into units
+    new_title: In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with
+      the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal
+      change of basis, pass every interchange intervention on the input equally, so interchange interventions
+      on that variable alone do not fix which internal direction mediates it
+    source:
+    - LIT-961
+    - LIT-968
+    pr_branch: claude/promote-theories-204-243
+    decision_on: claude/promotion-audit-batch-062
+  THEORY-244:
+    disposition: narrow-and-promote
+    old_title: Shannon entropy, mutual information and the distortion-rate function are the expectations
+      of their Kolmogorov counterparts only to within the complexity of the source distribution
+    new_title: 'For a computable source distribution f, Shannon entropy and mutual information are the
+      expectations of their Kolmogorov counterparts only to within the complexity of f: 0 ≤ E K(x) − H(f)
+      ≤ K(f) + O(1), and I(X;Y) − K(f) − O(1) ≤ E I(x:y) ≤ I(X;Y) + 2K(f) + O(1); Grünwald and Vitányi''s
+      matching statement for the distortion-rate function rests on a step the record has not verified'
+    source:
+    - LIT-224
+    - LIT-239
+  THEORY-246:
+    disposition: narrow-and-promote
+    old_title: 'Training objectives that tighten the class clusters of a classifier''s last layers buy
+      accuracy on the trained classes and pay for it in new tasks: among ImageNet-trained ResNet-50s,
+      fixed penultimate features with more class separation transfer worse to datasets with other classes,
+      the difference lies in the last few blocks, and fine-tuning removes it'
+    new_title: Among ResNet-50s trained on ImageNet with nine objectives and stopped early, seven of which
+      beat softmax cross-entropy's top-1 by up to 0.9 points, fixed penultimate features with more class
+      separation transfer worse by linear probe to datasets whose classes are mostly not ImageNet's (Spearman
+      ρ = −0.93 across the nine; mean accuracy 75.9% for softmax to 48.3% for squared error), and within
+      cosine softmax a higher temperature raises separation and lowers that accuracy; the objectives'
+      representations differ mainly in the last third of the network, and full fine-tuning brings mean
+      transfer to within 1.3 points across them
+    source:
+    - LIT-1044
+    pr_branch: claude/promote-theories-246-334-split-201
+    decision_on: claude/promotion-audit-batch-063
+  THEORY-247:
+    disposition: narrow-and-promote
+    old_title: For finite labelled Markov chains, the discounted bisimulation metric is a bicausal optimal-transport
+      distance, and it equals the value of a finite linear program over occupancy couplings
+    new_title: For finite action-free labelled Markov chains, the discounted bisimulation metric, defined
+      as the unique fixed point of Ferns et al.'s equation, is a bicausal optimal-transport distance,
+      and it equals the value of a finite linear program over occupancy couplings
+    source:
+    - LIT-962
+  THEORY-248:
+    disposition: narrow-and-promote
+    old_title: The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where
+      R is the least information about the sample carried by any surrogate output whose expected generalisation
+      error is within ε; I(S;W) is the lossless case, and the lossy bound stays finite where I(S;W) is
+      infinite
+    new_title: The expected generalisation error of a learning algorithm is at most √(2σ²R/n) + ε, where
+      R is the least information about the sample carried by any surrogate output whose expected generalisation
+      error is within ε; I(S;W) is the lossless case, and for an L-Lipschitz loss R is at most the rate-distortion
+      function of the output's law at distortion ε/(2L), so the bound is finite wherever that function
+      is, including where I(S;W) is infinite
+    source:
+    - LIT-236
+  THEORY-253:
+    disposition: narrow-and-promote
+    old_title: 'In a model of independent skills with linear task vectors, sequential onset of acquisition
+      comes from the optimizer: under gradient descent orthogonal skills are learned together at rates
+      set by their frequencies, while under sign descent they compete for coordinate signs, so each starts
+      as the previous finishes'
+    new_title: In Liu, Liu, Michaud, Gore and Tegmark's Geometry model of independent skills with orthogonal
+      task vectors, simulation shows skills progressing together under gradient descent, the weaker taking
+      about 1/p of the time, and in sequence under sign descent, a weaker skill progressing fast only
+      once a stronger is done and the ratio of their times approaching 2; on a rotated quadratic the sequence
+      appears under sign descent only when the loss's eigendirections are misaligned with the coordinates
+    source:
+    - LIT-951
+  THEORY-255:
+    disposition: narrow-and-promote
+    old_title: In Aerts's subspace model of Hampton's membership data, taking concept conjunction and
+      disjunction as the meet and join of subspaces cannot produce overextension or underextension, so
+      the guppy-type deviations need an emergent concept outside the lattice operations, while the Kolmogorov-type
+      deviations can be had from a non-Boolean subspace lattice
+    new_title: In Aerts's subspace model of Hampton's membership data, and in any lattice whose membership
+      weight is order-preserving, whatever its negation, taking concept conjunction and disjunction as
+      meet and join cannot produce overextension or underextension, so a model of the guppy-type deviations
+      must take conjunction as some operation other than the meet or drop the monotone weight, while the
+      Kolmogorov-type deviations can be had from the meet of a non-Boolean subspace lattice
+    source:
+    - LIT-934
+  THEORY-256:
+    disposition: narrow-and-promote
+    old_title: When a sequence generator's latent dynamics factor as a tensor product, its predictive
+      state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n
+      − 1); small transformers trained by next-token prediction on such processes settle near that dimension
+      in approximately orthogonal subspaces, and reach it first even when noise makes it lossy
+    new_title: When a sequence generator's latent dynamics factor as a tensor product, its predictive
+      state embeds losslessly and linearly in orthogonal per-factor subspaces of total dimension Σ(d_n
+      − 1); 4-layer GPT-2-style transformers trained by next-token prediction on five Mess3 and Bloch
+      Walk factors settle near that dimension, in per-factor subspaces that are linearly independent and
+      approximately orthogonal in their leading components, and under the token noise tested reach it
+      first even when noise makes it lossy
+    source:
+    - LIT-986
+  THEORY-259:
+    disposition: narrow-and-promote
+    old_title: Ideal MDL and Bayesian MAP selection under the universal prior agree only to within the
+      complexity of the hypothesis's likelihood, and only among hypotheses for which the data are individually
+      random
+    new_title: For a recursive family of likelihoods and the universal prior, the Bayesian two-part code
+      length −log Pr(D|H) − log m(H) equals the ideal-MDL length K(D|H) + K(H) plus the randomness deficiency
+      of D for H, up to a constant fixed by the family; so ideal MDL and MAP selection agree to within
+      a constant among hypotheses for which the data are random, and can part where they are not
+    source:
+    - LIT-225
+  THEORY-261:
+    disposition: narrow-and-promote
+    old_title: In sparse distributed memory, recall of uniform random data is a signal-to-noise problem
+      whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the
+      number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length
+    new_title: In sparse distributed memory, recall of uniform random data from exact cues is a signal-to-noise
+      problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows
+      in proportion to the number of hard locations, rising toward about a tenth of them at 0.999 bit
+      fidelity, not with the word length
+    source:
+    - LIT-921
+  THEORY-263:
+    disposition: promote
+    old_title: A coding rate that varies with the realised sample and output makes rate-distortion generalisation
+      bounds data-dependent, and with the rate set to the pointwise information density log dP_{W|S}/dP(W)
+      against a fixed prior the bound is the disintegrated PAC-Bayes bound
+    new_title: (unchanged)
+    source:
+    - LIT-233
+  THEORY-266:
+    disposition: narrow-and-promote
+    old_title: The average generalisation error along an optimisation trajectory is bounded by the rate-distortion
+      function of the trajectory's law given the sample, plus a coupling term that carries the trajectory's
+      dependence on the sample
+    new_title: For a loss in [0, 1] that is L-Lipschitz in a distortion, with probability at least 1 −
+      δ the average generalisation error along an optimisation trajectory is bounded, under a square root,
+      by the rate-distortion function of the trajectory's law given the sample, a coupling term that carries
+      the trajectory's dependence on the sample, and a distortion term 4Lε
+    source:
+    - LIT-233
+  THEORY-267:
+    disposition: narrow-and-promote
+    old_title: A prediction-market price can keep most of an arbitrary shock that no trader's information
+      supported for at least sixty days, because later trading undoes only part of it and undoes it ever
+      more slowly
+    new_title: In Rasooly and Rozzi's pre-registered randomised experiment on 817 Manifold play-money
+      markets, about 59% of a ±5-point price shock that no trader's information supported was still present
+      after 60 days in unresolved markets, with about 25% undone in the first week and reversion slowing
+      after it; their model of finitely many risk-averse traders gives such partial, slowing reversion
+      even with no learning, and the data cannot tell that from learning
+    source:
+    - LIT-958
+  THEORY-270:
+    disposition: narrow-and-promote
+    old_title: Translation without parallel data is learnable from a plausibility prior over the target
+      language alone, with error falling in the common ground between prior and translations, in the size
+      of the source language and in the number of samples
+    new_title: In Goldwasser, Gruber, Kalai and Paradise's common-nonsense model, where the source language
+      and the plausibility prior are uniform over sets from which shared random nonsense is removed and
+      translators are one-to-one, maximum likelihood with the prior alone translates without parallel
+      data with error O(log|Θ| / (α·min(m, |T|))) with high probability, falling in the shared nonsense
+      α, in the size of the source language and in the number of samples
+    source:
+    - LIT-941
+  THEORY-271:
+    disposition: promote
+    old_title: In a toy subject–verb–object corpus whose eight subjects carry every combination of three
+      binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each
+      object, its four sentences are equally probable; any other sentence distribution breaks it
+    new_title: (unchanged)
+    source:
+    - LIT-977
+  THEORY-272:
+    disposition: narrow-and-promote
+    old_title: 'A network of threshold units with symmetric Hebbian couplings is a content-addressable
+      memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns,
+      memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are
+      forgotten'
+    new_title: 'In Hopfield''s 1982 simulations at N = 30 and 100, a network of threshold units with symmetric
+      Hebbian couplings acts as a content-addressable memory whose stored random patterns are attractors:
+      recall degrades severely near 0.15N patterns, a pattern placed 10 bits from another at N = 100 often
+      fuses with it, and at 25-fold overload no stored pattern stays stable'
+    source:
+    - LIT-918
+  THEORY-275:
+    disposition: narrow-and-promote
+    old_title: 'Directional information measures between two symmetrically coupled units follow the path
+      of a recorded drive, not the symmetry of the coupling: flow reads two-way under moderate drive of
+      one unit and one-way under strong drive'
+    new_title: 'In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved
+      by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive''s
+      path rather than the coupling''s symmetry: the flow between the beads reads two-way under moderate
+      drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model
+      only'
+    source:
+    - LIT-947
+  THEORY-276:
+    disposition: promote
+    old_title: In a network of identical units with identical couplings, the orbits of the graph's symmetry
+      group are synchronization clusters, and a cluster moved only by its own factor of the group can
+      lose synchrony while the others keep it
+    new_title: (unchanged)
+    source:
+    - LIT-960
+  THEORY-278:
+    disposition: narrow-and-promote
+    old_title: Under MSE loss a trained classifier stays near the least-squares classifier for its own
+      features, and on that central path, for unconstrained features continually renormalized to identity
+      within-class covariance, gradient flow drives the class-separation singular values to infinity at
+      equal rates, which is neural collapse
+    new_title: Under MSE loss, in Han, Papyan and Donoho's VGG, ResNet and DenseNet runs on five balanced
+      ten-class datasets, the trained classifier stays near the least-squares classifier for its own features
+      from an early epoch; and on that central path, for unconstrained features continually renormalized
+      to identity within-class covariance and without weight decay, gradient flow drives the class-separation
+      singular values to infinity at equal rates, which in that model is neural collapse
+    source:
+    - LIT-974
+  THEORY-280:
+    disposition: narrow-and-promote
+    old_title: The bisimulation metric between two finite Markov chains can be estimated from sampled
+      transitions without a transition model, to accuracy ε with a number of samples polynomial in the
+      state-space sizes and 1/ε²
+    new_title: The bisimulation metric between two finite Markov chains with observed states and a known
+      cost bounded by 1 can be estimated without a transition model from independent samples of each chain's
+      discounted state-pair occupancy, to accuracy ε with probability 1 − δ from a number of samples polynomial
+      in the state-space sizes, 1/(1−γ), log(1/δ) and 1/ε²
+    source:
+    - LIT-948
+    - LIT-962
+  THEORY-281:
+    disposition: narrow-and-promote
+    old_title: 'Perfect concept erasure caps what a representation can keep at the information not about
+      the concept: if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure
+      reaches that cap only when the concept groups'' distributions are permutations of one another'
+    new_title: 'Perfect concept erasure caps what a representation can keep at the information not about
+      the concept: for X of finite support, if Z is independent of A then I(Z;X) is at most H(X|A), and
+      a deterministic erasure reaches that cap only when the concept groups'' distributions are permutations
+      of one another'
+    source:
+    - LIT-963
+  THEORY-282:
+    disposition: promote
+    old_title: A subspace intervention can reproduce the output effect of changing a variable without
+      localizing it, by pairing a direction that varies with the variable but cannot reach the output
+      with one that can reach the output but does not vary on the data
+    new_title: (unchanged)
+    source:
+    - LIT-968
+    - LIT-961
+  THEORY-283:
+    disposition: narrow-and-promote
+    old_title: For a two-layer network on a hierarchical multi-index target with Gaussian inputs, direction
+      k becomes recoverable at a sample count proportional to its squared weight to the power minus one,
+      so features emerge one at a time through sharp spectral transitions in the number of samples, and
+      a target-agnostic spectral estimator reaches the Bayes-optimal rates
+    new_title: For a hierarchical multi-index target with isotropic Gaussian inputs and even, separable
+      links, direction k becomes weakly recoverable by the Bayes-optimal estimator at a sample count proportional
+      to its squared weight to the power minus one, so features emerge one at a time through sharp spectral
+      transitions in the number of samples; a target-agnostic spectral estimator attains the thresholds
+      and the optimal weighted error, and a two-layer network whose first layer is that estimator, with
+      a ridge readout, attains them in excess risk
+    source:
+    - LIT-940
+  THEORY-284:
+    disposition: promote
+    old_title: If a feature's values form a compact metric space carried continuously and injectively
+      onto the unit sphere, and cosine similarity is locally a C² decreasing function of squared feature
+      distance, then every path on the representation manifold is √(−2g′(0)) times as long as the feature
+      path it images, so on-manifold shortest paths recover the feature's intrinsic length metric up to
+      one scale; a homeomorphism alone does not fix it
+    new_title: (unchanged)
+    source:
+    - LIT-935
+  THEORY-289:
+    disposition: narrow-and-promote
+    old_title: When each round of a fixed-design linear regression is refit to labels generated by the
+      previous fit, keeping every earlier round's data bounds the test error at π²/6 times the first fit's,
+      where replacing the data makes it grow linearly in the number of rounds
+    new_title: For ordinary least squares on T ≥ d + 2 isotropic Gaussian covariates reused every round,
+      with each round's labels generated by the previous fit, keeping every earlier round's data keeps
+      the expected excess test error below π²/6 times the first fit's, though it rises every round, where
+      replacing the data makes it grow linearly in the number of rounds
+    source:
+    - LIT-971
+  THEORY-290:
+    disposition: narrow-and-promote
+    old_title: When debaters value true belief but also dislike changing their minds, equilibrium argument
+      can fall short of the truth-optimal profile because one debater free-rides on the other's belief-disrupting
+      arguments, and raising the weight on truth can lower equilibrium accuracy
+    new_title: In a two-debater, three-proposition model of deductive debate whose payoff trades true
+      beliefs against changes of mind, the most truth-conducive equilibrium can fall short of the truth-optimal
+      profile because one debater free-rides on the other's belief-disrupting arguments, and in a narrow
+      band of mixed equilibria a higher weight on truth gives lower equilibrium accuracy
+    source:
+    - LIT-966
+  THEORY-293:
+    disposition: narrow-and-promote
+    old_title: For an optimal capacity-bounded learner on a mixture of equally frequent random facts and
+      a second domain, the facts are learned not at all below a capacity threshold set by the mixing ratio
+      and in full above it, and Pythia models trained on such mixtures show the same threshold in model
+      size and in mixing ratio
+    new_title: For an optimal capacity-bounded learner on an orthogonal mixture of equally frequent random
+      facts and a second domain, the facts are learned not at all below a capacity threshold set by the
+      mixing ratio and in full once capacity exceeds it by the facts' total entropy, and Pythia models
+      trained on synthetic biographies mixed into web text show a threshold in model size and in mixing
+      ratio
+    source:
+    - LIT-984
+  THEORY-294:
+    disposition: narrow-and-promote
+    old_title: 'Lazy-regime training of a wide shallow network does not collapse its features: on two-class
+      Gaussian data the expected within-class variability of the NTK features is that of the NNGP features
+      at initialization'
+    new_title: For a wide two-layer ReLU network with zero bias on one-dimensional data whose two classes
+      lie on opposite sides of the origin, the tangent kernel is a constant multiple of the initialization
+      kernel, so lazy training leaves the within-class variability of its features, NC1, where initialization
+      put it
+    source:
+    - LIT-985
+  THEORY-295:
+    disposition: narrow-and-promote
+    old_title: In a community that updates a single consensus model by sound pairwise model comparison,
+      which models get proposed can hold the consensus on a false model while results reproduce almost
+      perfectly, so reproducibility does not track convergence to truth
+    new_title: In a community whose consensus model is replaced whenever a single sound pairwise model
+      comparison favours the challenger, which models get proposed can hold the consensus on a false model
+      while results reproduce almost perfectly, so reproducibility need not track convergence to truth
+    source:
+    - LIT-988
+  THEORY-297:
+    disposition: narrow-and-promote
+    old_title: A bijection between shapes is equivalent to the linear operator it induces on functions;
+      in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an isometry's commutes
+      with the Laplace–Beltrami operator, so it maps each eigenspace to the matching eigenspace
+    new_title: A bijection between shapes is equivalent, up to null sets, to the linear operator it induces
+      on functions; in orthonormal bases a volume-preserving bijection's matrix is orthogonal, and an
+      isometry's commutes with the Laplace–Beltrami operator, so it maps each eigenspace to the matching
+      eigenspace
+    source:
+    - LIT-993
+  THEORY-299:
+    disposition: narrow-and-promote
+    old_title: Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf
+      of vector spaces pulled back from the schema and scored by its Laplacian; since the zero cochain
+      is always a global section, what they learn is a contrastive margin, not the existence of a section
+    new_title: Structured and translational knowledge-graph embeddings are 0-cochains of a cellular sheaf
+      of vector spaces pulled back from the schema, each triple scored by a norm of the coboundary on
+      its edge and, in the squared-Euclidean form, the whole graph by the sheaf Laplacian; since the zero
+      cochain is always a global section, what they learn is a contrastive margin, not the existence of
+      a section
+    source:
+    - LIT-232
+  THEORY-301:
+    disposition: promote
+    old_title: 'The Procrustes distance between regularization-normalized representations and their average
+      linear-decoding distance bound each other only through the participation ratio of the kernel difference:
+      a small Procrustes distance forces a small decoding distance, but not conversely'
+    new_title: (unchanged)
+    source:
+    - LIT-257
+    - LIT-250
+  THEORY-305:
+    disposition: promote
+    old_title: SimCLR's InfoNCE loss, over all n objects with a Gaussian kernel on the unit sphere, equals
+      a graph-Laplacian quadratic form on the augmentation matrix plus the log of InfoNCE's normalizers,
+      which is spectral clustering only in a sense that admits any regularizer and does not make the minimizer
+      the Laplacian's eigenvectors
+    new_title: (unchanged)
+    source:
+    - LIT-227
+  THEORY-306:
+    disposition: narrow-and-promote
+    old_title: Volume-maximizing joint-embedding objectives carry a prior toward equal-sized clusters,
+      explicit in MSN and SwAV and derived for VICReg only through a reduction to K-means, and with mini-batches
+      of two to eight classes they lose semantic transfer while MAE and data2vec do not
+    new_title: MSN's objective penalizes unequal cluster sizes explicitly and SwAV's enforces equal sizes,
+      and in one study with mini-batches of two to eight ImageNet classes, SimCLR, MSN and VICReg lost
+      11 to 18 points of ImageNet linear accuracy while MAE and data2vec lost under one
+    source:
+    - LIT-231
+  THEORY-308:
+    disposition: narrow-and-promote
+    old_title: The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an
+      extremum estimator over a compact family of critics, and its uniform deviation from the population
+      bound is controlled by the parameter count, not the data dimension
+    new_title: The neural Donsker–Varadhan estimator of mutual information is strongly consistent as an
+      extremum estimator over compact families of critics, and, for critics bounded by M and L-Lipschitz
+      in their d parameters, its uniform deviation from the population bound needs a number of samples
+      set by d, M, L and the parameter radius, not by the data dimension
+    source:
+    - LIT-256
+    - LIT-246
+  THEORY-309:
+    disposition: promote
+    old_title: If contexts are defined by joint measurability alone, every nondisturbing correlation,
+      maximally contextual ones included, is realized by trivial measurements on a one-dimensional quantum
+      system, so Kochen–Specker contextuality needs a stronger operational notion of context
+    new_title: (unchanged)
+    source:
+    - LIT-263
+  THEORY-312:
+    disposition: promote
+    old_title: The large-batch InfoNCE loss is the negative HSIC between representations and image identity
+      plus a nonnegative log-mean-exp of the centred critic, so it bounds a kernel dependence loss from
+      above
+    new_title: (unchanged)
+    source:
+    - LIT-248
+  THEORY-313:
+    disposition: narrow-and-promote
+    old_title: With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a
+      density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence
+      that is tight only for an orthonormal, hence discrete, embedding, lies above the KL of the kernel-smoothed
+      distributions, and on the torus is within O(σ²) of KL as the bandwidth σ shrinks
+    new_title: With a kernel normalised to k(x,x) = 1, the covariance operator of a distribution is a
+      density operator, and its quantum relative entropy is a lower bound on the Kullback–Leibler divergence
+      that is tight for every pair of distributions only for an orthonormal, hence discrete, embedding,
+      lies above the KL of the kernel-smoothed distributions, and on the torus, with Fourier coefficients
+      proportional to e^(−σ‖ω‖₁) and strictly positive Lipschitz densities, is within O(σ²) of KL as the
+      bandwidth σ shrinks
+    source:
+    - LIT-255
+  THEORY-314:
+    disposition: promote
+    old_title: Every minimizer of an arbitrary cost on the training outputs plus a strictly increasing
+      function of the RKHS norm lies in the span of the kernel functions at the training points, by the
+      reproducing property and orthogonal decomposition alone
+    new_title: (unchanged)
+    source:
+    - LIT-261
+  THEORY-315:
+    disposition: promote
+    old_title: For a state whose four-state reflection orbit is realizable, generalized noncontextuality
+      bounds two binary predictabilities by |⟨X⟩| + |⟨Z⟩| ≤ 1, so the form of a predictability trade-off,
+      not its existence, can witness contextuality
+    new_title: (unchanged)
+    source:
+    - LIT-980
+  THEORY-318:
+    disposition: narrow-and-promote
+    old_title: A bound on the max-information between a dataset and the functions an analyst chooses bounds
+      the probability that an adaptively chosen statistic overfits that dataset, and differential privacy
+      supplies the bound, so a holdout can validate many adaptively chosen statistics
+    new_title: A bound k on the max-information between a dataset and an analyst's chosen statistic multiplies
+      by at most 2^k the probability that the statistic overfits that dataset, and an ε-differentially
+      private mechanism on datasets of n points keeps k at most log₂e·εn, whatever the distribution on
+      datasets
+    source:
+    - LIT-964
+  THEORY-319:
+    disposition: narrow-and-promote
+    old_title: When two views are redundant for a label, the predictor that infers one view from the other
+      is within εX + 2√(εXεZ) + εZ of the Bayes predictor, and it is linear in the contrastive density
+      ratio, so a linear readout of m random evaluations of that ratio approaches it at rate 1/m, with
+      no symmetry between the views required
+    new_title: When two views are redundant for a label, the predictor that infers one view from the other
+      is within εX + 2√(εXεZ) + εZ of the Bayes predictor in mean squared error, and it is linear in the
+      contrastive density ratio, so for a bounded label and a square-integrable ratio a linear readout
+      of m random evaluations of the exact ratio approaches it at rate 1/m, with no symmetry between the
+      views required
+    source:
+    - LIT-251
+  THEORY-321:
+    disposition: narrow-and-promote
+    old_title: Under repeated DeGroot averaging, a large society's consensus converges to the truth if
+      and only if the largest influence weight vanishes, so network structure alone, not the members'
+      common updating rule, decides whether the group belief is right
+    new_title: Under repeated DeGroot averaging in a strongly connected society, the consensus converges
+      to the truth as the society grows if and only if the largest influence weight vanishes, so network
+      structure alone, not the members' common updating rule, decides whether the group belief is right
+    source:
+    - LIT-999
+  THEORY-324:
+    disposition: narrow-and-promote
+    old_title: A system adapts by trial and error to an environment unknown to it only if a second feedback,
+      through its essential variables, changes the parameters of its primary feedback when those variables
+      leave their limits; with that feedback every equilibrium the whole can reach is an adapted one
+    new_title: A system adapts by trial and error to an environment whose effect on its essential variables
+      it does not know only if a second feedback, through those variables, changes the parameters of its
+      primary feedback; and if that feedback changes them whenever, and for as long as, an essential variable
+      is outside its limits, every equilibrium the whole can reach is an adapted one
+    source:
+    - LIT-787
+  THEORY-332:
+    disposition: narrow-and-promote
+    old_title: For one index with no space limit, Bruno and Chaudhuri's online tuner, which builds the
+      index once the savings it would have given have risen by its build cost above their last low and
+      drops it once they have fallen by the build cost below their last high, can cost nearly three times
+      the offline optimum, and unboundedly more when one statement's saving exceeds the build cost; that
+      it stays within three when every saving is small next to the build cost is not shown
+    new_title: 'For one index with no space limit, Bruno and Chaudhuri''s online tuner, which builds the
+      index once the savings it would have given have risen by its build cost above their last low and
+      drops it once they have fallen by the build cost below their last high, is not three-competitive:
+      when every statement''s saving or loss is at most a fraction f of the build cost, a repeated workload
+      makes it cost nearly 3 + 2f times the offline optimum, and one statement whose saving exceeds the
+      build cost makes the ratio unbounded; no upper bound is shown'
+    source:
+    - LIT-1095
+  THEORY-334:
+    disposition: narrow-and-promote
+    old_title: In copying a pattern of coloured blocks that stays in view, people look back at the model
+      about 1.3 times per block, most often once for colour and once for position, and so choose the slowest
+      strategy with the least held in memory though told to be quick; they look less when model and copy
+      are far apart or the pattern can be chunked, and keep only the property the current step needs;
+      that holding information costs more than re-fetching it is inferred from these choices, in seven
+      subjects, without statistics
+    new_title: In copying a pattern of coloured blocks that stays in view, seven subjects told to work
+      quickly looked back at the model about 1.3 times per block, and their commonest cycle, which looks
+      at the model both before picking up a block and before dropping it, was the slowest per block in
+      the authors' observed tallies (about 3 s, against 1.5 s for a cycle that copies from memory); looks
+      fell to 1.0 per block with model and copy 70° apart and to 0.7 with one-colour patterns that could
+      be chunked, and in three subjects a colour change made during a saccade raised fixation time by
+      about 129 ms after pickup against about 50 ms before; no statistics are reported
+    source:
+    - LIT-1075
+    pr_branch: claude/promote-theories-246-334-split-201
+    decision_on: claude/promotion-audit-batch-063
+  THEORY-362:
+    disposition: narrow-and-promote
+    old_title: 'For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation,
+      under set or duplicate semantics, storing with each derived tuple only the number of its derivations
+      is stated to suffice to maintain the view under insertions and deletions of base tuples: signed
+      counts propagated through delta rules stratum by stratum give each tuple''s change as its new count
+      minus its old, and a tuple leaves when its count reaches zero; the proof is not in the paper, and
+      counting is set aside for recursive views because counts can be infinite'
+    new_title: 'For nonrecursive Datalog or SQL views with safe stratified negation and stratified aggregation,
+      under set or duplicate semantics, storing with each derived tuple only the number of its derivations
+      suffices to maintain the view under insertions and deletions of base tuples: signed counts propagated
+      through delta rules stratum by stratum give each tuple''s change as its new count minus its old,
+      a tuple leaves when its count reaches zero, and a MIN or MAX group whose extreme is deleted is recomputed
+      from the stored lower stratum'
+    source:
+    - LIT-1114
+  THEORY-365:
+    disposition: narrow-and-promote
+    old_title: A stack of proximity graphs on nested random subsets of the data, each element's top layer
+      drawn geometrically, makes greedy search cost grow about logarithmically with the number of items
+      on uniform random data in 4 and 8 dimensions, where single-layer navigable graphs grow polylogarithmically;
+      the logarithmic bound is derived only for exact Delaunay graphs of bounded degree, which the index
+      does not build, and on 200 million SIFT vectors the measured growth departs from it
+    new_title: In one study of a stack of proximity graphs on nested random subsets of the data, each
+      element's top layer drawn geometrically, greedy search on uniform random data in 8 dimensions needed
+      a number of distance computations that grew no worse than logarithmically with the number of items
+      and stayed below a single-layer navigable graph's at every size tested, and in 4 dimensions the
+      beam width needed for a fixed recall saturated; the logarithmic bound is derived only for exact
+      Delaunay graphs of bounded degree, which the index does not build, and on 200 million SIFT vectors
+      the measured growth departs from it
+    source:
+    - LIT-1098
+  THEORY-367:
+    disposition: narrow-and-promote
+    old_title: For positive queries over a tree data model that covers SPJU relational queries, why-provenance
+      taken as the witness basis, one set of matched source facts per derivation, is preserved by query
+      rewriting and its minimal witnesses are the same for equivalent queries with equality conditions,
+      while where-provenance, the source location a value was copied from, can differ between equivalent
+      queries and is preserved by rewriting only for traceable queries
+    new_title: For SPJU relational queries, which Buneman, Khanna and Tan's tree model encodes, the minimal
+      witnesses of an output tuple, the inclusion-minimal sets of source facts from which the query still
+      derives it, are the minimal sets matched by single derivations and so are the same for every equivalent
+      query, while where-provenance, the source location a value was copied from, can differ between equivalent
+      queries
+    source:
+    - LIT-1104
+  THEORY-368:
+    disposition: narrow-and-promote
+    old_title: On two-dimensional point sets constructed for the purpose, DiskANN as implemented, HNSW,
+      NSG and seven other graph indexes, run from their authors' code at their authors' parameters, found
+      none or few of a query's five nearest neighbours until the search queue held about 10% of the points,
+      for n from 10⁵ to 2·10⁶; this is shown by experiment on one query per instance, and no theorem bounds
+      these algorithms
+    new_title: On two-dimensional point sets constructed for the purpose, the authors' code for fast-preprocessing
+      DiskANN, HNSW and NSG, at parameters from the original papers, in most cases found none or few of
+      a query's five nearest neighbours until the search queue held about 10% of the points, for n from
+      10⁵ to 2·10⁶, and at that queue length ten graph indexes averaged recall@5 between 0.0 and 0.42;
+      this is shown by experiment on one query per instance, and no theorem bounds these algorithms
+    source:
+    - LIT-1112
+  THEORY-369:
+    disposition: narrow-and-promote
+    old_title: Under uniformly distributed, independent data and queries in the unit cube with Euclidean
+      distance, an optimal nearest-neighbour search over any index that partitions points into blocks
+      or convex clusters must read a fraction of blocks that grows toward all of them as dimension rises;
+      with a five-fold sequential advantage for scanning, estimates put the crossover at about 15–26 dimensions
+      for rectangular and spherical bounding regions, and two tree indexes measured on 50,000 points lost
+      to a scan beyond about 10
+    new_title: Under uniformly distributed, independent data and queries in the unit cube with Euclidean
+      distance and a fixed number of points, an optimal nearest-neighbour search over any index that partitions
+      points into blocks or convex clusters of at least two points must read a fraction of blocks that
+      grows toward all of them as dimension rises; with a five-fold sequential advantage for scanning,
+      estimates put the crossover at about 15–26 dimensions for rectangular and spherical bounding regions,
+      and two tree indexes measured on 50,000 points lost to a scan beyond about 10
+    source:
+    - LIT-1107
+  THEORY-377:
+    disposition: narrow-and-promote
+    old_title: A rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability
+      min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, came within
+      1% to 5% of the best fixed width on simulated random walks; on network-traffic traces, restricted
+      to exact copies, it matched an adaptive cache-or-not rule, and where queries tolerated imprecision
+      it cost less; that it converges to the best width is argued, not proved
+    new_title: In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width
+      by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact
+      fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk
+      and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact
+      copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries
+      tolerated imprecision, it cost less; that it converges to the best width is argued, not proved
+    source:
+    - LIT-1109
+  THEORY-380:
+    disposition: narrow-and-promote
+    old_title: For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's
+      tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are
+      the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧
+      in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple
+      lies on a cycle of unit rules
+    new_title: For datalog over a finite input instance annotated from a commutative ω-continuous semiring,
+      with an answer's tag defined as the sum over its derivation trees of the product of its leaves'
+      tags, the tags are the least fixed point of a finite polynomial system and factor through formal
+      power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient
+      exactly when one of its derivation trees contains a tuple lying on a cycle of unit rules
+    source:
+    - LIT-1110
+  THEORY-382:
+    disposition: narrow-and-promote
+    old_title: When a web server keeps each page fragment either cached and invalidated by updates or
+      stored and refreshed after them, materializing trades staleness for response time, and in one synthetic
+      simulation with fixed costs a periodic greedy that moves a capped number of fragments between the
+      two, to keep the share of fresh fragments served above a set threshold, held freshness near the
+      threshold, answered faster than caching alone and recovered from overload by materializing everything;
+      no bound on its distance from the best plan is shown
+    new_title: When a web server keeps each page fragment either cached and invalidated by updates or
+      stored and refreshed after them, materializing trades staleness for response time, and in one synthetic
+      simulation with fixed costs a periodic greedy that moves a capped number of fragments between the
+      two, to keep the share of fresh fragments served above a set threshold, tracked that threshold by
+      the authors' reading of its curves, answered faster than caching alone and recovered from overload
+      by materializing everything; no bound on its distance from the best plan is shown
+    source:
+    - LIT-1105
+  THEORY-387:
+    disposition: narrow-and-promote
+    old_title: For recursive Datalog views under set semantics, deleting every derived tuple that has
+      any derivation through a deleted base fact, then restoring each deleted tuple that still has a derivation
+      from the remaining relations, then adding what insertions derive, is stated to leave exactly the
+      tuples derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the proof and
+      the extension to stratified negation and aggregation are referred to an unpublished report, and
+      the size of the overestimate is not measured
+    new_title: For positive recursive Datalog views under set semantics, deleting every derived tuple
+      that has any derivation through a deleted base fact, then restoring each deleted tuple that still
+      has a derivation from what remains, then adding what insertions derive, leaves exactly the tuples
+      derivable from the new base (E − Δ⁻) ∪ Δ⁺, with no derivation counts stored; the extension to stratified
+      negation and aggregation is asserted, not shown, and the size of the overestimate is not measured
+    source:
+    - LIT-1114
+  THEORY-391:
+    disposition: narrow-and-promote
+    old_title: Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension
+      N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain
+      failure across a curve ρ(δ) that face counts of randomly projected polytopes fix for Gaussian matrices;
+      eight non-Gaussian ensembles were observed to approach the same curve, with gaps shrinking as N^(−1/2),
+      while at finite N the location depends on the ensemble
+    new_title: Recovery of a k-sparse vector by ℓ₁ minimization from n random measurements in dimension
+      N switches, as N grows with δ = n/N and ρ = k/n fixed, from near-certain success to near-certain
+      failure across a curve ρ(δ) that, for Gaussian matrices, the authors' earlier face-counting theorems
+      fix; in 2,948,000 optimizations at N = 200, 400 and 1600, eight non-Gaussian ensembles approached
+      that curve in a way consistent with gaps shrinking as N^(−1/2), an exponent fitted on the same data,
+      while at finite N the location depended on the ensemble
+    source:
+    - LIT-1160
+  THEORY-419:
+    disposition: narrow-and-promote
+    old_title: In a structural causal model an intervention do(X = x) is a surgery that deletes X's own
+      equation, sets X to x and solves the rest, while observing X = x violates no equation and is ordinary
+      conditioning; so models that agree on every observational distribution can disagree on the effect
+      of an intervention, and a structural coefficient is the rate of change of E[Y | do(x)], not a regression
+      slope
+    new_title: In a structural causal model of autonomous equations, with intervention do(X = x) defined,
+      as Pearl defines it, as a surgery that deletes X's own equation, sets X to x and solves the rest,
+      and with observing X = x violating no equation and amounting to ordinary conditioning, models that
+      agree on every observational distribution can disagree on the effect of an intervention, and in
+      a structural equation y = βx + ε the coefficient β is the rate of change of E[Y | do(x)], which
+      equals the regression slope of Y on X only when X is uncorrelated with ε
+    source:
+    - LIT-894
+  THEORY-472:
+    disposition: narrow-and-promote
+    old_title: A speaker who chooses words to minimise the information lost about a single intended referent
+      picks each true word with probability inversely proportional to a power of its extension, so the
+      size principle follows from informative communication; word learners who know the referent bet on
+      a novel word's meaning as the inversion of that speaker predicts, while speakers' free descriptions
+      follow it only weakly
+    new_title: A speaker who chooses words to minimise the information lost about a single intended referent,
+      with words' literal meanings uniform over their extensions, picks each true word with probability
+      inversely proportional to a power of its extension, so the size principle follows from informative
+      communication; in one betting experiment, learners who knew the referent bet on a novel word's meaning
+      in line with the inversion of that speaker (r = .93 on condition means), and in one free-description
+      study speakers' word use followed it only weakly (r = .19)
+    source:
+    - LIT-824
+  THEORY-478:
+    disposition: narrow-and-promote
+    old_title: 'When a data set''s diffusion operator behaves like the heat kernel of a latent tree, summing
+      scale-weighted hyperbolic distances between diffusion densities over dyadic times gives a distance
+      equivalent, up to constants, to a thresholded snowflake of the tree metric: it keeps the tree''s
+      neighbourhoods and not its global distances'
+    new_title: 'If the diffusion densities'' Hellinger distances obey a Hölder bound with exponent θ in
+      d_T / t^(1/β) and are bounded below once d_T exceeds a multiple of t^(1/β), then for 0 < α < θ/β
+      summing scale-weighted hyperbolic distances between diffusion densities over dyadic times gives
+      a distance two-sided equivalent, up to constants, to min{1, d_T^(αβ)} for pairs above the finest
+      scale: it keeps the tree''s neighbourhoods and not its global distances; whether a tree''s heat
+      kernel, or sampled data, meets the bounds, and with which θ, is not shown'
+    source:
+    - LIT-870
+  THEORY-527:
+    disposition: narrow-and-promote
+    old_title: If agents are the systems that would adapt their policy were their actions to affect the
+      world differently, then in causal models with mechanism variables they can be found from interventions
+      on mechanisms, provably under five assumptions; on that definition the agent is wherever the adaptation
+      is, so a thermostat is not an agent while it together with its design process is, and an RL training
+      process is while its learnt policy generally is not
+    new_title: If agents are the systems that would adapt their policy were their actions to affect the
+      world differently, then in mechanised causal games meeting Kenton et al.'s five assumptions (one
+      agent per connected component of the decision–utility graph, best response to every mechanism intervention,
+      a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions
+      able to set any deterministic function) the game graph, with its decisions, utilities and agents,
+      is recovered exactly from interventions on mechanisms
+    source:
+    - LIT-909
+  THEORY-548:
+    disposition: narrow-and-promote
+    old_title: A delay in the interactions of a large random Lotka–Volterra community whose undelayed
+      equilibrium is feasible and globally stable destabilises it through a Hopf bifurcation at a critical
+      delay set by the community spectrum, giving sustained oscillation with no external forcing; whether
+      diversity then stabilises depends on the measure, since in the oscillating regime community-level
+      variability falls with diversity while species-level variability rises
+    new_title: In generalised Lotka–Volterra dynamics with every interaction delayed by τ, a feasible
+      equilibrium that is stable without delay loses stability at τ_c = min over the community eigenvalues
+      j of arctan(|Re j|/|Im j|)/|j|, where a pair of roots crosses the imaginary axis transversally (a
+      Hopf point), so the critical delay is set by the community spectrum; in Saeedian et al.'s strongly
+      self-regulated setting the oscillating regime's community-level variability falls with diversity
+      (S = 10–70) while species-level variability rises, and the fall matches what summing independently
+      oscillating species gives
+    source:
+    - LIT-057
+  THEORY-566:
+    disposition: promote
+    old_title: In Ganea et al.'s hyperbolic neural networks, linear maps and nonlinearities are Euclidean
+      ones read through the chart at the origin, so a stack of them without biases is a Euclidean network
+      conjugated by that chart, and the curvature acts only through the bias translations and the distance-based
+      output layer
+    new_title: (unchanged)
+    source:
+    - LIT-879
+  THEORY-580:
+    disposition: promote
+    old_title: On any cover of a space of input histories, the empirical models compatible with a causal
+      structure are exactly the points of a polytope cut from a product of simplices by linear causality
+      equations, so how much of a model a causal structure can explain is a linear program; causal separability
+      is relative to an assumed ambient structure, and the causally separable fraction is never less than
+      the separable local fraction
+    new_title: (unchanged)
+    source:
+    - LIT-788
+  THEORY-585:
+    disposition: narrow-and-promote
+    old_title: In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums
+      of quantum systems compose exactly, but along tensor products the best pull-back of a constituent's
+      quantity agrees with the composite's own quantity only on contexts of the form V₁⊗ℂ1, since the
+      composite's context poset holds contexts that mix the factors; the failure elsewhere is asserted,
+      not proved
+    new_title: In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums
+      of quantum systems compose exactly; along a tensor product of finite-dimensional systems, the pull-back
+      of a constituent's quantity agrees with the composite's own quantity at a context exactly when every
+      projection in it with proper support on the first factor has the form P⊗1, so it fails for every
+      non-scalar quantity and no operator on the composite realises the pull-back
+    source:
+    - LIT-310
+    - LIT-378
+  THEORY-714:
+    disposition: narrow-and-promote
+    old_title: Redundancy among any number of sources can be measured as the expected local co-information
+      over only those events where every source, the joint source and the overlap change the target's
+      surprisal in the same direction, under the maximum-entropy joint that preserves the source–target
+      and joint-source marginals; this keeps symmetry, self-redundancy, subset equality and identity for
+      independent sources, and gives up Harder et al.'s identity, monotonicity and non-negative atoms,
+      which then read as local misinformation and mechanistic redundancy
+    new_title: Ince's I_ccs, the expected local co-information over only those events where every source,
+      the joint source and the overlap change the target's surprisal in the same direction, under the
+      maximum-entropy joint that preserves the source–target and joint-source marginals, is symmetric
+      and self-redundant and satisfies the independent identity property; it fails Harder et al.'s identity
+      and monotonicity, so its atoms can be negative, and, though its paper says otherwise, it fails subset
+      equality
+    source:
+    - LIT-1201
+  THEORY-744:
+    disposition: narrow-and-promote
+    old_title: As the kernel width ε goes to 0, Coifman and Lafon's α-normalized diffusion operator on
+      data sampled with density q = e^{−U} from a compact manifold has generator Δf + 2(1 − α)⟨∇U, ∇f⟩,
+      the generator of a reversible diffusion with drift −2(1 − α)∇U and invariant density proportional
+      to q^{2(1−α)}; α = 0 gives potential 2U and invariant density q², α = 1/2 gives the Langevin dynamics
+      whose invariant density is the sampling density itself, and α = 1 gives Brownian motion on the manifold,
+      with no trace of the density
+    new_title: As the kernel width ε goes to 0, Coifman and Lafon's α-normalized diffusion operator (I
+      − P_{ε,α})/ε, for data sampled with density q = e^{−U} from a compact manifold without boundary,
+      converges uniformly on smooth functions, at rate O(ε), to Δf + 2(1 − α)⟨∇U, ∇f⟩ with Δ the non-negative
+      Laplace–Beltrami operator, which is minus the generator of a reversible diffusion with drift −2(1
+      − α)∇U and invariant density proportional to q^{2(1−α)}; α = 0 gives potential 2U and invariant
+      density q², α = 1/2 gives the Langevin dynamics whose invariant density is the sampling density
+      itself, and α = 1 gives Brownian motion on the manifold, with no trace of the density
+    source:
+    - LIT-1246
+    - LIT-981
+    pr_branch: claude/promote-theories-744-751
+    decision_on: claude/promotion-audit-batch-060
+cited_by_files:
+  THEORY-008: 43
+  THEORY-009: 47
+  THEORY-014: 21
+  THEORY-021: 7
+  THEORY-026: 31
+  THEORY-030: 26
+  THEORY-037: 18
+  THEORY-073: 20
+  THEORY-083: 33
+  THEORY-117: 20
+  THEORY-127: 38
+  THEORY-133: 23
+  THEORY-155: 28
+  THEORY-158: 11
+  THEORY-160: 6
+  THEORY-161: 19
+  THEORY-163: 19
+  THEORY-166: 11
+  THEORY-169: 20
+  THEORY-171: 14
+  THEORY-172: 26
+  THEORY-175: 19
+  THEORY-176: 14
+  THEORY-177: 9
+  THEORY-178: 11
+  THEORY-181: 9
+  THEORY-184: 12
+  THEORY-185: 46
+  THEORY-187: 22
+  THEORY-189: 10
+  THEORY-190: 8
+  THEORY-191: 10
+  THEORY-192: 12
+  THEORY-194: 37
+  THEORY-195: 25
+  THEORY-197: 21
+  THEORY-198: 15
+  THEORY-202: 19
+  THEORY-204: 10
+  THEORY-205: 9
+  THEORY-206: 10
+  THEORY-211: 22
+  THEORY-213: 9
+  THEORY-216: 15
+  THEORY-222: 27
+  THEORY-228: 19
+  THEORY-229: 22
+  THEORY-230: 7
+  THEORY-231: 7
+  THEORY-233: 9
+  THEORY-234: 6
+  THEORY-237: 8
+  THEORY-238: 12
+  THEORY-239: 12
+  THEORY-243: 9
+  THEORY-244: 8
+  THEORY-246: 5
+  THEORY-247: 5
+  THEORY-248: 7
+  THEORY-253: 10
+  THEORY-255: 6
+  THEORY-256: 7
+  THEORY-259: 7
+  THEORY-261: 9
+  THEORY-263: 7
+  THEORY-266: 6
+  THEORY-267: 5
+  THEORY-270: 6
+  THEORY-271: 6
+  THEORY-272: 8
+  THEORY-275: 13
+  THEORY-276: 5
+  THEORY-278: 16
+  THEORY-280: 5
+  THEORY-281: 5
+  THEORY-282: 11
+  THEORY-283: 5
+  THEORY-284: 5
+  THEORY-289: 6
+  THEORY-290: 6
+  THEORY-293: 6
+  THEORY-294: 6
+  THEORY-295: 6
+  THEORY-297: 4
+  THEORY-299: 4
+  THEORY-301: 4
+  THEORY-305: 8
+  THEORY-306: 7
+  THEORY-308: 3
+  THEORY-309: 4
+  THEORY-312: 4
+  THEORY-313: 5
+  THEORY-314: 5
+  THEORY-315: 4
+  THEORY-318: 6
+  THEORY-319: 5
+  THEORY-321: 9
+  THEORY-324: 14
+  THEORY-332: 17
+  THEORY-334: 3
+  THEORY-362: 5
+  THEORY-365: 5
+  THEORY-367: 6
+  THEORY-368: 5
+  THEORY-369: 4
+  THEORY-377: 6
+  THEORY-380: 5
+  THEORY-382: 4
+  THEORY-387: 6
+  THEORY-391: 6
+  THEORY-419: 8
+  THEORY-472: 5
+  THEORY-478: 6
+  THEORY-527: 8
+  THEORY-548: 7
+  THEORY-566: 5
+  THEORY-580: 4
+  THEORY-585: 5
+  THEORY-714: 9
+  THEORY-744: 8
+unsure:
+  THEORY-026: kind 1 rests on LIT-041 asserting the feedback result beyond its one channel; check its
+    abstract
+  THEORY-073: still Proposed (owner question open); nothing is lost while it stays Proposed
+  THEORY-158: 'source theorem read but not re-derived: kind 1, or does the owner want unchecked source
+    theorems left in bodies?'
+  THEORY-160: 'same: a theorem the source quotes, unread by the record'
+  THEORY-171: 'same: an unrefereed preprint theorem, proof not checked'
+  THEORY-244: 'same: Theorem 6.27, one step asserted'
+  THEORY-247: 'same: classical cited theorems; low value as a separate THEORY'
+  THEORY-318: 'same: proofs in companion papers not held'
+  THEORY-367: 'same: rewrite rules not given in the source'
+  THEORY-387: 'same: extension asserted, proof in an unpublished report'
+  THEORY-478: 'same: cited kernel lemmas'
+  THEORY-161: kind 2 (the record generalised to the class) or kind 1 (the papers present themselves as
+    representative)
+  THEORY-246: kind 3 (the paper's own data cut against the lead clause), not kind 1; but Kornblith et
+    al. do assert a separation-transfer trade-off
+  THEORY-290: 'kind 1 or kind 2: whether the paper itself claims the result for debaters generally'
+  THEORY-362: 'kind 1 but low value: a cost claim argued in prose'
+  THEORY-377: 'kind 1 but low value: convergence argued from a balance condition'
+  THEORY-334: the "holding costs more than re-fetching" inference already has an Active rival (THEORY-346);
+    file it as a Proposed THEORY set against that rival, or leave it in the body?
+summary:
+  clauses_by_kind:
+    1: 54
+    2: 2
+    3: 39
+    4: 30
+  codes_to_file: 52
+  kind1_codes: 51
+  kind2_only_codes: 1
+  batches:
+  - batch: 1
+    codes:
+    - THEORY-194
+    - THEORY-083
+    - THEORY-026
+    - THEORY-222
+    - THEORY-172
+  - batch: 2
+    codes:
+    - THEORY-195
+    - THEORY-187
+    - THEORY-211
+    - THEORY-229
+    - THEORY-117
+  - batch: 3
+    codes:
+    - THEORY-163
+    - THEORY-175
+    - THEORY-278
+    - THEORY-216
+    - THEORY-171
+  - batch: 4
+    codes:
+    - THEORY-275
+    - THEORY-158
+    - THEORY-166
+    - THEORY-178
+    - THEORY-204
+  - batch: 5
+    codes:
+    - THEORY-253
+    - THEORY-181
+    - THEORY-213
+    - THEORY-243
+    - THEORY-714
+  - batch: 6
+    codes:
+    - THEORY-190
+    - THEORY-244
+    - THEORY-272
+    - THEORY-527
+    - THEORY-256
+  - batch: 7
+    codes:
+    - THEORY-306
+    - THEORY-160
+    - THEORY-255
+    - THEORY-270
+    - THEORY-290
+  - batch: 8
+    codes:
+    - THEORY-293
+    - THEORY-294
+    - THEORY-295
+    - THEORY-318
+    - THEORY-367
+  - batch: 9
+    codes:
+    - THEORY-377
+    - THEORY-387
+    - THEORY-391
+    - THEORY-478
+    - THEORY-247
+  - batch: 10
+    codes:
+    - THEORY-267
+    - THEORY-313
+    - THEORY-362
+    - THEORY-365
+    - THEORY-472
+  - batch: 11
+    codes:
+    - THEORY-334
+    - THEORY-161

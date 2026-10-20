@@ -33,7 +33,7 @@ summary: >-
   distribution-fitting RBM keeps the noise. The equivalence with a
   short-ranged effective Hamiltonian is shown only for 1D and quasi-1D.
 ---
-<!-- inactive-ok-file: QUESTION-025 THEORY-036 THEORY-017 THEORY-194 — Proposed or open; cited as accounts this reading is set beside and what it produced -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-036 THEORY-017 — Proposed or open; cited as accounts this reading is set beside and what it produced -->
 
 # NOTE-674: Mutual information, neural networks and the renormalization group
 

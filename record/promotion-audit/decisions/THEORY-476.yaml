@@ -1,0 +1,64 @@
+# record/promotion-audit/decisions/THEORY-476.yaml
+id: THEORY-476
+batch: batch-060
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+title_asserts: conditional argument with a definitional core
+hand_label: argument
+triage_007_label: theorem
+classifier_agrees: false
+formal_in_fact: partly
+scope:
+  accepted: >-
+    The conditional's first consequent re-derives from the antecedent,
+    taking R reflexive and symmetric (as Lewis does) and I(s, s') to hold
+    when some continuant person has both s and s' as stages.
+    (1) I implies R: if s, s' lie in one person P, and P is by definition
+    R-interrelated (every two of its stages are R-related), then R(s, s').
+    (2) R implies I: if R(s, s'), the set {s, s'} is R-interrelated. The
+    R-interrelated sets of stages are closed under unions of chains, since
+    any two members of the union lie in a common member of the chain. So by
+    Zorn's lemma {s, s'} lies in a maximal R-interrelated set, which is a
+    person by the definition. So I(s, s'). Hence I = R.
+    (3) Overlap in fission: let s0 be R-related to b1 and to b2, with b1
+    and b2 not R-related. By (2), {s0, b1} and {s0, b2} lie in maximal
+    aggregates P1 and P2. P1 is not P2, since b1 and b2 cannot lie in one
+    R-interrelated set. So P1 and P2 share s0. When fission makes R
+    non-transitive, the persons overlap.
+    (4) Counting: since persons share stages, the number of persons
+    exceeds the number of stages at a pre-fission time. A count of
+    "persons at t" that gives one before fission therefore counts
+    something other than persons by identity. This is Lewis's tensed
+    identity, which "is not a kind of identity".
+  excluded: >-
+    The middle clause, "so Parfit's premises do not show that identity is
+    not what matters", is Lewis's interpretive conclusion. It reads "what
+    matters is identity" as "what matters is the I-relation among
+    stages", and whether that reading is fair is the point at issue. The
+    promote_when also asks for an argument for the definition of persons
+    as maximal R-interrelated aggregates, which a derivation from the
+    definition cannot supply. Note that (2) needs Zorn's lemma, or
+    finiteness, for maximality. Lewis does not raise this, and it is
+    harmless.
+evidence:
+  - "Lewis (1976), LIT-446, read in NOTE-373."
+  - "The derivation (1)-(4) above."
+blockers:
+  - "An argument for the stipulated definition of a continuant person, or the plural-desire reply argued for."
+notes: >-
+  A split under ADR-040 is available. The core "if persons are maximal
+  R-interrelated aggregates, then I = R and fission makes persons overlap"
+  is stated by Lewis (pp. 22-25) and re-derived above, so it would be a
+  THEORY, not a demonstrated CLAIM. It is not filed. The core is
+  near-definitional, and nothing in the record would cite it apart from the
+  argument it serves. Whether splits of textbook or definitional cores
+  should stand is the owner question already open on THEORY-110 and
+  THEORY-673. The classifier's theorem call is a false positive (an
+  "If ... then" title), though the conditional's formal half is real.
+owner_question: >-
+  Add THEORY-476's definitional core to the split question (THEORY-110,
+  -673). Split it only if the owner wants such cores held separately.
+next_action: "Retain. Wave 5 only on a change to its promote_when or rival (THEORY-447)."

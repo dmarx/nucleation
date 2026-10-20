@@ -1,0 +1,64 @@
+# record/promotion-audit/decisions/THEORY-334.yaml
+id: THEORY-334
+batch: batch-063
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: measurement plus inference
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3. One study, Ballard, Hayhoe, Pook and Rao (BBS 1997), read in
+    full in NOTE-883 from the author-posted typeset PDF; this review fetched
+    the same file again (cs.utexas.edu/~dana/bbs.pdf) and checked the
+    numbers it keeps against the extracted text. Kept, each measured: 1.3
+    looks at the model per block on average (text, §3.2); the
+    model-pickup-model-drop cycle "the most frequently used by all the
+    subjects, far outweighing the others", about 43% of cycles read off
+    Figure 9b (seven subjects; the plot was rendered and read in NOTE-883,
+    the number is approximate); Table 7, titled "Speed vs. memory tradeoffs
+    observed", gives that cycle 3 s per block against 2.5, 2.0 and 1.5 s for
+    the cycles that hold colour, position or both, with subjects told to
+    work as quickly as possible; 1.0 looks per block with model and copy
+    70° apart and 0.7 with one-colour patterns (text); in three subjects a
+    colour change during a saccade raised fixation time by about 50 ms
+    before pickup and 129 ms after (text and Figure 11). No statistics are
+    reported, and the title says so.
+  excluded: >-
+    "Most often once for colour and once for position" is the authors'
+    coding of the cycle, not a measurement of what each look fetched; it
+    leaves the title. "Keep only the property the current step needs"
+    generalises the colour-change result (one property, three subjects);
+    the narrowed title states the measured difference instead. "That
+    holding information costs more than re-fetching it is inferred from
+    these choices" reports the authors' inference. It is the point THEORY-346
+    (Active) contests: a model that prices memory and display access in time
+    alone fits a copying task, and the per-block tallies of Table 7 may not
+    separate encoding spread over a trial. It leaves the title and stays in
+    the body with that rival, so the promoted title asserts only what was
+    observed. "Choose the slowest strategy" is kept as slowest in the
+    authors' observed per-block tallies, which is what Table 7 shows.
+  moved_to_question: >-
+    The promote_when, unchanged, to a new QUESTION: a study with enough
+    participants for statistics, with the costs of looking and of holding
+    varied independently and total time per strategy measured per person.
+evidence:
+  - "LIT-1075, read in full in NOTE-883 (target article pp. 723–742, Tables 1–7, Figures 9b and 11 rendered and read); Table 7 and §3.2 re-checked here against the same PDF."
+contradictions_in_record: >-
+  THEORY-346 (Active) contradicts the inference the old title reported,
+  not the observations the narrowed title keeps. The Open Peer Commentary
+  (not read in NOTE-883) includes Bogacz, who reads Table 7's
+  timings as task unfamiliarity rather than memory cost; that is another
+  reading of the same observations, recorded in the body.
+blockers: []
+notes: >-
+  Confidence is medium: seven subjects, a figure read off a plot for the
+  43%, and no statistics. The v3 conditions hold because the title now
+  says no more than the article reports observing, with its hedges.
+unlocks: []
+next_action: "Carried out in #277."

@@ -1,22 +1,27 @@
 ---
 number: 243
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6lt8x
-promote_when: >-
-  A demonstration in a trained network, not a constructed one, of two
-  alignments of the same high-level variable that differ by a change of
-  basis crossing component boundaries and agree on every interchange
-  intervention drawn from the data distribution, together with a showing
-  that some further intervention, or nothing, separates them. Or a proof
-  that, for a stated class of networks and high-level models, alignments
-  that agree on all such interventions for every aligned variable are
-  unique up to a stated symmetry. The first would extend the account from
-  the toy to trained models; the second would bound it. What cannot
-  settle it: further cases where one alignment scores higher, since the
-  account is about ties under a fixed set of interventions.
-title: 'Interchange interventions on a fixed set of variables can be satisfied equally by different alignments related by a change of basis, so which internal direction is the mediating variable is fixed only relative to a chosen decomposition into units'
-version: 1
+title: 'In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal change of basis, pass every interchange intervention on the input equally, so interchange interventions on that variable alone do not fix which internal direction mediates it'
+version: 3
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-243 (batch 062, ADR-047 v2). The tie was re-derived and checked
+    numerically for every pair of inputs. The title now states what the
+    constructed network proves, and no longer generalises to "fixed only
+    relative to a chosen decomposition into units". A tie in a trained
+    network, or a uniqueness bound, the former promote_when, moves to
+    QUESTION-234.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-802,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - causality
 - philosophy-of-science
@@ -28,16 +33,20 @@ source:
 summary: >-
   Wu et al. (2024), [LIT-961](../literature.d/LIT-961.md), Appendix A, and Makelov et al. (2023),
   [LIT-968](../literature.d/LIT-968.md), Appendix A.3 and §8, read in [NOTE-809](../notes.d/NOTE-809.md) and [NOTE-782](../notes.d/NOTE-782.md).
-  Both rotate the same three-unit identity network and find that the input
-  aligns with h₃ in one basis and with (h₁ + h₂)/√2 in the other, equally
-  well under interchange interventions on the input variable. Intervening
-  on further variables separates them. Makelov et al. rest their verdict
-  on component boundaries; the reply rests its on the interventions
-  performed. Shown exactly for one constructed network only; that trained
-  networks have many such ties is conjectured.
+  Both rotate the same three-unit identity network. The input aligns with
+  h₃ in one basis and with (h₁ + h₂)/√2 in the other, equally well under
+  interchange interventions on the input (re-derived 2026-10-20). The
+  reply says intervening on further variables separates them; that was not
+  checked. Makelov et al. rest their verdict on component boundaries; the
+  reply rests its on the interventions performed. Shown exactly for one
+  constructed network only; whether trained networks have such ties is
+  open (QUESTION-234).
+extended_by:
+- THEORY-802
 ---
+<!-- inactive-ok-file: THEORY-802 — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
-# THEORY-243: Interchange interventions on a fixed set of variables can be satisfied equally by different alignments related by a change of basis, so which internal direction is the mediating variable is fixed only relative to a chosen decomposition into units
+# THEORY-243: In the three-unit identity network x ↦ x(1, 0, 1) ↦ (0, 2, 1)·h, aligning the input with the third unit and aligning it with the direction (h₁ + h₂)/√2, two alignments related by an orthogonal change of basis, pass every interchange intervention on the input equally, so interchange interventions on that variable alone do not fix which internal direction mediates it
 
 ## Source
 
@@ -112,3 +121,44 @@ interchange intervention on the aligned variable. In the toy, none does.
   one bearer.
 - **[THEORY-282](THEORY-282.md)** is the illusion this tie complicates: whether a
   direction is illusory or faithful depends, in the toy, on the basis.
+
+## Note of 2026-10-20: the tie re-derived
+
+The promotion audit (batch 062) worked the toy through.
+
+**Standard basis.** h = (x, 0, x), with readout weights (0, 2, 1).
+
+- Unit 3 carries x and is read.
+- Unit 1 carries x and is not read.
+- Unit 2 is read and is always 0.
+
+Patching unit 3 from x′ gives h = (x, 0, x′), so y = x′.
+
+**Rotated basis.** Makelov et al.'s d₁ = (e₁ + e₂)/√2,
+d₂ = (−e₁ + e₂ − 2e₃)/√6 and d₃ = (−e₁ + e₂ + e₃)/√3 are orthonormal. Per
+unit x, h has coordinates (1/√2, −3/√6, 0) in this basis, and the readout
+has (√2, 0, √3). So d₁, d₂ and d₃ play the roles of e₃, e₁ and e₂.
+
+Patching along d₁ sets h ← h + ((h′ − h)·d₁)d₁. This gives
+h = (x + (x′ − x)/2, (x′ − x)/2, x), so y = (x′ − x) + x = x′.
+
+Both alignments therefore pass the interchange on the input for every
+pair (x, x′). A numerical check on 1000 random pairs agrees to 5 × 10⁻¹⁵.
+Patching the carried-but-unread direction, e₁ or d₂, leaves y = x in
+either basis.
+
+**What the title dropped.** The title used to say that "which internal
+direction is the mediating variable is fixed only relative to a chosen
+decomposition into units". That holds in this network. As a general
+statement it needs the trained-network tie or the uniqueness bound that
+the former promote_when asked for, and that is now [QUESTION-234](../questions.d/QUESTION-234.md).
+
+The reply's remark that aligning a second variable separates the two
+alignments was not checked. [CLAIM-150](../claims.d/CLAIM-150.md) cites this account as a proved
+instance of interventional underdetermination, and the narrowed title
+still supplies that.
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 069) filed [THEORY-802](THEORY-802.md)
+as Proposed, extending this entry. It carries the general reading this entry's title carried before batch 062 narrowed it: that interchange interventions leave the mediating direction fixed only relative to a chosen decomposition into units, in trained networks as well, with several correct abstractions expected in complex models, as Wu et al. conjecture. This entry is its evidence and is not changed by the filing.

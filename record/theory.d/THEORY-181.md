@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmps9ng8
 title: "In a model that decodes the sum of two learned embeddings, at zero training loss with an injective decoder, a training set fixes the generalising representation of addition when its same-answer pairs leave only translation and scale free; for non-modular addition with p = 10 and one-dimensional embeddings, generalisation sets in near the training fraction, about 0.4, at which that becomes likely"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -16,6 +16,15 @@ history:
     the one size Liu et al. measured, non-modular addition with p = 10 and
     1D embeddings. The former promote_when, a test across sizes, moves to
     QUESTION-199.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The wider claim this account dropped when it was narrowed, that
+    grokking's critical training fraction is where the training set fixes
+    the representation, for addition at every group size, as the paper
+    proposes, is filed as the Proposed THEORY-782, which extends this
+    one (ADR-047 v4, narrowing-loss sweep, batch 068). Status and title
+    are unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -35,7 +44,10 @@ summary: >-
   by this mechanism, and for S₃ the networks generalise beyond it.
 answers:
 - QUESTION-058
+extended_by:
+- THEORY-782
 ---
+<!-- inactive-ok-file: THEORY-782 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 
 <!-- inactive-ok-file: THEORY-022 — Proposed; named as the neighbouring account of the modular-addition circuit -->
 
@@ -137,3 +149,12 @@ fraction tracks the nullity threshold at other sizes, which the former
 promote_when asked, is [QUESTION-199](../questions.d/QUESTION-199.md). Power et al.'s critical fraction
 comes from a different task, modular arithmetic with a transformer, and
 the title no longer names it.
+
+## Note of 2026-10-20: the wider claim, filed separately
+
+When this account was narrowed, its wider form went nowhere a later result
+could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
+[THEORY-782](THEORY-782.md): that grokking's critical training fraction is where the
+training set fixes the representation, for addition at every group size,
+as the paper proposes. This account is that one's evidence, and nothing
+here changes.

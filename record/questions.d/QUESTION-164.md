@@ -18,6 +18,8 @@ summary: >-
   which the law of balance is proved. Whether the law holds for a deep
   network trained on real data is not shown; the tests are small synthetic
   networks.
+answered_by:
+- THEORY-790
 ---
 
 # QUESTION-164: Does the law of balance hold in a deep network trained on real data during its limiting dynamics: for parameter groups related by a rescaling symmetry, does the difference of squared norms move toward the value where the groups' gradient-noise traces are equal, at a rate that scales with learning rate over batch size?

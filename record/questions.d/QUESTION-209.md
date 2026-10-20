@@ -21,6 +21,8 @@ summary: >-
   Goodman and Levy's signalling games listeners read a novel signal by its
   alternative. The evidence is a fit of condition means with no rival
   model fitted.
+answered_by:
+- THEORY-785
 ---
 
 # QUESTION-209: Do listeners in reference and signalling games invert an informative speaker when alternatives and costs are manipulated with the uttered form held fixed, the model's parameters are set in advance, and its predictions are tested on trial-level data against a literal listener and a likelihood-only model?

@@ -18,6 +18,8 @@ summary: >-
   pairs, reach unseen combinations as coverage grows and not under up to
   four times more data of the same combinations. Whether that survives
   honest model selection, another architecture or more concepts is open.
+answered_by:
+- THEORY-794
 ---
 
 # QUESTION-207: Without choosing checkpoints on the unseen pairs, does coverage of combinations still beat volume for compositional generalization, in a second architecture or with more than two concepts?

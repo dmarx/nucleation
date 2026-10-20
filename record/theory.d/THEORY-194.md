@@ -1,22 +1,10 @@
 ---
 number: 194
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpsylqv
-promote_when: >-
-  A system whose relevant variables were not known beforehand, in two or
-  more dimensions, where the coarse-graining that maximizes mutual
-  information with the environment beyond a buffer is computed, iterated,
-  and gives critical exponents that agree with an independent method
-  (high-precision Monte Carlo, series or conformal bootstrap) within
-  stated errors, while a coarse-graining fitted to the data distribution
-  on the same samples does not. Or a proof, for a class of local
-  Hamiltonians in two or more dimensions, that the maximizer yields an
-  effective Hamiltonian whose couplings decay with distance. More
-  rediscoveries of block spins or of other variables already known cannot
-  settle it, because the account was shown on exactly those.
-title: 'For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about'
-version: 3
+title: 'On Monte Carlo samples of the 2D Ising model and of the 2D dimer model with added noise spins, a block coarse-graining trained to maximize mutual information with the system beyond a buffer recovered the variables renormalization already uses (Kadanoff block spins; the dimers'' low-momentum electric fields, with no weight on the noise), and iterated on 128 × 128 Ising samples gave the flow away from the critical point, locating it to about 1% and giving ν ≈ 1.0 ± 0.15, while a restricted Boltzmann machine trained by contrastive divergence on the noisy dimer data coupled to the noise and to columnar patterns instead'
+version: 5
 history:
 - version: 2
   date: '2026-10-09'
@@ -41,6 +29,25 @@ history:
     optimum; and Gökmen et al. 2021 (LIT-889, read in NOTE-692),
     the 2D Ising results and the ensemble of optimal filters. Neither meets
     promote_when. The claim is unchanged.
+- version: 4
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-194 (batch 061, ADR-047 v3). The title moves from "the
+    renormalization-group relevant one" for the 1D and 2D Ising and 2D
+    dimer models to what LIT-873, read in full in NOTE-674, measured on
+    the two 2D models, with the figures checked against the arXiv PDF. The
+    1D filter comparison is among three candidate filters, so it stays in
+    the body. The closing gloss, that which variables a compression keeps
+    is set by what it must stay informative about, is the record's
+    reading and moves to a dated note. The promote_when moves unchanged to
+    QUESTION-232.
+- version: 5
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added: the wider claim this entry's narrowing
+    dropped is now filed as THEORY-789, Proposed, which extends
+    this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - natural-sciences
 - information-theory
@@ -62,10 +69,14 @@ summary: >-
   relevant variables was tried.
 supports:
 - CLAIM-152
+extended_by:
+- THEORY-789
 ---
+
+<!-- inactive-ok-file: THEORY-789 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: THEORY-036 THEORY-017 QUESTION-025 — Proposed or open; cited as accounts this one bears on and the question it does not answer -->
 
-# THEORY-194: For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about
+# THEORY-194: On Monte Carlo samples of the 2D Ising model and of the 2D dimer model with added noise spins, a block coarse-graining trained to maximize mutual information with the system beyond a buffer recovered the variables renormalization already uses (Kadanoff block spins; the dimers' low-momentum electric fields, with no weight on the noise), and iterated on 128 × 128 Ising samples gave the flow away from the critical point, locating it to about 1% and giving ν ≈ 1.0 ± 0.15, while a restricted Boltzmann machine trained by contrastive divergence on the noisy dimer data coupled to the noise and to columnar patterns instead
 
 ## Source
 
@@ -111,7 +122,7 @@ effective Hamiltonian has no coupling across the block.
 - **Not that the objective finds relevant variables in general.** Every 2D
   case had a known answer. The account is that, on these models, the
   objective and RG agree; whether they agree where RG's variables are
-  unknown is what `promote_when` asks.
+  unknown is what [QUESTION-232](../questions.d/QUESTION-232.md) asks.
 - **Not a proof of equivalence with RG in two or more dimensions.** The
   equivalence with a compact, short-ranged effective Hamiltonian is proved
   only for 1D and quasi-1D chains, and the 1D comparison is among three
@@ -140,3 +151,36 @@ as their example of: the compression that counts is the one that keeps
 information about the far field. The objective is a variant of the
 information bottleneck ([LIT-338](../literature.d/LIT-338.md)) with the environment as the relevance
 variable.
+
+## Note of 2026-10-20: scope at promotion
+
+Promoted on one study read in full ([ADR-047](../decisions.d/ADR-047.md) v3). [NOTE-674](../notes.d/NOTE-674.md) read the
+figures from their captions. For the promotion they were checked against
+the arXiv PDF of [LIT-873](../literature.d/LIT-873.md) (18 pp.). Fig. 2(A) shows a single hidden unit
+weighting a 2 × 2 block uniformly. Fig. 4 shows 8 × 8 filters with the
+staggered E_y and E_x ± E_y patterns. Fig. 5 shows effective temperature
+against RG step for starting T/T_c from 0.98 to 1.03: the curve from 0.99
+flows down and the one from 1.002 flows up. Fig. 11 shows the
+contrastive-divergence filters coupling to the noise pairs, then to
+columnar textures. The 1% and ν ≈ 1.0 ± 0.15 are stated in the text,
+together with the method (finite-size data collapse over four RG steps,
+5000 samples per temperature). The supplement's Fig. 9 says only that
+the slope is "consistent with" ν = 1.
+
+Three things are left out of the title. First, the 1D result: it compares
+three filters on the paper's proxy for mutual information, to leading
+order in block size, and decimation scores twice the boundary filter.
+That does not show decimation maximizes the objective over all filters.
+Second, the general equivalence with renormalization, which
+[QUESTION-232](../questions.d/QUESTION-232.md) now carries. Third, the former title's closing
+gloss, that which variables a compression keeps is set by what it must
+stay informative about. That is the record's reading of these results,
+and [THEORY-202](THEORY-202.md) cites this account for it. The results are consistent
+with it but do not test it apart from the choice of environment.
+
+## Note of 2026-10-20: the wider claim filed
+
+The promotion audit narrowed this entry to what was shown. Under
+[ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, that the mutual-information criterion finds the renormalization-group-relevant variables in general, where they are not known beforehand. The record's gloss, that which variables a compression keeps is set by what it must stay informative about, is already carried by [CLAIM-152](../claims.d/CLAIM-152.md), which grounds on this entry, is now filed as
+[THEORY-789](THEORY-789.md), Proposed, which extends this entry and takes it as
+evidence. This entry's title and status are unchanged.

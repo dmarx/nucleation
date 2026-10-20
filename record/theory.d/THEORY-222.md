@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpuumxo
 title: 'With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -22,6 +22,12 @@ history:
     structure is most effective" becomes "the level at which effective
     information is highest". The promote_when, which asks whether the gain
     survives one distribution at both levels, moves to QUESTION-204.
+- version: 4
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added: the wider claim this entry's narrowing
+    dropped is now filed as THEORY-787, Proposed, which extends
+    this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - causality
 - complex-systems
@@ -43,7 +49,11 @@ summary: >-
   intervention distribution at both levels is QUESTION-204.
 answers:
 - QUESTION-093
+extended_by:
+- THEORY-787
 ---
+
+<!-- inactive-ok-file: THEORY-787 — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 <!-- inactive-ok-file: THEORY-497 — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
 <!-- inactive-ok-file: THEORY-071 — Proposed; compared, nothing here rests on them -->
 
@@ -154,3 +164,10 @@ interventions uniform over the two macro states EI = 1 bit. The macro
 gains about 0.189 bits, and the level with the highest EI is the macro
 one. The construction depends on the uniform distribution being imposed
 again at the macro level, which weights d at 1/2 instead of 1/4.
+
+## Note of 2026-10-20: the wider claim filed
+
+The promotion audit narrowed this entry to what was shown. Under
+[ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, that causation itself, not only effective information, can be most effective at a macro scale, is now filed as
+[THEORY-787](THEORY-787.md), Proposed, which extends this entry and takes it as
+evidence. This entry's title and status are unchanged.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpcasth
 title: 'In an ensemble of sign-consistent Boolean rules on the 87-gene core of E. coli''s regulatory network, a transient knockout or overexpression of one gene can leave the network in a different attractor after release, and every gene that does so reaches a strongly connected component containing a positive circuit'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -17,6 +17,15 @@ history:
     law of synchronous Boolean networks it fails. A dated note below gives
     the counterexample. The promote_when, a transient perturbation in
     cells with slow return excluded, moves unchanged to QUESTION-172.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The wider claim this account dropped when it was narrowed, that
+    transcriptional regulation alone can give a bacterium's expression
+    state a memory of a transient disturbance, as the paper predicts for
+    cells, is filed as the Proposed THEORY-780, which extends this
+    one (ADR-047 v4, narrowing-loss sweep, batch 068). Status and title
+    are unchanged.
 tags:
 - complex-systems
 - network-science
@@ -37,7 +46,10 @@ summary: >-
   cells; that experiment is QUESTION-172.
 supports:
 - CLAIM-184
+extended_by:
+- THEORY-780
 ---
+<!-- inactive-ok-file: THEORY-780 — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 
 <!-- inactive-ok-file: THEORY-058 — Proposed; named as a neighbouring self-maintaining-loop account -->
 
@@ -137,3 +149,12 @@ because the 36 genes that are never irreversible are 32 leaves and four
 genes (metJ, pdhR, argP, nac) whose only output is an autorepressive leaf
 ([NOTE-655](../notes.d/NOTE-655.md), from the Supplementary Text). The title therefore states the
 condition as measured in this network.
+
+## Note of 2026-10-20: the wider claim, filed separately
+
+When this account was narrowed, its wider form went nowhere a later result
+could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
+[THEORY-780](THEORY-780.md): that transcriptional regulation alone can give a
+bacterium's expression state a memory of a transient disturbance, as the
+paper predicts for cells. This account is that one's evidence, and nothing
+here changes.

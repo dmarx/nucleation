@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/THEORY-153.yaml
+id: THEORY-153
+batch: batch-061
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing new. The title states Beer's Viable System Model as Beer
+    states it in his 1984 retrospective (LIT-752, read in NOTE-577 from a
+    reprint missing a page and the figures). The model gives five
+    necessary and sufficient subsystems, recursion at every level, and
+    characteristic pathologies.
+  excluded: >-
+    Promotion on any route. It is not a theorem: "only if" is a modelling
+    postulate, and Beer himself calls the number five arbitrary, relative
+    to a rubric. It is not a measurement: the support is Beer's recalled
+    consultancy, and the paper declines to demonstrate validity. As an
+    argument it has no premises from which the necessity follows. The
+    promote_when asks for comparative field evidence from independent
+    raters, which no review can supply.
+evidence:
+  - "NOTE-577; THEORY-153 'What was actually shown': 'Nothing here is shown in the sense of tested.'"
+blockers:
+  - "Independent comparative evidence that organizations lacking a function (especially System Four) degrade as the model predicts."
+  - "Brain of the Firm (LIT-746, Unavailable) for the subsystems' functions."
+notes: >-
+  Hand label: argument (an unvalidated model stated as necessary
+  conditions). Triage-007's theorem signal fired on "only if" and "when
+  ... the system degrades". Wave 5 cannot move it, because the
+  promote_when is empirical. It waits on data, so keep it off the review
+  queue.
+unlocks: []
+next_action: >-
+  Retain. Off the review queue until independent comparative evidence is
+  filed.

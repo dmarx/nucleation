@@ -26,7 +26,7 @@ refined_by:
 ---
 <!-- inactive-ok-file: LIT-485 — Unavailable; registered unread, named as the account of constitutive rules that bears on the conceptual half -->
 <!-- inactive-ok-file: CLAIM-130 — Proposed; a partial answer, cited as open -->
-<!-- inactive-ok-file: THEORY-287 THEORY-243 — Proposed; readings filed today that bear on each half, cited with their limits, not as settled -->
+<!-- inactive-ok-file: THEORY-287 — Proposed; readings filed today that bear on each half, cited with their limits, not as settled -->
 
 # QUESTION-030: Which interventions tell the relations that constitute a communicative act from those that only accompany or diagnose it?
 

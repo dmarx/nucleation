@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**488 documents cited without acknowledgement.** Not listed: 10195 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**486 documents cited without acknowledgement.** Not listed: 10172 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1369,7 +1369,7 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 
 A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
 
-9 citations in 3 files await a look; 23 other citations of it are acknowledged.
+9 citations in 3 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
 - [`record/literature.d/LIT-970.md:80`](../../record/literature.d/LIT-970.md)
@@ -2076,7 +2076,7 @@ Minimal agency requires individuality, interactional asymmetry and self-generate
 - [`record/claims.d/CLAIM-194.md:31`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:62`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:67`](../../record/claims.d/CLAIM-194.md)
-- [`record/questions.d/QUESTION-032.md:88`](../../record/questions.d/QUESTION-032.md)
+- [`record/questions.d/QUESTION-032.md:89`](../../record/questions.d/QUESTION-032.md)
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:78`](../../record/questions.d/QUESTION-128.md)
 
@@ -2331,7 +2331,7 @@ Durable authority among an organization's processes need not be a primitive: tru
 
 A pattern can persist while every constituent is replaced and some constituents work against it, as a high-turnover regime of damage and repair, so the persistence of a product and the persistence of the organization producing it are separate facts
 
-5 citations in 3 files await a look; 23 other citations of it are acknowledged.
+5 citations in 3 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-102.md:56`](../../record/cases.d/CASE-102.md)
 - [`record/claims.d/CLAIM-329.md:41`](../../record/claims.d/CLAIM-329.md)
@@ -2547,7 +2547,7 @@ If pretraining text is a mixture of hidden Markov models indexed by a latent con
 
 The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
 
-5 citations in 1 file await a look.
+5 citations in 1 file await a look; 2 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
@@ -2772,8 +2772,8 @@ Kothapalli — Neural Collapse: A Review on Modelling Principles and Generalizat
 
 - [`record/literature.d/LIT-978.md:6`](../../record/literature.d/LIT-978.md)
 - [`record/literature.d/LIT-978.md:22`](../../record/literature.d/LIT-978.md)
-- [`record/literature.d/LIT-978.md:68`](../../record/literature.d/LIT-978.md)
-- [`record/literature.d/LIT-978.md:94`](../../record/literature.d/LIT-978.md)
+- [`record/literature.d/LIT-978.md:67`](../../record/literature.d/LIT-978.md)
+- [`record/literature.d/LIT-978.md:93`](../../record/literature.d/LIT-978.md)
 
 ### [NOTE-784](../../record/notes.d/NOTE-784.md) — Skimmed
 
@@ -2834,7 +2834,7 @@ In relational frame theory the self is verbal behaviour's content, its process a
 
 Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales
 
-4 citations in 2 files await a look; 45 other citations of it are acknowledged.
+4 citations in 2 files await a look; 50 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-194.md:31`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-194.md:59`](../../record/claims.d/CLAIM-194.md)
@@ -3056,7 +3056,7 @@ A combined form constituted by mutual entrainment is not thereby a self in the s
 
 Mutual entrainment is a sufficient mark of a combined form, and marks it as one of peers: when each side adjusts the other's timing the pair carries a collective variable neither has alone; one-way drive also makes a combined form, with a hierarchical architecture
 
-3 citations in 1 file await a look; 42 other citations of it are acknowledged.
+3 citations in 1 file await a look; 43 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:31`](../../record/questions.d/QUESTION-063.md)
@@ -3080,7 +3080,7 @@ A gap or coupling criterion cannot tell a boundary a system produces from one im
 
 - [`record/cases.d/CASE-101.md:64`](../../record/cases.d/CASE-101.md)
 - [`record/cases.d/CASE-102.md:59`](../../record/cases.d/CASE-102.md)
-- [`record/questions.d/QUESTION-032.md:88`](../../record/questions.d/QUESTION-032.md)
+- [`record/questions.d/QUESTION-032.md:89`](../../record/questions.d/QUESTION-032.md)
 
 ### [CLAIM-201](../../record/claims.d/CLAIM-201.md) — Proposed
 
@@ -3800,7 +3800,7 @@ Mindfulness integrates a population of interests by changing which of them may a
 
 One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership
 
-2 citations in 1 file await a look; 27 other citations of it are acknowledged.
+2 citations in 1 file await a look; 28 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-063.md:21`](../../record/questions.d/QUESTION-063.md)
 - [`record/questions.d/QUESTION-063.md:31`](../../record/questions.d/QUESTION-063.md)
@@ -4286,7 +4286,7 @@ Goals pursued for identified or intrinsic reasons receive more sustained effort,
 
 A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them
 
-2 citations in 1 file await a look; 12 other citations of it are acknowledged.
+2 citations in 1 file await a look; 13 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:59`](../../record/questions.d/QUESTION-051.md)
@@ -4367,7 +4367,7 @@ Perceptual consciousness overflows cognitive access: in partial-report tasks mor
 
 Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls
 
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
+2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:58`](../../record/questions.d/QUESTION-051.md)
@@ -4516,15 +4516,6 @@ On sparse hierarchical data, deep networks become insensitive to swapping synony
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
 - [`record/questions.d/QUESTION-039.md:57`](../../record/questions.d/QUESTION-039.md)
 
-### [THEORY-204](../../record/theory.d/THEORY-204.md) — Proposed
-
-In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows
-
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:58`](../../record/questions.d/QUESTION-039.md)
-
 ### [THEORY-207](../../record/theory.d/THEORY-207.md) — Proposed
 
 Responsibility for a morally loaded outcome that emerges from morally neutral interactions in a network of agents can be allocated without fault or intention, by default and overridably, in full to every causally accountable node, and a rule so allocating it, made common knowledge, works as a corrective that prevents such outcomes
@@ -4547,7 +4538,7 @@ In a two-layer linear network trained by gradient flow, the relative scale of th
 
 Crowd-maintained r/place images persist as an equilibrium of attack and repair, and their abrupt overthrow is preceded by several distinct precursors, including the defenders' own conduct, rather than by one generic warning signal, while many overthrows give no warning
 
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
+2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-111.md:27`](../../record/cases.d/CASE-111.md)
 - [`record/cases.d/CASE-111.md:111`](../../record/cases.d/CASE-111.md)
@@ -4592,10 +4583,10 @@ Covert influence that exploits a person's decision-making vulnerabilities harms 
 
 Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows
 
-2 citations in 1 file await a look; 21 other citations of it are acknowledged.
+2 citations in 1 file await a look; 23 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-202.md:42`](../../record/questions.d/QUESTION-202.md)
-- [`record/questions.d/QUESTION-202.md:47`](../../record/questions.d/QUESTION-202.md)
+- [`record/questions.d/QUESTION-202.md:44`](../../record/questions.d/QUESTION-202.md)
+- [`record/questions.d/QUESTION-202.md:49`](../../record/questions.d/QUESTION-202.md)
 
 ### [THEORY-326](../../record/theory.d/THEORY-326.md) — Proposed
 
@@ -4614,15 +4605,6 @@ Database cracking, which partitions a copy of a column in place as a side effect
 
 - [`record/theory.d/THEORY-332.md:100`](../../record/theory.d/THEORY-332.md)
 - [`record/theory.d/THEORY-344.md:99`](../../record/theory.d/THEORY-344.md)
-
-### [THEORY-334](../../record/theory.d/THEORY-334.md) — Proposed
-
-In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics
-
-2 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-346.md:103`](../../record/theory.d/THEORY-346.md)
-- [`record/theory.d/THEORY-360.md:117`](../../record/theory.d/THEORY-360.md)
 
 ### [THEORY-339](../../record/theory.d/THEORY-339.md) — Proposed
 
@@ -4657,7 +4639,7 @@ Tetris players rotate pieces more often and earlier than planning a placement an
 
 2 citations in 2 files await a look.
 
-- [`record/theory.d/THEORY-334.md:112`](../../record/theory.d/THEORY-334.md)
+- [`record/theory.d/THEORY-334.md:117`](../../record/theory.d/THEORY-334.md)
 - [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
 
 ### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
@@ -5599,14 +5581,6 @@ Organizations that espouse revising their governing values characteristically fa
 
 - [`record/claims.d/CLAIM-025.md:52`](../../record/claims.d/CLAIM-025.md)
 
-### [THEORY-194](../../record/theory.d/THEORY-194.md) — Proposed
-
-For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about
-
-1 citation in 1 file awaits a look; 49 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-152.md:117`](../../record/claims.d/CLAIM-152.md)
-
 ### [THEORY-199](../../record/theory.d/THEORY-199.md) — Proposed
 
 In data generated by a random hierarchical grammar, the Bayes-optimal denoiser recovers the top-level class only below a threshold noise, which becomes sharp as the tree deepens and exists only when the grammar uses a small enough fraction of possible tuples (branching times that fraction below one), while low-level features degrade smoothly with noise and so survive past the threshold
@@ -5614,6 +5588,14 @@ In data generated by a random hierarchical grammar, the Bayes-optimal denoiser r
 1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-010.md:63`](../../record/questions.d/QUESTION-010.md)
+
+### [THEORY-201](../../record/theory.d/THEORY-201.md) — Proposed
+
+In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay
+
+1 citation in 1 file awaits a look; 26 other citations of it are acknowledged.
+
+- [`record/theory.d/THEORY-784.md:48`](../../record/theory.d/THEORY-784.md)
 
 ### [THEORY-203](../../record/theory.d/THEORY-203.md) — Proposed
 
@@ -5629,15 +5611,15 @@ Agency is multiply realisable without cognition or mental states, and AI is a ne
 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-032.md:92`](../../record/questions.d/QUESTION-032.md)
+- [`record/questions.d/QUESTION-032.md:93`](../../record/questions.d/QUESTION-032.md)
 
 ### [THEORY-249](../../record/theory.d/THEORY-249.md) — Proposed
 
 Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided
 
-1 citation in 1 file awaits a look; 11 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-228.md:47`](../../record/questions.d/QUESTION-228.md)
+- [`record/questions.d/QUESTION-228.md:49`](../../record/questions.d/QUESTION-228.md)
 
 ### [THEORY-258](../../record/theory.d/THEORY-258.md) — Proposed
 
@@ -5747,9 +5729,9 @@ Moral judgment is usually caused by quick affective intuitions, and moral reason
 
 Whether an identified system is an agent or a device can be cast as Bayesian model comparison between descriptions of the function it optimises and descriptions of its input-output mapping, so the verdict is relative to the observer's prior; on toy gridworld trajectories goal-seeking comes out agent-like and wall-following device-like, and some priors make everything look like an agent
 
-1 citation in 1 file awaits a look; 1 other citation of it is acknowledged.
+1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-228.md:57`](../../record/questions.d/QUESTION-228.md)
+- [`record/questions.d/QUESTION-228.md:59`](../../record/questions.d/QUESTION-228.md)
 
 ### [THEORY-625](../../record/theory.d/THEORY-625.md) — Proposed
 
@@ -5820,32 +5802,41 @@ None. Every scanned file is checked. ✅
 - record/claims.d/CLAIM-387.md:36: annotation no longer applies — THEORY-163 is Active now
 - record/claims.d/CLAIM-394.md:38: annotation no longer applies — NOTE-1015 is Active now
 - record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
+- record/literature.d/LIT-1254.md:37: annotation no longer applies — THEORY-202 is Active now
 - record/literature.d/LIT-1257.md:50: annotation no longer applies — THEORY-202 is Active now
 - record/literature.d/LIT-1289.md:43: annotation no longer applies — NOTE-1013 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-810.md:52: annotation no longer applies — THEORY-155 is Active now
 - record/literature.d/LIT-871.md:80: annotation no longer applies — QUESTION-025 is Active now
+- record/literature.d/LIT-878.md:81: annotation no longer applies — nothing in scope cites THEORY-017
+- record/literature.d/LIT-882.md:67: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-891.md:75: annotation no longer applies — QUESTION-025 is Active now
 - record/notes.d/NOTE-1022.md:45: annotation no longer applies — NOTE-1013 is Active now
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-631.md:34: annotation no longer applies — THEORY-155 is Active now
+- record/notes.d/NOTE-694.md:35: annotation no longer applies — QUESTION-025 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/notes.d/NOTE-970.md:41: annotation no longer applies — nothing in scope cites LIT-1252
+- record/notes.d/NOTE-972.md:45: annotation no longer applies — THEORY-202 is Active now
 - record/notes.d/NOTE-973.md:37: annotation no longer applies — nothing in scope cites THEORY-747
-- record/notes.d/NOTE-984.md:44: annotation no longer applies — nothing in scope cites THEORY-744
+- record/notes.d/NOTE-988.md:52: annotation no longer applies — THEORY-163 is Active now
 - record/questions.d/QUESTION-217.md:34: annotation no longer applies — CLAIM-394, THEORY-775 is Active now
-- record/questions.d/QUESTION-220.md:33: annotation no longer applies — THEORY-163 is Active now
+- record/questions.d/QUESTION-220.md:32: annotation no longer applies — THEORY-163 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
-- record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
+- record/theory.d/THEORY-083.md:61: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-188.md:48: annotation no longer applies — QUESTION-025 is Active now
-- record/theory.d/THEORY-201.md:42: annotation no longer applies — QUESTION-025 is Active now
-- record/theory.d/THEORY-213.md:42: annotation no longer applies — QUESTION-080 is Active now
+- record/theory.d/THEORY-201.md:56: annotation no longer applies — QUESTION-025 is Active now
+- record/theory.d/THEORY-202.md:45: annotation no longer applies — QUESTION-025 is Active now
+- record/theory.d/THEORY-213.md:54: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
 - record/theory.d/THEORY-255.md:44: annotation no longer applies — nothing in scope cites LIT-316
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now
 - record/theory.d/THEORY-299.md:42: annotation no longer applies — QUESTION-148 is Active now
 - record/theory.d/THEORY-301.md:41: annotation no longer applies — THEORY-008 is Active now
-- record/theory.d/THEORY-751.md:50: annotation no longer applies — THEORY-163 is Active now
+- record/theory.d/THEORY-742.md:44: annotation no longer applies — THEORY-202 is Active now
+- record/theory.d/THEORY-745.md:36: annotation no longer applies — THEORY-744 is Active now
+- record/theory.d/THEORY-751.md:48: annotation no longer applies — THEORY-163 is Active now
+- record/theory.d/THEORY-757.md:24: annotation no longer applies — THEORY-751 is Active now
 - record/theory.d/THEORY-771.md:64: annotation no longer applies — NOTE-1020 is Active now

@@ -19,6 +19,8 @@ summary: >-
   ratio of onset times saturating at 2, and on a rotated quadratic only
   when the eigendirections are misaligned with the coordinates. That is
   simulation. A derivation, and a test on a trained network, are open.
+answered_by:
+- THEORY-783
 ---
 
 # QUESTION-193: Does sign descent provably delay each weaker skill until the stronger one is learned when a loss's eigendirections are misaligned with the coordinates, and does changing only the optimizer turn a trained network's simultaneous skill onsets into a sequence?

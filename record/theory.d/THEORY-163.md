@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp64mn6
 title: "In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -15,6 +15,13 @@ history:
     the title uses. "The world's languages" becomes the World Color Survey
     languages and English, and the title names the source estimated from the
     naming data. The promote_when moves to QUESTION-214.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 066, ADR-047 v4) filed
+    THEORY-791 as a Proposed THEORY that extends this one, to carry
+    what the narrowing dropped: the general claim about the world's
+    languages. This entry's status and title are unchanged.
 tags:
 - linguistics
 - information-theory
@@ -34,7 +41,10 @@ summary: >-
   best is estimated from the naming data themselves.
 supports:
 - CLAIM-092
+extended_by:
+- THEORY-791
 ---
+<!-- inactive-ok-file: THEORY-791 — Proposed; the wider claim this account was narrowed from, which extends it and is cited as open -->
 
 # THEORY-163: In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data
 
@@ -88,3 +98,11 @@ not in the data, a stated failure.
 - **Not that I(W;U) is the right notion of accuracy for communication in
   general.** It follows from taking KL as the distortion between
   meanings, which is one choice of loss.
+
+## Note of 2026-10-20: the wider claim filed separately
+
+When this THEORY was narrowed to what its source showed, the wider claim
+it had stated was left with nowhere to go but this body and a QUESTION.
+Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now its own Proposed THEORY, [THEORY-791](THEORY-791.md), which extends
+this one: the general claim about the world's languages. This entry is that THEORY's evidence and is not
+changed by it.

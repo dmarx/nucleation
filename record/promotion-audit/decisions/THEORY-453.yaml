@@ -1,0 +1,41 @@
+# record/promotion-audit/decisions/THEORY-453.yaml
+id: THEORY-453
+batch: batch-060
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument (a possibility thesis in metaphysics)
+hand_label: argument
+triage_007_label: theorem
+classifier_agrees: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    The body reports Esfeld and Lam (2008) accurately (NOTE-695, read in
+    full). Its last clause, that GR's tensor and fibre-bundle formulations
+    fit the reading but do not require it, is a correct description of
+    what the paper shows (p. 41, "naturally receive").
+  excluded: >-
+    The thesis itself, that basic objects can be nothing beyond the
+    bearers of their relations, and that primitive numerical diversity
+    without thisness suffices where nothing discerns them, is argued, not
+    derived. Its promote_when asks for a defence that primitive diversity
+    is coherent and is not thisness under another name, and for an account
+    of points in symmetric space-times. Both are argumentative work that no
+    re-derivation or measurement can supply.
+evidence:
+  - "Esfeld and Lam (2008), LIT-895, read in NOTE-695."
+blockers:
+  - "The promote_when's defence of primitive diversity against Chakravartty's dilemma (THEORY-034)."
+notes: >-
+  The classifier called it a theorem on "theorem_title", "cites",
+  "shown_thm" and "derived". The title's colon-separated
+  "relations give them identity conditions wherever..." reads like a
+  stated result, but it is a metaphysical position. This is a false
+  positive of the kind NOTES expects (an argument shaped like a theorem).
+  It is not a prevalence-style possibility thesis (the 2026-10-19 owner
+  rule): the defeater it names is conceptual (primitive diversity is
+  thisness), not a rate.
+next_action: "Wave 5 only if its promote_when, premises or rivals change (batch 041's lesson)."
