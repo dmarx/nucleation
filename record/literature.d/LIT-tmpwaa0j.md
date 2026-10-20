@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read in full 2026-10-19 ([NOTE-tmphzb5j](../notes.d/NOTE-tmphzb5j.md)), with its supporting online material and the 2008 e-letter exchange; worth reading as the first full-body version of the rubber hand illusion and the experiment the self-model theory cites for global body ownership. Two groups of 14 people saw, through a head-mounted display, a video of a body 2 m in front of them being stroked on the back. When the stroking was synchronous with strokes on their own back, they rated the seen body as theirs and, displaced blindfolded, walked back to a spot about 17 to 25 cm toward it. A mannequin worked; a rectangular object weakened the drift and was not felt as one''s body. Nobody reported leaving the body or seeing from elsewhere, so the authors call it heautoscopy-like, not an out-of-body experience. Read it as two small samples with modest, partly inconsistent effects, and with a rival reading (self-recognition in a video system) that its critics raised and its design does not exclude.'
 title: 'Video Ergo Sum: Manipulating Bodily Self-Consciousness'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -23,6 +23,10 @@ history:
     record's gap around the rubber hand illusion and bodily
     self-consciousness, alongside Botvinick & Cohen 1998, Blanke &
     Metzinger 2009, Apps & Tsakiris 2014 and Seth 2013.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Filed as a source of THEORY-tmpuehzc. Standing says so.
 tags:
 - self
 - neuroscience
@@ -58,6 +62,7 @@ summary: >-
   integration as body-part ownership, constrained by knowledge of what a
   body looks like.
 ---
+<!-- inactive-ok-file: THEORY-tmpuehzc — Proposed; filed from this reading, named -->
 <!-- inactive-ok-file: THEORY-064 — Proposed; the account this reading bears on, not leaned on -->
 <!-- inactive-ok-file: LIT-1186 — Unavailable; the attempted out-of-body study compared by its abstract, not leaned on -->
 
@@ -119,3 +124,5 @@ the disembodiment that defines an out-of-body experience. It carries no
 instruction for machine-learning practice.
 
 Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Botvinick & Cohen 1998, the rubber hand illusion ([LIT-tmpu9yys](LIT-tmpu9yys.md)); Blanke & Metzinger 2009, minimal phenomenal selfhood ([LIT-tmpnbv1d](LIT-tmpnbv1d.md)); Apps & Tsakiris 2014, the free-energy self ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)); Seth 2013, interoceptive inference ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)).
+
+Filed from this work on 2026-10-20: [THEORY-tmpuehzc](../theory.d/THEORY-tmpuehzc.md), on minimal selfhood, as the full-body illusion it leans on.

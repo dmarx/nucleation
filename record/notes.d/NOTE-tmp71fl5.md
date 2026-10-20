@@ -33,6 +33,7 @@ summary: >-
   self-specific. The authors grant there is little direct evidence and
   that the account is hard to falsify with standard fMRI.
 ---
+<!-- inactive-ok-file: THEORY-tmpxdoe8 — Proposed; filed from this reading, named -->
 
 <!-- inactive-ok-file: THEORY-064 — Proposed; Metzinger's self-model account, compared with this reading, not leaned on -->
 <!-- inactive-ok-file: THEORY-322 THEORY-045 — Proposed; accounts of agency and felt affect this reading is compared with, not leaned on -->
@@ -314,8 +315,8 @@ al. 2007 and Blanke and Metzinger 2009, which are being filed alongside it.
   theory.d, claims.d and questions.d for "rubber hand", "body
   ownership", "self-recognition" and "enfacement" found only [THEORY-060](../theory.d/THEORY-060.md),
   which mentions self-recognition in development and does not bear on
-  this account. No instruction for
-  machine-learning practice; nothing for the anthology.
+  this account. [THEORY-tmpxdoe8](../theory.d/THEORY-tmpxdoe8.md), filed on 2026-10-20, now holds it. No
+  instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations
 

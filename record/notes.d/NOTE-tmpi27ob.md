@@ -34,6 +34,7 @@ summary: >-
   rubber-hand susceptibility, and a heartbeat-synchronous virtual hand
   owned more. No direct test is claimed.
 ---
+<!-- inactive-ok-file: THEORY-tmpom3z2 — Proposed; filed from this reading, named -->
 <!-- inactive-ok-file: THEORY-045 THEORY-064 THEORY-291 — Proposed; accounts this reading bears on, named in prose, nothing here rests on them -->
 <!-- inactive-ok-file: NOTE-507 — Skimmed; a reading of Damasio & Damasio named in the survey of the interoception cluster, not leaned on -->
 <!-- inactive-ok-file: QUESTION-059 — Deferred; the question about felt affect this reading bears on, named and not leaned on -->
@@ -320,7 +321,7 @@ reversed; Crossref has "exteroceptive and interoceptive".
   body ownership draws on interoceptive as well as exteroceptive
   signals. This reading supports proposing one, and the
   sibling filings on the rubber hand and full-body illusions would be its
-  other sources.
+  other sources. [THEORY-tmpom3z2](../theory.d/THEORY-tmpom3z2.md), filed on 2026-10-20, now states it.
 - No instruction for machine-learning practice; nothing for the
   anthology.
 

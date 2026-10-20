@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read in full 2026-10-19 ([NOTE-tmpi27ob](../notes.d/NOTE-tmpi27ob.md)); worth reading as the short statement that put emotion and body ownership under one predictive-coding mechanism: felt emotion is the content of top-down predictions of the causes of interoceptive signals, the anterior insula is the comparator, and the experience of body ownership is what the brain infers to be "most likely to be me" from interoceptive and exteroceptive signals together. It is an opinion article with no new data. Its evidence is indirect and cited, and its one figure is a study by the author''s own group, an augmented-reality rubber hand illusion whose virtual hand flashed in or out of time with the heartbeat. The record''s bridge from its interoception cluster to body ownership.'
 title: 'Interoceptive inference, emotion, and the embodied self'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -23,6 +23,10 @@ history:
     which is `published:` under ADR-002 (received 14 August, accepted 18
     September 2013). PubMed lists two comment letters in Trends in
     Cognitive Sciences 18(6), 2014, which were not read.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Filed as a source of THEORY-tmpom3z2. Standing says so.
 tags:
 - emotion-and-affect
 - self
@@ -56,6 +60,7 @@ summary: >-
   greater susceptibility to it, and a virtual hand pulsing in time with the
   heartbeat is owned more. No direct test of the model is claimed.
 ---
+<!-- inactive-ok-file: THEORY-tmpom3z2 — Proposed; filed from this reading, named -->
 <!-- inactive-ok-file: THEORY-045 THEORY-064 — Proposed; accounts this reading bears on, named in prose, nothing here rests on them -->
 
 # LIT-tmp2v8qs: Interoceptive inference, emotion, and the embodied self
@@ -128,3 +133,5 @@ Where it meets the record, set out in the NOTE:
   account of motor control to autonomic control.
 
 Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Botvinick & Cohen 1998, the rubber hand illusion ([LIT-tmpu9yys](LIT-tmpu9yys.md)); Lenggenhager et al. 2007, the full-body illusion ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)); Blanke & Metzinger 2009, minimal phenomenal selfhood ([LIT-tmpnbv1d](LIT-tmpnbv1d.md)); Apps & Tsakiris 2014, the free-energy self ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)).
+
+Filed from this work on 2026-10-20: [THEORY-tmpom3z2](../theory.d/THEORY-tmpom3z2.md), on interoceptive signals in body ownership.

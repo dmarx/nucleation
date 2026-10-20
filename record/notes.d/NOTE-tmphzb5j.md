@@ -32,6 +32,7 @@ summary: >-
   self-recognition in a video system rather than an illusion of
   ownership.
 ---
+<!-- inactive-ok-file: THEORY-tmpuehzc — Proposed; filed from this reading, named -->
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; accounts this reading bears on, not leaned on -->
 <!-- inactive-ok-file: LIT-1186 — Unavailable; the attempted out-of-body study compared by its abstract, not leaned on -->
 
@@ -244,8 +245,9 @@ being filed alongside this reading.
   disembodiment and shifted perspective that define an out-of-body
   experience is the line a reading of it would need, and it says the
   laboratory illusion does not cross it.
-- **No THEORY is filed** from this reading. A candidate is noted in the
-  report to the owner.
+- **[THEORY-tmpuehzc](../theory.d/THEORY-tmpuehzc.md)** (filed 2026-10-20) takes this study, with Blanke and
+  Metzinger 2009, as a source for minimal selfhood as identification with
+  the whole body.
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations

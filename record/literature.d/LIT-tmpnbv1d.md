@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-10-19 ([NOTE-tmplqqpe](../notes.d/NOTE-tmplqqpe.md)) in full; worth reading as the short programmatic paper that names minimal phenomenal selfhood (MPS), the simplest form of the experience of being a self, and splits it into three dimensions: self-identification with the body as a whole, self-location, and a weak, purely geometrical first-person perspective. Its distinctive move is to set partial ownership (the rubber-hand illusion, somatoparaphrenia) apart from global ownership, and to say only the second reaches MPS, so that full-body illusions and neurological out-of-body phenomena, not the rubber hand, are the entry point. Its most quotable thesis is that bodily agency "is a causally enabling, but not a constitutive condition, for phenomenal selfhood". An opinion piece: no new data, the evidence cited, and the necessity and sufficiency claims asserted.'
 title: 'Full-body illusions and minimal phenomenal selfhood'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -21,6 +21,10 @@ history:
     owner's request to fill the record's gap on the rubber-hand illusion
     and bodily self-consciousness, alongside Botvinick and Cohen (1998),
     Lenggenhager et al. (2007), Apps and Tsakiris (2014) and Seth (2013).
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Filed as a source of THEORY-tmpuehzc. Standing says so.
 tags:
 - self
 - consciousness
@@ -54,6 +58,7 @@ summary: >-
   full-body illusions of Lenggenhager et al. and Ehrsson (2007) do. Agency
   is causally enabling for MPS but not constitutive of it.
 ---
+<!-- inactive-ok-file: THEORY-tmpuehzc — Proposed; filed from this reading, named -->
 
 <!-- inactive-ok-file: THEORY-064 THEORY-458 — Proposed; accounts this reading bears on, not leaned on -->
 
@@ -123,3 +128,5 @@ It carries no instruction for machine-learning practice; its remark on
 artificial systems is a conceptual possibility, not a practice.
 
 Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Botvinick & Cohen 1998, the rubber hand illusion ([LIT-tmpu9yys](LIT-tmpu9yys.md)); Lenggenhager et al. 2007, the full-body illusion ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)); Apps & Tsakiris 2014, the free-energy self ([LIT-tmp0tcx9](LIT-tmp0tcx9.md)); Seth 2013, interoceptive inference ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)).
+
+Filed from this work on 2026-10-20: [THEORY-tmpuehzc](../theory.d/THEORY-tmpuehzc.md), on minimal selfhood as identification with the whole body.

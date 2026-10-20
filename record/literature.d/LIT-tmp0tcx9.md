@@ -2,7 +2,7 @@
 status: Active
 status_note: 'read 2026-10-19 ([NOTE-tmp71fl5](../notes.d/NOTE-tmp71fl5.md)) in full; worth reading as the first statement of the predictive-processing account of self-recognition and body ownership: one''s own face, voice and body are recognised as "me" because a high-level, multimodal prior makes them the most probable cause of correlated input across the senses, and the rubber hand, enfacement and "rubber voice" illusions are that prior being updated when synchronous multisensory stimulation leaves surprise to explain away. Read it as a theoretical review that, by its authors'' own account, rests on evidence that "neither largely supports nor refutes" it: no data, no model, no simulation, and predictions they call hard to falsify with standard fMRI.'
 title: 'The free-energy self: A predictive coding account of self-recognition'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
@@ -20,6 +20,10 @@ history:
     authors' accepted manuscript in PubMed Central (PMC3848896, Europe PMC
     funders' author manuscript EMS54501), which OpenAlex lists as the
     green open-access copy.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Filed as a source of THEORY-tmpxdoe8. Standing says so.
 tags:
 - self
 - neuroscience
@@ -59,6 +63,7 @@ summary: >-
   engaged but not self-specific; predicted self-stimuli suppress activity.
   The authors concede there is "little direct evidence" for the account.
 ---
+<!-- inactive-ok-file: THEORY-tmpxdoe8 — Proposed; filed from this reading, named -->
 
 # LIT-tmp0tcx9: The free-energy self: A predictive coding account of self-recognition
 
@@ -114,3 +119,5 @@ the findings require it. Its relations to the record are set out in the
 NOTE.
 
 Filed alongside, in the 2026-10-19 batch on the rubber hand illusion and bodily self-consciousness: Botvinick & Cohen 1998, the rubber hand illusion ([LIT-tmpu9yys](LIT-tmpu9yys.md)); Lenggenhager et al. 2007, the full-body illusion ([LIT-tmpwaa0j](LIT-tmpwaa0j.md)); Blanke & Metzinger 2009, minimal phenomenal selfhood ([LIT-tmpnbv1d](LIT-tmpnbv1d.md)); Seth 2013, interoceptive inference ([LIT-tmp2v8qs](LIT-tmp2v8qs.md)).
+
+Filed from this work on 2026-10-20: [THEORY-tmpxdoe8](../theory.d/THEORY-tmpxdoe8.md), on ownership as a graded belief about the common cause of multisensory input.
