@@ -1,0 +1,40 @@
+# record/promotion-audit/batches/batch-058.yaml
+batch: batch-058
+date: '2026-10-20'
+wave: 5
+reviewed_revision: 583807252166df4f301809572ea8a22c49e874e1
+selection: >-
+  Wave-5 requeues from batches 051, 054, 055 and 056: THEORY-302, -459,
+  -660, -673.
+reviewed:
+  - THEORY-302
+  - THEORY-459
+  - THEORY-660
+  - THEORY-673
+yield: "1 split of 4 (THEORY-673); 3 retained unchanged"
+promotion_prs:
+  - "#272: THEORY-673 split; the Price equation's derivation filed Active as THEORY-tmp9jqpz."
+notes_for_ledger:
+  - >-
+    Batch 041's lesson held again: none of the four had changed since its
+    wave-3 review, and wave 5 moved none of the three pure arguments. Check
+    git log before requeuing an argument; requeue only when a promote_when,
+    premise or rival has changed, or when the entry carries a separable
+    formal core.
+  - >-
+    A separable formal core is the one thing wave 5 reliably yields
+    (THEORY-673, like THEORY-109 and THEORY-110). Whether it becomes a
+    THEORY or a demonstrated CLAIM turns on whether a source states it
+    (THEORY) or the record assembled it (CLAIM, ADR-032).
+  - >-
+    THEORY-302 and THEORY-660 now wait on reading or data tasks, not
+    reviews; THEORY-459 waits on a structural argument from its source or
+    a rival. Track them off the review queue.
+  - >-
+    Main still fails lint on NOTE-981, THEORY-753, THEORY-757 and
+    THEORY-202; #272's CI will stay red until #271 merges.
+owner_questions:
+  - >-
+    THEORY-673's split (#272) files a textbook identity as its own Active
+    THEORY. This is the same question as the THEORY-110 split (#242): should
+    such splits stand?

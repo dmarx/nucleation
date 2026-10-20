@@ -1,0 +1,31 @@
+# record/promotion-audit/decisions/THEORY-660.yaml
+id: THEORY-660
+batch: batch-058
+reviewed: '2026-10-20'
+reviewed_revision: 583807252166df4f301809572ea8a22c49e874e1
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: explanatory thesis
+formal_in_fact: false
+supersedes: batch-055
+scope:
+  accepted: >-
+    Reviewed as interpretive synthesis (wave 5). No change since batch 055.
+    The thesis that branching geometry "is set by" surface minimisation is
+    argued from qualitative agreement between a local penalised optimiser
+    on two symmetric motifs and six 3D network classes.
+  excluded: >-
+    As an argument it does not establish the causal "is set by": the
+    trifurcation excess is partly made by the merging rule, the one
+    robustness check moves the key probability 4.3-fold, and the sprouting
+    breakpoints have no null. Its promote_when names three reanalyses
+    (no merging rule, minimiser on random terminals, breakpoint test
+    against a smooth model) that are data work, not argument.
+evidence:
+  - "NOTE-075 on LIT-069; batch 055's review."
+blockers:
+  - "The three reanalyses named in the promote_when."
+notes: "Unchanged by wave 5; nothing formal to split off."
+unlocks: []
+next_action: "None from the audit; the reanalyses are beyond a review."
