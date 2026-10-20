@@ -17,6 +17,8 @@ summary: >-
   and promoted [THEORY-181](../theory.d/THEORY-181.md) to the zero-loss injective model and to the one
   size Liu et al. measured. The former promote_when asked for the
   multi-size test; this question holds it.
+answered_by:
+- THEORY-tmplgh5u
 ---
 
 # QUESTION-199: Does the training fraction at which networks summing two learned embeddings generalise follow the fraction at which the training set's same-answer equations leave only translation and scale free, across group sizes?

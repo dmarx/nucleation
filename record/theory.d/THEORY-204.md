@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpi172b
 title: 'On TinyStories and WikiText-103, the data-limited exponent of transformer test loss, fitted to the lower envelope of learning curves across context lengths at up to about 10^8 training tokens, overlaps γ/(2β), where β is the decay with lag of the top singular value of the token–token covariance and γ the decay of next-token conditional entropy with context length; under assumed per-lag scaling forms, a horizon n*(P) ~ P^(1/(2β)) gives the exponent min(δ, γ/(2β)), δ being the decay rate of the within-horizon excess losses'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
@@ -17,6 +17,14 @@ history:
     the measured match and the conditional derivation, and no longer says
     the horizon is why real learners show the exponent. That test, the
     former promote_when, moves to QUESTION-233.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    The wider claim this account dropped when it was narrowed, that the
+    horizon is why language models show the data-limited exponent γ/(2β),
+    as the paper proposes, is filed as the Proposed THEORY-tmpz9axt, which
+    extends this one (ADR-047 v4, narrowing-loss sweep, batch 068). Status
+    and title are unchanged.
 tags:
 - learning-theory
 - linguistics
@@ -36,7 +44,10 @@ summary: >-
   Whether the horizon is why is open (QUESTION-233).
 answers:
 - QUESTION-039
+extended_by:
+- THEORY-tmpz9axt
 ---
+<!-- inactive-ok-file: THEORY-tmpz9axt — Proposed; the wider claim this account dropped, filed separately and cited as open -->
 <!-- inactive-ok-file: THEORY-201 QUESTION-025 — Proposed or open; cited as the accounts this one extends or is set beside and the question it does not answer -->
 
 # THEORY-204: On TinyStories and WikiText-103, the data-limited exponent of transformer test loss, fitted to the lower envelope of learning curves across context lengths at up to about 10^8 training tokens, overlaps γ/(2β), where β is the decay with lag of the top singular value of the token–token covariance and γ the decay of next-token conditional entropy with context length; under assumed per-lag scaling forms, a horizon n*(P) ~ P^(1/(2β)) gives the exponent min(δ, γ/(2β)), δ being the decay rate of the within-horizon excess losses
@@ -150,3 +161,10 @@ reaches the prediction.
 does not show that the horizon is the reason. The test that would, the
 former promote_when, is now [QUESTION-233](../questions.d/QUESTION-233.md).
 
+## Note of 2026-10-20: the wider claim, filed separately
+
+When this account was narrowed, its wider form went nowhere a later result
+could confirm or reject it. Under [ADR-047](../decisions.d/ADR-047.md) v4 it is now the Proposed
+[THEORY-tmpz9axt](THEORY-tmpz9axt.md): that the horizon is why language models show the data-
+limited exponent γ/(2β), as the paper proposes. This account is that one's
+evidence, and nothing here changes.
