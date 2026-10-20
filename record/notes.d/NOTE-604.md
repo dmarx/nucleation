@@ -33,7 +33,6 @@ summary: >-
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading bears on it without settling its promote_when -->
-<!-- inactive-ok-file: THEORY-166 — Proposed; this reading is its primary source -->
 <!-- inactive-ok-file: LIT-316 — Unavailable; the book is unread here -->
 
 # NOTE-604: Wang, Solloway, Shiffrin & Busemeyer, the QQ equality in 72 surveys

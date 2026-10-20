@@ -37,7 +37,7 @@ summary: >-
   Promoted on 2026-10-20. Replication and a test that varies the law are
   QUESTION-tmpu5do1.
 ---
-<!-- inactive-ok-file: QUESTION-027 QUESTION-052 CLAIM-142 CLAIM-193 CLAIM-209 THEORY-002 THEORY-175 — Open or Proposed; cited for context, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-027 QUESTION-052 CLAIM-142 CLAIM-193 CLAIM-209 THEORY-002 — Open or Proposed; cited for context, nothing here rests on them -->
 
 # THEORY-230: The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of those laws alone, so models with identical laws share it, while activation geometry changes under invertible reparameterizations of the hidden layer that leave outputs unchanged; in Picozzi's ten transformer, state-space and recurrent models it agreed at a mean rank correlation of 0.88 against 0.62 for activation geometry, and about 9% of the top eigenvector overlap exceeded a null matched to the shared laws
 

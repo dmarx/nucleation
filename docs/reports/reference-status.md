@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**493 documents cited without acknowledgement.** Not listed: 9507 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**490 documents cited without acknowledgement.** Not listed: 9417 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2163,8 +2163,8 @@ In a language a term's value is fixed by its relations to the coexisting terms o
 6 citations in 5 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-072.md:42`](../../record/claims.d/CLAIM-072.md)
-- [`record/claims.d/CLAIM-082.md:98`](../../record/claims.d/CLAIM-082.md)
-- [`record/claims.d/CLAIM-082.md:116`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:97`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:115`](../../record/claims.d/CLAIM-082.md)
 - [`record/literature.d/LIT-774.md:99`](../../record/literature.d/LIT-774.md)
 - [`record/notes.d/NOTE-594.md:257`](../../record/notes.d/NOTE-594.md)
 - [`record/notes.d/NOTE-664.md:261`](../../record/notes.d/NOTE-664.md)
@@ -2297,8 +2297,8 @@ Where the model with a candidate structure is singular at the parameters that sw
 
 5 citations in 3 files await a look; 5 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-154.md:114`](../../record/claims.d/CLAIM-154.md)
-- [`record/claims.d/CLAIM-154.md:124`](../../record/claims.d/CLAIM-154.md)
+- [`record/claims.d/CLAIM-154.md:113`](../../record/claims.d/CLAIM-154.md)
+- [`record/claims.d/CLAIM-154.md:123`](../../record/claims.d/CLAIM-154.md)
 - [`record/decisions.d/ADR-040.md:152`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-040.md:35`](../../record/questions.d/QUESTION-040.md)
 - [`record/questions.d/QUESTION-040.md:50`](../../record/questions.d/QUESTION-040.md)
@@ -2477,7 +2477,7 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 
 5 citations in 5 files await a look; 6 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-041.md:120`](../../record/claims.d/CLAIM-041.md)
+- [`record/claims.d/CLAIM-041.md:119`](../../record/claims.d/CLAIM-041.md)
 - [`record/claims.d/CLAIM-341.md:200`](../../record/claims.d/CLAIM-341.md)
 - [`record/notes.d/NOTE-245.md:167`](../../record/notes.d/NOTE-245.md)
 - [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
@@ -2608,8 +2608,8 @@ A multi-session argument's thesis can move without any participant arguing for t
 
 - [`record/claims.d/CLAIM-332.md:102`](../../record/claims.d/CLAIM-332.md)
 - [`record/questions.d/QUESTION-047.md:30`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:48`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:64`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:49`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:65`](../../record/questions.d/QUESTION-047.md)
 
 ### [CLAIM-199](../../record/claims.d/CLAIM-199.md) — Proposed
 
@@ -2918,17 +2918,6 @@ What an utterance does to the context it is used in is part of its meaning, and 
 - [`record/claims.d/CLAIM-363.md:101`](../../record/claims.d/CLAIM-363.md)
 - [`record/literature.d/LIT-838.md:107`](../../record/literature.d/LIT-838.md)
 - [`record/notes.d/NOTE-644.md:173`](../../record/notes.d/NOTE-644.md)
-
-### [THEORY-261](../../record/theory.d/THEORY-261.md) — Proposed
-
-In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length
-
-4 citations in 3 files await a look; 6 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-921.md:28`](../../record/literature.d/LIT-921.md)
-- [`record/literature.d/LIT-921.md:96`](../../record/literature.d/LIT-921.md)
-- [`record/notes.d/NOTE-779.md:213`](../../record/notes.d/NOTE-779.md)
-- [`record/theory.d/THEORY-272.md:100`](../../record/theory.d/THEORY-272.md)
 
 ### [THEORY-285](../../record/theory.d/THEORY-285.md) — Proposed
 
@@ -4150,7 +4139,7 @@ Structural Anthropology
 
 2 citations in 2 files await a look; 11 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-082.md:59`](../../record/claims.d/CLAIM-082.md)
+- [`record/claims.d/CLAIM-082.md:58`](../../record/claims.d/CLAIM-082.md)
 - [`record/decisions.d/ADR-034.md:40`](../../record/decisions.d/ADR-034.md)
 
 ### [LIT-928](../../record/literature.d/LIT-928.md) — Unavailable
@@ -4493,7 +4482,7 @@ When a group learns only about the options its members pursue and good evidence 
 2 citations in 1 file await a look; 19 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:52`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:53`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-146](../../record/theory.d/THEORY-146.md) — Proposed
 
@@ -4502,7 +4491,7 @@ Industry can bias a scientific community toward a worse treatment without corrup
 2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:54`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:55`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-147](../../record/theory.d/THEORY-147.md) — Proposed
 
@@ -4520,7 +4509,7 @@ A group learning by trying needs diversity in what its members pursue that lasts
 2 citations in 1 file await a look; 20 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:31`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:53`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:54`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-151](../../record/theory.d/THEORY-151.md) — Proposed
 
@@ -4529,7 +4518,7 @@ Scientific objectivity belongs to a community's critical practices rather than t
 2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-047.md:32`](../../record/questions.d/QUESTION-047.md)
-- [`record/questions.d/QUESTION-047.md:55`](../../record/questions.d/QUESTION-047.md)
+- [`record/questions.d/QUESTION-047.md:56`](../../record/questions.d/QUESTION-047.md)
 
 ### [THEORY-154](../../record/theory.d/THEORY-154.md) — Proposed
 
@@ -5642,22 +5631,6 @@ Organizations that espouse revising their governing values characteristically fa
 
 - [`record/claims.d/CLAIM-025.md:52`](../../record/claims.d/CLAIM-025.md)
 
-### [THEORY-166](../../record/theory.d/THEORY-166.md) — Proposed
-
-Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability
-
-1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-082.md:51`](../../record/questions.d/QUESTION-082.md)
-
-### [THEORY-175](../../record/theory.d/THEORY-175.md) — Proposed
-
-Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ
-
-1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-950.md:103`](../../record/literature.d/LIT-950.md)
-
 ### [THEORY-194](../../record/theory.d/THEORY-194.md) — Proposed
 
 For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about
@@ -5881,6 +5854,7 @@ None. Every scanned file is checked. ✅
 - record/literature.d/LIT-871.md:80: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-891.md:75: annotation no longer applies — QUESTION-025 is Active now
+- record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
 - record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now

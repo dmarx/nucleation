@@ -30,7 +30,7 @@ summary: >-
   hypotheses. For finite-set models, MAP, ideal MDL and Kolmogorov's
   minimal sufficient statistic coincide.
 ---
-<!-- inactive-ok-file: THEORY-259 THEORY-087 THEORY-036 — Proposed; the theory filed from this reading and the entries it bears on, open -->
+<!-- inactive-ok-file: THEORY-087 THEORY-036 — Proposed; the theory filed from this reading and the entries it bears on, open -->
 
 # NOTE-801: Vitányi & Li — MDL induction, Bayesianism and Kolmogorov complexity
 

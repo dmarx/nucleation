@@ -1,22 +1,21 @@
 ---
 number: 244
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp7cr5e
-promote_when: >-
-  A published version of LIT-224's two new results (Theorem 5.13, Theorem
-  6.27), or of the Vereshchagin–Vitányi individual rate–distortion paper
-  it follows, that fills in the step in Theorem 6.27's right-hand
-  inequality this reading found asserted. The other bridges (Theorems 2.10
-  and 3.6) were checked and are standard. Only the distortion-rate clause
-  waits on that check. It is refuted by a computable source f for which
-  expected Kolmogorov complexity exceeds entropy by more than K(f) plus a
-  constant. It is also refuted by a recursive source and distortion for
-  which (1/m) E h_x(mR) fails to converge to D*(R). Empirical compression
-  ratios cannot settle it, since a real compressor gives only upper bounds
-  on K.
-title: 'Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution'
-version: 1
+title: "For a computable source distribution f, Shannon entropy and mutual information are the expectations of their Kolmogorov counterparts only to within the complexity of f: 0 ≤ E K(x) − H(f) ≤ K(f) + O(1), and I(X;Y) − K(f) − O(1) ≤ E I(x:y) ≤ I(X;Y) + 2K(f) + O(1); Grünwald and Vitányi's matching statement for the distortion-rate function rests on a step the record has not verified"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-244 (batch 050, ADR-047 v2). The entropy and mutual-information
+    bridges (Theorems 2.10 and 3.6) are re-derived in the dated note below,
+    which the former promote_when already treated as checked. The
+    distortion-rate bridge (Theorem 6.27), the one clause that promote_when
+    waited on, leaves the title's assertion and is reported as unverified;
+    its clause of the promote_when moves to QUESTION-208.
 tags:
 - information-theory
 - learning-theory
@@ -25,17 +24,20 @@ source:
 - LIT-224
 - LIT-239
 summary: >-
-  Grünwald & Vitányi (2004), [LIT-224](../literature.d/LIT-224.md), read in [NOTE-776](../notes.d/NOTE-776.md). For
-  computable f: 0 ≤ E_f K(x) − H(f) ≤ K(f) + O(1) (Thm 2.10);
-  I(X;Y) − K(f) < E I(x:y) < I(X;Y) + 2K(f) (Thm 3.6). The expected
-  structure function brackets D*_m(R) with a K(f, d, m, R) shift in rate,
-  and equals D*(R) per symbol in the limit (Thm 6.27). Sufficiency links
-  only one way (Thm 5.13). None of this holds for a complex or unknown
-  source, or for one string.
+  Grünwald & Vitányi (2004), [LIT-224](../literature.d/LIT-224.md), read in [NOTE-776](../notes.d/NOTE-776.md). For computable f:
+  0 ≤ E_f K(x) − H(f) ≤ K(f) + O(1) (Thm 2.10), and I(X;Y) − K(f) < E
+  I(x:y) < I(X;Y) + 2K(f) to O(1) (Thm 3.6), both re-derived by the record
+  from domination of f by the universal distribution and the coding
+  theorem; the entropy gap is attained by a point mass. The expected
+  structure function is stated to bracket D*_m(R) and to equal D*(R) per
+  symbol in the limit (Thm 6.27), but its right-hand step is asserted, so
+  that bridge is not part of this account's claim ([QUESTION-208](../questions.d/QUESTION-208.md)).
+  Sufficiency links only one way (Thm 5.13). None of this holds for a
+  complex or unknown source, or for one string.
 ---
 <!-- inactive-ok-file: THEORY-277 THEORY-163 THEORY-157 — Proposed; the companion theory filed today and the entries named under Connections -->
 
-# THEORY-244: Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution
+# THEORY-244: For a computable source distribution f, Shannon entropy and mutual information are the expectations of their Kolmogorov counterparts only to within the complexity of f: 0 ≤ E K(x) − H(f) ≤ K(f) + O(1), and I(X;Y) − K(f) − O(1) ≤ E I(x:y) ≤ I(X;Y) + 2K(f) + O(1); Grünwald and Vitányi's matching statement for the distortion-rate function rests on a step the record has not verified
 
 ## Source
 
@@ -61,12 +63,13 @@ supplied as an oracle, the gap is O(1) (eq. 2.5).
 I(X;Y) − K(f) < Σ f(x,y) I(x : y) < I(X;Y) + 2K(f) to within O(1). With f
 in the conditional, equality holds to O(1).
 
-**Distortion–rate (Theorem 6.27, Corollary 6.29).** For a recursive
+**Distortion–rate (Theorem 6.27, Corollary 6.29), stated, not verified.** For a recursive
 distortion d, a total recursive f and m i.i.d. repetitions,
 (1/m) E h_x(mR + K(f, d, m, R) + O(log n)) ≤ D*_m(R) ≤ (1/m) E h_x(mR),
 and lim_{m→∞} (1/m) E h_x(mR) = D*(R). For the uniform source with
 log-cardinality distortion, E h_x(R) = (1 + o(1))(n − R) = (1 + o(1)) D*(R)
-(Example 6.13).
+(Example 6.13). The right-hand step is asserted (see below), so this
+bridge is reported, not claimed; [QUESTION-208](../questions.d/QUESTION-208.md) holds it.
 
 **Sufficiency (Theorem 5.13), one way only.** A sequential statistic
 that is algorithmically sufficient for every x is nearly sufficient in
@@ -119,3 +122,32 @@ For a source with K(f) = O(1) it does not.
   expectation and mutual-information definitions of classical sufficiency
   are equivalent when exact. Remark 5.11 shows they separate under
   approximation, which is how any computed sufficiency is held.
+
+## Note of 2026-10-20: the entropy and mutual-information bridges, re-derived
+
+Promotion audit, batch 050. Two textbook facts are taken as given: the
+universal lower-semicomputable semimeasure m dominates every computable
+mass function, m(x) ≥ c·2^{−K(f)} f(x), and Levin's coding theorem,
+K(x) = −log m(x) + O(1).
+
+1. **Entropy, lower side.** K is the length of a prefix-free program, so
+   Σ_x 2^{−K(x)} ≤ 1 (Kraft), and the noiseless coding theorem gives
+   E_f K(x) ≥ H(f).
+2. **Entropy, upper side.** Domination and the coding theorem give, for
+   every x, K(x) ≤ log 1/f(x) + K(f) + O(1). Taking the f-expectation,
+   E_f K(x) ≤ H(f) + K(f) + O(1).
+3. **The gap is attained.** A point mass on one string x₀ has H = 0 and
+   E K = K(x₀), and K(f) = K(x₀) + O(1). So "only to within K(f)" is the
+   best general statement.
+4. **Mutual information.** With I(x:y) = K(x) + K(y) − K(x,y), apply 1–2
+   to the joint f and to its two marginals, whose complexities are at most
+   K(f) + O(1):
+   - E I(x:y) ≥ H(X) + H(Y) − [H(X,Y) + K(f)] − O(1) = I(X;Y) − K(f) − O(1);
+   - E I(x:y) ≤ [H(X) + K(f)] + [H(Y) + K(f)] − H(X,Y) + O(1) = I(X;Y) + 2K(f) + O(1).
+
+   This is Theorem 3.6's bracket to within O(1).
+
+The distortion-rate bridge was not re-derived. Its right-hand step, which
+identifies h_x(mR) with a sphere radius in a canonical cover, is the one
+the reading found asserted, and the former promote_when waited on it. It
+moves to [QUESTION-208](../questions.d/QUESTION-208.md), and the title now reports it as unverified.

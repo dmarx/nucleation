@@ -43,7 +43,7 @@ summary: >-
 extends:
 - THEORY-018
 ---
-<!-- inactive-ok-file: QUESTION-027 CLAIM-193 CLAIM-209 THEORY-002 THEORY-175 — Open or Proposed; cited for context, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-027 CLAIM-193 CLAIM-209 THEORY-002 — Open or Proposed; cited for context, nothing here rests on them -->
 
 # THEORY-234: Two softmax next-token predictors induce the same distribution exactly when their embeddings and unembeddings are related by an invertible linear map on the subspaces that enter the logits, with arbitrary distortion off them, so a linear relational property is shared by all such models or none when it lies in those subspaces, and can fail to be shared otherwise
 

@@ -61,7 +61,6 @@ grounds:
 - THEORY-081
 ---
 <!-- inactive-ok-file: CLAIM-175 — Proposed; the owner's claim this threshold makes decidable, open -->
-<!-- inactive-ok-file: THEORY-259 — Proposed; the reading that limits the description-length reading of the threshold, not leaned on -->
 
 # CLAIM-154: A candidate structure is worth naming as a unit when its effect-to-noise ratio outruns the Occam cost of keeping it: reify when d'² exceeds the log prior-to-posterior variance ratio
 

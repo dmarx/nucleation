@@ -1,22 +1,21 @@
 ---
 number: 267
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpicw5l
-promote_when: >-
-  A second randomised manipulation experiment on a different prediction
-  market, preferably a real-money one with larger markets, that again
-  finds most of a one-off random shock present after several weeks.
-  Alternatively, a design that measures traders' beliefs before and
-  after the shock and shows whether the persistence comes from learning
-  from the price or from limited rebalancing. The first would establish
-  the persistence beyond Manifold. The second would say whether the
-  persistent price is something traders came to believe. More
-  simulations of the authors' model cannot settle it, and neither can
-  observational studies of historical manipulation attempts, which have
-  no counterfactual price path.
-title: "A prediction-market price can keep most of an arbitrary shock that no trader's information supported for at least sixty days, because later trading undoes only part of it and undoes it ever more slowly"
-version: 1
+title: "In Rasooly and Rozzi's pre-registered randomised experiment on 817 Manifold play-money markets, about 59% of a ±5-point price shock that no trader's information supported was still present after 60 days in unresolved markets, with about 25% undone in the first week and reversion slowing after it; their model of finitely many risk-averse traders gives such partial, slowing reversion even with no learning, and the data cannot tell that from learning"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-267 (batch 050, ADR-047 v3): one primary study read in full, with
+    its regression tables. "A prediction-market price" becomes the Manifold
+    experiment's measured persistence, and "because later trading undoes
+    only part of it" becomes the paper's model, reported with the data's
+    inability to tell it from learning. The former promote_when moves to
+    QUESTION-212.
 tags:
 - social-science
 - epistemology
@@ -36,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-242 — Proposed; filed from a companion reading the same day -->
 
-# THEORY-267: A prediction-market price can keep most of an arbitrary shock that no trader's information supported for at least sixty days, because later trading undoes only part of it and undoes it ever more slowly
+# THEORY-267: In Rasooly and Rozzi's pre-registered randomised experiment on 817 Manifold play-money markets, about 59% of a ±5-point price shock that no trader's information supported was still present after 60 days in unresolved markets, with about 25% undone in the first week and reversion slowing after it; their model of finitely many risk-averse traders gives such partial, slowing reversion even with no learning, and the data cannot tell that from learning
 
 ## Source
 
@@ -111,3 +110,24 @@ gives the counterfactual path that historical studies lacked.
   it as information. There the signal is expressed opinion; here it is
   price. In both cases the record lacks an empirical measure of members'
   private states.
+
+## Note of 2026-10-20: narrowed to the measurement
+
+Promotion audit, batch 050, under [ADR-047](../decisions.d/ADR-047.md) v3. The study is one
+pre-registered randomised field experiment, read in full with its
+regression tables (Tables 2, 3, A1, A3 and A5).
+
+**Kept in the title:**
+- The persistence measured on Manifold. β̂1 was 0.0748 at one week,
+  0.0686 at 30 days, and 0.0586 [0.0114] at 60 days in the 771 markets not
+  yet resolved, all at p < 0.01. So about 59% of the shock remained.
+- The slowing of reversion.
+- The model's mechanism, reported as the model's.
+
+**Dropped from the title:**
+- The generality of "a prediction-market price". This is one platform, at
+  play money, with one shock size, and the small real-money follow-up
+  reverted faster.
+- The causal "because". Whether the persisting price is anyone's belief
+  is the open part, together with replication elsewhere, in
+  [QUESTION-212](../questions.d/QUESTION-212.md).

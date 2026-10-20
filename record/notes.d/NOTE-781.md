@@ -29,7 +29,7 @@ summary: >-
   equally probable. The attributes are independent, so the concept
   lattice is Boolean.
 ---
-<!-- inactive-ok-file: THEORY-183 THEORY-271 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-183 — Proposed; the accounts this reading bears on, and the one filed from it -->
 
 # NOTE-781: Torii, Maeda and Hidaka — Distributional hypothesis as isomorphism
 
