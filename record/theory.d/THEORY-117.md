@@ -16,7 +16,7 @@ history:
     drops the general causal opener. The determination clause is re-derived
     (dated note below), which makes "suitably arranged" exact: the seen
     pairs must connect every value. The promote_when moves to
-    QUESTION-tmpn5l6x.
+    QUESTION-207.
 tags:
 - representation-learning
 - compositionality
@@ -36,7 +36,7 @@ summary: >-
   record re-derived that exactly factored embeddings of every unseen pair
   are fixed by seen pairs connecting every value, as the paper's k = 2
   cycle does. Honest selection, other architectures and more concepts are
-  [QUESTION-tmpn5l6x](../questions.d/QUESTION-tmpn5l6x.md).
+  [QUESTION-207](../questions.d/QUESTION-207.md).
 answers:
 - QUESTION-025
 ---

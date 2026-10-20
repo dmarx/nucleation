@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**494 documents cited without acknowledgement.** Not listed: 9519 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**493 documents cited without acknowledgement.** Not listed: 9507 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1079,26 +1079,6 @@ Jorgensen & Tian — Noncommutative Analysis (GNS, RKHS)
 - [`record/theory.d/THEORY-004.md:52`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:114`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-005.md:44`](../../record/theory.d/THEORY-005.md)
-
-### [THEORY-117](../../record/theory.d/THEORY-117.md) — Proposed
-
-Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one
-
-13 citations in 8 files await a look; 12 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-031.md:36`](../../record/decisions.d/ADR-031.md)
-- [`record/decisions.d/ADR-031.md:77`](../../record/decisions.d/ADR-031.md)
-- [`record/literature.d/LIT-770.md:85`](../../record/literature.d/LIT-770.md)
-- [`record/literature.d/LIT-782.md:89`](../../record/literature.d/LIT-782.md)
-- [`record/literature.d/LIT-783.md:103`](../../record/literature.d/LIT-783.md)
-- [`record/notes.d/NOTE-592.md:177`](../../record/notes.d/NOTE-592.md)
-- [`record/notes.d/NOTE-592.md:181`](../../record/notes.d/NOTE-592.md)
-- [`record/notes.d/NOTE-592.md:186`](../../record/notes.d/NOTE-592.md)
-- [`record/notes.d/NOTE-593.md:167`](../../record/notes.d/NOTE-593.md)
-- [`record/notes.d/NOTE-593.md:175`](../../record/notes.d/NOTE-593.md)
-- [`record/notes.d/NOTE-597.md:156`](../../record/notes.d/NOTE-597.md)
-- [`record/notes.d/NOTE-597.md:164`](../../record/notes.d/NOTE-597.md)
-- [`record/questions.d/QUESTION-025.md:197`](../../record/questions.d/QUESTION-025.md)
 
 ### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
 
