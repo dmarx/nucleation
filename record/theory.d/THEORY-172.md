@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmprknoj
 title: 'In Frank and Goodman''s one-shot reference games, listeners'' mean bets matched a parameter-free listener inverting a speaker who chooses among true utterances by informativeness, with a separately measured salience prior, and not salience alone; and in Bergen, Goodman and Levy''s signalling games with novel symbols, listeners read a signal as excluding what the available alternative would have conveyed'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -26,6 +26,12 @@ history:
     the prior nor the literal meaning alone" keeps only the prior, since no
     likelihood-only model was fitted. The promote_when moves to
     QUESTION-209.
+- version: 4
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added: the wider claim this entry's narrowing
+    dropped is now filed as THEORY-tmp6lphc, Proposed, which extends
+    this one (ADR-047 v4). The title and status are unchanged.
 tags:
 - pragmatics
 - linguistics
@@ -56,8 +62,11 @@ supports:
 - CLAIM-236
 - CLAIM-214
 - CLAIM-242
+extended_by:
+- THEORY-tmp6lphc
 ---
 
+<!-- inactive-ok-file: THEORY-tmp6lphc — Proposed; the wider claim this entry's narrowing dropped, cited as open -->
 # THEORY-172: In Frank and Goodman's one-shot reference games, listeners' mean bets matched a parameter-free listener inverting a speaker who chooses among true utterances by informativeness, with a separately measured salience prior, and not salience alone; and in Bergen, Goodman and Levy's signalling games with novel symbols, listeners read a signal as excluding what the available alternative would have conveyed
 
 ## Source
@@ -141,3 +150,10 @@ alternative at ceiling. Their Experiment 2, the Horn mapping, supports
 lexical uncertainty, which goes beyond the basic inversion, and stays in
 the body as such. Whether listeners compute the inversion, rather than
 follow the alternatives by a simpler route, is [QUESTION-209](../questions.d/QUESTION-209.md).
+
+## Note of 2026-10-20: the wider claim filed
+
+The promotion audit narrowed this entry to what was shown. Under
+[ADR-047](../decisions.d/ADR-047.md) v4 the claim the narrowing dropped, that listeners interpret utterances by inverting an informative speaker, as the mechanism and not only a fit to mean bets, is now filed as
+[THEORY-tmp6lphc](THEORY-tmp6lphc.md), Proposed, which extends this entry and takes it as
+evidence. This entry's title and status are unchanged.
