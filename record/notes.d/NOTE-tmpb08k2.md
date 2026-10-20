@@ -1,0 +1,259 @@
+---
+status: Skimmed
+paper: 'LIT-tmp6vocc'
+title: 'Isett — Continuous, globally dissipative Euler flows'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Skimmed from arXiv:1710.11186v4 (67 pages, 7 February 2022, the
+    author's revision; v1 is of 30 October 2017), text extracted with
+    pdftotext. Read: the abstract and the whole introduction (§1, with
+    Theorems 1–6, Conjectures 1 and 2 and the Burgers example of §1.2.1);
+    Section 2, the dissipative Euler–Reynolds flow and the compound
+    frequency–energy levels; Section 3, the Main Lemma 3.1; Sections
+    4.1–4.5, the shape of the construction, the cascade trios, the
+    coefficient equations for both wave families, well-preparedness
+    (Definition 4.1), the regularizations and the energy increment (117);
+    the opening of Section 4.9 and of 4.10, with the cancellations
+    (214)–(215); Section 4.14, the verification of the Main Lemma and the
+    sign-flip construction of the second flow; Section 5, other dimensions;
+    and Section 6 in full, the parameter recursion, Propositions 6.1–6.3,
+    the Approximation Theorem 7 with Lemma 6.1 and its proof, the
+    Hausdorff-dimension argument and Theorem 8. Paged through without
+    checking: Sections 4.6–4.13, the transport, stress, flux density and
+    current estimates and the commutator estimate (about 30 pages). The
+    exponent algebra of (291)–(306) and the Burgers example were recomputed
+    with a short numpy script. Many displayed formulas were garbled by
+    extraction and were read from their surrounding text and the
+    layout-preserving extraction. The ARMA text was not compared.
+date: '2026-10-20'
+summary: >-
+  The first continuous weak Euler solutions satisfying the local energy
+  inequality with nonzero dissipation: C^α_{t,x}, α < 1/15, on T^d, d ≥ 3,
+  with a Cantor family sharing one initial datum and one dissipation
+  measure. In the construction that measure is a function of time alone,
+  so the coarse-grained flux into vanishing scales is one-way at every
+  place in the limit and uniform in space, switched on only while the
+  solution is drained to zero ([THEORY-tmpxpm2w](../theory.d/THEORY-tmpxpm2w.md)).
+---
+<!-- inactive-ok-file: THEORY-tmpxpm2w THEORY-tmp6pe5a THEORY-tmpnvuqr THEORY-763 — Proposed; the account this reading files, and the three it is compared with -->
+<!-- inactive-ok-file: NOTE-tmpms8u2 NOTE-974 — Skimmed; the readings of the L³-local and the two-signed constructions -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-257 CLAIM-331 CLAIM-327 THEORY-072 THEORY-532 — Proposed; entries named as not bearing, open -->
+# NOTE-tmpb08k2: Isett — Continuous, globally dissipative Euler flows
+
+## Contribution
+
+Before this paper, convex integration gave either continuous Euler flows
+that dissipate total energy but satisfy the local energy inequality on no
+open ball (De Lellis and Székelyhidi; Buckmaster, De Lellis, Székelyhidi and
+Vicol, [LIT-tmpv4d6t](../literature.d/LIT-tmpv4d6t.md)), or bounded, nowhere-continuous ones that satisfy it
+(De Lellis and Székelyhidi 2010). It constructs the first continuous, in
+fact C^α_{t,x} for every α < 1/15, weak solutions satisfying the local
+energy inequality with a nonzero dissipation measure. It shows these, and
+energy-conserving ones, are non-unique from one datum in a strong sense: a
+Cantor family with positive Hausdorff dimension in C_tL²_x and one
+dissipation measure. Wild data are C⁰ dense. The iteration is new: it
+reduces the error in the local energy balance along with the Reynolds
+stress.
+
+## Key insight
+
+Carry the local energy balance through the iteration as a relaxed
+inequality with its own error terms, an unresolved flux density κ (half
+the trace of the stress) and current ϕ (from third-order interactions), and
+cancel them as the stress is cancelled. The density is cancelled by
+coupling the energy the waves add to the pressure; the current, a vector,
+by triads of transported plane waves whose phases sum to zero, so that the
+product of two "passive" and one "active" wave is a low-frequency field of
+any required direction. Dissipation enters only through one scalar per
+stage: the energy profile e(t) of the new waves. Where e decreases, the
+decrease −e′(t) is booked into the dissipation measure. Since e depends on
+time alone, so does the dissipation.
+
+## Assumptions
+
+- **Domain.** T^d = (R/Z)^d with d ≥ 3, on an interval of time. The paper
+  says d = 2 needs more work: waves must take values in three hyperplanes,
+  and the needed cancellation (214) is lost.
+- **Notion of solution.** Weak solutions with v ∈ L³_{t,x}; "globally
+  dissipative" means the local energy inequality (2) in distributions, not
+  necessarily strict. The dissipation measure is µ = −[∂_t(|v|²/2) +
+  ∇_j((|v|²/2 + p)v^j)] ≥ 0.
+- **Regularity class.** C^α_{t,x}, α < 1/15, uniformly; p ∈ L^q for all
+  q < ∞. The title's "continuous" undersells this.
+- **What is not assumed or obtained.** No initial-value problem for given
+  data is solved; the shared datum is produced. Nothing about Navier–Stokes.
+
+## Key results
+
+- **Theorem 1.** Hölder-continuous weak solutions on (0, ∞) × T^d satisfying
+  (2) "with strict inequality holding everywhere on an open interval of
+  time".
+- **Theorem 4.** For α ∈ [0, 1/15), an infinite family v_β ∈ C^α_{t,x}
+  satisfying (2), with one initial datum, uniformly bounded compact support
+  in time, a common dissipation measure, homeomorphic to a Cantor set in
+  C^α_{t,x} and of positive Hausdorff dimension in C_tL²_x.
+- **Theorem 5.** The same with the local energy equality (3) on R × T³.
+- **Theorem 7 (Approximation).** From any dissipative Euler–Reynolds flow
+  with levels (Ξ₀, E₀, …) and errors supported in Ĩ(0): a family of C^α
+  solutions, equal on Ĩ(0), with common µ∞ ≥ 0 equal to the initial µ on
+  Ĩ(1), support in t ≤ sup Ĩ(1) + (Ξ₀E₀^{1/2})^{−1}, within CE₀^{1/2} of the
+  initial velocity in C⁰. Hausdorff dimension at least 4 log 2/(3 log Z).
+- **Theorem 8.** For α < 1/15 the data admitting uncountably many C^α
+  solutions with (3) near t = 0 are C⁰ dense in continuous divergence-free
+  fields. The time of existence is not uniform.
+- **Main Lemma 3.1.** One stage maps levels (Ξ, e_v, e_ϕ, e_R, e_G) to
+  (NĈΞ, Ĉẽ_ϕ, Ĉẽ_ϕ, Ĉe_G, e_G*), ẽ_ϕ = e_ϕ^{1/3}e_R^{2/3}, with e_G* a
+  power of N^{−1} times powers of e_v and ẽ_ϕ (the displayed formula (21)
+  was garbled in extraction and is not restated here); the new velocity
+  differs by ‖V‖_{C⁰} ≤ C_Le_ϕ^{1/2}; µ* − µ = −∂_t e(t) ≥ 0 depends only on
+  the levels, L and Ĩ[G], and µ* = µ on Ĩ[G]. It also gives a second flow, differing
+  only in a short interval J̃, at C_tL²_x distance at least
+  ((C_LM)^{−1} − N^{−1})^{1/2}e_ϕ^{1/2}.
+- **The exponent (292), (306).** (0, 15, 11, 5, 1, 2) is a left null vector
+  of T − 1, so 15δL_G + 2δL_Ξ → 13L_Ĉ, and C^α convergence holds iff
+  α < 1/15. Re-derived, with the numerical iteration giving thresholds
+  0.0655 and 0.0666 at L_Z/L_Ĉ = 50 and 500.
+
+## Claims
+
+Not filled: this reading is Skimmed, and only a Read note may fill in a
+claims table. What the skim supports is in [THEORY-tmpxpm2w](../theory.d/THEORY-tmpxpm2w.md), filed Proposed.
+
+## Method
+
+1. Start from a dissipative Euler–Reynolds flow (for Theorems 1, 4 and 5,
+   the zero flow). Lemma 6.1 makes it well-prepared by adding a pressure
+   −e_Z(t) and a stress −e_Z(t)δ[1∗], booking −(3/4)e_Z′ into µ.
+2. At each stage, with axis l cycling through 1, 2, 3: regularize v by
+   spatial mollification and the errors along the coarse flow; build waves
+   V_I = P_I[e^{iλξ_I}v_I], λ = B_λNΞ, ξ_I transported by v_ε from times kτ,
+   amplitudes v_I = e_I^{1/2}(t)η_I(t)γ_I f̃_I in the plane ⊥ ∇ξ_I.
+3. Choose coefficients: for the current waves, constant passive amplitudes
+   and active amplitudes linear in ϕ (68), (92); for the stress waves,
+   positive square roots of a linear system (78), (93). The pressure
+   correction (46) ties the energy density to the stress trace.
+4. Absorb −∂_t e(t) into µ (44); collect new errors, using the cancellations
+   (214)–(215), which hold because the wave amplitudes are orthogonal to
+   the oscillation axis, to keep the too-large term V_ℓ P δ[2∗] out of ϕ.
+5. Optionally flip the sign of one large wave inside J̃(k) (step k ∈ β).
+6. Iterate with N(k) = Z²Q_vϕ^{1/2}Q_ϕϕ²Q_ϕG² inside the admissible
+   sector (295); pass to the limit uniformly; read off (2) and µ∞ from the
+   weak convergence of κ, R, ϕ to zero.
+
+## Concepts
+
+- **Globally dissipative**: v ∈ L³_{t,x} and the local energy inequality
+  (2). Not the whole-box sense used in [THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md).
+- **Dissipative Euler–Reynolds flow** (Definition 2.1): (v, p, R, κ, ϕ, µ)
+  with the Euler–Reynolds system (10) and the relaxed inequality (11);
+  µ ≥ 0 the dissipation measure (12). Any ensemble average of globally
+  dissipative flows is one (remark after the definition).
+- **Unresolved flux density κ and current ϕ**: the errors in the local
+  energy balance, the analogues of the Reynolds stress for energy.
+- **Compound frequency–energy levels** (Definition 2.2): bounds on v, p and
+  the error components, split by the subspace ker dx^I ⊗ ker dx^I they take
+  values in.
+- **Well-prepared** (Definition 4.1): the principal stress is dominated by
+  −ē(t)δ[1∗], so its trace part controls the iteration.
+- **Cascade trios**: (active, passive, passive) waves with
+  n₁ + n₂ + n₃ = 0, whose product is low-frequency.
+
+## Connections
+
+It descends from Isett and Vicol's one-dimensional-wave scheme for active
+scalars (2015), made "multi-dimensional" here, and from the Euler–Reynolds
+formalism of De Lellis and Székelyhidi. It contrasts its approach with
+Beltrami flows (no gain on the local error) and Mikado flows (in Isett 2018
+and Buckmaster, De Lellis, Székelyhidi and Vicol, which it says create and
+destroy energy where the waves are cut off). Later: De Lellis and Kwon
+raised the Hölder exponent to 1/7 (Analysis & PDE 2022, not read); Giri and
+Kwon extended the ideas to compressible Euler; Giri, Kwon and Novack reached
+1/3 in L³-based spaces ([LIT-tmpfah3l](../literature.d/LIT-tmpfah3l.md), [NOTE-tmpms8u2](NOTE-tmpms8u2.md)). The Burgers example
+cites Dafermos; weak–strong uniqueness, Brenier, De Lellis and Székelyhidi.
+
+## Bearing on the record
+
+- **[THEORY-tmpxpm2w](../theory.d/THEORY-tmpxpm2w.md)** is filed from this reading, Proposed. It states
+  Theorems 1 and 4 and the record's reading of the proof: the dissipation
+  measure is m(t), a nonnegative integrable function of time alone, equal to
+  −(d/dt)∫|v|²/2, zero while the local equality holds and positive on all of
+  T³ during the final drain. Through the local coarse-grained balance, as in
+  [THEORY-tmp6pe5a](../theory.d/THEORY-tmp6pe5a.md), the flux into scales below ℓ tends to m(t) in
+  distributions.
+- **[QUESTION-219](../questions.d/QUESTION-219.md).** The question's four answers on the negative half now
+  read: two-signed ([THEORY-763](../theory.d/THEORY-763.md)), one-signed for the box ([THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md)),
+  one-signed everywhere in an L³ class with dissipation in pipes
+  ([THEORY-tmp6pe5a](../theory.d/THEORY-tmp6pe5a.md)), and, here, one-signed everywhere in a Hölder class at
+  α < 1/15 with dissipation uniform in space and confined to a final
+  interval. On whether a pattern of transfer picks out a unit, this is the
+  sharpest negative so far: the transfer has no spatial pattern at all, and
+  it exists only while the construction is switching the flow off.
+- **[THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md).** Its line "Isett (arXiv:1710.11186) … is not read"
+  can now cite [THEORY-tmpxpm2w](../theory.d/THEORY-tmpxpm2w.md). Its claim that nothing excludes backscatter
+  for its solutions gains the author's remark that Mikado implementations
+  "introduce both creation and dissipation of energy in the disjoint
+  regions where the waves are supported and cut off". That remark is not
+  proved in this paper. The "1/7 (De Lellis and Kwon)" there is right, and
+  1/15 here is its predecessor.
+- **[THEORY-tmp6pe5a](../theory.d/THEORY-tmp6pe5a.md).** Its "Not Hölder, not bounded" bullet can add that
+  Hölder solutions with the local inequality exist below 1/15 (this paper)
+  and 1/7 (De Lellis and Kwon), and that in this construction too the
+  dissipation is an input, uniform rather than in pipes.
+- **[THEORY-749](../theory.d/THEORY-749.md).** The local form of its balance is what this measure
+  violates; above 1/3 it must vanish.
+- **[QUESTION-218](../questions.d/QUESTION-218.md) and [QUESTION-222](../questions.d/QUESTION-222.md) (closure).** Definition 2.1's remark puts
+  the closure problem in energy form: an averaged flow's local energy
+  balance carries κ and ϕ besides the stress. Not filed.
+- **The other key entries** ([THEORY-733](../theory.d/THEORY-733.md), [THEORY-257](../theory.d/THEORY-257.md), [THEORY-661](../theory.d/THEORY-661.md), [CLAIM-157](../claims.d/CLAIM-157.md),
+  [CLAIM-331](../claims.d/CLAIM-331.md), [CLAIM-327](../claims.d/CLAIM-327.md), [CLAIM-388](../claims.d/CLAIM-388.md), [THEORY-755](../theory.d/THEORY-755.md)) and [QUESTION-217](../questions.d/QUESTION-217.md),
+  [QUESTION-220](../questions.d/QUESTION-220.md), [QUESTION-221](../questions.d/QUESTION-221.md): not addressed. The stages cycle through three
+  coordinate axes and nest corrections coarse to fine, but as a device of
+  the proof. The dissipative structures of [THEORY-072](../theory.d/THEORY-072.md) and [THEORY-532](../theory.d/THEORY-532.md) are
+  not touched.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Read in outline.** Sections 4.6–4.13, the estimates on which the Main
+  Lemma rests, were not checked.
+- **The exponent.** 1/15, far from 1/3, and later improved by others.
+- **Errors in the Burgers example (§1.2.1).** For (8), the computed total
+  energy is ∫_R u_α² = 2 + t((4/3)α³ − 1/3) for 0 < t ≤ 2. So the entropy
+  solution has −(d/dt)∫u₀² = 1/3, not the stated 2/3 (1/6 for ∫u²/2, two
+  shocks of size 1 at 1/12 each). The family dissipates total energy iff
+  α ≤ (1/4)^{1/3}; the stated α ≤ (1/6)^{1/3} is sufficient and not sharp.
+  Checked numerically. The point of the example, that total-energy
+  dissipation does not select the entropy solution, is unaffected.
+- **"Probabilistic method."** The paper calls the sign choices a coin toss
+  and "the first use of a probabilistic method in the context of convex
+  integration". The construction is deterministic for each β ∈ 2^ℕ; no
+  probability law on solutions is used or needed beyond Haar measure in the
+  dimension count. The phrase describes the indexing, not a probabilistic
+  result.
+- **The Kraichnan analogy** (credited to Drivas) is an analogy between the
+  triads used and LDIA, not a claim about turbulence.
+- **Spatial uniformity of µ** is the record's reading of (44), (117) and
+  Lemma 6.1, not stated by the paper. The paper's Theorem 1 says only that
+  the inequality is strict everywhere on an open time interval, which is
+  consistent with it.
+- **Copy.** v4 is a 2022 revision ("Improvements in presentation"); v1 and
+  the ARMA text were not compared.
+
+## Open questions
+
+- Can a Hölder solution with the local energy inequality have a
+  dissipation measure with spatial structure, or one that persists rather
+  than draining the solution to zero? Giri, Kwon and Novack's pipes do in
+  L³; a Hölder analogue, or a proof that De Lellis and Kwon's 1/7
+  construction has such a measure, would settle it for the Hölder class.
+- Does any vanishing-viscosity limit of Navier–Stokes fall in this class
+  with nonzero µ? Only a theorem about Navier–Stokes would say.
+- The strong Onsager conjecture in L^∞_tC^{1/3}_x (Conjecture 1) is open.
+- Applied to A5's four conditions ([QUESTION-219](../questions.d/QUESTION-219.md)), a transfer uniform in
+  space and present only during a drain fails conditions (1), (3) and (4)
+  outright. Is there any convex-integration flux that could pass any of
+  them, or is the method structurally unable to produce organized flux?

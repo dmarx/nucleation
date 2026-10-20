@@ -33,6 +33,8 @@ summary: >-
   the round trip Y → rest → Y, dependence the inward leg alone. Not about
   VAR(p ≥ 2), where the reading reports that an independent variable can
   carry memory, nor about nonlinear systems.
+supports:
+- CLAIM-tmp5fx5d
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account whose criterion this relates to memory, open -->
 # CLAIM-389: In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent

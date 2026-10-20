@@ -18,7 +18,7 @@ promote_when: >-
   the dissipation would sit in a vanishing-viscosity limit, is not covered by
   this entry and would need a different theorem.
 title: 'For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction''s first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-20'
@@ -32,6 +32,10 @@ history:
     companion paper were not checked, so the entry is not Active under
     ADR-047 v2. The consequence for the local flux, and the limits on what
     one-signed means here, are the record's.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    "Not Hölder, not bounded" adds Isett's α < 1/15 (THEORY-tmpxpm2w) and contrasts where each construction puts its dissipation. The account is unchanged.
 tags:
 - mathematics
 - natural-sciences
@@ -55,8 +59,9 @@ summary: >-
   concentrated on a thin set; nothing is said about the sign at a positive
   scale or about vanishing viscosity.
 ---
-<!-- inactive-ok-file: THEORY-776 THEORY-763 — Proposed; the whole-box dissipative and the two-signed accounts, cited for contrast -->
-<!-- inactive-ok-file: NOTE-1022 — Skimmed; this entry's reading -->
+<!-- inactive-ok-file: THEORY-tmpxpm2w — Proposed; Isett's Hölder flows with the local inequality, cited for contrast -->
+<!-- inactive-ok-file: THEORY-tmpnvuqr THEORY-763 — Proposed; the whole-box dissipative and the two-signed accounts, cited for contrast -->
+<!-- inactive-ok-file: NOTE-tmpms8u2 — Skimmed; this entry's reading -->
 # THEORY-772: For every β < 1/3 there is a weak solution of the 3D incompressible Euler equations on the periodic box, in C⁰_t(B^β_{3,∞} ∩ L^{1/(1−3β)}), whose Duchon–Robert dissipation is the smooth nonnegative density E(t, x) = −e(t)e′(t)ρ₀(x₁, x₂)² fixed at the construction's first step; for such a solution the local coarse-grained energy flux into scales below ℓ converges, as ℓ → 0 and as a distribution in space and time, to E, so the transfer into vanishing scales is one-way at every place and time in the limit, nonzero inside a periodic array of pipes and zero outside them; where and how fast energy is dissipated is chosen by the construction, not forced by the equations, and nothing is shown about the sign at any positive scale
 
 ## Source
@@ -200,7 +205,10 @@ sign at all.
 - **Not Hölder, not bounded.** u ∈ C⁰_t(B^β_{3,∞} ∩ L^p) for p = 1/(1 − 3β),
   which is finite for each β < 1/3. Hölder solutions with the local
   inequality are known, per the paper, only for β < 1/7 (De Lellis and
-  Kwon); Isett's strong C⁰ Onsager conjecture is left open.
+  Kwon), after Isett's α < 1/15 ([THEORY-tmpxpm2w](THEORY-tmpxpm2w.md), Proposed); Isett's
+  strong C⁰ Onsager conjecture is left open. Both constructions prescribe
+  the dissipation. Here it sits in pipes for all time; in Isett's it is
+  uniform in space and confined to a final drain to zero.
 - **Not Navier–Stokes.** The paper notes that L³ limits of suitable weak
   Navier–Stokes solutions satisfy the local inequality, so such flows "may"
   be inviscid limits. It does not show that these ones are.

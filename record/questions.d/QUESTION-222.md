@@ -24,8 +24,11 @@ answered_by:
 - THEORY-752
 - THEORY-760
 - THEORY-762
-- THEORY-773
+- THEORY-tmpcfuar
+- THEORY-tmpdjsgt
+- CLAIM-tmp5fx5d
 ---
+<!-- inactive-ok-file: THEORY-tmpdjsgt — Proposed; the Lorenz 96 finding, cited as partial -->
 <!-- inactive-ok-file: LIT-1245 LIT-1251 LIT-1253 LIT-1259 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-222: When a coarse variable's reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation with controlled prediction error, and is a level whose history, not its present state, does the predicting still a level?
@@ -100,6 +103,18 @@ representation-invariant measure of emergence."
   A5's example with c = κd the memory kernel tends to a delta and the
   Markovian error is O(1/d), checked at d = 5 to 500. Deterministic only;
   open for slow or noisy eliminated variables.
+- Chorin and Lu (2015, [LIT-tmp6gimq](../literature.d/LIT-tmp6gimq.md), [NOTE-tmpejcu2](../notes.d/NOTE-tmpejcu2.md)): a discrete NARMAX
+  closure is a finite augmentation by past states, discrepancies and
+  innovations. On Lorenz 96 at ε = 0.5, with no gap of time scales, one or
+  two lags sufficed ([THEORY-tmpdjsgt](../theory.d/THEORY-tmpdjsgt.md), Proposed), with orders tuned by trial
+  and no error bound. Its derivation from Mori–Zwanzig is motivation only.
+- In the linear Gaussian VAR(1) the augmentation is exact and needs only
+  the coarse variable's own history: a scalar coarse variable is ARMA of
+  orders at most (n, n − 1) ([CLAIM-tmp5fx5d](../claims.d/CLAIM-tmp5fx5d.md), demonstrated), though its
+  Mori–Zwanzig kernels are non-zero at every lag. In one example the extra
+  error of truncating to AR(p) fell at a rate set by the moving-average
+  zero, not by the eliminated dynamics' spectrum; three projections gave
+  three memory lengths, as A3 cautioned.
 
 ## What would count as an answer
 
