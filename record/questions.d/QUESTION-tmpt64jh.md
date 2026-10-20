@@ -20,6 +20,8 @@ summary: >-
   be a weakly coupled block.
 answered_by:
 - CLAIM-tmpkoi6k
+- CLAIM-tmp614wx
+- CLAIM-tmpymy0a
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-tmpt64jh: Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block's aggregate small to a stated order in ε, and is the converse false?
@@ -48,6 +50,19 @@ the long run, by coupling strength."
   is that form.
 - [CLAIM-tmpkoi6k](../claims.d/CLAIM-tmpkoi6k.md): the converse fails. Under uniform coupling the sum of all
   units is exactly closed while no partition is nearly decomposable.
+- The forward half, answered in part on 2026-10-20:
+  - For a block's full state in a linear Gaussian VAR(1), dynamical
+    dependence is at most ½ log det(I + Σ_YY⁻¹ A_YR C A_YRᵀ), of second
+    order in the coupling into the block, whatever the coupling out of it
+    ([CLAIM-tmpymy0a](../claims.d/CLAIM-tmpymy0a.md)).
+  - For a block's aggregate, the Simon–Ando one-step closure defect is
+    exactly QA(I − VQ). Its part from the blocks' own dynamics vanishes
+    iff each block has equal column sums ([CLAIM-tmp614wx](../claims.d/CLAIM-tmp614wx.md)). Numerically,
+    the relative defect after the transient is then second order in ε,
+    and first order otherwise.
+  - Still open: the aggregate's dynamical dependence itself, rather than
+    the deterministic defect, and any bound over a horizon longer than one
+    step. The open statement of Simon–Ando ([NOTE-tmpinykd](../notes.d/NOTE-tmpinykd.md)) gives no rate.
 
 ## What would count as an answer
 

@@ -19,6 +19,8 @@ summary: >-
   or a minimal family of counterexamples.
 refined_by:
 - QUESTION-tmpproc1
+answered_by:
+- THEORY-tmp3xg7a
 ---
 <!-- inactive-ok-file: LIT-tmpc7k0w LIT-tmpf5lvd LIT-tmpokskn LIT-tmptogwd LIT-tmpzunec — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 THEORY-481 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -54,6 +56,21 @@ A2: "Crucially, the default should not be to assume these orderings agree."
 - [THEORY-199](../theory.d/THEORY-199.md), [THEORY-195](../theory.d/THEORY-195.md) and [NOTE-687](../notes.d/NOTE-687.md): orders in noise and in sample
   size that run opposite to [THEORY-186](../theory.d/THEORY-186.md)'s, and "should not be cited as
   one account".
+- Read on 2026-10-20:
+  - [THEORY-tmp3xg7a](../theory.d/THEORY-tmp3xg7a.md) (diffusion maps, [NOTE-tmpv8yf2](../notes.d/NOTE-tmpv8yf2.md)): the exactly commuting
+    case. When the levels are the operator's own spectral projectors,
+    truncated diffusion maps form an exact refinement chain ordered by
+    |λ_l|, and repeated application of the operator acquires them in the
+    same order. The two orders agree only because they come from one
+    eigenbasis. The order also depends on the normalization α, so it is
+    not a property of the data alone.
+  - [THEORY-tmp1bqec](../theory.d/THEORY-tmp1bqec.md) (Raju, Machta and Sethna, [NOTE-tmpeh0fp](../notes.d/NOTE-tmpeh0fp.md)): along nested
+    coarse-grainings the Fisher metric of the parameters can only fall, so
+    refinement and relevance to the parameters share a chain. Under an
+    exact RG step the singular part of the metric is kept. There is no
+    learning operator, so it says nothing about acquisition.
+  - [CLAIM-tmphan8l](../claims.d/CLAIM-tmphan8l.md): among optimal compressions at different budgets the
+    refinement order itself can fail to be a chain.
 
 What the record lacks is the condition under which a spectral order is a
 refinement order. A2's candidate ("Conjecture A", in its words "a

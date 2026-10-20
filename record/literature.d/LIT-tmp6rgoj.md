@@ -30,6 +30,8 @@ keywords:
 implementations: []
 summary: >-
   Shpak, Stadler, Wagner & Altenberg (2004). States Simon and Ando's theorem on nearly decomposable linear systems, without proof and without rates, as four time windows separating within-block relaxation, block quasi-equilibrium, aggregate cross-block dynamics and global equilibrium. It applies an entrywise version of the condition to mutation–selection and recombination on fitness landscapes. Point mutation meets it at low mutation rates, trivially, and recombination rarely does. It concludes that Simon–Ando aggregation is one route to a dynamically sufficient aggregate, independent of exact aggregation by symmetry and of character aggregation under linkage equilibrium.
+supports:
+- CLAIM-tmp614wx
 ---
 <!-- inactive-ok-file: LIT-1127 — Unavailable; the theorem this work applies, cited as not yet read -->
 # LIT-tmp6rgoj: Simon-Ando Decomposability and Fitness Landscapes

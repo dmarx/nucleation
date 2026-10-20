@@ -39,7 +39,6 @@ summary: >-
   belongs to the cutoff as much as to the flow.
 ---
 <!-- inactive-ok-file: CLAIM-331 — Proposed; the timescale claim this account bears on, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-tmp2snx1 — Deferred; Eyink and Aluie, registered unread, cited as open -->
 
 # THEORY-tmp4ou43: In Fourier–Galerkin large-eddy simulation, a first-order finite-memory Mori–Zwanzig closure tracks filtered-DNS energy decay and dissipation on the viscous Burgers equation and on the incompressible Taylor–Green vortex, isotropic turbulence and channel flow about as well as dynamic Smagorinsky where that model is at home and better than Smagorinsky and the t-model on the transitional Taylor–Green vortex; the memory length that fits it is set by the cutoff, not by the flow alone, scaling in Burgers roughly as 0.2 over the spectral radius of the resolved variables' Jacobian
 

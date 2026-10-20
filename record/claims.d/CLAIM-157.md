@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8tsw5
 title: 'Relative to a stated target, a combined form is one system while its joint dynamics are nearly decomposable with the form as a block whose gap beats the Occam factor, and it lasts as long as that block persists; the unit is the gap-isolated block, not any member'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-11'
@@ -38,6 +38,10 @@ history:
     processes: closure without a block (CLAIM-tmpkoi6k), and the two
     questions it opens (QUESTION-tmplru2n, QUESTION-tmpmz64i). The
     criterion is unchanged.
+- version: 6
+  date: '2026-10-20'
+  note: >-
+    Note of 2026-10-20 added, from the readings of that day: bounds on how block tests and closure relate (CLAIM-tmpymy0a, CLAIM-tmp614wx), equitable partitions (THEORY-tmpj32n2), the spectral reading of near-decomposability (NOTE-tmpinykd), and scale locality (THEORY-tmpfcxzq). The criterion is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -89,7 +93,6 @@ objected_by:
 supports:
 - CLAIM-174
 ---
-<!-- inactive-ok-file: LIT-tmp2snx1 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: QUESTION-009 — Deferred; the broader agent question this claim sets apart from its own -->
 <!-- inactive-ok-file: CLAIM-172 CLAIM-175 CLAIM-161 CLAIM-167 — Proposed; the neighbouring tests, the owner's claims and the reply that defends this criterion, open -->
 <!-- inactive-ok-file: THEORY-257 THEORY-265 THEORY-268 THEORY-254 — Proposed; readings of 2026-10-14 set beside the criterion, open -->
@@ -200,3 +203,32 @@ entangled subsystems?" Two things came of it.
   misses is [QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md). A5's guard is this claim's: a newly found
   mode or flux "should not automatically be treated as an individual, much
   less an agent."
+
+## Note of 2026-10-20: what the readings did to the block test
+
+The first readings of the coarse-to-fine program bear on this claim in four
+ways. None changes the criterion.
+
+- **Weak coupling in, little dependence.** For a block's full state in a
+  linear Gaussian VAR(1), dynamical dependence is of second order in the
+  coupling into the block, whatever the coupling out of it
+  ([CLAIM-tmpymy0a](CLAIM-tmpymy0a.md)). So a block that clears this claim's test because its
+  incoming coupling is weak is also nearly closed in Barnett and Seth's
+  sense. A block that clears it with strong outgoing coupling and weak
+  incoming coupling is too. That is the one-way case this claim already
+  passes ([CLAIM-167](CLAIM-167.md)).
+- **The aggregate is another matter.** The sum over a block closes only if
+  the block's own dynamics close on it. In one step that needs equal
+  column sums within the block ([CLAIM-tmp614wx](CLAIM-tmp614wx.md)). Simon's argument relies on
+  the fast transient to make the rest small. The unit this claim names, the
+  projector onto the block's joint mode (point 3), is the right object for
+  that reason: it is the slow part of the block, not its sum.
+- **Read the gap spectrally.** Shpak, Stadler, Wagner and Altenberg's flat
+  landscape ([NOTE-tmpinykd](../notes.d/NOTE-tmpinykd.md)) has entrywise weak coupling between blocks and
+  no separation of time scales at any rate. This claim's test compares a
+  gap against coupling, so it is already the spectral reading, which is
+  the one that works.
+- **Groupings that close without being blocks.** Column-equitable
+  partitions ([THEORY-tmpj32n2](../theory.d/THEORY-tmpj32n2.md)) and turbulent scale bands ([THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md),
+  conditional) organize a system without a gap. Whether either is "one
+  system" is [QUESTION-tmplru2n](../questions.d/QUESTION-tmplru2n.md) and [QUESTION-tmpmz64i](../questions.d/QUESTION-tmpmz64i.md).

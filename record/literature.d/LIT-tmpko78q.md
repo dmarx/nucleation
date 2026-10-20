@@ -46,6 +46,7 @@ implementations: []
 summary: >-
   Eyink (2005). Treats locality of forward and inverse cascades, in three- and two-dimensional turbulence, in one coarse-graining framework, so that locality of transfer and its direction are separate properties.
 ---
+<!-- inactive-ok-file: ADR-041 — the decision this status follows, cited by number -->
 <!-- inactive-ok-file: CLAIM-331 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # LIT-tmpko78q: Locality of turbulent cascades
 

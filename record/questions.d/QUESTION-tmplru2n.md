@@ -47,6 +47,11 @@ the whole and a closure test finds the mode.
   happens iff the partition is column-equitable, while the blocks interact
   strongly. In [CASE-tmpvt6wb](../cases.d/CASE-tmpvt6wb.md) every partition is one. It is a grouping of
   members, as a block is, and closed, as a mode is, and it is neither.
+- Published cases of the same kind ([NOTE-tmpinykd](../notes.d/NOTE-tmpinykd.md)). On a single-peak
+  fitness landscape, Hamming-distance classes aggregate exactly although
+  their members "did not communicate with one another at all". Schema
+  marginals close on the linkage-equilibrium manifold although rates
+  between classes are as large as rates within them.
 - [CLAIM-157](../claims.d/CLAIM-157.md)'s guard: clearing a test is not being an agent or a self. A5
   kept it: "A newly discovered distributed collective mode should not
   automatically be treated as an individual, much less an agent."

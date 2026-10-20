@@ -43,6 +43,7 @@ implementations: []
 summary: >-
   Smith & Woodruff (1998). Reviews renormalization-group methods in turbulence, including Yakhot and Orszag's, and examines which of their approximations support a Wilsonian interpretation.
 ---
+<!-- inactive-ok-file: ADR-041 — the decision this status follows, cited by number -->
 <!-- inactive-ok-file: THEORY-202 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # LIT-tmpumkhn: Renormalization-Group Analysis of Turbulence
 

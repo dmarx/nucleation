@@ -1,12 +1,20 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on
-  coarse-to-fine processes, which the owner relayed. No NOTE is filed. A
-  lawful open copy was found on 2026-10-20 (the `url:`) and has not been
-  read.
+  read 2026-10-20 ([NOTE-tmpyi9oi](../notes.d/NOTE-tmpyi9oi.md)) in full; worth reading for the exact
+  condition under which optimal descriptions at two distortions are
+  compatible, a Markov chain X → X̂₂ → X̂₁ between some pair of optimal test
+  channels ([THEORY-tmpe422n](../theory.d/THEORY-tmpe422n.md)), and for Gerrish's three-letter source, where
+  the finer optimum drops a reproduction letter the coarser one uses and
+  refinement fails. Read it knowing that Theorem 2 is proved for finite
+  alphabets only and rests on cited multiple-descriptions theorems, that
+  the condition is about stochastic test channels for long blocks and not
+  about nesting of partitions (its own Fig. 1 shows single-shot Gaussian
+  quantizers failing to nest), that the region conditions in (34)/(36) are
+  printed reversed and (37) is misprinted, and that the remark after
+  Theorem 3 holds only for p < √2 − 1.
 title: 'Successive refinement of information'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-19'
@@ -21,6 +29,16 @@ history:
     and confirmed as this paper by the title page and abstract, and the
     first is the `url:`. Unpaywall and OpenAlex report the work closed.
     Status stays Deferred.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Read in full (NOTE-tmpyi9oi) from the `url:` copy, a scan read from
+    page images. Status Deferred → Active. THEORY-tmpe422n filed Proposed.
+    The summary is corrected: the Markov chain runs from the source through
+    the fine reproduction to the coarse one, it need hold only for some
+    pair of optimal test channels, the characterization is proved for
+    finite alphabets, and the examples are named. The body's "Not read"
+    paragraph is replaced.
 tags:
 - information-theory
 date: '2026-10-19'
@@ -35,15 +53,18 @@ keywords:
 - 'progressive coding'
 implementations: []
 summary: >-
-  Equitz & Cover (1991). A source is successively refinable when describing it at a coarse distortion and then refining loses nothing against describing it optimally at the finer distortion directly; this holds exactly when the optimal descriptions can be written as a Markov chain from the finer to the coarser, and fails for some sources.
+  Equitz & Cover (1991). A source is successively refinable from distortion D₁ to D₂ < D₁ when a description at rate R(D₁), followed by an addendum, reaches D₂ at total rate R(D₂). For finite alphabets this holds iff some pair of optimal test channels forms a Markov chain X → X̂₂ → X̂₁, the coarse reproduction a stochastic degradation of the fine one. It holds for every discrete source under Hamming distortion, and the paper also shows it for Gaussian/squared-error and Laplacian/absolute-error sources. It fails for a three-letter source under absolute error (Gerrish's problem).
+supports:
+- CLAIM-tmphan8l
 ---
+<!-- inactive-ok-file: THEORY-tmpe422n — Proposed; the account this reading files, cited as its outcome -->
 
 # LIT-tmp25otd: Successive refinement of information
 
 Equitz, W. H. R. & Cover, T. M. (1991). Successive refinement of information. *IEEE Transactions on Information Theory* 37(2): 269–275. doi:10.1109/18.75242.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full in [NOTE-tmpyi9oi](../notes.d/NOTE-tmpyi9oi.md). The finite-alphabet characterization and
+the examples are filed as [THEORY-tmpe422n](../theory.d/THEORY-tmpe422n.md).
 
 ## Why this is here
 

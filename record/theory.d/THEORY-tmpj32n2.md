@@ -28,6 +28,8 @@ summary: >-
   partition-based aggregation only. It says nothing about approximate
   aggregation, the Simon–Ando case, or nonlinear systems, where the paper
   itself shows aggregations with no linear counterpart.
+supports:
+- CLAIM-tmp614wx
 ---
 <!-- inactive-ok-file: CLAIM-157 — Proposed; the block criterion this account is contrasted with, open -->
 # THEORY-tmpj32n2: For a linear system x(t+1) = Ax and a partition of its variables, the vector of block sums evolves autonomously from every initial state iff the partition is column-equitable, every column of each block of A summing to the same value; the aggregate operator then keeps a subset of A's eigenvalues, and the blocks may interact as strongly as they like, so exact aggregation is not decomposition

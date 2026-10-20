@@ -36,9 +36,15 @@ A5 separated three kinds of organization:
 
 A3's ground for the third: in the inertial range of three-dimensional
 turbulence, energy flux across a scale is dominated by comparable scales
-(Eyink and Aluie, [LIT-tmp2snx1](../literature.d/LIT-tmp2snx1.md)). That is locality of coupling across scales,
-and it is not near-decomposability: the scales are not weakly coupled
-blocks. Eyink 2005 ([LIT-tmpko78q](../literature.d/LIT-tmpko78q.md)) treats forward and inverse cascades in one
+(Eyink and Aluie, [LIT-tmp2snx1](../literature.d/LIT-tmp2snx1.md), read 2026-10-20 in [NOTE-tmp5es2s](../notes.d/NOTE-tmp5es2s.md)). That is
+locality of coupling across scales. The paper sketches the bounds and
+refers to Eyink 2005 ([LIT-tmpko78q](../literature.d/LIT-tmpko78q.md), Unavailable) for the proofs. They hold
+under an unproved scaling hypothesis, 0 < σ_p < 1, and the record holds
+their averaged form as a conditional ([THEORY-tmpfcxzq](../theory.d/THEORY-tmpfcxzq.md)). That it is not
+near-decomposability is the record's inference, not the paper's. Coupling
+falls off as a power of the scale ratio with no gap, and in a
+constant-flux range the whole flux crosses every scale, so no contiguous
+group of scales is weakly coupled to the rest. Eyink 2005 ([LIT-tmpko78q](../literature.d/LIT-tmpko78q.md)) treats forward and inverse cascades in one
 framework, so A3 separated four properties that "coarse to fine" runs
 together: that scales exist, that coupling between them is local, the
 direction of transfer, and what is transferred.

@@ -43,7 +43,7 @@ implementations: []
 summary: >-
   Germano (1992). Develops algebraic relations among filtered fields and subgrid stresses at different filter widths, the basis of the Germano identity used in dynamic subgrid models.
 ---
-
+<!-- inactive-ok-file: ADR-041 — the decision this status follows, cited by number -->
 # LIT-tmpki8cm: Turbulence: the filtering approach
 
 Germano, M. (1992). Turbulence: the filtering approach. *Journal of Fluid Mechanics* 238: 325–336. doi:10.1017/S0022112092001733.

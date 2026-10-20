@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-20 (NOTE-tmpi32zs) in full, from the published version on
+  read 2026-10-20 ([NOTE-tmpi32zs](../notes.d/NOTE-tmpi32zs.md)) in full, from the published version on
   Chorin's Berkeley page; worth reading for the exact generalized Langevin
   equation under three projections (conditional expectation, linear,
   finite-rank), for computing the memory kernel from equilibrium
   correlation functions through a Volterra equation, and for the
   t-damping (t-model) equation dΦ/dt = R̄(Φ) + tS(Φ) with its proof that,
   for separable Hamiltonians, it dissipates the effective energy
-  (THEORY-tmpepvai). Read it knowing that it has one 4-variable example,
+  ([THEORY-tmpepvai](../theory.d/THEORY-tmpepvai.md)). Read it knowing that it has one 4-variable example,
   no error bound for any approximation, no Markovian augmentation by memory
   coordinates, that its abstract's "close to the best possible estimate"
   holds on that example only to t ≈ 8, and that the t-model it calls a
@@ -67,7 +67,7 @@ summary: >-
 
 Chorin, A. J., Hald, O. H. & Kupferman, R. (2002). Optimal prediction with memory. *Physica D* 166(3–4): 239–257. doi:10.1016/S0167-2789(02)00446-3.
 
-Read in full in NOTE-tmpi32zs. THEORY-tmpepvai is filed from it.
+Read in full in [NOTE-tmpi32zs](../notes.d/NOTE-tmpi32zs.md). [THEORY-tmpepvai](../theory.d/THEORY-tmpepvai.md) is filed from it.
 
 ## Why this is here
 

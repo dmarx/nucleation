@@ -22,7 +22,7 @@ source:
 answers:
 - QUESTION-tmpxapb2
 summary: >-
-  Chorin, Hald and Kupferman (2002), LIT-tmple6xy, read in NOTE-tmpi32zs:
+  Chorin, Hald and Kupferman (2002), [LIT-tmple6xy](../literature.d/LIT-tmple6xy.md), read in [NOTE-tmpi32zs](../notes.d/NOTE-tmpi32zs.md):
   Theorem 8.1. Truncating the Mori–Zwanzig memory integral at its lag-zero
   value gives dΦ/dt = R̄(Φ) + tS(Φ), and under the stated conditions this
   dissipates the free energy of the resolved variables. It says nothing
@@ -35,8 +35,8 @@ summary: >-
 
 ## Source
 
-Chorin, Hald and Kupferman (2002), *Physica D* 166:239–257, LIT-tmple6xy,
-read in full in NOTE-tmpi32zs from the published version. The t-damping
+Chorin, Hald and Kupferman (2002), *Physica D* 166:239–257, [LIT-tmple6xy](../literature.d/LIT-tmple6xy.md),
+read in full in [NOTE-tmpi32zs](../notes.d/NOTE-tmpi32zs.md) from the published version. The t-damping
 equation is the paper's (26)–(27); the result is its Theorem 8.1 with the
 proof of §8. The derivation below follows it and fills its steps.
 
@@ -108,7 +108,7 @@ conditions it cannot be either.
 - **Not that the t-model predicts well.** It shows the direction of the
   effect, not its rate. On the paper's model it over-damps the first peak
   (0.39 against 0.63 at t ≈ 5.2) and is no better than the Markovian
-  equation to t ≈ 4 (re-check in NOTE-tmpi32zs). No error bound is given.
+  equation to t ≈ 4 (re-check in [NOTE-tmpi32zs](../notes.d/NOTE-tmpi32zs.md)). No error bound is given.
 - **Not that the true conditional mean dissipates ℋ.** In the re-check, ℋ
   evaluated on the Monte Carlo mean rises from 0.0091 at t = 15 to 0.0273
   at t = 25, and the mean keeps a residual oscillation of about 0.1, while
@@ -129,14 +129,14 @@ conditions it cannot be either.
 
 ## Connections
 
-- **QUESTION-tmpxapb2: answers in part.** For Hamiltonian systems under
+- **[QUESTION-tmpxapb2](../questions.d/QUESTION-tmpxapb2.md): answers in part.** For Hamiltonian systems under
   these conditions, the leading-order memory of the eliminated variables
   is dissipative for the resolved free energy and grows linearly in time,
   and it can be computed from the projection at one instant. That gives
   the form of the memory's first effect. It leaves the question's main ask
   open: a finite-dimensional augmentation with k memory coordinates and a
   bound on its prediction error.
-- **THEORY-257.** That criterion conditions on the coarse variable's own
+- **[THEORY-257](THEORY-257.md).** That criterion conditions on the coarse variable's own
   history in a stationary process; optimal prediction conditions on the
   resolved initial value under an initial law. Neither result bears on
   the other directly.

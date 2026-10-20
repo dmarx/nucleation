@@ -39,6 +39,8 @@ extended_by:
 - THEORY-257
 supports:
 - CLAIM-tmpkoi6k
+- CLAIM-tmpmonrv
+- CLAIM-tmpymy0a
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the account this was split from and that extends it, cited as open -->
 

@@ -1,12 +1,24 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on
-  coarse-to-fine processes, which the owner relayed. No NOTE is filed. A
-  lawful open copy was found on 2026-10-20 (the `url:`) and has not been
-  read.
+  read 2026-10-20 ([NOTE-tmpv8yf2](../notes.d/NOTE-tmpv8yf2.md)) in full; worth reading for
+  [QUESTION-tmp8qovh](../questions.d/QUESTION-tmp8qovh.md) as the model case of a coarse-to-fine order induced by
+  an operator rather than an imposed partition, and for the proofs the
+  PNAS announcement ([LIT-981](LIT-981.md)) deferred. The diffusion distance D_t is
+  exactly the Euclidean distance between eigenvector coordinates weighted
+  by λ_l^t. The number of steps t is a scale, and the kernel width ε is a
+  second one. An α-normalization makes the small-ε limit the graph
+  Laplacian with a density term (α = 0), the Langevin generator whose
+  invariant density is the sampling density (α = 1/2), or the
+  Laplace–Beltrami operator (α = 1). Read it knowing that Proposition 1's
+  "relative accuracy δ" for the truncated map is wrong (the bound is
+  absolute, [THEORY-tmp3xg7a](../theory.d/THEORY-tmp3xg7a.md)); that Appendix A's ψ_l = φ_l/π should be
+  φ_l/√π; that the α = 1/2 display, the circle formula, the discrete kernel
+  of §5 and Criterion 4's exponent are misprinted or wrong; that the
+  boundary rate and the heat-kernel proof are incomplete ([THEORY-tmp3j6t7](../theory.d/THEORY-tmp3j6t7.md));
+  and that no spectral gap is used anywhere.
 title: 'Diffusion maps'
-version: 2
+version: 3
 history:
 - version: 1
   date: '2026-10-19'
@@ -31,8 +43,24 @@ history:
     (deposit) date, which OpenAlex copies and ADR-002 excludes. Crossref
     reports no published-online date, only the issue month, 2006-07. Status
     stays Deferred.
+- version: 3
+  date: '2026-10-20'
+  note: >-
+    Read in full in NOTE-tmpv8yf2 from the `url:` copy, the published
+    version: §§1–7 and Appendices A–B with every proof, with garbled
+    displays checked against page renders. Deferred to Active. The
+    summary is rewritten from the reading: the earlier one called t "the
+    time parameter" that sets the scale, which is right, but it left out
+    the second scale ε, the α-family and the truncation threshold. Tags
+    gain representation-learning and the anthology-candidate flag
+    (ADR-005): it is a standard manifold-learning paper that an anthology
+    topic could hold, which is the reason LIT-981 carries the flag. It
+    carries no instruction for ML practice. THEORY-tmp3xg7a (Active) and
+    THEORY-tmp3j6t7 (Proposed) are filed from the reading.
 tags:
 - mathematics
+- representation-learning
+- anthology-candidate
 date: '2026-10-19'
 published: '2006-06-19'
 doi: '10.1016/j.acha.2006.04.006'
@@ -45,15 +73,55 @@ keywords:
 - 'multiscale geometry'
 implementations: []
 summary: >-
-  Coifman & Lafon (2006). Defines diffusion maps and diffusion distances from the spectrum of a Markov operator on data, so that the time parameter of the diffusion sets the scale of the geometry recovered.
+  Coifman & Lafon (2006). From a symmetric non-negative kernel, a
+  reversible random walk; its t-step diffusion distance equals the
+  Euclidean distance between eigenvectors weighted by λ_l^t, and truncating
+  where |λ_l|^t ≤ δ|λ₁|^t gives the diffusion map, whose dimension falls as
+  t grows. An α-normalization by a kernel density estimate gives, as the
+  kernel width ε → 0, a generator with invariant density q^{2(1−α)}: the
+  density-weighted graph Laplacian at α = 0, the Fokker–Planck (Langevin)
+  operator at α = 1/2, and the Laplace–Beltrami operator, free of the
+  density, at α = 1. Symmetric kernels only.
 ---
+<!-- inactive-ok-file: NOTE-784 — Skimmed; the earlier reading whose phrase is checked here -->
+<!-- inactive-ok-file: THEORY-tmp3j6t7 — Proposed; the account filed from this reading, nothing here rests on its being settled -->
 
 # LIT-tmpc7k0w: Diffusion maps
 
 Coifman, R. R. & Lafon, S. (2006). Diffusion maps. *Applied and Computational Harmonic Analysis* 21(1): 5–30. doi:10.1016/j.acha.2006.04.006.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, [NOTE-tmpv8yf2](../notes.d/NOTE-tmpv8yf2.md) (Read).*
+
+- **Exact identity.** D_t(x, y)² = Σ_{l≥1} λ_l^{2t}(ψ_l(x) − ψ_l(y))², with
+  ψ_l = φ_l/√π the right eigenvectors. Equivalently, it is a combination
+  of 2t-step transition probabilities.
+- **Scale.** t counts steps and acts as a scale. Coordinates drop out as
+  |λ_l/λ₁|^t falls below δ, so the truncated maps form a refinement chain
+  in t, ordered by eigenvalue modulus ([THEORY-tmp3xg7a](../theory.d/THEORY-tmp3xg7a.md)). The kernel width
+  ε is a second scale. In the manifold limit, t steps are heat time tε.
+- **Truncation.** The paper claims "relative accuracy δ". The true bound
+  is absolute: δ²|λ₁|^{2t}(1/π(x) + 1/π(y)).
+- **α-family (Theorem 2, proved).** The limit is
+  Δ(fq^{1−α})/q^{1−α} − (Δq^{1−α}/q^{1−α})f, which is
+  Δf + 2(1 − α)⟨∇U, ∇f⟩ with q = e^{−U} ([THEORY-tmp3j6t7](../theory.d/THEORY-tmp3j6t7.md)). α = 1 recovers
+  the Neumann heat kernel, independent of density, though the proof's
+  semigroup step has a gap.
+- **No gap.** The paper never uses a spectral gap. Clusters merging as t
+  grows (Fig. 1) are illustrated, not proved.
+
+## Standing in the record
+
+Filed on 2026-10-19 for [QUESTION-tmp8qovh](../questions.d/QUESTION-tmp8qovh.md) and read in full on 2026-10-20.
+It is the proof-carrying companion of [LIT-981](LIT-981.md) ([NOTE-784](../notes.d/NOTE-784.md), Skimmed). It
+confirms that note's α-family, and settles that "backward" ([LIT-981](LIT-981.md)) and
+"forward" Fokker–Planck (here) name one operator and its conjugate. For
+the question it gives the exactly commuting case: refinement and
+acquisition by the same operator coincide because both are read from one
+eigenbasis. It gives no condition for agreement with an externally given
+hierarchy or with relevance. The anthology does not hold it (checked
+2026-10-19).
 
 ## Why this is here
 

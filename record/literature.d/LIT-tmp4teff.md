@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on coarse-to-fine processes, which the owner relayed. No NOTE is filed.
+  read 2026-10-20 ([NOTE-tmpik4fl](../notes.d/NOTE-tmpik4fl.md)) in full, from arXiv:nlin/0006025v1; worth reading for the identification, in the finite memoryless case, of three constructions as one partition: the inputs grouped by Pr(Y|X = x), which are the information bottleneck's β → ∞ end, computational mechanics' causal states and Salmon's statistical relevance basis. Read it knowing that it is a three-page note that proves none of the identifications. It calls the IB limit "evident" and defers the Salmon proofs. It treats the IB optima as partitions, which at finite β they are not. It misstates the IB's marginal trade-off of 1/β as a global exchange rate. And it says nothing about the IB solutions at finite β or whether they nest. The record proves the limit and the factoring of every finite-β optimum through the causal states ([THEORY-tmp35hmc](../theory.d/THEORY-tmp35hmc.md)).
 title: 'Information Bottlenecks, Causal States, and Statistical Relevance Bases: How to Represent Relevant Information in Memoryless Transduction'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-19. The exchange dated it 2002, the journal year; `published:` is arXiv v1, 16 June 2000, per ADR-002. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-19, commit d1573d2) for the authors, title and identifiers found nothing.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Read in full (NOTE-tmpik4fl) from arXiv:nlin/0006025v1, the only arXiv version. Status Deferred → Active. The summary is corrected: the paper asserts the β → ∞ limit and the identity with Salmon's basis, and proves neither. THEORY-tmp35hmc proves the limit.
 tags:
 - information-theory
 - complex-systems
@@ -24,15 +28,15 @@ keywords:
 - 'minimal sufficient statistics'
 implementations: []
 summary: >-
-  Shalizi & Crutchfield (2002; arXiv 2000). Shows that in the limit of no compression penalty the information bottleneck recovers the causal states of memoryless transduction, which coincide with Salmon's statistical relevance basis: the minimal sufficient partition of inputs for predicting outputs.
+  Shalizi & Crutchfield (2002; arXiv 2000). A three-page note. For memoryless transduction, the causal states group inputs by Pr(Y|X = x). Among the partitions that keep all information about Y they have the least entropy. The note asserts, without proof, that the information bottleneck delivers them as β → ∞, and that Salmon's statistical relevance basis is the same construction, the minimal sufficient partition. It says nothing about the bottleneck's solutions at finite β.
 ---
 <!-- inactive-ok-file: LIT-1126 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 # LIT-tmp4teff: Information Bottlenecks, Causal States, and Statistical Relevance Bases: How to Represent Relevant Information in Memoryless Transduction
 
 Shalizi, C. R. & Crutchfield, J. P. (2002). Information Bottlenecks, Causal States, and Statistical Relevance Bases: How to Represent Relevant Information in Memoryless Transduction. *Advances in Complex Systems* 5(1): 91–95. doi:10.1142/S0219525902000481. Preprint: arXiv:nlin/0006025 (16 June 2000).
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read 2026-10-20 in [NOTE-tmpik4fl](../notes.d/NOTE-tmpik4fl.md). The summary was corrected against the
+reading.
 
 ## Why this is here
 

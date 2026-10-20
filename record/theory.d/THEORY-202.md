@@ -17,7 +17,12 @@ promote_when: >-
   families. More examples of coarse-grainings that preserve Z or satisfy
   the trace condition cannot settle it either way.
 title: 'In variational renormalization, neither a matched partition function nor Kadanoff''s exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Connections gain a candidate stated target from Raju, Machta and Sethna (THEORY-tmp1bqec). The account is unchanged.
 tags:
 - natural-sciences
 - representation-learning
@@ -109,3 +114,11 @@ set by what it must stay informative about), it closes the triangle of
 the 2014–2018 dispute: the formalisms correspond, neither exactness nor
 partition-function matching chooses the coarse variables, and an
 objective with a relevance target does.
+
+- **A candidate target (2026-10-20).** [THEORY-tmp1bqec](THEORY-tmp1bqec.md) (Raju, Machta and
+  Sethna) proposes keeping the singular part of the Fisher metric of the
+  bare couplings. This record's non-interacting construction fails that
+  target, since its coarse variables carry no Fisher information about the
+  couplings. The identity map passes it, so it is necessary, not
+  sufficient. It does not meet this account's promote_when, which asks
+  about variational RG and the trace condition.
