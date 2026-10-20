@@ -1,0 +1,78 @@
+---
+status: Skimmed
+paper: 'LIT-tmple1gv'
+title: 'Clustering and the hyperbolic geometry of complex networks'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Skimmed from the arXiv PDF of v3 (51 pp.), text extracted with
+    pdftotext, for THEORY-188's reading task (promotion audit, batch 057).
+    Read: §1 in full (the two models, the statements of Theorems 1.2 and
+    1.3, and the heuristic of §1.3 for why clustering vanishes when
+    ζ/α ≥ 1), and the statements of Propositions 2.2–2.4. Not read: the
+    proofs in §§2–8. The theorems are taken as the authors state them.
+date: '2026-10-20'
+summary: >-
+  For Krioukov et al.'s hyperbolic random graph with 0 < ζ/α < 2, proves
+  that below temperature 1 (β > 1) the global clustering coefficient
+  converges to an explicit positive constant when ζ/α < 1 and to zero when
+  1 ≤ ζ/α < 2, and that at or above temperature 1 it converges to zero;
+  clustering among vertices of bounded type stays positive for all
+  ζ/α < 2 when β > 1. Skimmed: §1 and the theorem statements read, the
+  proofs not.
+---
+<!-- inactive-ok-file: THEORY-188 — Proposed; the account this reading was filed for, which it does not yet promote -->
+
+# NOTE-tmprov8v: Clustering and the hyperbolic geometry of complex networks
+
+## Contribution
+
+Puts Krioukov et al.'s claim that temperature tunes clustering, with a
+transition at T = 1, on a rigorous footing for the global clustering
+coefficient, and finds a second transition the simulations did not
+report: in the regime of degree exponent at most 3 the global coefficient
+vanishes at every temperature.
+
+## Key results
+
+- **Theorem 1.2.** In the binomial model G(N; ζ, α, β, ν) with
+  0 < ζ/α < 2: if β > 1, C2 → L∞(β, ζ, α) ∈ (0, 1] in probability when
+  ζ/α < 1, and C2 → 0 when 1 ≤ ζ/α < 2; if β ≤ 1, C2 → 0. L∞ is an
+  explicit triple integral with C_β = 2/(β sin(π/β)), and does not depend
+  on ν.
+- **Theorem 1.3.** For fixed t > 0 and β > 1, the global clustering of the
+  subgraph induced by vertices of type at most t converges to an explicit
+  positive L(t; β, ζ, α) for every 0 < ζ/α < 2.
+- **Cited, not read here.** The degree law with exponent 2α/ζ + 1 for the
+  binomial model at β > 1 is attributed to Fountoulakis (a paper the
+  record does not hold), and the density transition at β = 1 (average
+  degree growing at least logarithmically for β ≤ 1) likewise.
+
+## Method (from §1.3, not checked)
+
+A vertex's type is R minus its radius. Two vertices of types t_u, t_v are
+adjacent with probability bounded away from zero roughly when their
+relative angle is below e^((ζ/2)(t_u + t_v − R)). Triangles among vertices
+of type below R/2 number order N; paths of length two number order N when
+α > ζ, but order RN when α = ζ and more when α < ζ, because vertices of
+type near R/2 with degree about N^(1/2) appear. The ratio then tends to
+zero.
+
+## Limitations
+
+- **Global coefficient only.** The average of local coefficients, which
+  [LIT-865](../literature.d/LIT-865.md) simulates and [LIT-tmp30ynx](../literature.d/LIT-tmp30ynx.md) bounds, is not treated; the authors
+  say their analysis would need significant modification for it.
+- **Proofs not read.** The record holds the statements.
+
+## Bearing on the record
+
+Bears on [THEORY-188](../theory.d/THEORY-188.md)'s clustering clause. "Clustering stays bounded away
+from zero below T = 1 and vanishes above it" holds for the global
+coefficient only when ζ/α < 1, that is degree exponent above 3; for
+exponents between 2 and 3 the global coefficient vanishes below T = 1 as
+well. The title as written is therefore too broad for the global
+coefficient, and the held sources say nothing about the local average at
+0 < T < 1.
