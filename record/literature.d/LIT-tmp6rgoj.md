@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-20 (NOTE-tmpinykd) in full, from arXiv:q-bio/0403030v1; worth reading for the record's only open statement of Simon and Ando's (1961) theorem (Theorems 2.1, 2.2a and 2.2b: block-diagonal A* plus εC, the four time windows T0 < T1 < T2 < T3, and the aggregate Â_IJ = Σ_{i∈I}Σ_{j∈J} A_ij ν*_jJ), for its four-stage account of when a nearly decomposable system is decomposable, aggregable or both, and for its conclusion that quasi-equilibrium, symmetry (equitable partitions) and linkage equilibrium are independent routes to a dynamically sufficient aggregate. Read it knowing that the theorem is quoted without proof and states no rate in ε and no bound on aggregation error; that the landscape "Simon–Ando condition" is an entrywise proxy, met trivially at low mutation rate even on a flat landscape where there is no time-scale separation; that its leading-eigenvector statement fails when block leading eigenvalues coincide, the stochastic case it invokes; and that (6.2b) is wrong for radius κ ≥ 2. Published as Theory in Biosciences 123(2):139–180 (2004), doi:10.1016/j.thbio.2004.04.001.
+  read 2026-10-20 ([NOTE-tmpinykd](../notes.d/NOTE-tmpinykd.md)) in full, from arXiv:q-bio/0403030v1; worth reading for the record's only open statement of Simon and Ando's (1961) theorem (Theorems 2.1, 2.2a and 2.2b: block-diagonal A* plus εC, the four time windows T0 < T1 < T2 < T3, and the aggregate Â_IJ = Σ_{i∈I}Σ_{j∈J} A_ij ν*_jJ), for its four-stage account of when a nearly decomposable system is decomposable, aggregable or both, and for its conclusion that quasi-equilibrium, symmetry (equitable partitions) and linkage equilibrium are independent routes to a dynamically sufficient aggregate. Read it knowing that the theorem is quoted without proof and states no rate in ε and no bound on aggregation error; that the landscape "Simon–Ando condition" is an entrywise proxy, met trivially at low mutation rate even on a flat landscape where there is no time-scale separation; that its leading-eigenvector statement fails when block leading eigenvalues coincide, the stochastic case it invokes; and that (6.2b) is wrong for radius κ ≥ 2. Published as Theory in Biosciences 123(2):139–180 (2004), doi:10.1016/j.thbio.2004.04.001.
 title: 'Simon-Ando Decomposability and Fitness Landscapes'
 version: 2
 history:
@@ -36,7 +36,7 @@ summary: >-
 
 Shpak, M., Stadler, P. F., Wagner, G. P. & Altenberg, L. (2004). Simon-Ando Decomposability and Fitness Landscapes. arXiv:q-bio/0403030 (22 March 2004). Published in *Theory in Biosciences* 123(2): 139–180 (2004). doi:10.1016/j.thbio.2004.04.001.
 
-Read in full in NOTE-tmpinykd, from the arXiv copy.
+Read in full in [NOTE-tmpinykd](../notes.d/NOTE-tmpinykd.md), from the arXiv copy.
 
 ## Why this is here
 
