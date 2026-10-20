@@ -29,7 +29,7 @@ summary: >-
   networks. The evidence is qualitative and curated; the attribution to
   open-ended search is conjecture.
 ---
-<!-- inactive-ok-file: THEORY-210 THEORY-112 THEORY-230 THEORY-117 THEORY-241 — Proposed; the accounts this reading bears on, and the one filed from it -->
+<!-- inactive-ok-file: THEORY-210 THEORY-112 THEORY-117 THEORY-241 — Proposed; the accounts this reading bears on, and the one filed from it -->
 
 # NOTE-771: Kumar, Clune, Lehman and Stanley — The Fractured Entangled Representation Hypothesis
 

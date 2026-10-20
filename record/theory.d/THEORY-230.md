@@ -1,23 +1,21 @@
 ---
 number: 230
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpbbojk
-promote_when: >-
-  An independent replication with released code of the cross-architecture
-  agreement and of the law-matched null behind the 9% figure, and a test
-  that varies the law while holding training fixed: models trained on
-  different corpora, languages or post-training, compared on one battery.
-  The account holds if output-geometry agreement falls as the laws diverge
-  while activation geometry stays as it was, and if what exceeds the
-  law-matched null stays small. It is refuted if models fitted to clearly
-  different laws agree in output geometry as much as models fitted to the
-  same law, or if a fair law-matched null leaves most of the shared
-  eigenvector structure unexplained. What cannot settle it: further
-  same-corpus comparisons, or the steering and editing results, which are
-  practice and test the metric's use, not its sharing.
-title: "The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector structure goes beyond what the shared laws imply"
-version: 1
+title: 'The Fisher–Rao geometry of a language model''s next-token laws over a set of contexts is a function of those laws alone, so models with identical laws share it, while activation geometry changes under invertible reparameterizations of the hidden layer that leave outputs unchanged; in Picozzi''s ten transformer, state-space and recurrent models it agreed at a mean rank correlation of 0.88 against 0.62 for activation geometry, and about 9% of the top eigenvector overlap exceeded a null matched to the shared laws'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-230 (batch 049). The identification is re-derived in the dated
+    note below (ADR-047 v2). The measurement is one study read in full,
+    with every number in the text or a Supplementary Note (ADR-047 v3).
+    "Ten architectures" becomes ten models of three kinds, "far more"
+    becomes the numbers, and "what the shared laws imply" becomes the
+    displacement-matched null. The promote_when moves to QUESTION-tmpu5do1.
 tags:
 - information-geometry
 - representation-learning
@@ -36,10 +34,12 @@ summary: >-
   consequence of each model's excess risk to a common law, and that bound
   is vacuous on real models. Against a law-matched null, about 9% of the
   top-six eigenvector overlap is shared beyond the laws.
+  Promoted on 2026-10-20. Replication and a test that varies the law are
+  QUESTION-tmpu5do1.
 ---
 <!-- inactive-ok-file: QUESTION-027 QUESTION-052 CLAIM-142 CLAIM-193 CLAIM-209 THEORY-002 THEORY-175 — Open or Proposed; cited for context, nothing here rests on them -->
 
-# THEORY-230: The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector structure goes beyond what the shared laws imply
+# THEORY-230: The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of those laws alone, so models with identical laws share it, while activation geometry changes under invertible reparameterizations of the hidden layer that leave outputs unchanged; in Picozzi's ten transformer, state-space and recurrent models it agreed at a mean rank correlation of 0.88 against 0.62 for activation geometry, and about 9% of the top eigenvector overlap exceeded a null matched to the shared laws
 
 ## Source
 
@@ -135,3 +135,17 @@ not.
   cross-model sharing concentrates. It is the eigenspace of a per-context
   covariance operator, not of the pair operator the question defines.
 - **[QUESTION-027](../questions.d/QUESTION-027.md) and [CLAIM-209](../claims.d/CLAIM-209.md).** Evidence for the unrestricted form only.
+
+## Note of 2026-10-20: the identification, re-derived
+
+For the promotion audit (batch 049). The relational geometry is
+d_ij = 2 arccos Σ_a √(p_i(a) p_j(a)) over the battery, a function of the
+next-token laws p_i alone. Any reparameterization that leaves every
+output unchanged leaves every p_i, and so d, unchanged; two models with
+identical laws on the battery have the same matrix. For the hidden layer,
+take an invertible A and replace the hidden state h by Ah and the
+readout g by g ∘ A⁻¹. Every output is unchanged, and the Gram matrix
+becomes hᵢᵀAᵀAhⱼ, which differs from hᵢᵀhⱼ unless A is orthogonal
+(Prop. 1). The measured numbers are as [NOTE-755](../notes.d/NOTE-755.md) reports them from the
+text and SN18. The residual +0.063 is 0.063 / 0.698 ≈ 9% of the raw
+overlap.
