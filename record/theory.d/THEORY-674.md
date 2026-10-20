@@ -1,20 +1,24 @@
 ---
 number: 674
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpxx3fy
-promote_when: >-
-  An audit of the extracted edges themselves against human labels, by
-  experts or by the papers' authors, on a sample drawn by decade, field
-  and method, at the baseline EO ≥ 4. Promoted if edge-level precision and
-  recall for the causal label are high and roughly stable across decades,
-  so that the rise cannot be laid to modern papers naming their designs
-  more explicitly. Refuted if the causal label's precision on 1980s and
-  1990s papers is low or its recall rises sharply with time. More runs of
-  the same pipeline, agreement between its passes, or agreement with a
-  trend measured by a similar design-keyword method cannot settle it.
-title: "In NBER and CEPR working papers from 1980 to 2023, the share of claims backed by a design-based identification strategy (difference-in-differences, instrumental variables, RCT, regression discontinuity or synthetic control) rose about fourfold, from 7.7% of a paper's extracted edges in 1990 to 31.7% in 2020, as measured by an LLM extraction whose edges were never checked against human labels"
-version: 1
+title: 'In Garg and Fetzer''s GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper''s per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-674 (batch 074, ADR-047 v3 and v4): one study read in full in
+    NOTE-083, its §3 numbers re-checked against the arXiv v2 text. The title
+    now states what was measured, the output of the authors' extraction
+    pipeline, with the controlled slope the paper reports beside the raw
+    rise. The claim that the share of design-backed claims in economics
+    rose about fourfold leaves the title; the paper asserts it, so under
+    ADR-047 v4 it is filed as a new Proposed THEORY, THEORY-tmpx9ksh, which
+    extends this one and takes the promote_when (an edge-level audit
+    against human labels) unchanged.
 tags:
 - social-science
 - causality
@@ -32,11 +36,16 @@ summary: >-
   method labels only, with RCT precision about 0.02. The association of
   causal structure with top-five publication rests on year-fixed-effect
   regressions over different subsamples and is not part of this claim.
+  Promoted 2026-10-20 on the measurement alone (ADR-047 v3); the economics
+  claim is held as THEORY-tmpx9ksh.
+extended_by:
+- THEORY-tmpx9ksh
 ---
 <!-- inactive-ok-file: THEORY-451 — Proposed; Cartwright's account, named as a neighbour, nothing here rests on it -->
-<!-- inactive-ok-file: LIT-079 — Proposed by its close reading; the only source, and the account is Proposed for the reason that reading gives -->
+<!-- inactive-ok-file: LIT-079 — Proposed by its close reading for edges never validated against human labels; the only source, and the narrowed title states that limit -->
+<!-- inactive-ok-file: THEORY-tmpx9ksh — Proposed; the economics claim this measurement is taken to show, filed when the narrowing dropped it -->
 
-# THEORY-674: In NBER and CEPR working papers from 1980 to 2023, the share of claims backed by a design-based identification strategy (difference-in-differences, instrumental variables, RCT, regression discontinuity or synthetic control) rose about fourfold, from 7.7% of a paper's extracted edges in 1990 to 31.7% in 2020, as measured by an LLM extraction whose edges were never checked against human labels
+# THEORY-674: In Garg and Fetzer's GPT-4o-mini extraction from NBER and CEPR working papers, edges kept in at least 4 of 9 passes and never checked against human labels, the mean per-paper share of edges labelled as backed by difference-in-differences, instrumental variables, an RCT, regression discontinuity or synthetic control rose from 7.7% in 1990 to 31.7% in 2020, at every overlap threshold; the paper's per-decade slope fell from +0.0187 to +0.0011 once method mix and graph volume were controlled
 
 ## Source
 
@@ -100,3 +109,16 @@ every threshold (Fig. A1), though its level rises with the threshold too:
   extraction, the record's own method. Validating the unit of analysis one
   uses, here edges rather than paper labels, is the lesson; it is
   machine-learning practice and is not filed here.
+
+## Narrowed and promoted (2026-10-20)
+
+Batch 074 of the promotion audit narrowed the title to the measurement and
+promoted it under [ADR-047](../decisions.d/ADR-047.md) v3. The numbers it keeps are in the paper's
+running text (§3): 7.7% (1990), 8.6% (2000), 21.5% (2010), 31.7% (2020),
+and the per-decade slopes +0.0187 unadjusted, +0.0174 with field controls
+and +0.0011 with method-mix and graph-volume controls. The units of the
+slopes are the paper's and do not obviously match the levels (see above).
+The wider claim, that economics papers increasingly back their claims with
+design-based identification, is the paper's own reading of the series. It
+is held as [THEORY-tmpx9ksh](THEORY-tmpx9ksh.md), Proposed until the edges are audited against
+human labels.
