@@ -52,7 +52,7 @@ summary: >-
 answers:
 - QUESTION-051
 ---
-<!-- inactive-ok-file: THEORY-213 QUESTION-080 — Proposed or Open; a symmetry account of collapse and the question it bears on, open -->
+<!-- inactive-ok-file: QUESTION-080 — Proposed or Open; a symmetry account of collapse and the question it bears on, open -->
 <!-- inactive-ok-file: THEORY-078 THEORY-039 — Proposed; named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-286 — Proposed; derivations in free-features models, cited for the limits they set on this account, not leaned on -->
 
