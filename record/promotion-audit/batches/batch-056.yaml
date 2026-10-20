@@ -21,7 +21,8 @@ yield: >-
   an empirical principle with no derivation beyond the linear regime;
   THEORY-673 is an argument whose first clause (the Price equation)
   re-derives; THEORY-675 is a measurement whose barriers are plots only.
-promotion_prs: []
+promotion_prs:
+  - "#263: THEORY-714 corrected and promoted; QUESTION-tmpttlk1; dated corrections to NOTE-968 and LIT-1201 (branch claude/promote-theory-714)."
 band:
   - {code: THEORY-671, title_asserts: principle, formal_in_fact: false, outcome: retain-proposed}
   - {code: THEORY-673, title_asserts: argument, formal_in_fact: partly, outcome: retain-proposed}
