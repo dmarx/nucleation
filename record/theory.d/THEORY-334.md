@@ -1,20 +1,24 @@
 ---
 number: 334
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6oz2d
-promote_when: >-
-  A block-copying or similar study with enough participants for inferential
-  statistics, in which the cost of looking and the cost of holding items are
-  varied independently and the time each strategy actually takes, encoding
-  included, is measured per person. It promotes the account if people still
-  prefer re-fetching where it costs more total time, so that memory carries a
-  cost beyond time; it refutes that reading if their choices follow total time,
-  as THEORY-346's model does. More fixation counts in the original design
-  cannot settle it, because the timings in that design do not separate encoding
-  spread over a trial from the cost of each look.
-title: "In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics"
-version: 1
+title: 'In copying a pattern of coloured blocks that stays in view, seven subjects told to work quickly looked back at the model about 1.3 times per block, and their commonest cycle, which looks at the model both before picking up a block and before dropping it, was the slowest per block in the authors'' observed tallies (about 3 s, against 1.5 s for a cycle that copies from memory); looks fell to 1.0 per block with model and copy 70° apart and to 0.7 with one-colour patterns that could be chunked, and in three subjects a colour change made during a saccade raised fixation time by about 129 ms after pickup against about 50 ms before; no statistics are reported'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-334 (batch 063, ADR-047 v3): one study read in full in NOTE-883,
+    its Table 7 and §3.2 re-checked against the same PDF. The title now
+    states only what the article reports observing. The authors' coding of
+    the cycle (one look for colour, one for position), the generalisation
+    that people keep only the property the step needs, and the inference
+    that holding costs more than re-fetching leave it; the inference, which
+    THEORY-346 contests, stays in the body. The request for a powered study
+    with the two costs varied independently moves unchanged to
+    QUESTION-tmpsdkg1.
 tags:
 - embodied-cognition
 - cognition
@@ -33,9 +37,10 @@ summary: >-
   mid-saccade mostly went unnoticed and cost time only once colour was held. The
   "carrying cost" of working memory is inferred from choice, not measured, and
   what is left in the world is raw input, not a computed result.
+  Promoted 2026-10-20 on the observations alone (ADR-047 v3).
 ---
 
-# THEORY-334: In copying a pattern of coloured blocks that stays in view, people look back at the model about 1.3 times per block, most often once for colour and once for position, and so choose the slowest strategy with the least held in memory though told to be quick; they look less when model and copy are far apart or the pattern can be chunked, and keep only the property the current step needs; that holding information costs more than re-fetching it is inferred from these choices, in seven subjects, without statistics
+# THEORY-334: In copying a pattern of coloured blocks that stays in view, seven subjects told to work quickly looked back at the model about 1.3 times per block, and their commonest cycle, which looks at the model both before picking up a block and before dropping it, was the slowest per block in the authors' observed tallies (about 3 s, against 1.5 s for a cycle that copies from memory); looks fell to 1.0 per block with model and copy 70° apart and to 0.7 with one-colour patterns that could be chunked, and in three subjects a colour change made during a saccade raised fixation time by about 129 ms after pickup against about 50 ms before; no statistics are reported
 
 ## Source
 
@@ -111,3 +116,25 @@ or of holding. Neither happened.
   time; Gray et al. set the soft constraints hypothesis against this one.
 - [THEORY-360](THEORY-360.md): Kirsh and Maglio change the world to cheapen a computation;
   here the world is left alone and read again.
+
+## Note of 2026-10-20: narrowed and promoted
+
+The promotion audit (batch 063) narrowed the title to what [LIT-1075](../literature.d/LIT-1075.md)
+reports observing, and promoted it on that one study under [ADR-047](../decisions.d/ADR-047.md) v3.
+[NOTE-883](../notes.d/NOTE-883.md) read the target article in full, and the review checked Table 7
+and §3.2 against the same author-posted PDF. Table 7 is titled "Speed vs.
+memory tradeoffs observed", so the per-block times are the authors'
+tallies, not a model.
+
+Three clauses of the earlier title left it. "Most often once for colour
+and once for position" is the authors' coding of the commonest cycle, not
+a measurement of what each look fetched. "Keep only the property the
+current step needs" generalises one property tested in three subjects;
+the title now gives the measured fixation costs instead. The last was
+that holding information costs more than re-fetching it, inferred from
+these choices. That is the reading [THEORY-346](THEORY-346.md) contests with a model that
+prices both in time alone, and the reading Bogacz's commentary (not read in
+[NOTE-883](../notes.d/NOTE-883.md)) puts down to task unfamiliarity. The body keeps it as the
+authors' inference. The former promote_when, a powered study with the cost
+of looking and of holding varied independently and total time measured per
+person, moves unchanged to [QUESTION-tmpsdkg1](../questions.d/QUESTION-tmpsdkg1.md).

@@ -19,7 +19,19 @@ promote_when: >-
   because there the detection threshold and the counting of the grammar
   are the same expression.
 title: 'In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    The derived statistics of the Random Hierarchy Model (the covariance by
+    depth of common ancestor, the sampling-noise floor and the thresholds
+    P_ℓ) split off into THEORY-tmpnxcxo, filed Active, by the promotion
+    audit (batch 063, ADR-040, ADR-047 v2), on the pattern of THEORY-770.
+    This THEORY keeps the learning curves, the representation probes, the
+    character-level test and the argued link, extends the new one, and
+    stays Proposed: its figures were read without plotted values, and its
+    promote_when asks for an intervention or a proof a review cannot supply.
 tags:
 - learning-theory
 - representation-learning
@@ -38,6 +50,8 @@ summary: >-
   effective context window, not the hierarchy.
 answers:
 - QUESTION-025
+extends:
+- THEORY-tmpnxcxo
 ---
 <!-- inactive-ok-file: THEORY-182 THEORY-183 THEORY-186 QUESTION-025 — Proposed or open; cited as the accounts this one is set beside and the question it does not answer -->
 
@@ -110,3 +124,17 @@ correlation decay.
 - **Not a rule for building language models.** How much context or data a
   model should be given is an ML-practice question, and this account does
   not answer it.
+
+## Note of 2026-10-20: the derivation split off
+
+The promotion audit (batch 063) re-derived the first two clauses of this
+title to leading order and checked them against exact covariances of
+sampled grammars: the root-mean-square covariance by depth of common
+ancestor, the (v²P)^(−1/2) sampling floor and the thresholds P_ℓ. They are
+now [THEORY-tmpnxcxo](THEORY-tmpnxcxo.md), which this account extends. What stays here is what a
+review could not check. The loss steps, the insensitivity to resampling a
+subtree and the character-level collapse are measured, but [NOTE-687](../notes.d/NOTE-687.md) read
+those figures from captions, axis labels and text, not plotted values, so
+[ADR-047](../decisions.d/ADR-047.md) v3 does not apply. That learners find the hidden symbols by
+detecting these correlations is argued in §4.1, not shown. The
+promote_when is unchanged.

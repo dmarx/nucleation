@@ -53,7 +53,6 @@ summary: >-
 answers:
 - QUESTION-051
 ---
-<!-- inactive-ok-file: THEORY-246 — Proposed; the new-class transfer account, named in Connections to say it does not test this one -->
 
 # THEORY-104: Under distribution shift the best layer for a linear readout lies below the top: across the last layers of a trained network, in-distribution accuracy rises while out-of-distribution accuracy falls
 
