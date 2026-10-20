@@ -1,0 +1,42 @@
+# record/promotion-audit/decisions/THEORY-671.yaml
+id: THEORY-671
+batch: batch-056
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: principle
+formal_in_fact: false
+scope:
+  accepted: >-
+    Sorted as a general physical principle with a claimed derivation. The
+    promote_when asks for a derivation valid with nonlinear constitutive
+    relations far from equilibrium, or prospective tests with degrees of
+    freedom fixed in advance. Neither exists in the record. Dewar's 2003
+    route (LIT-521, NOTE-426) reaches MaxEP only through a mean-field step
+    and the unargued assumption that W(A_irr) increases with A_irr; his
+    2005 route holds only in the linear regime (THEORY-676). The
+    applications in Kleidon (LIT-519, NOTE-423) are model fits reported
+    after the fact. "Sufficient degrees of freedom" is never defined, so
+    the principle as titled has no refutation condition the sources fix.
+    The parts that check are narrow: the flux-force trade-off has an
+    interior maximum of entropy production (C2), and Dewar's two-box toy
+    optimum h_opt = 0.199 f_SW re-derives (NOTE-426). Neither carries the
+    title.
+  excluded: >-
+    The principle, its selection reading against Prigogine, and every
+    application.
+evidence:
+  - "NOTE-423 and NOTE-426 as filed; THEORY-676's critique."
+blockers:
+  - "No derivation beyond the linear regime or mean-field step; no prospective test; 'sufficient degrees of freedom' undefined."
+notes: >-
+  Triage-006 scored it 2 (title and relation signals); it is not formal.
+  It is not an interpretive argument either, so wave 5 does not fit: it
+  is an empirical principle whose support is absent, and the review can
+  do nothing for it. Narrowing to the flux-force maximum would file a
+  different, near-trivial result under this title.
+unlocks: []
+next_action: >-
+  Keep Proposed; no requeue. THEORY-676 stays the blocker.

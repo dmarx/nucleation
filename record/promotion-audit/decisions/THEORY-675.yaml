@@ -1,0 +1,44 @@
+# record/promotion-audit/decisions/THEORY-675.yaml
+id: THEORY-675
+batch: batch-056
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    Sorted as a measurement (ADR-047 v3): the title reports how barriers
+    vary with data structure in two studies. Neither meets the single-study
+    rule. Li et al. (LIT-676, NOTE-529): every barrier is a plot, "barrier
+    values are not given as numbers anywhere", and the CSBM trends are read
+    from Fig. 5's caption and the text's description; batch 019's rule (one
+    figure with no numbers in the text is not enough) holds it. Zhou, Zhang
+    & Tsang (LIT-666, NOTE-517): the numbers in the text are "> 20%"
+    disagreement and "about 10%" accuracy drop; the heterogeneity trend is
+    two pairs, (0.1, 0.2) higher than (0.1, 0.5), from one start, no seeds
+    and no IID control, and the width trend is Fig. 9, read from its
+    caption. A title narrowed to that would be two pairs of runs.
+  excluded: >-
+    Every clause of the title. The bounds are already excluded by the
+    entry itself (missing proofs; Lemma 1 and Theorem 1 conflict).
+evidence:
+  - "NOTE-529 and NOTE-517, as filed; no new reading in this review."
+blockers:
+  - >-
+    No barrier numbers for the GNN half; for the federated half, two pairs
+    of runs from one start with no IID control, figures read from captions.
+notes: >-
+  Triage-006 scored it 2; it is not formal. A reading task could render
+  the figure pages (arXiv 2502.12608 Fig. 5; arXiv 2309.16923 Figs. 5-9),
+  as batch 052 did for THEORY-083, but the promote_when asks for barriers
+  as numbers over several seeds with an IID control, which neither paper
+  reports, so the reading would not meet it. It carries the
+  anthology-candidate flag (loss landscapes are the anthology's ground);
+  moving it is the owner's call.
+unlocks: []
+next_action: >-
+  Keep Proposed. Requeue only if a study with seeds and an IID control is
+  filed.
