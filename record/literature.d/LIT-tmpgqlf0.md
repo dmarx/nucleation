@@ -79,18 +79,18 @@ citations of the book. A reading should check it first.
 ## Why this is here
 
 Filed at the owner's request on 2026-10-20 as contemporary work in
-conversation with Lessig's *Remix* (LIT-tmpreyek) at the intersection of
+conversation with Lessig's *Remix* ([LIT-tmpreyek](LIT-tmpreyek.md)) at the intersection of
 property and expression. Lessig asserts, without data, that remix does
 not compete with what it remixes and that clearance burdens remix (C3 in
-NOTE-tmptp3k0, rated weak; its Limitations say the economic core is not
+[NOTE-tmptp3k0](../notes.d/NOTE-tmptp3k0.md), rated weak; its Limitations say the economic core is not
 shown, and the reforms give no rates). This book is the nearest thing in
 reach to the missing data: interview evidence and fee estimates for what
 clearance costs in one practice. It concerns professional sampling, not
 Lessig's amateur remix, so a reading would have to say how far the
 numbers carry.
 
-It would also be read for CASE-100 and CLAIM-332: sampled breaks such as
+It would also be read for [CASE-100](../cases.d/CASE-100.md) and [CLAIM-332](../claims.d/CLAIM-332.md): sampled breaks such as
 "Funky Drummer" are a case of cultural material taken up and passed on
 by many hands, with credit and payment tracking the legal owner rather
 than the maker. It does not bear on what survives a rendering
-(QUESTION-002) except through its history of collage.
+([QUESTION-002](../questions.d/QUESTION-002.md)) except through its history of collage.

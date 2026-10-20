@@ -190,7 +190,7 @@ evidence, on Adler and MacKinnon on images in First Amendment and
 pornography law, on Farley, Yen, Subotnik and Amy Cohen on aesthetic
 judgment in copyright, on Daston and Galison's *Objectivity*, and on
 Schooler's verbal-overshadowing research. It cites Lessig's *Remix*
-(LIT-tmpreyek) three times: for text as the elite medium and video as the
+([LIT-tmpreyek](../literature.d/LIT-tmpreyek.md)) three times: for text as the elite medium and video as the
 vernacular (p. 710 n. 125), for Read/Write and Read/Only culture, whose
 appeal it traces to the special status of reading (p. 752 n. 313), and for
 freedom to quote as the foundation of textual fair use (p. 753). Christina
@@ -199,7 +199,7 @@ read.
 
 ## Bearing on the record
 
-- **QUESTION-002 (what survives a rendering in another medium).** This is
+- **[QUESTION-002](../questions.d/QUESTION-002.md) (what survives a rendering in another medium).** This is
   the main point of contact. Tushnet's subject is the rendering of an image
   into words, which courts do whenever they decide an image case. She treats
   it as a translation that is "flattening and distorting" (p. 694), and
@@ -209,38 +209,38 @@ read.
   who has described an image, or heard it described, sees the image
   differently afterwards. What survives a rendering can then depend on
   whether the receiver also meets the source, and in which order.
-- **CLAIM-076 and CLAIM-087 (cross-modal chains).** CLAIM-076 says each
+- **[CLAIM-076](../claims.d/CLAIM-076.md) and [CLAIM-087](../claims.d/CLAIM-087.md) (cross-modal chains).** [CLAIM-076](../claims.d/CLAIM-076.md) says each
   interpreter in a cross-modal chain, such as a captioner, may add motives
   and relations not present. Tushnet supplies legal cases of it: *Roth*,
   where shared words drove a finding about drawings, and *Gaiman*, where a
   writer's stock description is credited with the drawn character. Her
   Barthes quotation, that to describe a photograph is "to change
   structures, to signify something different to what is shown" (p. 734),
-  is the strong form. CLAIM-087's claim that cross-modal reconstruction can
+  is the strong form. [CLAIM-087](../claims.d/CLAIM-087.md)'s claim that cross-modal reconstruction can
   improve access gets no support here; the article is about loss and
   distortion from image to word.
-- **CLAIM-220 (task-relevant communicative distinctions).** A court
+- **[CLAIM-220](../claims.d/CLAIM-220.md) (task-relevant communicative distinctions).** A court
   comparing two works is a receiver with a stated task. Tushnet's point
   that "the appellate court and the trial court saw different works"
-  (p. 738) bears on how CLAIM-220 names its population of receivers: two
+  (p. 738) bears on how [CLAIM-220](../claims.d/CLAIM-220.md) names its population of receivers: two
   receivers with the same task and the same objects recovered different
   distinctions, because of the words that came with the objects. It does
-  not test CLAIM-220.
-- **CLAIM-210 (sharing a kind versus being a rendering).** *Franklin Mint*
+  not test [CLAIM-220](../claims.d/CLAIM-220.md).
+- **[CLAIM-210](../claims.d/CLAIM-210.md) (sharing a kind versus being a rendering).** *Franklin Mint*
   is close to a legal case of it. The third cardinal, painted in court
   without looking at the first two, shares the kind of the first without
   being a rendering of it, and that is what the jury used to find no
   infringement. Copyright's independent-creation defence draws the same
   line. Tushnet's own reform, judging near-exact copies by differences,
   is a test of rendering, not of kind.
-- **CLAIM-002 (identity across retellings).** Character copyright is a
+- **[CLAIM-002](../claims.d/CLAIM-002.md) (identity across retellings).** Character copyright is a
   legal attempt to say what persists across versions: Sam Spade, Tarzan,
   Superman as drawn by several artists and played by several actors
   (pp. 744, 750). Tushnet shows the courts have no settled account, and
   that a character's protection "stems from the image but goes beyond it"
-  (p. 750). That fits CLAIM-002's family of relations better than any one
+  (p. 750). That fits [CLAIM-002](../claims.d/CLAIM-002.md)'s family of relations better than any one
   of them, but the article does not argue it.
-- **NOTE-tmptp3k0 (Lessig).** Lessig argues remix needs the original
+- **[NOTE-tmptp3k0](NOTE-tmptp3k0.md) (Lessig).** Lessig argues remix needs the original
   because its meaning comes from the reference. Tushnet adds the legal and
   perceptual side for images: criticism of an image needs the whole image,
   and a redrawing, as in the Zapruder case, loses the persuasive force that
@@ -248,7 +248,7 @@ read.
   content, carries the meaning. Tushnet also argues, against Posner, that
   fans complete visual works on their own pages, which is Lessig's RW
   culture as a reply to a court (pp. 746–747).
-- **CASE-100 and CLAIM-332.** No real bearing. The fan-work point is about
+- **[CASE-100](../cases.d/CASE-100.md) and [CLAIM-332](../claims.d/CLAIM-332.md).** No real bearing. The fan-work point is about
   audience creativity, not about uptake by an institution.
 - No instruction for machine-learning practice, and not held by the
   anthology.
@@ -279,5 +279,5 @@ read.
   reducing it?
 - For the record: when a rendering into words changes how a receiver later
   perceives the source, is that loss in the rendering or a change in the
-  receiver, and can a measure of what survives (CLAIM-220) tell the two
+  receiver, and can a measure of what survives ([CLAIM-220](../claims.d/CLAIM-220.md)) tell the two
   apart?

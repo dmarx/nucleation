@@ -299,11 +299,11 @@ opinion in *Authors Guild v. Google* (2d Cir. 2015). It affirms the Second
 Circuit (11 F.4th 26), whose "celebrity-plagiarist privilege" phrase it
 adopts (n. 19). The dissent's tradition of borrowing (Story, Twain,
 Lethem's *The Ecstasy of Influence*, Eliot in *The Sacred Wood*) is the one Lessig's *Remix*
-(LIT-tmpreyek) argues from, though neither opinion cites Lessig.
+([LIT-tmpreyek](../literature.d/LIT-tmpreyek.md)) argues from, though neither opinion cites Lessig.
 
 ## Bearing on the record
 
-- **Lessig: remix's meaning comes from the reference (NOTE-tmptp3k0).**
+- **Lessig: remix's meaning comes from the reference ([NOTE-tmptp3k0](NOTE-tmptp3k0.md)).**
   Lessig argues that remix needs the original because its meaning
   lies in the reference, which only the original carries (*Remix*,
   p. 74). The opinion keeps a
@@ -328,10 +328,10 @@ Lethem's *The Ecstasy of Influence*, Eliot in *The Sacred Wood*) is the one Less
   copies) though not derived from it; and the Court's finding that the
   owner holds the market for stylized derivatives (p. 22) is the
   point at which Lessig's unshown claim that remix does not compete with
-  its sources (NOTE-tmptp3k0, C3) meets a legal answer that assumes it
+  its sources ([NOTE-tmptp3k0](NOTE-tmptp3k0.md), C3) meets a legal answer that assumes it
   can.
-- **CLAIM-002 (identity across retellings: artifact, transmission,
-  function).** The law runs CLAIM-002's three relations separately, and
+- **[CLAIM-002](../claims.d/CLAIM-002.md) (identity across retellings: artifact, transmission,
+  function).** The law runs [CLAIM-002](../claims.d/CLAIM-002.md)'s three relations separately, and
   that separation is the useful datum. Identity of the artifact is the
   infringement question, conceded here (substantial similarity, maj.
   p. 12; "It’s the photograph", p. 8). Continuity of transmission is
@@ -341,19 +341,19 @@ Lethem's *The Ecstasy of Influence*, Eliot in *The Sacred Wood*) is the one Less
   "purpose" is the purpose of a *use* in a market (illustrating a
   magazine story about Prince), not the communicative function of the
   work. The dissent's "meaning or message" is the closer analogue of
-  CLAIM-002's function, and the majority rules it out as the test. So
-  the case does not support or test CLAIM-002's thesis that descent is
+  [CLAIM-002](../claims.d/CLAIM-002.md)'s function, and the majority rules it out as the test. So
+  the case does not support or test [CLAIM-002](../claims.d/CLAIM-002.md)'s thesis that descent is
   not similarity. It shows that one institution judging reworkings needs
   all three relations and keeps them apart.
-- **CLAIM-034 (fidelity one goal among adaptation, critique and
+- **[CLAIM-034](../claims.d/CLAIM-034.md) (fidelity one goal among adaptation, critique and
   parody).** The opinion grades exactly these goals, by the source's
   role. Parody and critique of the source are favoured because the
   source is their object (pp. 17–19, n. 7). Adaptation, arrangement,
   sequel and, by §101, translation are the owner's derivative right
   (pp. 16, 28). Satire, which uses the source as material for comment
-  elsewhere, must justify the taking (p. 34). This gives CLAIM-034 an
+  elsewhere, must justify the taking (p. 34). This gives [CLAIM-034](../claims.d/CLAIM-034.md) an
   external criterion it lacks: whether the source is the target or the
-  material of the rendering. It does not bear on CLAIM-034's evaluative
+  material of the rendering. It does not bear on [CLAIM-034](../claims.d/CLAIM-034.md)'s evaluative
   claim. The law asks who may make a rendering, not how to judge one,
   and it scores high similarity of purpose *against* the user, the
   reverse of fidelity as a goal. The majority's sentence that a style
@@ -362,19 +362,19 @@ Lethem's *The Ecstasy of Influence*, Eliot in *The Sacred Wood*) is the one Less
   new meaning the record's experts found, as the dissent cites them
   (Kagan pp. 9–10), is a dispute over
   whether a rendering's meaning lies within the source's possibilities.
-  That is the question CLAIM-034's one-way simulation poses, but the
+  That is the question [CLAIM-034](../claims.d/CLAIM-034.md)'s one-way simulation poses, but the
   Court decides it by assertion and does not measure it.
-- **CLAIM-210 (sharing a kind against being a rendering).** The opinion
+- **[CLAIM-210](../claims.d/CLAIM-210.md) (sharing a kind against being a rendering).** The opinion
   has the same structure. Factor 1's comparison of purposes is a
   kind-sharing test, symmetric in itself: the People, Rolling Stone and
   Time covers share the photograph's purpose too (maj. n. 11), and that
   wrongs no one because none copied it. Purpose-sharing matters only
   given a copying, the directed relation, and Gorsuch's common-source
   rule (Gorsuch p. 5) states the other half. This is an independent
-  instance of the distinction, from law, and supports CLAIM-210's
+  instance of the distinction, from law, and supports [CLAIM-210](../claims.d/CLAIM-210.md)'s
   claim that the two relations are different. It does not touch its
   claim about fidelity, which the law does not measure.
-- **QUESTION-002 (what survives translation, retelling, rendering).**
+- **[QUESTION-002](../questions.d/QUESTION-002.md) (what survives translation, retelling, rendering).**
   It does not answer it. It is a documented case of an institution
   deciding, on an expert record, what of a source survives in a
   reworking: the composition and pose (fig. 6; "crops, flattens, traces,
@@ -383,8 +383,8 @@ Lethem's *The Ecstasy of Influence*, Eliot in *The Sacred Wood*) is the one Less
   affirm. The two sides
   measure different things: the majority the purpose of the use, the
   dissent the aesthetics and meaning of the work. That is a clean
-  example of QUESTION-002's demand that an answer say what is held fixed.
-  It also illustrates CLAIM-220's task-relativity, with the use standing
+  example of [QUESTION-002](../questions.d/QUESTION-002.md)'s demand that an answer say what is held fixed.
+  It also illustrates [CLAIM-220](../claims.d/CLAIM-220.md)'s task-relativity, with the use standing
   in for the task: the same rendering is judged differently in a tribute
   magazine, an art magazine (n. 12) or a museum (Gorsuch p. 6). That is
   an analogy only; the law's "use" is a market deployment, not a
@@ -396,9 +396,9 @@ Lethem's *The Ecstasy of Influence*, Eliot in *The Sacred Wood*) is the one Less
   original, p. 19). Recognizability of the *renderer*, a work
   "immediately recognizable as a ‘Warhol’", was rejected as a ground
   (pp. 10–11, n. 19). The record's question should keep the two apart.
-- **No bearing** on CASE-100: the X-Men film took the line, not the
+- **No bearing** on [CASE-100](../cases.d/CASE-100.md): the X-Men film took the line, not the
   fans' redub, so no copying use of the redub is in question.
-  No bearing on CLAIM-332, QUESTION-119 or QUESTION-023. No instruction
+  No bearing on [CLAIM-332](../claims.d/CLAIM-332.md), [QUESTION-119](../questions.d/QUESTION-119.md) or [QUESTION-023](../questions.d/QUESTION-023.md). No instruction
   for machine-learning practice; not held by the anthology.
 
 ## Limitations
@@ -443,8 +443,8 @@ Lethem's *The Ecstasy of Influence*, Eliot in *The Sacred Wood*) is the one Less
   The majority's examples suggest not; the dissent says factor 4
   should carry that load (Kagan n. 5).
 - For the record: can the source's role, target or material, be made a
-  coded variable of renderings next to the goals CLAIM-034 lists, and
+  coded variable of renderings next to the goals [CLAIM-034](../claims.d/CLAIM-034.md) lists, and
   does it predict how readers judge a rendering's fidelity or license?
 - For the record: is "purpose of the use" a usable stand-in for the task
-  in CLAIM-220, or does a market deployment differ from a receiver task
+  in [CLAIM-220](../claims.d/CLAIM-220.md), or does a market deployment differ from a receiver task
   in a way that blocks the analogy?

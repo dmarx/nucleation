@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-20 (NOTE-tmpjvg8y) in full; worth reading as the standard statement of the "second enclosure movement" argument: that intellectual property is a state-made monopoly to be kept as short and narrow as its purpose allows (the "Jefferson Warning"), that the public domain and the limits on rights do as much work as the rights, that cheaper copying makes those limits more important rather than less (the "Sony Axiom"), and that policy runs on faith rather than evidence. Its music chapter traces one melody from a 1951 gospel record through Ray Charles and Kanye West to a 2005 political mashup. Read it knowing that most of it is argument from cases chosen to make the point; the one sustained empirical test is the database right (ch. 9). It treats the commons of the mind as nonrival and open to all, so it does not engage Ostrom''s work on bounded common-pool resources beyond two notes.'
+status_note: 'read 2026-10-20 ([NOTE-tmpjvg8y](../notes.d/NOTE-tmpjvg8y.md)) in full; worth reading as the standard statement of the "second enclosure movement" argument: that intellectual property is a state-made monopoly to be kept as short and narrow as its purpose allows (the "Jefferson Warning"), that the public domain and the limits on rights do as much work as the rights, that cheaper copying makes those limits more important rather than less (the "Sony Axiom"), and that policy runs on faith rather than evidence. Its music chapter traces one melody from a 1951 gospel record through Ray Charles and Kanye West to a 2005 political mashup. Read it knowing that most of it is argument from cases chosen to make the point; the one sustained empirical test is the database right (ch. 9). It treats the commons of the mind as nonrival and open to all, so it does not engage Ostrom''s work on bounded common-pool resources beyond two notes.'
 title: 'The Public Domain: Enclosing the Commons of the Mind'
 version: 1
 history:
@@ -57,7 +57,7 @@ Boyle, J. (2008). *The Public Domain: Enclosing the Commons of the Mind*. New Ha
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpjvg8y.*
+*From the reading, [NOTE-tmpjvg8y](../notes.d/NOTE-tmpjvg8y.md).*
 
 - **The Jefferson Warning.** Ideas are nonrival. Rights over them are a
   state-made monopoly, not a natural right. They should last no longer
@@ -86,12 +86,12 @@ Boyle, J. (2008). *The Public Domain: Enclosing the Commons of the Mind*. New Ha
 ## Standing in the record
 
 Filed on 2026-10-20 at the owner's request, after Lessig's *Remix*
-(LIT-tmpreyek), as the second work on copyright and remix. The two books
+([LIT-tmpreyek](LIT-tmpreyek.md)), as the second work on copyright and remix. The two books
 appeared the same year and Boyle thanks Lessig as his main influence
 (p. viii). Read them together. Lessig argues from the economies that could
 sustain remix. Boyle argues from the history of intellectual property and
 from the public domain. Boyle's chapter 6 gives a second, independent
 account of why sampling needs the original recording (p. 150), next to
 Lessig's (*Remix*, pp. 74–76). The book cites Ostrom's *Governing the
-Commons* (LIT-737) only in its notes; how it relates to Ostrom's commons
-(LIT-719) is set out in the reading.
+Commons* ([LIT-737](LIT-737.md)) only in its notes; how it relates to Ostrom's commons
+([LIT-719](LIT-719.md)) is set out in the reading.

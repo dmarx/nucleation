@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-20 (NOTE-tmpffqxp) in full; worth reading as the Supreme Court''s statement that "transformative" use under the first fair-use factor is a question of the purpose of a particular use, a matter of degree, and not settled by new expression, meaning or message; that the degree of transformation must exceed what the derivative-work right already covers; that copying is justified most clearly when the copied work is the target (parody against satire); and that licensing markets for derivatives belong to the owner. Kagan''s dissent is the best short case for meaning and aesthetics as the measure. Read it knowing that it decides one factor only, for one use (the 2016 licence of Orange Prince to Condé Nast), and says nothing about the making, display or sale of the Prince Series, nor whether they infringe.'
+status_note: 'read 2026-10-20 ([NOTE-tmpffqxp](../notes.d/NOTE-tmpffqxp.md)) in full; worth reading as the Supreme Court''s statement that "transformative" use under the first fair-use factor is a question of the purpose of a particular use, a matter of degree, and not settled by new expression, meaning or message; that the degree of transformation must exceed what the derivative-work right already covers; that copying is justified most clearly when the copied work is the target (parody against satire); and that licensing markets for derivatives belong to the owner. Kagan''s dissent is the best short case for meaning and aesthetics as the measure. Read it knowing that it decides one factor only, for one use (the 2016 licence of Orange Prince to Condé Nast), and says nothing about the making, display or sale of the Prince Series, nor whether they infringe.'
 title: 'Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith'
 version: 1
 history:
@@ -56,7 +56,7 @@ summary: >-
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpffqxp.*
+*From the reading, [NOTE-tmpffqxp](../notes.d/NOTE-tmpffqxp.md).*
 
 - **One factor, one use.** The only question was whether the first
   factor of 17 U.S.C. §107, "the purpose and character of the use",
@@ -92,9 +92,9 @@ summary: >-
 ## Standing in the record
 
 Filed on 2026-10-20 at the owner's request, beside Lessig's *Remix*
-(LIT-tmpreyek). It is the record's first court opinion on copyright. The
+([LIT-tmpreyek](LIT-tmpreyek.md)). It is the record's first court opinion on copyright. The
 record files it for the translation line: the opinion is an institution's
 explicit ruling on how a reworking stands to its source, in terms of
 derivative versus transformative, purpose versus meaning, and target
-versus material. What transfers to CLAIM-002, CLAIM-034, CLAIM-210 and
-QUESTION-002, and what does not, is set out in the reading.
+versus material. What transfers to [CLAIM-002](../claims.d/CLAIM-002.md), [CLAIM-034](../claims.d/CLAIM-034.md), [CLAIM-210](../claims.d/CLAIM-210.md) and
+[QUESTION-002](../questions.d/QUESTION-002.md), and what does not, is set out in the reading.

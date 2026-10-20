@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-20 (NOTE-tmpdp35k) in full; worth reading as a compact and accurate account of Drassinower''s What''s Wrong with Copying? (the work as a communicative act, infringement as compelled speech, independent creation as the anchor, the public domain as constitutive) and as the standard methodological critique of it: no criterion for what is fundamental, explanation and justification run together, the private-law structure of liability left unexplained, and a rationality assumed static and pervasive. Read it knowing that it is a review, so Drassinower''s thesis comes at second hand with page references to the book, that its defence of rationalist theory is aimed at Lemley''s "faith-based" critique as much as at the book, and that one objection (the private-law structure) leans on the reviewer''s own theory.'
+status_note: 'read 2026-10-20 ([NOTE-tmpdp35k](../notes.d/NOTE-tmpdp35k.md)) in full; worth reading as a compact and accurate account of Drassinower''s What''s Wrong with Copying? (the work as a communicative act, infringement as compelled speech, independent creation as the anchor, the public domain as constitutive) and as the standard methodological critique of it: no criterion for what is fundamental, explanation and justification run together, the private-law structure of liability left unexplained, and a rationality assumed static and pervasive. Read it knowing that it is a review, so Drassinower''s thesis comes at second hand with page references to the book, that its defence of rationalist theory is aimed at Lemley''s "faith-based" critique as much as at the book, and that one objection (the private-law structure) leans on the reviewer''s own theory.'
 title: 'The Immanent Rationality of Copyright Law'
 version: 1
 history:
@@ -61,7 +61,7 @@ Balganesh, S. (2017). The Immanent Rationality of Copyright Law [Review of *What
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpdp35k.*
+*From the reading, [NOTE-tmpdp35k](../notes.d/NOTE-tmpdp35k.md).*
 
 - **Drassinower's thesis, as reported.** Copyright protects "the integrity
   of the work as a communicative act" (p. 1051, quoting the book at 8). The
@@ -87,8 +87,8 @@ Balganesh, S. (2017). The Immanent Rationality of Copyright Law [Review of *What
 ## Standing in the record
 
 Filed on 2026-10-20 at the owner's request, with Tushnet's *Worth a
-Thousand Words* (LIT-tmpy3oyr), as reading on what copyright law thinks a
+Thousand Words* ([LIT-tmpy3oyr](LIT-tmpy3oyr.md)), as reading on what copyright law thinks a
 work is. Drassinower's book is being filed separately the same day; this
 review is the record's second-hand account of it until that book is read,
 and a reading of the book should check the account against it. Its bearing
-on CLAIM-210, CLAIM-061 and CLAIM-002 is set out in the reading.
+on [CLAIM-210](../claims.d/CLAIM-210.md), [CLAIM-061](../claims.d/CLAIM-061.md) and [CLAIM-002](../claims.d/CLAIM-002.md) is set out in the reading.

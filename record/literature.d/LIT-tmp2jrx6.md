@@ -75,16 +75,16 @@ first.
 ## Why this is here
 
 Filed at the owner's request on 2026-10-20 as contemporary work in
-conversation with Lessig's *Remix* (LIT-tmpreyek) at the intersection of
+conversation with Lessig's *Remix* ([LIT-tmpreyek](LIT-tmpreyek.md)) at the intersection of
 property and expression. Lessig's argument that copyright now regulates
 ordinary expression because it regulates copies is a copyright-against-speech
 argument, and his fifth reform, a levy to decriminalize file sharing,
-cites Netanel by name (NOTE-tmptp3k0, ch. 9). Netanel is the
+cites Netanel by name ([NOTE-tmptp3k0](../notes.d/NOTE-tmptp3k0.md), ch. 9). Netanel is the
 constitutional and doctrinal version of that argument. A reading would
 check whether Lessig's copy-trigger complaint holds up once speech
 values, not the copy, set copyright's scope, and what the levy proposal
 looks like in its own author's hands.
 
-It bears on the record's translation line (CLAIM-002, QUESTION-002) only
+It bears on the record's translation line ([CLAIM-002](../claims.d/CLAIM-002.md), [QUESTION-002](../questions.d/QUESTION-002.md)) only
 at a distance: as described, it is about how far law should let one
 person's expression be built on, not about what survives the building.

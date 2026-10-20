@@ -234,7 +234,7 @@ Lessig.
 
 ## Bearing on the record
 
-- **NOTE-tmptp3k0 (Lessig's copy trigger).** This is the closest contact.
+- **[NOTE-tmptp3k0](NOTE-tmptp3k0.md) (Lessig's copy trigger).** This is the closest contact.
   Lessig argued that because copyright regulates copies and every digital
   use makes one, the law now reaches ordinary use, which survives only as
   fair use. The report applies that structure to training and accepts it
@@ -255,22 +255,22 @@ Lessig.
   works and no particular one (p. 57 and n. 325). That weakens the
   per-work justification, which is why the report moves the weight to
   deployment and market effect.
-- **CLAIM-002 (identity across retellings).** The report's two tests
-  divide CLAIM-002's relations. Infringement by the weights rests on
+- **[CLAIM-002](../claims.d/CLAIM-002.md) (identity across retellings).** The report's two tests
+  divide [CLAIM-002](../claims.d/CLAIM-002.md)'s relations. Infringement by the weights rests on
   identity of the artifact, as recoverable expression. Continuity of
   transmission alone, a work having passed through training, is not
   enough (p. 30). Factor four, by contrast, counts similarity of function:
   outputs that serve the same audience harm the market even when no
   particular work survives in them.
-- **CLAIM-210 (sharing a kind against being a rendering).** Market
+- **[CLAIM-210](../claims.d/CLAIM-210.md) (sharing a kind against being a rendering).** Market
   dilution is a harm from kind-sharing without rendering. The romance
   novels in the report's example (p. 65) share a kind with their training
-  works and are renderings of none of them. On CLAIM-210 they have no
+  works and are renderings of none of them. On [CLAIM-210](../claims.d/CLAIM-210.md) they have no
   fidelity to any source. The report nevertheless counts their effect
   against the training use. The record can use this as a clear case where
   the law treats the two relations differently: rendering triggers the
   reproduction right, kind-sharing only the market factor.
-- **CLAIM-199 and CLAIM-220 (what a rendering makes recoverable).** The
+- **[CLAIM-199](../claims.d/CLAIM-199.md) and [CLAIM-220](../claims.d/CLAIM-220.md) (what a rendering makes recoverable).** The
   weights test is a recoverability test for a receiver with a machine: is
   the work fixed so that it can be perceived or reproduced with a device
   (pp. 28–29)? This matches the record's proposed view that what survives a
@@ -279,12 +279,12 @@ Lessig.
   supplies no measure. The only figures come from developers (the study Meta cited, about
   1% memorized, p. 21; and Meta's claim in *Kadrey* that Llama cannot produce more than 1% of
   any work, p. 60 n. 345).
-- **CLAIM-034 (fidelity among other goals).** The report's transformative
+- **[CLAIM-034](../claims.d/CLAIM-034.md) (fidelity among other goals).** The report's transformative
   spectrum is an evaluative scale on which fidelity to the source counts
   against the user. Parody and comment are favoured because they target the
-  work (p. 38). This fits CLAIM-034 and adds a legal case where fidelity is
+  work (p. 38). This fits [CLAIM-034](../claims.d/CLAIM-034.md) and adds a legal case where fidelity is
   a liability.
-- **CASE-100, CLAIM-332 and QUESTION-119.** No bearing. The report
+- **[CASE-100](../cases.d/CASE-100.md), [CLAIM-332](../claims.d/CLAIM-332.md) and [QUESTION-119](../questions.d/QUESTION-119.md).** No bearing. The report
   discusses no fan work or distributed uptake. Its dilution harm is an
   aggregate effect of many outputs, not of a population of agents.
 - **Personhood and agency.** The human-learning section (p. 48) denies that
@@ -334,5 +334,5 @@ Lessig.
   been deleted after training still the relevant copy, and does the answer
   change who is liable downstream (pp. 27–28)?
 - For the record: is the report's split between recoverable expression
-  (copy) and shared function (market harm) a case of CLAIM-210's
+  (copy) and shared function (market harm) a case of [CLAIM-210](../claims.d/CLAIM-210.md)'s
   distinction that the translation line could use as a test case?

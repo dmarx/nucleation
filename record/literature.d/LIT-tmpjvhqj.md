@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-20 (NOTE-tmpwosj3) in full, in the pre-publication version of 9 May 2025, the only version copyright.gov offers on that date; worth reading as the official US statement of where training touches copyright (collection, curation, training copies, and model weights only where they have memorized a work), as an application of the Warhol v. Goldsmith use-specific test of transformative purpose to generative training (a spectrum, from research and closed non-substitutive deployments to fine-tuning that reproduces a series''s characters), and for its new market-dilution theory of harm under the fourth factor. Read it knowing that it is an agency''s analysis, not a holding; that it predates the 2025 district-court rulings on training; that its account of the facts rests mostly on the parties'' own comments; that the dilution theory is offered as "uncharted territory" with no data; and that a final version was promised but had not appeared by 2026-10-20.'
+status_note: 'read 2026-10-20 ([NOTE-tmpwosj3](../notes.d/NOTE-tmpwosj3.md)) in full, in the pre-publication version of 9 May 2025, the only version copyright.gov offers on that date; worth reading as the official US statement of where training touches copyright (collection, curation, training copies, and model weights only where they have memorized a work), as an application of the Warhol v. Goldsmith use-specific test of transformative purpose to generative training (a spectrum, from research and closed non-substitutive deployments to fine-tuning that reproduces a series''s characters), and for its new market-dilution theory of harm under the fourth factor. Read it knowing that it is an agency''s analysis, not a holding; that it predates the 2025 district-court rulings on training; that its account of the facts rests mostly on the parties'' own comments; that the dilution theory is offered as "uncharted territory" with no data; and that a final version was promised but had not appeared by 2026-10-20.'
 title: 'Copyright and Artificial Intelligence, Part 3: Generative AI Training (Pre-Publication Version)'
 version: 1
 history:
@@ -70,7 +70,7 @@ Report of the Register of Copyrights. Washington, DC: U.S. Copyright Office.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpwosj3.*
+*From the reading, [NOTE-tmpwosj3](../notes.d/NOTE-tmpwosj3.md).*
 
 - **Training is copying, at the input.** Downloading, converting, filtering
   and compiling a dataset "clearly implicate" the reproduction right, and so
@@ -108,12 +108,12 @@ Report of the Register of Copyrights. Washington, DC: U.S. Copyright Office.
 ## Standing in the record
 
 Filed on 2026-10-20 at the owner's request, as the second work on copyright
-after Lessig's *Remix* (LIT-tmpreyek). It is read against Lessig's copy
-trigger (NOTE-tmptp3k0): the report confirms that training sets off the
+after Lessig's *Remix* ([LIT-tmpreyek](LIT-tmpreyek.md)). It is read against Lessig's copy
+trigger ([NOTE-tmptp3k0](../notes.d/NOTE-tmptp3k0.md)): the report confirms that training sets off the
 trigger at every input step, and then puts the whole question into fair use,
 as Lessig said the law does for every digital use. It applies the Supreme
 Court's Warhol v. Goldsmith test, which is being filed in this record at the
-same time. Its bearing on CLAIM-002, CLAIM-210 and the translation line is
+same time. Its bearing on [CLAIM-002](../claims.d/CLAIM-002.md), [CLAIM-210](../claims.d/CLAIM-210.md) and the translation line is
 set out in the reading. It is an anthology candidate (the anthology's
 deployment-and-society topic could hold it) and is held here because the
 anthology holds nothing on copyright.
