@@ -39,6 +39,7 @@ summary: >-
   The author's rights reach only communicative uses consistent with
   others' rights to respond, so copying needed to answer a work is lawful.
 ---
+<!-- inactive-ok-file: CLAIM-002 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # LIT-tmp25fzb: What's Wrong with Copying?
 

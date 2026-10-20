@@ -25,6 +25,7 @@ summary: >-
   private-law enforcement, and room for change over time and for
   instrumental reasoning at the level of the system.
 ---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-061 CLAIM-220 CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # NOTE-tmpdp35k: Balganesh — The Immanent Rationality of Copyright Law
 

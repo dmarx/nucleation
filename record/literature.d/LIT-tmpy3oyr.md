@@ -49,6 +49,7 @@ summary: >-
   it is seen, so the substantial-similarity test should be abandoned for a
   reproduction right against exact or near-exact copies.
 ---
+<!-- inactive-ok-file: CLAIM-076 CLAIM-220 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpy3oyr: Worth a Thousand Words: The Images of Copyright
 

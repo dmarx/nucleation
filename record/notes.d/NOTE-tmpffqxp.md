@@ -32,6 +32,7 @@ summary: >-
   the factor favours Goldsmith. Kagan's dissent would measure the
   factor by added expression and meaning.
 ---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-034 CLAIM-220 CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # NOTE-tmpffqxp: Sotomayor — Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith
 

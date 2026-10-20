@@ -61,6 +61,7 @@ summary: >-
   The Office recommends letting licensing markets develop, with extended
   collective licensing if they fail.
 ---
+<!-- inactive-ok-file: CLAIM-002 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpjvhqj: Copyright and Artificial Intelligence, Part 3: Generative AI Training (Pre-Publication Version)
 

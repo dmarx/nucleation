@@ -37,6 +37,7 @@ summary: >-
   propertarian view, and proposes delimiting copyright by what best
   promotes robust debate and expressive diversity.
 ---
+<!-- inactive-ok-file: CLAIM-002 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # LIT-tmp2jrx6: Copyright's Paradox
 

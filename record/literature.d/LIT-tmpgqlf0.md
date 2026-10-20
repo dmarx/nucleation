@@ -39,6 +39,7 @@ summary: >-
   (Paul's Boutique, Fear of a Black Planet) could not be released
   commercially. Reforms are surveyed, including a reverse liability rule.
 ---
+<!-- inactive-ok-file: CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpgqlf0: Creative License: The Law and Culture of Digital Sampling
 

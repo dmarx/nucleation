@@ -49,6 +49,7 @@ summary: >-
   Gorsuch concurs; Kagan, dissenting, would count Warhol's added
   expression and meaning heavily.
 ---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-034 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpvpoqj: Andy Warhol Foundation for the Visual Arts, Inc. v. Goldsmith
 

@@ -27,6 +27,7 @@ summary: >-
   learned, and machine learning is not human learning. Market dilution by
   same-kind outputs is harm. Licensing should develop without intervention.
 ---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-034 CLAIM-199 CLAIM-220 CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # NOTE-tmpwosj3: U.S. Copyright Office — Copyright and Artificial Intelligence, Part 3: Generative AI Training
 

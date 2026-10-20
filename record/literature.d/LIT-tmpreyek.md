@@ -45,6 +45,8 @@ summary: >-
   Proposed reforms: free amateur remix, registration after a term, no
   regulation of the copy as such, and a levy or licence for file sharing.
 ---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1121 — Unavailable; works registered unread, cited for what they would be read for -->
 
 # LIT-tmpreyek: Remix: Making Art and Commerce Thrive in the Hybrid Economy
 

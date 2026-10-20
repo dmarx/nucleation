@@ -23,6 +23,7 @@ summary: >-
   cannot work. The proposed cure is a reproduction right against
   near-exact copies plus a narrowed derivative-works right.
 ---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-076 CLAIM-087 CLAIM-220 CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # NOTE-tmpalydh: Tushnet — Worth a Thousand Words: The Images of Copyright
 

@@ -54,6 +54,7 @@ summary: >-
   without defending autonomy, ignores the private-law structure of
   liability, and assumes a static and pervasive rationality.
 ---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-061 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpjk5ls: The Immanent Rationality of Copyright Law
 

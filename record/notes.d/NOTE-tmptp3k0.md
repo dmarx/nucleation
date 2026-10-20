@@ -27,6 +27,8 @@ summary: >-
   proper term; hybrids join them and survive only while the line holds.
   The legal reforms and the economics are argued, not measured.
 ---
+<!-- inactive-ok-file: CLAIM-002 CLAIM-034 CLAIM-220 CLAIM-332 — Proposed; open claims and accounts this reading bears on, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1121 LIT-1143 — Unavailable; works registered unread, cited for what they would be read for -->
 
 # NOTE-tmptp3k0: Lessig — Remix: Making Art and Commerce Thrive in the Hybrid Economy
 
