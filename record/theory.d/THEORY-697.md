@@ -26,7 +26,6 @@ summary: >-
 supports:
 - CLAIM-298
 ---
-<!-- inactive-ok-file: THEORY-261 — Proposed; neighbouring memory accounts named in Connections, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-180 CLAIM-298 — Proposed; the record's own claims that use this reading, named in Connections -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; Kanerva's book, named as the source of the critical distance, unread -->
 

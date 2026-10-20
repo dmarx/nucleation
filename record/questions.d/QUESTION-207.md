@@ -1,5 +1,8 @@
 ---
+number: 207
 status: Open
+formerly:
+- QUESTION-tmpn5l6x
 title: 'Without choosing checkpoints on the unseen pairs, does coverage of combinations still beat volume for compositional generalization, in a second architecture or with more than two concepts?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   honest model selection, another architecture or more concepts is open.
 ---
 
-# QUESTION-tmpn5l6x: Without choosing checkpoints on the unseen pairs, does coverage of combinations still beat volume for compositional generalization, in a second architecture or with more than two concepts?
+# QUESTION-207: Without choosing checkpoints on the unseen pairs, does coverage of combinations still beat volume for compositional generalization, in a second architecture or with more than two concepts?
 
 ## Why it is a question
 

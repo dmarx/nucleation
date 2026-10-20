@@ -20,7 +20,7 @@ summary: >-
 answered_by:
 - CLAIM-298
 ---
-<!-- inactive-ok-file: CLAIM-298 THEORY-261 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-298 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-928 — Unavailable; held without a reading, cited as such -->
 
 # QUESTION-096: When does a communicative cue change what an interpreter can recover from an unchanged internal state, and how can such an addressing effect be told apart from new information, added computation or a changed policy?

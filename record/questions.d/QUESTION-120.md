@@ -57,7 +57,7 @@ refined_by:
 - QUESTION-168
 ---
 <!-- inactive-ok-file: LIT-1158 — Unavailable; the fly paper, a lawful preprint this client could not fetch -->
-<!-- inactive-ok-file: THEORY-106 THEORY-261 — Proposed; the accounts the random-features and SDM threads are set against -->
+<!-- inactive-ok-file: THEORY-106 — Proposed; the accounts the random-features and SDM threads are set against -->
 
 # QUESTION-120: When the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the compressed-sensing bound on superposition, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?
 

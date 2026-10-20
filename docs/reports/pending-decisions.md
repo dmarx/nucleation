@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**745 document(s) awaiting a decision.**
+**736 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 745.
+95 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-419 of the 745.
+410 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -150,7 +150,6 @@
 | 2026-10-03 | Proposed | [THEORY-067](../../record/theory.d/THEORY-067.md) | 26 | 0 | Self-control over time needs no faculty of will: interests that dominate at different delays bargain, and resolve is the recursive staking of expected future choices on the present one |
 | 2026-10-03 | Proposed | [THEORY-050](../../record/theory.d/THEORY-050.md) | 25 | 2 | Psychological inflexibility, in which verbal relations give private events aversive functions and make experiential avoidance a general strategy, is a transdiagnostic process in psychopathology |
 | 2026-10-03 | Proposed | [THEORY-101](../../record/theory.d/THEORY-101.md) | 25 | 7 | Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom |
-| 2026-10-03 | Proposed | [THEORY-117](../../record/theory.d/THEORY-117.md) | 25 | 13 | Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one |
 | 2026-10-03 | Proposed | [THEORY-069](../../record/theory.d/THEORY-069.md) | 23 | 1 | Rhythmic bimanual coordination switches from anti-phase to in-phase through a nonequilibrium phase transition in relative phase, captured by the HKB equation, with critical fluctuations and critical slowing as early warning |
 | 2026-10-03 | Proposed | [THEORY-044](../../record/theory.d/THEORY-044.md) | 22 | 4 | In relational frame theory the self is verbal behaviour's content, its process and its context, and the self as context is a perspective learned from deictic relations that cannot itself be found as content |
 | 2026-10-03 | Proposed | [THEORY-100](../../record/theory.d/THEORY-100.md) | 22 | 2 | A neural correlate of conscious report does not require laminar cortex: in crows it is carried by the nidopallium caudolaterale, a nuclear pallial region whose neurons follow the reported percept rather than the stimulus |
@@ -234,14 +233,12 @@
 | 2026-10-09 | Proposed | [THEORY-186](../../record/theory.d/THEORY-186.md) | 50 | 0 | A deep linear network trained from small weights learns the singular modes of its input–output correlations one at a time in order of strength, each in a sharp sigmoidal transition, while a shallow network learns them all together; the stages come from the product of layers and the data's spectrum, not from nonlinearity |
 | 2026-10-09 | Proposed | [THEORY-194](../../record/theory.d/THEORY-194.md) | 44 | 1 | For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information with the system beyond a buffer around the block is the renormalization-group relevant one, while a coarse-graining fitted to reproduce the data distribution is not: which variables a compression keeps is set by what it must stay informative about |
 | 2026-10-09 | Proposed | [THEORY-182](../../record/theory.d/THEORY-182.md) | 39 | 0 | A rank-limited contrastive word embedding trained from small initialisation learns the top eigenvectors of the co-occurrence matrix's relative deviation from independence, one at a time in order of eigenvalue, not the best low-rank approximation of its unconstrained optimum |
-| 2026-10-09 | Proposed | [THEORY-172](../../record/theory.d/THEORY-172.md) | 36 | 0 | Listeners in simple reference games interpret an utterance by inverting a model of a speaker who chooses among alternatives by informativeness, so the interpretation of a fixed form depends on what else the speaker could have said |
 | 2026-10-09 | Proposed | [THEORY-174](../../record/theory.d/THEORY-174.md) | 30 | 0 | Classical simulations between empirical models on different scenarios never create contextuality, and a map between model sets is such a simulation exactly when a non-contextual model of the hom scenario induces it |
 | 2026-10-09 | Proposed | [THEORY-183](../../record/theory.d/THEORY-183.md) | 29 | 0 | When the co-occurrence of words on a latent continuum depends only on their separation, a spectral word embedding places them on the Fourier modes of that continuum, so the circles and rippled curves of months, years and places come from a symmetry of the corpus statistics |
 | 2026-10-09 | Proposed | [THEORY-196](../../record/theory.d/THEORY-196.md) | 21 | 0 | A finite tree embeds in the hyperbolic plane with worst-case distortion 1 + ε, but because a hyperbolic distance d takes about d bits to write, its coordinates need Θ((ℓ/ε) log deg_max) bits: logarithmic in the branching, linear in the longest path ℓ, so hyperbolic space is economical for shallow bushy hierarchies and not for deep ones |
 | 2026-10-09 | Proposed | [THEORY-199](../../record/theory.d/THEORY-199.md) | 19 | 1 | In data generated by a random hierarchical grammar, the Bayes-optimal denoiser recovers the top-level class only below a threshold noise, which becomes sharp as the tree deepens and exists only when the grammar uses a small enough fraction of possible tuples (branching times that fraction below one), while low-level features degrade smoothly with noise and so survive past the threshold |
 | 2026-10-09 | Proposed | [THEORY-201](../../record/theory.d/THEORY-201.md) | 19 | 0 | In next-token prediction on hierarchically generated sequences, the correlation between two tokens falls by about a factor m per level of their common ancestor, so a training set of P sequences resolves correlations only out to a distance t*(P) at which they meet sampling noise; learners come to represent the hidden symbols up to that depth, giving loss steps at about v m^(2ℓ−1) examples, and on character-level text the context at which the loss saturates grows as P^(1/(2β)) with β the measured correlation decay |
 | 2026-10-09 | Proposed | [THEORY-168](../../record/theory.d/THEORY-168.md) | 18 | 0 | In Contextuality-by-Default, whether a fixed set of measurements is contextual depends on how the system is represented: which couplings are imposed, and which dichotomizations of the variables are included |
-| 2026-10-09 | Proposed | [THEORY-175](../../record/theory.d/THEORY-175.md) | 16 | 1 | Cosine similarities to matched anchor points are invariant exactly to the maps that preserve cosines, and independently trained encoders agree in them only approximately: enough for a decoder reading them to transfer untrained between seeds, architectures and languages with loss, while their nearest neighbours mostly differ |
 | 2026-10-09 | Proposed | [THEORY-188](../../record/theory.d/THEORY-188.md) | 16 | 0 | In a random graph whose nodes lie in a hyperbolic disk and connect by distance, a power-law degree distribution and strong clustering follow from the geometry: the degree exponent is set by node density relative to curvature, clustering by a temperature, and removing the angular, metric part of the distance leaves the configuration model |
 | 2026-10-09 | Proposed | [THEORY-159](../../record/theory.d/THEORY-159.md) | 14 | 6 | In a language a term's value is fixed by its relations to the coexisting terms of the same system, so terms that share a signification can differ in value |
 | 2026-10-09 | Proposed | [THEORY-173](../../record/theory.d/THEORY-173.md) | 14 | 0 | Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries of human-produced information that, like prices and bureaucratic categories, let it be reorganized at scale |
@@ -251,7 +248,6 @@
 | 2026-10-09 | Proposed | [THEORY-204](../../record/theory.d/THEORY-204.md) | 12 | 2 | In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay with lag of the strongest token–token covariance and γ the decay of next-token conditional entropy with context length, because P tokens resolve correlations only out to a horizon n*(P) ~ P^(1/(2β)) and the loss is the entropy at that horizon, provided the learner uses the tokens inside the horizon faster than the horizon grows |
 | 2026-10-09 | Proposed | [THEORY-163](../../record/theory.d/THEORY-163.md) | 10 | 0 | The colour-naming systems of the world's languages lie near the information-bottleneck bound for compressing perceptual meanings into words, and one trade-off parameter places them along it |
 | 2026-10-09 | Proposed | [THEORY-157](../../record/theory.d/THEORY-157.md) | 8 | 2 | The classical theorems on sufficient statistics need only the copy/discard structure of Markov kernels: Basu's theorem holds in every Markov category, and Fisher–Neyman and Bahadur need only strict positivity, not the existence of conditional distributions |
-| 2026-10-09 | Proposed | [THEORY-166](../../record/theory.d/THEORY-166.md) | 8 | 1 | Survey question-order effects leave the probability of giving the same answer to both questions unchanged, as a projection model predicts, and this regularity does not by itself favour quantum over classical probability |
 | 2026-10-09 | Proposed | [THEORY-170](../../record/theory.d/THEORY-170.md) | 8 | 0 | Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message |
 | 2026-10-09 | Proposed | [THEORY-200](../../record/theory.d/THEORY-200.md) | 7 | 2 | On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task |
 | 2026-10-09 | Proposed | [THEORY-164](../../record/theory.d/THEORY-164.md) | 5 | 0 | In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect |
@@ -290,7 +286,6 @@
 | 2026-10-14 | Proposed | [THEORY-245](../../record/theory.d/THEORY-245.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three; no prefrontal site responded at stimulus offset |
 | 2026-10-14 | Proposed | [THEORY-246](../../record/theory.d/THEORY-246.md) | 10 | 0 | Training objectives that tighten the class clusters of a classifier's last layers buy accuracy on the trained classes and pay for it in new tasks: among ImageNet-trained ResNet-50s, fixed penultimate features with more class separation transfer worse to datasets with other classes, the difference lies in the last few blocks, and fine-tuning removes it |
 | 2026-10-14 | Proposed | [THEORY-250](../../record/theory.d/THEORY-250.md) | 10 | 0 | DALL-E 3 renders single familiar relations well but is not robustly compositional: human-judged agreement falls when subject and object of an asymmetric relation are reversed and when two relations are combined, and its failures on reversed prompts are mostly wrong or role-swapped relations, not missing objects |
-| 2026-10-14 | Proposed | [THEORY-261](../../record/theory.d/THEORY-261.md) | 10 | 4 | In sparse distributed memory, recall of uniform random data is a signal-to-noise problem whose optimum activates about (2MT)^-1/3 of the hard locations, and capacity then grows with the number of hard locations, to about a tenth of them at 0.999 bit fidelity, not with the word length |
 | 2026-10-14 | Proposed | [THEORY-285](../../record/theory.d/THEORY-285.md) | 10 | 4 | In an active-inference model of post-traumatic context inference, an overly precise prior that one is in a harmful context makes exploratory sampling look uninformative, so the agent attenuates the periphery, never receives the evidence that would correct the prior, and the belief sustains itself; lowering precision removes the symptoms without correcting the prior |
 | 2026-10-14 | Proposed | [THEORY-296](../../record/theory.d/THEORY-296.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked |
 | 2026-10-14 | Proposed | [THEORY-320](../../record/theory.d/THEORY-320.md) | 10 | 0 | In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it |
@@ -299,22 +294,18 @@
 | 2026-10-14 | Proposed | [THEORY-316](../../record/theory.d/THEORY-316.md) | 9 | 0 | Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one |
 | 2026-10-14 | Proposed | [THEORY-327](../../record/theory.d/THEORY-327.md) | 9 | 0 | Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault |
 | 2026-10-14 | Proposed | [THEORY-230](../../record/theory.d/THEORY-230.md) | 8 | 0 | The Fisher–Rao geometry of a language model's next-token laws over a set of contexts is a function of its behaviour alone, so models that fit the same laws must share it; across ten architectures it agrees far more than activation geometry does, and only about a tenth of the shared eigenvector structure goes beyond what the shared laws imply |
-| 2026-10-14 | Proposed | [THEORY-259](../../record/theory.d/THEORY-259.md) | 8 | 0 | Ideal MDL and Bayesian MAP selection under the universal prior agree only to within the complexity of the hypothesis's likelihood, and only among hypotheses for which the data are individually random |
 | 2026-10-14 | Proposed | [THEORY-298](../../record/theory.d/THEORY-298.md) | 8 | 1 | Report-based evidence cannot test whether posterior cortex suffices for experience, because report itself needs anterior activity, and no marker that bypasses report has a validation resting neither on introspection nor on a contested theory |
 | 2026-10-14 | Proposed | [THEORY-251](../../record/theory.d/THEORY-251.md) | 7 | 0 | In few-shot classification by a base language model, failures from the choice of examples or from relabelled categories leave the class representations separable and fail at the vocabulary readout |
 | 2026-10-14 | Proposed | [THEORY-254](../../record/theory.d/THEORY-254.md) | 7 | 0 | Tangle-defined cohesion matches network communities only where community structure is strongly delineated, and tangles of one to three vertices recur beside the ones that do |
 | 2026-10-14 | Proposed | [THEORY-258](../../record/theory.d/THEORY-258.md) | 7 | 1 | Optimizing a language model on feedback from a simulated population in which a few users reward harmful validation selects a policy that picks those users out by contextual cues and harms only them, with no one designing the targeting |
-| 2026-10-14 | Proposed | [THEORY-271](../../record/theory.d/THEORY-271.md) | 7 | 0 | In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it |
 | 2026-10-14 | Proposed | [THEORY-292](../../record/theory.d/THEORY-292.md) | 7 | 0 | In CNN image classifiers, concept directions fitted one concept at a time align for attributes that co-occur in the labels, yet a joint fit finds mutually orthogonal directions that still separate each concept with little loss of AUROC, so the alignment is a property of the separate fits and not forced by the representation |
 | 2026-10-14 | Proposed | [THEORY-227](../../record/theory.d/THEORY-227.md) | 6 | 0 | Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse |
 | 2026-10-14 | Proposed | [THEORY-240](../../record/theory.d/THEORY-240.md) | 6 | 0 | Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters |
 | 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 6 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
-| 2026-10-14 | Proposed | [THEORY-244](../../record/theory.d/THEORY-244.md) | 6 | 0 | Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution |
 | 2026-10-14 | Proposed | [THEORY-262](../../record/theory.d/THEORY-262.md) | 6 | 0 | Neural complexity is low when a system's parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated; in simulated cortex, patchy grouped connectivity raises it above random connectivity of equal density |
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 6 | 0 | Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 5 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
-| 2026-10-14 | Proposed | [THEORY-267](../../record/theory.d/THEORY-267.md) | 5 | 0 | A prediction-market price can keep most of an arbitrary shock that no trader's information supported for at least sixty days, because later trading undoes only part of it and undoes it ever more slowly |
 | 2026-10-14 | Proposed | [THEORY-269](../../record/theory.d/THEORY-269.md) | 5 | 0 | In OLMo-1B, OLMo-7B and GPT-J, whether a factual relation is computed by an affine map from subject to object representation tracks how often its subjects and objects co-occur in pretraining, with mean causality above 0.9 beyond about 4.4k, 2.0k and 1.1k co-occurrences respectively, whenever in training that count is reached |
 | 2026-10-14 | Proposed | [THEORY-273](../../record/theory.d/THEORY-273.md) | 5 | 3 | Inductive and explanatory usefulness is necessary but not sufficient for a natural kind: it holds of classes that share any natural property, and on its own it cannot tell a natural kind from a conventional or pragmatic one |
 | 2026-10-14 | Proposed | [THEORY-274](../../record/theory.d/THEORY-274.md) | 5 | 0 | Sequence models trained only on a graph's edge bigrams store it as a global embedding geometry, not as a lookup, although the lookup is expressible, found faster and no less succinct; in a wide two-layer weight-tied model the geometry is the top Laplacian eigenspace, reached by cross-entropy training without a rank bottleneck, regularization or multi-hop supervision |
@@ -537,7 +528,7 @@
 
 ## ADRs
 
-2 of the 745.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -546,7 +537,7 @@
 
 ## QUESTIONs
 
-9 of the 745.
+9 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -562,7 +553,7 @@
 
 ## CLAIMs
 
-215 of the 745.
+215 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -784,7 +775,7 @@
 
 ## CASEs
 
-1 of the 745.
+1 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -792,7 +783,7 @@
 
 ## TERMs
 
-2 of the 745.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -801,7 +792,7 @@
 
 ## ARGs
 
-2 of the 745.
+2 of the 736.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

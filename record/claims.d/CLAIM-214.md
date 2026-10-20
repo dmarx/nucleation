@@ -38,7 +38,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-236 — Rejected; the objection this claim answers, cited as answered -->
 <!-- inactive-ok-file: CLAIM-111 CLAIM-033 — Proposed; the criterion this claim reads and Jakobson's point it extends, cited as open, not settled -->
-<!-- inactive-ok-file: THEORY-172 — Proposed; rational speech acts, cited for the form of the model, not as settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-139 — Proposed; the central theses, cited only to say this claim is not their premise -->
 
 # CLAIM-214: The distribution-over-situations criterion compares each language's own listener posterior, so it needs no correspondence of alternative sets; that a literal rendering can fail it is the criterion detecting a lost implicature, and a target language may admit no rendering that passes
