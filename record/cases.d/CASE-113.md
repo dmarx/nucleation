@@ -25,7 +25,7 @@ summary: >-
 supports:
 - CLAIM-367
 ---
-<!-- inactive-ok-file: CLAIM-367 CLAIM-157 CLAIM-288 THEORY-253 — Proposed; the claim this case grounds and the claims and reading it uses, cited as open -->
+<!-- inactive-ok-file: CLAIM-367 CLAIM-157 CLAIM-288 — Proposed; the claim this case grounds and the claims and reading it uses, cited as open -->
 
 # CASE-113: A deep network under conventional training: competing losses, an external optimizer and a scheduler, with three architectures that move governance inward and crossed interventions that locate it
 
