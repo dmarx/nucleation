@@ -36,7 +36,6 @@ summary: >-
   performed. Shown exactly for one constructed network only; that trained
   networks have many such ties is conjectured.
 ---
-<!-- inactive-ok-file: THEORY-282 — Proposed; filed with this account from the same dispute -->
 
 # THEORY-243: Interchange interventions on a fixed set of variables can be satisfied equally by different alignments related by a change of basis, so which internal direction is the mediating variable is fixed only relative to a chosen decomposition into units
 

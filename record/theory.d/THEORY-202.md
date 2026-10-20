@@ -1,23 +1,21 @@
 ---
 number: 202
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp5vljo
-promote_when: >-
-  A treatment of variational renormalization, read and checked, that
-  states a further condition under which a coarse-graining counts as a
-  renormalization (a fixed kernel form coupling each hidden variable to a
-  block, a short-range condition on the coarse Hamiltonian, or the
-  preservation of named observables) and shows that a matched partition
-  function and the exact trace condition do not imply it. Or, against
-  it, a proof that within Kadanoff's kernel families, where each hidden
-  spin couples to a block through a kernel of fixed form, the trace
-  condition does force the coarse Hamiltonian to keep the relevant
-  operators, which would confine the objection to kernels outside those
-  families. More examples of coarse-grainings that preserve Z or satisfy
-  the trace condition cannot settle it either way.
-title: 'In variational renormalization, neither a matched partition function nor Kadanoff''s exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target'
-version: 1
+title: 'In variational renormalization over general Boltzmann machines, neither a matched partition function nor Kadanoff''s exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a further stated condition'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-202 (batch 049, ADR-047 v2). The dated note below re-derives both
+    counterexamples. The title is held to the two conditions taken as
+    criteria over general Boltzmann machines, since the second construction
+    needs visible–visible couplings and so lies outside Kadanoff's kernel
+    families. The promote_when, which asks about those families, moves to
+    QUESTION-tmpb2kmp.
 tags:
 - natural-sciences
 - representation-learning
@@ -34,12 +32,15 @@ summary: >-
   exact variational RG step leaves the coarse variables' meaning free. The
   restricted Boltzmann machine proper needs visible–visible terms for the
   second construction; that narrows the example, not the claim.
+  Promoted on 2026-10-20 with both constructions re-derived. Whether the
+  trace condition suffices inside Kadanoff's kernel families is
+  QUESTION-tmpb2kmp.
 supports:
 - CLAIM-152
 ---
 <!-- inactive-ok-file: THEORY-194 QUESTION-025 — Proposed or open; cited as the accounts this one extends and is set beside, and the question it does not answer -->
 
-# THEORY-202: In variational renormalization, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target
+# THEORY-202: In variational renormalization over general Boltzmann machines, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a further stated condition
 
 ## Source
 
@@ -84,7 +85,7 @@ the coarse Hamiltonian beyond normalization; it does neither.
   fixed form that couples each hidden spin to a block, which rules out the
   non-interacting construction. The claim is about the two conditions
   taken as criteria; whether they suffice inside his kernel families is
-  what `promote_when` asks.
+  [QUESTION-tmpb2kmp](../questions.d/QUESTION-tmpb2kmp.md).
 - **Not that an exact restricted Boltzmann machine keeps irrelevant
   variables.** An RBM proper has no visible–visible couplings, so it
   cannot fit interacting data with W = 0; the second construction needs a
@@ -109,3 +110,25 @@ set by what it must stay informative about), it closes the triangle of
 the 2014–2018 dispute: the formalisms correspond, neither exactness nor
 partition-function matching chooses the coarse variables, and an
 objective with a relevance target does.
+
+## Note of 2026-10-20: both counterexamples, re-derived
+
+Re-derived for the promotion audit (batch 049, [ADR-047](../decisions.d/ADR-047.md) v2).
+
+**A matched partition function.** Let Z = Σ_y e^{−H(y)}, take any
+non-constant K, and put Z̃ = Σ_y e^{−H(y)−K(y)} and
+H(y, y′) = H(y) + H(y′) + K(y) + ln Z̃. Then
+Z_tot = (1/Z̃) Σ_y e^{−H(y)−K(y)} · Σ_{y′} e^{−H(y′)} = Z, while the marginal
+of y is e^{−H−K}/Z̃, not e^{−H}/Z. If H carries a parameter, the identity
+Z_tot = Z holds at every value, so every derivative of ln Z matches too.
+
+**The trace condition.** Under Mehta and Schwab's identification
+T(v, h) = −E(v, h) + H(v), take E(v, h) = H(v) + H′(h) + ln Z′ with
+Z′ = Σ_h e^{−H′(h)} and H′ arbitrary. Then T = −H′(h) − ln Z′, so
+Tr_h e^{T} = 1 for every v. The visible marginal is proportional to
+e^{−H(v)}, the data exactly, and the coarse Hamiltonian
+−ln Tr_v e^{T(v,h)−H(v)} = H′(h) + ln Z′ − ln Z is H′ up to a constant,
+chosen freely. The construction needs a visible–visible term H(v) in E,
+which a restricted Boltzmann machine lacks, and it couples no hidden spin
+to any block, which Kadanoff's kernels require. The title is held to
+general Boltzmann machines for that reason.

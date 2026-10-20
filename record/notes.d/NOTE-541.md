@@ -29,7 +29,6 @@ summary: >-
   Intermediate features are less displaced by shift for minority groups.
 ---
 
-<!-- inactive-ok-file: THEORY-083 — Proposed; named as the record's statement of neural collapse, with no relation claimed -->
 
 # NOTE-541: Intermediate Layer Classifiers for OOD generalization
 

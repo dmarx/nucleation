@@ -28,7 +28,7 @@ summary: >-
   gives higher C_N than the same connections spread randomly. One number
   for a whole system, with no partition, threshold or penalty.
 ---
-<!-- inactive-ok-file: CLAIM-157 THEORY-097 THEORY-063 THEORY-222 THEORY-262 — Proposed; the block criterion this measure is compared with, a finding on block duration, two Tononi-line accounts named for lineage, and the account filed from this reading -->
+<!-- inactive-ok-file: CLAIM-157 THEORY-097 THEORY-063 THEORY-262 — Proposed; the block criterion this measure is compared with, a finding on block duration, two Tononi-line accounts named for lineage, and the account filed from this reading -->
 
 # NOTE-767: Tononi, Sporns & Edelman — A measure for brain complexity
 

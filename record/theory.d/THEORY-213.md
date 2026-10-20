@@ -1,23 +1,21 @@
 ---
 number: 213
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmppei8o
-promote_when: >-
-  The SGD half shown beyond the second-order, diagonal-Hessian argument,
-  or measured in a trained network. What would promote: a network with a
-  known permutation, rotation or rescaling symmetry, trained with SGD
-  across learning rates, batch sizes and weight decays, with a measured
-  distance to the symmetric subspace (neuron coincidence, rank,
-  sparsity) that falls to zero beyond a threshold predicted from the
-  noise and curvature. The same should not happen when the symmetry is
-  removed by reparametrization. What would refute it: training that
-  reaches the symmetric subspace and leaves it, which part 1 of the
-  theorem forbids; or no dependence of the outcome on weight decay and
-  noise where the threshold predicts one. More toy factorizations cannot
-  settle it.
-title: 'Every mirror symmetry of a network''s loss makes its symmetric subspace absorbing for gradient-based training, and weight decay above a threshold or strong gradient noise makes that subspace favoured, so rescaling symmetry yields sparsity, rotation symmetry low rank, and permutation symmetry merged, identical neurons'
-version: 1
+title: 'Every mirror symmetry of a network''s per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss''s Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons'
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-213 (batch 049, ADR-047 v2). The dated note below re-derives
+    Theorem 1's invariance and weight-decay parts and the three corollaries.
+    Dropped: the SGD-noise clause, which rests on a diagonal approximation,
+    and "rescaling symmetry" without the λ = −1 condition, since ReLU's
+    positive rescaling contains no mirror. The promote_when moves to
+    QUESTION-tmpuuniu.
 tags:
 - learning-theory
 - loss-landscapes
@@ -35,12 +33,15 @@ summary: >-
   strong noise the subspace is attractive even at a strict saddle, by a
   Lyapunov-exponent argument. Rescaling, rotation and permutation
   symmetries imply mirrors, so they yield sparsity, low rank and merged
-  neurons, with collapse and loss of plasticity as consequences. Proposed:
-  the SGD half is approximate and the network evidence is limited.
+  neurons, with collapse and loss of plasticity as consequences. The SGD
+  half is approximate and the network evidence is limited; the title holds
+  only the exact half.
+  Promoted on 2026-10-20 on the exact half, re-derived. The SGD half is
+  QUESTION-tmpuuniu.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
+<!-- inactive-ok-file: THEORY-210 QUESTION-080 — Proposed or Open; the accounts and question this one bears on, open -->
 
-# THEORY-213: Every mirror symmetry of a network's loss makes its symmetric subspace absorbing for gradient-based training, and weight decay above a threshold or strong gradient noise makes that subspace favoured, so rescaling symmetry yields sparsity, rotation symmetry low rank, and permutation symmetry merged, identical neurons
+# THEORY-213: Every mirror symmetry of a network's per-sample loss makes its symmetric subspace invariant under gradient descent and SGD, and when the loss's Hessian is bounded below by −c, weight decay γ‖θ‖² with γ > c/2 puts every minimum in that subspace; rescaling symmetries that hold at λ = −1, rotation symmetries and permutation symmetries contain such mirrors, whose subspaces are zeroed weights, reduced rank and identical neurons
 
 ## Source
 
@@ -100,3 +101,30 @@ when the symmetry is removed by reparametrization (Fig. 3).
 - It does not derive neural collapse as Papyan et al. define it.
 - It does not instruct. The paper's algorithm for enforcing constraints
   (DCS) is practice, and belongs to the anthology.
+
+## Note of 2026-10-20: the exact half, re-derived
+
+Re-derived for the promotion audit (batch 049, [ADR-047](../decisions.d/ADR-047.md) v2). Appendix C's
+proofs were not checked, so this stands on its own.
+
+**Setting.** O has orthonormal columns, R = I − 2OOᵀ (symmetric and
+orthogonal), and every per-sample loss satisfies ℓ₀(θ) = ℓ₀(Rθ).
+
+**Invariance.** Differentiating gives ∇ℓ₀(θ) = R∇ℓ₀(Rθ). Where Oᵀθ = 0,
+Rθ = θ, so the gradient g satisfies g = Rg, and Oᵀg = Oᵀg − 2Oᵀg, hence
+Oᵀg = 0. The weight-decay gradient 2γθ has no O-component there either.
+Every per-sample step, and so every GD or SGD step, keeps Oᵀθ = 0.
+
+**Weight decay.** Write θ = θ⊥ + Oz with z = Oᵀθ and f(z) = ℓ₀(θ⊥ + Oz).
+R(θ⊥ + Oz) = θ⊥ − Oz, so f is even and its gradient at 0 vanishes. If the
+Hessian of ℓ₀ is bounded below by −cI (the paper's Assumption 1), then
+f(z) − f(0) ≥ −(c/2)‖z‖² along the segment from 0. With
+L = ℓ₀ + γ‖θ‖² and ‖θ‖² = ‖θ⊥‖² + ‖z‖²,
+L(θ) − L(θ⊥) ≥ (γ − c/2)‖z‖². So for γ > c/2 every minimum has z = 0.
+
+**Which symmetries contain a mirror.** A rescaling symmetry
+ℓ₀(u, w) = ℓ₀(λu, w/λ) that holds at λ = −1 contains (u, w) ↦ (−u, −w),
+whose subspace is u = w = 0. For a ReLU network the rescaling holds only
+for λ > 0, which gives no mirror. A rotation symmetry contains every
+reflection I − 2ooᵀ, whose subspace oᵀW = 0 lowers the rank. Swapping two
+neurons is a reflection across θ_a − θ_b, whose subspace is θ_a = θ_b.

@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**754 document(s) awaiting a decision.**
+**748 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 754.
+95 of the 748.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,20 +111,20 @@
 
 ## THEORYs
 
-428 of the 754.
+422 of the 748.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
 | 2026-09-26 | Proposed | [THEORY-002](../../record/theory.d/THEORY-002.md) | 56 | 14 | Convergence of representations, in the Platonic hypothesis's sense, is convergence of kernels, which fixes representations only up to the symmetry group of what is observed; whether closeness in distribution implies closeness of representation depends on the distance used |
 | 2026-09-26 | Proposed | [THEORY-001](../../record/theory.d/THEORY-001.md) | 51 | 2 | On a finite augmentation space, InfoNCE, logistic and spectral contrastive losses share one population optimum: the positive-pair density ratio |
-| 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 41 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
-| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 86 | 27 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
+| 2026-09-26 | Proposed | [THEORY-005](../../record/theory.d/THEORY-005.md) | 42 | 2 | The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite |
+| 2026-09-27 | Proposed | [THEORY-017](../../record/theory.d/THEORY-017.md) | 87 | 27 | In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it |
 | 2026-09-27 | Proposed | [THEORY-013](../../record/theory.d/THEORY-013.md) | 66 | 17 | Once context-dependent marginals are separated from contextuality, the behavioural, social and word-meaning data published as contextual show none |
 | 2026-09-27 | Proposed | [THEORY-010](../../record/theory.d/THEORY-010.md) | 11 | 5 | Grangier and Auffèves's contextual objectivity is an ontological postulate, not contextuality in either formal sense: its one argued consequence, unpredictability after a change of context, is reproduced by an epistemically restricted classical model |
 | 2026-09-30 | Proposed | [THEORY-023](../../record/theory.d/THEORY-023.md) | 146 | 3 | Current evidence cannot settle whether an AI system is conscious: mimicry undercuts behavioural evidence and architectural indicators presuppose the disputed computational functionalism, so the dispute is over what counts as evidence as well as the answer |
 | 2026-09-30 | Proposed | [THEORY-029](../../record/theory.d/THEORY-029.md) | 106 | 2 | A higher-order attitude cannot make a motive the agent's own by its order alone: any attitude specified without presupposing the agent's participation can itself be disowned, and any specified to include it presupposes what it was meant to explain |
 | 2026-09-30 | Proposed | [THEORY-040](../../record/theory.d/THEORY-040.md) | 89 | 7 | A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape |
-| 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 48 | 7 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
+| 2026-09-30 | Proposed | [THEORY-019](../../record/theory.d/THEORY-019.md) | 52 | 7 | Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet |
 | 2026-09-30 | Proposed | [THEORY-036](../../record/theory.d/THEORY-036.md) | 36 | 0 | Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work |
 | 2026-09-30 | Proposed | [THEORY-039](../../record/theory.d/THEORY-039.md) | 31 | 4 | The later phases reported in neural-network training differ in kind: after the transition a network may simplify its weights, acquire item-specific information, lose generalisation, confine its tangent kernel or saturate its units, and none of these is a measured compression of I(X;T) |
 | 2026-09-30 | Proposed | [THEORY-030](../../record/theory.d/THEORY-030.md) | 30 | 8 | Landauer's principle prices only logically irreversible steps, and prices them in exported entropy rather than heat, so acquiring, copying or evaluating a bit, and learning it, carry no minimum thermodynamic cost |
@@ -139,7 +139,6 @@
 | 2026-10-03 | Proposed | [THEORY-071](../../record/theory.d/THEORY-071.md) | 58 | 6 | Minimal agency requires individuality, interactional asymmetry and self-generated normativity, and individuality without the other two is not agency |
 | 2026-10-03 | Proposed | [THEORY-054](../../record/theory.d/THEORY-054.md) | 49 | 7 | A regulation is autonomous to the degree it is integrated with one's other values and needs: autonomy is graded, and is not set by the order of the attitude that endorses it |
 | 2026-10-03 | Proposed | [THEORY-072](../../record/theory.d/THEORY-072.md) | 47 | 4 | Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium self-maintenance, nor by circular self-maintenance alone, but by organisational differentiation: several distinct constraints that produce one another at different time scales |
-| 2026-10-03 | Proposed | [THEORY-083](../../record/theory.d/THEORY-083.md) | 47 | 2 | Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean |
 | 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 38 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 35 | 9 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
 | 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 35 | 2 | In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
@@ -166,7 +165,7 @@
 | 2026-10-03 | Proposed | [THEORY-070](../../record/theory.d/THEORY-070.md) | 19 | 5 | How much cognitive control to exert, and on what, is decided by a cost-benefit computation (the expected value of control) in a specification system distinct from the structures that implement the control |
 | 2026-10-03 | Proposed | [THEORY-094](../../record/theory.d/THEORY-094.md) | 18 | 3 | Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does |
 | 2026-10-03 | Proposed | [THEORY-051](../../record/theory.d/THEORY-051.md) | 17 | 0 | Strengthening the self as context, a perspective from which thoughts about oneself are held as thoughts, is a process by which acceptance and commitment therapy reduces suffering |
-| 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 16 | 3 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
+| 2026-10-03 | Proposed | [THEORY-080](../../record/theory.d/THEORY-080.md) | 17 | 4 | In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies |
 | 2026-10-03 | Proposed | [THEORY-092](../../record/theory.d/THEORY-092.md) | 16 | 1 | Behavioural capacity does not fix intelligence: a system with the capacity to respond sensibly to every possible input can lack it, so whether behaviour is intelligent, or the mark of any mental property, depends partly on how it is produced |
 | 2026-10-03 | Proposed | [THEORY-103](../../record/theory.d/THEORY-103.md) | 16 | 2 | Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued |
 | 2026-10-03 | Proposed | [THEORY-063](../../record/theory.d/THEORY-063.md) | 15 | 3 | The unity of experience is the integration of one global world-model into a single functional cluster, and it does not require a self-model |
@@ -257,7 +256,6 @@
 | 2026-10-09 | Proposed | [THEORY-170](../../record/theory.d/THEORY-170.md) | 8 | 0 | Languages differ in what their grammar obliges a speaker to convey rather than in what they can convey, so interlingual translation must add some information and leave some unexpressed, and repeated translation can erode a message |
 | 2026-10-09 | Proposed | [THEORY-200](../../record/theory.d/THEORY-200.md) | 7 | 2 | On sparse hierarchical data, deep networks become insensitive to swapping synonymous parts and to small displacements of informative features at the training-set size at which they learn the task |
 | 2026-10-09 | Proposed | [THEORY-164](../../record/theory.d/THEORY-164.md) | 5 | 0 | In groups that build a new communication system, larger groups make it more systematic, and the greater variety of input they face drives the effect |
-| 2026-10-09 | Proposed | [THEORY-190](../../record/theory.d/THEORY-190.md) | 3 | 0 | The S¹ hidden-metric network model is approximately closed under geometric coarse-graining: merging angular neighbours keeps its connection law with β fixed, and the average degree flows as r^ν with ν set by the degree exponent and β |
 | 2026-10-09 | Proposed | [THEORY-203](../../record/theory.d/THEORY-203.md) | 3 | 1 | In data generated by a random hierarchical grammar, the tokens that Bayes-optimal noising and denoising changes do so in blocks set by the depth of the latent that changed, and the block size, measured as the correlation length of the changes, diverges at the noise threshold where the top-level class is lost, as a power of the distance to it whose exponent is log(branching) over log(slope of the level-to-level belief map at its unstable fixed point); a Gaussian field with power-law spectrum has instead a correlation length of changes that grows with noise to the end of the process |
 | 2026-10-09 | Proposed | [THEORY-179](../../record/theory.d/THEORY-179.md) | 2 | 0 | In genetically identical E. coli, a cell's swarming potential is a transient inherited state: its descendants share it for about four generations and lose it by about seven, and it tracks the cell's iron status rather than a bistable switch |
 | 2026-10-10 | Proposed | [THEORY-208](../../record/theory.d/THEORY-208.md) | 9 | 1 | Agency is multiply realisable without cognition or mental states, and AI is a new kind of it |
@@ -276,7 +274,7 @@
 | 2026-10-13 | Proposed | [THEORY-223](../../record/theory.d/THEORY-223.md) | 4 | 2 | When the rules that govern a system lie within its own action space, the governor's authority rests on the system leaving them alone, and further controls in the same space inherit that dependence |
 | 2026-10-13 | Proposed | [THEORY-224](../../record/theory.d/THEORY-224.md) | 4 | 0 | Objects on a crowd-built canvas are of two kinds, those that spread by a local recolouring rule and are predictable from the canvas itself, and those copied from designs coordinated off the canvas, which local canvas dynamics do not predict |
 | 2026-10-14 | Proposed | [THEORY-232](../../record/theory.d/THEORY-232.md) | 28 | 3 | A whole can be compared in agency with its parts, relative to a chosen decomposition and the parts' goals: it is more agential when its organization lets the parts resolve more of their mutual constraints than they do at the equilibrium of their former organization, which shows as delayed gratification |
-| 2026-10-14 | Proposed | [THEORY-286](../../record/theory.d/THEORY-286.md) | 22 | 0 | Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows |
+| 2026-10-14 | Proposed | [THEORY-286](../../record/theory.d/THEORY-286.md) | 23 | 2 | Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows |
 | 2026-10-14 | Proposed | [THEORY-235](../../record/theory.d/THEORY-235.md) | 21 | 2 | Covert influence that exploits a person's decision-making vulnerabilities harms her autonomy in the process of deciding, by making her opaque to herself, even when it benefits her; so it carries a harm in every case without being wrong in every case |
 | 2026-10-14 | Proposed | [THEORY-257](../../record/theory.d/THEORY-257.md) | 20 | 5 | Dynamical independence, zero information flow from the microscopic history into a coarse-graining given its own history, fixes emergent macroscopic variables by the dynamics rather than by a chosen query, but for linear VAR models of order above 1 generically none is exact, and the optima are many |
 | 2026-10-14 | Proposed | [THEORY-325](../../record/theory.d/THEORY-325.md) | 20 | 0 | Random variation of a linear operator destabilizes it generically, needing less variation the more non-normal and less damped the mean operator |
@@ -289,7 +287,6 @@
 | 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 12 | 0 | Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided |
 | 2026-10-14 | Proposed | [THEORY-268](../../record/theory.d/THEORY-268.md) | 11 | 0 | An emergence measure averaged over a system's transitions can be positive while its local value is negative at particular transitions, so emergence so measured belongs to the ensemble, not to each moment |
 | 2026-10-14 | Proposed | [THEORY-277](../../record/theory.d/THEORY-277.md) | 11 | 0 | For individual data, at every bound on model complexity, the model with the shortest two-part code is, to within O(log n), the best-fitting model in randomness deficiency, although the fit itself cannot be computed or approximated |
-| 2026-10-14 | Proposed | [THEORY-282](../../record/theory.d/THEORY-282.md) | 11 | 0 | A subspace intervention can reproduce the output effect of changing a variable without localizing it, by pairing a direction that varies with the variable but cannot reach the output with one that can reach the output but does not vary on the data |
 | 2026-10-14 | Proposed | [THEORY-307](../../record/theory.d/THEORY-307.md) | 11 | 0 | Adaptation by trial and error in a large system finishes in a practicable time only if partial adaptations are retained, and retention requires that the system not be fully joined: parts must be separated, at least temporarily, by constancies, and where later learning shares parts with earlier learning it destroys it |
 | 2026-10-14 | Proposed | [THEORY-326](../../record/theory.d/THEORY-326.md) | 11 | 2 | Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group |
 | 2026-10-14 | Proposed | [THEORY-328](../../record/theory.d/THEORY-328.md) | 11 | 0 | An agent manipulated so that he meets every leading compatibilist condition is not morally responsible in the basic-desert sense, no responsibility-relevant difference separates him from an ordinarily determined agent, and so causal determination by factors beyond the agent's control best explains why neither is responsible |
@@ -317,7 +314,6 @@
 | 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 6 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
 | 2026-10-14 | Proposed | [THEORY-244](../../record/theory.d/THEORY-244.md) | 6 | 0 | Shannon entropy, mutual information and the distortion-rate function are the expectations of their Kolmogorov counterparts only to within the complexity of the source distribution |
 | 2026-10-14 | Proposed | [THEORY-262](../../record/theory.d/THEORY-262.md) | 6 | 0 | Neural complexity is low when a system's parts are independent or uniformly dependent and high when small subsets are nearly independent while large ones are integrated; in simulated cortex, patchy grouped connectivity raises it above random connectivity of equal density |
-| 2026-10-14 | Proposed | [THEORY-272](../../record/theory.d/THEORY-272.md) | 6 | 4 | A network of threshold units with symmetric Hebbian couplings is a content-addressable memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns, memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are forgotten |
 | 2026-10-14 | Proposed | [THEORY-287](../../record/theory.d/THEORY-287.md) | 6 | 0 | Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation |
 | 2026-10-14 | Proposed | [THEORY-241](../../record/theory.d/THEORY-241.md) | 5 | 0 | Fitting the same function in the same architecture does not fix the internal decomposition: SGD reproduces three Picbreeder images from random weights without the reuse and factoring of the evolved networks, and perturbing its weights breaks the regularities that perturbing the evolved networks' weights preserves |
 | 2026-10-14 | Proposed | [THEORY-252](../../record/theory.d/THEORY-252.md) | 5 | 0 | On computational functionalism, an intervention that changes no neural activity and no actual causal interaction can change consciousness, because a clamp that stays idle on the actual input removes the transitions on every other input |
@@ -326,8 +322,6 @@
 | 2026-10-14 | Proposed | [THEORY-273](../../record/theory.d/THEORY-273.md) | 5 | 3 | Inductive and explanatory usefulness is necessary but not sufficient for a natural kind: it holds of classes that share any natural property, and on its own it cannot tell a natural kind from a conventional or pragmatic one |
 | 2026-10-14 | Proposed | [THEORY-274](../../record/theory.d/THEORY-274.md) | 5 | 0 | Sequence models trained only on a graph's edge bigrams store it as a global embedding geometry, not as a lookup, although the lookup is expressible, found faster and no less succinct; in a wide two-layer weight-tied model the geometry is the top Laplacian eigenspace, reached by cross-entropy training without a rank bottleneck, regularization or multi-hop supervision |
 | 2026-10-14 | Proposed | [THEORY-279](../../record/theory.d/THEORY-279.md) | 5 | 0 | Early in training, image classifiers and language models act on the low-order statistics of their inputs, first-order before second-order, and later lose that sensitivity as they come to use higher-order structure |
-| 2026-10-14 | Proposed | [THEORY-281](../../record/theory.d/THEORY-281.md) | 5 | 0 | Perfect concept erasure caps what a representation can keep at the information not about the concept: if Z is independent of A then I(Z;X) is at most H(X|A), and a deterministic erasure reaches that cap only when the concept groups' distributions are permutations of one another |
-| 2026-10-14 | Proposed | [THEORY-284](../../record/theory.d/THEORY-284.md) | 5 | 0 | If a feature's values form a compact metric space carried continuously and injectively onto the unit sphere, and cosine similarity is locally a C² decreasing function of squared feature distance, then every path on the representation manifold is √(−2g′(0)) times as long as the feature path it images, so on-manifold shortest paths recover the feature's intrinsic length metric up to one scale; a homeomorphism alone does not fix it |
 | 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 5 | 0 | Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 5 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
 | 2026-10-14 | Proposed | [THEORY-226](../../record/theory.d/THEORY-226.md) | 4 | 0 | LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts |
@@ -546,7 +540,7 @@
 
 ## ADRs
 
-2 of the 754.
+2 of the 748.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -555,7 +549,7 @@
 
 ## QUESTIONs
 
-9 of the 754.
+9 of the 748.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -571,7 +565,7 @@
 
 ## CLAIMs
 
-215 of the 754.
+215 of the 748.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -793,7 +787,7 @@
 
 ## CASEs
 
-1 of the 754.
+1 of the 748.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -801,7 +795,7 @@
 
 ## TERMs
 
-2 of the 754.
+2 of the 748.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -810,7 +804,7 @@
 
 ## ARGs
 
-2 of the 754.
+2 of the 748.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

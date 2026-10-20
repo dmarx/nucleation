@@ -30,8 +30,9 @@ summary: >-
 refined_by:
 - QUESTION-145
 - QUESTION-199
+- QUESTION-tmpuuniu
 ---
-<!-- inactive-ok-file: THEORY-284 THEORY-288 — Proposed; partial answers filed today, cited with their limits -->
+<!-- inactive-ok-file: THEORY-288 — Proposed; partial answers filed today, cited with their limits -->
 
 # QUESTION-058: When a trained network's representation carries a group's structure, how much of it comes from the task, the architecture, the training set's relations and the symmetry of the update, and how much can be read off the network without supplying the group?
 

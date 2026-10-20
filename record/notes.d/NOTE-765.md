@@ -28,7 +28,7 @@ summary: >-
   accuracy and predictive power rise together only up to a point.
 ---
 <!-- inactive-ok-file: CLAIM-078 — Proposed; the success criterion this reading is set beside, open -->
-<!-- inactive-ok-file: THEORY-287 THEORY-282 — Proposed; the account filed from this reading, and the one it is read against -->
+<!-- inactive-ok-file: THEORY-287 — Proposed; the account filed from this reading, and the one it is read against -->
 
 # NOTE-765: Huang et al. — internal causal mechanisms predict out-of-distribution behaviour
 

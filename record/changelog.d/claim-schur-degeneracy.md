@@ -1,0 +1,1 @@
+<!-- THEORY-019's assembled result (symmetric commuting operators have eigenspaces built from real irreducibles, rotation groups pair eigenvalues over the reals, and the spectrum fixes neither the group nor a basis inside a multiplet) is filed as the record's own demonstrated claim, CLAIM-385 (ADR-032); THEORY-019 keeps the reading of its sources and stays Proposed. -->

@@ -39,7 +39,7 @@ summary: >-
   calling a network collapsed. It also reports that networks more collapsed
   on ImageNet transfer worse.
 ---
-<!-- inactive-ok-file: THEORY-083 THEORY-104 THEORY-213 — Proposed; the record's accounts of collapse, of layer-wise readout under shift, and of a symmetry account, which this review bears on -->
+<!-- inactive-ok-file: THEORY-083 THEORY-104 — Proposed; the record's accounts of collapse, of layer-wise readout under shift, and of a symmetry account, which this review bears on -->
 
 # NOTE-772: Kothapalli — Neural Collapse: A Review on Modelling Principles and Generalization
 
