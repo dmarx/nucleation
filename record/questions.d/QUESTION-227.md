@@ -1,10 +1,13 @@
 ---
+number: 227
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpgenqn
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Does the widen-on-push, narrow-on-fetch rule for a cached interval's width converge to within a stated factor of the best fixed width, and does it hold its cost against the best fixed width and an adaptive cache-or-not rule on data other than its authors' traces?"
@@ -28,7 +31,7 @@ refines:
 - QUESTION-114
 ---
 
-# QUESTION-tmpgenqn: Does the widen-on-push, narrow-on-fetch rule for a cached interval's width converge to within a stated factor of the best fixed width, and does it hold its cost against the best fixed width and an adaptive cache-or-not rule on data other than its authors' traces?
+# QUESTION-227: Does the widen-on-push, narrow-on-fetch rule for a cached interval's width converge to within a stated factor of the best fixed width, and does it hold its cost against the best fixed width and an adaptive cache-or-not rule on data other than its authors' traces?
 
 ## Why it is a question
 

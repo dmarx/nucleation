@@ -1,10 +1,13 @@
 ---
+number: 226
 # Don't copy this file by hand — run `luria new question`. A QUESTION is an
 # open question the record's own argument is organised around. Claims and
 # THEORY readings name it in `answers`, and its page shows both (ADR-032).
 
 # Open | Answered | Dissolved | Deferred | Superseded
 status: Open
+formerly:
+- QUESTION-tmpa4291
 
 # The question, as a question. Repeat it as the `# QUESTION-…:` heading.
 title: "Does Pearl's Causality define intervention as surgery on autonomous equations throughout, in the chapters on identification and the do-calculus, on structural counterfactuals, and on whether do(x) is universal, and what conditions does it put on the surgery there?"
@@ -27,7 +30,7 @@ summary: >-
 ---
 
 
-# QUESTION-tmpa4291: Does Pearl's Causality define intervention as surgery on autonomous equations throughout, in the chapters on identification and the do-calculus, on structural counterfactuals, and on whether do(x) is universal, and what conditions does it put on the surgery there?
+# QUESTION-226: Does Pearl's Causality define intervention as surgery on autonomous equations throughout, in the chapters on identification and the do-calculus, on structural counterfactuals, and on whether do(x) is universal, and what conditions does it put on the surgery there?
 
 ## Why it is a question
 

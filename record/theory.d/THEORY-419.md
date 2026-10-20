@@ -16,7 +16,7 @@ history:
     The regression clause is stated exactly. The note also corrects the
     body's quoted parameters for the two models: they agree as quoted only
     when x = u. The book-wide reading the promote_when asked for moves to
-    QUESTION-tmpa4291.
+    QUESTION-226.
 tags:
 - causality
 - probabilistic-modeling
@@ -154,4 +154,4 @@ surgery and conditioning definitions as stated on pp. 157–158, 417 and 421.
    so it stands.
 
 Whether the book defines intervention the same way in the chapters not read
-is [QUESTION-tmpa4291](../questions.d/QUESTION-tmpa4291.md).
+is [QUESTION-226](../questions.d/QUESTION-226.md).

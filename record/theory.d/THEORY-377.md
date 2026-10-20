@@ -17,7 +17,7 @@ history:
     says; and the gain where queries tolerate imprecision is held to the
     50-value cache, since with a cache of 20 it mostly disappears. The
     convergence proof or independent trace study the promote_when asked
-    for moves to QUESTION-tmpgenqn.
+    for moves to QUESTION-227.
 tags:
 - databases
 - operations-research
@@ -130,4 +130,4 @@ Checked for the promotion audit (batch 054, [ADR-047](../decisions.d/ADR-047.md)
 
 Convergence, its rate and any worst-case bound remain argued, not proved,
 as the title says. A proof, or a study on other data, is
-[QUESTION-tmpgenqn](../questions.d/QUESTION-tmpgenqn.md).
+[QUESTION-227](../questions.d/QUESTION-227.md).
