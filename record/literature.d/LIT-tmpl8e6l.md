@@ -1,0 +1,76 @@
+---
+status: Unavailable
+status_note: >-
+  registered 2026-10-20, not read. A search on 2026-10-20 for a lawful full
+  text reached none. JSTOR (stable 2525455, the DOI's landing) returned a
+  "Client Challenge" bot-check page instead of the article. Crossref names
+  JSTOR as the publisher and lists no full-text link. OpenAlex, Unpaywall and
+  Semantic Scholar all report it closed with no repository copy. The 1963
+  book that reprints it, Ando, Fisher and Simon, Essays on the Structure of
+  Social Science Models (MIT Press), is on the Internet Archive in two
+  scans (essaysonstructur0000ando, essaysonstructur0000unse), both
+  access-restricted lending-only items; Google Books shows it with no
+  pages viewable; the MIT Press page returned 403 to this client. No Cowles
+  Foundation discussion paper was found for it: web searches of the Cowles
+  series on Yale's EliScholar turned up nothing by Ando and Fisher on
+  near-decomposability, and EliScholar's own search returned 403. CORE
+  returned 429 and BASE a bot check. Title searches, with and without
+  filetype:pdf, found no author-posted copy. It stays Unavailable until a
+  copy is supplied, by library access or the book. No NOTE is filed.
+title: 'Near-Decomposability, Partition and Aggregation, and the Relevance of Stability Discussions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Registered on 2026-10-20 as the sequel to Simon & Ando 1961 (LIT-1127,
+    Unavailable), which states and proves the near-decomposability theorems
+    in detail (the 1962 American Political Science Review paper "Two
+    Theorems on Ceteris Paribus in the Analysis of Dynamic Systems" cites
+    it, then forthcoming, as the place where the theorems are presented and
+    proved; seen only as a search-result snippet). Wanted for QUESTION-221, THEORY-661,
+    CLAIM-386 and CLAIM-390: the exact hypotheses, any ε-order error terms
+    and the timescale statements. Citation from Crossref: Ando, A. & Fisher,
+    F. M., International Economic Review 4(1):53–67 (Crossref gives the first
+    page only; the end page 67 is the standard citation and was not checked
+    against the article), doi:10.2307/2525455. Crossref gives only the month
+    (published-print and issued 1963-01; its `created` date, 2006-08-01, is a
+    deposit date and is not used), so `published:` is 1963-01-01 per ADR-002.
+    Status Unavailable from the start, per ADR-041, after the copy hunt the
+    status note lists.
+tags:
+- complex-systems
+- mathematics
+date: '2026-10-20'
+published: '1963-01-01'
+doi: '10.2307/2525455'
+first_author: 'Ando'
+keywords:
+- 'near-decomposability'
+- 'partition'
+- 'aggregation'
+- 'stability'
+- 'dynamic systems'
+implementations: []
+summary: >-
+  Ando & Fisher (International Economic Review 1963). The sequel to Simon & Ando (1961), standardly cited as giving the proofs of the near-decomposability theorems: in a linear dynamic system whose matrix is nearly block-diagonal, the short run is governed within blocks and the long run by the blocks' aggregates. It also asks when stability analysis of the decomposed parts is relevant to the whole. Not read; this summary is from the title and how the paper is cited.
+---
+<!-- inactive-ok-file: LIT-1127 — Unavailable; cited as the work this one continues, nothing rests on it -->
+<!-- inactive-ok-file: ADR-041 — the decision this status follows, cited by number -->
+
+# LIT-tmpl8e6l: Near-Decomposability, Partition and Aggregation, and the Relevance of Stability Discussions
+
+Ando, A. & Fisher, F. M. (1963). *International Economic Review* 4(1):53–67. doi:10.2307/2525455. Reprinted in Ando, Fisher & Simon, *Essays on the Structure of Social Science Models* (MIT Press, 1963).
+
+Not read. The summary is drawn from the title and from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The record could not obtain Simon & Ando 1961 ([LIT-1127](LIT-1127.md)). This sequel is
+cited as the place where the theorems are proved, and may state their
+hypotheses and error terms more fully than the open statement [THEORY-661](../theory.d/THEORY-661.md)
+rests on, which gives no rate in ε. It is wanted for [QUESTION-221](../questions.d/QUESTION-221.md) (does
+near-decomposability bound dynamical dependence?), and to check [CLAIM-386](../claims.d/CLAIM-386.md)
+(the Simon–Ando closure defect) and [CLAIM-390](../claims.d/CLAIM-390.md) (dependence second order in
+the incoming coupling) against the original statement.

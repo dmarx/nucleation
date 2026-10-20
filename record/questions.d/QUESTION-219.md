@@ -24,8 +24,9 @@ answered_by:
 - THEORY-748
 - THEORY-750
 - THEORY-763
+- THEORY-tmpnvuqr
 ---
-<!-- inactive-ok-file: NOTE-974 THEORY-763 — Skimmed or Proposed; the negative half of Onsager, cited as open -->
+<!-- inactive-ok-file: NOTE-974 THEORY-763 THEORY-tmpnvuqr — Skimmed or Proposed; the negative half of Onsager, cited as open -->
 <!-- inactive-ok-file: LIT-1239 LIT-1243 LIT-1252 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-273 THEORY-072 THEORY-257 THEORY-532 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-219: Can a persistent pattern of transfer through a system, kept while its constituents are replaced, pick out a unit that neither a block test nor a closed collective mode finds, and what separates such organized throughput from mere transport?
@@ -98,5 +99,11 @@ Through [THEORY-749](../theory.d/THEORY-749.md)'s energy balance, it gives [THEO
 (Proposed): the flux across vanishing scales survives the limit, but in
 both directions, since the solutions gain energy and then lose it. They are
 not admissible, so this is not a one-way dissipative cascade. The
-admissible version (Buckmaster, De Lellis, Székelyhidi and Vicol 2019) is
-not held.
+admissible version, Buckmaster, De Lellis, Székelyhidi and Vicol (2019,
+[LIT-tmpv4d6t](../literature.d/LIT-tmpv4d6t.md)), read in [NOTE-tmp18d5h](../notes.d/NOTE-tmp18d5h.md), gives [THEORY-tmpnvuqr](../theory.d/THEORY-tmpnvuqr.md) (Proposed):
+below 1/3 the energy can follow any strictly decreasing profile, so the
+flux into vanishing scales is one-way on every time interval. It is
+one-way for the whole box only, since no local energy inequality is
+proved, and its direction is chosen with the profile, not forced by the
+equations: an increasing profile is built the same way. The dissipation
+rate is a free input, which tells against the flux's picking out a unit.
