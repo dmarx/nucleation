@@ -45,7 +45,7 @@ answers:
 - QUESTION-093
 ---
 <!-- inactive-ok-file: THEORY-497 — Proposed; the ΦID account named for comparison, nothing here rests on its being settled -->
-<!-- inactive-ok-file: THEORY-133 THEORY-071 — Proposed; compared, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-071 — Proposed; compared, nothing here rests on them -->
 
 # THEORY-222: With uniform interventions imposed separately at each level, a coarse-grained macro description of a known discrete mechanism can have more effective information than the micro description it supervenes on, so the level at which effective information is highest can be a macro level
 

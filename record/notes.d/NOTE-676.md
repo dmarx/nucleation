@@ -30,7 +30,7 @@ summary: >-
   greedy splitting can miss everything. The tree solving IB with side
   information is always a pruning of the plain IB tree for the same β.
 ---
-<!-- inactive-ok-file: QUESTION-025 CLAIM-119 CLAIM-092 THEORY-163 THEORY-186 LIT-267 — Open or Proposed; cited as the question this batch was filed for and the accounts this reading bears on -->
+<!-- inactive-ok-file: QUESTION-025 CLAIM-119 CLAIM-092 THEORY-186 LIT-267 — Open or Proposed; cited as the question this batch was filed for and the accounts this reading bears on -->
 
 # NOTE-676: Generalized Information-Theoretic Tree Abstractions (G-tree search)
 

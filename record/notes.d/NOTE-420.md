@@ -33,7 +33,6 @@ summary: >-
   integral theorems are not proofs of the second law, because the dynamics
   build irreversibility in.
 ---
-<!-- inactive-ok-file: THEORY-030 — Proposed; named as the account this reading bears on, not leaned on -->
 <!-- inactive-ok-file: LIT-328 — Unavailable; named as the Landauer bound the review reports on, not leaned on -->
 
 # NOTE-420: Stochastic thermodynamics, fluctuation theorems and molecular machines

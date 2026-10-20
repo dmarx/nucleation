@@ -21,7 +21,7 @@ summary: >-
   found, and the evaluation is one image.
 ---
 
-<!-- inactive-ok-file: QUESTION-025 THEORY-163 THEORY-186 CLAIM-092 CLAIM-119 — Open or Proposed; named for what this result bears on, nothing here rests on them -->
+<!-- inactive-ok-file: QUESTION-025 THEORY-186 CLAIM-092 CLAIM-119 — Open or Proposed; named for what this result bears on, nothing here rests on them -->
 
 # THEORY-668: When the encoder is restricted to prunings of one fixed hierarchy of nested partitions, any non-negatively weighted sum of relevant information, irrelevant information and compression decomposes into per-node terms, so a bottom-up recursion finds the unique optimal tree with fewest leaves exactly in linear time, while greedy top-down splitting can miss information lying below a level that carries none; penalising irrelevant information only prunes the information-bottleneck tree
 

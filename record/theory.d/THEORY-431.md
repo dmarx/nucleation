@@ -29,7 +29,7 @@ extended_by:
 - THEORY-482
 ---
 
-<!-- inactive-ok-file: THEORY-030 THEORY-412 THEORY-671 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->
+<!-- inactive-ok-file: THEORY-412 THEORY-671 — Proposed; named as accounts these theorems are background to or contrasted with, not leaned on -->
 
 # THEORY-431: For classical systems with Markovian, microscopically reversible dynamics, the entropy production of a trajectory obeys an exact finite-time symmetry against the time-reversed process, P_F(+ω)/P_R(−ω) = e^ω, wherever ω is odd under reversal; Jarzynski's work equality and the mean second law follow as corollaries, and the symmetry constrains fluctuations, not which steady state a system selects
 

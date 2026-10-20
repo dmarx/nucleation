@@ -41,7 +41,6 @@ illustrated_by:
 - CASE-074
 ---
 <!-- ref::uses-file: TERM-046 — stated in "notation for the threshold, drive and unity criteria"; the body applies the term without naming it -->
-<!-- inactive-ok-file: THEORY-133 — Proposed; List & Menzies, the proportionality reading this grounds on, with its formal result proved and its typicality claim disputed -->
 
 # CLAIM-158: Systems differ in whether "who drives?" has an answer at a given level of description, and the kinds form a spectrum: fully top-down, bidirectional, emergent from the whole, and between
 
