@@ -1,23 +1,19 @@
 ---
 number: 333
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp6l5jj
-promote_when: >-
-  An independent measurement, in another implementation or another paper, of
-  cracking against a plain scan and an upfront sort on an in-memory column under
-  random range queries, reporting per-query and cumulative cost over a long query
-  sequence. It promotes the account if it shows the same shape: a first query
-  close to a scan and far below a sort, per-query cost falling with use, and a
-  break-even with sorting only after many queries. It refutes it if cracking's
-  cumulative cost is not below sorting's over the early queries. Re-reading this
-  paper's figures, an analysis without measurement, or a benchmark of a different
-  adaptive index cannot settle it. The clause that only queried ranges get
-  organized is not part of what promotion requires; only an experiment with a
-  skewed or shifting workload that measures how much of the column stays
-  unorganized bears on it.
 title: "Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Promoted from Proposed to Active, carrying out the promotion audit's
+    decision for THEORY-333 (batch 073, ADR-047 v3): one study read in full
+    in NOTE-892, every number in the title stated in its text, and the title
+    claiming no more than it measured. The promote_when, which asked for an
+    independent measurement, moves unchanged to QUESTION-tmpcef4k.
 tags:
 - databases
 date: '2026-10-15'
@@ -36,6 +32,7 @@ summary: >-
   ranges of interest get organized is asserted from the mechanism, not measured;
   there is no cost model and no rule for when a reorganization pays.
 ---
+<!-- inactive-ok-file: THEORY-344 — Proposed; the survey placing cracking among adaptive methods, named, not leaned on -->
 
 # THEORY-333: Database cracking, which partitions a copy of a column in place as a side effect of each range query, measured in memory on 10^7 integers under uniformly random ranges, costs about 40% more than a scan on the first query and far less than sorting, gets cheaper per query with use, and stays cumulatively cheaper than sort-then-search until about 10^5 queries; that only the queried ranges get organized is not tested
 
@@ -107,3 +104,16 @@ workload, time to prepare and no updates, "then sorting is a superior strategy."
   read overhead against index-building over time.
 - [THEORY-332](THEORY-332.md) prices the decision this paper leaves open: when to build and when
   to drop, against a build cost.
+
+## Note of 2026-10-20: promoted
+
+The promotion audit (batch 073) promoted this account on the one study it
+rests on, under [ADR-047](../decisions.d/ADR-047.md) v3. [LIT-1090](../literature.d/LIT-1090.md) was read in full in [NOTE-892](../notes.d/NOTE-892.md), with
+its figures checked against page images, and each clause of the title
+carries a number from the paper's text: 0.38 s for the first cracking
+select against 0.27 s for a scan and about 3 s more for sorting; 10 to 100
+microseconds for later selects; break-even with sort-then-search at about
+10^5 queries. The title already confines the claim to the measured setting
+and keeps the paper's untested premise as untested, so nothing is dropped.
+The former promote_when, which asked for an independent measurement in
+another implementation, moves unchanged to [QUESTION-tmpcef4k](../questions.d/QUESTION-tmpcef4k.md).

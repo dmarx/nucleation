@@ -1,20 +1,22 @@
 ---
 number: 421
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmp2ngm5
-promote_when: >-
-  Level-ordering measured on hierarchies whose levels are known, for
-  several hyperbolic architectures and seeds, with variance reported and
-  with level decoupled from degree and centrality, before and after
-  recentring the embedding on its centroid. The account is supported if
-  task-trained embeddings order levels by radius only partly and
-  recentring alone does not repair it, and refuted if recentring alone
-  brings the ordering close to complete. Benchmark gains from an
-  outward-push loss cannot settle it, since the paper's own largest gains
-  are on its least tree-like graphs.
-title: "In hyperbolic graph embeddings trained on link-prediction or classification losses, distance from the origin is only a partial reading of hierarchical level: on synthetic trees the root is not innermost and level order is recovered for 69–75% of node pairs, and a loss built on pairwise distances leaves the origin arbitrary"
-version: 1
+title: "In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary"
+version: 2
+history:
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-421 (batch 073, ADR-047 v3 and v4): one study read in full in
+    NOTE-669, with Figure 2's inset statistics and Table 9 re-checked
+    against arXiv:2306.09118v1. The title names HGCN and the two trees,
+    which is all that was measured; the pairwise-distance clause was
+    re-derived in the decision file. The general claim for hyperbolic
+    models, which the paper asserts without data, moves with the old
+    promote_when to THEORY-tmp5lbcx.
 tags:
 - representation-learning
 - network-science
@@ -32,10 +34,13 @@ summary: >-
   on one architecture, two synthetic trees and one table without variance,
   and the paper does not separate a real failure to order levels from the
   origin's arbitrariness under losses that see only pairwise distances.
+extended_by:
+- THEORY-tmp5lbcx
 ---
+<!-- inactive-ok-file: THEORY-tmp5lbcx — Proposed; the general claim this measurement was narrowed from, filed to carry it -->
 <!-- inactive-ok-file: THEORY-196 — Proposed; other encodings of hierarchy and the paper this one tests, named in Connections, not leaned on -->
 
-# THEORY-421: In hyperbolic graph embeddings trained on link-prediction or classification losses, distance from the origin is only a partial reading of hierarchical level: on synthetic trees the root is not innermost and level order is recovered for 69–75% of node pairs, and a loss built on pairwise distances leaves the origin arbitrary
+# THEORY-421: In HGCN embeddings of two synthetic 3-ary trees trained for link prediction or node classification, distance from the origin is only a partial reading of hierarchical level: the root is not innermost (distance 1.8–3.3 against a minimum of 1.2–2.4) and level order is recovered for 69–75% of node pairs; a loss built only on pairwise distances leaves the origin arbitrary
 
 ## Source
 
@@ -100,3 +105,21 @@ minimum and the order could have been near complete. Neither held.
   says assumed the radial layout would arise by itself.
 - **[THEORY-196](THEORY-196.md)** gives the near-isometric tree embedding the geometry makes
   possible. This account says task training realises it only partly.
+
+## Note of 2026-10-20: narrowed and promoted
+
+The promotion audit (batch 073) narrowed the title to what [LIT-871](../literature.d/LIT-871.md)
+measured and promoted it on that one study, under [ADR-047](../decisions.d/ADR-047.md) v3. [NOTE-669](../notes.d/NOTE-669.md)
+read it in full; the review re-checked Figure 2's inset statistics (ROOT
+against MIN: 3.1/2.0, 1.8/1.2, 3.3/2.1, 2.7/2.4) and Table 9 (72.5%,
+68.9%, 75.3%, 73.7%) against the arXiv PDF. The old title opened with
+hyperbolic graph embeddings in general; the paper shows HGCN only and
+asserts the rest ("other hyperbolic models have demonstrated comparable
+results"). Under [ADR-047](../decisions.d/ADR-047.md) v4 that general claim is not dropped: it is filed
+as the Proposed [THEORY-tmp5lbcx](THEORY-tmp5lbcx.md), which extends this account and inherits
+its former promote_when. The pairwise-distance clause is the record's own
+and was re-derived step by step: a loss that depends only on pairwise
+hyperbolic distances is invariant under every isometry, the isometries act
+transitively, so the loss does not fix where the origin lies. It covers
+the link-prediction runs; HGCN's classifier reads the tangent space at the
+origin and is not pairwise-only.
