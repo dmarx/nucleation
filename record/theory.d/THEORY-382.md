@@ -13,7 +13,7 @@ history:
     (batch 045, ADR-047 v3): one study read in full, and the title already
     held to it. "Held freshness near the threshold" becomes the authors' own
     reading of their curves, since the paper gives no data table for it. The
-    promote_when, which the title disclaims, moves to QUESTION-tmpqzpcd.
+    promote_when, which the title disclaims, moves to QUESTION-194.
 tags:
 - databases
 - operations-research

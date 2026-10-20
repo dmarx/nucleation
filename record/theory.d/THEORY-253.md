@@ -15,7 +15,7 @@ history:
     optimizer" becomes the measured result in the Geometry model, with the
     misalignment condition the rotated quadratic shows. The two-task and
     rotated-quadratic results were reproduced by the record (dated note
-    below). The promote_when moves to QUESTION-tmpihczu.
+    below). The promote_when moves to QUESTION-193.
 tags:
 - learning-theory
 date: '2026-10-14'

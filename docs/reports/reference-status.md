@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**499 documents cited without acknowledgement.** Not listed: 9671 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**498 documents cited without acknowledgement.** Not listed: 9662 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -924,7 +924,7 @@ For one index with no space limit, Bruno and Chaudhuri's online tuner, which bui
 - [`record/notes.d/NOTE-912.md:162`](../../record/notes.d/NOTE-912.md)
 - [`record/notes.d/NOTE-912.md:164`](../../record/notes.d/NOTE-912.md)
 - [`record/notes.d/NOTE-922.md:169`](../../record/notes.d/NOTE-922.md)
-- [`record/questions.d/QUESTION-114.md:324`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:326`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-333.md:108`](../../record/theory.d/THEORY-333.md)
 - [`record/theory.d/THEORY-350.md:104`](../../record/theory.d/THEORY-350.md)
 - [`record/theory.d/THEORY-377.md:101`](../../record/theory.d/THEORY-377.md)
@@ -2826,7 +2826,7 @@ The later phases reported in neural-network training differ in kind: after the t
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:58`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:59`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-043](../../record/theory.d/THEORY-043.md) — Proposed
 
@@ -2967,7 +2967,7 @@ Given views with conjunctive definitions, deciding that they answer a conjunctiv
 4 citations in 3 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:335`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:337`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
 - [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
 
@@ -3272,7 +3272,7 @@ The difficulty of optimum index selection
 
 - [`record/literature.d/LIT-1089.md:19`](../../record/literature.d/LIT-1089.md)
 - [`record/notes.d/NOTE-902.md:85`](../../record/notes.d/NOTE-902.md)
-- [`record/questions.d/QUESTION-114.md:174`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:176`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-1167](../../record/literature.d/LIT-1167.md) — Unavailable
 
@@ -3621,7 +3621,7 @@ In one simulator evicting whole query-shaped cache regions, no replacement value
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:339`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-376.md:92`](../../record/theory.d/THEORY-376.md)
 
 ### [THEORY-376](../../record/theory.d/THEORY-376.md) — Proposed
@@ -3631,7 +3631,7 @@ In a simulated single-client, read-only database answering selection queries on 
 3 citations in 3 files await a look.
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
-- [`record/questions.d/QUESTION-114.md:339`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-375.md:88`](../../record/theory.d/THEORY-375.md)
 
 ### [THEORY-377](../../record/theory.d/THEORY-377.md) — Proposed
@@ -4017,7 +4017,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:317`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:319`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-378.md:125`](../../record/theory.d/THEORY-378.md)
 
 ### [LIT-1108](../../record/literature.d/LIT-1108.md) — Unavailable
@@ -4027,7 +4027,7 @@ Combining Fuzzy Information from Multiple Systems
 2 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
-- [`record/questions.d/QUESTION-114.md:352`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:354`](../../record/questions.d/QUESTION-114.md)
 
 ### [LIT-117](../../record/literature.d/LIT-117.md) — Unavailable
 
@@ -4612,7 +4612,7 @@ On sparse hierarchical data, deep networks become insensitive to swapping synony
 2 citations in 1 file await a look; 5 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:56`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:57`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-204](../../record/theory.d/THEORY-204.md) — Proposed
 
@@ -4621,7 +4621,7 @@ In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), w
 2 citations in 1 file await a look; 10 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-039.md:31`](../../record/questions.d/QUESTION-039.md)
-- [`record/questions.d/QUESTION-039.md:57`](../../record/questions.d/QUESTION-039.md)
+- [`record/questions.d/QUESTION-039.md:58`](../../record/questions.d/QUESTION-039.md)
 
 ### [THEORY-207](../../record/theory.d/THEORY-207.md) — Proposed
 
@@ -4767,22 +4767,13 @@ For datalog on relations annotated from a commutative ω-continuous semiring, wi
 - [`record/literature.d/LIT-1110.md:15`](../../record/literature.d/LIT-1110.md)
 - [`record/questions.d/QUESTION-105.md:78`](../../record/questions.d/QUESTION-105.md)
 
-### [THEORY-382](../../record/theory.d/THEORY-382.md) — Proposed
-
-When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, held freshness near the threshold, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown
-
-2 citations in 2 files await a look.
-
-- [`record/questions.d/QUESTION-114.md:323`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-383.md:97`](../../record/theory.d/THEORY-383.md)
-
 ### [THEORY-383](../../record/theory.d/THEORY-383.md) — Proposed
 
 On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-114.md:326`](../../record/questions.d/QUESTION-114.md)
+- [`record/questions.d/QUESTION-114.md:328`](../../record/questions.d/QUESTION-114.md)
 - [`record/theory.d/THEORY-382.md:102`](../../record/theory.d/THEORY-382.md)
 
 ### [THEORY-414](../../record/theory.d/THEORY-414.md) — Proposed

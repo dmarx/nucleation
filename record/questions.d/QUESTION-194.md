@@ -1,5 +1,8 @@
 ---
+number: 194
 status: Open
+formerly:
+- QUESTION-tmpqzpcd
 title: 'How far is a periodic greedy that switches a capped number of page fragments between caching and materializing, to keep the share of fresh fragments served above a threshold, from the best plan that meets the same threshold?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   optimality under the cap is asserted, not proved.
 ---
 
-# QUESTION-tmpqzpcd: How far is a periodic greedy that switches a capped number of page fragments between caching and materializing, to keep the share of fresh fragments served above a threshold, from the best plan that meets the same threshold?
+# QUESTION-194: How far is a periodic greedy that switches a capped number of page fragments between caching and materializing, to keep the share of fresh fragments served above a threshold, from the best plan that meets the same threshold?
 
 ## Why it is a question
 

@@ -1,5 +1,8 @@
 ---
+number: 193
 status: Open
+formerly:
+- QUESTION-tmpihczu
 title: 'Does sign descent provably delay each weaker skill until the stronger one is learned when a loss''s eigendirections are misaligned with the coordinates, and does changing only the optimizer turn a trained network''s simultaneous skill onsets into a sequence?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   simulation. A derivation, and a test on a trained network, are open.
 ---
 
-# QUESTION-tmpihczu: Does sign descent provably delay each weaker skill until the stronger one is learned when a loss's eigendirections are misaligned with the coordinates, and does changing only the optimizer turn a trained network's simultaneous skill onsets into a sequence?
+# QUESTION-193: Does sign descent provably delay each weaker skill until the stronger one is learned when a loss's eigendirections are misaligned with the coordinates, and does changing only the optimizer turn a trained network's simultaneous skill onsets into a sequence?
 
 ## Why it is a question
 

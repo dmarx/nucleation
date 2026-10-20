@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**764 document(s) awaiting a decision.**
+**762 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 764.
+95 of the 762.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-438 of the 764.
+436 of the 762.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -304,7 +304,6 @@
 | 2026-10-14 | Proposed | [THEORY-296](../../record/theory.d/THEORY-296.md) | 10 | 0 | In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked |
 | 2026-10-14 | Proposed | [THEORY-320](../../record/theory.d/THEORY-320.md) | 10 | 0 | In a spectral contrastive graph that joins labelled known classes to unlabelled data, a novel labelling's linear-probe residual is exactly its part outside the top eigenspace that the labelled rows of the discarded eigenvectors cannot absorb, so which partition of the unlabelled data is discovered depends on the known classes: ones sharing the target's attribute can remove the residual, and ones sharing a rival attribute can raise it |
 | 2026-10-14 | Proposed | [THEORY-225](../../record/theory.d/THEORY-225.md) | 9 | 0 | No single-mechanism analysis of ordinary manipulation fits the clear cases: covert influence, covert intent, non-rational influence, trickery and pressure each misclassify a familiar tactic, so what unifies manipulation is unsettled |
-| 2026-10-14 | Proposed | [THEORY-253](../../record/theory.d/THEORY-253.md) | 9 | 0 | In a model of independent skills with linear task vectors, sequential onset of acquisition comes from the optimizer: under gradient descent orthogonal skills are learned together at rates set by their frequencies, while under sign descent they compete for coordinate signs, so each starts as the previous finishes |
 | 2026-10-14 | Proposed | [THEORY-264](../../record/theory.d/THEORY-264.md) | 9 | 0 | A task given by demonstrations and the same task given by an instruction are carried in a language model by mostly different attention heads, so function vectors find no common task representation across the two presentations |
 | 2026-10-14 | Proposed | [THEORY-316](../../record/theory.d/THEORY-316.md) | 9 | 0 | Frankfurt-style cases defeat alternative-possibilities conditions on moral responsibility but leave standing the incompatibilist condition on an action's causal history, which is the more fundamental one |
 | 2026-10-14 | Proposed | [THEORY-327](../../record/theory.d/THEORY-327.md) | 9 | 0 | Testimonial injustice is an ingenuous misjudgement of a speaker's credibility caused by prejudice, not a deliberate manipulation of it, and it can be structural and pre-emptive, when a speaker's word is never sought because of a structural prejudice that is no one's fault |
@@ -364,7 +363,6 @@
 | 2026-10-15 | Proposed | [THEORY-360](../../record/theory.d/THEORY-360.md) | 2 | 2 | Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured |
 | 2026-10-15 | Proposed | [THEORY-379](../../record/theory.d/THEORY-379.md) | 2 | 2 | When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed |
 | 2026-10-15 | Proposed | [THEORY-380](../../record/theory.d/THEORY-380.md) | 2 | 2 | For datalog on relations annotated from a commutative ω-continuous semiring, with an answer's tag defined as the sum over its derivation trees of the product of its leaves' tags, the tags are the least fixed point of a finite polynomial system and factor through formal power series N∞⟦X⟧ in the input tuple ids; an answer tuple's series has an infinite coefficient exactly when the tuple lies on a cycle of unit rules |
-| 2026-10-15 | Proposed | [THEORY-382](../../record/theory.d/THEORY-382.md) | 2 | 2 | When a web server keeps each page fragment either cached and invalidated by updates or stored and refreshed after them, materializing trades staleness for response time, and in one synthetic simulation with fixed costs a periodic greedy that moves a capped number of fragments between the two, to keep the share of fresh fragments served above a set threshold, held freshness near the threshold, answered faster than caching alone and recovered from overload by materializing everything; no bound on its distance from the best plan is shown |
 | 2026-10-15 | Proposed | [THEORY-383](../../record/theory.d/THEORY-383.md) | 2 | 2 | On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either |
 | 2026-10-15 | Proposed | [THEORY-385](../../record/theory.d/THEORY-385.md) | 2 | 0 | In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data |
 | 2026-10-15 | Proposed | [THEORY-330](../../record/theory.d/THEORY-330.md) | 1 | 1 | After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load |
@@ -556,7 +554,7 @@
 
 ## ADRs
 
-2 of the 764.
+2 of the 762.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -565,7 +563,7 @@
 
 ## QUESTIONs
 
-9 of the 764.
+9 of the 762.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -581,7 +579,7 @@
 
 ## CLAIMs
 
-215 of the 764.
+215 of the 762.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -803,7 +801,7 @@
 
 ## CASEs
 
-1 of the 764.
+1 of the 762.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -811,7 +809,7 @@
 
 ## TERMs
 
-2 of the 764.
+2 of the 762.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -820,7 +818,7 @@
 
 ## ARGs
 
-2 of the 764.
+2 of the 762.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
