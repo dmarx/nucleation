@@ -1,14 +1,33 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on coarse-to-fine processes, which the owner relayed. No NOTE is filed.
+  filed 2026-10-19, not read. On 2026-10-20 a search for a lawful full text
+  reached none. Annual Reviews' article page and PDF both returned a
+  Cloudflare bot check (403); older volumes of the Annual Review of Fluid
+  Mechanics are not free in any case. Unpaywall and OpenAlex report it
+  closed. Semantic Scholar's open-access link points to NASA technical
+  report 19890013450, which on fetching is L. M. Smith's 5-page Center for
+  Turbulence Research annual research brief of 1988 under the same title, a
+  different work. Smith's University of Wisconsin page lists the review
+  without a file, and arXiv has nothing by Woodruff under this title. A
+  title search found a copy only on a file site that mirrors a
+  shadow-library collection, which was not used. It stays Unavailable until
+  a copy is supplied. No NOTE is filed.
 title: 'Renormalization-Group Analysis of Turbulence'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-19. `published:` is the first of Crossref's month, January 1998, per ADR-002. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-19, commit d1573d2) for the authors, title and identifiers found nothing.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, after a copy hunt: Annual
+    Reviews, Unpaywall, OpenAlex, Semantic Scholar (whose link is a
+    different 1988 NASA report by Smith), Smith's Wisconsin page, arXiv and
+    a title search. The one copy a title search found is on a shadow-library
+    mirror and was not used.
 tags:
 - natural-sciences
 date: '2026-10-19'

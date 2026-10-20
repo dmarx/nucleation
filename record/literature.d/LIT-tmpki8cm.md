@@ -1,14 +1,32 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-19, not read. Registered from the exchange of 2026-10-19 on coarse-to-fine processes, which the owner relayed. No NOTE is filed.
+  filed 2026-10-19, not read. On 2026-10-20 a search for a lawful full text
+  reached none. Cambridge Core's page gives the abstract and offers the
+  article only by purchase or institutional access; Crossref lists only a
+  similarity-checking link and Cambridge's terms. Unpaywall, OpenAlex and
+  Semantic Scholar report it closed, with no repository copy. Germano's
+  institutional records hold no copy: Politecnico di Torino's IRIS finds
+  only a 2021 paper on the filtering approach, a different work, and the
+  UNIMORE catalogue lists the same 2021 paper; Duke Scholars lists the
+  citation with no file. arXiv has nothing by Germano under this title. A
+  title search found no author-posted copy; the nearest was a CFD Online
+  forum thread of readers asking each other for it. It stays Unavailable
+  until a copy is supplied. No NOTE is filed.
 title: 'Turbulence: the filtering approach'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-19'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-19. `published:` is the first of Crossref's print month, May 1992. Crossref's "online" date, 2006-04-26, is when the journal's archive was digitized and is not used. Not held in the Anthology of the SOTA: a grep of its record/ (clone of 2026-10-19, commit d1573d2) for the authors, title and identifiers found nothing.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, after a copy hunt:
+    Cambridge Core, Crossref, Unpaywall, OpenAlex, Semantic Scholar,
+    Politecnico di Torino's IRIS, the UNIMORE catalogue, Duke Scholars,
+    arXiv and a title search.
 tags:
 - natural-sciences
 - mathematics
