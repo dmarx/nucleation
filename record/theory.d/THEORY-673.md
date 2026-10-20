@@ -18,7 +18,7 @@ history:
 - version: 2
   date: '2026-10-20'
   note: >-
-    The Price equation's derivation split off into THEORY-tmp9jqpz, filed
+    The Price equation's derivation split off into THEORY-770, filed
     Active, by the promotion audit (batch 058, ADR-040), on the pattern of
     THEORY-736 and THEORY-741. This THEORY keeps Luque's
     generalization-sketch reading, extends the new one, and stays Proposed:
@@ -30,7 +30,7 @@ date: '2026-10-16'
 source:
 - LIT-205
 extends:
-- THEORY-tmp9jqpz
+- THEORY-770
 summary: >-
   Luque (2016), [LIT-205](../literature.d/LIT-205.md), read in [NOTE-101](../notes.d/NOTE-101.md) from the PhilSci manuscript. The
   derivation and the diallelic re-derivation are strong; the
@@ -123,7 +123,7 @@ nothing in the paper could have refuted it.
 ## Dated note, 2026-10-20
 
 The derivation in this entry's first clause is now held on its own as
-[THEORY-tmp9jqpz](THEORY-tmp9jqpz.md) (Active), split off by the promotion audit (batch 058).
+[THEORY-770](THEORY-770.md) (Active), split off by the promotion audit (batch 058).
 What remains Proposed here is the reading: that the equation is a
 generalization-sketch whose value lies in guiding model construction, and
 that the tautology and predictive-power charges ask of it what only its

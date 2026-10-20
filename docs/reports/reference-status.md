@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**486 documents cited without acknowledgement.** Not listed: 9915 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**487 documents cited without acknowledgement.** Not listed: 9915 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2104,6 +2104,19 @@ Across load and temperature, the connectivity and output similarity of independe
 - [`record/theory.d/THEORY-109.md:175`](../../record/theory.d/THEORY-109.md)
 - [`record/theory.d/THEORY-109.md:179`](../../record/theory.d/THEORY-109.md)
 
+### [THEORY-109](../../record/theory.d/THEORY-109.md) — Proposed
+
+The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
+
+6 citations in 4 files await a look; 16 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
+- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:50`](../../record/questions.d/QUESTION-069.md)
+- [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
+- [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
+- [`record/theory.d/THEORY-770.md:13`](../../record/theory.d/THEORY-770.md)
+
 ### [THEORY-137](../../record/theory.d/THEORY-137.md) — Proposed
 
 Attributions of mental states to institutions, such as the knowledge that the collective knowledge doctrine of corporate criminal law attributes to a corporation no member of which held it, work largely by shaping the institutions to which they are made rather than by describing states they already had: the attribution holds the institution to a norm, the institution builds structures to meet it, and it becomes more predictable from the intentional stance, whether or not institutions really have minds
@@ -2492,18 +2505,6 @@ In a linearised network with a Gaussian prior on its parameters, the Occam facto
 - [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
 - [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
 
-### [THEORY-109](../../record/theory.d/THEORY-109.md) — Proposed
-
-The solutions SGD finds in a deep network lie in one connected low-loss set, joined by simple curves and spanning volumes of measurable dimension, and this is a property of the solutions training finds, not of every minimum
-
-5 citations in 3 files await a look; 16 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:50`](../../record/questions.d/QUESTION-069.md)
-- [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
-- [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
-
 ### [THEORY-131](../../record/theory.d/THEORY-131.md) — Proposed
 
 A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
@@ -2539,6 +2540,18 @@ If pretraining text is a mixture of hidden Markov models indexed by a latent con
 - [`record/questions.d/QUESTION-161.md:26`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:35`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:43`](../../record/questions.d/QUESTION-161.md)
+
+### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
+
+The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
+
+5 citations in 1 file await a look.
+
+- [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:77`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:82`](../../record/theory.d/THEORY-770.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
@@ -3426,6 +3439,16 @@ Neither report nor no-report paradigms isolate the neural basis of consciousness
 - [`record/questions.d/QUESTION-048.md:30`](../../record/questions.d/QUESTION-048.md)
 - [`record/questions.d/QUESTION-048.md:50`](../../record/questions.d/QUESTION-048.md)
 - [`record/questions.d/QUESTION-048.md:53`](../../record/questions.d/QUESTION-048.md)
+
+### [THEORY-110](../../record/theory.d/THEORY-110.md) — Proposed
+
+A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex
+
+3 citations in 2 files await a look; 9 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:52`](../../record/questions.d/QUESTION-069.md)
+- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
 
 ### [THEORY-118](../../record/theory.d/THEORY-118.md) — Proposed
 
@@ -4373,15 +4396,6 @@ Merging models fine-tuned from one pretrained start loses accuracy through inter
 
 - [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
 - [`record/questions.d/QUESTION-069.md:54`](../../record/questions.d/QUESTION-069.md)
-
-### [THEORY-110](../../record/theory.d/THEORY-110.md) — Proposed
-
-A set of trained solutions has a centre that is linearly connected, after alignment, to the rest of them: the solution set is a star domain even where it is not convex
-
-2 citations in 1 file await a look; 9 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:52`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-114](../../record/theory.d/THEORY-114.md) — Proposed
 

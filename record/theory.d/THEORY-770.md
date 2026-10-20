@@ -1,5 +1,8 @@
 ---
+number: 770
 status: Active
+formerly:
+- THEORY-tmp9jqpz
 title: 'In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure'
 version: 1
 history:
@@ -28,7 +31,7 @@ extended_by:
 - THEORY-673
 ---
 
-# THEORY-tmp9jqpz: In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure
+# THEORY-770: In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure
 
 ## Source
 

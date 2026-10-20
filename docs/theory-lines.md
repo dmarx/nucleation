@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-53 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+54 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -490,6 +490,13 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [THEORY-386](../record/theory.d/THEORY-386.md) — When a cached interval of width W is kept valid by its source, which pushes a refresh at cost C_vr whenever the value leaves it, and queries fetch the exact value at cost C_qr whenever it is too wide, and the chances of the two per step go as 1/W² and as W, the expected refresh cost is least at W* = (ρK₁/K₂)^(1/3) with ρ = 2C_vr/C_qr, where ρ times the chance of a pushed refresh equals the chance of a fetch *(Active)*
   - [THEORY-377](../record/theory.d/THEORY-377.md) — In Olston, Loo and Widom's simulations, a rule that multiplies a cached interval's width by 1 + α on a pushed refresh with probability min{ρ, 1}, and divides it by 1 + α on a query's exact fetch with probability min{1/ρ, 1}, settled within 1% of the best fixed width on one random walk and within 5% over eight walk settings; on a 50-host network-traffic trace, restricted to exact copies, it almost matched a tuned adaptive cache-or-not rule, and with a 50-value cache, where queries tolerated imprecision, it cost less; that it converges to the best width is argued, not proved *(Active)*
+
+## philosophy-of-biology
+
+### From In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure
+
+- [THEORY-770](../record/theory.d/THEORY-770.md) — In a closed population, any mapping of ancestors to descendants gives the Price equation: mean fitness times the change in mean character equals the covariance of fitness and character plus the fitness-weighted mean of the change in character, over any time interval and with no assumption beyond closure *(Active)*
+  - [THEORY-673](../record/theory.d/THEORY-673.md) — The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply *(Proposed)*
 
 ## philosophy-of-language
 
