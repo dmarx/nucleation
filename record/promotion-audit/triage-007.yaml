@@ -1,0 +1,1611 @@
+eligible: 327
+counts:
+  report: 6
+  theorem: 76
+  measurement: 115
+  argument: 130
+theorem_route:
+- code: THEORY-763
+  class: theorem
+  margin: 5
+  scores:
+    report: 0
+    theorem: 5
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - cites
+  - shown_thm
+  - derived
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: For every α < 1/3 there is a nonzero weak solution of the 3D incompressible Euler equations on
+    the periodic box, with velocity Hölder-contin
+- code: THEORY-744
+  class: theorem
+  margin: 5
+  scores:
+    report: 0
+    theorem: 5
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - cites
+  - shown_thm
+  - derived
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: 'As the kernel width ε goes to 0, Coifman and Lafon''s α-normalized diffusion operator on data
+    sampled with density q = e^{−U} from a compact '
+- code: THEORY-751
+  class: theorem
+  margin: 4
+  scores:
+    report: 0
+    theorem: 5
+    measurement: 1
+    argument: 0
+  signals:
+  - theorem_title
+  - cites
+  - shown_thm
+  - derived
+  - shown_strong
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: 'For a memoryless source with finite alphabets and a per-letter distortion, a description at rate
+    R(D₁) can be refined to distortion D₂ < D₁ '
+- code: THEORY-453
+  class: theorem
+  margin: 3
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: 'Basic physical objects can be nothing beyond the bearers of their relations: relations give them
+    identity conditions wherever they discern t'
+- code: THEORY-476
+  class: theorem
+  margin: 3
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: If continuant persons are maximal aggregates of person-stages interrelated by the psychological
+    relation R, then the relation of belonging t
+- code: THEORY-194
+  class: theorem
+  margin: 3
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - derived
+  rubric_score: 5
+  supports: 1
+  triage: triage-007
+  note: For the 1D and 2D Ising and 2D dimer models, the block coarse-graining that maximizes mutual information
+    with the system beyond a buffer aro
+- code: THEORY-447
+  class: theorem
+  margin: 3
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  rubric_score: 5
+  supports: 1
+  triage: triage-007
+  note: Granted that a person survives a brain transplant and that half a brain would do, each product
+    of a division stands in all that matters in o
+- code: THEORY-034
+  class: theorem
+  margin: 3
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  rubric_score: 4
+  supports: 1
+  triage: triage-007
+  note: Chakravartty's dilemma reaches only structural realisms that keep relata but deny them every intrinsic
+    identity-fixing feature, and among th
+- code: THEORY-153
+  class: theorem
+  margin: 3
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  rubric_score: 4
+  supports: 1
+  triage: triage-007
+  note: A system can keep its identity independently within a shared environment only if it has five interacting
+    subsystems, the first made of eleme
+- code: THEORY-588
+  class: theorem
+  margin: 3
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  rubric_score: 3
+  supports: 0
+  triage: triage-007
+  note: 'Lemma-based models of language production build in a lexicalist assumption, and the failure is
+    algorithmic as well as representational: as l'
+- code: THEORY-529
+  class: theorem
+  margin: 3
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  rubric_score: 2
+  supports: 0
+  triage: triage-007
+  note: A state is shown to be a representation by adaptation for transmitting information efficiently,
+    near the optimal trade-off of rate, distorti
+- code: THEORY-126
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: A collective emotion is the synchronous convergence of individuals' affective responses to one
+    event or object, produced bottom-up by shared
+- code: THEORY-204
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 1
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  - shown_data
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: In data-limited next-token prediction, the test loss falls as P^(−γ/(2β)), where β is the decay
+    with lag of the strongest token–token covari
+- code: THEORY-209
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: 'A converged network trained with SGD is not at a point and does not sample its training loss:
+    under a quadratic approximation it samples a G'
+- code: THEORY-243
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: Interchange interventions on a fixed set of variables can be satisfied equally by different alignments
+    related by a change of basis, so whic
+- code: THEORY-141
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 5
+  supports: 2
+  triage: triage-007
+  note: In a major evolutionary transition, where formerly free-living units come to form a higher-level
+    unit, the collective is stable only if sele
+- code: THEORY-563
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 5
+  supports: 1
+  triage: triage-007
+  note: Consciousness is a real pattern in the brain's content-bearing states, a description that trades
+    predictive accuracy for compression, and so
+- code: THEORY-374
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 4
+  supports: 2
+  triage: triage-007
+  note: 'Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly
+    is NP-complete in the size of the query and '
+- code: THEORY-060
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 1
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  - shown_data
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: A life story constructed from adolescence on is the form a person's diachronic identity takes,
+    and its content shapes later well-being
+- code: THEORY-102
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 1
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  - shown_strong
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: In human ventral temporal cortex the category and object identity of a clearly seen, unchanging
+    image are carried for as long as it stays on
+- code: THEORY-379
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: When the orderings of m attribute-sorted lists of N objects are probabilistically independent,
+    Fagin's Algorithm finds the top k objects und
+- code: THEORY-412
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 1
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  - shown_strong
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: 'Driven matter tends toward states that look adapted to the drive, with no replication needed:
+    of two outcomes of a system driven by a fixed '
+- code: THEORY-429
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: Institutions are the humanly devised formal and informal constraints on interaction; with technology
+    they fix the costs of transacting, orga
+- code: THEORY-173
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 3
+  supports: 2
+  triage: triage-007
+  note: 'Large models are a cultural and social technology rather than agents: lossy, uninvertible summaries
+    of human-produced information that, like'
+- code: THEORY-480
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 0
+    argument: 0
+  signals:
+  - theorem_title
+  rubric_score: 3
+  supports: 0
+  triage: triage-007
+  note: 'Where a general-search monopoly was kept by exclusive distribution deals, the court in United
+    States v. Google treated the user-interaction '
+- code: THEORY-647
+  class: theorem
+  margin: 2
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 1
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  - shown_strong
+  rubric_score: 2
+  supports: 0
+  triage: triage-007
+  note: If outright belief is credence ultraclose to 1 relative to a context level, conjunction holds
+    for any standard ('few') number of believed pr
+- code: THEORY-457
+  class: theorem
+  margin: 1
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 2
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_thm
+  - measurement_title
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: When people can choose their cooperation partners and have equal outside options, the stable division
+    of jointly produced gains is in propor
+- code: THEORY-525
+  class: theorem
+  margin: 1
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 2
+  signals:
+  - theorem_title
+  - shown_thm
+  - argument_title
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: 'In fan–celebrity parasocial relationships the celebrity mostly directs fans'' identities and
+    the fans mostly interpret the celebrity''s, so a '
+- code: THEORY-621
+  class: theorem
+  margin: 1
+  scores:
+    report: 0
+    theorem: 3
+    measurement: 0
+    argument: 2
+  signals:
+  - theorem_title
+  - shown_thm
+  - argument_title
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: Indexing each quantum fact to the system it is a fact for, and computing probabilities only between
+    facts relative to the same system, remov
+- code: THEORY-638
+  class: theorem
+  margin: 1
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 1
+    argument: 0
+  signals:
+  - theorem_title
+  - shown_data
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: Instantiating a formal program is never by itself sufficient for understanding or intentionality,
+    since a person can carry out a program for
+measurement_route:
+- code: THEORY-246
+  class: measurement
+  margin: 4
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 4
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_strong
+  - shown_data
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: 'Training objectives that tighten the class clusters of a classifier''s last layers buy accuracy
+    on the trained classes and pay for it in new '
+- code: THEORY-385
+  class: measurement
+  margin: 4
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 4
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_strong
+  - shown_data
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: In a proximity-graph index over data in isolated clusters, linking each new item to its nearest
+    neighbours leaves greedy search stuck at clu
+- code: THEORY-201
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 1
+    measurement: 4
+    argument: 0
+  signals:
+  - shown_thm
+  - measurement_title
+  - shown_strong
+  - shown_data
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: In next-token prediction on hierarchically generated sequences, the correlation between two tokens
+    falls by about a factor m per level of th
+- code: THEORY-334
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_strong
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: In copying a pattern of coloured blocks that stays in view, people look back at the model about
+    1.3 times per block, most often once for col
+- code: THEORY-039
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_data
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: 'The later phases reported in neural-network training differ in kind: after the transition a network
+    may simplify its weights, acquire item-s'
+- code: THEORY-333
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_data
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: Database cracking, which partitions a copy of a column in place as a side effect of each range
+    query, measured in memory on 10^7 integers un
+- code: THEORY-376
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_data
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: In a simulated single-client, read-only database answering selection queries on one relation,
+    describing cached data by the predicates of pa
+- code: THEORY-421
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_strong
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: In hyperbolic graph embeddings trained on link-prediction or classification losses, distance from
+    the origin is only a partial reading of hi
+- code: THEORY-680
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_strong
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: Emotion regulation is a set of processes distinct from emotion generation, by which people influence
+    which emotions they have, when, and how
+- code: THEORY-684
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_data
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: Experiencing oneself as a self that was there in the further past, seeking pattern in one's life,
+    fitting it to a story and falsifying it in
+- code: THEORY-360
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_strong
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: 'Tetris players rotate pieces more often and earlier than planning a placement and then executing
+    it requires, rotating within a few hundred '
+- code: THEORY-547
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_data
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: A language model idealized as continuing any text with a plausible next word from the collection
+    of all plausible texts follows narrative co
+- code: THEORY-674
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_strong
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: In NBER and CEPR working papers from 1980 to 2023, the share of claims backed by a design-based
+    identification strategy (difference-in-diffe
+- code: THEORY-436
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_data
+  rubric_score: 3
+  supports: 0
+  triage: triage-007
+  note: Pain is a functional state of a whole organism, possessing a certain functional organisation as
+    a probabilistic automaton, rather than a bra
+- code: THEORY-627
+  class: measurement
+  margin: 3
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 3
+    argument: 0
+  signals:
+  - measurement_title
+  - shown_data
+  rubric_score: 3
+  supports: 0
+  triage: triage-007
+  note: A nudge discovered by a learning system, unlike one a person designed, comes with no prior theory
+    of why it works and may exploit a cognitiv
+- code: THEORY-123
+  class: measurement
+  margin: 2
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 2
+    argument: 0
+  signals:
+  - shown_strong
+  - shown_data
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: In small work groups a member's displayed mood spreads to the others, and the more pleasant mood
+    members catch, the more cooperative and the
+- code: THEORY-495
+  class: measurement
+  margin: 2
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 2
+    argument: 0
+  signals:
+  - measurement_title
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: The human sense of obligation is internalized pressure from a joint agent 'we' to do what 'we'
+    expect of me; it appears around age three ins
+- code: THEORY-575
+  class: measurement
+  margin: 2
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 2
+    argument: 0
+  signals:
+  - measurement_title
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: '''Social group'' names two kinds of thing: organized social groups, such as teams, courts and
+    families, are structured wholes whose people occ'
+- code: THEORY-766
+  class: measurement
+  margin: 2
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 2
+    argument: 0
+  signals:
+  - shown_strong
+  - shown_data
+  rubric_score: 6
+  supports: 0
+  triage: triage-007
+  note: 'Brushing a seen rubber hand in synchrony with the hidden real hand, against asynchronous brushing,
+    raises reports that touch is felt at the '
+- code: THEORY-105
+  class: measurement
+  margin: 2
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 2
+    argument: 0
+  signals:
+  - shown_strong
+  - shown_data
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: Fine-tuning from one pretrained model lands near the edge of a task-specific low-loss region that
+    contains the convex hull of the fine-tuned
+control:
+- code: THEORY-072
+  class: argument
+  margin: 0
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 0
+    argument: 0
+  signals: []
+  rubric_score: 5
+  supports: 1
+  triage: triage-007
+  note: Organisms differ from dissipative structures such as a candle flame not by far-from-equilibrium
+    self-maintenance, nor by circular self-maint
+- code: THEORY-152
+  class: argument
+  margin: 0
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 0
+    argument: 0
+  signals: []
+  rubric_score: 3
+  supports: 0
+  triage: triage-007
+  note: 'When a firm, public service or other organization deteriorates, its members'' exit and voice
+    are both recuperation mechanisms: voice carries '
+- code: THEORY-410
+  class: argument
+  margin: 0
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 1
+    argument: 2
+  signals:
+  - theorem_title
+  - shown_strong
+  - argument_title
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: 'Brain–computer interface decoding does not show intentions to be causes distinct from their neural
+    realisers: what is many-to-one realised t'
+- code: THEORY-528
+  class: argument
+  margin: 0
+  scores:
+    report: 0
+    theorem: 2
+    measurement: 1
+    argument: 2
+  signals:
+  - theorem_title
+  - shown_data
+  - argument_title
+  rubric_score: 5
+  supports: 0
+  triage: triage-007
+  note: The cases offered for extended cognition are explained at least as well by embedded cognition,
+    on which the organism leans heavily on extern
+- code: THEORY-646
+  class: argument
+  margin: 0
+  scores:
+    report: 0
+    theorem: 0
+    measurement: 0
+    argument: 0
+  signals: []
+  rubric_score: 4
+  supports: 0
+  triage: triage-007
+  note: Skepticism about inner mental representations does not motivate fictionalism about folk psychology,
+    because realism about beliefs as interna
+labelled_check:
+  fitted_to_these_labels: true
+  n: 97
+  accuracy: 0.79
+  per_class:
+    report:
+      tp: 1
+      fp: 2
+      fn: 1
+      precision: 0.33
+      recall: 0.5
+    theorem:
+      tp: 54
+      fp: 12
+      fn: 3
+      precision: 0.82
+      recall: 0.95
+    measurement:
+      tp: 16
+      fp: 2
+      fn: 8
+      precision: 0.89
+      recall: 0.67
+    argument:
+      tp: 6
+      fp: 4
+      fn: 9
+      precision: 0.6
+      recall: 0.4
+  entries:
+  - code: THEORY-019
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem, but the record's own assembly (ADR-032)
+  - code: THEORY-026
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem
+  - code: THEORY-030
+    label:
+    - theorem
+    predicted: argument
+    margin: 0
+    agree: false
+    note: theorem
+  - code: THEORY-071
+    label:
+    - argument
+    predicted: argument
+    margin: 1
+    agree: true
+    note: argument
+  - code: THEORY-073
+    label:
+    - argument
+    predicted: argument
+    margin: 0
+    agree: true
+    note: argument (a conceptual critique of Markov-blanket individuation)
+  - code: THEORY-080
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem, but the record's own assembly (ADR-032)
+  - code: THEORY-083
+    label:
+    - measurement
+    predicted: theorem
+    margin: 1
+    agree: false
+    note: measurement (figures read only from captions)
+  - code: THEORY-085
+    label:
+    - theorem
+    - measurement
+    predicted: measurement
+    margin: 1
+    agree: true
+    note: measurement plus the record's own algebra
+  - code: THEORY-110
+    label:
+    - theorem
+    - measurement
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: 'measurement-backed conjecture (barriers reduced, not zero), plus toy-model theorems about '
+  - code: THEORY-115
+    label:
+    - measurement
+    predicted: measurement
+    margin: 2
+    agree: true
+    note: measurement, generalised across three studies
+  - code: THEORY-116
+    label:
+    - theorem
+    predicted: theorem
+    margin: 0
+    agree: true
+    note: theorem class, but the proved direction is the converse of the title
+  - code: THEORY-117
+    label:
+    - theorem
+    - measurement
+    predicted: argument
+    margin: 1
+    agree: false
+    note: measurement plus a theorem
+  - code: THEORY-133
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem within a stated framework
+  - code: THEORY-161
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: mixed; two derivations of the record's own (re-derivation) and a reading of two papers rea
+  - code: THEORY-162
+    label:
+    - argument
+    predicted: theorem
+    margin: 0
+    agree: false
+    note: argument
+  - code: THEORY-163
+    label:
+    - measurement
+    predicted: measurement
+    margin: 1
+    agree: true
+    note: measurement
+  - code: THEORY-166
+    label:
+    - measurement
+    predicted: measurement
+    margin: 1
+    agree: true
+    note: measurement
+  - code: THEORY-167
+    label:
+    - measurement
+    predicted: argument
+    margin: 0
+    agree: false
+    note: measurement
+  - code: THEORY-172
+    label:
+    - measurement
+    predicted: measurement
+    margin: 2
+    agree: true
+    note: measurement
+  - code: THEORY-175
+    label:
+    - theorem
+    - measurement
+    predicted: measurement
+    margin: 1
+    agree: true
+    note: compound
+  - code: THEORY-177
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem
+  - code: THEORY-181
+    label:
+    - theorem
+    - measurement
+    predicted: theorem
+    margin: 0
+    agree: true
+    note: theorem in an idealised model plus one measurement (ADR-047 v2 and v3)
+  - code: THEORY-185
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: conditional theorem about a generative model, re-derivation route
+  - code: THEORY-188
+    label:
+    - theorem
+    predicted: theorem
+    margin: 0
+    agree: true
+    note: theorem
+  - code: THEORY-189
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem; the missing sufficiency proof re-derived
+  - code: THEORY-190
+    label:
+    - theorem
+    predicted: theorem
+    margin: 0
+    agree: true
+    note: theorem
+  - code: THEORY-197
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem (an identity and a non-implication), re-derivation route
+  - code: THEORY-202
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem
+  - code: THEORY-203
+    label:
+    - theorem
+    - measurement
+    predicted: measurement
+    margin: 1
+    agree: true
+    note: compound
+  - code: THEORY-205
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: theorem
+  - code: THEORY-213
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: theorem
+  - code: THEORY-216
+    label:
+    - measurement
+    predicted: measurement
+    margin: 4
+    agree: true
+    note: measurement, one study read in full
+  - code: THEORY-222
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem
+  - code: THEORY-223
+    label:
+    - argument
+    predicted: theorem
+    margin: 1
+    agree: false
+    note: argument (an architectural argument with anecdotes)
+  - code: THEORY-228
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem (HaoChen et al. Thm 3.8), re-derivation route
+  - code: THEORY-229
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem, re-derivation of the proved part
+  - code: THEORY-230
+    label:
+    - theorem
+    - measurement
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: compound
+  - code: THEORY-237
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorems; the missing InfoNCE optimum re-derived
+  - code: THEORY-238
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem (Theorem 4 of LIT-245), re-derivation route
+  - code: THEORY-244
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem
+  - code: THEORY-253
+    label:
+    - measurement
+    predicted: measurement
+    margin: 1
+    agree: true
+    note: measurement
+  - code: THEORY-259
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: theorem
+  - code: THEORY-261
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: approximate derivation
+  - code: THEORY-263
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem, re-derivation
+  - code: THEORY-266
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem (Theorem 7 of LIT-233), re-derivation route; promote_when mis-targeted at an empir
+  - code: THEORY-267
+    label:
+    - measurement
+    predicted: theorem
+    margin: 2
+    agree: false
+    note: measurement
+  - code: THEORY-270
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: 'theorem inside stylised models the title does not name; re-derivation route, too long for '
+  - code: THEORY-271
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: theorem
+  - code: THEORY-272
+    label:
+    - measurement
+    predicted: measurement
+    margin: 1
+    agree: true
+    note: measurement
+  - code: THEORY-275
+    label:
+    - measurement
+    predicted: measurement
+    margin: 1
+    agree: true
+    note: measurement
+  - code: THEORY-278
+    label:
+    - theorem
+    - measurement
+    predicted: measurement
+    margin: 0
+    agree: true
+    note: compound, a measurement (v3) and a theorem in an imposed model (v2)
+  - code: THEORY-280
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem, re-derivation against the source's App. A and C
+  - code: THEORY-281
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: theorem
+  - code: THEORY-282
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem
+  - code: THEORY-284
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: theorem
+  - code: THEORY-289
+    label:
+    - theorem
+    predicted: theorem
+    margin: 0
+    agree: true
+    note: theorem, re-derivation
+  - code: THEORY-290
+    label:
+    - measurement
+    predicted: argument
+    margin: 0
+    agree: false
+    note: measurement (a numerical model result)
+  - code: THEORY-293
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: theorem plus one study read in full (ADR-047 v2 and v3)
+  - code: THEORY-294
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: theorem
+  - code: THEORY-302
+    label:
+    - argument
+    predicted: argument
+    margin: 0
+    agree: true
+    note: argument
+  - code: THEORY-305
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: identity plus a negative clause settled by a finite counterexample
+  - code: THEORY-313
+    label:
+    - theorem
+    predicted: theorem
+    margin: 3
+    agree: true
+    note: theorem chain; the outline-read gap bound re-derived
+  - code: THEORY-318
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: theorem, re-derivation of the two results proved in the part read
+  - code: THEORY-319
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: theorem (Tosh et al. Lemmas 1–2, Thm 3), re-derivation route
+  - code: THEORY-321
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem, re-derivation
+  - code: THEORY-324
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: theorem (Ashby's deductions about state-determined systems), re-derivation route
+  - code: THEORY-332
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: theorem
+  - code: THEORY-336
+    label:
+    - argument
+    predicted: theorem
+    margin: 2
+    agree: false
+    note: argument plus a reported measurement
+  - code: THEORY-344
+    label:
+    - report
+    predicted: report
+    margin: -1
+    agree: true
+    note: report of a conjecture, with the record's analytic reading
+  - code: THEORY-351
+    label:
+    - argument
+    predicted: report
+    margin: 0
+    agree: false
+    note: argument (task analysis, nothing measured), wave 5
+  - code: THEORY-362
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: theorem (stated without proof)
+  - code: THEORY-365
+    label:
+    - theorem
+    - measurement
+    predicted: measurement
+    margin: 0
+    agree: true
+    note: measurement (with a conditional derivation reported, not asserted)
+  - code: THEORY-367
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: theorem (stated without proof)
+  - code: THEORY-368
+    label:
+    - measurement
+    predicted: measurement
+    margin: 2
+    agree: true
+    note: measurement
+  - code: THEORY-377
+    label:
+    - measurement
+    predicted: report
+    margin: 0
+    agree: false
+    note: measurement
+  - code: THEORY-380
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem
+  - code: THEORY-382
+    label:
+    - measurement
+    predicted: theorem
+    margin: 1
+    agree: false
+    note: measurement
+  - code: THEORY-387
+    label:
+    - report
+    predicted: theorem
+    margin: 2
+    agree: false
+    note: report of a stated theorem whose proof the record lacked; re-derivation
+  - code: THEORY-411
+    label:
+    - argument
+    predicted: argument
+    margin: 2
+    agree: true
+    note: argument (exegesis of Sen through a secondary source), wave 5
+  - code: THEORY-419
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: definition plus theorem
+  - code: THEORY-459
+    label:
+    - argument
+    predicted: theorem
+    margin: 1
+    agree: false
+    note: argument
+  - code: THEORY-485
+    label:
+    - argument
+    predicted: argument
+    margin: 1
+    agree: true
+    note: argument
+  - code: THEORY-486
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem
+  - code: THEORY-490
+    label:
+    - argument
+    predicted: measurement
+    margin: 1
+    agree: false
+    note: argument (philosophy of reference, invented usages), wave 5
+  - code: THEORY-527
+    label:
+    - theorem
+    predicted: theorem
+    margin: 2
+    agree: true
+    note: conditional theorem plus verdicts argued from a definition
+  - code: THEORY-535
+    label:
+    - theorem
+    predicted: theorem
+    margin: 0
+    agree: true
+    note: theorem (a construction in quasi-set theory)
+  - code: THEORY-548
+    label:
+    - theorem
+    - measurement
+    predicted: theorem
+    margin: 0
+    agree: true
+    note: theorem plus measurement
+  - code: THEORY-560
+    label:
+    - measurement
+    predicted: measurement
+    margin: 0
+    agree: true
+    note: measurement-shaped, but from a narrative review of unread studies, so not on v3's route
+  - code: THEORY-578
+    label:
+    - measurement
+    predicted: measurement
+    margin: 2
+    agree: true
+    note: measurement
+  - code: THEORY-580
+    label:
+    - theorem
+    predicted: theorem
+    margin: 1
+    agree: true
+    note: theorem
+  - code: THEORY-585
+    label:
+    - theorem
+    predicted: theorem
+    margin: 4
+    agree: true
+    note: theorem about a construction whose key steps the source asserts
+  - code: THEORY-628
+    label:
+    - argument
+    predicted: argument
+    margin: 2
+    agree: true
+    note: argument
+  - code: THEORY-660
+    label:
+    - argument
+    predicted: theorem
+    margin: 0
+    agree: false
+    note: explanatory thesis plus model numerics plus measurement
+  - code: THEORY-671
+    label:
+    - argument
+    predicted: theorem
+    margin: 1
+    agree: false
+    note: principle
+  - code: THEORY-673
+    label:
+    - argument
+    predicted: theorem
+    margin: 1
+    agree: false
+    note: argument
+  - code: THEORY-675
+    label:
+    - measurement
+    predicted: theorem
+    margin: 0
+    agree: false
+    note: measurement
+  - code: THEORY-714
+    label:
+    - theorem
+    predicted: measurement
+    margin: 0
+    agree: false
+    note: theorem
