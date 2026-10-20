@@ -17,7 +17,7 @@ history:
     clause, which rests on extrapolation curves read only from
     captions, and the reading of averaging as moving inward leave the
     title and are filed, with the promote_when unchanged, as the new
-    Proposed THEORY-tmpsug2e, which extends this one.
+    Proposed THEORY-828, which extends this one.
 tags:
 - loss-landscapes
 - anthology-candidate
@@ -39,13 +39,13 @@ summary: >-
   centroid towards the origin stays low-loss far past the members, which
   the authors cannot explain.
   Promoted 2026-10-20 on the probe-loss comparisons measured (ADR-047
-  v3); the geometric thesis is THEORY-tmpsug2e.
+  v3); the geometric thesis is THEORY-828.
 answers:
 - QUESTION-069
 extended_by:
-- THEORY-tmpsug2e
+- THEORY-828
 ---
-<!-- inactive-ok-file: THEORY-tmpsug2e — Proposed; the geometric thesis this narrowing dropped, named in the promotion note -->
+<!-- inactive-ok-file: THEORY-828 — Proposed; the geometric thesis this narrowing dropped, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-115 THEORY-111 THEORY-107 THEORY-110 — Proposed; the account this one extends and siblings named in Connections, nothing here rests on their open parts -->
 
 # THEORY-105: For RoBERTa-base fine-tuned on English classification data, with loss measured by a linear probe refitted on the frozen encoder, points sampled from the convex hull of models fine-tuned on one dataset, one task family or twelve GLUE and SuperGLUE datasets lost no more than any model fine-tuned elsewhere and beat the group's own members in 88% to 96.7% of comparisons, and the centroid of the general-level models was a better starting point for BitFit than the pretrained model
@@ -151,7 +151,7 @@ edge" was read only from figure captions and the text's "a relatively flat
 base and steep cliffs", so it left the title, and Appendix F's origin
 direction is already an exception to it.
 
-What the narrowing dropped went to [THEORY-tmpsug2e](THEORY-tmpsug2e.md) under [ADR-047](../decisions.d/ADR-047.md) v4: that
+What the narrowing dropped went to [THEORY-828](THEORY-828.md) under [ADR-047](../decisions.d/ADR-047.md) v4: that
 fine-tuning typically lands near the edge of a task-specific low-loss
 region containing the hull, and that averaging works by moving inward. It
 carries this entry's former promote_when.

@@ -1,4 +1,5 @@
 ---
+number: 827
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmppz903
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: "A first-hand reading of a rubber hand study in which participants' expectations of the synchronous and comparison conditions are measured in the stimulated participants themselves and matched by design, or shown equal with a Bayes factor, and in which the synchrony difference in referred touch and in ownership survives, each item reported on its own with trait suggestibility as a covariate. Surviving trait suggestibility alone does not meet this: the reply of Lush and Seth shows that a synchrony effect unrelated to suggestibility is also what unequal but uniform expectations predict. It is refuted if, with expectations matched, synchronous and comparison brushing no longer differ on the ownership item; the referred-touch clause is refuted if they no longer differ on it either. A further replication with only control statements or an asynchronous condition as its control cannot settle it, and neither can drift."
 
-# The claim. Repeat it as the body's `# THEORY-tmppz903:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-827:` heading; the lint checks
 # that the two agree.
 title: "The rubber hand illusion is a perceptual illusion driven by multisensory integration: the difference in reports between synchronous and asynchronous brushing is produced by the stimulation, not by participants' expectations"
 
@@ -66,7 +69,7 @@ extends:
 <!-- inactive-ok-file: THEORY-769 — Proposed; the inference account named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-765 — Rejected; the earlier stimulation account this one does not revive, named -->
 
-# THEORY-tmppz903: The rubber hand illusion is a perceptual illusion driven by multisensory integration: the difference in reports between synchronous and asynchronous brushing is produced by the stimulation, not by participants' expectations
+# THEORY-827: The rubber hand illusion is a perceptual illusion driven by multisensory integration: the difference in reports between synchronous and asynchronous brushing is produced by the stimulation, not by participants' expectations
 
 ## Source
 

@@ -1,4 +1,5 @@
 ---
+number: 826
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmpkn062
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: "For the clause on mood: a second experiment, with a manipulated source of displayed mood, run in groups that differ from Barsade's in the way that most threatens the claim. That means ongoing teams rather than ad hoc student groups, several confederates rather than one actor, and mood measured during the interaction rather than recalled afterwards. The clause holds if members' mood again moves with the source's valence on a measure independent of self-report. For the clause on group process: a design in which process outcomes (cooperation, conflict) are compared across the manipulated conditions, or contagion is manipulated and the process measured, rather than regressing process on measured contagion. It is refuted if the manipulated conditions spread mood but leave cooperation and conflict unchanged, which would mean the correlations were carried by a third factor, such as members' own reaction to the task. For the clause on awareness: a designed test of whether members attribute their judgments of the group and of themselves to mood they caught. The published version of the article (ASQ 47(4)) should also be read, since every number here is from the 2001 manuscript and may have changed. More correlational field studies of mood convergence cannot settle the causal clauses."
 
-# The claim. Repeat it as the body's `# THEORY-tmpkn062:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-826:` heading; the lint checks
 # that the two agree.
 title: "In work groups, a member's displayed mood spreads to the others, and pleasant emotional contagion improves the group's cooperation and reduces its conflict"
 
@@ -61,7 +64,7 @@ extends:
 ---
 <!-- inactive-ok-file: THEORY-126 — Proposed; the convergence account named in Connections, not leaned on -->
 
-# THEORY-tmpkn062: In work groups, a member's displayed mood spreads to the others, and pleasant emotional contagion improves the group's cooperation and reduces its conflict
+# THEORY-826: In work groups, a member's displayed mood spreads to the others, and pleasant emotional contagion improves the group's cooperation and reduces its conflict
 
 ## Source
 

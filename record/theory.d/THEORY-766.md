@@ -17,7 +17,7 @@ history:
     it claims no more than was measured. The promote_when tested only
     the causal reading, that the stimulation produces the difference;
     that reading, Ehrsson et al.'s, is filed with the promote_when
-    unchanged as the new Proposed THEORY-tmppz903, which extends this
+    unchanged as the new Proposed THEORY-827, which extends this
     one.
 tags:
 - self
@@ -49,11 +49,11 @@ summary: >-
   synchronous stimulation, not expectation, produces the report difference
   is not settled.
   Promoted 2026-10-20 on the report differences measured ([ADR-047](../decisions.d/ADR-047.md) v3);
-  the perceptual reading is [THEORY-tmppz903](THEORY-tmppz903.md).
+  the perceptual reading is [THEORY-827](THEORY-827.md).
 extended_by:
-- THEORY-tmppz903
+- THEORY-827
 ---
-<!-- inactive-ok-file: THEORY-tmppz903 — Proposed; the perceptual reading this entry leaves open, named in the promotion note -->
+<!-- inactive-ok-file: THEORY-827 — Proposed; the perceptual reading this entry leaves open, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-765 — Rejected; the account this one corrects, named -->
 <!-- inactive-ok-file: THEORY-769 THEORY-767 THEORY-768 THEORY-458 THEORY-064 — Proposed; accounts this finding bears on, named and not leaned on -->
 
@@ -177,5 +177,5 @@ attribution; the clause on expectations is added so that "raises reports"
 cannot be read as saying the stimulation produces the difference.
 
 That reading, Ehrsson et al.'s claim that the illusion is perceptual and
-multisensory ([NOTE-997](../notes.d/NOTE-997.md), C8), went to [THEORY-tmppz903](THEORY-tmppz903.md) under [ADR-047](../decisions.d/ADR-047.md) v4,
+multisensory ([NOTE-997](../notes.d/NOTE-997.md), C8), went to [THEORY-827](THEORY-827.md) under [ADR-047](../decisions.d/ADR-047.md) v4,
 with this entry's former promote_when, which is its test.

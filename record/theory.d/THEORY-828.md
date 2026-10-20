@@ -1,4 +1,5 @@
 ---
+number: 828
 # Don't copy this file by hand — run `luria new theory`, which assigns the
 # code and fills in what a machine can compute.
 #
@@ -15,6 +16,8 @@
 # ACCOUNT, and an explanation can be `Rejected` while the thing it explained
 # goes on working exactly as well as it ever did.
 status: 'Proposed'
+formerly:
+- THEORY-tmpsug2e
 
 # REQUIRED while the status is Proposed or Deferred; delete it when the
 # explanation goes Active. What would settle it — a KIND of result, not a
@@ -22,7 +25,7 @@ status: 'Proposed'
 # it wrong is a story, and this field is where that shows up.
 promote_when: "Three results, none of which the source supplies. First, end-to-end evaluation of points inside the hull of fine-tuned models, not a linear probe refitted on a frozen encoder. Second, the same geometry from other pretrained models and architectures and on generative tasks, with the hull sampled densely enough to estimate it. Third, a direct test of the explanation for averaging. Locate model soups and SWA solutions relative to the region's members and centroid, and show that their gains grow as they sit further inside. It is refuted if hull points lose to their members when evaluated end to end, or if soups and SWA gain while sitting no further inside the region than the members. It is also refuted if the region has no walls in many directions, of which the origin direction of Appendix F is already one. More probe-based hull samples on RoBERTa-base would not move it."
 
-# The claim. Repeat it as the body's `# THEORY-tmpsug2e:` heading; the lint checks
+# The claim. Repeat it as the body's `# THEORY-828:` heading; the lint checks
 # that the two agree.
 title: 'Fine-tuning from one pretrained model typically lands near the edge of a task-specific low-loss region in weight space that contains the convex hull of the fine-tuned models, and averaging their weights, as model soups and stochastic weight averaging do, works by moving inward'
 
@@ -63,7 +66,7 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-107 — Proposed; the merging result this thesis would have to explain, named in What this does not say -->
 
-# THEORY-tmpsug2e: Fine-tuning from one pretrained model typically lands near the edge of a task-specific low-loss region in weight space that contains the convex hull of the fine-tuned models, and averaging their weights, as model soups and stochastic weight averaging do, works by moving inward
+# THEORY-828: Fine-tuning from one pretrained model typically lands near the edge of a task-specific low-loss region in weight space that contains the convex hull of the fine-tuned models, and averaging their weights, as model soups and stochastic weight averaging do, works by moving inward
 
 ## Source
 

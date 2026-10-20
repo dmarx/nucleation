@@ -17,7 +17,7 @@ history:
     experimental and the process link as a correlation with measured
     contagion. The generalisation to work groups and Barsade's causal
     reading of the process link leave the title and are filed, with
-    the promote_when unchanged, as the new Proposed THEORY-tmpkn062,
+    the promote_when unchanged, as the new Proposed THEORY-826,
     which extends this one.
 tags:
 - emotion-and-affect
@@ -42,14 +42,14 @@ summary: >-
   marginal. Limits: one experiment, one actor, retrospective mood,
   correlational process effects.
   Promoted 2026-10-20 on what the manuscript measured (ADR-047 v3); the
-  wider claim is THEORY-tmpkn062.
+  wider claim is THEORY-826.
 extended_by:
 - THEORY-126
-- THEORY-tmpkn062
+- THEORY-826
 answers:
 - QUESTION-053
 ---
-<!-- inactive-ok-file: THEORY-tmpkn062 — Proposed; the wider claim this narrowing dropped, named in the promotion note -->
+<!-- inactive-ok-file: THEORY-826 — Proposed; the wider claim this narrowing dropped, named in the promotion note -->
 <!-- inactive-ok-file: THEORY-126 — Proposed; filed in the same batch, the convergence account that widens this one, named for that -->
 <!-- inactive-ok-file: THEORY-055 THEORY-045 — Proposed; named in What this does not say for how contagion stands to appraisal and bodily feedback, nothing here rests on them -->
 
@@ -173,7 +173,7 @@ measured and promoted it under [ADR-047](../decisions.d/ADR-047.md) v3: one arti
 read was of the August 2001 manuscript, so the title says the numbers are
 the manuscript's; the published ASQ article has not been read.
 
-What the narrowing dropped went to [THEORY-tmpkn062](THEORY-tmpkn062.md) under [ADR-047](../decisions.d/ADR-047.md) v4: that
+What the narrowing dropped went to [THEORY-826](THEORY-826.md) under [ADR-047](../decisions.d/ADR-047.md) v4: that
 in work groups generally a member's mood spreads, and that pleasant
 contagion improves cooperation and reduces conflict. It carries this entry's
 former promote_when, which is the test of that wider claim.

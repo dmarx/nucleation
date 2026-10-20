@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**483 documents cited without acknowledgement.** Not listed: 10269 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**481 documents cited without acknowledgement.** Not listed: 10236 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -952,8 +952,8 @@ Two communicative realizations can agree on every probe in a restricted family w
 - [`record/questions.d/QUESTION-067.md:48`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:61`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:98`](../../record/questions.d/QUESTION-067.md)
-- [`record/questions.d/QUESTION-069.md:30`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:46`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:47`](../../record/questions.d/QUESTION-069.md)
 
 ### [CLAIM-357](../../record/claims.d/CLAIM-357.md) — Proposed
 
@@ -1580,7 +1580,7 @@ Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry:
 
 A collective emotion is the synchronous convergence of individuals' affective responses to one event or object, produced bottom-up by shared appraisal, contagion and group membership, and it needs no group subject; it takes a We-mode form when the appraisals rest on collectively intentional states
 
-8 citations in 2 files await a look; 7 other citations of it are acknowledged.
+8 citations in 2 files await a look; 8 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-104.md:41`](../../record/cases.d/CASE-104.md)
 - [`record/questions.d/QUESTION-053.md:17`](../../record/questions.d/QUESTION-053.md)
@@ -1894,8 +1894,8 @@ Whether two systems compute the same way can be tested by quotienting the full a
 - [`record/decisions.d/ADR-040.md:198`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:200`](../../record/decisions.d/ADR-040.md)
 - [`record/decisions.d/ADR-040.md:219`](../../record/decisions.d/ADR-040.md)
-- [`record/questions.d/QUESTION-069.md:30`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:46`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:47`](../../record/questions.d/QUESTION-069.md)
 
 ### [CLAIM-193](../../record/claims.d/CLAIM-193.md) — Proposed
 
@@ -2100,8 +2100,8 @@ Across load and temperature, the connectivity and output similarity of independe
 
 - [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
 - [`record/notes.d/NOTE-714.md:129`](../../record/notes.d/NOTE-714.md)
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:55`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:32`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:56`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-109.md:175`](../../record/theory.d/THEORY-109.md)
 - [`record/theory.d/THEORY-109.md:179`](../../record/theory.d/THEORY-109.md)
 
@@ -2112,8 +2112,8 @@ The solutions SGD finds in a deep network lie in one connected low-loss set, joi
 6 citations in 4 files await a look; 16 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-187.md:85`](../../record/claims.d/CLAIM-187.md)
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:50`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:32`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:51`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-108.md:184`](../../record/theory.d/THEORY-108.md)
 - [`record/theory.d/THEORY-108.md:186`](../../record/theory.d/THEORY-108.md)
 - [`record/theory.d/THEORY-770.md:13`](../../record/theory.d/THEORY-770.md)
@@ -3448,8 +3448,8 @@ A set of trained solutions has a centre that is linearly connected, after alignm
 
 3 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:52`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:32`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:53`](../../record/questions.d/QUESTION-069.md)
 - [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
 
 ### [THEORY-118](../../record/theory.d/THEORY-118.md) — Proposed
@@ -4352,15 +4352,6 @@ Under distribution shift the best layer for a linear readout lies below the top:
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
 - [`record/questions.d/QUESTION-051.md:58`](../../record/questions.d/QUESTION-051.md)
 
-### [THEORY-105](../../record/theory.d/THEORY-105.md) — Proposed
-
-Fine-tuning from one pretrained model lands near the edge of a task-specific low-loss region that contains the convex hull of the fine-tuned models, and averaging them moves inward
-
-2 citations in 1 file await a look; 3 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:53`](../../record/questions.d/QUESTION-069.md)
-
 ### [THEORY-106](../../record/theory.d/THEORY-106.md) — Proposed
 
 In random-features ridge regression the double-descent peak is a divergence of the test error at the interpolation threshold 2N = n as the ridge goes to zero, which a positive ridge keeps finite and a ridge of the tuned size removes; minimum-norm linear regression has the same peak at n = d in exact finite-sample form
@@ -4374,10 +4365,10 @@ In random-features ridge regression the double-descent peak is a divergence of t
 
 Merging models fine-tuned from one pretrained start loses accuracy through interference in parameter coordinates: redundant small updates dilute the influential ones, and influential updates of different models conflict in sign
 
-2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+2 citations in 1 file await a look; 3 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:31`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:54`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:32`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:55`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-114](../../record/theory.d/THEORY-114.md) — Proposed
 
@@ -4385,8 +4376,8 @@ Linear mode connectivity emerges during training, not at initialization: copies 
 
 2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-069.md:32`](../../record/questions.d/QUESTION-069.md)
-- [`record/questions.d/QUESTION-069.md:51`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:33`](../../record/questions.d/QUESTION-069.md)
+- [`record/questions.d/QUESTION-069.md:52`](../../record/questions.d/QUESTION-069.md)
 
 ### [THEORY-122](../../record/theory.d/THEORY-122.md) — Proposed
 
@@ -5510,14 +5501,6 @@ A motive is the agent's own, and she acts of her own free will, when she identif
 1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-016.md:75`](../../record/claims.d/CLAIM-016.md)
-
-### [THEORY-123](../../record/theory.d/THEORY-123.md) — Proposed
-
-In small work groups a member's displayed mood spreads to the others, and the more pleasant mood members catch, the more cooperative and the less conflicted the group; the spread is shown experimentally, its link to group process only by correlation, and members do not credit their mood for how effective they judge themselves
-
-1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-053.md:57`](../../record/questions.d/QUESTION-053.md)
 
 ### [THEORY-135](../../record/theory.d/THEORY-135.md) — Proposed
 
