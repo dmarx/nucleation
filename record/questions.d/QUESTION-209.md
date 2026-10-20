@@ -1,5 +1,8 @@
 ---
+number: 209
 status: Open
+formerly:
+- QUESTION-tmpgh1rg
 title: 'Do listeners in reference and signalling games invert an informative speaker when alternatives and costs are manipulated with the uttered form held fixed, the model''s parameters are set in advance, and its predictions are tested on trial-level data against a literal listener and a likelihood-only model?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
   model fitted.
 ---
 
-# QUESTION-tmpgh1rg: Do listeners in reference and signalling games invert an informative speaker when alternatives and costs are manipulated with the uttered form held fixed, the model's parameters are set in advance, and its predictions are tested on trial-level data against a literal listener and a likelihood-only model?
+# QUESTION-209: Do listeners in reference and signalling games invert an informative speaker when alternatives and costs are manipulated with the uttered form held fixed, the model's parameters are set in advance, and its predictions are tested on trial-level data against a literal listener and a likelihood-only model?
 
 ## Why it is a question
 

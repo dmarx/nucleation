@@ -14,7 +14,7 @@ history:
     states the result. "Survey question-order effects" becomes the 66 Pew
     surveys with nothing read out between the questions. The equality and the
     classical construction behind the negative clause are worked in a dated
-    note. The promote_when moves to QUESTION-tmpp7mar.
+    note. The promote_when moves to QUESTION-210.
 tags:
 - cognition
 - social-science
@@ -34,7 +34,7 @@ summary: >-
   can be built to satisfy the equality, and [LIT-264](../literature.d/LIT-264.md) shows that data meeting
   it are noncontextual, so it is evidence for a constraint on order effects,
   not for nonclassical probability or contextuality. A preregistered test
-  with a constrained classical rival is [QUESTION-tmpp7mar](../questions.d/QUESTION-tmpp7mar.md).
+  with a constrained classical rival is [QUESTION-210](../questions.d/QUESTION-210.md).
 supports:
 - CLAIM-041
 ---

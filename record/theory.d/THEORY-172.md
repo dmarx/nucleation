@@ -25,7 +25,7 @@ history:
     speaker model" becomes the measured match in those games, and "neither
     the prior nor the literal meaning alone" keeps only the prior, since no
     likelihood-only model was fitted. The promote_when moves to
-    QUESTION-tmpgh1rg.
+    QUESTION-209.
 tags:
 - pragmatics
 - linguistics
@@ -49,7 +49,7 @@ summary: >-
   uncertainty derives Horn's mapping. Goodman & Frank (2016), [LIT-816](../literature.d/LIT-816.md),
   states the framework. Shown for artificial games with given alternatives,
   by fits of condition means with no rival fitted; a test against named
-  rivals on trial-level data is [QUESTION-tmpgh1rg](../questions.d/QUESTION-tmpgh1rg.md).
+  rivals on trial-level data is [QUESTION-209](../questions.d/QUESTION-209.md).
 supports:
 - CLAIM-111
 - CLAIM-221
@@ -140,4 +140,4 @@ Experiment 1 shows the dependence of a fixed form's reading on its
 alternative at ceiling. Their Experiment 2, the Horn mapping, supports
 lexical uncertainty, which goes beyond the basic inversion, and stays in
 the body as such. Whether listeners compute the inversion, rather than
-follow the alternatives by a simpler route, is [QUESTION-tmpgh1rg](../questions.d/QUESTION-tmpgh1rg.md).
+follow the alternatives by a simpler route, is [QUESTION-209](../questions.d/QUESTION-209.md).

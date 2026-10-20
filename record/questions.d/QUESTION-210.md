@@ -1,5 +1,8 @@
 ---
+number: 210
 status: Open
+formerly:
+- QUESTION-tmpp7mar
 title: 'Does the QQ equality of survey question-order data hold in question pairs chosen in advance by investigators other than its proposers, and does a classical model with memory, constrained to satisfy it, fit the per-pair tables as well as the projection model?'
 version: 1
 tags:
@@ -18,7 +21,7 @@ summary: >-
   constrained classical rival was fitted.
 ---
 
-# QUESTION-tmpp7mar: Does the QQ equality of survey question-order data hold in question pairs chosen in advance by investigators other than its proposers, and does a classical model with memory, constrained to satisfy it, fit the per-pair tables as well as the projection model?
+# QUESTION-210: Does the QQ equality of survey question-order data hold in question pairs chosen in advance by investigators other than its proposers, and does a classical model with memory, constrained to satisfy it, fit the per-pair tables as well as the projection model?
 
 ## Why it is a question
 

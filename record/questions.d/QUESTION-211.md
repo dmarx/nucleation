@@ -1,5 +1,8 @@
 ---
+number: 211
 status: Open
+formerly:
+- QUESTION-tmpqgnk6
 title: 'How far are independently trained latent spaces from a cosine-preserving map: is the held-out residual of the best orthogonal-times-scalar map close to that of the best linear map where anchor-based stitching works, and does the gap grow where it fails?'
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   mostly differ. The source never fits a map between two spaces.
 ---
 
-# QUESTION-tmpqgnk6: How far are independently trained latent spaces from a cosine-preserving map: is the held-out residual of the best orthogonal-times-scalar map close to that of the best linear map where anchor-based stitching works, and does the gap grow where it fails?
+# QUESTION-211: How far are independently trained latent spaces from a cosine-preserving map: is the held-out residual of the best orthogonal-times-scalar map close to that of the best linear map where anchor-based stitching works, and does the gap grow where it fails?
 
 ## Why it is a question
 

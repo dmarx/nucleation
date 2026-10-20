@@ -15,7 +15,7 @@ history:
     class is stated as the maps preserving each sample's cosines to the
     anchors, with the members the derivation fixes, and the agreement is held
     to Moschella et al.'s experiments. The promote_when moves to
-    QUESTION-tmpqgnk6.
+    QUESTION-211.
 tags:
 - representation-learning
 - anthology-candidate
@@ -31,7 +31,7 @@ summary: >-
   approximate agreement is the paper's evidence: relative vectors match at
   cosine 0.86–0.97 across encoders, while ten-nearest-neighbour overlap is
   0.10–0.39. It does not say the maps between trained spaces are
-  isometries, which the source never measures ([QUESTION-tmpqgnk6](../questions.d/QUESTION-tmpqgnk6.md)), nor that
+  isometries, which the source never measures ([QUESTION-211](../questions.d/QUESTION-211.md)), nor that
   the transfer needs no paired data: the anchors are paired data.
 supports:
 - CLAIM-126
