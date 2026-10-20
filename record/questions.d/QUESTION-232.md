@@ -1,5 +1,8 @@
 ---
+number: 232
 status: Open
+formerly:
+- QUESTION-tmpjpe7s
 title: 'Does the coarse-graining that maximizes mutual information with the system beyond a buffer find the renormalization-group variables of a system where they were not known beforehand, and does it give short-ranged effective Hamiltonians in two or more dimensions?'
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   chains.
 ---
 
-# QUESTION-tmpjpe7s: Does the coarse-graining that maximizes mutual information with the system beyond a buffer find the renormalization-group variables of a system where they were not known beforehand, and does it give short-ranged effective Hamiltonians in two or more dimensions?
+# QUESTION-232: Does the coarse-graining that maximizes mutual information with the system beyond a buffer find the renormalization-group variables of a system where they were not known beforehand, and does it give short-ranged effective Hamiltonians in two or more dimensions?
 
 ## Why it is a question
 

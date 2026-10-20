@@ -41,7 +41,7 @@ history:
     the body. The closing gloss, that which variables a compression keeps
     is set by what it must stay informative about, is the record's
     reading and moves to a dated note. The promote_when moves unchanged to
-    QUESTION-tmpjpe7s.
+    QUESTION-232.
 tags:
 - natural-sciences
 - information-theory
@@ -112,7 +112,7 @@ effective Hamiltonian has no coupling across the block.
 - **Not that the objective finds relevant variables in general.** Every 2D
   case had a known answer. The account is that, on these models, the
   objective and RG agree; whether they agree where RG's variables are
-  unknown is what [QUESTION-tmpjpe7s](../questions.d/QUESTION-tmpjpe7s.md) asks.
+  unknown is what [QUESTION-232](../questions.d/QUESTION-232.md) asks.
 - **Not a proof of equivalence with RG in two or more dimensions.** The
   equivalence with a compact, short-ranged effective Hamiltonian is proved
   only for 1D and quasi-1D chains, and the 1D comparison is among three
@@ -162,7 +162,7 @@ three filters on the paper's proxy for mutual information, to leading
 order in block size, and decimation scores twice the boundary filter.
 That does not show decimation maximizes the objective over all filters.
 Second, the general equivalence with renormalization, which
-[QUESTION-tmpjpe7s](../questions.d/QUESTION-tmpjpe7s.md) now carries. Third, the former title's closing
+[QUESTION-232](../questions.d/QUESTION-232.md) now carries. Third, the former title's closing
 gloss, that which variables a compression keeps is set by what it must
 stay informative about. That is the record's reading of these results,
 and [THEORY-202](THEORY-202.md) cites this account for it. The results are consistent
