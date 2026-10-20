@@ -18,7 +18,7 @@ history:
     the context's projections, and holds, for instance, on a context of
     maximally entangled projections. The title now states the exact
     condition. The former promote_when's refutation route, a variant of
-    the rules that repairs composites, moves to QUESTION-tmpucqdf.
+    the rules that repairs composites, moves to QUESTION-197.
 tags:
 - quantum-foundations
 - mathematics

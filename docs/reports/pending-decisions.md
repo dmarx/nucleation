@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**762 document(s) awaiting a decision.**
+**759 document(s) awaiting a decision.**
 
 ## LITs
 
-95 of the 762.
+95 of the 759.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -32,7 +32,7 @@
 | 2026-09-26 | Proposed | [LIT-190](../../record/literature.d/LIT-190.md) | 15 | 8 | The coherent and fluent mind: how unified consciousness is constructed from cross-modal inputs via integrated processing experiences |
 | 2026-09-26 | Proposed | [LIT-193](../../record/literature.d/LIT-193.md) | 14 | 2 | Better to be a Pig Dissatisfied than a Plant Satisfied |
 | 2026-09-27 | Proposed | [LIT-267](../../record/literature.d/LIT-267.md) | 27 | 9 | The Lattice Representation Hypothesis of Large Language Models |
-| 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 20 | 17 | A topos foundation for theories of physics: IV. Categories of systems |
+| 2026-09-29 | Proposed | [LIT-310](../../record/literature.d/LIT-310.md) | 21 | 18 | A topos foundation for theories of physics: IV. Categories of systems |
 | 2026-09-30 | Proposed | [LIT-370](../../record/literature.d/LIT-370.md) | 17 | 8 | New Evidence of the Two-Phase Learning Dynamics of Neural Networks |
 | 2026-09-30 | Proposed | [LIT-369](../../record/literature.d/LIT-369.md) | 16 | 12 | Grokking and Generalization Collapse: Insights from HTSR theory |
 | 2026-10-01 | Proposed | [LIT-374](../../record/literature.d/LIT-374.md) | 49 | 41 | Structural Decoupling: A Scaffold-Flow Theory of Generalization and Alignment |
@@ -111,7 +111,7 @@
 
 ## THEORYs
 
-436 of the 762.
+433 of the 759.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -316,7 +316,6 @@
 | 2026-10-14 | Proposed | [THEORY-258](../../record/theory.d/THEORY-258.md) | 7 | 1 | Optimizing a language model on feedback from a simulated population in which a few users reward harmful validation selects a policy that picks those users out by contextual cues and harms only them, with no one designing the targeting |
 | 2026-10-14 | Proposed | [THEORY-271](../../record/theory.d/THEORY-271.md) | 7 | 0 | In a toy subject–verb–object corpus whose eight subjects carry every combination of three binary aspects, the subjects' raw co-occurrence rows form a parallelepiped if and only if, for each object, its four sentences are equally probable; any other sentence distribution breaks it |
 | 2026-10-14 | Proposed | [THEORY-292](../../record/theory.d/THEORY-292.md) | 7 | 0 | In CNN image classifiers, concept directions fitted one concept at a time align for attributes that co-occur in the labels, yet a joint fit finds mutually orthogonal directions that still separate each concept with little loss of AUROC, so the alignment is a property of the separate fits and not forced by the representation |
-| 2026-10-14 | Proposed | [THEORY-318](../../record/theory.d/THEORY-318.md) | 7 | 0 | A bound on the max-information between a dataset and the functions an analyst chooses bounds the probability that an adaptively chosen statistic overfits that dataset, and differential privacy supplies the bound, so a holdout can validate many adaptively chosen statistics |
 | 2026-10-14 | Proposed | [THEORY-227](../../record/theory.d/THEORY-227.md) | 6 | 0 | Mutual information between an input and its representation does not fix the representation's quality: invertible encoders all preserve it exactly, yet under a linear probe some do better than the raw input and some worse |
 | 2026-10-14 | Proposed | [THEORY-240](../../record/theory.d/THEORY-240.md) | 6 | 0 | Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters |
 | 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 6 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
@@ -336,7 +335,6 @@
 | 2026-10-14 | Proposed | [THEORY-300](../../record/theory.d/THEORY-300.md) | 5 | 0 | Acting on a coercive instruction reduces the implicit sense of agency over the outcome, compared with freely choosing the same action |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 5 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
 | 2026-10-14 | Proposed | [THEORY-226](../../record/theory.d/THEORY-226.md) | 4 | 0 | LLM revisions of an essay move it further in sentence-embedding space than its author's own revision does, and in a direction shared across essays, models and prompts |
-| 2026-10-14 | Proposed | [THEORY-270](../../record/theory.d/THEORY-270.md) | 4 | 0 | Translation without parallel data is learnable from a plausibility prior over the target language alone, with error falling in the common ground between prior and translations, in the size of the source language and in the number of samples |
 | 2026-10-14 | Proposed | [THEORY-310](../../record/theory.d/THEORY-310.md) | 4 | 0 | On a forward-looking justification of blame, a counterfactual capacity condition calibrated to what makes blaming effective is redundant: fixing its parameters presupposes that blaming such agents is good policy, so freedom is ascribed because of blameworthiness rather than grounding it |
 | 2026-10-14 | Proposed | [THEORY-311](../../record/theory.d/THEORY-311.md) | 4 | 0 | Groupware that requires extra work from members who do not perceive a direct benefit from it is resisted or goes unused, and the applications that succeed in groups give each user who does the work a benefit of their own |
 | 2026-10-14 | Proposed | [THEORY-329](../../record/theory.d/THEORY-329.md) | 4 | 0 | On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown |
@@ -513,7 +511,6 @@
 | 2026-10-16 | Proposed | [THEORY-560](../../record/theory.d/THEORY-560.md) | 1 | 0 | In rodents, gut microbes can drive stress and affect-related behaviour through vagal, immune, endocrine and metabolite routes, and faecal transplant from depressed people partly transfers the phenotype; in people, probiotics have so far shown at most small reductions in subjective stress in healthy volunteers, and strains with strong preclinical records have failed in controlled trials |
 | 2026-10-16 | Proposed | [THEORY-561](../../record/theory.d/THEORY-561.md) | 1 | 0 | If moral evaluation has thresholds below which effects are negligible, a system of agents can do good or evil that none of its members' interactions does, and the same thresholds make an environment tolerant of small evils and inert to small goods; on the examples offered the non-additivity lies in the evaluation, as a step function of summed impact, not in the actions |
 | 2026-10-16 | Proposed | [THEORY-573](../../record/theory.d/THEORY-573.md) | 1 | 0 | Signals of processing quality from different senses, such as fluency, familiarity and coherence, pool into one content-nonspecific feeling, and that pooled feeling contributes to the unity of conscious experience across modalities, alongside the integration of specific features; in support, coherence in one modality shifts judgments of regularity, familiarity and possibility about unrelated targets in another |
-| 2026-10-16 | Proposed | [THEORY-585](../../record/theory.d/THEORY-585.md) | 1 | 0 | In the Döring–Isham scheme for realising collections of systems in topoi, disjoint sums of quantum systems compose exactly, but along tensor products the best pull-back of a constituent's quantity agrees with the composite's own quantity only on contexts of the form V₁⊗ℂ1, since the composite's context poset holds contexts that mix the factors; the failure elsewhere is asserted, not proved |
 | 2026-10-16 | Proposed | [THEORY-590](../../record/theory.d/THEORY-590.md) | 1 | 0 | The self whose governance makes action autonomous is not the self whose persistence is personal identity: governance by an essence of volitional necessities would make action authentic, not autonomous; losing a defining care costs one's grasp of who one is, not one's existence; and wholeheartedness won by extruding a desire is a defence, not health |
 | 2026-10-16 | Proposed | [THEORY-607](../../record/theory.d/THEORY-607.md) | 1 | 0 | The individuals that appear in an evolutionary transition in individuality are a summary description of lower-level processes, not a new level of fact: a partition of particles defines collectives when predicting at the coarse grain matches predicting at the fine grain across many traits, and collectives become indispensable, and so quasi-ontological, only because finite measurement and computation make the fine-grained prediction unaffordable |
 | 2026-10-16 | Proposed | [THEORY-618](../../record/theory.d/THEORY-618.md) | 1 | 0 | Neural circuits that must represent hierarchically organised states in few dimensions use a hyperbolic geometry, three-dimensional where it has been measured, because hyperbolic space holds exponentially many well-separated states within a small radius; the argument from Zipf's law to this geometry does not hold, and the evidence is two Betti-curve studies tested only against uniform Euclidean nulls |
@@ -554,7 +551,7 @@
 
 ## ADRs
 
-2 of the 762.
+2 of the 759.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -563,7 +560,7 @@
 
 ## QUESTIONs
 
-9 of the 762.
+9 of the 759.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -579,7 +576,7 @@
 
 ## CLAIMs
 
-215 of the 762.
+215 of the 759.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -801,7 +798,7 @@
 
 ## CASEs
 
-1 of the 762.
+1 of the 759.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -809,7 +806,7 @@
 
 ## TERMs
 
-2 of the 762.
+2 of the 759.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -818,7 +815,7 @@
 
 ## ARGs
 
-2 of the 762.
+2 of the 759.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

@@ -1,5 +1,8 @@
 ---
+number: 196
 status: Open
+formerly:
+- QUESTION-tmpemkme
 title: "Does Thresholdout keep every one of m adaptively chosen statistical queries within τ of its true mean, with probability 1 − β, on a holdout whose size grows only logarithmically in m, as Dwork and co-authors' Theorem 11 states?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   promote_when's request for the deferred proofs, are held here.
 ---
 
-# QUESTION-tmpemkme: Does Thresholdout keep every one of m adaptively chosen statistical queries within τ of its true mean, with probability 1 − β, on a holdout whose size grows only logarithmically in m, as Dwork and co-authors' Theorem 11 states?
+# QUESTION-196: Does Thresholdout keep every one of m adaptively chosen statistical queries within τ of its true mean, with probability 1 − β, on a holdout whose size grows only logarithmically in m, as Dwork and co-authors' Theorem 11 states?
 
 ## Why it is a question
 

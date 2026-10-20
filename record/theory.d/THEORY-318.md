@@ -16,7 +16,7 @@ history:
     holdout can validate many adaptively chosen statistics", which rests
     on Thresholdout's Theorem 11 and on proofs held in companion papers
     the record has not read. That clause and the former promote_when move
-    to QUESTION-tmpemkme.
+    to QUESTION-196.
 tags:
 - mathematical-statistics
 - learning-theory
@@ -124,4 +124,4 @@ analyst's output, taking countably many values, and R(f) a set of
 These are the proofs [NOTE-848](../notes.d/NOTE-848.md) checked in the Supplementary Material. The
 stronger transfers (Theorems 6 and 8) and Thresholdout's guarantee
 (Theorem 11), stated above, are not re-derived; they are what
-[QUESTION-tmpemkme](../questions.d/QUESTION-tmpemkme.md) asks about.
+[QUESTION-196](../questions.d/QUESTION-196.md) asks about.

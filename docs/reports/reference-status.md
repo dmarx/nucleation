@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**498 documents cited without acknowledgement.** Not listed: 9662 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**498 documents cited without acknowledgement.** Not listed: 9651 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -867,7 +867,7 @@ Relative to a stated target, a combined form is one system while its joint dynam
 
 A topos foundation for theories of physics: IV. Categories of systems
 
-17 citations in 10 files await a look; 3 other citations of it are acknowledged.
+18 citations in 11 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-325.md:6`](../../record/literature.d/LIT-325.md)
 - [`record/literature.d/LIT-325.md:82`](../../record/literature.d/LIT-325.md)
@@ -886,6 +886,7 @@ A topos foundation for theories of physics: IV. Categories of systems
 - [`record/notes.d/NOTE-333.md:121`](../../record/notes.d/NOTE-333.md)
 - [`record/notes.d/NOTE-334.md:127`](../../record/notes.d/NOTE-334.md)
 - [`record/notes.d/NOTE-334.md:130`](../../record/notes.d/NOTE-334.md)
+- [`record/questions.d/QUESTION-197.md:27`](../../record/questions.d/QUESTION-197.md)
 
 ### [THEORY-013](../../record/theory.d/THEORY-013.md) — Proposed
 
@@ -2319,8 +2320,8 @@ Where the model with a candidate structure is singular at the parameters that sw
 - [`record/claims.d/CLAIM-154.md:114`](../../record/claims.d/CLAIM-154.md)
 - [`record/claims.d/CLAIM-154.md:124`](../../record/claims.d/CLAIM-154.md)
 - [`record/decisions.d/ADR-040.md:152`](../../record/decisions.d/ADR-040.md)
-- [`record/questions.d/QUESTION-040.md:29`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:43`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:35`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:50`](../../record/questions.d/QUESTION-040.md)
 
 ### [CLAIM-195](../../record/claims.d/CLAIM-195.md) — Proposed
 
@@ -3364,6 +3365,16 @@ Making It Explicit
 - [`record/literature.d/LIT-794.md:13`](../../record/literature.d/LIT-794.md)
 - [`record/literature.d/LIT-794.md:102`](../../record/literature.d/LIT-794.md)
 
+### [NOTE-848](../../record/notes.d/NOTE-848.md) — Skimmed
+
+Dwork et al. — The reusable holdout (supplementary material)
+
+3 citations in 3 files await a look; 7 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-040.md:12`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-196.md:36`](../../record/questions.d/QUESTION-196.md)
+- [`record/theory.d/THEORY-028.md:12`](../../record/theory.d/THEORY-028.md)
+
 ### [TERM-003](../../record/terms.d/TERM-003.md) — Superseded
 
 will, as a second- or higher-order attractor
@@ -3430,9 +3441,9 @@ In a linearised network with a Gaussian prior on its parameters, the Occam facto
 
 3 citations in 1 file await a look; 13 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-040.md:30`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:47`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:49`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
 
 ### [THEORY-090](../../record/theory.d/THEORY-090.md) — Proposed
 
@@ -4208,15 +4219,6 @@ Fricker — Epistemic Injustice (précis)
 
 - [`record/questions.d/QUESTION-072.md:12`](../../record/questions.d/QUESTION-072.md)
 - [`record/questions.d/QUESTION-072.md:135`](../../record/questions.d/QUESTION-072.md)
-
-### [NOTE-848](../../record/notes.d/NOTE-848.md) — Skimmed
-
-Dwork et al. — The reusable holdout (supplementary material)
-
-2 citations in 2 files await a look; 6 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-040.md:12`](../../record/questions.d/QUESTION-040.md)
-- [`record/theory.d/THEORY-028.md:12`](../../record/theory.d/THEORY-028.md)
 
 ### [QUESTION-059](../../record/questions.d/QUESTION-059.md) — Deferred
 

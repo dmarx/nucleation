@@ -18,7 +18,7 @@ history:
     data is learnable" to that model and its bound. The knowledge-graph
     model and the lower bound stay in the body as the paper's statements.
     The former promote_when, a bound outside the uniform, lossless models,
-    moves to QUESTION-tmpcd93h.
+    moves to QUESTION-195.
 tags:
 - translation
 - learning-theory

@@ -1,5 +1,8 @@
 ---
+number: 195
 status: Open
+formerly:
+- QUESTION-tmpcd93h
 title: "Does prior-scored translation without parallel data keep an error bound that falls in the common ground and the size of the source language when the languages are not uniform or the translators are lossy?"
 version: 1
 tags:
@@ -15,7 +18,7 @@ summary: >-
   uniform, lossless models, is held here.
 ---
 
-# QUESTION-tmpcd93h: Does prior-scored translation without parallel data keep an error bound that falls in the common ground and the size of the source language when the languages are not uniform or the translators are lossy?
+# QUESTION-195: Does prior-scored translation without parallel data keep an error bound that falls in the common ground and the size of the source language when the languages are not uniform or the translators are lossy?
 
 ## Why it is a question
 

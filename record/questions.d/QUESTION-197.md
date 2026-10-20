@@ -1,5 +1,8 @@
 ---
+number: 197
 status: Open
+formerly:
+- QUESTION-tmpucqdf
 title: "Is there a variant of the Döring–Isham rules, or of the context category, under which tensor-product composites of quantum systems satisfy the translation condition?"
 version: 1
 tags:
@@ -17,7 +20,7 @@ summary: >-
   repairs the composite, is held here.
 ---
 
-# QUESTION-tmpucqdf: Is there a variant of the Döring–Isham rules, or of the context category, under which tensor-product composites of quantum systems satisfy the translation condition?
+# QUESTION-197: Is there a variant of the Döring–Isham rules, or of the context category, under which tensor-product composites of quantum systems satisfy the translation condition?
 
 ## Why it is a question
 
