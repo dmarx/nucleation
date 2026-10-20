@@ -1,0 +1,71 @@
+# record/promotion-audit/decisions/THEORY-246.yaml
+id: THEORY-246
+batch: batch-063
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: thesis plus measurement
+hand_label: measurement
+triage_007_label: measurement
+agrees_with_classifier: true
+formal_in_fact: false
+scope:
+  accepted: >-
+    ADR-047 v3. One study, Kornblith, Chen, Lee and Norouzi (NeurIPS 2021),
+    read in full in NOTE-762 from the arXiv v2 PDF, with every table checked
+    against the -layout text and the Spearman coefficient recomputed from
+    Tables 1 and 3 (−0.933). What it measured, and what the narrowed title
+    keeps: ResNet-50 on ImageNet, nine objectives, 8 runs each, each
+    early-stopped on held-out training data (training top-1 91.6–93.6%,
+    Table C.1). Seven objectives beat softmax cross-entropy's 77.0% top-1
+    significantly, by up to 0.9 points (Table 1). Penultimate class
+    separation R² runs 0.349 (softmax) to 0.845 (squared error) (Table 3).
+    Mean linear-probe accuracy over eight datasets whose classes are mostly
+    not ImageNet's falls from 75.9% to 48.3%, with Spearman ρ = −0.93
+    (p = 0.002) against R² across the nine (Figure 5a, numbers in Tables 1
+    and 3). Cosine-softmax temperature τ = 0.01–0.08 raises R² 0.236 → 0.770
+    and lowers mean transfer 76.0% → 58.9% (Table 4). Linear CKA differs
+    across objectives only from about block 13 of 16 (Figure 2, stated in
+    the text). Full fine-tuning gives 85.1–86.4% mean accuracy for every
+    objective (Table 2).
+  excluded: >-
+    The title's lead clause, "training objectives that tighten the class
+    clusters ... buy accuracy on the trained classes and pay for it in new
+    tasks", is a general causal thesis: the study measured a correlation
+    across nine objectives in one setting, separation and accuracy are not
+    monotone (squared error has the most separation and no significant
+    accuracy gain), and AutoAugment raises accuracy without raising
+    separation (Table E.3). It leaves the title. "The difference lies in the
+    last few blocks" is kept as "mainly in the last third of the network",
+    as CKA measured it. "Fine-tuning removes it" is kept as fine-tuning
+    bringing mean transfer to within 1.3 points across objectives, since the
+    two normalized losses stay about one point lower (Table 2). That a head
+    relearned for the ImageNet classes does better on more separated
+    features (Figure 6) is shown only in a figure and stated in words, so
+    it stays in the body, not the title.
+  moved_to_question: >-
+    The promote_when, unchanged, to a new QUESTION: generality (another
+    pretraining setting: a much larger label space, a transformer, or a
+    network trained past zero error) and mechanism (within-class spread
+    varied with the loss held fixed). Neither can be met by a review.
+evidence:
+  - "LIT-1044 (arXiv 2010.16402v2), read in full in NOTE-762: Tables 1–4, A.1–A.2, B.1, C.1–C.6, E.1–E.3, F.1; Figures read from captions and text."
+  - "This review: the excluded lead clause checked against Tables 1, 3 and E.3; Spearman recomputed in NOTE-762."
+contradictions_in_record: >-
+  None. THEORY-104 compares layers of one network under same-class shift,
+  where the more separated objectives here do slightly better (Table C.2);
+  it is a different comparison, not a contrary result.
+ml_practice: >-
+  The title states a measured relation, not an instruction; which loss to
+  pretrain with is ML practice and stays out (ADR-048). The
+  anthology-candidate flag stays.
+blockers: []
+notes: >-
+  The title bundled a general causal thesis with a careful measurement;
+  the measurement promotes under v3 once the thesis leaves. Confidence is
+  high because every number in the narrowed title is in a table of the
+  study, checked in NOTE-762.
+unlocks: []
+next_action: "Carried out in #277."
