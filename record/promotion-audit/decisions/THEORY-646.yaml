@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/THEORY-646.yaml
+id: THEORY-646
+batch: batch-064
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+hand_label: argument
+classifier_label: argument (score 0 on every class)
+title_asserts: >-
+  Two conclusions of Drayson (2025) against Toon's mental fictionalism:
+  inner-representation skepticism does not motivate it, since realism
+  about internal intentional causal states does not require RTM; and a
+  fictionalist asserting the behaviour-causing overall state is committed
+  to it.
+formal_in_fact: false
+scope:
+  accepted: >-
+    Judged on wave-5 terms: the second clause is close to analytic (a
+    genuine assertion that a person is in state S commits the asserter to
+    S), and the first clause's non-entailment is shown by exhibiting
+    non-representational functionalism (Lewis, Putnam, Loar), whose
+    coherence the title needs, not its truth. Premises are cited
+    positions, not record entries; objections from Toon are not yet in
+    print.
+  excluded: >-
+    The promote_when asks for a defence of whole-person functional states
+    against exclusion arguments. THEORY-133 (List and Menzies, Active
+    since its narrowing) supplies only the criterion: a higher-level
+    property is the cause exactly when the system's counterfactual
+    structure makes it realization-insensitive, which it says must be
+    checked system by system. No entry applies it to a belief individuated
+    as a functional whole, so the first result is still missing. That demand may be
+    wider than the title, since the title says only that realism does not
+    require RTM, but narrowing the promote_when is the owner's call, not
+    the audit's. Not promoted.
+evidence:
+  - "Drayson (2025), LIT-112, read in full in NOTE-117."
+blockers:
+  - "Either a narrowed promote_when (non-entailment needs coherence of non-representational functionalism, not its survival of exclusion), or THEORY-133's criterion applied to a whole-person belief."
+notes: >-
+  Classifier right. The one live point is the gap between the title and
+  the promote_when, which is a wave-5 question.
+next_action: "Wave 5: decide whether promote_when overreaches the title; if narrowed, it may promote as written."
+recommend: wave 5

@@ -1,0 +1,44 @@
+# record/promotion-audit/decisions/THEORY-588.yaml
+id: THEORY-588
+batch: batch-061
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing new. Krauska and Lau (2023, LIT-031, read in full in
+    NOTE-029) argue that lemma-based production models are lexicalist. On
+    three phenomena (Inuktitut, Vietnamese collocations, Hiaki
+    suppletion), each argued from a few examples, they argue that
+    separating retrieval from structure building fails.
+  excluded: >-
+    Promotion. The title's "cannot handle" is an impossibility claim made
+    by verbal analysis of named models, not proved over a class of
+    models. The paper concedes that Eberhard et al. (2005) handle Hiaki
+    in part through feature sharing, which is a counterexample to the
+    claim as worded. THEORY-588 presupposes THEORY-643, which is Proposed.
+    The promote_when asks for an implemented non-lexicalist model tested
+    against a lemma model, which is empirical.
+evidence:
+  - "NOTE-029: C1 strong (diagnosis), C2-C5 moderate (failure cases), C7-C8 weak (own model)."
+  - "THEORY-588 'What this does not say': Eberhard et al. concession."
+blockers:
+  - "An implemented non-lexicalist production model compared with a lemma model (promote_when)."
+  - "THEORY-643 (presupposed) is Proposed."
+notes: >-
+  Hand label: argument. Triage-007's theorem signal fired on "as long as
+  ... cannot". A wave-5 review could consider narrowing the title to the
+  diagnosis, that the named models embed the lexicalist triad (C1,
+  strong as textual analysis). That is a split, not a promotion of this
+  title. But the premise THEORY-643 is Proposed, so even the diagnosis
+  inherits that. Flagged for wave 5 only as a possible narrowing.
+unlocks: []
+next_action: >-
+  Retain. Wave 5 may consider narrowing to the diagnosis of named models
+  once THEORY-643 is settled.

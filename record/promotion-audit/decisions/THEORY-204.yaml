@@ -1,0 +1,108 @@
+id: THEORY-204
+batch: batch-062
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium-high
+title_asserts: measurement
+formal_in_fact: partly
+hand_label: measurement, with a conditional derivation
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand as a measurement explained by a conditional
+    derivation, not a theorem. The exponent is derived from assumed
+    scaling forms (Cagnetta et al., LIT-888, Eq. 25), not proved, and the
+    title's "because" is the paper's hypothesis about why real learners
+    show it. Both halves can be checked in a batch.
+
+    The derivation re-derived (ADR-047 v2; LIT-888 App. A, Eqs. 34-40).
+    The assumptions: the loss decomposes as L(P) = L_1 + sum over n >= 2
+    of Delta_n(P), with Delta_n = L_n - L_{n-1}; each Delta_n is 0 until
+    P reaches a threshold P*_n and then tends to H_n - H_{n-1}, with the
+    excess E_n(P) decaying as a power law; and H_n - H_inf ~ n^(-gamma).
+    The threshold comes from detectability: the top singular value of the
+    lag-n covariance is ~ n^(-beta), and sampling noise on a P-token
+    estimate is ~ P^(-1/2) (App. B bounds this by matrix Bernstein and
+    Weyl's inequality). The two meet at P*_n ~ n^(2 beta), so the horizon
+    is n*(P) ~ P^(1/(2 beta)).
+
+    Then L(P) - H_inf = (H_{n*} - H_inf) + sum over n < n* of E_n(P). The
+    boundary term is n*^(-gamma) = P^(-gamma/(2 beta)). For the excess,
+    write E_n(P) ~ (H_{n-1} - H_n)(P/P*_n)^(-delta), with
+    H_{n-1} - H_n ~ n^(-gamma-1) and P*_n ~ n^(2 beta). The sum is
+    P^(-delta) times the sum over n < n* of n^(2 beta delta - gamma - 1).
+    - If delta > gamma/(2 beta), the exponent is above -1. The sum is
+      dominated by n near n* and gives
+      P^(-delta) P^((2 beta delta - gamma)/(2 beta)) = P^(-gamma/(2 beta)),
+      the same order as the boundary term.
+    - If delta < gamma/(2 beta), the sum converges at small n and gives
+      P^(-delta), which dominates.
+    So L - H_inf ~ P^(-min(delta, gamma/(2 beta))). This matches Eq. 40,
+    and the title's proviso is exactly delta > gamma/(2 beta). The
+    collapse L_n ~ n^(-gamma) l(P/n^(2 beta)) follows from the same two
+    forms.
+
+    The measurement (ADR-047 v3; one primary study, LIT-888 v3, read in
+    full in NOTE-689; App. C.3's table re-read from the arXiv PDF in this
+    review).
+    - Corpus statistics: TinyStories beta = 0.88 +/- 0.06,
+      gamma = 0.325 +/- 0.003; WikiText-103 beta = 0.94 +/- 0.16,
+      gamma = 0.265 +/- 0.016.
+    - Predictions: 0.185 +/- 0.013 and 0.141 +/- 0.025, by Eq. 56,
+      Delta alpha = sqrt((Delta gamma / 2 beta)^2 + (gamma Delta beta / 2 beta^2)^2).
+      Recomputed here: 0.1847 +/- 0.0127 and 0.1410 +/- 0.0255.
+    - Fits: the exponent is fitted to the first m points of the lower
+      envelope of GPT-2-style transformers' learning curves over context
+      lengths T, at P up to about 10^8 tokens. The 95% bootstrap
+      intervals are:
+      - TinyStories, m = 5..12: [0.1770, 0.1946], [0.1786, 0.1893],
+        [0.1786, 0.1869], [0.1730, 0.1851], [0.1689, 0.1838],
+        [0.1633, 0.1807], [0.1566, 0.1782], [0.1494, 0.1751]. Prediction
+        [0.172, 0.198].
+      - WikiText, m = 5..8: [0.1324, 0.1552], [0.1341, 0.1685],
+        [0.1374, 0.1673], [0.1467, 0.1605]. Prediction [0.116, 0.166].
+    Every tabulated interval overlaps its prediction.
+
+    Narrowed title: on the two corpora, the fitted exponent overlaps
+    gamma/(2 beta); and, under the assumed per-lag forms, a horizon
+    n*(P) ~ P^(1/(2 beta)) gives the exponent min(delta, gamma/(2 beta)).
+  excluded: >-
+    "Because". That real learners show the exponent for the horizon
+    reason, and not by another route to the same number, is what the
+    promote_when tests. It asks for an intervention that moves beta or
+    gamma alone, or the match at horizons of thousands of tokens with
+    gamma estimated outside the model class. It is not met, and moves to
+    a new QUESTION.
+
+    Also excluded: that gamma is a statistic of the text alone (it is
+    fitted to trained models' n-gram losses, though five model classes
+    agree); any scale beyond about 10^8 tokens and horizons of tens of
+    tokens; and the universality-class conjecture.
+evidence:
+  - "Cagnetta, Raventós, Ganguli & Wyart (2026), LIT-888, arXiv 2602.07488v3, §§3-5 and Apps. A-C; App. C.3's table read from the PDF in this review; NOTE-689."
+  - "This review's re-derivation of the excess-loss sum and recomputation of the predicted intervals (scope.accepted)."
+blockers: []
+notes: >-
+  Two cautions for the promoted title.
+  - The paper's text says the fits overlap "for up to 10 of the first 12
+    points on TinyStories", but its table shows overlap for all eight
+    tabulated windows, m = 5 to 12. The title follows the table.
+  - The TinyStories intervals drift downward as m grows (midpoint 0.186
+    at m = 5, 0.162 at m = 12). The m = 12 interval only just reaches the
+    prediction. The match is best near the start of the envelope, and
+    the body should say so.
+  This falls under the open owner question on conditional theorems whose
+  promote_when moves to a QUESTION (THEORY-185, -133, -419, -527). The
+  narrowing is ADR-047 v3's: a measurement plus a re-derived conditional,
+  with the mechanism test moved out.
+unlocks: []
+next_action: >-
+  Narrow and promote in a PR. The title states the measured match and the
+  conditional derivation. A dated note carries the table and the drift
+  caution. The causal test, the old promote_when, moves to a new QUESTION
+  on the learned-structure line. Trim the inactive-ok directives that
+  name THEORY-204.
+promotion_pr: '#276'

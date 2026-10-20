@@ -1,0 +1,113 @@
+# record/promotion-audit/decisions/THEORY-751.yaml
+id: THEORY-751
+batch: batch-060
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: promote
+carried_out_in: "#278"
+confidence: high
+title_asserts: theorem
+hand_label: theorem
+triage_007_label: theorem
+classifier_agrees: true
+formal_in_fact: true
+scope:
+  accepted: >-
+    The whole title. The body already re-derives the converse and the
+    three-letter counterexample. The promote_when names two steps that
+    were not derived: achievability by superposition coding, and the
+    Hamming degrading channel for every finite source. Both are
+    re-derived below, A1-A4 and H1-H6. The Hamming channel is derived in
+    closed form from the KKT conditions, not just checked numerically.
+  excluded: >-
+    Continuous alphabets, single-shot quantizers and the information
+    bottleneck. The title does not claim them, and the body's "What this
+    does not say" already excludes them.
+derivation: >-
+  ACHIEVABILITY. Fix optimal test channels with X -> Xh2 -> Xh1, so
+  I(X; Xh1, Xh2) = I(X; Xh2) = R(D2). Let delta > 0.
+  A1 (codebooks): draw 2^{n R1} first-stage words Xh1^n(i) i.i.d. from
+  prod p(xh1), with R1 = I(X; Xh1) + delta = R(D1) + delta. For each i,
+  draw 2^{n(R2 - R1)} words Xh2^n(i, j) independently from
+  prod_k p(xh2 | xh1_k(i)), with R2 - R1 = I(X; Xh2 | Xh1) + delta.
+  A2 (stage 1, covering lemma): for a typical x^n, each Xh1^n(i) is
+  jointly typical with x^n with probability at least
+  2^{-n(I(X;Xh1) + delta')}, where delta' -> 0 with the typicality
+  slack. So P(no i works) <= (1 - 2^{-n(I + delta')})^{2^{n R1}}
+  <= exp(-2^{n(delta - delta')}) -> 0.
+  A3 (stage 2, conditional covering): given a jointly typical
+  (x^n, xh1^n(i)), each Xh2^n(i, j) ~ prod p(xh2 | xh1_k) is jointly
+  typical with both with probability at least
+  2^{-n(I(X; Xh2 | Xh1) + delta')}, by the conditional joint-typicality
+  lemma. The same doubly exponential bound applies with rate R2 - R1.
+  A4 (distortion and rate): on joint typicality,
+  d(x^n, xh_i^n) <= E d(X, Xh_i) + eps d_max (typical average lemma), so
+  E d <= D_i + eps d_max + P(failure) d_max. The total rate is
+  R2 = I(X; Xh1) + I(X; Xh2 | Xh1) + 2 delta = I(X; Xh1, Xh2) + 2 delta
+  = R(D2) + 2 delta. Let delta and eps go to 0. Then (R(D1), R(D2)) at
+  (D1, D2) lies in the closure of the achievable set, which is
+  Equitz and Cover's Definition 2. With the converse in the body, the iff
+  holds.
+  HAMMING. d = 1 - [x = xh], finite alphabet, p(x) > 0 (letters of
+  probability 0 can be dropped), and D in (0, D_max) with
+  D_max = 1 - max p.
+  H1 (candidate): for a level theta in (0, max p), put
+  a(x) = min(p(x), theta), kappa = 1 - sum_x a(x) > 0 and
+  U = {x : p(x) > theta}. The reproduction pmf is
+  q(xh) = (p(xh) - theta)/kappa on U and 0 off U. The backward channel is
+  P(x | xh) = a(x) + kappa [x = xh] for xh in U. Each row sums to
+  sum a + kappa = 1. The marginal sum_xh q(xh) P(x | xh) = a(x) + kappa q(x)
+  equals p(x), both on U (theta + p - theta) and off U (p + 0). And
+  sum q = (P(U) - |U| theta)/kappa = 1, since kappa = 1 - |U| theta - P(U^c).
+  H2 (distortion): D = 1 - sum_xh q(xh) P(xh | xh) = 1 - (theta + kappa)
+  = (|U| - 1) theta + P(U^c), which is continuous and increasing in theta.
+  So every D in (0, D_max) has a theta.
+  H3 (optimality, KKT): the forward channel is
+  p(xh | x) = q(xh) P(x | xh)/p(x) proportional to q(xh) e^{s d(x,xh)},
+  with z = e^s = theta/(theta + kappa) in (0, 1) on the used letters.
+  Csiszar's (Gallager's Theorem 9.4.1) sufficient condition for a
+  minimum of I subject to E d <= D is
+  c(xh) := sum_x lambda(x) p(x) z^{d(x,xh)} <= 1 for every xh, with
+  equality where q > 0. Here lambda(x) p(x) = a(x)/z, so
+  c(xh) = sum_x a(x) + (1/z - 1) a(xh) = 1 - kappa + (kappa/theta) a(xh).
+  That equals 1 when a(xh) = theta (xh in U) and is at most 1 when
+  a(xh) = p(xh) <= theta (xh not in U). So the candidate is optimal. This
+  is the upside-down waterfilling form.
+  H4 (degrading channel): take D2 < D1, so theta2 < theta1 and
+  U1 is a subset of U2. Define T(xh2 | xh1) = t [xh2 = xh1] + w(xh2),
+  with t = kappa1/kappa2 and w = (a1 - a2)/kappa2. Then w >= 0 because
+  min(p, theta) increases in theta. w vanishes off U2, where both a's
+  equal p. t is in (0, 1] because kappa decreases in theta. And
+  sum w = (kappa2 - kappa1)/kappa2 = 1 - t, so T is row-stochastic from
+  U1 to U2.
+  H5 (it degrades): sum_xh2 T(xh2 | xh1) P2(x | xh2)
+  = (t + sum w) a2(x) + t kappa2 [x = xh1] + kappa2 w(x)
+  = a2 + kappa1 [x = xh1] + (a1 - a2) = P1(x | xh1).
+  The marginals agree as well: (q1 T)(xh2) = t q1(xh2) + w(xh2), which is
+  (p - theta2)/kappa2 = q2(xh2) on U1 and on U2 minus U1 alike. So the
+  joint q1(xh1) T(xh2 | xh1) P2(x | xh2) has the optimal pair at D1 and D2
+  as its marginals and X -> Xh2 -> Xh1.
+  H6 (edges): at D1 = D_max the coarse stage is constant, and at D2 = 0,
+  Xh2 = X. Both are trivially Markov. So the condition holds for every
+  finite source under Hamming distortion.
+numerical_check: >-
+  hamlib.py and ham2.py, scratch scripts not kept, re-runnable from H1-H5.
+  For 38 random sources on 3 to 6 letters (Dirichlet(0.7)), Blahut-Arimoto
+  at a random slope s in [-6, -0.3] (20000 iterations) was compared with
+  the theta construction at the same D, theta found by bisection.
+  max |R_theta - R_BA| = 2.2e-15. For 30 random sources and random
+  theta1 > theta2, T was nonnegative and row-stochastic, and
+  max |T P2 - P1| and max |q1 T - q2| were at most 9.0e-15.
+evidence:
+  - "Equitz and Cover (1991), LIT-1238, read in full in NOTE-988."
+  - "The body's converse and counterexample re-derivations, and A1-A4 and H1-H6 above."
+notes: >-
+  H4's T is derived here independently. It was not checked symbol by
+  symbol against the paper's (49). The promote_when asks for a degrading
+  stochastic matrix for every finite source, which H4-H5 give. The
+  achievability uses the textbook covering and joint-typicality lemmas
+  (El Gamal and Kim, Lemmas 3.3 and 2.5, conditional forms), stated and
+  used as such. Trim inactive-ok directives naming THEORY-751 in NOTE-980,
+  NOTE-981, NOTE-988, QUESTION-220, LIT-1238 and THEORY-753.
+next_action: "Merge #278."

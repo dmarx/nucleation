@@ -1,0 +1,46 @@
+# record/promotion-audit/decisions/THEORY-034.yaml
+id: THEORY-034
+batch: batch-061
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing new. The title makes two claims. The first is the reach of
+    Chakravartty's dilemma (LIT-196, NOTE-149): it reaches only
+    non-eliminative structural realisms that keep relata but deny them
+    every intrinsic identity-fixing feature. That is Chakravartty's own
+    framing, and he says the chapter leaves eliminative OSR untouched.
+    The second is a placement of the record's OSR readings on that map,
+    which finds two of the target kind (Floridi; Esfeld and Lam). The
+    placement is the record's interpretive synthesis.
+  excluded: >-
+    Promotion as a demonstrated CLAIM under ADR-032. Each row of the
+    placement table is an interpretive reading of what a text grants
+    about intrinsic features, not a derivation. The Esfeld and Lam row
+    itself records that whether primitive numerical diversity meets the
+    dilemma is open. The promote_when is a reading task: check the
+    placements against the founding texts Chakravartty targets, Ladyman
+    1998 (LIT-342) and Every Thing Must Go (LIT-301). Both are
+    Unavailable (closed), and French and Ladyman 2003 is not held.
+evidence:
+  - "LIT-342 status Unavailable (doi:10.1016/S0039-3681(98)80129-5); LIT-301 status Unavailable (OUP monograph)."
+  - "THEORY-034 version 2 (2026-10-16): title already corrected to two positions."
+blockers:
+  - "Owner-supplied copies of Ladyman 1998 and Every Thing Must Go; French and Ladyman 2003 to be filed."
+notes: >-
+  Hand label: argument (an interpretive placement plus a reported
+  dilemma). Triage-007 read "reaches only" as a theorem's restriction. It
+  is a reading task for closed works, like those in batch 059.
+  PhilSci-Archive (TLS) and philpapers (403) are blocked from sessions,
+  so the task needs owner-supplied copies; it is not a review task.
+unlocks: []
+next_action: >-
+  Retain. Track as a reading task needing owner-supplied copies, not on
+  the review queue.

@@ -1,0 +1,58 @@
+# record/promotion-audit/batches/batch-060.yaml
+batch: batch-060
+date: '2026-10-20'
+wave: 3
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+selection: >-
+  Triage-007 theorem_route entries 1-5, in the route's order: THEORY-763,
+  -744, -751, -453 and -476. Each was hand-sorted by what its title
+  asserts before review.
+reviewed:
+  - THEORY-763
+  - THEORY-744
+  - THEORY-751
+  - THEORY-453
+  - THEORY-476
+yield: "2 of 5 promoted (THEORY-751 as is; THEORY-744 narrowed); 3 retained"
+dispositions:
+  THEORY-763: {hand: theorem, classifier: theorem, disposition: retain-proposed, why: "90-page convex-integration proof, skimmed; owner question on skimmed proofs"}
+  THEORY-744: {hand: theorem, classifier: theorem, disposition: narrow-and-promote, why: "Lemma 8 re-derived without boundary; title says without boundary and minus the generator"}
+  THEORY-751: {hand: theorem, classifier: theorem, disposition: promote, why: "achievability and the Hamming degrading channel re-derived in closed form"}
+  THEORY-453: {hand: argument, classifier: theorem, disposition: retain-proposed, why: "metaphysical position; promote_when asks for argument"}
+  THEORY-476: {hand: argument, classifier: theorem, disposition: retain-proposed, why: "Lewis's conclusion is interpretive; its definitional core (I = R, overlap in fission) re-derived, split not filed"}
+promotion_prs:
+  - "#278: THEORY-751 promoted; THEORY-744 narrowed and promoted; new QUESTION for its boundary and semigroup halves."
+notes_for_ledger:
+  - >-
+    Hand vs classifier on triage-007's top 5 theorem calls: 3 of 5 agree.
+    Both disagreements are philosophy titles shaped like results.
+    THEORY-453 is a colon-joined position statement and THEORY-476 an
+    "If ... then" conditional. Both carry the signals theorem_title,
+    cites, shown_thm and derived. So even at margin 3 the route mixes in
+    arguments. Sort by hand before assigning re-derivations.
+  - >-
+    The route ranks by margin, then rubric score. The three real theorems
+    were margins 5, 5 and 4, and both false positives were margin 3. A
+    margin cut at 4 would have been exact on this sample. The next
+    batches can check whether margin >= 4 stays clean.
+  - >-
+    Two of the three real theorems promoted because the missing steps were
+    textbook-sized: a Laplace-method kernel expansion, and superposition
+    coding plus a KKT check. The third, Isett's Onsager theorem, is
+    paper-length and joins THEORY-188 and THEORY-270 on the skimmed-proof
+    question.
+  - >-
+    The Hamming degrading channel has a closed form worth reusing.
+    a(x) = min(p(x), theta), T = (kappa1/kappa2) I + 1 (a1 - a2)^T / kappa2.
+    It was derived here, not copied from the paper's (49).
+    Numerical recipe in the THEORY-751 decision file.
+owner_questions:
+  - >-
+    Skimmed peer-reviewed proof as "a proof" (THEORY-188, -270): THEORY-763
+    (Isett's Onsager theorem) is a third case. Its own promote_when says no
+    and excludes journal acceptance, so a yes would also need that
+    promote_when amended.
+  - >-
+    Splits of textbook or definitional cores (THEORY-110, -673): THEORY-476
+    has one. Given its definition, Lewis's I = R and the overlap in fission
+    follow, as re-derived in its decision file. It was not split. Should it be?
