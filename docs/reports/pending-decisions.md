@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**725 document(s) awaiting a decision.**
+**724 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 725.
+92 of the 724.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-401 of the 725.
+400 of the 724.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -321,7 +321,6 @@
 | 2026-10-15 | Proposed | [THEORY-360](../../record/theory.d/THEORY-360.md) | 2 | 2 | Tetris players rotate pieces more often and earlier than planning a placement and then executing it requires, rotating within a few hundred milliseconds of a piece appearing and checking the column more the higher the drop; Kirsh and Maglio read these moves as physical action standing in for mental computation at the moment of use, a saving argued from timing, not measured |
 | 2026-10-15 | Proposed | [THEORY-379](../../record/theory.d/THEORY-379.md) | 2 | 2 | When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed |
 | 2026-10-15 | Proposed | [THEORY-383](../../record/theory.d/THEORY-383.md) | 2 | 2 | On one Apache and Informix server answering cheap indexed selections, a page whose query result was stored in the DBMS and refreshed on every update answered more slowly than one recomputed on each request whenever updates arrived, because reading the stored result cost about as much as recomputing it and its refresh loaded the same DBMS, while a finished page stored at the web server and rewritten on every update answered 10 to 230 times faster than either |
-| 2026-10-15 | Proposed | [THEORY-385](../../record/theory.d/THEORY-385.md) | 2 | 0 | In a proximity-graph index over data in isolated clusters, linking each new item to its nearest neighbours leaves greedy search stuck at cluster boundaries and short of high recall, while linking a candidate only when it is nearer the new item than to any neighbour already chosen keeps the clusters connected and search fast; on uniform or very high-dimensional data the two rules differ little, and the evidence is the authors' own tests on synthetic and benchmark data |
 | 2026-10-15 | Proposed | [THEORY-330](../../record/theory.d/THEORY-330.md) | 1 | 1 | After a forced phase in which each person experienced every memory load from three to nine items, the load that had given that person the best reward rate predicted their later choices better than one item fewer or one more, in a copying task where items are seen once and cannot be looked up again; a steeper reward for long lists raised chosen load, a higher price for errors did not, and about one person in five kept choosing a non-optimal load |
 | 2026-10-15 | Proposed | [THEORY-344](../../record/theory.d/THEORY-344.md) | 1 | 1 | An access method's read, update and memory overheads, each a ratio to the base data alone with a floor of 1.0, are conjectured to trade so that bounding any two forces a lower bound on the third; the conjecture is unproved, its formal wording says no more than the floor already does, and the paper's extreme designs show conflicts between pairs, read against memory and update against read, not a symmetric three-way trade |
 | 2026-10-15 | Proposed | [THEORY-359](../../record/theory.d/THEORY-359.md) | 1 | 1 | Cognitive mechanisms can be derived as the one, among those a brain can execute, that best trades the expected utility of its result against the opportunity cost of the time and resources it uses; the review shows the derivation reproducing many heuristics and biases, not that people are optimal, and the objective is per episode |
@@ -516,7 +515,7 @@
 
 ## ADRs
 
-2 of the 725.
+2 of the 724.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -525,7 +524,7 @@
 
 ## QUESTIONs
 
-9 of the 725.
+9 of the 724.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -541,7 +540,7 @@
 
 ## CLAIMs
 
-216 of the 725.
+216 of the 724.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -764,7 +763,7 @@
 
 ## CASEs
 
-1 of the 725.
+1 of the 724.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -772,7 +771,7 @@
 
 ## TERMs
 
-2 of the 725.
+2 of the 724.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -781,7 +780,7 @@
 
 ## ARGs
 
-2 of the 725.
+2 of the 724.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
