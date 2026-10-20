@@ -25,6 +25,9 @@ answered_by:
 - THEORY-743
 - THEORY-751
 - CLAIM-387
+- CLAIM-tmpfqsca
+- THEORY-753
+- THEORY-757
 ---
 <!-- inactive-ok-file: THEORY-751 — Proposed; the successive-refinement reading, cited as open -->
 <!-- inactive-ok-file: THEORY-163 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
@@ -75,7 +78,22 @@ of it is wrong.
   erasure-degrading the β = 12 optimum to the β = 8 rate keeps 0.079 bits
   about Y, against 0.097 for the β = 8 optimum. The direct lead is
   Charvin, Catenacci Volpi and Polani (2023), a test by linear
-  programming for exact IB refinability, which is not yet registered.
+  programming for exact IB refinability.
+- Charvin, Catenacci Volpi and Polani (2023), read 2026-10-20
+  ([NOTE-981](../notes.d/NOTE-981.md)):
+  - **The criterion** ([THEORY-753](../theory.d/THEORY-753.md)). Refinable iff some pair of
+    optimal encoders forms X → T₂ → T₁, iff the coarse encoder is a
+    garbling of the fine one. Given a non-degenerate fine decoder, that is
+    iff the coarse decoder points lie in the fine decoder's hull.
+  - **Refinable at every pair of budgets** when Y = f(X), and when X and Y
+    are both binary ([THEORY-757](../theory.d/THEORY-757.md)).
+  - **The stochastic half, answered in the negative for one source**
+    ([CLAIM-tmpfqsca](../claims.d/CLAIM-tmpfqsca.md)). For [CLAIM-387](../claims.d/CLAIM-387.md)'s source, the unique optima at β = 8 and
+    12 fail the hull test. The certificate is numerical, and the cost of
+    forcing nesting is small (0.49% of the budget in unique information).
+- Still open: a structural condition beyond the special cases, a proof in
+  exact arithmetic, whether the loss is always small, and whether
+  [THEORY-163](../theory.d/THEORY-163.md)'s annealed colour hierarchy passes the test.
 
 ## What would count as an answer
 
