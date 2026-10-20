@@ -1,0 +1,74 @@
+# record/promotion-audit/batches/batch-072.yaml
+batch: '072'
+date: '2026-10-20'
+kind: narrowing-loss sweep (ADR-047 v4, triage-008)
+reviewed:
+- THEORY-365
+- THEORY-472
+- THEORY-026
+- THEORY-362
+- THEORY-377
+yield: 3 Proposed THEORYs filed for 3 narrowed entries (all kind 1); THEORY-362 and THEORY-377 not filed
+  (no clause was dropped from their titles); no status changed.
+filed:
+  THEORY-365:
+  - code: THEORY-tmp880z4
+    kind: 1
+    who_asserts: LIT-1098 (Malkov and Yashunin, complexity analysis and discussion; NOTE-916)
+    answers: QUESTION-187
+    note: 'Stated for low intrinsic dimension: the paper qualifies every logarithmic statement by low
+      dimension, and its own 200M SIFT measurement departs from a logarithm. Triage-008''s suggested title
+      omitted that hedge.'
+  THEORY-472:
+  - code: THEORY-tmpcgnmv
+    kind: 1
+    who_asserts: LIT-824 (Frank, Goodman, Lai and Tenenbaum; NOTE-627 claim C2 and key insight)
+    answers: QUESTION-167
+    note: Distinct from THEORY-785 (batch 065), which carries the same inversion for listeners in reference
+      games from the rational speech act papers; this one is about word learning, from a different source.
+      The derivation half (size principle from an informative speaker) is already in the Active title,
+      so only the learner-reasoning thesis is filed.
+  THEORY-026:
+  - code: THEORY-tmprjbsb
+    kind: 1
+    who_asserts: 'LIT-041 (Fiderer et al., §I p. 2: "in the presence of feedback, maximally predictive
+      agents are generally inefficient"; NOTE-032 claim C12)'
+    note: 'Triage-008 was unsure whether LIT-041 claims the feedback result beyond its one binary channel.
+      NOTE-032 records that it does (C12, weak support), so kind 1. Triage-008''s who_asserts named Garner
+      and coauthors; the first author is Fiderer. The abstract''s trade-off between prediction and forgetting
+      (C13) is not filed: in the only proved example the efficient agent is memoryless, which is the paper''s
+      own counter-result, so it is kind 3 and is named under ''What this does not say''. No QUESTION held
+      a feedback promote_when, so the new entry answers none; its promote_when is new.'
+not_filed:
+  THEORY-362: 'Triage-008''s clause (counting maintenance costs about as much as evaluating the view''s
+    delta rules) was never in the title, before or after promotion; it is in the summary as argued and
+    unmeasured, which is where NOTE-915 puts it. The entry was promoted as is (disposition promote), so
+    no narrowing dropped it. Low value as a carrier: the paper argues it in prose with no measurement
+    or bound.'
+  THEORY-377: 'The convergence clause was not dropped: the narrowed title still says ''that it converges
+    to the best width is argued, not proved'', and QUESTION-227 holds the promote_when (a convergence
+    proof or an independent trace study). A Proposed carrier would restate the Active title''s own last
+    clause. Low value.'
+  THEORY-026 (second clause): '''equals'' for the protocol total: kind 3, corrected by the narrowing to
+    one switch; note only.'
+reclassified:
+- code: THEORY-362
+  from: 1
+  to: not a narrowing loss
+- code: THEORY-377
+  from: 1
+  to: not a narrowing loss (kind 4, covered by QUESTION-227)
+promotion_prs:
+- '#293'
+notes_for_ledger:
+- Triage-008 also listed clauses from as-is promotions (THEORY-362) and clauses still in the Active title
+  as hedges (THEORY-377). Neither is a narrowing loss; check the pre-narrowing and current titles before
+  filing.
+- 'Triage-008''s who_asserts can name the wrong authors outright (THEORY-026: ''Garner and coauthors''
+  for Fiderer et al.); check against the LIT''s first_author and the NOTE.'
+- Triage-008's suggested titles can drop the source's own hedge (THEORY-365's low-dimension qualification).
+  The filed title keeps it, because the paper's own high-dimensional measurement departs from the claim.
+- A new Proposed entry for one source can sit beside an earlier sweep entry with the same mechanism from
+  different sources (THEORY-tmpcgnmv beside THEORY-785); check for overlap before filing and say how they
+  differ in the body.
+owner_questions: []

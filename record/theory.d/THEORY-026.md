@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp4trgp
 title: "For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient"
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-16'
@@ -25,6 +25,12 @@ history:
     switch, the two conditions enter the title, and the feedback clause is
     held to the one proved channel. The rest of the promote_when moves to
     QUESTION-191.
+- version: 4
+  date: '2026-10-20'
+  note: >-
+    The narrowing-loss sweep (batch 072, ADR-047 v4) filed THEORY-tmprjbsb,
+    Proposed, to carry what the narrowing dropped. This entry's status,
+    title and claims are unchanged; a dated note says what moved.
 tags:
 - information-theory
 - thermodynamics
@@ -45,7 +51,10 @@ summary: >-
   predictive, max-entropy-action and efficient agents are disjoint. The
   claim is an ensemble average, not a per-operation floor. Whether the
   bound fails without the two conditions is [QUESTION-191](../questions.d/QUESTION-191.md).
+extended_by:
+- THEORY-tmprjbsb
 ---
+<!-- inactive-ok-file: THEORY-tmprjbsb — Proposed; the wider claim this entry's narrowing dropped, filed beside it and cited as open -->
 
 # THEORY-026: For a system driven without feedback through fixed kernels, the average work dissipated at each switch of the drive equals the memory that fails to predict the next input; that is nonnegative when the drive is Markov and, summed, bounds the protocol's dissipation from below when each kernel keeps its equilibrium stationary, so there only nonpredictive memory is wasteful; with feedback, in one binary channel no predictive agent is efficient
 
@@ -125,3 +134,10 @@ under a kernel K_x at fixed x_{t+1}. Nothing feeds back from s to x.
 Steps 2 and 3 meet the promote_when's request for a derivation under the
 two conditions. A system in which the bound fails without them is not
 built, and neither is a physical test; both are [QUESTION-191](../questions.d/QUESTION-191.md).
+
+## Note of 2026-10-20: the wider claim, filed Proposed
+
+Under [ADR-047](../decisions.d/ADR-047.md) v4 the narrowing-loss sweep (batch 072) filed [THEORY-tmprjbsb](THEORY-tmprjbsb.md)
+as Proposed, extending this entry. It carries the claim this entry's
+title gave up when batch 045 narrowed it: that once actions feed back on the drive, maximal prediction is generally not what thermodynamic efficiency requires, which Fiderer et al. assert from their one proved binary channel.
+This entry is its evidence and is not changed by the filing.
