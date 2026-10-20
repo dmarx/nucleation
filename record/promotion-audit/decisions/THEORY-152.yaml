@@ -1,0 +1,34 @@
+# record/promotion-audit/decisions/THEORY-152.yaml
+id: THEORY-152
+batch: batch-064
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: retain
+confidence: high
+hand_label: argument
+classifier_label: argument (score 0 on every class)
+title_asserts: >-
+  A compound thesis of six clauses about exit, voice and loyalty in
+  declining organizations (Hirschman 1974), argued from examples.
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing promotable. The title is Hirschman's thesis as he argues it;
+    the body reports it accurately and says nothing is tested.
+  excluded: >-
+    Every clause. The promote_when asks for studies measuring exit, voice
+    and recovery, which no argument can meet, so wave 5 will not move it.
+    No single study (ADR-047 v3) could carry six clauses either; a v3
+    route would first need the title split into its empirical clauses
+    (voice carries information exit does not; recovery fails below a floor
+    of either; managers shift costs toward the less threatening response).
+evidence:
+  - "Hirschman (1974/1980), LIT-750, read in NOTE-566."
+blockers:
+  - "Empirical studies of declining organizations measuring exit, voice and recovery (e.g. the exit-voice-loyalty-neglect literature, Rusbult et al. 1988; Withey & Cooper 1989), unread and not held."
+notes: >-
+  Classifier right. A possible report-title case only in form ("Hirschman
+  argues ..." is not how it reads), so not flagged.
+next_action: "Leave unqueued unless the owner wants a reading task on the EVLN literature; if so, split the title first."
+recommend: reading task, low priority

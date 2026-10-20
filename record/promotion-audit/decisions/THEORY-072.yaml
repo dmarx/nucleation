@@ -1,0 +1,61 @@
+# record/promotion-audit/decisions/THEORY-072.yaml
+id: THEORY-072
+batch: batch-064
+reviewed: '2026-10-20'
+reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
+current_status: Proposed
+disposition: split
+confidence: high
+hand_label: argument with a derivation attached
+classifier_label: argument (score 0 on every class)
+title_asserts: >-
+  A demarcation thesis (organisms differ from dissipative structures by
+  organisational differentiation), read from two sources plus the
+  record's inference that the 2015 closure builds differentiation in.
+formal_in_fact: partly
+carried_out_in: "#280"
+scope:
+  accepted: >-
+    The formal core of the record's inference: under Montévil and
+    Mossio's Definition 4 a closed set has at least two members (Definition
+    4 says "at least one other constraint"; checked against the HAL deposit,
+    hal-01192916, p. 16), and if each constraint's production scale tau_d
+    is the conserved scale tau_s of a direct generator in the set and
+    tau_s != tau_d for each constraint, the set has a slow and a fast
+    dependence. The paper states the second property "as shown in the
+    diagram" without proof. Re-derivation: pick a generator g(C) != C for
+    each member; g on a finite set has a cycle C1..Ck, k >= 2; around it
+    sum(tau_s - tau_d) = sum tau_s(Ci) - sum tau_s(g(Ci)) = 0 since g
+    permutes the cycle; no term is zero, so terms of both signs occur.
+    Corollary: a system with a single constraint of its own cannot realise
+    closure. The record assembled this (NOTE-468: "my reading, not the
+    paper's"), so it is a demonstrated CLAIM under ADR-032, on the
+    CLAIM-391 pattern, filed Active.
+  excluded: >-
+    The demarcation thesis itself stays Proposed. Its promote_when asks
+    for an analysis of a canonical flame and of a minimal protocell under
+    Definitions 1-4, and for readings of Biological Autonomy (Unavailable)
+    and Mossio & Bich (2014, not held). The flame analysis is an argument
+    from a physical description, not a proof; the identification of
+    two-constraint closure with 2009 differentiation is interpretive.
+evidence:
+  - "Montévil & Mossio (2015), LIT-582, read in NOTE-468; Definition 4 and the tau_s/tau_d paragraph re-checked in the HAL deposit."
+  - "Mossio, Saborido & Moreno (2009), LIT-570, read in NOTE-444."
+numerical_check: >-
+  python3, random.seed(0): 100000 trials; n uniform on 2..8; tau_s(i)
+  uniform on {1..5}; g(i) uniform over j != i; d(i) = tau_s(i) -
+  tau_s(g(i)); trials with any d(i) == 0 dropped (condition B). 42328
+  trials kept, 0 without both a positive and a negative d.
+blockers:
+  - "Flame and protocell analysed under Definitions 1-4 (an argument, not a reading)."
+  - "Biological Autonomy (LIT-536, Unavailable) chapters 1 and 3; Mossio & Bich (2014), not held."
+notes: >-
+  The classifier's zero was right that the title is not a theorem or a
+  measurement, and missed the derivation the body carries ("the 2015
+  closure says the same thing in another vocabulary"). The signal it lacks
+  is a body section marked as the record's own inference from a
+  definition.
+unlocks:
+  - "THEORY-072's first promote_when step reduces to showing a flame has one constraint of its own."
+next_action: "Merge #280; rename CLAIM-tmp2pvi2 here to its permanent code after it merges."
+recommend: wave 5, with the flame analysis as the task
