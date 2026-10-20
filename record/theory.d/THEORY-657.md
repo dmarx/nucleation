@@ -32,7 +32,7 @@ summary: >-
   the logical relations among the characteristics are left open by its own
   account (§24). This is the part of it that the counterexamples carry.
 ---
-<!-- inactive-ok-file: THEORY-222 THEORY-459 THEORY-497 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-459 THEORY-497 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
 
 # THEORY-657: If an emergent property is one that the parts lack, then the other marks commonly given for emergence are separate questions about each system and not consequences of it: established condensed-matter cases show novelty without a discontinuity, a discontinuity without novelty, novelty that was predicted first, and novelty with a rigorous reduction
 

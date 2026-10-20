@@ -33,7 +33,7 @@ summary: >-
   that change the mechanism.
 ---
 <!-- inactive-ok-file: CLAIM-078 — Proposed; the success criterion this result parallels, open -->
-<!-- inactive-ok-file: THEORY-282 THEORY-243 — Proposed; filed from the same dispute -->
+<!-- inactive-ok-file: THEORY-243 — Proposed; filed from the same dispute -->
 
 # THEORY-287: Internal variables located by interchange intervention as mediating a language model's in-distribution behaviour predict whether its outputs stay correct under shifts that keep the task's mechanism better than output confidence or probes of the rest of the representation
 

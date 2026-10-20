@@ -27,7 +27,7 @@ summary: >-
   relation or swapped roles. Five VLMs learned relational concepts
   few-shot below human level, and four were at chance with six objects.
 ---
-<!-- inactive-ok-file: THEORY-250 CLAIM-013 THEORY-117 — Proposed; the theory filed from this reading and the claims and theory it bears on, open -->
+<!-- inactive-ok-file: THEORY-250 CLAIM-013 — Proposed; the theory filed from this reading and the claims and theory it bears on, open -->
 
 # NOTE-813: Fu et al. — Evaluating Compositional Scene Understanding in Multimodal Generative Models
 

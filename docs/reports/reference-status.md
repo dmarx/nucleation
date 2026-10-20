@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**497 documents cited without acknowledgement.** Not listed: 9622 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**493 documents cited without acknowledgement.** Not listed: 9507 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -724,7 +724,7 @@ A judgement–observation loop cut off from action loses one route for evidence 
 
 In a Hilbert-space model only unitarily invariant structure is intrinsic; a basis or tensor factorisation, and so any parts or features, is extra data supplied from outside the space, and the record's Hilbert-space works differ in where they get it
 
-27 citations in 23 files await a look; 59 other citations of it are acknowledged.
+27 citations in 23 files await a look; 60 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-250.md:213`](../../record/notes.d/NOTE-250.md)
 - [`record/notes.d/NOTE-273.md:146`](../../record/notes.d/NOTE-273.md)
@@ -1079,26 +1079,6 @@ Jorgensen & Tian — Noncommutative Analysis (GNS, RKHS)
 - [`record/theory.d/THEORY-004.md:52`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-004.md:114`](../../record/theory.d/THEORY-004.md)
 - [`record/theory.d/THEORY-005.md:44`](../../record/theory.d/THEORY-005.md)
-
-### [THEORY-117](../../record/theory.d/THEORY-117.md) — Proposed
-
-Compositional generalization comes from diversity of combinations, not data volume: in vision models trained from scratch on two-concept grids, unseen pairs are reached as the share of combinations seen grows and not as data of the same combinations grows, and with linearly factored features two seen combinations per value, suitably arranged, determine every unseen one
-
-13 citations in 8 files await a look; 12 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-031.md:36`](../../record/decisions.d/ADR-031.md)
-- [`record/decisions.d/ADR-031.md:77`](../../record/decisions.d/ADR-031.md)
-- [`record/literature.d/LIT-770.md:85`](../../record/literature.d/LIT-770.md)
-- [`record/literature.d/LIT-782.md:89`](../../record/literature.d/LIT-782.md)
-- [`record/literature.d/LIT-783.md:103`](../../record/literature.d/LIT-783.md)
-- [`record/notes.d/NOTE-592.md:177`](../../record/notes.d/NOTE-592.md)
-- [`record/notes.d/NOTE-592.md:181`](../../record/notes.d/NOTE-592.md)
-- [`record/notes.d/NOTE-592.md:186`](../../record/notes.d/NOTE-592.md)
-- [`record/notes.d/NOTE-593.md:167`](../../record/notes.d/NOTE-593.md)
-- [`record/notes.d/NOTE-593.md:175`](../../record/notes.d/NOTE-593.md)
-- [`record/notes.d/NOTE-597.md:156`](../../record/notes.d/NOTE-597.md)
-- [`record/notes.d/NOTE-597.md:164`](../../record/notes.d/NOTE-597.md)
-- [`record/questions.d/QUESTION-025.md:197`](../../record/questions.d/QUESTION-025.md)
 
 ### [THEORY-139](../../record/theory.d/THEORY-139.md) — Proposed
 
@@ -1796,12 +1776,12 @@ Analysis of Boolean Functions
 7 citations in 4 files await a look.
 
 - [`record/literature.d/LIT-346.md:6`](../../record/literature.d/LIT-346.md)
-- [`record/literature.d/LIT-346.md:74`](../../record/literature.d/LIT-346.md)
+- [`record/literature.d/LIT-346.md:76`](../../record/literature.d/LIT-346.md)
 - [`record/notes.d/NOTE-307.md:115`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:118`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-019.md:66`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:99`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:102`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:78`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:111`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:114`](../../record/theory.d/THEORY-019.md)
 
 ### [NOTE-596](../../record/notes.d/NOTE-596.md) — Skimmed
 
@@ -1821,7 +1801,7 @@ Cumulative cultural evolution in the laboratory
 
 Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
 
-7 citations in 5 files await a look; 41 other citations of it are acknowledged.
+7 citations in 5 files await a look; 45 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-379.md:18`](../../record/claims.d/CLAIM-379.md)
 - [`record/notes.d/NOTE-322.md:182`](../../record/notes.d/NOTE-322.md)
@@ -2095,8 +2075,8 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
 - [`record/literature.d/LIT-319.md:78`](../../record/literature.d/LIT-319.md)
 - [`record/notes.d/NOTE-307.md:117`](../../record/notes.d/NOTE-307.md)
 - [`record/notes.d/NOTE-309.md:115`](../../record/notes.d/NOTE-309.md)
-- [`record/theory.d/THEORY-019.md:67`](../../record/theory.d/THEORY-019.md)
-- [`record/theory.d/THEORY-019.md:126`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:79`](../../record/theory.d/THEORY-019.md)
+- [`record/theory.d/THEORY-019.md:138`](../../record/theory.d/THEORY-019.md)
 
 ### [NOTE-863](../../record/notes.d/NOTE-863.md) — Skimmed
 
@@ -2816,7 +2796,7 @@ The reverse-engineered grokking network computes modular addition by multiplying
 - [`record/notes.d/NOTE-322.md:184`](../../record/notes.d/NOTE-322.md)
 - [`record/notes.d/NOTE-324.md:167`](../../record/notes.d/NOTE-324.md)
 - [`record/questions.d/QUESTION-058.md:27`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:48`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:49`](../../record/questions.d/QUESTION-058.md)
 
 ### [THEORY-039](../../record/theory.d/THEORY-039.md) — Proposed
 
@@ -2872,6 +2852,17 @@ Obligation is the reflective rejection of what would violate the agent's practic
 - [`record/questions.d/QUESTION-007.md:36`](../../record/questions.d/QUESTION-007.md)
 - [`record/questions.d/QUESTION-007.md:57`](../../record/questions.d/QUESTION-007.md)
 - [`record/questions.d/QUESTION-129.md:69`](../../record/questions.d/QUESTION-129.md)
+
+### [THEORY-080](../../record/theory.d/THEORY-080.md) — Proposed
+
+In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
+
+4 citations in 2 files await a look; 13 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-385.md:17`](../../record/claims.d/CLAIM-385.md)
+- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
+- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
 
 ### [THEORY-088](../../record/theory.d/THEORY-088.md) — Proposed
 
@@ -2937,18 +2928,7 @@ In sparse distributed memory, recall of uniform random data is a signal-to-noise
 - [`record/literature.d/LIT-921.md:28`](../../record/literature.d/LIT-921.md)
 - [`record/literature.d/LIT-921.md:96`](../../record/literature.d/LIT-921.md)
 - [`record/notes.d/NOTE-779.md:213`](../../record/notes.d/NOTE-779.md)
-- [`record/theory.d/THEORY-272.md:97`](../../record/theory.d/THEORY-272.md)
-
-### [THEORY-272](../../record/theory.d/THEORY-272.md) — Proposed
-
-A network of threshold units with symmetric Hebbian couplings is a content-addressable memory whose stored patterns are attractors, with limits: recall degrades near 0.15N random patterns, memories closer than about a tenth of N fuse, and overload loses every memory unless old ones are forgotten
-
-4 citations in 3 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-918.md:30`](../../record/literature.d/LIT-918.md)
-- [`record/literature.d/LIT-918.md:104`](../../record/literature.d/LIT-918.md)
-- [`record/notes.d/NOTE-819.md:241`](../../record/notes.d/NOTE-819.md)
-- [`record/theory.d/THEORY-261.md:85`](../../record/theory.d/THEORY-261.md)
+- [`record/theory.d/THEORY-272.md:100`](../../record/theory.d/THEORY-272.md)
 
 ### [THEORY-285](../../record/theory.d/THEORY-285.md) — Proposed
 
@@ -3435,16 +3415,6 @@ A Markov blanket does not individuate a system: where it falls is fixed by model
 - [`record/claims.d/CLAIM-194.md:47`](../../record/claims.d/CLAIM-194.md)
 - [`record/claims.d/CLAIM-337.md:92`](../../record/claims.d/CLAIM-337.md)
 
-### [THEORY-080](../../record/theory.d/THEORY-080.md) — Proposed
-
-In a linearised network with a Gaussian prior on its parameters, the Occam factor is a sum over the NTK's eigenvalues, so on spherical data each harmonic pays ½ log(1 + βnµ_k/α) and the kernel's eigenvalue decay schedules the complexity penalty across frequencies
-
-3 citations in 1 file await a look; 13 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-040.md:36`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:54`](../../record/questions.d/QUESTION-040.md)
-- [`record/questions.d/QUESTION-040.md:56`](../../record/questions.d/QUESTION-040.md)
-
 ### [THEORY-090](../../record/theory.d/THEORY-090.md) — Proposed
 
 A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options
@@ -3544,16 +3514,6 @@ A trait malfunctions when its operation does not correlate positively with the n
 - [`record/claims.d/CLAIM-368.md:122`](../../record/claims.d/CLAIM-368.md)
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:92`](../../record/questions.d/QUESTION-128.md)
-
-### [THEORY-222](../../record/theory.d/THEORY-222.md) — Proposed
-
-A coarse-grained macro description can carry more effective information than the micro description it supervenes on, so the scale at which a system's causal structure is most effective can be a macro scale
-
-3 citations in 2 files await a look; 16 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-101.md:55`](../../record/cases.d/CASE-101.md)
-- [`record/questions.d/QUESTION-115.md:54`](../../record/questions.d/QUESTION-115.md)
-- [`record/questions.d/QUESTION-115.md:92`](../../record/questions.d/QUESTION-115.md)
 
 ### [THEORY-232](../../record/theory.d/THEORY-232.md) — Proposed
 
@@ -3840,7 +3800,7 @@ Recovering latent structure from relational data is three achievements, reconstr
 2 citations in 1 file await a look; 16 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:27`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:44`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:45`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-137](../../record/claims.d/CLAIM-137.md) — Proposed
 
@@ -3849,7 +3809,7 @@ A communicative kind is identified by an invariant that does not depend on any o
 2 citations in 1 file await a look; 30 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-058.md:26`](../../record/questions.d/QUESTION-058.md)
-- [`record/questions.d/QUESTION-058.md:44`](../../record/questions.d/QUESTION-058.md)
+- [`record/questions.d/QUESTION-058.md:45`](../../record/questions.d/QUESTION-058.md)
 
 ### [CLAIM-155](../../record/claims.d/CLAIM-155.md) — Proposed
 
@@ -4242,7 +4202,7 @@ On a finite augmentation space, InfoNCE, logistic and spectral contrastive losse
 
 The positive-pair density ratio is the kernel of the conditional-expectation operator on L²(p), so spectral representations are that operator's eigenfunctions, well defined when the positive-pair χ²-divergence is finite
 
-2 citations in 1 file await a look; 39 other citations of it are acknowledged.
+2 citations in 1 file await a look; 40 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-052.md:31`](../../record/questions.d/QUESTION-052.md)
 - [`record/questions.d/QUESTION-052.md:54`](../../record/questions.d/QUESTION-052.md)
@@ -4346,15 +4306,6 @@ Goals pursued for identified or intrinsic reasons receive more sustained effort,
 - [`record/questions.d/QUESTION-066.md:24`](../../record/questions.d/QUESTION-066.md)
 - [`record/questions.d/QUESTION-066.md:43`](../../record/questions.d/QUESTION-066.md)
 
-### [THEORY-083](../../record/theory.d/THEORY-083.md) — Proposed
-
-Training a classifier past zero training error collapses its last-layer features onto their class means and drives the centred means toward a simplex equiangular tight frame, with the classifier aligned to them and the decision becoming nearest class mean
-
-2 citations in 1 file await a look; 45 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:56`](../../record/questions.d/QUESTION-051.md)
-
 ### [THEORY-085](../../record/theory.d/THEORY-085.md) — Proposed
 
 A classifier's class-driven Fisher outliers pair each class's feature mean with that class's own error mean, so K-FAC's single Kronecker product of class-averaged factors adds every cross-class pairing and misplaces them, and differs from the class-wise product by the between-class covariance of its two factors
@@ -4362,7 +4313,7 @@ A classifier's class-driven Fisher outliers pair each class's feature mean with 
 2 citations in 1 file await a look; 8 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:58`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:59`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-089](../../record/theory.d/THEORY-089.md) — Proposed
 
@@ -4443,7 +4394,7 @@ Under distribution shift the best layer for a linear readout lies below the top:
 2 citations in 1 file await a look; 9 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-051.md:34`](../../record/questions.d/QUESTION-051.md)
-- [`record/questions.d/QUESTION-051.md:57`](../../record/questions.d/QUESTION-051.md)
+- [`record/questions.d/QUESTION-051.md:58`](../../record/questions.d/QUESTION-051.md)
 
 ### [THEORY-105](../../record/theory.d/THEORY-105.md) — Proposed
 
@@ -4678,6 +4629,15 @@ Covert influence that exploits a person's decision-making vulnerabilities harms 
 
 - [`record/theory.d/THEORY-225.md:104`](../../record/theory.d/THEORY-225.md)
 - [`record/theory.d/THEORY-627.md:107`](../../record/theory.d/THEORY-627.md)
+
+### [THEORY-286](../../record/theory.d/THEORY-286.md) — Proposed
+
+Under class imbalance the last-layer geometry that unregularized cross-entropy prefers is not the simplex ETF but simplex-encoded-label interpolation: the logits equal the simplex-encoded labels, the classifier and embedding Gram matrices come from that matrix's SVD, any finite weight decay changes the geometry, and training approaches it more slowly as imbalance grows
+
+2 citations in 1 file await a look; 21 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-202.md:42`](../../record/questions.d/QUESTION-202.md)
+- [`record/questions.d/QUESTION-202.md:47`](../../record/questions.d/QUESTION-202.md)
 
 ### [THEORY-326](../../record/theory.d/THEORY-326.md) — Proposed
 
@@ -5176,7 +5136,7 @@ Philosophy of Mathematics and Natural Science
 
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
-- [`record/literature.d/LIT-329.md:62`](../../record/literature.d/LIT-329.md)
+- [`record/literature.d/LIT-329.md:64`](../../record/literature.d/LIT-329.md)
 
 ### [LIT-1081](../../record/literature.d/LIT-1081.md) — Unavailable
 
@@ -5712,15 +5672,7 @@ In data generated by a random hierarchical grammar, the Bayes-optimal denoiser r
 
 1 citation in 1 file awaits a look; 18 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-010.md:64`](../../record/questions.d/QUESTION-010.md)
-
-### [THEORY-202](../../record/theory.d/THEORY-202.md) — Proposed
-
-In variational renormalization, neither a matched partition function nor Kadanoff's exact trace condition makes a coarse-graining a renormalization: the first holds for joint Hamiltonians whose marginal is not the data, the second for hidden variables that do not interact with the system, so the variables a renormalization keeps must be fixed by a stated target
-
-1 citation in 1 file awaits a look; 15 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-152.md:114`](../../record/claims.d/CLAIM-152.md)
+- [`record/questions.d/QUESTION-010.md:63`](../../record/questions.d/QUESTION-010.md)
 
 ### [THEORY-203](../../record/theory.d/THEORY-203.md) — Proposed
 
@@ -5894,7 +5846,7 @@ In the physical dualities examined, theoretically inequivalent duals turn out em
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
 
-**2 codes unaccounted for.** Not listed: 0 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
+**2 codes unaccounted for.** Not listed: 2 mentions marked deliberate with an `unresolved-ok:` comment (same syntax and scopes as `inactive-ok:` above).
 
 
 ### DP-007 — resolves to nothing (1 unmarked site)
@@ -5923,14 +5875,18 @@ None. Every scanned file is checked. ✅
 
 - record/claims.d/CLAIM-030.md:57: annotation no longer applies — THEORY-127 is Active now
 - record/claims.d/CLAIM-192.md:54: annotation no longer applies — THEORY-127 is Active now
+- record/literature.d/LIT-1014.md:46: annotation no longer applies — THEORY-083 is Active now
 - record/literature.d/LIT-260.md:46: annotation no longer applies — nothing in scope cites THEORY-005
 - record/literature.d/LIT-267.md:62: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-871.md:80: annotation no longer applies — QUESTION-025 is Active now
 - record/literature.d/LIT-890.md:68: annotation no longer applies — QUESTION-025 is Active now
+- record/literature.d/LIT-891.md:75: annotation no longer applies — QUESTION-025 is Active now
 - record/notes.d/NOTE-741.md:34: annotation no longer applies — QUESTION-052 is Active now
 - record/theory.d/THEORY-009.md:97: annotation no longer applies — QUESTION-141 is Active now
+- record/theory.d/THEORY-083.md:51: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-188.md:34: annotation no longer applies — QUESTION-025 is Active now
 - record/theory.d/THEORY-201.md:42: annotation no longer applies — QUESTION-025 is Active now
+- record/theory.d/THEORY-213.md:42: annotation no longer applies — QUESTION-080 is Active now
 - record/theory.d/THEORY-233.md:38: annotation no longer applies — QUESTION-140 is Active now
 - record/theory.d/THEORY-255.md:44: annotation no longer applies — nothing in scope cites LIT-316
 - record/theory.d/THEORY-276.md:39: annotation no longer applies — QUESTION-147 is Active now

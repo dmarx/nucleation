@@ -5,7 +5,7 @@ formerly:
 - NOTE-tmpbo4zw
 paper: 'LIT-618'
 title: 'Prevalence of Neural Collapse during the terminal phase of deep learning training'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-03'
@@ -14,6 +14,13 @@ history:
     their proofs, and the supplementary proof of Theorem 5 through its
     large-deviations lemmas, followed in outline. Figures 2–8 are read from
     their captions and the text; Table 1 is read from the text.
+- version: 2
+  date: '2026-10-20'
+  note: >-
+    Figures 2–7 read from the rendered plots of arXiv v2, not only their
+    captions (promotion audit, batch 052). What they show is in the dated
+    note below. The plots do not bear out "monotone across all 21 cells",
+    and on ImageNet the measures level off far from zero.
 date: '2026-10-03'
 summary: >-
   NC1 Σ_W → 0 (Tr(Σ_WΣ_B†)/C falls), NC2 centred means → simplex ETF
@@ -162,3 +169,52 @@ the class means, and classification is nearest mean.
 ## Corrections
 
 - none (there was no seed)
+
+## Note of 2026-10-20: Figures 2–7 read
+
+Read from the rendered plots of arXiv v2 (promotion audit, batch 052).
+Each figure is a 3 × 7 array: VGG, ResNet and DenseNet against MNIST,
+Fashion-MNIST, SVHN, CIFAR-10, CIFAR-100, STL10 and ImageNet, one plotted
+run per cell, the epoch on the horizontal axis and a red line at the start
+of the terminal phase (99.9% training accuracy, 99.6% on ImageNet). The
+learning rate is cut tenfold at 1/3 and 2/3 of training (1/2 and 3/4 on
+ImageNet), and several of the larger drops sit at those cuts.
+
+- **Fig. 2 (NC2, equinorm).** The coefficient of variation of the centred
+  class-mean norms (blue) and of the classifier norms (orange) falls in
+  every cell, to near zero on the four easier datasets. It levels off
+  around 0.05 for the class means on CIFAR-100, STL10 and ImageNet with
+  ResNet, and the blue curves on ResNet CIFAR-100 and STL10 are jagged
+  rather than monotone.
+- **Fig. 3 (NC2, equiangular).** The standard deviation of the pairwise
+  cosines falls from 0.1–0.3 to a plateau, near 0.02 on the easier
+  datasets and about 0.05–0.1 for the class means on CIFAR-100, STL10 and
+  ImageNet. It does not reach zero in any cell.
+- **Fig. 4 (NC2, maximal angle).** The average distance of the cosines from
+  −1/(C − 1) falls to near zero in most cells. ResNet on STL10 is the
+  exception, ending near 0.1 for the class means.
+- **Fig. 5 (NC3).** ‖W̃ᵀ − M̃‖²_F falls to near zero on MNIST through
+  CIFAR-10 and CIFAR-100. It ends near 0.1 for ResNet and 0.3 for DenseNet
+  on ImageNet, and near 0.15 for DenseNet on STL10. ResNet on CIFAR-100
+  has a spike to about 0.25 late in training.
+- **Fig. 6 (NC1).** Tr(Σ_W Σ_B†)/C, on a log scale, falls through the
+  terminal phase in every cell, often by two or three orders of magnitude:
+  to about 10⁻⁴–10⁻³ on MNIST and CIFAR-10 with VGG. On the harder datasets
+  it ends higher: about 10⁻²–10⁻¹ on CIFAR-100 and STL10, and about 1
+  (ResNet), 2 (VGG) and 10 (DenseNet) on ImageNet, where within-class
+  variation is still comparable to or larger than between-class
+  variation. Several cells are not monotone: ResNet on CIFAR-10 and
+  CIFAR-100 and DenseNet on Fashion-MNIST and SVHN rise and fall after
+  the terminal phase begins, and DenseNet on ImageNet rises before it
+  falls.
+- **Fig. 7 (NC4).** The share of test examples on which the network and
+  nearest train class mean disagree falls to near zero on the four easier
+  datasets, to about 0.02–0.07 on CIFAR-100 and STL10, and to about 0.1 on
+  ImageNet with all three networks.
+
+So the direction of every measure is as the paper says in all 21 cells,
+and collapse is close to complete on MNIST, Fashion-MNIST, SVHN and
+CIFAR-10. On ImageNet it is partial at the last epoch: NC1's ratio stays
+near or above 1 and nearest class mean disagrees with the network on about
+a tenth of test examples. The figures give no seeds or intervals, and the
+values above are read from the plots, not stated in the text.

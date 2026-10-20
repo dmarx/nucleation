@@ -33,7 +33,7 @@ summary: >-
   theorem.
 ---
 <!-- inactive-ok-file: THEORY-268 — Proposed; the theory filed from this reading -->
-<!-- inactive-ok-file: CLAIM-157 CLAIM-161 THEORY-222 THEORY-036 — Proposed; the answer, persistence test and accounts this reading bears on, open -->
+<!-- inactive-ok-file: CLAIM-157 CLAIM-161 THEORY-036 — Proposed; the answer, persistence test and accounts this reading bears on, open -->
 
 # NOTE-756: Varley — Flickering Emergences
 

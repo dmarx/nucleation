@@ -22,7 +22,7 @@ variants:
 - CASE-099
 ---
 
-<!-- inactive-ok-file: THEORY-222 THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-257 — Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-278 CLAIM-281 CLAIM-288 CLAIM-297 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # CASE-092: A minimal coupled meaning–influence model: two hypotheses, two retrieval specialists, a fixed balanced corpus, queries set by the dominant interpretation and endorsement updated from apparent retrieval success
