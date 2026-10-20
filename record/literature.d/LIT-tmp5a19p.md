@@ -1,0 +1,116 @@
+---
+status: Active
+status_note: 'read in full 2026-10-20 ([NOTE-tmpc7da4](../notes.d/NOTE-tmpc7da4.md)), from the published article on the authors'' lab site at Yale; worth reading as the best-known folk-judgement study of where a person is in their body, and for what such a study can and cannot show. Preschoolers and adults on Mechanical Turk chose which of two pictures had a fly, or a snowflake, closer to a cartoon character. They chose positions near the eyes: on a girl, near the eyes over the body; on an alien with its eyes on its chest, near the chest-eyes; on a profile, in front of the eyes over behind the head and over places the character could see. The authors conclude that children and adults intuitively place the self at or near the eyes. Read it as a judgement about where another, drawn, person is, with small samples, some slips in the statistics and an inference from "closer to Mary" to "the location of the self" that the design assumes. It bears on none of the rubber hand THEORYs.'
+title: 'Windows to the soul: Children and adults see the eyes as the location of the self'
+version: 1
+history:
+- version: 1
+  date: '2026-10-20'
+  note: >-
+    Citation checked against Crossref on 2026-10-20: Christina Starmans
+    and Paul Bloom, Cognition 123(2), pp. 313–318, issued May 2012. The
+    brief named volume 124(3); Crossref, PubMed and the article itself
+    give 123(2). Crossref gives no full date; PubMed (22382132) gives the
+    electronic publication date 3 March 2012, which the article also
+    prints as "Available online 3 March 2012", and that is the
+    `published:` date under ADR-002 (received 19 October 2011, revised
+    12 January 2012, accepted 4 February 2012). OpenAlex and Unpaywall
+    list it as closed; Europe PMC has no free copy. Read in full
+    (NOTE-tmpc7da4) from the published PDF, the journal's typesetting (6
+    pp.), on Yale's Mind and Development Lab site
+    (minddevlab.yale.edu/sites/default/files/files/Windows%20to%20the%20soul%20starmans&bloom.pdf),
+    found by web search. A PhilArchive record (STAWTT) was seen in search
+    results and not used. Filed at the owner's request for experimental
+    work near the rubber hand illusion, in a round with Hohwy & Paton
+    2010, Alsmith & Longo 2014, Nichols & Bruno 2010, Reuter, Sienhold &
+    Sytsma 2019 and Borg, Harrison, Stazicker & Salomons 2019.
+tags:
+- self
+- cognition
+- social-science
+date: '2026-10-20'
+published: '2012-03-03'
+doi: '10.1016/j.cognition.2012.02.002'
+first_author: 'Starmans'
+keywords:
+- 'self'
+- 'soul'
+- 'mind perception'
+- 'cognitive development'
+- 'location of the self'
+implementations: []
+summary: >-
+  Starmans & Bloom (2012), Cognition 123(2):313–318. Three experiments
+  with 4- and 5-year-olds (41–50 per study) and US adults on Mechanical
+  Turk (51–53 per study) asked which of two pictured flies or
+  snowflakes was "closer to" a cartoon character. Both groups chose
+  positions near the eyes: over the lower body on a girl; at the chest
+  on an alien whose eyes were there; and in front of the eyes over
+  behind the head, or in front of the feet, on a profile. The authors
+  conclude that people intuitively think of the self as located at or
+  near the eyes, and, since preschoolers share it, that this is not
+  learned from ideas about the brain. The judgement is about another,
+  drawn person, and the step from "closer to her" to "the location of
+  the self" is assumed, not tested.
+---
+<!-- inactive-ok-file: THEORY-tmpuehzc — Proposed; the account whose self-location dimension this reading is set against, not leaned on -->
+<!-- inactive-ok-file: THEORY-tmpfufvf THEORY-tmpxdoe8 THEORY-tmpom3z2 THEORY-458 — Proposed; named to say this reading does not bear on them -->
+
+# LIT-tmp5a19p: Windows to the soul: Children and adults see the eyes as the location of the self
+
+Starmans, C. & Bloom, P. (2012). Windows to the soul: Children and adults see the eyes as the location of the self. *Cognition* 123(2), 313–318. DOI 10.1016/j.cognition.2012.02.002.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpc7da4](../notes.d/NOTE-tmpc7da4.md).*
+
+- **An indirect question.** Instead of asking where the self is, the study
+  asks which of two pictures shows an object "closer to Mary". If the self
+  were spread evenly or nowhere, all positions should be equal.
+- **Head over body, eyes within the head.** On a girl, both groups chose the
+  fly on the head over the lower body (children 70%, adults 76% of such
+  trials). Children chose eyes over mouth (p = .05); adults chose them
+  equally.
+- **The eyes, not the head.** On an alien with its face on its chest,
+  adults chose the fly at the chest-eyes over every other position (77%
+  chose it most often). Children were split between the eyes (49%) and the
+  top of the head (39%), not significantly different.
+- **Not what the character can see.** On a profile, both groups chose a
+  snowflake in front of the eyes most often, and chose one behind the head,
+  out of sight, over one in front of the feet, in sight (adults p = .05,
+  children p = .01).
+- **What it shows is a judgement about others.** The conclusion that people
+  "intuitively think of the self as occupying a physical location within
+  the body, close to the eyes" assumes that "closer to Mary" means "closer
+  to Mary's self". The proposal that this rests on "a more intuitive or
+  phenomenological sense of where in our bodies we reside" is not tested.
+
+## Standing in the record
+
+Filed on 2026-10-20 at the owner's request, in the round of experimental
+work near the rubber hand illusion. It is a folk-judgement study in the
+strict sense, of children and adults judging pictures, and it sits near
+the rubber hand topic rather than building on it. Read in full:
+**Active**.
+
+**It bears on none of the rubber hand THEORYs.** [THEORY-tmpfufvf](../theory.d/THEORY-tmpfufvf.md),
+[THEORY-tmpxdoe8](../theory.d/THEORY-tmpxdoe8.md) and [THEORY-tmpom3z2](../theory.d/THEORY-tmpom3z2.md) concern what makes a body part felt as
+one's own; [THEORY-458](../theory.d/THEORY-458.md) concerns ownership against agency. Nothing here
+manipulates or measures either. It bears on [THEORY-tmpuehzc](../theory.d/THEORY-tmpuehzc.md) only by
+analogy: Blanke & Metzinger place the origin of the weak first-person
+perspective inside self-location, and these participants place a drawn
+person at the eyes. That is a judgement about where someone else is, not a
+measure of anyone's felt self-location, so it neither meets nor bears
+against that THEORY's promotion test.
+
+On the record's self holdings it is about where "the self" is located in
+the eyes of ordinary judges, and the paper slides between person, self and
+soul, which [ADR-024](../decisions.d/ADR-024.md) and [TERM-045](../terms.d/TERM-045.md) keep apart. Under [QUESTION-048](../questions.d/QUESTION-048.md) it
+establishes something about the attribution, not about the thing
+attributed. It does not bear on [THEORY-417](../theory.d/THEORY-417.md)'s questions of personal
+identity: nothing here is about persistence or what a person is. It
+carries no instruction for machine-learning practice.
+
+Filed alongside: Alsmith & Longo 2014 ([LIT-tmp5v7rk](LIT-tmp5v7rk.md)), which criticises it as
+"projected" self-location and finds the torso as well as the head when
+people point at their own bodies.
