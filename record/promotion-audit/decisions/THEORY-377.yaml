@@ -1,0 +1,56 @@
+# record/promotion-audit/decisions/THEORY-377.yaml
+id: THEORY-377
+batch: batch-054
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: measurement
+formal_in_fact: false
+scope:
+  accepted: >-
+    Promoted under ADR-047 v3: one primary study, Olston, Loo and Widom
+    (2001), read in full in NOTE-912 (camera-ready text, Greek-letter
+    passages and Figures 10–13 checked against page images). The title
+    already says the convergence is argued, not proved, and claims no more
+    than the simulations measured. Three narrowings make that exact.
+
+    (1) Attribution. Every figure is the authors' own simulation, so the
+    title now opens "In Olston, Loo and Widom's simulations".
+
+    (2) The 1% and 5% are two different results. On one random walk
+    (steps uniform in [0.5, 1.5], T_q = 2, δ_avg = 20, ρ = 1) the rule
+    settled at W = 3.11, "within 1% of the optimal W*"; over the eight
+    combinations T_q ∈ {1, 2}, δ_avg ∈ {10, 20}, ρ ∈ {1, 4} it came within
+    5%. The title said "within 1% to 5% ... on simulated random walks" and
+    now names the one walk and the eight settings.
+
+    (3) The trace results are one trace and one cache size. The
+    comparison is on a single two-hour, 50-host wide-area trace. With
+    exact copies forced (τ∞ = 0) the rule "almost precisely matches" the
+    adaptive exact-caching rule derived from Wolfson, Jajodia and Huang,
+    whose window was tuned per run, across workloads, cache sizes and cost
+    settings. With τ∞ = ∞ it cost markedly less where queries tolerated
+    imprecision, but with a small cache (κ = 20) "the gain mostly
+    disappears". The "cost less" clause is therefore held to the 50-value
+    cache, and "matched" becomes "almost matched".
+  excluded: >-
+    - Convergence, its rate, a stationary distribution, or any worst-case
+      or competitive bound. The paper argues them from the balance
+      condition ρ·P_vr = P_qr; the title already says so.
+    - Generality beyond the authors' random-walk model and one trace.
+    - The update-count variant's "modest improvement over Divergence
+      Caching" (Section 4.7), which the title does not carry.
+evidence:
+  - "LIT-1109, Sections 2 and 4.2–4.7 with Figures 3 and 10–13, read in full in NOTE-912."
+blockers: []
+notes: >-
+  The promote_when asks for a convergence proof or a trace study on other
+  data. That is wider than a title about the authors' simulations, so it
+  moves to a new QUESTION. Triage-006 scored it 2; it is not formal (the
+  only derivation is the balance condition already held by THEORY-386).
+unlocks: []
+next_action: >-
+  Promote in a PR. Retitle to the authors' simulations as above, move the
+  promote_when to a new QUESTION, and add a dated note.

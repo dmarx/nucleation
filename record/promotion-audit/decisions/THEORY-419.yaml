@@ -1,0 +1,74 @@
+# record/promotion-audit/decisions/THEORY-419.yaml
+id: THEORY-419
+batch: batch-054
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: medium
+title_asserts: definition plus theorem
+formal_in_fact: true
+scope:
+  accepted: >-
+    The title has two parts. The first is a definition, the do-operator as
+    surgery and observation as conditioning. The second is two consequences
+    of it. The definition is stated in full on pages read in full: §5.3.3,
+    pp. 157–158, and the Epilogue, pp. 417 and 421, in NOTE-696's four
+    posted excerpts, each read in full. The consequences are re-derived
+    here (ADR-047 v2). The title is narrowed to say it takes the
+    definition as Pearl gives it in those pages, for models of autonomous
+    equations, and to state the regression clause exactly.
+
+    (1) Observationally equivalent models with different interventional
+    effects. Take M: x = u + ε₁, z = αx + ε₂, y = βz + γu + ε₃, with u, ε₁,
+    ε₂, ε₃ independent, zero-mean and Gaussian, and k = σ_u²/(σ_u² + σ₁²).
+    Write ε₃′ = γ(u − kx) + ε₃. Cov(u − kx, x) = σ_u² − k(σ_u² + σ₁²) = 0,
+    so ε₃′ is independent of x and of ε₂, and M′: x = ε₁′,
+    z = αx + ε₂, y = βz + γk·x + ε₃′ is a Markovian linear model with the
+    same joint distribution of (x, z, y). Under surgery on x,
+    E[Y | do(x)] = αβx in M (u keeps its mean 0) and (αβ + γk)x in M′. They
+    differ whenever γ ≠ 0 and σ_u > 0. A scratch simulation (α = 0.7,
+    β = 1.3, γ = 0.9, σ_u = 1, σ₁ = 0.8, 2·10⁶ draws) gives matching
+    covariance matrices to three decimals, corr(x, ε₃′) ≈ 0.0005, and
+    do-slopes 0.91 against 1.46.
+
+    (2) The structural coefficient. If y = βx + ε is structural (Definition
+    5.4.1: under do(X = x), Y = βx + ε with ε's distribution not a function
+    of the setting), then E[Y | do(x)] = βx + E[ε], whose derivative is β.
+    The regression slope is Cov(X, Y)/Var(X) = β + Cov(X, ε)/Var(X). It
+    equals β exactly when X is uncorrelated with ε. In (1), the slope of y
+    on x is αβ + γk in both models, against a do-slope of αβ in M. The
+    title's "not a regression slope" becomes "which equals the regression
+    slope of Y on X only when X is uncorrelated with ε".
+
+    (3) A correction to the body. The body quotes Pearl that M and M′ agree
+    with α′ = α, β′ = β and δ = γ, and that in M E(Y | x) = (αβ + γ)x. Both
+    hold only when σ₁ = 0, that is x = u. For σ₁ > 0, the regression slope
+    is αβ + γk, and the observationally equivalent M′ needs δ = γk and
+    Var(ε₃′) = γ²σ_u²(1 − k) + σ₃². The title's conclusion is unaffected,
+    since it needs only one such pair. A dated note records this.
+  excluded: >-
+    - What the rest of the book says. Chapters 3 and 7 and §§11.4.3–11.4.7
+      were not read. Whether the book defines intervention otherwise there
+      is the promote_when's question. It is wider than a title that takes
+      the definition from the pages read, so it moves to a new QUESTION.
+    - Identification, the do-calculus rules, and when surgery is
+      undefined (non-autonomous equations, no diagram), which the body's
+      "does not say" already lists.
+evidence:
+  - "LIT-894, §§5.3.2–5.4.1 (pp. 154–163) and the Epilogue (pp. 401–428), each read in full in NOTE-696."
+  - "This review's derivations (1)–(2) and the scratch simulation in (1)."
+blockers: []
+notes: >-
+  Medium, not high. The promote_when asked for a reading of other chapters
+  to confirm the book's definition throughout, not for a proof, and this
+  promotion treats that as wider than a title that cites the pages read.
+  This is the THEORY-185 / THEORY-133 pattern, where the promote_when's
+  request moves to a QUESTION; that pattern is an open owner question. If
+  the owner rules the other way, hold this one with them. Simulation
+  recipe: draw u, ε₁, ε₂, ε₃ as above, form M and M′, and compare
+  np.cov of (x, z, y) and the two do-slopes αβ and αβ + γk.
+unlocks: []
+next_action: >-
+  Promote in a PR with the narrowed title, a dated note giving (1)–(3), and
+  a new QUESTION holding the book-wide reading.
