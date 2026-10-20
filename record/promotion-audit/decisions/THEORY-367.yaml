@@ -1,0 +1,62 @@
+# record/promotion-audit/decisions/THEORY-367.yaml
+id: THEORY-367
+batch: batch-053
+reviewed: '2026-10-20'
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem (stated without proof)
+formal_in_fact: true
+scope:
+  accepted: >-
+    Re-derived here (ADR-047 v2) for SPJU relational queries, which the
+    paper's tree model encodes. That is the promote_when's alternative, an
+    independent proof that minimal witnesses are the same for equivalent
+    queries.
+
+    (1) Witnesses are semantic. A witness for an output tuple t is a
+    subinstance J of D with t in Q(J). Equivalent queries have the same
+    witnesses, by definition.
+
+    (2) The witness basis covers them. A union of conjunctive queries with
+    comparisons of variables to constants is monotone. If t is in Q(J), some
+    valuation of one disjunct maps its body into J and produces t. The
+    image of that valuation is a member of the witness basis and lies
+    inside J. Conversely, every member of the witness basis is a witness,
+    by monotonicity.
+
+    (3) So the minimal witnesses are the minimal members of the basis.
+    Every witness contains a basis member and every basis member is a
+    witness, so the inclusion-minimal witnesses are exactly the
+    inclusion-minimal members of the witness basis. By (1) they do not
+    depend on how the query is written (the paper's Theorem 3). The
+    argument uses only monotonicity, so it covers the paper's equality
+    conditions.
+
+    (4) Where-provenance is not invariant. Take Q1 = select x from R(x)
+    where x = 5 and Q2 = select 5 from R(x) where x = 5. They are
+    equivalent. In Q1 the output 5 is copied from R's tuple; in Q2 it is a
+    constant with no source location. This is the paper's own kind of
+    counterexample.
+  excluded: >-
+    Preservation under the paper's rewrite system (Lemma 1, Proposition 2)
+    is excluded, since the rules are not given and so cannot be checked.
+    That covers both why-provenance and where-provenance for traceable
+    queries. The old title's "only for traceable queries" is also stronger
+    than anything the paper claims: it shows traceable implies preserved,
+    not the converse. Both move to a new QUESTION. The general tree model
+    beyond its relational encoding is not re-derived.
+evidence:
+  - "LIT-1104, Definitions 6-9, Lemma 1, Theorems 1-4, Propositions 1-2 and Section 6's examples, read in NOTE-920."
+  - "This review's re-derivation (scope.accepted 1-4)."
+blockers: []
+notes: >-
+  Narrowed to what is proved. The rewrite-preservation clauses rest on
+  rules the paper does not give. Triage-006 scored it 2; it is formal in
+  fact.
+unlocks: []
+next_action: >-
+  Narrow the title, add the re-derivation as a dated note, move the
+  rewrite-preservation clauses to a new QUESTION that refines QUESTION-105,
+  and promote.

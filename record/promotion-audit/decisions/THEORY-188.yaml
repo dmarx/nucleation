@@ -1,42 +1,52 @@
 # record/promotion-audit/decisions/THEORY-188.yaml
 id: THEORY-188
-batch: batch-048
+batch: batch-057
+supersedes: batch-048
 reviewed: '2026-10-20'
-reviewed_revision: fd003589a9c15ff80aa2ea19127b190fc2c7927f
+reviewed_revision: 6759e51bd20036f44362fbf1007002a5fe64c103
 current_status: Proposed
 disposition: retain-proposed
-confidence: high
+carried_out: '#267'
+confidence: medium
 title_asserts: theorem
 formal_in_fact: true
 scope:
   accepted: >-
-    The heuristic the source gives was followed: for large radii the
-    distance is x ~ r + r' + (2/zeta) ln sin(dtheta/2), so a node at radius
-    r links within an angle ~ 2 e^{zeta(R - r - r')/2}, its expected degree
-    is proportional to e^{-zeta r/2}, and with radial density proportional
-    to sinh(alpha r) the tail P(k > K) ~ K^{-2 alpha/zeta}, i.e.
-    gamma = 2 alpha/zeta + 1. Removing the angular term (x = r_i + r_j)
-    makes the link probability a function of the product of expected
-    degrees, the configuration model, by inspection.
+    The reading task is done in part. Gugelmann, Panagiotou and Peter
+    (arXiv:1205.1470; LIT-tmp30ynx, NOTE-tmp79m4y) prove for the threshold
+    model at curvature -1, alpha > 1/2: degree sequence a power law with
+    exponent 2 alpha + 1 up to the maximum degree (Theorems 2.2-2.4; the
+    large-distance approximation's error bounded by Lemmas 3.1-3.2), and
+    average local clustering Theta(1) whp (Theorem 2.1). Candellero and
+    Fountoulakis (arXiv:1309.0459; LIT-tmple1gv, NOTE-tmprov8v) prove for
+    the global clustering coefficient C2 in the soft model, 0 < zeta/alpha
+    < 2: for beta > 1 (T < 1), C2 -> positive constant if zeta/alpha < 1,
+    -> 0 if 1 <= zeta/alpha < 2; for beta <= 1 (T >= 1), C2 -> 0
+    (Theorem 1.2). The configuration-model limit is by inspection
+    (x = r_i + r_j makes the link probability a function of the product of
+    expected degrees).
   excluded: >-
-    Everything the promote_when asks: a proof in the limit N -> infinity
-    that the degree distribution converges to the power law with the
-    large-distance approximation removed or its error bounded, and that
-    clustering stays bounded away from zero below T = 1 and vanishes above
-    it. Those are known results of a separate literature (rigorous degree
-    sequence and clustering of random hyperbolic graphs) that the record
-    does not hold; a re-derivation here would be a paper-length proof.
+    (1) Both readings are skims: theorem statements and method read,
+    proofs followed only in outline, the batch 038 reason THEORY-270 was
+    held. (2) No held source treats the average local clustering at
+    0 < T < 1, the quantity the source simulates; the global coefficient
+    vanishes there for degree exponents in (2, 3]. (3) The degree law at
+    T > 0 is attributed to a Fountoulakis paper the record does not hold.
 evidence:
-  - "LIT-865, read in NOTE-680 (the derivation is a large-distance approximation with simulations)."
+  - "LIT-865, read in NOTE-680."
+  - "LIT-tmp30ynx and LIT-tmple1gv, skimmed in NOTE-tmp79m4y and NOTE-tmprov8v (filed in #267)."
 blockers:
-  - "The promote_when asks for a limit proof of both signatures; the record holds no rigorous source and the approximation's error is not bounded."
+  - "The proofs are skimmed, not followed (THEORY-270 precedent)."
+  - "The T < 1 clustering clause holds for the global coefficient only when alpha > zeta, and the local coefficient at 0 < T < 1 has no held source."
 notes: >-
-  Sorted as a theorem: the title states what the model produces. Not a
-  case for ADR-047 v2's re-derivation route, because the derivation in the
-  record is itself the approximation the promote_when sets aside.
+  Supersedes batch 048. THEORY-188 v2 (#267) adds the sources and a dated
+  note listing what is met. If promoted, the title must name the
+  clustering coefficient and the zeta/alpha < 1 condition for the global
+  one. Fountoulakis, van der Hoorn, Mueller and Schepers (arXiv:2003.05525)
+  give the T = 0 local clustering limit; not filed.
 unlocks: []
 next_action: >-
-  A reading task: the rigorous results on random hyperbolic graphs
-  (Gugelmann, Panagiotou and Peter's degree sequence and clustering for
-  T = 0, and later work on clustering for 0 < T < 1), read in full against
-  this title, then requeue.
+  Owner question: does a peer-reviewed proof held and skimmed meet a
+  promote_when that asks for "a proof"? If yes, narrow the title as in
+  notes and promote. If no, a full reading of GPP §4 and CF §§2-8 is a
+  multi-batch task.

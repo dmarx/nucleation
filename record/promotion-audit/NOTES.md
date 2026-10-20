@@ -1568,3 +1568,68 @@ history note. THEORY-277 is requeued on this basis.
   v1 with none, so requeue only when that changes.
 - Requeue THEORY-459 to wave 5. THEORY-486 waits on a refereed or revised
   source.
+
+## 2026-10-19 — batch 053 (wave 3, score-2 band)
+
+- The score-2 band went 4 of 5 here, 30 of 35 with the earlier samples.
+  Sorting by title again predicted every outcome.
+- A threshold rule's "competitive within c" can fail by its overshoot.
+  When the trigger fires on the statement that crosses a threshold, a step
+  of size f times the threshold adds about f on each side of a cycle.
+  Online-SI's 3 becomes 3 + 2f. Check lower-bound examples for an
+  overshoot before trusting that the bound is tight (THEORY-332).
+- "Stated without proof" titles on algebraic maintenance rules (counting,
+  delta rules) can often be re-derived from a telescoping identity. A
+  small brute-force check against full recomputation is cheap and catches
+  stratification mistakes (THEORY-362).
+- For provenance invariance, monotonicity alone makes minimal witnesses
+  semantic: every witness contains a single-derivation image and every
+  such image is a witness. Rewrite-system results whose rules are not
+  given cannot be re-derived, so move them to a QUESTION (THEORY-367).
+- In a multi-system measurement title, check which systems were measured
+  at which settings. Indyk and Xu measured seven of their ten indexes only
+  at L = 0.1n, and ran three from a survey's reimplementations, not their
+  authors' code (THEORY-368).
+- THEORY-336 waits on a reading task, a stage-comparison primary study
+  such as Geisler (1989) or Banks, Geisler and Bennett (1987), and on the
+  report-title ruling.
+
+## 2026-10-19 — batch 055 (wave 3, score-2 band)
+
+- The score-2 band went 3 of 5 here; with batches 039, 045 and 047-051, 29
+  of 35. Four of the five are formal in fact. Sorting by title again
+  predicted every outcome.
+- A promote_when asking for a null comparison can be met inside the
+  review, and the answer can be "it is the null" (THEORY-548: community
+  variability falls with S exactly as summing independent oscillators
+  does). State that in the narrowed title rather than dropping the clause.
+- THEORY-548: τ_c is not set by the largest growth rate alone, as NOTE-061
+  inferred; from S = 40 up its correlation with π/(2 max r) is about 0.2,
+  and τ_c falls below that bound. Worth a dated note on NOTE-061 when it
+  is next touched.
+- A short printed proof can rest on definitions in a companion paper
+  (THEORY-580 on "The Topology of Causality"); fetch the companion and
+  check the definitions, and note that its numbering differs by arXiv
+  version.
+- THEORY-527 is the third conditional theorem promoted with its
+  promote_when moved to a QUESTION (after THEORY-185 and -133). Verdicts
+  argued in prose from a definition are not consequences a review can
+  check; drop them from the title.
+- PhilSci-Archive fails TLS verification from this environment
+  (THEORY-535); a reading task there needs another route to the text.
+
+## 2026-10-19 — batch 057 (follow-ups)
+
+- A reading task can find that the rigorous literature narrows a title
+  rather than confirming it: Candellero and Fountoulakis show the global
+  clustering of the hyperbolic random graph vanishes at every temperature
+  when the degree exponent is at most 3, a transition the source's
+  simulations did not report.
+- Name which clustering coefficient a title means. The average of local
+  coefficients and the global (transitivity) coefficient behave
+  differently under heavy tails.
+- A paper-length rigorous proof cannot be re-derived in a batch. Whether a
+  held, peer-reviewed proof that was skimmed meets "a proof" is an owner
+  question (THEORY-188; compare THEORY-270 in batch 038).
+- Rename CLAIM-tmp1w7aa's decision file to its permanent code after #262
+  merges.
