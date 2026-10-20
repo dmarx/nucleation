@@ -21,7 +21,7 @@ dispositions:
   THEORY-453: {hand: argument, classifier: theorem, disposition: retain-proposed, why: "metaphysical position; promote_when asks for argument"}
   THEORY-476: {hand: argument, classifier: theorem, disposition: retain-proposed, why: "Lewis's conclusion is interpretive; its definitional core (I = R, overlap in fission) re-derived, split not filed"}
 promotion_prs:
-  - "PENDING"
+  - "#278: THEORY-751 promoted; THEORY-744 narrowed and promoted; new QUESTION for its boundary and semigroup halves."
 notes_for_ledger:
   - >-
     Hand vs classifier on triage-007's top 5 theorem calls: 3 of 5 agree.

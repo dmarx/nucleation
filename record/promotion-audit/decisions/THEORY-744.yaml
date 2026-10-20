@@ -5,6 +5,7 @@ reviewed: '2026-10-20'
 reviewed_revision: 6b5755199b4ab6d3fdd3c76c9ca6e11c7b61c7d7
 current_status: Proposed
 disposition: narrow-and-promote
+carried_out_in: "#278"
 confidence: high
 title_asserts: theorem
 hand_label: theorem
@@ -94,4 +95,4 @@ notes: >-
   Promotion PR files the new QUESTION with the promote_when's excluded
   half. Trim inactive-ok directives naming THEORY-744 in NOTE-984,
   NOTE-985, NOTE-986 and LIT-1246.
-next_action: "Promote in this batch's PR with the corrected title."
+next_action: "Merge #278."
