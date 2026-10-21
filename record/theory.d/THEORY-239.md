@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmp1iy33
 title: "For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator attain the minimum, over d-dimensional spans, of worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, namely (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other spans can tie"
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-19'
@@ -24,6 +24,15 @@ history:
     decomposition, and the worked case is a three-state chain. Under
     ADR-047 v2 (the owner's rule of 2026-10-19), that meets the condition
     for the narrowed claim.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    QUESTION-052 was split under ADR-049, and this entry's answers link
+    moves to the Answered child, QUESTION-tmp5o5m0. The summary, the "does
+    not say" line on one space and the Connections paragraph on
+    QUESTION-052 said the directed case on one space was not worked. The
+    note of 2026-10-19 works it, so they now say so. Title and status are
+    unchanged.
 tags:
 - representation-learning
 - learning-theory
@@ -37,10 +46,11 @@ summary: >-
   L²(P_X) and is never assumed self-adjoint; its singular value
   decomposition comes from composing it with its adjoint. The guarantee is
   for linear probes and approximation error at the population level only.
-  It does not cover a non-reversible kernel on one space, which the thesis
-  never works through, nor what a trained network reaches.
+  The thesis never works a non-reversible kernel on one space; the note of
+  2026-10-19 works a three-state one. It says nothing of what a trained
+  network reaches.
 answers:
-- QUESTION-052
+- QUESTION-tmp5o5m0
 ---
 <!-- inactive-ok-file: THEORY-005 CLAIM-098 — Proposed; accounts and a claim this one bears on, open -->
 
@@ -96,12 +106,13 @@ Only the left singular space and the singular values enter.
 - **Not that the optimal span is unique.** A span that tilts μ_d towards
   μ_{d+2} can match the worst case, because the worst target lies in the
   plane of μ₁ and μ_{d+1}. That holds even with a gap s_d > s_{d+1}.
-- **Not the directed transport of a single space.** X and A may differ,
+- **Not a directed transport worked in the thesis.** X and A may differ,
   and the operator is not self-adjoint, but the thesis never works a case
   where A = X with a non-reversible kernel. Its only graph example
-  (Example 1.13, Theorem 2.8) assumes w(u,v) = w(v,u). Whether the left
-  space is still the signature for a directed chain on one space is
-  inferred from the general statement, not exhibited.
+  (Example 1.13, Theorem 2.8) assumes w(u,v) = w(v,u). The record's note
+  of 2026-10-19 works one, a three-state chain. The guarantee there
+  follows from the general statement; the example shows only that the
+  left and right functions differ.
 - **Not about what training reaches.** All results are at the population
   optimum of squared-error objectives; the thesis sets aside optimization
   and architecture, and does not cover cross-entropy or InfoNCE.
@@ -118,11 +129,13 @@ Only the left singular space and the singular values enter.
 
 ## Connections
 
-- **[QUESTION-052](../questions.d/QUESTION-052.md).** An answer in part, to the half that asks what replaces
-  the eigenspace when the pairing is not symmetric. It is the left
-  singular space of the conditional-expectation operator, and it comes with
-  a sufficiency guarantee for linear decisions on compatible tasks. The
-  half about directed transports on one space stays open.
+- **[QUESTION-tmp5o5m0](../questions.d/QUESTION-tmp5o5m0.md)**, split from [QUESTION-052](../questions.d/QUESTION-052.md). The answer, for linear
+  decisions, to what replaces the eigenspace when the pairing is not
+  symmetric. It is the left singular space of the conditional-expectation
+  operator, with a sufficiency guarantee for linear decisions on
+  compatible tasks, on two spaces or on one (note of 2026-10-19). It is a
+  minimax-optimal span, not the only one. Nonlinear decisions stay with
+  [QUESTION-052](../questions.d/QUESTION-052.md).
 - **[THEORY-009](THEORY-009.md).** It complicates that account. Self-adjointness here comes
   from composing T_P⁺ with its adjoint (X → A → X′), not from any symmetry
   of the original pair. In the multi-view case the two views are

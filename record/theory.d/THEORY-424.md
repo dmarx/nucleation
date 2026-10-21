@@ -14,7 +14,7 @@ date: '2026-10-16'
 source:
 - LIT-005
 answers:
-- QUESTION-115
+- QUESTION-tmp3dajs
 summary: >-
   Bourrat (2024), [LIT-005](../literature.d/LIT-005.md), read in [NOTE-027](../notes.d/NOTE-027.md), against Krakauer et al.'s
   (2020) measures. A* = I(S_{t+1}; S_t) is confounded when the environment
