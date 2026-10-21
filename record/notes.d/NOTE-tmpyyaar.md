@@ -101,7 +101,7 @@ that one technology will win and the odds of each, but not which.
   absorbed with probability one, so "the two technologies cannot coexist
   indefinitely". The observer can give the probability that A wins (the
   OCR garbled the expression; re-derived as Δ_R/(Δ_R + Δ_S) with
-  Δ_R = (a_R − b_R)/r and Δ_S = (b_S − a_S)/s in THEORY-tmpxzls4), but not
+  Δ_R = (a_R − b_R)/r and Δ_S = (b_S − a_S)/s in [THEORY-tmpxzls4](../theory.d/THEORY-tmpxzls4.md)), but not
   the outcome.
 - **Table 2.** Necessarily efficient, necessarily flexible, predictable,
   ergodic: constant returns yes, no, yes, yes; diminishing returns yes,
@@ -123,7 +123,7 @@ that one technology will win and the odds of each, but not which.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | In the model, increasing returns make the adoption process converge with probability one to the exclusion of one technology | strong | random walk with absorbing barriers; re-derived and simulated in THEORY-tmpxzls4 |
+| C1 | In the model, increasing returns make the adoption process converge with probability one to the exclusion of one technology | strong | random walk with absorbing barriers; re-derived and simulated in [THEORY-tmpxzls4](../theory.d/THEORY-tmpxzls4.md) |
 | C2 | Which technology wins is decided by the order of arrivals, so the outcome is not predictable from the returns functions, though its probability is | strong | gambler's ruin on the barriers |
 | C3 | The locked-in outcome need not be the more efficient, and marginal changes to returns cannot dislodge it | strong in the model | one-type case (Fig. 1) and the absorbing barriers |
 | C4 | Under constant or diminishing returns the outcome is predictable, ergodic and (with diminishing returns) flexible | strong | random walk without barriers or with reflecting ones |
@@ -155,31 +155,31 @@ The 1989 article in the LIT is its published successor.
 
 ## Bearing on the record
 
-- **THEORY-tmpxzls4.** Filed Active: C1–C4 in the 1983 model, re-derived
+- **[THEORY-tmpxzls4](../theory.d/THEORY-tmpxzls4.md).** Filed Active: C1–C4 in the 1983 model, re-derived
   and simulated.
-- **CLAIM-tmpptl3y.** A19 cited Arthur for "early contingencies can select
+- **[CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md).** A19 cited Arthur for "early contingencies can select
   durable technological advantages without an intrinsic superiority". That
   is C1–C3. The two models differ where the claim says its own result
-  stops. In CLAIM-tmpptl3y, restoring κ > α restores the equal allocation:
+  stops. In [CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md), restoring κ > α restores the equal allocation:
   no hysteresis in the constraint. In Arthur's model the lock-in is an
   absorbing state. Once it is reached, a marginal change in returns has no
   purchase, and only a large one reverses it, by driving the other side out
   (the razor-edge). So Arthur supplies, in a different model, the
-  persistence that CLAIM-tmpptl3y says its pitchfork lacks, and the reason:
+  persistence that [CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md) says its pitchfork lacks, and the reason:
   the advantage is stored in accumulated adoptions, a state variable that
   does not decay when the conditions are reversed. Neither model has the
   advantaged party acquiring authority over the rule, the route
-  CLAIM-tmpptl3y names. The comparison is the record's.
-- **CASE-112.** Arthur's planner who "tilt[s] the process ... at the outset"
-  is CASE-112's tilt h applied before the symmetry breaks. Arthur adds that
-  the same small tilt has no effect after lock-in, which is CASE-112's
+  [CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md) names. The comparison is the record's.
+- **[CASE-112](../cases.d/CASE-112.md).** Arthur's planner who "tilt[s] the process ... at the outset"
+  is [CASE-112](../cases.d/CASE-112.md)'s tilt h applied before the symmetry breaks. Arthur adds that
+  the same small tilt has no effect after lock-in, which is [CASE-112](../cases.d/CASE-112.md)'s
   hysteresis in h.
 - **Neutral rules, unequal outcomes.** Arthur's process is symmetric in the
   technologies when a_R − b_R = b_S − a_S and r = s, and still ends with
   one of them holding the whole market. That is A19's "The rules of motion
   remain symmetric. The realized organization does not", in a stochastic
   rather than a deterministic model.
-- **THEORY-429** (North) carries increasing returns from technologies to
+- **[THEORY-429](../theory.d/THEORY-429.md)** (North) carries increasing returns from technologies to
   institutional matrices, which Arthur's 1983 paper does not do.
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -209,5 +209,5 @@ No instruction for machine-learning practice; nothing for the anthology.
 - For the record: is there a model in which an advantage selected by
   symmetry breaking persists after the constraint is restored because the
   advantaged party stores it (in adoptions, resources or authority over the
-  rule)? Arthur's accumulated adoptions are one such store. CLAIM-tmpptl3y
+  rule)? Arthur's accumulated adoptions are one such store. [CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md)
   names another and does not model it.

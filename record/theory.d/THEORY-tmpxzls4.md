@@ -20,8 +20,8 @@ date: '2026-10-21'
 source:
 - LIT-tmp5l842
 summary: >-
-  Arthur (1983 working paper; published 1989), LIT-tmp5l842, read in
-  NOTE-tmpyyaar. A result about one model: two types, linear returns, no
+  Arthur (1983 working paper; published 1989), [LIT-tmp5l842](../literature.d/LIT-tmp5l842.md), read in
+  [NOTE-tmpyyaar](../notes.d/NOTE-tmpyyaar.md). A result about one model: two types, linear returns, no
   expectations, no pricing, no sponsors. It does not show that any
   historical technology won by small events, and the "efficiency" it says
   can fail is a weak search criterion. Its lock-in is absorption in
@@ -34,8 +34,8 @@ summary: >-
 
 Arthur, W. B., "On Competing Technologies and Historical Small Events: The
 Dynamics of Choice under Increasing Returns", IIASA WP-83-90 (1983), the
-precursor of the *Economic Journal* article (1989) in LIT-tmp5l842. Read in
-full in NOTE-tmpyyaar. The derivation below is the record's.
+precursor of the *Economic Journal* article (1989) in [LIT-tmp5l842](../literature.d/LIT-tmp5l842.md). Read in
+full in [NOTE-tmpyyaar](../notes.d/NOTE-tmpyyaar.md). The derivation below is the record's.
 
 ## What was actually shown
 
@@ -102,7 +102,7 @@ fair walk on a finite interval is absorbed.
 
 ## Connections
 
-- **CLAIM-tmpptl3y.** Both are symmetric dynamics that select one side.
+- **[CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md).** Both are symmetric dynamics that select one side.
   They differ in what happens when the conditions are reversed. In the
   pitchfork, restoring κ > α restores the equal allocation. Here, lock-in
   is absorption in accumulated adoptions. Arthur: "Small subsidies to the
@@ -110,8 +110,8 @@ fair walk on a finite interval is absorbed.
   hand, will swing the market and drive the dominant choice out." The
   persistence is stored in a state variable that the reversal does not
   touch.
-- **CASE-112.** Arthur's advice to "'tilt' the process ... toward the
+- **[CASE-112](../cases.d/CASE-112.md).** Arthur's advice to "'tilt' the process ... toward the
   favored technology at the outset" is the tilt h applied before the
   symmetric state breaks. After lock-in a small tilt does nothing, as in
-  CASE-112's hysteresis in h.
-- **THEORY-429.** North carries increasing returns to institutions.
+  [CASE-112](../cases.d/CASE-112.md)'s hysteresis in h.
+- **[THEORY-429](THEORY-429.md).** North carries increasing returns to institutions.

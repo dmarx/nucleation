@@ -19,7 +19,7 @@ date: '2026-10-21'
 source:
 - LIT-tmpx4cpq
 summary: >-
-  Schram and Ule (2024), LIT-tmpx4cpq, read in NOTE-tmpze6la. Capture is a
+  Schram and Ule (2024), [LIT-tmpx4cpq](../literature.d/LIT-tmpx4cpq.md), read in [NOTE-tmpze6la](../notes.d/NOTE-tmpze6la.md). Capture is a
   treatment, policymakers' payoffs set equal to the operator's, not
   something any party brought about, and "independence" is a price fixed
   by the first policymaker, not an agency. The capture cells hold 18
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Schram, A. & Ule, A. (2024), *Public Choice* 198: 403–425, LIT-tmpx4cpq,
-read in NOTE-tmpze6la.
+Schram, A. & Ule, A. (2024), *Public Choice* 198: 403–425, [LIT-tmpx4cpq](../literature.d/LIT-tmpx4cpq.md),
+read in [NOTE-tmpze6la](../notes.d/NOTE-tmpze6la.md).
 
 ## What was actually shown
 
@@ -81,7 +81,7 @@ nothing to entrench. They did not.
   authors think real electoral pressure is weaker, which would strengthen
   the entrenchment, but that is their conjecture.
 - **Not the general policy conclusion.** That independence helps consumers
-  only when its designers serve them is THEORY-tmpvj1mm, Proposed.
+  only when its designers serve them is [THEORY-tmpvj1mm](THEORY-tmpvj1mm.md), Proposed.
 - **Not robust in every measure.** With the 45.8% of groups whose operator
   invested in period 1 excluded (the authors' Appendix F, which this
   reading did not check), the capture-cell price effect is significant
@@ -90,8 +90,8 @@ nothing to entrench. They did not.
 
 ## Connections
 
-- **CLAIM-tmpjo2zr**, last clause. Formal independence of a procedure does
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md)**, last clause. Formal independence of a procedure does
   not make it independent: here independence from voters, installed by a
   captured designer, insulated the capture from the one correction left.
-- **CLAIM-342.** The voters were the check whose arrival did not pass
+- **[CLAIM-342](../claims.d/CLAIM-342.md).** The voters were the check whose arrival did not pass
   through the policymakers' interest. Independence removed it.

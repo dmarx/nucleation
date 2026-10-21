@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmp53juk) in full, from the Econlib reprint of the American Economic Review article, published there with the AEA's permission; worth reading for the distinction between scientific knowledge and knowledge "of the particular circumstances of time and place", for the argument that the second cannot be put into statistics for a central authority (THEORY-tmp9wdb3), and for the price system as a mechanism that conveys relative scarcities without their causes. Read it knowing that it is an argument from examples with no model or evidence, that it is about the economic order and not organizations, and that it argues for competition, not that removing any given public rule decentralizes decisions.
+  read 2026-10-21 ([NOTE-tmp53juk](../notes.d/NOTE-tmp53juk.md)) in full, from the Econlib reprint of the American Economic Review article, published there with the AEA's permission; worth reading for the distinction between scientific knowledge and knowledge "of the particular circumstances of time and place", for the argument that the second cannot be put into statistics for a central authority ([THEORY-tmp9wdb3](../theory.d/THEORY-tmp9wdb3.md)), and for the price system as a mechanism that conveys relative scarcities without their causes. Read it knowing that it is an argument from examples with no model or evidence, that it is about the economic order and not organizations, and that it argues for competition, not that removing any given public rule decentralizes decisions.
 title: 'The Use of Knowledge in Society'
 version: 2
 history:
@@ -35,9 +35,9 @@ summary: >-
 
 Hayek, F. A. (1945). The Use of Knowledge in Society. *American Economic Review* 35(4): 519–530.
 
-Read in full on 2026-10-21 (NOTE-tmp53juk), from the Econlib reprint; JSTOR
+Read in full on 2026-10-21 ([NOTE-tmp53juk](../notes.d/NOTE-tmp53juk.md)), from the Econlib reprint; JSTOR
 holds the original at stable/1809376. The account drawn from it is
-THEORY-tmp9wdb3, Proposed.
+[THEORY-tmp9wdb3](../theory.d/THEORY-tmp9wdb3.md), Proposed.
 
 ## Why this is here
 

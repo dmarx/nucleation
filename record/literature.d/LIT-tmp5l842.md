@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpyyaar) through its precursor only, the 1983 IIASA working paper WP-83-90 ("On Competing Technologies and Historical Small Events: The Dynamics of Choice under Increasing Returns"), read in full from IIASA's repository; the 1989 article itself was not reached (Unpaywall and OpenAlex closed, no open PDF on Semantic Scholar, JSTOR paywalled). Worth reading for the model that makes lock-in analysable: increasing returns turn the adoption difference into a random walk with absorbing barriers, so one technology takes the market, which one is decided by the order of small events, and the outcome is neither predictable, flexible nor necessarily efficient (THEORY-tmpxzls4, re-derived). Read it knowing that the model is very special (two types, linear returns, no expectations, pricing or sponsors), that its historical examples are illustrations, and that the published version may differ from the precursor read here.
+  read 2026-10-21 ([NOTE-tmpyyaar](../notes.d/NOTE-tmpyyaar.md)) through its precursor only, the 1983 IIASA working paper WP-83-90 ("On Competing Technologies and Historical Small Events: The Dynamics of Choice under Increasing Returns"), read in full from IIASA's repository; the 1989 article itself was not reached (Unpaywall and OpenAlex closed, no open PDF on Semantic Scholar, JSTOR paywalled). Worth reading for the model that makes lock-in analysable: increasing returns turn the adoption difference into a random walk with absorbing barriers, so one technology takes the market, which one is decided by the order of small events, and the outcome is neither predictable, flexible nor necessarily efficient ([THEORY-tmpxzls4](../theory.d/THEORY-tmpxzls4.md), re-derived). Read it knowing that the model is very special (two types, linear returns, no expectations, pricing or sponsors), that its historical examples are illustrations, and that the published version may differ from the precursor read here.
 title: 'Competing Technologies, Increasing Returns, and Lock-In by Historical Events'
 version: 2
 history:
@@ -35,9 +35,9 @@ summary: >-
 
 Arthur, W. B. (1989). Competing Technologies, Increasing Returns, and Lock-In by Historical Events. *The Economic Journal* 99(394): 116–131. doi:10.2307/2234208.
 
-Read on 2026-10-21 (NOTE-tmpyyaar) through its precursor, Arthur's IIASA
+Read on 2026-10-21 ([NOTE-tmpyyaar](../notes.d/NOTE-tmpyyaar.md)) through its precursor, Arthur's IIASA
 working paper WP-83-90 (1983), in full; the 1989 article was not reached.
-The model's result is THEORY-tmpxzls4, Active.
+The model's result is [THEORY-tmpxzls4](../theory.d/THEORY-tmpxzls4.md), Active.
 
 ## Why this is here
 

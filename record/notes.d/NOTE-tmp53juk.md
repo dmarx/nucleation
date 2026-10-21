@@ -153,9 +153,9 @@ Reiter). The record holds none of those works.
 
 ## Bearing on the record
 
-- **THEORY-tmp9wdb3.** Filed Proposed: C2–C4 as an account, without a
+- **[THEORY-tmp9wdb3](../theory.d/THEORY-tmp9wdb3.md).** Filed Proposed: C2–C4 as an account, without a
   model or evidence behind it.
-- **CLAIM-tmpyxupb.** A18 cited Hayek for "the informational
+- **[CLAIM-tmpyxupb](../claims.d/CLAIM-tmpyxupb.md).** A18 cited Hayek for "the informational
   advantages of certain governance arrangements". The essay supports
   exactly that and no more. It is an argument for where decisions should
   sit, given where knowledge sits, and §II already frames the question as
@@ -168,12 +168,12 @@ Reiter). The record holds none of those works.
 - **Legibility.** §IV's account of why statistics cannot carry
   circumstances of time and place, "lumping together, as resources of one
   kind, items which differ as regards location, quality, and other
-  particulars", is the cost of legibility in TERM-tmp5lqn0's sense, stated
-  in 1945. NOTE-649 already reads LIT-848 as compressing Hayek and Scott
+  particulars", is the cost of legibility in [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md)'s sense, stated
+  in 1945. [NOTE-649](NOTE-649.md) already reads [LIT-848](../literature.d/LIT-848.md) as compressing Hayek and Scott
   together.
-- **NOTE-649** cites the essay through LIT-848. Its gloss, "Hayek's price
+- **[NOTE-649](NOTE-649.md)** cites the essay through [LIT-848](../literature.d/LIT-848.md). Its gloss, "Hayek's price
   as a summary of dispersed knowledge", is accurate.
-- **THEORY-429** (North). Hayek's prices and North's institutions are both
+- **[THEORY-429](../theory.d/THEORY-429.md)** (North). Hayek's prices and North's institutions are both
   answers to dispersed knowledge, one by messages and one by constraints.
   Neither cites the other here, and this is the record's comparison.
 

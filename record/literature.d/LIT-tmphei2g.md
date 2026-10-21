@@ -37,7 +37,7 @@ Stigler, G. J. (1971). The Theory of Economic Regulation. *The Bell Journal of E
 
 Not read: no lawful copy was reached on 2026-10-21 (see status_note). The
 summary is drawn from what the work is standardly cited for; the OECD's
-report (LIT-tmpiiau9, read) and Schram and Ule (LIT-tmpx4cpq, read) cite it
+report ([LIT-tmpiiau9](LIT-tmpiiau9.md), read) and Schram and Ule ([LIT-tmpx4cpq](LIT-tmpx4cpq.md), read) cite it
 for the same thesis.
 
 ## Why this is here

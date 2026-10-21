@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpze6la) in full (main text; the online appendices not read), from the publisher's open-access PDF (CC BY 4.0); worth reading for a laboratory measurement (THEORY-tmpqzjvn) that the commitment which relieves electoral holdup also locks in the interests of whoever designs it, raising prices further when policymakers are aligned with the operator ("capture entrenchment"), and for the authors' general conclusion that independence helps consumers only when its designers serve them (THEORY-tmpvj1mm, Proposed). Read it knowing that capture is assigned as a treatment, not produced, that "independence" is a price fixed by the first policymaker, that groups have three voters and the capture cells 18 groups, and that some effects weaken when the 45.8% of groups with dominated period-1 investment are excluded.
+  read 2026-10-21 ([NOTE-tmpze6la](../notes.d/NOTE-tmpze6la.md)) in full (main text; the online appendices not read), from the publisher's open-access PDF (CC BY 4.0); worth reading for a laboratory measurement ([THEORY-tmpqzjvn](../theory.d/THEORY-tmpqzjvn.md)) that the commitment which relieves electoral holdup also locks in the interests of whoever designs it, raising prices further when policymakers are aligned with the operator ("capture entrenchment"), and for the authors' general conclusion that independence helps consumers only when its designers serve them ([THEORY-tmpvj1mm](../theory.d/THEORY-tmpvj1mm.md), Proposed). Read it knowing that capture is assigned as a treatment, not produced, that "independence" is a price fixed by the first policymaker, that groups have three voters and the capture cells 18 groups, and that some effects weaken when the 45.8% of groups with dominated period-1 investment are excluded.
 title: 'Regulatory independence may limit electoral holdup but entrench capture'
 version: 2
 history:
@@ -36,9 +36,9 @@ summary: >-
 
 Schram, A. & Ule, A. (2024). Regulatory independence may limit electoral holdup but entrench capture. *Public Choice* 198(3–4): 403–425. doi:10.1007/s11127-023-01136-y.
 
-Read in full on 2026-10-21 (NOTE-tmpze6la), from the open-access article.
+Read in full on 2026-10-21 ([NOTE-tmpze6la](../notes.d/NOTE-tmpze6la.md)), from the open-access article.
 Its capture is an alignment of policymakers' payoffs, not influence over
-evidence or criteria, so it bears on the last clause of CLAIM-tmpjo2zr (an
+evidence or criteria, so it bears on the last clause of [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md) (an
 independent procedure need not be independent) more than on the claim's
 two routes.
 

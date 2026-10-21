@@ -27,7 +27,7 @@ date: '2026-10-21'
 source:
 - LIT-tmpwcrya
 summary: >-
-  Hayek (1945), LIT-tmpwcrya, read in NOTE-tmp53juk. An argument, not a
+  Hayek (1945), [LIT-tmpwcrya](../literature.d/LIT-tmpwcrya.md), read in [NOTE-tmp53juk](../notes.d/NOTE-tmp53juk.md). An argument, not a
   result: the essay gives examples (the tin shortage, the shipper, the
   arbitrageur) and an analogy to the rates of substitution a single mind
   uses, and no model of how well prices convey what decisions need. It
@@ -40,7 +40,7 @@ summary: >-
 ## Source
 
 Hayek, F. A. (1945), "The Use of Knowledge in Society", *American Economic
-Review* 35(4): 519–530, LIT-tmpwcrya, read in full in NOTE-tmp53juk from
+Review* 35(4): 519–530, [LIT-tmpwcrya](../literature.d/LIT-tmpwcrya.md), read in full in [NOTE-tmp53juk](../notes.d/NOTE-tmp53juk.md) from
 the Econlib reprint.
 
 ## What was actually shown
@@ -90,19 +90,19 @@ only in consequence of change". The essay does not test that premise.
 
 ## Connections
 
-- **CLAIM-tmpyxupb.** The claim treats a change of rules as a change in who
+- **[CLAIM-tmpyxupb](../claims.d/CLAIM-tmpyxupb.md).** The claim treats a change of rules as a change in who
   holds each governing function. Hayek's §II puts the economic dispute the
   same way: "not ... whether planning is to be done or not ... [but]
   whether planning is to be done centrally ... or is to be divided among
   many individuals". This account is the informational reason one
   allocation of decisions can beat another. It is not a reason that every
   removal of a constraint improves the allocation.
-- **TERM-tmp5lqn0.** The lumping that makes statistics usable centrally is
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** The lumping that makes statistics usable centrally is
   what loses circumstances of time and place: a 1945 statement of what
   legibility costs.
-- **THEORY-404.** A designed signal moves a Bayesian receiver. Hayek's
+- **[THEORY-404](THEORY-404.md).** A designed signal moves a Bayesian receiver. Hayek's
   prices are signals nobody designs, which carry what a decision needs.
   Both treat what a decision maker receives as the lever. The pairing is
   the record's.
-- **THEORY-429** (North) answers the same dispersal with institutions,
+- **[THEORY-429](THEORY-429.md)** (North) answers the same dispersal with institutions,
   constraints that economize on knowledge, rather than with prices.

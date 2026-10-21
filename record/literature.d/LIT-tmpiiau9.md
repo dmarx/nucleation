@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpk4llg), chapters 1 and 2 in full and chapter 3 in part, from the OECD's own PDF; worth reading for its definition of policy capture as consistent or repeated diversion of public decisions from the public interest toward a specific interest, by legal or illegal means, for its three criteria (an explicitly defined policy goal, a captor's intent to extract rents, a shift of the process from the goal), and for its catalogue of vehicles, which includes supplying research and manipulated information, so that capture can proceed without the decision maker's knowledge. Read it knowing that it is an institutional report, not research: its definition and criteria are adopted from others, its evidence is cited or is cross-country correlation of perception indicators, and its recommendations are not evaluated. No THEORY is filed from it.
+  read 2026-10-21 ([NOTE-tmpk4llg](../notes.d/NOTE-tmpk4llg.md)), chapters 1 and 2 in full and chapter 3 in part, from the OECD's own PDF; worth reading for its definition of policy capture as consistent or repeated diversion of public decisions from the public interest toward a specific interest, by legal or illegal means, for its three criteria (an explicitly defined policy goal, a captor's intent to extract rents, a shift of the process from the goal), and for its catalogue of vehicles, which includes supplying research and manipulated information, so that capture can proceed without the decision maker's knowledge. Read it knowing that it is an institutional report, not research: its definition and criteria are adopted from others, its evidence is cited or is cross-country correlation of perception indicators, and its recommendations are not evaluated. No THEORY is filed from it.
 title: 'Preventing Policy Capture: Integrity in Public Decision Making'
 version: 2
 history:
@@ -35,7 +35,7 @@ summary: >-
 
 OECD (2017). *Preventing Policy Capture: Integrity in Public Decision Making*. OECD Public Governance Reviews. Paris: OECD Publishing. doi:10.1787/9789264065239-en.
 
-Read on 2026-10-21 (NOTE-tmpk4llg), chapters 1–2 in full and chapter 3 in
+Read on 2026-10-21 ([NOTE-tmpk4llg](../notes.d/NOTE-tmpk4llg.md)), chapters 1–2 in full and chapter 3 in
 part, from the OECD's own PDF. No THEORY is filed: the report is
 definitional and advisory.
 

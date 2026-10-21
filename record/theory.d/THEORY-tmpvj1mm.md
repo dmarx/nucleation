@@ -30,7 +30,7 @@ source:
 extends:
 - THEORY-tmpqzjvn
 summary: >-
-  Schram and Ule (2024), LIT-tmpx4cpq, read in NOTE-tmpze6la. The authors'
+  Schram and Ule (2024), [LIT-tmpx4cpq](../literature.d/LIT-tmpx4cpq.md), read in [NOTE-tmpze6la](../notes.d/NOTE-tmpze6la.md). The authors'
   general conclusion. Its evidence is one laboratory study in which
   capture was assigned and independence was a fixed price, so it says
   nothing yet about real independent agencies, about how capture arises,
@@ -41,17 +41,17 @@ summary: >-
 
 ## Source
 
-Schram, A. & Ule, A. (2024), LIT-tmpx4cpq, §5: "regulatory independence is
+Schram, A. & Ule, A. (2024), [LIT-tmpx4cpq](../literature.d/LIT-tmpx4cpq.md), §5: "regulatory independence is
 beneficial when policymakers favor consumers but may be detrimental if they
 favor the industry", and "if the regulatory interests align with
 infrastructure operators, a flexible regulator may be more efficient." Read
-in NOTE-tmpze6la.
+in [NOTE-tmpze6la](../notes.d/NOTE-tmpze6la.md).
 
 ## What was actually shown
 
 A stylized game with equilibria for two boundary cases of voting (the
 paper's Table 2, derived in an appendix this reading did not check), and
-the laboratory result THEORY-tmpqzjvn. Both bear on the account only for a
+the laboratory result [THEORY-tmpqzjvn](THEORY-tmpqzjvn.md). Both bear on the account only for a
 regulator whose independence is a price fixed at the start, with
 policymakers' alignment assigned.
 
@@ -68,9 +68,9 @@ policymakers' alignment assigned.
 
 ## Connections
 
-- **CLAIM-tmpjo2zr.** A route by which formal independence protects
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** A route by which formal independence protects
   capture rather than evaluation: independence from one authority (voters)
   installed by an agent of another (the industry).
-- **CLAIM-tmpyxupb.** Independence is a change in who holds revision. This
+- **[CLAIM-tmpyxupb](../claims.d/CLAIM-tmpyxupb.md).** Independence is a change in who holds revision. This
   account says the effect of removing the electorate's share of revision
   depends on who held rule-making when it was removed.

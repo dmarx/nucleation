@@ -148,10 +148,10 @@ price caps.
 
 ## Bearing on the record
 
-- **THEORY-tmpqzjvn** (Active) states C1–C4 as measured.
-  **THEORY-tmpvj1mm** (Proposed) carries the authors' general conclusion,
+- **[THEORY-tmpqzjvn](../theory.d/THEORY-tmpqzjvn.md)** (Active) states C1–C4 as measured.
+  **[THEORY-tmpvj1mm](../theory.d/THEORY-tmpvj1mm.md)** (Proposed) carries the authors' general conclusion,
   C5.
-- **CLAIM-tmpjo2zr.** A25 cited the paper for "independence from one source
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** A25 cited the paper for "independence from one source
   of authority does not imply independence from every other source." The
   paper supports a sharper form. Its independence is from voters, and
   capture enters through the designer. Making the regime independent of
@@ -159,24 +159,24 @@ price caps.
   and so held the captured price in place. That is the claim's last clause,
   that formal independence of a procedure does not make it independent, by
   a route the claim does not name: independence installed by a captured
-  designer insulates the capture from correction. In CLAIM-342's terms the
+  designer insulates the capture from correction. In [CLAIM-342](../claims.d/CLAIM-342.md)'s terms the
   voters were the evidence-bearing check outside the loop, and
   independence cut it. The paper's capture is not informational or
   evaluative. It is an alignment of the decision maker's own payoffs, so it
   does not bear on the claim's two routes, which the LIT's "complicates"
   overstated.
-- **TERM-tmpe6jtq.** The paper's capture is the conventional
+- **[TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md).** The paper's capture is the conventional
   interest-alignment sense, not the TERM's fidelity-relative one, and it
   has no loop. It is a clean instance of what the TERM sets aside as the
   institutional sense, without the OECD's intent condition: alignment is
   simply given.
-- **CLAIM-tmpyxupb.** The two treatments are two governance profiles with
+- **[CLAIM-tmpyxupb](../claims.d/CLAIM-tmpyxupb.md).** The two treatments are two governance profiles with
   the same price-setting authority at period 1 and different holders of
   revision after it: the electorate in [RegFlex], nobody in [RegInd]. That
   difference, not the number of rules, decides the outcome. It is an
   experimental instance of the claim's point that authority over revision
   is a separate component.
-- **CASE-tmp3uarw** is stipulated. This paper is a laboratory measurement,
+- **[CASE-tmp3uarw](../cases.d/CASE-tmp3uarw.md)** is stipulated. This paper is a laboratory measurement,
   not a documented episode of real regulation, so it does not supply the
   documented variant the case waits for.
 

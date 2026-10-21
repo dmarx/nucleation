@@ -166,17 +166,17 @@ Carpenter and Moss (2014) for the criteria, on Johnston for influence
 markets, and on Martimort (1999) for capture that grows as public attention
 wanes. It opens chapter 1 with North (1994): formal rules "are created to
 serve the interests of those with the bargaining power to create new
-rules." The record holds North (LIT-489, THEORY-429) and, unread, Stigler
-(LIT-tmphei2g).
+rules." The record holds North ([LIT-489](../literature.d/LIT-489.md), [THEORY-429](../theory.d/THEORY-429.md)) and, unread, Stigler
+([LIT-tmphei2g](../literature.d/LIT-tmphei2g.md)).
 
 ## Bearing on the record
 
-- **TERM-tmpe6jtq.** The TERM cites the OECD sense through A20's paraphrase
+- **[TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md).** The TERM cites the OECD sense through A20's paraphrase
   and calls it "not held". The report's own wording differs from the
   paraphrase in two ways that matter to the TERM:
   - It requires **the captor's intent** ("by the intent and action of this
     group or person"; criterion 2, "must intend to extract rents"). The
-    TERM's fidelity-relative sense has no intent condition: in CLAIM-330's
+    TERM's fidelity-relative sense has no intent condition: in [CLAIM-330](../claims.d/CLAIM-330.md)'s
     loop, capture can arise with nobody intending it. So the two senses
     differ by intent as well as by the standard. That supports the TERM's
     choice to keep them apart, and it is a third difference the TERM's
@@ -188,7 +188,7 @@ rules." The record holds North (LIT-489, THEORY-429) and, unread, Stigler
   - A20's "a repeated diversion of public decision-making toward narrow
     interests, through potentially legal or illegal channels" is a fair
     paraphrase, minus the intent clause.
-- **CLAIM-tmpjo2zr.** The report states the informational route outright:
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** The report states the informational route outright:
   undue influence "can even be achieved without directly involving (and
   without the knowledge of) public decision-makers, by manipulating
   information", and among its vehicles "Providing research and
@@ -199,7 +199,7 @@ rules." The record holds North (LIT-489, THEORY-429) and, unread, Stigler
   evaluative route: nothing on capture of the criteria by which evidence is
   weighed, except that capture is measured against stated goals. So it
   supports the claim's first route and is silent on its second.
-- **CLAIM-tmpjo2zr, evaluators.** "SAIs, competition authorities and
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md), evaluators.** "SAIs, competition authorities and
   regulatory agencies are a natural target for capture", and independent
   regulators can be unduly influenced "from government, regulated
   industries and powerful consumer groups". That is the claim's "formal
@@ -210,15 +210,15 @@ rules." The record holds North (LIT-489, THEORY-429) and, unread, Stigler
   process, and may indicate use of the tools of stakeholder engagement as a
   mere formality" is A27 §6's "satisfy a nominal requirement to consult
   affected agents while denying them effective participation", which
-  CLAIM-tmpjo2zr quotes.
-- **THEORY-146.** The energy case's "polluting energy companies fund biased
-  research to underpin their business case" is the phenomenon THEORY-146
+  [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md) quotes.
+- **[THEORY-146](../theory.d/THEORY-146.md).** The energy case's "polluting energy companies fund biased
+  research to underpin their business case" is the phenomenon [THEORY-146](../theory.d/THEORY-146.md)
   models, stated without a model.
 - **Self-reinforcement.** The report's "vicious circle", rents reinvested
-  in influence, is CLAIM-330's loop in prose, and its "increasing returns"
-  to rent seeking is LIT-tmp5l842's mechanism carried to influence. It
+  in influence, is [CLAIM-330](../claims.d/CLAIM-330.md)'s loop in prose, and its "increasing returns"
+  to rent seeking is [LIT-tmp5l842](../literature.d/LIT-tmp5l842.md)'s mechanism carried to influence. It
   derives neither.
-- **CLAIM-359.** The four strategies are a policy-level counterpart of the
+- **[CLAIM-359](../claims.d/CLAIM-359.md).** The four strategies are a policy-level counterpart of the
   claim's safeguards: audits "independent of the audited" appear as
   independent audit institutions, which "must also ... insulate themselves
   from undue influence".
