@@ -21,7 +21,8 @@ yield: >-
   split off as its own Active THEORY; THEORY-647 keeps Wenmackers's
   thesis about belief and the Lottery Paradox. The other four are
   arguments.
-promotion_prs: []
+promotion_prs:
+  - "#300: THEORY-647 split, its conditional result filed as THEORY-tmpicur7, Active (branch claude/split-theory-647)."
 band:
   - {code: THEORY-647, hand_label: conditional theorem plus argument, triage007: theorem, agrees: true, outcome: split}
   - {code: THEORY-457, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
