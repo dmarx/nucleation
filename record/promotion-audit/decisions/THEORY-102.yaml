@@ -5,6 +5,7 @@ reviewed: '2026-10-21'
 reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
 current_status: Proposed
 disposition: narrow-and-promote
+carried_out_in: "#301"
 confidence: high
 title_asserts: measurement
 hand_label: measurement (one intracranial study, numbers in the text)

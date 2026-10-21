@@ -20,7 +20,8 @@ yield: >-
   narrowed to Vishne et al.'s intracranial study; its general claim is
   filed as a new Proposed THEORY (ADR-047 v4). THEORY-141, -563 and -060
   are arguments.
-promotion_prs: []
+promotion_prs:
+  - "#301: THEORY-374 and THEORY-102 narrowed and promoted; THEORY-102's general claim filed as THEORY-tmpfpev1, Proposed (branch claude/promote-theories-374-102)."
 band:
   - {code: THEORY-141, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
   - {code: THEORY-563, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
