@@ -11,7 +11,7 @@ history:
   note: >-
     Split under ADR-049. The formal sub-question about candidate 3, whether
     commitment before evidence is equivalent to Regime B in the operator
-    model, is QUESTION-tmp7x8l1, Answered by CLAIM-340. The title is
+    model, is QUESTION-239, Answered by CLAIM-340. The title is
     unchanged: it never asked the sub-question.
 tags:
 - cognition
@@ -32,7 +32,7 @@ summary: >-
   loop did not select, which a paralysed person still receives, and
   contingency between intention and outcome, which they lose.
 refined_by:
-- QUESTION-tmp7x8l1
+- QUESTION-239
 ---
 
 # QUESTION-121: Within a single mind, what plays the part of the operator model's independent scoring: what evidence reaches a judgement–observation loop, or what scores it, without passing through the interpretation it tests, and does any of it survive the loss of all action?
@@ -104,7 +104,7 @@ than an anchor is lost with action.
 - **Which candidate works.** A loop that does not lock in, with action held
   fixed, and a demonstration that removing a given candidate makes it lock
   in.
-- **For candidate 3, answered in the linearization by [QUESTION-tmp7x8l1](QUESTION-tmp7x8l1.md) and [CLAIM-340](../claims.d/CLAIM-340.md):**
+- **For candidate 3, answered in the linearization by [QUESTION-239](QUESTION-239.md) and [CLAIM-340](../claims.d/CLAIM-340.md):**
   commitment is not equivalent to Regime B. The coupling has the sign of
   κ′ − κ̄, where κ′ is how far the interpretation bends the reading of the
   evidence and κ̄ how far it bends the committed predictions. The original

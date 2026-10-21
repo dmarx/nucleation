@@ -11,7 +11,7 @@ history:
   note: >-
     Split under ADR-049. When the linearized symmetric state is unstable,
     and whether independent scoring removes the instability, is
-    QUESTION-tmphi1l2, Answered by CLAIM-330. This question is reworded
+    QUESTION-241, Answered by CLAIM-330. This question is reworded
     to what is left: the nonlinear dynamics, and expertise against
     capture. Version 1's title lacked "Beyond the linearization at
     symmetry".
@@ -33,7 +33,7 @@ answered_by:
 refined_by:
 - QUESTION-117
 - QUESTION-121
-- QUESTION-tmphi1l2
+- QUESTION-241
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-281 CLAIM-285 CLAIM-297 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -63,7 +63,7 @@ outcomes are not guaranteed merely by writing coupled diffusion
 equations." The answer is also what [CLAIM-278](../claims.d/CLAIM-278.md) asks of the operator
 framework, an outcome it forbids.
 
-**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The linear part is [QUESTION-tmphi1l2](QUESTION-tmphi1l2.md),
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The linear part is [QUESTION-241](QUESTION-241.md),
 Answered by [CLAIM-330](../claims.d/CLAIM-330.md): in [CASE-099](../cases.d/CASE-099.md)'s linearization the symmetric state is
 unstable exactly when βγ > (1 − α)(1 − δ), only the loop can make it so,
 and independent scoring (Regime B) removes the instability. Open here:

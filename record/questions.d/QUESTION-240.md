@@ -1,5 +1,8 @@
 ---
+number: 240
 status: Answered
+formerly:
+- QUESTION-tmpc4mhm
 title: 'Does a transport whose local kernels commute with restriction preserve overlap consistency, and does a transport induced by one global stochastic kernel preserve global extendability?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ answered_by:
 - CLAIM-121
 ---
 
-# QUESTION-tmpc4mhm: Does a transport whose local kernels commute with restriction preserve overlap consistency, and does a transport induced by one global stochastic kernel preserve global extendability?
+# QUESTION-240: Does a transport whose local kernels commute with restriction preserve overlap consistency, and does a transport induced by one global stochastic kernel preserve global extendability?
 
 ## Answer
 

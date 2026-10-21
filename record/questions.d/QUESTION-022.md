@@ -11,7 +11,7 @@ history:
   note: >-
     Split under ADR-049. Whether restriction-compatible kernels preserve
     overlap consistency, and kernels from one global kernel preserve
-    global extendability, is QUESTION-tmpc4mhm, Answered by CLAIM-121 and
+    global extendability, is QUESTION-240, Answered by CLAIM-121 and
     CLAIM-070. This question is reworded to what is left: necessary
     conditions, and transports that change the cover. Version 1's title
     was 'Which stochastic transports carry compatible empirical models to
@@ -26,10 +26,10 @@ refines:
 summary: >-
   The first of the crystallized argument's five central mathematical
   questions (A110 §IX). Propositions 1 and 2 give sufficient conditions,
-  and that part is [QUESTION-tmpc4mhm](QUESTION-tmpc4mhm.md), Answered. Necessary conditions, and
+  and that part is [QUESTION-240](QUESTION-240.md), Answered. Necessary conditions, and
   transports that change the cover, are open.
 refined_by:
-- QUESTION-tmpc4mhm
+- QUESTION-240
 ---
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
@@ -56,6 +56,6 @@ five questions appears in the manuscript, which has no section of open
 problems.
 
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** Propositions 1 and 2 answer whether
-their two classes preserve, and that is [QUESTION-tmpc4mhm](QUESTION-tmpc4mhm.md), Answered. This
+their two classes preserve, and that is [QUESTION-240](QUESTION-240.md), Answered. This
 question keeps what they leave: whether either condition is necessary,
 whether other classes preserve, and transports that change the cover.

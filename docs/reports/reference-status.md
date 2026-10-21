@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**479 documents cited without acknowledgement.** Not listed: 10225 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**483 documents cited without acknowledgement.** Not listed: 10226 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -514,9 +514,9 @@ What keeps a judgement–observation loop from confirming itself is evidence who
 - [`record/notes.d/NOTE-963.md:201`](../../record/notes.d/NOTE-963.md)
 - [`record/notes.d/NOTE-963.md:206`](../../record/notes.d/NOTE-963.md)
 - [`record/notes.d/NOTE-964.md:234`](../../record/notes.d/NOTE-964.md)
-- [`record/questions.d/QUESTION-121.md:17`](../../record/questions.d/QUESTION-121.md)
-- [`record/questions.d/QUESTION-121.md:36`](../../record/questions.d/QUESTION-121.md)
-- [`record/questions.d/QUESTION-121.md:57`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:25`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:44`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:65`](../../record/questions.d/QUESTION-121.md)
 
 ### [LIT-373](../../record/literature.d/LIT-373.md) — Rejected
 
@@ -716,10 +716,10 @@ A judgement–observation loop cut off from action loses one route for evidence 
 - [`record/notes.d/NOTE-960.md:316`](../../record/notes.d/NOTE-960.md)
 - [`record/notes.d/NOTE-961.md:172`](../../record/notes.d/NOTE-961.md)
 - [`record/notes.d/NOTE-963.md:221`](../../record/notes.d/NOTE-963.md)
-- [`record/questions.d/QUESTION-121.md:22`](../../record/questions.d/QUESTION-121.md)
-- [`record/questions.d/QUESTION-121.md:40`](../../record/questions.d/QUESTION-121.md)
-- [`record/questions.d/QUESTION-121.md:57`](../../record/questions.d/QUESTION-121.md)
-- [`record/questions.d/QUESTION-121.md:113`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:30`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:48`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:65`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:121`](../../record/questions.d/QUESTION-121.md)
 
 ### [THEORY-017](../../record/theory.d/THEORY-017.md) — Proposed
 
@@ -1022,7 +1022,7 @@ Convergence of representations, in the Platonic hypothesis's sense, is convergen
 
 When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
 
-13 citations in 8 files await a look; 10 other citations of it are acknowledged.
+13 citations in 8 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-336.md:42`](../../record/claims.d/CLAIM-336.md)
 - [`record/claims.d/CLAIM-336.md:62`](../../record/claims.d/CLAIM-336.md)
@@ -2918,7 +2918,7 @@ In an active-inference model of post-traumatic context inference, an overly prec
 - [`record/claims.d/CLAIM-339.md:75`](../../record/claims.d/CLAIM-339.md)
 - [`record/claims.d/CLAIM-342.md:46`](../../record/claims.d/CLAIM-342.md)
 - [`record/claims.d/CLAIM-342.md:67`](../../record/claims.d/CLAIM-342.md)
-- [`record/questions.d/QUESTION-121.md:68`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:76`](../../record/questions.d/QUESTION-121.md)
 
 ### [THEORY-494](../../record/theory.d/THEORY-494.md) — Proposed
 
@@ -3251,7 +3251,7 @@ Does Measuring Intent Change Behavior?
 
 - [`record/claims.d/CLAIM-341.md:168`](../../record/claims.d/CLAIM-341.md)
 - [`record/notes.d/NOTE-957.md:205`](../../record/notes.d/NOTE-957.md)
-- [`record/questions.d/QUESTION-121.md:114`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:122`](../../record/questions.d/QUESTION-121.md)
 
 ### [LIT-1198](../../record/literature.d/LIT-1198.md) — Unavailable
 
@@ -3342,6 +3342,26 @@ Dwork et al. — The reusable holdout (supplementary material)
 - [`record/questions.d/QUESTION-040.md:12`](../../record/questions.d/QUESTION-040.md)
 - [`record/questions.d/QUESTION-196.md:36`](../../record/questions.d/QUESTION-196.md)
 - [`record/theory.d/THEORY-028.md:12`](../../record/theory.d/THEORY-028.md)
+
+### [QUESTION-239](../../record/questions.d/QUESTION-239.md) — Answered
+
+In the linearized operator model, is scoring operators against predictions committed before the evidence equivalent to Regime B's independent scoring?
+
+3 citations in 2 files await a look.
+
+- [`record/questions.d/QUESTION-121.md:14`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:107`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-241.md:45`](../../record/questions.d/QUESTION-241.md)
+
+### [QUESTION-240](../../record/questions.d/QUESTION-240.md) — Answered
+
+Does a transport whose local kernels commute with restriction preserve overlap consistency, and does a transport induced by one global stochastic kernel preserve global extendability?
+
+3 citations in 1 file await a look.
+
+- [`record/questions.d/QUESTION-022.md:14`](../../record/questions.d/QUESTION-022.md)
+- [`record/questions.d/QUESTION-022.md:29`](../../record/questions.d/QUESTION-022.md)
+- [`record/questions.d/QUESTION-022.md:59`](../../record/questions.d/QUESTION-022.md)
 
 ### [TERM-003](../../record/terms.d/TERM-003.md) — Superseded
 
@@ -3571,7 +3591,7 @@ Ventromedial prefrontal cortex stores links between kinds of situation and the b
 
 - [`record/cases.d/CASE-107.md:133`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-342.md:96`](../../record/claims.d/CLAIM-342.md)
-- [`record/questions.d/QUESTION-121.md:70`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:78`](../../record/questions.d/QUESTION-121.md)
 
 ### [THEORY-551](../../record/theory.d/THEORY-551.md) — Proposed
 
@@ -3601,7 +3621,7 @@ Perceptual learning can install perceiver-specific frames that change which obje
 
 - [`record/claims.d/CLAIM-340.md:81`](../../record/claims.d/CLAIM-340.md)
 - [`record/claims.d/CLAIM-341.md:102`](../../record/claims.d/CLAIM-341.md)
-- [`record/questions.d/QUESTION-121.md:67`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:75`](../../record/questions.d/QUESTION-121.md)
 
 ### [THEORY-613](../../record/theory.d/THEORY-613.md) — Proposed
 
@@ -4134,7 +4154,16 @@ Does a state that meets a functional characterization of affect thereby have to 
 2 citations in 2 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-107.md:130`](../../record/cases.d/CASE-107.md)
-- [`record/questions.d/QUESTION-121.md:70`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:78`](../../record/questions.d/QUESTION-121.md)
+
+### [QUESTION-241](../../record/questions.d/QUESTION-241.md) — Answered
+
+In the coupled meaning–influence model linearized at its symmetric state, when is the symmetric state unstable, and does scoring endorsement independently of the interpretation remove the instability?
+
+2 citations in 1 file await a look.
+
+- [`record/questions.d/QUESTION-100.md:14`](../../record/questions.d/QUESTION-100.md)
+- [`record/questions.d/QUESTION-100.md:66`](../../record/questions.d/QUESTION-100.md)
 
 ### [THEORY-001](../../record/theory.d/THEORY-001.md) — Proposed
 
@@ -4556,7 +4585,7 @@ People's answers to a probability query depend on their own answers to an earlie
 
 2 citations in 2 files await a look.
 
-- [`record/questions.d/QUESTION-121.md:80`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:88`](../../record/questions.d/QUESTION-121.md)
 - [`record/theory.d/THEORY-355.md:121`](../../record/theory.d/THEORY-355.md)
 
 ### [THEORY-342](../../record/theory.d/THEORY-342.md) — Proposed
@@ -4656,7 +4685,7 @@ The feeling of fluency is an inference about the precision of one's own processi
 2 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/claims.d/CLAIM-337.md:60`](../../record/claims.d/CLAIM-337.md)
-- [`record/questions.d/QUESTION-121.md:82`](../../record/questions.d/QUESTION-121.md)
+- [`record/questions.d/QUESTION-121.md:90`](../../record/questions.d/QUESTION-121.md)
 
 ### [THEORY-665](../../record/theory.d/THEORY-665.md) — Proposed
 
@@ -4746,6 +4775,14 @@ Communicative identity is characterized by the observational structures and rela
 1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-115.md:113`](../../record/claims.d/CLAIM-115.md)
+
+### [CLAIM-125](../../record/claims.d/CLAIM-125.md) — Proposed
+
+Directed transport between empirical models whose covers change has two open problems: when it preserves decision-relevant information, and how it extends to signalling data
+
+1 citation in 1 file awaits a look; 43 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-022.md:54`](../../record/questions.d/QUESTION-022.md)
 
 ### [CLAIM-129](../../record/claims.d/CLAIM-129.md) — Proposed
 

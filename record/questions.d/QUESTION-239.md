@@ -1,5 +1,8 @@
 ---
+number: 239
 status: Answered
+formerly:
+- QUESTION-tmp7x8l1
 title: 'In the linearized operator model, is scoring operators against predictions committed before the evidence equivalent to Regime B''s independent scoring?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ answered_by:
 - CLAIM-340
 ---
 
-# QUESTION-tmp7x8l1: In the linearized operator model, is scoring operators against predictions committed before the evidence equivalent to Regime B's independent scoring?
+# QUESTION-239: In the linearized operator model, is scoring operators against predictions committed before the evidence equivalent to Regime B's independent scoring?
 
 ## Answer
 
