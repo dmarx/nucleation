@@ -6,13 +6,6 @@ formerly:
 title: 'For a linear system x(t+1) = Ax and a partition of its variables, the vector of block sums evolves autonomously from every initial state iff the partition is column-equitable, every column of each block of A summing to the same value; the aggregate operator then keeps a subset of A''s eigenvalues, and the blocks may interact as strongly as they like, so exact aggregation is not decomposition'
 version: 3
 history:
-- version: 3
-  date: '2026-10-21'
-  note: >-
-    Note of 2026-10-21 added, from the reading of Rubenstein et al.
-    (NOTE-tmp6b7dr): the same column condition is their criterion for
-    averaging linear variables to be an exact causal transformation. The
-    account is unchanged.
 - version: 1
   date: '2026-10-20'
   note: >-
@@ -26,6 +19,13 @@ history:
   date: '2026-10-20'
   note: >-
     Connections gain strong lumpability (THEORY-822, from the reading of Rosas et al.). The account is unchanged.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the reading of Rubenstein et al.
+    (NOTE-tmp6b7dr): the same column condition is their criterion for
+    averaging linear variables to be an exact causal transformation. The
+    account is unchanged.
 tags:
 - complex-systems
 - mathematics

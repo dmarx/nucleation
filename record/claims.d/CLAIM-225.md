@@ -6,13 +6,6 @@ formerly:
 title: 'Blackwell''s order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line''s claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis''s own defeat condition'
 version: 3
 history:
-- version: 3
-  date: '2026-10-21'
-  note: >-
-    Note of 2026-10-21 added, from the reading of Xu et al. on usable
-    information (NOTE-tmpvnsxo): the objection's two standards are
-    Shannon and V-information, which that paper relates without
-    mentioning Blackwell. The claim is unchanged.
 - version: 2
   date: '2026-10-10'
   note: >-
@@ -22,6 +15,13 @@ history:
     garbling can raise. CLAIM-087 v2 is stated for receivers, and
     CLAIM-050 v2's condition no longer counts a bounded receiver's
     gain as a defeat of the order.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the reading of Xu et al. on usable
+    information (NOTE-tmpvnsxo): the objection's two standards are
+    Shannon and V-information, which that paper relates without
+    mentioning Blackwell. The claim is unchanged.
 role: counter
 warrant: demonstrated
 tags:
