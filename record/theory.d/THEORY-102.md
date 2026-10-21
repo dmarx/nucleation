@@ -16,7 +16,7 @@ history:
     sampled frontal sites. The general claim, that a sustained seen image
     (and a percept) is carried by a stable sensory code with
     frontoparietal cortex marking onset, is filed as a new Proposed
-    THEORY, THEORY-tmpfpev1, which extends this one and takes the
+    THEORY, THEORY-830, which extends this one and takes the
     promote_when (a second method or cohort, and percept and input
     apart) unchanged.
 tags:
@@ -43,11 +43,11 @@ summary: >-
 answers:
 - QUESTION-061
 extended_by:
-- THEORY-tmpfpev1
+- THEORY-830
 ---
 <!-- inactive-ok-file: THEORY-097 — Proposed; filed in the same batch, named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-100 — Proposed; the crow report-correlate account filed alongside, named in Connections for contrast, nothing here rests on it -->
-<!-- inactive-ok-file: THEORY-tmpfpev1 — Proposed; the general claim this measurement was filed to support, held apart when the title was narrowed -->
+<!-- inactive-ok-file: THEORY-830 — Proposed; the general claim this measurement was filed to support, held apart when the title was narrowed -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account of what consciousness evidence can settle that this result bears on, not tested by it -->
 
 # THEORY-102: In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration
@@ -210,7 +210,7 @@ measurement and promoted it under [ADR-047](../decisions.d/ADR-047.md) v3: one s
 with the decoding and amplitude figures stated in its text. The general
 reading the old title carried, that the content of a sustained seen image
 lives in a stable sensory code while frontoparietal cortex marks only its
-onset, is held as [THEORY-tmpfpev1](THEORY-tmpfpev1.md), Proposed, with this entry's old
+onset, is held as [THEORY-830](THEORY-830.md), Proposed, with this entry's old
 promote_when. COGITATE ([LIT-973](../literature.d/LIT-973.md), note of 2026-10-14 above) replicates the
 category result in an independent cohort but finds face identity not
 sustained in posterior cortex. That limits the general claim, not this

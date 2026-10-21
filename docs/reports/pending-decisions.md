@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**762 document(s) awaiting a decision.**
+**761 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 762.
+92 of the 761.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -108,7 +108,7 @@
 
 ## THEORYs
 
-437 of the 762.
+436 of the 761.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -138,7 +138,6 @@
 | 2026-10-03 | Proposed | [THEORY-087](../../record/theory.d/THEORY-087.md) | 38 | 0 | The Bayesian complexity penalty grows as (d/2) log n in a regular model, where the curvature at the optimum sets the Occam factor, and as λ log n in a singular one, where λ is the real log canonical threshold and falls below d/2 when the prior is positive on the optimal set |
 | 2026-10-03 | Proposed | [THEORY-064](../../record/theory.d/THEORY-064.md) | 37 | 0 | What is experienced as a self is the content of a self-model the system cannot recognise as a model, and nothing beyond such models is a self |
 | 2026-10-03 | Proposed | [THEORY-057](../../record/theory.d/THEORY-057.md) | 35 | 9 | Emotion categories are populations of variable instances grouped by the perceiver's concepts, not natural kinds with a shared neural or appraisal mechanism |
-| 2026-10-03 | Proposed | [THEORY-102](../../record/theory.d/THEORY-102.md) | 35 | 2 | In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset |
 | 2026-10-03 | Proposed | [THEORY-058](../../record/theory.d/THEORY-058.md) | 30 | 5 | Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers |
 | 2026-10-03 | Proposed | [THEORY-055](../../record/theory.d/THEORY-055.md) | 27 | 5 | An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness |
 | 2026-10-03 | Proposed | [THEORY-096](../../record/theory.d/THEORY-096.md) | 27 | 9 | Perceptual consciousness is global availability: a content becomes conscious when the activity it drives into a core of long-range hub neurons, prefrontal among them, crosses a threshold and ignites it, so that the network amplifies, sustains and broadcasts that one content to the specialised processors; below threshold it leaves a decaying wave and is not experienced |
@@ -306,7 +305,6 @@
 | 2026-10-14 | Proposed | [THEORY-329](../../record/theory.d/THEORY-329.md) | 4 | 0 | On Weibo, fake news carries more anger and less joy than true news, and a post's share of anger words goes with more retweets after controls; that anger causes the spread is not shown |
 | 2026-10-14 | Proposed | [THEORY-302](../../record/theory.d/THEORY-302.md) | 3 | 0 | Coordinated action is controlled by tuning relatively autonomous coordinative structures, not by commanding muscles: a higher level specifies an equivalence class of acceptable states and sets the parameters of self-regulating units, leaving the realized details to them |
 | 2026-10-14 | Proposed | [THEORY-303](../../record/theory.d/THEORY-303.md) | 3 | 0 | A measurement scenario whose compatibility hypergraph is acyclic admits no contextuality: locally consistent context distributions always glue to a global one, so a contextual scenario needs an induced cycle of length at least four |
-| 2026-10-15 | Proposed | [THEORY-374](../../record/theory.d/THEORY-374.md) | 7 | 4 | Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries |
 | 2026-10-15 | Proposed | [THEORY-335](../../record/theory.d/THEORY-335.md) | 5 | 3 | Selective accessibility, the account that comparing a target with a plausible anchor makes anchor-consistent knowledge more accessible and that this knowledge carries anchoring, fits moderations of the effect by applicability, representativeness and plausibility, but its accessibility step has not been measured: the lexical-decision test of it found nothing in five preregistered experiments, with a task that also missed direct priming |
 | 2026-10-15 | Proposed | [THEORY-331](../../record/theory.d/THEORY-331.md) | 3 | 3 | Counting the inference a model will serve as well as its training, the least-compute way to reach a fixed quality shifts toward up-front compute as expected inference volume grows: a smaller model trained on more data in Sardana et al., a larger pretrained model over test-time search in Snell et al.; test-time compute won only at low volume and on questions the small model already sometimes solved |
 | 2026-10-15 | Proposed | [THEORY-375](../../record/theory.d/THEORY-375.md) | 3 | 2 | In one simulator evicting whole query-shaped cache regions, no replacement value function was best on every workload: a value based on distance from the current query beat LRU where queries clustered around a hot region or wandered with loops, while MRU beat both, by up to 2.3 times, on regular cyclic paths larger than the cache; none of the functions weighs what a region would cost to fetch again, and nothing is proved |
@@ -549,10 +547,11 @@
 | 2026-10-20 | Proposed | [THEORY-817](../../record/theory.d/THEORY-817.md) | 2 | 0 | Once an agent's actions affect the percepts it receives, maximal prediction of those percepts is generally not what thermodynamic efficiency requires: in percept-action loops with feedback, maximally predictive agents generally extract less work than the most efficient agent |
 | 2026-10-20 | Proposed | [THEORY-825](../../record/theory.d/THEORY-825.md) | 2 | 0 | Hyperbolic graph embedding models trained on task losses that never mention the hierarchy do not place a tree's root nearest the origin, and their distance from the origin orders hierarchical levels only partly |
 | 2026-10-20 | Proposed | [THEORY-781](../../record/theory.d/THEORY-781.md) | 1 | 0 | Strong gradient noise in SGD, like weight decay above a threshold, makes the subspace fixed by a mirror symmetry of a network's loss attracting even where it is a saddle, so that networks trained with SGD at large learning rates or small batches reach sparse, low-rank and identical-neuron solutions, as Ziyin proposes |
+| 2026-10-21 | Proposed | [THEORY-830](../../record/theory.d/THEORY-830.md) | 2 | 0 | In human visual cortex the content of a sustained seen image is carried by a stable population code that lasts as long as the image, not by a sustained level of activity, and frontoparietal cortex marks only its onset; so a sustained experience rests on sensory representation and its discrete updates on frontoparietal representation |
 
 ## ADRs
 
-2 of the 762.
+2 of the 761.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -561,7 +560,7 @@
 
 ## QUESTIONs
 
-9 of the 762.
+9 of the 761.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -577,7 +576,7 @@
 
 ## CLAIMs
 
-217 of the 762.
+217 of the 761.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -801,7 +800,7 @@
 
 ## CASEs
 
-1 of the 762.
+1 of the 761.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -809,7 +808,7 @@
 
 ## TERMs
 
-2 of the 762.
+2 of the 761.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -818,7 +817,7 @@
 
 ## ARGs
 
-2 of the 762.
+2 of the 761.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

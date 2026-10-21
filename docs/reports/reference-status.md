@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**481 documents cited without acknowledgement.** Not listed: 10242 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**479 documents cited without acknowledgement.** Not listed: 10208 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -681,7 +681,7 @@ Under a deadline, search can establish presence by finding one item but absence 
 - [`record/notes.d/NOTE-899.md:165`](../../record/notes.d/NOTE-899.md)
 - [`record/notes.d/NOTE-913.md:97`](../../record/notes.d/NOTE-913.md)
 - [`record/notes.d/NOTE-920.md:86`](../../record/notes.d/NOTE-920.md)
-- [`record/theory.d/THEORY-341.md:113`](../../record/theory.d/THEORY-341.md)
+- [`record/theory.d/THEORY-341.md:112`](../../record/theory.d/THEORY-341.md)
 - [`record/theory.d/THEORY-358.md:113`](../../record/theory.d/THEORY-358.md)
 - [`record/theory.d/THEORY-367.md:113`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:105`](../../record/theory.d/THEORY-373.md)
@@ -2920,17 +2920,6 @@ In an active-inference model of post-traumatic context inference, an overly prec
 - [`record/claims.d/CLAIM-342.md:67`](../../record/claims.d/CLAIM-342.md)
 - [`record/questions.d/QUESTION-121.md:68`](../../record/questions.d/QUESTION-121.md)
 
-### [THEORY-374](../../record/theory.d/THEORY-374.md) — Proposed
-
-Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries
-
-4 citations in 3 files await a look; 3 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
-- [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
-
 ### [THEORY-494](../../record/theory.d/THEORY-494.md) — Proposed
 
 Puritanical norms against harmless bodily pleasures are cooperative morality: people believe cooperation needs self-control, which indulgence erodes and discipline trains, and condemn indulgence as an indirect threat to cooperation
@@ -4326,15 +4315,6 @@ A neural correlate of conscious report does not require laminar cortex: in crows
 
 - [`record/questions.d/QUESTION-048.md:30`](../../record/questions.d/QUESTION-048.md)
 - [`record/questions.d/QUESTION-048.md:51`](../../record/questions.d/QUESTION-048.md)
-
-### [THEORY-102](../../record/theory.d/THEORY-102.md) — Proposed
-
-In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset
-
-2 citations in 1 file await a look; 33 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-061.md:23`](../../record/questions.d/QUESTION-061.md)
-- [`record/questions.d/QUESTION-061.md:44`](../../record/questions.d/QUESTION-061.md)
 
 ### [THEORY-103](../../record/theory.d/THEORY-103.md) — Proposed
 

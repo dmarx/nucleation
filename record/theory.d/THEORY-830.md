@@ -1,5 +1,8 @@
 ---
+number: 830
 status: Proposed
+formerly:
+- THEORY-tmpfpev1
 promote_when: >-
   Two kinds of result. First, a second recording of the same dissociation
   with a different method or sample: a time-invariant ventral temporal
@@ -39,7 +42,7 @@ summary: >-
   method or cohort and a case where percept and input come apart test it.
 ---
 
-# THEORY-tmpfpev1: In human visual cortex the content of a sustained seen image is carried by a stable population code that lasts as long as the image, not by a sustained level of activity, and frontoparietal cortex marks only its onset; so a sustained experience rests on sensory representation and its discrete updates on frontoparietal representation
+# THEORY-830: In human visual cortex the content of a sustained seen image is carried by a stable population code that lasts as long as the image, not by a sustained level of activity, and frontoparietal cortex marks only its onset; so a sustained experience rests on sensory representation and its discrete updates on frontoparietal representation
 
 ## Source
 

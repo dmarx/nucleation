@@ -2,7 +2,7 @@
 
 # Lines of explanation
 
-95 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
+96 lines, walked from `extends:` and `corrects:` on THEORY documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -121,6 +121,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## cognition
 
+### From In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration
+
+- [THEORY-102](../record/theory.d/THEORY-102.md) — In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration *(Active)*
+  - [THEORY-830](../record/theory.d/THEORY-830.md) — In human visual cortex the content of a sustained seen image is carried by a stable population code that lasts as long as the image, not by a sustained level of activity, and frontoparietal cortex marks only its onset; so a sustained experience rests on sensory representation and its discrete updates on frontoparietal representation *(Proposed)*
+
 ### From In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data
 
 - [THEORY-163](../record/theory.d/THEORY-163.md) — In Zaslavsky, Kemp, Regier and Tishby's analysis, the colour-naming systems of the World Color Survey languages and English lie near the information-bottleneck bound for compressing perceptual meanings into words, at a trade-off parameter just above 1 and nearer than hue-rotated variants of themselves, with the need distribution over meanings estimated from the naming data *(Active)*
@@ -230,6 +235,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
   - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
   - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
+
+### From In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration
+
+- [THEORY-102](../record/theory.d/THEORY-102.md) — In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration *(Active)*
+  - [THEORY-830](../record/theory.d/THEORY-830.md) — In human visual cortex the content of a sustained seen image is carried by a stable population code that lasts as long as the image, not by a sustained level of activity, and frontoparietal cortex marks only its onset; so a sustained experience rests on sensory representation and its discrete updates on frontoparietal representation *(Proposed)*
 
 ## contextuality
 
@@ -866,6 +876,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [THEORY-045](../record/theory.d/THEORY-045.md) — Felt affect is the experience of the body's regulatory state, valenced by what that state means for staying alive and present throughout waking experience, not only in emotion; whether what is felt is a prediction of that state or a map of it is unsettled *(Proposed)*
   - [THEORY-090](../record/theory.d/THEORY-090.md) — A basic, affective form of consciousness is realised subcortically, in the upper brainstem and thalamus, before and without cortex, and its first function is alarm: survival behaviour, care for the body and generalised one-shot learning, with no choice between options *(Proposed)*
   - [THEORY-093](../record/theory.d/THEORY-093.md) — A content of mind is conscious when a continuous flow of homeostatic feelings identifies it as the organism's own; the feelings are conscious in themselves and hybrid, partly made of the body state they map, because interoceptive pathways let the body act directly on the neurons that map it *(Proposed)*
+
+### From In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration
+
+- [THEORY-102](../record/theory.d/THEORY-102.md) — In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration *(Active)*
+  - [THEORY-830](../record/theory.d/THEORY-830.md) — In human visual cortex the content of a sustained seen image is carried by a stable population code that lasts as long as the image, not by a sustained level of activity, and frontoparietal cortex marks only its onset; so a sustained experience rests on sensory representation and its discrete updates on frontoparietal representation *(Proposed)*
 
 ### From In four natural odour sources (strawberry, tomato, blueberry and mouse-urine volatiles), the rank order of correlations between compound concentrations has the Betti-curve signature of points near the boundary of a three-dimensional hyperbolic ball, not of any uniform Euclidean cube tried, and human odour-descriptor profiles for 127 odorants have that of a full three-dimensional hyperbolic ball
 
