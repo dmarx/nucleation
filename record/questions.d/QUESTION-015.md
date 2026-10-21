@@ -12,8 +12,6 @@ date: '2026-10-04'
 line: will-organization
 answered_by:
 - CLAIM-027
-- CLAIM-047
-- CLAIM-080
 - THEORY-062
 summary: >-
   The question the will paper answers, in its own words (Section 2). Open:

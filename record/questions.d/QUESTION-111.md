@@ -16,8 +16,6 @@ summary: >-
   loss, computational inaccessibility, representational mismatch. [CLAIM-199](../claims.d/CLAIM-199.md) separates
   Blackwell's ceiling from a receiver's usable information. This asks how a budget,
   rather than a fixed rule class, moves that line.
-answered_by:
-- CLAIM-304
 ---
 <!-- inactive-ok-file: CLAIM-117 CLAIM-199 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

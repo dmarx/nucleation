@@ -22,6 +22,7 @@ summary: >-
   in part; the body gives each one's limit.
 refined_by:
 - QUESTION-084
+- QUESTION-186
 ---
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement tells which architecture produced it?

@@ -21,8 +21,6 @@ date: '2026-10-15'
 line:
 - formal-apparatus
 - pragmatic-transport
-answers:
-- QUESTION-111
 rests_on:
 - CLAIM-302
 grounds:

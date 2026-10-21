@@ -41,8 +41,6 @@ summary: >-
   not proved for trained deep networks, and in this model the correlation
   threshold and the grammar's size are the same expression, so the data
   cannot say which of the two sets it.
-answers:
-- QUESTION-025
 supports:
 - CLAIM-360
 extended_by:
