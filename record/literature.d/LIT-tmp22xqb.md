@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  filed 2026-10-21; a lawful full text was sought the same day and none was reached. Unpaywall, OpenAlex and Semantic Scholar list it as closed; Cambridge Core, which now holds Hypatia, redirects the article and its PDF link to the paywalled abstract; web searches for an author-posted, repository or course copy found only syllabi that assign it (University of Victoria) and citations; CORE refused the query (rate limit) and PhilPapers returned a bot check. It stays Unavailable until a copy is supplied. Kay, Kasirzadeh and Mohamed (NOTE-tmpw3hh8) restate its term secondhand, which is not a reading.
 title: 'Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is 15 September 2011, OpenAlex's date for the journal's early view, unconfirmed; Crossref gives 2012 for the issue, and the earlier is taken per ADR-002. A24 named Pohlhaus's "willful hermeneutical ignorance" and no work; this is the record's identification of the paper that introduced the term. Pohlhaus is held otherwise only as a co-editor of the handbook containing LIT-1048, and is named in NOTE-853.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    A lawful full text was sought on 2026-10-21 and not reached (status note). Status Deferred → Unavailable per ADR-041. No NOTE is filed. The summary is still the abstract's.
 tags:
 - epistemology
 date: '2026-10-21'
@@ -32,8 +36,9 @@ summary: >-
 
 Pohlhaus, G., Jr. (2012). Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance. *Hypatia* 27(4): 715–735. doi:10.1111/j.1527-2001.2011.01222.x.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Not read. A lawful full text was sought on 2026-10-21 and not reached; the
+status note says where. The summary is drawn from the abstract and should be
+checked by a reading.
 
 ## Why this is here
 

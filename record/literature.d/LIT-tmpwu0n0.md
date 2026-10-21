@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  read 2026-10-21 (NOTE-tmpw3hh8) in full, from the publisher's free PDF of the AIES 2024 proceedings; worth reading for its four-way taxonomy of how generative models take part in epistemic injustice, and for the point that amplified testimonial injustice runs through a credibility excess assigned to the model (THEORY-tmpzqfxe). Read it knowing that it is conceptual and measures nothing, that its examples are others' reports, that its "manipulative" configuration counts deliberate fabrication as testimonial injustice although Fricker sets deliberate manipulation apart, and that its access injustice stretches the hermeneutical category.
 title: 'Epistemic Injustice in Generative AI'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is arXiv v1, 21 August 2024, per ADR-002; the proceedings date is 16 October 2024. The exchange's citation was right. Flagged `anthology-candidate`: it is about generative models, and the anthology may want it; it carries no instruction for ML practice.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmpw3hh8), from the publisher's PDF on ojs.aaai.org. Status Deferred → Active. The open-copy URL is added. The summary is checked against the reading and kept; THEORY-tmpzqfxe is filed from it.
 tags:
 - epistemology
 - ethics
@@ -17,6 +21,7 @@ date: '2026-10-21'
 published: '2024-08-21'
 arxiv: '2408.11441'
 doi: '10.1609/aies.v7i1.31671'
+url: 'https://ojs.aaai.org/index.php/AIES/article/view/31671'
 first_author: 'Kay'
 keywords:
 - 'epistemic injustice'
@@ -31,12 +36,13 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpoxld9 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 <!-- inactive-ok-file: THEORY-327 — Proposed; a held reading named for context -->
 <!-- inactive-ok-file: THEORY-317 — Proposed; a held reading named for context -->
+<!-- inactive-ok-file: THEORY-tmpzqfxe — Proposed; the account filed from this reading -->
 # LIT-tmpwu0n0: Epistemic Injustice in Generative AI
 
 Kay, J., Kasirzadeh, A. & Mohamed, S. (2024). Epistemic Injustice in Generative AI. *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society* 7: 684–697. doi:10.1609/aies.v7i1.31671. Preprint: arXiv:2408.11441 (21 August 2024).
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in NOTE-tmpw3hh8, which records what the paper argues and where it departs
+from Fricker.
 
 ## Why this is here
 

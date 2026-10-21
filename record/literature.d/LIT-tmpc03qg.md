@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  filed 2026-10-21; a lawful full text was sought the same day and failed on access, not availability. The 1996 Oxford reprint's chapter is closed (Unpaywall, OpenAlex); the Centennial Review article has no DOI. A copy of the 1993 Feminist Epistemologies reprint is posted on a Waseda University faculty page (sidoli.w.waseda.jp/Harding_1993_Rethinking_Standpoint_Epistemology.pdf), in the way course pages this record has read from before, but it returned a Cloudflare 403 to both script and fetch, and the Wayback Machine could not be reached through this client's proxy. It stays Unavailable until a copy is supplied.
 title: 'Rethinking Standpoint Epistemology: What Is ‘Strong Objectivity’?'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is the first of January 1992, the year of the first appearance in *The Centennial Review*, per ADR-002 (the issue is Fall 1992). The journal article has no DOI; the DOI given is Crossref's record of the 1996 Oxford reprint, the only version Crossref holds. The *Centennial Review* volume, issue and pages are the standard citation; OpenAlex and Semantic Scholar refused further lookups that day (rate limit) and JSTOR refused a script, so they are unconfirmed. A24 named Harding's "strong objectivity" and no work; this is the record's identification.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    A lawful full text was sought on 2026-10-21 and not reached; a course-page copy exists behind a bot check (status note). Status Deferred → Unavailable per ADR-041. No NOTE is filed. The summary is still the standard description's.
 tags:
 - epistemology
 - philosophy-of-science
@@ -32,8 +36,9 @@ summary: >-
 
 Harding, S. (1992). Rethinking Standpoint Epistemology: What Is "Strong Objectivity"? *The Centennial Review* 36(3): 437–470. Reprinted in Alcoff, L. & Potter, E. (eds.) (1993), *Feminist Epistemologies*, Routledge, and in Keller, E. F. & Longino, H. E. (eds.) (1996), *Feminism and Science*, Oxford University Press, 235–248, doi:10.1093/oso/9780198751458.003.0016.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Not read. A lawful full text was sought on 2026-10-21 and not reached; the
+status note says where. The summary is drawn from what the work is standardly
+cited for and should be checked by a reading.
 
 ## Why this is here
 

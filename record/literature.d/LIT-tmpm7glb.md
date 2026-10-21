@@ -1,19 +1,24 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  read 2026-10-21 (NOTE-tmpxvj22) in full, from the open-access (CC BY 4.0) published version on Cambridge Core, without its online appendix; worth reading for its definition of ideological capture, capture through the criteria a regulator adopts with no lobbying needed (THEORY-tmpw39mh), and for a pre-registered survey showing that the public weighs layoffs, quality and lobbying well above price cuts in merger review while antitrust lawyers support replacing the consumer welfare standard 42.6 points less than the public (THEORY-tmp1kuko). Read it knowing that the lawyer sample is a convenience sample of 103, that the verdict of capture also rests on a history drawn from secondary sources, and that the introduction's "four times larger" and the analysis's "seven times larger" describe the same gap.
 title: 'What Is Ideological Capture and How Do We Measure It? Using Antitrust Reform to Understand Expert–Public Cleavages'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is Crossref's online date, 17 November 2025, per ADR-002; the print issue is June 2026. The exchange gave the title without its subtitle, "Using Antitrust Reform to Understand Expert–Public Cleavages".
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmpxvj22), from the publisher's open-access PDF; the online appendix, pre-analysis plan and replication data were not read. Status Deferred → Active. The open-copy URL is added. The summary is checked against the reading and kept. THEORY-tmp1kuko (Active) and THEORY-tmpw39mh (Proposed) are filed from it.
 tags:
 - society-and-governance
 date: '2026-10-21'
 published: '2025-11-17'
 doi: '10.1017/S153759272510323X'
+url: 'https://doi.org/10.1017/S153759272510323X'
 first_author: 'Short'
 keywords:
 - 'ideological capture'
@@ -27,12 +32,12 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-tmpe6jtq — Proposed; filed from the same exchange, named as the entry this work bears on -->
 <!-- inactive-ok-file: CLAIM-tmpjo2zr — Proposed; filed from the same exchange, named as the entry this work bears on -->
+<!-- inactive-ok-file: THEORY-tmpw39mh — Proposed; an account filed from this reading -->
 # LIT-tmpm7glb: What Is Ideological Capture and How Do We Measure It? Using Antitrust Reform to Understand Expert–Public Cleavages
 
 Short, N., Hill, S. & Brown, J. (2026). What Is Ideological Capture and How Do We Measure It? Using Antitrust Reform to Understand Expert–Public Cleavages. *Perspectives on Politics* 24(2): 680–700. doi:10.1017/S153759272510323X. First published online 17 November 2025.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in NOTE-tmpxvj22, without the online appendix.
 
 ## Why this is here
 

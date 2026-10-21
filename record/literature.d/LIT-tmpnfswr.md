@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  filed 2026-10-21; a lawful full text was sought the same day and failed on access, not availability. The English original is closed (Unpaywall, OpenAlex and Semantic Scholar; Taylor & Francis), and PhilArchive's record holds no copy. A lawful French translation exists, "Conceptualiser l'oppression épistémique", Recherches féministes 31(1), 2018 (doi:10.7202/1056239ar), open on Érudit, but Érudit returned a bot check to both script and fetch, and the Wayback Machine could not be reached through this client's proxy. CORE refused the query (rate limit). It stays Unavailable until a copy is supplied or Érudit can be reached.
 title: 'Conceptualizing Epistemic Oppression'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is Crossref's online date, 16 January 2014, per ADR-002. A24 named Dotson's "epistemic oppression" and no work; this is the record's identification of the paper that names it. Dotson is named in NOTE-853.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    A lawful full text was sought on 2026-10-21 and not reached; a French translation on Érudit exists but its bot check could not be passed (status note). Status Deferred → Unavailable per ADR-041. No NOTE is filed. The summary is still the abstract's.
 tags:
 - epistemology
 date: '2026-10-21'
@@ -29,8 +33,10 @@ summary: >-
 
 Dotson, K. (2014). Conceptualizing Epistemic Oppression. *Social Epistemology* 28(2): 115–138. doi:10.1080/02691728.2013.782585.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Not read. A lawful full text was sought on 2026-10-21 and not reached; the
+status note says where, and names a French translation that the owner could
+fetch by browser. The summary is drawn from the abstract and should be
+checked by a reading.
 
 ## Why this is here
 
