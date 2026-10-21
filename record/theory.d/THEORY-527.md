@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpgjsxj
 title: 'If agents are the systems that would adapt their policy were their actions to affect the world differently, then in mechanised causal games meeting Kenton et al.''s five assumptions (one agent per connected component of the decision–utility graph, best response to every mechanism intervention, a fixed tie-breaking order, terminal edges only into decision mechanisms, and mechanism interventions able to set any deterministic function) the game graph, with its decisions, utilities and agents, is recovered exactly from interventions on mechanisms'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -22,6 +22,15 @@ history:
     The narrowing-loss sweep (batch 069, ADR-047 v4) filed THEORY-801,
     Proposed, to carry what the narrowing dropped. This entry's status,
     title and claims are unchanged; a dated note says what moved.
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    The question audit of 2026-10-21 found the `answers` link to
+    QUESTION-032 stale. Since version 2 this entry holds only the
+    recovery theorem, conditional on the definition. What answers
+    QUESTION-032 is the definition and its verdicts, which THEORY-801
+    carries and which already answers it. The link is dropped and the
+    Connections bullet says so. Status, title and claims are unchanged.
 tags:
 - agency
 - causality
@@ -30,8 +39,6 @@ source:
 - LIT-909
 rivals:
 - THEORY-624
-answers:
-- QUESTION-032
 summary: >-
   Kenton, Kumar, Farquhar, Richens, MacDermott & Everitt (2022), [LIT-909](../literature.d/LIT-909.md),
   read in [NOTE-707](../notes.d/NOTE-707.md). The recovery result (Theorem 1) is proved under five
@@ -119,9 +126,11 @@ definition; they test it only against intuition.
 - [CLAIM-174](../claims.d/CLAIM-174.md) takes this definition as the adaptation half of its admission
   test, and [CLAIM-170](../claims.d/CLAIM-170.md) reads the location of the agent in the governing
   process as an agent individuated by the reach of what governs it.
-- On [QUESTION-032](../questions.d/QUESTION-032.md) it gives a level- and variable-relative answer: a factor
+- On [QUESTION-032](../questions.d/QUESTION-032.md), the level- and variable-relative answer (a factor
   is an agent if its decision mechanism responds to interventions on how its
-  actions affect its utility.
+  actions affect its utility) is the definition, which [THEORY-801](THEORY-801.md) carries
+  since the narrowing. This entry adds only that, under the definition and
+  the five assumptions, agents are recoverable from interventions.
 
 ## Note of 2026-10-20: Theorem 1, re-derived
 

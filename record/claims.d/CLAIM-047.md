@@ -18,8 +18,6 @@ date: '2026-10-04'
 line: will-organization
 works:
 - organization-of-will
-answers:
-- QUESTION-015
 grounds:
 - THEORY-120
 uses:
