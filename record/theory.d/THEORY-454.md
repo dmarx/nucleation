@@ -35,7 +35,7 @@ supports:
 - CLAIM-341
 ---
 <!-- inactive-ok-file: LIT-636 — Unavailable; Block's book, the unread source of the main thesis's arguments, named and not leaned on -->
-<!-- inactive-ok-file: THEORY-096 THEORY-102 THEORY-103 — Proposed; neighbouring accounts of the workspace and of perceptual consciousness, named in Connections, not leaned on -->
+<!-- inactive-ok-file: THEORY-096 THEORY-103 — Proposed; neighbouring accounts of the workspace and of perceptual consciousness, named in Connections, not leaned on -->
 <!-- inactive-ok-file: THEORY-541 — Proposed; a neighbouring account of concepts in perception, named in Connections, not leaned on -->
 
 # THEORY-454: Perception is constitutively iconic, nonconceptual and nonpropositional and cognition paradigmatically discursive, and percepts are put to cognitive use only inside a 'cognitive envelope', the global workspace read as conceptualisation, where working memory holds recoded, task-dependent abstractions rather than the percepts themselves

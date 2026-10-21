@@ -38,7 +38,7 @@ answers:
 - QUESTION-061
 ---
 <!-- inactive-ok-file: QUESTION-061 — Deferred; the question this result bears on, on a set-aside line -->
-<!-- inactive-ok-file: THEORY-102 THEORY-096 THEORY-296 — Proposed; the onset-transient finding this replicates for category, the workspace account whose broadcast and ignition clauses it tests, and the companion account from the same reading -->
+<!-- inactive-ok-file: THEORY-096 THEORY-296 — Proposed; the onset-transient finding this replicates for category, the workspace account whose broadcast and ignition clauses it tests, and the companion account from the same reading -->
 
 # THEORY-245: In a preregistered multimodal test with clearly seen images, prefrontal cortex carried a seen image's category but not its identity, and its orientation at most weakly, while posterior cortex carried all three; no prefrontal site responded at stimulus offset
 
