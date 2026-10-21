@@ -51,7 +51,7 @@ summary: >-
   Isham–Butterfield ([LIT-325](../literature.d/LIT-325.md)) state that the Heyting algebra is fixed by
   the base category.
 answers:
-- QUESTION-055
+- QUESTION-247
 presupposes:
 - THEORY-619
 ---

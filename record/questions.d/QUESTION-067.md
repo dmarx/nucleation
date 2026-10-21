@@ -3,8 +3,8 @@ number: 67
 status: Open
 formerly:
 - QUESTION-tmpsbq58
-title: 'Which noncontextuality assumption would a test of pragmatic judgements refute: the sheaf or Kochen–Specker kind over measurement contexts, or Spekkens''s generalized kind, which also requires that renderings no probe can tell apart get the same representation?'
-version: 3
+title: 'For a test of pragmatic judgements, under what probe families do renderings count as operationally equivalent, so that a test of Spekkens''s generalized noncontextuality applies and not only one of the sheaf or Kochen–Specker kind?'
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -28,6 +28,21 @@ history:
     2026-10-14 names THEORY-315 as a test with no distinguishability
     condition, whose noise robustness is only asserted. The question stays
     open.
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049. What a Kochen–Specker failure refutes, as
+    against a generalized-noncontextuality failure, and that the
+    generalized notion is strictly broader, is QUESTION-246,
+    Answered by THEORY-011, THEORY-015, THEORY-016, THEORY-231 and
+    THEORY-559. This question is reworded to what is left: when a
+    pragmatic test's probe families make renderings operationally
+    equivalent. Version 3's title was 'Which noncontextuality assumption
+    would a test of pragmatic judgements refute: the sheaf or
+    Kochen–Specker kind over measurement contexts, or Spekkens's
+    generalized kind, which also requires that renderings no probe can
+    tell apart get the same representation?' "What the record holds" now
+    lists THEORY-231, THEORY-315 and THEORY-559.
 tags:
 - contextuality
 - quantum-foundations
@@ -36,21 +51,21 @@ line: 'pragmatic-transport'
 refines:
 - QUESTION-001
 answered_by:
-- THEORY-011
-- THEORY-015
-- THEORY-016
-- THEORY-231
 - THEORY-315
-- THEORY-559
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-009](../claims.d/CLAIM-009.md), [CLAIM-037](../claims.d/CLAIM-037.md),
-  [CLAIM-044](../claims.d/CLAIM-044.md), [CLAIM-046](../claims.d/CLAIM-046.md), [CLAIM-142](../claims.d/CLAIM-142.md) and [QUESTION-001](QUESTION-001.md). [THEORY-011](../theory.d/THEORY-011.md), [THEORY-015](../theory.d/THEORY-015.md)
-  and [THEORY-016](../theory.d/THEORY-016.md) answer it in part; the body gives each one's limit.
+  [CLAIM-044](../claims.d/CLAIM-044.md), [CLAIM-046](../claims.d/CLAIM-046.md), [CLAIM-142](../claims.d/CLAIM-142.md) and [QUESTION-001](QUESTION-001.md). What each kind of
+  noncontextuality failure refutes, and that the generalized kind is
+  broader, is [QUESTION-246](QUESTION-246.md), Answered. Whether a pragmatic test's
+  probes make renderings operationally equivalent, so that the
+  generalized kind applies, is open.
+refined_by:
+- QUESTION-246
 ---
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
-# QUESTION-067: Which noncontextuality assumption would a test of pragmatic judgements refute: the sheaf or Kochen–Specker kind over measurement contexts, or Spekkens's generalized kind, which also requires that renderings no probe can tell apart get the same representation?
+# QUESTION-067: For a test of pragmatic judgements, under what probe families do renderings count as operationally equivalent, so that a test of Spekkens's generalized noncontextuality applies and not only one of the sheaf or Kochen–Specker kind?
 
 ## The question
 
@@ -65,6 +80,9 @@ The mechanism is direct, not an analogy. Renderings and contexts are preparation
 - [THEORY-011](../theory.d/THEORY-011.md): the generalized notion is strictly broader. "a qubit already has no preparation-noncontextual model, though no Kochen–Specker argument with sharp measurements exists in dimension two". Limit: the proof assumes exact operational equivalence and perfectly distinguishable pairs ([NOTE-748](../notes.d/NOTE-748.md)).
 - [THEORY-015](../theory.d/THEORY-015.md): every Kochen–Specker proof refutes universal noncontextuality, while "measurement noncontextuality alone is consistent with quantum theory". So a sheaf result would carry over, given the full preparation set. Limit: the record makes the join to the sheaf form itself, fragments must be re-checked, and what the old proofs refute is preparation plus measurement noncontextuality, not preparation noncontextuality alone ([NOTE-748](../notes.d/NOTE-748.md)).
 - [THEORY-016](../theory.d/THEORY-016.md): a noncontextual model exists "exactly when its GPT admits a positive quasiprobability representation". That gives the test a concrete target. Limit: it gives "no test for whether a positive representation exists".
+- [THEORY-231](../theory.d/THEORY-231.md): within classical realism, a generalized-noncontextuality no-go refutes Leibnizian representations, not realist ones, and applies where no Bell-like no-go exists, as in prepare-measure scenarios. Limit: the reading is Skimmed, and only Leibnizian implies noncontextual is proved.
+- [THEORY-559](../theory.d/THEORY-559.md): read as random variables, a Kochen–Specker contradiction refutes the context-independent identification of measurements, not a joint distribution. Limit: it does not engage the sheaf form, with which it agrees under consistent connectedness.
+- [THEORY-315](../theory.d/THEORY-315.md): for orbit-realizable states, generalized noncontextuality bounds two binary predictabilities by |⟨X⟩| + |⟨Z⟩| ≤ 1, with no overlapping contexts. Limit: it assumes exact equivalence, and its noise robustness is only asserted.
 
 ## What would answer it
 
@@ -122,3 +140,14 @@ not answer it.
   equivalence of equal mixtures, give |⟨X⟩| + |⟨Z⟩| ≤ 1. It still needs
   exact equivalence over every probe, and its noise robustness is only
   asserted.
+
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The readings settle what each failure
+would show: a Kochen–Specker proof refutes universal generalized
+noncontextuality, a generalized no-go refutes a positive quasiprobability
+representation, and the generalized notion is strictly broader. That is
+[QUESTION-246](QUESTION-246.md), Answered, and [THEORY-011](../theory.d/THEORY-011.md), [THEORY-015](../theory.d/THEORY-015.md), [THEORY-016](../theory.d/THEORY-016.md),
+[THEORY-231](../theory.d/THEORY-231.md) and [THEORY-559](../theory.d/THEORY-559.md) now answer the child. This question keeps what they
+leave: whether the probe families a pragmatic test can field make two
+renderings operationally equivalent, which the note of 2026-10-14 says
+needs tomographic completeness, exact equivalence, and either perfectly
+distinguishable pairs or [THEORY-315](../theory.d/THEORY-315.md)'s witness.

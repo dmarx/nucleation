@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpayxxf
 title: 'Can a reconstruction chain preserve information sufficient for one family of pragmatic tasks while progressively destroying the relations needed to support another?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049. The one-step, information-theoretic form for one
+    categorical concept, how much a map can keep about X while keeping
+    nothing about A, is QUESTION-249, Answered by THEORY-281. The
+    title is unchanged: it asks about chains and relations, which that
+    answer does not reach.
 tags:
 - information-theory
 - philosophy-of-language
@@ -14,10 +23,13 @@ refines:
 - QUESTION-016
 summary: >-
   A100, Chapter 9: "The new question introduced by the sheaf-information
-  synthesis." Gestured at in the manuscript (§8, §11), not posed.
+  synthesis." Gestured at in the manuscript (§8, §11), not posed. Its
+  one-step form for one categorical concept is [QUESTION-249](QUESTION-249.md),
+  Answered by [THEORY-281](../theory.d/THEORY-281.md). Chains, and relations, are open.
 answered_by:
 - THEORY-199
-- THEORY-281
+refined_by:
+- QUESTION-249
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-129 CLAIM-177 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -65,3 +77,9 @@ says; none has yet been assessed as an answer, and none is linked by
 ## Note of 2026-10-14: a second one-step partial answer
 
 [THEORY-281](../theory.d/THEORY-281.md), filed from [LIT-963](../literature.d/LIT-963.md), answers the one-step, information-theoretic form for one categorical concept: perfect erasure of a concept A caps what a representation keeps about X at H(X|A). Everything about A can be destroyed while that much is kept, and no more. Limits: one step, not a chain, and task families defined only by a categorical concept.
+
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** [THEORY-281](../theory.d/THEORY-281.md) is now Active, narrowed to X
+of finite support. Its answer, the cap H(X|A) and when a map reaches it,
+is [QUESTION-249](QUESTION-249.md), Answered. This question keeps what it leaves: a
+chain rather than one step, and relations a task family needs rather than
+a categorical label. [THEORY-199](../theory.d/THEORY-199.md) (Proposed) still points here.

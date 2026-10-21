@@ -46,7 +46,7 @@ extends:
 - THEORY-012
 - THEORY-016
 answers:
-- QUESTION-067
+- QUESTION-246
 ---
 
 # THEORY-015: Kochen–Specker noncontextuality is measurement noncontextuality plus outcome determinism for sharp measurements, and preparation noncontextuality implies that determinism, so every Kochen–Specker proof refutes universal generalized noncontextuality while measurement noncontextuality alone is consistent with quantum theory

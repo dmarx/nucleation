@@ -40,7 +40,6 @@ answered_by:
 - THEORY-775
 - CLAIM-394
 ---
-<!-- inactive-ok-file: CLAIM-394 THEORY-775 — new entries of this batch, cited as partial answers -->
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 THEORY-481 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->

@@ -24,7 +24,7 @@ rests_on:
 grounds:
 - CASE-106
 answers:
-- QUESTION-121
+- QUESTION-239
 summary: >-
   The formal question [QUESTION-121](../questions.d/QUESTION-121.md) asked, answered in [CASE-099](../cases.d/CASE-099.md)'s
   linearization ([CASE-106](../cases.d/CASE-106.md)): is committing predictions before the

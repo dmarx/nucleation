@@ -33,7 +33,7 @@ summary: >-
   stochastic maps, which reach it for any finite distributions with
   disjoint supports.
 answers:
-- QUESTION-010
+- QUESTION-249
 ---
 <!-- inactive-ok-file: THEORY-199 — Proposed; the partial answer of the same shape, open -->
 

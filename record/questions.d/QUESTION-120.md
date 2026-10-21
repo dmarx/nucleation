@@ -3,8 +3,8 @@ number: 120
 status: Open
 formerly:
 - QUESTION-tmpa0dq9
-title: 'When the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the compressed-sensing bound on superposition, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?'
-version: 4
+title: 'Beyond distances and sparse recovery, whose thresholds share a sufficiency proof and not a necessity proof, when the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the superposition toy model''s bound and phase changes, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?'
+version: 5
 history:
 - version: 2
   date: '2026-10-14'
@@ -29,6 +29,20 @@ history:
     Alon and Klartag read (NOTE-929): the distances thread now says
     how far the lower bound reaches and how their bit count realizes the
     proposed shape. The question itself stands.
+- version: 5
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049. Whether the distance and sparse-recovery
+    thresholds rest on one concentration argument is QUESTION-251,
+    Answered by THEORY-397, THEORY-390, THEORY-395, THEORY-399 and
+    THEORY-391: for sufficiency yes, for necessity no. This question is
+    reworded to what is left: random features, superposition and
+    expand-and-threshold. Version 4's title was 'When the record meets a
+    random linear map that keeps what a later stage needs, in random
+    features for kernels, the compressed-sensing bound on superposition,
+    and the expand-and-threshold codes of sparse distributed memory and
+    the fly, is it one concentration-of-measure fact applied to different
+    families, and does each threshold count the same thing?'
 tags:
 - mathematics
 - learning-theory
@@ -43,23 +57,20 @@ summary: >-
   whether these are one union bound over different families or different
   phenomena that share a tool. Six anchor works are now read. They show
   the distance and sparse-recovery thresholds share a sufficiency proof,
-  but not a necessity proof, and give nothing that reaches the other two
-  uses. For SDM and the fly, the record's SDM recall account and its LSH
+  but not a necessity proof, and that part is [QUESTION-251](QUESTION-251.md), Answered.
+  They give nothing that reaches random features or expand-and-threshold.
+  For SDM and the fly, the record's SDM recall account and its LSH
   account offer candidate thresholds of a different shape.
 answered_by:
-- THEORY-390
-- THEORY-391
-- THEORY-395
-- THEORY-397
 - THEORY-393
-- THEORY-399
 refined_by:
 - QUESTION-168
+- QUESTION-251
 ---
 <!-- inactive-ok-file: LIT-1158 — Unavailable; the fly paper, a lawful preprint this client could not fetch -->
 <!-- inactive-ok-file: THEORY-106 — Proposed; the accounts the random-features and SDM threads are set against -->
 
-# QUESTION-120: When the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the compressed-sensing bound on superposition, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?
+# QUESTION-120: Beyond distances and sparse recovery, whose thresholds share a sufficiency proof and not a necessity proof, when the record meets a random linear map that keeps what a later stage needs, in random features for kernels, the superposition toy model's bound and phase changes, and the expand-and-threshold codes of sparse distributed memory and the fly, is it one concentration-of-measure fact applied to different families, and does each threshold count the same thing?
 
 ## The question
 
@@ -218,3 +229,12 @@ The readings so far answer the question for the first two uses only, and
 only on the side of sufficiency. For the third, the record holds two
 candidate forms, an SDM signal-to-noise optimum and an LSH exponent, and
 neither is the proposed shape.
+
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The first two uses, distances and sparse
+recovery, are [QUESTION-251](QUESTION-251.md), Answered by [THEORY-397](../theory.d/THEORY-397.md), [THEORY-390](../theory.d/THEORY-390.md),
+[THEORY-395](../theory.d/THEORY-395.md), [THEORY-399](../theory.d/THEORY-399.md) and [THEORY-391](../theory.d/THEORY-391.md). Their thresholds share one
+sufficiency proof, a per-vector tail and a union bound, and their
+necessity proofs are different arguments. This question keeps what that
+leaves: whether the superposition toy model is limited by recovery or by
+incoherence, random features, and expand-and-threshold. [THEORY-393](../theory.d/THEORY-393.md) keeps
+its link here, for the nearly orthogonal pairs it gives.

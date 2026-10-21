@@ -3,10 +3,17 @@ number: 221
 status: Open
 formerly:
 - QUESTION-tmpt64jh
-title: 'Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block''s aggregate small to a stated order in ε, and is the converse false?'
-version: 2
+title: 'Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block''s aggregate small to a stated order in ε?'
+version: 3
 history:
 - version: 2
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049. The converse, whether exact closure requires a
+    nearly decomposable block, is QUESTION-242, Answered No by
+    CLAIM-388. The title drops its last clause, "and is the converse
+    false?". The forward bound is still open.
+- version: 3
   date: '2026-10-21'
   note: >-
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
@@ -31,13 +38,14 @@ summary: >-
   [CLAIM-388](../claims.d/CLAIM-388.md) shows that the converse fails: a closed aggregate need not
   be a weakly coupled block.
 answered_by:
-- CLAIM-388
 - CLAIM-386
 - CLAIM-390
 - THEORY-771
+refined_by:
+- QUESTION-242
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
-# QUESTION-221: Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block's aggregate small to a stated order in ε, and is the converse false?
+# QUESTION-221: Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block's aggregate small to a stated order in ε?
 
 ## Why it is a question
 
@@ -103,6 +111,12 @@ stated horizon; or a family of nearly decomposable systems in which it
 stays bounded away from zero as ε → 0. A5 was explicit that the useful
 results "would be conditional bounds, with the distributions and norms
 explicit."
+
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The converse is [QUESTION-242](QUESTION-242.md),
+Answered by [CLAIM-388](../claims.d/CLAIM-388.md). This question keeps the forward bound for the
+block's aggregate. [CLAIM-390](../claims.d/CLAIM-390.md) answers it for the block's full state and
+[CLAIM-386](../claims.d/CLAIM-386.md) gives the one-step deterministic defect, but neither bounds
+the aggregate's dynamical dependence.
 
 ## Note of 2026-10-21: a non-implication claimed as established
 

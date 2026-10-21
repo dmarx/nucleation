@@ -12,6 +12,8 @@ tags:
 - thermodynamics
 date: '2026-10-19'
 line: 'distributed-agency'
+refines:
+- QUESTION-063
 summary: >-
   The promotion condition formerly on [THEORY-275](../theory.d/THEORY-275.md), moved here when
   [THEORY-275](../theory.d/THEORY-275.md) was narrowed to the one bead system of [LIT-947](../literature.d/LIT-947.md) and promoted

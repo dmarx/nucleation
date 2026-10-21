@@ -48,7 +48,7 @@ summary: >-
   Promoted on 2026-10-20 on a construction. Whether the gain survives one
   intervention distribution at both levels is QUESTION-204.
 answers:
-- QUESTION-093
+- QUESTION-250
 extended_by:
 - THEORY-787
 ---

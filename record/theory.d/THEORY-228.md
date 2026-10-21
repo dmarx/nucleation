@@ -35,7 +35,7 @@ summary: >-
   says nothing about what training reaches, nothing about InfoNCE, and its
   infinite-space extension is asserted, not proved.
 answers:
-- QUESTION-052
+- QUESTION-245
 ---
 <!-- inactive-ok-file: THEORY-005 QUESTION-052 — Proposed or Open, or Active and cited for context; this account rests on none of them -->
 
