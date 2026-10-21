@@ -1,0 +1,245 @@
+---
+status: Read
+paper: LIT-tmp6b6sj
+title: 'Szeidl and Szucs — Media capture through favor exchange'
+version: 1
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Read in full from the published article, open access under CC BY-NC
+    4.0, as posted by the Econometric Society
+    (econometricsociety.org/publications/econometrica/2021/01/01/media-capture-through-favor-exchange,
+    file ecta200225.pdf), text extracted with pdftotext. All of pp. 281–310
+    were read: introduction, context and data, the reduced-form evidence
+    with Figures 1–6, the structural model with Propositions 1–2, the
+    estimates (Table IV), the counterfactuals (Tables V–VIII) and the
+    conclusion. The figures were read from captions and text. Of the online
+    supplement (ecta200225-sup-0001-onlineappendix.pdf), A.2 (the
+    regressions behind the figures, Tables A.II–A.VI) and A.4 (the proofs)
+    were read in full; A.1, A.3, A.5 and A.6 were skimmed. CEU's repository
+    copy returned 403 and was not needed.
+date: '2026-10-21'
+summary: >-
+  In Hungary, 1994–2016, state-owned firms' advertising, unlike private
+  firms', shifted sharply toward outlets at five events that made them
+  connected to the right-wing government and away at the event that cut
+  the connection, and corruption coverage moved the other way at the three
+  events with content data. A structural model whose slant gap between a
+  connected and an unconnected outlet splits into owner ideology plus a
+  favor-exchange term attributes the coverage drop to both, under
+  identifying assumptions the authors call strong for print and weaker for
+  online.
+---
+<!-- inactive-ok-file: CLAIM-tmpjo2zr CASE-tmp3uarw TERM-tmpe6jtq — Proposed, or a case filed with them; the entries filed in the same pull request that this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmplydnj — Proposed; the structural estimates, filed as an offer from this reading -->
+
+# NOTE-tmpefpic: Szeidl and Szucs — Media capture through favor exchange
+
+## Contribution
+
+It documents two-way favors between a government and connected media in a
+democracy, with a control that the earlier evidence lacked: private firms'
+advertising in the same outlets at the same time. It then separates two
+mechanisms that produce the same observed slant, an owner who agrees with
+the government and an owner who is paid by it. It does so under explicit
+structural assumptions, and shows that targeted advertising can also
+change who owns the media.
+
+## Key insight
+
+The same pro-government coverage can come from ideology or from exchange,
+and the two are told apart only by a change that alters one and not the
+other. Hold the owner fixed, so ideology is fixed, and change the reward
+for slant: by a fallout that ends the connection, or by a rise in the
+government's advertising budget. Any change in relative slant is then the
+exchange motive. Conversely, ideology is not exogenous either. Advertising
+favors make outlets worth more to investors who already lean toward the
+government.
+
+## Assumptions
+
+- **Classification of connections** from Mertek Media Monitor reports,
+  checked against ownership records. The analysis uses connections to the
+  right; left connections under left governments are not settled.
+- **Slant** is measured as minus the share of an outlet's articles
+  covering corruption scandals, from a hand-built keyword list of scandals
+  with a hand-checked subset. It is unbounded in the model and bounded in
+  the data.
+- **Model (Section 4.1).** Two outlets choose slant s̃ᵢ to maximize
+  β·E[Σⱼ pᵢqᵢⱼ] − (NT/2)(s̃ᵢ − ŝᵢ)², where ŝᵢ is the owner's ideal point.
+  Readers choose one outlet by logit with slant weight γ. Advertisers have
+  Cobb–Douglas weights proportional to readership and, for state-owned
+  advertisers, exp[θᵢ + δᵢ(sᵢ − s_r)], with δᵢ > 0 only for a connected
+  outlet. Budgets Wⱼ are exogenous and prices predetermined. Measured
+  slant is sᵢ = s̃ᵢ + ζ + ξᵢ, with ζ an unobserved neutral level and ξᵢ
+  noise, and a reference outlet r (hvg.hu, a critical outlet) nets out ζ.
+- **Identification.** An owner's ideal point is constant across periods:
+  Telekom's around Origo's change of editor, and Simicska's around the
+  2015 fallout, which the authors call "arguably strong". The government's
+  online advertising budget is not endogenous to the outlets' slant.
+- **Episodes** are separate one-shot equilibria. Future changes are
+  unanticipated.
+
+## Key results
+
+- **Advertising favors (Section 3.1; Tables A.II–A.IV).**
+  - Changes in government: the right-connected daily's share of
+    state-owned firms' advertising (against the left daily) rose from 16%
+    to 72% in 1998–2002 and from 47% to 95% after 2010, while private
+    firms' share tracked circulation. In regressions, state-owned firms
+    shifted 26 percentage points (unweighted) to 34 (weighted, advertiser
+    fixed effects) toward the right daily under right governments.
+  - Metropol's purchase by Simicska's partner in 2011: its share of
+    state-owned print advertising went from below 20% to above 50% at
+    once, with private advertising unchanged (weighted event estimates
+    about +0.28 to +0.32).
+  - The Orbán–Simicska fallout of February 2015: the share of state-owned
+    advertising in Simicska's two dailies fell from above 60% to below 20%,
+    starting months before the fallout was public.
+  - Origo: state-owned firms' share rose by 18–22 percentage points after
+    the change of editor in 2014, and by 57–61 after the purchase by a
+    connected owner in 2016.
+  - Prices from annual reports: state-owned firms paid connected media
+    about three times what private firms paid.
+- **Content favors (Section 3.2; Tables A.V–A.VI).** After the fallout,
+  Magyar Nemzet's share of articles on corruption rose by 1.27 percentage
+  points (s.e. 0.23), from the level of an unaffected right daily toward
+  that of the left daily. Relative to Index, Origo's share fell by 0.44
+  points after the new editor (s.e. 0.26 with period effects, 0.105 with
+  month effects) and by 1.36 after the new owner (s.e. 0.30 or 0.21).
+- **Against audience explanations.** Private advertising did not move. The
+  online audiences' demographics and the political views of 2013 readers'
+  demographic profiles evolved in parallel. In the fallout, advertising
+  moved before content, the reverse of the order an audience story
+  predicts.
+- **Proposition 1 (demand for slant).** log(a₁ⱼ/a₂ⱼ) = α + γ(s₁ − s₂) +
+  θGⱼ + δ(s₁ − s_r)Gⱼ + νⱼ.
+- **Proposition 2 (supply of slant) and (8).** With masⱼ = E[a₁ⱼ(1 − a₁ⱼ)],
+  s₁ − s₂ = (ŝ₁ − ŝ₂) + (βδ/NT)·Σ over government advertisers of
+  masⱼWⱼ + ξ. Readers' preference cancels. Both propositions are
+  re-derived in THEORY-tmpwiydx.
+- **Table IV.** δ is 421 online, 513 in print and 441 pooled. γ is −53, −149
+  and −69, so the marginal reader dislikes slant. β is 1.38, 1.63 and 1.50,
+  all with bootstrapped intervals excluding zero. Origo's new owner's ideal
+  point is 1.3 points more pro-government than Index's; Telekom's was 0.3
+  less. Letting Simicska's ideal point change at the fallout gives a small,
+  insignificant change.
+- **Table V, decomposition for Origo.** Against no targeted advertising and
+  Telekom ownership throughout: favor exchange cut corruption coverage by
+  29% (period 1), 44% (period 2) and 42% (period 3). The new owner's
+  ideology alone cut it by 63%, and both together by 74%, so the two are
+  substitutes. A ban on targeted advertising (δ = 0) would have raised
+  coverage by 41%, 79% and 42%.
+- **Table VI, endogenous ownership.** With favors, the pro-government
+  owner's net-profit advantage rose from −7% to 0% of revenue. Without
+  favors it stays between −20% and −17%.
+- **Tables VII–VIII.** A 60% fall in private advertising, or a doubling of
+  government advertising, cuts Origo's corruption coverage by 67% or 75%
+  and raises the return to a connected takeover. Capturing Index as well
+  can raise or lower Origo's slant, depending on how close the two are in
+  the government's market.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Hungarian governments of the right steered state-owned firms' advertising to connected outlets, beyond what audiences explain | strong | five events, private advertisers as control, audience data online, price evidence |
+| C2 | Connected outlets reduced corruption coverage when connected and raised it when the connection ended | strong for online, moderate for print | Tables A.V–A.VI; timing in the fallout |
+| C3 | In the model, the slant gap between connected and unconnected outlets is ideal-point gap plus a favor-exchange term, with readers' preference cancelling | strong (derivation) | Propositions 1–2; re-derived in THEORY-tmpwiydx |
+| C4 | Both owner ideology and favor exchange drove Origo's coverage, with favor exchange alone cutting it by 29–44% | moderate | Table V, conditional on the identifying assumptions |
+| C5 | Targeted advertising can make media ownership more attractive to pro-government investors | moderate in the model; suggestive in fact | Table VI; consistent with Origo's sale |
+| C6 | Government advertising affects media content worldwide | weak | extrapolated from Hungary and the qualitative reviews of Appendix A.1 |
+
+## Concepts
+
+- **Favor**: "an allocation not driven by a conventional market force like
+  audience preferences".
+- **Owner ideology** ŝᵢ: the owner's ideal slant, which costs her
+  quadratically to depart from.
+- **Favor exchange**: content favors given in return for advertising
+  favors, the βδ term. **Shared ideology**: content favors given because
+  the owner agrees, the ŝ₁ − ŝ₂ term.
+- **Connected outlet**: one with δᵢ > 0, whose slant the government's
+  advertisers reward, standing in for Besley and Prat's low τ.
+- **Marginal advertising share** masⱼ = E[a₁ⱼ(1 − a₁ⱼ)]: how responsive
+  advertiser j's split is to the outlet's slant.
+
+## Connections
+
+It builds on Besley and Prat (LIT-tmptgfjj) for the government's demand
+for slant and on Gentzkow and Shapiro (2010) for the structural approach to
+slant. It advances on Di Tella and Franceschelli (LIT-tmpa8ani) by ruling
+out the market-based explanations they left open. It relates to DellaVigna
+et al. (2015) on favors from businesses to connected media, and to Petrova
+(2011) on private advertising and press independence.
+
+## Bearing on the record
+
+- **CLAIM-tmppi0xf.** A25's point, "institutions may produce similar
+  observable outputs through different causal organizations", has a
+  documented instance here, in the shape of the claim's hidden governance
+  bit. In equation (8) the same slant gap s₁ − s₂ is produced by different
+  splits between owner ideology and favor exchange, so a description that
+  keeps only the outlets' output is the same under both. Under an
+  intervention on the mechanism the two come apart: banning targeted
+  advertising (δ = 0) removes the exchange term and leaves the ideology
+  term, so coverage at Origo would rise by 41–79% under the estimated
+  split and not at all under pure ideology (Table V). The paper tells the
+  mechanisms apart only from episodes in which the reward changed with the
+  owner fixed, that is, from variation in the very term the coarse
+  description drops. The paper's numbers are a model counterfactual, not
+  an observed intervention.
+- **CLAIM-tmpjo2zr.** A26 §4 used the paper for how control over evidence
+  and control over the evaluative objective reinforce one another. The
+  paper supports a narrower, documented form. A government's discretion
+  over an evaluator's resources (advertising) changed the evaluator's
+  output, and it also changed who owns the evaluator, and so the owner's
+  ideal point, which is the evaluator's own objective. That second
+  channel, Table VI's endogenous ownership, is the closest thing in the
+  record's readings to influence on the resources becoming influence on
+  the criteria. It is a model counterfactual, not an observation.
+- **CASE-tmp3uarw.** A second documented variant beside Di Tella and
+  Franceschelli, stronger in design: the press variant with the
+  connection switched on and off. The fallout is the case's one-time
+  perturbation in reverse. When the reward stopped, the content favors
+  stopped too, after a lag. Coverage did not stay where the captured
+  period had put it, which is evidence against self-sustaining capture in
+  this instance.
+- **TERM-tmpe6jtq.** The paper's "media capture" covers both mechanisms,
+  and its decomposition shows why the term's "driven by the party being
+  evaluated more than by evidence independent of it" needs the outside
+  standard. The paper's standard is a critical reference outlet (hvg.hu,
+  or 444.hu for robustness), which nets out the unobserved neutral level of
+  coverage.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Identification of β in print** rests on Simicska's ideology being
+  unchanged by the fallout. The authors call this "arguably strong". The
+  online identification rests on the exogeneity of the government's
+  budget, supported by parallel trends across media.
+- **Unobserved favors.** Only advertising is measured as a reward, and
+  only corruption coverage as slant. The authors show that the results
+  survive special cases (a linear rescaling, proportional rewards) and say
+  the general case is open.
+- **Episodes are one-shot equilibria.** No dynamics of reputation or
+  anticipation. The ban counterfactual assumes no other channel and a
+  permanent policy.
+- **Measurement.** Corruption coverage is a keyword count. Slant is
+  bounded in the data, and some counterfactuals push it past the bound,
+  where the authors read negative coverage as "praise".
+- **Left-wing favoritism** is neither shown nor ruled out.
+- **The proposition text has a typo.** It defines ξ₂r = ξ₁ − ξ_r, which
+  must be ξ₂ − ξ_r.
+
+## Open questions
+
+- Is favor exchange self-reinforcing over time, for example through
+  ownership changes that raise slant, which raises favors, which attracts
+  further connected owners? The model is static per episode and cannot say.
+- Do the results hold where government advertising is a small share of
+  revenue? The authors suggest that is why Gentzkow and Shapiro found no
+  political effect in the US.

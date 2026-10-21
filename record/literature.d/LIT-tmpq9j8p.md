@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  filed 2026-10-21, not read. A lawful full text was sought on 2026-10-21 and not reached. Unpaywall and OpenAlex report the article closed; OpenAlex's only other location is a CiteSeerX record, and CiteSeerX now redirects to the Wayback Machine, which this environment cannot reach. Semantic Scholar lists no open copy. The publisher's page (academic.oup.com, Journal of Communication) returned 403. Web searches found no author or institutional deposit; the copies found were a Charles University course resource and an academia.edu upload, both marked as restricted to enrolled students, and were not used. It stays Unavailable until a copy is supplied. No NOTE is filed.
 title: 'Framing: Toward Clarification of a Fractured Paradigm'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is Crossref's print date, 1 December 1993, per ADR-002. Crossref's online date, 7 February 2006, is the journal archive's digitization and is not used. A21 named "Robert Entman's account of framing"; this is the paper.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Status Deferred → Unavailable under ADR-041: a search for a lawful full text on 2026-10-21 (Unpaywall, OpenAlex, Semantic Scholar, CiteSeerX, the OUP page, web searches for author, institutional and course copies) reached none. No NOTE is filed; the summary remains the standard account, unchecked.
 tags:
 - social-science
 date: '2026-10-21'
@@ -30,8 +34,8 @@ summary: >-
 
 Entman, R. M. (1993). Framing: Toward Clarification of a Fractured Paradigm. *Journal of Communication* 43(4): 51–58. doi:10.1111/j.1460-2466.1993.tb01304.x.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Not read: no lawful copy was reached on 2026-10-21 (see the status note). The
+summary is what the work is standardly cited for, unchecked.
 
 ## Why this is here
 

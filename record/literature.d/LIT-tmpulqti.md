@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  read 2026-10-21 (NOTE-tmpr2fo5) in full, from a copy of the published article posted on a UNC Chapel Hill course page; worth reading as the founding test of agenda-setting, for its distinction between influence on what an audience thinks about and on what it thinks, and for its comparison of agenda-setting against selective perception. Read it knowing that its evidence is an aggregate cross-sectional correlation over a handful of issues in one sample of 100 undecided voters in one town, with no test reported, that the direction from media to voters is argued and not identified, and that the authors say the correlations do not prove agenda-setting. The correlations are held as THEORY-tmpbonn4, the hypothesis as THEORY-tmp98xm5 (Proposed).
 title: 'The Agenda-Setting Function of Mass Media'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is the first of January 1972: Crossref gives the year only (the issue is Summer 1972), per ADR-002. A21 named "McCombs and Shaw's classic agenda-setting work"; this is the paper.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmpr2fo5) from a copy of the published article (the Oxford Journals PDF) posted as a teaching reading on Frank Baumgartner's UNC Chapel Hill course page, fbaum.unc.edu/teaching/articles/POQ-1972-McCOMBS-176-87.pdf; Unpaywall, OpenAlex and Semantic Scholar list no open copy. Status Deferred → Active. THEORY-tmpbonn4 (Active) and THEORY-tmp98xm5 (Proposed) filed. The summary is corrected against the reading: the voters were those not yet committed, the result is a correlation of aggregates, and the authors' own hedge is added.
 tags:
 - social-science
 - society-and-governance
@@ -24,15 +28,17 @@ keywords:
 - 'public opinion'
 implementations: []
 summary: >-
-  McCombs & Shaw (1972). Among undecided voters in Chapel Hill during the 1968 US presidential campaign, the issues voters ranked as most important closely matched the emphasis the media they used gave those issues: the media may not tell people what to think, but they strongly shape what people think about.
+  McCombs & Shaw (1972). Among 100 Chapel Hill voters not yet committed to a candidate in the 1968 US presidential campaign, the aggregate ranking of issues they named as most important correlated +.967 and +.979 with the emphasis the nine media serving them gave those issues, and leaning voters matched all the news better than news about their own side in 18 of 24 comparisons. Offered as evidence that the media may not tell people what to think but do shape what they think about; the authors say the correlations do not prove it.
 ---
 <!-- inactive-ok-file: CLAIM-tmpjo2zr — Proposed; filed from the same exchange, named as the entry this work bears on -->
+<!-- inactive-ok-file: THEORY-tmp98xm5 — Proposed; the agenda-setting hypothesis this reading files as an offer, cited as open -->
 # LIT-tmpulqti: The Agenda-Setting Function of Mass Media
 
 McCombs, M. E. & Shaw, D. L. (1972). The Agenda-Setting Function of Mass Media. *Public Opinion Quarterly* 36(2): 176–187. doi:10.1086/267990.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read 2026-10-21 in full (NOTE-tmpr2fo5). The correlations are held as
+THEORY-tmpbonn4, and the agenda-setting hypothesis they are offered for as
+THEORY-tmp98xm5 (Proposed).
 
 ## Why this is here
 
