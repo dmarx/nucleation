@@ -5,7 +5,7 @@ version: 1
 tags:
 - complex-systems
 - information-theory
-- metaphysics
+- philosophy-of-science
 date: '2026-10-21'
 line: formal-apparatus
 summary: >-

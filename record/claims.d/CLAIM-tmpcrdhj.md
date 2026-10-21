@@ -14,7 +14,7 @@ defeated_if: >-
 tags:
 - complex-systems
 - information-theory
-- metaphysics
+- philosophy-of-science
 date: '2026-10-21'
 line:
 - distributed-agency

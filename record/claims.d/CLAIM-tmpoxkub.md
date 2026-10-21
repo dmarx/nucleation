@@ -16,6 +16,7 @@ defeated_if: >-
   be false.
 tags:
 - individuation
+- philosophy-of-science
 - metaphysics
 - mereology
 date: '2026-10-21'
