@@ -47,7 +47,7 @@ summary: >-
   [CLAIM-306](CLAIM-306.md)'s Bayes term, and it matters when the statement is passed to
   someone who will act on presence.
 ---
-<!-- inactive-ok-file: CLAIM-296 THEORY-374 — Proposed; an open claim cited as complementary, and a survey's account cited as such -->
+<!-- inactive-ok-file: CLAIM-296 — Proposed; an open claim cited as complementary, and a survey's account cited as such -->
 
 # CLAIM-312: "If I can't find it, it isn't there" asserts operational unavailability, that the item will not be put to use before the deadline, not absence: a search that fails by the deadline establishes unavailability outright, and licenses absence only with a certificate that the unsearched remainder cannot hold the item, from exhaustion, from an invariant of the arrangement, or from a closed-world default
 

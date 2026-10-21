@@ -28,7 +28,7 @@ summary: >-
   coalitions explain the overflow.
 ---
 
-<!-- inactive-ok-file: THEORY-102 THEORY-100 THEORY-103 — Proposed; named as accounts this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-100 THEORY-103 — Proposed; named as accounts this reading bears on, not leaned on -->
 
 # NOTE-497: Consciousness, accessibility, and the mesh between psychology and neuroscience
 

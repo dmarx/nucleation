@@ -1,27 +1,24 @@
 ---
 number: 102
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpwyfwm
-promote_when: >-
-  Two kinds of result. First, a second recording of the same dissociation
-  with a different method or sample: a time-invariant ventral temporal
-  population code whose duration matches the stimulus while amplitude
-  decays, and frontoparietal content confined to onset, in single units or
-  in an independent intracranial cohort with denser and bilateral frontal
-  coverage (the COGITATE multi-duration results are the obvious
-  candidate). Second, and needed before the account may say "percept"
-  rather than "seen image": a paradigm in which percept and input come
-  apart, such as binocular rivalry or a sustained image that is present
-  but unseen, with the ventral temporal code following the percept and
-  not the input. The account is refuted if that code follows the input
-  when the percept changes, if an unseen sustained image is coded the same
-  way, or if a sustained content-specific prefrontal code is found in the
-  bands or sites this study did not sample (low-frequency activity, other
-  prefrontal regions). More onset-locked decoding cannot settle it, since
-  the claim is about what happens after onset.
-title: 'In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset'
-version: 1
+title: "In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration"
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-102 (batch 076, ADR-047 v3 and v4): one study read in full in
+    NOTE-499, with the numbers in its text. The title now states what
+    Vishne et al. measured: their method, sample, durations and the
+    sampled frontal sites. The general claim, that a sustained seen image
+    (and a percept) is carried by a stable sensory code with
+    frontoparietal cortex marking onset, is filed as a new Proposed
+    THEORY, THEORY-tmpfpev1, which extends this one and takes the
+    promote_when (a second method or cohort, and percept and input
+    apart) unchanged.
 tags:
 - consciousness
 - neuroscience
@@ -45,12 +42,15 @@ summary: >-
   input.
 answers:
 - QUESTION-061
+extended_by:
+- THEORY-tmpfpev1
 ---
 <!-- inactive-ok-file: THEORY-097 — Proposed; filed in the same batch, named in Connections, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-100 — Proposed; the crow report-correlate account filed alongside, named in Connections for contrast, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpfpev1 — Proposed; the general claim this measurement was filed to support, held apart when the title was narrowed -->
 <!-- inactive-ok-file: THEORY-023 — Proposed; named as the account of what consciousness evidence can settle that this result bears on, not tested by it -->
 
-# THEORY-102: In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset
+# THEORY-102: In Vishne, Gerber, Knight and Deouell's intracranial recordings from ten epilepsy patients viewing clearly visible images for up to 1.5 s, the pattern of high-frequency activity across ventral temporal cortex carried image category, and exemplar identity among 60 images, in a time-invariant code for as long as the image stayed on while amplitude fell about 80%; at the sampled prefrontal and parietal sites, category content was a burst about 150 to 600 ms after onset that did not track duration
 
 ## Source
 
@@ -202,3 +202,17 @@ apart, is untouched, since every image was seen. Only 15% of
 face-selective electrodes were sustained, which fits "amplitude decays",
 but COGITATE did not test a stable population code against decaying
 amplitude as Vishne et al. did.
+
+## Narrowed and promoted (2026-10-21)
+
+Batch 076 of the promotion audit narrowed the title to Vishne et al.'s
+measurement and promoted it under [ADR-047](../decisions.d/ADR-047.md) v3: one study read in full,
+with the decoding and amplitude figures stated in its text. The general
+reading the old title carried, that the content of a sustained seen image
+lives in a stable sensory code while frontoparietal cortex marks only its
+onset, is held as [THEORY-tmpfpev1](THEORY-tmpfpev1.md), Proposed, with this entry's old
+promote_when. COGITATE ([LIT-973](../literature.d/LIT-973.md), note of 2026-10-14 above) replicates the
+category result in an independent cohort but finds face identity not
+sustained in posterior cortex. That limits the general claim, not this
+measurement, whose exemplar result is stated for its own 60 images and
+five patients.

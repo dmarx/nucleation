@@ -29,7 +29,7 @@ summary: >-
   arithmetic. The hardness is worst case and over short definitions, partial
   reuse is cheap, and nothing here is measured on the record.
 ---
-<!-- inactive-ok-file: CLAIM-303 CLAIM-308 THEORY-374 — Proposed; the claim objected to, the claim it answers, and a survey's account cited as such -->
+<!-- inactive-ok-file: CLAIM-303 CLAIM-308 — Proposed; the claim objected to, the claim it answers, and a survey's account cited as such -->
 
 # CLAIM-314: Reusing a filed argument has a recognition cost that a fixed per-use price leaves out: certifying that stored answers cover a new question is NP-complete even for conjunctive queries, grows with the number and size of the stored definitions rather than being a constant per item, and is undefined for an item filed without a statement of what it answers, so each filing raises the cost of later reuse and per-item break-even decisions are not independent
 

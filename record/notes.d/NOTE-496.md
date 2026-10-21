@@ -25,7 +25,7 @@ summary: >-
   trials uncouple it from detection, are offered as evidence.
 ---
 
-<!-- inactive-ok-file: THEORY-102 THEORY-100 — Proposed; named as accounts this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-100 — Proposed; named as accounts this reading bears on, not leaned on -->
 
 # NOTE-496: Two neural correlates of consciousness
 

@@ -1,0 +1,1 @@
+<!-- THEORY-374 (answering queries using views) promoted on a re-derivation of its open-world and closed-world certain-answer results, its open-world clause narrowed to conjunctive views; THEORY-102 narrowed to Vishne et al.'s intracranial measurement and promoted, with its general sustained-code claim filed as a new Proposed THEORY. -->

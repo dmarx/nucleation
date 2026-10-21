@@ -29,7 +29,6 @@ supports:
 - CLAIM-306
 - CLAIM-312
 ---
-<!-- inactive-ok-file: THEORY-374 — Proposed; a survey's report of unread work, cited as such -->
 
 # THEORY-341: Inferring not-P from failure to prove P is a deduction only under two separate conditions: Clark shows that when every branch of the search for a proof of P ends in failure, not-P is a theorem of the completed database, and a search that does not finish licenses nothing; Reiter's closed-world assumption, adding the negation of every ground atom the database does not entail, keeps a consistent Horn database consistent and can make a disjunctive one inconsistent
 
