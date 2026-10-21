@@ -22,7 +22,7 @@ date: '2026-10-20'
 source:
 - LIT-1246
 answers:
-- QUESTION-tmpc2db5
+- QUESTION-217
 summary: >-
   Coifman and Lafon (2006), [LIT-1246](../literature.d/LIT-1246.md), read in full in [NOTE-985](../notes.d/NOTE-985.md).
   The identity D_t² = Σ λ_l^{2t}(ψ_l(x) − ψ_l(y))² is exact. The paper's

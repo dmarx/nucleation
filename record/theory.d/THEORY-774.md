@@ -23,7 +23,7 @@ date: '2026-10-20'
 source:
 - LIT-1299
 answers:
-- QUESTION-tmpc2db5
+- QUESTION-217
 summary: >-
   Machta, Chachra, Transtrum and Sethna (2013), [LIT-1299](../literature.d/LIT-1299.md), supplement
   §III, read in [NOTE-1018](../notes.d/NOTE-1018.md). The eigenvalues grow for particle creation
