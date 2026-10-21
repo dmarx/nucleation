@@ -133,7 +133,7 @@ diversity.
 
 ## Bearing on the record
 
-- **CLAIM-tmpj163u.** A25 said this paper "comes particularly close to our
+- **[CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md).** A25 said this paper "comes particularly close to our
   conjunction of legibility and operational availability", and that a
   person may be able to evaluate information yet lack access to it. The
   skim supports that reading, with one change. The paper's split is
@@ -143,14 +143,14 @@ diversity.
   parallels the claim's ladder from the receiving side, and it does not
   use "legibility" or "uptake". It uses "visibility" twice, once of
   corrections that low engagement leaves unseen.
-- **TERM-tmp5lqn0.** "availability into access" and "access into knowledge
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** "availability into access" and "access into knowledge
   acquisition" are stages that the term's five-stage list (existence,
-  observability, legibility, standing, efficacy) and CLAIM-296's has,
+  observability, legibility, standing, efficacy) and [CLAIM-296](../claims.d/CLAIM-296.md)'s has,
   knows and can deploy would place. They are a third source with the same
   shape, on a skim.
 - **Transparency.** Its doubt about transparency duties agrees with A22's
   table row: disclosure does not guarantee understanding or usable access.
-- It is the receiving-side counterpart of Kwok (LIT-tmparpsh, Unavailable),
+- It is the receiving-side counterpart of Kwok ([LIT-tmparpsh](../literature.d/LIT-tmparpsh.md), Unavailable),
   who writes from the speaker's side about who gets visibility.
 
 Skimmed, so no claims table and no THEORY. No instruction for

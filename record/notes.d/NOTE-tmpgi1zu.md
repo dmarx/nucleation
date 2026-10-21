@@ -143,7 +143,7 @@ It does not cite Scott, Espeland, or the epistemic-injustice literature.
 
 ## Bearing on the record
 
-- **TERM-tmp5lqn0.** C2 is the term's directedness, argued from the
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** C2 is the term's directedness, argued from the
   governed side. "Society legible to an institution" is LinkNYC's access
   "down". Robo-debt shows transparency demanded of the observed and
   withheld by the observer. The paper adds that the two directions can be
@@ -154,7 +154,7 @@ It does not cite Scott, Espeland, or the epistemic-injustice literature.
   accurate: the paper asks whether one should be inside the regime at all.
   Its answer is not "never". It is that the choice to be inside should be
   open, and that it often is not.
-- **CLAIM-tmpj163u.** The paper supports the claim's first point from
+- **[CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md).** The paper supports the claim's first point from
   outside: admission to a system ("access and inclusion") can widen while
   nothing else changes. It adds what the claim does not say: admission can
   itself be the harm, by making people "more accurately identifiable".
@@ -162,13 +162,13 @@ It does not cite Scott, Espeland, or the epistemic-injustice literature.
   together with design justice's "the possibility to say no", sits near
   the claim's top rung, a part in governing the standards, but it is
   asserted rather than analysed.
-- **CLAIM-349** separates access, authority and action for an
+- **[CLAIM-349](../claims.d/CLAIM-349.md)** separates access, authority and action for an
   organization's own signals. C3 is the governed's version: being informed
   is not being able to act on it.
-- **CLAIM-348.** "horizontal neutrality ... treating everybody the same"
+- **[CLAIM-348](../claims.d/CLAIM-348.md).** "horizontal neutrality ... treating everybody the same"
   is the paper's form of a description adequate for administration that
   merges what members need told apart.
-- THEORY-tmpr3dxe holds C2.
+- [THEORY-tmpr3dxe](../theory.d/THEORY-tmpr3dxe.md) holds C2.
 
 No instruction for machine-learning practice; nothing for the anthology.
 
@@ -195,4 +195,4 @@ No instruction for machine-learning practice; nothing for the anthology.
   governed become, in practice, making the governed legible to the
   institution? The paper gives instances and no conditions.
 - What does refusal require of an institution's procedures, rather than
-  of its opponents? That would connect it to CLAIM-tmpj163u's top rung.
+  of its opponents? That would connect it to [CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md)'s top rung.

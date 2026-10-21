@@ -186,14 +186,14 @@ prophecy, follows Heimer (1985) in treating reactivity as a continuous
 variable, and sets itself beside Callon's and MacKenzie's performativity,
 which it declines as its frame because reactivity keeps the validity of
 knowledge central. Commensuration is from Espeland and Stevens (1998)
-(LIT-tmp70jgh, Unavailable here). Its accountability background is Power's
+([LIT-tmp70jgh](../literature.d/LIT-tmp70jgh.md), Unavailable here). Its accountability background is Power's
 audit society, Strathern's audit culture, Porter (1995) and Hacking's
 *Taming of Chance* (1990). It does not cite Hacking's interactive kinds or
-looping effect, or Scott (LIT-tmpb1r6m).
+looping effect, or Scott ([LIT-tmpb1r6m](../literature.d/LIT-tmpb1r6m.md)).
 
 ## Bearing on the record
 
-- **CLAIM-tmpeftzb.** The paper is an empirical instance of the claim's
+- **[CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md).** The paper is an empirical instance of the claim's
   mechanism, and stronger than its toy in one respect: the
   validity-raising channel is part of the definition of self-fulfilling
   prophecy here. A rank that predicts applicants' choices and reputation
@@ -203,37 +203,37 @@ looping effect, or Scott (LIT-tmpb1r6m).
   independent, which is the claim's point about contexts that share a
   category's use. The claim's "Espeland and Sauder's reactivity ... not
   read here" can now point to this reading. The join with Hacking's
-  interactive kinds (NOTE-769) is the record's: the paper does not make it.
-- **QUESTION-028.** Footnote 10 is a sociological statement of the
+  interactive kinds ([NOTE-769](NOTE-769.md)) is the record's: the paper does not make it.
+- **[QUESTION-028](../questions.d/QUESTION-028.md).** Footnote 10 is a sociological statement of the
   effect the question has to control for: a category's validity rises as
   constituencies use it. It is reported, not studied.
-- **CLAIM-342.** The reputation survey is a loop whose evidence passes
+- **[CLAIM-342](../claims.d/CLAIM-342.md).** The reputation survey is a loop whose evidence passes
   through the interpretation it tests: raters score schools by the rank
   the scores feed.
-- **CLAIM-tmpoxld9.** Its loop has an institutional instance here: the
+- **[CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md).** Its loop has an institutional instance here: the
   standing that brings resources, applicants and reputation is produced by
   having had them, with no continuing act of anyone's judgement needed
   ("It's a self-fulfilling nightmare", of the third tier). The paper does
   not show that the early differences were unmerited. It says they were
   "often largely a product of measurement noise", on Sauder and
   Lancaster's evidence.
-- **TERM-tmp5lqn0.** Commensuration is a legibility regime in the term's
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** Commensuration is a legibility regime in the term's
   sense. It makes schools legible to applicants, firms and universities by
   making most of what distinguishes them irrelevant: "the relations of
   relevancy and irrelevancy, visibility and invisibility, that are
   conferred." The access school and the University of New Mexico's Native
   American graduates are what the description adequate to the observers
-  merges, which is CLAIM-348. Its "invite recontextualization" (the
+  merges, which is [CLAIM-348](../claims.d/CLAIM-348.md). Its "invite recontextualization" (the
   rank reused as a hiring threshold) is a case of legibility to an observer
   the measure was not built for. That the observed pay (brochures,
   detectives, staff time) while others benefit fits A25's direction
   without being argued in the paper.
-- **CLAIM-081.** Simplification "often makes information seem more
+- **[CLAIM-081](../claims.d/CLAIM-081.md).** Simplification "often makes information seem more
   authoritative", after March and Simon: a ranking more legible and less
   informative than what it summarizes.
-- **LIT-tmpwbhro** (Perdomo et al., registered unread) gives the formal
+- **[LIT-tmpwbhro](../literature.d/LIT-tmpwbhro.md)** (Perdomo et al., registered unread) gives the formal
   counterpart. This paper has no model of when such a loop settles.
-- THEORY-tmpwpmt2 holds the case finding; THEORY-tmpnfh8u holds the
+- [THEORY-tmpwpmt2](../theory.d/THEORY-tmpwpmt2.md) holds the case finding; [THEORY-tmpnfh8u](../theory.d/THEORY-tmpnfh8u.md) holds the
   validity-raising loop, Proposed until its quantitative links are read.
 
 No instruction for machine-learning practice; nothing for the anthology.
@@ -270,5 +270,5 @@ No instruction for machine-learning practice; nothing for the anthology.
   schools? The paper gives the channels and no dynamics.
 - Is the validity a measure gains through conformity evidence of anything
   about the measured beyond the measure's influence? That is
-  CLAIM-tmpeftzb's question and is not this paper's.
+  [CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md)'s question and is not this paper's.
 - Coercion as a third mechanism is suggested and not developed.

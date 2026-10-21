@@ -1,7 +1,7 @@
 ---
 status: Unavailable
 status_note: >-
-  sought 2026-10-21 and no lawful full text reached, so it is not read and no NOTE is filed. Unpaywall and OpenAlex report it closed, with no repository location; Semantic Scholar's openAccessPdf is empty; CORE holds a metadata record with no full text. The Annual Reviews article page and PDF (annualreviews.org/doi/pdf/10.1146/annurev.soc.24.1.313) returned 403 to curl and to the WebFetch tool, so whether the publisher offers it free is unknown. A web search found no author-posted copy. Its account of commensuration is summarized secondhand in Espeland and Sauder (2007), read as NOTE-tmpxq56d, which cites it for that concept; that is not a reading of it. Failed on access as much as on availability: a reader with library access can clear it.
+  sought 2026-10-21 and no lawful full text reached, so it is not read and no NOTE is filed. Unpaywall and OpenAlex report it closed, with no repository location; Semantic Scholar's openAccessPdf is empty; CORE holds a metadata record with no full text. The Annual Reviews article page and PDF (annualreviews.org/doi/pdf/10.1146/annurev.soc.24.1.313) returned 403 to curl and to the WebFetch tool, so whether the publisher offers it free is unknown. A web search found no author-posted copy. Its account of commensuration is summarized secondhand in Espeland and Sauder (2007), read as [NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md), which cites it for that concept; that is not a reading of it. Failed on access as much as on availability: a reader with library access can clear it.
 title: 'Commensuration as a Social Process'
 version: 2
 history:

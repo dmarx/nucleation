@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  skimmed 2026-10-21 (NOTE-tmp4sv55): every section was covered, but through a fetch tool that returned section-by-section accounts with short quotes, not a verbatim copy, so the quotes are unchecked; the article is open access (CC BY) and the publisher refused direct fetches. Worth reading for its definition of epistemic welfare as the conditions and capabilities for epistemic agency in the public sphere, for its staging of capabilities (literacy turning availability into access, critical skills turning access into knowledge), and for Goldman's five standards applied to news recommenders. Read it knowing that it is a theory paper with no data, that it treats legacy media rather than platforms, and that a first-hand reading has not been made.
+  skimmed 2026-10-21 ([NOTE-tmp4sv55](../notes.d/NOTE-tmp4sv55.md)): every section was covered, but through a fetch tool that returned section-by-section accounts with short quotes, not a verbatim copy, so the quotes are unchecked; the article is open access (CC BY) and the publisher refused direct fetches. Worth reading for its definition of epistemic welfare as the conditions and capabilities for epistemic agency in the public sphere, for its staging of capabilities (literacy turning availability into access, critical skills turning access into knowledge), and for Goldman's five standards applied to news recommenders. Read it knowing that it is a theory paper with no data, that it treats legacy media rather than platforms, and that a first-hand reading has not been made.
 title: 'Epistemic welfare and algorithmic recommender systems: overcoming the epistemic crisis in the digitalized public sphere'
 version: 2
 history:
@@ -38,7 +38,7 @@ summary: >-
 
 Hyzen, A., Van den Bulck, H., Puppis, M., Kulig, M. & Paulussen, S. (2026). Epistemic welfare and algorithmic recommender systems: overcoming the epistemic crisis in the digitalized public sphere. *Communication Theory* 36(1): 46–57. doi:10.1093/ct/qtaf018.
 
-Skimmed 2026-10-21 (NOTE-tmp4sv55), through a fetch tool; quotes unchecked.
+Skimmed 2026-10-21 ([NOTE-tmp4sv55](../notes.d/NOTE-tmp4sv55.md)), through a fetch tool; quotes unchecked.
 
 ## Key takeaways
 

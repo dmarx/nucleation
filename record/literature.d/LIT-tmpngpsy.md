@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpxq56d) in full, from the copy in the Australian National University's Open Research repository (hdl 1885/30995), which carries the AJS pagination; worth reading for reactivity as an object of study rather than a nuisance, for a definition of self-fulfilling prophecy that includes reactions which raise a measure's validity by making the measured conform to it (THEORY-tmpnfh8u), for commensuration as simplification and decontextualization, and for its typology of effects, reallocation, redefinition of work and gaming (THEORY-tmpwpmt2). Read it knowing that it is an interview study of one ranking in one field, with no effect sizes and no counterfactual, that its quantitative links (rank to yield, past rank to reputation) are cited from other studies rather than shown, and that it offers its framework as an orienting heuristic, not a theory.
+  read 2026-10-21 ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)) in full, from the copy in the Australian National University's Open Research repository (hdl 1885/30995), which carries the AJS pagination; worth reading for reactivity as an object of study rather than a nuisance, for a definition of self-fulfilling prophecy that includes reactions which raise a measure's validity by making the measured conform to it ([THEORY-tmpnfh8u](../theory.d/THEORY-tmpnfh8u.md)), for commensuration as simplification and decontextualization, and for its typology of effects, reallocation, redefinition of work and gaming ([THEORY-tmpwpmt2](../theory.d/THEORY-tmpwpmt2.md)). Read it knowing that it is an interview study of one ranking in one field, with no effect sizes and no counterfactual, that its quantitative links (rank to yield, past rank to reputation) are cited from other studies rather than shown, and that it offers its framework as an orienting heuristic, not a theory.
 title: 'Rankings and Reactivity: How Public Measures Recreate Social Worlds'
 version: 2
 history:
@@ -37,7 +37,7 @@ summary: >-
 
 Espeland, W. N. & Sauder, M. (2007). Rankings and Reactivity: How Public Measures Recreate Social Worlds. *American Journal of Sociology* 113(1): 1–40. doi:10.1086/517897.
 
-Read 2026-10-21 in full (NOTE-tmpxq56d).
+Read 2026-10-21 in full ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)).
 
 ## Key takeaways
 
@@ -47,11 +47,11 @@ Read 2026-10-21 in full (NOTE-tmpxq56d).
 - **Two mechanisms.** The first is self-fulfilling prophecy, widened to
   reactions that "increase the validity of the measure by encouraging
   behavior that conforms to it". Some of it runs through the ranking's
-  own inputs (THEORY-tmpnfh8u). The second is commensuration, which
+  own inputs ([THEORY-tmpnfh8u](../theory.d/THEORY-tmpnfh8u.md)). The second is commensuration, which
   simplifies, decontextualizes and puts every school in one precise
   relation to every other.
 - **Three effects.** Reallocation of resources, redefinition of work,
-  and gaming (THEORY-tmpwpmt2).
+  and gaming ([THEORY-tmpwpmt2](../theory.d/THEORY-tmpwpmt2.md)).
 
 ## Why this is here
 

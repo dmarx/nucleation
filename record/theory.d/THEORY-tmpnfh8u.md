@@ -31,7 +31,7 @@ date: '2026-10-21'
 source:
 - LIT-tmpngpsy
 summary: >-
-  Espeland and Sauder (2007), LIT-tmpngpsy, read in NOTE-tmpxq56d. The
+  Espeland and Sauder (2007), [LIT-tmpngpsy](../literature.d/LIT-tmpngpsy.md), read in [NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md). The
   paper defines self-fulfilling prophecy so that it covers reactions that
   "increase the validity of the measure by encouraging behavior that
   conforms to it", and points to two channels that close through the
@@ -45,7 +45,7 @@ summary: >-
 
 ## Source
 
-Espeland, W. N. & Sauder, M. (2007), LIT-tmpngpsy, read in NOTE-tmpxq56d.
+Espeland, W. N. & Sauder, M. (2007), [LIT-tmpngpsy](../literature.d/LIT-tmpngpsy.md), read in [NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md).
 
 ## What was actually shown
 
@@ -86,7 +86,7 @@ The channels named, with the evidence the paper gives:
 - **Not a model of the dynamics.** Nothing says when the loop amplifies a
   small difference and when it damps one. The cross-admit example is one
   pair of schools.
-- **Not, by itself, an argument about kinds.** CLAIM-tmpeftzb's condition
+- **Not, by itself, an argument about kinds.** [CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md)'s condition
   (the evidence for a category must not pass through the category's use)
   is what this channel would violate. Showing that it does so in a given
   case needs the identification that promote_when asks for.

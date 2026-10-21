@@ -28,8 +28,8 @@ date: '2026-10-21'
 source:
 - LIT-tmpzs7e2
 summary: >-
-  James, Hynes, Whelan, Dreher and Humphry (2023), LIT-tmpzs7e2, read in
-  NOTE-tmpgi1zu. "Access is however bidirectional, and access 'down' for
+  James, Hynes, Whelan, Dreher and Humphry (2023), [LIT-tmpzs7e2](../literature.d/LIT-tmpzs7e2.md), read in
+  [NOTE-tmpgi1zu](../notes.d/NOTE-tmpgi1zu.md). "Access is however bidirectional, and access 'down' for
   powerful players is politically consequential"; under Robo-debt
   transparency "was arguably demanded of welfare recipients". The paper
   does not show that such remedies usually backfire, or say when they
@@ -42,7 +42,7 @@ summary: >-
 ## Source
 
 James, A., Hynes, D., Whelan, A., Dreher, T. & Humphry, J. (2023),
-LIT-tmpzs7e2, read in NOTE-tmpgi1zu.
+[LIT-tmpzs7e2](../literature.d/LIT-tmpzs7e2.md), read in [NOTE-tmpgi1zu](../notes.d/NOTE-tmpgi1zu.md).
 
 ## What was actually shown
 
@@ -74,4 +74,4 @@ An argument with illustrations:
   says such remedies are insufficient and open to reversal. Its
   recommendation is refusal, not opacity.
 - **Not a measurement of legibility.** Neither direction is quantified.
-  The connection to TERM-tmp5lqn0's directed relation is the record's.
+  The connection to [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md)'s directed relation is the record's.

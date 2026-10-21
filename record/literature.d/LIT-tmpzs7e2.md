@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpgi1zu) in full, from the publisher's open-access PDF; worth reading for its sorting of responses to algorithmic governance into access and inclusion, transparency, and refusal, and for the point that access and transparency are bidirectional, inclusion giving the powerful access to the included and transparency being demanded of the governed (THEORY-tmpr3dxe). Read it knowing that it is a conceptual argument with illustrative cases, mostly Australian, that it shows no comparison of outcomes between the responses, and that it favours refusal on argument rather than evidence.
+  read 2026-10-21 ([NOTE-tmpgi1zu](../notes.d/NOTE-tmpgi1zu.md)) in full, from the publisher's open-access PDF; worth reading for its sorting of responses to algorithmic governance into access and inclusion, transparency, and refusal, and for the point that access and transparency are bidirectional, inclusion giving the powerful access to the included and transparency being demanded of the governed ([THEORY-tmpr3dxe](../theory.d/THEORY-tmpr3dxe.md)). Read it knowing that it is a conceptual argument with illustrative cases, mostly Australian, that it shows no comparison of outcomes between the responses, and that it favours refusal on argument rather than evidence.
 title: 'From access and transparency to refusal: Three responses to algorithmic governance'
 version: 2
 history:
@@ -37,7 +37,7 @@ summary: >-
 
 James, A., Hynes, D., Whelan, A., Dreher, T. & Humphry, J. (2023). From access and transparency to refusal: Three responses to algorithmic governance. *Internet Policy Review* 12(2). doi:10.14763/2023.2.1691.
 
-Read 2026-10-21 in full (NOTE-tmpgi1zu).
+Read 2026-10-21 in full ([NOTE-tmpgi1zu](../notes.d/NOTE-tmpgi1zu.md)).
 
 ## Key takeaways
 
@@ -45,7 +45,7 @@ Read 2026-10-21 in full (NOTE-tmpgi1zu).
   presented as "a dialogue rather than a chronology".
 - **Bidirectional.** "Access is however bidirectional, and access 'down'
   for powerful players is politically consequential". Under Robo-debt,
-  transparency was demanded of welfare recipients (THEORY-tmpr3dxe).
+  transparency was demanded of welfare recipients ([THEORY-tmpr3dxe](../theory.d/THEORY-tmpr3dxe.md)).
 - **Refusal** is collective and "not reducible to voluntaristic forms of
   exit". It is also weakest where people depend on government.
 

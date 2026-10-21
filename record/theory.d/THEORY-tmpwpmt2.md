@@ -19,7 +19,7 @@ date: '2026-10-21'
 source:
 - LIT-tmpngpsy
 summary: >-
-  Espeland and Sauder (2007), LIT-tmpngpsy, read in NOTE-tmpxq56d. 136
+  Espeland and Sauder (2007), [LIT-tmpngpsy](../literature.d/LIT-tmpngpsy.md), read in [NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md). 136
   open-ended interviews from 70 of about 190 US law schools, with
   corroborating data, sorted the responses to the USN ranking into
   reallocation, redefinition of work and gaming. It shows that the
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Espeland, W. N. & Sauder, M. (2007), LIT-tmpngpsy, read in NOTE-tmpxq56d.
+Espeland, W. N. & Sauder, M. (2007), [LIT-tmpngpsy](../literature.d/LIT-tmpngpsy.md), read in [NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md).
 
 ## What was actually shown
 
@@ -77,13 +77,13 @@ at first, before "angry students and alumni" taught them otherwise.
   ranking is the respondents' account and the authors' inference.
 - **Not that the ranking raised its own validity.** That is the paper's
   self-fulfilling-prophecy argument. Its quantitative links are cited, not
-  shown, and it is held separately in THEORY-tmpnfh8u, Proposed.
+  shown, and it is held separately in [THEORY-tmpnfh8u](THEORY-tmpnfh8u.md), Proposed.
 - **Not other measures or fields.** The authors chose the case because USN
   has no rival in law and ranks every school. Business schools, which face
   several rankings, are said to be affected differently.
 - **Not that reactivity is harmful in general.** The authors note what the
   few supporters praised (more information for consumers, more disclosure)
   and call their own account one of "mostly harmful effects" in this case.
-- **Not a test of any account of kinds.** CLAIM-tmpeftzb can cite this as an
+- **Not a test of any account of kinds.** [CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md) can cite this as an
   instance of a measure acted on by the measured. The case does not show
   that the ranking tracks nothing independent of its use.
