@@ -1,19 +1,24 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  read 2026-10-21 (NOTE-tmpgi1zu) in full, from the publisher's open-access PDF; worth reading for its sorting of responses to algorithmic governance into access and inclusion, transparency, and refusal, and for the point that access and transparency are bidirectional, inclusion giving the powerful access to the included and transparency being demanded of the governed (THEORY-tmpr3dxe). Read it knowing that it is a conceptual argument with illustrative cases, mostly Australian, that it shows no comparison of outcomes between the responses, and that it favours refusal on argument rather than evidence.
 title: 'From access and transparency to refusal: Three responses to algorithmic governance'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is Crossref's date, 17 May 2023, per ADR-002. The exchange's citation was right.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmpgi1zu), from the publisher's open-access PDF (CC BY 3.0 DE). Status Deferred → Active. The open-copy URL is added. The summary is checked against the reading and sharpened: the paper argues that access and transparency rest on public-administration values that reproduce existing structures, calls both bidirectional, and holds refusal more promising. THEORY-tmpr3dxe (Proposed) is filed from it.
 tags:
 - society-and-governance
 date: '2026-10-21'
 published: '2023-05-17'
 doi: '10.14763/2023.2.1691'
+url: 'https://policyreview.info/pdf/policyreview-2023-2-1691.pdf'
 first_author: 'James'
 keywords:
 - 'algorithmic governance'
@@ -23,16 +28,26 @@ keywords:
 - 'automated decision-making'
 implementations: []
 summary: >-
-  James, Hynes, Whelan, Dreher & Humphry (2023). Critically examines three responses to the harms of algorithmic governance, access and inclusion, transparency, and refusal, and asks how each can address those harms; argues that affected people's responses cannot be reduced to demands for disclosure or access, and that refusal can be politically significant.
+  James, Hynes, Whelan, Dreher & Humphry (2023). Sorts responses to the harms of algorithmic governance into access and inclusion, transparency, and refusal. Argues that the first two rest on public-administration values that reproduce existing structures, and that both are bidirectional: inclusion gives the powerful access to the included, and transparency can be demanded of the governed. Refusal, collective and generative rather than individual exit, is held more promising, though least available to those who depend on the state.
 ---
+<!-- inactive-ok-file: THEORY-tmpr3dxe — Proposed; the account filed from this reading, named as filed -->
 <!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 <!-- inactive-ok-file: CLAIM-tmpj163u — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmpzs7e2: From access and transparency to refusal: Three responses to algorithmic governance
 
 James, A., Hynes, D., Whelan, A., Dreher, T. & Humphry, J. (2023). From access and transparency to refusal: Three responses to algorithmic governance. *Internet Policy Review* 12(2). doi:10.14763/2023.2.1691.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read 2026-10-21 in full (NOTE-tmpgi1zu).
+
+## Key takeaways
+
+- **Three responses.** Access and inclusion, transparency, and refusal,
+  presented as "a dialogue rather than a chronology".
+- **Bidirectional.** "Access is however bidirectional, and access 'down'
+  for powerful players is politically consequential". Under Robo-debt,
+  transparency was demanded of welfare recipients (THEORY-tmpr3dxe).
+- **Refusal** is collective and "not reducible to voluntaristic forms of
+  exit". It is also weakest where people depend on government.
 
 ## Why this is here
 

@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  sought 2026-10-21 and no lawful full text reached, so it is not read and no NOTE is filed. Unpaywall, OpenAlex and Semantic Scholar report it closed; Crossref lists SAGE's text-mining licence only, with no open-access licence, and carries the abstract, which agrees with the summary. The SAGE article page and PDF (journals.sagepub.com/doi/10.1177/29777984261494012) returned 403 to curl and to the WebFetch tool. A web search for the title found no preprint or author copy. Online first ten days before this search, so a repository copy may appear.
 title: 'Algorithmic Empowerment: The Fair Allocation of Visibility in Platformized Publics'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is Crossref's online date, 11 October 2026, per ADR-002, ten days before filing. The exchange's citation was right, including the date.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, after a search for a lawful full text on 2026-10-21: Unpaywall, OpenAlex, Semantic Scholar, Crossref, SAGE (403) and a web search. The summary was checked against Crossref's abstract and kept. The places tried are in status_note.
 tags:
 - epistemology
 - ethics

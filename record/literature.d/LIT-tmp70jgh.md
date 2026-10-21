@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  sought 2026-10-21 and no lawful full text reached, so it is not read and no NOTE is filed. Unpaywall and OpenAlex report it closed, with no repository location; Semantic Scholar's openAccessPdf is empty; CORE holds a metadata record with no full text. The Annual Reviews article page and PDF (annualreviews.org/doi/pdf/10.1146/annurev.soc.24.1.313) returned 403 to curl and to the WebFetch tool, so whether the publisher offers it free is unknown. A web search found no author-posted copy. Its account of commensuration is summarized secondhand in Espeland and Sauder (2007), read as NOTE-tmpxq56d, which cites it for that concept; that is not a reading of it. Failed on access as much as on availability: a reader with library access can clear it.
 title: 'Commensuration as a Social Process'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is the first of Crossref's month, August 1998, per ADR-002. A22 gave it by title and Annual Reviews URL; the citation was right.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, after a search for a lawful full text on 2026-10-21: Unpaywall, OpenAlex, Semantic Scholar, CORE, the Annual Reviews site (403) and a web search. The places tried are in status_note.
 tags:
 - social-science
 date: '2026-10-21'
