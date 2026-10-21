@@ -3,8 +3,16 @@ number: 222
 status: Open
 formerly:
 - QUESTION-tmpxapb2
-title: 'When a coarse variable''s reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation with controlled prediction error, and is a level whose history, not its present state, does the predicting still a level?'
-version: 1
+title: 'Beyond the scalar linear Gaussian case, when a coarse variable''s reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049. The scalar linear Gaussian VAR(1) case is
+    QUESTION-tmphwjsk, Answered by CLAIM-398. The title gains "Beyond the
+    scalar linear Gaussian case" and asks for error bounded in terms of
+    the eliminated dynamics.
 tags:
 - complex-systems
 - mathematics
@@ -26,15 +34,16 @@ answered_by:
 - THEORY-762
 - THEORY-773
 - THEORY-818
-- CLAIM-398
 - THEORY-819
 - CLAIM-397
+refined_by:
+- QUESTION-tmphwjsk
 ---
 <!-- inactive-ok-file: NOTE-1029 — new reading, cited as where CLAIM-397 was derived -->
 <!-- inactive-ok-file: THEORY-818 — Proposed; the Lorenz 96 finding, cited as partial -->
 <!-- inactive-ok-file: LIT-1245 LIT-1251 LIT-1253 LIT-1259 — Deferred; works registered unread, cited as open, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-327 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
-# QUESTION-222: When a coarse variable's reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation with controlled prediction error, and is a level whose history, not its present state, does the predicting still a level?
+# QUESTION-222: Beyond the scalar linear Gaussian case, when a coarse variable's reduced dynamics carry memory of the eliminated variables, does it admit a finite-dimensional Markovian augmentation whose prediction error is bounded in terms of the eliminated dynamics, and is a level whose history, not its present state, does the predicting still a level?
 
 ## Why it is a question
 
@@ -143,3 +152,9 @@ whether the record's level criteria should be applied to the augmented
 state or to the instantaneous one. A5's own limit: this is "a candidate
 theoretical extension, not a result already established for social or
 cognitive systems."
+
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The scalar linear Gaussian VAR(1) case
+is [QUESTION-tmphwjsk](QUESTION-tmphwjsk.md), Answered by [CLAIM-398](../claims.d/CLAIM-398.md): an exact finite
+augmentation from Y's own history. This question keeps nonlinear and
+noisy classes, vector coarse variables, error in terms of the eliminated
+spectrum, and the ruling on levels.
