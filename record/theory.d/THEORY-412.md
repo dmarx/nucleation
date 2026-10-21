@@ -25,7 +25,7 @@ history:
   note: >-
     The promotion audit (batch 077, ADR-040) split off the exact part.
     Eq. (8) and its equal-terms corollary, re-derived under uniform
-    starting densities, are now THEORY-tmp3kgjq, Active. This entry keeps
+    starting densities, are now THEORY-831, Active. This entry keeps
     the thesis that driven matter tends toward adapted states, its
     promote_when unchanged, and extends that one. It stays Proposed.
 tags:
@@ -49,7 +49,7 @@ summary: >-
   claim too weak to source a THEORY; it is filed as Proposed for that
   reason. "Adapted" here means absorbing the drive's work, nothing more.
 extends:
-- THEORY-tmp3kgjq
+- THEORY-831
 ---
 
 <!-- inactive-ok-file: THEORY-072 THEORY-532 THEORY-671 — Proposed; named as accounts this one is contrasted with, not leaned on -->
@@ -74,7 +74,7 @@ weakness stated. It does not dispute that judgement.
 The identity this account starts from, Eq. (8), and the conditional in
 its title (with the entropy and reversal terms equal, the likelier
 outcome releases more heat with less variation) are re-derived and filed
-as [THEORY-tmp3kgjq](THEORY-tmp3kgjq.md), Active. What remains here is the thesis that real
+as [THEORY-831](THEORY-831.md), Active. What remains here is the thesis that real
 driven many-body systems have outcomes for which those terms can be held
 equal, so that the dissipation term decides and the favoured states look
 adapted to the drive.

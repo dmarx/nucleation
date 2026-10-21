@@ -17,7 +17,7 @@ history:
     states the probability model the derivation needs (independent
     orderings, at least m − 1 uniformly random) and drops the lower bound
     for strict combining functions, which the review did not re-derive.
-    That lower bound is carried by THEORY-tmpylmuq, Proposed, which
+    That lower bound is carried by THEORY-832, Proposed, which
     extends this entry and inherits the promote_when.
 tags:
 - databases
@@ -36,10 +36,10 @@ summary: >-
   √(Nk). It does not hold for anti-correlated attributes, where any
   algorithm can need about half the objects.
 extended_by:
-- THEORY-tmpylmuq
+- THEORY-832
 ---
 <!-- inactive-ok-file: LIT-1108 — Unavailable or unread; the source of the bound, cited as reported by LIT-1115 -->
-<!-- inactive-ok-file: THEORY-tmpylmuq — Proposed; the lower bound this entry dropped when it was narrowed, open -->
+<!-- inactive-ok-file: THEORY-832 — Proposed; the lower bound this entry dropped when it was narrowed, open -->
 
 # THEORY-379: Fagin's Algorithm finds the top k of N objects held in m attribute-sorted lists under any monotone combining function, and when the lists' orderings are independent with at least m − 1 of them uniformly random it does so with O(N^((m−1)/m) k^(1/m)) sorted and random accesses with arbitrarily high probability; with dependent orderings the bound can fail
 
@@ -81,7 +81,7 @@ keeps.
   distributed: what the bound needs is uniformly random orderings.
 
 The lower bound for strict combining functions, which this entry used to
-state, was not re-derived. It is now [THEORY-tmpylmuq](THEORY-tmpylmuq.md).
+state, was not re-derived. It is now [THEORY-832](THEORY-832.md).
 
 ## What was actually shown
 

@@ -1,5 +1,8 @@
 ---
+number: 831
 status: Active
+formerly:
+- THEORY-tmp3kgjq
 title: "For a system driven by a protocol fixed in advance, with microscopic reversibility and with forward and reverse processes started uniformly on their macrostates, the log-odds of two outcomes II and III reached from I equal the difference in their log state counts, plus the log-ratio of their reversal probabilities, plus the difference in minus the log mean of e^(−βQ) over the paths reaching each, where Q is the heat released; so when the first two terms are equal the likelier outcome is the one whose paths release more heat on average with less variation"
 version: 1
 history:
@@ -33,7 +36,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-412 THEORY-671 THEORY-673 — Proposed; the account this one is split from, the maximum-entropy-production contrast, and the earlier split it follows -->
 
-# THEORY-tmp3kgjq: For a system driven by a protocol fixed in advance, with microscopic reversibility and with forward and reverse processes started uniformly on their macrostates, the log-odds of two outcomes II and III reached from I equal the difference in their log state counts, plus the log-ratio of their reversal probabilities, plus the difference in minus the log mean of e^(−βQ) over the paths reaching each, where Q is the heat released; so when the first two terms are equal the likelier outcome is the one whose paths release more heat on average with less variation
+# THEORY-831: For a system driven by a protocol fixed in advance, with microscopic reversibility and with forward and reverse processes started uniformly on their macrostates, the log-odds of two outcomes II and III reached from I equal the difference in their log state counts, plus the log-ratio of their reversal probabilities, plus the difference in minus the log mean of e^(−βQ) over the paths reaching each, where Q is the heat released; so when the first two terms are equal the likelier outcome is the one whose paths release more heat on average with less variation
 
 ## Source
 

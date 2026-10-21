@@ -1,5 +1,8 @@
 ---
+number: 832
 status: Proposed
+formerly:
+- THEORY-tmpylmuq
 promote_when: >-
   A reading of Fagin's own proof (LIT-1108, the PODS 1996 paper or its
   JCSS 1999 journal version), or a checked step-by-step re-derivation,
@@ -44,7 +47,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-1108 — Unavailable; the source of the bound, cited as reported by LIT-1115 -->
 
-# THEORY-tmpylmuq: For strict combining functions and m attribute-sorted lists of N objects whose orderings are probabilistically independent, no correct top-k algorithm does essentially better than Fagin's Algorithm in the worst case with high probability: every one needs on the order of N^((m−1)/m) k^(1/m) accesses
+# THEORY-832: For strict combining functions and m attribute-sorted lists of N objects whose orderings are probabilistically independent, no correct top-k algorithm does essentially better than Fagin's Algorithm in the worst case with high probability: every one needs on the order of N^((m−1)/m) k^(1/m) accesses
 
 ## Source
 

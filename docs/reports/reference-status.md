@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**480 documents cited without acknowledgement.** Not listed: 10214 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**479 documents cited without acknowledgement.** Not listed: 10225 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2188,7 +2188,7 @@ Moral judgment draws on several innately prepared intuitive foundations, at leas
 
 The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
 
-6 citations in 2 files await a look; 2 other citations of it are acknowledged.
+6 citations in 2 files await a look; 3 other citations of it are acknowledged.
 
 - [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
 - [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
@@ -3933,7 +3933,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 Combining Fuzzy Information from Multiple Systems
 
-2 citations in 2 files await a look; 4 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
 - [`record/questions.d/QUESTION-114.md:358`](../../record/questions.d/QUESTION-114.md)
@@ -4576,15 +4576,6 @@ In one simulator evicting whole query-shaped cache regions, no replacement value
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
 - [`record/questions.d/QUESTION-114.md:345`](../../record/questions.d/QUESTION-114.md)
-
-### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
-
-When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed
-
-2 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-361.md:84`](../../record/theory.d/THEORY-361.md)
-- [`record/theory.d/THEORY-363.md:104`](../../record/theory.d/THEORY-363.md)
 
 ### [THEORY-383](../../record/theory.d/THEORY-383.md) — Proposed
 
