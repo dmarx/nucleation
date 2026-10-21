@@ -1,0 +1,30 @@
+id: THEORY-173
+batch: batch-077
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: false
+hand_label: argument (classification by analogy)
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand: Farrell, Gopnik, Shalizi and Evans (LIT-848, NOTE-649)
+    classify large models as a cultural and social technology and deny
+    them agency, by analogy with print, markets and bureaucracies. The
+    entry's own body says "nothing was tested". The one mechanism, that a
+    likelihood fit is least accurate on rare cases, follows from the
+    training objective; its cultural consequence is not shown.
+  not_accepted: >-
+    The classification and the denial of agency. Its promote_when needs
+    a stated criterion separating agent from technology, applied, and
+    evidence that routing production through such models narrows output;
+    THEORY-226 is partial evidence on one topic only.
+dropped_clauses: []
+blockers:
+  - "A criterion separating agents from cultural technologies, applied to current models, and a measured narrowing of produced distributions (its promote_when)."
+recommended_change: Retain Proposed; wave 5 only if a criterion or a dispersion measurement enters the record.
+owner_questions: []

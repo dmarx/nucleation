@@ -1,0 +1,34 @@
+id: THEORY-429
+batch: batch-077
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: false
+hand_label: argument (a definition plus a causal account of growth and path dependence)
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand: North's essay (LIT-489, read in full in NOTE-392)
+    gives a definition ("institutions are the humanly devised
+    constraints"), then a causal account: institutions with technology fix
+    transaction costs, organisations exploit them, growth follows a
+    framework that rewards productive activity, and increasing returns
+    make frameworks path dependent. The classifier's theorem signal came
+    from the definitional opening and the "so that" chain. Nothing is
+    modelled or measured; the support is illustrative economic history.
+  not_accepted: >-
+    Every causal clause. The essay states them and illustrates them with
+    narrative history, which its own promote_when rules out as settling
+    them.
+dropped_clauses: []
+blockers:
+  - "Comparative evidence in which measured institutional differences precede and predict growth divergence that persists through lock-in (its promote_when); an argument cannot supply it."
+recommended_change: >-
+  Retain Proposed. Wave 5 only if its promote_when, premises or rivals
+  change. The definition alone is not worth a split: it is a stipulation,
+  not a result.
+owner_questions: []
