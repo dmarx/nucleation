@@ -31,6 +31,8 @@ used_by:
 - CLAIM-174
 - CLAIM-157
 - CLAIM-167
+rivals:
+- TERM-tmp3p5ss
 ---
 <!-- inactive-ok-file: CLAIM-104 — Deferred; the authenticity line's claim, cited for how it already makes agency level-relative, not leaned on -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the criteria this term is defined by, open -->

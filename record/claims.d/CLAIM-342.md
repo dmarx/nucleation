@@ -47,6 +47,9 @@ summary: >-
   locks in with action available, because its own sampling policy
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
+supports:
+- CLAIM-tmpeftzb
+- CLAIM-tmpjo2zr
 ---
 
 # CLAIM-342: What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available

@@ -34,6 +34,8 @@ summary: >-
   it (ETMG) is unread.
 answers:
 - QUESTION-028
+supports:
+- CLAIM-tmpeftzb
 ---
 
 # THEORY-036: Dennett's real-pattern criterion, compressibility against the bit map, admits almost every non-random pattern; the projectibility, perspective and scale-relativity that rainforest realism needs are later additions that do the ontological work

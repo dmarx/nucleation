@@ -14,6 +14,7 @@ date: '2026-10-18'
 line: distributed-agency
 supports:
 - CLAIM-348
+- CLAIM-tmpoxkub
 summary: >-
   A22's Construction C of the exchange of 2026-10-17, "Institutional
   performance versus constituent capability", which A22 proposed and did

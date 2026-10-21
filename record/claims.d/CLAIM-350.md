@@ -31,6 +31,7 @@ summary: >-
   causal versions are recorded in the body, not claimed.
 supports:
 - CLAIM-348
+- CLAIM-tmppi0xf
 ---
 
 # CLAIM-350: A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged

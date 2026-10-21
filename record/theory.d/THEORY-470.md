@@ -32,6 +32,8 @@ summary: >-
   with no counterfactual; most figures are unsourced, and the text
   misstates the court in United States v. Google and the legal form of the
   EU Digital Markets Act.
+supports:
+- CLAIM-tmpyxupb
 ---
 
 # THEORY-470: Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored

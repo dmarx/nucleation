@@ -49,6 +49,8 @@ summary: >-
   sharp edge: it is the constitutive half only.
   That the standards themselves can be objectively better or worse is
   not claimed.
+complements:
+- CLAIM-tmpoxkub
 ---
 
 # CLAIM-363: A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false

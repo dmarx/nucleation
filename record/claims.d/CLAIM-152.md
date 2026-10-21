@@ -60,6 +60,8 @@ supports:
 - CLAIM-348
 - CLAIM-363
 - CLAIM-367
+- CLAIM-tmpcrdhj
+- CLAIM-tmpoxkub
 grounds:
 - THEORY-194
 - THEORY-202

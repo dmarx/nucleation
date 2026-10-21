@@ -20,6 +20,8 @@ summary: >-
   A protective regime that, by reorganizing ordinary activity, generates
   the conditions that justify its own continuation and reduces the
   capacity to leave it (Section 6.1).
+complements:
+- TERM-tmpe6jtq
 ---
 
 # TERM-020: protective lock-in

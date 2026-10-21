@@ -24,6 +24,8 @@ summary: >-
   record's [TERM-053](../terms.d/TERM-053.md) sense, so h is called a higher-order volition. It
   models authority between regimes; it does not revive will as an
   attractor ([TERM-003](../terms.d/TERM-003.md), Superseded). Fictional by construction.
+supports:
+- CLAIM-tmpptl3y
 ---
 
 # CASE-112: Bistable authority with a tilt: in ẇ = μw − w³ + h, with w the balance of authority between two regimes and h a higher-order volition favouring one, for μ > 0 the operative regime changes only when |h| passes 2μ^{3/2}/(3√3), so a sincere and efficacious higher-order volition can move the balance without moving the regime, and which regime operates depends on the path of h

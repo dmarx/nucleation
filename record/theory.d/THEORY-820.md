@@ -31,6 +31,10 @@ answers:
 - QUESTION-218
 summary: >-
   Rosas et al. (arXiv 2024), [LIT-1306](../literature.d/LIT-1306.md), read in [NOTE-1030](../notes.d/NOTE-1030.md), with Barnett and Seth's definition ([LIT-979](../literature.d/LIT-979.md)). For discrete stationary processes, the information-theoretic criterion of emergent closure (dynamical independence), the interventionist one (the macro's own causal states are all the micro distinctions that matter for it) and, for maps of the present state, a computational one are nested as stated. The first two are one condition. It says nothing about approximate closure. It does not make closure a mark of unity. "Causal" is only in the Granger sense unless X is fully observed.
+supports:
+- CLAIM-tmpoxkub
+- CLAIM-tmppi0xf
+- CLAIM-tmpshzxc
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the interpretive reading of dynamical independence this bears on, cited as open -->
 # THEORY-820: For a stationary discrete-valued process X and any coarse-graining Z of its past, informational closure at every horizon is the same condition as zero one-step transfer entropy from the micro past, Barnett and Seth's dynamical independence, and as causal closure, Z's ε-machine coinciding with its υ-machine; for a coarse-graining of the present state it also makes Z's causal states a coarse-graining of X's, which does not imply closure, and the closed coarse-grainings are not closed under common refinement

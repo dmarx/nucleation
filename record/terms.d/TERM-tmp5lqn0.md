@@ -1,0 +1,137 @@
+---
+status: Proposed
+complements:
+- TERM-055
+- TERM-034
+title: 'legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer''s rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations'
+version: 1
+tags:
+- epistemology
+- information-theory
+- society-and-governance
+date: '2026-10-21'
+line: distributed-agency
+summary: >-
+  The owner's, U22 of the exchange of 2026-10-20: "a theme we seem to be
+  touching on that I'm not sure is laid out clearly in our current account
+  is the role of legibility". A22 defined it and proposed three TERMs; one
+  is filed, with the regime and the direction in its body. Its formal core
+  is [CLAIM-199](../claims.d/CLAIM-199.md)'s usable information. [CLAIM-081](../claims.d/CLAIM-081.md) holds the record's earlier
+  use. Proposed: recorded, not adopted. It recurs through A23 to A27.
+used_by:
+- CLAIM-tmpjo2zr
+---
+<!-- inactive-ok-file: CLAIM-081 CLAIM-199 CLAIM-296 CLAIM-338 CLAIM-342 CLAIM-348 CLAIM-349 CLAIM-tmpjo2zr — Proposed; open claims that bear on or use the term, cited as open -->
+
+# TERM-tmp5lqn0: legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer's rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations
+
+## Definition
+
+The owner, at U22, quoting A21 ("influencing not just which positions
+citizens or officials adopt, but which questions are regarded as
+important, which evidence is considered credible, which actors are
+recognized as authoritative, and which alternatives appear politically
+available"): "a theme we seem to be touching on that I'm not sure is laid
+out clearly in our current account is the role of legibility". A22:
+"**Legibility concerns which distinctions an observer or governing
+organization can recognize, interpret, and bring to bear on its decisions
+under the conditions in which it actually operates.**"
+
+**The formal core is [CLAIM-199](../claims.d/CLAIM-199.md)'s.** "a given receiver's access is usable
+information relative to the rules it can apply, which a garbling can raise
+for that receiver but never above what the source makes possible." Its
+example, which A22 §2 used: with X = (X₁, X₂) fair and independent and
+Z = X₁ ⊕ X₂, a receiver that reads one coordinate gets Z with accuracy
+1/2 from X and exactly from the rendering V = X₁ ⊕ X₂ (rechecked). A22:
+"legibility need not be monotone in informational refinement for bounded
+observers, although ideal information sufficiency remains monotone for a
+fixed target." [CLAIM-199](../claims.d/CLAIM-199.md)'s ceiling is the bound in the title.
+
+**One operationalization.** A22 §2 gave a task-relative score,
+
+  L_{o,𝒬,B}(T) = −inf_{π∈Π_{o,B}} E[ℓ_𝒬(J, π(T(X)))],
+
+for observer o, task family 𝒬, resources B and permitted procedures
+Π_{o,B}. It is [CLAIM-199](../claims.d/CLAIM-199.md)'s "best risk over the rules in a class the
+receiver can apply" with the sign turned, and A22 called it "one
+**operationalization** of legibility, not an exhaustive philosophical
+definition", with a caution that belongs to the term: "the loss function
+and task family must be specified independently; otherwise whoever
+controls the scoring criterion also controls what counts as legible." The
+usable-information literature is not held ([CLAIM-199](../claims.d/CLAIM-199.md)).
+
+**The regime.** A22 §4's "legibility regime" ("Attention, categories,
+representation, available evidence, interpretive resources") is the
+maintained arrangement that fixes Π_{o,B} for an organization. A22
+proposed it as a TERM of its own. It is filed here as what the observer's
+rule class is, for an institution.
+
+**The direction.** A22 §3 and §7: "Society legible to an institution"
+("Who can be classified, monitored, taxed, served, regulated, or
+sanctioned?") against "Institution legible to society" ("Who made a
+decision, on what evidence, through which authority, and how can it be
+challenged?"). "The two can vary independently." A22's "governance
+legibility" is the second direction. It is the same relation with observer
+and observed exchanged, not a further concept.
+
+**Stages.** A22 §1's five, existence, observability, legibility, standing
+and practical efficacy, extend two the record holds: [CLAIM-296](../claims.d/CLAIM-296.md)'s has,
+knows and can deploy, and [CLAIM-349](../claims.d/CLAIM-349.md)'s access, authority and action. This
+term is the third of the five.
+
+**Where the record already used the word.** [CLAIM-081](../claims.d/CLAIM-081.md): "a message can
+become more legible while becoming less informative about what originally
+happened"; [CLAIM-270](../claims.d/CLAIM-270.md) is that claim's general content, filed after it.
+[CLAIM-225](../claims.d/CLAIM-225.md): "[CLAIM-081](../claims.d/CLAIM-081.md)'s legibility is not a task in the manuscript's
+family Q". [NOTE-649](../notes.d/NOTE-649.md) names Scott's legibility, by way of Farrell et al.
+([LIT-848](../literature.d/LIT-848.md)), and finds "nothing new is added" to it there. Scott's *Seeing
+Like a State*, which A22 and A25 lean on, is not held.
+
+## What it is not
+
+A22 §8's table:
+
+| Not equivalent to | Reason |
+|---|---|
+| Truth | A false interpretation can be readily understood |
+| Information preservation | A lossy representation may be easier for a bounded observer to use |
+| Observability | A signal can be detected without its significance being understood |
+| Salience | Something prominent may remain unintelligible |
+| Credibility | An understandable assertion need not be believed |
+| Practical authority | A recognized concern may still lack influence |
+| Transparency | Disclosure does not guarantee understanding, usable access, or accountability |
+
+Beside it:
+
+- **Not operational availability** ([TERM-055](TERM-055.md)), which it complements.
+  Availability is whether a resource is deployed for a task in time, given
+  the cue. Legibility is whether a distinction can be recovered with the
+  rules in hand. A situation can be legible and the resource it calls for
+  unavailable, or the reverse.
+- **Not fidelity** ([TERM-034](TERM-034.md)), which it complements. Fidelity is what a
+  representation preserves for an interpreter. Legibility can rise as
+  fidelity falls ([CLAIM-081](../claims.d/CLAIM-081.md)). A22: an account "can also become both more
+  legible and more accurate. The two dimensions must be assessed
+  separately."
+- **Not free to the observed.** A25 §3: "**The party benefiting from
+  increased legibility need not be the party paying to become legible.**"
+  A score of the observer's performance does not show the cost to those
+  who are made legible, and the description adequate for an institution
+  can merge what its members need told apart ([CLAIM-348](../claims.d/CLAIM-348.md)).
+- **Not visibility to someone who can act.** A25 §5: "**An institution can
+  make a contribution intelligible without making it visible to anyone in
+  a position to respond.**" What is legible may still lack authority, which
+  is [CLAIM-349](../claims.d/CLAIM-349.md)'s step.
+
+## What it would add, and what would settle it
+
+It names the step between preservation (what survives a representation)
+and authority (what acquires influence), which the record has as separate
+claims. A22 §4 put it inside the interpretation–authority loop: "Authority
+can affect not merely how evidence is interpreted, but which facts become
+legible enough to count as evidence at all." Whether that is a new arrow
+of the loop or [CLAIM-340](../claims.d/CLAIM-340.md)'s κ′ is [QUESTION-tmp4147z](../questions.d/QUESTION-tmp4147z.md). [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md) is
+stated in this term.
+
+Settled by the owner's adoption, and by a choice A22 left open: whether
+the term takes the task-loss form above or stays qualitative.

@@ -42,6 +42,9 @@ summary: >-
   distributed-agency because its case is a whole against its members.
   The sharp edge: it does not say which target is right, and it denies
   that the description can settle it.
+supports:
+- CLAIM-tmpcrdhj
+- CLAIM-tmpjo2zr
 ---
 
 # CLAIM-348: No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified by the description that preserves it

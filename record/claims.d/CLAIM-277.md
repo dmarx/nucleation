@@ -39,6 +39,7 @@ summary: >-
 supports:
 - CLAIM-297
 - CLAIM-344
+- CLAIM-tmpoxld9
 ---
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 

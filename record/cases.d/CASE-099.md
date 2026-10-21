@@ -26,6 +26,7 @@ supports:
 - CLAIM-338
 variants:
 - CASE-106
+- CASE-tmp3uarw
 ---
 
 <!-- inactive-ok-file: CLAIM-297 — Proposed; the thesis this construction bears on and the claim it grounds -->

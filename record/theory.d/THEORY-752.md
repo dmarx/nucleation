@@ -32,6 +32,8 @@ summary: >-
   about how well the t-model predicts, gives no error bound, and holds
   only for the conditional-expectation projection; the true conditional
   mean's effective energy need not decrease.
+supports:
+- CLAIM-tmpcrdhj
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the closure criterion this is contrasted with, open -->
 # THEORY-752: In optimal prediction of a Hamiltonian system with separable energy and canonical initial law, projected by conditional expectation, the t-model's leading-order memory term tPLQLx makes the effective Hamiltonian of the resolved variables non-increasing, so the eliminated variables' memory enters as a damping that grows linearly in time

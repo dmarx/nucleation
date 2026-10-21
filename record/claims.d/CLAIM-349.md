@@ -46,6 +46,8 @@ summary: >-
   from human treatment, the organizational classes are A42's proposals,
   not diagnoses, and RO-DBT's own evidence is "promising but not
   definitive".
+supports:
+- CLAIM-tmpj163u
 ---
 
 <!-- inactive-ok-file: CLAIM-025 CLAIM-156 CLAIM-347 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->

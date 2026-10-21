@@ -1,0 +1,93 @@
+---
+status: Proposed
+title: 'effective-description regime: the system, representation, query family, intervention family, resource bounds, tolerance and horizon relative to which a description''s adequacy is assessed, 𝔈 = (X, T, 𝒬, ℐ, ℬ, ε, τ), so that whether a description is adequate is settled once the regime is stated and not before'
+version: 1
+tags:
+- complex-systems
+- information-theory
+- metaphysics
+date: '2026-10-21'
+line: formal-apparatus
+summary: >-
+  The exchange of 2026-10-20 returned to this signature five times. A3
+  proposed the six-tuple 𝔈 = (X, T, 𝒬, ℐ, ℬ, τ) so that an ablation could
+  not "succeed simply by moving the goalposts". A5 added the tolerance ε
+  in the predicate Adequate(T; 𝒬, ℐ, ℬ, ε, τ): "Adequacy is relational, but
+  whether the relation holds can be objective." A11 named it, and A12, A13
+  and A14 kept the seven-tuple; A13: "our own organizing convention rather
+  than an established term of art". Proposed: recorded, not adopted. It
+  would add a name for what [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-302](../claims.d/CLAIM-302.md), [CLAIM-387](../claims.d/CLAIM-387.md) and [THEORY-424](../theory.d/THEORY-424.md)
+  each relativize to; it replaces nothing.
+used_by:
+- CLAIM-tmpcrdhj
+---
+<!-- inactive-ok-file: CLAIM-tmpcrdhj QUESTION-tmp1nqby — Proposed; the claim and question filed from the same exchange, cited as where the regime is used -->
+<!-- inactive-ok-file: CLAIM-363 CLAIM-348 — Proposed; the owner's point about relata and the target-relativity of adequacy, cited as the shape this term borrows, nothing rests on them -->
+
+# TERM-tmpdxajb: effective-description regime: the system, representation, query family, intervention family, resource bounds, tolerance and horizon relative to which a description's adequacy is assessed, 𝔈 = (X, T, 𝒬, ℐ, ℬ, ε, τ), so that whether a description is adequate is settled once the regime is stated and not before
+
+## Definition
+
+An **effective-description regime** is 𝔈 = (X, T, 𝒬, ℐ, ℬ, ε, τ):
+
+- X, the underlying system;
+- T, the representation, a map from X's states or histories;
+- 𝒬, the prediction or decision queries T is to answer;
+- ℐ, the interventions under which it must answer them;
+- ℬ, the resources, the budget and class of operations, available to
+  whoever uses T;
+- ε, the tolerated error;
+- τ, the horizon.
+
+A description is adequate relative to a regime, A5's
+Adequate(T; 𝒬, ℐ, ℬ, ε, τ). Its point is A5's: "**Adequacy is relational,
+but whether the relation holds can be objective.**" Once the regime is
+stated, a verdict of adequacy can be false.
+
+**Its history in the exchange of 2026-10-20.** A3 §5 proposed six
+components, 𝔈 = (X, T, 𝒬, ℐ, ℬ, τ), "where \(X\) is the underlying system,
+\(T\) the representation, \(\mathcal Q\) the prediction or decision
+queries, \(\mathcal I\) the intervention class, \(\mathcal B\) the
+computational budget, and \(\tau\) the relevant time horizon", because
+"Without a fixed target, we could make an ablation succeed simply by moving
+the goalposts." A5 §1 added ε, as "an allowed error", in the predicate. A11
+gave it its name in a table of proposed TERMs ("A representation evaluated
+relative to specified queries, interventions, resources, error tolerance
+and time horizon"). A12 wrote the seven-tuple. A13: "We've returned to this
+repeatedly", and "I'd file this as proposed initially, since it's our own
+organizing convention rather than an established term of art." A14: "this
+is a convenient specification, not a claim that every inquiry must have
+exactly seven components", and its merge condition: "Future work must be
+able to cite the effective-description regime without simultaneously
+asserting that its particular target, intervention family, or
+computational budget is privileged."
+
+**Where the record already locates each relativity.** The target:
+[CLAIM-152](../claims.d/CLAIM-152.md) (sufficiency is relative to its target) and [CLAIM-348](../claims.d/CLAIM-348.md). The
+resources: [CLAIM-302](../claims.d/CLAIM-302.md) and [CLAIM-304](../claims.d/CLAIM-304.md) (feasible tests, feasible recovery).
+The interventions: [THEORY-424](../theory.d/THEORY-424.md) (Â depends on an intervention distribution)
+and [CLAIM-350](../claims.d/CLAIM-350.md)'s causal version. The budget of a compression: [CLAIM-387](../claims.d/CLAIM-387.md).
+The decision family: [TERM-028](TERM-028.md) and [THEORY-717](../theory.d/THEORY-717.md) (Blackwell's order).
+[CLAIM-tmpcrdhj](../claims.d/CLAIM-tmpcrdhj.md) says which of the conditions on an effective description
+are parameters of the regime, and [QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md) fixes the regime
+before it ablates.
+
+**What would settle it.** Whether the conditions of [QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md) can
+each be stated as adequacy relative to one regime, and whether claims that
+now state their relativities one at a time are clearer stated in it.
+
+## What it is not
+
+- **Not a claim that adequacy is only relative.** The owner's point about
+  normative relata in [CLAIM-363](../claims.d/CLAIM-363.md) ("once they are fixed, the judgment can be
+  false") carries over, and is stated here in prose, not as a relation.
+- **Not a fixed list.** A14's own caveat: seven is a convenient
+  specification. A regime may need a projection (for memory, [QUESTION-222](../questions.d/QUESTION-222.md))
+  or a background distribution ([THEORY-424](../theory.d/THEORY-424.md), where Â depends on the law of
+  the environment variable).
+- **Not a fidelity sense.** [TERM-034](TERM-034.md) relativizes fidelity to an interpreter
+  and a communication constraint in the same spirit, and [TERM-043](TERM-043.md) compares
+  a transport's distortions component by component. This is about one
+  system's coarse description, not a rendering between two.
+- **Not a privilege for its components.** Naming a target or a budget in a
+  regime does not say it is the right one (A14's merge condition).
