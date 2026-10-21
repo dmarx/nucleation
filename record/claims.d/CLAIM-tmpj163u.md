@@ -91,7 +91,7 @@ from the members" that keep a course correctable. Longino's uptake is
 decides keeps access to the roles in which it is consequential") is the
 same concern on the authenticity line.
 
-**It recurs.** A25 §5, from Kwok (held unread as LIT-tmparpsh, Unavailable
+**It recurs.** A25 §5, from Kwok (held unread as [LIT-tmparpsh](../literature.d/LIT-tmparpsh.md), Unavailable
 on 2026-10-21): "**An institution can make a
 contribution intelligible without making it visible to anyone in a
 position to respond.** ... Visibility, interpretability, credibility, and
@@ -102,22 +102,22 @@ decision's relevant questions or criteria", and "Legibility, epistemic
 standing, and governance participation help identify this difference."
 [CLAIM-tmpoxld9](CLAIM-tmpoxld9.md) is the loop by which a closed first rung can persist.
 
-**The readings of 2026-10-21.** James et al. (NOTE-tmpgi1zu) support the
+**The readings of 2026-10-21.** James et al. ([NOTE-tmpgi1zu](../notes.d/NOTE-tmpgi1zu.md)) support the
 first point, access widening while nothing else changes, and add that
 admission can itself be the harm: access is "bidirectional", and access
 "down" for powerful players is "politically consequential". Their refusal,
 a "possibility to say no", sits near the top rung, asserted rather than
-analysed. Kay et al. (NOTE-tmpw3hh8) state access without uptake for model
+analysed. Kay et al. ([NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md)) state access without uptake for model
 development: "Participation may not be effective or even possible in the
-case of willful hermeneutical ignorance." Collins (NOTE-tmpj0rwa,
-THEORY-tmp3d6fm) gives the standing condition before recognition: outsiders
+case of willful hermeneutical ignorance." Collins ([NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md),
+[THEORY-tmp3d6fm](../theory.d/THEORY-tmp3d6fm.md)) gives the standing condition before recognition: outsiders
 within see anomalies that insiders produced and are not placed to see,
 and lack the authority to press them; her recommendation to
 institutionalize that perspective is a form of the top rung. Short, Hill and
 Brown's process condition, whether regulators elicited and considered
 public views, with the merger guidelines exempt from notice and comment,
 is the difference between a closed rung and an open one in one
-institution (NOTE-tmpxvj22). Hyzen et al. (NOTE-tmp4sv55, skimmed) parallel
+institution ([NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md)). Hyzen et al. ([NOTE-tmp4sv55](../notes.d/NOTE-tmp4sv55.md), skimmed) parallel
 the ladder from the receiver's side, availability to access to knowledge,
 but their stages are an individual's acquisition, not an organization's
 uptake. A25 said the paper "comes particularly close to our conjunction of

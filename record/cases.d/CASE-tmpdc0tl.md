@@ -34,6 +34,7 @@ summary: >-
   mechanism parameter, not an agent's governance.
 supports:
 - CLAIM-tmppi0xf
+- CLAIM-tmp4r4mi
 ---
 <!-- inactive-ok-file: CLAIM-122 — Proposed; the will paper's claim this case illustrates, open, and the case bears no weight for it -->
 <!-- inactive-ok-file: CLAIM-336 — Proposed; named as the test this case cannot be, open -->
@@ -94,8 +95,8 @@ as Rubenstein et al. and Beckers and Halpern define it. Written as a
 structural model with interventions on h only, dropping K is an exact
 transformation and a τ-abstraction, and its approximate-abstraction
 distance is 0, because the coarse model's noise can carry K
-(THEORY-tmpjfhcb, THEORY-tmpjtnjd, THEORY-tmpe391l); the coarse state still
-keeps nothing of the response to h (CLAIM-tmp4r4mi).
+([THEORY-tmpjfhcb](../theory.d/THEORY-tmpjfhcb.md), [THEORY-tmpjtnjd](../theory.d/THEORY-tmpjtnjd.md), [THEORY-tmpe391l](../theory.d/THEORY-tmpe391l.md)); the coarse state still
+keeps nothing of the response to h ([CLAIM-tmp4r4mi](../claims.d/CLAIM-tmp4r4mi.md)).
 
 What it cannot show, given its standing:
 

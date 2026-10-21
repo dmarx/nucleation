@@ -186,14 +186,14 @@ carried it into [QUESTION-028](../questions.d/QUESTION-028.md), filed as [CLAIM-
 this claim.
 
 **Two readings of the same day.** Weatherall, O'Connor and Bruner
-(NOTE-tmp8rwaa): their main remedy for a propagandist's selective sharing
+([NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md)): their main remedy for a propagandist's selective sharing
 is to hear more scientists, evidence that reaches the audience without
-passing through the propagandist (THEORY-tmpnq01l). Their audience's state
+passing through the propagandist ([THEORY-tmpnq01l](../theory.d/THEORY-tmpnq01l.md)). Their audience's state
 is one number, cumulative successes minus failures, fed by both channels
-(THEORY-tmpg79sv), so the independent channel helps exactly as far as it
-outweighs the selected one. Espeland and Sauder (NOTE-tmpxq56d) report a
+([THEORY-tmpg79sv](../theory.d/THEORY-tmpg79sv.md)), so the independent channel helps exactly as far as it
+outweighs the selected one. Espeland and Sauder ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)) report a
 loop whose evidence passes through the interpretation it tests: the
 reputation survey, in which raters score schools in part by the rank the
 scores feed (Stake 2006 as they cite it; Schmalbeck 2001 contra), the
-quantitative link cited, not shown (THEORY-tmpnfh8u). Perdomo et al.,
-read the same day, are in CLAIM-tmpeftzb.
+quantitative link cited, not shown ([THEORY-tmpnfh8u](../theory.d/THEORY-tmpnfh8u.md)). Perdomo et al.,
+read the same day, are in [CLAIM-tmpeftzb](CLAIM-tmpeftzb.md).

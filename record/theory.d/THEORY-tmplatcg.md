@@ -26,6 +26,8 @@ summary: >-
   the reduced coverage, and the published version reports a smaller effect
   (0.23 of a front page, 18 percent of a standard deviation), which was not
   checked here.
+supports:
+- CLAIM-tmpjo2zr
 ---
 
 # THEORY-tmplatcg: In Argentina's four main national newspapers, April 1998 to December 2007, a newspaper's monthly front-page coverage of the federal government's corruption scandals was lower in months when it received more government advertising, within newspaper and month and within each newspaper-president pair (about 0.31 of a front page per standard deviation of advertising in the 2010 working paper); the association held for advertising placed through the presidency's agency and not for autonomous agencies, and not for scandals of non-political actors

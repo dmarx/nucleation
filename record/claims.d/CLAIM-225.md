@@ -154,13 +154,13 @@ In the blind-captioner design there is none.
 
 ## Note of 2026-10-21: the two standards in the usable-information literature
 
-Xu, Zhao, Song, Stewart and Ermon 2020 (LIT-tmp07k7g), read in full on
-2026-10-21 (NOTE-tmpvnsxo), have this objection's split in their own
+Xu, Zhao, Song, Stewart and Ermon 2020 ([LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md)), read in full on
+2026-10-21 ([NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)), have this objection's split in their own
 terms: Shannon information is the unrestricted predictor's (their Ω), and
 V-information the restricted family's, which can be created by
 computation, so that a function of the data can carry more of it than the
-data (THEORY-tmpgz4cf). The ideal decision-maker's standard and the given
+data ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). The ideal decision-maker's standard and the given
 receiver's are I_Ω and I_V. The paper does not mention Blackwell, and its
-quantity is for log loss only. The reconciliation in CLAIM-199 stands; its
+quantity is for log loss only. The reconciliation in [CLAIM-199](CLAIM-199.md) stands; its
 note of the same day says when the ceiling holds in V-information. The
 claim is unchanged.

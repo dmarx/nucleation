@@ -26,6 +26,8 @@ summary: >-
   commuting condition. It does not make the coarse endogenous state carry
   the high-level context, which is what governance-response sufficiency
   would need.
+supports:
+- CLAIM-tmp4r4mi
 ---
 <!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the governance-response profile, filed from the same exchange, named for the contrast, nothing here rests on it -->
 

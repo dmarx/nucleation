@@ -127,7 +127,7 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
   [THEORY-317](../theory.d/THEORY-317.md), [THEORY-326](../theory.d/THEORY-326.md) and [THEORY-327](../theory.d/THEORY-327.md) were cited only from that
   question, and [CLAIM-277](CLAIM-277.md)'s pointer to it was the one bridge to the
   distributed-agency line.
-- **Collins 1986** (LIT-tmp2ojrd, NOTE-tmpj0rwa, read in an authorized
+- **Collins 1986** ([LIT-tmp2ojrd](../literature.d/LIT-tmp2ojrd.md), [NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md), read in an authorized
   Portuguese translation): the mechanism, with the prejudice condition
   built in, predates this claim's sources in that tradition. Denying a
   group literacy and then citing its lack of facts as proof of poor
@@ -137,17 +137,17 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
   the group's inferiority; the gloss is the record's). The status is
   assigned by domination, so the prejudice the loop lacks is there from
   the start.
-- **Espeland and Sauder** (NOTE-tmpxq56d): standing that brings resources
+- **Espeland and Sauder** ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)): standing that brings resources
   and reputation is produced by having had them, with no continuing
   prejudiced act ("It's a self-fulfilling nightmare", of the third tier;
-  THEORY-tmpnfh8u). They call the initial differences "often largely a
+  [THEORY-tmpnfh8u](../theory.d/THEORY-tmpnfh8u.md)). They call the initial differences "often largely a
   product of measurement noise", on cited evidence: the loop entrenching
   what was neither earned nor prejudiced, which is the claim's point that
   the dynamics cannot tell the cases apart.
-- **Kay, Kasirzadeh and Mohamed** (NOTE-tmpw3hh8) assert the loop for
+- **Kay, Kasirzadeh and Mohamed** ([NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md)) assert the loop for
   generative models, "a feedback loop where dominant narratives are
   amplified and marginalized voices are further silenced", with no
-  condition (THEORY-tmpzqfxe, Proposed). New in it: the loop can run
+  condition ([THEORY-tmpzqfxe](../theory.d/THEORY-tmpzqfxe.md), Proposed). New in it: the loop can run
   through credibility given to a system, with no hearer judging the
   silenced speaker. The prejudice is carried by training data, so the
   claim's limit stands.
@@ -168,7 +168,7 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
 - **Anything about hermeneutical injustice beyond [THEORY-326](../theory.d/THEORY-326.md)**, or about
   Pohlhaus's willful hermeneutical ignorance and Dotson's epistemic
   oppression, which A24 drew from them. Both works were sought on
-  2026-10-21 and are held Unavailable (LIT-tmp22xqb, LIT-tmpnfswr). Kay et
+  2026-10-21 and are held Unavailable ([LIT-tmp22xqb](../literature.d/LIT-tmp22xqb.md), [LIT-tmpnfswr](../literature.d/LIT-tmpnfswr.md)). Kay et
   al. gloss Pohlhaus's term secondhand ("the continued misunderstanding or
   misinterpretation of marginalized experiences despite their
   articulation"), which is not a reading of Pohlhaus.

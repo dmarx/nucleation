@@ -216,10 +216,10 @@ was rechecked. A second appearance, and a name for what the claim calls
 usable information. The name is filed as [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).
 
 **The usable-information literature, read the same day.** Xu, Zhao, Song,
-Stewart and Ermon 2020 (LIT-tmp07k7g, NOTE-tmpvnsxo), registered at the
+Stewart and Ermon 2020 ([LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md), [NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)), registered at the
 owner's request and read in full. This claim's usable information is their
 V-information under log loss: the receiver's rule class is their
-predictive family V. THEORY-tmpgz4cf re-derives the XOR example for the
+predictive family V. [THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md) re-derives the XOR example for the
 paper's linear-logistic and linear-Gaussian families as well as for this
 claim's one-coordinate receiver: nothing about Z from the pair, all of it
 from the exclusive-or, which is their failure of the data-processing
@@ -227,8 +227,8 @@ inequality. The ceiling holds as stated here, in risk. Stated in
 V-information it needs one condition the paper does not state: the
 family's input-free predictions must be able to match the marginal of the
 target, which this claim's receiver satisfies. Without it V-information
-can exceed Shannon information (THEORY-tmpgz4cf's counterexample). The
-paper never bounds V-information by Shannon information. THEORY-tmp9m1g4
+can exceed Shannon information ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)'s counterexample). The
+paper never bounds V-information by Shannon information. [THEORY-tmp9m1g4](../theory.d/THEORY-tmp9m1g4.md)
 adds that, for a family of bounded complexity, the quantity can be
 estimated from samples with a stated error. The status is unchanged: the
 defeat condition is empirical, and the reading bears on the example and the

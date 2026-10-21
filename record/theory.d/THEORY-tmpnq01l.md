@@ -28,6 +28,8 @@ summary: >-
   not selected. It is a property of a stylized model, which the authors
   call "how-potentially"; it does not show that any real audience was
   misled this way, nor that an audience aware of the selection would be.
+supports:
+- CLAIM-tmpjo2zr
 ---
 <!-- inactive-ok-file: CLAIM-tmpjo2zr THEORY-143 THEORY-146 — Proposed; the claim and accounts this model bears on, cited as open -->
 <!-- inactive-ok-file: LIT-751 — Unavailable; Holman and Bruner's unread model, named for contrast -->

@@ -4,8 +4,15 @@ status: Active
 formerly:
 - THEORY-tmpj32n2
 title: 'For a linear system x(t+1) = Ax and a partition of its variables, the vector of block sums evolves autonomously from every initial state iff the partition is column-equitable, every column of each block of A summing to the same value; the aggregate operator then keeps a subset of A''s eigenvalues, and the blocks may interact as strongly as they like, so exact aggregation is not decomposition'
-version: 2
+version: 3
 history:
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the reading of Rubenstein et al.
+    (NOTE-tmp6b7dr): the same column condition is their criterion for
+    averaging linear variables to be an exact causal transformation. The
+    account is unchanged.
 - version: 1
   date: '2026-10-20'
   note: >-
@@ -126,3 +133,14 @@ single fixed state. For all states, it reduces to column sums alone.
 - **[THEORY-822](THEORY-822.md).** For a Markov chain, this condition applied to Pᵀ
   is Kemeny and Snell's strong lumpability, and it makes the block label
   exactly dynamically independent in Barnett and Seth's sense.
+
+## Note of 2026-10-21: the same condition as a causal criterion
+
+Rubenstein et al. ([LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md)), read in full on 2026-10-21
+([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md)): averaging blocks of linear micro-variables is an exact
+transformation of structural equation models exactly when the blocks'
+column sums are equal, which is this account's column-equitability for
+the block that feeds the averaged one ([THEORY-tmpj5zq1](THEORY-tmpj5zq1.md)). There it holds
+only for interventions on whole blocks. So one condition makes block sums
+jointly closed under the dynamics here and makes their averages a causal
+model there. The account is unchanged.

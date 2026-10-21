@@ -38,6 +38,9 @@ summary: >-
   ranking's own inputs. The paper does not measure either channel. Nor
   does it show that the starting differences were noise rather than
   quality, beyond citing Sauder and Lancaster.
+supports:
+- CLAIM-tmpeftzb
+- CLAIM-tmpoxld9
 ---
 <!-- inactive-ok-file: CLAIM-tmpeftzb CLAIM-342 — Proposed; the claims this account would instance, cited as open -->
 

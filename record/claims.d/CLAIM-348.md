@@ -143,9 +143,9 @@ clause: the target cannot be justified by the description that preserves
 it. Neither reply cited the claim. The term the exchange used is filed as
 [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).
 
-Espeland and Sauder, read the same day (NOTE-tmpxq56d), give an instance of
+Espeland and Sauder, read the same day ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)), give an instance of
 the merge: the "access university" and the University of New Mexico's
 Native American graduates are what a ranking adequate for applicants and
 firms runs together, and the schools pay to be made legible to it. James et
-al. (NOTE-tmpgi1zu) state the same point in administrative terms, as
+al. ([NOTE-tmpgi1zu](../notes.d/NOTE-tmpgi1zu.md)) state the same point in administrative terms, as
 "horizontal neutrality".

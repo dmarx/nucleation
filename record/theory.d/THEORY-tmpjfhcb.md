@@ -24,6 +24,9 @@ summary: >-
   does. Applied to the hidden governance bit, the coarse-graining that
   [CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md) shows to lose the response to h is exact. It does not say
   that the coarse model keeps any one system's response.
+supports:
+- CLAIM-tmp4r4mi
+- CLAIM-tmppi0xf
 ---
 <!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the governance-response profile, filed from the same exchange, named for the contrast, nothing here rests on it -->
 

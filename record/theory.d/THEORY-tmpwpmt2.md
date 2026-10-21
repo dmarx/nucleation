@@ -26,6 +26,8 @@ summary: >-
   measured reacted, as they describe it. It does not estimate how much
   any school changed, or show that the changes would not have happened
   without the ranking.
+supports:
+- CLAIM-tmpeftzb
 ---
 <!-- inactive-ok-file: THEORY-tmpnfh8u — Proposed; the companion account from the same reading, named for the part this one leaves out -->
 <!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; the claim this case bears on, cited as open -->

@@ -73,24 +73,24 @@ and task family must be specified independently; otherwise whoever
 controls the scoring criterion also controls what counts as legible."
 
 **The usable-information literature,** read on 2026-10-21 (Xu et al.,
-LIT-tmp07k7g, NOTE-tmpvnsxo). Under log loss the score is their
+[LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md), [NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)). Under log loss the score is their
 V-information, with Π_{o,B} the predictive family V. That legibility is not
 monotone in refinement is their failure of the data-processing inequality,
 and the XOR example holds for their linear families as well as for the
-one-coordinate receiver (THEORY-tmpgz4cf). The ceiling in the title holds
+one-coordinate receiver ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). The ceiling in the title holds
 in risk as stated; written in V-information it needs the family's
 input-free predictions to include the target's marginal, and without that
-V-information can exceed Shannon information (THEORY-tmpgz4cf). For a
+V-information can exceed Shannon information ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). For a
 family of bounded complexity the score can be estimated from samples with
-a stated error (THEORY-tmp9m1g4). Xu et al.'s §6.4 sharpens A22's caution:
+a stated error ([THEORY-tmp9m1g4](../theory.d/THEORY-tmp9m1g4.md)). Xu et al.'s §6.4 sharpens A22's caution:
 what is not usable by one family can be usable by another, so the score is
-relative to the family named (NOTE-tmpvnsxo).
+relative to the family named ([NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)).
 
-**A cost stated in 1945.** Hayek (LIT-tmpwcrya, NOTE-tmp53juk): statistics
+**A cost stated in 1945.** Hayek ([LIT-tmpwcrya](../literature.d/LIT-tmpwcrya.md), [NOTE-tmp53juk](../notes.d/NOTE-tmp53juk.md)): statistics
 are made "by lumping together, as resources of one kind, items which differ
 as regards location, quality, and other particulars, in a way which may be
 very significant for the specific decision", so a central planner reading
-them cannot take those circumstances into account (THEORY-tmp9wdb3, an
+them cannot take those circumstances into account ([THEORY-tmp9wdb3](../theory.d/THEORY-tmp9wdb3.md), an
 argument from examples, Proposed).
 
 **The regime.** A22 §4's "legibility regime" ("Attention, categories,
@@ -105,12 +105,12 @@ relevancy and irrelevancy, visibility and invisibility, that are
 conferred"; and "Because numbers decontextualize so thoroughly, they
 invite recontextualization": law firms reuse a school's rank as an
 interview threshold, legibility to an observer the measure was not built
-for (NOTE-tmpxq56d). Kleinberg and Raghavan give the formal case of A25's
+for ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)). Kleinberg and Raghavan give the formal case of A25's
 worry that a shared regime costs organizational diversity: a more accurate
 shared algorithm can be each firm's best choice and still lower welfare
-(THEORY-tmp3qyox). Perdomo et al. treat a regime that reshapes what it
+([THEORY-tmp3qyox](../theory.d/THEORY-tmp3qyox.md)). Perdomo et al. treat a regime that reshapes what it
 reads: its stable point is self-consistent for the world its own use
-makes, not optimal (THEORY-tmpwl9bj).
+makes, not optimal ([THEORY-tmpwl9bj](../theory.d/THEORY-tmpwl9bj.md)).
 
 **The direction.** A22 §3 and §7: "Society legible to an institution"
 ("Who can be classified, monitored, taxed, served, regulated, or
@@ -120,19 +120,19 @@ challenged?"). "The two can vary independently." A22's "governance
 legibility" is the second direction. It is the same relation with observer
 and observed exchanged, not a further concept.
 
-James et al. (NOTE-tmpgi1zu) show the directions crossing: remedies
+James et al. ([NOTE-tmpgi1zu](../notes.d/NOTE-tmpgi1zu.md)) show the directions crossing: remedies
 offered as legibility of the institution, access and transparency,
 delivered as legibility of its subjects, "down" to the powerful and, under
-Robo-debt's reverse onus, demanded of the governed (THEORY-tmpr3dxe,
+Robo-debt's reverse onus, demanded of the governed ([THEORY-tmpr3dxe](../theory.d/THEORY-tmpr3dxe.md),
 Proposed). Barnehl and Schumacher's measure is a method for the second
 direction from output alone, an outlet placed between regime-owned and
-opposition poles (THEORY-tmp5rkez); whoever chooses the poles and the
+opposition poles ([THEORY-tmp5rkez](../theory.d/THEORY-tmp5rkez.md)); whoever chooses the poles and the
 topics controls what counts, A22's caution again.
 
 **Stages.** A22 §1's five, existence, observability, legibility, standing
 and practical efficacy, extend two the record holds: [CLAIM-296](../claims.d/CLAIM-296.md)'s has,
 knows and can deploy, and [CLAIM-349](../claims.d/CLAIM-349.md)'s access, authority and action. This
-term is the third of the five. Hyzen et al. (NOTE-tmp4sv55, skimmed) are
+term is the third of the five. Hyzen et al. ([NOTE-tmp4sv55](../notes.d/NOTE-tmp4sv55.md), skimmed) are
 a third source with the shape, from the receiver's side: literacies "turn
 availability into access", and critical skills "turn access into knowledge
 acquisition". Their stages are an individual's, not an organization's.
@@ -143,7 +143,7 @@ happened"; [CLAIM-270](../claims.d/CLAIM-270.md) is that claim's general content
 [CLAIM-225](../claims.d/CLAIM-225.md): "[CLAIM-081](../claims.d/CLAIM-081.md)'s legibility is not a task in the manuscript's
 family Q". [NOTE-649](../notes.d/NOTE-649.md) names Scott's legibility, by way of Farrell et al.
 ([LIT-848](../literature.d/LIT-848.md)), and finds "nothing new is added" to it there. Scott's *Seeing
-Like a State*, which A22 and A25 lean on, is held as LIT-tmpb1r6m and
+Like a State*, which A22 and A25 lean on, is held as [LIT-tmpb1r6m](../literature.d/LIT-tmpb1r6m.md) and
 Unavailable: no lawful copy was reached on 2026-10-21.
 
 ## What it is not
@@ -155,7 +155,7 @@ A22 §8's table:
 | Truth | A false interpretation can be readily understood |
 | Information preservation | A lossy representation may be easier for a bounded observer to use |
 | Observability | A signal can be detected without its significance being understood |
-| Salience | Something prominent may remain unintelligible (McCombs and Shaw measure salience in exactly this sense, THEORY-tmpbonn4) |
+| Salience | Something prominent may remain unintelligible (McCombs and Shaw measure salience in exactly this sense, [THEORY-tmpbonn4](../theory.d/THEORY-tmpbonn4.md)) |
 | Credibility | An understandable assertion need not be believed |
 | Practical authority | A recognized concern may still lack influence |
 | Transparency | Disclosure does not guarantee understanding, usable access, or accountability |
@@ -178,8 +178,8 @@ Beside it:
   who are made legible, and the description adequate for an institution
   can merge what its members need told apart ([CLAIM-348](../claims.d/CLAIM-348.md)). Espeland and
   Sauder's schools pay, in brochures and staff time, to be made legible to
-  applicants and raters (NOTE-tmpxq56d). Lan's version of the point, which
-  A25 cited, stays unchecked (LIT-tmpmdlm4, Unavailable).
+  applicants and raters ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)). Lan's version of the point, which
+  A25 cited, stays unchecked ([LIT-tmpmdlm4](../literature.d/LIT-tmpmdlm4.md), Unavailable).
 - **Not visibility to someone who can act.** A25 §5: "**An institution can
   make a contribution intelligible without making it visible to anyone in
   a position to respond.**" What is legible may still lack authority, which

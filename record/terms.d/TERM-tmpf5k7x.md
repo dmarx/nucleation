@@ -33,6 +33,7 @@ summary: >-
   names what CLAIM-tmppi0xf is stated in; it replaces nothing.
 used_by:
 - CLAIM-tmppi0xf
+- CLAIM-tmp4r4mi
 ---
 <!-- inactive-ok-file: CLAIM-122 — Proposed; the supervisory test this profile parameterizes, open -->
 
@@ -66,22 +67,22 @@ responses to corresponding interventions", Σ_a π(a) d(T_# P_o(Y | do(a)),
 P_t(Y′ | do(τ(a)))). Version 1 of this entry read the profile as that
 component with τ the identity, π the declared ρ and the interventions
 restricted to the mechanisms of governance, and filed it as refining
-TERM-043. That was wrong. The component compares the push-forward of a
+[TERM-043](TERM-043.md). That was wrong. The component compares the push-forward of a
 population's interventional law with a target's law, a graded form of
-Rubenstein et al.'s exact transformation (NOTE-tmp6b7dr). For the hidden
+Rubenstein et al.'s exact transformation ([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md)). For the hidden
 governance bit it is zero: marginalising K is exact, and even a
 τ-abstraction, because the coarse model's noise can carry K
-(THEORY-tmpjfhcb, THEORY-tmpjtnjd), while the profile does not factor
+([THEORY-tmpjfhcb](../theory.d/THEORY-tmpjfhcb.md), [THEORY-tmpjtnjd](../theory.d/THEORY-tmpjtnjd.md)), while the profile does not factor
 through the coarse state and Γ = ρ(h = 1) bits. Sufficiency is the
 state-conditional version: Beckers and Halpern's compatibility condition
 with the high-level context required to be the coarse state itself,
-compared on one outcome (CLAIM-tmp4r4mi). So the `refines` link was
+compared on one outcome ([CLAIM-tmp4r4mi](../claims.d/CLAIM-tmp4r4mi.md)). So the `refines` link was
 removed on 2026-10-21. A16 §14 declined a new dimension: "I would be
 reluctant to add a new term such as governance fidelity as an entirely
 separate dimension without checking whether it is already a specific
 instance of causal fidelity". Checked, it is not an instance of that
 component; whether the profile should become a further component of
-TERM-043, or stay a criterion beside it, is not settled here.
+[TERM-043](TERM-043.md), or stay a criterion beside it, is not settled here.
 [CLAIM-122](../claims.d/CLAIM-122.md)'s supervisory test, "intervene on the governance relations", is
 what the profile records.
 
@@ -101,8 +102,8 @@ owner wants the will line to carry a formal term.
 - **Not a new kind of fidelity.** A16 and A17 both declined that.
 - **Not causal abstraction.** Exact transformation, τ-abstraction and
   zero approximate-abstraction distance all accept the hidden-bit
-  coarse-graining that sufficiency rejects (THEORY-tmpjfhcb,
-  THEORY-tmpjtnjd, THEORY-tmpe391l; CLAIM-tmp4r4mi).
+  coarse-graining that sufficiency rejects ([THEORY-tmpjfhcb](../theory.d/THEORY-tmpjfhcb.md),
+  [THEORY-tmpjtnjd](../theory.d/THEORY-tmpjtnjd.md), [THEORY-tmpe391l](../theory.d/THEORY-tmpe391l.md); [CLAIM-tmp4r4mi](../claims.d/CLAIM-tmp4r4mi.md)).
 - **Not identifiable from passive data.** A16: "Ordinary passive data may
   not identify \(\Gamma\)."
 - **Not the behavioural profile.** A description can be exactly closed for

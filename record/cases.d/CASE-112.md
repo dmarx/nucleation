@@ -133,10 +133,10 @@ zero, and weakening it again selected the side the tilt favours, not the
 side the state had held before.
 
 Arthur's model, read the same day through its 1983 working paper
-(NOTE-tmpyyaar), has the same shape in another setting: a planner can
+([NOTE-tmpyyaar](../notes.d/NOTE-tmpyyaar.md)), has the same shape in another setting: a planner can
 tilt the adoption process at the outset, and once one technology has
 locked in, small changes in returns have no effect and only large ones
-swing the market (THEORY-tmpxzls4). That matches this case's tilt h before
+swing the market ([THEORY-tmpxzls4](../theory.d/THEORY-tmpxzls4.md)). That matches this case's tilt h before
 symmetry breaks and its hysteresis in h after; Arthur's lock-in is
 absorption in accumulated adoptions, not a pitchfork, so the match is of
 shape only.

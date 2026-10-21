@@ -76,10 +76,10 @@ resources: [CLAIM-302](../claims.d/CLAIM-302.md) and [CLAIM-304](../claims.d/CLA
 The interventions: [THEORY-424](../theory.d/THEORY-424.md) (Â depends on an intervention distribution)
 and [CLAIM-350](../claims.d/CLAIM-350.md)'s causal version; for exact transformation it is proved in
 Rubenstein et al., where enlarging the declared interventions breaks
-exactness (THEORY-tmpj5zq1), and Beckers and Halpern's ladder shows that how
+exactness ([THEORY-tmpj5zq1](../theory.d/THEORY-tmpj5zq1.md)), and Beckers and Halpern's ladder shows that how
 the interventions are fixed (chosen freely, fixed by the state map, or all
 that map can translate) is a further choice the regime must state
-(NOTE-tmp1bdcu). The budget of a compression: [CLAIM-387](../claims.d/CLAIM-387.md).
+([NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md)). The budget of a compression: [CLAIM-387](../claims.d/CLAIM-387.md).
 The decision family: [TERM-028](TERM-028.md) and [THEORY-717](../theory.d/THEORY-717.md) (Blackwell's order).
 [CLAIM-tmpcrdhj](../claims.d/CLAIM-tmpcrdhj.md) says which of the conditions on an effective description
 are parameters of the regime, and [QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md) fixes the regime

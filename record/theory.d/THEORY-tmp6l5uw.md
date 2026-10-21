@@ -25,6 +25,8 @@ summary: >-
   monopoly price. A static, hard-news model. It says nothing about soft
   news, partial bribing, or capture that feeds back on the market that
   permits it, and its cross-country evidence is a raw comparison of means.
+supports:
+- CLAIM-tmpjo2zr
 ---
 
 # THEORY-tmp6l5uw: In Besley and Prat's model of an incumbent who can pay n identical outlets to suppress verifiable bad news, where one outlet's report informs every voter, each outlet's price for silence is what it would earn as the only one to break the story, so the media are captured exactly when n·τa < r; under capture voters, though fully rational and not deceived, learn nothing and never remove a bad incumbent

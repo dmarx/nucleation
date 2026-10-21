@@ -161,12 +161,12 @@ right except for [CLAIM-277](../claims.d/CLAIM-277.md)'s pointer here. [CLAIM-tm
 them.
 
 Two readings of the same day make the record's own position concrete
-without testing it. Kay, Kasirzadeh and Mohamed (NOTE-tmpw3hh8) locate
+without testing it. Kay, Kasirzadeh and Mohamed ([NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md)) locate
 testimonial injustice in a credibility excess assigned to a generative
-model (THEORY-tmpzqfxe). The record is largely written by one, so a
+model ([THEORY-tmpzqfxe](../theory.d/THEORY-tmpzqfxe.md)). The record is largely written by one, so a
 credibility excess for the filer's framing, and the model's hermeneutical
-gaps, are hazards of its own grammar. Collins (NOTE-tmpj0rwa, read in
+gaps, are hazards of its own grammar. Collins ([NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md), read in
 translation) gives part 1 a positive counterpart: an outsider within, a
 contributor whose moves fit the grammar only partly, may be the one placed
-to see what it omits (THEORY-tmp3d6fm). Neither is evidence about this
+to see what it omits ([THEORY-tmp3d6fm](../theory.d/THEORY-tmp3d6fm.md)). Neither is evidence about this
 record, and the question stays Open.

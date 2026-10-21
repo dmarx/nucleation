@@ -26,6 +26,8 @@ summary: >-
   feminist sociologists did detect. It does not say that every outsider
   within sees them, that insiders cannot, or that what the outsider within
   reports is true; and it offers no comparison of who detects what.
+supports:
+- CLAIM-tmpj163u
 ---
 <!-- inactive-ok-file: CLAIM-tmpj163u THEORY-151 — Proposed; a claim and an account this one bears on, nothing here rests on them -->
 # THEORY-tmp3d6fm: A member of a discipline who has been trained into its paradigms yet remains rooted in experience those paradigms omit or distort is better placed than its insiders to perceive those omissions and distortions as anomalies, and better placed than outsiders who share the experience to have them taken up, because insiders share the assumptions that produced the anomalies and outsiders lack the professional authority to press them

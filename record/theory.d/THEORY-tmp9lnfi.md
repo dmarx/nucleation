@@ -24,6 +24,8 @@ summary: >-
   are close when the influence is weak relative to the loss's curvature.
   It does not say how to find the optimum, which needs the distribution map
   away from the deployed model.
+supports:
+- CLAIM-tmpeftzb
 ---
 <!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; filed from the same exchange, the claim this account bears on, cited as open -->
 

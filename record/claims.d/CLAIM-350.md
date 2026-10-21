@@ -148,9 +148,9 @@ The causal-abstraction papers were read the same day. This claim's causal
 bullet defines intervention-consistent coarse-graining "for a declared
 family of interventions"; Rubenstein et al.'s exact transformation is that
 notion as a theorem-bearing definition, and its column condition for
-averaging linear variables is THEORY-755's column-equitability
-(THEORY-tmpj5zq1). It is distributional, a match of push-forward laws, not
+averaging linear variables is [THEORY-755](../theory.d/THEORY-755.md)'s column-equitability
+([THEORY-tmpj5zq1](../theory.d/THEORY-tmpj5zq1.md)). It is distributional, a match of push-forward laws, not
 the fibre-wise factorization this claim proves, and the hidden governance
-bit separates them (THEORY-tmpjfhcb, CLAIM-tmp4r4mi). Beckers and
+bit separates them ([THEORY-tmpjfhcb](../theory.d/THEORY-tmpjfhcb.md), [CLAIM-tmp4r4mi](CLAIM-tmp4r4mi.md)). Beckers and
 Halpern's compatibility condition is this claim's shape one level up, on
-contexts (THEORY-tmpjtnjd).
+contexts ([THEORY-tmpjtnjd](../theory.d/THEORY-tmpjtnjd.md)).

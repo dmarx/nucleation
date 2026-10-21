@@ -144,9 +144,9 @@ pairs), with no violation.
 - **Not the causal-abstraction papers' transitivity.** Rubenstein et al.'s
   Lemma 5 and Beckers and Halpern's Theorem 3.9 compose abstractions of
   abstractions; nothing in those papers or in Beckers, Eberhardt and
-  Halpern orders a deficiency along refinement (NOTE-tmp6b7dr,
-  NOTE-tmp1bdcu). The nearest analogue is the latter's composition bounds
-  for approximate abstraction (THEORY-tmpe391l).
+  Halpern orders a deficiency along refinement ([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md),
+  [NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md)). The nearest analogue is the latter's composition bounds
+  for approximate abstraction ([THEORY-tmpe391l](../theory.d/THEORY-tmpe391l.md)).
 - **Not that closure marks a system, or its failure a non-system.** Noise is
   closed ([THEORY-820](../theory.d/THEORY-820.md)), and that closure gives no part–whole order on
   candidate units is the open half of [QUESTION-218](../questions.d/QUESTION-218.md).

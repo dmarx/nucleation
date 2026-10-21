@@ -55,6 +55,7 @@ illustrated_by:
 - CASE-tmpdc0tl
 supports:
 - CLAIM-tmpshzxc
+- CLAIM-tmp4r4mi
 ---
 <!-- inactive-ok-file: CLAIM-122 CLAIM-127 — Proposed; the earlier, unparameterized appearances of this result, cited as its history, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-174 — Proposed; named as what this result does not test, open -->
@@ -124,8 +125,8 @@ while the profile does not factor through it.
   given." A15 §1 of 2026-10-20 cited the test, and A15 §2 built it as a
   counterexample. A17 then listed it as "Established by the paper's
   self-contained finite counterexample" without the note.
-- **The causal-abstraction literature**, read on 2026-10-21 (NOTE-tmp6b7dr,
-  NOTE-tmp1bdcu, NOTE-tmpqfl95). It has relativity to a declared
+- **The causal-abstraction literature**, read on 2026-10-21 ([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md),
+  [NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md), [NOTE-tmpqfl95](../notes.d/NOTE-tmpqfl95.md)). It has relativity to a declared
   intervention set (Rubenstein et al. §5; Beckers and Halpern's I_L), which
   is this claim's I; the support caveat (Beckers and Halpern's Examples 3.4
   and 3.11 leave behaviour off the support unconstrained), which is this
@@ -134,14 +135,14 @@ while the profile does not factor through it.
   different interventional consequences (Rubenstein et al.'s cholesterol
   case). It does not have this claim: its criteria compare interventional
   laws, and exact transformation, τ-abstraction and zero approximate
-  distance all accept the hidden-bit coarse-graining (THEORY-tmpjfhcb,
-  THEORY-tmpjtnjd, THEORY-tmpe391l). How sufficiency sits beside them is
-  CLAIM-tmp4r4mi.
+  distance all accept the hidden-bit coarse-graining ([THEORY-tmpjfhcb](../theory.d/THEORY-tmpjfhcb.md),
+  [THEORY-tmpjtnjd](../theory.d/THEORY-tmpjtnjd.md), [THEORY-tmpe391l](../theory.d/THEORY-tmpe391l.md)). How sufficiency sits beside them is
+  [CLAIM-tmp4r4mi](CLAIM-tmp4r4mi.md).
 - **An instance of the shape outside the record.** Szeidl and Szucs's
-  model of media capture (THEORY-tmpwiydx, NOTE-tmpefpic): the observed
+  model of media capture ([THEORY-tmpwiydx](../theory.d/THEORY-tmpwiydx.md), [NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md)): the observed
   slant gap can be the same whether it comes from owners' ideology or from
   favor exchange, and a ban on targeted government advertising, an
-  intervention on the mechanism, tells them apart (THEORY-tmplydnj). The
+  intervention on the mechanism, tells them apart ([THEORY-tmplydnj](../theory.d/THEORY-tmplydnj.md)). The
   join is the record's; the paper says nothing of closure or of Γ.
 
 ## What it does not say
@@ -172,7 +173,7 @@ while the profile does not factor through it.
 - **Not an instance of causal abstraction, nor a new theory of it.** A25:
   "We should not present governance-preserving coarse-graining as a new
   general theory of causal abstraction." That stands, and the papers'
-  notions do not imply the condition for Γ = 0 (CLAIM-tmp4r4mi).
+  notions do not imply the condition for Γ = 0 ([CLAIM-tmp4r4mi](CLAIM-tmp4r4mi.md)).
 - **Not a test of [CLAIM-336](CLAIM-336.md).** The construction has no meaning dynamics.
 - **Not one scale across regimes.** A16 §5: "one must not compare
   deficiencies numerically across different intervention distributions or

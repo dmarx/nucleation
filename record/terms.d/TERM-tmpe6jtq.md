@@ -72,11 +72,11 @@ sense: "Regulatory capture concerns the subordination of regulatory
 decisions to particular interests rather than the regulatory
 institution's designated public purposes" (A20 §1, after the OECD's
 "policy capture"), and Stigler's theory of regulation demanded by industry
-(A20 §6; LIT-tmphei2g, Unavailable on 2026-10-21). That sense is
+(A20 §6; [LIT-tmphei2g](../literature.d/LIT-tmphei2g.md), Unavailable on 2026-10-21). That sense is
 purpose-relative and need not involve any interpretation–authority loop:
 a decision bought outright is captured in it.
 
-The OECD report, read on 2026-10-21 (LIT-tmpiiau9, NOTE-tmpk4llg), words
+The OECD report, read on 2026-10-21 ([LIT-tmpiiau9](../literature.d/LIT-tmpiiau9.md), [NOTE-tmpk4llg](../notes.d/NOTE-tmpk4llg.md)), words
 it so: "Policy capture is the process of consistently or repeatedly
 directing public policy decisions away from the public interest towards
 the interests of a specific interest group or person", and its first
@@ -92,22 +92,22 @@ repeatedly" is its durability condition.
 
 Other readings of the day fall on the institutional side. Schram and Ule's
 capture is assigned, a policymaker's payoff set equal to the operator's,
-with no loop and no intent condition (NOTE-tmpze6la). Besley and Prat's
+with no loop and no intent condition ([NOTE-tmpze6la](../notes.d/NOTE-tmpze6la.md)). Besley and Prat's
 "captured" press receives a transfer in exchange for silence, one-shot: the
-decision bought outright (THEORY-tmp6l5uw). Short, Hill and Brown's is
+decision bought outright ([THEORY-tmp6l5uw](../theory.d/THEORY-tmp6l5uw.md)). Short, Hill and Brown's is
 diversion from the public interest through an adopted criterion, judged
 against measured public values, which they distinguish from public
-preferences (THEORY-tmpw39mh, Proposed; THEORY-tmp1kuko). Barnehl and
+preferences ([THEORY-tmpw39mh](../theory.d/THEORY-tmpw39mh.md), Proposed; [THEORY-tmp1kuko](../theory.d/THEORY-tmp1kuko.md)). Barnehl and
 Schumacher add a coercion condition, "an outlet has to be coerced by an
 external actor to alter its editorial choices", under which a merely
 agreeing outlet is not captured, a condition this term lacks; their
 measure gives the outside standard operationally, with uncoercible
 opposition outlets as one pole, though alignment is not causal
-identification (THEORY-tmp5rkez). Szeidl and Szucs show why an outside
+identification ([THEORY-tmp5rkez](../theory.d/THEORY-tmp5rkez.md)). Szeidl and Szucs show why an outside
 reference is needed: their slant is measured against a critical reference
-outlet that nets out the neutral level (THEORY-tmpwiydx). Di Tella and
+outlet that nets out the neutral level ([THEORY-tmpwiydx](../theory.d/THEORY-tmpwiydx.md)). Di Tella and
 Franceschelli's within-newspaper comparison is the weakest form of such a
-standard, blind to a bias every paper shares (THEORY-tmplatcg). This definition takes from it only the outside
+standard, blind to a bias every paper shares ([THEORY-tmplatcg](../theory.d/THEORY-tmplatcg.md)). This definition takes from it only the outside
 standard. If the owner wants both, the institutional one would be a
 narrower TERM that `refines` this one, with the evaluator a public
 institution and the interest a party outside it.

@@ -105,20 +105,20 @@ evidence.
   stipulated. A21's caption: "A possible structural mechanism, not a claim
   that any particular outlet or institution follows these dynamics." The
   documented episodes the replies cited were read on 2026-10-21, except
-  Stigler's (LIT-tmphei2g, Unavailable). The press variant now has two
+  Stigler's ([LIT-tmphei2g](../literature.d/LIT-tmphei2g.md), Unavailable). The press variant now has two
   documented instances and one model, none with this case's loop.
   Di Tella and Franceschelli's Argentine newspapers give an association
   within newspaper and presidency, and A21's caution, "evidence of an
   association, not by itself proof of a particular covert intent", still
-  applies (THEORY-tmplatcg). Szeidl and Szucs's Hungarian media give
+  applies ([THEORY-tmplatcg](../theory.d/THEORY-tmplatcg.md)). Szeidl and Szucs's Hungarian media give
   two-way favors at five events, with private advertisers as control
-  (THEORY-tmpkd2bw); when the 2015 fallout cut the reward, content favors
+  ([THEORY-tmpkd2bw](../theory.d/THEORY-tmpkd2bw.md)); when the 2015 fallout cut the reward, content favors
   stopped after a lag, a dependence that did not sustain itself once the
   resource link was cut, which in that instance counts against the
   amplifying reading. Besley and Prat's model is a one-shot bargain, so it
-  has the press variant's dependence and not its loop (THEORY-tmp6l5uw).
+  has the press variant's dependence and not its loop ([THEORY-tmp6l5uw](../theory.d/THEORY-tmp6l5uw.md)).
   Schram and Ule's regulators are a laboratory study, not a documented
-  episode (THEORY-tmpqzjvn). No variant of this case with a documented
+  episode ([THEORY-tmpqzjvn](../theory.d/THEORY-tmpqzjvn.md)). No variant of this case with a documented
   loop has been read.
 - That the loop between institutions is unstable under any stated
   condition. [CLAIM-330](../claims.d/CLAIM-330.md) is a 2×2 linearization of one organization, and the

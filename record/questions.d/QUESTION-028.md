@@ -160,12 +160,12 @@ conclusion, a domain-relative kind and not a natural kind, is [THEORY-036](../th
 and [THEORY-273](../theory.d/THEORY-273.md), which it did not cite. The fifth criterion is filed as
 [CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md), which bears on this question without settling it.
 
-Espeland and Sauder, read the same day (NOTE-tmpxq56d), state the effect
+Espeland and Sauder, read the same day ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)), state the effect
 the fifth criterion guards against, sociologically and in passing. Their
 footnote 10, citing Porter on "Hispanics": "As a category acquires
 constituencies who use it, those encompassed by the category develop
 shared interests and identities that make the category more meaningful and
 'real.'" Their conclusion: "the census produces 'Hispanics,' and the LSAT
 defines 'merit.'" It is reported, not studied, and their study is of
-rankings, where every school is under the same measure (THEORY-tmpwpmt2).
+rankings, where every school is under the same measure ([THEORY-tmpwpmt2](../theory.d/THEORY-tmpwpmt2.md)).
 The question stays Open.

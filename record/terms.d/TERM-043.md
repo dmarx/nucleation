@@ -141,22 +141,22 @@ order effects ([CLAIM-231](../claims.d/CLAIM-231.md)).
 
 ## Note of 2026-10-21: D_causal and causal abstraction
 
-The causal-abstraction papers were read on 2026-10-21 (NOTE-tmp6b7dr,
-NOTE-tmp1bdcu, NOTE-tmpqfl95). D_causal is Rubenstein et al.'s exact
+The causal-abstraction papers were read on 2026-10-21 ([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md),
+[NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md), [NOTE-tmpqfl95](../notes.d/NOTE-tmpqfl95.md)). D_causal is Rubenstein et al.'s exact
 transformation made graded: a π-average of distances between the
 push-forward of the source's interventional law and the target's, without
 their requirement that the correspondence on interventions be surjective
 and order-preserving, which their Theorem 6 and Examples 7–8 need for
 composed interventions. So it inherits Beckers and Halpern's Example 3.4
 permissiveness (a well-chosen distribution lets unrelated models match).
-Beckers, Eberhardt and Halpern's d_τ (THEORY-tmpe391l) is the worked graded
+Beckers, Eberhardt and Halpern's d_τ ([THEORY-tmpe391l](../theory.d/THEORY-tmpe391l.md)) is the worked graded
 relation in that literature, worst-case over interventions and context by
 context, with composition bounds that are a template for composing
 transports.
 
 One consequence for an entry of the same day. The governance-response
-profile, TERM-tmpf5k7x, was first filed as refining this term, as D_causal
+profile, [TERM-tmpf5k7x](TERM-tmpf5k7x.md), was first filed as refining this term, as D_causal
 with τ the identity. It is not: for the hidden governance bit D_causal is
-zero, since marginalising the hidden bit is exact (THEORY-tmpjfhcb), while
-the profile does not factor through the coarse state (CLAIM-tmp4r4mi). The
+zero, since marginalising the hidden bit is exact ([THEORY-tmpjfhcb](../theory.d/THEORY-tmpjfhcb.md)), while
+the profile does not factor through the coarse state ([CLAIM-tmp4r4mi](../claims.d/CLAIM-tmp4r4mi.md)). The
 link was removed. The definition here is unchanged.

@@ -24,6 +24,8 @@ summary: >-
   lawyers' training caused their values, or that the standard is
   captured: that verdict also needs the paper's historical argument and
   is [THEORY-tmpw39mh](THEORY-tmpw39mh.md), Proposed.
+supports:
+- CLAIM-tmpjo2zr
 ---
 <!-- inactive-ok-file: THEORY-tmpw39mh CLAIM-tmpjo2zr — Proposed; the wider account and the claim this measurement bears on, nothing here rests on them -->
 # THEORY-tmp1kuko: In a 2024 survey of a quota-matched online sample of 2,092 US adults and a convenience sample of 103 antitrust lawyers, the public weighed layoffs, worse product quality and more lobbying well above price reductions in judging whether a merger should be challenged, the consumer welfare standard's own objective, while support for replacing that standard was 42.6 points lower among the lawyers than among the public, against a partisan gap of 5.9 points

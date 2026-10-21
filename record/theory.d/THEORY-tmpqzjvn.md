@@ -25,6 +25,10 @@ summary: >-
   by the first policymaker, not an agency. The capture cells hold 18
   groups of three voters. It does not show how capture arises in real
   regulators or that independent agencies entrench it.
+extended_by:
+- THEORY-tmpvj1mm
+supports:
+- CLAIM-tmpjo2zr
 ---
 <!-- inactive-ok-file: THEORY-tmpvj1mm CLAIM-tmpjo2zr CLAIM-342 — Proposed; the general account and open claims this result bears on, nothing here rests on them -->
 # THEORY-tmpqzjvn: In one laboratory study of a nine-period game between an infrastructure operator, two elected policymakers and three voters (59 groups), letting the first elected policymaker fix the price for all periods moved prices toward the efficient level when policymakers' payoffs were set equal to consumers', and moved them further above it when their payoffs were set equal to the operator's; under period-by-period regulation voters' pressure lowered the operator-aligned policymakers' prices without removing the gap

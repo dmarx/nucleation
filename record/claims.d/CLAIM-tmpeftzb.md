@@ -77,24 +77,24 @@ by itself, establishes what would have occurred under a different
 policy." A26 called the update "a toy model rather than a claimed theorem
 from Perdomo et al."
 
-Perdomo et al., read on 2026-10-21 (NOTE-tmpmuo87), bear it out. Repeated
+Perdomo et al., read on 2026-10-21 ([NOTE-tmpmuo87](../notes.d/NOTE-tmpmuo87.md)), bear it out. Repeated
 retraining has a unique stable point only when the loss is strongly convex
-and the deployment's effect small enough (THEORY-tmpwl9bj); a threshold
+and the deployment's effect small enough ([THEORY-tmpwl9bj](../theory.d/THEORY-tmpwl9bj.md)); a threshold
 rule is not strongly convex, so the toy's two stable points are consistent
 with the theorem and outside it. And a stable point need not be optimal
-(THEORY-tmp9lnfi): self-consistent for the world its own use makes, it can
+([THEORY-tmp9lnfi](../theory.d/THEORY-tmp9lnfi.md)): self-consistent for the world its own use makes, it can
 be worse than an alternative that would have produced different evidence.
 That is this claim's reason to model the effect of use.
 
-**A documented case.** Espeland and Sauder (NOTE-tmpxq56d) define
+**A documented case.** Espeland and Sauder ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)) define
 self-fulfilling prophecy to include reactions "which increase the validity
 of the measure by encouraging behavior that conforms to it", and report
 channels that run through the ranking's own inputs: rank to yield to
-selectivity, and past rank to the reputation survey (THEORY-tmpwpmt2,
-reported and corroborated; THEORY-tmpnfh8u, Proposed, the loop stated
+selectivity, and past rank to the reputation survey ([THEORY-tmpwpmt2](../theory.d/THEORY-tmpwpmt2.md),
+reported and corroborated; [THEORY-tmpnfh8u](../theory.d/THEORY-tmpnfh8u.md), Proposed, the loop stated
 generally). Every school is under the same ranking, so the contexts that
 confirm it are not independent, which is the claim's condition. The paper
-does not cite Hacking's interactive kinds; the join with NOTE-769 is the
+does not cite Hacking's interactive kinds; the join with [NOTE-769](../notes.d/NOTE-769.md) is the
 record's.
 
 **The record's terms.** [CLAIM-342](CLAIM-342.md): what keeps a loop from confirming itself

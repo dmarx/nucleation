@@ -27,6 +27,8 @@ summary: >-
   information never exceeds the source's Shannon information when V can
   predict the marginal of Y without input, and can exceed it when V
   cannot. It says nothing about which family a real observer has.
+supports:
+- CLAIM-199
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-081 — Proposed; the claims this account bears on, cited as open -->
 <!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this account bears on -->

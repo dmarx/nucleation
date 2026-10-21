@@ -50,14 +50,14 @@ learning theory are the nearest existing tools.
 
 ## Note of 2026-10-21: V-information fixes two of the three parameters
 
-Xu, Zhao, Song, Stewart and Ermon 2020 (LIT-tmp07k7g, NOTE-tmpvnsxo),
+Xu, Zhao, Song, Stewart and Ermon 2020 ([LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md), [NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)),
 read in full on 2026-10-21. Their V-information fixes the class of
 procedures (a predictive family V) and the success criterion (log loss),
-and with V the one-coordinate rules it recovers CLAIM-199's rule-class case
-(THEORY-tmpgz4cf). It has no cost of recovery: a procedure is in V or not.
-CLAIM-304's computational case would be V the efficient predictors, which
+and with V the one-coordinate rules it recovers [CLAIM-199](../claims.d/CLAIM-199.md)'s rule-class case
+([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). It has no cost of recovery: a procedure is in V or not.
+[CLAIM-304](../claims.d/CLAIM-304.md)'s computational case would be V the efficient predictors, which
 the paper names (its §3.3) and proves nothing about. Its PAC bound
-(THEORY-tmp9m1g4) makes the quantity estimable for a family of bounded
+([THEORY-tmp9m1g4](../theory.d/THEORY-tmp9m1g4.md)) makes the quantity estimable for a family of bounded
 complexity, which is a cost of measuring it, not of recovering the
 distinction. So it is one of the "nearest existing tools", not an answer.
 The question stays Open.

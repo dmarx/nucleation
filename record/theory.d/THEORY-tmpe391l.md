@@ -24,6 +24,8 @@ summary: >-
   abstraction it is zero for a coarse-graining whose dropped detail the
   high-level noise can hold. It does not measure the governance deficiency
   Γ.
+supports:
+- CLAIM-tmp4r4mi
 ---
 <!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the governance-response profile, filed from the same exchange, named for the contrast, nothing here rests on it -->
 

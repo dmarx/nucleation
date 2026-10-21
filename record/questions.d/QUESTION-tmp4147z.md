@@ -84,11 +84,11 @@ extend.
 
 Whether any institution's categories follow such dynamics. That needs
 cases the record does not hold. The readings of 2026-10-21 do not supply
-one. Agenda-setting (THEORY-tmpbonn4; THEORY-tmp98xm5, Proposed) is an
+one. Agenda-setting ([THEORY-tmpbonn4](../theory.d/THEORY-tmpbonn4.md); [THEORY-tmp98xm5](../theory.d/THEORY-tmp98xm5.md), Proposed) is an
 empirical candidate for which facts become legible enough to count as
 evidence, but it is an aggregate cross-section with no dynamics. Szeidl and
 Szucs's endogenous-ownership counterfactual has the shape of the slower
 variable, authority setting owners' ideology and ideology setting slant
-(THEORY-tmplydnj, Proposed), but only across episodes in a static model,
+([THEORY-tmplydnj](../theory.d/THEORY-tmplydnj.md), Proposed), but only across episodes in a static model,
 not as a dynamical one. Nor whether legibility should be adopted
 as a term ([TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md) is Proposed).

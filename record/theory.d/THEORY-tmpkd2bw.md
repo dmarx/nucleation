@@ -25,6 +25,8 @@ summary: >-
   coverage moves against it. Hungary under right-wing governments only;
   left-wing favoritism is not settled, and the reduced form does not say
   whether content favors were bought or shared.
+supports:
+- CLAIM-tmpjo2zr
 ---
 <!-- inactive-ok-file: THEORY-tmplydnj — Proposed; the structural split between ideology and exchange, filed beside this one -->
 

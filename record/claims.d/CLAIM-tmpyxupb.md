@@ -118,7 +118,7 @@ among other constraints releases a platform's power over its users: the
 authority moves rather than disappears. [THEORY-429](../theory.d/THEORY-429.md) (North) is the nearest
 held reading on institutions as constraints.
 
-Hayek, read on 2026-10-21 (LIT-tmpwcrya, NOTE-tmp53juk), frames the dispute
+Hayek, read on 2026-10-21 ([LIT-tmpwcrya](../literature.d/LIT-tmpwcrya.md), [NOTE-tmp53juk](../notes.d/NOTE-tmp53juk.md)), frames the dispute
 the same way, as who plans rather than whether: "a dispute as to whether
 planning is to be done centrally, by one authority for the whole economic
 system, or is to be divided among many individuals", with a third locus,
@@ -126,7 +126,7 @@ system, or is to be divided among many individuals", with a third locus,
 monopoly". That is the transfer case. A18's gloss on Hayek, the
 "informational advantages of certain governance arrangements", is
 accurate. Hayek does not argue that removing public rules decentralizes
-(THEORY-tmp9wdb3, Proposed, is his argument, from examples).
+([THEORY-tmp9wdb3](../theory.d/THEORY-tmp9wdb3.md), Proposed, is his argument, from examples).
 
 The idea recurs. A19 §6 restated it as "first-order and second-order
 regulation", the second changing "the feedback mechanisms through which

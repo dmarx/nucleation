@@ -124,7 +124,7 @@ registered as [LIT-tmpx95z2](../literature.d/LIT-tmpx95z2.md).
 Both were sought on 2026-10-21. Mostagir, Ozdaglar and Siderius is
 Unavailable: copies exist (Deep Blue, CORE, an author's site) but none
 could be fetched here, so the check against it stays open. Weatherall,
-O'Connor and Bruner was read in full (NOTE-tmp8rwaa): its dynamics are
+O'Connor and Bruner was read in full ([NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md)): its dynamics are
 open-loop, with no coupling from the audience back to the evidence or the
 scientists, so it is not a predecessor of the second authority variable;
 A25's "alongside" fits. The question stays Open.

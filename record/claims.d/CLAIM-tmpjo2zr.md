@@ -112,37 +112,37 @@ checked here ([CASE-tmp3uarw](../cases.d/CASE-tmp3uarw.md)).
   The readings of 2026-10-21 fix the reach of this route and qualify
   "reasons correctly". For Bayesian procedures the reach is exact: an
   omniscient designer of information can attain any obedient joint law of
-  states and decisions, and no more (Bergemann and Morris, THEORY-tmpetatd).
+  states and decisions, and no more (Bergemann and Morris, [THEORY-tmpetatd](../theory.d/THEORY-tmpetatd.md)).
   Information design holds payoffs fixed, so it cannot reach the second
   route, as the claim's independence of routes says. Two weaker receivers
   are governed too. Weatherall, O'Connor and Bruner's audience is misled by
   genuine, honestly produced results, selected; it applies Bayes to what it
   receives but does not model the selection, which the authors name as a
-  remedy (THEORY-tmpnq01l). So "reasons correctly" there means correctly
-  on each item, not on the sample; THEORY-404's receiver, who knows the
+  remedy ([THEORY-tmpnq01l](../theory.d/THEORY-tmpnq01l.md)). So "reasons correctly" there means correctly
+  on each item, not on the sample; [THEORY-404](../theory.d/THEORY-404.md)'s receiver, who knows the
   design, is the sophisticated form. And Besley and Prat's voters, fully
   rational, are governed by the removal of their evidence: a captured
   press stays silent, they stay at their prior, and they re-elect, neither
-  deceived nor informed (THEORY-tmp6l5uw). The OECD report states the route
+  deceived nor informed ([THEORY-tmp6l5uw](../theory.d/THEORY-tmp6l5uw.md)). The OECD report states the route
   as policy: undue influence "can even be achieved without directly
   involving (and without the knowledge of) public decision-makers, by
-  manipulating information" (NOTE-tmpk4llg). At the scale of a public,
+  manipulating information" ([NOTE-tmpk4llg](../notes.d/NOTE-tmpk4llg.md)). At the scale of a public,
   agenda-setting is the route's illustration: what reaches the agenda, not
   what is concluded, and in McCombs and Shaw only as an aggregate
-  correlation (THEORY-tmpbonn4).
+  correlation ([THEORY-tmpbonn4](../theory.d/THEORY-tmpbonn4.md)).
 - *Criteria.* With U_λ(a) = v₁(a) + λv₂(a) and λ = 0, "Even perfect
   information about both properties does not ensure the regulator will
   consider the second. The limitation is not missing evidence. It is the
   adopted evaluative framework."
 
-  Short, Hill and Brown measure one case (THEORY-tmp1kuko): the public
+  Short, Hill and Brown measure one case ([THEORY-tmp1kuko](../theory.d/THEORY-tmp1kuko.md)): the public
   weighs layoffs, quality and lobbying far above the price effects that
   antitrust's consumer-welfare standard counts, and lawyers diverge from
   the public on replacing it far more than partisans do. Their note 4
   states the split in their own words: ideologues act "not by leveraging an
   informational asymmetry per se, but by developing ideological
-  perspectives that redefine the 'public interest'" (NOTE-tmpxvj22;
-  THEORY-tmpw39mh, Proposed, is the general form).
+  perspectives that redefine the 'public interest'" ([NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md);
+  [THEORY-tmpw39mh](../theory.d/THEORY-tmpw39mh.md), Proposed, is the general form).
 
 A26: "**Informational independence:** An institution retains access to
 evidence not wholly determined by the interests it evaluates.
@@ -192,14 +192,14 @@ than [CLAIM-330](CLAIM-330.md)'s γ = 0, and which fails only by oscillation onc
 |βγ| ≥ 1 − αδ. A21 used only γ = 0.
 
 Schram and Ule's experiment shows a correction removed by design rather
-than by the loop (THEORY-tmpqzjvn). Their capture is assigned, the
+than by the loop ([THEORY-tmpqzjvn](../theory.d/THEORY-tmpqzjvn.md)). Their capture is assigned, the
 policymaker's payoff equal to the operator's, and their independence is
 the first policymaker fixing the price for all periods. With capture,
 independence raised prices (P6 from 1.78 to 3.19): independence from
 voters, installed by a captured designer, cut the only correction left.
 That bears on the last clause, formal independence that does not make an
 evaluation independent, by a route the claim does not name; it is payoff
-alignment, not either of the two routes. THEORY-tmpvj1mm (Proposed) is the
+alignment, not either of the two routes. [THEORY-tmpvj1mm](../theory.d/THEORY-tmpvj1mm.md) (Proposed) is the
 authors' general conclusion.
 
 ## Where it comes from
@@ -237,13 +237,13 @@ standards and tempered equality of intellectual authority.
   has been captured." A26: "We can establish those distinctions now without
   making contested claims about any specific contemporary political actor
   or policy." The works the replies cited for real cases were read on
-  2026-10-21, except Stigler (LIT-tmphei2g) and Entman (LIT-tmpq9j8p),
+  2026-10-21, except Stigler ([LIT-tmphei2g](../literature.d/LIT-tmphei2g.md)) and Entman ([LIT-tmpq9j8p](../literature.d/LIT-tmpq9j8p.md)),
   which are Unavailable. Di Tella and Franceschelli give an association
   within newspaper and presidency, not a showing of covert intent; A21's
   effect size is the published abstract's, and the working paper read
-  gives 0.31 front pages per standard deviation (THEORY-tmplatcg). Szeidl
+  gives 0.31 front pages per standard deviation ([THEORY-tmplatcg](../theory.d/THEORY-tmplatcg.md)). Szeidl
   and Szucs give two-way favors at five events, with private advertisers
-  as control (THEORY-tmpkd2bw). They ground the claim's first two parts
+  as control ([THEORY-tmpkd2bw](../theory.d/THEORY-tmpkd2bw.md)). They ground the claim's first two parts
   as instances, not its general form.
 - **That the readings support the loop between institutions.** Every
   economic work read is static or one-shot per episode (Besley and Prat's
@@ -252,7 +252,7 @@ standards and tempered equality of intellectual authority.
 by the evaluation), and
   Weatherall, O'Connor and Bruner's audience feeds nothing back to the
   scientists. In Hungary, when the 2015 fallout cut the reward, content
-  favors stopped after a lag (THEORY-tmpkd2bw): dependence that did not
+  favors stopped after a lag ([THEORY-tmpkd2bw](../theory.d/THEORY-tmpkd2bw.md)): dependence that did not
   sustain itself once the resource link was cut. The third part stays
   interpretive.
 - **That the routes never produce each other.** The nearest thing in the
@@ -260,7 +260,7 @@ by the evaluation), and
   counterfactual: targeted advertising raises an outlet's value to a more
   pro-government owner, so control of resources can, through a change of
   ownership, change the owner's ideal point and with it the criteria
-  (THEORY-tmplydnj, Proposed; NOTE-tmpefpic). It does not defeat the
+  ([THEORY-tmplydnj](../theory.d/THEORY-tmplydnj.md), Proposed; [NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md)). It does not defeat the
   claim: it runs from resources through ownership to criteria, not from
   evidence to criteria, and it is a model counterfactual.
 - **That influence over evidence is wrongful.** [THEORY-404](../theory.d/THEORY-404.md)'s paper "does not

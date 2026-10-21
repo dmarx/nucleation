@@ -148,7 +148,7 @@ Only the first is demonstrated here.
   ("Durable authority asymmetry → Changed capacity to revise rules"). That
   is the entrenchment of [CLAIM-277](CLAIM-277.md) and [CLAIM-297](CLAIM-297.md) and the governance profile
   of [CLAIM-tmpyxupb](CLAIM-tmpyxupb.md), none of it demonstrated here. Arthur's model, read on
-  2026-10-21 through its 1983 working paper (THEORY-tmpxzls4), has another
+  2026-10-21 through its 1983 working paper ([THEORY-tmpxzls4](../theory.d/THEORY-tmpxzls4.md)), has another
   such mechanism: lock-in is absorption in accumulated adoptions, a state a
   reversal of returns does not touch. "Small subsidies to the excluded
   choice will not re-establish it; large subsidies, on the other hand,
