@@ -3,13 +3,26 @@ number: 115
 status: Open
 formerly:
 - QUESTION-tmp1bt6j
-title: 'Can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree, which of persistence, integration and causal level does each track?'
-version: 2
+title: 'Beyond what retention, dynamical independence and Ψ are known to track, can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?'
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added, from the reading of Rosas et al. 2020 (NOTE-987, THEORY-764).
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049. Whether retention tracks causal propagation,
+    whether Ψ and dynamical independence agree, and whether either detects
+    interaction or prices size, is QUESTION-tmp3dajs, Answered by
+    THEORY-424 and THEORY-764. This question is reworded to what is left:
+    the joint search, and where the criteria part on one system. Version
+    2's title was 'Can a collective''s boundary, its temporal resolution
+    and its macrostate be found together, by temporal information
+    retention, dynamical independence, effective information and an Occam
+    price on the candidate, and where these criteria disagree, which of
+    persistence, integration and causal level does each track?'
 tags:
 - individuation
 - information-theory
@@ -26,15 +39,16 @@ summary: >-
   record's priced individuation decide, reported as a profile across
   criteria rather than one score. The record already holds the
   interventional critique of those measures ([LIT-005](../literature.d/LIT-005.md)), which the exchange
-  did not cite. An answer recovers known boundaries and timescales in
-  controlled models and reports where the criteria part.
-answered_by:
-- THEORY-424
-- THEORY-764
+  did not cite. What retention, Ψ and dynamical independence track is
+  QUESTION-tmp3dajs, Answered. An answer here recovers known boundaries
+  and timescales in controlled models and reports where the criteria
+  part.
+refined_by:
+- QUESTION-tmp3dajs
 ---
 
 <!-- inactive-ok-file: CLAIM-331 LIT-1137 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
-# QUESTION-115: Can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree, which of persistence, integration and causal level does each track?
+# QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?
 
 ## Why it is a question
 
@@ -132,3 +146,11 @@ part of this question for one pair of criteria.
 - **Effective information asks something else again.** Ψ rewards closure
   and penalizes redundancy among the parts. Effective information is
   measured under imposed interventions ([THEORY-222](../theory.d/THEORY-222.md)).
+
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** What three of the criteria track is
+[QUESTION-tmp3dajs](QUESTION-tmp3dajs.md), Answered. Retention measures read association, not
+propagation ([THEORY-424](../theory.d/THEORY-424.md)). Ψ and dynamical independence diverge both
+ways, neither needs the parts to interact, and neither prices a feature's
+size ([THEORY-764](../theory.d/THEORY-764.md)). This question keeps the joint search for boundary,
+timescale and macrostate with an Occam price, its test on [CASE-101](../cases.d/CASE-101.md), and
+where effective information parts from the others on one system.

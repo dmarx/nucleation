@@ -32,7 +32,7 @@ summary: >-
   error-propagation results need a uniform bound on the ratio, and the
   low-dimensional direct embeddings are shown to exist, not to be reached.
 answers:
-- QUESTION-052
+- QUESTION-tmp5o5m0
 ---
 <!-- inactive-ok-file: THEORY-001 THEORY-005 — Proposed; accounts this one bears on, not leaned on -->
 
