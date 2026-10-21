@@ -1,7 +1,13 @@
 ---
-status: Proposed
+status: Active
 title: 'closure, and which sense'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Adopted by the owner at the second review of nucleation#305, 2026-10-21:
+    status Proposed → Active. The definition is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -17,15 +23,13 @@ summary: >-
   independence and with causal closure ([THEORY-820](../theory.d/THEORY-820.md)), and is no mark of a
   system. Asked for at A11 of the exchange of 2026-10-20 ("That single
   disambiguation entry could save substantial rediscovery"), and at A12,
-  A13 and A14, on the owner's U11 and U13. Proposed: recorded, not
-  adopted. It adopts no definition the record does not already hold.
+  A13 and A14, on the owner's U11 and U13. Adopted by the owner on
+  2026-10-21. It adopts no definition the record does not already hold.
 used_by:
 - CLAIM-tmpshzxc
 ---
 <!-- inactive-ok-file: CLAIM-119 CLAIM-172 CLAIM-341 CLAIM-347 — Proposed; named only for the homonym or the sense they use, nothing here rests on them -->
-<!-- inactive-ok-file: TERM-tmp23du2 — Proposed; the causal-state term filed from the same exchange -->
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and agency readings that use organizational closure, cited as open -->
-<!-- inactive-ok-file: TERM-tmpnjo1t — Proposed; the organizational sense, a candidate definition filed from the same exchange -->
 
 # TERM-tmpfezzd: closure, and which sense
 

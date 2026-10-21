@@ -1,7 +1,7 @@
 ---
-status: Proposed
+status: Active
 title: 'governance-response profile, of a state for a declared family of interventions on the mechanisms that govern efficacy: the tuple of its response kernels, J_I(s) = (K_i(· | s))_{i∈I} with K_i(y | s) = P(Y^(i) = y | S = s); a description is governance-response sufficient for (I, Y) when the profile factors through it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,11 @@ history:
     fails. The `refines: TERM-043` link is removed, the section is
     rewritten, and the relation to causal abstraction is CLAIM-tmp4r4mi.
     The definition is unchanged.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Adopted by the owner at the second review of nucleation#305, 2026-10-21:
+    status Proposed → Active. The definition is unchanged.
 tags:
 - causality
 - self-governance
@@ -29,7 +34,7 @@ summary: >-
   correspondence, as this entry first said: that component compares
   interventional laws, and is zero for a coarse-graining that loses the
   response of every state (CLAIM-tmp4r4mi). It is a fixed-target,
-  state-conditional sufficiency. Proposed: recorded, not adopted. It
+  state-conditional sufficiency. Adopted by the owner on 2026-10-21. It
   names what CLAIM-tmppi0xf is stated in; it replaces nothing.
 used_by:
 - CLAIM-tmppi0xf

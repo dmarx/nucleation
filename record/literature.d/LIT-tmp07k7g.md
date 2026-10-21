@@ -34,7 +34,6 @@ summary: >-
   Xu, Zhao, Song, Stewart & Ermon (2020). Predictive V-information, H_V(Y) − H_V(Y | X) with the conditional entropies taken as the least expected log loss over a predictive family V, is the information about Y that a predictor restricted to V can use. It recovers Shannon mutual information when V is unrestricted and the coefficient of determination for linear-Gaussian V, is non-negative and zero under independence, can be asymmetric, can be raised by computing on X, and can be estimated with PAC guarantees from the Rademacher complexity of V.
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-081 — Proposed; the claims this reading bears on, cited as open -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmp07k7g: A Theory of Usable Information Under Computational Constraints
 
 Xu, Y., Zhao, S., Song, J., Stewart, R. & Ermon, S. (2020). A Theory of Usable Information Under Computational Constraints. *International Conference on Learning Representations* (ICLR 2020). arXiv:2002.10689 (25 February 2020).

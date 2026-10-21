@@ -28,7 +28,6 @@ summary: >-
   utility models, and never for Plackett–Luce. It says nothing about
   shocks, dynamics or market responses.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this account bears on -->
 
 # THEORY-tmp3qyox: When two firms each hire the best available candidate by a noisy ranking, and the ranking model makes an independent re-ranking worth more to the second mover than its own next choice and makes a weaker first mover better for it, then for every accuracy of the private rankings there is a more accurate shared algorithmic ranking that each firm strictly prefers to use whatever the other does, and with which both firms, and total welfare, do worse than if neither used it
 

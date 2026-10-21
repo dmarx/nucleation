@@ -28,7 +28,6 @@ supports:
 - CLAIM-tmp4r4mi
 - CLAIM-tmppi0xf
 ---
-<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the governance-response profile, filed from the same exchange, named for the contrast, nothing here rests on it -->
 
 # THEORY-tmpjfhcb: In an acyclic structural equation model, marginalising a variable that no declared intervention sets is an exact transformation, provided the coarse model's exogenous noises may be dependent; so exactness does not require the dropped variable to be causally idle, and it can drop a variable that decides how its children respond to an intervention that is declared
 

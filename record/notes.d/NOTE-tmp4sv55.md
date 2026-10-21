@@ -34,7 +34,7 @@ summary: >-
   duties alone, as in the EU AI Act, are not enough, and that
   profit-optimized recommenders cannot secure epistemic welfare.
 ---
-<!-- inactive-ok-file: CLAIM-tmpj163u TERM-tmp5lqn0 CLAIM-296 — Proposed; open claims and terms this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpj163u CLAIM-296 — Proposed; open claims and terms this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmparpsh — Unavailable; named as the unread work it pairs with -->
 
 # NOTE-tmp4sv55: Hyzen, Van den Bulck, Puppis, Kulig and Paulussen — Epistemic welfare and algorithmic recommender systems

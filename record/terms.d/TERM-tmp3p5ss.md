@@ -21,11 +21,9 @@ summary: >-
   and fail here. Proposed: recorded, not adopted. [THEORY-071](../theory.d/THEORY-071.md)'s own
   promotion test would settle it.
 ---
-<!-- inactive-ok-file: ADR-046 — Proposed; the decision whose TERM lifecycle this entry follows, awaiting the owner -->
 <!-- inactive-ok-file: CLAIM-155 CLAIM-157 CLAIM-167 CLAIM-168 CLAIM-170 THEORY-801 — Proposed; the claims stated in TERM-044 and the wider reading of its third test, named as unchanged -->
 <!-- inactive-ok-file: THEORY-071 THEORY-583 — Proposed; the reading this definition is taken from and a rival account of the self, cited as open -->
 <!-- inactive-ok-file: CLAIM-174 CLAIM-288 CLAIM-367 — Proposed; the test TERM-044 is defined by and the claims behind the differing verdicts, open -->
-<!-- inactive-ok-file: TERM-tmpnjo1t — Proposed; the organizational closure this definition's individuality condition uses, filed from the same exchange -->
 
 # TERM-tmp3p5ss: agent, as an individual that is the active source of modulations of its coupling with its environment and regulates them against norms its own organization sets (Barandiaran, Di Paolo and Rohde)
 

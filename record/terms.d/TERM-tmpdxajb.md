@@ -1,7 +1,7 @@
 ---
-status: Proposed
-title: 'effective-description regime: the system, representation, query family, intervention family, resource bounds, tolerance and horizon relative to which a description''s adequacy is assessed, 𝔈 = (X, T, 𝒬, ℐ, ℬ, ε, τ), so that whether a description is adequate is settled once the regime is stated and not before'
-version: 2
+status: Active
+title: 'effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description''s adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated'
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -10,6 +10,12 @@ history:
     relativity to ℐ is proved there for exact transformation, and how the
     interventions are fixed is a further choice the regime must state. The
     definition is unchanged.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Revised at the owner's second review of 2026-10-21: the regime no longer
+    includes the description T, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), with Adequate(T; ℛ)
+    and (T, ℛ) an evaluation instance. Adopted: status Proposed → Active.
 tags:
 - complex-systems
 - information-theory
@@ -23,7 +29,9 @@ summary: >-
   in the predicate Adequate(T; 𝒬, ℐ, ℬ, ε, τ): "Adequacy is relational, but
   whether the relation holds can be objective." A11 named it, and A12, A13
   and A14 kept the seven-tuple; A13: "our own organizing convention rather
-  than an established term of art". Proposed: recorded, not adopted. It
+  than an established term of art". The owner's second review took T out
+  of the tuple, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), so that descriptions are compared
+  under one regime. Adopted by the owner on 2026-10-21. It
   would add a name for what [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-302](../claims.d/CLAIM-302.md), [CLAIM-387](../claims.d/CLAIM-387.md) and [THEORY-424](../theory.d/THEORY-424.md)
   each relativize to; it replaces nothing.
 used_by:
@@ -32,14 +40,13 @@ used_by:
 <!-- inactive-ok-file: CLAIM-tmpcrdhj QUESTION-tmp1nqby — Proposed; the claim and question filed from the same exchange, cited as where the regime is used -->
 <!-- inactive-ok-file: CLAIM-363 CLAIM-348 — Proposed; the owner's point about relata and the target-relativity of adequacy, cited as the shape this term borrows, nothing rests on them -->
 
-# TERM-tmpdxajb: effective-description regime: the system, representation, query family, intervention family, resource bounds, tolerance and horizon relative to which a description's adequacy is assessed, 𝔈 = (X, T, 𝒬, ℐ, ℬ, ε, τ), so that whether a description is adequate is settled once the regime is stated and not before
+# TERM-tmpdxajb: effective-description regime: the system, query family, intervention family, resource bounds, tolerance and horizon under which a candidate description's adequacy is assessed, ℛ = (X, 𝒬, ℐ, ℬ, ε, τ), kept apart from the description T it evaluates, so that rival descriptions are compared under one regime and whether each is adequate, Adequate(T; ℛ), is settled once the regime is stated
 
 ## Definition
 
-An **effective-description regime** is 𝔈 = (X, T, 𝒬, ℐ, ℬ, ε, τ):
+An **effective-description regime** is ℛ = (X, 𝒬, ℐ, ℬ, ε, τ):
 
 - X, the underlying system;
-- T, the representation, a map from X's states or histories;
 - 𝒬, the prediction or decision queries T is to answer;
 - ℐ, the interventions under which it must answer them;
 - ℬ, the resources, the budget and class of operations, available to
@@ -47,8 +54,15 @@ An **effective-description regime** is 𝔈 = (X, T, 𝒬, ℐ, ℬ, ε, τ):
 - ε, the tolerated error;
 - τ, the horizon.
 
-A description is adequate relative to a regime, A5's
-Adequate(T; 𝒬, ℐ, ℬ, ε, τ). Its point is A5's: "**Adequacy is relational,
+The description under evaluation, T, a map from X's states or histories,
+is not part of the regime. A description is adequate relative to a regime,
+Adequate(T; ℛ), A5's Adequate(T; 𝒬, ℐ, ℬ, ε, τ). The pair (T, ℛ) is an
+**evaluation instance**. Keeping T out is what lets two descriptions be
+compared under one regime: if T were a component, changing the
+description would change the regime by definition, and every comparison
+would move the goalposts A3 warned against. The regime can be extended
+with what a given inquiry needs, a probability law on X, a causal model or
+a measurement specification. Its point is A5's: "**Adequacy is relational,
 but whether the relation holds can be objective.**" Once the regime is
 stated, a verdict of adequacy can be false.
 
@@ -61,7 +75,10 @@ computational budget, and \(\tau\) the relevant time horizon", because
 the goalposts." A5 §1 added ε, as "an allowed error", in the predicate. A11
 gave it its name in a table of proposed TERMs ("A representation evaluated
 relative to specified queries, interventions, resources, error tolerance
-and time horizon"). A12 wrote the seven-tuple. A13: "We've returned to this
+and time horizon"). A12 wrote the seven-tuple. Those tuples included T; the owner's second
+review of 2026-10-21 took it out, since "much of our analysis concerns
+comparing two different representations under the same evaluation
+conditions". A13: "We've returned to this
 repeatedly", and "I'd file this as proposed initially, since it's our own
 organizing convention rather than an established term of art." A14: "this
 is a convenient specification, not a claim that every inquiry must have

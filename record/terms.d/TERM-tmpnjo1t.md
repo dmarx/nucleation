@@ -1,7 +1,13 @@
 ---
-status: Proposed
+status: Active
 title: 'organizational closure, as closure of constraints: a set of constraints each of which depends directly on another in the set and has another depending on it (Montévil and Mossio 2015), distinct from informational closure and from a flame''s maintenance of the conditions of its own combustion'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Adopted by the owner at the second review of nucleation#305, 2026-10-21:
+    status Proposed → Active. The definition is unchanged.
 tags:
 - philosophy-of-biology
 - complex-systems
@@ -16,10 +22,9 @@ summary: >-
   A14 of the exchange of 2026-10-20, with A12's condition: "The definition
   must explicitly distinguish the proved structural constraints from the
   still-Proposed claim that the definition demarcates organisms." Sense 6
-  of [TERM-tmpfezzd](TERM-tmpfezzd.md). Proposed: recorded, not adopted.
+  of [TERM-tmpfezzd](TERM-tmpfezzd.md). Adopted by the owner on 2026-10-21.
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and the agency reading that use this sense, cited as open -->
-<!-- inactive-ok-file: TERM-tmpfezzd — Proposed; the disambiguation this term is sense 6 of, filed from the same exchange -->
 
 # TERM-tmpnjo1t: organizational closure, as closure of constraints: a set of constraints each of which depends directly on another in the set and has another depending on it (Montévil and Mossio 2015), distinct from informational closure and from a flame's maintenance of the conditions of its own combustion
 

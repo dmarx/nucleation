@@ -76,7 +76,7 @@ complements:
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
-<!-- inactive-ok-file: CLAIM-296 TERM-tmpf5k7x — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-296 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-027: Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes
 

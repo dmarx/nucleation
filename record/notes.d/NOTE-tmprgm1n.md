@@ -27,7 +27,7 @@ summary: >-
   stayed near the opposition. The scores measure alignment; that the
   alignment was coerced is argued from context, not measured.
 ---
-<!-- inactive-ok-file: TERM-tmpe6jtq CLAIM-tmpjo2zr TERM-tmp5lqn0 — Proposed; the entries filed in the same pull request that this reading bears on, cited as open -->
+<!-- inactive-ok-file: TERM-tmpe6jtq CLAIM-tmpjo2zr — Proposed; the entries filed in the same pull request that this reading bears on, cited as open -->
 
 # NOTE-tmprgm1n: Barnehl and Schumacher — Media capture, captured
 

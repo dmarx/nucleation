@@ -38,7 +38,6 @@ supports:
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; LIT-005 is the source this account was read from, and its NOTE places it; LIT-049 is named as its ancestor -->
 <!-- inactive-ok-file: LIT-1137 — Deferred; Krakauer et al., registered unread, named as the measures the source argues against -->
 <!-- inactive-ok-file: THEORY-497 THEORY-607 — Proposed; neighbouring accounts named for comparison, nothing here rests on their being settled -->
-<!-- inactive-ok-file: TERM-tmpdxajb — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # THEORY-424: Mutual-information measures of individuality that read a system's next state off its present one measure association, not propagation: I(S_{t+1}; S_t) can be positive when the environment alone drives the system, and conditioning on the environment does not recover the interventional quantity, which can be zero where the conditional measure is one bit
 

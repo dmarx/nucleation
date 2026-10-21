@@ -1,7 +1,13 @@
 ---
-status: Proposed
+status: Active
 title: 'observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Adopted by the owner at the second review of nucleation#305, 2026-10-21:
+    status Proposed → Active. The definition is unchanged.
 tags:
 - mathematics
 - epistemology
@@ -15,7 +21,7 @@ summary: >-
   and A14 of the exchange of 2026-10-20. [TERM-033](TERM-033.md), fidelity as
   observational equivalence over response trajectories, is
   its case with response trajectories as the probes, and [TERM-014](TERM-014.md)'s
-  communicative object is a class of it. Proposed: recorded, not adopted.
+  communicative object is a class of it. Adopted by the owner on 2026-10-21.
 ---
 <!-- inactive-ok-file: CLAIM-139 — Proposed; listed as one of the entries using the phrase, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-322 — Proposed; the evidential reading of probe agreement, cited as open -->

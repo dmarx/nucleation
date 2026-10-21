@@ -31,7 +31,7 @@ summary: >-
   Gaussian and Laplacian random utility models meet them for three
   candidates; Plackett–Luce never does.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 CLAIM-tmpeftzb — Proposed; filed from the same exchange, named as entries this reading bears on -->
+<!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; filed from the same exchange, named as entries this reading bears on -->
 <!-- inactive-ok-file: CLAIM-342 — Proposed; the record's condition on evidence, named for comparison, cited as open -->
 <!-- inactive-ok-file: LIT-tmpb1r6m LIT-tmp5l842 — Deferred; works registered unread, named for comparison -->
 

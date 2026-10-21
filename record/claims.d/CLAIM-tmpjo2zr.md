@@ -72,7 +72,7 @@ illustrated_by:
 <!-- inactive-ok-file: CLAIM-342 CLAIM-348 CLAIM-359 CLAIM-tmpyxupb THEORY-146 THEORY-151 CLAIM-297 CLAIM-277 — Proposed; open claims and readings this claim rests on or cites, and it is Proposed with them -->
 <!-- inactive-ok-file: THEORY-tmpw39mh THEORY-tmpvj1mm THEORY-tmplydnj — Proposed; general forms and a structural counterfactual from the readings of 2026-10-21, cited beside the measured results, nothing rests on them -->
 <!-- inactive-ok-file: LIT-tmphei2g LIT-tmpq9j8p — Unavailable; Stigler and Entman, named as works the replies cited that no lawful copy reached -->
-<!-- inactive-ok-file: TERM-tmpe6jtq TERM-tmp5lqn0 — Proposed; the candidate definitions of capture and legibility filed with this claim, and it is stated in them -->
+<!-- inactive-ok-file: TERM-tmpe6jtq — Proposed; the candidate definitions of capture and legibility filed with this claim, and it is stated in them -->
 <!-- ref::uses-file: TERM-tmpe6jtq TERM-tmp5lqn0 — stated in "capture" and "legible"; the body uses the words in the senses those terms define -->
 
 # CLAIM-tmpjo2zr: An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization's role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator's procedure does not make its evaluation independent

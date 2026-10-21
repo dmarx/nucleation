@@ -33,7 +33,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: NOTE-tmp4sv55 — Skimmed; the reading of this work, cited as what it is -->
 <!-- inactive-ok-file: CLAIM-tmpj163u — Proposed; filed from the same exchange, named as the entry this work bears on -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmpokvfz: Epistemic welfare and algorithmic recommender systems: overcoming the epistemic crisis in the digitalized public sphere
 
 Hyzen, A., Van den Bulck, H., Puppis, M., Kulig, M. & Paulussen, S. (2026). Epistemic welfare and algorithmic recommender systems: overcoming the epistemic crisis in the digitalized public sphere. *Communication Theory* 36(1): 46–57. doi:10.1093/ct/qtaf018.

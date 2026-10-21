@@ -27,7 +27,6 @@ summary: >-
 supports:
 - CLAIM-tmp4r4mi
 ---
-<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the governance-response profile, filed from the same exchange, named for the contrast, nothing here rests on it -->
 
 # THEORY-tmpe391l: Beckers, Eberhardt and Halpern's approximate abstraction error, the least over surjective context maps of the worst case over allowed interventions and contexts of the high-level distance between the coarse-grained low-level outcome and the high-level outcome, is zero exactly for τ-abstraction; an abstraction followed by an α-approximation of the high-level model is within α, an α-approximation of the low-level model followed by an abstraction only within kα, k the worst-case ratio of high- to low-level distances, and an approximate abstraction need not factor into an exact abstraction and an approximation
 

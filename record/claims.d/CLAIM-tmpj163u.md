@@ -44,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmp3d6fm — Proposed; Collins's outsider within, cited as the standing condition before recognition, and this claim is Proposed with it -->
 <!-- inactive-ok-file: LIT-tmparpsh — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->
-<!-- inactive-ok-file: CLAIM-349 CLAIM-362 THEORY-151 THEORY-327 CLAIM-tmpoxld9 TERM-tmp5lqn0 — Proposed; the claim and readings this one rests on or cites, and it is Proposed with them -->
+<!-- inactive-ok-file: CLAIM-349 CLAIM-362 THEORY-151 THEORY-327 CLAIM-tmpoxld9 — Proposed; the claim and readings this one rests on or cites, and it is Proposed with them -->
 
 # CLAIM-tmpj163u: A contribution's admission to an organization's inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor's part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed
 

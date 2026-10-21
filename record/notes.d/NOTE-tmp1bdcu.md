@@ -28,7 +28,6 @@ summary: >-
   (τ acts variable-cluster by variable-cluster), which it says all three
   of Rubenstein et al.'s examples are.
 ---
-<!-- inactive-ok-file: TERM-tmpf5k7x TERM-tmpdxajb — Proposed; terms filed from the same exchange that this reading bears on, cited as open -->
 <!-- inactive-ok-file: CLAIM-122 — Proposed; the supervisory test this reading bears on, open -->
 <!-- inactive-ok-file: LIT-038 — Rejected; named only for its status note's pointer to Beckers–Halpern -->
 

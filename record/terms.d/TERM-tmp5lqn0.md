@@ -1,10 +1,10 @@
 ---
-status: Proposed
+status: Active
 complements:
 - TERM-055
 - TERM-034
 title: 'legibility, of a distinction to an observer for a task: whether the observer, with the rules, categories and resources it actually has, can recover the distinction from what it is given and bring it to bear on the task; a relation among a representation, an observer''s rule class, its resources and a task, bounded above by what the source makes possible for an ideal receiver, and directed, since what is legible to a governing institution and what of its governing is legible to others are different relations'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -16,6 +16,12 @@ history:
     and Hyzen et al. are cited where they bear on the regime, the
     direction, the stages, the cost to the observed and the line from
     salience. The definition is unchanged.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    The regime is no longer identified with Π_{o,B}: it also governs what
+    is observed and recorded and the categories that organize it (owner's
+    second review of 2026-10-21). Adopted: status Proposed → Active.
 tags:
 - epistemology
 - information-theory
@@ -28,7 +34,7 @@ summary: >-
   is the role of legibility". A22 defined it and proposed three TERMs; one
   is filed, with the regime and the direction in its body. Its formal core
   is [CLAIM-199](../claims.d/CLAIM-199.md)'s usable information. [CLAIM-081](../claims.d/CLAIM-081.md) holds the record's earlier
-  use. Proposed: recorded, not adopted. It recurs through A23 to A27.
+  use. Adopted by the owner on 2026-10-21. It recurs through A23 to A27.
 used_by:
 - CLAIM-tmpjo2zr
 - CLAIM-tmp4v4na
@@ -96,9 +102,18 @@ argument from examples, Proposed).
 
 **The regime.** A22 §4's "legibility regime" ("Attention, categories,
 representation, available evidence, interpretive resources") is the
-maintained arrangement that fixes Π_{o,B} for an organization. A22
-proposed it as a TERM of its own. It is filed here as what the observer's
-rule class is, for an institution.
+maintained organization of observation channels, classifications,
+attention and interpretive procedures through which distinctions become
+accessible and usable to specified observers. It is wider than Π_{o,B}.
+It governs what gets observed and recorded and which categories organize
+it, which set the inputs T(X) an observer has, as well as which procedures
+are available, which is Π_{o,B}, and which evidence reaches an evaluator.
+[CASE-tmpc0mv0](../cases.d/CASE-tmpc0mv0.md) gives it a state of its own, with dynamics the two-variable
+model lacks ([CLAIM-tmp4v4na](../claims.d/CLAIM-tmp4v4na.md)). It stays distinct from epistemic standing,
+whether a recognized distinction receives credibility or authority. A22
+proposed the regime as a TERM of its own; it is filed here, in the body.
+(Wording of the owner's second review of 2026-10-21, which corrected an
+earlier version that identified the regime with Π_{o,B}.)
 
 Three readings of 2026-10-21 bear on it. Espeland and Sauder's
 commensuration is such a regime, in their words "the relations of

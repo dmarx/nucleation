@@ -27,7 +27,7 @@ summary: >-
   behind them. An argument from examples and from the logic of choice,
   with no model or evidence.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyxupb THEORY-tmp9wdb3 TERM-tmp5lqn0 THEORY-429 — Proposed; the account filed from this reading and open entries it bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpyxupb THEORY-tmp9wdb3 THEORY-429 — Proposed; the account filed from this reading and open entries it bears on, nothing here rests on their being settled -->
 # NOTE-tmp53juk: Hayek — The use of knowledge in society
 
 ## Contribution

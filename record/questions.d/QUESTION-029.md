@@ -41,7 +41,6 @@ refined_by:
 ---
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of the thesis, whose earlier changes went unannounced -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-115 CLAIM-151 CLAIM-136 CLAIM-134 CLAIM-138 CLAIM-137 CLAIM-142 CLAIM-135 — Proposed; open, and cited as open: the theses and objections that bear on this question are under test, not settled -->
-<!-- inactive-ok-file: TERM-tmple6rq — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # QUESTION-029: What constitutes the identity of a relationally organized communicative act, how can it be recognized apart from any one representation, and under which transformations does it persist?
 

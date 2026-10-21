@@ -31,7 +31,6 @@ summary: >-
   James, Hynes, Whelan, Dreher & Humphry (2023). Sorts responses to the harms of algorithmic governance into access and inclusion, transparency, and refusal. Argues that the first two rest on public-administration values that reproduce existing structures, and that both are bidirectional: inclusion gives the powerful access to the included, and transparency can be demanded of the governed. Refusal, collective and generative rather than individual exit, is held more promising, though least available to those who depend on the state.
 ---
 <!-- inactive-ok-file: THEORY-tmpr3dxe — Proposed; the account filed from this reading, named as filed -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 <!-- inactive-ok-file: CLAIM-tmpj163u — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmpzs7e2: From access and transparency to refusal: Three responses to algorithmic governance
 

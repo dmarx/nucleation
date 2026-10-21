@@ -55,7 +55,6 @@ summary: >-
   is [CLAIM-337](CLAIM-337.md)'s move reversed, and it holds only if the agent's own
   store can surprise it as the world can.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-338: The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston's self-confirming sampling the model's authority-to-interpretation arrow and his agent a coupled loop run without independent scoring
 

@@ -46,7 +46,6 @@ complements:
 ---
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 <!-- inactive-ok-file: CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
-<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-122: Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed
 

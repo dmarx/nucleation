@@ -1,7 +1,15 @@
 ---
-status: Proposed
-title: 'causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over that future, the coarsest prescient partition of the pasts; the ε-machine when the future is the process''s own, the υ-machine when it is a coarse-graining''s future predicted from the micro past'
-version: 1
+status: Active
+title: 'causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target'
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Clarified at the owner's second review of 2026-10-21: causal states are
+    the classes of pasts, and the causal-state machine organizes them and
+    their induced transitions; the ε-machine and υ-machine are machines for
+    different sources and targets. Adopted: status Proposed → Active.
 tags:
 - information-theory
 - complex-systems
@@ -16,12 +24,11 @@ summary: >-
   knows which theorem to search for", and A14 asked that it say whose
   histories are taken. It is the owner's U13 category exactly,
   "definitions we've crystallized that are not currently in conflict".
-  Proposed: recorded, not adopted. A13 called it "predictive state"; the
+  Adopted by the owner on 2026-10-21. A13 called it "predictive state"; the
   record's word is kept.
 ---
-<!-- inactive-ok-file: TERM-tmpfezzd — Proposed; the disambiguation of closure filed from the same exchange -->
 
-# TERM-tmp23du2: causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over that future, the coarsest prescient partition of the pasts; the ε-machine when the future is the process's own, the υ-machine when it is a coarse-graining's future predicted from the micro past
+# TERM-tmp23du2: causal state, of a process relative to a target future: a class of pasts that induce the same conditional law over a declared target future, the coarsest prescient partition of the pasts; the causal-state machine organizes those classes and the transitions they induce, and the ε-machine and the υ-machine are that machine for different choices of source pasts and target
 
 ## Definition
 
@@ -31,11 +38,17 @@ the same conditional law over the target:
 
 w⃗ ∼ w⃗′ ⟺ P(Z⃗⁺ | W⃗_t = w⃗) = P(Z⃗⁺ | W⃗_t = w⃗′), at every block length.
 
-A **causal state** is a class of this relation. A13 gave the relation as
+A **causal state** is a class of this relation: a set of pasts, nothing
+more. The **causal-state machine** is a further object: the causal states
+together with the transitions between them that the process induces, and
+the symbols emitted on each. The states are the partition; the machine is
+the predictive mechanism they form. A13 gave the relation as
 h ∼_Z h′ ⟺ P(Z_future | h) = P(Z_future | h′), and A14 asked that the
 entry "state explicitly whether the histories are taken from the
 microscopic process or from the macro process. [THEORY-820](../theory.d/THEORY-820.md) depends on
 comparing those two predictive-state partitions." So:
+
+The two named machines differ in the source of pasts and the target:
 
 - **ε-machine**, W = Z: a process's own pasts for its own future
   (Crutchfield and Shalizi; [THEORY-756](../theory.d/THEORY-756.md)).

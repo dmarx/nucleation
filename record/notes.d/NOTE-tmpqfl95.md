@@ -31,7 +31,6 @@ summary: >-
   the reverse order costs a distortion factor, and an approximate
   abstraction need not decompose into the two.
 ---
-<!-- inactive-ok-file: TERM-tmpf5k7x TERM-tmpdxajb — Proposed; terms filed from the same exchange that this reading bears on, cited as open -->
 
 # NOTE-tmpqfl95: Beckers, Eberhardt and Halpern — Approximate causal abstraction
 

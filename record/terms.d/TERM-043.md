@@ -48,7 +48,6 @@ used_by:
 refined_by:
 - TERM-010
 ---
-<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the governance-response profile, cited in the note of 2026-10-21 as not a refinement of this term -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-228 CLAIM-257 CLAIM-259 — Proposed; the restatements of the components, cited as open -->
 

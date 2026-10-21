@@ -32,7 +32,6 @@ implementations: []
 summary: >-
   Kleinberg & Raghavan (2021). In a model of two firms hiring from one pool by noisy rankings, if both use the same algorithm, even one more accurate than their private rankings, the quality of decisions can fall without any shocks: under two conditions on the ranking model, for every private accuracy there is a more accurate shared algorithm that is strictly dominant for both firms and lowers both firms' utility and social welfare, a Braess paradox. The Mallows model always meets the conditions; Plackett–Luce never does.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmpj9gl0: Algorithmic monoculture and social welfare
 
 Kleinberg, J. & Raghavan, M. (2021). Algorithmic monoculture and social welfare. *Proceedings of the National Academy of Sciences* 118(22): e2018340118. doi:10.1073/pnas.2018340118. Preprint: arXiv:2101.05853 (14 January 2021).

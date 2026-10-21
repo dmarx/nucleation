@@ -53,7 +53,7 @@ summary: >-
 illustrated_by:
 - CASE-116
 ---
-<!-- inactive-ok-file: TERM-tmpzdpdt THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: LIT-1124 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-329: A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it

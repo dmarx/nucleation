@@ -30,7 +30,6 @@ summary: >-
   constant noise are each exact, and stresses that each is exact only for
   the intervention set declared.
 ---
-<!-- inactive-ok-file: TERM-tmpf5k7x TERM-tmpdxajb — Proposed; terms filed from the same exchange that this reading bears on, cited as open -->
 
 # NOTE-tmp6b7dr: Rubenstein et al. — Causal consistency of structural equation models
 

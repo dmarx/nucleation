@@ -34,7 +34,7 @@ summary: >-
   says nothing about what prices fail to carry, and it does not argue that
   removing any particular public constraint decentralizes decisions.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyxupb TERM-tmp5lqn0 THEORY-429 — Proposed; open entries this account bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpyxupb THEORY-429 — Proposed; open entries this account bears on, cited as open -->
 # THEORY-tmp9wdb3: Knowledge of the particular circumstances of time and place is held dispersed among many people and cannot be conveyed to a central authority in statistical form, so decisions that depend on it are better taken by those who hold it, and a price system lets them fit their decisions together by conveying the relative scarcities each needs without the causes behind them
 
 ## Source

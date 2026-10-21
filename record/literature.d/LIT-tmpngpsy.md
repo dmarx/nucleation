@@ -32,7 +32,6 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-tmpnfh8u — Proposed; an account filed from this reading, named as filed -->
 <!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; filed from the same exchange, named as the entry this work bears on -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmpngpsy: Rankings and Reactivity: How Public Measures Recreate Social Worlds
 
 Espeland, W. N. & Sauder, M. (2007). Rankings and Reactivity: How Public Measures Recreate Social Worlds. *American Journal of Sociology* 113(1): 1–40. doi:10.1086/517897.

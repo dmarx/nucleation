@@ -1,7 +1,13 @@
 ---
-status: Proposed
+status: Active
 title: 'persistence, of an organization, and which sense: state, dynamical, historical, viable and reinstatable'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Adopted by the owner at the second review of nucleation#305, 2026-10-21:
+    status Proposed → Active. The definition is unchanged.
 tags:
 - individuation
 - complex-systems
@@ -17,7 +23,7 @@ summary: >-
   organization, and a historically persisting individual." This term lists
   the senses so that a claim using "persist" says which, as [TERM-045](TERM-045.md) does
   for "self". On the owner's U13 ("definitions we've crystallized that are
-  not currently in conflict"). Proposed: recorded, not adopted. The
+  not currently in conflict"). Adopted by the owner on 2026-10-21. The
   exchange's name "organizational reconstitution" is not adopted.
 ---
 <!-- inactive-ok-file: CLAIM-329 CLAIM-331 CLAIM-287 CLAIM-327 — Proposed; the claims each sense is taken from, open -->

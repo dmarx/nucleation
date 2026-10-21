@@ -58,7 +58,7 @@ summary: >-
 supports:
 - CLAIM-tmpj163u
 ---
-<!-- inactive-ok-file: CLAIM-199 CLAIM-tmpj163u TERM-tmp5lqn0 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-199 CLAIM-tmpj163u — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-025 CLAIM-156 CLAIM-347 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
 

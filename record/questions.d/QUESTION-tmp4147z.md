@@ -1,7 +1,7 @@
 ---
 status: Answered
 title: 'In the coupled meaning–authority model, is authority''s effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime''s κ′, how far the prevailing interpretation bends the reading of the evidence?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -17,6 +17,14 @@ history:
     review of 2026-10-21: the instability threshold reduces to CLAIM-330's
     with the regime's steady-state gain absorbed into β or δ, and the slow
     mode does not reduce (CASE-tmpc0mv0). Status Open → Answered (ADR-049).
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    Corrected at the owner's second review of 2026-10-21: the μ arrow is a
+    direct effect of the legibility regime on scoring, not a varying κ′. If r
+    only varied κ′ (κ′ = κ′₀ + c r), its effect on authority would be
+    4ηs c r m, second order at symmetry, and would move no linear threshold.
+    The answer is unchanged.
 tags:
 - complex-systems
 - epistemology
@@ -38,7 +46,7 @@ answered_by:
 - CLAIM-tmp4v4na
 ---
 <!-- inactive-ok-file: THEORY-tmp98xm5 THEORY-tmplydnj — Proposed; readings of 2026-10-21 named as static candidates, not answers -->
-<!-- inactive-ok-file: CLAIM-338 CLAIM-342 CLAIM-297 TERM-tmp5lqn0 — Proposed; the claims and the candidate term the question works from, cited as open -->
+<!-- inactive-ok-file: CLAIM-338 CLAIM-342 CLAIM-297 — Proposed; the claims and the candidate term the question works from, cited as open -->
 
 # QUESTION-tmp4147z: In the coupled meaning–authority model, is authority's effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime's κ′, how far the prevailing interpretation bends the reading of the evidence?
 
@@ -114,5 +122,9 @@ and in the second witness a lean in r holds m and a off symmetry long
 after the two-variable system would have returned. The construction was
 proposed in the owner's review of 2026-10-21 with the route r → m; the
 route r → a, the reduction and the stable witness were added when it was
-checked. What this question does not ask, whether any institution's
+checked. The route r → a is a direct effect of the regime on scoring.
+This question's own reading, r setting κ′, is different: because
+γ = 4ηs(κ′ − κ̄), a regime that only varies κ′ enters the authority update
+as r·m, second order at symmetry, and changes no linear threshold (noted
+at the owner's second review of 2026-10-21). What this question does not ask, whether any institution's
 categories have such dynamics, stays open.

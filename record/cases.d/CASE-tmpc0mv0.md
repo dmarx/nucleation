@@ -1,15 +1,23 @@
 ---
 status: Active
 title: 'A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed from the owner's review of this PR on 2026-10-21, which proposed
     the construction with the route r → m and its witness. The route r → a
-    (the question's κ′ reading) and the slow-mode witness are the record's,
+    (a direct effect on scoring) and the slow-mode witness are the record's,
     added when the construction was checked.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Corrected at the owner's second review of 2026-10-21: the μ arrow is a
+    direct effect of the legibility regime on scoring, not a varying κ′. If r
+    only varied κ′ (κ′ = κ′₀ + c r), its effect on authority would be
+    4ηs c r m, second order at symmetry, and would move no linear threshold.
+    The result is unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -53,8 +61,13 @@ supports:
 - ε ≥ 0: authority moves the regime.
 - ν ≥ 0: the regime moves what is interpreted (the route r → m, proposed
   in the owner's review of 2026-10-21).
-- μ ≥ 0: the regime moves endorsement directly, by setting how evidence is
-  scored, which is the question's reading of r as setting [CLAIM-340](../claims.d/CLAIM-340.md)'s κ′.
+- μ ≥ 0: the regime moves endorsement directly: what it records or scores
+  counts toward authority whatever the reading. This is not the question's
+  reading of r as setting [CLAIM-340](../claims.d/CLAIM-340.md)'s κ′. There γ = 4ηs(κ′ − κ̄), so a
+  regime that only varies κ′ (κ′ = κ′₀ + c r) adds 4ηs c r m to the
+  authority update, a product that is second order at symmetry and enters
+  no linearization. The μ arrow is the linear, additive effect a regime has
+  when it changes the scoring itself.
 - 0 ≤ α, δ, λ < 1: each variable is stable alone, as in [CLAIM-330](../claims.d/CLAIM-330.md). λ is
   the regime's persistence; λ near 1 is a slow regime.
 

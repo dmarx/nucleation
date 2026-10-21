@@ -26,7 +26,7 @@ summary: >-
   than individual exit, is the response it favours, with its limits for
   those who depend on the state.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 CLAIM-tmpj163u CLAIM-348 CLAIM-349 — Proposed; open terms and claims this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpj163u CLAIM-348 CLAIM-349 — Proposed; open terms and claims this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-tmpr3dxe — Proposed; the account filed from this reading, named as filed -->
 
 # NOTE-tmpgi1zu: James, Hynes, Whelan, Dreher and Humphry — From access and transparency to refusal

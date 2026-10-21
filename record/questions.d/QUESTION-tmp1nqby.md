@@ -24,7 +24,7 @@ answered_by:
 - CLAIM-tmpcrdhj
 ---
 <!-- inactive-ok-file: CLAIM-353 CLAIM-396 — Proposed; record precedents and partial witnesses, cited as open -->
-<!-- inactive-ok-file: CLAIM-tmpcrdhj TERM-tmpdxajb — Proposed; the claim and the regime filed from the same exchange, cited as the question's own partial answer and framing -->
+<!-- inactive-ok-file: CLAIM-tmpcrdhj — Proposed; the claim and the regime filed from the same exchange, cited as the question's own partial answer and framing -->
 <!-- inactive-ok-file: CLAIM-348 — Proposed; the target-relativity of adequacy, cited for context, nothing here rests on it -->
 
 # QUESTION-tmp1nqby: For the conditions an effective description is asked to meet (predictive sufficiency for a declared target, dynamical independence of the omitted variables, memory closure under a declared projection, approximation fidelity in a declared metric and horizon, and tractability within a declared budget), which can fail while all the others hold, which such configurations are impossible in which model classes, and which conditions turn out to be parameters of the others rather than conditions in their own right?

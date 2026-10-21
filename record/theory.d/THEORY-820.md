@@ -46,7 +46,6 @@ supports:
 - CLAIM-tmpshzxc
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the interpretive reading of dynamical independence this bears on, cited as open -->
-<!-- inactive-ok-file: TERM-tmpfezzd — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 # THEORY-820: For a stationary discrete-valued process X and any coarse-graining Z of its past, informational closure at every horizon is the same condition as zero one-step transfer entropy from the micro past, Barnett and Seth's dynamical independence, and as causal closure, Z's ε-machine coinciding with its υ-machine; for a coarse-graining of the present state it also makes Z's causal states a coarse-graining of X's, which does not imply closure, and the closed coarse-grainings are not closed under common refinement
 
 ## Source

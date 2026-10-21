@@ -45,7 +45,6 @@ summary: >-
   the axes of a comparison. It does not say the five reduce to three.
 ---
 <!-- inactive-ok-file: CLAIM-348 — Proposed; the target-relativity of adequacy this claim applies, open, and this claim is Proposed with it -->
-<!-- inactive-ok-file: TERM-tmpdxajb — Proposed; the regime the claim is stated in, a candidate definition filed from the same exchange -->
 
 # CLAIM-tmpcrdhj: The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds
 

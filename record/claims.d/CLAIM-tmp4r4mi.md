@@ -42,7 +42,6 @@ summary: >-
   [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md)'s first wording, which read the profile as [TERM-043](../terms.d/TERM-043.md)'s
   causal component with the identity correspondence.
 ---
-<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the profile this claim is stated in, filed from the same exchange, defined again in the body -->
 
 # CLAIM-tmp4r4mi: Causal abstraction in the senses of Rubenstein et al., Beckers and Halpern, and Beckers, Eberhardt and Halpern does not secure governance-response sufficiency: exact transformation, τ-abstraction and zero approximate-abstraction distance all accept the hidden-bit coarse-graining, which loses ρ(h = 1) bits of the response to h, because each lets high-level noise carry what the coarse state drops; for one outcome and the identity correspondence, sufficiency is their compatibility condition with the high-level context fixed to the coarse state, and strong abstraction rejects the case only through interventions on the hidden parameter
 

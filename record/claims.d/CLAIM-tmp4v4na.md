@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'In the meaning–authority model linearized at symmetry, a third, maintained legibility state that authority moves (ε) and that moves interpretation (ν) or endorsement (μ), with persistence λ < 1 and nonnegative couplings, destabilizes the symmetric state exactly when the two-variable condition holds with β + νε/(1 − λ) in place of β and δ + με/(1 − λ) in place of δ: at the threshold the regime is indistinguishable from stronger two-variable couplings, and the slower it is the more it adds, while away from the threshold it adds a mode that no two-variable model has, so a lean in the regime can outlast the advantages it was built from'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -12,6 +12,14 @@ history:
     symbolically and on 200,000 random parameter draws. The record adds
     the route r → a, the reduction to effective two-variable couplings,
     and the stable slow-mode witness.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Corrected at the owner's second review of 2026-10-21: the μ arrow is a
+    direct effect of the legibility regime on scoring, not a varying κ′. If r
+    only varied κ′ (κ′ = κ′₀ + c r), its effect on authority would be
+    4ηs c r m, second order at symmetry, and would move no linear threshold.
+    The result is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -51,7 +59,6 @@ summary: >-
 illustrated_by:
 - CASE-tmpc0mv0
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; the term the state is named for, not adopted -->
 
 # CLAIM-tmp4v4na: In the meaning–authority model linearized at symmetry, a third, maintained legibility state that authority moves (ε) and that moves interpretation (ν) or endorsement (μ), with persistence λ < 1 and nonnegative couplings, destabilizes the symmetric state exactly when the two-variable condition holds with β + νε/(1 − λ) in place of β and δ + με/(1 − λ) in place of δ: at the threshold the regime is indistinguishable from stronger two-variable couplings, and the slower it is the more it adds, while away from the threshold it adds a mode that no two-variable model has, so a lean in the regime can outlast the advantages it was built from
 
@@ -100,8 +107,14 @@ with all entries nonnegative and 0 ≤ α, δ, λ < 1.
 to [CLAIM-330](CLAIM-330.md)'s with κ′ replaced by a function of r (the layer is κ′
 renamed) or that it allows an instability, or a slow mode, that no choice
 of the two-variable parameters gives". The threshold reduces, with the
-regime's steady-state gain absorbed into β or δ (into γ's κ′ route when r
-sets the scoring, which is the μ arrow). The slow mode does not reduce.
+regime's steady-state gain absorbed into β (the ν arrow) or δ (the μ
+arrow, a direct effect of the regime on scoring). The question's own
+reading, r setting κ′, is not the μ arrow: since γ = 4ηs(κ′ − κ̄)
+([CLAIM-340](CLAIM-340.md)), a regime that only varies κ′ adds a term in r·m to the
+authority update, second order at symmetry, so it moves no linear
+threshold at all. In that reading the layer is not even κ′ renamed at
+linear order; it matters only away from symmetry. The slow mode does not
+reduce.
 So whether legibility is "renamed" depends on what is asked of the model:
 for whether symmetry breaks, it is; for how long a lean lasts and how the
 system returns, it is not.

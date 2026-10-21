@@ -30,7 +30,6 @@ summary: >-
   within 2L_zε/γ of each other, and can differ.
 ---
 <!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; filed from the same exchange, the claim this reading bears on, cited as open -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this reading bears on -->
 
 # NOTE-tmpmuo87: Perdomo, Zrnic, Mendler-Dünner and Hardt — Performative prediction
 

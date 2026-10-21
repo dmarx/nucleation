@@ -32,7 +32,6 @@ summary: >-
   can match the marginal of Y.
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-081 CLAIM-087 CLAIM-050 CLAIM-326 — Proposed; the claims this reading bears on, cited as open -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this reading bears on -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; the reading of Blackwell's order, named for contrast -->
 
 # NOTE-tmpvnsxo: Xu, Zhao, Song, Stewart and Ermon — A theory of usable information under computational constraints

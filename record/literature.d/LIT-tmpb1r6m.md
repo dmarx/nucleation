@@ -30,7 +30,6 @@ implementations: []
 summary: >-
   Scott (1998). States make societies legible by simplifying them into standardized, administrable forms (surnames, cadastral maps, planned cities and forests); joined to high-modernist ideology, authoritarian power and a weak civil society, these simplifications override the practical local knowledge (mētis) that working arrangements depend on, and large schemes fail.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmpb1r6m: Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed
 
 Scott, J. C. (1998). *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. New Haven: Yale University Press. doi:10.12987/9780300128789 (the Yale e-book).

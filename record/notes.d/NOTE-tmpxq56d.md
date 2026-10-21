@@ -33,7 +33,7 @@ summary: >-
   and gaming. A framework offered as "an orienting heuristic", not a
   general theory, and not a measurement of effect sizes.
 ---
-<!-- inactive-ok-file: CLAIM-tmpeftzb CLAIM-tmpoxld9 CLAIM-342 CLAIM-348 CLAIM-081 TERM-tmp5lqn0 — Proposed; open claims, terms and readings this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-tmpeftzb CLAIM-tmpoxld9 CLAIM-342 CLAIM-348 CLAIM-081 — Proposed; open claims, terms and readings this reading bears on, nothing here rests on their being settled -->
 <!-- inactive-ok-file: QUESTION-028 — Open; the question this reading bears on, cited as open -->
 <!-- inactive-ok-file: LIT-tmpwbhro LIT-tmp70jgh LIT-tmpb1r6m — Deferred or Unavailable; works not yet read, cited as open -->
 <!-- inactive-ok-file: THEORY-tmpnfh8u — Proposed; an account filed from this reading, named as filed -->

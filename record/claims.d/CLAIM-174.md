@@ -90,7 +90,6 @@ supports:
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 — Proposed; the premise, the objection answered and the thesis made testable, open -->
 <!-- inactive-ok-file: THEORY-249 — Proposed; filed today, cited for the frame-dependence of test 3, not leaned on -->
-<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-174: A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
 

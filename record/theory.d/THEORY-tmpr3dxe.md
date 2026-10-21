@@ -35,7 +35,6 @@ summary: >-
   does not show that such remedies usually backfire, or say when they
   will. It also does not claim that transparency is worthless.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; the term whose directedness this account bears on, cited as open -->
 
 # THEORY-tmpr3dxe: Remedies for algorithmic governance offered as access or as transparency can run against the people they are meant to serve: inclusion in a data system also gives its operators access to the included, and transparency can be demanded of the governed while the governing system stays opaque, so what an access or transparency remedy does depends on who is made visible to whom
 

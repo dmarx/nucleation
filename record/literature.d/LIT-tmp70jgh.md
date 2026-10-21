@@ -29,7 +29,6 @@ implementations: []
 summary: >-
   Espeland & Stevens (1998). Defines commensuration as the comparison of different entities by a common metric, treats it as a general social process and a mode of power rather than a technical step, and discusses what is at stake, cognitively and politically, in calling something incommensurable.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmp70jgh: Commensuration as a Social Process
 
 Espeland, W. N. & Stevens, M. L. (1998). Commensuration as a Social Process. *Annual Review of Sociology* 24: 313–343. doi:10.1146/annurev.soc.24.1.313.

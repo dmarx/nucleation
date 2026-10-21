@@ -3,7 +3,7 @@ status: Proposed
 complements:
 - TERM-020
 title: 'interpretive capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-21'
@@ -24,6 +24,13 @@ history:
     needs no interpretation–authority loop, and an epistemic loop can lock in
     without being regulatory capture. "Capture" stays an umbrella word where
     the context fixes it. The definition is unchanged.
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    The instability of CLAIM-330 and the condition κ′ > κ̄ of CLAIM-340 are
+    now stated as possible mechanisms of interpretive capture, not as its
+    definition; the verdict needs the independent standard (owner's second
+    review of 2026-10-21). Status stays Proposed.
 tags:
 - self-governance
 - society-and-governance
@@ -50,11 +57,17 @@ used_by:
 An organization's evaluation is captured when what decides how its
 evidence is read, how its constituents are scored and how authority is
 allocated among them is the interpretation, or the party, under
-evaluation, more than evidence that does not pass through it. In
-[CLAIM-330](../claims.d/CLAIM-330.md)'s model it is the regime in which both arrows of the loop are
-positive and strong, βγ > (1 − α)(1 − δ). In [CLAIM-340](../claims.d/CLAIM-340.md)'s it is κ′ > κ̄:
-the prevailing interpretation bends the reading of the evidence more than
-it bends the predictions scored against it. [CLAIM-297](../claims.d/CLAIM-297.md) states the outcome:
+evaluation, more than evidence that does not pass through it. [CLAIM-330](../claims.d/CLAIM-330.md)'s
+instability, βγ > (1 − α)(1 − δ), is a possible mechanism of it, not its
+definition: the instability shows only that the symmetric state does not
+hold, and a system can give growing authority to a better-supported
+interpretation by the same loop. Likewise [CLAIM-340](../claims.d/CLAIM-340.md)'s κ′ > κ̄ (the
+prevailing interpretation bends the reading of the evidence more than the
+predictions scored against it) is a condition under which capture can
+arise. The verdict that an evaluation is captured needs, in addition, the
+standard from outside: an independently characterized failure of
+evaluative independence or of fidelity to evidence that does not pass
+through the evaluated interpretation. [CLAIM-297](../claims.d/CLAIM-297.md) states the outcome:
 authority amplifies an interpretive advantage "without any gain in
 fidelity to independent evidence".
 
@@ -95,7 +108,7 @@ explicitly defined", "The captor (group) must intend to extract rents",
 and a shift of the process away from the goal. Against A20's paraphrase
 that adds intent, a third difference between the senses beside the
 purpose-relative standard and the loop: this term needs no intent, since
-[CLAIM-330](../claims.d/CLAIM-330.md)'s loop can capture with nobody intending it. The first criterion is
+[CLAIM-330](../claims.d/CLAIM-330.md)'s loop can be the mechanism of a capture nobody intended. The first criterion is
 this term's standard from outside, made explicit, and "consistently or
 repeatedly" is its durability condition.
 

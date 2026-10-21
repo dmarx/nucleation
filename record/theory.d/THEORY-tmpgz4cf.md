@@ -31,7 +31,6 @@ supports:
 - CLAIM-199
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-081 — Proposed; the claims this account bears on, cited as open -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this account bears on -->
 
 # THEORY-tmpgz4cf: Information usable by a predictor restricted to a family V can be created by computing on the data, so the data-processing inequality fails for V-information: with Z the exclusive-or of two fair independent bits, linear and one-coordinate families extract nothing about Z from the pair and all of it from their exclusive-or; V-information computed from any function of the source is bounded by the source's Shannon information when the family's input-free predictions can match the marginal of the target, and can exceed it otherwise
 

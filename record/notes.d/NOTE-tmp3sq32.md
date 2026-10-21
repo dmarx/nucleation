@@ -34,7 +34,6 @@ summary: >-
   assumes.
 ---
 <!-- inactive-ok-file: CLAIM-tmpjo2zr — Proposed; filed from the same exchange, the claim this reading bears on, cited as open -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this reading bears on -->
 <!-- inactive-ok-file: CLAIM-199 CLAIM-326 — Proposed; the Blackwell line, named for comparison, cited as open -->
 <!-- inactive-ok-file: THEORY-156 THEORY-tmpmo8m9 — Proposed; readings of Blackwell's order and of the incentive order, cited as open -->
 <!-- inactive-ok-file: LIT-tmp8x4zb LIT-tmpwyfa1 — Unavailable or Deferred; works not read, named for comparison -->

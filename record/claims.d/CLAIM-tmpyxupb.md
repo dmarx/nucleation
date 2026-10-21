@@ -58,7 +58,6 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-352 CLAIM-354 CLAIM-359 THEORY-470 THEORY-429 — Proposed; open claims and a reading this claim complements or cites as the transfer case, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-tmp9wdb3 — Proposed; Hayek's argument, cited as context for the transfer case, nothing here rests on it -->
-<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; named only to say this claim's profile is a different object -->
 
 # CLAIM-tmpyxupb: Removing a constraint on an organization's members does not move it along one scale of more or less governance: it changes a profile of who holds rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members' first-order options and their share in revising the conditions of their action can move in opposite directions
 

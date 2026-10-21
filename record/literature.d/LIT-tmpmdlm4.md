@@ -28,7 +28,6 @@ implementations: []
 summary: >-
   Lan (2026). Argues, on the exchange's account, that a platform's standardized verification categories lower its own costs of verification while shifting the burden of fitting those categories onto the people and organizations required to become legible; conceptual rather than empirical. No abstract was available to check this against.
 ---
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmpmdlm4: The grammar of being seen: Verification interfaces and the sociological cost of legibility in digital platform governance
 
 Lan, Z. (2026). The grammar of being seen: Verification interfaces and the sociological cost of legibility in digital platform governance. *Telecommunications Policy* 50(9): 103317. doi:10.1016/j.telpol.2026.103317.

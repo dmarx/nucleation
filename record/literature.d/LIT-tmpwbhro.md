@@ -32,7 +32,6 @@ summary: >-
   Perdomo, Zrnic, Mendler-Dünner & Hardt (2020). When a deployed prediction changes the distribution of the outcomes it predicts, define performative stability (a model optimal for the distribution it induces) and performative optimality (least risk on the distribution it induces); show they can differ; prove that with a smooth, strongly convex loss and a distribution map ε-Lipschitz in Wasserstein distance, retraining converges to a unique stable point when ε < γ/β, that each condition is needed, and that stable points lie within 2L_zε/γ of optima.
 ---
 <!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; filed from the same exchange, named as the entry this work bears on -->
-<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this work bears on -->
 # LIT-tmpwbhro: Performative Prediction
 
 Perdomo, J. C., Zrnic, T., Mendler-Dünner, C. & Hardt, M. (2020). Performative Prediction. *Proceedings of the 37th International Conference on Machine Learning*, PMLR 119: 7599–7609. Preprint: arXiv:2002.06673 (16 February 2020).

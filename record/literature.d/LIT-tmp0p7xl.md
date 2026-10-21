@@ -35,7 +35,6 @@ implementations: []
 summary: >-
   Beckers, Eberhardt & Halpern (2020; arXiv 2019). Extends exact causal abstraction to approximate abstraction: the worst case, over allowed interventions and contexts, of how far a high-level causal model's answers depart from the coarse-grained answers of the low-level model it abstracts, under a distance the user chooses; probabilistic versions average over contexts and, given an intervention distribution, over the low-level implementations of each high-level intervention. Composing an abstraction with an approximation gives an approximate abstraction, and the converse decomposition can fail.
 ---
-<!-- inactive-ok-file: TERM-tmpdxajb — Proposed; filed from the same exchange, named as the entry this work bears on -->
 <!-- inactive-ok-file: LIT-038 — Rejected; named only for its status note's pointer to Beckers–Halpern -->
 # LIT-tmp0p7xl: Approximate Causal Abstractions
 

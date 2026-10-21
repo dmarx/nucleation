@@ -27,7 +27,7 @@ summary: >-
   agenda-setting rather than selective perception, and say the
   correlations do not prove it.
 ---
-<!-- inactive-ok-file: CLAIM-tmpjo2zr TERM-tmp5lqn0 TERM-tmpe6jtq QUESTION-tmp4147z — Proposed or Open; the entries filed in the same pull request that this reading bears on, cited as open -->
+<!-- inactive-ok-file: CLAIM-tmpjo2zr TERM-tmpe6jtq QUESTION-tmp4147z — Proposed or Open; the entries filed in the same pull request that this reading bears on, cited as open -->
 <!-- inactive-ok-file: THEORY-tmp98xm5 LIT-tmpq9j8p — Proposed or Unavailable; the causal hypothesis this reading files as an offer, and the framing paper not reached, cited as open -->
 
 # NOTE-tmpr2fo5: McCombs and Shaw — The agenda-setting function of mass media
