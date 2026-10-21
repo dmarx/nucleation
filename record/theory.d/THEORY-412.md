@@ -18,7 +18,16 @@ promote_when: >-
   dunes or vortices dissipate, nor the exactness of Eq. (8), which is
   granted.
 title: "Driven matter tends toward states that look adapted to the drive, with no replication needed: of two outcomes of a system driven by a fixed external field, equal in internal entropy and in the probability of reversal, the likelier is the one whose formation absorbed work from the drive and dissipated it more reliably"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    The promotion audit (batch 077, ADR-040) split off the exact part.
+    Eq. (8) and its equal-terms corollary, re-derived under uniform
+    starting densities, are now THEORY-tmp3kgjq, Active. This entry keeps
+    the thesis that driven matter tends toward adapted states, its
+    promote_when unchanged, and extends that one. It stays Proposed.
 tags:
 - thermodynamics
 - complex-systems
@@ -39,6 +48,8 @@ summary: >-
   driven-chemistry simulation without showing it. The reading judged the
   claim too weak to source a THEORY; it is filed as Proposed for that
   reason. "Adapted" here means absorbing the drive's work, nothing more.
+extends:
+- THEORY-tmp3kgjq
 ---
 
 <!-- inactive-ok-file: THEORY-072 THEORY-532 THEORY-671 — Proposed; named as accounts this one is contrasted with, not leaned on -->
@@ -56,6 +67,17 @@ read in [NOTE-419](../notes.d/NOTE-419.md).
 claim (its C2) "is too weakly supported to source one". This document
 files the claim as an account the record does not yet believe, with its
 weakness stated. It does not dispute that judgement.
+
+
+## Note (2026-10-21): exact part split off
+
+The identity this account starts from, Eq. (8), and the conditional in
+its title (with the entropy and reversal terms equal, the likelier
+outcome releases more heat with less variation) are re-derived and filed
+as [THEORY-tmp3kgjq](THEORY-tmp3kgjq.md), Active. What remains here is the thesis that real
+driven many-body systems have outcomes for which those terms can be held
+equal, so that the dissipation term decides and the favoured states look
+adapted to the drive.
 
 ## What was actually shown
 
