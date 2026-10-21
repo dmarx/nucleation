@@ -13,7 +13,7 @@ date: '2026-10-16'
 source:
 - LIT-836
 answers:
-- QUESTION-067
+- QUESTION-tmp62dpv
 summary: >-
   Dzhafarov & Kujala (2017), [LIT-836](../literature.d/LIT-836.md), read in full in [NOTE-623](../notes.d/NOTE-623.md). The
   transitivity step is an elementary proof; the reading of the reductio
