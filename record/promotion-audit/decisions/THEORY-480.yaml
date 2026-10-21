@@ -1,0 +1,35 @@
+id: THEORY-480
+batch: batch-077
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: medium
+title_asserts: report
+formal_in_fact: false
+hand_label: report of a court's holding and reasoning
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand: the title reports what the court in United States v.
+    Google (Mehta 2025, LIT-006, read in full in NOTE-004) treated as the
+    fruit of the violation and what it held a data-sharing remedy can do.
+    It also says that the remedy will work is "the court's expectation,
+    not a finding". As a report, the title is supported page by page in
+    the body (op. pp. 9-11, 73-97, 136-186). The classifier's theorem
+    signal came from the "Where ... held that ... can" construction.
+  not_accepted: >-
+    Whether a report title can be promoted on the source it reports. That
+    is the open owner question on report titles (THEORY-344, -351, -071,
+    -628, -336); this review does not decide it. Its promote_when tests
+    the court's expectation (what the decree did), which no reading of
+    the opinion can supply.
+dropped_clauses: []
+blockers:
+  - "Owner ruling on report titles. If report titles may promote on a full reading of the reported source, this one can promote as written; its promote_when would then move to a QUESTION on the decree's effects."
+recommended_change: >-
+  Retain Proposed pending the report-title ruling; add THEORY-480 to that
+  question's list.
+owner_questions:
+  - "Report title (with THEORY-344, -351, -071, -628, -336): may THEORY-480 promote as a report of the remedies opinion, read in full, with its promote_when moved to a QUESTION on what the decree achieved?"

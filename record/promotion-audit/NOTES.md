@@ -2136,3 +2136,61 @@ history note. THEORY-277 is requeued on this basis.
 - Owner, 2026-10-20: a pre-acceptance manuscript read in full meets "one
   study read in full" (THEORY-123, Barsade 2001).
 - adrenaline.ucsd.edu fails TLS verification from here; arXiv fetches.
+
+## 2026-10-20 — batch 076 (triage-007 theorem route 16-20)
+
+- Hand against classifier: 1 of 5 agree at margin 2 (THEORY-374). Across
+  batches 060-062 and 076 the theorem label is right on 6 of 20, and on 3
+  of 17 below margin 4. The misses here fired on "only if" (THEORY-141),
+  "on that reading ... can lack an answer when" (THEORY-563) and "is the
+  form ... and its content shapes" (THEORY-060). THEORY-102 is a
+  measurement whose title states a dissociation.
+- A survey-backed complexity result can be promoted on re-derivation when
+  the primary papers are unread: the inverse-rules certain-answer theorem
+  is a canonical-database plus homomorphism argument, and the closed-world
+  hardness a short 3-colourability reduction, both a page. The survey's
+  "many cases" hedge gives way to the exact condition re-derived.
+- When the old promote_when tests the wider claim and not the measurement
+  (THEORY-102's replication and percept-input dissociation), it moves to
+  the v4 carrier unchanged; no QUESTION is needed.
+- THEORY-060's well-being half is a reading task: Adler (2012) read in
+  full could let that half be split off as a measurement.
+
+## 2026-10-20 — batch 077 (triage-007 theorem route 21-25)
+
+- Hand against classifier: 1 of 5 agree, all at margin 2. Across batches
+  060-062 and 077 the theorem label is right on 3 of 3 at margin >= 4 and
+  3 of 17 below it. The misses here are an argument with a definitional
+  opening (THEORY-429), an analogy (THEORY-173) and a report of a court
+  holding (THEORY-480).
+- A reported theorem can be narrowed to the half the review re-derives,
+  with the other half filed as a Proposed THEORY under ADR-047 v4. For
+  THEORY-379 the upper bound re-derives by a Chebyshev argument and a
+  simulation; the lower bound (all correct algorithms) needs an adversary
+  argument and was not attempted.
+- Re-deriving a reported theorem can expose an under-stated condition.
+  "Independent orderings" is not enough for Fagin's bound: two
+  deterministic lists in opposite orders are independent and defeat it.
+  The narrowed title states the uniformity the derivation uses.
+- Interpretive theses with an exact identity attached split cleanly
+  (THEORY-412 like THEORY-673): the identity becomes Active, the thesis
+  stays Proposed and extends it.
+- The recipe for THEORY-379's simulation is in its decision file; the
+  script (fa_sim.py) is in the session scratchpad and not committed.
+
+## 2026-10-20 — batch 078 (triage-007 theorem route 26-30)
+
+- Hand against classifier: 1 of 5 agree at margins 1-2, and the one
+  agreement is partial (a conditional theorem bundled with a thesis).
+  Across batches 060-062 and 078 the theorem label is right on 3 of 3 at
+  margin >= 4 and on 3 of 17 below it. Below margin 4 it is not a route.
+- The re-derivation of the stratified conjunction principle uses Hrbacek's
+  Closure principle (r/n is V-standard when r and n are), not induction on
+  n, because induction fails across levels. Recipe in the decision file.
+- Reading task for THEORY-457: André and Baumard (2011), "The evolution of
+  fairness in a biological market", Evolution 65:1447-1456,
+  doi:10.1111/j.1558-5646.2011.01232.x, the pairwise proportionality
+  result the target article cites. If read and re-derived it could be
+  split off.
+- THEORY-525 needs a systematic study of the fan-celebrity identity
+  asymmetry before a wave-5 review could move it.

@@ -1,0 +1,65 @@
+# record/promotion-audit/batches/batch-077.yaml
+batch: batch-077
+date: '2026-10-21'
+kind: evidence-audit
+wave: 3
+record_revision: 159412ab86401a39ae46ff6250da7b565507d421
+selection: >-
+  Triage-007 theorem_route entries 21-25, in the route's order:
+  THEORY-379, -412, -429, -173 and -480. Each was sorted by hand by what
+  its title asserts (batch 020) before review, and the hand label
+  recorded against triage-007's class. ADR-047 v4 in force.
+reviewed: [THEORY-379, THEORY-412, THEORY-429, THEORY-173, THEORY-480]
+outcomes:
+  narrow-and-promote: [THEORY-379]
+  split: [THEORY-412]
+  retain-proposed: [THEORY-429, THEORY-173, THEORY-480]
+yield: >-
+  2 of 5 have a promotion path. THEORY-379 (Fagin's Algorithm) is
+  narrowed to its re-derived correctness and upper bound and promoted; the
+  lower bound it dropped is filed as a Proposed THEORY (ADR-047 v4, kind
+  1). THEORY-412's exact identity (Perunov, Marsland and England's Eq. 8)
+  re-derives and is split off as an Active THEORY; the dissipative-
+  adaptation thesis stays Proposed. THEORY-429 and THEORY-173 are
+  arguments; THEORY-480 is a report title waiting on the owner's ruling.
+promotion_prs:
+  - '#308: THEORY-379 narrowed and promoted, its lower bound filed as THEORY-tmpylmuq (Proposed); THEORY-412 split, its Eq. (8) filed as THEORY-tmp3kgjq (Active) (branch claude/promote-theory-379-split-412).'
+band:
+  - {code: THEORY-379, hand_label: algorithmic theorem plus a reported lower bound, triage007: theorem, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-412, hand_label: thesis with an exact formal core, triage007: theorem, agrees: false, outcome: split}
+  - {code: THEORY-429, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-173, hand_label: argument by analogy, triage007: theorem, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-480, hand_label: report of a court holding, triage007: theorem, agrees: false, outcome: retain-proposed}
+dropped_clauses:
+  - {code: THEORY-379, clause: lower bound for strict combining functions, kind: 1, route: new Proposed THEORY extending THEORY-379}
+  - {code: THEORY-379, clause: independence as the whole probability model, kind: 3, route: note only (counterexample recorded)}
+notes_for_ledger:
+  - >-
+    Hand against classifier: 1 of 5 agree, all at margin 2. Across batches
+    060-062 and 077 the theorem label is right on 3 of 3 at margin >= 4
+    and 3 of 17 below it. The misses here are an argument with a
+    definitional opening (THEORY-429), an analogy (THEORY-173) and a
+    report of a court holding (THEORY-480).
+  - >-
+    A reported theorem can be narrowed to the half the review re-derives,
+    with the other half filed as a Proposed THEORY under ADR-047 v4. For
+    THEORY-379 the upper bound re-derives by a Chebyshev argument and a
+    simulation; the lower bound (all correct algorithms) needs an
+    adversary argument and was not attempted.
+  - >-
+    Re-deriving a reported theorem can expose an under-stated condition.
+    "Independent orderings" is not enough for Fagin's bound: two
+    deterministic lists in opposite orders are independent and defeat it.
+    The narrowed title states the uniformity the derivation uses.
+  - >-
+    Interpretive theses with an exact identity attached split cleanly
+    (THEORY-412 like THEORY-673): the identity becomes Active, the thesis
+    stays Proposed and extends it.
+  - >-
+    The recipe for THEORY-379's simulation is in its decision file; the
+    script (fa_sim.py) is in the session scratchpad and not committed.
+owner_questions:
+  - >-
+    THEORY-480 joins the report-title question (THEORY-344, -351, -071,
+    -628, -336): it reports the United States v. Google remedies opinion,
+    read in full, and could promote as written if report titles may.

@@ -1,0 +1,67 @@
+id: THEORY-412
+batch: batch-077
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: split
+confidence: high
+title_asserts: argument
+formal_in_fact: partly
+hand_label: interpretive thesis (dissipative adaptation) with an exact formal core
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand: the title leads with a thesis ("driven matter tends
+    toward states that look adapted to the drive, with no replication
+    needed") and attaches a conditional that is a corollary of an exact
+    identity, Perunov, Marsland and England's Eq. (8) (LIT-518, NOTE-416,
+    which checked Eqs. 3-8). The identity re-derives in a few lines and is
+    split off under ADR-040 as its own Active THEORY, as THEORY-770 was
+    from THEORY-673. The thesis stays here, Proposed.
+
+    Re-derivation. Fix a protocol lambda(t) in advance, with no feedback.
+    For each microscopic path, microscopic reversibility (Crooks) gives
+    P[path] / P~[reversed path] = exp(beta Q[path]), with Q the heat
+    released to the bath and P~ the time-reversed protocol. Summing over
+    paths from microstate x to y:
+    pi~(y -> x) = sum P e^(-beta Q) = pi(x -> y) <e^(-beta Q)>_{x->y}.
+    Start the forward process uniform on macrostate I (Omega_I states)
+    and each reverse process uniform on its macrostate J. Then
+    pi(I -> J) = (1/Omega_I) sum_{x in I, y in J} pi(x -> y) and
+    pi~(J -> I) = (1/Omega_J) sum pi(x -> y) <e^(-beta Q)>_{x->y}, so
+    pi~(J -> I)/pi(I -> J) = (Omega_I/Omega_J) <e^(-beta Q)>_{I->J},
+    the average taken over forward paths from I that end in J. Writing
+    this for J = II and J = III and dividing:
+    ln[pi(I->II)/pi(I->III)] = ln(Omega_II/Omega_III)
+      + ln[pi~(II->I)/pi~(III->I)]
+      - ln<e^(-beta Q)>_{I->II} + ln<e^(-beta Q)>_{I->III}.
+    With Psi = beta<Q> and Phi = ln<e^(-beta Q)> + Psi, -ln<e^(-beta Q)>
+    = Psi - Phi, so the last two terms are Delta Psi - Delta Phi: Eq. (8).
+    By Jensen Phi >= 0, and Phi = 0 exactly when Q does not vary across
+    paths. Corollary: when the entropy and reversal terms are equal, the
+    likelier outcome is the one with larger -ln<e^(-beta Q)>, that is,
+    larger mean heat released and smaller Phi. Uniform starting densities
+    are what make the macrostate terms exactly ln Omega; the paper uses
+    near-uniformity (its Eq. 5 assumptions), so the split states the
+    exact version with that condition.
+  not_accepted: >-
+    The thesis. That real many-body driven systems have outcomes equal in
+    the other two terms, so that the dissipation term decides, is argued,
+    not shown (NOTE-416 C3, weak). The toy models arrange "all else
+    equal" by hand. Calling the favoured states "adapted" is partly a
+    choice of word. Its promote_when (a many-body system predicted in
+    advance from Psi - Phi) cannot be met by an argument; wave 5 only if
+    that changes.
+dropped_clauses:
+  - clause: of two outcomes equal in internal entropy and reversal probability, the likelier is the one whose formation absorbed work and dissipated it more reliably
+    kind: none (moved, not dropped)
+    route: carried by the new Active THEORY as the corollary of Eq. (8), with "more reliably" stated as smaller Phi
+blockers:
+  - "The thesis needs a many-body system in which the other two terms are held fixed or estimated and outcomes are predicted in advance from Psi - Phi (its promote_when)."
+recommended_change: >-
+  Split: file Eq. (8) and its equal-terms corollary, under uniform
+  starting densities and a fixed protocol, as an Active THEORY on
+  LIT-518. THEORY-412 goes to version 2, extends it, gets a dated note,
+  and stays Proposed with its thesis and promote_when unchanged.
+owner_questions: []

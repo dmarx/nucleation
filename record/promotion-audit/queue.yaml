@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 168
+version: 171
 updated: '2026-10-20'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
@@ -56,8 +56,8 @@ waves:
   promotion_paths: 46
 - wave: 3
   class: Source-backed THEORYs
-  reviewed: 172
-  promotion_paths: 117
+  reviewed: 187
+  promotion_paths: 122
 - wave: 4
   class: Dependency unlocks
   reviewed: 10
@@ -3513,6 +3513,121 @@ candidates:
   decision: decisions/THEORY-105.yaml
   carried_out_in:
   - '#298'
+- code: THEORY-141
+  wave: 3
+  triage: batch-076
+  state: decided
+  disposition: retain-proposed
+  batch: batch-076
+  decision: decisions/THEORY-141.yaml
+- code: THEORY-563
+  wave: 3
+  triage: batch-076
+  state: decided
+  disposition: retain-proposed
+  batch: batch-076
+  decision: decisions/THEORY-563.yaml
+- code: THEORY-374
+  wave: 3
+  triage: batch-076
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-076
+  decision: decisions/THEORY-374.yaml
+  carried_out_in:
+  - '#301'
+- code: THEORY-060
+  wave: 3
+  triage: batch-076
+  state: decided
+  disposition: retain-proposed
+  batch: batch-076
+  decision: decisions/THEORY-060.yaml
+- code: THEORY-102
+  wave: 3
+  triage: batch-076
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-076
+  decision: decisions/THEORY-102.yaml
+  carried_out_in:
+  - '#301'
+- code: THEORY-379
+  wave: 3
+  triage: batch-077
+  state: decided
+  disposition: narrow-and-promote
+  batch: batch-077
+  decision: decisions/THEORY-379.yaml
+  carried_out_in:
+  - '#308'
+- code: THEORY-412
+  wave: 3
+  triage: batch-077
+  state: decided
+  disposition: split
+  batch: batch-077
+  decision: decisions/THEORY-412.yaml
+  carried_out_in:
+  - '#308'
+- code: THEORY-429
+  wave: 3
+  triage: batch-077
+  state: decided
+  disposition: retain-proposed
+  batch: batch-077
+  decision: decisions/THEORY-429.yaml
+- code: THEORY-173
+  wave: 3
+  triage: batch-077
+  state: decided
+  disposition: retain-proposed
+  batch: batch-077
+  decision: decisions/THEORY-173.yaml
+- code: THEORY-480
+  wave: 3
+  triage: batch-077
+  state: decided
+  disposition: retain-proposed
+  batch: batch-077
+  decision: decisions/THEORY-480.yaml
+- code: THEORY-647
+  wave: 3
+  triage: batch-078
+  state: decided
+  disposition: split
+  batch: batch-078
+  decision: decisions/THEORY-647.yaml
+  carried_out_in:
+  - '#300'
+- code: THEORY-457
+  wave: 3
+  triage: batch-078
+  state: decided
+  disposition: retain-proposed
+  batch: batch-078
+  decision: decisions/THEORY-457.yaml
+- code: THEORY-525
+  wave: 3
+  triage: batch-078
+  state: decided
+  disposition: retain-proposed
+  batch: batch-078
+  decision: decisions/THEORY-525.yaml
+- code: THEORY-621
+  wave: 3
+  triage: batch-078
+  state: decided
+  disposition: retain-proposed
+  batch: batch-078
+  decision: decisions/THEORY-621.yaml
+- code: THEORY-638
+  wave: 3
+  triage: batch-078
+  state: decided
+  disposition: retain-proposed
+  batch: batch-078
+  decision: decisions/THEORY-638.yaml
 history:
 - version: 1
   date: '2026-10-19'
@@ -4205,6 +4320,27 @@ history:
   date: '2026-10-20'
   note: 'Round 073-075 tally: 8 of 15 promoted (#296-#298); owner rules a pre-acceptance manuscript read
     in full counts (THEORY-123); hand-off updated.'
+- version: 169
+  date: '2026-10-20'
+  note: 'Batch 076 integrated: 2 of 5 promoted. THEORY-374 is a genuine theorem: its open-world part is
+    narrowed to conjunctive views with a conjunctive or datalog query, and the inverse-rules and closed-world
+    results are re-derived (ADR-047 v2). THEORY-102 is a measurement the classifier called a theorem,
+    narrowed to Vishne et al.''s intracranial study; its general claim is filed as a new Proposed THEORY
+    (ADR-047 v4). THEORY-141, -563 and -060 are arguments.; carried_out_in #301'
+- version: 170
+  date: '2026-10-20'
+  note: 'Batch 077 integrated: 2 of 5 have a promotion path. THEORY-379 (Fagin''s Algorithm) is narrowed
+    to its re-derived correctness and upper bound and promoted; the lower bound it dropped is filed as
+    a Proposed THEORY (ADR-047 v4, kind 1). THEORY-412''s exact identity (Perunov, Marsland and England''s
+    Eq. 8) re-derives and is split off as an Active THEORY; the dissipative- adaptation thesis stays Proposed.
+    THEORY-429 and THEORY-173 are arguments; THEORY-480 is a report title waiting on the owner''s ruling.;
+    carried_out_in #308'
+- version: 171
+  date: '2026-10-20'
+  note: 'Batch 078 integrated: 1 of 5 has a promotion path. THEORY-647''s conditional result in relative
+    analysis (the conjunction of any V-standard number of beliefs is believed; for a V-ultralarge number
+    it can fail) is re-derived and split off as its own Active THEORY; THEORY-647 keeps Wenmackers''s
+    thesis about belief and the Lottery Paradox. The other four are arguments.; carried_out_in #300'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
 narrowing_sweep:
   procedure: record/decisions.d/ADR-047.md (v4)
