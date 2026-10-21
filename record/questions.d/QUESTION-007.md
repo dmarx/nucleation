@@ -83,11 +83,11 @@ A27 of the exchange of 2026-10-20 reached the same endpoint as A25 of
 obligations become recognizable, actionable, and self-maintaining", but
 "Requirements of equal standing, non-domination, or justified contestation
 must enter as normative premises". It cited this question's Korsgaard and
-Sen notes correctly, and again not THEORY-495 or THEORY-414. Its proposal
+Sen notes correctly, and again not [THEORY-495](../theory.d/THEORY-495.md) or [THEORY-414](../theory.d/THEORY-414.md). Its proposal
 to add a genesis–efficacy–justification distinction repeats the note of
 2026-10-18. One point is new: an institution "can satisfy a nominal
 requirement to consult affected agents while denying them effective
 participation in defining the decision's relevant questions or criteria".
 That is a condition on participation, Longino's venues and uptake
-(THEORY-151, CLAIM-tmpj163u), and not a ground of obligation. The
+([THEORY-151](../theory.d/THEORY-151.md), [CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md)), and not a ground of obligation. The
 question stays Deferred with the authenticity line.

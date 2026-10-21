@@ -179,15 +179,15 @@ alter its internal allocation of practical authority, after which the
 organization reproduces the altered allocation through processes that
 appear to be its own", and "even identical present-day procedures could
 have been constituted through different processes." That is this
-question at the scale of an institution. Under CLAIM-330, if the
+question at the scale of an institution. Under [CLAIM-330](../claims.d/CLAIM-330.md), if the
 target's loop is unstable, a single perturbation m₀ + ε suffices and
 needs no continued control, so the present structure shows nothing.
-QUESTION-070 holds the state-channel version. The institutional route is
-filed as CLAIM-tmpjo2zr, which bears on this question without answering
+[QUESTION-070](QUESTION-070.md) holds the state-channel version. The institutional route is
+filed as [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md), which bears on this question without answering
 it.
 
 **Part 1 restated twice.** A16 §11 and A27 §5 restated part 1, for
-QUESTION-011, as "a present-organization indistinguishability argument":
+[QUESTION-011](QUESTION-011.md), as "a present-organization indistinguishability argument":
 "A present-state or future-response criterion cannot distinguish
 historical modes of constitution that leave its inputs unchanged."
 Neither cited this question. As stated, the argument stipulates that the
@@ -197,15 +197,15 @@ that will-organization cannot differ between a manipulated agent and its
 twin. A27's five things an ownership theory might need are, in the
 record's terms:
 
-- current control: CLAIM-174 and CLAIM-025;
-- provenance: THEORY-047 and THEORY-121;
+- current control: [CLAIM-174](../claims.d/CLAIM-174.md) and [CLAIM-025](../claims.d/CLAIM-025.md);
+- provenance: [THEORY-047](../theory.d/THEORY-047.md) and [THEORY-121](../theory.d/THEORY-121.md);
 - "the agent's understanding of how its commitments were constituted":
-  THEORY-235;
-- "capacity for informed revision or contestation": CLAIM-364;
-- the normative conditions: CLAIM-016.
+  [THEORY-235](../theory.d/THEORY-235.md);
+- "capacity for informed revision or contestation": [CLAIM-364](../claims.d/CLAIM-364.md);
+- the normative conditions: [CLAIM-016](../claims.d/CLAIM-016.md).
 
 Its feminist-epistemology point, that endorsement given "without having
 had meaningful opportunities to understand or challenge" its assumptions
-does not show ownership, is adaptive preference (THEORY-025) and
-QUESTION-057's point that avowal is one more attitude. Not filed as a
+does not show ownership, is adaptive preference ([THEORY-025](../theory.d/THEORY-025.md)) and
+[QUESTION-057](QUESTION-057.md)'s point that avowal is one more attitude. Not filed as a
 claim.

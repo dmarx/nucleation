@@ -123,14 +123,14 @@ target-free criterion of the kind the defeat condition names.
 
 ## Note of 2026-10-21: two missing warrants and who pays for legibility
 
-**Agency is not authority.** A6 of the exchange of 2026-10-20 read CASE-110
+**Agency is not authority.** A6 of the exchange of 2026-10-20 read [CASE-110](../cases.d/CASE-110.md)
 without this claim. A9 §9–§10 cited it correctly as Proposed, and made it
 the last of four "missing warrants": that a system is an agent does not
 make its perspective normatively authoritative. That is this claim with
-CLAIM-075. The same step closes A8–A9's ladder (QUESTION-093, note of
+[CLAIM-075](CLAIM-075.md). The same step closes A8–A9's ladder ([QUESTION-093](../questions.d/QUESTION-093.md), note of
 2026-10-21).
 
-**Who pays for legibility.** A25 §3, from Lan (2026, LIT-tmpmdlm4, not
+**Who pays for legibility.** A25 §3, from Lan (2026, [LIT-tmpmdlm4](../literature.d/LIT-tmpmdlm4.md), not
 read): "**The party benefiting from increased legibility need not be the
 party paying to become legible.**" A standardized category "might make a
 person's circumstances easier for a public agency to process while
@@ -141,4 +141,4 @@ adequately represented by one legibility score." A24 §5's standpoint
 question, "*Who participates in determining 𝒬*", is this claim's second
 clause: the target cannot be justified by the description that preserves
 it. Neither reply cited the claim. The term the exchange used is filed as
-TERM-tmp5lqn0.
+[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).

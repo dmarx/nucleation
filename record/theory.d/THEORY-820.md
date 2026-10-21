@@ -203,10 +203,10 @@ A16 §5 and A17 §4.4 said why. For a fixed target, refining a description
 cannot raise its deficiency; closure's target is the description's own
 future, which refinement changes. So the three-bit chain (A and B closed,
 (A, B) not) is not a failure of "more information helps" but a change of
-question. Both halves are filed as CLAIM-tmpshzxc, which rests on
-CLAIM-tmppi0xf. A16 §2 also reconciled a governance-response failure with
+question. Both halves are filed as [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md), which rests on
+[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md). A16 §2 also reconciled a governance-response failure with
 this entry by the entry's own "Not interventional causation"; that is
-CLAIM-tmppi0xf and CASE-tmpdc0tl.
+[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md) and [CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md).
 
 A13 writes the common refinement A ∨ B, where this entry calls it a meet.
-TERM-tmpfezzd fixes the convention as this entry's.
+[TERM-tmpfezzd](../terms.d/TERM-tmpfezzd.md) fixes the convention as this entry's.

@@ -64,5 +64,5 @@ organization of scientific explanations is better represented by a
 network or partial order than by a unique ladder of levels". None cites
 this term, whose A75 already said "the levels themselves might form a
 partial order" and "The hierarchy belongs to how we can observe ... not
-necessarily to the phenomena themselves", or CLAIM-042. The rows differ
+necessarily to the phenomena themselves", or [CLAIM-042](../claims.d/CLAIM-042.md). The rows differ
 each time, so nothing is filed.

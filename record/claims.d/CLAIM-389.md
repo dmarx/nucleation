@@ -113,13 +113,13 @@ of an autonomous AR(1) with φ = 0.5 and innovation variance 0.75, whose
 transfer entropy is 0. So no functional of Y's law, memory measure or
 otherwise, decides dynamical independence. A7: "This is not a sample-size
 limitation." Checked on 2026-10-21; the general form is the note of the
-same date on CLAIM-397.
+same date on [CLAIM-397](CLAIM-397.md).
 
 **Independent with memory.** The report under "What it does not say",
 that in VAR(p ≥ 2) an exactly independent variable can carry memory, was
 checked on 2026-10-21 in the simplest case. An autonomous AR(2),
 Y_t = 0.5Y_{t−1} + 0.3Y_{t−2} + ε, has Mori memory c₁ = 0.147 and
 c₂ = −0.0315, non-zero, with autocovariance Hankel rank 2 and memory rank
-1, as CLAIM-397 predicts. So A4's "impossible" cell (independent with
-memory) is impossible only in VAR(1). QUESTION-tmp1nqby carries both
+1, as [CLAIM-397](CLAIM-397.md) predicts. So A4's "impossible" cell (independent with
+memory) is impossible only in VAR(1). [QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md) carries both
 witnesses.

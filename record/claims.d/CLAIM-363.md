@@ -157,4 +157,4 @@ Further:
 
 A8 §9 and A9 §9 of the exchange of 2026-10-20 reached this claim's
 structure for individuation, without citing it ("Observer-relative need
-not mean subjective"). That is filed as CLAIM-tmpoxkub.
+not mean subjective"). That is filed as [CLAIM-tmpoxkub](CLAIM-tmpoxkub.md).

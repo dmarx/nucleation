@@ -134,5 +134,5 @@ background variable, not of the intervention, which adds to the summary's
 A13 and A14 proposed a TERM, "intervention regime", for what is
 manipulated, what is held as background and how interventions are
 weighted. It was not filed: its content is this entry's limit, with
-QUESTION-204 and QUESTION-115's "intervention distribution". The
-intervention family is one component of TERM-tmpdxajb.
+[QUESTION-204](../questions.d/QUESTION-204.md) and [QUESTION-115](../questions.d/QUESTION-115.md)'s "intervention distribution". The
+intervention family is one component of [TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md).

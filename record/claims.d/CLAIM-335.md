@@ -133,7 +133,7 @@ transfer.
 ## Note of 2026-10-21: synergy in the target
 
 A6 and A7 of the exchange of 2026-10-20 called the three-bit chain of
-THEORY-820 "synergistic" without citing this claim. Its arrangement
+[THEORY-820](../theory.d/THEORY-820.md) "synergistic" without citing this claim. Its arrangement
 differs from the one here. This claim's synergy is between a source and
 the target's past. In the chain, the micro past's bit is carried by the
 target's two components jointly (A′ ⊕ B′ = C_t), and by the chain rule

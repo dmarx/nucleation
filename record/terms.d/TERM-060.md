@@ -183,7 +183,7 @@ relation to operative thwarting of a particular constituent's demand
 The exchange of 2026-10-20 (A13, A14) proposed an "admissible
 transformation class": the transformations under which a structure "must
 remain invariant or transform appropriately". That is the invariance sense
-of CLAIM-187, CLAIM-147, the superseded CLAIM-133 and TERM-004's
+of [CLAIM-187](../claims.d/CLAIM-187.md), [CLAIM-147](../claims.d/CLAIM-147.md), the superseded [CLAIM-133](../claims.d/CLAIM-133.md) and [TERM-004](TERM-004.md)'s
 semigroup. This term's admissible transformations are a different thing:
 the set U of changes available to an organization, under which its
 demands may be jointly unrealizable. A claim using the phrase should say

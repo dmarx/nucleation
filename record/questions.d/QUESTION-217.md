@@ -171,8 +171,8 @@ representations nest at all is [QUESTION-220](QUESTION-220.md).
 A5 of the exchange of 2026-10-20 proposed "two different mathematical order
 structures": what is identifiable grows with the access regime, while
 optimal representations need not nest. The second half is this question's
-refinement order against its relevance order, with CLAIM-387 as the
+refinement order against its relevance order, with [CLAIM-387](../claims.d/CLAIM-387.md) as the
 witness this question already cites. A5's monotone half is elementary:
 inclusion of feasible sets gives a monotone optimal value, and refinement
 of the fibres gives monotone identifiability. For a fixed target, the
-monotone half is now filed as CLAIM-tmpshzxc. The proposal appears once.
+monotone half is now filed as [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md). The proposal appears once.

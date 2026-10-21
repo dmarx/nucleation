@@ -56,5 +56,5 @@ Deferred, as its line is.
 ## Note of 2026-10-21: the manipulation limit raised again
 
 A27 of the exchange of 2026-10-20 raised this question's manipulation
-limit again. It is worked on the will line as QUESTION-071 (note of
+limit again. It is worked on the will line as [QUESTION-071](QUESTION-071.md) (note of
 2026-10-21). The status stays Deferred with its line.

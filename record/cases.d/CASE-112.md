@@ -118,7 +118,7 @@ authority balance between two organizations, with κ a stabilizing
 institutional constraint. That is this case's equation at h = 0 with
 μ = α − κ: weakening the constraint past κ = α makes the equal allocation
 unstable (checked). It is a second appearance of the normal form, and a
-new reading of μ as the strength of a rule. It is filed as CLAIM-tmpptl3y,
+new reading of μ as the strength of a rule. It is filed as [CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md),
 which this case supports.
 
 At h = 0 the pitchfork is supercritical, so in κ there is no hysteresis:
@@ -126,7 +126,7 @@ restoring κ > α makes the equal allocation again the only equilibrium,
 and a tipped allocation decays back to it. This case's hysteresis is in
 the tilt h at fixed μ > 0, and it is what A19 did not draw: an allocation
 tipped by a tilt past h_c is not restored by removing the tilt. This
-case's h is what A19 called "explicit symmetry breaking". CLAIM-tmpptl3y's
+case's h is what A19 called "explicit symmetry breaking". [CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md)'s
 check also ran this case's form with a small tilt through a weakening,
 restoring and re-weakening of the constraint: restoring it brought w near
 zero, and weakening it again selected the side the tilt favours, not the

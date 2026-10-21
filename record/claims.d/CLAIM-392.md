@@ -101,9 +101,9 @@ which distinctions the representation draws, not only how many.
 ## Note of 2026-10-21: proposed as a paper with three of its limits dropped
 
 A2 and A5 of the exchange of 2026-10-20 proposed a paper on this result
-and CLAIM-387 ("More Information, Different Categories") as "perhaps the
+and [CLAIM-387](CLAIM-387.md) ("More Information, Different Categories") as "perhaps the
 cleanest paper-sized result in the current record". They kept its
 numerical certificate and dropped three of its limits: the cost of forcing
 nesting is 0.49% of the budget, the reader's scan found nesting for
 far-apart budgets, and nesting is proved when Y = f(X) or X and Y are both
-binary (THEORY-757).
+binary ([THEORY-757](../theory.d/THEORY-757.md)).

@@ -83,4 +83,4 @@ I can act?"), and said neither entails the other. This is this claim's
 distinction carried from a single constraint to the removal of one: a
 constraint may govern conduct without governing the conditions of its own
 authority, and removing it may change either. A18 did not cite this
-claim. CLAIM-tmpyxupb, filed from A18, rests on it.
+claim. [CLAIM-tmpyxupb](CLAIM-tmpyxupb.md), filed from A18, rests on it.

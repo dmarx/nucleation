@@ -167,14 +167,14 @@ beyond". The new title states the premise as a condition.
 
 ## Note of 2026-10-21: non-closure is not contextuality
 
-A8 §5 and A9 §7 of the exchange of 2026-10-20 asked whether THEORY-820's
+A8 §5 and A9 §7 of the exchange of 2026-10-20 asked whether [THEORY-820](../theory.d/THEORY-820.md)'s
 non-closed common refinement is a contextuality obstruction, and said it
 is not. A9: "the joint representation (A,B) does exist. What fails is its
 informational closure, not its mathematical consistency or the existence
 of a joint distribution." That is right: the local descriptions glue
-(CLAIM-197), and a property of the glued description fails. It is a
+([CLAIM-197](CLAIM-197.md)), and a property of the glued description fails. It is a
 second instance, from dynamics, of this claim's warning that context
 dependence is not contextuality. A9 separated logical, representational
 and dynamical compatibility. The three-bit chain passes the first two and
-fails the third. CLAIM-044's note of 2026-10-21 records the same table
+fails the third. [CLAIM-044](CLAIM-044.md)'s note of 2026-10-21 records the same table
 from A10.

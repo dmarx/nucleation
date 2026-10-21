@@ -144,11 +144,11 @@ part of this question for one pair of criteria.
 ## Note of 2026-10-21: the leave-one-out over the criteria
 
 The owner's leave-one-out design of 2026-10-20 (U3, filed as
-QUESTION-tmp1nqby) asks systematically, of five conditions on an
+[QUESTION-tmp1nqby](QUESTION-tmp1nqby.md)) asks systematically, of five conditions on an
 effective description (predictive sufficiency, dynamical independence,
 memory closure, approximation fidelity, feasible recoverability), whether
 each can hold without the others. That is this question's "what each
 criterion tracks", asked as a table. The exchange did not cite this
-question. CLAIM-tmpcrdhj's answer to the design is that the conditions are
+question. [CLAIM-tmpcrdhj](../claims.d/CLAIM-tmpcrdhj.md)'s answer to the design is that the conditions are
 not of one logical kind, so the table's cells are not all of one sort
 either.

@@ -161,7 +161,7 @@ failing to maintain the conditions under which its contribution can be
 recognized and reproduced", with a chain "Low legibility of competence →
 Low endorsement → Low opportunity → Diminished demonstrated or actual
 capacity". A22 adds one thing: the first link is a failure of legibility
-(TERM-tmp5lqn0), not of exposure. It also applied the chain to a
+([TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md)), not of exposure. It also applied the chain to a
 constituency whose interests "are difficult to express in the categories
 an institution uses".
 
@@ -178,19 +178,19 @@ here, in A5's second chain and the 2026-10-18 note.
 operators. A specialist strong on rare cases gets fewer chances to show
 it, and "Its scarcity of favorable performance evidence can then be
 interpreted as a reason to continue denying it authority". It added
-Fricker's structural, pre-emptive testimonial injustice (THEORY-327),
+Fricker's structural, pre-emptive testimonial injustice ([THEORY-327](../theory.d/THEORY-327.md)),
 where a speaker's word "is never sought": "**Institutional recognition can
 depend on evidence of prior recognition.**" It also added Longino's uptake
-(THEORY-151): an organization "may retain dissenting specialists and
+([THEORY-151](../theory.d/THEORY-151.md)): an organization "may retain dissenting specialists and
 allow them to speak while having no meaningful process through which
 their criticism affects established views".
 
 What A24 and A26 add is the case: Fricker and Anderson's un-refreshed list
-(THEORY-327), with its prejudice condition as the criterion this claim
-says it lacks. That is filed as CLAIM-tmpoxld9, which rests on this
-claim, and the uptake point as CLAIM-tmpj163u. Its limit is this claim's.
+([THEORY-327](../theory.d/THEORY-327.md)), with its prejudice condition as the criterion this claim
+says it lacks. That is filed as [CLAIM-tmpoxld9](CLAIM-tmpoxld9.md), which rests on this
+claim, and the uptake point as [CLAIM-tmpj163u](CLAIM-tmpj163u.md). Its limit is this claim's.
 A26: "The mechanism itself is not inherently unjust. A normative
 conclusion requires establishing relevant prejudice, wrongful exclusion,
 or another justified standard of unfairness." Whether the loop is
-pathological by an internal standard is QUESTION-087. Whether it destroys
-competence, not just the evidence of it, is QUESTION-134.
+pathological by an internal standard is [QUESTION-087](../questions.d/QUESTION-087.md). Whether it destroys
+competence, not just the evidence of it, is [QUESTION-134](../questions.d/QUESTION-134.md).

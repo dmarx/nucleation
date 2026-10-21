@@ -103,14 +103,14 @@ the better unit and closure tracks something else.
 ## Note of 2026-10-21: closure gives no mereology, and is monotone in neither direction
 
 The exchange of 2026-10-20 (A6–A9) built its paper on the two warnings
-this question already records from THEORY-820. A6 called the second "the
+this question already records from [THEORY-820](../theory.d/THEORY-820.md). A6 called the second "the
 biggest discovery". Two facts were checked from the exact three-bit chain.
 (A, C) and (B, C) are closed, though (A, B) is not, and A⊕B, a coarsening
 of (A, B), is not closed (1 bit), so the closed coarse-grainings are
 neither upward- nor downward-closed in the refinement order. That is filed
-as CLAIM-tmpshzxc, with the reason: refinement changes the future that
+as [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md), with the reason: refinement changes the future that
 closure asks to be predicted. A8 and A9 drew from this that closure
 "cannot be a sufficient criterion" of a unit or an agent, which is this
-question's open half and CLAIM-157's guard, and offered no independent
-mark of unity either. TERM-tmpfezzd separates the senses of "closure" the
+question's open half and [CLAIM-157](../claims.d/CLAIM-157.md)'s guard, and offered no independent
+mark of unity either. [TERM-tmpfezzd](../terms.d/TERM-tmpfezzd.md) separates the senses of "closure" the
 exchange ran together.

@@ -145,8 +145,8 @@ exchange of 2026-10-20: "the will paper's central Proposed thesis"; A17:
 "I would write it as a companion to *The Organization of Will*". A17's
 manuscript uses the six relations as the explanatory target and proposes
 a formal adequacy criterion for descriptions of them, filed as
-CLAIM-tmppi0xf and CLAIM-tmpshzxc, with TERM-tmpf5k7x. A15's five
+[CLAIM-tmppi0xf](CLAIM-tmppi0xf.md) and [CLAIM-tmpshzxc](CLAIM-tmpshzxc.md), with [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md). A15's five
 dimensions (capability, accessibility, practical authority, governance,
 revisability) and A16's five stages (represented, accessible, authorized,
-effective, revisable) restate the six relations with TERM-055 and
-CLAIM-296, and are not filed.
+effective, revisable) restate the six relations with [TERM-055](../terms.d/TERM-055.md) and
+[CLAIM-296](CLAIM-296.md), and are not filed.

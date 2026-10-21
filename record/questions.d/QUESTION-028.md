@@ -151,11 +151,11 @@ A27 of the exchange of 2026-10-20, asked at U27 whether the record is
 better placed on this question, offered five "candidate criteria" for an
 "operationally warranted effective kind". Four are A191's (above). The
 fifth is "independence from self-confirming classification effects", or a
-causal account of them, which is NOTE-769's point about Hacking's
+causal account of them, which is [NOTE-769](../notes.d/NOTE-769.md)'s point about Hacking's
 interactive kinds: a category used by speakers can change what they do.
 A27 called the result "close to a defensible conditional answer". It is
 not one on this question's terms. A27 declines to say which criteria are
 necessary ("not five individually necessary conditions"), and its
-conclusion, a domain-relative kind and not a natural kind, is THEORY-036
-and THEORY-273, which it did not cite. The fifth criterion is filed as
-CLAIM-tmpeftzb, which bears on this question without settling it.
+conclusion, a domain-relative kind and not a natural kind, is [THEORY-036](../theory.d/THEORY-036.md)
+and [THEORY-273](../theory.d/THEORY-273.md), which it did not cite. The fifth criterion is filed as
+[CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md), which bears on this question without settling it.

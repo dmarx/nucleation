@@ -83,7 +83,7 @@ individuation rather than agency.
 ## Note of 2026-10-21: the leave-one-out, and the ladder again
 
 **The leave-one-out.** The owner's leave-one-out design of 2026-10-20
-(U3, filed as QUESTION-tmp1nqby) asks this question's "can it have the
+(U3, filed as [QUESTION-tmp1nqby](QUESTION-tmp1nqby.md)) asks this question's "can it have the
 first without the others?" systematically, of five conditions on an
 effective description. The exchange did not cite this question.
 
@@ -92,8 +92,8 @@ effective description. The exchange did not cite this question.
 Autonomous dynamics ⇏ Organized individual ⇏ Agent", with four tests
 (predictive, dynamical, interventional, organizational). They added a
 fifth step: "A system is an agent, therefore its perspective is
-normatively authoritative", which is CLAIM-075 and CLAIM-348. Neither
-reply cites this question, CLAIM-174 or THEORY-071, which hold the same
+normatively authoritative", which is [CLAIM-075](../claims.d/CLAIM-075.md) and [CLAIM-348](../claims.d/CLAIM-348.md). Neither
+reply cites this question, [CLAIM-174](../claims.d/CLAIM-174.md) or [THEORY-071](../theory.d/THEORY-071.md), which hold the same
 structure. What is new is that the first step's failure is now
 demonstrated twice: noise is closed, and closure does not compose
-(THEORY-820, CLAIM-tmpshzxc).
+([THEORY-820](../theory.d/THEORY-820.md), [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md)).

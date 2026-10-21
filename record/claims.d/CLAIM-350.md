@@ -138,8 +138,8 @@ title is the definition, and its "Equivalently ... refines the partition
 into J's level sets" gives the partition form.
 
 The same exchange gave this claim's "What it does not say" (Construction
-B, CLAIM-127) its first parameterized form: a closed coarse-graining that
-loses an intervention response, filed as CLAIM-tmppi0xf with
-CASE-tmpdc0tl. The note of 2026-10-21 on CLAIM-397 uses this claim's
+B, [CLAIM-127](CLAIM-127.md)) its first parameterized form: a closed coarse-graining that
+loses an intervention response, filed as [CLAIM-tmppi0xf](CLAIM-tmppi0xf.md) with
+[CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md). The note of 2026-10-21 on [CLAIM-397](CLAIM-397.md) uses this claim's
 condition to widen a non-identifiability result to every functional of a
 law.

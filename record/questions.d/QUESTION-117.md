@@ -108,15 +108,15 @@ process, is the same test.
 A25 §2 of the exchange of 2026-10-20 asked this question again without
 citing it: "whether our second authority variable changes the dynamics in
 ways that cannot already be represented as endogenous network weights,
-strategic signaling, or standard adaptive learning", and "CLAIM-330's
+strategic signaling, or standard adaptive learning", and "[CLAIM-330](../claims.d/CLAIM-330.md)'s
 instability condition is valid mathematics. Its novelty cannot rest on the
 eigenvalue calculation itself." It adds a candidate: Mostagir, Ozdaglar
 and Siderius, "When Is Society Susceptible to Manipulation?"
 (Management Science 2022, doi:10.1287/mnsc.2021.4265), now registered
-unread as LIT-tmp8x4zb. A25 says it "concerns strategic interference with
+unread as [LIT-tmp8x4zb](../literature.d/LIT-tmp8x4zb.md). A25 says it "concerns strategic interference with
 social learning, rather than a dynamically evolving allocation of
 authority over interpretation". That is the third exchange to pose the
 question, after A15 of 2026-10-16 and A32 of 2026-10-17. The predecessors
-registered here (LIT-1146, LIT-1128, LIT-1139, LIT-1134) are still unread.
+registered here ([LIT-1146](../literature.d/LIT-1146.md), [LIT-1128](../literature.d/LIT-1128.md), [LIT-1139](../literature.d/LIT-1139.md), [LIT-1134](../literature.d/LIT-1134.md)) are still unread.
 A25's other first-ranked work, Weatherall, O'Connor and Bruner, is
-registered as LIT-tmpx95z2.
+registered as [LIT-tmpx95z2](../literature.d/LIT-tmpx95z2.md).

@@ -125,6 +125,6 @@ As the record states it:
 
 A2 of the exchange of 2026-10-20 proposed as a paper "Agency attribution
 requires a choice of system boundary, causal variables, and
-counterfactual intervention class", from THEORY-527 and THEORY-801. That is
-this claim and TERM-044, which the exchange did not cite. The same
-exchange filed the organizational rival to TERM-044 as TERM-tmp3p5ss.
+counterfactual intervention class", from [THEORY-527](../theory.d/THEORY-527.md) and [THEORY-801](../theory.d/THEORY-801.md). That is
+this claim and [TERM-044](../terms.d/TERM-044.md), which the exchange did not cite. The same
+exchange filed the organizational rival to [TERM-044](../terms.d/TERM-044.md) as [TERM-tmp3p5ss](../terms.d/TERM-tmp3p5ss.md).

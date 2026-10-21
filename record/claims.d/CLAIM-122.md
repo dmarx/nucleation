@@ -104,11 +104,11 @@ intervene on governance relations, and ask whether the operative action
 changes"). A15 §2 then built it as a counterexample with parameters
 (proposals u₁ = 0, u₂ = 1; an authorization input connected in one system
 and not the other), and A16 §3 gave it noise, a closure statement and a
-deficiency of 0.5 bit. That is filed as CASE-tmpdc0tl, which illustrates
-this claim, and its general form as CLAIM-tmppi0xf, with the profile it
-asks a description to keep as TERM-tmpf5k7x. A17 made it its paper's
+deficiency of 0.5 bit. That is filed as [CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md), which illustrates
+this claim, and its general form as [CLAIM-tmppi0xf](CLAIM-tmppi0xf.md), with the profile it
+asks a description to keep as [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md). A17 made it its paper's
 Proposition 1 and listed it as "Established by the paper's self-contained
 finite counterexample", without the note of 2026-10-18, which already
 holds A12's Proposition 2 in words. This is the first instance with
-numbers. CLAIM-116 still holds: A16, "K is simply a hidden mechanism
+numbers. [CLAIM-116](CLAIM-116.md) still holds: A16, "K is simply a hidden mechanism
 parameter."

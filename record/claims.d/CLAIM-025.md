@@ -92,22 +92,22 @@ self-governance. A26 §7 boxed "Capacity to update judgments ≠ Capacity to
 revise how judgments acquire authority". A27 §3 listed behavioural,
 governance and epistemic-governance adaptation. All three are this
 claim's three things that persist or fail separately. §7's box is the
-single-loop against double-loop learning of THEORY-145, which grounds this
-claim. Neither reply cited this claim or THEORY-145. A26 cited CLAIM-099
+single-loop against double-loop learning of [THEORY-145](../theory.d/THEORY-145.md), which grounds this
+claim. Neither reply cited this claim or [THEORY-145](../theory.d/THEORY-145.md). A26 cited [CLAIM-099](CLAIM-099.md)
 for it as "retaining the capacity to change governing regimes", which is
-this claim's third tier, not CLAIM-099's "capacity to govern among
+this claim's third tier, not [CLAIM-099](CLAIM-099.md)'s "capacity to govern among
 regimes". The new nuance is A27's epistemic form of the third tier:
 changing "how evidence and evaluations influence those governance
 decisions".
 
-**Organized ignorance.** A24 §4, from Pohlhaus (LIT-tmp22xqb) and Dotson
-(LIT-tmpnfswr), both registered unread: "An institution can be very good
+**Organized ignorance.** A24 §4, from Pohlhaus ([LIT-tmp22xqb](../literature.d/LIT-tmp22xqb.md)) and Dotson
+([LIT-tmpnfswr](../literature.d/LIT-tmpnfswr.md)), both registered unread: "An institution can be very good
 at producing and evaluating knowledge *within its accepted categories*
 while remaining poor at recognizing the inadequacy of those categories
 ... **the mechanisms determining what it learns are themselves insulated
 from certain kinds of correction**." A25 §8 asked for "the ability to
 recognize when the **evidentiary and evaluative regime itself** requires
 revision". Both are Argyris's single-loop learning and self-sealing tests,
-held in THEORY-145, and neither reply cited them. The difference is the
+held in [THEORY-145](../theory.d/THEORY-145.md), and neither reply cited them. The difference is the
 source of the insulation: on A24's account it is social position, not
 defensive routine.

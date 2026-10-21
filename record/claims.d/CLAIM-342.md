@@ -168,8 +168,8 @@ scoring of evidence, not merely formal separation between a decision-maker
 and its evaluator**". Its audit table listed "Governance can make its own
 evidence and authority self-reinforcing" as a new "Proposed institutional
 interpretation". These are the second to fifth appearances. The
-institutional form is filed as CLAIM-tmpjo2zr, which rests on this claim,
-with TERM-tmpe6jtq for capture.
+institutional form is filed as [CLAIM-tmpjo2zr](CLAIM-tmpjo2zr.md), which rests on this claim,
+with [TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md) for capture.
 
 **A performative instance.** A26 §2 built a toy in which a classification
 fixes the policy that generates its own evidence:
@@ -178,9 +178,9 @@ fixes the policy that generates its own evidence:
 behavioral evidence generated under that classification" (checked). It is
 this claim's loop with no independent evidence: every observation passes
 through the category under test. A26 tied it to Perdomo et al.'s
-performative prediction (LIT-tmpwbhro) and Espeland and Sauder's
-reactivity (LIT-tmpngpsy), both registered unread, and drew this claim's
+performative prediction ([LIT-tmpwbhro](../literature.d/LIT-tmpwbhro.md)) and Espeland and Sauder's
+reactivity ([LIT-tmpngpsy](../literature.d/LIT-tmpngpsy.md)), both registered unread, and drew this claim's
 conclusion: "stability and accuracy under the prevailing intervention
 regime do not establish correctness under alternative regimes". A27
-carried it into QUESTION-028, filed as CLAIM-tmpeftzb, which rests on
+carried it into [QUESTION-028](../questions.d/QUESTION-028.md), filed as [CLAIM-tmpeftzb](CLAIM-tmpeftzb.md), which rests on
 this claim.

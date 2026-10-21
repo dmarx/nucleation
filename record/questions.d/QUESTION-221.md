@@ -108,9 +108,9 @@ explicit."
 
 A2 of the exchange of 2026-10-20 listed "an approximate reduced dynamics
 can be accurate without establishing informational independence" among
-non-implications "already established", on THEORY-771 alone. A3 called the
+non-implications "already established", on [THEORY-771](../theory.d/THEORY-771.md) alone. A3 called the
 same case "a promising conceptual separation". Neither cited this
-question, CLAIM-390 or CLAIM-386. The record bounds the dependence (second
+question, [CLAIM-390](../claims.d/CLAIM-390.md) or [CLAIM-386](../claims.d/CLAIM-386.md). The record bounds the dependence (second
 order in the coupling into a block) but holds no construction of the
-non-implication as stated. It is one of the cells QUESTION-tmp1nqby asks
+non-implication as stated. It is one of the cells [QUESTION-tmp1nqby](QUESTION-tmp1nqby.md) asks
 to be filled.

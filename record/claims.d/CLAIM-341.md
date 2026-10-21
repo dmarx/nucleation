@@ -323,8 +323,8 @@ The status is unchanged.
 A16 §8 of the exchange of 2026-10-20, "Governance of the observer",
 re-derived this loop ("**The governor may partly determine the evidence on
 which future governance decisions depend**") without citing it, and
-without CLAIM-330 and CLAIM-340, which say when it is self-confirming. Its
+without [CLAIM-330](CLAIM-330.md) and [CLAIM-340](CLAIM-340.md), which say when it is self-confirming. Its
 "first-order" and "second-order epistemic adequacy" (preserving the
 answers to a fixed query family, against preserving how the family is
 selected) appears once. The exchange took the loop on to institutions in
-CLAIM-tmpjo2zr.
+[CLAIM-tmpjo2zr](CLAIM-tmpjo2zr.md).

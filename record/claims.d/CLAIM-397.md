@@ -99,16 +99,16 @@ limitation. It survives even with perfect knowledge of the observable
 distribution."
 
 The widening, from memory measures to any functional of Y's law, is shown
-by one pair, checked on 2026-10-21. CLAIM-389's Y has autocovariance 0.5ᵗ
+by one pair, checked on 2026-10-21. [CLAIM-389](CLAIM-389.md)'s Y has autocovariance 0.5ᵗ
 and unit variance. A stationary Gaussian process is fixed by its mean and
 autocovariance, so Y has the law of the autonomous AR(1)
 Y′_t = 0.5 Y′_{t−1} + η_t with Var η = 0.75. Yet T(X → Y) =
 ½ ln(0.75/0.59) = 0.120 nats per step, while Y′, taken as its own whole
-system, receives nothing. By CLAIM-350, a property decidable from 𝓛(Y)
+system, receives nothing. By [CLAIM-350](CLAIM-350.md), a property decidable from 𝓛(Y)
 must be constant on the models that share that law, and dynamical
 independence is not. Dependence can still be found from the joint law of
 the whole system, and nothing here is about interventions.
 
 The pair was proposed as a claim of its own and not filed; it is recorded
-here and on CLAIM-389. QUESTION-tmp1nqby's leave-one-out uses it as the
+here and on [CLAIM-389](CLAIM-389.md). [QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md)'s leave-one-out uses it as the
 witness for memory without independence.

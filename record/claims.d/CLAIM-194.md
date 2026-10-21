@@ -105,11 +105,11 @@ exclude externally maintained blocks, so the first condition need not.
 A9 §3 of the exchange of 2026-10-20 separated predictive closure from
 organizational closure and proposed that "A living or agentive boundary
 may be distinguished by its regulation of exchange, rather than by the
-absence of exchange". That is THEORY-071's interactional asymmetry, which
+absence of exchange". That is [THEORY-071](../theory.d/THEORY-071.md)'s interactional asymmetry, which
 A9 does not cite. A8 §1 adds the informational side of this claim's point:
 since agents are coupled to their environments, exact closure "cannot
 straightforwardly serve as a necessary condition for agency", and since
 noise is closed, it is not sufficient either. So neither a coupling
-criterion (this claim) nor a closure criterion (THEORY-820) tells a
+criterion (this claim) nor a closure criterion ([THEORY-820](../theory.d/THEORY-820.md)) tells a
 produced boundary from an imposed one. The two closures are separated in
-TERM-tmpfezzd and TERM-tmpnjo1t.
+[TERM-tmpfezzd](../terms.d/TERM-tmpfezzd.md) and [TERM-tmpnjo1t](../terms.d/TERM-tmpnjo1t.md).

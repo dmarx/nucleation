@@ -180,7 +180,7 @@ mechanisms of adaptation may operate at different timescales from the
 mechanisms of action." A9: "A frozen policy can still condition its
 actions on environmental observations. A learning system can adapt over a
 slower timescale. Neither fact by itself determines the correct agent
-boundary." Under CLAIM-174's third condition, which agent passes depends
+boundary." Under [CLAIM-174](CLAIM-174.md)'s third condition, which agent passes depends
 on the timescale of the intervention on consequences. That is a parameter
 this claim's "which unit is individuated for the training dynamics" leaves
 implicit.

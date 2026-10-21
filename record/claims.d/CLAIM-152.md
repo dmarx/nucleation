@@ -190,13 +190,13 @@ as the thesis of a proposed paper. A2: "Effective descriptions possess
 multiple, logically distinct virtues, and no one of the examined virtues
 can be treated without qualification as a sufficient criterion for all
 the others", and "effective structure is objective but not absolute".
-They are this claim with CLAIM-300 and CLAIM-348, carried to effective
-descriptions, and TERM-043's componentwise comparison carried from
+They are this claim with [CLAIM-300](CLAIM-300.md) and [CLAIM-348](CLAIM-348.md), carried to effective
+descriptions, and [TERM-043](../terms.d/TERM-043.md)'s componentwise comparison carried from
 fidelity.
 
 The thesis was not filed as a claim. Its parts were: the conditions are
-not of one kind (CLAIM-tmpcrdhj), the leave-one-out that would test them
-(QUESTION-tmp1nqby), and what adequacy is relative to (TERM-tmpdxajb, the
+not of one kind ([CLAIM-tmpcrdhj](CLAIM-tmpcrdhj.md)), the leave-one-out that would test them
+([QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md)), and what adequacy is relative to ([TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md), the
 effective-description regime). A paper built on it would be a `works`
 question for the owner. A8 and A9 carried the same structure to
-individuation, filed as CLAIM-tmpoxkub, which rests on this claim.
+individuation, filed as [CLAIM-tmpoxkub](CLAIM-tmpoxkub.md), which rests on this claim.

@@ -66,6 +66,6 @@ to the processes authorized to respond". It proposed keeping that
 through which less authoritative contributions can change the criteria of
 authority itself". It is this question's second half, whether losing the
 channels is losing the capacity to transform, asked of recognition rather
-than of intention. A23 did not cite it. QUESTION-089 is its companion.
-CLAIM-tmpj163u, filed from A24, bears on it without answering it. No
+than of intention. A23 did not cite it. [QUESTION-089](QUESTION-089.md) is its companion.
+[CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md), filed from A24, bears on it without answering it. No
 answer is added.

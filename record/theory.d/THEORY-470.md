@@ -121,6 +121,6 @@ A19's "release of existing asymmetry" in the exchange of 2026-10-20, and
 A20's first configuration ("A regulator constrains concentration of
 private authority | Removing that constraint may permit stronger private
 power asymmetries"), are this reading's mechanism, stated generally.
-Neither reply cited it. CLAIM-tmpptl3y's table of A19's four mechanisms
+Neither reply cited it. [CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md)'s table of A19's four mechanisms
 names this reading for the third and demonstrates only the first. The
 reading is Proposed and rests on a talk.

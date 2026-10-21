@@ -123,7 +123,7 @@ and "historical" continuity, without citing it. A13 and A14 then proposed
 a TERM, "organizational reconstitution", for processes that "restore,
 reproduce, or transform" an organization's relations. In this record
 reconstitution is what this claim says is not continuation: "an
-organization of the same kind that arises independently" (QUESTION-118,
-THEORY-418, CASE-105). The proposed TERM would merge the two. The
+organization of the same kind that arises independently" ([QUESTION-118](../questions.d/QUESTION-118.md),
+[THEORY-418](../theory.d/THEORY-418.md), [CASE-105](../cases.d/CASE-105.md)). The proposed TERM would merge the two. The
 persistences are filed instead as a disambiguation TERM under another
-name, TERM-tmpzdpdt.
+name, [TERM-tmpzdpdt](../terms.d/TERM-tmpzdpdt.md).

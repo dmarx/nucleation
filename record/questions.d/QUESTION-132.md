@@ -168,6 +168,6 @@ A19 §5 of the exchange of 2026-10-20: "Symmetry breaking is not inherently
 a failure ... We can distinguish desirable specialization from
 problematic entrenchment only after specifying criteria beyond the
 symmetry-breaking dynamics themselves". This is this question's
-alternative, asked of institutions (CLAIM-tmpptl3y). A20's close ("may
+alternative, asked of institutions ([CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md)). A20's close ("may
 also reflect genuine learning, merited expertise, and beneficial
-specialization") is QUESTION-100's and QUESTION-087's.
+specialization") is [QUESTION-100](QUESTION-100.md)'s and [QUESTION-087](QUESTION-087.md)'s.

@@ -100,13 +100,13 @@ contextuality), or its compatible distributions have no global joint
 A10 of the exchange of 2026-10-20 (§7) tabulated three ways local
 descriptions can fail to yield one global account. The first is
 "Noncompositional closure: a joint representation exists but loses a
-property possessed by its components" (THEORY-820). The second is
+property possessed by its components" ([THEORY-820](../theory.d/THEORY-820.md)). The second is
 "Observational nonidentifiability: multiple underlying structures share
 the same observable profile". The third is a "causal-contextuality
-obstruction", in which local causal assignments do not glue (THEORY-171).
+obstruction", in which local causal assignments do not glue ([THEORY-171](../theory.d/THEORY-171.md)).
 The second and third are this claim's ambiguity and contextuality:
-several compatible global assignments, or none. CLAIM-144 adds the case
+several compatible global assignments, or none. [CLAIM-144](CLAIM-144.md) adds the case
 of coordinates that differ without any failure to glue. The first is a
 third kind: the global description exists, and a property fails to
-survive the join (CLAIM-219, note of 2026-10-21; CLAIM-tmpshzxc). It
+survive the join ([CLAIM-219](CLAIM-219.md), note of 2026-10-21; [CLAIM-tmpshzxc](CLAIM-tmpshzxc.md)). It
 recurs in A12 (Batch 5) and A14 (PR 6). Recorded here, not filed.

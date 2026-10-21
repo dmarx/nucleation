@@ -154,8 +154,8 @@ automatically classify this as epistemic injustice") and drew its
 feedback chain: "Filed contribution → Greater discoverability → More
 citation and reuse → Greater influence on future inquiry". A24: "our
 terminology registry and filing procedures are themselves legibility and
-authority-allocation mechanisms". That is CLAIM-181 and CLAIM-182, which
+authority-allocation mechanisms". That is [CLAIM-181](../claims.d/CLAIM-181.md) and [CLAIM-182](../claims.d/CLAIM-182.md), which
 A24 did not cite. A24's account that the Fricker readings are "largely
 isolated from the distributed-agency and effective-description lines" is
-right except for CLAIM-277's pointer here. CLAIM-tmpoxld9 now connects
+right except for [CLAIM-277](../claims.d/CLAIM-277.md)'s pointer here. [CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md) now connects
 them.

@@ -81,16 +81,16 @@ target, and can be wrong given them.
 
 ## Note of 2026-10-21: rivals proposed, and a sense this term refines
 
-A2 of the exchange of 2026-10-20 proposed this term with CLAIM-170 as a
-paper, without citing either (CLAIM-170, note of 2026-10-21).
+A2 of the exchange of 2026-10-20 proposed this term with [CLAIM-170](../claims.d/CLAIM-170.md) as a
+paper, without citing either ([CLAIM-170](../claims.d/CLAIM-170.md), note of 2026-10-21).
 
 A11, A12 and A14 proposed filing competing definitions of agent beside
-this one. One is THEORY-071's organizational sense, filed as a rival,
-TERM-tmp3p5ss. The other is "agent, as an adaptive policy mechanism",
-which is this term's test 3 taken alone, as THEORY-801 defines it. This
-term refines that sense and does not rival it. THEORY-583's cybernetic
+this one. One is [THEORY-071](../theory.d/THEORY-071.md)'s organizational sense, filed as a rival,
+[TERM-tmp3p5ss](TERM-tmp3p5ss.md). The other is "agent, as an adaptive policy mechanism",
+which is this term's test 3 taken alone, as [THEORY-801](../theory.d/THEORY-801.md) defines it. This
+term refines that sense and does not rival it. [THEORY-583](../theory.d/THEORY-583.md)'s cybernetic
 Self falls at the control-system tier, which this term places below
 agency ("Not every control system") and which has no TERM of its own
-(TERM-048, CLAIM-155). A14 proposed a comparison section on homeostats,
+([TERM-048](TERM-048.md), [CLAIM-155](../claims.d/CLAIM-155.md)). A14 proposed a comparison section on homeostats,
 trained policies, training processes, organisms and collectives, marking
 unestablished verdicts as unresolved. That would be a new version.

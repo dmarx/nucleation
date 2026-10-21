@@ -181,4 +181,4 @@ action sets ⇏ Pareto-improved equilibrium outcomes". Checked. The sharp
 edge already says precommitment can shrink the set and make an endorsed
 project realizable. The PD is the two-agent form, in which the shrinking
 is imposed and not chosen. That bears on autonomy, which this claim does
-not settle. CLAIM-tmpyxupb uses the example.
+not settle. [CLAIM-tmpyxupb](CLAIM-tmpyxupb.md) uses the example.

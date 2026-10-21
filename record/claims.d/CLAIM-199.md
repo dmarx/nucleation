@@ -206,4 +206,4 @@ be monotone in informational refinement for bounded observers". It called
 the claim a "result" among "the existing Active mathematical results". The
 claim is Proposed and interpretive, though its example is checkable and
 was rechecked. A second appearance, and a name for what the claim calls
-usable information. The name is filed as TERM-tmp5lqn0.
+usable information. The name is filed as [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).

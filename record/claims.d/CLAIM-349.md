@@ -184,7 +184,7 @@ the distinction "wasn't retained", "Legibility-related" if it "was
 retained but wasn't recognized or usable", and "Governance-related" if it
 "was recognized but couldn't acquire appropriate practical influence".
 "These can produce indistinguishable behavior while requiring different
-explanations." Retention is CLAIM-350's question, usability CLAIM-199's
-(TERM-tmp5lqn0), and the step from access to authority is this claim's.
-A23 cited neither this claim nor CLAIM-156. A24 §6 carried the split to
-contributors, filed as CLAIM-tmpj163u, which rests on this claim.
+explanations." Retention is [CLAIM-350](CLAIM-350.md)'s question, usability [CLAIM-199](CLAIM-199.md)'s
+([TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md)), and the step from access to authority is this claim's.
+A23 cited neither this claim nor [CLAIM-156](CLAIM-156.md). A24 §6 carried the split to
+contributors, filed as [CLAIM-tmpj163u](CLAIM-tmpj163u.md), which rests on this claim.
