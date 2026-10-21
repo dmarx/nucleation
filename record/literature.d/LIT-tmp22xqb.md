@@ -1,7 +1,7 @@
 ---
 status: Unavailable
 status_note: >-
-  filed 2026-10-21; a lawful full text was sought the same day and none was reached. Unpaywall, OpenAlex and Semantic Scholar list it as closed; Cambridge Core, which now holds Hypatia, redirects the article and its PDF link to the paywalled abstract; web searches for an author-posted, repository or course copy found only syllabi that assign it (University of Victoria) and citations; CORE refused the query (rate limit) and PhilPapers returned a bot check. It stays Unavailable until a copy is supplied. Kay, Kasirzadeh and Mohamed (NOTE-tmpw3hh8) restate its term secondhand, which is not a reading.
+  filed 2026-10-21; a lawful full text was sought the same day and none was reached. Unpaywall, OpenAlex and Semantic Scholar list it as closed; Cambridge Core, which now holds Hypatia, redirects the article and its PDF link to the paywalled abstract; web searches for an author-posted, repository or course copy found only syllabi that assign it (University of Victoria) and citations; CORE refused the query (rate limit) and PhilPapers returned a bot check. It stays Unavailable until a copy is supplied. Kay, Kasirzadeh and Mohamed ([NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md)) restate its term secondhand, which is not a reading.
 title: 'Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance'
 version: 2
 history:

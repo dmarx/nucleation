@@ -18,12 +18,12 @@ date: '2026-10-21'
 source:
 - LIT-tmpm7glb
 summary: >-
-  Short, Hill and Brown (2025), LIT-tmpm7glb, read in NOTE-tmpxvj22. A
+  Short, Hill and Brown (2025), [LIT-tmpm7glb](../literature.d/LIT-tmpm7glb.md), read in [NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md). A
   pre-registered conjoint and opinion survey. It does not say that the
   samples represent the US public or the antitrust bar, that the
   lawyers' training caused their values, or that the standard is
   captured: that verdict also needs the paper's historical argument and
-  is THEORY-tmpw39mh, Proposed.
+  is [THEORY-tmpw39mh](THEORY-tmpw39mh.md), Proposed.
 ---
 <!-- inactive-ok-file: THEORY-tmpw39mh CLAIM-tmpjo2zr — Proposed; the wider account and the claim this measurement bears on, nothing here rests on them -->
 # THEORY-tmp1kuko: In a 2024 survey of a quota-matched online sample of 2,092 US adults and a convenience sample of 103 antitrust lawyers, the public weighed layoffs, worse product quality and more lobbying well above price reductions in judging whether a merger should be challenged, the consumer welfare standard's own objective, while support for replacing that standard was 42.6 points lower among the lawyers than among the public, against a partisan gap of 5.9 points
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Short, Hill and Brown (2025), *Perspectives on Politics* 24(2): 680–700,
-LIT-tmpm7glb, open access, read in NOTE-tmpxvj22. Hypotheses H4, H6 and
+[LIT-tmpm7glb](../literature.d/LIT-tmpm7glb.md), open access, read in [NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md). Hypotheses H4, H6 and
 H8 of the pre-analysis plan (osf.io/nyxha).
 
 ## What was actually shown
@@ -77,4 +77,4 @@ do not depend on the sample matching the population's composition.
   measurement shows that values outside the standard weigh heavily with
   the public and that practitioners diverge. The verdict of capture also
   needs the paper's historical case and is held, Proposed, as
-  THEORY-tmpw39mh.
+  [THEORY-tmpw39mh](THEORY-tmpw39mh.md).

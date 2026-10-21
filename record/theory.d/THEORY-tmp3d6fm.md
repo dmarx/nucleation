@@ -20,8 +20,8 @@ date: '2026-10-21'
 source:
 - LIT-tmp2ojrd
 summary: >-
-  Collins (1986), LIT-tmp2ojrd, read in an authorized Portuguese
-  translation in NOTE-tmpj0rwa: the "outsider within". An argument from
+  Collins (1986), [LIT-tmp2ojrd](../literature.d/LIT-tmp2ojrd.md), read in an authorized Portuguese
+  translation in [NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md): the "outsider within". An argument from
   the sociology of knowledge and Kuhn, illustrated by anomalies Black
   feminist sociologists did detect. It does not say that every outsider
   within sees them, that insiders cannot, or that what the outsider within
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Collins (1986), "Learning from the Outsider Within", *Social Problems*
-33(6): S14–S32, LIT-tmp2ojrd, read in full in NOTE-tmpj0rwa in the
+33(6): S14–S32, [LIT-tmp2ojrd](../literature.d/LIT-tmp2ojrd.md), read in full in [NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md) in the
 authorized Portuguese translation (*Sociedade e Estado* 31(1), 2016). The
 quotations below are the translation's, with the record's English gloss.
 
@@ -76,7 +76,7 @@ promote_when asks for.
   as usual).
 - **That position is enough for uptake.** The standing is professional
   membership. Whether the discipline takes up what is reported is
-  Longino's question (THEORY-151) and CLAIM-tmpj163u's later rungs.
+  Longino's question ([THEORY-151](THEORY-151.md)) and [CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md)'s later rungs.
 - **That the position is special to Black women.** Collins treats them as
   an extreme case of any less powerful group of outsiders entering a more
   powerful community of insiders.

@@ -19,7 +19,7 @@ date: '2026-10-21'
 source:
 - LIT-tmpwu0n0
 summary: >-
-  Kay, Kasirzadeh and Mohamed (2024), LIT-tmpwu0n0, read in NOTE-tmpw3hh8:
+  Kay, Kasirzadeh and Mohamed (2024), [LIT-tmpwu0n0](../literature.d/LIT-tmpwu0n0.md), read in [NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md):
   "In the algorithmic setting, the injustice requires a credibility excess
   assigned to the algorithm". A conceptual analysis, illustrated with
   reported cases. It does not say that users do overtrust models (the
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Kay, Kasirzadeh and Mohamed (2024), *Proceedings of AIES* 7: 684–697,
-LIT-tmpwu0n0, read in full in NOTE-tmpw3hh8 from the publisher's PDF.
+[LIT-tmpwu0n0](../literature.d/LIT-tmpwu0n0.md), read in full in [NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md) from the publisher's PDF.
 The statement is the paper's, in §4 under "Amplified Testimonial
 Injustice".
 
@@ -68,11 +68,11 @@ credibility, the excess the account requires is absent.
 - **That the prejudice has gone.** The prejudice is carried by the
   training data. The account moves it, from a hearer judging a speaker to
   a corpus shaping what the model says. It still needs it, which is why it
-  does not supply what CLAIM-tmpoxld9 says the loop lacks.
+  does not supply what [CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md) says the loop lacks.
 - **That deliberate fabrication with a model is testimonial injustice.**
   The paper says so for its "manipulative" configuration. Fricker
-  (THEORY-327) treats deliberate manipulation of credibility as a distinct
+  ([THEORY-327](THEORY-327.md)) treats deliberate manipulation of credibility as a distinct
   wrong.
 - **That the amplification is a self-reinforcing loop.** The paper says it
-  "creates a feedback loop" and gives no condition. CLAIM-277's loop and
-  CLAIM-330's condition are the record's, not this paper's.
+  "creates a feedback loop" and gives no condition. [CLAIM-277](../claims.d/CLAIM-277.md)'s loop and
+  [CLAIM-330](../claims.d/CLAIM-330.md)'s condition are the record's, not this paper's.

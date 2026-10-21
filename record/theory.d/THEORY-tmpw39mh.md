@@ -22,9 +22,9 @@ date: '2026-10-21'
 source:
 - LIT-tmpm7glb
 summary: >-
-  Short, Hill and Brown (2025), LIT-tmpm7glb, read in NOTE-tmpxvj22. The
+  Short, Hill and Brown (2025), [LIT-tmpm7glb](../literature.d/LIT-tmpm7glb.md), read in [NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md). The
   definition is theirs; the evidence for the case is their survey
-  (THEORY-tmp1kuko, Active) and a history drawn from secondary sources. It
+  ([THEORY-tmp1kuko](THEORY-tmp1kuko.md), Active) and a history drawn from secondary sources. It
   does not say that every expert–public disagreement is capture, that
   capture is always wrong (its strength depends on the experts' claim to
   truth and on whether public views were heard), or that the mechanism is
@@ -36,7 +36,7 @@ summary: >-
 ## Source
 
 Short, Hill and Brown (2025), *Perspectives on Politics* 24(2): 680–700,
-LIT-tmpm7glb, read in NOTE-tmpxvj22.
+[LIT-tmpm7glb](../literature.d/LIT-tmpm7glb.md), read in [NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md).
 
 ## What was actually shown
 
@@ -60,7 +60,7 @@ contest it. Merger challenges collapsed after 1981, and the authors know of
 no evidence that merging firms lobbied the agencies: "If business interests
 get what they want (merger approval) most of the time under the new
 guidelines, we would not expect to find pervasive evidence of intense
-lobbying." The survey (THEORY-tmp1kuko) supplies the marginalized values
+lobbying." The survey ([THEORY-tmp1kuko](THEORY-tmp1kuko.md)) supplies the marginalized values
 and the expert–public cleavage.
 
 **Normative strength.** Capture "varying along a continuum from weak to
@@ -90,6 +90,6 @@ definition").
   applied thereafter. Nothing here says it reproduces itself, though the
   paper attributes the lawyers' values to professional training. That a
   framework can sustain its own expert class is the record's
-  CLAIM-tmpjo2zr and TERM-tmpe6jtq territory, not this paper's.
+  [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md) and [TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md) territory, not this paper's.
 - **That the public's values are right.** "We do not presuppose that any
   specific set of public values or goals are 'right.'"

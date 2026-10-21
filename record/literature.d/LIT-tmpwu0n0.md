@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpw3hh8) in full, from the publisher's free PDF of the AIES 2024 proceedings; worth reading for its four-way taxonomy of how generative models take part in epistemic injustice, and for the point that amplified testimonial injustice runs through a credibility excess assigned to the model (THEORY-tmpzqfxe). Read it knowing that it is conceptual and measures nothing, that its examples are others' reports, that its "manipulative" configuration counts deliberate fabrication as testimonial injustice although Fricker sets deliberate manipulation apart, and that its access injustice stretches the hermeneutical category.
+  read 2026-10-21 ([NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md)) in full, from the publisher's free PDF of the AIES 2024 proceedings; worth reading for its four-way taxonomy of how generative models take part in epistemic injustice, and for the point that amplified testimonial injustice runs through a credibility excess assigned to the model ([THEORY-tmpzqfxe](../theory.d/THEORY-tmpzqfxe.md)). Read it knowing that it is conceptual and measures nothing, that its examples are others' reports, that its "manipulative" configuration counts deliberate fabrication as testimonial injustice although Fricker sets deliberate manipulation apart, and that its access injustice stretches the hermeneutical category.
 title: 'Epistemic Injustice in Generative AI'
 version: 2
 history:
@@ -41,7 +41,7 @@ summary: >-
 
 Kay, J., Kasirzadeh, A. & Mohamed, S. (2024). Epistemic Injustice in Generative AI. *Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society* 7: 684–697. doi:10.1609/aies.v7i1.31671. Preprint: arXiv:2408.11441 (21 August 2024).
 
-Read in NOTE-tmpw3hh8, which records what the paper argues and where it departs
+Read in [NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md), which records what the paper argues and where it departs
 from Fricker.
 
 ## Why this is here

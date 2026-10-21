@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpj0rwa) in full, in the authorized Portuguese translation in Sociedade e Estado 31(1), 2016 (doi:10.1590/S0102-69922016000100006, open on Redalyc), published with Collins's and Oxford University Press's permission; the English original was not reached. Worth reading for the outsider-within argument, that a member trained into a discipline but rooted in experience its paradigms omit or distort sees anomalies insiders are not placed to see and outsiders lack the authority to press (THEORY-tmp3d6fm), and for its early statement of a self-confirming status: a group assigned an inferior status, and that status used as proof of its inferiority. Read it knowing that it is an argued essay with no comparison of who detects what, and that every quotation in the record but the English abstract is the translator's.
+  read 2026-10-21 ([NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md)) in full, in the authorized Portuguese translation in Sociedade e Estado 31(1), 2016 (doi:10.1590/S0102-69922016000100006, open on Redalyc), published with Collins's and Oxford University Press's permission; the English original was not reached. Worth reading for the outsider-within argument, that a member trained into a discipline but rooted in experience its paradigms omit or distort sees anomalies insiders are not placed to see and outsiders lack the authority to press ([THEORY-tmp3d6fm](../theory.d/THEORY-tmp3d6fm.md)), and for its early statement of a self-confirming status: a group assigned an inferior status, and that status used as proof of its inferiority. Read it knowing that it is an argued essay with no comparison of who detects what, and that every quotation in the record but the English abstract is the translator's.
 title: 'Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought'
 version: 2
 history:
@@ -37,7 +37,7 @@ summary: >-
 
 Collins, P. H. (1986). Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought. *Social Problems* 33(6): S14–S32. doi:10.1525/sp.1986.33.6.03a00020 (also doi:10.2307/800672).
 
-Read in NOTE-tmpj0rwa, in an authorized Portuguese translation.
+Read in [NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md), in an authorized Portuguese translation.
 
 ## Why this is here
 

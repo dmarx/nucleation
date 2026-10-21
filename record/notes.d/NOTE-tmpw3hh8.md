@@ -153,25 +153,25 @@ It builds on Fricker (2007) and the algorithmic-epistemic-injustice
 literature it surveys (Byrnes and Spear 2023; Symons and Alvarado 2022;
 Hull 2023; Milano and Prunkl 2024; De Proost and Pozzi 2023). It invokes
 Spivak (1988) and Collins (2000), the book, not the 1986 article this
-record holds as LIT-tmp2ojrd (read in NOTE-tmpj0rwa). It
+record holds as [LIT-tmp2ojrd](../literature.d/LIT-tmp2ojrd.md) (read in [NOTE-tmpj0rwa](NOTE-tmpj0rwa.md)). It
 takes "willful hermeneutical ignorance" from Pohlhaus (2012),
-LIT-tmp22xqb, which the record could not obtain. It does not cite
-Fricker's later work on structural testimonial injustice (LIT-1048) or
+[LIT-tmp22xqb](../literature.d/LIT-tmp22xqb.md), which the record could not obtain. It does not cite
+Fricker's later work on structural testimonial injustice ([LIT-1048](../literature.d/LIT-1048.md)) or
 Dotson (2014).
 
 ## Bearing on the record
 
-- **THEORY-327.** Fricker, in her own words, keeps deliberate
+- **[THEORY-327](../theory.d/THEORY-327.md).** Fricker, in her own words, keeps deliberate
   manipulation of credibility apart: "a closely related but distinct
   injustice". C2 counts it as testimonial injustice without discussing
-  that line. So this paper is not evidence for THEORY-327's first part as
+  that line. So this paper is not evidence for [THEORY-327](../theory.d/THEORY-327.md)'s first part as
   a statement of Fricker, and its manipulative configuration is, on
   Fricker's own account, the neighbouring wrong.
-- **THEORY-317 and THEORY-326.** Its definition of hermeneutical
+- **[THEORY-317](../theory.d/THEORY-317.md) and [THEORY-326](../theory.d/THEORY-326.md).** Its definition of hermeneutical
   injustice is the précis-like one: the absent concept, with the
   repository bearing "the imprints of dominant groups". It does not take up
   the incidental case. Neither is tested here.
-- **CLAIM-tmpoxld9.** C6 is the trust loop asserted for a generative model
+- **[CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md).** C6 is the trust loop asserted for a generative model
   in place of a roster: what is amplified becomes what is believed, and
   what is believed is what is amplified. The paper gives no dynamics, and
   C1 adds something the claim lacks: the loop can run through the
@@ -179,17 +179,17 @@ Dotson (2014).
   silenced speaker at all. That is still a prejudice condition, carried by
   the training data, so it does not touch the claim's point that the loop
   alone cannot tell privilege from merit.
-- **CLAIM-tmpj163u.** "Participation may not be effective or even possible
+- **[CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md).** "Participation may not be effective or even possible
   in the case of willful hermeneutical ignorance" is the claim's split
   between access and uptake, stated for model development.
-- **QUESTION-072.** A25's line that "what becomes searchable, summarized,
+- **[QUESTION-072](../questions.d/QUESTION-072.md).** A25's line that "what becomes searchable, summarized,
   quoted, attributed, or incorporated into future reasoning may influence
   what subsequently becomes authoritative" is where this paper bears on the
   record's own filing: the record is written largely by a generative
   model, so C1's credibility excess and C3's ignorance are hazards of its
   own grammar as well as of what it reads. The paper gives no test and does
   not settle the question.
-- **THEORY-tmpzqfxe** is filed from C1, Proposed.
+- **[THEORY-tmpzqfxe](../theory.d/THEORY-tmpzqfxe.md)** is filed from C1, Proposed.
 
 The paper is flagged `anthology-candidate` on its LIT. Its §5 design
 suggestions are general and carry no instruction for machine-learning

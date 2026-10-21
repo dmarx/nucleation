@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpxvj22) in full, from the open-access (CC BY 4.0) published version on Cambridge Core, without its online appendix; worth reading for its definition of ideological capture, capture through the criteria a regulator adopts with no lobbying needed (THEORY-tmpw39mh), and for a pre-registered survey showing that the public weighs layoffs, quality and lobbying well above price cuts in merger review while antitrust lawyers support replacing the consumer welfare standard 42.6 points less than the public (THEORY-tmp1kuko). Read it knowing that the lawyer sample is a convenience sample of 103, that the verdict of capture also rests on a history drawn from secondary sources, and that the introduction's "four times larger" and the analysis's "seven times larger" describe the same gap.
+  read 2026-10-21 ([NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md)) in full, from the open-access (CC BY 4.0) published version on Cambridge Core, without its online appendix; worth reading for its definition of ideological capture, capture through the criteria a regulator adopts with no lobbying needed ([THEORY-tmpw39mh](../theory.d/THEORY-tmpw39mh.md)), and for a pre-registered survey showing that the public weighs layoffs, quality and lobbying well above price cuts in merger review while antitrust lawyers support replacing the consumer welfare standard 42.6 points less than the public ([THEORY-tmp1kuko](../theory.d/THEORY-tmp1kuko.md)). Read it knowing that the lawyer sample is a convenience sample of 103, that the verdict of capture also rests on a history drawn from secondary sources, and that the introduction's "four times larger" and the analysis's "seven times larger" describe the same gap.
 title: 'What Is Ideological Capture and How Do We Measure It? Using Antitrust Reform to Understand Expert–Public Cleavages'
 version: 2
 history:
@@ -37,7 +37,7 @@ summary: >-
 
 Short, N., Hill, S. & Brown, J. (2026). What Is Ideological Capture and How Do We Measure It? Using Antitrust Reform to Understand Expert–Public Cleavages. *Perspectives on Politics* 24(2): 680–700. doi:10.1017/S153759272510323X. First published online 17 November 2025.
 
-Read in NOTE-tmpxvj22, without the online appendix.
+Read in [NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md), without the online appendix.
 
 ## Why this is here
 

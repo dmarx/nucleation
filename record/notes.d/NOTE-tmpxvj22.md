@@ -174,7 +174,7 @@ ideological perspectives that redefine the 'public interest'."
 
 ## Bearing on the record
 
-- **CLAIM-tmpjo2zr: prior art for the evaluative route, and empirical.**
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md): prior art for the evaluative route, and empirical.**
   The claim's criteria route ("With U_λ(a) = v₁(a) + λv₂(a) and λ = 0 ...
   The limitation is not missing evidence. It is the adopted evaluative
   framework") is this paper's definition, and the CWS is an instance with
@@ -186,7 +186,7 @@ ideological perspectives that redefine the 'public interest'."
   asymmetry per se" but by redefining the public interest. The claim's
   evaluator-in-the-loop part gets nothing from this paper, which has no
   dynamics.
-- **TERM-tmpe6jtq.** The term requires "a standard specified apart from the
+- **[TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md).** The term requires "a standard specified apart from the
   captured process". This paper supplies one kind: measured public values,
   explicitly not public preferences and not legislative intent. It also
   differs from the term's adopted sense. Its capture is the institutional
@@ -194,23 +194,23 @@ ideological perspectives that redefine the 'public interest'."
   loop and no durability through the organization's own processes, only a
   criterion. A note on the term could cite it as the measured form of the
   sense the term set aside.
-- **CLAIM-348** (adequacy fixed by the evaluative target) is the formal
+- **[CLAIM-348](../claims.d/CLAIM-348.md)** (adequacy fixed by the evaluative target) is the formal
   side of the same point: the CWS is a target that its own descriptions
   cannot justify.
-- **CLAIM-tmpj163u.** The two normative conditions (truth, and whether
+- **[CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md).** The two normative conditions (truth, and whether
   regulators "elicited and considered public views") separate capture
   that is troubling from capture that is not by the process rung of the
   claim's ladder: aired grievances move conflict "from the third to the
   first face of power". The guidelines' exemption from notice and comment
   is the closed rung.
-- **CLAIM-277 and CLAIM-tmpoxld9.** The lawyers' values are attributed to
+- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md).** The lawyers' values are attributed to
   professional training, and the profession staffs the agencies. That is a
   route by which a framework reproduces its own expert class, but the
   paper does not model or measure it.
-- **THEORY-146** (influence through which producers of evidence prosper)
+- **[THEORY-146](../theory.d/THEORY-146.md)** (influence through which producers of evidence prosper)
   is the informational analogue. This paper's route does not pass through
   evidence.
-- **THEORY-tmp1kuko** (the measured cleavage, Active) and THEORY-tmpw39mh
+- **[THEORY-tmp1kuko](../theory.d/THEORY-tmp1kuko.md)** (the measured cleavage, Active) and [THEORY-tmpw39mh](../theory.d/THEORY-tmpw39mh.md)
   (capture through the criterion, Proposed) are filed from it.
 
 No instruction for machine-learning practice; nothing for the anthology.

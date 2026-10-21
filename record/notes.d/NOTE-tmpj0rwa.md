@@ -170,37 +170,37 @@ intellectuals, Merton (1972) on insiders and outsiders ("Insiders as
 outsiders"), Schutz (1944) on the stranger and "thinking as usual", Kuhn
 (1970) and Hartsock (1983) on the standpoint of the oppressed. It is a
 founding paper of the standpoint tradition to which Harding's "strong
-objectivity" (LIT-tmpc03qg, not reached) belongs. Kay, Kasirzadeh and
-Mohamed (NOTE-tmpw3hh8) cite Collins's 2000 book, not this paper.
+objectivity" ([LIT-tmpc03qg](../literature.d/LIT-tmpc03qg.md), not reached) belongs. Kay, Kasirzadeh and
+Mohamed ([NOTE-tmpw3hh8](NOTE-tmpw3hh8.md)) cite Collins's 2000 book, not this paper.
 
 ## Bearing on the record
 
-- **CLAIM-tmpoxld9.** C4 is the loop the claim names, stated forty years
+- **[CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md).** C4 is the loop the claim names, stated forty years
   earlier for a different arrangement: a denied opportunity produces the
   deficit that then justifies the denial. Collins's version carries the
   prejudice condition inside it, since the status is "atribuído" (assigned)
   by a system of domination, which is what the claim says the dynamics
   alone lack. It is prior art the claim should cite, and it shows the
   mechanism was articulated in this tradition before Fricker and Anderson.
-- **CLAIM-tmpj163u.** C2 is the claim's split between recognition and
+- **[CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md).** C2 is the claim's split between recognition and
   uptake from the side of standing: knowledge of an anomaly without
   "autoridade profissional legítima" does not reach the discipline. C5's
   institutionalizing is a form of the top rung, a part in revising the
   standards. Collins puts access to professional standing before any of
   the claim's later rungs, which the claim already allows.
-- **THEORY-151 (Longino).** Tempered equality of intellectual authority is
+- **[THEORY-151](../theory.d/THEORY-151.md) (Longino).** Tempered equality of intellectual authority is
   the condition under which C1's anomalies, once seen, would count. Collins
   adds what Longino's norms leave open: that who is placed to see the
   anomaly at all depends on social position. The two do not conflict.
-- **THEORY-327.** C2 is close to pre-emptive testimonial injustice: those
+- **[THEORY-327](../theory.d/THEORY-327.md).** C2 is close to pre-emptive testimonial injustice: those
   outside the discipline are not asked. Collins frames it as a lack of
   professional authority, not as a credibility judgement, so it fits
   Fricker's structural case only where the lack itself traces to
   prejudice.
-- **QUESTION-072.** The record's own filing has an outsider-within
+- **[QUESTION-072](../questions.d/QUESTION-072.md).** The record's own filing has an outsider-within
   analogue: a contributor whose moves fit the grammar only partly may see
   what the grammar omits. Nothing here tests it.
-- **THEORY-tmp3d6fm** is filed from C1–C3, Proposed.
+- **[THEORY-tmp3d6fm](../theory.d/THEORY-tmp3d6fm.md)** is filed from C1–C3, Proposed.
 
 No instruction for machine-learning practice; nothing for the anthology.
 
