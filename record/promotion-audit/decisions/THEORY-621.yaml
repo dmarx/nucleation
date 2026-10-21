@@ -1,0 +1,38 @@
+id: THEORY-621
+batch: batch-078
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: partly
+hand_label: argument (an interpretive proposal whose key rule is postulated)
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand as an argument. The contrast between the collapse and
+    unitary probability rules (eqs. 3 and 4 of LIT-177) is textbook
+    interference algebra, and correct. The rule that removes the
+    contradiction, that amplitudes give probabilities only between facts
+    relative to the same system, is postulated as relational quantum
+    mechanics' core idea, not derived (NOTE-174, C2). It removes the
+    contradiction by restricting when eq. 3 applies, which is a choice,
+    not a result.
+  excluded: >-
+    Everything. The promote_when asks for a derivation of the labelling
+    rule from independent principles and a coherence result across
+    observers. Neither is in the source.
+evidence:
+  - "LIT-177, read in NOTE-174; the THEORY body."
+blockers:
+  - "The labelling rule is postulated, and inter-observer coherence is not addressed in the source."
+dropped_clauses: []
+notes: >-
+  No formal core worth splitting: the only formal step is the
+  interference identity.
+unlocks: []
+next_action: >-
+  Retain Proposed. Requeue only if a derivation of the labelling rule or
+  a coherence result is filed.
