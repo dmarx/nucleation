@@ -22,8 +22,8 @@ source:
 answers:
 - QUESTION-047
 summary: >-
-  Weatherall, O'Connor and Bruner (2020; arXiv 2018), LIT-tmpx95z2, read in
-  NOTE-tmp8rwaa. No result is fabricated and no scientist is biased; the
+  Weatherall, O'Connor and Bruner (2020; arXiv 2018), [LIT-tmpx95z2](../literature.d/LIT-tmpx95z2.md), read in
+  [NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md). No result is fabricated and no scientist is biased; the
   audience is misled because it updates on a selected sample as if it were
   not selected. It is a property of a stylized model, which the authors
   call "how-potentially"; it does not show that any real audience was
@@ -36,8 +36,8 @@ summary: >-
 
 ## Source
 
-Weatherall, O'Connor and Bruner (2020), *BJPS* 71(4), LIT-tmpx95z2, read in
-full in NOTE-tmp8rwaa from the arXiv manuscript of August 2018: §3 and its
+Weatherall, O'Connor and Bruner (2020), *BJPS* 71(4), [LIT-tmpx95z2](../literature.d/LIT-tmpx95z2.md), read in
+full in [NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md) from the arXiv manuscript of August 2018: §3 and its
 Figs 2–4.
 
 ## What was actually shown
@@ -87,24 +87,24 @@ plotted values were not seen.
   industry propaganda efforts."
 - **Not that a Bayesian who knows of the selection is misled.** The policy
   makers treat forwarded results as unselected draws. A receiver who models
-  the sender is THEORY-404's case, a different result.
+  the sender is [THEORY-404](THEORY-404.md)'s case, a different result.
 - **Not that the effect holds whatever the parameters.** It fades when the
   problem is easy, studies are large or the audience hears most scientists.
 - **Not about influence on the scientists.** The propagandist never touches
-  them; that is Holman and Bruner's setting (LIT-744, LIT-751).
+  them; that is Holman and Bruner's setting ([LIT-744](../literature.d/LIT-744.md), [LIT-751](../literature.d/LIT-751.md)).
 - **Not that more scientists always help or always hurt.** With k fixed,
   more scientists supply more spurious results, "often" but "not always"
   worsening the audience's belief.
 
 ## Connections
 
-- **CLAIM-tmpjo2zr.** Its evidence route, with genuine results selected and
-  no fabrication, in a model; distinct from THEORY-404's committed design
-  and THEORY-146's selective funding.
-- **THEORY-tmpg79sv.** The same model's biased-production treatment, and the
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** Its evidence route, with genuine results selected and
+  no fabrication, in a model; distinct from [THEORY-404](THEORY-404.md)'s committed design
+  and [THEORY-146](THEORY-146.md)'s selective funding.
+- **[THEORY-tmpg79sv](THEORY-tmpg79sv.md).** The same model's biased-production treatment, and the
   sufficient statistic that explains both.
-- **THEORY-143.** The Zollman effect concerns the community's learning; with
+- **[THEORY-143](THEORY-143.md).** The Zollman effect concerns the community's learning; with
   an audience and a propagandist, slow consensus can cost the audience
-  (NOTE-tmp8rwaa).
-- **QUESTION-047: answers in part.** The audience settles on a belief none of
+  ([NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md)).
+- **[QUESTION-047](../questions.d/QUESTION-047.md): answers in part.** The audience settles on a belief none of
   the inquirers reasoned to, through selection of their honest outputs.

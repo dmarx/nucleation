@@ -19,8 +19,8 @@ source:
 - LIT-tmptzsyg
 - LIT-tmp6hpx6
 summary: >-
-  Rubenstein et al. (2017), LIT-tmptzsyg, read in NOTE-tmp6b7dr, with
-  Beckers and Halpern's restatement (LIT-tmp6hpx6, Example 3.3). Averages of
+  Rubenstein et al. (2017), [LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md), read in [NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md), with
+  Beckers and Halpern's restatement ([LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md), Example 3.3). Averages of
   linear micro-variables form a causally consistent macro model exactly
   when each micro-cause has the same total effect on the effect block. It
   says nothing about interventions on single micro-variables, which break
@@ -32,8 +32,8 @@ summary: >-
 ## Source
 
 Rubenstein, Weichwald, Bongers, Mooij, Janzing, Grosse-Wentrup and
-Schölkopf (2017), LIT-tmptzsyg, read in full in NOTE-tmp6b7dr: Theorem 11
-and its proof in Appendix C. Beckers and Halpern (LIT-tmp6hpx6, NOTE-tmp1bdcu)
+Schölkopf (2017), [LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md), read in full in [NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md): Theorem 11
+and its proof in Appendix C. Beckers and Halpern ([LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md), [NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md))
 restate it as their Example 3.3, with the coefficient an/m. Exact
 transformation is Rubenstein et al.'s Definition 3.
 
@@ -69,7 +69,7 @@ are equal, so c·w = c·w′ whenever w̄ = w̄′, that is, c is orthogonal to 
 vector whose entries sum to zero. That forces c = a·1: equal column sums.
 
 **Column-equitability.** With Q the 2 × (n + m) matrix of block indicators,
-the condition is THEORY-755's for the pair of blocks (Z, W): Σ_{k∈Z} A_kj is
+the condition is [THEORY-755](THEORY-755.md)'s for the pair of blocks (Z, W): Σ_{k∈Z} A_kj is
 the same for every j in W. The W block receives nothing and Z nothing from
 itself, so every other block pair is trivially equitable.
 
@@ -91,19 +91,19 @@ noise passes through the averaging unchanged.
   subsets of a block, which the transformation does not survive.
 - **Not that the macro model predicts any one micro-variable,** or any one
   system's response given its micro state: exactness is equality of
-  push-forward laws (NOTE-tmp6b7dr, Bearing on the record).
+  push-forward laws ([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md), Bearing on the record).
 - **Not about nonlinear models or approximate aggregation.** Nearly equal
   column sums give no bound here.
-- **Not dynamics.** It is a one-shot SEM; THEORY-755 has the dynamical
+- **Not dynamics.** It is a one-shot SEM; [THEORY-755](THEORY-755.md) has the dynamical
   version for block sums, and Theorem 12 of the same paper treats equilibria.
 
 ## Connections
 
-- **THEORY-755.** The same algebra, QA = ĀQ for a partition, as a causal
+- **[THEORY-755](THEORY-755.md).** The same algebra, QA = ĀQ for a partition, as a causal
   rather than dynamical criterion. The join is the record's.
-- **THEORY-733.** The dynamical-independence criterion LA = BL is the
+- **[THEORY-733](THEORY-733.md).** The dynamical-independence criterion LA = BL is the
   linear-map generalization of both.
-- **CLAIM-350.** Its causal bullet's "intervention-consistent
+- **[CLAIM-350](../claims.d/CLAIM-350.md).** Its causal bullet's "intervention-consistent
   coarse-graining for a declared family of interventions" is exact
   transformation; this is a worked instance with the declared family
   explicit.

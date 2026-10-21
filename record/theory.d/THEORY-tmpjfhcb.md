@@ -17,12 +17,12 @@ date: '2026-10-21'
 source:
 - LIT-tmptzsyg
 summary: >-
-  Rubenstein et al. (2017), LIT-tmptzsyg, read in NOTE-tmp6b7dr. Exact
+  Rubenstein et al. (2017), [LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md), read in [NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md). Exact
   transformation asks only that the coarse model reproduce the push-forward
   of each declared interventional law, so a never-intervened variable can
   be substituted out and its randomness folded into noise, whatever it
   does. Applied to the hidden governance bit, the coarse-graining that
-  CLAIM-tmppi0xf shows to lose the response to h is exact. It does not say
+  [CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md) shows to lose the response to h is exact. It does not say
   that the coarse model keeps any one system's response.
 ---
 <!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the governance-response profile, filed from the same exchange, named for the contrast, nothing here rests on it -->
@@ -31,7 +31,7 @@ summary: >-
 
 ## Source
 
-Rubenstein et al. (2017), LIT-tmptzsyg, read in full in NOTE-tmp6b7dr:
+Rubenstein et al. (2017), [LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md), read in full in [NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md):
 Theorem 10 and its proof in Appendix B. Exact transformation is their
 Definition 3: a map τ on states and a surjective, order-preserving ω on the
 declared interventions with τ(ℙ_X^{do(i)}) = ℙ_Y^{do(ω(i))} for every i. The
@@ -58,7 +58,7 @@ it.
 
 **The corollary.** Nothing in the proof asks what X₁ does. It may be the
 variable that decides how its children respond to a declared intervention.
-The hidden bit (CASE-tmpdc0tl) is an instance. Its SEM: K = E_K,
+The hidden bit ([CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md)) is an instance. Its SEM: K = E_K,
 Y_t = E_t, H = E_H, Y_{t+1} = (1 − H)E_{t+1} + HK, with E_K, E_t, E_{t+1} fair
 bits, independent, and declared interventions ∅, do(H = 0), do(H = 1).
 
@@ -70,7 +70,7 @@ bits, independent, and declared interventions ∅, do(H = 0), do(H = 1).
   model reproduces it with one noise E′₂ shared across the steps, which is the
   dependent noise the theorem needs.
 - Yet the coarse state Y_t determines nothing of the response to h:
-  Γ(Y_t) = ρ(h = 1) bits (CLAIM-tmppi0xf), since P(Y_{t+1} | S = (k, y),
+  Γ(Y_t) = ρ(h = 1) bits ([CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md)), since P(Y_{t+1} | S = (k, y),
   do(H = 1)) is the point mass at k, which differs between states with the
   same Y_t.
 
@@ -85,10 +85,10 @@ shows that being unintervened is enough.
   P(Y_{t+1} = 1) = ½ · ½ + ½ · 1 = ¾, while the marginalised model gives ½
   under ∅ and fixes H or Y_{t+1} under any intervention it has. Beckers and
   Halpern's strong abstraction rejects the coarse-graining for this reason
-  (NOTE-tmp1bdcu, Bearing on the record, item 4).
+  ([NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md), Bearing on the record, item 4).
 - **Not that the coarse model keeps the response of a given system.**
   Exactness is about push-forward laws. Governance-response sufficiency
-  (TERM-tmpf5k7x) is about the response kernels of individual states, and it
+  ([TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md)) is about the response kernels of individual states, and it
   fails here.
 - **Not cyclic models.** Theorem 10 assumes acyclicity; the paper points to
   Bongers et al. for the cyclic case, with further conditions.
@@ -97,13 +97,13 @@ shows that being unintervened is enough.
 
 ## Connections
 
-- **CLAIM-tmppi0xf and CLAIM-350.** The distributional criterion this
+- **[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md) and [CLAIM-350](../claims.d/CLAIM-350.md).** The distributional criterion this
   theorem satisfies is not the fibre-wise factorization they state; the
   hidden bit separates them.
-- **THEORY-tmpj5zq1.** The other exact transformation in the same paper,
+- **[THEORY-tmpj5zq1](THEORY-tmpj5zq1.md).** The other exact transformation in the same paper,
   with the opposite lesson: there, enlarging the declared interventions
   breaks exactness; here, the declared interventions are what let the
   dropped variable be anything.
-- **THEORY-820.** Under h = 0, Y_t is informationally closed; this theorem
+- **[THEORY-820](THEORY-820.md).** Under h = 0, Y_t is informationally closed; this theorem
   adds that dropping K is exact as a causal model for interventions on H.
   Neither keeps the response of a given state.

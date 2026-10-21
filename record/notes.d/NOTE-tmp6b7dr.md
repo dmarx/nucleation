@@ -105,7 +105,7 @@ system's response.
   the averages (Ŵ, Ẑ) form an exact transformation, with
   Ẑ = (an/m)Ŵ + F̂ (the coefficient as the record computes it; see
   Limitations). The equal-column-sum condition is also necessary, the
-  record's re-derivation in THEORY-tmpj5zq1.
+  record's re-derivation in [THEORY-tmpj5zq1](../theory.d/THEORY-tmpj5zq1.md).
 - **Theorem 12 (equilibrium).** For a contracting linear process with
   constant noise, the limit map is an exact transformation onto the cyclic
   SEM Yⁱ = Σ_{j≠i} A_ij Yʲ/(1 − A_ii) + Fⁱ/(1 − A_ii), with interventions
@@ -146,14 +146,14 @@ and cycles, on Chalupka, Perona and Eberhardt (2015, 2016) for learned macro
 variables, on Iwasaki and Simon (1994) and Simon and Ando (1961) for
 aggregation, on Hoel, Albantakis and Tononi (2013), and on Spirtes and
 Scheines (2004) for ambiguous manipulations. Beckers and Halpern
-(LIT-tmp6hpx6, read in NOTE-tmp1bdcu) take Definition 3 as the weakest of
+([LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md), read in [NOTE-tmp1bdcu](NOTE-tmp1bdcu.md)) take Definition 3 as the weakest of
 their notions and show it too permissive; Beckers, Eberhardt and Halpern
-(LIT-tmp0p7xl, NOTE-tmpqfl95) carry out the "softening" this paper's §6
+([LIT-tmp0p7xl](../literature.d/LIT-tmp0p7xl.md), [NOTE-tmpqfl95](NOTE-tmpqfl95.md)) carry out the "softening" this paper's §6
 proposes.
 
 ## Bearing on the record
 
-- **CLAIM-tmppi0xf, CASE-tmpdc0tl and TERM-tmpf5k7x.** Exact
+- **[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md), [CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md) and [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md).** Exact
   transformation does not contain the hidden-governance-bit point, and
   accepts the coarse-graining the case rejects. Write the case as an
   acyclic SEM: K = E_K, Y_t = E_t, H = E_H, Y_{t+1} = (1 − H)E_{t+1} + HK,
@@ -171,10 +171,10 @@ proposes.
   measures. Rubenstein et al.'s cholesterol case is the nearest anticipation
   of the qualitative point (a macro variable merging micro-states whose
   interventional consequences differ), and their remark that enlarging the
-  intervention set breaks exactness is CLAIM-tmppi0xf's relativity to I.
+  intervention set breaks exactness is [CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md)'s relativity to I.
   The coexistence of exact closure under the ordinary dynamics with that
   failure is not in this paper.
-- **TERM-043.** Its D_causal, Σ_a π(a) d(T_# P_o(Y | do(a)),
+- **[TERM-043](../terms.d/TERM-043.md).** Its D_causal, Σ_a π(a) d(T_# P_o(Y | do(a)),
   P_t(Y′ | do(τ(a)))), is Definition 3's condition made graded: with π of
   full support, D_causal = 0 exactly when the push-forward of each source
   interventional law equals the target's under the corresponding
@@ -182,24 +182,24 @@ proposes.
   interventions be surjective and order-preserving, which is what Theorem 6
   and Examples 7–8 show to be needed for composed interventions. By the
   same token D_causal is zero for the hidden bit, where Γ is not, so
-  TERM-tmpf5k7x's governance-response sufficiency is not D_causal with τ
-  the identity, as that term's "Why it narrows TERM-043" says. See
-  NOTE-tmp1bdcu for the exact relation.
-- **THEORY-755 and THEORY-733.** Theorem 11's condition is THEORY-755's
+  [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md)'s governance-response sufficiency is not D_causal with τ
+  the identity, as that term's "Why it narrows [TERM-043](../terms.d/TERM-043.md)" says. See
+  [NOTE-tmp1bdcu](NOTE-tmp1bdcu.md) for the exact relation.
+- **[THEORY-755](../theory.d/THEORY-755.md) and [THEORY-733](../theory.d/THEORY-733.md).** Theorem 11's condition is [THEORY-755](../theory.d/THEORY-755.md)'s
   column-equitability, for the one pair of blocks (rows of Z, columns of W)
   through which the SEM couples them: Σ_{i∈Z} A_ij is the same for every j
-  in W. THEORY-755 states it for a dynamical x(t+1) = Ax and the vector of
+  in W. [THEORY-755](../theory.d/THEORY-755.md) states it for a dynamical x(t+1) = Ax and the vector of
   block sums; here it is a one-shot SEM, averages rather than sums, and a
   causal rather than a dynamical criterion. The algebra is the same
   QA = ĀQ. The join is the record's: neither paper cites the other's
   literature.
-- **TERM-tmpdxajb.** Its ℐ is this paper's declared intervention set, and
+- **[TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md).** Its ℐ is this paper's declared intervention set, and
   C5 is the regime-relativity the term records, proved for one notion of
   adequacy.
-- **CLAIM-350.** Its causal bullet's "intervention-consistent
+- **[CLAIM-350](../claims.d/CLAIM-350.md).** Its causal bullet's "intervention-consistent
   coarse-graining for a declared family of interventions" is, in the
   literature, this paper's exact transformation; but it is a distributional
-  notion, not the fibre-wise factorization CLAIM-350 proves.
+  notion, not the fibre-wise factorization [CLAIM-350](../claims.d/CLAIM-350.md) proves.
 
 No instruction for machine-learning practice; nothing for the anthology.
 
@@ -213,7 +213,7 @@ No instruction for machine-learning practice; nothing for the anthology.
   which agrees with the computation.
 - **Sufficiency only.** Theorem 11 states the column condition as sufficient.
   It is also necessary for the averaging τ with these interventions
-  (THEORY-tmpj5zq1); the paper does not say so.
+  ([THEORY-tmpj5zq1](../theory.d/THEORY-tmpj5zq1.md)); the paper does not say so.
 - **Permissive.** Nothing in Definition 3 rules out matches won by the choice
   of distribution or of a sparse intervention set. Beckers and Halpern's
   Example 3.4 makes two unrelated models exact transformations of each

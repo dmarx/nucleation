@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpqfl95) in full, from arXiv:1906.11583v2; worth reading for its distance between causal models that compares answers to interventions rather than graphs, for approximate abstraction as that distance under a coarse-graining (THEORY-tmpe391l), for the intervention distribution over low-level implementations of a high-level intervention, and for when an approximate abstraction factors into an abstraction and an approximation. Read it knowing that the error is a worst case over interventions, minimized over context maps and relative to a metric the user chooses, so it is zero wherever exact abstraction holds, including coarse-grainings whose dropped detail high-level noise can carry.
+  read 2026-10-21 ([NOTE-tmpqfl95](../notes.d/NOTE-tmpqfl95.md)) in full, from arXiv:1906.11583v2; worth reading for its distance between causal models that compares answers to interventions rather than graphs, for approximate abstraction as that distance under a coarse-graining ([THEORY-tmpe391l](../theory.d/THEORY-tmpe391l.md)), for the intervention distribution over low-level implementations of a high-level intervention, and for when an approximate abstraction factors into an abstraction and an approximation. Read it knowing that the error is a worst case over interventions, minimized over context maps and relative to a metric the user chooses, so it is zero wherever exact abstraction holds, including coarse-grainings whose dropped detail high-level noise can carry.
 title: 'Approximate Causal Abstractions'
 version: 2
 history:
@@ -41,7 +41,7 @@ summary: >-
 
 Beckers, S., Eberhardt, F. & Halpern, J. Y. (2020). Approximate Causal Abstractions. *Proceedings of the 35th Uncertainty in Artificial Intelligence Conference*, PMLR 115: 606–615. Preprint: arXiv:1906.11583 (27 June 2019), as "Approximate Causal Abstraction".
 
-Read in full (NOTE-tmpqfl95).
+Read in full ([NOTE-tmpqfl95](../notes.d/NOTE-tmpqfl95.md)).
 
 ## Why this is here
 

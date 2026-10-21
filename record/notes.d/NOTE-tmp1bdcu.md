@@ -117,7 +117,7 @@ low-level detail the endogenous coarse-graining τ drops.
 | id | claim | strength | support |
 |---|---|---|---|
 | C1 | Exact transformation is too permissive: suitable distributions or intervention maps let models that differ essentially be exact transformations of each other | strong | Examples 3.4, 3.10, 3.11 |
-| C2 | Exactness for every distribution is equivalent to a context map commuting with every allowed intervention | strong, given countable I_L | Proposition 3.6 and Theorem 3.8, proved; re-derived in THEORY-tmpjtnjd |
+| C2 | Exactness for every distribution is equivalent to a context map commuting with every allowed intervention | strong, given countable I_L | Proposition 3.6 and Theorem 3.8, proved; re-derived in [THEORY-tmpjtnjd](../theory.d/THEORY-tmpjtnjd.md) |
 | C3 | Letting τ determine the map on interventions, and requiring τ surjective, removes the remaining counterexamples | moderate | Definitions 3.12–3.13; checked against Examples 3.10–3.11 |
 | C4 | Strong abstraction is the clean relation between basic causal models, but some useful abstractions are only τ-abstractions | strong by example | Examples 3.16–3.18 |
 | C5 | Combining micro-variables into macro-variables is constructive abstraction, and all of Rubenstein et al.'s examples are constructive | moderate | asserted for their examples; shown in detail for Example 3.3 only |
@@ -138,18 +138,18 @@ low-level detail the endogenous coarse-graining τ drops.
 
 ## Connections
 
-It builds directly on Rubenstein et al. (LIT-tmptzsyg, NOTE-tmp6b7dr), whose
+It builds directly on Rubenstein et al. ([LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md), [NOTE-tmp6b7dr](NOTE-tmp6b7dr.md)), whose
 Definition 3 is its starting point, and on Halpern (2016) and Halpern and
 Pearl (2005) for the models. It cites Chalupka, Eberhardt and Perona
 (2015, 2016) and Iwasaki and Simon (1994) for clustering micro-variables.
-Its "approximate abstraction" future work is LIT-tmp0p7xl (NOTE-tmpqfl95).
-LIT-038's status note sends a reader wanting causal abstraction here, and
+Its "approximate abstraction" future work is [LIT-tmp0p7xl](../literature.d/LIT-tmp0p7xl.md) ([NOTE-tmpqfl95](NOTE-tmpqfl95.md)).
+[LIT-038](../literature.d/LIT-038.md)'s status note sends a reader wanting causal abstraction here, and
 this reading confirms the pointer.
 
 ## Bearing on the record
 
 **Governance-response sufficiency and the τ-abstraction ladder**
-(CLAIM-tmppi0xf, CLAIM-tmpshzxc, TERM-tmpf5k7x). What follows is the
+([CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md), [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md), [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md)). What follows is the
 record's derivation; the paper does not treat governance or a deficiency.
 
 1. *The exact relation.* Take the low-level context to be the
@@ -170,7 +170,7 @@ record's derivation; the paper does not treat governance or a deficiency.
    nothing is required of composed interventions, only one outcome is
    compared, and (for Γ) only states of positive probability and the
    interventions ρ charges.
-3. *The hidden bit passes every rung up to τ-abstraction.* In CASE-tmpdc0tl,
+3. *The hidden bit passes every rung up to τ-abstraction.* In [CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md),
    with K an endogenous variable fixed by U_K and interventions on H only,
    τ dropping K is a τ-abstraction: take τ_U(u) = (u_t, u_H, (u_K, u_{t+1})),
    and let the high level read Y_{t+1} from the first or second component of
@@ -192,34 +192,34 @@ record's derivation; the paper does not treat governance or a deficiency.
 5. *What the ladder already contains.* The relativity to a declared
    intervention set (Rubenstein et al., and here I_L); the support caveat
    (Example 3.4 and 3.11's behaviour off the support, which is
-   CLAIM-tmppi0xf's "for every intervention ρ charges ... over the states of
+   [CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md)'s "for every intervention ρ charges ... over the states of
    positive probability", and the case ρ(h = 1) = 0); and a macro variable
    merging micro-states with different interventional consequences
    (Rubenstein et al.'s cholesterol case). What it does not contain:
    exact informational closure under the ordinary dynamics together with
    failure for a mechanism intervention, a state-conditional deficiency, or
-   Γ's monotonicity under refinement (CLAIM-tmpshzxc); Theorem 3.9's
+   Γ's monotonicity under refinement ([CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md)); Theorem 3.9's
    composition is a different property.
 
 The consolidator may want this filed as a demonstrated CLAIM; the text is
 proposed in the batch report.
 
-- **TERM-043.** Its D_causal is a graded form of Definition 3.1 (see
-  NOTE-tmp6b7dr), so it inherits Example 3.4's permissiveness and, like
+- **[TERM-043](../terms.d/TERM-043.md).** Its D_causal is a graded form of Definition 3.1 (see
+  [NOTE-tmp6b7dr](NOTE-tmp6b7dr.md)), so it inherits Example 3.4's permissiveness and, like
   Definition 3.1, is zero for the hidden bit.
-- **CLAIM-350.** Its fibre-wise factorization is the deterministic shape of
+- **[CLAIM-350](../claims.d/CLAIM-350.md).** Its fibre-wise factorization is the deterministic shape of
   item 1, with T the coarse map and the judgment the response; the paper's
   compatibility condition is the same shape one level up, on contexts.
-- **THEORY-243.** Interchange-intervention tests of a network against a
+- **[THEORY-243](../theory.d/THEORY-243.md).** Interchange-intervention tests of a network against a
   causal model are tests of a constructive abstraction's commuting
-  condition on chosen inputs; THEORY-243's identifiability gap is a case
+  condition on chosen inputs; [THEORY-243](../theory.d/THEORY-243.md)'s identifiability gap is a case
   where two alignments both satisfy it.
-- **CLAIM-122.** Its supervisory test ("intervene on the governance
+- **[CLAIM-122](../claims.d/CLAIM-122.md).** Its supervisory test ("intervene on the governance
   relations") is a declared I in the paper's sense; the paper's ladder says
   that whether a coarse model passes depends on whether the test's own
   interventions, or also interventions on the governance parameters, are
   allowed.
-- **TERM-tmpdxajb.** Allowed interventions are one coordinate of the regime;
+- **[TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md).** Allowed interventions are one coordinate of the regime;
   the ladder shows that how the interventions are fixed (chosen freely,
   fixed by τ, or all that τ can translate) is a further choice the regime
   must state.

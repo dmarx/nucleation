@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmp8rwaa) in full, from the authors' arXiv manuscript (1801.01239v2); worth reading for its model of the tobacco strategy, in which selective sharing of genuine results and honest research published selectively mislead a Bayesian audience while the scientists converge on the truth (THEORY-tmpnq01l), for the conditions under which this works, and for the finding that 'fair' reporting slows the audience. Read it knowing that its policy makers update on forwarded results as if they were unselected, that every result is a simulation of a stylized bandit model averaged over runs in which the scientists reached the truth, and that why the smallest studies serve biased production best is a sufficient-statistic fact the paper does not state (THEORY-tmpg79sv).
+  read 2026-10-21 ([NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md)) in full, from the authors' arXiv manuscript (1801.01239v2); worth reading for its model of the tobacco strategy, in which selective sharing of genuine results and honest research published selectively mislead a Bayesian audience while the scientists converge on the truth ([THEORY-tmpnq01l](../theory.d/THEORY-tmpnq01l.md)), for the conditions under which this works, and for the finding that 'fair' reporting slows the audience. Read it knowing that its policy makers update on forwarded results as if they were unselected, that every result is a simulation of a stylized bandit model averaged over runs in which the scientists reached the truth, and that why the smallest studies serve biased production best is a sufficient-statistic fact the paper does not state ([THEORY-tmpg79sv](../theory.d/THEORY-tmpg79sv.md)).
 title: 'How to Beat Science and Influence People: Policymakers and Propaganda in Epistemic Networks'
 version: 2
 history:
@@ -42,7 +42,7 @@ summary: >-
 
 Weatherall, J. O., O'Connor, C. & Bruner, J. P. (2020). How to Beat Science and Influence People: Policymakers and Propaganda in Epistemic Networks. *The British Journal for the Philosophy of Science* 71(4): 1157–1186. doi:10.1093/bjps/axy062. Preprint: arXiv:1801.01239 (4 January 2018).
 
-Read in full (NOTE-tmp8rwaa).
+Read in full ([NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md)).
 
 ## Why this is here
 

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmp6b7dr) in full, from arXiv:1707.00819v1; worth reading for the definition of an exact transformation between structural equation models, with its order-preserving map on interventions, and for its three families of exact coarse-grainings: marginalisation (THEORY-tmpjfhcb), averaging under equal column sums (THEORY-tmpj5zq1) and equilibria. Read it knowing that exactness is equality of push-forward laws for a declared intervention set, which Beckers and Halpern show to be too permissive and which can drop a variable that decides how a system responds; that only perfect interventions are modelled; and that the coefficient of its Theorem 11, as extracted from this copy, appears to lack a factor n.
+  read 2026-10-21 ([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md)) in full, from arXiv:1707.00819v1; worth reading for the definition of an exact transformation between structural equation models, with its order-preserving map on interventions, and for its three families of exact coarse-grainings: marginalisation ([THEORY-tmpjfhcb](../theory.d/THEORY-tmpjfhcb.md)), averaging under equal column sums ([THEORY-tmpj5zq1](../theory.d/THEORY-tmpj5zq1.md)) and equilibria. Read it knowing that exactness is equality of push-forward laws for a declared intervention set, which Beckers and Halpern show to be too permissive and which can drop a variable that decides how a system responds; that only perfect interventions are modelled; and that the coefficient of its Theorem 11, as extracted from this copy, appears to lack a factor n.
 title: 'Causal Consistency of Structural Equation Models'
 version: 2
 history:
@@ -37,7 +37,7 @@ summary: >-
 
 Rubenstein, P. K., Weichwald, S., Bongers, S., Mooij, J. M., Janzing, D., Grosse-Wentrup, M. & Schölkopf, B. (2017). Causal Consistency of Structural Equation Models. *Proceedings of the 33rd Conference on Uncertainty in Artificial Intelligence (UAI 2017)*, reissued as PMLR R15: 151–160. Preprint: arXiv:1707.00819 (4 July 2017).
 
-Read in full (NOTE-tmp6b7dr).
+Read in full ([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md)).
 
 ## Why this is here
 

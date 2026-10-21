@@ -17,8 +17,8 @@ source:
 - LIT-tmp0p7xl
 - LIT-tmp6hpx6
 summary: >-
-  Beckers, Eberhardt and Halpern (2020; arXiv 2019), LIT-tmp0p7xl, read in
-  NOTE-tmpqfl95, on Beckers and Halpern's τ-abstraction (LIT-tmp6hpx6).
+  Beckers, Eberhardt and Halpern (2020; arXiv 2019), [LIT-tmp0p7xl](../literature.d/LIT-tmp0p7xl.md), read in
+  [NOTE-tmpqfl95](../notes.d/NOTE-tmpqfl95.md), on Beckers and Halpern's τ-abstraction ([LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md)).
   The error is relative to a metric the user chooses, takes the worst case
   over interventions, and minimizes over context maps, so like exact
   abstraction it is zero for a coarse-graining whose dropped detail the
@@ -32,9 +32,9 @@ summary: >-
 ## Source
 
 Beckers, Eberhardt and Halpern (2020; arXiv:1906.11583, 2019),
-LIT-tmp0p7xl, read in full in NOTE-tmpqfl95: Definitions 2.4–2.5, 3.1–3.2,
+[LIT-tmp0p7xl](../literature.d/LIT-tmp0p7xl.md), read in full in [NOTE-tmpqfl95](../notes.d/NOTE-tmpqfl95.md): Definitions 2.4–2.5, 3.1–3.2,
 Propositions 3.3, 5.1 and 5.2, Example 5.3. τ-abstraction is Beckers and
-Halpern's (LIT-tmp6hpx6, NOTE-tmp1bdcu).
+Halpern's ([LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md), [NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md)).
 
 ## What was actually shown
 
@@ -85,9 +85,9 @@ loss and in the other only through k.
 
 - **Not a measure of whether the coarse state keeps a system's response.**
   The minimum over τ_U lets high-level noise hold what τ drops, so for
-  CASE-tmpdc0tl with interventions on H only, d_τ = 0 while the
-  governance deficiency is ρ(h = 1) bits (NOTE-tmpqfl95). The deficiency of
-  TERM-tmpf5k7x would need τ_U fixed to the coarse state, an average over
+  [CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md) with interventions on H only, d_τ = 0 while the
+  governance deficiency is ρ(h = 1) bits ([NOTE-tmpqfl95](../notes.d/NOTE-tmpqfl95.md)). The deficiency of
+  [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md) would need τ_U fixed to the coarse state, an average over
   interventions rather than a maximum, and an information measure rather
   than a metric.
 - **Not a scale independent of the metric.** "the choice of distance
@@ -95,11 +95,11 @@ loss and in the other only through k.
 - **Not the probabilistic variants,** which replace the maximum over
   contexts by an expectation (Definition 4.4) and add an intervention
   distribution over implementations (Definition 4.8); they are recorded in
-  NOTE-tmpqfl95 and not re-derived here.
+  [NOTE-tmpqfl95](../notes.d/NOTE-tmpqfl95.md) and not re-derived here.
 - **Not a bound when k is undefined,** as it is wherever M_L′ and M_L agree.
 
 ## Connections
 
-- **THEORY-tmpjtnjd.** Its zero set.
-- **TERM-043.** D_causal is a different graded relation: an average over
+- **[THEORY-tmpjtnjd](THEORY-tmpjtnjd.md).** Its zero set.
+- **[TERM-043](../terms.d/TERM-043.md).** D_causal is a different graded relation: an average over
   interventions of a distance between push-forward distributions.

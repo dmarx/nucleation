@@ -37,7 +37,7 @@ summary: >-
 
 ## Contribution
 
-It supplies the approximate notion Beckers and Halpern (LIT-tmp6hpx6) left as
+It supplies the approximate notion Beckers and Halpern ([LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md)) left as
 future work, and with it a distance between causal models that compares
 their answers to interventions rather than their graphs. The choice of what
 counts as close is left to the user, on purpose. "We maintain that, in
@@ -128,19 +128,19 @@ counted, worst case or on average.
 
 ## Connections
 
-It builds on Beckers and Halpern (LIT-tmp6hpx6, NOTE-tmp1bdcu) and through
-them on Rubenstein et al. (LIT-tmptzsyg, NOTE-tmp6b7dr), on Chalupka,
+It builds on Beckers and Halpern ([LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md), [NOTE-tmp1bdcu](NOTE-tmp1bdcu.md)) and through
+them on Rubenstein et al. ([LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md), [NOTE-tmp6b7dr](NOTE-tmp6b7dr.md)), on Chalupka,
 Bischoff, Perona and Eberhardt (2016) for the El Niño macro variables, and
 compares itself with structural Hamming distance (Acid and de Campos 2003)
 and structural intervention distance (Peters and Bühlmann 2015).
 
 ## Bearing on the record
 
-- **CLAIM-tmppi0xf and TERM-tmpf5k7x.** The deficiency Γ is not d_τ for any
+- **[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md) and [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md).** The deficiency Γ is not d_τ for any
   choice of metric. d_τ minimizes over τ_U, so the high-level context may
   carry what the coarse endogenous state drops: for the hidden bit
-  (CASE-tmpdc0tl) the coarse-graining that drops K is an exact τ-abstraction
-  when only H is intervened on (NOTE-tmp1bdcu, Bearing on the record, item
+  ([CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md)) the coarse-graining that drops K is an exact τ-abstraction
+  when only H is intervened on ([NOTE-tmp1bdcu](NOTE-tmp1bdcu.md), Bearing on the record, item
   3), so d_τ = 0 while Γ(Y_t) = ρ(h = 1) bits. Three further differences:
   d_τ takes the worst case over interventions where Γ averages them by ρ;
   it is a metric distance between states where Γ is a conditional mutual
@@ -151,24 +151,24 @@ and structural intervention distance (Peters and Bühlmann 2015).
   different ρ are not on one scale has its counterpart here: d_τ is defined
   relative to the metric, and "the choice of distance function makes a
   crucial difference".
-- **TERM-043.** D_causal = Σ_a π(a) d(T_# P_o(Y | do(a)), P_t(Y′ | do(τ(a))))
+- **[TERM-043](../terms.d/TERM-043.md).** D_causal = Σ_a π(a) d(T_# P_o(Y | do(a)), P_t(Y′ | do(τ(a))))
   sits between this paper's notions. It averages over interventions by π, as
   none of them does; it compares push-forward distributions, as Definition
   4.3 does, rather than context-wise outcomes, as Definitions 3.2 and 4.4
-  do. The paper's composition results (C2) are a template for TERM-043's
+  do. The paper's composition results (C2) are a template for [TERM-043](../terms.d/TERM-043.md)'s
   componentwise comparison of transports composed in sequence, which the
   record has not stated.
-- **QUESTION-005.** It asks how corresponding interventions can be made
+- **[QUESTION-005](../questions.d/QUESTION-005.md).** It asks how corresponding interventions can be made
   operational. The intervention distribution is one formal answer for the
   causal component: a high-level intervention corresponds to a declared
   distribution over its low-level implementations, positive only on those ω_τ
   sends to it. It does not say where the distribution comes from, which is
   the question's worry.
-- **TERM-tmpdxajb.** The metric d_V and the gender/height example ("One
+- **[TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md).** The metric d_V and the gender/height example ("One
   researcher might not be interested in gender ... another researcher might
   care about gender and not about height") are the regime's query family and
   tolerance in another notation; d_τ ≤ α is Adequate(T; …, ε) with ε = α.
-- **CLAIM-tmpshzxc.** Nothing here orders d_τ along refinements of τ; the
+- **[CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md).** Nothing here orders d_τ along refinements of τ; the
   monotonicity of Γ has no counterpart in this paper.
 
 No instruction for machine-learning practice; nothing for the anthology.

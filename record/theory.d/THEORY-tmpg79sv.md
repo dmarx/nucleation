@@ -18,8 +18,8 @@ date: '2026-10-21'
 source:
 - LIT-tmpx95z2
 summary: >-
-  Weatherall, O'Connor and Bruner (2020; arXiv 2018), LIT-tmpx95z2, read in
-  NOTE-tmp8rwaa. With two symmetric hypotheses, each result's likelihood
+  Weatherall, O'Connor and Bruner (2020; arXiv 2018), [LIT-tmpx95z2](../literature.d/LIT-tmpx95z2.md), read in
+  [NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md). With two symmetric hypotheses, each result's likelihood
   ratio depends only on successes minus failures, so the audience's belief
   is a monotone function of the cumulative excess; whoever chooses what the
   audience sees chooses that number. It holds for the paper's two-point
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Weatherall, O'Connor and Bruner (2020), LIT-tmpx95z2, read in full in
-NOTE-tmp8rwaa: §2's model, §4's biased production and Fig. 7, and Appendix
+Weatherall, O'Connor and Bruner (2020), [LIT-tmpx95z2](../literature.d/LIT-tmpx95z2.md), read in full in
+[NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md): §2's model, §4's biased production and Fig. 7, and Appendix
 A's likelihood ratio ((1 − 2ε)/(1 + 2ε))^{2x−n}. The derivation is the
 record's.
 
@@ -90,11 +90,11 @@ does not.
 
 ## Connections
 
-- **THEORY-tmpnq01l.** The same statistic explains why larger studies
+- **[THEORY-tmpnq01l](THEORY-tmpnq01l.md).** The same statistic explains why larger studies
   usually starve the selective-sharing propagandist: a spurious result
   needs a negative excess, which for p_B > .5 grows rarer with n except in
   the regime of very small ε where, as the paper's Appendix A notes,
   P(x < n/2) rises with n over the values it studied.
-- **CLAIM-342.** The audience's whole state is one number fed by two
+- **[CLAIM-342](../claims.d/CLAIM-342.md).** The audience's whole state is one number fed by two
   channels; evidence that does not pass through the propagandist is the
   only counterweight.

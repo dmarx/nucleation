@@ -124,9 +124,9 @@ concludes.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | Forwarding only real, unbiased results that favour the worse theory can drive a Bayesian audience to the false theory while the scientists converge on the true one | strong, within the model | simulations of §3 (Figs 2–5), averaged over 1,000 runs per setting; re-run here (THEORY-tmpnq01l) |
+| C1 | Forwarding only real, unbiased results that favour the worse theory can drive a Bayesian audience to the false theory while the scientists converge on the true one | strong, within the model | simulations of §3 (Figs 2–5), averaged over 1,000 runs per setting; re-run here ([THEORY-tmpnq01l](../theory.d/THEORY-tmpnq01l.md)) |
 | C2 | The effect weakens with more scientists heard, larger ε and larger n, and with k fixed can strengthen with more scientists | strong, within the model | Figs 2–4 and the text; the last "not always" (footnote 19) |
-| C3 | Under biased production the smallest studies serve the propagandist best | strong | Fig. 7; re-derived pathwise here (THEORY-tmpg79sv) |
+| C3 | Under biased production the smallest studies serve the propagandist best | strong | Fig. 7; re-derived pathwise here ([THEORY-tmpg79sv](../theory.d/THEORY-tmpg79sv.md)) |
 | C4 | "Fair" reporting slows the audience's learning and never improves it | moderate | Fig. 9 over a representative set of parameters (footnote 29) |
 | C5 | Selective sharing is often more effective than biased production | moderate | comparison of §3 and §4 in the conclusion, with cost and risk arguments that are outside the model |
 | C6 | The Tobacco Strategy was an important causal factor in the delay of tobacco regulation | weak from the model | the model with Oreskes and Conway's history; the authors call the model "how-potentially" and say "modeling alone cannot establish that this did happen" |
@@ -144,20 +144,20 @@ concludes.
 
 ## Connections
 
-It extends Bala and Goyal (1998) and Zollman (2007; LIT-724) with an
+It extends Bala and Goyal (1998) and Zollman (2007; [LIT-724](../literature.d/LIT-724.md)) with an
 audience, and contrasts itself with Holman and Bruner's intransigently
-biased agent (2015; LIT-751, Unavailable), who "draws from a biased arm
+biased agent (2015; [LIT-751](../literature.d/LIT-751.md), Unavailable), who "draws from a biased arm
 relative to the other scientists" and acts on the scientists, not on an
 audience. It points forward to Holman and Bruner's industrial selection
-(2017; LIT-744), and cites Rosenstock, Bruner and O'Connor (LIT-733) for the
+(2017; [LIT-744](../literature.d/LIT-744.md)), and cites Rosenstock, Bruner and O'Connor ([LIT-733](../literature.d/LIT-733.md)) for the
 scope of the Zollman effect and O'Connor and Weatherall on polarization.
 
 ## Bearing on the record
 
-- **CLAIM-tmpjo2zr.** It is the network-epistemology prior art for the
-  claim's evidence route, and adds a third form beside THEORY-404 and
-  THEORY-146. In THEORY-404 the receiver knows the sender's committed design
-  and is still moved; in THEORY-146 funding changes which producers prosper;
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** It is the network-epistemology prior art for the
+  claim's evidence route, and adds a third form beside [THEORY-404](../theory.d/THEORY-404.md) and
+  [THEORY-146](../theory.d/THEORY-146.md). In [THEORY-404](../theory.d/THEORY-404.md) the receiver knows the sender's committed design
+  and is still moved; in [THEORY-146](../theory.d/THEORY-146.md) funding changes which producers prosper;
   here every result is genuine and honestly produced, and the audience is
   moved because it updates on a selected sample as if it were not selected.
   So the claim's phrase "even if the regulator reasons correctly on the
@@ -169,28 +169,28 @@ scope of the Zollman effect and O'Connor and Weatherall on polarization.
   propagandist's effect. The paper's audience does not feed back on the
   scientists, so it has nothing of the claim's interpretation–authority loop
   between institutions.
-- **CLAIM-330.** A25's positioning, "alongside—not as a replacement for",
+- **[CLAIM-330](../claims.d/CLAIM-330.md).** A25's positioning, "alongside—not as a replacement for",
   fits: this paper's dynamics are an open-loop tug-of-war (Y_P × Y_S), with no
-  coupling from the audience back to the evidence, which is what CLAIM-330's
+  coupling from the audience back to the evidence, which is what [CLAIM-330](../claims.d/CLAIM-330.md)'s
   instability needs.
-- **THEORY-143 and THEORY-148.** The Zollman effect concerns the community's
+- **[THEORY-143](../theory.d/THEORY-143.md) and [THEORY-148](../theory.d/THEORY-148.md).** The Zollman effect concerns the community's
   own learning. With an outside audience and a propagandist, the slow
   consensus that sparse networks give can leave the audience worse off (Fig.
   5), and footnote 14 reports Holman and Bruner's finding that with a biased
   agent among the scientists it is best for them to be highly connected.
-  THEORY-143's scope should say so; a candidate wording is in the batch
+  [THEORY-143](../theory.d/THEORY-143.md)'s scope should say so; a candidate wording is in the batch
   report.
-- **LIT-751.** This paper's footnotes 14, 18 and 23 describe that unread
+- **[LIT-751](../literature.d/LIT-751.md).** This paper's footnotes 14, 18 and 23 describe that unread
   model: the biased agent draws from a biased arm and shares with
   scientists; high connectivity helps; and scientists who can ignore
   statistically unlikely data do better when n is large, because the biased
   agent is easier to detect. These are Weatherall et al.'s reports, not a
   reading.
-- **CLAIM-342.** Hearing more scientists is the paper's main remedy: evidence
+- **[CLAIM-342](../claims.d/CLAIM-342.md).** Hearing more scientists is the paper's main remedy: evidence
   that arrives without passing through the propagandist. That is
-  CLAIM-342's anchor for a loop that selects its own evidence, in a case
+  [CLAIM-342](../claims.d/CLAIM-342.md)'s anchor for a loop that selects its own evidence, in a case
   with no loop.
-- **QUESTION-047.** The audience settles on a belief none of the scientists
+- **[QUESTION-047](../questions.d/QUESTION-047.md).** The audience settles on a belief none of the scientists
   holds, through selection of their own outputs: a community-level mechanism
   of the kind the question asks for, with the community split into producers
   and an audience.
@@ -222,4 +222,4 @@ No instruction for machine-learning practice; nothing for the anthology.
   present and discount its results, or who weigh sources by their statistical
   track record?
 - With feedback from the audience to the scientists' funding or attention,
-  does the open-loop tug-of-war become CLAIM-330's kind of instability?
+  does the open-loop tug-of-war become [CLAIM-330](../claims.d/CLAIM-330.md)'s kind of instability?

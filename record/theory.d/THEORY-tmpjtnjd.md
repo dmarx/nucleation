@@ -20,8 +20,8 @@ source:
 - LIT-tmp6hpx6
 - LIT-tmptzsyg
 summary: >-
-  Beckers and Halpern (2019), LIT-tmp6hpx6, read in NOTE-tmp1bdcu, on
-  Rubenstein et al.'s exact transformation (LIT-tmptzsyg). Uniformity over
+  Beckers and Halpern (2019), [LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md), read in [NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md), on
+  Rubenstein et al.'s exact transformation ([LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md)). Uniformity over
   distributions turns a distributional match into a context-by-context
   commuting condition. It does not make the coarse endogenous state carry
   the high-level context, which is what governance-response sufficiency
@@ -33,10 +33,10 @@ summary: >-
 
 ## Source
 
-Beckers and Halpern (2019), LIT-tmp6hpx6, read in full in NOTE-tmp1bdcu:
+Beckers and Halpern (2019), [LIT-tmp6hpx6](../literature.d/LIT-tmp6hpx6.md), read in full in [NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md):
 Definitions 3.1, 3.5, 3.13 and 3.15, Proposition 3.6, Theorem 3.8 and the
 examples named below. Exact transformation is Rubenstein et al.'s
-(LIT-tmptzsyg, NOTE-tmp6b7dr).
+([LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md), [NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md)).
 
 ## What was actually shown
 
@@ -88,25 +88,25 @@ point serve every intervention at once.
 ## What this does not say
 
 - **Not that the high-level context is the coarse state.** τ_U is any map
-  that works. In the hidden bit (CASE-tmpdc0tl), dropping K is a
+  that works. In the hidden bit ([CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md)), dropping K is a
   τ-abstraction for interventions on H alone, with
   τ_U(u) = (u_t, u_H, (u_K, u_{t+1})): the high-level noise carries K. So the
   ladder up to τ-abstraction accepts a coarse-graining whose coarse state
   keeps nothing of the response to h. Governance-response sufficiency
-  (TERM-tmpf5k7x) is the compatibility condition with τ_U required to be the
-  coarse state itself, compared on the outcome only (NOTE-tmp1bdcu, Bearing
+  ([TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md)) is the compatibility condition with τ_U required to be the
+  coarse state itself, compared on the outcome only ([NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md), Bearing
   on the record, item 1).
-- **Not anything approximate;** that is LIT-tmp0p7xl (THEORY-tmpe391l).
+- **Not anything approximate;** that is [LIT-tmp0p7xl](../literature.d/LIT-tmp0p7xl.md) ([THEORY-tmpe391l](THEORY-tmpe391l.md)).
 - **Not for uncountable intervention sets** without a further argument.
 - **Not that every strong abstraction is constructive;** the paper
   conjectures it.
 
 ## Connections
 
-- **THEORY-tmpjfhcb.** Exact transformation's acceptance of marginalising a
+- **[THEORY-tmpjfhcb](THEORY-tmpjfhcb.md).** Exact transformation's acceptance of marginalising a
   never-intervened variable, here seen to survive uniformity.
-- **CLAIM-350.** Its fibre-wise factorization of a judgment is the shape of
+- **[CLAIM-350](../claims.d/CLAIM-350.md).** Its fibre-wise factorization of a judgment is the shape of
   the compatibility condition with the context map fixed to the coarse
   map.
-- **THEORY-243.** Interchange interventions test a commuting condition of
+- **[THEORY-243](THEORY-243.md).** Interchange interventions test a commuting condition of
   this kind on chosen inputs.

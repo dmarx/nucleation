@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmp1bdcu) in full, from arXiv:1812.03789v4; worth reading for the examples that show exact transformation too permissive, for the characterization of exactness under every distribution as a context map commuting with every allowed intervention (THEORY-tmpjtnjd), and for the ladder τ-abstraction, strong and constructive abstraction. Read it knowing that its Theorem 3.8 omits the countability its proof uses, that the context map is only required to exist, so high-level noise may hold what the coarse state drops, and that every strong abstraction being constructive is a conjecture.
+  read 2026-10-21 ([NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md)) in full, from arXiv:1812.03789v4; worth reading for the examples that show exact transformation too permissive, for the characterization of exactness under every distribution as a context map commuting with every allowed intervention ([THEORY-tmpjtnjd](../theory.d/THEORY-tmpjtnjd.md)), and for the ladder τ-abstraction, strong and constructive abstraction. Read it knowing that its Theorem 3.8 omits the countability its proof uses, that the context map is only required to exist, so high-level noise may hold what the coarse state drops, and that every strong abstraction being constructive is a conjecture.
 title: 'Abstracting Causal Models'
 version: 2
 history:
@@ -39,7 +39,7 @@ summary: >-
 
 Beckers, S. & Halpern, J. Y. (2019). Abstracting Causal Models. *Proceedings of the AAAI Conference on Artificial Intelligence* 33(01): 2678–2685. doi:10.1609/aaai.v33i01.33012678. Preprint: arXiv:1812.03789 (10 December 2018).
 
-Read in full (NOTE-tmp1bdcu).
+Read in full ([NOTE-tmp1bdcu](../notes.d/NOTE-tmp1bdcu.md)).
 
 ## Why this is here
 
