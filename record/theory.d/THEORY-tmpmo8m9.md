@@ -26,7 +26,7 @@ date: '2026-10-21'
 source:
 - LIT-tmp363mx
 summary: >-
-  Bergemann and Morris (2019), LIT-tmp363mx, read in NOTE-tmp3sq32, §4.2.
+  Bergemann and Morris (2019), [LIT-tmp363mx](../literature.d/LIT-tmp363mx.md), read in [NOTE-tmp3sq32](../notes.d/NOTE-tmp3sq32.md), §4.2.
   A third face of Blackwell's order: the better-informed receiver is the
   harder one to steer. For many players the right order is not the
   statistical sufficiency of their joint information. Bayesian players
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-Bergemann and Morris (2019), LIT-tmp363mx, §4.2, read in NOTE-tmp3sq32,
+Bergemann and Morris (2019), [LIT-tmp363mx](../literature.d/LIT-tmp363mx.md), §4.2, read in [NOTE-tmp3sq32](../notes.d/NOTE-tmp3sq32.md),
 citing Bergemann and Morris (2016a) for the proofs. Blackwell (1951,
 1953) for the first two orders.
 
@@ -87,16 +87,16 @@ designer can do, is what makes it possible.
   not under the other, is stated, not shown here.
 - **The many-player equivalence is not checked.**
 - **Not for bounded receivers.** For a receiver restricted to a rule
-  class, a garbling can raise what it can use (THEORY-tmpgz4cf), so the
+  class, a garbling can raise what it can use ([THEORY-tmpgz4cf](THEORY-tmpgz4cf.md)), so the
   better-informed receiver need not be the harder one to steer.
 - **Not for designers who cannot condition on the prior information.**
   The re-derivation simulates t′ from (t, θ).
 
 ## Connections
 
-- **THEORY-156** is Blackwell's (i) ⇔ (ii). This adds (iii).
-- **CLAIM-199 and CLAIM-326.** In the record's language: Blackwell's
+- **[THEORY-156](THEORY-156.md)** is Blackwell's (i) ⇔ (ii). This adds (iii).
+- **[CLAIM-199](../claims.d/CLAIM-199.md) and [CLAIM-326](../claims.d/CLAIM-326.md).** In the record's language: Blackwell's
   ceiling bounds what a receiver can do with a rendering, and the
   incentive order says the same ceiling bounds, from the other side, how
   far a designer can push a receiver who holds it.
-- **THEORY-tmpetatd** gives the set this orders.
+- **[THEORY-tmpetatd](THEORY-tmpetatd.md)** gives the set this orders.

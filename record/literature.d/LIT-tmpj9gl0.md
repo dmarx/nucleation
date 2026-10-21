@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmp1expw), from arXiv:2101.05853v2: the main text and Appendices A, B and E in full, Appendices C, D and F in statement; worth reading for the exact conditions under which a shared, more accurate screening algorithm is dominant for every firm and still lowers welfare without any shock (THEORY-tmp3qyox), and for the identity that makes independence valuable to a second mover. Read it knowing that the model has two firms hiring one candidate each, that the conditions hold for Mallows rankings always, for Gaussian and Laplacian random utility models with three candidates, and never for Plackett–Luce, and that the losses measured are small (about 4% in one instance).
+  read 2026-10-21 ([NOTE-tmp1expw](../notes.d/NOTE-tmp1expw.md)), from arXiv:2101.05853v2: the main text and Appendices A, B and E in full, Appendices C, D and F in statement; worth reading for the exact conditions under which a shared, more accurate screening algorithm is dominant for every firm and still lowers welfare without any shock ([THEORY-tmp3qyox](../theory.d/THEORY-tmp3qyox.md)), and for the identity that makes independence valuable to a second mover. Read it knowing that the model has two firms hiring one candidate each, that the conditions hold for Mallows rankings always, for Gaussian and Laplacian random utility models with three candidates, and never for Plackett–Luce, and that the losses measured are small (about 4% in one instance).
 title: 'Algorithmic monoculture and social welfare'
 version: 2
 history:
@@ -37,7 +37,7 @@ summary: >-
 
 Kleinberg, J. & Raghavan, M. (2021). Algorithmic monoculture and social welfare. *Proceedings of the National Academy of Sciences* 118(22): e2018340118. doi:10.1073/pnas.2018340118. Preprint: arXiv:2101.05853 (14 January 2021).
 
-Read 2026-10-21, in NOTE-tmp1expw: the main text and Appendices A, B and
+Read 2026-10-21, in [NOTE-tmp1expw](../notes.d/NOTE-tmp1expw.md): the main text and Appendices A, B and
 E in full, C, D and F in statement. The summary was checked against the
 reading.
 

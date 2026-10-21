@@ -84,7 +84,7 @@ nothing about D(θ′) for policies never deployed.
   stable point, and retraining alternates 1, 0, 1, …
 - **Theorem 3.5.** Under (A1), (A2) and ε-sensitivity,
   ‖G(θ) − G(θ′)‖ ≤ ε(β/γ)‖θ − θ′‖, and for ε < γ/β retraining converges
-  linearly to a unique stable point. Re-derived in THEORY-tmpwl9bj.
+  linearly to a unique stable point. Re-derived in [THEORY-tmpwl9bj](../theory.d/THEORY-tmpwl9bj.md).
 - **Proposition 3.6.** Retraining can fail to converge with (a) convexity
   without strong convexity (ℓ = βyθ, Y = εθ: iterates …, 1, −1, 1, …),
   (b) strong convexity without joint smoothness (a regularized hinge),
@@ -100,7 +100,7 @@ nothing about D(θ′) for policies never deployed.
   concave in θ although ε < γ/β (Example 2.2 with ε ∈ [½, 1)).
 - **Theorem 4.3.** For ℓ L_z-Lipschitz in z and γ-strongly convex,
   ‖θ_PO − θ_PS‖ ≤ 2L_zε/γ for every stable point and every optimum.
-  Re-derived in THEORY-tmp9lnfi.
+  Re-derived in [THEORY-tmp9lnfi](../theory.d/THEORY-tmp9lnfi.md).
 - **Corollary 5.1.** In strategic classification retraining converges to a
   stable classifier within 2L_zε(L_θ + L_zε)/γ of the Stackelberg
   equilibrium in objective.
@@ -149,7 +149,7 @@ sciences (Healy 2015 and others) without engaging that literature.
 
 ## Bearing on the record
 
-- **CLAIM-tmpeftzb.** A25's warning, that a description "well calibrated
+- **[CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md).** A25's warning, that a description "well calibrated
   against outcomes generated under its own use need not be an adequate
   description of the system under a different policy", is the paper's
   stability notion read negatively. Stability is optimality for D(θ_PS)
@@ -158,15 +158,15 @@ sciences (Healy 2015 and others) without engaging that literature.
   theorem from Perdomo et al.", has two stable points. That is consistent
   with the paper. Its threshold rule is not strongly convex, and Theorem
   3.5's uniqueness needs strong convexity, joint smoothness and
-  ε < γ/β (THEORY-tmpwl9bj). The claim's "Perdomo et al.'s performative
+  ε < γ/β ([THEORY-tmpwl9bj](../theory.d/THEORY-tmpwl9bj.md)). The claim's "Perdomo et al.'s performative
   prediction … not read here" is now out of date.
-- **CLAIM-tmppi0xf.** Its point, that a description closed under ordinary
+- **[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md).** Its point, that a description closed under ordinary
   dynamics need not preserve responses to intervention, has a learning
   analogue here: a stable model can be far from the optimum (Example 2.2:
   θ_PS = 0.286 against θ_PO = 0.5), because the optimum depends on how
   D(θ) varies away from the deployed θ, which stability never consults.
   The record's join, not the paper's.
-- **TERM-tmp5lqn0.** A predictor an institution deploys is a legibility
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** A predictor an institution deploys is a legibility
   regime that reshapes the population it reads. Theorem 3.5 says when such
   a loop settles, and where: at self-consistency, not at the best
   achievable legibility. The paper does not use the word.

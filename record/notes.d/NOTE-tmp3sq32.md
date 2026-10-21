@@ -86,7 +86,7 @@ government, a platform, or nobody.
   a′_i. Linear in σ.
 - **Proposition 1 (revelation principle).** An omniscient designer can
   attain σ iff σ is a BCE. The proof is cited from Bergemann and Morris
-  (2016a); re-derived in THEORY-tmpetatd.
+  (2016a); re-derived in [THEORY-tmpetatd](../theory.d/THEORY-tmpetatd.md).
 - **§3.1, one uninformed receiver** (Kamenica and Gentzkow's example).
   Invest pays −1 in B and x ∈ (0, 1) in G, equal prior; the designer
   maximizes investment. Obedience is p_G ≥ p_B/x, so the optimum is
@@ -121,7 +121,7 @@ government, a platform, or nobody.
   smaller in every decision problem. For many players, Bergemann and
   Morris (2016a)'s **individual sufficiency** is equivalent to the
   incentive order, and it neither implies nor is implied by sufficiency
-  of the joint information. Cited, not proved here (THEORY-tmpmo8m9).
+  of the joint information. Cited, not proved here ([THEORY-tmpmo8m9](../theory.d/THEORY-tmpmo8m9.md)).
 - **§4.3.** BCE and linear programming, against concavification
   (Aumann–Maschler; Kamenica–Gentzkow; Mathevet, Perego and Taneva for many
   players), with the limits of each.
@@ -151,9 +151,9 @@ government, a platform, or nobody.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | The outcomes an omniscient designer can attain are exactly the BCE, a set given by linear obedience constraints | strong | Proposition 1, proved in the authors' 2016 paper; re-derived in THEORY-tmpetatd |
+| C1 | The outcomes an omniscient designer can attain are exactly the BCE, a set given by linear obedience constraints | strong | Proposition 1, proved in the authors' 2016 paper; re-derived in [THEORY-tmpetatd](../theory.d/THEORY-tmpetatd.md) |
 | C2 | Information design unifies Bayesian persuasion, communication in games and robust prediction | strong as a classification | the definitions; Forges's taxonomy mapped in §6.4 |
-| C3 | More prior information shrinks the BCE set; for one player the incentive order is Blackwell's, for many it is individual sufficiency | strong for one player, cited for many | §4.2, from Bergemann and Morris (2016a); THEORY-tmpmo8m9 |
+| C3 | More prior information shrinks the BCE set; for one player the incentive order is Blackwell's, for many it is individual sufficiency | strong for one player, cited for many | §4.2, from Bergemann and Morris (2016a); [THEORY-tmpmo8m9](../theory.d/THEORY-tmpmo8m9.md) |
 | C4 | Public signals are optimal when the designer wants correlated actions, private ones when it wants them uncorrelated | moderate | the two-firm example; cited general results (Arieli and Babichenko; Meyer); the substitutes case misstated |
 | C5 | A benevolent designer may obfuscate when there are many players | moderate | the spillover example in §4.1 |
 | C6 | Read metaphorically, BCE give predictions robust to the information structure: price discrimination's surplus triangle, aggregate volatility's bound | strong for the cited results | §5, summarizing the authors' papers; the volatility bound checked |
@@ -180,8 +180,8 @@ government, a platform, or nobody.
 
 ## Connections
 
-It generalizes Kamenica and Gentzkow (2011), held as LIT-1021 and
-THEORY-404, which is its one-player case without prior information. It
+It generalizes Kamenica and Gentzkow (2011), held as [LIT-1021](../literature.d/LIT-1021.md) and
+[THEORY-404](../theory.d/THEORY-404.md), which is its one-player case without prior information. It
 extends Aumann's correlated equilibrium (1974, 1987) and Myerson's
 communication in games (1982, 1991) to a designer with information of
 her own, and Forges (1993). It surveys Taneva (2015), Mathevet, Perego and
@@ -191,7 +191,7 @@ information structures.
 
 ## Bearing on the record
 
-- **CLAIM-tmpjo2zr.** Its first route, governing an organization "through
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** Its first route, governing an organization "through
   the evidence its own procedures receive", is information design in the
   literal reading, and Proposition 1 gives the exact reach of that route
   when the organization's procedures are Bayesian: any obedient joint
@@ -205,21 +205,21 @@ information structures.
   BCE bounds the outcomes of every information structure, so if an
   observed pattern lies outside it, no story about who knew what explains
   it.
-- **THEORY-404 and LIT-1021** are the one-player, no-prior-information
+- **[THEORY-404](../theory.d/THEORY-404.md) and [LIT-1021](../literature.d/LIT-1021.md)** are the one-player, no-prior-information
   case. This survey adds many receivers and prior information, and says
   prior information is what limits a persuader.
-- **CLAIM-199, CLAIM-326 and THEORY-156.** §4.2's incentive order is a
+- **[CLAIM-199](../claims.d/CLAIM-199.md), [CLAIM-326](../claims.d/CLAIM-326.md) and [THEORY-156](../theory.d/THEORY-156.md).** §4.2's incentive order is a
   third face of Blackwell's order, beside "more informative" and
   garbling: a better-informed receiver is harder to steer, in every
   decision problem. For the record's ceiling, a garbling shrinks what the
   receiver can do and enlarges what a designer can make it do.
-- **Reflexive control** (A25, LIT-tmpwyfa1, unread) and **Mostagir et
-  al.** (LIT-tmp8x4zb, Unavailable): A25's link is the right one in kind.
+- **Reflexive control** (A25, [LIT-tmpwyfa1](../literature.d/LIT-tmpwyfa1.md), unread) and **Mostagir et
+  al.** ([LIT-tmp8x4zb](../literature.d/LIT-tmp8x4zb.md), Unavailable): A25's link is the right one in kind.
   Reflexive control is designing an adversary's information to induce a
   chosen decision, and §7's maxmin design and the many-player BCE are the
   formal versions. The paper assumes Bayesian players with a common prior,
   which reflexive control does not.
-- **TERM-tmp5lqn0.** What a designer chooses is what becomes legible to
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** What a designer chooses is what becomes legible to
   the players. The paper studies Bayesian, unbounded players, so its
   legibility is Blackwell informativeness, not usable information.
 
@@ -248,5 +248,5 @@ No instruction for machine-learning practice; nothing for the anthology.
   design for platforms and recommender systems.
 - For the record: what is the attainable set when receivers are bounded,
   so that a garbling can raise a receiver's usable information
-  (THEORY-tmpgz4cf)? Then a designer could steer by making some
+  ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md))? Then a designer could steer by making some
   distinctions easier to use, not only by withholding them.

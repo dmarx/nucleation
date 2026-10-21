@@ -20,7 +20,7 @@ date: '2026-10-21'
 source:
 - LIT-tmpj9gl0
 summary: >-
-  Kleinberg and Raghavan (2021), LIT-tmpj9gl0, read in NOTE-tmp1expw. A
+  Kleinberg and Raghavan (2021), [LIT-tmpj9gl0](../literature.d/LIT-tmpj9gl0.md), read in [NOTE-tmp1expw](../notes.d/NOTE-tmp1expw.md). A
   Braess paradox for screening: the shared algorithm's accuracy helps
   whoever chooses first and its correlation hurts whoever chooses second,
   and at the right accuracy the second effect wins while adoption stays
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Kleinberg and Raghavan (2021), *PNAS* 118(22), LIT-tmpj9gl0, read in
-NOTE-tmp1expw from arXiv v2: Theorem 1 (§2.5), identity (3) (§2.4),
+Kleinberg and Raghavan (2021), *PNAS* 118(22), [LIT-tmpj9gl0](../literature.d/LIT-tmpj9gl0.md), read in
+[NOTE-tmp1expw](../notes.d/NOTE-tmp1expw.md) from arXiv v2: Theorem 1 (§2.5), identity (3) (§2.4),
 Theorem 2 (RUMs, Appendix C) and Theorem 3 (Mallows, Appendix E). The
 re-derivation and recomputation below are the record's.
 
@@ -105,10 +105,10 @@ crossing.
 
 ## Connections
 
-- **TERM-tmp5lqn0.** A shared rule class for reading candidates is a
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** A shared rule class for reading candidates is a
   common legibility regime. Each institution reads better, and together
   they read the same errors. This is A25's "loss of organizational
   diversity" with a welfare cost, in a model where it can be computed.
-- **THEORY-tmpwl9bj** has the opposite structure: one learner whose
+- **[THEORY-tmpwl9bj](THEORY-tmpwl9bj.md)** has the opposite structure: one learner whose
   model reshapes its own data. Here no data are reshaped, and the cost
   comes from correlation across decision-makers.

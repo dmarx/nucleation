@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmp3sq32) in full, from Cowles Foundation Discussion Paper 2075R3 (March 2018, the accepted manuscript); worth reading as the general frame for designing what others know: what an omniscient designer can bring about is exactly the Bayes correlated equilibria, a polytope given by linear obedience constraints (THEORY-tmpetatd), read literally as a designer's reach and metaphorically as a bound over all information structures, with prior information shrinking it and an incentive order that extends Blackwell's (THEORY-tmpmo8m9). Read it knowing that it is a survey whose central results are proved in the authors' other papers, that its players are Bayesian with a common prior, and that its two-firm example with strategic substitutes states an optimal rule that is infeasible under the parameters it assumes (the copy read; the JEL text was not compared).
+  read 2026-10-21 ([NOTE-tmp3sq32](../notes.d/NOTE-tmp3sq32.md)) in full, from Cowles Foundation Discussion Paper 2075R3 (March 2018, the accepted manuscript); worth reading as the general frame for designing what others know: what an omniscient designer can bring about is exactly the Bayes correlated equilibria, a polytope given by linear obedience constraints ([THEORY-tmpetatd](../theory.d/THEORY-tmpetatd.md)), read literally as a designer's reach and metaphorically as a bound over all information structures, with prior information shrinking it and an incentive order that extends Blackwell's ([THEORY-tmpmo8m9](../theory.d/THEORY-tmpmo8m9.md)). Read it knowing that it is a survey whose central results are proved in the authors' other papers, that its players are Bayesian with a common prior, and that its two-firm example with strategic substitutes states an optimal rule that is infeasible under the parameters it assumes (the copy read; the JEL text was not compared).
 title: 'Information Design: A Unified Perspective'
 version: 2
 history:
@@ -36,7 +36,7 @@ summary: >-
 
 Bergemann, D. & Morris, S. (2019). Information Design: A Unified Perspective. *Journal of Economic Literature* 57(1): 44–95. doi:10.1257/jel.20181489. Earlier: Cowles Foundation discussion paper, SSRN 2017 (doi:10.2139/ssrn.2919675).
 
-Read 2026-10-21 in full, in NOTE-tmp3sq32, from the accepted manuscript
+Read 2026-10-21 in full, in [NOTE-tmp3sq32](../notes.d/NOTE-tmp3sq32.md), from the accepted manuscript
 (Cowles Foundation Discussion Paper 2075R3). The summary was checked
 against the reading.
 

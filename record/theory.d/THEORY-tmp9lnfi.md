@@ -18,8 +18,8 @@ date: '2026-10-21'
 source:
 - LIT-tmpwbhro
 summary: >-
-  Perdomo, Zrnic, Mendler-Dünner and Hardt (2020), LIT-tmpwbhro, read in
-  NOTE-tmpmuo87. Self-consistency under one's own influence and the best
+  Perdomo, Zrnic, Mendler-Dünner and Hardt (2020), [LIT-tmpwbhro](../literature.d/LIT-tmpwbhro.md), read in
+  [NOTE-tmpmuo87](../notes.d/NOTE-tmpmuo87.md). Self-consistency under one's own influence and the best
   outcome under that influence are different targets. The bound says they
   are close when the influence is weak relative to the loss's curvature.
   It does not say how to find the optimum, which needs the distribution map
@@ -32,7 +32,7 @@ summary: >-
 ## Source
 
 Perdomo, Zrnic, Mendler-Dünner and Hardt (2020), ICML 2020,
-LIT-tmpwbhro, read in full in NOTE-tmpmuo87 from arXiv v4: Example 2.2,
+[LIT-tmpwbhro](../literature.d/LIT-tmpwbhro.md), read in full in [NOTE-tmpmuo87](../notes.d/NOTE-tmpmuo87.md) from arXiv v4: Example 2.2,
 Proposition 4.2 (Appendix D.6) and Theorem 4.3 (Appendix D.7). The
 re-derivations below are the record's, following the paper.
 
@@ -75,7 +75,7 @@ tie them.
 ## What this does not say
 
 - **Not that stable points exist.** Existence needs Theorem 3.5's
-  conditions (THEORY-tmpwl9bj) or Proposition 4.1's compactness and
+  conditions ([THEORY-tmpwl9bj](THEORY-tmpwl9bj.md)) or Proposition 4.1's compactness and
   convexity.
 - **Not how to find the optimum.** θ_PO depends on how D(θ) varies away
   from the deployed model, which retraining never observes.
@@ -87,11 +87,11 @@ tie them.
 
 ## Connections
 
-- **CLAIM-tmpeftzb.** A category confirmed by the outcomes its own use
+- **[CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md).** A category confirmed by the outcomes its own use
   produces is the stable point. This shows the stable point can be a worse
   choice than an alternative that would have produced different evidence.
   That is the claim's reason to model the effect of use, made exact in
   one family of models.
-- **CLAIM-tmppi0xf.** Closure under ordinary dynamics does not preserve
+- **[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md).** Closure under ordinary dynamics does not preserve
   intervention responses. In the same spirit, optimality under the
   deployed distribution does not give optimality under the map D(·).

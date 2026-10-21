@@ -19,19 +19,19 @@ date: '2026-10-21'
 source:
 - LIT-tmp07k7g
 summary: >-
-  Xu, Zhao, Song, Stewart and Ermon (2020), LIT-tmp07k7g, read in
-  NOTE-tmpvnsxo, Theorem 1. Restricting the predictor class trades the
+  Xu, Zhao, Song, Stewart and Ermon (2020), [LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md), read in
+  [NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md), Theorem 1. Restricting the predictor class trades the
   data-processing inequality for estimability. The bound needs bounded
   log-likelihoods and says nothing about Shannon information, which a
-  restricted family may under- or over-state (THEORY-tmpgz4cf).
+  restricted family may under- or over-state ([THEORY-tmpgz4cf](THEORY-tmpgz4cf.md)).
 ---
 
 # THEORY-tmp9m1g4: When every log-likelihood a predictive family V can assign lies in [−B, B], the V-information estimated from N samples is within 4R_N(G_V) + 2B√(2 log(1/δ)/N) of the true V-information with probability at least 1 − 2δ, with R_N(G_V) the Rademacher complexity of the family's log-likelihoods; so usable information relative to a family of small complexity can be estimated in high dimension, and what is estimated is that family's information, not Shannon's
 
 ## Source
 
-Xu, Zhao, Song, Stewart and Ermon (2020), ICLR 2020, LIT-tmp07k7g, read in
-full in NOTE-tmpvnsxo: Theorem 1 (§4), proved in Appendix A.3 with Lemmas
+Xu, Zhao, Song, Stewart and Ermon (2020), ICLR 2020, [LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md), read in
+full in [NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md): Theorem 1 (§4), proved in Appendix A.3 with Lemmas
 3 and 4, and Corollary 1.1 for bounded linear-Gaussian families. The
 check below is the record's.
 
@@ -70,7 +70,7 @@ error is controlled in both directions by the one uniform deviation Φ.
 
 - **Not an estimate of Shannon information.** The quantity estimated is
   I_V. When V is small enough to estimate well, I_V can sit far below
-  I(X; Y) (the XOR case, THEORY-tmpgz4cf) or, if V cannot predict the
+  I(X; Y) (the XOR case, [THEORY-tmpgz4cf](THEORY-tmpgz4cf.md)) or, if V cannot predict the
   marginal of Y, above it.
 - **Not unbounded likelihoods.** Gaussian families on unbounded data
   violate |log f| ≤ B. Corollary 1.1 needs bounded inputs, outputs and
@@ -84,9 +84,9 @@ error is controlled in both directions by the one uniform deviation Φ.
 
 ## Connections
 
-- **QUESTION-111** asks which distinctions a bounded interpreter can
+- **[QUESTION-111](../questions.d/QUESTION-111.md)** asks which distinctions a bounded interpreter can
   recover. For a stated family, this says the answer can be measured from
   samples, with an error bar.
-- **NOTE-820 and THEORY-281.** Leakage estimated by V-information is
+- **[NOTE-820](../notes.d/NOTE-820.md) and [THEORY-281](THEORY-281.md).** Leakage estimated by V-information is
   leakage to that family. Xu et al.'s §6.4 shows features that hide an
   attribute from one family of discriminators leaking it to another.

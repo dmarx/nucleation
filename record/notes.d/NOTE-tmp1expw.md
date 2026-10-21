@@ -84,7 +84,7 @@ diversification that independent errors gave.
 - **Theorem 1.** Under Definitions 1–3, for every θ_H there is θ_A > θ_H
   at which using the algorithm is strictly dominant for both firms and
   welfare is lower than if both used humans. Re-derived in
-  THEORY-tmp3qyox.
+  [THEORY-tmp3qyox](../theory.d/THEORY-tmp3qyox.md).
 - **Theorem 2.** Gaussian or Laplacian RUMs with three candidates meet
   both conditions for every D. Appendix B gives three-candidate noise
   models violating each condition. Fig. 2: with 15 candidates and
@@ -140,11 +140,11 @@ The concern it formalizes is Citron and Pasquale's, by the agricultural
 analogy (Power and Follett 1987) and its security version (Birman and
 Schneider 2009). The ranking models are Thurstone's random utility models,
 Mallows (1957) and Plackett–Luce (Luce 1959). The paradox is Braess's
-(1968). Kleinberg's small-world paper, LIT-1103, is unrelated.
+(1968). Kleinberg's small-world paper, [LIT-1103](../literature.d/LIT-1103.md), is unrelated.
 
 ## Bearing on the record
 
-- **TERM-tmp5lqn0.** A25's "common legibility regimes and loss of
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** A25's "common legibility regimes and loss of
   organizational diversity" is exactly C2. When institutions share one
   rule class for reading candidates, each reads more accurately and all
   read the same errors. The cost falls on the institutions' joint
@@ -153,12 +153,12 @@ Mallows (1957) and Plackett–Luce (Luce 1959). The paradox is Braess's
   not be the party paying to become legible", here with the institutions
   paying too. The paper's harm is to firms' utility and welfare; the harm
   to particular applicants it names and sets aside.
-- **Scott's legibility (LIT-tmpb1r6m, unread)** and **lock-in
-  (LIT-tmp5l842, Arthur, unread).** This is a static, two-firm result with
+- **Scott's legibility ([LIT-tmpb1r6m](../literature.d/LIT-tmpb1r6m.md), unread)** and **lock-in
+  ([LIT-tmp5l842](../literature.d/LIT-tmp5l842.md), Arthur, unread).** This is a static, two-firm result with
   no adoption dynamics, so it is not lock-in. Each firm's adoption is a
   dominant strategy, not a coordination effect.
-- **The record's correlated-evidence condition** (CLAIM-342, through
-  CLAIM-tmpeftzb). Contexts that share a category's use are not
+- **The record's correlated-evidence condition** ([CLAIM-342](../claims.d/CLAIM-342.md), through
+  [CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md)). Contexts that share a category's use are not
   independent evidence. Here, rankings that share an algorithm are not
   independent screens, and the loss from treating them as if they were
   is measurable. The record's join.

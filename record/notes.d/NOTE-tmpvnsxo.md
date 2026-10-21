@@ -92,7 +92,7 @@ information without raising the Shannon information.
 - **§3.2, no theorem.** Computing on X can raise V-information:
   I_V(t(X) → Y) > I_V(X → Y) ≈ 0 for t a decryption. Argued from RSA and
   representation learning. The record's exact instance is in
-  THEORY-tmpgz4cf.
+  [THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md).
 - **§3.3, no theorem.** If h is one-way and V is polynomial-time
   predictors, I_V(X → h(X)) ≫ I_V(h(X) → X).
 - **Theorem 1.** For log-likelihoods in [−B, B] and δ ∈ (0, 0.5), with
@@ -127,9 +127,9 @@ information without raising the Shannon information.
 |---|---|---|---|
 | C1 | V-information generalizes Shannon information, R² and other notions of predictability | strong | Proposition 1, with proofs; (5) re-derived here |
 | C2 | Optional ignorance is what makes V-information non-negative and zero under independence, and it cannot be dropped | strong | Proposition 2; Appendix E's converse constructions |
-| C3 | Computation can create usable information, against the data-processing inequality | moderate as argued, strong as a fact | informal examples in §3.2; an exact instance is re-derived in THEORY-tmpgz4cf |
+| C3 | Computation can create usable information, against the data-processing inequality | moderate as argued, strong as a fact | informal examples in §3.2; an exact instance is re-derived in [THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md) |
 | C4 | V-information can be asymmetric, as with one-way functions | moderate | §3.3, argued from the definition of one-way functions, no theorem |
-| C5 | V-information can be estimated with PAC guarantees set by V's Rademacher complexity | strong | Theorem 1 and Lemmas 3–4, a standard symmetrization argument; checked in THEORY-tmp9m1g4 |
+| C5 | V-information can be estimated with PAC guarantees set by V's Rademacher complexity | strong | Theorem 1 and Lemmas 3–4, a standard symmetrization argument; checked in [THEORY-tmp9m1g4](../theory.d/THEORY-tmp9m1g4.md) |
 | C6 | Chow–Liu with V-information recovers trees better than Shannon estimators in high dimension | moderate | §6.1, synthetic, ten repeats; Theorem 2 bounds the objective, not the tree |
 | C7 | Fair representations trained against one discriminator family need not hide the attribute from another | moderate | §6.4 and Fig. 3b, three datasets, three families |
 | C8 | Representation learning "can be justified in the information theoretic context" by V-information | weak | an interpretation of C3 |
@@ -159,19 +159,19 @@ den Oord et al. 2018), NWJ (Nguyen et al. 2010) and MINE (Belghazi et al.
 
 ## Bearing on the record
 
-- **CLAIM-199.** The claim's "usable information relative to the rules it
+- **[CLAIM-199](../claims.d/CLAIM-199.md).** The claim's "usable information relative to the rules it
   can apply" is V-information under log loss, with V the receiver's rule
   class. Its XOR example (Z = X₁ ⊕ X₂, one-coordinate receiver) holds
   exactly in Xu et al.'s terms, and also for the linear predictive
   families the paper studies: linear logistic and linear-Gaussian V give
   I_V(X → Z) = 0 and I_V(X₁ ⊕ X₂ → Z) = log 2 (or R² · Var = 1/4), while
-  I(X; Z) = I(X₁ ⊕ X₂; Z) = log 2 (THEORY-tmpgz4cf). The claim's ceiling,
+  I(X; Z) = I(X₁ ⊕ X₂; Z) = log 2 ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). The claim's ceiling,
   stated for risk, holds as stated. Stated for V-information, it holds
   only when V's input-free predictions include the marginal of Z, as the
   one-coordinate receiver's do. Otherwise V-information can exceed
-  Shannon information (THEORY-tmpgz4cf's counterexample). The claim's "the
+  Shannon information ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)'s counterexample). The claim's "the
   literature on usable information is not held here" is now out of date.
-- **TERM-tmp5lqn0.** A22's score L_{o,𝒬,B}(T) is a negative V-entropy for
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** A22's score L_{o,𝒬,B}(T) is a negative V-entropy for
   log loss, with Π_{o,B} as V. A22's "legibility need not be monotone in
   informational refinement for bounded observers" is Xu et al.'s failure
   of the data-processing inequality. A22's caution that "the loss function
@@ -179,22 +179,22 @@ den Oord et al. 2018), NWJ (Nguyen et al. 2010) and MINE (Belghazi et al.
   a representation tuned to be illegible to one family V_i stays legible
   to another V_j. So what an observer cannot read depends on which observer
   you have in mind.
-- **CLAIM-225.** Its objection, that Blackwell's order measures an ideal
+- **[CLAIM-225](../claims.d/CLAIM-225.md).** Its objection, that Blackwell's order measures an ideal
   decision-maker and not a given receiver, is Xu et al.'s distinction
   between I_Ω and I_V. The paper does not mention Blackwell.
-- **CLAIM-081 and CLAIM-270.** "A message can become more legible while
+- **[CLAIM-081](../claims.d/CLAIM-081.md) and [CLAIM-270](../claims.d/CLAIM-270.md).** "A message can become more legible while
   becoming less informative about what originally happened": in V-terms,
   I_V(t(X) → Y) can rise while I(t(X); Y) falls. The paper does not
   construct such a case. Its examples keep Shannon information fixed.
-- **QUESTION-110.** V-information fixes two of A18's three parameters, a
+- **[QUESTION-110](../questions.d/QUESTION-110.md).** V-information fixes two of A18's three parameters, a
   class of procedures and a success criterion (log loss), and recovers
-  CLAIM-199's rule-class case. It has no cost of recovery, only a class,
-  so it does not answer the question as posed. CLAIM-304's computational
+  [CLAIM-199](../claims.d/CLAIM-199.md)'s rule-class case. It has no cost of recovery, only a class,
+  so it does not answer the question as posed. [CLAIM-304](../claims.d/CLAIM-304.md)'s computational
   case corresponds to V a class of efficient predictors, which §3.3
   gestures at without a theorem.
-- **QUESTION-111** gains a measurable quantity. Theorem 1 says when it can
+- **[QUESTION-111](../questions.d/QUESTION-111.md)** gains a measurable quantity. Theorem 1 says when it can
   be estimated from samples.
-- **NOTE-820 and THEORY-281** (concept erasure). Their remark that
+- **[NOTE-820](NOTE-820.md) and [THEORY-281](../theory.d/THEORY-281.md)** (concept erasure). Their remark that
   "empirical leakage is a lower bound" is §6.4's finding. Erasure certified
   against one family of probes is not erasure against another.
 
@@ -205,10 +205,10 @@ practice. It is flagged `anthology-candidate` on its LIT.
 
 - **The data-processing violation has no theorem.** §3.2 argues from RSA
   and from image features. The authors give no example worked out in
-  numbers. THEORY-tmpgz4cf supplies one.
+  numbers. [THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md) supplies one.
 - **No bound by Shannon information.** Nothing in the paper says
   I_V ≤ I. Because H_V(Y) can exceed H(Y), V-information can exceed
-  Shannon information (THEORY-tmpgz4cf). The paper neither claims the
+  Shannon information ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). The paper neither claims the
   bound nor warns against assuming it.
 - **Proposition 1.2.** The infimum over µ of E‖Y − µ‖ is the deviation
   about the geometric median, not about E[Y] as the proof's "MAD" is
@@ -226,10 +226,10 @@ practice. It is flagged `anthology-candidate` on its LIT.
 
 - Which predictive families keep V-information bounded by Shannon
   information? Containing the marginal of Y in the input-free predictions
-  is sufficient (THEORY-tmpgz4cf). Is it necessary?
+  is sufficient ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). Is it necessary?
 - Is there a garbling ordering for a fixed V, analogous to Blackwell's,
   that says when one representation is more V-informative than another
-  for every Y? Restricting rules loses Blackwell's theorem (THEORY-176), and
+  for every Y? Restricting rules loses Blackwell's theorem ([THEORY-176](../theory.d/THEORY-176.md)), and
   the paper offers no replacement.
 - Can a family of V's indexed by a computational budget recover
-  CLAIM-304's pseudorandom construction as a theorem?
+  [CLAIM-304](../claims.d/CLAIM-304.md)'s pseudorandom construction as a theorem?

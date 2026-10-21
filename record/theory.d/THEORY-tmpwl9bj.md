@@ -17,10 +17,10 @@ date: '2026-10-21'
 source:
 - LIT-tmpwbhro
 summary: >-
-  Perdomo, Zrnic, Mendler-Dünner and Hardt (2020), LIT-tmpwbhro, read in
-  NOTE-tmpmuo87. Retraining under performativity is a fixed-point
+  Perdomo, Zrnic, Mendler-Dünner and Hardt (2020), [LIT-tmpwbhro](../literature.d/LIT-tmpwbhro.md), read in
+  [NOTE-tmpmuo87](../notes.d/NOTE-tmpmuo87.md). Retraining under performativity is a fixed-point
   iteration, and these are the conditions for it to settle. Its fixed
-  point is self-consistent, not optimal (THEORY-tmp9lnfi), and outside
+  point is self-consistent, not optimal ([THEORY-tmp9lnfi](THEORY-tmp9lnfi.md)), and outside
   the conditions there may be several or none.
 ---
 <!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; filed from the same exchange, the claim this account bears on, cited as open -->
@@ -30,7 +30,7 @@ summary: >-
 ## Source
 
 Perdomo, Zrnic, Mendler-Dünner and Hardt (2020), ICML 2020,
-LIT-tmpwbhro, read in full in NOTE-tmpmuo87 from arXiv v4: Theorem 3.5
+[LIT-tmpwbhro](../literature.d/LIT-tmpwbhro.md), read in full in [NOTE-tmpmuo87](../notes.d/NOTE-tmpmuo87.md) from arXiv v4: Theorem 3.5
 (proof in Appendix D.1) and Proposition 3.6 (§3.2 and Appendix D.2). The
 re-derivation below follows the paper's proof.
 
@@ -75,7 +75,7 @@ could move the gradient arbitrarily, and (b) shows that happening.
 
 - **Not that the stable point is good.** It is optimal only for the
   distribution it induces. Its distance from the performative optimum is
-  THEORY-tmp9lnfi, and the two can differ by a factor of two or more
+  [THEORY-tmp9lnfi](THEORY-tmp9lnfi.md), and the two can differ by a factor of two or more
   (Example 2.2).
 - **Not that the stable point says what other policies would produce.**
   Retraining samples D(θ_t) only at the visited θ_t.
@@ -89,11 +89,11 @@ could move the gradient arbitrarily, and (b) shows that happening.
 
 ## Connections
 
-- **CLAIM-tmpeftzb.** A26 §2's two-fixed-point toy is outside these
+- **[CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md).** A26 §2's two-fixed-point toy is outside these
   conditions, which is why it can have two. A fixed point "consistent with
   the behavioral evidence generated under that classification" is a
   performatively stable point.
-- **CLAIM-tmpshzxc and CLAIM-tmppi0xf** concern what a description keeps
+- **[CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md) and [CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md)** concern what a description keeps
   under dynamics and under intervention. This is the learning-side case:
   a model fitted on the data its own use produces converges to
   self-consistency, and the conditions above are when it does.

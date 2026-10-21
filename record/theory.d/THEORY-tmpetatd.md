@@ -21,7 +21,7 @@ source:
 - LIT-tmp363mx
 - LIT-1021
 summary: >-
-  Bergemann and Morris (2019), LIT-tmp363mx, read in NOTE-tmp3sq32, from
+  Bergemann and Morris (2019), [LIT-tmp363mx](../literature.d/LIT-tmp363mx.md), read in [NOTE-tmp3sq32](../notes.d/NOTE-tmp3sq32.md), from
   the accepted manuscript. What control over information alone can
   achieve, among Bayesian players with a common prior, is a set computable
   by linear programming, whoever the designer is, and read
@@ -37,10 +37,10 @@ summary: >-
 ## Source
 
 Bergemann and Morris (2019), *Journal of Economic Literature* 57(1),
-LIT-tmp363mx, read in NOTE-tmp3sq32 from Cowles Discussion Paper 2075R3:
+[LIT-tmp363mx](../literature.d/LIT-tmp363mx.md), read in [NOTE-tmp3sq32](../notes.d/NOTE-tmp3sq32.md) from Cowles Discussion Paper 2075R3:
 Definition 1, Proposition 1 (whose proof the survey cites from Bergemann
 and Morris 2016a) and §§3.1–3.3. The example is Kamenica and Gentzkow's
-(2011), LIT-1021. The re-derivations are the record's.
+(2011), [LIT-1021](../literature.d/LIT-1021.md). The re-derivations are the record's.
 
 ## What was actually shown
 
@@ -109,10 +109,10 @@ shows it cannot, as long as the designer may pick the equilibrium.
 
 ## Connections
 
-- **THEORY-404** is the one-receiver, no-prior case: concavification and
+- **[THEORY-404](THEORY-404.md)** is the one-receiver, no-prior case: concavification and
   BCE give the same optimum in the example.
-- **CLAIM-tmpjo2zr.** Its evidential route has exactly this reach for
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** Its evidential route has exactly this reach for
   Bayesian procedures. Its evaluative route, changing how evidence is
   weighed, changes u_i, which information design holds fixed.
-- **THEORY-tmpmo8m9** orders information structures by the size of this
+- **[THEORY-tmpmo8m9](THEORY-tmpmo8m9.md)** orders information structures by the size of this
   set.

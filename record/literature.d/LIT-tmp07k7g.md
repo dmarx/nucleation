@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpvnsxo) in full, from arXiv:2002.10689v1, the ICLR 2020 camera-ready; worth reading as the usable-information literature the record lacked: it defines predictive V-information, the information a predictor restricted to a family V can extract, shows that computation can create it (so the data-processing inequality fails for it), and bounds its estimation error by the Rademacher complexity of V (THEORY-tmpgz4cf, THEORY-tmp9m1g4). Read it knowing that the failure of the data-processing inequality is shown by informal examples (decryption, feature learning), not by a theorem, that V-information is not bounded by Shannon information unless V's input-free predictions include the true marginal (the record's counterexample, THEORY-tmpgz4cf), that Proposition 1.2's "mean absolute deviation" is the deviation about the geometric median, and that the experiments are small.
+  read 2026-10-21 ([NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)) in full, from arXiv:2002.10689v1, the ICLR 2020 camera-ready; worth reading as the usable-information literature the record lacked: it defines predictive V-information, the information a predictor restricted to a family V can extract, shows that computation can create it (so the data-processing inequality fails for it), and bounds its estimation error by the Rademacher complexity of V ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md), [THEORY-tmp9m1g4](../theory.d/THEORY-tmp9m1g4.md)). Read it knowing that the failure of the data-processing inequality is shown by informal examples (decryption, feature learning), not by a theorem, that V-information is not bounded by Shannon information unless V's input-free predictions include the true marginal (the record's counterexample, [THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)), that Proposition 1.2's "mean absolute deviation" is the deviation about the geometric median, and that the experiments are small.
 title: 'A Theory of Usable Information Under Computational Constraints'
 version: 2
 history:
@@ -39,9 +39,9 @@ summary: >-
 
 Xu, Y., Zhao, S., Song, J., Stewart, R. & Ermon, S. (2020). A Theory of Usable Information Under Computational Constraints. *International Conference on Learning Representations* (ICLR 2020). arXiv:2002.10689 (25 February 2020).
 
-Read 2026-10-21 in full, in NOTE-tmpvnsxo. The summary was checked against
+Read 2026-10-21 in full, in [NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md). The summary was checked against
 the reading.
 
 ## Why this is here
 
-The owner asked for it in the exchange of 2026-10-20/21: "get started reading the proposed works. also this one: https://arxiv.org/abs/2002.10689". It is the usable-information literature that CLAIM-199 says the record does not hold ("the literature on usable information is not held here"), and TERM-tmp5lqn0 repeats the gap. Its V-information is CLAIM-199's "best risk over the rules in a class the receiver can apply" under log loss, with the risk turned into an information. It bears on CLAIM-225, CLAIM-081 and CLAIM-270, on QUESTION-110 and QUESTION-111, and on CLAIM-304's computational case.
+The owner asked for it in the exchange of 2026-10-20/21: "get started reading the proposed works. also this one: https://arxiv.org/abs/2002.10689". It is the usable-information literature that [CLAIM-199](../claims.d/CLAIM-199.md) says the record does not hold ("the literature on usable information is not held here"), and [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md) repeats the gap. Its V-information is [CLAIM-199](../claims.d/CLAIM-199.md)'s "best risk over the rules in a class the receiver can apply" under log loss, with the risk turned into an information. It bears on [CLAIM-225](../claims.d/CLAIM-225.md), [CLAIM-081](../claims.d/CLAIM-081.md) and [CLAIM-270](../claims.d/CLAIM-270.md), on [QUESTION-110](../questions.d/QUESTION-110.md) and [QUESTION-111](../questions.d/QUESTION-111.md), and on [CLAIM-304](../claims.d/CLAIM-304.md)'s computational case.

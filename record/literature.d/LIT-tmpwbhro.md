@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpmuo87) in full, from arXiv:2002.06673v4; worth reading for the split between performative stability (optimal for the distribution one's own deployment induces, the fixed point of retraining) and performative optimality, for the exact conditions under which retraining converges to a unique stable point (smooth, strongly convex loss and ε < γ/β, each shown necessary; THEORY-tmpwl9bj), and for the bound 2L_zε/γ between stable points and optima (THEORY-tmp9lnfi). Read it knowing that its conditions hold in its own simulation only at the smallest ε, that the distribution map depends on the current model alone, and that it says nothing about how to reach the optimum.
+  read 2026-10-21 ([NOTE-tmpmuo87](../notes.d/NOTE-tmpmuo87.md)) in full, from arXiv:2002.06673v4; worth reading for the split between performative stability (optimal for the distribution one's own deployment induces, the fixed point of retraining) and performative optimality, for the exact conditions under which retraining converges to a unique stable point (smooth, strongly convex loss and ε < γ/β, each shown necessary; [THEORY-tmpwl9bj](../theory.d/THEORY-tmpwl9bj.md)), and for the bound 2L_zε/γ between stable points and optima ([THEORY-tmp9lnfi](../theory.d/THEORY-tmp9lnfi.md)). Read it knowing that its conditions hold in its own simulation only at the smallest ε, that the distribution map depends on the current model alone, and that it says nothing about how to reach the optimum.
 title: 'Performative Prediction'
 version: 2
 history:
@@ -37,7 +37,7 @@ summary: >-
 
 Perdomo, J. C., Zrnic, T., Mendler-Dünner, C. & Hardt, M. (2020). Performative Prediction. *Proceedings of the 37th International Conference on Machine Learning*, PMLR 119: 7599–7609. Preprint: arXiv:2002.06673 (16 February 2020).
 
-Read 2026-10-21 in full, in NOTE-tmpmuo87. The summary was checked against
+Read 2026-10-21 in full, in [NOTE-tmpmuo87](../notes.d/NOTE-tmpmuo87.md). The summary was checked against
 the reading.
 
 ## Why this is here
