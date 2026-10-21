@@ -4,7 +4,17 @@ status: Open
 formerly:
 - QUESTION-tmplp4fu
 title: 'When does independently generalizable, intervention-relevant relational structure warrant treating a communicative category as a real effective kind rather than an arbitrary taxonomy?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A27 offered five candidate criteria
+    for an operationally warranted effective kind; four are A191's, the
+    fifth (independence from self-confirming classification) is filed as
+    CLAIM-tmpeftzb, and A27's conclusion is not an answer on this question's
+    terms. The question is unchanged.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -28,6 +38,7 @@ answered_by:
 <!-- inactive-ok-file: LIT-301 — Unavailable; unread, named as the text that would settle THEORY-036 -->
 <!-- inactive-ok-file: CLAIM-078 — Proposed; cited because A191's four criteria restate it -->
 <!-- inactive-ok-file: THEORY-273 — Proposed; the necessary-not-sufficient reading named in the note of 2026-10-14, not as settled -->
+<!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # QUESTION-028: When does independently generalizable, intervention-relevant relational structure warrant treating a communicative category as a real effective kind rather than an arbitrary taxonomy?
 
@@ -133,3 +144,18 @@ property cluster, which would make the qualifiers sufficient if stability
 is judged before the data. The other is Hacking's test for constructed
 categories, that real instances are "found through empirical
 investigation". Neither is assessed here as an answer.
+
+## Note of 2026-10-21: re-raised, with one criterion new
+
+A27 of the exchange of 2026-10-20, asked at U27 whether the record is
+better placed on this question, offered five "candidate criteria" for an
+"operationally warranted effective kind". Four are A191's (above). The
+fifth is "independence from self-confirming classification effects", or a
+causal account of them, which is NOTE-769's point about Hacking's
+interactive kinds: a category used by speakers can change what they do.
+A27 called the result "close to a defensible conditional answer". It is
+not one on this question's terms. A27 declines to say which criteria are
+necessary ("not five individually necessary conditions"), and its
+conclusion, a domain-relative kind and not a natural kind, is THEORY-036
+and THEORY-273, which it did not cite. The fifth criterion is filed as
+CLAIM-tmpeftzb, which bears on this question without settling it.

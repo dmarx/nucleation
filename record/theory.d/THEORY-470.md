@@ -16,7 +16,15 @@ promote_when: >-
   changes the course. Cases of platforms that decayed after a constraint
   weakened cannot settle it; the account was told from them.
 title: "Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A19's "release of existing
+    asymmetry" and A20's first configuration are this reading's mechanism,
+    stated generally and uncited. The reading is unchanged.
 tags:
 - society-and-governance
 date: '2026-10-16'
@@ -106,3 +114,13 @@ nothing in it could show that.
 - **[THEORY-480](THEORY-480.md)** is the record's primary document on one of the
   constraints in action: the remedy in the case the talk counts as an
   antitrust win chose data sharing over break-up.
+
+## Note of 2026-10-21: the mechanism stated generally
+
+A19's "release of existing asymmetry" in the exchange of 2026-10-20, and
+A20's first configuration ("A regulator constrains concentration of
+private authority | Removing that constraint may permit stronger private
+power asymmetries"), are this reading's mechanism, stated generally.
+Neither reply cited it. CLAIM-tmpptl3y's table of A19's four mechanisms
+names this reading for the third and demonstrates only the first. The
+reading is Proposed and rests on a talk.

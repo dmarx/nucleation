@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp679hm
 title: 'No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution''s performance can merge states its members'' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified by the description that preserves it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A9 cited this claim correctly as the
+    last of four missing warrants, and A25 re-derived its second clause for
+    legibility (who participates in fixing the query family, who pays to
+    become legible). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +55,8 @@ supports:
 - CLAIM-tmpcrdhj
 - CLAIM-tmpjo2zr
 ---
+<!-- inactive-ok-file: LIT-tmpmdlm4 — Deferred; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-348: No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified by the description that preserves it
 
@@ -109,3 +120,25 @@ target-free criterion of the kind the defeat condition names.
 - **That the logical point is new.** It is [CLAIM-152](CLAIM-152.md) and [CLAIM-060](CLAIM-060.md) together.
   What the exchange added is the coarse-graining form and the clause against
   circularity.
+
+## Note of 2026-10-21: two missing warrants and who pays for legibility
+
+**Agency is not authority.** A6 of the exchange of 2026-10-20 read CASE-110
+without this claim. A9 §9–§10 cited it correctly as Proposed, and made it
+the last of four "missing warrants": that a system is an agent does not
+make its perspective normatively authoritative. That is this claim with
+CLAIM-075. The same step closes A8–A9's ladder (QUESTION-093, note of
+2026-10-21).
+
+**Who pays for legibility.** A25 §3, from Lan (2026, LIT-tmpmdlm4, not
+read): "**The party benefiting from increased legibility need not be the
+party paying to become legible.**" A standardized category "might make a
+person's circumstances easier for a public agency to process while
+obscuring important details of those circumstances". That is this claim's
+institution whose adequate description merges what a member's claims must
+distinguish, with a cost on the member's side as well. A25: "That isn't
+adequately represented by one legibility score." A24 §5's standpoint
+question, "*Who participates in determining 𝒬*", is this claim's second
+clause: the target cannot be justified by the description that preserves
+it. Neither reply cited the claim. The term the exchange used is filed as
+TERM-tmp5lqn0.

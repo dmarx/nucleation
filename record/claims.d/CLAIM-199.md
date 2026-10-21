@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp0jq5k
 title: 'Blackwell''s order bounds what a rendering makes possible for any receiver, and a given receiver''s access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A22 took this claim's XOR example as
+    the formal core of legibility (TERM-tmp5lqn0) and called the claim an
+    Active result, which it is not. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -45,6 +53,7 @@ illustrated_by:
 <!-- inactive-ok-file: CLAIM-050 CLAIM-087 — Proposed; the Blackwell thesis and the improvement claim this reconciles, cited as open -->
 <!-- inactive-ok-file: THEORY-156 — Proposed; cited as the readings of Blackwell's order and of restricted decoders, not as settled -->
 <!-- inactive-ok-file: CLAIM-115 CLAIM-076 — Proposed; the manuscript's thesis and the blind-captioner design, cited as open -->
+<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-199: Blackwell's order bounds what a rendering makes possible for any receiver, and a given receiver's access is usable information relative to the rules it can apply, which a garbling can raise for that receiver but never above what the source makes possible
 
@@ -188,3 +197,13 @@ nothing. Whether habits and principles are formed that way is not shown.
 A21 adds the cost: a principle that ignores detail "may become harmful when
 it suppresses a newly important distinction", which is [CLAIM-350](CLAIM-350.md)'s
 merged fibre seen from the agent's side. The status is unchanged.
+
+## Note of 2026-10-21: a name for usable information
+
+A22 of the exchange of 2026-10-20 took this claim's XOR example as the
+formal core of legibility, and stated its result as "legibility need not
+be monotone in informational refinement for bounded observers". It called
+the claim a "result" among "the existing Active mathematical results". The
+claim is Proposed and interpretive, though its example is checkable and
+was rechecked. A second appearance, and a name for what the claim calls
+usable information. The name is filed as TERM-tmp5lqn0.

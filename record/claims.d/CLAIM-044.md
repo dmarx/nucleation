@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpc7m5v
 title: 'Ambiguity and contextuality are different phenomena: an ambiguous utterance admits several compatible global assignments, a contextual one admits none'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A10 tabulated three ways local
+    descriptions fail to yield one global account; two are this claim's
+    ambiguity and contextuality, the third (THEORY-820's non-compositional
+    closure) is a different kind. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -85,3 +94,19 @@ distributions ([TERM-042](../terms.d/TERM-042.md)). Assignments of the event she
 assignments. A contextual one admits none in the support (strong
 contextuality), or its compatible distributions have no global joint
 ([CASE-037](../cases.d/CASE-037.md)).
+
+## Note of 2026-10-21: a third way not to have one global account
+
+A10 of the exchange of 2026-10-20 (§7) tabulated three ways local
+descriptions can fail to yield one global account. The first is
+"Noncompositional closure: a joint representation exists but loses a
+property possessed by its components" (THEORY-820). The second is
+"Observational nonidentifiability: multiple underlying structures share
+the same observable profile". The third is a "causal-contextuality
+obstruction", in which local causal assignments do not glue (THEORY-171).
+The second and third are this claim's ambiguity and contextuality:
+several compatible global assignments, or none. CLAIM-144 adds the case
+of coordinates that differ without any failure to glue. The first is a
+third kind: the global description exists, and a property fails to
+survive the join (CLAIM-219, note of 2026-10-21; CLAIM-tmpshzxc). It
+recurs in A12 (Batch 5) and A14 (PR 6). Recorded here, not filed.

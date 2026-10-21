@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A10 re-derived this claim's
+    persistences without citing it, and A13–A14 proposed a TERM
+    "organizational reconstitution" that would merge what this claim
+    separates; filed instead as TERM-tmpzdpdt. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -44,6 +53,7 @@ summary: >-
 illustrated_by:
 - CASE-116
 ---
+<!-- inactive-ok-file: TERM-tmpzdpdt THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: LIT-1124 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # CLAIM-329: A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it
@@ -104,3 +114,16 @@ kind*" was A6's first question for it.
   each continuous with the original in a different respect.
 - **That transmission suffices for being a self, an agent or one
   system.** It is a persistence condition only, as [CLAIM-161](CLAIM-161.md) is.
+
+## Note of 2026-10-21: the persistences re-derived, and reconstitution
+
+A10 of the exchange of 2026-10-20 (§4, §10) re-derived this claim's three
+persistences as "structural", "generative", "viability", "interventional"
+and "historical" continuity, without citing it. A13 and A14 then proposed
+a TERM, "organizational reconstitution", for processes that "restore,
+reproduce, or transform" an organization's relations. In this record
+reconstitution is what this claim says is not continuation: "an
+organization of the same kind that arises independently" (QUESTION-118,
+THEORY-418, CASE-105). The proposed TERM would merge the two. The
+persistences are filed instead as a disambiguation TERM under another
+name, TERM-tmpzdpdt.

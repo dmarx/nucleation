@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmprrjrd
 title: 'A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A9 proposed that a living or
+    agentive boundary is marked by its regulation of exchange, which is
+    THEORY-071's interactional asymmetry; neither a coupling nor a closure
+    criterion tells a produced boundary from an imposed one. The claim is
+    unchanged.
 role: counter
 warrant: interpretive
 tags:
@@ -33,6 +43,7 @@ summary: >-
 complements:
 - CLAIM-367
 ---
+<!-- inactive-ok-file: TERM-tmpfezzd TERM-tmpnjo1t THEORY-071 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-194: A gap or coupling criterion cannot tell a boundary a system produces from one imposed on it: a membrane the cell makes and a beam joining two pendulums pass alike, so the block test cannot by itself supply the individuality minimal agency needs
 
@@ -88,3 +99,17 @@ systematically fail the gap test while produced ones pass it, so the
 criterion tracks production after all. Or a reply that [CLAIM-174](CLAIM-174.md)'s later
 conditions (adaptation of the policy, governance over regimes) already
 exclude externally maintained blocks, so the first condition need not.
+
+## Note of 2026-10-21: regulation of exchange
+
+A9 §3 of the exchange of 2026-10-20 separated predictive closure from
+organizational closure and proposed that "A living or agentive boundary
+may be distinguished by its regulation of exchange, rather than by the
+absence of exchange". That is THEORY-071's interactional asymmetry, which
+A9 does not cite. A8 §1 adds the informational side of this claim's point:
+since agents are coupled to their environments, exact closure "cannot
+straightforwardly serve as a necessary condition for agency", and since
+noise is closed, it is not sufficient either. So neither a coupling
+criterion (this claim) nor a closure criterion (THEORY-820) tells a
+produced boundary from an imposed one. The two closures are separated in
+TERM-tmpfezzd and TERM-tmpnjo1t.

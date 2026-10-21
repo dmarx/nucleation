@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CLAIM-tmpfqsca
 title: 'Stochastic information-bottleneck optima at two budgets need not be nested: for X uniform on four states and binary Y with P(Y=1|x) = (0, 0, 1/8, 3/8), the unique optima at β = 8 and β = 12 admit no Markov chain X → T₂ → T₁, so raising the budget reorganizes the optimum even with noisy encoders'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A2 and A5 proposed a paper on this
+    result and CLAIM-387, keeping the numerical certificate and dropping
+    three of its limits. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -89,3 +97,13 @@ which distinctions the representation draws, not only how many.
   failure is possible is three effective states with binary Y. The
   reader's uncertified scan over β from 5 to 60 found failures mostly at
   nearby budgets, and nesting for far-apart pairs.
+
+## Note of 2026-10-21: proposed as a paper with three of its limits dropped
+
+A2 and A5 of the exchange of 2026-10-20 proposed a paper on this result
+and CLAIM-387 ("More Information, Different Categories") as "perhaps the
+cleanest paper-sized result in the current record". They kept its
+numerical certificate and dropped three of its limits: the cost of forcing
+nesting is 0.49% of the budget, the reader's scan found nesting for
+far-apart budgets, and nesting is proved when Y = f(X) or X and Y are both
+binary (THEORY-757).

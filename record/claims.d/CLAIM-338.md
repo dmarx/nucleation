@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpj10k0
 title: 'The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston''s self-confirming sampling the model''s authority-to-interpretation arrow and his agent a coupled loop run without independent scoring'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A22's "which facts become legible
+    enough to count as evidence" is this claim's authority arrow stated for
+    institutions; whether it is a new channel is QUESTION-tmp4147z. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,6 +55,7 @@ summary: >-
   is [CLAIM-337](CLAIM-337.md)'s move reversed, and it holds only if the agent's own
   store can surprise it as the world can.
 ---
+<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-338: The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston's self-confirming sampling the model's authority-to-interpretation arrow and his agent a coupled loop run without independent scoring
 
@@ -117,3 +127,13 @@ them wrong.
   description is primary.
 - Friston et al. do not use the word authority, and the mapping is not
   theirs.
+
+## Note of 2026-10-21: which facts become legible as evidence
+
+A22 of the exchange of 2026-10-20: "Authority can affect not merely how
+evidence is interpreted, but which facts become legible enough to count as
+evidence at all". That is this claim's authority arrow (influence decides
+what the next judgement observes), stated for institutions, with the
+categories and reporting requirements an institution keeps in place of
+retrieval. Whether that is a new channel or CLAIM-340's κ′ is
+QUESTION-tmp4147z. The term is filed as TERM-tmp5lqn0.

@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmpmonrv
 title: 'In a stable linear Gaussian VAR(1), exact dynamical independence of a linear coarse-graining implies that its Mori–Zwanzig memory vanishes, but not conversely: memory needs coupling out of the coarse variable and back, and dependence needs only the way back, so a coarse variable can be Markov in its own law with zero memory and still be dynamically dependent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A2–A5 made this counterexample the
+    centre of a proposed paper and A3 misread it as satisfying every
+    condition but independence; the same law as an autonomous AR(1) (see
+    CLAIM-397), and the VAR(p ≥ 2) remark under "What it does not say"
+    checked on an AR(2). The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -87,3 +97,29 @@ reading of Lin and Lu, [NOTE-1029](../notes.d/NOTE-1029.md)). Memory is a proper
 dependence is a property of its joint law with the rest of the system. So
 no memory measure can detect dependence, which is the structural reason
 the converse fails.
+
+## Note of 2026-10-21: a paper's centre, one misreading, and the AR(2) check
+
+The exchange of 2026-10-20 (A2–A5) made this counterexample the centre of
+a proposed paper, twice in A2 (as "Markov without independence" and as
+"zero memory with transfer entropy", one construction). A3 used it as a
+witness that every condition but independence holds. It is not: Y's own
+past predicts Y with residual variance 0.75 against 0.59 from the full
+past, so predictive sufficiency holds only for prediction from Y itself.
+
+**The same law, different dependence.** A5 and A7 used it as a
+non-identifiability result. Y's autocovariance is 0.5ᵏ, so Y has the law
+of an autonomous AR(1) with φ = 0.5 and innovation variance 0.75, whose
+transfer entropy is 0. So no functional of Y's law, memory measure or
+otherwise, decides dynamical independence. A7: "This is not a sample-size
+limitation." Checked on 2026-10-21; the general form is the note of the
+same date on CLAIM-397.
+
+**Independent with memory.** The report under "What it does not say",
+that in VAR(p ≥ 2) an exactly independent variable can carry memory, was
+checked on 2026-10-21 in the simplest case. An autonomous AR(2),
+Y_t = 0.5Y_{t−1} + 0.3Y_{t−2} + ε, has Mori memory c₁ = 0.147 and
+c₂ = −0.0315, non-zero, with autocovariance Hankel rank 2 and memory rank
+1, as CLAIM-397 predicts. So A4's "impossible" cell (independent with
+memory) is impossible only in VAR(1). QUESTION-tmp1nqby carries both
+witnesses.

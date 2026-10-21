@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpa1kmr
 title: 'A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A12 and A13 proposed TERMs for
+    identifiability relative to an observational regime and for
+    target-preserving coarse-graining; both are this claim's condition, so
+    no TERM is filed. The claim is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -33,6 +42,7 @@ supports:
 - CLAIM-348
 - CLAIM-tmppi0xf
 ---
+<!-- inactive-ok-file: CLAIM-127 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-350: A coarse-graining preserves a deterministic judgment exactly when the judgment is constant on its fibres: the judgment then factors through the coarse description, uniquely on its image, and otherwise two states the judgment tells apart have been merged
 
@@ -115,3 +125,21 @@ needs its own statement:
   tell its merged states apart (A22's Construction B; [CLAIM-127](CLAIM-127.md)).
 - **Anything about bounded judges.** A receiver that cannot compute j can do
   better with a different description ([CLAIM-199](CLAIM-199.md)).
+
+## Note of 2026-10-21: two proposed TERMs that are this claim's condition
+
+A12 of the exchange of 2026-10-20 proposed a TERM for "identifiability
+relative to an observational regime" with the criterion
+π(s₁) = π(s₂) ⟹ V(s₁) = V(s₂). A13 proposed another for
+"target-preserving coarse-graining", J = j∘T iff T(x) = T(x′) ⇒
+J(x) = J(x′). Both are this claim's condition, with the coarse-graining
+read as an observation map in the first. No TERM is filed. This claim's
+title is the definition, and its "Equivalently ... refines the partition
+into J's level sets" gives the partition form.
+
+The same exchange gave this claim's "What it does not say" (Construction
+B, CLAIM-127) its first parameterized form: a closed coarse-graining that
+loses an intervention response, filed as CLAIM-tmppi0xf with
+CASE-tmpdc0tl. The note of 2026-10-21 on CLAIM-397 uses this claim's
+condition to widen a non-identifiability result to every functional of a
+law.

@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CLAIM-tmp511ss
 title: 'For a scalar stationary process with autocovariance C, the Mori–Zwanzig memory kernels for the projection onto the current value are fixed by C alone, through C(m+1) = Σ_{k≤m} c_k C(m−k); the memory vanishes iff C is geometric, and when C has finite Hankel rank d the memory has Hankel rank exactly d − 1'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A5 restated this claim's "What it
+    does not say" as its Proposition A without noticing it; the widening
+    from memory measures to any functional of Y's law is shown by one
+    explicit pair, CLAIM-389's Y against an autonomous AR(1). The claim is
+    unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -75,3 +85,30 @@ to 2 × 10⁻¹⁶, with d = 4 and memory rank 3; seven cases in all, including
   and a different denominator in the VAR(1) case; that is in
   [NOTE-1029](../notes.d/NOTE-1029.md), not here.
 - **Nothing about nonlinear functionals.** Second order only.
+
+## Note of 2026-10-21: the widening to any functional of the law
+
+A5 of the exchange of 2026-10-20 restated this claim's "What it does not
+say" as "Proposition A": "No method operating exclusively on the marginal
+law of the observed process can, in general, identify its dynamical
+independence from omitted variables." It cited this claim without noticing
+that it already says so for memory. A4 had put it as "whether external
+influence can be detected in the reduced process's own temporal
+structure", and A7 §III made it a proposition: "This is not a sample-size
+limitation. It survives even with perfect knowledge of the observable
+distribution."
+
+The widening, from memory measures to any functional of Y's law, is shown
+by one pair, checked on 2026-10-21. CLAIM-389's Y has autocovariance 0.5ᵗ
+and unit variance. A stationary Gaussian process is fixed by its mean and
+autocovariance, so Y has the law of the autonomous AR(1)
+Y′_t = 0.5 Y′_{t−1} + η_t with Var η = 0.75. Yet T(X → Y) =
+½ ln(0.75/0.59) = 0.120 nats per step, while Y′, taken as its own whole
+system, receives nothing. By CLAIM-350, a property decidable from 𝓛(Y)
+must be constant on the models that share that law, and dynamical
+independence is not. Dependence can still be found from the joint law of
+the whole system, and nothing here is about interventions.
+
+The pair was proposed as a claim of its own and not filed; it is recorded
+here and on CLAIM-389. QUESTION-tmp1nqby's leave-one-out uses it as the
+witness for memory without independence.

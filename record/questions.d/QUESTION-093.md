@@ -4,7 +4,17 @@ status: Open
 formerly:
 - QUESTION-tmpuz3py
 title: 'Which of predictive autonomy, interventional autonomy, organizational closure and self-individuation must a coalition of processes have before it is a higher-level agent and not a convenient aggregate, and can it have the first without the others?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: the owner's leave-one-out
+    (QUESTION-tmp1nqby) asks this question's first-without-the-others
+    systematically, and A8–A9 restated the ladder with a fifth, normative
+    step; the first step's failure is now shown twice (THEORY-820,
+    CLAIM-tmpshzxc). The question is unchanged.
 tags:
 - individuation
 - agency
@@ -23,6 +33,7 @@ answered_by:
 refined_by:
 - QUESTION-204
 ---
+<!-- inactive-ok-file: CLAIM-174 CLAIM-348 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-170 CLAIM-194 QUESTION-009 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -68,3 +79,21 @@ The list above calls [LIT-1038](../literature.d/LIT-1038.md) unread. It was read
 here as an interventional criterion met with no closure and no
 self-individuation. [QUESTION-115](QUESTION-115.md) asks the parallel question for
 individuation rather than agency.
+
+## Note of 2026-10-21: the leave-one-out, and the ladder again
+
+**The leave-one-out.** The owner's leave-one-out design of 2026-10-20
+(U3, filed as QUESTION-tmp1nqby) asks this question's "can it have the
+first without the others?" systematically, of five conditions on an
+effective description. The exchange did not cite this question.
+
+**The ladder again.** A8 §11 and A9 §1 and §10 of the exchange of
+2026-10-20 restated this question as "Distinguishable pattern ⇏
+Autonomous dynamics ⇏ Organized individual ⇏ Agent", with four tests
+(predictive, dynamical, interventional, organizational). They added a
+fifth step: "A system is an agent, therefore its perspective is
+normatively authoritative", which is CLAIM-075 and CLAIM-348. Neither
+reply cites this question, CLAIM-174 or THEORY-071, which hold the same
+structure. What is new is that the first step's failure is now
+demonstrated twice: noise is closed, and closure does not compose
+(THEORY-820, CLAIM-tmpshzxc).

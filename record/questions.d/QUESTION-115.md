@@ -4,12 +4,19 @@ status: Open
 formerly:
 - QUESTION-tmp1bt6j
 title: 'Can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree, which of persistence, integration and causal level does each track?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added, from the reading of Rosas et al. 2020 (NOTE-987, THEORY-764).
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: the owner's leave-one-out
+    (QUESTION-tmp1nqby) asks of five conditions on an effective description
+    what this question asks of each criterion. The question is unchanged.
 tags:
 - individuation
 - information-theory
@@ -32,6 +39,7 @@ answered_by:
 - THEORY-424
 - THEORY-764
 ---
+<!-- inactive-ok-file: CLAIM-tmpcrdhj — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 <!-- inactive-ok-file: CLAIM-331 LIT-1137 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-115: Can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree, which of persistence, integration and causal level does each track?
@@ -132,3 +140,15 @@ part of this question for one pair of criteria.
 - **Effective information asks something else again.** Ψ rewards closure
   and penalizes redundancy among the parts. Effective information is
   measured under imposed interventions ([THEORY-222](../theory.d/THEORY-222.md)).
+
+## Note of 2026-10-21: the leave-one-out over the criteria
+
+The owner's leave-one-out design of 2026-10-20 (U3, filed as
+QUESTION-tmp1nqby) asks systematically, of five conditions on an
+effective description (predictive sufficiency, dynamical independence,
+memory closure, approximation fidelity, feasible recoverability), whether
+each can hold without the others. That is this question's "what each
+criterion tracks", asked as a table. The exchange did not cite this
+question. CLAIM-tmpcrdhj's answer to the design is that the conditions are
+not of one logical kind, so the table's cells are not all of one sort
+either.

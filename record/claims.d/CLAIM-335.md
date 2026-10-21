@@ -4,12 +4,20 @@ status: Active
 formerly:
 - CLAIM-tmpu9ivq
 title: 'Transfer entropy measures directed predictive improvement, not information flow: as a conditional mutual information it is the source''s unique information about the target''s next value plus its synergy with the target''s past, so it can credit a source with a bit the source carries only jointly and read zero from sources that jointly fix the target, and conditioning on more series does not remove the synergy'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-17'
   note: >-
     The robustness sentence extends to Ince's I_ccs (NOTE-968): both examples have the same values under a fourth measure. The claim is unchanged.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A6 and A7 called THEORY-820's
+    three-bit chain synergistic without this claim; there the synergy is in
+    the target's components, the dual of this claim's arrangement. The claim
+    is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -121,3 +129,15 @@ transfer.
 - **That directed information escapes this.** James, Barnett and Crutchfield
   say it inherits the flaw. Its lagged part is full-history transfer entropy
   ([THEORY-711](../theory.d/THEORY-711.md)), so it does at least that far.
+
+## Note of 2026-10-21: synergy in the target
+
+A6 and A7 of the exchange of 2026-10-20 called the three-bit chain of
+THEORY-820 "synergistic" without citing this claim. Its arrangement
+differs from the one here. This claim's synergy is between a source and
+the target's past. In the chain, the micro past's bit is carried by the
+target's two components jointly (A′ ⊕ B′ = C_t), and by the chain rule
+T(A, B) = I(X⃗; A′ | A⃗, B⃗) + I(X⃗; B′ | A⃗, B⃗, A′) = 0 + 1 bit (checked).
+So transfer entropy onto a joint target can be positive where it is zero
+onto each component, the dual of this claim's "read zero from sources
+that jointly fix the target". A7 rightly did not commit to a PID measure.

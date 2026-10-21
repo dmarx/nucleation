@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpt64jh
 title: 'Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block''s aggregate small to a stated order in ε, and is the converse false?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A2 listed accuracy without
+    independence among non-implications "already established" on THEORY-771
+    alone; the record bounds the dependence but holds no construction of it.
+    The question is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -94,3 +103,14 @@ stated horizon; or a family of nearly decomposable systems in which it
 stays bounded away from zero as ε → 0. A5 was explicit that the useful
 results "would be conditional bounds, with the distributions and norms
 explicit."
+
+## Note of 2026-10-21: a non-implication claimed as established
+
+A2 of the exchange of 2026-10-20 listed "an approximate reduced dynamics
+can be accurate without establishing informational independence" among
+non-implications "already established", on THEORY-771 alone. A3 called the
+same case "a promising conceptual separation". Neither cited this
+question, CLAIM-390 or CLAIM-386. The record bounds the dependence (second
+order in the coupling into a block) but holds no construction of the
+non-implication as stated. It is one of the cells QUESTION-tmp1nqby asks
+to be filled.

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpihzdz
 title: 'Does a project memory distribute credibility among an argument''s contributors, by making some contributors'' moves addressable and leaving others'' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-14'
@@ -29,6 +29,14 @@ history:
     an incidental case needs no powerless group, and that structural,
     pre-emptive testimonial injustice bears on part 1. THEORY-327
     and THEORY-326 are named. The question stays open.
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A24 read this question right and
+    drew its feedback chain for the record's own registry and filing, which
+    is CLAIM-181 and CLAIM-182; CLAIM-tmpoxld9 connects the Fricker readings
+    to the distributed-agency line. The question is unchanged.
 tags:
 - epistemology
 - design-rationale
@@ -52,6 +60,7 @@ answered_by:
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the reading this question was filed ahead of, read only in the author's précis -->
 <!-- inactive-ok-file: THEORY-327 THEORY-326 — Proposed; the accounts filed 2026-10-14 from Fricker's own papers, named in a dated note -->
 <!-- inactive-ok-file: THEORY-317 — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
+<!-- inactive-ok-file: CLAIM-181 CLAIM-182 CLAIM-277 CLAIM-tmpoxld9 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 
@@ -137,3 +146,16 @@ definition. Her précis has been read ([NOTE-832](../notes.d/NOTE-832.md), Skimm
 hermeneutical injustice only if the misfit traces to a group's exclusion
 from making the scheme. Whether any case in the record meets it is still
 open.
+
+## Note of 2026-10-21: the reflexive case raised again
+
+A24 of the exchange of 2026-10-20 read this question right ("does not
+automatically classify this as epistemic injustice") and drew its
+feedback chain: "Filed contribution → Greater discoverability → More
+citation and reuse → Greater influence on future inquiry". A24: "our
+terminology registry and filing procedures are themselves legibility and
+authority-allocation mechanisms". That is CLAIM-181 and CLAIM-182, which
+A24 did not cite. A24's account that the Fricker readings are "largely
+isolated from the distributed-agency and effective-description lines" is
+right except for CLAIM-277's pointer here. CLAIM-tmpoxld9 now connects
+them.

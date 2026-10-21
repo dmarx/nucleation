@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpwv313
 title: 'A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions'' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -22,6 +22,15 @@ history:
     What it does not say now adds that test 3's verdict also depends on
     which changes count as adaptation (LIT-969, Claim 4), prompted by
     NOTE-793. The tests are unchanged.
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A27 found a gap between conditions 3
+    and 4 that test 3 already covers; its real point is that the
+    governance-response profile (TERM-tmpf5k7x) cannot stand in for test 3,
+    and where authority is fixed from outside this claim's answer is the
+    jurisdiction (TERM-047). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -81,6 +90,7 @@ supports:
 <!-- inactive-ok-file: CLAIM-010 — Rejected; cited as the permissiveness objection any admission test must meet, not as standing -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-168 CLAIM-170 — Proposed; the premise, the objection answered and the thesis made testable, open -->
 <!-- inactive-ok-file: THEORY-249 — Proposed; filed today, cited for the frame-dependence of test 3, not leaned on -->
+<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-174: A candidate factor is an agent at a level when it is one system there, when a goal-directed description beats a device description by more than the Occam cost, and when its policy would adapt if its actions' consequences changed; it is a willed agent when, further, a will-organization over several regimes describes it better than none, and what passes that is the jurisdiction of a will-organization
 
@@ -173,3 +183,24 @@ That is the owner's thesis made testable ([CLAIM-170](CLAIM-170.md), [CLAIM-155]
 ## Note of 2026-10-12: evidence now linked
 
 [THEORY-092](../theory.d/THEORY-092.md) (Block) now grounds this claim's third test, weakly. Systems alike in all actual and counterfactual behaviour can differ through the processing, so a behavioural test alone admits a lookup table. Block's subject is intelligence, not agency.
+
+## Note of 2026-10-21: test 3 and an imposed governance
+
+A27 of the exchange of 2026-10-20 found "an important gap between
+conditions 3 and 4" and proposed to separate behavioural adaptation from
+governance adaptation. Test 3 already covers both ("the factor's policy,
+or what governs its regimes, would change"), and A27's thermostat repair
+is this claim's own case with its designers. A27's real point concerns
+the exchange's governance-response profile (TERM-tmpf5k7x), not this
+test. A description that preserves how a system would respond "if its
+governance mechanism were externally altered" does not show "that the
+system can alter the mechanism itself" ("An ordinary machine can respond
+dramatically to a technician rewiring it"). Test 3 is a test of the
+second, and the profile cannot stand in for it; CLAIM-tmppi0xf says the
+same in its "What it does not say". Where a system's authority
+allocation is fixed from outside, this claim's answer is the jurisdiction
+(TERM-047): the governor lies inside the willed agent's boundary, and the
+system alone is not that agent. A27 did not see this. It also proposed
+"epistemically adaptive self-governance" as a further property, and
+rightly not as a condition: it "should not silently redefine *willed
+agent*".

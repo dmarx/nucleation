@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpq4vt7
 title: 'What constitutes the identity of a relationally organized communicative act, how can it be recognized apart from any one representation, and under which transformations does it persist?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A27 offered equivalence under a
+    declared probe family as an answer to two-thirds of this question; it is
+    CLAIM-142 with CLAIM-135's split, which this question already says is
+    QUESTION-002 again (TERM-tmple6rq). The question is unchanged.
 tags:
 - philosophy-of-language
 - individuation
@@ -32,6 +41,7 @@ refined_by:
 ---
 <!-- inactive-ok-file: CLAIM-017 — Superseded; cited as the history of the thesis, whose earlier changes went unannounced -->
 <!-- inactive-ok-file: CLAIM-139 CLAIM-115 CLAIM-151 CLAIM-136 CLAIM-134 CLAIM-138 CLAIM-137 CLAIM-142 CLAIM-135 — Proposed; open, and cited as open: the theses and objections that bear on this question are under test, not settled -->
+<!-- inactive-ok-file: TERM-tmple6rq — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # QUESTION-029: What constitutes the identity of a relationally organized communicative act, how can it be recognized apart from any one representation, and under which transformations does it persist?
 
@@ -99,3 +109,19 @@ line of its own, and `lines` is closed by decision.
 
 It does not presuppose that the answer is relational. That is the October
 thesis's answer ([CLAIM-139](../claims.d/CLAIM-139.md)). The question stands if the thesis falls.
+
+## Note of 2026-10-21: the operational parts restated
+
+A27 of the exchange of 2026-10-20 offered equivalence under a declared
+family of probes and interventions, u ∼_{𝒬,ℐ} v when every response
+kernel agrees, as "a substantial answer to two-thirds" of this question,
+leaving constitution open. The relation is a correct equivalence, asked
+for as a term at A13 and A14 and filed as TERM-tmple6rq. It is CLAIM-142, with CLAIM-135's
+split between identification and constitution and CLAIM-150's guard.
+A27's "modest impossibility result" (models that agree on every probe
+cannot be told apart on an unperformed intervention) is QUESTION-027's
+"What is already known". This question's own text says what such an
+answer amounts to: one that answers only the second and third parts "is
+QUESTION-002 again". A27's three-way table, constitutive identity against
+operational equivalence against "legible identity" for a given receiver,
+restates CLAIM-135 with CLAIM-115's receiver.

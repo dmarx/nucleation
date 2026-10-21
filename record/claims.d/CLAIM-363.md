@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpt75xe
 title: 'A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A8 and A9 carried this claim's
+    structure to individuation without citing it; filed as CLAIM-tmpoxkub.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -52,6 +60,7 @@ summary: >-
 complements:
 - CLAIM-tmpoxkub
 ---
+<!-- inactive-ok-file: CLAIM-tmpoxkub — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-363: A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false
 
@@ -143,3 +152,9 @@ Further:
 - **It does not ground the standard.** [CLAIM-075](CLAIM-075.md) stands: a verdict relative
   to an organization's viability says nothing about whether the
   organization ought to persist.
+
+## Note of 2026-10-21: the same structure for individuation
+
+A8 §9 and A9 §9 of the exchange of 2026-10-20 reached this claim's
+structure for individuation, without citing it ("Observer-relative need
+not mean subjective"). That is filed as CLAIM-tmpoxkub.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpbvk4j
 title: 'The headline that translation changes global structure is either about contextuality, which has no case but a constructed one while the behavioural data show none, or about inconsistent connectedness, the ordinary context dependence the line says it goes beyond'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -16,6 +16,14 @@ history:
     (CLAIM-201's odd-cycle derivation), but every such case needs a
     contextual model. CLAIM-201 states the form the data leave
     open, a change of cover, and CLAIM-105 v2 restates its condition.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A8 and A9 asked whether THEORY-820's
+    non-closed common refinement is a contextuality obstruction and rightly
+    said no: a second instance, from dynamics, of this claim's warning. The
+    claim is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -156,3 +164,17 @@ translation changes global structure is either about contextuality, for
 which there is no case but a constructed one, or about inconsistent
 connectedness, the ordinary context dependence the line says it goes
 beyond". The new title states the premise as a condition.
+
+## Note of 2026-10-21: non-closure is not contextuality
+
+A8 §5 and A9 §7 of the exchange of 2026-10-20 asked whether THEORY-820's
+non-closed common refinement is a contextuality obstruction, and said it
+is not. A9: "the joint representation (A,B) does exist. What fails is its
+informational closure, not its mathematical consistency or the existence
+of a joint distribution." That is right: the local descriptions glue
+(CLAIM-197), and a property of the glued description fails. It is a
+second instance, from dynamics, of this claim's warning that context
+dependence is not contextuality. A9 separated logical, representational
+and dynamical compatibility. The three-bit chain passes the first two and
+fails the third. CLAIM-044's note of 2026-10-21 records the same table
+from A10.

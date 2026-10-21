@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpamn8i
 title: 'Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A25 asked this question again
+    without citing it and added a candidate predecessor, Mostagir, Ozdaglar
+    and Siderius, now registered unread as LIT-tmp8x4zb. The question is
+    unchanged.
 tags:
 - complex-systems
 - network-science
@@ -22,6 +31,7 @@ summary: >-
   or a reduction of it, inside one of these models, or names the outcome
   they forbid and it allows.
 ---
+<!-- inactive-ok-file: LIT-tmp8x4zb LIT-tmpx95z2 — Deferred; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: LIT-1128 LIT-1134 LIT-1139 LIT-1146 THEORY-143 THEORY-146 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-117: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
@@ -92,3 +102,21 @@ coupled condition that a model of evolving influence with fixed operators
 does not produce at matched complexity. The comparison classes are the ones
 above, and [CLAIM-297](../claims.d/CLAIM-297.md)'s defeater, reproduction by a single adaptive-retrieval
 process, is the same test.
+
+## Note of 2026-10-21: a fifth candidate predecessor
+
+A25 §2 of the exchange of 2026-10-20 asked this question again without
+citing it: "whether our second authority variable changes the dynamics in
+ways that cannot already be represented as endogenous network weights,
+strategic signaling, or standard adaptive learning", and "CLAIM-330's
+instability condition is valid mathematics. Its novelty cannot rest on the
+eigenvalue calculation itself." It adds a candidate: Mostagir, Ozdaglar
+and Siderius, "When Is Society Susceptible to Manipulation?"
+(Management Science 2022, doi:10.1287/mnsc.2021.4265), now registered
+unread as LIT-tmp8x4zb. A25 says it "concerns strategic interference with
+social learning, rather than a dynamically evolving allocation of
+authority over interpretation". That is the third exchange to pose the
+question, after A15 of 2026-10-16 and A32 of 2026-10-17. The predecessors
+registered here (LIT-1146, LIT-1128, LIT-1139, LIT-1134) are still unread.
+A25's other first-ranked work, Weatherall, O'Connor and Bruner, is
+registered as LIT-tmpx95z2.

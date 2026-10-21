@@ -4,7 +4,17 @@ status: Active
 formerly:
 - CASE-tmpiyvbk
 title: 'Bistable authority with a tilt: in ẇ = μw − w³ + h, with w the balance of authority between two regimes and h a higher-order volition favouring one, for μ > 0 the operative regime changes only when |h| passes 2μ^{3/2}/(3√3), so a sincere and efficacious higher-order volition can move the balance without moving the regime, and which regime operates depends on the path of h'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A19 used this case's equation at h =
+    0 with μ = α − κ for the authority balance between two organizations
+    (CLAIM-tmpptl3y); there the pitchfork is supercritical and restoring the
+    constraint restores equality, and this case's hysteresis is in the tilt
+    h at fixed μ > 0. The case is unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -100,3 +110,24 @@ The threshold was checked by hand and numerically for this filing.
   endorsement as whichever signal successfully changes behavior. That
   would collapse a normative notion into a causal one." The model says
   what an input does, not what makes it authoritative ([THEORY-029](../theory.d/THEORY-029.md)).
+
+## Note of 2026-10-21: the normal form at zero tilt, read as a rule
+
+A19 of the exchange of 2026-10-20 used ḋ = (α − κ)d − βd³ for the
+authority balance between two organizations, with κ a stabilizing
+institutional constraint. That is this case's equation at h = 0 with
+μ = α − κ: weakening the constraint past κ = α makes the equal allocation
+unstable (checked). It is a second appearance of the normal form, and a
+new reading of μ as the strength of a rule. It is filed as CLAIM-tmpptl3y,
+which this case supports.
+
+At h = 0 the pitchfork is supercritical, so in κ there is no hysteresis:
+restoring κ > α makes the equal allocation again the only equilibrium,
+and a tipped allocation decays back to it. This case's hysteresis is in
+the tilt h at fixed μ > 0, and it is what A19 did not draw: an allocation
+tipped by a tilt past h_c is not restored by removing the tilt. This
+case's h is what A19 called "explicit symmetry breaking". CLAIM-tmpptl3y's
+check also ran this case's form with a small tilt through a weakening,
+restoring and re-weakening of the constraint: restoring it brought w near
+zero, and weakening it again selected the side the tilt favours, not the
+side the state had held before.
