@@ -14,7 +14,7 @@ history:
     0 with μ = α − κ for the authority balance between two organizations
     (CLAIM-tmpptl3y); there the pitchfork is supercritical and restoring the
     constraint restores equality, and this case's hysteresis is in the tilt
-    h at fixed μ > 0. The case is unchanged.
+    h at fixed μ > 0. Extended the same day: Arthur's planner who tilts at the outset matches the tilt before symmetry breaks. The case is unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -131,3 +131,12 @@ check also ran this case's form with a small tilt through a weakening,
 restoring and re-weakening of the constraint: restoring it brought w near
 zero, and weakening it again selected the side the tilt favours, not the
 side the state had held before.
+
+Arthur's model, read the same day through its 1983 working paper
+(NOTE-tmpyyaar), has the same shape in another setting: a planner can
+tilt the adoption process at the outset, and once one technology has
+locked in, small changes in returns have no effect and only large ones
+swing the market (THEORY-tmpxzls4). That matches this case's tilt h before
+symmetry breaks and its hysteresis in h after; Arthur's lock-in is
+absorption in accumulated adoptions, not a pitchfork, so the match is of
+shape only.

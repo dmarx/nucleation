@@ -1,7 +1,14 @@
 ---
 status: Active
 title: 'For one state law, one intervention distribution and one outcome, a deficiency of sufficiency cannot increase under refinement: if T₁ = g∘T₂ then Γ(T₂) ≤ Γ(T₁); informational closure, by contrast, is monotone in neither direction, since in the three-bit chain of Rosas et al. (2024) A is closed, its refinement (A, B) is not and the full state refining that is closed again, while A⊕B, a coarsening of (A, B), is not closed either; closure fails to be monotone because refining a description changes the future it must predict as well as the evidence, so Blackwell dominance, which every deterministic refinement has over its coarsening, does not order closure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    From the readings of 2026-10-21 of the causal-abstraction papers: they
+    have no counterpart of Γ's monotonicity; their transitivity is a
+    different property. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -134,6 +141,12 @@ pairs), with no violation.
   at two budgets need not nest ([CLAIM-387](CLAIM-387.md), [CLAIM-392](CLAIM-392.md)) is about optima, not
   about one description's deficiency.
 - **Nothing approximate.** Small Δ is not shown to behave better.
+- **Not the causal-abstraction papers' transitivity.** Rubenstein et al.'s
+  Lemma 5 and Beckers and Halpern's Theorem 3.9 compose abstractions of
+  abstractions; nothing in those papers or in Beckers, Eberhardt and
+  Halpern orders a deficiency along refinement (NOTE-tmp6b7dr,
+  NOTE-tmp1bdcu). The nearest analogue is the latter's composition bounds
+  for approximate abstraction (THEORY-tmpe391l).
 - **Not that closure marks a system, or its failure a non-system.** Noise is
   closed ([THEORY-820](../theory.d/THEORY-820.md)), and that closure gives no part–whole order on
   candidate units is the open half of [QUESTION-218](../questions.d/QUESTION-218.md).

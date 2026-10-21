@@ -1,7 +1,15 @@
 ---
 status: Active
 title: 'The regulator and two accounts: a formally independent regulator weighs two parties'' accounts of a risk, one party comes to supply more of the evidence it reads and the experts it trusts, and the credibility that party gains decides whose evidence is read next; with variants for a one-time perturbation, a press as the evaluator, and an objective that gives one property no weight'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    From the readings of 2026-10-21: the documented episodes the replies
+    cited are now read (THEORY-tmplatcg, THEORY-tmpkd2bw, THEORY-tmp6l5uw),
+    except Stigler's, Unavailable; none has the case's loop. The case is
+    unchanged.
 standing: stipulated
 kind: thought-experiment
 tags:
@@ -25,6 +33,7 @@ summary: >-
   particular regulatory agency." No regulator, outlet or party is meant.
 ---
 <!-- inactive-ok-file: CLAIM-tmpjo2zr — Proposed; the claim this case illustrates, filed with it -->
+<!-- inactive-ok-file: LIT-tmphei2g — Unavailable; Stigler, named as a source the replies cited that no lawful copy reached -->
 
 # CASE-tmp3uarw: The regulator and two accounts: a formally independent regulator weighs two parties' accounts of a risk, one party comes to supply more of the evidence it reads and the experts it trusts, and the credibility that party gains decides whose evidence is read next; with variants for a one-time perturbation, a press as the evaluator, and an objective that gives one property no weight
 
@@ -95,10 +104,22 @@ evidence.
 - That any regulator, newsroom or industry behaves this way. It is
   stipulated. A21's caption: "A possible structural mechanism, not a claim
   that any particular outlet or institution follows these dynamics." The
-  documented episodes the replies cited (Besley and Prat's model of media
-  capture, Di Tella and Franceschelli's Argentine newspapers, Stigler's
-  industries, Szeidl and Szucs's Hungarian media) rest on works the record
-  has not read. A documented variant waits until one is read.
+  documented episodes the replies cited were read on 2026-10-21, except
+  Stigler's (LIT-tmphei2g, Unavailable). The press variant now has two
+  documented instances and one model, none with this case's loop.
+  Di Tella and Franceschelli's Argentine newspapers give an association
+  within newspaper and presidency, and A21's caution, "evidence of an
+  association, not by itself proof of a particular covert intent", still
+  applies (THEORY-tmplatcg). Szeidl and Szucs's Hungarian media give
+  two-way favors at five events, with private advertisers as control
+  (THEORY-tmpkd2bw); when the 2015 fallout cut the reward, content favors
+  stopped after a lag, a dependence that did not sustain itself once the
+  resource link was cut, which in that instance counts against the
+  amplifying reading. Besley and Prat's model is a one-shot bargain, so it
+  has the press variant's dependence and not its loop (THEORY-tmp6l5uw).
+  Schram and Ule's regulators are a laboratory study, not a documented
+  episode (THEORY-tmpqzjvn). No variant of this case with a documented
+  loop has been read.
 - That the loop between institutions is unstable under any stated
   condition. [CLAIM-330](../claims.d/CLAIM-330.md) is a 2×2 linearization of one organization, and the
   two-institution loop has not been derived.

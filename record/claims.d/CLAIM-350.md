@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A12 and A13 proposed TERMs for
     identifiability relative to an observational regime and for
     target-preserving coarse-graining; both are this claim's condition, so
-    no TERM is filed. The claim is unchanged.
+    no TERM is filed. Extended the same day: the causal-abstraction readings give the distributional criterion beside this claim's fibre-wise one. The claim is unchanged.
 role: granted
 warrant: demonstrated
 tags:
@@ -143,3 +143,14 @@ loses an intervention response, filed as [CLAIM-tmppi0xf](CLAIM-tmppi0xf.md) wit
 [CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md). The note of 2026-10-21 on [CLAIM-397](CLAIM-397.md) uses this claim's
 condition to widen a non-identifiability result to every functional of a
 law.
+
+The causal-abstraction papers were read the same day. This claim's causal
+bullet defines intervention-consistent coarse-graining "for a declared
+family of interventions"; Rubenstein et al.'s exact transformation is that
+notion as a theorem-bearing definition, and its column condition for
+averaging linear variables is THEORY-755's column-equitability
+(THEORY-tmpj5zq1). It is distributional, a match of push-forward laws, not
+the fibre-wise factorization this claim proves, and the hidden governance
+bit separates them (THEORY-tmpjfhcb, CLAIM-tmp4r4mi). Beckers and
+Halpern's compatibility condition is this claim's shape one level up, on
+contexts (THEORY-tmpjtnjd).

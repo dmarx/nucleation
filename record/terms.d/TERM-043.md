@@ -4,7 +4,17 @@ status: Active
 formerly:
 - TERM-tmpz8i47
 title: 'fidelity, as a profile of directed distortions compared component by component'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the readings of that day of the
+    causal-abstraction papers: D_causal is a graded form of Rubenstein et
+    al.'s exact transformation and is zero for the hidden governance bit,
+    so the governance-response profile filed the same day is not this
+    component with the identity correspondence. The definition is
+    unchanged.
 tags:
 - philosophy-of-language
 - information-theory
@@ -37,8 +47,8 @@ used_by:
 - CLAIM-371
 refined_by:
 - TERM-010
-- TERM-tmpf5k7x
 ---
+<!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the governance-response profile, cited in the note of 2026-10-21 as not a refinement of this term -->
 <!-- inactive-ok-file: CLAIM-127 CLAIM-128 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-228 CLAIM-257 CLAIM-259 — Proposed; the restatements of the components, cited as open -->
 
@@ -128,3 +138,25 @@ family fitted on some and scored on others ([CLAIM-228](../claims.d/CLAIM-228.md
 covers ([CLAIM-257](../claims.d/CLAIM-257.md)); D_dec as the directed positive part of the risk
 increase on the same problem ([CLAIM-259](../claims.d/CLAIM-259.md)); D_dyn measured on observed
 order effects ([CLAIM-231](../claims.d/CLAIM-231.md)).
+
+## Note of 2026-10-21: D_causal and causal abstraction
+
+The causal-abstraction papers were read on 2026-10-21 (NOTE-tmp6b7dr,
+NOTE-tmp1bdcu, NOTE-tmpqfl95). D_causal is Rubenstein et al.'s exact
+transformation made graded: a π-average of distances between the
+push-forward of the source's interventional law and the target's, without
+their requirement that the correspondence on interventions be surjective
+and order-preserving, which their Theorem 6 and Examples 7–8 need for
+composed interventions. So it inherits Beckers and Halpern's Example 3.4
+permissiveness (a well-chosen distribution lets unrelated models match).
+Beckers, Eberhardt and Halpern's d_τ (THEORY-tmpe391l) is the worked graded
+relation in that literature, worst-case over interventions and context by
+context, with composition bounds that are a template for composing
+transports.
+
+One consequence for an entry of the same day. The governance-response
+profile, TERM-tmpf5k7x, was first filed as refining this term, as D_causal
+with τ the identity. It is not: for the hidden governance bit D_causal is
+zero, since marginalising the hidden bit is exact (THEORY-tmpjfhcb), while
+the profile does not factor through the coarse state (CLAIM-tmp4r4mi). The
+link was removed. The definition here is unchanged.

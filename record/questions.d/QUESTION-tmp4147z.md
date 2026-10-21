@@ -1,7 +1,15 @@
 ---
 status: Open
 title: 'In the coupled meaning–authority model, is authority''s effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime''s κ′, how far the prevailing interpretation bends the reading of the evidence?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    From the readings of 2026-10-21: none of the works read has dynamics
+    of the kind asked for; agenda-setting and Szeidl and Szucs's
+    endogenous ownership are noted as static candidates. The question is
+    unchanged and stays Open.
 tags:
 - complex-systems
 - epistemology
@@ -20,6 +28,7 @@ summary: >-
   legibility adds a third state or renames the weight. It is the place
   where the record's mathematics can test the owner's new concept.
 ---
+<!-- inactive-ok-file: THEORY-tmp98xm5 THEORY-tmplydnj — Proposed; readings of 2026-10-21 named as static candidates, not answers -->
 <!-- inactive-ok-file: CLAIM-338 CLAIM-342 CLAIM-297 TERM-tmp5lqn0 — Proposed; the claims and the candidate term the question works from, cited as open -->
 
 # QUESTION-tmp4147z: In the coupled meaning–authority model, is authority's effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime's κ′, how far the prevailing interpretation bends the reading of the evidence?
@@ -74,5 +83,12 @@ extend.
 ## What it does not ask
 
 Whether any institution's categories follow such dynamics. That needs
-cases the record does not hold. Nor whether legibility should be adopted
+cases the record does not hold. The readings of 2026-10-21 do not supply
+one. Agenda-setting (THEORY-tmpbonn4; THEORY-tmp98xm5, Proposed) is an
+empirical candidate for which facts become legible enough to count as
+evidence, but it is an aggregate cross-section with no dynamics. Szeidl and
+Szucs's endogenous-ownership counterfactual has the shape of the slower
+variable, authority setting owners' ideology and ideology setting slant
+(THEORY-tmplydnj, Proposed), but only across episodes in a static model,
+not as a dynamical one. Nor whether legibility should be adopted
 as a term ([TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md) is Proposed).

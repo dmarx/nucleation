@@ -1,7 +1,16 @@
 ---
 status: Proposed
 title: 'Structural, pre-emptive testimonial injustice has the form of the record''s trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    The readings of 2026-10-21 added: Collins 1986 as prior art for the
+    self-confirming status, Espeland and Sauder's rankings as an empirical
+    shape of the loop (THEORY-tmpnfh8u, added to grounds), Kay et al.'s
+    loop through credibility given to a system; Pohlhaus and Dotson were
+    sought and are Unavailable. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -27,6 +36,7 @@ rests_on:
 grounds:
 - THEORY-327
 - THEORY-317
+- THEORY-tmpnfh8u
 summary: >-
   The owner's, U24 of the exchange of 2026-10-20, on A23's closing thesis:
   "this seems to me reminiscent of themes in feminist philosophy, e.g.
@@ -37,6 +47,8 @@ summary: >-
   sought". The sharp edge: the loop is the same whether what it entrenches
   was earned, and only a prejudice makes it an injustice.
 ---
+<!-- inactive-ok-file: THEORY-tmpnfh8u THEORY-tmpzqfxe — Proposed; readings of 2026-10-21 cited as the loop's empirical shape and as an assertion of it, and this claim is Proposed with them -->
+<!-- inactive-ok-file: LIT-tmp22xqb LIT-tmpnfswr — Unavailable; Pohlhaus and Dotson, named as works A24 drew on that no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-277 CLAIM-276 THEORY-327 THEORY-317 THEORY-326 THEORY-145 THEORY-151 CLAIM-tmpj163u — Proposed; the claim and readings this one rests on or cites, and it is Proposed with them -->
 
 # CLAIM-tmpoxld9: Structural, pre-emptive testimonial injustice has the form of the record's trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain
@@ -115,6 +127,30 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
   [THEORY-317](../theory.d/THEORY-317.md), [THEORY-326](../theory.d/THEORY-326.md) and [THEORY-327](../theory.d/THEORY-327.md) were cited only from that
   question, and [CLAIM-277](CLAIM-277.md)'s pointer to it was the one bridge to the
   distributed-agency line.
+- **Collins 1986** (LIT-tmp2ojrd, NOTE-tmpj0rwa, read in an authorized
+  Portuguese translation): the mechanism, with the prejudice condition
+  built in, predates this claim's sources in that tradition. Denying a
+  group literacy and then citing its lack of facts as proof of poor
+  judgement is, in the translation, "atribuir a um grupo um status
+  inferior e depois usar esse status inferior como prova da inferioridade
+  do grupo" (assign a group an inferior status and then use it as proof of
+  the group's inferiority; the gloss is the record's). The status is
+  assigned by domination, so the prejudice the loop lacks is there from
+  the start.
+- **Espeland and Sauder** (NOTE-tmpxq56d): standing that brings resources
+  and reputation is produced by having had them, with no continuing
+  prejudiced act ("It's a self-fulfilling nightmare", of the third tier;
+  THEORY-tmpnfh8u). They call the initial differences "often largely a
+  product of measurement noise", on cited evidence: the loop entrenching
+  what was neither earned nor prejudiced, which is the claim's point that
+  the dynamics cannot tell the cases apart.
+- **Kay, Kasirzadeh and Mohamed** (NOTE-tmpw3hh8) assert the loop for
+  generative models, "a feedback loop where dominant narratives are
+  amplified and marginalized voices are further silenced", with no
+  condition (THEORY-tmpzqfxe, Proposed). New in it: the loop can run
+  through credibility given to a system, with no hearer judging the
+  silenced speaker. The prejudice is carried by training data, so the
+  claim's limit stands.
 
 ## What it does not say
 
@@ -131,4 +167,8 @@ demonstrated theorem". [CLAIM-330](CLAIM-330.md)'s demonstration is not inherite
   and needs a prejudice, not only a grammar ([NOTE-853](../notes.d/NOTE-853.md)).
 - **Anything about hermeneutical injustice beyond [THEORY-326](../theory.d/THEORY-326.md)**, or about
   Pohlhaus's willful hermeneutical ignorance and Dotson's epistemic
-  oppression, which A24 drew from works the record does not hold.
+  oppression, which A24 drew from them. Both works were sought on
+  2026-10-21 and are held Unavailable (LIT-tmp22xqb, LIT-tmpnfswr). Kay et
+  al. gloss Pohlhaus's term secondhand ("the continued misunderstanding or
+  misinterpretation of marginalized experiences despite their
+  articulation"), which is not a reading of Pohlhaus.

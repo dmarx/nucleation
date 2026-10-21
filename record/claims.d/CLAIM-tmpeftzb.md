@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category''s own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    The readings of 2026-10-21 added: Perdomo et al. (THEORY-tmpwl9bj,
+    THEORY-tmp9lnfi) and Espeland and Sauder (THEORY-tmpwpmt2,
+    THEORY-tmpnfh8u) are now read; grounds gain THEORY-tmp9lnfi,
+    THEORY-tmpwpmt2 and THEORY-tmpnfh8u. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,6 +32,9 @@ grounds:
 - THEORY-273
 - THEORY-036
 - CASE-103
+- THEORY-tmp9lnfi
+- THEORY-tmpwpmt2
+- THEORY-tmpnfh8u
 answers:
 - QUESTION-028
 summary: >-
@@ -37,6 +48,7 @@ summary: >-
   [QUESTION-028](../questions.d/QUESTION-028.md) stays Open.
 ---
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
+<!-- inactive-ok-file: THEORY-tmpnfh8u — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study, and this claim is Proposed with it -->
 <!-- inactive-ok-file: CLAIM-342 THEORY-273 THEORY-036 — Proposed; the claim and readings this one rests on, and it is Proposed with them -->
 
 # CLAIM-tmpeftzb: Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category's own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent
@@ -64,6 +76,26 @@ evidence generated under that classification". A26: "Neither fixed point,
 by itself, establishes what would have occurred under a different
 policy." A26 called the update "a toy model rather than a claimed theorem
 from Perdomo et al."
+
+Perdomo et al., read on 2026-10-21 (NOTE-tmpmuo87), bear it out. Repeated
+retraining has a unique stable point only when the loss is strongly convex
+and the deployment's effect small enough (THEORY-tmpwl9bj); a threshold
+rule is not strongly convex, so the toy's two stable points are consistent
+with the theorem and outside it. And a stable point need not be optimal
+(THEORY-tmp9lnfi): self-consistent for the world its own use makes, it can
+be worse than an alternative that would have produced different evidence.
+That is this claim's reason to model the effect of use.
+
+**A documented case.** Espeland and Sauder (NOTE-tmpxq56d) define
+self-fulfilling prophecy to include reactions "which increase the validity
+of the measure by encouraging behavior that conforms to it", and report
+channels that run through the ranking's own inputs: rank to yield to
+selectivity, and past rank to the reputation survey (THEORY-tmpwpmt2,
+reported and corroborated; THEORY-tmpnfh8u, Proposed, the loop stated
+generally). Every school is under the same ranking, so the contexts that
+confirm it are not independent, which is the claim's condition. The paper
+does not cite Hacking's interactive kinds; the join with NOTE-769 is the
+record's.
 
 **The record's terms.** [CLAIM-342](CLAIM-342.md): what keeps a loop from confirming itself
 is "evidence whose arrival or scoring does not pass through the
@@ -100,5 +132,7 @@ use, or the use must be modelled.
   is evidence. A27's conclusion, a domain-relative kind and not a natural
   kind, is [THEORY-036](../theory.d/THEORY-036.md)'s and [THEORY-273](../theory.d/THEORY-273.md)'s.
 - **Anything about a particular category or institution.** The toy is
-  stipulated, and Perdomo et al.'s performative prediction and Espeland and
-  Sauder's reactivity, which A26 cited, are not read here.
+  stipulated. Perdomo et al. and Espeland and Sauder, which A26 cited, were
+  read on 2026-10-21; the first is a theorem about learning, and the second
+  an interview study of law schools whose quantitative links are cited, not
+  shown. Neither is a test of a category's kindhood.

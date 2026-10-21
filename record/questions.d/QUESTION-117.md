@@ -12,7 +12,7 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A25 asked this question again
     without citing it and added a candidate predecessor, Mostagir, Ozdaglar
-    and Siderius, now registered unread as LIT-tmp8x4zb. The question is
+    and Siderius, now registered unread as LIT-tmp8x4zb. Extended the same day: Mostagir et al. are Unavailable, and Weatherall et al., read, are not a predecessor. The question is
     unchanged.
 tags:
 - complex-systems
@@ -31,7 +31,7 @@ summary: >-
   or a reduction of it, inside one of these models, or names the outcome
   they forbid and it allows.
 ---
-<!-- inactive-ok-file: LIT-tmp8x4zb LIT-tmpx95z2 — Deferred; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-tmp8x4zb — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
 <!-- inactive-ok-file: LIT-1128 LIT-1134 LIT-1139 LIT-1146 THEORY-143 THEORY-146 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-117: Does coupling the construction of meaning to the allocation of interpretive authority produce modes, attractors or transitions that established models of opinion dynamics with evolving influence (reflected appraisal, adaptive networks, persuasion bias) cannot reproduce as economically?
@@ -120,3 +120,11 @@ question, after A15 of 2026-10-16 and A32 of 2026-10-17. The predecessors
 registered here ([LIT-1146](../literature.d/LIT-1146.md), [LIT-1128](../literature.d/LIT-1128.md), [LIT-1139](../literature.d/LIT-1139.md), [LIT-1134](../literature.d/LIT-1134.md)) are still unread.
 A25's other first-ranked work, Weatherall, O'Connor and Bruner, is
 registered as [LIT-tmpx95z2](../literature.d/LIT-tmpx95z2.md).
+
+Both were sought on 2026-10-21. Mostagir, Ozdaglar and Siderius is
+Unavailable: copies exist (Deep Blue, CORE, an author's site) but none
+could be fetched here, so the check against it stays open. Weatherall,
+O'Connor and Bruner was read in full (NOTE-tmp8rwaa): its dynamics are
+open-loop, with no coupling from the audience back to the evidence or the
+scientists, so it is not a predecessor of the second authority variable;
+A25's "alongside" fits. The question stays Open.

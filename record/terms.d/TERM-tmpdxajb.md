@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'effective-description regime: the system, representation, query family, intervention family, resource bounds, tolerance and horizon relative to which a description''s adequacy is assessed, 𝔈 = (X, T, 𝒬, ℐ, ℬ, ε, τ), so that whether a description is adequate is settled once the regime is stated and not before'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    From the readings of 2026-10-21 of the causal-abstraction papers: the
+    relativity to ℐ is proved there for exact transformation, and how the
+    interventions are fixed is a further choice the regime must state. The
+    definition is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -66,7 +74,12 @@ computational budget is privileged."
 [CLAIM-152](../claims.d/CLAIM-152.md) (sufficiency is relative to its target) and [CLAIM-348](../claims.d/CLAIM-348.md). The
 resources: [CLAIM-302](../claims.d/CLAIM-302.md) and [CLAIM-304](../claims.d/CLAIM-304.md) (feasible tests, feasible recovery).
 The interventions: [THEORY-424](../theory.d/THEORY-424.md) (Â depends on an intervention distribution)
-and [CLAIM-350](../claims.d/CLAIM-350.md)'s causal version. The budget of a compression: [CLAIM-387](../claims.d/CLAIM-387.md).
+and [CLAIM-350](../claims.d/CLAIM-350.md)'s causal version; for exact transformation it is proved in
+Rubenstein et al., where enlarging the declared interventions breaks
+exactness (THEORY-tmpj5zq1), and Beckers and Halpern's ladder shows that how
+the interventions are fixed (chosen freely, fixed by the state map, or all
+that map can translate) is a further choice the regime must state
+(NOTE-tmp1bdcu). The budget of a compression: [CLAIM-387](../claims.d/CLAIM-387.md).
 The decision family: [TERM-028](TERM-028.md) and [THEORY-717](../theory.d/THEORY-717.md) (Blackwell's order).
 [CLAIM-tmpcrdhj](../claims.d/CLAIM-tmpcrdhj.md) says which of the conditions on an effective description
 are parameters of the regime, and [QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md) fixes the regime

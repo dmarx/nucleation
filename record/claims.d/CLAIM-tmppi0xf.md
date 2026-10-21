@@ -1,7 +1,16 @@
 ---
 status: Active
 title: 'A coarse-graining exactly informationally closed under a process''s ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T''s fibres over the states of positive probability'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    The readings of 2026-10-21 added: the causal-abstraction papers hold
+    the declared intervention set, the support caveat and the qualitative
+    merge, and accept the hidden-bit coarse-graining (THEORY-tmpjfhcb,
+    added to grounds; CLAIM-tmp4r4mi); and Szeidl and Szucs's model as a
+    social-science instance of the shape. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -25,6 +34,7 @@ grounds:
 - THEORY-820
 - THEORY-424
 - CASE-tmpdc0tl
+- THEORY-tmpjfhcb
 uses:
 - TERM-tmpf5k7x
 - TERM-023
@@ -48,6 +58,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-122 CLAIM-127 — Proposed; the earlier, unparameterized appearances of this result, cited as its history, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-336 CLAIM-174 — Proposed; named as what this result does not test, open -->
+<!-- inactive-ok-file: THEORY-tmplydnj — Proposed; Szeidl and Szucs's structural split, cited as an instance of the shape, nothing rests on it -->
 <!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; the profile this claim is stated in, a candidate definition filed from the same exchange, and defined again in the body -->
 
 # CLAIM-tmppi0xf: A coarse-graining exactly informationally closed under a process's ordinary dynamics need not preserve its responses to an intervention on the mechanism: for a declared intervention distribution ρ, independent of the state, the deficiency Γ = I(S; Y^(I) | T(S), I) can be positive, as in the hidden governance bit, where it is ρ(h = 1) bits; and Γ = 0 exactly when, for every intervention ρ charges, the response kernels are constant on T's fibres over the states of positive probability
@@ -113,6 +124,25 @@ while the profile does not factor through it.
   given." A15 §1 of 2026-10-20 cited the test, and A15 §2 built it as a
   counterexample. A17 then listed it as "Established by the paper's
   self-contained finite counterexample" without the note.
+- **The causal-abstraction literature**, read on 2026-10-21 (NOTE-tmp6b7dr,
+  NOTE-tmp1bdcu, NOTE-tmpqfl95). It has relativity to a declared
+  intervention set (Rubenstein et al. §5; Beckers and Halpern's I_L), which
+  is this claim's I; the support caveat (Beckers and Halpern's Examples 3.4
+  and 3.11 leave behaviour off the support unconstrained), which is this
+  claim's restriction to the interventions ρ charges and the states of
+  positive probability; and a macro variable merging micro-states with
+  different interventional consequences (Rubenstein et al.'s cholesterol
+  case). It does not have this claim: its criteria compare interventional
+  laws, and exact transformation, τ-abstraction and zero approximate
+  distance all accept the hidden-bit coarse-graining (THEORY-tmpjfhcb,
+  THEORY-tmpjtnjd, THEORY-tmpe391l). How sufficiency sits beside them is
+  CLAIM-tmp4r4mi.
+- **An instance of the shape outside the record.** Szeidl and Szucs's
+  model of media capture (THEORY-tmpwiydx, NOTE-tmpefpic): the observed
+  slant gap can be the same whether it comes from owners' ideology or from
+  favor exchange, and a ban on targeted government advertising, an
+  intervention on the mechanism, tells them apart (THEORY-tmplydnj). The
+  join is the record's; the paper says nothing of closure or of Γ.
 
 ## What it does not say
 
@@ -139,6 +169,10 @@ while the profile does not factor through it.
   authority is endogenous, historically uncoerced, contestable, or
   normatively justified." Neither establishes ownership ([CLAIM-022](CLAIM-022.md),
   [QUESTION-071](../questions.d/QUESTION-071.md)).
+- **Not an instance of causal abstraction, nor a new theory of it.** A25:
+  "We should not present governance-preserving coarse-graining as a new
+  general theory of causal abstraction." That stands, and the papers'
+  notions do not imply the condition for Γ = 0 (CLAIM-tmp4r4mi).
 - **Not a test of [CLAIM-336](CLAIM-336.md).** The construction has no meaning dynamics.
 - **Not one scale across regimes.** A16 §5: "one must not compare
   deficiencies numerically across different intervention distributions or

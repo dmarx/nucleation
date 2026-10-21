@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A9 cited this claim correctly as the
     last of four missing warrants, and A25 re-derived its second clause for
     legibility (who participates in fixing the query family, who pays to
-    become legible). The claim is unchanged.
+    become legible). Lan, sought the same day, is Unavailable; Espeland and Sauder's reading adds an instance. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -55,7 +55,7 @@ supports:
 - CLAIM-tmpcrdhj
 - CLAIM-tmpjo2zr
 ---
-<!-- inactive-ok-file: LIT-tmpmdlm4 — Deferred; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-tmpmdlm4 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-348: No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified by the description that preserves it
@@ -131,7 +131,7 @@ make its perspective normatively authoritative. That is this claim with
 2026-10-21).
 
 **Who pays for legibility.** A25 §3, from Lan (2026, [LIT-tmpmdlm4](../literature.d/LIT-tmpmdlm4.md), not
-read): "**The party benefiting from increased legibility need not be the
+read; Unavailable when sought on 2026-10-21): "**The party benefiting from increased legibility need not be the
 party paying to become legible.**" A standardized category "might make a
 person's circumstances easier for a public agency to process while
 obscuring important details of those circumstances". That is this claim's
@@ -142,3 +142,10 @@ question, "*Who participates in determining 𝒬*", is this claim's second
 clause: the target cannot be justified by the description that preserves
 it. Neither reply cited the claim. The term the exchange used is filed as
 [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).
+
+Espeland and Sauder, read the same day (NOTE-tmpxq56d), give an instance of
+the merge: the "access university" and the University of New Mexico's
+Native American graduates are what a ranking adequate for applicants and
+firms runs together, and the schools pay to be made legible to it. James et
+al. (NOTE-tmpgi1zu) state the same point in administrative terms, as
+"horizontal neutrality".

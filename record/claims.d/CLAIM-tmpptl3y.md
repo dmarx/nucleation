@@ -1,7 +1,14 @@
 ---
 status: Active
 title: 'In ḋ = (α − κ)d − βd³, with d the difference between two parties'' shares of authority, α their self-reinforcement and κ a constraint that bears on both alike, the equal allocation is the only equilibrium and is stable for κ > α, and for κ < α it is unstable and the unequal allocations ±√((α − κ)/β) are stable: a constraint that favours neither party can, by weakening, decide that one of them will dominate while leaving which one to perturbation, and in this model restoring κ > α restores the equal allocation'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    From the reading of Arthur's 1983 working paper on 2026-10-21
+    (THEORY-tmpxzls4): a second store of advantage beside authority over
+    the rule, in a different model. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -140,7 +147,15 @@ Only the first is demonstrated here.
   authority over the rule itself, the last stage of A19 §6's sequence
   ("Durable authority asymmetry → Changed capacity to revise rules"). That
   is the entrenchment of [CLAIM-277](CLAIM-277.md) and [CLAIM-297](CLAIM-297.md) and the governance profile
-  of [CLAIM-tmpyxupb](CLAIM-tmpyxupb.md), none of it demonstrated here.
+  of [CLAIM-tmpyxupb](CLAIM-tmpyxupb.md), none of it demonstrated here. Arthur's model, read on
+  2026-10-21 through its 1983 working paper (THEORY-tmpxzls4), has another
+  such mechanism: lock-in is absorption in accumulated adoptions, a state a
+  reversal of returns does not touch. "Small subsidies to the excluded
+  choice will not re-establish it; large subsidies, on the other hand,
+  will swing the market and drive the dominant choice out." Accumulated
+  adoptions are a second store of advantage beside authority over the
+  rule; the model is a different one, and nothing of it carries over to
+  this equation. A19's citation of Arthur is accurate to that paper.
 - **Not that symmetry breaking is a failure.** A19 §5: "differentiation can
   be constitutive of an organization", and "We can distinguish desirable
   specialization from problematic entrenchment only after specifying

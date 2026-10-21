@@ -1,7 +1,15 @@
 ---
 status: Proposed
 title: 'Removing a constraint on an organization''s members does not move it along one scale of more or less governance: it changes a profile of who holds rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members'' first-order options and their share in revising the conditions of their action can move in opposite directions'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    From the reading of Hayek 1945 on 2026-10-21 (NOTE-tmp53juk): his §II
+    frames the dispute as who plans, with delegation to organized
+    industries as a third locus, the claim's transfer case. Context only;
+    the claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,6 +57,7 @@ supports:
 - CLAIM-tmpjo2zr
 ---
 <!-- inactive-ok-file: CLAIM-352 CLAIM-354 CLAIM-359 THEORY-470 THEORY-429 — Proposed; open claims and a reading this claim complements or cites as the transfer case, nothing here rests on their being settled -->
+<!-- inactive-ok-file: THEORY-tmp9wdb3 — Proposed; Hayek's argument, cited as context for the transfer case, nothing here rests on it -->
 <!-- inactive-ok-file: TERM-tmpf5k7x — Proposed; named only to say this claim's profile is a different object -->
 
 # CLAIM-tmpyxupb: Removing a constraint on an organization's members does not move it along one scale of more or less governance: it changes a profile of who holds rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members' first-order options and their share in revising the conditions of their action can move in opposite directions
@@ -108,6 +117,16 @@ reading (Proposed, argued from examples), the weakening of regulation
 among other constraints releases a platform's power over its users: the
 authority moves rather than disappears. [THEORY-429](../theory.d/THEORY-429.md) (North) is the nearest
 held reading on institutions as constraints.
+
+Hayek, read on 2026-10-21 (LIT-tmpwcrya, NOTE-tmp53juk), frames the dispute
+the same way, as who plans rather than whether: "a dispute as to whether
+planning is to be done centrally, by one authority for the whole economic
+system, or is to be divided among many individuals", with a third locus,
+"the delegation of planning to organized industries, or, in other words,
+monopoly". That is the transfer case. A18's gloss on Hayek, the
+"informational advantages of certain governance arrangements", is
+accurate. Hayek does not argue that removing public rules decentralizes
+(THEORY-tmp9wdb3, Proposed, is his argument, from examples).
 
 The idea recurs. A19 §6 restated it as "first-order and second-order
 regulation", the second changing "the feedback mechanisms through which

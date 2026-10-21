@@ -12,7 +12,12 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A22 took this claim's XOR example as
     the formal core of legibility (TERM-tmp5lqn0) and called the claim an
-    Active result, which it is not. The claim is unchanged.
+    Active result, which it is not. Extended the same day from the
+    reading of Xu et al. (NOTE-tmpvnsxo): the usable-information
+    literature is now held, its V-information is this claim's usable
+    information under log loss, and THEORY-tmpgz4cf (added to grounds)
+    re-derives the example and states when the ceiling holds in its
+    terms. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -29,6 +34,7 @@ line: pragmatic-transport
 grounds:
 - THEORY-156
 - THEORY-176
+- THEORY-tmpgz4cf
 complements:
 - CLAIM-050
 - CLAIM-087
@@ -45,8 +51,9 @@ summary: >-
   held reading is [THEORY-176](../theory.d/THEORY-176.md)'s "Its loss bounds r's best attainable risk
   for that problem from above", for restricted rules. The example is
   checkable; whether real receivers show such gains is a proposal. The
-  usable-information literature is not held. It does not say which rule
-  class real readers have.
+  usable-information literature was not held when it was filed; Xu et
+  al.'s V-information is now read (note of 2026-10-21). It does not say
+  which rule class real readers have.
 illustrated_by:
 - CASE-062
 ---
@@ -127,8 +134,8 @@ and [CLAIM-050](CLAIM-050.md)'s restated condition does not count it as a defeat
   they do work the receiver cannot.
 - It does not supply an order for usable information with results of its
   own. Restricting the rules loses Blackwell's garbling theorem, as
-  [THEORY-176](../theory.d/THEORY-176.md) shows for stitching, and the literature on usable information
-  is not held here.
+  [THEORY-176](../theory.d/THEORY-176.md) shows for stitching. The literature on usable information was
+  not held here when this was written; see the note of 2026-10-21.
 
 ## Note of 2026-10-10: a case on documented halves
 
@@ -207,3 +214,22 @@ the claim a "result" among "the existing Active mathematical results". The
 claim is Proposed and interpretive, though its example is checkable and
 was rechecked. A second appearance, and a name for what the claim calls
 usable information. The name is filed as [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).
+
+**The usable-information literature, read the same day.** Xu, Zhao, Song,
+Stewart and Ermon 2020 (LIT-tmp07k7g, NOTE-tmpvnsxo), registered at the
+owner's request and read in full. This claim's usable information is their
+V-information under log loss: the receiver's rule class is their
+predictive family V. THEORY-tmpgz4cf re-derives the XOR example for the
+paper's linear-logistic and linear-Gaussian families as well as for this
+claim's one-coordinate receiver: nothing about Z from the pair, all of it
+from the exclusive-or, which is their failure of the data-processing
+inequality. The ceiling holds as stated here, in risk. Stated in
+V-information it needs one condition the paper does not state: the
+family's input-free predictions must be able to match the marginal of the
+target, which this claim's receiver satisfies. Without it V-information
+can exceed Shannon information (THEORY-tmpgz4cf's counterexample). The
+paper never bounds V-information by Shannon information. THEORY-tmp9m1g4
+adds that, for a family of bounded complexity, the quantity can be
+estimated from samples with a stated error. The status is unchanged: the
+defeat condition is empirical, and the reading bears on the example and the
+ceiling, not on whether real receivers gain.

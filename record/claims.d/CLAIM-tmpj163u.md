@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'A contribution''s admission to an organization''s inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor''s part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    The readings of 2026-10-21 added: James et al., Kay et al., Short et
+    al., Collins (THEORY-tmp3d6fm, added to grounds) and, skimmed, Hyzen et
+    al.; Kwok is held and Unavailable. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -24,6 +31,7 @@ rests_on:
 grounds:
 - THEORY-151
 - THEORY-327
+- THEORY-tmp3d6fm
 summary: >-
   A24 §6 of the exchange of 2026-10-20, on the owner's U24: "Someone's
   contribution may be received and politely acknowledged yet have no
@@ -34,6 +42,8 @@ summary: >-
   Longino's tempered equality and [QUESTION-041](../questions.d/QUESTION-041.md)'s channel. It does not say
   that every contribution is owed uptake.
 ---
+<!-- inactive-ok-file: THEORY-tmp3d6fm — Proposed; Collins's outsider within, cited as the standing condition before recognition, and this claim is Proposed with it -->
+<!-- inactive-ok-file: LIT-tmparpsh — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-349 CLAIM-362 THEORY-151 THEORY-327 CLAIM-tmpoxld9 TERM-tmp5lqn0 — Proposed; the claim and readings this one rests on or cites, and it is Proposed with them -->
 
 # CLAIM-tmpj163u: A contribution's admission to an organization's inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor's part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed
@@ -81,7 +91,8 @@ from the members" that keep a course correctable. Longino's uptake is
 decides keeps access to the roles in which it is consequential") is the
 same concern on the authenticity line.
 
-**It recurs.** A25 §5, from Kwok (not held): "**An institution can make a
+**It recurs.** A25 §5, from Kwok (held unread as LIT-tmparpsh, Unavailable
+on 2026-10-21): "**An institution can make a
 contribution intelligible without making it visible to anyone in a
 position to respond.** ... Visibility, interpretability, credibility, and
 practical uptake should therefore remain separate dimensions." A27 §6, of
@@ -90,6 +101,28 @@ affected agents while denying them effective participation in defining the
 decision's relevant questions or criteria", and "Legibility, epistemic
 standing, and governance participation help identify this difference."
 [CLAIM-tmpoxld9](CLAIM-tmpoxld9.md) is the loop by which a closed first rung can persist.
+
+**The readings of 2026-10-21.** James et al. (NOTE-tmpgi1zu) support the
+first point, access widening while nothing else changes, and add that
+admission can itself be the harm: access is "bidirectional", and access
+"down" for powerful players is "politically consequential". Their refusal,
+a "possibility to say no", sits near the top rung, asserted rather than
+analysed. Kay et al. (NOTE-tmpw3hh8) state access without uptake for model
+development: "Participation may not be effective or even possible in the
+case of willful hermeneutical ignorance." Collins (NOTE-tmpj0rwa,
+THEORY-tmp3d6fm) gives the standing condition before recognition: outsiders
+within see anomalies that insiders produced and are not placed to see,
+and lack the authority to press them; her recommendation to
+institutionalize that perspective is a form of the top rung. Short, Hill and
+Brown's process condition, whether regulators elicited and considered
+public views, with the merger guidelines exempt from notice and comment,
+is the difference between a closed rung and an open one in one
+institution (NOTE-tmpxvj22). Hyzen et al. (NOTE-tmp4sv55, skimmed) parallel
+the ladder from the receiver's side, availability to access to knowledge,
+but their stages are an individual's acquisition, not an organization's
+uptake. A25 said the paper "comes particularly close to our conjunction of
+legibility and operational availability"; it is nearer that than this
+ladder.
 
 ## What it does not say
 

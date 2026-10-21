@@ -14,7 +14,7 @@ history:
     for an operationally warranted effective kind; four are A191's, the
     fifth (independence from self-confirming classification) is filed as
     CLAIM-tmpeftzb, and A27's conclusion is not an answer on this question's
-    terms. The question is unchanged.
+    terms. Extended the same day from the reading of Espeland and Sauder, which states the effect sociologically. The question is unchanged.
 tags:
 - metaphysics
 - philosophy-of-science
@@ -159,3 +159,13 @@ necessary ("not five individually necessary conditions"), and its
 conclusion, a domain-relative kind and not a natural kind, is [THEORY-036](../theory.d/THEORY-036.md)
 and [THEORY-273](../theory.d/THEORY-273.md), which it did not cite. The fifth criterion is filed as
 [CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md), which bears on this question without settling it.
+
+Espeland and Sauder, read the same day (NOTE-tmpxq56d), state the effect
+the fifth criterion guards against, sociologically and in passing. Their
+footnote 10, citing Porter on "Hispanics": "As a category acquires
+constituencies who use it, those encompassed by the category develop
+shared interests and identities that make the category more meaningful and
+'real.'" Their conclusion: "the census produces 'Hispanics,' and the LSAT
+defines 'merit.'" It is reported, not studied, and their study is of
+rankings, where every school is under the same measure (THEORY-tmpwpmt2).
+The question stays Open.

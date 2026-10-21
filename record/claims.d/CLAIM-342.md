@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A20–A23 restated this claim's anchor
     for public knowledge and institutions (its second to fifth appearances),
     and A26 built a performative toy with two stable self-confirming
-    classifications (CLAIM-tmpeftzb, CLAIM-tmpjo2zr). The claim is
+    classifications (CLAIM-tmpeftzb, CLAIM-tmpjo2zr). Extended the same day from the readings of Weatherall, O'Connor and Bruner and of Espeland and Sauder. The claim is
     unchanged.
 role: thesis
 warrant: interpretive
@@ -61,7 +61,7 @@ supports:
 - CLAIM-tmpeftzb
 - CLAIM-tmpjo2zr
 ---
-<!-- inactive-ok-file: LIT-tmpngpsy LIT-tmpwbhro — Deferred; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmpnfh8u — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-tmpeftzb CLAIM-tmpjo2zr TERM-tmpe6jtq — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-342: What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available
@@ -179,8 +179,21 @@ behavioral evidence generated under that classification" (checked). It is
 this claim's loop with no independent evidence: every observation passes
 through the category under test. A26 tied it to Perdomo et al.'s
 performative prediction ([LIT-tmpwbhro](../literature.d/LIT-tmpwbhro.md)) and Espeland and Sauder's
-reactivity ([LIT-tmpngpsy](../literature.d/LIT-tmpngpsy.md)), both registered unread, and drew this claim's
+reactivity ([LIT-tmpngpsy](../literature.d/LIT-tmpngpsy.md)), both registered unread then and read the same day (below), and drew this claim's
 conclusion: "stability and accuracy under the prevailing intervention
 regime do not establish correctness under alternative regimes". A27
 carried it into [QUESTION-028](../questions.d/QUESTION-028.md), filed as [CLAIM-tmpeftzb](CLAIM-tmpeftzb.md), which rests on
 this claim.
+
+**Two readings of the same day.** Weatherall, O'Connor and Bruner
+(NOTE-tmp8rwaa): their main remedy for a propagandist's selective sharing
+is to hear more scientists, evidence that reaches the audience without
+passing through the propagandist (THEORY-tmpnq01l). Their audience's state
+is one number, cumulative successes minus failures, fed by both channels
+(THEORY-tmpg79sv), so the independent channel helps exactly as far as it
+outweighs the selected one. Espeland and Sauder (NOTE-tmpxq56d) report a
+loop whose evidence passes through the interpretation it tests: the
+reputation survey, in which raters score schools in part by the rank the
+scores feed (Stake 2006 as they cite it; Schmalbeck 2001 contra), the
+quantitative link cited, not shown (THEORY-tmpnfh8u). Perdomo et al.,
+read the same day, are in CLAIM-tmpeftzb.

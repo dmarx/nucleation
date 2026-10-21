@@ -3,7 +3,18 @@ status: Proposed
 complements:
 - TERM-020
 title: 'capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    The readings of 2026-10-21 added. The OECD report is now held and read
+    (NOTE-tmpk4llg): its own definition adds the captor's intent and an
+    explicit policy goal, so intent is a third difference between the two
+    senses. Stigler is held and Unavailable. Schram and Ule, Besley and
+    Prat, Short, Hill and Brown, Barnehl and Schumacher, Szeidl and Szucs
+    and Di Tella and Franceschelli are placed against the two senses and
+    the outside standard. The definition is unchanged.
 tags:
 - self-governance
 - society-and-governance
@@ -19,6 +30,8 @@ summary: >-
 used_by:
 - CLAIM-tmpjo2zr
 ---
+<!-- inactive-ok-file: THEORY-tmpw39mh — Proposed; Short, Hill and Brown's general form, cited as an instance of the sense not adopted -->
+<!-- inactive-ok-file: LIT-tmphei2g — Unavailable; Stigler, named as the source A20 cited, which no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-277 CLAIM-297 CLAIM-342 CLAIM-359 CLAIM-tmpjo2zr — Proposed; open claims that use the word or this definition, cited as open -->
 
 # TERM-tmpe6jtq: capture, of an organization's evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process
@@ -58,10 +71,43 @@ speaks of "safeguards against capture". None defines it.
 sense: "Regulatory capture concerns the subordination of regulatory
 decisions to particular interests rather than the regulatory
 institution's designated public purposes" (A20 §1, after the OECD's
-"policy capture", not held), and Stigler's theory of regulation demanded
-by industry (A20 §6, not held). That sense is purpose-relative and need
-not involve any interpretation–authority loop: a decision bought outright
-is captured in it. This definition takes from it only the outside
+"policy capture"), and Stigler's theory of regulation demanded by industry
+(A20 §6; LIT-tmphei2g, Unavailable on 2026-10-21). That sense is
+purpose-relative and need not involve any interpretation–authority loop:
+a decision bought outright is captured in it.
+
+The OECD report, read on 2026-10-21 (LIT-tmpiiau9, NOTE-tmpk4llg), words
+it so: "Policy capture is the process of consistently or repeatedly
+directing public policy decisions away from the public interest towards
+the interests of a specific interest group or person", and its first
+chapter adds "by the intent and action of this group or person". Its three
+criteria, after Carpenter and Moss: "An overarching policy goal(s) must be
+explicitly defined", "The captor (group) must intend to extract rents",
+and a shift of the process away from the goal. Against A20's paraphrase
+that adds intent, a third difference between the senses beside the
+purpose-relative standard and the loop: this term needs no intent, since
+[CLAIM-330](../claims.d/CLAIM-330.md)'s loop can capture with nobody intending it. The first criterion is
+this term's standard from outside, made explicit, and "consistently or
+repeatedly" is its durability condition.
+
+Other readings of the day fall on the institutional side. Schram and Ule's
+capture is assigned, a policymaker's payoff set equal to the operator's,
+with no loop and no intent condition (NOTE-tmpze6la). Besley and Prat's
+"captured" press receives a transfer in exchange for silence, one-shot: the
+decision bought outright (THEORY-tmp6l5uw). Short, Hill and Brown's is
+diversion from the public interest through an adopted criterion, judged
+against measured public values, which they distinguish from public
+preferences (THEORY-tmpw39mh, Proposed; THEORY-tmp1kuko). Barnehl and
+Schumacher add a coercion condition, "an outlet has to be coerced by an
+external actor to alter its editorial choices", under which a merely
+agreeing outlet is not captured, a condition this term lacks; their
+measure gives the outside standard operationally, with uncoercible
+opposition outlets as one pole, though alignment is not causal
+identification (THEORY-tmp5rkez). Szeidl and Szucs show why an outside
+reference is needed: their slant is measured against a critical reference
+outlet that nets out the neutral level (THEORY-tmpwiydx). Di Tella and
+Franceschelli's within-newspaper comparison is the weakest form of such a
+standard, blind to a bias every paper shares (THEORY-tmplatcg). This definition takes from it only the outside
 standard. If the owner wants both, the institutional one would be a
 narrower TERM that `refines` this one, with the evaluator a public
 institution and the interest a party outside it.

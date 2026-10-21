@@ -36,7 +36,7 @@ history:
     description, agency and legibility: A24 read this question right and
     drew its feedback chain for the record's own registry and filing, which
     is CLAIM-181 and CLAIM-182; CLAIM-tmpoxld9 connects the Fricker readings
-    to the distributed-agency line. The question is unchanged.
+    to the distributed-agency line. Extended the same day from the readings of Kay et al. and Collins, neither of which tests the question. The question is unchanged.
 tags:
 - epistemology
 - design-rationale
@@ -60,7 +60,7 @@ answered_by:
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the reading this question was filed ahead of, read only in the author's précis -->
 <!-- inactive-ok-file: THEORY-327 THEORY-326 — Proposed; the accounts filed 2026-10-14 from Fricker's own papers, named in a dated note -->
 <!-- inactive-ok-file: THEORY-317 — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
-<!-- inactive-ok-file: CLAIM-181 CLAIM-182 CLAIM-277 CLAIM-tmpoxld9 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-181 CLAIM-182 CLAIM-277 CLAIM-tmpoxld9 THEORY-tmpzqfxe THEORY-tmp3d6fm — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 
@@ -159,3 +159,14 @@ A24 did not cite. A24's account that the Fricker readings are "largely
 isolated from the distributed-agency and effective-description lines" is
 right except for [CLAIM-277](../claims.d/CLAIM-277.md)'s pointer here. [CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md) now connects
 them.
+
+Two readings of the same day make the record's own position concrete
+without testing it. Kay, Kasirzadeh and Mohamed (NOTE-tmpw3hh8) locate
+testimonial injustice in a credibility excess assigned to a generative
+model (THEORY-tmpzqfxe). The record is largely written by one, so a
+credibility excess for the filer's framing, and the model's hermeneutical
+gaps, are hazards of its own grammar. Collins (NOTE-tmpj0rwa, read in
+translation) gives part 1 a positive counterpart: an outsider within, a
+contributor whose moves fit the grammar only partly, may be the one placed
+to see what it omits (THEORY-tmp3d6fm). Neither is evidence about this
+record, and the question stays Open.

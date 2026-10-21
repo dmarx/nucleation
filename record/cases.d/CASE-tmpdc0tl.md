@@ -1,7 +1,15 @@
 ---
 status: Active
 title: 'A hidden governance bit: an output that is fresh fair noise whatever a fixed hidden bit K is, until an intervention h makes the output read K, so the output alone is exactly informationally closed under ordinary operation and keeps nothing about the response to h'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    From the readings of 2026-10-21 of the causal-abstraction papers:
+    the case also separates governance-response sufficiency from exact
+    transformation and τ-abstraction (CLAIM-tmp4r4mi). The case is
+    unchanged.
 standing: fictional
 kind: construction
 tags:
@@ -80,6 +88,14 @@ regime", for a stipulated hidden parameter. It is a case where [QUESTION-093](..
 predictive and interventional autonomy come apart. It is also a
 refinement chain, constant ⪯ Y_t ⪯ (K, Y_t), on which Γ falls 0.5, 0.5, 0,
 as [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md) says it must.
+
+It also separates governance-response sufficiency from causal abstraction
+as Rubenstein et al. and Beckers and Halpern define it. Written as a
+structural model with interventions on h only, dropping K is an exact
+transformation and a τ-abstraction, and its approximate-abstraction
+distance is 0, because the coarse model's noise can carry K
+(THEORY-tmpjfhcb, THEORY-tmpjtnjd, THEORY-tmpe391l); the coarse state still
+keeps nothing of the response to h (CLAIM-tmp4r4mi).
 
 What it cannot show, given its standing:
 
