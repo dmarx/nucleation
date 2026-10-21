@@ -13,12 +13,11 @@ summary: >-
   [QUESTION-005](../questions.d/QUESTION-005.md), 031, 055, 067 and 135; [CASE-041](../cases.d/CASE-041.md), 070 and 071) with no TERM.
   [CLAIM-264](../claims.d/CLAIM-264.md) (Active, demonstrated) holds the mathematics. Asked for at A13
   and A14 of the exchange of 2026-10-20. [TERM-033](TERM-033.md), fidelity as
-  observational equivalence over response trajectories (Superseded), is
+  observational equivalence over response trajectories, is
   its case with response trajectories as the probes, and [TERM-014](TERM-014.md)'s
   communicative object is a class of it. Proposed: recorded, not adopted.
 ---
 <!-- inactive-ok-file: CLAIM-139 — Proposed; listed as one of the entries using the phrase, nothing here rests on it -->
-<!-- inactive-ok-file: TERM-033 — Superseded; the fidelity sense that is this term's special case, named as history -->
 <!-- inactive-ok-file: CLAIM-142 CLAIM-322 — Proposed; the evidential reading of probe agreement, cited as open -->
 
 # TERM-tmple6rq: observational equivalence, under a probe family: two models, states or distributions agreeing on the outcome law of every probe in a declared admissible family; coarser than identity unless the family is rich enough, and, when probes are run one at a time, weaker on their marginals than on the joint law across them
@@ -50,7 +49,7 @@ Special cases the record already holds:
 - **Response trajectories as the probes.** [TERM-033](TERM-033.md), fidelity as
   observational equivalence over response trajectories, compares
   P_o(Y_1:k | a_1:k) with P_t(Y′_1:k | a′_1:k) under corresponding
-  interventions. [TERM-033](TERM-033.md) is Superseded by [TERM-015](TERM-015.md), and [TERM-043](TERM-043.md)'s causal
+  interventions. [TERM-033](TERM-033.md) names [TERM-015](TERM-015.md) as its successor (`superseded_by`, though its status is Active), and [TERM-043](TERM-043.md)'s causal
   component keeps its comparison. It is the narrower term, so the relation
   runs from [TERM-033](TERM-033.md) to this one, and is left in prose.
 - **A communicative object** ([TERM-014](TERM-014.md)) is "an equivalence class of
