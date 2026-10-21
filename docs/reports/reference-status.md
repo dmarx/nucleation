@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**481 documents cited without acknowledgement.** Not listed: 10236 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**481 documents cited without acknowledgement.** Not listed: 10242 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1204,6 +1204,23 @@ Classical Boolean logic is restored when a presheaf of contextual data acquires 
 - [`record/notes.d/NOTE-334.md:139`](../../record/notes.d/NOTE-334.md)
 - [`record/notes.d/NOTE-334.md:141`](../../record/notes.d/NOTE-334.md)
 
+### [THEORY-209](../../record/theory.d/THEORY-209.md) — Proposed
+
+A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
+
+10 citations in 4 files await a look; 27 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
+- [`record/literature.d/LIT-970.md:80`](../../record/literature.d/LIT-970.md)
+- [`record/notes.d/NOTE-712.md:112`](../../record/notes.d/NOTE-712.md)
+- [`record/notes.d/NOTE-712.md:129`](../../record/notes.d/NOTE-712.md)
+- [`record/theory.d/THEORY-210.md:36`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:65`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:133`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:136`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:137`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-829.md:14`](../../record/theory.d/THEORY-829.md)
+
 ### [CLAIM-166](../../record/claims.d/CLAIM-166.md) — Proposed
 
 A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest
@@ -1363,22 +1380,6 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 - [`record/theory.d/THEORY-090.md:191`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-102.md:185`](../../record/theory.d/THEORY-102.md)
 - [`record/theory.d/THEORY-102.md:187`](../../record/theory.d/THEORY-102.md)
-
-### [THEORY-209](../../record/theory.d/THEORY-209.md) — Proposed
-
-A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
-
-9 citations in 3 files await a look; 27 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
-- [`record/literature.d/LIT-970.md:80`](../../record/literature.d/LIT-970.md)
-- [`record/notes.d/NOTE-712.md:112`](../../record/notes.d/NOTE-712.md)
-- [`record/notes.d/NOTE-712.md:129`](../../record/notes.d/NOTE-712.md)
-- [`record/theory.d/THEORY-210.md:36`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:65`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:133`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:136`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:137`](../../record/theory.d/THEORY-210.md)
 
 ### [THEORY-468](../../record/theory.d/THEORY-468.md) — Proposed
 
@@ -2183,6 +2184,19 @@ Moral judgment draws on several innately prepared intuitive foundations, at leas
 - [`record/theory.d/THEORY-613.md:86`](../../record/theory.d/THEORY-613.md)
 - [`record/theory.d/THEORY-626.md:86`](../../record/theory.d/THEORY-626.md)
 
+### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
+
+The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
+
+6 citations in 2 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:77`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:82`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-829.md:13`](../../record/theory.d/THEORY-829.md)
+
 ### [CLAIM-024](../../record/claims.d/CLAIM-024.md) — Proposed
 
 Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names
@@ -2542,18 +2556,6 @@ If pretraining text is a mixture of hidden Markov models indexed by a latent con
 - [`record/questions.d/QUESTION-161.md:26`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:35`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:43`](../../record/questions.d/QUESTION-161.md)
-
-### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
-
-The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
-
-5 citations in 1 file await a look; 2 other citations of it are acknowledged.
-
-- [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:77`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:82`](../../record/theory.d/THEORY-770.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 

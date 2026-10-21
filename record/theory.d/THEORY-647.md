@@ -20,7 +20,7 @@ history:
   date: '2026-10-21'
   note: >-
     The promotion audit (batch 078) split this THEORY's conditional result
-    off as THEORY-tmpicur7, Active, re-derived from finite subadditivity
+    off as THEORY-829, Active, re-derived from finite subadditivity
     and Hrbacek's Closure principle (ADR-040, ADR-047 v2). This THEORY
     keeps Wenmackers's thesis that outright belief works this way and that
     the Lottery Paradox dissolves; it now extends the split result, stays
@@ -29,7 +29,7 @@ tags:
 - epistemology
 - logic
 extends:
-- THEORY-tmpicur7
+- THEORY-829
 date: '2026-10-16'
 source:
 - LIT-163
@@ -102,7 +102,7 @@ result about the model, not about believers.
 
 The conditional result in this title, that conjunction holds for any
 standard number of believed propositions and can fail for an ultralarge
-number, is now [THEORY-tmpicur7](THEORY-tmpicur7.md), Active, with the re-derivation written out.
+number, is now [THEORY-829](THEORY-829.md), Active, with the re-derivation written out.
 The title's "fails for an ultralarge number" is stronger than what is
 proved: conjunction *can* fail for an ultralarge number (the fair lottery),
 not for every ultralarge collection. What stays open here is the thesis:
@@ -111,7 +111,7 @@ accumulation of negligible rounding errors.
 
 ## Connections
 
-- It extends [THEORY-tmpicur7](THEORY-tmpicur7.md), the conditional result inside relative
+- It extends [THEORY-829](THEORY-829.md), the conditional result inside relative
   analysis.
 
 - It applies the rounding diagnosis of the thesis's lottery construction

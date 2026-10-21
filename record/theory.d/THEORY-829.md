@@ -1,5 +1,8 @@
 ---
+number: 829
 status: Active
+formerly:
+- THEORY-tmpicur7
 title: "In Hrbacek's relative analysis, if belief at a context level is credence ultraclose to 1 at that level, the conjunction of any standard number of believed propositions is believed, while for an ultralarge number it can fail: in a fair lottery with an ultralarge number of tickets each 'this ticket loses' is believed and their conjunction has probability 0"
 version: 1
 history:
@@ -32,7 +35,7 @@ extended_by:
 ---
 <!-- inactive-ok-file: THEORY-647 — Proposed; the thesis this result was split from, cited for what it argues -->
 
-# THEORY-tmpicur7: In Hrbacek's relative analysis, if belief at a context level is credence ultraclose to 1 at that level, the conjunction of any standard number of believed propositions is believed, while for an ultralarge number it can fail: in a fair lottery with an ultralarge number of tickets each 'this ticket loses' is believed and their conjunction has probability 0
+# THEORY-829: In Hrbacek's relative analysis, if belief at a context level is credence ultraclose to 1 at that level, the conjunction of any standard number of believed propositions is believed, while for an ultralarge number it can fail: in a fair lottery with an ultralarge number of tickets each 'this ticket loses' is believed and their conjunction has probability 0
 
 ## Source
 
