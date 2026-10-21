@@ -14,10 +14,22 @@ promote_when: >-
   fixed probability. More proofs inside relative analysis cannot settle it;
   they show the model is consistent, not that belief works this way.
 title: "If outright belief is credence ultraclose to 1 relative to a context level, conjunction holds for any standard ('few') number of believed propositions and fails for an ultralarge number, which dissolves the Lottery Paradox as an accumulation of negligible rounding errors"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    The promotion audit (batch 078) split this THEORY's conditional result
+    off as THEORY-tmpicur7, Active, re-derived from finite subadditivity
+    and Hrbacek's Closure principle (ADR-040, ADR-047 v2). This THEORY
+    keeps Wenmackers's thesis that outright belief works this way and that
+    the Lottery Paradox dissolves; it now extends the split result, stays
+    Proposed, and its promote_when is unchanged. Title unchanged.
 tags:
 - epistemology
 - logic
+extends:
+- THEORY-tmpicur7
 date: '2026-10-16'
 source:
 - LIT-163
@@ -86,7 +98,21 @@ result about the model, not about believers.
 - **That belief is graded.** Belief is binary here. One context level is
   allowed per agent at a time.
 
+## Note, 2026-10-21
+
+The conditional result in this title, that conjunction holds for any
+standard number of believed propositions and can fail for an ultralarge
+number, is now [THEORY-tmpicur7](THEORY-tmpicur7.md), Active, with the re-derivation written out.
+The title's "fails for an ultralarge number" is stronger than what is
+proved: conjunction *can* fail for an ultralarge number (the fair lottery),
+not for every ultralarge collection. What stays open here is the thesis:
+that belief has context levels and that the Lottery Paradox is an
+accumulation of negligible rounding errors.
+
 ## Connections
+
+- It extends [THEORY-tmpicur7](THEORY-tmpicur7.md), the conditional result inside relative
+  analysis.
 
 - It applies the rounding diagnosis of the thesis's lottery construction
   ([THEORY-401](THEORY-401.md)) to belief.
