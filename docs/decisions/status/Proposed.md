@@ -4,7 +4,7 @@
 
 **Proposed** — not in force yet — an open question, so citing it as settled is the thing the report catches.
 
-2 of 48 decisions. Back to the [full index](../README.md).
+2 of 49 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

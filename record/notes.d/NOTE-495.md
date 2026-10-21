@@ -27,7 +27,7 @@ summary: >-
   support for non-cognitive theories while warning fMRI may be too coarse.
 ---
 
-<!-- inactive-ok-file: THEORY-102 THEORY-100 — Proposed; named as accounts this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-100 — Proposed; named as accounts this reading bears on, not leaned on -->
 
 # NOTE-495: What Is Wrong with the No-Report Paradigm and How to Fix It
 

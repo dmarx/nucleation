@@ -31,7 +31,7 @@ summary: >-
   access untested, and admits the main theories cannot yet be told apart.
 ---
 
-<!-- inactive-ok-file: THEORY-102 THEORY-100 THEORY-023 — Proposed; named as theories this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-100 THEORY-023 — Proposed; named as theories this reading bears on, not leaned on -->
 <!-- inactive-ok-file: THEORY-096 THEORY-098 THEORY-103 — Proposed; the theory filed from this reading and its rivals, named as filed -->
 
 # NOTE-510: Mashour, Roelfsema, Changeux & Dehaene — Conscious Processing and the Global Neuronal Workspace Hypothesis

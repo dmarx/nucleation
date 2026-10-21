@@ -25,7 +25,7 @@ summary: >-
   and right dlPFC TMS that impair working memory.
 ---
 
-<!-- inactive-ok-file: THEORY-102 THEORY-103 — Proposed; named as an account this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-103 — Proposed; named as an account this reading bears on, not leaned on -->
 
 # NOTE-500: Perceptual consciousness overflows cognitive access
 

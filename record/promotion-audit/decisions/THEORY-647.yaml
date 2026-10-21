@@ -1,0 +1,71 @@
+id: THEORY-647
+batch: batch-078
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: split
+confidence: high
+title_asserts: argument with a conditional theorem attached
+formal_in_fact: partly
+hand_label: conditional theorem in relative analysis, plus an argument that belief works this way
+triage007_class: theorem
+classifier_agrees: true
+scope:
+  accepted: >-
+    Sorted by hand: the title bundles a conditional result inside
+    Hrbacek's relative analysis with Wenmackers's thesis that outright
+    belief works this way and that the Lottery Paradox dissolves. The
+    conditional result re-derives, and Wenmackers states and proves it
+    (LIT-163, Ch. 3, Def. 2, eq. 3.5 and §3.6.3.2; NOTE-139 C8, strong
+    within relative analysis). It is split off under ADR-040 as its own
+    Active THEORY, on the pattern of THEORY-770 from THEORY-673 and
+    THEORY-779 from THEORY-209. THEORY-647 keeps the thesis and extends
+    the new THEORY.
+
+    Re-derivation. Work at a context level V. A real x is V-ultrasmall
+    if x is nonzero and |x| < r for every V-standard r > 0; x ≃_V y means
+    x - y is V-ultrasmall or 0. Stratified Belief: B(E) iff
+    P(E) ≃_V 1. Let E_1, ..., E_n be believed, with n V-standard, and put
+    e_i = 1 - P(E_i). Each e_i is 0 or V-ultrasmall, and e_i >= 0.
+    (1) Finite subadditivity, an ordinary theorem valid for every finite
+    n: 1 - P(E_1 ∧ ... ∧ E_n) = P(¬E_1 ∨ ... ∨ ¬E_n) <= e_1 + ... + e_n.
+    (2) Fix any V-standard r > 0. Since r and n are V-standard, r/n is
+    V-standard by the Closure principle (anything defined from V-standard
+    parameters is V-standard). (3) Each e_i is below every V-standard
+    positive number, so e_i < r/n for each i, and the sum is below
+    n (r/n) = r. (4) r was arbitrary, so the sum is 0 or V-ultrasmall,
+    and 1 >= P(E_1 ∧ ... ∧ E_n) >= 1 - sum, so the conjunction is
+    ultraclose to 1: it is believed. The step uses Closure, not
+    induction on n, which matters because induction fails across levels
+    (NOTE-139, glossary). (5) Failure for an ultralarge number: take a
+    fair lottery with N tickets, N V-ultralarge, so 1/N is V-ultrasmall.
+    "Ticket i loses" has probability 1 - 1/N ≃_V 1 and is believed for
+    every i, but the conjunction of all N has probability 0
+    (1 - N/N = 0), so it is not believed. Step (2) fails there because
+    r/N is not V-standard.
+  excluded: >-
+    The thesis: that outright belief is credence ultraclose to 1 relative
+    to a context level, and that this dissolves the Lottery Paradox. The
+    promote_when asks for an account of what fixes the level that does
+    not collapse into a threshold, and for evidence that reasoners'
+    conjunction behaviour tracks the context. Neither can be met by
+    argument or re-derivation; the promote_when itself says more proofs
+    cannot settle it. The title also says conjunction "fails" for an
+    ultralarge number; strictly it can fail (N copies of one proposition
+    never fail). That is noted in the dated note, not a reason to narrow,
+    since the thesis stays Proposed.
+evidence:
+  - "Wenmackers (2011), LIT-163, Ch. 3 (Defs. 1-3, eqs. 3.4-3.5, §3.5.3.1 level axioms, §3.6.3.2), read in full in NOTE-139."
+  - "This review's re-derivation (scope.accepted), using only finite subadditivity and Hrbacek's Closure principle."
+blockers:
+  - "The thesis needs an operational account of the context level and behavioural evidence on conjunction; none is held."
+dropped_clauses: []
+notes: >-
+  No narrowing, so ADR-047 v4's routing does not apply: the title is
+  kept, and the formal core is filed beside it. The new THEORY states the
+  conditional result with "can fail" for ultralarge collections.
+unlocks: []
+next_action: >-
+  Split (PR on claude/split-theory-647). THEORY-647 stays Proposed,
+  extends the new THEORY and gets a dated note. Requeue the thesis only
+  when its promote_when's evidence is filed.

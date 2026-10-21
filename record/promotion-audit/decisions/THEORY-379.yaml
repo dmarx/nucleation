@@ -1,0 +1,93 @@
+id: THEORY-379
+batch: batch-077
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+formal_in_fact: true
+hand_label: theorem (algorithmic upper bound) plus a reported lower bound
+triage007_class: theorem
+classifier_agrees: true
+scope:
+  accepted: >-
+    Sorted by hand: an algorithmic theorem with two halves, an upper bound
+    for Fagin's Algorithm (FA) and a matching lower bound for strict
+    combining functions. The promote_when asks for a reading of Fagin's
+    proof (LIT-1108, Unavailable). Under ADR-047 v2 a step-by-step
+    re-derivation meets it. The upper bound and FA's correctness
+    re-derive here; the lower bound does not, and it is routed to a new
+    Proposed THEORY (ADR-047 v4, kind 1).
+
+    Setting. m lists, each holding all N objects sorted by one grade;
+    sorted access reads a list in order, random access fetches one
+    object's grade in one list. FA: read all m lists in parallel to the
+    first depth T at which at least k objects have been seen in every
+    list; then fetch every missing grade of every object seen; return the
+    k objects with the highest combined grade f(x_1..x_m).
+
+    Correctness (any monotone f). Let Y be k objects seen in all m lists
+    by depth T. An object z never seen under sorted access ranks below
+    depth T in every list, so in each list i its grade is at most the
+    grade of every y in Y. Monotonicity gives f(z) <= f(y) for every y in
+    Y, so at least k seen objects score at least f(z), and the top k can
+    be taken from the seen objects. No probability is used.
+
+    Upper bound. Probability model: the m orderings are independent, and
+    at least m-1 of them are uniformly random permutations (the reported
+    statement says only "probabilistically independent"; see the
+    mis-statement below). Let A_i be the set of objects in the top t of
+    list i, X_t = |A_1 n ... n A_m|, and T the least t with X_t >= k.
+    - For a uniform list, P(x in A_i) = t/N. With one arbitrary list and
+      m-1 independent uniform ones, E X_t = t (t/N)^(m-1) = N (t/N)^m.
+    - Variance. Within one uniform t-subset, distinct objects are
+      negatively correlated: P(x, y in A_i) = t(t-1)/(N(N-1)) <= (t/N)^2.
+      Across independent lists the joint probability is the product, so
+      Cov(1[x in all], 1[y in all]) <= 0 and Var X_t <= E X_t.
+    - Take t = ceil(c t*), t* = N^((m-1)/m) k^(1/m), c > 1. Then
+      E X_t >= c^m k, and by Chebyshev
+      P(T > t) = P(X_t < k) <= Var/(E-k)^2 <= E/(E-k)^2
+      <= c^m k/((c^m - 1)^2 k^2) <= c^m/(c^m - 1)^2, which goes to 0 as c
+      grows. (If c t* >= N then T <= N <= c t* trivially.)
+    - Cost. Sorted accesses are m T. At most m T objects are seen, each
+      needing at most m - 1 random accesses, so random accesses are at
+      most m(m-1) T and the total is at most m^2 T.
+    So for any eps > 0 there is c with P(cost > m^2 c t*) < eps: cost is
+    O(N^((m-1)/m) k^(1/m)) "with arbitrarily high probability", with the
+    constant depending on m and eps. This is the reported bound.
+
+    Numerical check (numpy; recipe: for each run draw m independent
+    uniform permutations of N objects, take each object's worst rank,
+    sort, and read the k-th smallest + 1 as T; 200 runs per setting).
+    T/t* had median 0.86-1.00 and 95th percentile 1.11-1.68 over
+    (N, m, k) in {(1e4,2,1), (1e4,2,10), (1e5,2,10), (1e5,3,10),
+    (1e5,3,1), (1e6,3,5), (1e5,4,10)}; the maximum over all runs was 2.12.
+  not_accepted: >-
+    The lower bound: "for strict combining functions no correct algorithm
+    does essentially better in the worst case with high probability". It
+    is Fagin's, reported by Fagin, Lotem and Naor (LIT-1115, NOTE-924);
+    the record has not read the proof (LIT-1108 Unavailable) and this
+    review did not re-derive it. A lower bound over all correct
+    algorithms, with random access allowed, needs an adversary argument
+    that a batch cannot check from the report.
+dropped_clauses:
+  - clause: for strict combining functions no correct algorithm does essentially better in the worst case with high probability
+    kind: 1
+    route: new Proposed THEORY carrying Fagin's lower bound, same sources, extends THEORY-379, inheriting its promote_when
+  - clause: independence of the orderings as the whole probability model
+    kind: 3
+    route: >-
+      note only. Independence alone does not suffice: two deterministic
+      lists in opposite orders are independent, and FA then needs depth
+      about N/2 for k = 1, against t* = sqrt(N). The re-derivation needs
+      m-1 of the orderings uniform; the narrowed title says so.
+blockers: []
+recommended_change: >-
+  Promote THEORY-379 narrowed: FA is correct for monotone f, and when the
+  orderings are independent with at least m-1 uniformly random, its cost
+  is O(N^((m-1)/m) k^(1/m)) with arbitrarily high probability; with
+  dependent orderings the bound can fail. File Fagin's lower bound for
+  strict functions as a Proposed THEORY extending it, inheriting the
+  promote_when (a reading of Fagin's proof).
+owner_questions: []
