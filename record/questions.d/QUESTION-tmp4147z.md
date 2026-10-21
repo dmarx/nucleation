@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'In the coupled meaning–authority model, is authority''s effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already CLAIM-340''s κ′, how far the prevailing interpretation bends the reading of the evidence?'
+title: 'In the coupled meaning–authority model, is authority''s effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime''s κ′, how far the prevailing interpretation bends the reading of the evidence?'
 version: 1
 tags:
 - complex-systems
@@ -22,7 +22,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-338 CLAIM-342 CLAIM-297 TERM-tmp5lqn0 — Proposed; the claims and the candidate term the question works from, cited as open -->
 
-# QUESTION-tmp4147z: In the coupled meaning–authority model, is authority's effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already [CLAIM-340](../claims.d/CLAIM-340.md)'s κ′, how far the prevailing interpretation bends the reading of the evidence?
+# QUESTION-tmp4147z: In the coupled meaning–authority model, is authority's effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime's κ′, how far the prevailing interpretation bends the reading of the evidence?
 
 ## Why it is a question
 
