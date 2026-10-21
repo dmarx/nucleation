@@ -19,7 +19,7 @@ date: '2026-10-21'
 source:
 - LIT-tmp6b6sj
 summary: >-
-  Szeidl and Szucs (2021), LIT-tmp6b6sj, read in NOTE-tmpefpic. Two-way
+  Szeidl and Szucs (2021), [LIT-tmp6b6sj](../literature.d/LIT-tmp6b6sj.md), read in [NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md). Two-way
   favors in the reduced form: government-controlled advertising follows
   connection status where private advertising does not, and corruption
   coverage moves against it. Hungary under right-wing governments only;
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Szeidl and Szucs, "Media Capture Through Favor Exchange", *Econometrica*
-89(1): 281–310 (2021), LIT-tmp6b6sj, read in full in NOTE-tmpefpic,
+89(1): 281–310 (2021), [LIT-tmp6b6sj](../literature.d/LIT-tmp6b6sj.md), read in full in [NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md),
 with Appendix A.2 of the supplement.
 
 ## What was actually shown
@@ -74,7 +74,7 @@ audience-led explanation predicts.
 
 - **Not why the content moved.** The reduced form cannot tell an owner who
   shared the government's view from one paid by it. That split needs the
-  structural model (THEORY-tmplydnj, Proposed).
+  structural model ([THEORY-tmplydnj](THEORY-tmplydnj.md), Proposed).
 - **Not that left-wing governments did otherwise.** The authors take no
   stand on favoritism under left governments.
 - **Not that advertising was the only favor**, nor corruption coverage the

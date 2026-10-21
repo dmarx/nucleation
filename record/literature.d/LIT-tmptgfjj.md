@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmp01hhe) in full, from the authors' 2005 working paper in LSE Research Online; worth reading for the model of media capture as a bargain (each outlet must be paid what it would earn as the only one to break the story, so the press is captured exactly when n·τa < r, THEORY-tmp6l5uw), for its precise sense of media independence as the transaction cost of transfers, and for the observation that capture needs no deception. Read it knowing that it is static, that news in it is hard and the same at every outlet, that its cross-country table is raw means, and that the published AER text was not compared.
+  read 2026-10-21 ([NOTE-tmp01hhe](../notes.d/NOTE-tmp01hhe.md)) in full, from the authors' 2005 working paper in LSE Research Online; worth reading for the model of media capture as a bargain (each outlet must be paid what it would earn as the only one to break the story, so the press is captured exactly when n·τa < r, [THEORY-tmp6l5uw](../theory.d/THEORY-tmp6l5uw.md)), for its precise sense of media independence as the transaction cost of transfers, and for the observation that capture needs no deception. Read it knowing that it is static, that news in it is hard and the same at every outlet, that its cross-country table is raw means, and that the published AER text was not compared.
 title: 'Handcuffs for the Grabbing Hand? Media Capture and Government Accountability'
 version: 2
 history:
@@ -36,9 +36,9 @@ summary: >-
 
 Besley, T. & Prat, A. (2006). Handcuffs for the Grabbing Hand? Media Capture and Government Accountability. *American Economic Review* 96(3): 720–736. doi:10.1257/aer.96.3.720.
 
-Read 2026-10-21 in full, from the 2005 working paper (NOTE-tmp01hhe). The capture
-condition is held as THEORY-tmp6l5uw.
+Read 2026-10-21 in full, from the 2005 working paper ([NOTE-tmp01hhe](../notes.d/NOTE-tmp01hhe.md)). The capture
+condition is held as [THEORY-tmp6l5uw](../theory.d/THEORY-tmp6l5uw.md).
 
 ## Why this is here
 
-A21 cited it as the model of endogenous media capture: "influencing news content doesn't necessarily require formal censorship." The captured institution is the one that should evaluate another, which is the loop [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md) says a captured evaluator closes, and the shape of [CASE-tmp3uarw](../cases.d/CASE-tmp3uarw.md). The reading (NOTE-tmp01hhe) finds the model static: capture is a one-shot bargain between the incumbent and every outlet, with no feedback from one period to the next, so it bears on the claim's evidence route and on formal independence, not on its loop.
+A21 cited it as the model of endogenous media capture: "influencing news content doesn't necessarily require formal censorship." The captured institution is the one that should evaluate another, which is the loop [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md) says a captured evaluator closes, and the shape of [CASE-tmp3uarw](../cases.d/CASE-tmp3uarw.md). The reading ([NOTE-tmp01hhe](../notes.d/NOTE-tmp01hhe.md)) finds the model static: capture is a one-shot bargain between the incumbent and every outlet, with no feedback from one period to the next, so it bears on the claim's evidence route and on formal independence, not on its loop.

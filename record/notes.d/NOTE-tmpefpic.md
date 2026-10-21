@@ -118,7 +118,7 @@ government.
 - **Proposition 2 (supply of slant) and (8).** With masⱼ = E[a₁ⱼ(1 − a₁ⱼ)],
   s₁ − s₂ = (ŝ₁ − ŝ₂) + (βδ/NT)·Σ over government advertisers of
   masⱼWⱼ + ξ. Readers' preference cancels. Both propositions are
-  re-derived in THEORY-tmpwiydx.
+  re-derived in [THEORY-tmpwiydx](../theory.d/THEORY-tmpwiydx.md).
 - **Table IV.** δ is 421 online, 513 in print and 441 pooled. γ is −53, −149
   and −69, so the marginal reader dislikes slant. β is 1.38, 1.63 and 1.50,
   all with bootstrapped intervals excluding zero. Origo's new owner's ideal
@@ -146,7 +146,7 @@ government.
 |---|---|---|---|
 | C1 | Hungarian governments of the right steered state-owned firms' advertising to connected outlets, beyond what audiences explain | strong | five events, private advertisers as control, audience data online, price evidence |
 | C2 | Connected outlets reduced corruption coverage when connected and raised it when the connection ended | strong for online, moderate for print | Tables A.V–A.VI; timing in the fallout |
-| C3 | In the model, the slant gap between connected and unconnected outlets is ideal-point gap plus a favor-exchange term, with readers' preference cancelling | strong (derivation) | Propositions 1–2; re-derived in THEORY-tmpwiydx |
+| C3 | In the model, the slant gap between connected and unconnected outlets is ideal-point gap plus a favor-exchange term, with readers' preference cancelling | strong (derivation) | Propositions 1–2; re-derived in [THEORY-tmpwiydx](../theory.d/THEORY-tmpwiydx.md) |
 | C4 | Both owner ideology and favor exchange drove Origo's coverage, with favor exchange alone cutting it by 29–44% | moderate | Table V, conditional on the identifying assumptions |
 | C5 | Targeted advertising can make media ownership more attractive to pro-government investors | moderate in the model; suggestive in fact | Table VI; consistent with Origo's sale |
 | C6 | Government advertising affects media content worldwide | weak | extrapolated from Hungary and the qualitative reviews of Appendix A.1 |
@@ -167,16 +167,16 @@ government.
 
 ## Connections
 
-It builds on Besley and Prat (LIT-tmptgfjj) for the government's demand
+It builds on Besley and Prat ([LIT-tmptgfjj](../literature.d/LIT-tmptgfjj.md)) for the government's demand
 for slant and on Gentzkow and Shapiro (2010) for the structural approach to
-slant. It advances on Di Tella and Franceschelli (LIT-tmpa8ani) by ruling
+slant. It advances on Di Tella and Franceschelli ([LIT-tmpa8ani](../literature.d/LIT-tmpa8ani.md)) by ruling
 out the market-based explanations they left open. It relates to DellaVigna
 et al. (2015) on favors from businesses to connected media, and to Petrova
 (2011) on private advertising and press independence.
 
 ## Bearing on the record
 
-- **CLAIM-tmppi0xf.** A25's point, "institutions may produce similar
+- **[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md).** A25's point, "institutions may produce similar
   observable outputs through different causal organizations", has a
   documented instance here, in the shape of the claim's hidden governance
   bit. In equation (8) the same slant gap s₁ − s₂ is produced by different
@@ -190,7 +190,7 @@ et al. (2015) on favors from businesses to connected media, and to Petrova
   owner fixed, that is, from variation in the very term the coarse
   description drops. The paper's numbers are a model counterfactual, not
   an observed intervention.
-- **CLAIM-tmpjo2zr.** A26 §4 used the paper for how control over evidence
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** A26 §4 used the paper for how control over evidence
   and control over the evaluative objective reinforce one another. The
   paper supports a narrower, documented form. A government's discretion
   over an evaluator's resources (advertising) changed the evaluator's
@@ -199,14 +199,14 @@ et al. (2015) on favors from businesses to connected media, and to Petrova
   channel, Table VI's endogenous ownership, is the closest thing in the
   record's readings to influence on the resources becoming influence on
   the criteria. It is a model counterfactual, not an observation.
-- **CASE-tmp3uarw.** A second documented variant beside Di Tella and
+- **[CASE-tmp3uarw](../cases.d/CASE-tmp3uarw.md).** A second documented variant beside Di Tella and
   Franceschelli, stronger in design: the press variant with the
   connection switched on and off. The fallout is the case's one-time
   perturbation in reverse. When the reward stopped, the content favors
   stopped too, after a lag. Coverage did not stay where the captured
   period had put it, which is evidence against self-sustaining capture in
   this instance.
-- **TERM-tmpe6jtq.** The paper's "media capture" covers both mechanisms,
+- **[TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md).** The paper's "media capture" covers both mechanisms,
   and its decomposition shows why the term's "driven by the party being
   evaluated more than by evidence independent of it" needs the outside
   standard. The paper's standard is a critical reference outlet (hvg.hu,

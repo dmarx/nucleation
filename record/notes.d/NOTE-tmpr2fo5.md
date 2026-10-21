@@ -138,14 +138,14 @@ attitudes toward the issues.
 It builds on Lang and Lang and on Cohen (1963) for the hypothesis, on
 Berelson, Lazarsfeld and McPhee for the limited-effects background, and on
 Trenaman and McQuail for the issue question. Entman (1993), which the
-record holds as LIT-tmpq9j8p, is the second media route the exchange named
+record holds as [LIT-tmpq9j8p](../literature.d/LIT-tmpq9j8p.md), is the second media route the exchange named
 beside it, and could not be reached. Barnehl and Schumacher (2024) build
 their measure of capture on agenda-setting and cite the Luo et al.
 meta-analysis of the programme that followed this paper.
 
 ## Bearing on the record
 
-- **CLAIM-tmpjo2zr's evidence route.** The claim says an organization can be
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md)'s evidence route.** The claim says an organization can be
   governed through the evidence its procedures receive. The paper is a
   documented case of the population-level form: an audience's ranking of
   what matters tracked the ranking the media supplied, while nothing in
@@ -154,17 +154,17 @@ meta-analysis of the programme that followed this paper.
   influence on the decision rule, observed in a public. The paper does not
   identify the direction, so it supports the claim as an illustration and
   not as a demonstration.
-- **TERM-tmp5lqn0.** The term's table says legibility is not salience. This
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** The term's table says legibility is not salience. This
   paper measures salience in the term's sense: which issues a public
   counts as important. It says nothing about whether those issues became
   more legible.
-- **QUESTION-tmp4147z.** Agenda-setting is one empirical candidate for
+- **[QUESTION-tmp4147z](../questions.d/QUESTION-tmp4147z.md).** Agenda-setting is one empirical candidate for
   "which facts become legible enough to count as evidence at all". Here the
   media's selection fixes which issues reach the public's list of
   important problems. The paper has no time dimension, so it bears on
   neither of the question's dynamic readings.
-- **THEORY-tmpbonn4** is filed Active from the correlations as measured,
-  and THEORY-tmp98xm5 is filed Proposed for the causal hypothesis the
+- **[THEORY-tmpbonn4](../theory.d/THEORY-tmpbonn4.md)** is filed Active from the correlations as measured,
+  and [THEORY-tmp98xm5](../theory.d/THEORY-tmp98xm5.md) is filed Proposed for the causal hypothesis the
   correlations are offered for.
 
 No instruction for machine-learning practice; nothing for the anthology.

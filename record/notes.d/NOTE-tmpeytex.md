@@ -144,32 +144,32 @@ our tests."
 
 ## Connections
 
-It takes Besley and Prat (LIT-tmptgfjj) as its model and argues that with
+It takes Besley and Prat ([LIT-tmptgfjj](../literature.d/LIT-tmptgfjj.md)) as its model and argues that with
 non-verifiable news the government may gain from buying some outlets and
 not others, which their model rules out. Its identification is like
 Larcinese, Puglisi and Snyder's comparison of papers' coverage of a common
 event, and its private-sector counterparts are Reuter and Zitzewitz on
 mutual funds and Gambaro and Puglisi on Italian companies. Szeidl and
-Szucs (LIT-tmp6b6sj) cite it as "suggestive evidence" that "did not rule
+Szucs ([LIT-tmp6b6sj](../literature.d/LIT-tmp6b6sj.md)) cite it as "suggestive evidence" that "did not rule
 out plausible market-based explanations", and they address that with
 private advertisers as a control.
 
 ## Bearing on the record
 
-- **CASE-tmp3uarw, press variant.** This is the documented variant the
+- **[CASE-tmp3uarw](../cases.d/CASE-tmp3uarw.md), press variant.** This is the documented variant the
   case said it was waiting for, with the scope the design allows: an
   evaluator (the press) whose resources (advertising) the evaluated party
   (the federal government) allocates at its discretion, and whose coverage
   of that party moves inversely with the allocation, within paper and
-  within presidency. The case can cite THEORY-tmplatcg for the
+  within presidency. The case can cite [THEORY-tmplatcg](../theory.d/THEORY-tmplatcg.md) for the
   association, and should keep its own sentence from A21: "evidence of an
   association, not by itself proof of a particular covert intent."
-- **CLAIM-tmpjo2zr, the loop between institutions.** The data show one
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md), the loop between institutions.** The data show one
   arrow of the claim's loop, the evaluated party's influence on the
   evaluator's resources going with the evaluator's output. They do not
   show the other arrow, the evaluator's output shaping the party's
   standing. No feedback over time is estimated beyond the Granger tables.
-- **TERM-tmpe6jtq.** The authors measure bias relative to the other papers'
+- **[TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md).** The authors measure bias relative to the other papers'
   average, which is the term's requirement of a standard set apart from
   the process judged, in its weakest form. If all four papers were
   captured alike, the test would not see it.

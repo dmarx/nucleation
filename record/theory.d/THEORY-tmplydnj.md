@@ -28,7 +28,7 @@ source:
 extends:
 - THEORY-tmpwiydx
 summary: >-
-  Szeidl and Szucs (2021), LIT-tmp6b6sj, read in NOTE-tmpefpic. Table IV's
+  Szeidl and Szucs (2021), [LIT-tmp6b6sj](../literature.d/LIT-tmp6b6sj.md), read in [NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md). Table IV's
   estimates (weight on profit β ≈ 1.4–1.6, government preference for slant
   δ ≈ 420–510, both with intervals excluding zero) and Table V's
   decomposition and counterfactual ban. Conditional on a static model per
@@ -40,12 +40,12 @@ summary: >-
 
 ## Source
 
-Szeidl and Szucs (2021), LIT-tmp6b6sj, read in NOTE-tmpefpic: Section 4.4
+Szeidl and Szucs (2021), [LIT-tmp6b6sj](../literature.d/LIT-tmp6b6sj.md), read in [NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md): Section 4.4
 (identification), Table IV (estimates) and Table V (decomposition).
 
 ## What was actually shown
 
-The model of THEORY-tmpwiydx was estimated by simulated method of moments
+The model of [THEORY-tmpwiydx](THEORY-tmpwiydx.md) was estimated by simulated method of moments
 on three online episodes (before Origo's new editor, after it, after the new
 owner) and two print episodes (before and after the fallout). δ is
 identified from the co-movement of the connected outlet's relative slant

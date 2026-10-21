@@ -18,7 +18,7 @@ date: '2026-10-21'
 source:
 - LIT-tmpfrzgy
 summary: >-
-  Barnehl and Schumacher (2024), LIT-tmpfrzgy, read in NOTE-tmprgm1n. A
+  Barnehl and Schumacher (2024), [LIT-tmpfrzgy](../literature.d/LIT-tmpfrzgy.md), read in [NOTE-tmprgm1n](../notes.d/NOTE-tmprgm1n.md). A
   measured shift in relative position, outlet by outlet, from a 30-topic
   structural topic model and an off-the-shelf Spanish sentiment
   classifier, with no uncertainty reported in the main text. It does not
@@ -31,7 +31,7 @@ summary: >-
 ## Source
 
 Barnehl and Schumacher, "Media capture, captured", *Democratization* 31(7):
-1536–1563 (2024), LIT-tmpfrzgy, read in full in NOTE-tmprgm1n.
+1536–1563 (2024), [LIT-tmpfrzgy](../literature.d/LIT-tmpfrzgy.md), read in full in [NOTE-tmprgm1n](../notes.d/NOTE-tmprgm1n.md).
 
 ## What was actually shown
 

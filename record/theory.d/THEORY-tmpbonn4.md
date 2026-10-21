@@ -21,7 +21,7 @@ source:
 extended_by:
 - THEORY-tmp98xm5
 summary: >-
-  McCombs and Shaw (1972), LIT-tmpulqti, read in NOTE-tmpr2fo5. An aggregate
+  McCombs and Shaw (1972), [LIT-tmpulqti](../literature.d/LIT-tmpulqti.md), read in [NOTE-tmpr2fo5](../notes.d/NOTE-tmpr2fo5.md). An aggregate
   correlation between a public's ranking of issues and the media's, in one
   community, one campaign and one sample of 100 undecided voters. It does
   not show that the media's emphasis caused the voters' ranking; the
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 McCombs and Shaw (1972), *Public Opinion Quarterly* 36(2): 176–187,
-LIT-tmpulqti, read in full in NOTE-tmpr2fo5.
+[LIT-tmpulqti](../literature.d/LIT-tmpulqti.md), read in full in [NOTE-tmpr2fo5](../notes.d/NOTE-tmpr2fo5.md).
 
 ## What was actually shown
 
@@ -65,7 +65,7 @@ Selective perception predicts the second, and it lost 18 to 5.
   cross-sectional aggregate correlation. The authors: "The existence of an
   agenda-setting function of the mass media is not proved by the
   correlations reported here." The causal hypothesis is
-  THEORY-tmp98xm5, Proposed.
+  [THEORY-tmp98xm5](THEORY-tmp98xm5.md), Proposed.
 - **Not that any voter's attitudes changed.** Only the ranking of issues
   was measured.
 - **Not a statistical result in the usual sense.** No test is reported,

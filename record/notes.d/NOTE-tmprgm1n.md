@@ -128,7 +128,7 @@ capture, rather than a change of mind, is not in the measure.
 ## Connections
 
 It grounds agenda bias in agenda-setting (McCombs and Shaw,
-LIT-tmpulqti, through the Luo et al. meta-analysis) and takes "capture" from
+[LIT-tmpulqti](../literature.d/LIT-tmpulqti.md), through the Luo et al. meta-analysis) and takes "capture" from
 Stigler's regulatory capture. It cites Guriev and Treisman on informational
 autocracy and Glasius on authoritarian practices. It does not cite Besley
 and Prat or Szeidl and Szucs. Its method is close in spirit to Szeidl and
@@ -137,7 +137,7 @@ coverage, with two poles where they have one.
 
 ## Bearing on the record
 
-- **TERM-tmpe6jtq.** The paper's definition adds a condition the term
+- **[TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md).** The paper's definition adds a condition the term
   lacks and the term adds one the paper lacks. The paper requires
   coercion by an external actor, so an outlet that agrees with the regime
   is not captured. The term requires a standard set apart from the
@@ -149,12 +149,12 @@ coverage, with two poles where they have one.
   Its observable signature is one of the three things the term says to
   keep apart, and the paper shows how to measure it, not how to tell
   coerced from agreed alignment.
-- **CLAIM-tmpjo2zr.** The measure detects influence on an evaluator's
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).** The measure detects influence on an evaluator's
   output without access to its decisions or procedures, which fits the
   claim's starting point that control need not issue decisions. It does
   not tell the evidence route from the criteria route: a falling agenda
   score could be either.
-- **TERM-tmp5lqn0, the direction "institution legible to society".** The
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md), the direction "institution legible to society".** The
   method is a way to make an outlet's governance legible to outsiders
   from its output alone, with the caution the term already carries:
   whoever chooses the poles and the topic list controls what counts as

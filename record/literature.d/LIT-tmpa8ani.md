@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpeytex) in full, in the NBER working-paper version (revised July 2010); worth reading as a careful within-newspaper, within-presidency measure of how government advertising goes with front-page coverage of the government's corruption, with placebos on advertising channel and scandal type (THEORY-tmplatcg). Read it knowing that it shows an association, that the version read reports 0.31 of a front page per standard deviation where the published abstract reports 0.23, that the early advertising series is reconstructed, and that one presidency carries much of the variation.
+  read 2026-10-21 ([NOTE-tmpeytex](../notes.d/NOTE-tmpeytex.md)) in full, in the NBER working-paper version (revised July 2010); worth reading as a careful within-newspaper, within-presidency measure of how government advertising goes with front-page coverage of the government's corruption, with placebos on advertising channel and scandal type ([THEORY-tmplatcg](../theory.d/THEORY-tmplatcg.md)). Read it knowing that it shows an association, that the version read reports 0.31 of a front page per standard deviation where the published abstract reports 0.23, that the early advertising series is reconstructed, and that one presidency carries much of the variation.
 title: 'Government Advertising and Media Coverage of Corruption Scandals'
 version: 2
 history:
@@ -37,7 +37,7 @@ summary: >-
 Di Tella, R. & Franceschelli, I. (2011). Government Advertising and Media Coverage of Corruption Scandals. *American Economic Journal: Applied Economics* 3(4): 119–151. doi:10.1257/app.3.4.119. Earlier: NBER Working Paper 15402 (October 2009), doi:10.3386/w15402.
 
 Read 2026-10-21 in full, in the NBER working-paper version
-(NOTE-tmpeytex). The association is held as THEORY-tmplatcg.
+([NOTE-tmpeytex](../notes.d/NOTE-tmpeytex.md)). The association is held as [THEORY-tmplatcg](../theory.d/THEORY-tmplatcg.md).
 
 ## Why this is here
 

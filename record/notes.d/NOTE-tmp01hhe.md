@@ -80,7 +80,7 @@ of outlets while the benefit, the rent of office, does not.
   suppresses its signal for a bribe tᵢ = τa. If n ≥ r/(τa), each reports
   truthfully. The appendix proves this is the unique equilibrium of the
   class, with the incumbent indifferent at nτa = r. Re-derived in
-  THEORY-tmp6l5uw.
+  [THEORY-tmp6l5uw](../theory.d/THEORY-tmp6l5uw.md).
 - **Consequences.** Under capture, voters' expected utility is γ in both
   periods and turnover is zero ("voters are indifferent between the
   incumbent and the challenger but they vote for the incumbent"). Without
@@ -126,7 +126,7 @@ of outlets while the benefit, the rent of office, does not.
 
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | In the baseline model the media are captured iff nτa < r, with each outlet paid τa | strong | Proposition 1 and its proof; re-derived in THEORY-tmp6l5uw |
+| C1 | In the baseline model the media are captured iff nτa < r, with each outlet paid τa | strong | Proposition 1 and its proof; re-derived in [THEORY-tmp6l5uw](../theory.d/THEORY-tmp6l5uw.md) |
 | C2 | Capture lowers turnover and voter welfare | strong in the model | Propositions 1–2; with moral hazard, welfare holds and turnover becomes ambiguous (Proposition 3) |
 | C3 | Plurality, high transaction costs (independent, dispersed or foreign ownership) and commercial audience revenue protect against capture | strong in the model, as comparative statics | Propositions 2, 4, 6, 7, 9 and 10 |
 | C4 | State ownership and concentration of newspapers go with longer tenure and more corruption across countries | weak | Table 1, raw differences in means, "cannot be interpreted causally" |
@@ -152,37 +152,37 @@ It builds on the agency models of Barro (1973) and Ferejohn (1986). It cites
 McMillan and Zoido on Montesinos's payments to Peruvian media, Djankov et
 al. on state ownership, and Gentzkow and Shapiro, Mullainathan and Shleifer
 and Baron for media bias from sources other than capture. The record's
-readings of Di Tella and Franceschelli (LIT-tmpa8ani) and Szeidl and
-Szucs (LIT-tmp6b6sj) take it as their model. Szeidl and Szucs equate their
+readings of Di Tella and Franceschelli ([LIT-tmpa8ani](../literature.d/LIT-tmpa8ani.md)) and Szeidl and
+Szucs ([LIT-tmp6b6sj](../literature.d/LIT-tmp6b6sj.md)) take it as their model. Szeidl and Szucs equate their
 δ, the government's ability to reward slant, with τ.
 
 ## Bearing on the record
 
-- **CLAIM-tmpjo2zr, evidence route.** The model is a clean case of an
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md), evidence route.** The model is a clean case of an
   evaluator governed through its evidence alone. The voters' decision rule
   is correct Bayesian updating throughout, and nothing is decided for them.
   Capture removes the evidence they would update on. In the captured
   equilibrium voters are not deceived: they know silence means nothing, and
   their posterior stays at the prior γ. That separates the evidence route
-  from persuasion (THEORY-404), where a receiver who knows the design is
+  from persuasion ([THEORY-404](../theory.d/THEORY-404.md)), where a receiver who knows the design is
   moved. Here the receiver is not moved; it is left at its prior, which is
   enough for the incumbent, since the tie goes to her.
-- **CLAIM-tmpjo2zr, the loop between institutions.** The model has the
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md), the loop between institutions.** The model has the
   press-as-evaluator structure of the claim's third part, with the
   evaluated party able to affect the evaluator's resources. But it is
   static. Capture is decided once by comparing nτa with r, and nothing
   feeds back from the outcome to the next period's n, τ, a or r, so it
   contains no amplification loop. The record's loop condition
-  (CLAIM-330) has no counterpart here. The model supports the claim that
+  ([CLAIM-330](../claims.d/CLAIM-330.md)) has no counterpart here. The model supports the claim that
   formal independence (no censorship) does not make the evaluation
   independent. It does not support the claim's dynamic part.
-- **CASE-tmp3uarw, press variant.** The variant's "a newsroom whose
+- **[CASE-tmp3uarw](../cases.d/CASE-tmp3uarw.md), press variant.** The variant's "a newsroom whose
   conditions of production the evaluated party's decisions affect" is this
   model's outlet, with transfers as the channel. The case's sentence that
   Besley and Prat rest on an unread work can now be replaced: the model is
   read, it is static, and its mechanism is purchase of silence, not a drift
   in how the newsroom reads evidence.
-- **TERM-tmpe6jtq.** Besley and Prat's "captured" is the purpose-relative,
+- **[TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md).** Besley and Prat's "captured" is the purpose-relative,
   transactional sense the term set aside ("a decision bought outright is
   captured in it"). It is a single bargain, not a durable regime reproduced
   through the outlet's own processes, and it needs no outside standard,

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpr2fo5) in full, from a copy of the published article posted on a UNC Chapel Hill course page; worth reading as the founding test of agenda-setting, for its distinction between influence on what an audience thinks about and on what it thinks, and for its comparison of agenda-setting against selective perception. Read it knowing that its evidence is an aggregate cross-sectional correlation over a handful of issues in one sample of 100 undecided voters in one town, with no test reported, that the direction from media to voters is argued and not identified, and that the authors say the correlations do not prove agenda-setting. The correlations are held as THEORY-tmpbonn4, the hypothesis as THEORY-tmp98xm5 (Proposed).
+  read 2026-10-21 ([NOTE-tmpr2fo5](../notes.d/NOTE-tmpr2fo5.md)) in full, from a copy of the published article posted on a UNC Chapel Hill course page; worth reading as the founding test of agenda-setting, for its distinction between influence on what an audience thinks about and on what it thinks, and for its comparison of agenda-setting against selective perception. Read it knowing that its evidence is an aggregate cross-sectional correlation over a handful of issues in one sample of 100 undecided voters in one town, with no test reported, that the direction from media to voters is argued and not identified, and that the authors say the correlations do not prove agenda-setting. The correlations are held as [THEORY-tmpbonn4](../theory.d/THEORY-tmpbonn4.md), the hypothesis as [THEORY-tmp98xm5](../theory.d/THEORY-tmp98xm5.md) (Proposed).
 title: 'The Agenda-Setting Function of Mass Media'
 version: 2
 history:
@@ -36,9 +36,9 @@ summary: >-
 
 McCombs, M. E. & Shaw, D. L. (1972). The Agenda-Setting Function of Mass Media. *Public Opinion Quarterly* 36(2): 176–187. doi:10.1086/267990.
 
-Read 2026-10-21 in full (NOTE-tmpr2fo5). The correlations are held as
-THEORY-tmpbonn4, and the agenda-setting hypothesis they are offered for as
-THEORY-tmp98xm5 (Proposed).
+Read 2026-10-21 in full ([NOTE-tmpr2fo5](../notes.d/NOTE-tmpr2fo5.md)). The correlations are held as
+[THEORY-tmpbonn4](../theory.d/THEORY-tmpbonn4.md), and the agenda-setting hypothesis they are offered for as
+[THEORY-tmp98xm5](../theory.d/THEORY-tmp98xm5.md) (Proposed).
 
 ## Why this is here
 

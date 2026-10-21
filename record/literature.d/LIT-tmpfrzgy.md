@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmprgm1n) in full, from the published version in the University of Amsterdam's repository; worth reading for a way to measure media capture outlet by outlet and month by month, by placing each outlet between regime-owned outlets and uncoercible opposition outlets on agenda and tone, and for its definition of capture as coerced change in editorial choices. Read it knowing that the score measures alignment, not coercion, that the poles are assumed fixed, that it is validated on three Nicaraguan outlets only (THEORY-tmp5rkez), and that the main text reports no uncertainty for the scores.
+  read 2026-10-21 ([NOTE-tmprgm1n](../notes.d/NOTE-tmprgm1n.md)) in full, from the published version in the University of Amsterdam's repository; worth reading for a way to measure media capture outlet by outlet and month by month, by placing each outlet between regime-owned outlets and uncoercible opposition outlets on agenda and tone, and for its definition of capture as coerced change in editorial choices. Read it knowing that the score measures alignment, not coercion, that the poles are assumed fixed, that it is validated on three Nicaraguan outlets only ([THEORY-tmp5rkez](../theory.d/THEORY-tmp5rkez.md)), and that the main text reports no uncertainty for the scores.
 title: 'Media capture, captured: a new computational methodology to measure deteriorating media freedom'
 version: 2
 history:
@@ -34,8 +34,8 @@ summary: >-
 
 Barnehl, H.-M. & Schumacher, G. (2024). Media capture, captured: a new computational methodology to measure deteriorating media freedom. *Democratization* 31(7): 1536–1563. doi:10.1080/13510347.2024.2331694.
 
-Read 2026-10-21 in full (NOTE-tmprgm1n). The Nicaraguan measurement is held
-as THEORY-tmp5rkez.
+Read 2026-10-21 in full ([NOTE-tmprgm1n](../notes.d/NOTE-tmprgm1n.md)). The Nicaraguan measurement is held
+as [THEORY-tmp5rkez](../theory.d/THEORY-tmp5rkez.md).
 
 ## Why this is here
 

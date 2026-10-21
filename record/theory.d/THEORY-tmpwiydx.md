@@ -21,7 +21,7 @@ source:
 extended_by:
 - THEORY-tmplydnj
 summary: >-
-  Szeidl and Szucs (2021), LIT-tmp6b6sj, read in NOTE-tmpefpic. A
+  Szeidl and Szucs (2021), [LIT-tmp6b6sj](../literature.d/LIT-tmp6b6sj.md), read in [NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md). A
   necessary condition on equilibrium slant, not a closed form: masⱼ depends
   on the equilibrium shares. It holds under the model's logit readers,
   Cobb–Douglas advertisers with exogenous budgets, quadratic ideology cost
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Szeidl and Szucs (2021), *Econometrica* 89(1), LIT-tmp6b6sj, read in
-NOTE-tmpefpic. Propositions 1 and 2, equation (8), and their proofs in the
+Szeidl and Szucs (2021), *Econometrica* 89(1), [LIT-tmp6b6sj](../literature.d/LIT-tmp6b6sj.md), read in
+[NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md). Propositions 1 and 2, equation (8), and their proofs in the
 supplement's Appendix A.4. The derivation below is the record's.
 
 ## What was actually shown
@@ -87,7 +87,7 @@ that to argue that audiences cannot explain the change in relative slant.
   sum of the two terms, not each. Separating them takes variation in the
   exchange term with the ideal points held fixed, which is the paper's
   identifying assumption, and the empirical split is
-  THEORY-tmplydnj, Proposed.
+  [THEORY-tmplydnj](THEORY-tmplydnj.md), Proposed.
 - **Not robust to more than two outlets** as stated. With more outlets
   the marginal shares need not coincide and the reader term need not
   cancel.
@@ -95,10 +95,10 @@ that to argue that audiences cannot explain the change in relative slant.
 
 ## Connections
 
-- **THEORY-tmp6l5uw.** δ, the government's ability to reward slant, is the
+- **[THEORY-tmp6l5uw](THEORY-tmp6l5uw.md).** δ, the government's ability to reward slant, is the
   continuous analogue of Besley and Prat's transaction cost τ, here allowed
   to differ by outlet.
-- **CLAIM-tmppi0xf.** The last clause of the title is an instance of a
+- **[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md).** The last clause of the title is an instance of a
   description closed under ordinary dynamics that does not fix the
   response to an intervention on the mechanism. The intervention δ → 0
   removes one term and not the other.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-21 (NOTE-tmpefpic) in full, from the open-access published article on the Econometric Society's site, with the supplement's regression tables and proofs; worth reading for the cleanest evidence the record holds of two-way favors between a government and connected media, with private advertisers as the control (THEORY-tmpkd2bw), for a model whose slant gap splits into owner ideology plus favor exchange (THEORY-tmpwiydx, re-derived), and for the point that targeted advertising can change who owns the media. Read it knowing that the split between ideology and exchange (THEORY-tmplydnj, Proposed) rests on identifying assumptions the authors call strong for print, and that only advertising and corruption coverage are measured.
+  read 2026-10-21 ([NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md)) in full, from the open-access published article on the Econometric Society's site, with the supplement's regression tables and proofs; worth reading for the cleanest evidence the record holds of two-way favors between a government and connected media, with private advertisers as the control ([THEORY-tmpkd2bw](../theory.d/THEORY-tmpkd2bw.md)), for a model whose slant gap splits into owner ideology plus favor exchange ([THEORY-tmpwiydx](../theory.d/THEORY-tmpwiydx.md), re-derived), and for the point that targeted advertising can change who owns the media. Read it knowing that the split between ideology and exchange ([THEORY-tmplydnj](../theory.d/THEORY-tmplydnj.md), Proposed) rests on identifying assumptions the authors call strong for print, and that only advertising and corruption coverage are measured.
 title: 'Media Capture Through Favor Exchange'
 version: 2
 history:
@@ -37,9 +37,9 @@ summary: >-
 
 Szeidl, A. & Szucs, F. (2021). Media Capture Through Favor Exchange. *Econometrica* 89(1): 281–310. doi:10.3982/ECTA15641.
 
-Read 2026-10-21 in full (NOTE-tmpefpic). The reduced-form favors are
-held as THEORY-tmpkd2bw, the model's decomposition as THEORY-tmpwiydx, and the
-structural estimates as THEORY-tmplydnj (Proposed).
+Read 2026-10-21 in full ([NOTE-tmpefpic](../notes.d/NOTE-tmpefpic.md)). The reduced-form favors are
+held as [THEORY-tmpkd2bw](../theory.d/THEORY-tmpkd2bw.md), the model's decomposition as [THEORY-tmpwiydx](../theory.d/THEORY-tmpwiydx.md), and the
+structural estimates as [THEORY-tmplydnj](../theory.d/THEORY-tmplydnj.md) (Proposed).
 
 ## Why this is here
 

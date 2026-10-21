@@ -25,9 +25,9 @@ source:
 extends:
 - THEORY-tmpbonn4
 summary: >-
-  The agenda-setting hypothesis, as McCombs and Shaw (1972), LIT-tmpulqti,
-  state it after Cohen and the Langs, read in NOTE-tmpr2fo5. Their evidence
-  is an aggregate correlation in one sample, held as THEORY-tmpbonn4; the
+  The agenda-setting hypothesis, as McCombs and Shaw (1972), [LIT-tmpulqti](../literature.d/LIT-tmpulqti.md),
+  state it after Cohen and the Langs, read in [NOTE-tmpr2fo5](../notes.d/NOTE-tmpr2fo5.md). Their evidence
+  is an aggregate correlation in one sample, held as [THEORY-tmpbonn4](THEORY-tmpbonn4.md); the
   direction from media to public is argued there, not identified. The
   later literature the programme produced is not read here.
 ---
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-McCombs and Shaw (1972), LIT-tmpulqti, read in NOTE-tmpr2fo5. The
+McCombs and Shaw (1972), [LIT-tmpulqti](../literature.d/LIT-tmpulqti.md), read in [NOTE-tmpr2fo5](../notes.d/NOTE-tmpr2fo5.md). The
 hypothesis is older: Cohen (1963), "it is stunningly successful in telling
 its readers what to think about", and Lang and Lang, "The mass media force
 attention to certain issues." The paper states it: "While the mass media
@@ -47,7 +47,7 @@ issues."
 
 ## What was actually shown
 
-The aggregate correlations of THEORY-tmpbonn4 and its comparison against
+The aggregate correlations of [THEORY-tmpbonn4](THEORY-tmpbonn4.md) and its comparison against
 selective perception. Those are what agenda-setting predicts. The
 direction from media to public is defended by argument only: few voters
 observe a campaign directly, journalists' news values usually diverge from

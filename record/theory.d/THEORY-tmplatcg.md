@@ -20,7 +20,7 @@ source:
 - LIT-tmpa8ani
 summary: >-
   Di Tella and Franceschelli (NBER 2009, revised 2010; AEJ: Applied 2011),
-  LIT-tmpa8ani, read in NOTE-tmpeytex. An association within newspaper and
+  [LIT-tmpa8ani](../literature.d/LIT-tmpa8ani.md), read in [NOTE-tmpeytex](../notes.d/NOTE-tmpeytex.md). An association within newspaper and
   within presidency, specific to discretionary advertising and to the
   government's own scandals. It does not establish that advertising caused
   the reduced coverage, and the published version reports a smaller effect
@@ -35,7 +35,7 @@ summary: >-
 Di Tella and Franceschelli, "Government Advertising and Media Coverage of
 Corruption Scandals", NBER Working Paper 15402 (October 2009, revised July
 2010), published in *AEJ: Applied Economics* 3(4) (2011),
-LIT-tmpa8ani, read in full in NOTE-tmpeytex from the working paper.
+[LIT-tmpa8ani](../literature.d/LIT-tmpa8ani.md), read in full in [NOTE-tmpeytex](../notes.d/NOTE-tmpeytex.md) from the working paper.
 
 ## What was actually shown
 
@@ -76,10 +76,10 @@ coverage does not predict advertising (F = 0.96).
 
 ## Connections
 
-- **THEORY-tmp6l5uw.** The model this paper takes as its frame. Its transfers
+- **[THEORY-tmp6l5uw](THEORY-tmp6l5uw.md).** The model this paper takes as its frame. Its transfers
   are here advertising, and the association runs in the direction the model
   predicts. The model's all-or-nothing logic does not fit four papers
   covering scandals in different amounts, as the authors note.
-- **THEORY-tmpkd2bw.** Szeidl and Szucs's Hungarian evidence adds private
+- **[THEORY-tmpkd2bw](THEORY-tmpkd2bw.md).** Szeidl and Szucs's Hungarian evidence adds private
   advertisers as a control, which addresses the market-based explanations
   this design leaves open.

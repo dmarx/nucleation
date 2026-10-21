@@ -20,7 +20,7 @@ source:
 - LIT-tmptgfjj
 summary: >-
   Besley and Prat (2006; read in the 2005 LSE working paper),
-  LIT-tmptgfjj, read in NOTE-tmp01hhe. Plurality protects because news is
+  [LIT-tmptgfjj](../literature.d/LIT-tmptgfjj.md), read in [NOTE-tmp01hhe](../notes.d/NOTE-tmp01hhe.md). Plurality protects because news is
   non-rival: silencing the press means silencing every outlet, each at its
   monopoly price. A static, hard-news model. It says nothing about soft
   news, partial bribing, or capture that feeds back on the market that
@@ -33,7 +33,7 @@ summary: >-
 
 Besley and Prat, "Handcuffs for the Grabbing Hand? Media Capture and
 Government Accountability", *American Economic Review* 96(3) (2006),
-LIT-tmptgfjj, read in full in NOTE-tmp01hhe from the LSE working paper
+[LIT-tmptgfjj](../literature.d/LIT-tmptgfjj.md), read in full in [NOTE-tmp01hhe](../notes.d/NOTE-tmp01hhe.md) from the LSE working paper
 of 2005 (PEPP/7). The result is its Proposition 1, proved in its appendix.
 The derivation below is the record's.
 
@@ -86,7 +86,7 @@ because the deviation payoff of a lone reporter is a.
   correct: silence is uninformative and they know it. The incumbent wins
   because the tie goes to her, not because anyone believes something false.
   This is the record's gloss, and it is what separates the model from
-  Bayesian persuasion (THEORY-404), where a receiver who knows the design
+  Bayesian persuasion ([THEORY-404](THEORY-404.md)), where a receiver who knows the design
   is moved.
 - **Not about soft news or partial capture.** With unverifiable news, or
   readers who see one outlet only, buying some outlets can pay. The
@@ -104,10 +104,10 @@ because the deviation payoff of a lone reporter is a.
 
 ## Connections
 
-- **THEORY-tmplatcg and THEORY-tmpkd2bw.** The two empirical readings of
+- **[THEORY-tmplatcg](THEORY-tmplatcg.md) and [THEORY-tmpkd2bw](THEORY-tmpkd2bw.md).** The two empirical readings of
   this batch take the model as their frame. Di Tella and Franceschelli's
   transfers are advertising, and Szeidl and Szucs's δ, the government's
   ability to reward slant, plays the part of τ.
-- **THEORY-404.** Two ways to govern a rational evaluator through its
+- **[THEORY-404](THEORY-404.md).** Two ways to govern a rational evaluator through its
   evidence: commit to a signal that moves it, or remove the signal and
   leave it at its prior.
