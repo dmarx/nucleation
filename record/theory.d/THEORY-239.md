@@ -52,6 +52,7 @@ summary: >-
 answers:
 - QUESTION-245
 ---
+<!-- inactive-ok-file: QUESTION-245 — cited only in the dated history note of version 3, which records the split and is not rewritten -->
 <!-- inactive-ok-file: THEORY-005 CLAIM-098 — Proposed; accounts and a claim this one bears on, open -->
 
 # THEORY-239: For any joint law of an input and a context, symmetric or not, the top-d left singular functions of the conditional-expectation operator attain the minimum, over d-dimensional spans, of worst-case linear-probe approximation error over tasks of compatibility at least 1 − ε, namely (s₁² − (1 − ε)²)/(s₁² − s²_{d+1}) when s_{d+1} < 1 − ε ≤ s₁, though other spans can tie
@@ -129,7 +130,8 @@ Only the left singular space and the singular values enter.
 
 ## Connections
 
-- **[QUESTION-245](../questions.d/QUESTION-245.md)**, split from [QUESTION-052](../questions.d/QUESTION-052.md). The answer, for linear
+- **[QUESTION-052](../questions.d/QUESTION-052.md)**, whose linear-decision part this entry answers with
+  [THEORY-007](THEORY-007.md), [THEORY-228](THEORY-228.md) and [THEORY-319](THEORY-319.md) (split off on 2026-10-21, [ADR-049](../decisions.d/ADR-049.md)). The answer, for linear
   decisions, to what replaces the eigenspace when the pairing is not
   symmetric. It is the left singular space of the conditional-expectation
   operator, with a sufficiency guarantee for linear decisions on

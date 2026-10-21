@@ -34,6 +34,7 @@ summary: >-
 refined_by:
 - QUESTION-239
 ---
+<!-- inactive-ok-file: QUESTION-239 — Answered; the child split off this question under ADR-049, cited as answered -->
 
 # QUESTION-121: Within a single mind, what plays the part of the operator model's independent scoring: what evidence reaches a judgement–observation loop, or what scores it, without passing through the interpretation it tests, and does any of it survive the loss of all action?
 

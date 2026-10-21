@@ -38,6 +38,7 @@ refined_by:
 - QUESTION-204
 - QUESTION-250
 ---
+<!-- inactive-ok-file: QUESTION-250 — Answered; the child split off this question under ADR-049, cited as answered -->
 
 <!-- inactive-ok-file: CLAIM-170 CLAIM-194 QUESTION-009 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

@@ -67,6 +67,7 @@ refined_by:
 - QUESTION-168
 - QUESTION-251
 ---
+<!-- inactive-ok-file: QUESTION-251 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: LIT-1158 — Unavailable; the fly paper, a lawful preprint this client could not fetch -->
 <!-- inactive-ok-file: THEORY-106 — Proposed; the accounts the random-features and SDM threads are set against -->
 

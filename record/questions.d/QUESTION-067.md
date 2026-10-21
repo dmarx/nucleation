@@ -63,6 +63,7 @@ summary: >-
 refined_by:
 - QUESTION-246
 ---
+<!-- inactive-ok-file: QUESTION-246 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-067: For a test of pragmatic judgements, under what probe families do renderings count as operationally equivalent, so that a test of Spekkens's generalized noncontextuality applies and not only one of the sheaf or Kochen–Specker kind?

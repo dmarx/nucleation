@@ -49,6 +49,7 @@ refined_by:
 - QUESTION-183
 - QUESTION-245
 ---
+<!-- inactive-ok-file: QUESTION-245 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
 # QUESTION-052: Beyond linear decisions at the population level, if a kind's admissible transformations are given as a distribution over pairs of its realizations, is the top eigenspace of the pair operator, or the top left singular space when the transformations are directed, its stable, decision-sufficient signature, and what makes one span the signature when other spans tie?

@@ -31,6 +31,7 @@ answered_by:
 refined_by:
 - QUESTION-249
 ---
+<!-- inactive-ok-file: QUESTION-249 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: CLAIM-128 CLAIM-129 CLAIM-177 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 

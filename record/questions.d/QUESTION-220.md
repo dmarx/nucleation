@@ -37,6 +37,7 @@ answered_by:
 refined_by:
 - QUESTION-244
 ---
+<!-- inactive-ok-file: QUESTION-244 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: THEORY-163 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-220: Given that information-bottleneck optima at two budgets need not be nested, what condition on P(X, Y) guarantees that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and how much is lost by forcing nesting when it fails?
 
