@@ -1,7 +1,7 @@
 ---
-status: Open
+status: Answered
 title: 'In the coupled meaning–authority model, is authority''s effect on what becomes legible as evidence a third channel beside β and γ, a slower variable with an instability condition of its own, or is it already the commitment regime''s κ′, how far the prevailing interpretation bends the reading of the evidence?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -10,6 +10,13 @@ history:
     of the kind asked for; agenda-setting and Szeidl and Szucs's
     endogenous ownership are noted as static candidates. The question is
     unchanged and stays Open.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Answered by CLAIM-tmp4v4na (demonstrated, Active), from the owner's
+    review of 2026-10-21: the instability threshold reduces to CLAIM-330's
+    with the regime's steady-state gain absorbed into β or δ, and the slow
+    mode does not reduce (CASE-tmpc0mv0). Status Open → Answered (ADR-049).
 tags:
 - complex-systems
 - epistemology
@@ -27,6 +34,8 @@ summary: >-
   weight on the reading of evidence ([CLAIM-340](../claims.d/CLAIM-340.md)). This asks whether
   legibility adds a third state or renames the weight. It is the place
   where the record's mathematics can test the owner's new concept.
+answered_by:
+- CLAIM-tmp4v4na
 ---
 <!-- inactive-ok-file: THEORY-tmp98xm5 THEORY-tmplydnj — Proposed; readings of 2026-10-21 named as static candidates, not answers -->
 <!-- inactive-ok-file: CLAIM-338 CLAIM-342 CLAIM-297 TERM-tmp5lqn0 — Proposed; the claims and the candidate term the question works from, cited as open -->
@@ -92,3 +101,18 @@ variable, authority setting owners' ideology and ideology setting slant
 ([THEORY-tmplydnj](../theory.d/THEORY-tmplydnj.md), Proposed), but only across episodes in a static model,
 not as a dynamical one. Nor whether legibility should be adopted
 as a term ([TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md) is Proposed).
+
+## Answer, 2026-10-21
+
+[CLAIM-tmp4v4na](../claims.d/CLAIM-tmp4v4na.md) (demonstrated, Active), on the construction [CASE-tmpc0mv0](../cases.d/CASE-tmpc0mv0.md).
+Both readings above hold, for different questions about the model. For
+whether symmetry breaks, the regime is renamed: det(I − J₃) is (1 − λ)
+times [CLAIM-330](../claims.d/CLAIM-330.md)'s expression with β + νε/(1 − λ) for β and δ + με/(1 − λ)
+for δ, and the slower the regime the more it adds. For how long a lean
+lasts and how the system returns, it is not: the regime is a third mode,
+and in the second witness a lean in r holds m and a off symmetry long
+after the two-variable system would have returned. The construction was
+proposed in the owner's review of 2026-10-21 with the route r → m; the
+route r → a, the reduction and the stable witness were added when it was
+checked. What this question does not ask, whether any institution's
+categories have such dynamics, stays open.

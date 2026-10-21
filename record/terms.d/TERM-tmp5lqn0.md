@@ -31,6 +31,7 @@ summary: >-
   use. Proposed: recorded, not adopted. It recurs through A23 to A27.
 used_by:
 - CLAIM-tmpjo2zr
+- CLAIM-tmp4v4na
 ---
 <!-- inactive-ok-file: THEORY-tmp9wdb3 THEORY-tmpr3dxe — Proposed; Hayek's argument and James et al.'s bidirectionality, cited as readings that bear on the term, nothing rests on them -->
 <!-- inactive-ok-file: LIT-tmpb1r6m LIT-tmpmdlm4 — Unavailable; Scott and Lan, named as works the term's sources lean on that no lawful copy reached -->

@@ -2,8 +2,8 @@
 status: Proposed
 complements:
 - TERM-020
-title: 'capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
-version: 2
+title: 'interpretive capture, of an organization''s evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process'
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -15,6 +15,15 @@ history:
     Prat, Short, Hill and Brown, Barnehl and Schumacher, Szeidl and Szucs
     and Di Tella and Franceschelli are placed against the two senses and
     the outside standard. The definition is unchanged.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Renamed at the owner's review of 2026-10-21, from "capture" to
+    "interpretive capture", the phrase QUESTION-100 already uses. The
+    unqualified word also names regulatory capture by favour exchange, which
+    needs no interpretation–authority loop, and an epistemic loop can lock in
+    without being regulatory capture. "Capture" stays an umbrella word where
+    the context fixes it. The definition is unchanged.
 tags:
 - self-governance
 - society-and-governance
@@ -34,7 +43,7 @@ used_by:
 <!-- inactive-ok-file: LIT-tmphei2g — Unavailable; Stigler, named as the source A20 cited, which no lawful copy reached -->
 <!-- inactive-ok-file: CLAIM-277 CLAIM-297 CLAIM-342 CLAIM-359 CLAIM-tmpjo2zr — Proposed; open claims that use the word or this definition, cited as open -->
 
-# TERM-tmpe6jtq: capture, of an organization's evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process
+# TERM-tmpe6jtq: interpretive capture, of an organization's evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process
 
 ## Definition
 

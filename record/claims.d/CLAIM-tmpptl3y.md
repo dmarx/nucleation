@@ -1,7 +1,7 @@
 ---
 status: Active
-title: 'In ḋ = (α − κ)d − βd³, with d the difference between two parties'' shares of authority, α their self-reinforcement and κ a constraint that bears on both alike, the equal allocation is the only equilibrium and is stable for κ > α, and for κ < α it is unstable and the unequal allocations ±√((α − κ)/β) are stable: a constraint that favours neither party can, by weakening, decide that one of them will dominate while leaving which one to perturbation, and in this model restoring κ > α restores the equal allocation'
-version: 2
+title: 'In ḋ = (α − κ)d − βd³, with d the difference between two parties'' shares of authority, α their self-reinforcement and κ a constraint that bears on both alike, the equal allocation is the only equilibrium and is stable for κ > α, and for κ < α it is unstable and the unequal allocations ±√((α − κ)/β) are stable: a constraint that favours neither party can, by weakening, destabilize the equal allocation and make persistent unequal allocations stable, of any size near the threshold (|d*| → 0 as κ → α), without determining which party gains the larger share, and in this model restoring κ > α restores the equal allocation'
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -9,6 +9,13 @@ history:
     From the reading of Arthur's 1983 working paper on 2026-10-21
     (THEORY-tmpxzls4): a second store of advantage beside authority over
     the rule, in a different model. The claim is unchanged.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Title narrowed at the owner's review of 2026-10-21: "dominate" said more
+    than the model gives. Near the bifurcation the stable asymmetry
+    ±√((α − κ)/β) is arbitrarily small, so shares of 50.5% and 49.5% are a
+    symmetry-broken state. The result is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -43,7 +50,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-277 CLAIM-297 THEORY-470 CLAIM-tmpyxupb — Proposed; the entrenchment claims and the reading named for the mechanisms this claim leaves out, nothing here rests on them -->
 
-# CLAIM-tmpptl3y: In ḋ = (α − κ)d − βd³, with d the difference between two parties' shares of authority, α their self-reinforcement and κ a constraint that bears on both alike, the equal allocation is the only equilibrium and is stable for κ > α, and for κ < α it is unstable and the unequal allocations ±√((α − κ)/β) are stable: a constraint that favours neither party can, by weakening, decide that one of them will dominate while leaving which one to perturbation, and in this model restoring κ > α restores the equal allocation
+# CLAIM-tmpptl3y: In ḋ = (α − κ)d − βd³, with d the difference between two parties' shares of authority, α their self-reinforcement and κ a constraint that bears on both alike, the equal allocation is the only equilibrium and is stable for κ > α, and for κ < α it is unstable and the unequal allocations ±√((α − κ)/β) are stable: a constraint that favours neither party can, by weakening, destabilize the equal allocation and make persistent unequal allocations stable, of any size near the threshold (|d*| → 0 as κ → α), without determining which party gains the larger share, and in this model restoring κ > α restores the equal allocation
 
 ## The claim
 
