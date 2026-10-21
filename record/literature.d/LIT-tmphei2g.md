@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  filed 2026-10-21; on 2026-10-21 a search for a lawful full text reached none, so it is not read and no NOTE is filed. Unpaywall and OpenAlex report it closed with no repository copy; Semantic Scholar lists no open PDF; the publisher's copy is JSTOR's, paywalled, and RePEc points only to it. Web searches for the title with "pdf" and restricted to .edu, and for a RAND-hosted copy, found commentary and no copy of the article: the Stigler Center's "George Stigler 50 Years Later" (ProMarket, 2022), Carrigan and Coglianese's handbook chapter, and Peltzman's essays. No working-paper version was found. It stays Unavailable until a copy is supplied, through library access or JSTOR.
 title: 'The Theory of Economic Regulation'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is the first of January 1971: Crossref gives the year only (the issue is Spring 1971), per ADR-002. A20 named "George Stigler's classic account" and no paper; this is the record's identification.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, after a copy hunt on 2026-10-21: Unpaywall, OpenAlex, Semantic Scholar, RePEc, JSTOR, and web searches for an author, institutional or RAND copy. The places and what each returned are in status_note. The summary remains the standard citation's, unchecked.
 tags:
 - society-and-governance
 - social-science
@@ -31,8 +35,10 @@ summary: >-
 
 Stigler, G. J. (1971). The Theory of Economic Regulation. *The Bell Journal of Economics and Management Science* 2(1): 3–21. doi:10.2307/3003160.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Not read: no lawful copy was reached on 2026-10-21 (see status_note). The
+summary is drawn from what the work is standardly cited for; the OECD's
+report (LIT-tmpiiau9, read) and Schram and Ule (LIT-tmpx4cpq, read) cite it
+for the same thesis.
 
 ## Why this is here
 

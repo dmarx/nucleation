@@ -1,20 +1,25 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  read 2026-10-21 (NOTE-tmpze6la) in full (main text; the online appendices not read), from the publisher's open-access PDF (CC BY 4.0); worth reading for a laboratory measurement (THEORY-tmpqzjvn) that the commitment which relieves electoral holdup also locks in the interests of whoever designs it, raising prices further when policymakers are aligned with the operator ("capture entrenchment"), and for the authors' general conclusion that independence helps consumers only when its designers serve them (THEORY-tmpvj1mm, Proposed). Read it knowing that capture is assigned as a treatment, not produced, that "independence" is a price fixed by the first policymaker, that groups have three voters and the capture cells 18 groups, and that some effects weaken when the 45.8% of groups with dominated period-1 investment are excluded.
 title: 'Regulatory independence may limit electoral holdup but entrench capture'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is Crossref's online date, 4 February 2024, per ADR-002. The exchange's citation was right.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmpze6la), the main text of the open-access published version from Springer; the online supplementary appendices were not read. Status Deferred → Active. The open copy's URL is added. The summary is checked against the reading and amended to say that capture is policymakers' alignment with the operator, assigned as a treatment, and that independence means a price fixed for the horizon.
 tags:
 - society-and-governance
 - social-science
 date: '2026-10-21'
 published: '2024-02-04'
 doi: '10.1007/s11127-023-01136-y'
+url: 'https://link.springer.com/content/pdf/10.1007/s11127-023-01136-y.pdf'
 first_author: 'Schram'
 keywords:
 - 'regulatory independence'
@@ -24,15 +29,18 @@ keywords:
 - 'laboratory experiment'
 implementations: []
 summary: >-
-  Schram & Ule (2024). Where elected policymakers set infrastructure prices, investors fearing electoral pressure delay investment (holdup); regulatory independence can relieve that, but if policymakers have installed regulation serving the infrastructure owners, independence entrenches the capture. Laboratory experiments find capture entrenchment and uninformed voters too weak to remove it.
+  Schram & Ule (2024). Where elected policymakers set infrastructure prices, investors fearing electoral pressure delay investment (holdup); regulatory independence, modelled as a price fixed by the first policymaker for all periods, can relieve that, but if policymakers' interests are aligned with the infrastructure owner's ("regulatory capture", assigned as a treatment), independence entrenches the capture. Laboratory experiments (59 groups) find capture entrenchment, and uninformed voters too weak to remove it.
 ---
-<!-- inactive-ok-file: CLAIM-tmpjo2zr — Proposed; filed from the same exchange, named as the entry this work bears on -->
+<!-- inactive-ok-file: CLAIM-tmpjo2zr THEORY-tmpvj1mm — Proposed; filed from the same exchange or from this reading, named as the entries this work bears on -->
 # LIT-tmpx4cpq: Regulatory independence may limit electoral holdup but entrench capture
 
 Schram, A. & Ule, A. (2024). Regulatory independence may limit electoral holdup but entrench capture. *Public Choice* 198(3–4): 403–425. doi:10.1007/s11127-023-01136-y.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full on 2026-10-21 (NOTE-tmpze6la), from the open-access article.
+Its capture is an alignment of policymakers' payoffs, not influence over
+evidence or criteria, so it bears on the last clause of CLAIM-tmpjo2zr (an
+independent procedure need not be independent) more than on the claim's
+two routes.
 
 ## Why this is here
 

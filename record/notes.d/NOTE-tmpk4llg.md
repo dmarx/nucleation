@@ -1,0 +1,250 @@
+---
+status: Read
+paper: LIT-tmpiiau9
+title: 'OECD — Preventing policy capture'
+version: 1
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Read from the OECD's own PDF (87 pp.), downloaded on 2026-10-21 from
+    oecd.org/content/dam/oecd/en/publications/reports/2017/03/preventing-policy-capture_g1g78280/9789264065239-en.pdf,
+    text extracted with pdftotext. Read in full: the foreword, the
+    executive summary, chapter 1 (concept, the three criteria, scope and
+    impacts, with Box 1.1, Box 1.2 and Table 1.1) and chapter 2 (actors,
+    the vehicles of Table 2.1, the risk map of Figure 2.1, and the tax and
+    energy case studies). Chapter 3: read the introduction (Figure 3.1),
+    the stakeholder-engagement section with Table 3.4, the opening of the
+    transparency section with Box 3.1, the section on audit institutions,
+    competition authorities and regulators with Boxes 3.2–3.3, and the
+    opening of the section on organisational integrity. Skimmed: the
+    lobbying and political-finance frameworks (Tables 3.1–3.3), the rest of
+    the transparency section (Table 3.5), and the conflict-of-interest
+    table (3.6). The reference lists were not read. The figures were read
+    from captions and text.
+date: '2026-10-21'
+summary: >-
+  An institutional report, not research. It defines policy capture as "the
+  process of consistently or repeatedly directing public policy decisions
+  away from the public interest towards the interests of a specific
+  interest group or person", by legal or illegal means, and adds three
+  criteria adapted from Carpenter and Moss: an explicit policy goal, a
+  captor's intent to extract rents, and a shift of the process from that
+  goal. It maps the vehicles (including supplying research and
+  manipulated information) and risk factors, and recommends four
+  strategies: stakeholder engagement, transparency, independent oversight
+  bodies, and organisational integrity.
+---
+<!-- inactive-ok-file: TERM-tmpe6jtq CLAIM-tmpjo2zr CLAIM-359 THEORY-146 THEORY-429 — Proposed; open entries this reading bears on, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-tmphei2g — Unavailable; a work named as cited by the report, not read -->
+# NOTE-tmpk4llg: OECD — Preventing policy capture
+
+## Contribution
+
+It separates capture from corruption and from lobbying. Corruption is a
+transaction. Capture "is not related to a specific transaction, but is
+usually characterised as a more stable (undue) relationship achieved over
+time through both legal ... and illegal instruments and channels." Lobbying
+is legitimate advocacy that should be transparent and open to all. Capture
+is "not necessarily illegal" but "always illegitimate". The report gives a
+working definition, three criteria for when influence counts as capture, a
+catalogue of vehicles and risk factors, and a four-part strategy against
+it.
+
+## Key insight
+
+Capture is defined by its outcome relative to a stated goal, not by its
+means. "While policy capture entails clearly identifying and violating
+policy goals, no particular means of influence are presupposed." So the
+same channel, a consultation, an expert group, a study supplied to an
+official, can be participation or capture, and "participation then shifts
+from promoting inclusion to become a tool for exclusion." Capture "works
+through the system, rather than undermining it": captured laws "are adopted
+through legal means and are therefore legally effective."
+
+## Assumptions
+
+- A public interest exists and policy goals can be stated against which
+  diversion is measured. Criterion 1 requires that "An overarching policy
+  goal(s) must be explicitly defined."
+- Influence is legitimate when transparent and inclusive, and capture is
+  marked by opacity and exclusivity (Figure 1.4, after Boehm 2007).
+- The empirical claims are drawn from cited studies (Box 1.1: Fisman 2001,
+  Faccio 2006 and others) and from correlations in World Economic Forum
+  survey indicators (Figures 1.2 and 1.6). The report does no analysis of
+  its own beyond OECD surveys of lobbyists, legislators and regulators.
+
+## Key results
+
+- **Definition, executive summary.** "Policy capture is the process of
+  consistently or repeatedly directing public policy decisions away from
+  the public interest towards the interests of a specific interest group or
+  person." **Chapter 1** states it as "the result or process by which public
+  decisions over laws, regulations or policies are consistently or
+  repeatedly directed away from the public interest and towards the
+  interests of a narrow interest group or person, by the intent and action
+  of this group or person (see also Carpenter and Moss, 2014)."
+- **Without the decision maker's knowledge.** "Undue influence can even be
+  achieved without directly involving (and without the knowledge of)
+  public decision-makers, by manipulating information or establishing close
+  social or emotional ties with them." Chapter 2: officials can be captured
+  "unawares (by providing false information to skew a decision ...)".
+- **Three criteria** (adapted from Carpenter and Moss, 2014): "1. An
+  overarching policy goal(s) must be explicitly defined. 2. The captor
+  (group) must intend to extract rents. 3. The policy-making process ...
+  must have shifted away from the policy goal(s) in the public interest
+  towards the captor/group's interest." Without all three, actors "can
+  still influence a particular policy field ... but cannot be said to have
+  captured the policy process".
+- **Across the policy cycle** (Table 1.1): agenda-setting, development,
+  adoption, implementation and evaluation, each with its targets,
+  including "invited experts" and consultants at evaluation.
+- **Vehicles** (Table 2.1): reciprocity (payments, campaign funding, future
+  jobs), direct influence ("Providing research and analysis", threats),
+  personal ties (family, networks, revolving doors), strategic
+  communication ("Broad concerted action through media ownership"), and
+  expertise ("Using think tanks to produce research", "Providing
+  manipulated information and expertise"). Repeated interaction alone can
+  produce capture as public attention wanes (citing Martimort 1999).
+- **Risk map** (Figure 2.1): opportunity (unchecked discretion, technical
+  complexity, opacity) and capacity (resources, concentration and
+  inequality, recurrent benefits, stable networks), and expectations of
+  reciprocity. Technical complexity matters because "external analysis
+  and opinions, even if recognisably biased by a special interest, can be
+  considered useful guidance".
+- **Self-reinforcement.** "Benefits obtained through capture enable the
+  interest group to reinvest in further influence-seeking"; capture
+  "nurtures a vicious circle of inequality". Rent seeking "is subject to
+  increasing returns" (citing Murphy et al. 1993).
+- **Oversight bodies are targets.** Audit institutions, competition
+  authorities and regulators "are a natural target for capture". Box 3.3,
+  from a survey of 48 regulators in 26 countries: 88% of those funded by
+  the executive get annual budgets, most heads are appointed by the
+  executive, over half place no restriction on pre- or post-employment of
+  staff. Independent regulators "can be subject to undue influence from
+  government, regulated industries and powerful consumer groups."
+- **Four strategies** (Figure 3.1): levelling the playing field by
+  engaging stakeholders with diverging interests ("capturing a process or
+  decision equates excluding others from it"), transparency (necessary,
+  "not sufficient"), external accountability through audit institutions,
+  competition authorities and regulators, and organisational integrity.
+  Consultation late in the process "may indicate use of the tools of
+  stakeholder engagement as a mere formality".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Capture is a durable relationship, not a transaction, and can proceed by legal means | moderate | definitional; Johnston's "influence market corruption" (Box 1.2) |
+| C2 | Capture is identified by a shift away from an explicitly defined policy goal toward a captor that intends to extract rents; no particular means are presupposed | moderate | definitional, adapted from Carpenter and Moss (2014) |
+| C3 | Capture can be achieved without the decision maker's knowledge, by manipulating the information supplied | moderate | asserted; Helm (2010) cited; the energy case's "biased scientific expertise" |
+| C4 | Political connections carry measurable value to firms | strong in the cited studies | Box 1.1, secondhand (Fisman 2001; Faccio 2006; Khwaja and Mian 2005; others) |
+| C5 | Perceived undue influence correlates negatively with transparency and trust, and positively with perceived wasteful spending, across OECD countries | weak | cross-country correlations of survey indicators (Figures 1.2, 1.6), R² 0.61–0.78, no controls |
+| C6 | Capture is self-reinforcing through reinvested rents and increasing returns to rent seeking | weak | asserted, with Murphy et al. (1993) cited |
+| C7 | Inclusive engagement of diverging interests, transparency, independent oversight and organisational integrity together mitigate capture | weak | policy recommendation; Box 3.1 shows transparency's effects are context-dependent |
+
+## Concepts
+
+- **Policy capture**: as quoted above. **State capture**: of central
+  government at large scale. **Regulatory capture**: "capture of a
+  regulator, industry regulatory agency or regulatory process", for
+  example when private actors "persuade regulators to create, avoid or alter
+  rules, or to show leniency in enforcing them".
+- **Influence market corruption** (Johnston 2006, 2014): private wealth
+  seeking influence within strong institutions, where "abuses are often a
+  matter of pushing legal, even desirable, activities and connections to
+  unacceptable extremes".
+- **Due and undue influence**: distinguished by transparency and
+  inclusiveness (Figure 1.4).
+
+## Connections
+
+It builds on Stigler (1971) for capture of regulation as a cheaper source
+of rents than market strategies, on Olson (1965) for the collective-action
+dilemma of diffuse interests, on Krueger and Bhagwati for rent seeking, on
+Carpenter and Moss (2014) for the criteria, on Johnston for influence
+markets, and on Martimort (1999) for capture that grows as public attention
+wanes. It opens chapter 1 with North (1994): formal rules "are created to
+serve the interests of those with the bargaining power to create new
+rules." The record holds North (LIT-489, THEORY-429) and, unread, Stigler
+(LIT-tmphei2g).
+
+## Bearing on the record
+
+- **TERM-tmpe6jtq.** The TERM cites the OECD sense through A20's paraphrase
+  and calls it "not held". The report's own wording differs from the
+  paraphrase in two ways that matter to the TERM:
+  - It requires **the captor's intent** ("by the intent and action of this
+    group or person"; criterion 2, "must intend to extract rents"). The
+    TERM's fidelity-relative sense has no intent condition: in CLAIM-330's
+    loop, capture can arise with nobody intending it. So the two senses
+    differ by intent as well as by the standard. That supports the TERM's
+    choice to keep them apart, and it is a third difference the TERM's
+    "The sense not adopted" should state.
+  - It requires **an explicitly defined policy goal** (criterion 1), the
+    TERM's "standard from outside", made explicit. The TERM's two
+    conditions (an outside standard, durability) match the report's
+    criterion 1 and its "consistently or repeatedly".
+  - A20's "a repeated diversion of public decision-making toward narrow
+    interests, through potentially legal or illegal channels" is a fair
+    paraphrase, minus the intent clause.
+- **CLAIM-tmpjo2zr.** The report states the informational route outright:
+  undue influence "can even be achieved without directly involving (and
+  without the knowledge of) public decision-makers, by manipulating
+  information", and among its vehicles "Providing research and
+  analysis", "Using think tanks to produce research" and "Providing
+  manipulated information and expertise". Its risk factor of technical
+  complexity, where biased analysis "can be considered useful guidance", is
+  the condition under which the informational route works. It has no
+  evaluative route: nothing on capture of the criteria by which evidence is
+  weighed, except that capture is measured against stated goals. So it
+  supports the claim's first route and is silent on its second.
+- **CLAIM-tmpjo2zr, evaluators.** "SAIs, competition authorities and
+  regulatory agencies are a natural target for capture", and independent
+  regulators can be unduly influenced "from government, regulated
+  industries and powerful consumer groups". That is the claim's "formal
+  independence of the evaluator's procedure does not make its evaluation
+  independent", stated as a policy finding, with Box 3.3's survey of where
+  the pressure enters: budgets, appointments, revolving doors.
+- **Consultation.** "This timing is often too late to influence the
+  process, and may indicate use of the tools of stakeholder engagement as a
+  mere formality" is A27 §6's "satisfy a nominal requirement to consult
+  affected agents while denying them effective participation", which
+  CLAIM-tmpjo2zr quotes.
+- **THEORY-146.** The energy case's "polluting energy companies fund biased
+  research to underpin their business case" is the phenomenon THEORY-146
+  models, stated without a model.
+- **Self-reinforcement.** The report's "vicious circle", rents reinvested
+  in influence, is CLAIM-330's loop in prose, and its "increasing returns"
+  to rent seeking is LIT-tmp5l842's mechanism carried to influence. It
+  derives neither.
+- **CLAIM-359.** The four strategies are a policy-level counterpart of the
+  claim's safeguards: audits "independent of the audited" appear as
+  independent audit institutions, which "must also ... insulate themselves
+  from undue influence".
+
+No THEORY is filed. The report is definitional and advisory, and its
+empirical content is secondhand. No instruction for machine-learning
+practice; nothing for the anthology.
+
+## Limitations
+
+- **Not research.** The definition and criteria are adopted from others.
+  The evidence of Box 1.1 is cited, and the cross-country figures are
+  correlations of perception indicators without controls.
+- **The public interest is taken as given.** Criterion 1 needs an
+  explicitly defined goal. Where goals are contested or implicit, the
+  criteria cannot be applied, and the report does not say what then.
+- **Intent is hard to observe.** Criterion 2 requires the captor's intent
+  to extract rents. The report gives no way to establish it, and its own
+  example of capture "unawares" through repeated interaction sits awkwardly
+  with it on the official's side.
+- **Recommendations are not evaluated.** Box 3.1 itself reports that the
+  effects of transparency are context-dependent.
+
+## Open questions
+
+- How should capture be identified where the policy goal is contested? The
+  report's criteria presuppose that it is not.
+- Is intent necessary? The report's risk factor of repeated interaction,
+  with attention waning, describes a drift no one need intend.

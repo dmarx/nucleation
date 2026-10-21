@@ -1,14 +1,18 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  read 2026-10-21 (NOTE-tmpyyaar) through its precursor only, the 1983 IIASA working paper WP-83-90 ("On Competing Technologies and Historical Small Events: The Dynamics of Choice under Increasing Returns"), read in full from IIASA's repository; the 1989 article itself was not reached (Unpaywall and OpenAlex closed, no open PDF on Semantic Scholar, JSTOR paywalled). Worth reading for the model that makes lock-in analysable: increasing returns turn the adoption difference into a random walk with absorbing barriers, so one technology takes the market, which one is decided by the order of small events, and the outcome is neither predictable, flexible nor necessarily efficient (THEORY-tmpxzls4, re-derived). Read it knowing that the model is very special (two types, linear returns, no expectations, pricing or sponsors), that its historical examples are illustrations, and that the published version may differ from the precursor read here.
 title: 'Competing Technologies, Increasing Returns, and Lock-In by Historical Events'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is the first of Crossref's month, March 1989, per ADR-002. A19 named "W. Brian Arthur's work" on increasing returns and path dependence and no paper; this is the record's identification of its standard source.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read (NOTE-tmpyyaar) through its precursor, IIASA WP-83-90 (September 1983), the scan at pure.iiasa.ac.at/id/file/4454, read in full. No lawful copy of the 1989 article was reached: Unpaywall and OpenAlex report it closed, Semantic Scholar lists no open PDF, and JSTOR is paywalled. Status Deferred → Active on the strength of the precursor, the account being the one the article is cited for. No `url:` is added, since the open copy is a different text. The summary is checked against the precursor and kept.
 tags:
 - social-science
 - complex-systems
@@ -31,8 +35,9 @@ summary: >-
 
 Arthur, W. B. (1989). Competing Technologies, Increasing Returns, and Lock-In by Historical Events. *The Economic Journal* 99(394): 116–131. doi:10.2307/2234208.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read on 2026-10-21 (NOTE-tmpyyaar) through its precursor, Arthur's IIASA
+working paper WP-83-90 (1983), in full; the 1989 article was not reached.
+The model's result is THEORY-tmpxzls4, Active.
 
 ## Why this is here
 
