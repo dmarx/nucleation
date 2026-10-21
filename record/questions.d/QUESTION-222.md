@@ -39,6 +39,7 @@ answered_by:
 refined_by:
 - QUESTION-248
 ---
+<!-- inactive-ok-file: QUESTION-248 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: NOTE-1029 — new reading, cited as where CLAIM-397 was derived -->
 <!-- inactive-ok-file: THEORY-818 — Proposed; the Lorenz 96 finding, cited as partial -->
 <!-- inactive-ok-file: LIT-1245 LIT-1251 LIT-1253 LIT-1259 — Deferred; works registered unread, cited as open, nothing here rests on them -->

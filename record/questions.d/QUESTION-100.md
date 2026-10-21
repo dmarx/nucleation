@@ -35,6 +35,7 @@ refined_by:
 - QUESTION-121
 - QUESTION-241
 ---
+<!-- inactive-ok-file: QUESTION-241 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: CLAIM-275 CLAIM-276 CLAIM-277 CLAIM-278 CLAIM-281 CLAIM-285 CLAIM-297 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
 # QUESTION-100: Beyond the linearization at symmetry, when does coupling interpretation-dependent retrieval to performance-dependent endorsement produce stable expertise, and when does it produce self-reinforcing interpretive capture?

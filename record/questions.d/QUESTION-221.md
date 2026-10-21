@@ -36,6 +36,7 @@ answered_by:
 refined_by:
 - QUESTION-242
 ---
+<!-- inactive-ok-file: QUESTION-242 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-221: Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block's aggregate small to a stated order in ε?
 

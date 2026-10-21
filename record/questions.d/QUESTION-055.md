@@ -47,6 +47,7 @@ summary: >-
 refined_by:
 - QUESTION-247
 ---
+<!-- inactive-ok-file: QUESTION-247 — Answered; the child split off this question under ADR-049, cited as answered -->
 
 # QUESTION-055: If communicative categories form a non-Boolean lattice, what structure fixes the negation of a category: a presheaf over contexts, and if so over which base category, an orthocomplemented lattice, or sectors that no probe connects?
 

@@ -46,6 +46,7 @@ summary: >-
 refined_by:
 - QUESTION-243
 ---
+<!-- inactive-ok-file: QUESTION-243 — Answered; the child split off this question under ADR-049, cited as answered -->
 
 <!-- inactive-ok-file: CLAIM-331 LIT-1137 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?

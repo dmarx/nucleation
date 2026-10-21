@@ -31,6 +31,7 @@ summary: >-
 refined_by:
 - QUESTION-240
 ---
+<!-- inactive-ok-file: QUESTION-240 — Answered; the child split off this question under ADR-049, cited as answered -->
 <!-- inactive-ok-file: CLAIM-100 — Superseded; open, and cited as open: the claim, argument or reading is under test, not settled -->
 
 # QUESTION-022: Beyond restriction-compatible kernels and kernels induced by one global kernel, which stochastic transports carry compatible empirical models to compatible ones and preserve global extendability: which conditions are necessary, and what does a transport that changes the cover do?

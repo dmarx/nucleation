@@ -42,7 +42,7 @@ J = [[α, β], [γ, δ]] with nonnegative entries and α, δ < 1:
   both components: a joint lean of meaning and authority.
 
 [CLAIM-340](../claims.d/CLAIM-340.md) adds that committing predictions before the evidence is not by
-itself Regime B. That is [QUESTION-239](QUESTION-239.md).
+itself Regime B.
 
 ## What it leaves to [QUESTION-100](QUESTION-100.md)
 
