@@ -78,7 +78,7 @@ answers:
 - QUESTION-061
 ---
 <!-- inactive-ok-file: THEORY-103 THEORY-094 — Proposed; filed in the same batch, the overflow account and the methodological account this one presupposes -->
-<!-- inactive-ok-file: THEORY-102 THEORY-100 — Proposed; named in Connections as data this account reads, no relation claimed -->
+<!-- inactive-ok-file: THEORY-100 — Proposed; named in Connections as data this account reads, no relation claimed -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, the relation declared on its file -->
 <!-- inactive-ok-file: THEORY-296 — Proposed; the failed synchronization prediction, named in the note of 2026-10-14 -->
 

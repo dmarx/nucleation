@@ -63,7 +63,6 @@ answers:
 ---
 <!-- inactive-ok-file: THEORY-415 THEORY-563 THEORY-633 — Proposed; the Dennett and illusionist accounts named in the rival accounts section to say why none is declared a rival, not leaned on -->
 <!-- inactive-ok-file: THEORY-098 THEORY-094 — Proposed; filed in the same batch and named in Connections, nothing here rests on them -->
-<!-- inactive-ok-file: THEORY-102 — Proposed; named in Connections for contrast, nothing here rests on it -->
 <!-- inactive-ok-file: THEORY-096 — Proposed; the rival account, the relation declared on its file -->
 
 # THEORY-103: Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued

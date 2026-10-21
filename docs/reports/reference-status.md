@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**481 documents cited without acknowledgement.** Not listed: 10236 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**479 documents cited without acknowledgement.** Not listed: 10225 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -681,7 +681,7 @@ Under a deadline, search can establish presence by finding one item but absence 
 - [`record/notes.d/NOTE-899.md:165`](../../record/notes.d/NOTE-899.md)
 - [`record/notes.d/NOTE-913.md:97`](../../record/notes.d/NOTE-913.md)
 - [`record/notes.d/NOTE-920.md:86`](../../record/notes.d/NOTE-920.md)
-- [`record/theory.d/THEORY-341.md:113`](../../record/theory.d/THEORY-341.md)
+- [`record/theory.d/THEORY-341.md:112`](../../record/theory.d/THEORY-341.md)
 - [`record/theory.d/THEORY-358.md:113`](../../record/theory.d/THEORY-358.md)
 - [`record/theory.d/THEORY-367.md:113`](../../record/theory.d/THEORY-367.md)
 - [`record/theory.d/THEORY-373.md:105`](../../record/theory.d/THEORY-373.md)
@@ -1204,6 +1204,23 @@ Classical Boolean logic is restored when a presheaf of contextual data acquires 
 - [`record/notes.d/NOTE-334.md:139`](../../record/notes.d/NOTE-334.md)
 - [`record/notes.d/NOTE-334.md:141`](../../record/notes.d/NOTE-334.md)
 
+### [THEORY-209](../../record/theory.d/THEORY-209.md) — Proposed
+
+A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
+
+10 citations in 4 files await a look; 27 other citations of it are acknowledged.
+
+- [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
+- [`record/literature.d/LIT-970.md:80`](../../record/literature.d/LIT-970.md)
+- [`record/notes.d/NOTE-712.md:112`](../../record/notes.d/NOTE-712.md)
+- [`record/notes.d/NOTE-712.md:129`](../../record/notes.d/NOTE-712.md)
+- [`record/theory.d/THEORY-210.md:36`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:65`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:133`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:136`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-210.md:137`](../../record/theory.d/THEORY-210.md)
+- [`record/theory.d/THEORY-829.md:14`](../../record/theory.d/THEORY-829.md)
+
 ### [CLAIM-166](../../record/claims.d/CLAIM-166.md) — Proposed
 
 A lower-level collective within the composite person, such as the gut microbiome, can at times drive higher-level behaviour and even experience: the routes exist and the effects are causal in rodents, while the human evidence is modest
@@ -1363,22 +1380,6 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 - [`record/theory.d/THEORY-090.md:191`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-102.md:185`](../../record/theory.d/THEORY-102.md)
 - [`record/theory.d/THEORY-102.md:187`](../../record/theory.d/THEORY-102.md)
-
-### [THEORY-209](../../record/theory.d/THEORY-209.md) — Proposed
-
-A converged network trained with SGD is not at a point and does not sample its training loss: under a quadratic approximation it samples a Gibbs distribution on a modified loss, isotropic in the Hessian's column space, with probability currents that keep it oscillating, so its speed and spread are set by the learning rate, momentum and batch size
-
-9 citations in 3 files await a look; 27 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-970.md:6`](../../record/literature.d/LIT-970.md)
-- [`record/literature.d/LIT-970.md:80`](../../record/literature.d/LIT-970.md)
-- [`record/notes.d/NOTE-712.md:112`](../../record/notes.d/NOTE-712.md)
-- [`record/notes.d/NOTE-712.md:129`](../../record/notes.d/NOTE-712.md)
-- [`record/theory.d/THEORY-210.md:36`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:65`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:133`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:136`](../../record/theory.d/THEORY-210.md)
-- [`record/theory.d/THEORY-210.md:137`](../../record/theory.d/THEORY-210.md)
 
 ### [THEORY-468](../../record/theory.d/THEORY-468.md) — Proposed
 
@@ -2183,6 +2184,19 @@ Moral judgment draws on several innately prepared intuitive foundations, at leas
 - [`record/theory.d/THEORY-613.md:86`](../../record/theory.d/THEORY-613.md)
 - [`record/theory.d/THEORY-626.md:86`](../../record/theory.d/THEORY-626.md)
 
+### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
+
+The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
+
+6 citations in 2 files await a look; 3 other citations of it are acknowledged.
+
+- [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:77`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-770.md:82`](../../record/theory.d/THEORY-770.md)
+- [`record/theory.d/THEORY-829.md:13`](../../record/theory.d/THEORY-829.md)
+
 ### [CLAIM-024](../../record/claims.d/CLAIM-024.md) — Proposed
 
 Nothing here is new: planning theory, control theory, executive control and institutional theory already study every mechanism the account names
@@ -2542,18 +2556,6 @@ If pretraining text is a mixture of hidden Markov models indexed by a latent con
 - [`record/questions.d/QUESTION-161.md:26`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:35`](../../record/questions.d/QUESTION-161.md)
 - [`record/questions.d/QUESTION-161.md:43`](../../record/questions.d/QUESTION-161.md)
-
-### [THEORY-673](../../record/theory.d/THEORY-673.md) — Proposed
-
-The Price equation follows from any ancestor–descendant mapping in a closed population and is, like f = ma, a generalization-sketch: a schema that is empty of predictions until a specific model supplies entities, characters, time step and causes, whose value lies in unifying and guiding model construction, so the charges that it is a tautology or lacks predictive power and dynamic sufficiency ask of it what only its specialisations can supply
-
-5 citations in 1 file await a look; 2 other citations of it are acknowledged.
-
-- [`record/theory.d/THEORY-770.md:12`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:14`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:16`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:77`](../../record/theory.d/THEORY-770.md)
-- [`record/theory.d/THEORY-770.md:82`](../../record/theory.d/THEORY-770.md)
 
 ### [CLAIM-002](../../record/claims.d/CLAIM-002.md) — Proposed
 
@@ -2917,17 +2919,6 @@ In an active-inference model of post-traumatic context inference, an overly prec
 - [`record/claims.d/CLAIM-342.md:46`](../../record/claims.d/CLAIM-342.md)
 - [`record/claims.d/CLAIM-342.md:67`](../../record/claims.d/CLAIM-342.md)
 - [`record/questions.d/QUESTION-121.md:68`](../../record/questions.d/QUESTION-121.md)
-
-### [THEORY-374](../../record/theory.d/THEORY-374.md) — Proposed
-
-Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries
-
-4 citations in 3 files await a look; 3 other citations of it are acknowledged.
-
-- [`record/literature.d/LIT-1116.md:12`](../../record/literature.d/LIT-1116.md)
-- [`record/questions.d/QUESTION-114.md:341`](../../record/questions.d/QUESTION-114.md)
-- [`record/theory.d/THEORY-389.md:94`](../../record/theory.d/THEORY-389.md)
-- [`record/theory.d/THEORY-389.md:114`](../../record/theory.d/THEORY-389.md)
 
 ### [THEORY-494](../../record/theory.d/THEORY-494.md) — Proposed
 
@@ -3942,7 +3933,7 @@ Effective Page Refresh Policies for Web Crawlers
 
 Combining Fuzzy Information from Multiple Systems
 
-2 citations in 2 files await a look; 4 other citations of it are acknowledged.
+2 citations in 2 files await a look; 7 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-924.md:34`](../../record/notes.d/NOTE-924.md)
 - [`record/questions.d/QUESTION-114.md:358`](../../record/questions.d/QUESTION-114.md)
@@ -4325,15 +4316,6 @@ A neural correlate of conscious report does not require laminar cortex: in crows
 - [`record/questions.d/QUESTION-048.md:30`](../../record/questions.d/QUESTION-048.md)
 - [`record/questions.d/QUESTION-048.md:51`](../../record/questions.d/QUESTION-048.md)
 
-### [THEORY-102](../../record/theory.d/THEORY-102.md) — Proposed
-
-In human ventral temporal cortex the category and object identity of a clearly seen, unchanging image are carried for as long as it stays on by a stable population code while activity amplitude decays; prefrontal and parietal content is a transient event at onset
-
-2 citations in 1 file await a look; 33 other citations of it are acknowledged.
-
-- [`record/questions.d/QUESTION-061.md:23`](../../record/questions.d/QUESTION-061.md)
-- [`record/questions.d/QUESTION-061.md:44`](../../record/questions.d/QUESTION-061.md)
-
 ### [THEORY-103](../../record/theory.d/THEORY-103.md) — Proposed
 
 Perceptual consciousness overflows cognitive access: in partial-report tasks more items are experienced than the roughly four that working memory holds, though any one of them can be accessed when cued
@@ -4594,15 +4576,6 @@ In one simulator evicting whole query-shaped cache regions, no replacement value
 
 - [`record/literature.d/LIT-1113.md:13`](../../record/literature.d/LIT-1113.md)
 - [`record/questions.d/QUESTION-114.md:345`](../../record/questions.d/QUESTION-114.md)
-
-### [THEORY-379](../../record/theory.d/THEORY-379.md) — Proposed
-
-When the orderings of m attribute-sorted lists of N objects are probabilistically independent, Fagin's Algorithm finds the top k objects under any monotone combining function with O(N^((m−1)/m) k^(1/m)) accesses with arbitrarily high probability, and for strict combining functions no correct algorithm does essentially better in the worst case with high probability; without independence the bound is not claimed
-
-2 citations in 2 files await a look.
-
-- [`record/theory.d/THEORY-361.md:84`](../../record/theory.d/THEORY-361.md)
-- [`record/theory.d/THEORY-363.md:104`](../../record/theory.d/THEORY-363.md)
 
 ### [THEORY-383](../../record/theory.d/THEORY-383.md) — Proposed
 
@@ -5069,6 +5042,14 @@ Epistemic injustice in the clinical care of practitioners of Afro-Brazilian reli
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
 - [`record/notes.d/NOTE-098.md:108`](../../record/notes.d/NOTE-098.md)
+
+### [LIT-1308](../../record/literature.d/LIT-1308.md) — Unavailable
+
+Folk concepts of person and identity: A response to Nichols and Bruno
+
+1 citation in 1 file awaits a look.
+
+- [`record/literature.d/LIT-1269.md:156`](../../record/literature.d/LIT-1269.md)
 
 ### [LIT-171](../../record/literature.d/LIT-171.md) — Unavailable
 

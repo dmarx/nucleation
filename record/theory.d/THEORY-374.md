@@ -1,19 +1,23 @@
 ---
 number: 374
-status: Proposed
+status: Active
 formerly:
 - THEORY-tmpg43pg
-promote_when: >-
-  A reading of the primary proofs, Abiteboul and Duschka 1998 for certain
-  answers and Duschka, Genesereth and Levy 2000 for inverse rules, that
-  confirms each statement with its conditions (query and view language,
-  open or closed world, data or expression complexity). The equivalent-
-  rewriting part is already proved in LIT-1100. Another survey or
-  textbook restating the results cannot settle it; one of those primary
-  papers showing a narrower condition than the survey states would revise
-  the title rather than refute it.
-title: "Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries"
-version: 1
+title: "Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size under the open-world assumption when the views are conjunctive and the query conjunctive or datalog, but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries"
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Narrowed and promoted, carrying out the promotion audit's decision for
+    THEORY-374 (batch 076, ADR-047 v2). The primary proofs (Abiteboul and
+    Duschka 1998; Duschka, Genesereth and Levy 2000) are unread; the
+    inverse-rules construction, the open-world certain answers and the
+    closed-world co-NP-hardness were re-derived step by step for the
+    review, and the exact-rewriting part is THEORY-389's. The survey's
+    "in many open-world cases" is replaced by the condition re-derived:
+    conjunctive views with a conjunctive or datalog query. The
+    promote_when is removed.
 tags:
 - databases
 - logic
@@ -30,7 +34,8 @@ summary: >-
   an exact rewriting is NP-complete in the size of the definitions, building
   everything the views give (maximally contained) is polynomial, and the
   certain answers can cost a co-NP-hard search in the size of the stored
-  data. Proposed because the last two parts rest on the survey's account.
+  data. Promoted 2026-10-21 on a re-derivation of the last two parts
+  (ADR-047 v2); the primary papers they come from are unread.
   None of it prices recognition for definitions outside conjunctive queries
   and datalog, or says how costly recognition is on typical queries.
 supports:
@@ -39,7 +44,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-303 CLAIM-308 QUESTION-114 — read the same day, Proposed or open; named as works and claims this account bears on, not leaned on -->
 
-# THEORY-374: Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size in many open-world cases but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries
+# THEORY-374: Given views with conjunctive definitions, deciding that they answer a conjunctive query exactly is NP-complete in the size of the query and definitions, while a maximally-contained rewriting can be built in time polynomial in that size without saying whether it is exact; and finding all certain answers from the stored contents is polynomial in their size under the open-world assumption when the views are conjunctive and the query conjunctive or datalog, but co-NP-hard in that size under the closed-world assumption even for conjunctive views and queries
 
 ## Source
 
@@ -110,3 +115,19 @@ conjunctive views, would put an NP-complete problem in P.
 - [THEORY-341](THEORY-341.md) (Reiter): the closed-world certain-answer result is the
   stored-views counterpart of Reiter's assumption, and the cost runs the
   other way from the complete-database case.
+
+## Narrowed and promoted (2026-10-21)
+
+Batch 076 of the promotion audit promoted this account under [ADR-047](../decisions.d/ADR-047.md) v2
+on a re-derivation. The inverse rules give, from the stored extensions,
+one database whose constant answers to the query are exactly the
+open-world certain answers: it is consistent with the extensions, and it
+maps homomorphically into every database that is, so a conjunctive or
+datalog query true on it is true on all of them. Its size is linear in
+the extensions, so the certain answers are polynomial in data complexity,
+and no sound rewriting can return more. The closed-world hardness is a
+reduction from 3-colourability with fixed views and query: under exact
+extensions the query asking for an edge whose ends share a colour is
+certain just when the graph, with a disjoint triangle added, has no
+proper 3-colouring. The open-world clause is narrowed from the survey's
+"many cases" to the case re-derived.

@@ -52,7 +52,7 @@ presupposed_by:
 answers:
 - QUESTION-048
 ---
-<!-- inactive-ok-file: THEORY-100 THEORY-102 — Proposed; the accounts this methodological point bears on, named in prose, no relation claimed -->
+<!-- inactive-ok-file: THEORY-100 — Proposed; the accounts this methodological point bears on, named in prose, no relation claimed -->
 <!-- inactive-ok-file: THEORY-098 THEORY-103 — Proposed; filed in the same batch and named in Connections -->
 
 # THEORY-094: Neither report nor no-report paradigms isolate the neural basis of consciousness, because post-perceptual cognition that tracks the percept persists without report; only a design that removes differential post-perceptual cognition does

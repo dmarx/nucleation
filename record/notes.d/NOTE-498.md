@@ -25,7 +25,6 @@ summary: >-
   conceded but placed inside a cognitive envelope.
 ---
 <!-- inactive-ok-file: LIT-636 — Unavailable: the book is unread; named as what this précis summarises -->
-<!-- inactive-ok-file: THEORY-102 — Proposed; named as bearing, no relation claimed -->
 
 # NOTE-498: Block — Précis of The Border between Seeing and Thinking
 

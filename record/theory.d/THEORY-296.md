@@ -31,7 +31,7 @@ summary: >-
   sampled in iEEG. It tests IIT's proposed implementation, not
   integrated information.
 ---
-<!-- inactive-ok-file: THEORY-098 THEORY-102 THEORY-245 — Proposed; the sensory-recurrence account this bears on, the sustained-content finding it sits beside, and the companion account from the same reading -->
+<!-- inactive-ok-file: THEORY-098 THEORY-245 — Proposed; the sensory-recurrence account this bears on, the sustained-content finding it sits beside, and the companion account from the same reading -->
 
 # THEORY-296: In a preregistered multimodal test with clearly seen images, category-selective posterior cortex showed no sustained content-specific synchronization with early visual cortex: the coupling was brief, low-frequency and mostly stimulus-evoked
 

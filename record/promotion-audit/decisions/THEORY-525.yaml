@@ -1,0 +1,37 @@
+id: THEORY-525
+batch: batch-078
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: no
+hand_label: argument (a normative thesis resting on an unmeasured structural premise)
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand as an argument. The title has a conditional shape (the
+    celebrity directs, the fans interpret, "so" refused uptake is a
+    failure of recognition respect), which the classifier read as a
+    theorem. Its first clause is an empirical generalization supported by
+    case studies, and its conclusion is a normative claim.
+  excluded: >-
+    Everything. The promote_when asks for systematic evidence of the
+    identity asymmetry, an entitlement condition stated without assuming
+    the verdict, and a documented case beyond the celebrity's testimony.
+evidence:
+  - "LIT-172; the THEORY body."
+blockers:
+  - "No systematic study of the fan-celebrity identity asymmetry is held."
+  - "No entitlement condition for a presented self is stated."
+dropped_clauses: []
+notes: >-
+  Two separable parts with different needs: a reading task for the
+  structural premise, and a wave-5 review for the normative step once
+  that premise is reviewed.
+unlocks: []
+next_action: >-
+  Retain Proposed. Requeue when a systematic study of the asymmetry is
+  filed.

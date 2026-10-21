@@ -4,7 +4,7 @@
 
 *Question statuses — Where a QUESTION stands. A question is never deleted; it is answered, dissolved or set aside, and the record keeps what it was.*
 
-**Answered** — the record holds an Active claim that answers it.
+**Answered** — the record holds an Active CLAIM or THEORY, or several together, that answer it as posed and in full scope. A question answered only in part is split, and the answered part becomes a child question (ADR-049).
 
 0 of 238 QUESTION documents. Back to the [full index](../README.md).
 

@@ -1,0 +1,37 @@
+# record/promotion-audit/decisions/THEORY-060.yaml
+id: THEORY-060
+batch: batch-076
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+hand_label: argument (a thesis about diachronic identity) with an empirical clause cited from a review
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing new. McAdams (2019, LIT-595, read in full in NOTE-470) is a
+    review essay whose empirical claims are cited, not shown.
+  excluded: >-
+    Promotion of either half. The identity half is a thesis whose test
+    (the promote_when's narrative-orientation comparison) is not in the
+    record; the well-being half rests on studies the essay cites
+    (Adler 2012 and others), none read here, so ADR-047 v3's one study
+    read in full is not met and no narrowing to a measured clause is
+    available.
+evidence:
+  - "NOTE-470 (LIT-595, read in full)."
+blockers:
+  - "A first-hand reading of Adler (2012), as the promote_when names, for the well-being half."
+  - "The narrative-orientation comparison the promote_when names, for the identity half."
+notes: >-
+  Hand label argument; triage-007 fired on "is the form ... and its
+  content shapes". The well-being half is a reading task: if Adler 2012
+  is read in full and its design matches, that half could be split off
+  as a measurement under ADR-047 v3, leaving the identity thesis.
+unlocks: []
+next_action: >-
+  Retain; requeue as a reading task (Adler 2012).
