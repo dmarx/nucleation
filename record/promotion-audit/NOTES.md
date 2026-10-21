@@ -2194,3 +2194,20 @@ history note. THEORY-277 is requeued on this basis.
   split off.
 - THEORY-525 needs a systematic study of the fan-celebrity identity
   asymmetry before a wave-5 review could move it.
+
+## 2026-10-21 — round 076-078 tally (triage-007 theorem route 16-30); triage-007 exhausted
+
+- 5 of 15 have promotion paths: THEORY-374 (view-containment complexity,
+  re-derived), THEORY-102 (narrowed to one intracranial study) and
+  THEORY-379 (Fagin's threshold algorithm, narrowed to random orderings)
+  promoted; THEORY-647 and THEORY-412 split off exact formal cores. New
+  entries THEORY-829 to THEORY-832; the dropped wide claims of THEORY-102
+  and THEORY-379 went to Proposed THEORYs under ADR-047 v4.
+- triage-007's theorem label below margin 4 was right on 6 of 25 across
+  batches 060-062 and 076-078; at margin >= 4, 3 of 3. Its routes are now
+  exhausted.
+- Re-deriving a reported theorem can expose an under-stated condition:
+  independence of the sorted lists is not enough for the threshold
+  algorithm's bound (two lists in opposite orders need depth N/2).
+- A survey's hedge ("many cases") can be replaced by the exact condition
+  the re-derivation finds, and promoted.

@@ -1,7 +1,7 @@
 # record/promotion-audit/queue.yaml
 # The promotion audit's queue (ADR-047). Bump `version` and append to `history`
 # on every change; keep `handoff` current; run check.py before committing.
-version: 171
+version: 172
 updated: '2026-10-20'
 record_revision: 3064087c
 procedure: record/decisions.d/ADR-047.md
@@ -12,25 +12,29 @@ handoff:
   next_step: 'Batches 073-075 (triage-007 measurement route 6-20) merged (#296-#298): 8 of 15 promoted,
     each narrowing with its dropped claim filed as a Proposed THEORY under ADR-047 v4 (THEORY-823..828);
     the 7 retained are arguments the classifier called measurements (THEORY-547, -436, -627, -680, -684,
-    -495, -575). Next: triage-007''s remaining routes are exhausted at margin >= 3 for measurements; the
-    theorem route 16-30 and the argument class go to wave 5 or a new triage. Sweep batches 065-072 merged
-    (#284-#287, #289, #291-#293): 40 codes, 39 new Proposed entries (THEORY-780..817, CLAIM-396); THEORY-362
-    and -377 were not narrowing losses. The sweep is done except narrowing_sweep.held_for_owner, which
-    waits on the rulings below. Owner rulings needed (narrowing_sweep.held_for_owner): report form vs
-    direct form for titles of sources'' wide claims (batch 069 used direct); THEORY-163 causal reading
-    as its own Proposed THEORY; unchecked source theorems as separate Proposed THEORYs or body only (THEORY-158,
-    -160, -171, -244, -247, -318, -367, -387, -478); THEORY-334 against its Active rival THEORY-346; THEORY-246
-    kind 3 vs 1; THEORY-161, -290 kind 1 vs 2; THEORY-026 needs LIT-041 checked. After the sweep: triage-007
-    measurement route 6-20 (4 of 5 in batch 063), then theorem route margin >= 4 only. Other owner questions
-    open: THEORY-684 as a prevalence claim (CLAIM-238 rule); THEORY-547 definitional-core split; narrow
-    THEORY-646''s promote_when to its title; THEORY-039 as an interpretive CLAIM; record-own results filed
-    Active (CLAIM-384, -385, -391, and CLAIM-395); skimmed peer-reviewed proof as "a proof" (THEORY-188,
-    -270, -763); report titles (THEORY-344, -351, -071, -628, -336); conditional theorems with promote_when
-    moved to a QUESTION (THEORY-185, -133, -419, -527, -204, -243); splits of textbook or toy-model theorems
-    (THEORY-110, -673, -209, -476 definitional core, -529 not split); Propp selection point as an objection
-    claim; closed sources (Ney 2016/2021, Mandelkern, Geisler 1989, Propp schemes, Ladyman 1998); THEORY-073;
-    CLAIM-143; THEORY-321; CLAIM-139; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160;
-    CLAIM-322, CLAIM-251, THEORY-157, THEORY-277. THEORY-675 to the anthology is moot under ADR-048.'
+    -495, -575). Batches 076-078 (triage-007 theorem route 16-30) merged (#300, #301, #308): 5 of 15 have
+    promotion paths (THEORY-374, -102, -379 promoted; THEORY-647, -412 split; new entries THEORY-829..832).
+    triage-007 is exhausted. Next: wave 5 on the retained arguments, or a new triage (triage-009) of the
+    remaining undecided THEORYs; the title classifier is unreliable below margin 4 (theorem label right
+    on 6 of 25 there). Sweep batches 065-072 merged (#284-#287, #289, #291-#293): 40 codes, 39 new Proposed
+    entries (THEORY-780..817, CLAIM-396); THEORY-362 and -377 were not narrowing losses. The sweep is
+    done except narrowing_sweep.held_for_owner, which waits on the rulings below. Owner rulings needed
+    (narrowing_sweep.held_for_owner): report form vs direct form for titles of sources'' wide claims (batch
+    069 used direct); THEORY-163 causal reading as its own Proposed THEORY; unchecked source theorems
+    as separate Proposed THEORYs or body only (THEORY-158, -160, -171, -244, -247, -318, -367, -387, -478);
+    THEORY-334 against its Active rival THEORY-346; THEORY-246 kind 3 vs 1; THEORY-161, -290 kind 1 vs
+    2; THEORY-026 needs LIT-041 checked. After the sweep: triage-007 measurement route 6-20 (4 of 5 in
+    batch 063), then theorem route margin >= 4 only. Other owner questions open: THEORY-480 (a report
+    of the US v. Google remedies opinion, read in full) joins the report-title question; THEORY-684 as
+    a prevalence claim (CLAIM-238 rule); THEORY-547 definitional-core split; narrow THEORY-646''s promote_when
+    to its title; THEORY-039 as an interpretive CLAIM; record-own results filed Active (CLAIM-384, -385,
+    -391, and CLAIM-395); skimmed peer-reviewed proof as "a proof" (THEORY-188, -270, -763); report titles
+    (THEORY-344, -351, -071, -628, -336); conditional theorems with promote_when moved to a QUESTION (THEORY-185,
+    -133, -419, -527, -204, -243); splits of textbook or toy-model theorems (THEORY-110, -673, -209, -476
+    definitional core, -529 not split); Propp selection point as an objection claim; closed sources (Ney
+    2016/2021, Mandelkern, Geisler 1989, Propp schemes, Ladyman 1998); THEORY-073; CLAIM-143; THEORY-321;
+    CLAIM-139; CLAIM-328; CLAIM-206 vs CLAIM-217 with CLAIM-241; CLAIM-046; CLAIM-160; CLAIM-322, CLAIM-251,
+    THEORY-157, THEORY-277. THEORY-675 to the anthology is moot under ADR-048.'
   cautions:
   - 'ADR-047 v2: a re-derivation in the decision file meets a request for a proof the record lacks; write
     it out step by step.'
@@ -4341,6 +4345,10 @@ history:
     analysis (the conjunction of any V-standard number of beliefs is believed; for a V-ultralarge number
     it can fail) is re-derived and split off as its own Active THEORY; THEORY-647 keeps Wenmackers''s
     thesis about belief and the Lottery Paradox. The other four are arguments.; carried_out_in #300'
+- version: 172
+  date: '2026-10-21'
+  note: 'Round 076-078 tally: 5 of 15 promotion paths (#300, #301, #308); triage-007 exhausted; hand-off
+    updated.'
 record_revision_triage_002: d3f55159e57ff91f3a959796d61328e5ed698b01
 narrowing_sweep:
   procedure: record/decisions.d/ADR-047.md (v4)
