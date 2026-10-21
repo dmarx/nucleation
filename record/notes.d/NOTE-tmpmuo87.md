@@ -1,0 +1,201 @@
+---
+status: Read
+paper: LIT-tmpwbhro
+title: 'Perdomo, Zrnic, Mendler-Dünner and Hardt — Performative prediction'
+version: 1
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Read in full from arXiv:2002.06673v4 (26 February 2021, the version
+    dated 2 March 2021 on its title page; 32 pages), text extracted with
+    pdftotext. Read: §§1–6; Appendix A (applications) and B (experiments);
+    C (auxiliary lemmas); D.1–D.2 and D.5–D.8 (the proofs of Theorem 3.5,
+    Proposition 3.6, Propositions 4.1–4.2, Theorem 4.3 and Corollary 5.1),
+    checked step by step; D.3–D.4 (Theorems 3.8 and 3.10) and E
+    (regularization) read, not checked line by line. The proceedings text
+    (PMLR 119) was not compared. Example 2.2, Theorem 3.5, Proposition
+    3.6(c), Proposition 4.2 and Theorem 4.3 were re-derived here, and
+    Example 2.2 checked numerically.
+date: '2026-10-21'
+summary: >-
+  When a deployed model's predictions change the distribution they are
+  scored on, D(θ), two solution concepts separate: a performative optimum
+  minimizes the risk on the distribution it induces, and a performatively
+  stable point is optimal for the distribution it induces, a fixed point
+  of retraining. With a β-jointly smooth, γ-strongly convex loss and a map
+  D(·) that is ε-Lipschitz in Wasserstein-1, retraining contracts at rate
+  εβ/γ and converges to a unique stable point when ε < γ/β, and removing
+  any one condition can break convergence. Stable points and optima are
+  within 2L_zε/γ of each other, and can differ.
+---
+<!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; filed from the same exchange, the claim this reading bears on, cited as open -->
+<!-- inactive-ok-file: TERM-tmp5lqn0 — Proposed; filed from the same exchange, named as the entry this reading bears on -->
+
+# NOTE-tmpmuo87: Perdomo, Zrnic, Mendler-Dünner and Hardt — Performative prediction
+
+## Contribution
+
+It brings performativity, "the prediction influences the target", into
+risk minimization by a map D(·) from model parameters to the distribution
+of (features, outcome) that deploying the model produces. It defines
+performative optimality and performative stability, shows that they
+differ, and gives sufficient conditions for repeated retraining to
+converge to a stable point, each shown necessary by a counterexample. It
+also shows that stable points are near optimal. Strategic classification
+becomes a special case, with Stackelberg equilibria as performative
+optima.
+
+## Key insight
+
+Retraining is "a natural equilibrating dynamic rather than a nuisance",
+and what it equilibrates to is self-consistency, not truth about other
+policies. "Performative stability implies that the predictions are
+calibrated not against past outcomes, but against the future outcomes that
+manifest from acting on the prediction." A stable model is optimal for the
+world it makes, and retraining only ever samples that world. It learns
+nothing about D(θ′) for policies never deployed.
+
+## Assumptions
+
+- Θ ⊆ ℝ^d closed and convex; instances z = (x, y), x ∈ ℝ^(m−1), y ∈ ℝ.
+- **ε-sensitivity** (Definition 3.1): W₁(D(θ), D(θ′)) ≤ ε‖θ − θ′‖₂.
+- **(A1) β-joint smoothness**: ∇_θℓ(z; θ) is β-Lipschitz in θ and in z.
+- **(A2) γ-strong convexity** of ℓ(z; ·) for every z.
+- D(·) is fixed: "deploying the same model at two different points in
+  time must induce the same distribution". The paper reads D(θ) as the
+  interventional distribution of a do-intervention on θ.
+- Theorem 4.3: ℓ is L_z-Lipschitz in z. Theorem 3.10: a finite
+  exponential moment ξ_{α,µ}, for Fournier–Guillin concentration.
+
+## Key results
+
+- **Definitions 2.1, 2.3.** PR(θ) = E_{Z∼D(θ)} ℓ(Z; θ); θ_PO = argmin PR.
+  θ_PS = argmin_θ E_{Z∼D(θ_PS)} ℓ(Z; θ). With DPR(θ, θ′) =
+  E_{D(θ)} ℓ(Z; θ′), stability minimizes DPR(θ_PS, ·), optimality
+  DPR(θ, θ).
+- **Example 2.2, re-derived.** X uniform on {±1}, Y | X ~
+  Bernoulli(½ + µX + εθX), f_θ(x) = θx + ½, squared loss. PR(θ) =
+  ¼ − 2µθ + (1 − 2ε)θ², so θ_PO = µ/(1 − 2ε). Retraining gives
+  θ_{t+1} = µ + εθ_t, so θ_PS = µ/(1 − ε). They coincide iff ε = 0.
+  At µ = 0.2, ε = 0.3: θ_PS = 0.286, θ_PO = 0.5, PR = 0.168 against
+  0.150, and the static answer θ = µ scores 0.186.
+- **Example 3.4.** Point mass at 0 if θ ≥ ½ and at 1 otherwise: no
+  stable point, and retraining alternates 1, 0, 1, …
+- **Theorem 3.5.** Under (A1), (A2) and ε-sensitivity,
+  ‖G(θ) − G(θ′)‖ ≤ ε(β/γ)‖θ − θ′‖, and for ε < γ/β retraining converges
+  linearly to a unique stable point. Re-derived in THEORY-tmpwl9bj.
+- **Proposition 3.6.** Retraining can fail to converge with (a) convexity
+  without strong convexity (ℓ = βyθ, Y = εθ: iterates …, 1, −1, 1, …),
+  (b) strong convexity without joint smoothness (a regularized hinge),
+  or (c) ε ≥ γ/β (ℓ = (y − θ)², Y = 1 + εθ: θ_t = Σ ε^k + θ₀ε^t diverges
+  for ε > 1, and there is no stable point at ε = 1).
+- **Theorem 3.8.** Repeated gradient descent with step η ≤ 2/(β + γ)
+  contracts and converges for ε < γ/((β + γ)(1 + 1.5ηβ)).
+- **Theorem 3.10.** With n_t = O(log(t/p)/(εδ)^m) samples per round,
+  repeated empirical risk minimization reaches and stays within δ of θ_PS
+  with probability 1 − p, for ε < γ/(2β).
+- **Proposition 4.1.** A stable point exists for convex, jointly
+  continuous ℓ on compact Θ (Kakutani). **Proposition 4.2.** PR can be
+  concave in θ although ε < γ/β (Example 2.2 with ε ∈ [½, 1)).
+- **Theorem 4.3.** For ℓ L_z-Lipschitz in z and γ-strongly convex,
+  ‖θ_PO − θ_PS‖ ≤ 2L_zε/γ for every stable point and every optimum.
+  Re-derived in THEORY-tmp9lnfi.
+- **Corollary 5.1.** In strategic classification retraining converges to a
+  stable classifier within 2L_zε(L_θ + L_zε)/γ of the Stackelberg
+  equilibrium in objective.
+- **Simulations (§5.2).** A Kaggle credit dataset (18,357 points, three
+  strategic features), best response x′_S = x_S − εθ_S, regularized
+  logistic loss. Retraining converges in a few rounds for ε = 0.01 and
+  diverges for large ε. Appendix B.2 notes that ε < γ/β holds only at
+  ε = 0.01 and that repeated gradient descent never meets its theoretical
+  cutoff, so most of the convergence seen is outside the theorems.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Performative optimality and stability are distinct; neither implies the other | strong | Example 2.2, Remark 2.4; re-derived |
+| C2 | Smooth, strongly convex loss and ε < γ/β make retraining contract to a unique stable point at linear rate | strong | Theorem 3.5, Appendix D.1; re-derived |
+| C3 | Each of the three conditions is needed: dropping any one admits non-convergence | strong | Proposition 3.6, three counterexamples; (a) and (c) checked |
+| C4 | Stable points and optima lie within 2L_zε/γ of each other | strong | Theorem 4.3; re-derived |
+| C5 | Directly minimizing performative risk is in general harder than finding stable points | moderate | Proposition 4.2 shows non-convexity; no hardness result |
+| C6 | Strategic classification is a special case, with Stackelberg equilibria as performative optima | strong | §5.1, by definition |
+| C7 | Retraining converges quickly in a simulated credit setting when ε is small | moderate | §5.2, one dataset; mostly outside the theorems' conditions (B.2) |
+
+## Concepts
+
+- **Distribution map D(·)**: model parameters to the distribution of
+  instances that deploying the model produces.
+- **Performative risk PR(θ)**: E_{D(θ)} ℓ(Z; θ).
+- **Decoupled performative risk DPR(θ, θ′)**: loss of θ′ on the
+  distribution θ induces.
+- **Performative optimum**: argmin PR. **Performatively stable**: θ
+  minimizes DPR(θ, ·), "fixed points of risk minimization".
+- **Repeated risk minimization (RRM)**: θ_{t+1} = argmin DPR(θ_t, ·).
+- **ε-sensitivity**: D(·) is ε-Lipschitz from Euclidean to W₁.
+
+## Connections
+
+It casts concept drift (Gama et al. 2014; Žliobaitė's application table)
+as performativity where it is, and strategic classification (Hardt et al.
+2016; Brückner et al. 2012; Dalvi et al. 2004) as its special case. It
+relates D(θ) to a do-intervention (Pearl) and repeated risk minimization to
+off-policy learning in reinforcement learning. Its convergence proofs
+extend the classical contraction of gradient descent (Nesterov; Hardt,
+Recht and Singer 2016) to a moving distribution, through
+Kantorovich–Rubinstein duality. It cites performativity in the social
+sciences (Healy 2015 and others) without engaging that literature.
+
+## Bearing on the record
+
+- **CLAIM-tmpeftzb.** A25's warning, that a description "well calibrated
+  against outcomes generated under its own use need not be an adequate
+  description of the system under a different policy", is the paper's
+  stability notion read negatively. Stability is optimality for D(θ_PS)
+  alone, and retraining samples only the distributions it visits.
+  A26 §2's toy, which A26 called "a toy model rather than a claimed
+  theorem from Perdomo et al.", has two stable points. That is consistent
+  with the paper. Its threshold rule is not strongly convex, and Theorem
+  3.5's uniqueness needs strong convexity, joint smoothness and
+  ε < γ/β (THEORY-tmpwl9bj). The claim's "Perdomo et al.'s performative
+  prediction … not read here" is now out of date.
+- **CLAIM-tmppi0xf.** Its point, that a description closed under ordinary
+  dynamics need not preserve responses to intervention, has a learning
+  analogue here: a stable model can be far from the optimum (Example 2.2:
+  θ_PS = 0.286 against θ_PO = 0.5), because the optimum depends on how
+  D(θ) varies away from the deployed θ, which stability never consults.
+  The record's join, not the paper's.
+- **TERM-tmp5lqn0.** A predictor an institution deploys is a legibility
+  regime that reshapes the population it reads. Theorem 3.5 says when such
+  a loop settles, and where: at self-consistency, not at the best
+  achievable legibility. The paper does not use the word.
+
+It is a machine-learning paper and carries no instruction for practice.
+Its LIT is flagged `anthology-candidate`.
+
+## Limitations
+
+- **Conditions are strong and seldom checkable.** ε must be known
+  relative to γ/β. In the paper's own simulation the conditions hold only
+  at the smallest ε (B.2).
+- **D(·) is static.** A distribution that depends on the history of
+  deployed models, not only the current one, is outside the framework.
+- **Uniqueness depends on strong convexity.** Many models of interest,
+  including any discrete classification rule, have no strong convexity,
+  and then multiple stable points or none are possible (Example 3.4,
+  Proposition 3.6).
+- **No method for the optimum.** Finding θ_PO needs knowledge of D(·)
+  beyond the deployed point, and the paper gives none here. Theorem 4.3
+  only bounds the distance.
+- **The social-science literature on performativity is cited, not used.**
+
+## Open questions
+
+- The authors': is the gap between repeated gradient descent's
+  ε < γ/(β + γ) and retraining's ε < γ/β fundamental or an artifact?
+- How do stable points behave when D depends on the whole history of
+  deployments, as reputations and rankings do?
+- With multiple stable points, which one retraining reaches depends on
+  the starting model. Is that path dependence measurable from deployment
+  data alone?
