@@ -22,7 +22,8 @@ yield: >-
   re-derives and is split off as an Active THEORY; the dissipative-
   adaptation thesis stays Proposed. THEORY-429 and THEORY-173 are
   arguments; THEORY-480 is a report title waiting on the owner's ruling.
-promotion_prs: []
+promotion_prs:
+  - '#308: THEORY-379 narrowed and promoted, its lower bound filed as THEORY-tmpylmuq (Proposed); THEORY-412 split, its Eq. (8) filed as THEORY-tmp3kgjq (Active) (branch claude/promote-theory-379-split-412).'
 band:
   - {code: THEORY-379, hand_label: algorithmic theorem plus a reported lower bound, triage007: theorem, agrees: true, outcome: narrow-and-promote}
   - {code: THEORY-412, hand_label: thesis with an exact formal core, triage007: theorem, agrees: false, outcome: split}
