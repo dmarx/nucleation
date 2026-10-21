@@ -41,7 +41,7 @@ What the status column means in this scheme — the words are luria's, the meani
 | Status | | Means |
 |---|---|---|
 | `Open` | Open | Being worked on |
-| `Answered` | Answered | The record holds an Active claim that answers it |
+| `Answered` | Answered | The record holds an Active CLAIM or THEORY, or several together, that answer it as posed and in full scope. A question answered only in part is split, and the answered part becomes a child question (ADR-049) |
 | `Dissolved` | Dissolved | The question rested on a mistake, and the body says which |
 | `Deferred` | Set aside | Real, and left for future work |
 | `Superseded` | Reframed | Replaced by a better-framed question, named in `superseded_by` |
