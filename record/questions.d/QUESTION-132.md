@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmp0885h
 title: 'Under what conditions do initially equivalent adaptive operators differentiate into functionally complementary specialists that each have positive recovery growth when rare, rather than into roles kept in place by external load balancing or by persistent authority asymmetries?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A19 §5 asked this question's
+    alternative of institutions. The question is unchanged.
 tags:
 - complex-systems
 - ecology
@@ -154,3 +161,13 @@ Heterogeneous embeddings, unequal routing weights or persistent expert
 identities. Mixture-of-experts routing already produces specialization,
 and an answer must show more than it does ([QUESTION-083](QUESTION-083.md)'s note of
 2026-10-18).
+
+## Note of 2026-10-21: asked of institutions
+
+A19 §5 of the exchange of 2026-10-20: "Symmetry breaking is not inherently
+a failure ... We can distinguish desirable specialization from
+problematic entrenchment only after specifying criteria beyond the
+symmetry-breaking dynamics themselves". This is this question's
+alternative, asked of institutions ([CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md)). A20's close ("may
+also reflect genuine learning, merited expertise, and beneficial
+specialization") is [QUESTION-100](QUESTION-100.md)'s and [QUESTION-087](QUESTION-087.md)'s.

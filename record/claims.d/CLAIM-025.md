@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmp7wkss
 title: 'An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A24–A27 re-derived this claim's
+    three tiers and THEORY-145's single- against double-loop learning
+    without citing either; A27 adds an epistemic form of the third tier, and
+    A24 a different source of insulation, social position. Pohlhaus and Dotson, sought the same day, are Unavailable. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,6 +47,8 @@ summary: >-
   Section 6.2, from the emergency variant of Northstar.
 ---
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
+<!-- inactive-ok-file: LIT-tmp22xqb LIT-tmpnfswr — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-145 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-025: An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately
 
@@ -71,3 +83,31 @@ in place."
 - A7 §4 and A8 §4 gave models in which a capacity is lost apart from the
   regime it governs ([CASE-111](../cases.d/CASE-111.md), [CASE-112](../cases.d/CASE-112.md)). The graded thesis built
   on this claim is [CLAIM-354](CLAIM-354.md).
+
+## Note of 2026-10-21: the triad again, and organized ignorance
+
+**The triad again.** A26 §5 of the exchange of 2026-10-20 proposed three
+organizational conditions that "can diverge": persistence, flexibility and
+self-governance. A26 §7 boxed "Capacity to update judgments ≠ Capacity to
+revise how judgments acquire authority". A27 §3 listed behavioural,
+governance and epistemic-governance adaptation. All three are this
+claim's three things that persist or fail separately. §7's box is the
+single-loop against double-loop learning of [THEORY-145](../theory.d/THEORY-145.md), which grounds this
+claim. Neither reply cited this claim or [THEORY-145](../theory.d/THEORY-145.md). A26 cited [CLAIM-099](CLAIM-099.md)
+for it as "retaining the capacity to change governing regimes", which is
+this claim's third tier, not [CLAIM-099](CLAIM-099.md)'s "capacity to govern among
+regimes". The new nuance is A27's epistemic form of the third tier:
+changing "how evidence and evaluations influence those governance
+decisions".
+
+**Organized ignorance.** A24 §4, from Pohlhaus ([LIT-tmp22xqb](../literature.d/LIT-tmp22xqb.md)) and Dotson
+([LIT-tmpnfswr](../literature.d/LIT-tmpnfswr.md)), both registered and, when sought on 2026-10-21, Unavailable: "An institution can be very good
+at producing and evaluating knowledge *within its accepted categories*
+while remaining poor at recognizing the inadequacy of those categories
+... **the mechanisms determining what it learns are themselves insulated
+from certain kinds of correction**." A25 §8 asked for "the ability to
+recognize when the **evidentiary and evaluative regime itself** requires
+revision". Both are Argyris's single-loop learning and self-sealing tests,
+held in [THEORY-145](../theory.d/THEORY-145.md), and neither reply cited them. The difference is the
+source of the insulation: on A24's account it is social position, not
+defensive routine.

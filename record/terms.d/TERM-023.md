@@ -30,6 +30,8 @@ used_by:
 - CLAIM-122
 - CLAIM-168
 - CLAIM-336
+- CLAIM-tmppi0xf
+- CLAIM-tmpyxupb
 summary: >-
   The maintained organization of relations governing the conditions under
   which an agent's available action-generating regimes acquire, retain,

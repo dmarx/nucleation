@@ -32,6 +32,7 @@ supports:
 - CLAIM-285
 - CLAIM-359
 - CLAIM-375
+- CLAIM-tmpyxupb
 illustrated_by:
 - CASE-077
 ---

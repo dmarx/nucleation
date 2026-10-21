@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp84z6h
 title: 'The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another''s influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A15 proposed this claim's joint test
+    as the next substantive one; A16's construction has no meaning state,
+    and A17 dropped the comparison, so the claim stays untested. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,6 +57,7 @@ complements:
 supports:
 - CLAIM-338
 ---
+<!-- inactive-ok-file: CLAIM-297 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-336: The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them
 
@@ -105,3 +115,15 @@ endorsement changes w and so which operators act under the next context.
   model is one such description.
 - The mapping was proposed by the assistant and endorsed by the owner at
   U8. The endorsement is of the mapping, not of any transfer of results.
+
+## Note of 2026-10-21: proposed as a test, then dropped
+
+A15 of the exchange of 2026-10-20 proposed as "our next substantive test"
+a system "in which a coarse description perfectly predicts ordinary
+behavior but loses a governance response to an intervention", and then
+compare descriptions that keep meaning, authority, or both. The
+construction A16 gave ([CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md)) has no meaning state, so it cannot
+show the joint prediction this claim's `defeated_if` asks for. A16 §13
+proposed the comparison as a simulation; A17 dropped it: "the paper's
+principal argument does not depend on proving it." The claim stays
+untested. A15's equations are [CLAIM-297](CLAIM-297.md)'s, quoted here.

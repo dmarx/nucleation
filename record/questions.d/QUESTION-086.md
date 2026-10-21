@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmpgjngk
 title: 'Can two systems with matching behaviour and persistence be told apart by whether their own processes generate and revise the constraints that keep them going, and by what intervention?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A16's hidden governance bit
+    (CASE-tmpdc0tl) meets the condition A7 set on 2026-10-17 but says
+    nothing about self- against externally maintained constraints. The
+    question is unchanged.
 tags:
 - self-governance
 - individuation
@@ -112,3 +121,16 @@ it.
 
 [CASE-111](../cases.d/CASE-111.md), the fold in boundary maintenance, is silent on who
 maintains b, and says so.
+
+## Note of 2026-10-21: a sixth appearance, and why it is not an answer
+
+A sixth appearance, uncited. A16's hidden governance bit in the exchange
+of 2026-10-20 ([CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md)) meets the condition A7 set itself on
+2026-10-17, "explicit parameters and a full input-output equivalence
+argument for the selected observational regime", and shows that the
+ordinary regime cannot separate the pair however long it is watched
+(closure is exact). It names the separating intervention only because the
+hidden difference was stipulated to be the mechanism the intervention
+acts on. It says nothing about self- against externally maintained
+constraints, which is this question's distinction, so it is not an
+answer.

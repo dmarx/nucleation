@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmp343c3
 title: "Mutual-information measures of individuality that read a system's next state off its present one measure association, not propagation: I(S_{t+1}; S_t) can be positive when the environment alone drives the system, and conditioning on the environment does not recover the interventional quantity, which can be zero where the conditional measure is one bit"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A10 took this entry's XOR system as
+    its main formal lesson; in it Â depends on the distribution of the
+    background variable, not of the intervention. The reading is unchanged.
 tags:
 - complex-systems
 - individuation
@@ -24,6 +32,8 @@ summary: >-
   1 bit and Â = 0. Â itself depends on an intervention distribution the
   paper leaves open, and neither it nor the paper's two ETI criteria is
   computed on any system.
+supports:
+- CLAIM-tmppi0xf
 ---
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; LIT-005 is the source this account was read from, and its NOTE places it; LIT-049 is named as its ancestor -->
 <!-- inactive-ok-file: LIT-1137 — Deferred; Krakauer et al., registered unread, named as the measures the source argues against -->
@@ -106,3 +116,22 @@ finds none.
 - **Bourrat's earlier account ([LIT-049](../literature.d/LIT-049.md); [THEORY-607](THEORY-607.md))** first stratifies
   on the environment, as δC|E, to exclude ecologically driven coherence.
   This is where that stratification and its gap show up formally.
+
+## Note of 2026-10-21: the XOR system again, and what Â depends on
+
+A10 of the exchange of 2026-10-20 took this entry's XOR system
+(S_{t+1} = S_t ⊕ E_t) as its main formal lesson: "Causal individuation
+requires a specified family of interventions and background conditions."
+Checked: A = 1 bit and Â = 0. A* is also 0, so the observational and
+interventional measures agree here, and only the conditional one differs.
+Â is 0 under every intervention distribution on S_t while E_t is fair.
+With P(E = 1) = 0.2 and uniform interventions it is 1 − H(0.2) ≈ 0.278
+bits. In this system, then, what Â depends on is the distribution of the
+background variable, not of the intervention, which adds to the summary's
+"Â itself depends on an intervention distribution the paper leaves open".
+
+A13 and A14 proposed a TERM, "intervention regime", for what is
+manipulated, what is held as background and how interventions are
+weighted. It was not filed: its content is this entry's limit, with
+[QUESTION-204](../questions.d/QUESTION-204.md) and [QUESTION-115](../questions.d/QUESTION-115.md)'s "intervention distribution". The
+intervention family is one component of [TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md).

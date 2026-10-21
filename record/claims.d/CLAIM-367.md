@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpw4w7a
 title: 'Whether a training-time regulatory condition belongs to a network depends on which unit is individuated for the training dynamics and whose jurisdiction governs the updates; in conventional training most of that governance falls to the optimizer–model–data system, so a condition of training is not thereby a condition of the network'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A8 and A9 reached this claim's case
+    unprompted and added the timescale of adaptation as a variable this
+    claim leaves implicit. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -162,3 +170,17 @@ claim is stated for any regulatory condition, so it holds of either.
 - It does not supply the boundary test. [CLAIM-194](CLAIM-194.md) objects that a coupling
   criterion cannot tell a boundary a system makes from one imposed on it,
   and in conventional training the boundary is imposed.
+
+## Note of 2026-10-21: the timescale of adaptation
+
+A8 §1 and A9 §5 of the exchange of 2026-10-20 reached this claim's case
+unprompted ("Does the agent include its learning process?") and added a
+variable: "Agent boundaries can be timescale-sensitive because the
+mechanisms of adaptation may operate at different timescales from the
+mechanisms of action." A9: "A frozen policy can still condition its
+actions on environmental observations. A learning system can adapt over a
+slower timescale. Neither fact by itself determines the correct agent
+boundary." Under [CLAIM-174](CLAIM-174.md)'s third condition, which agent passes depends
+on the timescale of the intervention on consequences. That is a parameter
+this claim's "which unit is individuated for the training dynamics" leaves
+implicit.

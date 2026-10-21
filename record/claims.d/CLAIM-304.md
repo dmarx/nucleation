@@ -35,6 +35,8 @@ summary: >-
   lossless rendering can defeat every efficient one. The construction is the record's,
   from [CLAIM-302](CLAIM-302.md)'s witness; A18 asked for one and warned
   against "a vague appeal to an inverse being hard".
+supports:
+- CLAIM-tmpcrdhj
 ---
 <!-- inactive-ok-file: CLAIM-117 CLAIM-199 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 

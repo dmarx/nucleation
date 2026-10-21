@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmp6ap9y
 title: 'An organization''s access to a signal, the signal''s authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A23's failure table
+    (representational, legibility-related, governance-related) is this
+    claim's separation one step earlier; A24 carried it to contributors
+    (CLAIM-tmpj163u). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,7 +55,10 @@ summary: >-
   from human treatment, the organizational classes are A42's proposals,
   not diagnoses, and RO-DBT's own evidence is "promising but not
   definitive".
+supports:
+- CLAIM-tmpj163u
 ---
+<!-- inactive-ok-file: CLAIM-199 CLAIM-tmpj163u — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-025 CLAIM-156 CLAIM-347 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
 
@@ -163,3 +175,16 @@ of ACT.
   currently maintained values are legitimate, or that successfully pursuing
   them benefits its constituents." That standard is [QUESTION-087](../questions.d/QUESTION-087.md)'s open
   problem.
+
+## Note of 2026-10-21: the three failures
+
+A23 §5 of the exchange of 2026-10-20 gave a failure table that is this
+claim's separation one step earlier. A failure is "Representational" if
+the distinction "wasn't retained", "Legibility-related" if it "was
+retained but wasn't recognized or usable", and "Governance-related" if it
+"was recognized but couldn't acquire appropriate practical influence".
+"These can produce indistinguishable behavior while requiring different
+explanations." Retention is [CLAIM-350](CLAIM-350.md)'s question, usability [CLAIM-199](CLAIM-199.md)'s
+([TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md)), and the step from access to authority is this claim's.
+A23 cited neither this claim nor [CLAIM-156](CLAIM-156.md). A24 §6 carried the split to
+contributors, filed as [CLAIM-tmpj163u](CLAIM-tmpj163u.md), which rests on this claim.

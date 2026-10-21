@@ -1,0 +1,200 @@
+---
+status: Read
+paper: LIT-tmpulqti
+title: 'McCombs and Shaw — The agenda-setting function of mass media'
+version: 1
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Read in full from a copy of the published article (Public Opinion
+    Quarterly 36(2): 176–187, the Oxford Journals PDF) posted as a teaching
+    reading on Frank Baumgartner's UNC Chapel Hill course page
+    (fbaum.unc.edu/teaching/articles/POQ-1972-McCOMBS-176-87.pdf), text
+    extracted with pdftotext. All twelve pages were read: the abstract,
+    method, findings with Tables 1–6, discussion and footnotes. The tables
+    were read from the extraction, whose layout of Table 5 is partly
+    garbled; Tables 1–4 and 6 were legible. The "full report of this
+    project" the authors offer by post was not sought.
+date: '2026-10-21'
+summary: >-
+  Among 100 Chapel Hill voters not yet committed to a candidate in
+  September–October 1968, the aggregate emphasis they gave the campaign's
+  issues correlated +.967 (major items) and +.979 (minor items) with the
+  composite emphasis of the nine news media serving them, and voters who
+  leaned to a candidate agreed more with all the news than with news about
+  their own side in 18 of 24 comparisons. The authors read this as
+  agenda-setting rather than selective perception, and say the
+  correlations do not prove it.
+---
+<!-- inactive-ok-file: CLAIM-tmpjo2zr TERM-tmpe6jtq QUESTION-tmp4147z — Proposed or Open; the entries filed in the same pull request that this reading bears on, cited as open -->
+<!-- inactive-ok-file: THEORY-tmp98xm5 LIT-tmpq9j8p — Proposed or Unavailable; the causal hypothesis this reading files as an offer, and the framing paper not reached, cited as open -->
+
+# NOTE-tmpr2fo5: McCombs and Shaw — The agenda-setting function of mass media
+
+## Contribution
+
+It gave the agenda-setting hypothesis its first systematic test and its
+name as a research programme. It matched what a sample of voters said were
+the key issues against a content analysis of the media those voters used,
+in one community during one campaign. It also set the hypothesis against
+its rival of the time, selective perception, with a comparison that could
+have favoured either.
+
+## Key insight
+
+Influence on what an audience thinks about is a different thing from
+influence on what it thinks. The paper quotes Cohen: the press "may not be
+successful much of the time in telling people what to think, but it is
+stunningly successful in telling its readers what to think about." The
+measurable trace of the first is a match between the ranking of issues in
+the news and the ranking of issues in the audience's own judgements of
+importance. Such a match can arise with no change at all in anyone's
+attitudes toward the issues.
+
+## Assumptions
+
+- **Aggregate units.** Voters as a group are compared with the media as a
+  group. "This study has compared aggregate units—Chapel Hill voters as a
+  group compared to the aggregate performance of several mass media."
+- **One community, one window.** Five Chapel Hill precincts chosen as
+  "economically, socially, and racially representative of the community".
+  Interviews 18 September–6 October 1968, and media content
+  12 September–6 October.
+- **Undecided voters only.** A filter question kept those "who had not yet
+  definitely decided how to vote—presumably those most open or susceptible
+  to campaign information."
+- **The issue question.** "What are you most concerned about these days?
+  That is, regardless of what politicians say, what are the two or three
+  main things which you think the government should concentrate on doing
+  something about?" (fn. 9, from Trenaman and McQuail).
+- **Content coding.** Fifteen categories, split into "major" and "minor"
+  items by space, position and time, with intercoder reliability above
+  .90. The nine media were taken from a spring 1968 pretest: four regional
+  dailies, the New York Times, Time, Newsweek, and NBC and CBS evening news.
+- **No alternative source of observation.** The authors argue that voters
+  cannot observe the campaign except through the media, so a common
+  response to events cannot explain the match.
+
+## Key results
+
+- **Table 1.** A large share of major campaign coverage was about the
+  campaign itself, not the issues: "Campaign analysis" was 28% of all
+  major items and "Campaign events" 19%. Thirty-five percent of the major
+  coverage of Wallace was horse-race analysis.
+- **Table 2.** The parties' issue emphasis in the media differed widely.
+  Foreign policy was 64% of Humphrey/Muskie issue items and 38% of
+  Nixon/Agnew's. Law and order was 52% of Wallace/LeMay's.
+- **The headline correlations.** Voters' issue emphasis against the
+  media's emphasis on "the main campaign issues": +.967 for major items and
+  +.979 for minor items. The paper does not say which correlation
+  coefficient was used, does not print the voters' issue distribution,
+  and does not say over how many issues the correlation runs. Table 2
+  lists five main issues. The figures could not be recomputed here.
+- **Table 3, selective perception against agenda-setting.** Forty-five
+  respondents leaned to a candidate without being committed. For four
+  media, the correlation of their issue emphasis with all the news was
+  compared with its correlation with news about their own party. "18 of 24
+  possible comparisons show voters more in agreement with all the news
+  rather than with news only about their own party/candidate preference."
+  Rechecked here from the table: 18 favour all the news, 5 favour own
+  party, and 1 is a tie (CBS, Democrats, major items, .83 and .83).
+- **Table 4.** Correlations with individual media ranged from .30 (Time
+  and Newsweek, major items) to .97 (New York Times, minor items).
+- **Table 5.** The media agreed with one another, most among like media,
+  and more on major than on minor items. The authors read the gap from
+  perfect agreement as the "pseudo-environment" falling short of the
+  campaign.
+- **Table 6, an aside.** Voters for whom affect dominated their account of
+  their most important issue reported less recent media use about that
+  issue. The authors report no statistics "because of small Ns in some
+  cells".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Undecided Chapel Hill voters' aggregate ranking of issues closely matched the composite emphasis of the media they used | strong, as an aggregate correlation in one sample | +.967 and +.979; Tables 3–4 |
+| C2 | The match is better explained by agenda-setting than by selective perception | moderate | 18 of 24 comparisons in Table 3 favour all the news over own-party news |
+| C3 | The direction runs from media to voters, not the reverse or from a common cause | weak | argued, not tested: voters lack other access to the campaign; journalists' and audiences' news values usually diverge; five of the nine media are national (fn. 13) |
+| C4 | Individual media reproduce the political world imperfectly, and agree more on major stories | moderate | Table 5 |
+| C5 | Salience of affect predicts less information-seeking on one's most important issue | weak | Table 6, no statistical test |
+
+## Concepts
+
+- **Agenda-setting**: the media "set the agenda for each political
+  campaign, influencing the salience of attitudes toward the political
+  issues", as distinct from changing "the direction or intensity of
+  attitudes".
+- **Major and minor items**: a split of news by space, position and time,
+  defined medium by medium in the method section.
+- **Selective perception** (the rival): voters attend mostly to news about
+  their own party, so their agenda should match that news best.
+- **Pseudo-environment** (after Lippmann): the media's composite picture
+  of the campaign, which the voters' agenda tracks.
+
+## Connections
+
+It builds on Lang and Lang and on Cohen (1963) for the hypothesis, on
+Berelson, Lazarsfeld and McPhee for the limited-effects background, and on
+Trenaman and McQuail for the issue question. Entman (1993), which the
+record holds as [LIT-tmpq9j8p](../literature.d/LIT-tmpq9j8p.md), is the second media route the exchange named
+beside it, and could not be reached. Barnehl and Schumacher (2024) build
+their measure of capture on agenda-setting and cite the Luo et al.
+meta-analysis of the programme that followed this paper.
+
+## Bearing on the record
+
+- **[CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md)'s evidence route.** The claim says an organization can be
+  governed through the evidence its procedures receive. The paper is a
+  documented case of the population-level form: an audience's ranking of
+  what matters tracked the ranking the media supplied, while nothing in
+  the paper shows any change in what voters concluded about the issues.
+  That is the claim's distinction between influence on the inputs and
+  influence on the decision rule, observed in a public. The paper does not
+  identify the direction, so it supports the claim as an illustration and
+  not as a demonstration.
+- **[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).** The term's table says legibility is not salience. This
+  paper measures salience in the term's sense: which issues a public
+  counts as important. It says nothing about whether those issues became
+  more legible.
+- **[QUESTION-tmp4147z](../questions.d/QUESTION-tmp4147z.md).** Agenda-setting is one empirical candidate for
+  "which facts become legible enough to count as evidence at all". Here the
+  media's selection fixes which issues reach the public's list of
+  important problems. The paper has no time dimension, so it bears on
+  neither of the question's dynamic readings.
+- **[THEORY-tmpbonn4](../theory.d/THEORY-tmpbonn4.md)** is filed Active from the correlations as measured,
+  and [THEORY-tmp98xm5](../theory.d/THEORY-tmp98xm5.md) is filed Proposed for the causal hypothesis the
+  correlations are offered for.
+
+No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **Correlation over aggregates, in one sample.** The authors say so: "The
+  existence of an agenda-setting function of the mass media is not proved
+  by the correlations reported here, of course, but the evidence is in line
+  with the conditions that must exist if agenda-setting by the mass media
+  does occur."
+- **Few units.** The correlations run over a handful of issue categories,
+  so values near one carry little statistical weight, and no test is
+  reported.
+- **Direction is argued, not identified.** The two alternatives the
+  discussion rejects, a common response to events and media catering to
+  audience interests, are rejected by argument. The media's emphasis
+  reflects "to a considerable degree the emphasis by candidates", so the
+  agenda the voters matched may be the candidates' agenda as relayed.
+- **The issue question is not neutral to the hypothesis.** It asks what the
+  government should "concentrate on doing something about", which is close
+  to asking for an agenda.
+- **Exposure is not measured per person.** Media were matched to the
+  community, not to each respondent's use, except in Table 3's party
+  split.
+
+## Open questions
+
+- Does the match hold at the level of individuals, with exposure measured
+  per respondent? The authors call for this ("from a broad societal level to
+  the social psychological level").
+- Does a change in media emphasis precede a change in public emphasis? A
+  panel or an experiment would answer it.

@@ -4,7 +4,15 @@ status: Deferred
 formerly:
 - QUESTION-tmpbvc9e
 title: 'What makes a will-organization the agent''s own, rather than merely effective within it?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A27 raised this question's
+    manipulation limit again; it is worked on the will line as QUESTION-071
+    (note of 2026-10-21). The question is unchanged.
 tags:
 - self-governance
 - agency
@@ -44,3 +52,9 @@ Deferred, as its line is.
 ## Note of 2026-10-12: a typed partial answer
 
 [THEORY-121](../theory.d/THEORY-121.md) now carries an `answered_by` edge: ownership through taking responsibility, the record's main historical condition. It ties to [THEORY-040](../theory.d/THEORY-040.md), which grounds [CLAIM-016](../claims.d/CLAIM-016.md).
+
+## Note of 2026-10-21: the manipulation limit raised again
+
+A27 of the exchange of 2026-10-20 raised this question's manipulation
+limit again. It is worked on the will line as [QUESTION-071](QUESTION-071.md) (note of
+2026-10-21). The status stays Deferred with its line.

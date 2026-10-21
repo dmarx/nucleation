@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmpdt857
 title: 'Blackwell''s order measures what an ideal decision-maker could do, not what a given receiver can reconstruct, and the line''s claims that a rendering can improve access describe garblings that real receivers do better with, which is the shape of the Blackwell thesis''s own defeat condition'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-10'
@@ -15,6 +15,13 @@ history:
     garbling can raise. CLAIM-087 v2 is stated for receivers, and
     CLAIM-050 v2's condition no longer counts a bounded receiver's
     gain as a defeat of the order.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the reading of Xu et al. on usable
+    information (NOTE-tmpvnsxo): the objection's two standards are
+    Shannon and V-information, which that paper relates without
+    mentioning Blackwell. The claim is unchanged.
 role: counter
 warrant: demonstrated
 tags:
@@ -144,3 +151,16 @@ In the blind-captioner design there is none.
   own results.
 - Or an argument that judged access tracks ideal informativeness, together
   with an account of what [CLAIM-087](CLAIM-087.md)'s prediction then means.
+
+## Note of 2026-10-21: the two standards in the usable-information literature
+
+Xu, Zhao, Song, Stewart and Ermon 2020 ([LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md)), read in full on
+2026-10-21 ([NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)), have this objection's split in their own
+terms: Shannon information is the unrestricted predictor's (their Ω), and
+V-information the restricted family's, which can be created by
+computation, so that a function of the data can carry more of it than the
+data ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). The ideal decision-maker's standard and the given
+receiver's are I_Ω and I_V. The paper does not mention Blackwell, and its
+quantity is for log loss only. The reconciliation in [CLAIM-199](CLAIM-199.md) stands; its
+note of the same day says when the ceiling holds in V-information. The
+claim is unchanged.

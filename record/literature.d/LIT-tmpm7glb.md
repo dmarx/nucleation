@@ -1,0 +1,44 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-21 ([NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md)) in full, from the open-access (CC BY 4.0) published version on Cambridge Core, without its online appendix; worth reading for its definition of ideological capture, capture through the criteria a regulator adopts with no lobbying needed ([THEORY-tmpw39mh](../theory.d/THEORY-tmpw39mh.md)), and for a pre-registered survey showing that the public weighs layoffs, quality and lobbying well above price cuts in merger review while antitrust lawyers support replacing the consumer welfare standard 42.6 points less than the public ([THEORY-tmp1kuko](../theory.d/THEORY-tmp1kuko.md)). Read it knowing that the lawyer sample is a convenience sample of 103, that the verdict of capture also rests on a history drawn from secondary sources, and that the introduction's "four times larger" and the analysis's "seven times larger" describe the same gap.
+title: 'What Is Ideological Capture and How Do We Measure It? Using Antitrust Reform to Understand Expert–Public Cleavages'
+version: 2
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is Crossref's online date, 17 November 2025, per ADR-002; the print issue is June 2026. The exchange gave the title without its subtitle, "Using Antitrust Reform to Understand Expert–Public Cleavages".
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmpxvj22), from the publisher's open-access PDF; the online appendix, pre-analysis plan and replication data were not read. Status Deferred → Active. The open-copy URL is added. The summary is checked against the reading and kept. THEORY-tmp1kuko (Active) and THEORY-tmpw39mh (Proposed) are filed from it.
+tags:
+- society-and-governance
+date: '2026-10-21'
+published: '2025-11-17'
+doi: '10.1017/S153759272510323X'
+url: 'https://doi.org/10.1017/S153759272510323X'
+first_author: 'Short'
+keywords:
+- 'ideological capture'
+- 'regulatory capture'
+- 'antitrust'
+- 'consumer welfare standard'
+- 'expert–public cleavages'
+implementations: []
+summary: >-
+  Short, Hill & Brown (2025). Ideological capture occurs when experts design regulatory frameworks that marginalize important public values and produce outcomes favourable to special interests even without lobbying; an original survey of the public and of antitrust lawyers finds the consumer-welfare standard marginalizes public concerns yet is deeply popular among the lawyers.
+---
+<!-- inactive-ok-file: TERM-tmpe6jtq — Proposed; filed from the same exchange, named as the entry this work bears on -->
+<!-- inactive-ok-file: CLAIM-tmpjo2zr — Proposed; filed from the same exchange, named as the entry this work bears on -->
+<!-- inactive-ok-file: THEORY-tmpw39mh — Proposed; an account filed from this reading -->
+# LIT-tmpm7glb: What Is Ideological Capture and How Do We Measure It? Using Antitrust Reform to Understand Expert–Public Cleavages
+
+Short, N., Hill, S. & Brown, J. (2026). What Is Ideological Capture and How Do We Measure It? Using Antitrust Reform to Understand Expert–Public Cleavages. *Perspectives on Politics* 24(2): 680–700. doi:10.1017/S153759272510323X. First published online 17 November 2025.
+
+Read in [NOTE-tmpxvj22](../notes.d/NOTE-tmpxvj22.md), without the online appendix.
+
+## Why this is here
+
+A25 called it "arguably the most directly relevant new reference": capture through the categories of regulatory reasoning, "without any lobbying or improper exchange being necessary." A25: "We should not introduce the claim that capture can operate through the categories of regulatory reasoning as though that were new." A26 §4 put it at the level of control over the evaluative objective. Prior art for [TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md) and [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md).

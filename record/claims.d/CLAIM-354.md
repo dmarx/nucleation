@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpilfhr
 title: 'Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A18's prisoner's dilemma gives a
+    two-agent route to this claim's non-monotonicity, in which the shrinking
+    of the set is imposed and not chosen. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +47,7 @@ complements:
 - CLAIM-122
 - CLAIM-027
 - CLAIM-352
+- CLAIM-tmpyxupb
 summary: >-
   The owner's, U9 of the exchange of 2026-10-17: "controllability of a
   system isn't binary, and neither is sensitivity to perturbation", so
@@ -52,6 +61,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
+<!-- inactive-ok-file: CLAIM-tmpyxupb — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-354: Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
 
@@ -160,3 +170,15 @@ shape for freedom of will.
   Who fixes K is still open.
 - **Not ownership.** Integration enters as one dimension. Whether a will is
   its own to a degree is [CLAIM-016](CLAIM-016.md)'s question, which stays Deferred.
+
+## Note of 2026-10-21: a strategic route to non-monotonicity
+
+A18 of the exchange of 2026-10-20 gave a strategic route to this claim's
+non-monotonicity. In a prisoner's dilemma, with a rule enforcing
+cooperation at (3, 3), removing the rule enlarges each player's action
+set, and the unique equilibrium becomes (1, 1): "Expanded individual
+action sets ⇏ Pareto-improved equilibrium outcomes". Checked. The sharp
+edge already says precommitment can shrink the set and make an endorsed
+project realizable. The PD is the two-agent form, in which the shrinking
+is imposed and not chosen. That bears on autonomy, which this claim does
+not settle. [CLAIM-tmpyxupb](CLAIM-tmpyxupb.md) uses the example.

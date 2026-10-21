@@ -4,7 +4,17 @@ status: Open
 formerly:
 - QUESTION-tmplru2n
 title: 'Can a collective mode that is dynamically closed, but is not a weakly coupled block of the units carrying it, be one system, and if so what should a boundary test take as the unit: a subset of members or a function of the whole state?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A6–A9 built their paper on the two
+    warnings this question records from THEORY-820; closed coarse-grainings
+    are neither upward- nor downward-closed in the refinement order
+    (CLAIM-tmpshzxc), and no independent mark of unity was offered. The
+    question is unchanged.
 tags:
 - individuation
 - complex-systems
@@ -88,3 +98,18 @@ closure-without-block case. If the mode compensates and entrains and the
 block test misses it, that meets [CLAIM-157](../claims.d/CLAIM-157.md)'s `defeated_if` ("forms that do
 compensate and entrain but never clear it"). If it does not, the block is
 the better unit and closure tracks something else.
+
+## Note of 2026-10-21: closure gives no mereology, and is monotone in neither direction
+
+The exchange of 2026-10-20 (A6–A9) built its paper on the two warnings
+this question already records from [THEORY-820](../theory.d/THEORY-820.md). A6 called the second "the
+biggest discovery". Two facts were checked from the exact three-bit chain.
+(A, C) and (B, C) are closed, though (A, B) is not, and A⊕B, a coarsening
+of (A, B), is not closed (1 bit), so the closed coarse-grainings are
+neither upward- nor downward-closed in the refinement order. That is filed
+as [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md), with the reason: refinement changes the future that
+closure asks to be predicted. A8 and A9 drew from this that closure
+"cannot be a sufficient criterion" of a unit or an agent, which is this
+question's open half and [CLAIM-157](../claims.d/CLAIM-157.md)'s guard, and offered no independent
+mark of unity either. [TERM-tmpfezzd](../terms.d/TERM-tmpfezzd.md) separates the senses of "closure" the
+exchange ran together.

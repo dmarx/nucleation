@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp8swu5
 title: 'Which of an agent''s available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-05'
@@ -13,6 +13,15 @@ history:
     version 2) and narrowed to an agent-indexed functional role. Version 1
     claimed will is a higher-order organization of constraints without the
     agent index.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: unlike the exchange of 2026-10-17,
+    this one found the essay; A17's manuscript, a companion to it, takes the
+    six relations as its target and proposes an adequacy criterion for
+    descriptions of them (CLAIM-tmppi0xf, CLAIM-tmpshzxc). The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -67,6 +76,7 @@ complements:
 <!-- ref::uses-file: TERM-023 — stated in "will-organization"; the body applies the term without naming it -->
 <!-- inactive-ok-file: ARG-005 ARG-009 CLAIM-024 CLAIM-089 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-010 — Rejected; answered or abandoned, and cited as the history this entry answers -->
+<!-- inactive-ok-file: CLAIM-296 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-027: Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes
 
@@ -127,3 +137,16 @@ be assumed", and A15 §4, "Individuation: whose control is it?". So the
 manuscript would be the essay with its supposition lifted, and it should
 say so. Whether it becomes a work of its own is the owner's decision
 (workbench entries of 2026-10-18).
+
+## Note of 2026-10-21: the essay found, and a companion manuscript
+
+Unlike the exchange of 2026-10-17, this one found the essay. A15 of the
+exchange of 2026-10-20: "the will paper's central Proposed thesis"; A17:
+"I would write it as a companion to *The Organization of Will*". A17's
+manuscript uses the six relations as the explanatory target and proposes
+a formal adequacy criterion for descriptions of them, filed as
+[CLAIM-tmppi0xf](CLAIM-tmppi0xf.md) and [CLAIM-tmpshzxc](CLAIM-tmpshzxc.md), with [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md). A15's five
+dimensions (capability, accessibility, practical authority, governance,
+revisability) and A16's five stages (represented, accessible, authorized,
+effective, revisable) restate the six relations with [TERM-055](../terms.d/TERM-055.md) and
+[CLAIM-296](CLAIM-296.md), and are not filed.

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CLAIM-tmp3qyzh
 title: 'Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal'
-version: 4
+version: 5
 history:
 - version: 1
   date: '2026-10-11'
@@ -30,6 +30,14 @@ history:
   date: '2026-10-20'
   note: >-
     Note of 2026-10-20 added: the target is itself relative to an instrument (THEORY-756). The claim is unchanged.
+- version: 5
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A1–A5 proposed "the operational
+    relativity of effective structure" as a new organizing idea; it is this
+    claim with CLAIM-300 and CLAIM-348 carried to effective descriptions,
+    and was not filed as a claim. The claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -60,6 +68,8 @@ supports:
 - CLAIM-348
 - CLAIM-363
 - CLAIM-367
+- CLAIM-tmpcrdhj
+- CLAIM-tmpoxkub
 grounds:
 - THEORY-194
 - THEORY-202
@@ -75,6 +85,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
+<!-- inactive-ok-file: CLAIM-348 CLAIM-tmpcrdhj CLAIM-tmpoxkub — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-152: Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal
 
@@ -169,3 +180,23 @@ countably many. [THEORY-756](../theory.d/THEORY-756.md) records that among fully
 partitions the causal states are the coarsest. So sufficiency
 individuates relative to a target, and the target is relative to how the
 system is observed. That is this claim's point, one level down.
+
+## Note of 2026-10-21: carried to effective descriptions
+
+A1 and A2 of the exchange of 2026-10-20 proposed "task-relative
+sufficiency under transformation" and "the operational relativity of
+effective structure" as new organizing ideas, and A3 and A5 restated them
+as the thesis of a proposed paper. A2: "Effective descriptions possess
+multiple, logically distinct virtues, and no one of the examined virtues
+can be treated without qualification as a sufficient criterion for all
+the others", and "effective structure is objective but not absolute".
+They are this claim with [CLAIM-300](CLAIM-300.md) and [CLAIM-348](CLAIM-348.md), carried to effective
+descriptions, and [TERM-043](../terms.d/TERM-043.md)'s componentwise comparison carried from
+fidelity.
+
+The thesis was not filed as a claim. Its parts were: the conditions are
+not of one kind ([CLAIM-tmpcrdhj](CLAIM-tmpcrdhj.md)), the leave-one-out that would test them
+([QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md)), and what adequacy is relative to ([TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md), the
+effective-description regime). A paper built on it would be a `works`
+question for the owner. A8 and A9 carried the same structure to
+individuation, filed as [CLAIM-tmpoxkub](CLAIM-tmpoxkub.md), which rests on this claim.

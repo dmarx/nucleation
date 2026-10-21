@@ -25,6 +25,7 @@ grounds:
 complements:
 - CLAIM-297
 - CLAIM-357
+- CLAIM-tmpptl3y
 summary: >-
   A14 §2 of the exchange of 2026-10-16, checked. For J = [[α, β], [γ, δ]]
   with nonnegative entries and α, δ < 1, the leading eigenvalue exceeds 1
@@ -36,6 +37,11 @@ summary: >-
 supports:
 - CLAIM-342
 - CLAIM-340
+- CLAIM-tmpjo2zr
+- CLAIM-tmpoxld9
+- CLAIM-tmp4v4na
+illustrated_by:
+- CASE-tmp3uarw
 ---
 
 <!-- inactive-ok-file: CLAIM-297 QUESTION-100 — Proposed, Open or a proposed study; the thesis and question this partly answers -->

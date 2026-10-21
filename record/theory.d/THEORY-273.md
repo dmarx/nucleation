@@ -31,6 +31,8 @@ summary: >-
   counterexamples and, for the step to conventional kinds, on a reported
   argument. It does not say what does suffice, and it does not deny that
   usefulness is evidence.
+supports:
+- CLAIM-tmpeftzb
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — Proposed; cited as parallel accounts, not as settled -->
 

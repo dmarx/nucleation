@@ -1,0 +1,44 @@
+---
+status: Active
+status_note: >-
+  read 2026-10-21 ([NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md)) in full, in the authorized Portuguese translation in Sociedade e Estado 31(1), 2016 (doi:10.1590/S0102-69922016000100006, open on Redalyc), published with Collins's and Oxford University Press's permission; the English original was not reached. Worth reading for the outsider-within argument, that a member trained into a discipline but rooted in experience its paradigms omit or distort sees anomalies insiders are not placed to see and outsiders lack the authority to press ([THEORY-tmp3d6fm](../theory.d/THEORY-tmp3d6fm.md)), and for its early statement of a self-confirming status: a group assigned an inferior status, and that status used as proof of its inferiority. Read it knowing that it is an argued essay with no comparison of who detects what, and that every quotation in the record but the English abstract is the translator's.
+title: 'Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought'
+version: 2
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is the first of Crossref's month, October 1986, per ADR-002. Crossref holds two DOIs for the article, the publisher's and JSTOR's. A24 named Collins's "outsider within" and no work; this is the record's identification of the paper that introduced the term.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmpj0rwa) in the authorized Portuguese translation (Sociedade e Estado 31(1): 99–127, 2016, doi:10.1590/S0102-69922016000100006, on Redalyc). The English original was not reached: the OUP article page returned a bot check, and the copy found on survivoralliance.org is an unattributed upload, not used. Status Deferred → Active. The summary is checked against the reading and kept. THEORY-tmp3d6fm is filed from it.
+tags:
+- social-science
+- epistemology
+date: '2026-10-21'
+published: '1986-10-01'
+doi: '10.1525/sp.1986.33.6.03a00020'
+first_author: 'Collins'
+keywords:
+- 'outsider within'
+- 'Black feminist thought'
+- 'standpoint'
+- 'sociology of knowledge'
+- 'marginality'
+implementations: []
+summary: >-
+  Collins (1986). Black women intellectuals occupy an "outsider within" position in sociology, inside its institutions but marginal to them, and from it can see anomalies its insiders do not; three themes of Black feminist thought (self-definition and self-valuation, interlocking oppression, the importance of Black women's culture) show what that standpoint contributes.
+---
+<!-- inactive-ok-file: CLAIM-tmpoxld9 — Proposed; filed from the same exchange, named as the entry this work bears on -->
+<!-- inactive-ok-file: CLAIM-tmpj163u — Proposed; filed from the same exchange, named as the entry this work bears on -->
+<!-- inactive-ok-file: THEORY-tmp3d6fm — Proposed; the account filed from this reading -->
+# LIT-tmp2ojrd: Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought
+
+Collins, P. H. (1986). Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought. *Social Problems* 33(6): S14–S32. doi:10.1525/sp.1986.33.6.03a00020 (also doi:10.2307/800672).
+
+Read in [NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md), in an authorized Portuguese translation.
+
+## Why this is here
+
+A24: "a person who participates in an institution yet experiences it from a marginalized position can sometimes perceive features of its organization that its more privileged members overlook." Bears on [CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md) and [CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md): what such a participant sees reaches the institution only if it is taken up.
