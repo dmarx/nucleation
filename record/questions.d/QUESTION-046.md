@@ -20,6 +20,8 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-165](../claims.d/CLAIM-165.md), [CLAIM-155](../claims.d/CLAIM-155.md), [CLAIM-003](../claims.d/CLAIM-003.md)
   and [QUESTION-032](QUESTION-032.md). [THEORY-043](../theory.d/THEORY-043.md) and [THEORY-063](../theory.d/THEORY-063.md) answer it in part; the body
   gives each one's limit.
+refined_by:
+- QUESTION-tmpc4j7p
 ---
 <!-- inactive-ok-file: CLAIM-003 — Deferred; the compartmented-access claim this question bears on, with its line set aside -->
 <!-- inactive-ok-file: QUESTION-019 — Superseded; cited as the looser earlier version of this question -->
