@@ -1,14 +1,23 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  read 2026-10-21 (NOTE-tmpqfl95) in full, from arXiv:1906.11583v2; worth reading for its distance between causal models that compares answers to interventions rather than graphs, for approximate abstraction as that distance under a coarse-graining (THEORY-tmpe391l), for the intervention distribution over low-level implementations of a high-level intervention, and for when an approximate abstraction factors into an abstraction and an approximation. Read it knowing that the error is a worst case over interventions, minimized over context maps and relative to a metric the user chooses, so it is zero wherever exact abstraction holds, including coarse-grainings whose dropped detail high-level noise can carry.
 title: 'Approximate Causal Abstractions'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is arXiv v1, 27 June 2019, per ADR-002; the PMLR volume is dated 6 August 2020. No DOI. The arXiv title is singular, "Approximate Causal Abstraction"; the proceedings title is above.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmpqfl95), from arXiv:1906.11583v2 (29 June 2019).
+    Status Deferred → Active. THEORY-tmpe391l is filed from it. The
+    summary is checked against the reading and corrected: the error is a
+    worst case over interventions, and the probabilistic version's
+    intervention distribution weights the low-level implementations of
+    each high-level intervention, not the interventions themselves.
 tags:
 - causality
 date: '2026-10-21'
@@ -24,7 +33,7 @@ keywords:
 - 'macro variables'
 implementations: []
 summary: >-
-  Beckers, Eberhardt & Halpern (2020; arXiv 2019). Extends exact causal abstraction to approximate abstraction: a measure of how far a high-level causal model's answers to interventions depart from those of the low-level model it abstracts, with the choice of distance and of weighting over interventions made explicit.
+  Beckers, Eberhardt & Halpern (2020; arXiv 2019). Extends exact causal abstraction to approximate abstraction: the worst case, over allowed interventions and contexts, of how far a high-level causal model's answers depart from the coarse-grained answers of the low-level model it abstracts, under a distance the user chooses; probabilistic versions average over contexts and, given an intervention distribution, over the low-level implementations of each high-level intervention. Composing an abstraction with an approximation gives an approximate abstraction, and the converse decomposition can fail.
 ---
 <!-- inactive-ok-file: TERM-tmpdxajb — Proposed; filed from the same exchange, named as the entry this work bears on -->
 <!-- inactive-ok-file: LIT-038 — Rejected; named only for its status note's pointer to Beckers–Halpern -->
@@ -32,8 +41,7 @@ summary: >-
 
 Beckers, S., Eberhardt, F. & Halpern, J. Y. (2020). Approximate Causal Abstractions. *Proceedings of the 35th Uncertainty in Artificial Intelligence Conference*, PMLR 115: 606–615. Preprint: arXiv:1906.11583 (27 June 2019), as "Approximate Causal Abstraction".
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full (NOTE-tmpqfl95).
 
 ## Why this is here
 

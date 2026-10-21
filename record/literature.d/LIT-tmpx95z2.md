@@ -1,14 +1,21 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-21, not read. Registered from the exchange of 2026-10-20/21, "Branch · Synthesize Research Updates", which the owner relayed. No NOTE is filed.
+  read 2026-10-21 (NOTE-tmp8rwaa) in full, from the authors' arXiv manuscript (1801.01239v2); worth reading for its model of the tobacco strategy, in which selective sharing of genuine results and honest research published selectively mislead a Bayesian audience while the scientists converge on the truth (THEORY-tmpnq01l), for the conditions under which this works, and for the finding that 'fair' reporting slows the audience. Read it knowing that its policy makers update on forwarded results as if they were unselected, that every result is a simulation of a stylized bandit model averaged over runs in which the scientists reached the truth, and that why the smallest studies serve biased production best is a sufficient-statistic fact the paper does not state (THEORY-tmpg79sv).
 title: 'How to Beat Science and Influence People: Policymakers and Propaganda in Epistemic Networks'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
   note: >-
     Filed, not read. Citation checked against Crossref, OpenAlex and arXiv on 2026-10-21. `published:` is arXiv v1, 4 January 2018, per ADR-002; the journal issue is December 2020. The arXiv title writes "Policy Makers"; the journal's is above.
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Read in full (NOTE-tmp8rwaa), from arXiv:1801.01239v2, the authors'
+    manuscript of August 2018. Status Deferred → Active. THEORY-tmpnq01l
+    and THEORY-tmpg79sv are filed from it. The summary is checked against
+    the reading and extended with biased production and fair reporting.
 tags:
 - epistemology
 - network-science
@@ -26,7 +33,7 @@ keywords:
 - 'tobacco strategy'
 implementations: []
 summary: >-
-  Weatherall, O'Connor & Bruner (2020; arXiv 2018). In network-epistemology models of scientists and policymakers, a propagandist who only selects and shares real, unbiased results that favour one side, without fabricating any, can lead policymakers to the false belief while the scientific community converges on the truth.
+  Weatherall, O'Connor & Bruner (2020; arXiv 2018). In network-epistemology models of scientists and policymakers, a propagandist who only selects and shares real, unbiased results that favour one side, without fabricating any, can lead policymakers to the false belief while the scientific community converges on the truth; so can one who runs honest studies and publishes only the favourable ones, best with the smallest studies; and a journalist who reports both sides equally slows policymakers' learning.
 ---
 <!-- inactive-ok-file: CLAIM-tmpjo2zr — Proposed; filed from the same exchange, named as the entry this work bears on -->
 <!-- inactive-ok-file: THEORY-143 — Proposed; a held reading named for context -->
@@ -35,8 +42,7 @@ summary: >-
 
 Weatherall, J. O., O'Connor, C. & Bruner, J. P. (2020). How to Beat Science and Influence People: Policymakers and Propaganda in Epistemic Networks. *The British Journal for the Philosophy of Science* 71(4): 1157–1186. doi:10.1093/bjps/axy062. Preprint: arXiv:1801.01239 (4 January 2018).
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Read in full (NOTE-tmp8rwaa).
 
 ## Why this is here
 
