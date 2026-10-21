@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A20–A23 restated this claim's anchor
     for public knowledge and institutions (its second to fifth appearances),
     and A26 built a performative toy with two stable self-confirming
-    classifications (CLAIM-tmpeftzb, CLAIM-tmpjo2zr). Extended the same day from the readings of Weatherall, O'Connor and Bruner and of Espeland and Sauder. The claim is
+    classifications (CLAIM-402, CLAIM-404). Extended the same day from the readings of Weatherall, O'Connor and Bruner and of Espeland and Sauder. The claim is
     unchanged.
 role: thesis
 warrant: interpretive
@@ -58,11 +58,11 @@ summary: >-
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
 supports:
-- CLAIM-tmpeftzb
-- CLAIM-tmpjo2zr
+- CLAIM-402
+- CLAIM-404
 ---
-<!-- inactive-ok-file: THEORY-tmpnfh8u — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-tmpeftzb CLAIM-tmpjo2zr TERM-tmpe6jtq — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-402 CLAIM-404 TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-342: What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available
 
@@ -168,8 +168,8 @@ scoring of evidence, not merely formal separation between a decision-maker
 and its evaluator**". Its audit table listed "Governance can make its own
 evidence and authority self-reinforcing" as a new "Proposed institutional
 interpretation". These are the second to fifth appearances. The
-institutional form is filed as [CLAIM-tmpjo2zr](CLAIM-tmpjo2zr.md), which rests on this claim,
-with [TERM-tmpe6jtq](../terms.d/TERM-tmpe6jtq.md) for capture.
+institutional form is filed as [CLAIM-404](CLAIM-404.md), which rests on this claim,
+with [TERM-066](../terms.d/TERM-066.md) for capture.
 
 **A performative instance.** A26 §2 built a toy in which a classification
 fixes the policy that generates its own evidence:
@@ -178,22 +178,22 @@ fixes the policy that generates its own evidence:
 behavioral evidence generated under that classification" (checked). It is
 this claim's loop with no independent evidence: every observation passes
 through the category under test. A26 tied it to Perdomo et al.'s
-performative prediction ([LIT-tmpwbhro](../literature.d/LIT-tmpwbhro.md)) and Espeland and Sauder's
-reactivity ([LIT-tmpngpsy](../literature.d/LIT-tmpngpsy.md)), both registered unread then and read the same day (below), and drew this claim's
+performative prediction ([LIT-1336](../literature.d/LIT-1336.md)) and Espeland and Sauder's
+reactivity ([LIT-1330](../literature.d/LIT-1330.md)), both registered unread then and read the same day (below), and drew this claim's
 conclusion: "stability and accuracy under the prevailing intervention
 regime do not establish correctness under alternative regimes". A27
-carried it into [QUESTION-028](../questions.d/QUESTION-028.md), filed as [CLAIM-tmpeftzb](CLAIM-tmpeftzb.md), which rests on
+carried it into [QUESTION-028](../questions.d/QUESTION-028.md), filed as [CLAIM-402](CLAIM-402.md), which rests on
 this claim.
 
 **Two readings of the same day.** Weatherall, O'Connor and Bruner
-([NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md)): their main remedy for a propagandist's selective sharing
+([NOTE-1038](../notes.d/NOTE-1038.md)): their main remedy for a propagandist's selective sharing
 is to hear more scientists, evidence that reaches the audience without
-passing through the propagandist ([THEORY-tmpnq01l](../theory.d/THEORY-tmpnq01l.md)). Their audience's state
+passing through the propagandist ([THEORY-855](../theory.d/THEORY-855.md)). Their audience's state
 is one number, cumulative successes minus failures, fed by both channels
-([THEORY-tmpg79sv](../theory.d/THEORY-tmpg79sv.md)), so the independent channel helps exactly as far as it
-outweighs the selected one. Espeland and Sauder ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)) report a
+([THEORY-845](../theory.d/THEORY-845.md)), so the independent channel helps exactly as far as it
+outweighs the selected one. Espeland and Sauder ([NOTE-1050](../notes.d/NOTE-1050.md)) report a
 loop whose evidence passes through the interpretation it tests: the
 reputation survey, in which raters score schools in part by the rank the
 scores feed (Stake 2006 as they cite it; Schmalbeck 2001 contra), the
-quantitative link cited, not shown ([THEORY-tmpnfh8u](../theory.d/THEORY-tmpnfh8u.md)). Perdomo et al.,
-read the same day, are in [CLAIM-tmpeftzb](CLAIM-tmpeftzb.md).
+quantitative link cited, not shown ([THEORY-854](../theory.d/THEORY-854.md)). Perdomo et al.,
+read the same day, are in [CLAIM-402](CLAIM-402.md).

@@ -32,7 +32,7 @@ summary: >-
 refined_by:
 - QUESTION-089
 ---
-<!-- inactive-ok-file: CLAIM-tmpj163u — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # QUESTION-041: When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization?
 
@@ -67,5 +67,5 @@ through which less authoritative contributions can change the criteria of
 authority itself". It is this question's second half, whether losing the
 channels is losing the capacity to transform, asked of recognition rather
 than of intention. A23 did not cite it. [QUESTION-089](QUESTION-089.md) is its companion.
-[CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md), filed from A24, bears on it without answering it. No
+[CLAIM-403](../claims.d/CLAIM-403.md), filed from A24, bears on it without answering it. No
 answer is added.

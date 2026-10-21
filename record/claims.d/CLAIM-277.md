@@ -12,9 +12,9 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A22, A24 and A26 re-derived this
     claim's loop and its 2026-10-18 note, adding legibility as the first
-    link (TERM-tmp5lqn0) and Fricker's pre-emptive testimonial injustice and
+    link (TERM-064) and Fricker's pre-emptive testimonial injustice and
     Longino's uptake as cases; the owner's U24 heard it as perpetuated
-    privilege (CLAIM-tmpoxld9). The claim is unchanged.
+    privilege (CLAIM-406). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -49,9 +49,9 @@ summary: >-
 supports:
 - CLAIM-297
 - CLAIM-344
-- CLAIM-tmpoxld9
+- CLAIM-406
 ---
-<!-- inactive-ok-file: CLAIM-tmpj163u CLAIM-tmpoxld9 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-403 CLAIM-406 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
 ## The claim
@@ -161,7 +161,7 @@ failing to maintain the conditions under which its contribution can be
 recognized and reproduced", with a chain "Low legibility of competence →
 Low endorsement → Low opportunity → Diminished demonstrated or actual
 capacity". A22 adds one thing: the first link is a failure of legibility
-([TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md)), not of exposure. It also applied the chain to a
+([TERM-064](../terms.d/TERM-064.md)), not of exposure. It also applied the chain to a
 constituency whose interests "are difficult to express in the categories
 an institution uses".
 
@@ -187,8 +187,8 @@ their criticism affects established views".
 
 What A24 and A26 add is the case: Fricker and Anderson's un-refreshed list
 ([THEORY-327](../theory.d/THEORY-327.md)), with its prejudice condition as the criterion this claim
-says it lacks. That is filed as [CLAIM-tmpoxld9](CLAIM-tmpoxld9.md), which rests on this
-claim, and the uptake point as [CLAIM-tmpj163u](CLAIM-tmpj163u.md). Its limit is this claim's.
+says it lacks. That is filed as [CLAIM-406](CLAIM-406.md), which rests on this
+claim, and the uptake point as [CLAIM-403](CLAIM-403.md). Its limit is this claim's.
 A26: "The mechanism itself is not inherently unjust. A normative
 conclusion requires establishing relevant prejudice, wrongful exclusion,
 or another justified standard of unfairness." Whether the loop is

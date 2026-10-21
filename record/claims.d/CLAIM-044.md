@@ -108,5 +108,5 @@ The second and third are this claim's ambiguity and contextuality:
 several compatible global assignments, or none. [CLAIM-144](CLAIM-144.md) adds the case
 of coordinates that differ without any failure to glue. The first is a
 third kind: the global description exists, and a property fails to
-survive the join ([CLAIM-219](CLAIM-219.md), note of 2026-10-21; [CLAIM-tmpshzxc](CLAIM-tmpshzxc.md)). It
+survive the join ([CLAIM-219](CLAIM-219.md), note of 2026-10-21; [CLAIM-409](CLAIM-409.md)). It
 recurs in A12 (Batch 5) and A14 (PR 6). Recorded here, not filed.

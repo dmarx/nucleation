@@ -77,7 +77,7 @@ summary: >-
 <!-- inactive-ok-file: THEORY-316 — Proposed; the account filed from the partial reading of LIT-1006, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
 <!-- inactive-ok-file: QUESTION-057 — Deferred; cited in the note of 2026-10-21, nothing here rests on it -->
-<!-- inactive-ok-file: CLAIM-025 CLAIM-174 CLAIM-364 CLAIM-tmpjo2zr THEORY-025 THEORY-047 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-025 CLAIM-174 CLAIM-364 CLAIM-404 THEORY-025 THEORY-047 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-071: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
 
@@ -183,7 +183,7 @@ question at the scale of an institution. Under [CLAIM-330](../claims.d/CLAIM-330
 target's loop is unstable, a single perturbation m₀ + ε suffices and
 needs no continued control, so the present structure shows nothing.
 [QUESTION-070](QUESTION-070.md) holds the state-channel version. The institutional route is
-filed as [CLAIM-tmpjo2zr](../claims.d/CLAIM-tmpjo2zr.md), which bears on this question without answering
+filed as [CLAIM-404](../claims.d/CLAIM-404.md), which bears on this question without answering
 it.
 
 **Part 1 restated twice.** A16 §11 and A27 §5 restated part 1, for

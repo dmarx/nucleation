@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A27 offered five candidate criteria
     for an operationally warranted effective kind; four are A191's, the
     fifth (independence from self-confirming classification) is filed as
-    CLAIM-tmpeftzb, and A27's conclusion is not an answer on this question's
+    CLAIM-402, and A27's conclusion is not an answer on this question's
     terms. Extended the same day from the reading of Espeland and Sauder, which states the effect sociologically. The question is unchanged.
 tags:
 - metaphysics
@@ -32,13 +32,13 @@ summary: >-
 answered_by:
 - THEORY-036
 - THEORY-556
-- CLAIM-tmpeftzb
+- CLAIM-402
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: LIT-301 — Unavailable; unread, named as the text that would settle THEORY-036 -->
 <!-- inactive-ok-file: CLAIM-078 — Proposed; cited because A191's four criteria restate it -->
 <!-- inactive-ok-file: THEORY-273 — Proposed; the necessary-not-sufficient reading named in the note of 2026-10-14, not as settled -->
-<!-- inactive-ok-file: CLAIM-tmpeftzb — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-402 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # QUESTION-028: When does independently generalizable, intervention-relevant relational structure warrant treating a communicative category as a real effective kind rather than an arbitrary taxonomy?
 
@@ -158,14 +158,14 @@ not one on this question's terms. A27 declines to say which criteria are
 necessary ("not five individually necessary conditions"), and its
 conclusion, a domain-relative kind and not a natural kind, is [THEORY-036](../theory.d/THEORY-036.md)
 and [THEORY-273](../theory.d/THEORY-273.md), which it did not cite. The fifth criterion is filed as
-[CLAIM-tmpeftzb](../claims.d/CLAIM-tmpeftzb.md), which bears on this question without settling it.
+[CLAIM-402](../claims.d/CLAIM-402.md), which bears on this question without settling it.
 
-Espeland and Sauder, read the same day ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)), state the effect
+Espeland and Sauder, read the same day ([NOTE-1050](../notes.d/NOTE-1050.md)), state the effect
 the fifth criterion guards against, sociologically and in passing. Their
 footnote 10, citing Porter on "Hispanics": "As a category acquires
 constituencies who use it, those encompassed by the category develop
 shared interests and identities that make the category more meaningful and
 'real.'" Their conclusion: "the census produces 'Hispanics,' and the LSAT
 defines 'merit.'" It is reported, not studied, and their study is of
-rankings, where every school is under the same measure ([THEORY-tmpwpmt2](../theory.d/THEORY-tmpwpmt2.md)).
+rankings, where every school is under the same measure ([THEORY-862](../theory.d/THEORY-862.md)).
 The question stays Open.

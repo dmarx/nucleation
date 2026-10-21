@@ -19,7 +19,7 @@ history:
   date: '2026-10-21'
   note: >-
     Note of 2026-10-21 added, from the reading of Xu et al. on usable
-    information (NOTE-tmpvnsxo): the objection's two standards are
+    information (NOTE-1048): the objection's two standards are
     Shannon and V-information, which that paper relates without
     mentioning Blackwell. The claim is unchanged.
 role: counter
@@ -154,12 +154,12 @@ In the blind-captioner design there is none.
 
 ## Note of 2026-10-21: the two standards in the usable-information literature
 
-Xu, Zhao, Song, Stewart and Ermon 2020 ([LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md)), read in full on
-2026-10-21 ([NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)), have this objection's split in their own
+Xu, Zhao, Song, Stewart and Ermon 2020 ([LIT-1309](../literature.d/LIT-1309.md)), read in full on
+2026-10-21 ([NOTE-1048](../notes.d/NOTE-1048.md)), have this objection's split in their own
 terms: Shannon information is the unrestricted predictor's (their Ω), and
 V-information the restricted family's, which can be created by
 computation, so that a function of the data can carry more of it than the
-data ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)). The ideal decision-maker's standard and the given
+data ([THEORY-846](../theory.d/THEORY-846.md)). The ideal decision-maker's standard and the given
 receiver's are I_Ω and I_V. The paper does not mention Blackwell, and its
 quantity is for log loss only. The reconciliation in [CLAIM-199](CLAIM-199.md) stands; its
 note of the same day says when the ceiling holds in V-information. The

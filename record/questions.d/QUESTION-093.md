@@ -24,10 +24,10 @@ history:
   note: >-
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: the owner's leave-one-out
-    (QUESTION-tmp1nqby) asks this question's which-come-apart
+    (QUESTION-252) asks this question's which-come-apart
     systematically, and A8–A9 restated the ladder with a fifth, normative
     step; the first step's failure is now shown twice (THEORY-820,
-    CLAIM-tmpshzxc). The question is unchanged.
+    CLAIM-409). The question is unchanged.
 tags:
 - individuation
 - agency
@@ -107,7 +107,7 @@ data, closure or self-individuation can be had without the others.
 ## Note of 2026-10-21: the leave-one-out, and the ladder again
 
 **The leave-one-out.** The owner's leave-one-out design of 2026-10-20
-(U3, filed as [QUESTION-tmp1nqby](QUESTION-tmp1nqby.md)) asks this question's "which come apart" systematically, of five
+(U3, filed as [QUESTION-252](QUESTION-252.md)) asks this question's "which come apart" systematically, of five
 conditions on an effective description; the half that version 1's title
 put as "can it have the first without the others?" is now [QUESTION-250](QUESTION-250.md). The exchange did not cite this question.
 
@@ -120,4 +120,4 @@ normatively authoritative", which is [CLAIM-075](../claims.d/CLAIM-075.md) and [
 reply cites this question, [CLAIM-174](../claims.d/CLAIM-174.md) or [THEORY-071](../theory.d/THEORY-071.md), which hold the same
 structure. What is new is that the first step's failure is now
 demonstrated twice: noise is closed, and closure does not compose
-([THEORY-820](../theory.d/THEORY-820.md), [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md)).
+([THEORY-820](../theory.d/THEORY-820.md), [CLAIM-409](../claims.d/CLAIM-409.md)).

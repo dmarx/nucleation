@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A27 reached the same endpoint as A25
     of 2026-10-17: reciprocal governance explains how obligations become
     recognizable, and equal standing must enter as a normative premise; one
-    new point is a condition on participation (CLAIM-tmpj163u). The question
+    new point is a condition on participation (CLAIM-403). The question
     is unchanged.
 tags:
 - ethics
@@ -30,7 +30,7 @@ summary: >-
   sideways between peers. Set aside with the authenticity line.
 ---
 <!-- inactive-ok-file: CLAIM-016 CLAIM-096 CLAIM-104 — Deferred; set aside, and cited to say what was set aside with it -->
-<!-- inactive-ok-file: CLAIM-tmpj163u THEORY-151 THEORY-414 THEORY-495 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-403 THEORY-151 THEORY-414 THEORY-495 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-007: What grounds normativity across agents that share an environment and a level of organization?
 
@@ -89,5 +89,5 @@ to add a genesis–efficacy–justification distinction repeats the note of
 requirement to consult affected agents while denying them effective
 participation in defining the decision's relevant questions or criteria".
 That is a condition on participation, Longino's venues and uptake
-([THEORY-151](../theory.d/THEORY-151.md), [CLAIM-tmpj163u](../claims.d/CLAIM-tmpj163u.md)), and not a ground of obligation. The
+([THEORY-151](../theory.d/THEORY-151.md), [CLAIM-403](../claims.d/CLAIM-403.md)), and not a ground of obligation. The
 question stays Deferred with the authenticity line.

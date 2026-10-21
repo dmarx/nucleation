@@ -47,7 +47,7 @@ complements:
 - CLAIM-122
 - CLAIM-027
 - CLAIM-352
-- CLAIM-tmpyxupb
+- CLAIM-410
 summary: >-
   The owner's, U9 of the exchange of 2026-10-17: "controllability of a
   system isn't binary, and neither is sensitivity to perturbation", so
@@ -61,7 +61,7 @@ summary: >-
   since a precommitment can shrink the set while making an endorsed
   project realizable.
 ---
-<!-- inactive-ok-file: CLAIM-tmpyxupb — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-410 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-354: Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
 
@@ -181,4 +181,4 @@ action sets ⇏ Pareto-improved equilibrium outcomes". Checked. The sharp
 edge already says precommitment can shrink the set and make an endorsed
 project realizable. The PD is the two-agent form, in which the shrinking
 is imposed and not chosen. That bears on autonomy, which this claim does
-not settle. [CLAIM-tmpyxupb](CLAIM-tmpyxupb.md) uses the example.
+not settle. [CLAIM-410](CLAIM-410.md) uses the example.

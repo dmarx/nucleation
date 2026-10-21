@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A23's failure table
     (representational, legibility-related, governance-related) is this
     claim's separation one step earlier; A24 carried it to contributors
-    (CLAIM-tmpj163u). The claim is unchanged.
+    (CLAIM-403). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,9 +56,9 @@ summary: >-
   not diagnoses, and RO-DBT's own evidence is "promising but not
   definitive".
 supports:
-- CLAIM-tmpj163u
+- CLAIM-403
 ---
-<!-- inactive-ok-file: CLAIM-199 CLAIM-tmpj163u — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-025 CLAIM-156 CLAIM-347 THEORY-050 THEORY-051 THEORY-052 — Proposed; open claims and readings this one rests on or cites with their limits, nothing here treats them as settled -->
 
@@ -185,6 +185,6 @@ retained but wasn't recognized or usable", and "Governance-related" if it
 "was recognized but couldn't acquire appropriate practical influence".
 "These can produce indistinguishable behavior while requiring different
 explanations." Retention is [CLAIM-350](CLAIM-350.md)'s question, usability [CLAIM-199](CLAIM-199.md)'s
-([TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md)), and the step from access to authority is this claim's.
+([TERM-064](../terms.d/TERM-064.md)), and the step from access to authority is this claim's.
 A23 cited neither this claim nor [CLAIM-156](CLAIM-156.md). A24 §6 carried the split to
-contributors, filed as [CLAIM-tmpj163u](CLAIM-tmpj163u.md), which rests on this claim.
+contributors, filed as [CLAIM-403](CLAIM-403.md), which rests on this claim.

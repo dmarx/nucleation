@@ -30,7 +30,7 @@ summary: >-
 answers:
 - QUESTION-047
 supports:
-- CLAIM-tmpj163u
+- CLAIM-403
 ---
 <!-- inactive-ok-file: THEORY-143 — Proposed; the network account filed in this batch -->
 <!-- inactive-ok-file: THEORY-148 — Proposed; the transient-diversity account filed in this batch -->

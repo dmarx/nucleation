@@ -12,7 +12,7 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A18 separated first-order freedom
     from second-order self-governance under deregulation, this claim's
-    distinction carried to removing a constraint (CLAIM-tmpyxupb). The claim
+    distinction carried to removing a constraint (CLAIM-410). The claim
     is unchanged.
 role: thesis
 warrant: interpretive
@@ -42,10 +42,10 @@ complements:
 grounds:
 - THEORY-223
 supports:
-- CLAIM-tmpyxupb
+- CLAIM-410
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
-<!-- inactive-ok-file: CLAIM-tmpyxupb — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-410 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-086: A constraint may govern conduct without governing the conditions under which it remains authoritative
 
@@ -83,4 +83,4 @@ I can act?"), and said neither entails the other. This is this claim's
 distinction carried from a single constraint to the removal of one: a
 constraint may govern conduct without governing the conditions of its own
 authority, and removing it may change either. A18 did not cite this
-claim. [CLAIM-tmpyxupb](CLAIM-tmpyxupb.md), filed from A18, rests on it.
+claim. [CLAIM-410](CLAIM-410.md), filed from A18, rests on it.

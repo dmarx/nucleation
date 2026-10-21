@@ -70,7 +70,7 @@ summary: >-
   [TERM-039](../terms.d/TERM-039.md) and [CLAIM-127](CLAIM-127.md), and the record demoted it once before
   ([CLAIM-109](CLAIM-109.md)).
 ---
-<!-- inactive-ok-file: CLAIM-tmpjo2zr — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-404 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-341: The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active
 
@@ -327,4 +327,4 @@ without [CLAIM-330](CLAIM-330.md) and [CLAIM-340](CLAIM-340.md), which say when 
 "first-order" and "second-order epistemic adequacy" (preserving the
 answers to a fixed query family, against preserving how the family is
 selected) appears once. The exchange took the loop on to institutions in
-[CLAIM-tmpjo2zr](CLAIM-tmpjo2zr.md).
+[CLAIM-404](CLAIM-404.md).

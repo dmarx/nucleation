@@ -12,7 +12,7 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A22's "which facts become legible
     enough to count as evidence" is this claim's authority arrow stated for
-    institutions; whether it is a new channel is QUESTION-tmp4147z. The
+    institutions; whether it is a new channel is QUESTION-253. The
     claim is unchanged.
 role: thesis
 warrant: interpretive
@@ -135,4 +135,4 @@ evidence at all". That is this claim's authority arrow (influence decides
 what the next judgement observes), stated for institutions, with the
 categories and reporting requirements an institution keeps in place of
 retrieval. Whether that is a new channel or [CLAIM-340](CLAIM-340.md)'s κ′ is
-[QUESTION-tmp4147z](../questions.d/QUESTION-tmp4147z.md). The term is filed as [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).
+[QUESTION-253](../questions.d/QUESTION-253.md). The term is filed as [TERM-064](../terms.d/TERM-064.md).

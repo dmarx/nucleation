@@ -126,5 +126,5 @@ non-implications "already established", on [THEORY-771](../theory.d/THEORY-771.m
 same case "a promising conceptual separation". Neither cited this
 question, [CLAIM-390](../claims.d/CLAIM-390.md) or [CLAIM-386](../claims.d/CLAIM-386.md). The record bounds the dependence (second
 order in the coupling into a block) but holds no construction of the
-non-implication as stated. It is one of the cells [QUESTION-tmp1nqby](QUESTION-tmp1nqby.md) asks
+non-implication as stated. It is one of the cells [QUESTION-252](QUESTION-252.md) asks
 to be filled.

@@ -19,7 +19,7 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A2 proposed this term's content as a
     paper (CLAIM-170, note of 2026-10-21); A11–A14 proposed competing
-    definitions, one filed as the rival TERM-tmp3p5ss, the other (an
+    definitions, one filed as the rival TERM-063, the other (an
     adaptive policy mechanism) being this term's test 3, which this term
     refines. The definition is unchanged.
 tags:
@@ -41,11 +41,11 @@ used_by:
 - CLAIM-157
 - CLAIM-167
 rivals:
-- TERM-tmp3p5ss
+- TERM-063
 ---
 <!-- inactive-ok-file: CLAIM-104 — Deferred; the authenticity line's claim, cited for how it already makes agency level-relative, not leaned on -->
 <!-- inactive-ok-file: CLAIM-157 CLAIM-174 — Proposed; the criteria this term is defined by, open -->
-<!-- inactive-ok-file: CLAIM-155 CLAIM-170 TERM-tmp3p5ss THEORY-071 THEORY-583 THEORY-801 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-155 CLAIM-170 TERM-063 THEORY-071 THEORY-583 THEORY-801 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # TERM-044: agent (at a level of description)
 
@@ -86,7 +86,7 @@ paper, without citing either ([CLAIM-170](../claims.d/CLAIM-170.md), note of 202
 
 A11, A12 and A14 proposed filing competing definitions of agent beside
 this one. One is [THEORY-071](../theory.d/THEORY-071.md)'s organizational sense, filed as a rival,
-[TERM-tmp3p5ss](TERM-tmp3p5ss.md). The other is "agent, as an adaptive policy mechanism",
+[TERM-063](TERM-063.md). The other is "agent, as an adaptive policy mechanism",
 which is this term's test 3 taken alone, as [THEORY-801](../theory.d/THEORY-801.md) defines it. This
 term refines that sense and does not rival it. [THEORY-583](../theory.d/THEORY-583.md)'s cybernetic
 Self falls at the control-system tier, which this term places below

@@ -36,8 +36,8 @@ grounds:
 complements:
 - CLAIM-276
 - CLAIM-342
-- CLAIM-tmpjo2zr
-- CLAIM-tmpyxupb
+- CLAIM-404
+- CLAIM-410
 summary: >-
   The owner's question, U41 of the exchange of 2026-10-17: "is literature
   on organizational robustness to insider threats potentially useful to

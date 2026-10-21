@@ -12,7 +12,7 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A15–A17 re-derived the supervisory
     test, this time cited, and gave it parameters, noise, a closure
-    statement and a 0.5-bit deficiency (CASE-tmpdc0tl, CLAIM-tmppi0xf); A17
+    statement and a 0.5-bit deficiency (CASE-125, CLAIM-407); A17
     made it a Proposition without this claim's note of 2026-10-18. The claim
     is unchanged.
 role: thesis
@@ -40,7 +40,7 @@ summary: >-
 illustrated_by:
 - CASE-074
 - CASE-112
-- CASE-tmpdc0tl
+- CASE-125
 complements:
 - CLAIM-354
 ---
@@ -103,9 +103,9 @@ intervene on governance relations, and ask whether the operative action
 changes"). A15 §2 then built it as a counterexample with parameters
 (proposals u₁ = 0, u₂ = 1; an authorization input connected in one system
 and not the other), and A16 §3 gave it noise, a closure statement and a
-deficiency of 0.5 bit. That is filed as [CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md), which illustrates
-this claim, and its general form as [CLAIM-tmppi0xf](CLAIM-tmppi0xf.md), with the profile it
-asks a description to keep as [TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md). A17 made it its paper's
+deficiency of 0.5 bit. That is filed as [CASE-125](../cases.d/CASE-125.md), which illustrates
+this claim, and its general form as [CLAIM-407](CLAIM-407.md), with the profile it
+asks a description to keep as [TERM-067](../terms.d/TERM-067.md). A17 made it its paper's
 Proposition 1 and listed it as "Established by the paper's self-contained
 finite counterexample", without the note of 2026-10-18, which already
 holds A12's Proposition 2 in words. This is the first instance with

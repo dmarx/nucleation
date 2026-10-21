@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A6–A9 built their paper on the two
     warnings this question records from THEORY-820; closed coarse-grainings
     are neither upward- nor downward-closed in the refinement order
-    (CLAIM-tmpshzxc), and no independent mark of unity was offered. The
+    (CLAIM-409), and no independent mark of unity was offered. The
     question is unchanged.
 tags:
 - individuation
@@ -107,9 +107,9 @@ biggest discovery". Two facts were checked from the exact three-bit chain.
 (A, C) and (B, C) are closed, though (A, B) is not, and A⊕B, a coarsening
 of (A, B), is not closed (1 bit), so the closed coarse-grainings are
 neither upward- nor downward-closed in the refinement order. That is filed
-as [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md), with the reason: refinement changes the future that
+as [CLAIM-409](../claims.d/CLAIM-409.md), with the reason: refinement changes the future that
 closure asks to be predicted. A8 and A9 drew from this that closure
 "cannot be a sufficient criterion" of a unit or an agent, which is this
 question's open half and [CLAIM-157](../claims.d/CLAIM-157.md)'s guard, and offered no independent
-mark of unity either. [TERM-tmpfezzd](../terms.d/TERM-tmpfezzd.md) separates the senses of "closure" the
+mark of unity either. [TERM-068](../terms.d/TERM-068.md) separates the senses of "closure" the
 exchange ran together.

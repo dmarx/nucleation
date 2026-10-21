@@ -122,7 +122,7 @@ A15 of the exchange of 2026-10-20 proposed as "our next substantive test"
 a system "in which a coarse description perfectly predicts ordinary
 behavior but loses a governance response to an intervention", and then
 compare descriptions that keep meaning, authority, or both. The
-construction A16 gave ([CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md)) has no meaning state, so it cannot
+construction A16 gave ([CASE-125](../cases.d/CASE-125.md)) has no meaning state, so it cannot
 show the joint prediction this claim's `defeated_if` asks for. A16 §13
 proposed the comparison as a simulation; A17 dropped it: "the paper's
 principal argument does not depend on proving it." The claim stays

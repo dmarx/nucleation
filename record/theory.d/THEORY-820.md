@@ -25,8 +25,8 @@ history:
     description, agency and legibility: A7, A12, A14, A16 and A17 restated
     the refinement counterexample as a Blackwell corollary and explained it:
     closure's target is the description's own future, which refinement
-    changes (CLAIM-tmpshzxc); the meet/join convention is fixed in
-    TERM-tmpfezzd. The reading is unchanged.
+    changes (CLAIM-409); the meet/join convention is fixed in
+    TERM-068. The reading is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -41,9 +41,9 @@ answers:
 summary: >-
   Rosas et al. (arXiv 2024), [LIT-1306](../literature.d/LIT-1306.md), read in [NOTE-1030](../notes.d/NOTE-1030.md), with Barnett and Seth's definition ([LIT-979](../literature.d/LIT-979.md)). For discrete stationary processes, the information-theoretic criterion of emergent closure (dynamical independence), the interventionist one (the macro's own causal states are all the micro distinctions that matter for it) and, for maps of the present state, a computational one are nested as stated. The first two are one condition. It says nothing about approximate closure. It does not make closure a mark of unity. "Causal" is only in the Granger sense unless X is fully observed.
 supports:
-- CLAIM-tmpoxkub
-- CLAIM-tmppi0xf
-- CLAIM-tmpshzxc
+- CLAIM-405
+- CLAIM-407
+- CLAIM-409
 ---
 <!-- inactive-ok-file: THEORY-257 — Proposed; the interpretive reading of dynamical independence this bears on, cited as open -->
 # THEORY-820: For a stationary discrete-valued process X and any coarse-graining Z of its past, informational closure at every horizon is the same condition as zero one-step transfer entropy from the micro past, Barnett and Seth's dynamical independence, and as causal closure, Z's ε-machine coinciding with its υ-machine; for a coarse-graining of the present state it also makes Z's causal states a coarse-graining of X's, which does not imply closure, and the closed coarse-grainings are not closed under common refinement
@@ -202,10 +202,10 @@ A16 §5 and A17 §4.4 said why. For a fixed target, refining a description
 cannot raise its deficiency; closure's target is the description's own
 future, which refinement changes. So the three-bit chain (A and B closed,
 (A, B) not) is not a failure of "more information helps" but a change of
-question. Both halves are filed as [CLAIM-tmpshzxc](../claims.d/CLAIM-tmpshzxc.md), which rests on
-[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md). A16 §2 also reconciled a governance-response failure with
+question. Both halves are filed as [CLAIM-409](../claims.d/CLAIM-409.md), which rests on
+[CLAIM-407](../claims.d/CLAIM-407.md). A16 §2 also reconciled a governance-response failure with
 this entry by the entry's own "Not interventional causation"; that is
-[CLAIM-tmppi0xf](../claims.d/CLAIM-tmppi0xf.md) and [CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md).
+[CLAIM-407](../claims.d/CLAIM-407.md) and [CASE-125](../cases.d/CASE-125.md).
 
 A13 writes the common refinement A ∨ B, where this entry calls it a meet.
-[TERM-tmpfezzd](../terms.d/TERM-tmpfezzd.md) fixes the convention as this entry's.
+[TERM-068](../terms.d/TERM-068.md) fixes the convention as this entry's.

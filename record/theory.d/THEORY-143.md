@@ -20,7 +20,7 @@ history:
   date: '2026-10-21'
   note: >-
     Note of 2026-10-21 added, from the reading of Weatherall, O'Connor
-    and Bruner (NOTE-tmp8rwaa): the effect concerns the community's own
+    and Bruner (NOTE-1038): the effect concerns the community's own
     learning; with an outside audience and a propagandist, or a biased
     agent among the scientists, sparse communication can hurt. The account
     is unchanged.
@@ -113,13 +113,13 @@ rather than learn by trying ([LIT-716](../literature.d/LIT-716.md)).
 
 ## Note of 2026-10-21: an outside audience, and a biased agent
 
-Weatherall, O'Connor and Bruner ([LIT-tmpx95z2](../literature.d/LIT-tmpx95z2.md)), read in full on 2026-10-21
-([NOTE-tmp8rwaa](../notes.d/NOTE-tmp8rwaa.md)), mark a limit of scope this account leaves implicit: the
+Weatherall, O'Connor and Bruner ([LIT-1341](../literature.d/LIT-1341.md)), read in full on 2026-10-21
+([NOTE-1038](../notes.d/NOTE-1038.md)), mark a limit of scope this account leaves implicit: the
 effect concerns the community's own learning. With an outside audience
 of policy makers and a propagandist sharing results selectively, the
 slower consensus that sparse networks give can leave the audience worse
 off; in their Fig. 5 the complete network is better for the policy makers
-at p_B = .55 and n = 5 ([THEORY-tmpnq01l](THEORY-tmpnq01l.md)). And their footnote 14 reports
+at p_B = .55 and n = 5 ([THEORY-855](THEORY-855.md)). And their footnote 14 reports
 Holman and Bruner's finding ([LIT-751](../literature.d/LIT-751.md), Unavailable, second-hand) that with a
 biased agent among the scientists it is best for them to be highly
 connected. Neither contradicts the account, whose condition is a community

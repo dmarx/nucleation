@@ -28,7 +28,7 @@ history:
   note: >-
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: the owner's leave-one-out
-    (QUESTION-tmp1nqby) asks of five conditions on an effective description
+    (QUESTION-252) asks of five conditions on an effective description
     what this question asks of each criterion. The question is unchanged.
 tags:
 - individuation
@@ -53,7 +53,7 @@ summary: >-
 refined_by:
 - QUESTION-243
 ---
-<!-- inactive-ok-file: CLAIM-tmpcrdhj — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-401 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 <!-- inactive-ok-file: CLAIM-331 LIT-1137 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?
@@ -166,11 +166,11 @@ where effective information parts from the others on one system.
 ## Note of 2026-10-21: the leave-one-out over the criteria
 
 The owner's leave-one-out design of 2026-10-20 (U3, filed as
-[QUESTION-tmp1nqby](QUESTION-tmp1nqby.md)) asks systematically, of five conditions on an
+[QUESTION-252](QUESTION-252.md)) asks systematically, of five conditions on an
 effective description (predictive sufficiency, dynamical independence,
 memory closure, approximation fidelity, feasible recoverability), whether
 each can hold without the others. That is this question's "what each
 criterion tracks", asked as a table. The exchange did not cite this
-question. [CLAIM-tmpcrdhj](../claims.d/CLAIM-tmpcrdhj.md)'s answer to the design is that the conditions are
+question. [CLAIM-401](../claims.d/CLAIM-401.md)'s answer to the design is that the conditions are
 not of one logical kind, so the table's cells are not all of one sort
 either.

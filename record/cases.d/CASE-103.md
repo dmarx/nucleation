@@ -22,7 +22,7 @@ summary: >-
   states. Stipulated; it shows no particular reputation was self-fulfilling.
 supports:
 - CLAIM-327
-- CLAIM-tmpeftzb
+- CLAIM-402
 ---
 
 <!-- inactive-ok-file: LIT-1135 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

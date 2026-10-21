@@ -112,4 +112,4 @@ straightforwardly serve as a necessary condition for agency", and since
 noise is closed, it is not sufficient either. So neither a coupling
 criterion (this claim) nor a closure criterion ([THEORY-820](../theory.d/THEORY-820.md)) tells a
 produced boundary from an imposed one. The two closures are separated in
-[TERM-tmpfezzd](../terms.d/TERM-tmpfezzd.md) and [TERM-tmpnjo1t](../terms.d/TERM-tmpnjo1t.md).
+[TERM-068](../terms.d/TERM-068.md) and [TERM-070](../terms.d/TERM-070.md).

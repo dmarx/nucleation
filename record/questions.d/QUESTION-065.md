@@ -18,7 +18,7 @@ answered_by:
 - THEORY-205
 - THEORY-157
 - THEORY-257
-- CLAIM-tmpoxkub
+- CLAIM-405
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-152](../claims.d/CLAIM-152.md), [CLAIM-154](../claims.d/CLAIM-154.md),

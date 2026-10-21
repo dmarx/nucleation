@@ -11,7 +11,7 @@ history:
   note: >-
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A8 and A9 carried this claim's
-    structure to individuation without citing it; filed as CLAIM-tmpoxkub.
+    structure to individuation without citing it; filed as CLAIM-405.
     The claim is unchanged.
 role: thesis
 warrant: interpretive
@@ -58,9 +58,9 @@ summary: >-
   That the standards themselves can be objectively better or worse is
   not claimed.
 complements:
-- CLAIM-tmpoxkub
+- CLAIM-405
 ---
-<!-- inactive-ok-file: CLAIM-tmpoxkub — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-405 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-363: A normative judgment is well-defined only once its relata are fixed (the organization or standpoint it concerns, the standard, the scale and the context), and that dependence does not by itself make it relative: once they are fixed, the judgment can be false
 
@@ -157,4 +157,4 @@ Further:
 
 A8 §9 and A9 §9 of the exchange of 2026-10-20 reached this claim's
 structure for individuation, without citing it ("Observer-relative need
-not mean subjective"). That is filed as [CLAIM-tmpoxkub](CLAIM-tmpoxkub.md).
+not mean subjective"). That is filed as [CLAIM-405](CLAIM-405.md).

@@ -67,7 +67,7 @@ supports:
 ---
 <!-- inactive-ok-file: CLAIM-155 — Proposed; the owner's willed-agency tiers that occasioned this version, open -->
 <!-- inactive-ok-file: CLAIM-166 CLAIM-168 CLAIM-174 — Proposed; the owner's drive claim, the open objection and the admission test, open -->
-<!-- inactive-ok-file: TERM-tmp3p5ss THEORY-801 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: TERM-063 THEORY-801 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-170: The agents in a system are a factorization of it relative to a level of description and a target; agents in general are identified by adaptation, and willed agents are individuated by their will-organization: a willed agent is the jurisdiction of a will-organization
 
@@ -127,4 +127,4 @@ A2 of the exchange of 2026-10-20 proposed as a paper "Agency attribution
 requires a choice of system boundary, causal variables, and
 counterfactual intervention class", from [THEORY-527](../theory.d/THEORY-527.md) and [THEORY-801](../theory.d/THEORY-801.md). That is
 this claim and [TERM-044](../terms.d/TERM-044.md), which the exchange did not cite. The same
-exchange filed the organizational rival to [TERM-044](../terms.d/TERM-044.md) as [TERM-tmp3p5ss](../terms.d/TERM-tmp3p5ss.md).
+exchange filed the organizational rival to [TERM-044](../terms.d/TERM-044.md) as [TERM-063](../terms.d/TERM-063.md).

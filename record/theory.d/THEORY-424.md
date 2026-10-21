@@ -33,7 +33,7 @@ summary: >-
   paper leaves open, and neither it nor the paper's two ETI criteria is
   computed on any system.
 supports:
-- CLAIM-tmppi0xf
+- CLAIM-407
 ---
 <!-- inactive-ok-file: LIT-005 LIT-049 — Proposed; LIT-005 is the source this account was read from, and its NOTE places it; LIT-049 is named as its ancestor -->
 <!-- inactive-ok-file: LIT-1137 — Deferred; Krakauer et al., registered unread, named as the measures the source argues against -->
@@ -134,4 +134,4 @@ A13 and A14 proposed a TERM, "intervention regime", for what is
 manipulated, what is held as background and how interventions are
 weighted. It was not filed: its content is this entry's limit, with
 [QUESTION-204](../questions.d/QUESTION-204.md) and [QUESTION-115](../questions.d/QUESTION-115.md)'s "intervention distribution". The
-intervention family is one component of [TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md).
+intervention family is one component of [TERM-065](../terms.d/TERM-065.md).

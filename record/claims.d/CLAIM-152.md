@@ -68,8 +68,8 @@ supports:
 - CLAIM-348
 - CLAIM-363
 - CLAIM-367
-- CLAIM-tmpcrdhj
-- CLAIM-tmpoxkub
+- CLAIM-401
+- CLAIM-405
 grounds:
 - THEORY-194
 - THEORY-202
@@ -85,7 +85,7 @@ complements:
 <!-- inactive-ok-file: CLAIM-213 — Proposed; filed 2026-10-12 from the interlocutor's reading as advice, cited in a note as open -->
 <!-- inactive-ok-file: CLAIM-161 CLAIM-175 — Proposed; the boundary claims this caution disciplines, open -->
 <!-- inactive-ok-file: CLAIM-151 CLAIM-204 CLAIM-217 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
-<!-- inactive-ok-file: CLAIM-348 CLAIM-tmpcrdhj CLAIM-tmpoxkub — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-348 CLAIM-401 CLAIM-405 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-152: Any individuation built on sufficiency is relative to the target it is sufficient for: fix the outcomes differently and a different partition wins, so no boundary drawn this way is universal
 
@@ -195,8 +195,8 @@ descriptions, and [TERM-043](../terms.d/TERM-043.md)'s componentwise comparison 
 fidelity.
 
 The thesis was not filed as a claim. Its parts were: the conditions are
-not of one kind ([CLAIM-tmpcrdhj](CLAIM-tmpcrdhj.md)), the leave-one-out that would test them
-([QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md)), and what adequacy is relative to ([TERM-tmpdxajb](../terms.d/TERM-tmpdxajb.md), the
+not of one kind ([CLAIM-401](CLAIM-401.md)), the leave-one-out that would test them
+([QUESTION-252](../questions.d/QUESTION-252.md)), and what adequacy is relative to ([TERM-065](../terms.d/TERM-065.md), the
 effective-description regime). A paper built on it would be a `works`
 question for the owner. A8 and A9 carried the same structure to
-individuation, filed as [CLAIM-tmpoxkub](CLAIM-tmpoxkub.md), which rests on this claim.
+individuation, filed as [CLAIM-405](CLAIM-405.md), which rests on this claim.

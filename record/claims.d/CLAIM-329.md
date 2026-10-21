@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A10 re-derived this claim's
     persistences without citing it, and A13–A14 proposed a TERM
     "organizational reconstitution" that would merge what this claim
-    separates; filed instead as TERM-tmpzdpdt. The claim is unchanged.
+    separates; filed instead as TERM-071. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -126,4 +126,4 @@ reconstitution is what this claim says is not continuation: "an
 organization of the same kind that arises independently" ([QUESTION-118](../questions.d/QUESTION-118.md),
 [THEORY-418](../theory.d/THEORY-418.md), [CASE-105](../cases.d/CASE-105.md)). The proposed TERM would merge the two. The
 persistences are filed instead as a disambiguation TERM under another
-name, [TERM-tmpzdpdt](../terms.d/TERM-tmpzdpdt.md).
+name, [TERM-071](../terms.d/TERM-071.md).

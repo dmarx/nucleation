@@ -35,7 +35,7 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A24 read this question right and
     drew its feedback chain for the record's own registry and filing, which
-    is CLAIM-181 and CLAIM-182; CLAIM-tmpoxld9 connects the Fricker readings
+    is CLAIM-181 and CLAIM-182; CLAIM-406 connects the Fricker readings
     to the distributed-agency line. Extended the same day from the readings of Kay et al. and Collins, neither of which tests the question. The question is unchanged.
 tags:
 - epistemology
@@ -60,7 +60,7 @@ answered_by:
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the reading this question was filed ahead of, read only in the author's précis -->
 <!-- inactive-ok-file: THEORY-327 THEORY-326 — Proposed; the accounts filed 2026-10-14 from Fricker's own papers, named in a dated note -->
 <!-- inactive-ok-file: THEORY-317 — Proposed; the account filed from the précis, answering part 2 in definitional terms, not settled -->
-<!-- inactive-ok-file: CLAIM-181 CLAIM-182 CLAIM-277 CLAIM-tmpoxld9 THEORY-tmpzqfxe THEORY-tmp3d6fm — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-181 CLAIM-182 CLAIM-277 CLAIM-406 THEORY-864 THEORY-834 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-072: Does a project memory distribute credibility among an argument's contributors, by making some contributors' moves addressable and leaving others' as unfiled turns, so that what gets a code gets cited and what does not is re-derived or lost?
 
@@ -157,16 +157,16 @@ terminology registry and filing procedures are themselves legibility and
 authority-allocation mechanisms". That is [CLAIM-181](../claims.d/CLAIM-181.md) and [CLAIM-182](../claims.d/CLAIM-182.md), which
 A24 did not cite. A24's account that the Fricker readings are "largely
 isolated from the distributed-agency and effective-description lines" is
-right except for [CLAIM-277](../claims.d/CLAIM-277.md)'s pointer here. [CLAIM-tmpoxld9](../claims.d/CLAIM-tmpoxld9.md) now connects
+right except for [CLAIM-277](../claims.d/CLAIM-277.md)'s pointer here. [CLAIM-406](../claims.d/CLAIM-406.md) now connects
 them.
 
 Two readings of the same day make the record's own position concrete
-without testing it. Kay, Kasirzadeh and Mohamed ([NOTE-tmpw3hh8](../notes.d/NOTE-tmpw3hh8.md)) locate
+without testing it. Kay, Kasirzadeh and Mohamed ([NOTE-1049](../notes.d/NOTE-1049.md)) locate
 testimonial injustice in a credibility excess assigned to a generative
-model ([THEORY-tmpzqfxe](../theory.d/THEORY-tmpzqfxe.md)). The record is largely written by one, so a
+model ([THEORY-864](../theory.d/THEORY-864.md)). The record is largely written by one, so a
 credibility excess for the filer's framing, and the model's hermeneutical
-gaps, are hazards of its own grammar. Collins ([NOTE-tmpj0rwa](../notes.d/NOTE-tmpj0rwa.md), read in
+gaps, are hazards of its own grammar. Collins ([NOTE-1042](../notes.d/NOTE-1042.md), read in
 translation) gives part 1 a positive counterpart: an outsider within, a
 contributor whose moves fit the grammar only partly, may be the one placed
-to see what it omits ([THEORY-tmp3d6fm](../theory.d/THEORY-tmp3d6fm.md)). Neither is evidence about this
+to see what it omits ([THEORY-834](../theory.d/THEORY-834.md)). Neither is evidence about this
 record, and the question stays Open.

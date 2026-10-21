@@ -52,10 +52,10 @@ summary: >-
   The sharp edge: it does not say which target is right, and it denies
   that the description can settle it.
 supports:
-- CLAIM-tmpcrdhj
-- CLAIM-tmpjo2zr
+- CLAIM-401
+- CLAIM-404
 ---
-<!-- inactive-ok-file: LIT-tmpmdlm4 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
+<!-- inactive-ok-file: LIT-1328 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on it -->
 
 # CLAIM-348: No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified by the description that preserves it
 
@@ -129,7 +129,7 @@ make its perspective normatively authoritative. That is this claim with
 [CLAIM-075](CLAIM-075.md). The same step closes A8–A9's ladder ([QUESTION-093](../questions.d/QUESTION-093.md), note of
 2026-10-21).
 
-**Who pays for legibility.** A25 §3, from Lan (2026, [LIT-tmpmdlm4](../literature.d/LIT-tmpmdlm4.md), not
+**Who pays for legibility.** A25 §3, from Lan (2026, [LIT-1328](../literature.d/LIT-1328.md), not
 read; Unavailable when sought on 2026-10-21): "**The party benefiting from increased legibility need not be the
 party paying to become legible.**" A standardized category "might make a
 person's circumstances easier for a public agency to process while
@@ -140,11 +140,11 @@ adequately represented by one legibility score." A24 §5's standpoint
 question, "*Who participates in determining 𝒬*", is this claim's second
 clause: the target cannot be justified by the description that preserves
 it. Neither reply cited the claim. The term the exchange used is filed as
-[TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).
+[TERM-064](../terms.d/TERM-064.md).
 
-Espeland and Sauder, read the same day ([NOTE-tmpxq56d](../notes.d/NOTE-tmpxq56d.md)), give an instance of
+Espeland and Sauder, read the same day ([NOTE-1050](../notes.d/NOTE-1050.md)), give an instance of
 the merge: the "access university" and the University of New Mexico's
 Native American graduates are what a ranking adequate for applicants and
 firms runs together, and the schools pay to be made legible to it. James et
-al. ([NOTE-tmpgi1zu](../notes.d/NOTE-tmpgi1zu.md)) state the same point in administrative terms, as
+al. ([NOTE-1041](../notes.d/NOTE-1041.md)) state the same point in administrative terms, as
 "horizontal neutrality".

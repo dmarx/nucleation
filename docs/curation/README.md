@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [21 Oct 02:35 — Thirty-three works registered unread from the exchange on governance, capture and legibility](2026-10.md#thirty-three-works-registered-unread-from-the-exchange-on-governance-capture-and-legibility)
 - [21 Oct 02:26 — An audit of the Open QUESTIONs finds none answered as posed and sixteen that split](2026-10.md#an-audit-of-the-open-questions-finds-none-answered-as-posed-and-sixteen-that-split)
 - [21 Oct 02:23 — Berniūnas & Dranseika's reply to Nichols & Bruno, filed Unavailable](2026-10.md#berniūnas--dranseikas-reply-to-nichols--bruno-filed-unavailable)
 - [20 Oct 07:23 — Three entries from the property-and-expression readings: two cases and an objection to CLAIM-174](2026-10.md#three-entries-from-the-property-and-expression-readings-two-cases-and-an-objection-to-claim-174)
@@ -118,9 +119,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-156 entries across 2 books, newest first.
+157 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 109 | 2026-10-01 | 2026-10-21 |
+| [2026-10](2026-10.md) | 110 | 2026-10-01 | 2026-10-21 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

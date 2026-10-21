@@ -41,7 +41,7 @@ summary: >-
   misstates the court in United States v. Google and the legal form of the
   EU Digital Markets Act.
 supports:
-- CLAIM-tmpyxupb
+- CLAIM-410
 ---
 
 # THEORY-470: Platform decay of the enshittification kind is caused not by a change in the character of those who run platforms but by the weakening of four constraints that used to discipline them, competition, regulation, interoperability and the bargaining power of tech workers, so it is reversible if those constraints are durably restored
@@ -121,6 +121,6 @@ A19's "release of existing asymmetry" in the exchange of 2026-10-20, and
 A20's first configuration ("A regulator constrains concentration of
 private authority | Removing that constraint may permit stronger private
 power asymmetries"), are this reading's mechanism, stated generally.
-Neither reply cited it. [CLAIM-tmpptl3y](../claims.d/CLAIM-tmpptl3y.md)'s table of A19's four mechanisms
+Neither reply cited it. [CLAIM-408](../claims.d/CLAIM-408.md)'s table of A19's four mechanisms
 names this reading for the third and demonstrates only the first. The
 reading is Proposed and rests on a talk.

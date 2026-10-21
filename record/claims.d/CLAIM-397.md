@@ -43,7 +43,7 @@ summary: >-
   conversely": the memory is a functional of the coarse variable's own law,
   so it cannot register dependence on the rest of the system.
 supports:
-- CLAIM-tmpcrdhj
+- CLAIM-401
 ---
 <!-- inactive-ok-file: NOTE-1029 — new reading, cited as where the result was derived -->
 
@@ -110,5 +110,5 @@ independence is not. Dependence can still be found from the joint law of
 the whole system, and nothing here is about interventions.
 
 The pair was proposed as a claim of its own and not filed; it is recorded
-here and on [CLAIM-389](CLAIM-389.md). [QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md)'s leave-one-out uses it as the
+here and on [CLAIM-389](CLAIM-389.md). [QUESTION-252](../questions.d/QUESTION-252.md)'s leave-one-out uses it as the
 witness for memory without independence.

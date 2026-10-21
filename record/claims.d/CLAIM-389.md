@@ -121,5 +121,5 @@ checked on 2026-10-21 in the simplest case. An autonomous AR(2),
 Y_t = 0.5Y_{t−1} + 0.3Y_{t−2} + ε, has Mori memory c₁ = 0.147 and
 c₂ = −0.0315, non-zero, with autocovariance Hankel rank 2 and memory rank
 1, as [CLAIM-397](CLAIM-397.md) predicts. So A4's "impossible" cell (independent with
-memory) is impossible only in VAR(1). [QUESTION-tmp1nqby](../questions.d/QUESTION-tmp1nqby.md) carries both
+memory) is impossible only in VAR(1). [QUESTION-252](../questions.d/QUESTION-252.md) carries both
 witnesses.

@@ -13,7 +13,7 @@ history:
     description, agency and legibility: A27 offered equivalence under a
     declared probe family as an answer to two-thirds of this question; it is
     CLAIM-142 with CLAIM-135's split, which this question already says is
-    QUESTION-002 again (TERM-tmple6rq). The question is unchanged.
+    QUESTION-002 again (TERM-069). The question is unchanged.
 tags:
 - philosophy-of-language
 - individuation
@@ -115,7 +115,7 @@ A27 of the exchange of 2026-10-20 offered equivalence under a declared
 family of probes and interventions, u ∼_{𝒬,ℐ} v when every response
 kernel agrees, as "a substantial answer to two-thirds" of this question,
 leaving constitution open. The relation is a correct equivalence, asked
-for as a term at A13 and A14 and filed as [TERM-tmple6rq](../terms.d/TERM-tmple6rq.md). It is [CLAIM-142](../claims.d/CLAIM-142.md), with [CLAIM-135](../claims.d/CLAIM-135.md)'s
+for as a term at A13 and A14 and filed as [TERM-069](../terms.d/TERM-069.md). It is [CLAIM-142](../claims.d/CLAIM-142.md), with [CLAIM-135](../claims.d/CLAIM-135.md)'s
 split between identification and constitution and [CLAIM-150](../claims.d/CLAIM-150.md)'s guard.
 A27's "modest impossibility result" (models that agree on every probe
 cannot be told apart on an unperformed intervention) is [QUESTION-027](QUESTION-027.md)'s

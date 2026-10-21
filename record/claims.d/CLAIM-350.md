@@ -40,7 +40,7 @@ summary: >-
   causal versions are recorded in the body, not claimed.
 supports:
 - CLAIM-348
-- CLAIM-tmppi0xf
+- CLAIM-407
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
@@ -139,8 +139,8 @@ into J's level sets" gives the partition form.
 
 The same exchange gave this claim's "What it does not say" (Construction
 B, [CLAIM-127](CLAIM-127.md)) its first parameterized form: a closed coarse-graining that
-loses an intervention response, filed as [CLAIM-tmppi0xf](CLAIM-tmppi0xf.md) with
-[CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md). The note of 2026-10-21 on [CLAIM-397](CLAIM-397.md) uses this claim's
+loses an intervention response, filed as [CLAIM-407](CLAIM-407.md) with
+[CASE-125](../cases.d/CASE-125.md). The note of 2026-10-21 on [CLAIM-397](CLAIM-397.md) uses this claim's
 condition to widen a non-identifiability result to every functional of a
 law.
 
@@ -149,8 +149,8 @@ bullet defines intervention-consistent coarse-graining "for a declared
 family of interventions"; Rubenstein et al.'s exact transformation is that
 notion as a theorem-bearing definition, and its column condition for
 averaging linear variables is [THEORY-755](../theory.d/THEORY-755.md)'s column-equitability
-([THEORY-tmpj5zq1](../theory.d/THEORY-tmpj5zq1.md)). It is distributional, a match of push-forward laws, not
+([THEORY-847](../theory.d/THEORY-847.md)). It is distributional, a match of push-forward laws, not
 the fibre-wise factorization this claim proves, and the hidden governance
-bit separates them ([THEORY-tmpjfhcb](../theory.d/THEORY-tmpjfhcb.md), [CLAIM-tmp4r4mi](CLAIM-tmp4r4mi.md)). Beckers and
+bit separates them ([THEORY-848](../theory.d/THEORY-848.md), [CLAIM-399](CLAIM-399.md)). Beckers and
 Halpern's compatibility condition is this claim's shape one level up, on
-contexts ([THEORY-tmpjtnjd](../theory.d/THEORY-tmpjtnjd.md)).
+contexts ([THEORY-849](../theory.d/THEORY-849.md)).

@@ -47,7 +47,7 @@ summary: >-
   concepts is an injustice: on the précis's terms the gap must be owed to
   the relative powerlessness of a social group the subject belongs to.
 supports:
-- CLAIM-tmpoxld9
+- CLAIM-406
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; read only through the author's précis, filed with that skim on 2026-10-14 -->
 <!-- inactive-ok-file: NOTE-832 — Skimmed; the reading of the précis this account rests on -->

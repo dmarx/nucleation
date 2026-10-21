@@ -6,13 +6,13 @@
 
 **Linguistics** — the study of language itself — morphology, lexicalism, word segmentation, syntax and semantics as linguists pose them, not as models encode them.
 
-9 of 61 TERM documents. Back to the [full index](../README.md).
+9 of 71 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-001](../../../record/terms.d/TERM-001.md) | fidelity, as the number of preserved constraints | A4, reading Hofstadter: fidelity as preservation along several dimensions (semantic, formal, rhyme, tone, pragmatic), traded off on a Pareto frontier. Undercut in the same reply by the mother's translation. | Superseded — by [TERM-013](../../../record/terms.d/TERM-013.md) |
 | [TERM-005](../../../record/terms.d/TERM-005.md) | frame, as an interpretive lens on the original | A11: the frame through which the original is reconstructed, deciding "what kind of thing the original fundamentally is". A silent narrowing of the owner's sense, corrected at U7. | Superseded — by [TERM-035](../../../record/terms.d/TERM-035.md) |
-| [TERM-009](../../../record/terms.d/TERM-009.md) | levels, as levels at which observables exist | The owner at U28: the levels (linguistic, conceptual, pragmatic, interactional, dynamical) organize observables, not objects, and may form a partial order. Manuscript §2: "These observations are not ordered into one strict ontological ladder." | Active |
+| [TERM-009](../../../record/terms.d/TERM-009.md) v2 | levels, as levels at which observables exist | The owner at U28: the levels (linguistic, conceptual, pragmatic, interactional, dynamical) organize observables, not objects, and may form a partial order. Manuscript §2: "These observations are not ordered into one strict ontological ladder." | Active |
 | [TERM-013](../../../record/terms.d/TERM-013.md) | fidelity, as matching pragmatic signatures | A18: a rendering is faithful when its pragmatic signature in the target frame matches the source's in its own frame, I_g(u_g) ≈ I_f(u_f). Replaced at A24 by distribution matching over contexts. | Superseded — by [TERM-021](../../../record/terms.d/TERM-021.md) |
 | [TERM-016](../../../record/terms.d/TERM-016.md) | frame, as a pragmatic frame of reference | A18: an "interpretive and expressive coordinate system" within which a communicative act is realized, operationalised as f = (S, A, K, N, G) and made of public conventions. Built for the relativity analogy, and given up twice: at A24 for a measurement context, at A30 for an operator. | Superseded — by [TERM-031](../../../record/terms.d/TERM-031.md), [TERM-026](../../../record/terms.d/TERM-026.md) |
 | [TERM-018](../../../record/terms.d/TERM-018.md) | framing intervention | A39 §3.2: an action that changes the conditions under which an utterance is interpreted. Telling a reader who the speaker is and asking the reader to take the utterance a certain way are different interventions. Splits the A30 operator sense of frame. | Active |

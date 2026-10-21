@@ -6,6 +6,11 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [21 Oct 19:32 — Session of 2026-10-21: the owner's second review of nucleation#305, and the adoption of eight TERMs](2026-10.md#session-of-2026-10-21-the-owners-second-review-of-nucleation305-and-the-adoption-of-eight-terms)
+- [21 Oct 18:08 — Session of 2026-10-21: the owner's review of this filing (nucleation#305)](2026-10.md#session-of-2026-10-21-the-owners-review-of-this-filing-nucleation305)
+- [21 Oct 02:56 — Session of 2026-10-21, 00:03–01:45 (U18–U27): deregulation, reflexive control and capture, media, legibility, the synthesis, feminist philosophy, literature and the open questions](2026-10.md#session-of-2026-10-21-00030145-u18u27-deregulation-reflexive-control-and-capture-media-legibility-the-synthesis-feminist-philosophy-literature-and-the-open-questions)
+- [21 Oct 02:56 — Session of 2026-10-20, 19:49–23:56 (U10–U17): re-check, the TERM batches, will, volition and endorsement, and the manuscript outline](2026-10.md#session-of-2026-10-20-19492356-u10u17-re-check-the-term-batches-will-volition-and-endorsement-and-the-manuscript-outline)
+- [21 Oct 02:56 — Session of 2026-10-20, 17:44–19:39 (U1–U9): effective description, the owner's ablation, agency and individuation](2026-10.md#session-of-2026-10-20-17441939-u1u9-effective-description-the-owners-ablation-agency-and-individuation)
 - [19 Oct 22:53 — Session of 2026-10-19, 18:10–22:28 (U1–U5): coarse-to-fine processes, the physics of model reduction, and which entries it bears on](2026-10.md#session-of-2026-10-19-18102228-u1u5-coarse-to-fine-processes-the-physics-of-model-reduction-and-which-entries-it-bears-on)
 - [18 Oct 19:54 — Ecological coexistence and feature learning brought to the distributed-agency line: one demonstrated bridge, four questions, two constructions and a proposed study](2026-10.md#ecological-coexistence-and-feature-learning-brought-to-the-distributed-agency-line-one-demonstrated-bridge-four-questions-two-constructions-and-a-proposed-study)
 - [18 Oct 01:56 — Position note: governance that makes its own intervention less necessary, the synthesis the 2026-10-17 exchange arrived at](2026-10.md#position-note-governance-that-makes-its-own-intervention-less-necessary-the-synthesis-the-2026-10-17-exchange-arrived-at)
@@ -73,8 +78,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-64 entries across 1 book, newest first.
+69 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 64 | 2026-10-07 | 2026-10-19 |
+| [2026-10](2026-10.md) | 69 | 2026-10-07 | 2026-10-21 |

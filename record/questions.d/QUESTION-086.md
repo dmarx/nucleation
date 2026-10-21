@@ -11,7 +11,7 @@ history:
   note: >-
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A16's hidden governance bit
-    (CASE-tmpdc0tl) meets the condition A7 set on 2026-10-17 but says
+    (CASE-125) meets the condition A7 set on 2026-10-17 but says
     nothing about self- against externally maintained constraints. The
     question is unchanged.
 tags:
@@ -125,7 +125,7 @@ maintains b, and says so.
 ## Note of 2026-10-21: a sixth appearance, and why it is not an answer
 
 A sixth appearance, uncited. A16's hidden governance bit in the exchange
-of 2026-10-20 ([CASE-tmpdc0tl](../cases.d/CASE-tmpdc0tl.md)) meets the condition A7 set itself on
+of 2026-10-20 ([CASE-125](../cases.d/CASE-125.md)) meets the condition A7 set itself on
 2026-10-17, "explicit parameters and a full input-output equivalence
 argument for the selected observational regime", and shows that the
 ordinary regime cannot separate the pair however long it is watched

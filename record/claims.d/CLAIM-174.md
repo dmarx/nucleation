@@ -28,7 +28,7 @@ history:
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A27 found a gap between conditions 3
     and 4 that test 3 already covers; its real point is that the
-    governance-response profile (TERM-tmpf5k7x) cannot stand in for test 3,
+    governance-response profile (TERM-067) cannot stand in for test 3,
     and where authority is fixed from outside this claim's answer is the
     jurisdiction (TERM-047). The claim is unchanged.
 role: thesis
@@ -190,12 +190,12 @@ conditions 3 and 4" and proposed to separate behavioural adaptation from
 governance adaptation. Test 3 already covers both ("the factor's policy,
 or what governs its regimes, would change"), and A27's thermostat repair
 is this claim's own case with its designers. A27's real point concerns
-the exchange's governance-response profile ([TERM-tmpf5k7x](../terms.d/TERM-tmpf5k7x.md)), not this
+the exchange's governance-response profile ([TERM-067](../terms.d/TERM-067.md)), not this
 test. A description that preserves how a system would respond "if its
 governance mechanism were externally altered" does not show "that the
 system can alter the mechanism itself" ("An ordinary machine can respond
 dramatically to a technician rewiring it"). Test 3 is a test of the
-second, and the profile cannot stand in for it; [CLAIM-tmppi0xf](CLAIM-tmppi0xf.md) says the
+second, and the profile cannot stand in for it; [CLAIM-407](CLAIM-407.md) says the
 same in its "What it does not say". Where a system's authority
 allocation is fixed from outside, this claim's answer is the jurisdiction
 ([TERM-047](../terms.d/TERM-047.md)): the governor lies inside the willed agent's boundary, and the

@@ -47,7 +47,7 @@ summary: >-
   Section 6.2, from the emergency variant of Northstar.
 ---
 <!-- ref::uses-file: TERM-020 — stated in "protective lock-in"; the body applies the term without naming it -->
-<!-- inactive-ok-file: LIT-tmp22xqb LIT-tmpnfswr — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
+<!-- inactive-ok-file: LIT-1311 LIT-1329 — Unavailable; cited in the note of 2026-10-21, sought the same day and not reached, nothing here rests on them -->
 <!-- inactive-ok-file: THEORY-145 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-025: An operative regime, the governing organization among regimes, and the capacity to transform that organization can persist or fail separately
@@ -100,8 +100,8 @@ regimes". The new nuance is A27's epistemic form of the third tier:
 changing "how evidence and evaluations influence those governance
 decisions".
 
-**Organized ignorance.** A24 §4, from Pohlhaus ([LIT-tmp22xqb](../literature.d/LIT-tmp22xqb.md)) and Dotson
-([LIT-tmpnfswr](../literature.d/LIT-tmpnfswr.md)), both registered and, when sought on 2026-10-21, Unavailable: "An institution can be very good
+**Organized ignorance.** A24 §4, from Pohlhaus ([LIT-1311](../literature.d/LIT-1311.md)) and Dotson
+([LIT-1329](../literature.d/LIT-1329.md)), both registered and, when sought on 2026-10-21, Unavailable: "An institution can be very good
 at producing and evaluating knowledge *within its accepted categories*
 while remaining poor at recognizing the inadequacy of those categories
 ... **the mechanisms determining what it learns are themselves insulated

@@ -23,7 +23,7 @@ history:
   date: '2026-10-21'
   note: >-
     Note of 2026-10-21 added, from the reading of Rubenstein et al.
-    (NOTE-tmp6b7dr): the same column condition is their criterion for
+    (NOTE-1037): the same column condition is their criterion for
     averaging linear variables to be an exact causal transformation. The
     account is unchanged.
 tags:
@@ -136,11 +136,11 @@ single fixed state. For all states, it reduces to column sums alone.
 
 ## Note of 2026-10-21: the same condition as a causal criterion
 
-Rubenstein et al. ([LIT-tmptzsyg](../literature.d/LIT-tmptzsyg.md)), read in full on 2026-10-21
-([NOTE-tmp6b7dr](../notes.d/NOTE-tmp6b7dr.md)): averaging blocks of linear micro-variables is an exact
+Rubenstein et al. ([LIT-1334](../literature.d/LIT-1334.md)), read in full on 2026-10-21
+([NOTE-1037](../notes.d/NOTE-1037.md)): averaging blocks of linear micro-variables is an exact
 transformation of structural equation models exactly when the blocks'
 column sums are equal, which is this account's column-equitability for
-the block that feeds the averaged one ([THEORY-tmpj5zq1](THEORY-tmpj5zq1.md)). There it holds
+the block that feeds the averaged one ([THEORY-847](THEORY-847.md)). There it holds
 only for interventions on whole blocks. So one condition makes block sums
 jointly closed under the dynamics here and makes their averages a causal
 model there. The account is unchanged.

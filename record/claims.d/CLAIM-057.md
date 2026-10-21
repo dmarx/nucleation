@@ -26,7 +26,7 @@ summary: >-
   formally absolute rule can be weak because another process controls
   entry into its domain.
 supports:
-- CLAIM-tmpyxupb
+- CLAIM-410
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body names the term only inside quotations of its source, which are not altered (ADR-038) -->
 

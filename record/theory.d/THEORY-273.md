@@ -32,7 +32,7 @@ summary: >-
   argument. It does not say what does suffice, and it does not deny that
   usefulness is evidence.
 supports:
-- CLAIM-tmpeftzb
+- CLAIM-402
 ---
 <!-- inactive-ok-file: THEORY-036 THEORY-057 — Proposed; cited as parallel accounts, not as settled -->
 

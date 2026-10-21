@@ -10,7 +10,7 @@ history:
   date: '2026-10-21'
   note: >-
     Note of 2026-10-21 added, from the reading of Bergemann and Morris
-    (NOTE-tmp3sq32): THEORY-tmpetatd is this result's many-player
+    (NOTE-1034): THEORY-844 is this result's many-player
     generalization with information of the receivers' own. The account is
     unchanged.
 tags:
@@ -29,7 +29,7 @@ summary: >-
   are innocent. The paper does not analyse manipulation, does not compute
   the receiver's welfare and does not cite Blackwell.
 supports:
-- CLAIM-tmpjo2zr
+- CLAIM-404
 ---
 <!-- inactive-ok-file: THEORY-414 — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, the Blackwell-line claim this result sits beside -->
@@ -144,10 +144,10 @@ equilibrium would be full disclosure.
 
 ## Note of 2026-10-21: the many-player generalization
 
-Bergemann and Morris's survey of information design ([LIT-tmp363mx](../literature.d/LIT-tmp363mx.md)), read
-on 2026-10-21 in its accepted manuscript ([NOTE-tmp3sq32](../notes.d/NOTE-tmp3sq32.md)), generalizes this
+Bergemann and Morris's survey of information design ([LIT-1313](../literature.d/LIT-1313.md)), read
+on 2026-10-21 in its accepted manuscript ([NOTE-1034](../notes.d/NOTE-1034.md)), generalizes this
 result to many receivers with information of their own: an omniscient
 designer can attain exactly the Bayes correlated equilibria, and a
-receiver's own information bounds what can be induced ([THEORY-tmpetatd](THEORY-tmpetatd.md)).
+receiver's own information bounds what can be induced ([THEORY-844](THEORY-844.md)).
 With one uninformed receiver the obedience constraints reduce to this
 account's. The account is unchanged.

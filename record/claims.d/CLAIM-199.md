@@ -11,11 +11,11 @@ history:
   note: >-
     Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
     description, agency and legibility: A22 took this claim's XOR example as
-    the formal core of legibility (TERM-tmp5lqn0) and called the claim an
+    the formal core of legibility (TERM-064) and called the claim an
     Active result, which it is not. Extended the same day from the
-    reading of Xu et al. (NOTE-tmpvnsxo): the usable-information
+    reading of Xu et al. (NOTE-1048): the usable-information
     literature is now held, its V-information is this claim's usable
-    information under log loss, and THEORY-tmpgz4cf (added to grounds)
+    information under log loss, and THEORY-846 (added to grounds)
     re-derives the example and states when the ceiling holds in its
     terms. The claim is unchanged.
 role: thesis
@@ -34,7 +34,7 @@ line: pragmatic-transport
 grounds:
 - THEORY-156
 - THEORY-176
-- THEORY-tmpgz4cf
+- THEORY-846
 complements:
 - CLAIM-050
 - CLAIM-087
@@ -212,13 +212,13 @@ be monotone in informational refinement for bounded observers". It called
 the claim a "result" among "the existing Active mathematical results". The
 claim is Proposed and interpretive, though its example is checkable and
 was rechecked. A second appearance, and a name for what the claim calls
-usable information. The name is filed as [TERM-tmp5lqn0](../terms.d/TERM-tmp5lqn0.md).
+usable information. The name is filed as [TERM-064](../terms.d/TERM-064.md).
 
 **The usable-information literature, read the same day.** Xu, Zhao, Song,
-Stewart and Ermon 2020 ([LIT-tmp07k7g](../literature.d/LIT-tmp07k7g.md), [NOTE-tmpvnsxo](../notes.d/NOTE-tmpvnsxo.md)), registered at the
+Stewart and Ermon 2020 ([LIT-1309](../literature.d/LIT-1309.md), [NOTE-1048](../notes.d/NOTE-1048.md)), registered at the
 owner's request and read in full. This claim's usable information is their
 V-information under log loss: the receiver's rule class is their
-predictive family V. [THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md) re-derives the XOR example for the
+predictive family V. [THEORY-846](../theory.d/THEORY-846.md) re-derives the XOR example for the
 paper's linear-logistic and linear-Gaussian families as well as for this
 claim's one-coordinate receiver: nothing about Z from the pair, all of it
 from the exclusive-or, which is their failure of the data-processing
@@ -226,8 +226,8 @@ inequality. The ceiling holds as stated here, in risk. Stated in
 V-information it needs one condition the paper does not state: the
 family's input-free predictions must be able to match the marginal of the
 target, which this claim's receiver satisfies. Without it V-information
-can exceed Shannon information ([THEORY-tmpgz4cf](../theory.d/THEORY-tmpgz4cf.md)'s counterexample). The
-paper never bounds V-information by Shannon information. [THEORY-tmp9m1g4](../theory.d/THEORY-tmp9m1g4.md)
+can exceed Shannon information ([THEORY-846](../theory.d/THEORY-846.md)'s counterexample). The
+paper never bounds V-information by Shannon information. [THEORY-840](../theory.d/THEORY-840.md)
 adds that, for a family of bounded complexity, the quantity can be
 estimated from samples with a stated error. The status is unchanged: the
 defeat condition is empirical, and the reading bears on the example and the

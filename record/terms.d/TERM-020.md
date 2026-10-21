@@ -21,7 +21,7 @@ summary: >-
   the conditions that justify its own continuation and reduces the
   capacity to leave it (Section 6.1).
 complements:
-- TERM-tmpe6jtq
+- TERM-066
 ---
 
 # TERM-020: protective lock-in
