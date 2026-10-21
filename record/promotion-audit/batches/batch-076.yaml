@@ -1,0 +1,55 @@
+# record/promotion-audit/batches/batch-076.yaml
+batch: batch-076
+date: '2026-10-21'
+kind: evidence-audit
+wave: 3
+record_revision: 159412ab86401a39ae46ff6250da7b565507d421
+selection: >-
+  Triage-007 theorem_route entries 16-20, in the route's order:
+  THEORY-141, -563, -374, -060 and -102, all at margin 2. Each was sorted
+  by hand by what its title asserts (batch 020) before review.
+reviewed: [THEORY-141, THEORY-563, THEORY-374, THEORY-060, THEORY-102]
+outcomes:
+  narrow-and-promote: [THEORY-374, THEORY-102]
+  retain-proposed: [THEORY-141, THEORY-563, THEORY-060]
+yield: >-
+  2 of 5 promoted. THEORY-374 is a genuine theorem: its open-world part
+  is narrowed to conjunctive views with a conjunctive or datalog query,
+  and the inverse-rules and closed-world results are re-derived (ADR-047
+  v2). THEORY-102 is a measurement the classifier called a theorem,
+  narrowed to Vishne et al.'s intracranial study; its general claim is
+  filed as a new Proposed THEORY (ADR-047 v4). THEORY-141, -563 and -060
+  are arguments.
+promotion_prs: []
+band:
+  - {code: THEORY-141, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-563, hand_label: argument, triage007: theorem, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-374, hand_label: theorem, triage007: theorem, agrees: true, outcome: narrow-and-promote}
+  - {code: THEORY-060, hand_label: argument with a cited empirical clause, triage007: theorem, agrees: false, outcome: retain-proposed}
+  - {code: THEORY-102, hand_label: measurement, triage007: theorem, agrees: false, outcome: narrow-and-promote}
+dropped_clause_routes:
+  - {code: THEORY-374, clause: "polynomial in many open-world cases", route: note (kind 3; the survey's hedge, replaced by the re-derived condition)}
+  - {code: THEORY-102, clause: "the general stable-population-code thesis for sustained seen images and percepts", route: new Proposed THEORY (kind 1) inheriting the promote_when}
+notes_for_ledger:
+  - >-
+    Hand against classifier: 1 of 5 agree at margin 2 (THEORY-374). Across
+    batches 060-062 and 076 the theorem label is right on 6 of 20, and on
+    3 of 17 below margin 4. The misses here fired on "only if" (THEORY-141),
+    "on that reading ... can lack an answer when" (THEORY-563) and "is the
+    form ... and its content shapes" (THEORY-060). THEORY-102 is a
+    measurement whose title states a dissociation.
+  - >-
+    A survey-backed complexity result can be promoted on re-derivation when
+    the primary papers are unread: the inverse-rules certain-answer theorem
+    is a canonical-database plus homomorphism argument, and the
+    closed-world hardness a short 3-colourability reduction, both a page.
+    The survey's "many cases" hedge gives way to the exact condition
+    re-derived.
+  - >-
+    When the old promote_when tests the wider claim and not the
+    measurement (THEORY-102's replication and percept-input dissociation),
+    it moves to the v4 carrier unchanged; no QUESTION is needed.
+  - >-
+    THEORY-060's well-being half is a reading task: Adler (2012) read in
+    full could let that half be split off as a measurement.
+owner_questions: []

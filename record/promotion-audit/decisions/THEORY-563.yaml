@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/THEORY-563.yaml
+id: THEORY-563
+batch: batch-076
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+hand_label: argument (an interpretation of Dennett's theory of consciousness)
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing new. Taylor (2024, LIT-461, read in full in NOTE-379)
+    reconstructs Dennett's view as consistent, not as correct, and its
+    key step on metacontrast masking is a plausibility argument.
+  excluded: >-
+    Promotion. The promote_when asks for a masking experiment with the
+    Orwellian and Stalinesque readings modelled and their downstream
+    effects measured, and for a specification of the real pattern
+    precise enough to test. Neither is in the record.
+evidence:
+  - "NOTE-379 (LIT-461, read in full); Consciousness Explained (LIT-443) and From Bacteria to Bach and Back (LIT-424) are held unread."
+blockers:
+  - "The masking experiment the promote_when names."
+  - "A testable statement of which real pattern consciousness is."
+notes: >-
+  Hand label argument; triage-007 fired on the "on that reading ...
+  can lack an answer when" construction. The title reads as the
+  reconstructed thesis, not as a report of Taylor, so the report-title
+  question does not arise.
+unlocks: []
+next_action: >-
+  Retain. Wave 5 only if its promote_when, premises or rivals change.

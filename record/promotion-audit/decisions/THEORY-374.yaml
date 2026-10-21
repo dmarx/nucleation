@@ -1,0 +1,115 @@
+# record/promotion-audit/decisions/THEORY-374.yaml
+id: THEORY-374
+batch: batch-076
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: narrow-and-promote
+confidence: high
+title_asserts: theorem
+hand_label: theorem (three complexity results about answering queries using views)
+triage_007_label: theorem
+hand_agrees_with_triage_007: true
+formal_in_fact: true
+scope:
+  accepted: >-
+    All three parts, with the open-world part narrowed to the case
+    re-derived below. (1) Deciding whether conjunctive views give an
+    equivalent rewriting of a conjunctive query is NP-complete in the size
+    of the query and the definitions: proved in Levy et al. 1995 (LIT-1100),
+    already Active as THEORY-389. (2) The inverse-rules program is built in
+    time linear in the query and the definitions and returns the
+    maximally-contained answers, and nothing in it decides whether those
+    answers are exact. (3) Under the open-world assumption with conjunctive
+    view definitions and a conjunctive (or datalog) query, the certain
+    answers are computable in time polynomial in the stored extensions;
+    under the closed-world assumption they are co-NP-hard in that size even
+    for conjunctive views and a conjunctive query without comparisons.
+  excluded: >-
+    "in many open-world cases" is replaced by the condition re-derived
+    here (conjunctive views, conjunctive or datalog query). The survey's
+    further open-world hardness results (union in the views, the query's
+    inequality) are not in the title and are not re-derived. Upper bounds
+    for the closed-world case (membership in co-NP) are not claimed.
+derivation: >-
+  (1) EXACT REWRITING. THEORY-389 (Active, Levy et al. 1995 read in
+  full): a minimal equivalent rewriting needs no more view literals than
+  the query has atoms, so a candidate is polynomial in size; checking it is
+  one CQ-equivalence test, a pair of homomorphism checks (THEORY-371), so
+  the problem is in NP; THEORY-389's title records the NP-completeness of
+  deciding whether a rewriting using only the views exists, which is
+  "the views answer the query exactly".
+  (2) INVERSE RULES. For each view V(X) :- p1(Z1), ..., pk(Zk) with
+  existential variables Y, write k rules pi(Zi') :- V(X), where Zi'
+  replaces each Y by the Skolem term f_{V,Y}(X). Total size is the total
+  size of the definitions; adding the query's own rule gives a datalog
+  program with function symbols built in linear time. Run on extensions
+  I, the inverse rules produce one database D_I (Skolem terms as fresh
+  values) with |D_I| <= sum over view tuples of the body length.
+  (3a) OPEN WORLD, POLYNOMIAL. Claim: the certain answers of Q on I under
+  the open world are exactly the Skolem-free tuples of Q(D_I).
+  Soundness: let D be any database with V(D) superset of I for every view.
+  For each tuple t in a view extension, D contains an instance of the
+  view's body agreeing with t on the head; map each Skolem value
+  f_{V,Y}(t) to the witness for Y in that instance (constants to
+  themselves). This is a homomorphism h: D_I -> D. CQs and datalog
+  queries are preserved under homomorphisms, so a Skolem-free tuple in
+  Q(D_I) is in Q(D) (h fixes it). Completeness: D_I is itself a database
+  consistent with I (each view tuple is produced by the body facts the
+  inverse rules generated for it), so a certain answer must be in
+  Q(D_I), and a certain answer contains only constants. Hence the
+  certain answers equal the constant tuples of Q(D_I). D_I has size
+  polynomial in I, and a fixed CQ or datalog query is evaluated in
+  polynomial time, so the certain answers are polynomial in data
+  complexity. They are also the largest set any rewriting can return
+  soundly, so the program is maximally contained in every language; it
+  says nothing about whether this equals Q, which is exactly the
+  NP-complete question of (1).
+  (3b) CLOSED WORLD, co-NP-HARD. Reduction from 3-colourability with
+  views and query fixed (data complexity). Views V1(X) :- color(X,Y),
+  V2(Y) :- color(X,Y), V3(X,Y) :- edge(X,Y); Boolean query
+  Q() :- edge(X,Y), color(X,Z), color(Y,Z). Given a graph G, add a
+  disjoint triangle (this keeps 3-colourability and forces all three
+  colours into every proper colouring), and set I: V1 = the nodes,
+  V2 = {r, g, b}, V3 = the edges. Under the closed world a consistent D
+  has edge = E exactly, every node at least one colour, and the colours
+  used exactly {r, g, b}. Q is false on D iff no edge joins two nodes
+  sharing a colour. Choosing one colour per node only removes witnesses,
+  so a consistent D falsifying Q exists iff G plus the triangle is
+  properly 3-colourable, iff G is. So Q is certain iff G is not
+  3-colourable, and certainty is co-NP-hard in the size of the
+  extensions, with conjunctive views and query and no comparisons.
+numerical_check: >-
+  Script (scratch, not committed): for 300 random graphs on 1-3 nodes
+  (edge probability 0.6; 30% with a self-loop, never colourable), plus a
+  disjoint triangle, enumerate every colour relation on N x {r,g,b} with
+  every node coloured and all three colours used, decide whether each has
+  a monochromatic edge, and compare "Q certain" with "G not
+  3-colourable" by brute force. They agree on all 300.
+evidence:
+  - "NOTE-921 (Halevy 2001, LIT-1116, read in full): the statements and their conditions."
+  - "LIT-1100 / THEORY-389 (Levy et al. 1995, Active): the exact-rewriting part."
+  - "THEORY-371 (Active): CQ equivalence by homomorphisms."
+promote_when_met: >-
+  The promote_when asks for the primary proofs (Abiteboul and Duschka
+  1998; Duschka, Genesereth and Levy 2000) confirming each statement with
+  its conditions. ADR-047 v2: a checked step-by-step re-derivation in the
+  decision file meets a request for a proof the record does not hold.
+  (2), (3a) and (3b) are re-derived above with their conditions (query
+  and view language, world assumption, data complexity); (1) is already
+  proved in the record. The promote_when's own clause, that a narrower
+  condition revises the title rather than refutes it, is what the
+  open-world narrowing does.
+dropped_clauses:
+  - text: "polynomial in their size in many open-world cases"
+    route: note
+    why: >-
+      Kind 3. "Many" is the survey's hedge, not a condition. It is replaced
+      by the re-derived condition. The survey's open-world hardness
+      results (union views, the query's inequality) are separate results
+      the title never stated; they stay in the body as the survey reports
+      them.
+blockers: []
+next_action: >-
+  Promote (narrowed open-world clause) in a promotion PR; the dated note
+  cites this re-derivation.
