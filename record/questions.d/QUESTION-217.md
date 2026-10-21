@@ -3,8 +3,19 @@ number: 217
 status: Open
 formerly:
 - QUESTION-tmp8qovh
-title: 'When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?'
-version: 1
+title: 'When a learning system is said to go from coarse to fine, and its levels are not the learning operator''s own spectral subspaces, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?'
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Split under ADR-049. The commuting case, where the levels are the
+    spectral subspaces of a symmetric learning operator and acquisition is
+    its own evolution, is QUESTION-tmpc2db5, Answered by THEORY-745,
+    THEORY-758 and THEORY-774. This question is reworded to what is left:
+    levels given independently of the operator. Version 1's title lacked
+    "and its levels are not the learning operator's own spectral
+    subspaces".
 tags:
 - learning-theory
 - representation-learning
@@ -19,23 +30,22 @@ summary: >-
   level arrives at once ([THEORY-195](../theory.d/THEORY-195.md)). No entry separates refinement,
   relevance and acquisition as three relations and asks when they agree.
   An answer is a theorem giving sufficient conditions for a common chain,
-  or a minimal family of counterexamples.
+  or a minimal family of counterexamples. The commuting case, where the
+  levels are the operator's own spectral subspaces, is QUESTION-tmpc2db5,
+  Answered. The general case is open.
 refined_by:
 - QUESTION-220
+- QUESTION-tmpc2db5
 answered_by:
-- THEORY-745
 - THEORY-746
-- THEORY-758
 - THEORY-759
-- THEORY-774
 - THEORY-775
 - CLAIM-394
 ---
-<!-- inactive-ok-file: CLAIM-394 THEORY-775 — new entries of this batch, cited as partial answers -->
 <!-- inactive-ok-file: THEORY-777 — Proposed; the Ising numerics, cited as open -->
 <!-- inactive-ok-file: THEORY-759 — Proposed; the spectral-bias order of acquisition, cited as open -->
 <!-- inactive-ok-file: THEORY-186 THEORY-199 THEORY-481 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
-# QUESTION-217: When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
+# QUESTION-217: When a learning system is said to go from coarse to fine, and its levels are not the learning operator's own spectral subspaces, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?
 
 ## Why it is a question
 
@@ -156,3 +166,13 @@ spectral bias ([LIT-1261](../literature.d/LIT-1261.md)), slow feature analysis (
 diffusion maps ([LIT-1246](../literature.d/LIT-1246.md)) and diffusion wavelets ([LIT-1256](../literature.d/LIT-1256.md)), and the
 information geometry of coarse-graining ([LIT-1254](../literature.d/LIT-1254.md)). Whether optimal
 representations nest at all is [QUESTION-220](QUESTION-220.md).
+
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The commuting case is [QUESTION-tmpc2db5](QUESTION-tmpc2db5.md),
+Answered. When the levels are the spectral subspaces of a symmetric
+learning operator and acquisition is its own evolution, refinement and
+acquisition share the chain of its eigenvalues: [THEORY-745](../theory.d/THEORY-745.md), [THEORY-758](../theory.d/THEORY-758.md) and
+[THEORY-774](../theory.d/THEORY-774.md). This question keeps the case that answer leaves: levels given
+independently of the operator, Conjecture A with nonzero commutators, and
+relevance to a task. [THEORY-746](../theory.d/THEORY-746.md), [THEORY-775](../theory.d/THEORY-775.md) and [CLAIM-394](../claims.d/CLAIM-394.md) keep their links
+here. They order levels by slowness and say nothing on acquisition.
+[THEORY-759](../theory.d/THEORY-759.md) keeps its link too, and is Proposed.
