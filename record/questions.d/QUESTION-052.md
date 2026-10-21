@@ -11,7 +11,7 @@ history:
   note: >-
     Split under ADR-049. For linear decisions at the population level,
     whether the top eigenspace is a stable, decision-sufficient span, and
-    what span takes that role for directed pairs, is QUESTION-tmp5o5m0,
+    what span takes that role for directed pairs, is QUESTION-245,
     Answered by THEORY-007, THEORY-228, THEORY-239 and THEORY-319. This
     question is reworded to what is left: nonlinear decisions, and what
     makes one span the signature when others tie. Version 1's title was
@@ -40,14 +40,14 @@ summary: >-
   for a place in the argument. It bears on [QUESTION-027](QUESTION-027.md), [CLAIM-098](../claims.d/CLAIM-098.md), CLAIM-193,
   [CLAIM-164](../claims.d/CLAIM-164.md) and [CLAIM-043](../claims.d/CLAIM-043.md). For linear decisions at the population level
   it is answered, for symmetric and directed pairs, and that part is
-  QUESTION-tmp5o5m0. Open here: nonlinear decisions, and what makes one
+  QUESTION-245. Open here: nonlinear decisions, and what makes one
   span the signature when other spans tie. The body gives each reading's
   limit.
 refined_by:
 - QUESTION-141
 - QUESTION-182
 - QUESTION-183
-- QUESTION-tmp5o5m0
+- QUESTION-245
 ---
 <!-- inactive-ok-file: CLAIM-193 CLAIM-209 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
@@ -91,7 +91,7 @@ with transport; whether that removes this question's second half or moves
 it to decisions about transported targets is not settled here.
 
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** For linear decisions at the population
-level the question is answered, and that part is [QUESTION-tmp5o5m0](QUESTION-tmp5o5m0.md). For
+level the question is answered, and that part is [QUESTION-245](QUESTION-245.md). For
 symmetric pairs the top eigenspace is a stable, minimax-optimal span
 ([THEORY-007](../theory.d/THEORY-007.md), [THEORY-228](../theory.d/THEORY-228.md)). For directed pairs, on two spaces or on one,
 the top left singular span takes that role ([THEORY-239](../theory.d/THEORY-239.md)), and the full

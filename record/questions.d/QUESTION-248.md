@@ -1,5 +1,8 @@
 ---
+number: 248
 status: Answered
+formerly:
+- QUESTION-tmphwjsk
 title: 'In a stable linear Gaussian VAR(1), does a scalar linear coarse variable whose reduced dynamics carry memory admit an exact finite-dimensional Markovian augmentation?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ answered_by:
 - CLAIM-398
 ---
 
-# QUESTION-tmphwjsk: In a stable linear Gaussian VAR(1), does a scalar linear coarse variable whose reduced dynamics carry memory admit an exact finite-dimensional Markovian augmentation?
+# QUESTION-248: In a stable linear Gaussian VAR(1), does a scalar linear coarse variable whose reduced dynamics carry memory admit an exact finite-dimensional Markovian augmentation?
 
 ## Answer
 

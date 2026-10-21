@@ -30,7 +30,7 @@ date: '2026-10-16'
 source:
 - LIT-1160
 answers:
-- QUESTION-tmpqzznf
+- QUESTION-251
 summary: >-
   Donoho and Tanner (2009), [LIT-1160](../literature.d/LIT-1160.md), read in [NOTE-933](../notes.d/NOTE-933.md) from arXiv
   0906.2530v1. The Gaussian transition is a theorem of the authors' earlier

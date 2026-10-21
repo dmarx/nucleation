@@ -1,5 +1,8 @@
 ---
+number: 249
 status: Answered
+formerly:
+- QUESTION-tmpn9k0p
 title: 'If a map of a representation X of finite support keeps no information about a categorical concept A, how much information about X can it keep, and when does it keep that much?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ answered_by:
 ---
 <!-- inactive-ok-file: THEORY-199 — Proposed; named as the partial answer that stays with the parent, not leaned on -->
 
-# QUESTION-tmpn9k0p: If a map of a representation X of finite support keeps no information about a categorical concept A, how much information about X can it keep, and when does it keep that much?
+# QUESTION-249: If a map of a representation X of finite support keeps no information about a categorical concept A, how much information about X can it keep, and when does it keep that much?
 
 ## Answer
 

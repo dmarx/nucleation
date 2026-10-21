@@ -1,5 +1,8 @@
 ---
+number: 242
 status: Answered
+formerly:
+- QUESTION-tmp2dkgx
 title: 'Does exact dynamical closure of an aggregate require a nearly decomposable block, or can a collective variable be exactly dynamically independent when no partition of the units is weakly coupled?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ answered_by:
 - CLAIM-388
 ---
 
-# QUESTION-tmp2dkgx: Does exact dynamical closure of an aggregate require a nearly decomposable block, or can a collective variable be exactly dynamically independent when no partition of the units is weakly coupled?
+# QUESTION-242: Does exact dynamical closure of an aggregate require a nearly decomposable block, or can a collective variable be exactly dynamically independent when no partition of the units is weakly coupled?
 
 ## Answer
 

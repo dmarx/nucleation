@@ -10,7 +10,7 @@ history:
   date: '2026-10-21'
   note: >-
     Split under ADR-049. The scalar linear Gaussian VAR(1) case is
-    QUESTION-tmphwjsk, Answered by CLAIM-398. The title gains "Beyond the
+    QUESTION-248, Answered by CLAIM-398. The title gains "Beyond the
     scalar linear Gaussian case" and asks for error bounded in terms of
     the eliminated dynamics.
 tags:
@@ -37,7 +37,7 @@ answered_by:
 - THEORY-819
 - CLAIM-397
 refined_by:
-- QUESTION-tmphwjsk
+- QUESTION-248
 ---
 <!-- inactive-ok-file: NOTE-1029 — new reading, cited as where CLAIM-397 was derived -->
 <!-- inactive-ok-file: THEORY-818 — Proposed; the Lorenz 96 finding, cited as partial -->
@@ -154,7 +154,7 @@ theoretical extension, not a result already established for social or
 cognitive systems."
 
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The scalar linear Gaussian VAR(1) case
-is [QUESTION-tmphwjsk](QUESTION-tmphwjsk.md), Answered by [CLAIM-398](../claims.d/CLAIM-398.md): an exact finite
+is [QUESTION-248](QUESTION-248.md), Answered by [CLAIM-398](../claims.d/CLAIM-398.md): an exact finite
 augmentation from Y's own history. This question keeps nonlinear and
 noisy classes, vector coarse variables, error in terms of the eliminated
 spectrum, and the ruling on levels.

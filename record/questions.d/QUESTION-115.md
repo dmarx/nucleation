@@ -15,7 +15,7 @@ history:
   note: >-
     Split under ADR-049. Whether retention tracks causal propagation,
     whether Ψ and dynamical independence agree, and whether either detects
-    interaction or prices size, is QUESTION-tmp3dajs, Answered by
+    interaction or prices size, is QUESTION-243, Answered by
     THEORY-424 and THEORY-764. This question is reworded to what is left:
     the joint search, and where the criteria part on one system. Version
     2's title was 'Can a collective''s boundary, its temporal resolution
@@ -40,11 +40,11 @@ summary: >-
   criteria rather than one score. The record already holds the
   interventional critique of those measures ([LIT-005](../literature.d/LIT-005.md)), which the exchange
   did not cite. What retention, Ψ and dynamical independence track is
-  QUESTION-tmp3dajs, Answered. An answer here recovers known boundaries
+  QUESTION-243, Answered. An answer here recovers known boundaries
   and timescales in controlled models and reports where the criteria
   part.
 refined_by:
-- QUESTION-tmp3dajs
+- QUESTION-243
 ---
 
 <!-- inactive-ok-file: CLAIM-331 LIT-1137 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -148,7 +148,7 @@ part of this question for one pair of criteria.
   measured under imposed interventions ([THEORY-222](../theory.d/THEORY-222.md)).
 
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** What three of the criteria track is
-[QUESTION-tmp3dajs](QUESTION-tmp3dajs.md), Answered. Retention measures read association, not
+[QUESTION-243](QUESTION-243.md), Answered. Retention measures read association, not
 propagation ([THEORY-424](../theory.d/THEORY-424.md)). Ψ and dynamical independence diverge both
 ways, neither needs the parts to interact, and neither prices a feature's
 size ([THEORY-764](../theory.d/THEORY-764.md)). This question keeps the joint search for boundary,

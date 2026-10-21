@@ -33,7 +33,7 @@ history:
   date: '2026-10-21'
   note: >-
     Split under ADR-049. Whether the distance and sparse-recovery
-    thresholds rest on one concentration argument is QUESTION-tmpqzznf,
+    thresholds rest on one concentration argument is QUESTION-251,
     Answered by THEORY-397, THEORY-390, THEORY-395, THEORY-399 and
     THEORY-391: for sufficiency yes, for necessity no. This question is
     reworded to what is left: random features, superposition and
@@ -57,7 +57,7 @@ summary: >-
   whether these are one union bound over different families or different
   phenomena that share a tool. Six anchor works are now read. They show
   the distance and sparse-recovery thresholds share a sufficiency proof,
-  but not a necessity proof, and that part is [QUESTION-tmpqzznf](QUESTION-tmpqzznf.md), Answered.
+  but not a necessity proof, and that part is [QUESTION-251](QUESTION-251.md), Answered.
   They give nothing that reaches random features or expand-and-threshold.
   For SDM and the fly, the record's SDM recall account and its LSH
   account offer candidate thresholds of a different shape.
@@ -65,7 +65,7 @@ answered_by:
 - THEORY-393
 refined_by:
 - QUESTION-168
-- QUESTION-tmpqzznf
+- QUESTION-251
 ---
 <!-- inactive-ok-file: LIT-1158 — Unavailable; the fly paper, a lawful preprint this client could not fetch -->
 <!-- inactive-ok-file: THEORY-106 — Proposed; the accounts the random-features and SDM threads are set against -->
@@ -231,7 +231,7 @@ candidate forms, an SDM signal-to-noise optimum and an LSH exponent, and
 neither is the proposed shape.
 
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The first two uses, distances and sparse
-recovery, are [QUESTION-tmpqzznf](QUESTION-tmpqzznf.md), Answered by [THEORY-397](../theory.d/THEORY-397.md), [THEORY-390](../theory.d/THEORY-390.md),
+recovery, are [QUESTION-251](QUESTION-251.md), Answered by [THEORY-397](../theory.d/THEORY-397.md), [THEORY-390](../theory.d/THEORY-390.md),
 [THEORY-395](../theory.d/THEORY-395.md), [THEORY-399](../theory.d/THEORY-399.md) and [THEORY-391](../theory.d/THEORY-391.md). Their thresholds share one
 sufficiency proof, a per-vector tail and a union bound, and their
 necessity proofs are different arguments. This question keeps what that

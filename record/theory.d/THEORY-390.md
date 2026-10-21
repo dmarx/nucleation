@@ -13,7 +13,7 @@ source:
 presupposes:
 - THEORY-397
 answers:
-- QUESTION-tmpqzznf
+- QUESTION-251
 summary: >-
   Baraniuk, Davenport, DeVore and Wakin (2008), [LIT-1156](../literature.d/LIT-1156.md), read in
   [NOTE-931](../notes.d/NOTE-931.md) from the author-posted copy. The only assumption is the

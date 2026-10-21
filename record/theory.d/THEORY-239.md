@@ -28,7 +28,7 @@ history:
   date: '2026-10-21'
   note: >-
     QUESTION-052 was split under ADR-049, and this entry's answers link
-    moves to the Answered child, QUESTION-tmp5o5m0. The summary, the "does
+    moves to the Answered child, QUESTION-245. The summary, the "does
     not say" line on one space and the Connections paragraph on
     QUESTION-052 said the directed case on one space was not worked. The
     note of 2026-10-19 works it, so they now say so. Title and status are
@@ -50,7 +50,7 @@ summary: >-
   2026-10-19 works a three-state one. It says nothing of what a trained
   network reaches.
 answers:
-- QUESTION-tmp5o5m0
+- QUESTION-245
 ---
 <!-- inactive-ok-file: THEORY-005 CLAIM-098 — Proposed; accounts and a claim this one bears on, open -->
 
@@ -129,7 +129,7 @@ Only the left singular space and the singular values enter.
 
 ## Connections
 
-- **[QUESTION-tmp5o5m0](../questions.d/QUESTION-tmp5o5m0.md)**, split from [QUESTION-052](../questions.d/QUESTION-052.md). The answer, for linear
+- **[QUESTION-245](../questions.d/QUESTION-245.md)**, split from [QUESTION-052](../questions.d/QUESTION-052.md). The answer, for linear
   decisions, to what replaces the eigenspace when the pairing is not
   symmetric. It is the left singular space of the conditional-expectation
   operator, with a sufficiency guarantee for linear decisions on

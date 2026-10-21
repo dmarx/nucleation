@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-21'
   note: >-
-    Split under ADR-049. Whether the optima must nest is QUESTION-tmp5fsie,
+    Split under ADR-049. Whether the optima must nest is QUESTION-244,
     Answered No by CLAIM-387 and CLAIM-392. This question is reworded to
     what is left: a structural condition for nesting, and the size of the
     loss. Version 1's title was "When are the optimal representations of an information-bottleneck or rate–distortion objective at two budgets nested, so that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and when does raising the budget reorganize the optimum into a partition incomparable with the last?"
@@ -35,7 +35,7 @@ answered_by:
 - THEORY-753
 - THEORY-757
 refined_by:
-- QUESTION-tmp5fsie
+- QUESTION-244
 ---
 <!-- inactive-ok-file: THEORY-163 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-220: Given that information-bottleneck optima at two budgets need not be nested, what condition on P(X, Y) guarantees that the coarser optimum is a (possibly noisy) function of the finer, X → Z₂ → Z₁, and how much is lost by forcing nesting when it fails?
@@ -117,7 +117,7 @@ trivial encoder and the causal partition ([NOTE-976](../notes.d/NOTE-976.md)). I
 certified optimum and a test for a degrading channel between optima.
 
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The counterexample half of "what would
-count" is met. [QUESTION-tmp5fsie](QUESTION-tmp5fsie.md), Answered, records that IB optima need
+count" is met. [QUESTION-244](QUESTION-244.md), Answered, records that IB optima need
 not nest, for deterministic encoders ([CLAIM-387](../claims.d/CLAIM-387.md)) and stochastic ones
 ([CLAIM-392](../claims.d/CLAIM-392.md)). Rate–distortion's own answer, successive refinability, is
 [THEORY-751](../theory.d/THEORY-751.md). This question keeps the structural condition on P(X, Y)

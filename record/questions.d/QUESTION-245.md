@@ -1,5 +1,8 @@
 ---
+number: 245
 status: Answered
+formerly:
+- QUESTION-tmp5o5m0
 title: 'For linear decisions at the population level, if a kind''s admissible transformations are given as a distribution over pairs of its realizations, is the top eigenspace of the pair operator a stable, decision-sufficient span, and what span takes that role when the pairs are directed?'
 version: 1
 tags:
@@ -28,7 +31,7 @@ answered_by:
 - THEORY-319
 ---
 
-# QUESTION-tmp5o5m0: For linear decisions at the population level, if a kind's admissible transformations are given as a distribution over pairs of its realizations, is the top eigenspace of the pair operator a stable, decision-sufficient span, and what span takes that role when the pairs are directed?
+# QUESTION-245: For linear decisions at the population level, if a kind's admissible transformations are given as a distribution over pairs of its realizations, is the top eigenspace of the pair operator a stable, decision-sufficient span, and what span takes that role when the pairs are directed?
 
 ## Answer
 

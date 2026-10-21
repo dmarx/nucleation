@@ -1,5 +1,8 @@
 ---
+number: 251
 status: Answered
+formerly:
+- QUESTION-tmpqzznf
 title: 'Do the Johnson–Lindenstrauss threshold for distances and the k log(N/k) threshold for sparse recovery rest on one concentration-of-measure argument, a tail bound for each fixed vector''s norm with a union bound over a family, both for sufficiency and for necessity?'
 version: 1
 tags:
@@ -28,7 +31,7 @@ answered_by:
 - THEORY-399
 ---
 
-# QUESTION-tmpqzznf: Do the Johnson–Lindenstrauss threshold for distances and the k log(N/k) threshold for sparse recovery rest on one concentration-of-measure argument, a tail bound for each fixed vector's norm with a union bound over a family, both for sufficiency and for necessity?
+# QUESTION-251: Do the Johnson–Lindenstrauss threshold for distances and the k log(N/k) threshold for sparse recovery rest on one concentration-of-measure argument, a tail bound for each fixed vector's norm with a union bound over a family, both for sufficiency and for necessity?
 
 ## Answer
 

@@ -19,7 +19,7 @@ source:
 extends:
 - THEORY-397
 answers:
-- QUESTION-tmpqzznf
+- QUESTION-251
 summary: >-
   Larsen and Nelson (2017), [LIT-1154](../literature.d/LIT-1154.md), read in [NOTE-925](../notes.d/NOTE-925.md) from arXiv
   v2. Theorem 2 removes the lg(1/ε) gap that Welch, Levenshtein and Alon

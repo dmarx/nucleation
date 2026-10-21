@@ -1,5 +1,8 @@
 ---
+number: 244
 status: Answered
+formerly:
+- QUESTION-tmp5fsie
 title: 'Must the optimal representations of an information-bottleneck objective at two budgets be nested, so that the coarser optimum is a (possibly noisy) function of the finer?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ answered_by:
 - CLAIM-392
 ---
 
-# QUESTION-tmp5fsie: Must the optimal representations of an information-bottleneck objective at two budgets be nested, so that the coarser optimum is a (possibly noisy) function of the finer?
+# QUESTION-244: Must the optimal representations of an information-bottleneck objective at two budgets be nested, so that the coarser optimum is a (possibly noisy) function of the finer?
 
 ## Answer
 

@@ -10,7 +10,7 @@ history:
   date: '2026-10-21'
   note: >-
     Split under ADR-049. The converse, whether exact closure requires a
-    nearly decomposable block, is QUESTION-tmp2dkgx, Answered No by
+    nearly decomposable block, is QUESTION-242, Answered No by
     CLAIM-388. The title drops its last clause, "and is the converse
     false?". The forward bound is still open.
 tags:
@@ -34,7 +34,7 @@ answered_by:
 - CLAIM-390
 - THEORY-771
 refined_by:
-- QUESTION-tmp2dkgx
+- QUESTION-242
 ---
 <!-- inactive-ok-file: CLAIM-157 THEORY-257 — Proposed; open claims and readings named for context, nothing here rests on their being settled -->
 # QUESTION-221: Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block's aggregate small to a stated order in ε?
@@ -104,7 +104,7 @@ stays bounded away from zero as ε → 0. A5 was explicit that the useful
 results "would be conditional bounds, with the distributions and norms
 explicit."
 
-**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The converse is [QUESTION-tmp2dkgx](QUESTION-tmp2dkgx.md),
+**Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** The converse is [QUESTION-242](QUESTION-242.md),
 Answered by [CLAIM-388](../claims.d/CLAIM-388.md). This question keeps the forward bound for the
 block's aggregate. [CLAIM-390](../claims.d/CLAIM-390.md) answers it for the block's full state and
 [CLAIM-386](../claims.d/CLAIM-386.md) gives the one-step deterministic defect, but neither bounds

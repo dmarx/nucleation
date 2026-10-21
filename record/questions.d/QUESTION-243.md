@@ -1,5 +1,8 @@
 ---
+number: 243
 status: Answered
+formerly:
+- QUESTION-tmp3dajs
 title: 'Does temporal information retention track causal propagation, do the ΦID criterion Ψ and dynamical independence agree, and does either of those two detect interaction among the parts or price the size of a feature?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ answered_by:
 - THEORY-764
 ---
 
-# QUESTION-tmp3dajs: Does temporal information retention track causal propagation, do the ΦID criterion Ψ and dynamical independence agree, and does either of those two detect interaction among the parts or price the size of a feature?
+# QUESTION-243: Does temporal information retention track causal propagation, do the ΦID criterion Ψ and dynamical independence agree, and does either of those two detect interaction among the parts or price the size of a feature?
 
 ## Answer
 

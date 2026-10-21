@@ -1,5 +1,8 @@
 ---
+number: 246
 status: Answered
+formerly:
+- QUESTION-tmp62dpv
 title: 'In quantum theory, what does a failure of Kochen–Specker noncontextuality refute, as against a failure of Spekkens''s generalized noncontextuality, and which of the two notions is broader?'
 version: 1
 tags:
@@ -26,7 +29,7 @@ answered_by:
 - THEORY-559
 ---
 
-# QUESTION-tmp62dpv: In quantum theory, what does a failure of Kochen–Specker noncontextuality refute, as against a failure of Spekkens's generalized noncontextuality, and which of the two notions is broader?
+# QUESTION-246: In quantum theory, what does a failure of Kochen–Specker noncontextuality refute, as against a failure of Spekkens's generalized noncontextuality, and which of the two notions is broader?
 
 ## Answer
 

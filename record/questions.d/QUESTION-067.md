@@ -33,7 +33,7 @@ history:
   note: >-
     Split under ADR-049. What a Kochen–Specker failure refutes, as
     against a generalized-noncontextuality failure, and that the
-    generalized notion is strictly broader, is QUESTION-tmp62dpv,
+    generalized notion is strictly broader, is QUESTION-246,
     Answered by THEORY-011, THEORY-015, THEORY-016, THEORY-231 and
     THEORY-559. This question is reworded to what is left: when a
     pragmatic test's probe families make renderings operationally
@@ -57,11 +57,11 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-009](../claims.d/CLAIM-009.md), [CLAIM-037](../claims.d/CLAIM-037.md),
   [CLAIM-044](../claims.d/CLAIM-044.md), [CLAIM-046](../claims.d/CLAIM-046.md), [CLAIM-142](../claims.d/CLAIM-142.md) and [QUESTION-001](QUESTION-001.md). What each kind of
   noncontextuality failure refutes, and that the generalized kind is
-  broader, is [QUESTION-tmp62dpv](QUESTION-tmp62dpv.md), Answered. Whether a pragmatic test's
+  broader, is [QUESTION-246](QUESTION-246.md), Answered. Whether a pragmatic test's
   probes make renderings operationally equivalent, so that the
   generalized kind applies, is open.
 refined_by:
-- QUESTION-tmp62dpv
+- QUESTION-246
 ---
 <!-- inactive-ok-file: CLAIM-105 CLAIM-201 — Proposed; cited in a note of 2026-10-12 as open, for what each holds, not as settled -->
 
@@ -145,7 +145,7 @@ not answer it.
 would show: a Kochen–Specker proof refutes universal generalized
 noncontextuality, a generalized no-go refutes a positive quasiprobability
 representation, and the generalized notion is strictly broader. That is
-[QUESTION-tmp62dpv](QUESTION-tmp62dpv.md), Answered, and [THEORY-011](../theory.d/THEORY-011.md), [THEORY-015](../theory.d/THEORY-015.md), [THEORY-016](../theory.d/THEORY-016.md),
+[QUESTION-246](QUESTION-246.md), Answered, and [THEORY-011](../theory.d/THEORY-011.md), [THEORY-015](../theory.d/THEORY-015.md), [THEORY-016](../theory.d/THEORY-016.md),
 [THEORY-231](../theory.d/THEORY-231.md) and [THEORY-559](../theory.d/THEORY-559.md) now answer the child. This question keeps what they
 leave: whether the probe families a pragmatic test can field make two
 renderings operationally equivalent, which the note of 2026-10-14 says

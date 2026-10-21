@@ -1,5 +1,8 @@
 ---
+number: 250
 status: Answered
+formerly:
+- QUESTION-tmpnpl4u
 title: 'Can a macro description of a known mechanism have interventional autonomy, an effective-information advantage over its micro description, without organizational closure or self-individuation?'
 version: 1
 tags:
@@ -21,7 +24,7 @@ answered_by:
 - THEORY-222
 ---
 
-# QUESTION-tmpnpl4u: Can a macro description of a known mechanism have interventional autonomy, an effective-information advantage over its micro description, without organizational closure or self-individuation?
+# QUESTION-250: Can a macro description of a known mechanism have interventional autonomy, an effective-information advantage over its micro description, without organizational closure or self-individuation?
 
 ## Answer
 

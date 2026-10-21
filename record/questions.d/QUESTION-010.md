@@ -11,7 +11,7 @@ history:
   note: >-
     Split under ADR-049. The one-step, information-theoretic form for one
     categorical concept, how much a map can keep about X while keeping
-    nothing about A, is QUESTION-tmpn9k0p, Answered by THEORY-281. The
+    nothing about A, is QUESTION-249, Answered by THEORY-281. The
     title is unchanged: it asks about chains and relations, which that
     answer does not reach.
 tags:
@@ -24,12 +24,12 @@ refines:
 summary: >-
   A100, Chapter 9: "The new question introduced by the sheaf-information
   synthesis." Gestured at in the manuscript (§8, §11), not posed. Its
-  one-step form for one categorical concept is [QUESTION-tmpn9k0p](QUESTION-tmpn9k0p.md),
+  one-step form for one categorical concept is [QUESTION-249](QUESTION-249.md),
   Answered by [THEORY-281](../theory.d/THEORY-281.md). Chains, and relations, are open.
 answered_by:
 - THEORY-199
 refined_by:
-- QUESTION-tmpn9k0p
+- QUESTION-249
 ---
 <!-- inactive-ok-file: CLAIM-128 CLAIM-129 CLAIM-177 — listed as material that may bear on this question, not as settled -->
 <!-- inactive-ok-file: CLAIM-105 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->
@@ -80,6 +80,6 @@ says; none has yet been assessed as an answer, and none is linked by
 
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** [THEORY-281](../theory.d/THEORY-281.md) is now Active, narrowed to X
 of finite support. Its answer, the cap H(X|A) and when a map reaches it,
-is [QUESTION-tmpn9k0p](QUESTION-tmpn9k0p.md), Answered. This question keeps what it leaves: a
+is [QUESTION-249](QUESTION-249.md), Answered. This question keeps what it leaves: a
 chain rather than one step, and relations a task family needs rather than
 a categorical label. [THEORY-199](../theory.d/THEORY-199.md) (Proposed) still points here.

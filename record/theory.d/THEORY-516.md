@@ -17,7 +17,7 @@ source:
 corrects:
 - THEORY-024
 answers:
-- QUESTION-tmpd1e8g
+- QUESTION-247
 summary: >-
   Butterfield & Isham (1998), [LIT-381](../literature.d/LIT-381.md), read in full in [NOTE-329](../notes.d/NOTE-329.md): Theorem
   4.1 proves that generalized FUNC is exactly naturality of ν : G → Ω, for

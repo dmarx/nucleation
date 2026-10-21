@@ -14,7 +14,7 @@ source:
 extends:
 - THEORY-395
 answers:
-- QUESTION-tmpqzznf
+- QUESTION-251
 summary: >-
   Alon and Klartag (2017), [LIT-1151](../literature.d/LIT-1151.md), read in [NOTE-929](../notes.d/NOTE-929.md) from arXiv v4.
   Theorem 1.1 gives the bits of an additive ε-distance sketch for every k

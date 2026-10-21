@@ -17,7 +17,7 @@ history:
   date: '2026-10-21'
   note: >-
     Split under ADR-049. Which negation a presheaf over contexts gives is
-    QUESTION-tmpd1e8g, Answered by THEORY-516 and THEORY-037: the Heyting
+    QUESTION-247, Answered by THEORY-516 and THEORY-037: the Heyting
     pseudo-complement the base category fixes. This question is reworded
     to what is left: whether the communicative object is such a presheaf,
     over which base, and whether probes split it into sectors. Version
@@ -41,11 +41,11 @@ summary: >-
   for a place in the argument. It bears on [CLAIM-119](../claims.d/CLAIM-119.md), [CLAIM-038](../claims.d/CLAIM-038.md),
   [CLAIM-044](../claims.d/CLAIM-044.md), [QUESTION-025](QUESTION-025.md) and [QUESTION-031](QUESTION-031.md). Given a presheaf over
   contexts, the negation is the Heyting pseudo-complement, and that part
-  is [QUESTION-tmpd1e8g](QUESTION-tmpd1e8g.md), Answered. Which structure the communicative
+  is [QUESTION-247](QUESTION-247.md), Answered. Which structure the communicative
   object has is open. [THEORY-041](../theory.d/THEORY-041.md) and [THEORY-042](../theory.d/THEORY-042.md) bear on it; the body
   gives each one's limit.
 refined_by:
-- QUESTION-tmpd1e8g
+- QUESTION-247
 ---
 
 # QUESTION-055: If communicative categories form a non-Boolean lattice, what structure fixes the negation of a category: a presheaf over contexts, and if so over which base category, an orthocomplemented lattice, or sectors that no probe connects?
@@ -72,7 +72,7 @@ A derivation of the sub-object logic of the communicative object as [CLAIM-038](
 **Split, 2026-10-21 ([ADR-049](../decisions.d/ADR-049.md)).** [THEORY-516](../theory.d/THEORY-516.md) and [THEORY-037](../theory.d/THEORY-037.md) answer the
 conditional part: over a presheaf of contexts, the negation is the
 Heyting pseudo-complement the base fixes, not an orthocomplement. That is
-[QUESTION-tmpd1e8g](QUESTION-tmpd1e8g.md), Answered. This question keeps what they leave: whether
+[QUESTION-247](QUESTION-247.md), Answered. This question keeps what they leave: whether
 the communicative object is such a presheaf ([CLAIM-038](../claims.d/CLAIM-038.md) is Proposed), which
 base category it has, and whether some probe family splits it into
 sectors ([THEORY-042](../theory.d/THEORY-042.md)).

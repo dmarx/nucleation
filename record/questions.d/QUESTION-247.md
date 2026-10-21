@@ -1,5 +1,8 @@
 ---
+number: 247
 status: Answered
+formerly:
+- QUESTION-tmpd1e8g
 title: 'If the communicative object is a presheaf of propositions over a category of contexts, is the negation its topos logic gives an orthocomplement or a Heyting pseudo-complement, and what fixes it?'
 version: 1
 tags:
@@ -23,7 +26,7 @@ answered_by:
 ---
 <!-- inactive-ok-file: CLAIM-038 — Proposed; the premise this question makes conditional, not leaned on -->
 
-# QUESTION-tmpd1e8g: If the communicative object is a presheaf of propositions over a category of contexts, is the negation its topos logic gives an orthocomplement or a Heyting pseudo-complement, and what fixes it?
+# QUESTION-247: If the communicative object is a presheaf of propositions over a category of contexts, is the negation its topos logic gives an orthocomplement or a Heyting pseudo-complement, and what fixes it?
 
 ## Answer
 

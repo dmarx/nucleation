@@ -26,7 +26,7 @@ source:
 - LIT-1244
 - LIT-979
 answers:
-- QUESTION-tmp3dajs
+- QUESTION-243
 summary: >-
   Rosas et al. (2020), [LIT-1244](../literature.d/LIT-1244.md), read in [NOTE-987](../notes.d/NOTE-987.md), with Barnett and
   Seth's dynamical independence ([LIT-979](../literature.d/LIT-979.md), [THEORY-257](THEORY-257.md)). By the chain rule,
