@@ -1,0 +1,62 @@
+# record/promotion-audit/decisions/THEORY-102.yaml
+id: THEORY-102
+batch: batch-076
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: narrow-and-promote
+carried_out_in: "#301"
+confidence: high
+title_asserts: measurement
+hand_label: measurement (one intracranial study, numbers in the text)
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    What Vishne, Gerber, Knight and Deouell (2023, LIT-644, read in full in
+    NOTE-499) measured: in subdural high-frequency activity (70-150 Hz)
+    from 10 epilepsy patients viewing clearly visible images for 300 to
+    1,500 ms with no report on analysed trials, category and exemplar
+    information in ventral temporal cortex stayed decodable by a
+    time-invariant population code for as long as the image was on (face
+    vs watch AUC 99.8% over 100-900 ms; a square temporal-generalisation
+    block; information ending about 230-450 ms after offset, tracking
+    duration), while HFA fell 81.8% from peak by 800-900 ms; at the
+    sampled prefrontal and parietal sites category decoding was real (peak
+    AUC 84.1% and 86%) but confined to about 150-600 ms after onset, did
+    not generalise across time and did not track duration. ADR-047 v3:
+    one study read in full, numbers in the text, nothing in the record
+    contradicting it.
+  excluded: >-
+    "In human ventral temporal cortex" without the method and sample;
+    "for as long as it stays on" beyond 1.5 s; prefrontal and parietal
+    content in general (the coverage was sparse and mostly right
+    hemisphere, and the authors ask that the absence be read "with more
+    caution than the presence"); bands other than HFA.
+dropped_clauses:
+  - text: >-
+      The general claim: in human visual cortex the content of a
+      sustained seen image (and, the promote_when adds, of a percept) is
+      carried by a stable population code rather than by sustained
+      activity level, with frontoparietal cortex marking only onset.
+    route: new Proposed THEORY (kind 1), extends THEORY-102, inherits the promote_when
+    who_asserts: >-
+      Vishne et al., Discussion and Conclusion (NOTE-499 C4: sustained
+      experience may rely on sensory representation and discrete updating
+      on frontoparietal representation; C5: an "experience subspace").
+      NOTE-499 also names it as a candidate THEORY.
+    why: >-
+      The old promote_when tests exactly this wider claim (a second method
+      or cohort, and a percept-input dissociation), so it moves to the new
+      entry unchanged and no QUESTION is needed.
+evidence:
+  - "NOTE-499 (LIT-644, read in full: Results, Figs. 1-5, Discussion, Limitations, STAR Methods)."
+promote_when_met: >-
+  The promote_when asks for a replication and a percept-input
+  dissociation. Both test the general claim, not the measurement; under
+  ADR-047 v3 and v4 they move with that claim to its new Proposed carrier.
+blockers: []
+next_action: >-
+  Narrow and promote; file the general claim as a Proposed THEORY in the
+  same PR.

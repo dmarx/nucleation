@@ -1,0 +1,36 @@
+# record/promotion-audit/decisions/THEORY-141.yaml
+id: THEORY-141
+batch: batch-076
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+hand_label: argument (a conditional stability thesis plus an explanatory moral, from a philosophy-of-science review)
+triage_007_label: theorem
+hand_agrees_with_triage_007: false
+formal_in_fact: false
+scope:
+  accepted: >-
+    Nothing new. Okasha (2022, LIT-749, read in NOTE-586) is a review
+    with no model or data; the title's "stable only if" is the
+    conditional shape triage-007 read as a theorem.
+  excluded: >-
+    Promotion. The promote_when asks for experimental evolution or
+    comparative work across independent transitions; no source in the
+    record supplies it, and the review itself warns that general
+    principles may explain each transition only coarsely.
+evidence:
+  - "NOTE-586 (LIT-749, read in full)."
+blockers:
+  - "Experimental-evolution or comparative evidence across transitions, as the promote_when names."
+  - "LIT-721 (Okasha 2005), which the 2022 text cites for the two-level view, is unread."
+notes: >-
+  Hand label argument; triage-007 fired on "only if". No formal core: the
+  multilevel-selection equivalence results the promote_when rules out are
+  equivalent by construction.
+unlocks: []
+next_action: >-
+  Retain. A reading task (Okasha 2005) and an evidence search before any
+  wave-5 review.

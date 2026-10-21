@@ -1,0 +1,35 @@
+id: THEORY-638
+batch: batch-078
+reviewed: '2026-10-21'
+reviewed_revision: 159412ab86401a39ae46ff6250da7b565507d421
+current_status: Proposed
+disposition: retain-proposed
+confidence: high
+title_asserts: argument
+formal_in_fact: no
+hand_label: argument (Searle's Chinese room)
+triage007_class: theorem
+classifier_agrees: false
+scope:
+  accepted: >-
+    Sorted by hand as an argument. "Never by itself sufficient" and
+    "since a person can carry out" read as a modal theorem to the
+    classifier; the support is a thought experiment, and the title
+    already records that the systems reply is answered "only by an
+    asserted internalisation".
+  excluded: >-
+    Everything. The promote_when asks for an account of when a system
+    implemented inside a person is part of that person, or a statement of
+    which causal powers matter and how to test for them.
+evidence:
+  - "Searle (1980), LIT-400; the THEORY body."
+blockers:
+  - "No account of system-parthood for the internalised room is held, and the relevant causal powers are not specified."
+dropped_clauses: []
+notes: >-
+  Its rival THEORY-538 is the natural partner for a wave-5 review, but
+  batch 041's lesson holds: wave 5 rarely moves an argument unless its
+  premises, rivals or promote_when change.
+unlocks: []
+next_action: >-
+  Retain Proposed. Wave 5 only if a system-parthood account is filed.
