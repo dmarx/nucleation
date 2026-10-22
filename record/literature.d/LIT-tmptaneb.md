@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-22 (NOTE-tmphhgp9) from the bioRxiv preprint,
+  read in full 2026-10-22 ([NOTE-tmphhgp9](../notes.d/NOTE-tmphhgp9.md)) from the bioRxiv preprint,
   version 2 (10 May 2023), not the closed version of record; worth reading
   as the first imaging study of reappraisal large enough (n = 182 and 176,
   replicated in both) to give evidence for nulls, which lets it say which
@@ -72,7 +72,7 @@ Bo, K., Kraynak, T. E., Kwon, M., Sun, M., Gianaros, P. J. & Wager, T. D. (2024)
 
 ## Key takeaways
 
-*From the reading, NOTE-tmphhgp9. Page numbers are the preprint's.*
+*From the reading, [NOTE-tmphhgp9](../notes.d/NOTE-tmphhgp9.md). Page numbers are the preprint's.*
 
 - **Nulls made the question answerable.** A region is "Reappraisal only"
   if it responds to reappraisal and shows 10:1 evidence of no response to
@@ -103,7 +103,7 @@ Bo, K., Kraynak, T. E., Kwon, M., Sun, M., Gianaros, P. J. & Wager, T. D. (2024)
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this study as a limit on the constitutive reading of affect: some emotion systems were modulated by reappraisal and a largely subcortical one was not. On the exchange's reading, not every component of an emotion is open to reinterpretation. Bears on THEORY-056, THEORY-680 and CLAIM-tmpdga80.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this study as a limit on the constitutive reading of affect: some emotion systems were modulated by reappraisal and a largely subcortical one was not. On the exchange's reading, not every component of an emotion is open to reinterpretation. Bears on [THEORY-056](../theory.d/THEORY-056.md), [THEORY-680](../theory.d/THEORY-680.md) and [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).
 
 **Corrected 2026-10-22, from the reading.** The description is right about
 the subcortical regions and too narrow about the rest. The unmodulated set
@@ -114,8 +114,8 @@ unchanged subcortical response is a component of the experience. The study
 measured BOLD and one rating per trial, and the rating did fall; the
 subcortical response did not predict how far (r = 0.015). Reading the
 unchanged response as the emotion behind a changed feeling is the split
-Barrett et al. (LIT-tmphg31k) reject. The study does bear directly on the
-dispute between THEORY-056 and THEORY-680: most of the reappraisal network
-is shared with generation, as THEORY-056 expects, and a selective set is
-not, as THEORY-680 expects. Filed from it: THEORY-tmptuggu (the shared and
-selective sets) and THEORY-tmpak7ax (what reappraisal changes and does not).
+Barrett et al. ([LIT-tmphg31k](LIT-tmphg31k.md)) reject. The study does bear directly on the
+dispute between [THEORY-056](../theory.d/THEORY-056.md) and [THEORY-680](../theory.d/THEORY-680.md): most of the reappraisal network
+is shared with generation, as [THEORY-056](../theory.d/THEORY-056.md) expects, and a selective set is
+not, as [THEORY-680](../theory.d/THEORY-680.md) expects. Filed from it: [THEORY-tmptuggu](../theory.d/THEORY-tmptuggu.md) (the shared and
+selective sets) and [THEORY-tmpak7ax](../theory.d/THEORY-tmpak7ax.md) (what reappraisal changes and does not).

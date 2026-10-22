@@ -26,8 +26,8 @@ date: '2026-10-22'
 source:
 - LIT-tmptaneb
 summary: >-
-  Bo et al. (preprint 2023, published 2024), LIT-tmptaneb, read in full from
-  the bioRxiv v2 preprint in NOTE-tmphhgp9. Two fMRI samples (n = 182 and
+  Bo et al. (preprint 2023, published 2024), [LIT-tmptaneb](../literature.d/LIT-tmptaneb.md), read in full from
+  the bioRxiv v2 preprint in [NOTE-tmphhgp9](../notes.d/NOTE-tmphhgp9.md). Two fMRI samples (n = 182 and
   176), voxelwise Bayes factors, every effect replicated in both. Sixteen
   regions are engaged by reappraisal and show 10:1 evidence of no response
   to negative against neutral pictures without it; fourteen, the larger
@@ -44,8 +44,8 @@ answers:
 
 ## Source
 
-Bo, Kraynak, Kwon, Sun, Gianaros & Wager, LIT-tmptaneb, read in full in
-NOTE-tmphhgp9 from the bioRxiv preprint, version 2 (10 May 2023), pp. 5–12
+Bo, Kraynak, Kwon, Sun, Gianaros & Wager, [LIT-tmptaneb](../literature.d/LIT-tmptaneb.md), read in full in
+[NOTE-tmphhgp9](../notes.d/NOTE-tmphhgp9.md) from the bioRxiv preprint, version 2 (10 May 2023), pp. 5–12
 and 17–20, with Figures 1, 2 and 5. The version of record, Nature
 Neuroscience 27(5), 975–987 (2024), is closed and was not read; its abstract
 matches the preprint's.
@@ -86,7 +86,7 @@ which regulation is generation re-run would expect. A set did not.
   hierarchies (p. 17) rests on anatomy and on the literature.
 - **That they are an emotion regulator in general.** One deliberate
   strategy, instructed downregulation, on IAPS pictures. Effortless
-  regulation, which is where THEORY-056 makes its claim, was not studied.
+  regulation, which is where [THEORY-056](THEORY-056.md) makes its claim, was not studied.
   Their best Neurosynth match is "response inhibition", so they may be
   task control rather than anything particular to emotion.
 - **That passive viewing is unregulated.** The authors allow that the
@@ -102,28 +102,28 @@ which regulation is generation re-run would expect. A set did not.
 
 ## Connections
 
-It answers QUESTION-054 in part. For one deliberate strategy there is a set
+It answers [QUESTION-054](../questions.d/QUESTION-054.md) in part. For one deliberate strategy there is a set
 of regions engaged only when regulating, high in the cortical hierarchy and
 predictive of success: a candidate governing level in the anatomical sense.
-It does not reach effortless regulation, where QUESTION-054's accounts
+It does not reach effortless regulation, where [QUESTION-054](../questions.d/QUESTION-054.md)'s accounts
 differ.
 
-- **THEORY-056 (regulation is not separate from generation).** The shared
+- **[THEORY-056](THEORY-056.md) (regulation is not separate from generation).** The shared
   set agrees with it; the selective set is what a distinct regulating
-  system would look like in imaging. THEORY-056's own `promote_when` says
+  system would look like in imaging. [THEORY-056](THEORY-056.md)'s own `promote_when` says
   that a difference in network activation "cannot settle it". So this
   result does not refute it, but it does show that this exclusion keeps
-  THEORY-056 out of reach of imaging data.
-- **THEORY-680 (regulation is a set of processes distinct from
+  [THEORY-056](THEORY-056.md) out of reach of imaging data.
+- **[THEORY-680](THEORY-680.md) (regulation is a set of processes distinct from
   generation).** The selective set agrees with its first clause. Its stage
   claims are not tested, since only one strategy was used, and its demand
   for an independently estimated unregulated response is not met.
-- **THEORY-070 (a distinct system that specifies control).** The selective
+- **[THEORY-070](THEORY-070.md) (a distinct system that specifies control).** The selective
   regions' annotation (response inhibition, executive function) fits a
   control system that is not particular to emotion. That is the record's
   reading; the paper does not discuss it.
-- **THEORY-tmpak7ax.** The same study's other half: what reappraisal does
+- **[THEORY-tmpak7ax](THEORY-tmpak7ax.md).** The same study's other half: what reappraisal does
   and does not change.
-- **CLAIM-tmpdga80.** Its grounds include THEORY-056 and THEORY-680 as the
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** Its grounds include [THEORY-056](THEORY-056.md) and [THEORY-680](THEORY-680.md) as the
   two readings of reappraisal. This result divides between them and does
   not choose.

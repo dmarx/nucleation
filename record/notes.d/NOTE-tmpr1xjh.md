@@ -45,7 +45,7 @@ proposal that basic emotion theory (BET) explains emotions as
 "bioregulatory states of the body" and the theory of constructed emotion
 (TCE) explains feelings, the sixteen authors argue that the split
 misdescribes their theory, ignores evidence against BET, and rests on an
-outdated evolutionary biology. Beyond the 2017 statement (LIT-542) it
+outdated evolutionary biology. Beyond the 2017 statement ([LIT-542](../literature.d/LIT-542.md)) it
 states four things plainly: feeling and bodily regulation are one
 mechanism, not two; the theory is holistic, not reductionist; its
 evolutionary frame is the extended evolutionary synthesis; and the two
@@ -200,32 +200,32 @@ There are no new data. By section:
 It answers van Heijst, Kret & Ploeger (2025) in the same issue, and places
 them in a line with Adolphs (2017), Damasio (2004) and de Waal (2019), who
 also separate emotion from feeling. It rests on the authors' own earlier
-work, chiefly Barrett 2017b (LIT-542), Barrett & Finlay (2018), Hutchinson &
+work, chiefly Barrett 2017b ([LIT-542](../literature.d/LIT-542.md)), Barrett & Finlay (2018), Hutchinson &
 Barrett (2019), Shaffer et al. (2022) and Barrett & Theriault (2025, the
 philosophy of science behind "relational"). For evolution it draws on
 Bateson & Laland (2013), Jablonka & Lamb, Laland and Ball (2024). It cites
 Gross (1998), the *Journal of Personality and Social Psychology* study of
 antecedent- and response-focused regulation, not the 1998 review the record
-holds (LIT-554). It does not cite Seth.
+holds ([LIT-554](../literature.d/LIT-554.md)). It does not cite Seth.
 
 ## Bearing on the record
 
-- **LIT-542, NOTE-434 (Barrett 2017).** The same theory. What this
+- **[LIT-542](../literature.d/LIT-542.md), [NOTE-434](NOTE-434.md) (Barrett 2017).** The same theory. What this
   reply adds is emphasis and one explicit denial: the 2017 paper already
   put allostasis first; this one says outright that feeling is not a second
   phenomenon representing the first (C2, C3). It adds the evolutionary frame
-  (C6) and incommensurability (C7). It does not repeat NOTE-434's C8, the
+  (C6) and incommensurability (C7). It does not repeat [NOTE-434](NOTE-434.md)'s C8, the
   hypothesis about reappraisal.
-- **THEORY-057 (emotion categories as populations).** Error 2 and
+- **[THEORY-057](../theory.d/THEORY-057.md) (emotion categories as populations).** Error 2 and
   Table 2 restate its claim with a longer evidence list, all cited and not
   re-analysed, much of it from the authors' own groups. A further source for
   it, not a test. The asymmetry it states (variation disconfirms types,
   commonality would not confirm them) is worth adding there.
-- **THEORY-045 (felt affect).** C2 takes the prediction side of
-  THEORY-045's open question again, now as the efference-copy hypothesis. It
+- **[THEORY-045](../theory.d/THEORY-045.md) (felt affect).** C2 takes the prediction side of
+  [THEORY-045](../theory.d/THEORY-045.md)'s open question again, now as the efference-copy hypothesis. It
   offers no case where prediction and map come apart, so it does not meet
   that THEORY's promotion test.
-- **The dispute between THEORY-056 and THEORY-680.** The paper does not
+- **The dispute between [THEORY-056](../theory.d/THEORY-056.md) and [THEORY-680](../theory.d/THEORY-680.md).** The paper does not
   discuss emotion regulation, reappraisal or therapy. It bears on the
   dispute in three ways, none of them decisive.
   - **Separate regulation is placed on BET's side.** Regulation appears
@@ -234,25 +234,25 @@ holds (LIT-554). It does not cite Seth.
     "regulation strategies" (Error 3; also the Figure 1 caption). A
     regulation process that acts on an already-formed emotion is part of
     the typological picture the authors reject. That agrees with
-    THEORY-056's clause that there is no distinct regulating system, by
+    [THEORY-056](../theory.d/THEORY-056.md)'s clause that there is no distinct regulating system, by
     implication only. It is not an argument about regulation.
-  - **THEORY-680's evidence is read as an artifact.** The study cited for
+  - **[THEORY-680](../theory.d/THEORY-680.md)'s evidence is read as an artifact.** The study cited for
     the correspondence problem, Gross (1998, JPSP), is the experiment
-    THEORY-680's cited contrast rests on (suppression lowered expression and
+    [THEORY-680](../theory.d/THEORY-680.md)'s cited contrast rests on (suppression lowered expression and
     raised sympathetic activation without reliably lowering experience).
-    THEORY-680 reads that dissociation as strategies acting on different
+    [THEORY-680](../theory.d/THEORY-680.md) reads that dissociation as strategies acting on different
     response channels of one emotion. This paper reads dissociations of that
     kind as what the bifurcation manufactures. The citation is in passing,
     one item in a list. The record has not read the 1998 experiment either.
-  - **The counterfactual gets harder.** THEORY-680 needs an unregulated
+  - **The counterfactual gets harder.** [THEORY-680](../theory.d/THEORY-680.md) needs an unregulated
     course to compare against. If allostasis "manifests" emotions rather than
     causing them, and every moment is bioregulation, there is no emotion that
     is not already the body being regulated. That is my inference, not the
-    paper's. It sharpens the problem THEORY-680 already names in "What this
+    paper's. It sharpens the problem [THEORY-680](../theory.d/THEORY-680.md) already names in "What this
     does not say"; it does not settle it.
   - **Neither promotion test is met.** No dissociation, mediation or
     stage comparison is reported.
-- **LIT-tmptaneb, NOTE-tmphhgp9 (Bo et al.).** The exchange set the two against
+- **[LIT-tmptaneb](../literature.d/LIT-tmptaneb.md), [NOTE-tmphhgp9](NOTE-tmphhgp9.md) (Bo et al.).** The exchange set the two against
   each other: Bo et al. found amygdala, PAG and hypothalamus responses to
   aversive pictures unchanged by reappraisal while reported negative affect
   fell. Reading that as an unchanged component of the emotion, apart from
@@ -261,7 +261,7 @@ holds (LIT-554). It does not cite Seth.
   the emotion's objective part. So the reply does not refute that reading
   of Bo et al.; it shows that it presupposes BET's split. The comparison
   is mine.
-- **CLAIM-tmpdga80 (experience constituted by interpretive organization).**
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (experience constituted by interpretive organization).**
   The exchange called the TCE the nearest formulation of the constitutive
   reading for affect. The reading supports that in part. Meaning is
   relational, mental features are relations among signals, and allostasis
@@ -272,29 +272,29 @@ holds (LIT-554). It does not cite Seth.
   one the exchange named: the meaning is not separate from bodily
   regulation. It does not mention cognitive behavioural therapy; that was
   the exchange's example, not the paper's.
-- **CLAIM-tmp1lvwf (broad interpretation admits processing not shown to be experiential).** The
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) (broad interpretation admits processing not shown to be experiential).** The
   paper is a case of the objection. Categorization, its word for
   interpretation, reaches "single-cell organisms", and animal brains
   categorize "and create lived experience (whatever that means for the
   animals in question)". The theory extends categorization without limit
   and leaves experience unanalysed. It gives no condition under which
   categorization is experiential, so it offers nothing towards
-  QUESTION-tmpc4j7p.
-- **TERM-tmpgqmop (interpretation).** The paper's categorization fits the
+  [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).
+- **[TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md) (interpretation).** The paper's categorization fits the
   term's three parts: a distinction (a category that "creates" regularities),
   a context (situated, ad hoc) and a consequence (it guides allostasis and
   action). It is not defined without experience, though: the categories
   are said to make experience.
-- **TERM-tmpe36gg (perspective, three senses).** "Conditioned on some
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md) (perspective, three senses).** "Conditioned on some
   perspective" is used without saying which sense. In the Conclusion it is
   the perceiver's or the scientist's inherited categories, which is closer
   to the organizational sense than to the phenomenal one.
-- **THEORY-767, LIT-1263 (Seth).** Not touched. "Interoception" occurs only in
+- **[THEORY-767](../theory.d/THEORY-767.md), [LIT-1263](../literature.d/LIT-1263.md) (Seth).** Not touched. "Interoception" occurs only in
   Table 1, in van Heijst et al.'s words.
-- **THEORY warranted?** None filed. Its substantive claims are THEORY-057's
-  and THEORY-045's, already held from LIT-542. Incommensurability (C7) is a
+- **THEORY warranted?** None filed. Its substantive claims are [THEORY-057](../theory.d/THEORY-057.md)'s
+  and [THEORY-045](../theory.d/THEORY-045.md)'s, already held from [LIT-542](../literature.d/LIT-542.md). Incommensurability (C7) is a
   claim about two theories, argued and not shown. Suggested: add this
-  reading as a source of THEORY-057.
+  reading as a source of [THEORY-057](../theory.d/THEORY-057.md).
 - No instruction for machine-learning practice; nothing for the anthology.
 
 ## Limitations
@@ -320,7 +320,7 @@ holds (LIT-554). It does not cite Seth.
   instance while its allostatic signals are held fixed, or the reverse,
   would bear on C2. None is proposed.
 - If regulation strategies belong to the typological picture, what is
-  reappraisal on the TCE? The 2017 paper's answer (NOTE-434, C8) is
+  reappraisal on the TCE? The 2017 paper's answer ([NOTE-434](NOTE-434.md), C8) is
   that it works through the same predictions. This reply does not say.
 - How is a population of instances to be tested against a family of
   prototypes, so that the two theories are not merely redescribed?
