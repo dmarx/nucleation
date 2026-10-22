@@ -30,15 +30,15 @@ source:
 answers:
 - QUESTION-tmpzje42
 summary: >-
-  Lee-Youngzie, Tsuchiya, Robinson, Dietz & Monti (2026), LIT-tmphb8p5,
-  read in full in NOTE-tmpfadjy. A hypothesis article with no data. It
+  Lee-Youngzie, Tsuchiya, Robinson, Dietz & Monti (2026), [LIT-tmphb8p5](../literature.d/LIT-tmphb8p5.md),
+  read in full in [NOTE-tmpfadjy](../notes.d/NOTE-tmpfadjy.md). A hypothesis article with no data. It
   proposes the presheaf and two readings of its failure, disunity for
   rivalry and context dependence for the Ebbinghaus illusion, without a
   criterion between them. It does not identify unity with a global
   section, since it assumes unity always holds. Its global section is
   measured data, its worked topology example is malformed, and by its own
   definition of gluing the rivalry case is not a sheaf failure. It answers
-  QUESTION-tmpzje42 only by showing that a sheaf failure need not be
+  [QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) only by showing that a sheaf failure need not be
   disunity.
 ---
 <!-- inactive-ok-file: CLAIM-tmpdga80 CLAIM-198 THEORY-063 — Proposed; claims and readings cited as open, nothing here rests on them -->
@@ -48,7 +48,7 @@ summary: >-
 ## Source
 
 Lee-Youngzie, Tsuchiya, Robinson, Dietz & Monti (2026), *Entropy* 28(6),
-615, LIT-tmphb8p5, read in full in NOTE-tmpfadjy from the PMC deposit of
+615, [LIT-tmphb8p5](../literature.d/LIT-tmphb8p5.md), read in full in [NOTE-tmpfadjy](../notes.d/NOTE-tmpfadjy.md) from the PMC deposit of
 the version of record: §4.1 (the framework), §4.1.5–4.1.6 (the two readings
 of failure), §5.2 and Appendix A. Locations are sections, since the copy
 read has no page numbers.
@@ -89,7 +89,7 @@ radius could be no different in rivalry than in fused viewing.
   phenomenology always possesses the phenomenal quality of unity", §1),
   and it counts a broad quale not fixed by its parts as unified (§5.2).
   What it formalizes as gluing is binding of narrow into broad qualia.
-  Against QUESTION-tmpzje42's first answer, this is a case in which a sheaf
+  Against [QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md)'s first answer, this is a case in which a sheaf
   failure is not disunity.
 - **Its global section is data, not an experience.** The term is reserved
   for "the coherent global data that results from a sheaf" (Definition
@@ -100,37 +100,37 @@ radius could be no different in rivalry than in fused viewing.
   (Definition A15). Rivalry is sections that disagree on the overlap, so
   the sheaf condition is not violated. Only the tribar example, a cycle of
   three with pairwise agreement, is a gluing obstruction, which is
-  CLAIM-153's shape.
+  [CLAIM-153](../claims.d/CLAIM-153.md)'s shape.
 - **The gluing condition, as defined, is thin.** Definition 1's
   restriction maps are functions on trials with an inequality on
   dissimilarities. Read so, the left and right restrictions of a trial are
   the same trial and always match. The test with content is the empirical
   consistency radius, which needs a definition of how a measured row
-  restricts that the paper does not give (NOTE-tmpfadjy, Key results).
+  restricts that the paper does not give ([NOTE-tmpfadjy](../notes.d/NOTE-tmpfadjy.md), Key results).
 - **The worked topology is malformed**, though repairable. Definition A7's
   example lists down-sets of a diamond order as the up-sets of a chain,
-  and omits the whole space (checked by script, NOTE-tmpfadjy).
+  and omits the whole space (checked by script, [NOTE-tmpfadjy](../notes.d/NOTE-tmpfadjy.md)).
 - **It does not reach beyond two regions of one modality at one moment**
   (§5.3.1), and it does not touch functional binding, which "can occur
   without conscious experience" (§1).
 
 ## Connections
 
-- **QUESTION-tmpzje42.** Answered in part, negatively for the first
+- **[QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md).** Answered in part, negatively for the first
   option: within this framework a sheaf failure can belong to one unified
   experience. The tribar is a presheaf of interpretations with no global
   section, placed by the paper "at the level of cognitive interpretation",
   and it is seen as one figure. Read against the question's cover of
   interpretive contexts, it is a worked case for A7's second answer. That
   reading is the record's.
-- **CLAIM-153, CLAIM-197, CLAIM-198.** The two-region examples are two-set
-  covers, where CLAIM-153 has every agreeing pair glue. What fails there is
+- **[CLAIM-153](../claims.d/CLAIM-153.md), [CLAIM-197](../claims.d/CLAIM-197.md), [CLAIM-198](../claims.d/CLAIM-198.md).** The two-region examples are two-set
+  covers, where [CLAIM-153](../claims.d/CLAIM-153.md) has every agreeing pair glue. What fails there is
   either agreement on the overlap (rivalry) or determination of the whole
-  by the parts (Figure 9). Neither is CLAIM-153's monodromy. The tribar is.
-- **CLAIM-tmpdga80.** No bearing on constitution: the framework starts from
+  by the parts (Figure 9). Neither is [CLAIM-153](../claims.d/CLAIM-153.md)'s monodromy. The tribar is.
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** No bearing on constitution: the framework starts from
   phenomenal structure and measures it by report.
-- **THEORY-063.** A rival proposal for the same phenomenal unity: a single
+- **[THEORY-063](THEORY-063.md).** A rival proposal for the same phenomenal unity: a single
   functional cluster against a condition on measured qualia data.
-- **LIT-016.** The sheaf account of contextuality from which the tribar's
+- **[LIT-016](../literature.d/LIT-016.md).** The sheaf account of contextuality from which the tribar's
   reading comes. There the global section is a joint assignment of outcomes
   to all measurements, which is the sense the tribar uses.

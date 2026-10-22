@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmp220h1) from the publisher''s open-access PDF (Springer, CC BY-NC-ND 4.0); worth reading as a clear derivation of Dennett''s real patterns into predictive processing, through minimum description length and the complexity–accuracy split of free energy, and as a short diagnosis of the realism dispute about selves: a self-model compresses self-generated regularities by positing one common cause, so the self is real as a pattern and not as a substance, and the dispute is over criteria. The structural, Kantian realism it draws (the manifest image is veridical in a matched vat) needs manifest content to be wholly structural, which it assumes. It says nothing about consciousness, and it does not say a self-model exaggerates the self''s unity.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md)) from the publisher''s open-access PDF (Springer, CC BY-NC-ND 4.0); worth reading as a clear derivation of Dennett''s real patterns into predictive processing, through minimum description length and the complexity–accuracy split of free energy, and as a short diagnosis of the realism dispute about selves: a self-model compresses self-generated regularities by positing one common cause, so the self is real as a pattern and not as a substance, and the dispute is over criteria. The structural, Kantian realism it draws (the manifest image is veridical in a matched vat) needs manifest content to be wholly structural, which it assumes. It says nothing about consciousness, and it does not say a self-model exaggerates the self''s unity.'
 title: 'Real patterns, the predictive mind, and the cognitive construction of the manifest image'
 version: 2
 history:
@@ -65,7 +65,7 @@ Gładziejewski, P. (2025). Real patterns, the predictive mind, and the cognitive
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp220h1.*
+*From the reading, [NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md).*
 
 - **Inference is compression.** With optimal codes, maximising the
   posterior is minimising total description length, so "Bayesian inference
@@ -97,21 +97,21 @@ Gładziejewski, P. (2025). Real patterns, the predictive mind, and the cognitive
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper for joining real patterns to predictive processing and compression, and for its treatment of the self as a real pattern whose representation can exaggerate its unity. Bears on CLAIM-355.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper for joining real patterns to predictive processing and compression, and for its treatment of the self as a real pattern whose representation can exaggerate its unity. Bears on [CLAIM-355](../claims.d/CLAIM-355.md).
 
 **Correction from the reading.** The first half of that description is
 right. The second is not in the paper. It never says the self's
 representation exaggerates its unity. It says the self-model compresses by
 positing one common cause, and that whether the result is a real self
-depends on which criterion of reality one adopts. For CLAIM-355 this cuts
+depends on which criterion of reality one adopts. For [CLAIM-355](../claims.d/CLAIM-355.md) this cuts
 both ways. It supports the claim's split between a real pattern and a
 constructed single owner. But it makes the single owner a lossy
 compression rather than a misdescription, which is the Drayson objection
-CLAIM-355 already names. Its one case of a single-self model going wrong
+[CLAIM-355](../claims.d/CLAIM-355.md) already names. Its one case of a single-self model going wrong
 is footnote 10's dissociation. The paper does not mention consciousness,
 illusion or collectives.
 
-Filed from this work on 2026-10-22: THEORY-tmphhvaa (the self as a
+Filed from this work on 2026-10-22: [THEORY-tmphhvaa](../theory.d/THEORY-tmphhvaa.md) (the self as a
 compression pattern; the realism dispute as one of criteria) and
-THEORY-tmpru19x (manifest content as structure in sensory data, veridical
+[THEORY-tmpru19x](../theory.d/THEORY-tmpru19x.md) (manifest content as structure in sensory data, veridical
 in matched streams).

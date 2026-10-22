@@ -162,7 +162,7 @@ restriction maps).
   axiom has nothing to glue and is not violated. Rivalry as described is a
   non-matching family, not a failure of the sheaf condition. The tribar,
   a cycle of three junctions with pairwise agreement and no whole, is a
-  genuine gluing obstruction of the kind CLAIM-153 describes.
+  genuine gluing obstruction of the kind [CLAIM-153](../claims.d/CLAIM-153.md) describes.
 - **Sheaf failure, second reading: context dependence (§4.1.6, Figure 9).**
   Narrow qualia measured with each grating shown alone may fail to glue
   into the measured broad quale. That failure means "interactions between
@@ -230,15 +230,15 @@ consistency radius (Robinson is a co-author). Its tribar example cites
 Penrose's cohomology of impossible figures (ref. 132), Abramsky's
 "Contextuality: At the Borders" (ref. 133) and Abramsky & Brandenburger
 (ref. 134). Of these, the record holds Abramsky & Brandenburger, the
-sheaf-theoretic account of contextuality (LIT-016, NOTE-016), and
-the IIT 3.0 statement (LIT-445). It registers unread Binding and the
-Phenomenal Unity of Consciousness (LIT-1208), neurophenomenal structuralism
-(LIT-tmp3sgbg), and two arguments against structuralism about consciousness
-(LIT-tmpac9l2, LIT-tmp86j0r).
+sheaf-theoretic account of contextuality ([LIT-016](../literature.d/LIT-016.md), [NOTE-016](NOTE-016.md)), and
+the IIT 3.0 statement ([LIT-445](../literature.d/LIT-445.md)). It registers unread Binding and the
+Phenomenal Unity of Consciousness ([LIT-1208](../literature.d/LIT-1208.md)), neurophenomenal structuralism
+([LIT-tmp3sgbg](../literature.d/LIT-tmp3sgbg.md)), and two arguments against structuralism about consciousness
+([LIT-tmpac9l2](../literature.d/LIT-tmpac9l2.md), [LIT-tmp86j0r](../literature.d/LIT-tmp86j0r.md)).
 
 ## Bearing on the record
 
-- **QUESTION-tmpzje42 (is unity a global section).** The record filed this
+- **[QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) (is unity a global section).** The record filed this
   question after the exchange cited the paper as a sheaf-theoretic account
   of global unity. What the paper establishes, exactly:
   - It does **not** identify the unity of an experience with the
@@ -264,36 +264,36 @@ Phenomenal Unity of Consciousness (LIT-1208), neurophenomenal structuralism
   as one figure. Read with the record's cover of interpretive contexts,
   that is an interpretive gluing failure inside one experience. The paper
   does not draw this conclusion; the inference is the record's.
-- **CLAIM-153, CLAIM-197, CLAIM-198.** The paper's two-region examples
-  (hemifields, monocular fields) are two-set covers. Under CLAIM-153, two
+- **[CLAIM-153](../claims.d/CLAIM-153.md), [CLAIM-197](../claims.d/CLAIM-197.md), [CLAIM-198](../claims.d/CLAIM-198.md).** The paper's two-region examples
+  (hemifields, monocular fields) are two-set covers. Under [CLAIM-153](../claims.d/CLAIM-153.md), two
   contexts that agree on their overlap always glue, so on a two-set cover
   only two things can go wrong. The sections can disagree on the overlap,
   which is the rivalry case and not a gluing failure. Or the measured
   whole can differ from the glued one, which is the Figure 9 case and a
   failure of the parts to determine the whole, a different property from
-  CLAIM-153's monodromy. Only the tribar, a three-junction cycle, has
-  CLAIM-153's shape. This supports CLAIM-153's point that a genuine
-  obstruction needs a cycle. CLAIM-143's requirement, that the
+  [CLAIM-153](../claims.d/CLAIM-153.md)'s monodromy. Only the tribar, a three-junction cycle, has
+  [CLAIM-153](../claims.d/CLAIM-153.md)'s shape. This supports [CLAIM-153](../claims.d/CLAIM-153.md)'s point that a genuine
+  obstruction needs a cycle. [CLAIM-143](../claims.d/CLAIM-143.md)'s requirement, that the
   correspondence between contexts be fixed independently, is met here by
   design: the overlap is the meridian, fixed by fixation, before any
   judgement is taken.
-- **CLAIM-tmpdga80 and TERM-tmpe36gg.** The paper begins from phenomenal
-  structure, sense 3 of TERM-tmpe36gg, and measures it by report. It
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) and [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).** The paper begins from phenomenal
+  structure, sense 3 of [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md), and measures it by report. It
   does not derive phenomenality from organization, and it bears on the
   constitutive claim only by keeping phenomenal binding apart from
   functional binding, which "can occur without conscious experience"
-  (§1). That is CLAIM-tmp1lvwf's point made about binding: functional
+  (§1). That is [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md)'s point made about binding: functional
   integration does not suffice for phenomenal unity.
-- **QUESTION-048.** Every measure in the framework is a similarity
+- **[QUESTION-048](../questions.d/QUESTION-048.md).** Every measure in the framework is a similarity
   judgement, a report. The paper says so and lists the ways task demands
   change the structure obtained (§5.3.2). It adds a kind of report
   evidence, but no route around report.
-- **THEORY-063 (Metzinger's unity).** Metzinger's unity is a single
+- **[THEORY-063](../theory.d/THEORY-063.md) (Metzinger's unity).** Metzinger's unity is a single
   functional cluster, a dynamic criterion. This paper's is a condition on
   measured qualia data. They are different proposals for the same unity
-  (ADR-024's phenomenal unity), and neither is tested.
+  ([ADR-024](../decisions.d/ADR-024.md)'s phenomenal unity), and neither is tested.
 - **THEORY warranted.** No THEORY in the record states the proposal. One
-  is filed, THEORY-tmpo2jzk, at the strength above: a framework that
+  is filed, [THEORY-tmpo2jzk](../theory.d/THEORY-tmpo2jzk.md), at the strength above: a framework that
   proposes binding as gluing of measured qualia data, with its two
   readings of failure and their unresolved difference.
 - No instruction for machine-learning practice.
@@ -327,6 +327,6 @@ Phenomenal Unity of Consciousness (LIT-1208), neurophenomenal structuralism
   not only items, would give the gluing condition content.
 - Is there a phenomenal case of the tribar's shape, three or more parts
   pairwise compatible with no whole, and is it experienced as one? That
-  would bear directly on QUESTION-tmpzje42.
+  would bear directly on [QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md).
 - Does attention to a part in fact never decrease dissimilarity? It is a
   measurable claim, and the framework's restriction maps depend on it.

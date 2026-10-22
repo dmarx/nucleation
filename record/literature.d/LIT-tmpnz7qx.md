@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmpzibsl) from the publisher''s PDF (eNeuro, CC BY 4.0); worth reading as the shortest statement of the attention schema theory as an illusionist framework. Its argument: every claim to be conscious needs an internal model, every model is schematic, so the reported "intangible essence" is a caricature of a real process. It adds "Arrow B", the demand that a theory explain how a feeling gets encoded for report, and it sets IIT and the global workspace as illusionist variants converging on "deep selective processing". An essay with no new data and a polemical tone. Its "small" illusionism keeps the process real but still denies the phenomenal essence, so it is Frankish''s strong illusionism with a named target, not a weak illusionism.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmpzibsl](../notes.d/NOTE-tmpzibsl.md)) from the publisher''s PDF (eNeuro, CC BY 4.0); worth reading as the shortest statement of the attention schema theory as an illusionist framework. Its argument: every claim to be conscious needs an internal model, every model is schematic, so the reported "intangible essence" is a caricature of a real process. It adds "Arrow B", the demand that a theory explain how a feeling gets encoded for report, and it sets IIT and the global workspace as illusionist variants converging on "deep selective processing". An essay with no new data and a polemical tone. Its "small" illusionism keeps the process real but still denies the phenomenal essence, so it is Frankish''s strong illusionism with a named target, not a weak illusionism.'
 title: 'Illusionism Big and Small: Some Options for Explaining Consciousness'
 version: 2
 history:
@@ -59,7 +59,7 @@ Graziano, M. S. A. (2024). Illusionism Big and Small: Some Options for Explainin
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpzibsl.*
+*From the reading, [NOTE-tmpzibsl](../notes.d/NOTE-tmpzibsl.md).*
 
 - **The chain.** An object (Item 1) is encoded by an automatic model (Item
   2), read by higher cognition (Item 3) and reported (Item 4). The claim "I
@@ -91,7 +91,7 @@ Graziano, M. S. A. (2024). Illusionism Big and Small: Some Options for Explainin
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper to show that illusionism need not make consciousness wholly fictional. An illusionist layer, the attention schema, can sit on a workspace or integrated-information account, so that real organization is misdescribed by a simplified self-model. The record already holds Frankish's statement of illusionism, LIT-458, and Chalmers's meta-problem, LIT-425. Bears on CLAIM-355, THEORY-633 and THEORY-577.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper to show that illusionism need not make consciousness wholly fictional. An illusionist layer, the attention schema, can sit on a workspace or integrated-information account, so that real organization is misdescribed by a simplified self-model. The record already holds Frankish's statement of illusionism, [LIT-458](LIT-458.md), and Chalmers's meta-problem, [LIT-425](LIT-425.md). Bears on [CLAIM-355](../claims.d/CLAIM-355.md), [THEORY-633](../theory.d/THEORY-633.md) and [THEORY-577](../theory.d/THEORY-577.md).
 
 **Qualification from the reading.** The description is accurate about the
 layer. It needs one qualification. What is not fictional, for Graziano, is
@@ -101,10 +101,10 @@ distorted construct" (p. 7). His "small" illusionism is therefore not a weak
 illusionism in Frankish's sense, which keeps phenomenal properties. It is
 Frankish's strong illusionism with a named target. Graziano's "hard"
 illusionism, a model of nothing, is further out than Frankish. So the paper
-supports CLAIM-355's split between real organization and represented
-owner, but extends the illusion to phenomenality, which CLAIM-355 leaves
-open. Arrow B is THEORY-577's constraint, stated independently (the paper
+supports [CLAIM-355](../claims.d/CLAIM-355.md)'s split between real organization and represented
+owner, but extends the illusion to phenomenality, which [CLAIM-355](../claims.d/CLAIM-355.md) leaves
+open. Arrow B is [THEORY-577](../theory.d/THEORY-577.md)'s constraint, stated independently (the paper
 does not cite Chalmers 2018).
 
-Filed from this work on 2026-10-22: THEORY-tmpncy2z, deep illusionism and
+Filed from this work on 2026-10-22: [THEORY-tmpncy2z](../theory.d/THEORY-tmpncy2z.md), deep illusionism and
 Arrow B.

@@ -198,19 +198,19 @@ energy and its description-length reading (Hinton & Zemel; Graves), on
 Chalmers's structuralism and veridicalism (2018, 2022), on Hohwy & Michael
 (2017) and Letheby & Gerrans (2017) for the self, on Parfit for identity,
 and on Bird (2023) and Petersen (2019) for composition. The record holds
-Real Patterns (LIT-220, NOTE-190) and Li and Vitányi's MDL and Bayes
-condition (LIT-225, NOTE-801). It does not hold Chalmers's structuralism,
+Real Patterns ([LIT-220](../literature.d/LIT-220.md), [NOTE-190](NOTE-190.md)) and Li and Vitányi's MDL and Bayes
+condition ([LIT-225](../literature.d/LIT-225.md), [NOTE-801](NOTE-801.md)). It does not hold Chalmers's structuralism,
 Hohwy & Michael, Letheby & Gerrans, or Bird.
 
 ## Bearing on the record
 
-- **CLAIM-355 (real binding, constructed owner).** The exchange cited the
+- **[CLAIM-355](../claims.d/CLAIM-355.md) (real binding, constructed owner).** The exchange cited the
   paper "for its treatment of the self as a real pattern whose
   representation can exaggerate its unity". The first half is right. The
   second is not in the paper. It never says the representation
   exaggerates. It says the self-model compresses by "positing a single,
   stable entity as the common cause" (p. 16), and that whether this
-  makes a real self depends on the criterion. Read against CLAIM-355:
+  makes a real self depends on the criterion. Read against [CLAIM-355](../claims.d/CLAIM-355.md):
   - *It supports* the claim's structure. The pattern is real; the single
     substantial owner is not something the pattern supplies (C5, C6).
     Footnote 10's self-constitution through active inference is A26's
@@ -219,29 +219,29 @@ Hohwy & Michael, Letheby & Gerrans, or Bird.
   - *It cuts against* the word "illusion". On this account the single
     common cause is a lossy compression, not a false report, so a
     self-model positing one owner need not misdescribe anything. That is
-    Drayson's objection as CLAIM-355 states it, and the paper's
+    Drayson's objection as [CLAIM-355](../claims.d/CLAIM-355.md) states it, and the paper's
     "apparent" conflict (p. 17) puts the self's reality at the choice
-    of criterion. CLAIM-355 survives only where a misdescription can be
+    of criterion. [CLAIM-355](../claims.d/CLAIM-355.md) survives only where a misdescription can be
     shown, as it says itself. The paper offers one candidate: dissociative
     states in which one self-model compresses worse than two (footnote
     10). That is where a single-owner model would be not just lossy but
     wrong.
   - Its self is an individual's, and it says nothing about distributed
     agents or collectives.
-- **THEORY-563 (consciousness as a real pattern, Taylor).** Same
+- **[THEORY-563](../theory.d/THEORY-563.md) (consciousness as a real pattern, Taylor).** Same
   compression criterion, applied to selves and objects, not to
   consciousness. This paper does not say what makes a pattern a conscious
   one, any more than Taylor's does.
-- **THEORY-036 (the real-pattern criterion admits too much).** The paper
-  meets the worry in the way THEORY-036 predicts, by later additions: the
+- **[THEORY-036](../theory.d/THEORY-036.md) (the real-pattern criterion admits too much).** The paper
+  meets the worry in the way [THEORY-036](../theory.d/THEORY-036.md) predicts, by later additions: the
   agent's pragmatic trade-off (footnotes 5, 6) and Bird's maximality and
-  non-divisibility. So it is a case for THEORY-036, not against it.
-- **THEORY-064, THEORY-691 (the self as model, the self as abstractum).**
+  non-divisibility. So it is a case for [THEORY-036](../theory.d/THEORY-036.md), not against it.
+- **[THEORY-064](../theory.d/THEORY-064.md), [THEORY-691](../theory.d/THEORY-691.md) (the self as model, the self as abstractum).**
   It gives both a mechanism, compression of endogenous signals by a
   posited common cause, and sides with neither on whether such a self is
   real. It calls the choice a matter of criteria.
-- **CLAIM-tmpjw8ev (grounding as a relation).** It cuts in an instructive
-  direction. CLAIM-tmpjw8ev calls an envatted brain's tree experience
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) (grounding as a relation).** It cuts in an instructive
+  direction. [CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) calls an envatted brain's tree experience
   "ungrounded with respect to the tree". The paper's veridicalism says the
   envatted door is "as real" as yours, because structure in matched
   sensory streams is the same. Both can be true, since they differ on the
@@ -250,16 +250,16 @@ Hohwy & Michael, Letheby & Gerrans, or Bird.
   supports "ungrounded ≠ unconstrained". The signal constrains the model
   from outside "unless the model is used to run fully off-line
   simulations, as may be the case in imagery or dreams" (p. 13).
-- **CLAIM-tmpdga80 (experience constituted by interpretive
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (experience constituted by interpretive
   organization).** Indirect. The paper says the manifest image is
   constructed by inference, A3's thesis A, construction, and it says
   nothing about whether the construction is experience, thesis B. It
   uses "conscious experience" only to locate the manifest image (p. 3).
-- **THEORY-095 (Inverted Earth).** The veridicalism is a structural
-  internalism about manifest content, the side THEORY-095 leaves open.
-- **THEORYs warranted.** Two are filed: THEORY-tmphhvaa (the self as a
+- **[THEORY-095](../theory.d/THEORY-095.md) (Inverted Earth).** The veridicalism is a structural
+  internalism about manifest content, the side [THEORY-095](../theory.d/THEORY-095.md) leaves open.
+- **THEORYs warranted.** Two are filed: [THEORY-tmphhvaa](../theory.d/THEORY-tmphhvaa.md) (the self as a
   compression pattern, and the dispute as one of criteria), and
-  THEORY-tmpru19x (manifest content as structure in sensory data,
+  [THEORY-tmpru19x](../theory.d/THEORY-tmpru19x.md) (manifest content as structure in sensory data,
   equally veridical in matched streams).
 - No instruction for machine-learning practice; it uses language models
   only as an example of compression (p. 4).
@@ -291,4 +291,4 @@ Hohwy & Michael, Letheby & Gerrans, or Bird.
   twin's door is real in structure but not in quality?
 - Does the projective end of footnote 9 (cuteness) include the felt unity
   of the self? If so, the self-model would be partly projection, which is
-  where an illusion in CLAIM-355's sense would sit.
+  where an illusion in [CLAIM-355](../claims.d/CLAIM-355.md)'s sense would sit.

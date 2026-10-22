@@ -25,7 +25,7 @@ date: '2026-10-22'
 source:
 - LIT-tmpufhcl
 summary: >-
-  Gładziejewski (2025), LIT-tmpufhcl, read in full in NOTE-tmp220h1, §§2–3,
+  Gładziejewski (2025), [LIT-tmpufhcl](../literature.d/LIT-tmpufhcl.md), read in full in [NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md), §§2–3,
   drawing on Chalmers's structuralism and veridicalism (2018, 2022), which
   the record does not hold. The cognitive half rests on a realist reading
   of predictive processing and on an analogy between free energy and
@@ -39,8 +39,8 @@ summary: >-
 
 ## Source
 
-Gładziejewski (2025), *Synthese* 206:225, LIT-tmpufhcl, read in full in
-NOTE-tmp220h1: §2 (pp. 4–10), §3 (pp. 11–15) and footnotes 2, 4, 5, 6 and
+Gładziejewski (2025), *Synthese* 206:225, [LIT-tmpufhcl](../literature.d/LIT-tmpufhcl.md), read in full in
+[NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md): §2 (pp. 4–10), §3 (pp. 11–15) and footnotes 2, 4, 5, 6 and
 9.
 
 ## What was actually shown
@@ -84,20 +84,20 @@ NOTE-tmp220h1: §2 (pp. 4–10), §3 (pp. 11–15) and footnotes 2, 4, 5, 6 and
 
 ## Connections
 
-- **CLAIM-tmpjw8ev.** Grounding is a relation, relative to a referent. On
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md).** Grounding is a relation, relative to a referent. On
   this account the envatted door is grounded as a structural role,
   constrained by an independent source, and ungrounded as to its
   realizer. That is one way to state the claim's point that the envatted
   experience is ungrounded "with respect to the tree" while grounded in
   the apparatus. It supports the claim's "Ungrounded ≠ Unconstrained": the
   signal constrains the model except in off-line simulation. Epistemic
-  grounding (CLAIM-342) is not addressed.
-- **THEORY-095.** Block's Inverted Earth keeps phenomenal character fixed
+  grounding ([CLAIM-342](../claims.d/CLAIM-342.md)) is not addressed.
+- **[THEORY-095](THEORY-095.md).** Block's Inverted Earth keeps phenomenal character fixed
   while externally individuated content inverts. A structural internalism
-  about manifest content is on the side THEORY-095 leaves open. If colour
+  about manifest content is on the side [THEORY-095](THEORY-095.md) leaves open. If colour
   character is manifest content and not structure, the veridicalism has a
   counterexample.
-- **THEORY-036.** The real-pattern criterion needs additions to do
+- **[THEORY-036](THEORY-036.md).** The real-pattern criterion needs additions to do
   ontological work. Here they are the agent's pragmatic trade-off and, for
   objects, Bird's maximality and non-divisibility.
-- **THEORY-tmphhvaa.** The self as one of the patterns.
+- **[THEORY-tmphhvaa](THEORY-tmphhvaa.md).** The self as one of the patterns.
