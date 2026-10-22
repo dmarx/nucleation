@@ -1,0 +1,188 @@
+---
+status: Read
+paper: 'LIT-1387'
+title: 'McFadyen et al. — Doorways do not always cause forgetting'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the publisher's text in PubMed Central
+    (PMC7938580), fetched as Europe PMC full-text JATS XML and converted to
+    text by script. BMC Psychology 9: 41, published 8 March 2021, CC BY 4.0.
+    Read: the abstract, background, all four experiments' methods and
+    results, Table 1, the captions of Figures 1–5, the discussion,
+    conclusions and declarations. The reference list was skimmed. The
+    figures themselves were not viewed. The XML has no page breaks, so
+    references are to sections. The OSF data (osf.io/6udbt) were not used.
+date: '2026-10-22'
+summary: >-
+  Four conceptual replications from an independent lab. In passive,
+  head-mounted virtual reality, doorways did not lower hits for carried or
+  set-down objects; under a counting load they raised false alarms to
+  recombined probes. Watching or walking a curtained hallway did not change
+  memory for a 16-item grid. The nulls are informative but not direct
+  failures to replicate: movement was passive, and Experiments 3 and 4 used
+  a different memory task.
+---
+<!-- inactive-ok-file: CLAIM-421 THEORY-tmpiwyd2 THEORY-tmpg9wtv — Proposed; claims and accounts this reading bears on, named, not leaned on -->
+
+# NOTE-tmph147i: McFadyen et al. — Doorways do not always cause forgetting
+
+## Contribution
+
+The first multi-experiment attempt outside the originating lab cited in the
+record. Experiments 1 and 2 rebuild the Radvansky paradigm in head-mounted
+virtual reality with identical rooms, a door placed unpredictably on the
+left or right of each room, and 30 shift and 30 no-shift transitions per
+block. Experiments 3 and 4 move to a real hallway divided by curtains. In
+the authors' words: "Across this series of experiments, we observed no
+significant effect of doorways on forgetting" (Abstract, Results).
+
+## Key insight
+
+The effect is not robust to small changes of paradigm, and where a doorway
+mattered here it showed as confusion rather than loss: "the reduction in d’
+after a shift was predominantly due to there being a higher false alarm
+rate for negative probes, rather than a reduced hit rate for associated and
+dissociated probes" (Results, Experiment 2). "Thus, under working memory
+load, memory was more susceptible to interference after moving through
+doorways" (Abstract, Results).
+
+## Assumptions
+
+- **Conceptual replication.** The design keeps the original's probe logic
+  (colour–shape names for the carried object, the set-down object, or a
+  recombination) but changes immersion (headset), movement (passive: the
+  participant is moved, seated), room appearance (all identical) and trial
+  balance.
+- **Identical rooms isolate the doorway.** "Any forgetting could only be
+  attributed to boundaries rather than salient changes in context or visual
+  processing" (Experiments 1 and 2, Aim).
+- **A power analysis** from a pooled prior effect of d = 0.66 called for 27
+  participants (Methods, Participants). Bayes factors (JASP, default Cauchy
+  prior) are used to support nulls.
+- **Curtains make event boundaries** in Experiments 3 and 4, by analogy
+  with an imagined-navigation study (Lawrence & Peterson 2016).
+
+## Key results
+
+- **Experiment 1: VR, no load** (40 recruited, 9 stopped for motion
+  sickness, 2 excluded; N = 29). Hits about 95% in every cell; false alarms
+  about 8% (Table 1). No effect of shift on d′ (p = .354) or bias (p = .720);
+  Bayes factors for no shift effect 3.87 (associated) and 3.59
+  (dissociated). Accuracy was at ceiling; among the lower-performing half
+  (N = 14) still no effect, though the null for dissociated probes was
+  inconclusive (BF01 = 1.77). Responses were faster to associated than
+  dissociated probes (1.689 against 1.813 s), so the associated/dissociated
+  effect replicated.
+- **Experiment 2: VR, counting backwards aloud during movement** (63
+  recruited, 14 motion sickness, 4 excluded; N = 45). d′ lower after a
+  shift (1.315 against 1.569), F(1,43) = 8.37, p = .006, and a bias toward
+  "yes" (p = .004). Sign tests: the shift effect was significant only for
+  negative probes (33 of 45 participants worse after a shift, p < .001,
+  BF10 = 68.6), not for associated (p = .136, BF01 = 4.32) or dissociated
+  (p = 1, BF01 = 6.12) probes. No response-time effect of shift.
+- **Experiment 3: video of a hallway walk** (N = 26) and **Experiment 4:
+  walking it** (N = 26), with two curtain boundaries crossed twice, a
+  counting task, and recall of the positions of 16 butterfly photographs
+  in a grid. No shift effect: mean differences 0.41% and 0.40%, BF10 = 0.281
+  and 0.290. In Experiment 4 accuracy was higher in whichever condition came
+  first. About 64% of participants said the shift condition felt harder.
+- **On earlier studies.** Hit rates of 80–99% with few, unbalanced trials
+  ("6 shift trials and 12 no shift trials per probe" in Pettijohn &
+  Radvansky's environmental-effects study) mean a 5–10% difference is one or
+  two trials: "Behavioural patterns generated from few observations are
+  susceptible to spurious artefacts, especially when the same experimental
+  procedure is used for all participants" (Discussion).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Passive VR movement through identical rooms with a door does not lower recognition hits for carried or set-down objects | moderate (Bayes factors 3–6 for the null) | Experiments 1 and 2 |
+| C2 | Under a concurrent counting load, a doorway raises false alarms to recombined probes and lowers d′ | moderate, single experiment | Experiment 2 |
+| C3 | A curtained boundary, watched or walked, does not affect memory for a spatial arrangement of 16 items | moderate as a null for that task | Experiments 3 and 4 |
+| C4 | The doorway effect is not robust to small changes in paradigm | moderate as stated; the changes are several at once | the four experiments against the prior literature |
+| C5 | Active navigation and visual context change probably augment the effect | weak: speculation | Discussion, citing Pettijohn & Radvansky 2018 on passive interaction halving the effect |
+
+## Concepts
+
+- **Location updating effect / doorway effect / event horizon effect**:
+  three names for one finding, per the Background.
+- **Hits and false alarms; d′ and C**: signal-detection measures replacing
+  the original error rates; a negative probe recombines the colour of one
+  remembered object with the shape of the other.
+- **Event boundary**: here a door in a virtual room, or a curtain in a
+  hallway.
+
+## Connections
+
+It cites the whole doorway series from the Radvansky lab ([LIT-1392](../literature.d/LIT-1392.md),
+[LIT-1384](../literature.d/LIT-1384.md), [LIT-1385](../literature.d/LIT-1385.md) and five others) and two independent positive studies
+not held here: Lawrence & Peterson (2016, imagined walking) and Seel et al.
+(2019, recall versus familiarity). It describes [LIT-1384](../literature.d/LIT-1384.md) as showing that
+returning to the original location "impairs memory further", which that
+paper does not report (return was no different from shift). For the
+mechanism it cites the event horizon model and Radvansky & Zacks (2017);
+it does not cite Zacks et al. 2007 ([LIT-1382](../literature.d/LIT-1382.md)).
+
+## Bearing on the record
+
+- **[CASE-136](../cases.d/CASE-136.md).** The case's summary of this paper ("found no significant
+  doorway effect; under load, false alarms to mismatched probes rose") is
+  accurate to the abstract. Three qualifications belong in it:
+  - Experiment 2 did find a significant doorway effect on d′ and on bias.
+    It was not forgetting in the original's sense (fewer hits), but more
+    confusion.
+  - These are conceptual, not direct, replications. Experiments 1 and 2
+    moved participants passively; Experiments 3 and 4 tested a different
+    memory (spatial arrangement), and the authors offer that and the
+    curtains as possible reasons for the null.
+  - The record's view of the replication record is thin. The case's title
+    says "some replications find no effect". This paper is the only
+    non-replication the record holds, and it is cited against a literature
+    that also has independent positive studies (Lawrence & Peterson 2016;
+    Seel et al. 2019) the record does not hold. Fairly put: the effect is
+    well replicated within one lab and its paradigm, mixed outside it, and
+    at least sensitive to passivity, load and boundary salience.
+- **[CLAIM-421](../claims.d/CLAIM-421.md).** Its defeater already allows the doorway case to fall
+  without harm to the claim, and the case's "What it does not show" says
+  the effect is not shown robust. This paper bears that out. Its one
+  positive finding, interference under load, fits the competition account
+  of [LIT-1385](../literature.d/LIT-1385.md) better than the deactivation account [CLAIM-421](../claims.d/CLAIM-421.md) attaches to
+  the case. Increased false alarms mean the two remembered objects became
+  harder to tell apart, not that one became unavailable. That is the
+  authors' reading too ("sufficient cognitive interference in the memory
+  system to effectively reduce the discriminability across encoded
+  objects", Discussion).
+- **Proposed [THEORY-tmpiwyd2](../theory.d/THEORY-tmpiwyd2.md)** cites this paper as its main evidence on the
+  limits of the effect.
+- **[THEORY-tmpg9wtv](../theory.d/THEORY-tmpg9wtv.md) (event segmentation).** The Background puts the puzzle
+  that matters for a prediction-error account: with all events so similar,
+  "it seems somewhat surprising that the doorway effect is so robust across
+  the literature". If boundaries arise from prediction error, identical
+  rooms should produce weak ones. The authors' null in identical rooms is
+  consistent with that, though they do not test it.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- Movement in Experiments 1 and 2 was passive, which the authors
+  themselves say may weaken the effect. 23 of 103 VR participants stopped
+  for motion sickness.
+- Experiments 3 and 4 change both the boundary (curtains) and the memory
+  test (placing 16 photographs), so their null cannot be assigned to
+  either.
+- Experiment 1 was at ceiling. The lower-half analysis has N = 14.
+- Experiment 2's text gives N = 45 and its figure caption N = 40.
+- No preregistration is mentioned; the counting decrement was adjusted for
+  13 participants between blocks.
+
+## Open questions
+
+- Is the effect a product of active navigation and salient context change,
+  as the authors suspect? An independent test with active movement and
+  identical rooms against distinct rooms would say.
+- Do false alarms under load and fewer hits without it reflect one process
+  at two strengths, as the Conclusions suggest?

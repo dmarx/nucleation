@@ -1,0 +1,210 @@
+---
+status: Read
+paper: 'LIT-1386'
+title: 'Helmreich, Merritt & Wilhelm — The evolution of Crew Resource Management training'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the authors' manuscript, University of
+    Texas at Austin Human Factors Research Project 235, hosted by the
+    Federal Aviation Administration
+    (https://www.faa.gov/sites/faa.gov/files/crmhistory.pdf, 11 pp.; the
+    work was supported by FAA Grant 92-G-017, as its first footnote says).
+    Each page carries the journal citation, IJAP 9(1): 19–32. Unpaywall
+    and OpenAlex list no open copy; NTRS holds a citation record
+    (20040089231) without a file. The manuscript's own pagination is used
+    below; the journal's typesetting was not seen, so small differences in
+    wording from the published version are possible. Read: the whole
+    text, the 10 footnotes, Figures 1–2 and the references.
+date: '2026-10-22'
+summary: >-
+  A short history and argument. CRM began with a 1979 NASA workshop and
+  United's 1981 program, and passed through five "generations", from
+  managerial-style seminars to integration with technical training under
+  the FAA's AQP. Its effects are hard to validate (accident rates cannot
+  be used), acceptance of its concepts decays over time even with
+  recurrent training, and it exported poorly across cultures. The
+  authors propose error management (avoid, trap, mitigate) as a rationale
+  all pilots can accept. Command is mentioned only in passing.
+---
+<!-- inactive-ok-file: CLAIM-349 CLAIM-416 CLAIM-422 CLAIM-424 — Proposed; the exchange's claims this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-145 — Proposed; Argyris, named for comparison -->
+
+# NOTE-tmpqb7w3: Helmreich, Merritt & Wilhelm — The evolution of Crew Resource Management training
+
+## Contribution
+
+A review by the leading CRM research group of how airline CRM training
+changed between 1979 and the late 1990s, what is known of its effects,
+and why it should be re-founded on error management. It reports two
+findings from the group's own work as warnings: that acceptance of CRM
+concepts slips over time, and that CRM designed in the United States
+fits poorly in high power-distance cultures. It reports no new data;
+the evidence is cited, mostly from the authors' earlier studies.
+
+## Key insight
+
+CRM's purpose was always to manage error, and as the training spread and
+was proceduralized that purpose was lost. "It seems that in the process
+of teaching people how to work together we may have lost sight of why
+working together well is important" (p. 5). Hence the fifth generation:
+treat error as "ubiquitous and inevitable", and CRM behaviours as
+"error countermeasures with three lines of defense": avoid, trap,
+mitigate (p. 7).
+
+## Assumptions
+
+- Attitudes measured by questionnaire indicate the cognitive acceptance
+  of CRM, and those who reject CRM in attitude are "unlikely to follow its
+  precepts behaviorally" (p. 4).
+- Line audits under non-jeopardy conditions show practice better than
+  evaluation in the simulator, where crews know they are judged (p. 4).
+- Hofstede's dimensions of national culture (power distance,
+  individualism, uncertainty avoidance) predict how pilots receive CRM.
+- Reason's account of human error frames the fifth generation.
+
+## Key results
+
+- **Origins.** The roots "are usually traced back to a workshop,
+  Resource Management on the Flightdeck sponsored by the National
+  Aeronautics and Space Administration in 1979" (p. 1). "The first
+  comprehensive U.S. CRM program was initiated by United Airlines in
+  1981", modeled on Blake and Mouton's Managerial Grid (p. 2).
+- **United 173 as the motive.** The NTSB "had singled out the captain's
+  failure to accept input from junior crewmembers (a characteristic
+  sometimes referred to as the 'Wrong Stuff') and a lack of assertiveness
+  by the flight engineer as causal factors in a United Airlines crash in
+  1978" (p. 2). First-generation courses targeted "a lack of
+  assertiveness by juniors and authoritarian behavior by captains".
+- **Five generations.** First: individual managerial style, psychological
+  testing, games. Second (from 1986): "Crew" not "Cockpit", team
+  building, briefings, situation awareness. Third (early 1990s):
+  organizational culture, automation, other employee groups, "specialized
+  CRM training for new captains to focus on the leadership role that
+  accompanies command" (p. 3). Fourth: FAA's Advanced Qualification
+  Program (1990) integrates CRM into technical training and
+  proceduralizes it in checklists. Fifth: error management.
+- **Validation.** "The most obvious validation criterion, the accident
+  rate per million flights, cannot be used" (p. 4). Surrogates: line-audit
+  behaviour and attitudes, which change "in a positive direction". But
+  "the fact that crews can demonstrate effective crew coordination while
+  being assessed under jeopardy conditions does not mean that they
+  practice these concepts during normal line operations" (p. 4).
+- **Rejection and non-transfer.** A small subset of pilots rejects CRM in
+  every airline; remedial training "have not proved particularly
+  effective". Automation precepts are often not followed on the line.
+- **Decay.** "Acceptance of basic concepts may decay over time." The
+  group found "a slippage in acceptance of basic concepts, even with
+  recurrent training" (p. 5), shown for two airlines in Figure 1. Causes
+  are speculative: lack of management support, no reinforcement by
+  check airmen, dilution as training spread, and proceduralization that
+  "might also obscure the purpose of the behavior".
+- **Culture.** In high power-distance cultures "Exhortations to junior
+  crewmembers to be more assertive in questioning their captains may fall
+  on deaf ears" (p. 6).
+- **Error management.** Organizations "must communicate their formal
+  understanding that errors will occur, and should adopt a non-punitive
+  approach to error" (p. 7), with confidential reporting such as the
+  FAA's Aviation Safety Action Programs. Its effect "remains to be
+  evaluated empirically" (p. 8).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | CRM training in U.S. airlines evolved through five identifiable generations since the 1979 NASA workshop | moderate as history | the authors' account, citing program descriptions (pp. 1–3, 7) |
+| C2 | CRM's safety effect cannot be validated by accident rates; surrogate measures show changes in behaviour and attitudes | moderate | cited line audits and attitude surveys, mostly the authors' own (p. 4) |
+| C3 | Acceptance of CRM concepts decays over the years after training, even with recurrent training | weak to moderate | surveys at two airlines (Figure 1), cited from Helmreich & Taggart 1995; causes speculative (p. 5) |
+| C4 | CRM imported from the U.S. had less effect, and assertiveness training conflicts with high power-distance national cultures | moderate | cross-cultural survey work cited (Merritt 1996 and others) (pp. 5–6) |
+| C5 | Framing CRM as error management (avoid, trap, mitigate) will make it more acceptable across cultures and to its rejecters | weak: a proposal | argued; "remains to be evaluated empirically" (pp. 7–8) |
+
+## Concepts
+
+- **Generation (of CRM)**: a period's dominant content and focus of
+  training; the authors note a generation is "closer to that of the
+  Drosophila than the human".
+- **Error troika**: avoid error, trap incipient errors, mitigate the
+  consequences of untrapped errors (Figure 2).
+- **Proceduralizing CRM**: "formally mandating the practice of CRM
+  precepts", for instance as checklist items.
+- **Jeopardy / non-jeopardy**: assessment that can affect a pilot's
+  qualification, against observation that cannot.
+- **Drongos**: the authors' name, among others, for pilots who reject
+  CRM.
+
+## Connections
+
+It cites the NTSB report on United 173 ([LIT-1371](../literature.d/LIT-1371.md)), though its reference
+list gives the aircraft as a "Douglas DC-8-54"; the report says DC-8-61.
+It summarizes Helmreich & Foushee (1993) on earlier programs and
+Helmreich & Wilhelm (1991) on outcomes, and borrows its error framework
+from Reason (1990, 1997). ASRS is not mentioned; its confidential
+reporting example is the FAA's 1997 Aviation Safety Action Programs.
+
+## Bearing on the record
+
+- **[CASE-127](../cases.d/CASE-127.md) and [LIT-1386](../literature.d/LIT-1386.md)'s "Why this is here".** The record cites this
+  paper for CRM as "authority without abolishing command", keeping
+  "avenues of challenge" open while "preserving the capacity for decisive
+  action". Neither phrase is in the paper, and it makes no such argument.
+  A captain's command is mentioned once in the text, in the third
+  generation's training for new captains on "the leadership role that
+  accompanies command", and once as an attitude scale in Figure 1;
+  "authority" appears once, in "the absolute authority of leaders" of
+  high power-distance cultures. The paper's subject is error
+  management, the evolution of training and its decay. The idea the
+  exchange attributes to it is better sourced from the NTSB's
+  recommendation X-79-17 ("participative management for captains and
+  assertiveness training for other cockpit crewmembers", [NOTE-tmpoojls](NOTE-tmpoojls.md))
+  and from this paper's first-generation description ("a lack of
+  assertiveness by juniors and authoritarian behavior by captains"). The
+  LIT summary's last clause, "without abolishing the captain's command",
+  should be removed or marked as the exchange's.
+- **[CASE-127](../cases.d/CASE-127.md), "What it does not show".** Supported: the authors say
+  accident rates cannot validate CRM.
+- **[CLAIM-422](../claims.d/CLAIM-422.md) (act, procedure, maintained capacity).** The strongest
+  bearing. The paper reports that the capacity CRM trains decays even
+  while the procedure (recurrent training) continues, and suspects that
+  proceduralization itself can "obscure the purpose of the behavior". It
+  also separates the procedure from the capacity in measurement:
+  performance in an evaluated simulator session is not practice on the
+  line. That is the claim's distinction, made by the field's own
+  researchers, with data (weak: two airlines, attitudes only).
+- **[CLAIM-416](../claims.d/CLAIM-416.md) (success under a test as evidence).** The jeopardy point is
+  an instance: coordination shown when assessed is evidence relative to
+  that regime, not of line practice.
+- **[CLAIM-424](../claims.d/CLAIM-424.md).** The cultural finding bears on it: a reform that opens
+  routes of challenge depends on whether the culture lets them be used,
+  and in high power-distance cultures the same training "may fall on deaf
+  ears". The capacity to revise is not given by the procedure that
+  provides for it.
+- **[CLAIM-349](../claims.d/CLAIM-349.md).** First-generation CRM targeted exactly the gap between a
+  junior's information and its authority over the captain's action.
+- **[THEORY-145](../theory.d/THEORY-145.md) (espoused theory and theory in use).** Decay of accepted
+  concepts, and pilots who accept CRM in the classroom and do not follow
+  it on the line, are the training-level form of the gap.
+- **No THEORY filed.** The decay finding is substantive and the record
+  does not hold it, but this paper only reports it from earlier work in
+  one figure, for attitudes at two airlines; it does not establish it.
+  Helmreich & Taggart (1995) would be the source to read.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- A review with no new data; most cited evidence is from the authors'
+  group.
+- The decay evidence is attitudes at two airlines, with causes
+  speculative.
+- The fifth generation is a proposal whose effect "remains to be
+  evaluated".
+- The account is of U.S. commercial aviation; military CRM is excluded.
+- The manuscript was read, not the typeset article.
+
+## Open questions
+
+- Does decay in attitudes predict decay in line behaviour? The paper
+  assumes so and does not show it.
+- Does the error-management framing slow the decay? Continental's
+  program was to be the test.

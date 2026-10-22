@@ -1,0 +1,258 @@
+---
+status: Skimmed
+paper: 'LIT-1379'
+title: 'Cooley — Human nature and the social order'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Skimmed on 2026-10-22: five of twelve chapters read in full, from the
+    Project Gutenberg plain-text edition (eBook #75145, released 18 January
+    2025, produced from HathiTrust page images of the 1902 Scribner's first
+    edition, "Published, September, 1902"; public domain in the United
+    States, used under the Project Gutenberg licence). Read in full: the
+    table of contents and chapters I ("Society and the Individual"), III
+    ("Sociability and Personal Ideas"), V ("The Social Self—1. The Meaning
+    of 'I'"), VI ("The Social Self—2. Various Phases of 'I'") and VIII
+    ("Emulation"). Not read: chapters II, IV, VII and IX–XII, the
+    footnotes' bibliographic detail and the index. The Gutenberg text has
+    no page numbers in the body, so references are to chapters. It is the
+    1902 text; the revised edition of 1922, with Cooley's added
+    introduction, was not consulted.
+date: '2026-10-22'
+summary: >-
+  The looking-glass self is one large class of the social self, not its
+  definition: "I" is a feeling of appropriation attached to any idea, and
+  in the looking-glass kind its tone is set by an imagined judgement in an
+  imagined mind. The imagined others need not be living, present or
+  accurately pictured, and the group is realized in the mind through
+  imagined persons. Non-conformity driven by opposition is itself steered
+  by what others enjoin. An essay from observation and literature, with no
+  method that could fail.
+---
+<!-- inactive-ok-file: CLAIM-415 CLAIM-355 CLAIM-402 CLAIM-349 THEORY-242 — Proposed; the claims and accounts this reading bears on, named, not leaned on -->
+
+# NOTE-tmpjpdpb: Cooley — Human nature and the social order
+
+## Contribution
+
+A founding text of American social psychology. It argues that "society"
+and "individuals" are "collective and distributive aspects of the same
+thing" (ch. I), that the immediate social reality is the idea one person
+has of another (ch. III), and that the self of ordinary speech is a
+feeling of appropriation whose objects are formed in communication (ch.
+V). Within that it names "the reflected or looking-glass self" (ch. V),
+the source of the phrase the record cites, and then works through pride,
+vanity, honour, humility, resentment, withdrawal and conformity as
+phases of a self that lives in imagined other minds (chs. VI, VIII).
+
+## Key insight
+
+The other in whose eyes one sees oneself is always an imagined other.
+"So far as the study of immediate social relations is concerned the
+personal idea is the real person" (ch. III). The same holds of the
+self-idea's audience: "in imagination we perceive in another's mind some
+thought of our appearance, manners, aims, deeds, character, friends, and
+so on, and are variously affected by it" (ch. V). What moves us "is not
+the mere mechanical reflection of ourselves, but an imputed sentiment, the
+imagined effect of this reflection upon another's mind". So the audience
+that shapes a self is the person's construction, and can diverge from any
+real audience.
+
+## Assumptions
+
+- **Introspection, observation of the author's own two children, and
+  literature** are taken as evidence. No method is stated by which a claim
+  could be shown false.
+- **Self-feeling is an instinct**, "doubtless evolved in connection with
+  its important function in stimulating and unifying the special
+  activities of individuals" (ch. V), refined by communication into
+  sentiments.
+- **Persons are known only as ideas.** "I do not see how anyone can hold
+  that we know persons directly except as imaginative ideas in the mind"
+  (ch. III). Cooley says he does not deny "the independent reality of
+  persons", only that the personal idea is "the immediate social reality".
+- The book carries its time's assumptions about sex and race (for example
+  ch. V on women's dependence on "personal support and corroboration", ch.
+  VIII on "the intrinsic cantankerousness of the race"). They are part of
+  the text and not of its argument about the self.
+
+## Key results
+
+There are no results in the empirical sense. The theses, by chapter:
+
+- **Ch. I.** "A separate individual is an abstraction unknown to
+  experience, and so likewise is society when regarded as something apart
+  from individuals." The antithesis of society and individual is "false
+  and hollow". Innovation "is just as social as conformity".
+- **Ch. III.** Thought is "imaginary conversation"; "the interlocutor, who
+  is half of all thought and life, is drawn from the accessible
+  environment". "There is no separation between real and imaginary
+  persons." A group is realized in the mind through personal images:
+  "group sentiment, in so far as it is awakened by definite images, is
+  only a variety of personal sentiment"; public opinion "is sometimes
+  thought of as a vast impersonal force, like a great wind, though
+  ordinarily it is conceived simply as the opinion of particular persons".
+  A person aware of a nation or an epoch embraces "ideas or sentiments
+  which he attributes to his countrymen or contemporaries in their
+  collective aspect". Hence "the imaginations which people have of one
+  another are the _solid facts_ of society". "_Self and other do not exist
+  as mutually exclusive social facts_".
+- **Ch. V, the self.** "The social self is simply any idea, or system of
+  ideas, drawn from the communicative life, that the mind cherishes as its
+  own." It is not ordinarily the body. "There is no sense of 'I,' as in
+  pride or shame, without its correlative sense of you, or he, or they."
+- **Ch. V, the looking-glass self.** "In a very large and interesting class
+  of cases the social reference takes the form of a somewhat definite
+  imagination of how one's self ... appears in a particular mind". Three
+  elements: "the imagination of our appearance to the other person; the
+  imagination of his judgment of that appearance, and some sort of
+  self-feeling, such as pride or mortification." The other's weight
+  matters: "We always imagine, and in imagining share, the judgments of the
+  other mind."
+- **Ch. V, becoming what one is taken for.** "a sensitive man, in the
+  presence of an impressive personality, tends to become, for the time,
+  his interpretation of what the other thinks he is." Cooley calls it
+  "usually a temporary and somewhat superficial phenomenon" but "typical of
+  all ascendency". And: "Directly or indirectly the imagination of how we
+  appear to others is a controlling force in all normal minds."
+- **Ch. VI, stability.** Pride is a reflected self worked over "until it is
+  a steadfast portion of his thought". Vanity, by contrast, is
+  "becoming, so far as he can, what any flatterer says he is". The
+  self-respecting man "discriminates and selects", and independence of
+  opinion means only that one "can supply their places by imagination, can
+  hold on to some influences and reject others, choose his leaders,
+  individualize his conformity". "No one can permanently maintain a
+  standard of honor in his own mind if he does not conceive of some other
+  mind or minds as sharing and corroborating this standard." The audience
+  may be dead or ideal: "anyone that is at all real, that is imaginable, to
+  us, becomes a possible occasion of social self-feeling". Resentment is
+  the aggressive self's response "to imagined depreciation"; humility is
+  yielding to it.
+- **Ch. VI, the pathology of the imagined audience.** The man of peculiar
+  aims maintains his self-image by "cultivating in imagination the
+  approval of some higher tribunal"; if he becomes indifferent to his
+  neighbours "The image lacks verification and correction". Delusions of
+  persecution are "a like extravagant development of that jealousy
+  regarding what others are thinking of us". And "'queerness' is no sooner
+  perceived than it is multiplied by reflection from other minds."
+- **Ch. VIII, conformity.** Its ordinary motive is "a vague sense of the
+  depreciatory curiosity which one imagines that he will excite"; "His
+  social self-feeling is hurt by an unfavorable view of himself that he
+  attributes to others." Group standards "are enforced by the mere inertia
+  of the minds constituting the group", without "any deliberate purpose".
+- **Ch. VIII, non-conformity.** Its essence is "contrary suggestion or the
+  spirit of opposition": "if others are against him one feels sure they
+  _are_ his own." And "non-conformity may be regarded as a remoter
+  conformity", to an imagined group: "Our real environment consists of
+  those images which are most present to our thoughts". "opposition, by
+  itself, being sterile".
+
+## Claims
+
+Not filled: the note is Skimmed. The theses are listed by chapter above.
+None is supported by more than illustration.
+
+## Concepts
+
+- **Self-feeling, the "my-feeling" or "sense of appropriation"**: the
+  feeling by which any idea is named "I" or "mine"; for Cooley the defining
+  mark of the self (ch. V).
+- **Social self**: "any idea, or system of ideas, drawn from the
+  communicative life, that the mind cherishes as its own" (ch. V).
+- **Reflected or looking-glass self**: the class of social self whose
+  feeling is set by an imagined appearance in another mind and an imagined
+  judgement of it (ch. V).
+- **Personal idea**: the system of sentiments a person's symbol calls up;
+  "the immediate social reality" (ch. III).
+- **Conformity**: "the endeavor to maintain a standard set by a group",
+  voluntary rather than mechanical imitation (ch. VIII).
+- **Contrary suggestion**: opposition to what is suggested, felt as
+  self-assertion (ch. VIII, after Baldwin).
+
+## Connections
+
+Cooley draws on William James's "empirical self" and Baldwin's social
+psychology (contrary suggestion, imitation and invention), and illustrates
+from Goethe, Thoreau, Emerson, George Eliot and the autobiography of J. A.
+Symonds. The looking-glass self is the ancestor of reflected appraisal in
+symbolic interactionism (Mead, who is later) and of the record's other
+social-self material; the chapters read do not anticipate pluralistic
+ignorance as a named error, though chapter VIII's conformity is driven by
+an attributed judgement, which is its mechanism.
+
+## Bearing on the record
+
+- **[CLAIM-415](../claims.d/CLAIM-415.md), step 1 (the audience in a self-model can be a false
+  unity).** The claim says Cooley "makes the self-conception run through
+  imagined judgements of others" and that it adds "the others imagined can
+  be a unity no one composes". The first half is right, with a correction:
+  for Cooley the looking-glass self is "a very large and interesting class
+  of cases" of the social self, not the whole of it, and the self is
+  defined by self-feeling, not by the reflection. The second half is less
+  new than the claim says. Cooley already holds that the audience is
+  imagined and may be unreal ("There is no separation between real and
+  imaginary persons"; the "higher tribunal"; the dead and fictional as
+  "occasion of social self-feeling"), that a group is realized as imagined
+  persons, and that a person attributes sentiments to "his countrymen or
+  contemporaries in their collective aspect". What he does not do is say
+  that the attributed collective can be a unity no one composes while its
+  members hold otherwise. That is the claim's addition, and the reading
+  leaves it the claim's.
+- **[CLAIM-415](../claims.d/CLAIM-415.md), step 2 (rejection does not free).** Cooley anticipates
+  it, and the claim should say so. Non-conformity is "contrary suggestion",
+  in which what others enjoin settles what one does by opposition ("if
+  others are against him one feels sure they _are_ his own"); resentment is
+  a response "to imagined depreciation" and so is organized by it; and
+  "opposition, by itself, being sterile". Cooley's way out is selection
+  among imagined audiences, "a remoter conformity", which is close to the
+  claim's A39 reading that restores agency.
+- **"I am whatever you say I am."** The nearest text is chapter V's "tends
+  to become, for the time, his interpretation of what the other thinks he
+  is" and chapter VI's vanity, "becoming, so far as he can, what any
+  flatterer says he is". Cooley treats this as the unstable pole, against
+  pride and self-respect, not as the general case. The phrase is the
+  owner's and the lyric's; [LIT-1379](../literature.d/LIT-1379.md)'s summary should not be read as Cooley
+  endorsing it.
+- **[CLAIM-355](../claims.d/CLAIM-355.md) (the constructed owner).** Consonant. Cooley's "I" is a
+  feeling attached to whatever ideas one appropriates, "not separate from
+  the rest but gradually merging into it", and "every cherished idea is a
+  self" (ch. VI). He describes no further owner. He does not argue that the
+  sense of one owner is an illusion; he takes self-feeling at face value
+  ("there is no appeal from it").
+- **[CLAIM-402](../claims.d/CLAIM-402.md) and [CLAIM-349](../claims.d/CLAIM-349.md).** Chapter VI's
+  "'queerness' is no sooner perceived than it is multiplied by reflection
+  from other minds" is a looping effect stated in 1902. The self-respecting
+  man who "discriminates and selects" among judgements is [CLAIM-349](../claims.d/CLAIM-349.md)'s
+  conditional authority in other words. Both are illustrations, not
+  evidence.
+- **THEORY warranted?** None. The chapters read state an interpretive
+  framework without a test, and the record's claims are its own argument,
+  not THEORY.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- No method that could come out otherwise: introspection, two children,
+  and literary quotation. The claims are not tested here, and the book does
+  not say how they could be.
+- The looking-glass self is stated for "a particular mind", an individual
+  other. Groups enter through imagined persons; the mechanism for an
+  imagined collective is sketched in a paragraph of chapter III, not
+  developed.
+- Seven chapters were not read, including chapter IV on sympathy and
+  chapter X on the social aspect of conscience ("Conscience Reflects a
+  Social Group"), which may bear on the imagined audience further.
+- The 1902 text; the 1922 revision was not compared.
+
+## Open questions
+
+- Chapter X's "Ideal Persons as Factors in Conscience" and "Conscience
+  Reflects a Social Group" may state the imagined collective more fully
+  than chapter III. Reading it would settle how much of [CLAIM-415](../claims.d/CLAIM-415.md)'s step 1
+  is already Cooley's.
+- Does the looking-glass self's imagined judgement track real others'
+  judgements? Cooley assumes it often does not ("This image is probably
+  distorted"); the later empirical literature on reflected appraisals is
+  where that is tested, and the record holds none of it.

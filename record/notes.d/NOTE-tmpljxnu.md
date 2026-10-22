@@ -1,0 +1,190 @@
+---
+status: Read
+paper: 'LIT-1392'
+title: 'Radvansky & Copeland — Walking through doorways causes forgetting'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the publisher's PDF of Memory &
+    Cognition 34(5), 1150–1156, fetched from
+    link.springer.com/content/pdf/10.3758/BF03193261.pdf, which Unpaywall
+    and OpenAlex list as the free (bronze) publisher copy, and converted to
+    text with pdftotext. Read: the abstract, introduction, both experiments
+    with Tables 1 and 2, the General Discussion and the caption of Figure 1.
+    The reference list was skimmed. Page numbers are the journal's.
+date: '2026-10-22'
+summary: >-
+  Two desktop virtual-reality experiments. With distance held equal,
+  walking through a doorway rather than across a large room raised errors
+  and slowed responses to a probe for the object being carried; memory for
+  the object just set down was not affected. The authors read it as
+  situation-model updating at a spatial shift. The effect rests on few
+  no-shift trials (5 per condition), and the shift and no-shift rooms
+  differed in size and wall pattern.
+---
+<!-- inactive-ok-file: CLAIM-421 THEORY-688 THEORY-tmpiwyd2 THEORY-tmpg9wtv — Proposed; claims and accounts this reading bears on, named, not leaned on -->
+
+# NOTE-tmpljxnu: Radvansky & Copeland — Walking through doorways causes forgetting
+
+## Contribution
+
+The first demonstration of what later papers call the location updating
+effect. It carries the associated/dissociated effect of narrative
+comprehension (Glenberg et al. 1987: an object a protagonist carries stays
+more available than one put down) into a task people perform themselves,
+in a desktop virtual environment, and adds a spatial-shift manipulation:
+moving through a doorway into a new room, against walking the same
+distance across one large room. The shift harmed memory for the carried
+object, not for the one set down.
+
+## Key insight
+
+A room change is treated as a change of situation. "Entering a new room is
+a major change in the current situation, and this requires a person to
+update their situation model of the environment" (p. 1155). What surprised
+the authors is where the cost fell: on the information that should have
+been most available. "Thus, making a spatial shift disrupted processing of
+currently relevant information" (p. 1154).
+
+## Assumptions
+
+- **Virtual space stands in for real space.** Cited work is taken to show
+  that virtual and real spaces are represented "essentially identical" or
+  with "only small deviations" (p. 1151). Tested only later
+  (LIT-1384, Experiment 2).
+- **The probe task measures availability in a situation model.** The task
+  is a two-item short-term memory task with verbal probes (colour plus
+  shape names). The authors grant that people "need only rehearse the names
+  of the two objects" (p. 1155) and argue the effect matters all the more
+  for that.
+- **The shift and no-shift conditions differ only in the doorway.** In
+  Experiment 2 the no-shift trials used large rooms made by "tearing down
+  the walls" (p. 1153), with half the room darkened and an invisible
+  barrier until the object was exchanged. Each room had "a different
+  pattern on the walls, to emphasize changes in location" (p. 1152), so a
+  shift also changed the visual context.
+
+## Key results
+
+- **Experiment 1** (N = 41 after 10 dropped; 51 probes, all after a room
+  change; no no-shift condition). Associated probes were answered faster
+  and more accurately than dissociated ones: 1,440 against 1,814 ms, error
+  .20 against .33 (Table 1). The size of the effect correlated with
+  dissociated response times (r = .74), not associated ones (r = .09): "a
+  difficulty in accessing information about a dissociated object rather
+  than in maintaining information about the associated object" (p. 1152).
+- **Experiment 2** (N = 54 after 11 dropped; 15 no-shift trials, 5 per
+  probe type, and 36 shift trials, 12 per type; Table 2).
+  - Associated probes: error .05 without a shift, .14 with one,
+    F(1,53) = 20.99, p < .001; response time 1,433 against 1,588 ms,
+    F(1,53) = 6.01, p = .02.
+  - Dissociated probes: error .19 against .22, F = 1.07; response time
+    1,736 against 1,682 ms, F < 1. No effect.
+  - Shift × probe interaction on response time, F(1,53) = 4.33, p = .04;
+    on errors, marginal, p = .09. No main effect of shift on response
+    time.
+  - The shift effect and the associated/dissociated effect did not
+    correlate across people (r = .01), read as "qualitatively different
+    processes" (p. 1154).
+- **The authors' summary.** "There was fairly clear evidence that moving
+  through a doorway from one region to the next made information that
+  would otherwise be highly available less available. Information at a
+  relatively low level of availability was less affected" (p. 1154).
+- **Alternatives argued against** (p. 1155): encoding specificity (rarely
+  found with recognition; the carried object was in the new context too;
+  it should have hit both objects); verbal rehearsal alone; a mismatch
+  between visual experience and verbal probes; recency (the dissociated
+  object was the last one seen, yet it was the associated one that
+  suffered).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | In a desktop virtual task, a carried object is remembered better than one just set down (the associated/dissociated effect) | moderate | Experiments 1 and 2, both significant |
+| C2 | Walking through a doorway, against walking as far within a room, lowers accuracy and slows recognition for the carried object | weak to moderate | Experiment 2 only: 5 no-shift trials per condition; interaction p = .04 on RT, p = .09 on errors |
+| C3 | The doorway does not affect memory for the object just set down | weak (a null on few trials) | Experiment 2, F ≈ 1 |
+| C4 | The effect reflects situation-model updating at a spatial shift | interpretive | General Discussion; no test separates updating from other accounts |
+| C5 | Encoding specificity and recency cannot explain the pattern | moderate as argument | the pattern falls on the associated object, which was in the new context and was not the last seen |
+
+## Concepts
+
+- **Associated / dissociated object**: the object a person is carrying,
+  against the one just set down; after Glenberg et al. (1987).
+- **Spatial shift**: moving through a doorway into a new room; the
+  no-shift control is crossing an equal distance within a large room.
+- **Situation model**: "mental representations that act as mental
+  simulations that capture the functional relations among the entities in
+  an event" (p. 1150).
+- **Foregrounding**: elements of a situation model more available than
+  others, here by "functional interaction between the person and the
+  objects" (p. 1154).
+
+## Connections
+
+It comes out of narrative-comprehension work on spatial shifts and
+situation models (Glenberg, Meyer & Lindem 1987; Zwaan & Radvansky 1998;
+Rinck & Bower 1995) and the authors' earlier video-game studies. The
+interference account the same lab later gives (LIT-1384, LIT-1385)
+is not in this paper; here the explanation is the effort of updating:
+"Situation model updating requires a relatively large amount of cognitive
+effort and coordination, which can slow processing and allow for more
+errors to occur" (p. 1155). That transient-cost account is the one
+LIT-1385 later tests and rejects. It does not cite event segmentation
+theory (LIT-1382).
+
+## Bearing on the record
+
+- **CASE-136.** The case, and the summary of LIT-1392, say memory
+  "for objects just picked up or set down" was worse after a doorway. The
+  paper says otherwise: the shift harmed the carried object and left the
+  one set down unchanged (C2, C3). The finding is narrower and stranger
+  than the case states. It is the most available item that suffers.
+- **CLAIM-421 (activation interruption).** The case is offered as an
+  intention that is held but not retrievable. Nothing here concerns
+  intentions or goals. The probe is a colour–shape name, the memory load
+  is two objects, and errors on the carried object rose from 5% to 14%.
+  The popular gloss of forgetting why one entered a room is not tested.
+  The one point that fits CLAIM-421's distinction is that the object is
+  held, since most probes are still answered correctly, but slower and
+  less reliably after a shift. That is a loss of availability without
+  loss of the item, which is TERM-055's distinction in miniature. It is
+  read off the data, not argued by the paper.
+- **Proposed THEORY-tmpiwyd2** (doorway effect as retrieval interference)
+  takes this paper as its first source, for the pattern, not for the
+  explanation.
+- **THEORY-688 (doorway options).** No relation beyond the word. Here
+  the doorway is an event boundary in a person's memory task, not a
+  subgoal in learning.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- The decisive experiment has 5 no-shift trials per probe type per
+  person. A 9-point change in error rate is less than one trial per cell.
+  McFadyen et al. (LIT-1387) make this objection to the paradigm.
+- Shift and no-shift trials differed in room size, in the darkened half
+  and invisible barrier of the no-shift rooms, and in wall pattern, which
+  changed at every doorway. The doorway is not isolated from a change of
+  visual context.
+- The test is short-term recognition of verbal labels, in a desktop
+  environment, by undergraduates. 21 of 116 participants recruited across
+  the two experiments were dropped or lost, 13 for not following
+  instructions.
+- The situation-model interpretation is not tested against an alternative
+  that predicts the same pattern; the alternatives argued against are
+  memory accounts that ignore context.
+
+## Open questions
+
+- Does the effect hold when the rooms on either side of the doorway look
+  the same, and when shift and no-shift trials are equally many and
+  unpredictable? (LIT-1387 did this, passively, and found no effect on
+  hits.)
+- Why should the carried object, part of the new situation too, be the one
+  that suffers? The later interference account (LIT-1384) is one
+  answer.
+- Does anything like it happen to an intention or goal, rather than to an
+  object label?

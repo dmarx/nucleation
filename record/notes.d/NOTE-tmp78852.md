@@ -1,0 +1,267 @@
+---
+status: Read
+paper: 'LIT-1372'
+title: 'Pierson — Increasing returns, path dependence and the study of politics (working paper)'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full, but not the article the LIT names. No lawful copy of the
+    APSR article (2000) was reached: Unpaywall and OpenAlex list only the
+    precursor below, Cambridge Core and JSTOR are paywalled, and the copies
+    a web search found on course sites (JKU Moodle, USP e-Disciplinas) carry
+    JSTOR's scan with no sign of permission and were not opened. What was
+    read is its precursor, Paul Pierson, "Increasing Returns, Path
+    Dependence and the Study of Politics", Jean Monnet Chair Papers 44,
+    Robert Schuman Centre, European University Institute (June 1997), a
+    revision of an APSA 1996 conference paper: the EUI Library's 2020 scan,
+    open access in the Cadmus repository (hdl.handle.net/1814/23648),
+    fetched through Cadmus's DSpace API and converted with pdftotext from
+    the scan's OCR layer. Read: the introduction, Parts I–IV, all 24
+    footnotes and the health-care illustration; the bibliography was
+    skimmed. Figure 1 (Arthur's adoption payoffs) did not survive the OCR
+    and is taken from the text. Page numbers below are the working
+    paper's. The 2000 article was not seen, so where the two differ this
+    note speaks only for 1997. In particular, whether the article adds
+    features of politics to the three named here was not checked.
+date: '2026-10-22'
+summary: >-
+  An argument, not a test: the conditions Arthur and North found to produce
+  increasing returns (set-up costs, learning, coordination, adaptive
+  expectations) are more common in politics than in markets, because
+  politics is dense with compulsory institutions, rests on collective
+  action and is opaque; and lock-in is more intense there, because
+  competition and learning correct weakly, politicians' horizons are short
+  and institutions are built to be hard to change. Its one case is the
+  failure of two opposite US health-care reforms in 1993–96.
+---
+<!-- inactive-ok-file: CLAIM-423 CLAIM-331 CLAIM-327 CLAIM-184 CLAIM-277 CLAIM-329 CLAIM-417 THEORY-429 THEORY-tmpc9471 — Proposed; the claims and accounts this reading bears on, named in prose, not leaned on -->
+<!-- inactive-ok-file: LIT-1375 LIT-1380 — Unavailable; works of the same batch, named -->
+
+# NOTE-tmp78852: Pierson — Increasing returns, path dependence and the study of politics (working paper)
+
+## Contribution
+
+It carries the economists' increasing-returns account of path dependence
+(Arthur's four conditions and North's extension of them to institutions)
+into political science, and argues that it applies there more, not less.
+It names which features of politics make increasing returns more prevalent
+(three) and which make them more intense (three), so that "path dependence"
+becomes a claim about mechanisms rather than a synonym for "history
+matters". It reports no data; its evidence is the economics literature and
+one sketched case.
+
+## Key insight
+
+The objection that kills most path-dependence stories in economics, that
+markets and far-sighted investors correct inferior paths, does not carry
+over to politics. Political actors cannot exit compulsory rules, act
+collectively, cannot measure performance well, discount the future at the
+electoral cycle, and work inside institutions deliberately built to resist
+change. So "path dependence arguments are likely to be even more relevant to
+an understanding of politics than they are in other areas of the social
+sciences" (p. 10).
+
+## Assumptions
+
+- **Increasing returns as the source.** Path dependence is taken in the
+  sense of a Pólya urn: chance early events plus a rule that ties later
+  probabilities to earlier outcomes. Arthur's four properties
+  (unpredictability, inflexibility, non-ergodicity, potential
+  path-inefficiency) and his four conditions (large set-up costs, learning,
+  coordination effects, adaptive expectations) are taken over without
+  re-derivation (pp. 11–16).
+- **Institutions include public policies.** "Although unorthodox, the
+  inclusion of public policies as well as formal institutions in this
+  formulation is important" (p. 24).
+- **Stylised contrast with markets.** The market side is the textbook one
+  (exit, prices, repeated purchase, capital markets); footnotes 17 and 18
+  grant the simplification.
+- **Mechanisms from evolution are set aside.** Footnote 7 prefers
+  economics to Gould's punctuated equilibria because "Most aspects of
+  politics lack anything like the mechanism of natural selection", with
+  international relations and some features of electoral systems as
+  exceptions.
+
+## Key results
+
+There are no new data. By part:
+
+- **I. Increasing returns processes.** The Pólya urn and Arthur's four
+  properties, plus sequencing: "Early events, including “noise”, matter
+  much more than later ones" (p. 12).
+- **II. Economics.** Technology lock-in (QWERTY, light-water reactors, VHS),
+  economic geography (Krugman), trade, endogenous growth and North on
+  institutions. Against Liebowitz and Margolis, the remediability test is
+  called "a debater’s point" (p. 22) when the aim is to explain rather than
+  to advise, and their reliance on far-sighted markets is said to have
+  "very limited relevance for political scientists" (p. 23).
+- **III. Why politics is more prone.** Three features make increasing
+  returns more prevalent: institutional density ("Much of politics, in
+  other words, is based on authority rather than exchange", p. 25),
+  collective action, and complexity and opacity. "Increasing Returns in
+  fact characterize three of the most prominent features of political
+  environments: processes of institutional development, processes of
+  collective action, and processes of social interpretation" (p. 30).
+  Three features make them more intense: "the weakness or absence of
+  efficiency-enhancing mechanisms of competition and learning; the shorter
+  time horizons of political actors, and the greater “stickiness” of
+  political institutions" (p. 24).
+- **Social interpretation.** After North and Denzau, "Mental maps are
+  subject to increasing returns" (p. 29), and basic outlooks, "ranging from
+  ideologies to understandings of particular aspects of governments or
+  orientations towards political groups or parties", are tenacious and so
+  path dependent (p. 29).
+- **Time horizons.** "Because the decisions of voters, which determine
+  political success, are taken in the short-run, elected officials employ a
+  high discount rate" (p. 32). Leaving an inferior path costs now and pays
+  later: "The costs of doing so are borne in the short-run, while the
+  benefits will generally only accrue in the long run" (p. 33). Pierson
+  calls the neglect of this a gap: "Yet we know relatively little about the
+  time horizons of different political actors" (p. 32). Accountability is
+  weakened "because of the relatively rapid turnover of key positions"
+  (p. 32). Footnote 21 grants that an actor with a longer horizon, such as
+  an interest group, can make the long term count to politicians, and
+  doubts that it works as well as capital markets.
+- **Stickiness.** Institutions are made hard to change on purpose: to bind
+  successors (Moe's political uncertainty) and to bind oneself (credible
+  commitment). Unanimity in the European Union and supermajorities for the
+  US constitution are the examples (p. 34).
+- **The case.** The Clinton health plan (1993–94) and the Republican
+  Medicare and Medicaid cuts (1995–96) both failed against the interests
+  that had grown up around existing policy and against veto points
+  (pp. 35–36). It is an illustration, chosen after the fact.
+- **IV. What path dependence implies.** Multiple equilibria, contingency,
+  timing and sequence, and punctuated equilibria: "rather than exhibiting
+  gradualism, the phenomenon under investigation may be subject to long
+  periods of relative stability followed by brief bursts of rapid change"
+  (p. 36). "In path dependent processes, the necessary and sufficient
+  conditions for current outcomes may have occurred in the past" (p. 39).
+  Uses: a corrective to functionalism, sharper accounts of critical
+  junctures, hypotheses about the conditions of change, and humility about
+  prediction: "The problem lies not in our methods, but in the character of
+  the political world itself" (p. 41).
+- **Limits granted.** "Not all aspects of political life are subject to
+  increasing returns" (p. 41). Often the concept will mainly serve "a
+  “negative” purpose", a caution against reading outcomes as inevitable or
+  functional (p. 10).
+
+## Claims
+
+The claims of the 1997 working paper. The 2000 article was not read.
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Arthur's conditions for increasing returns (set-up costs, learning, coordination, adaptive expectations) hold for institutions and for many social interactions, not only technologies | moderate as a synthesis | Arthur 1994, North 1990; Part II |
+| C2 | Increasing returns are more prevalent in politics than in markets, because of institutional density, collective action and opacity | weak: argued, untested | Part III; stylised contrast with markets |
+| C3 | Lock-in is more intense in politics, because competition and learning correct weakly, horizons are short and institutions are deliberately sticky | weak: argued, untested | Part III; Moe, North and Weingast, the credible-commitment literature |
+| C4 | Elected officials discount the future at the electoral cycle, so they will choose paths with early payoffs and will rarely leave a path whose exit costs come now | weak to moderate: a standard political-economy argument with one anecdote (Stockman) | p. 32–33; Figure 1 reasoning |
+| C5 | Shared interpretations of politics (mental maps, orientations to parties) are themselves subject to increasing returns | weak: asserted from North and Denzau | p. 29 |
+| C6 | Path-dependent change is punctuated: long stability, brief bursts, often at exogenous shocks and tipping points | weak: stated as an implication | Part IV |
+| C7 | Path dependence corrects functionalist explanation: an institution's persistence does not show that it serves a function | moderate as an argument | Part IV |
+
+## Concepts
+
+- **Increasing returns / positive feedback**: each step down a path makes
+  that path more attractive for the next step.
+- **Path dependence**: here specifically the outcome of an increasing-
+  returns process, not the weak sense that later events depend on earlier
+  ones (which Liebowitz and Margolis call first-degree).
+- **Remediable path dependence**: Liebowitz and Margolis's third degree,
+  where a feasible better path existed; Pierson thinks the test asks too
+  much for explanation.
+- **Institutional density**: the share of a domain governed by compulsory
+  rules, formal institutions and public policies.
+- **Stickiness**: deliberate resistance of political arrangements to
+  change, built to bind successors or oneself.
+- **Time horizon / discount rate**: how much an actor weighs consequences
+  beyond the next payoff; for elected officials, the electoral cycle.
+- **Historical causes** (after Stinchcombe): an ordering moment that set a
+  pattern which is now reproduced although the moment no longer recurs.
+
+## Connections
+
+It builds on Arthur (1994) for the mechanism, on North (1990) for the step
+to institutions, and on Moe (1984, 1990) for what is distinctive about
+politics. It sets itself against Liebowitz and Margolis (1995) and places
+itself as the micro-foundation for historical institutionalism: Collier and
+Collier (1991), Skowronek (1993), Lipset and Rokkan (1967), Ikenberry
+(1994). The record holds neither book Pierson cites, but it holds
+Arthur's 1989 article as [LIT-1314](../literature.d/LIT-1314.md) ([THEORY-863](../theory.d/THEORY-863.md), Active) and North's 1991
+article on institutions as [LIT-489](../literature.d/LIT-489.md) ([THEORY-429](../theory.d/THEORY-429.md)). Acharya, Blackwell and Sen
+([LIT-1388](../literature.d/LIT-1388.md), [NOTE-tmpuag3s](NOTE-tmpuag3s.md)) cite the 2000 article for "the path dependence of
+historical institutions over time".
+
+## Bearing on the record
+
+- **[CLAIM-423](../claims.d/CLAIM-423.md) (timescale and authority in a political collective).** The
+  claim's own defeater asks whether Pierson already states it. On the 1997
+  text he does not. Two pieces are close:
+  - **Time horizons as a variable.** Pierson makes the horizon of a
+    political actor a cause of which paths are taken and kept: elected
+    officials employ "a high discount rate", interest groups may have longer
+    horizons (fn. 21), and rapid turnover weakens accountability (p. 32).
+    That is [CLAIM-423](../claims.d/CLAIM-423.md)'s raw material: components with different horizons
+    behave differently. But he uses horizons to explain lock-in, not to
+    explain which component holds authority over which. He never sets an
+    administration's memory against an elected government's power to change
+    the law, which is [CLAIM-423](../claims.d/CLAIM-423.md)'s point.
+  - **Authority as the stuff of politics.** "Much of politics, in other
+    words, is based on authority rather than exchange" (p. 25), and
+    institutions are built so that designers "purposely create structures
+    that even they cannot control" (after Moe, p. 34). Stickiness is how a
+    past coalition holds authority over later ones. That supports
+    [CLAIM-423](../claims.d/CLAIM-423.md)'s clause that a slower component (law, treaty) can govern a
+    faster one, and says why: deliberate design, not slowness.
+  - So the claim survives as the record's own, and Pierson is its nearest
+    source for the horizon half. He explicitly calls the time horizons of
+    different political actors an open question (p. 32). Whether the 2000
+    article adds anything on the use of authority itself was not checked.
+- **[CLAIM-331](../claims.d/CLAIM-331.md) (higher levels are slower).** No direct bearing. Pierson's
+  slow things (institutions, policies, outlooks) are slow because of
+  increasing returns and design, not because they are higher levels.
+- **[CLAIM-184](../claims.d/CLAIM-184.md) (anchors entrench), [CLAIM-277](../claims.d/CLAIM-277.md) (trust entrenches what gained
+  influence early), [THEORY-429](../theory.d/THEORY-429.md) (North).** Pierson is the political-science
+  statement of the same mechanism. Nothing here tests them.
+- **[CASE-133](../cases.d/CASE-133.md) (party realignment).** Two points, one each way. For: C5 makes
+  "orientations towards political groups or parties" path dependent, the
+  kind of durable outlook the case is about. Against a casual reading:
+  Pierson's path dependence implies punctuated change, while the case,
+  following Schickler, is gradual change from below over decades. The case
+  does not cite Pierson, so nothing is misattributed; but path dependence
+  is not the frame the case's own account uses.
+- **[CLAIM-327](../claims.d/CLAIM-327.md) (a slow collective variable read and regenerated).** C5 is the
+  political instance: shared interpretations feed back on what is noticed,
+  "Confirming information tends to be incorporated, while disconfirming
+  information is filtered out" (p. 29).
+- **THEORY warranted?** One, Proposed: [THEORY-tmpc9471](../theory.d/THEORY-tmpc9471.md), C2 with C3 and C4,
+  which the record does not hold. [THEORY-429](../theory.d/THEORY-429.md) holds North's claim for
+  institutions in general; Pierson's claim is that politics as a domain is
+  more prone than markets, and why.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- An argument with no data and one illustration chosen after the event.
+  Nothing in it shows that a political outcome was locked in by an early
+  contingent event rather than by persisting causes.
+- The comparison with markets is stylised. Markets have institutions,
+  collective action and opacity too, and the paper grants the
+  qualifications in footnotes rather than measuring the difference.
+- It does not say how to tell a path-dependent process from a persisting
+  cause in a given case. "history matters" in Liebowitz and Margolis's
+  first-degree sense is what most of its illustrations show.
+- The 1997 version is the one read. The APSR article is a revision and
+  may differ in structure and in its list of features.
+
+## Open questions
+
+- How could the prevalence claim (C2) be tested? A comparison of
+  reversal rates for policies and for comparable market arrangements, with
+  set-up costs and coordination held comparable, would bear on it.
+- Do longer-horizon actors (courts, bureaucracies, interest groups)
+  systematically hold authority over shorter-horizon ones, and under which
+  institutions? Pierson names the question and leaves it; it is [CLAIM-423](../claims.d/CLAIM-423.md)'s.
+- When does an increasing-returns process end? The paper explains lock-in
+  better than the bursts of change it predicts.

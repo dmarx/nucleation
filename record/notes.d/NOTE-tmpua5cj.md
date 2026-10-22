@@ -1,0 +1,200 @@
+---
+status: Read
+paper: 'LIT-1378'
+title: 'GAO — NASA: better mechanisms needed for sharing lessons learned'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the copy on govinfo.gov
+    (https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-195/pdf/GAOREPORTS-GAO-02-195.pdf,
+    54 pp., the GAO's own PDF of 29 January 2002; a U.S. government work).
+    gao.gov returned 403 to direct requests. Text extracted with pdftotext;
+    the pages carrying images were viewed as images: Table 1 (RAND's table
+    of reasons for spacecraft failures), Figure 2 and page 47 of NASA's
+    comments. Figures 3 and 4 and pages 46, 48 and 49 of NASA's comments
+    were not viewed; their content is taken from the report's text. Read:
+    the letter, the Executive Summary, chapters 1–5 and Appendix II.
+date: '2026-10-22'
+summary: >-
+  A 2001 survey of NASA's 192 program and project managers (115 usable
+  responses, 60 percent) found that NASA's policies required lessons to be
+  reviewed and submitted, but managers did not routinely identify,
+  collect or share them, its Lessons Learned Information System was
+  little used, and NASA recorded how often the system was searched but
+  not whether any lesson was applied, so "NASA has no assurance that
+  lessons are being applied". The occasion was the 1999 Mars failures,
+  not Challenger.
+---
+<!-- inactive-ok-file: CLAIM-422 CLAIM-025 — Proposed; the exchange's claim this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-140 THEORY-145 — Proposed; accounts this reading bears on, named -->
+
+# NOTE-tmpua5cj: GAO — NASA: better mechanisms needed for sharing lessons learned
+
+## Contribution
+
+An audit of whether NASA applies its lessons learned, made at the House
+Science Committee's request after the losses of the Mars Climate Orbiter
+and Mars Polar Lander in 1999. It sets NASA's written requirements
+against a census survey of its program and project managers, finds that
+the requirements are not met in practice, and recommends a knowledge
+management program with a lessons-learned manager, incentives,
+mentoring and "objective performance metrics". It is about NASA's
+lessons-learning machinery agency-wide in 2001, not about the Shuttle
+program or Challenger.
+
+## Key insight
+
+A rule that lessons must be applied is not evidence that they are. NASA
+directed every manager to consult the Lessons Learned Information System
+(LLIS) before major milestones and to submit lessons, but the system was
+"not widely used", and its office "monitors the system to determine the
+number of times it is accessed, a search is conducted, and/or search
+results are obtained, but does not collect information on the number of
+times lessons are applied to a program or project" (p. 21). The agency
+measured the procedure and not the capacity, so it could not know whether
+it had learned.
+
+## Assumptions
+
+- The survey population was every program and project manager on NASA's
+  list of April 2001: 192 after corrections; 115 usable responses (60
+  percent). GAO judged non-response error not significant because
+  respondents were spread across enterprises like the population (pp.
+  16–17).
+- The comparison organizations (World Bank, Department of Energy, Ford,
+  TRW, Boeing Space and Communications, Northrop Grumman, Lockheed
+  Martin) were chosen as recognized practitioners of knowledge
+  management, from literature and expert advice, and described through
+  interviews. They are not a matched sample.
+- Survey answers are self-reports of knowledge and practice, not
+  observation of whether lessons were applied.
+
+## Key results
+
+- **Requirements exist.** NPG 7120.5A "directs each program and project
+  manager to review and apply significant lessons learned from the past
+  throughout the program or project life cycle" and to consult LLIS
+  before major milestones (p. 19). LLIS was created in 1995 and held over
+  900 lessons.
+- **Practice does not follow.** "lessons are not routinely identified,
+  collected, or shared by programs and project managers" (p. 3). In the
+  previous two years 43 percent of managers had not submitted a lesson
+  and 23 percent had; 27 percent "were not aware of LLIS before our
+  survey" (p. 29); 58 percent said current systems do not let them
+  retrieve "the right lessons at the right time" and 53 percent found
+  lessons useful less than 25 percent of the time (p. 30).
+- **Knowledge stays local.** Managers knew lessons from their own
+  programs and centers far better than those of other centers (Figure 2)
+  and learned chiefly from reviews and informal colleagues.
+- **Barriers are cultural.** Respondents named no perceived benefit, no
+  time, lack of trust and "intolerance for mistakes". One manager: "Until
+  we can adopt a culture that admits frankly to what really worked and
+  didn't work, I find many of these tools to be suspect." (p. 32).
+- **No measure of application.** The application of lessons is not
+  tracked (p. 21), and one manager suggested accountability "with some
+  kind of a matrix/metric to validate that the lessons were actually
+  incorporated" (p. 33).
+- **The pattern recurs.** RAND's table (Table 1, p. 12) lists the same
+  reasons for failure across major reviews and mishaps, Challenger among
+  them, and a Mars Observer lesson (telemetry during critical events) was
+  "not heeded during design of the Mars Polar Lander seven years later"
+  (p. 10).
+- **Recommendations.** A knowledge-management implementation plan; a
+  lessons-learned manager; links among center and program systems;
+  mentoring and "storytelling"; incentives; an improved LLIS; and
+  "tracking and reporting on the effectiveness of the agency's lessons
+  learning efforts using objective performance metrics" (p. 7). NASA
+  concurred.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | NASA's program and project managers did not routinely identify, collect or share lessons learned, contrary to agency requirements | moderate | census survey of 192 managers, 60 percent response, self-report (ch. 3) |
+| C2 | LLIS was not an effective agency-wide mechanism: little used, hard to search, unknown to over a quarter of managers | moderate | survey figures; NASA officials agreed (pp. 28–34) |
+| C3 | NASA had no assurance that lessons were applied, because nothing measured their application | strong as a statement about what NASA measured | the Office of Safety and Mission Assurance tracked access and searches only (p. 21) |
+| C4 | The fundamental obstacles are cultural, not technical: time, trust, fear of being seen to fail | weak to moderate | survey free-text and ratings; inference from leading organizations (chs. 3–4) |
+| C5 | Leading organizations succeed at knowledge sharing through business plans, senior support, incentives, push dissemination and dedicated stewards | weak | interviews and literature on seven chosen organizations; no comparison of outcomes (ch. 4) |
+
+## Concepts
+
+- **Lesson learned (NASA's definition)**: "knowledge or understanding
+  gained by experience", required to be significant, valid and
+  applicable (p. 19).
+- **Lessons learned process**: collection, verification, storage and
+  dissemination, the last called "the most important" (pp. 14–15).
+- **Push and pull**: lessons delivered to users automatically, or found
+  by users' searches. LLIS was pull only.
+
+## Connections
+
+GAO built this report on its own interim report, *Survey of NASA's
+Lessons Learned Process*, GAO-01-1015R, issued in September 2001 (p. 16).
+It draws on NASA's December 2000 *Enhancing Mission Success* (the
+Integrated Action Team's response to the Mars mishaps) and on RAND's
+study of spacecraft failures (Sarsfield 2000). It predates the loss of
+Columbia by a year.
+
+## Bearing on the record
+
+- **[LIT-1378](../literature.d/LIT-1378.md)'s identification is probably wrong in one respect.** Its
+  history note takes the exchange's "2001 Government Accountability
+  Office review" and "January 2002 review" to be one report. This report
+  cites a separate September 2001 GAO report on the same survey,
+  GAO-01-1015R, which fits "2001 GAO review" better. The two are probably
+  the interim and the final reports. (In 2001–2002 the agency was the
+  General Accounting Office; it was renamed in 2004.)
+- **[CASE-138](../cases.d/CASE-138.md) is accurate on what GAO found but places it in the wrong
+  story.** Its sentence that in 2002 GAO "found NASA's lessons-learned
+  system little used by its managers and no assurance that lessons were
+  applied" is right. But the report is about the Mars failures under
+  "faster, better, cheaper" and about LLIS, a 1995 system. It never
+  discusses Challenger, the Shuttle safety reforms after 1986 or the
+  launch-decision process; Challenger appears only as one column of
+  RAND's table. So the report is not evidence that the corrections made
+  after Challenger decayed. It is evidence of a different instance of the
+  same gap, at the same agency, in the years before Columbia.
+- **[CLAIM-422](../claims.d/CLAIM-422.md) (act, procedure, maintained capacity).** The report is a
+  clean instance of the procedure–capacity separation: a written
+  requirement to review and apply lessons, a database to hold them, and
+  no practice of using them. It adds something the claim does not say:
+  the organization measured the procedure (accesses and searches) and
+  not the capacity (application), so it could not have known which it
+  had. GAO's last recommendation, objective metrics of effectiveness, is
+  an attempt to measure the third object separately. That bears on the
+  claim's defeater (that the three "cannot be measured apart"): the report
+  treats them as measurable apart, and shows an organization that had
+  measured only one. The claim quotes A25's "A correction is recorded ⇏
+  The corrected capacity is maintained" as drawn from "NASA's own
+  lessons-learned system, as GAO found it". The report supports a
+  weaker statement: a lesson recorded is not a lesson applied. It says
+  nothing about a correction that once held and then decayed.
+- **[THEORY-140](../theory.d/THEORY-140.md).** Indirect support only, for its claim that reforms do
+  not hold at NASA; the report concerns a different program and records
+  no reform being undone.
+- **[THEORY-145](../theory.d/THEORY-145.md) (espoused theory and theory in use).** An organizational
+  instance: espoused policy requires lessons learning; managers'
+  practice does not.
+- No THEORY filed: the report is an audit of one agency's practice, and
+  its general claims about knowledge management rest on chosen examples.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- Self-reported survey data; nothing observes whether a lesson changed a
+  design.
+- The leading organizations are described from their own accounts and
+  were not compared with NASA on outcomes.
+- It does not say whether the Mars failures would have been prevented by
+  better lessons learning, only that relevant lessons existed.
+- Nothing about the Shuttle program or the post-Challenger reforms.
+
+## Open questions
+
+- Did NASA adopt the recommended metrics, and what did they show before
+  Columbia? Not answered here.
+- Would a measure of lesson application have predicted mission failures
+  better than the procedure's existence? That would test [CLAIM-422](../claims.d/CLAIM-422.md)'s
+  distinction directly.

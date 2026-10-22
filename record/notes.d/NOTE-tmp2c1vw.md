@@ -1,0 +1,179 @@
+---
+status: Skimmed
+paper: 'LIT-1365'
+title: 'FEMA — National Incident Management System, third edition'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Skimmed on 2026-10-22 from the PDF on FEMA's Emergency Management
+    Institute site (the URL on the LIT; 133 pp., dated October 2017; a U.S.
+    government work). Text extracted with pdftotext. Read in full: the
+    Introduction (Fundamentals and Concepts, pp. 1–5) and section III,
+    Command and Coordination (pp. 19–49), with the Glossary entries for
+    Safety Officer and Unified Command, the Safety Officer passage of ICS
+    Tab 1, the description of ICS Form 201 in Tab 9, and ICS Tab 10 (the
+    primary functions of the command positions). Skimmed: section II,
+    Resource Management. Not read: section IV (Communications and
+    Information Management), the rest of Appendix A and Appendix B (EOC
+    organizations). Figures were not viewed.
+date: '2026-10-22'
+summary: >-
+  The U.S. national doctrine for incident management. The parts read
+  establish a single command function (one Incident Commander, or a
+  Unified Command in which "there is no one 'commander.'" and each agency
+  keeps its own authority), unity of command, modular delegation, a
+  briefed transfer of command, and a Safety Officer who "alters,
+  suspends, or terminates any activities that are immediately dangerous
+  to life and health". It is doctrine, stating how incidents should be
+  organized, not evidence of how they are.
+---
+<!-- inactive-ok-file: CLAIM-027 CLAIM-329 CLAIM-355 CLAIM-424 — Proposed; the exchange's claims this reading bears on, not leaned on -->
+
+# NOTE-tmp2c1vw: FEMA — National Incident Management System, third edition
+
+## Contribution
+
+The 2017 revision of NIMS, superseding the 2008 edition. It sets out a
+common vocabulary, resource management, and command and coordination
+structures (the Incident Command System, Emergency Operations Centers,
+Multiagency Coordination Groups and Joint Information Systems) for all
+U.S. incidents, from traffic accidents to major disasters. Against 2008
+it adds guidance on EOCs and on how the command and coordination
+structures fit together. It contains no evaluation of whether the
+doctrine works.
+
+## Key insight
+
+Coordination across organizations is achieved by one command function
+whose holder can be plural. "In Unified Command, there is no one
+'commander.' Instead, the Unified Command manages the incident by jointly
+approved objectives" (p. 22), and "Unified Command does not affect
+individual agency authority, responsibility, or accountability" (p. 23).
+Yet within the structure "Unity of command means that each individual
+only reports to one person" (p. 23). Authority is divided by agency at
+the top and kept single along every reporting line below it.
+
+## Assumptions
+
+- Incidents vary, so structures are "Scalable, flexible, and adaptable"
+  and expand by delegation from the Incident Commander.
+- Participating organizations will "set aside issues such as overlapping
+  and competing authorities" to agree common objectives (p. 22).
+- Standardization (common terms, typed resources, qualifications) makes
+  organizations interoperable.
+
+## Key results
+
+The document has no results; these are its doctrines in the parts read.
+
+- **Guiding principles** (p. 3): flexibility, standardization and unity
+  of effort, which "enables organizations with specific jurisdictional
+  responsibilities to support each other while maintaining their own
+  authorities".
+- **Management characteristics** (pp. 20–23): common terminology;
+  modular organization, in which "Responsibility for functions that
+  subordinates perform defaults to the next higher supervisory position
+  until the supervisor delegates those responsibilities"; management by
+  objectives; a span of control around one supervisor to five; and others.
+- **Transfer of command** (p. 22): "When command transfers, the transfer
+  process includes a briefing that captures essential information for
+  continuing safe and effective operations, and notifying all personnel
+  involved in the incident." ICS Form 201 supports "a concise and
+  complete transition-of-command briefing to an incoming new Incident
+  Commander" (p. 111).
+- **Unified Command** (pp. 22–26): jointly set objectives and a single
+  Incident Action Plan; "each participating partner maintains authority,
+  responsibility, and accountability for its personnel and other
+  resources".
+- **Safety Officer**: "The Safety Officer stops and/or prevents unsafe
+  acts during the incident" (p. 27). In Appendix A: "the Safety Officer
+  alters, suspends, or terminates any activities that are immediately
+  dangerous to life and health of personnel" (p. 83). Yet "Ultimate
+  responsibility for the safe conduct of incident management rests with
+  the Incident Commander or Unified Command and supervisors at all
+  levels" (p. 27).
+- **Dispatch** (p. 23): "Resources that authorities do not request should
+  refrain from spontaneous deployment to avoid overburdening the recipient
+  and compounding accountability challenges."
+- **Coordination above the scene** (pp. 33–41): Area Command for several
+  incidents; EOCs for support; MAC Groups for policy, which "do not
+  perform incident command functions".
+
+## Claims
+
+Not filled: the reading is Skimmed (sections I and III read; II
+skimmed; IV and most appendices not read).
+
+## Concepts
+
+- **Incident Commander**: "the individual responsible for on-scene
+  incident activities", with "overall authority and responsibility for
+  conducting incident operations" (p. 4).
+- **Unified Command**: several organizations jointly performing the
+  Incident Commander's functions, each keeping its own authority.
+- **Unity of command**: each individual reports to one person.
+- **Modular organization**: the structure grows by delegation; undelegated
+  functions stay with the supervisor.
+- **Delegation of authority**: a statement by the authorized official
+  assigning the Incident Commander specific responsibilities and
+  authorities (p. 32).
+
+## Connections
+
+NIMS descends from FIRESCOPE's ICS in 1970s California, the 1982
+National Interagency Incident Management System, and the first NIMS of
+2004, revised in 2008 (pp. 3–4). The Brookhollow review ([LIT-1374](../literature.d/LIT-1374.md)) uses
+its vocabulary (Incident Command, RIC, Safety Officer) through NFPA
+standards rather than citing it.
+
+## Bearing on the record
+
+- **[CASE-134](../cases.d/CASE-134.md) (the commander handoff).** Supported: NIMS formalizes the
+  transfer of command with a briefing and notification of all personnel,
+  and a form for it. It does not say transfers are "routine", though
+  operational periods with shift-change briefings imply they are common.
+  The doctrine's point bears on the case's reading: what is to persist
+  through the transfer is "essential information for continuing safe and
+  effective operations", the incident's state and objectives, which is
+  [CASE-134](../cases.d/CASE-134.md)'s "continuity of organization" in the doctrine's own terms.
+  NIMS says nothing about experience.
+- **A24's "Coordinated action need not require that all practical
+  authority flow through one undifferentiated controller" ([LIT-1365](../literature.d/LIT-1365.md)'s
+  "Why this is here").** Supported in part, and the part matters. Unified
+  Command divides authority among agencies, which keep it; modular
+  delegation divides it by function; and the Safety Officer can stop
+  unsafe acts. But NIMS keeps one command function, one Incident Action
+  Plan, one command post and unity of command, and it places "Ultimate
+  responsibility" for safety with command, not with the Safety Officer.
+  So the doctrine does not support a reading on which authority is
+  undifferentiated nowhere; it supports one controller function that may
+  be held jointly and that delegates.
+- **[CASE-135](../cases.d/CASE-135.md).** The Brookhollow review describes freelancing and
+  self-dispatch; NIMS's dispatch principle is the norm they departed
+  from. The review does not cite NIMS.
+- **[CLAIM-424](../claims.d/CLAIM-424.md) and [CASE-127](../cases.d/CASE-127.md)'s safety-officer counterexample.** A25 said
+  "Non-domination doesn't imply unconditional veto power." NIMS gives the
+  Safety Officer a bounded stop: to alter, suspend or terminate activities
+  "immediately dangerous to life and health", under command's ultimate
+  responsibility. A worked institutional instance of a veto with a scope.
+- **[CLAIM-329](../claims.d/CLAIM-329.md) and [CLAIM-355](../claims.d/CLAIM-355.md).** NIMS is designed for a temporary
+  organization whose personnel change by operational period; the
+  briefing and the IAP are the means by which the organization outlasts
+  its members. Illustration, not evidence.
+- No THEORY filed: the document is doctrine.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- Doctrine states how incidents should be managed. It is not evidence
+  that responses organized under it behave as described; the Brookhollow
+  review is an example of practice departing from such norms.
+- Skimmed: section IV and most appendices not read.
+
+## Open questions
+
+- How often does Unified Command in practice keep each agency's
+  authority intact, and when does it collapse to one agency's lead?
+  Doctrine cannot say.

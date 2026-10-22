@@ -1,0 +1,270 @@
+---
+status: Skimmed
+paper: 'LIT-1393'
+title: 'Rogers Commission — Report on the Space Shuttle Challenger accident'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Skimmed on 2026-10-22 from the NASA History Office's HTML edition of
+    volume 1 (https://www.nasa.gov/history/rogersrep/genindex.htm), a U.S.
+    government work, fetched page by page and converted to text by script.
+    Bracketed numbers in that edition are the printed report's page
+    numbers, and the references below use them. Read in full: the Preface,
+    chapter V ("The Contributing Cause of The Accident", pp. 82–119, the
+    launch decision), chapter VI ("An Accident Rooted in History", pp.
+    120–151), chapter VII ("The Silent Safety Program", pp. 152–162),
+    chapter VIII ("Pressures on the System", pp. 164–177) and the
+    Recommendations (pp. 198–201). Read in part: the opening of chapter
+    III (the accident) and the Conclusion of chapter IV (the cause), and
+    the findings of chapter IX. Not read: chapters I–II, the body of
+    chapters III–IV and IX, the appendices of volume 1, and volumes 2–5
+    (appendices, hearings). Figures and photographs were not viewed; the
+    report's letter of transmittal is an image and was not read, and the
+    submission date, 6 June 1986, is from the edition's index page.
+date: '2026-10-22'
+summary: >-
+  The presidential commission's account of Challenger. The physical cause
+  was a field-joint seal design "unacceptably sensitive" to temperature
+  and other factors; the contributing cause was a "flawed" launch
+  decision in which Thiokol's engineers' recommendation against launch
+  was reversed by Thiokol management "at the urging of Marshall", and
+  neither that dispute, the July 1985 launch constraint nor its six
+  waivers reached Levels I and II. The joint had a nine-year history of
+  warnings, accepted erosion and loosened criteria, and the safety,
+  reliability and quality-assurance function was understaffed,
+  subordinate to the offices it checked, and absent from the decision.
+---
+<!-- inactive-ok-file: THEORY-140 THEORY-144 THEORY-145 — Proposed; the accounts this reading bears on, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-403 CLAIM-416 CLAIM-422 CLAIM-424 CLAIM-349 CLAIM-025 — Proposed; the exchange's claims this reading bears on, not leaned on -->
+<!-- inactive-ok-file: LIT-715 — Unavailable; Vaughan's book, named for comparison -->
+
+# NOTE-tmpvc65r: Rogers Commission — Report on the Space Shuttle Challenger accident
+
+## Contribution
+
+The official reconstruction of the Challenger accident and of the
+organization that launched it. It separates the cause (the aft field
+joint of the right solid rocket motor, chapter IV) from the contributing
+cause (the decision to launch, chapter V), traces the joint's problems
+from the 1977 tests to the eve of launch (chapter VI), and finds the
+safety program ineffective and absent (chapter VII). Its recommendations
+include the independent headquarters safety office that the record's
+CASE-138 calls a "constitutional correction". It is a commission's
+finding, built from hearings and documents, not an analysis of
+organizations in general.
+
+## Key insight
+
+A warning did not fail to exist; it was stopped, reclassified and
+re-weighted at each level it passed. Engineers recorded it from 1977;
+the joint was reclassified from Criticality 1R to 1 in 1982 while
+documents kept calling it 1R; erosion was accepted with a widening
+margin; a launch constraint imposed in July 1985 was waived six times
+and was not known at Levels I and II; and on 27 January 1986 Thiokol's
+recommendation not to launch below 53°F was reversed after Marshall
+challenged it, with no word reaching the officials who decided. The
+Commission's summary of the decision: "a NASA management structure that
+permitted internal flight safety problems to bypass key Shuttle
+managers" (p. 82).
+
+## Assumptions
+
+- The report reasons from testimony and documents gathered by the
+  Commission and its panels between February and May 1986. Quoted
+  testimony is excerpted by the Commission, and some of it conflicts
+  (Lovingood and Reinartz on whether Thiokol recommended delay, p. 87;
+  Mulloy and McDonald on the "next April" remark, p. 96).
+- Its counterfactuals are judgements: "If the decisionmakers had known
+  all of the facts, it is highly unlikely that they would have decided to
+  launch 51-L on January 28, 1986" (p. 82).
+- It treats the formal reporting chain (Levels IV to I) as the channel a
+  warning should have taken, and measures the failure against it.
+
+## Key results
+
+- **The cause (chapter IV, Conclusion).** "the cause of the Challenger
+  accident was the failure of the pressure seal in the aft field joint of
+  the right Solid Rocket Motor", owing to "a faulty design unacceptably
+  sensitive to a number of factors", temperature first among them.
+- **The decision (chapter V, Findings 1–4, p. 104).** "The decision to
+  launch the Challenger was flawed" (p. 82). Finding 2: "There was no
+  system which made it imperative that launch constraints and waivers of
+  launch constraints be considered by all levels of management." Finding
+  3: "a propensity of management at Marshall to contain potentially
+  serious problems and to attempt to resolve them internally rather than
+  communicate them forward." Finding 4: Thiokol management "reversed its
+  position and recommended the launch of 51-L, at the urging of Marshall
+  and contrary to the views of its engineers in order to accommodate a
+  major customer."
+- **The reversal of the burden of proof.** Boisjoly: "This was a meeting
+  where the determination was to launch, and it was up to us to prove
+  beyond a shadow of a doubt that it was not safe to do so." Lund: "We
+  had to prove to them that we weren't ready" (pp. 93–94). The Commission
+  found the same pattern with Rockwell and the ice: "NASA appeared to be
+  requiring a contractor to prove that it was not safe to launch, rather
+  than proving it was safe" (p. 118).
+- **Who decided not to escalate.** Reinartz, asked whether he "made the
+  decision not to escalate this to a Level II item": "That is correct,
+  sir." (p. 88). Moore, Aldrich, Thomas and Smith each testified they did
+  not know of Thiokol's objections (p. 103).
+- **History (chapter VI, Findings 1–6, p. 148).** "NASA and Thiokol
+  accepted escalating risk apparently because they 'got away with it last
+  time.'" The tracking system "permitting it to fly without any record of
+  a waiver, or even of an explicit constraint", and tracking only
+  anomalies "outside the data base" of prior flight "allowed major
+  problems to be removed from, and lost by, the reporting system." The
+  managers' temperature analysis looked only at flights with distress;
+  all flights together show "only three incidents of O-ring thermal
+  distress occurred out of twenty flights with O-ring temperatures at 66
+  degrees Fahrenheit or above, whereas, all four flights with O-ring
+  temperatures at 63 degrees Fahrenheit or below experienced O-ring
+  thermal distress" (p. 145).
+- **The closure.** Thiokol asked in December 1985 that the O-ring problem
+  be closed while it was still being worked; Russell, asked why: "Because
+  I was asked to do it." The problem-assessment system then recorded the
+  problem as "closed", an entry Mulloy and Wear called an error, with the
+  result that the launch constraint did not come up in the 51-L Flight
+  Readiness Review (pp. 143–144).
+- **The silent safety program (chapter VII, pp. 152–161).** "No one
+  thought to invite a safety representative or a reliability and quality
+  assurance engineer" to the teleconference of 27 January. Findings: work
+  force reductions; safety offices placed "under the supervision of the
+  very organizations and activities whose efforts they are to check";
+  "Little or no trend analysis"; the field joint still not documented as
+  Criticality 1 five weeks after the accident. The Apollo-era safety
+  program "became ineffective" between the lunar program and 1986, and
+  the Space Shuttle Crew Safety Panel lapsed when the program was
+  declared operational: "After that time, the NASA Shuttle program had no
+  focal point for flight safety."
+- **Pressures (chapter VIII).** The planned flight rate (24 a year by
+  1990) exceeded resources; "the system, as it existed, would have been
+  unable to deliver crew training software for scheduled flights";
+  spare-parts shortages led to cannibalization. The Commission found no
+  outside pressure on the launch decision.
+- **Recommendations.** Redesign the joint under independent National
+  Research Council oversight; restructure Shuttle management; an STS
+  Safety Advisory Panel; "an Office of Safety, Reliability and Quality
+  Assurance to be headed by an Associate administrator, reporting directly
+  to the NASA Administrator", "independent of other NASA functional and
+  program responsibilities"; a policy "which governs the imposition and
+  removal of Shuttle launch constraints"; recorded Flight Readiness
+  Reviews; a sustainable flight rate.
+
+## Claims
+
+Not filled: the reading is Skimmed (volume 1 in part; volumes 2–5 not
+read).
+
+## Concepts
+
+- **Levels I–IV**: the Shuttle program's management levels, from
+  contractors (IV) through the Marshall, Johnson and Kennedy project
+  offices (III) and the program manager at Johnson (II) to the Associate
+  Administrator for Space Flight (I).
+- **Criticality 1 / 1R**: a component whose failure could cause loss of
+  life or vehicle, without (1) or with (1R) redundancy. The field joint
+  was 1R from 1980 to December 1982 and 1 thereafter.
+- **Launch constraint**: a flight-safety issue serious enough to justify
+  not launching, until resolved or waived.
+- **Quality escape**: NASA's term, used by the report, for "a failure of
+  the program to preclude an avoidable problem" (p. 156).
+
+## Connections
+
+The record reads the Columbia board's comparison of the two accidents as
+THEORY-140, from LIT-734 (chapter 8 of the board's report). The board's
+"normalization of deviance" comes from Vaughan's book (LIT-715,
+Unavailable), which was itself built on these hearings. The Rogers report
+is the primary source for the Challenger half of that comparison, and it
+supports it: the accepted-erosion trajectory, the reporting structure
+that kept dissent from rising, and a safety organization subordinate to
+the program are all findings here, seventeen years before the board.
+
+## Bearing on the record
+
+- **CASE-138.** Its "Before" paragraph is supported: erosion "accepted
+  flight by flight"; Thiokol's engineers recommended against launch;
+  management reversed "at the urging of Marshall"; "It ended 73 seconds
+  later" (chapter III). Two corrections. First, the case cites chapters VI
+  and VII but not chapter V, "The Contributing Cause of The Accident",
+  which is where the launch decision and the teleconference are found;
+  it should be cited for the warning's passage. Second, the record's
+  phrase that the report "called the safety program 'silent'" is right
+  only as the chapter title: the body says the safety staff "was never
+  mentioned" and that the 51-L "readiness review was silent" (p. 85). The
+  case's "After" facts (an SR&QA office created in 1986, a Safety
+  Reporting System in 1987) are not in this report, which only recommends
+  the office; they need another source.
+- **CLAIM-403 (admission, recognition, credibility, uptake).** The
+  teleconference is close to a worked example of the separation. The
+  concern was admitted (a meeting was convened for it), heard differently
+  (Lovingood took it as a recommendation to delay, Reinartz "did not
+  perceive it as a recommendation delay", p. 87), credited and then
+  discredited when asked to be quantified (Boisjoly: "I was asked to
+  quantify my concerns, and I said I couldn't", p. 89), and given no
+  uptake above Level III by a deliberate decision not to escalate.
+- **CLAIM-416 (success read as evidence of competence).** Finding 3 of
+  chapter VI and Feynman's "Russian roulette" are the report's own
+  statement of it: "We can lower our standards a little bit because we
+  got away with it last time" (p. 148). The temperature analysis (pp.
+  145–146) shows the mechanism in data: conditioning on the flights that
+  showed distress hid the correlation that all flights reveal.
+- **CLAIM-422 (act, procedure, maintained capacity).** The report holds
+  two instances that come before Columbia. The Apollo-era safety program,
+  a procedure and an organization, "became ineffective" by 1986; and the
+  Crew Safety Panel lapsed when the program was declared "operational".
+  The closure episode is a third and sharper one: a record of a problem
+  "closed" that corresponded to no correction at all ("Because I was
+  asked to do it"). The claim's edge, that a recorded correction is
+  evidence of a correction and not of its maintenance, is weaker than
+  what the report shows: a recorded closure need not even be evidence of
+  a correction.
+- **CLAIM-424 and CASE-138's "constitutional correction".** The
+  recommended office is a change in who can object and to whom: it is to
+  report to the Administrator and be "independent of other NASA
+  functional and program responsibilities". The report is evidence that
+  the correction was recommended for that reason. Whether it held is
+  THEORY-140's question, not this report's.
+- **CLAIM-349 (access, authority, action).** Level III had the signal;
+  it had no authority over the launch above Level III, because the system
+  let a project manager judge it "a Level III issue that had been
+  resolved" (Mulloy, p. 98).
+- **THEORY-140.** Supports its Challenger half from the primary source,
+  as noted under Connections. Suggested: add LIT-1393 as a source of
+  THEORY-140 for the pre-1986 trajectory. It does not touch the
+  recurrence claim, which needs Columbia.
+- **THEORY-144 (drift to the boundary under pressure).** Chapter VIII is
+  an instance: a flight rate set without resources, and the
+  "operational" declaration used to reduce safety staff. It is one case
+  reconstructed after the fact, so it adds an illustration, not a test.
+- **THEORY-145 (espoused theory and theory in use).** The 1R label kept
+  on paperwork after the joint was reclassified Criticality 1, and
+  managers who went on believing in redundancy, are the organizational
+  form of the gap. Illustration only.
+- No THEORY filed: the report's general lessons are already held as
+  THEORY-140 and THEORY-144.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- A commission report: retrospective, adversarial in its hearings, and
+  written to explain one accident and to recommend. It does not compare
+  Challenger with launches that went well under the same organization.
+- Its counterfactuals ("highly unlikely that they would have decided to
+  launch") rest on the testimony of the people who decided.
+- Volumes 2–5 were not read here, including the appendix summarizing
+  every Flight Readiness Review treatment of the O-rings and Feynman's
+  personal observations (Appendix F).
+- It says nothing about whether its recommendations would hold. That is
+  the subject of the Columbia board and of CASE-138.
+
+## Open questions
+
+- How much of the escalation failure was structural (a Level III
+  manager's discretion to call an issue resolved) and how much a habit of
+  one center (finding 3 on Marshall)? The report names both.
+- Did the recommended independent office change who could stop a launch
+  in practice? The Columbia board's answer, held as THEORY-140, is that
+  the safety organization again depended on the program.
