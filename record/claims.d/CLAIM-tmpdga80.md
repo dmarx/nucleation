@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from U8–U11 of the same exchange: the claim's
+    terms are now stated as TERM-tmpgqmop and TERM-tmpe36gg, and its bridge
+    is restated in their words. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -31,6 +38,9 @@ grounds:
 complements:
 - CLAIM-355
 - CLAIM-tmpjw8ev
+uses:
+- TERM-tmpgqmop
+- TERM-tmpe36gg
 summary: >-
   The owner's, U1 and U2 of the exchange of 2026-10-21. At U1 the owner
   argued that if sensory apparatus is necessary for grounded experience,
@@ -223,3 +233,22 @@ sensory or biological embodiment (not claimed).
   language." What unity is under the claim is [QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md).
 - It does not say that graded organization means graded experience. A7:
   "graded organization does not by itself establish graded phenomenality".
+
+## Note of 2026-10-22: the claim in the exchange's later terms
+
+At U11 the owner asked "under our current characterization what is a
+perspective? an interpretation?" The answers are filed as two Proposed
+terms. Interpretation is [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md), the sense part 2 uses. Perspective
+is [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md), in three senses: organizational, represented and
+phenomenal. In those words the claim is A11's: "Certain organizational
+perspectives are not merely associated with experience but constitute its
+occurrence, character, and unity." The claim's bridge is from sense 1 to
+sense 3. A11 named its weakest point: sense 1 is defined by "the conditions
+governing interpretation", and sense 3 by "something being present or
+manifest from a point of view". Whether these are one phenomenon is the
+claim itself, and the exchange has not shown it.
+
+A11 also restated part 4, the subject constituted with the experience, as
+the claim's most general form: "an interpretation is not necessarily
+something occurring *to* a pre-existing subject. A perspective may be
+constituted through the organization of interpretive activity itself."

@@ -1,7 +1,14 @@
 ---
 status: Proposed
 title: 'Under any definition of interpretation that does not presuppose experience, most interpretation is unconscious, as blindsight and subpersonal perception and motor control show, so interpretive organization is not sufficient for experience, and the constitutive thesis is incomplete until it names the further organization that makes an interpretation experiential'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from U8–U11 of the same exchange: the further
+    candidates it tried, none of which meets the defeater. The claim is
+    unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -90,3 +97,21 @@ omission".
   needs.
 - It does not take sides on where to draw the line, or on whether the line
   is sharp. A7 left a graded account open.
+
+## Note of 2026-10-22: the candidates tried since
+
+U8–U11 of the same exchange tried four more conditions ([QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md),
+note of 2026-10-22): reciprocal integration, interventional sufficiency,
+self-maintenance and cross-context answerability. None meets this claim's
+defeater. Reciprocity also produces self-confirming capture ([CLAIM-330](CLAIM-330.md)).
+Interventional sufficiency describes a regime adequately but "would not
+automatically be a judgment about self-governance" ([TERM-067](../terms.d/TERM-067.md)). Self-maintenance was withdrawn as necessary
+([TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)). Answerability is untested. A8 stated the objection in this
+claim's terms, as "the unconscious cognition objection": if unconscious
+neural systems "instantiate all of it, we either need to accept more
+consciousness than ordinarily attributed or acknowledge that our criterion
+is insufficient. An appeal to reporting would merely recreate the
+access-consciousness problem." A11's synthesis keeps the gap open:
+"Which organizational properties distinguish those perspectives from
+nonexperiential interpretive systems remains an open theoretical
+question."

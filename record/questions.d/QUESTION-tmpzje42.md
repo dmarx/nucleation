@@ -1,7 +1,14 @@
 ---
 status: Open
 title: 'Is the unity of an experience the existence of a global section over its interpretive contexts, or the unity of one process that can hold local interpretations that do not glue, as when someone wants to approach and avoid the same thing at once?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from U8–U9 of the same exchange: a candidate
+    answer, and the record's constraints on any sheaf model of it. The
+    question is unchanged.
 tags:
 - phenomenal-unity
 - mathematics
@@ -83,3 +90,31 @@ non-gluing sections together, with a reason to call it the unity of an
 experience and not only a functional coupling. Isaac's dynamical
 structures ([LIT-tmpwhbpm](../literature.d/LIT-tmpwhbpm.md)) and the record's frustration of maintained demands
 ([CLAIM-368](../claims.d/CLAIM-368.md)) are candidate materials for the second.
+
+## Note of 2026-10-22: a candidate answer, and two constraints
+
+A8 proposed the second alternative and gave it a dynamic form: "Unity
+consists in jointly consequential interpretation, not necessarily in
+agreement among interpretations." Incompatibilities δ_ij enter the update
+of a common frame, z_{t+1} = H(z_t, {j_i}, {δ_ij}, v_t). A system keeps a
+unified perspective "by preserving unresolved tensions, revising
+interpretations, reallocating attention, or shifting its evaluative
+priorities". A9 found in the record what any formal version of that must
+respect:
+
+- [CLAIM-197](../claims.d/CLAIM-197.md) and [CLAIM-143](../claims.d/CLAIM-143.md). A disagreement is a gluing failure only on an
+  overlap, and only once the correspondence between the contexts'
+  observations is fixed independently. "We cannot simply assign each
+  neural module a local interpretation and treat disagreements as evidence
+  of contextuality."
+- [CLAIM-153](../claims.d/CLAIM-153.md)'s own scope. It models a self's consistency across contexts,
+  and A9 noted that it "does not establish a general theory of
+  psychological dissociation".
+  A9: use sheaf tools "to study the structure of contextual compatibility,
+  **not** identify global sections with conscious subjects".
+
+A9 also tied the conflicts to the record's frustration apparatus. Jointly
+unrealizable demands form a compatibility complex ([CLAIM-347](../claims.d/CLAIM-347.md)), and its
+minimal non-faces are the minimal conflicts. That is a candidate for the
+formal object this question's second answer lacks, beside the sheaf: an
+organization of incompatibility, not an absence of it.

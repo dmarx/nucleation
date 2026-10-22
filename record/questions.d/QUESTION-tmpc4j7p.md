@@ -1,7 +1,15 @@
 ---
 status: Open
 title: 'What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must hold whether or not the interpretations are grounded, and must not be drawn from the verdict it gives on groups and machines?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from U8–U11 of the same exchange: the
+    candidates it tried and what the record already says against them, and
+    the question's split into an organizational and a phenomenal half. The
+    question is unchanged.
 tags:
 - consciousness
 - phenomenal-unity
@@ -87,3 +95,66 @@ change in grounding with the internal dynamics held fixed. A measure that
 correlates with reports would not answer it. A7: "We would want an
 account connecting its structural features to the organization of
 experience and showing why proposed counterexamples fail."
+
+## Note of 2026-10-22: candidates tried, and the question's two halves
+
+U8–U11 of the same exchange (workbench entry of 2026-10-22) worked on the
+organizational side of this question, and the record's own entries
+constrained each candidate:
+
+- **Reciprocal integration** (A8). Local interpretations update a shared
+  frame that constrains them in turn. A9 found the objection in the
+  record: [CLAIM-330](../claims.d/CLAIM-330.md) (Active) shows that the same reciprocity between
+  interpretation and authority destabilizes symmetry exactly when
+  βγ > (1 − α)(1 − δ), so "it can generate pathological self-confirmation
+  as readily as a coherent perspective". A9: "Reciprocal integration is a
+  description of an organizational mechanism, not necessarily a distinctive
+  mark of a perspective." That leaves open "What distinguishes a
+  reciprocally organized interpretation that remains responsive to the
+  significance of conflicts and alternatives from one that simply
+  entrenches its existing interpretation?", which is [CLAIM-276](../claims.d/CLAIM-276.md)'s
+  separation of coherence from fidelity.
+- **Interventional sufficiency** (A8's causal-state frame, revised by A9).
+  The frame is a class of histories with the same responses to
+  interventions. Its predictive part is [TERM-062](../terms.d/TERM-062.md). [CLAIM-407](../claims.d/CLAIM-407.md) shows that
+  predictive closure is not enough. A9: a candidate "must preserve the
+  response profiles of the interpretive and evaluative mechanisms relevant
+  to its claimed organizational identity" ([TERM-067](../terms.d/TERM-067.md)). The target must be
+  declared first ([TERM-065](../terms.d/TERM-065.md), [CLAIM-152](../claims.d/CLAIM-152.md)): "We cannot discover a perspectival
+  macrostate by selecting whatever coarse-graining makes our preferred
+  theory of experience come out true."
+- **Self-maintenance** (A10). The organization maintains the constraints
+  that govern its interpretation ([TERM-070](../terms.d/TERM-070.md)). [CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md) shows that
+  this is a separate, interventional fact. A11 withdrew it as a necessary
+  condition, so it is a subclass ([TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)).
+- **Cross-context answerability** (A8, kept by A11). Changing an
+  interpretation in one context alters the conditions under which another
+  context's information acquires significance, through mechanisms the
+  organization maintains. No test of it has been run. A8's three-
+  architecture comparison (aggregation, external synchronization,
+  reciprocal recontextualization, matched on outputs and self-
+  descriptions) is its proposed design. Its negative control is a module
+  that only declares unity, which is [CASE-114](../cases.d/CASE-114.md)'s point.
+
+The question now has two halves, which A9 said must be kept apart:
+
+1. **Organizational.** "When does a context-dependent system of
+   interpretive operators and influence-allocation mechanisms constitute an
+   endogenously maintained causal organization, such that its significant
+   distinctions and responses to interventions cannot be preserved by a
+   merely aggregative or externally coordinated description?" This is
+   [QUESTION-093](QUESTION-093.md)'s question (predictive autonomy, interventional autonomy,
+   organizational closure, self-individuation) asked of interpretive
+   regimes, with [QUESTION-115](QUESTION-115.md)'s multi-criterion search for a level.
+2. **Phenomenal.** "If such an organization can be identified
+   independently of phenomenal judgments, what justifies treating its
+   realization as constitutive of an experiential perspective?" A11's
+   sharper form: "Is perspectival organization merely what determines *how
+   things appear*, or could the realization of that organization itself be
+   what it means for anything to appear at all?" That is A3's thesis A
+   (content is constructed) against thesis B (experience is constituted),
+   in [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)'s words: does sense 1 settle sense 3?
+
+An answer to the first half does not answer the second. A9: the exchange
+risked becoming a theory "about the individuation of cognitive systems
+rather than the constitution of conscious experience".
