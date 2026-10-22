@@ -6,9 +6,10 @@
 
 **Cognition** — the mind as information processing — perception, memory, reasoning and cognitive strategies — as studied by cognitive science and philosophy of mind (group: philosophy).
 
-2 of 71 TERM documents. Back to the [full index](../README.md).
+3 of 73 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-027](../../../record/terms.d/TERM-027.md) | cultural attractor | A stable endpoint of repeated reconstruction, read as "a shared decoding convention rather than a preserved historical object" (A110 §20). Used from A82 to C6 (whose §8 heading has it); the word does not appear in the manuscript. | Active |
 | [TERM-055](../../../record/terms.d/TERM-055.md) | operational availability, of a resource for an action: the chance that an agent–environment system, given the cue it actually has, deploys the resource for the task before the deadline | A17 §3's α, with A19's cue added. Named because the exchange used it in five turns (A16 to A19, and A23 §II) under "available", "accessible" and "deployable". The term separates the deployability of a resource from its presence and from knowing it is present ([CLAIM-296](../../../record/claims.d/CLAIM-296.md)). | Active |
+| [TERM-073](../../../record/terms.d/TERM-073.md) v2 | interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience | The sense of "interpretation" in which [CLAIM-412](../../../record/claims.d/CLAIM-412.md) is stated, from A7 and A11 of the exchange on experience and interpretation. An interpretation has three parts: a distinction, a context and a consequence. It is both the result and the operation, since applying it can change the state later interpretations act on, as [TERM-026](../../../record/terms.d/TERM-026.md)'s frame does. It is defined without experience, so unconscious perception, a classifier or a regulator interprets in this sense. That is the cost [CLAIM-411](../../../record/claims.d/CLAIM-411.md) names. Proposed: whether to adopt it is the owner's call. | Proposed |

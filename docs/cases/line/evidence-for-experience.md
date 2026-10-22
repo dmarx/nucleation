@@ -6,8 +6,9 @@
 
 **Evidence for experience** — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish.
 
-1 of 125 CASE documents. Back to the [full index](../README.md).
+2 of 126 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [CASE-114](../../../record/cases.d/CASE-114.md) | The imagined owner | A27's Experiment C, of the exchange of 2026-10-17: two computational systems with equivalent distributed control and similar behaviour, one with a self-model that represents the actual division of labour, the other with one that represents a single centralized inner agent. If the second systematically misattributes control, that is a concrete model of illusory authorship, located in the attribution. Proposed, not run, and it tests attribution of control, not phenomenal properties. | Active |
+| [CASE-114](../../../record/cases.d/CASE-114.md) v2 | The imagined owner | A27's Experiment C, of the exchange of 2026-10-17: two computational systems with equivalent distributed control and similar behaviour, one with a self-model that represents the actual division of labour, the other with one that represents a single centralized inner agent. If the second systematically misattributes control, that is a concrete model of illusory authorship, located in the attribution. Proposed, not run, and it tests attribution of control, not phenomenal properties. | Active |
+| [CASE-126](../../../record/cases.d/CASE-126.md) | Represented, authorized, self-authorized and self-maintained: three one-bit systems that agree while the interpretation is 0 and part under an intervention that sets it to 1, and two two-constraint systems with the same constant trajectory, one closed and one reset from outside, that part under one perturbation | A10's two constructions in the exchange on experience and interpretation, re-run here by script. Neither depends on parameters. The first separates whether an interpretation is acted on and who decides that it is. The second separates whether the conditions of acting on it are kept up by the organization or by something outside it. Fictional by construction, with production relations stipulated, not shown. | Active |

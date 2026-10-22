@@ -6,6 +6,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [22 Oct 01:18 — Session of 2026-10-22, 00:08–01:08 (U8–U11): formalizing perspective, the record's machinery for it, and what a perspective and an interpretation are](2026-10.md#session-of-2026-10-22-00080108-u8u11-formalizing-perspective-the-records-machinery-for-it-and-what-a-perspective-and-an-interpretation-are)
+- [21 Oct 21:27 — Session of 2026-10-21, 18:46–20:40 (U1–U7): whether experience is constituted by interpretation, grounding kept apart from it, and which entries it bears on](2026-10.md#session-of-2026-10-21-18462040-u1u7-whether-experience-is-constituted-by-interpretation-grounding-kept-apart-from-it-and-which-entries-it-bears-on)
 - [21 Oct 19:32 — Session of 2026-10-21: the owner's second review of nucleation#305, and the adoption of eight TERMs](2026-10.md#session-of-2026-10-21-the-owners-second-review-of-nucleation305-and-the-adoption-of-eight-terms)
 - [21 Oct 18:08 — Session of 2026-10-21: the owner's review of this filing (nucleation#305)](2026-10.md#session-of-2026-10-21-the-owners-review-of-this-filing-nucleation305)
 - [21 Oct 02:56 — Session of 2026-10-21, 00:03–01:45 (U18–U27): deregulation, reflexive control and capture, media, legibility, the synthesis, feminist philosophy, literature and the open questions](2026-10.md#session-of-2026-10-21-00030145-u18u27-deregulation-reflexive-control-and-capture-media-legibility-the-synthesis-feminist-philosophy-literature-and-the-open-questions)
@@ -78,8 +80,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-69 entries across 1 book, newest first.
+71 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 69 | 2026-10-07 | 2026-10-21 |
+| [2026-10](2026-10.md) | 71 | 2026-10-07 | 2026-10-22 |

@@ -6,8 +6,9 @@
 
 **Self** — what a self is — the minimal, bodily and pre-reflective self, self-models and the sense of being a subject, the self as process or as context, and whether machines or groups can be selves. Not the person, which is personhood (group: philosophy; ADR-024).
 
-1 of 71 TERM documents. Back to the [full index](../README.md).
+2 of 73 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [TERM-045](../../../record/terms.d/TERM-045.md) v3 | self, and which sense | The record uses "self" in at least seven senses. [ADR-024](../../../record/decisions.d/ADR-024.md) reserves the topic word for being a subject. This term lists the senses so that a claim using "self" says which: subject, dispositional (extended), persisting, narrative, self-governing, integrated and presented. A claim that leaves the sense open is stated in this term's words as "self (sense open)". | Active |
+| [TERM-072](../../../record/terms.d/TERM-072.md) v3 | perspective, and which sense: organizational, represented or phenomenal | The exchange on experience and interpretation used "perspective" in three senses and, by A11's own account, slid between them. Organizational is a realized regime in which the availability, significance and efficacy of interpretations are mutually conditioned. Represented is a system's model of its own standpoint. Phenomenal is a lived point of view. The constitutive thesis is that some organizational perspectives are phenomenal ones, so its claims must say which sense they use. Self-maintaining organizational perspective is a narrower subclass, not the definition. Proposed: whether to adopt it is the owner's call. | Proposed |

@@ -23,7 +23,7 @@ used_by:
 superseded_by:
 - TERM-018
 complements:
-- TERM-tmpgqmop
+- TERM-073
 ---
 <!-- inactive-ok-file: CLAIM-127 — Proposed; open, and cited as open: the claim is under test, not settled -->
 <!-- inactive-ok-file: CLAIM-052 — Proposed; open, and cited as open: the claim, argument or reading is under test, not settled -->

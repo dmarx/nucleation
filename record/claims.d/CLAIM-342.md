@@ -60,7 +60,7 @@ summary: >-
 supports:
 - CLAIM-402
 - CLAIM-404
-- CLAIM-tmpjw8ev
+- CLAIM-413
 ---
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-402 CLAIM-404 TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->

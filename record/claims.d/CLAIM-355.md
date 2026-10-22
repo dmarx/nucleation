@@ -47,7 +47,7 @@ grounds:
 complements:
 - CLAIM-165
 - CLAIM-155
-- CLAIM-tmpdga80
+- CLAIM-412
 uses:
 - TERM-045
 summary: >-
@@ -217,7 +217,7 @@ that term.
 
 ## Note of 2026-10-22: readings from the exchange on experience and interpretation
 
-- **Gładziejewski** ([NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md), [THEORY-tmphhvaa](../theory.d/THEORY-tmphhvaa.md), [THEORY-tmpru19x](../theory.d/THEORY-tmpru19x.md))
+- **Gładziejewski** ([NOTE-1056](../notes.d/NOTE-1056.md), [THEORY-872](../theory.d/THEORY-872.md), [THEORY-877](../theory.d/THEORY-877.md))
   supports the claim's split. A self is a real pattern, and the
   self-model is a compression that posits one common cause. It also
   sharpens Drayson's objection ([THEORY-646](../theory.d/THEORY-646.md)). A single represented owner
@@ -225,11 +225,11 @@ that term.
   misdescription of it, which would leave nothing illusory. Its footnote
   10 suggests a test: a dissociative case better compressed by two selves
   than by one.
-- **Graziano** ([NOTE-tmpzibsl](../notes.d/NOTE-tmpzibsl.md), [THEORY-tmpncy2z](../theory.d/THEORY-tmpncy2z.md)) shares the claim's
+- **Graziano** ([NOTE-1071](../notes.d/NOTE-1071.md), [THEORY-873](../theory.d/THEORY-873.md)) shares the claim's
   structure, with real processes and a simplified self-model, but carries
   the illusion over to phenomenality, which this claim leaves open.
 - **Somatoparaphrenia and thought insertion**, as the Stanford Encyclopedia
-  entry on higher-order theories reports them ([NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md)), are cases in
+  entry on higher-order theories reports them ([NOTE-1066](../notes.d/NOTE-1066.md)), are cases in
   which the attribution of ownership fails while the experience stays. Of
-  [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)'s senses, the claim concerns a represented owner, not a
+  [TERM-072](../terms.d/TERM-072.md)'s senses, the claim concerns a represented owner, not a
   represented perspective.

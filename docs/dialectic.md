@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-42 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+43 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -299,3 +299,8 @@
 
 - [CLAIM-362](../record/claims.d/CLAIM-362.md) — Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential *(thesis, Proposed)*
   - [CLAIM-364](../record/claims.d/CLAIM-364.md) — Low supervisory cost cannot show non-domination: processes conditioned never to object also coordinate without override, so whether an organization dominates its processes must be read from what happens when a constituent dissents, and from its history *(counter, Proposed)*
+
+## From Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience
+
+- [CLAIM-412](../record/claims.d/CLAIM-412.md) — Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience *(thesis, Proposed)*
+  - [CLAIM-411](../record/claims.d/CLAIM-411.md) — Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight's apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential *(counter, Proposed)*

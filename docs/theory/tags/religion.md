@@ -6,8 +6,8 @@
 
 **Religion** — religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated.
 
-0 of 864 THEORY documents. Back to the [full index](../README.md).
+1 of 883 THEORY documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [THEORY-866](../../../record/theory.d/THEORY-866.md) | Expert texts of Shamatha, Transcendental and Stillness Meditation describe their so-called contentless goal-states as lacking thoughts, perceptions, images and memories but keeping many forms of content, and as differing across the practices in attentional stability and vividness | Woods, Windt & Carter (2022), [LIT-1351](../../../record/literature.d/LIT-1351.md), read in the submitted preprint in [NOTE-1070](../../../record/notes.d/NOTE-1070.md). An evidence synthesis of 135 texts by eight teachers codes 65 features of the goal-states: the same across practices on 14, different on 4, unclear on 47. The states lack everyday content but keep wakefulness, calm, stillness, bliss, knowing, freedom and unity; Shamatha's has far greater attentional stability and vividness. The sharp edge: it is a finding about how teachers describe the states, not about what practitioners experience, and "not truly contentless" depends on counting calm or simplicity as content. | Proposed |

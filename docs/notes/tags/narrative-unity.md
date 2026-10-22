@@ -4,7 +4,7 @@
 
 **narrative-unity**.
 
-6 of 1053 NOTE documents. Back to the [full index](../README.md).
+6 of 1071 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

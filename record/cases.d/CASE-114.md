@@ -30,7 +30,7 @@ summary: >-
   illusory authorship, located in the attribution. Proposed, not run, and
   it tests attribution of control, not phenomenal properties.
 ---
-<!-- inactive-ok-file: CLAIM-355 CLAIM-288 THEORY-646 QUESTION-061 CLAIM-tmpjw8ev — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
+<!-- inactive-ok-file: CLAIM-355 CLAIM-288 THEORY-646 QUESTION-061 CLAIM-413 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
 
 # CASE-114: The imagined owner
 
@@ -111,7 +111,7 @@ into governance, a fixed self-description does not leave integration
 where it was set.
 
 A5 proposed grounding, the degree of independent constraint on the
-signals and their scoring ([CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md)), as a third factor. Its
+signals and their scoring ([CLAIM-413](../claims.d/CLAIM-413.md)), as a third factor. Its
 purpose is to find out whether "grounding affect[s] the accuracy of
 interpretations without changing the coherence of the perspective". A6
 suggested running the design on a language model, intervening "on

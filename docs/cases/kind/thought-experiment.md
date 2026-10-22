@@ -6,7 +6,7 @@
 
 **Thought experiment** — an imagined scenario, usually a contrast that holds everything fixed but one thing, used to test an intuition or a concept.
 
-33 of 125 CASE documents. Back to the [full index](../README.md).
+33 of 126 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

@@ -6,8 +6,9 @@
 
 **Evidence for experience** — what could show that a system, organized, non-biological or without a cortex, has experience and not only access or function, and what each kind of evidence (report, deficit, architecture, behaviour) can and cannot establish.
 
-0 of 71 TERM documents. Back to the [full index](../README.md).
+2 of 73 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-072](../../../record/terms.d/TERM-072.md) v3 | perspective, and which sense: organizational, represented or phenomenal | The exchange on experience and interpretation used "perspective" in three senses and, by A11's own account, slid between them. Organizational is a realized regime in which the availability, significance and efficacy of interpretations are mutually conditioned. Represented is a system's model of its own standpoint. Phenomenal is a lived point of view. The constitutive thesis is that some organizational perspectives are phenomenal ones, so its claims must say which sense they use. Self-maintaining organizational perspective is a narrower subclass, not the definition. Proposed: whether to adopt it is the owner's call. | Proposed |
+| [TERM-073](../../../record/terms.d/TERM-073.md) v2 | interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience | The sense of "interpretation" in which [CLAIM-412](../../../record/claims.d/CLAIM-412.md) is stated, from A7 and A11 of the exchange on experience and interpretation. An interpretation has three parts: a distinction, a context and a consequence. It is both the result and the operation, since applying it can change the state later interpretations act on, as [TERM-026](../../../record/terms.d/TERM-026.md)'s frame does. It is defined without experience, so unconscious perception, a classifier or a regulator interprets in this sense. That is the cost [CLAIM-411](../../../record/claims.d/CLAIM-411.md) names. Proposed: whether to adopt it is the owner's call. | Proposed |

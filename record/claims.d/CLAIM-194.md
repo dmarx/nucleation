@@ -42,7 +42,7 @@ summary: >-
   self-distinction instead. Proposed: no case has been measured.
 complements:
 - CLAIM-367
-- CLAIM-tmpn2xr4
+- CLAIM-414
 ---
 <!-- inactive-ok-file: THEORY-071 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
