@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-22 (NOTE-tmpxf5do) from the live entry, substantive revision of 19 October 2023; worth reading as the map of representational theories of sensory qualities: pure, strong and weak, wide and narrow, reductive and not, the five arguments for, and the counterexamples case by case, with "what it's like" kept apart as a higher-order property that needs awareness. Read it knowing that its author is one of the three named defenders of strong wide representationalism and that his replies get the most room, that it leaves wide against narrow open, and that it is a theory of what is experienced, not of what makes a state experienced, which it hands to the higher-order entry.
+  read in full 2026-10-22 ([NOTE-tmpxf5do](../notes.d/NOTE-tmpxf5do.md)) from the live entry, substantive revision of 19 October 2023; worth reading as the map of representational theories of sensory qualities: pure, strong and weak, wide and narrow, reductive and not, the five arguments for, and the counterexamples case by case, with "what it's like" kept apart as a higher-order property that needs awareness. Read it knowing that its author is one of the three named defenders of strong wide representationalism and that his replies get the most room, that it leaves wide against narrow open, and that it is a theory of what is experienced, not of what makes a state experienced, which it hands to the higher-order entry.
 title: 'Representational Theories of Consciousness (Stanford Encyclopedia of Philosophy)'
 version: 2
 history:
@@ -55,7 +55,7 @@ William Lycan (2000; substantive revision 2023), "Representational Theories of C
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpxf5do. The SEP has no page numbers; citations
+*From the reading, [NOTE-tmpxf5do](../notes.d/NOTE-tmpxf5do.md). The SEP has no page numbers; citations
 are by section.*
 
 - **Qualities as represented properties.** Strong representationalism holds
@@ -90,7 +90,7 @@ are by section.*
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange took strong representationalism (Tye, Dretske, Lycan) as the standing position nearest the constitutive thesis, and noted that the phenomenal intentionality programme (Kriegel, Mendelovici) runs the explanation the other way, from phenomenal character to content. This entry is the reference map of both. Bears on CLAIM-tmpdga80 and THEORY-095.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange took strong representationalism (Tye, Dretske, Lycan) as the standing position nearest the constitutive thesis, and noted that the phenomenal intentionality programme (Kriegel, Mendelovici) runs the explanation the other way, from phenomenal character to content. This entry is the reference map of both. Bears on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) and [THEORY-095](../theory.d/THEORY-095.md).
 
 **Correction from the reading.** The exchange's description holds only in
 part. Strong representationalism is an identity claim, and it needs a
@@ -99,8 +99,8 @@ constitutive thesis does. But it is a theory of the character of
 experience, not of its occurrence. It holds that a sensory quality can
 occur with nothing it is like to have it, and it leaves what makes a
 state experienced to an account of awareness, the higher-order entry
-(LIT-tmpx8g8s). Its named defenders also hold qualities wide, which the
-constitutive thesis, as it reads THEORY-095, cannot. The exchange's
+([LIT-tmpx8g8s](LIT-tmpx8g8s.md)). Its named defenders also hold qualities wide, which the
+constitutive thesis, as it reads [THEORY-095](../theory.d/THEORY-095.md), cannot. The exchange's
 account of phenomenal intentionality is accurate. Filed from the reading:
-THEORY-tmptw1fe, that representing a sensory quality does not make it
+[THEORY-tmptw1fe](../theory.d/THEORY-tmptw1fe.md), that representing a sensory quality does not make it
 experienced.

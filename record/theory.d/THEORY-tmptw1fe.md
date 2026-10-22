@@ -26,7 +26,7 @@ date: '2026-10-22'
 source:
 - LIT-tmpi7qws
 summary: >-
-  Lycan (2000; rev. 2023), LIT-tmpi7qws, read in full in NOTE-tmpxf5do. The
+  Lycan (2000; rev. 2023), [LIT-tmpi7qws](../literature.d/LIT-tmpi7qws.md), read in full in [NOTE-tmpxf5do](../notes.d/NOTE-tmpxf5do.md). The
   entry defends the distinction in its own voice (§4.2, §5.1), crediting
   Carruthers (2000) for the distinction and Armstrong, Nelkin, Rosenthal
   and Lycan for the claim that qualities can go unnoticed. It is argued,
@@ -43,8 +43,8 @@ summary: >-
 
 ## Source
 
-Lycan (2000; substantive revision 19 October 2023), LIT-tmpi7qws,
-*Stanford Encyclopedia of Philosophy*, read in full in NOTE-tmpxf5do: the
+Lycan (2000; substantive revision 19 October 2023), [LIT-tmpi7qws](../literature.d/LIT-tmpi7qws.md),
+*Stanford Encyclopedia of Philosophy*, read in full in [NOTE-tmpxf5do](../notes.d/NOTE-tmpxf5do.md): the
 introduction's four senses of "conscious", §2 and §2.1 (representation is
 not enough), §4.2 (unconscious representation), §4.5.1 and §5.1 ("what
 it's like"). The works it reports were not read.
@@ -86,10 +86,10 @@ contested.
 
 - **It does not show the driver's perception was unexperienced.** That is
   asserted. Block reads such cases as phenomenal consciousness without
-  access (LIT-643; THEORY-103 is his overflow claim), and the
-  higher-order entry (LIT-tmpx8g8s, §2) grants that one "may be possible
+  access ([LIT-643](../literature.d/LIT-643.md); [THEORY-103](THEORY-103.md) is his overflow claim), and the
+  higher-order entry ([LIT-tmpx8g8s](../literature.d/LIT-tmpx8g8s.md), §2) grants that one "may be possible
   to get oneself to believe" the driver's perceptions are phenomenally
-  conscious but forgotten. Telling the two apart is QUESTION-048's
+  conscious but forgotten. Telling the two apart is [QUESTION-048](../questions.d/QUESTION-048.md)'s
   problem, and nothing here solves it.
 - **It does not say what awareness is.** The entry lists the options
   (higher-order representation, self-representation, attention,
@@ -100,7 +100,7 @@ contested.
   entry's subject and stays unsettled there (§4.6).
 - **It is not the claim that there is no phenomenal consciousness.** It
   keeps "what it's like" as a real higher-order property. Illusionism
-  (THEORY-633) denies that property; this THEORY assumes it.
+  ([THEORY-633](THEORY-633.md)) denies that property; this THEORY assumes it.
 - **It does not speak to affect.** The entry's split of a pain into a
   sensory quality and an affective aspect that morphine blocks (§4.5.1) is
   a different distinction, reported from Lycan (1998), and is not part of
@@ -113,19 +113,19 @@ contested.
 
 No `answers:` relation is declared. The THEORY says that awareness
 separates an experienced quality from an unnoticed one. It does not say
-what awareness is, so it does not answer QUESTION-tmpc4j7p even in part.
+what awareness is, so it does not answer [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) even in part.
 
-- **CLAIM-tmpdga80.** If this THEORY holds, then a theory that fixes
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** If this THEORY holds, then a theory that fixes
   the character of an experience by an organized representation has not yet
   said what makes it experienced. The claim is meant to do both. So the
   THEORY marks where the claim goes beyond its nearest standing relative.
-- **CLAIM-tmp1lvwf.** This is the same objection put to representationalism,
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).** This is the same objection put to representationalism,
   and the representationalist's reply concedes its structure: the theory owes
   a further condition, and it locates that condition in awareness.
-- **QUESTION-tmpc4j7p.** The question asks what separates experiential
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** The question asks what separates experiential
   from merely processing organization. On this THEORY, for perception the
   separating factor is awareness of the state. That is one candidate
   answer, and it is the higher-order family's.
-- **THEORY-103.** Block's overflow puts experience beyond access. This
+- **[THEORY-103](THEORY-103.md).** Block's overflow puts experience beyond access. This
   THEORY puts a quality short of experience. The two disagree over the
   same unnoticed-perception cases.

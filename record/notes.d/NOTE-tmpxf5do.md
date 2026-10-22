@@ -43,7 +43,7 @@ representation. It separates four things "conscious" can mean and treats
 two of them. One is the sensory quality, such as the green of an
 after-image. The other is "what it's like" to experience that quality.
 It sends awareness of one's states and introspection to the companion
-entry on higher-order theories (LIT-tmpx8g8s). The author is a party to
+entry on higher-order theories ([LIT-tmpx8g8s](../literature.d/LIT-tmpx8g8s.md)). The author is a party to
 the debate he surveys. He is one of the three named defenders of strong
 representationalism, and several of the replies the entry gives are his
 own (Lycan 1996, 1998, 2001). The entry argues for some things. It argues
@@ -295,13 +295,13 @@ The entry builds on Harman (1990), Dretske (1995, 1996), Tye (1995, 2002,
 (1990, 1995, 1996, 2010), Peacocke (1983), Shoemaker, Levine (2003),
 Chalmers (2004) and the phenomenal-intentionality programme (Horgan and
 Tienson 2002; Kriegel; Mendelovici 2018). Of these the record holds Block's
-"Inverted Earth" (LIT-634, read for THEORY-095), "On a confusion about a
-function of consciousness" (LIT-643) and "Troubles with Functionalism"
-(LIT-407), Nagel (LIT-096), Frankish (2016, LIT-458) and Chalmers
-(2018, LIT-425). The record's Block "Mental Paint" (LIT-635) is the 2003
+"Inverted Earth" ([LIT-634](../literature.d/LIT-634.md), read for [THEORY-095](../theory.d/THEORY-095.md)), "On a confusion about a
+function of consciousness" ([LIT-643](../literature.d/LIT-643.md)) and "Troubles with Functionalism"
+([LIT-407](../literature.d/LIT-407.md)), Nagel ([LIT-096](../literature.d/LIT-096.md)), Frankish (2016, [LIT-458](../literature.d/LIT-458.md)) and Chalmers
+(2018, [LIT-425](../literature.d/LIT-425.md)). The record's Block "Mental Paint" ([LIT-635](../literature.d/LIT-635.md)) is the 2003
 paper; the entry cites "Mental Paint and Mental Latex" (1996), which the
 record does not hold. Kammerer (2018), "Can You Believe It?", is not the
-Kammerer paper the record holds (LIT-409).
+Kammerer paper the record holds ([LIT-409](../literature.d/LIT-409.md)).
 
 Three cross-references in the entry point to the wrong subsection: §2.3
 sends inversion cases to "Section 4.4" (they are §4.5.3), §3.2 sends a
@@ -311,7 +311,7 @@ direct arguments" and gives five. None changes the content.
 
 ## Bearing on the record
 
-- **CLAIM-tmpdga80: the exchange's description needs correcting.** The
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md): the exchange's description needs correcting.** The
   exchange took strong representationalism as "the standing position
   nearest the constitutive thesis". On this entry that is true only for
   the character of experience, not for its occurrence.
@@ -332,7 +332,7 @@ direct arguments" and gives five. None changes the content.
   - **Wide content cuts against the claim.** The defenders the exchange
     named (Dretske, Tye, Lycan) are wide representationalists. On their
     view molecular duplicates can differ in quality. The claim, as it
-    reads THEORY-095, needs its interpretation to be internal. The
+    reads [THEORY-095](../theory.d/THEORY-095.md), needs its interpretation to be internal. The
     nearer relatives are the narrow representationalists (Shoemaker,
     Kriegel, Levine, Chalmers's Fregean content), and of these the
     nonreductive ones define content by reference to the qualities, which
@@ -341,7 +341,7 @@ direct arguments" and gives five. None changes the content.
     exchange said: phenomenology constitutes the fundamental kind of
     intentionality (§4.3). The entry adds that its proponents must treat
     the intentionality of unconscious states as derived or "interpretivist".
-- **CLAIM-tmp1lvwf: supports it, from the other side of the
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md): supports it, from the other side of the
   literature.** The objection that "representation can occur
   unconsciously" (§4.2) is this claim's objection, put to
   representationalism. The entry's answer is the claim's own diagnosis:
@@ -351,7 +351,7 @@ direct arguments" and gives five. None changes the content.
   awareness the entry does not give. So representationalism has the same
   open sufficiency condition the claim names, and it moves the condition
   to a different theory.
-- **QUESTION-tmpc4j7p.** Two points.
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** Two points.
   - **The autopilot driver.** On the entry's view this is a case of
     sensory quality without experience. Any answer to the question must
     classify the case, and the entry takes the side on which it is not
@@ -361,19 +361,19 @@ direct arguments" and gives five. None changes the content.
     question's processing-against-perspective step only if they fix
     occurrence. The entry uses them to fix which quality is represented,
     not whether it is experienced.
-- **TERM-tmpgqmop.** "Interpretation" in this entry is the "interpretivist"
+- **[TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md).** "Interpretation" in this entry is the "interpretivist"
   intentionality of Davidson and Dennett (§4.3): content ascribed by a
   charitable interpreter. That is the sense the TERM excludes, an
   "association supplied by an outside observer". The entry's own process
   word is "representation", for environmental properties, which is narrower
   than the TERM's determination of significance within an organization.
-- **TERM-tmpe36gg.** The entry's only "perspective" is the
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).** The entry's only "perspective" is the
   perspectivalist's first-person mode of presentation (§5.2), a way of
   representing a fact. It is nearest the TERM's sense 2 (represented), and
   the entry says it "encourages a representational theory of higher-order
   conscious awareness". It is none of the three senses exactly, so a claim
   that cites this literature for "perspective" should say which it means.
-- **THEORY-095 (Inverted Earth).** The entry gives the representationalist
+- **[THEORY-095](../theory.d/THEORY-095.md) (Inverted Earth).** The entry gives the representationalist
   side the THEORY's `promote_when` names and the record did not hold.
   - **Lycan's reply** is (iii): qualities are wide, so the traveller's
     qualities shift with content. On memory, his reply is the error theory
@@ -389,7 +389,7 @@ direct arguments" and gives five. None changes the content.
   - **Its other leads.** Stalnaker's (1996) version of the argument does not
     assume narrowness, and Pautz's structural mismatch argues for
     narrowness on independent grounds. Neither is held.
-- **THEORY-633 (illusionism).** §5.3 states illusionism as the denial
+- **[THEORY-633](../theory.d/THEORY-633.md) (illusionism).** §5.3 states illusionism as the denial
   of WIL properties (sense 4), keeping sensory qualities as represented
   properties. That matches the THEORY's "quasi-phenomenal properties" if
   these are the qualities. The entry reports Kammerer's (2018) verdict
@@ -397,19 +397,19 @@ direct arguments" and gives five. None changes the content.
   is the gap the THEORY's `promote_when` asks a worked theory to fill. It
   names critics (Strawson, Prinz, Balog, Nida-Rümelin, Schwitzgebel,
   Chalmers 2018) and none is reproduced.
-- **THEORY-103 and THEORY-091.** Block's overflow is experience
+- **[THEORY-103](../theory.d/THEORY-103.md) and [THEORY-091](../theory.d/THEORY-091.md).** Block's overflow is experience
   beyond access. The entry's unnoticed quality is a quality short of
   experience. The two disagree over the autopilot case, which Block
-  (1995, LIT-643) uses for phenomenality without access. The entry
+  (1995, [LIT-643](../literature.d/LIT-643.md)) uses for phenomenality without access. The entry
   notes that Block "fails to distinguish" senses (3) and (4) (§4.5.3,
   §5.1).
-- **QUESTION-tmpzje42 and THEORY-063.** Bourget (2017a) argues that only
+- **[QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) and [THEORY-063](../theory.d/THEORY-063.md).** Bourget (2017a) argues that only
   individuating the senses by content explains multimodal experiences
   "which unify distinct sub-experiences occurring in different
   modalities" (§3.3). That is a third candidate for unity beside the
   question's two: unity as the content of one represented scene. The
   entry gives it one sentence.
-- **Filed from this reading:** THEORY-tmptw1fe, that representing a
+- **Filed from this reading:** [THEORY-tmptw1fe](../theory.d/THEORY-tmptw1fe.md), that representing a
   sensory quality does not make it experienced.
 - No instruction for machine-learning practice; nothing for the
   anthology.
@@ -435,10 +435,10 @@ direct arguments" and gives five. None changes the content.
 
 - What is the account of awareness that turns an unnoticed quality into one
   there is something it is like to have? The entry defers it to the
-  higher-order literature (LIT-tmpx8g8s).
+  higher-order literature ([LIT-tmpx8g8s](../literature.d/LIT-tmpx8g8s.md)).
 - Is the absent-minded driver's perception unexperienced, as this entry
   holds, or experienced and forgotten or unattended, as Block would hold?
-  No evidence is given either way, and QUESTION-048's difficulty applies.
+  No evidence is given either way, and [QUESTION-048](../questions.d/QUESTION-048.md)'s difficulty applies.
 - Does Pautz's structural mismatch (§4.6) favour narrow qualities over
   wide ones, as he argues, or only show illusion about resemblance, as the
   reply says? Reading Pautz (2014, 2019) would test it.
