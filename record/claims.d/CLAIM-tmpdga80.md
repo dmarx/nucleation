@@ -162,8 +162,8 @@ added dreaming and hallucination.
   ([LIT-542](../literature.d/LIT-542.md); [LIT-tmphg31k](../literature.d/LIT-tmphg31k.md)) is the exchange's.
 
 For that reason none of these readings is listed among the claim's
-grounds. THEORY-056 and THEORY-680 are rival accounts of the same finding,
-and THEORY-766 leaves expectation and report confounds open. They mark
+grounds. [THEORY-056](../theory.d/THEORY-056.md) and [THEORY-680](../theory.d/THEORY-680.md) are rival accounts of the same finding,
+and [THEORY-766](../theory.d/THEORY-766.md) leaves expectation and report confounds open. They mark
 what the thesis must explain, not support for its conclusion.
 
 A7's verdict, which the claim adopts: "These motivate interpretive

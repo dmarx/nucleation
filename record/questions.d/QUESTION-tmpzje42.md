@@ -71,7 +71,7 @@ three things must be kept apart:
    kind.
 2. **Genuine non-gluing.** An empirical model with no global section under
    a cover and a correspondence between contexts that are fixed
-   independently of the verdict, as CLAIM-197 and CLAIM-143 require.
+   independently of the verdict, as [CLAIM-197](../claims.d/CLAIM-197.md) and [CLAIM-143](../claims.d/CLAIM-143.md) require.
 3. **Phenomenal unity.** Whatever makes an experience one.
 
 The question is whether (2) can take part in (3): whether a process whose

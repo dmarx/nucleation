@@ -75,7 +75,7 @@ whether most instances of such a class are unconscious would be an
 empirical question with no settled way to count instances (events,
 mechanisms, episodes). Nor does it say that blindsight is shown to be
 unconscious. Report and behaviour do not settle phenomenality
-(QUESTION-048), so blindsight is apparently unconscious processing. The
+([QUESTION-048](../questions.d/QUESTION-048.md)), so blindsight is apparently unconscious processing. The
 obstacle is that the broad definition admits processing that is not
 independently established as experiential, not that every unconscious
 interpretation has been identified.
