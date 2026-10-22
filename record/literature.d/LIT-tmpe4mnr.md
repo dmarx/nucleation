@@ -1,9 +1,21 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the owner's exchange of 2026-10-21, "Experience and interpretation", on whether experience is constituted by interpretation. No NOTE is filed.
+  searched 2026-10-22, no lawful full text reached; it failed on
+  availability. The article is a subscription article in Consciousness and
+  Cognition: Unpaywall reports it closed with no open-access location,
+  OpenAlex lists only the publisher and PubMed, Europe PMC marks it
+  "Subscription required" and it is not in PMC, and Semantic Scholar has
+  no open PDF. No preprint was found on searching Europe PMC's preprint
+  index and OSF preprints by title, or Semantic Scholar by title. The
+  publisher's page (ScienceDirect, PII S1053810026000838) returned 403 to
+  this client. Only the PubMed abstract was read, and the summary agrees
+  with it. No NOTE is filed. A copy from the owner, or from one of the
+  two authors whose addresses PubMed gives (Zheng Ye, Shanghai Jiao Tong
+  University; Xiaobin Ding, Northwest Normal University), would return it
+  to reading.
 title: 'Report-modulated prefrontal activity and consistent posterior representations during conscious visual perception'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -13,6 +25,17 @@ history:
     gives only the issue month. `published:` is the online date, 31 May
     2026, from PubMed (PMID 42218864, epub date); OpenAlex gives the same
     day. No preprint was found.
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Status Deferred to Unavailable (ADR-041). A lawful full text was
+    sought on 2026-10-22 through Unpaywall, OpenAlex, Europe PMC
+    (including its preprint index), OSF preprints, Semantic Scholar and
+    the publisher, and none was reached; the status note says where. The
+    PubMed abstract (PMID 42218864) was read and the summary checked
+    against it. Its affiliations are Northwest Normal University, Peking
+    University, Beijing Quanmag Healthcare and Shanghai Jiao Tong
+    University.
 tags:
 - consciousness
 - neuroscience
