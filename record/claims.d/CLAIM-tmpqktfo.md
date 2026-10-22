@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Reflexive governance of a perspective, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well'
+title: 'Reflexive governance of an organization''s perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well'
 version: 1
 role: thesis
 warrant: interpretive
@@ -39,7 +39,7 @@ illustrated_by:
 ---
 <!-- inactive-ok-file: CLAIM-025 CLAIM-284 CLAIM-288 CLAIM-364 CLAIM-tmp6bxtr CLAIM-tmp8lheg CLAIM-tmpbgq5o TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-tmpqktfo: Reflexive governance of a perspective, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well
+# CLAIM-tmpqktfo: Reflexive governance of an organization's perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well
 
 ## The claim
 
@@ -48,7 +48,13 @@ organized system can make the conditions governing its own
 interpretation, evaluation, and action available for effective
 examination and revision." The organized system is a perspective in
 [TERM-072](../terms.d/TERM-072.md)'s sense 1, a realized regime of interpretation; the claim says
-nothing about its senses 2 or 3.
+nothing about its senses 2 or 3. The capacity belongs to a
+perspective-bearing organization, not to the perspective as such: a
+diffuse tradition can reproduce itself through feedback with no
+organization that evaluates and revises its reproduction as a whole, and
+describing those dynamics should not require calling it an agent. (Title
+narrowed the same day from "Reflexive governance of a perspective", after
+a review the owner relayed.)
 
 A31 set it against [CLAIM-284](CLAIM-284.md) with four properties that "None entails all
 the others": reproducibility, historical continuity, effective governance,

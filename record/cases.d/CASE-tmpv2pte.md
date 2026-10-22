@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that the same organizational cause had returned, while its lessons-learned system was little used in between'
+title: 'Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between'
 version: 1
 standing: documented
 kind: specimen
@@ -27,7 +27,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-403 CLAIM-tmp6bxtr CLAIM-tmplrpat THEORY-140 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-715 — Unavailable; works sought and not reached, cited as unread -->
 
-# CASE-tmpv2pte: Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that the same organizational cause had returned, while its lessons-learned system was little used in between
+# CASE-tmpv2pte: Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between
 
 ## The case
 
@@ -48,8 +48,9 @@ object, beside the technical correction of the joint. In 2002 GAO
 managers and no assurance that lessons were applied.
 
 **Columbia.** Columbia broke up on re-entry on 1 February 2003. The
-Columbia Accident Investigation Board found the same organizational
-cause: evidence that the design was not performing as expected was
+Columbia Accident Investigation Board found that Challenger's
+organizational causes had not been fixed. In the record's reading of its
+chapter: evidence that the design was not performing as expected was
 reinterpreted as acceptable, each survived anomaly justified the next
 flight, and the safety organization depended on the program it oversaw.
 The record holds this as [THEORY-140](../theory.d/THEORY-140.md) (Proposed), from the board's chapter
@@ -75,6 +76,11 @@ deviance, is [LIT-715](../literature.d/LIT-715.md) (Unavailable).
 
 ## What it does not show
 
+- One unchanged cause. The board's finding, as [THEORY-140](../theory.d/THEORY-140.md) reads it, is a
+  recurrence of related organizational failure mechanisms over twenty
+  years, not a single mechanism that sat unaltered between the two
+  accidents. (Title narrowed the same day after a review the owner
+  relayed.)
 - Why the correction decayed. [THEORY-140](../theory.d/THEORY-140.md) gives the board's answer; this
   case does not test it.
 - The exchange's details that were not checked. Its "2001 GAO review" and

@@ -75,6 +75,12 @@ challenge at the Grajaú Country Club, won by the jiu-jitsu fighters; and a
 
 ## What it does not show
 
+- **Standing.** The rivalry and its matches are documented; the
+  interpretation offered here rests on an unread paper and on the
+  exchange's summary of it. `standing: documented` is the event's, not the
+  reading's, until Penglase is read. (Added the same day after a review
+  the owner relayed.)
+
 - That either tradition was better, or that any contest showed it.
 - That rules were changed in order to entrench a tradition. A36 kept that
   apart: "We should not infer the second from the first."

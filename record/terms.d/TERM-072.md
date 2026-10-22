@@ -53,6 +53,7 @@ used_by:
 - CLAIM-412
 - CLAIM-tmp8lheg
 - CLAIM-tmpqktfo
+- CLAIM-tmp9jg87
 ---
 <!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-tmp8lheg CLAIM-tmpqktfo — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
@@ -203,10 +204,16 @@ The exchange also tested "What would settle it", which says the term is
 shown wanting "if a claim needed a fourth sense". Its perspectives were
 mostly not tokens. A perspective "may have many bearers" (A32), can
 "migrate between parties", and is "realized across multiple persons and
-institutions". Sense 1 is a token, "a dynamically realized regime" in one
-system. [CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md) keeps four objects apart: the perspective as
-realized in a carrier (sense 1), its character, its lineage and its
-representations (sense 2). Two ways to take that here:
+institutions". Sense 1 is a token, "a dynamically realized regime".
+[CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md) keeps four objects apart: the perspective as realized
+(sense 1), its character, its lineage and its representations (sense 2).
+A realization need not lie inside one carrier: several carriers may share
+a kind or a lineage without forming one perspective, or may realize one
+perspective together, where integration of interpretation and practical
+consequence across them can be shown. (Added the same day after a review
+the owner relayed; the first version read sense 1 as realized "in one
+system", which would rule the third possibility out by definition.)
+Two ways to take character and lineage here:
 
 - **Keep three senses.** Character and lineage are relations among
   realizations, not senses of "perspective": two realizations share a

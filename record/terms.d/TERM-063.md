@@ -23,6 +23,8 @@ summary: >-
   with its designers and a trained policy's training process pass [TERM-044](TERM-044.md)
   and fail here. Proposed: recorded, not adopted. [THEORY-071](../theory.d/THEORY-071.md)'s own
   promotion test would settle it.
+used_by:
+- CLAIM-tmp9jg87
 ---
 <!-- inactive-ok-file: CLAIM-155 CLAIM-157 CLAIM-167 CLAIM-168 CLAIM-170 THEORY-801 — Proposed; the claims stated in TERM-044 and the wider reading of its third test, named as unchanged -->
 <!-- inactive-ok-file: THEORY-071 THEORY-583 — Proposed; the reading this definition is taken from and a rival account of the self, cited as open -->

@@ -148,9 +148,13 @@ that produces the collective.
 - **Party realignment** ([CASE-tmpd12oz](../cases.d/CASE-tmpd12oz.md)). The parties' organizations were
   transmitted continuously, names, institutions and all, while their
   coalitions and stances on civil rights changed. By this claim each party
-  persisted. What did not persist is the perspective it carried. So the
-  claim's criterion is one for a carrier's persistence, and a perspective
-  carried needs its own ([CLAIM-tmp8lheg](CLAIM-tmp8lheg.md)). A29: "Different political
+  persisted. Organizational continuity did not guarantee continuity of the
+  party's operative perspective: some orientations and constituencies
+  persisted, others migrated or transformed, and the parties' internal
+  perspectives were heterogeneous throughout. (Narrowed the same day after
+  a review the owner relayed; the first version said flatly that the
+  perspective did not persist.) So the claim's criterion is one for a
+  carrier's persistence, and a perspective carried needs its own ([CLAIM-tmp8lheg](CLAIM-tmp8lheg.md)). A29: "Different political
   coalitions developed, migrated, split, and recombined through
   institutions that retained their historical names."
 - **Descent through opposition** ([CLAIM-tmpdfe07](CLAIM-tmpdfe07.md)). A movement founded to

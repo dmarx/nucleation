@@ -60,14 +60,17 @@ perspective that persisted dormant between its active periods.
 
 - **Carrier and character come apart.** A party's name, organization and
   legal continuity persist while its coalition and stance change. In
-  [CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md)'s terms, the carrier persists while the perspective it
-  carries does not, and an orientation can acquire a new carrier. A40: "A
+  [CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md)'s terms, the carrier's continuity did not guarantee
+  continuity of its operative perspective: some orientations and
+  constituencies persisted, others migrated or transformed, and the
+  parties' internal perspectives were heterogeneous throughout. An
+  orientation can acquire a new carrier. A40: "A
   perspective may acquire a new institutional carrier. A carrier may
   acquire a new perspective. And that acquisition may transform both."
 - **Persistence by transmission, not resemblance.** [CLAIM-329](../claims.d/CLAIM-329.md) says a
   collective that replaces its members persists by causal transmission.
-  Realignment is the case where the organization was transmitted and the
-  perspective was not, so organizational persistence and perspectival
+  Realignment is the case where the organization was transmitted and its
+  perspectives were only partly, so organizational persistence and perspectival
   persistence need separate criteria.
 - **Change from below.** On Schickler's account the change ran from state
   parties and constituencies up to national leaders, which is

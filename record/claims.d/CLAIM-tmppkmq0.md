@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: their relative speeds help decide which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it'
+title: 'In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it'
 version: 1
 role: thesis
 warrant: interpretive
@@ -34,7 +34,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmp6uzps LIT-tmpboyvx — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-027 CLAIM-327 CLAIM-331 CLAIM-tmp8lheg — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-tmppkmq0: In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: their relative speeds help decide which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
+# CLAIM-tmppkmq0: In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
 
 ## The claim
 
@@ -92,6 +92,15 @@ apart from its perspective, for a state.
 
 ## What it does not say
 
+- **Not that timescale is a source of authority.** Speed confers nothing
+  by itself. A long-lived bureaucracy may accumulate information, networks
+  and capacity to implement without any lawful authority to decide policy,
+  and an election changes a coalition's authority quickly because
+  constitutional rules give that event its consequence, not because
+  elections are fast. The claim is that temporal horizons affect the
+  accumulation, exercise and durability of particular forms of influence
+  under specified institutional arrangements. (Made explicit in the title
+  the same day after a review the owner relayed.)
 - **Not new as political science.** A28 named Pierson's path dependence
   ([LIT-tmp6uzps](../literature.d/LIT-tmp6uzps.md)) and Putnam's two-level games ([LIT-tmpboyvx](../literature.d/LIT-tmpboyvx.md)), with
   Allison's bureaucratic politics and Tsebelis's veto players, as

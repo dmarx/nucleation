@@ -144,7 +144,13 @@ The senses are unchanged. If the claim is adopted, a claim using senses 2,
 3, 5 or 6 should say which perspective object it means instead.
 
 The exchange also filed the case that separates the senses most cleanly
-in one person: Clive Wearing ([CASE-tmpsp3d4](../cases.d/CASE-tmpsp3d4.md)) keeps 2 and 6, in his skills
-and short-horizon organization, while 3, as remembered continuity, and 4
-fail. This is the "What it is not" bullet, "The senses come apart", in a
-documented person.
+in one person: Clive Wearing ([CASE-tmpsp3d4](../cases.d/CASE-tmpsp3d4.md)) keeps substantial skilled
+competence and short-horizon organization (senses 2 and 6) through a
+profound loss of autobiographical memory and narrative continuity (sense
+4). The case does not show a failure of sense 3, persistence, in general.
+It shows why persistence must not be identified with remembered
+continuity, which is the "What it is not" bullet, "The senses come
+apart", in a documented person. (Corrected the same day, after a review
+the owner relayed: the first version of this note had sense 3 failing,
+"as remembered continuity", which is the conflation the case should
+prevent.)

@@ -79,6 +79,12 @@ the exchange's, unverified.
 
 ## What it does not show
 
+- **Standing.** The fire, the mayday and the review's main findings are
+  documented, from press coverage of the review. Anything beyond that,
+  including the review's specific findings and recommendations, waits on
+  the unread report. `standing: documented` is the event's, not the
+  reading's. (Added the same day after a review the owner relayed.)
+
 - That the safety culture changed. The owner's U23 premise was of a near
   miss that "resulted in a change to institutional safety culture"; A23
   weakened it to "enacted procedural and training changes", and this case

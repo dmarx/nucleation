@@ -90,6 +90,14 @@ themselves.
 
 ## What it does not say
 
+- **Not that success shows only competence under the exact rules.**
+  Success under one regime can be evidence of competence beyond it, where
+  the capacities it tests generalize across independently justified
+  contexts. The methodological problem is which generalizations are
+  warranted; a test that varies the regime while holding competitors'
+  relevant differences fixed would separate capacities robust across
+  conditions from those adapted to one test. (Added the same day after a
+  review the owner relayed, against an over-relativist reading.)
 - **Not that a test is unfair.** A36's own qualification above.
 - **Not motive.** A36: "the rules shape behavior. That's well supported.
   The stronger claim is that a governing institution changes rules *in

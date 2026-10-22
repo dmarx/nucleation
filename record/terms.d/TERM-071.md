@@ -28,6 +28,8 @@ summary: >-
   for "self". On the owner's U13 ("definitions we've crystallized that are
   not currently in conflict"). Adopted by the owner on 2026-10-21. The
   exchange's name "organizational reconstitution" is not adopted.
+used_by:
+- CLAIM-tmpj73lm
 ---
 <!-- inactive-ok-file: CLAIM-329 CLAIM-331 CLAIM-287 CLAIM-327 — Proposed; the claims each sense is taken from, open -->
 <!-- inactive-ok-file: THEORY-418 THEORY-465 — Proposed; readings on reconstitution and on being reproduced, cited as open -->

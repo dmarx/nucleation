@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves become representations of a perspective'
+title: 'What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself'
 version: 1
 role: thesis
 warrant: interpretive
@@ -26,26 +26,28 @@ uses:
 - TERM-045
 complements:
 - CLAIM-355
+- CLAIM-tmp9jg87
 summary: >-
   The owner's, at U31 of the exchange of 2026-10-22: the record's earlier
   "selves" are "better described as 'organizational perspectives'". A31
   agreed with a narrowing that this claim keeps. Selfhood "was carrying
   several explanatory burdens that we can now separate", and the subject
   sense is "A separate question". The sharp edge is what the replacement
-  must keep apart: one perspective realized in one carrier, a recognizable
-  character shared by many, a causal lineage of realizations, and a
-  carrier's model of itself. The exchange ran these together; the claim
+  must keep apart: a perspective as realized, in one carrier or distributed
+  across several, a recognizable character shared by many, a causal lineage
+  of realizations, and representations of any of these. The exchange ran these together; the claim
   does not.
 illustrated_by:
 - CASE-tmp859e4
 - CASE-tmpd12oz
 - CASE-tmpo48af
 - CASE-tmpsp3d4
+- CASE-tmpvnchr
 ---
 <!-- inactive-ok-file: LIT-tmp2g7bu LIT-tmpd4qxn — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-196 CLAIM-284 CLAIM-329 CLAIM-355 CLAIM-412 CLAIM-tmp3gvbj CLAIM-tmpqktfo TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-tmp8lheg: What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves become representations of a perspective
+# CLAIM-tmp8lheg: What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself
 
 ## The claim
 
@@ -78,11 +80,22 @@ is:
   [TERM-072](../terms.d/TERM-072.md) sense 1, in which interpretations are mutually answerable
   without having to agree.
 - **Senses 4 and 7, narrative and presented, and the "modeled" sense**
-  [TERM-045](../terms.d/TERM-045.md)'s note of 2026-10-18 flagged, become representations of a
-  perspective: [TERM-072](../terms.d/TERM-072.md) sense 2, or its represented owner. A31: "A
-  self-model is a representation that attributes some portion of an
-  organized perspective and its activity to a bounded, continuing owner."
-  This is [CLAIM-355](CLAIM-355.md)'s construction, which the claim complements.
+  [TERM-045](../terms.d/TERM-045.md)'s note of 2026-10-18 flagged, involve representations, and
+  representations of different things. One may describe an organizational
+  perspective ([TERM-072](../terms.d/TERM-072.md) sense 2); one may attribute it to a continuing
+  bearer; one may construct an owner of the activity represented, which is
+  [TERM-072](../terms.d/TERM-072.md)'s represented owner and [CLAIM-355](CLAIM-355.md)'s construction. These are
+  distinct achievements with distinct errors, and none is the perspective
+  itself. A narrative self can represent the history of a person, with
+  relationships, actions and obligations that are not aspects of one
+  perspective; a presented self may concern a role and impressions, not an
+  interpretive standpoint. A narrative can also be causally constitutive
+  of a person's practical organization, not only an account of something
+  complete without it. A31: "A self-model is a representation that
+  attributes some portion of an organized perspective and its activity to
+  a bounded, continuing owner." (Narrowed the same day after a review the
+  owner relayed; the first version said these selves "become
+  representations of a perspective".)
 - **Sense 1, subject**, is untouched. Nothing here says whether an
   organizational perspective is a phenomenal one; that is [TERM-072](../terms.d/TERM-072.md)'s
   sense 3 and [CLAIM-412](CLAIM-412.md)'s bridge.
@@ -104,12 +117,21 @@ The exchange's own perspective was mostly a kind or a lineage: "A
 perspective may have many bearers", it can "migrate between parties", be
 "realized across multiple persons and institutions" (A31, A32). It was
 also a token: a person "may enact several perspectives". [TERM-072](../terms.d/TERM-072.md) sense 1
-is a token, "a dynamically realized regime" in a system. So the claim
-needs four objects, which A37 and A40 tabulated in different forms and
-the claim fixes as:
+is a token, "a dynamically realized regime". So the claim needs four
+objects, which A37 and A40 tabulated in different forms and the claim
+fixes as:
 
-1. **A perspective as realized**, in one carrier at one time ([TERM-072](../terms.d/TERM-072.md)
-   sense 1).
+1. **A perspective as realized** ([TERM-072](../terms.d/TERM-072.md) sense 1). Its realization need
+   not lie inside one pre-individuated carrier. Several people or
+   institutions can share a kind, or a history, without forming one
+   operative perspective; but a continuously interacting school, or an
+   emergency response across agencies, may realize one perspective through
+   the relations among its participants, where integration of
+   interpretation and practical consequence across them can be shown
+   independently. The claim does not stipulate that such distributed
+   realizations exist, and does not rule them out by requiring one
+   carrier. Whether one is an agent is a further question
+   ([QUESTION-tmpmzijj](../questions.d/QUESTION-tmpmzijj.md)).
 2. **Its character**, a pattern by which realizations are recognized as of
    one kind. Two unrelated traditions can share one. The record's
    character theory ([CLAIM-137](CLAIM-137.md)) is scoped to communicative kinds and is
