@@ -5,7 +5,14 @@ formerly:
 - QUESTION-tmpzf5on
 title: How should the sufficiency of a retained state be judged when the family
   of future decisions can itself change in response to what the inquiry finds?
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after the Ledger of Will was read
+    (NOTE-tmpvddyu): a partial answer for a revision family declared in
+    advance. The question stays open.
 tags:
 - epistemology
 - mathematical-statistics
@@ -19,6 +26,7 @@ summary: >-
 answered_by:
 - CLAIM-295
 - CLAIM-300
+- THEORY-tmp7q3ne
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -50,3 +58,15 @@ a concept's scope, auditing an inference.
 An answer fixes such a class, states the distribution over it, and says
 what a retained state must keep. [CLAIM-295](../claims.d/CLAIM-295.md) is the record's candidate account
 of why history would be worth keeping at all.
+
+## Note of 2026-10-22: a partial answer from the Ledger of Will
+
+The Ledger of Will ([LIT-1376](../literature.d/LIT-1376.md), read in full) answers this question for one
+case: its revision closure (Proposition 4) holds for a revision family
+declared in advance, filed as [THEORY-tmp7q3ne](../theory.d/THEORY-tmp7q3ne.md). It leaves the open-ended
+case open, and says so: "An agent cannot infer that its future concerns
+are exhausted by its current ontology. The response is explicit scope and
+retained routes to reacquisition" (§10). Its fibre criterion (Proposition
+2) is [CLAIM-350](../claims.d/CLAIM-350.md)'s result stated independently for histories, and its
+"Information availability and computational accessibility are different
+resources" (§5.2) is one of [CLAIM-295](../claims.d/CLAIM-295.md)'s three values.

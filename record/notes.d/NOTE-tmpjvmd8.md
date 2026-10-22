@@ -1,0 +1,163 @@
+---
+status: Read
+paper: 'LIT-1385'
+title: 'Pettijohn & Radvansky — Doorways: event structure or updating disruption?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the publisher's typeset PDF of
+    Quarterly Journal of Experimental Psychology 69(11), 2119–2129, as
+    posted by the second author's laboratory on the University of Notre
+    Dame Memory Lab publications page
+    (memorylab.nd.edu/assets/259392/pettijohn_radvansky_2016_quarterly_journal_of_experimental_psychology_.pdf),
+    converted to text with pdftotext. Unpaywall, OpenAlex, Semantic Scholar
+    and Europe PMC list no open copy. Read: the abstract, introduction, both
+    experiments with Tables 1 and 2, the between-experiment analysis and
+    the General Discussion. The reference list was skimmed. The PDF gives
+    "first published online 16 February 2016". Page numbers are the
+    journal's.
+date: '2026-10-22'
+summary: >-
+  Two virtual-navigation experiments from the originating lab. Travel time
+  was not longer through doorways, and a 3-second pause before the probe
+  left the effect as it was, so neither a longer retention interval nor a
+  passing cost of updating explains it. In both, the effect was confined to
+  the carried object. The authors take this as support for interference
+  between the two event models that hold that object.
+---
+<!-- inactive-ok-file: CLAIM-421 THEORY-tmpiwyd2 THEORY-tmpg9wtv — Proposed; claims and accounts this reading bears on, named, not leaned on -->
+
+# NOTE-tmpjvmd8: Pettijohn & Radvansky — Doorways: event structure or updating disruption?
+
+## Contribution
+
+Rules out two simple explanations of the location updating effect within
+the original paradigm. Doorway trials did not take longer, so retention
+interval is not the cause. A 3-second delay before the probe did not
+shrink the effect, so it is not a transient cost of updating, the
+explanation Radvansky & Copeland ([LIT-1392](../literature.d/LIT-1392.md)) had given. The remaining
+account is the event horizon model's: retrieval interference.
+
+## Key insight
+
+The effect sits on the object being carried, and that is what makes it an
+interference effect rather than a decay or deactivation effect. "The idea
+that information from a prior event model is less available is consistent
+with the decline in availability of information in the dissociated
+condition as that object is not carried to the new event model. However,
+the result of central interest here is the effect of a shift in the
+associated condition, which lends itself to a competition-based account"
+(p. 2126). "The effect is a result of the competition between these two
+event models during retrieval, even though they are both pointing to the
+same response" (p. 2125).
+
+## Assumptions
+
+- **A 3-second pause is enough for updating to finish.** Justified by
+  reading-time effects at narrative boundaries being under a second
+  (p. 2123). If updating took longer, the delay would not test the
+  disruption account.
+- **Interference and deactivation are the two live accounts.** Other
+  explanations (context change, task demands of navigating doorways) are
+  not tested here.
+- **The event horizon model** as stated in [LIT-1384](../literature.d/LIT-1384.md).
+
+## Key results
+
+- **Experiment 1** (N = 48; 46-inch touchscreen, joystick, headphones with
+  footsteps, lights off; 48 probes, with 12 "yes" probes after a shift and
+  24 without, plus fillers). Errors on associated probes .113 after a shift
+  against .046 without, F(1,47) = 12.81, p = .001; dissociated .149 against
+  .188, p = .20. Shift × association interaction on errors p = .02 (the
+  paper reports F = 9.35 with p = .02); on response time F(1,47) = 14.34,
+  p = .001, with associated 1,543 against 1,275 ms. Travel time: no-shift
+  15.6 s, shift 14.4 s, p = .088, so "If anything, in this study, the
+  retention interval was longer in the no shift condition" (p. 2122).
+- **Experiment 2** (N = 57; the same with a 3-second dimmed pause before
+  each probe). Associated errors .114 against .072, F(1,56) = 7.42,
+  p = .009; dissociated .197 against .217, F < 1. Interaction on errors
+  p = .04; response times associated 1,649 against 1,354 ms, p < .001.
+  "Again, this shows that walking through doorways causes forgetting, and
+  that this is largely confined to the associated probes" (p. 2123).
+- **Between experiments** (N = 105). No interaction of experiment with
+  shift or association on errors or response times (Fs < 1). The delay
+  changed nothing.
+- **Working memory.** The load is two objects, yet "it is typically the
+  case that memory error rates double or triple in this research paradigm
+  when a person has moved from one event to another" (p. 2127). What that
+  says about working memory is left open: "the nature of such processes is
+  unclear at this time" (p. 2127).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The doorway effect on the carried object replicates with joystick, touchscreen and headphones | moderate (same lab, same paradigm) | Experiments 1 and 2 |
+| C2 | It is not a retention-interval effect | moderate | travel times recorded, if anything longer without a shift; a room-size manipulation cited from the authors' 2015 work |
+| C3 | It is not a transient disruption from updating | moderate, given the 3-s assumption | Experiment 2 and the between-experiment analysis |
+| C4 | The effect on the carried object is retrieval interference between two event models | interpretive | by elimination of C2 and C3, and from the event horizon model |
+| C5 | The effect does not reach the object just set down | weak (nulls on few trials) | both experiments, p ≥ .20 |
+
+## Concepts
+
+- **Location updating effect**, **associated / dissociated**, **event
+  horizon model**: as in [LIT-1392](../literature.d/LIT-1392.md) and [LIT-1384](../literature.d/LIT-1384.md).
+- **Retention-interval account**: more forgetting because more time passes
+  on doorway trials.
+- **Updating-disruption account**: a temporary drain on resources while
+  the event model is rebuilt at the boundary, after reading-time costs at
+  narrative shifts (Zwaan et al. 1995).
+
+## Connections
+
+It follows [LIT-1392](../literature.d/LIT-1392.md) and [LIT-1384](../literature.d/LIT-1384.md), and cites companion papers from the same
+lab not held here (Radvansky, Tamplin & Krawietz 2010; Radvansky, Pettijohn
+& Kim 2015; Pettijohn & Radvansky 2015, on room size and single objects;
+Lawrence & Peterson, imagined travel). It restates [LIT-1384](../literature.d/LIT-1384.md)'s return result
+accurately: "there was no difference in the pattern of data compared to the
+shift condition" (p. 2126). It does not cite event segmentation theory.
+
+## Bearing on the record
+
+- **[CASE-136](../cases.d/CASE-136.md).** The case's bullet is accurate: similar travel times, a
+  3-second delay with no change, and interference among event models that
+  share elements. It should add that the effect was on the carried object
+  only, in both experiments.
+- **[CLAIM-421](../claims.d/CLAIM-421.md) (activation interruption).** This is the paper that sets
+  the two mechanisms against each other, and it argues against the one
+  [CLAIM-421](../claims.d/CLAIM-421.md) uses for the doorway. Deactivation of the prior event model
+  is granted for the object set down, which showed no reliable doorway
+  effect here. The doorway effect proper, on the carried object, is
+  assigned to "a competition-based account". If the record wants the
+  doorway effect as an activation interruption, it is reading against the
+  authors. The case's own quotation from A37 ("lost accessibility because
+  the current situation is being organized through a different event
+  model, one in which the intention's earlier contextual supports are no
+  longer active") is closer to the deactivation account the paper calls
+  secondary.
+- **Proposed [THEORY-tmpiwyd2](../theory.d/THEORY-tmpiwyd2.md)** takes this paper as a primary source.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- Same lab, same paradigm, undergraduates; the shift condition has 12
+  "yes" probes per person, so about 6 per cell for associated probes.
+- The 3-second delay tests only a disruption that ends within 3 seconds.
+- Interference is reached by elimination of two alternatives; it is not
+  tested against deactivation by a condition where they predict opposite
+  results.
+- Travel-time figures differ between the text (15.6 and 14.4 s) and Table
+  1 (cell means of 13.47 to 17.18 s, one printed as "17,178"), and the
+  Experiment 1 interaction is printed with a p-value that does not match its
+  F. Small, but the reporting is loose.
+
+## Open questions
+
+- What would interference predict that deactivation does not? The paper
+  names none; a condition where the carried object is put down and picked
+  up again in the new room, or a probe for an object that was in both rooms
+  without being carried, might separate them.
+- Do the effects survive balanced trial counts and an independent lab?
+  ([LIT-1387](../literature.d/LIT-1387.md) is the record's one attempt, with different conditions.)

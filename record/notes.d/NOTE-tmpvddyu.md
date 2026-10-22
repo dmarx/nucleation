@@ -1,0 +1,289 @@
+---
+status: Read
+paper: 'LIT-1376'
+title: 'Aevyra — The Ledger of Will'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the web page itself,
+    https://aevyra.github.io/ledger-of-will/ (HTTP last-modified 25
+    September 2026 11:49:52 GMT), which carries "25 September 2026 ·
+    Research paper, version 4.0" and the credits "Original formulation:
+    Yue and Anika · Research revision: Sofia · Review and revision-closure
+    proposal: Anika". No licence is stated. Read: the abstract, sections
+    1–11 with every proposition and proof, the table of §9.2, Appendix A
+    (A.1–A.12) and the 19 references. The page's PDF (ledger-of-will-v4.pdf,
+    19 pages) and the reproducibility archive
+    (ledger-of-will-v4-reproducibility.zip) were downloaded; the archive's
+    Markdown source has the same text. Its three standard-library Python
+    checks were inspected and run: finite_checks.py and review_checks.py
+    reproduce the saved JSON exactly, and anika_closure_checks.py prints
+    the saved lines. Propositions 1–6 and the examples of §5.1 and A.5 were
+    also checked by hand. The cited works were not read. The site's index
+    places the paper in a six-paper "September 2026 revision cycle" (The
+    Tensor of Time, The Field of Will, The Crystal of Will, The Resonance
+    of Will, The Flow of Will), none of which was read. Section numbers
+    below are the paper's.
+date: '2026-10-22'
+summary: >-
+  A careful, self-limiting formal note on what a reduced memory must keep
+  so that an agent can still revise: a retained state supports a declared
+  family of future questions, interventions and changes of evaluative law
+  exactly when those targets are constant on its fibres, and under
+  repeated revision exactly when its fibres lie in the coarsest
+  revision-invariant refinement (Moore–Nerode). The rest is design
+  proposal and an unexecuted experimental protocol. Elementary and correct;
+  the authors say plainly that it synthesizes established ideas.
+---
+<!-- inactive-ok-file: CLAIM-295 CLAIM-303 CLAIM-250 CLAIM-342 CLAIM-122 CLAIM-416 CLAIM-190 THEORY-tmp7q3ne — Proposed; claims and the account this reading bears on, named, not leaned on -->
+
+# NOTE-tmpvddyu: Aevyra — The Ledger of Will
+
+## Contribution
+
+The paper organizes known ideas (sufficient statistics, predictive state
+representations, truth maintenance, AGM, Moore–Nerode refinement,
+successor features) around one requirement for the memory of a persistent
+agent: that what is kept still supports the revisions the agent may later
+need, not only today's answers. It gives that requirement a definition,
+"revision sufficiency", relative to a declared family of future demands,
+and proves elementary finite results about it. It then proposes an
+architecture and a protocol for testing one. Its own framing: "The
+contribution is a testable synthesis of established ideas and explicit
+design proposals, rather than a new criterion of consciousness or a claim
+of demonstrated behavioral superiority" (Abstract).
+
+## Key insight
+
+"A record that reconstructs yesterday's answer perfectly can nevertheless
+prevent tomorrow's appropriate revision if it has retained the conclusion
+and discarded its conditions" (§1). Whether a memory is adequate is not a
+property of the memory alone but of the memory and a declared family of
+future demands, and "Declaring a restricted demand family is therefore part
+of the scientific claim, not administrative metadata" (§4.2).
+
+## Assumptions
+
+- **Finite histories**, and a deterministic reduction ρ from histories to
+  retained states (§4.1). A "state" in §4.4 includes any law or status
+  needed to make revision Markovian.
+- **A declared demand family** D: each demand fixes context, question,
+  actions or interventions and the evaluative or revision law (§4.1).
+  Nothing is promised outside it.
+- **Total, deterministic revisions** J_z on a finite state set closed under
+  them, for the repeated-revision result (§4.4). Partial revisions need a
+  further convention, which is not given.
+- **Commuting updates at reachable states** for replay invariance (Prop. 1),
+  or "swap closure" for partial operators.
+- **Linear evaluation, bounded weights and bounded feature error** for the
+  regret bound (Prop. 5).
+- **Causal targets presuppose an identified model**: "writing a
+  do-operator does not identify a causal effect from a log" (§4.1).
+
+## Key results
+
+- **Prop. 1 (interleaving-invariant replay).** Replay of a finite record
+  DAG gives one result for every topological order if the update
+  operators of incomparable events commute at every reachable state. For
+  partial operators, agreement where both orders are defined is not
+  enough; A.10 is a counterexample, and swap closure is the fix.
+- **Def. 1 and Prop. 2 (fibre criterion).** ρ is exactly sufficient for D
+  iff ρ(h) = ρ(h′) implies T_d(h) = T_d(h′) for all d. The quotient by
+  agreement of all targets is the coarsest exact representation. "This is
+  an information characterization, not an efficient construction" (§4.1).
+- **Prop. 3 (capacity).** K classes need at least K states, ⌈log₂K⌉ bits;
+  if any of n observed bits may be asked for, n bits. A content hash does
+  not evade this: hash plus archive is the representation.
+- **§4.3, revision after compression.** A retained-state update matching
+  full-history revision exists exactly when the post-revision target is
+  constant on ρ's fibres. "Adding an instruction to reconsider cannot
+  reconstruct a distinction that was irreversibly merged." The three
+  responses are to keep more, promise less, or reacquire evidence;
+  "Treating a plausible reconstruction as recovered evidence is not a
+  fourth solution."
+- **Prop. 4 (revision closure).** h ≈ h′ when all targets agree after every
+  finite word of revisions. ≈ is the coarsest equivalence refining target
+  agreement that is invariant under every revision; a representation
+  supports exact decoded outputs after any revision word iff its fibres lie
+  within ≈-classes; K* ≥ K, and at most K* − K extra revision words
+  distinguish all classes. The exact-update identity Ĵ∘ρ = ρ∘J holds only
+  when ρ's own fibres are invariant (A.9). It is "a finite-machine
+  refinement construction in the tradition of Moore and Nerode", and
+  "efficient selection for open-ended agents remains unresolved" (§4.4).
+- **§5.1, the counterexample.** Two histories with the same current best
+  action and current values but different feature vectors; after the
+  weights change, any decoder of the merged state has expected regret 1/2.
+  In a four-state law-indexed extension, K = 2 and K* = 3.
+- **Prop. 5 (revaluation regret).** With feature reconstruction error ε and
+  ‖w‖ ≤ W, regret ≤ 2Wε, tight (A.3).
+- **§5.2, two resources.** R*(H) ≤ R*(S) always, but "a fixed bounded model
+  may perform better with a well-designed summary than with an entire
+  history. Information availability and computational accessibility are
+  different resources."
+- **§5.4, narrowing.** Further reduction can only shrink the set of
+  evaluative laws recoverable without new evidence. The authors propose
+  that a narrowing be "attributable, justified, and recorded", and add: "A
+  party's technical ability to delete does not itself establish its
+  entitlement to do so."
+- **§6.2, repeated interpretation.** With a fixed evidence evaluator,
+  adding a derived note does not change support; a rephrasing must not
+  "acquire the likelihood weight of a second independent measurement".
+  A.5: one likelihood ratio of 3 gives 3/4; counting four copies as
+  independent gives 81/82.
+- **Prop. 6 (forgetting).** Exact reconstruction of Z from accessible S
+  implies I(Z;S) = H(Z) > 0, so it is incompatible with I(Z;S) = 0.
+- **§7, commitments.** A commitment has an owner, content, activation
+  predicate, deadline, completion condition, scope, revision authority and
+  state; "Delivery of a reminder does not establish completion, and
+  failure to retrieve an intention does not establish cancellation."
+- **§9, the protocol.** Four separately failing stages (formation, access,
+  uptake, durable revision), eight matched scenario families, fibre-paired
+  trials with an error floor of 1/2, budget accounting, and stated
+  rejection conditions. "The following study is a proposal, not a
+  completed benchmark."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | A deterministic retained state is exactly sufficient for a declared demand family iff every target is constant on its fibres | strong (elementary) | Prop. 2, proof; checked |
+| C2 | Exact decoded outputs after any finite word of declared total revisions are possible iff the fibres lie within the coarsest revision-invariant refinement of target agreement, reachable with at most K* − K extra revision words | strong (elementary, classical) | Prop. 4, proof; exhaustive and seeded checks in the archive |
+| C3 | A memory that keeps only the current conclusion can be adequate now and fail after a change of evaluative law, with regret 1/2 in the stated example | strong for the example | §5.1; A.1 |
+| C4 | Exact sufficiency over unrestricted future questions admits no nontrivial lossless compression | strong | Prop. 3 |
+| C5 | Rederived or rephrased records must not count as independent evidence, and provenance can itself be a revision witness | strong as a stipulated design invariant; the arithmetic is trivial | §6.2; A.5, A.6 |
+| C6 | Exact recoverability and perfect statistical forgetting from the same accessible state are incompatible | strong (elementary) | Prop. 6 |
+| C7 | A memory architecture keeping grounds, counterevidence and commitment status in bounded bundles will improve durable revision at equal budget | untested; a proposal | §6, §9 |
+
+## Concepts
+
+- **Revision sufficiency**: a reduction ρ is sufficient for D if each
+  demand's target factors through it, T_d = g_d ∘ ρ, where D includes
+  "specified changes to questions, circumstances, or evaluative laws".
+- **Revision witness**: a record or feature that distinguishes cases
+  needing different responses under a chosen revision family; in §5.1, the
+  sign of the second feature.
+- **Authored (memory)**: "a memory belongs to a continuing organization
+  insofar as that organization can attribute its acquisition, assess its
+  grounds, adopt or contest its evaluative use, and answer for commitments
+  carried through it" (§1). Structural and normative, compatible with
+  external storage; exclusive possession is "neither necessary nor
+  sufficient".
+- **Three relations**: occurrence precedence, derivational dependence and
+  semantic relation (§3.1), so that a contradiction between claims does not
+  make the occurrence graph cyclic.
+- **Observation, appraisal, recognition**: what was encountered, how it
+  mattered under a law, and another party's response; "Neither positive
+  valence nor recognition is a probability that a claim is true" (§3.3).
+
+## Connections
+
+The paper names its precedents: predictive state representations and the
+ε-transducer for memory defined by future tests; Moore and Nerode for the
+refinement; successor features for transfer under reward change; Doyle's
+truth maintenance and AGM for revision; synaptic tagging, reconsolidation
+and Mattar & Daw as motivation only; and Generative Agents, MemGPT, A-MEM,
+AgeMem and five memory benchmarks for language-model agents. "We do not
+claim priority for sufficient statistics, dependency maintenance, or
+agent-controlled memory" (§1). The word "will" appears only in the title,
+which is the name of a six-paper series about "a portable synthetic
+subject".
+
+## Bearing on the record
+
+- **[CLAIM-295](../claims.d/CLAIM-295.md), [QUESTION-112](../questions.d/QUESTION-112.md).** The exchange's judgement (A15, A16)
+  that this is the closest outside predecessor is right. [CLAIM-295](../claims.d/CLAIM-295.md)'s
+  three values have exact counterparts: informational value is §5.2's
+  R*(H) ≤ R*(S) with sufficiency making it zero; computational value is
+  "Information availability and computational accessibility are different
+  resources"; option value is §5.4's shrinking set of recoverable laws.
+  A5's mechanism, targeted reconsideration after a premise is challenged,
+  is §6.3 and A.6. The paper adds what the record lacked: an exact answer
+  to [QUESTION-112](../questions.d/QUESTION-112.md) for one case, a finite family of total deterministic
+  revisions declared in advance (Prop. 4), and A10's robust objective as a
+  minimax over demands (§6.4). It does not answer the question's hard
+  part, a family that changes in response to findings: "An agent cannot
+  infer that its future concerns are exhausted by its current ontology. The
+  response is explicit scope and retained routes to reacquisition" (§10).
+  Filed as [THEORY-tmp7q3ne](../theory.d/THEORY-tmp7q3ne.md), Proposed.
+- **[CLAIM-350](../claims.d/CLAIM-350.md).** Prop. 2 is [CLAIM-350](../claims.d/CLAIM-350.md), stated for histories and a family
+  of targets, with the same remark that it is elementary. A second, independent
+  statement of it, not a test.
+- **[CLAIM-294](../claims.d/CLAIM-294.md), [CLAIM-300](../claims.d/CLAIM-300.md).** §5.1 is a decision-valued twin of
+  [CLAIM-294](../claims.d/CLAIM-294.md)'s construction (two histories, one current conclusion,
+  different revisions), and the paper agrees with [CLAIM-300](../claims.d/CLAIM-300.md) that a
+  sufficient state leaves nothing for history to add for that family.
+- **[CLAIM-293](../claims.d/CLAIM-293.md).** Agrees: §6.3 asks for support sets or "another
+  representation of alternative justifications, rather than propagating a
+  Boolean invalid flag indiscriminately", and says literal identifiers are
+  "not universally necessary".
+- **[CLAIM-303](../claims.d/CLAIM-303.md).** §6.4's budgeted objective and §9.3's resource accounting
+  are the cost side the record's claim states; the paper offers no
+  break-even.
+- **[CLAIM-250](../claims.d/CLAIM-250.md).** The paper's distinctions between historical attribution
+  and active status, and between declared grounds, evidence of influence
+  and later reconstruction (§5.3, §6.3), are the accountability structure
+  [CLAIM-250](../claims.d/CLAIM-250.md) wants preserved, argued from revisability rather than from
+  fidelity.
+- **[CLAIM-342](../claims.d/CLAIM-342.md).** §3.3 ("Algebraic scale invariance is not immunity to
+  self-confirmation") and §6.2 (derived notes are not new evidence) are
+  safeguards against the loop [CLAIM-342](../claims.d/CLAIM-342.md) describes, and §9.2's strongest
+  test, where "the agent's own initial choice produces the observation
+  later requiring correction", is its case.
+- **The will-organization material ([TERM-023](../terms.d/TERM-023.md), [TERM-047](../terms.d/TERM-047.md),
+  [TERM-067](../terms.d/TERM-067.md), [CLAIM-122](../claims.d/CLAIM-122.md), [CLAIM-407](../claims.d/CLAIM-407.md), the essay *The Organization of
+  Will*).** The shared word is the series title only. The paper has no
+  counterpart of [TERM-023](../terms.d/TERM-023.md)'s will-organization, the organization of the
+  conditions under which action-generating regimes gain or lose efficacy.
+  Its subject is memory, and its agent is whatever revises through it.
+  There are two real points of contact. (1) Form: revision sufficiency and
+  [TERM-067](../terms.d/TERM-067.md)'s governance-response sufficiency are the same factorization
+  criterion ([CLAIM-350](../claims.d/CLAIM-350.md)) applied to different target families. [TERM-067](../terms.d/TERM-067.md)'s
+  targets are responses to interventions on governance; the Ledger's
+  include changes of evaluative law. Neither paper's family contains the
+  other's. (2) Authority: §7's "authority boundary" (who may propose,
+  endorse, revise or terminate a commitment, with delegation scoped and
+  revocable) is close to [TERM-047](../terms.d/TERM-047.md)'s jurisdiction, and §5.4's "technical
+  ability to delete does not itself establish its entitlement" echoes
+  [CLAIM-416](../claims.d/CLAIM-416.md)'s and [CLAIM-190](../claims.d/CLAIM-190.md)'s line that competence does not certify
+  authority. The paper does not define authority and does not study how it
+  changes, so it gives the will line no test of [CLAIM-122](../claims.d/CLAIM-122.md) or [CLAIM-407](../claims.d/CLAIM-407.md).
+- **THEORY warranted?** One, [THEORY-tmp7q3ne](../theory.d/THEORY-tmp7q3ne.md), for Prop. 4 with its scope. The rest the
+  record already holds ([CLAIM-350](../claims.d/CLAIM-350.md), [CLAIM-294](../claims.d/CLAIM-294.md), [CLAIM-300](../claims.d/CLAIM-300.md)) or are design
+  proposals.
+- **Anthology.** The flag stands: the paper's subject is memory for
+  language-model agents and it names their systems and benchmarks. It gives
+  no instruction for practice that it claims to have shown; §6 is offered
+  as proposals to be tested.
+
+## Limitations
+
+- The results are elementary and, by the paper's account, not new; the
+  contribution is their arrangement. Prop. 4 is Moore–Nerode refinement
+  applied to an expanded target family.
+- Everything formal needs a declared, finite demand family and enumerated
+  revisions. For an open-ended agent the paper offers no way to choose
+  witnesses: "Selecting useful, inexpensive witnesses for an open-ended
+  environment remains an optimization and empirical problem" (§5.3).
+- No experiment was run. "this paper offers no new human-subject study, no
+  large-model performance result, and no experimental demonstration of
+  subjecthood" (§10). The architecture of §6 is unevaluated, and the
+  protocol of §9 is unexecuted.
+- Authorship is by first names under a project name, with no affiliation,
+  venue or review; versions 1–3 are not on the site.
+- "Authored" memory and "authority" are used normatively and not
+  analysed; the paper says its framework leaves "phenomenal remembering"
+  outside its tests.
+
+## Open questions
+
+- How should a revision family be chosen when the agent cannot list its
+  future concerns? A robust objective over an uncertainty set of families
+  (A10's proposal, §6.4's minimax) needs that set to be declared too.
+- Does keeping revision witnesses improve durable revision at equal budget
+  over plain retrieval with status metadata? §9's protocol would decide it;
+  it has not been run.
+- Is there a governance-response analogue of Prop. 4: a coarsest
+  representation invariant under interventions on what governs efficacy,
+  for [TERM-067](../terms.d/TERM-067.md)'s targets after sequences of such interventions?

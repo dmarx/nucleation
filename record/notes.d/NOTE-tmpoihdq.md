@@ -1,0 +1,220 @@
+---
+status: Read
+paper: 'LIT-1390'
+title: 'Lerman, Yan & Wu — The majority illusion in social networks'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the publisher's PDF of PLOS ONE 11(2):
+    e0147617 (journals.plos.org, "printable" file, 13 pages), CC BY 4.0,
+    converted to text with pdftotext. Read: the abstract, Introduction,
+    Materials and Methods, Results (both subsections), Conclusion, the
+    captions of Figs 1–5 and Table 1, and the reference list. Not read: the
+    Supporting Information, S1 File (the derivation of the generalized
+    friendship paradox for binary attributes) and S1 Fig, which are separate
+    files. The figures were not viewed as images; their content is taken
+    from the captions and the text. The arXiv v1 of 9 June 2015, which
+    `published:` takes, was not compared with the journal version.
+date: '2026-10-22'
+summary: >-
+  A sampling fact about networks, not a finding about people: when an
+  attribute is correlated with degree, the share of nodes that see it in a
+  majority of their neighbours can far exceed its global share (60–80% of
+  nodes when 5% hold it, in a heavy-tailed synthetic network), and more so
+  in disassortative networks. A binomial model from the joint degree
+  distribution predicts the share. No person's belief or behaviour is
+  measured, and the attributes on the real networks are assigned, not
+  observed.
+---
+<!-- inactive-ok-file: CLAIM-415 CLAIM-355 THEORY-242 — Proposed; the claims and accounts this reading bears on, named, not leaned on -->
+<!-- inactive-ok-file: LIT-1370 — Deferred or Unavailable; the work this paper cites, named, not leaned on -->
+
+# NOTE-tmpoihdq: Lerman, Yan & Wu — The majority illusion in social networks
+
+## Contribution
+
+It names and quantifies a variant of the friendship paradox. With a
+binary attribute ("active" or "inactive"), many nodes can find that more
+than half their neighbours are active although few nodes are. The paper
+shows how large the share of such nodes gets in synthetic and real
+network topologies as the correlation between degree and attribute, the
+degree assortativity and the heaviness of the degree distribution vary.
+It gives a statistical model (Eq 5) that predicts the share from the
+degree distribution, the joint degree distribution and the conditional
+attribute distribution. What is new is the measure and its dependence on
+assortativity, not the underlying mechanism, which is the friendship
+paradox's: high-degree nodes are over-represented in neighbourhoods.
+
+## Key insight
+
+Each node's local view can be accurate and still unrepresentative. When
+the active nodes are the hubs, they sit in many neighbourhoods at once,
+so "a state that is globally rare in a network may be dramatically
+over-represented in the local neighborhoods of many individuals"
+(Abstract). Fig 1 makes the point with 14 nodes: the same graph with
+three active nodes gives every inactive node an active majority, or none,
+depending on which three. Nothing in the effect requires anyone to be
+loud, to misreport or to misperceive what their neighbours are. The error,
+where there is one, is in generalizing from neighbours to the population.
+
+## Assumptions
+
+- **Undirected graphs and a binary attribute.** Directed follower graphs
+  (Digg, Twitter) are made undirected by keeping only mutual links.
+- **The attribute's placement is set by the experimenters.** On both the
+  synthetic and the real networks, a fraction P(x = 1) of nodes is
+  activated and an attribute-swapping procedure raises the degree–attribute
+  correlation ρ_kx to chosen values. The real networks supply topology
+  only; no real attribute is observed on any of them.
+- **The paradox is measured at a threshold of one half.** A node is "in
+  the paradox regime" if more than half its neighbours are active (Eq 5,
+  ϕ = 1/2).
+- **The model treats a node's neighbours as independent draws** with
+  probability P(x′ = 1|k) of being active (Eq 4, a binomial), which depends
+  only on the node's degree through the joint degree distribution e(k, k′).
+  For Poisson-like degree distributions a Gaussian approximation of P(x, k)
+  is used; otherwise the empirical P(x, k) is plugged in.
+
+## Key results
+
+- **Scale-free synthetic networks** (N = 10,000, p(k) ~ k^−α with α = 2.1,
+  2.4, 3.1; 5% active). "For α = 2.1, 60%–80% of the nodes will observe that
+  more than half of their neighbors are active, even though only 5% of the
+  nodes are, in fact, active." The effect grows with ρ_kx, as the network
+  becomes more disassortative (r_kk falls) and as the tail gets heavier (α
+  falls) (Fig 2).
+- **Erdős–Rényi networks** (⟨k⟩ = 5.2 and 2.5; 5%, 10% and 20% active).
+  The effect is "much reduced compared to scale-free networks" but present,
+  more so with more active nodes (Fig 3).
+- **Six real topologies** (HepTh co-authorship, Reactome protein
+  interactions, Digg, Enron email, Twitter, political blogs; r_kk from
+  0.27 to −0.22, Table 1), with 5–30% of nodes activated and ρ_kx raised by
+  swapping. In the disassortative political blogs, Twitter and Enron
+  networks, "as many as 60%–70% of nodes have more than half of their
+  neighbors in the active state, even though only 20% of the nodes are
+  active". Less in Digg, and less again in HepTh and Reactome (Fig 4).
+- **The model.** P(x′ = 1|k) = Σ_k′ P(x′ = 1|k′) e(k, k′)/q(k) (Eq 3), and
+  the paradox share is P_{>1/2} = Σ_k p(k) Σ_{n>k/2} C(k, n) P(x′ = 1|k)^n
+  [1 − P(x′ = 1|k)]^{k−n} (Eq 5). With the empirical P(x, k) it "does a good
+  job explaining most observations". The Gaussian approximation fits for
+  α = 3.1 and deviates for α = 2.1 and for strongly assortative or
+  disassortative networks (Fig 5).
+- **Assortativity alone is not enough.** Two networks with the same p(k)
+  and r_kk but different e(k, k′) "can display different amounts of the
+  paradox" (S1 Fig, as reported in the text; S1 Fig not seen).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | When an attribute is positively correlated with degree, the share of nodes with an active majority among their neighbours can greatly exceed the attribute's global share | strong for the networks studied | simulation on synthetic networks and on six real topologies with assigned attributes (Figs 2–4) |
+| C2 | The effect is stronger in disassortative and in heavier-tailed networks, and weaker but present in Poisson networks | strong for the networks studied | Figs 2–4; the sign argument from Eqs 1 and 3 |
+| C3 | A binomial model built from p(k), e(k, k′) and P(x, k) predicts the share | moderate: fits the simulations, with an approximation that fails for heavy tails and strong (dis)assortativity | Eq 5; Figs 2–5 |
+| C4 | The illusion can lead people to accept a globally rare behaviour as a norm and can help a contagion spread from few adopters | weak: an interpretation | the Fig 1 illustration with a threshold model; no contagion simulated and no person studied |
+| C5 | It may explain why students overestimate peers' drinking, and "apparently sudden shifts in public attitudes" (the Arab Spring, gay marriage) | weak: speculation | Introduction and Conclusion; no data on either |
+
+## Concepts
+
+- **Majority illusion**: the paper's term for nodes observing that more
+  than half their neighbours are active when the active state is globally
+  rare; its "magnitude" is "the fraction of nodes more than half of whose
+  neighbors are active".
+- **Friendship paradox and generalized friendship paradox**: on average
+  one's neighbours have more neighbours (Feld 1991), and more of any
+  attribute correlated with degree.
+- **Degree–attribute correlation ρ_kx**: the Pearson correlation between a
+  node's degree and its binary attribute (Eq 2).
+- **Degree assortativity r_kk**: the Pearson correlation between the
+  degrees of connected nodes (Eq 1, Newman 2002).
+- **Class size bias**: the paper's general frame for the effect; popular
+  classes and events are over-represented in what people experience.
+
+## Connections
+
+It builds on the friendship paradox (Feld 1991) and its generalization to
+attributes (Eom & Jo 2014; Hodas, Kooti & Lerman 2013), on threshold models
+of contagion (Granovetter 1978; Watts 2002; Centola), and on Newman's
+assortativity and rewiring procedure. It offers itself as "an alternate
+network-based mechanism" beside the psychologists' accounts of social
+perception bias: false consensus (Marks & Miller 1987), selective exposure
+and selective disclosure (Kitts 2003), and pluralistic ignorance, citing
+Prentice & Miller 1993 ([LIT-1370](../literature.d/LIT-1370.md)) as ref 31 and Miller & Prentice 1994. It
+also cites Centola, Willer & Macy's "Emperor's Dilemma" on self-enforcing
+unpopular norms, without engaging it.
+
+## Bearing on the record
+
+- **[CLAIM-415](../claims.d/CLAIM-415.md) (a person organized by a judgement attributed to a
+  collective that does not hold it).** The claim grounds itself on this
+  paper as one of the "mechanisms" for a perceived plurality with no real
+  one behind it. The reading supports that use only in part.
+  - **Supports:** a person's local sample can show a majority where the
+    population holds a small minority, with no misperception of anyone. That
+    is a structural route to an attributed collective that does not exist
+    as attributed, which is what the claim's first step needs.
+  - **Does not support:** the claim's own examples. The paper has no
+    "loud minority" (the owner's U39): its mechanism is degree, not volume
+    or frequency of expression, and its active nodes are as visible as
+    any other. It measures no belief, conformity or self-conception, and
+    nothing about rejection or resistance (the claim's second step).
+    Whether anyone acts on the local majority is assumed in a toy threshold
+    example (Fig 1), not shown.
+  - **A distinction the claim's A39 blurs.** The paper treats pluralistic
+    ignorance as one more "social perception bias" it may help explain. But
+    the two are different errors. In pluralistic ignorance (in the record
+    as List's falsely attributed common attitude, [NOTE-554](NOTE-554.md)) members
+    misjudge what others hold. In the majority illusion each node sees its
+    neighbours' states correctly and the sample is skewed. The
+    paper's speculation about student drinking runs the two together. The
+    claim should cite them as two mechanisms, not one.
+- **[THEORY-242](../theory.d/THEORY-242.md) (spiral of silence; the network's direct distortion
+  small).** No contradiction, but the two should not be cited as if they
+  measured the same thing. Vilone and Polizzi ([NOTE-810](NOTE-810.md)) set themselves
+  against this paper and find the topological term small. Their measure is
+  the gap between the average local climate and the global expressed
+  opinion, with the minority on nodes of one chosen degree. This paper's
+  measure is the share of nodes with an active local majority, with the
+  attribute pushed onto hubs until ρ_kx is high, and it finds the share
+  large only when ρ_kx is high and the network disassortative. Both can be
+  true. [THEORY-242](../theory.d/THEORY-242.md)'s "the network's direct distortion of what members see
+  is small" holds for its model, not for networks in general.
+- **[CLAIM-355](../claims.d/CLAIM-355.md) (the constructed owner).** Not touched. The paper says
+  nothing about self-models.
+- **THEORY warranted?** Yes, one: the dependence of the local-majority share
+  on degree–attribute correlation, assortativity and tail weight is a
+  substantive claim about networks the record does not hold. Filed as
+  [THEORY-tmpiv9ap](../theory.d/THEORY-tmpiv9ap.md), scoped to perception of neighbours' states and not to
+  belief, conformity or contagion.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- **No real attribute is observed.** On every network the authors choose
+  which nodes are active and raise ρ_kx by swapping until it reaches the
+  value they want. The paper shows that real topologies *permit* a large
+  illusion; whether real attributes (opinions, drinking, adoption) are in
+  fact correlated with degree strongly enough is not examined.
+- **No people.** Nothing about what anyone perceives, believes or does.
+  "Leading them to accept as a norm a behavior that is globally rare" is
+  the authors' interpretation (Conclusion).
+- **No contagion is simulated.** The claim that the illusion "may accelerate
+  the spread of social contagions" rests on the 14-node Fig 1.
+- **The threshold is fixed at one half,** and the measure counts nodes, not
+  how far each node's local share departs from the global one.
+- The Arab Spring and gay-marriage remarks are offered without data.
+
+## Open questions
+
+- In a network with a real, measured attribute, how large is ρ_kx, and
+  how many nodes are in the paradox regime? A study pairing observed
+  attributes with observed topology would settle whether the illusion is
+  common or only possible.
+- Do people's estimates of prevalence track their neighbourhood share, or
+  do they discount for their neighbours' popularity? A survey of perceived
+  prevalence set beside ego networks would test the bridge from sample to
+  belief the paper assumes.
+- How does the illusion combine with selective disclosure and silence
+  ([THEORY-242](../theory.d/THEORY-242.md))? A model with both a degree–attribute correlation and an
+  option of silence would show whether they add or cancel.

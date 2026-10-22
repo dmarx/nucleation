@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpsp3d4
 title: 'Clive Wearing: a musician left by encephalitis with almost no memory of his past and none of the last minutes, who still plays, sight-reads and conducts, keeps his attachment to his wife, and writes over and over that he has just become conscious for the first time'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added: both Wilson papers are Unavailable, and
+    their abstracts were read. The case's sourcing of preserved musical
+    skill to the 1995 paper is unchecked. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -85,3 +92,21 @@ every psychological process resetting every few seconds." So:
   psychological continuity".
 - A26: "I would not treat clinical cases as interventions on freely
   manipulable independent variables."
+
+## Note of 2026-10-22: two papers not reached
+
+Neither Wilson paper was reached ([LIT-1369](../literature.d/LIT-1369.md), [LIT-1368](../literature.d/LIT-1368.md), now Unavailable);
+their abstracts were read.
+
+- **The 1995 abstract does not mention musical skill.** It calls the
+  patient "C", and says his belief that he has just woken "appears to be
+  the result of a delusion rather than the consequence of his amnesia".
+  The case's sourcing of his preserved musicianship to this paper is
+  unchecked.
+- **The 2008 abstract supports the case's description.** He "recognised
+  both his handwriting and himself on the video screen but stated
+  vehemently that he was not conscious then". The authors weigh delusion,
+  a loss of autobiographical self, and a coping strategy, and treat
+  impaired consciousness as live. A26's "Wearing's inability to remember
+  being conscious is not evidence that he wasn't conscious" is A26's
+  view, not theirs.

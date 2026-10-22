@@ -15,7 +15,14 @@ promote_when: >-
   operates. Nor can observational data on expressed opinion alone, which
   cannot separate silence from absence.
 title: "A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after Lerman et al. were read: the title's
+    confinement of the small direct distortion to its model matters. The
+    theory is unchanged.
 tags:
 - social-science
 - network-science
@@ -115,3 +122,17 @@ expects. Neither happened.
   effect on perception small. The settings differ (learning against
   fixed belief), so there is no conflict, but the two should not be
   cited together as "structure matters".
+
+## Note of 2026-10-22: the majority illusion
+
+Lerman et al. ([LIT-1390](../literature.d/LIT-1390.md)) measure something different and find a large
+effect: when the attribute is pushed onto hubs, "as many as 60%–70% of
+nodes have more than half of their neighbors in the active state, even
+though only 20% of the nodes are active" (Results, Fig 4). This theory's
+topological effect is the gap between average local climate and global
+opinion, with the minority on nodes of one degree, and its source found it
+"besides small, also non-universal". The two do not conflict. The title
+already confines "the network's direct distortion of what members see is
+small" to the model that shows it; Lerman et al. show that the
+confinement matters, since a correlation between degree and attribute
+makes the distortion large.

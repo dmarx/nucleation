@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmp3gvbj
 title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after Lerman et al. were read and Cooley
+    skimmed, with Prentice and Miller not reached: the network paper
+    supports step 1 only in part, and Cooley holds more of the claim
+    than credited but less than attributed. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,7 +49,7 @@ summary: >-
   common attitudes, [CASE-104](../cases.d/CASE-104.md)); what is new is its place in a person's own
   organization.
 ---
-<!-- inactive-ok-file: LIT-1370 LIT-1379 LIT-1390 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: LIT-1370 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-349 CLAIM-355 CLAIM-402 THEORY-242 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-415: A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential
@@ -114,3 +122,27 @@ was written to keep apart.
 - **Not a term.** A39's "recursive social self-modeling" was offered "as
   a way of integrating established mechanisms, not as a new discovery",
   and is not filed.
+
+## Note of 2026-10-22: the readings
+
+- **The majority illusion is not pluralistic ignorance.** Lerman et al.
+  ([LIT-1390](../literature.d/LIT-1390.md)) show a structural route to a perceived majority: many nodes
+  see a majority among their neighbours while the attribute is rare
+  overall, and each sees its neighbours correctly. The mechanism is
+  degree, not volume, so it does not support the "loud minority" example,
+  and it measures no belief or conformity. The attributes on its real
+  networks are assigned by the authors. Pluralistic ignorance ([LIT-1370](../literature.d/LIT-1370.md),
+  not reached) is a misjudgement of what others hold, not a skewed sample
+  seen accurately. The exchange and the paper both run the two together.
+- **Cooley holds more of the claim than credited.** The audience in the
+  self is always imagined, and can be collective: "There is no separation
+  between real and imaginary persons" ([LIT-1379](../literature.d/LIT-1379.md), ch. III). Step 2,
+  "rejection does not free", is his: "non-conformity may be regarded as a
+  remoter conformity" (ch. VIII).
+- **But less than attributed.** The claim says Cooley "makes the
+  self-conception run through imagined judgements of others". For Cooley
+  the looking-glass self is one class of the social self, which he defines
+  by self-feeling, and "I am whatever you say I am" is his unstable
+  extreme, vanity: "becoming, so far as he can, what any flatterer says
+  he is" (ch. VI). What remains the claim's own is a collective unity its
+  supposed members do not compose.

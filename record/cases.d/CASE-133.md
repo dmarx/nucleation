@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmpd12oz
 title: 'American party realignment: each major party kept its name and organizational continuity across the twentieth century while its coalition and its stance on civil rights changed, and the change began in state parties, unions and constituencies before it reached national leaders'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after the readings: Schickler and Taylor
+    were not reached, Acharya et al. were read, and the start date the
+    case gives is unconfirmed. The case is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -24,7 +31,7 @@ summary: >-
   perspectives, or that any present party continues a historical one's
   character, which are the owner's U29 framings the replies declined.
 ---
-<!-- inactive-ok-file: LIT-1380 LIT-1381 LIT-1388 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: LIT-1380 LIT-1381 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-417 CLAIM-423 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-133: American party realignment: each major party kept its name and organizational continuity across the twentieth century while its coalition and its stance on civil rights changed, and the change began in state parties, unions and constituencies before it reached national leaders
@@ -92,3 +99,19 @@ perspective that persisted dormant between its active periods.
   fascism, progressive social liberalism, the Southern strategy, Mormon
   control of Utah). No sources for them were registered, and none is
   filed.
+
+## Note of 2026-10-22: the sources, after the readings
+
+- **The documented part is still unread.** Schickler ([LIT-1380](../literature.d/LIT-1380.md)) and Taylor
+  ([LIT-1381](../literature.d/LIT-1381.md)) are now Unavailable: no lawful copy was reached. The
+  publisher's description of Schickler says the new alignment had
+  crystallized "by the mid-1940s"; the case's "From the late 1930s" is
+  unconfirmed.
+- **Acharya et al., read ([LIT-1388](../literature.d/LIT-1388.md)).** They give the case its best evidence
+  that carrier and character come apart: high-slave counties were more
+  Democratic while "the Democratic Party was the racially conservative
+  party" (p. 634), and are more Republican now; the slavery effect on the
+  Democratic vote weakens around 1950. The case's line that they "argue
+  for transmission" is accurate.
+- **Sewell ([LIT-1383](../literature.d/LIT-1383.md))** makes the case's point for the state, not the
+  parties: one constitution across sharply distinct party systems (p. 24).

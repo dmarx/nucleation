@@ -1,0 +1,276 @@
+---
+status: Read
+paper: 'LIT-1374'
+title: 'Jensen Hughes — Post-incident analysis of the Brookhollow Apartment fire'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the report as posted by Sedgwick County
+    on its Public Safety System Review page
+    (https://sedgwickcounty.org/commissioners/bocc-projects/publicsafetysystemreview/,
+    file https://sedgwickcounty.org/media/67974/12162024_brookhollow_pia_report_r0.pdf,
+    108 pp., Rev. 0, dated 16 December 2024; copyright Jensen Hughes,
+    published by the county that commissioned it). Text extracted with
+    pdftotext. Read: the cover letter, Executive Summary, sections 1–4 and
+    Appendices A–D. The photographs and maps were not viewed; their
+    captions were. The same county page carries an implementation
+    dashboard with dated updates to January 2026 and later; it is a
+    separate county document, was read for the mayday items only, and is
+    cited below as the county's, not the report's.
+date: '2026-10-22'
+summary: >-
+  An independent review, commissioned by Sedgwick County and Wichita, of
+  every public-safety agency's response to the fire of 13 October 2023
+  that killed Paoly Bedeski. It found "no single point of failure" but
+  "systemic shortcomings that, when combined, contributed to an
+  unorganized rescue effort": a dispatcher who did not replay her unit
+  number, an 18-minute delay in the second alarm, no effective command,
+  freelancing, search not resumed for over eleven minutes after a
+  mayday that was under control within minutes, and Wichita Fire
+  Department policies that existed and were not followed. It could not
+  conclude the shortcomings changed the outcome.
+---
+<!-- inactive-ok-file: CLAIM-027 CLAIM-422 CLAIM-424 CLAIM-416 — Proposed; the exchange's claims this reading bears on, not leaned on -->
+<!-- inactive-ok-file: THEORY-145 — Proposed; Argyris, named for comparison -->
+
+# NOTE-tmp39kir: Jensen Hughes — Post-incident analysis of the Brookhollow Apartment fire
+
+## Contribution
+
+A consultant's post-incident analysis of a fatal apartment fire in
+Wichita, covering Sedgwick County Emergency Communications (SCEC), the
+Wichita Fire Department (WFD), Sedgwick County EMS and the Wichita
+Police Department, from the first 911 call (3:58 a.m.) to the last
+engine leaving (11:05 a.m.). It reconstructs the timeline from 911
+audio, six radio channels, CAD records and interviews, compares each
+agency with its own policies and with APCO, NENA and NFPA standards, and
+makes 30 numbered findings with recommendations. Its distinctive result
+is that most failures were departures from procedures the agencies
+already had.
+
+## Key insight
+
+The written system was sound and the practised one was not. SCEC's
+procedures were "thorough, well-organized, and up-to-date" (p. 31) and
+the WFD Operations Manual "thorough, well-organized, and up-to-date
+relative to most current practices" (p. 47); yet the dispatchers on
+duty could not make the new CAD recommend a second alarm, the TAC
+channel was unmonitored by an informal agreement contrary to SCEC
+policy, command was established late and did not control the fireground,
+and the mayday was handled against the OM's own mayday section. WFD
+firefighters, asked what they could have done better, said "there was
+no room for improvement" (p. C-5).
+
+## Assumptions
+
+- The reviewers relied on data the agencies provided, and say some was
+  withheld: the WFD Fire Investigation Unit kept back its documentation
+  because its investigation was open, so the fire's origin, development
+  and the victim's last minutes could not be fully reconstructed.
+- All times are "approximations" aligned across 911 calls, radio and
+  CAD; the radio traffic in Appendix A is paraphrased, "not verbatim".
+- The yardsticks are each agency's own policies, APCO 1.113.2, NENA, and
+  NFPA 1710, 1561, 1407, 1521, 921 and 1033.
+- Names of individuals other than Ms. Bedeski are withheld.
+
+## Key results
+
+- **Overall** (pp. 7, 81–82). "we found no single point of failure by any
+  of the agencies involved that could be solely attributed to the
+  fatality". "Jensen Hughes identified a number of systemic shortcomings
+  that, when combined, contributed to an unorganized rescue effort." She
+  stopped speaking 48 seconds into her call, before WFD was dispatched,
+  and "Jensen Hughes cannot conclude that the shortcomings identified
+  would have absolutely changed the ultimate outcome of this fatal
+  incident" (p. 8).
+- **Dispatch.** Her call was handled within APCO benchmarks (Table 1).
+  The call taker likely could not hear her unit number, but "did not use
+  the instant recall feature to replay the audio" (p. 8); recorded audio
+  is clearer than what a dispatcher hears, and dual headsets impair
+  comprehension. The second alarm, requested twice, was dispatched about
+  eighteen minutes later because dispatchers and the supervisor could not
+  get the new CAD to recommend units; afterwards "multiple dispatchers on
+  multiple shifts were not exactly able to recall how to dispatch a
+  second alarm" (p. 42), though the academy covers it. The "man trapped
+  in 302" message was broadcast on Ops but not on TAC as the Fire OM
+  requires.
+- **Fireground.** WFD arrived within NFPA 1710 times and had 41 personnel
+  on scene before the second alarm, more than the standard requires.
+  Three attack lines ran from one engine's tank before a water supply was
+  secured, and the engine ran out. A "Fire Attack" mode was declared, but
+  crews worked in an undeclared "Fast Attack/Rescue" mode with no Rapid
+  Intervention Crew. Six units arrived before command was established by
+  the seventh. Crews searched adjacent buildings before Building 300;
+  "a significant number of additional units arrived and freelanced
+  without clear coordination", which "may be an accepted cultural norm in
+  the WFD" (p. 59). Radio discipline was poor; officers were "often
+  unsure of the department policies" on channels, and some "acknowledged
+  they were not following them constantly" (p. 60).
+- **The mayday.** About seven minutes after arrival part of the stair
+  roof collapsed on the attack crews (Engine 15 and Squad 15) and a mayday
+  was called; command went defensive and ordered everyone out. Everyone
+  was accounted for in about six and a half minutes and no firefighter was
+  reported injured. The report calls a mayday "an emergency incident
+  occurring within the larger context of an emergency incident" and
+  requires "a dual focus: addressing the immediate emergency while
+  maintaining situational awareness of the ongoing incident" (p. 61).
+  WFD policy already said "During a mayday, no fire ground assignment
+  should be abandoned" (p. 54). But "search and rescue of Building 300
+  was not reprioritized and reinitiated for over eleven (11) minutes after
+  the Mayday was called, despite the Mayday being under control within a
+  few minutes of its occurrence" (p. 55). Policy was departed from in
+  channel discipline, the RIC Group Leader assignment, progress reports,
+  the alarm upgrade, and the end: "nor did Command announce when the
+  Mayday was complete per WFD policy" (p. 63). Most firefighters recalled
+  the academy as their last formal multi-company mayday training.
+- **After the mayday.** A primary search of Unit 306 found Ms. Bedeski in
+  the bathtub about 3.5 minutes after search was resumed. No triage area
+  was set up; EMS, not dispatched to fires unless someone is reported
+  trapped, had to find patients.
+- **Investigation.** The Fire Investigation Unit's work did not follow
+  NFPA 921 or its own manual; it had not issued an origin-and-cause
+  report; the fire's cause was "Undetermined" and still "Under
+  Investigation"; and the FIU did not take part in the department's
+  After-Action Review.
+- **Underlying challenges** (pp. 10, 81). Years of "Tensions and
+  animosity" between SCEC and agencies it serves; "the lack of nearby
+  comparable advancing agencies fosters complacency"; and "The fire
+  department appears to lack an emphasis on self-reflection and
+  accountability within its culture."
+- **Other factors.** Smoking materials discarded near the stair; the
+  stair's combustible construction; wind; a smoke alarm with a low
+  battery weeks before; the door of Unit 306 possibly open; and her
+  retreat to a windowless bathroom.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | No single agency failure caused the death; combined shortcomings produced an unorganized rescue, and whether they changed the outcome cannot be concluded | moderate | timeline reconstruction; her voice stopped before dispatch (pp. 7–8, 81–82) |
+| C2 | The dispatcher probably could not hear the unit number, and did not use instant recall that might have recovered it | moderate | interviews, audio review, console testing of headset audio (pp. 40–44) |
+| C3 | The second alarm was delayed about eighteen minutes because staff could not operate a CAD feature they had been trained on | strong | CAD records, radio, interviews, SCEC's own post-incident check (pp. 41–42) |
+| C4 | Incident command did not establish effective command and control; companies freelanced | moderate to strong | radio traffic and interviews; freelancing as a norm is flagged as needing other incidents to confirm (pp. 58–60) |
+| C5 | After the mayday, search of the involved building was not resumed for over eleven minutes, contrary to WFD's own mayday policy | strong | radio timeline (Appendix A, Tables 6, 10) and policy text (pp. 54–55, 63) |
+| C6 | The FIU investigation did not follow NFPA 921 or its own manual | moderate | documents provided; the FIU withheld others (pp. 65–75) |
+| C7 | WFD culture lacks self-reflection and accountability; SCEC–agency relations have been marked by years of distrust | weak to moderate | interviews, including WFD members' "no room for improvement" (pp. 10, C-2–C-5) |
+
+## Concepts
+
+- **Mayday**: a firefighter in life-threatening distress; here an
+  "incident within an incident" (p. 63).
+- **Fire Attack and Fast Attack/Rescue modes**: WFD operational modes;
+  the second relaxes firefighter safety requirements for time-critical
+  rescues and is meant to be brief.
+- **IRIC / RIC**: initial and full Rapid Intervention Crews, standing by
+  to rescue firefighters.
+- **Freelancing**: companies acting without reporting for assignment.
+- **TAC and Ops channels**: the fireground tactical channel, where
+  command talks to companies, and the operations channel to dispatch.
+- **Fire scene benchmarks**: required radio reports to dispatch (water
+  supply, primary search, under control).
+
+## Connections
+
+The review was recommended unanimously by the Emergency Communications
+Advisory Board on 5 December 2023 (Appendix B). Its standards are NFPA's
+and APCO's; it does not cite NIMS by name, though its command analysis
+follows the Incident Command System's terms. The county's dashboard on
+the same page tracks the 40 recommendation items (the 30 findings, some
+with several recommendations); fetched on 2026-10-22, it showed 37 marked
+"Implemented" and 3 "In Progress".
+
+## Bearing on the record
+
+- **[CASE-135](../cases.d/CASE-135.md).** Mostly supported, with corrections.
+  - The quoted findings ("contributed to an unorganized rescue effort",
+    "cannot conclude that the shortcomings identified would have
+    absolutely changed the ultimate outcome", the tensions with emergency
+    communications, the lack of "self-reflection and accountability") are
+    in the report verbatim.
+  - The exchange's details marked unverified are now checkable. The
+    report does call a mayday an "incident within an incident" and "an
+    emergency incident occurring within the larger context of an
+    emergency incident"; the exchange's "an emergency arising within
+    another emergency" is a paraphrase, not a quotation. The mayday and
+    the original incident were not managed together: search was not
+    resumed for over eleven minutes. "Command did not ... announce when
+    the Mayday was complete" is in the report. The later mayday
+    procedure is not in the report (it predates it), but the county's
+    dashboard records that by 24 October 2025 WFD adopted a General
+    Orders chapter including "COMMAND PROCEDURES - MAYDAY", exercised in
+    multi-agency training.
+  - "Four firefighters caught in a stairwell collapse" is not in the
+    report. It says portions of the stair roof "collapsed on Engine 15 and
+    Squad 15" (staffed by three and two), and that "There were no reported
+    firefighters injured". The number four comes from press coverage and
+    should be marked so, or dropped.
+  - The report's title page reads "Post-Incident Analysis" over
+    "Independent Review of the Brookhollow Apartment Fire". It gives the address as 8165 E.
+    Central in the body and 8650 W. Central in the cover letter, and dates
+    the FIU's arrival "October 13, 2024" once; these are the report's
+    errors.
+- **[CLAIM-027](../claims.d/CLAIM-027.md) and [QUESTION-078](../questions.d/QUESTION-078.md) (which regime is effective; acting as one
+  without synchronizing).** The case's reading, two regimes demanding
+  authority at once, is the report's own: "A Mayday requires a dual focus"
+  and "should interrupt the primary incident operations as little as
+  possible". What the report adds is that the composition failed by
+  default to suspension: command suspended search entirely and did not
+  restore it for eleven minutes after the mayday was under control.
+- **[TERM-017](../terms.d/TERM-017.md) and "release".** The case notes that [TERM-017](../terms.d/TERM-017.md) names
+  suspension and not release. The report supports the gap concretely:
+  the mayday regime was never formally ended ("nor did Command announce
+  when the Mayday was complete"), and the suspended regime was resumed
+  late. Release has its own procedure in WFD policy, and it was the step
+  skipped.
+- **[CLAIM-422](../claims.d/CLAIM-422.md) (act, procedure, maintained capacity).** This report is a
+  stronger case for the claim than the case presently makes it. The
+  procedures existed before the fire: WFD's mayday section, its rule
+  that second engines secure water, SCEC's TAC monitoring rule and its
+  academy training on second alarms. The capacities were not maintained:
+  dispatchers on several shifts could not recall the CAD step; the TAC
+  rule had been set aside by informal agreement; multi-company mayday
+  training had lapsed since the academy. So the record of a procedure was
+  not evidence of the capacity even before any correction was made. The
+  county's dashboard is the claim's third object in miniature: it records
+  37 of 40 recommendations "Implemented", including, for Recommendation
+  16, updates that began "The policy is under review". An implemented
+  recommendation is a procedure adopted; whether the capacity is
+  maintained is not something the dashboard measures.
+- **[CASE-135](../cases.d/CASE-135.md) and A23's caution that a review "may *recommend* reform
+  without demonstrating that the institution actually changed".**
+  Supported in spirit, and the report itself recommends the measurement
+  that would tell: WFD "should examine a sample of recent fire incidents
+  and consider whether Incident Command exercised effective command and
+  control" (Finding 13).
+- **[CLAIM-416](../claims.d/CLAIM-416.md).** WFD met every NFPA 1710 response-time benchmark and
+  staffed above the standard, and the rescue was still unorganized: a
+  test passed (arrival and staffing) is not the capacity the test is
+  meant to indicate.
+- **NIMS ([LIT-1365](../literature.d/LIT-1365.md)).** The freelancing and self-dispatch the report
+  describes (Engine 4, Rescue 2 and Engine 10 self-dispatched; the FIU
+  self-dispatched) depart from the NIMS principle that resources not
+  requested "should refrain from spontaneous deployment"
+  ([NOTE-tmp2c1vw](NOTE-tmp2c1vw.md)). The report does not make this comparison.
+- No THEORY filed: one incident, analysed against its own policies.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- One incident, analysed by consultants for the commissioning
+  governments; the fire department's investigators withheld material.
+- Times are approximate and radio quotations paraphrased.
+- Cultural findings rest on interviews, and the report itself says
+  freelancing as a norm would need other incidents to confirm.
+- It does not establish what would have saved Ms. Bedeski, and says so.
+
+## Open questions
+
+- Did the recommended monthly incident reviews (adopted, per the county's
+  dashboard, in 2025) change command performance at later fires? That is
+  the maintained-capacity question [CLAIM-422](../claims.d/CLAIM-422.md) asks, and only later
+  incidents can answer it.
+- Was the eleven-minute pause a failure of training, of the mayday
+  procedure's wording, or of command attention? The report recommends
+  training without separating them.

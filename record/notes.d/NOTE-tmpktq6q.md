@@ -1,0 +1,203 @@
+---
+status: Read
+paper: 'LIT-1384'
+title: 'Radvansky et al. — Walking through doorways causes forgetting: further explorations'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the publisher's typeset PDF of
+    Quarterly Journal of Experimental Psychology 64(8), 1632–1645, as posted
+    by the first author's laboratory on the University of Notre Dame Memory
+    Lab publications page
+    (memorylab.nd.edu/assets/258705/radvansky_krawietz_tamplin_2011_qjep_.pdf,
+    stamped "Downloaded by [University of Notre Dame]" on 31 October 2011),
+    converted to text with pdftotext. Unpaywall, OpenAlex, Semantic Scholar
+    and Europe PMC list no open copy, and SAGE's page returned 403. Read:
+    the abstract, introduction, all three experiments with Tables 1–3, the
+    General Discussion with Table 4, and the caption of Figure 1. The
+    reference list was skimmed. The lab page also posts the raw data for
+    each experiment, not used. Page numbers are the journal's.
+date: '2026-10-22'
+summary: >-
+  Three experiments. The doorway effect appeared with small monitors and in
+  real rooms carrying a box of six objects, and returning to the room where
+  the objects were picked up did not help: memory followed the number of
+  rooms involved, worst after two new rooms. The authors attribute it to
+  retrieval interference between event models that both contain the probed
+  object, not to the loss of an encoding context.
+---
+<!-- inactive-ok-file: CLAIM-421 CLAIM-287 THEORY-tmpiwyd2 THEORY-tmpg9wtv — Proposed; claims and accounts this reading bears on, named, not leaned on -->
+
+# NOTE-tmpktq6q: Radvansky et al. — Walking through doorways causes forgetting: further explorations
+
+## Contribution
+
+Extends the location updating effect of Radvansky & Copeland ([LIT-1392](../literature.d/LIT-1392.md))
+to a less immersive display (17-inch monitors) and to a real three-room
+laboratory, and tests an encoding-specificity account by sending people
+back into the room where they picked the object up. It also states the
+event horizon model's account of the effect: an object carried into a new
+room is held in two event models, which compete at retrieval.
+
+## Key insight
+
+Going back does not undo the cost. "In Experiment 3, the original encoding
+context was reinstated by having a person return to the original room in
+which objects were first encoded. However, inconsistent with an encoding
+specificity account, memory did not improve by reinstating this context"
+(abstract, p. 1632). What predicted errors was "not the number of spatial
+shifts that disrupt memory, but the number of new areas entered, consistent
+with the competitive retrieval aspects of the event horizon model"
+(p. 1640).
+
+## Assumptions
+
+- **The event horizon model** (p. 1633), five components, three used here:
+  events are segmented and "different event models are created with people
+  processing one at a time"; information in the current event is
+  foregrounded; and retrieval that must pick one of several models holding
+  the same element suffers interference, "a kind of a fan effect". "Note
+  that, for simplicity, we assume that there can only be one event model
+  active at one time."
+- **Rooms individuate event models.** Each room entered is a new model;
+  returning makes the original room one of the models again rather than
+  reinstating it, on the authors' reading.
+- **The double-shift and return conditions are matched** in distance and
+  number of shifts, differing only in whether the final room is the
+  original (p. 1638).
+
+## Key results
+
+- **Experiment 1: smaller displays** (N = 55; 48 probes, half after a
+  shift). Errors rose after a shift for positive probes (.12 to .19) and
+  negative probes (.07 to .22), both p < .001; A′ .97 against .93,
+  p < .001. No response-time effect for positives, marginal for negatives
+  (Table 1).
+- **Experiment 2: real rooms** (N = 60, 15 in each of four path orders).
+  Three lab rooms, six trials; on each, six blocks were boxed, carried to
+  the next table across a room or into the next room, and tested after two
+  minutes of arithmetic as a distractor. Errors rose after a shift for
+  positives (.23 to .28, p = .02), marginally for negatives (.18 to .21,
+  p = .06); A′ .86 against .82, p = .03. Response times n.s. (Table 2).
+  "Information associated with a prior location became less available even
+  though it continued to be task relevant" (p. 1638).
+- **Experiment 3: return and double shift** (N = 48; 66-inch display; 64
+  probes). A′: no shift .94, shift .92, return .90, double shift .86. No
+  shift was better than each of the others (shift p = .03); shift and return
+  did not differ (p = .20); return was better than double shift (p = .02).
+  For error rates, no shift against shift was only marginal for positives
+  (p = .08) and n.s. for negatives (p = .23) (Table 3). "Of most importance
+  here was that there was no improvement by returning to the original
+  context" (p. 1641).
+- **Table 4: pooled pattern.** Error rates for five experiments (2006
+  Experiment 2, both 2010 experiments, Experiments 1 and 3 here), averaged:
+  associated/no shift .09, associated/shift .16, dissociated/no shift .17,
+  dissociated/shift .20. The model's predicted ordering holds on average;
+  in this paper's Experiment 3 the dissociated/shift cell is the lowest of
+  the dissociated pair, which the authors "tentatively attribute ... to
+  random variation" (p. 1644).
+- **A processing-load account** (visual–spatial working memory clogged by
+  successive rooms) is set aside by citing their 2010 study, where verbal
+  word pairs unrelated to the objects were also disrupted (p. 1641).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The location updating effect survives a smaller display | moderate | Experiment 1, errors and A′; no RT effect |
+| C2 | It occurs in real rooms | weak to moderate | Experiment 2: a modified task (six boxed objects, two minutes of arithmetic), p = .02 to .06 |
+| C3 | Returning to the encoding room does not restore memory | moderate as a null | Experiment 3: return no better than shift, numerically worse |
+| C4 | Memory worsens with the number of new rooms involved, not the number of doorways crossed | weak to moderate | Experiment 3: double shift worse than return (p = .02) |
+| C5 | The effect is retrieval interference between event models that share the probed object | interpretive | event horizon model; Table 4's pooled ordering |
+
+## Concepts
+
+- **Location updating effect**: poorer memory for recently handled objects
+  after moving from one location to another than after moving as far within
+  one.
+- **Event horizon model**: Radvansky's account of event cognition; here
+  segmentation, foregrounding, and competitive retrieval among event models.
+- **Competitive retrieval**: a recognition probe must select one trace; an
+  object present in two event models (where picked up, where carried) yields
+  interference "even though in this case they would all support the same
+  response" (p. 1634).
+- **Return / double-shift conditions**: two doorways each, ending in the
+  original room or in a third room.
+
+## Connections
+
+It builds on [LIT-1392](../literature.d/LIT-1392.md) and on Radvansky, Tamplin & Krawietz (2010),
+which this record does not hold, and draws on the fan-effect work of
+Radvansky & Zacks (1991) and Anderson (1974). It cites event segmentation
+theory (Kurby & Zacks 2008; Swallow et al. 2009; Zacks et al. 2009), not
+Zacks et al. 2007 ([LIT-1382](../literature.d/LIT-1382.md)). The interference account is tested further
+by Pettijohn & Radvansky ([LIT-1385](../literature.d/LIT-1385.md)). McFadyen et al. ([LIT-1387](../literature.d/LIT-1387.md))
+describe Experiment 3 as showing that returning to the original location
+"impairs memory further"; the paper reports return as no different from
+shift (p = .20), and better than double shift.
+
+## Bearing on the record
+
+- **[CASE-136](../cases.d/CASE-136.md).** The case's bullet is right: the effect held with smaller
+  displays and in a real environment, and returning did not improve
+  memory. Two things it leaves out matter for what the case is used for.
+  First, the authors' explanation is retrieval interference: the carried
+  object sits in two event models. Second, in Experiment 3 the plain
+  shift effect on errors was only marginal.
+- **A37's inference from the return result** ("our theory shouldn't reduce
+  perspective to location ... an organized, goal-sensitive relationship to
+  the environment"). The first half is supported: the encoding location
+  does not reinstate availability. The second half is not tested. No goal,
+  task or intention was varied. On the authors' account, the relevant unit
+  is still room-bound: each room entered makes another event model, so
+  returning to a room adds a model rather than reinstating one. The paper
+  shows that availability tracks the number of rooms entered, which is
+  more location-bound than A37's reading, not less. A37's proposed
+  discriminating variants (a doorway crossed while a salient task
+  continues; a change of task with no doorway) are the experiments that
+  would test the goal-sensitive reading. Neither is here.
+- **[CLAIM-421](../claims.d/CLAIM-421.md) (activation interruption).** The authors' mechanism is not
+  the one [CLAIM-421](../claims.d/CLAIM-421.md) attributes to the case. [CLAIM-421](../claims.d/CLAIM-421.md) says the earlier
+  "contextual supports are no longer active". The event horizon account
+  says the probed object is in too many event models, and retrieval has to
+  choose among them. That is a crowding of retrieval routes, not a loss of
+  activation. It still fits the claim's general distinction, since the item
+  is held and harder to deploy ([TERM-055](../terms.d/TERM-055.md)). But the doorway effect, as
+  its authors explain it, is a weak illustration of activation
+  interruption in particular.
+- **[CLAIM-287](../claims.d/CLAIM-287.md), [TERM-071](../terms.d/TERM-071.md) (reinstatable persistence).** Relevant by
+  contrast: returning to the original room is the obvious reinstatement
+  cue, and it did nothing. Reinstating a context did not reinstate access.
+  That is a finding about object recognition in a probe task, and it should
+  not be generalized to the reinstatement of an organization.
+- **Proposed [THEORY-tmpiwyd2](../theory.d/THEORY-tmpiwyd2.md)** takes this paper as a primary source.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- Experiment 2 changes the task (six objects boxed per trial, no
+  associated/dissociated contrast, a two-minute arithmetic distractor) and
+  has six trials per person. Its effect is p = .02 and .06.
+- In Experiment 3 the four conditions share one set of 64 probes, so each
+  cell holds few trials. The A′ simple effects report F(1, 59) for an
+  N of 48, an inconsistency in the paper.
+- Room changes again co-occur with wall-pattern changes in the virtual
+  experiments.
+- Table 4 pools four of five experiments from this lab. The deviation in
+  Experiment 3's dissociated/shift cell is set aside as noise.
+- The event horizon model is the authors' own and is fitted here after the
+  fact. No condition was designed in which interference and deactivation
+  predict opposite results, except return against double shift, which
+  either account can absorb.
+
+## Open questions
+
+- Would a return condition with fewer intervening models (for example,
+  a brief step out and back) restore memory, as deactivation predicts and
+  interference does not?
+- Does the double-shift cost depend on the object being carried through
+  both rooms, as interference requires?
+- Do the published raw data (posted on the lab page) support the per-cell
+  reliability the pooled table suggests?

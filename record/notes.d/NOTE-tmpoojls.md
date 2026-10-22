@@ -1,0 +1,206 @@
+---
+status: Read
+paper: 'LIT-1371'
+title: 'NTSB — United Airlines Flight 173, Portland, 1978'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read on 2026-10-22 from the scanned report hosted by the FAA
+    (https://www.faa.gov/sites/faa.gov/files/2022-11/AAR79-07.pdf, 64 PDF
+    pages, an OCR'd scan of NTSB-AAR-79-7; a U.S. government work). Text
+    extracted with pdftotext. The OCR has gaps on the analysis and
+    findings pages (pp. 24–30 of the report), which were read from the page
+    images; quotations from those pages were transcribed by eye from the
+    images and are marked (image) below. Read: the documentation page,
+    the Synopsis, section 1 (Factual Information), section 2 (Analysis),
+    section 3 (Findings and Probable Cause), section 4 (Safety
+    Recommendations) and Appendices A–C. Appendix D, the cockpit voice
+    recorder transcript, was skimmed, not read line by line; the CVR
+    exchanges quoted in sections 1 and 2 were read. The adoption date, 7
+    June 1979, is confirmed on the report's first page.
+date: '2026-10-22'
+summary: >-
+  The NTSB found that United 173 ran out of fuel after holding about an
+  hour near Portland while its crew dealt with a landing-gear problem,
+  that fuel exhaustion "was predictable", and that the probable cause was
+  the captain's failure to monitor the fuel state and respond to the
+  crew's advisories. The other two crew members either did not grasp the
+  criticality or did not communicate it; no one was assigned to watch the
+  fuel. It recommended indoctrination in "flightdeck resource management",
+  with "participative management for captains and assertiveness training
+  for other cockpit crewmembers".
+---
+<!-- inactive-ok-file: CLAIM-349 CLAIM-424 — Proposed; the exchange's claims this reading bears on, not leaned on -->
+
+# NOTE-tmpoojls: NTSB — United Airlines Flight 173, Portland, 1978
+
+## Contribution
+
+The investigation of the crash of a DC-8 on approach to Portland on 28
+December 1978, which killed eight passengers, the flight engineer and a
+flight attendant. It establishes that the aircraft and its fuel gauges
+worked, that the fuel burned at the planned rate, and that the crew had
+the fuel quantity available; the failure was in relating fuel to time
+and in the crew's management. Its last recommendation, X-79-17, is one
+of the earliest official calls for what became Crew Resource Management.
+
+## Key insight
+
+The crew knew how much fuel there was and did not act on what it meant.
+"While there is evidence to indicate that the crew was aware of the
+amount of fuel remaining at various times, there is no evidence that the
+onboard quantity was monitored, in relation to time remaining during the
+final 30 min of flight" (p. 25, image). The Board's explanation is
+organizational: "apparently no one was specifically delegated the
+responsibility of monitoring fuel state" (p. 26), and the captain's
+"stature" and "management style may exert subtle pressure on his crew to
+conform to his way of thinking" (p. 27).
+
+## Assumptions
+
+- The reconstruction rests on the CVR and FDR, ATC and company radio
+  recordings, crew interviews and the captain's deposition, and fuel-burn
+  studies by Douglas and United, which agreed with each other and with
+  the CVR's fuel readings within their stated errors.
+- The Board adopts Douglas's figure for the burn in the hold (13,209 lb
+  per hour) and so reconstructs the fuel state at each moment; its
+  judgement that "Fuel exhaustion was predictable" depends on that.
+- It considered and rejected two alternative accounts: misreading of the
+  newly installed fuel gauges as the cause, and a deliberate burn-down to
+  reduce fire risk (no evidence; the captain would have told the crew).
+
+## Key results
+
+- **Probable cause** (p. 29). "the failure of the captain to monitor
+  properly the aircraft's fuel state and to properly respond to the low
+  fuel state and the crew-member's advisories regarding fuel state." His
+  "inattention resulted from preoccupation with a landing gear
+  malfunction and preparations for a possible landing emergency."
+- **Contributing** (p. 29). "the failure of the other two flight
+  crewmembers either to fully comprehend the criticality of the fuel
+  state or to successfully communicate their concern to the captain."
+- **The machine was not the cause.** The gear fell because of a corroded
+  retract-cylinder rod end; the gear checks were done; the fuel-quantity
+  system "accurately indicated fuel quantity to the crew" (Finding 11).
+  The company's procedures for gear failure were "adequate to permit the
+  safest possible operation" (p. 23).
+- **Predictability.** Finding 8 (image): "Fuel exhaustion was
+  predictable. The crew failed to equate the fuel remaining with time and
+  distance from the airport." The captain told the company he would land
+  about 1805 with about 4,000 lb, minutes after learning 5,000 lb
+  remained, which the hold would have consumed (p. 25).
+- **What the others said.** The flight engineer warned that fifteen more
+  minutes would run them low; the first officer asked about fuel several
+  times. "The other two flight crewmembers, although they made several
+  comments regarding the aircraft's fuel state, did not express direct
+  concern regarding the amount of time remaining to total fuel
+  exhaustion" (p. 25, image). Of the first officer: "If the first officer
+  recognized the criticality of the situation, he failed to convey these
+  thoughts to the captain in a timely manner" (p. 27). Finding 15
+  (image): "Neither the first officer nor the flight engineer conveyed any
+  concern about fuel exhaustion to the captain until the accident was
+  inevitable."
+- **The general problem.** "a breakdown in cockpit management and
+  teamwork during a situation involving malfunctions of aircraft systems
+  in flight", which the Board calls recurring. "To combat this problem,
+  responsibilities must be divided among members of the flightcrew while
+  a malfunction is being resolved" (p. 26).
+- **Redundancy.** "The first officer's and the flight engineer's inputs
+  on the flight deck are important because they provide redundancy"; and
+  "assertiveness training should be a part of the standard curricula"
+  (p. 27).
+- **Recommendations** (p. 30). Three on the fuel gauges and their
+  certification. And X-79-17 (image): "Issue an operations bulletin to all
+  air carrier operations inspectors directing them to urge their assigned
+  operators to ensure that their flightcrews are indoctrinated in
+  principles of flightdeck resource management, with particular emphasis
+  on the merits of participative management for captains and
+  assertiveness training for other cockpit crewmembers."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The aircraft ran out of fuel because the crew did not relate fuel remaining to time and distance while it worked a gear problem; the systems and gauges were not at fault | strong | FDR, CVR, two fuel-burn studies, gauge tests (§§1.16, 2) |
+| C2 | The captain's preoccupation with the gear and the cabin preparation narrowed his attention; the problem had "a disorganizing effect" on his performance | moderate | CVR content, deviations from his own stated landing time; an inference about attention (§2, Finding 14) |
+| C3 | The first officer and flight engineer did not press the fuel problem on the captain in time; whether they grasped it is left open | strong as a description of what they said; open on what they understood | CVR (§2, Finding 15, contributing cause) |
+| C4 | The accident exemplifies a recurring breakdown in cockpit management and teamwork during malfunctions | weak here | asserted; no other accidents are analysed in the report |
+| C5 | Crews should be trained in flightdeck resource management: participative management for captains, assertiveness for others | a recommendation | §4, X-79-17 |
+
+## Concepts
+
+- **Flightdeck resource management**: the Board's phrase in X-79-17, not
+  defined in the report.
+- **Participative management for captains** and **assertiveness training
+  for other cockpit crewmembers**: the two halves of the recommended
+  training, one for the holder of command and one for those below it.
+- **Redundancy** (of crew inputs): the first officer and flight engineer
+  as independent monitors of the captain.
+
+## Connections
+
+United's own Flight Operations Manual already required that "all crew
+members noting a departure from prescribed procedures and safe practices
+should immediately advise the captain" (§1.17.1). The report thus records
+a procedure that existed and was not exercised. Helmreich, Merritt and
+Wilhelm ([LIT-1386](../literature.d/LIT-1386.md)) date the first comprehensive CRM program to United in
+1981 and cite this report as singling out the captain and the flight
+engineer.
+
+## Bearing on the record
+
+- **[CASE-127](../cases.d/CASE-127.md).** Supported: the date, the hour of holding, ten dead, the
+  probable cause and the contributing factor, which the case states
+  closely. One overstatement. The case title says the crew "knew the fuel
+  was running out and did not make the captain act". The Board does not
+  find that they knew it was running out. It finds that they knew the
+  quantity at various times, made "several comments", and either did not
+  "fully comprehend the criticality" or did not communicate it; it
+  leaves which open. The NASA workshop of 1979, TWA 514 and ASRS are not
+  in this report; the case already marks them as the exchange's.
+- **[CLAIM-349](../claims.d/CLAIM-349.md) (access, authority, action separable).** The case reads
+  United 173 as access without authority. The report supports a finer
+  version. Access to the number was present; access to its meaning
+  (fuel against time) was not maintained by anyone, because no one was
+  assigned to it. The crew's concerns were voiced as comments, and none
+  had the standing of a demand. So the report separates three things the
+  claim keeps together as "access": the signal displayed, the signal
+  monitored as a function someone owns, and the signal pressed with
+  standing. The middle one, an assigned monitoring function, is the
+  Board's main remedy ("responsibilities must be divided").
+- **[CLAIM-424](../claims.d/CLAIM-424.md) and [CASE-127](../cases.d/CASE-127.md)'s "authority without abolishing command".**
+  The phrase is the exchange's, but X-79-17 is its earliest official
+  form: "participative management for captains and assertiveness training
+  for other cockpit crewmembers". The remedy leaves the captain in
+  command and changes how command takes input. The report also names the
+  mechanism the reform targets, the captain's "stature" and "management
+  style".
+- **[CLAIM-422](../claims.d/CLAIM-422.md) (procedure and capacity).** The company manual already
+  required crew members to advise the captain of departures from safe
+  practice. The procedure existed; the capacity to exercise it in a
+  stressed cockpit did not. A pre-CRM instance of the claim's
+  separation.
+- No THEORY filed: the general claim the Board makes (a recurring
+  breakdown in cockpit teamwork) is asserted, not shown, in this report.
+- No instruction for machine-learning practice.
+
+## Limitations
+
+- One accident; the "recurring problem" is asserted from the Board's
+  experience, and no other accidents are analysed.
+- The inner states of the crew (what the first officer and flight
+  engineer understood) are inferred from the CVR and left open.
+- The OCR copy is incomplete in places; the analysis and findings pages
+  were read from images.
+- There was no public hearing; the captain was deposed.
+
+## Open questions
+
+- Did the first officer and flight engineer grasp the time to
+  exhaustion? The Board could not say, and the contributing cause is
+  written as a disjunction to cover both.
+- Would an assigned fuel monitor have been enough, without changing the
+  captain's style? The report recommends both and does not separate
+  them.

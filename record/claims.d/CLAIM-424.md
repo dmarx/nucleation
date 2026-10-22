@@ -4,7 +4,13 @@ status: Proposed
 formerly:
 - CLAIM-tmpqktfo
 title: 'Reflexive governance of an organization''s perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after NIMS was skimmed (NOTE-tmp2c1vw):
+    A24's reading of it is partly supported. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -117,3 +123,17 @@ good governance."
   [CLAIM-417](CLAIM-417.md) holds, [CLAIM-284](CLAIM-284.md) is the definition of one sense of
   "self" and this claim is what that sense picked out, stated without the
   word.
+
+## Note of 2026-10-22: NIMS, skimmed
+
+A24 read NIMS as not requiring "that all practical authority flow through
+one undifferentiated controller". That is partly right. "In Unified
+Command, there is no one 'commander.'" ([LIT-1365](../literature.d/LIT-1365.md), p. 22). But NIMS also
+keeps "Unity of command means that each individual only reports to one
+person" (p. 23), a single incident action plan, and the safety officer's
+bounded veto: "the Safety Officer alters, suspends, or terminates any
+activities that are immediately dangerous to life and health of
+personnel" (Appendix A, p. 83). Authority is differentiated by function,
+not dispersed. The bounded veto is a standing, designed instance of what
+this claim calls reflexive governance of an arrangement: a role whose job
+is to interrupt the arrangement it sits in.

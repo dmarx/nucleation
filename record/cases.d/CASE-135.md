@@ -3,8 +3,16 @@ number: 135
 status: Active
 formerly:
 - CASE-tmpqq6jz
-title: 'The Brookhollow Apartments fire, Wichita, 2023: a mayday for four firefighters caught in a stairwell collapse opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome'
-version: 1
+title: 'The Brookhollow Apartments fire, Wichita, 2023: a mayday after a stair roof collapses on two companies opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome'
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Title corrected and a note of 2026-10-22 added after the Jensen
+    Hughes review was read (NOTE-tmp39kir). The review does not report
+    four firefighters caught; the stair roof collapsed on two companies
+    and no firefighter injuries were reported.
 standing: documented
 kind: specimen
 tags:
@@ -27,10 +35,9 @@ summary: >-
   Not shown: that the department's safety culture changed, or what the
   review's recommendations were, since the report was not read.
 ---
-<!-- inactive-ok-file: LIT-1374 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-027 CLAIM-422 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-135: The Brookhollow Apartments fire, Wichita, 2023: a mayday for four firefighters caught in a stairwell collapse opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome
+# CASE-135: The Brookhollow Apartments fire, Wichita, 2023: a mayday after a stair roof collapses on two companies opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome
 
 ## The case
 
@@ -100,3 +107,26 @@ the exchange's, unverified.
   Cobb County 2022) are not filed. Their key details, such as a mayday on
   a channel the commander was not monitoring and a county-wide mayday
   guideline, could not be verified.
+
+## Note of 2026-10-22: the review, read
+
+- **The mayday.** The stair roof "collapsed on Engine 15 and Squad 15",
+  and "There were no reported firefighters injured" ([LIT-1374](../literature.d/LIT-1374.md), p. 25).
+  "Four firefighters caught" was the exchange's; the title is corrected.
+- **A procedure that predated the fire.** The department's mayday policy
+  said "During a mayday, no fire ground assignment should be abandoned"
+  (p. 54); yet "search and rescue of Building 300 was not reprioritized and
+  reinitiated for over eleven (11) minutes after the Mayday was called,
+  despite the Mayday being under control within a few minutes" (p. 55).
+  Dispatch had the same gap: "multiple dispatchers on multiple shifts were
+  not exactly able to recall how to dispatch a second alarm" (p. 42).
+  [CLAIM-422](../claims.d/CLAIM-422.md)'s procedure without maintained capacity, in one incident.
+- **Release, documented.** The case's "release as well as escalation"
+  depended on the exchange's detail. The review: "nor did Command announce
+  when the Mayday was complete per WFD policy" (p. 63). The county's
+  progress dashboard records a mayday command procedure adopted afterwards,
+  and marks 37 of 40 recommendations "Implemented", which records adoption,
+  not maintained capacity.
+- **The phrase.** "an emergency arising within another emergency" is the
+  exchange's paraphrase of "an emergency incident occurring within the
+  larger context of an emergency incident" (p. 61).

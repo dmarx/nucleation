@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmp6bxtr
 title: 'Competing perspectives compete over the tests that measure them as well as under them: success under an evaluative regime is evidence of competence relative to that regime, a fair test need not be neutral across competences, and a perspective that gains influence over the test can change what later success shows'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after the readings: documented instances
+    from Penglase, Rogers and Abbott, and Sewell's general mechanism.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,7 +46,6 @@ summary: >-
   to entrench, which A36 kept apart as a further claim needing its own
   evidence.
 ---
-<!-- inactive-ok-file: LIT-1391 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-190 CLAIM-402 THEORY-854 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-416: Competing perspectives compete over the tests that measure them as well as under them: success under an evaluative regime is evidence of competence relative to that regime, a fair test need not be neutral across competences, and a perspective that gains influence over the test can change what later success shows
@@ -110,3 +116,29 @@ themselves.
   dispute and the later matches rest on Penglase ([LIT-1391](../literature.d/LIT-1391.md), unread)
   and on the replies' summaries. The sport studies A36 cited on judo and
   taekwondo rule changes were not identified and are not filed.
+
+## Note of 2026-10-22: instances and a general mechanism
+
+- **A contest over the rules, documented.** Penglase ([LIT-1391](../literature.d/LIT-1391.md)): "the
+  Gracies often insisted on rules that would benefit them and their
+  fighting style" (p. 86), and "Both of these rules – in particular
+  insisting on the use of the judogi – also favored the Gracies in the
+  ring" (p. 86). This is a competitor bargaining before a match, not an
+  institution entrenching one, so the claim's "not motive" clause stands;
+  it is an instance of the weaker form.
+- **Lowering the test after passing it.** In the Rogers report ([LIT-1393](../literature.d/LIT-1393.md),
+  p. 148), the reasoning the commission found: "We can lower our
+  standards a little bit because we got away with it last time."
+- **The judge has its own contest.** Abbott's precursor to [LIT-1366](../literature.d/LIT-1366.md)
+  ([NOTE-tmpatdt4](../notes.d/NOTE-tmpatdt4.md)) finds New York's legislators setting the test of medical
+  competence for reasons of their own politics.
+- **The general mechanism.** Sewell ([LIT-1383](../literature.d/LIT-1383.md)) states the reflexive part in
+  general: what a success shows is itself contested, and the reading that
+  wins redistributes power. His example: the gains of a cavalry charge
+  "may be attributed to the superior discipline and elan of the cavalry
+  officers and thereby enhance the power of an aristocratic officer corps,
+  or it may be attributed to the commanding general" (p. 19). The claim
+  could cite this as the mechanism of which competition over tests is a
+  case. Swidler ([LIT-1367](../literature.d/LIT-1367.md)) supports only the relativity half: ideologies
+  survive by the situations they are enacted in, and she does not discuss
+  competitors reshaping those situations.

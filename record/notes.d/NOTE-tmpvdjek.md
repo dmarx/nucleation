@@ -1,0 +1,234 @@
+---
+status: Read
+paper: 'LIT-1391'
+title: 'Penglase — The unspoken whiteness of Brazilian jiu-jitsu'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Read in full on 2026-10-22 from the publisher's PDF at Cardiff
+    University Press
+    (mas.cardiffuniversitypress.org/articles/300/files/693b11b853d09.pdf,
+    the version of record, 17 pages, created 11 December 2025, CC BY-NC-ND,
+    gold open access per Unpaywall), extracted with pdftotext. Read: the
+    abstract, every section (introduction, "Race in Brazil and the
+    complexity of whiteness", "The Gracies and the development of Brazilian
+    jiu-jitsu", "Gracies versus luta livre", conclusion) and all 14
+    footnotes, pp. 78–90. The reference list (pp. 90–93) was skimmed. The
+    videos and newspaper sources the paper cites were not consulted, and
+    the author's companion article on capoeira and judo (cited as Penglase
+    2025) was not read. Unpaywall also lists Loyola eCommons' copy of the
+    submitted version, not used. Page numbers below are the journal's.
+date: '2026-10-22'
+summary: >-
+  An anthropologist's argument, from secondary histories, Gracie family
+  sources and a little ethnography, that the Gracies' challenge matches
+  against luta livre placed their jiu-jitsu in Brazil's racial hierarchy as
+  white, mostly through class, neighbourhood and employment rather than in
+  words. Along the way it documents that the Gracies fought over the rules
+  as well as under them, and that jiu-jitsu prospered while luta livre,
+  poorer and darker, went underground; it then absorbed luta livre's no-gi
+  style until only the social difference remained.
+---
+<!-- inactive-ok-file: CLAIM-416 CLAIM-417 CLAIM-402 THEORY-854 THEORY-667 — Proposed; claims and accounts this reading bears on, named, not leaned on -->
+# NOTE-tmpvdjek: Penglase — The unspoken whiteness of Brazilian jiu-jitsu
+
+## Contribution
+
+A reading of the Gracie–luta livre rivalry, 1931 to 1997, as a process of
+racialization. Earlier work cited (Cairus; Lise & Capraro) read the
+challenge matches as nation-building and as the "hegemonic narrative" of
+one family's art. Penglase adds race, and argues that the matches "were
+not simply about proving the combat superiority of jiu-jitsu, but also
+about positioning it as both white, yet also Brazilian" (p. 80). He claims
+no new archive: the history comes from Pedreira, Laydner, Drysdale and
+Reila Gracie's biography, and the interpretation from the sociology of
+race in Brazil.
+
+## Key insight
+
+In Brazil whiteness is seldom said; it is read through class, neighbourhood
+and occupation. So "the 'whiteness' of Brazilian jiu-jitsu was not simply
+the product of the phenotype of its practitioners, but was 'spoken' through
+other registers, in particular class and urban space" (p. 80): an academy
+in Flamengo near the presidential palace, private lessons for millionaires'
+sons, a gi, owners rather than employees, against luta livre taught in the
+North Zone, bare-chested, by men who worked as instructors for wealthier
+clients. Abroad, where those cues cannot be read, jiu-jitsu looked like
+pure technique, and "Because the Gracies positioned jiu-jitsu's identity,
+in explicit terms, as 'efficient' and 'effective,' the larger context
+within which it developed, and the ways it was racialized, could be
+unspoken" (p. 90).
+
+## Assumptions
+
+- **Whiteness is relational and positional**, "a location within a
+  hierarchy which is connected to a set of social practices" (p. 83), after
+  Frankenberg; in Brazil it comes in degrees, and wealth can move a person
+  "closer" to white (Degler, p. 82; Pinho, p. 83).
+- **Brazilians are hyper-aware of race and reluctant to name it** (Costa
+  Vargas, Sheriff, Degler; p. 82). This is what lets class and space carry
+  racial meaning, and it is also what makes the paper's evidence indirect.
+- **Normative white masculinity is trained and rational, not brute**
+  (Dyer). The Gracie story of the frail Hélio who wins by technique is read
+  as that type (pp. 83–84).
+- **The secondary histories are reliable enough.** Most episodes come from
+  Pedreira's newspaper research, Laydner, Drysdale and the family's own
+  accounts, which disagree in places, and the paper says where.
+
+## Key results
+
+There are no new data beyond a few interview quotations from the author's
+Chicago fieldwork. The historical findings, by period:
+
+- **1931, Carlos Gracie against Manoel Rufino dos Santos (pp. 86–87).**
+  The rules were fought over first. Rufino wanted no time limit, a
+  three-second pin as a win and no gi; the Gracies wanted five-minute
+  rounds, submission or knockout only, and both men in a gi. "the Gracies
+  often insisted on rules that would benefit them and their fighting
+  style", and "The Gracies also often used debates about the rules to
+  distinguish their fighting style from others." Rufino conceded, though
+  he fought bare-chested. "Both of these rules – in particular insisting on
+  the use of the judogi – also favored the Gracies in the ring." The result
+  was disputed; Rufino dominated the first two rounds and "Ultimately, the
+  referee gave the decision to Rufino" (p. 87). The Gracie brothers
+  attacked him in the street in 1932.
+- **1930s–1950s (pp. 87–88).** Class and racial lines were "somewhat
+  blurred" at first; luta livre's stars became working-class, Black and
+  mixed-race as it professionalized, and its classes were cheaper, "in
+  part because they did not require buying a judogi" (p. 87). Waldemar
+  Santana, a Black former employee of the academy, beat Hélio in 1955.
+- **1980s–1997 (pp. 88–89).** Beach fights, academy "invasions", Royler
+  Gracie against Eugênio Tadeu (1988, a draw), and the 1991 Grajaú Country
+  Club event: "The jiu-jitsu men won all three fights." Laydner: after it
+  "luta livre as a sport never recovered from the blow". In 1997 Tadeu was
+  on top of Renzo Gracie when the lights went out and a brawl stopped the
+  fight; Rio's mayor then banned such events.
+- **Fortunes (pp. 81, 89).** "jiu-jitsu ended up becoming far more
+  economically profitable than luta livre" (p. 81); after 1997 "the two
+  fighting styles went on to have very different levels of economic
+  success", and "Luta livre, which never had such a strong financial
+  foundation, largely went underground" (p. 89). The causes offered are
+  three: the 1991 defeat, Tadeu's view that the sports press was staffed by
+  elite Gracie students, and "the underlying class and racial differences".
+  Penglase does not weigh them.
+- **Absorption (p. 90).** Carlson and Rolls Gracie trained with luta livre
+  and wrestling; when jiu-jitsu schools began teaching no-gi, "the main
+  technical contrast between the two arts collapsed", leaving only the
+  "largely unaddressed" racial and class differences.
+- **Tadeu's "democratization" (p. 89).** After 1997, "the issue was no
+  longer whether luta livre or jiu-jitsu was superior, but whether one
+  fighter was better than another".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | The Gracies' matches against luta livre positioned jiu-jitsu as white in Brazil's racial hierarchy, mostly implicitly, through class, urban space and employment | moderate as interpretation; the racial meaning is inferred from cues the paper argues were unspoken | secondary histories, the sociology of race in Brazil, episodes pp. 84–90 |
+| C2 | The Gracies negotiated rules that favoured them and that marked their style as distinct from luta livre and from judo | moderate: one well-documented episode (1931) and a general "often" | Pedreira, Laydner, Reila Gracie (pp. 86–87) |
+| C3 | Jiu-jitsu became far more profitable than luta livre, which went underground; class and racial position were among the causes | moderate for the outcome; weak for the causal share, which is asserted beside other causes and not weighed | pp. 81, 89 |
+| C4 | Jiu-jitsu absorbed luta livre's no-gi style, so that the technical difference collapsed and the social difference remained | moderate | Drysdale, Tadeu interview (p. 90) |
+| C5 | Abroad, jiu-jitsu's racialization became invisible: it was seen as technique, efficiency and one family | weak to moderate: two interviews and online comments | Conclusion, pp. 90–91 |
+
+## Concepts
+
+- **Whiteness (here)**: "location of structural advantage" (Frankenberg),
+  carried in Brazil by "a much wider economy of signs" than skin colour
+  (Pinho), and held in degrees.
+- **Hegemonic narrative**: Lise & Capraro's term for the story that ties
+  Brazilian jiu-jitsu's effectiveness to challenge matches and to one
+  family, Carlos and Hélio, erasing other lineages (Fadda's) and Carlson.
+- **Luta livre**: a Brazilian catch-wrestling style, "free fighting",
+  flexible in its rules and often distinguished from jiu-jitsu mainly by the
+  absence of the gi.
+
+## Connections
+
+It builds on Cairus (2011, 2012, 2020) on the Gracies and nationalism, on
+Lise & Capraro (2018) and Andrade (2025) on the hegemonic narrative, and on
+Schapira's ethnography of the Fadda lineage. The paper says luta livre
+itself is little studied. It cites no work on habitus or Wacquant, and none
+on the sociology of rules or measurement.
+
+## Bearing on the record
+
+- **[CASE-130](../cases.d/CASE-130.md).** The particulars the case kept as the replies'
+  summary check out: the 1931 rules were negotiated over time limits, the
+  pin and the gi, and the result was disputed (the referee gave it to
+  Rufino; Carlos claimed Rufino had quit to his choke); the 1991 Grajaú event was won by the
+  jiu-jitsu fighters, all three bouts; the 1997 Renzo–Tadeu fight was
+  stopped by a riot, with Tadeu then on top. The case's caution about A35's
+  reading needs undoing in part. The curation note of 2026-10-22 and the
+  LIT said that "the contrasting social positions of the traditions
+  significantly affected their relative commercial and cultural fortunes"
+  was the exchange's reading, the abstract being about racialization. The
+  body says much the same thing (C3): jiu-jitsu became "far more
+  economically profitable", and among the causes of luta livre's decline
+  "Also crucial were the underlying class and racial differences" (p. 89).
+  The exchange read the paper fairly; what it added was "significantly".
+  Penglase lists that cause beside the 1991 defeat and press bias and does
+  not weigh them, so the causal share is the paper's assertion, not a
+  finding. The case's line on Wacquant's habitus is not from this paper.
+  A36's "technically more similar while becoming socially and ideologically
+  more antagonistic" is half supported: the technical difference collapsed
+  and the social one remained, but on Penglase the antagonism ended after
+  1997, by Tadeu's "democratization" and by luta livre's decline.
+- **[CLAIM-416](../claims.d/CLAIM-416.md).** Good evidence for parts 1 and 2. The 1931 fight shows a
+  contest over the test before the contest under it, and the rule chosen
+  (the gi, rounds, no points) both distinguished the style and "favored the
+  Gracies in the ring" (p. 86). That bears on the claim's "Not motive"
+  clause. A36 kept apart the claim that rules are changed in order to
+  entrench; Penglase says the Gracies "often insisted on rules that would
+  benefit them". That is a competitor bargaining for advantage before a
+  match, not a governing institution changing rules to entrench a
+  competitor, so the clause stands, but the record now has a documented
+  instance of the weaker form. Part 3, reflexivity, gets an instance
+  too: by the 1990s no-gi was part of jiu-jitsu, and the test that had
+  divided the arts in 1931 had stopped dividing them. The paper does not
+  argue for any of this in the claim's terms; the mapping is mine.
+- **[CLAIM-417](../claims.d/CLAIM-417.md).** C4 is an instance of character and lineage coming apart:
+  luta livre's technical character survives inside jiu-jitsu's lineage and
+  institutions while its own lineage persists, poorer, "underground".
+- **[CLAIM-402](../claims.d/CLAIM-402.md), [THEORY-854](../theory.d/THEORY-854.md).** Not engaged by the paper. The
+  "hegemonic narrative", that the matches proved effectiveness, is an
+  institutionally produced reading of results, which is near [CLAIM-402](../claims.d/CLAIM-402.md)'s
+  looping, but the paper does not make that argument.
+- **[THEORY-667](../theory.d/THEORY-667.md) (Haslanger's race as hierarchical position).** A
+  test case, not a refutation. Penglase's whiteness is positional, as
+  Haslanger's is, but he stresses that in Brazil it is read off class and
+  place as much as off presumed bodily features, and that wealth moves
+  people along the scale. Haslanger's definition keys racialization to
+  features "presumed to show ancestry from a region"; the Brazilian
+  "economy of signs" is a place where that clause does less of the work.
+  The paper does not discuss Haslanger.
+- **THEORY warranted?** None filed. The substantive claim (C1) is
+  interpretive and about one rivalry; the general mechanism the record
+  wants from it is already [CLAIM-416](../claims.d/CLAIM-416.md). The record holds no THEORY of the
+  racialization of sport, and this paper alone would not ground one.
+- No instruction for machine-learning practice; nothing for the anthology.
+
+## Limitations
+
+- The racial meaning is argued to be implicit, so most of the evidence is
+  indirect: neighbourhoods, prices, employment, a nickname, a gi. The paper
+  says itself that it "does not claim that any specific practitioners of
+  jiu-jitsu are, themselves, racist" (p. 81).
+- The history is from secondary and partisan sources (the family's
+  biography, a Gracie promotional video) and from journalists. The paper
+  notes that "Relatively little scholarly research has been done on luta
+  livre" (p. 85).
+- The causes of the two arts' different fortunes are listed, not weighed;
+  no comparison case is offered.
+- The paper does not ask which art was technically better, on purpose (n.
+  6), and offers nothing on it.
+- The ethnography is thin: a gym post, two interviews and online comments.
+
+## Open questions
+
+- How much of luta livre's decline was the 1991 and 1997 results, the
+  press, and capital and class? A comparison with another rivalry where the
+  socially weaker side won the matches would separate them.
+- Did the Gracies' rule demands change after 1931 as their institutional
+  power grew, and did any governing body adopt them? That would test the
+  stronger, institutional form that [CLAIM-416](../claims.d/CLAIM-416.md) sets aside.

@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmpdfe07
 title: 'A historical figure''s influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone descends from them without continuing their perspective'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after Acharya et al. and Swidler were read:
+    the hard case's attitude emerged after Reconstruction, and a fourth
+    mode of persistence. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -36,7 +43,7 @@ summary: >-
   survives is the distinction: "The persistence of a story about someone
   is not equivalent to the persistence of that person's perspective."
 ---
-<!-- inactive-ok-file: LIT-1381 LIT-1388 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: LIT-1381 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-327 CLAIM-329 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-420: A historical figure's influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone descends from them without continuing their perspective
@@ -109,3 +116,22 @@ be told from transmission.
   regenerate is part of a collective's dynamics ([CLAIM-327](CLAIM-327.md)); a story can
   shape who joins a lineage. The claim says story and perspective are
   separable, not that one cannot act on the other.
+
+## Note of 2026-10-22: the hard case, read
+
+- **Acharya, Blackwell and Sen ([LIT-1388](../literature.d/LIT-1388.md)).** The claim's framing of this as
+  the hard case, where association must be told from transmission, holds.
+  The county association is robust; the transmission evidence is thin (a
+  parent–child correlation among a small Southern sample, not tied to
+  county slavery). The reading adds what the claim lacks: the attitude did
+  not descend unchanged from slavery. "the data show that regional
+  differences emerged after the end of Reconstruction" (p. 634). That is
+  causal descent from an institution by way of its abolition, plus
+  transmission of a perspective formed later: two of the claim's three
+  modes in sequence. And "it is sociopolitical attitudes, rather than
+  partisanship, that are passed down from parent to children" (n. 23).
+- **A fourth mode.** Swidler ([LIT-1367](../literature.d/LIT-1367.md)) gives a style of organizing action
+  that outlasts the doctrine and ends that produced it: "this
+  individualistic way of organizing action can be directed to many
+  values" (p. 276). That is a perspective transmitted without its content,
+  a finer cut than the claim's perspectival persistence.
