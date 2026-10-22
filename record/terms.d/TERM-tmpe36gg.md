@@ -151,24 +151,24 @@ being a new vocabulary for complex feedback."
 
 ## Note of 2026-10-22: the readings
 
-- **Sense 1 without sense 2.** In Gurnee et al. (NOTE-tmpyc06q) a base
+- **Sense 1 without sense 2.** In Gurnee et al. ([NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md)) a base
   language model already has the access workspace, and post-training
   installs the assistant's point of view. That separates an
   organizational perspective from a represented one in one system. It
   says nothing about sense 3.
 - **Sense 3 without a represented owner.** Meditators report losing the
   sense of self, and of subject and object, while remaining aware
-  (NOTE-tmpz0x5w, NOTE-tmpdfg0e). That is a reported separation of a
+  ([NOTE-tmpz0x5w](../notes.d/NOTE-tmpz0x5w.md), [NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md)). That is a reported separation of a
   represented owner from a phenomenal perspective, and it rests on report.
 - **Bridges from sense 2 to sense 3.** Higher-order theories
-  (NOTE-tmpo7pcy) make representing one's own state what makes it
-  experiential. On Graziano's illusionism (THEORY-tmpncy2z) experience is
+  ([NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md)) make representing one's own state what makes it
+  experiential. On Graziano's illusionism ([THEORY-tmpncy2z](../theory.d/THEORY-tmpncy2z.md)) experience is
   the represented perspective of a real organization. Both are rivals to
-  the bridge CLAIM-tmpdga80 proposes from sense 1.
-- **Other uses.** Lycan's "perspective" (NOTE-tmpxf5do) is a mode of
-  presentation, nearest sense 2. Laukkonen et al. (NOTE-tmpjn4z8) say a
+  the bridge [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) proposes from sense 1.
+- **Other uses.** Lycan's "perspective" ([NOTE-tmpxf5do](../notes.d/NOTE-tmpxf5do.md)) is a mode of
+  presentation, nearest sense 2. Laukkonen et al. ([NOTE-tmpjn4z8](../notes.d/NOTE-tmpjn4z8.md)) say a
   first-person perspective is not required, meaning sense 2. Barrett et
-  al.'s "conditioned on some perspective" (NOTE-tmpr1xjh) is nearest sense
-  1 but does not say. On Ward's enactivism (NOTE-tmpl4pbc), leaving
+  al.'s "conditioned on some perspective" ([NOTE-tmpr1xjh](../notes.d/NOTE-tmpr1xjh.md)) is nearest sense
+  1 but does not say. On Ward's enactivism ([NOTE-tmpl4pbc](../notes.d/NOTE-tmpl4pbc.md)), leaving
   self-maintenance out of the definition puts this term on the
   informationalist side.

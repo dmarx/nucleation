@@ -26,8 +26,8 @@ date: '2026-10-22'
 source:
 - LIT-tmpldiuy
 summary: >-
-  Ward (2026), LIT-tmpldiuy, read in the accepted manuscript in
-  NOTE-tmpl4pbc. Views differ on where cognition's processes are (skull or
+  Ward (2026), [LIT-tmpldiuy](../literature.d/LIT-tmpldiuy.md), read in the accepted manuscript in
+  [NOTE-tmpl4pbc](../notes.d/NOTE-tmpl4pbc.md). Views differ on where cognition's processes are (skull or
   brain–body–world) and, separately, on what the meaning of mental states
   depends on (information, or organization distinctive of the living).
   Embodied predictive processing, extended functionalism and cybernetics
@@ -43,8 +43,8 @@ summary: >-
 
 ## Source
 
-Ward (2026), "What is enactivism?", LIT-tmpldiuy, read in full in
-NOTE-tmpl4pbc from the author's accepted manuscript: §§3–4 (the two axes
+Ward (2026), "What is enactivism?", [LIT-tmpldiuy](../literature.d/LIT-tmpldiuy.md), read in full in
+[NOTE-tmpl4pbc](../notes.d/NOTE-tmpl4pbc.md) from the author's accepted manuscript: §§3–4 (the two axes
 and Figure 1), §5 (continuity), §6 (primacy and reciprocity), and
 footnotes 3, 5 and 6. The manuscript has no page numbers.
 
@@ -110,24 +110,24 @@ making the second axis redundant. Ward's placements show they do not.
 ## Connections
 
 No relation is declared. The record has no question about how to classify
-theories of mind, and the account does not answer QUESTION-tmpc4j7p.
+theories of mind, and the account does not answer [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).
 
-- **CLAIM-tmpdga80, TERM-tmpgqmop.** On this map the constitutive thesis is
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md), [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md).** On this map the constitutive thesis is
   informationalist: interpretation is defined as the organization of
   information, with no requirement of life. Its nearest neighbours are predictive processing and cybernetics,
   not enactivism.
-- **CLAIM-tmpjw8ev.** The enactive objection the claim names is better
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md).** The enactive objection the claim names is better
   stated, from this paper, as an organicist one: that meaning depends on
   an organization's inherence in living self-maintenance, not that it
   needs an embodied history. The claim's distinction between what grounds
   an interpretation and what makes it experiential is what an organicist
   would contest.
-- **TERM-tmpe36gg.** Withdrawing self-maintenance as a necessary mark of
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).** Withdrawing self-maintenance as a necessary mark of
   perspective is the step this account would locate on the
   informationalist side.
-- **QUESTION-tmpc4j7p.** The distinctive/characteristic distinction is a
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** The distinctive/characteristic distinction is a
   test an enactivist would apply to any answer. The question's own
   constraint, that the answer not be drawn from the verdict on machines,
   bars applying it by fiat.
-- **THEORY-767** and the Seth readings (LIT-1263, LIT-135) sit, on this
+- **[THEORY-767](THEORY-767.md)** and the Seth readings ([LIT-1263](../literature.d/LIT-1263.md), [LIT-135](../literature.d/LIT-135.md)) sit, on this
   account, on the embodied informationalist side.

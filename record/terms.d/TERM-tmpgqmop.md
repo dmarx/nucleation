@@ -103,17 +103,17 @@ told apart in a system without assuming what the system experiences.
 
 ## Note of 2026-10-22: the readings
 
-- **This sense.** Posterior inference in Whyte et al. (NOTE-tmpjgegs) has
-  all three parts. So does the reappraisal in Bo et al. (NOTE-tmphhgp9),
+- **This sense.** Posterior inference in Whyte et al. ([NOTE-tmpjgegs](../notes.d/NOTE-tmpjgegs.md)) has
+  all three parts. So does the reappraisal in Bo et al. ([NOTE-tmphhgp9](../notes.d/NOTE-tmphhgp9.md)),
   and so does the introspective "component analysis" of colour in Aldé
-  (NOTE-tmp0qd7y).
+  ([NOTE-tmp0qd7y](../notes.d/NOTE-tmp0qd7y.md)).
 - **Close, but not defined without experience.** Barrett et al.'s
-  categorization (NOTE-tmpr1xjh) has the three parts, but its account of
+  categorization ([NOTE-tmpr1xjh](../notes.d/NOTE-tmpr1xjh.md)) has the three parts, but its account of
   what categorization yields is given in terms of experience.
-- **Other senses.** The Stanford Encyclopedia entries (NOTE-tmpxf5do,
-  NOTE-tmpo7pcy) use "interpretation" for Davidson's and Dennett's
+- **Other senses.** The Stanford Encyclopedia entries ([NOTE-tmpxf5do](../notes.d/NOTE-tmpxf5do.md),
+  [NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md)) use "interpretation" for Davidson's and Dennett's
   ascription, for Rosenthal's self-inference and for consumer use. None of
   these is this term's sense.
 - **No test.** Nothing in the meditation readings picks out interpretation
-  in this broad sense from plain organization (NOTE-tmpdfg0e,
-  NOTE-tmpz0x5w).
+  in this broad sense from plain organization ([NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md),
+  [NOTE-tmpz0x5w](../notes.d/NOTE-tmpz0x5w.md)).

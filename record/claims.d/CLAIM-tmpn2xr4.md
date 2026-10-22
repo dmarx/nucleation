@@ -131,18 +131,18 @@ its construction meets that claim's conditions (A) and (B).
 
 ## Note of 2026-10-22: an empirical parallel, and two criteria
 
-- **A parallel in a trained model.** In Gurnee et al. (NOTE-tmpyc06q) the
+- **A parallel in a trained model.** In Gurnee et al. ([NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md)) the
   language of a passage is represented in all four tasks but is effective
   in only two, and only an activation swap tells them apart. That is the
   claim's first separation, efficacy against representation, found in a
   real system and not constructed. It is an intervention result, not
   passive observation.
 - **Criteria that behaviour cannot settle.** Whyte et al.'s criterion of
-  consciousness (THEORY-tmpw20ca) is a capacity to affect choice, and
-  Laukkonen et al.'s "epistemic depth" (THEORY-tmpw19hw) is precision
+  consciousness ([THEORY-tmpw20ca](../theory.d/THEORY-tmpw20ca.md)) is a capacity to affect choice, and
+  Laukkonen et al.'s "epistemic depth" ([THEORY-tmpw19hw](../theory.d/THEORY-tmpw19hw.md)) is precision
   allocated from within. By this claim, matched behaviour can hide both,
   so behavioural tests for them, as Laukkonen et al. propose for AI, need
   an intervention.
-- Bo et al. (NOTE-tmphhgp9) show where an appraisal is represented and
+- Bo et al. ([NOTE-tmphhgp9](../notes.d/NOTE-tmphhgp9.md)) show where an appraisal is represented and
   where it changes affect, but by correlational imaging. It is a loose
   parallel, not an instance.

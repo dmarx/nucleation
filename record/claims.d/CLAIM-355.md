@@ -217,19 +217,19 @@ that term.
 
 ## Note of 2026-10-22: readings from the exchange on experience and interpretation
 
-- **Gładziejewski** (NOTE-tmp220h1, THEORY-tmphhvaa, THEORY-tmpru19x)
+- **Gładziejewski** ([NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md), [THEORY-tmphhvaa](../theory.d/THEORY-tmphhvaa.md), [THEORY-tmpru19x](../theory.d/THEORY-tmpru19x.md))
   supports the claim's split. A self is a real pattern, and the
   self-model is a compression that posits one common cause. It also
-  sharpens Drayson's objection (THEORY-646). A single represented owner
+  sharpens Drayson's objection ([THEORY-646](../theory.d/THEORY-646.md)). A single represented owner
   may be a lossy compression of the organization rather than a
   misdescription of it, which would leave nothing illusory. Its footnote
   10 suggests a test: a dissociative case better compressed by two selves
   than by one.
-- **Graziano** (NOTE-tmpzibsl, THEORY-tmpncy2z) shares the claim's
+- **Graziano** ([NOTE-tmpzibsl](../notes.d/NOTE-tmpzibsl.md), [THEORY-tmpncy2z](../theory.d/THEORY-tmpncy2z.md)) shares the claim's
   structure, with real processes and a simplified self-model, but carries
   the illusion over to phenomenality, which this claim leaves open.
 - **Somatoparaphrenia and thought insertion**, as the Stanford Encyclopedia
-  entry on higher-order theories reports them (NOTE-tmpo7pcy), are cases in
+  entry on higher-order theories reports them ([NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md)), are cases in
   which the attribution of ownership fails while the experience stays. Of
-  TERM-tmpe36gg's senses, the claim concerns a represented owner, not a
+  [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)'s senses, the claim concerns a represented owner, not a
   represented perspective.

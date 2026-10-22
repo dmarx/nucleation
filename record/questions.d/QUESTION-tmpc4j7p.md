@@ -104,7 +104,7 @@ The exchange's candidates, none yet a criterion:
 - endogenous valuation (A7 §12), kept apart from felt distress as
   [CLAIM-368](../claims.d/CLAIM-368.md) keeps frustration apart from it;
 - higher-order or recursive self-interpretation (A3, A4);
-- the coherent world model of an embodied agent, as in IWMT (LIT-tmp5k0u3),
+- the coherent world model of an embodied agent, as in IWMT ([LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md)),
   which requires a capacity for coupling and a history of it, not current
   coupling (note of 2026-10-22), so it is compatible with the grounding
   condition and parts from the thesis only on development.
@@ -210,30 +210,30 @@ rather than the constitution of conscious experience".
 The works the exchange cited, read on 2026-10-22, offer candidates for the
 organizational half. None answers the phenomenal half.
 
-- **Access at an interface** (Whyte et al., THEORY-tmpw20ca): conscious
+- **Access at an interface** (Whyte et al., [THEORY-tmpw20ca](../theory.d/THEORY-tmpw20ca.md)): conscious
   access where continuous inference meets discrete choice. Stated for
   humans, and tied to report.
-- **Recursive precision modelling** (Laukkonen et al., THEORY-tmpw19hw):
+- **Recursive precision modelling** (Laukkonen et al., [THEORY-tmpw19hw](../theory.d/THEORY-tmpw19hw.md)):
   as formalized, an ordinary hierarchical filter with a precision
   parameter per level would meet it.
-- **A coherent, egocentric world model** (IWMT, THEORY-tmpopaql). It needs
+- **A coherent, egocentric world model** (IWMT, [THEORY-tmpopaql](../theory.d/THEORY-tmpopaql.md)). It needs
   a capacity for coupling and a history of it, not current coupling, so it
   is compatible with the grounding condition above. It gives no
   threshold.
-- **An attention schema** (Graziano, THEORY-tmpncy2z): a representational
+- **An attention schema** (Graziano, [THEORY-tmpncy2z](../theory.d/THEORY-tmpncy2z.md)): a representational
   condition, stated through report.
-- **Higher-order representation** (NOTE-tmpo7pcy). This contests the
+- **Higher-order representation** ([NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md)). This contests the
   question's second contrast. On higher-order views, representing one's
   own state is what makes it experiential, so constituting a perspective
   and representing one do not come apart as the question assumes.
-- **Life** (Ward, THEORY-tmpnwjjt). An enactivist would test any answer by
+- **Life** (Ward, [THEORY-tmpnwjjt](../theory.d/THEORY-tmpnwjjt.md)). An enactivist would test any answer by
   whether its property is distinctive of life or only characteristic of
   it. The question's ban on drawing the line from verdicts on machines
   cuts against that test.
-- **A workspace without a point of view** (Gurnee et al., THEORY-tmp111ci).
+- **A workspace without a point of view** (Gurnee et al., [THEORY-tmp111ci](../theory.d/THEORY-tmp111ci.md)).
   In the base model the workspace exists, and post-training installs the
   assistant's perspective. A candidate condition must say which of the two
   it tracks.
 
-Barrett et al. (NOTE-tmpr1xjh) give no criterion for when categorization
+Barrett et al. ([NOTE-tmpr1xjh](../notes.d/NOTE-tmpr1xjh.md)) give no criterion for when categorization
 is experiential.

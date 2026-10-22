@@ -150,20 +150,20 @@ question."
 The works the exchange cited, read on 2026-10-22, support the objection.
 None meets its defeater.
 
-- Whyte et al. (NOTE-tmpjgegs) say active inference covers "both conscious
+- Whyte et al. ([NOTE-tmpjgegs](../notes.d/NOTE-tmpjgegs.md)) say active inference covers "both conscious
   and unconscious" behaviour. Their criterion is tied to report.
-- Gurnee et al. (NOTE-tmpyc06q) find interpretation in a language model
+- Gurnee et al. ([NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md)) find interpretation in a language model
   outside its reportable workspace, and draw the blindsight parallel
   themselves.
-- Barrett et al. (NOTE-tmpr1xjh) extend categorization to single-cell
+- Barrett et al. ([NOTE-tmpr1xjh](../notes.d/NOTE-tmpr1xjh.md)) extend categorization to single-cell
   organisms, and leave animal experience as "whatever that means for the
   animals in question".
 - Representationalism concedes the same open sufficiency condition
-  (NOTE-tmpxf5do). The higher-order criterion (NOTE-tmpo7pcy) fails on
+  ([NOTE-tmpxf5do](../notes.d/NOTE-tmpxf5do.md)). The higher-order criterion ([NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md)) fails on
   necessity (animals) and on sufficiency, and its evidence runs through
-  report. Graziano's attention schema (THEORY-tmpncy2z) is a candidate for
+  report. Graziano's attention schema ([THEORY-tmpncy2z](../theory.d/THEORY-tmpncy2z.md)) is a candidate for
   the missing condition, but it is representational and stated through
   report.
-- Lyre (THEORY-tmpv5rmc) separates neural correlates of content from a
+- Lyre ([THEORY-tmpv5rmc](../theory.d/THEORY-tmpv5rmc.md)) separates neural correlates of content from a
   general correlate of consciousness. That concedes the gap from the
   structuralist side.

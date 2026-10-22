@@ -174,13 +174,13 @@ reframes. Its method comes from the authors' earlier TET studies of
 meditation, breathwork and DMT, and from the neural-marker screening of
 Sitt, King and colleagues for disorders of consciousness. It cites
 Varela's neurophenomenology as its frame. It does not cite Woods, Windt &
-Carter (LIT-tmpg6f7h), who argue from expert texts that states like TM's
+Carter ([LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md)), who argue from expert texts that states like TM's
 goal-state are not truly contentless. The record holds no reading of
 Metzinger's paper or of the TM physiology literature.
 
 ## Bearing on the record
 
-- **CLAIM-tmpdga80 (experience constituted by interpretive organization).**
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (experience constituted by interpretive organization).**
   The exchange cited this study as experience with little interpretation,
   which would bar identifying interpretation with rich conceptual content.
   The study is weaker evidence for that than the exchange's description
@@ -189,33 +189,33 @@ Metzinger's paper or of the TM physiology literature.
   are an after-the-fact classification of the session in the
   experimenters' categories. They are not observation of an episode with
   little interpretation. The paper's own account of PA keeps wakefulness
-  and "alert presence" (p. 1), and the sibling reading of LIT-tmpg6f7h
+  and "alert presence" (p. 1), and the sibling reading of [LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md)
   finds wakefulness, calm, bliss and knowing in TM's expert descriptions.
-  On TERM-tmpgqmop's broad, nonphenomenal sense of interpretation, nothing
+  On [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md)'s broad, nonphenomenal sense of interpretation, nothing
   here shows interpretation absent: the EEG shows a distinct organization,
   not less of one. The study is consistent with the claim's own caveat,
   that interpretation must not be identified with rich conceptualization,
   explicit judgment or self-narration. It does not test the claim.
-- **CLAIM-tmp1lvwf (much interpretation not shown to be experiential).**
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) (much interpretation not shown to be experiential).**
   From the other side, it shows how hard such cases are to use. Phenomenal
   claims about PA rest wholly on report. Even the 88% classification of
   meditation against rest separates a task period from rest, and the
-  authors could not tie the reports to the EEG. This is QUESTION-048's
+  authors could not tie the reports to the EEG. This is [QUESTION-048](../questions.d/QUESTION-048.md)'s
   difficulty in a contemplative setting.
-- **QUESTION-tmpc4j7p (what makes an organization experiential).** If PA
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) (what makes an organization experiential).** If PA
   is a real experiential state with little content, it is a case where an
   organization stays experiential while its content is pared down. The
   study's EEG would then be a candidate description of that organization.
   But the link from the EEG to the experience is exactly what was not
   found.
-- **TERM-tmpe36gg (perspective, three senses).** PA is described as
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md) (perspective, three senses).** PA is described as
   lacking a represented self and a spatial frame while remaining a lived
   point of view. If the description is right, the represented sense of
   perspective (sense 2) comes apart from the phenomenal sense (sense 3).
   The study gives that as definition, not as finding.
-- **THEORY-633 (strong illusionism).** Nothing here bears on it beyond the
+- **[THEORY-633](../theory.d/THEORY-633.md) (strong illusionism).** Nothing here bears on it beyond the
   general point: everything phenomenal in the study is a report.
-- **THEORY filed.** THEORY-tmp9y4pc states what the study shows, with the
+- **THEORY filed.** [THEORY-tmp9y4pc](../theory.d/THEORY-tmp9y4pc.md) states what the study shows, with the
   missing link between report and EEG as its sharp edge.
 - No instruction for machine-learning practice; nothing for the
   anthology.

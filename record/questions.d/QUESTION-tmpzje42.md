@@ -166,7 +166,7 @@ a global state can describe an infeasible set of demands consistently.
 
 ## Note of 2026-10-22: the readings
 
-**Lee-Youngzie et al.** (NOTE-tmpfadjy, THEORY-tmpo2jzk) formalize binding,
+**Lee-Youngzie et al.** ([NOTE-tmpfadjy](../notes.d/NOTE-tmpfadjy.md), [THEORY-tmpo2jzk](../theory.d/THEORY-tmpo2jzk.md)) formalize binding,
 not unity, and assume an experience is always unified. They read a sheaf
 failure two ways, as disunity in binocular rivalry and as context
 dependence inside one unified experience in the Ebbinghaus illusion, and
@@ -190,11 +190,11 @@ that is a genuine non-gluing model taking part in one unified percept,
 which is what this question asks about. The inference is the record's,
 not the paper's. "Seen as one" is report, and whether the percept is
 unified phenomenally or only categorized as one object is open. Its
-obstruction needs a cycle of three junctions, as CLAIM-153's does.
+obstruction needs a cycle of three junctions, as [CLAIM-153](../claims.d/CLAIM-153.md)'s does.
 
-**Coherence views.** Laukkonen et al. (THEORY-tmpw19hw) and IWMT
-(THEORY-tmpopaql) take the coherence side. Laukkonen et al. treat
+**Coherence views.** Laukkonen et al. ([THEORY-tmpw19hw](../theory.d/THEORY-tmpw19hw.md)) and IWMT
+([THEORY-tmpopaql](../theory.d/THEORY-tmpopaql.md)) take the coherence side. Laukkonen et al. treat
 incoherence as a loss of awareness. Neither addresses a felt conflict.
 
-**Isaac** (LIT-tmpwhbpm), whose dynamical structures this question named
+**Isaac** ([LIT-tmpwhbpm](../literature.d/LIT-tmpwhbpm.md)), whose dynamical structures this question named
 as material, could not be reached and is Unavailable.

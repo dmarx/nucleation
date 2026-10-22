@@ -137,7 +137,7 @@ available evidence supports these to very different degrees." The claim
 asserts only the first. It is silent on the other three. A6 named the
 contrast that would sharpen the dispute: "current veridical sensory
 constraint" against "counterfactual sensorimotor organization". On the
-brain-bound side, the exchange described Villalobos and Cea (LIT-tmpfnhsh)
+brain-bound side, the exchange described Villalobos and Cea ([LIT-tmpfnhsh](../literature.d/LIT-tmpfnhsh.md))
 as arguing that a disembodied brain's physiological implausibility does
 not defeat a contrastive, brain-centred explanation. Their paper could not
 be reached, and that description is unchecked.
@@ -159,30 +159,30 @@ be reached, and that description is unchecked.
 The works the exchange cited for the open objection were read on
 2026-10-22. Two of them place it differently from the exchange.
 
-- **IWMT does not require current coupling** (NOTE-tmp9lg9m,
-  THEORY-tmpopaql). In Safron et al., imagination is the same world model
+- **IWMT does not require current coupling** ([NOTE-tmp9lg9m](../notes.d/NOTE-tmp9lg9m.md),
+  [THEORY-tmpopaql](../theory.d/THEORY-tmpopaql.md)). In Safron et al., imagination is the same world model
   "decoupled from sense-data". What IWMT requires is a capacity for
   action–perception coupling and a history of it, and it allows virtual
   embodiment. So it agrees with this claim on current grounding and parts
   from it only on development and capacity, the half the claim leaves
   open.
-- **Ward's objection is organicist, not developmental** (NOTE-tmpl4pbc,
-  THEORY-tmpnwjjt). The paper never discusses brains in vats, development,
+- **Ward's objection is organicist, not developmental** ([NOTE-tmpl4pbc](../notes.d/NOTE-tmpl4pbc.md),
+  [THEORY-tmpnwjjt](../theory.d/THEORY-tmpnwjjt.md)). The paper never discusses brains in vats, development,
   current input or grounding. Its enactivism holds that meaning, and so
   experience, depends on belonging to a living, self-maintaining system.
   That challenges the claim's split differently: it ties what makes an
   organization experiential to what keeps it alive, not to what grounds
   its contents. The claim's three senses of grounding do not answer it.
   That is the question of whether experience requires life, which
-  TERM-tmpe36gg's self-maintaining subclass leaves open.
-- **Gładziejewski** (NOTE-tmp220h1) separates the grounding of a modelled
+  [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)'s self-maintaining subclass leaves open.
+- **Gładziejewski** ([NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md)) separates the grounding of a modelled
   structure from the grounding of its realizer, and treats dreams as the
   off-line exception in which constraint persists without current input.
   That supports "ungrounded is not unconstrained".
-- **Laukkonen et al.** (NOTE-tmpjn4z8) describe lucid dreamless sleep as
+- **Laukkonen et al.** ([NOTE-tmpjn4z8](../notes.d/NOTE-tmpjn4z8.md)) describe lucid dreamless sleep as
   awareness without current content. That is a case for the occurrence
   half, though it rests on report.
 - **Villalobos and Cea and Putnam's "Brains in a vat"** are Unavailable
-  (LIT-tmpfnhsh, LIT-tmp0l6v1). The claim's use of each rests on the
+  ([LIT-tmpfnhsh](../literature.d/LIT-tmpfnhsh.md), [LIT-tmp0l6v1](../literature.d/LIT-tmp0l6v1.md)). The claim's use of each rests on the
   exchange's description.
 
