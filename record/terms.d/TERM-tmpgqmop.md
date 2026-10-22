@@ -23,6 +23,7 @@ used_by:
 - CLAIM-tmpdga80
 - CLAIM-tmpn2xr4
 ---
+<!-- inactive-ok-file: TERM-tmpe36gg CLAIM-tmpdga80 CLAIM-tmp1lvwf — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
 # TERM-tmpgqmop: interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience
 

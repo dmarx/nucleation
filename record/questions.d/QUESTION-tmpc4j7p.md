@@ -29,6 +29,7 @@ summary: >-
   [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md). An answer is that thesis's missing sufficiency
   condition, which [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) presses.
 ---
+<!-- inactive-ok-file: TERM-tmpe36gg — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-368 CLAIM-tmp1lvwf CLAIM-tmpdga80 CLAIM-tmpjw8ev — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmp5k0u3 LIT-tmp9k9lx — Deferred; works registered unread, cited as such -->
 # QUESTION-tmpc4j7p: What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must hold whether or not the interpretations are grounded, and must not be drawn from the verdict it gives on groups and machines?

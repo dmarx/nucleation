@@ -22,6 +22,7 @@ summary: >-
 supports:
 - CLAIM-tmpn2xr4
 ---
+<!-- inactive-ok-file: TERM-tmpe36gg — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
 # CASE-tmp60jh6: Represented, authorized, self-authorized and self-maintained: three one-bit systems that agree while the interpretation is 0 and part under an intervention that sets it to 1, and two two-constraint systems with the same constant trajectory, one closed and one reset from outside, that part under one perturbation
 

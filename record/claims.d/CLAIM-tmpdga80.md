@@ -57,6 +57,7 @@ summary: >-
 objected_by:
 - CLAIM-tmp1lvwf
 ---
+<!-- inactive-ok-file: TERM-tmpe36gg TERM-tmpgqmop — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-tmp1lvwf CLAIM-tmpjw8ev THEORY-056 THEORY-063 THEORY-095 THEORY-101 THEORY-507 THEORY-633 THEORY-680 THEORY-767 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmp0l6v1 LIT-tmp86j0r LIT-tmpac9l2 LIT-tmpg6f7h LIT-tmphg31k LIT-tmphw2n7 LIT-tmpi7qws LIT-tmptaneb — Deferred; works registered unread, cited as such -->
 # CLAIM-tmpdga80: Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience

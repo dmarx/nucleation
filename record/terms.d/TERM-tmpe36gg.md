@@ -23,6 +23,7 @@ summary: >-
 used_by:
 - CLAIM-tmpdga80
 ---
+<!-- inactive-ok-file: CLAIM-tmpdga80 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
 # TERM-tmpe36gg: perspective, and which sense: organizational, represented or phenomenal
 

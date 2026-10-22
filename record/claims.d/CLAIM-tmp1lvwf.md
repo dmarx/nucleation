@@ -41,6 +41,7 @@ summary: >-
   higher-order or recursive modelling, valuation, perspective) are the
   question [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) asks.
 ---
+<!-- inactive-ok-file: TERM-tmpe36gg — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-tmpdga80 THEORY-577 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmpx8g8s — Deferred; works registered unread, cited as such -->
 # CLAIM-tmp1lvwf: Under any definition of interpretation that does not presuppose experience, most interpretation is unconscious, as blindsight and subpersonal perception and motor control show, so interpretive organization is not sufficient for experience, and the constitutive thesis is incomplete until it names the further organization that makes an interpretation experiential

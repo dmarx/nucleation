@@ -40,6 +40,7 @@ summary: >-
 illustrated_by:
 - CASE-tmp60jh6
 ---
+<!-- inactive-ok-file: TERM-tmpe36gg TERM-tmpgqmop — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
 # CLAIM-tmpn2xr4: Representing an interpretation, its being effective, its efficacy being allocated from inside, and the constraints that allow all this being maintained by the organization itself are four distinct facts: systems identical in ordinary behaviour, or in their whole ordinary trajectory, differ in each, and only an intervention tells them apart
 
@@ -49,7 +50,9 @@ A10 proposed "four progressively stronger properties": representation,
 efficacy, endogenous allocation and constitutive maintenance. "These are
 not four degrees of consciousness. They are different organizational
 facts, each requiring different evidence." It built two constructions to
-show that they come apart. Both are [CASE-tmp60jh6](../cases.d/CASE-tmp60jh6.md), re-run here by script.
+show that they come apart. "Interpretation" here is [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md)'s, and
+maintenance is closure of constraints in [TERM-070](../terms.d/TERM-070.md)'s sense. Both
+constructions are [CASE-tmp60jh6](../cases.d/CASE-tmp60jh6.md), re-run here by script.
 Its tables are reproduced exactly.
 
 1. **Efficacy and allocation.** Systems R (Y = 0), X (Y = J) and E
