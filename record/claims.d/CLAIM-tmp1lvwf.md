@@ -1,7 +1,7 @@
 ---
 status: Proposed
-title: 'Under any definition of interpretation that does not presuppose experience, most interpretation is unconscious, as blindsight and subpersonal perception and motor control show, so interpretive organization is not sufficient for experience, and the constitutive thesis is incomplete until it names the further organization that makes an interpretation experiential'
-version: 2
+title: 'Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight''s apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential'
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -9,12 +9,22 @@ history:
     Note of 2026-10-22 added, from U8–U11 of the same exchange: the further
     candidates it tried, none of which meets the defeater. The claim is
     unchanged.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Narrowed after the owner relayed a review of 2026-10-22. The title no
+    longer says "any definition" or "most interpretation": neither is
+    established, and "most" has no basis for counting interpretations. It now
+    says that, under the broad nonphenomenal definition used here,
+    substantial processing not shown to be experiential meets the criterion.
+    Blindsight is qualified as apparently unconscious processing, after
+    QUESTION-048. The defeater and the objection's force are unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
   A statement of the qualifying organization, independent of report and
   of the verdict it is meant to give, under which the standard cases of
-  unconscious interpretation (blindsight, masked priming, automatic motor
+  apparently unconscious interpretation (blindsight, masked priming, automatic motor
   control, subpersonal perceptual inference) fall outside it and ordinary
   conscious perception falls inside. Or an argument that those cases are
   experiential after all, so that the thesis may take interpretation
@@ -30,9 +40,9 @@ objects_to:
 - CLAIM-tmpdga80
 summary: >-
   A3's "most serious challenge" to the owner's thesis, which every later
-  reply accepted. Once interpretation is defined without experience, as
-  the thesis requires, the brain interprets continually without
-  experience: "Interpretation ⇏ Conscious experience. At least, not under
+  reply accepted. Once interpretation is defined broadly and without
+  experience, as the thesis requires, it admits much processing that is
+  not shown to be experiential: "Interpretation ⇏ Conscious experience. At least, not under
   an unrestricted definition of interpretation." The objection is that
   the thesis is incomplete, not that it is false. A7 kept it as the
   theory's "open sufficiency condition". The record already separates
@@ -44,7 +54,7 @@ summary: >-
 <!-- inactive-ok-file: TERM-tmpe36gg — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-tmpdga80 THEORY-577 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmpx8g8s — Deferred; works registered unread, cited as such -->
-# CLAIM-tmp1lvwf: Under any definition of interpretation that does not presuppose experience, most interpretation is unconscious, as blindsight and subpersonal perception and motor control show, so interpretive organization is not sufficient for experience, and the constitutive thesis is incomplete until it names the further organization that makes an interpretation experiential
+# CLAIM-tmp1lvwf: Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight's apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential
 
 ## The objection
 
@@ -57,6 +67,18 @@ sophisticated information integration without clearly corresponding
 conscious episodes." A1 had already pressed it: "A distributed
 computational system could produce an impressively coherent interpretation
 without there being anything it is like to be that system."
+
+The objection does not need a count. It does not say that every
+nonphenomenal definition admits unconscious processing: a definition
+restricted to particular architectures or operations might not, and
+whether most instances of such a class are unconscious would be an
+empirical question with no settled way to count instances (events,
+mechanisms, episodes). Nor does it say that blindsight is shown to be
+unconscious. Report and behaviour do not settle phenomenality
+(QUESTION-048), so blindsight is apparently unconscious processing. The
+obstacle is that the broad definition admits processing that is not
+independently established as experiential, not that every unconscious
+interpretation has been identified.
 
 So the thesis has two options. It can take interpretation unrestricted
 and count these cases as experience, which A1 said "would need to be

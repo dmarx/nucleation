@@ -3,7 +3,18 @@ status: Proposed
 complements:
 - TERM-tmpgqmop
 title: 'perspective, and which sense: organizational, represented or phenomenal'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Sense 2 revised after the owner relayed a review of 2026-10-22. A
+    represented perspective (a model of the system's own interpretive
+    standpoint) is now kept apart from a represented owner (an attribution of
+    a single subject to whom the experiences belong). CLAIM-355 concerns the
+    second, so its selective fictionalism about owners does not extend to
+    perspectives. The global-section bullet is narrowed to match
+    QUESTION-tmpzje42's revision.
 tags:
 - consciousness
 - self
@@ -49,10 +60,20 @@ say which:
    organizational level and explanatory role", not of substance. It can be
    studied through dynamics and interventions without assuming
    consciousness.
-2. **Represented.** A system's model of its own standpoint, orientation
-   or identity. It can misdescribe the organization it models. [CLAIM-355](../claims.d/CLAIM-355.md)'s
-   constructed owner is a represented perspective, and [CASE-114](../cases.d/CASE-114.md) varies
-   one while holding the organization fixed.
+2. **Represented.** A system's model of its own interpretive standpoint
+   or orientation: "I am interpreting events through a threat-oriented
+   frame." It can misdescribe the organization it models. It is not the
+   same as a **represented owner**, an attribution of the standpoint to a
+   subject: "There is a single indivisible subject to whom these
+   experiences belong." Both can be mistaken, but in different ways. The
+   first can misdescribe how interpretation is organized. The second can
+   posit an owner the organization does not contain. CLAIM-355's
+   constructed owner is a represented owner, not a represented
+   perspective, and CASE-114 varies one while holding the organization
+   fixed. So the record's selective fictionalism concerns owners. It does
+   not make represented perspectives fictions, and a system can represent
+   its perspective accurately while misrepresenting its owner, or the
+   reverse.
 3. **Phenomenal.** "A lived point of view: what it is like for experience
    to occur as an organized field of significance."
 
@@ -108,8 +129,10 @@ same phenomenon."
   action-generating regimes. A9 found its machinery "surprisingly close",
   but declined to identify the two, which "would exclude possible
   experiences lacking sophisticated agency or governance".
-- Not a global section. A perspective in sense 1 can hold local
-  interpretations that do not glue ([QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md)).
+- Not a global section. A perspective in sense 1 can hold conflicting
+  interpretations and demands, and a conflict need not be a gluing
+  failure. Whether it can hold interpretations that genuinely fail to glue
+  is QUESTION-tmpzje42.
 
 ## What would settle it
 

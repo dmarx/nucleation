@@ -1,7 +1,7 @@
 ---
 status: Open
-title: 'Is the unity of an experience the existence of a global section over its interpretive contexts, or the unity of one process that can hold local interpretations that do not glue, as when someone wants to approach and avoid the same thing at once?'
-version: 2
+title: 'Can an empirical model that genuinely fails to glue, under a specified cover and correspondence between its contexts, take part in one phenomenally unified process, given that a unified experience can contain conflicting interpretations or demands and that such conflicts are not by themselves gluing obstructions?'
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -9,6 +9,17 @@ history:
     Note of 2026-10-22 added, from U8–U9 of the same exchange: a candidate
     answer, and the record's constraints on any sheaf model of it. The
     question is unchanged.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Reframed after the owner relayed a review of 2026-10-22. Version 1
+    treated wanting to approach and avoid at once as an overlap whose sections
+    disagree. That is not established: opposed desires can be one global state
+    that holds both, with no obstruction. The question now separates conflicts
+    that glue, genuine non-gluing models under a specified cover and
+    correspondence, and phenomenal unity, and asks whether the second can take
+    part in the third. The frustration complex is kept, with a caution that
+    infeasible demands and failure of global sections are different things.
 tags:
 - phenomenal-unity
 - mathematics
@@ -23,12 +34,16 @@ summary: >-
   experiential unity is "the existence of one globally consistent
   assignment of interpretations": "the conflict itself can be a unified
   experience", and a global assignment "could exist in a merely
-  descriptive model without any corresponding unified process". The
-  question is which structure, if either, is the unity of an experience.
+  descriptive model without any corresponding unified process". A
+  review of 2026-10-22 corrected the example: a felt conflict need not be
+  a gluing failure, since one global state can hold both sides. The
+  question is whether a model that genuinely fails to glue, under a cover
+  and correspondence fixed independently, can be part of one unified
+  experience.
 ---
 <!-- inactive-ok-file: CLAIM-196 CLAIM-198 CLAIM-355 CLAIM-368 CLAIM-tmpdga80 THEORY-063 — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmphb8p5 LIT-tmpwhbpm — Deferred; works registered unread, cited as such -->
-# QUESTION-tmpzje42: Is the unity of an experience the existence of a global section over its interpretive contexts, or the unity of one process that can hold local interpretations that do not glue, as when someone wants to approach and avoid the same thing at once?
+# QUESTION-tmpzje42: Can an empirical model that genuinely fails to glue, under a specified cover and correspondence between its contexts, take part in one phenomenally unified process, given that a unified experience can contain conflicting interpretations or demands and that such conflicts are not by themselves gluing obstructions?
 
 ## The question
 
@@ -43,7 +58,27 @@ experience". Its alternative: "Unity = A realized organization of local
 interpretations and their interactions", "a process that *maintains,
 negotiates, and responds to* incompatible interpretations."
 
-The two come apart both ways. A7: "A globally consistent assignment could
+A7's example does not show what it was taken to show. Wanting to approach
+and avoid the same thing is a conflict, but a conflict is not by itself a
+gluing obstruction. A global state z = (desire to approach, desire to
+avoid) holds both desires with no inconsistency, since the two are not
+incompatible assignments to one common observable. A richer global state
+space can represent a conflict whose demands cannot be jointly met. So
+three things must be kept apart:
+
+1. **Conflicts that glue.** Opposed interpretations or demands that one
+   global state represents together. Most felt conflicts may be of this
+   kind.
+2. **Genuine non-gluing.** An empirical model with no global section under
+   a cover and a correspondence between contexts that are fixed
+   independently of the verdict, as CLAIM-197 and CLAIM-143 require.
+3. **Phenomenal unity.** Whatever makes an experience one.
+
+The question is whether (2) can take part in (3): whether a process whose
+local interpretations genuinely fail to glue can still be one unified
+experience. A unified experience of conflict does not answer it, unless
+the conflict is shown to be of kind (2).
+The two readings come apart both ways. A7: "A globally consistent assignment could
 exist in a merely descriptive model without any corresponding unified
 process. Conversely, a genuinely unified process could contain locally
 incompatible states." A6, of Lee-Youngzie et al. ([LIT-tmphb8p5](../literature.d/LIT-tmphb8p5.md)):
@@ -60,9 +95,8 @@ when the monodromy Φ around a cycle vanishes." [CLAIM-196](../claims.d/CLAIM-19
 and [CLAIM-198](../claims.d/CLAIM-198.md) place disunity on overlaps: preference reversal "is not yet
 disunity" until a self-prediction creates an overlap. Those claims are
 about whether a self holds together across contexts, not about the unity
-of one experience. A7's conflict case is exactly an overlap whose
-sections disagree, felt as one state. If a gluing failure on an overlap
-can be a unified experience, then [CLAIM-153](../claims.d/CLAIM-153.md)'s coherent self and
+of one experience. If a genuine gluing failure on an overlap, kind (2),
+can be part of one unified experience, then [CLAIM-153](../claims.d/CLAIM-153.md)'s coherent self and
 phenomenal unity are different unities. The tag vocabulary already keeps
 four unities apart ([ADR-024](../decisions.d/ADR-024.md)), but no claim says where a gluing failure
 falls among them.
@@ -82,10 +116,11 @@ phenomenal binding".
 
 ## What would answer it
 
-Either a showing that a unified experience of conflict is, under the
-right cover, a global section after all (for instance, the conflict as one
-section of a sheaf of action-readiness states, not two sections that
-disagree); or a formal object, beside the sheaf, for a process that holds
+Either a showing that the unified experiences offered as cases of
+non-gluing are, under the right cover, of kind (1) after all, as the
+approach–avoid case may be; or an empirical model of kind (2), with its
+cover and correspondence fixed independently, shown to belong to one
+unified process, together with a formal object, beside the sheaf, for a process that holds
 non-gluing sections together, with a reason to call it the unity of an
 experience and not only a functional coupling. Isaac's dynamical
 structures ([LIT-tmpwhbpm](../literature.d/LIT-tmpwhbpm.md)) and the record's frustration of maintained demands
@@ -117,4 +152,8 @@ A9 also tied the conflicts to the record's frustration apparatus. Jointly
 unrealizable demands form a compatibility complex ([CLAIM-347](../claims.d/CLAIM-347.md)), and its
 minimal non-faces are the minimal conflicts. That is a candidate for the
 formal object this question's second answer lacks, beside the sheaf: an
-organization of incompatibility, not an absence of it.
+organization of incompatibility, not an absence of it. But infeasible
+demands and failure of a global section are different mathematical
+facts. A complex with a non-face says that some demands cannot be met
+together. It does not say that their local descriptions fail to glue, and
+a global state can describe an infeasible set of demands consistently.

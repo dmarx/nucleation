@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -9,6 +9,15 @@ history:
     Note of 2026-10-22 added, from U8–U11 of the same exchange: the claim's
     terms are now stated as TERM-tmpgqmop and TERM-tmpe36gg, and its bridge
     is restated in their words. The claim is unchanged.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Relations corrected after the owner relayed a review of 2026-10-22.
+    THEORY-766, THEORY-767, THEORY-056 and THEORY-680 are no longer listed as
+    grounds. The body already says they motivate the question and do not
+    support the identity. THEORY-056 and THEORY-680 are rivals, and THEORY-766
+    leaves the expectation and report confounds open. They are cited in the
+    body as evidence the thesis must explain. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,11 +39,6 @@ tags:
 date: '2026-10-21'
 line:
 - evidence-for-experience
-grounds:
-- THEORY-766
-- THEORY-767
-- THEORY-056
-- THEORY-680
 complements:
 - CLAIM-355
 - CLAIM-tmpjw8ev
@@ -156,6 +160,11 @@ added dreaming and hallucination.
   predictions of interoceptive causes. It is the record's nearest reading
   to the claim for affect, and Barrett's theory of constructed emotion
   ([LIT-542](../literature.d/LIT-542.md); [LIT-tmphg31k](../literature.d/LIT-tmphg31k.md)) is the exchange's.
+
+For that reason none of these readings is listed among the claim's
+grounds. THEORY-056 and THEORY-680 are rival accounts of the same finding,
+and THEORY-766 leaves expectation and report confounds open. They mark
+what the thesis must explain, not support for its conclusion.
 
 A7's verdict, which the claim adopts: "These motivate interpretive
 construction. They do not, individually or collectively, prove interpretive

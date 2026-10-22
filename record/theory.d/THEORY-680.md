@@ -34,8 +34,6 @@ summary: >-
   experience, suppression did not reliably do so and raised sympathetic
   activation. The paper's own first open problem is whether regulation can
   be told apart from generation at all.
-supports:
-- CLAIM-tmpdga80
 ---
 <!-- inactive-ok-file: THEORY-056 — Proposed; the rival account -->
 <!-- inactive-ok-file: THEORY-050 THEORY-055 — Proposed; named in Connections, not leaned on -->

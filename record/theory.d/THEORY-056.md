@@ -61,7 +61,6 @@ answers:
 supports:
 - CLAIM-283
 - CLAIM-358
-- CLAIM-tmpdga80
 rivals:
 - THEORY-680
 ---

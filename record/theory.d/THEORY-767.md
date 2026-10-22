@@ -48,8 +48,6 @@ summary: >-
   sensitivity are more susceptible to the rubber hand illusion (Tsakiris
   et al. 2011). None of the studies was read here, and no control
   separates the heartbeat from any other periodic signal.
-supports:
-- CLAIM-tmpdga80
 ---
 <!-- inactive-ok-file: THEORY-765 THEORY-769 THEORY-768 — Proposed; filed from the same batch, named -->
 <!-- inactive-ok-file: THEORY-045 THEORY-291 — Proposed; accounts in the interoception cluster this one is joined to, not leaned on -->

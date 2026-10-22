@@ -1,7 +1,7 @@
 ---
 status: Open
-title: 'What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must hold whether or not the interpretations are grounded, and must not be drawn from the verdict it gives on groups and machines?'
-version: 2
+title: 'What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode''s current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?'
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -10,6 +10,17 @@ history:
     candidates it tried and what the record already says against them, and
     the question's split into an organizational and a phenomenal half. The
     question is unchanged.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Revised after the owner relayed a review of 2026-10-22. The grounding
+    condition is narrowed to match CLAIM-tmpjw8ev. A criterion must not
+    require an episode's current contents to be veridically constrained by
+    their referents. That leaves developmental grounding, bodily regulation
+    and counterfactual sensorimotor organization open. The answer conditions
+    gain the perspectival-target problem: a criterion must justify its chosen
+    queries, interventions and timescales independently of its verdicts on
+    consciousness.
 tags:
 - consciousness
 - phenomenal-unity
@@ -25,14 +36,16 @@ summary: >-
   this line. A6 sharpened it to a class of realized organizations "whose
   identity and unity are invariant under changes in sensory grounding",
   distinguished from systems "that merely simulate or report the same
-  interpretations". It narrows [QUESTION-046](QUESTION-046.md) to the constitutive thesis,
+  interpretations". The grounding condition is narrowed here to current
+  veridical grounding, as CLAIM-tmpjw8ev states it, and the question asks
+  for the targets of individuation to be justified too. It narrows [QUESTION-046](QUESTION-046.md) to the constitutive thesis,
   [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md). An answer is that thesis's missing sufficiency
   condition, which [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) presses.
 ---
 <!-- inactive-ok-file: TERM-tmpe36gg — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-368 CLAIM-tmp1lvwf CLAIM-tmpdga80 CLAIM-tmpjw8ev — Proposed; claims, questions and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-tmp5k0u3 LIT-tmp9k9lx — Deferred; works registered unread, cited as such -->
-# QUESTION-tmpc4j7p: What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must hold whether or not the interpretations are grounded, and must not be drawn from the verdict it gives on groups and machines?
+# QUESTION-tmpc4j7p: What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode's current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?
 
 ## The question
 
@@ -52,8 +65,17 @@ question asks for the condition that does. It sets three contrasts:
    report[s]" them. A7's test of an answer: say "what a sophisticated
    nonexperiential interpreter would lack".
 
-The separation must not depend on grounding ([CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md)): a dream
-or an envatted brain is a case it must cover.
+The separation must not require that an episode's current sensory
+contents be veridically constrained by their purported external referents
+(CLAIM-tmpjw8ev): a dream or an envatted brain is a case it must cover.
+That is all the brain-in-a-vat argument supports. It does not establish
+independence from developmental grounding, from ongoing bodily
+regulation, or from the counterfactual sensorimotor organization of the
+interpreting system. A dream can be rich while its current reference is
+wrong and still depend on a lifetime of embodied learning. A criterion may
+therefore require any of those three without contradicting the owner's
+thesis. Which of them it requires decides which forms of enactivism,
+active inference and embodiment theory the thesis actually opposes.
 
 ## Why it is a question
 
@@ -75,8 +97,10 @@ The exchange's candidates, none yet a criterion:
 - endogenous valuation (A7 §12), kept apart from felt distress as
   [CLAIM-368](../claims.d/CLAIM-368.md) keeps frustration apart from it;
 - higher-order or recursive self-interpretation (A3, A4);
-- the coherent world model of an embodied agent, as in IWMT ([LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md)),
-  which builds in the embodiment the owner's thesis does not assume.
+- the coherent world model of an embodied agent, as in IWMT (LIT-tmp5k0u3),
+  which requires an embodiment the owner's thesis leaves open: compatible
+  with the thesis if the requirement is developmental or counterfactual,
+  against it only if current veridical coupling is required.
 
 Its evidential side is [QUESTION-048](QUESTION-048.md)'s. A5: complete answers about
 integration, self-attribution and grounding "would not, by themselves,
@@ -92,8 +116,22 @@ A property of a realized, temporally extended organization, A7's
 experience or report. It must fall on the right side of blindsight and
 ordinary perception, give a verdict on a firm and on a language model
 that follows from the property and not from intuition, and survive a
-change in grounding with the internal dynamics held fixed. A measure that
-correlates with reports would not answer it. A7: "We would want an
+change in current grounding with the internal dynamics and their history
+held fixed. A measure that correlates with reports would not answer it.
+
+**The perspectival-target problem.** Any organizational criterion is
+assessed under an effective-description regime, TERM-065's
+ℛ = (X, 𝒬, ℐ, ℬ, ε, τ). The queries 𝒬, interventions ℐ and timescale τ must
+be chosen, and CLAIM-152 shows that a different target picks a different
+individuation. A macrostate can be excellent for predicting a firm's
+decisions, an organism's locomotion or a brain's reports without being the
+organization of a perspective. So an answer must also explain why its
+chosen targets, interventions and timescales are relevant to perspectival
+constitution, independently of its verdicts about consciousness. They must
+not be defined in terms of the phenomenal unity or subjecthood the
+resulting organization is supposed to explain. Predictive or
+interventional adequacy for a declared target does not, by itself, show
+that the target is phenomenally constitutive. A7: "We would want an
 account connecting its structural features to the organization of
 experience and showing why proposed counterexamples fail."
 

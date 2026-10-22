@@ -58,7 +58,7 @@ interpretation can transform its own future conditions." Order can matter,
 since framing operations need not commute ([CLAIM-052](../claims.d/CLAIM-052.md)).
 
 Interpretation is not judgement. A1: judgement is "a higher-order
-operation within an interpretive system". Most interpretation in this
+operation within an interpretive system". Much interpretation in this
 sense is not propositional, not deliberate and not reportable.
 
 ## Why it is defined without experience

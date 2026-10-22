@@ -66,8 +66,9 @@ the first.
 Ordinary behaviour (construction 1) and the whole ordinary trajectory
 (construction 2) underdetermine three facts: whether an interpretation is
 effective, whether its efficacy is allocated from inside, and whether the
-constraints that allow it are maintained from inside. An intervention
-separates each pair ([CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md)).
+constraints that allow it are maintained from inside. A specified
+intervention separates each pair, as knowing the mechanisms would; passive
+observation of the matched trajectories does not ([CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md)).
 
 ## What it cannot show
 

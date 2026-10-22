@@ -1,15 +1,27 @@
 ---
 status: Active
-title: 'Representing an interpretation, its being effective, its efficacy being allocated from inside, and the constraints that allow all this being maintained by the organization itself are four distinct facts: systems identical in ordinary behaviour, or in their whole ordinary trajectory, differ in each, and only an intervention tells them apart'
-version: 1
+title: 'Matched ordinary trajectories can conceal differences in an interpretation''s efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not'
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Narrowed after the owner relayed a review of 2026-10-22. The
+    constructions show that matched ordinary trajectories can conceal
+    differences in efficacy, allocation and maintenance, and that the
+    specified interventions expose them. They are not a general independence
+    theorem for the four properties. Nor is intervention the only way to tell
+    the systems apart: knowing their mechanisms would. What fails is the
+    matched passive observation. Status and warrant are unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
   An error in either construction of CASE-tmp60jh6: a pair of its systems
   that differ under ordinary operation, or that respond alike to the
-  stated intervention. The claim says only that the four facts can come
-  apart. It is not defeated by a model class in which some of them
-  coincide, and it does not say any of them bears on experience.
+  stated intervention. The claim says only that matched passive
+  observation can fail to identify these differences in the systems
+  constructed. It is not a general independence theorem, is not defeated
+  by a model class in which some of the properties coincide, and it does not say any of them bears on experience.
 tags:
 - mathematics
 - individuation
@@ -42,7 +54,7 @@ illustrated_by:
 ---
 <!-- inactive-ok-file: TERM-tmpe36gg TERM-tmpgqmop — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
-# CLAIM-tmpn2xr4: Representing an interpretation, its being effective, its efficacy being allocated from inside, and the constraints that allow all this being maintained by the organization itself are four distinct facts: systems identical in ordinary behaviour, or in their whole ordinary trajectory, differ in each, and only an intervention tells them apart
+# CLAIM-tmpn2xr4: Matched ordinary trajectories can conceal differences in an interpretation's efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not
 
 ## The claim
 
@@ -90,6 +102,14 @@ its construction meets that claim's conditions (A) and (B).
   automatically be a judgment about self-governance".
 
 ## What it does not say
+
+- Not that the four properties are logically independent pairwise or in
+  general. Two constructions exhibit specific separations: efficacy and
+  allocation in construction 1, maintenance in construction 2. They are
+  existence results for those cases, not an independence theorem.
+- Not that only an intervention can tell the systems apart. Knowing their
+  mechanisms tells them apart at once. The point is that the matched
+  passive observations do not, and that a specified intervention does.
 
 - Not that any of the four facts is a mark of experience, or of a
   perspective. A10: "It does not establish agency, perspectival unity, or
