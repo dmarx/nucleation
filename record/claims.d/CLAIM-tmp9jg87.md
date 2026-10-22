@@ -23,6 +23,8 @@ uses:
 - TERM-063
 complements:
 - CLAIM-tmp8lheg
+works:
+- organization-of-perspective
 summary: >-
   From the branch of the exchange of 2026-10-22: the owner's question at
   U38, "what's the relationship between perspective and agency?", A38's

@@ -23,6 +23,8 @@ grounds:
 - THEORY-140
 - CASE-tmpv2pte
 - CASE-tmpqq6jz
+works:
+- organization-of-perspective
 summary: >-
   From A24 and A25 of the exchange of 2026-10-22, on the owner's cases of
   a fireground mayday that changed a safety culture (U23) and NASA's
