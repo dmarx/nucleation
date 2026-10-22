@@ -3,7 +3,7 @@ status: Proposed
 complements:
 - TERM-tmpgqmop
 title: 'perspective, and which sense: organizational, represented or phenomenal'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -15,6 +15,12 @@ history:
     second, so its selective fictionalism about owners does not extend to
     perspectives. The global-section bullet is narrowed to match
     QUESTION-tmpzje42's revision.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the readings of that day: cases that
+    separate the senses, and accounts that bridge them. The definition is
+    unchanged.
 tags:
 - consciousness
 - self
@@ -142,3 +148,27 @@ with a numbered sense. It would be shown wanting if a claim needed a
 fourth sense, or if sense 1 could not be told from coordinated feedback in
 general. A8 called that the decisive test: "If we cannot do that, SIC risks
 being a new vocabulary for complex feedback."
+
+## Note of 2026-10-22: the readings
+
+- **Sense 1 without sense 2.** In Gurnee et al. (NOTE-tmpyc06q) a base
+  language model already has the access workspace, and post-training
+  installs the assistant's point of view. That separates an
+  organizational perspective from a represented one in one system. It
+  says nothing about sense 3.
+- **Sense 3 without a represented owner.** Meditators report losing the
+  sense of self, and of subject and object, while remaining aware
+  (NOTE-tmpz0x5w, NOTE-tmpdfg0e). That is a reported separation of a
+  represented owner from a phenomenal perspective, and it rests on report.
+- **Bridges from sense 2 to sense 3.** Higher-order theories
+  (NOTE-tmpo7pcy) make representing one's own state what makes it
+  experiential. On Graziano's illusionism (THEORY-tmpncy2z) experience is
+  the represented perspective of a real organization. Both are rivals to
+  the bridge CLAIM-tmpdga80 proposes from sense 1.
+- **Other uses.** Lycan's "perspective" (NOTE-tmpxf5do) is a mode of
+  presentation, nearest sense 2. Laukkonen et al. (NOTE-tmpjn4z8) say a
+  first-person perspective is not required, meaning sense 2. Barrett et
+  al.'s "conditioned on some perspective" (NOTE-tmpr1xjh) is nearest sense
+  1 but does not say. On Ward's enactivism (NOTE-tmpl4pbc), leaving
+  self-maintenance out of the definition puts this term on the
+  informationalist side.

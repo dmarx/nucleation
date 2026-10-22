@@ -1,7 +1,7 @@
 ---
 status: Open
 title: 'Can an empirical model that genuinely fails to glue, under a specified cover and correspondence between its contexts, take part in one phenomenally unified process, given that a unified experience can contain conflicting interpretations or demands and that such conflicts are not by themselves gluing obstructions?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -20,6 +20,12 @@ history:
     correspondence, and phenomenal unity, and asks whether the second can take
     part in the third. The frustration complex is kept, with a caution that
     infeasible demands and failure of global sections are different things.
+- version: 4
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the readings of that day: what
+    Lee-Youngzie et al. formalize, and a candidate case of kind (2). Isaac is
+    Unavailable. The question is unchanged.
 tags:
 - phenomenal-unity
 - mathematics
@@ -157,3 +163,38 @@ demands and failure of a global section are different mathematical
 facts. A complex with a non-face says that some demands cannot be met
 together. It does not say that their local descriptions fail to glue, and
 a global state can describe an infeasible set of demands consistently.
+
+## Note of 2026-10-22: the readings
+
+**Lee-Youngzie et al.** (NOTE-tmpfadjy, THEORY-tmpo2jzk) formalize binding,
+not unity, and assume an experience is always unified. They read a sheaf
+failure two ways, as disunity in binocular rivalry and as context
+dependence inside one unified experience in the Ebbinghaus illusion, and
+give no rule for telling the two apart. The reading checked their formal
+content.
+- The worked Alexandroff topology is wrong as printed.
+- By the paper's own gluing definition, rivalry is not a sheaf failure.
+- Restriction maps that match trials by label make gluing always succeed,
+  so the test has content only as an empirical consistency radius on
+  measured data.
+- "Global section" there means measured data, not an experience or a
+  subject.
+
+The paper gives no support for "unity is a global section".
+
+**A candidate for kind (2).** The paper's Penrose tribar is a presheaf of
+local interpretations, compatible at each junction, with no global
+section. Yet the figure is seen as one object. If the cover (the
+junctions) and the correspondence are accepted as fixed independently,
+that is a genuine non-gluing model taking part in one unified percept,
+which is what this question asks about. The inference is the record's,
+not the paper's. "Seen as one" is report, and whether the percept is
+unified phenomenally or only categorized as one object is open. Its
+obstruction needs a cycle of three junctions, as CLAIM-153's does.
+
+**Coherence views.** Laukkonen et al. (THEORY-tmpw19hw) and IWMT
+(THEORY-tmpopaql) take the coherence side. Laukkonen et al. treat
+incoherence as a loss of awareness. Neither addresses a felt conflict.
+
+**Isaac** (LIT-tmpwhbpm), whose dynamical structures this question named
+as material, could not be reached and is Unavailable.

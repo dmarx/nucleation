@@ -1,7 +1,7 @@
 ---
 status: Open
 title: 'What separates an interpretive organization that constitutes an experiential perspective from one that only processes information, or only represents a perspective, when the separation must not require an episode''s current contents to be veridically constrained by their referents, must not be drawn from the verdict it gives on groups and machines, and must justify the queries, interventions and timescales by which it individuates a perspective without appeal to the phenomenal unity it is meant to explain?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -21,6 +21,13 @@ history:
     gain the perspectival-target problem: a criterion must justify its chosen
     queries, interventions and timescales independently of its verdicts on
     consciousness.
+- version: 4
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the readings of that day: the candidates
+    the read works offer, each on the organizational side only. The IWMT
+    bullet is corrected: it does not require current coupling. The question
+    is unchanged.
 tags:
 - consciousness
 - phenomenal-unity
@@ -97,10 +104,10 @@ The exchange's candidates, none yet a criterion:
 - endogenous valuation (A7 §12), kept apart from felt distress as
   [CLAIM-368](../claims.d/CLAIM-368.md) keeps frustration apart from it;
 - higher-order or recursive self-interpretation (A3, A4);
-- the coherent world model of an embodied agent, as in IWMT ([LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md)),
-  which requires an embodiment the owner's thesis leaves open: compatible
-  with the thesis if the requirement is developmental or counterfactual,
-  against it only if current veridical coupling is required.
+- the coherent world model of an embodied agent, as in IWMT (LIT-tmp5k0u3),
+  which requires a capacity for coupling and a history of it, not current
+  coupling (note of 2026-10-22), so it is compatible with the grounding
+  condition and parts from the thesis only on development.
 
 Its evidential side is [QUESTION-048](QUESTION-048.md)'s. A5: complete answers about
 integration, self-attribution and grounding "would not, by themselves,
@@ -197,3 +204,36 @@ The question now has two halves, which A9 said must be kept apart:
 An answer to the first half does not answer the second. A9: the exchange
 risked becoming a theory "about the individuation of cognitive systems
 rather than the constitution of conscious experience".
+
+## Note of 2026-10-22: the readings
+
+The works the exchange cited, read on 2026-10-22, offer candidates for the
+organizational half. None answers the phenomenal half.
+
+- **Access at an interface** (Whyte et al., THEORY-tmpw20ca): conscious
+  access where continuous inference meets discrete choice. Stated for
+  humans, and tied to report.
+- **Recursive precision modelling** (Laukkonen et al., THEORY-tmpw19hw):
+  as formalized, an ordinary hierarchical filter with a precision
+  parameter per level would meet it.
+- **A coherent, egocentric world model** (IWMT, THEORY-tmpopaql). It needs
+  a capacity for coupling and a history of it, not current coupling, so it
+  is compatible with the grounding condition above. It gives no
+  threshold.
+- **An attention schema** (Graziano, THEORY-tmpncy2z): a representational
+  condition, stated through report.
+- **Higher-order representation** (NOTE-tmpo7pcy). This contests the
+  question's second contrast. On higher-order views, representing one's
+  own state is what makes it experiential, so constituting a perspective
+  and representing one do not come apart as the question assumes.
+- **Life** (Ward, THEORY-tmpnwjjt). An enactivist would test any answer by
+  whether its property is distinctive of life or only characteristic of
+  it. The question's ban on drawing the line from verdicts on machines
+  cuts against that test.
+- **A workspace without a point of view** (Gurnee et al., THEORY-tmp111ci).
+  In the base model the workspace exists, and post-training installs the
+  assistant's perspective. A candidate condition must say which of the two
+  it tracks.
+
+Barrett et al. (NOTE-tmpr1xjh) give no criterion for when categorization
+is experiential.

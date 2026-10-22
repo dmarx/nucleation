@@ -4,7 +4,16 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the readings of the exchange on
+    experience and interpretation: support for the split between a real
+    pattern and a constructed owner, a sharper form of Drayson's objection, and
+    a case in which the owner attribution fails while experience stays. The
+    claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -205,3 +214,22 @@ that term.
 - It does not let recognition settle standing. A26: an account of
   recognition must not imply "that an institution can create or erase
   morally relevant experience merely by changing its classifications".
+
+## Note of 2026-10-22: readings from the exchange on experience and interpretation
+
+- **Gładziejewski** (NOTE-tmp220h1, THEORY-tmphhvaa, THEORY-tmpru19x)
+  supports the claim's split. A self is a real pattern, and the
+  self-model is a compression that posits one common cause. It also
+  sharpens Drayson's objection (THEORY-646). A single represented owner
+  may be a lossy compression of the organization rather than a
+  misdescription of it, which would leave nothing illusory. Its footnote
+  10 suggests a test: a dissociative case better compressed by two selves
+  than by one.
+- **Graziano** (NOTE-tmpzibsl, THEORY-tmpncy2z) shares the claim's
+  structure, with real processes and a simplified self-model, but carries
+  the illusion over to phenomenality, which this claim leaves open.
+- **Somatoparaphrenia and thought insertion**, as the Stanford Encyclopedia
+  entry on higher-order theories reports them (NOTE-tmpo7pcy), are cases in
+  which the attribution of ownership fails while the experience stays. Of
+  TERM-tmpe36gg's senses, the claim concerns a represented owner, not a
+  represented perspective.

@@ -4,7 +4,13 @@ complements:
 - TERM-026
 - TERM-tmpe36gg
 title: 'interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the readings of that day: which uses in
+    the read works are this sense. The definition is unchanged.
 tags:
 - cognition
 - consciousness
@@ -94,3 +100,20 @@ Adoption is the owner's decision. The record already uses
 evidence-for-experience line. It complements those uses and does not
 replace them. It would be shown wanting if the three parts could not be
 told apart in a system without assuming what the system experiences.
+
+## Note of 2026-10-22: the readings
+
+- **This sense.** Posterior inference in Whyte et al. (NOTE-tmpjgegs) has
+  all three parts. So does the reappraisal in Bo et al. (NOTE-tmphhgp9),
+  and so does the introspective "component analysis" of colour in Aldé
+  (NOTE-tmp0qd7y).
+- **Close, but not defined without experience.** Barrett et al.'s
+  categorization (NOTE-tmpr1xjh) has the three parts, but its account of
+  what categorization yields is given in terms of experience.
+- **Other senses.** The Stanford Encyclopedia entries (NOTE-tmpxf5do,
+  NOTE-tmpo7pcy) use "interpretation" for Davidson's and Dennett's
+  ascription, for Rosenthal's self-inference and for consumer use. None of
+  these is this term's sense.
+- **No test.** Nothing in the meditation readings picks out interpretation
+  in this broad sense from plain organization (NOTE-tmpdfg0e,
+  NOTE-tmpz0x5w).
