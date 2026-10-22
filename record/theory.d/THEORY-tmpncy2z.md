@@ -24,14 +24,14 @@ date: '2026-10-22'
 source:
 - LIT-tmpnz7qx
 summary: >-
-  Graziano (2024), LIT-tmpnz7qx, read in full in NOTE-tmpzibsl: the
+  Graziano (2024), [LIT-tmpnz7qx](../literature.d/LIT-tmpnz7qx.md), read in full in [NOTE-tmpzibsl](../notes.d/NOTE-tmpzibsl.md): the
   attention schema theory and its "deep illusionism", in an essay with no
   new data. Arrow B is an argument. The identification of the target with
   attention rests on covariation with report cited from others, and the
   merging of attention, workspace and integration is asserted. Its
   "small" illusionism keeps the modelled process real and denies the
   reported phenomenal essence, so it is the strong illusionism of
-  THEORY-633 with a named target, not the weak kind.
+  [THEORY-633](THEORY-633.md) with a named target, not the weak kind.
 ---
 <!-- inactive-ok-file: THEORY-633 THEORY-577 THEORY-064 CLAIM-355 CLAIM-tmpdga80 CLAIM-tmp1lvwf TERM-tmpe36gg — Proposed; claims, terms and readings cited as open, nothing here rests on them -->
 
@@ -39,8 +39,8 @@ summary: >-
 
 ## Source
 
-Graziano (2024), *eNeuro* 11(10), LIT-tmpnz7qx, read in full in
-NOTE-tmpzibsl: "From Self Model to Speech" (p. 4), Hypotheses 1–6
+Graziano (2024), *eNeuro* 11(10), [LIT-tmpnz7qx](../literature.d/LIT-tmpnz7qx.md), read in full in
+[NOTE-tmpzibsl](../notes.d/NOTE-tmpzibsl.md): "From Self Model to Speech" (p. 4), Hypotheses 1–6
 (pp. 4–12) and Figures 2–4.
 
 ## What was actually shown
@@ -96,25 +96,25 @@ reports that they mostly do not.
 
 ## Connections
 
-- **THEORY-633.** Frankish's strong illusionism, with a mechanism for the
+- **[THEORY-633](THEORY-633.md).** Frankish's strong illusionism, with a mechanism for the
   representation and a named target. Graziano's "small" illusionism is not
   Frankish's weak illusionism, since no phenomenal property survives. His
-  "hard" illusionism, a model of nothing, goes beyond THEORY-633.
-- **THEORY-577.** Arrow B is Chalmers's meta-problem challenge from the
+  "hard" illusionism, a model of nothing, goes beyond [THEORY-633](THEORY-633.md).
+- **[THEORY-577](THEORY-577.md).** Arrow B is Chalmers's meta-problem challenge from the
   other side: Chalmers asks a theory to explain the reports, and Graziano
   says a theory that cannot is magic. Graziano's illusionist IIT answers the
   challenge Chalmers puts to IIT by making integration the target of a
   model.
-- **THEORY-064.** The workspace model "depicts me as a magical essence
+- **[THEORY-064](THEORY-064.md).** The workspace model "depicts me as a magical essence
   inhabiting my body" (p. 8), a self-model the system cannot see through,
   extended from the self to experience.
-- **CLAIM-355.** Same structure, a real organization misdescribed by a
+- **[CLAIM-355](../claims.d/CLAIM-355.md).** Same structure, a real organization misdescribed by a
   model whose bearer is named, but extended from the owner to phenomenality,
-  which CLAIM-355 leaves open.
-- **CLAIM-tmpdga80 and TERM-tmpe36gg.** The rival to the constitutive
+  which [CLAIM-355](../claims.d/CLAIM-355.md) leaves open.
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) and [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).** The rival to the constitutive
   claim's bridge. On this account what is called experience is a
   represented perspective (sense 2) of a real organization (sense 1), and
   sense 3 is the representation's content.
-- **CLAIM-tmp1lvwf.** A candidate for the further condition, being
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).** A candidate for the further condition, being
   modelled by the attention schema. That condition is represented, not
   organizational, and the paper states it only through report.

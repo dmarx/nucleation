@@ -22,7 +22,7 @@ date: '2026-10-22'
 source:
 - LIT-tmpufhcl
 summary: >-
-  Gładziejewski (2025), LIT-tmpufhcl, read in full in NOTE-tmp220h1, §4.1,
+  Gładziejewski (2025), [LIT-tmpufhcl](../literature.d/LIT-tmpufhcl.md), read in full in [NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md), §4.1,
   after Hohwy & Michael (2017) and Letheby & Gerrans (2017), neither of
   which the record holds. An interpretation, not a result. The paper
   calls its self section "an initial sketch". It does not say that the
@@ -38,8 +38,8 @@ summary: >-
 
 ## Source
 
-Gładziejewski (2025), *Synthese* 206:225, LIT-tmpufhcl, read in full in
-NOTE-tmp220h1: §4.1 (pp. 15–17) and footnote 10, on the ground of §2's
+Gładziejewski (2025), *Synthese* 206:225, [LIT-tmpufhcl](../literature.d/LIT-tmpufhcl.md), read in full in
+[NOTE-tmp220h1](../notes.d/NOTE-tmp220h1.md): §4.1 (pp. 15–17) and footnote 10, on the ground of §2's
 equation of predictive processing with compression.
 
 ## What was actually shown
@@ -93,20 +93,20 @@ The paper does not test it.
 
 ## Connections
 
-- **CLAIM-355.** The account supports the claim's structure: the binding
+- **[CLAIM-355](../claims.d/CLAIM-355.md).** The account supports the claim's structure: the binding
   pattern is real, and the single substantial owner is the content of a
-  model. It also presses the objection CLAIM-355 names from Drayson.
+  model. It also presses the objection [CLAIM-355](../claims.d/CLAIM-355.md) names from Drayson.
   If the single owner is just how the pattern compresses, then a
-  self-model that presents one owner is lossy, not false. CLAIM-355
+  self-model that presents one owner is lossy, not false. [CLAIM-355](../claims.d/CLAIM-355.md)
   already says it survives only where a misdescription is shown, and
   footnote 10 gives a candidate: a case where one self-cause compresses
   worse than two.
-- **THEORY-064 and THEORY-691.** Metzinger's self-model and Dennett's
+- **[THEORY-064](THEORY-064.md) and [THEORY-691](THEORY-691.md).** Metzinger's self-model and Dennett's
   centre of narrative gravity. This adds a mechanism, compression of
-  endogenous signals. Of THEORY-064's "nothing beyond such models is a
+  endogenous signals. Of [THEORY-064](THEORY-064.md)'s "nothing beyond such models is a
   self", it says that whether that is anti-realism is a matter of
   criteria.
-- **THEORY-563.** The same compression criterion, applied to the self and
+- **[THEORY-563](THEORY-563.md).** The same compression criterion, applied to the self and
   not to consciousness.
-- **THEORY-tmpru19x.** The structural account of manifest content filed
+- **[THEORY-tmpru19x](THEORY-tmpru19x.md).** The structural account of manifest content filed
   from the same paper. The self is one of its cases.

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmpfadjy) from the version of record in PubMed Central (PMC13298370, CC BY 4.0, via the Europe PMC full-text XML); worth reading as the first worked proposal to join intra-phenomenal (part–whole) and inter-phenomenal (similarity) qualia structures by a presheaf, with phenomenal binding read as agreement of measured narrow qualia on overlaps and a sheaf as a broad quale fixed by its parts. It is a hypothesis article with no data. It does not identify unity with a global section: it assumes unity always holds, and it reads a sheaf failure as disunity for binocular rivalry and as context dependence for the Ebbinghaus illusion without a criterion between them. Its worked topology example is malformed, and by its own definition of gluing the rivalry case is not a sheaf failure.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmpfadjy](../notes.d/NOTE-tmpfadjy.md)) from the version of record in PubMed Central (PMC13298370, CC BY 4.0, via the Europe PMC full-text XML); worth reading as the first worked proposal to join intra-phenomenal (part–whole) and inter-phenomenal (similarity) qualia structures by a presheaf, with phenomenal binding read as agreement of measured narrow qualia on overlaps and a sheaf as a broad quale fixed by its parts. It is a hypothesis article with no data. It does not identify unity with a global section: it assumes unity always holds, and it reads a sheaf failure as disunity for binocular rivalry and as context dependence for the Ebbinghaus illusion without a criterion between them. Its worked topology example is malformed, and by its own definition of gluing the rivalry case is not a sheaf failure.'
 title: 'Towards a Mathematical Structure of Global Phenomenal Consciousness'
 version: 2
 history:
@@ -66,7 +66,7 @@ Lee-Youngzie, Z., Tsuchiya, N., Robinson, M., Dietz, D. & Monti, M. M. (2026). T
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpfadjy.*
+*From the reading, [NOTE-tmpfadjy](../notes.d/NOTE-tmpfadjy.md).*
 
 - **Two kinds of qualia structure, joined.** Intra-phenomenal structures
   give the part–whole organization of one experience. Inter-phenomenal
@@ -94,22 +94,22 @@ Lee-Youngzie, Z., Tsuchiya, N., Robinson, M., Dietz, D. & Monti, M. M. (2026). T
   that agree on the overlap, so rivalry is not a sheaf failure. As
   defined, the restriction maps match trials by label, so the gluing
   condition has content only as the empirical consistency radius of §5.1.
-  Each was checked by script (NOTE-tmpfadjy).
+  Each was checked by script ([NOTE-tmpfadjy](../notes.d/NOTE-tmpfadjy.md)).
 - **No data.** Two regions, one modality, one moment. Methods for
   measuring broad qualia are named as the main gap (§5.3).
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper for using category and sheaf theory to relate local phenomenal structures to one global experience. It begins from phenomenal structures and does not derive phenomenality from anything else. Bears on QUESTION-tmpzje42 and CLAIM-153.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper for using category and sheaf theory to relate local phenomenal structures to one global experience. It begins from phenomenal structures and does not derive phenomenality from anything else. Bears on [QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) and [CLAIM-153](../claims.d/CLAIM-153.md).
 
 **Correction from the reading.** The exchange's description is accurate as
 far as it goes. But the paper relates local qualia to a broad quale, not to
 "one global experience" as a subject or a unity. It formalizes binding, not
 unity, which it assumes always holds. So it does not hold the reading
-QUESTION-tmpzje42 sets against A7, that unity is the existence of a global
+[QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) sets against A7, that unity is the existence of a global
 section. Its own Ebbinghaus case is a sheaf failure inside a unified
 experience. Its tribar is an interpretive presheaf with no global section,
 seen as one figure. Both bear on that question's second answer.
 
-Filed from this work on 2026-10-22: THEORY-tmpo2jzk, binding as gluing of
+Filed from this work on 2026-10-22: [THEORY-tmpo2jzk](../theory.d/THEORY-tmpo2jzk.md), binding as gluing of
 measured qualia structure, and its two readings of failure.
