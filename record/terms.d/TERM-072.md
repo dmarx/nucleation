@@ -5,8 +5,9 @@ formerly:
 - TERM-tmpe36gg
 complements:
 - TERM-073
+- TERM-tmpmy9oq
 title: 'perspective, and which sense: organizational, represented or phenomenal'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-22'
@@ -33,6 +34,15 @@ history:
     and the pressure the exchange put on sense 1 from perspectives with
     many carriers. The definition and status are unchanged; adoption
     remains the owner's decision.
+- version: 5
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 (vocabulary) added, from a proposal the owner
+    relayed that day: the objects a claim about "the same perspective"
+    must choose among, and a candidate restatement of sense 1 that
+    leaves identity, boundaries, persistence and self-maintenance open.
+    The definition and status are unchanged; the usage rule is ADR-050,
+    Proposed.
 tags:
 - consciousness
 - self
@@ -55,6 +65,7 @@ used_by:
 - CLAIM-tmpqktfo
 - CLAIM-tmp9jg87
 ---
+<!-- inactive-ok-file: ADR-050 CLAIM-tmp9jg87 TERM-tmpmy9oq — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-tmp8lheg CLAIM-tmpqktfo — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
@@ -233,3 +244,37 @@ distributed-agency line; this term was filed on evidence-for-experience.
 Nothing in them bears on sense 3: A40 kept the exchange from "deriv[ing]
 conclusions about phenomenal consciousness from social or functional
 organization".
+
+## Note of 2026-10-22 (vocabulary): what "the same perspective" can mean
+
+A proposal the owner relayed later the same day, "Toward a controlled
+vocabulary for Nucleation", took up this term's pressure from perspectives
+with many carriers and named the objects a claim must choose among when
+it says one perspective is the same as another:
+
+| Expression | Meaning |
+|---|---|
+| Realization | A particular organized regime operating in a particular context or interval (sense 1, as a token) |
+| Kind | A class of realizations sharing independently specified characteristic relations |
+| Lineage | A historically connected sequence of transmissions and transformations |
+| Distributed realization | A presently operating perspective constituted through relations spanning several participants or institutions |
+| Representation | A model, narrative or attribution concerning a perspective (sense 2, and its represented owner) |
+
+It added that "these needn't all become numbered senses; they may be
+different analytical objects related to the organizational sense", which
+is this note's first option above. The distributed realization is the one
+the earlier wording of this note had ruled out by reading sense 1 as "in
+one system"; "A perspective instantiated across several interacting
+people needn't be reducible to multiple independent instances of one
+kind, but it also needn't qualify as an additional agent"
+([CLAIM-tmp9jg87](../claims.d/CLAIM-tmp9jg87.md)).
+
+It proposed a restatement of sense 1, kept here as a candidate, not
+adopted: "A contextually realized arrangement of interpretive
+relationships through which distinctions become available, acquire
+significance, and can alter subsequent interpretation or activity. Its
+identity, boundaries, persistence, and degree of self-maintenance are
+additional questions." Its last sentence is A11's exclusions made
+explicit, and "arrangement" is the default sense of organization
+([TERM-tmpmy9oq](TERM-tmpmy9oq.md), sense 1). The usage rule that a claim say which object
+it means is [ADR-050](../decisions.d/ADR-050.md), Proposed.
