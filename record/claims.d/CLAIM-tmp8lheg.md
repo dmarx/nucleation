@@ -29,6 +29,7 @@ complements:
 - CLAIM-tmp9jg87
 works:
 - organization-of-perspective
+- self-without-a-sovereign
 summary: >-
   The owner's, at U31 of the exchange of 2026-10-22: the record's earlier
   "selves" are "better described as 'organizational perspectives'". A31

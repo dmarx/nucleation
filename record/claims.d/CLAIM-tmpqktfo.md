@@ -27,6 +27,7 @@ uses:
 - TERM-072
 works:
 - organization-of-perspective
+- who-gets-to-say-stop
 summary: >-
   A37's definition, from the exchange of 2026-10-22, re-scoping [CLAIM-284](CLAIM-284.md).
   [CLAIM-284](CLAIM-284.md) says that a self, in the self-governing sense, is an

@@ -60,6 +60,9 @@ complements:
 - CLAIM-tmp8lheg
 uses:
 - TERM-045
+works:
+- organization-of-perspective
+- self-without-a-sovereign
 summary: >-
   The owner's, U26 and U27 of the exchange of 2026-10-17: at U26 whether,
   "adopting an illusionist/fictionalist position", the record can make

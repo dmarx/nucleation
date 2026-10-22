@@ -23,6 +23,7 @@ rests_on:
 - CLAIM-331
 works:
 - organization-of-perspective
+- who-makes-the-promise
 summary: >-
   The owner's, at U28 of the exchange of 2026-10-22: domestic and
   international politics as the domain where "regime ecology" becomes
