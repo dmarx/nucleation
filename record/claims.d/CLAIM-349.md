@@ -57,6 +57,9 @@ summary: >-
   definitive".
 supports:
 - CLAIM-403
+illustrated_by:
+- CASE-tmp2jk3n
+- CASE-tmp3bisu
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 

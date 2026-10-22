@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpg0hhr
 title: 'self, and which sense'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -21,6 +21,13 @@ history:
     audiences. CLAIM-196, porting MoM's "identity as global
     section", needed it and found none of the six fit. Added at the
     owner's request. Senses 1–6 are unchanged and keep their numbers.
+- version: 4
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the exchange "Graph Learning
+    Applications": how the owner's thesis that the record's selves are
+    better described as organizational perspectives (CLAIM-tmp8lheg)
+    maps onto these senses. The definition is unchanged.
 tags:
 - self
 date: '2026-10-11'
@@ -47,6 +54,7 @@ used_by:
 - CLAIM-284
 - CLAIM-317
 - CLAIM-355
+- CLAIM-tmp8lheg
 ---
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-155 CLAIM-196 — Proposed; claims named as using particular senses, open -->
@@ -111,3 +119,31 @@ names the modeled sense in its body. Adding an eighth sense is a new version
 of this term by its own rule. It is flagged here and not done.
 
 <!-- inactive-ok-file: CLAIM-355 THEORY-064 THEORY-691 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+
+## Note of 2026-10-22: the senses as perspectives
+
+At U31 of the exchange "Graph Learning Applications" the owner proposed
+that the record's selves are "better described as 'organizational
+perspectives'" ([CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md), Proposed). A31 read this term's seven
+senses as evidence that "there probably isn't one unified phenomenon
+waiting for a single theory of selfhood", and translated all but one:
+
+- 2, dispositional or extended: a perspective's repertoire and coupled
+  resources;
+- 3, persisting: the persistence of a perspective or of its carrier, in
+  [TERM-071](TERM-071.md)'s senses;
+- 5, self-governing: reflexive governance of a perspective
+  ([CLAIM-tmpqktfo](../claims.d/CLAIM-tmpqktfo.md));
+- 6, integrated: the organization of a perspective ([TERM-072](TERM-072.md), sense 1);
+- 4, 7 and the "modeled" sense of the note of 2026-10-18: representations
+  of a perspective ([TERM-072](TERM-072.md), sense 2).
+
+Sense 1 is left alone: "A self is one subject" is "A separate question".
+The senses are unchanged. If the claim is adopted, a claim using senses 2,
+3, 5 or 6 should say which perspective object it means instead.
+
+The exchange also filed the case that separates the senses most cleanly
+in one person: Clive Wearing ([CASE-tmpsp3d4](../cases.d/CASE-tmpsp3d4.md)) keeps 2 and 6, in his skills
+and short-horizon organization, while 3, as remembered continuity, and 4
+fail. This is the "What it is not" bullet, "The senses come apart", in a
+documented person.

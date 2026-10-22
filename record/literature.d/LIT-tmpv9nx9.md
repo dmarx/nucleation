@@ -1,0 +1,42 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-22, not read. Registered from the owner's exchange of 2026-10-22, "Graph Learning Applications". No NOTE is filed.
+title: 'The Unspoken Whiteness of Brazilian Jiu-Jitsu: The Gracies versus Luta Livre'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-22.
+    DOI from A35/A36; Crossref gives 11 December 2025.
+tags:
+- social-science
+- embodied-cognition
+date: '2026-10-22'
+published: '2025-12-11'
+doi: '10.18573/mas.300'
+first_author: 'Penglase'
+keywords:
+- 'Brazilian jiu-jitsu'
+- 'luta livre'
+- 'Gracie family'
+- 'race'
+- 'class'
+- 'martial arts'
+- 'rivalry'
+implementations: []
+summary: >-
+  Penglase (2025). Argues that Brazilian jiu-jitsu has been positioned as "white" within Brazil's racial hierarchy, usually implicitly, and that scholars and non-Brazilian practitioners have overlooked this. It focuses on the challenge matches the Gracie family fought against practitioners of luta livre, a Brazilian catch-wrestling style, and shows how those matches located jiu-jitsu in that hierarchy.
+---
+
+# LIT-tmpv9nx9: The Unspoken Whiteness of Brazilian Jiu-Jitsu: The Gracies versus Luta Livre
+
+Penglase, R. B. (2025). The unspoken whiteness of Brazilian jiu-jitsu: The Gracies versus luta livre. *Martial Arts Studies*, 18, 78–93. doi:10.18573/mas.300.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The owner proposed rival schools of martial arts as a case (U35). The replies drew from Penglase that the traditions' social positions, and not only their results, shaped their standing; that reading is the exchange's (A35: "the contrasting social positions of the traditions significantly affected their relative commercial and cultural fortunes"), not the abstract's, which is about racialization. The case is [CASE-tmp859e4](../cases.d/CASE-tmp859e4.md).

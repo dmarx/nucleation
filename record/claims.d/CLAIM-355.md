@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpk7n2q
 title: 'In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -14,6 +14,14 @@ history:
     pattern and a constructed owner, a sharper form of Drayson's objection, and
     a case in which the owner attribution fails while experience stays. The
     claim is unchanged.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 (later) added, from U20-U40 of the exchange
+    "Graph Learning Applications": the owner's thesis at U26 that unity
+    of self is an illusion, as A26 restricted it; Clive Wearing; the
+    commander handoff; and the extension to an imagined social audience,
+    filed as CLAIM-tmp3gvbj. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,6 +56,8 @@ complements:
 - CLAIM-165
 - CLAIM-155
 - CLAIM-412
+- CLAIM-tmp3gvbj
+- CLAIM-tmp8lheg
 uses:
 - TERM-045
 summary: >-
@@ -65,6 +75,8 @@ summary: >-
   about whether the integrated state is felt.
 illustrated_by:
 - CASE-114
+- CASE-tmpo48af
+- CASE-tmpsp3d4
 ---
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; the organizational-affect line, set aside by the owner, cited as the line this claim would rest on, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 CLAIM-288 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
@@ -233,3 +245,34 @@ that term.
   which the attribution of ownership fails while the experience stays. Of
   [TERM-072](../terms.d/TERM-072.md)'s senses, the claim concerns a represented owner, not a
   represented perspective.
+
+## Note of 2026-10-22 (later): unity, Wearing, and the audience
+
+Three things from the exchange "Graph Learning Applications" bear on this
+claim.
+
+**The owner's U26.** "I think part of the tension here is the word 'unity'
+smuggling in assumptions that we don't actually want to commit to.
+Concretely: even within a single human -- i.e. a noncontentious 'unified'
+person -- we have good empirical reason to suspect that 'unity of self' is
+an illusion." A26 agreed and restricted it: the thesis is "most compelling
+when directed at **a single executive or substantial owner**", and less
+straightforward for "the unity of conscious experience". Its form of the
+point is this claim's: "The experience or representation of being one
+owner need not accurately describe the actual distribution of
+psychological control." The owner's thesis, restricted so, is what this
+claim already holds; the unrestricted form reaches [QUESTION-255](../questions.d/QUESTION-255.md), which is
+open.
+
+**Two cases.** Clive Wearing ([CASE-tmpsp3d4](../cases.d/CASE-tmpsp3d4.md)) is a self-model that
+misdescribes the history of the organization it models, and A26 kept the
+claim's own boundary: "The inference from **no unified substantial owner**
+to **no real phenomenal experience** is invalid." Northstar's commander
+handoff ([CASE-tmpo48af](../cases.d/CASE-tmpo48af.md)) is organization continuous through a change of
+every person in its central role, and a log's continuous commander is a
+represented owner in the small.
+
+**The audience.** A40 extended the claim: "The imagined owner need not be
+the only misleading entity in the self-model. The imagined social audience
+may also be organized into a false unity." That extension is filed as its
+own claim, [CLAIM-tmp3gvbj](CLAIM-tmp3gvbj.md), which complements this one.

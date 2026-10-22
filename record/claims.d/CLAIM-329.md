@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpdhfze
 title: 'A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -14,6 +14,13 @@ history:
     persistences without citing it, and A13–A14 proposed a TERM
     "organizational reconstitution" that would merge what this claim
     separates; filed instead as TERM-071. The claim is unchanged.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 (later) added, from the exchange "Graph Learning
+    Applications": two cases that sharpen the claim, party realignment
+    (organization transmitted, perspective not) and descent through
+    opposition (causal connection without transmission), filed as CASE-tmpd12oz and CLAIM-tmpdfe07. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,6 +46,7 @@ complements:
 - CLAIM-161
 - CLAIM-280
 - CLAIM-328
+- CLAIM-tmpdfe07
 summary: >-
   A5, A8 and A9 of the exchange of 2026-10-16. A9 §9 separated three
   persistences that dissociate: state persistence (a variable changes
@@ -52,6 +60,7 @@ summary: >-
   transmitted, or settle branching successors.
 illustrated_by:
 - CASE-116
+- CASE-tmpd12oz
 ---
 <!-- inactive-ok-file: THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
@@ -127,3 +136,28 @@ organization of the same kind that arises independently" ([QUESTION-118](../ques
 [THEORY-418](../theory.d/THEORY-418.md), [CASE-105](../cases.d/CASE-105.md)). The proposed TERM would merge the two. The
 persistences are filed instead as a disambiguation TERM under another
 name, [TERM-071](../terms.d/TERM-071.md).
+
+## Note of 2026-10-22 (later): transmitted organization, untransmitted perspective
+
+The exchange "Graph Learning Applications" brought two kinds of case
+against this claim's criterion, causal transmission of the organization
+that produces the collective.
+
+- **Party realignment** ([CASE-tmpd12oz](../cases.d/CASE-tmpd12oz.md)). The parties' organizations were
+  transmitted continuously, names, institutions and all, while their
+  coalitions and stances on civil rights changed. By this claim each party
+  persisted. What did not persist is the perspective it carried. So the
+  claim's criterion is one for a carrier's persistence, and a perspective
+  carried needs its own ([CLAIM-tmp8lheg](CLAIM-tmp8lheg.md)). A29: "Different political
+  coalitions developed, migrated, split, and recombined through
+  institutions that retained their historical names."
+- **Descent through opposition** ([CLAIM-tmpdfe07](CLAIM-tmpdfe07.md)). A movement founded to
+  oppose a figure exists because of that figure's activity, a causal
+  connection, without the figure's organization being transmitted to it.
+  A38: "Causal descent ⇏ Perspectival inheritance." That fits this claim,
+  which asks for transmission of the producing organization and not mere
+  causal connection, and it gives [QUESTION-118](../questions.d/QUESTION-118.md) a case where something is
+  causally continuous and the answer is no.
+
+Taylor's women's movement in abeyance ([LIT-tmpgwc45](../literature.d/LIT-tmpgwc45.md), unread) is the
+dormant form, close to [CLAIM-287](CLAIM-287.md)'s reinstatable capacity.

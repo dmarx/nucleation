@@ -30,6 +30,7 @@ summary: >-
   record has not read.
 supports:
 - CLAIM-030
+- CLAIM-tmplrpat
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, which the chapter applies -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for comparison -->

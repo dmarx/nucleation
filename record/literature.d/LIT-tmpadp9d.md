@@ -1,0 +1,48 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-22, not read. Registered from the owner's exchange of 2026-10-22, "Graph Learning Applications". No NOTE is filed.
+title: 'Independent review of the Brookhollow Apartments fire response (Jensen Hughes, for Sedgwick County and the City of Wichita)'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Filed, not read. Citation checked against the source itself on
+    2026-10-22. Not reached as a document. The title is the record's
+    description, not the report's own title, which was not seen. The
+    date is the special meeting at which the report was presented (16
+    December 2024), from press coverage (KWCH, 16 December 2024,
+    https://www.kwch.com/2024/12/16/city-wichita-releases-independent-audit-deadly-wichita-apartment-fire) and the county's news release.
+    Coverage gives the report's length as 108 pages.
+tags:
+- operations-research
+- agency
+- society-and-governance
+date: '2026-10-22'
+published: '2024-12-16'
+url: 'https://sedgwickcounty.org/commissioners/bocc-projects'
+first_author: 'Jensen Hughes'
+keywords:
+- 'Brookhollow'
+- 'Wichita'
+- 'mayday'
+- 'fireground'
+- 'incident command'
+- 'after-action review'
+- 'emergency communications'
+implementations: []
+summary: >-
+  Jensen Hughes (2024). The independent review, commissioned by Sedgwick County and the City of Wichita, of the emergency response to the Brookhollow Apartments fire of 13 October 2023, in which a resident died and four firefighters were caught in a stairwell collapse. As reported, it found shortcomings across dispatch and the fire department that "contributed to an unorganized rescue effort", without concluding that they changed the outcome.
+---
+
+# LIT-tmpadp9d: Independent review of the Brookhollow Apartments fire response (Jensen Hughes, for Sedgwick County and the City of Wichita)
+
+Jensen Hughes (2024). Independent review of the public-safety response to the Brookhollow Apartments fire of 13 October 2023. Presented to the Sedgwick County Board of County Commissioners and the City of Wichita, 16 December 2024. Posted on the county's projects page, https://sedgwickcounty.org/commissioners/bocc-projects.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The owner proposed escalating responses under the National Incident Management System, and a fireground mayday that changed a safety culture, as multi-regime cases (U23). A23 and A24 took Brookhollow as the documented instance. The case is [CASE-tmpqq6jz](../cases.d/CASE-tmpqq6jz.md).

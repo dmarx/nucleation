@@ -6,7 +6,7 @@ formerly:
 complements:
 - TERM-073
 title: 'perspective, and which sense: organizational, represented or phenomenal'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -24,6 +24,15 @@ history:
     Note of 2026-10-22 added, from the readings of that day: cases that
     separate the senses, and accounts that bridge them. The definition is
     unchanged.
+- version: 4
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 (later) added, from U20-U40 of the exchange
+    "Graph Learning Applications": the owner's statement at U31 that the
+    record's selves are better described as organizational perspectives,
+    and the pressure the exchange put on sense 1 from perspectives with
+    many carriers. The definition and status are unchanged; adoption
+    remains the owner's decision.
 tags:
 - consciousness
 - self
@@ -42,6 +51,8 @@ summary: >-
   the definition. Proposed: whether to adopt it is the owner's call.
 used_by:
 - CLAIM-412
+- CLAIM-tmp8lheg
+- CLAIM-tmpqktfo
 ---
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
@@ -175,3 +186,42 @@ being a new vocabulary for complex feedback."
   1 but does not say. On Ward's enactivism ([NOTE-1065](../notes.d/NOTE-1065.md)), leaving
   self-maintenance out of the definition puts this term on the
   informationalist side.
+
+## Note of 2026-10-22 (later): the owner's U31, and a perspective with many carriers
+
+Later the same day, in the exchange "Graph Learning Applications", the
+owner said at U31: "tie this back to nucleation's earlier treatment of
+'selves', which I think we've essentially since determined are better
+described as 'organizational perspectives'". The replies did not cite this
+term, and A31 proposed introducing "organizational perspective" as a new
+TERM, which would duplicate sense 1. The owner's thesis is filed, narrowed
+as A31 narrowed it, as [CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md). It bears on this term's adoption,
+which stays the owner's decision; the status is not changed here.
+
+The exchange also tested "What would settle it", which says the term is
+shown wanting "if a claim needed a fourth sense". Its perspectives were
+mostly not tokens. A perspective "may have many bearers" (A32), can
+"migrate between parties", and is "realized across multiple persons and
+institutions". Sense 1 is a token, "a dynamically realized regime" in one
+system. [CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md) keeps four objects apart: the perspective as
+realized in a carrier (sense 1), its character, its lineage and its
+representations (sense 2). Two ways to take that here:
+
+- **Keep three senses.** Character and lineage are relations among
+  realizations, not senses of "perspective": two realizations share a
+  character, or one descends from the other ([CLAIM-329](../claims.d/CLAIM-329.md)). Then "the same
+  perspective in two parties" is shorthand for one of those relations and
+  should be written out.
+- **Add a sense.** A perspective-kind, individuated by character across
+  carriers. That would need the record's character theory ([CLAIM-137](../claims.d/CLAIM-137.md)),
+  which is scoped to communicative kinds and Proposed, to extend, with
+  [CLAIM-249](../claims.d/CLAIM-249.md) against it.
+
+The first keeps the term as filed. The second answers this section's
+test as a failure. Either way the new claims ([CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md),
+[CLAIM-tmpqktfo](../claims.d/CLAIM-tmpqktfo.md), [QUESTION-tmpjr6om](../questions.d/QUESTION-tmpjr6om.md)) use sense 1 for a realization and say
+character or lineage when they mean them. They belong to the
+distributed-agency line; this term was filed on evidence-for-experience.
+Nothing in them bears on sense 3: A40 kept the exchange from "deriv[ing]
+conclusions about phenomenal consciousness from social or functional
+organization".
