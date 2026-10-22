@@ -51,4 +51,4 @@ standardly cited for. A reading should check it first.
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper as a structuralist programme built around geometrical, group-theoretic and dynamical structure. Its group-theoretic structure, which separates subject from object, is one candidate for what a perspective adds to an interpretation. Bears on QUESTION-tmpzje42 and QUESTION-tmpc4j7p.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper as a structuralist programme built around geometrical, group-theoretic and dynamical structure. Its group-theoretic structure, which separates subject from object, is one candidate for what a perspective adds to an interpretation. Bears on [QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) and [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).

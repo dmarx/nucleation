@@ -186,16 +186,16 @@ who accepts them must explain why.
 The paper builds on Jackson's knowledge argument and its replies (Lewis,
 Nemirow, Conee, Dennett), on Dennett's "Quining qualia" for the
 judgement/content point, and on Fodor & Lepore on holism. Its targets are
-Lyre 2022 (LIT-tmp3sgbg, NOTE-tmpg26n5), Clark 2000 and Tsuchiya & Saigo 2021.
+Lyre 2022 ([LIT-tmp3sgbg](../literature.d/LIT-tmp3sgbg.md), [NOTE-tmpg26n5](NOTE-tmpg26n5.md)), Clark 2000 and Tsuchiya & Saigo 2021.
 It credits Kob 2023 with the point that structuralist claims about the
 nature of consciousness are "largely orthogonal" to the method's
-fruitfulness (p. 17). Aldé 2026 (LIT-tmpac9l2, NOTE-tmp0qd7y) cites this paper
+fruitfulness (p. 17). Aldé 2026 ([LIT-tmpac9l2](../literature.d/LIT-tmpac9l2.md), [NOTE-tmp0qd7y](NOTE-tmp0qd7y.md)) cites this paper
 as a critique that rests on intuition, which his own arguments are meant
-to avoid. Isaac 2025 (LIT-tmpwhbpm) is not cited by Negro.
+to avoid. Isaac 2025 ([LIT-tmpwhbpm](../literature.d/LIT-tmpwhbpm.md)) is not cited by Negro.
 
 ## Bearing on the record
 
-- **CLAIM-tmpdga80 (constitution by interpretive organization).** This is the
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (constitution by interpretive organization).** This is the
   objection the claim already lists, and the reading sharpens it in two
   places.
   - *Relational Mary* is the realization problem A4 drew from it. The
@@ -211,7 +211,7 @@ to avoid. Isaac 2025 (LIT-tmpwhbpm) is not cited by Negro.
     experience argument, and he says it aligns the view with eliminativism
     (Frankish), "at the cost of denying the existence of phenomenal
     properties as independent of cognitive capacities" (p. 15). The claim
-    differs from that option in its terms (TERM-tmpgqmop: interpretation is
+    differs from that option in its terms ([TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md): interpretation is
     organization, not judgement, and mostly not reportable) and in its
     stated realism ("It does not say that experience is unreal"). But the
     claim does make phenomenal properties not independent of the
@@ -219,9 +219,9 @@ to avoid. Isaac 2025 (LIT-tmpwhbpm) is not cited by Negro.
     must either accept that experience is not independent of interpretive
     organization and argue that this is not eliminativism, or say why its
     organization is not a cognitive capacity in Negro's sense. The pressure
-    is the same as THEORY-633's, from the other side.
+    is the same as [THEORY-633](../theory.d/THEORY-633.md)'s, from the other side.
   - *The lonely experience argument* asks whether interpretation, which
-    requires "a distinction" (TERM-tmpgqmop, part 1), can occur with one
+    requires "a distinction" ([TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md), part 1), can occur with one
     experience. Negro's smell system has only on and off. Whether
     distinguishing presence from absence suffices is a question the claim
     has not asked.
@@ -230,12 +230,12 @@ to avoid. Isaac 2025 (LIT-tmpwhbpm) is not cited by Negro.
     all others. It need not say they cannot either. Whether a change in the
     organization changes old experiences is a prediction the claim could
     make and test.
-- **CLAIM-tmp1lvwf and QUESTION-tmpc4j7p.** Negro's lonely-experience system
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) and [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** Negro's lonely-experience system
   is a sufficiency case in reverse: a minimal organization that he takes to
   be conscious only because a workspace theory says so. It shows how a
   verdict on a minimal system can be borrowed from a theory, which
-  QUESTION-tmpc4j7p says an answer must not do.
-- **CLAIM-136 (relata without primitive identity).** Negro's arguments are
+  [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) says an answer must not do.
+- **[CLAIM-136](../claims.d/CLAIM-136.md) (relata without primitive identity).** Negro's arguments are
   about phenomenal character, not about the identity of relata, and the
   claim is about communicative acts. Two transfer by analogy. His
   three-sense distinction maps onto the claim's options: non-eliminative
@@ -244,17 +244,17 @@ to avoid. Isaac 2025 (LIT-tmpwhbpm) is not cited by Negro.
   structure. And his novel experience argument is the holism objection to
   the strict version: if a token's identity is only what its relations
   differentiate, adding a participant re-individuates every other token.
-  CLAIM-136 does not yet say whether it accepts that. The weak version,
+  [CLAIM-136](../claims.d/CLAIM-136.md) does not yet say whether it accepts that. The weak version,
   numerical plurality without differentiation, is not touched, and Negro's
   reply to the first objection to Relational Mary, that relata are then
-  "metaphysically prior to the relations", is close to CLAIM-134's charge
+  "metaphysically prior to the relations", is close to [CLAIM-134](../claims.d/CLAIM-134.md)'s charge
   against the weak version.
-- **THEORY-577.** Negro's appeal to Dennett, that a reported change in an
+- **[THEORY-577](../theory.d/THEORY-577.md).** Negro's appeal to Dennett, that a reported change in an
   experience may be a change in judgement, is the same separation of
-  judgements from what they are about that THEORY-577 uses.
-- **THEORY warranted.** THEORY-tmp7uasf states the paper's thesis: the
+  judgements from what they are about that [THEORY-577](../theory.d/THEORY-577.md) uses.
+- **THEORY warranted.** [THEORY-tmp7uasf](../theory.d/THEORY-tmp7uasf.md) states the paper's thesis: the
   structuralist evidence supports "in a structure", not "is the
-  structure". It is the objection to THEORY-tmpv5rmc.
+  structure". It is the objection to [THEORY-tmpv5rmc](../theory.d/THEORY-tmpv5rmc.md).
 - No instruction for machine-learning practice; nothing for the
   anthology.
 

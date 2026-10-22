@@ -24,14 +24,14 @@ date: '2026-10-22'
 source:
 - LIT-tmp86j0r
 summary: >-
-  Negro (2025), LIT-tmp86j0r, read in full in NOTE-tmp0dy5a. The
+  Negro (2025), [LIT-tmp86j0r](../literature.d/LIT-tmp86j0r.md), read in full in [NOTE-tmp0dy5a](../notes.d/NOTE-tmp0dy5a.md). The
   distinctions (three structuralisms; having, being in and being a
   structure) are sound and the arguments valid. Each argument's decisive
   premise is an intuition or a conceivability claim, and a structuralist
-  such as Lyre (THEORY-tmpv5rmc) accepts the holism Negro takes to be
+  such as Lyre ([THEORY-tmpv5rmc](THEORY-tmpv5rmc.md)) accepts the holism Negro takes to be
   absurd. The paper also says that making judgement constitutive saves the
   view only by aligning it with eliminativism, which bears directly on
-  CLAIM-tmpdga80.
+  [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).
 ---
 <!-- inactive-ok-file: THEORY-tmpv5rmc THEORY-tmp4u3l2 — Proposed; the account this objects to and the other objection filed in the same batch, named -->
 <!-- inactive-ok-file: CLAIM-tmpdga80 CLAIM-136 THEORY-633 TERM-tmpgqmop — Proposed; the record's claims this account bears on, not leaned on -->
@@ -40,8 +40,8 @@ summary: >-
 
 ## Source
 
-Negro (2025), LIT-tmp86j0r, *Synthese* 206:8, read in full in
-NOTE-tmp0dy5a: §2 (the three structuralisms and three senses of
+Negro (2025), [LIT-tmp86j0r](../literature.d/LIT-tmp86j0r.md), *Synthese* 206:8, read in full in
+[NOTE-tmp0dy5a](../notes.d/NOTE-tmp0dy5a.md): §2 (the three structuralisms and three senses of
 "structural", pp. 3–7), §3 (the three arguments, pp. 7–17) and §4 (what
 survives, pp. 17–18).
 
@@ -83,7 +83,7 @@ is empirical. Nothing in the paper tests it.
 
 - **It is not a refutation.** Each argument's second premise is an
   intuition (what Mary learns; that old experiences stay as they were) or a
-  conceivability claim. Lyre (THEORY-tmpv5rmc) accepts holism and predicts
+  conceivability claim. Lyre ([THEORY-tmpv5rmc](THEORY-tmpv5rmc.md)) accepts holism and predicts
   that dichromats experience every colour differently, so the novel
   experience argument's premise is the point at issue, not common ground.
 - **It does not say experiences have intrinsic qualia.** The non-relational
@@ -101,19 +101,19 @@ is empirical. Nothing in the paper tests it.
 
 ## Connections
 
-- **THEORY-tmpv5rmc** is the view objected to, quoted from Lyre (2022).
-  THEORY-tmp4u3l2 (Aldé) is a second objection, built on colour science
+- **[THEORY-tmpv5rmc](THEORY-tmpv5rmc.md)** is the view objected to, quoted from Lyre (2022).
+  [THEORY-tmp4u3l2](THEORY-tmp4u3l2.md) (Aldé) is a second objection, built on colour science
   instead of intuition.
-- **CLAIM-tmpdga80.** The claim identifies experience with interpretive
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** The claim identifies experience with interpretive
   organization, and Negro's first option for a structuralist is to make
   cognitive capacities constitutive. The claim must say whether its
-  organization (TERM-tmpgqmop: not judgement, mostly unreportable) escapes
+  organization ([TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md): not judgement, mostly unreportable) escapes
   the eliminativism charge, and how it orders an experience and its
   relations, which is what Relational Mary presses.
-- **THEORY-633.** Negro's charge is that the first option ends where
+- **[THEORY-633](THEORY-633.md).** Negro's charge is that the first option ends where
   illusionism starts, with nothing to experience beyond cognitive
-  capacities. THEORY-633 accepts that end.
-- **CLAIM-136.** By analogy: the three senses of "structural" map onto the
+  capacities. [THEORY-633](THEORY-633.md) accepts that end.
+- **[CLAIM-136](../claims.d/CLAIM-136.md).** By analogy: the three senses of "structural" map onto the
   claim's non-eliminative position (relata in a structure, identity from
   it), and the novel experience argument is the holism objection its strict
   version must answer.

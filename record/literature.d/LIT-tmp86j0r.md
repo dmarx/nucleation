@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmp0dy5a) from the publisher''s open-access PDF (Springer, CC BY 4.0); worth reading as the clearest map of what phenomenal structuralism can and cannot claim: three structuralisms (methodological, epistemological, metaphysical) and three senses of "structural" (having, being in, and being a structure), with the argument that the field''s methods and evidence need only the first two senses. Its three arguments against the metaphysical thesis (Relational Mary, novel experience, lonely experience) are valid, but each rests on an intuition or a conceivability premise that a committed structuralist denies, and its charge that making judgement constitutive amounts to eliminativism is one paragraph long.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmp0dy5a](../notes.d/NOTE-tmp0dy5a.md)) from the publisher''s open-access PDF (Springer, CC BY 4.0); worth reading as the clearest map of what phenomenal structuralism can and cannot claim: three structuralisms (methodological, epistemological, metaphysical) and three senses of "structural" (having, being in, and being a structure), with the argument that the field''s methods and evidence need only the first two senses. Its three arguments against the metaphysical thesis (Relational Mary, novel experience, lonely experience) are valid, but each rests on an intuition or a conceivability premise that a committed structuralist denies, and its charge that making judgement constitutive amounts to eliminativism is one paragraph long.'
 title: 'Three arguments against metaphysical structuralism in consciousness research'
 version: 2
 history:
@@ -58,7 +58,7 @@ Negro, N. (2025). Three arguments against metaphysical structuralism in consciou
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp0dy5a.*
+*From the reading, [NOTE-tmp0dy5a](../notes.d/NOTE-tmp0dy5a.md).*
 
 - **Three senses of "structural".** An experience has an internal
   structure, is in a structure, or "just is the structure" (pp. 5–6). Only
@@ -82,8 +82,8 @@ Negro, N. (2025). Three arguments against metaphysical structuralism in consciou
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange called this the most directly relevant critique. Its arguments against metaphysical structuralism are a variant of the Mary case, structural holism, and a system with a single experience. It also considers making the relational organization of judgments constitutive, the move the exchange made. Bears on CLAIM-tmpdga80, as an objection.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange called this the most directly relevant critique. Its arguments against metaphysical structuralism are a variant of the Mary case, structural holism, and a system with a single experience. It also considers making the relational organization of judgments constitutive, the move the exchange made. Bears on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md), as an objection.
 
-The reading corrects one part of this description. Negro does consider making judgement constitutive, but as the first of two replies a structuralist could give to his novel experience argument: "perceptual judgments, together with other cognitive capacities like attention and memory, are fully constitutive of consciousness" (p. 14). He rejects it as aligning the view with eliminativism (p. 15). That is not quite the exchange's move: CLAIM-tmpdga80 makes interpretive organization constitutive and says interpretation is not judgement. It is close enough that the claim must answer Negro's charge. Relational Mary is the realization problem the claim already names, and the reading shows Negro's Mary has the other experiences realized, not only described.
+The reading corrects one part of this description. Negro does consider making judgement constitutive, but as the first of two replies a structuralist could give to his novel experience argument: "perceptual judgments, together with other cognitive capacities like attention and memory, are fully constitutive of consciousness" (p. 14). He rejects it as aligning the view with eliminativism (p. 15). That is not quite the exchange's move: [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) makes interpretive organization constitutive and says interpretation is not judgement. It is close enough that the claim must answer Negro's charge. Relational Mary is the realization problem the claim already names, and the reading shows Negro's Mary has the other experiences realized, not only described.
 
-Filed from this work on 2026-10-22: THEORY-tmp7uasf, on what structuralist evidence supports and the doubtful consequences of the metaphysical thesis.
+Filed from this work on 2026-10-22: [THEORY-tmp7uasf](../theory.d/THEORY-tmp7uasf.md), on what structuralist evidence supports and the doubtful consequences of the metaphysical thesis.

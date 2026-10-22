@@ -26,13 +26,13 @@ date: '2026-10-22'
 source:
 - LIT-tmp3sgbg
 summary: >-
-  Lyre (2022), LIT-tmp3sgbg, read in full in NOTE-tmpg26n5: neurophenomenal
+  Lyre (2022), [LIT-tmp3sgbg](../literature.d/LIT-tmp3sgbg.md), read in full in [NOTE-tmpg26n5](../notes.d/NOTE-tmpg26n5.md): neurophenomenal
   structuralism as a programme. The thesis is assumed and motivated, not
   shown. Its neural evidence is one cited imaging study of colour in V4.
   The reduction it draws rests on metaphysically necessary supervenience,
   which the author says he cannot argue for. It is filed so that the
-  objections read with it, Negro (THEORY-tmp7uasf) and Aldé
-  (THEORY-tmp4u3l2), have a stated target.
+  objections read with it, Negro ([THEORY-tmp7uasf](THEORY-tmp7uasf.md)) and Aldé
+  ([THEORY-tmp4u3l2](THEORY-tmp4u3l2.md)), have a stated target.
 ---
 <!-- inactive-ok-file: THEORY-tmp7uasf THEORY-tmp4u3l2 — Proposed; the two objections filed from the same batch, named -->
 <!-- inactive-ok-file: CLAIM-tmpdga80 CLAIM-136 CLAIM-138 — Proposed; the record's claims this account bears on, not leaned on -->
@@ -41,8 +41,8 @@ summary: >-
 
 ## Source
 
-Lyre (2022), LIT-tmp3sgbg, *Neuroscience of Consciousness* niac012, read
-in full in NOTE-tmpg26n5 from the PubMed Central deposit. The sections
+Lyre (2022), [LIT-tmp3sgbg](../literature.d/LIT-tmp3sgbg.md), *Neuroscience of Consciousness* niac012, read
+in full in [NOTE-tmpg26n5](../notes.d/NOTE-tmpg26n5.md) from the PubMed Central deposit. The sections
 "Structure, homomorphisms, and structural individuation", "Phenomenality,
 content, and characters", "Quality spaces, Q-structure, and
 psychophysics", "N-structure: neural activation spaces and neural maps",
@@ -101,21 +101,21 @@ has one. The holism prediction could fail; no test is reported.
 
 ## Connections
 
-- **The objections.** Negro (THEORY-tmp7uasf) argues that the holism this
+- **The objections.** Negro ([THEORY-tmp7uasf](THEORY-tmp7uasf.md)) argues that the holism this
   THEORY entails is false, and that a one-experience system, which it
-  makes impossible, is possible. Aldé (THEORY-tmp4u3l2) argues that the
+  makes impossible, is possible. Aldé ([THEORY-tmp4u3l2](THEORY-tmp4u3l2.md)) argues that the
   geometry of the colour similarity space cannot yield the unique hues.
   Both quote Lyre's first assumption as their target.
-- **CLAIM-tmpdga80.** The claim shares the thesis that character is fixed
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** The claim shares the thesis that character is fixed
   by organization and not by an intrinsic quale. It goes further, making
   organization constitute occurrence too, which this THEORY leaves to a
   separate mechanism. This THEORY is the held form of the claim's
   character half only.
-- **CLAIM-136 and CLAIM-138.** Lyre's structural individuation, relata
-  "determined up to isomorphy only", is the strict version of CLAIM-136 in
+- **[CLAIM-136](../claims.d/CLAIM-136.md) and [CLAIM-138](../claims.d/CLAIM-138.md).** Lyre's structural individuation, relata
+  "determined up to isomorphy only", is the strict version of [CLAIM-136](../claims.d/CLAIM-136.md) in
   the phenomenal domain, and his answer to the Newman problem, fixing the
   nature of spatiotemporal relations by acquaintance, is the kind of
-  remedy CLAIM-138 says concedes non-structural input.
-- **QUESTION-tmpc4j7p.** The split between content-specific and general
+  remedy [CLAIM-138](../claims.d/CLAIM-138.md) says concedes non-structural input.
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** The split between content-specific and general
   correlates is the structuralist's own admission that structure does not
   give the sufficiency condition the question asks for.

@@ -208,68 +208,68 @@ qualities, which it calls "otherwise quite similar" but about the
 world–experience relation where this paper is about the neural–experience
 relation. It takes the Newman objection from Newman 1928 and the reply
 from Russell's letter. It puts itself beside Malach 2021 and Tsuchiya &
-Saigo 2021 among structuralist neuroscience. Negro 2025 (LIT-tmp86j0r) and
-Aldé 2026 (LIT-tmpac9l2) both quote its first assumption as the
-explicit statement of the view they attack. Isaac 2025 (LIT-tmpwhbpm) was
+Saigo 2021 among structuralist neuroscience. Negro 2025 ([LIT-tmp86j0r](../literature.d/LIT-tmp86j0r.md)) and
+Aldé 2026 ([LIT-tmpac9l2](../literature.d/LIT-tmpac9l2.md)) both quote its first assumption as the
+explicit statement of the view they attack. Isaac 2025 ([LIT-tmpwhbpm](../literature.d/LIT-tmpwhbpm.md)) was
 not reached. One cross-reference slips: the qualia section places neurophenomenal
 holism in the section "Structural realism", where the section
 "Neurophenomenal holism" is meant.
 
 ## Bearing on the record
 
-- **CLAIM-tmpdga80 (constitution by interpretive organization).** Lyre's
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (constitution by interpretive organization).** Lyre's
   thesis and the claim share a shape: character is fixed by organization,
   not by an intrinsic quale. They differ in three ways that matter. Lyre's
   relations are discriminations, a similarity structure; the claim's are
-  interpretive, with context and consequence (TERM-tmpgqmop). Lyre makes
+  interpretive, with context and consequence ([TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md)). Lyre makes
   structure fix only *which* experience a conscious state is, and leaves
   *whether* it is conscious to a separate general mechanism; the claim
-  makes organization constitute occurrence as well (TERM-tmpe36gg, A11:
+  makes organization constitute occurrence as well ([TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md), A11:
   "occurrence, character, and unity"). And Lyre takes the reductive and
   instrumentalist route, with content "instrumental at best". So Lyre is
   the nearest held statement of the claim's character half and no support
   for its occurrence half. The comparison is mine.
-- **CLAIM-tmp1lvwf and QUESTION-tmpc4j7p.** Lyre's split between neural
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) and [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** Lyre's split between neural
   correlates of content and a general correlate of consciousness is the
   same gap these entries name, conceded from the structuralist side:
   structure alone does not say when a state is conscious. He declines to
   fill it, listing workspace, recurrent processing, higher-order theories,
   synchrony and critical-brain views as compatible.
-- **CLAIM-136 (communicative relata without primitive identity).** Lyre
+- **[CLAIM-136](../claims.d/CLAIM-136.md) (communicative relata without primitive identity).** Lyre
   explicitly denies being a structural realist, and his relata are
   experiences, not communicative acts. But his account of structural
-  individuation is the strict version of CLAIM-136 in another domain: relata
+  individuation is the strict version of [CLAIM-136](../claims.d/CLAIM-136.md) in another domain: relata
   "are not specified otherwise than by the relations in which they stand",
   are fixed "up to isomorphy only", and gain no intrinsic properties even
   when maximally individuated. His treatment of inversion shows what the
   strict version costs. Where colour space had a symmetry, the structuralist
   must identify the symmetric experiences ("the identity of Q-space
   isomorphs"), and Lyre avoids that only by appeal to the empirical
-  asymmetry of colour space. CLAIM-136's weak version, numerical plurality
+  asymmetry of colour space. [CLAIM-136](../claims.d/CLAIM-136.md)'s weak version, numerical plurality
   without differentiation, is not available to him, since two
   indiscernible experiences would be one experience. Lyre also restates
   non-eliminative moderate OSR as "there are relations and relata, but ...
   there is nothing more to the relata than the relations in which they
   stand", which matches the claim's own description of it.
-- **CLAIM-138 (Newman and independently specified relations).** Lyre's
+- **[CLAIM-138](../claims.d/CLAIM-138.md) (Newman and independently specified relations).** Lyre's
   reply to the Newman problem is that "we must specify the nature of the
   relations", spatiotemporal ones, by acquaintance. That is the remedy
-  CLAIM-138 says concedes non-structural input. Lyre does not see a cost; he
+  [CLAIM-138](../claims.d/CLAIM-138.md) says concedes non-structural input. Lyre does not see a cost; he
   makes spatiotemporal relations primitive and carried across. A further
-  instance for CLAIM-138's parallel, outside the communicative domain.
-- **THEORY-095 (Inverted Earth).** Lyre names Block's inverted earth as
+  instance for [CLAIM-138](../claims.d/CLAIM-138.md)'s parallel, outside the communicative domain.
+- **[THEORY-095](../theory.d/THEORY-095.md) (Inverted Earth).** Lyre names Block's inverted earth as
   an "outlandish" case and replies only to inversion within colour space.
-  His structuralism is internal in THEORY-095's sense, Q mirrored in N,
-  so it is one of the accounts THEORY-095 leaves open.
-- **THEORY-633 (illusionism).** Lyre is a realist about specific character
+  His structuralism is internal in [THEORY-095](../theory.d/THEORY-095.md)'s sense, Q mirrored in N,
+  so it is one of the accounts [THEORY-095](../theory.d/THEORY-095.md) leaves open.
+- **[THEORY-633](../theory.d/THEORY-633.md) (illusionism).** Lyre is a realist about specific character
   and reductive about it. He calls intrinsic qualia "mysterious", not
   illusory, so he is not an illusionist, but his "Qualitative properties
   seem to be intrinsic properties, but they are not" (quoting Clark) is
-  the move THEORY-633 generalizes.
+  the move [THEORY-633](../theory.d/THEORY-633.md) generalizes.
 - **THEORY warranted.** The record holds no statement of phenomenal
-  structuralism as a positive thesis. THEORY-tmpv5rmc states Lyre's, with
+  structuralism as a positive thesis. [THEORY-tmpv5rmc](../theory.d/THEORY-tmpv5rmc.md) states Lyre's, with
   its holism and inversion consequences, so that the two objections read
-  in the same batch (THEORY-tmp7uasf, THEORY-tmp4u3l2) have a target.
+  in the same batch ([THEORY-tmp7uasf](../theory.d/THEORY-tmp7uasf.md), [THEORY-tmp4u3l2](../theory.d/THEORY-tmp4u3l2.md)) have a target.
 - No instruction for machine-learning practice; nothing for the
   anthology.
 
@@ -286,7 +286,7 @@ holism in the section "Structural realism", where the section
 - Only colour is worked through. Interoception, the body and other
   modalities are named as future work.
 - The holism predictions (dichromats, ageing hearing) are offered without
-  data, and Negro's novel experience argument (NOTE-tmp0dy5a) turns
+  data, and Negro's novel experience argument ([NOTE-tmp0dy5a](NOTE-tmp0dy5a.md)) turns
   exactly this consequence against the view.
 - The nomological case against inversion turns on a heat-absorption
   correlation between colour and temperature experience. That ties colour
@@ -303,6 +303,6 @@ holism in the section "Structural realism", where the section
   trichromats, and ask whether the shared part differs.
 - If spatiotemporal relations are carried across the boundary by their
   nature, is the view still structuralist about those relations, or does
-  it rest on something non-structural, as CLAIM-138 would say?
+  it rest on something non-structural, as [CLAIM-138](../claims.d/CLAIM-138.md) would say?
 - Can the unique hues and the opponent structure of colour be read off the
-  geometry of the colour space? Aldé (NOTE-tmp0qd7y) argues they cannot.
+  geometry of the colour space? Aldé ([NOTE-tmp0qd7y](NOTE-tmp0qd7y.md)) argues they cannot.

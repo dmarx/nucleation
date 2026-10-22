@@ -213,59 +213,59 @@ Frank et al. 2014), and agrees with the meta-analysis finding that
 reinterpretation does not reliably lower amygdala activity (Dörfel et al.
 2014). Its framing question is Gross & Barrett (2011), "Emotion generation
 and emotion regulation: one or two depends on your point of view", which
-THEORY-056's promotion test names and the record has not filed. It also cites
-Mesquita & Frijda (2011) and Barrett 2017b (LIT-542) for the view that
+[THEORY-056](../theory.d/THEORY-056.md)'s promotion test names and the record has not filed. It also cites
+Mesquita & Frijda (2011) and Barrett 2017b ([LIT-542](../literature.d/LIT-542.md)) for the view that
 affect generation is widely distributed.
 
 ## Bearing on the record
 
-- **The dispute between THEORY-056 and THEORY-680.** This is the first
+- **The dispute between [THEORY-056](../theory.d/THEORY-056.md) and [THEORY-680](../theory.d/THEORY-680.md).** This is the first
   data the record holds on the question that divides them, whether
   regulation is a process apart from generation. The paper gives each side
   a result.
-  - **For THEORY-056.** Most of the reappraisal network is also engaged
+  - **For [THEORY-056](../theory.d/THEORY-056.md).** Most of the reappraisal network is also engaged
     by looking at negative pictures without any instruction (C3). The
     authors read these as appraisal regions shared with generation, and
     allow that they "may be involved in spontaneous self-regulation". That
     is what a regulation made of the same stuff as generation looks like,
     and the authors place it "in line with" theories of overlap, naming
     Gross & Barrett and Mesquita & Frijda.
-  - **Against THEORY-056.** A separate set of regions is engaged by
+  - **Against [THEORY-056](../theory.d/THEORY-056.md).** A separate set of regions is engaged by
     reappraisal and shows evidence of no engagement by emotion generation
     (C2). They are anterior prefrontal and temporo-parietal, annotated as
     response inhibition and executive control, and the best predictors of
     success (C6). The authors describe them as "positioned above unimodal
     sensory hierarchies and thus in a position to regulate them". That is
     close to the distinct regulating system above the motive states that
-    THEORY-056 denies. THEORY-056's `promote_when` says in advance that "a
+    [THEORY-056](../theory.d/THEORY-056.md) denies. [THEORY-056](../theory.d/THEORY-056.md)'s `promote_when` says in advance that "a
     difference in network activation between emotion and regulation tasks"
     cannot settle it, because one readiness may be built differently from
     another. By that clause the result does not refute it. But the clause
     then excludes the very evidence a separate regulator would leave in
-    imaging, and the record should note that it makes THEORY-056 hard to
+    imaging, and the record should note that it makes [THEORY-056](../theory.d/THEORY-056.md) hard to
     test with imaging at all.
-  - **For THEORY-680, partly.** C2 fits its claim that regulation includes
+  - **For [THEORY-680](../theory.d/THEORY-680.md), partly.** C2 fits its claim that regulation includes
     processes distinct from generation. C4 and C5 fit its picture of
     reappraisal acting early, on meaning: what reappraisal changes is
     higher visual and parietal representation of the picture, not the
     subcortical response.
-  - **Against THEORY-680's measurement.** Its `promote_when` asks for each
+  - **Against [THEORY-680](../theory.d/THEORY-680.md)'s measurement.** Its `promote_when` asks for each
     person's unregulated response to be estimated independently. Here Look
     Negative is the unregulated baseline, and the authors themselves allow
     that common appraisal regions may carry spontaneous regulation during
-    it (p. 18). That is the counterfactual problem THEORY-680 already
+    it (p. 18). That is the counterfactual problem [THEORY-680](../theory.d/THEORY-680.md) already
     names, met in practice. Only one strategy was tested, so nothing
     compares strategies by stage.
   - **Neither promotion test is met.** No lesion, interference or
-    developmental dissociation (THEORY-056); no stage comparison (THEORY-680).
-    Filed as THEORY-tmptuggu.
-- **QUESTION-054 (is there a governing level?).** The reappraisal-only
+    developmental dissociation ([THEORY-056](../theory.d/THEORY-056.md)); no stage comparison ([THEORY-680](../theory.d/THEORY-680.md)).
+    Filed as [THEORY-tmptuggu](../theory.d/THEORY-tmptuggu.md).
+- **[QUESTION-054](../questions.d/QUESTION-054.md) (is there a governing level?).** The reappraisal-only
   regions are a candidate governing level for deliberate emotion regulation,
   in the anatomical sense: selective, high in the cortical hierarchy and
   predictive of success. It is a partial answer for one deliberate strategy
   only. It says nothing about effortless regulation, which is where
-  THEORY-056 and THEORY-070 differ.
-- **CLAIM-tmpdga80 (experience constituted by interpretive organization).**
+  [THEORY-056](../theory.d/THEORY-056.md) and [THEORY-070](../theory.d/THEORY-070.md) differ.
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (experience constituted by interpretive organization).**
   The exchange cited this study as a limit on the constitutive reading: not
   every component of an emotion is open to reinterpretation. The reading
   supports a narrower statement. Reinterpretation lowered reported negative
@@ -282,36 +282,36 @@ affect generation is widely distributed.
     (p. 22) treats subcortical activity as experience without evidence. The
     reading that an unchanged subcortical component is the emotion, apart
     from a feeling that changed, is the split Barrett et al. reject
-    (NOTE-tmpr1xjh). Filed as THEORY-tmpak7ax.
+    ([NOTE-tmpr1xjh](NOTE-tmpr1xjh.md)). Filed as [THEORY-tmpak7ax](../theory.d/THEORY-tmpak7ax.md).
   - The exchange's description should be corrected in one respect. The
     unmodulated system is not only subcortical. Most emotion-responsive
     regions were non-modifiable, cortical ones included (lateral OFC,
     medial prefrontal, midcingulate, parietal); the subcortical regions were
     the ones with none modifiable.
-- **CLAIM-tmp1lvwf (broad interpretation admits processing not shown to be
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) (broad interpretation admits processing not shown to be
   experiential).** Indirect support. The common appraisal regions are
   engaged without instruction and "may be involved in spontaneous
   self-regulation", an appraisal that is not reported as such. Nothing
   here shows it is unconscious.
-- **CLAIM-tmpn2xr4 (four facts that come apart).** A loose parallel, mine.
+- **[CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md) (four facts that come apart).** A loose parallel, mine.
   Reappraisal is an intervention on the interpretation, and the result
   separates where the interpretation is represented (reappraisal-only and
   common appraisal regions) from where it is effective (modifiable regions)
   and where it is not (non-modifiable ones). It is correlational imaging,
   not the construction the claim rests on.
-- **TERM-tmpgqmop (interpretation).** The paper's "reappraisal" is
+- **[TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md) (interpretation).** The paper's "reappraisal" is
   interpretation in the term's sense, a revised significance with
   consequences. Its "appraisal" regions are those engaged whether or not the
   revision is asked for.
-- **LIT-542, NOTE-434, C8 (Barrett 2017).** Barrett's hypothesis was that
+- **[LIT-542](../literature.d/LIT-542.md), [NOTE-434](NOTE-434.md), C8 (Barrett 2017).** Barrett's hypothesis was that
   reappraisal works with the same predictions that construct the emotion,
   and that emotion and regulation are brain modes, not two systems. C3
   supports the overlap. C2 is the part Barrett's hypothesis did not predict.
-  NOTE-434 reports Barrett's Figure 4C overlap (anterior insula, vlPFC, MCC,
+  [NOTE-434](NOTE-434.md) reports Barrett's Figure 4C overlap (anterior insula, vlPFC, MCC,
   SMA, posterior STS), and those are the common appraisal regions here.
-- **THEORY-057.** Not tested: the study has one category, negative
+- **[THEORY-057](../theory.d/THEORY-057.md).** Not tested: the study has one category, negative
   affect, and no variation across instances.
-- **THEORY-767.** Not touched. The authors suggest that posterior insula and
+- **[THEORY-767](../theory.d/THEORY-767.md).** Not touched. The authors suggest that posterior insula and
   somatosensory regions lower with success "may be related to
   interoception" (p. 13), without a test.
 - No instruction for machine-learning practice; nothing for the anthology.
@@ -351,7 +351,7 @@ affect generation is widely distributed.
 - Does the subcortical null hold for other strategies, for upregulation,
   and with designs sensitive to fast or patterned change?
 - Is Look Negative free of regulation? A design that estimates each
-  person's unregulated response separately (THEORY-680's test) would show
+  person's unregulated response separately ([THEORY-680](../theory.d/THEORY-680.md)'s test) would show
   whether common appraisal regions include spontaneous regulation.
 - Does the subcortical response bear on what is felt? Studies that predict
   trial-by-trial experience from amygdala or PAG activity, with and without

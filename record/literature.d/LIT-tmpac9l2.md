@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmp0qd7y) from the publisher''s open-access PDF (Springer, CC BY 4.0); worth reading as the objection to similarity structuralism that does not rest on intuition: it takes accepted facts of colour science, that exactly four hues look unmixed and every other hue a mixture of two, and that the black–white axis is a single gradient where the axes through grey are opponent pairs, and argues that no adequate feature of the colour similarity space''s geometry marks either. Its decisive premise is argued by inspecting CIELAB and extrapolating to better models, not by an analysis, and its target is similarity structuralism about colour only.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmp0qd7y](../notes.d/NOTE-tmp0qd7y.md)) from the publisher''s open-access PDF (Springer, CC BY 4.0); worth reading as the objection to similarity structuralism that does not rest on intuition: it takes accepted facts of colour science, that exactly four hues look unmixed and every other hue a mixture of two, and that the black–white axis is a single gradient where the axes through grey are opponent pairs, and argues that no adequate feature of the colour similarity space''s geometry marks either. Its decisive premise is argued by inspecting CIELAB and extrapolating to better models, not by an analysis, and its target is similarity structuralism about colour only.'
 title: 'Two geometrical arguments against similarity structuralism'
 version: 2
 history:
@@ -57,7 +57,7 @@ Aldé, D. (2026). Two geometrical arguments against similarity structuralism. *S
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp0qd7y.*
+*From the reading, [NOTE-tmp0qd7y](../notes.d/NOTE-tmp0qd7y.md).*
 
 - **The target.** "The phenomenal character of a mental quality is fully
   determined by its similarity relations with the other phenomenal
@@ -79,8 +79,8 @@ Aldé, D. (2026). Two geometrical arguments against similarity structuralism. *S
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper as an objection to similarity structuralism: similarity relations do not fix phenomenal character. It is an objection to that view, not to every structural view, and the exchange took it to limit how far the thesis can rest on similarity alone. Bears on CLAIM-tmpdga80.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper as an objection to similarity structuralism: similarity relations do not fix phenomenal character. It is an objection to that view, not to every structural view, and the exchange took it to limit how far the thesis can rest on similarity alone. Bears on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).
 
 The reading bears this description out, with one narrowing: the argument is made for colour experience only, and the paper is silent on other modalities. It also sets a test the claim has not met. Whatever organization fixes colour character must yield the unique hues and the opponent structure, which a similarity space, on Aldé's argument, does not.
 
-Filed from this work on 2026-10-22: THEORY-tmp4u3l2, on why the geometry of colour similarity cannot account for the composition of colour experience.
+Filed from this work on 2026-10-22: [THEORY-tmp4u3l2](../theory.d/THEORY-tmp4u3l2.md), on why the geometry of colour similarity cannot account for the composition of colour experience.

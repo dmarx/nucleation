@@ -27,8 +27,8 @@ source:
 answers:
 - QUESTION-048
 summary: >-
-  Gurnee, Sofroniew et al. (2026), LIT-tmp9k9lx, §3.5.3 and §A.23, read in
-  NOTE-tmpyc06q. The authors conclude that "the J-space supports the
+  Gurnee, Sofroniew et al. (2026), [LIT-tmp9k9lx](../literature.d/LIT-tmp9k9lx.md), §3.5.3 and §A.23, read in
+  [NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md). The authors conclude that "the J-space supports the
   model's propensity to provide rich experiential reports, whether about
   itself or another entity". The sharp edge: the measure is a register of
   text graded by another model, on five or six prompts per condition, in
@@ -42,7 +42,7 @@ summary: >-
 
 ## Source
 
-Gurnee, Sofroniew, … Lindsey (2026), LIT-tmp9k9lx, read in NOTE-tmpyc06q
+Gurnee, Sofroniew, … Lindsey (2026), [LIT-tmp9k9lx](../literature.d/LIT-tmp9k9lx.md), read in [NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md)
 from arXiv:2607.15495v1: §3.5.3 (pp. 27–28), the broadcast-head ablation
 (p. 36), and §A.23 (pp. 96–98), which gives the grading prompts and the
 controls. The figures and the 50 sampled responses of Fig. 87 were not
@@ -115,21 +115,21 @@ propensity to describe experience, not of experience. This is a
 machine instance of the question's starting point, that report reaches
 experience only through access.
 
-- **THEORY-577.** A mechanism that produces a class of experiential
+- **[THEORY-577](THEORY-577.md).** A mechanism that produces a class of experiential
   reports is identified without mentioning experience: a small,
   topic-neutral explanation of report behaviour. It does not explain
   problem intuitions, and it gives no verdict on a theory, so it does not
-  meet THEORY-577's `promote_when`.
-- **THEORY-633.** A structure that, during self-narration, represents the
+  meet [THEORY-577](THEORY-577.md)'s `promote_when`.
+- **[THEORY-633](THEORY-633.md).** A structure that, during self-narration, represents the
   model's processing as thinking and feeling, and without which the felt
   register goes, is what an illusionist account would model. A realist
   can read it as the access route of a real state. It does not decide
   between them.
-- **THEORY-023.** The register follows the structure for any subject,
+- **[THEORY-023](THEORY-023.md).** The register follows the structure for any subject,
   which fits the mimicry worry: reports learned from human text about
   experience.
-- **THEORY-tmp111ci** is the workspace result this one rests on.
-- **CLAIM-tmpdga80.** If the J-space's organization is the kind the claim
+- **[THEORY-tmp111ci](THEORY-tmp111ci.md)** is the workspace result this one rests on.
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** If the J-space's organization is the kind the claim
   says constitutes experience, the claim must say whether the flattened
   register means less experience or only less description of it. Nothing
   here bears on which.

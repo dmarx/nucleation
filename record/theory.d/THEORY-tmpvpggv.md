@@ -28,9 +28,9 @@ source:
 - LIT-tmpnmv4q
 - LIT-949
 summary: >-
-  Luppi et al. (2026), LIT-tmpnmv4q, read in full in NOTE-tmpkgdyu from the
+  Luppi et al. (2026), [LIT-tmpnmv4q](../literature.d/LIT-tmpnmv4q.md), read in full in [NOTE-tmpkgdyu](../notes.d/NOTE-tmpkgdyu.md) from the
   open-access version of record. It extends the same group's 2024 result
-  (LIT-949, THEORY-240) from human propofol and disorders of consciousness
+  ([LIT-949](../literature.d/LIT-949.md), [THEORY-240](THEORY-240.md)) from human propofol and disorders of consciousness
   to four species and six regimes, and adds a causal reversal in two
   macaques. The sharp edge: the state measured is responsiveness, which
   the authors call "presumably consciousness" and grant is "an imperfect
@@ -45,11 +45,11 @@ summary: >-
 ## Source
 
 Luppi, Uhrig, Tasserie et al. (2026), *Nature Human Behaviour* 10(4),
-LIT-tmpnmv4q, read in full in NOTE-tmpkgdyu: Figs. 2–4 and their text
+[LIT-tmpnmv4q](../literature.d/LIT-tmpnmv4q.md), read in full in [NOTE-tmpkgdyu](../notes.d/NOTE-tmpkgdyu.md): Figs. 2–4 and their text
 (pp. 778–784), the robustness section (pp. 790–791), the Discussion's
 limitations (pp. 792–793), and Methods on ΦR (pp. 795–796). The
 Supplementary Information was not read. Second source: Luppi et al.
-(2024), LIT-949, the human propofol and disorders-of-consciousness result
+(2024), [LIT-949](../literature.d/LIT-949.md), the human propofol and disorders-of-consciousness result
 that this one extends.
 
 ## What was actually shown
@@ -97,7 +97,7 @@ analysis, none of these happened.
 - **Not a regional claim.** The averaged ΦR says nothing about which
   regions carry the change. The regional maps put the largest losses in
   unimodal visual and somatomotor cortex, with default-mode losses too
-  (p. 784). So this THEORY does not carry THEORY-240's gateway claim.
+  (p. 784). So this THEORY does not carry [THEORY-240](THEORY-240.md)'s gateway claim.
 - **Not that low ventrolateral stimulation is null.** It raised ΦR, less,
   without restoring arousal (p. 781). The account tolerates this only if
   a partial rise below the behavioural threshold is allowed, which the
@@ -110,21 +110,21 @@ analysis, none of these happened.
 ## Connections
 
 No `answers:` relation is declared. The question this bears on most,
-QUESTION-048, asks what such evidence can establish about experience as
+[QUESTION-048](../questions.d/QUESTION-048.md), asks what such evidence can establish about experience as
 opposed to access, and this result is about responsiveness, so it adds a
-case to that question without answering it. It is THEORY-091's limit
+case to that question without answering it. It is [THEORY-091](THEORY-091.md)'s limit
 again: a capacity lost with consciousness is lost with access too.
 
-- **THEORY-240** is the regional, gateway-side claim from LIT-949. This
+- **[THEORY-240](THEORY-240.md)** is the regional, gateway-side claim from [LIT-949](../literature.d/LIT-949.md). This
   THEORY is the whole-brain claim it rests beside, now cross-species and
-  with a causal arm. It half meets THEORY-240's promotion test (restoration
+  with a causal arm. It half meets [THEORY-240](THEORY-240.md)'s promotion test (restoration
   by thalamic stimulation) without the regional half.
-- **THEORY-063**'s promotion test asks for a computed integration measure
+- **[THEORY-063](THEORY-063.md)**'s promotion test asks for a computed integration measure
   across anaesthesia. ΦR is one, but it measures the amount of pairwise
   integration, not the presence of one dominant cluster.
-- **THEORY-497.** ΦR is mostly synergy-containing atoms, so this is a fall
-  in the synergy THEORY-497 describes, under the same redundancy choice.
-- **CLAIM-tmpdga80** and **CLAIM-tmp1lvwf.** Integration is one of the
+- **[THEORY-497](THEORY-497.md).** ΦR is mostly synergy-containing atoms, so this is a fall
+  in the synergy [THEORY-497](THEORY-497.md) describes, under the same redundancy choice.
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md)** and **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).** Integration is one of the
   candidate conditions the exchange named. This gives it a measured form
   that falls with responsiveness. It is not a measure of interpretation,
   and it gives no case that separates conscious from unconscious

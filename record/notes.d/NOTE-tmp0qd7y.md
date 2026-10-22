@@ -169,9 +169,9 @@ unique hues, structuralism has nothing to explain them with.
 ## Connections
 
 The paper takes its definition of structuralism from Clark (1993, 2000)
-and names Lyre 2022 (LIT-tmp3sgbg, NOTE-tmpg26n5), Fink et al., Fleming &
+and names Lyre 2022 ([LIT-tmp3sgbg](../literature.d/LIT-tmp3sgbg.md), [NOTE-tmpg26n5](NOTE-tmpg26n5.md)), Fink et al., Fleming &
 Shea, Malach, Lau and Tsuchiya's group as defenders. It sets itself apart
-from Negro 2025 (LIT-tmp86j0r, NOTE-tmp0dy5a) and Chalmers 1996, whose critiques
+from Negro 2025 ([LIT-tmp86j0r](../literature.d/LIT-tmp86j0r.md), [NOTE-tmp0dy5a](NOTE-tmp0dy5a.md)) and Chalmers 1996, whose critiques
 rest on intuition; Negro is thanked in the acknowledgements. Its colour
 science runs through Hering, Hardin, Matthen and Cohen. Two internal
 slips: the introduction says introspection is treated in "Section 6",
@@ -180,7 +180,7 @@ which is §5, and premise 2 of §4.2 is said to draw "from structural fact
 
 ## Bearing on the record
 
-- **CLAIM-tmpdga80 (constitution by interpretive organization).** The claim
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (constitution by interpretive organization).** The claim
   already records that Aldé bears on it only if its relations are
   similarities, and that A7 lists causal, counterfactual, temporal and
   evaluative ones. The reading confirms the scope: Aldé's arguments are
@@ -192,29 +192,29 @@ which is §5, and premise 2 of §4.2 is said to draw "from structural fact
   own pointer, to the opponent-process mechanism, is a causal organization,
   so the claim's relational vocabulary may have the resources that a
   similarity space lacks. That is a reading, not something the paper says.
-- **TERM-tmpgqmop.** Aldé's "component analysis" in introspection, the
+- **[TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md).** Aldé's "component analysis" in introspection, the
   judgement that a colour contains red and yellow, is an interpretation in
   the term's sense, a distinction with context and consequence. Whether it
   constitutes the composite character or reports it is the claim's
   question in miniature.
-- **CLAIM-136 (relata without primitive identity).** By analogy only. Aldé
+- **[CLAIM-136](../claims.d/CLAIM-136.md) (relata without primitive identity).** By analogy only. Aldé
   states that a structuralist must make similarity spaces asymmetric,
   because two symmetric points "should feel the same, hence they should be
-  the same point" (p. 5). That is the strict version of CLAIM-136 applied
+  the same point" (p. 5). That is the strict version of [CLAIM-136](../claims.d/CLAIM-136.md) applied
   to phenomenal characters: no difference without a relational difference,
   and so no plurality either. The weak version, which allows two
   structurally indistinguishable positions to be two, is the move a
   phenomenal structuralist would need if colour space had a symmetry, and
   Aldé does not consider it. His arguments are about character, not
   identity, and they do not reach communicative acts.
-- **THEORY-095 (Inverted Earth).** Aldé cites Chalmers's
+- **[THEORY-095](../theory.d/THEORY-095.md) (Inverted Earth).** Aldé cites Chalmers's
   "structure-preserving spectrum inversion" as the intuition-based objection he
   means to improve on. His unique-hue facts would also block simple
   inversion, since swapping unique and composite hues would be noticed. He
   does not draw that consequence.
-- **THEORY warranted.** THEORY-tmp4u3l2 states the paper's thesis. It is a
-  second objection to THEORY-tmpv5rmc, with a different footing from
-  THEORY-tmp7uasf's.
+- **THEORY warranted.** [THEORY-tmp4u3l2](../theory.d/THEORY-tmp4u3l2.md) states the paper's thesis. It is a
+  second objection to [THEORY-tmpv5rmc](../theory.d/THEORY-tmpv5rmc.md), with a different footing from
+  [THEORY-tmp7uasf](../theory.d/THEORY-tmp7uasf.md)'s.
 - No instruction for machine-learning practice; nothing for the
   anthology.
 

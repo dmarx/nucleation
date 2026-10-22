@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-22 (NOTE-tmpr1xjh) from the publisher's text in
+  read in full 2026-10-22 ([NOTE-tmpr1xjh](../notes.d/NOTE-tmpr1xjh.md)) from the publisher's text in
   PubMed Central (PMC12164598, CC BY-NC 4.0); worth reading as the theory's
   architects saying plainly that feeling is not a second phenomenon that
   represents the body's regulation: the same allostatic signals that regulate
@@ -64,7 +64,7 @@ Barrett, L. F., Atzil, S., Bliss-Moreau, E., Chanes, L., Gendron, M., Hoemann, K
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpr1xjh. The XML has no page breaks, so
+*From the reading, [NOTE-tmpr1xjh](../notes.d/NOTE-tmpr1xjh.md). The XML has no page breaks, so
 references are to sections.*
 
 - **Feeling and bodily regulation are one mechanism.** "Feeling cannot be
@@ -102,7 +102,7 @@ references are to sections.*
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange called this the closest existing formulation of the constitutive reading for affect, with cognitive behavioural therapy as its example, and named its constraint: on the theory, interpretive meaning cannot be separated from bodily regulation. The record already holds the 2017 active-inference statement of the theory, LIT-542, and Seth's interoceptive inference, LIT-1263 and THEORY-767. Bears on CLAIM-tmpdga80, THEORY-056 and THEORY-680.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange called this the closest existing formulation of the constitutive reading for affect, with cognitive behavioural therapy as its example, and named its constraint: on the theory, interpretive meaning cannot be separated from bodily regulation. The record already holds the 2017 active-inference statement of the theory, [LIT-542](LIT-542.md), and Seth's interoceptive inference, [LIT-1263](LIT-1263.md) and [THEORY-767](../theory.d/THEORY-767.md). Bears on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md), [THEORY-056](../theory.d/THEORY-056.md) and [THEORY-680](../theory.d/THEORY-680.md).
 
 **Corrected 2026-10-22, from the reading.** The constraint is the paper's:
 meaning-making "manifests as features of allostasis, action, and lived
@@ -112,16 +112,16 @@ paper's. The paper never mentions therapy, reappraisal or emotion
 regulation, except as part of basic emotion theory's account of variation.
 It is constitutive in some of its wording ("manifests") and productive in
 other wording ("to create lived experience"), and it does not choose. Its
-bearing on THEORY-056 and THEORY-680 is indirect, and is set out in
-NOTE-tmpr1xjh: it puts a separate regulation process on basic emotion
-theory's side, and it reads the experiment behind THEORY-680's contrast
+bearing on [THEORY-056](../theory.d/THEORY-056.md) and [THEORY-680](../theory.d/THEORY-680.md) is indirect, and is set out in
+[NOTE-tmpr1xjh](../notes.d/NOTE-tmpr1xjh.md): it puts a separate regulation process on basic emotion
+theory's side, and it reads the experiment behind [THEORY-680](../theory.d/THEORY-680.md)'s contrast
 (Gross 1998) as a symptom of the split. It meets neither THEORY's promotion
-test. It makes THEORY-767 no stronger or weaker: interoception appears only
+test. It makes [THEORY-767](../theory.d/THEORY-767.md) no stronger or weaker: interoception appears only
 in van Heijst et al.'s words. No THEORY was filed from it. Its substantive
-claims are already held as THEORY-057 and THEORY-045, and this reading
-could be added as a source of THEORY-057.
+claims are already held as [THEORY-057](../theory.d/THEORY-057.md) and [THEORY-045](../theory.d/THEORY-045.md), and this reading
+could be added as a source of [THEORY-057](../theory.d/THEORY-057.md).
 
-Read with Bo et al. (LIT-tmptaneb), whose finding that subcortical
+Read with Bo et al. ([LIT-tmptaneb](LIT-tmptaneb.md)), whose finding that subcortical
 responses survive reappraisal while reported affect falls is, on this
 paper's terms, a limit on the constitutive reading only if one makes the
 split between bodily state and feeling that the paper rejects.

@@ -22,8 +22,8 @@ date: '2026-10-22'
 source:
 - LIT-tmptaneb
 summary: >-
-  Bo et al. (preprint 2023, published 2024), LIT-tmptaneb, read in full from
-  the bioRxiv v2 preprint in NOTE-tmphhgp9. Reported negative affect fell
+  Bo et al. (preprint 2023, published 2024), [LIT-tmptaneb](../literature.d/LIT-tmptaneb.md), read in full from
+  the bioRxiv v2 preprint in [NOTE-tmphhgp9](../notes.d/NOTE-tmphhgp9.md). Reported negative affect fell
   under reappraisal (d = 0.92, n = 358). Every subcortical region engaged by
   negative pictures, amygdala subregions and PAG included, showed 10:1
   evidence of no change under reappraisal, as did most cortical
@@ -39,8 +39,8 @@ supports:
 
 ## Source
 
-Bo, Kraynak, Kwon, Sun, Gianaros & Wager, LIT-tmptaneb, read in full in
-NOTE-tmphhgp9 from the bioRxiv preprint, version 2 (10 May 2023): pp. 7,
+Bo, Kraynak, Kwon, Sun, Gianaros & Wager, [LIT-tmptaneb](../literature.d/LIT-tmptaneb.md), read in full in
+[NOTE-tmphhgp9](../notes.d/NOTE-tmphhgp9.md) from the bioRxiv preprint, version 2 (10 May 2023): pp. 7,
 9–11 and 20–22, with Figures 1E, 3 and 4. The version of record is closed
 and was not read.
 
@@ -73,7 +73,7 @@ samples large enough to support a null, it did not.
 - **That reappraisal leaves the emotion unchanged underneath.** That is
   the reading the result invites. It treats the subcortical response as
   the emotion and the rating as its feeling, the split Barrett et al.
-  (LIT-tmphg31k, NOTE-tmpr1xjh) say is a premise of basic emotion theory.
+  ([LIT-tmphg31k](../literature.d/LIT-tmphg31k.md), [NOTE-tmpr1xjh](../notes.d/NOTE-tmpr1xjh.md)) say is a premise of basic emotion theory.
   The authors' closing phrase, that reappraisal cannot modulate
   "subcortical-level affective experience" (p. 22), makes the same move. No
   measure here ties the subcortical response to what was felt: it did not
@@ -94,9 +94,9 @@ samples large enough to support a null, it did not.
 
 ## Connections
 
-It supports CLAIM-tmpdga80 narrowly, and limits it narrowly.
+It supports [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) narrowly, and limits it narrowly.
 
-- **CLAIM-tmpdga80.** Changing the interpretation changed the reported
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** Changing the interpretation changed the reported
   experience, and the change followed reorganized cortical representation
   of the picture. That is the claim's CBT and reappraisal case, now with
   data. The exchange cited the study as a limit: not every component of an
@@ -105,11 +105,11 @@ It supports CLAIM-tmpdga80 narrowly, and limits it narrowly.
   study does not show that, and the claim is free to deny it. It is not its
   defeater: that needs the organization held fixed while experience
   differs, and here experience changed with the organization.
-- **THEORY-056 and THEORY-680.** Either can absorb the result. On
-  THEORY-680 reappraisal acts early on meaning and leaves later or faster
-  generators alone. On THEORY-056 a competing appraisal reshapes the
+- **[THEORY-056](THEORY-056.md) and [THEORY-680](THEORY-680.md).** Either can absorb the result. On
+  [THEORY-680](THEORY-680.md) reappraisal acts early on meaning and leaves later or faster
+  generators alone. On [THEORY-056](THEORY-056.md) a competing appraisal reshapes the
   cortical representation without a separate regulator acting on the
-  subcortical response. THEORY-tmptuggu holds the half of the study that
+  subcortical response. [THEORY-tmptuggu](THEORY-tmptuggu.md) holds the half of the study that
   bears more directly on them.
-- **THEORY-057.** Not tested. One category of affect, no variation across
+- **[THEORY-057](THEORY-057.md).** Not tested. One category of affect, no variation across
   instances.
