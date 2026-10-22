@@ -4,7 +4,7 @@
 
 **psychometrics**.
 
-18 of 1071 NOTE documents. Back to the [full index](../README.md).
+19 of 1092 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -26,3 +26,4 @@
 | [NOTE-1004](../../../record/notes.d/NOTE-1004.md) | Longo et al. — What is embodiment? A psychometric approach | 131 people rated 27 statements after synchronous and asynchronous brushing of a rubber hand. Principal components analysis found embodiment of the rubber hand, loss of own hand, movement and affect in both conditions and deafference after asynchrony only; embodiment split into ownership, location and agency. Ownership and location crossed from negative to positive with synchrony and each predicted proprioceptive drift (1.34 cm against 0.30 cm); agency stayed negative. No control separates any of it from expectation. | Read |
 | [NOTE-1005](../../../record/notes.d/NOTE-1005.md) | Lush — Demand characteristics confound the rubber hand illusion | People told about the rubber hand procedure, but never put through it, expect the illusion statements more than the control statements and more under synchronous than asynchronous brushing (d = 1.40 and 1.05, n = 20), which is the pattern published reports show. So the field's standard controls do not control for suggestion. The paper does not show that the illusion is suggestion, and says so. | Read |
 | [NOTE-1009](../../../record/notes.d/NOTE-1009.md) | Rohde, Di Luca & Ernst — Feeling of ownership and proprioceptive drift do not go hand in hand | With robot stroking and a visual probe of felt finger position, drift toward a rubber hand was as large when the hand was only seen as under synchronous stroking (about 6 cm), and as large under asynchronous stroking interrupted every 10 s; only continuous asynchrony kept it near zero. Ownership by questionnaire needed synchrony. The authors conclude that drift is visuo-proprioceptive integration that asynchrony suppresses, separate from ownership, and not a proxy for it. Groups of ten; the vision-only ownership report is anecdotal. | Read |
+| [NOTE-1079](../../../record/notes.d/NOTE-1079.md) | McFadyen et al. — Doorways do not always cause forgetting | Four conceptual replications from an independent lab. In passive, head-mounted virtual reality, doorways did not lower hits for carried or set-down objects; under a counting load they raised false alarms to recombined probes. Watching or walking a curtained hallway did not change memory for a 16-item grid. The nulls are informative but not direct failures to replicate: movement was passive, and Experiments 3 and 4 used a different memory task. | Read |

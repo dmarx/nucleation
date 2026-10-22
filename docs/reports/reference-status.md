@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**515 documents cited without acknowledgement.** Not listed: 11519 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**524 documents cited without acknowledgement.** Not listed: 11716 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -21,7 +21,7 @@ To vouch for one, put the reason where the citation is — `inactive-ok:` covers
 
 A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred
 
-296 citations in 267 files await a look; 6 other citations of it are acknowledged.
+304 citations in 275 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-273.md:23`](../../record/claims.d/CLAIM-273.md)
 - [`record/literature.d/LIT-026.md:17`](../../record/literature.d/LIT-026.md)
@@ -87,7 +87,15 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 - [`record/literature.d/LIT-1349.md:34`](../../record/literature.d/LIT-1349.md)
 - [`record/literature.d/LIT-1350.md:24`](../../record/literature.d/LIT-1350.md)
 - [`record/literature.d/LIT-1361.md:21`](../../record/literature.d/LIT-1361.md)
+- [`record/literature.d/LIT-1368.md:29`](../../record/literature.d/LIT-1368.md)
+- [`record/literature.d/LIT-1369.md:31`](../../record/literature.d/LIT-1369.md)
 - [`record/literature.d/LIT-137.md:17`](../../record/literature.d/LIT-137.md)
+- [`record/literature.d/LIT-1370.md:28`](../../record/literature.d/LIT-1370.md)
+- [`record/literature.d/LIT-1373.md:33`](../../record/literature.d/LIT-1373.md)
+- [`record/literature.d/LIT-1375.md:32`](../../record/literature.d/LIT-1375.md)
+- [`record/literature.d/LIT-1380.md:34`](../../record/literature.d/LIT-1380.md)
+- [`record/literature.d/LIT-1381.md:32`](../../record/literature.d/LIT-1381.md)
+- [`record/literature.d/LIT-1389.md:30`](../../record/literature.d/LIT-1389.md)
 - [`record/literature.d/LIT-144.md:17`](../../record/literature.d/LIT-144.md)
 - [`record/literature.d/LIT-148.md:13`](../../record/literature.d/LIT-148.md)
 - [`record/literature.d/LIT-171.md:13`](../../record/literature.d/LIT-171.md)
@@ -324,7 +332,7 @@ A LIT whose lawful full text was sought and not reached is Unavailable, not Defe
 
 Filing an argument moves work across time: it is paid for now, in filing, indexing, tracking dependencies and checking it is still current, against reconstruction later, so it is worth its cost only when expected reuse covers it, and recurrence is evidence of reuse, not the criterion
 
-80 citations in 49 files await a look; 40 other citations of it are acknowledged.
+80 citations in 49 files await a look; 42 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1054.md:20`](../../record/literature.d/LIT-1054.md)
 - [`record/literature.d/LIT-1059.md:20`](../../record/literature.d/LIT-1059.md)
@@ -479,7 +487,7 @@ The loop that keeps a lucid agent's model in touch with what it models runs betw
 
 What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available
 
-51 citations in 32 files await a look; 23 other citations of it are acknowledged.
+51 citations in 32 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-099.md:104`](../../record/cases.d/CASE-099.md)
 - [`record/cases.d/CASE-107.md:125`](../../record/cases.d/CASE-107.md)
@@ -1135,7 +1143,7 @@ Mapping morality with a compass: Testing the theory of ‘morality-as-cooperatio
 
 Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes
 
-11 citations in 7 files await a look; 24 other citations of it are acknowledged.
+11 citations in 7 files await a look; 26 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-271.md:122`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-271.md:123`](../../record/claims.d/CLAIM-271.md)
@@ -1430,7 +1438,7 @@ Morality is the set of solutions to recurrent problems of cooperation, so each o
 
 Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed
 
-8 citations in 6 files await a look; 11 other citations of it are acknowledged.
+8 citations in 6 files await a look; 13 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-112.md:91`](../../record/cases.d/CASE-112.md)
 - [`record/claims.d/CLAIM-027.md:114`](../../record/claims.d/CLAIM-027.md)
@@ -1985,7 +1993,7 @@ A linear probe family can tell apart only realizations whose representations dif
 
 A record of an inquiry's justifications adds nothing for decisions its current state already suffices for: what it can add is a wider family of decisions for which what is kept suffices, and decisions a bounded agent can make that it otherwise could not
 
-6 citations in 5 files await a look; 17 other citations of it are acknowledged.
+6 citations in 5 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-250.md:70`](../../record/claims.d/CLAIM-250.md)
 - [`record/claims.d/CLAIM-250.md:77`](../../record/claims.d/CLAIM-250.md)
@@ -2097,6 +2105,32 @@ A Topos Perspective on the Kochen-Specker Theorem: III. Von Neumann Algebras as 
 - [`record/notes.d/NOTE-327.md:6`](../../record/notes.d/NOTE-327.md)
 - [`record/notes.d/NOTE-333.md:117`](../../record/notes.d/NOTE-333.md)
 - [`record/notes.d/NOTE-334.md:123`](../../record/notes.d/NOTE-334.md)
+
+### [NOTE-1072](../../record/notes.d/NOTE-1072.md) — Skimmed
+
+FEMA — National Incident Management System, third edition
+
+6 citations in 3 files await a look.
+
+- [`record/claims.d/CLAIM-424.md:12`](../../record/claims.d/CLAIM-424.md)
+- [`record/literature.d/LIT-1365.md:7`](../../record/literature.d/LIT-1365.md)
+- [`record/literature.d/LIT-1365.md:33`](../../record/literature.d/LIT-1365.md)
+- [`record/literature.d/LIT-1365.md:64`](../../record/literature.d/LIT-1365.md)
+- [`record/literature.d/LIT-1365.md:83`](../../record/literature.d/LIT-1365.md)
+- [`record/notes.d/NOTE-1073.md:258`](../../record/notes.d/NOTE-1073.md)
+
+### [NOTE-1077](../../record/notes.d/NOTE-1077.md) — Skimmed
+
+Abbott — Linked ecologies (through its French precursor)
+
+6 citations in 4 files await a look.
+
+- [`record/claims.d/CLAIM-416.md:133`](../../record/claims.d/CLAIM-416.md)
+- [`record/claims.d/CLAIM-417.md:213`](../../record/claims.d/CLAIM-417.md)
+- [`record/claims.d/CLAIM-423.md:151`](../../record/claims.d/CLAIM-423.md)
+- [`record/literature.d/LIT-1366.md:7`](../../record/literature.d/LIT-1366.md)
+- [`record/literature.d/LIT-1366.md:30`](../../record/literature.d/LIT-1366.md)
+- [`record/literature.d/LIT-1366.md:72`](../../record/literature.d/LIT-1366.md)
 
 ### [NOTE-274](../../record/notes.d/NOTE-274.md) — Skimmed
 
@@ -2365,7 +2399,7 @@ A collective's reasons need not be any of its members' reasons, so aggregating m
 
 Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
-5 citations in 4 files await a look; 32 other citations of it are acknowledged.
+5 citations in 4 files await a look; 34 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-279.md:133`](../../record/claims.d/CLAIM-279.md)
 - [`record/claims.d/CLAIM-327.md:35`](../../record/claims.d/CLAIM-327.md)
@@ -2401,7 +2435,7 @@ With losses in [0, 1] and a stated prior, the positive part of the Bayes-risk in
 
 A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition
 
-5 citations in 4 files await a look; 38 other citations of it are acknowledged.
+5 citations in 4 files await a look; 40 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-102.md:76`](../../record/cases.d/CASE-102.md)
 - [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
@@ -2456,6 +2490,18 @@ Comparison of Statistical Experiments
 - [`record/literature.d/LIT-781.md:92`](../../record/literature.d/LIT-781.md)
 - [`record/notes.d/NOTE-595.md:211`](../../record/notes.d/NOTE-595.md)
 - [`record/theory.d/THEORY-156.md:96`](../../record/theory.d/THEORY-156.md)
+
+### [NOTE-1090](../../record/notes.d/NOTE-1090.md) — Skimmed
+
+Rogers Commission — Report on the Space Shuttle Challenger accident
+
+5 citations in 2 files await a look.
+
+- [`record/cases.d/CASE-138.md:14`](../../record/cases.d/CASE-138.md)
+- [`record/literature.d/LIT-1393.md:7`](../../record/literature.d/LIT-1393.md)
+- [`record/literature.d/LIT-1393.md:31`](../../record/literature.d/LIT-1393.md)
+- [`record/literature.d/LIT-1393.md:67`](../../record/literature.d/LIT-1393.md)
+- [`record/literature.d/LIT-1393.md:81`](../../record/literature.d/LIT-1393.md)
 
 ### [NOTE-601](../../record/notes.d/NOTE-601.md) — Skimmed
 
@@ -2671,7 +2717,7 @@ The precedence a motive claims over action and the authority the rest of the org
 
 What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation
 
-4 citations in 2 files await a look; 9 other citations of it are acknowledged.
+4 citations in 2 files await a look; 13 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-107.md:138`](../../record/cases.d/CASE-107.md)
 - [`record/cases.d/CASE-116.md:29`](../../record/cases.d/CASE-116.md)
@@ -2693,7 +2739,7 @@ A simulation whose operators each maximize an objective the modeller fixed canno
 
 A collective that replaces all its members persists, when it does, by causal transmission of the organization that produces it, not by resemblance: an organization of the same kind that arises independently is not its continuation, and a lapse in its coherence need not end it
 
-4 citations in 4 files await a look; 18 other citations of it are acknowledged.
+4 citations in 4 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-105.md:66`](../../record/cases.d/CASE-105.md)
 - [`record/cases.d/CASE-116.md:92`](../../record/cases.d/CASE-116.md)
@@ -2787,6 +2833,17 @@ Clustering and the hyperbolic geometry of complex networks
 - [`record/literature.d/LIT-1283.md:84`](../../record/literature.d/LIT-1283.md)
 - [`record/theory.d/THEORY-188.md:25`](../../record/theory.d/THEORY-188.md)
 - [`record/theory.d/THEORY-188.md:147`](../../record/theory.d/THEORY-188.md)
+
+### [NOTE-1080](../../record/notes.d/NOTE-1080.md) — Skimmed
+
+Cooley — Human nature and the social order
+
+4 citations in 1 file await a look.
+
+- [`record/literature.d/LIT-1379.md:7`](../../record/literature.d/LIT-1379.md)
+- [`record/literature.d/LIT-1379.md:32`](../../record/literature.d/LIT-1379.md)
+- [`record/literature.d/LIT-1379.md:65`](../../record/literature.d/LIT-1379.md)
+- [`record/literature.d/LIT-1379.md:84`](../../record/literature.d/LIT-1379.md)
 
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
@@ -3234,7 +3291,7 @@ In the What Survives Translation? exchange, the manuscript drafted straight from
 
 A slowly changing collective variable, such as a reputation, a rivalry or a standing, is part of a collective's dynamics and not only an observer's average when its members read it, condition what they do on it, and by doing so regenerate it
 
-3 citations in 1 file await a look; 25 other citations of it are acknowledged.
+3 citations in 1 file await a look; 27 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-116.md:26`](../../record/cases.d/CASE-116.md)
 - [`record/cases.d/CASE-116.md:79`](../../record/cases.d/CASE-116.md)
@@ -3264,7 +3321,7 @@ No coarse-graining is normatively adequate in general because it preserves stabi
 
 An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
-3 citations in 3 files await a look; 17 other citations of it are acknowledged.
+3 citations in 3 files await a look; 23 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-276.md:95`](../../record/claims.d/CLAIM-276.md)
 - [`record/questions.d/QUESTION-045.md:66`](../../record/questions.d/QUESTION-045.md)
@@ -3804,7 +3861,7 @@ Whether a view of mind is organicist or informationalist is a dimension orthogon
 
 Under active inference, the contents of consciousness are posterior beliefs about the hidden states of world, body or brain, and a posterior is conscious when it has the capacity to inform discrete, counterfactual policy selection, at a timescale slow enough to abstract from sensory flux and with enough precision to tell alternatives apart; on this account no conscious content changes without a change in the posterior, and a stimulus given precision by an attention or saccade policy should reach awareness sooner than a retinally matched one
 
-3 citations in 3 files await a look; 3 other citations of it are acknowledged.
+3 citations in 3 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-412.md:298`](../../record/claims.d/CLAIM-412.md)
 - [`record/claims.d/CLAIM-414.md:144`](../../record/claims.d/CLAIM-414.md)
@@ -4048,7 +4105,7 @@ A loosely organized population can change what an outside institution does throu
 
 In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real
 
-2 citations in 1 file await a look; 45 other citations of it are acknowledged.
+2 citations in 1 file await a look; 48 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-072.md:18`](../../record/terms.d/TERM-072.md)
 - [`record/terms.d/TERM-072.md:103`](../../record/terms.d/TERM-072.md)
@@ -4070,6 +4127,15 @@ Low supervisory cost cannot show non-domination: processes conditioned never to 
 
 - [`record/claims.d/CLAIM-016.md:110`](../../record/claims.d/CLAIM-016.md)
 - [`record/terms.d/TERM-006.md:47`](../../record/terms.d/TERM-006.md)
+
+### [CLAIM-422](../../record/claims.d/CLAIM-422.md) — Proposed
+
+A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained
+
+2 citations in 2 files await a look; 16 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-127.md:106`](../../record/cases.d/CASE-127.md)
+- [`record/notes.d/NOTE-1086.md:183`](../../record/notes.d/NOTE-1086.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -4372,7 +4438,7 @@ In a stable linear Gaussian VAR(1), does a scalar linear coarse variable whose r
 
 perspective, and which sense: organizational, represented or phenomenal
 
-2 citations in 2 files await a look; 55 other citations of it are acknowledged.
+2 citations in 2 files await a look; 60 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-355.md:250`](../../record/claims.d/CLAIM-355.md)
 - [`record/claims.d/CLAIM-413.md:180`](../../record/claims.d/CLAIM-413.md)
@@ -5055,7 +5121,7 @@ Drift is retrieval failure outside a critical distance: a restatement close enou
 
 Anchors entrench: a structure that persists early can lock in its framing, so that later structure grows on it and alternatives become hard to reach, and retirement by status is the record's remedy only if superseded anchors stop attracting new structure
 
-1 citation in 1 file awaits a look; 10 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 12 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-172.md:20`](../../record/questions.d/QUESTION-172.md)
 
@@ -5063,7 +5129,7 @@ Anchors entrench: a structure that persists early can lock in its framing, so th
 
 The anchoring measures are computed in the grammar that shapes the argument, so by themselves they cannot certify that drift fell: drift must also be judged under standards the record did not supply
 
-1 citation in 1 file awaits a look; 13 other citations of it are acknowledged.
+1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
 - [`record/decisions.d/ADR-040.md:184`](../../record/decisions.d/ADR-040.md)
 
@@ -5194,6 +5260,14 @@ The deep-versus-shallow learning results separate three effects that aggregate l
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-115.md:79`](../../record/cases.d/CASE-115.md)
+
+### [CLAIM-418](../../record/claims.d/CLAIM-418.md) — Proposed
+
+Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent's activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-417.md:209`](../../record/claims.d/CLAIM-417.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -6051,6 +6125,30 @@ Representing a sensory quality, even in the distinctively sensory way, does not 
 
 - [`record/claims.d/CLAIM-412.md:207`](../../record/claims.d/CLAIM-412.md)
 
+### [THEORY-884](../../record/theory.d/THEORY-884.md) — Proposed
+
+A retained state supports exact answers to a declared family of questions after every finite sequence of a declared family of total deterministic revisions exactly when each of its fibres lies within one class of the coarsest revision-invariant refinement of agreement on current answers; that refinement can be strictly finer than what present answers require, and at most K* − K revision sequences, beyond the current answers, are needed to tell its K* classes apart
+
+1 citation in 1 file awaits a look; 5 other citations of it are acknowledged.
+
+- [`record/questions.d/QUESTION-112.md:66`](../../record/questions.d/QUESTION-112.md)
+
+### [THEORY-887](../../record/theory.d/THEORY-887.md) — Proposed
+
+When an attribute is concentrated on well-connected nodes, many nodes can see it in a majority of their neighbours though it is globally rare, and the share that do grows with the correlation between degree and attribute, as the network becomes more disassortative and as its degree distribution becomes heavier-tailed
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1085.md:191`](../../record/notes.d/NOTE-1085.md)
+
+### [THEORY-890](../../record/theory.d/THEORY-890.md) — Proposed
+
+Culture shapes action less by setting its ends than by supplying a repertoire of skills, habits and styles from which people build strategies of action, so strategies outlast the ends they serve; in settled periods culture constrains through the cost of retooling, while in unsettled periods explicit ideologies govern action directly but structural opportunities decide which of the competing ideologies survive
+
+1 citation in 1 file awaits a look; 3 other citations of it are acknowledged.
+
+- [`record/notes.d/NOTE-1075.md:216`](../../record/notes.d/NOTE-1075.md)
+
 ## Codes that resolve to no document
 
 A reference the reader cannot follow: the code names no document in this record. A typo, a number carried in from another project, and an illustrative code in an example all look identical from here — telling them apart takes a human, so this is a report, not an error.
@@ -6118,6 +6216,9 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-1062.md:41: annotation no longer applies — nothing in scope cites THEORY-883
 - record/notes.d/NOTE-1063.md:39: annotation no longer applies — nothing in scope cites THEORY-882
 - record/notes.d/NOTE-1063.md:41: annotation no longer applies — LIT-1351, LIT-1354 is Active now
+- record/notes.d/NOTE-1073.md:39: annotation no longer applies — nothing in scope cites THEORY-145
+- record/notes.d/NOTE-1075.md:35: annotation no longer applies — nothing in scope cites LIT-1381
+- record/notes.d/NOTE-1076.md:43: annotation no longer applies — nothing in scope cites LIT-1375, LIT-1380
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-631.md:34: annotation no longer applies — THEORY-155 is Active now
 - record/notes.d/NOTE-694.md:35: annotation no longer applies — QUESTION-025 is Active now

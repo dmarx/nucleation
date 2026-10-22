@@ -10,7 +10,7 @@ history:
   date: '2026-10-22'
   note: >-
     Title corrected and a note of 2026-10-22 added after the Jensen
-    Hughes review was read (NOTE-tmp39kir). The review does not report
+    Hughes review was read (NOTE-1073). The review does not report
     four firefighters caught; the stair roof collapsed on two companies
     and no firefighter injuries were reported.
 standing: documented

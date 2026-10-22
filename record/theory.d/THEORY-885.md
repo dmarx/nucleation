@@ -1,5 +1,8 @@
 ---
+number: 885
 status: Proposed
+formerly:
+- THEORY-tmpc9471
 promote_when: >-
   A comparative study, not by the author, that measures how often and how
   cheaply comparable arrangements are reversed in political and in market
@@ -24,7 +27,7 @@ source:
 - LIT-1372
 summary: >-
   Pierson (1997 working paper; published 2000), [LIT-1372](../literature.d/LIT-1372.md), read in full in
-  [NOTE-tmp78852](../notes.d/NOTE-tmp78852.md) through its precursor only, the EUI Jean Monnet Chair Paper
+  [NOTE-1076](../notes.d/NOTE-1076.md) through its precursor only, the EUI Jean Monnet Chair Paper
   44. An argument with no data and one illustration (two failed US
   health-care reforms, 1993–96). It extends North's claim for institutions
   in general ([THEORY-429](THEORY-429.md)) to a claim about politics as a domain. It does not
@@ -32,11 +35,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: THEORY-429 CLAIM-423 CLAIM-184 CLAIM-277 — Proposed; the accounts and claims it bears on, named, not leaned on -->
 
-# THEORY-tmpc9471: Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change
+# THEORY-885: Politics is more prone than markets to increasing returns, and so to path dependence, because it is dense with compulsory institutions and policies, rests on collective action and is opaque, so that institutions, collective action and shared interpretations of politics all feed back on themselves; and once on a path political actors leave it less readily than market actors, because competition and learning correct weakly, elected officials discount the future at the electoral cycle, and institutions are built to be hard to change
 
 ## Source
 
-Pierson (1997), [LIT-1372](../literature.d/LIT-1372.md), read in full in [NOTE-tmp78852](../notes.d/NOTE-tmp78852.md) from the EUI
+Pierson (1997), [LIT-1372](../literature.d/LIT-1372.md), read in full in [NOTE-1076](../notes.d/NOTE-1076.md) from the EUI
 working paper that preceded the APSR article: Part III (pp. 23–36) for the
 claim, Part IV (pp. 36–41) for its implications. Page numbers are the
 working paper's. The 2000 article was not read and may state the list of

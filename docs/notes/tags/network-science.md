@@ -4,7 +4,7 @@
 
 **network-science**.
 
-31 of 1071 NOTE documents. Back to the [full index](../README.md).
+32 of 1092 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -39,3 +39,4 @@
 | [NOTE-1010](../../../record/notes.d/NOTE-1010.md) | Random Hyperbolic Graphs: Degree Sequence and Clustering | Proves for the threshold hyperbolic random graph (curvature −1, density exponent α > 1/2, R = 2 log n + C) that the average local clustering coefficient is Θ(1) with high probability and that the degree sequence is a power law with exponent 2α + 1 up to the maximum degree n^(1/(2α)+o(1)), with exact asymptotics for the fraction of each degree. Skimmed: the statements and the method were read, the proofs only in outline. | Skimmed |
 | [NOTE-1011](../../../record/notes.d/NOTE-1011.md) | Clustering and the hyperbolic geometry of complex networks | For Krioukov et al.'s hyperbolic random graph with 0 < ζ/α < 2, proves that below temperature 1 (β > 1) the global clustering coefficient converges to an explicit positive constant when ζ/α < 1 and to zero when 1 ≤ ζ/α < 2, and that at or above temperature 1 it converges to zero; clustering among vertices of bounded type stays positive for all ζ/α < 2 when β > 1. Skimmed: §1 and the theorem statements read, the proofs not. | Skimmed |
 | [NOTE-1038](../../../record/notes.d/NOTE-1038.md) | Weatherall, O'Connor and Bruner — How to beat science and influence people | In Bala–Goyal network models with Bayesian policy makers who do not gather evidence, a propagandist who forwards only the real results of unbiased scientists that happen to favour the worse action, or who runs honest studies and publishes only the unfavourable ones, can leave policy makers near-certain of the false theory while the scientists converge on the true one. It works best when the problem is hard, studies are small, scientists are many and policy makers hear few of them. A journalist who reports one result for each side every round slows policy makers' learning and never helps it. | Read |
+| [NOTE-1085](../../../record/notes.d/NOTE-1085.md) | Lerman, Yan & Wu — The majority illusion in social networks | A sampling fact about networks, not a finding about people: when an attribute is correlated with degree, the share of nodes that see it in a majority of their neighbours can far exceed its global share (60–80% of nodes when 5% hold it, in a heavy-tailed synthetic network), and more so in disassortative networks. A binomial model from the joint degree distribution predicts the share. No person's belief or behaviour is measured, and the attributes on the real networks are assigned, not observed. | Read |

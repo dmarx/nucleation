@@ -1,5 +1,8 @@
 ---
+number: 887
 status: Proposed
+formerly:
+- THEORY-tmpiv9ap
 promote_when: >-
   A study of a real network in which the attribute is observed, not
   assigned, that measures the correlation between degree and attribute and
@@ -22,7 +25,7 @@ source:
 - LIT-1390
 summary: >-
   Lerman, Yan & Wu (2016), [LIT-1390](../literature.d/LIT-1390.md), read in full in
-  [NOTE-tmpoihdq](../notes.d/NOTE-tmpoihdq.md) from the PLOS ONE version. The "majority illusion": with 5%
+  [NOTE-1085](../notes.d/NOTE-1085.md) from the PLOS ONE version. The "majority illusion": with 5%
   of nodes active, 60–80% of nodes in a heavy-tailed synthetic network
   can see an active majority among their neighbours; in disassortative real
   topologies, 60–70% with 20% active. A binomial model from the joint degree
@@ -33,12 +36,12 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-415 THEORY-242 — Proposed; the claim and account this one bears on, named, not leaned on -->
 <!-- inactive-ok-file: LIT-1370 — Deferred or Unavailable; cited as a work the source names, not leaned on -->
 
-# THEORY-tmpiv9ap: When an attribute is concentrated on well-connected nodes, many nodes can see it in a majority of their neighbours though it is globally rare, and the share that do grows with the correlation between degree and attribute, as the network becomes more disassortative and as its degree distribution becomes heavier-tailed
+# THEORY-887: When an attribute is concentrated on well-connected nodes, many nodes can see it in a majority of their neighbours though it is globally rare, and the share that do grows with the correlation between degree and attribute, as the network becomes more disassortative and as its degree distribution becomes heavier-tailed
 
 ## Source
 
 Lerman, Yan & Wu (2016), *PLOS ONE* 11(2): e0147617, arXiv:1506.03022,
-[LIT-1390](../literature.d/LIT-1390.md), read in full in [NOTE-tmpoihdq](../notes.d/NOTE-tmpoihdq.md) from the publisher's PDF. The
+[LIT-1390](../literature.d/LIT-1390.md), read in full in [NOTE-1085](../notes.d/NOTE-1085.md) from the publisher's PDF. The
 Supporting Information (S1 File, S1 Fig) was not read.
 
 ## What was actually shown

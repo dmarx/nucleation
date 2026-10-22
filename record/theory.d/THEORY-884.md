@@ -1,5 +1,8 @@
 ---
+number: 884
 status: Proposed
+formerly:
+- THEORY-tmp7q3ne
 promote_when: >-
   A second check that ties the result to the classical theorem rather than
   to this unreviewed web paper alone: a reading of Moore (1956) or Nerode
@@ -26,7 +29,7 @@ answers:
 - QUESTION-112
 summary: >-
   Aevyra (2026), The Ledger of Will, [LIT-1376](../literature.d/LIT-1376.md), read in full in
-  [NOTE-tmpvddyu](../notes.d/NOTE-tmpvddyu.md): Proposition 4, "revision closure", with its proof in §4.4
+  [NOTE-1091](../notes.d/NOTE-1091.md): Proposition 4, "revision closure", with its proof in §4.4
   and finite checks in Appendix A.9. The authors call it "a
   finite-machine refinement construction in the tradition of Moore and
   Nerode", not a new theorem. It answers [QUESTION-112](../questions.d/QUESTION-112.md) in one case only: a
@@ -36,11 +39,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-295 CLAIM-303 — Proposed; the claims this account bears on, named, not leaned on -->
 
-# THEORY-tmp7q3ne: A retained state supports exact answers to a declared family of questions after every finite sequence of a declared family of total deterministic revisions exactly when each of its fibres lies within one class of the coarsest revision-invariant refinement of agreement on current answers; that refinement can be strictly finer than what present answers require, and at most K* − K revision sequences, beyond the current answers, are needed to tell its K* classes apart
+# THEORY-884: A retained state supports exact answers to a declared family of questions after every finite sequence of a declared family of total deterministic revisions exactly when each of its fibres lies within one class of the coarsest revision-invariant refinement of agreement on current answers; that refinement can be strictly finer than what present answers require, and at most K* − K revision sequences, beyond the current answers, are needed to tell its K* classes apart
 
 ## Source
 
-Aevyra (2026), [LIT-1376](../literature.d/LIT-1376.md), read in full in [NOTE-tmpvddyu](../notes.d/NOTE-tmpvddyu.md) from the
+Aevyra (2026), [LIT-1376](../literature.d/LIT-1376.md), read in full in [NOTE-1091](../notes.d/NOTE-1091.md) from the
 version 4.0 web page of 25 September 2026: §4.4 (Proposition 4 and its
 proof), with §4.1–4.3 for the definitions and §5.1 and Appendix A.9 for the
 examples. The archive's checks were run and reproduce the saved results.

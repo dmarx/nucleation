@@ -139,7 +139,7 @@ apart from its perspective, for a state.
 
 The claim falls if Pierson or Putnam already state it.
 
-- **Pierson does not, on the 1997 text** ([NOTE-tmp78852](../notes.d/NOTE-tmp78852.md); the 2000 article
+- **Pierson does not, on the 1997 text** ([NOTE-1076](../notes.d/NOTE-1076.md); the 2000 article
   was not reached). He treats time horizons as a cause of which paths are
   taken and kept: "Because the decisions of voters, which determine
   political success, are taken in the short-run, elected officials employ
@@ -148,7 +148,7 @@ The claim falls if Pierson or Putnam already state it.
   know relatively little about the time horizons of different political
   actors" (p. 32).
 - **Putnam** ([LIT-1375](../literature.d/LIT-1375.md)) was not reached, so his half is untested.
-- **Two further accounts to answer.** Abbott's precursor ([NOTE-tmpatdt4](../notes.d/NOTE-tmpatdt4.md))
+- **Two further accounts to answer.** Abbott's precursor ([NOTE-1077](../notes.d/NOTE-1077.md))
   makes tempo an explanatory variable in one case: the political arena's
   urgency against medicine's settle-once horizon decided who the doctors'
   allies were. Sewell ([LIT-1383](../literature.d/LIT-1383.md)) offers a rival to timescale: depth.

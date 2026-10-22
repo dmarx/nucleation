@@ -11,7 +11,7 @@ history:
   date: '2026-10-22'
   note: >-
     Note of 2026-10-22 added after the Ledger of Will was read
-    (NOTE-tmpvddyu): a partial answer for a revision family declared in
+    (NOTE-1091): a partial answer for a revision family declared in
     advance. The question stays open.
 tags:
 - epistemology
@@ -26,7 +26,7 @@ summary: >-
 answered_by:
 - CLAIM-295
 - CLAIM-300
-- THEORY-tmp7q3ne
+- THEORY-884
 ---
 <!-- inactive-ok-file: CLAIM-295 — Proposed; open claims and accounts cited as open, nothing here rests on their being settled -->
 
@@ -63,7 +63,7 @@ of why history would be worth keeping at all.
 
 The Ledger of Will ([LIT-1376](../literature.d/LIT-1376.md), read in full) answers this question for one
 case: its revision closure (Proposition 4) holds for a revision family
-declared in advance, filed as [THEORY-tmp7q3ne](../theory.d/THEORY-tmp7q3ne.md). It leaves the open-ended
+declared in advance, filed as [THEORY-884](../theory.d/THEORY-884.md). It leaves the open-ended
 case open, and says so: "An agent cannot infer that its future concerns
 are exhausted by its current ontology. The response is explicit scope and
 retained routes to reacquisition" (§10). Its fibre criterion (Proposition

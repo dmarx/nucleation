@@ -10,7 +10,7 @@ history:
   date: '2026-10-22'
   note: >-
     Title corrected and a note of 2026-10-22 added after the NTSB report
-    and Helmreich et al. were read (NOTE-tmpoojls, NOTE-tmpqb7w3). The
+    and Helmreich et al. were read (NOTE-1086, NOTE-1087). The
     NTSB does not find that the crew knew the fuel was running out, and
     Helmreich et al. do not say CRM kept the captain's command; the
     idea's documented source is the NTSB's recommendation.

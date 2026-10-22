@@ -1,5 +1,8 @@
 ---
+number: 886
 status: Proposed
+formerly:
+- THEORY-tmpg9wtv
 promote_when: >-
   A test in which perceptual prediction error is measured or manipulated
   independently of how much the stimulus changes, showing that boundaries
@@ -24,7 +27,7 @@ source:
 - LIT-1382
 summary: >-
   Zacks, Speer, Swallow, Braver & Reynolds (2007), [LIT-1382](../literature.d/LIT-1382.md), read in full
-  in [NOTE-tmpn32y0](../notes.d/NOTE-tmpn32y0.md) from the PMC author manuscript. Event segmentation
+  in [NOTE-1084](../notes.d/NOTE-1084.md) from the PMC author manuscript. Event segmentation
   theory: a theory and review, with a partial network simulation and
   mostly correlational evidence. Prediction error is never measured in
   people, and the one neural prediction checked (anterior cingulate
@@ -32,13 +35,13 @@ summary: >-
   others' activity; it does not cover one's own intentions, and does not
   mention the doorway effect.
 ---
-<!-- inactive-ok-file: CLAIM-421 THEORY-883 THEORY-tmpiwyd2 — Proposed; claims and accounts this bears on, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-421 THEORY-883 THEORY-888 — Proposed; claims and accounts this bears on, named, not leaned on -->
 
-# THEORY-tmpg9wtv: Event boundaries are perceived where perceptual prediction error rises transiently; at those points working-memory event models are reset and opened to sensory input, so that information from before a boundary becomes harder to retrieve after it
+# THEORY-886: Event boundaries are perceived where perceptual prediction error rises transiently; at those points working-memory event models are reset and opened to sensory input, so that information from before a boundary becomes harder to retrieve after it
 
 ## Source
 
-Zacks et al. (2007), [LIT-1382](../literature.d/LIT-1382.md), read in full in [NOTE-tmpn32y0](../notes.d/NOTE-tmpn32y0.md) from the
+Zacks et al. (2007), [LIT-1382](../literature.d/LIT-1382.md), read in full in [NOTE-1084](../notes.d/NOTE-1084.md) from the
 author manuscript in PubMed Central (PMC2852534). The theory is in "A
 Theory of Event Segmentation"; the evidence in the two sections that
 follow.
@@ -85,7 +88,7 @@ The paper states a mechanism and assembles evidence for its implications.
   prediction is that what preceded a boundary becomes harder to retrieve.
   The doorway studies find the cost on the object carried across the
   boundary, which they explain by interference between event models
-  ([THEORY-tmpiwyd2](THEORY-tmpiwyd2.md)), a different mechanism.
+  ([THEORY-888](THEORY-888.md)), a different mechanism.
 - **Where it lives in the brain.** The mapping to cingulate, midbrain and
   prefrontal cortex is offered as tentative, and part of it failed.
 - **Consciousness.** Event models "are not necessarily accessible to
@@ -97,7 +100,7 @@ The paper states a mechanism and assembles evidence for its implications.
 - **[CASE-136](../cases.d/CASE-136.md)**: the case calls this "the theory behind" the doorway
   effect. It is the theory behind the event-cognition framing, not the
   account its authors give of the effect.
-- **[THEORY-tmpiwyd2](THEORY-tmpiwyd2.md)**: the doorway effect explained as interference
+- **[THEORY-888](THEORY-888.md)**: the doorway effect explained as interference
   between event models; compatible with segmentation, but not derived from
   this reset mechanism.
 - **[TERM-055](../terms.d/TERM-055.md)**: EST's split between event models (reset at boundaries)

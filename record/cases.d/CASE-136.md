@@ -10,8 +10,8 @@ history:
   date: '2026-10-22'
   note: >-
     Title and the first bullet corrected, and a note of 2026-10-22
-    added, after all five works were read (NOTE-tmpljxnu, NOTE-tmpktq6q,
-    NOTE-tmpjvmd8, NOTE-tmph147i, NOTE-tmpn32y0). The first version said
+    added, after all five works were read (NOTE-1083, NOTE-1082,
+    NOTE-1081, NOTE-1079, NOTE-1084). The first version said
     memory for objects just picked up or set down was worse after a
     doorway; the effect was on the carried object only. The standing is
     unchanged.
@@ -116,7 +116,7 @@ All five are now read. The case's outline holds, with four corrections.
   currently associated object". The object just set down showed no
   reliable doorway effect. The title and first bullet are corrected. The
   key experiment had few trials per condition, and the rooms on either
-  side of a doorway also differed in size and pattern ([NOTE-tmpljxnu](../notes.d/NOTE-tmpljxnu.md)).
+  side of a doorway also differed in size and pattern ([NOTE-1083](../notes.d/NOTE-1083.md)).
 - **Interference, not loss of context.** The original lab explains the
   effect by competition at retrieval: "The effect is a result of the
   competition between these two event models during retrieval, even

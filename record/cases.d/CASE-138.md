@@ -11,7 +11,7 @@ history:
   note: >-
     Note of 2026-10-22 added after the Rogers report (skimmed: volume 1,
     chapters V to VIII and the recommendations) and GAO-02-195 were read
-    (NOTE-tmpvc65r, NOTE-tmpua5cj). Two of the case's sourced details
+    (NOTE-1090, NOTE-1088). Two of the case's sourced details
     are not in the cited works. The case is otherwise unchanged.
 standing: documented
 kind: specimen

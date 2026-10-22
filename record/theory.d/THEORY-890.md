@@ -1,5 +1,8 @@
 ---
+number: 890
 status: Proposed
+formerly:
+- THEORY-tmptap5g
 promote_when: >-
   A test that sets the toolkit account against the values account on a
   case where they predict differently, run by someone other than the
@@ -24,7 +27,7 @@ date: '2026-10-22'
 source:
 - LIT-1367
 summary: >-
-  Swidler (1986), [LIT-1367](../literature.d/LIT-1367.md), read in full in [NOTE-tmp787j2](../notes.d/NOTE-tmp787j2.md) from a course
+  Swidler (1986), [LIT-1367](../literature.d/LIT-1367.md), read in full in [NOTE-1075](../notes.d/NOTE-1075.md) from a course
   copy of the published article. A theoretical argument against the
   Parsonian values model, built on illustrations (the culture-of-poverty
   debate, the Protestant ethic, Walzer's Calvin) and on the paper's
@@ -34,11 +37,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-416 CLAIM-417 CLAIM-420 — Proposed; the claims this account bears on, named, not leaned on -->
 
-# THEORY-tmptap5g: Culture shapes action less by setting its ends than by supplying a repertoire of skills, habits and styles from which people build strategies of action, so strategies outlast the ends they serve; in settled periods culture constrains through the cost of retooling, while in unsettled periods explicit ideologies govern action directly but structural opportunities decide which of the competing ideologies survive
+# THEORY-890: Culture shapes action less by setting its ends than by supplying a repertoire of skills, habits and styles from which people build strategies of action, so strategies outlast the ends they serve; in settled periods culture constrains through the cost of retooling, while in unsettled periods explicit ideologies govern action directly but structural opportunities decide which of the competing ideologies survive
 
 ## Source
 
-Swidler (1986), [LIT-1367](../literature.d/LIT-1367.md), read in full in [NOTE-tmp787j2](../notes.d/NOTE-tmp787j2.md): *American
+Swidler (1986), [LIT-1367](../literature.d/LIT-1367.md), read in full in [NOTE-1075](../notes.d/NOTE-1075.md): *American
 Sociological Review* 51(2), 273–286. Page numbers are the journal's.
 
 ## What was actually shown

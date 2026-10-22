@@ -210,5 +210,5 @@ out the choice.
   structure. And for him one person enacting several incompatible
   structures is the normal case: persons hold "a wide range of different
   and even incompatible schemas" (p. 17).
-- **Abbott.** Read only through a 2003 precursor ([NOTE-tmpatdt4](../notes.d/NOTE-tmpatdt4.md)): it is
+- **Abbott.** Read only through a 2003 precursor ([NOTE-1077](../notes.d/NOTE-1077.md)): it is
   about jurisdictions and alliances, not perspectives.

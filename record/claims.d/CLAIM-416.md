@@ -130,7 +130,7 @@ themselves.
   p. 148), the reasoning the commission found: "We can lower our
   standards a little bit because we got away with it last time."
 - **The judge has its own contest.** Abbott's precursor to [LIT-1366](../literature.d/LIT-1366.md)
-  ([NOTE-tmpatdt4](../notes.d/NOTE-tmpatdt4.md)) finds New York's legislators setting the test of medical
+  ([NOTE-1077](../notes.d/NOTE-1077.md)) finds New York's legislators setting the test of medical
   competence for reasons of their own politics.
 - **The general mechanism.** Sewell ([LIT-1383](../literature.d/LIT-1383.md)) states the reflexive part in
   general: what a success shows is itself contested, and the reading that

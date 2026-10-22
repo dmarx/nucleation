@@ -1,5 +1,8 @@
 ---
+number: 888
 status: Proposed
+formerly:
+- THEORY-tmpiwyd2
 promote_when: >-
   An independent, preregistered replication of the original recognition
   paradigm with active navigation, balanced and unpredictable shift and
@@ -26,24 +29,24 @@ source:
 - LIT-1387
 summary: >-
   From the Radvansky lab's doorway studies, [LIT-1392](../literature.d/LIT-1392.md), [LIT-1384](../literature.d/LIT-1384.md) and [LIT-1385](../literature.d/LIT-1385.md),
-  read in full in [NOTE-tmpljxnu](../notes.d/NOTE-tmpljxnu.md), [NOTE-tmpktq6q](../notes.d/NOTE-tmpktq6q.md) and [NOTE-tmpjvmd8](../notes.d/NOTE-tmpjvmd8.md), and the
+  read in full in [NOTE-1083](../notes.d/NOTE-1083.md), [NOTE-1082](../notes.d/NOTE-1082.md) and [NOTE-1081](../notes.d/NOTE-1081.md), and the
   independent conceptual replication of McFadyen et al., [LIT-1387](../literature.d/LIT-1387.md), read in
-  [NOTE-tmph147i](../notes.d/NOTE-tmph147i.md). The pattern (a cost on the carried object, worse after two
+  [NOTE-1079](../notes.d/NOTE-1079.md). The pattern (a cost on the carried object, worse after two
   new rooms, not helped by returning) replicates within the lab's paradigm;
   the interference account is reached by eliminating alternatives, and the
   independent study found no loss of hits, only more false alarms under
   load. It is about recognizing object labels, not intentions.
 ---
-<!-- inactive-ok-file: CLAIM-421 THEORY-tmpg9wtv — Proposed; claims and accounts this bears on, named, not leaned on -->
+<!-- inactive-ok-file: CLAIM-421 THEORY-886 — Proposed; claims and accounts this bears on, named, not leaned on -->
 
-# THEORY-tmpiwyd2: Walking through a doorway into a new room, rather than as far within one, lowers recognition of an object being carried, through retrieval interference between the event models of the two rooms that both hold it, not through a longer retention interval, a passing cost of updating, or loss of the encoding context; outside the originating paradigm, with passive movement and no extra load, it has not appeared
+# THEORY-888: Walking through a doorway into a new room, rather than as far within one, lowers recognition of an object being carried, through retrieval interference between the event models of the two rooms that both hold it, not through a longer retention interval, a passing cost of updating, or loss of the encoding context; outside the originating paradigm, with passive movement and no extra load, it has not appeared
 
 ## Source
 
 Radvansky & Copeland (2006), [LIT-1392](../literature.d/LIT-1392.md); Radvansky, Krawietz & Tamplin
 (2011), [LIT-1384](../literature.d/LIT-1384.md); Pettijohn & Radvansky (2016), [LIT-1385](../literature.d/LIT-1385.md); each read in
-full ([NOTE-tmpljxnu](../notes.d/NOTE-tmpljxnu.md), [NOTE-tmpktq6q](../notes.d/NOTE-tmpktq6q.md), [NOTE-tmpjvmd8](../notes.d/NOTE-tmpjvmd8.md)). McFadyen et al. (2021),
-[LIT-1387](../literature.d/LIT-1387.md), read in full in [NOTE-tmph147i](../notes.d/NOTE-tmph147i.md), for the limits. Page numbers are
+full ([NOTE-1083](../notes.d/NOTE-1083.md), [NOTE-1082](../notes.d/NOTE-1082.md), [NOTE-1081](../notes.d/NOTE-1081.md)). McFadyen et al. (2021),
+[LIT-1387](../literature.d/LIT-1387.md), read in full in [NOTE-1079](../notes.d/NOTE-1079.md), for the limits. Page numbers are
 the journals'.
 
 ## What was actually shown
@@ -96,7 +99,7 @@ the journals'.
   alternatives. No condition yet separates it from deactivation of the
   prior event model by an opposite prediction.
 - **That it is event segmentation theory's mechanism.** EST
-  ([THEORY-tmpg9wtv](THEORY-tmpg9wtv.md)) predicts that what precedes a boundary becomes harder
+  ([THEORY-886](THEORY-886.md)) predicts that what precedes a boundary becomes harder
   to retrieve because the model is reset. The cost here falls on what is
   carried across the boundary.
 - **That location is irrelevant.** The return result says the encoding
@@ -114,5 +117,5 @@ the journals'.
   the claim's defeater already lets the illustration fall without harm.
 - **[TERM-055](../terms.d/TERM-055.md)**: the effect is a loss of availability with the item still
   held, which is that term's distinction, at a small scale.
-- **[THEORY-tmpg9wtv](THEORY-tmpg9wtv.md)**: the segmentation account it is often read through,
+- **[THEORY-886](THEORY-886.md)**: the segmentation account it is often read through,
   with a different memory mechanism.

@@ -1,5 +1,8 @@
 ---
+number: 889
 status: Proposed
+formerly:
+- THEORY-tmpp1wwg
 promote_when: >-
   An independent re-analysis or replication, by others than the authors,
   that keeps the county association between 1860 slave share and present
@@ -25,7 +28,7 @@ source:
 - LIT-1388
 summary: >-
   Acharya, Blackwell and Sen (2016), [LIT-1388](../literature.d/LIT-1388.md), read in full in
-  [NOTE-tmpuag3s](../notes.d/NOTE-tmpuag3s.md) from the journal PDF on the second author's site, without
+  [NOTE-1089](../notes.d/NOTE-1089.md) from the journal PDF on the second author's site, without
   the online appendix. The association is well supported; the causal
   reading rests on 1860 controls, a cotton-suitability instrument with an
   untestable exclusion restriction, and a direct-effect estimate. The
@@ -34,11 +37,11 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-420 CLAIM-329 — Proposed; the claims it bears on, named, not leaned on -->
 
-# THEORY-tmpp1wwg: Among white Southerners today, those living in counties where a larger share of the 1860 population was enslaved are somewhat less Democratic, less supportive of affirmative action, more racially resentful and colder toward black Americans, by about a tenth of a standard deviation per standard deviation of slave share; the difference is not accounted for by the present black share of the population, and in voting it appeared after Reconstruction rather than before the war, which supports its origin in the incentives that emancipation gave planters to repress black labor and votes, and its local transmission thereafter
+# THEORY-889: Among white Southerners today, those living in counties where a larger share of the 1860 population was enslaved are somewhat less Democratic, less supportive of affirmative action, more racially resentful and colder toward black Americans, by about a tenth of a standard deviation per standard deviation of slave share; the difference is not accounted for by the present black share of the population, and in voting it appeared after Reconstruction rather than before the war, which supports its origin in the incentives that emancipation gave planters to repress black labor and votes, and its local transmission thereafter
 
 ## Source
 
-Acharya, Blackwell and Sen (2016), [LIT-1388](../literature.d/LIT-1388.md), read in full in [NOTE-tmpuag3s](../notes.d/NOTE-tmpuag3s.md)
+Acharya, Blackwell and Sen (2016), [LIT-1388](../literature.d/LIT-1388.md), read in full in [NOTE-1089](../notes.d/NOTE-1089.md)
 from *The Journal of Politics* 78(3): 621–641, the typeset PDF posted by the
 second author. The online appendix, which holds many of the robustness
 checks, was not read.

@@ -9,7 +9,7 @@ history:
 - version: 2
   date: '2026-10-22'
   note: >-
-    Note of 2026-10-22 added after NIMS was skimmed (NOTE-tmp2c1vw):
+    Note of 2026-10-22 added after NIMS was skimmed (NOTE-1072):
     A24's reading of it is partly supported. The claim is unchanged.
 role: thesis
 warrant: interpretive

@@ -10,7 +10,7 @@ history:
   date: '2026-10-22'
   note: >-
     Note of 2026-10-22 added after Penglase was read in full
-    (NOTE-tmpvdjek). It corrects an earlier correction: the commercial
+    (NOTE-1092). It corrects an earlier correction: the commercial
     reading the case attributed to the exchange is in the paper's body,
     though not its abstract. The standing is unchanged.
 standing: documented
