@@ -47,7 +47,7 @@ A37: "Reflexive perspectival governance is a capacity through which an
 organized system can make the conditions governing its own
 interpretation, evaluation, and action available for effective
 examination and revision." The organized system is a perspective in
-TERM-072's sense 1, a realized regime of interpretation; the claim says
+[TERM-072](../terms.d/TERM-072.md)'s sense 1, a realized regime of interpretation; the claim says
 nothing about its senses 2 or 3.
 
 A31 set it against [CLAIM-284](CLAIM-284.md) with four properties that "None entails all
