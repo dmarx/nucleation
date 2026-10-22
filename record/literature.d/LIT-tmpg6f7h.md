@@ -1,9 +1,8 @@
 ---
-status: Deferred
-status_note: >-
-  filed 2026-10-21, not read. Registered from the owner's exchange of 2026-10-21, "Experience and interpretation", on whether experience is constituted by interpretation. No NOTE is filed.
+status: Active
+status_note: 'read in full 2026-10-22 (NOTE-tmpz0x5w) from the submitted preprint on MindRxiv (osf.io/ve7z2); worth reading as the systematic case that meditative states called contentless are described by their own teachers as lacking thoughts, perceptions, images and memories but keeping wakefulness, calm, stillness, bliss, a non-conceptual knowing, freedom and unity, and as differing across Shamatha, TM and Stillness Meditation, chiefly in Shamatha''s far greater attentional stability and vividness. 135 texts by eight teachers, 65 features: the same on 14, different on 4, unclear on 47. Its main limit is that the evidence is teachers'' descriptions, not practitioners'' reports, and that "not truly contentless" rests on counting qualities such as calm and simplicity as content, which the paper does not define.'
 title: 'Evidence synthesis indicates contentless experiences in meditation are neither truly contentless nor identical'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -19,9 +18,24 @@ history:
     texts, "The path to contentless experience in meditation"
     (doi:10.1007/s11097-022-09812-y), is on techniques and interim states
     and is not filed.
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Read in full (NOTE-tmpz0x5w) from the preprint's only version on OSF
+    (posted 1 November 2021, 56 pp., CC BY), the submitted manuscript,
+    whose cover says the final version is likely to differ. The version of
+    record (CC BY) was not reached: Springer's PDF and article page
+    returned a bot challenge, the Monash repository file and the CORE copy
+    returned 403, and the University of Melbourne repository returned 502.
+    Correction: the preprint server is MindRxiv, not PsyArXiv; the
+    10.31231 DOI prefix and the OSF record both say so. The history note
+    above is left as written. The body's citation is corrected. Filed as
+    the source of THEORY-tmp1lndf. Not checked against the Anthology of
+    the SOTA (ADR-048).
 tags:
 - phenomenology
 - consciousness
+- religion
 date: '2026-10-21'
 published: '2021-11-01'
 doi: '10.1007/s11097-022-09811-z'
@@ -35,17 +49,58 @@ keywords:
 - 'transcendental meditation'
 implementations: []
 summary: >-
-  Woods, Windt & Carter (2022). An evidence synthesis of 135 expert texts from Shamatha, Transcendental and Stillness Meditation identifies 65 features of so-called contentless experience. The experiences differ across traditions in at least four features, and many forms of content are present in them, including wakefulness, naturalness, calm, bliss and freedom, so most are not truly contentless.
+  Woods, Windt & Carter (2022). An evidence synthesis of 135 texts by eight teachers of Shamatha (Wallace), Transcendental and Stillness Meditation identifies 65 features of the so-called contentless goal-states. The states are described as lacking thoughts, concepts, perceptions, images and memories but keeping wakefulness, calm, stillness, bliss, knowing, freedom and unity. They are the same across practices on 14 features, different on 4 (chiefly Shamatha's attentional stability and vividness) and unclear on 47. So, on the texts, most are not truly contentless, and they are not identical.
 ---
 <!-- inactive-ok-file: CLAIM-tmpdga80 — Proposed; claims and readings cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp1lndf — Proposed; filed from this reading, named -->
 
 # LIT-tmpg6f7h: Evidence synthesis indicates contentless experiences in meditation are neither truly contentless nor identical
 
-Woods, T. J., Windt, J. M. & Carter, O. (2022). Evidence synthesis indicates contentless experiences in meditation are neither truly contentless nor identical. *Phenomenology and the Cognitive Sciences* 23(2): 253–304 (2024). doi:10.1007/s11097-022-09811-z. Preprint: PsyArXiv, doi:10.31231/osf.io/ve7z2.
+Woods, T. J., Windt, J. M. & Carter, O. (2022). Evidence synthesis indicates contentless experiences in meditation are neither truly contentless nor identical. *Phenomenology and the Cognitive Sciences* 23(2): 253–304 (2024). doi:10.1007/s11097-022-09811-z. Preprint: MindRxiv, doi:10.31231/osf.io/ve7z2.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, NOTE-tmpz0x5w.*
+
+- **What is absent.** In all three practices the goal-state is described
+  as having no thoughts, concepts, images, memories, awareness of the
+  meditation object, or sense and body perception (§3.2). "No feelings"
+  means the feelings of daily life; bliss and calm are presented as
+  innate.
+- **What remains.** 51 of 65 features appear in all three traditions,
+  among them heightened wakefulness, stillness, silence, simplicity, calm,
+  bliss, a knowing distinct from knowledge of things, freedom, unity and
+  depth (pp. 40, 44). The states are contentless only "in the limited
+  sense that they lack well recognized forms of content such as thoughts,
+  perceptions, and mental images" (p. 44).
+- **What differs.** Shamatha's goal-state has "exceptional" stability and
+  vividness of attention, holding for hours; TM and Stillness
+  practitioners cycle in and out (§3.16). Four differences in all; 47
+  features unclear.
+- **Recognised afterwards.** The state is said to be recognised only on
+  emerging from it (p. 13).
+- **Interpretation, in passing.** Wallace holds that "implicit or
+  subliminal conceptualization persists" in the absence of conscious
+  concepts and can make apparently identical states differ (p. 36). The
+  texts also say two meditators "may have the same experience but
+  interpret it differently" (p. 26).
+- **The limit.** Teachers' texts are not participants' reports, and the
+  authors say so (p. 47). Coding was mainly by one author, a Stillness
+  Meditation practitioner of over 20 years.
 
 ## Why this is here
 
 The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this synthesis for its finding that ostensibly contentless meditative experiences keep features such as wakefulness and calm. On the exchange's reading, the cases offered as experience without interpretation may still carry interpretive structure. Bears on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).
+
+The reading confirms the exchange's description and adds to it. The
+paper finds wakefulness and calm, as the exchange said, but it never
+analyses the states in terms of interpretation. The claim that these
+states "may still carry interpretive structure" is the exchange's. The
+paper's nearest material is the two passages above: one teacher's view
+that unconscious conceptualization shapes the state, and the texts'
+statement that interpretation can follow an experience and differ while
+the experience does not. They point in opposite directions; see
+NOTE-tmpz0x5w, Bearing on the record.
+
+Filed from this work on 2026-10-22: THEORY-tmp1lndf, on what the expert
+texts describe.

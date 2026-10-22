@@ -1,9 +1,9 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-21, not read. Registered from the owner's exchange of 2026-10-21, "Experience and interpretation", on whether experience is constituted by interpretation. No NOTE is filed.
+  no lawful copy reached, 2026-10-22; failed on access. The book is in copyright and not open access (Unpaywall and OpenAlex: closed). Cambridge Core offers the chapter only behind "Get access". The Internet Archive's lending library holds the book (reasontruthhisto0000putn, access-restricted, borrowable with an account), which this client cannot borrow. PhilPapers returned 403. Two other Internet Archive items of the whole book sit in its user-upload "opensource" collection with no sign of the publisher's permission, and were not used. The summary is the chapter's standard reading, unchecked. Registered from the owner's exchange of 2026-10-21, "Experience and interpretation". No NOTE is filed.
 title: 'Brains in a vat'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-21'
@@ -16,6 +16,24 @@ history:
     gives a month or day. `published:` keeps Crossref's full date, as the
     record has done for other year-end placeholders in Crossref, and means
     1981, to the year.
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Unavailable under ADR-041: a lawful full text was looked for on
+    2026-10-22 and not reached. Unpaywall and OpenAlex, for the chapter and
+    the book DOI: closed, no OA location. Cambridge Core
+    (cambridge.org/core/books/abs/reason-truth-and-history/brains-in-a-vat/4301D7FCC5869697D0110E89CAA1A47B):
+    abstract page with "Get access" only. Internet Archive advanced search
+    for the title and author: one lending-library copy,
+    reasontruthhisto0000putn (access-restricted, needs a borrowing
+    account), and two whole-book uploads in the user "opensource"
+    collection (HilaryPutnam; hilary-putnam-reason-truth-and-history-1981)
+    with no indication of permission, not treated as lawful and not
+    opened. PhilPapers: 403. A web search found secondary accounts only
+    (the Internet Encyclopedia of Philosophy's entry on the argument). It
+    failed on access, not availability: the owner could borrow the lending
+    copy or use library access. It returns to reading when a copy is
+    supplied.
 tags:
 - philosophy-of-language
 - epistemology
@@ -41,8 +59,9 @@ summary: >-
 
 Putnam, H. (1981). Brains in a vat. In *Reason, Truth and History*, pp. 1–21. Cambridge: Cambridge University Press. doi:10.1017/CBO9780511625398.003.
 
-Not read. The summary is drawn from the abstract or from what the work is
-standardly cited for. A reading should check it first.
+Not read: no lawful copy was reached on 2026-10-22 (see the status note).
+The summary is drawn from what the chapter is standardly cited for, and a
+reading should check it first.
 
 ## Why this is here
 
