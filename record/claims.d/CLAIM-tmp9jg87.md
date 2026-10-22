@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; agency is exercised through perspectives, and its exercise can transform them'
+title: 'Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent''s activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open'
 version: 1
 role: thesis
 warrant: interpretive
@@ -35,7 +35,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-tmp8lheg CLAIM-tmpqktfo TERM-063 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-tmp9jg87: Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; agency is exercised through perspectives, and its exercise can transform them
+# CLAIM-tmp9jg87: Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent's activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open
 
 ## The claim
 
@@ -62,9 +62,16 @@ The claim has three parts.
    [CLAIM-388](CLAIM-388.md) is the record's formal case: a dynamically closed collective
    variable need not be a bounded subsystem, and closure does not by itself
    individuate an agent.
-3. **The relation runs both ways.** "**agency is exercised through
-   perspectives, while the exercise of agency can itself produce and
-   transform perspectives**." [CLAIM-275](CLAIM-275.md) already says an intervention can
+3. **Where they meet, the relation runs both ways.** A38: "**agency is
+   exercised through perspectives, while the exercise of agency can itself
+   produce and transform perspectives**." The claim takes the narrower
+   form: where an organizational perspective contributes to an agent's
+   activity, it can enable and constrain the exercise of agency, and that
+   exercise can in turn reproduce or transform the perspective. Whether
+   agency universally requires such perspectival organization is left
+   open (below, and [QUESTION-tmpmzijj](../questions.d/QUESTION-tmpmzijj.md)). (Narrowed the same day after a
+   review the owner relayed, which found the universal wording in tension
+   with what the claim declines to say.) [CLAIM-275](CLAIM-275.md) already says an intervention can
    come before the interpretation it makes available; a fighter can find an
    opening by moving, not only see it first.
 

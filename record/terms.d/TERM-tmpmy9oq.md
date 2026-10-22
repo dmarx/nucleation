@@ -55,8 +55,12 @@ should say which.
    ([CASE-tmpd12oz](../cases.d/CASE-tmpd12oz.md)).
 4. **Organizational closure.** The technical condition of [TERM-070](TERM-070.md): a set
    of constraints each of which depends on another in the set for its
-   maintenance. It is the strongest sense, and not the default, so that a
-   disputed criterion of autonomy is not built into "organization" or into
+   maintenance. It is a distinct, more demanding technical condition, not
+   the top of a scale of organization: the four senses are not a
+   hierarchy, and an institution is not a stronger case of arrangement
+   than a maintained process. Closure is not the default, and does not
+   follow from being organized or maintained, so that a disputed
+   criterion of autonomy is not built into "organization" or into
    "perspective". [TERM-072](TERM-072.md) already declines to make self-maintenance part
    of sense 1 for this reason.
 

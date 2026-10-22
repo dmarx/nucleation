@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'A perspective''s continued existence is not its operational availability: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition'
+title: 'The cessation of an organizational perspective''s enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition'
 version: 1
 role: thesis
 warrant: interpretive
@@ -9,9 +9,11 @@ defeated_if: >-
   any independent evidence, so that "interruption" names only the
   observed absence of a perspective's exercise; or in which what returns
   after an interruption is always either fully continuous or wholly new,
-  so that reinstatement and reconstruction need no distinction. For the
-  doorway effect in particular, defeated if the effect is shown to be
-  artefact, which the mixed replications leave open.
+  so that reinstatement and reconstruction need no distinction. The
+  doorway effect is one illustration, not a ground of the distinction: if
+  it proved an artefact, which the mixed replications leave open, that
+  would remove the illustration from CASE-tmprzyow and leave the three
+  kinds of interruption standing.
 tags:
 - cognition
 - individuation
@@ -38,11 +40,21 @@ summary: >-
   says only that both separate a capacity's existence from the
   availability of the conditions for exercising it.
 ---
-<!-- inactive-ok-file: CLAIM-287 CLAIM-413 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-287 CLAIM-413 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CLAIM-tmpj73lm: A perspective's continued existence is not its operational availability: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition
+# CLAIM-tmpj73lm: The cessation of an organizational perspective's enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition
 
 ## The claim
+
+What persists through an interruption is not the realization itself.
+[TERM-072](../terms.d/TERM-072.md)'s sense 1 is a dynamically realized regime; when it stops
+operating, that realization does not go on existing unexercised. What can
+persist is a disposition in a carrier, a capacity to reinstate the regime
+([TERM-071](../terms.d/TERM-071.md)'s reinstatable persistence), a lineage, or the resources from
+which a later realization can be made. The claim is about those. (Title
+and this paragraph revised the same day after a review the owner relayed:
+the first version said a perspective's "continued existence" differs from
+its availability, which sits badly with sense 1.)
 
 The owner, at U37 of the branch: "I think we also may have landed on a
 likely (at least partial) simple, high-level explanation (or at the very
