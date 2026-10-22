@@ -32,6 +32,7 @@ implementations: []
 summary: >-
   Rogers Commission (1986). The presidential commission's report on the loss of Challenger on 28 January 1986. It traces the O-ring failure to a history of erosion that had been accepted flight by flight, recounts Morton Thiokol's reversal of its engineers' recommendation against launch on 27 January, and finds the safety, reliability and quality-assurance functions "silent".
 ---
+<!-- inactive-ok-file: THEORY-140 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpyjvez: Report of the Presidential Commission on the Space Shuttle Challenger Accident
 

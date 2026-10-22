@@ -28,6 +28,7 @@ implementations: []
 summary: >-
   Wacquant (2016). Traces the concept of habitus from Aristotle to Bourdieu and sets out its anatomy: socially acquired, durable but not fixed dispositions that can be layered and internally discordant, and that must be studied together with the social worlds that form and solicit them.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8lheg — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpd4qxn: A Concise Genealogy and Anatomy of Habitus
 

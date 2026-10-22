@@ -36,6 +36,8 @@ summary: >-
   to entrench, which A36 kept apart as a further claim needing its own
   evidence.
 ---
+<!-- inactive-ok-file: LIT-tmpv9nx9 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-190 CLAIM-402 THEORY-854 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmp6bxtr: Competing perspectives compete over the tests that measure them as well as under them: success under an evaluative regime is evidence of competence relative to that regime, a fair test need not be neutral across competences, and a perspective that gains influence over the test can change what later success shows
 

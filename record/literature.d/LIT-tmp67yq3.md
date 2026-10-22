@@ -30,6 +30,7 @@ summary: >-
 supports:
 - CLAIM-tmp3gvbj
 ---
+<!-- inactive-ok-file: CLAIM-tmp3gvbj — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmp67yq3: Pluralistic ignorance and alcohol use on campus: Some consequences of misperceiving the social norm
 

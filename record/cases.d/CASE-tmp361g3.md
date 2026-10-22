@@ -21,6 +21,8 @@ summary: >-
   domination is too simple. Not shown: where a legitimate precommitment
   ends and an unaccountable one begins.
 ---
+<!-- inactive-ok-file: LIT-tmpr6hom — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-344 CLAIM-362 CLAIM-364 THEORY-067 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmp361g3: The voluntary delegation: a person gives a friend the password to a distracting application during a calm period and is refused it later under temptation, while another person lives under the same restriction imposed without consent
 

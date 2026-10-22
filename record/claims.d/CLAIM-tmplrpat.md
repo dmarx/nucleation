@@ -35,6 +35,8 @@ summary: >-
   ([THEORY-140](../theory.d/THEORY-140.md)). The edge: a recorded correction is evidence of a
   correction, not of its maintenance.
 ---
+<!-- inactive-ok-file: LIT-tmpdahyq — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-025 THEORY-140 THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmplrpat: A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained
 

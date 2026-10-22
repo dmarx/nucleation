@@ -23,6 +23,8 @@ summary: >-
   organization from continuity of any person in it. Not shown: anything
   about whether the response is experienced.
 ---
+<!-- inactive-ok-file: LIT-tmp0j9b9 QUESTION-009 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-329 CLAIM-355 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpo48af: Northstar's commander handoff: twelve hours into an incident the commander goes off shift and hands command to a colleague, and the response continues without disruption and with no one continuous through it
 

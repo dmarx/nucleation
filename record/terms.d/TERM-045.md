@@ -56,6 +56,7 @@ used_by:
 - CLAIM-355
 - CLAIM-tmp8lheg
 ---
+<!-- inactive-ok-file: CLAIM-tmp8lheg CLAIM-tmpqktfo TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-155 CLAIM-196 — Proposed; claims named as using particular senses, open -->
 

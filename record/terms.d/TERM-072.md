@@ -54,6 +54,7 @@ used_by:
 - CLAIM-tmp8lheg
 - CLAIM-tmpqktfo
 ---
+<!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-tmp8lheg CLAIM-tmpqktfo — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
 # TERM-072: perspective, and which sense: organizational, represented or phenomenal

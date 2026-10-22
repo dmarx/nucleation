@@ -28,6 +28,7 @@ implementations: []
 summary: >-
   Pierson (2000). Argues that political processes are often marked by increasing returns, so that early events and their timing lock in institutions and paths that later events cannot easily reverse.
 ---
+<!-- inactive-ok-file: CLAIM-tmppkmq0 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmp6uzps: Increasing Returns, Path Dependence, and the Study of Politics
 

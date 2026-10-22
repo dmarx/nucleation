@@ -33,6 +33,7 @@ implementations: []
 summary: >-
   GAO (2002). Found that NASA's lessons-learned system was little used by its program and project managers, and that the agency had no assurance that lessons from earlier failures were being applied.
 ---
+<!-- inactive-ok-file: CLAIM-tmplrpat — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpdahyq: NASA: Better Mechanisms Needed for Sharing Lessons Learned
 

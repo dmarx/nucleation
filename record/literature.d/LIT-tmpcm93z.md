@@ -34,6 +34,7 @@ implementations: []
 summary: >-
   Aevyra (2026). A formal account of memory for persistent agents whose central requirement is "revision sufficiency": retained state must support a declared family of future questions, interventions and changes of evaluative law. It characterizes exact revision sufficiency for finite histories by a factorization condition, derives a lower bound on representation size, and proposes an architecture that keeps grounds and counterevidence with each commitment.
 ---
+<!-- inactive-ok-file: CLAIM-295 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpcm93z: The Ledger of Will: Evidence, Revaluation, and the Preservation of Revisable Agency
 

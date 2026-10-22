@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'The graph that asserted an inference nobody made: filing one claim as supporting another made the record''s link fixer write that the other rested on it, and the record answered by adding a relation (ADR-044)'
+title: 'The graph that asserted an inference nobody made: filing one claim as supporting another made the record''s link fixer write that the other rested on it, and the record answered by adding a relation'
 version: 1
 standing: documented
 kind: specimen
@@ -20,8 +20,9 @@ summary: >-
   is a move the grammar could not hold, caught and answered by amending the
   grammar. Not shown: that such moves are always caught.
 ---
+<!-- inactive-ok-file: CLAIM-181 CLAIM-296 CLAIM-tmpbgq5o — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-tmp8jhbm: The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation ([ADR-044](../decisions.d/ADR-044.md))
+# CASE-tmp8jhbm: The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation
 
 ## The case
 

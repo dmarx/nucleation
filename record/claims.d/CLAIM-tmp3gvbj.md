@@ -38,6 +38,8 @@ summary: >-
   common attitudes, [CASE-104](../cases.d/CASE-104.md)); what is new is its place in a person's own
   organization.
 ---
+<!-- inactive-ok-file: LIT-tmp67yq3 LIT-tmpe57xy LIT-tmps52bn — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-349 CLAIM-355 CLAIM-402 THEORY-242 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmp3gvbj: A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential
 

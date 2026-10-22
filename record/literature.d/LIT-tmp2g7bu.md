@@ -27,6 +27,7 @@ implementations: []
 summary: >-
   Swidler (1986). Recasts culture as a "tool kit" of symbols, stories, rituals and skills from which people construct strategies of action, and not as values that set the ends of action; culture's effects differ between settled and unsettled periods.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8lheg — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmp2g7bu: Culture in Action: Symbols and Strategies
 

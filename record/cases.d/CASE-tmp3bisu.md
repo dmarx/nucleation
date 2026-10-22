@@ -19,6 +19,7 @@ summary: >-
   suppression, and ordinary operation cannot tell which. Not shown: how
   often either occurs in persons or institutions.
 ---
+<!-- inactive-ok-file: CLAIM-349 CLAIM-364 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmp3bisu: The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears
 

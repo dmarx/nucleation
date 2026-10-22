@@ -62,6 +62,8 @@ illustrated_by:
 - CASE-116
 - CASE-tmpd12oz
 ---
+<!-- inactive-ok-file: LIT-tmpgwc45 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-287 CLAIM-tmp8lheg CLAIM-tmpdfe07 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: LIT-1124 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

@@ -20,6 +20,7 @@ summary: >-
   and persist at all, and what more makes one self-governing. An answer
   would keep the two apart.
 ---
+<!-- inactive-ok-file: CLAIM-278 CLAIM-364 CLAIM-tmp8lheg CLAIM-tmpqktfo — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmpjr6om: How do populations of heterogeneous processes generate, reproduce and transform organizational perspectives, and what further conditions let such a perspective become the object of its own effective governance?
 

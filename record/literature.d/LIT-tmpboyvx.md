@@ -30,6 +30,7 @@ implementations: []
 summary: >-
   Putnam (1988). Models international negotiation as two games played at once: a negotiator bargains with foreign counterparts while any agreement must be ratified at home, so domestic coalitions set the win-set within which an international deal is possible.
 ---
+<!-- inactive-ok-file: CLAIM-tmppkmq0 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpboyvx: Diplomacy and domestic politics: the logic of two-level games
 

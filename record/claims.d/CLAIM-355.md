@@ -78,6 +78,7 @@ illustrated_by:
 - CASE-tmpo48af
 - CASE-tmpsp3d4
 ---
+<!-- inactive-ok-file: CLAIM-tmp3gvbj — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; the organizational-affect line, set aside by the owner, cited as the line this claim would rest on, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 CLAIM-288 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
 

@@ -31,6 +31,8 @@ summary: >-
   rests on [CLAIM-331](CLAIM-331.md), that higher-level variables are characteristically
   slower, and denies that slowness alone settles which level governs.
 ---
+<!-- inactive-ok-file: LIT-tmp6uzps LIT-tmpboyvx — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-027 CLAIM-327 CLAIM-331 CLAIM-tmp8lheg — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmppkmq0: In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: their relative speeds help decide which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
 

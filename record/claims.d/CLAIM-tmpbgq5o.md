@@ -26,6 +26,7 @@ summary: >-
   case ([ADR-032](../decisions.d/ADR-032.md)'s literature roles) where a recurring move was left in
   prose.
 ---
+<!-- inactive-ok-file: CLAIM-181 CLAIM-190 CLAIM-195 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmpbgq5o: The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown
 

@@ -24,6 +24,8 @@ summary: >-
   Not shown: that the department's safety culture changed, or what the
   review's recommendations were, since the report was not read.
 ---
+<!-- inactive-ok-file: LIT-tmpadp9d — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-027 CLAIM-tmplrpat — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpqq6jz: The Brookhollow Apartments fire, Wichita, 2023: a mayday for four firefighters caught in a stairwell collapse opens a second emergency inside a search for a trapped resident, and an independent review finds an unorganized rescue effort without finding that it changed the outcome
 

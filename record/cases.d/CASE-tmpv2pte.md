@@ -23,6 +23,9 @@ summary: >-
   rules, and a capacity not maintained. Not shown: why the correction
   decayed, which [THEORY-140](../theory.d/THEORY-140.md) explains and this case only displays.
 ---
+<!-- inactive-ok-file: LIT-tmpdahyq LIT-tmpyjvez — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-403 CLAIM-tmp6bxtr CLAIM-tmplrpat THEORY-140 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-715 — Unavailable; works sought and not reached, cited as unread -->
 
 # CASE-tmpv2pte: Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that the same organizational cause had returned, while its lessons-learned system was little used in between
 

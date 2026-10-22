@@ -62,6 +62,7 @@ illustrated_by:
 supports:
 - CLAIM-361
 ---
+<!-- inactive-ok-file: CLAIM-tmp8lheg CLAIM-tmpqktfo — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-025 CLAIM-165 CLAIM-194 CLAIM-288 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-284: A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists

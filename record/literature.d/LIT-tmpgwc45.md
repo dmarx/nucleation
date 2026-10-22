@@ -28,6 +28,7 @@ implementations: []
 summary: >-
   Taylor (1989). Shows that the American women's movement did not vanish between 1945 and the mid-1960s but persisted in abeyance, in small, committed organizations that kept networks, goals and identity alive and supplied the later movement.
 ---
+<!-- inactive-ok-file: CLAIM-287 CLAIM-tmpdfe07 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpgwc45: Social Movement Continuity: The Women's Movement in Abeyance
 

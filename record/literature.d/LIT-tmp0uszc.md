@@ -28,6 +28,7 @@ implementations: []
 summary: >-
   Abbott (2005). Treats professions, states and universities as interacting ecologies, each an environment for the others, in which actors seek alliances across ecologies ("hinges") and contests in one ecology are settled partly by resources in another.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8lheg CLAIM-tmppkmq0 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmp0uszc: Linked Ecologies: States and Universities as Environments for Professions
 

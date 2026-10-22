@@ -22,6 +22,8 @@ summary: >-
   shown by it: that the unity of his present experience is an illusion, or
   that his denials of past consciousness are evidence of its absence.
 ---
+<!-- inactive-ok-file: LIT-tmp4zg8a LIT-tmp5e61u — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-355 CLAIM-tmp8lheg THEORY-060 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpsp3d4: Clive Wearing: a musician left by encephalitis with almost no memory of his past and none of the last minutes, who still plays, sight-reads and conducts, keeps his attachment to his wife, and writes over and over that he has just become conscious for the first time
 

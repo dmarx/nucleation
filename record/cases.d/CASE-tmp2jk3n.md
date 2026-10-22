@@ -20,6 +20,8 @@ summary: >-
   changed the organization of authority, not its holder. Not shown: that
   CRM caused the later fall in accidents, which the case does not test.
 ---
+<!-- inactive-ok-file: LIT-tmp6l0tg LIT-tmplaidn — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-349 CLAIM-tmpqktfo — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmp2jk3n: United 173 and Crew Resource Management: a crew that knew the fuel was running out and did not make the captain act, and the training that followed, which opened routes for challenge without abolishing the captain's command
 

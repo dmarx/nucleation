@@ -21,6 +21,8 @@ summary: >-
   perspectives, or that any present party continues a historical one's
   character, which are the owner's U29 framings the replies declined.
 ---
+<!-- inactive-ok-file: LIT-tmpeyhra LIT-tmpgwc45 LIT-tmpq7qxl — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-329 CLAIM-tmp8lheg CLAIM-tmppkmq0 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpd12oz: American party realignment: each major party kept its name and organizational continuity across the twentieth century while its coalition and its stance on civil rights changed, and the change began in state parties, unions and constituencies before it reached national leaders
 

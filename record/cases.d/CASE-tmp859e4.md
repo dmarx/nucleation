@@ -24,6 +24,8 @@ summary: >-
   general; and the historical particulars, which are the replies' summary
   of an unread source.
 ---
+<!-- inactive-ok-file: LIT-tmpd4qxn LIT-tmpv9nx9 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-tmp6bxtr CLAIM-tmp8lheg — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmp859e4: Gracie jiu-jitsu against luta livre: two Brazilian grappling traditions whose contests were fought over the rules as well as under them, and whose matches placed them in a racial hierarchy as well as ranking them by results
 

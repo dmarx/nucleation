@@ -29,6 +29,7 @@ implementations: []
 summary: >-
   Sewell (1992). Revises Giddens's duality of structure: structures are mutually sustaining cultural schemas and sets of resources, and because schemas are transposable and resources ambiguous, the same structures that enable action also make their own transformation possible.
 ---
+<!-- inactive-ok-file: CLAIM-tmp8lheg — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpi7s4h: A Theory of Structure: Duality, Agency, and Transformation
 

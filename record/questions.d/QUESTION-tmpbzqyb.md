@@ -18,6 +18,7 @@ summary: >-
   choice of claims for one should optimize, and how to test that against
   the record's own history.
 ---
+<!-- inactive-ok-file: CLAIM-178 CLAIM-190 CLAIM-266 CLAIM-301 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmpbzqyb: Should a manuscript drawn from the record be chosen as a well-supported connected part of its argument, or as a smallest set of claims that changes what the argument can conclude, and what else must the choice preserve?
 

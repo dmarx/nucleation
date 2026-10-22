@@ -31,6 +31,7 @@ summary: >-
 supports:
 - CLAIM-tmp3gvbj
 ---
+<!-- inactive-ok-file: CLAIM-tmp3gvbj — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmps52bn: The Majority Illusion in Social Networks
 

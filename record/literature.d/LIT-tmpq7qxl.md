@@ -34,6 +34,7 @@ implementations: []
 summary: >-
   Acharya, Blackwell and Sen (2016). White Southerners in counties where slavery was more prevalent in 1860 are today more conservative and more racially resentful, and the authors argue the difference was transmitted across generations through local institutions and families, not explained by present-day demography.
 ---
+<!-- inactive-ok-file: CLAIM-tmpdfe07 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpq7qxl: The Political Legacy of American Slavery
 

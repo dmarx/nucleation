@@ -30,6 +30,8 @@ summary: >-
   survives is the distinction: "The persistence of a story about someone
   is not equivalent to the persistence of that person's perspective."
 ---
+<!-- inactive-ok-file: LIT-tmpgwc45 LIT-tmpq7qxl — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-327 CLAIM-329 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmpdfe07: A historical figure's influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone descends from them without continuing their perspective
 

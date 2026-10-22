@@ -32,6 +32,7 @@ summary: >-
   defer maintenance, generating anomalies that satisfy the emergency
   criteria and keep the restrictions in place (Section 6.1).
 ---
+<!-- inactive-ok-file: CLAIM-349 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-036: Northstar emergency governance that sustains itself
 

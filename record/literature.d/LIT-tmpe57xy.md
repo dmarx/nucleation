@@ -30,6 +30,7 @@ implementations: []
 summary: >-
   Cooley (1902). Introduces the "looking-glass self": a person's idea of self is formed by imagining how they appear to others, imagining the others' judgement of that appearance, and feeling pride or mortification in response.
 ---
+<!-- inactive-ok-file: CLAIM-tmp3gvbj — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # LIT-tmpe57xy: Human Nature and the Social Order
 
