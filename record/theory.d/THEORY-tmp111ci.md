@@ -27,7 +27,7 @@ source:
 answers:
 - QUESTION-048
 summary: >-
-  Gurnee, Sofroniew et al. (2026), LIT-tmp9k9lx, read in NOTE-tmpyc06q
+  Gurnee, Sofroniew et al. (2026), [LIT-tmp9k9lx](../literature.d/LIT-tmp9k9lx.md), read in [NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md)
   (main text in full, appendices in part). It is the functional analogue
   of conscious access, in the access sense only, found in a transformer and
   tested by intervention. The sharp edge: one company's models studied by
@@ -43,7 +43,7 @@ summary: >-
 ## Source
 
 Gurnee, Sofroniew, … Lindsey (2026), "Verbalizable Representations Form a
-Global Workspace in Language Models", LIT-tmp9k9lx, read in NOTE-tmpyc06q
+Global Workspace in Language Models", [LIT-tmp9k9lx](../literature.d/LIT-tmp9k9lx.md), read in [NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md)
 from arXiv:2607.15495v1: §§2–4 (pp. 6–37), §9.1 (pp. 54–55), §9.3–9.4
 (pp. 56–60) and appendices A.12, A.15 and A.16. The models are Claude
 Sonnet 4.5, Haiku 4.5, Opus 4.5 and Opus 4.6.
@@ -111,22 +111,22 @@ evidence of access can be had, and tested by intervention, in a system
 with no cortex and no biology. Its limit is the question's first half:
 it reaches access only, and the authors say so.
 
-- **THEORY-091.** The selectivity results are the deficit structure that
-  THEORY-091 discusses, a capacity used without being reportable, here
+- **[THEORY-091](THEORY-091.md).** The selectivity results are the deficit structure that
+  [THEORY-091](THEORY-091.md) discusses, a capacity used without being reportable, here
   produced by an intervention of known scope. The authors draw the
   blindsight parallel (p. 58).
-- **THEORY-096.** The onset band and the bimodal commitment of ambiguous
+- **[THEORY-096](THEORY-096.md).** The onset band and the bimodal commitment of ambiguous
   inputs are the paper's analogue of ignition. The authors say it is
   unclear whether it mirrors the brain's (p. 4).
-- **THEORY-023.** Its architectural indicator is checked directly here,
-  not by checklist, but only under the functionalism THEORY-023 says such
+- **[THEORY-023](THEORY-023.md).** Its architectural indicator is checked directly here,
+  not by checklist, but only under the functionalism [THEORY-023](THEORY-023.md) says such
   indicators presuppose. The paper says as much (p. 58).
-- **THEORY-tmp9o12p** is the experiential-report result from the same
+- **[THEORY-tmp9o12p](THEORY-tmp9o12p.md)** is the experiential-report result from the same
   paper, which rests on this structure.
-- **THEORY-tmpvpggv.** Integration measured by the same decomposition as
+- **[THEORY-tmpvpggv](THEORY-tmpvpggv.md).** Integration measured by the same decomposition as
   the paper's cited Urbina-Rodríguez et al. finds a middle-layer
   synergistic core in language models; the two have not been compared.
-- **CLAIM-tmp1lvwf**, **CLAIM-tmpdga80** and **TERM-tmpe36gg.** It gives the
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md)**, **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md)** and **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).** It gives the
   record a machine case of interpretation outside access, and of an
   access-like organization into which training installs a represented
-  standpoint. NOTE-tmpyc06q sets out how each claim must treat it.
+  standpoint. [NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md) sets out how each claim must treat it.

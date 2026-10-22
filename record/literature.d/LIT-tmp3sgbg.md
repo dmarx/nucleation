@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmpg26n5) from the version of record deposited in PubMed Central (PMC9396309, JATS full text via Europe PMC; the OUP PDF returned 403); worth reading as the most explicit statement of phenomenal structuralism as an ontology: each specific phenomenal character is fully individuated by its place in a quality space, that space is mirrored by a surjective homomorphism from neural feature maps, and holism and the impossibility of nomological spectrum inversion follow. It is the statement Negro and Aldé quote as their target. It is programmatic: nothing is tested, the neural half rests on one cited V4 study, it addresses only which experience a conscious state is and not whether it is conscious, and its reduction rests on metaphysically necessary supervenience that the author says he cannot argue for.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmpg26n5](../notes.d/NOTE-tmpg26n5.md)) from the version of record deposited in PubMed Central (PMC9396309, JATS full text via Europe PMC; the OUP PDF returned 403); worth reading as the most explicit statement of phenomenal structuralism as an ontology: each specific phenomenal character is fully individuated by its place in a quality space, that space is mirrored by a surjective homomorphism from neural feature maps, and holism and the impossibility of nomological spectrum inversion follow. It is the statement Negro and Aldé quote as their target. It is programmatic: nothing is tested, the neural half rests on one cited V4 study, it addresses only which experience a conscious state is and not whether it is conscious, and its reduction rests on metaphysically necessary supervenience that the author says he cannot argue for.'
 title: 'Neurophenomenal structuralism. A philosophical agenda for a structuralist neuroscience of consciousness'
 version: 2
 history:
@@ -62,7 +62,7 @@ Lyre, H. (2022). Neurophenomenal structuralism. A philosophical agenda for a str
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpg26n5.*
+*From the reading, [NOTE-tmpg26n5](../notes.d/NOTE-tmpg26n5.md).*
 
 - **The two assumptions.** "Any phenomenal experience is fully
   individuated by its place in a Q-structure. Phenomenal content and
@@ -90,8 +90,8 @@ Lyre, H. (2022). Neurophenomenal structuralism. A philosophical agenda for a str
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper for individuating phenomenal qualities by their position in quality spaces, and noted that Lyre separates this from structural realism in the philosophy of science. It addresses the character of experiences, not why any process is conscious at all. Bears on CLAIM-tmpdga80 and, by analogy, CLAIM-136.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper for individuating phenomenal qualities by their position in quality spaces, and noted that Lyre separates this from structural realism in the philosophy of science. It addresses the character of experiences, not why any process is conscious at all. Bears on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) and, by analogy, [CLAIM-136](../claims.d/CLAIM-136.md).
 
-The reading bears this description out. Lyre states the separation from structural realism himself, and limits the view to the specific character of experiences. Against CLAIM-tmpdga80, Lyre holds the character half of the claim, organization fixing which experience it is, and not its occurrence half. For CLAIM-136, his structural individuation is the claim's strict version in another domain, and his treatment of inversion shows its cost: structurally indiscernible experiences would be one experience.
+The reading bears this description out. Lyre states the separation from structural realism himself, and limits the view to the specific character of experiences. Against [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md), Lyre holds the character half of the claim, organization fixing which experience it is, and not its occurrence half. For [CLAIM-136](../claims.d/CLAIM-136.md), his structural individuation is the claim's strict version in another domain, and his treatment of inversion shows its cost: structurally indiscernible experiences would be one experience.
 
-Filed from this work on 2026-10-22: THEORY-tmpv5rmc, on phenomenal character as place in a quality space mirrored by neural maps.
+Filed from this work on 2026-10-22: [THEORY-tmpv5rmc](../theory.d/THEORY-tmpv5rmc.md), on phenomenal character as place in a quality space mirrored by neural maps.

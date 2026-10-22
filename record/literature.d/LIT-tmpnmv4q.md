@@ -1,10 +1,10 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-22 (NOTE-tmpkgdyu) from the publisher's open-access
+  read in full 2026-10-22 ([NOTE-tmpkgdyu](../notes.d/NOTE-tmpkgdyu.md)) from the publisher's open-access
   version of record (CC BY 4.0); worth reading as the cross-species,
   causal extension of the same group's synergistic-workspace result
-  (LIT-949): pairwise integrated information ΦR from resting fMRI falls
+  ([LIT-949](LIT-949.md)): pairwise integrated information ΦR from resting fMRI falls
   under anaesthesia in humans, macaques, marmosets and mice and returns
   with responsiveness, including when central thalamic stimulation
   re-awakens two anaesthetized macaques, and it tracks arousal better than
@@ -13,7 +13,7 @@ status_note: >-
   "presumably consciousness" and an "imperfect marker". It is also
   pairwise, linear-Gaussian, at rest and content-free, and the causal arm
   rests on two animals. The PVALB and modelling results are correlational
-  and model-bound. Filed as THEORY-tmpvpggv.
+  and model-bound. Filed as [THEORY-tmpvpggv](../theory.d/THEORY-tmpvpggv.md).
 title: 'Convergent transcriptomic and connectomic controllers of information integration and its anaesthetic breakdown across mammalian brains'
 version: 2
 history:
@@ -84,7 +84,7 @@ Luppi, A. I., Uhrig, L., Tasserie, J., Mediano, P. A. M., Rosas, F. E., Singleto
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpkgdyu.*
+*From the reading, [NOTE-tmpkgdyu](../notes.d/NOTE-tmpkgdyu.md).*
 
 - **The measure.** ΦR is the original whole-minus-sum Φ with the
   persistent redundancy added back, since the naive sum of the parts
@@ -117,4 +117,4 @@ Luppi, A. I., Uhrig, L., Tasserie, J., Mediano, P. A. M., Rosas, F. E., Singleto
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this study for its finding across four species that integration breaks down under anaesthesia, and that thalamic stimulation reverses the breakdown in macaques. The reading confirms that description, with two qualifications: the reversal rests on two macaques, and what breaks down is a content-free statistical integration that goes with responsiveness, not interpretation in TERM-tmpgqmop's sense. It measures integration, not the constitution of experience. The record holds the same group's synergistic workspace paper, LIT-949, which this one cites as ref. 45; it half meets THEORY-240's promotion test, restoring ΦR by thalamic stimulation without showing that the restored ΦR is on the gateway side. Bears on QUESTION-048, as deficit-and-recovery evidence whose marker is access, and on CLAIM-tmpdga80 and CLAIM-tmp1lvwf, where integration is one candidate condition. Filed from this reading: THEORY-tmpvpggv. It carries no instruction for machine-learning practice.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this study for its finding across four species that integration breaks down under anaesthesia, and that thalamic stimulation reverses the breakdown in macaques. The reading confirms that description, with two qualifications: the reversal rests on two macaques, and what breaks down is a content-free statistical integration that goes with responsiveness, not interpretation in [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md)'s sense. It measures integration, not the constitution of experience. The record holds the same group's synergistic workspace paper, [LIT-949](LIT-949.md), which this one cites as ref. 45; it half meets [THEORY-240](../theory.d/THEORY-240.md)'s promotion test, restoring ΦR by thalamic stimulation without showing that the restored ΦR is on the gateway side. Bears on [QUESTION-048](../questions.d/QUESTION-048.md), as deficit-and-recovery evidence whose marker is access, and on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) and [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md), where integration is one candidate condition. Filed from this reading: [THEORY-tmpvpggv](../theory.d/THEORY-tmpvpggv.md). It carries no instruction for machine-learning practice.

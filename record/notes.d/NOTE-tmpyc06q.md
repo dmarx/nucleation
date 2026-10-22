@@ -314,16 +314,16 @@ The lens descends from the logit lens and the tuned lens and borrows
 Hernandez et al.'s averaged Jacobian. The introspection protocol is
 Lindsey's "Emergent introspective awareness in large language models"
 (2025, ref. 97). The framing is Baars's and Dehaene's global workspace,
-with Mashour et al. (2020), which the record holds as LIT-631, as its
+with Mashour et al. (2020), which the record holds as [LIT-631](../literature.d/LIT-631.md), as its
 neuronal statement. Access consciousness is defined after Block (1995,
-LIT-643) and Chalmers (1996). The paper offers its results as a test of
-Butlin et al.'s indicator properties, which the record holds as LIT-056.
+[LIT-643](../literature.d/LIT-643.md)) and Chalmers (1996). The paper offers its results as a test of
+Butlin et al.'s indicator properties, which the record holds as [LIT-056](../literature.d/LIT-056.md).
 It reads the J-space as a sparse subframe of the feature frame of the
-superposition picture (LIT-323). It cites Urbina-Rodríguez et al., with
+superposition picture ([LIT-323](../literature.d/LIT-323.md)). It cites Urbina-Rodríguez et al., with
 Rosas, Luppi and Mediano among the authors, who used integrated
 information decomposition to find a synergistic core in the middle layers
 of language models and connected it to the workspace. That is the method
-of LIT-949 and of this batch's Luppi et al. (LIT-tmpnmv4q), applied to a
+of [LIT-949](../literature.d/LIT-949.md) and of this batch's Luppi et al. ([LIT-tmpnmv4q](../literature.d/LIT-tmpnmv4q.md)), applied to a
 transformer, and its middle-layer core matches this paper's band. On the
 theories it cites Rosenthal and Lau for higher-order theory, Graziano for
 attention schema theory, Lamme for recurrent processing, and Searle for
@@ -332,7 +332,7 @@ Butlin, Chalmers and Dehaene, whose works the record holds.
 
 ## Bearing on the record
 
-- **QUESTION-048.** The question asks what each kind of evidence can
+- **[QUESTION-048](../questions.d/QUESTION-048.md).** The question asks what each kind of evidence can
   establish about experience as opposed to access, and whether any of it
   survives in a system without cortex or biology. This paper is the most
   direct case the record holds of the second half.
@@ -348,19 +348,19 @@ Butlin, Chalmers and Dehaene, whose works the record holds.
     structure and of a propensity to describe experience, not of
     experience. The authors grant they cannot tell grounded reports from
     "mere confabulation" (p. 27).
-  - Filed as THEORY-tmp111ci and THEORY-tmp9o12p, each with
+  - Filed as [THEORY-tmp111ci](../theory.d/THEORY-tmp111ci.md) and [THEORY-tmp9o12p](../theory.d/THEORY-tmp9o12p.md), each with
     `answers: QUESTION-048` in part.
-- **CLAIM-tmp1lvwf (most interpretation is unconscious).** The paper
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) (most interpretation is unconscious).** The paper
   supplies a machine analogue of the claim's premise. The language of a
   passage and the width of a line determine what the model does in
   continuation and line wrapping, which is interpretation in
-  TERM-tmpgqmop's sense (a distinction, in a context, with a consequence),
+  [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md)'s sense (a distinction, in a context, with a consequence),
   without routing through the reportable workspace. The authors draw the
   blindsight parallel themselves (p. 58). It also supplies a candidate
   "further organization", global availability, with an operational test.
   But the authors stop at access, so it does not meet the claim's defeater
   for experience.
-- **CLAIM-tmpdga80 (experience constituted by interpretive organization).**
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (experience constituted by interpretive organization).**
   This is the overgeneration case made concrete, as the exchange said. In
   this model, distinctions acquire significance for downstream use, are
   held, revised and reused, and after post-training are organized from
@@ -372,7 +372,7 @@ Butlin, Chalmers and Dehaene, whose works the record holds.
   does remove one escape: the organization is not merely described; it is
   realized and causally effective, as the claim's answer to Negro
   requires.
-- **CLAIM-tmpn2xr4 (representation, efficacy, allocation, maintenance
+- **[CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md) (representation, efficacy, allocation, maintenance
   come apart).** The Spanish experiment is an empirical instance of the
   claim's first distinction. The language is represented in the J-space in
   all four tasks at similar rates, but is effective only in two. Only a
@@ -380,72 +380,72 @@ Butlin, Chalmers and Dehaene, whose works the record holds.
   §3.2 is a case of efficacy allocated from inside by the task. The paper
   supports the claim's point that ordinary behaviour does not fix these
   facts. The connection is mine.
-- **TERM-tmpe36gg (perspective in three senses).** §6 and §9.3 separate
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md) (perspective in three senses).** §6 and §9.3 separate
   sense 1 from sense 2 in one system. The base model has the workspace
   organization without a privileged point of view; post-training installs
   a represented standpoint, the Assistant's, into it. The authors call
   this a dissociation of "conscious access from selfhood" (p. 57). It
   supports the term's claim that the senses come apart. It says nothing of
   sense 3.
-- **TERM-tmpgqmop (interpretation).** The paper shows that interpretation
+- **[TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md) (interpretation).** The paper shows that interpretation
   in the term's sense happens both inside and outside the workspace, so
   the term does not by itself pick out the reportable kind. That is the
   term's own stated cost.
-- **QUESTION-tmpc4j7p.** The question's third contrast is constituting
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** The question's third contrast is constituting
   against simulating or reporting, and its test is to say "what a
   sophisticated nonexperiential interpreter would lack". The paper offers a
   system with measured access, a represented self and self-monitoring
   traces, so it is the case an answer must classify. It also shows that a
   report-producing structure can be ablated with fluency intact, which is
   the kind of intervention the question's organizational half could use.
-- **QUESTION-tmpzje42 (unity as a global section).** Two results bear on it,
+- **[QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) (unity as a global section).** Two results bear on it,
   both by my reading. At the workspace onset an ambiguous input is
   committed to one reading, bimodally across prompts (§4.1.1, §A.15): a
   forced gluing at the level of access. And on prefilled preference
   violations the J-space carries BUT while the output argues the other
   way (p. 46): one process holding two local states that do not agree.
   Neither is about experience.
-- **CLAIM-tmpjw8ev (grounding apart from occurrence).** The workspace is
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) (grounding apart from occurrence).** The workspace is
   present in a base model trained only on text (§6, §9.3). So an
   access-like organization can be acquired without sensorimotor
   development, which bears on the enactive objection that claim leaves
   open, for access and not for experience. The authors' own account is
   that the workspace is verbal because the model's inputs and outputs are.
-- **CLAIM-355.** Its "constructed owner" has an analogue here: an Assistant
+- **[CLAIM-355](../claims.d/CLAIM-355.md).** Its "constructed owner" has an analogue here: an Assistant
   perspective installed by training on top of a workspace that does not
   need it, and a J-space that registers BUT and damn on the Assistant's
   behalf. The paper is silent on whether the owner is an illusion.
-- **QUESTION-046.** The paper applies one theory's criteria to a
+- **[QUESTION-046](../questions.d/QUESTION-046.md).** The paper applies one theory's criteria to a
   non-biological system and reports the classification, which is
-  QUESTION-046's standard. It applies only global workspace theory fully,
+  [QUESTION-046](../questions.d/QUESTION-046.md)'s standard. It applies only global workspace theory fully,
   and does not say whether the result is a subject.
-- **THEORY-023.** The paper says its results bear only on functionalist
-  theories (p. 58), which is THEORY-023's point that architectural
-  indicators presuppose functionalism. It does not refute THEORY-023: no
+- **[THEORY-023](../theory.d/THEORY-023.md).** The paper says its results bear only on functionalist
+  theories (p. 58), which is [THEORY-023](../theory.d/THEORY-023.md)'s point that architectural
+  indicators presuppose functionalism. It does not refute [THEORY-023](../theory.d/THEORY-023.md): no
   biological naturalist is shown to accept it. On mimicry, the finding
   that the same structure carries experiential language about anyone fits
   the worry that such reports reflect training on human text.
-- **THEORY-577 (the meta-problem).** A mechanism that produces a class of
+- **[THEORY-577](../theory.d/THEORY-577.md) (the meta-problem).** A mechanism that produces a class of
   experiential reports is identified here without mentioning experience:
   ablate it and the reports lose their felt register. That is a small,
   topic-neutral explanation of report behaviour of the kind the meta-problem
   calls for. It is not an explanation of problem intuitions, and it gives
-  no verdict on a theory, so it does not meet THEORY-577's `promote_when`.
-- **THEORY-633 (illusionism).** The J-space during self-narration is
+  no verdict on a theory, so it does not meet [THEORY-577](../theory.d/THEORY-577.md)'s `promote_when`.
+- **[THEORY-633](../theory.d/THEORY-633.md) (illusionism).** The J-space during self-narration is
   dominated by thinking and feeling, and removing it removes the felt
   register while the model still describes its processing. The authors
   read this through attention schema theory. An illusionist could take it
   as a model of how a system comes to represent its states as felt; a
   realist could take it as the access route of a real state. It does not
   decide between them.
-- **THEORY-091 and THEORY-096.** The selectivity results are a machine
-  version of the deficit structure THEORY-091 discusses, with the advantage
+- **[THEORY-091](../theory.d/THEORY-091.md) and [THEORY-096](../theory.d/THEORY-096.md).** The selectivity results are a machine
+  version of the deficit structure [THEORY-091](../theory.d/THEORY-091.md) discusses, with the advantage
   that the "deficit" is an intervention whose scope is known. The layer
   onset and the sharp commitment of ambiguous inputs are the paper's
-  analogue of THEORY-096's ignition, though the authors say it is "unclear"
+  analogue of [THEORY-096](../theory.d/THEORY-096.md)'s ignition, though the authors say it is "unclear"
   whether it mirrors ignition (p. 4).
-- **THEORY-063.** The base model is offered as a stable case of workspace
-  without self, the access analogue of the selfless states THEORY-063's
+- **[THEORY-063](../theory.d/THEORY-063.md).** The base model is offered as a stable case of workspace
+  without self, the access analogue of the selfless states [THEORY-063](../theory.d/THEORY-063.md)'s
   second clause names. It is not evidence about experience.
 - **The anthology.** The J-lens, its use for auditing and counterfactual
   reflection training are interpretability and training methods. §7
@@ -494,4 +494,4 @@ Butlin, Chalmers and Dehaene, whose works the record holds.
   (p. 55).
 - Would any of the five functional properties be absent in a system the
   exchange would call merely aggregative, so that it could serve
-  QUESTION-tmpc4j7p's negative control?
+  [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md)'s negative control?

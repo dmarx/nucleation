@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read 2026-10-22 (NOTE-tmpyc06q), main text in full and appendices in
+  read 2026-10-22 ([NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md)), main text in full and appendices in
   part, from the arXiv v1 PDF; worth reading as the first interventional
   evidence that a language model has a functional analogue of conscious
   access in the access sense: a sparse set of verbalizable directions,
@@ -14,7 +14,7 @@ status_note: >-
   layer band; an automatic/flexible split partly defined by the result;
   experiential language graded by another model; and an explicit refusal
   to say anything about phenomenal consciousness. Filed as
-  THEORY-tmp111ci and THEORY-tmp9o12p.
+  [THEORY-tmp111ci](../theory.d/THEORY-tmp111ci.md) and [THEORY-tmp9o12p](../theory.d/THEORY-tmp9o12p.md).
 title: 'Verbalizable Representations Form a Global Workspace in Language Models'
 version: 2
 history:
@@ -89,7 +89,7 @@ Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Sol
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpyc06q. Pages are the arXiv PDF's.*
+*From the reading, [NOTE-tmpyc06q](../notes.d/NOTE-tmpyc06q.md). Pages are the arXiv PDF's.*
 
 - **Access, not experience.** "Note that access consciousness is a purely
   functional notion"; on its relation to experience "we take no position
@@ -122,4 +122,4 @@ Gurnee, W., Sofroniew, N., Pearce, A., Piotrowski, M., Kauvar, I., Chen, R., Sol
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper for a representation space in a language model whose contents are available for verbalization, deliberate manipulation and flexible reasoning, a functional analogue of the global workspace. It took the paper to make the overgeneration problem concrete: if interpretive organization of this kind sufficed for experience, the thesis would have to say whether this system has it. The reading confirms that description. It adds two things the exchange did not use: the experiential-report ablation, which bears on what report evidence can show in a machine (QUESTION-048), and the dissociation of the workspace from the Assistant's installed point of view, which separates TERM-tmpe36gg's organizational and represented senses of perspective. Bears on QUESTION-048, QUESTION-046 and QUESTION-tmpc4j7p, and on CLAIM-tmpdga80 and CLAIM-tmp1lvwf. The anthology may want it as interpretability work, and §7 carries an instruction for machine-learning practice, so the flag stands.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper for a representation space in a language model whose contents are available for verbalization, deliberate manipulation and flexible reasoning, a functional analogue of the global workspace. It took the paper to make the overgeneration problem concrete: if interpretive organization of this kind sufficed for experience, the thesis would have to say whether this system has it. The reading confirms that description. It adds two things the exchange did not use: the experiential-report ablation, which bears on what report evidence can show in a machine ([QUESTION-048](../questions.d/QUESTION-048.md)), and the dissociation of the workspace from the Assistant's installed point of view, which separates [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)'s organizational and represented senses of perspective. Bears on [QUESTION-048](../questions.d/QUESTION-048.md), [QUESTION-046](../questions.d/QUESTION-046.md) and [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md), and on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) and [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md). The anthology may want it as interpretability work, and §7 carries an instruction for machine-learning practice, so the flag stands.

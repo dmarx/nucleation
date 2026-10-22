@@ -50,7 +50,7 @@ information, ΦR, and applies it to fMRI from four mammalian species under
 six anaesthetic regimes. In the main analysis ΦR falls under every regime
 but one. It rises again on recovery, and in the macaque it rises again when
 central thalamic stimulation restores arousal while the anaesthetic is
-still running. The same group's 2024 paper (LIT-949) had shown this
+still running. The same group's 2024 paper ([LIT-949](../literature.d/LIT-949.md)) had shown this
 for human propofol and disorders of consciousness. This paper adds three
 more species, five more drugs, a causal reversal, and a mechanistic story
 from transcriptomics, connectomes and models. What it measures is the
@@ -230,7 +230,7 @@ anaesthetics, not with their mere presence in the system" (p. 781).
 ## Connections
 
 The measure is Mediano et al.'s revised integrated information. The
-workspace paper by the same group, LIT-949 (NOTE-799), is the paper's
+workspace paper by the same group, [LIT-949](../literature.d/LIT-949.md) ([NOTE-799](NOTE-799.md)), is the paper's
 ref. 45, cited for propofol and disorders of consciousness reducing ΦR
 between a shared set of cortical regions, "among those" that fall in the
 present human sevoflurane data (p. 791). The macaque stimulation data are
@@ -239,12 +239,12 @@ Redinbaugh et al. Integration–segregation difference (Jiang et al.) is
 cited as converging on the same unimodal-dominated topography. Network
 control follows Gu, Bassett and colleagues, and the pharmacological
 flattening of the energy landscape under 5HT2A agonists is the authors'
-earlier work. The closure notions of LIT-1306, with Luppi and Mediano
+earlier work. The closure notions of [LIT-1306](../literature.d/LIT-1306.md), with Luppi and Mediano
 among its authors, are not used.
 
 ## Bearing on the record
 
-- **THEORY-240 (Proposed; LIT-949).** That THEORY's `promote_when`
+- **[THEORY-240](../theory.d/THEORY-240.md) (Proposed; [LIT-949](../literature.d/LIT-949.md)).** That THEORY's `promote_when`
   names this paper's design: it is strengthened "if restoring
   consciousness by intervention (central thalamic stimulation, for
   example) restores gateway ΦR".
@@ -252,66 +252,66 @@ among its authors, are not used.
     But the paper has no gateways or broadcasters. Its whole-brain ΦR is
     an average over all pairs, and its regional maps put the largest losses
     in unimodal visual and somatomotor cortex, not in default-mode
-    gateways. So it does not show what THEORY-240's claim is about, that
+    gateways. So it does not show what [THEORY-240](../theory.d/THEORY-240.md)'s claim is about, that
     the change is on the gateway side.
-  - **Its refutation clause.** THEORY-240 is in trouble "if it tracks
+  - **Its refutation clause.** [THEORY-240](../theory.d/THEORY-240.md) is in trouble "if it tracks
     sedation or responsiveness rather than consciousness". This paper
     defines its target as responsiveness. It cannot tell the two apart and
     says so (p. 792).
   - **The sample.** The human anaesthetic here is sevoflurane, not
     propofol. The stimulated macaques number two.
-  - **Proposed change (proposal only).** THEORY-240's `promote_when` could
+  - **Proposed change (proposal only).** [THEORY-240](../theory.d/THEORY-240.md)'s `promote_when` could
     add that the restored ΦR must be shown regionally on the gateway side.
     The status stays Proposed.
-- **QUESTION-048 (deficit and recovery evidence).** This is the
+- **[QUESTION-048](../questions.d/QUESTION-048.md) (deficit and recovery evidence).** This is the
   kind of deficit-and-recovery evidence the question asks about, extended
-  to four species and to a causal reversal. It confirms THEORY-091's
-  limit, as LIT-965 did. Its marker of consciousness is responsiveness,
+  to four species and to a causal reversal. It confirms [THEORY-091](../theory.d/THEORY-091.md)'s
+  limit, as [LIT-965](../literature.d/LIT-965.md) did. Its marker of consciousness is responsiveness,
   which is a marker of access, and the authors say that animals "cannot
   provide subjective reports" (p. 792). The cross-species reach is real,
   but it reaches responsiveness. Nothing in it separates access from
   experience.
-- **CLAIM-tmpdga80 (experience constituted by interpretive
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (experience constituted by interpretive
   organization).** The exchange cited this paper for integration breaking
   down under anaesthesia. It does show that. But ΦR is a content-free
   statistic of how much information the past of a pair of regions carries
   about their joint future beyond what each carries alone. It is not a
-  measure of interpretation in TERM-tmpgqmop's sense: there is no
+  measure of interpretation in [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md)'s sense: there is no
   distinction, context or consequence for the system in it. So the finding
   bears on the claim only if "interpretive organization" requires such
   integration, which the claim does not say. At most it shows that some
   integration of this kind goes with responsiveness. That is a necessary-
   condition reading of production views as much as of constitution.
-- **CLAIM-tmp1lvwf (most interpretation is unconscious).**
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) (most interpretation is unconscious).**
   Integration, as A3 named it, was one of the candidate conditions. Here it
   falls with responsiveness, which fits a candidate. But the paper gives no
   case of rich integration without responsiveness, and ΦR has not been
   measured here between conscious and unconscious processing within a
   waking brain. It does not meet the claim's defeater, which needs the
   unconscious cases to fall outside a stated organization.
-- **CLAIM-tmpn2xr4 (four facts that come apart).** The stimulation
+- **[CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md) (four facts that come apart).** The stimulation
   design is an intervention that separates what the ordinary trajectory
   cannot: low-intensity ventrolateral stimulation partly restored ΦR and
   controllability without restoring behaviour. That is an empirical case
   of a measure and its supposed behavioural effect coming apart under
   intervention, in the spirit of that claim. The connection is mine.
-- **QUESTION-tmpc4j7p.** Integration is on the question's list of
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** Integration is on the question's list of
   candidates. This paper gives the candidate a measured form in four
   species. It does not say what the measure would give for a firm or a
   language model, and pairwise ΦR could be computed for either. Applying
   it there is a test the question could ask for, and the paper does not
   attempt it.
-- **THEORY-063 (unity as one functional cluster).** Its promotion test
+- **[THEORY-063](../theory.d/THEORY-063.md) (unity as one functional cluster).** Its promotion test
   asks for "a measure of integration in the brain ... computed and not
   asserted" that tracks unity "across waking, dreaming, anaesthesia".
   This is a computed integration measure that tracks anaesthesia, but it
   measures the amount of pairwise integration, not whether there is one
   dominant cluster. It does not meet that test.
-- **THEORY-497 (synergy and macro features).** ΦR is mostly
+- **[THEORY-497](../theory.d/THEORY-497.md) (synergy and macro features).** ΦR is mostly
   synergy-containing atoms, so the fall under anaesthesia is a fall in the
-  synergistic information about the system's own future that THEORY-497
+  synergistic information about the system's own future that [THEORY-497](../theory.d/THEORY-497.md)
   describes, relative to the same Gaussian MMI choice.
-- **THEORY warranted.** One. THEORY-tmpvpggv states C1–C3: ΦR falls
+- **THEORY warranted.** One. [THEORY-tmpvpggv](../theory.d/THEORY-tmpvpggv.md) states C1–C3: ΦR falls
   with responsiveness across species and returns with it, including under
   thalamic stimulation. The PVALB and model results (C5–C7) bear on no
   record question and are left in this note.
@@ -354,8 +354,8 @@ among its authors, are not used.
   dreaming or covert awareness in unresponsive patients? That would
   separate integration from responsiveness, which this design cannot.
 - Is the restored ΦR under central thalamic stimulation on the side of the
-  default-mode gateways of LIT-949, or spread as the anaesthetic loss is?
+  default-mode gateways of [LIT-949](../literature.d/LIT-949.md), or spread as the anaesthetic loss is?
 - What does ΦR do within a waking brain between conscious and unconscious
-  processing of the same content, the contrast CLAIM-tmp1lvwf turns on?
+  processing of the same content, the contrast [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) turns on?
 - Does a beyond-pairwise or partition-minimizing ΦR give the same
   topography as the pairwise average?

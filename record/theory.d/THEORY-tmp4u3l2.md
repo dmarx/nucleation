@@ -25,7 +25,7 @@ date: '2026-10-22'
 source:
 - LIT-tmpac9l2
 summary: >-
-  Aldé (2026), LIT-tmpac9l2, read in full in NOTE-tmp0qd7y. Two
+  Aldé (2026), [LIT-tmpac9l2](../literature.d/LIT-tmpac9l2.md), read in full in [NOTE-tmp0qd7y](../notes.d/NOTE-tmp0qd7y.md). Two
   arguments, the unique hues objection and the opposing dimensions
   objection, from colour facts the paper takes as accepted. The decisive
   premise of each, that no adequate geometric property marks the facts,
@@ -39,8 +39,8 @@ summary: >-
 
 ## Source
 
-Aldé (2026), LIT-tmpac9l2, *Synthese* 207:204, read in full in
-NOTE-tmp0qd7y: the colour composition claims (§3, pp. 7–10), the unique
+Aldé (2026), [LIT-tmpac9l2](../literature.d/LIT-tmpac9l2.md), *Synthese* 207:204, read in full in
+[NOTE-tmp0qd7y](../notes.d/NOTE-tmp0qd7y.md): the colour composition claims (§3, pp. 7–10), the unique
 hues objection (§4.1, pp. 11–13), the opposing dimensions objection (§4.2,
 pp. 13–15) and the reply to introspective doubt (§5, pp. 15–18).
 
@@ -97,15 +97,15 @@ argues they are not, by inspection.
 
 ## Connections
 
-- **THEORY-tmpv5rmc** is the target, quoted from Lyre (2022). Lyre's own
+- **[THEORY-tmpv5rmc](THEORY-tmpv5rmc.md)** is the target, quoted from Lyre (2022). Lyre's own
   reply to inversion relies on colour space being "highly asymmetric";
   Aldé grants the asymmetry and argues it is the wrong asymmetry.
-- **THEORY-tmp7uasf** (Negro) objects to the same view from intuition.
+- **[THEORY-tmp7uasf](THEORY-tmp7uasf.md)** (Negro) objects to the same view from intuition.
   Aldé presents his arguments as stronger because they do not.
-- **CLAIM-tmpdga80.** The claim's relations are interpretive, not
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** The claim's relations are interpretive, not
   similarities, so this THEORY does not reach it directly. It sets a test
   any account of character must meet: the composition of colour
   experience must come out of whatever organization is said to fix it.
-- **CLAIM-136.** By analogy: Aldé states that a similarity structuralist
+- **[CLAIM-136](../claims.d/CLAIM-136.md).** By analogy: Aldé states that a similarity structuralist
   must treat symmetric points as one point (p. 5), the strict version of
-  CLAIM-136's thesis applied to phenomenal characters.
+  [CLAIM-136](../claims.d/CLAIM-136.md)'s thesis applied to phenomenal characters.
