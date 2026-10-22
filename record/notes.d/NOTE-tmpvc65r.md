@@ -51,7 +51,7 @@ cause (the decision to launch, chapter V), traces the joint's problems
 from the 1977 tests to the eve of launch (chapter VI), and finds the
 safety program ineffective and absent (chapter VII). Its recommendations
 include the independent headquarters safety office that the record's
-CASE-138 calls a "constitutional correction". It is a commission's
+[CASE-138](../cases.d/CASE-138.md) calls a "constitutional correction". It is a commission's
 finding, built from hearings and documents, not an analysis of
 organizations in general.
 
@@ -174,8 +174,8 @@ read).
 ## Connections
 
 The record reads the Columbia board's comparison of the two accidents as
-THEORY-140, from LIT-734 (chapter 8 of the board's report). The board's
-"normalization of deviance" comes from Vaughan's book (LIT-715,
+[THEORY-140](../theory.d/THEORY-140.md), from [LIT-734](../literature.d/LIT-734.md) (chapter 8 of the board's report). The board's
+"normalization of deviance" comes from Vaughan's book ([LIT-715](../literature.d/LIT-715.md),
 Unavailable), which was itself built on these hearings. The Rogers report
 is the primary source for the Challenger half of that comparison, and it
 supports it: the accepted-erosion trajectory, the reporting structure
@@ -184,7 +184,7 @@ the program are all findings here, seventeen years before the board.
 
 ## Bearing on the record
 
-- **CASE-138.** Its "Before" paragraph is supported: erosion "accepted
+- **[CASE-138](../cases.d/CASE-138.md).** Its "Before" paragraph is supported: erosion "accepted
   flight by flight"; Thiokol's engineers recommended against launch;
   management reversed "at the urging of Marshall"; "It ended 73 seconds
   later" (chapter III). Two corrections. First, the case cites chapters VI
@@ -197,7 +197,7 @@ the program are all findings here, seventeen years before the board.
   case's "After" facts (an SR&QA office created in 1986, a Safety
   Reporting System in 1987) are not in this report, which only recommends
   the office; they need another source.
-- **CLAIM-403 (admission, recognition, credibility, uptake).** The
+- **[CLAIM-403](../claims.d/CLAIM-403.md) (admission, recognition, credibility, uptake).** The
   teleconference is close to a worked example of the separation. The
   concern was admitted (a meeting was convened for it), heard differently
   (Lovingood took it as a recommendation to delay, Reinartz "did not
@@ -205,13 +205,13 @@ the program are all findings here, seventeen years before the board.
   discredited when asked to be quantified (Boisjoly: "I was asked to
   quantify my concerns, and I said I couldn't", p. 89), and given no
   uptake above Level III by a deliberate decision not to escalate.
-- **CLAIM-416 (success read as evidence of competence).** Finding 3 of
+- **[CLAIM-416](../claims.d/CLAIM-416.md) (success read as evidence of competence).** Finding 3 of
   chapter VI and Feynman's "Russian roulette" are the report's own
   statement of it: "We can lower our standards a little bit because we
   got away with it last time" (p. 148). The temperature analysis (pp.
   145–146) shows the mechanism in data: conditioning on the flights that
   showed distress hid the correlation that all flights reveal.
-- **CLAIM-422 (act, procedure, maintained capacity).** The report holds
+- **[CLAIM-422](../claims.d/CLAIM-422.md) (act, procedure, maintained capacity).** The report holds
   two instances that come before Columbia. The Apollo-era safety program,
   a procedure and an organization, "became ineffective" by 1986; and the
   Crew Safety Panel lapsed when the program was declared "operational".
@@ -221,30 +221,30 @@ the program are all findings here, seventeen years before the board.
   evidence of a correction and not of its maintenance, is weaker than
   what the report shows: a recorded closure need not even be evidence of
   a correction.
-- **CLAIM-424 and CASE-138's "constitutional correction".** The
+- **[CLAIM-424](../claims.d/CLAIM-424.md) and [CASE-138](../cases.d/CASE-138.md)'s "constitutional correction".** The
   recommended office is a change in who can object and to whom: it is to
   report to the Administrator and be "independent of other NASA
   functional and program responsibilities". The report is evidence that
   the correction was recommended for that reason. Whether it held is
-  THEORY-140's question, not this report's.
-- **CLAIM-349 (access, authority, action).** Level III had the signal;
+  [THEORY-140](../theory.d/THEORY-140.md)'s question, not this report's.
+- **[CLAIM-349](../claims.d/CLAIM-349.md) (access, authority, action).** Level III had the signal;
   it had no authority over the launch above Level III, because the system
   let a project manager judge it "a Level III issue that had been
   resolved" (Mulloy, p. 98).
-- **THEORY-140.** Supports its Challenger half from the primary source,
-  as noted under Connections. Suggested: add LIT-1393 as a source of
-  THEORY-140 for the pre-1986 trajectory. It does not touch the
+- **[THEORY-140](../theory.d/THEORY-140.md).** Supports its Challenger half from the primary source,
+  as noted under Connections. Suggested: add [LIT-1393](../literature.d/LIT-1393.md) as a source of
+  [THEORY-140](../theory.d/THEORY-140.md) for the pre-1986 trajectory. It does not touch the
   recurrence claim, which needs Columbia.
-- **THEORY-144 (drift to the boundary under pressure).** Chapter VIII is
+- **[THEORY-144](../theory.d/THEORY-144.md) (drift to the boundary under pressure).** Chapter VIII is
   an instance: a flight rate set without resources, and the
   "operational" declaration used to reduce safety staff. It is one case
   reconstructed after the fact, so it adds an illustration, not a test.
-- **THEORY-145 (espoused theory and theory in use).** The 1R label kept
+- **[THEORY-145](../theory.d/THEORY-145.md) (espoused theory and theory in use).** The 1R label kept
   on paperwork after the joint was reclassified Criticality 1, and
   managers who went on believing in redundancy, are the organizational
   form of the gap. Illustration only.
 - No THEORY filed: the report's general lessons are already held as
-  THEORY-140 and THEORY-144.
+  [THEORY-140](../theory.d/THEORY-140.md) and [THEORY-144](../theory.d/THEORY-144.md).
 - No instruction for machine-learning practice.
 
 ## Limitations
@@ -258,7 +258,7 @@ the program are all findings here, seventeen years before the board.
   every Flight Readiness Review treatment of the O-rings and Feynman's
   personal observations (Appendix F).
 - It says nothing about whether its recommendations would hold. That is
-  the subject of the Columbia board and of CASE-138.
+  the subject of the Columbia board and of [CASE-138](../cases.d/CASE-138.md).
 
 ## Open questions
 
@@ -266,5 +266,5 @@ the program are all findings here, seventeen years before the board.
   manager's discretion to call an issue resolved) and how much a habit of
   one center (finding 3 on Marshall)? The report names both.
 - Did the recommended independent office change who could stop a launch
-  in practice? The Columbia board's answer, held as THEORY-140, is that
+  in practice? The Columbia board's answer, held as [THEORY-140](../theory.d/THEORY-140.md), is that
   the safety organization again depended on the program.

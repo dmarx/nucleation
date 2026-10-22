@@ -24,7 +24,7 @@ date: '2026-10-22'
 source:
 - LIT-1367
 summary: >-
-  Swidler (1986), LIT-1367, read in full in NOTE-tmp787j2 from a course
+  Swidler (1986), [LIT-1367](../literature.d/LIT-1367.md), read in full in [NOTE-tmp787j2](../notes.d/NOTE-tmp787j2.md) from a course
   copy of the published article. A theoretical argument against the
   Parsonian values model, built on illustrations (the culture-of-poverty
   debate, the Protestant ethic, Walzer's Calvin) and on the paper's
@@ -38,7 +38,7 @@ summary: >-
 
 ## Source
 
-Swidler (1986), LIT-1367, read in full in NOTE-tmp787j2: *American
+Swidler (1986), [LIT-1367](../literature.d/LIT-1367.md), read in full in [NOTE-tmp787j2](../notes.d/NOTE-tmp787j2.md): *American
 Sociological Review* 51(2), 273–286. Page numbers are the journal's.
 
 ## What was actually shown
@@ -86,15 +86,15 @@ when they stop describing the world. None of it is tested there.
 
 ## Connections
 
-- **CLAIM-420.** A style of organizing action that outlasts the
+- **[CLAIM-420](../claims.d/CLAIM-420.md).** A style of organizing action that outlasts the
   doctrine and ends that produced it is a form of persistence finer than
   the claim's "perspectival" one: organization transmitted without its
   content.
-- **CLAIM-416.** The unsettled model's selection clause is the claim's
+- **[CLAIM-416](../claims.d/CLAIM-416.md).** The unsettled model's selection clause is the claim's
   relativity of success to a regime, for ideologies. It has no reflexive
   part: competitors do not reshape the situations that select them.
-- **CLAIM-417.** Cites this paper for a perspective's "dispositional
+- **[CLAIM-417](../claims.d/CLAIM-417.md).** Cites this paper for a perspective's "dispositional
   repertoire". The repertoire is public, not dispositional, and the
   organized thing is the strategy, not the kit.
-- Sewell (LIT-1383) restates the toolkit's reach as the transposability
+- Sewell ([LIT-1383](../literature.d/LIT-1383.md)) restates the toolkit's reach as the transposability
   of schemas.

@@ -152,9 +152,9 @@ No data. By section:
 
 It works from Giddens (1976–1984) and Bourdieu's Outline (1977), with
 Sahlins on how categories are "burdened with the world" (n. 11) and
-Goffman for everyday agency. Swidler (LIT-1367) is thanked and her
+Goffman for everyday agency. Swidler ([LIT-1367](../literature.d/LIT-1367.md)) is thanked and her
 "tool kit" is close to his schemas, but she is not cited. Wacquant
-(LIT-1377, 2016) answers the later version of this critique (Sewell
+([LIT-1377](../literature.d/LIT-1377.md), 2016) answers the later version of this critique (Sewell
 2005, ch. 4) by saying habitus needs no supplement, without engaging the
 argument. Sewell is right about Outline's sentence ("all the actions …
 and no others"); Wacquant's habitus, layered and able to misfire, is a
@@ -162,7 +162,7 @@ later reading the 1992 essay does not meet.
 
 ## Bearing on the record
 
-- **CLAIM-417 (selves as organizational perspectives).** The LIT says
+- **[CLAIM-417](../claims.d/CLAIM-417.md) (selves as organizational perspectives).** The LIT says
   the exchange cited this as an account of how structures are reproduced
   and transformed through activity. That is accurate. Three points bear on
   the claim. First, Sewell's agency is the claim's carrier with a
@@ -176,12 +176,12 @@ later reading the 1992 essay does not meet.
   that established accounts "explain the same transitions as well with
   fewer assumptions" bites hardest here: transposition and remobilization
   are a theory of how one organization changes into another, which is
-  CLAIM-417's "transformation of organizational perspectives". What
+  [CLAIM-417](../claims.d/CLAIM-417.md)'s "transformation of organizational perspectives". What
   Sewell lacks is the claim's distinction between a lineage and a
   character; "transformations of the old" (p. 27) are recognized, he says,
   but he gives no criterion for when a transformed structure is the same
   one.
-- **CLAIM-416 (competition over tests).** The polysemy of resources is
+- **[CLAIM-416](../claims.d/CLAIM-416.md) (competition over tests).** The polysemy of resources is
   the claim's reflexive part stated in general. Sewell's example: the gains
   of a successful cavalry charge "may be attributed to the superior
   discipline and elan of the cavalry officers and thereby enhance the
@@ -194,7 +194,7 @@ later reading the 1992 essay does not meet.
   may change the battle plans of subsequent campaigns or even theories of
   military tactics", p. 18). The claim could cite this as the general
   mechanism of which competition over tests is a case.
-- **CLAIM-423 (timescale and authority in a political collective).**
+- **[CLAIM-423](../claims.d/CLAIM-423.md) (timescale and authority in a political collective).**
   Sewell offers a rival account of the same durabilities. Where the claim
   puts timescale, Sewell puts depth: state structures change because they
   are powerful and visible, and deep political structures (the American
@@ -205,11 +205,11 @@ later reading the 1992 essay does not meet.
   producing its positions changes under it", stated in 1992. The claim's
   defeater asks whether existing accounts already state it; Sewell states
   the continuity, not the link between speed and authority.
-- **CASE-133 (party realignment).** The same sentence: party systems
+- **[CASE-133](../cases.d/CASE-133.md) (party realignment).** The same sentence: party systems
   change sharply under a continuous constitution (p. 24, citing Burnham
   1967). It supports the case's carrier-and-character distinction for the
   state, not for the parties.
-- **TERM-072 (perspective).** A Sewell structure is not a perspective in
+- **[TERM-072](../terms.d/TERM-072.md) (perspective).** A Sewell structure is not a perspective in
   any of the term's senses: it is a schema-resource set, virtual on one side
   and material on the other, and he denies that schemas alone are
   structure. The nearest object in the term's vocabulary note is a kind
@@ -230,7 +230,7 @@ later reading the 1992 essay does not meet.
   measure is offered, and C6's comparisons (Britain and France, Costa Rica
   and its neighbours) are listed, not analysed.
 - The critique of Bourdieu rests on Outline (1977); later Bourdieu and
-  Wacquant's restatement (LIT-1377) answer some of it.
+  Wacquant's restatement ([LIT-1377](../literature.d/LIT-1377.md)) answer some of it.
 - Transposition makes every competent person an agent; the essay does not
   say what would count as a schema that failed to transpose because of the
   schema rather than the situation.

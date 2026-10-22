@@ -151,7 +151,7 @@ A gloss on Bourdieu's Outline (1972), Logic of Practice (1980a) and
 Pascalian Meditations (1997), against two foils: Bourdieu read as a
 "reproduction theory" (p. 66) and the rational and symbolic actors of
 economics and interactionism (p. 68). It names its critics in note 7: Joas,
-Sewell and Ortner. Sewell's 1992 essay, LIT-1383, read in the same batch, is
+Sewell and Ortner. Sewell's 1992 essay, [LIT-1383](../literature.d/LIT-1383.md), read in the same batch, is
 the earlier form of the critique the note dismisses: there Bourdieu's
 habitus is "agent-proof" and "unrealistically unified and totalized". The
 two readings of habitus disagree, and Wacquant answers by assertion, not
@@ -159,8 +159,8 @@ argument.
 
 ## Bearing on the record
 
-- **CLAIM-417 (selves as organizational perspectives).** The claim
-  maps TERM-045's dispositional sense onto "a perspective's dispositional
+- **[CLAIM-417](../claims.d/CLAIM-417.md) (selves as organizational perspectives).** The claim
+  maps [TERM-045](../terms.d/TERM-045.md)'s dispositional sense onto "a perspective's dispositional
   repertoire", habitus in the sociology it leaned on. The reading supports
   the borrowing, and sharpens its defeater. Habitus, as Wacquant states it,
   already does three things the claim credits to the perspective
@@ -174,12 +174,12 @@ argument.
   persons" (p. 65), and its sharing is a matter of similar conditioning,
   not of one organization spanning several people.
 - **Habitus and repertoire are cited together for something they
-  disagree about.** CLAIM-417 cites this paper and Swidler (LIT-1367)
+  disagree about.** [CLAIM-417](../claims.d/CLAIM-417.md) cites this paper and Swidler ([LIT-1367](../literature.d/LIT-1367.md))
   side by side for sense 2. Swidler says culture does not work "via
   enduring psychological proclivities implanted in individuals by their
   socialization" (her p. 283); Wacquant's habitus is exactly such
   dispositions. The claim should say which it means.
-- **CASE-130 (Gracie against luta livre).** The case says trained
+- **[CASE-130](../cases.d/CASE-130.md) (Gracie against luta livre).** The case says trained
   practitioners "may perceive different affordances in the same movement,
   which Wacquant's account of habitus … and his boxing ethnography already
   hold." This essay supports the general point, a secondary habitus
@@ -189,12 +189,12 @@ argument.
   material. The boxing ethnography itself was not read.
 - **A40's point, as the LIT records it, is in the text.** Dispositions can
   be "multilayered" and "divided against themselves" (pp. 68–69).
-- **TERM-072 (perspective).** Wacquant's sociation and individuation
+- **[TERM-072](../terms.d/TERM-072.md) (perspective).** Wacquant's sociation and individuation
   (C5) is the token and kind distinction the term's vocabulary note draws
   between a realization and a kind, solved inside one concept: "a
   bourgeois habitus" is a kind, each person's habitus a token. It has no
   lineage object and no distributed realization.
-- **CLAIM-416 (competition over tests).** Indirect. C4 says the same
+- **[CLAIM-416](../claims.d/CLAIM-416.md) (competition over tests).** Indirect. C4 says the same
   habitus yields different conduct "when called out by different strategic
   opportunities", which is the claim's relativity of competence to a
   regime, stated for dispositions. Nothing on who sets the test.
@@ -217,9 +217,9 @@ argument.
 
 - How is a split habitus told apart from two habitus in one person, or
   from a person moving between positions that call out different parts of
-  one? The essay gives no criterion, and the same question is CLAIM-417's
+  one? The essay gives no criterion, and the same question is [CLAIM-417](../claims.d/CLAIM-417.md)'s
   for a carrier with several perspectives.
 - Is a shared habitus ever more than similar conditioning? Bourdieu's
   "orchestrated without … a conductor" suggests coordination without
-  organization; whether that is a distributed realization in TERM-072's
+  organization; whether that is a distributed realization in [TERM-072](../terms.d/TERM-072.md)'s
   sense, or only a kind, is not addressed.
