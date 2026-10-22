@@ -4,7 +4,15 @@ status: Active
 formerly:
 - THEORY-tmp0bflx
 title: "With a common prior, a sender who commits to a signal the receiver observes can induce any distribution of posteriors whose mean is the prior, so an openly designed experiment moves a fully informed Bayesian receiver whenever the concave closure of the sender's value lies above its value at the prior; at the optimum, under the paper's tie-breaking, the receiver is certain when she takes the sender's worst action and indifferent when she takes another"
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the reading of Bergemann and Morris
+    (NOTE-1034): THEORY-844 is this result's many-player
+    generalization with information of the receivers' own. The account is
+    unchanged.
 tags:
 - game-theory
 - epistemology
@@ -20,6 +28,8 @@ summary: >-
   designed to convict convicts 60 percent of defendants when 70 percent
   are innocent. The paper does not analyse manipulation, does not compute
   the receiver's welfare and does not cite Blackwell.
+supports:
+- CLAIM-404
 ---
 <!-- inactive-ok-file: THEORY-414 — Proposed; a sibling account filed in the same batch, named in Connections and not leaned on -->
 <!-- inactive-ok-file: CLAIM-050 — Proposed; open, the Blackwell-line claim this result sits beside -->
@@ -131,3 +141,13 @@ equilibrium would be full disclosure.
   where a public signal tells each player what to do. Here a committed
   signal does the same for one receiver, chosen by an interested party.
   The pairing is the record's.
+
+## Note of 2026-10-21: the many-player generalization
+
+Bergemann and Morris's survey of information design ([LIT-1313](../literature.d/LIT-1313.md)), read
+on 2026-10-21 in its accepted manuscript ([NOTE-1034](../notes.d/NOTE-1034.md)), generalizes this
+result to many receivers with information of their own: an omniscient
+designer can attain exactly the Bayes correlated equilibria, and a
+receiver's own information bounds what can be induced ([THEORY-844](THEORY-844.md)).
+With one uninformed receiver the obedience constraints reduce to this
+account's. The account is unchanged.

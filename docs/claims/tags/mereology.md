@@ -6,8 +6,8 @@
 
 **Mereology** — parts and wholes — composition, individuation of systems and collectives (group: philosophy).
 
-0 of 398 CLAIM documents. Back to the [full index](../README.md).
+1 of 410 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-405](../../../record/claims.d/CLAIM-405.md) | An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it | The individuation counterpart of the owner's normative thesis [CLAIM-363](../../../record/claims.d/CLAIM-363.md) ("once they are fixed, the judgment can be false"), as A8 and A9 of the exchange of 2026-10-20 put it, on the owner's U8 question about "contextuality/relativity/subjectivity". A8 §9: "the underlying system is objectively real, while some scientifically meaningful properties of its descriptions are objectively relational." A9: "an individuation claim can be objectively assessed once its relevant organizational criteria are specified", and "A system may exhibit several objectively grounded forms of unity that need not share the same boundary." [CLAIM-152](../../../record/claims.d/CLAIM-152.md) gives the relativity; this claim adds that relativity is not arbitrariness. It answers [QUESTION-065](../../../record/questions.d/QUESTION-065.md) in part. It does not say which criterion is right. | Proposed |

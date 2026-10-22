@@ -4,7 +4,17 @@ status: Deferred
 formerly:
 - QUESTION-tmp8u8km
 title: 'What grounds normativity across agents that share an environment and a level of organization?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A27 reached the same endpoint as A25
+    of 2026-10-17: reciprocal governance explains how obligations become
+    recognizable, and equal standing must enter as a normative premise; one
+    new point is a condition on participation (CLAIM-403). The question
+    is unchanged.
 tags:
 - ethics
 - social-ontology
@@ -20,6 +30,7 @@ summary: >-
   sideways between peers. Set aside with the authenticity line.
 ---
 <!-- inactive-ok-file: CLAIM-016 CLAIM-096 CLAIM-104 — Deferred; set aside, and cited to say what was set aside with it -->
+<!-- inactive-ok-file: CLAIM-403 THEORY-151 THEORY-414 THEORY-495 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-007: What grounds normativity across agents that share an environment and a level of organization?
 
@@ -64,3 +75,19 @@ reciprocal standing"). The owner did not take the fourth paper up. The
 question stays Deferred with the authenticity line; whether that line
 reopens is the owner's decision. Its adjudication form, for standpoints at
 any level, is [QUESTION-129](QUESTION-129.md).
+
+## Note of 2026-10-21: re-raised again, in agreement with the deferral
+
+A27 of the exchange of 2026-10-20 reached the same endpoint as A25 of
+2026-10-17 (note of 2026-10-18): reciprocal governance "can explain how
+obligations become recognizable, actionable, and self-maintaining", but
+"Requirements of equal standing, non-domination, or justified contestation
+must enter as normative premises". It cited this question's Korsgaard and
+Sen notes correctly, and again not [THEORY-495](../theory.d/THEORY-495.md) or [THEORY-414](../theory.d/THEORY-414.md). Its proposal
+to add a genesis–efficacy–justification distinction repeats the note of
+2026-10-18. One point is new: an institution "can satisfy a nominal
+requirement to consult affected agents while denying them effective
+participation in defining the decision's relevant questions or criteria".
+That is a condition on participation, Longino's venues and uptake
+([THEORY-151](../theory.d/THEORY-151.md), [CLAIM-403](../claims.d/CLAIM-403.md)), and not a ground of obligation. The
+question stays Deferred with the authenticity line.

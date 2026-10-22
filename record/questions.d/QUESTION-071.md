@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpdewd4
 title: 'Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?'
-version: 5
+version: 6
 history:
 - version: 2
   date: '2026-10-14'
@@ -43,6 +43,15 @@ history:
     outline, from two of them quoted in Pereboom's later wordings, and
     what they bear on in part 2. THEORY-328, the argument as filed
     from them, is named. The question stays open.
+- version: 6
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A20 asked this question at the scale
+    of an institution (reflexive control), and A16 and A27 restated part 1
+    as a present-organization indistinguishability argument that is true by
+    stipulation; A27's five things an ownership theory might need are mapped
+    to the record. The question is unchanged.
 tags:
 - self-governance
 - agency
@@ -67,6 +76,8 @@ summary: >-
 <!-- inactive-ok-file: THEORY-328 — Proposed; the four-case argument filed 2026-10-14 from two surveys, named in a dated note -->
 <!-- inactive-ok-file: THEORY-316 — Proposed; the account filed from the partial reading of LIT-1006, named and not leaned on -->
 <!-- inactive-ok-file: THEORY-235 THEORY-225 — Proposed; accounts filed today that bear on the question without answering it -->
+<!-- inactive-ok-file: QUESTION-057 — Deferred; cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-025 CLAIM-174 CLAIM-364 CLAIM-404 THEORY-025 THEORY-047 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # QUESTION-071: Can a will-organization be manipulated without anything in its present structure showing it, and if so, what in its history would have to be recorded to tell a manipulated will from one that is merely effective?
 
@@ -159,3 +170,42 @@ Either a feature of will-organization that differs between the
 manipulated agent and its unmanipulated twin. Or an argument that none
 can, together with a statement of what a record of the will's formation
 would have to contain.
+
+## Note of 2026-10-21: reflexive control, and part 1 restated twice
+
+**At the scale of an institution.** A20 of the exchange of 2026-10-20, on
+reflexive control: "An intervention from outside the organization can
+alter its internal allocation of practical authority, after which the
+organization reproduces the altered allocation through processes that
+appear to be its own", and "even identical present-day procedures could
+have been constituted through different processes." That is this
+question at the scale of an institution. Under [CLAIM-330](../claims.d/CLAIM-330.md), if the
+target's loop is unstable, a single perturbation m₀ + ε suffices and
+needs no continued control, so the present structure shows nothing.
+[QUESTION-070](QUESTION-070.md) holds the state-channel version. The institutional route is
+filed as [CLAIM-404](../claims.d/CLAIM-404.md), which bears on this question without answering
+it.
+
+**Part 1 restated twice.** A16 §11 and A27 §5 restated part 1, for
+[QUESTION-011](QUESTION-011.md), as "a present-organization indistinguishability argument":
+"A present-state or future-response criterion cannot distinguish
+historical modes of constitution that leave its inputs unchanged."
+Neither cited this question. As stated, the argument stipulates that the
+twins' present organization is identical, so it is true by definition. It
+is not this question's "argument that none can", which would have to show
+that will-organization cannot differ between a manipulated agent and its
+twin. A27's five things an ownership theory might need are, in the
+record's terms:
+
+- current control: [CLAIM-174](../claims.d/CLAIM-174.md) and [CLAIM-025](../claims.d/CLAIM-025.md);
+- provenance: [THEORY-047](../theory.d/THEORY-047.md) and [THEORY-121](../theory.d/THEORY-121.md);
+- "the agent's understanding of how its commitments were constituted":
+  [THEORY-235](../theory.d/THEORY-235.md);
+- "capacity for informed revision or contestation": [CLAIM-364](../claims.d/CLAIM-364.md);
+- the normative conditions: [CLAIM-016](../claims.d/CLAIM-016.md).
+
+Its feminist-epistemology point, that endorsement given "without having
+had meaningful opportunities to understand or challenge" its assumptions
+does not show ownership, is adaptive preference ([THEORY-025](../theory.d/THEORY-025.md)) and
+[QUESTION-057](QUESTION-057.md)'s point that avowal is one more attitude. Not filed as a
+claim.

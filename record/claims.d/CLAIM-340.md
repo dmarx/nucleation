@@ -35,6 +35,10 @@ summary: >-
   fail by oscillation when |βγ| ≥ 1 − αδ. Revising predictions after the
   evidence sets γ = 0 but also stops authority from tracking who predicts
   well. Linear, at the symmetric state, for squared-error scoring.
+illustrated_by:
+- CASE-123
+supports:
+- CLAIM-404
 ---
 
 # CLAIM-340: Scoring operators on predictions committed before the evidence is not by itself Regime B: in the linearized operator model the coupling of interpretation to endorsement has the sign of κ′ − κ̄, so commitment removes capture only when the interpretation bends the reading of the evidence no more than it bends the predictions, and it keeps the learning that revising after the evidence would lose

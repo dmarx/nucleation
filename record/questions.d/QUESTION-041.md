@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmp11ze3
 title: 'When an organized whole''s operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole''s capacity to transform its own organization?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A23 named as its most important
+    unresolved choice whether maintaining legibility is constitutive of
+    self-governance, which is this question's second half asked of
+    recognition; no answer is added. The question is unchanged.
 tags:
 - society-and-governance
 - social-science
@@ -23,6 +32,7 @@ summary: >-
 refined_by:
 - QUESTION-089
 ---
+<!-- inactive-ok-file: CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # QUESTION-041: When an organized whole's operative course moves apart from what its members intend, what channels from the members keep that course correctable, and is losing them the loss of the whole's capacity to transform its own organization?
 
@@ -43,3 +53,19 @@ refined_by:
 ## What would answer it
 
 An organization in which members' signals were cut or restored while policy and attitudes stayed about the same, with the change in its capacity to change course measured. Northstar is the record's candidate. More examples of organizations that drifted would not answer it.
+
+## Note of 2026-10-21: whether keeping failures legible is constitutive of self-governance
+
+A23 §13 of the exchange of 2026-10-20 named as its "most important
+unresolved conceptual choice" whether "the maintenance of appropriate
+legibility [is] itself a constitutive aspect of certain kinds of
+self-governance", for an organization "capable of making its own failures,
+dependencies, suppressed alternatives, and revision opportunities legible
+to the processes authorized to respond". It proposed keeping that
+"stronger position as Proposed". A24 §6 asked the same of "channels
+through which less authoritative contributions can change the criteria of
+authority itself". It is this question's second half, whether losing the
+channels is losing the capacity to transform, asked of recognition rather
+than of intention. A23 did not cite it. [QUESTION-089](QUESTION-089.md) is its companion.
+[CLAIM-403](../claims.d/CLAIM-403.md), filed from A24, bears on it without answering it. No
+answer is added.

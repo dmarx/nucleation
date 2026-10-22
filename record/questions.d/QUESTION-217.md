@@ -4,7 +4,16 @@ status: Open
 formerly:
 - QUESTION-tmp8qovh
 title: 'When a learning system is said to go from coarse to fine, do the order in which its representations refine one another, the order of their relevance to a task and the order in which training acquires them admit one common chain, and under what conditions on the learning operator?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A5's "two different mathematical
+    order structures" is this question's refinement order against its
+    relevance order; its monotone half is elementary. The question is
+    unchanged.
 tags:
 - learning-theory
 - representation-learning
@@ -155,3 +164,14 @@ spectral bias ([LIT-1261](../literature.d/LIT-1261.md)), slow feature analysis (
 diffusion maps ([LIT-1246](../literature.d/LIT-1246.md)) and diffusion wavelets ([LIT-1256](../literature.d/LIT-1256.md)), and the
 information geometry of coarse-graining ([LIT-1254](../literature.d/LIT-1254.md)). Whether optimal
 representations nest at all is [QUESTION-220](QUESTION-220.md).
+
+## Note of 2026-10-21: two order structures
+
+A5 of the exchange of 2026-10-20 proposed "two different mathematical order
+structures": what is identifiable grows with the access regime, while
+optimal representations need not nest. The second half is this question's
+refinement order against its relevance order, with [CLAIM-387](../claims.d/CLAIM-387.md) as the
+witness this question already cites. A5's monotone half is elementary:
+inclusion of feasible sets gives a monotone optimal value, and refinement
+of the fibres gives monotone identifiability. For a fixed target, the
+monotone half is now filed as [CLAIM-409](../claims.d/CLAIM-409.md). The proposal appears once.

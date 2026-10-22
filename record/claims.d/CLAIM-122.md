@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpzeoja
 title: 'Will-organization is not one more higher-order preference: changing the conditions of efficacy changes behaviour while the competing preferences stay fixed'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A15–A17 re-derived the supervisory
+    test, this time cited, and gave it parameters, noise, a closure
+    statement and a 0.5-bit deficiency (CASE-125, CLAIM-407); A17
+    made it a Proposition without this claim's note of 2026-10-18. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -30,6 +40,7 @@ summary: >-
 illustrated_by:
 - CASE-074
 - CASE-112
+- CASE-125
 complements:
 - CLAIM-354
 ---
@@ -83,3 +94,20 @@ citing it.
 
 [CASE-112](../cases.d/CASE-112.md) illustrates it: with the higher-order input held fixed, a
 change in the structure of the competition switches the regime.
+
+## Note of 2026-10-21: the first instance with numbers
+
+Re-derived again, this time cited. A15 §1 of the exchange of 2026-10-20
+cites the supervisory test ("hold competing action proposals fixed,
+intervene on governance relations, and ask whether the operative action
+changes"). A15 §2 then built it as a counterexample with parameters
+(proposals u₁ = 0, u₂ = 1; an authorization input connected in one system
+and not the other), and A16 §3 gave it noise, a closure statement and a
+deficiency of 0.5 bit. That is filed as [CASE-125](../cases.d/CASE-125.md), which illustrates
+this claim, and its general form as [CLAIM-407](CLAIM-407.md), with the profile it
+asks a description to keep as [TERM-067](../terms.d/TERM-067.md). A17 made it its paper's
+Proposition 1 and listed it as "Established by the paper's self-contained
+finite counterexample", without the note of 2026-10-18, which already
+holds A12's Proposition 2 in words. This is the first instance with
+numbers. [CLAIM-116](CLAIM-116.md) still holds: A16, "K is simply a hidden mechanism
+parameter."

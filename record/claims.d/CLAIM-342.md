@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpt568z
 title: 'What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A20–A23 restated this claim's anchor
+    for public knowledge and institutions (its second to fifth appearances),
+    and A26 built a performative toy with two stable self-confirming
+    classifications (CLAIM-402, CLAIM-404). Extended the same day from the readings of Weatherall, O'Connor and Bruner and of Espeland and Sauder. The claim is
+    unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -48,8 +58,12 @@ summary: >-
   withholds the evidence that would correct it. The claim does not say
   action is unimportant, only that it is not what does the anchoring.
 supports:
+- CLAIM-402
+- CLAIM-404
 - CLAIM-tmpjw8ev
 ---
+<!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's loop stated generally, cited in the note of 2026-10-21, nothing here rests on it -->
+<!-- inactive-ok-file: CLAIM-402 CLAIM-404 TERM-066 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 # CLAIM-342: What keeps a judgement–observation loop from confirming itself is evidence whose arrival or scoring does not pass through the interpretation it tests; action is one source of such evidence, not a necessary one, and a loop that selects its own evidence can lock in with action available
 
@@ -135,3 +149,52 @@ design requirement, without citing it.
   That variant is in [CASE-108](../cases.d/CASE-108.md). It puts this claim under attack: the
   evidence that does not pass through the tested interpretation is itself
   scored by a process an insider may hold.
+
+## Note of 2026-10-21: re-derived three more times, and a performative instance
+
+**For public knowledge and institutions.** A21's criterion for media
+capture in the exchange of 2026-10-20, "whether the processes conferring
+epistemic authority can themselves be corrected by evidence independent
+of the authority they confer", is this claim's anchor stated for public
+knowledge. So is A20's "A formally independent review procedure does not
+guarantee independent evaluation when the evidentiary standard itself is
+controlled by the interests being evaluated". A22 added that the evidence
+channel may be "governed by what it is evaluating". A23 §7 restated the
+claim again without citing it: "An expert may gain influence because
+their interpretations track independent evidence well. Alternatively, an
+interpretation may acquire apparent evidential support because it
+increasingly controls how evidence is selected and evaluated", so
+"**independent evaluation requires attention to the legibility and
+scoring of evidence, not merely formal separation between a decision-maker
+and its evaluator**". Its audit table listed "Governance can make its own
+evidence and authority self-reinforcing" as a new "Proposed institutional
+interpretation". These are the second to fifth appearances. The
+institutional form is filed as [CLAIM-404](CLAIM-404.md), which rests on this claim,
+with [TERM-066](../terms.d/TERM-066.md) for capture.
+
+**A performative instance.** A26 §2 built a toy in which a classification
+fixes the policy that generates its own evidence:
+θ_{t+1} = 1[P(Y = 1 | θ_t) > 0.5] with P(Y = 1 | θ) = 0.1 and 0.9. "Both
+θ = 0 and θ = 1 are stable fixed points", each "consistent with the
+behavioral evidence generated under that classification" (checked). It is
+this claim's loop with no independent evidence: every observation passes
+through the category under test. A26 tied it to Perdomo et al.'s
+performative prediction ([LIT-1336](../literature.d/LIT-1336.md)) and Espeland and Sauder's
+reactivity ([LIT-1330](../literature.d/LIT-1330.md)), both registered unread then and read the same day (below), and drew this claim's
+conclusion: "stability and accuracy under the prevailing intervention
+regime do not establish correctness under alternative regimes". A27
+carried it into [QUESTION-028](../questions.d/QUESTION-028.md), filed as [CLAIM-402](CLAIM-402.md), which rests on
+this claim.
+
+**Two readings of the same day.** Weatherall, O'Connor and Bruner
+([NOTE-1038](../notes.d/NOTE-1038.md)): their main remedy for a propagandist's selective sharing
+is to hear more scientists, evidence that reaches the audience without
+passing through the propagandist ([THEORY-855](../theory.d/THEORY-855.md)). Their audience's state
+is one number, cumulative successes minus failures, fed by both channels
+([THEORY-845](../theory.d/THEORY-845.md)), so the independent channel helps exactly as far as it
+outweighs the selected one. Espeland and Sauder ([NOTE-1050](../notes.d/NOTE-1050.md)) report a
+loop whose evidence passes through the interpretation it tests: the
+reputation survey, in which raters score schools in part by the rank the
+scores feed (Stake 2006 as they cite it; Schmalbeck 2001 contra), the
+quantitative link cited, not shown ([THEORY-854](../theory.d/THEORY-854.md)). Perdomo et al.,
+read the same day, are in [CLAIM-402](CLAIM-402.md).

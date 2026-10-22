@@ -39,6 +39,9 @@ summary: >-
   "(through no one's fault, let us add)", that is pre-emptive testimonial
   injustice. It does not say every credibility deficit, or every
   omission from a list, is an injustice: a prejudice must cause it.
+supports:
+- CLAIM-403
+- CLAIM-406
 ---
 <!-- inactive-ok-file: LIT-1004 — Unavailable; the book, read only through its précis, named as what would settle this -->
 <!-- inactive-ok-file: THEORY-317 THEORY-326 — Proposed; the précis-based account this one refines on the testimonial side, and the hermeneutical account filed with it -->

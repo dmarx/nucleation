@@ -4,7 +4,17 @@ status: Proposed
 formerly:
 - CLAIM-tmpf1063
 title: 'Durable authority among an organization''s processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A22, A24 and A26 re-derived this
+    claim's loop and its 2026-10-18 note, adding legibility as the first
+    link (TERM-064) and Fricker's pre-emptive testimonial injustice and
+    Longino's uptake as cases; the owner's U24 heard it as perpetuated
+    privilege (CLAIM-406). The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -39,7 +49,9 @@ summary: >-
 supports:
 - CLAIM-297
 - CLAIM-344
+- CLAIM-406
 ---
+<!-- inactive-ok-file: CLAIM-403 CLAIM-406 THEORY-151 THEORY-327 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 # CLAIM-277: Durable authority among an organization's processes need not be a primitive: trust can be the temporal regularity of endorsement that policies earn by being right often, and the same loop entrenches whatever gained influence early
 
 ## The claim
@@ -139,3 +151,46 @@ maintain it." Then the specialist cannot recover even when its niche
 returns. Whether that happens, and how to tell it from mere under-use,
 is [QUESTION-134](../questions.d/QUESTION-134.md). The recovery exponent that measures under-use is in
 [QUESTION-132](../questions.d/QUESTION-132.md).
+
+## Note of 2026-10-21: the loop in institutions and in people, and as perpetuated privilege
+
+**In institutions.** A22 §5 of the exchange of 2026-10-20 re-derived this
+claim's note of 2026-10-18 nearly word for word: "An organization can lose
+the capacities of a constituent not by directly suppressing it, but by
+failing to maintain the conditions under which its contribution can be
+recognized and reproduced", with a chain "Low legibility of competence →
+Low endorsement → Low opportunity → Diminished demonstrated or actual
+capacity". A22 adds one thing: the first link is a failure of legibility
+([TERM-064](../terms.d/TERM-064.md)), not of exposure. It also applied the chain to a
+constituency whose interests "are difficult to express in the categories
+an institution uses".
+
+**As perpetuated privilege.** At U24 the owner heard this claim's loop, in
+A23's form, as "perpetuation of privilege" in feminist philosophy. A24
+rebuilt the expert-roster version ("Prior institutional standing →
+Opportunities to contribute and be recognized → Visible indicators of
+expertise → Future institutional standing") and the side that loses ("a
+measure of demonstrated competence can partly reflect the history of
+access to opportunities for demonstrating competence"). Both are already
+here, in A5's second chain and the 2026-10-18 note.
+
+**In people.** A26 restated the note of 2026-10-18 for people, not
+operators. A specialist strong on rare cases gets fewer chances to show
+it, and "Its scarcity of favorable performance evidence can then be
+interpreted as a reason to continue denying it authority". It added
+Fricker's structural, pre-emptive testimonial injustice ([THEORY-327](../theory.d/THEORY-327.md)),
+where a speaker's word "is never sought": "**Institutional recognition can
+depend on evidence of prior recognition.**" It also added Longino's uptake
+([THEORY-151](../theory.d/THEORY-151.md)): an organization "may retain dissenting specialists and
+allow them to speak while having no meaningful process through which
+their criticism affects established views".
+
+What A24 and A26 add is the case: Fricker and Anderson's un-refreshed list
+([THEORY-327](../theory.d/THEORY-327.md)), with its prejudice condition as the criterion this claim
+says it lacks. That is filed as [CLAIM-406](CLAIM-406.md), which rests on this
+claim, and the uptake point as [CLAIM-403](CLAIM-403.md). Its limit is this claim's.
+A26: "The mechanism itself is not inherently unjust. A normative
+conclusion requires establishing relevant prejudice, wrongful exclusion,
+or another justified standard of unfairness." Whether the loop is
+pathological by an internal standard is [QUESTION-087](../questions.d/QUESTION-087.md). Whether it destroys
+competence, not just the evidence of it, is [QUESTION-134](../questions.d/QUESTION-134.md).

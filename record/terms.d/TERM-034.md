@@ -21,6 +21,8 @@ used_by:
 - CLAIM-244
 - CLAIM-199
 - CLAIM-220
+complements:
+- TERM-064
 ---
 
 # TERM-034: fidelity, as selective preservation of decision-relevant observational information under a communication constraint, relative to an interpreter

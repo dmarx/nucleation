@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpuz3py
 title: 'Which of predictive autonomy, interventional autonomy, organizational closure and self-individuation must a coalition of processes have before it is a higher-level agent and not a convenient aggregate, and, beyond an effective-information advantage without closure or self-individuation, which of them can it have without the others?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -19,6 +19,15 @@ history:
     coalition of processes have before it is a higher-level agent and not
     a convenient aggregate, and can it have the first without the
     others?'
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: the owner's leave-one-out
+    (QUESTION-252) asks this question's which-come-apart
+    systematically, and A8–A9 restated the ladder with a fifth, normative
+    step; the first step's failure is now shown twice (THEORY-820,
+    CLAIM-409). The question is unchanged.
 tags:
 - individuation
 - agency
@@ -38,6 +47,7 @@ refined_by:
 - QUESTION-204
 - QUESTION-250
 ---
+<!-- inactive-ok-file: CLAIM-174 CLAIM-348 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: CLAIM-170 CLAIM-194 QUESTION-009 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
@@ -93,3 +103,21 @@ systems that maintain nothing and with a grouping an analyst chose. This
 question keeps what that leaves: which criteria a higher-level agent
 needs, whether any is sufficient, and whether predictive autonomy from
 data, closure or self-individuation can be had without the others.
+
+## Note of 2026-10-21: the leave-one-out, and the ladder again
+
+**The leave-one-out.** The owner's leave-one-out design of 2026-10-20
+(U3, filed as [QUESTION-252](QUESTION-252.md)) asks this question's "which come apart" systematically, of five
+conditions on an effective description; the half that version 1's title
+put as "can it have the first without the others?" is now [QUESTION-250](QUESTION-250.md). The exchange did not cite this question.
+
+**The ladder again.** A8 §11 and A9 §1 and §10 of the exchange of
+2026-10-20 restated this question as "Distinguishable pattern ⇏
+Autonomous dynamics ⇏ Organized individual ⇏ Agent", with four tests
+(predictive, dynamical, interventional, organizational). They added a
+fifth step: "A system is an agent, therefore its perspective is
+normatively authoritative", which is [CLAIM-075](../claims.d/CLAIM-075.md) and [CLAIM-348](../claims.d/CLAIM-348.md). Neither
+reply cites this question, [CLAIM-174](../claims.d/CLAIM-174.md) or [THEORY-071](../theory.d/THEORY-071.md), which hold the same
+structure. What is new is that the first step's failure is now
+demonstrated twice: noise is closed, and closure does not compose
+([THEORY-820](../theory.d/THEORY-820.md), [CLAIM-409](../claims.d/CLAIM-409.md)).

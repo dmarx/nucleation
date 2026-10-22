@@ -5,7 +5,15 @@ formerly:
 - QUESTION-tmprdpkh
 title: How should the cost of recovering a distinction from a representation be
   defined, relative to an encoding, a class of procedures and a success criterion?
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the reading of Xu et al. on usable
+    information (NOTE-1048): V-information fixes two of the three
+    parameters and has no cost of recovery, so it does not answer. The
+    question is unchanged and stays Open.
 tags:
 - information-theory
 - mathematics
@@ -39,3 +47,17 @@ An answer is a definition with those three parameters fixed, shown to
 recover [CLAIM-199](../claims.d/CLAIM-199.md)'s rule-class case and [CLAIM-304](../claims.d/CLAIM-304.md)'s computational case as
 special cases. Time-bounded Kolmogorov complexity and computational
 learning theory are the nearest existing tools.
+
+## Note of 2026-10-21: V-information fixes two of the three parameters
+
+Xu, Zhao, Song, Stewart and Ermon 2020 ([LIT-1309](../literature.d/LIT-1309.md), [NOTE-1048](../notes.d/NOTE-1048.md)),
+read in full on 2026-10-21. Their V-information fixes the class of
+procedures (a predictive family V) and the success criterion (log loss),
+and with V the one-coordinate rules it recovers [CLAIM-199](../claims.d/CLAIM-199.md)'s rule-class case
+([THEORY-846](../theory.d/THEORY-846.md)). It has no cost of recovery: a procedure is in V or not.
+[CLAIM-304](../claims.d/CLAIM-304.md)'s computational case would be V the efficient predictors, which
+the paper names (its §3.3) and proves nothing about. Its PAC bound
+([THEORY-840](../theory.d/THEORY-840.md)) makes the quantity estimable for a family of bounded
+complexity, which is a cost of measuring it, not of recovering the
+distinction. So it is one of the "nearest existing tools", not an answer.
+The question stays Open.

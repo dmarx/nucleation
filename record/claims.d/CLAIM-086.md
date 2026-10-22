@@ -4,7 +4,16 @@ status: Active
 formerly:
 - CLAIM-tmpo4t0w
 title: 'A constraint may govern conduct without governing the conditions under which it remains authoritative'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A18 separated first-order freedom
+    from second-order self-governance under deregulation, this claim's
+    distinction carried to removing a constraint (CLAIM-410). The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -32,8 +41,11 @@ complements:
 - CLAIM-272
 grounds:
 - THEORY-223
+supports:
+- CLAIM-410
 ---
 <!-- ref::uses-file: TERM-017 — stated in "precedence, jurisdiction and suspension"; the body applies the term without naming it -->
+<!-- inactive-ok-file: CLAIM-410 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-086: A constraint may govern conduct without governing the conditions under which it remains authoritative
 
@@ -61,3 +73,14 @@ orthogonal to scope. "Either can be local or global." Its example was
 processes are allowed to update a particular memory". The r/place template
 designer ([CASE-079](../cases.d/CASE-079.md)) is a case of the governing kind with almost no
 direct share of the canvas. Workbench entry of 2026-10-13, 21:29.
+
+## Note of 2026-10-21: carried to the removal of a constraint
+
+A18 of the exchange of 2026-10-20, on deregulation, separated "first-order
+freedom" ("What am I permitted or able to do?") from "second-order
+self-governance" ("Who determines and revises the conditions under which
+I can act?"), and said neither entails the other. This is this claim's
+distinction carried from a single constraint to the removal of one: a
+constraint may govern conduct without governing the conditions of its own
+authority, and removing it may change either. A18 did not cite this
+claim. [CLAIM-410](CLAIM-410.md), filed from A18, rests on it.

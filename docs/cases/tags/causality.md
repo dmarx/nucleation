@@ -6,8 +6,8 @@
 
 **Causality** — causation and the structure of causal relations — causal order, definite and indefinite, and its combinatorics, topology and geometry; sheaf- and process-theoretic accounts of causality; causal models, causal inference and interventionist accounts of what a causal relation is; and the metaphysics of causation — exclusion, mental causation, causal emergence and closure, reciprocal causation (ADR-035).
 
-0 of 122 CASE documents. Back to the [full index](../README.md).
+1 of 125 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-125](../../../record/cases.d/CASE-125.md) v2 | A hidden governance bit: an output that is fresh fair noise whatever a fixed hidden bit K is, until an intervention h makes the output read K, so the output alone is exactly informationally closed under ordinary operation and keeps nothing about the response to h | A16 §3–4 of the exchange of 2026-10-20, from A15 §2's deterministic form, and A17's Proposition 1. A fair hidden bit K, fixed in time; under ordinary operation the output Y is fresh fair noise; under the intervention h = 1 it reads K. The output is exactly closed, and with h = 1 drawn with probability ρ its deficiency for the response to h is ρ bits, no better than a constant. It is the first instance with parameters of [CLAIM-122](../../../record/claims.d/CLAIM-122.md)'s supervisory test, which the exchange of 2026-10-17 gave only in words. Fictional by construction; K is a mechanism parameter, not an agent's governance. | Active |

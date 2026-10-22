@@ -24,8 +24,11 @@ summary: >-
 supports:
 - CLAIM-330
 - CLAIM-338
+- CLAIM-400
 variants:
 - CASE-106
+- CASE-123
+- CASE-124
 ---
 
 <!-- inactive-ok-file: CLAIM-297 — Proposed; the thesis this construction bears on and the claim it grounds -->

@@ -6,7 +6,15 @@ formerly:
 title: Two inquiry histories can agree on every current conclusion and still call
   for different revisions of it, so a current marginal belief is not a sufficient
   state for updating on evidence about what it depended on
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A2 and A5 read this claim as a case
+    for provenance, which its own "What it does not say" rules out. The
+    claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -95,3 +103,12 @@ richer current state, a base or an ordering, suffices for one revision.
 Neither is a record of what a belief depended on, so neither supports
 reading this claim as an argument for keeping justifications ([CLAIM-295](CLAIM-295.md)'s
 question, not this one's).
+
+## Note of 2026-10-21: the provenance misreading recurs
+
+A2 and A5 of the exchange of 2026-10-20 read this claim as a case for
+provenance ("The value of evidence provenance depends on ...", and "No
+provenance" as an ablation that loses revision). This claim's own "What it
+does not say" is against that reading: "Keeping the joint over (H, C) is
+enough here, with no history at all." The misreading recurs. A1 of the
+same exchange did keep the warning.

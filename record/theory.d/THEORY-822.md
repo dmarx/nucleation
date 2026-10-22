@@ -29,6 +29,8 @@ answers:
 - QUESTION-218
 summary: >-
   Rosas et al. (arXiv 2024), [LIT-1306](../literature.d/LIT-1306.md), read in [NOTE-1030](../notes.d/NOTE-1030.md), on Kemeny–Snell lumpability, joined to Shpak et al.'s column-equitable partitions ([LIT-1242](../literature.d/LIT-1242.md), [THEORY-755](THEORY-755.md)). Exact closure of a block label in a Markov chain is a condition on transition rows, a symmetry, and not weak coupling. The converse needs the label to be Markov: a closed label can have memory. Exact results only, with no bound for nearly lumpable partitions.
+supports:
+- CLAIM-409
 ---
 # THEORY-822: For a Markov chain and a partition of its states, strong lumpability, every state of a block sending the same probability into each block, is the column-equitability of the master-equation operator and makes the block label informationally closed; when the chain is irreducible, an informationally closed label that is itself Markov is strongly lumpable, with no aperiodicity needed; weak lumpability gives a Markov label that need not be closed; and the same holds on the causal-state chain of any stationary process
 

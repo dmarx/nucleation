@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmph678z
 title: 'Sen''s two aspects of freedom divide along the record''s line between what an agent can viably reach and the organization that selects among it: viable reachability can stand for the opportunity aspect only through a map from trajectories to valued functionings, which control theory does not supply, and will-organization gives a causal account of part of the process aspect, not of its fairness or legitimacy'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A18's two notions of freedom are
+    Sen's opportunity and process aspects under other names, applied to
+    institutions. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,6 +41,7 @@ grounds:
 complements:
 - CLAIM-075
 - CLAIM-354
+- CLAIM-410
 summary: >-
   The owner's connection, U11 of the exchange of 2026-10-17, quoting A9
   and A10 on viable reachability: "This feels reminiscent of ideas from
@@ -114,3 +123,12 @@ reachable outcomes and will-organization."
   shrink what is reachable while securing a valued capability (A11 §4,
   [CASE-013](../cases.d/CASE-013.md)). How far that counts as more freedom is a question of
   weights.
+
+## Note of 2026-10-21: a second appearance, for institutions
+
+A18 of the exchange of 2026-10-20 gave two notions of freedom, "Breadth of
+feasible actions" and "Authority over the formation and revision of
+constraints". They are Sen's opportunity and process aspects under other
+names, applied to institutions. A18 did not cite Sen or this claim. It is
+a second appearance. The sharp edge holds: authority over revision is not
+by that fact a fair process.

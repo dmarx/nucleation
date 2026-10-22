@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpq9do8
 title: 'The loop that keeps a lucid agent''s model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference''s action–perception cycle misplaces where the agent is active'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A16 §8 re-derived this loop as
+    "governance of the observer" without citing it or CLAIM-330 and
+    CLAIM-340. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -62,6 +70,7 @@ summary: >-
   [TERM-039](../terms.d/TERM-039.md) and [CLAIM-127](CLAIM-127.md), and the record demoted it once before
   ([CLAIM-109](CLAIM-109.md)).
 ---
+<!-- inactive-ok-file: CLAIM-404 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # CLAIM-341: The loop that keeps a lucid agent's model in touch with what it models runs between judgement and observation: each judgement reshapes the observer whose later observations it then judges, and action on the world is not part of that loop, so active inference's action–perception cycle misplaces where the agent is active
 
@@ -308,3 +317,14 @@ A37's, not Slovic's. Feldman and Lynch ([LIT-1196](../literature.d/LIT-1196.md))
 that supports it.
 
 The status is unchanged.
+
+## Note of 2026-10-21: the loop re-derived as governance of the observer
+
+A16 §8 of the exchange of 2026-10-20, "Governance of the observer",
+re-derived this loop ("**The governor may partly determine the evidence on
+which future governance decisions depend**") without citing it, and
+without [CLAIM-330](CLAIM-330.md) and [CLAIM-340](CLAIM-340.md), which say when it is self-confirming. Its
+"first-order" and "second-order epistemic adequacy" (preserving the
+answers to a fixed query family, against preserving how the family is
+selected) appears once. The exchange took the loop on to institutions in
+[CLAIM-404](CLAIM-404.md).

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmp1bt6j
 title: 'Beyond what retention, dynamical independence and Ψ are known to track, can a collective''s boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-20'
@@ -23,6 +23,13 @@ history:
     retention, dynamical independence, effective information and an Occam
     price on the candidate, and where these criteria disagree, which of
     persistence, integration and causal level does each track?'
+- version: 4
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: the owner's leave-one-out
+    (QUESTION-252) asks of five conditions on an effective description
+    what this question asks of each criterion. The question is unchanged.
 tags:
 - individuation
 - information-theory
@@ -46,6 +53,7 @@ summary: >-
 refined_by:
 - QUESTION-243
 ---
+<!-- inactive-ok-file: CLAIM-401 — Proposed; cited in the note of 2026-10-21, nothing here rests on it -->
 
 <!-- inactive-ok-file: CLAIM-331 LIT-1137 — Deferred or Proposed; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
 # QUESTION-115: Beyond what retention, dynamical independence and Ψ are known to track, can a collective's boundary, its temporal resolution and its macrostate be found together, by temporal information retention, dynamical independence, effective information and an Occam price on the candidate, and where these criteria disagree on one system, which level does each pick?
@@ -154,3 +162,15 @@ ways, neither needs the parts to interact, and neither prices a feature's
 size ([THEORY-764](../theory.d/THEORY-764.md)). This question keeps the joint search for boundary,
 timescale and macrostate with an Occam price, its test on [CASE-101](../cases.d/CASE-101.md), and
 where effective information parts from the others on one system.
+
+## Note of 2026-10-21: the leave-one-out over the criteria
+
+The owner's leave-one-out design of 2026-10-20 (U3, filed as
+[QUESTION-252](QUESTION-252.md)) asks systematically, of five conditions on an
+effective description (predictive sufficiency, dynamical independence,
+memory closure, approximation fidelity, feasible recoverability), whether
+each can hold without the others. That is this question's "what each
+criterion tracks", asked as a table. The exchange did not cite this
+question. [CLAIM-401](../claims.d/CLAIM-401.md)'s answer to the design is that the conditions are
+not of one logical kind, so the table's cells are not all of one sort
+either.

@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpt64jh
 title: 'Does near-decomposability bound dynamical dependence: when the coupling into a block from the rest of the system is at most ε, is the dynamical dependence of the block''s aggregate small to a stated order in ε?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -13,6 +13,14 @@ history:
     nearly decomposable block, is QUESTION-242, Answered No by
     CLAIM-388. The title drops its last clause, "and is the converse
     false?". The forward bound is still open.
+- version: 3
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A2 listed accuracy without
+    independence among non-implications "already established" on THEORY-771
+    alone; the record bounds the dependence but holds no construction of it.
+    The question is unchanged.
 tags:
 - complex-systems
 - information-theory
@@ -109,3 +117,14 @@ Answered by [CLAIM-388](../claims.d/CLAIM-388.md). This question keeps the forwa
 block's aggregate. [CLAIM-390](../claims.d/CLAIM-390.md) answers it for the block's full state and
 [CLAIM-386](../claims.d/CLAIM-386.md) gives the one-step deterministic defect, but neither bounds
 the aggregate's dynamical dependence.
+
+## Note of 2026-10-21: a non-implication claimed as established
+
+A2 of the exchange of 2026-10-20 listed "an approximate reduced dynamics
+can be accurate without establishing informational independence" among
+non-implications "already established", on [THEORY-771](../theory.d/THEORY-771.md) alone. A3 called the
+same case "a promising conceptual separation". Neither cited this
+question, [CLAIM-390](../claims.d/CLAIM-390.md) or [CLAIM-386](../claims.d/CLAIM-386.md). The record bounds the dependence (second
+order in the coupling into a block) but holds no construction of the
+non-implication as stated. It is one of the cells [QUESTION-252](QUESTION-252.md) asks
+to be filled.

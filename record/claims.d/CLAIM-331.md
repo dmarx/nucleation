@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmpufacs
 title: 'A level of organization has a temporal facet as well as a compositional one: higher-level variables are characteristically slower and longer-lived than the activity that produces them, though slowness is a mark of a level and not its definition'
-version: 6
+version: 7
 history:
 - version: 2
   date: '2026-10-16'
@@ -30,6 +30,13 @@ history:
   date: '2026-10-20'
   note: >-
     The third point of the note of 2026-10-20 adds that probabilistic slow feature analysis assumes slowness in its prior (NOTE-1015). The claim is unchanged.
+- version: 7
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A16's caution not to mistake
+    second-order for slower is this claim's sharp edge, uncited. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -201,3 +208,9 @@ names. Neither defeats it.
   of slow feature analysis put slowness in the prior: a random walk in
   Schüler and Wiskott ([NOTE-1015](../notes.d/NOTE-1015.md)), an ordered decay in Turner and
   Sahani as that paper reports it. So they are not evidence either.
+
+## Note of 2026-10-21: second-order is not slower
+
+A16 of the exchange of 2026-10-20 cautioned that "it is important not to
+mistake *second-order* for *slower*". That is this claim's sharp edge,
+uncited: slowness is a mark of a level, not its definition.

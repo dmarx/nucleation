@@ -4,7 +4,15 @@ status: Active
 formerly:
 - TERM-tmp9lmlt
 title: 'frustration, of an organization''s demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange of 2026-10-20 on effective
+    description, agency and legibility: A13 and A14 proposed an "admissible
+    transformation class" in the invariance sense, which is not this term's
+    admissible transformations. The definition is unchanged.
 tags:
 - self-governance
 - agency
@@ -30,6 +38,8 @@ used_by:
 - CLAIM-366
 - CLAIM-368
 ---
+<!-- inactive-ok-file: CLAIM-147 CLAIM-187 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
+<!-- inactive-ok-file: CLAIM-133 — Superseded; cited in the note of 2026-10-21, nothing here rests on it -->
 
 # TERM-060: frustration, of an organization's demands: the failure of the demands it maintains to be jointly realizable under its admissible transformations and its governance
 
@@ -167,3 +177,14 @@ relation to operative thwarting of a particular constituent's demand
   demands, so that removing a demand from consideration does not count as
   meeting it ([CLAIM-361](../claims.d/CLAIM-361.md)). Frustration need not be
   pathological: some demands deserve to be refused.
+
+## Note of 2026-10-21: a homonym: admissible transformation class
+
+The exchange of 2026-10-20 (A13, A14) proposed an "admissible
+transformation class": the transformations under which a structure "must
+remain invariant or transform appropriately". That is the invariance sense
+of [CLAIM-187](../claims.d/CLAIM-187.md), [CLAIM-147](../claims.d/CLAIM-147.md), the superseded [CLAIM-133](../claims.d/CLAIM-133.md) and [TERM-004](TERM-004.md)'s
+semigroup. This term's admissible transformations are a different thing:
+the set U of changes available to an organization, under which its
+demands may be jointly unrealizable. A claim using the phrase should say
+which. Not filed.
