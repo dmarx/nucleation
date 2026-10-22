@@ -24,8 +24,8 @@ date: '2026-10-22'
 source:
 - LIT-tmpg6f7h
 summary: >-
-  Woods, Windt & Carter (2022), LIT-tmpg6f7h, read in the submitted
-  preprint in NOTE-tmpz0x5w. An evidence synthesis of 135 texts by eight
+  Woods, Windt & Carter (2022), [LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md), read in the submitted
+  preprint in [NOTE-tmpz0x5w](../notes.d/NOTE-tmpz0x5w.md). An evidence synthesis of 135 texts by eight
   teachers codes 65 features of the goal-states: the same across practices
   on 14, different on 4, unclear on 47. The states lack everyday content
   but keep wakefulness, calm, stillness, bliss, knowing, freedom and unity;
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-Woods, Windt & Carter (2022), LIT-tmpg6f7h, read in full in NOTE-tmpz0x5w
+Woods, Windt & Carter (2022), [LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md), read in full in [NOTE-tmpz0x5w](../notes.d/NOTE-tmpz0x5w.md)
 from the submitted preprint on MindRxiv (osf.io/ve7z2, 2021): method
 (§2, pp. 5–8), results (§§3.1–3.18, pp. 8–38), discussion (§§4.1–4.5,
 pp. 40–45), limitations (§4.9, p. 47). The version of record was not
@@ -102,16 +102,16 @@ neither.
 No relation is declared. The record has no question asking whether
 contentless experience exists.
 
-- **CLAIM-tmpdga80.** The exchange cited the paper for the point that
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** The exchange cited the paper for the point that
   apparently contentless states keep wakefulness and calm. This account
   holds that point, scoped to the texts. What it means for the claim, that
   the residue is non-conceptual organization rather than explicit
-  interpretation, is drawn out in NOTE-tmpz0x5w.
-- **TERM-tmpe36gg.** Reported loss of subject–object duality and ego with
+  interpretation, is drawn out in [NOTE-tmpz0x5w](../notes.d/NOTE-tmpz0x5w.md).
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).** Reported loss of subject–object duality and ego with
   consciousness persisting is a reported case of the represented and
   phenomenal senses of perspective coming apart.
-- **THEORY-063.** Reports of unity without ego are consonant with unity
+- **[THEORY-063](THEORY-063.md).** Reports of unity without ego are consonant with unity
   without a self-model, at the level of report only.
-- **THEORY-tmp9y4pc.** The EEG study of TM defines its report scale's top
+- **[THEORY-tmp9y4pc](THEORY-tmp9y4pc.md).** The EEG study of TM defines its report scale's top
   as "free from content", a description this account finds TM's teachers
   do not give.

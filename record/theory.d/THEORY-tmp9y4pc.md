@@ -27,8 +27,8 @@ date: '2026-10-22'
 source:
 - LIT-tmphw2n7
 summary: >-
-  Chandia-Jorquera et al. (2026), LIT-tmphw2n7, read in the bioRxiv v3
-  preprint in NOTE-tmpdfg0e. 33 practitioners against 33 matched controls
+  Chandia-Jorquera et al. (2026), [LIT-tmphw2n7](../literature.d/LIT-tmphw2n7.md), read in the bioRxiv v3
+  preprint in [NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md). 33 practitioners against 33 matched controls
   who counted: higher and more variable retrospective pure-awareness traces
   (d = 0.77, 1.32); 65% balanced accuracy separating meditation from
   counting, on entropy and aperiodic EEG; 88% sensitivity separating
@@ -45,7 +45,7 @@ summary: >-
 ## Source
 
 Chandia-Jorquera, van Mil, Estarellas, Dauphin, Pascovich &
-Canales-Johnson (2026), LIT-tmphw2n7, read in full in NOTE-tmpdfg0e from
+Canales-Johnson (2026), [LIT-tmphw2n7](../literature.d/LIT-tmphw2n7.md), read in full in [NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md) from
 the bioRxiv preprint, version 3 (2 April 2026): methods (pp. 2–6),
 results (pp. 6–10), discussion (pp. 11–14). The version of record in the
 Journal of Cognitive Neuroscience was not read.
@@ -86,7 +86,7 @@ take this to mean there is none.
   experimenters. The authors concede possible demand effects for controls
   (p. 13). Practitioners were recruited through the TM organisation and
   know what the practice is said to produce. Woods, Windt & Carter
-  (LIT-tmpg6f7h; THEORY-tmp1lndf) find that TM's own teachers describe the
+  ([LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md); [THEORY-tmp1lndf](THEORY-tmp1lndf.md)) find that TM's own teachers describe the
   state as keeping wakefulness, calm, bliss and knowing.
 - **It does not separate state from trait or task.** The 65% contrast is
   meditators meditating against non-meditators counting.
@@ -94,7 +94,7 @@ take this to mean there is none.
   effortless access.** It is the absence of an association in 33 people.
 - **The peak-report p-value is overstated.** t = 3.10 is printed with
   p < 0.001; with about 64 degrees of freedom it gives p ≈ 0.003
-  (recomputed in NOTE-tmpdfg0e). The difference stands at p < 0.01.
+  (recomputed in [NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md)). The difference stands at p < 0.01.
 
 ## Connections
 
@@ -102,12 +102,12 @@ No relation is declared. The record has no question about the neural
 correlates of minimal-content states, and the account neither supports
 nor tests the claims below.
 
-- **CLAIM-tmpdga80.** The exchange offered this study as experience with
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** The exchange offered this study as experience with
   little interpretation. As read, it shows reports of little content and a
   distinct EEG organization, which bears on the claim's caveat that
   interpretation is not rich conceptualization, and not on the claim.
-- **CLAIM-tmp1lvwf.** Every phenomenal fact here is a report, and the
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).** Every phenomenal fact here is a report, and the
   report was not tied to the neural data. That is the access problem the
   counter turns on.
-- **THEORY-tmp1lndf**, filed from the sibling reading, is the textual
+- **[THEORY-tmp1lndf](THEORY-tmp1lndf.md)**, filed from the sibling reading, is the textual
   evidence that the state TM aims at is not contentless.

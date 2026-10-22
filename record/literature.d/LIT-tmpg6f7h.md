@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmpz0x5w) from the submitted preprint on MindRxiv (osf.io/ve7z2); worth reading as the systematic case that meditative states called contentless are described by their own teachers as lacking thoughts, perceptions, images and memories but keeping wakefulness, calm, stillness, bliss, a non-conceptual knowing, freedom and unity, and as differing across Shamatha, TM and Stillness Meditation, chiefly in Shamatha''s far greater attentional stability and vividness. 135 texts by eight teachers, 65 features: the same on 14, different on 4, unclear on 47. Its main limit is that the evidence is teachers'' descriptions, not practitioners'' reports, and that "not truly contentless" rests on counting qualities such as calm and simplicity as content, which the paper does not define.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmpz0x5w](../notes.d/NOTE-tmpz0x5w.md)) from the submitted preprint on MindRxiv (osf.io/ve7z2); worth reading as the systematic case that meditative states called contentless are described by their own teachers as lacking thoughts, perceptions, images and memories but keeping wakefulness, calm, stillness, bliss, a non-conceptual knowing, freedom and unity, and as differing across Shamatha, TM and Stillness Meditation, chiefly in Shamatha''s far greater attentional stability and vividness. 135 texts by eight teachers, 65 features: the same on 14, different on 4, unclear on 47. Its main limit is that the evidence is teachers'' descriptions, not practitioners'' reports, and that "not truly contentless" rests on counting qualities such as calm and simplicity as content, which the paper does not define.'
 title: 'Evidence synthesis indicates contentless experiences in meditation are neither truly contentless nor identical'
 version: 2
 history:
@@ -60,7 +60,7 @@ Woods, T. J., Windt, J. M. & Carter, O. (2022). Evidence synthesis indicates con
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpz0x5w.*
+*From the reading, [NOTE-tmpz0x5w](../notes.d/NOTE-tmpz0x5w.md).*
 
 - **What is absent.** In all three practices the goal-state is described
   as having no thoughts, concepts, images, memories, awareness of the
@@ -100,7 +100,7 @@ paper's nearest material is the two passages above: one teacher's view
 that unconscious conceptualization shapes the state, and the texts'
 statement that interpretation can follow an experience and differ while
 the experience does not. They point in opposite directions; see
-NOTE-tmpz0x5w, Bearing on the record.
+[NOTE-tmpz0x5w](../notes.d/NOTE-tmpz0x5w.md), Bearing on the record.
 
-Filed from this work on 2026-10-22: THEORY-tmp1lndf, on what the expert
+Filed from this work on 2026-10-22: [THEORY-tmp1lndf](../theory.d/THEORY-tmp1lndf.md), on what the expert
 texts describe.

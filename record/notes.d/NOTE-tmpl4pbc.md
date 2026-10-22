@@ -187,11 +187,11 @@ cognition. It names Villalobos (2013) among cyberneticists hostile to
 informational talk, and Villalobos co-wrote the 2017 taxonomy Ward now
 disowns. The record holds none of these, apart from Seth's work: Seth
 2014 and 2021 are placed on the informationalist side, which bears on the
-record's Seth readings (LIT-1263; LIT-135).
+record's Seth readings ([LIT-1263](../literature.d/LIT-1263.md); [LIT-135](../literature.d/LIT-135.md)).
 
 ## Bearing on the record
 
-- **CLAIM-tmpjw8ev (grounding is a relation, apart from occurrence).** The
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) (grounding is a relation, apart from occurrence).** The
   exchange cited this paper for life–mind continuity and the primacy of
   experience, and drew from it the enactive challenge to the claim: that
   an organization can be held without current input does not show it
@@ -206,14 +206,14 @@ record's Seth readings (LIT-1263; LIT-135).
   what grounds it. For an enactivist, meaning, and with it experience,
   depends on the organization's inherence in a living self-maintaining
   system (§5), not on its informational structure.
-- **CLAIM-tmpdga80 and TERM-tmpgqmop (interpretation as organization of
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) and [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md) (interpretation as organization of
   information).** On Ward's map the constitutive thesis is
-  informationalist. TERM-tmpgqmop defines interpretation as
+  informationalist. [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md) defines interpretation as
   differentiating information within an operative organization, and A7
   separated the thesis from any requirement of biology. That puts the
   thesis with predictive processing and cybernetics, and against
   enactivism, however much it speaks of organization. The cut is
-  sharpened by TERM-tmpe36gg: self-maintenance was withdrawn as a
+  sharpened by [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md): self-maintenance was withdrawn as a
   necessary mark of perspective, which is the step an organicist would
   refuse. The paper does not show the organicist is right (§6), so this
   locates the record's thesis rather than refuting it.
@@ -222,25 +222,25 @@ record's Seth readings (LIT-1263; LIT-135).
   and re-shape the experiences themselves" (§1, developed in §6). That is a claim that
   interpretation partly constitutes the character of experience, at the
   level of culture rather than of a single system's processing. It is
-  closer to CLAIM-tmpdga80's direction than the exchange's use of the
+  closer to [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md)'s direction than the exchange's use of the
   paper suggests, though it is asserted, not argued.
-- **QUESTION-tmpc4j7p.** Ward's distinctive/characteristic distinction is a
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** Ward's distinctive/characteristic distinction is a
   ready test for any proposed answer. A condition that drones or "suitably
   constituted and embedded LLMs" could meet is, for the enactivist,
   characteristic of life and not distinctive, and so cannot be what makes
   meaning. The question's own constraint, that the separation must not be
   drawn from the verdict on machines, cuts against that test too.
-- **The meditation readings (LIT-tmphw2n7, LIT-tmpg6f7h).** §6's reading of
+- **The meditation readings ([LIT-tmphw2n7](../literature.d/LIT-tmphw2n7.md), [LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md)).** §6's reading of
   contemplative reports, as enacted within a tradition's vocabulary and not
   as observation of a fixed inner stream, bears on both. Woods, Windt &
   Carter code teachers' descriptions, and Chandia-Jorquera et al. give
   participants a scale with its top defined as "free from content". On
   Ward's view neither reaches an experience prior to its description.
-- **THEORY-767 and the Seth line.** Ward's footnote 6 places Seth's
+- **[THEORY-767](../theory.d/THEORY-767.md) and the Seth line.** Ward's footnote 6 places Seth's
   biological naturalism on the informationalist side. The record's
-  interoceptive-inference reading (THEORY-767; LIT-1263) is, on this
+  interoceptive-inference reading ([THEORY-767](../theory.d/THEORY-767.md); [LIT-1263](../literature.d/LIT-1263.md)) is, on this
   taxonomy, embodied but not enactive.
-- **THEORY filed.** THEORY-tmpnwjjt states the taxonomy, as Proposed.
+- **THEORY filed.** [THEORY-tmpnwjjt](../theory.d/THEORY-tmpnwjjt.md) states the taxonomy, as Proposed.
 - No instruction for machine-learning practice; nothing for the
   anthology.
 
@@ -268,7 +268,7 @@ record's Seth readings (LIT-1263; LIT-135).
   systems have minds or experience, or only about how to explain the ones
   that do?
 - Is reciprocity testable: does adopting a vocabulary change experience,
-  or only reports of it? The meditation literature (LIT-tmpg6f7h) is one
+  or only reports of it? The meditation literature ([LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md)) is one
   place to look.
 - Where does a self-maintaining but non-living system, an organizational
   closure built in silico, fall on the axis?

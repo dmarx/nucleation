@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmpdfg0e) from the bioRxiv preprint, version 3; worth reading as the largest EEG study of Transcendental Meditation with time-resolved reports: 33 practitioners traced more, and more variable, "pure awareness" than 33 matched controls who counted, and a classifier on distributed EEG patterns separated meditation from counting (65% balanced accuracy, on entropy and aperiodic activity) and from rest (88% sensitivity, on low-frequency phase coherence). Its main limit is that the reports were not shown to track any EEG feature. The reports are retrospective ratings on a scale whose top the experimenters defined as "free from content", demand is conceded only for controls, and the study was funded by, and recruited through, the TM organisation. Evidence about a practice period and about reports, not a neural signature of experience with little content.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md)) from the bioRxiv preprint, version 3; worth reading as the largest EEG study of Transcendental Meditation with time-resolved reports: 33 practitioners traced more, and more variable, "pure awareness" than 33 matched controls who counted, and a classifier on distributed EEG patterns separated meditation from counting (65% balanced accuracy, on entropy and aperiodic activity) and from rest (88% sensitivity, on low-frequency phase coherence). Its main limit is that the reports were not shown to track any EEG feature. The reports are retrospective ratings on a scale whose top the experimenters defined as "free from content", demand is conceded only for controls, and the study was funded by, and recruited through, the TM organisation. Evidence about a practice period and about reports, not a neural signature of experience with little content.'
 title: 'Distilling the Neurophenomenological Signatures of Pure Awareness during Transcendental Meditation'
 version: 2
 history:
@@ -51,7 +51,7 @@ Chandia-Jorquera, A., van Mil, S. D., Estarellas, M., Dauphin, M., Pascovich, C.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpdfg0e.*
+*From the reading, [NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md).*
 
 - **The reports.** After a 30-minute session, participants drew how far
   they had experienced "pure awareness", on a scale whose top was defined
@@ -83,11 +83,11 @@ observe experience with little conceptual content. It records
 retrospective ratings on a scale the experimenters defined as running from
 "No content" to "Full of content", and it found no link between those
 ratings and the EEG. Its own definition of pure awareness keeps
-wakefulness and alert presence, and Woods, Windt & Carter (LIT-tmpg6f7h)
+wakefulness and alert presence, and Woods, Windt & Carter ([LIT-tmpg6f7h](LIT-tmpg6f7h.md))
 find TM's teachers describing the state as keeping calm, bliss and
 knowing. So the study is consistent with the point the exchange drew, that
 constitutive interpretation is not rich conceptualization, but it does not
-test it; see NOTE-tmpdfg0e, Bearing on the record.
+test it; see [NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md), Bearing on the record.
 
-Filed from this work on 2026-10-22: THEORY-tmp9y4pc, on what the study
+Filed from this work on 2026-10-22: [THEORY-tmp9y4pc](../theory.d/THEORY-tmp9y4pc.md), on what the study
 shows about reports and EEG, and what it does not.

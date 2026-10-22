@@ -189,7 +189,7 @@ no reading of Forman, Shear, Metzinger 2020 or Millière.
 
 ## Bearing on the record
 
-- **CLAIM-tmpdga80 (experience constituted by interpretive organization).**
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (experience constituted by interpretive organization).**
   The exchange cited this paper for the point that apparently contentless
   states keep features such as wakefulness and calm, so that they may
   still carry interpretive structure. The paper supports the first half
@@ -207,34 +207,34 @@ no reading of Forman, Shear, Metzinger 2020 or Millière.
   which is right. In the claim's terms the paper's chief lesson is
   limiting: the residual content (calm, stillness, knowing) is not
   conceptual, so if the claim needs interpretation here, it is the broad
-  sense of TERM-tmpgqmop, and the case does not distinguish that from
+  sense of [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md), and the case does not distinguish that from
   bare organization.
-- **CLAIM-tmp1lvwf (much interpretation not shown to be experiential).**
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md) (much interpretation not shown to be experiential).**
   It gives the counter a mirror case: states reported as experience while
   explicit interpretation is reported absent. If the claim keeps such
   states as experiential, what does the work must be organization below
   the level of concepts, which is where the counter says the unconscious
   cases also sit.
-- **QUESTION-tmpc4j7p.** The features said to survive when everyday
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** The features said to survive when everyday
   content goes (wakefulness, unity, a non-conceptual knowing, no
   subject–object duality) are candidate marks of what keeps an
   organization experiential. They come from texts, not from tests.
-- **TERM-tmpe36gg (perspective, three senses).** The reported loss of
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md) (perspective, three senses).** The reported loss of
   subject–object duality and of ego, with consciousness persisting, is
   the case where the represented perspective (sense 2) fails and a
   phenomenal one (sense 3) is still claimed. The TM and Stillness
   "true self" reports complicate that: some self-content may survive
   (§4.6).
-- **THEORY-063 (unity without a self-model).** Reports of unity and
+- **[THEORY-063](../theory.d/THEORY-063.md) (unity without a self-model).** Reports of unity and
   wholeness with ego gone fit Metzinger's claim that unity does not need a
   self-model. This is report-level consonance, not support.
-- **LIT-tmphw2n7 (Chandia-Jorquera et al.).** The paper's §4.4 asks
+- **[LIT-tmphw2n7](../literature.d/LIT-tmphw2n7.md) (Chandia-Jorquera et al.).** The paper's §4.4 asks
   imaging studies to allow for variation among contentless states. That
   study's scale defines TM's state as "free from content", the very
   description this paper finds the TM texts do not support. Its
   practitioners came from the TM organisation, whose teachers are among
   the sources here.
-- **THEORY filed.** THEORY-tmp1lndf states the finding, scoped to the
+- **THEORY filed.** [THEORY-tmp1lndf](../theory.d/THEORY-tmp1lndf.md) states the finding, scoped to the
   texts.
 - No instruction for machine-learning practice; nothing for the
   anthology.

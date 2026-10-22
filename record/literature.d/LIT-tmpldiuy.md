@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in full 2026-10-22 (NOTE-tmpl4pbc) from the author''s accepted manuscript in the University of Edinburgh repository; worth reading as a short, clear map that separates where a view puts cognition''s processes (skull, or brain–body–world) from what it says meaning depends on (information, or organization distinctive of living things). On that map embodied predictive processing, extended functionalism and cybernetics are embodied but informationalist, and the enactive approach of The Embodied Mind is organicist, further marked by the primacy of lived experience and by reciprocity, in which the vocabularies we understand ourselves with reshape the experience they describe. Its main limit is that it argues for a taxonomy, not for organicism, and gives no criterion for which properties are distinctive of life. It does not discuss brains in vats, development or grounding.'
+status_note: 'read in full 2026-10-22 ([NOTE-tmpl4pbc](../notes.d/NOTE-tmpl4pbc.md)) from the author''s accepted manuscript in the University of Edinburgh repository; worth reading as a short, clear map that separates where a view puts cognition''s processes (skull, or brain–body–world) from what it says meaning depends on (information, or organization distinctive of living things). On that map embodied predictive processing, extended functionalism and cybernetics are embodied but informationalist, and the enactive approach of The Embodied Mind is organicist, further marked by the primacy of lived experience and by reciprocity, in which the vocabularies we understand ourselves with reshape the experience they describe. Its main limit is that it argues for a taxonomy, not for organicism, and gives no criterion for which properties are distinctive of life. It does not discuss brains in vats, development or grounding.'
 title: 'What Is Enactivism?'
 version: 2
 history:
@@ -54,7 +54,7 @@ Ward, D. (2026). What Is Enactivism? *Adaptive Behavior* 34(4–5): 253–271. d
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpl4pbc. The manuscript has no page numbers; references are to sections.*
+*From the reading, [NOTE-tmpl4pbc](../notes.d/NOTE-tmpl4pbc.md). The manuscript has no page numbers; references are to sections.*
 
 - **Two axes.** Where cognition's processes are (skull, or
   brain–body–world) is one question. What the meaning of mental states
@@ -90,11 +90,11 @@ organization held without current input need not be one that could arise
 without an embodied history. The paper does not discuss brains in vats,
 development, current input or grounding. That challenge is the exchange's
 own inference from the enactive view. The objection the paper does
-support is different: on its map, CLAIM-tmpjw8ev and CLAIM-tmpdga80 are
+support is different: on its map, [CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) and [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) are
 informationalist, and an enactivist would hold that what makes an
 organization meaningful, and so experiential, is its inherence in a
-living, self-maintaining system. See NOTE-tmpl4pbc, Bearing on the
+living, self-maintaining system. See [NOTE-tmpl4pbc](../notes.d/NOTE-tmpl4pbc.md), Bearing on the
 record.
 
-Filed from this work on 2026-10-22: THEORY-tmpnwjjt, on the organicist
+Filed from this work on 2026-10-22: [THEORY-tmpnwjjt](../theory.d/THEORY-tmpnwjjt.md), on the organicist
 and informationalist axis.
