@@ -67,9 +67,9 @@ say which:
    subject: "There is a single indivisible subject to whom these
    experiences belong." Both can be mistaken, but in different ways. The
    first can misdescribe how interpretation is organized. The second can
-   posit an owner the organization does not contain. CLAIM-355's
+   posit an owner the organization does not contain. [CLAIM-355](../claims.d/CLAIM-355.md)'s
    constructed owner is a represented owner, not a represented
-   perspective, and CASE-114 varies one while holding the organization
+   perspective, and [CASE-114](../cases.d/CASE-114.md) varies one while holding the organization
    fixed. So the record's selective fictionalism concerns owners. It does
    not make represented perspectives fictions, and a system can represent
    its perspective accurately while misrepresenting its owner, or the
@@ -132,7 +132,7 @@ same phenomenon."
 - Not a global section. A perspective in sense 1 can hold conflicting
   interpretations and demands, and a conflict need not be a gluing
   failure. Whether it can hold interpretations that genuinely fail to glue
-  is QUESTION-tmpzje42.
+  is [QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md).
 
 ## What would settle it
 

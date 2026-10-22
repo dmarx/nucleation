@@ -67,7 +67,7 @@ question asks for the condition that does. It sets three contrasts:
 
 The separation must not require that an episode's current sensory
 contents be veridically constrained by their purported external referents
-(CLAIM-tmpjw8ev): a dream or an envatted brain is a case it must cover.
+([CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md)): a dream or an envatted brain is a case it must cover.
 That is all the brain-in-a-vat argument supports. It does not establish
 independence from developmental grounding, from ongoing bodily
 regulation, or from the counterfactual sensorimotor organization of the
@@ -97,7 +97,7 @@ The exchange's candidates, none yet a criterion:
 - endogenous valuation (A7 §12), kept apart from felt distress as
   [CLAIM-368](../claims.d/CLAIM-368.md) keeps frustration apart from it;
 - higher-order or recursive self-interpretation (A3, A4);
-- the coherent world model of an embodied agent, as in IWMT (LIT-tmp5k0u3),
+- the coherent world model of an embodied agent, as in IWMT ([LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md)),
   which requires an embodiment the owner's thesis leaves open: compatible
   with the thesis if the requirement is developmental or counterfactual,
   against it only if current veridical coupling is required.
@@ -120,9 +120,9 @@ change in current grounding with the internal dynamics and their history
 held fixed. A measure that correlates with reports would not answer it.
 
 **The perspectival-target problem.** Any organizational criterion is
-assessed under an effective-description regime, TERM-065's
+assessed under an effective-description regime, [TERM-065](../terms.d/TERM-065.md)'s
 ℛ = (X, 𝒬, ℐ, ℬ, ε, τ). The queries 𝒬, interventions ℐ and timescale τ must
-be chosen, and CLAIM-152 shows that a different target picks a different
+be chosen, and [CLAIM-152](../claims.d/CLAIM-152.md) shows that a different target picks a different
 individuation. A macrostate can be excellent for predicting a firm's
 decisions, an organism's locomotion or a brain's reports without being the
 organization of a perspective. So an answer must also explain why its
