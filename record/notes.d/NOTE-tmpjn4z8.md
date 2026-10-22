@@ -206,16 +206,16 @@ The paper reports no data and no simulation. By section:
 Built on Friston's free-energy principle, Hohwy's self-evidencing,
 Metzinger's MPE and epistemic space, and Cleeremans's "learning to be
 conscious". It cites Whyte & Smith 2021 and a 2024 version of Whyte et al.
-(LIT-tmpyamns, NOTE-tmpjgegs) as complementary, and Safron's IWMT
-(spelled "Saffron", p. 6; LIT-tmp5k0u3) among active inference accounts of
-consciousness. The record holds Sandved-Smith et al. 2021 (LIT-1191,
-NOTE-958), the source of "parametric depth", and Seth 2013 (LIT-1263),
+([LIT-tmpyamns](../literature.d/LIT-tmpyamns.md), [NOTE-tmpjgegs](NOTE-tmpjgegs.md)) as complementary, and Safron's IWMT
+(spelled "Saffron", p. 6; [LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md)) among active inference accounts of
+consciousness. The record holds Sandved-Smith et al. 2021 ([LIT-1191](../literature.d/LIT-1191.md),
+[NOTE-958](NOTE-958.md)), the source of "parametric depth", and Seth 2013 ([LIT-1263](../literature.d/LIT-1263.md)),
 cited for keeping the body alive. Hofstadter's strange loop gives the
 title.
 
 ## Bearing on the record
 
-- **QUESTION-tmpc4j7p and CLAIM-tmp1lvwf.** The paper is a candidate answer
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) and [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).** The paper is a candidate answer
   of the "higher-order or recursive self-interpretation" kind the question
   lists, and the exchange described it correctly as one: a further
   organizational condition beyond inference. It accepts the counter-claim's
@@ -230,52 +230,52 @@ title.
   would lack" is not met: an HGF fitted in a laboratory has the Table 1
   structure. Note 11 also withdraws from the phenomenal half of the
   question.
-- **CLAIM-tmpdga80 (constitution).** Close in spirit: experience is the world
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (constitution).** Close in spirit: experience is the world
   model and its looping, with contents "at the very center", and no
   further entity. It is not stated as an identity, and note 11 says
   satisfying the conditions does not guarantee phenomenal experience. So it
   is a production-or-correlation account that the constitutive thesis could
   adopt as its candidate organization, not support for the identity.
-- **TERM-tmpe36gg (perspective).** The paper denies that a first-person
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md) (perspective).** The paper denies that a first-person
   perspective is needed for awareness (pp. 2–3). That is the represented
   sense, and probably the phenomenal one. It does not deny an
   organizational perspective; its world model is one. This cuts against
-  any reading of CLAIM-tmpdga80's part 3 that needs a represented or lived
+  any reading of [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md)'s part 3 that needs a represented or lived
   point of view, and it is the term's warning that claims must say which
   sense they use.
-- **QUESTION-tmpzje42 (unity).** The paper takes the coherence side: what
+- **[QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) (unity).** The paper takes the coherence side: what
   enters awareness must cohere, and incoherence of the whole model is
   cessation, the loss of awareness (p. 25). That is close to the
   global-section reading A7 rejected. It does not discuss a felt conflict
   such as approach and avoidance, which is the question's test case, so it
   states a position without meeting the counter-example.
-- **THEORY-063 (unity without a self-model).** It shares Metzinger's view
+- **[THEORY-063](../theory.d/THEORY-063.md) (unity without a self-model).** It shares Metzinger's view
   that a unified world comes before a self, and it adds a mechanism
   (recursion over precision) and a minimal case (MPE). It adds no evidence:
   the contemplative states are redescribed, not measured. The record's two
-  unread meditation works (LIT-tmphw2n7, LIT-tmpg6f7h) bear on whether
+  unread meditation works ([LIT-tmphw2n7](../literature.d/LIT-tmphw2n7.md), [LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md)) bear on whether
   such states are contentless, which the MPE account needs.
-- **CLAIM-355.** Consistent with it: no separable owner is posited, and the
+- **[CLAIM-355](../claims.d/CLAIM-355.md).** Consistent with it: no separable owner is posited, and the
   self is a "contracted" form. The paper does not discuss illusion.
-- **CLAIM-tmpn2xr4 (four facts).** Epistemic depth is that claim's third
+- **[CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md) (four facts).** Epistemic depth is that claim's third
   fact, efficacy allocated from inside, made global and recursive. The
   claim shows that systems alike in ordinary behaviour can differ in it,
   and that only an intervention tells them apart. The paper's tests for AI
   ("evidence of epistemic depth", "success on any Turing-type tests") are
   behavioural. By that claim they cannot settle whether precision is
   allocated endogenously.
-- **THEORY-577 and THEORY-633.** The paper predicts that a system
+- **[THEORY-577](../theory.d/THEORY-577.md) and [THEORY-633](../theory.d/THEORY-633.md).** The paper predicts that a system
   with the loop would be "adamant that they exist" (p. 29), so it offers a
-  sketch of how its mechanism yields self-reports, which THEORY-577
+  sketch of how its mechanism yields self-reports, which [THEORY-577](../theory.d/THEORY-577.md)
   asks of any theory. Its zombie "stalemate" and note 11 concede that
   this does not reach phenomenal properties, which an illusionist
-  (THEORY-633) would grant at no cost.
-- **CLAIM-tmpjw8ev (grounding).** Lucid dreamless sleep and MPE are cases of
+  ([THEORY-633](../theory.d/THEORY-633.md)) would grant at no cost.
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) (grounding).** Lucid dreamless sleep and MPE are cases of
   awareness with almost no current sensory constraint. On the paper's
   account they are rich in epistemic depth, so current grounding is not
   what makes them aware, which is the claim's occurrence half. The paper
   does not argue it.
-- **TERM-tmpgqmop.** Inference in the paper fits the term, and the paper's
+- **[TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md).** Inference in the paper fits the term, and the paper's
   first two levels of awareness (lost inferences; bound but unknown
   contents) are interpretation without, or with little, awareness.
 - No instruction for machine-learning practice. The LLM blueprint
@@ -309,4 +309,4 @@ title.
 - What measure of epistemic depth could be taken without asking the
   subject how aware they were?
 - Can the coherence criterion allow a felt conflict to be one experience,
-  as QUESTION-tmpzje42 asks?
+  as [QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) asks?

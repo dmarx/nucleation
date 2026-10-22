@@ -183,16 +183,16 @@ It restates Safron 2020a, 2020b, 2021a, 2022 and 2023, and draws on
 Thompson & Varela's radical embodiment, Metzinger's minimal phenomenal
 experience, Cleeremans's radical plasticity thesis and Wiese's minimal
 unifying model. The record holds Safron's editorial on world models
-(LIT-195, NOTE-136), which already cites IWMT as a possible
-functional account. Laukkonen et al. (LIT-tmpxa0ia) and Whyte et al.
-(LIT-tmpyamns) both cite Safron's IWMT papers, the latter only to set
+([LIT-195](../literature.d/LIT-195.md), [NOTE-136](NOTE-136.md)), which already cites IWMT as a possible
+functional account. Laukkonen et al. ([LIT-tmpxa0ia](../literature.d/LIT-tmpxa0ia.md)) and Whyte et al.
+([LIT-tmpyamns](../literature.d/LIT-tmpyamns.md)) both cite Safron's IWMT papers, the latter only to set
 them aside as conceptual models. It cites COGITATE (Ferrante et al. 2025,
-LIT-973 in the record), and Seth & Friston 2016 for interoceptive
+[LIT-973](../literature.d/LIT-973.md) in the record), and Seth & Friston 2016 for interoceptive
 inference in feeling.
 
 ## Bearing on the record
 
-- **CLAIM-tmpjw8ev (grounding), and a correction to the exchange.** The
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) (grounding), and a correction to the exchange.** The
   exchange cited this paper as requiring "embodiment and sensorimotor
   coupling, where the owner's thesis does not require current grounding,
   so the two part on that point". The reading changes where they part.
@@ -207,7 +207,7 @@ inference in feeling.
   then not an objection to the claim as stated. It is the enactive
   objection the claim leaves open, made specific. It also allows
   "virtual" embodiment, which the exchange did not mention.
-- **QUESTION-tmpc4j7p.** The paper asks nearly the question itself: "the
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** The paper asks nearly the question itself: "the
   necessary and sufficient conditions for coherently generating a stream of
   experience, organized according to coherently structured perspectival
   reference frames" (p. 346). Its answer is the IWMT bundle: coherence in
@@ -218,27 +218,27 @@ inference in feeling.
   defined by degree ("sufficient degrees (and kinds)"), so it does not give
   the verdict on a firm or a language model that follows from the property
   rather than from intuition. On language models it gives one anyway.
-- **CLAIM-tmpdga80 (constitution).** IWMT's phenomenal consciousness, what it is like to be the
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (constitution).** IWMT's phenomenal consciousness, what it is like to be the
   coherent functioning of a world model, is an identity of the claim's kind, with a
   different organization: a world model of an embodied sensorium, not
-  interpretive organization in TERM-tmpgqmop's sense. It is a rival
+  interpretive organization in [TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md)'s sense. It is a rival
   candidate, and it builds in the embodiment the claim does not assume.
-- **TERM-tmpe36gg (perspective).** IWMT makes egocentric, perspectival
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md) (perspective).** IWMT makes egocentric, perspectival
   organization part of experience and suggests a minimal self-model may be
   required. That is an organizational and perhaps a represented
   perspective, against Laukkonen et al., who make a first-person
-  perspective optional (NOTE-tmpjn4z8).
-- **THEORY-063 (unity without a self-model).** IWMT hedges against its second
+  perspective optional ([NOTE-tmpjn4z8](NOTE-tmpjn4z8.md)).
+- **[THEORY-063](../theory.d/THEORY-063.md) (unity without a self-model).** IWMT hedges against its second
   clause: "some degree of basic self-modeling and agency may be required"
   (p. 346). It offers no case.
-- **QUESTION-tmpzje42 (unity).** Unity on IWMT is coherence of one estimate,
+- **[QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md) (unity).** Unity on IWMT is coherence of one estimate,
   the MAP state. That is the single-assignment reading, and the paper does
   not discuss conflict held within one experience.
-- **CLAIM-tmp1lvwf.** IWMT accepts that much modelling is not conscious
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).** IWMT accepts that much modelling is not conscious
   (not every image in Figure 1 is "meant to indicate conscious
   experiences"), and its condition is coherence plus embodiment. It does
   not test that condition against blindsight or masked priming.
-- **THEORY-767.** Interoceptive inference enters the sensorium estimate, after
+- **[THEORY-767](../theory.d/THEORY-767.md).** Interoceptive inference enters the sensorium estimate, after
   Seth & Friston 2016; nothing on ownership.
 - No instruction for machine-learning practice. Its remarks on JEPA,
   transformers and neuromorphic hardware are about what might be
@@ -265,5 +265,5 @@ inference in feeling.
   rather than that it lacks experience for some other reason?
 - Does developmental embodiment suffice, so that a world model learned in
   a body and then cut off stays conscious? IWMT's "historicity" suggests
-  yes, which is CLAIM-tmpjw8ev's case.
+  yes, which is [CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md)'s case.
 - Where in HCH's own statement are the three principles argued?

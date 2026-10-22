@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-22 (NOTE-tmpjgegs) from arXiv:2410.06633v2, the submitted version; worth reading as the clearest statement of the theory of consciousness that active inference models already assume: conscious contents are posterior beliefs about world, body or brain, and a posterior is conscious when it has the capacity to inform discrete, counterfactual policy selection, slowly and precisely enough. It also reviews the simulations of rivalry, access, no-report, interoception, valence and meta-awareness, and names two predictions close to its core. Its main limit is scope: the criterion is one of conscious access, read off models built to report, and the authors hold it only for humans and similar animals. A review with three small simulations of its own; neither prediction is tested.
+  read in full 2026-10-22 ([NOTE-tmpjgegs](../notes.d/NOTE-tmpjgegs.md)) from arXiv:2410.06633v2, the submitted version; worth reading as the clearest statement of the theory of consciousness that active inference models already assume: conscious contents are posterior beliefs about world, body or brain, and a posterior is conscious when it has the capacity to inform discrete, counterfactual policy selection, slowly and precisely enough. It also reviews the simulations of rivalry, access, no-report, interoception, valence and meta-awareness, and names two predictions close to its core. Its main limit is scope: the criterion is one of conscious access, read off models built to report, and the authors hold it only for humans and similar animals. A review with three small simulations of its own; neither prediction is tested.
 title: 'On the minimal theory of consciousness implicit in active inference'
 version: 2
 history:
@@ -51,7 +51,7 @@ Whyte, C. J., Corcoran, A. W., Robinson, J., Smith, R., Moran, R. J., Parr, T., 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpjgegs. Page numbers are arXiv v2's.*
+*From the reading, [NOTE-tmpjgegs](../notes.d/NOTE-tmpjgegs.md). Page numbers are arXiv v2's.*
 
 - **A theory read off the models.** Starting from active inference, not
   from a property of consciousness, the paper argues that the existing
@@ -92,9 +92,9 @@ The owner's exchange of 2026-10-21, "Experience and interpretation", asked wheth
 far as it goes. What it leaves out is that the conditions are conditions
 of conscious access in humans. The paper does not claim to say which
 organizations are experiential, and it grants that non-conscious creatures
-may run active inference (p. 26). For QUESTION-tmpc4j7p it is a candidate
+may run active inference (p. 26). For [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) it is a candidate
 on the organizational side only, and its criterion is tied to report, so
-it does not meet CLAIM-tmp1lvwf's defeater. It bears on QUESTION-048
+it does not meet [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md)'s defeater. It bears on [QUESTION-048](../questions.d/QUESTION-048.md)
 through its no-report model.
 
-Filed from this work on 2026-10-22: THEORY-tmpw20ca, its criterion of conscious access.
+Filed from this work on 2026-10-22: [THEORY-tmpw20ca](../theory.d/THEORY-tmpw20ca.md), its criterion of conscious access.

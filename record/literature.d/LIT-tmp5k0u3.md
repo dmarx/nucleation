@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-22 (NOTE-tmp9lg9m) from the publisher's PDF on AAAI's open journal system; worth reading as a compact current statement of Integrated World Modeling Theory: phenomenal consciousness is the coherent functioning of an embodied agent's generative world model, run coupled to sense data in perception or decoupled in imagination, and embodied grounding is necessary, so integrated information or a global workspace without it does not suffice. Its main limit is that it argues nothing: a seven-page symposium paper that restates earlier IWMT papers, not read, and aligns them with a Human Consciousness Hypothesis it does not reference. Embodiment is required in "sufficient degrees (and kinds)" with no threshold.
+  read in full 2026-10-22 ([NOTE-tmp9lg9m](../notes.d/NOTE-tmp9lg9m.md)) from the publisher's PDF on AAAI's open journal system; worth reading as a compact current statement of Integrated World Modeling Theory: phenomenal consciousness is the coherent functioning of an embodied agent's generative world model, run coupled to sense data in perception or decoupled in imagination, and embodied grounding is necessary, so integrated information or a global workspace without it does not suffice. Its main limit is that it argues nothing: a seven-page symposium paper that restates earlier IWMT papers, not read, and aligns them with a Human Consciousness Hypothesis it does not reference. Embodiment is required in "sufficient degrees (and kinds)" with no threshold.
 title: 'Integrated World Modeling Theory (IWMT) and the Human Consciousness Hypothesis (HCH)'
 version: 2
 history:
@@ -48,7 +48,7 @@ Safron, A., Klimaj, V. & Sheikhbahaee, Z. (2026). Integrated World Modeling Theo
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp9lg9m.*
+*From the reading, [NOTE-tmp9lg9m](../notes.d/NOTE-tmp9lg9m.md).*
 
 - **IWMT's identity.** Phenomenal consciousness is what it is like to be
   "the spatiotemporally and causally coherent functioning of a
@@ -87,9 +87,9 @@ grounding, so the two part on that point". That misplaces the parting. IWMT
 does not require current sensory coupling: imagination is the same model
 decoupled from sense data. It requires a capacity for coupling to
 action–perception cycles and a history of it, and it allows "virtual"
-embodiment. So it agrees with CLAIM-tmpjw8ev on current grounding and parts
+embodiment. So it agrees with [CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) on current grounding and parts
 from the owner's thesis on developmental grounding and on the capacity for
 coupling, which that claim says it leaves open. It is the enactive objection
 the claim names, not a counter-example to it.
 
-Filed from this work on 2026-10-22: THEORY-tmpopaql, IWMT's identity and its embodiment requirement.
+Filed from this work on 2026-10-22: [THEORY-tmpopaql](../theory.d/THEORY-tmpopaql.md), IWMT's identity and its embodiment requirement.

@@ -24,8 +24,8 @@ source:
 answers:
 - QUESTION-tmpc4j7p
 summary: >-
-  Safron, Klimaj & Sheikhbahaee (2026), LIT-tmp5k0u3, read in full in
-  NOTE-tmp9lg9m: Integrated World Modeling Theory as restated in a
+  Safron, Klimaj & Sheikhbahaee (2026), [LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md), read in full in
+  [NOTE-tmp9lg9m](../notes.d/NOTE-tmp9lg9m.md): Integrated World Modeling Theory as restated in a
   symposium paper, whose earlier, fuller statements (Safron 2020–2023) were
   not read. Asserted, not argued here. The sharp edge is that the theory
   does not require current sensory coupling, so its quarrel with grounding-
@@ -40,8 +40,8 @@ summary: >-
 
 ## Source
 
-Safron, Klimaj & Sheikhbahaee (2026), LIT-tmp5k0u3, read in full in
-NOTE-tmp9lg9m from the publisher's PDF: the abstract (p. 345) and the
+Safron, Klimaj & Sheikhbahaee (2026), [LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md), read in full in
+[NOTE-tmp9lg9m](../notes.d/NOTE-tmp9lg9m.md) from the publisher's PDF: the abstract (p. 345) and the
 sections on coherent modelling, embodiment and machine consciousness
 (pp. 346–349). The earlier IWMT papers were not read.
 
@@ -85,19 +85,19 @@ Nothing is shown in this paper; the theory is stated.
 
 ## Connections
 
-- **CLAIM-tmpjw8ev.** The claim's occurrence half concerns current
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md).** The claim's occurrence half concerns current
   veridical grounding, which this account does not require. The two part
   on developmental grounding and the capacity for coupling, on which the
   claim says it is silent. This THEORY is the enactive objection that claim
   leaves open, stated as a positive account.
-- **QUESTION-tmpc4j7p.** Answers it in part: coherence, egocentric
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** Answers it in part: coherence, egocentric
   organization, recurrence and embodied grounding together, set against
   integration alone and broadcast alone. Its verdict on language models
   comes from the degree of embodiment, which is not specified.
-- **CLAIM-tmpdga80.** A rival identity of the same form with a different
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).** A rival identity of the same form with a different
   organization, an embodied world model in place of interpretive
   organization.
-- **THEORY-063, TERM-tmpe36gg.** It allows that a minimal self-model may be
-  required, against THEORY-063's second clause, and makes perspective
-  egocentric. THEORY-tmpw19hw (Laukkonen et al.) shares the coherent world
+- **[THEORY-063](THEORY-063.md), [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).** It allows that a minimal self-model may be
+  required, against [THEORY-063](THEORY-063.md)'s second clause, and makes perspective
+  egocentric. [THEORY-tmpw19hw](THEORY-tmpw19hw.md) (Laukkonen et al.) shares the coherent world
   model and drops both embodiment and perspective.
