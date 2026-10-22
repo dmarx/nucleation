@@ -4,7 +4,7 @@ status: Active
 formerly:
 - TERM-tmpg0hhr
 title: 'self, and which sense'
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-11'
@@ -28,6 +28,12 @@ history:
     Applications": how the owner's thesis that the record's selves are
     better described as organizational perspectives (CLAIM-417)
     maps onto these senses. The definition is unchanged.
+- version: 5
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added: TERM-tmpo92fy (Proposed) separates the
+    selves others attribute to a person from the seven senses here, all
+    of which the person holds or gives. The definition is unchanged.
 tags:
 - self
 date: '2026-10-11'
@@ -55,7 +61,10 @@ used_by:
 - CLAIM-317
 - CLAIM-355
 - CLAIM-417
+complements:
+- TERM-tmpo92fy
 ---
+<!-- inactive-ok-file: TERM-tmpo92fy — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-417 CLAIM-424 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-155 CLAIM-196 — Proposed; claims named as using particular senses, open -->
@@ -154,3 +163,15 @@ apart", in a documented person. (Corrected the same day, after a review
 the owner relayed: the first version of this note had sense 3 failing,
 "as remembered continuity", which is the conflation the case should
 prevent.)
+
+## Note of 2026-10-22: selves held by others
+
+All seven senses here are held or given by the person; sense 7, the
+presented self, is the self a person gives to others. [CLAIM-415](../claims.d/CLAIM-415.md) needed
+the other direction: what others take a person to be, what the person
+takes them to take them to be, and who the person takes "them" to be.
+Those are filed apart, as [TERM-tmpo92fy](TERM-tmpo92fy.md) (Proposed), and not as an eighth
+sense here, because they are not selves the person has. They enter the
+person's own self-model only when appropriated ([TERM-tmpo92fy](TERM-tmpo92fy.md), sense 4),
+and can then shape sense 4, the narrative self, and sense 7, the
+presented self.
