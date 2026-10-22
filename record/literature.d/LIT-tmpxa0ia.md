@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-22 (NOTE-tmpjn4z8) from the PsyArXiv preprint, version 3 (June 2025); worth reading as the most explicit proposal that what makes inference conscious is recursion over precision: a unified world model, a coherence-driven competition to enter it, and epistemic depth, the model looped back through the hierarchy by a hyper-model that predicts precision at every level, with awareness graded by that depth and not by content. It is the record's best-stated recursive candidate for QUESTION-tmpc4j7p. Its main limit is that it is conceptual: no data, no simulation, a formal part (Table 1) that is a standard hierarchy with layer-wise precision hyper-parameters, and a definition of epistemic depth in terms of awareness. A footnote withdraws the claim that meeting the conditions guarantees phenomenal experience.
+  read in full 2026-10-22 ([NOTE-tmpjn4z8](../notes.d/NOTE-tmpjn4z8.md)) from the PsyArXiv preprint, version 3 (June 2025); worth reading as the most explicit proposal that what makes inference conscious is recursion over precision: a unified world model, a coherence-driven competition to enter it, and epistemic depth, the model looped back through the hierarchy by a hyper-model that predicts precision at every level, with awareness graded by that depth and not by content. It is the record's best-stated recursive candidate for [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md). Its main limit is that it is conceptual: no data, no simulation, a formal part (Table 1) that is a standard hierarchy with layer-wise precision hyper-parameters, and a definition of epistemic depth in terms of awareness. A footnote withdraws the claim that meeting the conditions guarantees phenomenal experience.
 title: 'A beautiful loop: An active inference theory of consciousness'
 version: 2
 history:
@@ -53,7 +53,7 @@ Laukkonen, R., Friston, K. & Chandaria, S. (2025). A beautiful loop: An active i
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpjn4z8. Page numbers are preprint v3's.*
+*From the reading, [NOTE-tmpjn4z8](../notes.d/NOTE-tmpjn4z8.md). Page numbers are preprint v3's.*
 
 - **Three conditions.** A unified generative world model, an "epistemic
   field"; precision-weighted competition to enter it, in which "coherence
@@ -90,7 +90,7 @@ paper adds higher-order modelling of precision to inference as such. Two
 qualifications. The altered states and meditation are redescribed in the
 theory's terms, not offered as tests of it, so they are illustrations, not
 evidence. And the paper denies that a first-person perspective is needed,
-which bears on how TERM-tmpe36gg's senses of perspective enter the
+which bears on how [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)'s senses of perspective enter the
 constitutive thesis.
 
-Filed from this work on 2026-10-22: THEORY-tmpw19hw, its three conditions.
+Filed from this work on 2026-10-22: [THEORY-tmpw19hw](../theory.d/THEORY-tmpw19hw.md), its three conditions.

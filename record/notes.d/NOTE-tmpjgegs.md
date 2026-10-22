@@ -225,61 +225,61 @@ on a posterior to drive action (Hohwy 2013; Marchi & Hohwy 2022), on Parr
 and Friston's attention as precision, and on Seth 2014 for the depth of
 counterfactual policy selection. It takes its programme framing from Negro
 2024 and Lakatos 1968. The record holds several works it reviews or relies
-on: Seth 2013 (LIT-1263, NOTE-1000), the source of the
-interoceptive models; Sandved-Smith et al. 2021 (LIT-1191, NOTE-958),
-reviewed in section 4.2; Parr & Friston on attention (LIT-1195,
-NOTE-956); and Friston et al. 2010 on action (LIT-1181). Laukkonen,
-Friston & Chandaria (LIT-tmpxa0ia, NOTE-tmpjn4z8) cite an earlier version of this
-paper as a "complimentary view", and Safron's IWMT (LIT-tmp5k0u3) is
+on: Seth 2013 ([LIT-1263](../literature.d/LIT-1263.md), [NOTE-1000](NOTE-1000.md)), the source of the
+interoceptive models; Sandved-Smith et al. 2021 ([LIT-1191](../literature.d/LIT-1191.md), [NOTE-958](NOTE-958.md)),
+reviewed in section 4.2; Parr & Friston on attention ([LIT-1195](../literature.d/LIT-1195.md),
+[NOTE-956](NOTE-956.md)); and Friston et al. 2010 on action ([LIT-1181](../literature.d/LIT-1181.md)). Laukkonen,
+Friston & Chandaria ([LIT-tmpxa0ia](../literature.d/LIT-tmpxa0ia.md), [NOTE-tmpjn4z8](NOTE-tmpjn4z8.md)) cite an earlier version of this
+paper as a "complimentary view", and Safron's IWMT ([LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md)) is
 named among the conceptual models it leaves out.
 
 ## Bearing on the record
 
-- **QUESTION-tmpc4j7p and CLAIM-tmp1lvwf.** The paper offers a criterion
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) and [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).** The paper offers a criterion
   for which posteriors are conscious, and it is the access criterion. It
   grants the counter-claim's premise outright: hard-core part 1 covers
   "both conscious and unconscious" behaviour, and part 2 "is consistent
   with non-conscious creatures exhibiting behaviour governed by active
   inference". Its separating condition (capacity to inform counterfactual
   policy selection, at the right timescale and precision) is stated without
-  phenomenal terms, which CLAIM-tmp1lvwf's defeater requires. But it is not
+  phenomenal terms, which [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md)'s defeater requires. But it is not
   independent of report: it was read off the models' report policies, and
   the authors scope it to humans and similar animals. So it does not meet
   that defeater, and it is a candidate for the organizational half of
-  QUESTION-tmpc4j7p, not for the phenomenal half. The authors do not claim more.
-- **CLAIM-tmpdga80 (constitution).** The paper speaks of a "correspondence"
+  [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md), not for the phenomenal half. The authors do not claim more.
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) (constitution).** The paper speaks of a "correspondence"
   and a "link" between contents and posteriors (pp. 14, 25), not of
   identity. It is neutral between constitution and production, and its
   method (map model variables to phenomenology) is open to either. What it
   adds is a worked example of A7's demand that the qualifying organization
   be specified: discreteness, timescale and precision are specified, and
   they are specified for access.
-- **TERM-tmpgqmop (interpretation).** Posterior inference here has all three
+- **[TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md) (interpretation).** Posterior inference here has all three
   of the term's parts: a distinction (discrete states), a context (priors
   and precision) and a consequence (policy selection). It is a formal case
   of interpretation defined without experience, and of the cost the term
   admits.
-- **CLAIM-tmpn2xr4 (four facts come apart).** The dispositional criterion
+- **[CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md) (four facts come apart).** The dispositional criterion
   puts consciousness in the capacity of a belief to be effective, not in its
   use. That claim shows that ordinary behaviour cannot reveal whether an
   interpretation is effective, only an intervention can. A capacity "in a
   counterfactual sense" is that kind of fact. So the criterion, applied to a
   system that is not reporting, needs an intervention to check, which the
   paper's no-report simulation supplies by sweeping stimulus precision.
-- **QUESTION-048 and THEORY-094 (report and no-report).** The no-report
-  model gives one mechanism for THEORY-094's point: prefrontal activity and
+- **[QUESTION-048](../questions.d/QUESTION-048.md) and [THEORY-094](../theory.d/THEORY-094.md) (report and no-report).** The no-report
+  model gives one mechanism for [THEORY-094](../theory.d/THEORY-094.md)'s point: prefrontal activity and
   P3b track the precision raised by report as mental action, while the
   posterior that would support report stays above threshold. It does not
   separate experience from access. It reads access off a posterior and
-  calls that conscious, and so meets THEORY-577's demand that a theory
+  calls that conscious, and so meets [THEORY-577](../theory.d/THEORY-577.md)'s demand that a theory
   say how its mechanism produces reports by building the report in. The
-  paper is silent on illusionism (THEORY-633).
-- **THEORY-767 and THEORY-056.** The interoceptive models start from
-  LIT-1263. Tschantz et al. put changing beliefs about set points and
+  paper is silent on illusionism ([THEORY-633](../theory.d/THEORY-633.md)).
+- **[THEORY-767](../theory.d/THEORY-767.md) and [THEORY-056](../theory.d/THEORY-056.md).** The interoceptive models start from
+  [LIT-1263](../literature.d/LIT-1263.md). Tschantz et al. put changing beliefs about set points and
   acting on the body under one objective, a modelling counterpart to
-  THEORY-056's single-process view of regulation, not evidence for it.
+  [THEORY-056](../theory.d/THEORY-056.md)'s single-process view of regulation, not evidence for it.
   Nothing reviewed bears on body ownership.
-- **CLAIM-tmpjw8ev (grounding).** The paper says nothing about grounding.
+- **[CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md) (grounding).** The paper says nothing about grounding.
   Its criterion lets a posterior driven by priors alone be conscious
   (silent counting, p. 30), but the precision prediction ties change in
   content to sensory precision.
@@ -315,7 +315,7 @@ named among the conceptual models it leaves out.
   and was not built with report policies, so that it reaches the systems
   the authors set aside?
 - Does the "To See is to Look" prediction survive matching expectation
-  between attended and unattended stimuli, the confound LIT-1276 found
+  between attended and unattended stimuli, the confound [LIT-1276](../literature.d/LIT-1276.md) found
   in the rubber hand illusion?
 - Is the discrete–continuous interface one locus, or a gradient along the
   hierarchy? The criterion's task-dependent threshold suggests the second.

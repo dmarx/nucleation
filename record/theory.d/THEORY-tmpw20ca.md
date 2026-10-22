@@ -30,7 +30,7 @@ answers:
 - QUESTION-tmpc4j7p
 summary: >-
   Whyte, Corcoran, Robinson, Smith, Moran, Parr, Friston, Seth & Hohwy
-  (2026), LIT-tmpyamns, read in full in NOTE-tmpjgegs from arXiv v2. The
+  (2026), [LIT-tmpyamns](../literature.d/LIT-tmpyamns.md), read in full in [NOTE-tmpjgegs](../notes.d/NOTE-tmpjgegs.md) from arXiv v2. The
   "hard core" the paper reads off the active inference models of rivalry,
   access, no-report, interoception and meta-awareness. The first two parts
   follow from the framework; the criterion of access is "an inference to
@@ -45,7 +45,7 @@ summary: >-
 
 ## Source
 
-Whyte et al. (2026), LIT-tmpyamns, read in full in NOTE-tmpjgegs from
+Whyte et al. (2026), [LIT-tmpyamns](../literature.d/LIT-tmpyamns.md), read in full in [NOTE-tmpjgegs](../notes.d/NOTE-tmpjgegs.md) from
 arXiv:2410.06633v2: section 5 (pp. 24–31), with the models of section 4 and
 Appendices 1–2. Page numbers are the manuscript's. The modelling studies it
 reviews were not read.
@@ -91,7 +91,7 @@ simulations of its own.
   sufficient in systems vastly different to ourselves" (p. 27), and say the
   link between content and posterior "is consistent with non-conscious
   creatures exhibiting behaviour governed by active inference" (p. 26). It
-  does not meet CLAIM-tmp1lvwf's defeater, which asks for a condition
+  does not meet [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md)'s defeater, which asks for a condition
   independent of report.
 - **The third part is not derived.** The first two parts are "in some sense
   logically entailed" by the framework; the third is "an inference to the
@@ -102,28 +102,28 @@ simulations of its own.
 - **The empirical confirmations are second-hand.** One, of the no-report
   model's first prediction, is cited without a reference in v2 (p. 18).
 - **It is not identity.** The paper speaks of correspondence and link. It
-  takes no side between constitution and production (CLAIM-tmpdga80).
+  takes no side between constitution and production ([CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md)).
 - **The precision prediction is not yet a test of experience.** A stimulus
   that reaches report sooner is a fact about access. Whether that is a fact
-  about experience is QUESTION-048's question, and THEORY-094's point that
+  about experience is [QUESTION-048](../questions.d/QUESTION-048.md)'s question, and [THEORY-094](THEORY-094.md)'s point that
   post-perceptual cognition survives without report applies.
 
 ## Connections
 
-- **QUESTION-tmpc4j7p.** Answers it in part, on the organizational side
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** Answers it in part, on the organizational side
   only: a specified condition (discrete format, timescale, precision,
   capacity to inform policy) that separates conscious from unconscious
   posteriors in humans. It does not address the phenomenal side.
-- **CLAIM-tmp1lvwf.** The paper grants its premise in so many words, and
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).** The paper grants its premise in so many words, and
   its condition is the kind of restriction that claim asks for, but tied
   to report.
-- **THEORY-tmpw19hw** (Laukkonen et al.) calls this view complementary and
+- **[THEORY-tmpw19hw](THEORY-tmpw19hw.md)** (Laukkonen et al.) calls this view complementary and
   adds a coherence requirement and a recursive one. The two are
   compatible.
-- **THEORY-094, THEORY-577.** The no-report model is a mechanism for
-  THEORY-094's persistence of post-perceptual processing. The criterion
-  builds report into the mechanism, so it answers THEORY-577's demand by
+- **[THEORY-094](THEORY-094.md), [THEORY-577](THEORY-577.md).** The no-report model is a mechanism for
+  [THEORY-094](THEORY-094.md)'s persistence of post-perceptual processing. The criterion
+  builds report into the mechanism, so it answers [THEORY-577](THEORY-577.md)'s demand by
   construction and gains nothing on experience from doing so.
-- **LIT-1191** (Sandved-Smith et al.), read in NOTE-958, is one of the
+- **[LIT-1191](../literature.d/LIT-1191.md)** (Sandved-Smith et al.), read in [NOTE-958](../notes.d/NOTE-958.md), is one of the
   reviewed models, and the paper calls it conceptual analysis rather than a
   fit to data.

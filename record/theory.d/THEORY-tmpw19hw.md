@@ -28,8 +28,8 @@ source:
 answers:
 - QUESTION-tmpc4j7p
 summary: >-
-  Laukkonen, Friston & Chandaria (2025), LIT-tmpxa0ia, read in full in
-  NOTE-tmpjn4z8 from PsyArXiv v3. A conceptual proposal with no data and
+  Laukkonen, Friston & Chandaria (2025), [LIT-tmpxa0ia](../literature.d/LIT-tmpxa0ia.md), read in full in
+  [NOTE-tmpjn4z8](../notes.d/NOTE-tmpjn4z8.md) from PsyArXiv v3. A conceptual proposal with no data and
   no simulation. The three conditions are asserted necessary; their joint
   sufficiency is argued for AI and then withdrawn for phenomenal experience
   in a footnote. The formal part (Table 1) is a hierarchy with layer-wise
@@ -44,8 +44,8 @@ summary: >-
 
 ## Source
 
-Laukkonen, Friston & Chandaria (2025), LIT-tmpxa0ia, read in full in
-NOTE-tmpjn4z8 from the PsyArXiv preprint, version 3: sections 2–5 and 7
+Laukkonen, Friston & Chandaria (2025), [LIT-tmpxa0ia](../literature.d/LIT-tmpxa0ia.md), read in full in
+[NOTE-tmpjn4z8](../notes.d/NOTE-tmpjn4z8.md) from the PsyArXiv preprint, version 3: sections 2–5 and 7
 (pp. 3–20), Table 1 (p. 13) and the discussion (pp. 26–30). Page numbers
 are the preprint's.
 
@@ -95,28 +95,28 @@ Nothing was tested. The paper argues by construction and redescription.
   third condition is not stated independently of what it explains.
 - **The contemplative evidence is report.** MPE and cessation enter as
   reported states. Whether meditative "contentless" states lack content is
-  disputed by a work the record holds unread (LIT-tmpg6f7h).
+  disputed by a work the record holds unread ([LIT-tmpg6f7h](../literature.d/LIT-tmpg6f7h.md)).
 - **It is not a higher-order theory.** The paper separates its recursion
   from metacognition (p. 20). It is a claim about global, recursive
   precision control.
 
 ## Connections
 
-- **QUESTION-tmpc4j7p.** Answers it in part with a recursive, higher-order
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md).** Answers it in part with a recursive, higher-order
   candidate, on the organizational side. It fails the question's test of
   saying what a nonexperiential interpreter would lack, because an HGF has
   Table 1's structure.
-- **QUESTION-tmpzje42.** The coherence condition takes the side of unity as
+- **[QUESTION-tmpzje42](../questions.d/QUESTION-tmpzje42.md).** The coherence condition takes the side of unity as
   consistency, and makes incoherence the loss of awareness. It does not
   meet the felt-conflict case.
-- **TERM-tmpe36gg.** It denies that a first-person perspective, in the
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).** It denies that a first-person perspective, in the
   represented or phenomenal sense, is required, while its world model is an
   organizational perspective.
-- **THEORY-063.** Shares Metzinger's ordering of world before self and adds
+- **[THEORY-063](THEORY-063.md).** Shares Metzinger's ordering of world before self and adds
   a mechanism, without evidence.
-- **CLAIM-tmpn2xr4.** Epistemic depth is endogenous allocation of efficacy
+- **[CLAIM-tmpn2xr4](../claims.d/CLAIM-tmpn2xr4.md).** Epistemic depth is endogenous allocation of efficacy
   made global. That claim shows behaviour cannot reveal it, so the paper's
   behavioural tests for AI cannot either.
-- **THEORY-tmpw20ca** (Whyte et al.) is the access criterion this paper
-  calls complementary. **THEORY-tmpopaql** (IWMT) shares the coherent world
+- **[THEORY-tmpw20ca](THEORY-tmpw20ca.md)** (Whyte et al.) is the access criterion this paper
+  calls complementary. **[THEORY-tmpopaql](THEORY-tmpopaql.md)** (IWMT) shares the coherent world
   model and differs on embodiment, which this paper does not require.
