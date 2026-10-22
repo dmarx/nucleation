@@ -4,8 +4,8 @@
 
 **Deferred** — not in force and not being worked on; the question is real and the answer is waiting on something.
 
-1 of 126 CASE documents. Back to the [full index](../README.md).
+1 of 139 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [CASE-014](../../../record/cases.d/CASE-014.md) | Microsoft, as the philosophical target | The real corporation the first framing asked about. Committed to as a recurring touchstone (A205) and then silently dropped from the drafts; retired here by status rather than left as a promise nobody kept. | Deferred |
+| [CASE-014](../../../record/cases.d/CASE-014.md) v2 | Microsoft, as the philosophical target | The real corporation the first framing asked about. Committed to as a recurring touchstone (A205) and then silently dropped from the drafts; retired here by status rather than left as a promise nobody kept. | Deferred |

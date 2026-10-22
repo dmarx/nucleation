@@ -46,7 +46,7 @@ summary: >-
 refined_by:
 - QUESTION-204
 - QUESTION-250
-- QUESTION-tmpmzijj
+- QUESTION-260
 ---
 <!-- inactive-ok-file: CLAIM-174 CLAIM-348 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 

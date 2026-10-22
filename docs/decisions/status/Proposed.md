@@ -4,8 +4,9 @@
 
 **Proposed** — not in force yet — an open question, so citing it as settled is the thing the report catches.
 
-1 of 49 decisions. Back to the [full index](../README.md).
+2 of 50 decisions. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [ADR-041](../../../record/decisions.d/ADR-041.md) | A LIT whose lawful full text was sought and not reached is Unavailable, not Deferred | `Deferred` on a LIT held two different situations: a work nobody has yet tried to read, and a work whose lawful full text was looked for and not reached. The owner asked for the two to be told apart. The lit-statuses vocabulary gains `Unavailable` ("No copy reached"), and `Deferred` keeps "no attempt recorded". 177 of the 345 Deferred LITs had a status note recording a failed search, and they move. Among them are 8 where a lawful copy exists but this client could not fetch it. Three were left Deferred because their notes record no search. The other 168 stay Deferred. | Proposed |
+| [ADR-050](../../../record/decisions.d/ADR-050.md) | A claim that calls something organized, a perspective, an agent, effective, exhausted, constituted or grounded says which sense, target or criterion it means | The perspective line's conclusions turn on distinctions the prose keeps locally and the vocabulary does not enforce: structure against efficacy, efficacy against competence and legitimacy, explanatory sufficiency against constitution, a perspective against an agent. A proposal the owner relayed on 2026-10-22 asked for a small grammar of these words, not a term for each. The decision, Proposed, is a usage protocol: each flagged word in a claim, question, term or reading must name its sense, target or criterion where it carries a substantive inference, though not in unambiguous ordinary uses. Two words get terms of their own (organization, [TERM-074](../../../record/terms.d/TERM-074.md); perspective, [TERM-072](../../../record/terms.d/TERM-072.md)); the rest are handled here. It is prose for now, and becomes a lint pattern only if the owner adopts it. | Proposed |

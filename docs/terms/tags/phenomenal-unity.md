@@ -6,8 +6,8 @@
 
 **Phenomenal unity** — the unity of experience — what makes simultaneous experiences one subject's, and how a self-model or a perspective binds them. One of four unities kept apart (group: philosophy; ADR-024).
 
-1 of 73 TERM documents. Back to the [full index](../README.md).
+1 of 74 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-| [TERM-072](../../../record/terms.d/TERM-072.md) v3 | perspective, and which sense: organizational, represented or phenomenal | The exchange on experience and interpretation used "perspective" in three senses and, by A11's own account, slid between them. Organizational is a realized regime in which the availability, significance and efficacy of interpretations are mutually conditioned. Represented is a system's model of its own standpoint. Phenomenal is a lived point of view. The constitutive thesis is that some organizational perspectives are phenomenal ones, so its claims must say which sense they use. Self-maintaining organizational perspective is a narrower subclass, not the definition. Proposed: whether to adopt it is the owner's call. | Proposed |
+| [TERM-072](../../../record/terms.d/TERM-072.md) v5 | perspective, and which sense: organizational, represented or phenomenal | The exchange on experience and interpretation used "perspective" in three senses and, by A11's own account, slid between them. Organizational is a realized regime in which the availability, significance and efficacy of interpretations are mutually conditioned. Represented is a system's model of its own standpoint. Phenomenal is a lived point of view. The constitutive thesis is that some organizational perspectives are phenomenal ones, so its claims must say which sense they use. Self-maintaining organizational perspective is a narrower subclass, not the definition. Proposed: whether to adopt it is the owner's call. | Proposed |

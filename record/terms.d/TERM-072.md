@@ -5,7 +5,7 @@ formerly:
 - TERM-tmpe36gg
 complements:
 - TERM-073
-- TERM-tmpmy9oq
+- TERM-074
 title: 'perspective, and which sense: organizational, represented or phenomenal'
 version: 5
 history:
@@ -61,12 +61,12 @@ summary: >-
   the definition. Proposed: whether to adopt it is the owner's call.
 used_by:
 - CLAIM-412
-- CLAIM-tmp8lheg
-- CLAIM-tmpqktfo
-- CLAIM-tmp9jg87
+- CLAIM-417
+- CLAIM-424
+- CLAIM-418
 ---
-<!-- inactive-ok-file: ADR-050 CLAIM-tmp9jg87 TERM-tmpmy9oq — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-tmp8lheg CLAIM-tmpqktfo — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: ADR-050 CLAIM-418 TERM-074 — Proposed; claims, questions, terms, readings and decisions cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-137 CLAIM-329 CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-412 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 
 # TERM-072: perspective, and which sense: organizational, represented or phenomenal
@@ -208,7 +208,7 @@ owner said at U31: "tie this back to nucleation's earlier treatment of
 described as 'organizational perspectives'". The replies did not cite this
 term, and A31 proposed introducing "organizational perspective" as a new
 TERM, which would duplicate sense 1. The owner's thesis is filed, narrowed
-as A31 narrowed it, as [CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md). It bears on this term's adoption,
+as A31 narrowed it, as [CLAIM-417](../claims.d/CLAIM-417.md). It bears on this term's adoption,
 which stays the owner's decision; the status is not changed here.
 
 The exchange also tested "What would settle it", which says the term is
@@ -216,7 +216,7 @@ shown wanting "if a claim needed a fourth sense". Its perspectives were
 mostly not tokens. A perspective "may have many bearers" (A32), can
 "migrate between parties", and is "realized across multiple persons and
 institutions". Sense 1 is a token, "a dynamically realized regime".
-[CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md) keeps four objects apart: the perspective as realized
+[CLAIM-417](../claims.d/CLAIM-417.md) keeps four objects apart: the perspective as realized
 (sense 1), its character, its lineage and its representations (sense 2).
 A realization need not lie inside one carrier: several carriers may share
 a kind or a lineage without forming one perspective, or may realize one
@@ -237,8 +237,8 @@ Two ways to take character and lineage here:
   [CLAIM-249](../claims.d/CLAIM-249.md) against it.
 
 The first keeps the term as filed. The second answers this section's
-test as a failure. Either way the new claims ([CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md),
-[CLAIM-tmpqktfo](../claims.d/CLAIM-tmpqktfo.md), [QUESTION-tmpjr6om](../questions.d/QUESTION-tmpjr6om.md)) use sense 1 for a realization and say
+test as a failure. Either way the new claims ([CLAIM-417](../claims.d/CLAIM-417.md),
+[CLAIM-424](../claims.d/CLAIM-424.md), [QUESTION-259](../questions.d/QUESTION-259.md)) use sense 1 for a realization and say
 character or lineage when they mean them. They belong to the
 distributed-agency line; this term was filed on evidence-for-experience.
 Nothing in them bears on sense 3: A40 kept the exchange from "deriv[ing]
@@ -267,7 +267,7 @@ the earlier wording of this note had ruled out by reading sense 1 as "in
 one system"; "A perspective instantiated across several interacting
 people needn't be reducible to multiple independent instances of one
 kind, but it also needn't qualify as an additional agent"
-([CLAIM-tmp9jg87](../claims.d/CLAIM-tmp9jg87.md)).
+([CLAIM-418](../claims.d/CLAIM-418.md)).
 
 It proposed a restatement of sense 1, kept here as a candidate, not
 adopted: "A contextually realized arrangement of interpretive
@@ -276,5 +276,5 @@ significance, and can alter subsequent interpretation or activity. Its
 identity, boundaries, persistence, and degree of self-maintenance are
 additional questions." Its last sentence is A11's exclusions made
 explicit, and "arrangement" is the default sense of organization
-([TERM-tmpmy9oq](TERM-tmpmy9oq.md), sense 1). The usage rule that a claim say which object
+([TERM-074](TERM-074.md), sense 1). The usage rule that a claim say which object
 it means is [ADR-050](../decisions.d/ADR-050.md), Proposed.

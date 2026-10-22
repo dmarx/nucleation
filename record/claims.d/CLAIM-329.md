@@ -20,7 +20,7 @@ history:
     Note of 2026-10-22 (later) added, from the exchange "Graph Learning
     Applications": two cases that sharpen the claim, party realignment
     (organization transmitted, perspective not) and descent through
-    opposition (causal connection without transmission), filed as CASE-tmpd12oz and CLAIM-tmpdfe07. The claim is unchanged.
+    opposition (causal connection without transmission), filed as CASE-133 and CLAIM-420. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -46,7 +46,7 @@ complements:
 - CLAIM-161
 - CLAIM-280
 - CLAIM-328
-- CLAIM-tmpdfe07
+- CLAIM-420
 works:
 - organization-of-perspective
 - character-that-changed-parties
@@ -63,10 +63,10 @@ summary: >-
   transmitted, or settle branching successors.
 illustrated_by:
 - CASE-116
-- CASE-tmpd12oz
+- CASE-133
 ---
-<!-- inactive-ok-file: LIT-tmpgwc45 — Deferred; works registered unread, or entries set aside, cited as such -->
-<!-- inactive-ok-file: CLAIM-287 CLAIM-tmp8lheg CLAIM-tmpdfe07 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: LIT-1381 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-287 CLAIM-417 CLAIM-420 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: THEORY-418 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 
 <!-- inactive-ok-file: LIT-1124 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->
@@ -148,7 +148,7 @@ The exchange "Graph Learning Applications" brought two kinds of case
 against this claim's criterion, causal transmission of the organization
 that produces the collective.
 
-- **Party realignment** ([CASE-tmpd12oz](../cases.d/CASE-tmpd12oz.md)). The parties' organizations were
+- **Party realignment** ([CASE-133](../cases.d/CASE-133.md)). The parties' organizations were
   transmitted continuously, names, institutions and all, while their
   coalitions and stances on civil rights changed. By this claim each party
   persisted. Organizational continuity did not guarantee continuity of the
@@ -157,10 +157,10 @@ that produces the collective.
   perspectives were heterogeneous throughout. (Narrowed the same day after
   a review the owner relayed; the first version said flatly that the
   perspective did not persist.) So the claim's criterion is one for a
-  carrier's persistence, and a perspective carried needs its own ([CLAIM-tmp8lheg](CLAIM-tmp8lheg.md)). A29: "Different political
+  carrier's persistence, and a perspective carried needs its own ([CLAIM-417](CLAIM-417.md)). A29: "Different political
   coalitions developed, migrated, split, and recombined through
   institutions that retained their historical names."
-- **Descent through opposition** ([CLAIM-tmpdfe07](CLAIM-tmpdfe07.md)). A movement founded to
+- **Descent through opposition** ([CLAIM-420](CLAIM-420.md)). A movement founded to
   oppose a figure exists because of that figure's activity, a causal
   connection, without the figure's organization being transmitted to it.
   A38: "Causal descent ⇏ Perspectival inheritance." That fits this claim,
@@ -168,5 +168,5 @@ that produces the collective.
   causal connection, and it gives [QUESTION-118](../questions.d/QUESTION-118.md) a case where something is
   causally continuous and the answer is no.
 
-Taylor's women's movement in abeyance ([LIT-tmpgwc45](../literature.d/LIT-tmpgwc45.md), unread) is the
+Taylor's women's movement in abeyance ([LIT-1381](../literature.d/LIT-1381.md), unread) is the
 dormant form, close to [CLAIM-287](CLAIM-287.md)'s reinstatable capacity.

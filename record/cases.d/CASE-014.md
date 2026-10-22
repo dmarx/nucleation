@@ -57,8 +57,8 @@ its own perspective on the world, even if there is no phenomenal
 experience of being Microsoft?"
 
 The exchange then left Microsoft for documented organizations: incident
-response under NIMS ([CASE-tmpqq6jz](CASE-tmpqq6jz.md)), NASA ([CASE-tmpv2pte](CASE-tmpv2pte.md)), Crew Resource
-Management ([CASE-tmp2jk3n](CASE-tmp2jk3n.md)). A37 reframed the question once more: "What
+response under NIMS ([CASE-135](CASE-135.md)), NASA ([CASE-138](CASE-138.md)), Crew Resource
+Management ([CASE-127](CASE-127.md)). A37 reframed the question once more: "What
 organized ways of encountering and acting upon the world does Microsoft
 participate in, how are they reproduced across changing people and
 institutions, and which mechanisms can make their governing assumptions

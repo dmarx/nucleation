@@ -45,8 +45,8 @@ summary: >-
   Longino's tempered equality and [QUESTION-041](../questions.d/QUESTION-041.md)'s channel. It does not say
   that every contribution is owed uptake.
 illustrated_by:
-- CASE-tmp8rpr6
-- CASE-tmpv2pte
+- CASE-132
+- CASE-138
 ---
 <!-- inactive-ok-file: THEORY-834 — Proposed; Collins's outsider within, cited as the standing condition before recognition, and this claim is Proposed with it -->
 <!-- inactive-ok-file: LIT-1320 — Unavailable; Kwok, the work A25 quoted, which no lawful copy reached -->

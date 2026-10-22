@@ -6,9 +6,10 @@
 
 **Design rationale** — recording the reasoning behind a design or decision as it is made — issues, positions and arguments, options and criteria (IBIS, gIBIS, QOC and their successors) — and why such capture systems are or are not used: who bears the cost of capture and who gets the benefit, premature formalization, cognitive overhead, and the groupware adoption problems behind them (ADR-030).
 
-2 of 126 CASE documents. Back to the [full index](../README.md).
+3 of 139 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-088](../../../record/cases.d/CASE-088.md) | The repeated objection and the argument nobody reuses: filing pays for itself after a few recurrences in one case, and never in the other | A11's CASE B and CASE A, the arithmetic of [CLAIM-303](../../../record/claims.d/CLAIM-303.md). | Active |
 | [CASE-091](../../../record/cases.d/CASE-091.md) | A memory ablation for revision: synthetic inquiries with known ground truth, run under six kinds of persistent memory, with information and token budget controlled separately | A6's fifth case, refined from A3, A4 §4 and A5. The design [QUESTION-108](../../../record/questions.d/QUESTION-108.md) asks for. Not run. | Active |
+| [CASE-131](../../../record/cases.d/CASE-131.md) | The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation | The record's own history, as A18 of the exchange of 2026-10-22 read it at the owner's prompting (U18): "the pre-existing representation didn't merely omit information; it positively misrepresented an inference". It is a move the grammar could not hold, caught and answered by amending the grammar. Not shown: that such moves are always caught. | Active |

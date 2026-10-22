@@ -50,7 +50,7 @@ summary: >-
   it defeats one inference and is not a criterion of kindhood, so
   [QUESTION-028](../questions.d/QUESTION-028.md) stays Open.
 complements:
-- CLAIM-tmp6bxtr
+- CLAIM-416
 ---
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study, and this claim is Proposed with it -->

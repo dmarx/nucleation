@@ -6,8 +6,8 @@
 
 **Narrative unity** — the unity a life has as a story — narrative identity, the narrative self, autobiographical reasoning, and the claim and counter-claim that a self is the story told of it. One of four unities kept apart (group: philosophy; ADR-024).
 
-0 of 414 CLAIM documents. Back to the [full index](../README.md).
+1 of 424 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-420](../../../record/claims.d/CLAIM-420.md) | A historical figure's influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone descends from them without continuing their perspective | From the owner's U38 of the exchange of 2026-10-22, corrected. The owner contrasted "immortality" through positive influence that reinforces itself across generations with notoriety whose influence is "self-undermining", the figure's story persisting while their perspective does not. A38 corrected the example and declined the tidy mapping of positive to self-reinforcing and notorious to self-undermining. What survives is the distinction: "The persistence of a story about someone is not equivalent to the persistence of that person's perspective." | Proposed |

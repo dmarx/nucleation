@@ -12,7 +12,7 @@ history:
     Note of 2026-10-22 added, from the exchange "Graph Learning
     Applications": every reply from A31 on read this claim as a special
     case, and A37's reflexive governance of a perspective is filed as
-    CLAIM-tmpqktfo, which complements it. The claim is unchanged.
+    CLAIM-424, which complements it. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,13 +56,13 @@ objected_by:
 - CLAIM-288
 complements:
 - CLAIM-286
-- CLAIM-tmpqktfo
+- CLAIM-424
 illustrated_by:
 - CASE-076
 supports:
 - CLAIM-361
 ---
-<!-- inactive-ok-file: CLAIM-tmp8lheg CLAIM-tmpqktfo — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-025 CLAIM-165 CLAIM-194 CLAIM-288 THEORY-071 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-284: A self, in the self-governing sense, is a historically continuous organization of processes that takes part in governing the conditions of its own persistence, differentiation and transformation, not merely one that persists
@@ -146,7 +146,7 @@ it. [CLAIM-367](CLAIM-367.md) holds the application.
 
 The exchange "Graph Learning Applications" came back to this claim after
 the owner's U31, that the record's selves are better described as
-organizational perspectives ([CLAIM-tmp8lheg](CLAIM-tmp8lheg.md)). Every reply that cited it
+organizational perspectives ([CLAIM-417](CLAIM-417.md)). Every reply that cited it
 (A31, A32, A37, A40) read it as "a proposed *special case*": a perspective
 can be reproduced, persist and adapt without governing the conditions of
 its own persistence. A31's four properties, reproducibility, historical
@@ -157,7 +157,7 @@ A37 restated what the claim's sense of "self" picks out without the word:
 "Reflexive perspectival governance is a capacity through which an
 organized system can make the conditions governing its own
 interpretation, evaluation, and action available for effective
-examination and revision." It is filed as [CLAIM-tmpqktfo](CLAIM-tmpqktfo.md), resting on
+examination and revision." It is filed as [CLAIM-424](CLAIM-424.md), resting on
 [CLAIM-025](CLAIM-025.md) and complementing this claim. If the owner's thesis is adopted,
 this claim is the definition of [TERM-045](../terms.d/TERM-045.md)'s sense 5 and that one says what
 the sense was for. A37 kept [CLAIM-288](CLAIM-288.md) standing: "the capacity to revise

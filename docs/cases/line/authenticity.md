@@ -6,8 +6,9 @@
 
 **Authenticity and concordance** — what makes a will-organization the agent's own, and normativity across the scales an agent spans. Set aside on 2026-10-05 as future work.
 
-0 of 126 CASE documents. Back to the [full index](../README.md).
+2 of 139 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-128](../../../record/cases.d/CASE-128.md) | The voluntary delegation: a person gives a friend the password to a distracting application during a calm period and is refused it later under temptation, while another person lives under the same restriction imposed without consent | A18's CASE C in the exchange of 2026-10-22, from the owner's request for cases on quiet subordinate processes (U18). A restriction on a constituent process can be an exercise of self-governance, not its defeat, so a non-domination test that counts every override as domination is too simple. Not shown: where a legitimate precommitment ends and an unaccountable one begins. | Active |
+| [CASE-129](../../../record/cases.d/CASE-129.md) | The alarm that learned and the alarm that was disabled: two systems that once warned too often are both quiet in ordinary operation, and only one responds when a new hazard appears | A18's CASE B in the exchange of 2026-10-22, written at the owner's request for cases on subordinate processes "quiet because they've been conditioned never to object" (U18). A quiet signal may be calibration or suppression, and ordinary operation cannot tell which. Not shown: how often either occurs in persons or institutions. | Active |

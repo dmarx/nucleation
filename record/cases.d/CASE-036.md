@@ -66,6 +66,6 @@ lifting the control itself.
 A24 named the missing capacity: flexibility depends on how readily a
 regime acquires authority and "also on **the conditions under which they
 relinquish it**". [TERM-017](../terms.d/TERM-017.md) names suspension and not release. The
-documented counterpart is the mayday at Brookhollow ([CASE-tmpqq6jz](CASE-tmpqq6jz.md)), where
+documented counterpart is the mayday at Brookhollow ([CASE-135](CASE-135.md)), where
 the exchange reported, unverified, that no clear announcement ended the
 mayday phase.

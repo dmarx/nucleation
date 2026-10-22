@@ -6,8 +6,9 @@
 
 **Motivation** — why organisms act and persist — intrinsic and extrinsic motivation, needs, goals and values, the internalization of regulation, and the difference between autonomous and controlled motives; the empirical counterpart of the philosophy of autonomy under `agency` (ADR-023).
 
-1 of 126 CASE documents. Back to the [full index](../README.md).
+2 of 139 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-109](../../../record/cases.d/CASE-109.md) | Two people with the same demanding commitment, the same output and the same effort in the work, who differ in how their intrapersonal conflict is settled: one escalates it to deliberate override, the other's processes accommodate one another | The owner's case, U45 of the exchange of 2026-10-17, worked by A45 as Person A ("repeated escalation") and Person B ("local coordination") on one writing project. Both exert real effort and produce work of equal quality; only the route by which conflict is settled differs. It is the variation [CASE-013](../../../record/cases.d/CASE-013.md) and [CASE-051](../../../record/cases.d/CASE-051.md) lack: there one writer's effort varies across afternoons, here effort in the work is held high in both. It is used for [CLAIM-358](../../../record/claims.d/CLAIM-358.md). Stipulated, so it shows what the claim distinguishes, not that people differ this way. | Active |
+| [CASE-128](../../../record/cases.d/CASE-128.md) | The voluntary delegation: a person gives a friend the password to a distracting application during a calm period and is refused it later under temptation, while another person lives under the same restriction imposed without consent | A18's CASE C in the exchange of 2026-10-22, from the owner's request for cases on quiet subordinate processes (U18). A restriction on a constituent process can be an exercise of self-governance, not its defeat, so a non-domination test that counts every override as domination is too simple. Not shown: where a legitimate precommitment ends and an unaccountable one begins. | Active |

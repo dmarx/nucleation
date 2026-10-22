@@ -26,7 +26,7 @@ history:
   note: >-
     Note of 2026-10-22 added, from the exchange "Graph Learning
     Applications": how the owner's thesis that the record's selves are
-    better described as organizational perspectives (CLAIM-tmp8lheg)
+    better described as organizational perspectives (CLAIM-417)
     maps onto these senses. The definition is unchanged.
 tags:
 - self
@@ -54,9 +54,9 @@ used_by:
 - CLAIM-284
 - CLAIM-317
 - CLAIM-355
-- CLAIM-tmp8lheg
+- CLAIM-417
 ---
-<!-- inactive-ok-file: CLAIM-tmp8lheg CLAIM-tmpqktfo TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-417 CLAIM-424 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-155 CLAIM-196 — Proposed; claims named as using particular senses, open -->
 
@@ -125,7 +125,7 @@ of this term by its own rule. It is flagged here and not done.
 
 At U31 of the exchange "Graph Learning Applications" the owner proposed
 that the record's selves are "better described as 'organizational
-perspectives'" ([CLAIM-tmp8lheg](../claims.d/CLAIM-tmp8lheg.md), Proposed). A31 read this term's seven
+perspectives'" ([CLAIM-417](../claims.d/CLAIM-417.md), Proposed). A31 read this term's seven
 senses as evidence that "there probably isn't one unified phenomenon
 waiting for a single theory of selfhood", and translated all but one:
 
@@ -134,7 +134,7 @@ waiting for a single theory of selfhood", and translated all but one:
 - 3, persisting: the persistence of a perspective or of its carrier, in
   [TERM-071](TERM-071.md)'s senses;
 - 5, self-governing: reflexive governance of a perspective
-  ([CLAIM-tmpqktfo](../claims.d/CLAIM-tmpqktfo.md));
+  ([CLAIM-424](../claims.d/CLAIM-424.md));
 - 6, integrated: the organization of a perspective ([TERM-072](TERM-072.md), sense 1);
 - 4, 7 and the "modeled" sense of the note of 2026-10-18: representations
   of a perspective ([TERM-072](TERM-072.md), sense 2).
@@ -144,7 +144,7 @@ The senses are unchanged. If the claim is adopted, a claim using senses 2,
 3, 5 or 6 should say which perspective object it means instead.
 
 The exchange also filed the case that separates the senses most cleanly
-in one person: Clive Wearing ([CASE-tmpsp3d4](../cases.d/CASE-tmpsp3d4.md)) keeps substantial skilled
+in one person: Clive Wearing ([CASE-137](../cases.d/CASE-137.md)) keeps substantial skilled
 competence and short-horizon organization (senses 2 and 6) through a
 profound loss of autobiographical memory and narrative continuity (sense
 4). The case does not show a failure of sense 3, persistence, in general.

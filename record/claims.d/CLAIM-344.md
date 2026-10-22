@@ -45,7 +45,7 @@ summary: >-
   standard for when revision is warranted is not supplied, and is
   [QUESTION-087](../questions.d/QUESTION-087.md)'s open problem.
 illustrated_by:
-- CASE-tmp361g3
+- CASE-128
 ---
 
 <!-- inactive-ok-file: CLAIM-159 CLAIM-277 CLAIM-331 CLAIM-349 CLAIM-359 THEORY-067 — Proposed; open claims and readings this one rests on or places itself against, cited as open -->

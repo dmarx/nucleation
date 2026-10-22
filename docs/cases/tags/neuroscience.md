@@ -6,8 +6,9 @@
 
 **Neuroscience** — brains and nervous systems — representation, coding and dynamics measured in biological tissue.
 
-1 of 126 CASE documents. Back to the [full index](../README.md).
+2 of 139 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
 | [CASE-107](../../../record/cases.d/CASE-107.md) | Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains | The owner's case, U2 of the exchange of 2026-10-16: "a lucid human who struggles with locked-in syndrome". It separates lucid judgement from limb and speech action. In the classic form it does not separate judgement from action as active inference defines it, since the eye movements it spares are that theory's model action. The completely locked-in state is the real test, and there any evidence of lucidity has to come through a channel that is itself an action. Visceromotor regulation and Damasio's internal "as if body loop" survive paralysis, so the case never removes every contingency between intention and outcome. | Active |
+| [CASE-137](../../../record/cases.d/CASE-137.md) | Clive Wearing: a musician left by encephalitis with almost no memory of his past and none of the last minutes, who still plays, sight-reads and conducts, keeps his attachment to his wife, and writes over and over that he has just become conscious for the first time | The owner's case, proposed at U26 of the exchange of 2026-10-22 ("if we haven't already examined the case of Clive Wearing, that might be another good addition"). The record had no amnesia case. It separates skill and short-horizon organization, which persist, from autobiographical continuity and experienced ownership of one's past, which do not. Not shown by it: that the unity of his present experience is an illusion, or that his denials of past consciousness are evidence of its absence. | Active |

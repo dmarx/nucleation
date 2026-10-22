@@ -73,7 +73,7 @@ complements:
 - CLAIM-327
 supports:
 - CLAIM-344
-- CLAIM-tmppkmq0
+- CLAIM-423
 ---
 <!-- inactive-ok-file: NOTE-1015 — new reading, cited for what it assumes -->
 <!-- inactive-ok-file: THEORY-747 — Proposed; the measured memory length cited for the graded ordering, open -->

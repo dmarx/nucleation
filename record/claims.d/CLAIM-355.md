@@ -21,7 +21,7 @@ history:
     "Graph Learning Applications": the owner's thesis at U26 that unity
     of self is an illusion, as A26 restricted it; Clive Wearing; the
     commander handoff; and the extension to an imagined social audience,
-    filed as CLAIM-tmp3gvbj. The claim is unchanged.
+    filed as CLAIM-415. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -56,8 +56,8 @@ complements:
 - CLAIM-165
 - CLAIM-155
 - CLAIM-412
-- CLAIM-tmp3gvbj
-- CLAIM-tmp8lheg
+- CLAIM-415
+- CLAIM-417
 uses:
 - TERM-045
 works:
@@ -78,10 +78,10 @@ summary: >-
   about whether the integrated state is felt.
 illustrated_by:
 - CASE-114
-- CASE-tmpo48af
-- CASE-tmpsp3d4
+- CASE-134
+- CASE-137
 ---
-<!-- inactive-ok-file: CLAIM-tmp3gvbj — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-415 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-003 QUESTION-059 QUESTION-061 — Deferred; the organizational-affect line, set aside by the owner, cited as the line this claim would rest on, nothing here rests on it -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-155 CLAIM-288 THEORY-064 THEORY-691 THEORY-563 THEORY-125 THEORY-055 THEORY-646 THEORY-101 THEORY-633 THEORY-063 — Proposed; readings and claims cited as open -->
 
@@ -268,15 +268,15 @@ psychological control." The owner's thesis, restricted so, is what this
 claim already holds; the unrestricted form reaches [QUESTION-255](../questions.d/QUESTION-255.md), which is
 open.
 
-**Two cases.** Clive Wearing ([CASE-tmpsp3d4](../cases.d/CASE-tmpsp3d4.md)) is a self-model that
+**Two cases.** Clive Wearing ([CASE-137](../cases.d/CASE-137.md)) is a self-model that
 misdescribes the history of the organization it models, and A26 kept the
 claim's own boundary: "The inference from **no unified substantial owner**
 to **no real phenomenal experience** is invalid." Northstar's commander
-handoff ([CASE-tmpo48af](../cases.d/CASE-tmpo48af.md)) is organization continuous through a change of
+handoff ([CASE-134](../cases.d/CASE-134.md)) is organization continuous through a change of
 every person in its central role, and a log's continuous commander is a
 represented owner in the small.
 
 **The audience.** A40 extended the claim: "The imagined owner need not be
 the only misleading entity in the self-model. The imagined social audience
 may also be organized into a false unity." That extension is filed as its
-own claim, [CLAIM-tmp3gvbj](CLAIM-tmp3gvbj.md), which complements this one.
+own claim, [CLAIM-415](CLAIM-415.md), which complements this one.

@@ -6,7 +6,7 @@
 
 **Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure, and what a project memory contributes — the record itself as the case.
 
-8 of 126 CASE documents. Back to the [full index](../README.md).
+9 of 139 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -18,3 +18,4 @@
 | [CASE-090](../../../record/cases.d/CASE-090.md) | The rehabilitated hypothesis: an objection that displaced a hypothesis turns out to rest on a faulty measurement, and the hypothesis can be reopened because its defeat was recorded | A7's seventh case, the companion to [CASE-086](../../../record/cases.d/CASE-086.md) and filed with it. Reopening an alternative when its defeater is defeated. A12's "defeat of a defeater" is the same case and is held here, as A12 itself proposed. | Active |
 | [CASE-091](../../../record/cases.d/CASE-091.md) | A memory ablation for revision: synthetic inquiries with known ground truth, run under six kinds of persistent memory, with information and token budget controlled separately | A6's fifth case, refined from A3, A4 §4 and A5. The design [QUESTION-108](../../../record/questions.d/QUESTION-108.md) asks for. Not run. | Active |
 | [CASE-093](../../../record/cases.d/CASE-093.md) | Same marginal, different updates: two joint distributions over a hypothesis and a condition that agree on the hypothesis and disagree on how to revise it | A6's first case, made exact at A8. It grounds [CLAIM-294](../../../record/claims.d/CLAIM-294.md). | Active |
+| [CASE-131](../../../record/cases.d/CASE-131.md) | The graph that asserted an inference nobody made: filing one claim as supporting another made the record's link fixer write that the other rested on it, and the record answered by adding a relation | The record's own history, as A18 of the exchange of 2026-10-22 read it at the owner's prompting (U18): "the pre-existing representation didn't merely omit information; it positively misrepresented an inference". It is a move the grammar could not hold, caught and answered by amending the grammar. Not shown: that such moves are always caught. | Active |

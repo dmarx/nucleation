@@ -6,7 +6,7 @@
 
 **Social ontology** — what social facts, groups, institutions and social kinds are, and what makes them exist — collective intentionality, joint commitment, status functions, convention, social construction, and whether groups can be agents or minds (group: philosophy; ADR-017).
 
-61 of 1364 LIT documents. Back to the [full index](../README.md).
+62 of 1393 LIT documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -71,3 +71,4 @@
 | [LIT-1131](../../../record/literature.d/LIT-1131.md) | 'Who can represent the city?' Football fandom, derby rivalry and civic identity in Shanghai | Qi (2026). From 30 interviews and online observation, rival Shanghai fan groups claim local authenticity and cosmopolitan identity against each other, and together produce the city's derby culture. | Deferred — filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on sports fandom (the workbench entry of 2026-10-16). No NOTE is filed. |
 | [LIT-1147](../../../record/literature.d/LIT-1147.md) | Enemies with benefits: the dual role of rivalry in shaping sports fans' identity | Berendt (2016). A survey of 571 supporters at eight Bundesliga clubs: rivalry lowers public collective self-esteem relative to the rival's fans but raises it relative to others, and raises perceived ingroup distinctiveness and cohesion. | Deferred — filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on sports fandom (the workbench entry of 2026-10-16). No NOTE is filed. |
 | [LIT-1150](../../../record/literature.d/LIT-1150.md) | Supporters, Followers, Fans, and Flaneurs: A Taxonomy of Spectator Identities in Football | Giulianotti (2002). Four ideal types of football spectator, supporters, followers, fans and flâneurs, set on hot–cool and traditional–consumer axes. | Deferred — filed 2026-10-16, not read. Registered from the exchange of 2026-10-16 on sports fandom (the workbench entry of 2026-10-16). No NOTE is filed. |
+| [LIT-1383](../../../record/literature.d/LIT-1383.md) | A Theory of Structure: Duality, Agency, and Transformation | Sewell (1992). Revises Giddens's duality of structure: structures are mutually sustaining cultural schemas and sets of resources, and because schemas are transposable and resources ambiguous, the same structures that enable action also make their own transformation possible. | Deferred — filed 2026-10-22, not read. Registered from the owner's exchange of 2026-10-22, "Graph Learning Applications". No NOTE is filed. |

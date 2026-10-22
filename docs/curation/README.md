@@ -6,6 +6,8 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [22 Oct 16:33 — Six works registered unread from the branch of "Graph Learning Applications", on the doorway effect and Shaolin martial arts](2026-10.md#six-works-registered-unread-from-the-branch-of-graph-learning-applications-on-the-doorway-effect-and-shaolin-martial-arts)
+- [22 Oct 10:38 — Twenty-three works registered unread from the exchange "Graph Learning Applications"; the already held cited, and the unidentified and the tooling left out](2026-10.md#twenty-three-works-registered-unread-from-the-exchange-graph-learning-applications-the-already-held-cited-and-the-unidentified-and-the-tooling-left-out)
 - [22 Oct 02:07 — The exchange's twenty-two works sought: eighteen read, four Unavailable; nineteen Proposed THEORYs, and what the reading corrected](2026-10.md#the-exchanges-twenty-two-works-sought-eighteen-read-four-unavailable-nineteen-proposed-theorys-and-what-the-reading-corrected)
 - [21 Oct 21:27 — Twenty-two works registered unread from the exchange on experience and interpretation; the unidentified left out](2026-10.md#twenty-two-works-registered-unread-from-the-exchange-on-experience-and-interpretation-the-unidentified-left-out)
 - [21 Oct 02:35 — Thirty-three works registered unread from the exchange on governance, capture and legibility](2026-10.md#thirty-three-works-registered-unread-from-the-exchange-on-governance-capture-and-legibility)
@@ -121,9 +123,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-159 entries across 2 books, newest first.
+161 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 112 | 2026-10-01 | 2026-10-22 |
+| [2026-10](2026-10.md) | 114 | 2026-10-01 | 2026-10-22 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

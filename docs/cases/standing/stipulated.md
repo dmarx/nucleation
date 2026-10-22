@@ -6,7 +6,7 @@
 
 **Stipulated** — a real referent whose relevant facts are assumed rather than verified here — usable as a thought experiment, not as evidence about the referent. For a proposed study, its materials and setting, not results it does not yet have (ADR-042).
 
-55 of 126 CASE documents. Back to the [full index](../README.md).
+55 of 139 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -16,7 +16,7 @@
 | [CASE-007](../../../record/cases.d/CASE-007.md) | CoreWeave: a climate-concerned workforce building fossil-powered datacenters | The owner's case at U13: employees largely concerned about climate, a company whose datacenters, sited where energy is cheap, induce fossil fuel demand. Replaced by the fictional [CASE-025](../../../record/cases.d/CASE-025.md) at the owner's suggestion (U15). | Superseded — by [CASE-025](../../../record/cases.d/CASE-025.md) |
 | [CASE-008](../../../record/cases.d/CASE-008.md) | Solidarity, condemnation and humour judged in pairs: the probabilistic version | A24: three judgements of Henley's poem, S (solidarity), M (condemnation), H (humour), elicited in pairwise contexts, asking whether the pairwise distributions are marginals of one global distribution. Replaced in the manuscript by a deterministic parity example. | Superseded — by [CASE-035](../../../record/cases.d/CASE-035.md) |
 | [CASE-009](../../../record/cases.d/CASE-009.md) | Text → image → caption → image chains under four conditions | A97 §6: compare text-only, image-only, alternating, and alternating with explicit preservation of pragmatic constraints. The manuscript's Case III keeps alternating against text-only. Proposed, not run. | Active |
-| [CASE-014](../../../record/cases.d/CASE-014.md) | Microsoft, as the philosophical target | The real corporation the first framing asked about. Committed to as a recurring touchstone (A205) and then silently dropped from the drafts; retired here by status rather than left as a promise nobody kept. | Deferred |
+| [CASE-014](../../../record/cases.d/CASE-014.md) v2 | Microsoft, as the philosophical target | The real corporation the first framing asked about. Committed to as a recurring touchstone (A205) and then silently dropped from the drafts; retired here by status rather than left as a promise nobody kept. | Deferred |
 | [CASE-017](../../../record/cases.d/CASE-017.md) | E1: synthetic three-state stochastic computations (C2–C3) | Run at U23 ("run it"): hand-chosen row-stochastic matrices on three abstract states, seed 20261008, "not fitted to text, pretrained models, or human measurements". Executed; results are exact properties of the chosen matrices. None reached a later draft. | Active |
 | [CASE-020](../../../record/cases.d/CASE-020.md) | E3: the controlled inference harness, dry run only (C5) | Built at U25: four frame conditions (stable complicit, neutral, moralizing; shifting), 12 reset chains each, 5 generations, 240 calls, gpt-4.1-mini at temperature 0.7, seed 1729. Only a dry run was executed: "No model-generated observations were recorded." The design is the manuscript's Case II. | Active |
 | [CASE-021](../../../record/cases.d/CASE-021.md) | Wording, attributed speaker and judgement order: the proposed factorial study | Proposed at A21 and refined at A24, not run: Henley renderings × attributed speaker × order of judgement questions, with hierarchical, sequential state-update and quantum models compared. Becomes the manuscript's Case I (§10). | Active |

@@ -6,8 +6,8 @@
 
 **Moral psychology** — morality as a natural phenomenon — moral judgement, emotion and norms, and their evolution, development and variation across cultures; descriptive, where ethics is normative (group: philosophy; ADR-018).
 
-0 of 414 CLAIM documents. Back to the [full index](../README.md).
+1 of 424 CLAIM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CLAIM-415](../../../record/claims.d/CLAIM-415.md) | A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential | From the owner's U39 of the exchange of 2026-10-22: how an individual's perspective is shaped by "the perception of a plurality of opinion where one may not exist (e.g. because of a loud minority)", and the phrase "I am whatever you say I am". A39: "An individual's perspective can be reorganized by what they believe other people's perspectives are—even when those other perspectives have been misperceived or scarcely exist." A40 drew the extension of [CLAIM-355](../../../record/claims.d/CLAIM-355.md): "The imagined social audience may also be organized into a false unity." The edge: the attributed collective attitude itself is already held (List's falsely attributed common attitudes, [CASE-104](../../../record/cases.d/CASE-104.md)); what is new is its place in a person's own organization. | Proposed |
