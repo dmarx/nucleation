@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-22 (NOTE-tmpo7pcy) from the live entry, substantive revision of 9 January 2026; worth reading as the map of higher-order theories, which explain what makes a mental state conscious rather than unconscious by a higher-order representation of it: inner sense, actualist and dispositionalist higher-order thought, self-representational and hybrid views, the standing objections (targetless states, the rock, animals and infants, sufficiency) and the prefrontal evidence. Read it knowing that it argues for no verdict, that it is maintained by Gennaro, a higher-order theorist, while Carruthers and Lycan are reported to have given up their versions, and that its empirical section reports results to about 2023 and not the 2025 adversarial-collaboration findings.
+  read in full 2026-10-22 ([NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md)) from the live entry, substantive revision of 9 January 2026; worth reading as the map of higher-order theories, which explain what makes a mental state conscious rather than unconscious by a higher-order representation of it: inner sense, actualist and dispositionalist higher-order thought, self-representational and hybrid views, the standing objections (targetless states, the rock, animals and infants, sufficiency) and the prefrontal evidence. Read it knowing that it argues for no verdict, that it is maintained by Gennaro, a higher-order theorist, while Carruthers and Lycan are reported to have given up their versions, and that its empirical section reports results to about 2023 and not the 2025 adversarial-collaboration findings.
 title: 'Higher-Order Theories of Consciousness (Stanford Encyclopedia of Philosophy)'
 version: 2
 history:
@@ -57,7 +57,7 @@ Peter Carruthers, Rocco Gennaro (2001; substantive revision 2026), "Higher-Order
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpo7pcy. The SEP has no page numbers; citations
+*From the reading, [NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md). The SEP has no page numbers; citations
 are by section.*
 
 - **The question they answer.** "What is it that makes an otherwise
@@ -88,13 +88,13 @@ are by section.*
 
 ## Why this is here
 
-The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange offered higher-order representation as one candidate answer to why some interpretations are experienced and others are not. That is the gap the counter-claim says the thesis leaves open. Bears on QUESTION-tmpc4j7p and CLAIM-tmp1lvwf.
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange offered higher-order representation as one candidate answer to why some interpretations are experienced and others are not. That is the gap the counter-claim says the thesis leaves open. Bears on [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) and [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).
 
 **What the reading adds.** The exchange described the entry correctly.
-Its motivating cases are CLAIM-tmp1lvwf's, and the higher-order thesis is
+Its motivating cases are [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md)'s, and the higher-order thesis is
 the most developed answer to that claim. The entry also reports the
 answer's standing troubles: animals, sufficiency, and evidence tied to
-report. Three of its versions bear on CLAIM-tmpdga80 directly:
+report. Three of its versions bear on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) directly:
 
 - **Rosenthal's unconscious self-interpretation** confers consciousness,
   but as a higher-order judgement.
@@ -103,8 +103,8 @@ report. Three of its versions bear on CLAIM-tmpdga80 directly:
 - **Kriegel's requirement** of "a psychologically real process (as opposed
   to a theorist's definition)" matches the claim's realized organization.
 
-The family as a whole contests QUESTION-tmpc4j7p's separation of
+The family as a whole contests [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md)'s separation of
 constituting a perspective from representing one. Its prefrontal section
-restates the dispute THEORY-098 takes a side on. It is the account of
-awareness that the companion entry, Lycan's (LIT-tmpi7qws), defers to,
-and that THEORY-tmptw1fe leaves open.
+restates the dispute [THEORY-098](../theory.d/THEORY-098.md) takes a side on. It is the account of
+awareness that the companion entry, Lycan's ([LIT-tmpi7qws](LIT-tmpi7qws.md)), defers to,
+and that [THEORY-tmptw1fe](../theory.d/THEORY-tmptw1fe.md) leaves open.

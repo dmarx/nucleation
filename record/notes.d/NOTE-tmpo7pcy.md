@@ -277,12 +277,12 @@ The entry builds on Armstrong (1968), Rosenthal (1986, 2005), Lycan (1996),
 Carruthers (2000, 2005), Gennaro (1996, 2012), Kriegel (2009) and Van
 Gulick, and engages Dretske (1993, 1995), Tye (1995), Block (1995, 2007,
 2011), Levine and Chalmers (1996). Of these the record holds Block 1995
-(LIT-643), Block 2007 (LIT-646, which §8 cites for the definition of a neural
+([LIT-643](../literature.d/LIT-643.md)), Block 2007 ([LIT-646](../literature.d/LIT-646.md), which §8 cites for the definition of a neural
 correlate), Block's "Advertisement for a Semantics for Psychology" (1986,
-LIT-648, named among the consumer semantics) and Nagel 1974 (LIT-096).
+[LIT-648](../literature.d/LIT-648.md), named among the consumer semantics) and Nagel 1974 ([LIT-096](../literature.d/LIT-096.md)).
 Block's own comparison of higher-order, workspace and biological theories
-(LIT-632) is not cited. Its companion entry is Lycan's on representational
-theories (LIT-tmpi7qws), read alongside. Lycan there sends awareness to
+([LIT-632](../literature.d/LIT-632.md)) is not cited. Its companion entry is Lycan's on representational
+theories ([LIT-tmpi7qws](../literature.d/LIT-tmpi7qws.md)), read alongside. Lycan there sends awareness to
 this entry, and this entry reports that Lycan has since given up inner
 sense.
 
@@ -290,7 +290,7 @@ Three things in the text should be noted.
 
 - **The adversarial collaborations.** §8 mentions them only through Ball
   (2019) and reports no result. The COGITATE test of global workspace
-  against IIT (LIT-973, 2025) is not cited, though the entry was revised
+  against IIT ([LIT-973](../literature.d/LIT-973.md), 2025) is not cited, though the entry was revised
   in January 2026.
 - **The figure label.** Figure 1's long description is labelled "figure
   6".
@@ -301,7 +301,7 @@ Three things in the text should be noted.
 
 ## Bearing on the record
 
-- **CLAIM-tmp1lvwf: the claim's premise, and the most developed answer to
+- **[CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md): the claim's premise, and the most developed answer to
   it.** The entry's motivation (§2) is the claim's premise in the same
   cases: blindsight, automatic motor control (D.F.'s sensorimotor
   system) and the absent-minded driver.
@@ -326,7 +326,7 @@ Three things in the text should be noted.
   - **The claim stands, and this sharpens it.** The leading named
     candidate has been abandoned by two of its main sources (Carruthers,
     Lycan) and is maintained by a third.
-- **CLAIM-tmpdga80: three near-relatives, each with a difference.**
+- **[CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md): three near-relatives, each with a difference.**
   - **Interpretation that confers consciousness.** On Rosenthal's actualist
     theory, "unconscious self-interpretation is acceptable as a source of
     the conscious status of the states thereby attributed" (§4). That is
@@ -353,18 +353,18 @@ Three things in the text should be noted.
     (§7.4) is the claim's standard for an identity, that "nothing else
     needed to be added to the world". The entry says that this ground is
     where the issue "may ultimately be won or lost". It does not settle it.
-- **QUESTION-tmpc4j7p: the question's second contrast is contested.** The
+- **[QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md): the question's second contrast is contested.** The
   question separates constituting a perspective from representing one.
   Higher-order theories make the experiential difference consist in
   representing the state: the higher-order content gives "a dimension of
   seeming or subjectivity" (§3, §5, §6). On these views a representation
-  of one's own state (nearer TERM-tmpe36gg's sense 2) is what makes a state
+  of one's own state (nearer [TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md)'s sense 2) is what makes a state
   experiential. A self-representational theory goes further: the state is
   "self-presenting". So the question's separation is a substantive position
   against this family, and an answer to the question owes a reply to it.
   The question's overgeneration test applies to the family as it applies
   to the claim (§7.3).
-- **TERM-tmpe36gg.**
+- **[TERM-tmpe36gg](../terms.d/TERM-tmpe36gg.md).**
   - **The bridge from sense 2 to sense 3.** Higher-order theory is a
     standing attempt to make the bridge the TERM says must not be built
     into a definition: represented self-awareness (sense 2) as what makes
@@ -372,41 +372,41 @@ Three things in the text should be noted.
   - **Berger's view.** Berger (2014) makes consciousness a property of
     persons, "how my mental states appear to me", not of states (§7.1).
     That is nearer a perspective-level reading.
-- **TERM-tmpgqmop.** The entry uses "interpret" in two senses, neither
+- **[TERM-tmpgqmop](../terms.d/TERM-tmpgqmop.md).** The entry uses "interpret" in two senses, neither
   the TERM's.
   - **Rosenthal's "self-interpretation"** is inference from one's own
     behaviour to one's own state.
   - **Carruthers's consumer systems** "learned to interpret those states
     differently". That is a change in how a state is used, and it is the
     nearer one.
-- **CLAIM-355.** The pathologies of §7.4 bear on it. The HOT content "I am in
+- **[CLAIM-355](../claims.d/CLAIM-355.md).** The pathologies of §7.4 bear on it. The HOT content "I am in
   mental state M" builds an owner into every conscious state. In
   somatoparaphrenia and thought insertion the ownership attribution fails
-  while the experience stays. That fits CLAIM-355's location of the owner
+  while the experience stays. That fits [CLAIM-355](../claims.d/CLAIM-355.md)'s location of the owner
   in a representation that can fail without the binding failing. It is a
   problem for HOT theory, and the entry cites Gennaro's discussion of it,
   which was not read.
-- **QUESTION-048, THEORY-094, THEORY-098.** §8 restates the prefrontal
-  dispute that THEORY-098 takes a side on. It lists the same localist
+- **[QUESTION-048](../questions.d/QUESTION-048.md), [THEORY-094](../theory.d/THEORY-094.md), [THEORY-098](../theory.d/THEORY-098.md).** §8 restates the prefrontal
+  dispute that [THEORY-098](../theory.d/THEORY-098.md) takes a side on. It lists the same localist
   evidence (lesions, film-watching, report-driven activity) and the
   higher-order evidence the THEORY does not discuss (Lau and Passingham;
-  Rounis et al.). It also reports the report confound THEORY-094 states:
+  Rounis et al.). It also reports the report confound [THEORY-094](../theory.d/THEORY-094.md) states:
   "it is crucial to show that the activity detected in the PFC during
   imaging studies pertains primarily to attention and report, not
   consciousness per se". It adds nothing that settles either, and it does
   not report COGITATE.
-- **THEORY-577 and THEORY-633.** Inner-sense theory claims to explain the
+- **[THEORY-577](../theory.d/THEORY-577.md) and [THEORY-633](../theory.d/THEORY-633.md).** Inner-sense theory claims to explain the
   explanatory gap and zombie conceivability through purely recognitional
-  concepts (§3). That is an attempt at the meta-problem THEORY-577
+  concepts (§3). That is an attempt at the meta-problem [THEORY-577](../theory.d/THEORY-577.md)
   poses. Rosenthal's "Consciousness is about mental appearance" (§7.1),
-  with targetless thoughts sufficing, is close to THEORY-633's
+  with targetless thoughts sufficing, is close to [THEORY-633](../theory.d/THEORY-633.md)'s
   quasi-phenomenal reading but keeps phenomenal consciousness real.
-- **THEORY-766 (expectation).** The dental case (§7.1) has the shape of
+- **[THEORY-766](../theory.d/THEORY-766.md) (expectation).** The dental case (§7.1) has the shape of
   that THEORY's open question. A reported experience may be produced by
   the stimulation, by a thought about it, or by "a top-down expectation of
   pain" that causes a first-order experience. The entry does not decide
   among these.
-- **THEORY-tmptw1fe**, filed from the companion entry, says that a
+- **[THEORY-tmptw1fe](../theory.d/THEORY-tmptw1fe.md)**, filed from the companion entry, says that a
   sensory quality needs awareness to be experienced. This entry is the
   account of that awareness it defers to. The entry also grants, for the
   driver, that one "may be possible to get oneself to believe" the
