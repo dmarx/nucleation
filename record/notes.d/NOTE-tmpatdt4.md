@@ -150,13 +150,13 @@ Discipline* (1999), and borrows from urban ecology (von Thünen, Burgess,
 Hawley), Long's "ecology of games" and Laumann and Knoke's
 organizational state. The Bourdieu section sets it against the field
 concept and claims a pragmatist, processual lineage. Sewell's schemas and
-resources (LIT-1383) and Wacquant's habitus (LIT-1377) are the
+resources ([LIT-1383](../literature.d/LIT-1383.md)) and Wacquant's habitus ([LIT-1377](../literature.d/LIT-1377.md)) are the
 neighbouring accounts the exchange named with it; Abbott's own contrast
 with Bourdieu is the closest he comes to them.
 
 ## Bearing on the record
 
-- **CLAIM-423 (timescale and authority in a political collective).**
+- **[CLAIM-423](../claims.d/CLAIM-423.md) (timescale and authority in a political collective).**
   The LIT says A30 called linked ecologies "even closer to the expanded
   domain" than its own "regime ecology". The precursor bears that out, and
   on the claim's own defeater. Its tempo result is the claim's link
@@ -170,11 +170,11 @@ with Bourdieu is the closest he comes to them.
   differences as an explanatory variable, not as an account of which
   component gains authority over another, so it does not by itself defeat
   the claim.
-- **CLAIM-331 (higher levels are slower).** Note 12 is a small
+- **[CLAIM-331](../claims.d/CLAIM-331.md) (higher levels are slower).** Note 12 is a small
   confirmation and a caution: arenas look like fixed structures from
   outside because they change more slowly, and seen close up they are
   ecologies too.
-- **CLAIM-417 (selves as organizational perspectives).** The claim's
+- **[CLAIM-417](../claims.d/CLAIM-417.md) (selves as organizational perspectives).** The claim's
   defeater lists linked ecologies among the accounts that might explain
   the same transitions with fewer assumptions. The precursor is about
   jurisdictions and alliances, not perspectives, and has nothing on what
@@ -183,13 +183,13 @@ with Bourdieu is the closest he comes to them.
   "merge, divide, and reshape", which is the carrier-level fluidity the
   claim needs and the self vocabulary lacked. It is a statement of
   orientation, not an argument.
-- **CLAIM-416 (competition over tests).** The audience that judges a
+- **[CLAIM-416](../claims.d/CLAIM-416.md) (competition over tests).** The audience that judges a
   profession's claim is itself an arena of competition, and it judges for
   its own reasons. That is the claim's point that the judge of a contest
   is not neutral, from the side of the judge. The 1844 repeal is a clear
   instance: the test of medical competence was set by legislators using it
   for a contest of their own.
-- **CASE-133 (party realignment).** Not touched directly. The
+- **[CASE-133](../cases.d/CASE-133.md) (party realignment).** Not touched directly. The
   precursor's New York politics (Whigs, Hunkers, Tammany, upstate
   Republicans) is the same nineteenth-century party system, and it found
   that licensing votes did not follow party lines.
@@ -222,6 +222,6 @@ with Bourdieu is the closest he comes to them.
   one because no actor could play it, which is close to circular until the
   article's fuller account is read.
 - Does a difference in tempo between linked ecologies predict which side
-  sets the terms of an alliance? That is the form CLAIM-423 would need,
+  sets the terms of an alliance? That is the form [CLAIM-423](../claims.d/CLAIM-423.md) would need,
   and the precursor's case points to it without testing it.
 - The published article should be read when a copy is supplied.

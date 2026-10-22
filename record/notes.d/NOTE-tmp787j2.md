@@ -164,13 +164,13 @@ to organize a life … for which particular, culturally shaped skills and
 habits (what Bourdieu calls 'habitus') are useful", n. 9), Walzer on
 Calvin, and Skocpol on ideology and structure. It cites Sewell's work on
 French artisans as an example of reappropriated cultural capacities
-(p. 283); Sewell's 1992 theory of structure, LIT-1383, takes up its
+(p. 283); Sewell's 1992 theory of structure, [LIT-1383](../literature.d/LIT-1383.md), takes up its
 transposability in another vocabulary.
 
 ## Bearing on the record
 
-- **CLAIM-417 (selves as organizational perspectives).** The claim cites
-  this paper with Wacquant (LIT-1377) for sense 2, "a perspective's
+- **[CLAIM-417](../claims.d/CLAIM-417.md) (selves as organizational perspectives).** The claim cites
+  this paper with Wacquant ([LIT-1377](../literature.d/LIT-1377.md)) for sense 2, "a perspective's
   dispositional repertoire and the resources coupled to it". Two
   corrections. First, Swidler's repertoire is not dispositional: C6 says
   culture works through "publicly available meanings", not "enduring
@@ -178,18 +178,18 @@ transposability in another vocabulary.
   opposite of habitus as Wacquant states it, so the two cannot be cited
   together as one account. Second, the repertoire is not the perspective:
   it is a stock of components, and the organized thing is the strategy of
-  action built from them. If anything here answers to TERM-072 sense 1,
+  action built from them. If anything here answers to [TERM-072](../terms.d/TERM-072.md) sense 1,
   a realized organization through time, it is the strategy, not the kit.
   The paper is closer to the claim's lineage and character than to its
   realization: a strategy of action persists across changes of end (C2).
-- **CLAIM-420 (a figure's legacy: story, perspective, descent).** The
+- **[CLAIM-420](../claims.d/CLAIM-420.md) (a figure's legacy: story, perspective, descent).** The
   Protestant ethic case gives a fourth way something persists that the
   claim does not list: a style of organizing action that outlasts the
   doctrine and ends that produced it ("this individualistic way of
   organizing action can be directed to many values", p. 276). That is a
   perspective transmitted without its content, a finer cut than the
   claim's "perspectival" persistence.
-- **CLAIM-416 (competition over tests).** C4 is the selection half:
+- **[CLAIM-416](../claims.d/CLAIM-416.md) (competition over tests).** C4 is the selection half:
   ideologies "in active competition with other cultural frameworks", whose
   survival is decided by the structural situations they are enacted in.
   Swidler does not discuss competitors reshaping those situations, so she
@@ -198,11 +198,11 @@ transposability in another vocabulary.
   particular cultural patterns give those who hold them?" (p. 283), with
   pietists who "won out politically" whatever their alliances, is one form
   of the claim's question of what success under a regime shows.
-- **CLAIM-287 and CLAIM-329 (persistence).** Cultural lag (C5) is
+- **[CLAIM-287](../claims.d/CLAIM-287.md) and [CLAIM-329](../claims.d/CLAIM-329.md) (persistence).** Cultural lag (C5) is
   persistence through the cost of rebuilding equipment, neither
   continuous running nor transmission of an organization as such. It bears
   on what those claims say is conserved, and does not test either.
-- **TERM-072 (perspective).** The tool kit is a set of kinds and
+- **[TERM-072](../terms.d/TERM-072.md) (perspective).** The tool kit is a set of kinds and
   components, publicly held; the strategy of action is nearer a
   realization; ideology is a representation that, in unsettled periods,
   directly organizes action. Swidler's ordering, ideology formed "around
@@ -210,7 +210,7 @@ transposability in another vocabulary.
   follows the organization it describes.
 - **THEORY.** The two-model account (C1–C5) is a substantive claim about
   how culture causes action that the record does not hold. Filed Proposed
-  as THEORY-tmptap5g, with the paper's own research questions as its
+  as [THEORY-tmptap5g](../theory.d/THEORY-tmptap5g.md), with the paper's own research questions as its
   test.
 - No instruction for machine-learning practice; nothing for the anthology.
 

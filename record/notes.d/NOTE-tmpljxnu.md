@@ -53,7 +53,7 @@ currently relevant information" (p. 1154).
 - **Virtual space stands in for real space.** Cited work is taken to show
   that virtual and real spaces are represented "essentially identical" or
   with "only small deviations" (p. 1151). Tested only later
-  (LIT-1384, Experiment 2).
+  ([LIT-1384](../literature.d/LIT-1384.md), Experiment 2).
 - **The probe task measures availability in a situation model.** The task
   is a two-item short-term memory task with verbal probes (colour plus
   shape names). The authors grant that people "need only rehearse the names
@@ -127,35 +127,35 @@ currently relevant information" (p. 1154).
 It comes out of narrative-comprehension work on spatial shifts and
 situation models (Glenberg, Meyer & Lindem 1987; Zwaan & Radvansky 1998;
 Rinck & Bower 1995) and the authors' earlier video-game studies. The
-interference account the same lab later gives (LIT-1384, LIT-1385)
+interference account the same lab later gives ([LIT-1384](../literature.d/LIT-1384.md), [LIT-1385](../literature.d/LIT-1385.md))
 is not in this paper; here the explanation is the effort of updating:
 "Situation model updating requires a relatively large amount of cognitive
 effort and coordination, which can slow processing and allow for more
 errors to occur" (p. 1155). That transient-cost account is the one
-LIT-1385 later tests and rejects. It does not cite event segmentation
-theory (LIT-1382).
+[LIT-1385](../literature.d/LIT-1385.md) later tests and rejects. It does not cite event segmentation
+theory ([LIT-1382](../literature.d/LIT-1382.md)).
 
 ## Bearing on the record
 
-- **CASE-136.** The case, and the summary of LIT-1392, say memory
+- **[CASE-136](../cases.d/CASE-136.md).** The case, and the summary of [LIT-1392](../literature.d/LIT-1392.md), say memory
   "for objects just picked up or set down" was worse after a doorway. The
   paper says otherwise: the shift harmed the carried object and left the
   one set down unchanged (C2, C3). The finding is narrower and stranger
   than the case states. It is the most available item that suffers.
-- **CLAIM-421 (activation interruption).** The case is offered as an
+- **[CLAIM-421](../claims.d/CLAIM-421.md) (activation interruption).** The case is offered as an
   intention that is held but not retrievable. Nothing here concerns
   intentions or goals. The probe is a colour–shape name, the memory load
   is two objects, and errors on the carried object rose from 5% to 14%.
   The popular gloss of forgetting why one entered a room is not tested.
-  The one point that fits CLAIM-421's distinction is that the object is
+  The one point that fits [CLAIM-421](../claims.d/CLAIM-421.md)'s distinction is that the object is
   held, since most probes are still answered correctly, but slower and
   less reliably after a shift. That is a loss of availability without
-  loss of the item, which is TERM-055's distinction in miniature. It is
+  loss of the item, which is [TERM-055](../terms.d/TERM-055.md)'s distinction in miniature. It is
   read off the data, not argued by the paper.
-- **Proposed THEORY-tmpiwyd2** (doorway effect as retrieval interference)
+- **Proposed [THEORY-tmpiwyd2](../theory.d/THEORY-tmpiwyd2.md)** (doorway effect as retrieval interference)
   takes this paper as its first source, for the pattern, not for the
   explanation.
-- **THEORY-688 (doorway options).** No relation beyond the word. Here
+- **[THEORY-688](../theory.d/THEORY-688.md) (doorway options).** No relation beyond the word. Here
   the doorway is an event boundary in a person's memory task, not a
   subgoal in learning.
 - No instruction for machine-learning practice.
@@ -164,7 +164,7 @@ theory (LIT-1382).
 
 - The decisive experiment has 5 no-shift trials per probe type per
   person. A 9-point change in error rate is less than one trial per cell.
-  McFadyen et al. (LIT-1387) make this objection to the paradigm.
+  McFadyen et al. ([LIT-1387](../literature.d/LIT-1387.md)) make this objection to the paradigm.
 - Shift and no-shift trials differed in room size, in the darkened half
   and invisible barrier of the no-shift rooms, and in wall pattern, which
   changed at every doorway. The doorway is not isolated from a change of
@@ -181,10 +181,10 @@ theory (LIT-1382).
 
 - Does the effect hold when the rooms on either side of the doorway look
   the same, and when shift and no-shift trials are equally many and
-  unpredictable? (LIT-1387 did this, passively, and found no effect on
+  unpredictable? ([LIT-1387](../literature.d/LIT-1387.md) did this, passively, and found no effect on
   hits.)
 - Why should the carried object, part of the new situation too, be the one
-  that suffers? The later interference account (LIT-1384) is one
+  that suffers? The later interference account ([LIT-1384](../literature.d/LIT-1384.md)) is one
   answer.
 - Does anything like it happen to an intention or goal, rather than to an
   object label?
