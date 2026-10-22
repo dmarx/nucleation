@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -18,6 +18,14 @@ history:
     support the identity. THEORY-056 and THEORY-680 are rivals, and THEORY-766
     leaves the expectation and report confounds open. They are cited in the
     body as evidence the thesis must explain. The claim is unchanged.
+- version: 4
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the readings of that day of the works the
+    exchange cited. None of them supports the identity. The note records
+    where each bears. Two passages are corrected: representationalism is
+    nearest the claim only on the character of experience, and Negro's
+    objection includes a charge of eliminativism. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -188,7 +196,13 @@ sensory or biological embodiment (not claimed).
   reads. A5: the "decisive move would be to explore whether an analogous
   identity thesis can be generalized beyond hedonic valence."
 - Strong representationalism is the standing position nearest the claim
-  ([LIT-tmpi7qws](../literature.d/LIT-tmpi7qws.md)). Block's Inverted Earth ([THEORY-095](../theory.d/THEORY-095.md)) shows that the
+  on the character of experience only (LIT-tmpi7qws, read in
+  NOTE-tmpxf5do). Lycan's version holds that a sensory quality can occur
+  with nothing it is like to have it, and hands what makes a state
+  experienced to a theory of awareness (THEORY-tmptw1fe). It is nearest
+  to part 1's "which experience", not to its "that there is one". Its
+  named defenders also hold qualities wide, against the internal reading
+  below. Block's Inverted Earth ([THEORY-095](../theory.d/THEORY-095.md)) shows that the
   claim's interpretation must be internal. Phenomenal character there
   stays fixed while externally individuated content inverts.
 
@@ -206,8 +220,12 @@ sensory or biological embodiment (not claimed).
   ground meaning, not meaning constitute experience (A3). It asks whether
   anything can mean something "*to a system* unless there is already
   something it is like to be that system".
-- **Against structuralism.** Negro ([LIT-tmp86j0r](../literature.d/LIT-tmp86j0r.md)) argues against metaphysical
-  structuralism about consciousness. A4 drew from him the realization
+- **Against structuralism.** Negro (LIT-tmp86j0r, read in NOTE-tmp0dy5a)
+  argues against metaphysical structuralism about consciousness. He
+  considers making judgements and cognitive capacities constitutive, and
+  rejects it as aligning structuralism with eliminativism (THEORY-tmp7uasf).
+  The claim makes organization constitutive, not judgement, but it must
+  still say why it is not eliminativism by another name. A4 drew from him the realization
   problem, whether "possessing a description of every relevant relation"
   differs from "instantiating the organized process itself". The claim
   answers with realized, not described, organization: in A7's words, "a
@@ -262,3 +280,53 @@ A11 also restated part 4, the subject constituted with the experience, as
 the claim's most general form: "an interpretation is not necessarily
 something occurring *to* a pre-existing subject. A perspective may be
 constituted through the organization of interpretive activity itself."
+
+## Note of 2026-10-22: what the cited works say, once read
+
+Eighteen of the twenty-two works the exchange cited were read on
+2026-10-22 (curation entry of that day). None supports the identity. They
+bear on it as follows.
+
+- **Rival identities, not support.** IWMT (THEORY-tmpopaql) identifies
+  consciousness with the coherent world model of an embodied agent. That
+  is a rival identity that requires a capacity and history of coupling.
+  Whyte et al. (THEORY-tmpw20ca) speak only of a "correspondence" and
+  state their criterion as conscious access in humans. Laukkonen et al.
+  (THEORY-tmpw19hw) offer conditions with no data. Their formal part is a
+  hierarchical model with a precision parameter per level, which an
+  ordinary filter would also satisfy.
+- **The bridge is contested from the represented side.** On Graziano's
+  illusionism (THEORY-tmpncy2z), experience is the represented perspective
+  of a real organization, TERM-tmpe36gg's sense 2 of sense 1. Higher-order
+  theories (NOTE-tmpo7pcy) also make representing one's own state what
+  makes it experiential. Both locate experience where this claim does not.
+- **Character, not occurrence.** Lyre (THEORY-tmpv5rmc) holds that
+  structure fixes which experience a state is, and leaves whether there is
+  one to a separate mechanism. That supports the claim's account of
+  character and nothing more. Aldé (THEORY-tmp4u3l2) sets a test for any
+  relational account of colour: it must yield the unique hues and the
+  opponent structure.
+- **Reappraisal.** In Bo et al. (THEORY-tmptuggu, THEORY-tmpak7ax) reported
+  affect fell as cortical appraisal was reorganized. That fits the claim.
+  It is limited only if the subcortical response that reappraisal left
+  unchanged is part of the experience, and Bo et al. do not show that: it
+  did not predict regulation success. Barrett et al. (NOTE-tmpr1xjh) never
+  mention CBT or reappraisal. The exchange supplied that link. Their
+  wording moves between constitution and production.
+- **Minimal content.** The meditation readings (THEORY-tmp9y4pc,
+  THEORY-tmp1lndf) show reported content being trimmed, not interpretation
+  being absent. What remains (calm, knowing, unity) is organization below
+  concepts. Chandia-Jorquera et al. found no link between content ratings
+  and the EEG, so the evidence is report. Woods et al. report that two
+  meditators can describe one state differently, which a constitutive
+  reading has to explain.
+- **Overgeneration made concrete.** Gurnee et al. (THEORY-tmp111ci) find an
+  access workspace in a language model, built from text alone. The claim
+  must either accept that such a system qualifies or say what it lacks
+  (QUESTION-tmpc4j7p).
+- **Life.** Ward (THEORY-tmpnwjjt) classes the claim as informationalist,
+  the side organicist enactivism rejects (CLAIM-tmpjw8ev, note of
+  2026-10-22).
+
+The defeater is not met by any of them.
+

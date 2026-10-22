@@ -1,7 +1,7 @@
 ---
 status: Active
 title: 'Matched ordinary trajectories can conceal differences in an interpretation''s efficacy, in the allocation of that efficacy, and in the maintenance of its enabling constraints: in two finite constructions, systems that agree under ordinary operation differ in each, and a specified intervention exposes the difference that passive observation of the matched trajectories does not'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,12 @@ history:
     theorem for the four properties. Nor is intervention the only way to tell
     the systems apart: knowing their mechanisms would. What fails is the
     matched passive observation. Status and warrant are unchanged.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the readings of that day: an empirical
+    parallel in a language model, and two criteria the claim bears on. The
+    claim is unchanged.
 role: thesis
 warrant: demonstrated
 defeated_if: >-
@@ -122,3 +128,21 @@ its construction meets that claim's conditions (A) and (B).
 - Not that the four are ordered by implication. A10: "These arrows indicate
   increasingly demanding explanatory claims, not logical implications."
   Maintenance without rich representation is possible.
+
+## Note of 2026-10-22: an empirical parallel, and two criteria
+
+- **A parallel in a trained model.** In Gurnee et al. (NOTE-tmpyc06q) the
+  language of a passage is represented in all four tasks but is effective
+  in only two, and only an activation swap tells them apart. That is the
+  claim's first separation, efficacy against representation, found in a
+  real system and not constructed. It is an intervention result, not
+  passive observation.
+- **Criteria that behaviour cannot settle.** Whyte et al.'s criterion of
+  consciousness (THEORY-tmpw20ca) is a capacity to affect choice, and
+  Laukkonen et al.'s "epistemic depth" (THEORY-tmpw19hw) is precision
+  allocated from within. By this claim, matched behaviour can hide both,
+  so behavioural tests for them, as Laukkonen et al. propose for AI, need
+  an intervention.
+- Bo et al. (NOTE-tmphhgp9) show where an appraisal is represented and
+  where it changes affect, but by correlational imaging. It is a loose
+  parallel, not an instance.

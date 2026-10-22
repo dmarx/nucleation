@@ -1,7 +1,7 @@
 ---
 status: Proposed
 title: 'Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight''s apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-22'
@@ -19,6 +19,12 @@ history:
     substantial processing not shown to be experiential meets the criterion.
     Blindsight is qualified as apparently unconscious processing, after
     QUESTION-048. The defeater and the objection's force are unchanged.
+- version: 4
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from the readings of that day: the works read
+    support the objection, and none meets its defeater. The claim is
+    unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -138,3 +144,26 @@ access-consciousness problem." A11's synthesis keeps the gap open:
 "Which organizational properties distinguish those perspectives from
 nonexperiential interpretive systems remains an open theoretical
 question."
+
+## Note of 2026-10-22: the readings
+
+The works the exchange cited, read on 2026-10-22, support the objection.
+None meets its defeater.
+
+- Whyte et al. (NOTE-tmpjgegs) say active inference covers "both conscious
+  and unconscious" behaviour. Their criterion is tied to report.
+- Gurnee et al. (NOTE-tmpyc06q) find interpretation in a language model
+  outside its reportable workspace, and draw the blindsight parallel
+  themselves.
+- Barrett et al. (NOTE-tmpr1xjh) extend categorization to single-cell
+  organisms, and leave animal experience as "whatever that means for the
+  animals in question".
+- Representationalism concedes the same open sufficiency condition
+  (NOTE-tmpxf5do). The higher-order criterion (NOTE-tmpo7pcy) fails on
+  necessity (animals) and on sufficiency, and its evidence runs through
+  report. Graziano's attention schema (THEORY-tmpncy2z) is a candidate for
+  the missing condition, but it is representational and stated through
+  report.
+- Lyre (THEORY-tmpv5rmc) separates neural correlates of content from a
+  general correlate of consciousness. That concedes the gap from the
+  structuralist side.

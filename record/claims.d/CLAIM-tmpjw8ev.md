@@ -1,7 +1,17 @@
 ---
 status: Proposed
 title: 'Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; in its current, developmental and epistemic senses it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Corrected and noted after the readings of 2026-10-22. The open
+    objection credited Ward and IWMT with the developmental objection. Ward's
+    paper does not make it: the objection is the exchange's own (A3, A7).
+    IWMT does not require current coupling. Villalobos and Cea could not be
+    read (Unavailable), so their description is marked unchecked. The claim
+    is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -116,7 +126,7 @@ The claim has three parts.
 
 ## The objection it leaves open
 
-The enactive objection (A3; [LIT-tmpldiuy](../literature.d/LIT-tmpldiuy.md); Safron's IWMT, [LIT-tmp5k0u3](../literature.d/LIT-tmp5k0u3.md)): "the
+The developmental objection, as the exchange stated it (A3): "the
 independence of experience from current sensory grounding doesn't
 establish its independence from sensorimotor grounding in general". Every
 case the claim cites is a system that "acquired their interpretive
@@ -127,9 +137,10 @@ available evidence supports these to very different degrees." The claim
 asserts only the first. It is silent on the other three. A6 named the
 contrast that would sharpen the dispute: "current veridical sensory
 constraint" against "counterfactual sensorimotor organization". On the
-brain-bound side, Villalobos and Cea ([LIT-tmpfnhsh](../literature.d/LIT-tmpfnhsh.md)) argue that a disembodied
-brain's physiological implausibility does not defeat a contrastive,
-brain-centred explanation.
+brain-bound side, the exchange described Villalobos and Cea (LIT-tmpfnhsh)
+as arguing that a disembodied brain's physiological implausibility does
+not defeat a contrastive, brain-centred explanation. Their paper could not
+be reached, and that description is unchecked.
 
 ## What it does not say
 
@@ -142,3 +153,36 @@ brain-centred explanation.
 - It does not say that internal coherence is evidence of grounding. A7's
   epistemic thesis says the opposite: "Internal coherence alone is not
   evidence of external grounding."
+
+## Note of 2026-10-22: what the readings show about the objection
+
+The works the exchange cited for the open objection were read on
+2026-10-22. Two of them place it differently from the exchange.
+
+- **IWMT does not require current coupling** (NOTE-tmp9lg9m,
+  THEORY-tmpopaql). In Safron et al., imagination is the same world model
+  "decoupled from sense-data". What IWMT requires is a capacity for
+  action–perception coupling and a history of it, and it allows virtual
+  embodiment. So it agrees with this claim on current grounding and parts
+  from it only on development and capacity, the half the claim leaves
+  open.
+- **Ward's objection is organicist, not developmental** (NOTE-tmpl4pbc,
+  THEORY-tmpnwjjt). The paper never discusses brains in vats, development,
+  current input or grounding. Its enactivism holds that meaning, and so
+  experience, depends on belonging to a living, self-maintaining system.
+  That challenges the claim's split differently: it ties what makes an
+  organization experiential to what keeps it alive, not to what grounds
+  its contents. The claim's three senses of grounding do not answer it.
+  That is the question of whether experience requires life, which
+  TERM-tmpe36gg's self-maintaining subclass leaves open.
+- **Gładziejewski** (NOTE-tmp220h1) separates the grounding of a modelled
+  structure from the grounding of its realizer, and treats dreams as the
+  off-line exception in which constraint persists without current input.
+  That supports "ungrounded is not unconstrained".
+- **Laukkonen et al.** (NOTE-tmpjn4z8) describe lucid dreamless sleep as
+  awareness without current content. That is a case for the occurrence
+  half, though it rests on report.
+- **Villalobos and Cea and Putnam's "Brains in a vat"** are Unavailable
+  (LIT-tmpfnhsh, LIT-tmp0l6v1). The claim's use of each rests on the
+  exchange's description.
+
