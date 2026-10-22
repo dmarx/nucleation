@@ -24,6 +24,8 @@ summary: >-
   reconstruction that became a source of authenticity. Not shown: what
   was continuous and what was rebuilt, which is the question it raises.
 ---
+<!-- inactive-ok-file: LIT-tmp8mi9i — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-tmp6bxtr CLAIM-tmp8lheg CLAIM-tmpj73lm — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmpvnchr: Chinese martial traditions through the Cultural Revolution: practices restricted, teachers persecuted and teaching driven underground, then after 1978 a reconstruction of Shaolin martial arts through heritage policy and tourism in which local practitioners and authorized institutions dispute who carries the tradition
 

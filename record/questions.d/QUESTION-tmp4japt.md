@@ -15,6 +15,7 @@ summary: >-
   interruption. This asks how to tell them apart in a case, and what
   returns after one.
 ---
+<!-- inactive-ok-file: CLAIM-329 CLAIM-tmpj73lm — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # QUESTION-tmp4japt: When an organizational perspective stops being enacted, what distinguishes a temporary loss of activation, a loss of the conditions for enacting it, an interruption of its social reproduction, and irreversible loss or later reconstruction, and what survives when a practice survives but the arrangements that authorized, interpreted and reproduced it do not?
 

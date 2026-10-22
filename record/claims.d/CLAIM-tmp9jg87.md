@@ -33,6 +33,7 @@ summary: >-
   of practical significance is an agent. It leaves A38's other half, that
   every rich exercise of agency involves such an organization, as open.
 ---
+<!-- inactive-ok-file: CLAIM-275 CLAIM-tmp8lheg CLAIM-tmpqktfo TERM-063 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmp9jg87: Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; agency is exercised through perspectives, and its exercise can transform them
 

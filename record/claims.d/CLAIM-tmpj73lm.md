@@ -38,6 +38,7 @@ summary: >-
   says only that both separate a capacity's existence from the
   availability of the conditions for exercising it.
 ---
+<!-- inactive-ok-file: CLAIM-287 CLAIM-413 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-tmpj73lm: A perspective's continued existence is not its operational availability: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition
 

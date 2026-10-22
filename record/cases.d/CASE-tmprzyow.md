@@ -20,6 +20,8 @@ summary: >-
   shown: that the effect is robust, or that the record's account explains
   it better than event cognition already does.
 ---
+<!-- inactive-ok-file: LIT-tmphg1bq LIT-tmpl1ntz LIT-tmpl8f6c LIT-tmpm7ybd LIT-tmpw4lki — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: CLAIM-tmpj73lm — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-tmprzyow: The doorway effect: memory for objects just handled is worse after walking through a doorway into another room than after walking as far within one, returning to the first room does not restore it, and some replications find no effect
 
