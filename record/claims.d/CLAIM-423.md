@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmppkmq0
 title: 'In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after Pierson's 1997 precursor, Abbott's
+    precursor and Sewell were read: none states the claim, and Abbott
+    and Sewell are added to the accounts it must answer. Putnam was not
+    reached. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -37,7 +45,7 @@ summary: >-
   rests on [CLAIM-331](CLAIM-331.md), that higher-level variables are characteristically
   slower, and denies that slowness alone settles which level governs.
 ---
-<!-- inactive-ok-file: LIT-1372 LIT-1375 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: LIT-1375 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-027 CLAIM-327 CLAIM-331 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-423: In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it
@@ -126,3 +134,25 @@ apart from its perspective, for a state.
   need not make it legitimate", and future generations are bound by
   commitments they could not help authorize. "A present government is not
   simply the present psychological state of one immortal national person."
+
+## Note of 2026-10-22: the defeater, checked in part
+
+The claim falls if Pierson or Putnam already state it.
+
+- **Pierson does not, on the 1997 text** ([NOTE-tmp78852](../notes.d/NOTE-tmp78852.md); the 2000 article
+  was not reached). He treats time horizons as a cause of which paths are
+  taken and kept: "Because the decisions of voters, which determine
+  political success, are taken in the short-run, elected officials employ
+  a high discount rate" (p. 32). He does not ask which component of a
+  polity gains authority over another, and calls horizons open: "Yet we
+  know relatively little about the time horizons of different political
+  actors" (p. 32).
+- **Putnam** ([LIT-1375](../literature.d/LIT-1375.md)) was not reached, so his half is untested.
+- **Two further accounts to answer.** Abbott's precursor ([NOTE-tmpatdt4](../notes.d/NOTE-tmpatdt4.md))
+  makes tempo an explanatory variable in one case: the political arena's
+  urgency against medicine's settle-once horizon decided who the doctors'
+  allies were. Sewell ([LIT-1383](../literature.d/LIT-1383.md)) offers a rival to timescale: depth.
+  Deep political structures last because they are taken for granted, and
+  his "single constitution" under five party systems (p. 24) is the
+  claim's continuous state under changing organization, stated in 1992.
+  Neither links speed to authority, so neither defeats the claim.

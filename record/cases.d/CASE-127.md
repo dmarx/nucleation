@@ -3,8 +3,17 @@ number: 127
 status: Active
 formerly:
 - CASE-tmp2jk3n
-title: 'United 173 and Crew Resource Management: a crew that knew the fuel was running out and did not make the captain act, and the training that followed, which opened routes for challenge without abolishing the captain''s command'
-version: 1
+title: 'United 173 and Crew Resource Management: a crew whose concern about the fuel did not reach the captain as a demand to act, and the training that followed, which asked for participative captains and assertive crews'
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Title corrected and a note of 2026-10-22 added after the NTSB report
+    and Helmreich et al. were read (NOTE-tmpoojls, NOTE-tmpqb7w3). The
+    NTSB does not find that the crew knew the fuel was running out, and
+    Helmreich et al. do not say CRM kept the captain's command; the
+    idea's documented source is the NTSB's recommendation.
 standing: documented
 kind: specimen
 tags:
@@ -23,10 +32,9 @@ summary: >-
   changed the organization of authority, not its holder. Not shown: that
   CRM caused the later fall in accidents, which the case does not test.
 ---
-<!-- inactive-ok-file: LIT-1371 LIT-1386 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-349 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-127: United 173 and Crew Resource Management: a crew that knew the fuel was running out and did not make the captain act, and the training that followed, which opened routes for challenge without abolishing the captain's command
+# CASE-127: United 173 and Crew Resource Management: a crew whose concern about the fuel did not reach the captain as a demand to act, and the training that followed, which asked for participative captains and assertive crews
 
 ## The case
 
@@ -73,3 +81,30 @@ followed in 1976. Both papers and the report are registered unread; the
   reform's history, not its evaluation.
 - That a crew is an agent. It is an organization of authority whose
   holder was a person throughout.
+
+## Note of 2026-10-22: what the two sources say
+
+- **The NTSB's finding is narrower than "knew".** "While there is
+  evidence to indicate that the crew was aware of the amount of fuel
+  remaining at various times, there is no evidence that the onboard
+  quantity was monitored, in relation to time remaining during the final
+  30 min of flight" ([LIT-1371](../literature.d/LIT-1371.md), p. 25). And "apparently no one was
+  specifically delegated the responsibility of monitoring fuel state"
+  (p. 26). The title said the crew knew the fuel was running out; it is
+  corrected.
+- **"Without abolishing command" is not in Helmreich et al.** Neither the
+  phrase nor the idea is in [LIT-1386](../literature.d/LIT-1386.md), which mentions command once. The
+  documented source is the NTSB's recommendation X-79-17 ([LIT-1371](../literature.d/LIT-1371.md),
+  p. 30): crews "indoctrinated in principles of flightdeck resource
+  management, with particular emphasis on the merits of participative
+  management for captains and assertiveness training for other cockpit
+  crewmembers." The bullet "Authority without abolishing command" is
+  A25's, and should be read as the exchange's gloss on that
+  recommendation.
+- **What Helmreich et al. add.** Training did not make the capacity
+  permanent: "a slippage in acceptance of basic concepts, even with
+  recurrent training" (p. 5). That is [CLAIM-422](../claims.d/CLAIM-422.md)'s distinction between a
+  procedure and a maintained capacity, in the paper's own evidence.
+- **The procedure already existed.** United's manual already required
+  crew to advise the captain of departures from safe practice ([LIT-1371](../literature.d/LIT-1371.md),
+  §1.17.1). The accident was not for want of a rule.

@@ -32,8 +32,6 @@ summary: >-
   style until only the social difference remained.
 ---
 <!-- inactive-ok-file: CLAIM-416 CLAIM-417 CLAIM-402 THEORY-854 THEORY-667 — Proposed; claims and accounts this reading bears on, named, not leaned on -->
-<!-- inactive-ok-file: LIT-1377 — Deferred; named as the case's other source, not leaned on -->
-
 # NOTE-tmpvdjek: Penglase — The unspoken whiteness of Brazilian jiu-jitsu
 
 ## Contribution

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmpv2pte
 title: 'Challenger to Columbia: NASA corrected its launch decisions and its safety organization after 1986, and the Columbia board found in 2003 that related organizational failure mechanisms had recurred, while its lessons-learned system was little used in between'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after the Rogers report (skimmed: volume 1,
+    chapters V to VIII and the recommendations) and GAO-02-195 were read
+    (NOTE-tmpvc65r, NOTE-tmpua5cj). Two of the case's sourced details
+    are not in the cited works. The case is otherwise unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -26,7 +34,6 @@ summary: >-
   rules, and a capacity not maintained. Not shown: why the correction
   decayed, which [THEORY-140](../theory.d/THEORY-140.md) explains and this case only displays.
 ---
-<!-- inactive-ok-file: LIT-1378 LIT-1393 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-403 CLAIM-416 CLAIM-422 THEORY-140 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-715 — Unavailable; works sought and not reached, cited as unread -->
 
@@ -89,3 +96,29 @@ deviance, is [LIT-715](../literature.d/LIT-715.md) (Unavailable).
 - The exchange's details that were not checked. Its "2001 GAO review" and
   "January 2002 review" are taken to be one report, GAO-02-195. Its name
   for the 1986 office differs slightly from the office's name at the time.
+
+## Note of 2026-10-22: the two reports, read
+
+- **Where the launch decision is.** The teleconference and the decision to
+  launch are in the Rogers report's chapter V, "The Contributing Cause of
+  The Accident"; chapter VI is the history and chapter VII "The Silent
+  Safety Program", whose body says the safety staff "was never mentioned"
+  ([LIT-1393](../literature.d/LIT-1393.md), p. 152).
+- **The 1986 office and the 1987 reporting system are not in Rogers.** The
+  report only recommends "an Office of Safety, Reliability and Quality
+  Assurance to be headed by an Associate administrator, reporting
+  directly to the NASA Administrator" (p. 199). That NASA created it, and
+  the Safety Reporting System, need another source.
+- **GAO-02-195 is not about Challenger.** It was prompted by the 1999 Mars
+  failures and never discusses Challenger or the post-1986 reforms. What
+  it supports is narrower than "little used": NASA "monitors the system to
+  determine the number of times it is accessed ... but does not collect
+  information on the number of times lessons are applied to a program or
+  project" ([LIT-1378](../literature.d/LIT-1378.md), p. 21). The exchange's "2001 GAO review" is probably the
+  separate interim report GAO-01-1015R, which the 2002 report cites.
+- **The normalization of deviance, first hand.** [THEORY-140](../theory.d/THEORY-140.md), held from the
+  Columbia board, has its Challenger half in the Rogers report: NASA and
+  Thiokol "accepted escalating risk apparently because they 'got away with
+  it last time.'" (p. 148), with safety offices "under the supervision of
+  the very organizations and activities whose efforts they are to check"
+  (p. 161). The report could be added as a second source of [THEORY-140](../theory.d/THEORY-140.md).

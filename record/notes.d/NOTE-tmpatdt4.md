@@ -37,8 +37,6 @@ summary: >-
   article's universities, avatars and English case were not reached.
 ---
 <!-- inactive-ok-file: CLAIM-417 CLAIM-423 CLAIM-416 CLAIM-331 CASE-133 TERM-072 — Proposed; the claims, case and term this reading bears on, named, not leaned on -->
-<!-- inactive-ok-file: LIT-1383 LIT-1377 — filed in the same batch, named -->
-
 # NOTE-tmpatdt4: Abbott — Linked ecologies (through its French precursor)
 
 ## Contribution

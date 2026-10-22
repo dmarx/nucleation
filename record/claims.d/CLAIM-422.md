@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmplrpat
 title: 'A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after the safety reports were read: four
+    sources bear the claim out, and its attribution to GAO is narrowed.
+    The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -41,7 +48,6 @@ summary: >-
   ([THEORY-140](../theory.d/THEORY-140.md)). The edge: a recorded correction is evidence of a
   correction, not of its maintenance.
 ---
-<!-- inactive-ok-file: LIT-1378 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-025 THEORY-140 THEORY-145 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-422: A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained
@@ -104,3 +110,30 @@ capacity is for.
   question the claim does not answer for any case.
 - **Not that NASA failed to learn.** It learned and then lost part of what
   it learned. The Columbia board's reading is [THEORY-140](../theory.d/THEORY-140.md), Proposed.
+
+## Note of 2026-10-22: the case sources, read
+
+The four sources the claim's cases rest on are now read ([CASE-127](../cases.d/CASE-127.md),
+[CASE-135](../cases.d/CASE-135.md), [CASE-138](../cases.d/CASE-138.md)). Each shows a procedure without the capacity it was
+for.
+
+- **Brookhollow.** The mayday policy and the second-alarm procedure both
+  predated the fire, and neither was exercised as written ([CASE-135](../cases.d/CASE-135.md)'s
+  note).
+- **CRM.** Helmreich et al. report "a slippage in acceptance of basic
+  concepts, even with recurrent training" ([LIT-1386](../literature.d/LIT-1386.md), p. 5).
+- **Challenger.** A problem record could be marked closed with nothing
+  corrected behind it; asked why he requested closure, a Thiokol manager
+  answered "Because I was asked to do it." ([LIT-1393](../literature.d/LIT-1393.md), p. 143). A recorded
+  correction need not even be evidence of a correction.
+- **United 173.** The manual already required crew to advise the captain
+  ([LIT-1371](../literature.d/LIT-1371.md), §1.17.1).
+
+One attribution is too strong. The claim credits "NASA's own
+lessons-learned system, as GAO found it" with showing that a recorded
+correction is not a maintained capacity. GAO-02-195 is about the Mars
+failures, and what it found is that NASA counted how often lessons were
+accessed but "does not collect information on the number of times lessons
+are applied to a program or project" ([LIT-1378](../literature.d/LIT-1378.md), p. 21): a recorded lesson
+is not shown to be an applied one. That supports the claim's first
+separation, not its account of Challenger.

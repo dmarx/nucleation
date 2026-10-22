@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CASE-tmpo48af
 title: 'Northstar''s commander handoff: twelve hours into an incident the commander goes off shift and hands command to a colleague, and the response continues without disruption and with no one continuous through it'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after NIMS was skimmed: its
+    transfer-of-command procedure. The case is unchanged.
 standing: fictional
 kind: thought-experiment
 tags:
@@ -26,7 +32,7 @@ summary: >-
   organization from continuity of any person in it. Not shown: anything
   about whether the response is experienced.
 ---
-<!-- inactive-ok-file: LIT-1365 QUESTION-009 — Deferred; works registered unread, or entries set aside, cited as such -->
+<!-- inactive-ok-file: QUESTION-009 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-355 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-134: Northstar's commander handoff: twelve hours into an incident the commander goes off shift and hands command to a colleague, and the response continues without disruption and with no one continuous through it
@@ -73,3 +79,14 @@ small.
 - Anything about experience. The case shows only that no person is
   continuous; it neither locates nor rules out experience elsewhere
   ([QUESTION-009](../questions.d/QUESTION-009.md), Deferred).
+
+## Note of 2026-10-22: what NIMS asks of a handoff
+
+The stipulated handoff can be set against the documented doctrine:
+"When command transfers, the transfer process includes a briefing that
+captures essential information for continuing safe and effective
+operations, and notifying all personnel involved in the incident"
+([LIT-1365](../literature.d/LIT-1365.md), p. 22). The doctrine fixes what is transferred as information
+and notification; what the case adds is that a briefing transfers the
+record of an arrangement, not the capacity the outgoing commander had
+built.

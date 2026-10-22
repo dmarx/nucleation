@@ -28,8 +28,6 @@ summary: >-
   depth, more than power, makes a structure durable.
 ---
 <!-- inactive-ok-file: CLAIM-417 CLAIM-416 CLAIM-423 TERM-072 — Proposed; the claims and term this reading bears on, named, not leaned on -->
-<!-- inactive-ok-file: LIT-1377 LIT-1367 — filed in the same batch, named -->
-
 # NOTE-tmpfw64c: Sewell — A theory of structure
 
 ## Contribution

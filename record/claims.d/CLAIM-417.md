@@ -4,7 +4,14 @@ status: Proposed
 formerly:
 - CLAIM-tmp8lheg
 title: 'What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after Swidler, Wacquant, Sewell and Abbott
+    were read: two sources cited together disagree, and the defeater
+    about established accounts is live. The claim is unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -50,7 +57,6 @@ illustrated_by:
 - CASE-137
 - CASE-139
 ---
-<!-- inactive-ok-file: LIT-1367 LIT-1377 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-137 CLAIM-196 CLAIM-284 CLAIM-329 CLAIM-355 CLAIM-412 CLAIM-415 CLAIM-424 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CLAIM-417: What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself
@@ -180,3 +186,29 @@ out the choice.
   [CLAIM-196](CLAIM-196.md)'s segregated contexts. [TERM-072](../terms.d/TERM-072.md) says a perspective is "Not a
   global section", and [QUESTION-255](../questions.d/QUESTION-255.md) asks whether one can contain models
   that do not glue. The replies never mentioned gluing.
+
+## Note of 2026-10-22: the social theory, read
+
+- **Swidler and Wacquant disagree about sense 2.** The claim cites both
+  for "a perspective's dispositional repertoire". Swidler's repertoire is
+  not dispositional: culture does not work "via enduring psychological
+  proclivities implanted in individuals by their socialization" ([LIT-1367](../literature.d/LIT-1367.md),
+  p. 283). Wacquant's habitus is exactly such dispositions, "deposited
+  inside persons" ([LIT-1377](../literature.d/LIT-1377.md), p. 65). The claim should say which it means.
+  On Swidler, the organized thing is the strategy of action built from the
+  kit, not the kit.
+- **The defeater is live.** Habitus as Wacquant states it is already
+  layered and can be split, shared as a kind and unique as a token, and
+  distinct from the positions that call it out; Sewell's transposition of
+  schemas is a theory of how one structure changes into another. Neither
+  has the claim's lineage, its distinction between a lineage and a
+  character, or a perspective realized across several people; that is
+  what the claim must show it adds.
+- **Collective agency without collective agents.** Sewell holds that
+  collective agency is real without collectivities being agents in the
+  same sense as persons (p. 21), which is [CLAIM-418](CLAIM-418.md)'s point reached from
+  structure. And for him one person enacting several incompatible
+  structures is the normal case: persons hold "a wide range of different
+  and even incompatible schemas" (p. 17).
+- **Abbott.** Read only through a 2003 precursor ([NOTE-tmpatdt4](../notes.d/NOTE-tmpatdt4.md)): it is
+  about jurisdictions and alliances, not perspectives.

@@ -4,7 +4,15 @@ status: Active
 formerly:
 - CASE-tmp859e4
 title: 'Gracie jiu-jitsu against luta livre: two Brazilian grappling traditions whose contests were fought over the rules as well as under them, and whose matches placed them in a racial hierarchy as well as ranking them by results'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after Penglase was read in full
+    (NOTE-tmpvdjek). It corrects an earlier correction: the commercial
+    reading the case attributed to the exchange is in the paper's body,
+    though not its abstract. The standing is unchanged.
 standing: documented
 kind: specimen
 tags:
@@ -27,7 +35,6 @@ summary: >-
   general; and the historical particulars, which are the replies' summary
   of an unread source.
 ---
-<!-- inactive-ok-file: LIT-1377 LIT-1391 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-416 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
 # CASE-130: Gracie jiu-jitsu against luta livre: two Brazilian grappling traditions whose contests were fought over the rules as well as under them, and whose matches placed them in a racial hierarchy as well as ranking them by results
@@ -94,3 +101,28 @@ challenge at the Grajaú Country Club, won by the jiu-jitsu fighters; and a
   registered, and A35 itself held the material back "until we have examined
   whether the existing martial arts studies literature already explains
   the proposed mechanisms better than our framework does".
+
+## Note of 2026-10-22: Penglase, read
+
+- **The earlier correction was itself partly wrong.** The case says A35's
+  reading, that the traditions' social positions "significantly affected
+  their relative commercial and cultural fortunes", is the exchange's.
+  That holds for the abstract only. The body says it: "jiu-jitsu ended up
+  becoming far more economically profitable than luta livre" ([LIT-1391](../literature.d/LIT-1391.md),
+  p. 81), and "Luta livre, which never had such a strong financial
+  foundation, largely went underground" (p. 89). Penglase sets this beside
+  the 1991 defeat and press bias and does not weigh them; the exchange's
+  addition is "significantly".
+- **The contest over rules is documented.** "the Gracies often insisted
+  on rules that would benefit them and their fighting style" (p. 86); the
+  1931 rules were negotiated and "Ultimately, the referee gave the
+  decision to Rufino" (p. 87); in 1991 "The jiu-jitsu men won all three
+  fights" (p. 89).
+- **A36's "more antagonistic" is half supported.** "the main technical
+  contrast between the two arts collapsed" (p. 90), and the social
+  difference remained; but the rivalry as such ended after 1997: "the
+  issue was no longer whether luta livre or jiu-jitsu was superior, but
+  whether one fighter was better than another" (p. 89).
+- **Habitus.** Wacquant's essay ([LIT-1377](../literature.d/LIT-1377.md), read) supports the general
+  point that trained practitioners see differently, but uses no
+  martial-arts material and not the word affordance.

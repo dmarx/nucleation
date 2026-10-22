@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmpj73lm
 title: 'The cessation of an organizational perspective''s enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added after the doorway papers were read: the
+    illustration fits interference better than activation interruption,
+    and returning to the room did not reinstate access. The claim and
+    its defeater are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -123,3 +131,27 @@ perspective can be exercised at all.
   least intuition", and the claim keeps that standing.
 - **Not that the effect is robust.** It has failed to replicate under
   some conditions ([CASE-136](../cases.d/CASE-136.md)).
+
+## Note of 2026-10-22: the doorway illustration after reading
+
+The doorway papers are now read ([CASE-136](../cases.d/CASE-136.md)'s note). Two things bear on
+this claim's use of them.
+
+- **The illustration fits interference better.** The claim reads the
+  doorway as activation interruption, a disposition held but not engaged.
+  The original laboratory argues instead for competition between two
+  event models at retrieval ([LIT-1385](../literature.d/LIT-1385.md), p. 2125), and the cost falls on
+  the object carried across, not on what was left behind. That is nearer
+  to two organizations both active and interfering than to one gone
+  quiet. The defeater already lets the illustration fall without the
+  distinction; this note records that the illustration is weaker than the
+  claim's text implies.
+- **Reinstatement by return failed.** Going back into the first room, the
+  obvious cue for reinstating access, did nothing ([LIT-1384](../literature.d/LIT-1384.md), Experiment
+  3). For [TERM-071](../terms.d/TERM-071.md)'s reinstatable persistence and [CLAIM-287](CLAIM-287.md), that is a
+  reminder that a capacity being held does not make the obvious route
+  back to it work.
+- **Intentions are an extension.** Event segmentation theory ([LIT-1382](../literature.d/LIT-1382.md)) is
+  about perceiving others' activity, and its authors list one's own goals
+  as future work. An intention lost at a boundary is the exchange's
+  extension of the theory, not something it states.

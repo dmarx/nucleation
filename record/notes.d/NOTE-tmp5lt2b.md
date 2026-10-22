@@ -29,8 +29,6 @@ summary: >-
   a finding; its empirical warrant is cited.
 ---
 <!-- inactive-ok-file: CLAIM-417 CLAIM-416 TERM-072 — Proposed; the claims and term this reading bears on, named, not leaned on -->
-<!-- inactive-ok-file: LIT-1383 LIT-1367 — filed in the same batch, named -->
-
 # NOTE-tmp5lt2b: Wacquant — A concise genealogy and anatomy of habitus
 
 ## Contribution
