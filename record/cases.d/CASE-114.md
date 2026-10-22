@@ -4,7 +4,14 @@ status: Active
 formerly:
 - CASE-tmps7vk0
 title: 'The imagined owner'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-21'
+  note: >-
+    Note of 2026-10-21 added, from the exchange on experience and
+    interpretation: its converse arm (integration varied, self-model held)
+    and a proposed third factor, grounding. The case is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -23,7 +30,7 @@ summary: >-
   illusory authorship, located in the attribution. Proposed, not run, and
   it tests attribution of control, not phenomenal properties.
 ---
-<!-- inactive-ok-file: CLAIM-355 CLAIM-288 THEORY-646 QUESTION-061 — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
+<!-- inactive-ok-file: CLAIM-355 CLAIM-288 THEORY-646 QUESTION-061 CLAIM-tmpjw8ev — Proposed or Deferred; the claim this design would test and the objections to it, cited as open -->
 
 # CASE-114: The imagined owner
 
@@ -87,3 +94,31 @@ drifts.
   demonstrated illusionism about phenomenal properties."
 - What access each component has to the integrated state. That is A27's
   Experiment B, binding by restricted access, noted on [QUESTION-061](../questions.d/QUESTION-061.md).
+
+## Note of 2026-10-21: the converse arm, and a third factor
+
+The exchange of 2026-10-21 on experience and interpretation came to this
+case twice. A7 §17, Study B, kept the design and added its converse:
+"Conversely, alter actual integration while keeping self-descriptions
+similar." Together they make a two-by-two of integration (strong, weak)
+against self-attribution (accurate, misleading). The new cell is weak
+integration presented as unified, "Fragmented organization presented as
+unified". That is the case [CLAIM-355](../claims.d/CLAIM-355.md)'s A27 §7 had in mind, where
+"apparent unity in the organization's reports may exceed the degree of
+information sharing actually present". The converse arm has the same
+threat as the original, in mirror image. If the self-model feeds back
+into governance, a fixed self-description does not leave integration
+where it was set.
+
+A5 proposed grounding, the degree of independent constraint on the
+signals and their scoring ([CLAIM-tmpjw8ev](../claims.d/CLAIM-tmpjw8ev.md)), as a third factor. Its
+purpose is to find out whether "grounding affect[s] the accuracy of
+interpretations without changing the coherence of the perspective". A6
+suggested running the design on a language model, intervening "on
+internal self-attributions and workspace representations independently".
+
+Both replies kept the case's limit. A7: "It would not demonstrate which
+conditions are conscious." A5: complete answers on integration,
+self-attribution and grounding "would not, by themselves, establish
+phenomenal consciousness unless we accept an additional constitutive
+premise". The design itself is unchanged.

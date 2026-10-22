@@ -1,0 +1,93 @@
+---
+status: Active
+status_note: 'read in full 2026-10-22 ([NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md)) from the bioRxiv preprint, version 3; worth reading as the largest EEG study of Transcendental Meditation with time-resolved reports: 33 practitioners traced more, and more variable, "pure awareness" than 33 matched controls who counted, and a classifier on distributed EEG patterns separated meditation from counting (65% balanced accuracy, on entropy and aperiodic activity) and from rest (88% sensitivity, on low-frequency phase coherence). Its main limit is that the reports were not shown to track any EEG feature. The reports are retrospective ratings on a scale whose top the experimenters defined as "free from content", demand is conceded only for controls, and the study was funded by, and recruited through, the TM organisation. Evidence about a practice period and about reports, not a neural signature of experience with little content.'
+title: 'Distilling the Neurophenomenological Signatures of Pure Awareness during Transcendental Meditation'
+version: 2
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-21:
+    Journal of Cognitive Neuroscience 38(10): 2028–2045. Crossref's online
+    and print date is 1 October 2026. `published:` is the bioRxiv preprint's
+    v1 date, 29 September 2025 (doi:10.1101/2025.09.25.678494, same title up
+    to capitalization), the earlier date under ADR-002.
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Read in full (NOTE-tmpdfg0e) from the bioRxiv preprint, version 3
+    (posted 2 April 2026, 19 pp., CC BY-NC-ND 4.0). The bioRxiv API lists
+    three versions (29 September 2025, 1 December 2025, 2 April 2026); only
+    v3 was read. Unpaywall and OpenAlex give no open copy of the version
+    of record, and the MIT Press PDF Crossref lists returned 403, so the
+    journal text was not read and may differ. The summary is corrected
+    from the reading. Filed as the source of THEORY-tmp9y4pc. Not checked
+    against the Anthology of the SOTA (ADR-048).
+tags:
+- consciousness
+- neuroscience
+- phenomenology
+date: '2026-10-21'
+published: '2025-09-29'
+doi: '10.1162/JOCN.a.2626'
+first_author: 'Chandia-Jorquera'
+keywords:
+- 'pure awareness'
+- 'minimal phenomenal experience'
+- 'transcendental meditation'
+- 'EEG'
+- 'neurophenomenology'
+- 'temporal experience tracing'
+implementations: []
+summary: >-
+  Chandia-Jorquera, van Mil, Estarellas, Dauphin, Pascovich & Canales-Johnson (2026). EEG with retrospective temporal experience tracing in 33 experienced Transcendental Meditation practitioners and 33 sex- and age-matched controls who counted. Practitioners traced higher and more variable "pure awareness" (d = 0.77 and 1.32). A random-forest classifier on distributed EEG patterns separated meditation from counting at 65% balanced accuracy, led by permutation entropy and aperiodic activity, and meditation from rest at 88% sensitivity, led by low-frequency phase coherence. No robust association between the reports and the EEG was found.
+---
+<!-- inactive-ok-file: CLAIM-tmpdga80 CLAIM-tmp1lvwf — Proposed; claims and readings cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp9y4pc — Proposed; filed from this reading, named -->
+
+# LIT-tmphw2n7: Distilling the Neurophenomenological Signatures of Pure Awareness during Transcendental Meditation
+
+Chandia-Jorquera, A., van Mil, S. D., Estarellas, M., Dauphin, M., Pascovich, C. & Canales-Johnson, A. (2026). Distilling the Neurophenomenological Signatures of Pure Awareness during Transcendental Meditation. *Journal of Cognitive Neuroscience* 38(10): 2028–2045. doi:10.1162/JOCN.a.2626.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md).*
+
+- **The reports.** After a 30-minute session, participants drew how far
+  they had experienced "pure awareness", on a scale whose top was defined
+  for them as "an experience free from content defining everyday working
+  experiences" (p. 3). Practitioners' peaks were higher (0.70 against 0.52)
+  and their traces more variable (p. 6). Practice years did not predict
+  either.
+- **The EEG.** Meditation was separated from counting at 65% balanced
+  accuracy, chiefly by permutation entropy and aperiodic activity, and from
+  the practitioners' own rest with 88% sensitivity, chiefly by
+  low-frequency phase-lag connectivity (pp. 8–9). The authors call this a
+  "double dissociation". Alpha coherence, the older TM hallmark, ranked
+  low.
+- **No carry-over.** Practitioners' rest before and after meditation could
+  not be told apart; controls' rest before and after counting could
+  (pp. 9–10).
+- **The missing link.** "we did not identify robust direct associations
+  between the PA measures and the EEG features" (p. 14).
+- **Limits the paper grants or shows.** Demand effects are conceded for
+  controls (p. 13); group, task and state are confounded; the peak-report
+  t = 3.10 is printed with p < 0.001, which it does not reach (p ≈ 0.003).
+
+## Why this is here
+
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this study of awareness with minimal content as a test: if experience persists with little conceptual content, constitutive interpretation cannot be identified with rich conceptual content. Bears on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) and, from the other side, on [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md): there the worry is interpretation without experience, here experience with little interpretation.
+
+The reading qualifies the exchange's description. The study does not
+observe experience with little conceptual content. It records
+retrospective ratings on a scale the experimenters defined as running from
+"No content" to "Full of content", and it found no link between those
+ratings and the EEG. Its own definition of pure awareness keeps
+wakefulness and alert presence, and Woods, Windt & Carter ([LIT-tmpg6f7h](LIT-tmpg6f7h.md))
+find TM's teachers describing the state as keeping calm, bliss and
+knowing. So the study is consistent with the point the exchange drew, that
+constitutive interpretation is not rich conceptualization, but it does not
+test it; see [NOTE-tmpdfg0e](../notes.d/NOTE-tmpdfg0e.md), Bearing on the record.
+
+Filed from this work on 2026-10-22: [THEORY-tmp9y4pc](../theory.d/THEORY-tmp9y4pc.md), on what the study
+shows about reports and EEG, and what it does not.

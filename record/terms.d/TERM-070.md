@@ -26,6 +26,8 @@ summary: >-
   must explicitly distinguish the proved structural constraints from the
   still-Proposed claim that the definition demarcates organisms." Sense 6
   of [TERM-068](TERM-068.md). Adopted by the owner on 2026-10-21.
+used_by:
+- CLAIM-tmpn2xr4
 ---
 <!-- inactive-ok-file: THEORY-072 THEORY-071 — Proposed; the demarcation and the agency reading that use this sense, cited as open -->
 

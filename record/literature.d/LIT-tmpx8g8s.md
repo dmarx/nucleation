@@ -1,0 +1,110 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-22 ([NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md)) from the live entry, substantive revision of 9 January 2026; worth reading as the map of higher-order theories, which explain what makes a mental state conscious rather than unconscious by a higher-order representation of it: inner sense, actualist and dispositionalist higher-order thought, self-representational and hybrid views, the standing objections (targetless states, the rock, animals and infants, sufficiency) and the prefrontal evidence. Read it knowing that it argues for no verdict, that it is maintained by Gennaro, a higher-order theorist, while Carruthers and Lycan are reported to have given up their versions, and that its empirical section reports results to about 2023 and not the 2025 adversarial-collaboration findings.
+title: 'Higher-Order Theories of Consciousness (Stanford Encyclopedia of Philosophy)'
+version: 2
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Filed, not read. Entry checked at plato.stanford.edu on 2026-10-21: by
+    Peter Carruthers and Rocco Gennaro, first published 3 April 2001,
+    substantive revision 9 January 2026. `published:` is the first
+    publication date, as for the record's other SEP entry (LIT-244). The
+    exchange named the entry without a link, as "substantively updated in
+    January 2026"; the record identified it from that date.
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Read in full (NOTE-tmpo7pcy) from the live entry at plato.stanford.edu,
+    "First published Tue Apr 3, 2001; substantive revision Fri Jan 9,
+    2026", copyright 2026 by Peter Carruthers and Rocco Gennaro, text
+    extracted from the HTML, with the long description of its one figure;
+    the bibliography was skimmed. The acknowledgments say Gennaro has
+    maintained the entry since the 2020 update. The status moved from
+    Deferred to Active, the summary is restated from the reading, the
+    unread paragraph is replaced by Key takeaways, and Why this is here
+    gains what the reading adds. No THEORY was filed: the entry argues for
+    no thesis of its own. Tags gain neuroscience and cognition.
+tags:
+- consciousness
+- neuroscience
+- cognition
+date: '2026-10-21'
+published: '2001-04-03'
+url: 'https://plato.stanford.edu/entries/consciousness-higher/'
+first_author: 'Carruthers'
+keywords:
+- 'higher-order theories'
+- 'higher-order thought'
+- 'higher-order perception'
+- 'phenomenal consciousness'
+- 'self-representational theories'
+- 'prefrontal cortex'
+- 'transitivity principle'
+- 'dual content'
+- 'targetless higher-order thought'
+implementations: []
+summary: >-
+  Carruthers & Gennaro (2001; rev. 2026), SEP. Most kinds of mental state also occur unconsciously (blindsight, absent-minded driving, the agnosic D.F.), and higher-order theories say a state is phenomenally conscious when it is, or is disposed to be, the object of a suitable non-inferential higher-order representation. The entry sets out inner sense, actualist higher-order thought (Rosenthal), dispositionalist dual-content theory (Carruthers) and self-representational and hybrid views (Kriegel, Gennaro, Van Gulick, Picciuto). It gives the objections (targetless representations, the rock, animals and infants, sufficiency, depersonalization) and the evidence and counter-evidence that prefrontal cortex realizes the higher-order states, and concludes no verdict.
+---
+<!-- inactive-ok-file: CLAIM-tmp1lvwf CLAIM-tmpdga80 THEORY-098 THEORY-tmptw1fe — Proposed; claims and readings cited as open, nothing here rests on them -->
+
+# LIT-tmpx8g8s: Higher-Order Theories of Consciousness (Stanford Encyclopedia of Philosophy)
+
+Peter Carruthers, Rocco Gennaro (2001; substantive revision 2026), "Higher-Order Theories of Consciousness", *Stanford Encyclopedia of Philosophy (ed. Edward N. Zalta)* — <https://plato.stanford.edu/entries/consciousness-higher/>
+
+## Key takeaways
+
+*From the reading, [NOTE-tmpo7pcy](../notes.d/NOTE-tmpo7pcy.md). The SEP has no page numbers; citations
+are by section.*
+
+- **The question they answer.** "What is it that makes an otherwise
+  unconscious mental state a conscious state?" (introduction). The shared
+  answer, the Transitivity Principle: "A conscious mental state is a state
+  whose subject is, in some way, aware of being in it" (§2).
+- **The motivating cases.** Blindsight, the absent-minded driver and D.F.,
+  whose grasping is near normal while she cannot report orientation (§2).
+  First-order theorists can deny the data, draw the line by availability,
+  or "bite the bullet" and call blindsight percepts phenomenally conscious.
+- **Four versions.** Inner sense (Armstrong, Lycan). Actualist
+  higher-order thought (Rosenthal), on which "unconscious
+  self-interpretation is acceptable as a source of the conscious status of
+  the states thereby attributed" (§4). Dispositionalist dual content
+  (Carruthers), on which availability to a theory-of-mind consumer gives
+  each percept a second, "seeming" content (§5). Self-representational and
+  hybrid views (§6).
+- **Two of its sources have left.** "Lycan no longer holds HOP theory"
+  (§3), and "Carruthers no longer holds dispositional HOT theory or, for
+  that matter, any form of higher-order theory" (§5).
+- **The objections stand open.** Targetless higher-order states, the rock,
+  animals and infants, and sufficiency, where "the battle for phenomenal
+  consciousness may ultimately be won or lost" (§7.4).
+- **The prefrontal evidence is contested.** Prefrontal activity tracks
+  conscious against unconscious conditions with performance matched, and
+  TMS there affects "meta-visual awareness"; localists answer with lesion
+  and film-watching evidence and the report confound (§8).
+
+## Why this is here
+
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange offered higher-order representation as one candidate answer to why some interpretations are experienced and others are not. That is the gap the counter-claim says the thesis leaves open. Bears on [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md) and [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md).
+
+**What the reading adds.** The exchange described the entry correctly.
+Its motivating cases are [CLAIM-tmp1lvwf](../claims.d/CLAIM-tmp1lvwf.md)'s, and the higher-order thesis is
+the most developed answer to that claim. The entry also reports the
+answer's standing troubles: animals, sufficiency, and evidence tied to
+report. Three of its versions bear on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md) directly:
+
+- **Rosenthal's unconscious self-interpretation** confers consciousness,
+  but as a higher-order judgement.
+- **Carruthers's dual content** is constituted by how consumer systems
+  "interpret" a state.
+- **Kriegel's requirement** of "a psychologically real process (as opposed
+  to a theorist's definition)" matches the claim's realized organization.
+
+The family as a whole contests [QUESTION-tmpc4j7p](../questions.d/QUESTION-tmpc4j7p.md)'s separation of
+constituting a perspective from representing one. Its prefrontal section
+restates the dispute [THEORY-098](../theory.d/THEORY-098.md) takes a side on. It is the account of
+awareness that the companion entry, Lycan's ([LIT-tmpi7qws](LIT-tmpi7qws.md)), defers to,
+and that [THEORY-tmptw1fe](../theory.d/THEORY-tmptw1fe.md) leaves open.

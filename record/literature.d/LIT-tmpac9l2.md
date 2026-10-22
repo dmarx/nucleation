@@ -1,0 +1,86 @@
+---
+status: Active
+status_note: 'read in full 2026-10-22 ([NOTE-tmp0qd7y](../notes.d/NOTE-tmp0qd7y.md)) from the publisher''s open-access PDF (Springer, CC BY 4.0); worth reading as the objection to similarity structuralism that does not rest on intuition: it takes accepted facts of colour science, that exactly four hues look unmixed and every other hue a mixture of two, and that the black–white axis is a single gradient where the axes through grey are opponent pairs, and argues that no adequate feature of the colour similarity space''s geometry marks either. Its decisive premise is argued by inspecting CIELAB and extrapolating to better models, not by an analysis, and its target is similarity structuralism about colour only.'
+title: 'Two geometrical arguments against similarity structuralism'
+version: 2
+history:
+- version: 1
+  date: '2026-10-21'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-21:
+    Synthese 207(5): 204. `published:` is Crossref's online date, 4 May
+    2026. No preprint was found.
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Read in full (NOTE-tmp0qd7y) from the publisher's open-access PDF
+    (link.springer.com, CC BY 4.0, 22 pp.), fetched after following
+    Springer's cookie redirect. The PDF confirms the citation: Synthese
+    207:204, received 25 August 2025, accepted 30 March 2026, sole author
+    Davide Aldé (Monash University). Status Active; the summary is
+    rewritten from the reading. Filed as the source of THEORY-tmp4u3l2.
+    Not checked against the Anthology of the SOTA (ADR-048).
+tags:
+- consciousness
+- metaphysics
+date: '2026-10-21'
+published: '2026-05-04'
+doi: '10.1007/s11229-026-05562-5'
+first_author: 'Aldé'
+keywords:
+- 'structuralism'
+- 'similarity relations'
+- 'colour experience'
+- 'unique hues'
+- 'phenomenal character'
+- 'quality spaces'
+implementations: []
+summary: >-
+  Aldé (2026), Synthese 207:204. Similarity structuralism holds that
+  phenomenal character is fully determined by similarity relations, so by
+  the geometry of a similarity space. Two arguments that this fails for
+  colour. The unique hues objection: exactly four hues are experienced as
+  unmixed and all others as combinations of two, but no geometric
+  property of CIELAB, or likely of better uniform spaces or of the colours
+  they omit, distinguishes them. The opposing dimensions objection: the
+  black–white axis is a single gradient, while axes through grey are two
+  half-gradients, and no adequate geometric feature marks the difference.
+  Structuralism cannot discount the introspective evidence without
+  discounting the introspected similarity it is built on.
+---
+<!-- inactive-ok-file: CLAIM-tmpdga80 — Proposed; claims and readings cited as open, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-tmp4u3l2 — Proposed; filed from this reading, named -->
+
+# LIT-tmpac9l2: Two geometrical arguments against similarity structuralism
+
+Aldé, D. (2026). Two geometrical arguments against similarity structuralism. *Synthese* 207(5): 204. doi:10.1007/s11229-026-05562-5.
+
+## Key takeaways
+
+*From the reading, [NOTE-tmp0qd7y](../notes.d/NOTE-tmp0qd7y.md).*
+
+- **The target.** "The phenomenal character of a mental quality is fully
+  determined by its similarity relations with the other phenomenal
+  characters in the similarity space" (p. 4). Rosenthal's discrimination
+  spaces and structuralisms using other relations are set aside.
+- **What structuralism implies.** Similarity spaces "must be asymmetric",
+  since two symmetric points "should feel the same, hence they should be
+  the same point" (p. 5).
+- **Unique hues.** Exactly four hues are experienced as unmixed, and no
+  geometric property of the colour solid singles them out (§4.1).
+- **Opposing dimensions.** "only the black-white axis is so peculiar in
+  its phenomenology, and it is not equally peculiar in its geometrical
+  uniqueness" (p. 15). This argument does not need the unique hues.
+- **Introspection.** Structuralism is built on introspected similarity, so
+  it cannot dismiss introspected composition without specific reasons
+  (§5).
+- **The suggested alternative** is to ask how far opponent-process models
+  "might inform a metaphysics of mental qualities" (p. 18).
+
+## Why this is here
+
+The owner's exchange of 2026-10-21, "Experience and interpretation", asked whether experience is constituted by interpretation or produced by it. The exchange cited this paper as an objection to similarity structuralism: similarity relations do not fix phenomenal character. It is an objection to that view, not to every structural view, and the exchange took it to limit how far the thesis can rest on similarity alone. Bears on [CLAIM-tmpdga80](../claims.d/CLAIM-tmpdga80.md).
+
+The reading bears this description out, with one narrowing: the argument is made for colour experience only, and the paper is silent on other modalities. It also sets a test the claim has not met. Whatever organization fixes colour character must yield the unique hues and the opponent structure, which a similarity space, on Aldé's argument, does not.
+
+Filed from this work on 2026-10-22: [THEORY-tmp4u3l2](../theory.d/THEORY-tmp4u3l2.md), on why the geometry of colour similarity cannot account for the composition of colour experience.
