@@ -53,6 +53,7 @@ objected_by:
 - CLAIM-089
 illustrated_by:
 - CASE-023
+- CASE-tmpqq6jz
 summary: >-
   The paper's central thesis. Proposed, not Active: the audit called it
   the strongest original contribution and also the one still owing a

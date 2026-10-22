@@ -4,7 +4,15 @@ status: Proposed
 formerly:
 - CLAIM-tmptg7io
 title: 'Low supervisory cost cannot show non-domination: processes conditioned never to object also coordinate without override, so whether an organization dominates its processes must be read from what happens when a constituent dissents, and from its history'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-22'
+  note: >-
+    Note of 2026-10-22 added, from U18 of the exchange "Graph Learning
+    Applications": the cases the owner asked for on quiet subordinates.
+    Most restate this claim's tests; two are filed as CASE-tmp3bisu and
+    CASE-tmp361g3. The claim is unchanged.
 role: counter
 warrant: interpretive
 defeated_if: >-
@@ -34,6 +42,8 @@ summary: >-
   It does not say the criterion fails, only that cost cannot certify it.
   The authenticity line was set aside on 2026-10-05; whether it reopens
   is the owner's call.
+illustrated_by:
+- CASE-tmp3bisu
 ---
 <!-- inactive-ok-file: THEORY-040 THEORY-142 QUESTION-071 CLAIM-162 CLAIM-362 CLAIM-358 — Proposed; the objection's grounds and the claims it bears on, open -->
 <!-- inactive-ok-file: CLAIM-016 — Deferred; the set-aside claim whose manipulation defeater this repeats -->
@@ -107,3 +117,30 @@ a member socialized too fast.
 - **That history settles it.** [THEORY-040](../theory.d/THEORY-040.md) notes that no historical
   condition in the record is shown to escape its own objection, and
   [CLAIM-016](CLAIM-016.md)'s manipulation defeater is still outstanding.
+
+## Note of 2026-10-22: cases for the quiet subordinate
+
+At U18 of the exchange "Graph Learning Applications" the owner quoted A17,
+"What if the subordinate processes are quiet because they've been
+conditioned never to object?", and asked for cases. A18 wrote six. Four
+restate this claim's tests or what follows from them: agreement after
+deliberation against learned silence (A), the satisfied against the
+conditioned subordinate (D), the specialist who participates rarely but
+meaningfully (E: "a constituent's meaningful participation need not
+involve frequent participation"), and perfect imitation (F, which is
+[QUESTION-071](../questions.d/QUESTION-071.md)). Their shared form, alike in ordinary operation and parting
+under an intervention, is [CLAIM-414](CLAIM-414.md)'s. They are not filed.
+
+Two are, because they add to the claim:
+
+- **The alarm that learned and the alarm that was disabled**
+  ([CASE-tmp3bisu](../cases.d/CASE-tmp3bisu.md)): a quiet signal may be calibration or suppression, and
+  only "response to changed evidence" tells them apart.
+- **The voluntary delegation** ([CASE-tmp361g3](../cases.d/CASE-tmp361g3.md)): a restriction on a
+  constituent the person authorized, and can reconsider under stated
+  conditions, is self-governance and not domination. So whether a
+  constituent is dominated cannot be read from whether it is overridden.
+
+A18's summary of the mistake all six guard against: "The common mistake
+is to infer something about the **distribution of practical authority**
+from the **absence of overt struggle**."

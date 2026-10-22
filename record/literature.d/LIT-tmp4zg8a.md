@@ -1,0 +1,43 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-22, not read. Registered from the owner's exchange of 2026-10-22, "Graph Learning Applications". No NOTE is filed.
+title: 'Prominent and persistent loss of past awareness in amnesia: Delusion, impaired consciousness or coping strategy?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-22.
+    Crossref gives the issue month only (November 2008), so `published:`
+    is its first day.
+tags:
+- neuroscience
+- consciousness
+- self
+date: '2026-10-22'
+published: '2008-11-01'
+doi: '10.1080/09602010802141889'
+first_author: 'Wilson'
+keywords:
+- 'Clive Wearing'
+- 'amnesia'
+- 'awareness'
+- 'diary'
+- 'confabulation'
+- 'self-report'
+implementations: []
+summary: >-
+  Wilson, Kopelman and Kapur (2008). On Clive Wearing's repeated claims, in his diary and in speech, that he has just become conscious for the first time, and his denial of earlier awareness when shown evidence of it; the paper weighs whether this is delusion, impaired consciousness or a coping strategy.
+---
+
+# LIT-tmp4zg8a: Prominent and persistent loss of past awareness in amnesia: Delusion, impaired consciousness or coping strategy?
+
+Wilson, B. A., Kopelman, M., & Kapur, N. (2008). Prominent and persistent loss of past awareness in amnesia: Delusion, impaired consciousness or coping strategy? *Neuropsychological Rehabilitation*, 18(5–6), 527–540. doi:10.1080/09602010802141889.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+A26 cited it for Wearing's diary entries and his response to evidence of his own earlier activity, and drew from it that "Wearing's inability to remember being conscious is not evidence that he wasn't conscious." The case is [CASE-tmpsp3d4](../cases.d/CASE-tmpsp3d4.md).

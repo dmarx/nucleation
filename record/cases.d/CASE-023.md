@@ -18,6 +18,7 @@ variants:
 - CASE-002
 - CASE-003
 - CASE-036
+- CASE-tmpo48af
 summary: >-
   A fictional software company whose stated policy gives reliability
   priority over release speed, and whose escalation and authority

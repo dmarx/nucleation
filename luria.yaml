@@ -560,6 +560,42 @@ vocabularies:
           authority to one another by endorsement, with trust, specialization and higher-level agency emerging rather
           than imposed; r/place as the observable case, and a constitutive question kept apart from the explanatory
           one'
+      organization-of-perspective:
+        label: 'The Organization of Perspective'
+        blurb: 'the owner''s manuscript, drafted 2026-10-22 from the exchange "Graph Learning Applications" (A34),
+          superseding a plan of four 6,000-word essays: Character, Practical Authority, and Historical Persistence
+          Across Minds and Institutions. An organizational perspective as a historically realized pattern through
+          which information becomes salient, interpretable, evaluable and consequential for action, kept apart from
+          its carriers, its lineage, the agents it serves and phenomenal subjectivity; Clive Wearing, Challenger and
+          aviation safety, party realignment and commitments across political succession as its cases'
+      self-without-a-sovereign:
+        label: 'The Self Without a Sovereign'
+        blurb: 'the owner''s essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning
+          Applications" (A33), later folded into organization-of-perspective: distributed agency, organizational
+          perspectives and the fiction of a single owner. Many functions credited to a unified self are better
+          explained by historically organized, partly overlapping perspectives that can represent themselves as one
+          owner without that owner being a further executive entity; Clive Wearing as the opening case'
+      who-gets-to-say-stop:
+        label: 'Who Gets to Say Stop?'
+        blurb: 'the owner''s essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning
+          Applications" (A33), later folded into organization-of-perspective: Challenger, Crew Resource Management and
+          the organization of practical authority. An organization''s operative perspective is partly constituted by
+          the maintained relations through which evidence becomes credible, objections consequential and decisions
+          revisable, so it can hold accurate information and be unable to act on it'
+      character-that-changed-parties:
+        label: 'The Character That Changed Parties'
+        blurb: 'the owner''s essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning
+          Applications" (A33), later folded into organization-of-perspective: political realignment and the
+          persistence of perspectives across institutions. The continuity of a political organization, the persistence
+          of a perspective and the descent of a tradition are distinct, and a perspective can move between carriers
+          without an immutable essence or one continuing collective agent'
+      who-makes-the-promise:
+        label: 'Who Makes the Promise When Governments Change?'
+        blurb: 'the owner''s essay, proposed 2026-10-22 as one of four 6,000-word essays from the exchange "Graph Learning
+          Applications" (A33), later folded into organization-of-perspective: the state as a changing ecology of
+          political authority. Legal continuity makes an international commitment the state''s, but its durability
+          depends on processes on different timescales that reproduce, contest and transform the authority through
+          which it is enacted; the Paris Agreement as the case'
 issue_url: https://github.com/dmarx/nucleation/issues/{n}
 paths:
   docs: docs

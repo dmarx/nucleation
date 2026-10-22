@@ -38,6 +38,8 @@ supports:
 - CLAIM-349
 - CLAIM-354
 - CLAIM-359
+- CLAIM-tmplrpat
+- CLAIM-tmpqktfo
 illustrated_by:
 - CASE-036
 - CASE-075

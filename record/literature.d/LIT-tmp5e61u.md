@@ -1,0 +1,44 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-22, not read. Registered from the owner's exchange of 2026-10-22, "Graph Learning Applications". No NOTE is filed.
+title: 'Dense amnesia in a professional musician following herpes simplex virus encephalitis'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-22.
+    Crossref gives the issue month only (October 1995), so `published:`
+    is its first day; the online date of 4 January 2008 is a later
+    deposit of the back issue.
+tags:
+- neuroscience
+- self
+- narrative-unity
+date: '2026-10-22'
+published: '1995-10-01'
+doi: '10.1080/01688639508405157'
+first_author: 'Wilson'
+keywords:
+- 'Clive Wearing'
+- 'amnesia'
+- 'herpes simplex encephalitis'
+- 'procedural memory'
+- 'musical skill'
+- 'case study'
+implementations: []
+summary: >-
+  Wilson, Baddeley and Kapur (1995). The case study of the musician Clive Wearing after herpes simplex encephalitis in 1985: very dense anterograde amnesia and extensive retrograde amnesia, with musical performance (playing, sight-reading, conducting) largely preserved.
+---
+
+# LIT-tmp5e61u: Dense amnesia in a professional musician following herpes simplex virus encephalitis
+
+Wilson, B. A., Baddeley, A. D., & Kapur, N. (1995). Dense amnesia in a professional musician following herpes simplex virus encephalitis. *Journal of Clinical and Experimental Neuropsychology*, 17(5), 668–681. doi:10.1080/01688639508405157.
+
+Not read. The summary is drawn from the abstract or from what the work is
+standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The exchange (A26) took up the owner's suggestion of Clive Wearing as a case for the person as an organization of partly independent processes. This is the primary case study it cited. The case is [CASE-tmpsp3d4](../cases.d/CASE-tmpsp3d4.md).

@@ -64,6 +64,7 @@ summary: >-
   at a glance.
 illustrated_by:
 - CASE-094
+- CASE-tmp8rpr6
 objected_by:
 - CLAIM-313
 ---
