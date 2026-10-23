@@ -32,6 +32,8 @@ summary: >-
 grounds:
 - THEORY-055
 - THEORY-125
+supports:
+- CLAIM-tmpi98gg
 ---
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience

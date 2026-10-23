@@ -37,6 +37,8 @@ summary: >-
   fallacy of division; members are always causally responsible for any
   corporate act, and intentions ascribed to corporations are only "as if".
   Unread beyond the publisher's abstract: no lawful copy reached.
+supports:
+- CLAIM-tmp4d358
 ---
 <!-- inactive-ok-file: LIT-tmp7dpgf — Unavailable, unread; the 1983 paper, named as the earlier statement -->
 <!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; French's and Pettit's accounts, named as what this paper opposes -->
