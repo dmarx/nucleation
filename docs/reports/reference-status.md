@@ -424,10 +424,10 @@ The loop that keeps a lucid agent's model in touch with what it models runs betw
 
 61 citations in 39 files await a look; 4 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-107.md:82`](../../record/cases.d/CASE-107.md)
-- [`record/cases.d/CASE-107.md:91`](../../record/cases.d/CASE-107.md)
-- [`record/cases.d/CASE-107.md:114`](../../record/cases.d/CASE-107.md)
-- [`record/cases.d/CASE-107.md:136`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:90`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:99`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:122`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:144`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-336.md:100`](../../record/claims.d/CLAIM-336.md)
 - [`record/claims.d/CLAIM-337.md:70`](../../record/claims.d/CLAIM-337.md)
 - [`record/claims.d/CLAIM-337.md:88`](../../record/claims.d/CLAIM-337.md)
@@ -456,16 +456,16 @@ The loop that keeps a lucid agent's model in touch with what it models runs betw
 - [`record/literature.d/LIT-1196.md:73`](../../record/literature.d/LIT-1196.md)
 - [`record/literature.d/LIT-1197.md:7`](../../record/literature.d/LIT-1197.md)
 - [`record/literature.d/LIT-1197.md:79`](../../record/literature.d/LIT-1197.md)
-- [`record/literature.d/LIT-1199.md:82`](../../record/literature.d/LIT-1199.md)
-- [`record/literature.d/LIT-1200.md:83`](../../record/literature.d/LIT-1200.md)
+- [`record/literature.d/LIT-1199.md:84`](../../record/literature.d/LIT-1199.md)
+- [`record/literature.d/LIT-1200.md:85`](../../record/literature.d/LIT-1200.md)
 - [`record/notes.d/NOTE-947.md:224`](../../record/notes.d/NOTE-947.md)
-- [`record/notes.d/NOTE-948.md:209`](../../record/notes.d/NOTE-948.md)
+- [`record/notes.d/NOTE-948.md:211`](../../record/notes.d/NOTE-948.md)
 - [`record/notes.d/NOTE-949.md:178`](../../record/notes.d/NOTE-949.md)
 - [`record/notes.d/NOTE-949.md:184`](../../record/notes.d/NOTE-949.md)
 - [`record/notes.d/NOTE-949.md:206`](../../record/notes.d/NOTE-949.md)
 - [`record/notes.d/NOTE-950.md:214`](../../record/notes.d/NOTE-950.md)
 - [`record/notes.d/NOTE-950.md:272`](../../record/notes.d/NOTE-950.md)
-- [`record/notes.d/NOTE-951.md:228`](../../record/notes.d/NOTE-951.md)
+- [`record/notes.d/NOTE-951.md:230`](../../record/notes.d/NOTE-951.md)
 - [`record/notes.d/NOTE-953.md:221`](../../record/notes.d/NOTE-953.md)
 - [`record/notes.d/NOTE-954.md:272`](../../record/notes.d/NOTE-954.md)
 - [`record/notes.d/NOTE-954.md:317`](../../record/notes.d/NOTE-954.md)
@@ -480,7 +480,7 @@ The loop that keeps a lucid agent's model in touch with what it models runs betw
 - [`record/notes.d/NOTE-959.md:289`](../../record/notes.d/NOTE-959.md)
 - [`record/notes.d/NOTE-960.md:222`](../../record/notes.d/NOTE-960.md)
 - [`record/notes.d/NOTE-960.md:312`](../../record/notes.d/NOTE-960.md)
-- [`record/notes.d/NOTE-961.md:161`](../../record/notes.d/NOTE-961.md)
+- [`record/notes.d/NOTE-961.md:163`](../../record/notes.d/NOTE-961.md)
 - [`record/notes.d/NOTE-962.md:167`](../../record/notes.d/NOTE-962.md)
 - [`record/notes.d/NOTE-963.md:169`](../../record/notes.d/NOTE-963.md)
 - [`record/notes.d/NOTE-964.md:203`](../../record/notes.d/NOTE-964.md)
@@ -493,7 +493,7 @@ What keeps a judgement–observation loop from confirming itself is evidence who
 53 citations in 34 files await a look; 25 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-099.md:104`](../../record/cases.d/CASE-099.md)
-- [`record/cases.d/CASE-107.md:125`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:133`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-338.md:104`](../../record/claims.d/CLAIM-338.md)
 - [`record/claims.d/CLAIM-339.md:37`](../../record/claims.d/CLAIM-339.md)
 - [`record/claims.d/CLAIM-339.md:78`](../../record/claims.d/CLAIM-339.md)
@@ -520,12 +520,12 @@ What keeps a judgement–observation loop from confirming itself is evidence who
 - [`record/literature.d/LIT-1196.md:87`](../../record/literature.d/LIT-1196.md)
 - [`record/literature.d/LIT-1196.md:90`](../../record/literature.d/LIT-1196.md)
 - [`record/notes.d/NOTE-947.md:241`](../../record/notes.d/NOTE-947.md)
-- [`record/notes.d/NOTE-948.md:222`](../../record/notes.d/NOTE-948.md)
+- [`record/notes.d/NOTE-948.md:224`](../../record/notes.d/NOTE-948.md)
 - [`record/notes.d/NOTE-949.md:191`](../../record/notes.d/NOTE-949.md)
 - [`record/notes.d/NOTE-949.md:200`](../../record/notes.d/NOTE-949.md)
 - [`record/notes.d/NOTE-949.md:214`](../../record/notes.d/NOTE-949.md)
 - [`record/notes.d/NOTE-950.md:229`](../../record/notes.d/NOTE-950.md)
-- [`record/notes.d/NOTE-951.md:213`](../../record/notes.d/NOTE-951.md)
+- [`record/notes.d/NOTE-951.md:215`](../../record/notes.d/NOTE-951.md)
 - [`record/notes.d/NOTE-953.md:229`](../../record/notes.d/NOTE-953.md)
 - [`record/notes.d/NOTE-953.md:263`](../../record/notes.d/NOTE-953.md)
 - [`record/notes.d/NOTE-956.md:177`](../../record/notes.d/NOTE-956.md)
@@ -720,7 +720,7 @@ A judgement–observation loop cut off from action loses one route for evidence 
 
 28 citations in 19 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-107.md:90`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:98`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-341.md:187`](../../record/claims.d/CLAIM-341.md)
 - [`record/claims.d/CLAIM-342.md:73`](../../record/claims.d/CLAIM-342.md)
 - [`record/literature.d/LIT-1181.md:18`](../../record/literature.d/LIT-1181.md)
@@ -728,10 +728,10 @@ A judgement–observation loop cut off from action loses one route for evidence 
 - [`record/literature.d/LIT-1195.md:78`](../../record/literature.d/LIT-1195.md)
 - [`record/literature.d/LIT-1196.md:89`](../../record/literature.d/LIT-1196.md)
 - [`record/literature.d/LIT-1197.md:7`](../../record/literature.d/LIT-1197.md)
-- [`record/literature.d/LIT-1199.md:82`](../../record/literature.d/LIT-1199.md)
-- [`record/notes.d/NOTE-948.md:197`](../../record/notes.d/NOTE-948.md)
+- [`record/literature.d/LIT-1199.md:84`](../../record/literature.d/LIT-1199.md)
+- [`record/notes.d/NOTE-948.md:199`](../../record/notes.d/NOTE-948.md)
 - [`record/notes.d/NOTE-949.md:202`](../../record/notes.d/NOTE-949.md)
-- [`record/notes.d/NOTE-951.md:221`](../../record/notes.d/NOTE-951.md)
+- [`record/notes.d/NOTE-951.md:223`](../../record/notes.d/NOTE-951.md)
 - [`record/notes.d/NOTE-954.md:319`](../../record/notes.d/NOTE-954.md)
 - [`record/notes.d/NOTE-954.md:323`](../../record/notes.d/NOTE-954.md)
 - [`record/notes.d/NOTE-954.md:393`](../../record/notes.d/NOTE-954.md)
@@ -742,7 +742,7 @@ A judgement–observation loop cut off from action loses one route for evidence 
 - [`record/notes.d/NOTE-959.md:246`](../../record/notes.d/NOTE-959.md)
 - [`record/notes.d/NOTE-960.md:244`](../../record/notes.d/NOTE-960.md)
 - [`record/notes.d/NOTE-960.md:316`](../../record/notes.d/NOTE-960.md)
-- [`record/notes.d/NOTE-961.md:172`](../../record/notes.d/NOTE-961.md)
+- [`record/notes.d/NOTE-961.md:174`](../../record/notes.d/NOTE-961.md)
 - [`record/notes.d/NOTE-963.md:221`](../../record/notes.d/NOTE-963.md)
 - [`record/questions.d/QUESTION-121.md:30`](../../record/questions.d/QUESTION-121.md)
 - [`record/questions.d/QUESTION-121.md:48`](../../record/questions.d/QUESTION-121.md)
@@ -789,7 +789,7 @@ Active inference already runs an internal loop: mental action selects among high
 
 22 citations in 16 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-107.md:117`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:125`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-338.md:55`](../../record/claims.d/CLAIM-338.md)
 - [`record/claims.d/CLAIM-338.md:122`](../../record/claims.d/CLAIM-338.md)
 - [`record/claims.d/CLAIM-341.md:28`](../../record/claims.d/CLAIM-341.md)
@@ -801,7 +801,7 @@ Active inference already runs an internal loop: mental action selects among high
 - [`record/literature.d/LIT-1192.md:75`](../../record/literature.d/LIT-1192.md)
 - [`record/literature.d/LIT-1195.md:67`](../../record/literature.d/LIT-1195.md)
 - [`record/notes.d/NOTE-947.md:237`](../../record/notes.d/NOTE-947.md)
-- [`record/notes.d/NOTE-951.md:221`](../../record/notes.d/NOTE-951.md)
+- [`record/notes.d/NOTE-951.md:223`](../../record/notes.d/NOTE-951.md)
 - [`record/notes.d/NOTE-954.md:314`](../../record/notes.d/NOTE-954.md)
 - [`record/notes.d/NOTE-956.md:158`](../../record/notes.d/NOTE-956.md)
 - [`record/notes.d/NOTE-956.md:195`](../../record/notes.d/NOTE-956.md)
@@ -2178,7 +2178,7 @@ FEMA — National Incident Management System, third edition
 - [`record/literature.d/LIT-1365.md:33`](../../record/literature.d/LIT-1365.md)
 - [`record/literature.d/LIT-1365.md:64`](../../record/literature.d/LIT-1365.md)
 - [`record/literature.d/LIT-1365.md:83`](../../record/literature.d/LIT-1365.md)
-- [`record/notes.d/NOTE-1073.md:258`](../../record/notes.d/NOTE-1073.md)
+- [`record/notes.d/NOTE-1073.md:260`](../../record/notes.d/NOTE-1073.md)
 
 ### [NOTE-1077](../../record/notes.d/NOTE-1077.md) — Skimmed
 
@@ -2598,8 +2598,8 @@ Rogers Commission — Report on the Space Shuttle Challenger accident
 - [`record/cases.d/CASE-138.md:14`](../../record/cases.d/CASE-138.md)
 - [`record/literature.d/LIT-1393.md:7`](../../record/literature.d/LIT-1393.md)
 - [`record/literature.d/LIT-1393.md:31`](../../record/literature.d/LIT-1393.md)
-- [`record/literature.d/LIT-1393.md:67`](../../record/literature.d/LIT-1393.md)
-- [`record/literature.d/LIT-1393.md:81`](../../record/literature.d/LIT-1393.md)
+- [`record/literature.d/LIT-1393.md:69`](../../record/literature.d/LIT-1393.md)
+- [`record/literature.d/LIT-1393.md:83`](../../record/literature.d/LIT-1393.md)
 
 ### [NOTE-601](../../record/notes.d/NOTE-601.md) — Skimmed
 
@@ -2817,7 +2817,7 @@ What persists when a self persists through inactivity is the capacity to reinsta
 
 4 citations in 2 files await a look; 13 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-107.md:138`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:146`](../../record/cases.d/CASE-107.md)
 - [`record/cases.d/CASE-116.md:29`](../../record/cases.d/CASE-116.md)
 - [`record/cases.d/CASE-116.md:90`](../../record/cases.d/CASE-116.md)
 - [`record/cases.d/CASE-116.md:101`](../../record/cases.d/CASE-116.md)
@@ -3405,7 +3405,7 @@ Self-presentations that differ by audience do no harm while the audiences are ke
 
 - [`record/claims.d/CLAIM-196.md:145`](../../record/claims.d/CLAIM-196.md)
 - [`record/decisions.d/ADR-043.md:284`](../../record/decisions.d/ADR-043.md)
-- [`record/literature.d/LIT-1001.md:62`](../../record/literature.d/LIT-1001.md)
+- [`record/literature.d/LIT-1001.md:64`](../../record/literature.d/LIT-1001.md)
 
 ### [CLAIM-324](../../record/claims.d/CLAIM-324.md) — Proposed
 
@@ -3493,8 +3493,8 @@ A successful corrective act, an executable procedure and a maintained organizati
 
 3 citations in 3 files await a look; 16 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-127.md:106`](../../record/cases.d/CASE-127.md)
-- [`record/notes.d/NOTE-1086.md:183`](../../record/notes.d/NOTE-1086.md)
+- [`record/cases.d/CASE-127.md:111`](../../record/cases.d/CASE-127.md)
+- [`record/notes.d/NOTE-1086.md:185`](../../record/notes.d/NOTE-1086.md)
 - [`record/questions.d/QUESTION-264.md:46`](../../record/questions.d/QUESTION-264.md)
 
 ### [CLAIM-427](../../record/claims.d/CLAIM-427.md) — Proposed
@@ -3573,9 +3573,9 @@ The locked-in syndrome: what is it like to be conscious but paralyzed and voicel
 
 3 citations in 3 files await a look.
 
-- [`record/cases.d/CASE-107.md:39`](../../record/cases.d/CASE-107.md)
-- [`record/literature.d/LIT-1183.md:70`](../../record/literature.d/LIT-1183.md)
-- [`record/notes.d/NOTE-961.md:135`](../../record/notes.d/NOTE-961.md)
+- [`record/cases.d/CASE-107.md:47`](../../record/cases.d/CASE-107.md)
+- [`record/literature.d/LIT-1183.md:72`](../../record/literature.d/LIT-1183.md)
+- [`record/notes.d/NOTE-961.md:137`](../../record/notes.d/NOTE-961.md)
 
 ### [LIT-1403](../../record/literature.d/LIT-1403.md) — Unavailable
 
@@ -3833,7 +3833,7 @@ A basic, affective form of consciousness is realised subcortically, in the upper
 
 3 citations in 2 files await a look; 18 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-107.md:96`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:104`](../../record/cases.d/CASE-107.md)
 - [`record/questions.d/QUESTION-059.md:23`](../../record/questions.d/QUESTION-059.md)
 - [`record/questions.d/QUESTION-059.md:44`](../../record/questions.d/QUESTION-059.md)
 
@@ -3993,7 +3993,7 @@ Ventromedial prefrontal cortex stores links between kinds of situation and the b
 
 3 citations in 3 files await a look; 2 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-107.md:133`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:141`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-342.md:113`](../../record/claims.d/CLAIM-342.md)
 - [`record/questions.d/QUESTION-121.md:78`](../../record/questions.d/QUESTION-121.md)
 
@@ -4622,7 +4622,7 @@ Does a state that meets a functional characterization of affect thereby have to 
 
 2 citations in 2 files await a look; 26 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-107.md:130`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:138`](../../record/cases.d/CASE-107.md)
 - [`record/questions.d/QUESTION-121.md:78`](../../record/questions.d/QUESTION-121.md)
 
 ### [QUESTION-241](../../record/questions.d/QUESTION-241.md) — Answered
@@ -5548,7 +5548,7 @@ Le scaphandre et le papillon
 
 1 citation in 1 file awaits a look.
 
-- [`record/cases.d/CASE-107.md:44`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:52`](../../record/cases.d/CASE-107.md)
 
 ### [LIT-1219](../../record/literature.d/LIT-1219.md) — Deferred
 
@@ -6260,7 +6260,7 @@ Report-based evidence cannot test whether posterior cortex suffices for experien
 
 1 citation in 1 file awaits a look; 7 other citations of it are acknowledged.
 
-- [`record/cases.d/CASE-107.md:97`](../../record/cases.d/CASE-107.md)
+- [`record/cases.d/CASE-107.md:105`](../../record/cases.d/CASE-107.md)
 
 ### [THEORY-330](../../record/theory.d/THEORY-330.md) — Proposed
 
@@ -6586,7 +6586,7 @@ None. Every scanned file is checked. ✅
 - record/notes.d/NOTE-1062.md:41: annotation no longer applies — nothing in scope cites THEORY-883
 - record/notes.d/NOTE-1063.md:39: annotation no longer applies — nothing in scope cites THEORY-882
 - record/notes.d/NOTE-1063.md:41: annotation no longer applies — LIT-1351, LIT-1354 is Active now
-- record/notes.d/NOTE-1073.md:39: annotation no longer applies — nothing in scope cites THEORY-145
+- record/notes.d/NOTE-1073.md:41: annotation no longer applies — nothing in scope cites THEORY-145
 - record/notes.d/NOTE-1075.md:35: annotation no longer applies — nothing in scope cites LIT-1381
 - record/notes.d/NOTE-1076.md:43: annotation no longer applies — nothing in scope cites LIT-1375, LIT-1380
 - record/notes.d/NOTE-606.md:33: annotation no longer applies — THEORY-155 is Active now
