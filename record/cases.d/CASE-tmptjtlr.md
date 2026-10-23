@@ -36,7 +36,7 @@ UN voting and strategic rivalries." (LIT-{KLR}, unread.)
 - **A measured coupling.** A6: the exposure measure "is essentially a
   **coupling coefficient**", the elasticity of A's welfare with respect to
   B's productivity: B's flourishing has become good for A. That makes it
-  CLAIM-tmpm3ah3's material coupling in a quantity, and an empirical case
+  [CLAIM-tmpm3ah3](../claims.d/CLAIM-tmpm3ah3.md)'s material coupling in a quantity, and an empirical case
   of a change in the coupling, not only the state, of a relationship.
 - **A causal claim about alignment.** The variation is meant to be
   exogenous, so the alignment follows the exposure and does not merely
@@ -47,7 +47,7 @@ UN voting and strategic rivalries." (LIT-{KLR}, unread.)
 - That the countries' interpretive organizations changed. A6: "political
   alignment does not by itself establish that the countries' interpretive
   organizations have changed. Strategic incentives alone could explain
-  the alignment." CLAIM-tmpm3ah3's defeater says what would tell them
+  the alignment." [CLAIM-tmpm3ah3](../claims.d/CLAIM-tmpm3ah3.md)'s defeater says what would tell them
   apart.
 - That alignment makes for peace. UN voting and rivalry are proxies, and
   interdependence can also be organized as leverage.

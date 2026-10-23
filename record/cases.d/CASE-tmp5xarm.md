@@ -17,7 +17,7 @@ summary: >-
   Request", which called it "the most philosophically important new
   experiment". It asks whether a distributed organizational perspective
   can be identified without attributing a further collective agent,
-  CLAIM-418's separation tested, and bears on QUESTION-260. A4's
+  [CLAIM-418](../claims.d/CLAIM-418.md)'s separation tested, and bears on [QUESTION-260](../questions.d/QUESTION-260.md). A4's
   condition: it helps only if it says in advance what distinguishes a
   shared perspective from correlated responses or learned norms. Not run.
 ---
@@ -43,7 +43,7 @@ for collective decision.
 
 ## What the outcomes would show, and what they would not
 
-- **CLAIM-418's separation.** A perspectival organization present where
+- **[CLAIM-418](../claims.d/CLAIM-418.md)'s separation.** A perspectival organization present where
   no collective agent is would show perspectival and agential boundaries
   coming apart in a constructed system.
 - **The risk the design must meet first.** A4: "a shared perspective will
@@ -51,7 +51,7 @@ for collective decision.
   only helps the theory if it specifies, ahead of time, what additional
   relational organization distinguishes a perspective from those simpler
   phenomena." The independently trained populations are the control for
-  correlation; the defeater of CLAIM-417 is the control for the rest.
+  correlation; the defeater of [CLAIM-417](../claims.d/CLAIM-417.md) is the control for the rest.
 - **Against the category.** A4: "If it cannot make that distinction, the
   result should count against the theoretical usefulness of the
   category." The record should keep that outcome possible.

@@ -14,9 +14,9 @@ works:
 - organization-of-perspective
 summary: >-
   Proposed at A4 of the exchange of 2026-10-23, "Framework Overview
-  Request", as an extension of CASE-101. It asks which components carry a
+  Request", as an extension of [CASE-101](CASE-101.md). It asks which components carry a
   perspective's characteristic organization when it moves between
-  carriers: CLAIM-417's realization, character and lineage, tested by
+  carriers: [CLAIM-417](../claims.d/CLAIM-417.md)'s realization, character and lineage, tested by
   transfer. A4: "No transfer experiment can settle numerical identity
   merely by demonstrating causal continuity." Not run.
 ---
@@ -41,13 +41,13 @@ the old environment to keep being enacted; and which is reabsorbed.
 
 - **What is transmitted.** A4: the payoff is "a causal account of **what
   is transmitted when a perspective persists across carriers**". That is
-  CLAIM-329's causal transmission, broken into its parts, and QUESTION-118
+  [CLAIM-329](../claims.d/CLAIM-329.md)'s causal transmission, broken into its parts, and [QUESTION-118](../questions.d/QUESTION-118.md)
   asked as an experiment.
 - **Interruptions apart.** A transfer that keeps a disposition and loses
-  the conditions to enact it separates CLAIM-421's enactment interruption
+  the conditions to enact it separates [CLAIM-421](../claims.d/CLAIM-421.md)'s enactment interruption
   from its reproduction interruption.
 - **Not identity.** The causal story it can give does not settle which
   population is the same as which.
 - **Its standing evidence.** Jacobs and Campbell's laboratory microculture
-  (QUESTION-118) shows a norm surviving the replacement of everyone who
+  ([QUESTION-118](../questions.d/QUESTION-118.md)) shows a norm surviving the replacement of everyone who
   set it; this design asks which parts of what survives did the work.

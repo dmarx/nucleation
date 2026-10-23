@@ -41,7 +41,7 @@ the same favourable things about their friend.
 
 ## What it shows
 
-- **The state and the coupling.** CLAIM-tmpm3bml's distinction in a
+- **The state and the coupling.** [CLAIM-tmpm3bml](../claims.d/CLAIM-tmpm3bml.md)'s distinction in a
   person. The first friendship changes the state of the person's
   interpretive organization (one favourable exception). The second changes
   how far outcomes with members of G may revise the interpretation that
@@ -51,7 +51,7 @@ the same favourable things about their friend.
   finding that generalization from individuals to groups depends partly
   on typicality and number. The case holds those fixed, so any difference
   lies in the person's organization, not in the friend.
-- **A relational frame reading.** A5: relational frame theory (THEORY-044)
+- **A relational frame reading.** A5: relational frame theory ([THEORY-044](../theory.d/THEORY-044.md))
   gives a mechanism for the second outcome, the transfer of a stimulus's
   changed function through the relation of membership in G.
 
@@ -60,4 +60,4 @@ the same favourable things about their friend.
 - Which outcome is more common, or what makes the difference. It is
   stipulated.
 - That the second outcome is better in every respect. A change in how far
-  outcomes may revise a category can also be exploited (CLAIM-404).
+  outcomes may revise a category can also be exploited ([CLAIM-404](../claims.d/CLAIM-404.md)).

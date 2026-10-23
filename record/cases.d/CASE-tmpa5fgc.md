@@ -32,7 +32,7 @@ produce comparable effects in their immigration-policy experiment."
 
 ## What it shows
 
-- **The nearest field contrast to CLAIM-tmprti7p's defeater.** The claim
+- **The nearest field contrast to [CLAIM-tmprti7p](../claims.d/CLAIM-tmprti7p.md)'s defeater.** The claim
   falls if information of equal favourable content changes attitudes as
   much as taking part does. A conversation in which both parties exchange
   narratives is closer to taking part than an argument heard; the arms

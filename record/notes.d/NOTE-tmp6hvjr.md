@@ -154,7 +154,7 @@ doi:10.48557/UR2GBG) and the code is on GitHub.
 
 ## Bearing on the record
 
-- **QUESTION-063** asks what measurement tells a shared drive from
+- **[QUESTION-063](../questions.d/QUESTION-063.md)** asks what measurement tells a shared drive from
   coupling. This study runs, in a human dyad, the design the question
   names: the shared drive and the coupling channel are each removed
   independently, and the components that follow each are identified. It
@@ -163,8 +163,8 @@ doi:10.48557/UR2GBG) and the code is on GitHub.
   reflect whether synchrony is established through music or partner
   vision." What it does not supply is the other half of the question's
   design, perturbing one member and measuring the other, so direction is
-  not estimated. Filed as THEORY-tmpcd7cz.
-- **CASE-045** (the dancing couple) proposes measuring lead→follow and
+  not estimated. Filed as [THEORY-tmpcd7cz](../theory.d/THEORY-tmpcd7cz.md).
+- **[CASE-045](../cases.d/CASE-045.md)** (the dancing couple) proposes measuring lead→follow and
   follow→lead coupling with the music's beat as an exogenous input. Bigand
   et al. show the music must indeed be treated as a separate driver, and
   that it drives some components and not others: a VAR on joint
@@ -172,18 +172,18 @@ doi:10.48557/UR2GBG) and the code is on GitHub.
   carried by particular components, not the whole body. Their setting
   differs (no touch, no lead and follow, untrained dancers), and they
   estimate no direction, no perturbation response and no block gap.
-- **CLAIM-172** says mutual entrainment marks a combined form of peers,
+- **[CLAIM-172](../claims.d/CLAIM-172.md)** says mutual entrainment marks a combined form of peers,
   and its 2026-10-14 note that "shared timing alone is not the mark". This
   reading supports the latter: two kinds of synchrony, one from a common
   cause and one from coupling, are indistinguishable in their timing.
   Visual contact is mutual by design here, but the study does not show
   that the partner-driven synchrony is mutual entrainment rather than one
   partner following.
-- **LIT-933** (Nowak et al.) counts synchrony from mutual influence and
+- **[LIT-933](../literature.d/LIT-933.md)** (Nowak et al.) counts synchrony from mutual influence and
   from a common external signal as one functional unit, the conflation
-  QUESTION-063 names. This study shows the two coexisting in different
+  [QUESTION-063](../questions.d/QUESTION-063.md) names. This study shows the two coexisting in different
   components of the same pair, which makes the conflation costly.
-- **THEORY-520** (participatory sense-making): the partner-driven
+- **[THEORY-520](../theory.d/THEORY-520.md)** (participatory sense-making): the partner-driven
   component is a measured, manipulable instance of movement coordinated
   through the interaction. Nothing here tests the autonomy of the
   interaction.
@@ -211,7 +211,7 @@ doi:10.48557/UR2GBG) and the code is on GitHub.
   dancer, or a directional measure on the partner-driven components,
   would say.
 - Does the geometry hold in a partner dance with touch and with lead and
-  follow roles, as in CASE-045? There the haptic channel carries the
+  follow roles, as in [CASE-045](../cases.d/CASE-045.md)? There the haptic channel carries the
   coupling.
 - Does the allocation reorganize when the partners' relative position
   changes, as the authors suggest for side-by-side dancing?

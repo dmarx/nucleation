@@ -31,7 +31,7 @@ summary: >-
   connected to the hypothesis that trade promotes peace by coupling
   interests through coupled economies". A6: "economic coupling is not the
   same thing as cooperative perspectival integration." The claim is the
-  commercial-peace debate read through CLAIM-tmpm3bml: trade changes the
+  commercial-peace debate read through [CLAIM-tmpm3bml](CLAIM-tmpm3bml.md): trade changes the
   state of a relationship, and the question is when it changes the
   coupling.
 ---
@@ -63,14 +63,14 @@ influence toward commercial interests. The claim is about the third.
   trade-expectations theory (LIT-{COP}) makes peace depend on expected
   future access, and Farrell and Newman's weaponized interdependence
   (LIT-{FN}) is the third organization built on network asymmetry.
-- **The state and the coupling.** By CLAIM-tmpm3bml, an increase in trade
+- **The state and the coupling.** By [CLAIM-tmpm3bml](CLAIM-tmpm3bml.md), an increase in trade
   changes the relationship's state; an agreement that also builds shared
   dispute procedures, reciprocal obligations and domestic constituencies
   invested in cooperation may change its coupling. A6: "some cooperative
   encounters change the rules under which future cooperation becomes
   attractive, rather than merely increasing its attractiveness under
   existing rules."
-- **The nearest evidence.** Kleinman, Liu and Redding (CASE-tmptjtlr)
+- **The nearest evidence.** Kleinman, Liu and Redding ([CASE-tmptjtlr](../cases.d/CASE-tmptjtlr.md))
   find that economic alignment causes political alignment. A6: their
   exposure measure "is essentially a **coupling coefficient**", the
   response of one country's welfare to another's productivity.
@@ -78,8 +78,8 @@ influence toward commercial interests. The claim is about the third.
 The perspective realized here is not a nation's. A6: trade can change
 "the distribution of influence among the domestic processes that construct
 and interpret national interests", so the unit is a network of
-cross-border constituencies and practices, CLAIM-417's perspective
-realized across institutions, and not a collective agent (CLAIM-418).
+cross-border constituencies and practices, [CLAIM-417](CLAIM-417.md)'s perspective
+realized across institutions, and not a collective agent ([CLAIM-418](CLAIM-418.md)).
 
 ## What it does not say
 

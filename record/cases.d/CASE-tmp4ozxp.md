@@ -17,7 +17,7 @@ summary: >-
   at A5 (section 5) with A4's "corrigibility trap", after the owner asked
   which experiments could "kill multiple birds with one stone" (U4) and
   which questions simulation could answer (U5). One design bears on
-  CASE-092, CASE-108 and CASE-117 at once, and separates four causes of a
+  [CASE-092](CASE-092.md), [CASE-108](CASE-108.md) and [CASE-117](CASE-117.md) at once, and separates four causes of a
   failure to adapt. A5's central question: "Under what conditions does an
   organization become unable to recognize or act upon evidence that its
   own organization of interpretation and authority has rendered
@@ -32,8 +32,8 @@ Two populations of adaptive specialists with the same capabilities face
 the same task stream, which has independently defined outcomes. In one,
 the evaluator scores specialists against those outcomes. In the other, it
 gives more weight to evidence consistent with the specialists it already
-favours: the coupled scoring of CASE-092's Regime A, where CASE-099 and
-CLAIM-330 found the symmetric state can be unstable. At first both may
+favours: the coupled scoring of [CASE-092](CASE-092.md)'s Regime A, where [CASE-099](CASE-099.md) and
+[CLAIM-330](../claims.d/CLAIM-330.md) found the symmetric state can be unstable. At first both may
 perform alike. Then the task distribution shifts so that a specialist the
 organization has marginalized becomes the only competent one.
 
@@ -58,7 +58,7 @@ can be revised.
 Held-out performance across the shift; concentration of interpretation
 and of authority; survival and recovery of the minority specialist;
 hysteresis after a temporary perturbation; whether the evaluator's
-failure is recognized; and, against CLAIM-tmpcp1lb's third grade, the
+failure is recognized; and, against [CLAIM-tmpcp1lb](../claims.d/CLAIM-tmpcp1lb.md)'s third grade, the
 interventional prediction error of competing models (mixture-of-experts
 routing, reflected-appraisal influence, a conventional adaptive policy).
 
@@ -68,14 +68,14 @@ routing, reflected-appraisal influence, a conventional adaptive policy).
   information wasn't available", "The right information was available but
   ignored", "The specialist once had the right information but lost its
   competence", and "The organization recognized the problem but could not
-  revise the governing mechanism". Those are CLAIM-421's activation,
-  enactment and reproduction, and CLAIM-424's reflexive governance, in
+  revise the governing mechanism". Those are [CLAIM-421](../claims.d/CLAIM-421.md)'s activation,
+  enactment and reproduction, and [CLAIM-424](../claims.d/CLAIM-424.md)'s reflexive governance, in
   one experiment.
 - **A clean negative case.** A4: "an organization that is excellent at
   optimizing within its current perspective yet persistently fails to
   reconsider the perspective itself."
 - **Not novelty by itself.** A4: there is "extensive antecedent work in
   organizational learning and robust distributed systems"; hidden-profile
-  research (QUESTION-089) and Byzantine-robust learning already show the
-  problem. A result counts for the framework only at CLAIM-tmpcp1lb's
+  research ([QUESTION-089](../questions.d/QUESTION-089.md)) and Byzantine-robust learning already show the
+  problem. A result counts for the framework only at [CLAIM-tmpcp1lb](../claims.d/CLAIM-tmpcp1lb.md)'s
   third grade.
