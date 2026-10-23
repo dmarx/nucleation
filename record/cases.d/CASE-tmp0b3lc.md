@@ -50,10 +50,10 @@ favourably. A1 added that its direct replication record is limited.
 
 - **The order of act and attitude.** The help came before the liking. The
   conventional reading runs the other way (I like you, so I help you), and
-  CLAIM-275 holds that an act can come before the interpretation it makes
+  [CLAIM-275](../claims.d/CLAIM-275.md) holds that an act can come before the interpretation it makes
   available.
 - **A role, not a reason.** The request gave the rival something to do
-  for Franklin, not an argument about Franklin. CLAIM-tmprti7p reads that
+  for Franklin, not an argument about Franklin. [CLAIM-tmprti7p](../claims.d/CLAIM-tmprti7p.md) reads that
   as an invitation to enact a relation the adversarial arrangement did
   not hold.
 - **Three explanations it does not decide between.** Dissonance (the

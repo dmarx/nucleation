@@ -34,7 +34,7 @@ summary: >-
   contribution is conceptual disentanglement", and the test is "whether it
   changes what we can infer, distinguish, explain, or discover". A4 set
   the grades and the rule "not to use the framework itself to define
-  experimental success". CLAIM-414 already meets the first grade for two
+  experimental success". [CLAIM-414](CLAIM-414.md) already meets the first grade for two
   constructions. Nothing in the record meets the third.
 ---
 
@@ -50,12 +50,12 @@ A4's table, which the claim adopts:
 | "Those mechanisms predict different responses to independently specified interventions" | That the organizational distinctions matter |
 | "The proposed framework predicts these differences better than established alternatives" | A distinctive theoretical contribution |
 
-- **Where the record stands.** CLAIM-414 (Active) meets the first grade for
+- **Where the record stands.** [CLAIM-414](CLAIM-414.md) (Active) meets the first grade for
   two constructions, and its intervention meets the second within them.
   No entry meets the third. A3: "the current work has earned the status of
   a potentially useful conceptual synthesis, not yet an independent
   explanatory framework."
-- **Why only the third.** CLAIM-417's defeater is that established
+- **Why only the third.** [CLAIM-417](CLAIM-417.md)'s defeater is that established
   accounts "explain the same transitions as well with fewer assumptions".
   Showing that organizations differ under intervention does not touch it,
   since the established accounts may predict the same differences. A4:
@@ -70,7 +70,7 @@ A4's table, which the claim adopts:
   described as possessing a perspective because its processes are
   mutually influential, and the experiment then demonstrates that its
   processes are mutually influential. Nothing substantive has been
-  learned." It is CLAIM-342's rule for a self-confirming loop applied to
+  learned." It is [CLAIM-342](CLAIM-342.md)'s rule for a self-confirming loop applied to
   the record's own programme: the test must be scored by evidence whose
   scoring does not pass through the framework.
 

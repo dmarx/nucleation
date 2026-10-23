@@ -25,12 +25,12 @@ source:
 answers:
 - QUESTION-063
 summary: >-
-  Bigand, Bianco, Abalde & Novembre (2024), LIT-tmpzp314, read in full in
-  NOTE-tmp6hvjr from PubMed Central. A 2 × 2 within-dyad experiment, 35
+  Bigand, Bianco, Abalde & Novembre (2024), [LIT-tmpzp314](../literature.d/LIT-tmpzp314.md), read in full in
+  [NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md) from PubMed Central. A 2 × 2 within-dyad experiment, 35
   dyads, that removes the shared external drive and the coupling channel
   independently and finds synchrony from each in different components, no
   interaction, and a timing signature that cannot tell them apart. It
-  answers QUESTION-063 in part: separate interventions on drive and
+  answers [QUESTION-063](../questions.d/QUESTION-063.md) in part: separate interventions on drive and
   channel do discriminate, and a timing-only measure does not. Direction
   of coupling, and a perturbation of one member, are not in it.
 ---
@@ -40,7 +40,7 @@ summary: >-
 
 ## Source
 
-Bigand et al. (2024), LIT-tmpzp314, read in full in NOTE-tmp6hvjr from
+Bigand et al. (2024), [LIT-tmpzp314](../literature.d/LIT-tmpzp314.md), read in full in [NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md) from
 PMC11266842 (CC BY), with Figure 2 and Document S1.
 
 ## What was actually shown
@@ -84,9 +84,9 @@ PMC11266842 (CC BY), with Figure 2 and Document S1.
   the periodicity profile of synchrony; phase lags or directional
   measures were not tried.
 
-## Which part of QUESTION-063 it answers
+## Which part of [QUESTION-063](../questions.d/QUESTION-063.md) it answers
 
-QUESTION-063 asks, when a collective outcome such as synchrony can come
+[QUESTION-063](../questions.d/QUESTION-063.md) asks, when a collective outcome such as synchrony can come
 from a shared external drive or from coupling among the members, what
 measurement tells which architecture produced it. Its "what would answer
 it" names two interventions and a statement of which tests can and cannot
@@ -101,25 +101,25 @@ see the difference.
   one (component-wise intervention) that can.
 - **Left open.** The question's other intervention, perturbing one member
   and measuring the others, is not done, so direction and peer-versus-
-  hierarchy architecture (CLAIM-167, CLAIM-172) are not settled. Nor is
+  hierarchy architecture ([CLAIM-167](../claims.d/CLAIM-167.md), [CLAIM-172](../claims.d/CLAIM-172.md)) are not settled. Nor is
   a test for a shared drive that is unrecorded, which is what the
-  question's own limits on THEORY-275 point to: here the drive was the
+  question's own limits on [THEORY-275](THEORY-275.md) point to: here the drive was the
   experimenter's music, known and manipulable. And the second part of the
   question, telling one internal route to an outcome from another, is not
   touched.
 
 The question stays Open. A Proposed THEORY cannot make it Answered
-(ADR-049).
+([ADR-049](../decisions.d/ADR-049.md)).
 
 ## Connections
 
-- **CASE-tmpg5qs0** documents the study as the record's case, and bears on
-  the proposed study CASE-045, which already takes the music's beat as an
+- **[CASE-tmpg5qs0](../cases.d/CASE-tmpg5qs0.md)** documents the study as the record's case, and bears on
+  the proposed study [CASE-045](../cases.d/CASE-045.md), which already takes the music's beat as an
   exogenous input; this result says to expect the music and the partner
   to drive different components.
-- **THEORY-129** is the shared-cue half in coral spawning, with coupling
+- **[THEORY-129](THEORY-129.md)** is the shared-cue half in coral spawning, with coupling
   untested; this study tests both halves in one system.
-- **THEORY-275**: there, a directional measure follows a recorded drive and
+- **[THEORY-275](THEORY-275.md)**: there, a directional measure follows a recorded drive and
   misreports symmetric coupling. Here, a timing measure cannot apportion
   synchrony between drive and coupling. Both are cases of an observational
   test failing where an intervention succeeds.

@@ -13,9 +13,9 @@ line: distributed-agency
 supports:
 - THEORY-tmpcd7cz
 summary: >-
-  Bigand et al. (2024), LIT-tmpzp314, read in NOTE-tmp6hvjr. Filed from
+  Bigand et al. (2024), [LIT-tmpzp314](../literature.d/LIT-tmpzp314.md), read in [NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md). Filed from
   the owner's exchange "Framework Overview Request" of 2026-10-23 as an
-  external result meeting part of the aim of the proposed study CASE-045.
+  external result meeting part of the aim of the proposed study [CASE-045](CASE-045.md).
   In 35 dyads, shared music and visual contact were varied in a 2 × 2
   design; each raised synchrony in different movement components, with no
   interaction, and the timing of the synchrony could not tell the two
@@ -28,7 +28,7 @@ summary: >-
 
 ## The case
 
-Bigand, Bianco, Abalde and Novembre (LIT-tmpzp314, read in NOTE-tmp6hvjr).
+Bigand, Bianco, Abalde and Novembre ([LIT-tmpzp314](../literature.d/LIT-tmpzp314.md), read in [NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md)).
 
 - **Participants.** 80 recruited, 40 dyads, 5 dyads lost to recording
   failure: 70 participants. Laypersons "without dance training"; "All
@@ -69,23 +69,23 @@ visible and moving at a different pace."
 And a measure that sees only timing would not have found it: "when
 (unlike where) participants move does not reflect whether synchrony is
 established through music or partner vision." This is the result stated
-in THEORY-tmpcd7cz, and it answers QUESTION-063 in part.
+in [THEORY-tmpcd7cz](../theory.d/THEORY-tmpcd7cz.md), and it answers [QUESTION-063](../questions.d/QUESTION-063.md) in part.
 
-For the proposed study CASE-045, which fits a model to a dancing couple's
+For the proposed study [CASE-045](CASE-045.md), which fits a model to a dancing couple's
 joint kinematics with the music's beat as an exogenous input, it says the
 input is needed and is not uniform: the music drives some components, the
-partner others. A block criterion (CLAIM-157) applied to the whole body
+partner others. A block criterion ([CLAIM-157](../claims.d/CLAIM-157.md)) applied to the whole body
 could mix the two.
 
 ## What it does not show
 
 - **The direction of the coupling.** Synchrony here is symmetric period
-  locking. CASE-045's lead→follow and follow→lead estimate, and the
-  peer-or-hierarchy reading of CLAIM-167 and CLAIM-172, are untouched.
-- **A perturbation response.** No member was perturbed; CASE-045's
+  locking. [CASE-045](CASE-045.md)'s lead→follow and follow→lead estimate, and the
+  peer-or-hierarchy reading of [CLAIM-167](../claims.d/CLAIM-167.md) and [CLAIM-172](../claims.d/CLAIM-172.md), are untouched.
+- **A perturbation response.** No member was perturbed; [CASE-045](CASE-045.md)'s
   compensation test is not run.
 - **Partner dancing.** No touch, no lead and follow, no training: the
-  couple CASE-045 proposes is coupled mainly through the hands and frame,
+  couple [CASE-045](CASE-045.md) proposes is coupled mainly through the hands and frame,
   a channel this study excluded.
 - **That the components are fully independent.** No interaction was found;
   none was bounded.
