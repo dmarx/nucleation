@@ -17,7 +17,7 @@ date: '2026-10-23'
 source:
 - LIT-tmp57loc
 summary: >-
-  Hare and Neumann (2008), read in NOTE-tmp1fxmh. The PCL-R's twenty
+  Hare and Neumann (2008), read in [NOTE-tmp1fxmh](../notes.d/NOTE-tmp1fxmh.md). The PCL-R's twenty
   items load on four correlated factors, which pair into Factor 1
   (interpersonal, affective) and Factor 2 (lifestyle, antisocial) and are
   explained by one superordinate factor. The affective features are tied
@@ -34,7 +34,7 @@ summary: >-
 
 Hare and Neumann (2008), "Psychopathy as a clinical and empirical
 construct", *Annual Review of Clinical Psychology* 4:217–246
-(LIT-tmp57loc), read in full in NOTE-tmp1fxmh. Hare receives royalties
+([LIT-tmp57loc](../literature.d/LIT-tmp57loc.md)), read in full in [NOTE-tmp1fxmh](../notes.d/NOTE-tmp1fxmh.md). Hare receives royalties
 from the PCL-R (p. 240).
 
 ## What was actually shown
@@ -94,7 +94,7 @@ than a dimension.
 
 ## Connections
 
-The record's question on corporate psychopathy (QUESTION-tmpik08u), its
-reading (CLAIM-tmpi98gg) and the objection to it (CLAIM-tmp4d358). Bakan's
-*The Corporation* (LIT-tmp8tm3e) applies the checklist to the corporation;
-Boddy (LIT-tmpcyd6d) applies it to people in corporations.
+The record's question on corporate psychopathy ([QUESTION-tmpik08u](../questions.d/QUESTION-tmpik08u.md)), its
+reading ([CLAIM-tmpi98gg](../claims.d/CLAIM-tmpi98gg.md)) and the objection to it ([CLAIM-tmp4d358](../claims.d/CLAIM-tmp4d358.md)). Bakan's
+*The Corporation* ([LIT-tmp8tm3e](../literature.d/LIT-tmp8tm3e.md)) applies the checklist to the corporation;
+Boddy ([LIT-tmpcyd6d](../literature.d/LIT-tmpcyd6d.md)) applies it to people in corporations.

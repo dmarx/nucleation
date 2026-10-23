@@ -34,8 +34,8 @@ them.
 
 1. **The corporation is an agent.** French ([THEORY-131](../theory.d/THEORY-131.md)) and Pettit
    ([THEORY-139](../theory.d/THEORY-139.md)) say so; List's result on aggregation ([THEORY-127](../theory.d/THEORY-127.md), Active)
-   and [CLAIM-271](../claims.d/CLAIM-271.md) say a group's attitudes can be no member's. Velasquez (LIT-tmp7dpgf,
-   LIT-tmpy1y1q) denies it: responsibility needs a mind that forms intentions and a
+   and [CLAIM-271](../claims.d/CLAIM-271.md) say a group's attitudes can be no member's. Velasquez ([LIT-tmp7dpgf](../literature.d/LIT-tmp7dpgf.md),
+   [LIT-tmpy1y1q](../literature.d/LIT-tmpy1y1q.md)) denies it: responsibility needs a mind that forms intentions and a
    body it controls, and a corporation has neither.
 2. **Its wrongs are its own, not distributed to its members.** Isaacs
    ([LIT-698](../literature.d/LIT-698.md)) on collective guilt, and Floridi ([LIT-899](../literature.d/LIT-899.md)) on harm no node
@@ -58,7 +58,7 @@ harms need its members' traits at all.
 ## What would count as an answer
 
 A claim that says, of the clinical construct's features (Hare and
-Neumann's four factors, THEORY-tmp036dt), which can be said of a corporation and in what sense. It should say whether the absence it names is a deficit or a design. It should say
+Neumann's four factors, [THEORY-tmp036dt](../theory.d/THEORY-tmp036dt.md)), which can be said of a corporation and in what sense. It should say whether the absence it names is a deficit or a design. It should say
 what does the work in a corporation that a moral sense does in a person,
 and tested on a documented case, it should separate the corporation's
 contribution from its members'.
