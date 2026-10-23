@@ -85,8 +85,8 @@ than a dimension.
   on. Much of the evidence is forensic, and several antisocial items
   read criminal history.
 - Anything about corporations. Its bearing on the record's question is
-  the record's inference, in CLAIM-tmpi98gg. If a corporation's affect
-  is read functionally (CLAIM-039), its affective items can be assigned
+  the record's inference, in [CLAIM-tmpi98gg](../claims.d/CLAIM-tmpi98gg.md). If a corporation's affect
+  is read functionally ([CLAIM-039](../claims.d/CLAIM-039.md)), its affective items can be assigned
   from its record, as the PCL-R itself scores them from interview and
   case history; and since no component is the essence, a corporation
   matching across both factors falls under the construct to a degree.
