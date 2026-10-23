@@ -73,8 +73,8 @@ the record asks about: is "psychopathic" a category error for a
 corporation, or a fair functional description? The record does not take
 the thesis from this book, which it has not read. Its own reading is a
 CLAIM with an objection, filed the same day, built from French
-(LIT-727, THEORY-131), Pettit (LIT-718, THEORY-139), Huebner (NOTE-553)
-and List (NOTE-340).
+([LIT-727](LIT-727.md), [THEORY-131](../theory.d/THEORY-131.md)), Pettit ([LIT-718](LIT-718.md), [THEORY-139](../theory.d/THEORY-139.md)), Huebner ([NOTE-553](../notes.d/NOTE-553.md))
+and List ([NOTE-340](../notes.d/NOTE-340.md)).
 
 Two things in the descriptions bear on that reading. First, the
 mechanism they give is legal and structural ("created by law"; in the review, a legal mandate to pursue
@@ -82,7 +82,7 @@ self-interest), not a claim about the character of any member, which is the
 narrower reading the record's claim takes. Second, the quoted sentence
 "can neither recognize nor act upon moral reasons" is a claim about
 capacity: it is the claim the record's question asks whether to accept,
-since Pettit (THEORY-139) holds that a corporation can judge its options
+since Pettit ([THEORY-139](../theory.d/THEORY-139.md)) holds that a corporation can judge its options
 normatively.
 
 **What a reading should check.** How the book uses Hare's checklist of

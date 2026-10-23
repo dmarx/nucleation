@@ -62,7 +62,7 @@ defends a "Tripartite Model":
 ## Standing in the record
 
 Filed on 2026-10-23 at the owner's request, with the works on corporate
-psychopathy. French (THEORY-131) and Pettit (THEORY-139) say a
+psychopathy. French ([THEORY-131](../theory.d/THEORY-131.md)) and Pettit ([THEORY-139](../theory.d/THEORY-139.md)) say a
 corporation can be responsible; Velasquez says it cannot. Collins's third
 category says what follows for members if it can: a member's duty is to
 use their role toward the corporation doing its duty. That bears on the
@@ -70,4 +70,4 @@ record's claim that a corporation registers the costs it imposes only
 through what its procedures supply: on Collins's model, members' role
 duties are one such supply. Her line between collectives and coalitions
 also matches the record's line between an organization with a decision
-structure and a mere perspective (CLAIM-418).
+structure and a mere perspective ([CLAIM-418](../claims.d/CLAIM-418.md)).
