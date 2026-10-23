@@ -25,8 +25,8 @@ summary: >-
   down. "Felt" means explicitly represented, which the authors take as
   necessary, not sufficient, for self-reportable valence. For the record,
   this is the closest existing model of that felt valence is the system modelling its own
-  dominance. But its sign and intensity run against the record's
-  dominance account for negative valence, and it inherits the
+  ascendancy. But its sign and intensity run against the record's
+  ascendancy account for negative valence, and it inherits the
   wanting/liking problem.
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli TERM-tmp8gbrt THEORY-055 THEORY-101 THEORY-662 CLAIM-tmp85p0g — Proposed; the account and candidate this reading tests and its neighbours, cited as open -->
@@ -174,35 +174,35 @@ and the match is closer than its vocabulary suggests.** Policy selection
 here is a negotiation between two rankings of the options. One is the
 preference-driven expected free energy Gπ, the other the habitual prior
 Eπ, and γ sets how far Gπ wins. On the record's terms ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)), γ
-*is* a dominance strength: the weight of one perspective's ordering in a
+*is* a ascendancy strength: the weight of one perspective's ordering in a
 compensatory negotiation, the first regime of [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md). The deep
 level infers its valence state from changes in that weight and sets it
 top-down. That is what the candidate proposes, almost exactly.
 The deep level's purpose also fits the record's resumption mark: it lets
 the agent re-weight after reversal without being surprised afresh.
 
-**But it identifies valence with the self-model, not with the dominance,
+**But it identifies valence with the self-model, not with the ascendancy,
 and it reverses the record's intensity clause for negative valence.** Two
 divergences matter:
 
 - *Where valence is.* Hesp et al. put valence at the deeper level, and AC
   is only evidence for it. The record's account ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)) puts
-  valence in the dominance regime and makes feeling a further question. If
+  valence in the ascendancy regime and makes feeling a further question. If
   the record adopts the felt-as-self-model candidate, Hesp is precedent
   for felt valence at the deeper level. Hesp gives no reason to call the
   lower regime valence at all.
-- *Negative valence lowers dominance.* In Hesp, negative valence is low γ.
+- *Negative valence lowers ascendancy.* In Hesp, negative valence is low γ.
   The preference ordering's grip weakens and the agent "fall[s] back on
   her baseline prior over policies" (p. 420). On [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), negative
-  valence is the maintenance ordering dominating while the system runs
-  behind, and intensity is the strength of that dominance. These are
+  valence is the maintenance ordering prevailing while the system runs
+  behind, and intensity is the strength of that ascendancy. These are
   opposed unless the habit prior in a negative state counts as the
-  dominant maintenance ordering, and the paper gives no reason to read it
+  ascendant maintenance ordering, and the paper gives no reason to read it
   so. The record held its intensity clause "for negative valence only"
   because of Carver 2003 ([LIT-tmpb4r95](../literature.d/LIT-tmpb4r95.md)). Hesp is a formal model in which
-  the clause also fails for negative valence, if γ is the dominance. The
+  the clause also fails for negative valence, if γ is the ascendancy. The
   paper's §5.5 fear case cuts the other way. There, confident flight is
-  strong dominance with negative valence, which fits the record better
+  strong ascendancy with negative valence, which fits the record better
   than Hesp's binary scheme does.
 
 **The sign clause is supported.** AC is zero when things go as expected
@@ -214,7 +214,7 @@ formalism.
 
 **On wanting and liking, Hesp and the record are in the same boat.** The
 paper concedes that if AC is dopaminergic it sits on Berridge's 'wanting'
-side. Dominance, as the record defines it, sits there too
+side. Ascendancy, as the record defines it, sits there too
 ([NOTE-tmprub8s](NOTE-tmprub8s.md)). So neither account, as it stands, is an account
 of 'liking'. The paper's fallback, that pleasure is "only one source of
 positive valence", is available to the record as well. Taking it means
@@ -226,7 +226,7 @@ layer (3) that does not depend on report. Compare a system with the
 self-modelling level against one without it. Behaviour is identical while
 contingencies are stable and diverges after a reversal: faster
 re-weighting, attenuated surprise, no habituation in the lesioned agent.
-So the self-model shows itself in *how dominance is re-set after a
+So the self-model shows itself in *how ascendancy is re-set after a
 perturbation*, not in which ordering wins at steady state. That gives
 the felt-as-self-model candidate a test that layers (1) and (2) cannot
 supply. "Felt" here still means explicitly represented and so reportable,
@@ -245,9 +245,9 @@ the free-energy derivations and the neuroanatomy (A4), were not read.
 
 ## Open questions
 
-- If γ is read as dominance strength, does the model admit a regime where
-  negative valence goes with *strong* dominance of a maintenance ordering
-  (Hesp's fear case), or only with weakened dominance of the preference
+- If γ is read as ascendancy strength, does the model admit a regime where
+  negative valence goes with *strong* ascendancy of a maintenance ordering
+  (Hesp's fear case), or only with weakened ascendancy of the preference
   ordering?
 - Could the lesion comparison be run on an organization, with a
   self-monitoring function removed and re-weighting after a shock

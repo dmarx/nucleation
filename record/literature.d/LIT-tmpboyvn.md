@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not reach it. The University of Geneva''s Archive ouverte holds the published version (unige:97810), with access restricted to members of the UNIGE/HUG community. The Taylor & Francis article is paywalled. The Geneva E3 Lab''s publications page posts many of the group''s 2009 papers but not this one, and a web search found no other author or course posting. Its argument is read first-hand in Scherer''s companion paper of the same year, "Emotions are emergent processes: they require a dynamic computational architecture" ([LIT-tmpfjacn](LIT-tmpfjacn.md)), which restates the component process model and cites this paper, then in press, for the evidence. Filed because the record''s proposal needs a measurable analogue of dominance, and this is the review usually cited for response synchronization. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not reach it. The University of Geneva''s Archive ouverte holds the published version (unige:97810), with access restricted to members of the UNIGE/HUG community. The Taylor & Francis article is paywalled. The Geneva E3 Lab''s publications page posts many of the group''s 2009 papers but not this one, and a web search found no other author or course posting. Its argument is read first-hand in Scherer''s companion paper of the same year, "Emotions are emergent processes: they require a dynamic computational architecture" ([LIT-tmpfjacn](LIT-tmpfjacn.md)), which restates the component process model and cites this paper, then in press, for the evidence. Filed because the record''s proposal needs a measurable analogue of ascendancy, and this is the review usually cited for response synchronization. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'The dynamic architecture of emotion: Evidence for the component process model'
 version: 1
 history:
@@ -68,7 +68,7 @@ emotion as component synchronization, is read in the companion paper
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-dominance by one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). What this paper
+ascendancy of one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). What this paper
 would add over its companion is the empirical side: whatever measures of
 response synchronization the evidence review uses. That is what
 [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) needs. The companion gives none. It says that "all we

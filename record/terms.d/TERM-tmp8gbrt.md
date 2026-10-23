@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'hedonic valence, organizational: a regime in which one ordering of a system''s own states, ranked by their bearing on its maintenance, dominates the negotiation among its perspectives, winning their conflicts, persisting and resuming after interruption; signed by whether the system runs ahead of or behind a reference course along that ordering, and as intense as the dominance is strong'
+title: 'hedonic valence, organizational: a regime in which one ordering of a system''s own states, ranked by their bearing on its maintenance, prevails in the negotiation among its perspectives, winning their conflicts, persisting and resuming after interruption; signed by whether the system runs ahead of or behind a reference course along that ordering, and as intense as the ascendancy is strong'
 version: 1
 tags:
 - emotion-and-affect
@@ -15,7 +15,7 @@ summary: >-
   competing perspectives, "common currency" as the negotiation admitting
   an (at least instantaneous) ordering, and hedonic valence as "a
   circumstance in which a particular kind of ordering dominates the
-  dynamics". Dominance is read through Frijda's three marks of control
+  dynamics". Ascendancy is read through Frijda's three marks of control
   precedence ([THEORY-055](../theory.d/THEORY-055.md)); the kind of ordering is one over the system's
   own states by their bearing on its maintenance. Functional: it says
   nothing about whether the regime is felt.
@@ -24,7 +24,7 @@ used_by:
 ---
 <!-- inactive-ok-file: LIT-tmp63om1 — Unavailable, unread; Carver and Scheier 1990, read through Carver 2018 (LIT-tmpdmzgc) -->
 
-# TERM-tmp8gbrt: hedonic valence, organizational: a regime in which one ordering of a system's own states, ranked by their bearing on its maintenance, dominates the negotiation among its perspectives, winning their conflicts, persisting and resuming after interruption; signed by whether the system runs ahead of or behind a reference course along that ordering, and as intense as the dominance is strong
+# TERM-tmp8gbrt: hedonic valence, organizational: a regime in which one ordering of a system's own states, ranked by their bearing on its maintenance, prevails in the negotiation among its perspectives, winning their conflicts, persisting and resuming after interruption; signed by whether the system runs ahead of or behind a reference course along that ordering, and as intense as the ascendancy is strong
 
 ## Definition
 
@@ -36,7 +36,7 @@ the negotiation N_t that takes the profile of rankings and authorities
 to a collective relation R_t on X_t.
 
 - **A common currency at t**: R_t is complete and transitive on X_t.
-- **Dominance.** A ranking ≿_v dominates over an interval when it shows
+- **Ascendancy.** A ranking ≿_v prevails over an interval when it shows
   the three marks Frijda gives control precedence ([THEORY-055](../theory.d/THEORY-055.md)):
   - *priority*: on pairs where ≿_v and other perspectives disagree,
     R_t follows ≿_v;
@@ -48,7 +48,7 @@ to a collective relation R_t on X_t.
   the graded norm of Di Paolo's adaptivity ([THEORY-628](../theory.d/THEORY-628.md)), what [THEORY-045](../theory.d/THEORY-045.md)
   calls a regulatory state's meaning "for staying alive".
 - **Hedonic valence** is a regime in which a ranking of that kind
-  dominates across the organization's perspectives.
+  prevails across the organization's perspectives.
   - Its **sign** is whether the system runs ahead of or behind a
     reference course along ≿_v: ahead is positive, behind negative, on
     course neutral. This is Carver and Scheier's account, whose neutral
@@ -56,10 +56,21 @@ to a collective relation R_t on X_t.
     through [LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md) and [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md)): a system standing still
     where it expected to advance is behind. Comparing positions on an
     ordering needs no measure, so the clause stays ordinal.
-  - Its **intensity** is the strength of the dominance: how much of what
+  - Its **intensity** is the strength of the ascendancy: how much of what
     the other perspectives would decide it overrides.
 
 ## What it is not
+
+- **Not "dominance" in either of its established senses.** The term was
+  drafted with "dominance" and renamed before filing, on 2026-10-23,
+  because the word is taken twice. In affective science "dominance" is
+  the third axis of Mehrabian and Russell's pleasure–arousal–dominance
+  model, the felt sense of being in control, which Fontaine and
+  colleagues' power or control dimension continues; in decision theory a
+  dominated option is one worse on every count. Ascendancy is neither: it
+  is which ordering wins a negotiation. "Precedence" was not used either,
+  because CLAIM-283 uses it for the priority a motive claims, as against
+  the authority it is granted; ascendancy is what is granted.
 
 - **Not a felt state.** The term is functional. Whether the regime is
   felt is [QUESTION-059](../questions.d/QUESTION-059.md), and whether it is identical with felt valence is
@@ -67,12 +78,12 @@ to a collective relation R_t on X_t.
 - **Not frustration** ([TERM-060](TERM-060.md)). Frustration is a relation among
   demands that no admissible transformation meets jointly. Valence on
   this term presupposes it: where the perspectives never conflict, no
-  ranking has anything to dominate.
-- **Not any dominant goal.** A ranking of world states, however
-  dominant, is not valence until it ranks the system's own states by
-  their bearing on its maintenance. Whether a firm's dominant metric is a
+  ranking has anything to prevail over.
+- **Not any ascendant goal.** A ranking of world states, however
+  ascendant, is not valence until it ranks the system's own states by
+  their bearing on its maintenance. Whether a firm's ascendant metric is a
   ranking of that kind is a question about the firm ([QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md)).
 - **Not a scale.** Neither sign nor the ordering needs a measure. Where
-  the dominant ranking is continuous it has a numerical representation;
+  the ascendant ranking is continuous it has a numerical representation;
   where it is a graded lexicographic override it has none
   ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)).

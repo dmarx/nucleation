@@ -23,7 +23,7 @@ summary: >-
   electrodes" raise 'wanting' and leave 'liking' alone, and sensitized
   'wanting' can grow while the drug becomes less pleasant. Objective
   'liking' can occur without felt pleasure. For the record, this is the
-  sharpest test so far of "valence is dominance". Read as written, the
+  sharpest test so far of "valence is ascendancy". Read as written, the
   identity fails, and the dissociation calls for a hedonic marker measured
   apart from control.
 ---
@@ -186,10 +186,10 @@ distinction between decision and experienced utility in economics.
 
 ## Bearing on the record
 
-**Wanting without liking cuts against *valence is dominance* as written.**
-[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) makes hedonic valence a regime of dominance, whose
-intensity "is the strength of the dominance". Sensitized 'wanting' is
-dominance by every mark Frijda gives control precedence ([THEORY-055](../theory.d/THEORY-055.md)). The
+**Wanting without liking cuts against *valence is ascendancy* as written.**
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) makes hedonic valence a regime of ascendancy, whose
+intensity "is the strength of the ascendancy". Sensitized 'wanting' is
+ascendancy by every mark Frijda gives control precedence ([THEORY-055](../theory.d/THEORY-055.md)). The
 addict's drug-ranking wins conflicts against every other concern. It
 persists, and it resumes after abstinence when cues return. Yet, on the
 review's evidence, its 'liking' does not grow with it and may fall.
@@ -208,10 +208,10 @@ Four ways to rescue the claim were tried, and none is clean:
   patch.
 - *Sign, not intensity.* The review's own point is that dissociated
   'wanting' is "never neutral" and can be Tantalus's torment. On the
-  account, Tantalus is strong dominance with the system behind its course,
+  account, Tantalus is strong ascendancy with the system behind its course,
   so intense negative valence, which is right. That reading fits frustrated
   wanting. It does not fit the addict who *gets* the drug and enjoys it
-  less: dominance is strong, progress is ahead, and the account predicts
+  less: ascendancy is strong, progress is ahead, and the account predicts
   intense positive valence where 'liking' shows little.
 - *'Liking' is not valence.* One could say the account is about
   motivational valence and 'liking' is a different quantity, hedonic
@@ -219,18 +219,18 @@ Four ways to rescue the claim were tried, and none is clean:
   distinct from hedonic impact. But then the term's word "hedonic" is the
   wrong word. Its object would be what the review calls the valence of
   motivation, and the claim would no longer be about pleasure.
-- *Two regimes.* Within the record's own terms, dominance by an incentive
-  ordering and dominance by a maintenance ordering could be different
+- *Two regimes.* Within the record's own terms, ascendancy of an incentive
+  ordering and ascendancy of a maintenance ordering could be different
   regimes, only the second hedonic. That needs a way to tell the two
   orderings apart that does not use 'liking', and the record has none.
 
-The candid reading is this. Dominance, as defined, measures what Berridge
+The candid reading is this. Ascendancy, as defined, measures what Berridge
 calls 'wanting' better than what he calls 'liking'. The tranche supports
 separating the two in the record's vocabulary, not identifying either with
 "hedonic valence" by fiat.
 
 **It vindicates layer (2) and supplies a measure for it.** The record's
-plan measures dominance from conflicts won, separately from a hedonic
+plan measures ascendancy from conflicts won, separately from a hedonic
 marker that does not depend on choice. This review is the best argument
 that the two must be measured separately, since they come apart under
 known manipulations. Taste reactivity is a non-report, non-choice marker
@@ -246,11 +246,11 @@ pleasure, as the candidate needs. The review's evolutionary story, in which
 "hierarchical" circuitry translates core 'liking' into conscious feeling,
 has the same shape as Brouillet and Friston's felt fluency as "a
 hierarchically deeper representation" ([THEORY-662](../theory.d/THEORY-662.md)). But the deeper level
-it posits takes 'liking', not dominance, as its object. And the claim
+it posits takes 'liking', not ascendancy, as its object. And the claim
 that 'wanting' "may be appraised as a positive reward" even by the
 experiencing person implies something awkward. A self-model of one's own
-dominance could feel like pleasure while 'liking' is absent. If felt
-valence is the system's model of its dominance, the addict's felt craving
+ascendancy could feel like pleasure while 'liking' is absent. If felt
+valence is the system's model of its ascendancy, the addict's felt craving
 could be mistaken for pleasure, and the review says this can happen. That
 makes the candidate a theory of felt *motivation*, open to exactly that
 mistake. It is not obviously a theory of felt pleasure.
@@ -273,6 +273,6 @@ here. "Unconscious ‘liking’" in humans is cited, not shown.
 
 - Is there a non-taste, non-report marker of 'liking' that could serve as
   layer (2) outside the consummatory case?
-- Does 'liking' ever dominate, winning conflicts and persisting, without
+- Does 'liking' ever prevail, winning conflicts and persisting, without
   'wanting'? The review gives no case of liking-without-wanting, and
   opioid hotspot stimulation raises both.

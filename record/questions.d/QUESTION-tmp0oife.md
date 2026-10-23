@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'Can felt valence be operationalized, for systems that report and systems that cannot, by three layers measured independently, the dominance of an ordering in the system''s conflicts, a hedonic marker that does not depend on choice, and the system''s own model of its dominance, and do the layers dissociate where the ordering-dominance account and its rivals say they should?'
+title: 'Can felt valence be operationalized, for systems that report and systems that cannot, by three layers measured independently, the ascendancy of an ordering in the system''s conflicts, a hedonic marker that does not depend on choice, and the system''s own model of its ascendancy, and do the layers dissociate where the ordering-ascendancy account and its rivals say they should?'
 version: 1
 tags:
 - emotion-and-affect
@@ -10,28 +10,28 @@ date: '2026-10-23'
 line: organizational-affect
 summary: >-
   Filed at the owner's direction, 2026-10-23, after a survey of work near
-  the record's account of valence as ordering-dominance ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md))
+  the record's account of valence as ordering-ascendancy ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md))
   for ways to operationalize felt states. Three layers, each with
-  existing measures: dominance (a conflict record, estimated arbitration
+  existing measures: ascendancy (a conflict record, estimated arbitration
   weights); a hedonic marker independent of choice (taste reactivity,
   judgement bias, reports of experienced utility); and the system's model
-  of its own dominance (confidence and metacognition paradigms). The
+  of its own ascendancy (confidence and metacognition paradigms). The
   claims are tested where the layers come apart.
 ---
 <!-- inactive-ok-file: CLAIM-tmpe0iew THEORY-tmp0bbxk — Proposed; the objection and reading filed with this batch, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-tmptd5us QUESTION-tmpsqwu5 THEORY-662 — Proposed or Open; the account and candidate this question would test, cited as open -->
 
-# QUESTION-tmp0oife: Can felt valence be operationalized, for systems that report and systems that cannot, by three layers measured independently, the dominance of an ordering in the system's conflicts, a hedonic marker that does not depend on choice, and the system's own model of its dominance, and do the layers dissociate where the ordering-dominance account and its rivals say they should?
+# QUESTION-tmp0oife: Can felt valence be operationalized, for systems that report and systems that cannot, by three layers measured independently, the ascendancy of an ordering in the system's conflicts, a hedonic marker that does not depend on choice, and the system's own model of its ascendancy, and do the layers dissociate where the ordering-ascendancy account and its rivals say they should?
 
 ## Why it is a question
 
-[CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) is functional: valence is dominance of a negotiation by an
+[CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) is functional: valence is ascendancy of a negotiation by an
 ordering of the system's own states. [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) adds a candidate for
-when that regime is felt: when the system also models its dominance.
+when that regime is felt: when the system also models its ascendancy.
 Neither is testable until each layer can be measured without the others.
 
 **The three layers, with measures already in use elsewhere.**
-1. **Dominance.** Which ranking wins the system's conflicts, for how long,
+1. **Ascendancy.** Which ranking wins the system's conflicts, for how long,
    and whether it returns ([QUESTION-tmpsqwu5](QUESTION-tmpsqwu5.md)). For animals and people,
    arbitration weights estimated from choice, in the tradition of Daw,
    Niv and Dayan's uncertainty-based competition between controllers
@@ -42,7 +42,7 @@ Neither is testable until each layer can be measured without the others.
    affect; and moment-by-moment reports of experienced utility, which
    Kahneman, Wakker and Sarin separate from the decision utility that
    choice reveals.
-3. **The system's model of its own dominance.** Confidence and
+3. **The system's model of its own ascendancy.** Confidence and
    metacognitive report, or, for systems that cannot report, an internal
    variable that tracks layer 1 and is available to other processes, as
    Brouillet and Friston's felt fluency is an inference about a change in
@@ -57,12 +57,12 @@ Neither is testable until each layer can be measured without the others.
   [NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)) compare an agent with and without the level that models
   its own action-model precision: behaviour is the same while
   contingencies are stable and diverges after a reversal. A self-model of
-  dominance should show itself in how dominance is re-set after a change,
+  ascendancy should show itself in how ascendancy is re-set after a change,
   not in steady-state choice.
 
 **Where the layers should come apart.**
 - On [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), layers 1 and 2 coincide when a self-maintenance
-  ordering dominates. Wanting without liking already breaks that
+  ordering prevails. Wanting without liking already breaks that
   ([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md); the objection is [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)). Decision utility
   diverging from experienced utility does not, provided layer 1 is read
   within the episode ([QUESTION-tmpsqwu5](QUESTION-tmpsqwu5.md)).
@@ -71,7 +71,7 @@ Neither is testable until each layer can be measured without the others.
 - For organizations, layer 3 is the organization's reporting of what wins
   its conflicts to those who govern it. [CASE-151](../cases.d/CASE-151.md)'s board was told
   terminations were "in the range of 200-300", which, if the claim holds,
-  is a mis-modelled dominance, not an absent one.
+  is a mis-modelled ascendancy, not an absent one.
 
 ## What would count as an answer
 

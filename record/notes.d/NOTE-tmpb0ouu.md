@@ -106,9 +106,9 @@ Tversky on loss aversion as a negativity bias.
 ## Bearing on the record
 
 The record's proposal ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) makes hedonic
-valence dominance by one ordering of a system's own states. It reads
-ambivalence as "either no ordering at all … or split dominance", and
-neutrality as "dominance with no movement". The ESM bears on this in
+valence ascendancy of one ordering of a system's own states. It reads
+ambivalence as "either no ordering at all … or split ascendancy", and
+neutrality as "ascendancy with no movement". The ESM bears on this in
 five ways.
 
 - **The distinction is anticipated.** That ambivalence is not neutrality,
@@ -117,15 +117,15 @@ five ways.
   expression"). The proposal should cite the ESM for it.
 - **The ESM puts the difference in a different place.** For the ESM both
   states are positions in a two-channel *activation* space, low-low and
-  high-high. For the proposal they are properties of the *dominance
+  high-high. For the proposal they are properties of the *ascendancy
   structure* among perspectives. The ESM's ambivalence still produces an
   ordering: the net predisposition is a single number, "middling". So
-  "no ordering at all" is not the ESM's ambivalence. Split dominance is
+  "no ordering at all" is not the ESM's ambivalence. Split ascendancy is
   closer. Two channels each strongly active, pulling toward approach and
-  toward avoidance, can be read as two rankings each dominating part of
+  toward avoidance, can be read as two rankings each prevailing part of
   the system. But the ESM combines them into one output and does not
   describe them as perspectives that win conflicts. The proposal's
-  "split dominance" is therefore a reinterpretation of coactivation, not
+  "split ascendancy" is therefore a reinterpretation of coactivation, not
   a restatement of it. It owes an argument that the two channels are
   perspectives in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense.
 - **The same-output result is a warning for measurement.** If neutral
@@ -143,8 +143,8 @@ five ways.
   nothing to choose between up and down. The ESM's negativity bias
   ("The gain for the negative activation function is higher") and
   positivity offset are asymmetries the proposal does not predict. If
-  intensity is dominance strength, the negativity bias says downward
-  movement dominates more strongly than equal upward movement. That is
+  intensity is ascendancy strength, the negativity bias says downward
+  movement prevails more strongly than equal upward movement. That is
   compatible with the proposal, but must be added to it.
 - **Heterarchy bears on [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s defeater.** The ESM says
   "different modes of activation" can "be dominant or prevail depending
@@ -172,7 +172,7 @@ on maintenance.
 
 ## Open questions
 
-Whether coactivation is two dominant rankings or one ranking with high
-input on both sides. Whether a positivity offset means the dominant
+Whether coactivation is two ascendant rankings or one ranking with high
+input on both sides. Whether a positivity offset means the ascendant
 ordering has a positive default slope at rest, which would make the
 proposal's neutral point, no movement, mildly positive.

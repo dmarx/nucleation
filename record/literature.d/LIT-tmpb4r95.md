@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'registered 2026-10-23, not yet sought: named in the reading of Carver (2018) as the paper in which positive affect is said to lower a goal''s priority, which would conflict with the record''s reading of valence intensity as the strength of an ordering''s dominance ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). To be read before that clause is promoted.'
+status_note: 'registered 2026-10-23, not yet sought: named in the reading of Carver (2018) as the paper in which positive affect is said to lower a goal''s priority, which would conflict with the record''s reading of valence intensity as the strength of an ordering''s ascendancy ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). To be read before that clause is promoted.'
 title: 'Pleasure as a sign you can attend to something else: Placing positive feelings within a general model of affect'
 version: 1
 history:
@@ -29,7 +29,7 @@ summary: >-
   places positive feelings in a control-process model of affect as a sign
   that one can attend to something else. Unread: registered so that the
   claim that positive affect releases a goal's priority, which bears
-  against reading valence intensity as dominance strength, is checked
+  against reading valence intensity as ascendancy strength, is checked
   against the paper.
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli — Proposed; the claim this paper may bear against, cited as open -->
@@ -44,5 +44,5 @@ Registered on 2026-10-23, unread, with the readings of the control-process
 account of affect ([LIT-tmp63om1](LIT-tmp63om1.md), read through [LIT-tmpdmzgc](LIT-tmpdmzgc.md)). The reading
 of Carver (2018), [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md), names it as where positive affect is
 said to lower a goal's priority. If so, it bears against [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s
-reading of intensity as the strength of an ordering's dominance, at least
+reading of intensity as the strength of an ordering's ascendancy, at least
 for positive valence, and should be read before that clause is promoted.

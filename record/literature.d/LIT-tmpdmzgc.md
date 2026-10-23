@@ -88,7 +88,7 @@ DOI-10.1080/1047840X.2018.1513681
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is a
-regime in which one ordering of a system's own states dominates the
+regime in which one ordering of a system's own states prevails in the
 negotiation among its perspectives ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). It is
 the only first-hand statement of Carver and Scheier's affect account that
 the record could reach lawfully. The 1990 paper ([LIT-tmp63om1](LIT-tmp63om1.md))
@@ -99,9 +99,9 @@ out in [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md). In short:
   difference that matters: their neutral point is a reference rate, not
   rest;
 - their account puts a valence on every goal loop and has no single
-  dominant ordering;
+  ascendant ordering;
 - their priority juggling is the nearest thing in the tradition to the
-  proposal's dominance.
+  proposal's ascendancy.
 
 Its loop vocabulary is Powers's ([LIT-1179](LIT-1179.md), [LIT-1188](LIT-1188.md), [LIT-1197](LIT-1197.md)).
 

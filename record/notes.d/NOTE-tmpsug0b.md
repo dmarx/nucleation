@@ -106,7 +106,7 @@ record's [LIT-067](../literature.d/LIT-067.md) is Debreu's 1952 equilibrium theo
 ## Bearing on the record
 
 The record's proposal reads Veit's "common currency" ([THEORY-101](../theory.d/THEORY-101.md)) and
-ALARM's override ([THEORY-090](../theory.d/THEORY-090.md)) as continuous and lexicographic dominant
+ALARM's override ([THEORY-090](../theory.d/THEORY-090.md)) as continuous and lexicographic ascendant
 orderings ([CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)). It rests the difference on [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md):
 an ordering is a currency where it has a numerical representation, and
 the lexicographic order has none. §4.6 bears on this as follows.
@@ -145,12 +145,12 @@ the lexicographic order has none. §4.6 bears on this as follows.
     is what "no resource buys the cost" describes.
   - **A cost-only override.** Above the threshold, options are ranked
     only by cost and the resource is ignored. This is also representable.
-  - **The non-representable case.** The cost dominates *at every level
+  - **The non-representable case.** The cost prevails *at every level
     across a continuum*, and the resource breaks ties only between equal
     costs. This is Debreu's R² example, and only this has no currency.
 
   So the test as worded separates continuous from discontinuous
-  dominance, not currency from no currency. [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s phrase "a
+  ascendancy, not currency from no currency. [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s phrase "a
   lexicographic override lies in the gap" is true only of the third
   case. ALARM's "100% weight", as [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) operationalises it, is
   the first case and has a currency. Either the two claims should say

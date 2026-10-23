@@ -132,10 +132,10 @@ episodes" (p. 225). Scherer's model is read in [LIT-tmpfjacn](../literature.d/LI
 ## Bearing on the record
 
 **Does Lewis's attractor account already contain "an ordering coming to
-dominate"?** It contains the *dynamics* of dominance almost exactly, and
+dominate"?** It contains the *dynamics* of ascendancy almost exactly, and
 not the *ordering*.
 
-- **The dynamics.** The record's term reads dominance through Frijda's
+- **The dynamics.** The record's term reads ascendancy through Frijda's
   three marks ([THEORY-055](../theory.d/THEORY-055.md)). Lewis's account has all three. Priority: an
   EI must "take over" the psychological system (p. 176), and its
   constituents "lose their independence and become embedded in a larger
@@ -146,10 +146,10 @@ not the *ordering*.
   (p. 177). It also has what [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) needs and Frijda's marks do
   not supply. One wins "from competing ensembles" (p. 177), "only one of
   these converges at a time" (p. 175), and losing is real: Lewis's
-  oscillating Mr. Smart is the record's split or alternating dominance,
+  oscillating Mr. Smart is the record's split or alternating ascendancy,
   its reading of ambivalence. And it has no regulator above the
   competitors, which is [THEORY-056](../theory.d/THEORY-056.md)'s point.
-- **What it lacks.** What dominates in Lewis is an *interpretation*, a
+- **What it lacks.** What prevails in Lewis is an *interpretation*, a
   configuration of appraisal and emotion constituents. It is not a
   ranking of options, and so it is not the kind of thing that can be a
   currency or fail to be one. Nothing in the account ranks the system's
@@ -157,11 +157,11 @@ not the *ordering*.
   something the orbitofrontal cortex "attends to" in anticipated events
   (p. 179). There is no sign clause and no account of intensity beyond
   the degree of synchrony. So the proposal's two distinctive moves are
-  not in Lewis. One is that what dominates is an ordering, which makes
+  not in Lewis. One is that what prevails is an ordering, which makes
   [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s question of currency askable. The other is that the
   ordering is of a particular kind, which makes the regime valence.
   Lewis supplies a dynamical mechanism by which such an ordering could
-  come to dominate, and a precedent the record should cite rather than
+  come to prevail, and a precedent the record should cite rather than
   rediscover.
 
 **On the regimes of [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md).** Lewis's dynamics are threshold-rich
@@ -179,7 +179,7 @@ record the animal's prior state.
 **On measurement.** Lewis's phase synchrony is an operational measure,
 EEG or LFP phase locking, but of coherence among regions, not of which
 ranking governs action. For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) it is a candidate marker
-of dominance strength, and needs pairing with a behavioural record of
+of ascendancy strength, and needs pairing with a behavioural record of
 which conflicts are won.
 
 **On [CLAIM-283](../claims.d/CLAIM-283.md).** In Lewis's account, the authority a configuration is

@@ -25,8 +25,8 @@ summary: >-
   neglect, and choices follow remembered utility, so people choose
   dominated painful episodes. Total utility is axiomatized as a time
   integral of ordinal instant utility with a neutral zero. For the record,
-  the dissociation is not a counterexample to dominance read within the
-  moment. It shows that dominance read from deferred choices measures
+  the dissociation is not a counterexample to ascendancy read within the
+  moment. It shows that ascendancy read from deferred choices measures
   memory, and that a system's model of its own past states is
   systematically biased.
 ---
@@ -152,24 +152,24 @@ experiencing and remembering selves for a general audience.
 ## Bearing on the record
 
 **Is decision against experienced utility a counterexample to *valence is
-dominance*? Not directly, but it constrains how dominance may be
+ascendancy*? Not directly, but it constrains how ascendancy may be
 measured.** The cold-water subjects pull their hands out "as soon as they
 were allowed to" (p. 387). In the moment, pain wins its conflict, as the
 "stop" signal that "interrupts activities that are causing harm". That is
 control precedence, and KWS's functional gloss on instant utility is close
-to the record's reading of dominance ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), [THEORY-055](../theory.d/THEORY-055.md)). The
+to the record's reading of ascendancy ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), [THEORY-055](../theory.d/THEORY-055.md)). The
 dissociation is elsewhere: between instant utility and choices made later
 between remembered episodes. Two things follow for [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md):
 
-- If dominance is read from *deferred* choices between episodes, it
+- If ascendancy is read from *deferred* choices between episodes, it
   measures remembered utility, and remembered utility diverges from
   instant utility. So layer (1) must be measured on conflicts won *during*
   the episode, not inferred from later preference. [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) should
   say so.
-- The dissociation is not a case of strong dominance with weak valence, as
+- The dissociation is not a case of strong ascendancy with weak valence, as
   Berridge's is. It is a case of one ordering (the moment's) being
   replaced by another (memory's) across time. On the account that is a
-  change of which ordering dominates, and it can be described without
+  change of which ordering prevails, and it can be described without
   contradiction.
 
 **For layer (2), instant utility is the record's hedonic marker in
@@ -183,7 +183,7 @@ physiological indices is the better route.
 is a warning.** Remembered utility is a system's model of its own past
 hedonic states, and KWS show that this model is systematically wrong: it
 neglects duration and weights peak and end. If "felt" means the system
-models its own dominance, and the model is read off by asking the system
+models its own ascendancy, and the model is read off by asking the system
 retrospectively, it will inherit these biases. So layer (3) cannot be
 validated against retrospective report. It needs a concurrent measure, or
 a comparison like Hesp et al.'s ([LIT-tmpvgq87](../literature.d/LIT-tmpvgq87.md)), where the
@@ -215,5 +215,5 @@ episodes, which the authors grant fails for radically different situations
   within-episode analogue of taste reactivity, that could serve layer (2)
   in humans?
 - Does a system's remembered utility count as a model of its own
-  dominance? If so, is the felt-as-self-model candidate a claim about
+  ascendancy? If so, is the felt-as-self-model candidate a claim about
   remembered or about instant valence?

@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. Looked for on 2026-10-23. Unpaywall reports no open copy. The journal (APA, Psychological Review) is closed. A web search found the APA record, DeepDyve (paid), ERIC (EJ494079, record only), a Widener University file that is a reference list citing it, and Carnegie Mellon''s KiltHub record of a later Carver and Scheier chapter (2012, no file attached). The only full text seen was an author upload on ResearchGate, which this record does not use. Europe PMC has no open copy of it or of any other Carver statement of the model before 2018. The model is read first-hand, briefly, in Carver''s 2018 author manuscript in PubMed Central ([LIT-tmpdmzgc](LIT-tmpdmzgc.md)), which restates that affect tracks the velocity of goal attainment against a reference value. Filed for the record''s account of valence as dominance by an ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), whose sign clause this paper anticipates. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. Looked for on 2026-10-23. Unpaywall reports no open copy. The journal (APA, Psychological Review) is closed. A web search found the APA record, DeepDyve (paid), ERIC (EJ494079, record only), a Widener University file that is a reference list citing it, and Carnegie Mellon''s KiltHub record of a later Carver and Scheier chapter (2012, no file attached). The only full text seen was an author upload on ResearchGate, which this record does not use. Europe PMC has no open copy of it or of any other Carver statement of the model before 2018. The model is read first-hand, briefly, in Carver''s 2018 author manuscript in PubMed Central ([LIT-tmpdmzgc](LIT-tmpdmzgc.md)), which restates that affect tracks the velocity of goal attainment against a reference value. Filed for the record''s account of valence as ascendancy of an ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), whose sign clause this paper anticipates. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Origins and functions of positive and negative affect: A control-process view'
 version: 1
 history:
@@ -70,7 +70,7 @@ paper.
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is a
-regime in which one ordering of a system's own states dominates the
+regime in which one ordering of a system's own states prevails in the
 negotiation among its perspectives ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). That claim already
 names "Carver and Scheier's rate-of-progress account" as prior art for
 its sign clause, and gives [LIT-604](LIT-604.md) as the place it is registered. This is
@@ -83,12 +83,12 @@ worded. They should be checked against this paper once it is read:
 - **Neutral is not "no movement".** On Carver and Scheier's account
   valence is neutral when progress matches a reference *rate*. A system
   standing still where it expects to advance should feel bad. The
-  proposal's "Neutral is dominance with no movement" makes zero velocity
+  proposal's "Neutral is ascendancy with no movement" makes zero velocity
   the neutral point.
 - **Valence belongs to each goal loop, not to one ordering.** Every loop
   that monitors its own rate of progress has an affect of its own. The
   proposal asks for one ordering, ranking states by their bearing on
-  maintenance, to dominate.
+  maintenance, to prevail.
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.

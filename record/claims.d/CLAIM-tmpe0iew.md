@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Dominance of an ordering, as the ordering-dominance account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
+title: 'Ascendancy of an ordering, as the ordering-ascendancy account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
 version: 1
 role: counter
 warrant: empirical
@@ -17,21 +17,21 @@ grounds:
 - LIT-tmpvgq87
 summary: >-
   Raised by the reading of Berridge and Kringelbach ([NOTE-tmprub8s](../notes.d/NOTE-tmprub8s.md)) filed
-  on 2026-10-23 for the ordering-dominance account. Sensitized 'wanting'
+  on 2026-10-23 for the ordering-ascendancy account. Sensitized 'wanting'
   meets all three of Frijda's marks of control precedence, which
-  [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) uses to define dominance, while 'liking' stays flat or
+  [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) uses to define ascendancy, while 'liking' stays flat or
   falls. That is [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md)'s own defeater, intensity that does not
   track control precedence. Hesp et al. ([NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)) concede the same
   of their account, which puts valence in the system's model of its own
-  dominance rather than in the dominance.
+  ascendancy rather than in the ascendancy.
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli THEORY-tmp0bbxk TERM-tmp8gbrt CLAIM-tmptd5us — Proposed; the claim this objects to, the reading it rests on, and the term and candidate it bears on, cited as open -->
 
-# CLAIM-tmpe0iew: Dominance of an ordering, as the ordering-dominance account of valence defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
+# CLAIM-tmpe0iew: Ascendancy of an ordering, as the ordering-ascendancy account of valence defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
 
 ## The objection
 
-[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) defines dominance by Frijda's three marks: priority in
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) defines ascendancy by Frijda's three marks: priority in
 conflicts, persistence, resumption after interruption. Sensitized
 'wanting' has all three. Lateral-hypothalamic stimulation made rats "'want'
 to eat at least four times more than normal amounts" while it "failed to
@@ -44,13 +44,13 @@ taste reactivity without report, is not.
 control precedence". Here it does not.
 
 **The rescues tried, and why none is clean.**
-- **The kind clause.** The dominant ordering must rank the system's own
+- **The kind clause.** The ascendant ordering must rank the system's own
   states by their bearing on its maintenance. But hunger's 'wanting' is
   about maintenance, and it can be dissociated from 'liking' too.
 - **The sign clause.** Tantalus, who wants and never gets, is behind his
   course, and his negative valence fits. The addict who gets the drug and
   enjoys it less is ahead of the course the 'wanting' sets, with strong
-  dominance and low 'liking'. The sign clause gives the wrong answer.
+  ascendancy and low 'liking'. The sign clause gives the wrong answer.
 
 **So the regime the claim defines is motivational valence.** It is what
 Berridge calls 'wanting', and Berridge says it is valenced: "Motivational
@@ -66,22 +66,22 @@ hedonic valence is anywhere in the record's account, [CLAIM-tmptd5us](CLAIM-tmpt
 self-model is the candidate place. But [CLAIM-tmptd5us](CLAIM-tmptd5us.md) makes the
 self-model what makes valence felt, not what makes it hedonic, and
 Berridge notes that 'wanting' can itself be appraised as pleasure, so a
-model of dominance may yield felt motivation rather than felt pleasure.
+model of ascendancy may yield felt motivation rather than felt pleasure.
 
 ## What it does not say
 
-- That the ordering-dominance account is wrong about motivational
+- That the ordering-ascendancy account is wrong about motivational
   valence. The objection grants it there.
-- That 'liking' cannot be ordering-dominance of some other ordering. It
+- That 'liking' cannot be ordering-ascendancy of some other ordering. It
   says the ordering that wins the system's conflicts is not, in the
   dissociation cases, the one 'liking' tracks.
 
 ## What would answer it
 
-A reading of 'liking' as dominance by a different ordering than the one
+A reading of 'liking' as ascendancy of a different ordering than the one
 'wanting' sets, for instance an ordering over the system's consummatory
 states rather than its pursuits, with taste reactivity tracking that
-ordering's dominance in the dissociation cases; or a revision of
+ordering's ascendancy in the dissociation cases; or a revision of
 [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) and [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) from hedonic to motivational valence,
 conceding the objection, with hedonic valence left to another account.
 The second is the owner's decision.

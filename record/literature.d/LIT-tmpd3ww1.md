@@ -94,6 +94,6 @@ of Economics* 112(2):375–405 — DOI-10.1162/003355397555235
 Filed on 2026-10-23 for the record's plan to measure felt valence in three
 independent layers ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). Its instant utility is a hedonic
 marker measured in real time (layer 2). Its decision utility is close to
-what dominance measured from conflicts won would read (layer 1). Its
+what ascendancy measured from conflicts won would read (layer 1). Its
 dissociation of the two through remembered utility is a warning about how
 to measure both. Read in [NOTE-tmpj69i0](../notes.d/NOTE-tmpj69i0.md).

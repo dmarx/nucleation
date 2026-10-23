@@ -116,7 +116,7 @@ nothing here shows the cost a given resource will buy.
 feeding rises steadily as the alternative gets poorer, from 0.28 against
 a 40% alternative to 0.82 against 20% and 1.00 against 10%. Nowhere does
 the heat override the resource: against a 10% alternative every bee fed
-only from the heated feeders. That is compensatory dominance in
+only from the heated feeders. That is compensatory ascendancy in
 [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s sense, at least for this cost. But it does not test the
 claim's question. A level threshold, ALARM's override ([THEORY-090](../theory.d/THEORY-090.md)), would
 appear as a cost above which no sucrose difference brings the bee back.
@@ -136,13 +136,13 @@ has been fitted. The deposited data could be refitted with a step
 model against a smooth one, and a single cost level would still limit
 the result.
 
-**On dominance.** For [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) the trade-off is a negotiation
+**On ascendancy.** For [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) the trade-off is a negotiation
 between a heat-avoidance ranking and a sucrose ranking, in which neither
-dominates outright. The heat's influence grows as the sucrose difference
+prevails outright. The heat's influence grows as the sucrose difference
 shrinks. Where the two offers are equal it decides the bee's feeding
 about two to one (0.28 against 0.72), and where the difference is large
-it decides nothing. On the claim's reading that intensity is the strength of dominance, this is
-a regime of weak, compensatory dominance by the cost ranking. The
+it decides nothing. On the claim's reading that intensity is the strength of ascendancy, this is
+a regime of weak, compensatory ascendancy of the cost ranking. The
 record of which ranking each choice followed, which [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)
 asks for, is here only at the level of group proportions.
 

@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and hedonic valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance dominates the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the dominant ordering, its intensity is the strength of the dominance, and ambivalence, where no ordering dominates, differs from neutrality, where one dominates and the organization keeps to its course'
+title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and hedonic valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the ascendant ordering, its intensity is the strength of the ascendancy, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course'
 version: 1
 role: thesis
 warrant: interpretive
@@ -48,7 +48,7 @@ summary: >-
   think our earlier results equip us to reframe 'common currency' as
   'admits an (at least instantaneous) ordering'. we could then formalize
   a hedonic valence as a circumstance in which a particular kind of
-  ordering dominates the dynamics." Worked through the same day: dominance
+  ordering dominates the dynamics." Worked through the same day: ascendancy
   read through Frijda's marks of control precedence, the kind of ordering
   fixed as one over the system's own states, and five consequences drawn.
 supports:
@@ -61,7 +61,7 @@ objected_by:
 <!-- inactive-ok-file: LIT-tmp63om1 LIT-tmpglbdp LIT-tmpj2mcy LIT-tmpb4r95 — Unavailable or Deferred, unread; the papers that state the accounts read here through later work by the same authors, and the one to read next -->
 <!-- inactive-ok-file: CLAIM-039 CLAIM-283 CLAIM-347 CLAIM-355 CLAIM-368 THEORY-055 THEORY-056 THEORY-101 TERM-tmp8gbrt — Proposed; the claims, readings and term this claim rests on or is stated in, cited as open; it is Proposed with them -->
 
-# CLAIM-tmpz8lli: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and hedonic valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance dominates the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the dominant ordering, its intensity is the strength of the dominance, and ambivalence, where no ordering dominates, differs from neutrality, where one dominates and the organization keeps to its course
+# CLAIM-tmpz8lli: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and hedonic valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the ascendant ordering, its intensity is the strength of the ascendancy, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
 
 ## The claim
 
@@ -90,7 +90,7 @@ multiple control systems" ([THEORY-101](../theory.d/THEORY-101.md)) does two job
 that the options faced can be traded off, and sharing, so that one
 evaluation governs many control systems. The first is the negotiation's
 output being an ordering of the options at the instant; the second is
-part 3's dominance. This is the owner's correction of 2026-10-17 carried
+part 3's ascendancy. This is the owner's correction of 2026-10-17 carried
 over ([CLAIM-347](CLAIM-347.md): "We can do quite a lot with access to an ordering, even
 if it doesn't give us a true measure"). Two facts keep it from being a
 relabelling. A negotiation need not produce an ordering: Sen's theorem
@@ -98,26 +98,26 @@ relabelling. A negotiation need not produce an ordering: Sen's theorem
 and an unrestricted domain cannot always yield a best element. And an
 ordering need not be a currency ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md)).
 
-**3. Hedonic valence is dominance by an ordering of a particular kind.**
+**3. Hedonic valence is ascendancy of an ordering of a particular kind.**
 The ordering ranks the system's own states by their bearing on its
-maintenance, and it dominates: it wins the negotiation's conflicts,
+maintenance, and it prevails: it wins the negotiation's conflicts,
 persists, and resumes after interruption ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)).
 
-**What is not new here.** The dynamics of dominance are Lewis's ([LIT-tmpj284p](../literature.d/LIT-tmpj284p.md),
+**What is not new here.** The dynamics of ascendancy are Lewis's ([LIT-tmpj284p](../literature.d/LIT-tmpj284p.md),
 [NOTE-tmpz7wab](../notes.d/NOTE-tmpz7wab.md)): an emotional interpretation must "take over" the system,
 entrained elements "lose their independence and become embedded in a
 larger regime", and of competing attractors "only one of these converges
 at a time" (pp. 174–176). Scherer's definition of emotion already holds
 [CLAIM-283](CLAIM-283.md)'s distinction: "claiming (not always successfully) priority"
 ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md), [NOTE-tmpsx1uk](../notes.d/NOTE-tmpsx1uk.md), §1). What this claim adds is that what
-dominates is an ordering, which makes the currency question askable
+prevails is an ordering, which makes the currency question askable
 ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md)), and an ordering of a particular kind, which is what
 makes the regime valence. Neither Lewis nor Scherer gives the regime a
 sign.
 
 ## What follows
 
-1. **No frustration, no valence.** Dominance needs something to dominate.
+1. **No frustration, no valence.** Ascendancy needs something to prevail over.
    Where the perspectives never conflict, the compatibility complex of
    [CLAIM-347](CLAIM-347.md) has no minimal non-faces and no ranking wins anything. A
    thermostat, one loop with one ranking, has no valence on this account.
@@ -128,7 +128,7 @@ sign.
    line ([CLAIM-347](CLAIM-347.md), [CLAIM-368](CLAIM-368.md)), not an addition to it.
 2. **Sign is progress against a reference course, and needs only the
    ordering.** Positive when the system runs ahead of where it was
-   expected to be on the dominant ranking, negative when behind, neutral
+   expected to be on the ascendant ranking, negative when behind, neutral
    on course. This clause is Carver and Scheier's ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md), read
    through Carver 2018, [LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md), [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md)): affect as the
    velocity of progress against a reference value "at which affective
@@ -137,17 +137,17 @@ sign.
    expected to advance is behind. Comparing positions on an ordering
    needs no measure, so the clause stays ordinal. What is the record's
    and not theirs is that the ordering progress is read on is the one
-   that dominates. Carver gives each goal loop its own valence; here
-   there is one valence, the dominant ordering's.
-3. **Intensity is dominance strength.** How much of what the other
-   perspectives would decide the dominant ranking overrides. [THEORY-055](../theory.d/THEORY-055.md)
+   that prevails. Carver gives each goal loop its own valence; here
+   there is one valence, the ascendant ordering's.
+3. **Intensity is ascendancy strength.** How much of what the other
+   perspectives would decide the ascendant ranking overrides. [THEORY-055](../theory.d/THEORY-055.md)
    cites evidence that rated control precedence tracks rated intensity
    (Sonnemans and Frijda 1994, not read here); on this account that is
    because they are one quantity. The clause is the record's, and it has
    a known difficulty for positive valence: Carver (2003, [LIT-tmpb4r95](../literature.d/LIT-tmpb4r95.md),
    unread) is reported to hold that positive affect lowers a goal's
    priority, freeing attention for something else. If so, strong
-   positive affect would go with weakening dominance, not strong. Until
+   positive affect would go with weakening ascendancy, not strong. Until
    that paper is read, this clause is held for negative valence only.
    Hesp et al. ([LIT-tmpvgq87](../literature.d/LIT-tmpvgq87.md), [NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)) cut against it there too:
    in their model negative valence is a weakening of the preference
@@ -160,9 +160,9 @@ sign.
    "can be reciprocally activated, independently activated or
    co-activated", and coactivation, ambivalence, yields "the same middling
    expression on the affective response surface" as neutrality. The
-   record's reading differs. Neutral is dominance with the system on its
+   record's reading differs. Neutral is ascendancy with the system on its
    course. Ambivalence is either no ordering at all, when the negotiation
-   fails as Sen's theorem allows, or split dominance, one ranking winning
+   fails as Sen's theorem allows, or split ascendancy, one ranking winning
    among some perspectives and another among the rest. Two things are
    owed: an argument that the model's two channels are perspectives in
    this sense, and, since both readings agree that ambivalent and
@@ -172,16 +172,16 @@ sign.
    independent markers. The model's asymmetries, a higher gain for
    negativity and a positivity offset, are not predicted by anything
    here.
-5. **Two dominance regimes.** Dominance can be compensatory, the
-   dominant ranking trading off against others in proportion, or
+5. **Two ascendancy regimes.** Ascendancy can be compensatory, the
+   ascendant ranking trading off against others in proportion, or
    lexicographic, the others deciding only its ties. [CLAIM-tmp85p0g](CLAIM-tmp85p0g.md)
    shows the first has a currency and the second none, and
    [CLAIM-tmp83ge2](CLAIM-tmp83ge2.md) reads Veit and ALARM as these two regimes.
 
 ## The objection it faces
 
-[CLAIM-tmpe0iew](CLAIM-tmpe0iew.md): dominance as defined tracks 'wanting', not 'liking'.
-Sensitized incentive salience meets all three marks of dominance while
+[CLAIM-tmpe0iew](CLAIM-tmpe0iew.md): ascendancy as defined tracks 'wanting', not 'liking'.
+Sensitized incentive salience meets all three marks of ascendancy while
 hedonic impact, measured by taste reactivity, stays flat or falls
 ([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md)). That is this claim's own second defeater. If the
 objection stands, the regime defined here is motivational valence, and
@@ -197,10 +197,10 @@ to revise them is the owner's decision.
   counterfactual eraser ([THEORY-252](../theory.d/THEORY-252.md)) bears on it too: priority,
   persistence and resumption are dispositional, so an identity of feeling
   with this regime would be an identity with a functional role, unless
-  dominance is defined by conflicts actually won over an interval.
+  ascendancy is defined by conflicts actually won over an interval.
 - **How perspectives are individuated.** The claim takes them as given,
   as [TERM-072](../terms.d/TERM-072.md) does; individuating them without circularity is not this
   claim's business.
-- **How dominance is measured.** [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md).
-- **What happens when the dominant ordering ranks a proxy for
+- **How ascendancy is measured.** [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md).
+- **What happens when the ascendant ordering ranks a proxy for
   maintenance rather than maintenance.** [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md).

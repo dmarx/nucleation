@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'When the ordering that dominates a system''s negotiation ranks its states by a proxy for its maintenance rather than by its maintenance, as a firm''s dominant metric may, is that valence, and is it the form that metric fixation in organizations and addiction in persons share?'
+title: 'When the ordering that prevails a system''s negotiation ranks its states by a proxy for its maintenance rather than by its maintenance, as a firm''s ascendant metric may, is that valence, and is it the form that metric fixation in organizations and addiction in persons share?'
 version: 1
 tags:
 - emotion-and-affect
@@ -10,22 +10,22 @@ tags:
 date: '2026-10-23'
 line: organizational-affect
 summary: >-
-  [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) restricts valence to dominance by an ordering of the
-  system's own states by their bearing on its maintenance. A dominant
+  [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) restricts valence to ascendancy of an ordering of the
+  system's own states by their bearing on its maintenance. A ascendant
   ordering can instead rank them by a proxy that has come apart from
   maintenance. Wells Fargo's cross-sell metric ([CASE-151](../cases.d/CASE-151.md)) is a candidate:
   treated as the firm's standing, it was not its viability. The question
-  is whether such dominance is valence, and whether it is a common form of
+  is whether such ascendancy is valence, and whether it is a common form of
   organizational metric fixation and of addiction.
 ---
 <!-- inactive-ok-file: TERM-tmp8gbrt — Proposed; the term whose restriction this tests, cited as open -->
 
-# QUESTION-tmprsrxs: When the ordering that dominates a system's negotiation ranks its states by a proxy for its maintenance rather than by its maintenance, as a firm's dominant metric may, is that valence, and is it the form that metric fixation in organizations and addiction in persons share?
+# QUESTION-tmprsrxs: When the ordering that prevails a system's negotiation ranks its states by a proxy for its maintenance rather than by its maintenance, as a firm's ascendant metric may, is that valence, and is it the form that metric fixation in organizations and addiction in persons share?
 
 ## Why it is a question
 
 [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s restriction, to an ordering of the system's own states by
-their bearing on its maintenance, keeps any dominant goal from counting as
+their bearing on its maintenance, keeps any ascendant goal from counting as
 valence. But a system can rank its own states by a proxy that once
 tracked maintenance and has come apart from it.
 
@@ -35,9 +35,9 @@ tracked maintenance and has come apart from it.
   and complaints. It was not the bank's viability, which the practices it
   rewarded endangered. [CLAIM-432](../claims.d/CLAIM-432.md) reads that case as threat without
   remorse; this question asks what kind of valence, if any, the metric's
-  dominance was.
+  ascendancy was.
 - **The personal case.** In addiction a reward signal that once tracked
-  the organism's maintenance comes to dominate its choices against it.
+  the organism's maintenance comes to govern its choices against it.
   The record holds Ainslie on the breakdown of will ([LIT-586](../literature.d/LIT-586.md)), which may
   bear on this.
 
@@ -45,7 +45,7 @@ tracked maintenance and has come apart from it.
 
 A criterion that says when an ordering over a system's own states is "by
 their bearing on its maintenance" and when it is by a proxy, applicable
-to both cases; and a verdict on whether proxy-keyed dominance is valence
+to both cases; and a verdict on whether proxy-keyed ascendancy is valence
 of a distinct kind, mis-keyed valence, or not valence at all.
 
 ## What would not answer it

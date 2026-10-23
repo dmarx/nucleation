@@ -15,7 +15,7 @@ history:
     only joined to a denial that a corporation is conscious, by modus
     tollens; the defeater now says so. The statement is unchanged. A
     dated note relates the claim to the reading of valence as
-    ordering-dominance (CLAIM-tmpz8lli).
+    ordering-ascendancy (CLAIM-tmpz8lli).
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -191,7 +191,7 @@ claim:
   fear. The prediction in part 5 is what would tell; the report does not.
 - That the four routes are exhaustive or equally weighty.
 
-## Note of 2026-10-23: the defeater corrected, and valence as ordering-dominance
+## Note of 2026-10-23: the defeater corrected, and valence as ordering-ascendancy
 
 Version 1's defeater misread [THEORY-101](../theory.d/THEORY-101.md). Veit does not add a phenomenal
 condition the corporation might fail; he identifies felt valence with a
@@ -201,13 +201,13 @@ argument that a corporation feels nothing, such as List's ([NOTE-340](../notes.d
 which runs through IIT's exclusion postulate, an anti-nesting principle
 [THEORY-043](../theory.d/THEORY-043.md) holds unprincipled so far. The defeater now states that route.
 
-The same day the owner recast valence as dominance of the negotiation
+The same day the owner recast valence as ascendancy of the negotiation
 among an organization's perspectives by an ordering of its own states
 ([CLAIM-tmpz8lli](CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). In those terms the claim sharpens.
-Remorse is others' harm entering the dominant ordering; threat without
+Remorse is others' harm entering the ascendant ordering; threat without
 remorse is harm reaching the corporation only as a fall along it. Wells
 Fargo's cross-sell ranking won the bank's conflicts against risk, HR and
-complaints for a decade ([CASE-151](../cases.d/CASE-151.md)), which is dominance in [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
+complaints for a decade ([CASE-151](../cases.d/CASE-151.md)), which is ascendancy in [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
 sense. Whether that ranking was of the bank's maintenance or of a proxy
 for it is [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md). On this reading, whether a corporation has
 valence at all becomes a question about its dynamics, not about whether

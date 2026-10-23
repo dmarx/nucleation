@@ -1,13 +1,13 @@
 ---
 status: Proposed
-title: 'Veit''s common currency and ALARM''s override are two regimes of dominance by one ordering, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest dominant orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether'
+title: 'Veit''s common currency and ALARM''s override are two regimes of ascendancy of one ordering, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest ascendant orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether'
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
   An override and a currency shown to coexist in one animal as separate
   mechanisms, neither a regime of the other, so that the two are not one
-  ordering under two strengths of dominance; the evaluative space model's
+  ordering under two strengths of ascendancy; the evaluative space model's
   heterarchy, rigid low-level responses that higher levels can override
   (LIT-tmp4b7d6), is a candidate of that kind and has to be shown to be
   one ordering's regimes or this claim fails for it. Or earliest affective
@@ -35,11 +35,11 @@ grounds:
 - LIT-tmpskuar
 - LIT-tmpzq0ry
 summary: >-
-  A consequence of the owner's reframing of valence as ordering-dominance
+  A consequence of the owner's reframing of valence as ordering-ascendancy
   ([CLAIM-tmpz8lli](CLAIM-tmpz8lli.md)). [THEORY-101](../theory.d/THEORY-101.md) records that its rivalry with ALARM "would
   dissolve if ALARM's "100% weight" were recast as a weight in a common
   currency rather than an override of it." It is recast instead: both
-  are dominance by an ordering, compensatory or overriding, and the
+  are ascendancy of an ordering, compensatory or overriding, and the
   trade-off test separates them by continuity. Corrected on reading
   Debreu before filing: a threshold override still has a (discontinuous)
   currency; only a graded override has none ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md), part 3a).
@@ -47,7 +47,7 @@ summary: >-
 <!-- inactive-ok-file: LIT-tmpwwll5 LIT-tmpzq0ry — Unavailable, unread; cited from their abstracts or as the design, not leaned on as read -->
 <!-- inactive-ok-file: THEORY-090 THEORY-101 CLAIM-tmpz8lli CLAIM-tmp85p0g — Proposed; the accounts whose rivalry this recasts and the claims it rests on, cited as open -->
 
-# CLAIM-tmp83ge2: Veit's common currency and ALARM's override are two regimes of dominance by one ordering, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest dominant orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether
+# CLAIM-tmp83ge2: Veit's common currency and ALARM's override are two regimes of ascendancy of one ordering, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest ascendant orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether
 
 ## The claim
 
@@ -59,16 +59,16 @@ body names the condition under which the rivalry would dissolve: "if
 ALARM's "100% weight" were recast as a weight in a common currency rather
 than an override of it."
 
-On the owner's reframing ([CLAIM-tmpz8lli](CLAIM-tmpz8lli.md)) both are dominance by an
+On the owner's reframing ([CLAIM-tmpz8lli](CLAIM-tmpz8lli.md)) both are ascendancy of an
 ordering of the animal's own states.
-- **Veit's currency is compensatory dominance.** The dominant ordering
+- **Veit's currency is compensatory ascendancy.** The ascendant ordering
   trades off against the others in proportion: a larger resource buys a
   larger cost. As an ordering of cost–resource pairs it is continuous,
   and has a continuous numerical representation ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md),
   part 3).
-- **ALARM's override is overriding dominance.** Past a threshold the
+- **ALARM's override is overriding ascendancy.** Past a threshold the
   alarm decides, and other concerns decide at most its ties. ALARM's "no
-  choice" is the limiting case in which the dominant ordering leaves one
+  choice" is the limiting case in which the ascendant ordering leaves one
   option at the top.
 
 Whether the override has a currency depends on its form
@@ -81,7 +81,7 @@ Whether the override has a currency depends on its form
   intensity with other concerns breaking only exact ties, has no
   currency at all. In that form the rivalry does not dissolve.
 
-Either way the two accounts agree that the earliest valence is dominance
+Either way the two accounts agree that the earliest valence is ascendancy
 by an ordering of the animal's own states. They disagree on whether that
 ordering is continuous, and, if it is not, ALARM's form decides whether
 any currency remains.
@@ -128,7 +128,7 @@ record is contested (Birnbaum and Gutierrez 2007; Regenwetter et al.
 
 Both regimes can occur in one animal, a currency below the threshold and
 an override above. On this reframing that is expected, one ordering
-whose dominance changes regime past a point, unless the two are shown to
+whose ascendancy changes regime past a point, unless the two are shown to
 be separate mechanisms, which is the first defeater.
 
 ## What it does not say
