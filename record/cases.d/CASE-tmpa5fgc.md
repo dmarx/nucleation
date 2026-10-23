@@ -18,6 +18,8 @@ summary: >-
   Broockman (2020, [LIT-tmpdncw9](../literature.d/LIT-tmpdncw9.md)), registered unread; the description is the
   exchange's and the abstract's, unchecked against the paper. The standing
   is the study's, not the reading's.
+reported_in:
+- LIT-tmpdncw9
 ---
 
 # CASE-tmpa5fgc: Conversation against argument: in Kalla and Broockman's field experiments, canvassers who exchanged personal narratives nonjudgmentally reduced exclusionary attitudes durably, while arguments alone did not produce comparable effects

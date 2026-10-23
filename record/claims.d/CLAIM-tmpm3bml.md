@@ -21,7 +21,6 @@ line:
 - distributed-agency
 rests_on:
 - CLAIM-297
-uses:
 - CLAIM-330
 complements:
 - CLAIM-tmprti7p

@@ -23,10 +23,9 @@ works:
 - organization-of-perspective
 rests_on:
 - CLAIM-414
-uses:
-- CLAIM-342
 complements:
 - CLAIM-417
+- CLAIM-342
 summary: >-
   From the exchange of 2026-10-23, "Framework Overview Request": the
   owner's U3, "what's the value add here? be it achieved or just

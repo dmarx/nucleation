@@ -41,6 +41,8 @@ keywords:
 implementations: []
 summary: >-
   Franklin (written 1771–1790; first published 1791). The memoir of his life to 1757. Part Three holds the anecdote the Benjamin Franklin effect is named for: to win over a hostile new member of the Pennsylvania Assembly, Franklin asked to borrow a scarce book from his library, returned it with thanks, and the man thereafter spoke to him with civility and "manifested a readiness to serve me on all occasions". Franklin draws the maxim "He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged."
+reports:
+- CASE-tmp0b3lc
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-417 CLAIM-297 CLAIM-404 CLAIM-362 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 

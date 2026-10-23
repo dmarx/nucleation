@@ -10,8 +10,6 @@ tags:
 - social-science
 date: '2026-10-23'
 line: distributed-agency
-supports:
-- THEORY-tmpcd7cz
 summary: >-
   Bigand et al. (2024), [LIT-tmpzp314](../literature.d/LIT-tmpzp314.md), read in [NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md). Filed from
   the owner's exchange "Framework Overview Request" of 2026-10-23 as an
@@ -21,6 +19,10 @@ summary: >-
   interaction, and the timing of the synchrony could not tell the two
   apart. Not shown: the direction of coupling, a perturbation response, or
   anything about trained partner dancing with touch.
+reported_in:
+- LIT-tmpzp314
+- NOTE-tmp6hvjr
+- THEORY-tmpcd7cz
 ---
 <!-- inactive-ok-file: THEORY-tmpcd7cz QUESTION-063 CASE-045 CLAIM-167 CLAIM-172 CLAIM-157 — Proposed or Open; the account it supports and the questions and claims it bears on, cited as open -->
 

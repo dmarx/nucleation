@@ -19,6 +19,8 @@ summary: >-
   increase liking for them, tested by Jecker and Landy ([LIT-tmpwiobj](../literature.d/LIT-tmpwiobj.md)). The
   standing is the anecdote's, as Franklin told it; the reading is the
   exchange's.
+reported_in:
+- LIT-tmp4vyr3
 ---
 
 # CASE-tmp0b3lc: Franklin's borrowed book: Benjamin Franklin, opposed by a new member of the Pennsylvania Assembly when he stood again as its clerk, asked to borrow a rare book from him rather than courting him, returned it with thanks, and found the man civil and later a friend

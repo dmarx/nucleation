@@ -18,3 +18,5 @@
 
 - Dated notes on the proposed studies [CASE-045](record/cases.d/CASE-045.md), [CASE-078](record/cases.d/CASE-078.md), [CASE-092](record/cases.d/CASE-092.md), [CASE-101](record/cases.d/CASE-101.md), [CASE-108](record/cases.d/CASE-108.md), [CASE-114](record/cases.d/CASE-114.md) and [CASE-117](record/cases.d/CASE-117.md), and on [QUESTION-063](record/questions.d/QUESTION-063.md), [QUESTION-089](record/questions.d/QUESTION-089.md) and [QUESTION-118](record/questions.d/QUESTION-118.md), saying what published results already settle and what is left.
 - [QUESTION-063](record/questions.d/QUESTION-063.md) reworded to its open remainder, and [THEORY-275](record/theory.d/THEORY-275.md)'s `answers` moved to the child.
+- At the owner's direction, a CASE can name where the record got it: `reported_in` links it to LITs, NOTEs and THEORYs, with the converse `reports` ([ADR-051](record/decisions.d/ADR-051.md)). Used on the four documented cases this filing adds; existing cases are not backfilled.
+- Two claims' references to other claims moved from `uses`, which names TERMs only, to `rests_on` and `complements`.

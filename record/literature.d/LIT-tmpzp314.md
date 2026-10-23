@@ -59,6 +59,8 @@ summary: >-
   such as head bobs) and one, vertical bounce, with both; no movement
   showed an interaction. The spatial direction of a movement classified
   which factor drove its synchrony; its periodicity did not.
+reports:
+- CASE-tmpg5qs0
 ---
 <!-- inactive-ok-file: THEORY-tmpcd7cz CLAIM-172 CLAIM-167 QUESTION-063 CASE-045 — Proposed or Open; the accounts, claims and questions this reading bears on, cited as open -->
 

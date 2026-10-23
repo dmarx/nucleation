@@ -34,6 +34,8 @@ keywords:
 implementations: []
 summary: >-
   Kleinman, Liu & Redding (2024; NBER 2020). Asks whether countries that become more economically dependent on a trade partner realign politically toward it. Economic exposure is measured by network measures of exposure to foreign productivity growth, derived from trade models with a constant trade elasticity. Causality comes from two sources of quasi-experimental variation, China's emergence into the global economy and the falling cost of air travel; in both, increased economic friendship causes increased political friendship, and the theory-based network measures outperform simpler bilateral trade measures.
+reports:
+- CASE-tmptjtlr
 ---
 <!-- inactive-ok-file: CLAIM-404 CLAIM-275 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 

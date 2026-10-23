@@ -17,6 +17,8 @@ summary: >-
   makes the connection almost literally". Kleinman, Liu and Redding (2024,
   [LIT-tmpnc9pn](../literature.d/LIT-tmpnc9pn.md)), registered unread; the description is the exchange's and the
   abstract's. The standing is the study's, not the reading's.
+reported_in:
+- LIT-tmpnc9pn
 ---
 
 # CASE-tmptjtlr: Economic alignment and political alignment: Kleinman, Liu and Redding find, using China's integration into the world economy and falling air-transport costs as sources of variation, that countries whose welfare becomes more dependent on each other's productivity become more politically aligned

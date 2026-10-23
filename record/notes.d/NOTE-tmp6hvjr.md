@@ -30,6 +30,8 @@ summary: >-
   synchrony could be read from its spatial direction (100% classification)
   and not from its periodicity. The direction of coupling between partners
   was not estimated.
+reports:
+- CASE-tmpg5qs0
 ---
 <!-- inactive-ok-file: THEORY-tmpcd7cz CLAIM-172 CLAIM-167 CLAIM-157 QUESTION-063 QUESTION-084 CASE-045 THEORY-520 THEORY-275 — Proposed or Open; the accounts, claims and questions this reading bears on, named, not leaned on -->
 

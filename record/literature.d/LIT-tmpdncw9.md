@@ -31,6 +31,8 @@ keywords:
 implementations: []
 summary: >-
   Kalla & Broockman (2020). Three pre-registered field experiments (230 canvassers, 6,869 voters, 7 US locations) on attitudes toward unauthorized immigrants and transgender people. In Experiment 1, conversations with arguments alone had no effect, but otherwise identical conversations that added a non-judgmental exchange of narratives reduced exclusionary attitudes for at least four months (d = 0.08). Experiments 2 and 3 replicate on transphobia (d = 0.08, 0.04).
+reports:
+- CASE-tmpa5fgc
 ---
 <!-- inactive-ok-file: CLAIM-275 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
