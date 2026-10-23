@@ -10,7 +10,7 @@ date: '2026-10-23'
 line: organizational-affect
 summary: >-
   Filed at the owner's direction, 2026-10-23, after a survey of work near
-  the record's account of valence as ordering-ascendancy (CLAIM-tmpz8lli)
+  the record's account of valence as ordering-ascendancy ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md))
   for ways to operationalize felt states. Three layers, each with
   existing measures: ascendancy (a conflict record, estimated arbitration
   weights); a hedonic marker independent of choice (taste reactivity,
@@ -25,17 +25,17 @@ summary: >-
 
 ## Why it is a question
 
-CLAIM-tmpz8lli is functional: valence is ascendancy of a negotiation by an
-ordering of the system's own states. CLAIM-tmptd5us adds a candidate for
+[CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) is functional: valence is ascendancy of a negotiation by an
+ordering of the system's own states. [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) adds a candidate for
 when that regime is felt: when the system also models its ascendancy.
 Neither is testable until each layer can be measured without the others.
 
 **The three layers, with measures already in use elsewhere.**
 1. **Ascendancy.** Which ranking wins the system's conflicts, for how long,
-   and whether it returns (QUESTION-tmpsqwu5). For animals and people,
+   and whether it returns ([QUESTION-tmpsqwu5](QUESTION-tmpsqwu5.md)). For animals and people,
    arbitration weights estimated from choice, in the tradition of Daw,
    Niv and Dayan's uncertainty-based competition between controllers
-   (LIT-580). For organizations, a record of decisions on conflict pairs.
+   ([LIT-580](../literature.d/LIT-580.md)). For organizations, a record of decisions on conflict pairs.
 2. **A hedonic marker that does not depend on choice.** Orofacial taste
    reactivity, which Berridge's programme uses to measure "liking" across
    species; judgement bias, the reading of ambiguous cues, used for animal
@@ -46,22 +46,22 @@ Neither is testable until each layer can be measured without the others.
    metacognitive report, or, for systems that cannot report, an internal
    variable that tracks layer 1 and is available to other processes, as
    Brouillet and Friston's felt fluency is an inference about a change in
-   precision (THEORY-662) and Hesp et al.'s affective precision is a
+   precision ([THEORY-662](../theory.d/THEORY-662.md)) and Hesp et al.'s affective precision is a
    belief about the reliability of one's own policies.
 
 **Two constraints from the readings.**
 - Layer 3 cannot be validated by retrospective report. Remembered utility
   is a biased model of experienced utility, by peak-end weighting and
-  duration neglect (LIT-tmpd3ww1, NOTE-tmpj69i0).
-- Layer 3 has a test that needs no report. Hesp et al. (LIT-tmpvgq87,
-  NOTE-tmpsj4fq) compare an agent with and without the level that models
+  duration neglect ([LIT-tmpd3ww1](../literature.d/LIT-tmpd3ww1.md), [NOTE-tmpj69i0](../notes.d/NOTE-tmpj69i0.md)).
+- Layer 3 has a test that needs no report. Hesp et al. ([LIT-tmpvgq87](../literature.d/LIT-tmpvgq87.md),
+  [NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)) compare an agent with and without the level that models
   its own action-model precision: behaviour is the same while
   contingencies are stable and diverges after a reversal. A self-model of
   ascendancy should show itself in how ascendancy is re-set after a change,
   not in steady-state choice.
 
 **A human candidate for separating layers 1 and 2.** Mohammadi, Van De
-Ville and Vuilleumier (LIT-tmp9qnrb, NOTE-tmpocnqb) find two networks
+Ville and Vuilleumier ([LIT-tmp9qnrb](../literature.d/LIT-tmp9qnrb.md), [NOTE-tmpocnqb](../notes.d/NOTE-tmpocnqb.md)) find two networks
 correlating with valence: one that "may relate to the theoretical
 construct of "wanting"" (p. 8005) and one "reminiscent of the "liking"
 rather than "wanting" aspect of valence" (p. 8006). That would let the
@@ -70,15 +70,15 @@ dissociating: the latent variables are orthogonal by construction and
 both come from one retrospective report.
 
 **Where the layers should come apart.**
-- On CLAIM-tmpz8lli, layers 1 and 2 coincide when a self-maintenance
+- On [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), layers 1 and 2 coincide when a self-maintenance
   ordering prevails. Wanting without liking already breaks that
-  (THEORY-tmp0bbxk; the objection is CLAIM-tmpe0iew). Decision utility
+  ([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md); the objection is [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)). Decision utility
   diverging from experienced utility does not, provided layer 1 is read
-  within the episode (QUESTION-tmpsqwu5).
-- On CLAIM-tmptd5us, felt valence is present where layer 3 tracks layer 1
+  within the episode ([QUESTION-tmpsqwu5](QUESTION-tmpsqwu5.md)).
+- On [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md), felt valence is present where layer 3 tracks layer 1
   and absent where layer 1 runs without it, as unfelt fluency does.
 - For organizations, layer 3 is the organization's reporting of what wins
-  its conflicts to those who govern it. CASE-151's board was told
+  its conflicts to those who govern it. [CASE-151](../cases.d/CASE-151.md)'s board was told
   terminations were "in the range of 200-300", which, if the claim holds,
   is a mis-modelled ascendancy, not an absent one.
 

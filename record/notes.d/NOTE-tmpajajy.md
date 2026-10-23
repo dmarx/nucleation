@@ -120,30 +120,30 @@ Model and illustration, not experiment:
 
 ## Connections
 
-Follows Smith and Lazarus (1990) and Lazarus (LIT-550, unread), and
+Follows Smith and Lazarus (1990) and Lazarus ([LIT-550](../literature.d/LIT-550.md), unread), and
 is set against Scherer's sequential checks (Scherer 2001; the record
-reads his model in LIT-tmpfjacn) and Smith and Kirby's two-process
+reads his model in [LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md)) and Smith and Kirby's two-process
 model. It takes the interrupt view of emotion from
-Simon (1967) and the law of situated meaning from Frijda (LIT-704,
-unread). It is a sibling of Lewis's dynamic-systems model (LIT-tmpj284p),
+Simon (1967) and the law of situated meaning from Frijda ([LIT-704](../literature.d/LIT-704.md),
+unread). It is a sibling of Lewis's dynamic-systems model ([LIT-tmpj284p](../literature.d/LIT-tmpj284p.md)),
 which also refuses a fixed appraisal sequence but makes the competition
 one of attractors, not of discrete frames.
 
 ## Bearing on the record
 
-**On the negotiation reading (CLAIM-tmpz8lli, part 1).** EMA has an
+**On the negotiation reading ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), part 1).** EMA has an
 explicit, implemented arbitration among concurrent evaluations: frames
 "each competing to determine the agent's coping response" (p. 81), and a
 rule for the winner. To that extent it anticipates "appraisal as the
 process by which competing perspectives negotiate". It anticipates the
-Moors form of the idea (LIT-tmp18qgb), though, not the record's. The
+Moors form of the idea ([LIT-tmp18qgb](../literature.d/LIT-tmp18qgb.md)), though, not the record's. The
 difference is the same, and sharper.
 
 1. **The competition is on one scalar.** A frame's intensity is "a
    function of the likelihood of the threat times the utility of the goal
    that is threatened" (p. 84), mood-adjusted. Selection is an argmax,
    with recency breaking ties. That is a common currency by construction,
-   the compensatory regime of CLAIM-tmp83ge2 and CLAIM-tmp85p0g with
+   the compensatory regime of [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) and [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) with
    nothing else possible. Sen-type failure of the negotiation to produce
    an ordering cannot arise in EMA.
 2. **The competitors are concerns, not perspectives.** What competes is
@@ -157,10 +157,10 @@ difference is the same, and sharper.
    EMA does not provide.
 3. **No authority distinct from intensity.** In EMA the precedence a
    frame claims (its intensity) is the authority it is granted (selection
-   for coping). CLAIM-283's distinction has no room in it, except through
+   for coping). [CLAIM-283](../claims.d/CLAIM-283.md)'s distinction has no room in it, except through
    recency, which grants authority on another ground.
 
-**On the marks of ascendancy (TERM-tmp8gbrt).**
+**On the marks of ascendancy ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)).**
 - *Priority* is the argmax rule.
 - *Persistence* comes only through mood. A frame type that has won often
   raises the mood component of its label, and that biases later
@@ -176,7 +176,7 @@ difference is the same, and sharper.
 
 **On valence.** EMA's valence is per proposition: desirability positive
 or negative, on the agent's utilities. It is Carver's "each goal loop its
-own valence" (LIT-tmp63om1 through LIT-tmpdmzgc) again, the view the
+own valence" ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md) through [LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md)) again, the view the
 proposal sets against one valence for the ascendant ordering. EMA's mood
 is the nearest thing to a system-level valence, and it is a sum by label,
 not an ordering.
@@ -191,7 +191,7 @@ the engineering point of p. 89. Appraisal as a common characterization
 across heterogeneous modules, "By casting the state of each module in
 these same general terms, it becomes possible to craft general control
 strategies that apply across modules", is Veit's sharing job for a common
-currency (THEORY-101), built in by design. It is a worked example of the
+currency ([THEORY-101](../theory.d/THEORY-101.md)), built in by design. It is a worked example of the
 second half of the proposal's part 2.
 
 **Candidly.** EMA does not threaten the proposal's novelty beyond what

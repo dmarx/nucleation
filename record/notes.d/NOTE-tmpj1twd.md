@@ -103,8 +103,8 @@ regression studies nor the deep decision tree of appraisal theories.
 Builds on Meuleman and Scherer (2013) and on Fontaine, Scherer and
 Soriano (2013, the GRID sourcebook). The two later Geneva-related studies
 filed with it use the CoreGRID items to collect ratings of episodes
-rather than words (LIT-tmp5ejuc, LIT-tmp7rygg). Its
-synchronization paragraph restates Scherer's (LIT-tmpfjacn).
+rather than words ([LIT-tmp5ejuc](../literature.d/LIT-tmp5ejuc.md), [LIT-tmp7rygg](../literature.d/LIT-tmp7rygg.md)). Its
+synchronization paragraph restates Scherer's ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md)).
 
 ## Bearing on the record
 
@@ -116,7 +116,7 @@ components, they should show a high degree of synchronization" (ms
 p. 7). The only coherence it reports is the correlation of factors
 across the 816 word-by-sample cases (Figure 4). That is coherence in
 shared knowledge across emotion words, not coupling within an episode.
-For QUESTION-tmpsqwu5 it is not a candidate.
+For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) it is not a candidate.
 
 **Signed, or which tendency prevails?** Its response factors are bipolar
 and signed: appetitive vs defensive, intervention vs disengagement,
@@ -128,14 +128,14 @@ dominated (negative values)" (ms p. 22). That is the social dominance of
 the PAD tradition, the homonym the record renamed its own notion to
 avoid, and it should not be read as ascendancy.
 
-**The threshold effects and CLAIM-tmp83ge2.** They do not bear on the
+**The threshold effects and [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md).** They do not bear on the
 claim's contrast, for three reasons.
 - **MARS cannot produce a discontinuity.** Its basis functions are hinges,
   zero on one side of a knot and linear on the other, so every fitted
   curve is continuous. A "threshold" in this model is a kink, a change
   from a flat slope to a steep one. On the claim's terms that is a
   continuous currency whose price rises sharply, Veit's regime
-  (THEORY-101), not ALARM's override (THEORY-090). Even if the true
+  ([THEORY-101](../theory.d/THEORY-101.md)), not ALARM's override ([THEORY-090](../theory.d/THEORY-090.md)). Even if the true
   relation had a jump, MARS would fit it as a steep segment.
 - **The "threshold" is the authors' gloss on one panel**, and their own
   description of that panel is a steepening, not an onset: "increasing
@@ -152,9 +152,9 @@ treats a sigmoid and a step as near-equivalent: "Sigmoidal curves can
 also be viewed as continuous approximations of binary threshold
 functions" (ms p. 10), and "they share the property that output cannot
 increase substantially until input reaches a certain value" (ms p. 10).
-CLAIM-tmp83ge2 says that a finite set of tested pairs can always be fitted
+[CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) says that a finite set of tested pairs can always be fitted
 by a currency, so the test needs enough pairs to tell a steep curve from
-a discontinuity (after CLAIM-tmp85p0g). This paper is an example of a field
+a discontinuity (after [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)). This paper is an example of a field
 that has not drawn that line. Here "threshold" covers both, and a
 smooth-spline method decided the matter by construction. A trade-off
 study meant to test the claim should not fit splines of this kind. It
@@ -167,7 +167,7 @@ additive and partly hierarchical" (ms p. 34) is a case, in emotion
 knowledge, of compensatory and gated structure in one function.
 Additive criteria trade off. A pure modifier changes the effect of goal
 compatibility without having any effect of its own, which is how a
-gate acts. CLAIM-tmp83ge2 expects both regimes in one animal, as one
+gate acts. [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) expects both regimes in one animal, as one
 ordering changing regime. This is at most a weak analogue: it concerns
 appraisal-to-response maps in word meaning, not an ordering's ascendancy
 in conduct. It is worth noting because it is the same two-regime shape

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmp4itog): in full, from the authors'' accepted manuscript in the Archive ouverte UNIGE (unige:112041). Worth reading as an argument, with data, that passive induction (pictures, film) cannot test componential hypotheses such as synchronization, because it does not engage all components, and that virtual reality can. 53 participants played seven commercial VR games and rated appraisal, motivation, physiology, feeling and regulation items after each. Clustering found multi-componential fear and joy patterns, and appraisal items predicted fear and joy intensity best. Componentiality is assessed across observations, one retrospective self-report per game. Nothing is measured within an episode, and there is no synchronization index.'
+status_note: 'read 2026-10-23 ([NOTE-tmp4itog](../notes.d/NOTE-tmp4itog.md)): in full, from the authors'' accepted manuscript in the Archive ouverte UNIGE (unige:112041). Worth reading as an argument, with data, that passive induction (pictures, film) cannot test componential hypotheses such as synchronization, because it does not engage all components, and that virtual reality can. 53 participants played seven commercial VR games and rated appraisal, motivation, physiology, feeling and regulation items after each. Clustering found multi-componential fear and joy patterns, and appraisal items predicted fear and joy intensity best. Componentiality is assessed across observations, one retrospective self-report per game. Nothing is measured within an episode, and there is no synchronization index.'
 title: 'Induction and Profiling of Strong Multi-Componential Emotions in Virtual Reality'
 version: 1
 history:
@@ -85,14 +85,14 @@ Computing* 12(1):189–202 — DOI-10.1109/TAFFC.2018.2864730
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's question of how to measure which
-ordering is ascendant in a negotiation (QUESTION-tmpsqwu5), as set out
-in NOTE-tmp4itog. It gives no per-episode measure of component
+ordering is ascendant in a negotiation ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)), as set out
+in [NOTE-tmp4itog](../notes.d/NOTE-tmp4itog.md). It gives no per-episode measure of component
 synchronization. It argues that active induction is a precondition for
 one, and its componentiality criterion is a pattern of associations
 across a sample. Its mild-fear cluster, fear appraisal together with a
 strong tendency to explore, is a case of competing tendencies in one
 episode, but the data cannot say which prevailed. Mohammadi and
-Vuilleumier (LIT-tmp7rygg) cite it as the one prior study
+Vuilleumier ([LIT-tmp7rygg](LIT-tmp7rygg.md)) cite it as the one prior study
 with the same aim.
 
 It is affective-computing methodology for emotion induction, not an

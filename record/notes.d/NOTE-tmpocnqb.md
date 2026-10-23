@@ -106,12 +106,12 @@ and another like liking.
 ## Connections
 
 Realizes in part the five-network programme of Sander, Grandjean and
-Scherer (LIT-tmpzf3da, NOTE-tmphslle). The processes it
+Scherer ([LIT-tmpzf3da](../literature.d/LIT-tmpzf3da.md), [NOTE-tmphslle](NOTE-tmphslle.md)). The processes it
 finds do not correspond to the five networks. Reuses the film set and
-CoreGRID items of Mohammadi and Vuilleumier (LIT-tmp7rygg). Its
+CoreGRID items of Mohammadi and Vuilleumier ([LIT-tmp7rygg](../literature.d/LIT-tmp7rygg.md)). Its
 two valence networks are read through Berridge's wanting and liking,
 which the record holds first-hand in Berridge and Kringelbach 2015
-(LIT-tmpmp2nw).
+([LIT-tmpmp2nw](../literature.d/LIT-tmpmp2nw.md)).
 
 ## Bearing on the record
 
@@ -123,7 +123,7 @@ per episode is a score. The latent variables are defined per observation
 (the behavioural scores are the rating matrix times the saliences), so
 every event has a signed value on each process, both from its ratings
 and from its brain map. The paper reports loadings and maps, not these
-event scores. For QUESTION-tmpsqwu5 this is a per-episode, signed,
+event scores. For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) this is a per-episode, signed,
 brain-and-report measure of which pattern an episode expresses. It is
 still not a measure of ascendancy. A high FCP-1 score means the episode
 had the valuation pattern. It does not mean that pattern won a conflict
@@ -133,7 +133,7 @@ against another one.
 that is signed along an action-tendency axis. Its positive pole is
 the item "Want the situation to continue?", its negative pole the items
 "Feel the urge to stop what was happening?" and "Want to undo what was
-happening?" (Table 1). On TERM-tmp8gbrt it is the closest thing in these
+happening?" (Table 1). On [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) it is the closest thing in these
 five papers to a measure that tracks ascendancy and valence together: an
 evaluation network whose sign follows the direction of the prevailing
 tendency. Two cautions. The tendencies are reported, not enacted, and in
@@ -142,7 +142,7 @@ of a bipolar factor, which by construction cannot represent "continue"
 and "stop" both high, the ambivalent case. PLSC on a design with choice
 points would be needed.
 
-**On QUESTION-tmp0oife and the wanting/liking objection.** This is the
+**On [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md) and the wanting/liking objection.** This is the
 result that matters for the record. In human brain data recorded during
 naturalistic episodes, valence features load on two separate processes:
 - **FCP-1** carries the action tendencies (continue, stop, undo) with
@@ -154,13 +154,13 @@ naturalistic episodes, valence features load on two separate processes:
   that this dimension may not have a unique psychological or neural
   underpinning" (p. 8006).
 
-For QUESTION-tmp0oife's layers this is close to a human dissociation of
+For [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md)'s layers this is close to a human dissociation of
 layer 1 (ascendancy, read off the tendency that governs: FCP-1) and
 layer 2 (a hedonic marker that does not depend on choice: FCP-3, whose
 rated expression features are a rough human analogue of taste
-reactivity's orofacial signs). It agrees with Berridge's animal work (LIT-tmpmp2nw),
-which THEORY-tmp0bbxk and CLAIM-tmpe0iew use against the proposal that
-valence is ascendancy by a self-maintenance ordering (CLAIM-tmpz8lli).
+reactivity's orofacial signs). It agrees with Berridge's animal work ([LIT-tmpmp2nw](../literature.d/LIT-tmpmp2nw.md)),
+which [THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md) and [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) use against the proposal that
+valence is ascendancy by a self-maintenance ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).
 It is weaker evidence than it looks, for three reasons:
 - The two processes are orthogonal by construction (PLSC latent
   variables are orthogonal), so their separation is partly the method's.
@@ -175,14 +175,14 @@ It is weaker evidence than it looks, for three reasons:
   on different features. Wanting-without-liking needs episodes where
   they come apart, and the paper does not report any.
 
-So the paper does not show the dissociation THEORY-tmp0bbxk needs. It
+So the paper does not show the dissociation [THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md) needs. It
 shows that the two layers have separable substrates in humans and could
 be measured separately, with event scores on FCP-1 and FCP-3 as
-candidates. That is what QUESTION-tmp0oife asks for: each layer
+candidates. That is what [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md) asks for: each layer
 measured without the others.
 
 **Arousal.** The absence of an arousal process bears on the intensity
-clause of TERM-tmp8gbrt only weakly. If arousal is not one process, an
+clause of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) only weakly. If arousal is not one process, an
 unsigned intensity read off arousal would not be one quantity either.
 
 ## Limitations
@@ -198,5 +198,5 @@ lost. The data are available only on request.
 Whether the per-event FCP-1 and FCP-3 scores ever come apart in sign
 within this dataset (wanting without liking, or the reverse), which would
 be the human dissociation the record lacks. Whether the analysis on a
-design with choice points (the VR route of LIT-tmp5ejuc)
+design with choice points (the VR route of [LIT-tmp5ejuc](../literature.d/LIT-tmp5ejuc.md))
 would let FCP-1's sign be read as the tendency that prevailed.

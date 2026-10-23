@@ -54,7 +54,7 @@ are highly valued and the expected utility of acting on it is highest.
   utility activates its action tendency (p. 4), and values and
   expectancies decide which process wins (p. 11).
 - A cybernetic control architecture with nested goals, after Carver and
-  Scheier (1990, LIT-tmp63om1). Several cycles run in parallel, and the
+  Scheier (1990, [LIT-tmp63om1](../literature.d/LIT-tmp63om1.md)). Several cycles run in parallel, and the
   balance among lower-order goals is kept by a higher-order goal
   (pp. 5–6).
 - Frijda's control precedence as the mark of emotional action (p. 15),
@@ -107,7 +107,7 @@ Argument, with evidence reviewed, not new results:
 - **stimulus-driven process**: activation of a stored stimulus–action
   link, [S–R], whether innate, overtrained or associatively formed.
 - **parallel-competitive architecture**: both process types run at once
-  and compete for behaviour (Daw, Niv and Dayan 2005, LIT-580).
+  and compete for behaviour (Daw, Niv and Dayan 2005, [LIT-580](../literature.d/LIT-580.md)).
 - **control precedence**: the priority an action tendency takes over
   others (after Frijda), read here as a product of the value of the
   goals at stake.
@@ -115,17 +115,17 @@ Argument, with evidence reviewed, not new results:
 ## Connections
 
 Builds on Heyes and Dickinson on goal-directed action, Carver and Scheier's
-cybernetic cycle (LIT-tmp63om1, read through LIT-tmpdmzgc), Frijda's
-control precedence (THEORY-055), and the arbitration models of Daw, Niv
-and Dayan (LIT-580, THEORY-062), whose default it reverses. It is set
+cybernetic cycle ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md), read through [LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md)), Frijda's
+control precedence ([THEORY-055](../theory.d/THEORY-055.md)), and the arbitration models of Daw, Niv
+and Dayan ([LIT-580](../literature.d/LIT-580.md), [THEORY-062](../theory.d/THEORY-062.md)), whose default it reverses. It is set
 against appraisal theories (Roseman, Scherer) and affect-program theories.
-Its book-length development is Moors (2022, LIT-tmp0s27v), unread,
+Its book-length development is Moors (2022, [LIT-tmp0s27v](../literature.d/LIT-tmp0s27v.md)), unread,
 whose Chapter 7 is "dedicated to response evaluation theories, in
 particular my own version of them, the goal-directed theory".
 
 ## Bearing on the record
 
-**On the novelty of the negotiation reading (CLAIM-tmpz8lli, part 1).**
+**On the novelty of the negotiation reading ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), part 1).**
 Part of the proposal is not new, and the claim should say so as it
 already does for Lewis and Scherer. Moors holds that what decides action,
 emotional action included, is a competition among goal-directed
@@ -144,9 +144,9 @@ and the first two carry the weight.
    competition is settled by "the values and expectancies of outcomes"
    (p. 11), and the winner is "the action option with the highest
    utility" (p. 4). That is a negotiation that always yields an ordering,
-   and a numerical one. Part 2 of CLAIM-tmpz8lli holds that a negotiation
+   and a numerical one. Part 2 of [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) holds that a negotiation
    need not yield an ordering (Sen's theorem), and that an ordering need
-   not be a currency (CLAIM-tmp85p0g). In the terms of CLAIM-tmp83ge2,
+   not be a currency ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)). In the terms of [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md),
    Moors describes only the compensatory regime of ascendancy, and
    describes it as the only one there is. The override cases she discusses
    (aggression costing retaliation and repairing self-esteem, the martyr's
@@ -156,12 +156,12 @@ and the first two carry the weight.
 2. **Her competitors are options, not perspectives.** What competes is
    goal-directed processes or action options within one agent, ranked on
    one utility. The proposal's competitors are perspectives, each with its
-   own ranking and its own authority (CLAIM-283's distinction between
+   own ranking and its own authority ([CLAIM-283](../claims.d/CLAIM-283.md)'s distinction between
    the precedence a motive claims and the authority it is granted). Moors
    has no room for a perspective whose ranking is not commensurable with
    another's. Her balancing of multiple goals is done by "a higher-order
    goal" (pp. 5–6), a regulator above the competitors. That is what
-   Frijda, Ridderinkhof and Rietveld deny (THEORY-056), and what the
+   Frijda, Ridderinkhof and Rietveld deny ([THEORY-056](../theory.d/THEORY-056.md)), and what the
    proposal's negotiation lacks.
 3. **She gives no account of valence.** Emotionality on her account is a
    matter of degree, set by the stakes. Nothing in it marks out an
@@ -179,7 +179,7 @@ and the first two carry the weight.
    response evaluation theory.
 
 **What the record can take.** Moors's methodological point bears on
-QUESTION-tmpsqwu5. A record of which conflicts a ranking wins is
+[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md). A record of which conflicts a ranking wins is
 confounded by hidden outcomes. A choice that seems to follow one
 perspective's ranking may follow another's, valuing an outcome the
 observer did not model (pp. 18–19). Outcome revaluation and contingency

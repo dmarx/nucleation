@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmphslle): in full, from the published version deposited in the Archive ouverte UNIGE (unige:109591). Worth reading as the Geneva group''s programme statement for taking the component process model into the brain. It splits the emotional brain into five functionally defined networks (elicitation, expression, autonomic reaction, action tendency, feeling). It proposes that component synchronization is neuronal phase or cross-frequency synchronization, within and between components, and repeats Scherer''s hypothesis that feeling arises when the degree of synchronization passes a threshold. It names control precedence as priority among action tendencies. It gives no measure of synchronization and reports no data of its own.'
+status_note: 'read 2026-10-23 ([NOTE-tmphslle](../notes.d/NOTE-tmphslle.md)): in full, from the published version deposited in the Archive ouverte UNIGE (unige:109591). Worth reading as the Geneva group''s programme statement for taking the component process model into the brain. It splits the emotional brain into five functionally defined networks (elicitation, expression, autonomic reaction, action tendency, feeling). It proposes that component synchronization is neuronal phase or cross-frequency synchronization, within and between components, and repeats Scherer''s hypothesis that feeling arises when the degree of synchronization passes a threshold. It names control precedence as priority among action tendencies. It gives no measure of synchronization and reports no data of its own.'
 title: 'An Appraisal-Driven Componential Approach to the Emotional Brain'
 version: 1
 history:
@@ -88,14 +88,14 @@ David Sander, Didier Grandjean & Klaus R. Scherer (2018), *Emotion Review*
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's question of how to measure which
-ordering is ascendant in a system's negotiation (QUESTION-tmpsqwu5). It
+ordering is ascendant in a system's negotiation ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). It
 was checked for a per-episode measure of component synchronization and
 gives none: it says what synchronization is hoped to be in the brain,
 and that measuring it is the challenge. Its one line on control
 precedence is the nearest the CPM literature comes to the record's
-ascendancy (TERM-tmp8gbrt, read through THEORY-055), and it is stated,
-not measured. Set out in NOTE-tmphslle. The Mohammadi, Van De
-Ville and Vuilleumier study (LIT-tmp9qnrb) is the group's
+ascendancy ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), read through [THEORY-055](../theory.d/THEORY-055.md)), and it is stated,
+not measured. Set out in [NOTE-tmphslle](../notes.d/NOTE-tmphslle.md). The Mohammadi, Van De
+Ville and Vuilleumier study ([LIT-tmp9qnrb](LIT-tmp9qnrb.md)) is the group's
 attempt at the networks it calls for.
 
 It is a perspective on affective neuroscience, not an instruction for

@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpyz7qv): in full, from the authors'' arXiv preprint (2010.11370v1, October 2020). Worth reading only as the behavioural groundwork for the later fMRI study (LIT-tmp9qnrb). Crowdworkers rated 39 CoreGRID items and 10 discrete emotions after whole film clips (1,567 surveys, 99 clips). Six principal components emerged (action tendency, pleasant feeling, novelty, norms, arousal, goal relevance). Ordinal regression from all components predicted discrete-emotion ratings better than any single component. Personality traits correlated with componential items more than with feelings. It does not mention synchronization and measures nothing within an episode.'
+status_note: 'read 2026-10-23 ([NOTE-tmpyz7qv](../notes.d/NOTE-tmpyz7qv.md)): in full, from the authors'' arXiv preprint (2010.11370v1, October 2020). Worth reading only as the behavioural groundwork for the later fMRI study ([LIT-tmp9qnrb](LIT-tmp9qnrb.md)). Crowdworkers rated 39 CoreGRID items and 10 discrete emotions after whole film clips (1,567 surveys, 99 clips). Six principal components emerged (action tendency, pleasant feeling, novelty, norms, arousal, goal relevance). Ordinal regression from all components predicted discrete-emotion ratings better than any single component. Personality traits correlated with componential items more than with feelings. It does not mention synchronization and measures nothing within an episode.'
 title: 'A Multi-Componential Approach to Emotion Recognition and the Effect of Personality'
 version: 1
 history:
@@ -86,12 +86,12 @@ Affective Computing* 13(3):1127–1139 — DOI-10.1109/TAFFC.2020.3028109
 
 Filed on 2026-10-23 because the owner asked whether this Geneva-related
 work gives a per-episode measure of component synchronization
-(QUESTION-tmpsqwu5). It does not. The word "synchronization" does not
+([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). It does not. The word "synchronization" does not
 occur in it, and each clip yields one retrospective rating vector. See
-NOTE-tmpyz7qv. Its value to the record is as the behavioural
-pilot for the fMRI study (LIT-tmp9qnrb), whose design repairs
+[NOTE-tmpyz7qv](../notes.d/NOTE-tmpyz7qv.md). Its value to the record is as the behavioural
+pilot for the fMRI study ([LIT-tmp9qnrb](LIT-tmp9qnrb.md)), whose design repairs
 two of its limits: ratings per 12-second event, and recorded heart and
-respiration rates. It cites Meuleman and Rudrauf (LIT-tmp5ejuc)
+respiration rates. It cites Meuleman and Rudrauf ([LIT-tmp5ejuc](LIT-tmp5ejuc.md))
 as the only prior study with the same aim.
 
 It is emotion recognition in affective computing. It reports models but

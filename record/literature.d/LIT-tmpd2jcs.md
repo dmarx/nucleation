@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpajajy): in full, from the published version on a University of Kentucky course reading list, checked against the authors'' manuscript on Gratch''s USC page. Worth reading as the worked computational case of appraisal as a continuous process over the agent''s causal interpretation, with an explicit arbitration rule. Appraisal is a single, fast, parallel mapping from that interpretation to appraisal variables. Its dynamics come from the slower perception, inference and action that change the interpretation, and from coping, which alters beliefs, desires and intentions and so drives reappraisal. Appraisal frames, one per proposition, compete for the coping response. The winner is the most recently accessed frame with the highest mood-adjusted intensity, and intensity is a decision-theoretic product of likelihood and utility. That is arbitration on a common currency among concerns, not a negotiation among perspectives.'
+status_note: 'read 2026-10-23 ([NOTE-tmpajajy](../notes.d/NOTE-tmpajajy.md)): in full, from the published version on a University of Kentucky course reading list, checked against the authors'' manuscript on Gratch''s USC page. Worth reading as the worked computational case of appraisal as a continuous process over the agent''s causal interpretation, with an explicit arbitration rule. Appraisal is a single, fast, parallel mapping from that interpretation to appraisal variables. Its dynamics come from the slower perception, inference and action that change the interpretation, and from coping, which alters beliefs, desires and intentions and so drives reappraisal. Appraisal frames, one per proposition, compete for the coping response. The winner is the most recently accessed frame with the highest mood-adjusted intensity, and intensity is a decision-theoretic product of likelihood and utility. That is arbitration on a common currency among concerns, not a negotiation among perspectives.'
 title: 'EMA: A process model of appraisal dynamics'
 version: 1
 history:
@@ -68,7 +68,7 @@ Stacy C. Marsella & Jonathan Gratch (2009), *Cognitive Systems Research*
   may be slow and sequential, and its appraisal, which is fast, parallel
   and automatic" (p. 71).
 - **A cycle of appraisal, coping and reappraisal** (p. 76), following
-  Lazarus (LIT-550): "we assume a cyclical relationship between
+  Lazarus ([LIT-550](LIT-550.md)): "we assume a cyclical relationship between
   appraisal, coping and re-appraisal." Inference changes the
   interpretation, and "they indirectly trigger automatic reappraisal"
   (p. 76).
@@ -107,15 +107,15 @@ Stacy C. Marsella & Jonathan Gratch (2009), *Cognitive Systems Research*
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that appraisal is the
-negotiation among an organization's perspectives (CLAIM-tmpz8lli,
-TERM-tmp8gbrt). EMA is the clearest working model of appraisal as a
+negotiation among an organization's perspectives ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md),
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). EMA is the clearest working model of appraisal as a
 continuous process with explicit arbitration among concurrent
 evaluations. Its arbitration is winner-take-all on one scalar,
 mood-adjusted intensity, so it presupposes the common currency that the
 proposal treats as an achievement. Its competitors are evaluations of
 propositions, not rankings held by perspectives. Coping that lowers a
 desire's utility is the one place where the ordering itself is revised.
-The bearing is set out in NOTE-tmpajajy.
+The bearing is set out in [NOTE-tmpajajy](../notes.d/NOTE-tmpajajy.md).
 
 Not flagged for the Anthology of the SOTA: EMA is an architecture for
 virtual humans and carries no instruction for machine-learning practice.

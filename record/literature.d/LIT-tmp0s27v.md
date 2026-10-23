@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref and the publisher''s free front matter, not read: no lawful full text could be reached. OpenAlex lists the book as closed, with no repository copy; Cambridge Core offers no open chapter; no Lirias or author-posted copy was found. The front matter and table of contents, which Cambridge hosts openly, were read. Filed as the book-length statement of Moors''s goal-directed theory of emotion, the theory whose 2017 article (LIT-tmp18qgb) is the nearest prior statement of the record''s reading of appraisal as negotiation. Its Chapter 7, on response evaluation theories and her goal-directed theory, is the part to read first. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref and the publisher''s free front matter, not read: no lawful full text could be reached. OpenAlex lists the book as closed, with no repository copy; Cambridge Core offers no open chapter; no Lirias or author-posted copy was found. The front matter and table of contents, which Cambridge hosts openly, were read. Filed as the book-length statement of Moors''s goal-directed theory of emotion, the theory whose 2017 article ([LIT-tmp18qgb](LIT-tmp18qgb.md)) is the nearest prior statement of the record''s reading of appraisal as negotiation. Its Chapter 7, on response evaluation theories and her goal-directed theory, is the part to read first. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Demystifying Emotions: A Typology of Theories in Psychology and Philosophy'
 version: 1
 history:
@@ -44,7 +44,7 @@ summary: >-
   also proposes Moors's own skeptical "goal-directed theory", "based on
   the central idea that all kinds of behaviors and feelings are grounded
   in goal-striving". Unread beyond the front matter: the theory is read
-  in her 2017 article LIT-tmp18qgb.
+  in her 2017 article [LIT-tmp18qgb](LIT-tmp18qgb.md).
 extends:
 - LIT-tmp18qgb
 ---
@@ -79,12 +79,12 @@ and contents:
   of the central axes on which theories differ."
 - **Network theories have their own chapter** (Chapter 5, pp. 147–163),
   so the book should also be checked against Lange et al. 2020
-  (LIT-tmp39gs5).
+  ([LIT-tmp39gs5](LIT-tmp39gs5.md)).
 
 ## Standing in the record
 
 Filed on 2026-10-23 for the novelty check on the record's proposal that
-appraisal is the negotiation among perspectives (CLAIM-tmpz8lli). The
+appraisal is the negotiation among perspectives ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). The
 2017 article already holds that action selection is a competition among
 goal-directed processes, settled by expected utility. Whether the book
 goes further, for instance to competition without a common scale or
