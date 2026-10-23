@@ -8,9 +8,11 @@
   - two questions: how ascendancy is measured ([QUESTION-tmpsqwu5](record/questions.d/QUESTION-tmpsqwu5.md)), and whether ascendancy of a proxy for maintenance is valence ([QUESTION-tmprsrxs](record/questions.d/QUESTION-tmprsrxs.md)).
   - a question on operationalizing felt valence in three independently measured layers ([QUESTION-tmp0oife](record/questions.d/QUESTION-tmp0oife.md)), and a candidate claim: valence is felt when the system models its own ascendancy ([CLAIM-tmptd5us](record/claims.d/CLAIM-tmptd5us.md));
   - Berridge's liking–wanting dissociation ([THEORY-tmp0bbxk](record/theory.d/THEORY-tmp0bbxk.md)), and from it an objection that ascendancy tracks wanting, not liking ([CLAIM-tmpe0iew](record/claims.d/CLAIM-tmpe0iew.md)).
-- Twenty works in two tranches: eight read in full or in part, eleven Unavailable, one Deferred. A curation entry.
+  - a reply conceding that objection in a principled form, on the component process model's levels of valence: the account is of goal-conduciveness valence (CLAIM-tmp5lpdu).
+- Thirty-five works in four batches. A curation entry.
 
 ### Changed
 
+- "Dominance" renamed "ascendancy" throughout the line, to avoid the pleasure–arousal–dominance and decision-theoretic senses.
 - [CLAIM-432](record/claims.d/CLAIM-432.md)'s defeater corrected: [THEORY-101](record/theory.d/THEORY-101.md) threatens it only joined to a denial that a corporation is conscious. A dated note relates it to valence as ordering-ascendancy.
 - Dated notes on [THEORY-101](record/theory.d/THEORY-101.md) and [THEORY-090](record/theory.d/THEORY-090.md) recasting their rivalry.

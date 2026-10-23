@@ -1,0 +1,95 @@
+---
+status: Active
+status_note: 'read 2026-10-23 (NOTE-tmpmobow): in full, from the PDF Annual Reviews serves to guest readers. Worth reading as the latest review of the component process model''s evidence, organised by appraisal criterion rather than by emotion category. Its paths run from appraisal to action tendencies, to physiological responses and to expression. It separates intrinsic valence from goal congruence and reports the few studies that pull them apart: they have partly different physiological signatures and combine multiplicatively. It ends with a two-threshold proposal: coherence among components above one threshold starts an episode, and above a second it becomes aware. It does not describe appraisal as a negotiation among perspectives.'
+title: 'The Emotion Process: Event Appraisal and Component Differentiation'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: the publisher's PDF (27 pp.), served by annualreviews.org
+    to guest readers, extracted with pdftotext. The text, sidebar, summary
+    points and future issues were read; the reference list was consulted,
+    not read. Page references are the journal's. All quotations were checked
+    by script against the extracted text. Details checked against Crossref
+    (DOI 10.1146/annurev-psych-122216-011854): Klaus R. Scherer and Agnes
+    Moors, Annual Review of Psychology 70:719–745, issue of 4 January
+    2019. `published:` is the Review in Advance date printed on the
+    article, 15 August 2018. Ghent University's repository holds a copy for
+    UGent users only. Annual Reviews' article pages refused this client
+    behind a bot check; the PDF was reached through the publisher's
+    full-text delivery link.
+tags:
+- emotion-and-affect
+- cognition
+- motivation
+date: '2026-10-23'
+published: '2018-08-15'
+doi: '10.1146/annurev-psych-122216-011854'
+url: 'https://www.annualreviews.org/deliver/fulltext/psych/70/1/annurev-psych-122216-011854.pdf'
+first_author: 'Scherer'
+keywords:
+- 'component process model'
+- 'appraisal criteria'
+- 'intrinsic valence'
+- 'goal congruence'
+- 'action tendencies'
+- 'component coherence'
+- 'response patterning'
+implementations: []
+summary: >-
+  Scherer & Moors (2019), Annual Review of Psychology 70:719–745. A review
+  of experimental evidence on the emotion process, organised by five
+  appraisal criteria (novelty, intrinsic and extrinsic valence, agency,
+  control or power, fairness) and three paths from appraisal: to action
+  tendencies, to physiological responses and to facial, vocal and gestural
+  expression. Appraisal criteria have more stable response correlates than
+  emotion categories do. Proposes that coherence among components above a
+  threshold marks an episode, and above a second threshold awareness.
+---
+<!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-tmptd5us — Proposed; the account and candidate this reading bears on -->
+
+# LIT-tmpjaacn: The Emotion Process: Event Appraisal and Component Differentiation
+
+Klaus R. Scherer & Agnes Moors (2019), *Annual Review of Psychology*
+70:719–745 — DOI-10.1146/annurev-psych-122216-011854
+
+## Key takeaways
+
+- **A process, not categories** (pp. 720–722). Elicitation by appraisal
+  drives differentiation (action tendencies, physiology, expression), then
+  integration into a central representation (feeling), then optional
+  categorisation and labelling. Most links are bidirectional; the model
+  has "a high degree of recursiveness" (p. 722, Figure 1).
+- **Two valences** (p. 725). "Valence is used as an overarching concept
+  covering both (a) intrinsic valence (or pleasantness), which is the
+  appraisal of a stimulus as merely positive or negative, and (b) valence
+  that derives from goal congruence". Few studies separate them.
+- **Where they come apart** (pp. 730–734). Intrinsic valence acts more on
+  facial EMG; goal congruence on skin conductance and temperature, and in
+  the voice on energy, f0 and duration. The two "combined
+  multiplicatively" (p. 730). Intrinsic valence is processed earlier.
+- **Control and power** (pp. 726–728, 731, 734). High control goes with
+  approach, activity and, under social power, aggression; low with
+  avoidance and passivity. Goal congruence effects on the face are
+  "amplified" when control is high (p. 732).
+- **Two thresholds** (p. 737). An episode starts when coherence among
+  components rises "beyond a certain threshold", and "a person will become
+  aware of an altered state after a second threshold of coherence has
+  been reached."
+- **Measures** (p. 738). Coherence needs time-series modelling; a
+  function-on-function regression of EEG against EMG (Rügamer et al.
+  2017) is the example given. The feeling component itself "has been
+  neglected" (p. 739).
+
+## Standing in the record
+
+Filed on 2026-10-23 for the record's ascendancy account (CLAIM-tmpz8lli)
+and its felt-valence candidate (CLAIM-tmptd5us). NOTE-tmpmobow
+asks whether the review already describes appraisal as a negotiation among
+perspectives. It does not, though it holds most of the ingredients. It is
+also the best source the record has for physiological markers that tell
+intrinsic valence from goal congruence.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

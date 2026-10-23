@@ -59,6 +59,7 @@ supports:
 objected_by:
 - CLAIM-tmpe0iew
 ---
+<!-- inactive-ok-file: CLAIM-tmp5lpdu — Proposed; the reply filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-tmp0s27v — Unavailable, unread; Moors 2022, named as the book the novelty claim must be checked against -->
 <!-- inactive-ok-file: CLAIM-tmpe0iew THEORY-tmp0bbxk — Proposed; the objection and reading filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-tmp63om1 LIT-tmpglbdp LIT-tmpj2mcy LIT-tmpb4r95 — Unavailable or Deferred, unread; the papers that state the accounts read here through later work by the same authors, and the one to read next -->
@@ -122,7 +123,13 @@ competing to determine the agent's coping response" (p. 81). On Moors's
 typology the record's view is a response-evaluation theory rather than an
 appraisal theory in the narrow sense, and "appraisal" here is meant in
 the wider one. Her book (LIT-tmp0s27v) is unread, and the novelty of
-anything below should not be claimed past it until it is. Scherer's
+anything below should not be claimed past it until it is. The component process model itself does not describe appraisal as a
+negotiation: in Scherer and Moors's statement of it (LIT-tmpjaacn,
+NOTE-tmpmobow) appraisal is one evaluator's profile driving patterned
+responses, and nothing there wins, persists or resumes; the nearest
+precedent in that tradition is Shuman, Sander and Scherer's "perspectives
+with which the same object may be approached" (LIT-tmpkywoj, p. 13).
+Scherer's
 definition of emotion already holds
 CLAIM-283's distinction: "claiming (not always successfully) priority"
 (LIT-tmpfjacn, NOTE-tmpsx1uk, §1). What this claim adds is threefold. The competitors are perspectives,
@@ -200,7 +207,7 @@ sign.
    shows the first has a currency and the second none, and
    CLAIM-tmp83ge2 reads Veit and ALARM as these two regimes.
 
-## The objection it faces
+## The objection it faces, and the reply
 
 CLAIM-tmpe0iew: ascendancy as defined tracks 'wanting', not 'liking'.
 Sensitized incentive salience meets all three marks of ascendancy while
@@ -209,6 +216,12 @@ hedonic impact, measured by taste reactivity, stays flat or falls
 objection stands, the regime defined here is motivational valence, and
 "hedonic" in this claim and in TERM-tmp8gbrt is the wrong word; whether
 to revise them is the owner's decision.
+
+CLAIM-tmp5lpdu replies by conceding in a principled form. On the
+component process model's levels of valence, this claim's ordering is
+goal conduciveness, the strength of its ascendancy tracks 'wanting', and
+'liking' is intrinsic pleasantness, a separate appraisal. The account
+would then be of goal-conduciveness valence, not hedonic valence.
 
 ## What it does not say
 

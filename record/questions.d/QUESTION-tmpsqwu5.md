@@ -16,6 +16,7 @@ summary: >-
   whether the measured (actual) and the dispositional readings agree,
   which bears on the counterfactual eraser (THEORY-252).
 ---
+<!-- inactive-ok-file: CLAIM-tmp5lpdu — Proposed; the reply filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-tmpwkuys — Unavailable, abstract only; DynAffect, named for its attractor-strength parameter -->
 <!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli THEORY-252 — Proposed; the term and claim this asks about, and the dilemma it bears on, cited as open -->
 
@@ -68,7 +69,15 @@ synchronization of response components (LIT-tmpfjacn, NOTE-tmpsx1uk) and
 Lewis's predicted theta phase synchrony (LIT-tmpj284p, NOTE-tmpz7wab) are
 correlates that ascendancy would produce. Neither is signed, neither says
 which ranking is winning, and neither is given as a measure per episode.
-The componential measurement literature since does not close the gap.
+The component process model proposes two coherence measures, neither
+signed: an EEG gamma and beta contrast between felt and unfelt episodes
+(Grandjean, Sander and Scherer, LIT-tmpgh72l, p. 489), and a
+function-on-function regression of EEG against EMG (Scherer and Moors,
+LIT-tmpjaacn, p. 738). For organisms, the physiological split between
+intrinsic valence (facial EMG) and goal congruence (skin conductance and
+skin temperature; LIT-tmpjaacn, p. 730) separates the two levels of
+valence CLAIM-tmp5lpdu distinguishes. The componential measurement
+literature since does not close the gap.
 Mohammadi and Vuilleumier (LIT-tmp7rygg), Meuleman and Rudrauf
 (LIT-tmp5ejuc) and Meuleman et al. (LIT-tmppjo0s) measure
 multi-componentiality as structure across a sample of ratings, not as

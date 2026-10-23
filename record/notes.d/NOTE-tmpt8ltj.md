@@ -1,0 +1,219 @@
+---
+status: Read
+paper: LIT-tmpgh72l
+title: 'Conscious emotional experience emerges as a function of multilevel, appraisal-driven response synchronization'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: the typeset PDF posted by the authors' laboratory, text,
+    figure captions and references. The six figures were seen only as their
+    captions. Page references are the journal's. All quotations were checked
+    by script against the extracted text.
+date: '2026-10-23'
+summary: >-
+  A theoretical paper with a short review of EEG and neural-synchrony
+  evidence. Conscious emotional experience is recruited when lower,
+  automatic levels of appraisal and regulation fail, which happens when
+  component synchronization is strong and lasting. Conscious regulation
+  needs explicit representations. The feeling is a central representation
+  of the components and their coherence, built by local and distant
+  neuronal synchronization. Proposed measures are EEG band activity in felt
+  versus unfelt episodes, and phase coherence between regions.
+---
+<!-- inactive-ok-file: CLAIM-tmptd5us CLAIM-tmpz8lli CLAIM-tmpe0iew TERM-tmp8gbrt THEORY-101 THEORY-662 QUESTION-059 QUESTION-tmp0oife QUESTION-tmpsqwu5 — Proposed, Open or Deferred; the candidate, account, objection and questions this reading bears on, cited as open -->
+
+# NOTE-tmpt8ltj: Conscious emotional experience emerges as a function of multilevel, appraisal-driven response synchronization
+
+## Contribution
+
+The component process model's answer to when an emotion is conscious. It
+combines three ideas. Appraisal has several levels and stops early when
+it can. Synchronization among components is costly. Conscious regulation
+is representational. The result is a functional account of why
+consciousness is recruited, attached to a neural hypothesis about how:
+binding by synchrony.
+
+## Key insight
+
+Consciousness is the expensive fallback. Most events are dealt with at
+low levels and their emotional processing stays unconscious. Feeling
+arises when the episode is too strong and too lasting to be regulated
+automatically, and higher regulation has to work on an explicit
+representation of what is going on.
+
+## Assumptions
+
+- Leventhal and Scherer's three levels of appraisal (sensory-motor,
+  schematic, conceptual), with consciousness required only at the
+  conceptual level (p. 488).
+- That the recursive loop of appraisal "stops when a conclusive result ...
+  has been achieved" (p. 489).
+- Fries's communication through coherence: "neuronal assemblies have to
+  be in synchronization to exchange information" (p. 488).
+- An analogy with vision, where binding by synchrony replaced the search
+  for a single convergence centre (pp. 491–492).
+
+## Key results
+
+A hypothesis with supporting evidence:
+
+- **Against rivals** (pp. 484–485). Basic-emotion models leave the affect
+  programs unspecified; dimensional models reduce emotion to self-reported
+  valence and arousal. Neither says much about consciousness.
+- **The Venn model** (pp. 486–487). Circle A is the representation of
+  synchronized changes in a monitoring network; circle B, "only partially
+  overlapping the first", is the part that becomes conscious; circle C is
+  what is verbally reported.
+- **Sequence evidence** (pp. 489–491), from Grandjean and Scherer (2008, in press when this paper appeared):
+  an ERP novelty map precedes a task–goal relevance map by about 50 ms;
+  intrinsic pleasantness effects precede goal conduciveness effects; goal
+  conduciveness has an induced-gamma effect near 600 ms. So novelty and
+  intrinsic pleasantness "may be appraised early, on an unconscious,
+  automatic, and possibly schematic level, whereas goal conduciveness
+  tends to be evaluated later in the sequence, on a conscious,
+  controlled, and possibly propositional level" (p. 491).
+- **Felt versus unfelt** (p. 489). "Episodes for which participants
+  reported a subjective feeling were compared with those that did not
+  lead to a conscious emotional experience. Discrete wavelet transforms
+  of the EEG signal in gamma and beta bands showed that significant
+  differences can be observed between these two types of reactions."
+  Gamma differences were frontal and prefrontal (Dan Glauser and Scherer
+  2008).
+- **Unconscious appraisal exists** (p. 492): blindsight, neglect,
+  amygdala responses to masked faces, attention capture outside the focus
+  of voluntary attention, for positive stimuli as well as for threat.
+- **The working hypothesis** (p. 493). "The building of a conscious
+  feeling requires the neuronal synchronization of local and distant
+  specific neuronal assemblies to compute component-specific versus
+  feeling-specific representations that can reach consciousness."
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Appraisal runs in parallel at several levels and stops at the first conclusive result | moderate | argued; consistent with the sequence data |
+| C2 | Intrinsic pleasantness is appraised before goal conduciveness, and at a lower level | moderate | EEG studies (Grandjean & Scherer 2008); Lanctôt & Hess 2007; Aue et al. 2007 |
+| C3 | Consciousness is recruited when synchronization is too strong and lasting for automatic regulation | weak | argued from cost; not tested |
+| C4 | Felt and unfelt episodes differ in EEG gamma and beta activity | weak | one study, cited |
+| C5 | Component synchronization and neuronal synchronization are jointly necessary and sufficient for conscious feeling | weak | hypothesis |
+
+## Concepts
+
+- **level of processing** — sensory-motor, schematic or conceptual;
+  later, costlier and more conscious in that order.
+- **preliminary closure** — the point at which a check yields a result
+  firm enough to send efferent commands; it fixes the sequence.
+- **component synchronization** — coherence of changes across the
+  emotion's subsystems; its degree and duration drive consciousness.
+- **neuronal synchronization** — phase coherence within and between
+  neuronal assemblies, the proposed binding mechanism for the feeling.
+
+## Connections
+
+States more fully the consciousness hypothesis that Scherer's 2009 paper
+gives in one sentence (LIT-tmpfjacn, NOTE-tmpsx1uk), and that Scherer and
+Moors (NOTE-tmpmobow) recast as a second threshold of
+coherence. Cites Thagard and Aubie's neural model of emotional
+consciousness as consistent. The EEG sequence study it relies on,
+Grandjean and Scherer's "Unpacking the cognitive architecture of emotion
+processes" (Emotion, 2008), is not in the record; the Archive ouverte
+UNIGE lists it as unige:97784.
+
+## Bearing on the record
+
+**Does the synchronization account rival CLAIM-tmptd5us's self-model
+condition?** Partly. The two agree more than the title suggests, and they
+disagree on two points that an experiment could separate.
+
+Where they agree:
+
+- **Feeling is a representation, used by further regulation.** The
+  abstract's condition is that consciousness emerges when lower levels
+  cannot "regulate the emotional process". The mechanism is that
+  "higher level regulation strategies, such as reappraisal, must kick in.
+  These strategies require high-level representational operations and are
+  therefore usually conscious" (p. 492). That is CLAIM-tmptd5us's
+  condition in a different vocabulary: a deeper process represents the
+  regime, and the representation is used elsewhere in the system (here,
+  by reappraisal). The feeling is also, as in the 2009 paper, a monitoring
+  representation of "the continuous patterns of change in all other
+  components, as well as their coherence" (p. 486).
+- **The model is not sufficient.** Circle B overlaps circle A only
+  partly (p. 486). A representation of the regime can exist and not be
+  conscious. CLAIM-tmptd5us adopts THEORY-662's sense of "felt", attended
+  and available; Grandjean et al.'s circle B is meant as qualia. On their
+  account the model may be available to regulation and still not be
+  phenomenally conscious. That is QUESTION-059's gap again, and
+  CLAIM-tmptd5us's third defeater.
+
+Where they differ:
+
+- **The trigger.** For Grandjean et al., consciousness depends on a
+  property of the regime itself: the degree and duration of
+  synchronization, "a critical level and duration" (p. 484). Lasting
+  high synchrony costs too much to be left to automatic regulation. On
+  CLAIM-tmptd5us, what matters is only whether a model exists and is used,
+  and nothing says when one is recruited. So Grandjean et al. predict that
+  weak or brief regimes are unfelt even when a system could model them,
+  and CLAIM-tmptd5us does not. Read with TERM-tmp8gbrt, their account says
+  that strong and persistent ascendancy is felt, which makes intensity
+  and persistence, two of the term's own clauses, conditions of feeling.
+  That is a substantive addition the record could take, as a hypothesis
+  about when the self-model is recruited.
+- **The content.** What is represented is the components' changes and
+  their coherence, not which ordering wins or which way the system moves
+  along it. Coherence is unsigned. A model of coherence alone could not
+  carry the sign that CLAIM-tmptd5us's model must carry. Grandjean et al.
+  get the sign from the appraisal profile, which is part of what the
+  feeling integrates. So their model is richer than the record's in what
+  it represents (everything) and poorer in structure (no winner).
+- **The mechanism.** They tie consciousness to neural binding by phase
+  synchrony. CLAIM-tmptd5us is neutral on mechanism and holds for
+  organizations. Their second mechanism cannot transfer to an
+  organization, and the record should not import it.
+
+So an experiment could separate them: an episode with strong, lasting
+component synchronization that a subject's further regulation does not use
+(no reappraisal, no report-guided control). Grandjean et al. predict it
+is felt; CLAIM-tmptd5us predicts it is not. The paper's own data do not
+tell. Dan Glauser and Scherer's felt–unfelt contrast is split by report,
+which is the third circle, not the second.
+
+**The sequence evidence bears on CLAIM-tmpe0iew too.** Intrinsic
+pleasantness is early and "unconscious, automatic, and possibly
+schematic"; goal conduciveness is later and "conscious, controlled, and
+possibly propositional" (p. 491). That fits Berridge's picture, in
+which 'liking' reactions can occur without felt pleasure, and it fits the
+reading in NOTE-tmpogww2 on which the record's ascendancy account
+covers goal-conduciveness valence. But it cuts against CLAIM-tmptd5us's
+felt-pleasure question in one way. If pleasantness is resolved early at a
+low level, then on Grandjean et al.'s logic it is the valence least likely
+to recruit a conscious model. Felt pleasure would then need either the
+later checks or the strength of the episode to bring it in.
+
+**Measures, for QUESTION-tmp0oife and QUESTION-tmpsqwu5.** Two are
+proposed: EEG band activity contrasted between felt and unfelt episodes,
+and phase coherence between regions as an index of communication. Both
+measure neural synchrony, not component coherence or which ordering
+prevails. Both are for organisms. Neither is a record of conduct of the
+kind QUESTION-tmpsqwu5 asks for.
+
+## Limitations
+
+The central claim (C3) is argued from cost and not tested. The
+"necessary and sufficient" conditions in the conclusion are stated, not
+derived, and the earlier sentence calls component synchronization
+"necessary but not sufficient". The felt–unfelt EEG contrast rests on
+report. The levels are, as the authors grant, not specified beyond
+Leventhal's three.
+
+## Open questions
+
+Whether "critical level and duration" can be given a threshold that is
+estimated rather than stipulated. Whether the conscious representation
+contains which appraisal outcome is driving the episode, or only its
+coherence. Whether a system with no costly synchrony, such as an
+organization, could meet the first half of the account in some other way,
+for example through the cost of sustained conflict among its parts.

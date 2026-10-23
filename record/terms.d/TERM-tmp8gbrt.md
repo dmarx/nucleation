@@ -22,6 +22,7 @@ summary: >-
 used_by:
 - CLAIM-tmpz8lli
 ---
+<!-- inactive-ok-file: LIT-tmp3deyb — Unavailable, abstract only; Fontaine et al. 2007, cited for the dimension it names -->
 <!-- inactive-ok-file: LIT-tmp63om1 — Unavailable, unread; Carver and Scheier 1990, read through Carver 2018 (LIT-tmpdmzgc) -->
 
 # TERM-tmp8gbrt: hedonic valence, organizational: a regime in which one ordering of a system's own states, ranked by their bearing on its maintenance, prevails in the negotiation among its perspectives, winning their conflicts, persisting and resuming after interruption; signed by whether the system runs ahead of or behind a reference course along that ordering, and as intense as the ascendancy is strong
@@ -66,7 +67,9 @@ to a collective relation R_t on X_t.
   because the word is taken twice. In affective science "dominance" is
   the third axis of Mehrabian and Russell's pleasure–arousal–dominance
   model, the felt sense of being in control, which Fontaine and
-  colleagues' power or control dimension continues; in decision theory a
+  colleagues' potency–control dimension continues (LIT-tmp3deyb), and
+  which the component process model's own authors call "dominance"
+  (LIT-tmpkywoj, p. 4); in decision theory a
   dominated option is one worse on every count. Ascendancy is neither: it
   is which ordering wins a negotiation. "Precedence" was not used either,
   because [CLAIM-283](../claims.d/CLAIM-283.md) uses it for the priority a motive claims, as against
