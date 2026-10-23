@@ -106,7 +106,7 @@ fixation share? On the personal side the theory gives the question a
 mechanism. Sensitized 'wanting' shows all three of the marks by which
 [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) defines potential, and its strength is set by cue
 reactivity, not by what the outcome does for the person. It also presses
-on [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md). That claim pairs gradient share with 'wanting' and
+on [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md). That claim pairs the potential's strength with 'wanting' and
 sign with goal conduciveness, and this paper's recovering addict is the
 case where the two come apart. It is the same programme as [THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md)
 and another review, so it cannot meet that reading's `promote_when`. The

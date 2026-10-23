@@ -101,7 +101,7 @@ The record's proposal ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tm
 valence a regime in which one ordering of a system's own states, by their
 bearing on its maintenance, prevails in the negotiation among its
 perspectives. Its sign is the direction of movement along that ordering,
-and its intensity is the gradient share. Carver's account
+and its intensity is the potential's strength. Carver's account
 bears on it in four ways.
 
 - **The sign clause is anticipated, and is less accurate than
@@ -130,7 +130,7 @@ bears on it in four ways.
   priorities afforded to each" goal (n. 3). This is the nearest the
   tradition comes to the proposal's potential, and it is not tied to
   valence. Carver ties affect to rate and priority to the hierarchy. The
-  proposal's identification of intensity with gradient share is not
+  proposal's identification of intensity with the potential's strength is not
   in Carver.
 - **A possible conflict over intensity, not checked.** Footnote 3 cites
   Carver 2003 for priority juggling. Its title says pleasure is "a sign

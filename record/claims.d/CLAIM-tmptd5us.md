@@ -77,7 +77,7 @@ model fitness ("subjective fitness")" (p. 399). The precision γ weights
 the preference-driven ranking of policies against the habitual prior, so
 "higher γ values afford a greater influence of the expected free energies
 of each policy entailed by one's current action model" (p. 408): in this
-record's terms, γ is a gradient share, and the deeper level models
+record's terms, γ is a potential's strength, and the deeper level models
 it. They add that "this type of explicit valence representation is also a
 necessary condition for self-reportable experience of valence" (p. 429).
 

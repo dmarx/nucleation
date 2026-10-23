@@ -174,7 +174,7 @@ and the match is closer than its vocabulary suggests.** Policy selection
 here is a negotiation between two rankings of the options. One is the
 preference-driven expected free energy Gπ, the other the habitual prior
 Eπ, and γ sets how far Gπ wins. On the record's terms ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)), γ
-*is* a gradient share: the weight of one perspective's ordering in a
+*is* a the potential's strength: the weight of one perspective's ordering in a
 compensatory negotiation, the first regime of [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md). The deep
 level infers its valence state from changes in that weight and sets it
 top-down. That is what the candidate proposes, almost exactly.
@@ -245,7 +245,7 @@ the free-energy derivations and the neuroanatomy (A4), were not read.
 
 ## Open questions
 
-- If γ is read as gradient share, does the model admit a regime where
+- If γ is read as the potential's strength, does the model admit a regime where
   negative valence goes with *strong* potential of a maintenance ordering
   (Hesp's fear case), or only with weakened potential of the preference
   ordering?

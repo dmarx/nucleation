@@ -143,7 +143,7 @@ five ways.
   nothing to choose between up and down. The ESM's negativity bias
   ("The gain for the negative activation function is higher") and
   positivity offset are asymmetries the proposal does not predict. If
-  intensity is the gradient share, the negativity bias says downward
+  intensity is the potential's strength, the negativity bias says downward
   movement prevails more strongly than equal upward movement. That is
   compatible with the proposal, but must be added to it.
 - **Heterarchy bears on [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s defeater.** The ESM says

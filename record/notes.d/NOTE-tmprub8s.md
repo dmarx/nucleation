@@ -188,7 +188,7 @@ distinction between decision and experienced utility in economics.
 
 **Wanting without liking cuts against *valence is potential* as written.**
 [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) makes hedonic valence a regime of potential, whose
-intensity "is the gradient share". Sensitized 'wanting' is
+intensity "is the potential's strength". Sensitized 'wanting' is
 potential by every mark Frijda gives control precedence ([THEORY-055](../theory.d/THEORY-055.md)). The
 addict's drug-ranking wins conflicts against every other concern. It
 persists, and it resumes after abstinence when cues return. Yet, on the

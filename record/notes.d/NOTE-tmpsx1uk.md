@@ -122,7 +122,7 @@ perspectives would produce that coherence, since all the perspectives it
 governs would be pulled the same way. But coherence does not say which
 ranking does the pulling, or whether it is a ranking of the system's own
 states, or what sign the state has. Synchronization is unsigned, like
-gradient share, so at best it is an analogue of the term's
+the potential's strength, so at best it is an analogue of the term's
 *intensity* clause. Scherer himself has the integrated inputs fix the
 feeling's quality, intensity and duration, not synchrony alone.
 

@@ -179,7 +179,7 @@ record the animal's prior state.
 **On measurement.** Lewis's phase synchrony is an operational measure,
 EEG or LFP phase locking, but of coherence among regions, not of which
 ranking governs action. For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) it is a candidate marker
-of gradient share, and needs pairing with a behavioural record of
+of the potential's strength, and needs pairing with a behavioural record of
 which conflicts are won.
 
 **On [CLAIM-283](../claims.d/CLAIM-283.md).** In Lewis's account, the authority a configuration is

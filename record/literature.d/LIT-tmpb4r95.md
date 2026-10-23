@@ -29,7 +29,7 @@ summary: >-
   places positive feelings in a control-process model of affect as a sign
   that one can attend to something else. Unread: registered so that the
   claim that positive affect releases a goal's priority, which bears
-  against reading valence intensity as gradient share, is checked
+  against reading valence intensity as the potential's strength, is checked
   against the paper.
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli — Proposed; the claim this paper may bear against, cited as open -->

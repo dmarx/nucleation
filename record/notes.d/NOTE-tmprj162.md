@@ -245,7 +245,7 @@ problem the question faces, and [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) 
 dispositional character under the counterfactual eraser.
 
 **The organizational side, as analogy only.** Dopamine dysregulation
-syndrome shows that gradient share can be set from outside, with its
+syndrome shows that the potential's strength can be set from outside, with its
 targets "idiosyncratically diverse", and that it fades when the drive
 stops. An incentive system that amplifies whatever metric is cued, as
 Wells Fargo's did for cross-sell ([CASE-151](../cases.d/CASE-151.md), [CLAIM-432](../claims.d/CLAIM-432.md)), is the analogue
