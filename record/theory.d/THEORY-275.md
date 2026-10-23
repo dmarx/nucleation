@@ -138,7 +138,7 @@ Das, Manikandan and Banerjee (2025), *Physical Review Applied* 24,
 ## Connections
 
 - **[QUESTION-063](../questions.d/QUESTION-063.md): answers in part.** Since 2026-10-23 the part answered is
-  the child QUESTION-tmpasghi, which this entry answers in full; the
+  the child [QUESTION-tmpasghi](../questions.d/QUESTION-tmpasghi.md), which this entry answers in full; the
   points below say what it leaves the parent.
   - The question asks what measurement tells which architecture produced
     a collective outcome. This account says what one family of
