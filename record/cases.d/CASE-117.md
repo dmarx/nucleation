@@ -165,8 +165,8 @@ The relation between persisting and reorganizing is the contrast that
 ## Note of 2026-10-23: what mixture-of-experts work already shows
 
 A5 of the exchange of 2026-10-23, "Framework Overview Request" cited three works, registered unread: Switch Transformers
-([LIT-tmpg44zc](../literature.d/LIT-tmpg44zc.md)), auxiliary-loss-free load balancing ([LIT-tmpl8rxn](../literature.d/LIT-tmpl8rxn.md)), and a
-theory of mixture-of-experts in continual learning ([LIT-tmpffj9m](../literature.d/LIT-tmpffj9m.md)), which
+([LIT-1412](../literature.d/LIT-1412.md)), auxiliary-loss-free load balancing ([LIT-1414](../literature.d/LIT-1414.md)), and a
+theory of mixture-of-experts in continual learning ([LIT-1411](../literature.d/LIT-1411.md)), which
 by its abstract shows experts diversifying to specialize in tasks while
 the router learns to route and balance load. So specialization and its
 dependence on routing are shown. A5: what remains is "whether a specialist

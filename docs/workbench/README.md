@@ -6,6 +6,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## Currently — [October 2026](2026-10.md)
 
+- [23 Oct 03:12 — Session of 2026-10-23, 00:19–01:27 (U1–U9): the organizational-perspective framework assessed, its experiments inventoried, external results matched to the proposed studies, and two question splits proposed](2026-10.md#session-of-2026-10-23-00190127-u1u9-the-organizational-perspective-framework-assessed-its-experiments-inventoried-external-results-matched-to-the-proposed-studies-and-two-question-splits-proposed)
+- [23 Oct 03:12 — Session of 2026-10-22, 21:27–21:52 (U1–U6): the Ben Franklin effect as a perspectival invitation, intergroup contact, and trade as coupled interests](2026-10.md#session-of-2026-10-22-21272152-u1u6-the-ben-franklin-effect-as-a-perspectival-invitation-intergroup-contact-and-trade-as-coupled-interests)
 - [22 Oct 16:33 — Branch of the same session, 09:27–16:18 (B37–B39): the doorway effect and the Cultural Revolution as interruptions of a perspective, perspective and agency, and a review of this record's filing of the session](2026-10.md#branch-of-the-same-session-09271618-b37b39-the-doorway-effect-and-the-cultural-revolution-as-interruptions-of-a-perspective-perspective-and-agency-and-a-review-of-this-records-filing-of-the-session)
 - [22 Oct 10:38 — Session of 2026-10-22, 06:25–09:48 (U20–U40): from "What is it like to be Microsoft?" to selves as organizational perspectives, through incident command, NASA, Clive Wearing, party realignment, martial arts and imagined audiences](2026-10.md#session-of-2026-10-22-06250948-u20u40-from-what-is-it-like-to-be-microsoft-to-selves-as-organizational-perspectives-through-incident-command-nasa-clive-wearing-party-realignment-martial-arts-and-imagined-audiences)
 - [22 Oct 10:38 — Session of 2026-10-22, 02:08–05:59 (U1–U19): choosing manuscripts from the record's graph, the competition that redirected it, and the cases the owner asked for](2026-10.md#session-of-2026-10-22-02080559-u1u19-choosing-manuscripts-from-the-records-graph-the-competition-that-redirected-it-and-the-cases-the-owner-asked-for)
@@ -83,8 +85,8 @@ Working sessions on the record's own arguments — what was proposed, objected t
 
 ## All books
 
-74 entries across 1 book, newest first.
+76 entries across 1 book, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 74 | 2026-10-07 | 2026-10-22 |
+| [2026-10](2026-10.md) | 76 | 2026-10-07 | 2026-10-23 |

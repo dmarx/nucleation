@@ -4,7 +4,7 @@
 
 **embodied-cognition**.
 
-45 of 1092 NOTE documents. Back to the [full index](../README.md).
+46 of 1093 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -53,3 +53,4 @@
 | [NOTE-1082](../../../record/notes.d/NOTE-1082.md) | Radvansky et al. — Walking through doorways causes forgetting: further explorations | Three experiments. The doorway effect appeared with small monitors and in real rooms carrying a box of six objects, and returning to the room where the objects were picked up did not help: memory followed the number of rooms involved, worst after two new rooms. The authors attribute it to retrieval interference between event models that both contain the probed object, not to the loss of an encoding context. | Read |
 | [NOTE-1083](../../../record/notes.d/NOTE-1083.md) | Radvansky & Copeland — Walking through doorways causes forgetting | Two desktop virtual-reality experiments. With distance held equal, walking through a doorway rather than across a large room raised errors and slowed responses to a probe for the object being carried; memory for the object just set down was not affected. The authors read it as situation-model updating at a spatial shift. The effect rests on few no-shift trials (5 per condition), and the shift and no-shift rooms differed in size and wall pattern. | Read |
 | [NOTE-1092](../../../record/notes.d/NOTE-1092.md) | Penglase — The unspoken whiteness of Brazilian jiu-jitsu | An anthropologist's argument, from secondary histories, Gracie family sources and a little ethnography, that the Gracies' challenge matches against luta livre placed their jiu-jitsu in Brazil's racial hierarchy as white, mostly through class, neighbourhood and employment rather than in words. Along the way it documents that the Gracies fought over the rules as well as under them, and that jiu-jitsu prospered while luta livre, poorer and darker, went underground; it then absorbed luta livre's no-gi style until only the social difference remained. | Read |
+| [NOTE-1093](../../../record/notes.d/NOTE-1093.md) | Bigand et al. — The geometry of interpersonal synchrony in human dance | In 35 dyads of untrained dancers facing each other, shared music and visual contact were varied independently. Each raised interpersonal synchrony, in different principal movements and with no interaction: lateral and hand movements synchronized through seeing the partner, anteroposterior movements such as head bobs through the shared music, and vertical bounce through both. Which factor drove a movement's synchrony could be read from its spatial direction (100% classification) and not from its periodicity. The direction of coupling between partners was not estimated. | Read |

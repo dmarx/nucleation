@@ -107,13 +107,13 @@ lacks ([QUESTION-087](../questions.d/QUESTION-087.md)).
 
 Cited at A5 of the exchange of 2026-10-23, "Framework Overview Request". In three-person human groups, prediscussion
 dissent improved hidden-profile decisions even when the dissent was itself
-wrong, and its size did not matter (Schulz-Hardt et al., [LIT-tmpefjd9](../literature.d/LIT-tmpefjd9.md));
+wrong, and its size did not matter (Schulz-Hardt et al., [LIT-1409](../literature.d/LIT-1409.md));
 making members' preferences known degraded attention to the information
-(Mojzisch and Schulz-Hardt, [LIT-tmp4zxlj](../literature.d/LIT-tmp4zxlj.md)). Both are Unavailable and read
+(Mojzisch and Schulz-Hardt, [LIT-1403](../literature.d/LIT-1403.md)). Both are Unavailable and read
 from abstracts ([QUESTION-089](../questions.d/QUESTION-089.md)'s note). So suppressing honest minorities has
 a measurable cost in people. They say nothing about adversarial members or
 governance architectures. A5 also cited a comparison of Byzantine-robust
 federated-learning methods under heterogeneous data, which was not
-identified with confidence and is not filed. [CASE-tmp4ozxp](CASE-tmp4ozxp.md) proposes the
+identified with confidence and is not filed. [CASE-144](CASE-144.md) proposes the
 evaluator-compromise test in a form that bears on this case and [CASE-092](CASE-092.md)
 at once.

@@ -35,7 +35,7 @@ history:
 - version: 5
   date: '2026-10-23'
   note: >-
-    `answers` moved from QUESTION-063 to its new child QUESTION-tmpasghi
+    `answers` moved from QUESTION-063 to its new child QUESTION-263
     under ADR-049, at the owner's request (exchange of 2026-10-23). The
     child asks exactly what this entry settles, in the one bead system;
     QUESTION-063 stays Open for the rest. The account is unchanged.
@@ -48,7 +48,7 @@ date: '2026-10-14'
 source:
 - LIT-947
 answers:
-- QUESTION-tmpasghi
+- QUESTION-263
 summary: >-
   Das, Manikandan and Banerjee (2025), [LIT-947](../literature.d/LIT-947.md), read in [NOTE-788](../notes.d/NOTE-788.md).
   Two colloids are coupled by the fluid through a symmetric tensor, and
@@ -138,7 +138,7 @@ Das, Manikandan and Banerjee (2025), *Physical Review Applied* 24,
 ## Connections
 
 - **[QUESTION-063](../questions.d/QUESTION-063.md): answers in part.** Since 2026-10-23 the part answered is
-  the child [QUESTION-tmpasghi](../questions.d/QUESTION-tmpasghi.md), which this entry answers in full; the
+  the child [QUESTION-263](../questions.d/QUESTION-263.md), which this entry answers in full; the
   points below say what it leaves the parent.
   - The question asks what measurement tells which architecture produced
     a collective outcome. This account says what one family of

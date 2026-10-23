@@ -1,17 +1,17 @@
 ### Added
 
 - From the exchange of 2026-10-22, "Ben Franklin Effect Explained":
-  - the favour as a perspectival invitation, an interaction that makes available a way of relating its participants' perspectives did not hold ([CLAIM-tmprti7p](record/claims.d/CLAIM-tmprti7p.md));
-  - an intervention on a coupled interpretation–cooperation loop changes its state or its coupling, and only the second changes how later evidence is taken ([CLAIM-tmpm3bml](record/claims.d/CLAIM-tmpm3bml.md));
-  - material interdependence does not fix the perspective that organizes it ([CLAIM-tmpm3ah3](record/claims.d/CLAIM-tmpm3ah3.md));
-  - cases: Franklin's borrowed book ([CASE-tmp0b3lc](record/cases.d/CASE-tmp0b3lc.md)), two friendships across a group line ([CASE-tmp6z1ew](record/cases.d/CASE-tmp6z1ew.md)), Kalla and Broockman's conversations against arguments ([CASE-tmpa5fgc](record/cases.d/CASE-tmpa5fgc.md)), Kleinman, Liu and Redding's economic and political alignment ([CASE-tmptjtlr](record/cases.d/CASE-tmptjtlr.md));
-  - a question refining [QUESTION-259](record/questions.d/QUESTION-259.md), on state against coupling and taking part against being told ([QUESTION-tmp29kxz](record/questions.d/QUESTION-tmp29kxz.md)).
+  - the favour as a perspectival invitation, an interaction that makes available a way of relating its participants' perspectives did not hold ([CLAIM-430](record/claims.d/CLAIM-430.md));
+  - an intervention on a coupled interpretation–cooperation loop changes its state or its coupling, and only the second changes how later evidence is taken ([CLAIM-429](record/claims.d/CLAIM-429.md));
+  - material interdependence does not fix the perspective that organizes it ([CLAIM-428](record/claims.d/CLAIM-428.md));
+  - cases: Franklin's borrowed book ([CASE-143](record/cases.d/CASE-143.md)), two friendships across a group line ([CASE-146](record/cases.d/CASE-146.md)), Kalla and Broockman's conversations against arguments ([CASE-147](record/cases.d/CASE-147.md)), Kleinman, Liu and Redding's economic and political alignment ([CASE-150](record/cases.d/CASE-150.md));
+  - a question refining [QUESTION-259](record/questions.d/QUESTION-259.md), on state against coupling and taking part against being told ([QUESTION-262](record/questions.d/QUESTION-262.md)).
 - From the exchange of 2026-10-23, "Framework Overview Request":
-  - three grades of evidence for the organizational-perspective framework, of which only out-predicting the strongest alternatives under intervention bears on its defeater ([CLAIM-tmpcp1lb](record/claims.d/CLAIM-tmpcp1lb.md));
-  - when the organizations of significance, authority and reproduction coincide or diverge, proposed as the manuscript's research problem ([QUESTION-tmppa8l7](record/questions.d/QUESTION-tmppa8l7.md));
-  - three proposed studies: the evaluator that stops tracking ([CASE-tmp4ozxp](record/cases.d/CASE-tmp4ozxp.md)), perspective transplantation ([CASE-tmpbyihf](record/cases.d/CASE-tmpbyihf.md)), perspective without collective agency ([CASE-tmp5xarm](record/cases.d/CASE-tmp5xarm.md));
-  - Bigand et al.'s dance synchrony, read, as [CASE-tmpg5qs0](record/cases.d/CASE-tmpg5qs0.md) and a Proposed THEORY answering [QUESTION-063](record/questions.d/QUESTION-063.md) in part ([THEORY-tmpcd7cz](record/theory.d/THEORY-tmpcd7cz.md));
-  - [QUESTION-063](record/questions.d/QUESTION-063.md) split under [ADR-049](record/decisions.d/ADR-049.md): its negative part, answered by [THEORY-275](record/theory.d/THEORY-275.md), is the Answered child [QUESTION-tmpasghi](record/questions.d/QUESTION-tmpasghi.md).
+  - three grades of evidence for the organizational-perspective framework, of which only out-predicting the strongest alternatives under intervention bears on its defeater ([CLAIM-427](record/claims.d/CLAIM-427.md));
+  - when the organizations of significance, authority and reproduction coincide or diverge, proposed as the manuscript's research problem ([QUESTION-264](record/questions.d/QUESTION-264.md));
+  - three proposed studies: the evaluator that stops tracking ([CASE-144](record/cases.d/CASE-144.md)), perspective transplantation ([CASE-148](record/cases.d/CASE-148.md)), perspective without collective agency ([CASE-145](record/cases.d/CASE-145.md));
+  - Bigand et al.'s dance synchrony, read, as [CASE-149](record/cases.d/CASE-149.md) and a Proposed THEORY answering [QUESTION-063](record/questions.d/QUESTION-063.md) in part ([THEORY-891](record/theory.d/THEORY-891.md));
+  - [QUESTION-063](record/questions.d/QUESTION-063.md) split under [ADR-049](record/decisions.d/ADR-049.md): its negative part, answered by [THEORY-275](record/theory.d/THEORY-275.md), is the Answered child [QUESTION-263](record/questions.d/QUESTION-263.md).
 - Twenty-six works registered: one read, three Unavailable, twenty-two unread. Two workbench entries and a curation entry.
 
 ### Changed

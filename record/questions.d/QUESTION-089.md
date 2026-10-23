@@ -63,17 +63,17 @@ without them.
 Cited at A5 of the exchange of 2026-10-23, "Framework Overview Request" as results that meet part of [CASE-108](../cases.d/CASE-108.md)'s aim.
 Neither study was reached; both are read from their PubMed abstracts.
 
-- **Schulz-Hardt et al. (2006, [LIT-tmpefjd9](../literature.d/LIT-tmpefjd9.md)).** Groups whose members agreed
+- **Schulz-Hardt et al. (2006, [LIT-1409](../literature.d/LIT-1409.md)).** Groups whose members agreed
   on a wrong option before discussion "hardly ever solved the hidden
   profile"; dissent raised solution rates "even if none of these individual
   prediscussion preferences were correct", mainly through greater
   discussion intensity. A case where destabilizing a consensus helps even
   when the dissenter is wrong.
-- **Mojzisch and Schulz-Hardt (2010, [LIT-tmp4zxlj](../literature.d/LIT-tmp4zxlj.md))** bound it: learning the
+- **Mojzisch and Schulz-Hardt (2010, [LIT-1403](../literature.d/LIT-1403.md))** bound it: learning the
   others' preferences at the start impeded solution, through less attention
   to the information exchanged, even when another member favoured the
   correct option.
-- **Lu, Yuan and McLeod (2012, [LIT-tmp1k4zi](../literature.d/LIT-tmp1k4zi.md))**, a meta-analysis of 65
+- **Lu, Yuan and McLeod (2012, [LIT-1399](../literature.d/LIT-1399.md))**, a meta-analysis of 65
   studies and 3,189 groups: hidden-profile groups were eight times less
   likely than fully informed groups to find the correct solution, and
   pooling of unique information predicted decision quality.

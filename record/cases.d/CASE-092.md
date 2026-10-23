@@ -90,7 +90,7 @@ recorded here as proposals; the case is unchanged.
 
 ## Note of 2026-10-23: what Friedkin's model already shows
 
-A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Friedkin's reflected-appraisal theory ([LIT-tmp5itdq](../literature.d/LIT-tmp5itdq.md),
+A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Friedkin's reflected-appraisal theory ([LIT-1404](../literature.d/LIT-1404.md),
 registered unread) and its DeGroot–Friedkin analysis ([LIT-1146](../literature.d/LIT-1146.md), unread):
 members appraise one another's control over prior outcomes, and that
 appraisal reshapes the influence network, which by the abstract "generates
@@ -100,5 +100,5 @@ stays for this model is whether interpretive authority and practical
 influence form a coupled system, which reflected appraisal does not by
 itself test; A5 asked that the simulation be compared with
 DeGroot–Friedkin, adaptive-network and recommender models, and not only
-reproduce [CLAIM-330](../claims.d/CLAIM-330.md)'s instability. [CASE-tmp4ozxp](CASE-tmp4ozxp.md) folds this model into a
+reproduce [CLAIM-330](../claims.d/CLAIM-330.md)'s instability. [CASE-144](CASE-144.md) folds this model into a
 larger design.

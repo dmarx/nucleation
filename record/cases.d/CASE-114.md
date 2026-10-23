@@ -130,8 +130,8 @@ premise". The design itself is unchanged.
 
 ## Note of 2026-10-23: reported authorship already comes apart from causes
 
-A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Nisbett and Wilson (1977, [LIT-tmpepx5p](../literature.d/LIT-tmpepx5p.md)) and choice
-blindness (Johansson et al. 2005, [LIT-tmprkygq](../literature.d/LIT-tmprkygq.md)), registered unread. A5:
+A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Nisbett and Wilson (1977, [LIT-1410](../literature.d/LIT-1410.md)) and choice
+blindness (Johansson et al. 2005, [LIT-1417](../literature.d/LIT-1417.md)), registered unread. A5:
 they "already demonstrate that **reported authorship and actual causal
 history can diverge**." What they do not show is this design's thesis,
 that representing a centralized controller rather than an accurately

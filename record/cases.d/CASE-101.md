@@ -76,9 +76,9 @@ to exhibit." Fictional by construction; nothing is run.
 
 ## Note of 2026-10-23: a precedent for arm B
 
-A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Jacobs and Campbell (1961, [LIT-tmpz7kvc](../literature.d/LIT-tmpz7kvc.md), Unavailable)
+A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Jacobs and Campbell (1961, [LIT-1423](../literature.d/LIT-1423.md), Unavailable)
 for this design's transmission arm: a norm surviving the replacement of
 all who set it. A5: CASE-101's contribution "should concern
 *discriminating mechanisms of persistence*, not demonstrating
-intergenerational transmission itself." [CASE-tmpbyihf](CASE-tmpbyihf.md), perspective
+intergenerational transmission itself." [CASE-148](CASE-148.md), perspective
 transplantation, is the extension A4 proposed.

@@ -79,7 +79,7 @@ regenerate characteristics while depending heavily on external causes".
 
 ## Note of 2026-10-23: the classic transmission study, not reached
 
-Cited at A5 of the exchange of 2026-10-23, "Framework Overview Request": Jacobs and Campbell (1961, [LIT-tmpz7kvc](../literature.d/LIT-tmpz7kvc.md)) seeded
+Cited at A5 of the exchange of 2026-10-23, "Framework Overview Request": Jacobs and Campbell (1961, [LIT-1423](../literature.d/LIT-1423.md)) seeded
 an exaggerated norm in Sherif's autokinetic task with confederates and
 replaced members one at a time; as standardly reported, the norm outlasted
 the confederates for several generations and decayed. A5: it "already
@@ -90,5 +90,5 @@ left this question unsplit: transmission of a norm is not what this
 question asks, which is what must stay continuous for the later
 organization to be the earlier one. The study's control groups, which
 reach the unseeded level, are a natural comparison for [CLAIM-329](../claims.d/CLAIM-329.md)'s "an
-organization of the same kind that arises independently". [CASE-tmpbyihf](../cases.d/CASE-tmpbyihf.md)
+organization of the same kind that arises independently". [CASE-148](../cases.d/CASE-148.md)
 proposes the transfer test.

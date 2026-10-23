@@ -96,7 +96,7 @@ target, the linear model, the prior variances) are exactly what
 
 ## Note of 2026-10-23: part of the aim met elsewhere
 
-Bigand et al. (2024, [LIT-tmpzp314](../literature.d/LIT-tmpzp314.md), read; [CASE-tmpg5qs0](CASE-tmpg5qs0.md)), cited at A5 of
+Bigand et al. (2024, [LIT-1424](../literature.d/LIT-1424.md), read; [CASE-149](CASE-149.md)), cited at A5 of
 the exchange of 2026-10-23, "Framework Overview Request", varied music and partner visibility independently in 70 untrained
 dancers in pairs. "We find that both music and partners drive synchrony,
 but through distinct dance moves": the music drove anteroposterior
