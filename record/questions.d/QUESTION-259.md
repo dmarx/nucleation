@@ -22,6 +22,11 @@ summary: >-
   ([CLAIM-417](../claims.d/CLAIM-417.md)), that question splits in two: how perspectives arise
   and persist at all, and what more makes one self-governing. An answer
   would keep the two apart.
+answered_by:
+- CLAIM-tmprti7p
+refined_by:
+- QUESTION-tmp29kxz
+- QUESTION-tmppa8l7
 ---
 <!-- inactive-ok-file: CLAIM-278 CLAIM-364 CLAIM-417 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

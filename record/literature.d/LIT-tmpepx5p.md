@@ -1,74 +1,43 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpepx5p:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-23, "Framework Overview Request". No NOTE is filed.
 title: 'Telling More Than We Can Know: Verbal Reports on Mental Processes'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Richard E. Nisbett and Timothy D. Wilson, Psychological Review
+    84(3), 231–259. Crossref gives May 1977 only, so `published:` is
+    1977-05-01 and means May 1977 (ADR-002). The summary follows the
+    abstract as OpenAlex gives it (Crossref has none).
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- cognition
+- self
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '1977-05-01'
+doi: '10.1037/0033-295x.84.3.231'
+first_author: 'Nisbett'
+keywords:
+- 'introspection'
+- 'verbal reports'
+- 'confabulation'
+- 'self-knowledge'
+- 'causal theories'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Nisbett & Wilson (1977). Reviews evidence that people may have little or no direct introspective access to higher-order cognitive processes: they can be unaware of a stimulus that influenced a response, of the response, or of the influence. Reports on one's own processes rest on a priori, implicit causal theories about what plausibly caused what, so they are accurate when the influential stimulus is salient and a plausible cause, and not otherwise.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpepx5p: Telling More Than We Can Know: Verbal Reports on Mental Processes
 
-# LIT-000: The paper title, exactly as published
+Nisbett, R. E. and Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231–259. doi:10.1037/0033-295x.84.3.231.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it for [CASE-114](../cases.d/CASE-114.md), "The imagined owner": a self-report of why one acted can be a construction from a theory of oneself, not a readout of the process. The exchange gave no description to check against the abstract.

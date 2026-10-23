@@ -1,74 +1,44 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpyxny6:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'Economic Interdependence: A Path to Peace or a Source of Interstate Conflict?'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Katherine Barbieri, Journal of Peace Research 33(1), 29–49. Crossref
+    gives 1 February 1996 for both online and print, which is
+    `published:`; the day is very probably nominal. The summary follows
+    the abstract on Crossref.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- society-and-governance
+- social-science
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '1996-02-01'
+doi: '10.1177/0022343396033001003'
+first_author: 'Barbieri'
+keywords:
+- 'economic interdependence'
+- 'trade'
+- 'militarized interstate disputes'
+- 'liberal peace'
+- 'dyads'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Barbieri (1996). Tests the liberal hypothesis that trade promotes peace on dyads 1870–1938 (14,341 dyad-years, 270 militarized disputes, 14 wars). Economic linkages strongly affect militarized disputes but not wars, and extensive interdependence increases the likelihood of disputes rather than reducing it. The relation is curvilinear: low to moderate interdependence reduces disputes, extensive interdependence, symmetric or asymmetric, raises them; peace through trade is likeliest between mutually dependent partners.
 ---
+<!-- inactive-ok-file: CLAIM-404 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpyxny6: Economic Interdependence: A Path to Peace or a Source of Interstate Conflict?
 
-# LIT-000: The paper title, exactly as published
+Barbieri, K. (1996). Economic interdependence: A path to peace or a source of interstate conflict? *Journal of Peace Research*, 33(1), 29–49. doi:10.1177/0022343396033001003.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it as the dissent from trade-brings-peace. The abstract supports that, and is more specific than a dissent: the relation is curvilinear, and extreme interdependence raises disputes. For the favour analogy that is the warning that an exchange can bind in either direction. No disagreement with the exchange. Bears on [CLAIM-404](../claims.d/CLAIM-404.md) and [CLAIM-330](../claims.d/CLAIM-330.md).

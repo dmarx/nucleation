@@ -1,74 +1,48 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpy4m7n:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'Causes of Peace: Democracy, Interdependence, and International Organizations, 1885–1992'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    John R. Oneal, Bruce Russett and Michael L. Berbaum, International
+    Studies Quarterly 47(3), 371–393. Crossref gives September 2003
+    only; OpenAlex gives 21 July 2003, very probably the publisher's
+    online date, which could not be confirmed (the Wiley page returned
+    403). `published:` is the earlier, 2003-07-21 (ADR-002); Semantic
+    Scholar gives 2003-09-01. The summary follows the abstract as
+    OpenAlex gives it (Crossref has none).
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- society-and-governance
+- social-science
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2003-07-21'
+doi: '10.1111/1468-2478.4703004'
+first_author: 'Oneal'
+keywords:
+- 'Kantian peace'
+- 'economic interdependence'
+- 'democratic peace'
+- 'international organizations'
+- 'militarized disputes'
+- 'distributed lags'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Oneal, Russett & Berbaum (2003). Tests the reciprocal relation between economic interdependence and interstate conflict, 1885–1992, with distributed-lag analyses. Economically important trade substantially reduces dyadic militarized disputes, especially fatal ones, even controlling for past conflict, and disputes in turn reduce trade. Democracy and shared membership in intergovernmental organizations also reduce conflict; there is little support for costly signals as the mechanism, no evidence that democratization raises disputes, and allies are not less conflict-prone.
 ---
+<!-- inactive-ok-file: CLAIM-404 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpy4m7n: Causes of Peace: Democracy, Interdependence, and International Organizations, 1885–1992
 
-# LIT-000: The paper title, exactly as published
+Oneal, J. R., Russett, B. and Berbaum, M. L. (2003). Causes of peace: Democracy, interdependence, and international organizations, 1885–1992. *International Studies Quarterly*, 47(3), 371–393. doi:10.1111/1468-2478.4703004.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it, without describing it, for the liberal side of the trade-and-peace question: interdependence reducing conflict. The abstract is that side's causal test, and it finds the effect running both ways (trade reduces disputes and disputes reduce trade), which the favour analogy should allow for. Nothing in the exchange's use disagrees with the abstract. Bears on [CLAIM-404](../claims.d/CLAIM-404.md) and [CLAIM-330](../claims.d/CLAIM-330.md) (a coupled loop, here between exchange and hostility).

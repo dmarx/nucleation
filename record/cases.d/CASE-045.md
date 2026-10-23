@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmpazmsq
 title: 'Measuring the dancing couple: is the pair a nearly decomposable block during the dance and not after it?'
-version: 3
+version: 4
 history:
 - version: 2
   date: '2026-10-11'
@@ -19,6 +19,11 @@ history:
     A drive-profile measurement is added (TERM-051), so the study
     can also ask whether "the dance leads": whether the pair's joint mode
     shows causal decoupling, beyond the lead driving the follow.
+- version: 4
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: an external study meets part of this
+    design's aim. The proposal is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -88,3 +93,17 @@ A stipulated design, so that the criterion has a concrete test.
 It is stipulated. Nothing here has been run, and the design's choices (the
 target, the linear model, the prior variances) are exactly what
 [CLAIM-152](../claims.d/CLAIM-152.md) says a verdict is relative to.
+
+## Note of 2026-10-23: part of the aim met elsewhere
+
+Bigand et al. (2024, [LIT-tmpzp314](../literature.d/LIT-tmpzp314.md), read; [CASE-tmpg5qs0](CASE-tmpg5qs0.md)), cited at A5 of
+the exchange of 2026-10-23, "Framework Overview Request", varied music and partner visibility independently in 70 untrained
+dancers in pairs. "We find that both music and partners drive synchrony,
+but through distinct dance moves": the music drove anteroposterior
+components and the partner lateral and hand components. So the beat, as
+an exogenous input, acts on particular components, and a whole-body block
+test could mix the two. Still for this design: direction (their measure is
+symmetric), a perturbation and compensation test, the block gap, and
+touch, lead and follow roles and trained dancers; their dancers stood 2.5
+m apart and were "without dance training". A5 proposed treating the dance
+study as "a **reanalysis candidate**".

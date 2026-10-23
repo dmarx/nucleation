@@ -1,74 +1,43 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpl8rxn:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-23, "Framework Overview Request". No NOTE is filed.
 title: 'Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against arXiv on 2026-10-23:
+    arXiv:2408.15664, Lean Wang, Huazuo Gao, Chenggang Zhao, Xu Sun and
+    Damai Dai; v1 submitted 28 August 2024, which is `published:`; there
+    is only v1 and no journal reference. The summary follows the arXiv
+    abstract.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- learning-theory
+- anthology-candidate
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2024-08-28'
+arxiv: '2408.15664'
+first_author: 'Wang'
+keywords:
+- 'mixture of experts'
+- 'load balancing'
+- 'auxiliary loss'
+- 'routing collapse'
+- 'expert bias'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Wang, Gao, Zhao, Sun & Dai (2024). An unbalanced expert load causes routing collapse or overhead, and the usual auxiliary balancing loss adds interference gradients that hurt performance. Loss-Free Balancing instead adds an expert-wise bias to routing scores before top-K selection and updates each bias from the expert's recent load. On MoE models up to 3B parameters trained on up to 200B tokens it gives both better performance and better balance than auxiliary-loss control.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpl8rxn: Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts
 
-# LIT-000: The paper title, exactly as published
+Wang, L., Gao, H., Zhao, C., Sun, X. and Dai, D. (2024). Auxiliary-loss-free load balancing strategy for mixture-of-experts. arXiv:2408.15664.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it for [CASE-117](../cases.d/CASE-117.md): balancing expert load by adjusting each expert's access from its recent load, without a term in the objective, is a contribution-based control of influence, one of the regimes [CASE-117](../cases.d/CASE-117.md) compares. The exchange gave no description to check. It is ML practice and carries the anthology-candidate flag ([ADR-005](../decisions.d/ADR-005.md)).

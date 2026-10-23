@@ -1,74 +1,58 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp4vyr3:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'The Autobiography of Benjamin Franklin'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against the source itself on
+    2026-10-23: the Project Gutenberg eBook #148 (the Harvard Classics
+    text, ed. Charles W. Eliot, P. F. Collier & Son, 1909, which
+    reproduces Bigelow's text from the manuscript), and the
+    borrowed-book anecdote was found in it, in the part Franklin wrote
+    at home in August 1788. Gutenberg also holds Frank Woodworth Pine's
+    edition as eBook #20203. `published:` is the first publication of
+    the work, 1791, in French (Paris: Buisson, "Mémoires de la vie
+    privée de Benjamin Franklin"), which held Part One only; no month or
+    day was confirmed, so 1791-01-01 means 1791, to the year (ADR-002).
+    The anecdote is in Part Three, which first appeared in 1818 in
+    William Temple Franklin's London edition of the Memoirs; Bigelow's
+    1868 edition was the first complete one from the manuscript. The
+    publication history is from secondary accounts found by web search,
+    not from the editions themselves. There is no abstract: the summary
+    is from the text of the anecdote and what the work is standardly
+    cited for.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-science
+- moral-psychology
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '1791-01-01'
+url: 'https://www.gutenberg.org/ebooks/148'
+first_author: 'Franklin'
+keywords:
+- 'Benjamin Franklin effect'
+- 'favour'
+- 'autobiography'
+- 'reconciliation'
+- 'Pennsylvania Assembly'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Franklin (written 1771–1790; first published 1791). The memoir of his life to 1757. Part Three holds the anecdote the Benjamin Franklin effect is named for: to win over a hostile new member of the Pennsylvania Assembly, Franklin asked to borrow a scarce book from his library, returned it with thanks, and the man thereafter spoke to him with civility and "manifested a readiness to serve me on all occasions". Franklin draws the maxim "He that has once done you a kindness will be more ready to do you another, than he whom you yourself have obliged."
 ---
+<!-- inactive-ok-file: CLAIM-275 CLAIM-417 CLAIM-297 CLAIM-404 CLAIM-362 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp4vyr3: The Autobiography of Benjamin Franklin
 
-# LIT-000: The paper title, exactly as published
+Franklin, B. (1791–1868). *The Autobiography of Benjamin Franklin*. First published in French, Paris: Buisson, 1791 (Part One only); Parts One to Three, London, 1818; complete, ed. J. Bigelow, 1868. Project Gutenberg edition (Harvard Classics, ed. C. W. Eliot, 1909), https://www.gutenberg.org/ebooks/148.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the anecdote itself and from what
+the work is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
+The exchange's opening turns asked what the Ben Franklin effect is, and this is its source. The owner read the favour as a "perspectival invitation": asking for one invites the other to act toward you before they have an interpretation of you, and the interpretation follows the act. That is the shape of [CLAIM-275](../claims.d/CLAIM-275.md) (an intervention can come before the interpretation it makes available). The exchange also set it beside [CLAIM-417](../claims.d/CLAIM-417.md), [CLAIM-297](../claims.d/CLAIM-297.md), [CLAIM-330](../claims.d/CLAIM-330.md), [CLAIM-404](../claims.d/CLAIM-404.md) and [CLAIM-362](../claims.d/CLAIM-362.md).
 
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+No disagreement with the exchange: the text bears out the borrowed-book story as told. Franklin himself gives the mechanism as an "old maxim" and a lesson in prudence ("how much more profitable it is prudently to remove, than to resent"), not as a claim about how liking forms.

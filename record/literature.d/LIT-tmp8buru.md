@@ -1,74 +1,48 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp8buru:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-23, "Framework Overview Request". No NOTE is filed.
 title: 'Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed (PMID
+    22157081) on 2026-10-23: Thomas D. Seeley, P. Kirk Visscher, Thomas
+    Schlegel, Patrick M. Hogan, Nigel R. Franks and James A. R.
+    Marshall, Science 335(6064), 108–111, print 6 January 2012. PubMed
+    and the editor's summary give online publication on 8 December 2011,
+    which is `published:`, the earlier (ADR-002). The summary follows
+    the editor's summary on Crossref and what the paper is standardly
+    cited for.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- complex-systems
+- behavioral-integration
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2011-12-08'
+doi: '10.1126/science.1210361'
+first_author: 'Seeley'
+keywords:
+- 'stop signals'
+- 'cross inhibition'
+- 'collective decision-making'
+- 'honeybee swarms'
+- 'nest-site selection'
+- 'deadlock'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Seeley et al. (2012). In nest-site selection, scout bees deliver stop signals (head-butts with a beep) to scouts dancing for competing sites. The signals accumulate and inhibit rival recruitment, so the swarm reaches consensus on the best-represented site. A model shows that this cross inhibition, like that between neural populations, lets the swarm break deadlock between equal options.
 ---
+<!-- inactive-ok-file: CLAIM-418 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp8buru: Stop Signals Provide Cross Inhibition in Collective Decision-Making by Honeybee Swarms
 
-# LIT-000: The paper title, exactly as published
+Seeley, T. D., Visscher, P. K., Schlegel, T., Hogan, P. M., Franks, N. R. and Marshall, J. A. R. (2012). Stop signals provide cross inhibition in collective decision-making by honeybee swarms. *Science*, 335(6064), 108–111. doi:10.1126/science.1210361.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the editor's summary and from what
+the work is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it for [CLAIM-418](../claims.d/CLAIM-418.md) and [CASE-108](../cases.d/CASE-108.md): a collective decision in which inhibition between advocates, not a central arbiter, settles the choice, as a natural case of governance among specialists. The exchange gave no description to check. Note that the abstract Crossref holds is the editor's summary, not the authors' abstract.

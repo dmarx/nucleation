@@ -8,7 +8,7 @@ status_note: >-
   holds a file is unknown; the Hildesheim repository holds the record with
   no file; the authors' Göttingen publications page has no file; a web
   search found no author-posted copy. Only the abstract was read (PubMed
-  20438225). Registered for QUESTION-089 and CASE-108 from the owner's
+  20438225). Registered for [QUESTION-089](../questions.d/QUESTION-089.md) and [CASE-108](../cases.d/CASE-108.md) from the owner's
   exchange of 2026-10-23, "Framework Overview Request". No NOTE, CASE or
   THEORY is filed. It returns to reading when a copy is supplied, not on
   merit.
@@ -90,9 +90,9 @@ What follows is the abstract's.
 ## Why this is here
 
 The owner's exchange of 2026-10-23, "Framework Overview Request", cited it
-as an external result for QUESTION-089 and for the proposed study
-CASE-108, beside Schulz-Hardt et al. (2006), LIT-tmpefjd9. It bears
-on CLAIM-281.
+as an external result for [QUESTION-089](../questions.d/QUESTION-089.md) and for the proposed study
+[CASE-108](../cases.d/CASE-108.md), beside Schulz-Hardt et al. (2006), [LIT-tmpefjd9](LIT-tmpefjd9.md). It bears
+on [CLAIM-281](../claims.d/CLAIM-281.md).
 
 The two seem to pull apart: one says dissent helps, this one that knowing
 where others stand hurts, even when one of them is right. By the abstracts

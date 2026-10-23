@@ -4,7 +4,7 @@ status: Open
 formerly:
 - QUESTION-tmpovbjd
 title: 'When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-23'
@@ -18,6 +18,11 @@ history:
     internal routes, what measurement tells which architecture produced
     it?"; it now names the intervention route and the settled negative
     part. The question stays Open.
+- version: 3
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: Bigand et al. (THEORY-tmpcd7cz, Proposed)
+    answer the parent in part. It stays Open.
 tags:
 - natural-sciences
 - complex-systems
@@ -27,6 +32,7 @@ line: 'distributed-agency'
 answered_by:
 - THEORY-129
 - THEORY-130
+- THEORY-tmpcd7cz
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [QUESTION-035](QUESTION-035.md), [QUESTION-033](QUESTION-033.md),
@@ -35,6 +41,7 @@ summary: >-
 refined_by:
 - QUESTION-084
 - QUESTION-186
+- QUESTION-tmpasghi
 ---
 
 # QUESTION-063: When a collective outcome such as synchrony, or the fall of a regulated quantity, can come from a shared external drive, from coupling among the members or from different internal routes, what measurement or intervention tells which architecture produced it, given that directional information measures under a recorded one-sided drive need not follow the coupling?
@@ -58,3 +65,22 @@ A timing test that sees only phase alignment would pass units that are synchroni
 ## What would answer it
 
 An intervention design for the record's candidate systems that separates the possibilities. Displace the shared drive for one member only and see whether the others follow. Perturb one member and measure the others. With that, a statement of which of [QUESTION-035](QUESTION-035.md)'s tests can and cannot see the difference.
+
+## Note of 2026-10-23: a human dyad with both routes manipulated
+
+Bigand et al. (2024, [LIT-tmpzp314](../literature.d/LIT-tmpzp314.md), read in [NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md)), cited at A5 of
+the exchange of 2026-10-23, "Framework Overview Request", ran in pairs of dancers the separate interventions this question
+asks for. They removed the shared drive (the same music, or music shifted
+8.5%) and the coupling channel (a curtain) independently. Each raised
+synchrony in different movement components, and the authors found "no
+evidence of an interaction between musical input and visual contact, and
+this was so for all PMs". Timing could not tell the two apart: "when
+(unlike where) participants move does not reflect whether synchrony is
+established through music or partner vision." Filed as [CASE-tmpg5qs0](../cases.d/CASE-tmpg5qs0.md) and
+[THEORY-tmpcd7cz](../theory.d/THEORY-tmpcd7cz.md) (Proposed), which answers this question in part.
+
+What stays open: the perturb-one-member intervention, so direction and
+peers against hierarchy; an unrecorded shared drive, since here the drive
+was the experimenters' known music; and the question's second part,
+telling one internal route from another. The absence of an interaction
+rests on a null test, not an equivalence test.

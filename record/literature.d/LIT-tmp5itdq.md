@@ -1,74 +1,47 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp5itdq:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-23, "Framework Overview Request". No NOTE is filed.
 title: 'A Formal Theory of Reflected Appraisals in the Evolution of Power'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Noah E. Friedkin, Administrative Science Quarterly 56(4), 501–529.
+    Crossref gives the print issue December 2011 and published-online 12
+    March 2012. The sources disagree, so `published:` is the earlier,
+    2011-12-01, meaning December 2011, the issue's nominal date
+    (ADR-002); the article very probably first appeared online on 12
+    March 2012. It is the 2011/2012 ASQ paper, not the 2015 paper held
+    as LIT-1146. The summary follows the abstract on Crossref.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-science
+- network-science
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2011-12-01'
+doi: '10.1177/0001839212441349'
+first_author: 'Friedkin'
+keywords:
+- 'reflected appraisals'
+- 'social power'
+- 'influence networks'
+- 'opinion dynamics'
+- 'issue sequences'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Friedkin (2011/2012). A formal theory of how power evolves in a group's influence network over a sequence of issues. Members appraise one another's relative control over prior outcomes, and a "reflected appraisals" mechanism raises or lowers each member's self-appraisal and so the weight they give others. This alone generates transitions of the influence network toward concentrated power, in which, with rare exceptions, one leader's preferences control outcomes through intermediaries. A laboratory experiment and a simulation support it.
 ---
+<!-- inactive-ok-file: LIT-1146 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp5itdq: A Formal Theory of Reflected Appraisals in the Evolution of Power
 
-# LIT-000: The paper title, exactly as published
+Friedkin, N. E. (2011). A formal theory of reflected appraisals in the evolution of power. *Administrative Science Quarterly*, 56(4), 501–529. doi:10.1177/0001839212441349.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it as an external result bearing on [CASE-092](../cases.d/CASE-092.md), the minimal coupled meaning–influence model: here influence weights are updated from appraised past control, and the dynamics concentrate power. It is the earlier statement of the mechanism formalized in [LIT-1146](LIT-1146.md). The exchange's description gives no figures to check; the abstract's result, that the loop drives power to concentrate, is what [CASE-092](../cases.d/CASE-092.md) should be compared with.

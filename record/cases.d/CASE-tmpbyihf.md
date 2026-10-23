@@ -49,5 +49,6 @@ the old environment to keep being enacted; and which is reabsorbed.
 - **Not identity.** The causal story it can give does not settle which
   population is the same as which.
 - **Its standing evidence.** Jacobs and Campbell's laboratory microculture
-  ([QUESTION-118](../questions.d/QUESTION-118.md)) shows a norm surviving the replacement of everyone who
-  set it; this design asks which parts of what survives did the work.
+  ([LIT-tmpz7kvc](../literature.d/LIT-tmpz7kvc.md), not reached) is reported to show a norm surviving the
+  replacement of everyone who set it ([QUESTION-118](../questions.d/QUESTION-118.md)); this design asks which
+  parts of what survives did the work.

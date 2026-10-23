@@ -1,74 +1,45 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpjs5zx:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'A Meta-Analytic Test of Intergroup Contact Theory'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Thomas F. Pettigrew and Linda R. Tropp, Journal of Personality and
+    Social Psychology 90(5), 751–783. Crossref gives the year only
+    (2006); PubMed (PMID 16737372) gives May 2006, so `published:` is
+    2006-05-01 and means May 2006 (ADR-002). The summary follows the
+    abstract as OpenAlex gives it (Crossref has none).
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-science
+- moral-psychology
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2006-05-01'
+doi: '10.1037/0022-3514.90.5.751'
+first_author: 'Pettigrew'
+keywords:
+- 'intergroup contact'
+- 'prejudice'
+- 'meta-analysis'
+- 'Allport'
+- 'contact hypothesis'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Pettigrew & Tropp (2006). A meta-analysis of 515 studies (713 independent samples) finds that intergroup contact typically reduces intergroup prejudice. The effect does not appear to come from participant selection or publication bias, the more rigorous studies show larger effects, and the effects typically generalize to the whole outgroup and across targets and settings. Allport's optimal conditions enhance the effect but work as a bundle and are not essential to it.
 ---
+<!-- inactive-ok-file: CLAIM-275 CLAIM-297 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpjs5zx: A Meta-Analytic Test of Intergroup Contact Theory
 
-# LIT-000: The paper title, exactly as published
+Pettigrew, T. F. and Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. *Journal of Personality and Social Psychology*, 90(5), 751–783. doi:10.1037/0022-3514.90.5.751.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange widened the Franklin effect to groups: contact between members of different groups works like the favour, an encounter that comes before the revised view of the other. It cited this meta-analysis for 515 studies and 713 samples, contact typically reducing prejudice and generalizing to the group. The abstract agrees on all three. The exchange did not mention what the abstract also says, that Allport's conditions are facilitating, not essential, which bears on how much the encounter itself does. Bears on [CLAIM-275](../claims.d/CLAIM-275.md) and, as a coupling of interpretation and conduct between groups, on [CLAIM-297](../claims.d/CLAIM-297.md) and [CLAIM-330](../claims.d/CLAIM-330.md).

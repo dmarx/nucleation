@@ -1,74 +1,49 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpnc9pn:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'International Friends and Enemies'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Benny Kleinman, Ernest Liu and Stephen J. Redding, American Economic
+    Journal: Macroeconomics 16(4), 350–385, issued 1 October 2024. It
+    first appeared as NBER Working Paper 27587 (doi:10.3386/w27587),
+    July 2020 by Crossref and by the NBER page (revised March 2023),
+    with no day, so `published:` is 2020-07-01 and means July 2020, the
+    earlier appearance (ADR-002). The summary follows the journal
+    abstract on Crossref.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- society-and-governance
+- social-science
+- network-science
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2020-07-01'
+doi: '10.1257/mac.20220223'
+first_author: 'Kleinman'
+keywords:
+- 'international trade'
+- 'political alignment'
+- 'economic dependence'
+- 'network exposure'
+- 'China'
+- 'air travel'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Kleinman, Liu & Redding (2024; NBER 2020). Asks whether countries that become more economically dependent on a trade partner realign politically toward it. Economic exposure is measured by network measures of exposure to foreign productivity growth, derived from trade models with a constant trade elasticity. Causality comes from two sources of quasi-experimental variation, China's emergence into the global economy and the falling cost of air travel; in both, increased economic friendship causes increased political friendship, and the theory-based network measures outperform simpler bilateral trade measures.
 ---
+<!-- inactive-ok-file: CLAIM-404 CLAIM-275 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpnc9pn: International Friends and Enemies
 
-# LIT-000: The paper title, exactly as published
+Kleinman, B., Liu, E. and Redding, S. J. (2024). International friends and enemies. *American Economic Journal: Macroeconomics*, 16(4), 350–385. doi:10.1257/mac.20220223. First issued as NBER Working Paper 27587, July 2020, doi:10.3386/w27587.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange carried the favour from persons to states: trade as a standing exchange that comes before, and then shapes, political alignment. It cited this paper for economic alignment causing political alignment (UN voting, rivalries), with quasi-experimental variation from China's integration and air-transport costs. The abstract agrees on the direction, the causal claim and both sources of variation. **Flag:** the abstract names no outcome measure; "UN voting" and "rivalries" are not in it and are unchecked. Bears on [CLAIM-404](../claims.d/CLAIM-404.md) (an organization governed from outside through what its procedures receive) and [CLAIM-275](../claims.d/CLAIM-275.md).

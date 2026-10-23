@@ -1,74 +1,47 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmplzgpb:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'The "Peace Dividend" of International Trade: A New Empirical Approach'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref and the NBER page
+    on 2026-10-23: Ling Feng, Qiuyue Huang, Zhiyuan Li and Christopher
+    M. Meissner, NBER Working Paper 35078, issued April 2026 (revision
+    date April 2026). Neither gives a day, so `published:` is 2026-04-01
+    and means April 2026 (ADR-002). No earlier version was found by web
+    search. The summary follows the abstract as OpenAlex gives it, which
+    matches the NBER page.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- society-and-governance
+- social-science
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2026-04-01'
+doi: '10.3386/w35078'
+first_author: 'Feng'
+keywords:
+- 'peace dividend'
+- 'international trade'
+- 'interstate conflict'
+- 'air transport'
+- 'maritime transport'
+- 'decoupling'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Feng, Huang, Li & Meissner (2026). Estimates the causal effect of international trade on interstate military conflict with global bilateral data, 1962–2014, using variation in trade from technological advances in air relative to maritime transport. More trade significantly reduces both the probability and the intensity of conflict, robustly across specifications and confounders; the authors relate this to decoupling, de-risking and protectionism.
 ---
+<!-- inactive-ok-file: CLAIM-404 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmplzgpb: The "Peace Dividend" of International Trade: A New Empirical Approach
 
-# LIT-000: The paper title, exactly as published
+Feng, L., Huang, Q., Li, Z. and Meissner, C. M. (2026). The "peace dividend" of international trade: A new empirical approach. NBER Working Paper 35078. doi:10.3386/w35078.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited an April 2026 NBER paper by these authors that uses transport innovations to identify trade's effect on interstate conflict, 1962–2014. It exists: the NBER page and Crossref confirm the authors, the date and the design, and the abstract agrees with the exchange. The exchange gave no title. It is the most recent causal estimate on the liberal side and complements Kleinman, Liu and Redding's use of air-travel costs. Bears on [CLAIM-404](../claims.d/CLAIM-404.md).

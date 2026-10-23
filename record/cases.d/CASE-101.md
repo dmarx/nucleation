@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CASE-tmpl1tu6
 title: 'Three simulated populations with the same turnover and the same aggregate statistics: one whose members respond alike to a common input, one that transmits its norms to its replacements, and one held together by an institution that selects and trains its members'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: the transmission arm has a classic
+    laboratory precedent, not reached. The proposal is unchanged.
 standing: fictional
 kind: proposed-study
 tags:
@@ -67,3 +73,12 @@ A negative result is informative too. A11 §9: if the measures cannot tell
 the arms apart, "temporal information propagation alone is insufficient
 to recover the kind of historical social individuality that fandom seems
 to exhibit." Fictional by construction; nothing is run.
+
+## Note of 2026-10-23: a precedent for arm B
+
+A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Jacobs and Campbell (1961, [LIT-tmpz7kvc](../literature.d/LIT-tmpz7kvc.md), Unavailable)
+for this design's transmission arm: a norm surviving the replacement of
+all who set it. A5: CASE-101's contribution "should concern
+*discriminating mechanisms of persistence*, not demonstrating
+intergenerational transmission itself." [CASE-tmpbyihf](CASE-tmpbyihf.md), perspective
+transplantation, is the extension A4 proposed.

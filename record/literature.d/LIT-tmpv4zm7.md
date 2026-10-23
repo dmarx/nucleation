@@ -1,74 +1,49 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpv4zm7:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'Economic Interdependence and War: A Theory of Trade Expectations'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Dale C. Copeland, International Security 20(4), 5–41. Crossref gives
+    April 1996 only, and the MIT Press page (as OpenAlex scraped it)
+    gives 1 April 1996. `published:` is 1996-04-01 and means April 1996,
+    the issue (ADR-002). Semantic Scholar gives 21 January 1996, which
+    no publisher or bibliographic record supports and which reads as an
+    indexing artifact, so it is not taken as a date of appearance. No
+    abstract was reached: Crossref has none, Semantic Scholar says the
+    publisher elided it, and the MIT Press page gives only a PDF. The
+    summary is from what the article is standardly cited for.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- society-and-governance
+- game-theory
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '1996-04-01'
+doi: '10.1162/isec.20.4.5'
+first_author: 'Copeland'
+keywords:
+- 'economic interdependence'
+- 'trade expectations'
+- 'war'
+- 'realism'
+- 'liberalism'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Copeland (1996). Proposes trade-expectations theory to reconcile liberal and realist views of interdependence: what matters is not the present level of trade but a state's expectations of future trade. A highly dependent state that expects trade to continue has reason for peace; one that expects to be cut off has reason to fight while it still can, so high interdependence with negative expectations makes war likelier. Standardly cited with historical cases from the great-power wars.
 ---
+<!-- inactive-ok-file: CLAIM-404 CLAIM-275 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpv4zm7: Economic Interdependence and War: A Theory of Trade Expectations
 
-# LIT-000: The paper title, exactly as published
+Copeland, D. C. (1996). Economic interdependence and war: A theory of trade expectations. *International Security*, 20(4), 5–41. doi:10.1162/isec.20.4.5.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from what the work is standardly cited
+for; no abstract was reached. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it for the conditional view: trade pacifies when the parties expect it to continue. That matches the standard account; no disagreement is flagged, but no abstract was reached to check against. For the favour analogy the point is that the invitation works by the future it opens, not the exchange already done. Bears on [CLAIM-404](../claims.d/CLAIM-404.md) and [CLAIM-275](../claims.d/CLAIM-275.md).

@@ -1,74 +1,49 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpx3ajw:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'The Contact Hypothesis Re-evaluated'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Elizabeth Levy Paluck, Seth A. Green and Donald P. Green,
+    Behavioural Public Policy 3(2), 129–158, published online 10 July
+    2018, print issue November 2019. The same paper, under the same
+    title, was posted to SocArXiv on 24 May 2017
+    (doi:10.31235/osf.io/w2jkf, Crossref posted date), and `published:`
+    is that date, the earliest (ADR-002). An SSRN version titled "The
+    Contact Hypothesis Revisited" (doi:10.2139/ssrn.2973474) carries the
+    year 2017 only and was not used. The summary follows the journal
+    abstract on Crossref, which matches the preprint's.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-science
+- society-and-governance
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2017-05-24'
+doi: '10.1017/bpp.2018.25'
+first_author: 'Paluck'
+keywords:
+- 'contact hypothesis'
+- 'prejudice'
+- 'randomized experiments'
+- 'meta-analysis'
+- 'policy'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Paluck, Green & Green (2019; preprint 2017). Assembles the 27 intergroup contact studies with random assignment and delayed outcome measures and meta-analyses them. The evidence is consistent with contact "typically" reducing prejudice, but effects vary, and interventions aimed at ethnic or racial prejudice produce substantially weaker effects. Studies addressing adults' racial or ethnic prejudice are absent, and research systematically testing Allport's scope conditions is lacking; the authors conclude these gaps must be filled before the hypothesis can guide policy.
 ---
+<!-- inactive-ok-file: CLAIM-275 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpx3ajw: The Contact Hypothesis Re-evaluated
 
-# LIT-000: The paper title, exactly as published
+Paluck, E. L., Green, S. A. and Green, D. P. (2019). The contact hypothesis re-evaluated. *Behavioural Public Policy*, 3(2), 129–158. doi:10.1017/bpp.2018.25. Preprint: SocArXiv, 24 May 2017, doi:10.31235/osf.io/w2jkf.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it as the check on Pettigrew and Tropp: randomized contact studies generally reduce prejudice, but the evidence for adults' racial or ethnic prejudice is limited. **Disagreement, of degree:** the abstract says not that the evidence is limited but that studies addressing adults' racial or ethnic prejudice are absent, and separately that interventions on ethnic or racial prejudice show substantially weaker effects. It also stresses the 27 studies' small number and the untested scope conditions. The exchange dated it 2019 (the issue); it was online in 2018 and posted in 2017. Bears on [CLAIM-275](../claims.d/CLAIM-275.md), as the caution on how far the contact evidence carries.

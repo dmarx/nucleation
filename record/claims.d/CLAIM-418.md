@@ -26,6 +26,7 @@ uses:
 - TERM-063
 complements:
 - CLAIM-417
+- CLAIM-tmprti7p
 works:
 - organization-of-perspective
 - self-without-a-sovereign

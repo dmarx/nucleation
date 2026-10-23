@@ -1,74 +1,46 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp1k4zi:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-23, "Framework Overview Request". No NOTE is filed.
 title: 'Twenty-Five Years of Hidden Profiles in Group Decision Making: A Meta-Analysis'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed (PMID
+    21896790) on 2026-10-23: Li Lu, Y. Connie Yuan and Poppy Lauretta
+    McLeod, Personality and Social Psychology Review 16(1), 54–75,
+    published online 6 September 2011, which is `published:`; print
+    issue February 2012. Crossref gives the title without its subtitle,
+    "A Meta-Analysis", which the article carries. The summary follows
+    the abstract on Crossref.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-science
+- cognition
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2011-09-06'
+doi: '10.1177/1088868311417243'
+first_author: 'Lu'
+keywords:
+- 'hidden profile'
+- 'information pooling'
+- 'group decision making'
+- 'shared information bias'
+- 'meta-analysis'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Lu, Yuan & McLeod (2012). A meta-analysis of 65 hidden-profile studies (101 effects, 3,189 groups). Groups mention common information about two standard deviations more than unique information, and hidden-profile groups are eight times less likely to find the correct solution than groups with full information. Pooling of unique information predicts decision quality (coverage more than discussion focus); communication medium affects neither pooling nor quality; group size, information load, the share of unique information, task demonstrability and profile strength moderate.
 ---
+<!-- inactive-ok-file: QUESTION-089 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp1k4zi: Twenty-Five Years of Hidden Profiles in Group Decision Making: A Meta-Analysis
 
-# LIT-000: The paper title, exactly as published
+Lu, L., Yuan, Y. C. and McLeod, P. L. (2012). Twenty-five years of hidden profiles in group decision making: A meta-analysis. *Personality and Social Psychology Review*, 16(1), 54–75. doi:10.1177/1088868311417243.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it for [CASE-108](../cases.d/CASE-108.md) and [QUESTION-089](../questions.d/QUESTION-089.md): 65 studies, 3,189 groups, hidden-profile groups eight times less likely to find the correct solution. The abstract agrees on all three figures. It adds that the number is relative to groups with full information, and that information coverage, not discussion focus, predicts quality best, which bears on [QUESTION-089](../questions.d/QUESTION-089.md)'s dissenting process: unique information helps when it is pooled, not merely voiced.

@@ -15,7 +15,7 @@ summary: >-
   Cited at A6 of the exchange of 2026-10-22, "Ben Franklin Effect
   Explained", after the owner's U6 on trade and peace, as "a paper that
   makes the connection almost literally". Kleinman, Liu and Redding (2024,
-  LIT-{KLR}), registered unread; the description is the exchange's and the
+  [LIT-tmpnc9pn](../literature.d/LIT-tmpnc9pn.md)), registered unread; the description is the exchange's and the
   abstract's. The standing is the study's, not the reading's.
 ---
 
@@ -29,7 +29,11 @@ of the broader trade network rather than merely counting bilateral trade
 flows." With quasi-experimental variation from China's integration and
 falling air-transport costs, "they find that increasing economic alignment
 causes increasing political alignment, as measured by outcomes including
-UN voting and strategic rivalries." (LIT-{KLR}, unread.)
+UN voting and strategic rivalries." ([LIT-tmpnc9pn](../literature.d/LIT-tmpnc9pn.md), unread. Its abstract confirms the two sources of variation
+and the direction of the result, "increased economic friendship causes
+increased political friendship", but names no outcome measure, so UN
+voting and rivalries are A6's and unchecked. It first appeared as an
+NBER working paper in 2020.)
 
 ## What it shows
 

@@ -28,6 +28,7 @@ uses:
 complements:
 - CLAIM-417
 - CLAIM-418
+- CLAIM-tmpm3bml
 answers:
 - QUESTION-259
 grounds:
@@ -84,7 +85,7 @@ had not used the phrase; A3 found the nearest entries ([TERM-072](../terms.d/TER
 The owner's U4 extended it to intergroup contact: people holding
 prejudiced views are less likely to keep them if they come to know someone
 in the targeted group. A4 reported that in Pettigrew and Tropp's
-meta-analysis of the mediators (LIT-{PT08}), "increased knowledge was a
+meta-analysis of the mediators ([LIT-tmp83sjx](../literature.d/LIT-tmp83sjx.md)), "increased knowledge was a
 weaker mediator than anxiety reduction and empathy", which suits a change
 in how encounters are organized better than one in what is known. Kalla
 and Broockman's field experiments ([CASE-tmpa5fgc](../cases.d/CASE-tmpa5fgc.md)) are the nearest

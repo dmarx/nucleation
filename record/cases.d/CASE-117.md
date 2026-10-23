@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CASE-tmprbebk
 title: 'Emergent specialization and recovery in a population of adaptive operators: identically parameterized operators whose contributions, influence and training opportunities co-evolve over a changing task distribution, compared across fixed and learned features, uniform, endorsement-based and contribution-based influence, coupled and decoupled training exposure, and imposed and endogenous diversity'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: mixture-of-experts results that already
+    show specialization and routing effects. The proposal is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -155,3 +161,17 @@ informative:
 
 The relation between persisting and reorganizing is the contrast that
 [THEORY-514](../theory.d/THEORY-514.md) examines, and resilience is not speed of return ([THEORY-132](../theory.d/THEORY-132.md)).
+
+## Note of 2026-10-23: what mixture-of-experts work already shows
+
+A5 of the exchange of 2026-10-23, "Framework Overview Request" cited three works, registered unread: Switch Transformers
+([LIT-tmpg44zc](../literature.d/LIT-tmpg44zc.md)), auxiliary-loss-free load balancing ([LIT-tmpl8rxn](../literature.d/LIT-tmpl8rxn.md)), and a
+theory of mixture-of-experts in continual learning ([LIT-tmpffj9m](../literature.d/LIT-tmpffj9m.md)), which
+by its abstract shows experts diversifying to specialize in tasks while
+the router learns to route and balance load. So specialization and its
+dependence on routing are shown. A5: what remains is "whether a specialist
+can remain *recoverably competent but practically excluded*; how
+endogenous recovery differs from externally imposed balancing; and whether
+the organization can revise its routing standards in response to failures
+those standards helped cause." [CLAIM-369](../claims.d/CLAIM-369.md)'s coexistence result (with
+[CASE-118](CASE-118.md)'s growth-rate condition) is the record's own formal piece.

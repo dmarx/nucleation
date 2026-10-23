@@ -57,5 +57,5 @@ for collective decision.
   category." The record should keep that outcome possible.
 - **Related evidence.** Honeybee swarms reach collective decisions with
   no central controller by cross-inhibition of recruitment (Seeley et al.,
-  LIT-{SEELEY}); A5: "collective decision-making is not automatically
+  [LIT-tmp8buru](../literature.d/LIT-tmp8buru.md)); A5: "collective decision-making is not automatically
   collective interpretation."

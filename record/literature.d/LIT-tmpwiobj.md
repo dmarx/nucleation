@@ -1,74 +1,48 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpwiobj:` heading.
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
 title: 'Liking a Person as a Function of Doing Him a Favour'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Jon Jecker and David Landy, Human Relations 22(4), 371–378. Crossref
+    gives published-online 1 August 1969 and print August 1969, so
+    `published:` is 1969-08-01, the issue month; the day is very
+    probably nominal. No abstract was found: Crossref, OpenAlex and
+    Semantic Scholar have none (Semantic Scholar says the publisher
+    elided it) and the SAGE page returned 403. The summary is from what
+    the study is standardly cited for, through secondary accounts found
+    by web search, and its numbers are unchecked.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-science
+- moral-psychology
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '1969-08-01'
+doi: '10.1177/001872676902200407'
+first_author: 'Jecker'
+keywords:
+- 'Benjamin Franklin effect'
+- 'favour'
+- 'liking'
+- 'cognitive dissonance'
+- 'attitude change'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Jecker & Landy (1969). The first experimental test of the Benjamin Franklin effect. Participants won money in a concept-formation task; afterwards one group was asked by the experimenter to return it as a personal favour (he was paying out of his own pocket), one was asked by a departmental secretary on behalf of the psychology department, and one was not asked. Those who did the experimenter a personal favour rated him most likable. Standardly read as a dissonance effect: one justifies a favour by liking its recipient.
 ---
+<!-- inactive-ok-file: CLAIM-275 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpwiobj: Liking a Person as a Function of Doing Him a Favour
 
-# LIT-000: The paper title, exactly as published
+Jecker, J. and Landy, D. (1969). Liking a person as a function of doing him a favour. *Human Relations*, 22(4), 371–378. doi:10.1177/001872676902200407.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read. The summary is drawn from what the work is standardly cited
+for; no abstract was reached. A reading should check it first.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The exchange cited it as the experimental evidence for the Franklin effect: winners asked personally to return the money liked the experimenter more. That matches the standard account, so no disagreement is flagged, but the account is secondary. The design matters for [CLAIM-275](../claims.d/CLAIM-275.md): the favour is an act the participant is drawn into before any revised view of the experimenter, and the liking comes after. Whether a single 1969 study with small cells carries that weight is for a reading; secondary accounts note it is rarely replicated directly.

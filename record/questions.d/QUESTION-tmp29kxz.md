@@ -27,7 +27,7 @@ the participants' perspectives did not hold, and [CLAIM-tmpm3bml](../claims.d/CL
 durable change acts on the coupling, not only the state. Neither says how
 to tell, in a person or a relationship, which happened. The existing
 evidence does not separate them: contact reduces prejudice and often
-generalizes (LIT-{PT06}), narrative exchange outlasts argument
+generalizes ([LIT-tmpjs5zx](../literature.d/LIT-tmpjs5zx.md)), narrative exchange outlasts argument
 ([CASE-tmpa5fgc](../cases.d/CASE-tmpa5fgc.md)), but neither isolates a change in how outcomes revise the
 interpretation.
 

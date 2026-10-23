@@ -15,7 +15,7 @@ summary: >-
   Cited at A4 of the exchange of 2026-10-22, "Ben Franklin Effect
   Explained", as "suggestive evidence" for the prediction that cooperative
   enactment changes attitudes more durably than information. Kalla and
-  Broockman (2020, LIT-{KB}), registered unread; the description is the
+  Broockman (2020, [LIT-tmpdncw9](../literature.d/LIT-tmpdncw9.md)), registered unread; the description is the
   exchange's and the abstract's, unchecked against the paper. The standing
   is the study's, not the reading's.
 ---
@@ -28,7 +28,7 @@ A4: "In three field experiments, Kalla and Broockman (2020) found that
 nonjudgmental exchanges of personal narratives could produce persistent
 reductions in exclusionary attitudes, whereas arguments alone did not
 produce comparable effects in their immigration-policy experiment."
-(LIT-{KB}, unread; its summary is from the abstract.)
+([LIT-tmpdncw9](../literature.d/LIT-tmpdncw9.md), unread; its summary is from the abstract.)
 
 ## What it shows
 
@@ -48,3 +48,7 @@ produce comparable effects in their immigration-policy experiment."
   also differ in warmth, attention and length.
 - That arguments never work, or that narrative exchange always does. The
   exchange's comparison is to one experiment's argument arm.
+- Large effects. [LIT-tmpdncw9](../literature.d/LIT-tmpdncw9.md)'s abstract: the narrative arm reduced
+  exclusionary attitudes "for at least four months (d = 0.08)", and the
+  replications on transphobia gave d = 0.08 and 0.04. Only Experiment 1
+  had an argument-only arm.

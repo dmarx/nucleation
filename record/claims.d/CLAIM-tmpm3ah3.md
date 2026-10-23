@@ -50,9 +50,9 @@ distinguished three levels of coupling:
 | Perspectival | Which interests count, and how the other's moves are read |
 
 The first is the classical argument, with mixed evidence: Oneal, Russett
-and Berbaum (LIT-{ORB}) report that trade predicts fewer disputes, and
-Barbieri (LIT-{BAR}) that extensive interdependence can predict more. The
-second is McDonald's (LIT-{MCD}): liberalization shifts domestic
+and Berbaum ([LIT-tmpy4m7n](../literature.d/LIT-tmpy4m7n.md)) report that trade predicts fewer disputes, and
+Barbieri ([LIT-tmpyxny6](../literature.d/LIT-tmpyxny6.md)) that extensive interdependence can predict more. The
+second is McDonald's ([LIT-tmp2vhso](../literature.d/LIT-tmp2vhso.md)): liberalization shifts domestic
 influence toward commercial interests. The claim is about the third.
 
 - **One dependence, three perspectives.** A6: "Mutual opportunity: *We
@@ -60,9 +60,9 @@ influence toward commercial interests. The claim is about the third.
   survival depends on something you control.* Coercive leverage: *Your
   dependence gives me power over you.*" These organize different policies
   and different readings of the other's next move. Copeland's
-  trade-expectations theory (LIT-{COP}) makes peace depend on expected
+  trade-expectations theory ([LIT-tmpv4zm7](../literature.d/LIT-tmpv4zm7.md)) makes peace depend on expected
   future access, and Farrell and Newman's weaponized interdependence
-  (LIT-{FN}) is the third organization built on network asymmetry.
+  ([LIT-tmp4kmxz](../literature.d/LIT-tmp4kmxz.md)) is the third organization built on network asymmetry.
 - **The state and the coupling.** By [CLAIM-tmpm3bml](CLAIM-tmpm3bml.md), an increase in trade
   changes the relationship's state; an agreement that also builds shared
   dispute procedures, reciprocal obligations and domestic constituencies

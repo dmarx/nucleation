@@ -14,9 +14,9 @@ supports:
 summary: >-
   The owner's U1 of the exchange of 2026-10-22, "Ben Franklin Effect
   Explained", read at U2 as a "perspectival invitation". Documented in
-  Franklin's Autobiography (LIT-{FRANKLIN}; the passage was read in the Project Gutenberg text on 2026-10-23), and the
+  Franklin's Autobiography ([LIT-tmp4vyr3](../literature.d/LIT-tmp4vyr3.md); the passage was read in the Project Gutenberg text on 2026-10-23), and the
   origin of the "Ben Franklin effect", that doing someone a favour can
-  increase liking for them, tested by Jecker and Landy (LIT-{JL}). The
+  increase liking for them, tested by Jecker and Landy ([LIT-tmpwiobj](../literature.d/LIT-tmpwiobj.md)). The
   standing is the anecdote's, as Franklin told it; the reading is the
   exchange's.
 ---
@@ -25,7 +25,7 @@ summary: >-
 
 ## The case
 
-Franklin, in the Autobiography (LIT-{FRANKLIN}), on his re-election as
+Franklin, in the Autobiography ([LIT-tmp4vyr3](../literature.d/LIT-tmp4vyr3.md)), on his re-election as
 clerk of the General Assembly: "a new member made a long speech against
 me, in order to favour some other candidate." Franklin "did not, however,
 aim at gaining his favour by paying any servile respect to him". Instead:
@@ -41,7 +41,7 @@ continued to his death." Franklin's maxim: "He that has once done you a
 kindness will be more ready to do you another, than he whom you yourself
 have obliged."
 
-The experimental descendant is Jecker and Landy (1969, LIT-{JL}): as A1
+The experimental descendant is Jecker and Landy (1969, [LIT-tmpwiobj](../literature.d/LIT-tmpwiobj.md)): as A1
 reported it, participants who returned their winnings at the
 experimenter's personal request then rated the experimenter more
 favourably. A1 added that its direct replication record is limited.
