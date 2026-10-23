@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpb0ouu): in full, from the NIH author manuscript in PubMed Central (PMC2894997, NIHMS165251). Worth reading as the evaluative space model''s own later summary, written with Berntson and Cacioppo. Positivity and negativity are separable systems, whose combined output is a bipolar predisposition to approach or withdraw. They can be activated reciprocally, independently or together, and coactivation is ambivalence. Ambivalence and neutrality give the same middling output from different underlying states. Negativity has the higher gain and positivity the higher intercept. It stands in for the unread 1994 and 1997 papers (LIT-tmpglbdp, LIT-tmpj2mcy).'
+status_note: 'read 2026-10-23 ([NOTE-tmpb0ouu](../notes.d/NOTE-tmpb0ouu.md)): in full, from the NIH author manuscript in PubMed Central (PMC2894997, NIHMS165251). Worth reading as the evaluative space model''s own later summary, written with Berntson and Cacioppo. Positivity and negativity are separable systems, whose combined output is a bipolar predisposition to approach or withdraw. They can be activated reciprocally, independently or together, and coactivation is ambivalence. Ambivalence and neutrality give the same middling output from different underlying states. Negativity has the higher gain and positivity the higher intercept. It stands in for the unread 1994 and 1997 papers ([LIT-tmpglbdp](LIT-tmpglbdp.md), [LIT-tmpj2mcy](LIT-tmpj2mcy.md)).'
 title: 'The current status of research on the structure of evaluative space'
 version: 1
 history:
@@ -47,6 +47,9 @@ summary: >-
   another. Clinical implications for depression and anxiety.
 extends:
 - LIT-tmpj2mcy
+supports:
+- CLAIM-tmp83ge2
+- CLAIM-tmpz8lli
 ---
 <!-- inactive-ok-file: LIT-tmpglbdp LIT-tmpj2mcy — Unavailable, unread; the papers that state the model this review summarises -->
 
@@ -93,11 +96,11 @@ DOI-10.1016/j.biopsycho.2010.03.011
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-dominance by one ordering (CLAIM-tmpz8lli, TERM-tmp8gbrt). That proposal
+dominance by one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). That proposal
 separates ambivalence from neutrality, and the evaluative space model did
 so first. It is the only first-hand statement of the model the record
 could reach lawfully: the 1994 and 1997 papers are Unavailable. The
-bearing is set out in NOTE-tmpb0ouu. In short:
+bearing is set out in [NOTE-tmpb0ouu](../notes.d/NOTE-tmpb0ouu.md). In short:
 
 - the model anticipates the distinction;
 - it locates ambivalence in the activation of two channels, not in a
@@ -106,7 +109,7 @@ bearing is set out in NOTE-tmpb0ouu. In short:
 - its asymmetries are something the proposal's symmetric sign clause
   does not predict.
 
-The record's other dimensional account, Barrett's (LIT-1353, LIT-542),
+The record's other dimensional account, Barrett's ([LIT-1353](LIT-1353.md), [LIT-542](LIT-542.md)),
 takes valence as one bipolar dimension of core affect. This model denies
 that.
 

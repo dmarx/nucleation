@@ -98,20 +98,20 @@ intervals (pp. 72–73).
 
 ## Connections
 
-Restates Debreu 1954 (LIT-tmpin6y6) and Eilenberg 1941 (not in
+Restates Debreu 1954 ([LIT-tmpin6y6](../literature.d/LIT-tmpin6y6.md)) and Eilenberg 1941 (not in
 the record), and names Wold as an earlier rigorous special case. Note 2
 points to Herstein and Milnor for weaker continuity assumptions. The
-record's LIT-067 is Debreu's 1952 equilibrium theorem.
+record's [LIT-067](../literature.d/LIT-067.md) is Debreu's 1952 equilibrium theorem.
 
 ## Bearing on the record
 
-The record's proposal reads Veit's "common currency" (THEORY-101) and
-ALARM's override (THEORY-090) as continuous and lexicographic dominant
-orderings (CLAIM-tmp83ge2). It rests the difference on CLAIM-tmp85p0g:
+The record's proposal reads Veit's "common currency" ([THEORY-101](../theory.d/THEORY-101.md)) and
+ALARM's override ([THEORY-090](../theory.d/THEORY-090.md)) as continuous and lexicographic dominant
+orderings ([CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)). It rests the difference on [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md):
 an ordering is a currency where it has a numerical representation, and
 the lexicographic order has none. §4.6 bears on this as follows.
 
-- **CLAIM-tmp85p0g's mathematics is right.** Its part 3 states the
+- **[CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s mathematics is right.** Its part 3 states the
   theorem for "a connected, separable topological space whose upper and
   lower contour sets are closed". That is exactly the form on p. 73. Its
   part 2 is Debreu's lexicographic argument, moved from R² to [0, 1]². Its
@@ -131,7 +131,7 @@ the lexicographic order has none. §4.6 bears on this as follows.
   and the converse ties continuity to *continuous* representation. It
   does not say a discontinuous ordering has no representation. Only some
   discontinuous orderings, the lexicographic one among them, have none.
-  This matters for CLAIM-tmp83ge2's test. For ALARM, that claim predicts
+  This matters for [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s test. For ALARM, that claim predicts
   "a step at a threshold beyond which no resource buys the cost". For
   Veit it predicts a continuous indifference curve. A step shows the
   ordering is discontinuous. It does not show it is lexicographic in
@@ -150,17 +150,17 @@ the lexicographic order has none. §4.6 bears on this as follows.
     costs. This is Debreu's R² example, and only this has no currency.
 
   So the test as worded separates continuous from discontinuous
-  dominance, not currency from no currency. CLAIM-tmp85p0g's phrase "a
+  dominance, not currency from no currency. [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s phrase "a
   lexicographic override lies in the gap" is true only of the third
-  case. ALARM's "100% weight", as CLAIM-tmp83ge2 operationalises it, is
+  case. ALARM's "100% weight", as [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) operationalises it, is
   the first case and has a currency. Either the two claims should say
-  "discontinuous" where they say "lexicographic", or CLAIM-tmp83ge2 needs
+  "discontinuous" where they say "lexicographic", or [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) needs
   a further mark: whether the cost overrides the resource at every cost
   level above the threshold, not only across the threshold.
 - **Completeness is presupposed.** Debreu's theorem starts from a
   complete preorder. The proposal's ambivalence, "no ordering at all"
-  (CLAIM-tmpz8lli, consequence 4), lies outside the theorem's domain, as
-  the record already says (THEORY-027). Debreu offers nothing on orders
+  ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), consequence 4), lies outside the theorem's domain, as
+  the record already says ([THEORY-027](../theory.d/THEORY-027.md)). Debreu offers nothing on orders
   that fail completeness.
 
 ## Limitations
@@ -175,5 +175,5 @@ transcribed by eye.
 Whether the trade-off experiments Veit's criterion relies on can tell a
 discontinuous but representable ordering from a lexicographic one, given
 finite stimulus sets. On a finite set every complete preorder is
-representable (CLAIM-tmp85p0g, part 1), so the distinction is only
+representable ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md), part 1), so the distinction is only
 empirical in the limit.

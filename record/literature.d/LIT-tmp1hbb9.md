@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read in part 2026-10-23 (NOTE-tmpsug0b): §4.6, "Continuity assumption on preferences" (pp. 55–59), and the notes to chapter 4 (pp. 72–73), from the PDF the Cowles Foundation posts as Monograph 17. Worth reading for Debreu''s own statement of the utility representation theorem and its limits. A complete preorder on a connected subset of Rˡ (more generally, a connected separable space) with closed upper and lower contour sets has a continuous utility function. The lexicographic ordering of R² has no real-valued representation at all. A utility function is "arbitrary to a large extent". The rest of the book (commodities, producers, equilibrium, optimum, uncertainty) was not read.'
+status_note: 'read in part 2026-10-23 ([NOTE-tmpsug0b](../notes.d/NOTE-tmpsug0b.md)): §4.6, "Continuity assumption on preferences" (pp. 55–59), and the notes to chapter 4 (pp. 72–73), from the PDF the Cowles Foundation posts as Monograph 17. Worth reading for Debreu''s own statement of the utility representation theorem and its limits. A complete preorder on a connected subset of Rˡ (more generally, a connected separable space) with closed upper and lower contour sets has a continuous utility function. The lexicographic ordering of R² has no real-valued representation at all. A utility function is "arbitrary to a large extent". The rest of the book (commodities, producers, equilibrium, optimum, uncertainty) was not read.'
 title: 'Theory of Value: An Axiomatic Analysis of Economic Equilibrium'
 version: 1
 history:
@@ -43,6 +43,8 @@ summary: >-
   function. The lexicographic ordering of R² is shown to have none.
 extends:
 - LIT-tmpin6y6
+supports:
+- CLAIM-tmp85p0g
 ---
 <!-- inactive-ok-file: LIT-tmpin6y6 — Unavailable, unread; the 1954 paper whose theorem §4.6 restates -->
 <!-- inactive-ok-file: CLAIM-tmp85p0g CLAIM-tmp83ge2 — Proposed; the claims this reading bears on, cited as open -->
@@ -87,15 +89,15 @@ Read for §4.6 and its notes only.
 ## Standing in the record
 
 Filed on 2026-10-23 as the lawful first-hand source for the theorem
-CLAIM-tmp85p0g uses. The 1954 paper (LIT-tmpin6y6) is
+[CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) uses. The 1954 paper ([LIT-tmpin6y6](LIT-tmpin6y6.md)) is
 Unavailable. §4.6 confirms the claim's statement of the theorem and its
 lexicographic argument. It corrects the attribution of the
 connected-separable form, and it exposes a gap in how the claim and
-CLAIM-tmp83ge2 read a "step" in an indifference curve. See
-NOTE-tmpsug0b.
+[CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) read a "step" in an indifference curve. See
+[NOTE-tmpsug0b](../notes.d/NOTE-tmpsug0b.md).
 
 Its general-equilibrium chapters are the work the record's economics
-neighbours point to (LIT-067, Debreu 1952; LIT-218 on the Hicks–Allen to
+neighbours point to ([LIT-067](LIT-067.md), Debreu 1952; [LIT-218](LIT-218.md) on the Hicks–Allen to
 Debreu line). They were not read for this filing.
 
 No instruction for machine-learning practice; nothing here belongs in the

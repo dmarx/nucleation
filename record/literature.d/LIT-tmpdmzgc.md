@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpcc9vz): in full, from the NIH author manuscript in PubMed Central (PMC6707771, NIHMS1512534). A short commentary on DeYoung and Krueger''s cybernetic theory of psychopathology, and the nearest lawful first-hand statement found of Carver and Scheier''s control-process account of affect. Valence is read off the velocity of goal attainment against a reference value. An approach system and an avoidance system can each produce either sign. Many goals are in play at once, and their priorities are juggled. It stands in for the unread 1990 paper (LIT-tmp63om1).'
+status_note: 'read 2026-10-23 ([NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md)): in full, from the NIH author manuscript in PubMed Central (PMC6707771, NIHMS1512534). A short commentary on DeYoung and Krueger''s cybernetic theory of psychopathology, and the nearest lawful first-hand statement found of Carver and Scheier''s control-process account of affect. Valence is read off the velocity of goal attainment against a reference value. An approach system and an avoidance system can each produce either sign. Many goals are in play at once, and their priorities are juggled. It stands in for the unread 1990 paper ([LIT-tmp63om1](LIT-tmp63om1.md)).'
 title: 'Control Theory, Goal Attainment, and Psychopathology'
 version: 1
 history:
@@ -45,6 +45,8 @@ summary: >-
   Doubt and disengagement sit outside the loop itself.
 extends:
 - LIT-tmp63om1
+supports:
+- CLAIM-tmpz8lli
 ---
 <!-- inactive-ok-file: LIT-tmp63om1 — Unavailable, unread; the 1990 paper this commentary restates -->
 
@@ -57,7 +59,7 @@ DOI-10.1080/1047840X.2018.1513681
 
 - **What cybernetics adds to goal talk.** Goal pursuit also needs
   perception of the present state and a comparison of it with the goal:
-  "action occurs in service to changing the input" (Powers, LIT-1179).
+  "action occurs in service to changing the input" (Powers, [LIT-1179](LIT-1179.md)).
 - **Psychopathology as distorted loop parameters.** The input can be
   biased or attend to the wrong channel. The reference value can be
   wrong, too lofty, or "inimical to one's life-space of goals". The
@@ -87,11 +89,11 @@ DOI-10.1080/1047840X.2018.1513681
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is a
 regime in which one ordering of a system's own states dominates the
-negotiation among its perspectives (CLAIM-tmpz8lli, TERM-tmp8gbrt). It is
+negotiation among its perspectives ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). It is
 the only first-hand statement of Carver and Scheier's affect account that
-the record could reach lawfully. The 1990 paper (LIT-tmp63om1)
-and the 1982 review (LIT-604) are both Unavailable. The bearing is set
-out in NOTE-tmpcc9vz. In short:
+the record could reach lawfully. The 1990 paper ([LIT-tmp63om1](LIT-tmp63om1.md))
+and the 1982 review ([LIT-604](LIT-604.md)) are both Unavailable. The bearing is set
+out in [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md). In short:
 
 - the proposal's sign clause is Carver and Scheier's, with one
   difference that matters: their neutral point is a reference rate, not
@@ -101,7 +103,7 @@ out in NOTE-tmpcc9vz. In short:
 - their priority juggling is the nearest thing in the tradition to the
   proposal's dominance.
 
-Its loop vocabulary is Powers's (LIT-1179, LIT-1188, LIT-1197).
+Its loop vocabulary is Powers's ([LIT-1179](LIT-1179.md), [LIT-1188](LIT-1188.md), [LIT-1197](LIT-1197.md)).
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.

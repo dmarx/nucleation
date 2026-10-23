@@ -65,6 +65,7 @@ summary: >-
 supports:
 - CLAIM-361
 - CLAIM-365
+- CLAIM-tmpz8lli
 ---
 
 # CLAIM-347: Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief

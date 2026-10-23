@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. Looked for on 2026-10-23. Unpaywall reports no open copy. The journal (APA, Psychological Review) is closed. A web search found the APA record, DeepDyve (paid), ERIC (EJ494079, record only), a Widener University file that is a reference list citing it, and Carnegie Mellon''s KiltHub record of a later Carver and Scheier chapter (2012, no file attached). The only full text seen was an author upload on ResearchGate, which this record does not use. Europe PMC has no open copy of it or of any other Carver statement of the model before 2018. The model is read first-hand, briefly, in Carver''s 2018 author manuscript in PubMed Central (LIT-tmpdmzgc), which restates that affect tracks the velocity of goal attainment against a reference value. Filed for the record''s account of valence as dominance by an ordering (CLAIM-tmpz8lli), whose sign clause this paper anticipates. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. Looked for on 2026-10-23. Unpaywall reports no open copy. The journal (APA, Psychological Review) is closed. A web search found the APA record, DeepDyve (paid), ERIC (EJ494079, record only), a Widener University file that is a reference list citing it, and Carnegie Mellon''s KiltHub record of a later Carver and Scheier chapter (2012, no file attached). The only full text seen was an author upload on ResearchGate, which this record does not use. Europe PMC has no open copy of it or of any other Carver statement of the model before 2018. The model is read first-hand, briefly, in Carver''s 2018 author manuscript in PubMed Central ([LIT-tmpdmzgc](LIT-tmpdmzgc.md)), which restates that affect tracks the velocity of goal attainment against a reference value. Filed for the record''s account of valence as dominance by an ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), whose sign clause this paper anticipates. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Origins and functions of positive and negative affect: A control-process view'
 version: 1
 history:
@@ -37,7 +37,9 @@ summary: >-
   discrepancy, and affect is that loop's error signal, positive when
   progress beats a reference rate and negative when it falls short.
   Unread: the account is read in Carver's 2018 restatement
-  (LIT-tmpdmzgc).
+  ([LIT-tmpdmzgc](LIT-tmpdmzgc.md)).
+extended_by:
+- LIT-tmpdmzgc
 ---
 <!-- inactive-ok-file: LIT-604 — Unavailable, unread; the authors' 1982 review, named to rule out a duplicate -->
 <!-- inactive-ok-file: CLAIM-tmpz8lli — Proposed; the account this paper bears on, cited as open -->
@@ -50,7 +52,7 @@ Charles S. Carver & Michael F. Scheier (1990), *Psychological Review*
 ## Key takeaways
 
 *Registered, not read.* What follows is what Carver's own later
-restatement says of it (LIT-tmpdmzgc), not a reading of this
+restatement says of it ([LIT-tmpdmzgc](LIT-tmpdmzgc.md)), not a reading of this
 paper.
 
 - **Affect is a rate signal.** Affect is not the size of the discrepancy
@@ -69,11 +71,11 @@ paper.
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is a
 regime in which one ordering of a system's own states dominates the
-negotiation among its perspectives (CLAIM-tmpz8lli). That claim already
+negotiation among its perspectives ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). That claim already
 names "Carver and Scheier's rate-of-progress account" as prior art for
-its sign clause, and gives LIT-604 as the place it is registered. This is
+its sign clause, and gives [LIT-604](LIT-604.md) as the place it is registered. This is
 the paper that states the affect half of the account, so the claim's
-citation should move here. LIT-604 is the general control-theory review.
+citation should move here. [LIT-604](LIT-604.md) is the general control-theory review.
 
 Two points from the 2018 restatement cut against the proposal as it is
 worded. They should be checked against this paper once it is read:

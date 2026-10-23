@@ -37,6 +37,9 @@ used_by:
 - CLAIM-365
 - CLAIM-366
 - CLAIM-368
+- CLAIM-tmpz8lli
+complements:
+- TERM-tmp8gbrt
 ---
 <!-- inactive-ok-file: CLAIM-147 CLAIM-187 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 <!-- inactive-ok-file: CLAIM-133 — Superseded; cited in the note of 2026-10-21, nothing here rests on it -->

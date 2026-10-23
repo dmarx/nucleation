@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists, but this client could not fetch it, so it failed on access, not availability. Looked for on 2026-10-23. Cacioppo posted the paper on his University of Chicago reprint page (psychology.uchicago.edu/people/faculty/cacioppo/jtcreprints/cb94.pdf). That URL now returns 404, and the Internet Archive''s capture of 2012-05-16 (timestamp 20120516001838) could not be fetched: web.archive.org reset the connection, and the fetch tool refuses the domain. Unpaywall reports no open copy. The journal (APA, Psychological Bulletin) is closed. A ResearchGate copy was seen and not used. The model is read first-hand in its authors'' 2010 review in PubMed Central (LIT-tmp4b7d6), whose Figures 2 and 3 are adapted from this paper. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists, but this client could not fetch it, so it failed on access, not availability. Looked for on 2026-10-23. Cacioppo posted the paper on his University of Chicago reprint page (psychology.uchicago.edu/people/faculty/cacioppo/jtcreprints/cb94.pdf). That URL now returns 404, and the Internet Archive''s capture of 2012-05-16 (timestamp 20120516001838) could not be fetched: web.archive.org reset the connection, and the fetch tool refuses the domain. Unpaywall reports no open copy. The journal (APA, Psychological Bulletin) is closed. A ResearchGate copy was seen and not used. The model is read first-hand in its authors'' 2010 review in PubMed Central ([LIT-tmp4b7d6](LIT-tmp4b7d6.md)), whose Figures 2 and 3 are adapted from this paper. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates'
 version: 1
 history:
@@ -37,7 +37,9 @@ summary: >-
   measured on one bipolar scale. The positive and negative evaluative
   processes behind them are separable, and can be activated reciprocally,
   independently or together. Unread: the model is read in Norris et al.
-  2010 (LIT-tmp4b7d6).
+  2010 ([LIT-tmp4b7d6](LIT-tmp4b7d6.md)).
+extended_by:
+- LIT-tmpj2mcy
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli — Proposed; the account this paper bears on, cited as open -->
 
@@ -49,7 +51,7 @@ John T. Cacioppo & Gary G. Berntson (1994), *Psychological Bulletin*
 ## Key takeaways
 
 *Registered, not read.* According to the authors' 2010 review
-(LIT-tmp4b7d6), this paper is where the following ideas start:
+([LIT-tmp4b7d6](LIT-tmp4b7d6.md)), this paper is where the following ideas start:
 
 - **The bivariate evaluative plane.** Positive and negative activation
   are two axes. A reciprocal diagonal runs from pure positivity to pure
@@ -67,9 +69,9 @@ John T. Cacioppo & Gary G. Berntson (1994), *Psychological Bulletin*
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-dominance by one ordering (CLAIM-tmpz8lli). Its fourth consequence,
+dominance by one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). Its fourth consequence,
 "Ambivalence is not neutrality", is a distinction this paper drew for
-attitudes. See NOTE-tmpb0ouu for how the two accounts of that
+attitudes. See [NOTE-tmpb0ouu](../notes.d/NOTE-tmpb0ouu.md) for how the two accounts of that
 distinction differ.
 
 No instruction for machine-learning practice; nothing here belongs in the
