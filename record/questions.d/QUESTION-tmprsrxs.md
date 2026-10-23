@@ -10,10 +10,10 @@ tags:
 date: '2026-10-23'
 line: organizational-affect
 summary: >-
-  TERM-tmp8gbrt restricts valence to dominance by an ordering of the
+  [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) restricts valence to dominance by an ordering of the
   system's own states by their bearing on its maintenance. A dominant
   ordering can instead rank them by a proxy that has come apart from
-  maintenance. Wells Fargo's cross-sell metric (CASE-151) is a candidate:
+  maintenance. Wells Fargo's cross-sell metric ([CASE-151](../cases.d/CASE-151.md)) is a candidate:
   treated as the firm's standing, it was not its viability. The question
   is whether such dominance is valence, and whether it is a common form of
   organizational metric fixation and of addiction.
@@ -24,21 +24,21 @@ summary: >-
 
 ## Why it is a question
 
-TERM-tmp8gbrt's restriction, to an ordering of the system's own states by
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s restriction, to an ordering of the system's own states by
 their bearing on its maintenance, keeps any dominant goal from counting as
 valence. But a system can rank its own states by a proxy that once
 tracked maintenance and has come apart from it.
 
 - **The organizational case.** In Wells Fargo's Community Bank
-  (CASE-151), cross-sell was treated as the measure of how the bank was
+  ([CASE-151](../cases.d/CASE-151.md)), cross-sell was treated as the measure of how the bank was
   doing, and it won the bank's conflicts for a decade against risk, HR
   and complaints. It was not the bank's viability, which the practices it
-  rewarded endangered. CLAIM-432 reads that case as threat without
+  rewarded endangered. [CLAIM-432](../claims.d/CLAIM-432.md) reads that case as threat without
   remorse; this question asks what kind of valence, if any, the metric's
   dominance was.
 - **The personal case.** In addiction a reward signal that once tracked
   the organism's maintenance comes to dominate its choices against it.
-  The record holds Ainslie on the breakdown of will (LIT-586), which may
+  The record holds Ainslie on the breakdown of will ([LIT-586](../literature.d/LIT-586.md)), which may
   bear on this.
 
 ## What would count as an answer

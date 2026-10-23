@@ -36,7 +36,7 @@ grounds:
 - THEORY-027
 - THEORY-101
 summary: >-
-  The owner's, 2026-10-23, in the discussion of THEORY-101 that followed
+  The owner's, 2026-10-23, in the discussion of [THEORY-101](../theory.d/THEORY-101.md) that followed
   the corporate psychopathy filing: "what if the 'appraisal' is the
   process by which competing perspectives negotiate amongst themselves? I
   think our earlier results equip us to reframe 'common currency' as
@@ -57,56 +57,56 @@ competing perspectives negotiate amongst themselves? I think our earlier
 results equip us to reframe 'common currency' as 'admits an (at least
 instantaneous) ordering'. we could then formalize a hedonic valence as a
 circumstance in which a particular kind of ordering dominates the
-dynamics." The definitions are TERM-tmp8gbrt's. The claim has three
+dynamics." The definitions are [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s. The claim has three
 parts and five consequences.
 
 **1. Appraisal is negotiation.** Frijda's appraisal is an event's
 pertinence to a concern, eliciting action readiness with control
-precedence (THEORY-055). Read with the record's distributed agent, the
+precedence ([THEORY-055](../theory.d/THEORY-055.md)). Read with the record's distributed agent, the
 concerns are perspectives, each with its own ranking of what to do next,
 and control precedence is not a property an emotion brings with it but
 the outcome of their negotiation: which perspective's ranking wins
 authority over action. This is how Frijda, Ridderinkhof and Rietveld
 already describe regulation, one motive state checking another with no
-regulator above them (THEORY-056), and it is CLAIM-283's distinction
+regulator above them ([THEORY-056](../theory.d/THEORY-056.md)), and it is [CLAIM-283](CLAIM-283.md)'s distinction
 between the precedence a motive claims and the authority it is granted.
 
 **2. A common currency is the negotiation admitting an ordering.**
 Veit's "common currency of sharing evaluative information across
-multiple control systems" (THEORY-101) does two jobs: comparability, so
+multiple control systems" ([THEORY-101](../theory.d/THEORY-101.md)) does two jobs: comparability, so
 that the options faced can be traded off, and sharing, so that one
 evaluation governs many control systems. The first is the negotiation's
 output being an ordering of the options at the instant; the second is
 part 3's dominance. This is the owner's correction of 2026-10-17 carried
-over (CLAIM-347: "We can do quite a lot with access to an ordering, even
+over ([CLAIM-347](CLAIM-347.md): "We can do quite a lot with access to an ordering, even
 if it doesn't give us a true measure"). Two facts keep it from being a
 relabelling. A negotiation need not produce an ordering: Sen's theorem
-(THEORY-027) and CLAIM-353 show that decisive jurisdictions, unanimity
+([THEORY-027](../theory.d/THEORY-027.md)) and [CLAIM-353](CLAIM-353.md) show that decisive jurisdictions, unanimity
 and an unrestricted domain cannot always yield a best element. And an
-ordering need not be a currency (CLAIM-tmp85p0g).
+ordering need not be a currency ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md)).
 
 **3. Hedonic valence is dominance by an ordering of a particular kind.**
 The ordering ranks the system's own states by their bearing on its
 maintenance, and it dominates: it wins the negotiation's conflicts,
-persists, and resumes after interruption (TERM-tmp8gbrt).
+persists, and resumes after interruption ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)).
 
 ## What follows
 
 1. **No frustration, no valence.** Dominance needs something to dominate.
    Where the perspectives never conflict, the compatibility complex of
-   CLAIM-347 has no minimal non-faces and no ranking wins anything. A
+   [CLAIM-347](CLAIM-347.md) has no minimal non-faces and no ranking wins anything. A
    thermostat, one loop with one ranking, has no valence on this account.
    This is the analogue of Frijda's "In the absence of concern
-   pertinence, there is no motive" (THEORY-055), and it does the work of
+   pertinence, there is no motive" ([THEORY-055](../theory.d/THEORY-055.md)), and it does the work of
    Veit's restriction to animals of high pathological complexity, without
    a threshold. It makes valence a consequence of the record's frustration
-   line (CLAIM-347, CLAIM-368), not an addition to it.
+   line ([CLAIM-347](CLAIM-347.md), [CLAIM-368](CLAIM-368.md)), not an addition to it.
 2. **Sign needs only the ordering.** Positive when the system moves up
    the dominant ranking, negative when it moves down. Carver and Scheier's
    rate-of-progress account of affect is prior art for this clause and is
-   registered (LIT-604, Unavailable); the record has not yet read it.
+   registered ([LIT-604](../literature.d/LIT-604.md), Unavailable); the record has not yet read it.
 3. **Intensity is dominance strength.** How much of what the other
-   perspectives would decide the dominant ranking overrides. THEORY-055
+   perspectives would decide the dominant ranking overrides. [THEORY-055](../theory.d/THEORY-055.md)
    cites evidence that rated control precedence tracks rated intensity
    (Sonnemans and Frijda 1994, not read here); on this account that is
    because they are one quantity.
@@ -116,23 +116,23 @@ persists, and resumes after interruption (TERM-tmp8gbrt).
    ranking winning among some perspectives and another among the rest.
 5. **Two dominance regimes.** Dominance can be compensatory, the
    dominant ranking trading off against others in proportion, or
-   lexicographic, the others deciding only its ties. CLAIM-tmp85p0g
+   lexicographic, the others deciding only its ties. [CLAIM-tmp85p0g](CLAIM-tmp85p0g.md)
    shows the first has a currency and the second none, and
-   CLAIM-tmp83ge2 reads Veit and ALARM as these two regimes.
+   [CLAIM-tmp83ge2](CLAIM-tmp83ge2.md) reads Veit and ALARM as these two regimes.
 
 ## What it does not say
 
 - **That the regime is felt.** The claim is functional. Veit identifies
-  felt valence with the currency (THEORY-101); adopting that identity for
+  felt valence with the currency ([THEORY-101](../theory.d/THEORY-101.md)); adopting that identity for
   this regime is a further step the record has not taken, and the
-  owner's constitutive thesis (CLAIM-412) would bear on it. The
-  counterfactual eraser (THEORY-252) bears on it too: priority,
+  owner's constitutive thesis ([CLAIM-412](CLAIM-412.md)) would bear on it. The
+  counterfactual eraser ([THEORY-252](../theory.d/THEORY-252.md)) bears on it too: priority,
   persistence and resumption are dispositional, so an identity of feeling
   with this regime would be an identity with a functional role, unless
   dominance is defined by conflicts actually won over an interval.
 - **How perspectives are individuated.** The claim takes them as given,
-  as TERM-072 does; individuating them without circularity is not this
+  as [TERM-072](../terms.d/TERM-072.md) does; individuating them without circularity is not this
   claim's business.
-- **How dominance is measured.** QUESTION-tmpsqwu5.
+- **How dominance is measured.** [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md).
 - **What happens when the dominant ordering ranks a proxy for
-  maintenance rather than maintenance.** QUESTION-tmprsrxs.
+  maintenance rather than maintenance.** [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md).

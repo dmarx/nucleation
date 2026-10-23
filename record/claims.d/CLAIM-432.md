@@ -193,23 +193,23 @@ claim:
 
 ## Note of 2026-10-23: the defeater corrected, and valence as ordering-dominance
 
-Version 1's defeater misread THEORY-101. Veit does not add a phenomenal
+Version 1's defeater misread [THEORY-101](../theory.d/THEORY-101.md). Veit does not add a phenomenal
 condition the corporation might fail; he identifies felt valence with a
 functional one. Alone, that would make the corporation's lack of remorse
 a felt lack. It threatens the claim only by modus tollens, joined to an
-argument that a corporation feels nothing, such as List's (NOTE-340),
+argument that a corporation feels nothing, such as List's ([NOTE-340](../notes.d/NOTE-340.md)),
 which runs through IIT's exclusion postulate, an anti-nesting principle
-THEORY-043 holds unprincipled so far. The defeater now states that route.
+[THEORY-043](../theory.d/THEORY-043.md) holds unprincipled so far. The defeater now states that route.
 
 The same day the owner recast valence as dominance of the negotiation
 among an organization's perspectives by an ordering of its own states
-(CLAIM-tmpz8lli, TERM-tmp8gbrt). In those terms the claim sharpens.
+([CLAIM-tmpz8lli](CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). In those terms the claim sharpens.
 Remorse is others' harm entering the dominant ordering; threat without
 remorse is harm reaching the corporation only as a fall along it. Wells
 Fargo's cross-sell ranking won the bank's conflicts against risk, HR and
-complaints for a decade (CASE-151), which is dominance in TERM-tmp8gbrt's
+complaints for a decade ([CASE-151](../cases.d/CASE-151.md)), which is dominance in [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
 sense. Whether that ranking was of the bank's maintenance or of a proxy
-for it is QUESTION-tmprsrxs. On this reading, whether a corporation has
+for it is [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md). On this reading, whether a corporation has
 valence at all becomes a question about its dynamics, not about whether
 it is conscious, and the Veit–List route above loses its force against
 the functional claim, whatever it says about feeling.

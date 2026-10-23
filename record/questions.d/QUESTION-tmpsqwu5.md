@@ -9,12 +9,12 @@ tags:
 date: '2026-10-23'
 line: organizational-affect
 summary: >-
-  TERM-tmp8gbrt defines dominance by Frijda's three marks of control
+  [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) defines dominance by Frijda's three marks of control
   precedence: priority in conflicts, persistence and resumption after
-  interruption. CLAIM-tmpz8lli rests its consequences on dominance, and
+  interruption. [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) rests its consequences on dominance, and
   each of its defeaters needs dominance measured. This asks how, and
   whether the measured (actual) and the dispositional readings agree,
-  which bears on the counterfactual eraser (THEORY-252).
+  which bears on the counterfactual eraser ([THEORY-252](../theory.d/THEORY-252.md)).
 ---
 <!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli THEORY-252 — Proposed; the term and claim this asks about, and the dilemma it bears on, cited as open -->
 
@@ -22,9 +22,9 @@ summary: >-
 
 ## Why it is a question
 
-TERM-tmp8gbrt makes valence a regime of dominance and reads dominance
-through Frijda's marks of control precedence (THEORY-055). Every
-consequence CLAIM-tmpz8lli draws, and every defeater it names, needs
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) makes valence a regime of dominance and reads dominance
+through Frijda's marks of control precedence ([THEORY-055](../theory.d/THEORY-055.md)). Every
+consequence [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) draws, and every defeater it names, needs
 dominance to be measurable: which ranking wins the pairs on which the
 perspectives disagree, whether it keeps winning, and whether it returns
 after a perturbation.
@@ -32,20 +32,20 @@ after a perturbation.
 Three candidate measures are in reach.
 - **Conflict record.** For an organization, its decisions on the pairs
   where its perspectives disagree, with the perspective each decision
-  followed (for Wells Fargo, CASE-151, where the sales model's ranking
+  followed (for Wells Fargo, [CASE-151](../cases.d/CASE-151.md), where the sales model's ranking
   repeatedly overrode risk and HR). For an animal, choices in conflict
   tasks.
 - **Out-prediction.** A ranking dominates when it predicts the system's
-  next moves better than its rivals, the evidential grade CLAIM-427 asks
+  next moves better than its rivals, the evidential grade [CLAIM-427](../claims.d/CLAIM-427.md) asks
   for.
 - **The coupled meaning–influence model.** Past the instability
-  threshold of CLAIM-330, one direction grows and mixes meaning with
+  threshold of [CLAIM-330](../claims.d/CLAIM-330.md), one direction grows and mixes meaning with
   authority: an ordering coming to dominate, in the model's own terms.
 
 The second half of the question is the eraser. Priority, persistence and
 resumption are dispositional. If dominance is read from conflicts
 actually won over an interval, a clamp that never acts cannot change it;
-if it is read as a disposition, THEORY-252's argument applies to it.
+if it is read as a disposition, [THEORY-252](../theory.d/THEORY-252.md)'s argument applies to it.
 
 ## What would count as an answer
 

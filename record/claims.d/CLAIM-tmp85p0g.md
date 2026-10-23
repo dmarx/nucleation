@@ -78,16 +78,16 @@ each instant.
   Veit's criterion uses (a noxious cost against a resource, in proportion
   to both), "admits an ordering" is strictly weaker than "admits a
   currency". A lexicographic override, the form ALARM's "100% weight"
-  takes (THEORY-090), is an ordering with no currency. A continuous
-  trade-off, Veit's form (THEORY-101), is an ordering with a continuous
-  currency. CLAIM-tmp83ge2 draws the consequence for their rivalry.
+  takes ([THEORY-090](../theory.d/THEORY-090.md)), is an ordering with no currency. A continuous
+  trade-off, Veit's form ([THEORY-101](../theory.d/THEORY-101.md)), is an ordering with a continuous
+  currency. [CLAIM-tmp83ge2](CLAIM-tmp83ge2.md) draws the consequence for their rivalry.
 
 ## What it does not say
 
 - That every ordering without a currency is lexicographic. Others exist
   (orders on non-separable spaces, among them); the claim says only that
   the lexicographic one lies in the gap.
-- That a negotiation always produces an ordering. It need not (THEORY-027,
-  CLAIM-353); that is a separate fact, used in CLAIM-tmpz8lli.
+- That a negotiation always produces an ordering. It need not ([THEORY-027](../theory.d/THEORY-027.md),
+  [CLAIM-353](CLAIM-353.md)); that is a separate fact, used in [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md).
 - That anything here is new mathematics. Parts 1 to 3 are textbook
   results of utility theory, written out so the record can check them.
