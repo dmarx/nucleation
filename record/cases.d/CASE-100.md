@@ -22,6 +22,8 @@ summary: >-
   X-Men fans or the internet at large, is not.
 supports:
 - CLAIM-332
+reported_in:
+- LIT-1142
 ---
 
 <!-- inactive-ok-file: LIT-1142 — Deferred; open claims, readings and works registered unread, cited as open, nothing here rests on their being settled -->

@@ -33,6 +33,13 @@ summary: >-
   warning whose standing changed as it moved, a correction made in the
   rules, and a capacity not maintained. Not shown: why the correction
   decayed, which [THEORY-140](../theory.d/THEORY-140.md) explains and this case only displays.
+reported_in:
+- LIT-734
+- LIT-1378
+- LIT-1393
+- NOTE-1088
+- NOTE-1090
+- THEORY-140
 ---
 <!-- inactive-ok-file: CLAIM-403 CLAIM-416 CLAIM-422 THEORY-140 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-715 — Unavailable; works sought and not reached, cited as unread -->

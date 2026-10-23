@@ -32,6 +32,15 @@ summary: >-
   or to interference among event models, and replications that fail. Not
   shown: that the effect is robust, or that the record's account explains
   it better than event cognition already does.
+reported_in:
+- LIT-1384
+- LIT-1385
+- LIT-1387
+- LIT-1392
+- NOTE-1079
+- NOTE-1081
+- NOTE-1082
+- NOTE-1083
 ---
 <!-- inactive-ok-file: CLAIM-421 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

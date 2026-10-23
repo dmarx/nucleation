@@ -30,6 +30,8 @@ summary: >-
   move between carriers. Not shown: that the parties swapped
   perspectives, or that any present party continues a historical one's
   character, which are the owner's U29 framings the replies declined.
+reported_in:
+- LIT-1380
 ---
 <!-- inactive-ok-file: LIT-1380 LIT-1381 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-329 CLAIM-417 CLAIM-423 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

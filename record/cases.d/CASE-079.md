@@ -30,6 +30,10 @@ summary: >-
   alliances off the canvas as the influence canvas. First time the thing
   turns up in the record. The event and the data are documented. The
   readings of them are proposals.
+reported_in:
+- LIT-1025
+- LIT-1032
+- LIT-1037
 ---
 <!-- inactive-ok-file: CLAIM-279 CLAIM-280 CLAIM-285 THEORY-218 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

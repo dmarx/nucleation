@@ -24,6 +24,9 @@ summary: >-
 illustrates:
 - CLAIM-034
 - CLAIM-210
+reported_in:
+- LIT-1302
+- NOTE-1019
 ---
 <!-- inactive-ok-file: CLAIM-034 CLAIM-220 CLAIM-002 — Proposed; claims this case illustrates or bears on, open -->
 

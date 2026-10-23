@@ -26,6 +26,8 @@ summary: >-
   organization of authority; survival in marginal carriers; and a
   reconstruction that became a source of authenticity. Not shown: what
   was continuous and what was rebuilt, which is the question it raises.
+reported_in:
+- LIT-1373
 ---
 <!-- inactive-ok-file: LIT-1373 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-416 CLAIM-417 CLAIM-421 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

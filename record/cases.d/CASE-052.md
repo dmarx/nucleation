@@ -23,6 +23,8 @@ summary: >-
   two styles did not conflict. Television and radio put both audiences in
   front of one speech, there was no neutral style, and his choice of one
   alienated the other audience. The roles did not change. The cover did.
+reported_in:
+- LIT-1001
 ---
 <!-- inactive-ok-file: CLAIM-196 — Proposed; the claim this case illustrates, open -->
 

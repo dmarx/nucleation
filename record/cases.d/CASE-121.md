@@ -26,6 +26,9 @@ summary: >-
 illustrates:
 - CLAIM-002
 - CLAIM-210
+reported_in:
+- LIT-1301
+- NOTE-1021
 ---
 <!-- inactive-ok-file: CLAIM-002 — Proposed; the claim this case illustrates, open -->
 
