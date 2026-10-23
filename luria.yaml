@@ -675,6 +675,14 @@ schemes:
         required: false
         many: true
         converse: grounds
+      reports:
+        label: Reports
+        blurb: the cases the record took from this work, written by `luria link --fix` from their `reported_in`
+          (ADR-051).
+        scheme: CASE
+        required: false
+        many: true
+        converse: reported_in
       superseded_by:
         scheme:
         - LIT
@@ -729,6 +737,14 @@ schemes:
         scheme: LIT
         required: true
         many: false
+      reports:
+        label: Reports
+        blurb: the cases the record took from this reading, written by `luria link --fix` from their `reported_in`
+          (ADR-051).
+        scheme: CASE
+        required: false
+        many: true
+        converse: reported_in
       superseded_by:
         scheme: NOTE
         many: true
@@ -839,6 +855,14 @@ schemes:
         required: false
         many: true
         converse: grounds
+      reports:
+        label: Reports
+        blurb: the cases the record took from this account, written by `luria link --fix` from their `reported_in`
+          (ADR-051).
+        scheme: CASE
+        required: false
+        many: true
+        converse: reported_in
       superseded_by:
         scheme: THEORY
         many: true
@@ -1200,6 +1224,15 @@ schemes:
         required: false
         many: true
         converse: substitutes_for
+      reported_in:
+        label: Reported in
+        blurb: where the record got this case — the work that reports it, the reading that describes
+          it, or the account that states its result. Provenance, not support; a case can be reported in
+          a work the record has not read (ADR-051).
+        scheme: [LIT, NOTE, THEORY]
+        required: false
+        many: true
+        converse: reports
       superseded_by:
         scheme: CASE
         many: true

@@ -4,7 +4,7 @@ status: Active
 formerly:
 - CASE-tmps7vk0
 title: 'The imagined owner'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-21'
@@ -12,6 +12,11 @@ history:
     Note of 2026-10-21 added, from the exchange on experience and
     interpretation: its converse arm (integration varied, self-model held)
     and a proposed third factor, grounding. The case is unchanged.
+- version: 3
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: two classic results on reported
+    authorship. The proposal is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -122,3 +127,12 @@ conditions are conscious." A5: complete answers on integration,
 self-attribution and grounding "would not, by themselves, establish
 phenomenal consciousness unless we accept an additional constitutive
 premise". The design itself is unchanged.
+
+## Note of 2026-10-23: reported authorship already comes apart from causes
+
+A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Nisbett and Wilson (1977, [LIT-tmpepx5p](../literature.d/LIT-tmpepx5p.md)) and choice
+blindness (Johansson et al. 2005, [LIT-tmprkygq](../literature.d/LIT-tmprkygq.md)), registered unread. A5:
+they "already demonstrate that **reported authorship and actual causal
+history can diverge**." What they do not show is this design's thesis,
+that representing a centralized controller rather than an accurately
+distributed one changes error correction or self-governance.

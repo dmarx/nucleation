@@ -6,7 +6,13 @@ formerly:
 title: 'A minimal coupled meaning–influence model: two hypotheses, two retrieval
   specialists, a fixed balanced corpus, queries set by the dominant interpretation
   and endorsement updated from apparent retrieval success'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: reflected-appraisal theory as the nearest
+    published model. The proposal is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -81,3 +87,18 @@ simpler models ([CLAIM-278](../claims.d/CLAIM-278.md)). A15 named the simpler mo
 appraisal (DeGroot–Friedkin), adaptive networks and persuasion bias, as
 the baseline before any claim of novelty ([QUESTION-117](../questions.d/QUESTION-117.md)). They are
 recorded here as proposals; the case is unchanged.
+
+## Note of 2026-10-23: what Friedkin's model already shows
+
+A5 of the exchange of 2026-10-23, "Framework Overview Request" cited Friedkin's reflected-appraisal theory ([LIT-tmp5itdq](../literature.d/LIT-tmp5itdq.md),
+registered unread) and its DeGroot–Friedkin analysis ([LIT-1146](../literature.d/LIT-1146.md), unread):
+members appraise one another's control over prior outcomes, and that
+appraisal reshapes the influence network, which by the abstract "generates
+transitions of the influence network toward concentrated power". A5:
+"effective authority need not be imposed once and held fixed". What
+stays for this model is whether interpretive authority and practical
+influence form a coupled system, which reflected appraisal does not by
+itself test; A5 asked that the simulation be compared with
+DeGroot–Friedkin, adaptive-network and recommender models, and not only
+reproduce [CLAIM-330](../claims.d/CLAIM-330.md)'s instability. [CASE-tmp4ozxp](CASE-tmp4ozxp.md) folds this model into a
+larger design.

@@ -1,0 +1,49 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
+title: 'Economic Interdependence and War: A Theory of Trade Expectations'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Dale C. Copeland, International Security 20(4), 5–41. Crossref gives
+    April 1996 only, and the MIT Press page (as OpenAlex scraped it)
+    gives 1 April 1996. `published:` is 1996-04-01 and means April 1996,
+    the issue (ADR-002). Semantic Scholar gives 21 January 1996, which
+    no publisher or bibliographic record supports and which reads as an
+    indexing artifact, so it is not taken as a date of appearance. No
+    abstract was reached: Crossref has none, Semantic Scholar says the
+    publisher elided it, and the MIT Press page gives only a PDF. The
+    summary is from what the article is standardly cited for.
+tags:
+- society-and-governance
+- game-theory
+date: '2026-10-23'
+published: '1996-04-01'
+doi: '10.1162/isec.20.4.5'
+first_author: 'Copeland'
+keywords:
+- 'economic interdependence'
+- 'trade expectations'
+- 'war'
+- 'realism'
+- 'liberalism'
+implementations: []
+summary: >-
+  Copeland (1996). Proposes trade-expectations theory to reconcile liberal and realist views of interdependence: what matters is not the present level of trade but a state's expectations of future trade. A highly dependent state that expects trade to continue has reason for peace; one that expects to be cut off has reason to fight while it still can, so high interdependence with negative expectations makes war likelier. Standardly cited with historical cases from the great-power wars.
+---
+<!-- inactive-ok-file: CLAIM-404 CLAIM-275 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
+
+# LIT-tmpv4zm7: Economic Interdependence and War: A Theory of Trade Expectations
+
+Copeland, D. C. (1996). Economic interdependence and war: A theory of trade expectations. *International Security*, 20(4), 5–41. doi:10.1162/isec.20.4.5.
+
+Not read. The summary is drawn from what the work is standardly cited
+for; no abstract was reached. A reading should check it first.
+
+## Why this is here
+
+The exchange cited it for the conditional view: trade pacifies when the parties expect it to continue. That matches the standard account; no disagreement is flagged, but no abstract was reached to check against. For the favour analogy the point is that the invitation works by the future it opens, not the exchange already done. Bears on [CLAIM-404](../claims.d/CLAIM-404.md) and [CLAIM-275](../claims.d/CLAIM-275.md).

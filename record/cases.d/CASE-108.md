@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CASE-tmp4nzjz
 title: 'Robust governance under internal compromise: four governance architectures over cooperative, honestly dissenting and adversarial specialists, scored on attack success and on what the safeguards cost, with a variant that compromises the evaluators'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: external analogues for the honest-dissent
+    arm, from abstracts. The proposal is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -96,3 +102,18 @@ the designed population, whose objectives the modeller fixes, so by
 constitutes itself. Which specialists count as "honest but dissenting" is
 fixed by the designer, which is exactly the judgment a real organization
 lacks ([QUESTION-087](../questions.d/QUESTION-087.md)).
+
+## Note of 2026-10-23: the honest-dissent arm has a human analogue
+
+Cited at A5 of the exchange of 2026-10-23, "Framework Overview Request". In three-person human groups, prediscussion
+dissent improved hidden-profile decisions even when the dissent was itself
+wrong, and its size did not matter (Schulz-Hardt et al., [LIT-tmpefjd9](../literature.d/LIT-tmpefjd9.md));
+making members' preferences known degraded attention to the information
+(Mojzisch and Schulz-Hardt, [LIT-tmp4zxlj](../literature.d/LIT-tmp4zxlj.md)). Both are Unavailable and read
+from abstracts ([QUESTION-089](../questions.d/QUESTION-089.md)'s note). So suppressing honest minorities has
+a measurable cost in people. They say nothing about adversarial members or
+governance architectures. A5 also cited a comparison of Byzantine-robust
+federated-learning methods under heterogeneous data, which was not
+identified with confidence and is not filed. [CASE-tmp4ozxp](CASE-tmp4ozxp.md) proposes the
+evaluator-compromise test in a form that bears on this case and [CASE-092](CASE-092.md)
+at once.

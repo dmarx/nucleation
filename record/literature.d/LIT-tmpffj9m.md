@@ -1,0 +1,44 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-23, "Framework Overview Request". No NOTE is filed.
+title: 'Theory on Mixture-of-Experts in Continual Learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against arXiv on 2026-10-23:
+    arXiv:2406.16437, Hongbo Li, Sen Lin, Lingjie Duan, Yingbin Liang
+    and Ness B. Shroff; v1 submitted 24 June 2024, which is
+    `published:`; v3 of 19 February 2025 notes acceptance at ICLR 2025
+    (Spotlight). The summary follows the arXiv abstract.
+tags:
+- learning-theory
+- anthology-candidate
+date: '2026-10-23'
+published: '2024-06-24'
+arxiv: '2406.16437'
+first_author: 'Li'
+keywords:
+- 'mixture of experts'
+- 'continual learning'
+- 'catastrophic forgetting'
+- 'gating network'
+- 'overparameterized linear regression'
+- 'expert specialization'
+implementations: []
+summary: >-
+  Li, Lin, Duan, Liang & Shroff (2024; ICLR 2025). The first theoretical analysis of mixture-of-experts in continual learning, in overparameterized linear regression. The MoE diversifies its experts to specialize in different tasks while the router learns to send each task to the right expert and balance load. Unlike the static setting, convergence requires stopping gating-network updates after enough rounds. Explicit expressions are given for expected forgetting and generalization error; more experts need more rounds to converge and may not help. Experiments extend the insights to deep networks.
+---
+
+# LIT-tmpffj9m: Theory on Mixture-of-Experts in Continual Learning
+
+Li, H., Lin, S., Duan, L., Liang, Y. and Shroff, N. B. (2025). Theory on mixture-of-experts in continual learning. *ICLR 2025*. arXiv:2406.16437.
+
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The exchange cited it for [CASE-117](../cases.d/CASE-117.md): specialization emerging among identically parameterized operators whose routing and training co-evolve over a changing task distribution is what the paper proves for a gated MoE, and its result that the gate must stop updating for convergence is a condition [CASE-117](../cases.d/CASE-117.md) should test. The exchange gave no description to check. It carries the anthology-candidate flag ([ADR-005](../decisions.d/ADR-005.md)) because the abstract draws practical design guidance for MoE training.

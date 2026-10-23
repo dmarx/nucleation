@@ -60,6 +60,8 @@ summary: >-
   about boundaries, applied to interpretation.
 illustrated_by:
 - CASE-126
+supports:
+- CLAIM-tmpcp1lb
 ---
 <!-- inactive-ok-file: TERM-072 TERM-073 — Proposed; the terms and claims filed with this one from the same exchange, cited as open, nothing here rests on their adoption -->
 

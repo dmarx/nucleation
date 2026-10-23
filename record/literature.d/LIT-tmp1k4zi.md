@@ -1,0 +1,46 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-23, "Framework Overview Request". No NOTE is filed.
+title: 'Twenty-Five Years of Hidden Profiles in Group Decision Making: A Meta-Analysis'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref and PubMed (PMID
+    21896790) on 2026-10-23: Li Lu, Y. Connie Yuan and Poppy Lauretta
+    McLeod, Personality and Social Psychology Review 16(1), 54–75,
+    published online 6 September 2011, which is `published:`; print
+    issue February 2012. Crossref gives the title without its subtitle,
+    "A Meta-Analysis", which the article carries. The summary follows
+    the abstract on Crossref.
+tags:
+- social-science
+- cognition
+date: '2026-10-23'
+published: '2011-09-06'
+doi: '10.1177/1088868311417243'
+first_author: 'Lu'
+keywords:
+- 'hidden profile'
+- 'information pooling'
+- 'group decision making'
+- 'shared information bias'
+- 'meta-analysis'
+implementations: []
+summary: >-
+  Lu, Yuan & McLeod (2012). A meta-analysis of 65 hidden-profile studies (101 effects, 3,189 groups). Groups mention common information about two standard deviations more than unique information, and hidden-profile groups are eight times less likely to find the correct solution than groups with full information. Pooling of unique information predicts decision quality (coverage more than discussion focus); communication medium affects neither pooling nor quality; group size, information load, the share of unique information, task demonstrability and profile strength moderate.
+---
+<!-- inactive-ok-file: QUESTION-089 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
+
+# LIT-tmp1k4zi: Twenty-Five Years of Hidden Profiles in Group Decision Making: A Meta-Analysis
+
+Lu, L., Yuan, Y. C. and McLeod, P. L. (2012). Twenty-five years of hidden profiles in group decision making: A meta-analysis. *Personality and Social Psychology Review*, 16(1), 54–75. doi:10.1177/1088868311417243.
+
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The exchange cited it for [CASE-108](../cases.d/CASE-108.md) and [QUESTION-089](../questions.d/QUESTION-089.md): 65 studies, 3,189 groups, hidden-profile groups eight times less likely to find the correct solution. The abstract agrees on all three figures. It adds that the number is relative to groups with full information, and that information coverage, not discussion focus, predicts quality best, which bears on [QUESTION-089](../questions.d/QUESTION-089.md)'s dissenting process: unique information helps when it is pooled, not merely voiced.

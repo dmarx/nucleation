@@ -37,6 +37,8 @@ uses:
 complements:
 - CLAIM-355
 - CLAIM-418
+- CLAIM-tmpcp1lb
+- CLAIM-tmprti7p
 works:
 - organization-of-perspective
 - self-without-a-sovereign

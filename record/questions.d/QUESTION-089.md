@@ -4,7 +4,14 @@ status: Open
 formerly:
 - QUESTION-tmplh9fr
 title: 'When does a process that destabilizes a whole''s prevailing pattern improve the organization rather than only disrupt it, and does that depend on others able to build on what it opens and on authority that can move to them?'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: two hidden-profile studies and a
+    meta-analysis, registered, the two studies Unavailable and read from
+    abstracts. The question stays Open; no THEORY is filed.
 tags:
 - self-governance
 - social-ontology
@@ -50,3 +57,28 @@ crowding out exploration ([THEORY-142](../theory.d/THEORY-142.md)), Longino's cr
 defended. So the question must fix whose adaptation counts. An answer gives
 the conditions, and a case where the same dissent helps under them and harms
 without them.
+
+## Note of 2026-10-23: dissent in hidden-profile groups, from abstracts
+
+Cited at A5 of the exchange of 2026-10-23, "Framework Overview Request" as results that meet part of [CASE-108](../cases.d/CASE-108.md)'s aim.
+Neither study was reached; both are read from their PubMed abstracts.
+
+- **Schulz-Hardt et al. (2006, [LIT-tmpefjd9](../literature.d/LIT-tmpefjd9.md)).** Groups whose members agreed
+  on a wrong option before discussion "hardly ever solved the hidden
+  profile"; dissent raised solution rates "even if none of these individual
+  prediscussion preferences were correct", mainly through greater
+  discussion intensity. A case where destabilizing a consensus helps even
+  when the dissenter is wrong.
+- **Mojzisch and Schulz-Hardt (2010, [LIT-tmp4zxlj](../literature.d/LIT-tmp4zxlj.md))** bound it: learning the
+  others' preferences at the start impeded solution, through less attention
+  to the information exchanged, even when another member favoured the
+  correct option.
+- **Lu, Yuan and McLeod (2012, [LIT-tmp1k4zi](../literature.d/LIT-tmp1k4zi.md))**, a meta-analysis of 65
+  studies and 3,189 groups: hidden-profile groups were eight times less
+  likely than fully informed groups to find the correct solution, and
+  pooling of unique information predicted decision quality.
+
+Together they suggest the condition is whether dissent drives the handling
+of information, not whether positions are visible. The question's second
+half, about others building on what dissent opens and about authority
+moving to them, is untouched. A THEORY waits for a reading.

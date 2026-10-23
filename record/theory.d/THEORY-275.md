@@ -4,7 +4,7 @@ status: Active
 formerly:
 - THEORY-tmpo4fgq
 title: "In two optically trapped beads with a symmetric hydrodynamic coupling, one trap moved by a recorded noise drive, time-delayed mutual information and transfer entropy follow the drive's path rather than the coupling's symmetry: the flow between the beads reads two-way under moderate drive, in experiment and numerics, and one-way under strong drive, in numerics of the fitted model only"
-version: 4
+version: 5
 history:
 - version: 2
   date: '2026-10-17'
@@ -32,6 +32,13 @@ history:
     filed as the record's own interpretive claim, is now carried by
     CLAIM-396, which names this entry in its grounds. Status and
     title are unchanged.
+- version: 5
+  date: '2026-10-23'
+  note: >-
+    `answers` moved from QUESTION-063 to its new child QUESTION-tmpasghi
+    under ADR-049, at the owner's request (exchange of 2026-10-23). The
+    child asks exactly what this entry settles, in the one bead system;
+    QUESTION-063 stays Open for the rest. The account is unchanged.
 tags:
 - information-theory
 - causality
@@ -41,7 +48,7 @@ date: '2026-10-14'
 source:
 - LIT-947
 answers:
-- QUESTION-063
+- QUESTION-tmpasghi
 summary: >-
   Das, Manikandan and Banerjee (2025), [LIT-947](../literature.d/LIT-947.md), read in [NOTE-788](../notes.d/NOTE-788.md).
   Two colloids are coupled by the fluid through a symmetric tensor, and
@@ -130,7 +137,9 @@ Das, Manikandan and Banerjee (2025), *Physical Review Applied* 24,
 
 ## Connections
 
-- **[QUESTION-063](../questions.d/QUESTION-063.md): answers in part.**
+- **[QUESTION-063](../questions.d/QUESTION-063.md): answers in part.** Since 2026-10-23 the part answered is
+  the child [QUESTION-tmpasghi](../questions.d/QUESTION-tmpasghi.md), which this entry answers in full; the
+  points below say what it leaves the parent.
   - The question asks what measurement tells which architecture produced
     a collective outcome. This account says what one family of
     measurements can and cannot see.

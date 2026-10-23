@@ -1,0 +1,46 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-23, "Framework Overview Request". No NOTE is filed.
+title: 'Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against arXiv on 2026-10-23:
+    arXiv:2101.03961, William Fedus, Barret Zoph and Noam Shazeer; v1
+    submitted 11 January 2021, which is `published:`; v3 of 16 June 2022
+    is the JMLR version (Journal of Machine Learning Research 23(120),
+    1–39, 2022; JMLR assigns no DOI). Not previously registered: a grep
+    for the arXiv id and the title found nothing. The summary follows
+    the arXiv abstract.
+tags:
+- learning-theory
+- anthology-candidate
+date: '2026-10-23'
+published: '2021-01-11'
+arxiv: '2101.03961'
+first_author: 'Fedus'
+keywords:
+- 'mixture of experts'
+- 'sparse routing'
+- 'Switch Transformer'
+- 'load balancing'
+- 'scaling'
+- 'T5'
+implementations: []
+summary: >-
+  Fedus, Zoph & Shazeer (2021; JMLR 2022). Simplifies mixture-of-experts routing to a single expert per token (the Switch Transformer), reducing communication and computation, with training techniques for its instabilities that allow large sparse models to be trained, for the first time, in bfloat16. Up to 7x pre-training speedups over T5-Base and T5-Large at equal compute, gains across 101 languages over mT5-Base, and trillion-parameter models with a 4x speedup over T5-XXL.
+---
+
+# LIT-tmpg44zc: Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity
+
+Fedus, W., Zoph, B. and Shazeer, N. (2022). Switch Transformers: Scaling to trillion parameter models with simple and efficient sparsity. *Journal of Machine Learning Research*, 23(120), 1–39. arXiv:2101.03961.
+
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The exchange cited it for [CASE-117](../cases.d/CASE-117.md) as the standard case of routing among experts with an explicit load-balancing term, the imposed alternative to diversity that emerges. The exchange gave no description to check. The auxiliary loss is standardly attributed to the paper; the abstract does not name it. It is ML practice and carries the anthology-candidate flag ([ADR-005](../decisions.d/ADR-005.md)).

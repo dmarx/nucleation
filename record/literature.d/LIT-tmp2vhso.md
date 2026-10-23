@@ -1,0 +1,44 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered from the owner's exchange of 2026-10-22, "Ben Franklin Effect Explained". No NOTE is filed.
+title: 'Peace through Trade or Free Trade?'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23:
+    Patrick J. McDonald, Journal of Conflict Resolution 48(4), 547–572.
+    Crossref gives published-online 1 August 2004 and print August 2004,
+    so `published:` is 2004-08-01; the day is very probably nominal. The
+    summary follows the abstract on Crossref.
+tags:
+- society-and-governance
+- social-science
+date: '2026-10-23'
+published: '2004-08-01'
+doi: '10.1177/0022002704266117'
+first_author: 'McDonald'
+keywords:
+- 'commercial peace'
+- 'free trade'
+- 'protectionism'
+- 'military conflict'
+- 'World War I'
+implementations: []
+summary: >-
+  McDonald (2004). Argues that free trade, not trade as such, promotes peace: removing protective barriers removes a foundation of domestic privilege that strengthens groups likely to support war, weakens free-trading interests that restrain aggression, and builds political support for the state's war machine. Statistical tests show that higher levels of free trade, rather than trade alone, reduce military conflict between states, and the argument recasts World War I as consistent with commercial liberalism.
+---
+<!-- inactive-ok-file: CLAIM-404 — Proposed, Open or Deferred; claims, questions and works cited as open or unread, nothing here rests on their being settled -->
+
+# LIT-tmp2vhso: Peace through Trade or Free Trade?
+
+McDonald, P. J. (2004). Peace through trade or free trade? *Journal of Conflict Resolution*, 48(4), 547–572. doi:10.1177/0022002704266117.
+
+Not read. The summary is drawn from the abstract or from what the work
+is standardly cited for. A reading should check it first.
+
+## Why this is here
+
+The exchange cited it, without describing it, in the trade-and-peace thread. The abstract moves the cause from the exchange to the domestic institutions around it, which is a caution for the favour analogy: the pacifying factor may be what openness does to who holds power at home. No disagreement. Bears on [CLAIM-404](../claims.d/CLAIM-404.md).

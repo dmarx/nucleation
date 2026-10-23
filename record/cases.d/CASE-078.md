@@ -4,7 +4,13 @@ status: Active
 formerly:
 - CASE-tmp7b477
 title: 'Who keeps placing on r/place: the proposed survival analysis of the released placement logs, testing whether participants return while their art survives and whether unaffiliated placement cools'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-23'
+  note: >-
+    Note of 2026-10-23 added: where the r/place literature the record
+    holds leaves this design. The proposal is unchanged.
 standing: stipulated
 kind: proposed-study
 tags:
@@ -114,3 +120,12 @@ artwork?
   analysis.
 
 Nothing has been run.
+
+## Note of 2026-10-23: still a reanalysis question
+
+A5 of the exchange of 2026-10-23, "Framework Overview Request" listed the r/place studies, which the record already holds
+([THEORY-214](../theory.d/THEORY-214.md), [THEORY-216](../theory.d/THEORY-216.md); [LIT-1025](../literature.d/LIT-1025.md)'s early warnings), and put this design's
+question apart from them: "whether losing a collective artifact makes its
+contributors less likely to continue participating, beyond selection
+effects and common event dynamics." A5: "primarily an **existing-data
+reanalysis problem**, not a simulation problem."
