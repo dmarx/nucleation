@@ -25,6 +25,8 @@ summary: >-
   prebiotic or metabolite trials that conflict across populations and
   durations. The authors say so. The framing is mutualist: no microbe
   "interest" in host eating is argued.
+reports:
+- CASE-047
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; the owner's claim this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading named as the bridge, untested -->

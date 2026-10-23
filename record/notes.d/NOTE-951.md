@@ -32,6 +32,8 @@ summary: >-
   with the same speller he had used before CLIS. Over days 106–462 he
   produced intelligible text on 44 of 107 days on which spelling was
   attempted, at about 1 character per minute.
+reports:
+- CASE-107
 ---
 
 # NOTE-951: Chaudhary et al. — intracortical spelling in a completely locked-in patient

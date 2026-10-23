@@ -32,6 +32,8 @@ summary: >-
   goal-directed thinking, while "passive sensory information processing is
   intact", and predict that a contingency learned before CLIS and carried
   into it should prevent extinction.
+reports:
+- CASE-107
 ---
 
 # NOTE-948: Kübler & Birbaumer — BCI and extinction of goal-directed thinking in CLIS

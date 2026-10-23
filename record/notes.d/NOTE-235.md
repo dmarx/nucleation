@@ -33,6 +33,8 @@ summary: >-
   model's QQ equality implies noncontextuality, so a quantum model here
   predicts its absence. The worked Rose–Jackson example mislabels two
   marginals; its conclusion stands.
+reports:
+- CASE-053
 ---
 
 <!-- inactive-ok-file: THEORY-013 — Proposed; this reading is its source and bears on it without settling its promote_when -->

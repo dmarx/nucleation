@@ -27,6 +27,8 @@ summary: >-
   subjective stress in healthy volunteers, and several clean nulls for
   strains with strong preclinical records. It documents its own
   translational failures and ends more optimistically than they warrant.
+reports:
+- CASE-047
 ---
 <!-- inactive-ok-file: CLAIM-166 — Proposed; the owner's claim this reading bears on, open -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the felt-affect reading named as the bridge, untested -->
