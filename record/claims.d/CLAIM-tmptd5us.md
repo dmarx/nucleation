@@ -28,6 +28,7 @@ complements:
 - CLAIM-355
 grounds:
 - THEORY-662
+- THEORY-882
 - LIT-tmpgh72l
 - LIT-tmpvgq87
 - LIT-tmpfjacn
@@ -44,6 +45,7 @@ summary: >-
   sufficiency condition, for affect only, and it adopts [THEORY-662](../theory.d/THEORY-662.md)'s sense
   of "felt": attended and available, not a further phenomenal fact.
 ---
+<!-- inactive-ok-file: THEORY-882 — Proposed; the beautiful-loop account, a rival on sufficiency, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmp5lpdu — Proposed; the reply filed with this batch, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpe0iew THEORY-tmp0bbxk — Proposed; the objection and reading filed with this batch, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-355 CLAIM-411 THEORY-662 THEORY-873 THEORY-090 QUESTION-059 QUESTION-048 QUESTION-tmp0oife — Proposed, Open or Deferred; the account this extends, the readings it is grounded in and the questions it bears on, cited as open -->
@@ -147,6 +149,25 @@ coherence has been reached" ([LIT-tmpjaacn](../literature.d/LIT-tmpjaacn.md), p.
   no further regulation uses. Grandjean et al. predict it is felt; this
   claim predicts it is not. Their data split felt from unfelt episodes by
   report, so they do not decide it.
+
+## A second rival: the beautiful loop
+
+Laukkonen, Friston and Chandaria
+(LIT-1363, NOTE-1063, THEORY-882) separate local "parametric depth", a
+second-order inference about one precision such as "policy precision",
+for which they cite Hesp et al., from epistemic depth, a system-wide
+recursive loop over all precisions. They hold that "even complex
+metacognition can potentially be unconscious or conscious depending on
+epistemic depth" (p. 20). This claim's condition, a deeper process that
+infers ascendancy and is used elsewhere, is parametric depth in their
+terms, and on their view it is not sufficient for awareness. Two
+readings follow. If "felt" keeps the thin sense adopted here, attended
+and available, their view is about something stronger and does not
+conflict. If "felt" is meant as awareness, their view predicts this
+claim's second defeater, and the claim would need strengthening: the
+model of ascendancy must be part of a global, recursive precision loop.
+Their proposal has no data and no simulation (NOTE-1063), so it decides
+nothing, but it names the distinction the claim must take a side on.
 
 ## Felt what?
 
