@@ -31,6 +31,8 @@ summary: >-
 supports:
 - CLAIM-030
 - CLAIM-422
+reports:
+- CASE-138
 ---
 <!-- inactive-ok-file: LIT-715 — Unavailable, unread; Vaughan's book, which the chapter applies -->
 <!-- inactive-ok-file: THEORY-144 — Proposed; Rasmussen, named for comparison -->

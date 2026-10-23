@@ -1,0 +1,3 @@
+### Changed
+
+- At the owner's direction, `reported_in` backfilled on existing CASEs under [ADR-051](record/decisions.d/ADR-051.md). Of the 146 cases reviewed, 18 gained the field, naming the LITs, NOTEs and THEORYs they were taken from; with the four filed under [ADR-051](record/decisions.d/ADR-051.md) itself, 22 cases now carry it. The converse `reports` was written on 50 LITs, NOTEs and THEORYs. About 26 documented cases stay without it, because the work they were taken from is not registered here, and a work named only in passing, or supplying no fact the case states, is not counted as its report.

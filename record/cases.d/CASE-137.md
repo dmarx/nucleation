@@ -31,6 +31,9 @@ summary: >-
   continuity and experienced ownership of one's past, which do not. Not
   shown by it: that the unity of his present experience is an illusion, or
   that his denials of past consciousness are evidence of its absence.
+reported_in:
+- LIT-1368
+- LIT-1369
 ---
 <!-- inactive-ok-file: LIT-1368 LIT-1369 — Deferred; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-355 CLAIM-417 THEORY-060 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->

@@ -31,6 +31,11 @@ summary: >-
   information and lacked the organization to make it govern. The reform
   changed the organization of authority, not its holder. Not shown: that
   CRM caused the later fall in accidents, which the case does not test.
+reported_in:
+- LIT-1371
+- LIT-1386
+- NOTE-1086
+- NOTE-1087
 ---
 <!-- inactive-ok-file: CLAIM-349 CLAIM-424 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

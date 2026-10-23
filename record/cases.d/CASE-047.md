@@ -25,6 +25,11 @@ summary: >-
   level that is itself a collective.
 supports:
 - CLAIM-166
+reported_in:
+- LIT-903
+- LIT-915
+- NOTE-703
+- NOTE-706
 ---
 <!-- inactive-ok-file: CLAIM-157 CLAIM-166 — Proposed; the threshold criterion and the owner's claim this case serves, open -->
 

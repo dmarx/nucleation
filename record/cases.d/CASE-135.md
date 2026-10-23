@@ -34,6 +34,9 @@ summary: >-
   mission, needing to be held at once, and a review that recommends change.
   Not shown: that the department's safety culture changed, or what the
   review's recommendations were, since the report was not read.
+reported_in:
+- LIT-1374
+- NOTE-1073
 ---
 <!-- inactive-ok-file: CLAIM-027 CLAIM-422 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

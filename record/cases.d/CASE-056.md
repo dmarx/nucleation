@@ -24,6 +24,8 @@ summary: >-
   act.
 supports:
 - CLAIM-061
+reported_in:
+- LIT-791
 ---
 <!-- inactive-ok-file: CLAIM-061 — Proposed; the claim this case supports, open -->
 <!-- inactive-ok-file: CLAIM-115 — Proposed; the manuscript's thesis, cited for the comparative test this case does not supply -->

@@ -17,6 +17,8 @@ summary: >-
   Fraenkel's analysis: ordinary legal norms kept governing large domains
   while a prerogative order held authority over whether they bound at all.
   Used for one structural point only.
+reported_in:
+- LIT-805
 ---
 <!-- inactive-ok-file: LIT-805 — Unavailable; set aside, and cited to say what was set aside with it -->
 

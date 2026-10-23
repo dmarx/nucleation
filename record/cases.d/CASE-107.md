@@ -26,6 +26,14 @@ summary: >-
   outcome.
 supports:
 - CLAIM-339
+reported_in:
+- LIT-1183
+- LIT-1193
+- LIT-1199
+- LIT-1200
+- NOTE-948
+- NOTE-951
+- NOTE-961
 ---
 
 # CASE-107: Locked-in syndrome: consciousness preserved with anarthria and quadriplegia; in the classic form, vertical eye movement and blinking remain and carry communication, and in the completely locked-in state no motor channel remains

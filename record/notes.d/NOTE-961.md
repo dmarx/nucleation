@@ -29,6 +29,8 @@ summary: >-
   vascular accident, a median of 8 years earlier; 55% had recovered some
   speech and 70% some limb movement, and answers were given with a proxy's
   help.
+reports:
+- CASE-107
 ---
 
 # NOTE-961: Bruno et al. — self-assessed well-being in chronic locked-in syndrome

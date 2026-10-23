@@ -34,6 +34,9 @@ summary: >-
   technically better, which the case is evidence against asking in
   general; and the historical particulars, which are the replies' summary
   of an unread source.
+reported_in:
+- LIT-1391
+- NOTE-1092
 ---
 <!-- inactive-ok-file: CLAIM-416 CLAIM-417 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

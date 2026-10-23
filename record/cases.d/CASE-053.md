@@ -27,6 +27,9 @@ summary: >-
 supports:
 - CLAIM-201
 - CLAIM-325
+reported_in:
+- LIT-264
+- NOTE-235
 ---
 <!-- inactive-ok-file: CLAIM-201 — Proposed; the narrowing this case is filed for, open, and cited as open -->
 <!-- inactive-ok-file: CLAIM-105 CLAIM-037 — Proposed; open, and cited as open: the claim is under test, not settled -->
