@@ -1,74 +1,87 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmpz7kvc:` heading.
+status: Unavailable
+status_note: >-
+  no lawful copy reached, 2026-10-23; failed on access. The article is in
+  copyright and closed (Unpaywall, OpenAlex and Semantic Scholar: closed,
+  no open location). APA PsycNET returned 403. Europe PMC and PubMed index
+  it (PMID 14450695) without full text. Internet Archive full-text search
+  found it only in two lending-library copies of Hare, Borgatta and
+  Bales's reader Small Groups (1965, 1966; access-restricted, needing a
+  borrowing account). ResearchGate and Northwestern University's archive
+  record of the manuscript returned 403. Web searches found secondary
+  accounts only. Registered from the owner's exchange "Framework Overview
+  Request" of 2026-10-23. No NOTE is filed.
 title: 'The perpetuation of an arbitrary tradition through several generations of a laboratory microculture'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed and searched the same day. Citation checked against Crossref on
+    2026-10-23: Robert C. Jacobs and Donald T. Campbell, The Journal of
+    Abnormal and Social Psychology 62(3), 649–658. Crossref gives the month
+    only (May 1961), so `published:` is 1961-05-01 and means May 1961
+    (ADR-002). Unavailable under ADR-041: a lawful full text was looked for
+    and not reached. Unpaywall (closed), OpenAlex (closed, no repository
+    full text), Semantic Scholar (openAccessPdf CLOSED), Europe PMC (not
+    open, no PDF), APA PsycNET (record 1962-04317-001, 403). Internet
+    Archive advanced search for "arbitrary tradition" and "microculture":
+    two items, smallgroupsstudi0000unse_k2a4 and
+    smallgroupsstudi0000unse_o6v3, Hare et al.'s Small Groups, both
+    access-restricted lending copies this client cannot borrow; whether
+    they reprint the article in full was not checked. ResearchGate
+    (publication 9137039) and Northwestern's finding aid for the 1961
+    manuscript (findingaids.library.northwestern.edu, archival object
+    473522): 403. Web searches turned up secondary descriptions only
+    (MacNeil and Sherif 1976, textbooks). It failed on access, not
+    availability: the owner could use library access or borrow the
+    reader. It returns to reading when a copy is supplied.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-science
+- social-ontology
+- individuation
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '1961-05-01'
+doi: '10.1037/h0044182'
+first_author: 'Jacobs'
+keywords:
+- 'autokinetic effect'
+- 'social norms'
+- 'cultural transmission'
+- 'generations'
+- 'laboratory microculture'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Jacobs and Campbell (1961). In Sherif's autokinetic task, confederates
+  gave exaggerated estimates of a stationary light's movement, and group
+  members were then replaced one at a time by naive participants. As
+  standardly reported, the exaggerated norm outlasted the confederates for
+  several generations and decayed gradually toward the level of control
+  groups. Unread: the summary is the study's standard description and has
+  not been checked against the paper.
 ---
+<!-- inactive-ok-file: QUESTION-118 CASE-101 CLAIM-329 — Open or Proposed; the question, proposed study and claim this work bears on, cited as open -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmpz7kvc: The perpetuation of an arbitrary tradition through several generations of a laboratory microculture
 
-# LIT-000: The paper title, exactly as published
+Jacobs, R. C., & Campbell, D. T. (1961). The perpetuation of an arbitrary tradition through several generations of a laboratory microculture. *The Journal of Abnormal and Social Psychology*, 62(3), 649–658. doi:10.1037/h0044182.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read: no lawful copy was reached on 2026-10-23 (see the status note).
+The summary is drawn from what the study is standardly cited for, and a
+reading should check it first, in particular the number of generations the
+norm survived and the rate of its decay.
 
-## Key takeaways
+## Why this is here
 
-- What it establishes, in claims rather than topics.
-
-## Standing in the record
-
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+The owner's exchange "Framework Overview Request" (2026-10-23) asked for
+external results that satisfy the explanatory aims of the record's
+proposed-study CASEs. As reported, this is the classic laboratory case of
+a collective whose members are all replaced while a norm is carried by
+transmission, with the original carriers gone. It bears on QUESTION-118
+(what must stay causally continuous when a collective replaces all its
+members), on arm B of the proposed study CASE-101 (a population that
+transmits its norms to its replacements), and on CLAIM-329 (persistence
+through turnover is causal transmission, not resemblance). Its control
+groups, which reach the unseeded level of judgement, are a natural
+comparison for an organization of the same kind arising independently.
+Because it is unread, no CASE or THEORY is filed from it.

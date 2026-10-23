@@ -1,14 +1,14 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-23 ([NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md)) from PubMed Central (PMC11266842), the
+  read in full 2026-10-23 (NOTE-tmp6hvjr) from PubMed Central (PMC11266842), the
   publisher's CC BY text, with Figure 2 and the supplementary Document S1;
   worth reading as the cleanest human instance the record holds of shared
   drive and coupling manipulated separately in one collective: in 35 dyads
   dancing face to face, shared music and visual contact each raised
   synchrony, in different movement components and with no interaction, and
   the timing of the synchrony could not tell the two kinds apart while its
-  spatial direction could ([THEORY-tmpcd7cz](../theory.d/THEORY-tmpcd7cz.md)). Direction of coupling between
+  spatial direction could (THEORY-tmpcd7cz). Direction of coupling between
   the partners was not measured.
 title: 'The geometry of interpersonal synchrony in human dance'
 version: 1
@@ -66,11 +66,11 @@ summary: >-
 
 Bigand, F., Bianco, R., Abalde, S. F., & Novembre, G. (2024). The geometry of interpersonal synchrony in human dance. *Current Biology*, 34(13), 3011–3019.e4. doi:10.1016/j.cub.2024.05.055. Open access, PMC11266842.
 
-Read in full ([NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md)), with Figure 2 and the supplementary figures and tables.
+Read in full (NOTE-tmp6hvjr), with Figure 2 and the supplementary figures and tables.
 
 ## Key takeaways
 
-*From the reading, [NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md).*
+*From the reading, NOTE-tmp6hvjr.*
 
 - **Drive and coupling manipulated apart.** "We orthogonally manipulated
   musical input (whether participants were dancing to the same,
@@ -90,14 +90,14 @@ Read in full ([NOTE-tmp6hvjr](../notes.d/NOTE-tmp6hvjr.md)), with Figure 2 and t
 
 The owner's exchange "Framework Overview Request" (2026-10-23) asked for
 external results that satisfy the explanatory aims of the record's
-proposed-study CASEs. This study bears on [QUESTION-063](../questions.d/QUESTION-063.md), what measurement
+proposed-study CASEs. This study bears on QUESTION-063, what measurement
 tells a shared external drive from coupling among members, and on the
-proposed study of the dancing couple, [CASE-045](../cases.d/CASE-045.md). It runs the
-intervention [QUESTION-063](../questions.d/QUESTION-063.md) asks for in a human collective (displace the
+proposed study of the dancing couple, CASE-045. It runs the
+intervention QUESTION-063 asks for in a human collective (displace the
 shared drive, cut the coupling channel, each independently) and finds
 that a timing measure alone cannot see the difference. Filed as
-[CASE-tmpg5qs0](../cases.d/CASE-tmpg5qs0.md), stated by [THEORY-tmpcd7cz](../theory.d/THEORY-tmpcd7cz.md).
+CASE-tmpg5qs0, stated by THEORY-tmpcd7cz.
 
-It is not [CASE-045](../cases.d/CASE-045.md)'s study: the dancers were untrained, stood 2.5 m apart
+It is not CASE-045's study: the dancers were untrained, stood 2.5 m apart
 without touching, danced freely rather than a led partner dance, and the
 analysis estimates no direction of coupling.
