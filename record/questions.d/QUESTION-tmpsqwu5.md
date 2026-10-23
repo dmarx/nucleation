@@ -68,6 +68,24 @@ synchronization of response components (LIT-tmpfjacn, NOTE-tmpsx1uk) and
 Lewis's predicted theta phase synchrony (LIT-tmpj284p, NOTE-tmpz7wab) are
 correlates that ascendancy would produce. Neither is signed, neither says
 which ranking is winning, and neither is given as a measure per episode.
+The componential measurement literature since does not close the gap.
+Mohammadi and Vuilleumier (LIT-tmp7rygg), Meuleman and Rudrauf
+(LIT-tmp5ejuc) and Meuleman et al. (LIT-tmppjo0s) measure
+multi-componentiality as structure across a sample of ratings, not as
+coordination within an episode. Sander, Grandjean and Scherer
+(LIT-tmpzf3da, NOTE-tmphslle) say what synchronization should be in the
+brain and call outlining it "a major challenge" (p. 228); they also keep
+control precedence, "some action tendencies with control precedence take
+priority over other potential action tendencies" (p. 223), apart from
+synchronization, as this question does. The nearest to a per-episode
+measure is Mohammadi, Van De Ville and Vuilleumier's latent processes
+(LIT-tmp9qnrb, NOTE-tmpocnqb), defined for each 12-second event, but
+their scores rest on reported tendencies and are bipolar, so they cannot
+show "continue" and "stop" both high, the ambivalent case this question
+must separate from neutrality. Meuleman and Rudrauf's virtual-reality
+paradigm, whose headset tracking the paper does not use, is the kind of
+setting in which a conflict record of enacted tendencies could be
+kept.
 
 The second half of the question is the eraser. Priority, persistence and
 resumption are dispositional. If ascendancy is read from conflicts

@@ -1,0 +1,102 @@
+---
+status: Active
+status_note: 'read 2026-10-23 (NOTE-tmphslle): in full, from the published version deposited in the Archive ouverte UNIGE (unige:109591). Worth reading as the Geneva group''s programme statement for taking the component process model into the brain. It splits the emotional brain into five functionally defined networks (elicitation, expression, autonomic reaction, action tendency, feeling). It proposes that component synchronization is neuronal phase or cross-frequency synchronization, within and between components, and repeats Scherer''s hypothesis that feeling arises when the degree of synchronization passes a threshold. It names control precedence as priority among action tendencies. It gives no measure of synchronization and reports no data of its own.'
+title: 'An Appraisal-Driven Componential Approach to the Emotional Brain'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: the publisher's PDF of the published version, deposited
+    in the Archive ouverte UNIGE (unige:109591) "in accordance with the
+    publisher’s policy", pp. 219–231 with Table 1 and the captions of
+    Figures 1–2. The figures themselves were seen only as captions.
+    Details checked against Crossref (DOI 10.1177/1754073918765653): David
+    Sander, Didier Grandjean, Klaus R. Scherer, Emotion Review
+    10(3):219–231, July 2018. `published:` is the first of the issue
+    month, Crossref giving no day. Not checked against the Anthology of
+    the SOTA. Quotations checked by script against the extracted text.
+tags:
+- emotion-and-affect
+- neuroscience
+- cognition
+date: '2026-10-23'
+published: '2018-07-01'
+doi: '10.1177/1754073918765653'
+url: 'https://archive-ouverte.unige.ch/unige:109591'
+first_author: 'Sander'
+keywords:
+- 'component process model'
+- 'appraisal'
+- 'affective neuroscience'
+- 'component synchronization'
+- 'neuronal synchronization'
+- 'control precedence'
+- 'emotion networks'
+implementations: []
+summary: >-
+  Sander, Grandjean & Scherer (2018), Emotion Review 10:219–231. A
+  perspective article. Major emotion theories agree that emotion has five
+  components, so the emotional brain should be studied as five
+  functionally defined networks: elicitation (appraisal), expression,
+  autonomic reaction, action tendency and feeling. Appraisal drives the
+  changes and the synchronization in the other four. Synchronization is
+  proposed to be neuronal phase or cross-frequency coupling within and
+  between components, and feeling to emerge when it passes a threshold.
+  No measure is given and no data are reported.
+---
+<!-- inactive-ok-file: THEORY-055 TERM-tmp8gbrt — Proposed; the account of control precedence and the proposal this reading bears on -->
+<!-- inactive-ok-file: NOTE-tmphslle LIT-tmp9qnrb — drafts filed in the same tranche -->
+
+# LIT-tmpzf3da: An Appraisal-Driven Componential Approach to the Emotional Brain
+
+David Sander, Didier Grandjean & Klaus R. Scherer (2018), *Emotion Review*
+10(3):219–231 — DOI-10.1177/1754073918765653
+
+## Key takeaways
+
+- **Five components, five networks** (pp. 221–222). The major families of
+  emotion theory agree that emotion has five components: elicitation,
+  expression, autonomic reaction, action tendency and feeling. The
+  emotional brain is proposed to consist of five networks defined by those
+  functions, "the precise underlying neural mechanisms of which remain to
+  be elucidated" (p. 222).
+- **Synchronization as neuronal coupling** (p. 222). "A key aspect of the
+  componential perspective is the notion of synchronization or pattern
+  organization across the five components, resulting in an emergent
+  feeling." The pattern "may rely on neuronal synchronization", within
+  components and between them, after Fries's communication through
+  coherence: phase synchrony in a band, or cross-frequency coupling.
+- **Control precedence among action tendencies** (p. 223). "During an
+  emotional episode, some action tendencies with control precedence take
+  priority over other potential action tendencies (Frijda, 1986;
+  Scarantino, 2018)."
+- **Feeling past a threshold of synchronization** (p. 225). "Scherer
+  (2009b, pp. 1318–1321) has suggested that feeling is dependent on the
+  processes’ degree of synchronization in the other components surpassing
+  a certain threshold (see Dan Glauser & Scherer, 2008)."
+- **Appraisal as driver** (pp. 225–227, Figure 2). Appraisal is causal in
+  elicitation, constitutive of the emotion, and "determines the response
+  profiles of changes and synchronization in the other components"
+  (p. 227). The EEG evidence for sequential checks is summarized
+  (Grandjean & Scherer 2008 and successors).
+- **A programme, not a result** (p. 228). "Consequently, brain data are
+  still missing for these networks that are mainly functionally defined so
+  far. It is a major challenge to outline the cerebral architecture of
+  these networks, and how they interact and synchronize."
+
+## Standing in the record
+
+Filed on 2026-10-23 for the record's question of how to measure which
+ordering is ascendant in a system's negotiation (QUESTION-tmpsqwu5). It
+was checked for a per-episode measure of component synchronization and
+gives none: it says what synchronization is hoped to be in the brain,
+and that measuring it is the challenge. Its one line on control
+precedence is the nearest the CPM literature comes to the record's
+ascendancy (TERM-tmp8gbrt, read through THEORY-055), and it is stated,
+not measured. Set out in NOTE-tmphslle. The Mohammadi, Van De
+Ville and Vuilleumier study (LIT-tmp9qnrb) is the group's
+attempt at the networks it calls for.
+
+It is a perspective on affective neuroscience, not an instruction for
+machine-learning practice.
