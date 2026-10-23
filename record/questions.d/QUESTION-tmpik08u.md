@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but has nothing in it that registers the costs its conduct imposes on others, beyond what its procedures, members, regulators and markets supply?'
+title: 'Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but in which the costs its conduct imposes on others have no authority over what it does beyond what its procedures, members, regulators and markets give them?'
 version: 1
 tags:
 - ethics
@@ -20,7 +20,7 @@ summary: >-
   the thesis survives.
 ---
 
-# QUESTION-tmpik08u: Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but has nothing in it that registers the costs its conduct imposes on others, beyond what its procedures, members, regulators and markets supply?
+# QUESTION-tmpik08u: Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but in which the costs its conduct imposes on others have no authority over what it does beyond what its procedures, members, regulators and markets give them?
 
 ## Why it is a question
 
@@ -59,8 +59,7 @@ harms need its members' traits at all.
 
 A claim that says, of the clinical construct's features (Hare's
 interpersonal and affective factor against its lifestyle and antisocial
-factor), which can be said of a corporation and in what sense. It should
-say whether the absence it names is a deficit or a design. It should say
+factor), which can be said of a corporation and in what sense. It should say whether the absence it names is a deficit or a design. It should say
 what does the work in a corporation that a moral sense does in a person,
 and tested on a documented case, it should separate the corporation's
 contribution from its members'.

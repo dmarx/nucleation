@@ -54,8 +54,8 @@ need not be a description of an agent's character.
 
 A use of the clinical construct that the structural description cannot
 do without. One candidate: that the construct's features predict which
-corporate conduct follows (for instance that a structure without the
-registration will exploit trust, as a person with the trait does), and
+corporate conduct follows (for instance that a structure without that
+ authority will exploit trust, as a person with the trait does), and
 the bare structural description does not. If a documented case showed
 that, the label would be doing work. A second: that the label's
 connotation of blame is apt, because a corporation fit to be held
