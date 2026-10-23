@@ -22,7 +22,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli CLAIM-tmp85p0g QUESTION-tmpsqwu5 THEORY-tmpj4ciq — Proposed, Open or draft; the term, claims and question this result bears on, and the ordinal result filed with it -->
 
-# THEORY-tmp4zhyp: The Hodge decomposition of pairwise rankings and of finite games
+# THEORY-tmp4zhyp: A flow of pairwise comparisons on a graph splits orthogonally and uniquely into a gradient part, the l2-best global ranking, and a cyclic part, which splits into curl (local) and harmonic (global) inconsistency; a finite game's flow of unilateral payoff differences has no curl part, so every finite game is uniquely a potential game plus a harmonic game plus a nonstrategic remainder, and potential games are exactly those with no harmonic part; the decomposition is cardinal
 
 ## Source
 
