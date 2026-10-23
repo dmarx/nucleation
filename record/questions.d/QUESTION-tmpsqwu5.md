@@ -42,6 +42,12 @@ Three candidate measures are in reach.
   threshold of CLAIM-330, one direction grows and mixes meaning with
   authority: an ordering coming to dominate, in the model's own terms.
 
+Two measures from emotion research are near but not the thing. Scherer's
+synchronization of response components (LIT-tmpfjacn, NOTE-tmpsx1uk) and
+Lewis's predicted theta phase synchrony (LIT-tmpj284p, NOTE-tmpz7wab) are
+correlates that dominance would produce. Neither is signed, neither says
+which ranking is winning, and neither is given as a measure per episode.
+
 The second half of the question is the eraser. Priority, persistence and
 resumption are dispositional. If dominance is read from conflicts
 actually won over an interval, a clamp that never acts cannot change it;

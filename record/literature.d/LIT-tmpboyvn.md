@@ -1,0 +1,79 @@
+---
+status: Unavailable
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not reach it. The University of Geneva''s Archive ouverte holds the published version (unige:97810), with access restricted to members of the UNIGE/HUG community. The Taylor & Francis article is paywalled. The Geneva E3 Lab''s publications page posts many of the group''s 2009 papers but not this one, and a web search found no other author or course posting. Its argument is read first-hand in Scherer''s companion paper of the same year, "Emotions are emergent processes: they require a dynamic computational architecture" (LIT-tmpfjacn), which restates the component process model and cites this paper, then in press, for the evidence. Filed because the record''s proposal needs a measurable analogue of dominance, and this is the review usually cited for response synchronization. It stays Unavailable until a copy is supplied, not on merit.'
+title: 'The dynamic architecture of emotion: Evidence for the component process model'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.1080/02699930902928969): Klaus R. Scherer, Cognition and Emotion
+    23(7):1307–1351, published online 29 September 2009, in the November
+    2009 issue. `published:` is the online date. The abstract was read on
+    the Archive ouverte UNIGE record, and the quotations are from it,
+    checked by script. Unpaywall was not queried, since it asks for an
+    email address.
+tags:
+- emotion-and-affect
+- cognition
+- complex-systems
+date: '2026-10-23'
+published: '2009-09-29'
+doi: '10.1080/02699930902928969'
+url: 'https://archive-ouverte.unige.ch/unige:97810'
+first_author: 'Scherer'
+keywords:
+- 'component process model'
+- 'appraisal'
+- 'stimulus evaluation checks'
+- 'response synchronization'
+- 'emotion components'
+implementations: []
+summary: >-
+  Scherer (2009), Cognition and Emotion 23(7):1307–1351. The component
+  process model's evidence review. Emotion is "an emergent, dynamic
+  process based on an individual's subjective appraisal of significant
+  events", and the paper gives special emphasis to the sequence of
+  appraisal checks and the synchronisation of response systems. Unread:
+  the model is read in the companion paper LIT-tmpfjacn.
+extended_by:
+- LIT-tmpfjacn
+---
+<!-- inactive-ok-file: CLAIM-tmpz8lli TERM-tmp8gbrt QUESTION-tmpsqwu5 — Proposed or Open; the proposal and the question this paper's measures would bear on -->
+
+# LIT-tmpboyvn: The dynamic architecture of emotion: Evidence for the component process model
+
+Klaus R. Scherer (2009), *Cognition and Emotion* 23(7):1307–1351 —
+DOI-10.1080/02699930902928969
+
+## Key takeaways
+
+*Registered, not read.* From the abstract:
+
+- "Emotion is conceptualised as an emergent, dynamic process based on an
+  individual's subjective appraisal of significant events."
+- The component process model is sketched and compared with its rivals,
+  and recent evidence for it is reviewed. "Special emphasis is given to
+  the dynamic aspect of emotion processes, in particular the sequence of
+  appraisal checks and the synchronisation of response systems, as well
+  as the capacity of the model to predict individual differences in
+  emotional responding."
+
+The model itself, its four appraisal objectives, its sequential
+stimulus evaluation checks, the feeling component as monitor, and
+emotion as component synchronization, is read in the companion paper
+(LIT-tmpfjacn, NOTE-tmpsx1uk).
+
+## Standing in the record
+
+Filed on 2026-10-23 for the record's proposal that hedonic valence is
+dominance by one ordering (CLAIM-tmpz8lli, TERM-tmp8gbrt). What this paper
+would add over its companion is the empirical side: whatever measures of
+response synchronization the evidence review uses. That is what
+QUESTION-tmpsqwu5 needs. The companion gives none. It says that "all we
+can currently measure is the individual's verbal account of a
+consciously experienced feeling".
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

@@ -29,6 +29,7 @@ complements:
 grounds:
 - THEORY-662
 - LIT-tmpvgq87
+- LIT-tmpfjacn
 - THEORY-873
 answers:
 - QUESTION-059
@@ -75,6 +76,21 @@ of each policy entailed by one's current action model" (p. 408): in this
 record's terms, γ is a dominance strength, and the deeper level models
 it. They add that "this type of explicit valence representation is also a
 necessary condition for self-reportable experience of valence" (p. 429).
+
+**A precedent and a warning in Scherer.** The component process model
+gives feeling "a special status … as it monitors and regulates the
+component process", and requires it to "centrally represent all
+information about the continuous patterns of change and their coherence
+in all other components" (LIT-tmpfjacn, NOTE-tmpsx1uk, §3e). That is a
+model of the system's own regime, as this claim requires, though of the
+components' coherence rather than of which ordering wins. Scherer makes a
+second, separate claim, that "it is the degree of synchronization of the
+components … that will generate conscious experience", which is nearer
+Veit's identity than to a self-model view, and he places the monitoring
+representation only partly inside consciousness. So the model alone may
+not suffice for feeling, which is the gap QUESTION-059 marks. He also
+concedes that "all we can currently measure is the individual's verbal
+account", the limit QUESTION-tmp0oife is meant to get past.
 
 **What it would answer.** CLAIM-411 asks which further organizational
 properties make an interpretation experiential, under the owner's

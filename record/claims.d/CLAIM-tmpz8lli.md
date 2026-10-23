@@ -34,6 +34,8 @@ complements:
 - CLAIM-432
 grounds:
 - THEORY-055
+- LIT-tmpj284p
+- LIT-tmpfjacn
 - LIT-tmpdmzgc
 - LIT-tmp4b7d6
 - THEORY-056
@@ -97,6 +99,18 @@ ordering need not be a currency (CLAIM-tmp85p0g).
 The ordering ranks the system's own states by their bearing on its
 maintenance, and it dominates: it wins the negotiation's conflicts,
 persists, and resumes after interruption (TERM-tmp8gbrt).
+
+**What is not new here.** The dynamics of dominance are Lewis's (LIT-tmpj284p,
+NOTE-tmpz7wab): an emotional interpretation must "take over" the system,
+entrained elements "lose their independence and become embedded in a
+larger regime", and of competing attractors "only one of these converges
+at a time" (pp. 174–176). Scherer's definition of emotion already holds
+CLAIM-283's distinction: "claiming (not always successfully) priority"
+(LIT-tmpfjacn, NOTE-tmpsx1uk, §1). What this claim adds is that what
+dominates is an ordering, which makes the currency question askable
+(CLAIM-tmp85p0g), and an ordering of a particular kind, which is what
+makes the regime valence. Neither Lewis nor Scherer gives the regime a
+sign.
 
 ## What follows
 
