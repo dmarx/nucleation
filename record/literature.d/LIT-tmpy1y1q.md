@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. Cambridge Core, the journal''s host, offers it behind "Get access"; Unpaywall and OpenAlex report no open copy (OpenAlex''s RePEc and DigitalGeorgetown entries are catalogue records, not texts); ResearchGate lists no full text; PhilPapers and PhilArchive refused this client behind a Cloudflare check; an academia.edu page under the title refused automated requests, and its uploader could not be seen, so it was not treated as an author copy. Only the publisher''s abstract was read. Filed with the 1983 paper (LIT-tmp7dpgf) as the developed form of the classic objection to corporate moral responsibility, for the owner''s corporate-psychopathy question. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. Cambridge Core, the journal''s host, offers it behind "Get access"; Unpaywall and OpenAlex report no open copy (OpenAlex''s RePEc and DigitalGeorgetown entries are catalogue records, not texts); ResearchGate lists no full text; PhilPapers and PhilArchive refused this client behind a Cloudflare check; an academia.edu page under the title refused automated requests, and its uploader could not be seen, so it was not treated as an author copy. Only the publisher''s abstract was read. Filed with the 1983 paper ([LIT-tmp7dpgf](LIT-tmp7dpgf.md)) as the developed form of the classic objection to corporate moral responsibility, for the owner''s corporate-psychopathy question. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Debunking Corporate Moral Responsibility'
 version: 1
 history:
@@ -63,7 +63,7 @@ DOI-10.5840/beq200313436
 ## Standing in the record
 
 Filed on 2026-10-23 at the owner's request, as the developed form of the
-1983 objection (LIT-tmp7dpgf). Its second thesis bears directly on the
+1983 objection ([LIT-tmp7dpgf](LIT-tmp7dpgf.md)). Its second thesis bears directly on the
 corporate-psychopathy thesis: if a corporation's intentions are only "as
 if", so would be any callousness or lack of remorse ascribed to it. The
-accounts it opposes are THEORY-131 (French) and THEORY-139 (Pettit).
+accounts it opposes are [THEORY-131](../theory.d/THEORY-131.md) (French) and [THEORY-139](../theory.d/THEORY-139.md) (Pettit).

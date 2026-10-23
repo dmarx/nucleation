@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. The publisher (Philosophy Documentation Center) sells the article; Unpaywall and OpenAlex report no open copy; the PhilArchive record (dc2.philarchive.org/rec/VELWCA), and philarchive.org and philpapers.org with it, refused this client behind a Cloudflare check, so whether PhilArchive holds a copy is unknown; web searches for an author-posted or course-page copy found none. Filed because the owner is filing the thesis that a corporation is a psychopathic entity, and this is the classic objection to the corporate responsibility that thesis presupposes and that French (LIT-727) and Pettit (LIT-718) defend. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. The publisher (Philosophy Documentation Center) sells the article; Unpaywall and OpenAlex report no open copy; the PhilArchive record (dc2.philarchive.org/rec/VELWCA), and philarchive.org and philpapers.org with it, refused this client behind a Cloudflare check, so whether PhilArchive holds a copy is unknown; web searches for an author-posted or course-page copy found none. Filed because the owner is filing the thesis that a corporation is a psychopathic entity, and this is the classic objection to the corporate responsibility that thesis presupposes and that French ([LIT-727](LIT-727.md)) and Pettit ([LIT-718](LIT-718.md)) defend. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Why Corporations Are Not Morally Responsible for Anything They Do'
 version: 1
 history:
@@ -57,10 +57,10 @@ nor a body of its own; corporate acts originate in, and are carried out by,
 its members. So the corporation, as distinct from its members, is not
 morally responsible, and blaming it would fall on members who may be
 innocent. It is cited as the standing objection to French's corporate
-moral personhood (LIT-727), and it is an objection Pettit's "conversable,
-responsible corporation" (LIT-718) has to answer. Velasquez returned to the
+moral personhood ([LIT-727](LIT-727.md)), and it is an objection Pettit's "conversable,
+responsible corporation" ([LIT-718](LIT-718.md)) has to answer. Velasquez returned to the
 case twenty years later in "Debunking Corporate Moral Responsibility"
-(LIT-tmpy1y1q).
+([LIT-tmpy1y1q](LIT-tmpy1y1q.md)).
 
 ## Standing in the record
 
@@ -69,5 +69,5 @@ Filed on 2026-10-23 at the owner's request, for the question whether
 corporation is not the kind of thing that could be responsible, so the
 psychopathy label would have to be a description of how its members act
 through it, not a diagnosis of the corporation. The accounts it opposes are
-THEORY-131 (French) and
-THEORY-139 (Pettit).
+[THEORY-131](../theory.d/THEORY-131.md) (French) and
+[THEORY-139](../theory.d/THEORY-139.md) (Pettit).

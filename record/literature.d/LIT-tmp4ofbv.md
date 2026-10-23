@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not fetch it, so this failed on access, not availability. A full-text PDF is linked from the author''s ResearchGate profile (publication 280798957, under profile/Robert-Hare-2), apparently his own upload, but ResearchGate answered every request with HTTP 403, so neither the file nor its uploader could be confirmed. Unpaywall and OpenAlex report no open copy, the journal (SAGE) is closed, and the author''s own site, hare.org, lists the paper with a DOI link and no PDF. The construct it presents is read first-hand in Hare and Neumann''s 2008 review (LIT-tmp57loc), which gives the PCL-R items, their four factors and their two-factor grouping. It stays Unavailable until a copy is supplied or ResearchGate can be reached, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not fetch it, so this failed on access, not availability. A full-text PDF is linked from the author''s ResearchGate profile (publication 280798957, under profile/Robert-Hare-2), apparently his own upload, but ResearchGate answered every request with HTTP 403, so neither the file nor its uploader could be confirmed. Unpaywall and OpenAlex report no open copy, the journal (SAGE) is closed, and the author''s own site, hare.org, lists the paper with a DOI link and no PDF. The construct it presents is read first-hand in Hare and Neumann''s 2008 review ([LIT-tmp57loc](LIT-tmp57loc.md)), which gives the PCL-R items, their four factors and their two-factor grouping. It stays Unavailable until a copy is supplied or ResearchGate can be reached, not on merit.'
 title: 'Psychopathy: A Clinical Construct Whose Time Has Come'
 version: 1
 history:
@@ -54,12 +54,12 @@ produced a sharp increase in replicable findings, and the construct is
 proving particularly useful in the criminal justice system, in sentencing,
 placement, and the assessment of the risk of recidivism and violence. The
 item set and factor structure of the PCL-R are read first-hand in Hare and
-Neumann's 2008 review (LIT-tmp57loc).
+Neumann's 2008 review ([LIT-tmp57loc](LIT-tmp57loc.md)).
 
 ## Standing in the record
 
 Filed on 2026-10-23 at the owner's request, because Bakan's *The
 Corporation* (2004) applied Hare's checklist to the corporation, and the
 record needed the construct being borrowed. It sits beside the record's
-accounts of corporate agency and responsibility, THEORY-131 (French) and
-THEORY-139 (Pettit).
+accounts of corporate agency and responsibility, [THEORY-131](../theory.d/THEORY-131.md) (French) and
+[THEORY-139](../theory.d/THEORY-139.md) (Pettit).

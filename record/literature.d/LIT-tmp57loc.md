@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmp1fxmh): in full, from the copy Hare posts on his own site. Worth reading as the authors'' own statement of what the construct is, made while defending it against the charge that the PCL-R has "drifted" from Cleckley. The PCL-R''s 20 items fall, 18 of them, into four correlated factors: Interpersonal and Affective (together Factor 1) and Lifestyle and Antisocial (together Factor 2). A single superordinate factor explains them, and the authors hold that no component, the affective one included, is more essential than the others. That is the sharpest constraint the record has on borrowing only the affective features of psychopathy for a corporation. Hare receives royalties from the PCL-R.'
+status_note: 'read 2026-10-23 ([NOTE-tmp1fxmh](../notes.d/NOTE-tmp1fxmh.md)): in full, from the copy Hare posts on his own site. Worth reading as the authors'' own statement of what the construct is, made while defending it against the charge that the PCL-R has "drifted" from Cleckley. The PCL-R''s 20 items fall, 18 of them, into four correlated factors: Interpersonal and Affective (together Factor 1) and Lifestyle and Antisocial (together Factor 2). A single superordinate factor explains them, and the authors hold that no component, the affective one included, is more essential than the others. That is the sharpest constraint the record has on borrowing only the affective features of psychopathy for a corporation. Hare receives royalties from the PCL-R.'
 title: 'Psychopathy as a Clinical and Empirical Construct'
 version: 1
 history:
@@ -99,4 +99,4 @@ to the corporation. The record will ask which features could transfer to a
 corporation. This paper sorts them into interpersonal, affective,
 lifestyle and antisocial, but also argues that the construct is their
 covariation, not any one of them. The record's accounts of corporate
-agency and responsibility are THEORY-131 (French) and THEORY-139 (Pettit).
+agency and responsibility are [THEORY-131](../theory.d/THEORY-131.md) (French) and [THEORY-139](../theory.d/THEORY-139.md) (Pettit).

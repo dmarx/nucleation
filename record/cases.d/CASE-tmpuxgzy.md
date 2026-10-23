@@ -11,7 +11,7 @@ tags:
 date: '2026-10-23'
 summary: >-
   The Wells Fargo sales-practices episode, as reported by the bank's
-  independent directors (2017; LIT-tmp24jzb, read in NOTE-tmpzfehu).
+  independent directors (2017; [LIT-tmp24jzb](../literature.d/LIT-tmp24jzb.md), read in [NOTE-tmpzfehu](../notes.d/NOTE-tmpzfehu.md)).
   The report finds the root cause in the Community Bank's sales culture
   and performance management, sustained by a decentralized structure that
   deferred to the business line. It finds that leadership blamed
@@ -31,8 +31,8 @@ reported_in:
 ## The case
 
 From the Sales Practices Investigation Report of the Independent Directors
-of the Board of Wells Fargo & Company, April 10, 2017 (LIT-tmp24jzb, read in
-full in NOTE-tmpzfehu). Page numbers are the report's.
+of the Board of Wells Fargo & Company, April 10, 2017 ([LIT-tmp24jzb](../literature.d/LIT-tmp24jzb.md), read in
+full in [NOTE-tmpzfehu](../notes.d/NOTE-tmpzfehu.md)). Page numbers are the report's.
 
 - **What happened.** Community Bank employees sold customers unneeded
   products, opened accounts without consent, moved customers' money to
@@ -112,7 +112,7 @@ most 0.04 in any quarter (p. 43, n. 19).
 
 ## Signals of harm and who could act on them
 
-This bears on CLAIM-349: access to a signal, the signal's authority over
+This bears on [CLAIM-349](../claims.d/CLAIM-349.md): access to a signal, the signal's authority over
 action, and action on it are separable. Here the organization had access
 again and again. What was missing was a route to someone with authority,
 and that person's willingness to act.
@@ -161,7 +161,7 @@ harm to structure, incentives and the culture that kept them, rather than
 to the character of the employees who did the harm. That is the shape the
 record's reading of the "psychopathic corporation" thesis predicts. On
 that reading a corporation can be an agent fit to be held responsible
-(THEORY-131, THEORY-139), with structure and incentives fixing what it
+([THEORY-131](../theory.d/THEORY-131.md), [THEORY-139](../theory.d/THEORY-139.md)), with structure and incentives fixing what it
 pursues. The remedies the report lists are structural too: abolish the
 goals, change the pay, centralize risk and HR, add board reporting lines
 (pp. 17–18, 51–52).

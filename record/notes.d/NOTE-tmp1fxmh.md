@@ -142,7 +142,7 @@ Answers Patrick (2006), Salekin (2002) and Cooke and colleagues (2001,
 2005) on construct drift and on the place of antisociality. Builds on
 Cleckley's *The Mask of Sanity* (1941/1976), on Hare's earlier PCL (1980)
 and on the authors' four-factor modeling. The earlier programmatic
-statement is Hare (1996, LIT-tmp4ofbv), which this record has not read.
+statement is Hare (1996, [LIT-tmp4ofbv](../literature.d/LIT-tmp4ofbv.md)), which this record has not read.
 
 ## Bearing on the record
 
@@ -184,10 +184,10 @@ in five ways.
    normal emotions" (p. 228, quoting Cleckley 1976, p. 239). For the
    corporation the question is whether the affective items describe a
    deficit or a capacity that was never there. That is where Velasquez's
-   objection (LIT-tmp7dpgf, LIT-tmpy1y1q, unread) bites: if corporate
+   objection ([LIT-tmp7dpgf](../literature.d/LIT-tmp7dpgf.md), [LIT-tmpy1y1q](../literature.d/LIT-tmpy1y1q.md), unread) bites: if corporate
    intentions are only "as if", so are corporate remorse and callousness.
    The record's accounts of corporate agency and responsibility,
-   THEORY-131 (French) and THEORY-139 (Pettit), ascribe intentions and
+   [THEORY-131](../theory.d/THEORY-131.md) (French) and [THEORY-139](../theory.d/THEORY-139.md) (Pettit), ascribe intentions and
    normative judgment to a corporation, not affect.
 5. **A matter of degree.** On this construct "psychopathic" names a high
    position on a continuum (p. 234), not a kind. A corporate version of the
