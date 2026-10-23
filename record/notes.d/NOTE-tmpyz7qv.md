@@ -79,10 +79,10 @@ and arousal.
 
 ## Connections
 
-Cites Meuleman and Rudrauf (LIT-tmp5ejuc) as the only prior
+Cites Meuleman and Rudrauf ([LIT-tmp5ejuc](../literature.d/LIT-tmp5ejuc.md)) as the only prior
 study of the same kind, and contrasts its active induction with this
 study's passive one. Its film set and items were reused in the fMRI
-study of the same group (LIT-tmp9qnrb, NOTE-tmpocnqb).
+study of the same group ([LIT-tmp9qnrb](../literature.d/LIT-tmp9qnrb.md), [NOTE-tmpocnqb](NOTE-tmpocnqb.md)).
 
 ## Bearing on the record
 
@@ -102,13 +102,13 @@ principal component is action tendency and its second pleasant versus
 unpleasant feeling. But nothing says which tendency won a conflict.
 Items such as "want the situation to continue" and "feel the urge to
 stop what was happening" are rated separately and could both be high,
-which is the ambivalent case QUESTION-tmpsqwu5 needs separated from
+which is the ambivalent case [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) needs separated from
 neutrality. The paper does not look at such co-occurrences.
 
-**Anything for QUESTION-tmp0oife?** Little. The feeling items ("feel
+**Anything for [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md)?** Little. The feeling items ("feel
 good", "feel bad") are retrospective reports, which the question rules
 out for validating its third layer, and they are not a hedonic marker
-independent of choice. Its sequel (NOTE-tmpocnqb) is where
+independent of choice. Its sequel ([NOTE-tmpocnqb](NOTE-tmpocnqb.md)) is where
 this design produces something the record can use.
 
 Filed because the owner asked, and because the sequel cannot be read

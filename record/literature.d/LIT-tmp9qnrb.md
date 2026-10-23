@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpocnqb): in full, from the published version (CC BY 4.0) in the Archive ouverte UNIGE (unige:170302). Worth reading as the first attempt to recover the component process model''s components from brain and behaviour together. Twenty participants watched 40 film clips during fMRI and then rated 119 salient 12-second events on 32 CoreGRID features. Heart and respiration rate were recorded. Partial least squares correlation found six brain–behaviour latent variables, read as valuation, novelty, hedonic impact, goal monitoring, caring for others and approach/avoidance. For the record, the result is two distinct valence-like networks: a "wanting"-like valuation process and a "liking"-like hedonic one. Each event gets a feature vector, but no within-episode synchronization is computed.'
+status_note: 'read 2026-10-23 ([NOTE-tmpocnqb](../notes.d/NOTE-tmpocnqb.md)): in full, from the published version (CC BY 4.0) in the Archive ouverte UNIGE (unige:170302). Worth reading as the first attempt to recover the component process model''s components from brain and behaviour together. Twenty participants watched 40 film clips during fMRI and then rated 119 salient 12-second events on 32 CoreGRID features. Heart and respiration rate were recorded. Partial least squares correlation found six brain–behaviour latent variables, read as valuation, novelty, hedonic impact, goal monitoring, caring for others and approach/avoidance. For the record, the result is two distinct valence-like networks: a "wanting"-like valuation process and a "liking"-like hedonic one. Each event gets a feature vector, but no within-episode synchronization is computed.'
 title: 'Brain networks subserving functional core processes of emotions identified with componential modeling'
 version: 1
 history:
@@ -92,15 +92,15 @@ Gelareh Mohammadi, Dimitri Van De Ville & Patrik Vuilleumier (2023),
 ## Standing in the record
 
 Filed on 2026-10-23 and read for two questions, as set out in
-NOTE-tmpocnqb. On measuring ascendancy (QUESTION-tmpsqwu5) it
+[NOTE-tmpocnqb](../notes.d/NOTE-tmpocnqb.md). On measuring ascendancy ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)) it
 gives no synchronization index. Its latent variables are defined per
 observation, so each 12-second event has a signed score on each process.
 The paper does not report those scores. They would be a per-episode
 measure of componential pattern, though not of which ordering wins. On the
-three-layer operationalization of felt valence (QUESTION-tmp0oife) it
+three-layer operationalization of felt valence ([QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md)) it
 is more useful. It finds in human brain and report the wanting/liking
-split that THEORY-tmp0bbxk and CLAIM-tmpe0iew press against the
-record's proposal (CLAIM-tmpz8lli). The valuation process carries the
+split that [THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md) and [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) press against the
+record's proposal ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). The valuation process carries the
 action tendencies (continue, stop, undo), and the hedonic one carries
 feeling and expression.
 

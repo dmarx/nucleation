@@ -101,11 +101,11 @@ A framework, not results:
 ## Connections
 
 A restatement for neuroscience of the CPM that Scherer (2009) gave for
-modellers (LIT-tmpfjacn, NOTE-tmpsx1uk). Its five networks are what
+modellers ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md), [NOTE-tmpsx1uk](NOTE-tmpsx1uk.md)). Its five networks are what
 Mohammadi, Van De Ville and Vuilleumier try to recover from data
-(LIT-tmp9qnrb, NOTE-tmpocnqb), and their latent
+([LIT-tmp9qnrb](../literature.d/LIT-tmp9qnrb.md), [NOTE-tmpocnqb](NOTE-tmpocnqb.md)), and their latent
 variables do not line up one per component. Takes control precedence
-from Frijda (THEORY-055).
+from Frijda ([THEORY-055](../theory.d/THEORY-055.md)).
 
 ## Bearing on the record
 
@@ -116,7 +116,7 @@ no index, no data and no procedure, and it closes by calling the
 architecture "and how they interact and synchronize" "a major challenge"
 (p. 228). It names the methods that would be needed, "excellent
 resolutions at the spatial and temporal scales" such as intracranial
-recording (p. 225). For QUESTION-tmpsqwu5 that is a sharper lead than
+recording (p. 225). For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) that is a sharper lead than
 the 2009 paper gave: a phase-locking or cross-frequency index computed
 over an episode's window is a per-episode quantity. But it would still
 be unsigned. It would say how coupled the networks are, not which of
@@ -126,13 +126,13 @@ them is in charge.
 is not signed. What does say which tendency prevails is a different
 sentence: "some action tendencies with control precedence take priority
 over other potential action tendencies" (p. 223). That is the record's
-ascendancy (TERM-tmp8gbrt) in the CPM's own words: a tendency winning
+ascendancy ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) in the CPM's own words: a tendency winning
 the conflict with its rivals. The paper does not connect it to
 synchronization or measure it. In the CPM, then, ascendancy and
 synchronization are separate notions. Synchronization is a degree of
 coherence across components, and precedence is a ranking among the
 tendencies within one of them. That supports the reading in
-NOTE-tmpsx1uk that synchronization is at most the analogue of the term's
+[NOTE-tmpsx1uk](NOTE-tmpsx1uk.md) that synchronization is at most the analogue of the term's
 intensity clause, and it adds that the CPM has its own name for the
 ordering clause, without a measure for it.
 
@@ -140,11 +140,11 @@ ordering clause, without a measure for it.
 of synchronization in the other components surpassing a certain
 threshold" (p. 225). This is a threshold on an unsigned degree, so it is
 a hypothesis about when an episode is felt, not about how it is
-resolved. It sits beside CLAIM-tmptd5us, felt when the system models
+resolved. It sits beside [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md), felt when the system models
 its own ascendancy, as a rival with a different variable: degree of
 coupling rather than a self-model. It is the same identity-with-degree
-view that NOTE-tmpsx1uk set against the self-model reading (closer to
-THEORY-101). It also does not bear on CLAIM-tmp83ge2's continuity
+view that [NOTE-tmpsx1uk](NOTE-tmpsx1uk.md) set against the self-model reading (closer to
+[THEORY-101](../theory.d/THEORY-101.md)). It also does not bear on [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s continuity
 question, which is about trade-offs in choice, not about entry into
 consciousness.
 
@@ -152,7 +152,7 @@ consciousness.
 "can be subject to reciprocal inhibition", with the subthalamic
 hyperdirect pathway inhibiting prepotent responses "to shift into a more
 controlled behavior" (p. 223). This is a mechanism for one response
-overriding another, the override regime in CLAIM-tmp83ge2, but here it
+overriding another, the override regime in [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md), but here it
 works inside one component. It is mentioned in passing.
 
 Candidly, the paper is a map of where to look. It does not help the

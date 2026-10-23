@@ -94,7 +94,7 @@ the first place.
 ## Connections
 
 Uses the CoreGRID items of Fontaine, Scherer and Soriano (2013), like the
-two Mohammadi studies (LIT-tmp7rygg, LIT-tmp9qnrb),
+two Mohammadi studies ([LIT-tmp7rygg](../literature.d/LIT-tmp7rygg.md), [LIT-tmp9qnrb](../literature.d/LIT-tmp9qnrb.md)),
 which cite this study as the precedent and the VR route as their remedy
 for passive viewing.
 
@@ -108,7 +108,7 @@ with each emotion component" (ms p. 7, note 2). That
 is a property of the emotion category in this sample, not of any
 episode, and it is not a degree of synchrony. Nothing is time-resolved,
 and physiology is reported, not recorded. The paper's real contribution
-to QUESTION-tmpsqwu5 is a precondition: a measure of coordination
+to [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) is a precondition: a measure of coordination
 needs an episode in which the system acts, so that its tendencies have
 something to compete over. That is also the record's requirement that
 ascendancy be read from conflicts actually won during the episode.
@@ -117,9 +117,9 @@ ascendancy be read from conflicts actually won during the episode.
 contain the right kind of case. Cluster 1 combines appraisals and
 feelings of fear with the exploratory tendency as its highest item, and
 the paper reads it as anxiety or thrill-seeking. Fear and approach
-co-occur in the same episodes. On TERM-tmp8gbrt this is the kind of case
+co-occur in the same episodes. On [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) this is the kind of case
 the term must handle: either split ascendancy (ambivalence) or one ordering
-winning while the other is present. QUESTION-tmpsqwu5 asks for a
+winning while the other is present. [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) asks for a
 procedure that separates the two. Ratings after the game cannot do it:
 they give the strength of each tendency, not which won when they
 conflicted. A VR design could supply a conflict record directly. The
@@ -132,7 +132,7 @@ kind the question asks for.
 
 **Control precedence.** The appraisal-theoretic premise the paper adopts,
 that the organism will "prioritize certain actions ... and invest an
-effort in those actions" (ms p. 1), is control precedence (THEORY-055)
+effort in those actions" (ms p. 1), is control precedence ([THEORY-055](../theory.d/THEORY-055.md))
 stated in passing. Nothing in the analysis measures prioritization.
 
 ## Limitations

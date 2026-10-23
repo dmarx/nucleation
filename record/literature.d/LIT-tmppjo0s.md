@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpj1twd): in full, from the authors'' accepted manuscript in Ghent University''s repository (biblio.ugent.be 8560097). Worth reading as the one study here that tests whether appraisal acts on the other emotion components linearly. It re-analyses the GRID data, culturally shared semantic profiles of 24 emotion words rated in 34 samples from 27 countries. It fits multivariate adaptive regression splines from seven appraisal factors to eleven motivation, physiology and expression factors. Goal compatibility is the main effect. Agency and norm compatibility act only in interactions, and some responses need splines. Its "threshold effects" are hinges in a continuous piecewise-linear fit. The data are word meanings, not episodes, and have no time, so they cannot bear on continuity or hysteresis in choice.'
+status_note: 'read 2026-10-23 ([NOTE-tmpj1twd](../notes.d/NOTE-tmpj1twd.md)): in full, from the authors'' accepted manuscript in Ghent University''s repository (biblio.ugent.be 8560097). Worth reading as the one study here that tests whether appraisal acts on the other emotion components linearly. It re-analyses the GRID data, culturally shared semantic profiles of 24 emotion words rated in 34 samples from 27 countries. It fits multivariate adaptive regression splines from seven appraisal factors to eleven motivation, physiology and expression factors. Goal compatibility is the main effect. Agency and norm compatibility act only in interactions, and some responses need splines. Its "threshold effects" are hinges in a continuous piecewise-linear fit. The data are word meanings, not episodes, and have no time, so they cannot bear on continuity or hysteresis in choice.'
 title: 'Interaction and threshold effects of appraisal on componential patterns of emotion: A study using cross-cultural semantic data'
 version: 1
 history:
@@ -91,9 +91,9 @@ Scherer (2019), *Emotion* 19(3):425–442 — DOI-10.1037/emo0000449
 ## Standing in the record
 
 Filed on 2026-10-23 and read against two of the record's questions, as
-set out in NOTE-tmpj1twd. It gives no measure of component
+set out in [NOTE-tmpj1twd](../notes.d/NOTE-tmpj1twd.md). It gives no measure of component
 synchronization; "synchronization" appears only in its review of
-Scherer. Its threshold effects do not bear on CLAIM-tmp83ge2's
+Scherer. Its threshold effects do not bear on [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s
 continuous-versus-threshold contrast. They are kinks in a continuous
 fitted function, MARS cannot represent a jump, and the inputs are
 appraisals of word meanings, not costs and resources traded in choice.
