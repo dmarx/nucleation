@@ -48,6 +48,8 @@ summary: >-
   them, so it can hold signals of a harm and not act. The absence is a
   design, not a deficit, and repair is redesign. Wells Fargo's sales
   practices ([CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md)) are its documented case.
+objected_by:
+- CLAIM-tmp4d358
 ---
 
 # CLAIM-tmpi98gg: A corporation can be an agent fit to be held responsible while the costs its conduct imposes on others gain authority over what it does only through its decision procedures, its members' role duties, its regulators and its markets, so that it can hold signals of a harm without acting on them; "psychopathic" fits it only in that functional sense, naming a design rather than a lost capacity, which puts the remedy in its structure rather than in any member's character

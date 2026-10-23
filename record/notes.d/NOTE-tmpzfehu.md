@@ -22,6 +22,8 @@ summary: >-
   leadership blamed individual employees, and that signals of the harm
   reached people who could not act on them, or were filtered before they
   reached those who could.
+reports:
+- CASE-tmpuxgzy
 ---
 <!-- inactive-ok-file: THEORY-131 THEORY-139 CLAIM-349 — Proposed; the accounts and the claim this reading bears on, cited as open -->
 

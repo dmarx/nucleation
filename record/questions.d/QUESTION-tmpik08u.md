@@ -18,6 +18,8 @@ summary: >-
   and on group emotion (Huebner, List), but nothing on the clinical
   construct and no claim joining them. The question asks which reading of
   the thesis survives.
+answered_by:
+- CLAIM-tmpi98gg
 ---
 
 # QUESTION-tmpik08u: Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but in which the costs its conduct imposes on others have no authority over what it does beyond what its procedures, members, regulators and markets give them?

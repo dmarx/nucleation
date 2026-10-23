@@ -41,6 +41,8 @@ summary: >-
   harming others". The remedy it proposes is regulation and the
   democratic control of corporations. Unread: filed from the two
   descriptions only.
+supports:
+- CLAIM-tmpi98gg
 ---
 
 # LIT-tmp8tm3e: The Corporation: The Pathological Pursuit of Profit and Power

@@ -44,6 +44,8 @@ summary: >-
   autonomy, control functions deferred to them, and the board learned only
   from the September 2016 settlements that about 5,300 employees had been
   fired for sales practice violations.
+reports:
+- CASE-tmpuxgzy
 ---
 
 # LIT-tmp24jzb: Sales Practices Investigation Report

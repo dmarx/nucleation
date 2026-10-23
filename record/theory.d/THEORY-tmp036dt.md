@@ -25,6 +25,9 @@ summary: >-
   disorder's core, and they read the evidence as dimensional. Filed for
   the record's question on corporate psychopathy, which asks which of
   these features could be said of a corporation.
+supports:
+- CLAIM-tmp4d358
+- CLAIM-tmpi98gg
 ---
 <!-- inactive-ok-file: LIT-tmp57loc NOTE-tmp1fxmh — filed in this batch -->
 

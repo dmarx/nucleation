@@ -23,6 +23,8 @@ summary: >-
 reported_in:
 - LIT-tmp24jzb
 - NOTE-tmpzfehu
+supports:
+- CLAIM-tmpi98gg
 ---
 <!-- inactive-ok-file: THEORY-131 THEORY-139 CLAIM-349 — Proposed; the accounts and the claim this case bears on, cited as open -->
 

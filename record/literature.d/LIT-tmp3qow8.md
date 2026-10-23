@@ -36,6 +36,8 @@ summary: >-
   their duties imply duties for members "to use their role in the
   collective with a view to the collective doing its duty". Unread:
   filed from the abstract.
+supports:
+- CLAIM-tmpi98gg
 ---
 
 # LIT-tmp3qow8: Group Duties: Their Existence and Their Implications for Individuals
