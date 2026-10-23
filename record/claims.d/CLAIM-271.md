@@ -53,7 +53,7 @@ summary: >-
   polling is illegitimate, nor that the collective knows better than its
   members.
 supports:
-- CLAIM-tmpi98gg
+- CLAIM-432
 ---
 
 # CLAIM-271: A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support

@@ -4,7 +4,7 @@
 
 **moral-psychology**.
 
-17 of 1093 NOTE documents. Back to the [full index](../README.md).
+18 of 1095 NOTE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
@@ -25,3 +25,4 @@
 | [NOTE-412](../../../record/notes.d/NOTE-412.md) | Curry, Jones Chesters & Van Lissa 2019, the MAC-Q | A 42-item questionnaire for morality-as-cooperation's seven domains, written by the authors from the theory and reduced to three items per subscale. In UK (n = 1,392) and US (n = 469) online samples, seven factors fit the Relevance items well (CFI .98) and the Judgement items poorly (CFI .87). The two sets cannot be pooled into seven domains (CFI .73); the best model keeps fourteen correlated factors. The MFQ's five factors are not recovered. MFQ purity items are rated about as morally relevant as its loyalty and authority items, which the authors concede contradicts the theory. The data cannot be shared. | Read |
 | [NOTE-548](../../../record/notes.d/NOTE-548.md) | Moral Responsibility | A survey of moral responsibility. Its most exact reports, for this record: Fischer and Ravizza's guidance control as an owned, moderately reasons-responsive mechanism, with page references (§2.3); Wolf's critique of Real Self views and the requirement that an agent be able to form her values on the basis of the True and the Good (§3.1.1); and the moral competence condition, through JoJo (§3.2). Wolf's praise/blame asymmetry is noted in one sentence. | Read |
 | [NOTE-565](../../../record/notes.d/NOTE-565.md) | Responsibility, Moral and Otherwise | A lecture arguing that deep responsibility extends beyond the moral, to prudential and aesthetic traits and to art, and that the self-disclosure view explains this. Watson's two-level view, attributability with accountability stacked on top, is rejected: the two are independent, and accountability may need nothing metaphysically robust. What makes a self a fit target of reactive attitudes is offered as a hunch: an intelligent self that perceives, understands and appreciates the world as we do. | Read |
+| [NOTE-1094](../../../record/notes.d/NOTE-1094.md) | Psychopathy as a Clinical and Empirical Construct | The PCL-R's items form four correlated factors, Interpersonal, Affective, Lifestyle and Antisocial, which pair into Factors 1 and 2 and are explained by one superordinate factor. Psychopathy is dimensional, its antisocial features belong to it as much as its affective ones, and the authors deny that any one component is its essence. Cleckley's 1941/1976 profile is a clinical synopsis from an unrepresentative sample, not the standard the measure should be judged by. | Read |

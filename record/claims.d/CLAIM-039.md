@@ -14,7 +14,7 @@ history:
     show only psychopathy's conduct: "one of the specific things our
     framework equips us to do is to assign affect to corporation-like
     things". The claim's notes had left reopening the line to the owner.
-    Used the same day as a premise of CLAIM-tmpi98gg.
+    Used the same day as a premise of CLAIM-432.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -33,7 +33,7 @@ grounds:
 - THEORY-055
 - THEORY-125
 supports:
-- CLAIM-tmpi98gg
+- CLAIM-432
 ---
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
@@ -89,9 +89,9 @@ corporation psychopathy's conduct but not its affect: "one of the
 specific things our framework equips us to do is to assign affect to
 corporation-like things." That is the decision the note of 2026-10-18
 left to the owner, so the claim is Proposed again. Its first use is
-[CLAIM-tmpi98gg](CLAIM-tmpi98gg.md), which assigns functional remorse, or its absence, to a
+[CLAIM-432](CLAIM-432.md), which assigns functional remorse, or its absence, to a
 corporation by asking whether harm to others is among the concerns its
 own appraisals track. The difficulty the note of 2026-10-12 named,
 [THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a felt state, is still the
-objection to answer first; [CLAIM-tmpi98gg](CLAIM-tmpi98gg.md) names it in its defeater.
+objection to answer first; [CLAIM-432](CLAIM-432.md) names it in its defeater.
 

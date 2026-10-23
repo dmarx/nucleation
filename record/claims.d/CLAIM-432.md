@@ -1,5 +1,8 @@
 ---
+number: 432
 status: Proposed
+formerly:
+- CLAIM-tmpi98gg
 title: 'A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda''s sense, so psychopathy''s affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation''s concerns; that profile, threat without remorse, is the construct''s, and it is changed by redesigning the corporation''s concerns, not its members'' characters'
 version: 1
 role: thesis
@@ -13,9 +16,9 @@ defeated_if: >-
   sanction is lifted, from corporations moved only by regulators and
   markets, so that the remorse–threat distinction is idle; or an argument
   the record accepts that a corporation is not an agent (Velasquez,
-  LIT-tmp7dpgf and LIT-tmpy1y1q); or a documented corporate harm fully
+  LIT-1429 and LIT-1432); or a documented corporate harm fully
   explained by identifiable members' traits, with the corporation's
-  concerns adding nothing (Boddy's thesis, LIT-tmpcyd6d).
+  concerns adding nothing (Boddy's thesis, LIT-1431).
 tags:
 - ethics
 - social-ontology
@@ -26,7 +29,7 @@ line:
 - distributed-agency
 - organizational-affect
 answers:
-- QUESTION-tmpik08u
+- QUESTION-265
 rests_on:
 - CLAIM-039
 - CLAIM-271
@@ -40,10 +43,10 @@ grounds:
 - THEORY-131
 - THEORY-139
 - THEORY-125
-- THEORY-tmp036dt
-- CASE-tmpuxgzy
-- LIT-tmp8tm3e
-- LIT-tmp3qow8
+- THEORY-892
+- CASE-151
+- LIT-1430
+- LIT-1426
 summary: >-
   The record's reading of Bakan's "institutional psychopath", filed at the
   owner's request on 2026-10-23 and revised the same day when the owner
@@ -56,14 +59,14 @@ summary: >-
   and remorse) or as a threat to its other concerns (regulators, markets:
   functional fear). A corporation with only the second is functionally
   psychopathic across the construct, not in part. Wells Fargo's sales
-  practices ([CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md)) are its documented case.
+  practices ([CASE-151](../cases.d/CASE-151.md)) are its documented case.
 objected_by:
-- CLAIM-tmp4d358
+- CLAIM-431
 ---
-<!-- inactive-ok-file: CLAIM-039 CLAIM-271 CLAIM-283 CLAIM-349 CLAIM-355 THEORY-055 THEORY-125 THEORY-131 THEORY-139 THEORY-tmp036dt — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
-<!-- inactive-ok-file: LIT-tmp3qow8 LIT-tmp7dpgf LIT-tmp8tm3e LIT-tmpcyd6d LIT-tmpy1y1q — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
+<!-- inactive-ok-file: CLAIM-039 CLAIM-271 CLAIM-283 CLAIM-349 CLAIM-355 THEORY-055 THEORY-125 THEORY-131 THEORY-139 THEORY-892 — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
+<!-- inactive-ok-file: LIT-1426 LIT-1429 LIT-1430 LIT-1431 LIT-1432 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
-# CLAIM-tmpi98gg: A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
+# CLAIM-432: A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
 
 ## The claim
 
@@ -88,7 +91,7 @@ objected_by:
    The clinical construct licenses this reading of its own affective
    items. The PCL-R is scored from "a semistructured interview, case
    history information, and specific scoring criteria" (Hare and
-   Neumann, p. 219; [THEORY-tmp036dt](../theory.d/THEORY-tmp036dt.md)): from what a person does and says,
+   Neumann, p. 219; [THEORY-892](../theory.d/THEORY-892.md)): from what a person does and says,
    not from access to what they feel. A corporation's record is evidence
    of the same kind.
 
@@ -96,7 +99,7 @@ objected_by:
    others can reach its decisions by two kinds of route.
    - **As its own concern.** A decision procedure that weighs the harm,
      or members' role duties to use their roles toward the corporation
-     doing its duty (Collins, [LIT-tmp3qow8](../literature.d/LIT-tmp3qow8.md)), make the harm pertinent in
+     doing its duty (Collins, [LIT-1426](../literature.d/LIT-1426.md)), make the harm pertinent in
      itself. Appraised as the corporation's own doing, it elicits
      readiness to repair and restrain. That is functional remorse, and
      with others' distress as the concern, functional empathy.
@@ -124,7 +127,7 @@ objected_by:
    orientation, irresponsibility, poor behavioural controls. The
    developmental items (early behaviour problems, juvenile delinquency)
    have no counterpart. Since the construct is one dimension with no
-   essential component ([THEORY-tmp036dt](../theory.d/THEORY-tmp036dt.md)), a corporation matching across
+   essential component ([THEORY-892](../theory.d/THEORY-892.md)), a corporation matching across
    both factors falls under it to a degree. It is not merely nearer the
    behaviour-led diagnosis, which is where the first version of this
    claim put it before the owner's correction.
@@ -140,7 +143,7 @@ objected_by:
    and one whose concerns were redesigned does not. That is its test.
 
 **The documented case.** Wells Fargo's Community Bank, 2002–2016
-([CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md), from the board's own investigation), read through the
+([CASE-151](../cases.d/CASE-151.md), from the board's own investigation), read through the
 claim:
 - **Concerns.** The sales model and its growth. "Customer harm" was
   "narrowly construed to mean only financial harm such as fees and

@@ -6,6 +6,7 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## Currently — [October 2026](2026-10.md)
 
+- [23 Oct 05:18 — Corporate psychopathy: eight works sought, two read in full, six Unavailable, and what the reading changed in the claim](2026-10.md#corporate-psychopathy-eight-works-sought-two-read-in-full-six-unavailable-and-what-the-reading-changed-in-the-claim)
 - [23 Oct 03:21 — The works cited in the two exchanges of 2026-10-22 and 2026-10-23: twenty-two registered unread, one read in full, three Unavailable, and what checking the abstracts corrected](2026-10.md#the-works-cited-in-the-two-exchanges-of-2026-10-22-and-2026-10-23-twenty-two-registered-unread-one-read-in-full-three-unavailable-and-what-checking-the-abstracts-corrected)
 - [22 Oct 21:36 — The twenty-nine works from "Graph Learning Applications" sought: twenty-one read or skimmed, eight Unavailable; seven Proposed THEORYs, and what the reading corrected](2026-10.md#the-twenty-nine-works-from-graph-learning-applications-sought-twenty-one-read-or-skimmed-eight-unavailable-seven-proposed-theorys-and-what-the-reading-corrected)
 - [22 Oct 16:33 — Six works registered unread from the branch of "Graph Learning Applications", on the doorway effect and Shaolin martial arts](2026-10.md#six-works-registered-unread-from-the-branch-of-graph-learning-applications-on-the-doorway-effect-and-shaolin-martial-arts)
@@ -125,9 +126,9 @@ Why things entered this record, and why they left for the anthology or anywhere 
 
 ## All books
 
-163 entries across 2 books, newest first.
+164 entries across 2 books, newest first.
 
 | Book | Entries | First | Last |
 |---|--:|---|---|
-| [2026-10](2026-10.md) | 116 | 2026-10-01 | 2026-10-23 |
+| [2026-10](2026-10.md) | 117 | 2026-10-01 | 2026-10-23 |
 | [2026-09](2026-09.md) | 47 | 2026-09-25 | 2026-09-30 |

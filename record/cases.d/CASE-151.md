@@ -1,5 +1,8 @@
 ---
+number: 151
 status: Active
+formerly:
+- CASE-tmpuxgzy
 title: 'Wells Fargo''s Community Bank, 2002–2016: unauthorized and unwanted accounts that the board''s own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them'
 version: 1
 standing: documented
@@ -11,7 +14,7 @@ tags:
 date: '2026-10-23'
 summary: >-
   The Wells Fargo sales-practices episode, as reported by the bank's
-  independent directors (2017; [LIT-tmp24jzb](../literature.d/LIT-tmp24jzb.md), read in [NOTE-tmpzfehu](../notes.d/NOTE-tmpzfehu.md)).
+  independent directors (2017; [LIT-1425](../literature.d/LIT-1425.md), read in [NOTE-1095](../notes.d/NOTE-1095.md)).
   The report finds the root cause in the Community Bank's sales culture
   and performance management, sustained by a decentralized structure that
   deferred to the business line. It finds that leadership blamed
@@ -21,20 +24,20 @@ summary: >-
   sanctions individuals. Not shown: intent, the absence of individual
   culpability, or anything beyond the company's own account of itself.
 reported_in:
-- LIT-tmp24jzb
-- NOTE-tmpzfehu
+- LIT-1425
+- NOTE-1095
 supports:
-- CLAIM-tmpi98gg
+- CLAIM-432
 ---
 <!-- inactive-ok-file: THEORY-131 THEORY-139 CLAIM-349 — Proposed; the accounts and the claim this case bears on, cited as open -->
 
-# CASE-tmpuxgzy: Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted accounts that the board's own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them
+# CASE-151: Wells Fargo's Community Bank, 2002–2016: unauthorized and unwanted accounts that the board's own investigation traced to the sales model, the performance management that enforced it and a decentralized structure, while signals of the harm reached people who could not act on them
 
 ## The case
 
 From the Sales Practices Investigation Report of the Independent Directors
-of the Board of Wells Fargo & Company, April 10, 2017 ([LIT-tmp24jzb](../literature.d/LIT-tmp24jzb.md), read in
-full in [NOTE-tmpzfehu](../notes.d/NOTE-tmpzfehu.md)). Page numbers are the report's.
+of the Board of Wells Fargo & Company, April 10, 2017 ([LIT-1425](../literature.d/LIT-1425.md), read in
+full in [NOTE-1095](../notes.d/NOTE-1095.md)). Page numbers are the report's.
 
 - **What happened.** Community Bank employees sold customers unneeded
   products, opened accounts without consent, moved customers' money to

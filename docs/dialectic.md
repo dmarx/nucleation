@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-44 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+45 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -310,3 +310,8 @@
 
 - [CLAIM-425](../record/claims.d/CLAIM-425.md) — A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response *(thesis, Proposed)*
   - [CLAIM-426](../record/claims.d/CLAIM-426.md) — Where a judgement's circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement's authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become *(counter, Proposed)*
+
+## From A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
+
+- [CLAIM-432](../record/claims.d/CLAIM-432.md) — A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters *(thesis, Proposed)*
+  - [CLAIM-431](../record/claims.d/CLAIM-431.md) — A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives *(counter, Proposed)*

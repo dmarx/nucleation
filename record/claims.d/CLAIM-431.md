@@ -1,5 +1,8 @@
 ---
+number: 431
 status: Proposed
+formerly:
+- CLAIM-tmp4d358
 title: 'A corporation''s functional remorse cannot be told from prudence: any procedure or role duty that makes others'' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives'
 version: 1
 role: counter
@@ -14,12 +17,12 @@ line:
 - distributed-agency
 - organizational-affect
 objects_to:
-- CLAIM-tmpi98gg
+- CLAIM-432
 rests_on:
 - CLAIM-418
 grounds:
-- THEORY-tmp036dt
-- LIT-tmpy1y1q
+- THEORY-892
+- LIT-1432
 summary: >-
   The objection to the record's reading of the "institutional
   psychopath", revised on 2026-10-23 when the reading was revised. The
@@ -29,17 +32,17 @@ summary: >-
   reading's distinction between a harm a corporation takes as its own
   concern (remorse) and a harm it takes only as a threat (fear) may not
   be drawable for a corporation, whose every concern was installed for
-  its own ends. Velasquez's "as if" ([LIT-tmpy1y1q](../literature.d/LIT-tmpy1y1q.md)) in functional form.
+  its own ends. Velasquez's "as if" ([LIT-1432](../literature.d/LIT-1432.md)) in functional form.
 ---
 
-<!-- inactive-ok-file: CLAIM-418 CLAIM-tmpi98gg CLAIM-039 THEORY-tmp036dt — Proposed; the claims and reading this objection argues from or against, cited as open -->
-<!-- inactive-ok-file: LIT-tmpy1y1q — Unavailable, no lawful full text; its abstract's "as if", not leaned on as read -->
+<!-- inactive-ok-file: CLAIM-418 CLAIM-432 CLAIM-039 THEORY-892 — Proposed; the claims and reading this objection argues from or against, cited as open -->
+<!-- inactive-ok-file: LIT-1432 — Unavailable, no lawful full text; its abstract's "as if", not leaned on as read -->
 
-# CLAIM-tmp4d358: A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives
+# CLAIM-431: A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives
 
 ## The objection
 
-[CLAIM-tmpi98gg](CLAIM-tmpi98gg.md) separates two routes by which a corporation's harm to
+[CLAIM-432](CLAIM-432.md) separates two routes by which a corporation's harm to
 others reaches its decisions: as one of its own concerns, through
 procedures and role duties (functional remorse), or as a threat to its
 other concerns, through regulators and markets (functional fear). A
@@ -58,7 +61,7 @@ an object of fear and blame) to a description of incentives, and points
 remedy toward blame where the reading itself says the remedy is
 redesign.
 
-This is Velasquez's "as if" ([LIT-tmpy1y1q](../literature.d/LIT-tmpy1y1q.md)) in functional form: if the
+This is Velasquez's "as if" ([LIT-1432](../literature.d/LIT-1432.md)) in functional form: if the
 corporation's intentions are only as if, so is its remorse.
 
 It rests on [CLAIM-418](CLAIM-418.md): an organization's perspective is not thereby an
@@ -71,7 +74,7 @@ agent's character.
   that remorse is among the affects a corporation can have apart from
   fear.
 - It does not deny the structural description of Wells Fargo
-  ([CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md)).
+  ([CASE-151](../cases.d/CASE-151.md)).
 
 ## What would answer it
 
@@ -91,7 +94,7 @@ Three things, any of which would do.
    installed for.
 3. **The construct's own evidence.** The PCL-R scores lack of remorse
    from "a semistructured interview, case history information, and
-   specific scoring criteria" (Hare and Neumann, p. 219; [THEORY-tmp036dt](../theory.d/THEORY-tmp036dt.md)),
+   specific scoring criteria" (Hare and Neumann, p. 219; [THEORY-892](../theory.d/THEORY-892.md)),
    so a person's remorse is told from its display by what the record of
    their conduct and statements shows. If a corporation's record can show
    the same difference, the distinction is drawable for it too.

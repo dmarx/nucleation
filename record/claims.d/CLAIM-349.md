@@ -62,7 +62,7 @@ illustrated_by:
 - CASE-127
 - CASE-129
 complements:
-- CLAIM-tmpi98gg
+- CLAIM-432
 ---
 <!-- inactive-ok-file: CLAIM-199 CLAIM-403 — Proposed; cited in the note of 2026-10-21, nothing here rests on them -->
 

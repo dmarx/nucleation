@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**562 documents cited without acknowledgement.** Not listed: 11829 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**563 documents cited without acknowledgement.** Not listed: 11900 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -1091,12 +1091,12 @@ Jorgensen & Tian — Noncommutative Analysis (GNS, RKHS)
 
 A corporation that forms its judgments through authorised avowal and corrects the inconsistency any mechanical aggregation of its members' views produces has a mind of its own, and as a conversable agent it meets the conditions for being fit to be held responsible: a significant choice, the capacity to judge its options normatively, and control over acting on that judgment
 
-13 citations in 5 files await a look; 25 other citations of it are acknowledged.
+13 citations in 5 files await a look; 38 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-030.md:90`](../../record/claims.d/CLAIM-030.md)
 - [`record/claims.d/CLAIM-271.md:21`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:77`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:121`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:79`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:123`](../../record/claims.d/CLAIM-271.md)
 - [`record/questions.d/QUESTION-049.md:17`](../../record/questions.d/QUESTION-049.md)
 - [`record/questions.d/QUESTION-049.md:33`](../../record/questions.d/QUESTION-049.md)
 - [`record/questions.d/QUESTION-049.md:48`](../../record/questions.d/QUESTION-049.md)
@@ -1170,8 +1170,8 @@ Which of an agent's available regimes becomes effective depends on maintained re
 
 11 citations in 7 files await a look; 26 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-271.md:122`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:123`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:124`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:125`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-352.md:98`](../../record/claims.d/CLAIM-352.md)
 - [`record/claims.d/CLAIM-353.md:58`](../../record/claims.d/CLAIM-353.md)
 - [`record/claims.d/CLAIM-353.md:87`](../../record/claims.d/CLAIM-353.md)
@@ -1424,6 +1424,22 @@ Perceptual consciousness is global availability: a content becomes conscious whe
 - [`record/theory.d/THEORY-090.md:191`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-102.md:185`](../../record/theory.d/THEORY-102.md)
 - [`record/theory.d/THEORY-102.md:187`](../../record/theory.d/THEORY-102.md)
+
+### [THEORY-101](../../record/theory.d/THEORY-101.md) — Proposed
+
+Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom
+
+9 citations in 3 files await a look; 19 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-039.md:58`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:77`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:95`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-432.md:12`](../../record/claims.d/CLAIM-432.md)
+- [`record/questions.d/QUESTION-059.md:23`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:37`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:41`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:56`](../../record/questions.d/QUESTION-059.md)
+- [`record/questions.d/QUESTION-059.md:69`](../../record/questions.d/QUESTION-059.md)
 
 ### [THEORY-468](../../record/theory.d/THEORY-468.md) — Proposed
 
@@ -1766,7 +1782,7 @@ A normative judgment is well-defined only once its relata are fixed (the organiz
 
 Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent's activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open
 
-7 citations in 5 files await a look; 4 other citations of it are acknowledged.
+7 citations in 5 files await a look; 6 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-145.md:23`](../../record/cases.d/CASE-145.md)
 - [`record/cases.d/CASE-145.md:49`](../../record/cases.d/CASE-145.md)
@@ -1916,27 +1932,13 @@ Model-based and model-free predictions both operate in instrumental and in Pavlo
 - [`record/questions.d/QUESTION-054.md:69`](../../record/questions.d/QUESTION-054.md)
 - [`record/questions.d/QUESTION-054.md:87`](../../record/questions.d/QUESTION-054.md)
 
-### [THEORY-101](../../record/theory.d/THEORY-101.md) — Proposed
-
-Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom
-
-7 citations in 2 files await a look; 19 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-039.md:46`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-039.md:65`](../../record/claims.d/CLAIM-039.md)
-- [`record/questions.d/QUESTION-059.md:23`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:37`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:41`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:56`](../../record/questions.d/QUESTION-059.md)
-- [`record/questions.d/QUESTION-059.md:69`](../../record/questions.d/QUESTION-059.md)
-
 ### [THEORY-125](../../record/theory.d/THEORY-125.md) — Proposed
 
 A group can itself be in an emotional state that is not its members' states in aggregation, when its distributed routines integrate the capacities an emotion requires into one action-oriented representation; because emotions are functional kinds such a state need not be felt, and no actual case has yet been shown
 
-7 citations in 2 files await a look; 8 other citations of it are acknowledged.
+7 citations in 2 files await a look; 9 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-039.md:44`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:56`](../../record/claims.d/CLAIM-039.md)
 - [`record/questions.d/QUESTION-053.md:15`](../../record/questions.d/QUESTION-053.md)
 - [`record/questions.d/QUESTION-053.md:32`](../../record/questions.d/QUESTION-053.md)
 - [`record/questions.d/QUESTION-053.md:42`](../../record/questions.d/QUESTION-053.md)
@@ -2095,7 +2097,7 @@ The primitive for an organization's regulatory difficulty is frustration, not di
 
 6 citations in 5 files await a look; 8 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-283.md:83`](../../record/claims.d/CLAIM-283.md)
+- [`record/claims.d/CLAIM-283.md:84`](../../record/claims.d/CLAIM-283.md)
 - [`record/claims.d/CLAIM-351.md:104`](../../record/claims.d/CLAIM-351.md)
 - [`record/questions.d/QUESTION-131.md:38`](../../record/questions.d/QUESTION-131.md)
 - [`record/questions.d/QUESTION-131.md:140`](../../record/questions.d/QUESTION-131.md)
@@ -2245,6 +2247,19 @@ Frustration of the needs for autonomy, competence and relatedness is a transdiag
 - [`record/questions.d/QUESTION-131.md:77`](../../record/questions.d/QUESTION-131.md)
 - [`record/terms.d/TERM-060.md:129`](../../record/terms.d/TERM-060.md)
 
+### [THEORY-055](../../record/theory.d/THEORY-055.md) — Proposed
+
+An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
+
+6 citations in 3 files await a look; 23 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-039.md:56`](../../record/claims.d/CLAIM-039.md)
+- [`record/questions.d/QUESTION-044.md:19`](../../record/questions.d/QUESTION-044.md)
+- [`record/questions.d/QUESTION-044.md:32`](../../record/questions.d/QUESTION-044.md)
+- [`record/questions.d/QUESTION-044.md:37`](../../record/questions.d/QUESTION-044.md)
+- [`record/questions.d/QUESTION-044.md:41`](../../record/questions.d/QUESTION-044.md)
+- [`record/questions.d/QUESTION-265.md:57`](../../record/questions.d/QUESTION-265.md)
+
 ### [THEORY-084](../../record/theory.d/THEORY-084.md) — Proposed
 
 Because the Gauss–Newton Fisher JᵀJ and the NTK Gram matrix JJᵀ share their non-zero spectrum, the lazy-regime Fisher of a ReLU network on spherical data inherits the NTK's harmonic-degree blocks, and a spectral threshold on it is well posed only at gaps between blocks
@@ -2292,7 +2307,7 @@ Attributions of mental states to institutions, such as the knowledge that the co
 
 - [`record/cases.d/CASE-103.md:21`](../../record/cases.d/CASE-103.md)
 - [`record/cases.d/CASE-103.md:55`](../../record/cases.d/CASE-103.md)
-- [`record/claims.d/CLAIM-271.md:101`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:103`](../../record/claims.d/CLAIM-271.md)
 - [`record/questions.d/QUESTION-049.md:19`](../../record/questions.d/QUESTION-049.md)
 - [`record/questions.d/QUESTION-049.md:36`](../../record/questions.d/QUESTION-049.md)
 - [`record/questions.d/QUESTION-049.md:49`](../../record/questions.d/QUESTION-049.md)
@@ -2360,6 +2375,18 @@ Nothing here is new: planning theory, control theory, executive control and inst
 - [`record/questions.d/QUESTION-056.md:33`](../../record/questions.d/QUESTION-056.md)
 - [`record/questions.d/QUESTION-056.md:41`](../../record/questions.d/QUESTION-056.md)
 - [`record/questions.d/QUESTION-056.md:54`](../../record/questions.d/QUESTION-056.md)
+
+### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Proposed
+
+Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
+
+5 citations in 4 files await a look; 22 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-368.md:58`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:162`](../../record/claims.d/CLAIM-368.md)
+- [`record/decisions.d/ADR-039.md:36`](../../record/decisions.d/ADR-039.md)
+- [`record/questions.d/QUESTION-265.md:56`](../../record/questions.d/QUESTION-265.md)
+- [`record/theory.d/THEORY-892.md:92`](../../record/theory.d/THEORY-892.md)
 
 ### [CLAIM-056](../../record/claims.d/CLAIM-056.md) — Proposed
 
@@ -2461,7 +2488,7 @@ Whether two trained networks compute the same way can be tested by quotienting t
 
 A collective's reasons need not be any of its members' reasons, so aggregating members' conclusions, as polling does, can yield verdicts the collective's own reasons do not support
 
-5 citations in 4 files await a look; 2 other citations of it are acknowledged.
+5 citations in 4 files await a look; 5 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-104.md:53`](../../record/cases.d/CASE-104.md)
 - [`record/cases.d/CASE-110.md:85`](../../record/cases.d/CASE-110.md)
@@ -2661,18 +2688,6 @@ Grangier and Auffèves's contextual objectivity is an ontological postulate, not
 - [`record/notes.d/NOTE-246.md:158`](../../record/notes.d/NOTE-246.md)
 - [`record/notes.d/NOTE-249.md:185`](../../record/notes.d/NOTE-249.md)
 
-### [THEORY-055](../../record/theory.d/THEORY-055.md) — Proposed
-
-An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
-
-5 citations in 2 files await a look; 22 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-039.md:44`](../../record/claims.d/CLAIM-039.md)
-- [`record/questions.d/QUESTION-044.md:19`](../../record/questions.d/QUESTION-044.md)
-- [`record/questions.d/QUESTION-044.md:32`](../../record/questions.d/QUESTION-044.md)
-- [`record/questions.d/QUESTION-044.md:37`](../../record/questions.d/QUESTION-044.md)
-- [`record/questions.d/QUESTION-044.md:41`](../../record/questions.d/QUESTION-044.md)
-
 ### [THEORY-058](../../record/theory.d/THEORY-058.md) — Proposed
 
 Mental disorders are maintained by self-reinforcing causal loops rather than expressing a latent common cause, which is how they can outlast their triggers
@@ -2713,10 +2728,10 @@ In a linearised network with a Gaussian prior on its parameters, the Occam facto
 
 A corporation whose Corporate Internal Decision (CID) Structure, an organizational chart of stations plus recognition rules embedded in corporate policy, licenses redescribing its members' acts as done for corporate reasons is a non-eliminable intentional agent, unlike a mob; and if intentional agency suffices for moral personhood, which French asserts but here says he cannot further argue, such a corporation is a full-fledged moral person
 
-5 citations in 3 files await a look; 9 other citations of it are acknowledged.
+5 citations in 3 files await a look; 21 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-271.md:20`](../../record/claims.d/CLAIM-271.md)
-- [`record/claims.d/CLAIM-271.md:77`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:79`](../../record/claims.d/CLAIM-271.md)
 - [`record/questions.d/QUESTION-009.md:61`](../../record/questions.d/QUESTION-009.md)
 - [`record/questions.d/QUESTION-082.md:20`](../../record/questions.d/QUESTION-082.md)
 - [`record/questions.d/QUESTION-082.md:43`](../../record/questions.d/QUESTION-082.md)
@@ -2739,7 +2754,7 @@ Claims to be conscious are produced by an automatic internal model, and since su
 
 5 citations in 5 files await a look; 3 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-355.md:244`](../../record/claims.d/CLAIM-355.md)
+- [`record/claims.d/CLAIM-355.md:245`](../../record/claims.d/CLAIM-355.md)
 - [`record/claims.d/CLAIM-411.md:167`](../../record/claims.d/CLAIM-411.md)
 - [`record/claims.d/CLAIM-412.md:304`](../../record/claims.d/CLAIM-412.md)
 - [`record/questions.d/QUESTION-254.md:230`](../../record/questions.d/QUESTION-254.md)
@@ -2804,7 +2819,7 @@ Blackwell's order bounds what a rendering makes possible for any receiver, and a
 
 The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them
 
-4 citations in 2 files await a look.
+4 citations in 2 files await a look; 1 other citation of it is acknowledged.
 
 - [`record/claims.d/CLAIM-368.md:97`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:144`](../../record/claims.d/CLAIM-368.md)
@@ -3004,7 +3019,7 @@ perspective, and which sense: organizational, represented or phenomenal
 
 4 citations in 3 files await a look; 61 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-355.md:250`](../../record/claims.d/CLAIM-355.md)
+- [`record/claims.d/CLAIM-355.md:251`](../../record/claims.d/CLAIM-355.md)
 - [`record/claims.d/CLAIM-413.md:180`](../../record/claims.d/CLAIM-413.md)
 - [`record/claims.d/CLAIM-430.md:59`](../../record/claims.d/CLAIM-430.md)
 - [`record/claims.d/CLAIM-430.md:85`](../../record/claims.d/CLAIM-430.md)
@@ -3247,16 +3262,6 @@ Formal contextuality is a failure of global extension, distinct from ordinary co
 - [`record/questions.d/QUESTION-067.md:57`](../../record/questions.d/QUESTION-067.md)
 - [`record/questions.d/QUESTION-067.md:72`](../../record/questions.d/QUESTION-067.md)
 
-### [CLAIM-039](../../record/claims.d/CLAIM-039.md) — Deferred
-
-Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
-
-3 citations in 2 files await a look; 16 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-368.md:58`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:162`](../../record/claims.d/CLAIM-368.md)
-- [`record/decisions.d/ADR-039.md:36`](../../record/decisions.d/ADR-039.md)
-
 ### [CLAIM-052](../../record/claims.d/CLAIM-052.md) — Proposed
 
 Interpretive framing operations generally do not commute, and this can be investigated without committing to quantum probability
@@ -3444,14 +3449,14 @@ No coarse-graining is normatively adequate in general because it preserves stabi
 3 citations in 3 files await a look; 14 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-115.md:105`](../../record/claims.d/CLAIM-115.md)
-- [`record/claims.d/CLAIM-271.md:125`](../../record/claims.d/CLAIM-271.md)
+- [`record/claims.d/CLAIM-271.md:127`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-350.md:122`](../../record/claims.d/CLAIM-350.md)
 
 ### [CLAIM-349](../../record/claims.d/CLAIM-349.md) — Proposed
 
 An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
-3 citations in 3 files await a look; 27 other citations of it are acknowledged.
+3 citations in 3 files await a look; 30 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-276.md:95`](../../record/claims.d/CLAIM-276.md)
 - [`record/questions.d/QUESTION-045.md:66`](../../record/questions.d/QUESTION-045.md)
@@ -3506,6 +3511,16 @@ Evidence for the organizational-perspective framework comes in three grades: tha
 - [`record/cases.d/CASE-144.md:64`](../../record/cases.d/CASE-144.md)
 - [`record/cases.d/CASE-144.md:83`](../../record/cases.d/CASE-144.md)
 - [`record/questions.d/QUESTION-264.md:57`](../../record/questions.d/QUESTION-264.md)
+
+### [CLAIM-432](../../record/claims.d/CLAIM-432.md) — Proposed
+
+A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda's sense, so psychopathy's affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation's concerns; that profile, threat without remorse, is the construct's, and it is changed by redesigning the corporation's concerns, not its members' characters
+
+3 citations in 1 file await a look; 3 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-039.md:17`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:92`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-039.md:96`](../../record/claims.d/CLAIM-039.md)
 
 ### [LIT-009](../../record/literature.d/LIT-009.md) — Proposed
 
@@ -3696,6 +3711,16 @@ Dwork et al. — The reusable holdout (supplementary material)
 - [`record/questions.d/QUESTION-040.md:12`](../../record/questions.d/QUESTION-040.md)
 - [`record/questions.d/QUESTION-196.md:36`](../../record/questions.d/QUESTION-196.md)
 - [`record/theory.d/THEORY-028.md:12`](../../record/theory.d/THEORY-028.md)
+
+### [QUESTION-059](../../record/questions.d/QUESTION-059.md) — Deferred
+
+Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks?
+
+3 citations in 3 files await a look; 26 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-107.md:138`](../../record/cases.d/CASE-107.md)
+- [`record/claims.d/CLAIM-432.md:169`](../../record/claims.d/CLAIM-432.md)
+- [`record/questions.d/QUESTION-121.md:78`](../../record/questions.d/QUESTION-121.md)
 
 ### [QUESTION-239](../../record/questions.d/QUESTION-239.md) — Answered
 
@@ -4296,7 +4321,7 @@ A loosely organized population can change what an outside institution does throu
 
 In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real
 
-2 citations in 1 file await a look; 50 other citations of it are acknowledged.
+2 citations in 1 file await a look; 51 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-072.md:18`](../../record/terms.d/TERM-072.md)
 - [`record/terms.d/TERM-072.md:104`](../../record/terms.d/TERM-072.md)
@@ -4616,15 +4641,6 @@ Fricker — Epistemic Injustice (précis)
 - [`record/questions.d/QUESTION-072.md:12`](../../record/questions.d/QUESTION-072.md)
 - [`record/questions.d/QUESTION-072.md:144`](../../record/questions.d/QUESTION-072.md)
 
-### [QUESTION-059](../../record/questions.d/QUESTION-059.md) — Deferred
-
-Does a state that meets a functional characterization of affect thereby have to be felt, or does feeling need a mechanism, such as a body acting on the neurons that map it, that an organization lacks?
-
-2 citations in 2 files await a look; 26 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-107.md:138`](../../record/cases.d/CASE-107.md)
-- [`record/questions.d/QUESTION-121.md:78`](../../record/questions.d/QUESTION-121.md)
-
 ### [QUESTION-241](../../record/questions.d/QUESTION-241.md) — Answered
 
 In the coupled meaning–influence model linearized at its symmetric state, when is the symmetric state unstable, and does scoring endorsement independently of the interpretation remove the instability?
@@ -4917,7 +4933,7 @@ Industry can bias a scientific community toward a worse treatment without corrup
 
 Deep responsibility is not limited to the moral, and attributability and accountability are independent kinds of it rather than two levels: accountability needs only that the agent acted as she ought not to, was in a position to know it, and that acting so was up to her, while what makes a self a fit target of the reactive attitudes is plausibly that it can perceive, understand and appreciate the world as we do
 
-2 citations in 1 file await a look; 10 other citations of it are acknowledged.
+2 citations in 1 file await a look; 11 other citations of it are acknowledged.
 
 - [`record/questions.d/QUESTION-068.md:22`](../../record/questions.d/QUESTION-068.md)
 - [`record/questions.d/QUESTION-068.md:41`](../../record/questions.d/QUESTION-068.md)
@@ -6460,7 +6476,7 @@ A self-model compresses the sensory effects of a system's own activity by positi
 
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-355.md:236`](../../record/claims.d/CLAIM-355.md)
+- [`record/claims.d/CLAIM-355.md:237`](../../record/claims.d/CLAIM-355.md)
 
 ### [THEORY-875](../../record/theory.d/THEORY-875.md) — Proposed
 
@@ -6476,7 +6492,7 @@ Learning a generative model of sensory data extracts real patterns in Dennett's 
 
 1 citation in 1 file awaits a look; 4 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-355.md:236`](../../record/claims.d/CLAIM-355.md)
+- [`record/claims.d/CLAIM-355.md:237`](../../record/claims.d/CLAIM-355.md)
 
 ### [THEORY-878](../../record/theory.d/THEORY-878.md) — Proposed
 

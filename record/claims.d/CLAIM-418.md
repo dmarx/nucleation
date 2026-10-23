@@ -27,7 +27,7 @@ uses:
 complements:
 - CLAIM-417
 - CLAIM-430
-- CLAIM-tmpi98gg
+- CLAIM-432
 works:
 - organization-of-perspective
 - self-without-a-sovereign
@@ -41,7 +41,7 @@ summary: >-
   of practical significance is an agent. It leaves A38's other half, that
   every rich exercise of agency involves such an organization, as open.
 supports:
-- CLAIM-tmp4d358
+- CLAIM-431
 ---
 <!-- inactive-ok-file: CLAIM-275 CLAIM-417 CLAIM-424 TERM-063 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 

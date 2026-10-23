@@ -1,5 +1,8 @@
 ---
+number: 892
 status: Proposed
+formerly:
+- THEORY-tmp036dt
 promote_when: >-
   The four-factor structure under one superordinate factor replicated in
   samples and by researchers independent of the instrument's author, and
@@ -15,9 +18,9 @@ tags:
 - psychometrics
 date: '2026-10-23'
 source:
-- LIT-tmp57loc
+- LIT-1428
 summary: >-
-  Hare and Neumann (2008), read in [NOTE-tmp1fxmh](../notes.d/NOTE-tmp1fxmh.md). The PCL-R's twenty
+  Hare and Neumann (2008), read in [NOTE-1094](../notes.d/NOTE-1094.md). The PCL-R's twenty
   items load on four correlated factors, which pair into Factor 1
   (interpersonal, affective) and Factor 2 (lifestyle, antisocial) and are
   explained by one superordinate factor. The affective features are tied
@@ -26,19 +29,19 @@ summary: >-
   the record's question on corporate psychopathy, which asks which of
   these features could be said of a corporation.
 supports:
-- CLAIM-tmp4d358
-- CLAIM-tmpi98gg
+- CLAIM-431
+- CLAIM-432
 ---
-<!-- inactive-ok-file: CLAIM-tmp4d358 CLAIM-tmpi98gg — Proposed; the record's own claims this reading bears on, filed in this batch -->
-<!-- inactive-ok-file: LIT-tmp8tm3e LIT-tmpcyd6d — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
+<!-- inactive-ok-file: CLAIM-431 CLAIM-432 — Proposed; the record's own claims this reading bears on, filed in this batch -->
+<!-- inactive-ok-file: LIT-1430 LIT-1431 — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
-# THEORY-tmp036dt: Psychopathy as the PCL-R measures it is one dimensional construct rather than a type: its items form four correlated factors, interpersonal, affective, lifestyle and antisocial, explained by one superordinate factor, and its affective features are tied psychometrically, genetically and longitudinally to its antisocial ones, so that no one component is its essence
+# THEORY-892: Psychopathy as the PCL-R measures it is one dimensional construct rather than a type: its items form four correlated factors, interpersonal, affective, lifestyle and antisocial, explained by one superordinate factor, and its affective features are tied psychometrically, genetically and longitudinally to its antisocial ones, so that no one component is its essence
 
 ## Source
 
 Hare and Neumann (2008), "Psychopathy as a clinical and empirical
 construct", *Annual Review of Clinical Psychology* 4:217–246
-([LIT-tmp57loc](../literature.d/LIT-tmp57loc.md)), read in full in [NOTE-tmp1fxmh](../notes.d/NOTE-tmp1fxmh.md). Hare receives royalties
+([LIT-1428](../literature.d/LIT-1428.md)), read in full in [NOTE-1094](../notes.d/NOTE-1094.md). Hare receives royalties
 from the PCL-R (p. 240).
 
 ## What was actually shown
@@ -85,7 +88,7 @@ than a dimension.
   on. Much of the evidence is forensic, and several antisocial items
   read criminal history.
 - Anything about corporations. Its bearing on the record's question is
-  the record's inference, in [CLAIM-tmpi98gg](../claims.d/CLAIM-tmpi98gg.md). If a corporation's affect
+  the record's inference, in [CLAIM-432](../claims.d/CLAIM-432.md). If a corporation's affect
   is read functionally ([CLAIM-039](../claims.d/CLAIM-039.md)), its affective items can be assigned
   from its record, as the PCL-R itself scores them from interview and
   case history; and since no component is the essence, a corporation
@@ -97,7 +100,7 @@ than a dimension.
 
 ## Connections
 
-The record's question on corporate psychopathy ([QUESTION-tmpik08u](../questions.d/QUESTION-tmpik08u.md)), its
-reading ([CLAIM-tmpi98gg](../claims.d/CLAIM-tmpi98gg.md)) and the objection to it ([CLAIM-tmp4d358](../claims.d/CLAIM-tmp4d358.md)). Bakan's
-*The Corporation* ([LIT-tmp8tm3e](../literature.d/LIT-tmp8tm3e.md)) applies the checklist to the corporation;
-Boddy ([LIT-tmpcyd6d](../literature.d/LIT-tmpcyd6d.md)) applies it to people in corporations.
+The record's question on corporate psychopathy ([QUESTION-265](../questions.d/QUESTION-265.md)), its
+reading ([CLAIM-432](../claims.d/CLAIM-432.md)) and the objection to it ([CLAIM-431](../claims.d/CLAIM-431.md)). Bakan's
+*The Corporation* ([LIT-1430](../literature.d/LIT-1430.md)) applies the checklist to the corporation;
+Boddy ([LIT-1431](../literature.d/LIT-1431.md)) applies it to people in corporations.
