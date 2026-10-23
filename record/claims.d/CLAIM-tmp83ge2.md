@@ -30,13 +30,13 @@ grounds:
 - LIT-tmp4b7d6
 summary: >-
   A consequence of the owner's reframing of valence as ordering-dominance
-  (CLAIM-tmpz8lli). THEORY-101 records that its rivalry with ALARM "would
+  ([CLAIM-tmpz8lli](CLAIM-tmpz8lli.md)). [THEORY-101](../theory.d/THEORY-101.md) records that its rivalry with ALARM "would
   dissolve if ALARM's "100% weight" were recast as a weight in a common
   currency rather than an override of it." It is recast instead: both
   are dominance by an ordering, compensatory or overriding, and the
   trade-off test separates them by continuity. Corrected on reading
   Debreu before filing: a threshold override still has a (discontinuous)
-  currency; only a graded override has none (CLAIM-tmp85p0g, part 3a).
+  currency; only a graded override has none ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md), part 3a).
 ---
 <!-- inactive-ok-file: THEORY-090 THEORY-101 CLAIM-tmpz8lli CLAIM-tmp85p0g — Proposed; the accounts whose rivalry this recasts and the claims it rests on, cited as open -->
 
@@ -44,20 +44,20 @@ summary: >-
 
 ## The claim
 
-THEORY-101 and THEORY-090 are declared rivals on what the first
+[THEORY-101](../theory.d/THEORY-101.md) and [THEORY-090](../theory.d/THEORY-090.md) are declared rivals on what the first
 consciousness did. For Veit it weighs options in a common currency. For
 ALARM it gives an extreme signal "100% weight" through behavioural
-programmes whose cost avoidance "does not involve a choice". THEORY-101's
+programmes whose cost avoidance "does not involve a choice". [THEORY-101](../theory.d/THEORY-101.md)'s
 body names the condition under which the rivalry would dissolve: "if
 ALARM's "100% weight" were recast as a weight in a common currency rather
 than an override of it."
 
-On the owner's reframing (CLAIM-tmpz8lli) both are dominance by an
+On the owner's reframing ([CLAIM-tmpz8lli](CLAIM-tmpz8lli.md)) both are dominance by an
 ordering of the animal's own states.
 - **Veit's currency is compensatory dominance.** The dominant ordering
   trades off against the others in proportion: a larger resource buys a
   larger cost. As an ordering of cost–resource pairs it is continuous,
-  and has a continuous numerical representation (CLAIM-tmp85p0g,
+  and has a continuous numerical representation ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md),
   part 3).
 - **ALARM's override is overriding dominance.** Past a threshold the
   alarm decides, and other concerns decide at most its ties. ALARM's "no
@@ -65,11 +65,11 @@ ordering of the animal's own states.
   option at the top.
 
 Whether the override has a currency depends on its form
-(CLAIM-tmp85p0g, part 3a).
+([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md), part 3a).
 - **A threshold override**, alarm on or off, ranks everything above the
   threshold below everything under it. It has a currency, a
   discontinuous one: in that form it *is* an extreme weight, and
-  THEORY-101's dissolution goes through.
+  [THEORY-101](../theory.d/THEORY-101.md)'s dissolution goes through.
 - **A graded override**, the alarm deciding at every level of its own
   intensity with other concerns breaking only exact ties, has no
   currency at all. In that form the rivalry does not dissolve.
@@ -81,7 +81,7 @@ any currency remains.
 
 ## The test
 
-THEORY-101's promote_when names the experiment: "an animal accepting a
+[THEORY-101](../theory.d/THEORY-101.md)'s promote_when names the experiment: "an animal accepting a
 noxious cost for a resource, in proportion to both". Fit the animal's
 choices between cost–resource pairs.
 - **Veit predicts** a continuous indifference curve: for every cost some
@@ -92,7 +92,7 @@ choices between cost–resource pairs.
   graded one.
 - **A realistic override has a third signature.** If the alarm decides
   only past a discrimination threshold, the rule is a lexicographic
-  semiorder (CLAIM-tmp85p0g, part 3b), and a chain of options each a
+  semiorder ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md), part 3b), and a chain of options each a
   little costlier and a little richer than the last produces cyclic
   choices: each step taken, the endpoints reversed. Tversky's
   intransitivity experiments are the design. Cycles are evidence for an
@@ -109,7 +109,7 @@ be separate mechanisms, which is the first defeater.
 - That either account is right about the origin of consciousness, or
   that either regime is felt. The recasting is functional.
 - That the mathematical contrast settles the empirical one. A finite set
-  of tested pairs can always be fitted by a currency (CLAIM-tmp85p0g,
+  of tested pairs can always be fitted by a currency ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md),
   part 1), so the test needs enough pairs to tell a steep curve from a
   discontinuity, and a design showing that the discontinuity does not
   move with the size of the resource.

@@ -66,9 +66,9 @@ such u exists.
 **3. A continuous ordering is a currency.** A complete preorder on a
 connected, separable topological space whose upper and lower contour sets
 are closed has a continuous real-valued representation. The theorem is
-essentially Eilenberg's (1941); Debreu (1954, LIT-tmpin6y6) removed the
+essentially Eilenberg's (1941); Debreu (1954, [LIT-tmpin6y6](../literature.d/LIT-tmpin6y6.md)) removed the
 connectedness assumption for second-countable spaces, and states both in
-*Theory of Value* (1959, LIT-tmp1hbb9, read in NOTE-tmpsug0b, pp. 56,
+*Theory of Value* (1959, [LIT-tmp1hbb9](../literature.d/LIT-tmp1hbb9.md), read in [NOTE-tmpsug0b](../notes.d/NOTE-tmpsug0b.md), pp. 56,
 72–73), with the lexicographic order of R² as his example of a complete
 preordering that "cannot be represented by a real-valued function"
 (p. 72). The lexicographic order of part 2 fails the hypothesis: its
@@ -121,13 +121,13 @@ each instant.
 - **Where magnitudes are continuous**, as in the trade-off experiments
   Veit's criterion uses (a noxious cost against a resource, in proportion
   to both), "admits an ordering" is strictly weaker than "admits a
-  currency". A continuous trade-off, Veit's form (THEORY-101), has a
-  continuous currency. An override, ALARM's "100% weight" (THEORY-090),
+  currency". A continuous trade-off, Veit's form ([THEORY-101](../theory.d/THEORY-101.md)), has a
+  continuous currency. An override, ALARM's "100% weight" ([THEORY-090](../theory.d/THEORY-090.md)),
   has no currency if it is graded, the alarm deciding at every level of
   its own intensity; an exact threshold override has a discontinuous
   one; and a threshold override with a discrimination threshold, the
   realistic case, admits no ordering at all over a chain of nearby
-  options, and shows itself as cycles in choice (part 3b). CLAIM-tmp83ge2 draws the consequence for their
+  options, and shows itself as cycles in choice (part 3b). [CLAIM-tmp83ge2](CLAIM-tmp83ge2.md) draws the consequence for their
   rivalry.
 
 ## What it does not say
@@ -138,8 +138,8 @@ each instant.
 - That every override lacks a currency. An exact threshold override
   has one (part 3a); with a discrimination threshold it has no ordering
   (part 3b).
-- That a negotiation always produces an ordering. It need not (THEORY-027,
-  CLAIM-353); that is a separate fact, used in CLAIM-tmpz8lli.
+- That a negotiation always produces an ordering. It need not ([THEORY-027](../theory.d/THEORY-027.md),
+  [CLAIM-353](CLAIM-353.md)); that is a separate fact, used in [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md).
 - That anything here is new mathematics. Parts 1 to 3b are textbook
   results of utility theory (Eilenberg; Debreu; Luce; Tversky), written
   out so the record can check them.
