@@ -87,9 +87,9 @@ corporation psychopathy's conduct but not its affect: "one of the
 specific things our framework equips us to do is to assign affect to
 corporation-like things." That is the decision the note of 2026-10-18
 left to the owner, so the claim is Proposed again. Its first use is
-CLAIM-tmpi98gg, which assigns functional remorse, or its absence, to a
+[CLAIM-tmpi98gg](CLAIM-tmpi98gg.md), which assigns functional remorse, or its absence, to a
 corporation by asking whether harm to others is among the concerns its
 own appraisals track. The difficulty the note of 2026-10-12 named,
-THEORY-101's identification of valence with a felt state, is still the
-objection to answer first; CLAIM-tmpi98gg names it in its defeater.
+[THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a felt state, is still the
+objection to answer first; [CLAIM-tmpi98gg](CLAIM-tmpi98gg.md) names it in its defeater.
 

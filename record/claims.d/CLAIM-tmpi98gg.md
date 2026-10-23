@@ -48,7 +48,7 @@ summary: >-
   The record's reading of Bakan's "institutional psychopath", filed at the
   owner's request on 2026-10-23 and revised the same day when the owner
   pointed out that the record's framework assigns affect to
-  corporation-like things (CLAIM-039, reopened). On Frijda's account an
+  corporation-like things ([CLAIM-039](CLAIM-039.md), reopened). On Frijda's account an
   emotion is an appraisal of an event's pertinence to a concern, eliciting
   action readiness with control precedence; a corporation has concerns,
   appraisals and readiness. A harm to others reaches its decisions either
@@ -56,7 +56,7 @@ summary: >-
   and remorse) or as a threat to its other concerns (regulators, markets:
   functional fear). A corporation with only the second is functionally
   psychopathic across the construct, not in part. Wells Fargo's sales
-  practices (CASE-tmpuxgzy) are its documented case.
+  practices ([CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md)) are its documented case.
 objected_by:
 - CLAIM-tmp4d358
 ---
@@ -68,17 +68,17 @@ objected_by:
 ## The claim
 
 1. **Agent and responsible.** A corporation whose decision structure
-   makes members' acts its own is an agent (French, THEORY-131), and one
+   makes members' acts its own is an agent (French, [THEORY-131](../theory.d/THEORY-131.md)), and one
    that forms its own judgments by authorised avowal is fit to be held
-   responsible (Pettit, THEORY-139). Its reasons need not be any member's
-   (CLAIM-271).
+   responsible (Pettit, [THEORY-139](../theory.d/THEORY-139.md)). Its reasons need not be any member's
+   ([CLAIM-271](CLAIM-271.md)).
 
-2. **A bearer of functional affect.** On Frijda's account (THEORY-055),
+2. **A bearer of functional affect.** On Frijda's account ([THEORY-055](../theory.d/THEORY-055.md)),
    an emotion is an appraisal of an event's pertinence to a concern,
    which elicits a state of action readiness with control precedence.
-   Nothing in that needs a felt state (CLAIM-039), and in a distributed
+   Nothing in that needs a felt state ([CLAIM-039](CLAIM-039.md)), and in a distributed
    agent the binding of appraisal, readiness and governance into one
-   response can be real (CLAIM-355). A corporation has all three parts.
+   response can be real ([CLAIM-355](CLAIM-355.md)). A corporation has all three parts.
    Its concerns are what its structure maintains: a sales model, a
    growth rate, a regulatory standing. Its appraisals are the processes
    that classify events as bearing on them. Its readiness is the response
@@ -88,7 +88,7 @@ objected_by:
    The clinical construct licenses this reading of its own affective
    items. The PCL-R is scored from "a semistructured interview, case
    history information, and specific scoring criteria" (Hare and
-   Neumann, p. 219; THEORY-tmp036dt): from what a person does and says,
+   Neumann, p. 219; [THEORY-tmp036dt](../theory.d/THEORY-tmp036dt.md)): from what a person does and says,
    not from access to what they feel. A corporation's record is evidence
    of the same kind.
 
@@ -96,7 +96,7 @@ objected_by:
    others can reach its decisions by two kinds of route.
    - **As its own concern.** A decision procedure that weighs the harm,
      or members' role duties to use their roles toward the corporation
-     doing its duty (Collins, LIT-tmp3qow8), make the harm pertinent in
+     doing its duty (Collins, [LIT-tmp3qow8](../literature.d/LIT-tmp3qow8.md)), make the harm pertinent in
      itself. Appraised as the corporation's own doing, it elicits
      readiness to repair and restrain. That is functional remorse, and
      with others' distress as the concern, functional empathy.
@@ -110,8 +110,8 @@ objected_by:
    incapable of anxiety as of profound remorse", and Hare and Neumann
    note that psychopaths experience tension and that the role of fear and
    anxiety in the construct is unsettled (pp. 228–229). The distinction
-   joins CLAIM-283's (the precedence a process claims against the
-   authority it is granted) and CLAIM-349's (access to a signal against
+   joins [CLAIM-283](CLAIM-283.md)'s (the precedence a process claims against the
+   authority it is granted) and [CLAIM-349](CLAIM-349.md)'s (access to a signal against
    its authority over action): a corporation can hold a signal of its
    harm, and the signal can claim precedence, without being granted it.
 
@@ -124,7 +124,7 @@ objected_by:
    orientation, irresponsibility, poor behavioural controls. The
    developmental items (early behaviour problems, juvenile delinquency)
    have no counterpart. Since the construct is one dimension with no
-   essential component (THEORY-tmp036dt), a corporation matching across
+   essential component ([THEORY-tmp036dt](../theory.d/THEORY-tmp036dt.md)), a corporation matching across
    both factors falls under it to a degree. It is not merely nearer the
    behaviour-led diagnosis, which is where the first version of this
    claim put it before the owner's correction.
@@ -134,13 +134,13 @@ objected_by:
    species norm, but it has an attainable comparison: corporations whose
    procedures and role duties make others' harms their concern. So the
    remedy is to change the corporation's concerns, not to find members
-   with better character, which its reasons need not reflect (CLAIM-271).
+   with better character, which its reasons need not reflect ([CLAIM-271](CLAIM-271.md)).
    Sanction alone produces compliance by fear. The claim predicts that a
    corporation changed only by sanction reverts when the sanction lifts,
    and one whose concerns were redesigned does not. That is its test.
 
 **The documented case.** Wells Fargo's Community Bank, 2002–2016
-(CASE-tmpuxgzy, from the board's own investigation), read through the
+([CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md), from the board's own investigation), read through the
 claim:
 - **Concerns.** The sales model and its growth. "Customer harm" was
   "narrowly construed to mean only financial harm such as fees and
@@ -162,8 +162,8 @@ claim:
 
 ## What it does not say
 
-- That a corporation feels anything. The affect is functional (CLAIM-039;
-  whether functional valence must be felt is QUESTION-059, Deferred).
+- That a corporation feels anything. The affect is functional ([CLAIM-039](CLAIM-039.md);
+  whether functional valence must be felt is [QUESTION-059](../questions.d/QUESTION-059.md), Deferred).
 - That a corporation is not responsible. Pettit's conditions ask for
   normative judgment and control, which a corporation without remorse can
   still meet; so can a psychopath.

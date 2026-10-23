@@ -50,8 +50,8 @@ them.
    the record addresses remorse, guilt or empathy in a corporation.
 
 The third premise is where "psychopathic" gets its force. The record's
-own framework bears on it: CLAIM-039, reopened by the owner on
-2026-10-23, characterizes affect functionally, after Frijda (THEORY-055),
+own framework bears on it: [CLAIM-039](../claims.d/CLAIM-039.md), reopened by the owner on
+2026-10-23, characterizes affect functionally, after Frijda ([THEORY-055](../theory.d/THEORY-055.md)),
 as an appraisal of an event's pertinence to a concern eliciting action
 readiness, and so lets affect be assigned to a corporation. The owner:
 "one of the specific things our framework equips us to do is to assign
