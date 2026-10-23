@@ -196,9 +196,9 @@ people who could act:
 
 The report cites no literature. It is a primary document of corporate
 self-investigation. Its account of structure and culture can be read
-against French's corporate decision structure (THEORY-131) and Pettit's
-conversable corporation (THEORY-139). It is the source of the documented
-case CASE-tmpuxgzy.
+against French's corporate decision structure ([THEORY-131](../theory.d/THEORY-131.md)) and Pettit's
+conversable corporation ([THEORY-139](../theory.d/THEORY-139.md)). It is the source of the documented
+case [CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md).
 
 ## Bearing on the record
 
@@ -214,7 +214,7 @@ It also complicates the half of the reading on which nothing in the
 corporation registers the costs it imposes. The company did register them, in its investigators' 2004 report,
 its HR project of 2011–2012, its regional leaders' objections and its
 EthicsLine data. What failed was the route from those signals to anyone
-with authority, and the authority to act on them. That is CLAIM-349's
+with authority, and the authority to act on them. That is [CLAIM-349](../claims.d/CLAIM-349.md)'s
 separation of access, authority and action, documented in one firm. The
 report does not attribute the harm to the pursuit of profit as such. The
 leaders it faults were protecting a sales model and its growth figures

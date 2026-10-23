@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpzfehu): in full, all 110 numbered pages and the front matter, from a copy of the bank''s own PDF. Worth reading as the board''s own account of where the harm in the Wells Fargo sales-practices episode came from. It locates the root cause in the Community Bank''s sales model, performance management and pressure, in a decentralized structure that deferred to the business line, and in control functions that saw cases one at a time. It names and sanctions individual leaders too. It is the company''s report on itself, commissioned by its independent directors.'
+status_note: 'read 2026-10-23 ([NOTE-tmpzfehu](../notes.d/NOTE-tmpzfehu.md)): in full, all 110 numbered pages and the front matter, from a copy of the bank''s own PDF. Worth reading as the board''s own account of where the harm in the Wells Fargo sales-practices episode came from. It locates the root cause in the Community Bank''s sales model, performance management and pressure, in a decentralized structure that deferred to the business line, and in control functions that saw cases one at a time. It names and sanctions individual leaders too. It is the company''s report on itself, commissioned by its independent directors.'
 title: 'Sales Practices Investigation Report'
 version: 1
 history:
@@ -85,9 +85,9 @@ Consulting — [PDF](https://lowellmilkeninstitute.law.ucla.edu/wp-content/uploa
 Filed on 2026-10-23 at the owner's request, beside the thesis that a
 corporation is a "psychopathic" entity (Bakan). The record reads that
 thesis more narrowly. On that reading a corporation can be an agent fit to
-be held responsible (THEORY-131, THEORY-139), and its structure and
+be held responsible ([THEORY-131](../theory.d/THEORY-131.md), [THEORY-139](../theory.d/THEORY-139.md)), and its structure and
 incentives, not any member's character, fix what it pursues. Nothing in it
 registers the costs it imposes unless procedures, regulators or markets
 supply that. This report is the record's documented case of that reading,
-filed as a CASE (CASE-tmpuxgzy). It is the company's account of itself,
+filed as a CASE ([CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md)). It is the company's account of itself,
 not an outside finding, and the reading says what follows from that.
