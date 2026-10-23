@@ -38,6 +38,8 @@ summary: >-
   in a footnote. The formal part (Table 1) is a hierarchy with layer-wise
   precision hyper-parameters, from which none of the properties the text
   gives epistemic depth is derived.
+supports:
+- CLAIM-tmptd5us
 ---
 <!-- inactive-ok-file: CLAIM-412 CLAIM-411 TERM-072 THEORY-063 — Proposed; the claims, terms and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-883 THEORY-876 — Proposed; filed in the same batch, named -->

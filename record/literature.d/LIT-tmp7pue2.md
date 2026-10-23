@@ -1,0 +1,100 @@
+---
+status: Active
+status_note: 'read 2026-10-23 ([NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md)): in full, from arXiv 1005.2405v2 (45 pp.). Every finite game in strategic form splits uniquely into a potential, a harmonic and a nonstrategic component. The split pulls back the Helmholtz decomposition of the flow of unilateral payoff differences on the game graph. Potential games are exactly the games with no harmonic component. Harmonic games generically have no pure equilibrium. The nearest potential game, in a weighted l2 norm, is given in closed form. It is the paper behind the record''s measure of a potential''s share of a negotiation, and it shows that the share is cardinal.'
+title: 'Flows and Decompositions of Games: Harmonic and Potential Games'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: arXiv 1005.2405v2 (25 June 2010), §§1–7. Details checked
+    against Crossref (DOI 10.1287/moor.1110.0500: Mathematics of Operations
+    Research 36(3):474–503, August 2011) and the arXiv record, whose
+    journal reference matches. `published:` is the arXiv v1 date. The
+    published version was not seen, so page numbers are the arXiv
+    version's printed ones and its result numbering may differ from the
+    journal's. No duplicate was found in literature.d by title, DOI, arXiv
+    id or author.
+tags:
+- game-theory
+- mathematics
+- network-science
+- anthology-candidate
+date: '2026-10-23'
+published: '2010-05-13'
+arxiv: '1005.2405'
+doi: '10.1287/moor.1110.0500'
+first_author: 'Candogan'
+keywords:
+- 'decomposition of games'
+- 'potential games'
+- 'harmonic games'
+- 'strategic equivalence'
+implementations: []
+summary: >-
+  Candogan, Menache, Ozdaglar & Parrilo (2011), Mathematics of Operations
+  Research 36:474–503. The space of finite games is a direct sum P ⊕ H ⊕ N
+  of potential, harmonic and nonstrategic subspaces (Theorem 4.1), pulled
+  back from the Helmholtz decomposition of the game graph's flow of
+  unilateral payoff differences. Potential games are P ⊕ N (Theorem 5.1).
+  Harmonic games, such as rock–paper–scissors, generically have no pure
+  equilibrium, and the closest potential game is given in closed form
+  under a weighted l2 norm (Theorem 6.2).
+extends:
+- LIT-tmpp4esg
+---
+<!-- inactive-ok-file: LIT-tmpp4esg — Unavailable, unread; Monderer and Shapley 1996, whose potential games this paper decomposes -->
+<!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli QUESTION-tmpsqwu5 THEORY-tmp4zhyp — Proposed, Open or draft; the term, claim and question this reading bears on, and the reading filed with it -->
+
+# LIT-tmp7pue2: Flows and Decompositions of Games: Harmonic and Potential Games
+
+Ozan Candogan, Ishai Menache, Asuman Ozdaglar and Pablo A. Parrilo (2011),
+*Mathematics of Operations Research* 36(3):474–503 —
+DOI-10.1287/moor.1110.0500, [ARXIV-1005.2405](https://arxiv.org/abs/1005.2405)
+
+## Key takeaways
+
+- **A game is a flow.** The game graph has a node for each strategy
+  profile and an edge between two profiles that differ in one player's
+  strategy. The deviating player's payoff difference is a flow on it. The
+  flow discards nonstrategic information but keeps "all relevant strategic
+  aspects (e.g., equilibria)" (p. 1). Games with the same flow are
+  "strategically equivalent" (p. 7).
+- **Helmholtz decomposition** (Theorem 3.1, p. 11). Any edge flow splits
+  orthogonally into a gradient part (globally consistent), a harmonic part
+  (locally consistent, globally inconsistent) and a curl part (locally
+  inconsistent). A game's flow has no curl part, because "The flow
+  representation of a game defined in terms of utility functions (as
+  opposed to preferences) does not exhibit local cycles" (p. 1), so its
+  inconsistency is all harmonic.
+- **Decomposition of games** (Theorem 4.1, pp. 17–18). The space of games
+  "is a direct sum of the potential, harmonic and nonstrategic subspaces",
+  with closed-form components and potential φ = δ₀†Du. The potential is
+  the function whose gradient "approximates the flow in the original game
+  (Du), in the best possible way" (p. 19). The decomposition is canonical:
+  "the definitions of the subspaces do not rely on the inner product"
+  (p. 19).
+- **Potential and harmonic games** (§5). "The set of potential games is
+  equal to the subspace P ⊕ N" (Theorem 5.1, p. 22). Harmonic games have
+  no potential component. In them, at a pure equilibrium "all players are
+  indifferent between all of their strategies" (Lemma 5.1, p. 23), and so
+  "Harmonic games generically do not have pure Nash equilibria"
+  (Proposition 5.1, p. 23). The uniformly mixed profile is always an
+  equilibrium of a harmonic game (Theorem 5.4).
+- **Projection** (§6). Under the weighted inner product (55), P, H and N
+  are orthogonal (Theorem 6.1). "The closest potential game to G has
+  utilities Πm φ + (I − Πm )um" (Theorem 6.2, p. 36). Its ε-equilibria
+  bound the original game's (Theorem 6.3).
+- **Interpretation.** "the potential component of a game captures
+  interactions that can equivalently be represented as a common interest
+  game, while the harmonic part represents the conflicts between the
+  interests of the players" (abstract).
+
+## Standing in the record
+
+Filed on 2026-10-23 at the owner's request, as the formal ground for
+renaming "ascendancy" to "potential" ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)) and
+for measuring it ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). Read in [NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md), whose
+bearing section says where the reading fits and where it does not. The
+decomposition theorem is [THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md), with Jiang et al.
+([LIT-tmp54cwg](LIT-tmp54cwg.md)).

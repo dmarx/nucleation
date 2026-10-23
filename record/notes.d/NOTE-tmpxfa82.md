@@ -1,0 +1,254 @@
+---
+status: Read
+paper: LIT-tmp7pue2
+title: 'Flows and Decompositions of Games: Harmonic and Potential Games'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: arXiv 1005.2405v2, §§1–7. Page numbers are the arXiv
+    version's printed ones, one less than the PDF's page index, since the
+    title page is unnumbered. Every quotation was checked by script against
+    the pdftotext extraction. Two checks in the bearing section were run in
+    the record and are marked as the record's.
+date: '2026-10-23'
+summary: >-
+  A finite game is read as a flow, the unilateral payoff differences on
+  the graph of strategy profiles, and the Helmholtz decomposition of that
+  flow splits the game uniquely into potential, harmonic and nonstrategic
+  parts. Potential games are those with no harmonic part. Harmonic games,
+  the pure-conflict part, generically have no pure equilibrium. The
+  nearest potential game is a closed-form l2 projection.
+---
+<!-- inactive-ok-file: LIT-tmpp4esg THEORY-tmpj4ciq — Unavailable, or draft; Monderer and Shapley 1996, unread, and the record's proof of its finite-improvement lemma -->
+<!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli CLAIM-tmp85p0g QUESTION-tmpsqwu5 CLAIM-283 THEORY-055 — Proposed or Open; the term, claims and question this reading bears on, cited as open -->
+
+# NOTE-tmpxfa82: Flows and Decompositions of Games: Harmonic and Potential Games
+
+## Contribution
+
+A canonical decomposition of every finite game in strategic form into a
+potential component, a harmonic component and a nonstrategic component.
+It is obtained by reading the game as a flow on a graph and applying the
+combinatorial Helmholtz decomposition. The paper names harmonic games as a
+class and studies their equilibria.
+
+## Key insight
+
+Equilibria depend only on unilateral payoff differences. Those differences
+form a flow on the graph whose edges are single-player deviations. Like
+any flow, it splits into a gradient part and a cyclic part. The gradient
+part is a potential game, "games in which the interests of the players are
+aligned with a global potential function φ" (p. 6). The cyclic part is
+pure conflict, "the conflicts between the interests of the players"
+(abstract).
+
+## Assumptions
+
+- **Finite games with real-valued utilities.** Everything is linear
+  algebra on payoff vectors (§2.1). Preferences without a utility are not
+  covered.
+- **Cardinal payoff differences.** The flow is u^m(q) − u^m(p) (eq. 4),
+  not its sign. The decomposition, and any share computed from it, change
+  under a monotone rescaling of a player's payoffs. Ordinal and weighted
+  potentials are set aside: "An extension to generalizations of potential
+  games (weighted and ordinal potential games) was considered in [5]"
+  (p. 37). That report was not read.
+- **Unilateral deviations only.** Edges join profiles that differ in "the
+  strategy of a single player" (p. 6). Joint moves do not enter.
+- **A chosen inner product for projection.** The subspaces are canonical,
+  since "the definitions of the subspaces do not rely on the inner product
+  in C0M" (p. 19). Orthogonality and the closest potential game hold under
+  (55), "a weighted version of the standard inner product" (p. 35). The
+  authors say other norms, such as an ∞-norm, would give other projections
+  (p. 37).
+
+## Key results
+
+- **Theorem 3.1 (Helmholtz Decomposition), p. 11.** "The vector space of
+  edge flows C1 admits an orthogonal decomposition C1 = im (δ0 ) ⊕ ker(∆1 )
+  ⊕ im (δ1∗ ), where ker(∆1 ) = ker(δ1 ) ∩ ker(δ0∗ )." (Transcribed from the extraction, with the display number (17) left out.
+  The prose sentence "The theorem implies that any graph flow
+  can be decomposed into three orthogonal flows" is verified verbatim.)
+- **Eq. (25), p. 14.** δ₁D = 0, so "the pairwise comparisons of games
+  belong to ker δ1" and have no locally inconsistent component. Every
+  3-clique of the game graph lies within one player's deviations. That is
+  the record's gloss: moves by two different players lead to profiles that
+  differ in two coordinates, and those are not adjacent.
+- **Theorem 4.1, pp. 17–18.** "The space of games GM,E is a direct sum of
+  the potential, harmonic and nonstrategic subspaces, i.e., GM,E = P ⊕ H ⊕
+  N." The components are uniquely u_P = D†δ₀δ₀†Du, u_H = D†(I − δ₀δ₀†)Du
+  and u_N = (I − D†D)u, and the potential of u_P is φ = δ₀†Du. Proof:
+  pull back the Helmholtz decomposition through D (Figure 6). The reader
+  followed the proof.
+- **Proposition 4.1, p. 19.** dim P = ∏h_m − 1, dim N = Σ_m ∏_{k≠m} h_k,
+  and dim H is the remainder.
+- **Theorem 5.1, p. 22.** "The set of potential games is equal to the
+  subspace P ⊕ N ." Theorem 5.2 restates Monderer and Shapley: a potential
+  game shares its equilibria with the game in which all players have
+  payoff φ, and has a pure equilibrium.
+- **Lemma 5.1 and Proposition 5.1, p. 23.** At a pure equilibrium of a
+  harmonic game "all players are indifferent between all of their
+  strategies". "Harmonic games generically do not have pure Nash
+  equilibria."
+- **Theorem 5.4.** In harmonic games the uniformly mixed profile is always
+  a Nash equilibrium.
+- **Theorems 6.1–6.3, pp. 35–36.** P ⊥ H ⊥ N under (55). "The closest
+  potential game to G has utilities Πm φ + (I − Πm )um for all m ∈ M." An
+  ε-equilibrium of the closest potential game is an approximate
+  equilibrium of G, within a bound set by the distance between them.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Every finite game decomposes uniquely as potential + harmonic + nonstrategic | strong | Theorem 4.1, proved |
+| C2 | A game is an exact potential game iff its harmonic component is zero | strong | Theorem 5.1 |
+| C3 | Harmonic games generically lack pure equilibria; the uniform mix is always an equilibrium | strong | Proposition 5.1, Theorem 5.4 |
+| C4 | The closest potential game, in a weighted l2 norm, is explicit, and its equilibria approximate the original's | strong | Theorems 6.2–6.3 |
+| C5 | Harmonic games "can be characterized by the existence of improvement cycles" (p. 3) | weak | stated in the introduction; not proved as an equivalence (see Bearing) |
+
+## Concepts
+
+- **game graph** — nodes are strategy profiles, and edges join profiles
+  that differ in one player's strategy.
+- **strategically equivalent** — having the same flow, and so the same
+  equilibria.
+- **potential / harmonic / nonstrategic component** — the gradient part,
+  the globally cyclic part, and the part that changes payoffs without
+  changing any player's incentives.
+- **harmonic game** — a game with no potential component. Matching
+  pennies and rock–paper–scissors are harmonic.
+
+## Connections
+
+Builds on Monderer and Shapley ([LIT-tmpp4esg](../literature.d/LIT-tmpp4esg.md), unread here) and cites Jiang
+et al. ([LIT-tmp54cwg](../literature.d/LIT-tmp54cwg.md)) as "the very interesting recent work" applying the
+Hodge decomposition to ranking (p. 8). The decomposition theorem is
+[THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md). The record's Lotka–Volterra reading, [CLAIM-369](../claims.d/CLAIM-369.md), meets
+the same split in continuous form, a gradient plus a non-potential part,
+and notes that there "the split depends on a chosen metric".
+
+## Bearing on the record
+
+The record wants "potential" to name the regime of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) and
+[CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md). In that regime one ordering prevails in the negotiation
+among a system's perspectives, and its intensity is the potential's share
+of the preference flow. This paper supplies the share. It fits in part.
+The parts that do not fit should shape the rename.
+
+**What fits.** Read the perspectives as players, each with its own
+ranking. The negotiation is then (approximately) a potential game when
+one function on outcomes rises with every move by which any perspective
+improves its own lot. That is a clean formal sense of "an ordering
+prevails" with no regulator above the perspectives. The potential is not
+imposed. It is what their separate incentives jointly track, which is
+[CLAIM-283](../claims.d/CLAIM-283.md)'s authority granted rather than claimed. It also matches
+Frijda's first mark, priority ([THEORY-055](../theory.d/THEORY-055.md)): every conflict resolved by a
+unilateral improvement is resolved in the potential's direction. The
+harmonic component is the formal opposite. It is conflict that no ordering
+absorbs, and it is the obvious candidate for the record's ambivalence. An
+observation of the record's, not the paper's: harmonic games have no pure
+equilibrium, and their always-available equilibrium is the uniform mix, at
+which "all players are indifferent". That is the evaluative space model's
+point, which [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) §4 takes up: ambivalence can look like
+neutrality from outside.
+
+**Where it does not fit, 1: unilateral deviations, not a collective
+choice.** The game graph's nodes are joint profiles, and each edge is one
+player changing *its own* coordinate. A potential game is a statement
+about how individual incentives cohere. It is not a rule that takes a
+profile of rankings to a collective relation R_t, which is how
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) defines the negotiation. The two match only where the
+organization's choice is factored into jurisdictions, each perspective
+setting its own part of what the organization does. Sen's minimal
+liberalism ([THEORY-027](../theory.d/THEORY-027.md)), each person decisive over their own pair, is the
+social-choice analogue of such a factorization. Where the perspectives
+contest one indivisible choice from X_t, there is no product structure
+and no game graph in this paper's sense. The right tool there is a flow
+on the options themselves, which is Jiang et al.'s HodgeRank
+([NOTE-tmp7wl76](NOTE-tmp7wl76.md)), not this decomposition. The record should say which
+of the two it means. They answer different questions: whether
+perspectives' incentives cohere, and whether the system's decisions
+cohere.
+
+**Where it does not fit, 2: the potential is nobody's ranking.** In a
+potential game no player's payoff need equal φ. So "a potential exists"
+is the analogue of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s *common currency*, an ordering the
+negotiation admits. It is not the analogue of a *particular* ranking ≿_v
+prevailing. Valence on the record's account needs the further fact that
+φ ranks outcomes as ≿_v does, the system's maintenance ordering. The
+rename should keep "whether there is a potential" apart from "whose
+ranking the potential is". Otherwise "potential" will quietly absorb part
+2 of [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) into part 3.
+
+**The analogy needs a dynamics.** Being a potential game is a static fact
+about incentives. "Prevails in the dynamics" needs a process.
+Better-response dynamics, one perspective at a time making some improving move,
+is the natural one. Monderer and Shapley's finite improvement property
+([THEORY-tmpj4ciq](../theory.d/THEORY-tmpj4ciq.md)) is exactly the statement that every such process stops.
+It stops at a pure equilibrium, which is a local maximum of φ, not
+necessarily its global top. So "prevails" licenses "every move climbs it",
+not "the system reaches its best state". The record's own check: with
+simultaneous moves, even an exact potential game can cycle. In the 2×2
+coordination game started off the diagonal, both players switch at once,
+forever. Persistence and resumption (Frijda's other two marks) are
+therefore properties of the dynamics the record pairs with the potential,
+not of the potential. The paper treats dynamics only in its outlook
+("such as fictitious play, best-response dynamics (and their variants)
+converges in potential games", p. 23).
+
+**Is the gradient share a defensible intensity?** Only with two
+qualifications.
+
+- *It measures distance from an exact potential, not from an ordering.*
+  The record's check (2×2 games, coordination plus ε times matching
+  pennies, utilities normalized as in footnote 4): at ε = 1 the harmonic
+  component carries 61% of the squared norm, yet the game has no
+  improvement cycle at all. It has the FIP, and so a generalized ordinal
+  potential. So a large harmonic share is not ambivalence in the ordinal
+  sense, and the introduction's "characterized by the existence of
+  improvement cycles" (p. 3) cannot be read as an equivalence for games
+  with mixed components. Going the other way, a small harmonic part
+  added where the potential part is nearly flat can create improvement
+  cycles.
+- *It is cardinal and metric-dependent.* The flow is payoff differences,
+  and the projection uses the weighted inner product (55). A strictly
+  increasing rescaling of one perspective's payoffs leaves every ordinal
+  fact unchanged but moves the share. [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) says the record's
+  orderings need not be currencies. The share is defined only once each
+  perspective has been given one, and its value depends on which one.
+  [CLAIM-369](../claims.d/CLAIM-369.md) meets the same dependence on a metric.
+
+So the share can serve as intensity in the compensatory regime, where the
+perspectives' trade-offs are cardinal and their scales are fixed by
+something outside the measure. In general it cannot.
+
+**A lexicographic override.** On a finite set of options, a lexicographic
+override is an ordering like any other. It has an integer representation
+([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md), part 1), so it can be a potential in every sense, and
+the FIP holds. What it lacks is a *canonical* cardinal representation.
+Its harmonic share therefore depends on the arbitrary numbers chosen to
+represent it. On a continuum, which this finite-game paper does not
+cover, a graded lexicographic override has no real-valued representation
+at all. A negotiation governed by one would have no exact, weighted or
+ordinal potential in Monderer and Shapley's real-valued sense, even
+though one ordering plainly prevails. If the term is to cover ALARM-style
+override ([CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)), "potential" must be read ordinally, as "no
+improvement cycles" or an order-valued potential, not as a real function.
+The rename should say so.
+
+## Limitations
+
+The decomposition depends on cardinal utilities and on a chosen inner
+product for projection. Dynamics are left to companion reports [3, 5],
+which were not read. Only finite games are treated.
+
+## Open questions
+
+Whether an ordinal analogue of the decomposition exists that is invariant
+to monotone rescaling. If one does, it would be the measure the record
+needs. The paper's reference [5] (Candogan, Ozdaglar and Parrilo, a
+projection framework for near-potential games) addresses weighted and
+ordinal potentials and is the next thing to read.

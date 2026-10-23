@@ -39,6 +39,7 @@ summary: >-
   endorsement scheme. It does not say which wins.
 supports:
 - CLAIM-368
+- CLAIM-tmpz8lli
 ---
 <!-- inactive-ok-file: THEORY-055 THEORY-056 CLAIM-027 — Proposed or Deferred; open claims, unread works and readings cited as open, nothing here rests on their being settled -->
 

@@ -1,0 +1,98 @@
+---
+status: Active
+status_note: 'read 2026-10-23 ([NOTE-tmpyz7qv](../notes.d/NOTE-tmpyz7qv.md)): in full, from the authors'' arXiv preprint (2010.11370v1, October 2020). Worth reading only as the behavioural groundwork for the later fMRI study ([LIT-tmp9qnrb](LIT-tmp9qnrb.md)). Crowdworkers rated 39 CoreGRID items and 10 discrete emotions after whole film clips (1,567 surveys, 99 clips). Six principal components emerged (action tendency, pleasant feeling, novelty, norms, arousal, goal relevance). Ordinal regression from all components predicted discrete-emotion ratings better than any single component. Personality traits correlated with componential items more than with feelings. It does not mention synchronization and measures nothing within an episode.'
+title: 'A Multi-Componential Approach to Emotion Recognition and the Effect of Personality'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: the authors' arXiv preprint (arXiv:2010.11370v1, 22
+    October 2020, 13 pp.), which carries the IEEE copyright line of the
+    accepted version. Page references are the preprint's. Tables and
+    figures were read in extraction. Details checked against Crossref
+    (DOI 10.1109/TAFFC.2020.3028109): Gelareh Mohammadi, Patrik
+    Vuilleumier, IEEE Transactions on Affective Computing 13(3):1127–1139.
+    The issue is dated July 2022, and OpenAlex gives 1 October 2020 for
+    online publication. The owner's citation gave 2020, the
+    early-access year; `published:` is Crossref's issue date. The
+    accepted manuscript is also in the Archive ouverte UNIGE
+    (unige:144760) and UNSWorks. Not checked against the Anthology of the
+    SOTA. Quotations checked by script against the extracted text.
+tags:
+- emotion-and-affect
+- psychometrics
+date: '2026-10-23'
+published: '2022-07-01'
+arxiv: '2010.11370'
+doi: '10.1109/TAFFC.2020.3028109'
+url: 'https://arxiv.org/abs/2010.11370'
+first_author: 'Mohammadi'
+keywords:
+- 'component process model'
+- 'CoreGRID'
+- 'emotion recognition'
+- 'film induction'
+- 'ordinal regression'
+- 'Big Five'
+- 'crowdsourcing'
+implementations: []
+summary: >-
+  Mohammadi & Vuilleumier (2022), IEEE Trans. Affective Computing
+  13:1127–1139 (online 2020). Crowdworkers rated 39 CoreGRID items and 10
+  discrete emotions after watching film clips (1,567 surveys, 99 clips).
+  Clustering of emotion profiles in componential space separates positive
+  from negative, then five clusters. PCA gives six dimensions beyond
+  valence and arousal. Ordinal regression on all components predicts
+  discrete-emotion ratings best; no single component suffices. Personality
+  correlates more with componential items than with feelings or discrete
+  emotions.
+---
+<!-- inactive-ok-file: NOTE-tmpyz7qv LIT-tmp9qnrb LIT-tmp5ejuc — drafts filed in the same tranche -->
+
+# LIT-tmp7rygg: A Multi-Componential Approach to Emotion Recognition and the Effect of Personality
+
+Gelareh Mohammadi & Patrik Vuilleumier (2022), *IEEE Transactions on
+Affective Computing* 13(3):1127–1139 — DOI-10.1109/TAFFC.2020.3028109
+
+## Key takeaways
+
+- **Data** (§III). 139 clips from the emotion-induction literature were
+  piloted, and 99 retained. Workers on CrowdFlower first rated their own
+  personality (BFI-10), then watched a clip and rated 39 CoreGRID items
+  across the five components and 14 discrete emotions (10 kept) on a
+  5-point scale. That gave 1,567 surveys from 617 workers, one rating per
+  whole clip.
+- **Structure** (§IV.A–B). A dendrogram of emotion profiles splits
+  positive from negative emotions, then gives five clusters (happiness,
+  serenity, distress, anger, surprise). "differences between various
+  emotions can be captured by a few (at least 6) latent dimensions"
+  (p. 1): action tendency, pleasant feeling, novelty, valuation of norms,
+  arousal and goal relevance.
+- **Prediction** (§IV.C). Ordinal regression from all components beats
+  every single component for every emotion, and "no single component is
+  enough to capture the difference of all categories" (p. 8). Without the
+  feeling items, prediction drops most for calm, sadness and satisfaction.
+- **Personality** (§IV.D). Neuroticism correlates with feeling bad and
+  with all negative emotions. Openness and conscientiousness correlate
+  negatively with most discrete emotions, and more strongly with
+  componential items, so "the role of personality on discrete emotion
+  differences can be better justified using the component model" (p. 1).
+- **Limits** (§V). Ratings are global per clip, induction is passive ("the
+  findings of this study, at best, applies to passive emotional
+  experience", p. 12), and physiology and expression are self-reported.
+
+## Standing in the record
+
+Filed on 2026-10-23 because the owner asked whether this Geneva-related
+work gives a per-episode measure of component synchronization
+([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). It does not. The word "synchronization" does not
+occur in it, and each clip yields one retrospective rating vector. See
+[NOTE-tmpyz7qv](../notes.d/NOTE-tmpyz7qv.md). Its value to the record is as the behavioural
+pilot for the fMRI study ([LIT-tmp9qnrb](LIT-tmp9qnrb.md)), whose design repairs
+two of its limits: ratings per 12-second event, and recorded heart and
+respiration rates. It cites Meuleman and Rudrauf ([LIT-tmp5ejuc](LIT-tmp5ejuc.md))
+as the only prior study with the same aim.
+
+It is emotion recognition in affective computing. It reports models but
+gives no instruction for machine-learning practice.

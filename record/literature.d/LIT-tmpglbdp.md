@@ -1,0 +1,78 @@
+---
+status: Unavailable
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists, but this client could not fetch it, so it failed on access, not availability. Looked for on 2026-10-23. Cacioppo posted the paper on his University of Chicago reprint page (psychology.uchicago.edu/people/faculty/cacioppo/jtcreprints/cb94.pdf). That URL now returns 404, and the Internet Archive''s capture of 2012-05-16 (timestamp 20120516001838) could not be fetched: web.archive.org reset the connection, and the fetch tool refuses the domain. Unpaywall reports no open copy. The journal (APA, Psychological Bulletin) is closed. A ResearchGate copy was seen and not used. The model is read first-hand in its authors'' 2010 review in PubMed Central ([LIT-tmp4b7d6](LIT-tmp4b7d6.md)), whose Figures 2 and 3 are adapted from this paper. It stays Unavailable until a copy is supplied, not on merit.'
+title: 'Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.1037/0033-2909.115.3.401): John T. Cacioppo and Gary G. Berntson,
+    Psychological Bulletin 115(3):401–423, issued May 1994. `published:` is
+    the first of the issue month, Crossref giving no day. A grep of
+    record/literature.d and record/notes.d for "Cacioppo" and "Berntson"
+    found only Hatfield, Cacioppo and Rapson on emotional contagion, a
+    different work.
+tags:
+- emotion-and-affect
+- social-science
+- psychometrics
+date: '2026-10-23'
+published: '1994-05-01'
+doi: '10.1037/0033-2909.115.3.401'
+first_author: 'Cacioppo'
+keywords:
+- 'evaluative space'
+- 'bivariate evaluation'
+- 'attitudes'
+- 'positivity and negativity'
+- 'ambivalence'
+- 'negativity bias'
+- 'positivity offset'
+implementations: []
+summary: >-
+  Cacioppo & Berntson (1994), Psychological Bulletin 115(3):401–423. The
+  review that introduced the evaluative space model. Attitudes have been
+  measured on one bipolar scale. The positive and negative evaluative
+  processes behind them are separable, and can be activated reciprocally,
+  independently or together. Unread: the model is read in Norris et al.
+  2010 ([LIT-tmp4b7d6](LIT-tmp4b7d6.md)).
+extended_by:
+- LIT-tmpj2mcy
+---
+<!-- inactive-ok-file: CLAIM-tmpz8lli — Proposed; the account this paper bears on, cited as open -->
+
+# LIT-tmpglbdp: Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates
+
+John T. Cacioppo & Gary G. Berntson (1994), *Psychological Bulletin*
+115(3):401–423 — DOI-10.1037/0033-2909.115.3.401
+
+## Key takeaways
+
+*Registered, not read.* According to the authors' 2010 review
+([LIT-tmp4b7d6](LIT-tmp4b7d6.md)), this paper is where the following ideas start:
+
+- **The bivariate evaluative plane.** Positive and negative activation
+  are two axes. A reciprocal diagonal runs from pure positivity to pure
+  negativity, and a coactivity diagonal runs from low-low (neutral) to
+  high-high (ambivalent).
+- **The response surface.** A net predisposition toward or away from the
+  target, over the plane. Its isocontours make the mapping many-to-one,
+  so neutral and ambivalent states produce the same middling output.
+  The 2010 review's Figure 2 is "Adapted from Cacioppo, J. T., &
+  Berntson, G. G. (1994)".
+- **Distinct activation functions.** These give a negativity bias (higher
+  gain for negativity) and a positivity offset (a higher intercept for
+  positivity). The 2010 review's Figure 3 is adapted from this paper.
+
+## Standing in the record
+
+Filed on 2026-10-23 for the record's proposal that hedonic valence is
+one ordering serving as the negotiation's potential ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). Its fourth consequence,
+"Ambivalence is not neutrality", is a distinction this paper drew for
+attitudes. See [NOTE-tmpb0ouu](../notes.d/NOTE-tmpb0ouu.md) for how the two accounts of that
+distinction differ.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

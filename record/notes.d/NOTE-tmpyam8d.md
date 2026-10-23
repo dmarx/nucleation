@@ -1,0 +1,214 @@
+---
+status: Read
+paper: LIT-tmp18qgb
+title: 'The power of goal-directed processes in the causation of emotional and other actions'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full, from the submitted manuscript in Ghent University's
+    Biblio repository (28 pp.). Page references are the manuscript's. All
+    quotations were checked by script against the extracted text.
+date: '2026-10-23'
+summary: >-
+  A reversal of the default in dual-process models of action and emotion.
+  Goal-directed processes, which select the action option with the
+  highest expected utility, can be fast and automatic, so they, not
+  stimulus-driven habits or appraisal-to-action-tendency links, are the
+  default cause of action. Most of the competition that decides behaviour
+  is between goal-directed processes, and values and expectancies settle
+  it. Emotional actions are those whose tendencies have control
+  precedence because the goals at stake are highly valued, so emotional
+  episodes are decision processes with higher stakes.
+---
+<!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-tmp85p0g CLAIM-tmp83ge2 CLAIM-283 THEORY-055 THEORY-056 THEORY-062 — Proposed; the proposal, the claims and the readings this work bears on, cited as open -->
+<!-- inactive-ok-file: LIT-tmp0s27v LIT-tmp63om1 — Unavailable, unread; Moors's book, and the Carver and Scheier paper she builds the cycle on -->
+
+# NOTE-tmpyam8d: The power of goal-directed processes in the causation of emotional and other actions
+
+## Contribution
+
+A theoretical article in an Emotion Review special section on action and
+emotion. It does three things. It argues that the usual dual-process
+mapping, with stimulus-driven processes automatic and goal-directed ones
+slow, is wrong. It carries the argument over to emotion, where appraisal
+theories turn out to posit stimulus-driven links. And it sets out what
+evidence would decide between the standard and the alternative model.
+
+## Key insight
+
+What is usually called the emotion's push is a choice. Once goal-directed
+processes are allowed to be fast, "most of the competition does not occur
+between stimulus-driven and goal-directed processes, but instead between
+different goal-directed processes" (p. 11). An emotional action tendency
+wins its control precedence the way any action tendency wins: its goals
+are highly valued and the expected utility of acting on it is highest.
+
+## Assumptions
+
+- A content-based definition of the process types: goal-directed means
+  represented [S:R–Ov], with at least one action option and its
+  expectancy for one valued outcome (p. 5). Stimulus-driven means [S–R].
+- Expected utility as the selector. The action option with the highest
+  utility activates its action tendency (p. 4), and values and
+  expectancies decide which process wins (p. 11).
+- A cybernetic control architecture with nested goals, after Carver and
+  Scheier (1990, [LIT-tmp63om1](../literature.d/LIT-tmp63om1.md)). Several cycles run in parallel, and the
+  balance among lower-order goals is kept by a higher-order goal
+  (pp. 5–6).
+- Frijda's control precedence as the mark of emotional action (p. 15),
+  explained by the value of the goals at stake.
+
+## Key results
+
+Argument, with evidence reviewed, not new results:
+
+- **Three reasons goal-directed processes can be automatic** (pp. 8–9):
+  simple ones need few conditions, goals can stand in for missing
+  conditions (subliminal priming works for goal-relevant primes), and
+  goal-directed processes can be associative.
+- **The default reversed** (p. 10): "we submit that goal-directed
+  processes should win the competition instead". Stimulus-driven control
+  is left two niches. One is a goal specified only at a superordinate
+  level, as in action slips. The other is operating conditions too poor
+  for even simple goal-directed processes (pp. 10–11).
+- **Appraisal theory as stimulus-driven** (p. 13). Appraisal patterns
+  linked to emotion-specific action tendencies are "sophisticated types of
+  stimulus-driven processes". Fleeing under low control is usually
+  optimal but not when flight is impossible, which only a goal-directed
+  process that weighs affordances will catch (pp. 13–14).
+- **Emotion as decision** (pp. 15–16): emotions "can themselves be
+  regarded as decision processes, ones that rely on the very same
+  mechanisms as non-emotional decision processes, but in which the stakes
+  are higher". "Episodes can be called more or less emotional" (p. 15).
+- **Evidence for habit is weaker than it looks** (pp. 16–20). Resistance
+  to devaluation after overtraining vanishes when there is a choice
+  between two actions (Colwill and Rescorla 1985, pp. 17–18). Null
+  results leave room for hidden goals, and four complexities hide them.
+  Costly aggression, for instance, may serve a higher-valued outcome such
+  as repaired self-esteem (p. 18).
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Goal-directed processes can operate under poor conditions (little time or attention) | moderate | reviewed evidence (Bechara et al. 1997; subliminal goal-relevant priming) |
+| C2 | Most behaviour-determining competition is among goal-directed processes, decided by outcome values and expectancies | weak–moderate | argued from C1 and from optimality; not tested here |
+| C3 | Appraisal-pattern-to-action-tendency links are stimulus-driven | moderate | conceptual analysis of appraisal theories |
+| C4 | Emotional action tendencies can be caused by goal-directed processes | weak–moderate | a handful of studies (Eder and Hommel 2013; Parkinson 2001); one-step causation not yet shown |
+| C5 | Evidence for stimulus-driven control rests on null results open to hidden goals | strong (as a methodological point) | the logic of revaluation tests |
+
+## Concepts
+
+- **goal-directed process**: a process whose representations hold
+  action options with expectancies for valued outcomes, [S:R–Ov]; it
+  activates the action tendency with the highest utility.
+- **stimulus-driven process**: activation of a stored stimulus–action
+  link, [S–R], whether innate, overtrained or associatively formed.
+- **parallel-competitive architecture**: both process types run at once
+  and compete for behaviour (Daw, Niv and Dayan 2005, [LIT-580](../literature.d/LIT-580.md)).
+- **control precedence**: the priority an action tendency takes over
+  others (after Frijda), read here as a product of the value of the
+  goals at stake.
+
+## Connections
+
+Builds on Heyes and Dickinson on goal-directed action, Carver and Scheier's
+cybernetic cycle ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md), read through [LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md)), Frijda's
+control precedence ([THEORY-055](../theory.d/THEORY-055.md)), and the arbitration models of Daw, Niv
+and Dayan ([LIT-580](../literature.d/LIT-580.md), [THEORY-062](../theory.d/THEORY-062.md)), whose default it reverses. It is set
+against appraisal theories (Roseman, Scherer) and affect-program theories.
+Its book-length development is Moors (2022, [LIT-tmp0s27v](../literature.d/LIT-tmp0s27v.md)), unread,
+whose Chapter 7 is "dedicated to response evaluation theories, in
+particular my own version of them, the goal-directed theory".
+
+## Bearing on the record
+
+**On the novelty of the negotiation reading ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), part 1).**
+Part of the proposal is not new, and the claim should say so as it
+already does for Lewis and Scherer. Moors holds that what decides action,
+emotional action included, is a competition among goal-directed
+processes. She also holds that control precedence is not a property the
+emotion brings but the outcome of that competition when highly valued
+goals are at stake (p. 15). This is the record's sentence "control
+precedence is not a property an emotion brings with it but the outcome of
+their negotiation", stated in 2017 for an individual. Its source is
+Frijda, as the record's is. The proposal cannot claim this reframing as
+its own.
+
+**Where Moors stops, and the proposal goes on.** There are four points,
+and the first two carry the weight.
+
+1. **She presupposes the currency the proposal makes a question.** Her
+   competition is settled by "the values and expectancies of outcomes"
+   (p. 11), and the winner is "the action option with the highest
+   utility" (p. 4). That is a negotiation that always yields an ordering,
+   and a numerical one. Part 2 of [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) holds that a negotiation
+   need not yield an ordering (Sen's theorem), and that an ordering need
+   not be a currency ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)). In the terms of [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md),
+   Moors describes only the compensatory regime of potential, and
+   describes it as the only one there is. The override cases she discusses
+   (aggression costing retaliation and repairing self-esteem, the martyr's
+   suffering, p. 18) she reads as a hidden outcome with higher value,
+   recovering the trade-off. A lexicographic reading of the same cases is
+   open, and the record has a reason to prefer it in some of them.
+2. **Her competitors are options, not perspectives.** What competes is
+   goal-directed processes or action options within one agent, ranked on
+   one utility. The proposal's competitors are perspectives, each with its
+   own ranking and its own authority ([CLAIM-283](../claims.d/CLAIM-283.md)'s distinction between
+   the precedence a motive claims and the authority it is granted). Moors
+   has no room for a perspective whose ranking is not commensurable with
+   another's. Her balancing of multiple goals is done by "a higher-order
+   goal" (pp. 5–6), a regulator above the competitors. That is what
+   Frijda, Ridderinkhof and Rietveld deny ([THEORY-056](../theory.d/THEORY-056.md)), and what the
+   proposal's negotiation lacks.
+3. **She gives no account of valence.** Emotionality on her account is a
+   matter of degree, set by the stakes. Nothing in it marks out an
+   ordering of the system's own states, so it says nothing about part 3,
+   the proposal's own contribution. Her graded emotionality does fit
+   consequence 3 (intensity as the strength of potential), since higher
+   stakes give stronger control precedence.
+4. **She would read the proposal as goal-directed theory, not appraisal
+   theory.** On her taxonomy an account on which concerns negotiate over
+   action options, and the strongest wins, is no longer an appraisal
+   theory. Its appraisal-to-tendency links would be goal-directed, not
+   stimulus-driven. If the record keeps the word "appraisal" for the
+   negotiation, it should say that it uses the word in a wider sense than
+   appraisal theory does, and that Moors would class the view as a
+   response evaluation theory.
+
+**What the record can take.** Moors's methodological point bears on
+[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md). A record of which conflicts a ranking wins is
+confounded by hidden outcomes. A choice that seems to follow one
+perspective's ranking may follow another's, valuing an outcome the
+observer did not model (pp. 18–19). Outcome revaluation and contingency
+degradation are her tests for which representation controls a response,
+and they are candidates for an interventional test of which ranking is
+potential. Devalue what ≿_v ranks high and see whether conduct follows.
+
+**Candidly.** This is the strongest prior statement found so far of the
+competitive core of the proposal, stronger than Lewis's because it is
+about selection among goals, not about attractors. The proposal's novelty
+now rests on part 2 (no currency presupposed), on the plurality of
+perspectives with authority, and on part 3 (the kind of ordering that
+makes the regime valence). It does not rest on part 1. The book should be
+read before the claim says more than that.
+
+## Limitations
+
+A position paper. The central claim, C2, is argued from optimality
+("The system should prioritize processes that are most likely to lead to
+optimal behavior", p. 10) and from the weakness of rival evidence, not
+tested. The authors grant that future research must show goal-directed
+processes setting the initial action tendency, not only intervening
+later (p. 20). Expected utility is assumed throughout and never
+questioned as a representation of what the competing goals rank.
+
+## Open questions
+
+Whether "values and expectancies" settle conflicts between goals that
+cannot be traded off, and what Moors's account does when the highest
+utility is not defined. How the higher-order balancing goal is itself
+selected without a regress. Whether the book's hierarchy of goal-directed
+cycles (its Fig. 7.2) changes either answer.

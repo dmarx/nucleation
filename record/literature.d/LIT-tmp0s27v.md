@@ -1,0 +1,96 @@
+---
+status: Unavailable
+status_note: 'registered 2026-10-23 from Crossref and the publisher''s free front matter, not read: no lawful full text could be reached. OpenAlex lists the book as closed, with no repository copy; Cambridge Core offers no open chapter; no Lirias or author-posted copy was found. The front matter and table of contents, which Cambridge hosts openly, were read. Filed as the book-length statement of Moors''s goal-directed theory of emotion, the theory whose 2017 article ([LIT-tmp18qgb](LIT-tmp18qgb.md)) is the nearest prior statement of the record''s reading of appraisal as negotiation. Its Chapter 7, on response evaluation theories and her goal-directed theory, is the part to read first. It stays Unavailable until a copy is supplied, not on merit.'
+title: 'Demystifying Emotions: A Typology of Theories in Psychology and Philosophy'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.1017/9781107588882): Agnes Moors, Cambridge University Press,
+    published 11 August 2022 (ISBNs 9781107066342, 9781107683204,
+    9781107588882). Searched for a lawful full text on 2026-10-23:
+    OpenAlex (closed, no repository location), Cambridge Core (no open
+    access), and the web for a Lirias or author copy (none found). Read:
+    the publisher's free front matter (blurb, contents, lists of figures
+    and boxes, preface pp. xiii–xv) and table of contents, from
+    assets.cambridge.org. Quotations from them were checked by script
+    against the extracted text. Shadow libraries and ResearchGate were
+    not used.
+tags:
+- emotion-and-affect
+- philosophy-of-science
+- motivation
+date: '2026-10-23'
+published: '2022-08-11'
+doi: '10.1017/9781107588882'
+first_author: 'Moors'
+keywords:
+- 'typology of emotion theories'
+- 'goal-directed theory'
+- 'response evaluation theories'
+- 'stimulus evaluation theories'
+- 'appraisal theory'
+- 'skeptical theory of emotion'
+- 'demarcation-explanation cycle'
+implementations: []
+summary: >-
+  Moors (2022), Cambridge University Press. A typology of emotion
+  theories in psychology (evolutionary, network, appraisal,
+  goal-directed, psychological constructionist, social) and philosophy
+  (feeling, judgmental, quasi-judgmental, perceptual, embodied,
+  motivational), compared with tools from the philosophy of science. It
+  also proposes Moors's own skeptical "goal-directed theory", "based on
+  the central idea that all kinds of behaviors and feelings are grounded
+  in goal-striving". Unread beyond the front matter: the theory is read
+  in her 2017 article [LIT-tmp18qgb](LIT-tmp18qgb.md).
+extends:
+- LIT-tmp18qgb
+---
+<!-- inactive-ok-file: CLAIM-tmpz8lli — Proposed; the proposal this book bears on -->
+
+# LIT-tmp0s27v: Demystifying Emotions: A Typology of Theories in Psychology and Philosophy
+
+Agnes Moors (2022), *Demystifying Emotions: A Typology of Theories in
+Psychology and Philosophy*, Cambridge University Press —
+DOI-10.1017/9781107588882
+
+## Key takeaways
+
+*Registered, not read beyond the front matter.* From the blurb, preface
+and contents:
+
+- **Two aims** (preface, pp. xiii–xiv). The first is to compare the major
+  theories "in a systematic manner with the help of tools from philosophy
+  of science". The second is to propose a skeptical theory of the
+  phenomena called emotions. Moors says her thinking "culminated in the
+  recently developed goal-directed theory". One element in the shift was
+  "my own lab's failures to empirically confirm hypotheses of appraisal
+  theories about the influence of appraisals on action tendencies"
+  (p. xiv).
+- **Where the theory is** (p. xv). "Chapter 7 (“Response Evaluation
+  Theories”) is dedicated to response evaluation theories, in particular
+  my own version of them, the goal-directed theory." The list of figures
+  places "Goal-directed theory" at p. 216 and "Hierarchy of goal-directed
+  cycles" at p. 219. Box 7.1 treats emotion regulation.
+- **The central axis** (p. xv). "Box 2.1 pitches the distinction between
+  stimulus-driven and goal-directed processes, which I consider to be one
+  of the central axes on which theories differ."
+- **Network theories have their own chapter** (Chapter 5, pp. 147–163),
+  so the book should also be checked against Lange et al. 2020
+  ([LIT-tmp39gs5](LIT-tmp39gs5.md)).
+
+## Standing in the record
+
+Filed on 2026-10-23 for the novelty check on the record's proposal that
+appraisal is the negotiation among perspectives ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). The
+2017 article already holds that action selection is a competition among
+goal-directed processes, settled by expected utility. Whether the book
+goes further, for instance to competition without a common scale or
+without a higher-order balancing goal, can only be settled by reading
+Chapter 7. Until then the record should not claim more novelty than the
+reading of the article allows.
+
+No instruction for machine-learning practice; nothing here belongs in the
+anthology.

@@ -46,6 +46,10 @@ summary: >-
   rivals it on what the first consciousness did.
 answers:
 - QUESTION-059
+supports:
+- CLAIM-tmp83ge2
+- CLAIM-tmp85p0g
+- CLAIM-tmpz8lli
 ---
 <!-- inactive-ok-file: THEORY-090 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the record's account of felt affect, named for comparison, with no relation claimed -->
@@ -163,3 +167,17 @@ none. Veit would need to say either that the state is individuated by
 actual causal activity, in which case the identity is not with a functional
 role in the Turing–Putnam sense, or that the eraser changes feeling.
 Neither [LIT-105](../literature.d/LIT-105.md) nor the paper says which. The statement is unchanged.
+
+## Note of 2026-10-23: the rivalry recast as continuity
+
+On the owner's reading of valence as potential of a negotiation by an
+ordering of the system's own states ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), this account and
+its rival are two regimes of one thing: Veit's currency is compensatory,
+continuous potential, and ALARM's override is overriding potential.
+[CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) shows a continuous ordering has a numerical representation;
+a threshold override has a discontinuous one, so in that form the
+override is an extreme weight and the dissolution this record imagined
+goes through; a graded override has none, and in that form it does not.
+[CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) recasts the rivalry as one question, whether the earliest
+trade-off curves are continuous, and if not, which form the override
+takes. The statement is unchanged.

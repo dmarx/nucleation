@@ -1,0 +1,152 @@
+---
+status: Read
+paper: LIT-tmp5ejuc
+title: 'Induction and Profiling of Strong Multi-Componential Emotions in Virtual Reality'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: the accepted manuscript in the Archive ouverte UNIGE,
+    all sections, tables in extraction. Page references are the
+    manuscript's. Figures and supplementary material not seen. Every
+    quotation was checked by script against the extracted text.
+date: '2026-10-23'
+summary: >-
+  Virtual reality induces intense emotions that engage several
+  components, which passive paradigms do not, and the authors argue this
+  is a precondition for testing synchronization. Seven games, 53
+  participants, one retrospective questionnaire per game. Fear and joy
+  clusters span appraisal, motivation, physiology, feeling and
+  regulation, and appraisal predicts their intensity best. Componentiality
+  is a property of associations across observations. Nothing is measured
+  within an episode.
+---
+<!-- inactive-ok-file: TERM-tmp8gbrt THEORY-055 — Proposed; the proposal and the account of control precedence this reading bears on -->
+<!-- inactive-ok-file: LIT-tmp5ejuc LIT-tmp7rygg LIT-tmp9qnrb — drafts filed in the same tranche -->
+
+# NOTE-tmp4itog: Induction and Profiling of Strong Multi-Componential Emotions in Virtual Reality
+
+## Contribution
+
+A methods paper with an exploratory study. It argues that standard
+induction paradigms are disconnected from componential theory and
+appraisal theory, and shows that commercial VR games produce intense
+emotions whose self-reported changes span components.
+
+## Key insight
+
+A componential hypothesis can only be tested on an episode in which all
+the components are engaged. Passive viewing leaves action tendencies and
+behaviour with no object, so the components cannot be coordinated in
+the first place.
+
+## Assumptions
+
+- Appraisal theory's causal model: appraisal drives the other components,
+  and "the organism will prioritize certain actions (e.g., escaping from
+  an appraised threat) and invest an effort in those actions through a
+  coordination of mental and bodily changes" (ms p. 1).
+- That retrospective self-report is adequate for every component,
+  physiology included.
+- That emotion differences between people and stimuli are mediated by
+  appraisal and regulation (their H4–H5, after Figure 1).
+
+## Key results
+
+- **Intensity.** No participant chose "no emotion" on the Geneva Emotion
+  Wheel. Interest, amusement, joy and pleasure were highest across
+  games, "pointing to a general experience of VR being pleasant—even when
+  scary" (ms p. 8).
+- **Item clusters.** Fear (18 items) and joy (15 items) clusters are
+  multi-componential. The body-location items fell in an "empty"
+  cluster.
+- **Experience clusters.** Four clusters cut across games. Cluster 2 is
+  intense fear. "For cluster 1, the patterns suggested a weaker, more
+  benign version of fear, in the sense of anxiety or even thrill-seeking,
+  as indicated by the highest rated item in this cluster, the action
+  tendency to explore" (ms p. 10).
+- **Prediction.** Appraisal-only models had the lowest AIC for fear and
+  joy. Forward selection kept 9 items for fear, with danger first, and 3
+  for joy, with pleasantness first. Goal advancement entered both only
+  after the other items were controlled.
+- **Individual differences.** For fear, the best model has appraisal and
+  regulation and no random effects. For joy, subject differences
+  remained after appraisal.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | VR induces intense, multi-componential emotions | moderate | self-reported intensities; item clusters across components |
+| C2 | Passive paradigms cannot test synchronization hypotheses | moderate (argued) | the argument of §1.1; no direct comparison run |
+| C3 | Appraisal predicts fear and joy intensity better than other components | moderate | AIC and R² of component-only multilevel models |
+| C4 | Appraisal and regulation account for game differences in fear | weak | random-effects comparison by AIC; joy does not follow |
+
+## Concepts
+
+- **multi-componential emotion**: here, an emotion category whose
+  reported intensity is significantly associated, across observations,
+  with at least one item of each component.
+- **active vs passive induction**: whether the participant acts in the
+  eliciting scenario or only observes it.
+
+## Connections
+
+Uses the CoreGRID items of Fontaine, Scherer and Soriano (2013), like the
+two Mohammadi studies ([LIT-tmp7rygg](../literature.d/LIT-tmp7rygg.md), [LIT-tmp9qnrb](../literature.d/LIT-tmp9qnrb.md)),
+which cite this study as the precedent and the VR route as their remedy
+for passive viewing.
+
+## Bearing on the record
+
+**A per-episode measure of synchronization?** No. Each episode, one game
+(mean durations 2.0 to 8.4 minutes, Table 1), yields one vector of
+retrospective ratings. "Multi-componential" is then decided across the
+154 observations, by the criterion "At least one significant association
+with each emotion component" (ms p. 7, note 2). That
+is a property of the emotion category in this sample, not of any
+episode, and it is not a degree of synchrony. Nothing is time-resolved,
+and physiology is reported, not recorded. The paper's real contribution
+to [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) is a precondition: a measure of coordination
+needs an episode in which the system acts, so that its tendencies have
+something to compete over. That is also the record's requirement that
+potential be read from conflicts actually won during the episode.
+
+**Signed, or which tendency prevails?** Not measured. But the data
+contain the right kind of case. Cluster 1 combines appraisals and
+feelings of fear with the exploratory tendency as its highest item, and
+the paper reads it as anxiety or thrill-seeking. Fear and approach
+co-occur in the same episodes. On [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) this is the kind of case
+the term must handle: either split potential (ambivalence) or one ordering
+winning while the other is present. [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) asks for a
+procedure that separates the two. Ratings after the game cannot do it:
+they give the strength of each tendency, not which won when they
+conflicted. A VR design could supply a conflict record directly. The
+participant's movements were "tracked continuously" by the headset's
+optical trackers (§2.4), and a game like the plank
+walk has exactly the choice points (step forward or retreat) where
+the fear ordering and the exploration ordering disagree. The paper does
+not use the tracking data. Doing so would be a conflict record of the
+kind the question asks for.
+
+**Control precedence.** The appraisal-theoretic premise the paper adopts,
+that the organism will "prioritize certain actions ... and invest an
+effort in those actions" (ms p. 1), is control precedence ([THEORY-055](../theory.d/THEORY-055.md))
+stated in passing. Nothing in the analysis measures prioritization.
+
+## Limitations
+
+Observational: the games were not designed to manipulate appraisal
+("Our chosen set of VR games did not reflect a systematic manipulation
+of appraisal criteria", ms p. 13). All measures are self-report after
+the episode. The design is unbalanced (1–6 games per participant), and
+the data were subsampled at random to 22 observations per game. VR's
+novelty colours the positive emotions, and there is no comparison with
+other paradigms.
+
+## Open questions
+
+Whether movement tracking in VR has been used to record approach and
+avoidance at choice points within an episode. If so, it would give a
+time-resolved, signed record of which tendency won.
