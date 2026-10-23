@@ -120,13 +120,13 @@ From the studies reviewed:
 
 ## Connections
 
-Updates the 2009 evidence review (LIT-tmpboyvn, unread) and restates the
-architecture of Scherer (2009, LIT-tmpfjacn, NOTE-tmpsx1uk). Frijda and
+Updates the 2009 evidence review ([LIT-tmpboyvn](../literature.d/LIT-tmpboyvn.md), unread) and restates the
+architecture of Scherer (2009, [LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md), [NOTE-tmpsx1uk](NOTE-tmpsx1uk.md)). Frijda and
 Scherer's (2009) four functions open it, the same source as the control
-precedence the record reads through THEORY-055. The valence split is the
-one argued in Shuman, Sander and Scherer (NOTE-tmpogww2). The
+precedence the record reads through [THEORY-055](../theory.d/THEORY-055.md). The valence split is the
+one argued in Shuman, Sander and Scherer ([NOTE-tmpogww2](NOTE-tmpogww2.md)). The
 awareness proposal restates Grandjean, Sander and Scherer
-(NOTE-tmpt8ltj).
+([NOTE-tmpt8ltj](NOTE-tmpt8ltj.md)).
 
 ## Bearing on the record
 
@@ -160,46 +160,46 @@ for authority over action. Nothing wins, persists or resumes. The
 interaction terms (multiplicative valence effects, control amplifying goal
 congruence) are statistical interactions of inputs, not the outcome of a
 contest. The closer precedents in the same school are Sander and Scherer's
-"activation and inhibition thresholds" (NOTE-tmpsx1uk) and Shuman et al.'s
-micro-valence integration (NOTE-tmpogww2). CLAIM-tmpz8lli's part 1
+"activation and inhibition thresholds" ([NOTE-tmpsx1uk](NOTE-tmpsx1uk.md)) and Shuman et al.'s
+micro-valence integration ([NOTE-tmpogww2](NOTE-tmpogww2.md)). [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s part 1
 remains the record's reading of the CPM, not the CPM's self-description.
 The record should not cite this review as stating it.
 
-**What the review does give CLAIM-tmpz8lli and QUESTION-tmpsqwu5:**
+**What the review does give [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) and [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md):**
 
 - **Markers that tell the two valences apart.** If the record concedes
-  CLAIM-tmpe0iew in the way NOTE-tmpogww2 suggests, with the
+  [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) in the way [NOTE-tmpogww2](NOTE-tmpogww2.md) suggests, with the
   ascendancy account covering goal-conduciveness valence and intrinsic
   pleasantness a separate check, the physiology here is how one would
   tell which ordering is driving. Goal congruence shows up
   autonomically, with less habituation when it is negative. Intrinsic
   valence shows up mainly in facial EMG. These are human, individual
-  markers, so they bear on the animal side of QUESTION-tmpsqwu5, not on
+  markers, so they bear on the animal side of [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md), not on
   organizations.
 - **Control as a gain on the ascendant ordering.** "Amplified goal
   congruence effects when control was high, in contrast to invariant goal
   congruence effects when control was low" (p. 732). If goal conduciveness
   is the ordering that prevails, control modulates how strongly it drives
-  the components, which is what TERM-tmp8gbrt calls intensity. The control
+  the components, which is what [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) calls intensity. The control
   appraisal concerns the agent's power over its situation. It is not the
   ascendancy of one internal ordering over others, and it is the axis PAD
-  calls "dominance" (see LIT-tmp3deyb). The rename to ascendancy
+  calls "dominance" (see [LIT-tmp3deyb](../literature.d/LIT-tmp3deyb.md)). The rename to ascendancy
   keeps the two apart; this finding says how they interact.
 
-**On CLAIM-tmptd5us.** The two-threshold proposal (p. 737) puts
+**On [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md).** The two-threshold proposal (p. 737) puts
 awareness at a degree of the regime itself: a "second threshold of
-coherence". That is nearer Veit's identity (THEORY-101) than to a
+coherence". That is nearer Veit's identity ([THEORY-101](../theory.d/THEORY-101.md)) than to a
 self-model condition. But the mechanism offered is a representation: a
 central integration that "serves to monitor and regulate the degree of
-system coherence." So the review, like the 2009 paper (NOTE-tmpsx1uk),
+system coherence." So the review, like the 2009 paper ([NOTE-tmpsx1uk](NOTE-tmpsx1uk.md)),
 holds both a threshold view and a model view and does not choose. The
 model in question represents coherence, not which ordering wins. It also
 adds temporal chunking: feelings come as "temporal chunks with phenomenal
 unity" that "might occur when a certain level of component
-synchronization persists" (p. 737). Persistence is one of TERM-tmp8gbrt's
+synchronization persists" (p. 737). Persistence is one of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
 marks of ascendancy, so this is a point of contact with the record's
 account. The review gives it as a hypothesis, not a finding. The
-Grandjean et al. reading (NOTE-tmpt8ltj) takes the comparison
+Grandjean et al. reading ([NOTE-tmpt8ltj](NOTE-tmpt8ltj.md)) takes the comparison
 further.
 
 ## Limitations
@@ -208,12 +208,12 @@ A review, restricted to experiments with manipulated appraisals; it
 excludes neuroscience and reappraisal "due to space limitations". Paths D
 and E of its own model (feeling, labelling) are not reviewed for lack of a
 "coherent body of empirical literature" (p. 724), which is where both
-CLAIM-tmptd5us and QUESTION-059 would need evidence. The coherence
+[CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) and [QUESTION-059](../questions.d/QUESTION-059.md) would need evidence. The coherence
 proposal is untested.
 
 ## Open questions
 
 Whether the multiplicative combination of intrinsic valence and goal
 congruence is a weighted integration or a gating, which would place it in
-one of CLAIM-tmp83ge2's two regimes. Whether the two coherence thresholds
+one of [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s two regimes. Whether the two coherence thresholds
 can be estimated per episode with the time-series methods it cites.

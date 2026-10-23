@@ -24,6 +24,8 @@ summary: >-
   track control precedence. Hesp et al. ([NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)) concede the same
   of their account, which puts valence in the system's model of its own
   ascendancy rather than in the ascendancy.
+complements:
+- CLAIM-tmp5lpdu
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli THEORY-tmp0bbxk TERM-tmp8gbrt CLAIM-tmptd5us — Proposed; the claim this objects to, the reading it rests on, and the term and candidate it bears on, cited as open -->
 

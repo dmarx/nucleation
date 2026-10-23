@@ -50,6 +50,8 @@ summary: >-
   wins. Coping changes the world or the agent's beliefs, desires and
   intentions, which drives reappraisal. Illustrated with an actor's
   reaction to a pigeon.
+supports:
+- CLAIM-tmpz8lli
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli TERM-tmp8gbrt — Proposed; the proposal this work bears on -->
 <!-- inactive-ok-file: LIT-550 — Unavailable, unread; Lazarus's Emotion and Adaptation, which EMA is named after and follows -->

@@ -67,9 +67,9 @@ to a collective relation R_t on X_t.
   because the word is taken twice. In affective science "dominance" is
   the third axis of Mehrabian and Russell's pleasure–arousal–dominance
   model, the felt sense of being in control, which Fontaine and
-  colleagues' potency–control dimension continues (LIT-tmp3deyb), and
+  colleagues' potency–control dimension continues ([LIT-tmp3deyb](../literature.d/LIT-tmp3deyb.md)), and
   which the component process model's own authors call "dominance"
-  (LIT-tmpkywoj, p. 4); in decision theory a
+  ([LIT-tmpkywoj](../literature.d/LIT-tmpkywoj.md), p. 4); in decision theory a
   dominated option is one worse on every count. Ascendancy is neither: it
   is which ordering wins a negotiation. "Precedence" was not used either,
   because [CLAIM-283](../claims.d/CLAIM-283.md) uses it for the priority a motive claims, as against

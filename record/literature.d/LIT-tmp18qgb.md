@@ -49,6 +49,10 @@ summary: >-
   caused this way. Appraisal-to-action-tendency links are sophisticated
   stimulus-driven processes. Evidence for stimulus-driven control rests
   on null results open to hidden goals.
+extended_by:
+- LIT-tmp0s27v
+supports:
+- CLAIM-tmpz8lli
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli TERM-tmp8gbrt — Proposed; the proposal this work bears on -->
 <!-- inactive-ok-file: LIT-tmp0s27v LIT-tmp63om1 — Unavailable, unread; Moors's book-length statement of the theory, and the Carver and Scheier paper she builds the cycle on -->

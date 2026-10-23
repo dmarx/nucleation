@@ -27,6 +27,7 @@ summary: >-
   ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).
 supports:
 - CLAIM-tmpe0iew
+- CLAIM-tmp5lpdu
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-tmpe0iew — Proposed; the account this reading bears on and the objection filed from it, cited as open -->
 

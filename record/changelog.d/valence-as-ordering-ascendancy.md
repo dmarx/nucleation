@@ -8,7 +8,7 @@
   - two questions: how ascendancy is measured ([QUESTION-tmpsqwu5](record/questions.d/QUESTION-tmpsqwu5.md)), and whether ascendancy of a proxy for maintenance is valence ([QUESTION-tmprsrxs](record/questions.d/QUESTION-tmprsrxs.md)).
   - a question on operationalizing felt valence in three independently measured layers ([QUESTION-tmp0oife](record/questions.d/QUESTION-tmp0oife.md)), and a candidate claim: valence is felt when the system models its own ascendancy ([CLAIM-tmptd5us](record/claims.d/CLAIM-tmptd5us.md));
   - Berridge's liking–wanting dissociation ([THEORY-tmp0bbxk](record/theory.d/THEORY-tmp0bbxk.md)), and from it an objection that ascendancy tracks wanting, not liking ([CLAIM-tmpe0iew](record/claims.d/CLAIM-tmpe0iew.md)).
-  - a reply conceding that objection in a principled form, on the component process model's levels of valence: the account is of goal-conduciveness valence (CLAIM-tmp5lpdu).
+  - a reply conceding that objection in a principled form, on the component process model's levels of valence: the account is of goal-conduciveness valence ([CLAIM-tmp5lpdu](record/claims.d/CLAIM-tmp5lpdu.md)).
 - Thirty-five works in four batches. A curation entry.
 
 ### Changed
