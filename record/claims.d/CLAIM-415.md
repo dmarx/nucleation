@@ -4,7 +4,7 @@ status: Proposed
 formerly:
 - CLAIM-tmp3gvbj
 title: 'A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential'
-version: 2
+version: 3
 history:
 - version: 2
   date: '2026-10-22'
@@ -13,6 +13,17 @@ history:
     skimmed, with Prentice and Miller not reached: the network paper
     supports step 1 only in part, and Cooley holds more of the claim
     than credited but less than attributed. The claim is unchanged.
+- version: 3
+  date: '2026-10-22'
+  note: >-
+    Body revised at the owner's request, acting on the note of version 2.
+    The sentence on Cooley no longer says he makes the self-conception run
+    through imagined judgements of others in general: the looking-glass
+    self is one class of his social self. Step 2 now cites Cooley's
+    "remoter conformity" and the worked case CASE-tmpazqjk, and LIT-1379
+    is added to `grounds`. A note on the grounds says LIT-1390 supports
+    the perceived-majority route, not the loud-minority example. The
+    title, status and defeater are unchanged.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -35,6 +46,7 @@ complements:
 grounds:
 - LIT-939
 - LIT-1370
+- LIT-1379
 - LIT-1390
 summary: >-
   From the owner's U39 of the exchange of 2026-10-22: how an individual's
@@ -48,7 +60,14 @@ summary: >-
   collective attitude itself is already held (List's falsely attributed
   common attitudes, [CASE-104](../cases.d/CASE-104.md)); what is new is its place in a person's own
   organization.
+illustrated_by:
+- CASE-tmp5rsen
+- CASE-tmpa0raf
+- CASE-tmpazqjk
+supports:
+- CLAIM-tmpmxjti
 ---
+<!-- inactive-ok-file: TERM-tmpo92fy — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1370 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-349 CLAIM-355 CLAIM-402 THEORY-242 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -81,10 +100,12 @@ The claim takes two steps beyond them.
    only misleading entity in the self-model. The imagined social audience
    may also be organized into a false unity. A person can therefore find
    themselves governed by the attributed judgment of a collective that is
-   not, in fact, united in holding that judgment." Cooley's looking-glass
-   self ([LIT-1379](../literature.d/LIT-1379.md)) makes the self-conception run through imagined
-   judgements of others; the claim adds that the others imagined can be a
-   unity no one composes, which is [QUESTION-119](../questions.d/QUESTION-119.md)'s question ("when is the
+   not, in fact, united in holding that judgment." Cooley
+   ([LIT-1379](../literature.d/LIT-1379.md)) already holds that the audience in the self is imagined
+   and can be collective: the looking-glass self, "a very large and
+   interesting class of cases" of the social self, runs through imagined
+   judgements of others. The claim adds that the others imagined can be a
+   unity no one composes ([TERM-tmpo92fy](../terms.d/TERM-tmpo92fy.md)'s imagined audience), which is [QUESTION-119](../questions.d/QUESTION-119.md)'s question ("when is the
    credit due to the population as organized?") asked from inside the
    person credited.
 2. **Rejection does not free.** The lyric is Eminem's "The Way I Am"
@@ -96,7 +117,8 @@ The claim takes two steps beyond them.
    the record holds through [CLAIM-402](CLAIM-402.md), give the self-confirming reading.
    The resistance reading is the one the record lacked: the judgement
    acquires authority over conduct ([CLAIM-349](CLAIM-349.md)'s second term) without
-   being believed.
+   being believed. Cooley states the step: "non-conformity may be
+   regarded as a remoter conformity" (ch. VIII). [CASE-tmpazqjk](../cases.d/CASE-tmpazqjk.md) works it.
 
 A39 also gave the reading that restores agency: "I can recognize the
 judgment, investigate its grounds, and refuse to let its apparent
@@ -119,9 +141,14 @@ was written to keep apart.
   ([NOTE-554](../notes.d/NOTE-554.md)), with Prentice and Miller as its example; [CASE-104](../cases.d/CASE-104.md) is a
   fanbase credited with a stance it has no procedure to form. A39
   proposed it as "a fourth analytical object" without citing either.
-- **Not a term.** A39's "recursive social self-modeling" was offered "as
-  a way of integrating established mechanisms, not as a new discovery",
-  and is not filed.
+- **Not a term, as A39 coined it.** A39's "recursive social
+  self-modeling" was offered "as a way of integrating established
+  mechanisms, not as a new discovery". The objects it runs between are
+  filed as [TERM-tmpo92fy](../terms.d/TERM-tmpo92fy.md)'s senses 2 and 3, not under that name.
+- **Not that the majority illusion is the loud minority.** Of the claim's
+  grounds, [LIT-1390](../literature.d/LIT-1390.md) supports only the route by which a rare attribute
+  looks like a local majority through network position; the loud
+  minority is [LIT-939](../literature.d/LIT-939.md)'s silencing.
 
 ## Note of 2026-10-22: the readings
 

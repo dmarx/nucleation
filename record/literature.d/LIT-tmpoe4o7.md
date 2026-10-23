@@ -1,0 +1,51 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-22, not read. Registered at the owner's request as the classic source for the self-confirming label of [CASE-tmpa0raf](../cases.d/CASE-tmpa0raf.md). No NOTE is filed.
+title: 'The Self-Fulfilling Prophecy'
+version: 1
+history:
+- version: 1
+  date: '2026-10-22'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-22
+    (doi:10.2307/4609267): Robert K. Merton, The Antioch Review 8(2),
+    first page 193, 1948. Year only: no month or day of publication was
+    found, so `published:` is 1 January 1948 and means 1948, to the year.
+    The article was reprinted in The Antioch Review 74(3) (2016,
+    doi:10.7723/antiochreview.74.3.0504); the earlier date is kept under
+    ADR-002.
+tags:
+- social-science
+- self
+date: '2026-10-22'
+published: '1948-01-01'
+doi: '10.2307/4609267'
+first_author: 'Merton'
+keywords:
+- 'self-fulfilling prophecy'
+- 'Thomas theorem'
+- 'definition of the situation'
+- 'labelling'
+implementations: []
+summary: >-
+  Merton (1948). Names the self-fulfilling prophecy: a false definition of a situation evokes behaviour that makes the originally false conception come true, and the prophet then cites the course of events as proof that he was right from the beginning. Builds on the Thomas theorem, that situations defined as real are real in their consequences.
+---
+
+# LIT-tmpoe4o7: The Self-Fulfilling Prophecy
+
+Merton, R. K. (1948). The self-fulfilling prophecy. *The Antioch Review*,
+8(2), 193–210. doi:10.2307/4609267.
+
+Not read. The summary is drawn from what the work is standardly cited for.
+A reading should check it first.
+
+## Why this is here
+
+[CASE-tmpa0raf](../cases.d/CASE-tmpa0raf.md), the label that confirms itself, is a stipulated case of the
+mechanism this paper named. It is registered so that the case's mechanism
+has its classic source, and so that a reading can check whether Merton's
+account already covers the resistance route of [CASE-tmpazqjk](../cases.d/CASE-tmpazqjk.md), where the
+label is rejected and still confirmed. The record holds the nearest
+documented application through Espeland and Sauder ([LIT-1330](LIT-1330.md)), who count
+self-fulfilling prophecy among the mechanisms of reactivity to rankings.

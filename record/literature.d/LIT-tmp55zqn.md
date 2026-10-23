@@ -1,0 +1,57 @@
+---
+status: Deferred
+status_note: >-
+  filed 2026-10-23, not read. Registered at the owner's request as the academic treatment of performativity, for [CLAIM-tmpqodkz](../claims.d/CLAIM-tmpqodkz.md). No NOTE is filed.
+title: 'An Engine, Not a Camera: How Financial Models Shape Markets'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Filed, not read. Citation checked against Crossref on 2026-10-23
+    (doi:10.7551/mitpress/9780262134606.001.0001): Donald MacKenzie, The
+    MIT Press, issued 14 April 2006, which is `published:`. The summary
+    follows the publisher's abstract on Crossref and what the book is
+    standardly cited for; the four kinds of performativity are the
+    standard reading, unchecked.
+tags:
+- social-science
+- philosophy-of-science
+date: '2026-10-23'
+published: '2006-04-14'
+doi: '10.7551/mitpress/9780262134606.001.0001'
+first_author: 'MacKenzie'
+keywords:
+- 'performativity'
+- 'counterperformativity'
+- 'Black-Scholes'
+- 'financial economics'
+- 'reflexivity'
+implementations: []
+summary: >-
+  MacKenzie (2006). Argues that modern financial economics did not only describe markets but changed them: an authoritative theory of option pricing gave derivatives legitimacy and was used to trade, so that prices came to fit the model. Standardly cited for its kinds of performativity, from generic (a model is used) through Barnesian (its use makes it truer) to counterperformativity (its use makes it less true), and for the 1987 crash as a case of the last.
+supports:
+- CLAIM-tmpqodkz
+---
+<!-- inactive-ok-file: CLAIM-tmpqodkz LIT-tmp81imx — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
+
+# LIT-tmp55zqn: An Engine, Not a Camera: How Financial Models Shape Markets
+
+MacKenzie, D. (2006). *An Engine, Not a Camera: How Financial Models Shape
+Markets*. Cambridge, MA: The MIT Press.
+doi:10.7551/mitpress/9780262134606.001.0001.
+
+Not read. The summary is drawn from the publisher's abstract and from what
+the work is standardly cited for. A reading should check it first.
+
+## Why this is here
+
+[CLAIM-tmpqodkz](../claims.d/CLAIM-tmpqodkz.md) says a judgement's circulation can be evidence of what it
+helps bring about. This book is the serious empirical treatment of that
+for one domain, and it also has the opposite case the claim must allow
+for: counterperformativity, where acting on a model makes it less true.
+The publisher's abstract: "the emergence of an authoritative theory of
+financial markets altered those markets fundamentally." It is nearer to
+the record's existing reading of reactivity in Espeland and Sauder
+([LIT-1330](LIT-1330.md)) than to the CCRU's hyperstition ([LIT-tmp81imx](LIT-tmp81imx.md)), which names the
+same loop as a programme.
