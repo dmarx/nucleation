@@ -15,7 +15,7 @@ history:
     only joined to a denial that a corporation is conscious, by modus
     tollens; the defeater now says so. The statement is unchanged. A
     dated note relates the claim to the reading of valence as
-    ordering-potential (CLAIM-tmpz8lli).
+    ordering-potential (CLAIM-440).
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -47,7 +47,7 @@ rests_on:
 - CLAIM-039
 - CLAIM-271
 complements:
-- CLAIM-tmpz8lli
+- CLAIM-440
 - CLAIM-418
 - CLAIM-349
 - CLAIM-283
@@ -203,13 +203,13 @@ which runs through IIT's exclusion postulate, an anti-nesting principle
 
 The same day the owner recast valence as potential of the negotiation
 among an organization's perspectives by an ordering of its own states
-([CLAIM-tmpz8lli](CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). In those terms the claim sharpens.
+([CLAIM-440](CLAIM-440.md), [TERM-076](../terms.d/TERM-076.md)). In those terms the claim sharpens.
 Remorse is others' harm entering the potential ordering; threat without
 remorse is harm reaching the corporation only as a fall along it. Wells
 Fargo's cross-sell ranking won the bank's conflicts against risk, HR and
-complaints for a decade ([CASE-151](../cases.d/CASE-151.md)), which is potential in [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
+complaints for a decade ([CASE-151](../cases.d/CASE-151.md)), which is potential in [TERM-076](../terms.d/TERM-076.md)'s
 sense. Whether that ranking was of the bank's maintenance or of a proxy
-for it is [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md). On this reading, whether a corporation has
+for it is [QUESTION-267](../questions.d/QUESTION-267.md). On this reading, whether a corporation has
 valence at all becomes a question about its dynamics, not about whether
 it is conscious, and the Veit–List route above loses its force against
 the functional claim, whatever it says about feeling.

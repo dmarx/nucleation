@@ -47,9 +47,9 @@ summary: >-
 answers:
 - QUESTION-059
 supports:
-- CLAIM-tmp83ge2
-- CLAIM-tmp85p0g
-- CLAIM-tmpz8lli
+- CLAIM-435
+- CLAIM-436
+- CLAIM-440
 ---
 <!-- inactive-ok-file: THEORY-090 — Proposed; the rival account of what consciousness was first for, declared and explained in prose -->
 <!-- inactive-ok-file: THEORY-045 — Proposed; the record's account of felt affect, named for comparison, with no relation claimed -->
@@ -171,13 +171,13 @@ Neither [LIT-105](../literature.d/LIT-105.md) nor the paper says which. The stat
 ## Note of 2026-10-23: the rivalry recast as continuity
 
 On the owner's reading of valence as potential of a negotiation by an
-ordering of the system's own states ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), this account and
+ordering of the system's own states ([CLAIM-440](../claims.d/CLAIM-440.md)), this account and
 its rival are two regimes of one thing: Veit's currency is compensatory,
 continuous potential, and ALARM's override is overriding potential.
-[CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) shows a continuous ordering has a numerical representation;
+[CLAIM-436](../claims.d/CLAIM-436.md) shows a continuous ordering has a numerical representation;
 a threshold override has a discontinuous one, so in that form the
 override is an extreme weight and the dissolution this record imagined
 goes through; a graded override has none, and in that form it does not.
-[CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) recasts the rivalry as one question, whether the earliest
+[CLAIM-435](../claims.d/CLAIM-435.md) recasts the rivalry as one question, whether the earliest
 trade-off curves are continuous, and if not, which form the override
 takes. The statement is unchanged.

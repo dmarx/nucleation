@@ -39,7 +39,7 @@ summary: >-
   precision hyper-parameters, from which none of the properties the text
   gives epistemic depth is derived.
 supports:
-- CLAIM-tmptd5us
+- CLAIM-439
 ---
 <!-- inactive-ok-file: CLAIM-412 CLAIM-411 TERM-072 THEORY-063 — Proposed; the claims, terms and accounts it bears on, named, not leaned on -->
 <!-- inactive-ok-file: THEORY-883 THEORY-876 — Proposed; filed in the same batch, named -->

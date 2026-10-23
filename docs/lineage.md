@@ -2,7 +2,7 @@
 
 # Lines of work
 
-63 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
+70 lines, walked from `extends:` and `corrects:` on LIT documents. Each step explains itself; this page is the order they came in.
 
 Grouped by `tags`, which every line holds in common — a line about two things is listed under both.
 
@@ -160,6 +160,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-1188](../record/literature.d/LIT-1188.md) — A General Feedback Theory of Human Behavior: Part I *(Active)*
   - [LIT-1197](../record/literature.d/LIT-1197.md) — A General Feedback Theory of Human Behavior: Part II *(Active)*
 
+### From Origins and functions of positive and negative affect: A control-process view
+
+- [LIT-1441](../record/literature.d/LIT-1441.md) — Origins and functions of positive and negative affect: A control-process view *(Unavailable)*
+  - [LIT-1449](../record/literature.d/LIT-1449.md) — Control Theory, Goal Attainment, and Psychopathology *(Active)*
+
 ### From The Society of Mind
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
@@ -210,6 +215,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 - [LIT-1188](../record/literature.d/LIT-1188.md) — A General Feedback Theory of Human Behavior: Part I *(Active)*
   - [LIT-1197](../record/literature.d/LIT-1197.md) — A General Feedback Theory of Human Behavior: Part II *(Active)*
+
+### From The dynamic architecture of emotion: Evidence for the component process model
+
+- [LIT-1446](../record/literature.d/LIT-1446.md) — The dynamic architecture of emotion: Evidence for the component process model *(Unavailable)*
+  - [LIT-1451](../record/literature.d/LIT-1451.md) — Emotions are emergent processes: they require a dynamic computational architecture *(Active)*
+
+### From Semiorders and a Theory of Utility Discrimination
+
+- [LIT-1460](../record/literature.d/LIT-1460.md) — Semiorders and a Theory of Utility Discrimination *(Unavailable)*
+  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unavailable)*
 
 ### From Psychological Predicates
 
@@ -262,6 +277,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
       - [LIT-640](../record/literature.d/LIT-640.md) — Perceptual consciousness overflows cognitive access *(Active)*
 
 ## complex-systems
+
+### From The dynamic architecture of emotion: Evidence for the component process model
+
+- [LIT-1446](../record/literature.d/LIT-1446.md) — The dynamic architecture of emotion: Evidence for the component process model *(Unavailable)*
+  - [LIT-1451](../record/literature.d/LIT-1451.md) — Emotions are emergent processes: they require a dynamic computational architecture *(Active)*
 
 ### From An Organizational Account of Biological Functions
 
@@ -378,6 +398,27 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## emotion-and-affect
 
+### From The power of goal-directed processes in the causation of emotional and other actions
+
+- [LIT-1434](../record/literature.d/LIT-1434.md) — The power of goal-directed processes in the causation of emotional and other actions *(Active)*
+  - [LIT-1433](../record/literature.d/LIT-1433.md) — Demystifying Emotions: A Typology of Theories in Psychology and Philosophy *(Unavailable)*
+
+### From Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates
+
+- [LIT-1453](../record/literature.d/LIT-1453.md) — Relationship between attitudes and evaluative space: A critical review, with emphasis on the separability of positive and negative substrates *(Unavailable)*
+  - [LIT-1456](../record/literature.d/LIT-1456.md) — Beyond Bipolar Conceptualizations and Measures: The Case of Attitudes and Evaluative Space *(Unavailable)*
+    - [LIT-1438](../record/literature.d/LIT-1438.md) — The current status of research on the structure of evaluative space *(Active)*
+
+### From Origins and functions of positive and negative affect: A control-process view
+
+- [LIT-1441](../record/literature.d/LIT-1441.md) — Origins and functions of positive and negative affect: A control-process view *(Unavailable)*
+  - [LIT-1449](../record/literature.d/LIT-1449.md) — Control Theory, Goal Attainment, and Psychopathology *(Active)*
+
+### From The dynamic architecture of emotion: Evidence for the component process model
+
+- [LIT-1446](../record/literature.d/LIT-1446.md) — The dynamic architecture of emotion: Evidence for the component process model *(Unavailable)*
+  - [LIT-1451](../record/literature.d/LIT-1451.md) — Emotions are emergent processes: they require a dynamic computational architecture *(Active)*
+
 ### From The Society of Mind
 
 - [LIT-429](../record/literature.d/LIT-429.md) — The Society of Mind *(Unavailable)*
@@ -446,6 +487,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
 
 ## game-theory
+
+### From Potential Games
+
+- [LIT-1462](../record/literature.d/LIT-1462.md) — Potential Games *(Unavailable)*
+  - [LIT-1442](../record/literature.d/LIT-1442.md) — Flows and Decompositions of Games: Harmonic and Potential Games *(Active)*
 
 ### From Governing the Commons: The Evolution of Institutions for Collective Action
 
@@ -585,6 +631,21 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 - [LIT-1161](../record/literature.d/LIT-1161.md) — On Lipschitz embedding of finite metric spaces in Hilbert space *(Unavailable)*
   - [LIT-1155](../record/literature.d/LIT-1155.md) — The geometry of graphs and some of its algorithmic applications *(Active)*
 
+### From Representation of a preference ordering by a numerical function
+
+- [LIT-1454](../record/literature.d/LIT-1454.md) — Representation of a preference ordering by a numerical function *(Unavailable)*
+  - [LIT-1435](../record/literature.d/LIT-1435.md) — Theory of Value: An Axiomatic Analysis of Economic Equilibrium *(Active)*
+
+### From Potential Games
+
+- [LIT-1462](../record/literature.d/LIT-1462.md) — Potential Games *(Unavailable)*
+  - [LIT-1442](../record/literature.d/LIT-1442.md) — Flows and Decompositions of Games: Harmonic and Potential Games *(Active)*
+
+### From Semiorders and a Theory of Utility Discrimination
+
+- [LIT-1460](../record/literature.d/LIT-1460.md) — Semiorders and a Theory of Utility Discrimination *(Unavailable)*
+  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unavailable)*
+
 ### From Mathematical Foundations for a Compositional Distributional Model of Meaning
 
 - [LIT-273](../record/literature.d/LIT-273.md) — Mathematical Foundations for a Compositional Distributional Model of Meaning *(Active)*
@@ -665,6 +726,16 @@ Grouped by `tags`, which every line holds in common — a line about two things 
     - [LIT-500](../record/literature.d/LIT-500.md) — Morality beyond the WEIRD: How the nomological network of morality varies across cultures *(Active)*
 
 ## motivation
+
+### From The power of goal-directed processes in the causation of emotional and other actions
+
+- [LIT-1434](../record/literature.d/LIT-1434.md) — The power of goal-directed processes in the causation of emotional and other actions *(Active)*
+  - [LIT-1433](../record/literature.d/LIT-1433.md) — Demystifying Emotions: A Typology of Theories in Psychology and Philosophy *(Unavailable)*
+
+### From Origins and functions of positive and negative affect: A control-process view
+
+- [LIT-1441](../record/literature.d/LIT-1441.md) — Origins and functions of positive and negative affect: A control-process view *(Unavailable)*
+  - [LIT-1449](../record/literature.d/LIT-1449.md) — Control Theory, Goal Attainment, and Psychopathology *(Active)*
 
 ### From Reinforcement, Reward, and Intrinsic Motivation: A Meta-Analysis
 
@@ -836,6 +907,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
 
 ## psychometrics
 
+### From Semiorders and a Theory of Utility Discrimination
+
+- [LIT-1460](../record/literature.d/LIT-1460.md) — Semiorders and a Theory of Utility Discrimination *(Unavailable)*
+  - [LIT-1472](../record/literature.d/LIT-1472.md) — Intransitivity of preferences *(Unavailable)*
+
 ### From The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks
 
 - [LIT-576](../record/literature.d/LIT-576.md) — The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks *(Active)*
@@ -963,6 +1039,11 @@ Grouped by `tags`, which every line holds in common — a line about two things 
   - [LIT-718](../record/literature.d/LIT-718.md) — The Conversable, Responsible Corporation *(Active)*
 
 ## social-science
+
+### From Representation of a preference ordering by a numerical function
+
+- [LIT-1454](../record/literature.d/LIT-1454.md) — Representation of a preference ordering by a numerical function *(Unavailable)*
+  - [LIT-1435](../record/literature.d/LIT-1435.md) — Theory of Value: An Axiomatic Analysis of Economic Equilibrium *(Active)*
 
 ### From Equality of What?
 

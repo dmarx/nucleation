@@ -26,7 +26,7 @@ answers:
 supports:
 - CLAIM-346
 - CLAIM-353
-- CLAIM-tmpz8lli
+- CLAIM-440
 ---
 
 # THEORY-027: Two individually decisive people, weak Pareto and an unrestricted domain cannot all hold, even when choice need only yield a best element; unlike Arrow's theorem, the conflict is not removed by interpersonal comparability
