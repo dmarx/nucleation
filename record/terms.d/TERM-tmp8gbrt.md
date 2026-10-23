@@ -16,7 +16,7 @@ summary: >-
   an (at least instantaneous) ordering, and hedonic valence as "a
   circumstance in which a particular kind of ordering dominates the
   dynamics". Ascendancy is read through Frijda's three marks of control
-  precedence (THEORY-055); the kind of ordering is one over the system's
+  precedence ([THEORY-055](../theory.d/THEORY-055.md)); the kind of ordering is one over the system's
   own states by their bearing on its maintenance. Functional: it says
   nothing about whether the regime is felt.
 used_by:
@@ -29,32 +29,32 @@ used_by:
 
 ## Definition
 
-In CLAIM-347's notation, let an organization 𝒪 face, at time t, the
+In [CLAIM-347](../claims.d/CLAIM-347.md)'s notation, let an organization 𝒪 face, at time t, the
 attainable options X_t. Each of its perspectives i ranks X_t by a
 preorder ≿ᵢ and holds an authority that the organization's endorsement
-dynamics set (CLAIM-277, CLAIM-283). The organization's **appraisal** is
+dynamics set ([CLAIM-277](../claims.d/CLAIM-277.md), [CLAIM-283](../claims.d/CLAIM-283.md)). The organization's **appraisal** is
 the negotiation N_t that takes the profile of rankings and authorities
 to a collective relation R_t on X_t.
 
 - **A common currency at t**: R_t is complete and transitive on X_t.
 - **Ascendancy.** A ranking ≿_v prevails over an interval when it shows
-  the three marks Frijda gives control precedence (THEORY-055):
+  the three marks Frijda gives control precedence ([THEORY-055](../theory.d/THEORY-055.md)):
   - *priority*: on pairs where ≿_v and other perspectives disagree,
     R_t follows ≿_v;
   - *persistence*: it goes on doing so across the interval;
   - *resumption*: after a perturbation installs another ranking, R_t
     returns to ≿_v.
 - **The kind.** ≿_v ranks the system's own states by their bearing on
-  its maintenance: its essential variables in Ashby's sense (THEORY-324),
-  the graded norm of Di Paolo's adaptivity (THEORY-628), what THEORY-045
+  its maintenance: its essential variables in Ashby's sense ([THEORY-324](../theory.d/THEORY-324.md)),
+  the graded norm of Di Paolo's adaptivity ([THEORY-628](../theory.d/THEORY-628.md)), what [THEORY-045](../theory.d/THEORY-045.md)
   calls a regulatory state's meaning "for staying alive".
 - **Goal-conduciveness valence** is a regime in which a ranking of that kind
   prevails across the organization's perspectives.
   - Its **sign** is whether the system runs ahead of or behind a
     reference course along ≿_v: ahead is positive, behind negative, on
     course neutral. This is Carver and Scheier's account, whose neutral
-    point is a reference rate of progress, not rest (LIT-tmp63om1, read
-    through LIT-tmpdmzgc and NOTE-tmpcc9vz): a system standing still
+    point is a reference rate of progress, not rest ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md), read
+    through [LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md) and [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md)): a system standing still
     where it expected to advance is behind. Comparing positions on an
     ordering needs no measure, so the clause stays ordinal.
   - Its **intensity** is the strength of the ascendancy: how much of what
@@ -65,8 +65,8 @@ to a collective relation R_t on X_t.
 Drafted as "hedonic valence", the owner's word. Revised before merge, at
 the owner's direction, after Berridge's liking–wanting dissociation
 showed that the regime this term defines tracks 'wanting', not 'liking'
-(THEORY-tmp0bbxk, CLAIM-tmpe0iew). On the component process model's
-levels of valence (LIT-tmpkywoj, CLAIM-tmp5lpdu) the ordering defined
+([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md), [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)). On the component process model's
+levels of valence ([LIT-tmpkywoj](../literature.d/LIT-tmpkywoj.md), [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md)) the ordering defined
 here is goal conduciveness, need satisfaction and goal attainment, and
 intrinsic pleasantness, 'liking', is a separate appraisal with its own
 ordering. Hedonic valence in that sense is not what this term defines.
@@ -78,29 +78,29 @@ ordering. Hedonic valence in that sense is not what this term defines.
   because the word is taken twice. In affective science "dominance" is
   the third axis of Mehrabian and Russell's pleasure–arousal–dominance
   model, the felt sense of being in control, which Fontaine and
-  colleagues' potency–control dimension continues (LIT-tmp3deyb), and
+  colleagues' potency–control dimension continues ([LIT-tmp3deyb](../literature.d/LIT-tmp3deyb.md)), and
   which the component process model's own authors call "dominance"
-  (LIT-tmpkywoj, p. 4); in decision theory a
+  ([LIT-tmpkywoj](../literature.d/LIT-tmpkywoj.md), p. 4); in decision theory a
   dominated option is one worse on every count. Ascendancy is neither: it
   is which ordering wins a negotiation. "Precedence" was not used either,
-  because CLAIM-283 uses it for the priority a motive claims, as against
+  because [CLAIM-283](../claims.d/CLAIM-283.md) uses it for the priority a motive claims, as against
   the authority it is granted; ascendancy is what is granted.
 
 - **Not intrinsic pleasantness.** 'Liking', the hedonic impact of a
   stimulus, is a separate appraisal (see the revision above). Whether it
-  can be the ascendancy of some ordering is open (CLAIM-tmp5lpdu).
+  can be the ascendancy of some ordering is open ([CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md)).
 - **Not a felt state.** The term is functional. Whether the regime is
-  felt is QUESTION-059, and whether it is identical with felt valence is
-  Veit's thesis (THEORY-101), not this term's.
-- **Not frustration** (TERM-060). Frustration is a relation among
+  felt is [QUESTION-059](../questions.d/QUESTION-059.md), and whether it is identical with felt valence is
+  Veit's thesis ([THEORY-101](../theory.d/THEORY-101.md)), not this term's.
+- **Not frustration** ([TERM-060](TERM-060.md)). Frustration is a relation among
   demands that no admissible transformation meets jointly. Valence on
   this term presupposes it: where the perspectives never conflict, no
   ranking has anything to prevail over.
 - **Not any ascendant goal.** A ranking of world states, however
   ascendant, is not valence until it ranks the system's own states by
   their bearing on its maintenance. Whether a firm's ascendant metric is a
-  ranking of that kind is a question about the firm (QUESTION-tmprsrxs).
+  ranking of that kind is a question about the firm ([QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md)).
 - **Not a scale.** Neither sign nor the ordering needs a measure. Where
   the ascendant ranking is continuous it has a numerical representation;
   where it is a graded lexicographic override it has none
-  (CLAIM-tmp85p0g).
+  ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)).
