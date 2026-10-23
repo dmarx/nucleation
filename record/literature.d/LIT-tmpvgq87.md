@@ -54,6 +54,9 @@ summary: >-
   down. A simulated rat in a T-maze with context reversal infers negative
   and then positive valence, and adapts better than an agent without that
   level.
+supports:
+- CLAIM-tmpe0iew
+- CLAIM-tmptd5us
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli THEORY-662 — Proposed; the account and candidate this work bears on, and the fluency reading that cites it, cited as open -->
 

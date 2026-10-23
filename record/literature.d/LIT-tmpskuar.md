@@ -43,6 +43,8 @@ summary: >-
   alternatives got poorer, guided by learned colour cues. The authors read
   this as a centrally mediated motivational trade-off, consistent with a
   capacity for pain. Corrected in 2025 for a misreported model.
+supports:
+- CLAIM-tmp83ge2
 ---
 <!-- inactive-ok-file: THEORY-101 THEORY-090 CLAIM-tmp83ge2 CLAIM-tmp85p0g — Proposed; the accounts and the test this study bears on -->
 <!-- inactive-ok-file: LIT-tmpf496v LIT-tmpwwll5 — Unavailable, unread; the hermit-crab studies this one extends -->

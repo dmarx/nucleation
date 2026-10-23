@@ -52,6 +52,8 @@ summary: >-
   neural basis is nested corticolimbic loops, neuromodulation, vertical
   integration, action monitoring and theta-band synchrony, and stable
   states drive learning on a developmental timescale.
+supports:
+- CLAIM-tmpz8lli
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli TERM-tmp8gbrt THEORY-055 — Proposed; the proposal and the account of control precedence this reading bears on -->
 <!-- inactive-ok-file: LIT-tmpfjacn — the companion statement of Scherer's model, filed in this batch -->

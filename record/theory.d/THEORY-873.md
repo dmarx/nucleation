@@ -35,6 +35,8 @@ summary: >-
   "small" illusionism keeps the modelled process real and denies the
   reported phenomenal essence, so it is the strong illusionism of
   [THEORY-633](THEORY-633.md) with a named target, not the weak kind.
+supports:
+- CLAIM-tmptd5us
 ---
 <!-- inactive-ok-file: THEORY-633 THEORY-577 THEORY-064 CLAIM-355 CLAIM-412 CLAIM-411 TERM-072 — Proposed; claims, terms and readings cited as open, nothing here rests on them -->
 

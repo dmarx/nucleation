@@ -40,6 +40,8 @@ summary: >-
   does. Unread: a lawful course copy exists but could not be fetched.
 extends:
 - LIT-tmpoacc9
+supports:
+- CLAIM-tmp83ge2
 ---
 <!-- inactive-ok-file: CLAIM-tmp85p0g CLAIM-tmp83ge2 THEORY-090 THEORY-101 — Proposed; the claims and accounts the lexicographic semiorder bears on -->
 <!-- inactive-ok-file: LIT-tmpoacc9 — Unavailable, unread; Luce 1956, the semiorder Tversky builds on -->

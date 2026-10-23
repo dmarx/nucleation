@@ -48,6 +48,9 @@ summary: >-
   coupled oscillators, with hysteresis and cusp-catastrophe jumps.
 extends:
 - LIT-tmpboyvn
+supports:
+- CLAIM-tmptd5us
+- CLAIM-tmpz8lli
 ---
 <!-- inactive-ok-file: LIT-tmpboyvn — Unavailable, unread; the evidence review this paper restates and cites as in press -->
 <!-- inactive-ok-file: THEORY-055 CLAIM-tmpz8lli TERM-tmp8gbrt — Proposed; the account of control precedence and the proposal this reading bears on -->

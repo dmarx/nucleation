@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Dominance of an ordering, as CLAIM-tmpz8lli defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the claim calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
+title: 'Dominance of an ordering, as the ordering-dominance account of valence defines it, tracks ''wanting'', not ''liking'': sensitized incentive salience wins a system''s conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere'
 version: 1
 role: counter
 warrant: empirical
@@ -27,7 +27,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli THEORY-tmp0bbxk TERM-tmp8gbrt CLAIM-tmptd5us — Proposed; the claim this objects to, the reading it rests on, and the term and candidate it bears on, cited as open -->
 
-# CLAIM-tmpe0iew: Dominance of an ordering, as [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the claim calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
+# CLAIM-tmpe0iew: Dominance of an ordering, as the ordering-dominance account of valence defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the account calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
 
 ## The objection
 

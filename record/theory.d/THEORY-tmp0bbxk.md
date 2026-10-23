@@ -25,6 +25,8 @@ summary: >-
   "without any subjective pleasure feeling at all". Filed because it
   bears directly on the record's reading of valence as ordering-dominance
   ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).
+supports:
+- CLAIM-tmpe0iew
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-tmpe0iew — Proposed; the account this reading bears on and the objection filed from it, cited as open -->
 

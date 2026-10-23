@@ -53,6 +53,9 @@ summary: >-
   fixed as one over the system's own states, and five consequences drawn.
 supports:
 - CLAIM-tmp83ge2
+- CLAIM-tmptd5us
+objected_by:
+- CLAIM-tmpe0iew
 ---
 <!-- inactive-ok-file: CLAIM-tmpe0iew THEORY-tmp0bbxk — Proposed; the objection and reading filed with this batch, cited as open -->
 <!-- inactive-ok-file: LIT-tmp63om1 LIT-tmpglbdp LIT-tmpj2mcy LIT-tmpb4r95 — Unavailable or Deferred, unread; the papers that state the accounts read here through later work by the same authors, and the one to read next -->
