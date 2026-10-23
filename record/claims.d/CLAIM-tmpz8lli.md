@@ -98,10 +98,13 @@ Veit's "common currency of sharing evaluative information across
 multiple control systems" ([THEORY-101](../theory.d/THEORY-101.md)) does two jobs: comparability, so
 that the options faced can be traded off, and sharing, so that one
 evaluation governs many control systems. The first is the negotiation
-having an ordinal potential on a short window: ordinal comparability,
-the weakest of the three senses "currency" can bear, short of a scalar
-currency and of fixed exchange rates ([TERM-tmpu0tg2](../terms.d/TERM-tmpu0tg2.md)). It needs the wins
-only to be acyclic, not every pair to be compared. The second is part
+having an ordinal potential on a short window: ordinal extendibility,
+the weakest of the four senses "currency" can bear, short of observed
+comparability of every pair, of a scalar currency and of fixed exchange
+rates ([TERM-tmpu0tg2](../terms.d/TERM-tmpu0tg2.md)). It needs the wins only to be acyclic, so that some
+complete ordering agrees with them all; how options never contested
+compare is not observed, and is open across the class of such
+orderings. The second is part
 3's potential. This is the owner's correction of 2026-10-17 carried
 over ([CLAIM-347](CLAIM-347.md): "We can do quite a lot with access to an ordering, even
 if it doesn't give us a true measure"). Two facts keep it from being a

@@ -167,3 +167,38 @@ def chosen(x: tuple[float, float], y: tuple[float, float]) -> bool:
 E = {(i, j) for i in range(4) for j in range(4) if i != j and chosen(xs[i], xs[j])}
 print("choices (winner, loser):", sorted(E), "; acyclic =", acyclic(4, E),
       "; circular triads =", circular_triads(4, E))
+
+# 10. An approximate potential is not a Lyapunov function (second review).
+case("10. a recurring cycle of moves A -> B -> C -> A")
+wins = [(1, 0), (2, 1), (0, 2)]  # each move goes to the winner: B beat A, C beat B, A beat C
+frac, best = min_reversal_fraction(3, wins)
+print(f"best-fitting ordering {best} misfits {frac:.3f} of the moves")
+grid = [(a, b, c) for a in range(3) for b in range(3) for c in range(3)]
+monotone = [P for P in grid if all(P[w] >= P[l] for w, l in wins)]
+print("functions P nondecreasing along every move:", [P for P in monotone if len(set(P)) > 1],
+      "-> only constants; no ordering is a Lyapunov function of this dynamics")
+
+# 11. Acyclicity is extendibility, not observed comparability.
+case("11. only A>B observed; C never contested")
+fits = [o for o in permutations(range(3)) if agreement([(0, 1)], list(o)) == 1]
+print("complete orderings that fit:", fits, "-> C's place is not observed")
+
+# 12. Sign is set-valued when the class of potentials is not a singleton.
+case("12. sign under the class of case 7: state B, reference C")
+for name, order in (("v: A>B>C>D", [0, 1, 2, 3]), ("w: C>A>D>B", [2, 0, 3, 1])):
+    rank = {x: k for k, x in enumerate(order)}
+    print(f"{name}: state {'ahead of' if rank[1] < rank[2] else 'behind'} reference")
+print("V_t = {+, -}: the sign is partially identified")
+
+# 13. Selecting the ordering on the contests that score it inflates intensity.
+case("13. in-sample vs held-out agreement, wins drawn at random (no ordering prevails)")
+rng = np.random.default_rng(1)
+n, ins, outs = 5, [], []
+for _ in range(200):
+    def draw() -> list[tuple[int, int]]:
+        return [(a, b) if rng.random() < 0.5 else (b, a) for a, b in combinations(range(n), 2)]
+    train, test = draw(), draw()
+    frac, best = min_reversal_fraction(n, train)
+    ins.append(1 - frac)
+    outs.append(agreement(test, best))
+print(f"mean agreement in-sample {np.mean(ins):.3f}, held-out {np.mean(outs):.3f} (chance 0.5)")

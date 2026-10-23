@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'ordinal potential: of a negotiation over a finite set of options in a window of time, an ordering of the options that every move winning one of its conflicts climbs; it exists exactly when the wins never cycle, needs no comparison of pairs that were never contested, and is fixed only up to a class: every strictly increasing transform of one is one, and on a sparse record several orderings can be'
+title: 'ordinal potential: of a negotiation over a finite set of options in a window of time, an ordering of the options that every move winning one of its conflicts climbs; it exists exactly when the wins never cycle, which is ordinal extendibility, that some complete ordering agrees with every win, and not observed comparability, since pairs never contested are not compared; and it is fixed only up to a class: every strictly increasing transform of one is one, and on a sparse record several orderings can be'
 version: 1
 tags:
 - mathematics
@@ -22,7 +22,7 @@ used_by:
 ---
 <!-- inactive-ok-file: TERM-tmpuilar TERM-tmp8gbrt THEORY-tmpj4ciq CLAIM-tmp85p0g — Proposed; the terms built on this one, the second-hand reading of Monderer and Shapley, and the currency result it is distinguished from, cited as open -->
 
-# TERM-tmpu0tg2: ordinal potential: of a negotiation over a finite set of options in a window of time, an ordering of the options that every move winning one of its conflicts climbs; it exists exactly when the wins never cycle, needs no comparison of pairs that were never contested, and is fixed only up to a class: every strictly increasing transform of one is one, and on a sparse record several orderings can be
+# TERM-tmpu0tg2: ordinal potential: of a negotiation over a finite set of options in a window of time, an ordering of the options that every move winning one of its conflicts climbs; it exists exactly when the wins never cycle, which is ordinal extendibility, that some complete ordering agrees with every win, and not observed comparability, since pairs never contested are not compared; and it is fixed only up to a class: every strictly increasing transform of one is one, and on a sparse record several orderings can be
 
 ## Definition
 
@@ -50,18 +50,35 @@ X (or any function P : X → ℝ) with y ≻ x whenever x → y.
   needs an intervention contesting the pairs that separate it from the
   others.
 
-The term names the first of three ordered senses that "common currency"
+The term names the first of four ordered senses that "common currency"
 ran together:
 
-1. **ordinal comparability**: the negotiation has an ordinal potential;
-2. **scalar currency**: the ordering has a real-valued representation,
+1. **ordinal extendibility**: the negotiation has an ordinal potential,
+   so some complete ordering agrees with every win (on a finite set, an
+   acyclic relation extends to a linear order: Szpilrajn's theorem in its
+   finite form, which part 1 of [CLAIM-tmp7df5r](../claims.d/CLAIM-tmp7df5r.md) constructs). It establishes
+   that a shared ordering *could* account for the record, not that the
+   record contains one. If the only win is A over B, three complete
+   orderings fit and C's place is not observed (scratch/formal/valence.py,
+   case 11);
+2. **ordinal comparability**: every pair was contested and the wins are
+   complete and transitive, so the record itself orders all the options;
+3. **scalar currency**: the ordering has a real-valued representation,
    which a finite ordering always has and a graded lexicographic one on a
    continuum does not ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md), parts 1 and 2);
-3. **cardinal trade-off structure**: differences in the representation
+4. **cardinal trade-off structure**: differences in the representation
    mean something, so exchange rates between options are fixed up to an
    affine transform. Only here are margins intensities, and only here does
    the Hodge decomposition's least-squares potential measure what it says
    ([THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md)).
+
+The record's "common currency", in the owner's sense, needs only the
+first: the existence of a compatible extension, not an observed shared
+evaluation of every option. Anything inferred about pairs never contested
+is inferred about the class, not observed. The first level was named
+"ordinal comparability" in a first revision and renamed "ordinal
+extendibility" after a second review of the pull request, which pointed
+out that acyclicity licenses only the weaker inference.
 
 ## What it is not
 

@@ -137,14 +137,27 @@ scratch/formal/valence.py.
 4. **Measure alignment ordinally.** For each candidate ordering, each
    perspective's and the maintenance ordering's, the share of contested
    wins it agrees with, on the pairs where it and its rivals disagree.
-   This, not coherence, is how far an ordering prevails (part 3).
+   This, not coherence, is how far an ordering prevails (part 3). An
+   ordering fixed in advance is scored on the contests at hand; one
+   selected from the record, as a best-fitting ordering, is scored on
+   contests held out from its selection, since in-sample agreement is
+   inflated (part 11).
 5. **Report the class.** The orderings that fit the record equally form
    a class (part 7). Narrow it by intervention: devaluation or
    perturbation that contests the pairs on which its members differ.
-   Until then the verdict is about the class.
+   Until then the verdict is about the class: the sign is the set of
+   signs its members give the state against the reference, determinate
+   only when that set is a singleton (part 10), and intensity is the range
+   of its members' agreements. Options never contested are not compared
+   by the record at all; that the wins are acyclic says only that some
+   complete ordering fits them ([TERM-tmpu0tg2](../terms.d/TERM-tmpu0tg2.md)).
 6. **Read persistence and ambivalence across windows.** Persistence is
    one ordering staying in each window's class; resumption, its return
-   after a perturbation ([TERM-tmpuilar](../terms.d/TERM-tmpuilar.md)). Ambivalence is cycles within
+   after a perturbation ([TERM-tmpuilar](../terms.d/TERM-tmpuilar.md)). Resumption is read off the
+   record, as observed returns, unless the potential is exact: an
+   approximate one is no Lyapunov function (part 9), and inferring return
+   from it needs a drift condition on a cardinal potential under a stated
+   model of the moves. Ambivalence is cycles within
    windows or a pair's outcome reversing across them, more often than a
    null model allows that keeps the record's graph of contested pairs and
    draws its orientations from orderings, and conditioned on context, so

@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'On a finite set of outcomes, some function rises with every move that wins one of a negotiation''s conflicts exactly when no chain of winning moves returns to where it began, and the length of the longest such chain ending at an outcome is one such function; a perfectly transitive record of which side won each pair, in a complete tournament contesting every pair once, leaves a cyclic share of (n − 2)/3n under the Hodge decomposition, a baseline that does not carry to sparse records; the Hodge gradient can reverse a comparison the wins settle, netting a record erases alternation, a record fixes a class of potentials rather than one, and a coherent record is not yet one aligned with any single perspective''s ordering'
+title: 'On a finite set of outcomes, some function rises with every move that wins one of a negotiation''s conflicts exactly when no chain of winning moves returns to where it began, and the length of the longest such chain ending at an outcome is one such function; a perfectly transitive record of which side won each pair, in a complete tournament contesting every pair once, leaves a cyclic share of (n − 2)/3n under the Hodge decomposition, a baseline that does not carry to sparse records; the Hodge gradient can reverse a comparison the wins settle, netting a record erases alternation, a record fixes a class of potentials rather than one, a coherent record is not yet one aligned with any single perspective''s ordering, a best-fitting ordering of a cycle is no Lyapunov function, the sign a class of potentials gives can be set-valued, and an ordering fitted to a record overstates its agreement there'
 version: 1
 role: thesis
 warrant: demonstrated
@@ -27,7 +27,8 @@ summary: >-
   read their paper ([LIT-tmpp4esg](../literature.d/LIT-tmpp4esg.md)). Part 2 is a calibration of the Hodge
   decomposition (Candogan et al.; Jiang et al.) for binary conflict
   records, computed here: even a perfect ranking leaves a cyclic residual.
-  Part 3 separates coherence from alignment. Parts 4 to 7 were added
+  Part 3 separates coherence from alignment. Parts 9 to 11 were added
+  after a second review. Parts 4 to 8 were added
   when a review of the pull request found that the measures built on
   parts 2 and 3 confused ordinal and cardinal structure; each is checked
   in scratch/formal/valence.py.
@@ -37,7 +38,7 @@ uses:
 <!-- inactive-ok-file: THEORY-tmpj4ciq TERM-tmp8gbrt — Proposed; the second-hand reading of Monderer and Shapley and the term this claim underwrites, cited as open -->
 <!-- inactive-ok-file: LIT-tmpp4esg — Unavailable, no lawful copy reached; Monderer and Shapley, whose lemma part 1 proves for itself -->
 
-# CLAIM-tmp7df5r: On a finite set of outcomes, some function rises with every move that wins one of a negotiation's conflicts exactly when no chain of winning moves returns to where it began, and the length of the longest such chain ending at an outcome is one such function; a perfectly transitive record of which side won each pair, in a complete tournament contesting every pair once, leaves a cyclic share of (n − 2)/3n under the Hodge decomposition, a baseline that does not carry to sparse records; the Hodge gradient can reverse a comparison the wins settle, netting a record erases alternation, a record fixes a class of potentials rather than one, and a coherent record is not yet one aligned with any single perspective's ordering
+# CLAIM-tmp7df5r: On a finite set of outcomes, some function rises with every move that wins one of a negotiation's conflicts exactly when no chain of winning moves returns to where it began, and the length of the longest such chain ending at an outcome is one such function; a perfectly transitive record of which side won each pair, in a complete tournament contesting every pair once, leaves a cyclic share of (n − 2)/3n under the Hodge decomposition, a baseline that does not carry to sparse records; the Hodge gradient can reverse a comparison the wins settle, netting a record erases alternation, a record fixes a class of potentials rather than one, a coherent record is not yet one aligned with any single perspective's ordering, a best-fitting ordering of a cycle is no Lyapunov function, the sign a class of potentials gives can be set-valued, and an ordering fitted to a record overstates its agreement there
 
 ## The claim
 
@@ -132,6 +133,27 @@ as B against C, separates them.
 relation of wins is empty and acyclic, so by part 1 every ordering is a
 potential (case 5). Agreement, as in part 3, is undefined there, having
 no wins to count.
+
+**9. A best-fitting ordering of a cycle is no Lyapunov function.** Let
+the moves recur A → B → C → A. The best-fitting ordering misfits one move
+in three, a reversal fraction of 1/3. But a function non-decreasing along
+all three moves has P(A) ≤ P(B) ≤ P(C) ≤ P(A), so it is constant: no
+ordering is a Lyapunov function of these dynamics, however well it fits
+(valence.py, case 10). Fit within a tolerance and monotonicity along the
+dynamics are different properties; the second is what resumption needs.
+
+**10. The sign a class gives can be set-valued.** Take the two orderings
+of part 7, both potentials of the same record, a state B and a reference
+state C. A ≻ B ≻ C ≻ D puts the state ahead of its reference and
+C ≻ A ≻ D ≻ B puts it behind (case 12). So {sgn_P(x, r) : P in the class}
+is {+, −}, and the record does not fix the sign.
+
+**11. An ordering fitted to a record overstates its agreement there.**
+Draw every pair's winner among five options at random, so that no
+ordering prevails, and fit the best ordering to one such record. Over
+200 trials it agrees with 0.87 of the contests it was fitted to, and with
+0.50 of a fresh record drawn the same way, which is chance (case 13).
+Agreement of a selected ordering is scored on held-out contests.
 
 ## What it does not say
 

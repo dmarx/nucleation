@@ -41,11 +41,15 @@ the negotiation N_t that takes the profile of rankings and authorities
 to a collective relation R_t on X_t.
 
 - **A common currency at t**, in the owner's sense, is ordinal
-  comparability: the negotiation has an ordinal potential on a window
-  around t ([TERM-tmpu0tg2](TERM-tmpu0tg2.md)). It is not a scalar currency, a real-valued
+  extendibility: the negotiation has an ordinal potential on a window
+  around t, so some complete ordering agrees with every win
+  ([TERM-tmpu0tg2](TERM-tmpu0tg2.md)). It requires only that a compatible extension exist, not an
+  observed shared evaluation of every option; how options never
+  contested compare is open across the class. It is not ordinal
+  comparability of every pair, not a scalar currency, a real-valued
   representation, and not a cardinal trade-off structure with fixed
-  exchange rates; on continua the three come apart ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)), and
-  this term uses only the first.
+  exchange rates; on continua the last two come apart from the first
+  ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)), and this term uses only the first.
 - **Potential.** Read the perspectives as players, each with its own
   ranking. A ranking ≿_v is a *potential* of the negotiation when every
   move that wins one of its conflicts is an improvement along ≿_v: the
@@ -100,7 +104,16 @@ to a collective relation R_t on X_t.
     point is a reference rate of progress, not rest ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md), read
     through [LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md) and [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md)): a system standing still
     where it expected to advance is behind. Comparing positions on an
-    ordering needs no measure, so the clause stays ordinal.
+    ordering needs no measure, so the clause stays ordinal. Where the
+    class of potentials 𝒫_t the record admits is not a singleton, the
+    sign is set-valued: V_t = {sgn_P(x_t, r_t) : P ∈ 𝒫_t}, for the
+    system's state x_t and reference state r_t. The system has a
+    determinate sign, positive, neutral or negative, only when V_t is a
+    singleton, that is, when every admissible potential ranks x_t and
+    r_t alike; otherwise the sign is partially identified, and narrowing
+    it needs an intervention that contests the pair. With the two
+    orderings of [CLAIM-tmp7df5r](../claims.d/CLAIM-tmp7df5r.md), part 7, one puts a state ahead of its
+    reference and the other behind it (part 10).
   - Its **intensity** is the potential's strength: the share of the
     window's contested wins that agree with ≿_v, on the pairs where ≿_v
     and a rival ordering disagree. It is ordinal, counting wins without
@@ -108,7 +121,15 @@ to a collective relation R_t on X_t.
     is stated as such where margins are intensities. Coherence, a low
     least reversal fraction, is a precondition and not the measure: a
     stable compromise is as coherent as one perspective deciding
-    everything ([CLAIM-tmp7df5r](../claims.d/CLAIM-tmp7df5r.md), part 3).
+    everything ([CLAIM-tmp7df5r](../claims.d/CLAIM-tmp7df5r.md), part 3). Where ≿_v is fixed in advance,
+    as the maintenance ordering or a perspective's ranking, its agreement
+    can be scored on the contests at hand. Where it is selected from the
+    record, as a best-fitting ordering, it is scored on contests held out
+    from the selection: on wins drawn at random, a best-fitting ordering
+    agrees with 0.87 of the contests it was fitted to and 0.50 of fresh
+    ones (part 11). Like the sign, intensity is reported across the class
+    where the class is not a singleton, as the range of agreements its
+    members attain.
   - **Ambivalence** is conflict that no ordering absorbs, read in the
     sequence of windows and not in a netted record: circular triads or a
     positive least reversal fraction within a window, and reversals of
@@ -141,7 +162,8 @@ and all six were conceded before merge:
 
 1. It defined a common currency as a complete, transitive relation,
    which [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) shows is not a currency on continua. The
-   definition now separates ordinal comparability, scalar currency and
+   definition now separates ordinal extendibility (first named
+   comparability), ordinal comparability, scalar currency and
    cardinal trade-off structure, uses only the first, and weakens it from
    complete and transitive to acyclic.
 2. Existence alone made a conflict-free system vacuously eligible. A
@@ -165,6 +187,15 @@ as a candidate only ([CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)). The revie
 "dynamical ascendancy"; it is named for the potential instead, keeping
 the rename below. The synthetic cases behind each fix are in
 scratch/formal/valence.py.
+
+**A second review**, of the revised pull request, found three more
+faults, also conceded before merge. Acyclicity establishes ordinal
+extendibility, not comparability, and the first level was renamed
+([TERM-tmpu0tg2](TERM-tmpu0tg2.md)). An approximate persistent potential is no Lyapunov
+function, and the second level now separates exact from approximate
+([TERM-tmpuilar](TERM-tmpuilar.md)). And where the class of potentials is not a singleton,
+sign and intensity are set-valued, and an ordering selected from the
+record is scored on held-out contests (above).
 
 ## What it is not
 
