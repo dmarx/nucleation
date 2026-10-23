@@ -158,13 +158,13 @@ inference" (p. 401).
 
 ## Connections
 
-Brouillet and Friston (LIT-957, NOTE-785, THEORY-662) cite it for valence,
+Brouillet and Friston ([LIT-957](../literature.d/LIT-957.md), [NOTE-785](NOTE-785.md), [THEORY-662](../theory.d/THEORY-662.md)) cite it for valence,
 and their felt fluency is the same shape: a hierarchically deeper
-inference about precision. Sandved-Smith et al. (LIT-1191, NOTE-958) extend
+inference about precision. Sandved-Smith et al. ([LIT-1191](../literature.d/LIT-1191.md), [NOTE-958](NOTE-958.md)) extend
 its parametric depth to attention and meta-awareness. Berridge and
-Kringelbach (LIT-tmpmp2nw) supply the wanting/liking evidence it
+Kringelbach ([LIT-tmpmp2nw](../literature.d/LIT-tmpmp2nw.md)) supply the wanting/liking evidence it
 concedes it cannot yet meet. The sign of AC is close to Carver and
-Scheier's progress against a reference rate (LIT-tmpdmzgc, LIT-tmp63om1),
+Scheier's progress against a reference rate ([LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md), [LIT-tmp63om1](../literature.d/LIT-tmp63om1.md)),
 which the paper does not cite.
 
 ## Bearing on the record
@@ -173,9 +173,9 @@ which the paper does not cite.
 and the match is closer than its vocabulary suggests.** Policy selection
 here is a negotiation between two rankings of the options. One is the
 preference-driven expected free energy Gπ, the other the habitual prior
-Eπ, and γ sets how far Gπ wins. On the record's terms (TERM-tmp8gbrt), γ
+Eπ, and γ sets how far Gπ wins. On the record's terms ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)), γ
 *is* a dominance strength: the weight of one perspective's ordering in a
-compensatory negotiation, the first regime of CLAIM-tmp85p0g. The deep
+compensatory negotiation, the first regime of [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md). The deep
 level infers its valence state from changes in that weight and sets it
 top-down. That is what the candidate proposes, almost exactly.
 The deep level's purpose also fits the record's resumption mark: it lets
@@ -186,20 +186,20 @@ and it reverses the record's intensity clause for negative valence.** Two
 divergences matter:
 
 - *Where valence is.* Hesp et al. put valence at the deeper level, and AC
-  is only evidence for it. The record's account (CLAIM-tmpz8lli) puts
+  is only evidence for it. The record's account ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)) puts
   valence in the dominance regime and makes feeling a further question. If
   the record adopts the felt-as-self-model candidate, Hesp is precedent
   for felt valence at the deeper level. Hesp gives no reason to call the
   lower regime valence at all.
 - *Negative valence lowers dominance.* In Hesp, negative valence is low γ.
   The preference ordering's grip weakens and the agent "fall[s] back on
-  her baseline prior over policies" (p. 420). On TERM-tmp8gbrt, negative
+  her baseline prior over policies" (p. 420). On [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), negative
   valence is the maintenance ordering dominating while the system runs
   behind, and intensity is the strength of that dominance. These are
   opposed unless the habit prior in a negative state counts as the
   dominant maintenance ordering, and the paper gives no reason to read it
   so. The record held its intensity clause "for negative valence only"
-  because of Carver 2003 (LIT-tmpb4r95). Hesp is a formal model in which
+  because of Carver 2003 ([LIT-tmpb4r95](../literature.d/LIT-tmpb4r95.md)). Hesp is a formal model in which
   the clause also fails for negative valence, if γ is the dominance. The
   paper's §5.5 fear case cuts the other way. There, confident flight is
   strong dominance with negative valence, which fits the record better
@@ -215,10 +215,10 @@ formalism.
 **On wanting and liking, Hesp and the record are in the same boat.** The
 paper concedes that if AC is dopaminergic it sits on Berridge's 'wanting'
 side. Dominance, as the record defines it, sits there too
-(NOTE-tmprub8s). So neither account, as it stands, is an account
+([NOTE-tmprub8s](NOTE-tmprub8s.md)). So neither account, as it stands, is an account
 of 'liking'. The paper's fallback, that pleasure is "only one source of
 positive valence", is available to the record as well. Taking it means
-conceding that "hedonic valence" in TERM-tmp8gbrt names something other
+conceding that "hedonic valence" in [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) names something other
 than pleasure.
 
 **For the three layers.** The paper supplies an operational handle for
@@ -230,9 +230,9 @@ So the self-model shows itself in *how dominance is re-set after a
 perturbation*, not in which ordering wins at steady state. That gives
 the felt-as-self-model candidate a test that layers (1) and (2) cannot
 supply. "Felt" here still means explicitly represented and so reportable,
-as in Brouillet and Friston (THEORY-662). Hesp et al. assume that
+as in Brouillet and Friston ([THEORY-662](../theory.d/THEORY-662.md)). Hesp et al. assume that
 representation is necessary and do not claim it is sufficient, so
-QUESTION-059 is not answered.
+[QUESTION-059](../questions.d/QUESTION-059.md) is not answered.
 
 ## Limitations
 

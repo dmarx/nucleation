@@ -16,31 +16,31 @@ grounds:
 - THEORY-tmp0bbxk
 - LIT-tmpvgq87
 summary: >-
-  Raised by the reading of Berridge and Kringelbach (NOTE-tmprub8s) filed
+  Raised by the reading of Berridge and Kringelbach ([NOTE-tmprub8s](../notes.d/NOTE-tmprub8s.md)) filed
   on 2026-10-23 for the ordering-dominance account. Sensitized 'wanting'
   meets all three of Frijda's marks of control precedence, which
-  TERM-tmp8gbrt uses to define dominance, while 'liking' stays flat or
-  falls. That is CLAIM-tmpz8lli's own defeater, intensity that does not
-  track control precedence. Hesp et al. (NOTE-tmpsj4fq) concede the same
+  [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) uses to define dominance, while 'liking' stays flat or
+  falls. That is [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md)'s own defeater, intensity that does not
+  track control precedence. Hesp et al. ([NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)) concede the same
   of their account, which puts valence in the system's model of its own
   dominance rather than in the dominance.
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli THEORY-tmp0bbxk TERM-tmp8gbrt CLAIM-tmptd5us — Proposed; the claim this objects to, the reading it rests on, and the term and candidate it bears on, cited as open -->
 
-# CLAIM-tmpe0iew: Dominance of an ordering, as CLAIM-tmpz8lli defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the claim calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
+# CLAIM-tmpe0iew: Dominance of an ordering, as [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) defines it, tracks 'wanting', not 'liking': sensitized incentive salience wins a system's conflicts, persists and resumes while hedonic impact measured by taste reactivity stays flat or falls, so the regime the claim calls hedonic valence is motivational valence, and hedonic valence, if it is anywhere in the account, is elsewhere
 
 ## The objection
 
-TERM-tmp8gbrt defines dominance by Frijda's three marks: priority in
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) defines dominance by Frijda's three marks: priority in
 conflicts, persistence, resumption after interruption. Sensitized
 'wanting' has all three. Lateral-hypothalamic stimulation made rats "'want'
 to eat at least four times more than normal amounts" while it "failed to
 enhance 'liking' reactions to sweetness", and in addiction cue-triggered
-'wanting' can grow "even if the drug became less pleasant" (THEORY-tmp0bbxk).
+'wanting' can grow "even if the drug became less pleasant" ([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md)).
 The ordering that wins is strengthened; the hedonic impact, measured by
 taste reactivity without report, is not.
 
-CLAIM-tmpz8lli names this as a defeater: "intensity that does not track
+[CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) names this as a defeater: "intensity that does not track
 control precedence". Here it does not.
 
 **The rescues tried, and why none is clean.**
@@ -57,13 +57,13 @@ Berridge calls 'wanting', and Berridge says it is valenced: "Motivational
 salience is never neutral, but its valence is not fixed." Hedonic
 valence, 'liking', is not this regime.
 
-**Where it might be instead.** Hesp et al. (LIT-tmpvgq87, NOTE-tmpsj4fq)
+**Where it might be instead.** Hesp et al. ([LIT-tmpvgq87](../literature.d/LIT-tmpvgq87.md), [NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md))
 put valence in the system's inference about its own action model:
 "agents infer their valence state based on the expected precision of
 their action model" (p. 399). They concede that the dopaminergic signal
 in their account is closer to 'wanting' than to pleasure (p. 430). If
-hedonic valence is anywhere in the record's account, CLAIM-tmptd5us's
-self-model is the candidate place. But CLAIM-tmptd5us makes the
+hedonic valence is anywhere in the record's account, [CLAIM-tmptd5us](CLAIM-tmptd5us.md)'s
+self-model is the candidate place. But [CLAIM-tmptd5us](CLAIM-tmptd5us.md) makes the
 self-model what makes valence felt, not what makes it hedonic, and
 Berridge notes that 'wanting' can itself be appraised as pleasure, so a
 model of dominance may yield felt motivation rather than felt pleasure.
@@ -82,6 +82,6 @@ A reading of 'liking' as dominance by a different ordering than the one
 'wanting' sets, for instance an ordering over the system's consummatory
 states rather than its pursuits, with taste reactivity tracking that
 ordering's dominance in the dissociation cases; or a revision of
-CLAIM-tmpz8lli and TERM-tmp8gbrt from hedonic to motivational valence,
+[CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) and [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) from hedonic to motivational valence,
 conceding the objection, with hedonic valence left to another account.
 The second is the owner's decision.

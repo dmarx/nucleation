@@ -103,8 +103,8 @@ and utility maximization becomes an empirical claim.
   the explicit comparison that could reveal the Long trial to be a
   dominated option" (p. 387). Shown the two profiles side by side,
   subjects obey dominance (p. 387). Hence "Their decisions did not maximize
-  experienced utility (#9), although they may have maximized remembered
-  utility (#10)" (p. 377).
+  experienced utility ([#9](https://github.com/dmarx/nucleation/issues/9)), although they may have maximized remembered
+  utility ([#10](https://github.com/dmarx/nucleation/issues/10))" (p. 377).
 - **The normative theory.** "Ordinal measurement of instant utility implies
   that any two moments of experience can be compared, to establish which of
   them carries the higher hedonic value" (p. 389). The three axioms hold if
@@ -142,11 +142,11 @@ and utility maximization becomes an empirical claim.
 
 ## Connections
 
-Berridge and Kringelbach (LIT-tmpmp2nw) make the neural version
+Berridge and Kringelbach ([LIT-tmpmp2nw](../literature.d/LIT-tmpmp2nw.md)) make the neural version
 of the same split, with 'wanting' on the decision side and 'liking' on
 the experience side. Their note that 'liking' tracks satiety and KWS's
-citation of Cabanac 1971 both point to alliesthesia (LIT-tmpt9xwi,
-unread). Thinking, Fast and Slow (LIT-1209, Deferred) restates the
+citation of Cabanac 1971 both point to alliesthesia ([LIT-tmpt9xwi](../literature.d/LIT-tmpt9xwi.md),
+unread). Thinking, Fast and Slow ([LIT-1209](../literature.d/LIT-1209.md), Deferred) restates the
 experiencing and remembering selves for a general audience.
 
 ## Bearing on the record
@@ -157,14 +157,14 @@ measured.** The cold-water subjects pull their hands out "as soon as they
 were allowed to" (p. 387). In the moment, pain wins its conflict, as the
 "stop" signal that "interrupts activities that are causing harm". That is
 control precedence, and KWS's functional gloss on instant utility is close
-to the record's reading of dominance (TERM-tmp8gbrt, THEORY-055). The
+to the record's reading of dominance ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), [THEORY-055](../theory.d/THEORY-055.md)). The
 dissociation is elsewhere: between instant utility and choices made later
-between remembered episodes. Two things follow for CLAIM-tmpz8lli:
+between remembered episodes. Two things follow for [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md):
 
 - If dominance is read from *deferred* choices between episodes, it
   measures remembered utility, and remembered utility diverges from
   instant utility. So layer (1) must be measured on conflicts won *during*
-  the episode, not inferred from later preference. QUESTION-tmpsqwu5 should
+  the episode, not inferred from later preference. [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) should
   say so.
 - The dissociation is not a case of strong dominance with weak valence, as
   Berridge's is. It is a case of one ordering (the moment's) being
@@ -186,17 +186,17 @@ neglects duration and weights peak and end. If "felt" means the system
 models its own dominance, and the model is read off by asking the system
 retrospectively, it will inherit these biases. So layer (3) cannot be
 validated against retrospective report. It needs a concurrent measure, or
-a comparison like Hesp et al.'s (LIT-tmpvgq87), where the
+a comparison like Hesp et al.'s ([LIT-tmpvgq87](../literature.d/LIT-tmpvgq87.md)), where the
 self-modelling level is removed and behaviour compared.
 
 **On ordinality.** The record has insisted that an ordering does a lot
-without a measure (CLAIM-347, CLAIM-tmp85p0g). Theorem 1 gives a precise
+without a measure ([CLAIM-347](../claims.d/CLAIM-347.md), [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)). Theorem 1 gives a precise
 case. Ordinal instant utility, with a distinguished neutral point and the
 three axioms, yields a ratio-scale value whose integral is total utility.
 So a neutral zero plus separability turns an ordering into a currency over
-time. The sign clause of TERM-tmp8gbrt needs a neutral point too, and the
+time. The sign clause of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) needs a neutral point too, and the
 two neutrals differ. KWS's is a constant *experience* ("neither pleasant
-nor unpleasant"). Carver and Scheier's (LIT-tmp63om1) is a reference
+nor unpleasant"). Carver and Scheier's ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md)) is a reference
 *rate* of progress. KWS's pails example, where the neutral stimulus shifts
 with adaptation, is compatible with a reference course. It does not
 decide between them.

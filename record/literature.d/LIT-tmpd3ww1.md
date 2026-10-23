@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpj69i0): in full, from the published article as deposited in Erasmus University Rotterdam''s repository (RePub, hdl 1765/23011). Distinguishes decision utility (an outcome''s weight in choice) from experienced utility (hedonic quality). Experienced utility divides into instant utility, reported in real time, and remembered utility, a retrospective evaluation. Remembered utility follows a Peak-End rule and neglects duration. Choices follow remembered utility, so people choose dominated, longer painful episodes. Axioms on ordinal instant utility with a neutral zero yield total utility as a time integral. Filed for the record''s three-layer operationalization of felt valence (CLAIM-tmpz8lli).'
+status_note: 'read 2026-10-23 ([NOTE-tmpj69i0](../notes.d/NOTE-tmpj69i0.md)): in full, from the published article as deposited in Erasmus University Rotterdam''s repository (RePub, hdl 1765/23011). Distinguishes decision utility (an outcome''s weight in choice) from experienced utility (hedonic quality). Experienced utility divides into instant utility, reported in real time, and remembered utility, a retrospective evaluation. Remembered utility follows a Peak-End rule and neglects duration. Choices follow remembered utility, so people choose dominated, longer painful episodes. Axioms on ordinal instant utility with a neutral zero yield total utility as a time integral. Filed for the record''s three-layer operationalization of felt valence ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).'
 title: 'Back to Bentham? Explorations of Experienced Utility'
 version: 1
 history:
@@ -92,8 +92,8 @@ of Economics* 112(2):375–405 — DOI-10.1162/003355397555235
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's plan to measure felt valence in three
-independent layers (CLAIM-tmpz8lli). Its instant utility is a hedonic
+independent layers ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). Its instant utility is a hedonic
 marker measured in real time (layer 2). Its decision utility is close to
 what dominance measured from conflicts won would read (layer 1). Its
 dissociation of the two through remembered utility is a warning about how
-to measure both. Read in NOTE-tmpj69i0.
+to measure both. Read in [NOTE-tmpj69i0](../notes.d/NOTE-tmpj69i0.md).

@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref and PubMed, not read: no lawful full text could be reached. Looked for on 2026-10-23. OpenAlex records it as closed, with no repository copy. The publisher (Elsevier, Journal of Theoretical Biology) returned a 403 to this client, and no open-archive copy is offered. PubMed (PMID 12240693) carries the abstract only, and there is no PubMed Central record. A web search found no author-posted or institutional copy, only the later Ramírez and Cabanac abstract (2003). Unpaywall was not queried, because it requires an email address. The thesis is known here from the PubMed abstract and from citations in Berridge and Kringelbach 2015 (LIT-tmpmp2nw) and Kahneman, Wakker and Sarin 1997 (LIT-tmpd3ww1), which cite other Cabanac papers on alliesthesia. Filed because it is the standard source for pleasure as the common currency of motivational trade-offs, which CLAIM-tmpz8lli recasts as an ordering. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref and PubMed, not read: no lawful full text could be reached. Looked for on 2026-10-23. OpenAlex records it as closed, with no repository copy. The publisher (Elsevier, Journal of Theoretical Biology) returned a 403 to this client, and no open-archive copy is offered. PubMed (PMID 12240693) carries the abstract only, and there is no PubMed Central record. A web search found no author-posted or institutional copy, only the later Ramírez and Cabanac abstract (2003). Unpaywall was not queried, because it requires an email address. The thesis is known here from the PubMed abstract and from citations in Berridge and Kringelbach 2015 ([LIT-tmpmp2nw](LIT-tmpmp2nw.md)) and Kahneman, Wakker and Sarin 1997 ([LIT-tmpd3ww1](LIT-tmpd3ww1.md)), which cite other Cabanac papers on alliesthesia. Filed because it is the standard source for pleasure as the common currency of motivational trade-offs, which [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) recasts as an ordering. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Pleasure: the common currency'
 version: 1
 history:
@@ -65,9 +65,9 @@ are not described in it and were not seen.
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's account of valence as dominance
-(CLAIM-tmpz8lli). Its part 2 recasts a common currency as the negotiation
+([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). Its part 2 recasts a common currency as the negotiation
 admitting an ordering, and Cabanac is the thesis it recasts, alongside
-Veit (THEORY-101). One point is visible from the abstract alone. For
+Veit ([THEORY-101](../theory.d/THEORY-101.md)). One point is visible from the abstract alone. For
 animals, Cabanac measures pleasure *by choice*. That merges the record's
 layer (1), dominance from conflicts won, with layer (2), a hedonic marker
 independent of choice. For animals, the paper cannot test whether the two
