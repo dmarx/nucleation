@@ -26,6 +26,7 @@ summary: >-
   potential rather than in the potential.
 complements:
 - CLAIM-tmp5lpdu
+- CLAIM-tmp8ci5a
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli THEORY-tmp0bbxk TERM-tmp8gbrt CLAIM-tmptd5us — Proposed; the claim this objects to, the reading it rests on, and the term and candidate it bears on, cited as open -->
 

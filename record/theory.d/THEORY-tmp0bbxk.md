@@ -28,6 +28,7 @@ summary: >-
 supports:
 - CLAIM-tmpe0iew
 - CLAIM-tmp5lpdu
+- CLAIM-tmp8ci5a
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-tmpe0iew — Proposed; the account this reading bears on and the objection filed from it, cited as open -->
 

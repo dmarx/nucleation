@@ -77,9 +77,16 @@ whose ordering is the negotiation's potential ([TERM-tmp8gbrt](../terms.d/TERM-t
 Shuman and colleagues' micro-valences and macro-valence, the latter "an
 integrative "common currency" to compare alternatives for choices" (p. 1),
 and it is Carver's many goal loops each with a valence of its own, of
-which one governs. In the Hodge decomposition of the negotiation's
-preference flow, the micro-valences are the perspectives' rankings and the
-macro-valence is the gradient part.
+which one governs. The micro-valences are the perspectives' rankings
+and the macro-valence is the class of orderings that fit the
+negotiation's wins ([TERM-tmpu0tg2](../terms.d/TERM-tmpu0tg2.md)). A record need not single out one
+perspective: several perspectives' orderings can fit the same wins
+([CLAIM-tmp7df5r](CLAIM-tmp7df5r.md), part 7). Until an intervention contests the pairs on
+which they differ, "the perspective whose ordering is the potential" is
+any member of that class, and the system's valence is reported for the
+class. This was revised before merge after a review; the draft read the
+macro-valence as the gradient part of a Hodge decomposition, which can
+reverse what the wins settle (part 4).
 
 ## What it answers
 
@@ -97,7 +104,8 @@ macro-valence is the gradient part.
    perspective prevailing on a cue-keyed proxy.
 3. **Ambivalence** (the evaluative space model's coactivation): two
    perspectives with strong saliences of opposite sign and no potential
-   absorbing them, a large cyclic share.
+   absorbing them: wins that cycle within a window, or a pair's outcome
+   reversing across windows.
 
 ## What it does not say
 

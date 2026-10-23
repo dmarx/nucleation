@@ -111,34 +111,59 @@ memories of pleasure and pain" (p. 385). Potential during an episode
 must therefore be read from the conflicts won during it, not from later
 choices about it, which measure a different ordering, the remembered one.
 
-## A procedure: the Hodge decomposition of the conflict record
+## A procedure: ordinal tests first, the Hodge decomposition for margins
 
 With the rename to "potential" ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) the question has a
-candidate procedure. Record, for each contested pair, which side the
-negotiation's decision took, and treat the record as a flow on the graph
-of options. HodgeRank (Jiang, Lim, Yao and Ye, [LIT-tmp54cwg](../literature.d/LIT-tmp54cwg.md), [NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md);
-[THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md)) splits it into a gradient part, the least-squares global
-ranking, and a cyclic part, curl for local inconsistency and harmonic for
-global. Then:
-- **which ordering prevails** is the gradient's ranking, compared with
-  each perspective's own;
-- **how far it prevails** is the agreement of the gradient with one
-  perspective's flow, not the gradient share, which measures only
-  coherence ([CLAIM-tmp7df5r](../claims.d/CLAIM-tmp7df5r.md), part 3);
-- **ambivalence** is the cyclic share above the baseline a transitive
-  binary record already leaves, (n − 2)/3n on n options ([CLAIM-tmp7df5r](../claims.d/CLAIM-tmp7df5r.md),
-  part 2), or the circular triads counted directly;
-- **persistence** is the stability of the decomposition across windows,
-  and **resumption** the return of the gradient's ranking after a
-  perturbation.
+candidate procedure. It was first drafted as a Hodge decomposition of the
+netted record; a review of the pull request found that this confused
+ordinal and cardinal structure and erased alternation, and the procedure
+below replaces it. Each step has a synthetic case in
+scratch/formal/valence.py.
 
-Three cautions from the readings. The shares are cardinal and depend on
-the weights given to pairs (by default, how often a pair was contested),
-on how repeated contests are aggregated, and on the norm; binary records
-enter as the net frequency of each side winning ([NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md)). Their
-paper's Table 1 reports a cyclicity ratio above 1, which orthogonality
-forbids, so a reported figure is not taken on trust. And the
-decomposition does not separate a lexicographic override from a
+1. **Keep the record in time.** For each contested pair, record which
+   side each decision took, when, and in what context, the set of options
+   then available. Cut the history into windows. Never net a pair's
+   contests over the whole history: a pair won alternately by each side
+   nets to no conflict ([CLAIM-tmp7df5r](../claims.d/CLAIM-tmp7df5r.md), part 5). Keep apart, for each
+   pair and window, the direction of its wins, the number of contests and
+   their variability.
+2. **Require conflict.** A window with no contested pair on which the
+   candidate orderings disagree has every ordering as its potential
+   (part 8), and returns no verdict on valence.
+3. **Test existence ordinally.** In each window, whether the wins are
+   acyclic, and if not, the least fraction whose reversal makes them so,
+   with the best-fitting orderings ([TERM-tmpu0tg2](../terms.d/TERM-tmpu0tg2.md)). Circular triads
+   are a direct count of the conflicts no ordering absorbs.
+4. **Measure alignment ordinally.** For each candidate ordering, each
+   perspective's and the maintenance ordering's, the share of contested
+   wins it agrees with, on the pairs where it and its rivals disagree.
+   This, not coherence, is how far an ordering prevails (part 3).
+5. **Report the class.** The orderings that fit the record equally form
+   a class (part 7). Narrow it by intervention: devaluation or
+   perturbation that contests the pairs on which its members differ.
+   Until then the verdict is about the class.
+6. **Read persistence and ambivalence across windows.** Persistence is
+   one ordering staying in each window's class; resumption, its return
+   after a perturbation ([TERM-tmpuilar](../terms.d/TERM-tmpuilar.md)). Ambivalence is cycles within
+   windows or a pair's outcome reversing across them, more often than a
+   null model allows that keeps the record's graph of contested pairs and
+   draws its orientations from orderings, and conditioned on context, so
+   that a change in the options available is not read as ambivalence.
+7. **Only then, and only where margins are intensities, the Hodge
+   decomposition.** HodgeRank (Jiang, Lim, Yao and Ye, [LIT-tmp54cwg](../literature.d/LIT-tmp54cwg.md),
+   [NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md); [THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md)) splits a flow of margins into a gradient, the
+   least-squares global ranking, and a cyclic part. It measures cardinal
+   inconsistency. Its gradient is not an ordinal potential and can reverse
+   a comparison the wins settle (part 4), and its cyclic share is positive
+   on transitive records with uneven margins. Its baseline for a
+   transitive binary record, (n − 2)/3n, holds only for a complete
+   tournament contesting every pair once (parts 2 and 6).
+
+Three cautions from the readings remain. The Hodge shares depend on the
+weights given to pairs, on how repeated contests are aggregated, and on
+the norm ([NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md)). Their paper's Table 1 reports a cyclicity ratio
+above 1, which orthogonality forbids, so a reported figure is not taken on
+trust. And no step separates a lexicographic override from a
 compensatory potential on a finite record ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)).
 
 ## What would count as an answer

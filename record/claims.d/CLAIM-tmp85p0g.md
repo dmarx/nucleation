@@ -130,6 +130,16 @@ each instant.
   options, and shows itself as cycles in choice (part 3b). [CLAIM-tmp83ge2](CLAIM-tmp83ge2.md) draws the consequence for their
   rivalry.
 
+- **"Currency" has three senses, and this claim separates two.** Ordinal
+  comparability, scalar currency and cardinal trade-off structure are
+  successively stronger. "Ordering" here is the first, read as a complete
+  preorder; a potential needs less, only acyclic wins ([TERM-tmpu0tg2](../terms.d/TERM-tmpu0tg2.md)).
+  "Currency" here is the second. Part 4's exchange rates belong to the
+  third: a representation fixed up to an affine transform, which nothing
+  in parts 1 to 3 supplies. [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) once defined a common currency as
+  a complete, transitive relation, running the first two together; it
+  was revised before merge to use only the first.
+
 ## What it does not say
 
 - That every ordering without a currency is lexicographic. Others exist

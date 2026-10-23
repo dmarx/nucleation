@@ -32,7 +32,9 @@ Neither is testable until each layer can be measured without the others.
 
 **The three layers, with measures already in use elsewhere.**
 1. **Potential.** Which ranking wins the system's conflicts, for how long,
-   and whether it returns ([QUESTION-tmpsqwu5](QUESTION-tmpsqwu5.md)). For animals and people,
+   and whether it returns ([QUESTION-tmpsqwu5](QUESTION-tmpsqwu5.md)): a persistent potential
+   ([TERM-tmpuilar](../terms.d/TERM-tmpuilar.md)), reported as the class of orderings the record fits
+   until an intervention narrows it. For animals and people,
    arbitration weights estimated from choice, in the tradition of Daw,
    Niv and Dayan's uncertainty-based competition between controllers
    ([LIT-580](../literature.d/LIT-580.md)). For organizations, a record of decisions on conflict pairs.
@@ -70,11 +72,23 @@ dissociating: the latent variables are orthogonal by construction and
 both come from one retrospective report.
 
 **Where the layers should come apart.**
-- On [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), layers 1 and 2 coincide when a self-maintenance
-  ordering prevails. Wanting without liking already breaks that
-  ([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md); the objection is [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)). Decision utility
-  diverging from experienced utility does not, provided layer 1 is read
-  within the episode ([QUESTION-tmpsqwu5](QUESTION-tmpsqwu5.md)).
+- On [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) as revised, layers 1 and 2 need not coincide at
+  all. Layer 1 is goal conduciveness and layer 2 intrinsic pleasantness,
+  two levels of valence with their own orderings ([CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md)), and
+  the claim implies nothing about how they relate. An unpleasant treatment
+  that serves the system's maintenance is negative on layer 2 and, if it
+  prevails, positive on layer 1. So their covariation is a conditional
+  hypothesis: they covary where the state the system pursues is the state
+  it consumes, where what serves its maintenance is also what is
+  pleasant, and come apart where pursuit and consummation part, as in the
+  treatment and in wanting without liking ([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md), [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)).
+  The test is whether divergence is confined to such cases. An earlier
+  draft of this question predicted outright that the two layers coincide
+  when a self-maintenance ordering prevails; a review of the pull request
+  that filed it found the revised claim did not imply that, and the
+  prediction was made conditional. Decision utility diverging from
+  experienced utility is no objection either way, provided layer 1 is
+  read within the episode ([QUESTION-tmpsqwu5](QUESTION-tmpsqwu5.md)).
 - On [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md), felt valence is present where layer 3 tracks layer 1
   and absent where layer 1 runs without it, as unfelt fluency does.
 - For organizations, layer 3 is the organization's reporting of what wins

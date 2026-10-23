@@ -35,6 +35,8 @@ summary: >-
   [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md) need is the sensitization result: a ranking whose
   strength is re-keyed to cues, cut loose from both pleasure and the
   person's goals, and lasting.
+supports:
+- CLAIM-tmp8ci5a
 ---
 <!-- inactive-ok-file: THEORY-tmp0bbxk CLAIM-tmp5lpdu CLAIM-tmpz8lli CLAIM-tmptd5us TERM-tmp8gbrt — Proposed; the earlier reading and the claims and term this account bears on, cited as open -->
 <!-- inactive-ok-file: QUESTION-tmprsrxs QUESTION-tmpsqwu5 — Open; the questions it bears on, cited as open -->

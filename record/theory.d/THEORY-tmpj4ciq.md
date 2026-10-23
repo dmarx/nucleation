@@ -25,6 +25,8 @@ summary: >-
   of the longest improvement path into each profile. It is the precise
   form of "an ordering prevails" ⇔ "no improvement cycles", and it is
   ordinal.
+supports:
+- CLAIM-tmp7df5r
 ---
 <!-- inactive-ok-file: LIT-tmpp4esg — Unavailable, unread; Monderer and Shapley 1996, the source this result is attributed to -->
 <!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli CLAIM-tmp85p0g THEORY-tmp4zhyp — Proposed or draft; the term and claims this result bears on, and the cardinal decomposition filed with it -->

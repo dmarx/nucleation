@@ -23,6 +23,8 @@ line:
 - distributed-agency
 uses:
 - TERM-tmp8gbrt
+- TERM-tmpu0tg2
+- TERM-tmpuilar
 - TERM-060
 rests_on:
 - CLAIM-347
@@ -57,6 +59,7 @@ summary: >-
 supports:
 - CLAIM-tmp83ge2
 - CLAIM-tmptd5us
+- CLAIM-tmp8ci5a
 objected_by:
 - CLAIM-tmpe0iew
 ---
@@ -94,9 +97,12 @@ between the precedence a motive claims and the authority it is granted.
 Veit's "common currency of sharing evaluative information across
 multiple control systems" ([THEORY-101](../theory.d/THEORY-101.md)) does two jobs: comparability, so
 that the options faced can be traded off, and sharing, so that one
-evaluation governs many control systems. The first is the negotiation's
-output being an ordering of the options at the instant; the second is
-part 3's potential. This is the owner's correction of 2026-10-17 carried
+evaluation governs many control systems. The first is the negotiation
+having an ordinal potential on a short window: ordinal comparability,
+the weakest of the three senses "currency" can bear, short of a scalar
+currency and of fixed exchange rates ([TERM-tmpu0tg2](../terms.d/TERM-tmpu0tg2.md)). It needs the wins
+only to be acyclic, not every pair to be compared. The second is part
+3's potential. This is the owner's correction of 2026-10-17 carried
 over ([CLAIM-347](CLAIM-347.md): "We can do quite a lot with access to an ordering, even
 if it doesn't give us a true measure"). Two facts keep it from being a
 relabelling. A negotiation need not produce an ordering: Sen's theorem
@@ -109,10 +115,15 @@ The ordering ranks the system's own states by their bearing on its
 maintenance, and it prevails: in the formal sense of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), the
 negotiation has it, approximately, as a potential, so that the moves that
 win its conflicts are improvements along it, and it persists and is
-climbed again after interruption. The Hodge decomposition of the negotiation's
-preference flow says how coherent it is, and the agreement of its
-gradient with the ordering's own flow says how far that ordering
-prevails ([CLAIM-tmp7df5r](CLAIM-tmp7df5r.md)).
+climbed again after interruption, a persistent potential ([TERM-tmpuilar](../terms.d/TERM-tmpuilar.md)).
+How coherent the negotiation is, is ordinal: the least fraction of its
+wins whose reversal leaves them acyclic. How far this ordering prevails
+is the share of contested wins that agree with it ([CLAIM-tmp7df5r](CLAIM-tmp7df5r.md),
+parts 1 and 3). The Hodge decomposition measures something else, the
+cardinal inconsistency of margins, and its gradient can reverse what the
+wins settle (part 4). A record of wins fixes a class of orderings that
+fit it, not one (part 7), so that the potential is of this kind is
+established by intervention, not read off.
 
 **What is not new here.** The dynamics of an ordering coming to prevail are Lewis's ([LIT-tmpj284p](../literature.d/LIT-tmpj284p.md),
 [NOTE-tmpz7wab](../notes.d/NOTE-tmpz7wab.md)): an emotional interpretation must "take over" the system,
@@ -161,7 +172,11 @@ sign.
    pertinence, there is no motive" ([THEORY-055](../theory.d/THEORY-055.md)), and it does the work of
    Veit's restriction to animals of high pathological complexity, without
    a threshold. It makes valence a consequence of the record's frustration
-   line ([CLAIM-347](CLAIM-347.md), [CLAIM-368](CLAIM-368.md)), not an addition to it.
+   line ([CLAIM-347](CLAIM-347.md), [CLAIM-368](CLAIM-368.md)), not an addition to it. It is not
+   a consequence of existence alone, since a negotiation with no
+   conflicts trivially has every ordering as its potential
+   ([CLAIM-tmp7df5r](CLAIM-tmp7df5r.md), part 8); [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) makes it a condition of the
+   definition, and valence is undefined there, not zero.
 2. **Sign is progress against a reference course, and needs only the
    ordering.** Positive when the system runs ahead of where it was
    expected to be on the potential ranking, negative when behind, neutral
@@ -200,7 +215,9 @@ sign.
    expression on the affective response surface" as neutrality. The
    record's reading differs. Neutral is potential with the system on its
    course. Ambivalence is either no ordering at all, when the negotiation
-   fails as Sen's theorem allows, a large cyclic share, or split potential, one ranking winning
+   fails as Sen's theorem allows, shown in circular triads within a
+   window or in the same pair's outcome reversing across windows, or
+   split potential, one ranking winning
    among some perspectives and another among the rest. Two things are
    owed: an argument that the model's two channels are perspectives in
    this sense, and, since both readings agree that ambivalent and
@@ -225,6 +242,20 @@ valence: on goal conduciveness. At the owner's direction the claim and
 [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) were revised before merge from "hedonic" to
 "goal-conduciveness" valence, and the objection is conceded. The
 owner's words are quoted above as given.
+
+## Revision of 2026-10-23: the review
+
+A review of the pull request found that the claim's measures confused
+ordinal and cardinal structure, and the claim and [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) were
+revised before merge. "Common currency" now means only ordinal
+comparability (part 2). Coherence and intensity are counted on wins, and
+the Hodge decomposition is kept for margins (part 3). Consequence 1 is a
+condition of the definition. Ambivalence is read in the sequence of
+windows, not in a netted record (consequence 4). And the potential is
+reported as a class, identified by intervention. The review's hierarchy
+of ordinal coherence, persistence, goal-conduciveness valence and felt
+valence is now carried by [TERM-tmpu0tg2](../terms.d/TERM-tmpu0tg2.md), [TERM-tmpuilar](../terms.d/TERM-tmpuilar.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) and
+[CLAIM-tmptd5us](CLAIM-tmptd5us.md).
 
 ## The objection it faces, and the reply
 

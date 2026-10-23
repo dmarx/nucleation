@@ -19,6 +19,8 @@ summary: >-
   Both read from arXiv; the proofs were followed. Settled as mathematics.
   Whether its shares measure a negotiation's potential depends on
   cardinal assumptions that the record's orderings do not supply.
+supports:
+- CLAIM-tmp7df5r
 ---
 <!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli CLAIM-tmp85p0g QUESTION-tmpsqwu5 THEORY-tmpj4ciq — Proposed, Open or draft; the term, claims and question this result bears on, and the ordinal result filed with it -->
 
@@ -84,6 +86,11 @@ neither has a gap the reader found.
   concrete.
   - A perfectly transitive binary tournament has cyclic share (n − 2)/3n
     ([NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md)).
+  - The baseline holds only for a complete tournament contesting every
+    pair once; a transitive record on a sparse graph leaves a different
+    share ([CLAIM-tmp7df5r](../claims.d/CLAIM-tmp7df5r.md), part 6).
+  - The gradient can reverse a comparison the record settles: margins A
+    over B by 1, B over C by 10 and A over C by 1 put B above A (part 4).
   - A 2×2 game whose norm is 61% harmonic has no improvement cycle
     ([NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md)).
 

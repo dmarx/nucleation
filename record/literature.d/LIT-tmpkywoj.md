@@ -47,6 +47,7 @@ summary: >-
   conduciveness are dissociable, citing Berridge.
 supports:
 - CLAIM-tmp5lpdu
+- CLAIM-tmp8ci5a
 ---
 <!-- inactive-ok-file: CLAIM-tmpe0iew CLAIM-tmpz8lli TERM-tmp8gbrt — Proposed; the objection and the account this reading bears on -->
 
