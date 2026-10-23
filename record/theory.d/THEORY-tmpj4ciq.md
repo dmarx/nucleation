@@ -16,7 +16,7 @@ date: '2026-10-23'
 source:
 - LIT-tmpp4esg
 summary: >-
-  Monderer and Shapley (1996), LIT-tmpp4esg, unread: reported by Duersch,
+  Monderer and Shapley (1996), [LIT-tmpp4esg](../literature.d/LIT-tmpp4esg.md), unread: reported by Duersch,
   Oechssler and Schipper (arXiv 1003.4274) as Lemma 2.5. A finite game
   has the finite improvement property iff it has a generalized ordinal
   potential. The record proves the finite case here: a potential that
@@ -33,7 +33,7 @@ summary: >-
 
 ## Source
 
-- Monderer and Shapley (1996), *Potential Games*, LIT-tmpp4esg, **not
+- Monderer and Shapley (1996), *Potential Games*, [LIT-tmpp4esg](../literature.d/LIT-tmpp4esg.md), **not
   read**. No lawful copy was reached by this client (see its status note).
 - The attribution is second-hand. Duersch, Oechssler and Schipper,
   *Unbeatable Imitation* (arXiv 1003.4274; Games and Economic Behavior,
@@ -96,13 +96,13 @@ equilibria exist. Duersch et al. report this as Monderer and Shapley's
 prevails along which every improving move climbs" is equivalent, for a
 finite set of profiles, to "no perspective-by-perspective improvement
 ever returns to where it began". The ordering needs no more than integer
-values. The obstacle CLAIM-tmp85p0g raises for lexicographic orders does
+values. The obstacle [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) raises for lexicographic orders does
 not arise on a finite set. FIP is the property of the incentives that
-makes TERM-tmp8gbrt's "prevails" a theorem rather than a metaphor, in the
+makes [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s "prevails" a theorem rather than a metaphor, in the
 ordinal sense. The cardinal sense, an exact potential and the share of
-the flow it explains, is THEORY-tmp4zhyp, and the two come apart. A
+the flow it explains, is [THEORY-tmp4zhyp](THEORY-tmp4zhyp.md), and the two come apart. A
 game can be far from exact, with a large harmonic share, and still have
-the FIP (NOTE-tmpxfa82).
+the FIP ([NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md)).
 
 ## What this does not say
 
@@ -121,5 +121,5 @@ the FIP (NOTE-tmpxfa82).
   the paper says about infinite games is not known here.
 - **Nothing about collective choice.** The result is about unilateral
   improvements by players over joint profiles, not about a rule that
-  aggregates rankings of one shared choice (NOTE-tmpxfa82, "Where it
+  aggregates rankings of one shared choice ([NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md), "Where it
   does not fit").

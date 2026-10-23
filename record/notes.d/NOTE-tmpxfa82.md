@@ -123,17 +123,17 @@ pure conflict, "the conflicts between the interests of the players"
 
 ## Connections
 
-Builds on Monderer and Shapley (LIT-tmpp4esg, unread here) and cites Jiang
-et al. (LIT-tmp54cwg) as "the very interesting recent work" applying the
+Builds on Monderer and Shapley ([LIT-tmpp4esg](../literature.d/LIT-tmpp4esg.md), unread here) and cites Jiang
+et al. ([LIT-tmp54cwg](../literature.d/LIT-tmp54cwg.md)) as "the very interesting recent work" applying the
 Hodge decomposition to ranking (p. 8). The decomposition theorem is
-THEORY-tmp4zhyp. The record's Lotka–Volterra reading, CLAIM-369, meets
+[THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md). The record's Lotka–Volterra reading, [CLAIM-369](../claims.d/CLAIM-369.md), meets
 the same split in continuous form, a gradient plus a non-potential part,
 and notes that there "the split depends on a chosen metric".
 
 ## Bearing on the record
 
-The record wants "potential" to name the regime of TERM-tmp8gbrt and
-CLAIM-tmpz8lli. In that regime one ordering prevails in the negotiation
+The record wants "potential" to name the regime of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) and
+[CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md). In that regime one ordering prevails in the negotiation
 among a system's perspectives, and its intensity is the potential's share
 of the preference flow. This paper supplies the share. It fits in part.
 The parts that do not fit should shape the rename.
@@ -144,15 +144,15 @@ one function on outcomes rises with every move by which any perspective
 improves its own lot. That is a clean formal sense of "an ordering
 prevails" with no regulator above the perspectives. The potential is not
 imposed. It is what their separate incentives jointly track, which is
-CLAIM-283's authority granted rather than claimed. It also matches
-Frijda's first mark, priority (THEORY-055): every conflict resolved by a
+[CLAIM-283](../claims.d/CLAIM-283.md)'s authority granted rather than claimed. It also matches
+Frijda's first mark, priority ([THEORY-055](../theory.d/THEORY-055.md)): every conflict resolved by a
 unilateral improvement is resolved in the potential's direction. The
 harmonic component is the formal opposite. It is conflict that no ordering
 absorbs, and it is the obvious candidate for the record's ambivalence. An
 observation of the record's, not the paper's: harmonic games have no pure
 equilibrium, and their always-available equilibrium is the uniform mix, at
 which "all players are indifferent". That is the evaluative space model's
-point, which CLAIM-tmpz8lli §4 takes up: ambivalence can look like
+point, which [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) §4 takes up: ambivalence can look like
 neutrality from outside.
 
 **Where it does not fit, 1: unilateral deviations, not a collective
@@ -160,34 +160,34 @@ choice.** The game graph's nodes are joint profiles, and each edge is one
 player changing *its own* coordinate. A potential game is a statement
 about how individual incentives cohere. It is not a rule that takes a
 profile of rankings to a collective relation R_t, which is how
-TERM-tmp8gbrt defines the negotiation. The two match only where the
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) defines the negotiation. The two match only where the
 organization's choice is factored into jurisdictions, each perspective
 setting its own part of what the organization does. Sen's minimal
-liberalism (THEORY-027), each person decisive over their own pair, is the
+liberalism ([THEORY-027](../theory.d/THEORY-027.md)), each person decisive over their own pair, is the
 social-choice analogue of such a factorization. Where the perspectives
 contest one indivisible choice from X_t, there is no product structure
 and no game graph in this paper's sense. The right tool there is a flow
 on the options themselves, which is Jiang et al.'s HodgeRank
-(NOTE-tmp7wl76), not this decomposition. The record should say which
+([NOTE-tmp7wl76](NOTE-tmp7wl76.md)), not this decomposition. The record should say which
 of the two it means. They answer different questions: whether
 perspectives' incentives cohere, and whether the system's decisions
 cohere.
 
 **Where it does not fit, 2: the potential is nobody's ranking.** In a
 potential game no player's payoff need equal φ. So "a potential exists"
-is the analogue of TERM-tmp8gbrt's *common currency*, an ordering the
+is the analogue of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s *common currency*, an ordering the
 negotiation admits. It is not the analogue of a *particular* ranking ≿_v
 prevailing. Valence on the record's account needs the further fact that
 φ ranks outcomes as ≿_v does, the system's maintenance ordering. The
 rename should keep "whether there is a potential" apart from "whose
 ranking the potential is". Otherwise "potential" will quietly absorb part
-2 of CLAIM-tmpz8lli into part 3.
+2 of [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) into part 3.
 
 **The analogy needs a dynamics.** Being a potential game is a static fact
 about incentives. "Prevails in the dynamics" needs a process.
 Better-response dynamics, one perspective at a time making some improving move,
 is the natural one. Monderer and Shapley's finite improvement property
-(THEORY-tmpj4ciq) is exactly the statement that every such process stops.
+([THEORY-tmpj4ciq](../theory.d/THEORY-tmpj4ciq.md)) is exactly the statement that every such process stops.
 It stops at a pure equilibrium, which is a local maximum of φ, not
 necessarily its global top. So "prevails" licenses "every move climbs it",
 not "the system reaches its best state". The record's own check: with
@@ -216,10 +216,10 @@ qualifications.
 - *It is cardinal and metric-dependent.* The flow is payoff differences,
   and the projection uses the weighted inner product (55). A strictly
   increasing rescaling of one perspective's payoffs leaves every ordinal
-  fact unchanged but moves the share. CLAIM-tmp85p0g says the record's
+  fact unchanged but moves the share. [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) says the record's
   orderings need not be currencies. The share is defined only once each
   perspective has been given one, and its value depends on which one.
-  CLAIM-369 meets the same dependence on a metric.
+  [CLAIM-369](../claims.d/CLAIM-369.md) meets the same dependence on a metric.
 
 So the share can serve as intensity in the compensatory regime, where the
 perspectives' trade-offs are cardinal and their scales are fixed by
@@ -227,7 +227,7 @@ something outside the measure. In general it cannot.
 
 **A lexicographic override.** On a finite set of options, a lexicographic
 override is an ordering like any other. It has an integer representation
-(CLAIM-tmp85p0g, part 1), so it can be a potential in every sense, and
+([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md), part 1), so it can be a potential in every sense, and
 the FIP holds. What it lacks is a *canonical* cardinal representation.
 Its harmonic share therefore depends on the arbitrary numbers chosen to
 represent it. On a continuum, which this finite-game paper does not
@@ -235,7 +235,7 @@ cover, a graded lexicographic override has no real-valued representation
 at all. A negotiation governed by one would have no exact, weighted or
 ordinal potential in Monderer and Shapley's real-valued sense, even
 though one ordering plainly prevails. If the term is to cover ALARM-style
-override (CLAIM-tmp83ge2), "potential" must be read ordinally, as "no
+override ([CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)), "potential" must be read ordinally, as "no
 improvement cycles" or an order-valued potential, not as a real function.
 The rename should say so.
 

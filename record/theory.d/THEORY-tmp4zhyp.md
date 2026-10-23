@@ -11,10 +11,10 @@ source:
 - LIT-tmp54cwg
 - LIT-tmp7pue2
 summary: >-
-  Jiang, Lim, Yao & Ye (2011), LIT-tmp54cwg, Theorems 4.7, 4.8 and 5.1:
+  Jiang, Lim, Yao & Ye (2011), [LIT-tmp54cwg](../literature.d/LIT-tmp54cwg.md), Theorems 4.7, 4.8 and 5.1:
   the Hodge/Helmholtz decomposition of edge flows, and HodgeRank's
   least-squares ranking with its curl and harmonic residuals. Candogan,
-  Menache, Ozdaglar & Parrilo (2011), LIT-tmp7pue2, Theorems 4.1 and
+  Menache, Ozdaglar & Parrilo (2011), [LIT-tmp7pue2](../literature.d/LIT-tmp7pue2.md), Theorems 4.1 and
   5.1: every finite game is P ⊕ H ⊕ N, and potential games are P ⊕ N.
   Both read from arXiv; the proofs were followed. Settled as mathematics.
   Whether its shares measure a negotiation's potential depends on
@@ -27,13 +27,13 @@ summary: >-
 ## Source
 
 - Jiang, Lim, Yao and Ye (2011), *Statistical ranking and combinatorial
-  Hodge theory*, LIT-tmp54cwg. Theorem 4.7 (p. 18), Theorem 4.8 (p. 19),
+  Hodge theory*, [LIT-tmp54cwg](../literature.d/LIT-tmp54cwg.md). Theorem 4.7 (p. 18), Theorem 4.8 (p. 19),
   Theorem 5.1 (pp. 21–22) and Theorem 5.2 (p. 24), as read in
-  NOTE-tmp7wl76 from arXiv 0811.1067v2.
+  [NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md) from arXiv 0811.1067v2.
 - Candogan, Menache, Ozdaglar and Parrilo (2011), *Flows and
-  Decompositions of Games*, LIT-tmp7pue2. Theorem 3.1 (p. 11), eq. (25)
+  Decompositions of Games*, [LIT-tmp7pue2](../literature.d/LIT-tmp7pue2.md). Theorem 3.1 (p. 11), eq. (25)
   (p. 14), Theorem 4.1 (pp. 17–18), Theorem 5.1 (p. 22) and Theorems
-  6.1–6.2 (pp. 35–36), as read in NOTE-tmpxfa82 from arXiv 1005.2405v2.
+  6.1–6.2 (pp. 35–36), as read in [NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md) from arXiv 1005.2405v2.
   The journal versions were not seen, and their numbering may differ.
 
 ## What was actually shown
@@ -83,11 +83,11 @@ neither has a gap the reader found.
   Theorem 5.2 fails (p. 24). Two checks in the record make the point
   concrete.
   - A perfectly transitive binary tournament has cyclic share (n − 2)/3n
-    (NOTE-tmp7wl76).
+    ([NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md)).
   - A 2×2 game whose norm is 61% harmonic has no improvement cycle
-    (NOTE-tmpxfa82).
+    ([NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md)).
 
-  The ordinal counterpart of "potential exists" is THEORY-tmpj4ciq, and
+  The ordinal counterpart of "potential exists" is [THEORY-tmpj4ciq](THEORY-tmpj4ciq.md), and
   it is not a share of anything.
 - **That the share is invariant.** Shares depend on how comparisons are
   aggregated, on the weights and on the inner product. For games they
@@ -96,14 +96,14 @@ neither has a gap the reader found.
   al., φ is a function on joint profiles that tracks unilateral
   incentives. In Jiang et al., s is a ranking of alternatives fitted to
   comparisons. They are the same mathematics on different graphs, and
-  they answer different questions about a negotiation (NOTE-tmpxfa82).
+  they answer different questions about a negotiation ([NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md)).
 - **That the published cyclicity ratios can be trusted as given.**
   Orthogonality bounds C_p by 1, but the arXiv Table 1 reports 1.15
-  (NOTE-tmp7wl76).
+  ([NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md)).
 
 ## Connections
 
-Supplies the measure the renamed TERM-tmp8gbrt and QUESTION-tmpsqwu5
-need, subject to the limits above. CLAIM-tmp85p0g is the reason those
+Supplies the measure the renamed [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) and [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)
+need, subject to the limits above. [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) is the reason those
 limits matter: an ordering is not a currency, and both decompositions
 need a currency as input.

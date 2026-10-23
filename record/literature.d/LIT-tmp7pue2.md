@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpxfa82): in full, from arXiv 1005.2405v2 (45 pp.). Every finite game in strategic form splits uniquely into a potential, a harmonic and a nonstrategic component. The split pulls back the Helmholtz decomposition of the flow of unilateral payoff differences on the game graph. Potential games are exactly the games with no harmonic component. Harmonic games generically have no pure equilibrium. The nearest potential game, in a weighted l2 norm, is given in closed form. It is the paper behind the record''s measure of a potential''s share of a negotiation, and it shows that the share is cardinal.'
+status_note: 'read 2026-10-23 ([NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md)): in full, from arXiv 1005.2405v2 (45 pp.). Every finite game in strategic form splits uniquely into a potential, a harmonic and a nonstrategic component. The split pulls back the Helmholtz decomposition of the flow of unilateral payoff differences on the game graph. Potential games are exactly the games with no harmonic component. Harmonic games generically have no pure equilibrium. The nearest potential game, in a weighted l2 norm, is given in closed form. It is the paper behind the record''s measure of a potential''s share of a negotiation, and it shows that the share is cardinal.'
 title: 'Flows and Decompositions of Games: Harmonic and Potential Games'
 version: 1
 history:
@@ -50,7 +50,7 @@ extends:
 
 Ozan Candogan, Ishai Menache, Asuman Ozdaglar and Pablo A. Parrilo (2011),
 *Mathematics of Operations Research* 36(3):474–503 —
-DOI-10.1287/moor.1110.0500, ARXIV-1005.2405
+DOI-10.1287/moor.1110.0500, [ARXIV-1005.2405](https://arxiv.org/abs/1005.2405)
 
 ## Key takeaways
 
@@ -93,8 +93,8 @@ DOI-10.1287/moor.1110.0500, ARXIV-1005.2405
 ## Standing in the record
 
 Filed on 2026-10-23 at the owner's request, as the formal ground for
-renaming "ascendancy" to "potential" (TERM-tmp8gbrt, CLAIM-tmpz8lli) and
-for measuring it (QUESTION-tmpsqwu5). Read in NOTE-tmpxfa82, whose
+renaming "ascendancy" to "potential" ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)) and
+for measuring it ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). Read in [NOTE-tmpxfa82](../notes.d/NOTE-tmpxfa82.md), whose
 bearing section says where the reading fits and where it does not. The
-decomposition theorem is THEORY-tmp4zhyp, with Jiang et al.
-(LIT-tmp54cwg).
+decomposition theorem is [THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md), with Jiang et al.
+([LIT-tmp54cwg](LIT-tmp54cwg.md)).

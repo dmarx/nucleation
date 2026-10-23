@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not fetch it, so this failed on access, not availability. OpenAlex lists the paper as closed, with no repository copy. The publisher (ScienceDirect) is paywalled. Two course-page copies were found: Frieze''s INFONET reading list at math.cmu.edu and a Bowdoin course page (tildesites.bowdoin.edu, ~mirfan/files/3210). Both failed TLS certificate verification from this client, and a second fetcher got HTTP 503 from both. An author upload on ResearchGate (Monderer''s) was not tried, and Unpaywall was skipped because it requires an email address. Its central lemma, that a finite game has the finite improvement property exactly when it has a generalized ordinal potential, is held only as later papers restate it: Duersch, Oechssler and Schipper (arXiv 1003.4274) attribute it to Lemma 2.5, and Candogan et al. (LIT-tmp7pue2) restate its equilibrium results. The record''s own proof of the finite case is in THEORY-tmpj4ciq. Filed because the record is renaming "ascendancy" to "potential" in this paper''s sense. It stays Unavailable until a copy is supplied, not on merit; either course copy, fetched by hand, would clear it.'
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not fetch it, so this failed on access, not availability. OpenAlex lists the paper as closed, with no repository copy. The publisher (ScienceDirect) is paywalled. Two course-page copies were found: Frieze''s INFONET reading list at math.cmu.edu and a Bowdoin course page (tildesites.bowdoin.edu, ~mirfan/files/3210). Both failed TLS certificate verification from this client, and a second fetcher got HTTP 503 from both. An author upload on ResearchGate (Monderer''s) was not tried, and Unpaywall was skipped because it requires an email address. Its central lemma, that a finite game has the finite improvement property exactly when it has a generalized ordinal potential, is held only as later papers restate it: Duersch, Oechssler and Schipper (arXiv 1003.4274) attribute it to Lemma 2.5, and Candogan et al. ([LIT-tmp7pue2](LIT-tmp7pue2.md)) restate its equilibrium results. The record''s own proof of the finite case is in [THEORY-tmpj4ciq](../theory.d/THEORY-tmpj4ciq.md). Filed because the record is renaming "ascendancy" to "potential" in this paper''s sense. It stays Unavailable until a copy is supplied, not on merit; either course copy, fetched by hand, would clear it.'
 title: 'Potential Games'
 version: 1
 history:
@@ -53,7 +53,7 @@ None of it is checked against the paper.
 
 - **Four kinds of potential.** An *exact* potential is a real function φ
   on strategy profiles whose change, when one player deviates, equals that
-  player's change in payoff. Candogan et al. (LIT-tmp7pue2, Definition
+  player's change in payoff. Candogan et al. ([LIT-tmp7pue2](LIT-tmp7pue2.md), Definition
   2.1, p. 6) give this definition and credit it to this paper. A
   *weighted* potential matches each player's payoff change up to a
   positive player-specific weight. An *ordinal* potential matches its
@@ -82,8 +82,8 @@ None of it is checked against the paper.
 
 Filed on 2026-10-23 at the owner's request, as the source of the formal
 sense of "potential" that the record is adopting for "an ordering prevails
-in the negotiation among a system's perspectives" (TERM-tmp8gbrt,
-CLAIM-tmpz8lli, QUESTION-tmpsqwu5). THEORY-tmpj4ciq states the
+in the negotiation among a system's perspectives" ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md),
+[CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). [THEORY-tmpj4ciq](../theory.d/THEORY-tmpj4ciq.md) states the
 FIP equivalence for finite games and proves it in the record, so the
 result does not wait on this copy. Its attribution, wording and numbering
 do.

@@ -10,8 +10,8 @@
   - Berridge's liking–wanting dissociation ([THEORY-tmp0bbxk](record/theory.d/THEORY-tmp0bbxk.md)), and from it an objection that potential tracks wanting, not liking ([CLAIM-tmpe0iew](record/claims.d/CLAIM-tmpe0iew.md)).
   - a reply conceding that objection in a principled form, on the component process model's levels of valence: the account is of goal-conduciveness valence ([CLAIM-tmp5lpdu](record/claims.d/CLAIM-tmp5lpdu.md)).
   - incentive sensitization ([THEORY-tmp7r9j4](record/theory.d/THEORY-tmp7r9j4.md)), and notes on [CLAIM-tmp5lpdu](record/claims.d/CLAIM-tmp5lpdu.md) and [QUESTION-tmprsrxs](record/questions.d/QUESTION-tmprsrxs.md) relating it and a taxonomy of addictive design features to the account.
-  - the owner's claim that 'wanting' and 'liking' are saliences relative to different processes, with valence relative to a perspective (CLAIM-tmp8ci5a);
-  - a demonstrated claim: a potential exists exactly when winning moves never cycle; a transitive binary record's cyclic share is (n − 2)/3n; coherence is not alignment (CLAIM-tmp7df5r).
+  - the owner's claim that 'wanting' and 'liking' are saliences relative to different processes, with valence relative to a perspective ([CLAIM-tmp8ci5a](record/claims.d/CLAIM-tmp8ci5a.md));
+  - a demonstrated claim: a potential exists exactly when winning moves never cycle; a transitive binary record's cyclic share is (n − 2)/3n; coherence is not alignment ([CLAIM-tmp7df5r](record/claims.d/CLAIM-tmp7df5r.md)).
 - Forty new works in six batches, and a note on [NOTE-1063](record/notes.d/NOTE-1063.md) relating the beautiful-loop reading to the felt candidate. A curation entry.
 
 ### Changed

@@ -20,10 +20,10 @@ grounds:
 - THEORY-tmp4zhyp
 summary: >-
   The formal core of the rename of 2026-10-23 from "ascendancy" to
-  "potential" (TERM-tmp8gbrt). Part 1 is the finite case of Monderer and
+  "potential" ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). Part 1 is the finite case of Monderer and
   Shapley's equivalence between the finite improvement property and a
   generalized ordinal potential, proved here because the record has not
-  read their paper (LIT-tmpp4esg). Part 2 is a calibration of the Hodge
+  read their paper ([LIT-tmpp4esg](../literature.d/LIT-tmpp4esg.md)). Part 2 is a calibration of the Hodge
   decomposition (Candogan et al.; Jiang et al.) for binary conflict
   records, computed here: even a perfect ranking leaves a cyclic residual.
   Part 3 separates coherence from alignment.
@@ -50,13 +50,13 @@ So "some ordering prevails", read as "the negotiation has a potential",
 is exactly "no chain of winning moves cycles", and integer values
 suffice. This is the finite case of what Monderer and Shapley call the
 finite improvement property and a generalized ordinal potential
-(THEORY-tmpj4ciq), proved here because their paper is unread (LIT-tmpp4esg).
+([THEORY-tmpj4ciq](../theory.d/THEORY-tmpj4ciq.md)), proved here because their paper is unread ([LIT-tmpp4esg](../literature.d/LIT-tmpp4esg.md)).
 
 **2. A transitive binary record has a cyclic share of (n − 2)/3n.** Take n
 options, every pair contested once, and the record Y on the complete
 graph with Y = +1 on each pair in the direction of the winner, the
 winners forming a strict ranking 1 ≻ 2 ≻ … ≻ n. The least-squares
-potential of the Hodge decomposition (THEORY-tmp4zhyp) on the complete
+potential of the Hodge decomposition ([THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md)) on the complete
 graph is s = (1/n) div Y up to a constant, and option i's net wins are
 (n − i) − (i − 1) = n + 1 − 2i, so s_i − s_j = 2(j − i)/n. On the pair
 i ≻ j with d = j − i the residual is 1 − 2d/n, and there are n − d such
@@ -90,13 +90,13 @@ flow ≿_v alone would produce, not by the gradient share.
   coordinates. Part 1 needs only the relation of winning moves, so it
   holds for either; the game-theoretic reading fits where the
   organization's choice is divided into jurisdictions, as Sen's is
-  (THEORY-027).
+  ([THEORY-027](../theory.d/THEORY-027.md)).
 - That the potential's existence fixes the dynamics. One-at-a-time
   winning moves climb it and stop at a local maximum; simultaneous moves
   can cycle even in an exact potential game.
 - That the Hodge shares are invariant. They depend on the weights given
   to pairs, the aggregation of repeated contests and the norm; on
   continuous magnitudes a lexicographic override has no real-valued
-  potential at all (CLAIM-tmp85p0g), so the term is read ordinally there.
-  CLAIM-369 makes the same point for population dynamics: which part of a
+  potential at all ([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md)), so the term is read ordinally there.
+  [CLAIM-369](CLAIM-369.md) makes the same point for population dynamics: which part of a
   flow counts as gradient depends on a chosen metric.

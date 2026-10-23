@@ -119,15 +119,15 @@ such dilemma — if he uses multiple criteria to rank the alternatives"
 
 ## Connections
 
-Candogan et al. (LIT-tmp7pue2) cite this paper and apply the same
+Candogan et al. ([LIT-tmp7pue2](../literature.d/LIT-tmp7pue2.md)) cite this paper and apply the same
 decomposition to games, where curl vanishes. Sen's liberal paradox
-(THEORY-027) is the ordinal intransitivity this paper sets beside its
+([THEORY-027](../theory.d/THEORY-027.md)) is the ordinal intransitivity this paper sets beside its
 cardinal inconsistency (p. 30). Kendall and Smith's circular triads, the
 ordinal index, are the binary case of its curl (p. 12).
 
 ## Bearing on the record
 
-**It fits the conflict record directly.** QUESTION-tmpsqwu5's first
+**It fits the conflict record directly.** [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)'s first
 measure is an organization's decisions on the pairs where its perspectives
 disagree. HodgeRank takes exactly such data: alternatives as nodes,
 contested pairs as edges, and the direction of each decision as a binary
@@ -136,7 +136,7 @@ j) (p. 10). Two flows must be kept apart.
 
 - *The decision flow*, built from what the system did. Its gradient share
   says whether the system's contested decisions admit a global ordering.
-  That is TERM-tmp8gbrt's *common currency*: whether the negotiation has a
+  That is [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s *common currency*: whether the negotiation has a
   potential at all.
 - *The perspectives' flows*, one per perspective, built from what each
   would have chosen. Aggregating them with HodgeRank gives a Borda-like
@@ -149,7 +149,7 @@ candidate, the record's and not the paper's, is the weighted correlation
 ⟨grad s*, Y^v⟩_w / (‖grad s*‖_w ‖Y^v‖_w) between the decision flow's
 gradient and perspective v's flow, on the contested pairs. Edges should be
 restricted to contested pairs. Otherwise pairs on which every perspective
-agrees inflate the gradient share, and CLAIM-tmpz8lli's first consequence
+agrees inflate the gradient share, and [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s first consequence
 fails: with no frustration there is nothing to prevail over.
 
 **Can a binary conflict record be fed to it? Yes, but its cyclic share
@@ -184,14 +184,14 @@ seen:
 - the l2 inner product.
 
 An intensity read from it is a property of the system plus these choices.
-CLAIM-tmp85p0g's warning that an ordering need not be a currency applies
+[CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s warning that an ordering need not be a currency applies
 here too. The measure turns the ordering into a currency by fiat.
 
 **Gradient share as intensity.** On the decision flow, the gradient share
 measures how coherent the contested decisions are, not how strongly a
 given ranking overrides the others. A system whose decisions follow a
 stable compromise among its perspectives scores as high as one in which a
-single perspective dictates. Intensity in TERM-tmp8gbrt's sense, how much
+single perspective dictates. Intensity in [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s sense, how much
 of what the others would decide the prevailing ranking overrides, needs
 the alignment term above, weighted by how far the overridden perspectives'
 flows were from it. The gradient share alone cannot supply it.
@@ -208,17 +208,17 @@ nearby options.
 **A lexicographic override.** On a binary record, a lexicographic override
 and a compensatory trade-off that rank the options faced in the same order
 produce the *same* transitive tournament and the same shares. The
-distinction CLAIM-tmpz8lli's fifth consequence and CLAIM-tmp83ge2 rely on
+distinction [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s fifth consequence and [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) rely on
 is invisible to a who-won record. Telling them apart needs magnitudes,
 such as how much of one dimension was traded for another, which is the
 cardinal data this method is built for. A threshold override with a
-discrimination threshold, a lexicographic semiorder (CLAIM-tmp85p0g part
+discrimination threshold, a lexicographic semiorder ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) part
 3b), does show up. Its choices cycle, and the cycle appears as circular
 triads or a non-zero curl on the relevant triangles.
 
 **Persistence and resumption.** HodgeRank is static. Applied over
 successive windows, the gradient share and the alignment term become time
-series, which is where QUESTION-tmpsqwu5's attractor-strength and
+series, which is where [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)'s attractor-strength and
 hysteresis tools would act. The paper does none of this.
 
 **An anomaly in the arXiv text.** Theorem 5.1 makes R* orthogonal to the

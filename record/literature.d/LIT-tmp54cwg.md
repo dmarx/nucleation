@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmp7wl76): in full, from arXiv 0811.1067v2 (42 pp.). HodgeRank. Pairwise comparisons, aggregated into a weighted edge flow on the graph of alternatives, decompose orthogonally into a gradient flow, the l2-best global ranking found by weighted least squares, and a divergence-free residual. The residual splits into curl (local, triangular inconsistency) and harmonic (global inconsistency) parts. Binary win/loss data enter as averaged signs, and on complete balanced binary data the ranking is Borda''s. The decomposition is cardinal: curl-freeness is stronger than transitivity. It is the tool for reading the record''s conflict record.'
+status_note: 'read 2026-10-23 ([NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md)): in full, from arXiv 0811.1067v2 (42 pp.). HodgeRank. Pairwise comparisons, aggregated into a weighted edge flow on the graph of alternatives, decompose orthogonally into a gradient flow, the l2-best global ranking found by weighted least squares, and a divergence-free residual. The residual splits into curl (local, triangular inconsistency) and harmonic (global inconsistency) parts. Binary win/loss data enter as averaged signs, and on complete balanced binary data the ranking is Borda''s. The decomposition is cardinal: curl-freeness is stronger than transitivity. It is the tool for reading the record''s conflict record.'
 title: 'Statistical ranking and combinatorial Hodge theory'
 version: 1
 history:
@@ -47,7 +47,7 @@ summary: >-
 # LIT-tmp54cwg: Statistical ranking and combinatorial Hodge theory
 
 Xiaoye Jiang, Lek-Heng Lim, Yuan Yao and Yinyu Ye (2011), *Mathematical
-Programming* 127(1):203–244 — DOI-10.1007/s10107-010-0419-x, ARXIV-0811.1067
+Programming* 127(1):203–244 — DOI-10.1007/s10107-010-0419-x, [ARXIV-0811.1067](https://arxiv.org/abs/0811.1067)
 
 ## Key takeaways
 
@@ -84,8 +84,8 @@ Programming* 127(1):203–244 — DOI-10.1007/s10107-010-0419-x, ARXIV-0811.1067
 ## Standing in the record
 
 Filed on 2026-10-23 at the owner's request. It is the measure the
-renamed term needs: QUESTION-tmpsqwu5's conflict record is a set of
+renamed term needs: [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)'s conflict record is a set of
 pairwise decisions, and this paper decomposes such a set. Read in
-NOTE-tmp7wl76, whose bearing section sets out what the measure assumes.
-The decomposition theorem is THEORY-tmp4zhyp, with Candogan et al.
-(LIT-tmp7pue2).
+[NOTE-tmp7wl76](../notes.d/NOTE-tmp7wl76.md), whose bearing section sets out what the measure assumes.
+The decomposition theorem is [THEORY-tmp4zhyp](../theory.d/THEORY-tmp4zhyp.md), with Candogan et al.
+([LIT-tmp7pue2](LIT-tmp7pue2.md)).
