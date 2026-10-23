@@ -1,14 +1,14 @@
 ---
 status: Proposed
-title: 'A regime of valence is felt, in the sense of attended and available to the system''s other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the ascendancy without that model, as unfelt fluency is a change in precision without the inference about it'
+title: 'A regime of valence is felt, in the sense of attended and available to the system''s other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it'
 version: 1
 role: thesis
 warrant: interpretive
 defeated_if: >-
   Felt affect, by marks the record accepts, in a system with no process
-  that models its own ascendancy, as affect without cortex might be if the
+  that models its own potential, as affect without cortex might be if the
   deeper models live in cortex (the case ALARM, THEORY-090, rests on); or
-  a model of ascendancy that tracks it, is used elsewhere in the system,
+  a model of potential that tracks it, is used elsewhere in the system,
   and is not accompanied by felt affect by those marks, a metacognitive
   analogue of blindsight; or evidence that what such a model explains is
   only the system's reports about feeling, not the feeling, in a sense of
@@ -50,7 +50,7 @@ summary: >-
 <!-- inactive-ok-file: CLAIM-tmpe0iew THEORY-tmp0bbxk — Proposed; the objection and reading filed with this batch, cited as open -->
 <!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-355 CLAIM-411 THEORY-662 THEORY-873 THEORY-090 QUESTION-059 QUESTION-048 QUESTION-tmp0oife — Proposed, Open or Deferred; the account this extends, the readings it is grounded in and the questions it bears on, cited as open -->
 
-# CLAIM-tmptd5us: A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the ascendancy without that model, as unfelt fluency is a change in precision without the inference about it
+# CLAIM-tmptd5us: A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it
 
 ## The claim
 
@@ -77,7 +77,7 @@ model fitness ("subjective fitness")" (p. 399). The precision γ weights
 the preference-driven ranking of policies against the habitual prior, so
 "higher γ values afford a greater influence of the expected free energies
 of each policy entailed by one's current action model" (p. 408): in this
-record's terms, γ is a ascendancy strength, and the deeper level models
+record's terms, γ is a gradient share, and the deeper level models
 it. They add that "this type of explicit valence representation is also a
 necessary condition for self-reportable experience of valence" (p. 429).
 
@@ -99,7 +99,7 @@ account", the limit [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md) is 
 **What it would answer.** [CLAIM-411](CLAIM-411.md) asks which further organizational
 properties make an interpretation experiential, under the owner's
 constitutive thesis ([CLAIM-412](CLAIM-412.md)). For affect, this is a candidate: the
-system's model of its own ascendancy. It answers [QUESTION-059](../questions.d/QUESTION-059.md), whether a
+system's model of its own potential. It answers [QUESTION-059](../questions.d/QUESTION-059.md), whether a
 state meeting a functional characterization of affect must be felt, in
 part: no; it is felt when it is also modelled, and an organization may or
 may not have such a model.
@@ -107,7 +107,7 @@ may not have such a model.
 **For an organization.** The model is the organization's reporting, to
 those who govern it, of what wins its conflicts. On this reading Wells
 Fargo's board ([CASE-151](../cases.d/CASE-151.md)), told that sales-integrity terminations were "in
-the range of 200-300", had a model of the bank's ascendancy that
+the range of 200-300", had a model of the bank's potential that
 misrepresented it. If the claim holds, that is mis-felt valence, not
 unfelt valence. Whether the misrepresentation was motivated is the
 report's open question, not this claim's.
@@ -116,7 +116,7 @@ report's open question, not this claim's.
 
 The claim fits Graziano's account ([THEORY-873](../theory.d/THEORY-873.md)), on which reports of
 consciousness come from a schematic model of attention. Here the model is
-of ascendancy, not attention, and it may be schematic in the same way. The
+of potential, not attention, and it may be schematic in the same way. The
 claim does not say whether such a model explains feeling or explains it
 away. It adopts [THEORY-662](../theory.d/THEORY-662.md)'s sense of "felt", attended and available, and
 [QUESTION-048](../questions.d/QUESTION-048.md)'s distinction between access and experience stands: if
@@ -141,7 +141,7 @@ coherence has been reached" ([LIT-tmpjaacn](../literature.d/LIT-tmpjaacn.md), p.
 - **Where they differ: the trigger.** For them the regime's own degree
   and duration recruit consciousness. This claim can adopt that as a
   hypothesis about when the self-model is recruited: strong and lasting
-  ascendancy, too costly to regulate below.
+  potential, too costly to regulate below.
 - **Where they differ: the content.** Their representation is of the
   components' coherence, which has no sign and does not say which
   ordering wins. This claim's model is of which ordering prevails.
@@ -159,13 +159,13 @@ for which they cite Hesp et al., from epistemic depth, a system-wide
 recursive loop over all precisions. They hold that "even complex
 metacognition can potentially be unconscious or conscious depending on
 epistemic depth" (p. 20). This claim's condition, a deeper process that
-infers ascendancy and is used elsewhere, is parametric depth in their
+infers potential and is used elsewhere, is parametric depth in their
 terms, and on their view it is not sufficient for awareness. Two
 readings follow. If "felt" keeps the thin sense adopted here, attended
 and available, their view is about something stronger and does not
 conflict. If "felt" is meant as awareness, their view predicts this
 claim's second defeater, and the claim would need strengthening: the
-model of ascendancy must be part of a global, recursive precision loop.
+model of potential must be part of a global, recursive precision loop.
 Their proposal has no data and no simulation ([NOTE-1063](../notes.d/NOTE-1063.md)), so it decides
 nothing, but it names the distinction the claim must take a side on.
 
@@ -173,7 +173,7 @@ nothing, but it names the distinction the claim must take a side on.
 
 Berridge notes that 'wanting' can be appraised as pleasure by the person
 who has it ([NOTE-tmprub8s](../notes.d/NOTE-tmprub8s.md)), and Hesp et al. concede that their precision
-signal sits nearer 'wanting' than pleasure (p. 430). If the ascendancy this
+signal sits nearer 'wanting' than pleasure (p. 430). If the potential this
 claim's model is of is motivational, as [CLAIM-tmpe0iew](CLAIM-tmpe0iew.md) argues, the claim
 is a theory of felt motivation. Whether it is also one of felt pleasure
 depends on where 'liking' is in the account, which [CLAIM-tmpe0iew](CLAIM-tmpe0iew.md) leaves
@@ -183,8 +183,8 @@ open.
 
 - That any particular system feels. The claim is a condition, and its
   test is [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md).
-- That the model must be accurate. A model that misrepresents ascendancy
+- That the model must be accurate. A model that misrepresents potential
   gives felt valence that misrepresents the system's state, which is what
   the claim predicts of denial and of mis-reported organizations.
 - That the deeper process must be a cortex, or a person. Any process in
-  the system that infers its ascendancy and is used elsewhere qualifies.
+  the system that infers its potential and is used elsewhere qualifies.

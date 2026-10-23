@@ -70,7 +70,7 @@ to non-human targets, "including fish and insects".
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-ascendancy of one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), whose fourth consequence
+one ordering serving as the negotiation's potential ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), whose fourth consequence
 separates ambivalence from neutrality. The ESM separates them too, on a
 different basis. See [NOTE-tmpb0ouu](../notes.d/NOTE-tmpb0ouu.md).
 

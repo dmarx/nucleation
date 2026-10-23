@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 ([NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)): in full, from the publisher''s CC BY PDF as deposited in Aarhus University''s repository (pure.au.dk), checked against the University of Amsterdam deposit. A deep active-inference model of valence. A precision term γ sets how far the agent''s preference-driven action model, rather than a habitual prior, governs policy selection. Its update, "affective charge", is positive when outcomes raise confidence in the action model and negative when they lower it. A second, slower level infers a binary valence state from affective charge and sends priors on γ back down. Simulated in a T-maze with reversal, the agent with the valence level adapts faster than one without it. "Felt" means explicitly represented, which the authors take as necessary for self-reportable experience of valence. Filed for the record''s candidate that a valence regime is felt when the system models its own ascendancy ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).'
+status_note: 'read 2026-10-23 ([NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)): in full, from the publisher''s CC BY PDF as deposited in Aarhus University''s repository (pure.au.dk), checked against the University of Amsterdam deposit. A deep active-inference model of valence. A precision term γ sets how far the agent''s preference-driven action model, rather than a habitual prior, governs policy selection. Its update, "affective charge", is positive when outcomes raise confidence in the action model and negative when they lower it. A second, slower level infers a binary valence state from affective charge and sends priors on γ back down. Simulated in a T-maze with reversal, the agent with the valence level adapts faster than one without it. "Felt" means explicitly represented, which the authors take as necessary for self-reportable experience of valence. Filed for the record''s candidate that a valence regime is felt when the system models its own potential ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).'
 title: 'Deeply Felt Affect: The Emergence of Valence in Deep Active Inference'
 version: 1
 history:
@@ -100,11 +100,11 @@ DOI-10.1162/neco_a_01341
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's candidate that a valence regime is
-felt when the system models its own ascendancy ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), after
+felt when the system models its own potential ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), after
 Brouillet and Friston ([NOTE-785](../notes.d/NOTE-785.md), [THEORY-662](../theory.d/THEORY-662.md)), who cite this paper for
 valence. Structurally, it is the nearest existing model of that
 candidate. γ is the weight of one ordering against another in policy
 selection, and the deep level models it. But it identifies valence with
-the self-model, not with the ascendancy. And it makes negative valence a
-*weakening* of the preference ordering's ascendancy. Read in
+the self-model, not with the potential. And it makes negative valence a
+*weakening* of the preference ordering's potential. Read in
 [NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md).

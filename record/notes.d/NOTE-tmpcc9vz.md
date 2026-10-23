@@ -101,7 +101,7 @@ The record's proposal ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tm
 valence a regime in which one ordering of a system's own states, by their
 bearing on its maintenance, prevails in the negotiation among its
 perspectives. Its sign is the direction of movement along that ordering,
-and its intensity is the strength of the ascendancy. Carver's account
+and its intensity is the gradient share. Carver's account
 bears on it in four ways.
 
 - **The sign clause is anticipated, and is less accurate than
@@ -110,13 +110,13 @@ bears on it in four ways.
   should say the clause is theirs. They also differ from it. Their
   neutral point is a *reference velocity*: "a reference value (at which
   affective valence would be neutral)". The proposal makes neutral
-  "ascendancy with no movement". On Carver's account a system that stands
+  "potential with no movement". On Carver's account a system that stands
   still where it expected to advance has negative valence. On the
   proposal's it is neutral. The two give different predictions for an
   animal that stops gaining. The proposal should either adopt a
   reference rate, so that sign is the direction of movement *relative to
   an expected movement*, or say why rest is neutral.
-- **Carver has a valence per goal loop. The proposal has one ascendant
+- **Carver has a valence per goal loop. The proposal has one potential
   ordering.** For Carver, each of the approach and avoidance systems "can
   be responsible for either positive affect or negative affect", and his
   Figure 2 has two dimensions crossing at "neutral points on both
@@ -124,20 +124,20 @@ bears on it in four ways.
   ordering. The proposal can absorb it only by arguing that felt valence
   is whichever loop's signal prevails. That is a substantive addition,
   and Carver does not make it.
-- **Ascendancy is present only in outline.** Carver speaks of competition
+- **Potential is present only in outline.** Carver speaks of competition
   between "two sources of guidance for behavior", of which level is
   "functionally superordinate", and of "continual juggling of the
   priorities afforded to each" goal (n. 3). This is the nearest the
-  tradition comes to the proposal's ascendancy, and it is not tied to
+  tradition comes to the proposal's potential, and it is not tied to
   valence. Carver ties affect to rate and priority to the hierarchy. The
-  proposal's identification of intensity with ascendancy strength is not
+  proposal's identification of intensity with gradient share is not
   in Carver.
 - **A possible conflict over intensity, not checked.** Footnote 3 cites
   Carver 2003 for priority juggling. Its title says pleasure is "a sign
   you can attend to something else", which suggests that positive affect
   *lowers* a goal's priority. If so, on Carver's account a strongly
   positive goal loses precedence, while on the proposal's, intense
-  positive valence is strong ascendancy. The record has not read Carver
+  positive valence is strong potential. The record has not read Carver
   2003. This should be checked before the intensity clause is promoted,
   since [THEORY-055](../theory.d/THEORY-055.md)'s evidence that control precedence tracks intensity is
   also not read here.
@@ -153,6 +153,6 @@ named, but how it is set is not discussed.
 
 ## Open questions
 
-What sets the reference rate, and whether it is itself a ascendant
+What sets the reference rate, and whether it is itself a potential
 ordering's expectation. Whether the two systems' valence signals combine
 into one valence, or are felt separately.

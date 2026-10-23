@@ -112,9 +112,9 @@ episodes" (p. 225).
 
 ## Bearing on the record
 
-**Is synchronization a measurable analogue of ascendancy?** It is a
-correlate ascendancy would produce, not ascendancy itself. The record's
-term ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) defines ascendancy by which ranking wins the
+**Is synchronization a measurable analogue of potential?** It is a
+correlate potential would produce, not potential itself. The record's
+term ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) defines potential by which ranking wins the
 negotiation's conflicts, persists and resumes. Scherer's synchronization
 is coherence among response subsystems, the same changes appearing in
 appraisal, body, face and motive. One ranking prevailing many
@@ -122,7 +122,7 @@ perspectives would produce that coherence, since all the perspectives it
 governs would be pulled the same way. But coherence does not say which
 ranking does the pulling, or whether it is a ranking of the system's own
 states, or what sign the state has. Synchronization is unsigned, like
-ascendancy strength, so at best it is an analogue of the term's
+gradient share, so at best it is an analogue of the term's
 *intensity* clause. Scherer himself has the integrated inputs fix the
 feeling's quality, intensity and duration, not synchrony alone.
 
@@ -162,7 +162,7 @@ the record should keep them apart.
   by one subsystem, of the coordination of the others. It differs in two
   ways. What is modelled is coherence among components, not which
   ordering wins. And the model covers everything, the appraisal profile,
-  the body and the action tendencies, not the ascendancy alone.
+  the body and the action tendencies, not the potential alone.
 - **(B) Synchronization generates consciousness.** "It is hypothesized
   that it is the degree of synchronization of the components ... that
   will generate conscious experience." Here consciousness is tied to the
@@ -174,7 +174,7 @@ the record should keep them apart.
 Scherer's Venn model puts the monitoring representation (circle A) only
 partly inside consciousness (circle B). So on his account a system can
 model its own coherence without that model being felt. If the record
-adopts "felt = model of own ascendancy", Scherer is a precedent for the
+adopts "felt = model of own potential", Scherer is a precedent for the
 model and a warning that the model is not sufficient. That is
 [QUESTION-059](../questions.d/QUESTION-059.md)'s gap.
 
@@ -184,7 +184,7 @@ If anger jumps at one frustration level going up and drops at a lower
 one coming down, choice depends on the path, not only on the current
 cost–resource pair. The relation on pairs is then not well defined. A
 trade-off experiment should sweep cost up and down, and a fold would be
-evidence of ascendancy changing regime with history. The claim's second
+evidence of potential changing regime with history. The claim's second
 defeater should name it alongside stochastic switching.
 
 ## Limitations

@@ -69,7 +69,7 @@ John T. Cacioppo & Gary G. Berntson (1994), *Psychological Bulletin*
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-ascendancy of one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). Its fourth consequence,
+one ordering serving as the negotiation's potential ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). Its fourth consequence,
 "Ambivalence is not neutrality", is a distinction this paper drew for
 attitudes. See [NOTE-tmpb0ouu](../notes.d/NOTE-tmpb0ouu.md) for how the two accounts of that
 distinction differ.

@@ -126,9 +126,9 @@ them is in charge.
 is not signed. What does say which tendency prevails is a different
 sentence: "some action tendencies with control precedence take priority
 over other potential action tendencies" (p. 223). That is the record's
-ascendancy ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) in the CPM's own words: a tendency winning
+potential ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) in the CPM's own words: a tendency winning
 the conflict with its rivals. The paper does not connect it to
-synchronization or measure it. In the CPM, then, ascendancy and
+synchronization or measure it. In the CPM, then, potential and
 synchronization are separate notions. Synchronization is a degree of
 coherence across components, and precedence is a ranking among the
 tendencies within one of them. That supports the reading in
@@ -141,7 +141,7 @@ of synchronization in the other components surpassing a certain
 threshold" (p. 225). This is a threshold on an unsigned degree, so it is
 a hypothesis about when an episode is felt, not about how it is
 resolved. It sits beside [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md), felt when the system models
-its own ascendancy, as a rival with a different variable: degree of
+its own potential, as a rival with a different variable: degree of
 coupling rather than a self-model. It is the same identity-with-degree
 view that [NOTE-tmpsx1uk](NOTE-tmpsx1uk.md) set against the self-model reading (closer to
 [THEORY-101](../theory.d/THEORY-101.md)). It also does not bear on [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s continuity

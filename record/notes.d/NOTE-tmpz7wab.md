@@ -132,10 +132,10 @@ episodes" (p. 225). Scherer's model is read in [LIT-tmpfjacn](../literature.d/LI
 ## Bearing on the record
 
 **Does Lewis's attractor account already contain "an ordering coming to
-dominate"?** It contains the *dynamics* of ascendancy almost exactly, and
+dominate"?** It contains the *dynamics* of potential almost exactly, and
 not the *ordering*.
 
-- **The dynamics.** The record's term reads ascendancy through Frijda's
+- **The dynamics.** The record's term reads potential through Frijda's
   three marks ([THEORY-055](../theory.d/THEORY-055.md)). Lewis's account has all three. Priority: an
   EI must "take over" the psychological system (p. 176), and its
   constituents "lose their independence and become embedded in a larger
@@ -146,7 +146,7 @@ not the *ordering*.
   (p. 177). It also has what [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) needs and Frijda's marks do
   not supply. One wins "from competing ensembles" (p. 177), "only one of
   these converges at a time" (p. 175), and losing is real: Lewis's
-  oscillating Mr. Smart is the record's split or alternating ascendancy,
+  oscillating Mr. Smart is the record's split or alternating potential,
   its reading of ambivalence. And it has no regulator above the
   competitors, which is [THEORY-056](../theory.d/THEORY-056.md)'s point.
 - **What it lacks.** What prevails in Lewis is an *interpretation*, a
@@ -179,7 +179,7 @@ record the animal's prior state.
 **On measurement.** Lewis's phase synchrony is an operational measure,
 EEG or LFP phase locking, but of coherence among regions, not of which
 ranking governs action. For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) it is a candidate marker
-of ascendancy strength, and needs pairing with a behavioural record of
+of gradient share, and needs pairing with a behavioural record of
 which conflicts are won.
 
 **On [CLAIM-283](../claims.d/CLAIM-283.md).** In Lewis's account, the authority a configuration is

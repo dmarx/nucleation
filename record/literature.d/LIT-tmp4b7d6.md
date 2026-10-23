@@ -96,7 +96,7 @@ DOI-10.1016/j.biopsycho.2010.03.011
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-ascendancy of one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). That proposal
+one ordering serving as the negotiation's potential ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). That proposal
 separates ambivalence from neutrality, and the evaluative space model did
 so first. It is the only first-hand statement of the model the record
 could reach lawfully: the 1994 and 1997 papers are Unavailable. The

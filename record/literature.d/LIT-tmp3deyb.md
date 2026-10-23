@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not reach it. The University of Geneva''s Archive ouverte holds the published version (unige:97776) restricted to UNIGE/HUG users. The University of Reading''s repository (CentAUR, eprint 30302) and Ghent University''s bibliography (418787) list it without a public full text. The SAGE PDF refused this client behind a bot check, and the Geneva E3 Lab''s publications page does not post it. A web search found no author or course posting. OpenAlex points to a CiteSeerX cache, which was not used because its source could not be traced. Its four dimensions are read from the PubMed abstract, and its "potency-control" dimension is glossed as "dominance" by Shuman, Sander and Scherer ([LIT-tmpkywoj](LIT-tmpkywoj.md)). Filed because the record renamed its "dominance" to "ascendancy" to avoid the PAD homonym, and this is the study that places the PAD axis among the component process model''s dimensions. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not reach it. The University of Geneva''s Archive ouverte holds the published version (unige:97776) restricted to UNIGE/HUG users. The University of Reading''s repository (CentAUR, eprint 30302) and Ghent University''s bibliography (418787) list it without a public full text. The SAGE PDF refused this client behind a bot check, and the Geneva E3 Lab''s publications page does not post it. A web search found no author or course posting. OpenAlex points to a CiteSeerX cache, which was not used because its source could not be traced. Its four dimensions are read from the PubMed abstract, and its "potency-control" dimension is glossed as "dominance" by Shuman, Sander and Scherer ([LIT-tmpkywoj](LIT-tmpkywoj.md)). Filed because the record renamed its "dominance" to "potential" to avoid the PAD homonym, and this is the study that places the PAD axis among the component process model''s dimensions. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'The World of Emotions is not Two-Dimensional'
 version: 1
 history:
@@ -41,7 +41,7 @@ summary: >-
   activation-arousal and unpredictability. Unread: known from the
   abstract and from later papers of the same group.
 ---
-<!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli — Proposed; the term whose "dominance" was renamed "ascendancy", and the account stated in it -->
+<!-- inactive-ok-file: TERM-tmp8gbrt CLAIM-tmpz8lli — Proposed; the term whose "dominance" was renamed "potential", and the account stated in it -->
 
 # LIT-tmp3deyb: The World of Emotions is not Two-Dimensional
 
@@ -82,7 +82,7 @@ arousal, dominance, and novelty (e.g., Fontaine et al., 2007, in press)"
 corresponds to the power and control appraisals, the agent's capacity to
 influence its situation. It is a different thing from the record's notion,
 which concerns which of the system's own orderings prevails. The rename to
-"ascendancy" keeps them apart. How the two interact is noted in
+"potential" keeps them apart. How the two interact is noted in
 [NOTE-tmpmobow](../notes.d/NOTE-tmpmobow.md): high control amplifies the efferent effects
 of goal congruence.
 

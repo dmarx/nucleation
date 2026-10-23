@@ -29,7 +29,7 @@ summary: >-
   deliberation, partial goal fulfilment, cognitive biases. Providers select
   features by their effect on use and revenue, and personalize them under
   informational asymmetry. For the record it maps closely onto the parts of
-  the ordering-ascendancy account: features that strengthen a cue-keyed
+  the potential account: features that strengthen a cue-keyed
   ranking, move its reference course, falsify the user's reading of
   progress, or pre-empt the other perspectives.
 ---
@@ -195,7 +195,7 @@ studies a firm.
 
 ## Bearing on the record
 
-**[QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md): designed proxy-keyed ascendancy in users. Yes, as
+**[QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md): designed proxy-keyed potential in users. Yes, as
 description, and with a sharper map than the question has.** Each of the
 paper's model-based families acts on a different part of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
 regime, and the model-free family on its strength. The mapping is the
@@ -208,7 +208,7 @@ record's, not the paper's.
 - **The ranks themselves (overvaluation).** Immersion and social reward
   raise where the activity sits in the ordering.
 - **The reference course (partial goal fulfilment).** Moving goalposts move
-  the reference course along the ascendant ordering. On the sign clause
+  the reference course along the potential ordering. On the sign clause
   the user is kept just behind course, which keeps the ordering engaged
   without letting it settle at neutral. That fits [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s
   Carver-and-Scheier reading of sign as progress against a reference
@@ -218,13 +218,13 @@ record's, not the paper's.
 - **The system's reading of its own progress (cognitive biases).** Near-
   misses and losses disguised as wins "contribute to the false belief that
   one is progressing". On [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) this falsifies the system's model
-  of where it stands along the ascendant ordering, which is mis-felt
+  of where it stands along the potential ordering, which is mis-felt
   valence, not unfelt. It is the user-side counterpart of [CASE-151](../cases.d/CASE-151.md)'s board
-  receiving a model of the bank's ascendancy that misrepresented it.
+  receiving a model of the bank's potential that misrepresented it.
 - **The negotiation itself (interference with deliberation).** Autoplay and
   countdowns do not outweigh the other perspectives. They pre-empt them:
   the next episode starts before any perspective that would stop it is
-  consulted. Ascendancy is then won by default, not in conflict. This
+  consulted. Potential is then won by default, not in conflict. This
   bears on [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md). A conflict record will show no conflict
   where a feature has removed the occasion for one, so the measurement
   must count pre-empted decisions as well as decided ones.
@@ -233,17 +233,17 @@ record's, not the paper's.
   ordering is "by their bearing on its maintenance" and when it is a proxy. Its
   clinical marks, "increasing priority" and "continuation or escalation
   ... despite the occurrence of negative consequences", are priority and
-  persistence against harm, which is the question's proxy-ascendancy
+  persistence against harm, which is the question's proxy-potential
   described from outside. They are not a criterion.
 
-**The organizational side: a firm's metric installing ascendancy in users.**
+**The organizational side: a firm's metric installing potential in users.**
 "design features that increase the frequency of online behaviour,
 time-on-device or spending (and therefore revenue) will be maintained,
 whereas those that do not will be abandoned" (p. 6). Read with the
-record's account, this is two proxy-keyed ascendancies coupled. The
-firm's ascendant ordering, ranked by engagement and revenue, a proxy for
+record's account, this is two proxy-keyed potentials coupled. The
+firm's potential ordering, ranked by engagement and revenue, a proxy for
 its viability, selects features. The selected features make a cue-keyed
-ranking ascendant in users, a proxy for their good.
+ranking potential in users, a proxy for their good.
 - **[CLAIM-432](../claims.d/CLAIM-432.md).** The coupling fits threat without remorse. The harm to users
   need not be represented anywhere in the firm, since selection by the
   metric needs "little knowledge of underlying psychological processes".
@@ -295,7 +295,7 @@ methods.
   affect during use, measured apart from choice? The record's sign clause
   predicts negative.
 - Can pre-empted decisions (autoplay) be distinguished from decisions won
-  by the ascendant ranking in a conflict record, as [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)
+  by the potential ranking in a conflict record, as [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)
   would need?
 - Is there a documented case of a firm keeping a feature for its
   engagement effect against its own evidence of harm?

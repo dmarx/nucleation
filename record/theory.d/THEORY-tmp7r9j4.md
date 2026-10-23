@@ -116,8 +116,8 @@ reactions rising with pursuit.
   strength without goal conduciveness, read by the person's goals. This is
   that claim's third defeater.
 - **[CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md).** Motivation that rises without reportable change in
-  feeling is a reported instance of ascendancy without a self-model of it.
+  feeling is a reported instance of potential without a self-model of it.
 - **[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md).** Context-gating means a conflict record taken
-  outside the gating context will understate this kind of ascendancy.
+  outside the gating context will understate this kind of potential.
 - **Flayelle et al. ([LIT-tmpqxirs](../literature.d/LIT-tmpqxirs.md))** use it as one of their two
   model-free routes by which design features promote uncontrolled use.

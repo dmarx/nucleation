@@ -85,7 +85,7 @@ Computing* 12(1):189–202 — DOI-10.1109/TAFFC.2018.2864730
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's question of how to measure which
-ordering is ascendant in a negotiation ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)), as set out
+ordering is the potential in a negotiation ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)), as set out
 in [NOTE-tmp4itog](../notes.d/NOTE-tmp4itog.md). It gives no per-episode measure of component
 synchronization. It argues that active induction is a precondition for
 one, and its componentiality criterion is a pattern of associations

@@ -111,14 +111,14 @@ and physiology is reported, not recorded. The paper's real contribution
 to [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) is a precondition: a measure of coordination
 needs an episode in which the system acts, so that its tendencies have
 something to compete over. That is also the record's requirement that
-ascendancy be read from conflicts actually won during the episode.
+potential be read from conflicts actually won during the episode.
 
 **Signed, or which tendency prevails?** Not measured. But the data
 contain the right kind of case. Cluster 1 combines appraisals and
 feelings of fear with the exploratory tendency as its highest item, and
 the paper reads it as anxiety or thrill-seeking. Fear and approach
 co-occur in the same episodes. On [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) this is the kind of case
-the term must handle: either split ascendancy (ambivalence) or one ordering
+the term must handle: either split potential (ambivalence) or one ordering
 winning while the other is present. [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) asks for a
 procedure that separates the two. Ratings after the game cannot do it:
 they give the strength of each tendency, not which won when they

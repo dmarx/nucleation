@@ -102,7 +102,7 @@ DOI-10.1017/S0140525X0500004X
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-ascendancy of a negotiation by one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md),
+potential of a negotiation by one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md),
 [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). Lewis's account already contains the dynamics of one
 organization coming to prevail. It has a regime that takes over,
 persists and is selected over competitors. What prevails, though, is an

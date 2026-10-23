@@ -137,7 +137,7 @@ What it gives:
   (e.g., Berridge, 2003)" (p. 2). Their own example is a wanting–liking
   dissociation: people "strive harder to acquire consumer goods they like
   less" (Litt et al. 2010, whose title is "parallel counterdriving of
-  wanting and liking"). So a reply of the form "the ascendancy account
+  wanting and liking"). So a reply of the form "the potential account
   covers goal-conduciveness valence, and intrinsic pleasantness is a
   separate check with its own ordering" is not ad hoc. It is the
   taxonomy of the theory the record already draws on.
@@ -166,8 +166,8 @@ What it does not give:
   high on goal conduciveness for the wanting-driven goal. That is the
   case where [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) says the sign clause gives the wrong answer,
   and relabelling the valence does not change that.
-- **It does not make pleasantness ascendant.** A reply that wants to keep
-  "hedonic" needs 'liking' to be the ascendancy of a pleasantness
+- **It does not make pleasantness potential.** A reply that wants to keep
+  "hedonic" needs 'liking' to be the potential of a pleasantness
   ordering. The paper gives pleasantness an ordering, but no account of
   its winning anything. It appears in the macro-valence only as one
   weighted input. The paper's one candidate for a micro-valence that
@@ -176,7 +176,7 @@ What it does not give:
   fixed largely by evolution, with sugar "not a particularly sensitive
   indicator for the nutritive value of a food" (p. 2). It is not an
   ordering of the system's own states by their bearing on its
-  maintenance. A pleasantness ascendancy would need [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s kind
+  maintenance. A pleasantness potential would need [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s kind
   clause rewritten.
 
 So the candid reading is that the paper supports [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)'s second
@@ -195,11 +195,11 @@ the options. Two things carry over:
   trades off; lexicographic and elimination-by-aspects rules need "no
   trade-offs between micro-valences" (p. 8). That is [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s
   contrast between a currency and an ordering without one, and
-  [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s two regimes of ascendancy. Shuman et al. reached it from
+  [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s two regimes of potential. Shuman et al. reached it from
   decision theory, independently.
-- **Ascendancy of one micro-valence is the paper's lexicographic case.**
+- **Potential of one micro-valence is the paper's lexicographic case.**
   "Moral goodness may generally dominate other micro-valences" (p. 9) is a
-  hypothesis that one ordering wins the integration. It is ascendancy in
+  hypothesis that one ordering wins the integration. It is potential in
   the record's sense, with priority, though the paper does not test
   persistence or resumption.
 
@@ -217,7 +217,7 @@ negotiation's conflicts in the paper's terms.
 **On ambivalence ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), consequence 4).** The paper's
 conscious–unconscious conflict, where the same micro-valences yield
 different macro-valences at two levels of processing (p. 12), is a
-version of the record's split ascendancy: one ordering prevailing in one
+version of the record's split potential: one ordering prevailing in one
 part of the system and another elsewhere. It also gives the record's
 marker for it: "non-verbally avoiding and verbally approaching the
 partner" (p. 12).
@@ -239,7 +239,7 @@ it does not ask whether goal conduciveness is incentive salience.
 
 Which integration rule governs macro-valence, and whether it changes with
 state (the paper predicts more effortful integration under negative
-macro-valence, p. 12). Whether a pleasantness ordering can be ascendant,
+macro-valence, p. 12). Whether a pleasantness ordering can be potential,
 or only weighted. Whether the physiological signatures that separate
 intrinsic valence from goal congruence (facial EMG versus autonomic
 measures, reviewed in [NOTE-tmpmobow](NOTE-tmpmobow.md)) could serve

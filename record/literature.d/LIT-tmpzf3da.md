@@ -88,12 +88,12 @@ David Sander, Didier Grandjean & Klaus R. Scherer (2018), *Emotion Review*
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's question of how to measure which
-ordering is ascendant in a system's negotiation ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). It
+ordering is the potential in a system's negotiation ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). It
 was checked for a per-episode measure of component synchronization and
 gives none: it says what synchronization is hoped to be in the brain,
 and that measuring it is the challenge. Its one line on control
 precedence is the nearest the CPM literature comes to the record's
-ascendancy ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), read through [THEORY-055](../theory.d/THEORY-055.md)), and it is stated,
+potential ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), read through [THEORY-055](../theory.d/THEORY-055.md)), and it is stated,
 not measured. Set out in [NOTE-tmphslle](../notes.d/NOTE-tmphslle.md). The Mohammadi, Van De
 Ville and Vuilleumier study ([LIT-tmp9qnrb](LIT-tmp9qnrb.md)) is the group's
 attempt at the networks it calls for.

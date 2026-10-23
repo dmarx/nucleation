@@ -158,7 +158,7 @@ Where they differ:
   and nothing says when one is recruited. So Grandjean et al. predict that
   weak or brief regimes are unfelt even when a system could model them,
   and [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) does not. Read with [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), their account says
-  that strong and persistent ascendancy is felt, which makes intensity
+  that strong and persistent potential is felt, which makes intensity
   and persistence, two of the term's own clauses, conditions of feeling.
   That is a substantive addition the record could take, as a hypothesis
   about when the self-model is recruited.
@@ -186,7 +186,7 @@ pleasantness is early and "unconscious, automatic, and possibly
 schematic"; goal conduciveness is later and "conscious, controlled, and
 possibly propositional" (p. 491). That fits Berridge's picture, in
 which 'liking' reactions can occur without felt pleasure, and it fits the
-reading in [NOTE-tmpogww2](NOTE-tmpogww2.md) on which the record's ascendancy account
+reading in [NOTE-tmpogww2](NOTE-tmpogww2.md) on which the record's potential account
 covers goal-conduciveness valence. But it cuts against [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)'s
 felt-pleasure question in one way. If pleasantness is resolved early at a
 low level, then on Grandjean et al.'s logic it is the valence least likely

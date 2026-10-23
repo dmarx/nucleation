@@ -79,7 +79,7 @@ Personality and Social Psychology* 99(6):1042–1060 — DOI-10.1037/a0020962
 ## Standing in the record
 
 Filed on 2026-10-23 for [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md), which asks how to measure the
-three marks of ascendancy that [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) takes from Frijda:
+three marks of potential that [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) takes from Frijda:
 priority, persistence and resumption. DynAffect gives two of them an
 established statistical form. Attractor strength is a rate of return to
 a baseline after perturbation, which is the shape of resumption.
@@ -89,7 +89,7 @@ affect, not the authority of one ranking over the system's conduct. To
 measure resumption in the record's sense, the same model would have to
 be fitted to a different time series: for example, the share of an
 organization's or an animal's conflict decisions that follow the
-candidate ranking ≿_v, with the home base as its baseline ascendancy
+candidate ranking ≿_v, with the home base as its baseline potential
 and the attractor strength as its resumption. Whether the paper's
 model allows that change of variable is a question for the reading. So
 is the exact form of its diffusion model, which the abstract does not

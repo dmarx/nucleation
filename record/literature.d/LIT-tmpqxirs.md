@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 ([NOTE-tmp1mo2x](../notes.d/NOTE-tmp1mo2x.md)): in full, from the typeset article as deposited in the University of Lausanne''s repository (SERVAL/IRIS). Worth reading as a compact, theory-driven catalogue of the design features of games, gambling, pornography, shopping, social-networking and streaming services that may weaken users'' control. Features are sorted by whether they work on model-free learning (reinforcement schedules, personalized cues) or on model-based choice (overvaluation, features that interfere with deliberation, partial goal fulfilment, cognitive biases). It also names the selection process on the provider''s side: features that raise use, time-on-device or spending are kept, with no psychology needed. The evidence reviewed is mostly cross-sectional, qualitative or indirect, and the authors warn against pathologizing common behaviour. Filed for the record''s question whether ascendancy of a proxy is valence ([QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md)), because it describes how a firm optimizing its own metric can install proxy-keyed ascendancy in its users.'
+status_note: 'read 2026-10-23 ([NOTE-tmp1mo2x](../notes.d/NOTE-tmp1mo2x.md)): in full, from the typeset article as deposited in the University of Lausanne''s repository (SERVAL/IRIS). Worth reading as a compact, theory-driven catalogue of the design features of games, gambling, pornography, shopping, social-networking and streaming services that may weaken users'' control. Features are sorted by whether they work on model-free learning (reinforcement schedules, personalized cues) or on model-based choice (overvaluation, features that interfere with deliberation, partial goal fulfilment, cognitive biases). It also names the selection process on the provider''s side: features that raise use, time-on-device or spending are kept, with no psychology needed. The evidence reviewed is mostly cross-sectional, qualitative or indirect, and the authors warn against pathologizing common behaviour. Filed for the record''s question whether potential of a proxy is valence ([QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md)), because it describes how a firm optimizing its own metric can install proxy-keyed potential in its users.'
 title: 'A taxonomy of technology design features that promote potentially addictive online behaviours'
 version: 1
 history:
@@ -109,9 +109,9 @@ pages.*
 
 Filed on 2026-10-23 at the owner's request, for [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md) and the
 organizational side of the record's account of valence as
-ordering-ascendancy. It describes a firm whose own metric (use,
+ordering-potential. It describes a firm whose own metric (use,
 time-on-device, revenue) selects features that make a cue-keyed ranking
-ascendant in its users. That links the record's reading of Doctorow
+potential in its users. That links the record's reading of Doctorow
 ([LIT-033](LIT-033.md), [NOTE-041](../notes.d/NOTE-041.md)) to the corporate claim [CLAIM-432](../claims.d/CLAIM-432.md). It is a review and a
 taxonomy, not a test, so no THEORY is drawn from it. A case documenting a
 particular firm's design choices would be the place to ground that link;

@@ -125,7 +125,7 @@ every event has a signed value on each process, both from its ratings
 and from its brain map. The paper reports loadings and maps, not these
 event scores. For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) this is a per-episode, signed,
 brain-and-report measure of which pattern an episode expresses. It is
-still not a measure of ascendancy. A high FCP-1 score means the episode
+still not a measure of potential. A high FCP-1 score means the episode
 had the valuation pattern. It does not mean that pattern won a conflict
 against another one.
 
@@ -134,7 +134,7 @@ that is signed along an action-tendency axis. Its positive pole is
 the item "Want the situation to continue?", its negative pole the items
 "Feel the urge to stop what was happening?" and "Want to undo what was
 happening?" (Table 1). On [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) it is the closest thing in these
-five papers to a measure that tracks ascendancy and valence together: an
+five papers to a measure that tracks potential and valence together: an
 evaluation network whose sign follows the direction of the prevailing
 tendency. Two cautions. The tendencies are reported, not enacted, and in
 passive viewing there is nothing to continue or stop. And the sign is
@@ -155,12 +155,12 @@ naturalistic episodes, valence features load on two separate processes:
   underpinning" (p. 8006).
 
 For [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md)'s layers this is close to a human dissociation of
-layer 1 (ascendancy, read off the tendency that governs: FCP-1) and
+layer 1 (potential, read off the tendency that governs: FCP-1) and
 layer 2 (a hedonic marker that does not depend on choice: FCP-3, whose
 rated expression features are a rough human analogue of taste
 reactivity's orofacial signs). It agrees with Berridge's animal work ([LIT-tmpmp2nw](../literature.d/LIT-tmpmp2nw.md)),
 which [THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md) and [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) use against the proposal that
-valence is ascendancy by a self-maintenance ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).
+valence is potential by a self-maintenance ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).
 It is weaker evidence than it looks, for three reasons:
 - The two processes are orthogonal by construction (PLSC latent
   variables are orthogonal), so their separation is partly the method's.

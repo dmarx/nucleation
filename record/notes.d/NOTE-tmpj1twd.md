@@ -126,7 +126,7 @@ outcome of a conflict. A caution on words: its "ATTACK VS SUBMIT factor
 corresponds to tendencies to dominate (positive values) versus to be
 dominated (negative values)" (ms p. 22). That is the social dominance of
 the PAD tradition, the homonym the record renamed its own notion to
-avoid, and it should not be read as ascendancy.
+avoid, and it should not be read as potential.
 
 **The threshold effects and [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md).** They do not bear on the
 claim's contrast, for three reasons.
@@ -169,7 +169,7 @@ Additive criteria trade off. A pure modifier changes the effect of goal
 compatibility without having any effect of its own, which is how a
 gate acts. [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) expects both regimes in one animal, as one
 ordering changing regime. This is at most a weak analogue: it concerns
-appraisal-to-response maps in word meaning, not an ordering's ascendancy
+appraisal-to-response maps in word meaning, not an ordering's potential
 in conduct. It is worth noting because it is the same two-regime shape
 found in a different domain.
 

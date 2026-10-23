@@ -64,12 +64,12 @@ are not described in it and were not seen.
 
 ## Standing in the record
 
-Filed on 2026-10-23 for the record's account of valence as ascendancy
+Filed on 2026-10-23 for the record's account of valence as potential
 ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). Its part 2 recasts a common currency as the negotiation
 admitting an ordering, and Cabanac is the thesis it recasts, alongside
 Veit ([THEORY-101](../theory.d/THEORY-101.md)). One point is visible from the abstract alone. For
 animals, Cabanac measures pleasure *by choice*. That merges the record's
-layer (1), ascendancy from conflicts won, with layer (2), a hedonic marker
+layer (1), potential from conflicts won, with layer (2), a hedonic marker
 independent of choice. For animals, the paper cannot test whether the two
 agree. Only the human joint-rating experiments could, and they are what a
 reading should check first.

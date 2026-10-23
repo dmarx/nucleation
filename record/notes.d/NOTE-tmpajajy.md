@@ -160,7 +160,7 @@ difference is the same, and sharper.
    for coping). [CLAIM-283](../claims.d/CLAIM-283.md)'s distinction has no room in it, except through
    recency, which grants authority on another ground.
 
-**On the marks of ascendancy ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)).**
+**On the marks of potential ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)).**
 - *Priority* is the argmax rule.
 - *Persistence* comes only through mood. A frame type that has won often
   raises the mood component of its label, and that biases later
@@ -177,7 +177,7 @@ difference is the same, and sharper.
 **On valence.** EMA's valence is per proposition: desirability positive
 or negative, on the agent's utilities. It is Carver's "each goal loop its
 own valence" ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md) through [LIT-tmpdmzgc](../literature.d/LIT-tmpdmzgc.md)) again, the view the
-proposal sets against one valence for the ascendant ordering. EMA's mood
+proposal sets against one valence for the potential ordering. EMA's mood
 is the nearest thing to a system-level valence, and it is a sum by label,
 not an ordering.
 

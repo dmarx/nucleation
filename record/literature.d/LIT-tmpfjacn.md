@@ -101,20 +101,20 @@ B* 364(1535):3459–3474 — DOI-10.1098/rstb.2009.0141
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-ascendancy of one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). It bears on
+one ordering serving as the negotiation's potential ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). It bears on
 two questions, set out in [NOTE-tmpsx1uk](../notes.d/NOTE-tmpsx1uk.md): whether
-synchronization is a measurable analogue of ascendancy, and whether the
+synchronization is a measurable analogue of potential, and whether the
 feeling component is a version of the proposal that what is felt is the
-system's model of its own ascendancy. In short:
+system's model of its own potential. In short:
 
-- synchronization is a correlate ascendancy would produce, not the
-  ascendancy itself;
+- synchronization is a correlate potential would produce, not the
+  potential itself;
 - the monitoring component is close to that proposal, and Scherer also
   makes a stronger, separate hypothesis;
 - the paper gives no operational measure of synchronization.
 
 It also uses Frijda's control precedence, which the record's term reads
-ascendancy through ([THEORY-055](../theory.d/THEORY-055.md)).
+potential through ([THEORY-055](../theory.d/THEORY-055.md)).
 
 The paper is addressed to computational modellers of emotion in agents.
 It is not an instruction for machine-learning practice, so nothing here

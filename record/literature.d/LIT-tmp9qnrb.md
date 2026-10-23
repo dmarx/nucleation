@@ -92,7 +92,7 @@ Gelareh Mohammadi, Dimitri Van De Ville & Patrik Vuilleumier (2023),
 ## Standing in the record
 
 Filed on 2026-10-23 and read for two questions, as set out in
-[NOTE-tmpocnqb](../notes.d/NOTE-tmpocnqb.md). On measuring ascendancy ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)) it
+[NOTE-tmpocnqb](../notes.d/NOTE-tmpocnqb.md). On measuring potential ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)) it
 gives no synchronization index. Its latent variables are defined per
 observation, so each 12-second event has a signed score on each process.
 The paper does not report those scores. They would be a per-episode

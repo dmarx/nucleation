@@ -169,21 +169,21 @@ The record should not cite this review as stating it.
 
 - **Markers that tell the two valences apart.** If the record concedes
   [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) in the way [NOTE-tmpogww2](NOTE-tmpogww2.md) suggests, with the
-  ascendancy account covering goal-conduciveness valence and intrinsic
+  potential account covering goal-conduciveness valence and intrinsic
   pleasantness a separate check, the physiology here is how one would
   tell which ordering is driving. Goal congruence shows up
   autonomically, with less habituation when it is negative. Intrinsic
   valence shows up mainly in facial EMG. These are human, individual
   markers, so they bear on the animal side of [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md), not on
   organizations.
-- **Control as a gain on the ascendant ordering.** "Amplified goal
+- **Control as a gain on the potential ordering.** "Amplified goal
   congruence effects when control was high, in contrast to invariant goal
   congruence effects when control was low" (p. 732). If goal conduciveness
   is the ordering that prevails, control modulates how strongly it drives
   the components, which is what [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) calls intensity. The control
   appraisal concerns the agent's power over its situation. It is not the
-  ascendancy of one internal ordering over others, and it is the axis PAD
-  calls "dominance" (see [LIT-tmp3deyb](../literature.d/LIT-tmp3deyb.md)). The rename to ascendancy
+  potential of one internal ordering over others, and it is the axis PAD
+  calls "dominance" (see [LIT-tmp3deyb](../literature.d/LIT-tmp3deyb.md)). The rename to potential
   keeps the two apart; this finding says how they interact.
 
 **On [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md).** The two-threshold proposal (p. 737) puts
@@ -197,7 +197,7 @@ model in question represents coherence, not which ordering wins. It also
 adds temporal chunking: feelings come as "temporal chunks with phenomenal
 unity" that "might occur when a certain level of component
 synchronization persists" (p. 737). Persistence is one of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
-marks of ascendancy, so this is a point of contact with the record's
+marks of potential, so this is a point of contact with the record's
 account. The review gives it as a hypothesis, not a finding. The
 Grandjean et al. reading ([NOTE-tmpt8ltj](NOTE-tmpt8ltj.md)) takes the comparison
 further.

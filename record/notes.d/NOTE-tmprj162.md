@@ -26,7 +26,7 @@ summary: >-
   'wanting' can oppose cognitive desire, run without report, and grow in
   abstinence, and the theory is being extended, on weak evidence, to
   behavioural addictions. For the record it is a mechanism for
-  proxy-keyed ascendancy in persons. It also shows that the addict case
+  proxy-keyed potential in persons. It also shows that the addict case
   [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md) settles holds only if the sign of valence is read along
   the proxy.
 ---
@@ -163,17 +163,17 @@ sensitization and addiction. Dayan and Berridge ([LIT-584](../literature.d/LIT-5
 takes Berridge and Robinson's "wanted" but not "liked" behaviours as
 instances of its itch-like cycle. Daw, Niv and Dayan ([LIT-580](../literature.d/LIT-580.md)) supply the
 arbitration view of controllers that [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md) borrows for
-measuring ascendancy. Flayelle et al. ([LIT-tmpqxirs](../literature.d/LIT-tmpqxirs.md)) cite incentive
+measuring potential. Flayelle et al. ([LIT-tmpqxirs](../literature.d/LIT-tmpqxirs.md)) cite incentive
 sensitization as one of two model-free routes by which technology design
 promotes uncontrolled use, and propose that unpredictable non-drug
 rewards can cause it.
 
 ## Bearing on the record
 
-**[QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md): a mechanism for proxy-keyed ascendancy in persons,
+**[QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md): a mechanism for proxy-keyed potential in persons,
 which meets the term's kind clause no better than 'liking' does.**
 - **The marks are all there, with a mechanism for each.** On [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md),
-  ascendancy is priority, persistence and resumption ([THEORY-055](../theory.d/THEORY-055.md)).
+  potential is priority, persistence and resumption ([THEORY-055](../theory.d/THEORY-055.md)).
   - *Priority*: sensitized 'wanting' wins against "a genuine cognitive
     desire to abstain".
   - *Persistence*: it "can persist for years".
@@ -189,7 +189,7 @@ which meets the term's kind clause no better than 'liking' does.**
   named mechanism.
 - **But the ordering is over cues.** Incentive salience is "tightly linked
   to reward cues" and "less connected to cognitive goals". [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
-  kind clause says that a ranking of world states, however ascendant, is
+  kind clause says that a ranking of world states, however potential, is
   not valence "until it ranks the system's own states by their bearing on
   its maintenance". [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md) used exactly that clause to set
   'liking' aside, as "an ordering over stimuli". On this paper's account
@@ -215,9 +215,9 @@ is the drug: the sign read along the ordering that has prevailed, not along
 the person's goals or maintenance. Read so, the claim stays consistent,
 but its "goal conduciveness" has become conduciveness to whatever prevails.
 That presupposes an answer to [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md), namely that proxy-keyed
-ascendancy is valence with its sign read on the proxy. Read the component process model's way
+potential is valence with its sign read on the proxy. Read the component process model's way
 instead, by the person's own goals, the relapsing addict has strong
-ascendancy and negative goal conduciveness, and taking the drug is
+potential and negative goal conduciveness, and taking the drug is
 obstructive. The pairing then predicts negative valence at the moment of
 taking. The paper does not report on that. It is an empirical question, and
 it is where the defeater should be tested.
@@ -228,24 +228,24 @@ it is where the defeater should be tested.
   salience system supplies strength for both signs, which fits
   [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md)'s separation of strength from sign, and [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s
   view that intensity is not itself signed.
-- **Ascendancy without report.** Subliminal cues raise motivation
+- **Potential without report.** Subliminal cues raise motivation
   "even though the person remains unable to report any change in
   subjective feelings". This is [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)'s category of unfelt
-  valence, ascendancy without the system's model of it, found by the
+  valence, potential without the system's model of it, found by the
   layer-1 against layer-3 dissociation that [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md) proposes.
   It is cited, not read here (Winkielman et al. 2005; Childress et al.
   2008).
 
-**[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md): measuring ascendancy.** "not always hyper-active, but
+**[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md): measuring potential.** "not always hyper-active, but
 ... hyper-reactive", and testing outside drug contexts can hide
-sensitization. Ascendancy of this kind is dispositional and gated by
+sensitization. Potential of this kind is dispositional and gated by
 context. A conflict record taken where the cues are absent will read it
 as weak. The paper's complaint about scanner studies is the measurement
 problem the question faces, and [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) already flags the same
 dispositional character under the counterfactual eraser.
 
 **The organizational side, as analogy only.** Dopamine dysregulation
-syndrome shows that ascendancy strength can be set from outside, with its
+syndrome shows that gradient share can be set from outside, with its
 targets "idiosyncratically diverse", and that it fades when the drive
 stops. An incentive system that amplifies whatever metric is cued, as
 Wells Fargo's did for cross-sell ([CASE-151](../cases.d/CASE-151.md), [CLAIM-432](../claims.d/CLAIM-432.md)), is the analogue

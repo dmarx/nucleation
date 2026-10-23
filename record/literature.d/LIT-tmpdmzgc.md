@@ -99,9 +99,9 @@ out in [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md). In short:
   difference that matters: their neutral point is a reference rate, not
   rest;
 - their account puts a valence on every goal loop and has no single
-  ascendant ordering;
+  potential ordering;
 - their priority juggling is the nearest thing in the tradition to the
-  proposal's ascendancy.
+  proposal's potential.
 
 Its loop vocabulary is Powers's ([LIT-1179](LIT-1179.md), [LIT-1188](LIT-1188.md), [LIT-1197](LIT-1197.md)).
 

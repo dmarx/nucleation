@@ -23,7 +23,7 @@ summary: >-
   incentive sensitization raise 'wanting', which can grow "even if the
   drug became less pleasant". Objective 'liking' reactions can occur
   "without any subjective pleasure feeling at all". Filed because it
-  bears directly on the record's reading of valence as ordering-ascendancy
+  bears directly on the record's reading of valence as ordering-potential
   ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).
 supports:
 - CLAIM-tmpe0iew
@@ -78,7 +78,7 @@ raising taste reactivity with it.
 ## Connections
 
 It bears directly on [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), which identifies hedonic valence
-with the ascendancy of an ordering; [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) is the objection filed
+with an ordering serving as the negotiation's potential; [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) is the objection filed
 from it. Dayan and Berridge on model-based and model-free Pavlovian
 learning ([LIT-584](../literature.d/LIT-584.md)) is the record's earlier reading from the same
 programme. For [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md), taste reactivity is a layer-2 marker

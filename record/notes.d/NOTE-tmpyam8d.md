@@ -147,7 +147,7 @@ and the first two carry the weight.
    and a numerical one. Part 2 of [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) holds that a negotiation
    need not yield an ordering (Sen's theorem), and that an ordering need
    not be a currency ([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)). In the terms of [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md),
-   Moors describes only the compensatory regime of ascendancy, and
+   Moors describes only the compensatory regime of potential, and
    describes it as the only one there is. The override cases she discusses
    (aggression costing retaliation and repairing self-esteem, the martyr's
    suffering, p. 18) she reads as a hidden outcome with higher value,
@@ -167,7 +167,7 @@ and the first two carry the weight.
    matter of degree, set by the stakes. Nothing in it marks out an
    ordering of the system's own states, so it says nothing about part 3,
    the proposal's own contribution. Her graded emotionality does fit
-   consequence 3 (intensity as the strength of ascendancy), since higher
+   consequence 3 (intensity as the strength of potential), since higher
    stakes give stronger control precedence.
 4. **She would read the proposal as goal-directed theory, not appraisal
    theory.** On her taxonomy an account on which concerns negotiate over
@@ -185,7 +185,7 @@ perspective's ranking may follow another's, valuing an outcome the
 observer did not model (pp. 18–19). Outcome revaluation and contingency
 degradation are her tests for which representation controls a response,
 and they are candidates for an interventional test of which ranking is
-ascendant. Devalue what ≿_v ranks high and see whether conduct follows.
+potential. Devalue what ≿_v ranks high and see whether conduct follows.
 
 **Candidly.** This is the strongest prior statement found so far of the
 competitive core of the proposal, stronger than Lewis's because it is

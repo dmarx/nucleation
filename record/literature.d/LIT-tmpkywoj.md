@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 ([NOTE-tmpogww2](../notes.d/NOTE-tmpogww2.md)): in full, from the publisher''s open-access PDF (Frontiers, CC licence). Worth reading as the component process model''s own statement that valence is several things. Five appraisal checks are each valenced (pleasantness, goal conduciveness, power, self-congruence, moral goodness), and these "micro-valences" are integrated, by weighted sums or by lexicographic and elimination rules, into a one-dimensional "macro-valence" that serves as the common currency for choice. It separates intrinsic pleasantness from goal conduciveness and grounds the split in Berridge. It bears directly on the objection that the record''s ascendancy account tracks ''wanting'', not ''liking'' ([CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)).'
+status_note: 'read 2026-10-23 ([NOTE-tmpogww2](../notes.d/NOTE-tmpogww2.md)): in full, from the publisher''s open-access PDF (Frontiers, CC licence). Worth reading as the component process model''s own statement that valence is several things. Five appraisal checks are each valenced (pleasantness, goal conduciveness, power, self-congruence, moral goodness), and these "micro-valences" are integrated, by weighted sums or by lexicographic and elimination rules, into a one-dimensional "macro-valence" that serves as the common currency for choice. It separates intrinsic pleasantness from goal conduciveness and grounds the split in Berridge. It bears directly on the objection that the record''s potential account tracks ''wanting'', not ''liking'' ([CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)).'
 title: 'Levels of valence'
 version: 1
 history:
@@ -86,12 +86,12 @@ Psychology* 4:261 — DOI-10.3389/fpsyg.2013.00261
 
 ## Standing in the record
 
-Filed on 2026-10-23 for the record's ascendancy account of valence
+Filed on 2026-10-23 for the record's potential account of valence
 ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) and the objection to it ([CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)).
 [NOTE-tmpogww2](../notes.d/NOTE-tmpogww2.md) sets out what it does to both. In short, it gives
 the record a principled taxonomy for conceding the objection in part, but
 not a rescue of "hedonic". It also uses "dominance" for the PAD axis
-(p. 4), which is one reason the record now says "ascendancy".
+(p. 4), which is one reason the record now says "potential".
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.

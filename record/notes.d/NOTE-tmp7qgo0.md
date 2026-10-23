@@ -125,11 +125,11 @@ theories. Dalege et al.'s attitude networks are the closest worked model.
 
 ## Bearing on the record
 
-**On ascendancy.** Lange et al. supply one of the three marks with a
+**On potential.** Lange et al. supply one of the three marks with a
 mechanism: persistence, as hysteresis in a strongly connected network
 (p. 460). The weakly emergent state that "force[s] each emotion component
 into a specific state" (p. 457) is Lewis's "enslave", made statistical.
-Neither is the record's ascendancy, for three reasons.
+Neither is the record's potential, for three reasons.
 
 1. **The nodes are not perspectives, and nothing in the network ranks
    anything.** A component (frowning, arousal, aggressive thoughts) has a
@@ -151,7 +151,7 @@ Neither is the record's ascendancy, for three reasons.
 record's. "the psychometric network model primarily provides information
 about relationships between variables (i.e., conditional dependencies)
 and not about to what extent variables are endorsed" (p. 460). A measure
-of ascendancy needs exactly what this omits: which ranking's verdicts
+of potential needs exactly what this omits: which ranking's verdicts
 were followed, episode by episode. The paper does point to a usable
 tool. A temporal personalized network (p. 461) over nodes that are
 perspectives' verdicts, not emotion components, would show whether one
@@ -167,7 +167,7 @@ network state, differing in connectivity and duration. If the proposal
 is right, a disorder of valence would be a fault in which ordering
 prevails, or in its reference course, and not only an over-connected
 network. The two readings make different predictions. A strongly
-connected depressive network with no stable ascendant ranking would be
+connected depressive network with no stable potential ranking would be
 ambivalent on the proposal, not negative.
 
 **On synchronization.** The network model is not a synchronization
@@ -176,7 +176,7 @@ cross-sectionally or at lags, not phase relations. It therefore
 complements Scherer's synchronization of components ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md)) and
 Lewis's phase synchrony ([LIT-tmpj284p](../literature.d/LIT-tmpj284p.md)) rather than measuring the same
 thing. All three remain, as [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) says of the first two,
-correlates that ascendancy would produce. They are not measures of which
+correlates that potential would produce. They are not measures of which
 ranking prevails.
 
 **Candidly.** This is a weaker rival to the proposal's novelty than

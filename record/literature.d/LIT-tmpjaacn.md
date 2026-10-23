@@ -86,7 +86,7 @@ Klaus R. Scherer & Agnes Moors (2019), *Annual Review of Psychology*
 
 ## Standing in the record
 
-Filed on 2026-10-23 for the record's ascendancy account ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md))
+Filed on 2026-10-23 for the record's potential account ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md))
 and its felt-valence candidate ([CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)). [NOTE-tmpmobow](../notes.d/NOTE-tmpmobow.md)
 asks whether the review already describes appraisal as a negotiation among
 perspectives. It does not, though it holds most of the ingredients. It is

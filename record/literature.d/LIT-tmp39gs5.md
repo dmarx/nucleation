@@ -95,7 +95,7 @@ DOI-10.1177/1745691619895057
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is an
-ordering's ascendancy in the negotiation among perspectives
+ordering's potential in the negotiation among perspectives
 ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)), and for the measurement question
 [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md). It is the emotion-domain counterpart of Borsboom's
 network theory of mental disorders ([LIT-547](LIT-547.md), [THEORY-058](../theory.d/THEORY-058.md)), which the
