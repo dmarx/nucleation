@@ -53,7 +53,6 @@ summary: >-
   of the construct.
 ---
 <!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; the record's accounts of corporate responsibility, named for the question this is filed for -->
-<!-- inactive-ok-file: LIT-tmp4ofbv — Unavailable, unread; Hare 1996, named as the earlier statement read through this one -->
 
 # LIT-tmp57loc: Psychopathy as a Clinical and Empirical Construct
 
