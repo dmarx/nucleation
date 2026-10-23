@@ -1,0 +1,65 @@
+---
+status: Unavailable
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not fetch it, so this failed on access, not availability. A full-text PDF is linked from the author''s ResearchGate profile (publication 280798957, under profile/Robert-Hare-2), apparently his own upload, but ResearchGate answered every request with HTTP 403, so neither the file nor its uploader could be confirmed. Unpaywall and OpenAlex report no open copy, the journal (SAGE) is closed, and the author''s own site, hare.org, lists the paper with a DOI link and no PDF. The construct it presents is read first-hand in Hare and Neumann''s 2008 review ([LIT-tmp57loc](LIT-tmp57loc.md)), which gives the PCL-R items, their four factors and their two-factor grouping. It stays Unavailable until a copy is supplied or ResearchGate can be reached, not on merit.'
+title: 'Psychopathy: A Clinical Construct Whose Time Has Come'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.1177/0093854896023001004: Criminal Justice and Behavior 23(1):25–54,
+    March 1996; Crossref's title field gives only "Psychopathy", the
+    subtitle being the paper's own). Crossref's online date is 1 March 1996,
+    which `published:` takes. Searched on 2026-10-23: Crossref, Unpaywall,
+    OpenAlex, Semantic Scholar (closed), the author's ResearchGate upload
+    (HTTP 403 to curl and to a fetch tool, at both researchgate.net and
+    www.researchgate.net), the author's publication list at
+    hare.org/references/hare.html (no PDF for this paper), and web searches.
+tags:
+- psychopathology-and-treatment
+- moral-psychology
+date: '2026-10-23'
+published: '1996-03-01'
+doi: '10.1177/0093854896023001004'
+first_author: 'Hare'
+keywords:
+- 'psychopathy'
+- 'Psychopathy Checklist-Revised'
+- 'PCL-R'
+- 'criminal justice'
+- 'risk assessment'
+- 'recidivism'
+implementations: []
+summary: >-
+  Hare (1996), Criminal Justice and Behavior 23(1):25–54. The
+  programmatic statement that psychopathy, once reliably measured by the
+  PCL-R, is a clinical construct of real use to the criminal justice
+  system, including for predicting recidivism and violence. Unread: the
+  author's ResearchGate copy refused this client. The construct is read in
+  Hare & Neumann (2008).
+---
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; the record's accounts of corporate responsibility, named for the question this is filed for -->
+
+# LIT-tmp4ofbv: Psychopathy: A Clinical Construct Whose Time Has Come
+
+Robert D. Hare (1996), *Criminal Justice and Behavior* 23(1):25–54 —
+DOI-10.1177/0093854896023001004
+
+## Key takeaways
+
+*Registered, not read.* By the abstract as search services report it: the
+arrival of a psychometrically sound measure of psychopathy, the PCL-R, has
+produced a sharp increase in replicable findings, and the construct is
+proving particularly useful in the criminal justice system, in sentencing,
+placement, and the assessment of the risk of recidivism and violence. The
+item set and factor structure of the PCL-R are read first-hand in Hare and
+Neumann's 2008 review ([LIT-tmp57loc](LIT-tmp57loc.md)).
+
+## Standing in the record
+
+Filed on 2026-10-23 at the owner's request, because Bakan's *The
+Corporation* (2004) applied Hare's checklist to the corporation, and the
+record needed the construct being borrowed. It sits beside the record's
+accounts of corporate agency and responsibility, [THEORY-131](../theory.d/THEORY-131.md) (French) and
+[THEORY-139](../theory.d/THEORY-139.md) (Pettit).

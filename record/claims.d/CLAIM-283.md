@@ -28,6 +28,7 @@ uses:
 - TERM-017
 complements:
 - CLAIM-027
+- CLAIM-tmpi98gg
 summary: >-
   A4 §2, reading Frijda through the record: "control precedence also
   suggests a useful addition to our parameterization", a priority p_i

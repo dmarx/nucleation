@@ -1,10 +1,20 @@
 ---
 number: 39
-status: Deferred
+status: Proposed
 formerly:
 - CLAIM-tmpbo7rd
 title: 'Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-23'
+  note: >-
+    Status Deferred → Proposed at the owner's word, 2026-10-23, answering
+    the reading of corporate psychopathy that conceded a corporation could
+    show only psychopathy's conduct: "one of the specific things our
+    framework equips us to do is to assign affect to corporation-like
+    things". The claim's notes had left reopening the line to the owner.
+    Used the same day as a premise of CLAIM-tmpi98gg.
 role: thesis
 warrant: interpretive
 defeated_if: >-
@@ -22,6 +32,8 @@ summary: >-
 grounds:
 - THEORY-055
 - THEORY-125
+supports:
+- CLAIM-tmpi98gg
 ---
 
 # CLAIM-039: Affective states can be properties of organized systems, characterized functionally as Frijda characterizes emotions, without implying subjective experience
@@ -69,3 +81,17 @@ The status stays Deferred. Whether the line leaves Deferred is the owner's
 decision, and it is not made here.
 
 <!-- inactive-ok-file: CLAIM-355 CLAIM-368 THEORY-628 — Proposed; filed or read from the exchange of 2026-10-17 and cited in the note of 2026-10-18 as open -->
+
+## Note of 2026-10-23: the line reopened
+
+The owner, answering a reading of corporate psychopathy that granted a
+corporation psychopathy's conduct but not its affect: "one of the
+specific things our framework equips us to do is to assign affect to
+corporation-like things." That is the decision the note of 2026-10-18
+left to the owner, so the claim is Proposed again. Its first use is
+[CLAIM-tmpi98gg](CLAIM-tmpi98gg.md), which assigns functional remorse, or its absence, to a
+corporation by asking whether harm to others is among the concerns its
+own appraisals track. The difficulty the note of 2026-10-12 named,
+[THEORY-101](../theory.d/THEORY-101.md)'s identification of valence with a felt state, is still the
+objection to answer first; [CLAIM-tmpi98gg](CLAIM-tmpi98gg.md) names it in its defeater.
+

@@ -1,0 +1,96 @@
+---
+status: Active
+status_note: 'read 2026-10-23 ([NOTE-tmpzfehu](../notes.d/NOTE-tmpzfehu.md)): in full, all 110 numbered pages and the front matter, from a copy of the bank''s own PDF. Worth reading as the board''s own account of where the harm in the Wells Fargo sales-practices episode came from. It locates the root cause in the Community Bank''s sales model, performance management and pressure, in a decentralized structure that deferred to the business line, and in control functions that saw cases one at a time. It names and sanctions individual leaders too. It is the company''s report on itself, commissioned by its independent directors.'
+title: 'Sales Practices Investigation Report'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full from the PDF mirrored by the UCLA Lowell Milken Institute
+    (113 PDF pages: cover, overview, contents and report pp. 1–110; PDF
+    metadata author "Wells Fargo", modified 2017-05-01). The bank's own
+    copy (www08.wellsfargomedia.com/.../2017/board-report.pdf) now returns
+    404; DocumentCloud's copy and the bank's press release page returned
+    Cloudflare or 403 blocks to this client, and the Wayback Machine could
+    not be reached. The report was also filed with the SEC on 2017-04-10
+    as additional proxy material (DEFA14A, accession
+    0001193125-17-118654), which this client could not fetch.
+    Page references are the report's own numbering.
+tags:
+- society-and-governance
+- social-ontology
+- ethics
+date: '2026-10-23'
+published: '2017-04-10'
+url: 'https://lowellmilkeninstitute.law.ucla.edu/wp-content/uploads/2018/01/WF-Board-Report.pdf'
+first_author: 'Independent Directors of the Board of Wells Fargo & Company'
+keywords:
+- 'sales practices'
+- 'root cause'
+- 'sales culture'
+- 'performance management'
+- 'decentralized corporate structure'
+- 'corporate control functions'
+- 'board oversight'
+- 'Community Bank'
+implementations: []
+summary: >-
+  Independent Directors of the Board of Wells Fargo & Company (2017), with
+  Shearman & Sterling. The root cause of the Community Bank's sales
+  practice failures was "the distortion of the Community Bank’s sales
+  culture and performance management system", combined with aggressive
+  sales management. A decentralized structure gave Community Bank leaders
+  autonomy, control functions deferred to them, and the board learned only
+  from the September 2016 settlements that about 5,300 employees had been
+  fired for sales practice violations.
+reports:
+- CASE-tmpuxgzy
+---
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; open, and cited as open: nothing here rests on its being settled -->
+
+# LIT-tmp24jzb: Sales Practices Investigation Report
+
+Independent Directors of the Board of Wells Fargo & Company (2017), *Sales
+Practices Investigation Report*, April 10, 2017. Prepared by a four-director
+Oversight Committee with independent counsel Shearman & Sterling LLP and FTI
+Consulting — [PDF](https://lowellmilkeninstitute.law.ucla.edu/wp-content/uploads/2018/01/WF-Board-Report.pdf)
+
+## Key takeaways
+
+- **The root cause is the sales model, not the employees.** "The root cause
+  of sales practice failures was the distortion of the Community Bank’s
+  sales culture and performance management system, which, when combined
+  with aggressive sales management, created pressure on employees to sell
+  unwanted or unneeded products to customers and, in some cases, to open
+  unauthorized accounts" (Overview). Employees who misbehaved "most
+  frequently associated their behavior with sales pressure, rather than
+  compensation incentives" (p. 7).
+- **Structure let it persist.** "Wells Fargo’s decentralized organizational
+  structure and the deference paid to the lines of business contributed to
+  the persistence of this environment" (p. 8). The Chief Risk Officer had
+  no "line authority or directive power to enforce changes on the lines of
+  business" (p. 60).
+- **The company blamed individuals.** "It was common to blame employees who
+  violated Wells Fargo’s rules without analyzing what caused or motivated
+  them to do so. Effect was confused with cause" (p. 6).
+- **Signals existed and stalled.** A 2004 Internal Investigations report
+  traced gaming to fear of job loss and recommended cutting sales goals;
+  "There is no evidence that the report and its recommendations were further
+  escalated" (p. 90). The board learned of about 5,300 terminations from the
+  regulators' settlements (p. 16).
+- **Individuals are named and sanctioned anyway.** Five senior Community Bank
+  executives were fired for cause, and more than $180 million in
+  forfeitures, clawbacks and pay cuts were imposed (Overview).
+
+## Standing in the record
+
+Filed on 2026-10-23 at the owner's request, beside the thesis that a
+corporation is a "psychopathic" entity (Bakan). The record reads that
+thesis more narrowly. On that reading a corporation can be an agent fit to
+be held responsible ([THEORY-131](../theory.d/THEORY-131.md), [THEORY-139](../theory.d/THEORY-139.md)), and its structure and
+incentives, not any member's character, fix what it pursues. Nothing in it
+registers the costs it imposes unless procedures, regulators or markets
+supply that. This report is the record's documented case of that reading,
+filed as a CASE ([CASE-tmpuxgzy](../cases.d/CASE-tmpuxgzy.md)). It is the company's account of itself,
+not an outside finding, and the reading says what follows from that.

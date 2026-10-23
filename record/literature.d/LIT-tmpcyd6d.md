@@ -1,0 +1,58 @@
+---
+status: Unavailable
+status_note: 'registered 2026-10-23 at the owner''s request, not read: the article is closed (OpenAlex: no open-access copy, no repository full text), and no author copy was found. Filed to keep apart two theses that share a name: that psychopaths in corporations cause harm (this paper) and that the corporation itself is psychopathic (Bakan, LIT on The Corporation). Its abstract is enough for that; it stays Unavailable until a copy is supplied.'
+title: 'The Corporate Psychopaths Theory of the Global Financial Crisis'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.1007/s10551-011-0810-4: Journal of Business Ethics 102(2):255–259,
+    online 2011-02-20). The summary is from the abstract on the
+    publisher's page. A chapter of the same title is in Boddy's book
+    Corporate Psychopaths (Palgrave, 2011, DOI 10.1057/9780230307551_14),
+    not registered. Not held in the Anthology of the SOTA.
+tags:
+- society-and-governance
+- psychopathology-and-treatment
+- ethics
+date: '2026-10-23'
+published: '2011-02-20'
+doi: '10.1007/s10551-011-0810-4'
+first_author: 'Boddy'
+keywords:
+- 'corporate psychopaths'
+- 'global financial crisis'
+- 'senior directors'
+implementations: []
+summary: >-
+  Boddy (2011), J. Bus. Ethics 102:255–259. A "very short theoretical
+  paper" arguing that "psychopaths working in corporations and in
+  financial corporations, in particular, have had a major part in causing"
+  the global financial crisis. Its psychopaths are individuals in
+  corporations, not the corporation. Unread: filed from the abstract.
+---
+
+# LIT-tmpcyd6d: The Corporate Psychopaths Theory of the Global Financial Crisis
+
+Clive R. Boddy (2011), *Journal of Business Ethics* 102(2):255–259 — DOI-10.1007/s10551-011-0810-4
+
+## Key takeaways
+
+*Registered, not read.* The abstract calls it "a very short theoretical
+paper" which "presents a theory of the Global Financial Crisis which
+argues that psychopaths working in corporations and in financial
+corporations, in particular, have had a major part in causing the
+crisis." It ends: "Further research into this theory is called for."
+
+## Standing in the record
+
+Filed on 2026-10-23 at the owner's request, with Bakan's *The
+Corporation*, to separate two theses the phrase "corporate psychopath"
+covers. Boddy's is about individuals: people with psychopathic traits who
+rise in corporations. Bakan's is about the corporation as such. The
+record's question on corporate psychopathy concerns the second. The
+first is a rival explanation of the same harms, and the record's claim on
+the question has to say why harm can come from a corporation with no
+such individual in it, which a documented case can test.
