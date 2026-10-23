@@ -95,17 +95,17 @@ different states of the mechanism (§Abstract; Figure 2).
 
 ## Connections
 
-Summarizes Cacioppo & Berntson 1994 (LIT-tmpglbdp)
+Summarizes Cacioppo & Berntson 1994 ([LIT-tmpglbdp](../literature.d/LIT-tmpglbdp.md))
 and Cacioppo, Gardner & Berntson 1997, 1999
-(LIT-tmpj2mcy), all unread. Argues against
+([LIT-tmpj2mcy](../literature.d/LIT-tmpj2mcy.md)), all unread. Argues against
 Russell and Carroll's bipolarity. That is also the shape of Barrett's
-core affect (LIT-1353). Cites Gray and Lang's two-system theories, which
+core affect ([LIT-1353](../literature.d/LIT-1353.md)). Cites Gray and Lang's two-system theories, which
 it calls reciprocal, Carver & Harmon-Jones on anger, and Kahneman and
 Tversky on loss aversion as a negativity bias.
 
 ## Bearing on the record
 
-The record's proposal (CLAIM-tmpz8lli, TERM-tmp8gbrt) makes hedonic
+The record's proposal ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) makes hedonic
 valence dominance by one ordering of a system's own states. It reads
 ambivalence as "either no ordering at all … or split dominance", and
 neutrality as "dominance with no movement". The ESM bears on this in
@@ -127,10 +127,10 @@ five ways.
   describe them as perspectives that win conflicts. The proposal's
   "split dominance" is therefore a reinterpretation of coactivation, not
   a restatement of it. It owes an argument that the two channels are
-  perspectives in CLAIM-347's sense.
+  perspectives in [CLAIM-347](../claims.d/CLAIM-347.md)'s sense.
 - **The same-output result is a warning for measurement.** If neutral
   and ambivalent states give the same net predisposition, a record of
-  which option is chosen cannot tell them apart. QUESTION-tmpsqwu5's
+  which option is chosen cannot tell them apart. [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)'s
   "conflict record" must record which *perspective's ranking* each
   decision followed, not only the decision. The ESM supplies marks that
   a choice record lacks. Ambivalence is "highly arousing". At high
@@ -146,12 +146,12 @@ five ways.
   intensity is dominance strength, the negativity bias says downward
   movement dominates more strongly than equal upward movement. That is
   compatible with the proposal, but must be added to it.
-- **Heterarchy bears on CLAIM-tmp83ge2's defeater.** The ESM says
+- **Heterarchy bears on [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s defeater.** The ESM says
   "different modes of activation" can "be dominant or prevail depending
   on the level of representation". Reflexes are reciprocally constrained
   and rigid, and "higher levels of the neuraxis have the ability to
-  override these dominant responses". CLAIM-tmp83ge2 reads Veit's
-  currency (THEORY-101) and ALARM's override (THEORY-090) as two regimes
+  override these dominant responses". [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) reads Veit's
+  currency ([THEORY-101](../theory.d/THEORY-101.md)) and ALARM's override ([THEORY-090](../theory.d/THEORY-090.md)) as two regimes
   of one ordering. It is defeated if "an override and a currency" are
   "shown to coexist in one animal as separate mechanisms". The ESM's
   heterarchy, with rigid low-level dispositions and flexible higher-level
@@ -159,7 +159,7 @@ five ways.
   a demonstration, since the ESM does not show that the low level is
   lexicographic or the high level compensatory. But it is the sort of
   architecture the defeater names, and the record should look at it
-  before promoting CLAIM-tmp83ge2.
+  before promoting [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md).
 
 ## Limitations
 

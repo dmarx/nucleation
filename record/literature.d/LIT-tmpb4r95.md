@@ -1,6 +1,6 @@
 ---
 status: Deferred
-status_note: 'registered 2026-10-23, not yet sought: named in the reading of Carver (2018) as the paper in which positive affect is said to lower a goal''s priority, which would conflict with the record''s reading of valence intensity as the strength of an ordering''s dominance (CLAIM-tmpz8lli). To be read before that clause is promoted.'
+status_note: 'registered 2026-10-23, not yet sought: named in the reading of Carver (2018) as the paper in which positive affect is said to lower a goal''s priority, which would conflict with the record''s reading of valence intensity as the strength of an ordering''s dominance ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)). To be read before that clause is promoted.'
 title: 'Pleasure as a sign you can attend to something else: Placing positive feelings within a general model of affect'
 version: 1
 history:
@@ -41,8 +41,8 @@ Charles S. Carver (2003), *Cognition and Emotion* 17(2):241–261 — DOI-10.108
 ## Standing in the record
 
 Registered on 2026-10-23, unread, with the readings of the control-process
-account of affect (LIT-tmp63om1, read through LIT-tmpdmzgc). The reading
-of Carver (2018), NOTE-tmpcc9vz, names it as where positive affect is
-said to lower a goal's priority. If so, it bears against CLAIM-tmpz8lli's
+account of affect ([LIT-tmp63om1](LIT-tmp63om1.md), read through [LIT-tmpdmzgc](LIT-tmpdmzgc.md)). The reading
+of Carver (2018), [NOTE-tmpcc9vz](../notes.d/NOTE-tmpcc9vz.md), names it as where positive affect is
+said to lower a goal's priority. If so, it bears against [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s
 reading of intensity as the strength of an ordering's dominance, at least
 for positive valence, and should be read before that clause is promoted.

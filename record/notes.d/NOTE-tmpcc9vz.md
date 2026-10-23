@@ -89,15 +89,15 @@ Argument, not results:
 ## Connections
 
 Responds to DeYoung & Krueger (2018), not in the record. Restates Carver
-& Scheier 1990 (LIT-tmp63om1, Unavailable) and draws on
-Powers (LIT-1179, Unavailable; his feedback papers LIT-1188 and LIT-1197
+& Scheier 1990 ([LIT-tmp63om1](../literature.d/LIT-tmp63om1.md), Unavailable) and draws on
+Powers ([LIT-1179](../literature.d/LIT-1179.md), Unavailable; his feedback papers [LIT-1188](../literature.d/LIT-1188.md) and [LIT-1197](../literature.d/LIT-1197.md)
 are read). Cites Carver 2003, "Pleasure as a sign you can attend to
 something else", for priority management. That paper is not in the
 record.
 
 ## Bearing on the record
 
-The record's proposal (CLAIM-tmpz8lli, TERM-tmp8gbrt) makes hedonic
+The record's proposal ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) makes hedonic
 valence a regime in which one ordering of a system's own states, by their
 bearing on its maintenance, dominates the negotiation among its
 perspectives. Its sign is the direction of movement along that ordering,
@@ -139,11 +139,11 @@ bears on it in four ways.
   positive goal loses precedence, while on the proposal's, intense
   positive valence is strong dominance. The record has not read Carver
   2003. This should be checked before the intensity clause is promoted,
-  since THEORY-055's evidence that control precedence tracks intensity is
+  since [THEORY-055](../theory.d/THEORY-055.md)'s evidence that control precedence tracks intensity is
   also not read here.
 
 Carver's text does not touch ambivalence, the lexicographic/compensatory
-distinction (CLAIM-tmp83ge2), or felt valence (THEORY-101).
+distinction ([CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)), or felt valence ([THEORY-101](../theory.d/THEORY-101.md)).
 
 ## Limitations
 
