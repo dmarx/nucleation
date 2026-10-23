@@ -98,3 +98,26 @@ own records show features kept for engagement despite internal signs of
 harm would test the coupling; candidates exist, but none is read, and
 their standing (leak, complaint) would need settling first.
 
+## Note of 2026-10-23: the proxy as a protective lock-in
+
+From the comparison of the record's will and affect lines, at the owner's
+direction. The question is the will line's distinction between stability
+and viability ([CLAIM-079](../claims.d/CLAIM-079.md)) moved into the affect line, and the will line
+already has a term for a regime that stays stable while viability erodes:
+protective lock-in ([TERM-020](../terms.d/TERM-020.md)). Incentive sensitization ([THEORY-895](../theory.d/THEORY-895.md)) fits
+its five steps closely. A drug or a cue-keyed reward activates a pursuit
+regime; the regime reorganizes ordinary activity; the reorganization
+suppresses what would restore the rest, as 'liking' falls and other
+concerns lose their contests; cue-triggered 'wanting' sustains the
+activation; and the capacity to leave it falls. [QUESTION-045](QUESTION-045.md) asks the
+same of mental disorder at the individual scale, and [TERM-020](../terms.d/TERM-020.md)'s dynamical
+form, a bistable activation with hysteresis, is [CASE-112](../cases.d/CASE-112.md)'s.
+
+So a candidate answer: a proxy-keyed persistent potential is valence on
+the account, of the pursuit perspective, and it is a protective lock-in
+when its continued prevalence reduces the capacity to revise it. Metric
+fixation in a firm would be the organizational case. The fit is by
+analogy; it does not yet show that the maintaining link, and not the
+proxy's content, is what keeps either in place, which is [QUESTION-045](QUESTION-045.md)'s
+test.
+
