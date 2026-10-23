@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpt8ltj): in full, from the copy the authors'' laboratory (the Geneva E3 Lab) posts on its publications page. Worth reading as the component process model''s fullest account of when emotion becomes conscious. Appraisal runs in parallel at several levels and stops when a lower level reaches a conclusive result. Consciousness is recruited when it does not: when component synchronization reaches a critical level and duration that cannot be regulated automatically, so that higher-level regulation, which needs explicit representations, must take over. The feeling is a central representation built by neuronal synchronization, local and distant. Its measures are EEG gamma and beta activity in felt versus unfelt episodes, and phase coherence between brain regions. It partly rivals and partly supports the record''s self-model condition for felt valence (CLAIM-tmptd5us).'
+status_note: 'read 2026-10-23 ([NOTE-tmpt8ltj](../notes.d/NOTE-tmpt8ltj.md)): in full, from the copy the authors'' laboratory (the Geneva E3 Lab) posts on its publications page. Worth reading as the component process model''s fullest account of when emotion becomes conscious. Appraisal runs in parallel at several levels and stops when a lower level reaches a conclusive result. Consciousness is recruited when it does not: when component synchronization reaches a critical level and duration that cannot be regulated automatically, so that higher-level regulation, which needs explicit representations, must take over. The feeling is a central representation built by neuronal synchronization, local and distant. Its measures are EEG gamma and beta activity in felt versus unfelt episodes, and phase coherence between brain regions. It partly rivals and partly supports the record''s self-model condition for felt valence ([CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)).'
 title: 'Conscious emotional experience emerges as a function of multilevel, appraisal-driven response synchronization'
 version: 1
 history:
@@ -92,7 +92,7 @@ and Cognition* 17(2):484–495 — DOI-10.1016/j.concog.2008.03.019
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's candidate condition for felt valence
-(CLAIM-tmptd5us). NOTE-tmpt8ltj sets out where Grandjean et
+([CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)). [NOTE-tmpt8ltj](../notes.d/NOTE-tmpt8ltj.md) sets out where Grandjean et
 al.'s account rivals it and where it agrees. In short: it agrees that
 feeling is a representation used by further regulation; it differs on
 what triggers the representation (the regime's own cost) and on what is

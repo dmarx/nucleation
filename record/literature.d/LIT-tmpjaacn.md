@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpmobow): in full, from the PDF Annual Reviews serves to guest readers. Worth reading as the latest review of the component process model''s evidence, organised by appraisal criterion rather than by emotion category. Its paths run from appraisal to action tendencies, to physiological responses and to expression. It separates intrinsic valence from goal congruence and reports the few studies that pull them apart: they have partly different physiological signatures and combine multiplicatively. It ends with a two-threshold proposal: coherence among components above one threshold starts an episode, and above a second it becomes aware. It does not describe appraisal as a negotiation among perspectives.'
+status_note: 'read 2026-10-23 ([NOTE-tmpmobow](../notes.d/NOTE-tmpmobow.md)): in full, from the PDF Annual Reviews serves to guest readers. Worth reading as the latest review of the component process model''s evidence, organised by appraisal criterion rather than by emotion category. Its paths run from appraisal to action tendencies, to physiological responses and to expression. It separates intrinsic valence from goal congruence and reports the few studies that pull them apart: they have partly different physiological signatures and combine multiplicatively. It ends with a two-threshold proposal: coherence among components above one threshold starts an episode, and above a second it becomes aware. It does not describe appraisal as a negotiation among perspectives.'
 title: 'The Emotion Process: Event Appraisal and Component Differentiation'
 version: 1
 history:
@@ -84,8 +84,8 @@ Klaus R. Scherer & Agnes Moors (2019), *Annual Review of Psychology*
 
 ## Standing in the record
 
-Filed on 2026-10-23 for the record's ascendancy account (CLAIM-tmpz8lli)
-and its felt-valence candidate (CLAIM-tmptd5us). NOTE-tmpmobow
+Filed on 2026-10-23 for the record's ascendancy account ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md))
+and its felt-valence candidate ([CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)). [NOTE-tmpmobow](../notes.d/NOTE-tmpmobow.md)
 asks whether the review already describes appraisal as a negotiation among
 perspectives. It does not, though it holds most of the ingredients. It is
 also the best source the record has for physiological markers that tell

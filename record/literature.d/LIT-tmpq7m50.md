@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. OpenAlex lists no open copy. The SAGE article page and PDF refused this client behind a bot check, and the journal is subscription-only. The University of Geneva''s Archive ouverte holds two other papers from the same issue with public access (the issue''s introduction by Moors, Ellsworth, Scherer and Frijda, and Scherer and Ellsworth''s reply), but no record of this one was found, and the Geneva E3 Lab''s publications page does not post it. A web search found no author or course posting. Its subject, the varieties of valence appraisal, is read first-hand in Shuman, Sander and Scherer''s "Levels of valence" (LIT-tmpkywoj), published two months later. Filed because the record''s ascendancy account needs the component process model''s distinction between kinds of valence. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. OpenAlex lists no open copy. The SAGE article page and PDF refused this client behind a bot check, and the journal is subscription-only. The University of Geneva''s Archive ouverte holds two other papers from the same issue with public access (the issue''s introduction by Moors, Ellsworth, Scherer and Frijda, and Scherer and Ellsworth''s reply), but no record of this one was found, and the Geneva E3 Lab''s publications page does not post it. A web search found no author or course posting. Its subject, the varieties of valence appraisal, is read first-hand in Shuman, Sander and Scherer''s "Levels of valence" ([LIT-tmpkywoj](LIT-tmpkywoj.md)), published two months later. Filed because the record''s ascendancy account needs the component process model''s distinction between kinds of valence. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'The Nature and Dynamics of Relevance and Valence Appraisals: Theoretical Advances and Recent Evidence'
 version: 1
 history:
@@ -33,7 +33,7 @@ summary: >-
   valence appraisal, and the sequential-cumulative effects of appraisal
   results, with an update on research into the sequence of appraisal and
   emphasis on its nonverbal signatures. Unread: the varieties of valence
-  are read in Shuman, Sander and Scherer 2013 (LIT-tmpkywoj).
+  are read in Shuman, Sander and Scherer 2013 ([LIT-tmpkywoj](LIT-tmpkywoj.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-tmpe0iew — Proposed; the account and the objection this paper's taxonomy of valence would bear on -->
 
@@ -54,17 +54,17 @@ DOI-10.1177/1754073912468166
   appraisal processes."
 
 The varieties of valence are read in Shuman, Sander and Scherer
-(LIT-tmpkywoj, NOTE-tmpogww2): intrinsic pleasantness,
+([LIT-tmpkywoj](LIT-tmpkywoj.md), [NOTE-tmpogww2](../notes.d/NOTE-tmpogww2.md)): intrinsic pleasantness,
 goal conduciveness, power, self-congruence and moral goodness, each a
 separate valenced check. The sequence evidence, intrinsic pleasantness
 before goal conduciveness, is read in Grandjean, Sander and Scherer
-(NOTE-tmpt8ltj) and Scherer and Moors
-(NOTE-tmpmobow).
+([NOTE-tmpt8ltj](../notes.d/NOTE-tmpt8ltj.md)) and Scherer and Moors
+([NOTE-tmpmobow](../notes.d/NOTE-tmpmobow.md)).
 
 ## Standing in the record
 
 Filed on 2026-10-23 for the objection that the record's ascendancy account
-tracks 'wanting', not 'liking' (CLAIM-tmpe0iew, against CLAIM-tmpz8lli).
+tracks 'wanting', not 'liking' ([CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md), against [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).
 What this paper would add over its readings elsewhere is Scherer's own
 statement of why intrinsic pleasantness is a relevance check and goal
 conduciveness an implications check. If the record answers the objection

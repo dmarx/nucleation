@@ -36,12 +36,12 @@ answers:
 - QUESTION-059
 summary: >-
   Filed at the owner's direction, 2026-10-23, as a candidate for when the
-  functional regime of CLAIM-tmpz8lli is felt. It extends Brouillet and
-  Friston's distinction (THEORY-662), unfelt fluency as a change in
+  functional regime of [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) is felt. It extends Brouillet and
+  Friston's distinction ([THEORY-662](../theory.d/THEORY-662.md)), unfelt fluency as a change in
   precision and felt fluency as a deeper inference about it, from fluency
   to valence, and Hesp et al.'s affective precision, a belief about how
-  reliable one's own policies are. It is a candidate for CLAIM-411's open
-  sufficiency condition, for affect only, and it adopts THEORY-662's sense
+  reliable one's own policies are. It is a candidate for [CLAIM-411](CLAIM-411.md)'s open
+  sufficiency condition, for affect only, and it adopts [THEORY-662](../theory.d/THEORY-662.md)'s sense
   of "felt": attended and available, not a further phenomenal fact.
 ---
 <!-- inactive-ok-file: CLAIM-tmp5lpdu — Proposed; the reply filed with this batch, cited as open -->
@@ -52,7 +52,7 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpz8lli makes valence a functional regime: an ordering of the
+[CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) makes valence a functional regime: an ordering of the
 system's own states, by their bearing on its maintenance, prevails in the
 negotiation among its perspectives. It says nothing about when that
 regime is felt. This claim proposes the condition.
@@ -64,11 +64,11 @@ reference course, and how strongly it prevails. The inference is used
 elsewhere in the system, to guide attention, report, or further
 regulation.
 
-**Where it comes from.** Brouillet and Friston (THEORY-662) separate
+**Where it comes from.** Brouillet and Friston ([THEORY-662](../theory.d/THEORY-662.md)) separate
 unfelt fluency from felt fluency. In the record's reading of them
-(NOTE-785), unfelt fluency is "the subpersonal recognition of a change in
+([NOTE-785](../notes.d/NOTE-785.md)), unfelt fluency is "the subpersonal recognition of a change in
 precision, which orients attention", and felt fluency is "a hierarchically
-deeper inference about it". Hesp and colleagues (LIT-tmpvgq87, NOTE-tmpsj4fq) put valence in a
+deeper inference about it". Hesp and colleagues ([LIT-tmpvgq87](../literature.d/LIT-tmpvgq87.md), [NOTE-tmpsj4fq](../notes.d/NOTE-tmpsj4fq.md)) put valence in a
 deeper inference: "agents infer their valence state based on the
 expected precision of their action model—an internal estimate of overall
 model fitness ("subjective fitness")" (p. 399). The precision γ weights
@@ -83,28 +83,28 @@ necessary condition for self-reportable experience of valence" (p. 429).
 gives feeling "a special status … as it monitors and regulates the
 component process", and requires it to "centrally represent all
 information about the continuous patterns of change and their coherence
-in all other components" (LIT-tmpfjacn, NOTE-tmpsx1uk, §3e). That is a
+in all other components" ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md), [NOTE-tmpsx1uk](../notes.d/NOTE-tmpsx1uk.md), §3e). That is a
 model of the system's own regime, as this claim requires, though of the
 components' coherence rather than of which ordering wins. Scherer makes a
 second, separate claim, that "it is the degree of synchronization of the
 components … that will generate conscious experience", which is nearer
 Veit's identity than to a self-model view, and he places the monitoring
 representation only partly inside consciousness. So the model alone may
-not suffice for feeling, which is the gap QUESTION-059 marks. He also
+not suffice for feeling, which is the gap [QUESTION-059](../questions.d/QUESTION-059.md) marks. He also
 concedes that "all we can currently measure is the individual's verbal
-account", the limit QUESTION-tmp0oife is meant to get past.
+account", the limit [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md) is meant to get past.
 
-**What it would answer.** CLAIM-411 asks which further organizational
+**What it would answer.** [CLAIM-411](CLAIM-411.md) asks which further organizational
 properties make an interpretation experiential, under the owner's
-constitutive thesis (CLAIM-412). For affect, this is a candidate: the
-system's model of its own ascendancy. It answers QUESTION-059, whether a
+constitutive thesis ([CLAIM-412](CLAIM-412.md)). For affect, this is a candidate: the
+system's model of its own ascendancy. It answers [QUESTION-059](../questions.d/QUESTION-059.md), whether a
 state meeting a functional characterization of affect must be felt, in
 part: no; it is felt when it is also modelled, and an organization may or
 may not have such a model.
 
 **For an organization.** The model is the organization's reporting, to
 those who govern it, of what wins its conflicts. On this reading Wells
-Fargo's board (CASE-151), told that sales-integrity terminations were "in
+Fargo's board ([CASE-151](../cases.d/CASE-151.md)), told that sales-integrity terminations were "in
 the range of 200-300", had a model of the bank's ascendancy that
 misrepresented it. If the claim holds, that is mis-felt valence, not
 unfelt valence. Whether the misrepresentation was motivated is the
@@ -112,18 +112,18 @@ report's open question, not this claim's.
 
 ## Its relation to illusionism
 
-The claim fits Graziano's account (THEORY-873), on which reports of
+The claim fits Graziano's account ([THEORY-873](../theory.d/THEORY-873.md)), on which reports of
 consciousness come from a schematic model of attention. Here the model is
 of ascendancy, not attention, and it may be schematic in the same way. The
 claim does not say whether such a model explains feeling or explains it
-away. It adopts THEORY-662's sense of "felt", attended and available, and
-QUESTION-048's distinction between access and experience stands: if
+away. It adopts [THEORY-662](../theory.d/THEORY-662.md)'s sense of "felt", attended and available, and
+[QUESTION-048](../questions.d/QUESTION-048.md)'s distinction between access and experience stands: if
 "felt" is given a phenomenal sense beyond access, the claim's third
 defeater applies.
 
 ## Its rival in the component process model
 
-Grandjean, Sander and Scherer (LIT-tmpgh72l, NOTE-tmpt8ltj) hold that
+Grandjean, Sander and Scherer ([LIT-tmpgh72l](../literature.d/LIT-tmpgh72l.md), [NOTE-tmpt8ltj](../notes.d/NOTE-tmpt8ltj.md)) hold that
 "consciousness of emotional reactions emerges when lower levels of
 processing are not sufficient to cope with the event and regulate the
 emotional process, particularly when the degree of synchronization
@@ -132,7 +132,7 @@ and that then "higher level regulation strategies, such as reappraisal,
 must kick in. These strategies require high-level representational
 operations and are therefore usually conscious" (p. 492). Scherer and
 Moors restate it: awareness follows "after a second threshold of
-coherence has been reached" (LIT-tmpjaacn, p. 737).
+coherence has been reached" ([LIT-tmpjaacn](../literature.d/LIT-tmpjaacn.md), p. 737).
 
 - **Where they agree.** Feeling is a representation that higher
   regulation uses, which is this claim's condition in other words.
@@ -151,17 +151,17 @@ coherence has been reached" (LIT-tmpjaacn, p. 737).
 ## Felt what?
 
 Berridge notes that 'wanting' can be appraised as pleasure by the person
-who has it (NOTE-tmprub8s), and Hesp et al. concede that their precision
+who has it ([NOTE-tmprub8s](../notes.d/NOTE-tmprub8s.md)), and Hesp et al. concede that their precision
 signal sits nearer 'wanting' than pleasure (p. 430). If the ascendancy this
-claim's model is of is motivational, as CLAIM-tmpe0iew argues, the claim
+claim's model is of is motivational, as [CLAIM-tmpe0iew](CLAIM-tmpe0iew.md) argues, the claim
 is a theory of felt motivation. Whether it is also one of felt pleasure
-depends on where 'liking' is in the account, which CLAIM-tmpe0iew leaves
+depends on where 'liking' is in the account, which [CLAIM-tmpe0iew](CLAIM-tmpe0iew.md) leaves
 open.
 
 ## What it does not say
 
 - That any particular system feels. The claim is a condition, and its
-  test is QUESTION-tmp0oife.
+  test is [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md).
 - That the model must be accurate. A model that misrepresents ascendancy
   gives felt valence that misrepresents the system's state, which is what
   the claim predicts of denial and of mis-reported organizations.

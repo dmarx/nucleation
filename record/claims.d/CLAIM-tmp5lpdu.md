@@ -29,7 +29,7 @@ grounds:
 - THEORY-tmp0bbxk
 summary: >-
   The reply the owner asked for, 2026-10-23, to the objection that
-  ascendancy tracks 'wanting', not 'liking' (CLAIM-tmpe0iew). Shuman,
+  ascendancy tracks 'wanting', not 'liking' ([CLAIM-tmpe0iew](CLAIM-tmpe0iew.md)). Shuman,
   Sander and Scherer's "levels of valence" separate intrinsic
   pleasantness from goal conduciveness, on Berridge's evidence; Scherer
   and Moors report that the two have different physiological signatures
@@ -45,13 +45,13 @@ summary: >-
 
 ## The claim
 
-CLAIM-tmpe0iew showed that the ascendancy CLAIM-tmpz8lli defines tracks
-'wanting', not 'liking' (THEORY-tmp0bbxk). The component process model
+[CLAIM-tmpe0iew](CLAIM-tmpe0iew.md) showed that the ascendancy [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) defines tracks
+'wanting', not 'liking' ([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md)). The component process model
 already separates the two, and the separation places the record's account
 on one side of it.
 
-**Levels of valence.** Shuman, Sander and Scherer (LIT-tmpkywoj,
-NOTE-tmpogww2): "Although intrinsic pleasantness may be rooted in
+**Levels of valence.** Shuman, Sander and Scherer ([LIT-tmpkywoj](../literature.d/LIT-tmpkywoj.md),
+[NOTE-tmpogww2](../notes.d/NOTE-tmpogww2.md)): "Although intrinsic pleasantness may be rooted in
 ultimate evolutionary benefits, it can be differentiated from proximal
 goal conduciveness" (p. 2). "The degree of goal conduciveness is directly
 determined by the degree of need satisfaction or goal attainment. In
@@ -59,13 +59,13 @@ contrast, needs may set thresholds for pleasantness, but cannot predict
 pleasantness beyond those thresholds" (p. 2). They rest the separation
 on Berridge: "pleasure is independent of goal conduciveness. The sensual
 enjoyment of an object and the goal striving toward an object rely on
-different brain mechanisms" (p. 2). Scherer and Moors (LIT-tmpjaacn,
-NOTE-tmpmobow) report the dissociation in the body: "Intrinsic valence
+different brain mechanisms" (p. 2). Scherer and Moors ([LIT-tmpjaacn](../literature.d/LIT-tmpjaacn.md),
+[NOTE-tmpmobow](../notes.d/NOTE-tmpmobow.md)) report the dissociation in the body: "Intrinsic valence
 had more robust effects on facial EMG ..., whereas only goal congruence
 significantly influenced mean skin conductance, forehead temperature, and
 finger temperature" (p. 730).
 
-**Where the account falls.** CLAIM-tmpz8lli's ordering ranks the system's
+**Where the account falls.** [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md)'s ordering ranks the system's
 own states by their bearing on its maintenance, and its sign is progress
 against a reference course. That is goal conduciveness, need satisfaction
 and goal attainment, not intrinsic pleasantness. So:
@@ -83,9 +83,9 @@ conduciveness positive (the goal is attained), ascendancy strong
 clause, read as hedonic, does not break it read as goal conduciveness.
 
 **What is conceded.** The account is not an account of pleasure.
-"Hedonic" in CLAIM-tmpz8lli and TERM-tmp8gbrt would read
+"Hedonic" in [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md) and [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) would read
 "goal-conduciveness" or "motivational". That revision, and with it the
-standing of CLAIM-tmpe0iew (a conceded objection goes Active), is the
+standing of [CLAIM-tmpe0iew](CLAIM-tmpe0iew.md) (a conceded objection goes Active), is the
 owner's to make.
 
 ## What it does not say
@@ -104,4 +104,4 @@ owner's to make.
 - **That the integration of the levels is settled.** Shuman et al. give
   both weighted sums and rules with "no trade-offs between
   micro-valences" (p. 8), which are the compensatory and lexicographic
-  regimes of CLAIM-tmp85p0g, reached independently.
+  regimes of [CLAIM-tmp85p0g](CLAIM-tmp85p0g.md), reached independently.

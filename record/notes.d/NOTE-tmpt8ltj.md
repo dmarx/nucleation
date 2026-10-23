@@ -113,8 +113,8 @@ A hypothesis with supporting evidence:
 ## Connections
 
 States more fully the consciousness hypothesis that Scherer's 2009 paper
-gives in one sentence (LIT-tmpfjacn, NOTE-tmpsx1uk), and that Scherer and
-Moors (NOTE-tmpmobow) recast as a second threshold of
+gives in one sentence ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md), [NOTE-tmpsx1uk](NOTE-tmpsx1uk.md)), and that Scherer and
+Moors ([NOTE-tmpmobow](NOTE-tmpmobow.md)) recast as a second threshold of
 coherence. Cites Thagard and Aubie's neural model of emotional
 consciousness as consistent. The EEG sequence study it relies on,
 Grandjean and Scherer's "Unpacking the cognitive architecture of emotion
@@ -123,7 +123,7 @@ UNIGE lists it as unige:97784.
 
 ## Bearing on the record
 
-**Does the synchronization account rival CLAIM-tmptd5us's self-model
+**Does the synchronization account rival [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)'s self-model
 condition?** Partly. The two agree more than the title suggests, and they
 disagree on two points that an experiment could separate.
 
@@ -134,7 +134,7 @@ Where they agree:
   cannot "regulate the emotional process". The mechanism is that
   "higher level regulation strategies, such as reappraisal, must kick in.
   These strategies require high-level representational operations and are
-  therefore usually conscious" (p. 492). That is CLAIM-tmptd5us's
+  therefore usually conscious" (p. 492). That is [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)'s
   condition in a different vocabulary: a deeper process represents the
   regime, and the representation is used elsewhere in the system (here,
   by reappraisal). The feeling is also, as in the 2009 paper, a monitoring
@@ -142,11 +142,11 @@ Where they agree:
   components, as well as their coherence" (p. 486).
 - **The model is not sufficient.** Circle B overlaps circle A only
   partly (p. 486). A representation of the regime can exist and not be
-  conscious. CLAIM-tmptd5us adopts THEORY-662's sense of "felt", attended
+  conscious. [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) adopts [THEORY-662](../theory.d/THEORY-662.md)'s sense of "felt", attended
   and available; Grandjean et al.'s circle B is meant as qualia. On their
   account the model may be available to regulation and still not be
-  phenomenally conscious. That is QUESTION-059's gap again, and
-  CLAIM-tmptd5us's third defeater.
+  phenomenally conscious. That is [QUESTION-059](../questions.d/QUESTION-059.md)'s gap again, and
+  [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)'s third defeater.
 
 Where they differ:
 
@@ -154,10 +154,10 @@ Where they differ:
   property of the regime itself: the degree and duration of
   synchronization, "a critical level and duration" (p. 484). Lasting
   high synchrony costs too much to be left to automatic regulation. On
-  CLAIM-tmptd5us, what matters is only whether a model exists and is used,
+  [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md), what matters is only whether a model exists and is used,
   and nothing says when one is recruited. So Grandjean et al. predict that
   weak or brief regimes are unfelt even when a system could model them,
-  and CLAIM-tmptd5us does not. Read with TERM-tmp8gbrt, their account says
+  and [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) does not. Read with [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md), their account says
   that strong and persistent ascendancy is felt, which makes intensity
   and persistence, two of the term's own clauses, conditions of feeling.
   That is a substantive addition the record could take, as a hypothesis
@@ -165,40 +165,40 @@ Where they differ:
 - **The content.** What is represented is the components' changes and
   their coherence, not which ordering wins or which way the system moves
   along it. Coherence is unsigned. A model of coherence alone could not
-  carry the sign that CLAIM-tmptd5us's model must carry. Grandjean et al.
+  carry the sign that [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)'s model must carry. Grandjean et al.
   get the sign from the appraisal profile, which is part of what the
   feeling integrates. So their model is richer than the record's in what
   it represents (everything) and poorer in structure (no winner).
 - **The mechanism.** They tie consciousness to neural binding by phase
-  synchrony. CLAIM-tmptd5us is neutral on mechanism and holds for
+  synchrony. [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) is neutral on mechanism and holds for
   organizations. Their second mechanism cannot transfer to an
   organization, and the record should not import it.
 
 So an experiment could separate them: an episode with strong, lasting
 component synchronization that a subject's further regulation does not use
 (no reappraisal, no report-guided control). Grandjean et al. predict it
-is felt; CLAIM-tmptd5us predicts it is not. The paper's own data do not
+is felt; [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) predicts it is not. The paper's own data do not
 tell. Dan Glauser and Scherer's felt–unfelt contrast is split by report,
 which is the third circle, not the second.
 
-**The sequence evidence bears on CLAIM-tmpe0iew too.** Intrinsic
+**The sequence evidence bears on [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) too.** Intrinsic
 pleasantness is early and "unconscious, automatic, and possibly
 schematic"; goal conduciveness is later and "conscious, controlled, and
 possibly propositional" (p. 491). That fits Berridge's picture, in
 which 'liking' reactions can occur without felt pleasure, and it fits the
-reading in NOTE-tmpogww2 on which the record's ascendancy account
-covers goal-conduciveness valence. But it cuts against CLAIM-tmptd5us's
+reading in [NOTE-tmpogww2](NOTE-tmpogww2.md) on which the record's ascendancy account
+covers goal-conduciveness valence. But it cuts against [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md)'s
 felt-pleasure question in one way. If pleasantness is resolved early at a
 low level, then on Grandjean et al.'s logic it is the valence least likely
 to recruit a conscious model. Felt pleasure would then need either the
 later checks or the strength of the episode to bring it in.
 
-**Measures, for QUESTION-tmp0oife and QUESTION-tmpsqwu5.** Two are
+**Measures, for [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md) and [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md).** Two are
 proposed: EEG band activity contrasted between felt and unfelt episodes,
 and phase coherence between regions as an index of communication. Both
 measure neural synchrony, not component coherence or which ordering
 prevails. Both are for organisms. Neither is a record of conduct of the
-kind QUESTION-tmpsqwu5 asks for.
+kind [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) asks for.
 
 ## Limitations
 

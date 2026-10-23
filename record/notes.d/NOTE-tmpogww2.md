@@ -108,22 +108,22 @@ A framework, not results:
 
 ## Connections
 
-Takes its checks from the component process model (LIT-tmpfjacn,
-NOTE-tmpsx1uk) and its sequence evidence from Grandjean and Scherer (2008)
+Takes its checks from the component process model ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md),
+[NOTE-tmpsx1uk](NOTE-tmpsx1uk.md)) and its sequence evidence from Grandjean and Scherer (2008)
 and Aue et al. (2007). Sets itself beside the evaluative space model
-(LIT-tmp4b7d6, NOTE-tmpb0ouu), which integrates positive and negative
+([LIT-tmp4b7d6](../literature.d/LIT-tmp4b7d6.md), [NOTE-tmpb0ouu](NOTE-tmpb0ouu.md)), which integrates positive and negative
 evaluations, where this paper distinguishes qualitatively different ones
 (p. 13). Cites Berridge (2003) and Berridge and Kringelbach (2008), whose
-account the record holds as THEORY-tmp0bbxk (read in NOTE-tmprub8s), and
+account the record holds as [THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md) (read in [NOTE-tmprub8s](NOTE-tmprub8s.md)), and
 Rangel et al. (2008) on Pavlovian, habitual and goal-directed valuation.
 The varieties of valence are argued in Scherer's 2013 Emotion Review paper
-(LIT-tmpq7m50), which this paper does not cite, citing Scherer
+([LIT-tmpq7m50](../literature.d/LIT-tmpq7m50.md)), which this paper does not cite, citing Scherer
 (2010) instead. Its "arousal, dominance, and novelty" (p. 4) is a gloss on
-Fontaine et al. (LIT-tmp3deyb).
+Fontaine et al. ([LIT-tmp3deyb](../literature.d/LIT-tmp3deyb.md)).
 
 ## Bearing on the record
 
-**Does "levels of valence" give a principled reply to CLAIM-tmpe0iew?**
+**Does "levels of valence" give a principled reply to [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)?**
 In part. It gives the record a principled way to concede the objection
 where it is right. It does not give a way to keep "hedonic" for the regime
 the record defines.
@@ -132,7 +132,7 @@ What it gives:
 
 - **The split is the CPM's own, and grounded in Berridge.** Shuman et al.
   separate intrinsic pleasantness from goal conduciveness on the same
-  evidence CLAIM-tmpe0iew uses. "The sensual enjoyment of an object and the
+  evidence [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) uses. "The sensual enjoyment of an object and the
   goal striving toward an object rely on different brain mechanisms
   (e.g., Berridge, 2003)" (p. 2). Their own example is a wanting–liking
   dissociation: people "strive harder to acquire consumer goods they like
@@ -141,20 +141,20 @@ What it gives:
   covers goal-conduciveness valence, and intrinsic pleasantness is a
   separate check with its own ordering" is not ad hoc. It is the
   taxonomy of the theory the record already draws on.
-- **The record's ordering matches goal conduciveness.** TERM-tmp8gbrt's
+- **The record's ordering matches goal conduciveness.** [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
   ordering ranks the system's states "by their bearing on its
   maintenance", and its sign is progress against a reference course. Goal
   conduciveness is "directly determined by the degree of need
   satisfaction or goal attainment" (p. 2). Pleasantness is not: needs
   only "set thresholds" on it. The fit is with goal conduciveness, and
   the paper explains why the kind clause could not rescue the account in
-  CLAIM-tmpe0iew's first attempt. Hunger's 'wanting' is about maintenance
+  [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)'s first attempt. Hunger's 'wanting' is about maintenance
   because it is goal-conduciveness valence, not pleasantness.
 - **The anhedonia data fit the same line.** "Anhedonic individuals do not
   differ in their reported pleasure from consummatory behaviors (e.g.,
   eating dinner), but report reduced anticipatory pleasure regarding
   goal-directed activities (e.g., making dinner; Gard et al., 2007)"
-  (p. 14). That is CLAIM-tmpe0iew's suggested repair, an ordering over
+  (p. 14). That is [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)'s suggested repair, an ordering over
   consummatory states distinct from one over pursuits, in the paper's own
   words.
 
@@ -164,7 +164,7 @@ What it does not give:
   how far an event serves a goal; 'wanting' is the incentive salience that
   makes a cue pull. The addict who gets the drug and enjoys it less is
   high on goal conduciveness for the wanting-driven goal. That is the
-  case where CLAIM-tmpe0iew says the sign clause gives the wrong answer,
+  case where [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) says the sign clause gives the wrong answer,
   and relabelling the valence does not change that.
 - **It does not make pleasantness ascendant.** A reply that wants to keep
   "hedonic" needs 'liking' to be the ascendancy of a pleasantness
@@ -176,11 +176,11 @@ What it does not give:
   fixed largely by evolution, with sugar "not a particularly sensitive
   indicator for the nutritive value of a food" (p. 2). It is not an
   ordering of the system's own states by their bearing on its
-  maintenance. A pleasantness ascendancy would need TERM-tmp8gbrt's kind
+  maintenance. A pleasantness ascendancy would need [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s kind
   clause rewritten.
 
-So the candid reading is that the paper supports CLAIM-tmpe0iew's second
-remedy: revise CLAIM-tmpz8lli and TERM-tmp8gbrt from hedonic to
+So the candid reading is that the paper supports [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md)'s second
+remedy: revise [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) and [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) from hedonic to
 goal-conduciveness (or motivational) valence, and treat intrinsic
 pleasantness as a separate check with its own ordering, outside the
 account. That is the owner's decision. If taken, the CPM supplies the
@@ -188,14 +188,14 @@ vocabulary.
 
 **The paper's macro-valence is the record's common currency.** The
 "integrative 'common currency' to compare alternatives for choices"
-(p. 1) is CLAIM-tmpz8lli's part 2: the negotiation admitting an ordering of
+(p. 1) is [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s part 2: the negotiation admitting an ordering of
 the options. Two things carry over:
 
 - **The two regimes are the paper's integration rules.** A weighted sum
   trades off; lexicographic and elimination-by-aspects rules need "no
-  trade-offs between micro-valences" (p. 8). That is CLAIM-tmp85p0g's
+  trade-offs between micro-valences" (p. 8). That is [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s
   contrast between a currency and an ordering without one, and
-  CLAIM-tmp83ge2's two regimes of ascendancy. Shuman et al. reached it from
+  [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s two regimes of ascendancy. Shuman et al. reached it from
   decision theory, independently.
 - **Ascendancy of one micro-valence is the paper's lexicographic case.**
   "Moral goodness may generally dominate other micro-valences" (p. 9) is a
@@ -214,7 +214,7 @@ instability of integrating opposed micro-valences (p. 9), and the
 evaluation that "can suppress competing evaluations" (p. 10), are the
 negotiation's conflicts in the paper's terms.
 
-**On ambivalence (CLAIM-tmpz8lli, consequence 4).** The paper's
+**On ambivalence ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), consequence 4).** The paper's
 conscious–unconscious conflict, where the same micro-valences yield
 different macro-valences at two levels of processing (p. 12), is a
 version of the record's split ascendancy: one ordering prevailing in one
@@ -222,7 +222,7 @@ part of the system and another elsewhere. It also gives the record's
 marker for it: "non-verbally avoiding and verbally approaching the
 partner" (p. 12).
 
-**For CLAIM-tmptd5us.** The paper says integration at any level "may
+**For [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md).** The paper says integration at any level "may
 occur consciously or unconsciously" (p. 7) and that the number of
 micro-valences integrated and how consciously "are independent issues"
 (p. 9). It has no account of when valence is felt, so it neither
@@ -242,5 +242,5 @@ state (the paper predicts more effortful integration under negative
 macro-valence, p. 12). Whether a pleasantness ordering can be ascendant,
 or only weighted. Whether the physiological signatures that separate
 intrinsic valence from goal congruence (facial EMG versus autonomic
-measures, reviewed in NOTE-tmpmobow) could serve
-QUESTION-tmpsqwu5 as markers of which ordering prevails.
+measures, reviewed in [NOTE-tmpmobow](NOTE-tmpmobow.md)) could serve
+[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) as markers of which ordering prevails.
