@@ -17,14 +17,14 @@ date: '2026-10-23'
 source:
 - LIT-tmpmp2nw
 summary: >-
-  Berridge and Kringelbach (2015), read in NOTE-tmprub8s. Reward splits
+  Berridge and Kringelbach (2015), read in [NOTE-tmprub8s](../notes.d/NOTE-tmprub8s.md). Reward splits
   into 'liking', 'wanting' and learning. 'Liking' has objective,
   cross-species orofacial markers. Lateral-hypothalamic stimulation and
   incentive sensitization raise 'wanting', which can grow "even if the
   drug became less pleasant". Objective 'liking' reactions can occur
   "without any subjective pleasure feeling at all". Filed because it
   bears directly on the record's reading of valence as ordering-dominance
-  (CLAIM-tmpz8lli).
+  ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)).
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli CLAIM-tmpe0iew — Proposed; the account this reading bears on and the objection filed from it, cited as open -->
 
@@ -33,7 +33,7 @@ summary: >-
 ## Source
 
 Berridge and Kringelbach (2015), "Pleasure systems in the brain",
-*Neuron* 86(3):646–664 (LIT-tmpmp2nw), read in full in NOTE-tmprub8s from
+*Neuron* 86(3):646–664 ([LIT-tmpmp2nw](../literature.d/LIT-tmpmp2nw.md)), read in full in [NOTE-tmprub8s](../notes.d/NOTE-tmprub8s.md) from
 the NIH author manuscript. It is unpaginated, so locations are by section.
 
 ## What was actually shown
@@ -74,9 +74,9 @@ raising taste reactivity with it.
 
 ## Connections
 
-It bears directly on CLAIM-tmpz8lli, which identifies hedonic valence
-with the dominance of an ordering; CLAIM-tmpe0iew is the objection filed
+It bears directly on [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), which identifies hedonic valence
+with the dominance of an ordering; [CLAIM-tmpe0iew](../claims.d/CLAIM-tmpe0iew.md) is the objection filed
 from it. Dayan and Berridge on model-based and model-free Pavlovian
-learning (LIT-584) is the record's earlier reading from the same
-programme. For QUESTION-tmp0oife, taste reactivity is a layer-2 marker
+learning ([LIT-584](../literature.d/LIT-584.md)) is the record's earlier reading from the same
+programme. For [QUESTION-tmp0oife](../questions.d/QUESTION-tmp0oife.md), taste reactivity is a layer-2 marker
 that does not depend on choice.

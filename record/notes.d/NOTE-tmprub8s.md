@@ -176,28 +176,28 @@ As the review reports them, from experiments not read here:
 
 ## Connections
 
-The record holds Dayan and Berridge (LIT-584, NOTE-463), which defends
+The record holds Dayan and Berridge ([LIT-584](../literature.d/LIT-584.md), [NOTE-463](NOTE-463.md)), which defends
 model-based Pavlovian 'wanting' and names conditioned alliesthesia. Ainslie's
-précis (LIT-586, NOTE-443) reads Berridge and Robinson's wanted-not-liked
-behaviour as its itch-like cycle. Hesp et al. (LIT-tmpvgq87) call the
+précis ([LIT-586](../literature.d/LIT-586.md), [NOTE-443](NOTE-443.md)) reads Berridge and Robinson's wanted-not-liked
+behaviour as its itch-like cycle. Hesp et al. ([LIT-tmpvgq87](../literature.d/LIT-tmpvgq87.md)) call the
 wanting/liking dissociation the strongest challenge to their own account of
-valence. Kahneman, Wakker and Sarin (LIT-tmpd3ww1) draw the parallel
+valence. Kahneman, Wakker and Sarin ([LIT-tmpd3ww1](../literature.d/LIT-tmpd3ww1.md)) draw the parallel
 distinction between decision and experienced utility in economics.
 
 ## Bearing on the record
 
 **Wanting without liking cuts against *valence is dominance* as written.**
-TERM-tmp8gbrt makes hedonic valence a regime of dominance, whose
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) makes hedonic valence a regime of dominance, whose
 intensity "is the strength of the dominance". Sensitized 'wanting' is
-dominance by every mark Frijda gives control precedence (THEORY-055). The
+dominance by every mark Frijda gives control precedence ([THEORY-055](../theory.d/THEORY-055.md)). The
 addict's drug-ranking wins conflicts against every other concern. It
 persists, and it resumes after abstinence when cues return. Yet, on the
 review's evidence, its 'liking' does not grow with it and may fall.
-CLAIM-tmpz8lli names this defeater in advance: "intensity that does not
+[CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) names this defeater in advance: "intensity that does not
 track control precedence", judged by marks independent of the account.
 Taste reactivity is such a mark. So the intensity clause fails for
 positive valence, which is where the claim had already hedged it, and the
-evidence arrives from a different direction than Carver 2003 (LIT-tmpb4r95).
+evidence arrives from a different direction than Carver 2003 ([LIT-tmpb4r95](../literature.d/LIT-tmpb4r95.md)).
 Four ways to rescue the claim were tried, and none is clean:
 
 - *The kind clause.* The term restricts valence to an ordering of the
@@ -237,7 +237,7 @@ known manipulations. Taste reactivity is a non-report, non-choice marker
 that works across species, because "the latter can be measured
 independently of the former". The marker is limited to taste and to
 consummatory 'liking'. It has no counterpart for an organization, so the
-record's organizational line (CLAIM-tmpz8lli's organizations) has no
+record's organizational line ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s organizations) has no
 layer-(2) measure from this work.
 
 **It partly anticipates the felt-as-self-model candidate, and also
@@ -245,7 +245,7 @@ complicates it.** "Unconscious ‘liking’" separates layer (2) from felt
 pleasure, as the candidate needs. The review's evolutionary story, in which
 "hierarchical" circuitry translates core 'liking' into conscious feeling,
 has the same shape as Brouillet and Friston's felt fluency as "a
-hierarchically deeper representation" (THEORY-662). But the deeper level
+hierarchically deeper representation" ([THEORY-662](../theory.d/THEORY-662.md)). But the deeper level
 it posits takes 'liking', not dominance, as its object. And the claim
 that 'wanting' "may be appraised as a positive reward" even by the
 experiencing person implies something awkward. A self-model of one's own
@@ -257,8 +257,8 @@ mistake. It is not obviously a theory of felt pleasure.
 
 **On common currency.** The review's "common currency" is an imaging
 finding of overlapping activation. It is not Cabanac's behavioural
-trade-off (LIT-tmpt9xwi), and it is not the record's ordering
-(CLAIM-tmp85p0g). It should not be cited as support for either.
+trade-off ([LIT-tmpt9xwi](../literature.d/LIT-tmpt9xwi.md)), and it is not the record's ordering
+([CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)). It should not be cited as support for either.
 
 ## Limitations
 
