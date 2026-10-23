@@ -7,9 +7,7 @@ tags:
 - game-theory
 - emotion-and-affect
 date: '2026-10-23'
-line:
-- formal-apparatus
-- organizational-affect
+line: formal-apparatus
 summary: >-
   The first level of the hierarchy the review of PR [#327](https://github.com/dmarx/nucleation/issues/327) proposed:
   ordinal coherence. Separated from the Hodge decomposition, which
