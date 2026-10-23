@@ -38,11 +38,8 @@ summary: >-
   processes behind them are separable, and can be activated reciprocally,
   independently or together. Unread: the model is read in Norris et al.
   2010 ([LIT-tmp4b7d6](LIT-tmp4b7d6.md)).
-<<<<<<< HEAD
 extended_by:
 - LIT-tmpj2mcy
-=======
->>>>>>> c6d3a8a551ad89d8407ba1b3d68ff2c3a5059f1e
 ---
 <!-- inactive-ok-file: CLAIM-tmpz8lli — Proposed; the account this paper bears on, cited as open -->
 

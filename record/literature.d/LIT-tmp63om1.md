@@ -38,11 +38,8 @@ summary: >-
   progress beats a reference rate and negative when it falls short.
   Unread: the account is read in Carver's 2018 restatement
   ([LIT-tmpdmzgc](LIT-tmpdmzgc.md)).
-<<<<<<< HEAD
 extended_by:
 - LIT-tmpdmzgc
-=======
->>>>>>> c6d3a8a551ad89d8407ba1b3d68ff2c3a5059f1e
 ---
 <!-- inactive-ok-file: LIT-604 — Unavailable, unread; the authors' 1982 review, named to rule out a duplicate -->
 <!-- inactive-ok-file: CLAIM-tmpz8lli — Proposed; the account this paper bears on, cited as open -->

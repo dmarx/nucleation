@@ -41,13 +41,10 @@ summary: >-
   preorder has a continuous representation, with no connectedness
   needed. Unread: the result as Debreu restates it is read in Theory of
   Value ([LIT-tmp1hbb9](LIT-tmp1hbb9.md)).
-<<<<<<< HEAD
 extended_by:
 - LIT-tmp1hbb9
 supports:
 - CLAIM-tmp85p0g
-=======
->>>>>>> c6d3a8a551ad89d8407ba1b3d68ff2c3a5059f1e
 ---
 <!-- inactive-ok-file: CLAIM-tmp85p0g — Proposed; the claim that cites this theorem, cited as open -->
 
