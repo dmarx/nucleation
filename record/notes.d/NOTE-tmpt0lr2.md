@@ -34,8 +34,8 @@ summary: >-
 
 ## Contribution
 
-Extends the hermit-crab trade-off paradigm (LIT-tmpf496v,
-LIT-tmpwwll5) to an insect. It adds a control the crab studies
+Extends the hermit-crab trade-off paradigm ([LIT-tmpf496v](../literature.d/LIT-tmpf496v.md),
+[LIT-tmpwwll5](../literature.d/LIT-tmpwwll5.md)) to an insect. It adds a control the crab studies
 lacked: the choice runs on conditioned cues rather than on contact with
 the stimuli, so the trade-off is made in the brain.
 
@@ -97,8 +97,8 @@ The 30% group has two bees; the paper's n = 32 is 10 + 10 + 2 + 10.
 
 ## Connections
 
-Builds on the hermit-crab studies (LIT-tmpf496v,
-LIT-tmpwwll5), which it describes as showing that "hermit crabs
+Builds on the hermit-crab studies ([LIT-tmpf496v](../literature.d/LIT-tmpf496v.md),
+[LIT-tmpwwll5](../literature.d/LIT-tmpwwll5.md)), which it describes as showing that "hermit crabs
 require higher voltages of electric shock to evacuate their preferred
 shell species than for a less preferred one (5, 6)" (p. 1). Its
 precautionary conclusion cites Birch on animal sentience and the
@@ -106,7 +106,7 @@ precautionary principle (ref. 15), which is not in the record.
 
 ## Bearing on the record
 
-**On THEORY-101's test.** The study is an instance of what THEORY-101's
+**On [THEORY-101](../theory.d/THEORY-101.md)'s test.** The study is an instance of what [THEORY-101](../theory.d/THEORY-101.md)'s
 promotion asks for, "an animal accepting a noxious cost for a resource",
 and in an insect. It meets "in proportion to both" only halfway. The
 resource is varied in four steps, but the cost is fixed at 55 °C, so
@@ -117,12 +117,12 @@ feeding rises steadily as the alternative gets poorer, from 0.28 against
 a 40% alternative to 0.82 against 20% and 1.00 against 10%. Nowhere does
 the heat override the resource: against a 10% alternative every bee fed
 only from the heated feeders. That is compensatory dominance in
-CLAIM-tmp83ge2's sense, at least for this cost. But it does not test the
-claim's question. A level threshold, ALARM's override (THEORY-090), would
+[CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s sense, at least for this cost. But it does not test the
+claim's question. A level threshold, ALARM's override ([THEORY-090](../theory.d/THEORY-090.md)), would
 appear as a cost above which no sucrose difference brings the bee back.
 With one cost and that cost evidently below any such threshold, the
 study cannot see one. Nor can it see the Tversky-style cycles that a
-discrimination-threshold override would produce (LIT-tmpzq0ry).
+discrimination-threshold override would produce ([LIT-tmpzq0ry](../literature.d/LIT-tmpzq0ry.md)).
 That needs several costs, choices made within one subject, and pairs
 chained so that cost steps are small while resource steps are large.
 
@@ -136,14 +136,14 @@ has been fitted. The deposited data could be refitted with a step
 model against a smooth one, and a single cost level would still limit
 the result.
 
-**On dominance.** For CLAIM-tmpz8lli the trade-off is a negotiation
+**On dominance.** For [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) the trade-off is a negotiation
 between a heat-avoidance ranking and a sucrose ranking, in which neither
 dominates outright. The heat's influence grows as the sucrose difference
 shrinks. Where the two offers are equal it decides the bee's feeding
 about two to one (0.28 against 0.72), and where the difference is large
 it decides nothing. On the claim's reading that intensity is the strength of dominance, this is
 a regime of weak, compensatory dominance by the cost ranking. The
-record of which ranking each choice followed, which QUESTION-tmpsqwu5
+record of which ranking each choice followed, which [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)
 asks for, is here only at the level of group proportions.
 
 ## Limitations

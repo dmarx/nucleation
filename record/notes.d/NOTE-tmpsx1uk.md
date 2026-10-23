@@ -37,7 +37,7 @@ A short statement of the component process model (CPM), written to
 recommend it as the blueprint for computational models of emotion over
 basic-emotion and constructivist theories. It ends by calling for
 nonlinear dynamic models. The evidence is deferred to the 2009 review
-(LIT-tmpboyvn, cited as "in press a").
+([LIT-tmpboyvn](../literature.d/LIT-tmpboyvn.md), cited as "in press a").
 
 ## Key insight
 
@@ -103,9 +103,9 @@ A model, not results:
 
 ## Connections
 
-Takes action readiness and control precedence from Frijda (THEORY-055).
+Takes action readiness and control precedence from Frijda ([THEORY-055](../theory.d/THEORY-055.md)).
 Cites Lewis (1996) on circular causality. Lewis (2005,
-LIT-tmpj284p) builds an attractor model of the same kind, and the
+[LIT-tmpj284p](../literature.d/LIT-tmpj284p.md)) builds an attractor model of the same kind, and the
 two exchanged sharply in its BBS commentary, where Lewis replied that
 "Scherer's model and mine share an emphasis on synchronization in emotion
 episodes" (p. 225).
@@ -114,7 +114,7 @@ episodes" (p. 225).
 
 **Is synchronization a measurable analogue of dominance?** It is a
 correlate dominance would produce, not dominance itself. The record's
-term (TERM-tmp8gbrt) defines dominance by which ranking wins the
+term ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)) defines dominance by which ranking wins the
 negotiation's conflicts, persists and resumes. Scherer's synchronization
 is coherence among response subsystems, the same changes appearing in
 appraisal, body, face and motive. One ranking dominating many
@@ -130,7 +130,7 @@ Two points tie the CPM closer to the record than this suggests:
 
 - **The definition already contains control precedence**, glossed as
   "claiming (not always successfully) priority". That parenthesis is
-  CLAIM-283's distinction between the precedence a motive claims and the
+  [CLAIM-283](../claims.d/CLAIM-283.md)'s distinction between the precedence a motive claims and the
   authority it is granted.
 - **The integration rule is a negotiation.** "Weighted integration in
   the form of dynamically adaptive differential activation and inhibition
@@ -138,7 +138,7 @@ Two points tie the CPM closer to the record than this suggests:
   compared with fixed weights in regression or decision structures"
   (§4). Context-dependent weights are compensatory; activation and
   inhibition thresholds are not. The CPM does not choose between
-  CLAIM-tmp83ge2's two regimes. It expects both.
+  [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s two regimes. It expects both.
 
 **An operational measure?** None here. The paper says "all we can
 currently measure is the individual's verbal account of a consciously
@@ -148,7 +148,7 @@ a preliminary stage" and that nonlinear theorizing "does not lend itself
 readily to designing appraisal experiments and analyzing multimodal
 data" (Lewis 2005, p. 216). Whatever indices the 2009 review uses, such
 as cross-component correlation or coherence of time series, are its
-business, and it is unread. For QUESTION-tmpsqwu5 this is a lead, not an
+business, and it is unread. For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) this is a lead, not an
 answer.
 
 **Is the monitoring component a version of "felt = the system's model of
@@ -167,8 +167,8 @@ the record should keep them apart.
   that it is the degree of synchronization of the components ... that
   will generate conscious experience." Here consciousness is tied to the
   degree of the regime itself, not to a model of it. That is closer to
-  Veit's identity (THEORY-101) than to a self-model view. It also faces
-  the counterfactual eraser (THEORY-252) if degree is read
+  Veit's identity ([THEORY-101](../theory.d/THEORY-101.md)) than to a self-model view. It also faces
+  the counterfactual eraser ([THEORY-252](../theory.d/THEORY-252.md)) if degree is read
   dispositionally.
 
 Scherer's Venn model puts the monitoring representation (circle A) only
@@ -176,9 +176,9 @@ partly inside consciousness (circle B). So on his account a system can
 model its own coherence without that model being felt. If the record
 adopts "felt = model of own dominance", Scherer is a precedent for the
 model and a warning that the model is not sufficient. That is
-QUESTION-059's gap.
+[QUESTION-059](../questions.d/QUESTION-059.md)'s gap.
 
-**On CLAIM-tmp83ge2.** Scherer's hysteresis is a third pattern beside
+**On [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md).** Scherer's hysteresis is a third pattern beside
 the continuous curve and the threshold, and the claim does not place it.
 If anger jumps at one frustration level going up and drops at a lower
 one coming down, choice depends on the path, not only on the current

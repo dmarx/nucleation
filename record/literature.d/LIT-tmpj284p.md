@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpz7wab): the target article in part, from the BBS treatment posted on the University of Geneva E3 Lab''s publications page with Sander and Scherer''s commentary. Worth reading as the fullest dynamic-systems account of appraisal and emotion. Appraisal and emotion constituents organize each other into one "emotional interpretation" through bidirectional feedback, in trigger, self-amplification and self-stabilization phases. Emotional interpretations are attractors, one at a time, and switch by phase transition. Vertical integration gives them momentum and selects among them. Stable states drive learning across a slower timescale. It contains the dynamics of one organization coming to dominate, but what dominates is an interpretation, not an ordering of the system''s own states.'
+status_note: 'read 2026-10-23 ([NOTE-tmpz7wab](../notes.d/NOTE-tmpz7wab.md)): the target article in part, from the BBS treatment posted on the University of Geneva E3 Lab''s publications page with Sander and Scherer''s commentary. Worth reading as the fullest dynamic-systems account of appraisal and emotion. Appraisal and emotion constituents organize each other into one "emotional interpretation" through bidirectional feedback, in trigger, self-amplification and self-stabilization phases. Emotional interpretations are attractors, one at a time, and switch by phase transition. Vertical integration gives them momentum and selects among them. Stable states drive learning across a slower timescale. It contains the dynamics of one organization coming to dominate, but what dominates is an interpretation, not an ordering of the system''s own states.'
 title: 'Bridging emotion theory and neurobiology through dynamic systems modeling'
 version: 1
 history:
@@ -100,13 +100,13 @@ DOI-10.1017/S0140525X0500004X
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-dominance of a negotiation by one ordering (CLAIM-tmpz8lli,
-TERM-tmp8gbrt). Lewis's account already contains the dynamics of one
+dominance of a negotiation by one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md),
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). Lewis's account already contains the dynamics of one
 organization coming to dominate. It has a regime that takes over,
 persists and is selected over competitors. What dominates, though, is an
 interpretation, not an ordering, and nothing in it ranks the system's
 own states or gives a sign. The bearing is set out in
-NOTE-tmpz7wab.
+[NOTE-tmpz7wab](../notes.d/NOTE-tmpz7wab.md).
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.

@@ -100,15 +100,15 @@ The ordering ranks the system's own states by their bearing on its
 maintenance, and it dominates: it wins the negotiation's conflicts,
 persists, and resumes after interruption ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)).
 
-**What is not new here.** The dynamics of dominance are Lewis's (LIT-tmpj284p,
-NOTE-tmpz7wab): an emotional interpretation must "take over" the system,
+**What is not new here.** The dynamics of dominance are Lewis's ([LIT-tmpj284p](../literature.d/LIT-tmpj284p.md),
+[NOTE-tmpz7wab](../notes.d/NOTE-tmpz7wab.md)): an emotional interpretation must "take over" the system,
 entrained elements "lose their independence and become embedded in a
 larger regime", and of competing attractors "only one of these converges
 at a time" (pp. 174–176). Scherer's definition of emotion already holds
-CLAIM-283's distinction: "claiming (not always successfully) priority"
-(LIT-tmpfjacn, NOTE-tmpsx1uk, §1). What this claim adds is that what
+[CLAIM-283](CLAIM-283.md)'s distinction: "claiming (not always successfully) priority"
+([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md), [NOTE-tmpsx1uk](../notes.d/NOTE-tmpsx1uk.md), §1). What this claim adds is that what
 dominates is an ordering, which makes the currency question askable
-(CLAIM-tmp85p0g), and an ordering of a particular kind, which is what
+([CLAIM-tmp85p0g](CLAIM-tmp85p0g.md)), and an ordering of a particular kind, which is what
 makes the regime valence. Neither Lewis nor Scherer gives the regime a
 sign.
 

@@ -120,14 +120,14 @@ Argument and model, with neural evidence reviewed:
 Opposes sequential appraisal models (Scherer, Lazarus, Smith and Kirby),
 and agrees with Frijda and Zeelenberg that appraisal can be an outcome.
 Draws on Haken's synergetics and on Kelso, Thelen and Smith, and Freeman.
-Cites Carver and Scheier (1990, LIT-tmp63om1), the account the record's sign clause
-takes (TERM-tmp8gbrt), among the few emotion theories with negative
+Cites Carver and Scheier (1990, [LIT-tmp63om1](../literature.d/LIT-tmp63om1.md)), the account the record's sign clause
+takes ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)), among the few emotion theories with negative
 feedback. Sander and Scherer's commentary (pp. 216–217) objects that the
 account cannot say when an episode begins or ends, and offers Scherer's
 criterion, "a certain degree of synchronization of emotion components
 driven by specific appraisal outcomes" (p. 216). Lewis replies that
 "Scherer's model and mine share an emphasis on synchronization in emotion
-episodes" (p. 225). Scherer's model is read in LIT-tmpfjacn.
+episodes" (p. 225). Scherer's model is read in [LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md).
 
 ## Bearing on the record
 
@@ -136,19 +136,19 @@ dominate"?** It contains the *dynamics* of dominance almost exactly, and
 not the *ordering*.
 
 - **The dynamics.** The record's term reads dominance through Frijda's
-  three marks (THEORY-055). Lewis's account has all three. Priority: an
+  three marks ([THEORY-055](../theory.d/THEORY-055.md)). Lewis's account has all three. Priority: an
   EI must "take over" the psychological system (p. 176), and its
   constituents "lose their independence and become embedded in a larger
   regime" (p. 174). Persistence: vertical integration gives it "momentum
   or imperturbability" (p. 192). Resumption: an attractor is a state the
   system returns to after small perturbations, and the "well-worn
   interpretations that fluctuate intermittently" are returned to
-  (p. 177). It also has what CLAIM-tmpz8lli needs and Frijda's marks do
+  (p. 177). It also has what [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) needs and Frijda's marks do
   not supply. One wins "from competing ensembles" (p. 177), "only one of
   these converges at a time" (p. 175), and losing is real: Lewis's
   oscillating Mr. Smart is the record's split or alternating dominance,
   its reading of ambivalence. And it has no regulator above the
-  competitors, which is THEORY-056's point.
+  competitors, which is [THEORY-056](../theory.d/THEORY-056.md)'s point.
 - **What it lacks.** What dominates in Lewis is an *interpretation*, a
   configuration of appraisal and emotion constituents. It is not a
   ranking of options, and so it is not the kind of thing that can be a
@@ -158,13 +158,13 @@ not the *ordering*.
   (p. 179). There is no sign clause and no account of intensity beyond
   the degree of synchrony. So the proposal's two distinctive moves are
   not in Lewis. One is that what dominates is an ordering, which makes
-  CLAIM-tmp85p0g's question of currency askable. The other is that the
+  [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md)'s question of currency askable. The other is that the
   ordering is of a particular kind, which makes the regime valence.
   Lewis supplies a dynamical mechanism by which such an ordering could
   come to dominate, and a precedent the record should cite rather than
   rediscover.
 
-**On the regimes of CLAIM-tmp83ge2.** Lewis's dynamics are threshold-rich
+**On the regimes of [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md).** Lewis's dynamics are threshold-rich
 by design. Effects "may be exponential, subject to threshold effects"
 (§3.1), transitions are abrupt, and baseline states "determine
 thresholds for what is meaningful" (p. 191). If the earliest valence
@@ -173,16 +173,16 @@ discontinuity, with a threshold that moves with the animal's state
 rather than staying fixed. That is a third case beside the claim's
 fixed level threshold and its continuous curve: a state-dependent,
 possibly hysteretic, switch. Like Scherer's hysteresis
-(NOTE-tmpsx1uk), it means the trade-off test must control or
+([NOTE-tmpsx1uk](NOTE-tmpsx1uk.md)), it means the trade-off test must control or
 record the animal's prior state.
 
 **On measurement.** Lewis's phase synchrony is an operational measure,
 EEG or LFP phase locking, but of coherence among regions, not of which
-ranking governs action. For QUESTION-tmpsqwu5 it is a candidate marker
+ranking governs action. For [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) it is a candidate marker
 of dominance strength, and needs pairing with a behavioural record of
 which conflicts are won.
 
-**On CLAIM-283.** In Lewis's account, the authority a configuration is
+**On [CLAIM-283](../claims.d/CLAIM-283.md).** In Lewis's account, the authority a configuration is
 granted is not a quantity separate from the precedence it claims. It is
 the degree to which constituents become entrained to it. If that reading
 holds, the claimed–granted gap is the transient before stabilization,

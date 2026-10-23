@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not reach it. The University of Geneva''s Archive ouverte holds the published version (unige:97810), with access restricted to members of the UNIGE/HUG community. The Taylor & Francis article is paywalled. The Geneva E3 Lab''s publications page posts many of the group''s 2009 papers but not this one, and a web search found no other author or course posting. Its argument is read first-hand in Scherer''s companion paper of the same year, "Emotions are emergent processes: they require a dynamic computational architecture" (LIT-tmpfjacn), which restates the component process model and cites this paper, then in press, for the evidence. Filed because the record''s proposal needs a measurable analogue of dominance, and this is the review usually cited for response synchronization. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not reach it. The University of Geneva''s Archive ouverte holds the published version (unige:97810), with access restricted to members of the UNIGE/HUG community. The Taylor & Francis article is paywalled. The Geneva E3 Lab''s publications page posts many of the group''s 2009 papers but not this one, and a web search found no other author or course posting. Its argument is read first-hand in Scherer''s companion paper of the same year, "Emotions are emergent processes: they require a dynamic computational architecture" ([LIT-tmpfjacn](LIT-tmpfjacn.md)), which restates the component process model and cites this paper, then in press, for the evidence. Filed because the record''s proposal needs a measurable analogue of dominance, and this is the review usually cited for response synchronization. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'The dynamic architecture of emotion: Evidence for the component process model'
 version: 1
 history:
@@ -36,7 +36,7 @@ summary: >-
   process based on an individual's subjective appraisal of significant
   events", and the paper gives special emphasis to the sequence of
   appraisal checks and the synchronisation of response systems. Unread:
-  the model is read in the companion paper LIT-tmpfjacn.
+  the model is read in the companion paper [LIT-tmpfjacn](LIT-tmpfjacn.md).
 extended_by:
 - LIT-tmpfjacn
 ---
@@ -63,15 +63,15 @@ DOI-10.1080/02699930902928969
 The model itself, its four appraisal objectives, its sequential
 stimulus evaluation checks, the feeling component as monitor, and
 emotion as component synchronization, is read in the companion paper
-(LIT-tmpfjacn, NOTE-tmpsx1uk).
+([LIT-tmpfjacn](LIT-tmpfjacn.md), [NOTE-tmpsx1uk](../notes.d/NOTE-tmpsx1uk.md)).
 
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-dominance by one ordering (CLAIM-tmpz8lli, TERM-tmp8gbrt). What this paper
+dominance by one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). What this paper
 would add over its companion is the empirical side: whatever measures of
 response synchronization the evidence review uses. That is what
-QUESTION-tmpsqwu5 needs. The companion gives none. It says that "all we
+[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) needs. The companion gives none. It says that "all we
 can currently measure is the individual's verbal account of a
 consciously experienced feeling".
 

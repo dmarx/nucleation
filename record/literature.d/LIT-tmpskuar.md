@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpt0lr2): in full, from the published version (CC BY 4.0) in LSE Research Online, with the 2025 correction and the authors'' deposited data. Worth reading as the cleanest published motivational trade-off in an insect. Bees chose between heated (55 °C) and unheated feeders. They took the heated, high-sucrose feeders less as the unheated alternative got sweeter, and more steeply than when nothing was heated. The trade-off relied on learned colour cues, so it is central. At this one cost the data are graded, not thresholded, and the design varies only the resource, so it cannot show a threshold in cost.'
+status_note: 'read 2026-10-23 ([NOTE-tmpt0lr2](../notes.d/NOTE-tmpt0lr2.md)): in full, from the published version (CC BY 4.0) in LSE Research Online, with the 2025 correction and the authors'' deposited data. Worth reading as the cleanest published motivational trade-off in an insect. Bees chose between heated (55 °C) and unheated feeders. They took the heated, high-sucrose feeders less as the unheated alternative got sweeter, and more steeply than when nothing was heated. The trade-off relied on learned colour cues, so it is central. At this one cost the data are graded, not thresholded, and the design varies only the resource, so it cannot show a threshold in cost.'
 title: 'Motivational trade-offs and modulation of nociception in bumblebees'
 version: 1
 history:
@@ -78,8 +78,8 @@ Chittka (2022), *Proceedings of the National Academy of Sciences*
 
 ## Standing in the record
 
-Filed on 2026-10-23 for THEORY-101's comparative test and CLAIM-tmp83ge2's
-recasting of it. The bearing is set out in NOTE-tmpt0lr2. In
+Filed on 2026-10-23 for [THEORY-101](../theory.d/THEORY-101.md)'s comparative test and [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md)'s
+recasting of it. The bearing is set out in [NOTE-tmpt0lr2](../notes.d/NOTE-tmpt0lr2.md). In
 short:
 
 - at the one cost tested, the bees' choices vary gradually with the

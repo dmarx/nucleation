@@ -43,8 +43,8 @@ Three candidate measures are in reach.
   authority: an ordering coming to dominate, in the model's own terms.
 
 Two measures from emotion research are near but not the thing. Scherer's
-synchronization of response components (LIT-tmpfjacn, NOTE-tmpsx1uk) and
-Lewis's predicted theta phase synchrony (LIT-tmpj284p, NOTE-tmpz7wab) are
+synchronization of response components ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md), [NOTE-tmpsx1uk](../notes.d/NOTE-tmpsx1uk.md)) and
+Lewis's predicted theta phase synchrony ([LIT-tmpj284p](../literature.d/LIT-tmpj284p.md), [NOTE-tmpz7wab](../notes.d/NOTE-tmpz7wab.md)) are
 correlates that dominance would produce. Neither is signed, neither says
 which ranking is winning, and neither is given as a measure per episode.
 
