@@ -10,4 +10,4 @@
 
 ### Changed
 
-- At the owner's word, CLAIM-039 (affective states as properties of organized systems, after Frijda) is Proposed again, from Deferred, and is the corporate-psychopathy claim's premise.
+- At the owner's word, [CLAIM-039](record/claims.d/CLAIM-039.md) (affective states as properties of organized systems, after Frijda) is Proposed again, from Deferred, and is the corporate-psychopathy claim's premise.
