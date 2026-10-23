@@ -41,7 +41,7 @@ question of the form "must X?". It is not a theorem about directional
 measures in general; that generalization is the record's own claim,
 [CLAIM-396](../claims.d/CLAIM-396.md) (Proposed), and its test in a second system is [QUESTION-186](QUESTION-186.md).
 
-## What stays with [QUESTION-063](QUESTION-063.md)
+## What stays with the parent
 
 [QUESTION-063](QUESTION-063.md) asks what measurement or intervention tells shared drive,
 coupling among members and distinct internal routes apart. [THEORY-275](../theory.d/THEORY-275.md)
