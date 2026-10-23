@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while a threshold override does not, and even where each instant has a currency, successive currencies need not share exchange rates'
+title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while an exact threshold override does not, a threshold override with a discrimination threshold is a lexicographic semiorder whose choices can cycle and so is no ordering at all, and even where each instant has a currency, successive currencies need not share exchange rates'
 version: 1
 role: thesis
 warrant: demonstrated
@@ -27,7 +27,9 @@ summary: >-
   form ALARM's "100% weight" override could take, admits no numerical
   representation, while a continuous ordering, the form of Veit's
   proportional trade-offs, admits a continuous one (Eilenberg; Debreu). A
-  threshold override admits a discontinuous one. Across instants,
+  threshold override admits a discontinuous one, and one with a
+  discrimination threshold, a lexicographic semiorder, can cycle and
+  admits no ordering at all (Luce; Tversky). Across instants,
   representations need not be related, so a sequence of currencies need
   not be one currency.
 supports:
@@ -36,7 +38,7 @@ supports:
 <!-- inactive-ok-file: THEORY-101 THEORY-090 — Proposed; the two accounts whose distinction the result draws formally, cited as open -->
 <!-- inactive-ok-file: LIT-tmpin6y6 — Unavailable, no lawful full text; Debreu 1954, cited for the theorem as Debreu restates it in LIT-tmp1hbb9 -->
 
-# CLAIM-tmp85p0g: An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while a threshold override does not, and even where each instant has a currency, successive currencies need not share exchange rates
+# CLAIM-tmp85p0g: An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while an exact threshold override does not, a threshold override with a discrimination threshold is a lexicographic semiorder whose choices can cycle and so is no ordering at all, and even where each instant has a currency, successive currencies need not share exchange rates
 
 ## The claim
 
@@ -64,9 +66,9 @@ such u exists.
 **3. A continuous ordering is a currency.** A complete preorder on a
 connected, separable topological space whose upper and lower contour sets
 are closed has a continuous real-valued representation. The theorem is
-essentially Eilenberg's (1941); Debreu (1954, [LIT-tmpin6y6](../literature.d/LIT-tmpin6y6.md)) removed the
+essentially Eilenberg's (1941); Debreu (1954, LIT-tmpin6y6) removed the
 connectedness assumption for second-countable spaces, and states both in
-*Theory of Value* (1959, [LIT-tmp1hbb9](../literature.d/LIT-tmp1hbb9.md), read in [NOTE-tmpsug0b](../notes.d/NOTE-tmpsug0b.md), pp. 56,
+*Theory of Value* (1959, LIT-tmp1hbb9, read in NOTE-tmpsug0b, pp. 56,
 72–73), with the lexicographic order of R² as his example of a complete
 preordering that "cannot be represented by a real-valued function"
 (p. 72). The lexicographic order of part 2 fails the hypothesis: its
@@ -85,6 +87,23 @@ another dimension still breaks its ties. Above the threshold, a ranking
 by cost with resource breaking ties at equal cost is the order of
 part 2 again.
 
+**3b. A threshold override with a discrimination threshold is not an
+ordering.** Part 3a's threshold is exact. A real override decides by its
+own dimension only when the difference on it is large enough to
+register, and lets another dimension decide otherwise. With cost c,
+resource r and a discrimination threshold δ > 0, let x be chosen over y
+when c(y) − c(x) > δ, or when |c(x) − c(y)| ≤ δ and r(x) > r(y). This is
+Tversky's lexicographic semiorder, built on Luce's semiorders, in which
+indifference within a threshold is not transitive. Its choices can cycle.
+Take x₀ = (0, 0), x₁ = (δ/2, 1/3), x₂ = (δ, 2/3), x₃ = (3δ/2, 1). Each
+neighbour is within δ on cost and has more resource, so x₁ is chosen
+over x₀, x₂ over x₁ and x₃ over x₂; but x₃ costs 3δ/2 more than x₀,
+past the threshold, so x₀ is chosen over x₃. No complete preorder on the
+four options agrees with all four choices, so the rule admits no
+ordering of them, and so no currency. Every pairwise choice is still
+decided: each pair, faced alone, is an ordering of two options. The
+cycle shows only across choices, which is part 4's case.
+
 **4. Successive currencies need not share exchange rates.** If R_t is an
 ordering at each t with representation u_t, nothing relates u_t to u_s:
 any strictly increasing transformation of u_t represents R_t equally
@@ -102,11 +121,13 @@ each instant.
 - **Where magnitudes are continuous**, as in the trade-off experiments
   Veit's criterion uses (a noxious cost against a resource, in proportion
   to both), "admits an ordering" is strictly weaker than "admits a
-  currency". A continuous trade-off, Veit's form ([THEORY-101](../theory.d/THEORY-101.md)), has a
-  continuous currency. An override, ALARM's "100% weight" ([THEORY-090](../theory.d/THEORY-090.md)),
-  has no currency only if it is graded, the alarm deciding at every
-  level of its own intensity; a threshold override, alarm on or off, has
-  a discontinuous one. [CLAIM-tmp83ge2](CLAIM-tmp83ge2.md) draws the consequence for their
+  currency". A continuous trade-off, Veit's form (THEORY-101), has a
+  continuous currency. An override, ALARM's "100% weight" (THEORY-090),
+  has no currency if it is graded, the alarm deciding at every level of
+  its own intensity; an exact threshold override has a discontinuous
+  one; and a threshold override with a discrimination threshold, the
+  realistic case, admits no ordering at all over a chain of nearby
+  options, and shows itself as cycles in choice (part 3b). CLAIM-tmp83ge2 draws the consequence for their
   rivalry.
 
 ## What it does not say
@@ -114,10 +135,11 @@ each instant.
 - That every ordering without a currency is lexicographic. Others exist
   (orders on non-separable spaces, among them); the claim says only that
   the graded lexicographic one lies in the gap.
-- That every override lacks a currency. A threshold override has one
-  (part 3a).
-- That a negotiation always produces an ordering. It need not ([THEORY-027](../theory.d/THEORY-027.md),
-  [CLAIM-353](CLAIM-353.md)); that is a separate fact, used in [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md).
-- That anything here is new mathematics. Parts 1 to 3a are textbook
-  results of utility theory (Eilenberg; Debreu), written out so the
-  record can check them.
+- That every override lacks a currency. An exact threshold override
+  has one (part 3a); with a discrimination threshold it has no ordering
+  (part 3b).
+- That a negotiation always produces an ordering. It need not (THEORY-027,
+  CLAIM-353); that is a separate fact, used in CLAIM-tmpz8lli.
+- That anything here is new mathematics. Parts 1 to 3b are textbook
+  results of utility theory (Eilenberg; Debreu; Luce; Tversky), written
+  out so the record can check them.
