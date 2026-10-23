@@ -39,6 +39,8 @@ summary: >-
   oneself, with [CLAIM-415](CLAIM-415.md)'s false audience as what it guards against. The
   edge: the opposite of conformity is not independence, since resisting
   every judgement is governed by the judgements as much as obeying them.
+objected_by:
+- CLAIM-tmpqodkz
 ---
 <!-- inactive-ok-file: CLAIM-349 CLAIM-415 CLAIM-424 CASE-tmpazqjk CASE-tmp5rsen TERM-tmpo92fy — Proposed; claims, cases and terms cited as open, nothing here rests on their being settled -->
 
