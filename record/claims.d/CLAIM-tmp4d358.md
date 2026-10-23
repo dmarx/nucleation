@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'Calling a corporation psychopathic, even functionally, adds nothing to saying that its decision rules weigh harms to others only as costs to it, and it imports a picture of character that points remedy toward blame and away from redesign'
+title: 'A corporation''s functional remorse cannot be told from prudence: any procedure or role duty that makes others'' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives'
 version: 1
 role: counter
 warrant: interpretive
@@ -8,59 +8,90 @@ tags:
 - ethics
 - social-ontology
 - society-and-governance
+- emotion-and-affect
 date: '2026-10-23'
 line:
 - distributed-agency
+- organizational-affect
 objects_to:
 - CLAIM-tmpi98gg
 rests_on:
 - CLAIM-418
 grounds:
 - THEORY-tmp036dt
+- LIT-tmpy1y1q
 summary: >-
-  The objection to the record's reading of "institutional psychopath",
-  raised in the same filing (2026-10-23). If the claim's third part is
-  right, and the absence is design rather than deficit, then the
-  clinical word names nothing the structural description does not, and
-  carries connotations (a fixed character, untreatability, an object of
-  fear and blame) that the claim itself says do not apply.
+  The objection to the record's reading of the "institutional
+  psychopath", revised on 2026-10-23 when the reading was revised. The
+  first version said the clinical word adds nothing because a corporation
+  shows only psychopathy's conduct; once the record assigns functional
+  affect (CLAIM-039), that premise is gone. What remains is sharper: the
+  reading's distinction between a harm a corporation takes as its own
+  concern (remorse) and a harm it takes only as a threat (fear) may not
+  be drawable for a corporation, whose every concern was installed for
+  its own ends. Velasquez's "as if" (LIT-tmpy1y1q) in functional form.
 ---
-<!-- inactive-ok-file: CLAIM-418 CLAIM-tmpi98gg — Proposed; open, and cited as open: nothing here rests on its being settled -->
 
-# CLAIM-tmp4d358: Calling a corporation psychopathic, even functionally, adds nothing to saying that its decision rules weigh harms to others only as costs to it, and it imports a picture of character that points remedy toward blame and away from redesign
+<!-- inactive-ok-file: CLAIM-418 CLAIM-tmpi98gg CLAIM-039 THEORY-tmp036dt — Proposed; the claims and reading this objection argues from or against, cited as open -->
+<!-- inactive-ok-file: LIT-tmpy1y1q — Unavailable, no lawful full text; its abstract's "as if", not leaned on as read -->
+
+# CLAIM-tmp4d358: A corporation's functional remorse cannot be told from prudence: any procedure or role duty that makes others' harms its concern was put there for its own ends, reputation, liability or recruitment, so the line between harm as concern and harm as threat, and with it the line between a remorseful and a psychopathic corporation, does not hold, and the clinical word adds nothing to a description of its incentives
 
 ## The objection
 
-[CLAIM-tmpi98gg](CLAIM-tmpi98gg.md) concedes that a corporation was never built with what a
-psychopath lacks. Then the word "psychopathic" does no work the claim's
-second part does not already do: "others' costs reach its decisions
-only through four routes" is the content, and the clinical label adds
-only associations. Those associations mislead. Psychopathy is a stable
-trait of a person, widely held hard to treat, and an object of moral
-fear. A corporation's "trait" is a set of rules and incentives that can
-be rewritten. A label that suggests the first invites the response
-suited to it (exclusion, blame, punishment) where the claim itself says
-the response is redesign.
+CLAIM-tmpi98gg separates two routes by which a corporation's harm to
+others reaches its decisions: as one of its own concerns, through
+procedures and role duties (functional remorse), or as a threat to its
+other concerns, through regulators and markets (functional fear). A
+corporation with only the second is functionally psychopathic.
 
-It rests on [CLAIM-418](CLAIM-418.md): an organizational perspective is not thereby an
-agent, and a description of how an organization makes things matter
-need not be a description of an agent's character.
+But a corporation's procedures are not given. Each was installed by the
+corporation, and a corporation installs a procedure for its own ends:
+a harm-weighing rule protects its reputation, a compliance duty limits
+its liability, an ethics programme helps it recruit. So a harm that
+reaches its decisions through a procedure reaches them, one step back,
+as a threat to some concern of its own. The two routes differ in how
+far back the threat sits, not in kind. On this view every corporation
+has fear and none has remorse, and the clinical word distinguishes no
+corporation from another. It adds only connotation (a fixed character,
+an object of fear and blame) to a description of incentives, and points
+remedy toward blame where the reading itself says the remedy is
+redesign.
+
+This is Velasquez's "as if" (LIT-tmpy1y1q) in functional form: if the
+corporation's intentions are only as if, so is its remorse.
+
+It rests on CLAIM-418: an organization's perspective is not thereby an
+agent's character.
 
 ## What it does not say
 
-- It does not deny that the corporation is an agent or that it is
-  responsible.
-- It does not deny the structural description; it denies only that the
-  clinical word adds to it.
+- It does not deny that a corporation is an agent, or responsible, or
+  that it can bear functional affect. It grants CLAIM-039 and denies only
+  that remorse is among the affects a corporation can have apart from
+  fear.
+- It does not deny the structural description of Wells Fargo
+  (CASE-tmpuxgzy).
 
 ## What would answer it
 
-A use of the clinical construct that the structural description cannot
-do without. One candidate: that the construct's features predict which
-corporate conduct follows (for instance that a structure without that
- authority will exploit trust, as a person with the trait does), and
-the bare structural description does not. If a documented case showed
-that, the label would be doing work. A second: that the label's
-connotation of blame is apt, because a corporation fit to be held
-responsible is also fit to be blamed, and Pettit's conditions say it
-is.
+Three things, any of which would do.
+
+1. **The test the reading names.** Corporations whose procedures make
+   others' harms their concern keep weighing those harms when the
+   external sanction that might have motivated the procedure is lifted,
+   and corporations moved only by sanction do not. If the two differ
+   then, the concern is not reducible to the threat, whatever its origin.
+2. **Origin is not current function.** A person's remorse was installed
+   too, by upbringing, for ends that were in part their carers'. The
+   record does not call a person's remorse prudence because of where it
+   came from. If the same holds for a corporation, the objection proves
+   too much. It would hold only if something about corporations, unlike
+   persons, keeps an installed concern answerable to the end it was
+   installed for.
+3. **The construct's own evidence.** The PCL-R scores lack of remorse
+   from "a semistructured interview, case history information, and
+   specific scoring criteria" (Hare and Neumann, p. 219; THEORY-tmp036dt),
+   so a person's remorse is told from its display by what the record of
+   their conduct and statements shows. If a corporation's record can show
+   the same difference, the distinction is drawable for it too.

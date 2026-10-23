@@ -85,16 +85,15 @@ than a dimension.
   on. Much of the evidence is forensic, and several antisocial items
   read criminal history.
 - Anything about corporations. Its bearing on the record's question is
-  the record's inference: if no component is the essence, then a
-  corporation matching only the conduct items (callousness, failure to
-  accept responsibility, conning, parasitic lifestyle, irresponsibility)
-  matches part of the construct to a degree, and with no affective
-  counterpart sits nearer the behaviour-led diagnosis than the
-  construct. Several antisocial items are developmental (early behaviour
-  problems, juvenile delinquency) and have no corporate counterpart but
-  by analogy. And the instrument's method, an interview, does not
-  transfer at all, so a corporate "score" is an analogy, not an
-  assessment.
+  the record's inference, in CLAIM-tmpi98gg. If a corporation's affect
+  is read functionally (CLAIM-039), its affective items can be assigned
+  from its record, as the PCL-R itself scores them from interview and
+  case history; and since no component is the essence, a corporation
+  matching across both factors falls under the construct to a degree.
+  Several antisocial items are developmental (early behaviour problems,
+  juvenile delinquency) and have no corporate counterpart. The
+  instrument's interview does not transfer, so a corporate "score" is an
+  analogy, not an assessment.
 
 ## Connections
 

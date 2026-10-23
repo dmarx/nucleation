@@ -1,6 +1,6 @@
 ---
 status: Open
-title: 'Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but in which the costs its conduct imposes on others have no authority over what it does beyond what its procedures, members, regulators and markets give them?'
+title: 'Is "psychopathic" a category error when said of a corporation, or can the construct, its affective features included, be assigned to a corporation functionally, and if so, what in a corporation would remorse, or its absence, be?'
 version: 1
 tags:
 - ethics
@@ -24,7 +24,7 @@ answered_by:
 <!-- inactive-ok-file: CLAIM-271 THEORY-125 THEORY-131 THEORY-139 THEORY-147 THEORY-tmp036dt — Proposed; open, and cited as open: nothing here rests on its being settled -->
 <!-- inactive-ok-file: LIT-698 LIT-tmp7dpgf LIT-tmp8tm3e LIT-tmpcyd6d LIT-tmpy1y1q — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
-# QUESTION-tmpik08u: Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but in which the costs its conduct imposes on others have no authority over what it does beyond what its procedures, members, regulators and markets give them?
+# QUESTION-tmpik08u: Is "psychopathic" a category error when said of a corporation, or can the construct, its affective features included, be assigned to a corporation functionally, and if so, what in a corporation would remorse, or its absence, be?
 
 ## Why it is a question
 
@@ -49,10 +49,15 @@ them.
    ([NOTE-340](../notes.d/NOTE-340.md)) doubts a group agent is phenomenally conscious. Nothing in
    the record addresses remorse, guilt or empathy in a corporation.
 
-The third premise is where "psychopathic" gets its force, and it is where
-the analogy may break: a person's psychopathy is a deficit in a being
-built to have a moral sense, and a corporation may never have had one to
-lose.
+The third premise is where "psychopathic" gets its force. The record's
+own framework bears on it: CLAIM-039, reopened by the owner on
+2026-10-23, characterizes affect functionally, after Frijda (THEORY-055),
+as an appraisal of an event's pertinence to a concern eliciting action
+readiness, and so lets affect be assigned to a corporation. The owner:
+"one of the specific things our framework equips us to do is to assign
+affect to corporation-like things." The question is then not whether a
+corporation can lack remorse but what its remorse would be, and how it
+would differ from its fear of sanction.
 
 It also has a rival that shares its name. Boddy ([LIT-tmpcyd6d](../literature.d/LIT-tmpcyd6d.md)) says
 "corporate psychopaths" are people, individuals with psychopathic traits
