@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmp7qgo0): in part, from the published version (CC BY-NC) deposited in the University of Amsterdam''s repository. Worth reading as the proposal that an emotion is a network of causally interacting components, the move Borsboom made for mental disorders (LIT-547) applied to emotion. Affect-program, constructionist and appraisal theories each demand one property: distinct emotions, variation between and within persons, and causal relations among components. Reflective and formative latent-variable models fail at least one. A network model meets all three, with a distinct emotion as a weakly emergent small-world community. Strong connectivity predicts self-sustaining activation and hysteresis, so longer emotions. The persistence it gives is a network state''s, not an ordering''s, and the model is unsigned.'
+status_note: 'read 2026-10-23 ([NOTE-tmp7qgo0](../notes.d/NOTE-tmp7qgo0.md)): in part, from the published version (CC BY-NC) deposited in the University of Amsterdam''s repository. Worth reading as the proposal that an emotion is a network of causally interacting components, the move Borsboom made for mental disorders ([LIT-547](LIT-547.md)) applied to emotion. Affect-program, constructionist and appraisal theories each demand one property: distinct emotions, variation between and within persons, and causal relations among components. Reflective and formative latent-variable models fail at least one. A network model meets all three, with a distinct emotion as a weakly emergent small-world community. Strong connectivity predicts self-sustaining activation and hysteresis, so longer emotions. The persistence it gives is a network state''s, not an ordering''s, and the model is unsigned.'
 title: 'Toward an integrative psychometric model of emotions'
 version: 1
 history:
@@ -96,14 +96,14 @@ DOI-10.1177/1745691619895057
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is an
 ordering's ascendancy in the negotiation among perspectives
-(CLAIM-tmpz8lli, TERM-tmp8gbrt), and for the measurement question
-QUESTION-tmpsqwu5. It is the emotion-domain counterpart of Borsboom's
-network theory of mental disorders (LIT-547, THEORY-058), which the
+([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)), and for the measurement question
+[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md). It is the emotion-domain counterpart of Borsboom's
+network theory of mental disorders ([LIT-547](LIT-547.md), [THEORY-058](../theory.d/THEORY-058.md)), which the
 record holds. Lange et al. give persistence a mechanism, self-sustaining
 activation in a strongly connected network with hysteresis. But what
 persists is a pattern of components, not one perspective's ranking
 prevailing over others, and the model has no sign. The bearing is set out
-in NOTE-tmp7qgo0.
+in [NOTE-tmp7qgo0](../notes.d/NOTE-tmp7qgo0.md).
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.

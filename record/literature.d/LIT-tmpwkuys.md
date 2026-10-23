@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref and the PubMed abstract, not read: a lawful copy exists but this client could not fetch it. OpenAlex lists the article as closed (APA). A copy is posted on co-author Zita Oravecz''s University of California, Irvine site, apparently among course readings, but its certificate chain ends in a root this client does not trust, so the TLS connection failed. The fetch tool returned 503 for the same address. Failed on access, not availability. Filed for the record''s question of how to measure whether an ordering prevails and returns after interruption (QUESTION-tmpsqwu5). DynAffect''s attractor strength, the pull that ties affect back to a home base after it is perturbed, is the nearest established operational measure of Frijda''s resumption mark, though it measures the return of an affective state, not of a ranking''s authority. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref and the PubMed abstract, not read: a lawful copy exists but this client could not fetch it. OpenAlex lists the article as closed (APA). A copy is posted on co-author Zita Oravecz''s University of California, Irvine site, apparently among course readings, but its certificate chain ends in a root this client does not trust, so the TLS connection failed. The fetch tool returned 503 for the same address. Failed on access, not availability. Filed for the record''s question of how to measure whether an ordering prevails and returns after interruption ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)). DynAffect''s attractor strength, the pull that ties affect back to a home base after it is perturbed, is the nearest established operational measure of Frijda''s resumption mark, though it measures the return of an affective state, not of a ranking''s authority. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Feelings change: Accounting for individual differences in the temporal dynamics of affect'
 version: 1
 history:
@@ -72,14 +72,14 @@ Personality and Social Psychology* 99(6):1042–1060 — DOI-10.1037/a0020962
   timescales.
 - **Reach.** The parameters are related to personality and emotion
   dispositions, and the abstract draws implications for affective
-  dysfunction in psychopathology. Lange et al. (2020, LIT-tmp39gs5)
+  dysfunction in psychopathology. Lange et al. (2020, [LIT-tmp39gs5](LIT-tmp39gs5.md))
   cite it for the constructionist claim that core affect varies
   continuously.
 
 ## Standing in the record
 
-Filed on 2026-10-23 for QUESTION-tmpsqwu5, which asks how to measure the
-three marks of ascendancy that TERM-tmp8gbrt takes from Frijda:
+Filed on 2026-10-23 for [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md), which asks how to measure the
+three marks of ascendancy that [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) takes from Frijda:
 priority, persistence and resumption. DynAffect gives two of them an
 established statistical form. Attractor strength is a rate of return to
 a baseline after perturbation, which is the shape of resumption.

@@ -116,10 +116,10 @@ Argument, not data:
 ## Connections
 
 The emotion-domain application of Borsboom's network approach, whose
-theory of mental disorders the record holds (LIT-547, NOTE-435,
-THEORY-058). It cites Lewis (2005, LIT-tmpj284p) and Scherer (2009) as
+theory of mental disorders the record holds ([LIT-547](../literature.d/LIT-547.md), [NOTE-435](NOTE-435.md),
+[THEORY-058](../theory.d/THEORY-058.md)). It cites Lewis (2005, [LIT-tmpj284p](../literature.d/LIT-tmpj284p.md)) and Scherer (2009) as
 dynamic-systems precursors that stayed theoretical or neural. It cites
-Kuppens, Oravecz and Tuerlinckx (2010, LIT-tmpwkuys) for
+Kuppens, Oravecz and Tuerlinckx (2010, [LIT-tmpwkuys](../literature.d/LIT-tmpwkuys.md)) for
 continuously varying core affect, and Moors for the typology of
 theories. Dalege et al.'s attitude networks are the closest worked model.
 
@@ -134,7 +134,7 @@ Neither is the record's ascendancy, for three reasons.
 1. **The nodes are not perspectives, and nothing in the network ranks
    anything.** A component (frowning, arousal, aggressive thoughts) has a
    level, not an ordering of the options the system faces. What becomes
-   self-sustaining is a configuration of components. In CLAIM-tmpz8lli,
+   self-sustaining is a configuration of components. In [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md),
    what prevails is one perspective's ranking of options in the conflicts
    where perspectives disagree. The network model has no "conflict" in
    that sense. It has edges, positive or negative, but no pairs of
@@ -147,7 +147,7 @@ Neither is the record's ascendancy, for three reasons.
    perturbation. Priority, winning conflicts against other rankings, has
    none, because the network has no rival rankings.
 
-**On measurement (QUESTION-tmpsqwu5).** The paper's own limits are the
+**On measurement ([QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)).** The paper's own limits are the
 record's. "the psychometric network model primarily provides information
 about relationships between variables (i.e., conditional dependencies)
 and not about to what extent variables are endorsed" (p. 460). A measure
@@ -156,11 +156,11 @@ were followed, episode by episode. The paper does point to a usable
 tool. A temporal personalized network (p. 461) over nodes that are
 perspectives' verdicts, not emotion components, would show whether one
 perspective's verdict at t predicts conduct at t+1 against the others.
-That is out-prediction (CLAIM-427's grade) estimated as a lagged network.
+That is out-prediction ([CLAIM-427](../claims.d/CLAIM-427.md)'s grade) estimated as a lagged network.
 Connectivity predicting duration (p. 462) is a candidate measure of
 persistence strength.
 
-**On Borsboom (THEORY-058).** The paper extends the record's network
+**On Borsboom ([THEORY-058](../theory.d/THEORY-058.md)).** The paper extends the record's network
 reading from disorders to emotions with no change of machinery. A mood
 disorder and an emotion become the same kind of thing, a self-sustaining
 network state, differing in connectivity and duration. If the proposal
@@ -173,18 +173,18 @@ ambivalent on the proposal, not negative.
 **On synchronization.** The network model is not a synchronization
 model. Its edges are conditional dependencies, estimated
 cross-sectionally or at lags, not phase relations. It therefore
-complements Scherer's synchronization of components (LIT-tmpfjacn) and
-Lewis's phase synchrony (LIT-tmpj284p) rather than measuring the same
-thing. All three remain, as QUESTION-tmpsqwu5 says of the first two,
+complements Scherer's synchronization of components ([LIT-tmpfjacn](../literature.d/LIT-tmpfjacn.md)) and
+Lewis's phase synchrony ([LIT-tmpj284p](../literature.d/LIT-tmpj284p.md)) rather than measuring the same
+thing. All three remain, as [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md) says of the first two,
 correlates that ascendancy would produce. They are not measures of which
 ranking prevails.
 
 **Candidly.** This is a weaker rival to the proposal's novelty than
-Moors (LIT-tmp18qgb), because it is about components, not about
+Moors ([LIT-tmp18qgb](../literature.d/LIT-tmp18qgb.md)), because it is about components, not about
 selection. Its main value is a ready statistical vocabulary for
 persistence and lagged prediction. The proposal can borrow that
 vocabulary only after it says what the nodes would be. That is the
-individuation of perspectives, which CLAIM-tmpz8lli sets aside.
+individuation of perspectives, which [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md) sets aside.
 
 ## Limitations
 

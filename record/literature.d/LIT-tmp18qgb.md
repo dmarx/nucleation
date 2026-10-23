@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpyam8d): in full, from the submitted manuscript deposited in Ghent University''s repository. Worth reading as the shortest statement of Moors''s goal-directed account of emotional action, and as the nearest prior statement of the record''s reading of appraisal as negotiation. Goal-directed processes, which weigh the utility of action options by the values and expectancies of their outcomes, are the default cause of action, emotional action included. Most of the competition that decides behaviour is between goal-directed processes, and its winner is fixed by values and expectancies. Control precedence is what high goal relevance produces, so an emotional episode is a decision process with higher stakes. The competition is run on a common currency, expected utility, which is the point where the record parts from it.'
+status_note: 'read 2026-10-23 ([NOTE-tmpyam8d](../notes.d/NOTE-tmpyam8d.md)): in full, from the submitted manuscript deposited in Ghent University''s repository. Worth reading as the shortest statement of Moors''s goal-directed account of emotional action, and as the nearest prior statement of the record''s reading of appraisal as negotiation. Goal-directed processes, which weigh the utility of action options by the values and expectancies of their outcomes, are the default cause of action, emotional action included. Most of the competition that decides behaviour is between goal-directed processes, and its winner is fixed by values and expectancies. Control precedence is what high goal relevance produces, so an emotional episode is a decision process with higher stakes. The competition is run on a common currency, expected utility, which is the point where the record parts from it.'
 title: 'The power of goal-directed processes in the causation of emotional and other actions'
 version: 1
 history:
@@ -65,7 +65,7 @@ Agnes Moors, Yannick Boddez & Jan De Houwer (2017), *Emotion Review*
   the highest utility activates its corresponding action tendency (i.e.,
   goal to act), and this action tendency may or may not translate in an
   overt action" (p. 4). It sits in a cybernetic cycle (after Carver and
-  Scheier 1990, LIT-tmp63om1): "Cybernetic models further assume that
+  Scheier 1990, [LIT-tmp63om1](LIT-tmp63om1.md)): "Cybernetic models further assume that
   people must balance multiple goals, which implies that several cycles
   may run in parallel" (p. 5). The cycles are nested, and keeping
   lower-order goals in balance is itself a higher-order goal (pp. 5–6).
@@ -73,7 +73,7 @@ Agnes Moors, Yannick Boddez & Jan De Houwer (2017), *Emotion Review*
   processes the default, either in a default-interventionist architecture
   or in a "parallel-competitive architecture in which both types of
   processes constantly operate in parallel, but compete to determine
-  behavior" (p. 8; Daw, Niv and Dayan, LIT-580). On Moors's account
+  behavior" (p. 8; Daw, Niv and Dayan, [LIT-580](LIT-580.md)). On Moors's account
   goal-directed processes should win instead, so "most of the competition
   does not occur between stimulus-driven and goal-directed processes, but
   instead between different goal-directed processes. Which process wins
@@ -112,15 +112,15 @@ Agnes Moors, Yannick Boddez & Jan De Houwer (2017), *Emotion Review*
 
 Filed on 2026-10-23 as the novelty check for the record's proposal that
 an organization's appraisal is the negotiation among its perspectives
-(CLAIM-tmpz8lli, TERM-tmp8gbrt). Moors already holds the competitive half
+([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). Moors already holds the competitive half
 of it: action selection, emotional action included, is a competition
 among goal-directed processes, and control precedence is what wins it
 when the stakes are high. What she does not hold is the other half. Her
 competition is settled on one scale, expected utility, which the
 proposal treats as something a negotiation may fail to produce. It also
 gives no account of valence. The bearing is set out in
-NOTE-tmpyam8d. Her book-length statement of the theory,
-LIT-tmp0s27v, is unread.
+[NOTE-tmpyam8d](../notes.d/NOTE-tmpyam8d.md). Her book-length statement of the theory,
+[LIT-tmp0s27v](LIT-tmp0s27v.md), is unread.
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.
