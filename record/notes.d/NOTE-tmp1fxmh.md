@@ -1,121 +1,214 @@
 ---
-# Don't copy this file by hand — run `luria new note`, which assigns the
-# code and fills in what a machine can compute.
-#
-# A NOTE is a READING of a paper: what it contains, what it assumes, what it
-# proves, and how strongly. It is not the paper's standing in this record
-# — that is the LIT note's job, and the two are allowed to disagree
-# (ANTH-ADR-025).
-
-# Read | Skimmed | Unread | Superseded, from statuses.yaml beside this file.
-# This says HOW DEEPLY THE PAPER WAS READ, not whether it is any good.
-# Be honest here. `Skimmed` is a useful, respectable status and is
-# deliberately not in force: it is not enough to source a practice from,
-# and the whole scheme exists because the record could not previously tell
-# a read paper from an unread one.
-status: Skimmed
-
-# REQUIRED. The LIT code this is a reading of. The bibliography — title,
-# authors, year, arxiv — lives there and is NOT repeated here.
-paper: LIT-000
-
-# Repeat the paper's short name as the body's `# NOTE-xxx:` heading; the
-# lint checks that the two agree.
+status: Read
+paper: LIT-tmp57loc
 title: 'Psychopathy as a Clinical and Empirical Construct'
-
 version: 1
-
-# There is deliberately no `tags:` line here either, for the same reason and a
-# stronger one. A reading's topics are DERIVED from the paper named in `paper:`
-# above — a note and its paper are the same paper, so a second copy of its
-# subject is a second copy free to disagree, and four of them were
-# (ANTH-ADR-038). Retag the LIT note; the reading follows.
-
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: printed pp. 217–240 (abstract, all sections, conclusions
+    and disclosure), from the author-posted copy on hare.org; the
+    literature cited (pp. 240–246) was scanned, not read. Quotations are
+    checked by script against the extracted text, each on the printed page
+    given. Figures 1 and 2 (the four-factor and two-factor models with
+    loadings) were read from the extracted labels, not the drawings.
 date: '2026-10-23'
-
-# There is deliberately no `published:` line here. A reading's publication date
-# is DERIVED from the paper named in `paper:` above, and writing it down is a
-# lint violation — the value has one home and this is not it.
-
-# What the index table shows. One or two sentences: the finding, not the
-# subject area. Prose, so bare codes get linked by `luria link --fix`.
+summary: >-
+  The PCL-R's items form four correlated factors, Interpersonal, Affective,
+  Lifestyle and Antisocial, which pair into Factors 1 and 2 and are
+  explained by one superordinate factor. Psychopathy is dimensional, its
+  antisocial features belong to it as much as its affective ones, and the
+  authors deny that any one component is its essence. Cleckley's 1941/1976
+  profile is a clinical synopsis from an unrepresentative sample, not the
+  standard the measure should be judged by.
 ---
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; French's and Pettit's accounts, named for the corporate question -->
+<!-- inactive-ok-file: LIT-tmp7dpgf LIT-tmpy1y1q — Unavailable, unread; Velasquez, named for the objection, not leaned on -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
-
-# NOTE-xxx: <paper short name>
+# NOTE-tmp1fxmh: Psychopathy as a Clinical and Empirical Construct
 
 ## Contribution
 
-Two to four sentences. What did this add that did not exist before? Not what
-field it is in — what is true after it that was not true before.
+A review by the PCL-R's author and a structural modeller that does two
+things. It answers the charge that the PCL-R has "drifted" from Cleckley,
+by arguing that Cleckley's profile was never an assessment instrument and
+rests on an unrepresentative sample. And it sets out the structural,
+genetic, longitudinal and personality evidence for a four-factor construct
+held together by one superordinate factor.
 
 ## Key insight
 
-One paragraph. The single mental model this paper installs: the thing to
-remember if everything else is forgotten.
+Psychopathy, as measured, is not an emotional deficit with antisocial
+consequences. It is a covarying cluster of interpersonal, affective,
+lifestyle and antisocial features, none of them its essence. The affective
+features are tied to the antisocial ones "psychometrically, genetically,
+and longitudinally", so "there appears to be no basis for holding one
+component of psychopathy as more essential than other components" (p. 231).
 
 ## Assumptions
 
-The formal conditions the main results require. State them as conditions,
-with the expressions where they have them.
-
-- `L`-smooth gradients: ‖∇f(x) − ∇f(y)‖ ≤ L‖x − y‖
-- Bounded stochastic variance: E[‖g − ∇f‖²] ≤ σ²
-- IID data across workers, or the heterogeneity bound if not
-
-Where a paper's setting is narrower than its title suggests, say so here
-rather than letting a reader assume it transfers.
+- That a latent-variable model with good fit, replicated across samples
+  and methods, can be "adduced" as evidence for a construct, though fit
+  does not prove that causal latent variables exist (pp. 231–232).
+- That the PCL-R, while it "cannot be equated with the construct of
+  psychopathy" (p. 232), measures it well enough for its factor structure
+  to speak for the construct.
+- That personality disorders are defined by maladjustment: "Psychiatric
+  disorders, including personality disorders, typically are defined in
+  terms of maladjustment, not in terms of positive adjustment" (p. 227).
+- The samples behind the four-factor model are mostly offenders and
+  forensic patients, with some community and youth samples (p. 232).
 
 ## Key results
 
-Theorem-level, with the **exact expressions**. `O(1/√(nK))` is more useful
-than "converges at the same rate as centralized". Give the regime each holds
-in.
-
-- **Theorem 1** — statement. *Holds when:* the parameter regime.
+- **The instrument** (p. 219). The PCL-R "uses a semistructured interview,
+  case history information, and specific scoring criteria to rate each of
+  20 items on a 3-point scale (0, 1, 2)". Totals run 0–40; 30 is the usual
+  cut for research and "diagnostic" purposes (p. 220).
+- **The four factors** (pp. 219–220), 18 items:
+  - "Interpersonal (glibness/superficial charm, grandiose sense of self
+    worth, pathological deception, conning/manipulative)";
+  - "Affective (lack of remorse or guilt, shallow affect, callous/lack of
+    empathy, failure to accept responsibility for actions)";
+  - "Lifestyle (need for stimulation/proneness to boredom, parasitic
+    lifestyle, lack of realistic long-term goals, impulsivity,
+    irresponsibility)";
+  - Antisocial "(poor behavioral controls, early behavior problems,
+    juvenile delinquency, revocation of conditional release, criminal
+    versatility)".
+  "Two other items (promiscuous sexual behavior, many short-term
+  relationships) do not load on any factor but contribute to the total
+  PCL-R score." (p. 220)
+- **Two higher factors** (p. 220). "The Interpersonal/Affective dimensions
+  and the Lifestyle/Antisocial dimensions comprise, respectively, the
+  PCL-R Factors 1 and 2".
+- **Psychopathy versus antisocial personality disorder** (p. 219). "The PCL
+  and PCL-R combined personality traits and antisocial behaviors, whereas
+  the emphasis in APD was, and continues to be, antisocial behavior".
+- **One superordinate factor** (pp. 233–234). In large offender and
+  forensic samples a single factor explains most of the variance in each
+  of the four. The authors read it as "the broad dissocial nature of
+  psychopathic traits" and "believe that psychopathy can best be
+  understood in terms of the interrelations of these dimensions, akin to a
+  general factor in personality theory" (p. 234). So "antisocial
+  tendencies are fundamentally tied to other psychopathy dimensions since
+  all four PCL-R factors stem from a cohesive higher-order factor"
+  (p. 234).
+- **Dimensional** (pp. 220, 234). "there now is good evidence that the
+  structure of psychopathy is dimensional in nature" (p. 220); traits "are
+  best viewed as existing on a continuum" (p. 234).
+- **Genes and development** (pp. 238–239). The four factors load on a
+  single genetic factor in an adolescent twin sample, and the traits are
+  moderately stable from childhood into adulthood.
+- **Cleckley's own construct** (pp. 222–230). His 16-item Clinical Profile
+  (listed p. 222) was a clinical synopsis, not an instrument. Its
+  "positive adjustment" items (good intelligence, absence of delusions,
+  absence of nervousness, suicide rarely carried out) do not belong
+  (pp. 225–229). He took the fundamental factor to be "an inability to
+  participate in, or understand, the emotional aspects of humanity"
+  (p. 226, the authors' paraphrase), yet he also called the psychopath
+  "simply a basically asocial or antisocial individual" (p. 230, quoting
+  Cleckley 1976, p. 370).
 
 ## Claims
 
-Only a `Read` note may fill this in. `strength` is about the *support*, not
-about how much you believe it.
-
 | id | claim | strength | support |
 |---|---|---|---|
-| C1 | plain English | strong / moderate / weak | Theorem 2 / experiment in §5 / informal argument |
-
-## Method
-
-*(Omit this section entirely for empirical or survey papers.)*
-
-The algorithm, its steps, and its components.
+| C1 | 18 PCL-R items form four correlated factors, which pair into Factors 1 and 2 | strong | confirmatory factor analysis on N = 6929 offenders and forensic patients; replicated across samples (pp. 219–220, 232) |
+| C2 | One superordinate factor explains the four | strong | Neumann et al. (2007) and Neumann et al. (2006), reported pp. 233–234 |
+| C3 | No component, affective or antisocial, is more essential than the others | moderate | inference from C2 and from genetic and longitudinal covariation (pp. 231, 234, 238–239) |
+| C4 | Psychopathy is dimensional, not a taxon | moderate | taxometric and community studies, cited (pp. 220, 234) |
+| C5 | Cleckley considered antisocial deviance part of psychopathy | moderate | his profile items and case histories, and his own words (pp. 229–230) |
+| C6 | Cleckley's profile is not a sound standard for the construct | moderate | unrepresentative, overinclusive sample; unscorable items; no empirical evidence it would do better (pp. 223–227) |
 
 ## Concepts
 
-Terms as *this paper* defines them, which is not always as the field uses
-them.
-
-- **term** — precise definition as used here.
+- **psychopathy** — a dimensional, superordinate construct of covarying
+  interpersonal, affective, lifestyle and antisocial traits and behaviors,
+  as measured by the PCL instruments.
+- **Factor 1 / Factor 2** — the Interpersonal/Affective and
+  Lifestyle/Antisocial pairs of the four factors.
+- **construct drift** — the charge that the PCL-R measures something
+  other than Cleckley's psychopath; the authors would call any real
+  difference a "construct shift", present from the start (p. 224).
+- **antisocial personality disorder (APD)** — the DSM category, which
+  emphasizes antisocial behavior where the PCL-R combines it with
+  personality traits (p. 219).
 
 ## Connections
 
-How this builds on prior work, in prose. Machine-readable lineage —
-`extends:`, `corrects:`, `compared_against:` — is declared on the LIT and
-must not be duplicated here.
+Answers Patrick (2006), Salekin (2002) and Cooke and colleagues (2001,
+2005) on construct drift and on the place of antisociality. Builds on
+Cleckley's *The Mask of Sanity* (1941/1976), on Hare's earlier PCL (1980)
+and on the authors' four-factor modeling. The earlier programmatic
+statement is Hare (1996, LIT-tmp4ofbv), which this record has not read.
 
 ## Bearing on the record
 
-Which THEORY documents this reading supports, contradicts, or should
-produce. Name the codes. If a document cites this paper for something the
-paper does not say, this is where that gets written down. If the paper
-carries an instruction for machine-learning practice, it belongs in the
-Anthology of the SOTA, and this is where that is noted.
+Filed for the owner's corporate-psychopathy question. Bakan's *The
+Corporation* (2004) applies Hare's checklist to the corporation, and the
+record will ask which features could transfer. This reading bears on that
+in five ways.
+
+1. **The features, sorted.** The Affective factor holds lack of remorse or
+   guilt, shallow affect, callous/lack of empathy, and failure to accept
+   responsibility for actions. The Interpersonal factor holds glibness or
+   superficial charm, grandiosity, pathological lying and conning or
+   manipulation (p. 219). The behavioral factors are Lifestyle (stimulation
+   seeking, parasitic lifestyle, no realistic long-term goals, impulsivity,
+   irresponsibility) and Antisocial (pp. 219–220). Two of the affective items
+   are states of feeling (shallow affect, lack of remorse or guilt). Two are
+   closer to conduct: callousness shows in how others are treated, and
+   failure to accept responsibility shows in what is said and done after
+   the fact. The latter pair, and most of the Interpersonal and Lifestyle
+   items, can be scored from a corporation's record without settling
+   whether it feels anything. Several Antisocial items are tied to an
+   individual's development (early behavior problems, juvenile
+   delinquency) and have no corporate counterpart except by analogy.
+2. **No essential core.** The authors deny that the affective component is
+   the essence (p. 231) and read the construct as the covariation of all
+   four, under one superordinate factor (p. 234). A corporate-psychopathy
+   thesis that borrows only the affective deficit, or only the antisocial
+   conduct, borrows less than the construct. A corporation scored on
+   antisocial conduct alone would sit nearer APD, which is the behavioral
+   category (p. 219).
+3. **The method does not transfer as such.** The PCL-R is scored from "a
+   semistructured interview, case history information, and specific
+   scoring criteria" (p. 219). A corporation can supply a case history but
+   cannot be interviewed as a person is, so applying the checklist to one
+   is an analogy built on the items, not an assessment.
+4. **Feeling, mimicry and the Velasquez objection.** Cleckley's core was
+   an absence of "the emotional aspects of humanity" (p. 226), and a
+   psychopath can mimic emotion so well that he "appears to react with
+   normal emotions" (p. 228, quoting Cleckley 1976, p. 239). For the
+   corporation the question is whether the affective items describe a
+   deficit or a capacity that was never there. That is where Velasquez's
+   objection (LIT-tmp7dpgf, LIT-tmpy1y1q, unread) bites: if corporate
+   intentions are only "as if", so are corporate remorse and callousness.
+   The record's accounts of corporate agency and responsibility,
+   THEORY-131 (French) and THEORY-139 (Pettit), ascribe intentions and
+   normative judgment to a corporation, not affect.
+5. **A matter of degree.** On this construct "psychopathic" names a high
+   position on a continuum (p. 234), not a kind. A corporate version of the
+   thesis is then a claim of degree, which is easier to defend and harder
+   to test.
 
 ## Limitations
 
-What the paper does not establish, including what its own authors say it
-does not.
+The four-factor evidence comes mostly from offender and forensic samples
+(p. 232). The review is partisan: it defends the authors' instrument
+against named critics, and Hare discloses that he "receives royalties from
+the sale of the PCL-R and its family of instruments" (p. 240). The section
+on biological and cognitive features is a pointer to other reviews, not a
+review (pp. 239–240). It says nothing about collective or organizational
+psychopathy.
 
 ## Open questions
 
-What it leaves open, and what result would close it.
+Whether the superordinate factor reflects a single cause or only
+covariation; the authors grant that good fit "does not prove the existence
+of causal latent variables" (p. 231). For the corporate question, whether
+the covariation itself, which is evidence about individual persons, has
+any analogue in organizations, or whether an organization could score
+high on some factors and not others.

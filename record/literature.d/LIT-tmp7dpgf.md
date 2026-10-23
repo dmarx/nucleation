@@ -1,74 +1,73 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp7dpgf:` heading.
+status: Unavailable
+status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. The publisher (Philosophy Documentation Center) sells the article; Unpaywall and OpenAlex report no open copy; the PhilArchive record (dc2.philarchive.org/rec/VELWCA), and philarchive.org and philpapers.org with it, refused this client behind a Cloudflare check, so whether PhilArchive holds a copy is unknown; web searches for an author-posted or course-page copy found none. Filed because the owner is filing the thesis that a corporation is a psychopathic entity, and this is the classic objection to the corporate responsibility that thesis presupposes and that French (LIT-727) and Pettit (LIT-718) defend. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Why Corporations Are Not Morally Responsible for Anything They Do'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.5840/bpej19832349: Business and Professional Ethics Journal 2(3):1–18,
+    1983) and the publisher's page, which dates the issue "Spring 1983".
+    Crossref gives the year only, so `published:` is the first of January
+    1983. Searched on 2026-10-23: Crossref, Unpaywall, OpenAlex, the
+    publisher (pdcnet.org, purchase only), PhilArchive and PhilPapers
+    (Cloudflare check, HTTP 403 to every request), and web searches for an
+    author-posted or course copy. A `rivals` reference to French
+    (LIT-727) is left out until the paper is read and the
+    relation can be stated from it.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-ontology
+- free-will
+- agency
+- ethics
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '1983-01-01'
+doi: '10.5840/bpej19832349'
+first_author: 'Velasquez'
+keywords:
+- 'corporate moral responsibility'
+- 'corporate agency'
+- 'methodological individualism'
+- 'corporate intentionality'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Velasquez (1983), Business and Professional Ethics Journal 2(3):1–18.
+  The classic denial that a corporation, as an entity distinct from its
+  members, is morally responsible for anything it does; the members who
+  originate its acts are. Unread: no lawful copy reached. The later
+  restatement is Velasquez (2003), also unread.
 ---
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; French's and Pettit's accounts, named as what this paper opposes -->
+<!-- inactive-ok-file: LIT-tmpy1y1q — Unavailable, unread; Velasquez's 2003 restatement, named, not leaned on -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp7dpgf: Why Corporations Are Not Morally Responsible for Anything They Do
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Manuel G. Velasquez (1983), *Business and Professional Ethics Journal*
+2(3):1–18 — DOI-10.5840/bpej19832349
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*Registered, not read.* As it is usually reported (not checked here against
+the text): moral responsibility for an act requires that the act originate
+in the agent's own intention and be carried out through a body the agent
+directly controls. A corporation has neither a mind that forms intentions
+nor a body of its own; corporate acts originate in, and are carried out by,
+its members. So the corporation, as distinct from its members, is not
+morally responsible, and blaming it would fall on members who may be
+innocent. It is cited as the standing objection to French's corporate
+moral personhood (LIT-727), and it is an objection Pettit's "conversable,
+responsible corporation" (LIT-718) has to answer. Velasquez returned to the
+case twenty years later in "Debunking Corporate Moral Responsibility"
+(LIT-tmpy1y1q).
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-23 at the owner's request, for the question whether
+"psychopathic" can be said of a corporation. If Velasquez is right, a
+corporation is not the kind of thing that could be responsible, so the
+psychopathy label would have to be a description of how its members act
+through it, not a diagnosis of the corporation. The accounts it opposes are
+THEORY-131 (French) and
+THEORY-139 (Pettit).

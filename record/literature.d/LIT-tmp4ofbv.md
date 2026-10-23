@@ -1,74 +1,65 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp4ofbv:` heading.
+status: Unavailable
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not fetch it, so this failed on access, not availability. A full-text PDF is linked from the author''s ResearchGate profile (publication 280798957, under profile/Robert-Hare-2), apparently his own upload, but ResearchGate answered every request with HTTP 403, so neither the file nor its uploader could be confirmed. Unpaywall and OpenAlex report no open copy, the journal (SAGE) is closed, and the author''s own site, hare.org, lists the paper with a DOI link and no PDF. The construct it presents is read first-hand in Hare and Neumann''s 2008 review (LIT-tmp57loc), which gives the PCL-R items, their four factors and their two-factor grouping. It stays Unavailable until a copy is supplied or ResearchGate can be reached, not on merit.'
 title: 'Psychopathy: A Clinical Construct Whose Time Has Come'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Registered, not read. Details checked against Crossref (DOI
+    10.1177/0093854896023001004: Criminal Justice and Behavior 23(1):25–54,
+    March 1996; Crossref's title field gives only "Psychopathy", the
+    subtitle being the paper's own). Crossref's online date is 1 March 1996,
+    which `published:` takes. Searched on 2026-10-23: Crossref, Unpaywall,
+    OpenAlex, Semantic Scholar (closed), the author's ResearchGate upload
+    (HTTP 403 to curl and to a fetch tool, at both researchgate.net and
+    www.researchgate.net), the author's publication list at
+    hare.org/references/hare.html (no PDF for this paper), and web searches.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- psychopathology-and-treatment
+- moral-psychology
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '1996-03-01'
+doi: '10.1177/0093854896023001004'
+first_author: 'Hare'
+keywords:
+- 'psychopathy'
+- 'Psychopathy Checklist-Revised'
+- 'PCL-R'
+- 'criminal justice'
+- 'risk assessment'
+- 'recidivism'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Hare (1996), Criminal Justice and Behavior 23(1):25–54. The
+  programmatic statement that psychopathy, once reliably measured by the
+  PCL-R, is a clinical construct of real use to the criminal justice
+  system, including for predicting recidivism and violence. Unread: the
+  author's ResearchGate copy refused this client. The construct is read in
+  Hare & Neumann (2008).
 ---
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; the record's accounts of corporate responsibility, named for the question this is filed for -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp4ofbv: Psychopathy: A Clinical Construct Whose Time Has Come
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Robert D. Hare (1996), *Criminal Justice and Behavior* 23(1):25–54 —
+DOI-10.1177/0093854896023001004
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*Registered, not read.* By the abstract as search services report it: the
+arrival of a psychometrically sound measure of psychopathy, the PCL-R, has
+produced a sharp increase in replicable findings, and the construct is
+proving particularly useful in the criminal justice system, in sentencing,
+placement, and the assessment of the risk of recidivism and violence. The
+item set and factor structure of the PCL-R are read first-hand in Hare and
+Neumann's 2008 review (LIT-tmp57loc).
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed on 2026-10-23 at the owner's request, because Bakan's *The
+Corporation* (2004) applied Hare's checklist to the corporation, and the
+record needed the construct being borrowed. It sits beside the record's
+accounts of corporate agency and responsibility, THEORY-131 (French) and
+THEORY-139 (Pettit).

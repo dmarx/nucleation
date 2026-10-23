@@ -1,74 +1,102 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
 status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp57loc:` heading.
+status_note: 'read 2026-10-23 (NOTE-tmp1fxmh): in full, from the copy Hare posts on his own site. Worth reading as the authors'' own statement of what the construct is, made while defending it against the charge that the PCL-R has "drifted" from Cleckley. The PCL-R''s 20 items fall, 18 of them, into four correlated factors: Interpersonal and Affective (together Factor 1) and Lifestyle and Antisocial (together Factor 2). A single superordinate factor explains them, and the authors hold that no component, the affective one included, is more essential than the others. That is the sharpest constraint the record has on borrowing only the affective features of psychopathy for a corporation. Hare receives royalties from the PCL-R.'
 title: 'Psychopathy as a Clinical and Empirical Construct'
-
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: printed pp. 217–240 (abstract, all sections, conclusions
+    and disclosure; the literature cited, pp. 240–246, was scanned, not
+    read), from the PDF at https://hare.org/references/HareandNeumannARCP2008.pdf,
+    linked "[Download PDF]" from the publication list on hare.org, Robert
+    Hare's own site. The file is the publisher's typeset version and
+    carries Annual Reviews' stamp "Downloaded from
+    arjournals.annualreviews.org by University of British Columbia Library
+    on 03/27/08. For personal use only."; it is an author-posted copy, and
+    private reading for this record is within that stamp. Quotations in the
+    note are checked by script against the extracted text, and page
+    references are the printed pages. Crossref gives 1 April 2008 as the
+    issue date, which `published:` takes; the paper itself says it was
+    first published online as a Review in Advance on 20 November 2007.
+    The copy at https://www.fmhac.org/uploads/1/2/3/9/123913996/hare__neumann_published_09.pdf,
+    sometimes cited for this review, is a different paper: Hare & Neumann
+    (2009), "Psychopathy: Assessment and Forensic Implications", Canadian
+    Journal of Psychiatry 54(12):791–802, DOI 10.1177/070674370905401202,
+    hosted on the Forensic Mental Health Association of California's site.
+    It was not filed or read beyond its first pages.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- psychopathology-and-treatment
+- moral-psychology
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2008-04-01'
+doi: '10.1146/annurev.clinpsy.3.022806.091452'
+url: 'https://hare.org/references/HareandNeumannARCP2008.pdf'
+first_author: 'Hare'
+keywords:
+- 'psychopathy'
+- 'Cleckley'
+- 'PCL-R'
+- 'construct'
+- 'personality'
+- 'structure'
+- 'antisocial'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Hare & Neumann (2008), Annual Review of Clinical Psychology 4:217–246.
+  The PCL-R's items form four correlated factors, Interpersonal,
+  Affective, Lifestyle and Antisocial, explained by one superordinate
+  factor; psychopathy is dimensional, and no component, affective or
+  antisocial, is more essential than the others. Cleckley's Clinical
+  Profile, drawn from an unrepresentative sample, should not be the test
+  of the construct.
 ---
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; the record's accounts of corporate responsibility, named for the question this is filed for -->
+<!-- inactive-ok-file: LIT-tmp4ofbv — Unavailable, unread; Hare 1996, named as the earlier statement read through this one -->
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp57loc: Psychopathy as a Clinical and Empirical Construct
 
-# LIT-000: The paper title, exactly as published
-
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Robert D. Hare & Craig S. Neumann (2008), *Annual Review of Clinical
+Psychology* 4:217–246 — DOI-10.1146/annurev.clinpsy.3.022806.091452
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+- **The item set.** The PCL-R is a rating scale scored from "a
+  semistructured interview, case history information, and specific scoring
+  criteria" on 20 items, each 0–2, for a total of 0–40, with 30 the usual
+  research cut (pp. 219–220).
+- **Four factors, two higher.** Interpersonal (glibness/superficial charm,
+  grandiose self-worth, pathological deception, conning/manipulative) and
+  Affective (lack of remorse or guilt, shallow affect, callous/lack of
+  empathy, failure to accept responsibility) make Factor 1. Lifestyle
+  (stimulation seeking, parasitic lifestyle, no realistic long-term goals,
+  impulsivity, irresponsibility) and Antisocial (poor behavioral controls,
+  early behavior problems, juvenile delinquency, revocation of conditional
+  release, criminal versatility) make Factor 2. Promiscuous sexual
+  behavior and many short-term relationships load on no factor
+  (pp. 219–220).
+- **No essential core.** The affective features are tied
+  "psychometrically, genetically, and longitudinally" to the antisocial
+  ones, so the authors see "no basis for holding one component of
+  psychopathy as more essential than other components" (p. 231). One
+  superordinate factor explains all four (pp. 233–234).
+- **Dimensional, not taxonic.** Psychopathic traits are "best viewed as
+  existing on a continuum" (p. 234).
+- **Antisociality belongs to the construct.** Against the view that the
+  PCL-R strayed from Cleckley by including antisocial behavior, they show
+  Cleckley's own profile and cases were antisocial throughout
+  (pp. 229–230).
+- **Cleckley is not the test.** His Clinical Profile came from an
+  unrepresentative, overinclusive patient sample, and its "positive
+  adjustment" items are rightly absent from the PCL-R (pp. 225–228).
 
 ## Standing in the record
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+Filed and read on 2026-10-23 at the owner's request, as the construct
+Bakan's *The Corporation* (2004) borrows when it applies Hare's checklist
+to the corporation. The record will ask which features could transfer to a
+corporation. This paper sorts them into interpersonal, affective,
+lifestyle and antisocial, but also argues that the construct is their
+covariation, not any one of them. The record's accounts of corporate
+agency and responsibility are THEORY-131 (French) and THEORY-139 (Pettit).
