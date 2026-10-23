@@ -6,8 +6,8 @@
 
 **Social science** — economics, psychology, anthropology and sociology — empirical and theoretical work on people and societies that is not law or policy.
 
-0 of 74 TERM documents. Back to the [full index](../README.md).
+1 of 75 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [TERM-075](../../../record/terms.d/TERM-075.md) | attributed self, and which sense: held, imagined, imagined audience or appropriated | The record's selves ([TERM-045](../../../record/terms.d/TERM-045.md)) are all held or given by the person, the presented self included. [CLAIM-415](../../../record/claims.d/CLAIM-415.md) needs four further objects it had no names for: what others take a person to be and act on, what the person takes them to take them to be, who the person takes "them" to be, and the attribution taken up by the person as their own. They can come apart, and the claim depends on their doing so. Filed 2026-10-22 at the owner's request, gathering two phrases from the exchange of that day ("socially operative identity" and "recursive social self-modeling") that were first left unfiled. Adoption is the owner's decision. | Proposed |

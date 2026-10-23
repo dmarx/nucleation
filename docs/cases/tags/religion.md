@@ -6,7 +6,7 @@
 
 **Religion** — religion as a subject — its relation to science, religious belief and practice, and how religious practitioners are treated.
 
-3 of 139 CASE documents. Back to the [full index](../README.md).
+3 of 142 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

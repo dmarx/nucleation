@@ -1,5 +1,8 @@
 ---
+number: 75
 status: Proposed
+formerly:
+- TERM-tmpo92fy
 title: 'attributed self, and which sense: held, imagined, imagined audience or appropriated'
 version: 1
 tags:
@@ -20,13 +23,13 @@ summary: >-
   ("socially operative identity" and "recursive social self-modeling")
   that were first left unfiled. Adoption is the owner's decision.
 used_by:
-- CLAIM-tmpmxjti
-- CLAIM-tmpqodkz
+- CLAIM-425
+- CLAIM-426
 ---
-<!-- inactive-ok-file: CLAIM-402 LIT-1370 LIT-tmp4794j LIT-tmpoe4o7 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-278 CLAIM-355 CLAIM-415 CLAIM-tmpmxjti CASE-tmpa0raf CASE-tmpazqjk CASE-tmp5rsen QUESTION-119 TERM-072 — Proposed; claims, cases, questions and terms cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-402 LIT-1370 LIT-1394 LIT-1398 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-278 CLAIM-355 CLAIM-415 CLAIM-425 CASE-141 CASE-142 CASE-140 QUESTION-119 TERM-072 — Proposed; claims, cases, questions and terms cited as open, nothing here rests on their being settled -->
 
-# TERM-tmpo92fy: attributed self, and which sense: held, imagined, imagined audience or appropriated
+# TERM-075: attributed self, and which sense: held, imagined, imagined audience or appropriated
 
 ## Definition
 
@@ -38,7 +41,7 @@ others. A claim using it should say which of these it means.
    therefore diverge from their private self-understanding". It acts
    through others' treatment of the person whether or not the person knows
    of it or agrees: "The person need not agree with the description for it
-   to affect their life" (A39). [CASE-tmpa0raf](../cases.d/CASE-tmpa0raf.md) is a held attribution
+   to affect their life" (A39). [CASE-141](../cases.d/CASE-141.md) is a held attribution
    confirming itself through a school's treatment of a pupil.
 2. **Imagined attribution.** What the person takes others to take them to
    be. This is Cooley's looking-glass self ([LIT-1379](../literature.d/LIT-1379.md)), "the imagination of
@@ -48,10 +51,10 @@ others. A claim using it should say which of these it means.
    group, "nearly everyone important to them" (A39), or a collective that holds no single
    view. It can diverge from the actual holders of sense 1 in number, in
    unity and in standing. This is [CLAIM-415](../claims.d/CLAIM-415.md)'s false unity, and
-   [CASE-tmp5rsen](../cases.d/CASE-tmp5rsen.md) varies it alone.
+   [CASE-140](../cases.d/CASE-140.md) varies it alone.
 4. **Appropriated attribution.** The attribution taken up by the person as
    part of their own self-model, whether endorsed or flaunted. The couplet
-   of [LIT-tmp4794j](../literature.d/LIT-tmp4794j.md) shows it: after "I am whatever you say I am", "If I
+   of [LIT-1394](../literature.d/LIT-1394.md) shows it: after "I am whatever you say I am", "If I
    wasn't then why would I say I am" claims the label as the speaker's
    own. Only in this sense can an attributed self shape [TERM-045](TERM-045.md)'s
    narrative and presented selves (senses 4 and 7).
@@ -68,7 +71,7 @@ breadth wrongly, or the reverse.
 Each step of [CLAIM-415](../claims.d/CLAIM-415.md) and its cases runs between two senses.
 
 - **1 without 2:** a held attribution acts on someone unaware of it
-  ([CASE-tmpa0raf](../cases.d/CASE-tmpa0raf.md)).
+  ([CASE-141](../cases.d/CASE-141.md)).
 - **2 against 1:** a person misjudges what others think. That is
   pluralistic ignorance, a misjudgement of what others hold ([LIT-1370](../literature.d/LIT-1370.md), not
   reached).
@@ -76,7 +79,7 @@ Each step of [CLAIM-415](../claims.d/CLAIM-415.md) and its cases runs between tw
   majority illusion's skewed sample seen accurately ([LIT-1390](../literature.d/LIT-1390.md)) or a loud
   minority taken for everyone.
 - **2 and 3 shaping conduct without 4:** "rejection does not free"
-  ([CLAIM-415](../claims.d/CLAIM-415.md), [CASE-tmpazqjk](../cases.d/CASE-tmpazqjk.md)). The judgement is never appropriated, and
+  ([CLAIM-415](../claims.d/CLAIM-415.md), [CASE-142](../cases.d/CASE-142.md)). The judgement is never appropriated, and
   still organizes what the person does.
 
 ## What it is not
@@ -92,7 +95,7 @@ Each step of [CLAIM-415](../claims.d/CLAIM-415.md) and its cases runs between tw
 - **Not a new mechanism.** A39 offered its phrase "as a way of integrating
   established mechanisms, not as a new discovery": Cooley's reflected
   appraisal, Hacking's looping effects (held through [CLAIM-402](../claims.d/CLAIM-402.md)),
-  Merton's self-fulfilling prophecy ([LIT-tmpoe4o7](../literature.d/LIT-tmpoe4o7.md)) and pluralistic
+  Merton's self-fulfilling prophecy ([LIT-1398](../literature.d/LIT-1398.md)) and pluralistic
   ignorance. The term names the objects those mechanisms run between.
   It does not add a mechanism.
 
@@ -104,5 +107,5 @@ explains nothing, if no case needed two of its senses to come apart. It
 would be shown wanting if a case needed a fifth. The candidate is a
 judgement the person makes of how they are seen by an audience they know
 to be imaginary, such as posterity, which may belong under sense 3 or may
-not. [CASE-tmp5rsen](../cases.d/CASE-tmp5rsen.md), if run, would show whether sense 3 does work of its
+not. [CASE-140](../cases.d/CASE-140.md), if run, would show whether sense 3 does work of its
 own.

@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**524 documents cited without acknowledgement.** Not listed: 11716 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**525 documents cited without acknowledgement.** Not listed: 11789 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -2393,7 +2393,7 @@ A collective's reasons need not be any of its members' reasons, so aggregating m
 - [`record/cases.d/CASE-110.md:85`](../../record/cases.d/CASE-110.md)
 - [`record/questions.d/QUESTION-082.md:35`](../../record/questions.d/QUESTION-082.md)
 - [`record/questions.d/QUESTION-119.md:17`](../../record/questions.d/QUESTION-119.md)
-- [`record/questions.d/QUESTION-119.md:38`](../../record/questions.d/QUESTION-119.md)
+- [`record/questions.d/QUESTION-119.md:40`](../../record/questions.d/QUESTION-119.md)
 
 ### [CLAIM-277](../../record/claims.d/CLAIM-277.md) — Proposed
 
@@ -2842,8 +2842,8 @@ Cooley — Human nature and the social order
 
 - [`record/literature.d/LIT-1379.md:7`](../../record/literature.d/LIT-1379.md)
 - [`record/literature.d/LIT-1379.md:32`](../../record/literature.d/LIT-1379.md)
-- [`record/literature.d/LIT-1379.md:65`](../../record/literature.d/LIT-1379.md)
-- [`record/literature.d/LIT-1379.md:84`](../../record/literature.d/LIT-1379.md)
+- [`record/literature.d/LIT-1379.md:67`](../../record/literature.d/LIT-1379.md)
+- [`record/literature.d/LIT-1379.md:86`](../../record/literature.d/LIT-1379.md)
 
 ### [NOTE-315](../../record/notes.d/NOTE-315.md) — Skimmed
 
@@ -3251,7 +3251,7 @@ A shared interpretation's coherence, its fidelity to evidence and the plurality 
 
 An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids
 
-3 citations in 3 files await a look; 10 other citations of it are acknowledged.
+3 citations in 3 files await a look; 11 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-332.md:85`](../../record/claims.d/CLAIM-332.md)
 - [`record/decisions.d/ADR-042.md:114`](../../record/decisions.d/ADR-042.md)
@@ -3321,7 +3321,7 @@ No coarse-graining is normatively adequate in general because it preserves stabi
 
 An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited
 
-3 citations in 3 files await a look; 23 other citations of it are acknowledged.
+3 citations in 3 files await a look; 27 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-276.md:95`](../../record/claims.d/CLAIM-276.md)
 - [`record/questions.d/QUESTION-045.md:66`](../../record/questions.d/QUESTION-045.md)
@@ -4098,14 +4098,14 @@ A loosely organized population can change what an outside institution does throu
 
 2 citations in 1 file await a look; 14 other citations of it are acknowledged.
 
-- [`record/questions.d/QUESTION-119.md:48`](../../record/questions.d/QUESTION-119.md)
-- [`record/questions.d/QUESTION-119.md:66`](../../record/questions.d/QUESTION-119.md)
+- [`record/questions.d/QUESTION-119.md:50`](../../record/questions.d/QUESTION-119.md)
+- [`record/questions.d/QUESTION-119.md:68`](../../record/questions.d/QUESTION-119.md)
 
 ### [CLAIM-355](../../record/claims.d/CLAIM-355.md) — Proposed
 
 In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real
 
-2 citations in 1 file await a look; 48 other citations of it are acknowledged.
+2 citations in 1 file await a look; 50 other citations of it are acknowledged.
 
 - [`record/terms.d/TERM-072.md:18`](../../record/terms.d/TERM-072.md)
 - [`record/terms.d/TERM-072.md:103`](../../record/terms.d/TERM-072.md)
@@ -4438,7 +4438,7 @@ In a stable linear Gaussian VAR(1), does a scalar linear coarse variable whose r
 
 perspective, and which sense: organizational, represented or phenomenal
 
-2 citations in 2 files await a look; 60 other citations of it are acknowledged.
+2 citations in 2 files await a look; 61 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-355.md:250`](../../record/claims.d/CLAIM-355.md)
 - [`record/claims.d/CLAIM-413.md:180`](../../record/claims.d/CLAIM-413.md)
@@ -5260,6 +5260,14 @@ The deep-versus-shallow learning results separate three effects that aggregate l
 1 citation in 1 file awaits a look; 2 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-115.md:79`](../../record/cases.d/CASE-115.md)
+
+### [CLAIM-415](../../record/claims.d/CLAIM-415.md) — Proposed
+
+A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential
+
+1 citation in 1 file awaits a look; 28 other citations of it are acknowledged.
+
+- [`record/terms.d/TERM-045.md:170`](../../record/terms.d/TERM-045.md)
 
 ### [CLAIM-418](../../record/claims.d/CLAIM-418.md) — Proposed
 

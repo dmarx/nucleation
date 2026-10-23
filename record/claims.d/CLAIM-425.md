@@ -1,5 +1,8 @@
 ---
+number: 425
 status: Proposed
+formerly:
+- CLAIM-tmpmxjti
 title: 'A perspective governs itself with respect to social judgement to the extent that it keeps access to others'' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response'
 version: 1
 role: thesis
@@ -27,9 +30,9 @@ rests_on:
 complements:
 - CLAIM-424
 uses:
-- TERM-tmpo92fy
+- TERM-075
 grounds:
-- CASE-tmpazqjk
+- CASE-142
 summary: >-
   A39's closing thesis and its fourth reading of "I am whatever you say I
   am", in the exchange of 2026-10-22, filed at the owner's request. A39:
@@ -40,11 +43,11 @@ summary: >-
   edge: the opposite of conformity is not independence, since resisting
   every judgement is governed by the judgements as much as obeying them.
 objected_by:
-- CLAIM-tmpqodkz
+- CLAIM-426
 ---
-<!-- inactive-ok-file: CLAIM-349 CLAIM-415 CLAIM-424 CASE-tmpazqjk CASE-tmp5rsen TERM-tmpo92fy — Proposed; claims, cases and terms cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-349 CLAIM-415 CLAIM-424 CASE-142 CASE-140 TERM-075 — Proposed; claims, cases and terms cited as open, nothing here rests on their being settled -->
 
-# CLAIM-tmpmxjti: A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response
+# CLAIM-425: A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response
 
 ## The claim
 
@@ -74,8 +77,8 @@ The claim has three parts.
 3. **Neither absorbing nor resisting meets it.** A39: "someone who
    deliberately resists every social judgment may be no less governed by
    the judgments than someone who obeys every one. In both cases, the
-   external judgments can set the terms of their response." [CASE-tmpazqjk](../cases.d/CASE-tmpazqjk.md)
-   is the resistance route; [CASE-tmpa0raf](../cases.d/CASE-tmpa0raf.md), where the label works through
+   external judgments can set the terms of their response." [CASE-142](../cases.d/CASE-142.md)
+   is the resistance route; [CASE-141](../cases.d/CASE-141.md), where the label works through
    others' treatment, is a reminder that the capacity governs one's own
    response, not what others do with the label.
 
@@ -98,4 +101,4 @@ judgements others hold of a person.
   consequential "depends on relationships of trust, social power, history,
   context, and the person's own practical organization" (A39). Others'
   attributions act through their treatment of the person whatever the
-  person's response ([TERM-tmpo92fy](../terms.d/TERM-tmpo92fy.md), sense 1).
+  person's response ([TERM-075](../terms.d/TERM-075.md), sense 1).

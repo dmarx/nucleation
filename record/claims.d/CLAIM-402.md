@@ -52,7 +52,7 @@ summary: >-
 complements:
 - CLAIM-416
 illustrated_by:
-- CASE-tmpa0raf
+- CASE-141
 ---
 <!-- inactive-ok-file: QUESTION-007 — Deferred; named only in the owner's question as quoted -->
 <!-- inactive-ok-file: THEORY-854 — Proposed; Espeland and Sauder's validity-raising loop stated generally, cited beside the Active reading of the study, and this claim is Proposed with it -->

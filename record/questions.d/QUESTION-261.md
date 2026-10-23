@@ -1,5 +1,8 @@
 ---
+number: 261
 status: Open
+formerly:
+- QUESTION-tmp3113l
 title: 'When most members of a group privately reject a norm that a vocal minority and widespread silence make look overwhelmingly supported, does correcting information about the actual distribution of opinion dissolve the apparent consensus, or has the public norm by then acquired an institutional force that no longer depends on anyone believing it is supported?'
 version: 1
 tags:
@@ -17,9 +20,9 @@ summary: >-
   stance credited to it, and then built on, outlives the discovery that
   the population never held it.
 ---
-<!-- inactive-ok-file: CLAIM-415 CASE-tmp5rsen QUESTION-119 THEORY-242 LIT-1370 LIT-1390 — Proposed or Unavailable; claims, questions, cases and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-415 CASE-140 QUESTION-119 THEORY-242 LIT-1370 LIT-1390 — Proposed or Unavailable; claims, questions, cases and readings cited as open, nothing here rests on their being settled -->
 
-# QUESTION-tmp3113l: When most members of a group privately reject a norm that a vocal minority and widespread silence make look overwhelmingly supported, does correcting information about the actual distribution of opinion dissolve the apparent consensus, or has the public norm by then acquired an institutional force that no longer depends on anyone believing it is supported?
+# QUESTION-261: When most members of a group privately reject a norm that a vocal minority and widespread silence make look overwhelmingly supported, does correcting information about the actual distribution of opinion dissolve the apparent consensus, or has the public norm by then acquired an institutional force that no longer depends on anyone believing it is supported?
 
 ## Why it is a question
 
@@ -40,7 +43,7 @@ what happens when it is exposed.
   [LIT-1370](../literature.d/LIT-1370.md), not reached).
 - **What it does to a person.** [CLAIM-415](../claims.d/CLAIM-415.md): a person can be organized by a
   judgement attributed to a collective that does not hold it, and
-  [CASE-tmp5rsen](../cases.d/CASE-tmp5rsen.md) would test whether the attributed breadth does that work.
+  [CASE-140](../cases.d/CASE-140.md) would test whether the attributed breadth does that work.
 - **What is missing.** Both answers are possible. If the norm is held up
   only by each member's belief about the others, correcting the belief
   should dissolve it. If the norm has been written into rules, roles,

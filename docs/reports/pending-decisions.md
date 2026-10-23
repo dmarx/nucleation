@@ -5,11 +5,11 @@
 
 `Proposed` and `Deferred` both describe an open question. Neither says *since when*, and that is the signal: a decision proposed last week is pending; the same one a year later was either overdue or settled in code and never written back.
 
-**822 document(s) awaiting a decision.**
+**830 document(s) awaiting a decision.**
 
 ## LITs
 
-92 of the 822.
+97 of the 830.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -105,10 +105,15 @@
 | 2026-10-18 | Deferred | [LIT-1235](../../record/literature.d/LIT-1235.md) | 0 | 0 | What can ecosystems learn? Expanding evolutionary ecology with learning theory |
 | 2026-10-18 | Deferred | [LIT-1236](../../record/literature.d/LIT-1236.md) | 0 | 0 | Phase Transition to Chaos in Complex Ecosystems with Nonreciprocal Species-Resource Interactions |
 | 2026-10-18 | Deferred | [LIT-1237](../../record/literature.d/LIT-1237.md) | 0 | 0 | Linking modern coexistence theory and contemporary niche theory |
+| 2026-10-22 | Deferred | [LIT-1398](../../record/literature.d/LIT-1398.md) | 4 | 0 | The Self-Fulfilling Prophecy |
+| 2026-10-22 | Deferred | [LIT-1394](../../record/literature.d/LIT-1394.md) | 3 | 0 | The Way I Am |
+| 2026-10-23 | Deferred | [LIT-1396](../../record/literature.d/LIT-1396.md) | 3 | 0 | Hyperstition: An Introduction |
+| 2026-10-23 | Deferred | [LIT-1395](../../record/literature.d/LIT-1395.md) | 1 | 0 | An Engine, Not a Camera: How Financial Models Shape Markets |
+| 2026-10-23 | Deferred | [LIT-1397](../../record/literature.d/LIT-1397.md) | 1 | 0 | Fallibility, reflexivity, and the human uncertainty principle |
 
 ## THEORYs
 
-472 of the 822.
+472 of the 830.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -264,10 +269,10 @@
 | 2026-10-14 | Proposed | [THEORY-317](../../record/theory.d/THEORY-317.md) | 19 | 0 | Epistemic injustice wrongs a person in her capacity as a knower, testimonially through a hearer's prejudicially deflated credibility judgement, and hermeneutically through a gap in shared interpretive resources owed to her group's relative powerlessness, with no hearer's prejudice required |
 | 2026-10-14 | Proposed | [THEORY-323](../../record/theory.d/THEORY-323.md) | 19 | 0 | Under spatially uncorrelated white noise, a stable non-normal linear system holds more variance than the sum of its pole contributions, and equality holds only when the operator is normal, so its spectrum understates the standing variance |
 | 2026-10-14 | Proposed | [THEORY-240](../../record/theory.d/THEORY-240.md) | 15 | 0 | Loss of consciousness under propofol and in chronic disorders of consciousness goes with reduced pairwise integrated information between default-mode regions that rank as gateways of a synergy-defined workspace, not between its broadcasters |
+| 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 15 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
 | 2026-10-14 | Proposed | [THEORY-249](../../record/theory.d/THEORY-249.md) | 14 | 1 | Whether a system has agency can be settled only relative to a reference frame: each of four conditions of agency (a boundary, being the source of action, meaningful goal-directedness and adaptivity) needs a commitment outside the system before it can be decided |
 | 2026-10-14 | Proposed | [THEORY-288](../../record/theory.d/THEORY-288.md) | 14 | 0 | In small CIFAR and MNIST autoencoders whose only basis-privileging primitive is the activation function, elementwise tanh and Leaky-ReLU concentrate latent representations into narrow beams arranged by the activation's discrete symmetry group, even in layers no activation precedes, while their orthogonally equivariant radial counterparts leave them spread, so axis-aligned discreteness there comes from the primitive, not the task |
 | 2026-10-14 | Proposed | [THEORY-326](../../record/theory.d/THEORY-326.md) | 14 | 2 | Hermeneutical injustice is having a significant area of one's social experience obscured from collective understanding owing to hermeneutical marginalisation, which may be systematic or incidental, so it does not require that the subject belong to a powerless social group |
-| 2026-10-14 | Proposed | [THEORY-242](../../record/theory.d/THEORY-242.md) | 13 | 0 | A spiral of silence can make a small, fixed minority opinion look far more widespread than it is without any member changing belief, and in the model that shows it the network's direct distortion of what members see is small |
 | 2026-10-14 | Proposed | [THEORY-265](../../record/theory.d/THEORY-265.md) | 13 | 1 | In a minimal model of bistable deciders in a modular coordination game, phase synchronisation within strongly coupled modules, driven only by each unit's local payoff, makes each module respond to the others as a single unit, and synchrony matched to the modules is needed: global synchrony does not |
 | 2026-10-14 | Proposed | [THEORY-304](../../record/theory.d/THEORY-304.md) | 13 | 0 | In plane Couette and Poiseuille flow the linearized operator is so far from normal that perturbations can grow transiently by O(R) and resonate by O(R²), and operator perturbations of size O(R⁻²) make it eigenvalue-unstable, at Reynolds numbers where eigenvalue analysis predicts stability |
 | 2026-10-14 | Proposed | [THEORY-322](../../record/theory.d/THEORY-322.md) | 12 | 0 | The sense of agency over an action's outcome draws on prospective signals from action selection and outcome prediction, not only on retrospective comparison of outcome with prediction |
@@ -587,7 +592,7 @@
 
 ## ADRs
 
-2 of the 822.
+2 of the 830.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -596,7 +601,7 @@
 
 ## QUESTIONs
 
-9 of the 822.
+9 of the 830.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -612,7 +617,7 @@
 
 ## CLAIMs
 
-237 of the 822.
+239 of the 830.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -774,7 +779,7 @@
 | 2026-10-13 | Proposed | [CLAIM-279](../../record/claims.d/CLAIM-279.md) | 20 | 2 | Whether an intervention stabilizes or destabilizes a pattern is relative to a policy and a frame, so denoiser, critic and re-noiser are regimes an operator falls into, not kinds of operator |
 | 2026-10-13 | Proposed | [CLAIM-287](../../record/claims.d/CLAIM-287.md) | 17 | 4 | What persists when a self persists through inactivity is the capacity to reinstate an organization, not its continuous running, and continuity of that kind can branch and merge, so it is not an identity relation |
 | 2026-10-13 | Proposed | [CLAIM-269](../../record/claims.d/CLAIM-269.md) | 14 | 7 | A regularized linear readout can tell apart only representations that differ in normalized kernel, and kernels fix a representation only up to the symmetry of what is observed, so any distinction beyond that is supplied by the analyst, not by the readouts |
-| 2026-10-13 | Proposed | [CLAIM-278](../../record/claims.d/CLAIM-278.md) | 13 | 3 | An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids |
+| 2026-10-13 | Proposed | [CLAIM-278](../../record/claims.d/CLAIM-278.md) | 14 | 3 | An operator framework flexible enough to redescribe any dynamical process explains none of them until it forbids some outcome, and the shared-organization thesis has not yet said what it forbids |
 | 2026-10-13 | Proposed | [CLAIM-273](../../record/claims.d/CLAIM-273.md) | 11 | 1 | A maintained r/place artwork is a dissipative structure in Prigogine's structural sense, order held only by a sustained flow of repair against rival coalitions and against unaffiliated placement whose rate falls over the event, but its order is imported from a design and not born of an instability |
 | 2026-10-13 | Proposed | [CLAIM-274](../../record/claims.d/CLAIM-274.md) | 11 | 1 | Participation on a shared canvas thins selectively: people keep coming back while art they invested in survives, so unaffiliated corruption falls over the event and the remaining participants are weighted toward maintainers, a cooling schedule the population produces for itself |
 | 2026-10-13 | Proposed | [CLAIM-281](../../record/claims.d/CLAIM-281.md) | 9 | 1 | Endorsement indexed by role lets a process empower another as a critic while opposing its preferred policy, so an organization that allocates authority by role can keep disagreement working inside it instead of sorting into factions |
@@ -812,9 +817,9 @@
 | 2026-10-16 | Proposed | [CLAIM-336](../../record/claims.d/CLAIM-336.md) | 6 | 3 | The pragmatic-transport and will-organization lines describe one model, an organization of operators that act on a shared interpretive state under a context while allocating one another's influence: a frame is the context under which operators act, a judgement is the response they yield, an action-generating regime is an operator or coalition, and a will-organization is the dynamics that allocates influence among them |
 | 2026-10-16 | Proposed | [CLAIM-328](../../record/claims.d/CLAIM-328.md) | 1 | 1 | When the continuities that ordinarily come bundled in a collective (legal franchise, civic role, interpersonal transmission, narrative and place) are separated, several later collectives can each be a genuine successor of the earlier one in a different respect, without any of them, or the earlier collective, having branched in numerical identity |
 | 2026-10-17 | Proposed | [CLAIM-338](../../record/claims.d/CLAIM-338.md) | 1 | 0 | The selectivity active inference gives action, sampling what one expects to experience, is played in the coupled meaning–authority model by the authority space: influence decides which operators retrieve and so what the next judgement observes, which makes Friston's self-confirming sampling the model's authority-to-interpretation arrow and his agent a coupled loop run without independent scoring |
-| 2026-10-18 | Proposed | [CLAIM-355](../../record/claims.d/CLAIM-355.md) | 50 | 2 | In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real |
+| 2026-10-18 | Proposed | [CLAIM-355](../../record/claims.d/CLAIM-355.md) | 52 | 2 | In a distributed agent the binding of appraisal, readiness and governance into one response can be real while the single owner a self-model or collective self-description attributes it to is a representational construction, not a further entity; the illusion, where there is one, is in the attribution and belongs to whichever system adopts the representation, and this deflates the self without settling whether experience is real |
 | 2026-10-18 | Proposed | [CLAIM-347](../../record/claims.d/CLAIM-347.md) | 35 | 22 | Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief |
-| 2026-10-18 | Proposed | [CLAIM-349](../../record/claims.d/CLAIM-349.md) | 26 | 3 | An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited |
+| 2026-10-18 | Proposed | [CLAIM-349](../../record/claims.d/CLAIM-349.md) | 30 | 3 | An organization's access to a signal, the signal's authority over action, and action on it are separable, and adaptive regulation keeps the first while making the second conditional on evidence; overcontrol, which buys freedom from harmful acts by cutting access or making inhibition unconditional, is a maladaptive regime and not more control, so flexibility is a context-sensitive property of maintained influence relations, not of how much is inhibited |
 | 2026-10-18 | Proposed | [CLAIM-348](../../record/claims.d/CLAIM-348.md) | 17 | 3 | No coarse-graining is normatively adequate in general because it preserves stability, prediction or aggregate performance: a description adequate for an institution's performance can merge states its members' claims must distinguish, so adequacy is fixed by the evaluative target, and the target cannot be justified by the description that preserves it |
 | 2026-10-18 | Proposed | [CLAIM-362](../../record/claims.d/CLAIM-362.md) | 15 | 4 | Non-domination of an agent's subcomponents is a candidate constituent of authenticity as an organizational achievement, not a sufficient criterion of ownership: higher-level processes need not impose the outcome because the lower-level ones already support it or settle their disagreement among themselves, and a process that rarely decides keeps access to the roles in which it is consequential |
 | 2026-10-18 | Proposed | [CLAIM-357](../../record/claims.d/CLAIM-357.md) | 14 | 14 | The frustration residual and governance regret separate structural infeasibility, realized violation and minimax suboptimality, and identify none of them as thwarting: a positive residual says no admissible update meets every declared requirement, a positive regret only that the actual update's worst residual exceeds the best achievable, which can hold while every requirement is met, and actual violation needs regret above the negative residual; aggregate performance does not tell infeasibility from realized violation, and the multipliers that certify infeasibility are not the weights governance assigns |
@@ -836,27 +841,29 @@
 | 2026-10-21 | Proposed | [CLAIM-412](../../record/claims.d/CLAIM-412.md) | 63 | 0 | Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience |
 | 2026-10-21 | Proposed | [CLAIM-411](../../record/claims.d/CLAIM-411.md) | 39 | 0 | Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight's apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential |
 | 2026-10-21 | Proposed | [CLAIM-404](../../record/claims.d/CLAIM-404.md) | 37 | 0 | An organization can be governed from outside without any of its decisions being made for it, through the evidence its own procedures receive or through the criteria by which they weigh evidence; the two routes are distinct and each is possible without the other, so informational and evaluative independence do not imply each other; and where the organization's role is to evaluate another that affects its evidence or resources, the interpretation–authority loop can close between the two institutions, so that formal independence of the evaluator's procedure does not make its evaluation independent |
+| 2026-10-21 | Proposed | [CLAIM-402](../../record/claims.d/CLAIM-402.md) | 25 | 0 | Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category's own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent |
 | 2026-10-21 | Proposed | [CLAIM-403](../../record/claims.d/CLAIM-403.md) | 25 | 0 | A contribution's admission to an organization's inquiry, its recognition in apt terms, its credibility, its uptake into judgements, and its contributor's part in revising the standards of uptake are separable, each possible without the later ones, so an organization can widen access while every channel by which a less authoritative contribution could change the criteria of authority stays closed |
 | 2026-10-21 | Proposed | [CLAIM-413](../../record/claims.d/CLAIM-413.md) | 25 | 0 | Grounding is not a property of an experience but a relation among an interpretation, what it purports to be about, and a process that constrains it independently; in its current, developmental and epistemic senses it comes apart from whether the interpretation occurs, so ungrounded is not unconstrained, and what makes an interpretive organization experiential need not be what makes its contents veridical |
-| 2026-10-21 | Proposed | [CLAIM-402](../../record/claims.d/CLAIM-402.md) | 21 | 0 | Predictive success of a category across contexts warrants treating it as a real effective kind only when the evidence in those contexts does not pass through the category's own use, or when the effect of that use is modelled: a category that speakers or institutions act on can produce the regularities that confirm it, and contexts that share its use are not independent |
 | 2026-10-21 | Proposed | [CLAIM-406](../../record/claims.d/CLAIM-406.md) | 16 | 0 | Structural, pre-emptive testimonial injustice has the form of the record's trust loop: an arrangement that decides whose word is sought can keep an early exclusion going through the indicators of competence that only being sought produces, with no continuing prejudiced act; but the loop alone cannot tell perpetuated privilege from merited expertise, because that needs the prejudice condition the dynamics do not contain |
 | 2026-10-21 | Proposed | [CLAIM-410](../../record/claims.d/CLAIM-410.md) | 11 | 0 | Removing a constraint on an organization's members does not move it along one scale of more or less governance: it changes a profile of who holds rule-making, monitoring, enforcement, appeal and revision, in which the authority the constraint held can be eliminated, distributed or transferred, and the members' first-order options and their share in revising the conditions of their action can move in opposite directions |
 | 2026-10-21 | Proposed | [CLAIM-401](../../record/claims.d/CLAIM-401.md) | 5 | 0 | The conditions an effective description is commonly asked to meet are not of one kind: predictive sufficiency and approximation fidelity are adequacy relative to a declared target, metric and horizon; tractability restricts the operations under which adequacy is assessed; dynamical independence and memory closure are relations of the representation to the system, memory relative to a chosen projection; so a matrix over them as independent binary axes conflates kinds |
 | 2026-10-21 | Proposed | [CLAIM-405](../../record/claims.d/CLAIM-405.md) | 3 | 0 | An individuation is well defined only once its criterion is fixed (the target it serves, the transformations its unity must survive, the scale), and that dependence does not make it arbitrary: once the criterion is fixed a verdict can be false, and differently fixed criteria can pick out units of one system whose boundaries cross rather than nest, none of them less real for it |
 | 2026-10-22 | Proposed | [CLAIM-417](../../record/claims.d/CLAIM-417.md) | 35 | 0 | What the record explained by "self" in its dispositional, persisting, self-governing and integrated senses is better explained by organizational perspectives, with a perspective, its carriers, its lineage and its representations kept apart; the subject sense stays a separate question, and narrative, presented and modeled selves involve representations that may describe a perspective, attribute it to a bearer or construct an owner, none of them the perspective itself |
+| 2026-10-22 | Proposed | [CLAIM-415](../../record/claims.d/CLAIM-415.md) | 29 | 1 | A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential |
 | 2026-10-22 | Proposed | [CLAIM-416](../../record/claims.d/CLAIM-416.md) | 20 | 0 | Competing perspectives compete over the tests that measure them as well as under them: success under an evaluative regime is evidence of competence relative to that regime, a fair test need not be neutral across competences, and a perspective that gains influence over the test can change what later success shows |
 | 2026-10-22 | Proposed | [CLAIM-423](../../record/claims.d/CLAIM-423.md) | 19 | 0 | In a political collective, components that change at different speeds (attention, coalitions, elected terms, administrative careers, law and treaties, generational memory) are not only nested by timescale: under a given institutional arrangement their different temporal horizons affect which forms of influence each can accumulate, exercise and keep, and so which of them holds authority over the others, so a state can stay continuous as an actor while the organization producing its positions changes under it |
 | 2026-10-22 | Proposed | [CLAIM-422](../../record/claims.d/CLAIM-422.md) | 18 | 2 | A successful corrective act, an executable procedure and a maintained organizational capacity are three different things, so an organization can record a correction, even rewrite its rules, without the corrected capacity being maintained |
 | 2026-10-22 | Proposed | [CLAIM-421](../../record/claims.d/CLAIM-421.md) | 17 | 0 | The cessation of an organizational perspective's enactment need not imply the loss of the dispositions, capacities or reproductive relationships from which it can be reinstated: an interruption can be of activation (the disposition is held but not engaged or retrievable), of enactment (held, but the material, institutional or social conditions for exercising it are gone) or of reproduction (held by some bearers, but the processes that pass it on are damaged), and temporary unavailability is not extinction, though prolonged interruption of reproduction can end a tradition |
-| 2026-10-22 | Proposed | [CLAIM-424](../../record/claims.d/CLAIM-424.md) | 15 | 0 | Reflexive governance of an organization's perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well |
-| 2026-10-22 | Proposed | [CLAIM-415](../../record/claims.d/CLAIM-415.md) | 14 | 0 | A person can be organized by a judgement they attribute to a collective that does not hold it: the audience in a self-model can be a false unity as the owner can, and a judgement can shape a person who rejects it, because resisting it makes it consequential |
+| 2026-10-22 | Proposed | [CLAIM-424](../../record/claims.d/CLAIM-424.md) | 16 | 0 | Reflexive governance of an organization's perspectival arrangements, making the conditions that govern its own interpretation, evaluation and action available for effective examination and revision, is a capacity some organizations of perspective have and others lack, not what makes something a perspective or a self; and the capacity to revise those standards is not the capacity to revise them well |
 | 2026-10-22 | Proposed | [CLAIM-420](../../record/claims.d/CLAIM-420.md) | 12 | 0 | A historical figure's influence can persist in three separable ways, as a story about them, as a perspective transmitted from them, and as later organizations that descend from their activity, and causal descent is not perspectival inheritance: a movement founded to oppose someone descends from them without continuing their perspective |
+| 2026-10-22 | Proposed | [CLAIM-425](../../record/claims.d/CLAIM-425.md) | 9 | 0 | A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response |
 | 2026-10-22 | Proposed | [CLAIM-418](../../record/claims.d/CLAIM-418.md) | 4 | 1 | Possessing, enacting or being shaped by an organizational perspective does not establish an independent agent, and perspectival, agential and institutional boundaries need not coincide: several agents can share a perspective, one agent can act through several, and a perspective can be reproduced with no agent governing it; where a perspective contributes to an agent's activity it can enable and constrain the exercise of agency, and that exercise can reproduce or transform it, while whether agency universally requires such a perspective stays open |
 | 2026-10-22 | Proposed | [CLAIM-419](../../record/claims.d/CLAIM-419.md) | 2 | 0 | The record's grammar is fixed at any moment but amendable by decision, and in practice a move that fit no scheme or relation has been treated as a defect of the grammar and answered by amending it, so a move the grammar cannot hold is not only forced or lost; whether every such move is caught is not shown |
+| 2026-10-23 | Proposed | [CLAIM-426](../../record/claims.d/CLAIM-426.md) | 7 | 0 | Where a judgement's circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement's authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become |
 
 ## CASEs
 
-1 of the 822.
+1 of the 830.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -864,7 +871,7 @@
 
 ## TERMs
 
-7 of the 822.
+8 of the 830.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|
@@ -872,13 +879,14 @@
 | 2026-10-04 | Deferred | [TERM-012](../../record/terms.d/TERM-012.md) | 2 | 0 | cross-scale concordance |
 | 2026-10-21 | Proposed | [TERM-066](../../record/terms.d/TERM-066.md) | 15 | 0 | interpretive capture, of an organization's evaluation: the condition in which the processes that read evidence, score constituents and allocate authority are driven by the interpretation or party being evaluated more than by evidence independent of it, so that authority amplifies or holds an interpretation without a gain in fidelity; judged against a standard specified apart from the captured process |
 | 2026-10-21 | Proposed | [TERM-063](../../record/terms.d/TERM-063.md) | 10 | 0 | agent, as an individual that is the active source of modulations of its coupling with its environment and regulates them against norms its own organization sets (Barandiaran, Di Paolo and Rohde) |
-| 2026-10-22 | Proposed | [TERM-072](../../record/terms.d/TERM-072.md) | 62 | 2 | perspective, and which sense: organizational, represented or phenomenal |
+| 2026-10-22 | Proposed | [TERM-072](../../record/terms.d/TERM-072.md) | 63 | 2 | perspective, and which sense: organizational, represented or phenomenal |
 | 2026-10-22 | Proposed | [TERM-073](../../record/terms.d/TERM-073.md) | 25 | 1 | interpretation, as a context-dependent determination of significance: a transformation that differentiates information and establishes or revises its consequences within an operative organization, defined without experience |
+| 2026-10-22 | Proposed | [TERM-075](../../record/terms.d/TERM-075.md) | 12 | 0 | attributed self, and which sense: held, imagined, imagined audience or appropriated |
 | 2026-10-22 | Proposed | [TERM-074](../../record/terms.d/TERM-074.md) | 4 | 0 | organization, and which sense: relational arrangement, organizational maintenance, collective institution or organizational closure |
 
 ## ARGs
 
-2 of the 822.
+2 of the 830.
 
 | Open since | Status | Code | Cited | Unack. | Title |
 |---|---|---|--:|--:|---|

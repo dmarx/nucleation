@@ -32,7 +32,7 @@ rests_on:
 - CLAIM-025
 complements:
 - CLAIM-284
-- CLAIM-tmpmxjti
+- CLAIM-425
 uses:
 - TERM-072
 works:

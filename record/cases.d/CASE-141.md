@@ -1,5 +1,8 @@
 ---
+number: 141
 status: Active
+formerly:
+- CASE-tmpa0raf
 title: 'The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil''s frustration produces real misconduct, and the label looks justified in hindsight'
 version: 1
 standing: fictional
@@ -14,19 +17,19 @@ illustrates:
 - CLAIM-415
 summary: >-
   A39's second reading of "I am whatever you say I am", in the exchange of
-  2026-10-22, filed at the owner's request with its variant [CASE-tmpazqjk](CASE-tmpazqjk.md).
+  2026-10-22, filed at the owner's request with its variant [CASE-142](CASE-142.md).
   An attribution can produce the conduct that later seems to justify it,
   through the institution's response to the attribution, not through the
   pupil's coming to believe it. Not shown: how often labels work this way;
   A39: "That's a possible self-fulfilling process, not a universal
   consequence of stigmatizing labels."
 variants:
-- CASE-tmpazqjk
+- CASE-142
 ---
-<!-- inactive-ok-file: TERM-tmpo92fy — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
-<!-- inactive-ok-file: CLAIM-402 CLAIM-415 LIT-tmpoe4o7 — Proposed or Deferred; a claim the case illustrates and a work registered unread, cited as such -->
+<!-- inactive-ok-file: TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-402 CLAIM-415 LIT-1398 — Proposed or Deferred; a claim the case illustrates and a work registered unread, cited as such -->
 
-# CASE-tmpa0raf: The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight
+# CASE-141: The label that confirms itself: a pupil wrongly labelled disruptive is watched more closely, ordinary conduct is read as misconduct, the pupil's frustration produces real misconduct, and the label looks justified in hindsight
 
 ## The case
 
@@ -45,7 +48,7 @@ treatment, which changes what counts as evidence and what the pupil faces.
 - **The attribution acts through others, not through belief.** The first
   reading A39 gave: "The person need not agree with the description for it
   to affect their life." The label works on the pupil by way of the
-  teachers' scrutiny and interpretation, which is [TERM-tmpo92fy](../terms.d/TERM-tmpo92fy.md)'s held
+  teachers' scrutiny and interpretation, which is [TERM-075](../terms.d/TERM-075.md)'s held
   attribution doing the work, with no change in the pupil's own.
 - **Evidence that passes through the category's use.** The later
   misconduct is real, and it was produced in part by applying the label.
@@ -54,7 +57,7 @@ treatment, which changes what counts as evidence and what the pupil faces.
   institutional consequences of that attribution helped produce later
   behavior that makes it appear retrospectively justified" (A39).
 - **The mechanism has a name and a source.** It is Merton's
-  self-fulfilling prophecy ([LIT-tmpoe4o7](../literature.d/LIT-tmpoe4o7.md), registered unread), and the
+  self-fulfilling prophecy ([LIT-1398](../literature.d/LIT-1398.md), registered unread), and the
   looping effects the record holds through [CLAIM-402](../claims.d/CLAIM-402.md). Espeland and Sauder
   ([LIT-1330](../literature.d/LIT-1330.md)) document the same mechanism for public rankings.
 
@@ -63,5 +66,5 @@ treatment, which changes what counts as evidence and what the pupil faces.
 - That labels generally do this. It is stipulated, and A39 limited it at
   once (in the summary).
 - Whether the pupil's later conduct changes the pupil's perspective or only
-  their situation. The case is compatible with either; [CASE-tmpazqjk](CASE-tmpazqjk.md) is the
+  their situation. The case is compatible with either; [CASE-142](CASE-142.md) is the
   variant in which the person's own organization changes, by resistance.

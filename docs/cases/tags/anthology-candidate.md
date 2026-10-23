@@ -6,7 +6,7 @@
 
 **Anthology candidate** — a curation flag, not a subject — somebody judged the Anthology of the SOTA may want this work as well; it stays here unless a transfer is decided, and is never a primary topic (ADR-005, ADR-048; group: flags).
 
-0 of 139 CASE documents. Back to the [full index](../README.md).
+0 of 142 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

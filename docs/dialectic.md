@@ -2,7 +2,7 @@
 
 # Objections and replies
 
-43 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
+44 lines, walked from `objects_to:` on CLAIM documents. Each step explains itself; this page is the order they came in.
 
 ## From Sheaf-theoretic contextuality has to be extended to directed transport between observational scenarios whose covers change, and that extension is the theory's open mathematical problem
 
@@ -305,3 +305,8 @@
 
 - [CLAIM-412](../record/claims.d/CLAIM-412.md) — Experience is constituted by interpretive organization, not produced by it: an appropriately organized process in which signals acquire significance for a system is the experience, so whether a system can have experience becomes whether it can sustain that organization; the illusions and reappraisals that motivate it show that experience is constructed, not that construction is experience *(thesis, Proposed)*
   - [CLAIM-411](../record/claims.d/CLAIM-411.md) — Under the broad, nonphenomenal definition of interpretation the constitutive thesis uses, substantial processing that is not independently shown to be experiential meets the definition, blindsight's apparently unconscious visual discrimination among it, so interpretation alone does not establish experience, and the thesis must say which further organizational properties, if any, make an interpretation experiential *(counter, Proposed)*
+
+## From A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response
+
+- [CLAIM-425](../record/claims.d/CLAIM-425.md) — A perspective governs itself with respect to social judgement to the extent that it keeps access to others' judgements of it while making their authority over its conduct depend on their grounds, not on their visibility, repetition or attributed plurality; neither absorbing every judgement nor resisting every one meets this, since both let the judgements set the terms of response *(thesis, Proposed)*
+  - [CLAIM-426](../record/claims.d/CLAIM-426.md) — Where a judgement's circulation helps bring about what it says, its visibility, repetition and attributed plurality are evidence about what it will bring about, so the rule that a judgement's authority should come from its grounds and not its visibility holds for judgements of what already is, and not without qualification for judgements of what someone or something will become *(counter, Proposed)*

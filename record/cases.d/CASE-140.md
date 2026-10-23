@@ -1,5 +1,8 @@
 ---
+number: 140
 status: Active
+formerly:
+- CASE-tmp5rsen
 title: 'The attributed self: two people with similar dispositions hear the same negative characterization, one told it comes from a few critics and the other believing it speaks for nearly everyone who matters to them, so that the words are fixed and only their attributed breadth differs'
 version: 1
 standing: fictional
@@ -19,9 +22,9 @@ summary: >-
   from the social authority attributed to it." As stipulated it predicts
   nothing; run with real people, it would test [CLAIM-415](../claims.d/CLAIM-415.md).
 ---
-<!-- inactive-ok-file: CLAIM-415 CLAIM-tmpmxjti QUESTION-119 THEORY-242 TERM-tmpo92fy LIT-1370 — Proposed or Unavailable; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
+<!-- inactive-ok-file: CLAIM-415 CLAIM-425 QUESTION-119 THEORY-242 TERM-075 LIT-1370 — Proposed or Unavailable; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
-# CASE-tmp5rsen: The attributed self: two people with similar dispositions hear the same negative characterization, one told it comes from a few critics and the other believing it speaks for nearly everyone who matters to them, so that the words are fixed and only their attributed breadth differs
+# CASE-140: The attributed self: two people with similar dispositions hear the same negative characterization, one told it comes from a few critics and the other believing it speaks for nearly everyone who matters to them, so that the words are fixed and only their attributed breadth differs
 
 ## The case
 
@@ -33,7 +36,7 @@ Does the attributed breadth of opinion change their self-interpretation,
 conduct, or willingness to reconsider the characterization?"
 
 Held fixed: the words, the dispositions, and the actual critics. Varied:
-only [TERM-tmpo92fy](../terms.d/TERM-tmpo92fy.md)'s imagined audience, who the hearer takes "them" to be.
+only [TERM-075](../terms.d/TERM-075.md)'s imagined audience, who the hearer takes "them" to be.
 
 ## What it can show
 

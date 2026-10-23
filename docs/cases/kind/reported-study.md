@@ -6,7 +6,7 @@
 
 **Reported study** — an empirical study others ran and published, used as a case.
 
-6 of 139 CASE documents. Back to the [full index](../README.md).
+6 of 142 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

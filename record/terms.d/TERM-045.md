@@ -31,7 +31,7 @@ history:
 - version: 5
   date: '2026-10-22'
   note: >-
-    Note of 2026-10-22 added: TERM-tmpo92fy (Proposed) separates the
+    Note of 2026-10-22 added: TERM-075 (Proposed) separates the
     selves others attribute to a person from the seven senses here, all
     of which the person holds or gives. The definition is unchanged.
 tags:
@@ -62,9 +62,9 @@ used_by:
 - CLAIM-355
 - CLAIM-417
 complements:
-- TERM-tmpo92fy
+- TERM-075
 ---
-<!-- inactive-ok-file: TERM-tmpo92fy — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
+<!-- inactive-ok-file: TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-417 CLAIM-424 TERM-072 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 <!-- inactive-ok-file: CLAIM-169 — Proposed; the claim whose sense of self prompted sense 6, open -->
 <!-- inactive-ok-file: CLAIM-165 CLAIM-161 CLAIM-155 CLAIM-196 — Proposed; claims named as using particular senses, open -->
@@ -170,8 +170,8 @@ All seven senses here are held or given by the person; sense 7, the
 presented self, is the self a person gives to others. [CLAIM-415](../claims.d/CLAIM-415.md) needed
 the other direction: what others take a person to be, what the person
 takes them to take them to be, and who the person takes "them" to be.
-Those are filed apart, as [TERM-tmpo92fy](TERM-tmpo92fy.md) (Proposed), and not as an eighth
+Those are filed apart, as [TERM-075](TERM-075.md) (Proposed), and not as an eighth
 sense here, because they are not selves the person has. They enter the
-person's own self-model only when appropriated ([TERM-tmpo92fy](TERM-tmpo92fy.md), sense 4),
+person's own self-model only when appropriated ([TERM-075](TERM-075.md), sense 4),
 and can then shape sense 4, the narrative self, and sense 7, the
 presented self.

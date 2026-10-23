@@ -6,7 +6,7 @@
 
 **Nucleating an argument** — how an argument developed across stateless sessions settles into stable, addressable structure, and what a project memory contributes — the record itself as the case.
 
-2 of 74 TERM documents. Back to the [full index](../README.md).
+2 of 75 TERM documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|

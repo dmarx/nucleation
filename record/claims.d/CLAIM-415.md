@@ -20,7 +20,7 @@ history:
     The sentence on Cooley no longer says he makes the self-conception run
     through imagined judgements of others in general: the looking-glass
     self is one class of his social self. Step 2 now cites Cooley's
-    "remoter conformity" and the worked case CASE-tmpazqjk, and LIT-1379
+    "remoter conformity" and the worked case CASE-142, and LIT-1379
     is added to `grounds`. A note on the grounds says LIT-1390 supports
     the perceived-majority route, not the loud-minority example. The
     title, status and defeater are unchanged.
@@ -61,13 +61,13 @@ summary: >-
   common attitudes, [CASE-104](../cases.d/CASE-104.md)); what is new is its place in a person's own
   organization.
 illustrated_by:
-- CASE-tmp5rsen
-- CASE-tmpa0raf
-- CASE-tmpazqjk
+- CASE-140
+- CASE-141
+- CASE-142
 supports:
-- CLAIM-tmpmxjti
+- CLAIM-425
 ---
-<!-- inactive-ok-file: TERM-tmpo92fy — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
+<!-- inactive-ok-file: TERM-075 — Proposed, Deferred or Unavailable; claims, terms and works cited as open or unread, nothing here rests on their being settled -->
 <!-- inactive-ok-file: LIT-1370 — Unavailable; works registered unread, or entries set aside, cited as such -->
 <!-- inactive-ok-file: CLAIM-349 CLAIM-355 CLAIM-402 THEORY-242 — Proposed; claims, questions, terms and readings cited as open, nothing here rests on their being settled -->
 
@@ -105,7 +105,7 @@ The claim takes two steps beyond them.
    and can be collective: the looking-glass self, "a very large and
    interesting class of cases" of the social self, runs through imagined
    judgements of others. The claim adds that the others imagined can be a
-   unity no one composes ([TERM-tmpo92fy](../terms.d/TERM-tmpo92fy.md)'s imagined audience), which is [QUESTION-119](../questions.d/QUESTION-119.md)'s question ("when is the
+   unity no one composes ([TERM-075](../terms.d/TERM-075.md)'s imagined audience), which is [QUESTION-119](../questions.d/QUESTION-119.md)'s question ("when is the
    credit due to the population as organized?") asked from inside the
    person credited.
 2. **Rejection does not free.** The lyric is Eminem's "The Way I Am"
@@ -118,7 +118,7 @@ The claim takes two steps beyond them.
    The resistance reading is the one the record lacked: the judgement
    acquires authority over conduct ([CLAIM-349](CLAIM-349.md)'s second term) without
    being believed. Cooley states the step: "non-conformity may be
-   regarded as a remoter conformity" (ch. VIII). [CASE-tmpazqjk](../cases.d/CASE-tmpazqjk.md) works it.
+   regarded as a remoter conformity" (ch. VIII). [CASE-142](../cases.d/CASE-142.md) works it.
 
 A39 also gave the reading that restores agency: "I can recognize the
 judgment, investigate its grounds, and refuse to let its apparent
@@ -144,7 +144,7 @@ was written to keep apart.
 - **Not a term, as A39 coined it.** A39's "recursive social
   self-modeling" was offered "as a way of integrating established
   mechanisms, not as a new discovery". The objects it runs between are
-  filed as [TERM-tmpo92fy](../terms.d/TERM-tmpo92fy.md)'s senses 2 and 3, not under that name.
+  filed as [TERM-075](../terms.d/TERM-075.md)'s senses 2 and 3, not under that name.
 - **Not that the majority illusion is the loud minority.** Of the claim's
   grounds, [LIT-1390](../literature.d/LIT-1390.md) supports only the route by which a rare attribute
   looks like a local majority through network position; the loud

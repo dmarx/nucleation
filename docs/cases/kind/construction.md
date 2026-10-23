@@ -6,7 +6,7 @@
 
 **Construction** — a formal or mathematical object built to exhibit or refute a property, whose facts are its definition.
 
-27 of 139 CASE documents. Back to the [full index](../README.md).
+27 of 142 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
