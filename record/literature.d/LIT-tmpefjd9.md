@@ -10,8 +10,8 @@ status_note: >-
   holds metadata and the abstract only; Göttingen Research Online sits
   behind a bot check; the Hildesheim repository and the Aston portal hold
   no file; ResearchGate returned 403. Only the abstract was read (PubMed
-  17144766, the same text on mediaTUM). Registered for QUESTION-089 and
-  CASE-108 from the owner's exchange of 2026-10-23, "Framework Overview
+  17144766, the same text on mediaTUM). Registered for [QUESTION-089](../questions.d/QUESTION-089.md) and
+  [CASE-108](../cases.d/CASE-108.md) from the owner's exchange of 2026-10-23, "Framework Overview
   Request". No NOTE, CASE or THEORY is filed. It returns to reading when a
   copy is supplied, not on merit.
 title: 'Group decision making in hidden profile situations: Dissent as a facilitator for decision quality'
@@ -103,14 +103,14 @@ preferences were composed into groups or whether members announced them.
 ## Why this is here
 
 The owner's exchange of 2026-10-23, "Framework Overview Request", cited it
-as an external result for QUESTION-089 (when does a process that
+as an external result for [QUESTION-089](../questions.d/QUESTION-089.md) (when does a process that
 destabilizes a whole's prevailing pattern improve the organization) and for
-the proposed study CASE-108, whose measures include the suppression of
-honest dissenting minorities. It bears on CLAIM-281. It is a
+the proposed study [CASE-108](../cases.d/CASE-108.md), whose measures include the suppression of
+honest dissenting minorities. It bears on [CLAIM-281](../claims.d/CLAIM-281.md). It is a
 laboratory result about human groups on one task type; how far it carries
 to the record's processes is the record's question, not the paper's.
 
-It is to be read with Mojzisch and Schulz-Hardt (2010), LIT-tmp4zxlj,
+It is to be read with Mojzisch and Schulz-Hardt (2010), [LIT-tmp4zxlj](LIT-tmp4zxlj.md),
 which by its abstract finds that knowing others' preferences at the start
 impairs the same kind of decision. The two are not in conflict as stated:
 this one varies whether members actually disagree; that one varies whether
