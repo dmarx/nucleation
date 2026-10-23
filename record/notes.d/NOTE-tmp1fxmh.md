@@ -23,6 +23,7 @@ summary: >-
   profile is a clinical synopsis from an unrepresentative sample, not the
   standard the measure should be judged by.
 ---
+<!-- inactive-ok-file: LIT-tmp4ofbv — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 <!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; French's and Pettit's accounts, named for the corporate question -->
 <!-- inactive-ok-file: LIT-tmp7dpgf LIT-tmpy1y1q — Unavailable, unread; Velasquez, named for the objection, not leaned on -->
 

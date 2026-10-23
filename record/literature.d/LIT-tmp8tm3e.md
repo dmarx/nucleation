@@ -44,6 +44,7 @@ summary: >-
 supports:
 - CLAIM-tmpi98gg
 ---
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; open, and cited as open: nothing here rests on its being settled -->
 
 # LIT-tmp8tm3e: The Corporation: The Pathological Pursuit of Profit and Power
 

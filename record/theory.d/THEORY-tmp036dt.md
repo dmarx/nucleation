@@ -29,7 +29,8 @@ supports:
 - CLAIM-tmp4d358
 - CLAIM-tmpi98gg
 ---
-<!-- inactive-ok-file: LIT-tmp57loc NOTE-tmp1fxmh — filed in this batch -->
+<!-- inactive-ok-file: CLAIM-tmp4d358 CLAIM-tmpi98gg — Proposed; the record's own claims this reading bears on, filed in this batch -->
+<!-- inactive-ok-file: LIT-tmp8tm3e LIT-tmpcyd6d — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
 # THEORY-tmp036dt: Psychopathy as the PCL-R measures it is one dimensional construct rather than a type: its items form four correlated factors, interpersonal, affective, lifestyle and antisocial, explained by one superordinate factor, and its affective features are tied psychometrically, genetically and longitudinally to its antisocial ones, so that no one component is its essence
 

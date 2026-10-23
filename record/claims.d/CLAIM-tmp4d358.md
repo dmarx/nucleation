@@ -25,6 +25,7 @@ summary: >-
   carries connotations (a fixed character, untreatability, an object of
   fear and blame) that the claim itself says do not apply.
 ---
+<!-- inactive-ok-file: CLAIM-418 CLAIM-tmpi98gg — Proposed; open, and cited as open: nothing here rests on its being settled -->
 
 # CLAIM-tmp4d358: Calling a corporation psychopathic, even functionally, adds nothing to saying that its decision rules weigh harms to others only as costs to it, and it imports a picture of character that points remedy toward blame and away from redesign
 

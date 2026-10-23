@@ -39,6 +39,7 @@ summary: >-
 supports:
 - CLAIM-tmpi98gg
 ---
+<!-- inactive-ok-file: CLAIM-418 THEORY-131 THEORY-139 — Proposed; open, and cited as open: nothing here rests on its being settled -->
 
 # LIT-tmp3qow8: Group Duties: Their Existence and Their Implications for Individuals
 

@@ -47,6 +47,7 @@ summary: >-
 reports:
 - CASE-tmpuxgzy
 ---
+<!-- inactive-ok-file: THEORY-131 THEORY-139 — Proposed; open, and cited as open: nothing here rests on its being settled -->
 
 # LIT-tmp24jzb: Sales Practices Investigation Report
 

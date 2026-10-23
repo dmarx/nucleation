@@ -51,6 +51,8 @@ summary: >-
 objected_by:
 - CLAIM-tmp4d358
 ---
+<!-- inactive-ok-file: CLAIM-271 CLAIM-349 THEORY-125 THEORY-131 THEORY-139 THEORY-tmp036dt — Proposed; the readings and claims this claim rests on or is grounded in, cited as open; the claim is Proposed with them -->
+<!-- inactive-ok-file: LIT-tmp3qow8 LIT-tmp7dpgf LIT-tmp8tm3e LIT-tmpcyd6d LIT-tmpy1y1q — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
 # CLAIM-tmpi98gg: A corporation can be an agent fit to be held responsible while the costs its conduct imposes on others gain authority over what it does only through its decision procedures, its members' role duties, its regulators and its markets, so that it can hold signals of a harm without acting on them; "psychopathic" fits it only in that functional sense, naming a design rather than a lost capacity, which puts the remedy in its structure rather than in any member's character
 

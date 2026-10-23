@@ -21,6 +21,8 @@ summary: >-
 answered_by:
 - CLAIM-tmpi98gg
 ---
+<!-- inactive-ok-file: CLAIM-271 THEORY-125 THEORY-131 THEORY-139 THEORY-147 THEORY-tmp036dt — Proposed; open, and cited as open: nothing here rests on its being settled -->
+<!-- inactive-ok-file: LIT-698 LIT-tmp7dpgf LIT-tmp8tm3e LIT-tmpcyd6d LIT-tmpy1y1q — Unavailable, no lawful full text; named for what its description or abstract says, not leaned on as read -->
 
 # QUESTION-tmpik08u: Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but in which the costs its conduct imposes on others have no authority over what it does beyond what its procedures, members, regulators and markets give them?
 
