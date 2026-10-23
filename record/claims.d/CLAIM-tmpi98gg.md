@@ -86,7 +86,7 @@ Three parts.
    psychopathy is a disposition of a being whose kind normally has the
    affective capacities it lacks. A corporation's kind has no such
    default. So "psychopathic" fits only in a functional sense, and only
-   in part. Of the PCL-R's items (THEORY-tmp036dt), a corporation's
+   in part. Of the PCL-R's items ([THEORY-tmp036dt](../theory.d/THEORY-tmp036dt.md)), a corporation's
    record can show those that are read from conduct: conning and
    manipulation, pathological deception, callousness, failure to accept
    responsibility, a parasitic lifestyle, irresponsibility. It cannot
