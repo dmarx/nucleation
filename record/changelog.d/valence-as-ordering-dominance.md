@@ -6,8 +6,8 @@
   - a demonstrated claim: on finite options an ordering is a currency; the lexicographic order of the square has none; a continuous ordering has a continuous one (Eilenberg; Debreu); a threshold override has a discontinuous one ([CLAIM-tmp85p0g](record/claims.d/CLAIM-tmp85p0g.md));
   - Veit's currency and ALARM's override recast as continuous and overriding dominance, with a trade-off test ([CLAIM-tmp83ge2](record/claims.d/CLAIM-tmp83ge2.md));
   - two questions: how dominance is measured ([QUESTION-tmpsqwu5](record/questions.d/QUESTION-tmpsqwu5.md)), and whether dominance by a proxy for maintenance is valence ([QUESTION-tmprsrxs](record/questions.d/QUESTION-tmprsrxs.md)).
-  - a question on operationalizing felt valence in three independently measured layers (QUESTION-tmp0oife), and a candidate claim: valence is felt when the system models its own dominance (CLAIM-tmptd5us);
-  - Berridge's liking–wanting dissociation (THEORY-tmp0bbxk), and from it an objection that dominance tracks wanting, not liking (CLAIM-tmpe0iew).
+  - a question on operationalizing felt valence in three independently measured layers ([QUESTION-tmp0oife](record/questions.d/QUESTION-tmp0oife.md)), and a candidate claim: valence is felt when the system models its own dominance ([CLAIM-tmptd5us](record/claims.d/CLAIM-tmptd5us.md));
+  - Berridge's liking–wanting dissociation ([THEORY-tmp0bbxk](record/theory.d/THEORY-tmp0bbxk.md)), and from it an objection that dominance tracks wanting, not liking ([CLAIM-tmpe0iew](record/claims.d/CLAIM-tmpe0iew.md)).
 - Twenty works in two tranches: eight read in full or in part, eleven Unavailable, one Deferred. A curation entry.
 
 ### Changed

@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. OpenAlex and Semantic Scholar list no open copy; JSTOR and the Econometric Society give the abstract only (the issue is not in JSTOR''s free early-journal content, which stops well before 1956); a web search found no author, course or repository posting. Filed because it is the paper that introduced the semiorder, the structure the record''s correction to CLAIM-tmp85p0g turns on: a relation with a discrimination threshold whose indifference is not transitive. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: no lawful full text could be reached. OpenAlex and Semantic Scholar list no open copy; JSTOR and the Econometric Society give the abstract only (the issue is not in JSTOR''s free early-journal content, which stops well before 1956); a web search found no author, course or repository posting. Filed because it is the paper that introduced the semiorder, the structure the record''s correction to [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) turns on: a relation with a discrimination threshold whose indifference is not transitive. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Semiorders and a Theory of Utility Discrimination'
 version: 1
 history:
@@ -64,16 +64,16 @@ R. Duncan Luce (1956), *Econometrica* 24(2):178–191 — DOI-10.2307/1905751
 
 ## Standing in the record
 
-Filed on 2026-10-23 for the correction to CLAIM-tmp85p0g, part 3a. That
+Filed on 2026-10-23 for the correction to [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md), part 3a. That
 part shows that a threshold override set on the *level* of a cost, alarm
 on above c*, still has a numerical representation. An override that
 fires on a *difference* in cost larger than a discrimination threshold
 is a different structure. Its indifference is not transitive, so it is
 not a weak order, and part 1's construction does not apply to it even on a
 finite set. Luce's semiorder is that structure in one dimension, and
-Tversky's lexicographic semiorder (LIT-tmpzq0ry) puts it in
+Tversky's lexicographic semiorder ([LIT-tmpzq0ry](LIT-tmpzq0ry.md)) puts it in
 front of a second dimension. The bearing is set out in
-LIT-tmpzq0ry.
+[LIT-tmpzq0ry](LIT-tmpzq0ry.md).
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.

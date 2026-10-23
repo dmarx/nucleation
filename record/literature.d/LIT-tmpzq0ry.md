@@ -1,6 +1,6 @@
 ---
 status: Unavailable
-status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not fetch it ("failed on access, not availability", in ADR-041''s words). The paper is posted for teaching on a UC San Diego faculty page (pages.ucsd.edu/~mckenzie/Tversky1969PsychReview.pdf). This client refused the TLS connection, the server''s certificate chaining to a root not in its trust store; the web fetcher got a 503; the Internet Archive holds no snapshot. OpenAlex and Semantic Scholar list it as closed, APA''s copy is paywalled, a Central European University course copy sits behind a bot check, and a whole-book PDF of Tversky''s selected writings on another UCSD page was not used, its lawfulness being unclear. Filed because its lexicographic semiorder is the structure the correction to CLAIM-tmp85p0g names. It stays Unavailable until a copy is supplied, not on merit.'
+status_note: 'registered 2026-10-23 from Crossref, not read: a lawful copy exists but this client could not fetch it ("failed on access, not availability", in [ADR-041](../decisions.d/ADR-041.md)''s words). The paper is posted for teaching on a UC San Diego faculty page (pages.ucsd.edu/~mckenzie/Tversky1969PsychReview.pdf). This client refused the TLS connection, the server''s certificate chaining to a root not in its trust store; the web fetcher got a 503; the Internet Archive holds no snapshot. OpenAlex and Semantic Scholar list it as closed, APA''s copy is paywalled, a Central European University course copy sits behind a bot check, and a whole-book PDF of Tversky''s selected writings on another UCSD page was not used, its lawfulness being unclear. Filed because its lexicographic semiorder is the structure the correction to [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) names. It stays Unavailable until a copy is supplied, not on merit.'
 title: 'Intransitivity of preferences'
 version: 1
 history:
@@ -60,7 +60,7 @@ DOI-10.1037/h0026750
   alternative y if the first criterion that distinguishes between x and y
   ranks x higher than y by an amount exceeding a fixed threshold". With a
   zero threshold it is the ordinary lexicographic order; with a positive
-  one it is Luce's semiorder (LIT-tmpoacc9) placed in front of a
+  one it is Luce's semiorder ([LIT-tmpoacc9](LIT-tmpoacc9.md)) placed in front of a
   second criterion.
 - **Why it cycles.** Take options x₁, …, xₙ in which each step lowers the
   first criterion by less than the threshold and raises the second. Each
@@ -77,8 +77,8 @@ DOI-10.1037/h0026750
 
 ## Standing in the record
 
-Filed on 2026-10-23 for the correction to CLAIM-tmp85p0g and
-CLAIM-tmp83ge2. Does Tversky's lexicographic semiorder match the
+Filed on 2026-10-23 for the correction to [CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) and
+[CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md). Does Tversky's lexicographic semiorder match the
 "threshold override"? Only in one of two readings, and the claims should
 keep them apart.
 
@@ -96,9 +96,9 @@ keep them apart.
   since either form makes strict preference acyclic. It is not even a
   semiorder then, a semiorder's strict part being acyclic.
 
-ALARM's "100% weight" (THEORY-090) can be read either way. The two
+ALARM's "100% weight" ([THEORY-090](../theory.d/THEORY-090.md)) can be read either way. The two
 readings predict different things in the trade-off experiment
-CLAIM-tmp83ge2 proposes. A level threshold predicts a discontinuity at c*
+[CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) proposes. A level threshold predicts a discontinuity at c*
 that does not move with the resource. A discrimination threshold
 predicts no fixed discontinuity, but cycles among options whose costs
 step by less than ε while their resources step up. So the test should

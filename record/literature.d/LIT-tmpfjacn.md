@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmpsx1uk): in full, from the PubMed Central text (PMC2781886). Worth reading as Scherer''s own compact statement of the component process model, the same year as the evidence review LIT-tmpboyvn, which it cites as in press. Emotion is a bounded episode of component synchronization, driven by sequential appraisal checks and aimed at control precedence. The feeling component monitors the process by representing the other components and their coherence. The degree of synchronization is hypothesised to generate conscious experience. Emotions are attractor basins of coupled oscillators, with hysteresis and catastrophe-surface jumps. It stands in for the unread review.'
+status_note: 'read 2026-10-23 ([NOTE-tmpsx1uk](../notes.d/NOTE-tmpsx1uk.md)): in full, from the PubMed Central text (PMC2781886). Worth reading as Scherer''s own compact statement of the component process model, the same year as the evidence review [LIT-tmpboyvn](LIT-tmpboyvn.md), which it cites as in press. Emotion is a bounded episode of component synchronization, driven by sequential appraisal checks and aimed at control precedence. The feeling component monitors the process by representing the other components and their coherence. The degree of synchronization is hypothesised to generate conscious experience. Emotions are attractor basins of coupled oscillators, with hysteresis and catastrophe-surface jumps. It stands in for the unread review.'
 title: 'Emotions are emergent processes: they require a dynamic computational architecture'
 version: 1
 history:
@@ -98,8 +98,8 @@ B* 364(1535):3459–3474 — DOI-10.1098/rstb.2009.0141
 ## Standing in the record
 
 Filed on 2026-10-23 for the record's proposal that hedonic valence is
-dominance by one ordering (CLAIM-tmpz8lli, TERM-tmp8gbrt). It bears on
-two questions, set out in NOTE-tmpsx1uk: whether
+dominance by one ordering ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md), [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). It bears on
+two questions, set out in [NOTE-tmpsx1uk](../notes.d/NOTE-tmpsx1uk.md): whether
 synchronization is a measurable analogue of dominance, and whether the
 feeling component is a version of the proposal that what is felt is the
 system's model of its own dominance. In short:
@@ -111,7 +111,7 @@ system's model of its own dominance. In short:
 - the paper gives no operational measure of synchronization.
 
 It also uses Frijda's control precedence, which the record's term reads
-dominance through (THEORY-055).
+dominance through ([THEORY-055](../theory.d/THEORY-055.md)).
 
 The paper is addressed to computational modellers of emotion in agents.
 It is not an instruction for machine-learning practice, so nothing here
