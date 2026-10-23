@@ -1,0 +1,73 @@
+---
+status: Open
+title: 'Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but has nothing in it that registers the costs its conduct imposes on others, beyond what its procedures, members, regulators and markets supply?'
+version: 1
+tags:
+- ethics
+- social-ontology
+- moral-psychology
+- society-and-governance
+date: '2026-10-23'
+line: distributed-agency
+summary: >-
+  The owner's question of 2026-10-23: how the record stands on "corporate
+  psychopathy", "qua treating the corporation as a sociopathic entity".
+  Bakan's thesis (LIT-tmp8tm3e) is that the corporation is "created by law
+  to function much like a psychopathic personality". The record holds the
+  readings the thesis needs on agency and responsibility (French, Pettit)
+  and on group emotion (Huebner, List), but nothing on the clinical
+  construct and no claim joining them. The question asks which reading of
+  the thesis survives.
+---
+
+# QUESTION-tmpik08u: Is "psychopathic" a category error when said of a corporation, or a fair functional description of an agent that can be held responsible but has nothing in it that registers the costs its conduct imposes on others, beyond what its procedures, members, regulators and markets supply?
+
+## Why it is a question
+
+The owner, 2026-10-23: "how's the nucleation record on topics like
+corporate psychopathy? qua treating the corporation as a sociopathic
+entity." It was not, before this filing. Every "psychopath" in the record
+was a person's disorder or Wolf's stipulated case (THEORY-147).
+
+The thesis needs three premises, and the record holds unequal parts of
+them.
+
+1. **The corporation is an agent.** French (THEORY-131) and Pettit
+   (THEORY-139) say so; List's result on aggregation (THEORY-127, Active)
+   and CLAIM-271 say a group's attitudes can be no member's. Velasquez
+   denies it: responsibility needs a mind that forms intentions and a
+   body it controls, and a corporation has neither.
+2. **Its wrongs are its own, not distributed to its members.** Isaacs
+   (LIT-698) on collective guilt, and Floridi (LIT-899) on harm no node
+   intends.
+3. **It lacks the moral emotions.** Huebner (THEORY-125) allows a group
+   functional, unfelt emotions, and has found no actual case; List
+   (NOTE-340) doubts a group agent is phenomenally conscious. Nothing in
+   the record addresses remorse, guilt or empathy in a corporation.
+
+The third premise is where "psychopathic" gets its force, and it is where
+the analogy may break: a person's psychopathy is a deficit in a being
+built to have a moral sense, and a corporation may never have had one to
+lose.
+
+It also has a rival that shares its name. Boddy (LIT-tmpcyd6d) says
+"corporate psychopaths" are people, individuals with psychopathic traits
+who rise in corporations. An answer has to say whether a corporation's
+harms need its members' traits at all.
+
+## What would count as an answer
+
+A claim that says, of the clinical construct's features (Hare's
+interpersonal and affective factor against its lifestyle and antisocial
+factor), which can be said of a corporation and in what sense. It should
+say whether the absence it names is a deficit or a design. It should say
+what does the work in a corporation that a moral sense does in a person,
+and tested on a documented case, it should separate the corporation's
+contribution from its members'.
+
+## What would not answer it
+
+A list of corporate wrongs, however long, since a person can do wrong
+without psychopathy. Nor would the thesis restated as a metaphor without
+saying which features transfer, or a verdict on whether corporations are
+bad.
