@@ -1,74 +1,108 @@
 ---
-# Don't copy this file by hand — run `luria new lit`.
-#
-# A note records why a paper is worth keeping. It is not a summary of the
-# paper; it is this project's reading of it.
-
-# Active | Proposed | Deferred | Unavailable | Superseded | Rejected, optionally " — note".
-# `Deferred` is a work nobody has tried to read yet; `Unavailable` is one
-# whose lawful full text was looked for and not reached, with where in the
-# status note (ADR-041).
-# See statuses.yaml beside this file. `Rejected` is the attic: retire a paper
-# by setting it, with the reason in the status note and the long version
-# under "Standing in the record" below. Never by deleting the file —
-# something cites it.
-status: Active
-
-# The paper's title, verbatim. Repeat it as the body's `# LIT-tmp4zxlj:` heading.
-title: "Knowing others' preferences degrades the quality of group decisions"
-
+status: Unavailable
+status_note: >-
+  no lawful copy reached, 2026-10-23; failed on availability as far as
+  this client could tell. The article is closed (APA; Unpaywall and
+  OpenAlex: closed, no repository full text). Göttingen Research Online,
+  the one repository OpenAlex lists, sits behind a bot check, so whether it
+  holds a file is unknown; the Hildesheim repository holds the record with
+  no file; the authors' Göttingen publications page has no file; a web
+  search found no author-posted copy. Only the abstract was read (PubMed
+  20438225). Registered for QUESTION-089 and CASE-108 from the owner's
+  exchange of 2026-10-23, "Framework Overview Request". No NOTE, CASE or
+  THEORY is filed. It returns to reading when a copy is supplied, not on
+  merit.
+title: 'Knowing others'' preferences degrades the quality of group decisions'
 version: 1
-
-# One or more of the topics in luria.yaml (vocabularies.topics), primary first.
-# The vocabulary is closed: a word it lacks is added by decision, not invented.
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Registered and sought on the same day, Unavailable under ADR-041.
+    Citation checked against Crossref on 2026-10-23: Journal of
+    Personality and Social Psychology 98(5): 794–808, authors Andreas
+    Mojzisch and Stefan Schulz-Hardt. Crossref gives the year only;
+    PubMed gives the issue month (2010 May), so `published:` is
+    2010-05-01 by ADR-002's first-of-the-month rule. Where the search
+    went: Unpaywall and OpenAlex (closed; OpenAlex lists Göttingen
+    Research Online, purl gro-2/8349, which answered with a proof-of-work
+    bot check, not passed); the Hildesheim repository (item
+    bea2d7e5-647e-498c-888f-10e1266113f1, no bundles); the Göttingen
+    social psychology unit's publication page for the paper (no file);
+    web searches for a PDF (secondary accounts only, among them the
+    British Psychological Society's Research Digest); Academia.edu lists
+    the author but was not used, since it needs an account and shows no
+    sign of the publisher's permission. The summary and body are the
+    abstract's.
 tags:
-- training-optimization
-
-# When this note was filed. The record's own clock, not the paper's.
+- social-science
+- cognition
+- epistemology
 date: '2026-10-23'
-
-# REQUIRED. The exact date the work first appeared (ADR-002): the arXiv v1
-# "Submitted on" date, else the earliest full date Crossref gives, else the
-# date the document carries. The first of the month only when no source gives
-# a day. Distinct from `date:` above, which is when the record got round to it.
-#
-# This is the one place the date lives. A practice reads it from its primary
-# source and a reading note from its paper, both by `derive`/`from` in
-# luria.yaml, so neither carries a copy that could drift (see the anthology's issue 119).
-published: '2022-05-01'
-
-# A SOURCE is required — at least one of these three, enforced (ANTH-ADR-009).
-# Prefer them in this order: an arXiv id or a DOI resolves through a remote
-# and can be pinned; a URL is a string nothing can check. Bare id, no
-# version suffix. Delete the lines you don't use.
-arxiv: '0000.00000'
-# doi: '10.0000/example'
-# url: 'https://example.org/report'
-
-first_author: 'Surname'
-
-# The paper's own subject words, kept verbatim. Free-form on purpose — this
-# is what the paper is about, whereas `tags:` is where the record files it.
-keywords: []
-
-# Optional. Models or codebases known to use this work.
+published: '2010-05-01'
+doi: '10.1037/a0017627'
+first_author: 'Mojzisch'
+keywords:
+- 'group decision making'
+- 'hidden profile'
+- 'preference information'
+- 'information processing'
+- 'attention'
 implementations: []
-
-# What the index table shows: the citation and the one finding that matters.
+summary: >-
+  Mojzisch & Schulz-Hardt (2010), JPSP 98(5): 794–808. By its abstract:
+  in four experiments, learning the other members' preferences at the start
+  of a discussion made hidden profiles less likely to be solved, through
+  less attention to the information exchanged, not through bolstering or
+  information load; it held even when another member favoured the correct
+  option, and Experiment 4 replicated it in face-to-face three-person
+  groups. Unread: no lawful copy reached.
 ---
 
-<!-- unresolved-ok-file: LIT-000 — the placeholder a new note replaces -->
+# LIT-tmp4zxlj: Knowing others' preferences degrades the quality of group decisions
 
-# LIT-000: The paper title, exactly as published
+Mojzisch, A., & Schulz-Hardt, S. (2010). Knowing others' preferences
+degrades the quality of group decisions. *Journal of Personality and Social
+Psychology*, 98(5), 794–808. doi:10.1037/a0017627.
 
-Surname et al. (YEAR) — [ARXIV-0000.00000](https://arxiv.org/abs/0000.00000)
+Not read: no lawful copy was reached on 2026-10-23 (see the status note).
+What follows is the abstract's.
 
 ## Key takeaways
 
-- What it establishes, in claims rather than topics.
+*From the abstract only (PubMed 20438225).*
 
-## Standing in the record
+- **The effect.** "learning the other group members' preferences at the
+  beginning of a discussion impedes the solution of hidden profiles."
+- **The manipulation.** In Experiments 1–3, "participants who were not
+  informed about their fellow group members' preferences were more likely
+  to solve a hidden profile than those who received bogus information about
+  the others' preferences." The preference information was experimenter
+  supplied, and by the abstract's wording only Experiment 4 used groups
+  that interacted face to face.
+- **Mechanism.** The effect "was mediated by participants paying less
+  attention to the information exchanged"; Experiments 1 and 2 "ruled out"
+  bolstering of one's own position and added informational load.
+- **Even a correct proponent.** "Experiment 3 showed that learning the
+  other group members' preferences impedes the solution of hidden profiles
+  even if one of the other members favors the correct alternative."
 
-Why this is here — or, once it is `Rejected` or `Superseded`, why it isn't
-any more, and what replaced it. Omit the section entirely while the answer is
-just "it's good work", which is the usual case.
+## Why this is here
+
+The owner's exchange of 2026-10-23, "Framework Overview Request", cited it
+as an external result for QUESTION-089 and for the proposed study
+CASE-108, beside Schulz-Hardt et al. (2006), LIT-tmpefjd9. It bears
+on CLAIM-281.
+
+The two seem to pull apart: one says dissent helps, this one that knowing
+where others stand hurts, even when one of them is right. By the abstracts
+they vary different things. The 2006 study varies whether members actually
+disagree, and finds the benefit runs through more intense discussion. This
+one varies whether members are told the others' preferences, and finds the
+cost runs through less attention to the information itself. Read together,
+the benefit of disagreement lies in what it does to the handling of
+information, not in the positions being visible; a stated preference can
+substitute for the information it should send people to. Whether the 2006
+dissent groups exchanged preferences at the start, and whether the 2010
+bogus preferences agreed or disagreed with the participant's own, the
+abstracts do not say, and the reconciliation waits on reading both.

@@ -51,7 +51,7 @@ does.
 
 Synchrony between two bodies is not one quantity. Decompose the movement
 and different components are synchronized by different causes at the same
-time: "within the same dyad, multiple synchronization processes can occur
+time: "Within the same dyad, multiple synchronization processes can occur
 simultaneously, exploiting either the presence of a shared sensory input,
 or interpersonal adaptation" (Discussion). A measure that sees only timing
 treats them as one: "Yet examining (movement) temporal features alone,

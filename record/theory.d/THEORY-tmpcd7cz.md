@@ -46,7 +46,7 @@ PMC11266842 (CC BY), with Figure 2 and Document S1.
 ## What was actually shown
 
 - **Design.** 70 participants in 35 dyads danced freely, facing each
-  other, to 32 trials of eight rearranged songs. "We manipulated musical
+  other, to 32 trials of eight rearranged songs. "we manipulated musical
   input (whether participants listened to the same or different music,
   presented through earphones) and visual contact (whether participants
   could see or not see each other) in a 2 × 2 factorial design." The
