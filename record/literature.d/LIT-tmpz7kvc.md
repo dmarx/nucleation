@@ -77,10 +77,10 @@ The owner's exchange "Framework Overview Request" (2026-10-23) asked for
 external results that satisfy the explanatory aims of the record's
 proposed-study CASEs. As reported, this is the classic laboratory case of
 a collective whose members are all replaced while a norm is carried by
-transmission, with the original carriers gone. It bears on QUESTION-118
+transmission, with the original carriers gone. It bears on [QUESTION-118](../questions.d/QUESTION-118.md)
 (what must stay causally continuous when a collective replaces all its
-members), on arm B of the proposed study CASE-101 (a population that
-transmits its norms to its replacements), and on CLAIM-329 (persistence
+members), on arm B of the proposed study [CASE-101](../cases.d/CASE-101.md) (a population that
+transmits its norms to its replacements), and on [CLAIM-329](../claims.d/CLAIM-329.md) (persistence
 through turnover is causal transmission, not resemblance). Its control
 groups, which reach the unseeded level of judgement, are a natural
 comparison for an organization of the same kind arising independently.
