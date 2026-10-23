@@ -199,3 +199,17 @@ second source for "before and without cortex". The authors keep "limited
 neocortical connectivity and recurrent processing" in the core, and their
 marker of returning consciousness is command-following, a marker of access,
 not of felt alarm. The statement is unchanged.
+
+## Note of 2026-10-23: the rivalry recast as continuity
+
+On the owner's reading of valence as dominance of a negotiation by an
+ordering of the system's own states (CLAIM-tmpz8lli), this account and
+its rival are two regimes of one thing: Veit's currency is compensatory,
+continuous dominance, and ALARM's override is lexicographic dominance.
+CLAIM-tmp85p0g shows a continuous ordering has a numerical representation
+and a lexicographic one on a continuum has none, so the override is not
+"a weight in a common currency" of any size, and the rivalry does not
+dissolve in the way this record once imagined. CLAIM-tmp83ge2 recasts it
+as one question, whether the earliest trade-off curves are continuous or
+stepped. The statement is unchanged.
+

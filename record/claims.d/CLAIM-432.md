@@ -4,14 +4,27 @@ status: Proposed
 formerly:
 - CLAIM-tmpi98gg
 title: 'A corporation can be an agent fit to be held responsible and the bearer of functional affect in Frijda''s sense, so psychopathy''s affective features can be assigned to it as well as its conduct: it lacks remorse, functionally, when harm it does to others is not among the concerns its own appraisals track and gains precedence over what it does only when a regulator or a market turns it into a threat to the corporation''s concerns; that profile, threat without remorse, is the construct''s, and it is changed by redesigning the corporation''s concerns, not its members'' characters'
-version: 1
+version: 2
+history:
+- version: 2
+  date: '2026-10-23'
+  note: >-
+    Defeater corrected. Version 1 cited THEORY-101 as supplying a
+    phenomenal condition a corporation might fail. It does the opposite:
+    Veit says functional valence is felt valence. It threatens this claim
+    only joined to a denial that a corporation is conscious, by modus
+    tollens; the defeater now says so. The statement is unchanged. A
+    dated note relates the claim to the reading of valence as
+    ordering-dominance (CLAIM-tmpz8lli).
 role: thesis
 warrant: interpretive
 defeated_if: >-
-  A functional characterization of remorse, concern or empathy that a
-  corporation cannot satisfy without a phenomenal condition, as THEORY-101
-  identifies valence with a felt state (CLAIM-039's defeater, inherited);
-  or evidence that corporations whose own procedures and role duties make
+  A characterization of remorse, concern or empathy that requires a
+  phenomenal condition a corporation cannot meet (CLAIM-039's defeater,
+  inherited); or Veit's identity of felt with functional valence
+  (THEORY-101) joined to an argument the record accepts that a corporation
+  is not phenomenally conscious, which together deny it functional
+  valence; or evidence that corporations whose own procedures and role duties make
   others' harms their concern behave no differently, once external
   sanction is lifted, from corporations moved only by regulators and
   markets, so that the remorse–threat distinction is idle; or an argument
@@ -34,6 +47,7 @@ rests_on:
 - CLAIM-039
 - CLAIM-271
 complements:
+- CLAIM-tmpz8lli
 - CLAIM-418
 - CLAIM-349
 - CLAIM-283
@@ -176,3 +190,27 @@ claim:
 - That the case settles whether Wells Fargo's later change was remorse or
   fear. The prediction in part 5 is what would tell; the report does not.
 - That the four routes are exhaustive or equally weighty.
+
+## Note of 2026-10-23: the defeater corrected, and valence as ordering-dominance
+
+Version 1's defeater misread THEORY-101. Veit does not add a phenomenal
+condition the corporation might fail; he identifies felt valence with a
+functional one. Alone, that would make the corporation's lack of remorse
+a felt lack. It threatens the claim only by modus tollens, joined to an
+argument that a corporation feels nothing, such as List's (NOTE-340),
+which runs through IIT's exclusion postulate, an anti-nesting principle
+THEORY-043 holds unprincipled so far. The defeater now states that route.
+
+The same day the owner recast valence as dominance of the negotiation
+among an organization's perspectives by an ordering of its own states
+(CLAIM-tmpz8lli, TERM-tmp8gbrt). In those terms the claim sharpens.
+Remorse is others' harm entering the dominant ordering; threat without
+remorse is harm reaching the corporation only as a fall along it. Wells
+Fargo's cross-sell ranking won the bank's conflicts against risk, HR and
+complaints for a decade (CASE-151), which is dominance in TERM-tmp8gbrt's
+sense. Whether that ranking was of the bank's maintenance or of a proxy
+for it is QUESTION-tmprsrxs. On this reading, whether a corporation has
+valence at all becomes a question about its dynamics, not about whether
+it is conscious, and the Veit–List route above loses its force against
+the functional claim, whatever it says about feeling.
+

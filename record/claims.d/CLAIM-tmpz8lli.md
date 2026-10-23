@@ -1,0 +1,138 @@
+---
+status: Proposed
+title: 'An organization''s appraisal is the negotiation among its perspectives, a common currency is that negotiation''s admitting an ordering of the options it faces, and hedonic valence is a regime in which an ordering of the organization''s own states by their bearing on its maintenance dominates the negotiation; so valence presupposes frustration, its sign is the direction of movement along the dominant ordering, its intensity is the strength of the dominance, and ambivalence, where no ordering dominates, differs from neutrality, where one dominates and nothing moves'
+version: 1
+role: thesis
+warrant: interpretive
+defeated_if: >-
+  Valenced states, identified by marks independent of this account, in a
+  system whose perspectives never conflict (a trivial compatibility
+  complex); or valence whose sign dissociates from the direction of
+  movement along the ordering that wins the system's conflicts; or
+  intensity that does not track control precedence; or ambivalent and
+  neutral states that a record of which conflicts are won, how long, and
+  whether the winner returns after interruption cannot tell apart.
+tags:
+- emotion-and-affect
+- motivation
+- self-governance
+date: '2026-10-23'
+line:
+- organizational-affect
+- distributed-agency
+uses:
+- TERM-tmp8gbrt
+- TERM-060
+rests_on:
+- CLAIM-347
+- CLAIM-283
+- CLAIM-039
+complements:
+- CLAIM-368
+- CLAIM-355
+grounds:
+- THEORY-055
+- THEORY-056
+- THEORY-027
+- THEORY-101
+summary: >-
+  The owner's, 2026-10-23, in the discussion of THEORY-101 that followed
+  the corporate psychopathy filing: "what if the 'appraisal' is the
+  process by which competing perspectives negotiate amongst themselves? I
+  think our earlier results equip us to reframe 'common currency' as
+  'admits an (at least instantaneous) ordering'. we could then formalize
+  a hedonic valence as a circumstance in which a particular kind of
+  ordering dominates the dynamics." Worked through the same day: dominance
+  read through Frijda's marks of control precedence, the kind of ordering
+  fixed as one over the system's own states, and five consequences drawn.
+---
+<!-- inactive-ok-file: CLAIM-039 CLAIM-283 CLAIM-347 CLAIM-355 CLAIM-368 THEORY-055 THEORY-056 THEORY-101 TERM-tmp8gbrt — Proposed; the claims, readings and term this claim rests on or is stated in, cited as open; it is Proposed with them -->
+
+# CLAIM-tmpz8lli: An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and hedonic valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance dominates the negotiation; so valence presupposes frustration, its sign is the direction of movement along the dominant ordering, its intensity is the strength of the dominance, and ambivalence, where no ordering dominates, differs from neutrality, where one dominates and nothing moves
+
+## The claim
+
+The owner, 2026-10-23: "what if the 'appraisal' is the process by which
+competing perspectives negotiate amongst themselves? I think our earlier
+results equip us to reframe 'common currency' as 'admits an (at least
+instantaneous) ordering'. we could then formalize a hedonic valence as a
+circumstance in which a particular kind of ordering dominates the
+dynamics." The definitions are TERM-tmp8gbrt's. The claim has three
+parts and five consequences.
+
+**1. Appraisal is negotiation.** Frijda's appraisal is an event's
+pertinence to a concern, eliciting action readiness with control
+precedence (THEORY-055). Read with the record's distributed agent, the
+concerns are perspectives, each with its own ranking of what to do next,
+and control precedence is not a property an emotion brings with it but
+the outcome of their negotiation: which perspective's ranking wins
+authority over action. This is how Frijda, Ridderinkhof and Rietveld
+already describe regulation, one motive state checking another with no
+regulator above them (THEORY-056), and it is CLAIM-283's distinction
+between the precedence a motive claims and the authority it is granted.
+
+**2. A common currency is the negotiation admitting an ordering.**
+Veit's "common currency of sharing evaluative information across
+multiple control systems" (THEORY-101) does two jobs: comparability, so
+that the options faced can be traded off, and sharing, so that one
+evaluation governs many control systems. The first is the negotiation's
+output being an ordering of the options at the instant; the second is
+part 3's dominance. This is the owner's correction of 2026-10-17 carried
+over (CLAIM-347: "We can do quite a lot with access to an ordering, even
+if it doesn't give us a true measure"). Two facts keep it from being a
+relabelling. A negotiation need not produce an ordering: Sen's theorem
+(THEORY-027) and CLAIM-353 show that decisive jurisdictions, unanimity
+and an unrestricted domain cannot always yield a best element. And an
+ordering need not be a currency (CLAIM-tmp85p0g).
+
+**3. Hedonic valence is dominance by an ordering of a particular kind.**
+The ordering ranks the system's own states by their bearing on its
+maintenance, and it dominates: it wins the negotiation's conflicts,
+persists, and resumes after interruption (TERM-tmp8gbrt).
+
+## What follows
+
+1. **No frustration, no valence.** Dominance needs something to dominate.
+   Where the perspectives never conflict, the compatibility complex of
+   CLAIM-347 has no minimal non-faces and no ranking wins anything. A
+   thermostat, one loop with one ranking, has no valence on this account.
+   This is the analogue of Frijda's "In the absence of concern
+   pertinence, there is no motive" (THEORY-055), and it does the work of
+   Veit's restriction to animals of high pathological complexity, without
+   a threshold. It makes valence a consequence of the record's frustration
+   line (CLAIM-347, CLAIM-368), not an addition to it.
+2. **Sign needs only the ordering.** Positive when the system moves up
+   the dominant ranking, negative when it moves down. Carver and Scheier's
+   rate-of-progress account of affect is prior art for this clause and is
+   registered (LIT-604, Unavailable); the record has not yet read it.
+3. **Intensity is dominance strength.** How much of what the other
+   perspectives would decide the dominant ranking overrides. THEORY-055
+   cites evidence that rated control precedence tracks rated intensity
+   (Sonnemans and Frijda 1994, not read here); on this account that is
+   because they are one quantity.
+4. **Ambivalence is not neutrality.** Neutral is dominance with no
+   movement. Ambivalence is either no ordering at all, when the
+   negotiation fails as Sen's theorem allows, or split dominance, one
+   ranking winning among some perspectives and another among the rest.
+5. **Two dominance regimes.** Dominance can be compensatory, the
+   dominant ranking trading off against others in proportion, or
+   lexicographic, the others deciding only its ties. CLAIM-tmp85p0g
+   shows the first has a currency and the second none, and
+   CLAIM-tmp83ge2 reads Veit and ALARM as these two regimes.
+
+## What it does not say
+
+- **That the regime is felt.** The claim is functional. Veit identifies
+  felt valence with the currency (THEORY-101); adopting that identity for
+  this regime is a further step the record has not taken, and the
+  owner's constitutive thesis (CLAIM-412) would bear on it. The
+  counterfactual eraser (THEORY-252) bears on it too: priority,
+  persistence and resumption are dispositional, so an identity of feeling
+  with this regime would be an identity with a functional role, unless
+  dominance is defined by conflicts actually won over an interval.
+- **How perspectives are individuated.** The claim takes them as given,
+  as TERM-072 does; individuating them without circularity is not this
+  claim's business.
+- **How dominance is measured.** QUESTION-tmpsqwu5.
+- **What happens when the dominant ordering ranks a proxy for
+  maintenance rather than maintenance.** QUESTION-tmprsrxs.
