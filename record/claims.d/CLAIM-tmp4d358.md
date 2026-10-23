@@ -15,6 +15,8 @@ objects_to:
 - CLAIM-tmpi98gg
 rests_on:
 - CLAIM-418
+grounds:
+- THEORY-tmp036dt
 summary: >-
   The objection to the record's reading of "institutional psychopath",
   raised in the same filing (2026-10-23). If the claim's third part is

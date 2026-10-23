@@ -12,7 +12,8 @@ defeated_if: >-
   imposes on others is borne by something other than its procedures,
   its members' roles, its regulators or its markets, so that the list is
   wrong; or an argument the record accepts that a corporation is not an
-  agent (Velasquez), which removes the subject of the claim.
+  agent (Velasquez, LIT-tmp7dpgf and LIT-tmpy1y1q), which removes the
+  subject of the claim.
 tags:
 - ethics
 - social-ontology
@@ -35,6 +36,7 @@ grounds:
 - LIT-tmp8tm3e
 - LIT-tmp3qow8
 - CASE-tmpuxgzy
+- THEORY-tmp036dt
 summary: >-
   The record's reading of Bakan's "institutional psychopath", filed at the
   owner's request on 2026-10-23. It keeps what French and Pettit give
@@ -80,13 +82,22 @@ Three parts.
    refrain from harming others" (LIT-tmp8tm3e), corrected: the
    corporation can recognize them, in the sense of holding them; what it
    lacks by default is a route from them to action.
-3. **Functional, not clinical.** On the clinical construct, psychopathy
-   is a deficit in a being whose kind normally has the capacity. A
-   corporation's kind has no such default. So "psychopathic" fits only
-   in a functional sense: the corporation's conduct can match the
-   lifestyle and antisocial features of the construct (exploitation,
-   failure to accept responsibility, indifference to harm) without
-   anything in it corresponding to a damaged affect.
+3. **Functional, not clinical, and partial.** On the clinical construct,
+   psychopathy is a disposition of a being whose kind normally has the
+   affective capacities it lacks. A corporation's kind has no such
+   default. So "psychopathic" fits only in a functional sense, and only
+   in part. Of the PCL-R's items (THEORY-tmp036dt), a corporation's
+   record can show those that are read from conduct: conning and
+   manipulation, pathological deception, callousness, failure to accept
+   responsibility, a parasitic lifestyle, irresponsibility. It cannot
+   show those that are states of feeling (shallow affect, lack of remorse
+   or guilt) except as the absence of a route from harm to action, which
+   is part 2. Several antisocial items are developmental and have no
+   counterpart. Since the construct has no essential component and is
+   dimensional (Hare and Neumann, p. 231, p. 234), a corporation can
+   match it to a degree; and matching its conduct with nothing in it
+   that feels, it sits nearer the behaviour-led diagnosis than the
+   construct.
 
 **What follows.** The remedy lies where the authority would come from: in
 procedures, role duties, liability and exit, not in finding members with
