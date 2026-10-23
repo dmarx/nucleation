@@ -112,3 +112,7 @@ own states or gives a sign. The bearing is set out in
 
 No instruction for machine-learning practice; nothing here belongs in the
 anthology.
+
+**The copy.** It was read from a posting by the Geneva E3 Lab, not by
+the publisher. The owner accepted that posting as a lawful copy on
+2026-10-23.
