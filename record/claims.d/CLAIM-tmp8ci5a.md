@@ -50,12 +50,12 @@ differentiated by characterizing them as saliencies relative to different
 (possibly overlapping) processes?"
 
 **Salience relative to a process.** Frijda's concern pertinence is
-already relative to a concern (THEORY-055). Read with the record's
+already relative to a concern ([THEORY-055](../theory.d/THEORY-055.md)). Read with the record's
 negotiation, each perspective has its own salience map: how much an event
 bears on that perspective's concerns, and which way.
 - **'Wanting'** is salience relative to the pursuit process, the one that
   ranks what to do next. Berridge's incentive salience is this
-  (THEORY-tmp0bbxk, THEORY-tmp7r9j4).
+  ([THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md), [THEORY-tmp7r9j4](../theory.d/THEORY-tmp7r9j4.md)).
 - **'Liking'** is salience relative to the consummatory process, the one
   that evaluates a state once it is reached.
 - **Overlapping.** The processes share components. Berridge and
@@ -67,13 +67,13 @@ bears on that perspective's concerns, and which way.
 The precedent is in the component process model: Shuman, Sander and
 Scherer's levels of valence turn on "the qualitative difference between
 perspectives with which the same object may be approached (e.g.,
-pleasantness or goal conduciveness of food)" (LIT-tmpkywoj, p. 13). The
+pleasantness or goal conduciveness of food)" ([LIT-tmpkywoj](../literature.d/LIT-tmpkywoj.md), p. 13). The
 claim says those perspectives are processes in the record's negotiation.
 
 **Valence relative to a perspective, and the system's valence.** Every
 perspective has its own valence, its ranking and its progress against its
 own reference course. The system's valence is that of the perspective
-whose ordering is the negotiation's potential (TERM-tmp8gbrt). That is
+whose ordering is the negotiation's potential ([TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)). That is
 Shuman and colleagues' micro-valences and macro-valence, the latter "an
 integrative "common currency" to compare alternatives for choices" (p. 1),
 and it is Carver's many goal loops each with a valence of its own, of
@@ -83,15 +83,15 @@ macro-valence is the gradient part.
 
 ## What it answers
 
-1. **The relapsing addict** (CLAIM-tmp5lpdu's third defeater). There is no
+1. **The relapsing addict** ([CLAIM-tmp5lpdu](CLAIM-tmp5lpdu.md)'s third defeater). There is no
    single sign to get wrong. The pursuit perspective prevails and its
    valence is positive; the perspective that wants to abstain has negative
    valence, regret; the system's valence is the prevailing one's. Relapse
    is craving relieved and regretted at once.
-2. **The asymmetry of the kind clause** (CLAIM-tmp5lpdu's note of
+2. **The asymmetry of the kind clause** ([CLAIM-tmp5lpdu](CLAIM-tmp5lpdu.md)'s note of
    2026-10-23). 'Wanting' and 'liking' each rank states by their bearing on
    their own process's concerns, so they are of one kind. The kind clause
-   becomes relative to a perspective, and QUESTION-tmprsrxs becomes the
+   becomes relative to a perspective, and [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md) becomes the
    question when the prevailing perspective's concerns have come apart
    from the organism's maintenance; sensitization is the case of a pursuit
    perspective prevailing on a cue-keyed proxy.
@@ -106,10 +106,10 @@ macro-valence is the gradient part.
   which fits small, fragile hotspots and 'liking' reactions that run
   unfelt. That is a description, not an explanation.
 - **How pursuit and consummation are individuated** without appeal to the
-  dissociations. That is TERM-072's open problem, with stakes now.
+  dissociations. That is [TERM-072](../terms.d/TERM-072.md)'s open problem, with stakes now.
 - **Whether the system's valence is more than bookkeeping.** If every
   perspective has its own, the system's may be nothing beyond the
   prevailing perspective's.
-- **Which valence is felt.** On CLAIM-tmptd5us, whichever the system
+- **Which valence is felt.** On [CLAIM-tmptd5us](CLAIM-tmptd5us.md), whichever the system
   models, which allows a felt pleasure that does not govern action and a
   governing 'wanting' that is not felt.
