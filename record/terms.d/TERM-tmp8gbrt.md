@@ -69,7 +69,7 @@ to a collective relation R_t on X_t.
   colleagues' power or control dimension continues; in decision theory a
   dominated option is one worse on every count. Ascendancy is neither: it
   is which ordering wins a negotiation. "Precedence" was not used either,
-  because CLAIM-283 uses it for the priority a motive claims, as against
+  because [CLAIM-283](../claims.d/CLAIM-283.md) uses it for the priority a motive claims, as against
   the authority it is granted; ascendancy is what is granted.
 
 - **Not a felt state.** The term is functional. Whether the regime is
