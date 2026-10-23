@@ -28,7 +28,7 @@ summary: >-
 
 ## The objection
 
-CLAIM-tmpi98gg concedes that a corporation was never built with what a
+[CLAIM-tmpi98gg](CLAIM-tmpi98gg.md) concedes that a corporation was never built with what a
 psychopath lacks. Then the word "psychopathic" does no work the claim's
 second part does not already do: "others' costs reach its decisions
 only through four routes" is the content, and the clinical label adds
@@ -39,7 +39,7 @@ be rewritten. A label that suggests the first invites the response
 suited to it (exclusion, blame, punishment) where the claim itself says
 the response is redesign.
 
-It rests on CLAIM-418: an organizational perspective is not thereby an
+It rests on [CLAIM-418](CLAIM-418.md): an organizational perspective is not thereby an
 agent, and a description of how an organization makes things matter
 need not be a description of an agent's character.
 

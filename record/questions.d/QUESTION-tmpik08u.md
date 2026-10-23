@@ -12,7 +12,7 @@ line: distributed-agency
 summary: >-
   The owner's question of 2026-10-23: how the record stands on "corporate
   psychopathy", "qua treating the corporation as a sociopathic entity".
-  Bakan's thesis (LIT-tmp8tm3e) is that the corporation is "created by law
+  Bakan's thesis ([LIT-tmp8tm3e](../literature.d/LIT-tmp8tm3e.md)) is that the corporation is "created by law
   to function much like a psychopathic personality". The record holds the
   readings the thesis needs on agency and responsibility (French, Pettit)
   and on group emotion (Huebner, List), but nothing on the clinical
@@ -27,22 +27,22 @@ summary: >-
 The owner, 2026-10-23: "how's the nucleation record on topics like
 corporate psychopathy? qua treating the corporation as a sociopathic
 entity." It was not, before this filing. Every "psychopath" in the record
-was a person's disorder or Wolf's stipulated case (THEORY-147).
+was a person's disorder or Wolf's stipulated case ([THEORY-147](../theory.d/THEORY-147.md)).
 
 The thesis needs three premises, and the record holds unequal parts of
 them.
 
-1. **The corporation is an agent.** French (THEORY-131) and Pettit
-   (THEORY-139) say so; List's result on aggregation (THEORY-127, Active)
-   and CLAIM-271 say a group's attitudes can be no member's. Velasquez
+1. **The corporation is an agent.** French ([THEORY-131](../theory.d/THEORY-131.md)) and Pettit
+   ([THEORY-139](../theory.d/THEORY-139.md)) say so; List's result on aggregation ([THEORY-127](../theory.d/THEORY-127.md), Active)
+   and [CLAIM-271](../claims.d/CLAIM-271.md) say a group's attitudes can be no member's. Velasquez
    denies it: responsibility needs a mind that forms intentions and a
    body it controls, and a corporation has neither.
 2. **Its wrongs are its own, not distributed to its members.** Isaacs
-   (LIT-698) on collective guilt, and Floridi (LIT-899) on harm no node
+   ([LIT-698](../literature.d/LIT-698.md)) on collective guilt, and Floridi ([LIT-899](../literature.d/LIT-899.md)) on harm no node
    intends.
-3. **It lacks the moral emotions.** Huebner (THEORY-125) allows a group
+3. **It lacks the moral emotions.** Huebner ([THEORY-125](../theory.d/THEORY-125.md)) allows a group
    functional, unfelt emotions, and has found no actual case; List
-   (NOTE-340) doubts a group agent is phenomenally conscious. Nothing in
+   ([NOTE-340](../notes.d/NOTE-340.md)) doubts a group agent is phenomenally conscious. Nothing in
    the record addresses remorse, guilt or empathy in a corporation.
 
 The third premise is where "psychopathic" gets its force, and it is where
@@ -50,7 +50,7 @@ the analogy may break: a person's psychopathy is a deficit in a being
 built to have a moral sense, and a corporation may never have had one to
 lose.
 
-It also has a rival that shares its name. Boddy (LIT-tmpcyd6d) says
+It also has a rival that shares its name. Boddy ([LIT-tmpcyd6d](../literature.d/LIT-tmpcyd6d.md)) says
 "corporate psychopaths" are people, individuals with psychopathic traits
 who rise in corporations. An answer has to say whether a corporation's
 harms need its members' traits at all.
