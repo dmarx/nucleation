@@ -184,25 +184,25 @@ By section. Nothing here is a new study.
 
 ## Connections
 
-It rests on the incentive-sensitization theory (LIT-tmpotzm0,
-THEORY-tmp7r9j4), which it cites as one model-free route, and on the
-model-based and model-free framework of Daw, Niv and Dayan (LIT-580). Its
+It rests on the incentive-sensitization theory ([LIT-tmpotzm0](../literature.d/LIT-tmpotzm0.md),
+[THEORY-tmp7r9j4](../theory.d/THEORY-tmp7r9j4.md)), which it cites as one model-free route, and on the
+model-based and model-free framework of Daw, Niv and Dayan ([LIT-580](../literature.d/LIT-580.md)). Its
 provider-side selection is the user-facing half of what Doctorow calls
-twiddling (LIT-033, NOTE-041): back-end adjustment of "recommendation
+twiddling ([LIT-033](../literature.d/LIT-033.md), [NOTE-041](NOTE-041.md)): back-end adjustment of "recommendation
 criteria" and ranking at low cost and high frequency. Doctorow argues from
 the firm's incentives, these authors from users' psychology, and neither
 studies a firm.
 
 ## Bearing on the record
 
-**QUESTION-tmprsrxs: designed proxy-keyed ascendancy in users. Yes, as
+**[QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md): designed proxy-keyed ascendancy in users. Yes, as
 description, and with a sharper map than the question has.** Each of the
-paper's model-based families acts on a different part of TERM-tmp8gbrt's
+paper's model-based families acts on a different part of [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s
 regime, and the model-free family on its strength. The mapping is the
 record's, not the paper's.
 - **Strength of a cue-keyed ranking (model-free).** Random-ratio rewards
   and personalized triggers raise the pull of the service's cues. Read
-  with THEORY-tmp7r9j4, this re-keys a ranking's strength to cues, the
+  with [THEORY-tmp7r9j4](../theory.d/THEORY-tmp7r9j4.md), this re-keys a ranking's strength to cues, the
   personal case the question names. The paper itself flags this route as
   the least shown outside gambling (p. 7).
 - **The ranks themselves (overvaluation).** Immersion and social reward
@@ -210,22 +210,22 @@ record's, not the paper's.
 - **The reference course (partial goal fulfilment).** Moving goalposts move
   the reference course along the ascendant ordering. On the sign clause
   the user is kept just behind course, which keeps the ordering engaged
-  without letting it settle at neutral. That fits CLAIM-tmpz8lli's
+  without letting it settle at neutral. That fits [CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)'s
   Carver-and-Scheier reading of sign as progress against a reference
   rate. It would also predict that these features yield mildly negative
   goal-conduciveness valence, not positive, during use. That is testable,
   and not tested here.
 - **The system's reading of its own progress (cognitive biases).** Near-
   misses and losses disguised as wins "contribute to the false belief that
-  one is progressing". On CLAIM-tmptd5us this falsifies the system's model
+  one is progressing". On [CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md) this falsifies the system's model
   of where it stands along the ascendant ordering, which is mis-felt
-  valence, not unfelt. It is the user-side counterpart of CASE-151's board
+  valence, not unfelt. It is the user-side counterpart of [CASE-151](../cases.d/CASE-151.md)'s board
   receiving a model of the bank's ascendancy that misrepresented it.
 - **The negotiation itself (interference with deliberation).** Autoplay and
   countdowns do not outweigh the other perspectives. They pre-empt them:
   the next episode starts before any perspective that would stop it is
   consulted. Ascendancy is then won by default, not in conflict. This
-  bears on QUESTION-tmpsqwu5. A conflict record will show no conflict
+  bears on [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md). A conflict record will show no conflict
   where a feature has removed the occasion for one, so the measurement
   must count pre-empted decisions as well as decided ones.
 
@@ -244,19 +244,19 @@ record's account, this is two proxy-keyed ascendancies coupled. The
 firm's ascendant ordering, ranked by engagement and revenue, a proxy for
 its viability, selects features. The selected features make a cue-keyed
 ranking ascendant in users, a proxy for their good.
-- **CLAIM-432.** The coupling fits threat without remorse. The harm to users
+- **[CLAIM-432](../claims.d/CLAIM-432.md).** The coupling fits threat without remorse. The harm to users
   need not be represented anywhere in the firm, since selection by the
   metric needs "little knowledge of underlying psychological processes".
   So the remorse that is functionally absent is a concern absent from the
   ordering, not one overridden. The paper's call for regulation is the
   claim's remedy, a redesign of the firm's concerns from outside, though
   the paper does not put it that way.
-- **NOTE-041.** Doctorow's twiddling is the firm-side mechanism and this is
+- **[NOTE-041](NOTE-041.md).** Doctorow's twiddling is the firm-side mechanism and this is
   its user-side effect. Doctorow's third stage, in which value is drawn
   from users, would be the firm's metric prevailing over the user-facing
   concerns that held it in the first stage. That connection is the
   record's.
-- **CASE-151's parallel is partial.** There, signals of harm stayed inside
+- **[CASE-151](../cases.d/CASE-151.md)'s parallel is partial.** There, signals of harm stayed inside
   the firm, held by people who could not act. Here the asymmetry is
   between the firm and its users and researchers, and the firm holds the
   signals.
@@ -295,7 +295,7 @@ methods.
   affect during use, measured apart from choice? The record's sign clause
   predicts negative.
 - Can pre-empted decisions (autoplay) be distinguished from decisions won
-  by the ascendant ranking in a conflict record, as QUESTION-tmpsqwu5
+  by the ascendant ranking in a conflict record, as [QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md)
   would need?
 - Is there a documented case of a firm keeping a feature for its
   engagement effect against its own evidence of harm?

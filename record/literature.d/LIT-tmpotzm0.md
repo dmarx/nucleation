@@ -1,6 +1,6 @@
 ---
 status: Active
-status_note: 'read 2026-10-23 (NOTE-tmprj162): in full, from the NIH author manuscript in PubMed Central (PMC5171207, NIHMS816820). Worth reading as the authors'' own short statement, a quarter-century on, of the incentive-sensitization theory of addiction. Drugs, and perhaps unpredictable non-drug rewards, can make mesolimbic ''wanting'' systems lastingly hyper-reactive to cues and contexts, and ''liking'' need not rise with it. Sensitized ''wanting'' can oppose a person''s cognitive desire, operate without report, persist for years and grow during abstinence. It is a review of the authors'' programme. Filed for the record''s question whether ascendancy of a proxy for maintenance is valence, and the form addiction and metric fixation share (QUESTION-tmprsrxs), to which it gives a mechanism on the personal side.'
+status_note: 'read 2026-10-23 ([NOTE-tmprj162](../notes.d/NOTE-tmprj162.md)): in full, from the NIH author manuscript in PubMed Central (PMC5171207, NIHMS816820). Worth reading as the authors'' own short statement, a quarter-century on, of the incentive-sensitization theory of addiction. Drugs, and perhaps unpredictable non-drug rewards, can make mesolimbic ''wanting'' systems lastingly hyper-reactive to cues and contexts, and ''liking'' need not rise with it. Sensitized ''wanting'' can oppose a person''s cognitive desire, operate without report, persist for years and grow during abstinence. It is a review of the authors'' programme. Filed for the record''s question whether ascendancy of a proxy for maintenance is valence, and the form addiction and metric fixation share ([QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md)), to which it gives a mechanism on the personal side.'
 title: 'Liking, wanting, and the incentive-sensitization theory of addiction'
 version: 1
 history:
@@ -67,7 +67,7 @@ Kent C. Berridge & Terry E. Robinson (2016), *American Psychologist*
 
 ## Key takeaways
 
-*From the reading, NOTE-tmprj162. Located by section; the manuscript
+*From the reading, [NOTE-tmprj162](../notes.d/NOTE-tmprj162.md). Located by section; the manuscript
 is unpaginated.*
 
 - **The theory.** "The incentive-sensitization theory posits the essence
@@ -99,15 +99,15 @@ is unpaginated.*
 
 ## Standing in the record
 
-Filed on 2026-10-23 at the owner's request, for QUESTION-tmprsrxs: when the
+Filed on 2026-10-23 at the owner's request, for [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md): when the
 ordering that prevails ranks a system's states by a proxy for its
 maintenance, is that valence, and is it the form addiction and metric
 fixation share? On the personal side the theory gives the question a
 mechanism. Sensitized 'wanting' shows all three of the marks by which
-TERM-tmp8gbrt defines ascendancy, and its strength is set by cue
+[TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md) defines ascendancy, and its strength is set by cue
 reactivity, not by what the outcome does for the person. It also presses
-on CLAIM-tmp5lpdu. That claim pairs ascendancy strength with 'wanting' and
+on [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md). That claim pairs ascendancy strength with 'wanting' and
 sign with goal conduciveness, and this paper's recovering addict is the
-case where the two come apart. It is the same programme as THEORY-tmp0bbxk
+case where the two come apart. It is the same programme as [THEORY-tmp0bbxk](../theory.d/THEORY-tmp0bbxk.md)
 and another review, so it cannot meet that reading's `promote_when`. The
-account is THEORY-tmp7r9j4.
+account is [THEORY-tmp7r9j4](../theory.d/THEORY-tmp7r9j4.md).

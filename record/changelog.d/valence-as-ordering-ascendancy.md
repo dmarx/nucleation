@@ -9,8 +9,8 @@
   - a question on operationalizing felt valence in three independently measured layers ([QUESTION-tmp0oife](record/questions.d/QUESTION-tmp0oife.md)), and a candidate claim: valence is felt when the system models its own ascendancy ([CLAIM-tmptd5us](record/claims.d/CLAIM-tmptd5us.md));
   - Berridge's liking–wanting dissociation ([THEORY-tmp0bbxk](record/theory.d/THEORY-tmp0bbxk.md)), and from it an objection that ascendancy tracks wanting, not liking ([CLAIM-tmpe0iew](record/claims.d/CLAIM-tmpe0iew.md)).
   - a reply conceding that objection in a principled form, on the component process model's levels of valence: the account is of goal-conduciveness valence ([CLAIM-tmp5lpdu](record/claims.d/CLAIM-tmp5lpdu.md)).
-  - incentive sensitization (THEORY-tmp7r9j4), and notes on CLAIM-tmp5lpdu and QUESTION-tmprsrxs relating it and a taxonomy of addictive design features to the account.
-- Thirty-seven new works in five batches, and a note on NOTE-1063 relating the beautiful-loop reading to the felt candidate. A curation entry.
+  - incentive sensitization ([THEORY-tmp7r9j4](record/theory.d/THEORY-tmp7r9j4.md)), and notes on [CLAIM-tmp5lpdu](record/claims.d/CLAIM-tmp5lpdu.md) and [QUESTION-tmprsrxs](record/questions.d/QUESTION-tmprsrxs.md) relating it and a taxonomy of addictive design features to the account.
+- Thirty-seven new works in five batches, and a note on [NOTE-1063](record/notes.d/NOTE-1063.md) relating the beautiful-loop reading to the felt candidate. A curation entry.
 
 ### Changed
 

@@ -26,13 +26,13 @@ date: '2026-10-23'
 source:
 - LIT-tmpotzm0
 summary: >-
-  Berridge and Robinson (2016), LIT-tmpotzm0, read in NOTE-tmprj162
+  Berridge and Robinson (2016), [LIT-tmpotzm0](../literature.d/LIT-tmpotzm0.md), read in [NOTE-tmprj162](../notes.d/NOTE-tmprj162.md)
   from the PMC author manuscript. A review by the theory's authors. Strong
   in rats and moderate in people for drugs; weak for behavioural
   addictions, where the authors call the evidence emerging and the
-  mechanism unknown. Filed separately from THEORY-tmp0bbxk, which holds
-  the liking–wanting dissociation, because what QUESTION-tmprsrxs and
-  CLAIM-tmp5lpdu need is the sensitization result: a ranking whose
+  mechanism unknown. Filed separately from [THEORY-tmp0bbxk](THEORY-tmp0bbxk.md), which holds
+  the liking–wanting dissociation, because what [QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md) and
+  [CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md) need is the sensitization result: a ranking whose
   strength is re-keyed to cues, cut loose from both pleasure and the
   person's goals, and lasting.
 ---
@@ -45,7 +45,7 @@ summary: >-
 
 Berridge and Robinson (2016), "Liking, wanting, and the
 incentive-sensitization theory of addiction", *American Psychologist*
-71(8):670–679 (LIT-tmpotzm0), read in full in NOTE-tmprj162 from
+71(8):670–679 ([LIT-tmpotzm0](../literature.d/LIT-tmpotzm0.md)), read in full in [NOTE-tmprj162](../notes.d/NOTE-tmprj162.md) from
 the NIH author manuscript (PMC5171207). It is unpaginated, so locations
 are by section.
 
@@ -56,7 +56,7 @@ A review. The primary studies were not read here.
 - **The dissociation it starts from.** Dopamine depletion left 'liking'
   reactions to sugar "completely normal" while abolishing motivation, and
   stimulation raised 'wanting' without raising 'liking' (introduction;
-  held in THEORY-tmp0bbxk).
+  held in [THEORY-tmp0bbxk](THEORY-tmp0bbxk.md)).
 - **Sensitization, and its independence from pleasure.** "Once induced,
   sensitization is very long lasting, and possibly even permanent."
   "‘Liking’, by contrast, need not increase with sensitization, and may
@@ -105,19 +105,19 @@ reactions rising with pursuit.
 
 ## Connections
 
-- **THEORY-tmp0bbxk** holds the liking–wanting dissociation from the same
+- **[THEORY-tmp0bbxk](THEORY-tmp0bbxk.md)** holds the liking–wanting dissociation from the same
   programme. This account adds the lasting, cue-keyed amplification of
   'wanting'.
-- **QUESTION-tmprsrxs.** It is the mechanism on the personal side: a
+- **[QUESTION-tmprsrxs](../questions.d/QUESTION-tmprsrxs.md).** It is the mechanism on the personal side: a
   ranking whose strength is re-keyed to cues and comes apart from both
   pleasure and the person's goals. Its ordering is over cues, which is the
-  difficulty NOTE-tmprj162 raises for TERM-tmp8gbrt's kind clause.
-- **CLAIM-tmp5lpdu.** The recovering addict who relapses is the case of
+  difficulty [NOTE-tmprj162](../notes.d/NOTE-tmprj162.md) raises for [TERM-tmp8gbrt](../terms.d/TERM-tmp8gbrt.md)'s kind clause.
+- **[CLAIM-tmp5lpdu](../claims.d/CLAIM-tmp5lpdu.md).** The recovering addict who relapses is the case of
   strength without goal conduciveness, read by the person's goals. This is
   that claim's third defeater.
-- **CLAIM-tmptd5us.** Motivation that rises without reportable change in
+- **[CLAIM-tmptd5us](../claims.d/CLAIM-tmptd5us.md).** Motivation that rises without reportable change in
   feeling is a reported instance of ascendancy without a self-model of it.
-- **QUESTION-tmpsqwu5.** Context-gating means a conflict record taken
+- **[QUESTION-tmpsqwu5](../questions.d/QUESTION-tmpsqwu5.md).** Context-gating means a conflict record taken
   outside the gating context will understate this kind of ascendancy.
-- **Flayelle et al. (LIT-tmpqxirs)** use it as one of their two
+- **Flayelle et al. ([LIT-tmpqxirs](../literature.d/LIT-tmpqxirs.md))** use it as one of their two
   model-free routes by which design features promote uncontrolled use.

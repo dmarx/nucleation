@@ -153,7 +153,7 @@ coherence has been reached" ([LIT-tmpjaacn](../literature.d/LIT-tmpjaacn.md), p.
 ## A second rival: the beautiful loop
 
 Laukkonen, Friston and Chandaria
-(LIT-1363, NOTE-1063, THEORY-882) separate local "parametric depth", a
+([LIT-1363](../literature.d/LIT-1363.md), [NOTE-1063](../notes.d/NOTE-1063.md), [THEORY-882](../theory.d/THEORY-882.md)) separate local "parametric depth", a
 second-order inference about one precision such as "policy precision",
 for which they cite Hesp et al., from epistemic depth, a system-wide
 recursive loop over all precisions. They hold that "even complex
@@ -166,7 +166,7 @@ and available, their view is about something stronger and does not
 conflict. If "felt" is meant as awareness, their view predicts this
 claim's second defeater, and the claim would need strengthening: the
 model of ascendancy must be part of a global, recursive precision loop.
-Their proposal has no data and no simulation (NOTE-1063), so it decides
+Their proposal has no data and no simulation ([NOTE-1063](../notes.d/NOTE-1063.md)), so it decides
 nothing, but it names the distinction the claim must take a side on.
 
 ## Felt what?
