@@ -1,6 +1,6 @@
 ---
 status: Proposed
-title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a lexicographic override lies in the gap, and even where each instant has a currency, successive currencies need not share exchange rates'
+title: 'An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while a threshold override does not, and even where each instant has a currency, successive currencies need not share exchange rates'
 version: 1
 role: thesis
 warrant: demonstrated
@@ -15,21 +15,26 @@ line:
 - formal-apparatus
 - organizational-affect
 grounds:
+- LIT-tmp1hbb9
+- LIT-tmpin6y6
 - THEORY-101
 - THEORY-090
 summary: >-
   The formal half of the owner's reframing of 2026-10-23, that a "common
   currency" is better read as a negotiation admitting an (at least
   instantaneous) ordering. On finite option sets the two coincide at each
-  instant. On a continuum they do not: a lexicographic order, the form of
-  ALARM's "100% weight" override, admits no numerical representation,
-  while a continuous ordering, the form of Veit's proportional trade-offs,
-  admits a continuous one (Debreu). Across instants, representations need
-  not be related, so a sequence of currencies need not be one currency.
+  instant. On a continuum they do not: a graded lexicographic order, one
+  form ALARM's "100% weight" override could take, admits no numerical
+  representation, while a continuous ordering, the form of Veit's
+  proportional trade-offs, admits a continuous one (Eilenberg; Debreu). A
+  threshold override admits a discontinuous one. Across instants,
+  representations need not be related, so a sequence of currencies need
+  not be one currency.
 ---
 <!-- inactive-ok-file: THEORY-101 THEORY-090 — Proposed; the two accounts whose distinction the result draws formally, cited as open -->
+<!-- inactive-ok-file: LIT-tmpin6y6 — Unavailable, no lawful full text; Debreu 1954, cited for the theorem as Debreu restates it in LIT-tmp1hbb9 -->
 
-# CLAIM-tmp85p0g: An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a lexicographic override lies in the gap, and even where each instant has a currency, successive currencies need not share exchange rates
+# CLAIM-tmp85p0g: An instantaneous ordering is a common currency on a finite set of options, where every complete preorder has a real-valued representation, but not in general: the lexicographic order on the unit square has no real-valued representation, while a continuous complete preorder on a connected separable space has a continuous one; so admitting an ordering is strictly weaker than admitting a currency, a graded lexicographic override lies in the gap while a threshold override does not, and even where each instant has a currency, successive currencies need not share exchange rates
 
 ## The claim
 
@@ -54,11 +59,29 @@ disjoint. Each contains a rational, and distinct intervals contain
 distinct rationals, so there would be uncountably many rationals. No
 such u exists.
 
-**3. A continuous ordering is a currency.** By Debreu's representation
-theorem, a complete preorder on a connected, separable topological space
-whose upper and lower contour sets are closed has a continuous
-real-valued representation. The lexicographic order of part 2 fails the
-hypothesis: its contour sets are not closed.
+**3. A continuous ordering is a currency.** A complete preorder on a
+connected, separable topological space whose upper and lower contour sets
+are closed has a continuous real-valued representation. The theorem is
+essentially Eilenberg's (1941); Debreu (1954, LIT-tmpin6y6) removed the
+connectedness assumption for second-countable spaces, and states both in
+*Theory of Value* (1959, LIT-tmp1hbb9, read in NOTE-tmpsug0b, pp. 56,
+72–73), with the lexicographic order of R² as his example of a complete
+preordering that "cannot be represented by a real-valued function"
+(p. 72). The lexicographic order of part 2 fails the hypothesis: its
+contour sets are not closed.
+
+**3a. Continuity is sufficient, not necessary.** A discontinuous
+ordering can still have a representation. Take cost–resource pairs (c, r)
+with c, r ∈ [0, 1], a continuous trade-off f(c, r) with values in [0, 1]
+for costs at or below a threshold c*, and above it a ranking by cost
+alone, resource ignored. Then u(c, r) = f(c, r) for c ≤ c* and
+u(c, r) = −c for c > c* represents it: every option above the threshold
+is worse than every option below, and the ordering is discontinuous at
+c*. What has no representation is a *graded* override, in which the
+overriding dimension decides at every level across a continuum and
+another dimension still breaks its ties. Above the threshold, a ranking
+by cost with resource breaking ties at equal cost is the order of
+part 2 again.
 
 **4. Successive currencies need not share exchange rates.** If R_t is an
 ordering at each t with representation u_t, nothing relates u_t to u_s:
@@ -77,17 +100,22 @@ each instant.
 - **Where magnitudes are continuous**, as in the trade-off experiments
   Veit's criterion uses (a noxious cost against a resource, in proportion
   to both), "admits an ordering" is strictly weaker than "admits a
-  currency". A lexicographic override, the form ALARM's "100% weight"
-  takes ([THEORY-090](../theory.d/THEORY-090.md)), is an ordering with no currency. A continuous
-  trade-off, Veit's form ([THEORY-101](../theory.d/THEORY-101.md)), is an ordering with a continuous
-  currency. [CLAIM-tmp83ge2](CLAIM-tmp83ge2.md) draws the consequence for their rivalry.
+  currency". A continuous trade-off, Veit's form (THEORY-101), has a
+  continuous currency. An override, ALARM's "100% weight" (THEORY-090),
+  has no currency only if it is graded, the alarm deciding at every
+  level of its own intensity; a threshold override, alarm on or off, has
+  a discontinuous one. CLAIM-tmp83ge2 draws the consequence for their
+  rivalry.
 
 ## What it does not say
 
 - That every ordering without a currency is lexicographic. Others exist
   (orders on non-separable spaces, among them); the claim says only that
-  the lexicographic one lies in the gap.
-- That a negotiation always produces an ordering. It need not ([THEORY-027](../theory.d/THEORY-027.md),
-  [CLAIM-353](CLAIM-353.md)); that is a separate fact, used in [CLAIM-tmpz8lli](CLAIM-tmpz8lli.md).
-- That anything here is new mathematics. Parts 1 to 3 are textbook
-  results of utility theory, written out so the record can check them.
+  the graded lexicographic one lies in the gap.
+- That every override lacks a currency. A threshold override has one
+  (part 3a).
+- That a negotiation always produces an ordering. It need not (THEORY-027,
+  CLAIM-353); that is a separate fact, used in CLAIM-tmpz8lli.
+- That anything here is new mathematics. Parts 1 to 3a are textbook
+  results of utility theory (Eilenberg; Debreu), written out so the
+  record can check them.

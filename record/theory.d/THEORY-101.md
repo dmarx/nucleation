@@ -167,13 +167,13 @@ Neither [LIT-105](../literature.d/LIT-105.md) nor the paper says which. The stat
 ## Note of 2026-10-23: the rivalry recast as continuity
 
 On the owner's reading of valence as dominance of a negotiation by an
-ordering of the system's own states ([CLAIM-tmpz8lli](../claims.d/CLAIM-tmpz8lli.md)), this account and
+ordering of the system's own states (CLAIM-tmpz8lli), this account and
 its rival are two regimes of one thing: Veit's currency is compensatory,
-continuous dominance, and ALARM's override is lexicographic dominance.
-[CLAIM-tmp85p0g](../claims.d/CLAIM-tmp85p0g.md) shows a continuous ordering has a numerical representation
-and a lexicographic one on a continuum has none, so the override is not
-"a weight in a common currency" of any size, and the rivalry does not
-dissolve in the way this record once imagined. [CLAIM-tmp83ge2](../claims.d/CLAIM-tmp83ge2.md) recasts it
-as one question, whether the earliest trade-off curves are continuous or
-stepped. The statement is unchanged.
-
+continuous dominance, and ALARM's override is overriding dominance.
+CLAIM-tmp85p0g shows a continuous ordering has a numerical representation;
+a threshold override has a discontinuous one, so in that form the
+override is an extreme weight and the dissolution this record imagined
+goes through; a graded override has none, and in that form it does not.
+CLAIM-tmp83ge2 recasts the rivalry as one question, whether the earliest
+trade-off curves are continuous, and if not, which form the override
+takes. The statement is unchanged.

@@ -1,0 +1,158 @@
+---
+status: Read
+paper: LIT-tmpdmzgc
+title: 'Control Theory, Goal Attainment, and Psychopathology'
+version: 1
+history:
+- version: 1
+  date: '2026-10-23'
+  note: >-
+    Read in full: the NIH author manuscript in PubMed Central (PMC6707771),
+    from its HTML text, including the three figure captions and the three
+    footnotes. The figures themselves were not seen. The manuscript is
+    unpaginated, so quotations are located by section. All quotations
+    were checked by script against the extracted text.
+date: '2026-10-23'
+summary: >-
+  A commentary. Control theory adds to goal talk the need to perceive the
+  present state and compare it with the goal. Psychopathology arises
+  where the loop's input, reference value, comparison or output is
+  extreme or biased. The five factors are sensitivities to classes of
+  goals. Valence tracks the velocity of goal attainment against a
+  reference value, so approach and avoidance can each produce either
+  sign. Confidence, doubt and disengagement lie outside the loop, in
+  expectancy-value theory.
+---
+<!-- inactive-ok-file: LIT-tmp63om1 LIT-604 LIT-1179 — Unavailable, unread; the 1990 paper restated here, the 1982 review, and Powers 1973, named as the sources the commentary rests on -->
+<!-- inactive-ok-file: CLAIM-tmpz8lli TERM-tmp8gbrt CLAIM-tmp83ge2 QUESTION-tmpsqwu5 THEORY-055 THEORY-101 — Proposed or Open; the account this reading bears on, cited as open -->
+
+# NOTE-tmpcc9vz: Control Theory, Goal Attainment, and Psychopathology
+
+## Contribution
+
+A short reply to DeYoung and Krueger's cybernetic theory of
+psychopathology. It agrees that cybernetics grounds such a theory and
+sees the grounding differently. In passing it gives Carver's compact
+statement of what he and Scheier mean by valence.
+
+## Key insight
+
+Affect does not report where a system is relative to its goal. It
+reports how fast the system is getting there, against a reference: "a
+reference value (at which affective valence would be neutral) … these
+are all seen in terms of velocity of goal attainment rather than states"
+(§Confidence, Doubt, and Psychopathology).
+
+## Assumptions
+
+- Feedback loops in human action have represented goals, though "not all
+  feedback loops have represented goals" (§Goal Based Behavior).
+- Goals are organized hierarchically, after Powers (1973), and many are
+  in play at once.
+- There are two broad motivational systems, incentive approach
+  (extraversion) and threat avoidance (neuroticism).
+
+## Key results
+
+Argument, not results:
+
+- Problems arise when any of a loop's four parameters is extreme or
+  biased (§Elements of Feedback Control and Sources of Problems).
+- The five factors are sensitivities to classes of goals, not loop
+  parameters. Neuroticism is threat sensitivity, not negative affect.
+- Valence comes from how well a system is doing, so each system yields
+  both signs (§Feedback Loops, Goals, and Dimensions of Personality).
+- Engagement is high near the criterion and fails when progress is far
+  below it (Figure 3 and text).
+- Disengagement and doubt are not predicted by control theory.
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | Valence reflects the velocity of goal attainment relative to a reference value, not the state reached | moderate | asserted, with citation to Carver & Scheier 1990, 1998, 2013 |
+| C2 | The approach and avoidance systems can each produce positive and negative affect | moderate | asserted; anger as approach-related negative affect (Carver & Harmon-Jones 2009) |
+| C3 | The five factors reflect sensitivities to classes of goals rather than cybernetic parameters | weak | interpretive argument |
+| C4 | Disengagement from a failing goal is not predicted by control theory as such | moderate | argument from the thermostat; footnote 3 offers priority re-ranking as a possible fix |
+
+## Concepts
+
+- **reference value** — the loop's goal, "the state of affairs the loop
+  is trying to bring into existence".
+- **velocity of goal attainment** — the quantity affect tracks. Valence is
+  neutral at a reference value of it.
+- **functionally superordinate** — the level of the Powers hierarchy
+  currently in charge, which "can vary across situations and persons".
+- **priority ranking** — the order of the many goals in play, subject to
+  "continual juggling" (n. 3, citing Carver 2003).
+
+## Connections
+
+Responds to DeYoung & Krueger (2018), not in the record. Restates Carver
+& Scheier 1990 (LIT-tmp63om1, Unavailable) and draws on
+Powers (LIT-1179, Unavailable; his feedback papers LIT-1188 and LIT-1197
+are read). Cites Carver 2003, "Pleasure as a sign you can attend to
+something else", for priority management. That paper is not in the
+record.
+
+## Bearing on the record
+
+The record's proposal (CLAIM-tmpz8lli, TERM-tmp8gbrt) makes hedonic
+valence a regime in which one ordering of a system's own states, by their
+bearing on its maintenance, dominates the negotiation among its
+perspectives. Its sign is the direction of movement along that ordering,
+and its intensity is the strength of the dominance. Carver's account
+bears on it in four ways.
+
+- **The sign clause is anticipated, and is less accurate than
+  Carver's.** Carver and Scheier already make the sign of affect a
+  function of movement relative to a goal, not of position. The proposal
+  should say the clause is theirs. They also differ from it. Their
+  neutral point is a *reference velocity*: "a reference value (at which
+  affective valence would be neutral)". The proposal makes neutral
+  "dominance with no movement". On Carver's account a system that stands
+  still where it expected to advance has negative valence. On the
+  proposal's it is neutral. The two give different predictions for an
+  animal that stops gaining. The proposal should either adopt a
+  reference rate, so that sign is the direction of movement *relative to
+  an expected movement*, or say why rest is neutral.
+- **Carver has a valence per goal loop. The proposal has one dominant
+  ordering.** For Carver, each of the approach and avoidance systems "can
+  be responsible for either positive affect or negative affect", and his
+  Figure 2 has two dimensions crossing at "neutral points on both
+  dimensions". This is two valence signals, one per system, not one
+  ordering. The proposal can absorb it only by arguing that felt valence
+  is whichever loop's signal dominates. That is a substantive addition,
+  and Carver does not make it.
+- **Dominance is present only in outline.** Carver speaks of competition
+  between "two sources of guidance for behavior", of which level is
+  "functionally superordinate", and of "continual juggling of the
+  priorities afforded to each" goal (n. 3). This is the nearest the
+  tradition comes to the proposal's dominance, and it is not tied to
+  valence. Carver ties affect to rate and priority to the hierarchy. The
+  proposal's identification of intensity with dominance strength is not
+  in Carver.
+- **A possible conflict over intensity, not checked.** Footnote 3 cites
+  Carver 2003 for priority juggling. Its title says pleasure is "a sign
+  you can attend to something else", which suggests that positive affect
+  *lowers* a goal's priority. If so, on Carver's account a strongly
+  positive goal loses precedence, while on the proposal's, intense
+  positive valence is strong dominance. The record has not read Carver
+  2003. This should be checked before the intensity clause is promoted,
+  since THEORY-055's evidence that control precedence tracks intensity is
+  also not read here.
+
+Carver's text does not touch ambivalence, the lexicographic/compensatory
+distinction (CLAIM-tmp83ge2), or felt valence (THEORY-101).
+
+## Limitations
+
+A commentary. It asserts the affect account and cites its sources rather
+than arguing for it. The figures were not seen. The reference rate is
+named, but how it is set is not discussed.
+
+## Open questions
+
+What sets the reference rate, and whether it is itself a dominant
+ordering's expectation. Whether the two systems' valence signals combine
+into one valence, or are felt separately.
