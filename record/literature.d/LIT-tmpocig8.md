@@ -1,12 +1,17 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U16. No NOTE is filed.
+  filed 2026-10-24 from the owner's exchange of 2026-10-23/24, shared at
+  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where it
+  is cited at turn U16; a reading was attempted on 2026-10-24 and failed on
+  availability. The article is closed: Unpaywall, OpenAlex and Semantic
+  Scholar list no open copy and no repository full text, JSTOR and Cambridge
+  Core (which now hosts World Politics' back issues) offer it only by
+  subscription or purchase, and a web search found no author or
+  institutional copy, only course-site postings behind logins. It stays
+  Unavailable until a copy is supplied. No NOTE is filed.
 title: 'When Effect Becomes Cause: Policy Feedback and Political Change'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -21,6 +26,16 @@ history:
     THEORY-885 rests on LIT-1372, Pierson's "Increasing Returns, Path
     Dependence, and the Study of Politics" (2000). The summary follows
     the abstract on Crossref.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, on availability. Searched
+    2026-10-24: Unpaywall, OpenAlex and Semantic Scholar (closed, no open
+    location), the Cambridge Core article page ("Get access", purchase
+    only), JSTOR (doi:10.2307/2950710, subscription), and the web for an
+    author's or repository copy (none; a Moodle course posting at JKU
+    requires login and was not used). The summary still follows the Crossref
+    abstract.
 tags:
 - society-and-governance
 date: '2026-10-24'

@@ -1,12 +1,19 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U16. No NOTE is filed.
+  filed 2026-10-24 from the owner's exchange of 2026-10-23/24, shared at
+  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where it
+  is cited at turn U16; a reading was attempted on 2026-10-24 and failed on
+  access, not availability. Unpaywall and OpenAlex list the publisher's
+  version as free to read at Annual Reviews (hybrid, given as CC BY-SA), but
+  every request to annualreviews.org, the PDF and the article page, met a
+  Cloudflare bot check (403), from both this client and a second fetcher. No
+  other copy was found: OpenAlex lists no repository copy, Semantic Scholar
+  has no record of the DOI, and a web search found none. It stays
+  Unavailable until a copy is supplied or the publisher's site can be
+  reached; it is the one of its batch to retry first. No NOTE is filed.
 title: 'Emergency Powers'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -20,6 +27,16 @@ history:
     date, which is `published:`; its record was created on 1 August
     2006, which may reflect an earlier online appearance that no source
     checked confirms. The summary follows the abstract on Crossref.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, on access. A lawful copy
+    appears to exist: Unpaywall and OpenAlex give the version of record at
+    doi:10.1146/annurev.lawsocsci.2.061206.074644 as open (hybrid, CC BY-SA). On 2026-10-24 annualreviews.org answered every request, to the PDF
+    (/doi/pdf/...) and to the article page, with a Cloudflare challenge
+    (403), from curl and from a second fetcher. Also searched: Semantic
+    Scholar (DOI not found), OpenAlex repository locations (none) and the
+    web (no other copy). The summary still follows the Crossref abstract.
 tags:
 - society-and-governance
 date: '2026-10-24'

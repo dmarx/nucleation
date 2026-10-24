@@ -1,12 +1,17 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U16. No NOTE is filed.
+  filed 2026-10-24 from the owner's exchange of 2026-10-23/24, shared at
+  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where it
+  is cited at turn U16; a reading was attempted on 2026-10-24 and failed on
+  availability. It is a commercial book (Lynne Rienner, 1997/98; De Gruyter
+  digital edition 2022) with no lawful open copy: Unpaywall and OpenAlex
+  list it as closed with no repository copy, the De Gruyter page offers no
+  open access, and the Internet Archive's search found no copy, lending or
+  otherwise. It stays Unavailable until a copy is supplied. No NOTE is
+  filed.
 title: 'Security: A New Framework for Analysis'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -22,6 +27,16 @@ history:
     which is `published:`; the book is usually cited as 1998, its
     imprint year. The summary is what the book is standardly cited for;
     Crossref carries no abstract.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041, on availability. Searched
+    2026-10-24: Unpaywall and OpenAlex (closed, no open location, no
+    repository full text), the publisher's digital edition at De Gruyter
+    (doi:10.1515/9781685853808, no open access offered), and the Internet
+    Archive's catalogue (no copy). It is an in-print commercial book, and no
+    lawful full copy was found. The summary is still what the book is
+    standardly cited for.
 tags:
 - society-and-governance
 date: '2026-10-24'
