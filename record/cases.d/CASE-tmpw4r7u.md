@@ -25,6 +25,8 @@ summary: >-
   threshold.
 supports:
 - CLAIM-tmp1xoac
+variants:
+- CASE-tmpffs67
 ---
 <!-- inactive-ok-file: THEORY-tmp3oyxw CLAIM-tmp1xoac CLAIM-tmp0qupq CLAIM-tmp8z857 CASE-tmpydmf8 — Proposed, filed in this pull request -->
 

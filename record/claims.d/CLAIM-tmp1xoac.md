@@ -40,6 +40,7 @@ summary: >-
   states are for.
 illustrated_by:
 - CASE-tmpw4r7u
+- CASE-tmpffs67
 ---
 <!-- inactive-ok-file: THEORY-tmp3oyxw CASE-tmpw4r7u CLAIM-tmp0qupq CLAIM-tmpd6q2w — Proposed or new, filed in this pull request -->
 <!-- inactive-ok-file: CLAIM-369 THEORY-894 THEORY-896 CLAIM-tmpuxcp6 — cited as the tools the reduction brings in -->

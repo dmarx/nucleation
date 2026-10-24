@@ -1,3 +1,4 @@
 ### Added
 
 - At the owner's request, the record's first multi-agent learning and learning-in-games literature: twenty-one works registered and sought, eighteen read and three Unavailable, with twenty-three Proposed THEORYs (curation entry of 2026-10-24); a question on capture-resistant evaluation of an organization's processes ([QUESTION-tmpdicvf](record/questions.d/QUESTION-tmpdicvf.md)); and dated notes on the replicator construction and claim, the cycles claim, the anxiety claim and the correlated-equilibrium reading of institutions.
+- At the owner's direction, the owner's 2014 BoostTheVote model filed as an executed study, re-run through a Python port in scratch/formal/: full-information multiplicative weights as the counterpart of the replicator construction, with the capture its author predicted and a proposed three-axis extension ([CASE-tmpffs67](record/cases.d/CASE-tmpffs67.md)).
