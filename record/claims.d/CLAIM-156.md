@@ -36,7 +36,7 @@ uses:
 - TERM-017
 complements:
 - CLAIM-162
-- CLAIM-tmp0jfuz
+- CLAIM-442
 summary: >-
   The record's own conjecture, made in answer to the owner's prompt of
   2026-10-11. It places mindfulness among [CLAIM-027](CLAIM-027.md)'s conditions of

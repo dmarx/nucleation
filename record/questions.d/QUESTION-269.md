@@ -1,5 +1,8 @@
 ---
+number: 269
 status: Open
+formerly:
+- QUESTION-tmpds4rq
 title: 'Does the potential account of valence need the will-organization''s other relations, accessibility, jurisdiction, suspension and transformation, beside the priority, persistence and resumption it reads off which side wins, and does a system''s valence change when one of them changes and the record of wins does not?'
 version: 1
 tags:
@@ -20,7 +23,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: CLAIM-027 CLAIM-440 CLAIM-156 — Proposed; the thesis whose reduction this asks about, the account it asks of, and the mindfulness claim, cited as open -->
 
-# QUESTION-tmpds4rq: Does the potential account of valence need the will-organization's other relations, accessibility, jurisdiction, suspension and transformation, beside the priority, persistence and resumption it reads off which side wins, and does a system's valence change when one of them changes and the record of wins does not?
+# QUESTION-269: Does the potential account of valence need the will-organization's other relations, accessibility, jurisdiction, suspension and transformation, beside the priority, persistence and resumption it reads off which side wins, and does a system's valence change when one of them changes and the record of wins does not?
 
 ## Why it is a question
 
@@ -42,7 +45,7 @@ in a way that record may not show.
   have different contested sets.
 - **Suspension** disables an applicable perspective without its losing a
   contest. Mindfulness works this way on [CLAIM-156](../claims.d/CLAIM-156.md)'s account, and
-  [CLAIM-tmp0jfuz](../claims.d/CLAIM-tmp0jfuz.md) reads it as changing the system's valence while the
+  [CLAIM-442](../claims.d/CLAIM-442.md) reads it as changing the system's valence while the
   perspectives' claims stay fixed. A suspended perspective's demand may
   never appear in the record as a lost contest.
 - **Accessibility** fixes the options X_t over which the ordering is read.

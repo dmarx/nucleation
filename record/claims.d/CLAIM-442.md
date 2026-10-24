@@ -1,5 +1,8 @@
 ---
+number: 442
 status: Proposed
+formerly:
+- CLAIM-tmp0jfuz
 title: 'Frijda''s emotion and the potential account''s system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective''s valence is read on its claims, and the system''s valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system''s valence and leaves the perspectives'' emotions and valences as they were'
 version: 1
 role: thesis
@@ -43,7 +46,7 @@ summary: >-
   which is what the mindfulness case must show.
 ---
 
-# CLAIM-tmp0jfuz: Frijda's emotion and the potential account's system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective's valence is read on its claims, and the system's valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system's valence and leaves the perspectives' emotions and valences as they were
+# CLAIM-442: Frijda's emotion and the potential account's system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective's valence is read on its claims, and the system's valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system's valence and leaves the perspectives' emotions and valences as they were
 
 ## The claim
 

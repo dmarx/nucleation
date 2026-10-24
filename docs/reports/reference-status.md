@@ -9,7 +9,7 @@ Every reference in the record is a claim — "this is why things are the way the
 
 Only an `Active` document is in force. `Proposed` and `Deferred` mean *not in force yet* — an open question, being cited as if it were settled — while `Superseded` and `Rejected` mean *no longer in force*, which is often a perfectly good thing to cite: history, or a rejection worth pointing at. Either way the citation should be deliberate, and this section lists the ones nobody has vouched for yet.
 
-**577 documents cited without acknowledgement.** Not listed: 12343 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
+**579 documents cited without acknowledgement.** Not listed: 12350 citations someone has already vouched for with an `inactive-ok:` comment at the citing site.
 
 To vouch for one, put the reason where the citation is — `inactive-ok:` covers its own line and the line below it, `inactive-ok-block:` its paragraph, `inactive-ok-file:` the whole page:
 
@@ -787,7 +787,7 @@ In a Hilbert-space model only unitarily invariant structure is intrinsic; a basi
 
 Frustration among an organization's demands is an ordinal fact before it is a quantity: the jointly satisfiable sets of demands form a downward-closed complex whose minimal non-faces are the minimal conflicts, relief is strict enlargement of that complex for the same declared demands, reorganizations that relieve different conflicts are incomparable, and dropping or suppressing a demand is not relief
 
-24 citations in 13 files await a look; 17 other citations of it are acknowledged.
+26 citations in 14 files await a look; 17 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-115.md:74`](../../record/cases.d/CASE-115.md)
 - [`record/claims.d/CLAIM-153.md:93`](../../record/claims.d/CLAIM-153.md)
@@ -799,6 +799,8 @@ Frustration among an organization's demands is an ordinal fact before it is a qu
 - [`record/claims.d/CLAIM-365.md:131`](../../record/claims.d/CLAIM-365.md)
 - [`record/claims.d/CLAIM-368.md:14`](../../record/claims.d/CLAIM-368.md)
 - [`record/claims.d/CLAIM-368.md:158`](../../record/claims.d/CLAIM-368.md)
+- [`record/decisions.d/ADR-052.md:12`](../../record/decisions.d/ADR-052.md)
+- [`record/decisions.d/ADR-052.md:40`](../../record/decisions.d/ADR-052.md)
 - [`record/notes.d/NOTE-1101.md:133`](../../record/notes.d/NOTE-1101.md)
 - [`record/questions.d/QUESTION-127.md:76`](../../record/questions.d/QUESTION-127.md)
 - [`record/questions.d/QUESTION-131.md:19`](../../record/questions.d/QUESTION-131.md)
@@ -811,7 +813,7 @@ Frustration among an organization's demands is an ordinal fact before it is a qu
 - [`record/terms.d/TERM-060.md:121`](../../record/terms.d/TERM-060.md)
 - [`record/terms.d/TERM-060.md:148`](../../record/terms.d/TERM-060.md)
 - [`record/terms.d/TERM-060.md:163`](../../record/terms.d/TERM-060.md)
-- [`record/terms.d/TERM-076.md:39`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:41`](../../record/terms.d/TERM-076.md)
 - [`record/theory.d/THEORY-232.md:179`](../../record/theory.d/THEORY-232.md)
 
 ### [CLAIM-337](../../record/claims.d/CLAIM-337.md) — Proposed
@@ -943,6 +945,28 @@ Once context-dependent marginals are separated from contextuality, the behaviour
 - [`record/notes.d/NOTE-299.md:111`](../../record/notes.d/NOTE-299.md)
 - [`record/notes.d/NOTE-299.md:128`](../../record/notes.d/NOTE-299.md)
 
+### [TERM-076](../../record/terms.d/TERM-076.md) — Proposed
+
+goal-conduciveness valence, organizational: a regime in which the negotiation among a system's perspectives has, approximately, a potential, an ordering of the system's own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation's decisions follow it rather than any rival ordering
+
+15 citations in 9 files await a look; 65 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-432.md:206`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-432.md:210`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-436.md:143`](../../record/claims.d/CLAIM-436.md)
+- [`record/claims.d/CLAIM-441.md:37`](../../record/claims.d/CLAIM-441.md)
+- [`record/claims.d/CLAIM-441.md:51`](../../record/claims.d/CLAIM-441.md)
+- [`record/claims.d/CLAIM-442.md:41`](../../record/claims.d/CLAIM-442.md)
+- [`record/claims.d/CLAIM-442.md:64`](../../record/claims.d/CLAIM-442.md)
+- [`record/decisions.d/ADR-052.md:49`](../../record/decisions.d/ADR-052.md)
+- [`record/literature.d/LIT-1438.md:102`](../../record/literature.d/LIT-1438.md)
+- [`record/literature.d/LIT-1449.md:95`](../../record/literature.d/LIT-1449.md)
+- [`record/questions.d/QUESTION-269.md:18`](../../record/questions.d/QUESTION-269.md)
+- [`record/questions.d/QUESTION-269.md:35`](../../record/questions.d/QUESTION-269.md)
+- [`record/terms.d/TERM-078.md:20`](../../record/terms.d/TERM-078.md)
+- [`record/terms.d/TERM-078.md:87`](../../record/terms.d/TERM-078.md)
+- [`record/terms.d/TERM-078.md:93`](../../record/terms.d/TERM-078.md)
+
 ### [THEORY-497](../../record/theory.d/THEORY-497.md) — Proposed
 
 A macro feature can supervene on a system's present state and still carry information about its future that no small set of parts carries, because supervenience is instantaneous and prediction runs across time; on the integrated-information-decomposition account a system can host such a feature of order k exactly when its dynamics carry k-th-order synergy about their own future, relative to a fixed partition into parts and a chosen redundancy function
@@ -1049,6 +1073,27 @@ Convergence of representations, in the Platonic hypothesis's sense, is convergen
 - [`record/notes.d/NOTE-286.md:174`](../../record/notes.d/NOTE-286.md)
 - [`record/notes.d/NOTE-301.md:89`](../../record/notes.d/NOTE-301.md)
 
+### [THEORY-055](../../record/theory.d/THEORY-055.md) — Proposed
+
+An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
+
+14 citations in 8 files await a look; 39 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-039.md:57`](../../record/claims.d/CLAIM-039.md)
+- [`record/claims.d/CLAIM-437.md:57`](../../record/claims.d/CLAIM-437.md)
+- [`record/claims.d/CLAIM-442.md:40`](../../record/claims.d/CLAIM-442.md)
+- [`record/claims.d/CLAIM-442.md:58`](../../record/claims.d/CLAIM-442.md)
+- [`record/questions.d/QUESTION-044.md:19`](../../record/questions.d/QUESTION-044.md)
+- [`record/questions.d/QUESTION-044.md:32`](../../record/questions.d/QUESTION-044.md)
+- [`record/questions.d/QUESTION-044.md:37`](../../record/questions.d/QUESTION-044.md)
+- [`record/questions.d/QUESTION-044.md:41`](../../record/questions.d/QUESTION-044.md)
+- [`record/questions.d/QUESTION-265.md:57`](../../record/questions.d/QUESTION-265.md)
+- [`record/questions.d/QUESTION-268.md:32`](../../record/questions.d/QUESTION-268.md)
+- [`record/terms.d/TERM-076.md:25`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:73`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-078.md:21`](../../record/terms.d/TERM-078.md)
+- [`record/terms.d/TERM-078.md:35`](../../record/terms.d/TERM-078.md)
+
 ### [CLAIM-297](../../record/claims.d/CLAIM-297.md) — Proposed
 
 When an operator's authority is updated by how well it performs on the interpretation it helped make dominant, the coupled meaning and influence of an organization can amplify an initial interpretive advantage without any gain in fidelity to independent evidence
@@ -1075,16 +1120,16 @@ An instantaneous ordering is a common currency on a finite set of options, where
 
 13 citations in 8 files await a look; 32 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-433.md:112`](../../record/claims.d/CLAIM-433.md)
+- [`record/claims.d/CLAIM-433.md:113`](../../record/claims.d/CLAIM-433.md)
 - [`record/claims.d/CLAIM-434.md:180`](../../record/claims.d/CLAIM-434.md)
-- [`record/claims.d/CLAIM-440.md:117`](../../record/claims.d/CLAIM-440.md)
-- [`record/claims.d/CLAIM-440.md:167`](../../record/claims.d/CLAIM-440.md)
-- [`record/claims.d/CLAIM-440.md:238`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:119`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:169`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:240`](../../record/claims.d/CLAIM-440.md)
 - [`record/questions.d/QUESTION-268.md:183`](../../record/questions.d/QUESTION-268.md)
-- [`record/terms.d/TERM-076.md:55`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-076.md:146`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-076.md:167`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-076.md:248`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:57`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:148`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:169`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:250`](../../record/terms.d/TERM-076.md)
 - [`record/terms.d/TERM-078.md:44`](../../record/terms.d/TERM-078.md)
 - [`record/theory.d/THEORY-090.md:212`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-101.md:177`](../../record/theory.d/THEORY-101.md)
@@ -1186,25 +1231,6 @@ Mapping morality with a compass: Testing the theory of ‘morality-as-cooperatio
 - [`record/theory.d/THEORY-505.md:85`](../../record/theory.d/THEORY-505.md)
 - [`record/theory.d/THEORY-539.md:97`](../../record/theory.d/THEORY-539.md)
 
-### [THEORY-055](../../record/theory.d/THEORY-055.md) — Proposed
-
-An appraisal of an event's pertinence to the agent's concerns elicits the emotion, as a state of action readiness, and emotions differ by their mode of action readiness
-
-12 citations in 7 files await a look; 39 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-039.md:57`](../../record/claims.d/CLAIM-039.md)
-- [`record/claims.d/CLAIM-437.md:56`](../../record/claims.d/CLAIM-437.md)
-- [`record/questions.d/QUESTION-044.md:19`](../../record/questions.d/QUESTION-044.md)
-- [`record/questions.d/QUESTION-044.md:32`](../../record/questions.d/QUESTION-044.md)
-- [`record/questions.d/QUESTION-044.md:37`](../../record/questions.d/QUESTION-044.md)
-- [`record/questions.d/QUESTION-044.md:41`](../../record/questions.d/QUESTION-044.md)
-- [`record/questions.d/QUESTION-265.md:57`](../../record/questions.d/QUESTION-265.md)
-- [`record/questions.d/QUESTION-268.md:32`](../../record/questions.d/QUESTION-268.md)
-- [`record/terms.d/TERM-076.md:25`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-076.md:71`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-078.md:21`](../../record/terms.d/TERM-078.md)
-- [`record/terms.d/TERM-078.md:35`](../../record/terms.d/TERM-078.md)
-
 ### [THEORY-101](../../record/theory.d/THEORY-101.md) — Proposed
 
 Consciousness began as hedonic valence, which evolved as a common currency for trading off competing options in action selection among animals with many degrees of freedom
@@ -1222,13 +1248,13 @@ Consciousness began as hedonic valence, which evolved as a common currency for t
 - [`record/questions.d/QUESTION-059.md:42`](../../record/questions.d/QUESTION-059.md)
 - [`record/questions.d/QUESTION-059.md:57`](../../record/questions.d/QUESTION-059.md)
 - [`record/questions.d/QUESTION-059.md:70`](../../record/questions.d/QUESTION-059.md)
-- [`record/terms.d/TERM-076.md:226`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:228`](../../record/terms.d/TERM-076.md)
 
 ### [CLAIM-027](../../record/claims.d/CLAIM-027.md) — Proposed
 
 Which of an agent's available regimes becomes effective depends on maintained relations — accessibility, precedence, persistence, jurisdiction, suspension and transformation — that are not reducible to the contents of the competing regimes
 
-11 citations in 7 files await a look; 26 other citations of it are acknowledged.
+11 citations in 7 files await a look; 29 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-271.md:124`](../../record/claims.d/CLAIM-271.md)
 - [`record/claims.d/CLAIM-271.md:125`](../../record/claims.d/CLAIM-271.md)
@@ -1241,6 +1267,77 @@ Which of an agent's available regimes becomes effective depends on maintained re
 - [`record/questions.d/QUESTION-062.md:35`](../../record/questions.d/QUESTION-062.md)
 - [`record/questions.d/QUESTION-066.md:23`](../../record/questions.d/QUESTION-066.md)
 - [`record/questions.d/QUESTION-066.md:32`](../../record/questions.d/QUESTION-066.md)
+
+### [CLAIM-354](../../record/claims.d/CLAIM-354.md) — Proposed
+
+Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
+
+11 citations in 9 files await a look; 2 other citations of it are acknowledged.
+
+- [`record/cases.d/CASE-013.md:73`](../../record/cases.d/CASE-013.md)
+- [`record/cases.d/CASE-112.md:97`](../../record/cases.d/CASE-112.md)
+- [`record/claims.d/CLAIM-016.md:96`](../../record/claims.d/CLAIM-016.md)
+- [`record/claims.d/CLAIM-025.md:87`](../../record/claims.d/CLAIM-025.md)
+- [`record/claims.d/CLAIM-027.md:130`](../../record/claims.d/CLAIM-027.md)
+- [`record/claims.d/CLAIM-345.md:52`](../../record/claims.d/CLAIM-345.md)
+- [`record/claims.d/CLAIM-345.md:101`](../../record/claims.d/CLAIM-345.md)
+- [`record/claims.d/CLAIM-352.md:103`](../../record/claims.d/CLAIM-352.md)
+- [`record/decisions.d/ADR-052.md:11`](../../record/decisions.d/ADR-052.md)
+- [`record/decisions.d/ADR-052.md:34`](../../record/decisions.d/ADR-052.md)
+- [`record/theory.d/THEORY-134.md:109`](../../record/theory.d/THEORY-134.md)
+
+### [CLAIM-440](../../record/claims.d/CLAIM-440.md) — Proposed
+
+An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
+
+11 citations in 10 files await a look; 75 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-432.md:18`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-432.md:206`](../../record/claims.d/CLAIM-432.md)
+- [`record/claims.d/CLAIM-436.md:156`](../../record/claims.d/CLAIM-436.md)
+- [`record/claims.d/CLAIM-441.md:90`](../../record/claims.d/CLAIM-441.md)
+- [`record/claims.d/CLAIM-442.md:41`](../../record/claims.d/CLAIM-442.md)
+- [`record/decisions.d/ADR-052.md:42`](../../record/decisions.d/ADR-052.md)
+- [`record/literature.d/LIT-1438.md:102`](../../record/literature.d/LIT-1438.md)
+- [`record/literature.d/LIT-1449.md:95`](../../record/literature.d/LIT-1449.md)
+- [`record/terms.d/TERM-076.md:90`](../../record/terms.d/TERM-076.md)
+- [`record/theory.d/THEORY-090.md:209`](../../record/theory.d/THEORY-090.md)
+- [`record/theory.d/THEORY-101.md:174`](../../record/theory.d/THEORY-101.md)
+
+### [TERM-078](../../record/terms.d/TERM-078.md) — Proposed
+
+persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions
+
+11 citations in 7 files await a look; 1 other citation of it is acknowledged.
+
+- [`record/claims.d/CLAIM-440.md:126`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:265`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-442.md:64`](../../record/claims.d/CLAIM-442.md)
+- [`record/decisions.d/ADR-052.md:49`](../../record/decisions.d/ADR-052.md)
+- [`record/questions.d/QUESTION-266.md:39`](../../record/questions.d/QUESTION-266.md)
+- [`record/questions.d/QUESTION-268.md:159`](../../record/questions.d/QUESTION-268.md)
+- [`record/questions.d/QUESTION-269.md:18`](../../record/questions.d/QUESTION-269.md)
+- [`record/questions.d/QUESTION-269.md:35`](../../record/questions.d/QUESTION-269.md)
+- [`record/terms.d/TERM-076.md:76`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:190`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:201`](../../record/terms.d/TERM-076.md)
+
+### [CLAIM-283](../../record/claims.d/CLAIM-283.md) — Proposed
+
+The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them
+
+10 citations in 4 files await a look; 8 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-368.md:98`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-368.md:145`](../../record/claims.d/CLAIM-368.md)
+- [`record/claims.d/CLAIM-442.md:39`](../../record/claims.d/CLAIM-442.md)
+- [`record/claims.d/CLAIM-442.md:53`](../../record/claims.d/CLAIM-442.md)
+- [`record/claims.d/CLAIM-442.md:94`](../../record/claims.d/CLAIM-442.md)
+- [`record/claims.d/CLAIM-442.md:99`](../../record/claims.d/CLAIM-442.md)
+- [`record/questions.d/QUESTION-126.md:44`](../../record/questions.d/QUESTION-126.md)
+- [`record/questions.d/QUESTION-126.md:56`](../../record/questions.d/QUESTION-126.md)
+- [`record/terms.d/TERM-076.md:44`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:220`](../../record/terms.d/TERM-076.md)
 
 ### [LIT-047](../../record/literature.d/LIT-047.md) — Proposed
 
@@ -1339,23 +1436,7 @@ Preference reversal is not yet disunity: interests that govern a choice at disjo
 - [`record/decisions.d/ADR-040.md:260`](../../record/decisions.d/ADR-040.md)
 - [`record/questions.d/QUESTION-077.md:61`](../../record/questions.d/QUESTION-077.md)
 - [`record/questions.d/QUESTION-130.md:87`](../../record/questions.d/QUESTION-130.md)
-- [`record/terms.d/TERM-061.md:65`](../../record/terms.d/TERM-061.md)
-
-### [CLAIM-354](../../record/claims.d/CLAIM-354.md) — Proposed
-
-Freedom of will and autonomy come in degrees along several dimensions, among them viable reachability, control cost, robustness to disturbance, governance reconfigurability, revisability and motivational integration, and agents compare by inclusion of what they can viably reach under matched conditions: a partial order with incomparable pairs, not a scalar, and a gradient only of a declared measure
-
-9 citations in 8 files await a look; 2 other citations of it are acknowledged.
-
-- [`record/cases.d/CASE-013.md:73`](../../record/cases.d/CASE-013.md)
-- [`record/cases.d/CASE-112.md:97`](../../record/cases.d/CASE-112.md)
-- [`record/claims.d/CLAIM-016.md:96`](../../record/claims.d/CLAIM-016.md)
-- [`record/claims.d/CLAIM-025.md:87`](../../record/claims.d/CLAIM-025.md)
-- [`record/claims.d/CLAIM-027.md:130`](../../record/claims.d/CLAIM-027.md)
-- [`record/claims.d/CLAIM-345.md:52`](../../record/claims.d/CLAIM-345.md)
-- [`record/claims.d/CLAIM-345.md:101`](../../record/claims.d/CLAIM-345.md)
-- [`record/claims.d/CLAIM-352.md:103`](../../record/claims.d/CLAIM-352.md)
-- [`record/theory.d/THEORY-134.md:109`](../../record/theory.d/THEORY-134.md)
+- [`record/terms.d/TERM-061.md:66`](../../record/terms.d/TERM-061.md)
 
 ### [LIT-267](../../record/literature.d/LIT-267.md) — Proposed
 
@@ -1546,21 +1627,6 @@ A person's drive profile is time-indexed: who drives changes with state, such as
 - [`record/notes.d/NOTE-705.md:99`](../../record/notes.d/NOTE-705.md)
 - [`record/questions.d/QUESTION-033.md:48`](../../record/questions.d/QUESTION-033.md)
 
-### [CLAIM-440](../../record/claims.d/CLAIM-440.md) — Proposed
-
-An organization's appraisal is the negotiation among its perspectives, a common currency is that negotiation's admitting an ordering of the options it faces, and goal-conduciveness valence is a regime in which an ordering of the organization's own states by their bearing on its maintenance prevails in the negotiation; so valence presupposes frustration, its sign is whether the organization runs ahead of or behind a reference course along the potential ordering, its intensity is how far the negotiation's decisions follow that ordering, and ambivalence, where no ordering prevails, differs from neutrality, where one prevails and the organization keeps to its course
-
-8 citations in 7 files await a look; 75 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-432.md:18`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-432.md:206`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-436.md:156`](../../record/claims.d/CLAIM-436.md)
-- [`record/literature.d/LIT-1438.md:102`](../../record/literature.d/LIT-1438.md)
-- [`record/literature.d/LIT-1449.md:95`](../../record/literature.d/LIT-1449.md)
-- [`record/terms.d/TERM-076.md:88`](../../record/terms.d/TERM-076.md)
-- [`record/theory.d/THEORY-090.md:209`](../../record/theory.d/THEORY-090.md)
-- [`record/theory.d/THEORY-101.md:174`](../../record/theory.d/THEORY-101.md)
-
 ### [LIT-102](../../record/literature.d/LIT-102.md) — Rejected
 
 Pregeometry, Formal Language and Constructivist Foundations of Physics
@@ -1681,21 +1747,6 @@ Pereboom — Living without Free Will
 - [`record/theory.d/THEORY-121.md:21`](../../record/theory.d/THEORY-121.md)
 - [`record/theory.d/THEORY-121.md:201`](../../record/theory.d/THEORY-121.md)
 
-### [TERM-076](../../record/terms.d/TERM-076.md) — Proposed
-
-goal-conduciveness valence, organizational: a regime in which the negotiation among a system's perspectives has, approximately, a potential, an ordering of the system's own states by their bearing on its maintenance along which the moves that win its conflicts are improvements, persisting and restored after interruption; signed by whether the system runs ahead of or behind a reference course along that potential, and as intense as the negotiation's decisions follow it rather than any rival ordering
-
-8 citations in 5 files await a look; 65 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-432.md:206`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-432.md:210`](../../record/claims.d/CLAIM-432.md)
-- [`record/claims.d/CLAIM-436.md:143`](../../record/claims.d/CLAIM-436.md)
-- [`record/literature.d/LIT-1438.md:102`](../../record/literature.d/LIT-1438.md)
-- [`record/literature.d/LIT-1449.md:95`](../../record/literature.d/LIT-1449.md)
-- [`record/terms.d/TERM-078.md:20`](../../record/terms.d/TERM-078.md)
-- [`record/terms.d/TERM-078.md:87`](../../record/terms.d/TERM-078.md)
-- [`record/terms.d/TERM-078.md:93`](../../record/terms.d/TERM-078.md)
-
 ### [THEORY-019](../../record/theory.d/THEORY-019.md) — Proposed
 
 Symmetry forces spectral degeneracy but degeneracy does not identify a symmetry: an operator commuting with a group has eigenspaces built from its real irreducibles, so abelian rotation groups force pairs over ℝ, and the spectrum fixes neither the group nor a basis inside a multiplet
@@ -1738,7 +1789,7 @@ Self-production alone gives a system only an all-or-nothing norm, to go on or to
 - [`record/questions.d/QUESTION-128.md:21`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:87`](../../record/questions.d/QUESTION-128.md)
 - [`record/questions.d/QUESTION-128.md:114`](../../record/questions.d/QUESTION-128.md)
-- [`record/terms.d/TERM-076.md:91`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:93`](../../record/terms.d/TERM-076.md)
 - [`record/theory.d/THEORY-220.md:176`](../../record/theory.d/THEORY-220.md)
 
 ### [CLAIM-044](../../record/claims.d/CLAIM-044.md) — Proposed
@@ -1979,20 +2030,6 @@ Cumulative cultural evolution in the laboratory
 - [`record/literature.d/LIT-771.md:47`](../../record/literature.d/LIT-771.md)
 - [`record/notes.d/NOTE-599.md:181`](../../record/notes.d/NOTE-599.md)
 
-### [TERM-078](../../record/terms.d/TERM-078.md) — Proposed
-
-persistent potential: an ordinal potential of a negotiation that is the same, up to its class, across successive windows of time, that decides the conflicts it bears on (priority), and towards which the dynamics climb again after a perturbation (resumption); exact when no move outside a perturbation descends it, and then a Lyapunov function of the one-move-at-a-time dynamics, and approximate when some do, and then no Lyapunov function, short of a drift condition that needs a cardinal potential and further assumptions
-
-7 citations in 4 files await a look; 1 other citation of it is acknowledged.
-
-- [`record/claims.d/CLAIM-440.md:124`](../../record/claims.d/CLAIM-440.md)
-- [`record/claims.d/CLAIM-440.md:263`](../../record/claims.d/CLAIM-440.md)
-- [`record/questions.d/QUESTION-266.md:39`](../../record/questions.d/QUESTION-266.md)
-- [`record/questions.d/QUESTION-268.md:159`](../../record/questions.d/QUESTION-268.md)
-- [`record/terms.d/TERM-076.md:74`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-076.md:188`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-076.md:199`](../../record/terms.d/TERM-076.md)
-
 ### [THEORY-040](../../record/theory.d/THEORY-040.md) — Proposed
 
 A condition on free agency stated only in present psychological structure is met by a manipulated agent, so the account must count that agent free or add a historical condition, and no historical condition in the record's readings is shown to escape
@@ -2140,20 +2177,7 @@ Durable authority among an organization's processes need not be a primitive: tru
 - [`record/claims.d/CLAIM-327.md:70`](../../record/claims.d/CLAIM-327.md)
 - [`record/claims.d/CLAIM-362.md:115`](../../record/claims.d/CLAIM-362.md)
 - [`record/questions.d/QUESTION-117.md:55`](../../record/questions.d/QUESTION-117.md)
-- [`record/terms.d/TERM-076.md:42`](../../record/terms.d/TERM-076.md)
-
-### [CLAIM-283](../../record/claims.d/CLAIM-283.md) — Proposed
-
-The precedence a motive claims over action and the authority the rest of the organization grants it are different quantities, and internal conflict is the gap between them
-
-6 citations in 3 files await a look; 8 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-368.md:98`](../../record/claims.d/CLAIM-368.md)
-- [`record/claims.d/CLAIM-368.md:145`](../../record/claims.d/CLAIM-368.md)
-- [`record/questions.d/QUESTION-126.md:44`](../../record/questions.d/QUESTION-126.md)
-- [`record/questions.d/QUESTION-126.md:56`](../../record/questions.d/QUESTION-126.md)
-- [`record/terms.d/TERM-076.md:42`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-076.md:218`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:44`](../../record/terms.d/TERM-076.md)
 
 ### [CLAIM-295](../../record/claims.d/CLAIM-295.md) — Proposed
 
@@ -2226,7 +2250,7 @@ The primitive for an organization's regulatory difficulty is frustration, not di
 
 6 citations in 5 files await a look; 9 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-283.md:85`](../../record/claims.d/CLAIM-283.md)
+- [`record/claims.d/CLAIM-283.md:86`](../../record/claims.d/CLAIM-283.md)
 - [`record/claims.d/CLAIM-351.md:104`](../../record/claims.d/CLAIM-351.md)
 - [`record/questions.d/QUESTION-131.md:38`](../../record/questions.d/QUESTION-131.md)
 - [`record/questions.d/QUESTION-131.md:140`](../../record/questions.d/QUESTION-131.md)
@@ -2684,6 +2708,18 @@ What the record explained by "self" in its dispositional, persisting, self-gover
 - [`record/claims.d/CLAIM-428.md:84`](../../record/claims.d/CLAIM-428.md)
 - [`record/claims.d/CLAIM-430.md:60`](../../record/claims.d/CLAIM-430.md)
 
+### [CLAIM-433](../../record/claims.d/CLAIM-433.md) — Proposed
+
+The potential account of valence is an account of goal-conduciveness valence, not of intrinsic pleasantness: on the component process model's separation of levels of valence, the ordering that prevails ranks states by need satisfaction and goal attainment, the potential's strength tracks 'wanting' and its sign tracks goal conduciveness, while 'liking' is a separate appraisal with its own ordering; so the wanting–liking dissociation is two valence systems coming apart, as that separation predicts, and the objection that the account is not about pleasure is conceded rather than answered
+
+5 citations in 4 files await a look; 15 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-438.md:99`](../../record/claims.d/CLAIM-438.md)
+- [`record/claims.d/CLAIM-441.md:67`](../../record/claims.d/CLAIM-441.md)
+- [`record/questions.d/QUESTION-266.md:80`](../../record/questions.d/QUESTION-266.md)
+- [`record/terms.d/TERM-076.md:158`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:225`](../../record/terms.d/TERM-076.md)
+
 ### [CLAIM-435](../../record/claims.d/CLAIM-435.md) — Proposed
 
 Veit's common currency and ALARM's override are two regimes of one ordering serving as the negotiation's potential, compensatory and overriding, so their rivalry over what the first felt valence did becomes the question whether the earliest potential orderings are continuous: in motivational trade-off experiments, a continuous indifference curve between a noxious cost and a resource for Veit, a discontinuity at a threshold beyond which no resource buys the cost for ALARM; only a graded override, deciding at every level of its own intensity, lacks a currency altogether
@@ -2691,7 +2727,7 @@ Veit's common currency and ALARM's override are two regimes of one ordering serv
 5 citations in 5 files await a look; 31 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-436.md:133`](../../record/claims.d/CLAIM-436.md)
-- [`record/claims.d/CLAIM-440.md:240`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:242`](../../record/claims.d/CLAIM-440.md)
 - [`record/notes.d/NOTE-1116.md:241`](../../record/notes.d/NOTE-1116.md)
 - [`record/theory.d/THEORY-090.md:216`](../../record/theory.d/THEORY-090.md)
 - [`record/theory.d/THEORY-101.md:181`](../../record/theory.d/THEORY-101.md)
@@ -2790,7 +2826,7 @@ perspective, and which sense: organizational, represented or phenomenal
 - [`record/claims.d/CLAIM-413.md:180`](../../record/claims.d/CLAIM-413.md)
 - [`record/claims.d/CLAIM-430.md:59`](../../record/claims.d/CLAIM-430.md)
 - [`record/claims.d/CLAIM-430.md:85`](../../record/claims.d/CLAIM-430.md)
-- [`record/claims.d/CLAIM-440.md:292`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:294`](../../record/claims.d/CLAIM-440.md)
 
 ### [THEORY-010](../../record/theory.d/THEORY-010.md) — Proposed
 
@@ -2910,6 +2946,28 @@ No single ranking of translations holds across tasks: where distortion profiles 
 - [`record/claims.d/CLAIM-354.md:58`](../../record/claims.d/CLAIM-354.md)
 - [`record/claims.d/CLAIM-354.md:132`](../../record/claims.d/CLAIM-354.md)
 
+### [CLAIM-156](../../record/claims.d/CLAIM-156.md) — Proposed
+
+Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were
+
+4 citations in 3 files await a look; 13 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-442.md:77`](../../record/claims.d/CLAIM-442.md)
+- [`record/claims.d/CLAIM-442.md:86`](../../record/claims.d/CLAIM-442.md)
+- [`record/decisions.d/ADR-046.md:148`](../../record/decisions.d/ADR-046.md)
+- [`record/terms.d/TERM-061.md:65`](../../record/terms.d/TERM-061.md)
+
+### [CLAIM-162](../../record/claims.d/CLAIM-162.md) — Proposed
+
+Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless
+
+4 citations in 2 files await a look; 20 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-441.md:35`](../../record/claims.d/CLAIM-441.md)
+- [`record/claims.d/CLAIM-441.md:53`](../../record/claims.d/CLAIM-441.md)
+- [`record/claims.d/CLAIM-441.md:77`](../../record/claims.d/CLAIM-441.md)
+- [`record/terms.d/TERM-061.md:66`](../../record/terms.d/TERM-061.md)
+
 ### [CLAIM-189](../../record/claims.d/CLAIM-189.md) — Proposed
 
 Fidelity is the wrong measure of a developing argument: maturing drops and changes things legitimately, so what a record can secure is traceability, change that is announced and located, not preservation
@@ -2987,16 +3045,16 @@ An interaction can make available a way of relating that its participants' opera
 - [`record/questions.d/QUESTION-262.md:20`](../../record/questions.d/QUESTION-262.md)
 - [`record/questions.d/QUESTION-262.md:28`](../../record/questions.d/QUESTION-262.md)
 
-### [CLAIM-433](../../record/claims.d/CLAIM-433.md) — Proposed
+### [CLAIM-439](../../record/claims.d/CLAIM-439.md) — Proposed
 
-The potential account of valence is an account of goal-conduciveness valence, not of intrinsic pleasantness: on the component process model's separation of levels of valence, the ordering that prevails ranks states by need satisfaction and goal attainment, the potential's strength tracks 'wanting' and its sign tracks goal conduciveness, while 'liking' is a separate appraisal with its own ordering; so the wanting–liking dissociation is two valence systems coming apart, as that separation predicts, and the objection that the account is not about pleasure is conceded rather than answered
+A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it
 
-4 citations in 3 files await a look; 15 other citations of it are acknowledged.
+4 citations in 4 files await a look; 32 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-438.md:99`](../../record/claims.d/CLAIM-438.md)
-- [`record/questions.d/QUESTION-266.md:80`](../../record/questions.d/QUESTION-266.md)
-- [`record/terms.d/TERM-076.md:156`](../../record/terms.d/TERM-076.md)
-- [`record/terms.d/TERM-076.md:223`](../../record/terms.d/TERM-076.md)
+- [`record/claims.d/CLAIM-433.md:141`](../../record/claims.d/CLAIM-433.md)
+- [`record/claims.d/CLAIM-440.md:266`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-442.md:106`](../../record/claims.d/CLAIM-442.md)
+- [`record/terms.d/TERM-076.md:191`](../../record/terms.d/TERM-076.md)
 
 ### [LIT-038](../../record/literature.d/LIT-038.md) — Rejected
 
@@ -3150,7 +3208,7 @@ Does a state that meets a functional characterization of affect thereby have to 
 - [`record/cases.d/CASE-107.md:138`](../../record/cases.d/CASE-107.md)
 - [`record/claims.d/CLAIM-432.md:183`](../../record/claims.d/CLAIM-432.md)
 - [`record/questions.d/QUESTION-121.md:78`](../../record/questions.d/QUESTION-121.md)
-- [`record/terms.d/TERM-076.md:225`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:227`](../../record/terms.d/TERM-076.md)
 
 ### [QUESTION-250](../../record/questions.d/QUESTION-250.md) — Answered
 
@@ -3619,7 +3677,7 @@ A will-organization that gives two operators decisive jurisdiction over a pair o
 
 - [`record/claims.d/CLAIM-346.md:123`](../../record/claims.d/CLAIM-346.md)
 - [`record/claims.d/CLAIM-436.md:156`](../../record/claims.d/CLAIM-436.md)
-- [`record/claims.d/CLAIM-440.md:115`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:117`](../../record/claims.d/CLAIM-440.md)
 
 ### [CLAIM-356](../../record/claims.d/CLAIM-356.md) — Proposed
 
@@ -3660,16 +3718,6 @@ A corporation can be an agent fit to be held responsible and the bearer of funct
 - [`record/claims.d/CLAIM-039.md:17`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-039.md:93`](../../record/claims.d/CLAIM-039.md)
 - [`record/claims.d/CLAIM-039.md:97`](../../record/claims.d/CLAIM-039.md)
-
-### [CLAIM-439](../../record/claims.d/CLAIM-439.md) — Proposed
-
-A regime of valence is felt, in the sense of attended and available to the system's other processes, when the system that is in it also models it: when a deeper process infers which ordering wins its negotiation, which way the system is moving along it and how strongly it prevails, and the inference is used elsewhere in the system; unfelt valence is the potential without that model, as unfelt fluency is a change in precision without the inference about it
-
-3 citations in 3 files await a look; 32 other citations of it are acknowledged.
-
-- [`record/claims.d/CLAIM-433.md:140`](../../record/claims.d/CLAIM-433.md)
-- [`record/claims.d/CLAIM-440.md:264`](../../record/claims.d/CLAIM-440.md)
-- [`record/terms.d/TERM-076.md:189`](../../record/terms.d/TERM-076.md)
 
 ### [LIT-009](../../record/literature.d/LIT-009.md) — Proposed
 
@@ -3969,7 +4017,7 @@ Felt affect is the experience of the body's regulatory state, valenced by what t
 
 - [`record/questions.d/QUESTION-059.md:24`](../../record/questions.d/QUESTION-059.md)
 - [`record/questions.d/QUESTION-059.md:43`](../../record/questions.d/QUESTION-059.md)
-- [`record/terms.d/TERM-076.md:91`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:93`](../../record/terms.d/TERM-076.md)
 
 ### [THEORY-063](../../record/theory.d/THEORY-063.md) — Proposed
 
@@ -4245,7 +4293,7 @@ Under active inference, the contents of consciousness are posterior beliefs abou
 
 Incentive sensitization: repeated drug exposure can make the mesolimbic 'wanting' system lastingly hyper-reactive to drug cues and contexts, so that cue-triggered incentive salience grows, persists for years and even increases during abstinence, while 'liking' need not rise and may fall; sensitized 'wanting' can oppose the person's cognitive desire and can run without any reportable change in feeling
 
-3 citations in 2 files await a look; 3 other citations of it are acknowledged.
+3 citations in 2 files await a look; 4 other citations of it are acknowledged.
 
 - [`record/literature.d/LIT-1461.md:116`](../../record/literature.d/LIT-1461.md)
 - [`record/notes.d/NOTE-1096.md:191`](../../record/notes.d/NOTE-1096.md)
@@ -4386,15 +4434,6 @@ Willed agency is a kind between agency and selfhood: a control system whose beha
 - [`record/questions.d/QUESTION-046.md:20`](../../record/questions.d/QUESTION-046.md)
 - [`record/questions.d/QUESTION-046.md:37`](../../record/questions.d/QUESTION-046.md)
 
-### [CLAIM-156](../../record/claims.d/CLAIM-156.md) — Proposed
-
-Mindfulness integrates a population of interests by changing which of them may act, not by changing what they value: noticing an impulse as an impulse suspends the step from its momentary dominance to its control of action, and leaves the discount curves as they were
-
-2 citations in 2 files await a look; 12 other citations of it are acknowledged.
-
-- [`record/decisions.d/ADR-046.md:148`](../../record/decisions.d/ADR-046.md)
-- [`record/terms.d/TERM-061.md:64`](../../record/terms.d/TERM-061.md)
-
 ### [CLAIM-167](../../record/claims.d/CLAIM-167.md) — Proposed
 
 One-way drive rightly passes the threshold criterion: a metronome and its musician, or a nerve and its muscle, form one system relative to a target that needs both, and the direction of coupling gives the system's internal architecture, not its membership
@@ -4510,7 +4549,7 @@ Experience is constituted by interpretive organization, not produced by it: an a
 2 citations in 2 files await a look; 63 other citations of it are acknowledged.
 
 - [`record/claims.d/CLAIM-439.md:104`](../../record/claims.d/CLAIM-439.md)
-- [`record/claims.d/CLAIM-440.md:286`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:288`](../../record/claims.d/CLAIM-440.md)
 
 ### [CLAIM-421](../../record/claims.d/CLAIM-421.md) — Proposed
 
@@ -4529,6 +4568,15 @@ Material interdependence couples parties' outcomes without fixing the perspectiv
 
 - [`record/cases.d/CASE-150.md:48`](../../record/cases.d/CASE-150.md)
 - [`record/cases.d/CASE-150.md:59`](../../record/cases.d/CASE-150.md)
+
+### [CLAIM-437](../../record/claims.d/CLAIM-437.md) — Proposed
+
+'Wanting' and 'liking' are saliences relative to different, overlapping processes, pursuit and consummation, each ranking states by their bearing on its own concerns; valence is then relative to a perspective, every perspective in the negotiation has its own, the system's valence is that of the perspective whose ordering is the negotiation's potential, and ambivalence is strong saliences of opposite sign with no potential absorbing them
+
+2 citations in 1 file await a look; 2 other citations of it are acknowledged.
+
+- [`record/claims.d/CLAIM-442.md:43`](../../record/claims.d/CLAIM-442.md)
+- [`record/claims.d/CLAIM-442.md:66`](../../record/claims.d/CLAIM-442.md)
 
 ### [LIT-017](../../record/literature.d/LIT-017.md) — Proposed
 
@@ -5469,21 +5517,13 @@ Data written for a potential future receiver has its intended meaning fixed by t
 
 - [`record/decisions.d/ADR-040.md:270`](../../record/decisions.d/ADR-040.md)
 
-### [CLAIM-162](../../record/claims.d/CLAIM-162.md) — Proposed
-
-Flow is intrapersonal synchronization: when an activity's immediate reward and its longer-run value coincide, no interest has to be overridden, and that is why focused action in flow is reported as effortless
-
-1 citation in 1 file awaits a look; 20 other citations of it are acknowledged.
-
-- [`record/terms.d/TERM-061.md:65`](../../record/terms.d/TERM-061.md)
-
 ### [CLAIM-169](../../record/claims.d/CLAIM-169.md) — Proposed
 
 On Ainslie's account the population of interests is produced by desynchronized valuation, not given by a fixed architecture: an agent is many interests over a choice only as far as its valuations of that choice cross within the choice's horizon
 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/terms.d/TERM-061.md:65`](../../record/terms.d/TERM-061.md)
+- [`record/terms.d/TERM-061.md:66`](../../record/terms.d/TERM-061.md)
 
 ### [CLAIM-171](../../record/claims.d/CLAIM-171.md) — Proposed
 
@@ -5668,6 +5708,14 @@ Reflexive governance of an organization's perspectival arrangements, making the 
 1 citation in 1 file awaits a look; 16 other citations of it are acknowledged.
 
 - [`record/cases.d/CASE-144.md:75`](../../record/cases.d/CASE-144.md)
+
+### [CLAIM-442](../../record/claims.d/CLAIM-442.md) — Proposed
+
+Frijda's emotion and the potential account's system valence sit on opposite sides of the gap between the precedence a motive claims and the authority it is granted: an emotion, action readiness claiming control precedence, is a claim, a perspective's valence is read on its claims, and the system's valence is read on what the negotiation grants, so a change in grants with the claims fixed, as mindfulness is said to make, changes the system's valence and leaves the perspectives' emotions and valences as they were
+
+1 citation in 1 file awaits a look.
+
+- [`record/questions.d/QUESTION-269.md:48`](../../record/questions.d/QUESTION-269.md)
 
 ### [LIT-070](../../record/literature.d/LIT-070.md) — Unavailable
 
@@ -6427,7 +6475,7 @@ On computational functionalism, an intervention that changes no neural activity 
 
 1 citation in 1 file awaits a look; 8 other citations of it are acknowledged.
 
-- [`record/claims.d/CLAIM-440.md:287`](../../record/claims.d/CLAIM-440.md)
+- [`record/claims.d/CLAIM-440.md:289`](../../record/claims.d/CLAIM-440.md)
 
 ### [THEORY-258](../../record/theory.d/THEORY-258.md) — Proposed
 
@@ -6715,7 +6763,7 @@ Reward has separable components: 'liking', its hedonic impact, measurable withou
 
 1 citation in 1 file awaits a look; 14 other citations of it are acknowledged.
 
-- [`record/terms.d/TERM-076.md:155`](../../record/terms.d/TERM-076.md)
+- [`record/terms.d/TERM-076.md:157`](../../record/terms.d/TERM-076.md)
 
 ## Codes that resolve to no document
 

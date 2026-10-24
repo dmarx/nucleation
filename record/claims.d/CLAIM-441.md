@@ -1,5 +1,8 @@
 ---
+number: 441
 status: Proposed
+formerly:
+- CLAIM-tmp0eikz
 title: 'Flow tells against the potential account''s condition that valence is undefined where no pair is contested: on the record''s own account of flow nothing is overridden because an activity''s immediate reward and its longer-run value coincide, yet flow is reported as positive, so either flow''s positivity is intrinsic pleasantness and not goal-conduciveness valence, or flow keeps contested pairs its processes settle among themselves, or the positivity comes after the episode and not during it, or the condition is wrong'
 version: 1
 role: counter
@@ -41,7 +44,7 @@ summary: >-
 ---
 <!-- inactive-ok-file: LIT-914 — Unavailable, unread; the flow literature, cited for the report this objection rests on and named as its weakest footing -->
 
-# CLAIM-tmp0eikz: Flow tells against the potential account's condition that valence is undefined where no pair is contested: on the record's own account of flow nothing is overridden because an activity's immediate reward and its longer-run value coincide, yet flow is reported as positive, so either flow's positivity is intrinsic pleasantness and not goal-conduciveness valence, or flow keeps contested pairs its processes settle among themselves, or the positivity comes after the episode and not during it, or the condition is wrong
+# CLAIM-441: Flow tells against the potential account's condition that valence is undefined where no pair is contested: on the record's own account of flow nothing is overridden because an activity's immediate reward and its longer-run value coincide, yet flow is reported as positive, so either flow's positivity is intrinsic pleasantness and not goal-conduciveness valence, or flow keeps contested pairs its processes settle among themselves, or the positivity comes after the episode and not during it, or the condition is wrong
 
 ## The objection
 
