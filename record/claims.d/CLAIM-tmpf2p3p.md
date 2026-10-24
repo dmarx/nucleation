@@ -69,8 +69,8 @@ valence ([CLAIM-433](CLAIM-433.md)). That reply is available, but then the scope
 restriction is doing real explanatory work, and the account cannot also
 say that valence broadly requires frustration.
 
-The flow case itself is CLAIM-441's objection, filed in parallel from the
-same comparison of the will and affect lines, through CLAIM-162's reading
+The flow case itself is [CLAIM-441](CLAIM-441.md)'s objection, filed in parallel from the
+same comparison of the will and affect lines, through [CLAIM-162](CLAIM-162.md)'s reading
 of flow as synchronization, and with four exits named. This claim does not
 duplicate it. What it adds is the prior point: before flow can tell
 against the first consequence, the consequence has to say which relation
