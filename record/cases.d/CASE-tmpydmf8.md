@@ -1,6 +1,6 @@
 ---
 status: Active
-title: 'A legibility filter as CASE-124''s ν: in a safe world where 15% of raw cues are alarms, an admission rule P(admit | y, r) = σ(c + χry) with c = 0 and χr = 2 admits 88.1% of alarms and 11.9% of reassurances, so 56.6% of the admitted record is alarms with the world and the sensors unchanged; at symmetry the mean admitted evidence is χσ′(c)r to first order, so ν = η_m χ σ′(c); and r_t = λᵗr₀ + ε Σ λ^(t−1−j) a_j is an exponentially weighted history of authority'
+title: 'A legibility filter as the ν of the meaning–authority–legibility model: in a safe world where 15% of raw cues are alarms, an admission rule P(admit | y, r) = σ(c + χry) with c = 0 and χr = 2 admits 88.1% of alarms and 11.9% of reassurances, so 56.6% of the admitted record is alarms with the world and the sensors unchanged; at symmetry the mean admitted evidence is χσ′(c)r to first order, so ν = η_m χ σ′(c); and r_t = λᵗr₀ + ε Σ λ^(t−1−j) a_j is an exponentially weighted history of authority'
 version: 1
 standing: stipulated
 kind: construction
@@ -26,7 +26,7 @@ summary: >-
   has to beat.
 ---
 
-# CASE-tmpydmf8: A legibility filter as [CASE-124](CASE-124.md)'s ν: in a safe world where 15% of raw cues are alarms, an admission rule P(admit | y, r) = σ(c + χry) with c = 0 and χr = 2 admits 88.1% of alarms and 11.9% of reassurances, so 56.6% of the admitted record is alarms with the world and the sensors unchanged; at symmetry the mean admitted evidence is χσ′(c)r to first order, so ν = η_m χ σ′(c); and r_t = λᵗr₀ + ε Σ λ^(t−1−j) a_j is an exponentially weighted history of authority
+# CASE-tmpydmf8: A legibility filter as the ν of the meaning–authority–legibility model: in a safe world where 15% of raw cues are alarms, an admission rule P(admit | y, r) = σ(c + χry) with c = 0 and χr = 2 admits 88.1% of alarms and 11.9% of reassurances, so 56.6% of the admitted record is alarms with the world and the sensors unchanged; at symmetry the mean admitted evidence is χσ′(c)r to first order, so ν = η_m χ σ′(c); and r_t = λᵗr₀ + ε Σ λ^(t−1−j) a_j is an exponentially weighted history of authority
 
 ## The case
 
