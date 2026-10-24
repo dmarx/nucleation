@@ -1,0 +1,114 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-24 (NOTE-tmpldi14) from arXiv v3 (11 December 2024,
+  arXiv non-exclusive licence), the corrected version; worth reading as the
+  standard statement of counterfactual credit in cooperative multi-agent
+  learning: each agent's action is scored against the critic's average over
+  that agent's own alternatives, the others' actions held fixed, and that
+  baseline provably leaves the expected gradient unchanged. The
+  counterfactual values are the learned critic's estimates, which exist
+  only for actions the agents sometimes take, so the method credits agents
+  that all act on every step and does not recover the value of one that is
+  never heeded. Results are StarCraft win rates on four small maps.
+title: 'Counterfactual Multi-Agent Policy Gradients'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Filed and read 2026-10-24, registered with works from multi-agent
+    reinforcement learning after the owner asked how the record stands on
+    MARL. Citation checked against the arXiv abstract page and Crossref:
+    Foerster, Farquhar, Afouras, Nardelli & Whiteson, Proceedings of the
+    AAAI Conference on Artificial Intelligence 32(1), 2018,
+    doi:10.1609/aaai.v32i1.11794 (Crossref date 29 April 2018).
+    `published:` is arXiv v1, 24 May 2017, under ADR-002. Read from
+    arXiv:1705.08926v3 (11 December 2024), an 11-page PDF extracted by pdftotext. v3 carries an
+    erratum: the critic in v1–v2 conditioned on the state but not the
+    joint history, which broke the proof of Lemma 1; v3 adds the history
+    to Eq. 4 and Figure 1 and rewrites the proof. The AAAI version of
+    record was not compared; it is dated before the
+    correction, so it presumably carries the error v3 corrects. The lead's
+    description, "what if this process had not acted", is corrected in
+    "Why this is here".
+tags:
+- game-theory
+- learning-theory
+- anthology-candidate
+date: '2026-10-24'
+published: '2017-05-24'
+arxiv: '1705.08926'
+doi: '10.1609/aaai.v32i1.11794'
+first_author: 'Foerster'
+keywords:
+- 'multi-agent reinforcement learning'
+- 'credit assignment'
+- 'counterfactual baseline'
+- 'difference rewards'
+- 'centralised critic'
+- 'decentralised execution'
+- 'actor-critic'
+- 'StarCraft micromanagement'
+implementations: []
+summary: >-
+  Foerster, Farquhar, Afouras, Nardelli & Whiteson train decentralised
+  actors with one centralised critic Q(s, τ, u) and credit agent a with
+  A^a = Q(s, τ, u) − Σ_{u′a} π^a(u′a | τ^a) Q(s, τ, (u^−a, u′a)): the
+  value of the joint action against the critic's average over a's own
+  alternatives under a's policy, the others' actions fixed. The baseline
+  does not depend on a's action, so it does not change the expected
+  gradient (Lemma 1). On decentralised StarCraft micromanagement with a
+  narrow field of view, it beat independent and central-V/QV critics on
+  four maps.
+---
+<!-- inactive-ok-file: THEORY-tmp1p6ly — Proposed; filed from this reading, named -->
+<!-- inactive-ok-file: CLAIM-tmp8z857 — Proposed; the claim this reading bears on, named, nothing here rests on it -->
+
+# LIT-tmpqx5wu: Counterfactual Multi-Agent Policy Gradients
+
+Foerster, Farquhar, Afouras, Nardelli & Whiteson (2018), AAAI —
+arXiv:1705.08926
+
+## Key takeaways
+
+- **The counterfactual baseline.** Each agent is scored by how much better
+  its actual action was than the critic's policy-weighted average over its
+  own alternatives, with the other agents' actions fixed (Eq. 4). The
+  baseline marginalises out "a single agent's action, while keeping the
+  other agents' actions fixed" (abstract). Because it does not depend on
+  that agent's action, its expected contribution to the gradient is zero
+  (Appendix A), re-derived when read.
+- **From difference rewards.** It is offered as difference rewards
+  (Wolpert & Tumer) without their two costs: a simulator to evaluate the
+  counterfactual, and a user-chosen default action. "This advantage has
+  the same form as the aristocrat utility" (p. 4).
+- **The counterfactual is the critic's.** The values of untaken actions
+  come from a learned critic; the policy keeps every action's probability
+  above ε/|U| during training (p. 6). Nothing is simulated.
+- **Results.** Mean final win rates on 3m, 5m, 5w and 2d_3z of 87, 81, 82
+  and 47%, above central-QV (83, 71, 76, 39), which differs only in using
+  V as the baseline (Table 1).
+- **Corrected proof.** v3's erratum: the critic must condition on the joint
+  history as well as the state for Lemma 1 to follow from Sutton et al.
+  (1999).
+
+## Why this is here
+
+Registered 2026-10-24 for the governance line: the lead read counterfactual
+baselines as answering "what if this process had not acted", which would
+bear on CLAIM-tmp8z857's identifiability step and on crediting unheeded
+processes (QUESTION-tmponjie, QUESTION-tmpdicvf's fourth failure).
+
+**Corrected 2026-10-24, from the reading.** COMA does not ask what would
+have happened had an agent not acted. It asks how the agent's actual
+action compares with its own average alternative, under its current
+policy, holding everyone else's actual actions fixed. Every agent acts on
+every step, and the alternatives are valued by a critic trained on
+experience in which they were taken. So it addresses the noise of a shared
+reward among processes that all act, not the identifiability of a process
+whose alternative is never sampled. A process never heeded has no data
+from which a critic could value it, which is CLAIM-tmp8z857's trap
+restated, not escaped. Read in NOTE-tmpldi14; filed as THEORY-tmp1p6ly. It
+carries `anthology-candidate` as a method of multi-agent RL and no
+instruction for practice here.

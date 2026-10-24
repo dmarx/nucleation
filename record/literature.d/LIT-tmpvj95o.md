@@ -1,0 +1,103 @@
+---
+status: Active
+status_note: >-
+  read in full 2026-10-24 (NOTE-tmpj4dtw) from arXiv v4 (19 September 2018,
+  the AAMAS 2018 text, arXiv non-exclusive licence); worth reading as the
+  first learning rule that models another learner's update and climbs its
+  own return through it: a LOLA agent adds to its gradient the effect of
+  its own parameters on the opponent's next naive step. Two exact-gradient
+  LOLA learners reached tit-for-tat-like reciprocity in the iterated
+  prisoner's dilemma where naive learners defected. Shaping is one step
+  deep, assumes access to the opponent's parameters (or a behavioural
+  clone of them), and is shown only in two-player games; its numbers have
+  one internal inconsistency (see the NOTE).
+title: 'Learning with Opponent-Learning Awareness'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Filed and read 2026-10-24, registered with works from multi-agent
+    reinforcement learning after the owner asked how the record stands on
+    MARL. Citation checked against the arXiv abstract page and Crossref:
+    Foerster, Chen, Al-Shedivat, Whiteson, Abbeel & Mordatch, Proceedings
+    of the 17th International Conference on Autonomous Agents and
+    MultiAgent Systems (AAMAS 2018), pp. 122–130, doi:10.65109/hgwa8807
+    (Crossref date 9 July 2018). `published:` is arXiv v1, 13 September
+    2017, under ADR-002. Read from arXiv:1709.04326v4 (19 September 2018),
+    a 14-page PDF (the 9-page AAMAS paper and a supplement) extracted by
+    pdftotext; figures read from captions and text.
+tags:
+- game-theory
+- learning-theory
+- anthology-candidate
+date: '2026-10-24'
+published: '2017-09-13'
+arxiv: '1709.04326'
+doi: '10.65109/hgwa8807'
+first_author: 'Foerster'
+keywords:
+- 'multi-agent learning'
+- 'opponent shaping'
+- 'learning awareness'
+- 'iterated prisoners dilemma'
+- 'tit-for-tat'
+- 'matching pennies'
+- 'policy gradient'
+- 'opponent modelling'
+implementations:
+- 'https://github.com/alshedivat/lola'
+summary: >-
+  Foerster et al. replace an agent's objective V¹(θ¹, θ²) with its value
+  after the opponent's anticipated naive gradient step, V¹(θ¹, θ² + Δθ²),
+  and differentiate through Δθ² = η∇θ²V², adding (∇θ²V¹)ᵀ∇θ¹∇θ²V² · δη to
+  the naive gradient. In the memory-one iterated prisoner's dilemma, two
+  exact-gradient LOLA learners played tit-for-tat-like policies in 81% of
+  runs (return −1.06 against −1.98 for naive learners); in iterated
+  matching pennies they settled at the mixed Nash equilibrium. A
+  policy-gradient version cooperated in the Coin Game, and with opponent
+  modelling did so less reliably.
+---
+<!-- inactive-ok-file: THEORY-tmpaod5d — Proposed; filed from this reading, named -->
+<!-- inactive-ok-file: CLAIM-tmpd6q2w — Proposed; the claim this reading bears on, named, nothing here rests on it -->
+
+# LIT-tmpvj95o: Learning with Opponent-Learning Awareness
+
+Foerster, Chen, Al-Shedivat, Whiteson, Abbeel & Mordatch (2018), AAMAS —
+arXiv:1709.04326
+
+## Key takeaways
+
+- **The rule.** "each agent shapes the anticipated learning of the other
+  agents in the environment" (abstract). The opponent is modelled as one
+  naive gradient step; the dependence of ∇θ²V¹ on θ¹ is dropped (p. 3).
+  Re-derived when read.
+- **Reciprocity from self-interest.** Naive exact-gradient learners ended
+  at mutual defection (−1.98 per step); LOLA pairs played tit-for-tat in
+  most runs (−1.06) (Table 3). "by explicitly considering the learning of
+  the other agent, LOLA agents learn to cooperate out of self-interest"
+  (abstract).
+- **Shaping pays against the shaped.** LOLA earned −1.28 against a naive
+  learner's −1.54, and a second-order LOLA gained nothing against
+  first-order LOLA (Table 4).
+- **What it needs.** The opponent's parameters, or a maximum-likelihood
+  clone of them from its trajectories (Section 4.4); with the clone,
+  Coin Game cooperation fell from about 80% to about 60% own-coin pickups
+  (Figure 5).
+- **What it does not show.** Convergence or stability guarantees, n > 2,
+  or exploitation by methods other than gradient ones, which the authors
+  leave open (p. 8).
+
+## Why this is here
+
+Registered 2026-10-24 by the lead as "a learning-aware model of authority
+shaping others' learning", bearing on CASE-124 and CLAIM-tmpd6q2w. The
+reading supports that as an analogy with a precise mechanism
+(NOTE-tmpj4dtw): a LOLA learner treats another learner's update rule as
+part of its environment and moves its own parameters partly for their
+effect on that update. CASE-124's ε arrow, authority moving the regime
+that shapes what others learn, has the same form. What it does not supply
+is the record's asymmetry: LOLA is symmetric between peers, each shaping
+the other, and its result is that mutual shaping can produce reciprocity,
+not capture. Filed as THEORY-tmpaod5d. It carries `anthology-candidate` as
+a multi-agent learning method and no instruction for practice here.
