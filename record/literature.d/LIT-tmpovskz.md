@@ -1,12 +1,16 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U11. No NOTE is filed.
+  read in full 2026-10-24 (NOTE-tmpa6d2r) from the CC BY version of
+  record; worth reading as the review that set out what the first direct
+  experiments (2014–2017) showed about eligibility traces on the scale of
+  seconds: in striatum about 1 s, in cortex 3–10 s with the modulator
+  setting the sign, in hippocampus about 2 s. Mostly slices, one
+  laboratory per region, by theoreticians whose models assumed the
+  traces; they grant that other mechanisms could bridge the same gap, and
+  what is well established is the hour-scale tag of consolidation.
 title: 'Eligibility Traces and Plasticity on Behavioral Time Scales: Experimental Support of NeoHebbian Three-Factor Learning Rules'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -19,6 +23,15 @@ history:
     Lehmann, Vasiliki Liakoni, Dane Corneil and Johanni Brea, Frontiers
     in Neural Circuits 12, article 53, published 31 July 2018, which is
     `published:`. The summary follows the abstract on PubMed.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Read in full (NOTE-tmpa6d2r) from the version of record, the
+    publisher's 16-page PDF
+    (frontiersin.org/articles/10.3389/fncir.2018.00053/pdf), open access
+    under CC BY. Status set to Active. The summary is accurate, with one
+    count corrected: the abstract says four key experiments, and the body
+    reviews five papers, Brzosko et al. 2015 and 2017 counted together.
 tags:
 - neuroscience
 - learning-and-conditioning
@@ -48,13 +61,43 @@ summary: >-
 supports:
 - CLAIM-tmp0qupq
 ---
+<!-- inactive-ok-file: CLAIM-tmp0qupq THEORY-tmpeolav — Proposed; the claim that cites this and the account filed from the reading, named, nothing here rests on them -->
+
 # LIT-tmpovskz: Eligibility Traces and Plasticity on Behavioral Time Scales: Experimental Support of NeoHebbian Three-Factor Learning Rules
 
 Gerstner, W., Lehmann, M., Liakoni, V., Corneil, D. & Brea, J. (2018). Eligibility traces and plasticity on behavioral time scales: Experimental support of neoHebbian three-factor learning rules. *Frontiers in Neural Circuits* 12: 53. doi:10.3389/fncir.2018.00053.
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, NOTE-tmpa6d2r. Page numbers are the article's.*
+
+- **The rule.** Co-activation sets a decaying flag; "a non-zero third
+  factor is needed to transform the eligibility trace into a weight
+  change", and "the third factor also influences the direction of change"
+  (p. 4).
+- **The evidence is recent.** Support for traces on the scale of seconds
+  "has been collected only during the last few years" (p. 1): striatum,
+  about 1 s, with dopamine; cortex, 5–10 s for LTP with noradrenaline and
+  about 3 s for LTD with serotonin; CA1, about 2 s with plateau potentials
+  (pp. 7–10).
+- **What is established.** "The framework is experimentally
+  well-established in the context of synaptic consolidation" (p. 7), where
+  the tag lasts about an hour.
+- **Specificity comes from the flag.** Under a broadcast signal, "among
+  all the flagged synapses only those that show, over many trials, a
+  correlation with the reward signal will be consistently reinforced"
+  (p. 11).
+- **Not the only solution.** "there is nothing—apart from conceptual
+  elegance—to favor eligibility traces over alternative neuronal
+  mechanisms" (p. 12).
 
 ## Why this is here
 
 The exchange cited it at turn U11 for three-factor learning: activity that co-occurs is only marked as eligible, and a later signal decides whether it is kept. The abstract matches. The anthology may want it for its bearing on learning rules in machine learning, so the flag stands.
+
+**Corrected 2026-10-24, from the reading.** The description is right.
+What CLAIM-tmp0qupq cites it for, "three-factor rules are established",
+is too strong: established for hour-scale consolidation, and recently
+supported in slices on the scale of seconds. The claim's rule also lacks
+the decaying trace that learning from delayed outcomes needs. Filed from
+it: THEORY-tmpeolav.

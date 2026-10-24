@@ -28,8 +28,8 @@ complements:
 - CLAIM-344
 - CLAIM-364
 grounds:
-- LIT-tmp35raq
-- LIT-tmpovskz
+- THEORY-tmpydeuq
+- THEORY-tmpeolav
 - LIT-tmpnkdlf
 - LIT-tmpt9ye6
 - LIT-tmpks817
@@ -124,7 +124,7 @@ should also fail differently when lower-level interactions and
 higher-level deliberation are disrupted selectively.
 
 
-Active inference already represents habits as learned priors over policies, beside online evaluation ([LIT-tmp35raq](../literature.d/LIT-tmp35raq.md)); three-factor rules are established ([LIT-tmpovskz](../literature.d/LIT-tmpovskz.md)); implementation intentions are pre-arranged if–then links of situation to response ([LIT-tmpt9ye6](../literature.d/LIT-tmpt9ye6.md), [LIT-tmpks817](../literature.d/LIT-tmpks817.md)); and the DBT curriculum is [LIT-tmpnkdlf](../literature.d/LIT-tmpnkdlf.md). All unread.
+**What the readings of 2026-10-24 add.** Friston et al. (NOTE-tmpxqv1t, THEORY-tmpydeuq) is a published analogue of the selection rule, π = σ(Ê − F − γG), but over action policies, not over who governs. Its learned prior grows by counting the policies pursued, with no reward gate. That is closer to the entrenchment warned of below than to the rule above. Its devaluation simulation runs this claim's test on the cached arm: once formed, the habit persists. Every policy is still scored on every trial, so the paper shows persistence, not amortization. Gerstner et al. (NOTE-tmpa6d2r, THEORY-tmpeolav) narrow "three-factor rule". Only the hour-scale tag of synaptic consolidation is well established. Eligibility traces on the scale of seconds have recent support, mostly from brain slices, and the rule above lacks the decaying trace that learning from delayed outcomes needs. With reward minus expected reward as the third factor, frequency alone is not reinforced, which answers part of the entrenchment point below; what is never recruited is still never credited. Unread: implementation intentions as pre-arranged if–then links of situation to response (LIT-tmpt9ye6, LIT-tmpks817), and the DBT curriculum (LIT-tmpnkdlf).
 
 ## What it does not say
 

@@ -1,0 +1,231 @@
+---
+status: Read
+paper: 'LIT-tmp35raq'
+title: 'Friston et al. — Active inference and learning'
+version: 1
+history:
+- version: 1
+  date: '2026-10-24'
+  note: >-
+    Read in full on 2026-10-24 from the version of record, Neuroscience
+    and Biobehavioral Reviews 68 (2016) 862–879, a 21-page PDF in the
+    publisher's typesetting with the notice "This is an open access article
+    under the CC BY license", fetched from the University of East Anglia
+    repository (ueaeprints.uea.ac.uk/id/eprint/61446), which Unpaywall lists
+    beside the publisher's own gold open-access copy. Text extracted by
+    pdftotext; the equations are images, so Eqs. (1), (2), (6) and (7) were
+    read from pages 865 and 868 rendered at low resolution. Read: abstract,
+    sections 1–6, every figure caption, Table 1 by its caption only (it did
+    not extract) and Appendix A. Figures 3–7 were not viewed as images; their
+    content is taken from captions and text. The reference list was not
+    read. Page numbers below are the journal's.
+date: '2026-10-24'
+summary: >-
+  A discrete-state active inference scheme in which a habit is one more
+  policy, a state-to-state transition model learned by counting observed
+  transitions, and the prior over policies is learned by counting which
+  policies were pursued. In simulated T-maze foraging the agent first
+  explores, then exploits, then acquires a habit; after the habit is
+  acquired it persists when the reward is devalued, and before it is
+  acquired behaviour switches at once. Simulations only; the authors say
+  the scheme makes probably no new behavioural predictions.
+---
+<!-- inactive-ok-file: CLAIM-tmp0qupq CLAIM-tmp8z857 CLAIM-277 CLAIM-358 — Proposed; the claims this reading bears on, named, nothing here rests on them -->
+<!-- inactive-ok-file: THEORY-062 THEORY-tmpydeuq — Proposed; a related account and the one filed from this reading, named -->
+
+# NOTE-tmpxqv1t: Friston et al. — Active inference and learning
+
+## Contribution
+
+Earlier active inference treatments selected among sequential policies,
+fixed sequences of actions. This paper adds one special policy, a habit,
+that maps each state to the next whatever the time or context, and lets
+the agent learn both its transitions and how probable it is a priori. The
+simulations show a habit forming from the agent's own goal-directed
+behaviour, epistemic habits forming when outcomes are ambiguous, and the
+habit's insensitivity to devaluation. The paper also shows that dynamic
+programming is the special case of the scheme in which states are observed
+without ambiguity.
+
+## Key insight
+
+Habit is learned by watching oneself. Goal-directed choice is inference
+over policies, scored by expected free energy. A habit is one more
+hypothesis about what one is doing, and its probability rises as the agent
+observes itself doing it. In the authors' words, "habit formation is an
+inevitable consequence of equipping agents with the hypothesis that habits
+are sufficient to attain goals" (p. 863). Habit and plan are not two
+systems under a supervisor: "Because habits are just another policy, the
+arbitration among habits and (sequential) policies rests on their posterior
+probability" (p. 869).
+
+## Assumptions
+
+- **Discrete partially observable Markov decision process.** Outcomes
+  depend only on the current state (A); transitions depend on the policy
+  (B(u)) or, under the habit (π = 0), on the current state alone (C);
+  initial state D (Eq. 1, p. 865).
+- **Policy selection.** P(π) = σ(Ê − γ·G): a softmax over policies of a
+  log prior Ê minus expected free energy G, weighted by precision γ
+  (Eq. 1.e). The posterior adds the free energy of past outcomes F:
+  π = σ(Ê − F − γ·G) (Eq. 7, p. 868).
+- **Learning is counting.** Dirichlet concentration parameters accumulate
+  co-occurrences at the end of each trial (Eq. 7): habit transitions
+  c ← c + Σ s_t ⊗ s_{t−1}, initial state d ← d + s_1, policy prior
+  e ← e + π. None of these updates is gated by reward.
+- **Precision is the dopamine analogue.** Its update depends on the
+  difference between expected free energy under posterior and prior
+  beliefs about policies, read as a reward prediction error (p. 868).
+- **The simulated task.** A T-maze: two baited arms with 98% reward and a
+  cue arm that discloses which is baited; two moves per trial. Utilities +3
+  and −3 nats. Initial concentration parameters: habit e = 0 (Section 4)
+  or allowed to accumulate (Section 5); sequential policies e = 4; d = 8 at
+  the centre (p. 872).
+
+## Key results
+
+- **Exploration, then exploitation (Fig. 4, p. 872).** Over 32 trials the
+  agent first samples the cue, then, once confident of the context, goes
+  straight to the reward. Simulated phasic dopamine moves from reward to
+  cue as context is learned.
+- **Perseveration (Fig. 5, p. 874).** After the context reverses at trial
+  32 the pragmatic policy persists for four trials. Perseveration grows
+  with prior exposure to the original context. It comes from the learned
+  prior over the initial state alone, without habits.
+- **Habit and devaluation (Fig. 6, p. 874).** With habit learning enabled
+  and a constant context, the habit's posterior probability rises until it
+  is executed routinely. The acquired habit is epistemic, so "the habit has
+  precluded exploitative behaviour". Devalued at trial 48, after
+  acquisition: "Despite this switch, the habit persists and, indeed,
+  reinforces itself with repeated executions." Devalued at trial 16,
+  before acquisition: the agent switches at once and acquires a habit
+  matching its new preferences. "prior to habit formation, goal directed
+  behaviour is sensitive to devaluation – a sensitivity that is lost under
+  habitual control".
+- **Why a habit wins (p. 874).** It is selected over a sequential policy
+  that predicts the same behaviour because it "provides a better
+  explanation for observed outcomes": less complexity in its free energy.
+- **Epistemic habits (Fig. 7, pp. 874–875).** With the context changing at
+  random, an epistemic habit (visit the cue, then the cued arm) is
+  acquired in about 16 trials. It differs from the dynamic-programming
+  optimum, which goes straight to the reward; the difference disappears
+  when outcomes are unambiguous.
+- **Bellman as a special case (pp. 869–871).** Without ambiguity (o = s),
+  the variational state-action policy reduces to direct policy iteration
+  maximising expected utility; risk and ambiguity terms vanish.
+  Value-function schemes are "belief-free".
+
+## Claims
+
+| id | claim | strength | support |
+|---|---|---|---|
+| C1 | In this scheme a habit forms from the agent's observation of its own goal-directed behaviour | strong, within the model | simulations, Figs 6–7 |
+| C2 | Once acquired, the habit persists after devaluation; before acquisition behaviour switches at once | strong, within the model | Fig. 6, p. 874 |
+| C3 | The important distinction is belief-based against belief-free, not model-based against model-free | moderate: argued from the formalism | pp. 870–871, 876 |
+| C4 | Dynamic programming is the special case without ambiguity | strong: derivation | Eqs. 8–10, pp. 869–871 |
+| C5 | Dopamine encodes precision; phasic responses transfer from US to CS | weak: simulated responses compared qualitatively | Figs 4–5 |
+| C6 | Habit acquisition transfers processing from hippocampus to cerebellum, parietal cortex and dorsolateral striatum | weak: an assignment by analogy | Fig. 2, p. 874 |
+| C7 | Model-free learning cannot be learned apart from model-based behaviour | weak as a claim about brains: it holds "To the extent that one accepts the variational (active inference) formulation" | p. 876 |
+
+## Concepts
+
+- **Habit (state-action policy)**: the policy π = 0, under which "the next
+  state is always specified (probabilistically) by the current state",
+  "irrespective of time or context" (p. 866).
+- **Sequential policy**: an ordered sequence of actions, indexed by time,
+  so different policies can prescribe different actions from the same
+  state (p. 866).
+- **Expected free energy G**: expected cost (divergence of predicted from
+  preferred outcomes; risk) plus expected ambiguity; equivalently,
+  negative extrinsic plus epistemic value (Eqs. 5–6, p. 868).
+- **Belief-free and belief-based**: whether the current state suffices to
+  specify an action, or beliefs about states (uncertainty) must be
+  considered (p. 875).
+- **Context learning and habit learning**: learning the prior over the
+  initial state (d) and the habit's transitions and prior (c, e), as
+  against contingency learning (a, b), which the paper sets aside (p. 874).
+
+## Connections
+
+It builds on the authors' planning-as-inference (Friston et al. 2014,
+2015), Bayesian model averaging (FitzGerald et al. 2014) and learning
+(FitzGerald et al. 2015). It places itself against the model-based and
+model-free account of goal-directed and habitual control (Daw et al. 2005,
+2011) and with views on which habits are the invariant aspects of
+goal-directed behaviour (Dezfouli & Balleine 2013; Pezzulo et al.). It
+says its arbitration "is closely related to" Daw et al. (2005) and Lee et
+al. (2014). The record's THEORY-062, on arbitration between model-based
+and model-free control by reliability, is the nearest account the record
+holds; this paper arbitrates by posterior probability, which includes
+reliability through precision, and adds ambiguity.
+
+## Bearing on the record
+
+- **CLAIM-tmp0qupq (a learned prior over which processes govern).** The
+  claim cites this paper for active inference already representing
+  "habits as learned priors over policies, beside online evaluation". The
+  reading supports that, with three corrections.
+  - **The formula has a published analogue.** The claim's
+    P(g | z, H) ∝ exp(βQ(g, z) + b_H(g, z)) has the shape of the paper's
+    π = σ(Ê − F − γ·G): a learned log prior beside a precision-weighted
+    evaluation. The analogue is over action policies, not over
+    allocations of authority among processes.
+  - **The learned prior is a count, not a reward-modulated rule.** The
+    policy prior grows with how often a policy is pursued (e ← e + π),
+    and the habit's transitions with how often they occur. Outcomes enter
+    only through which policy was inferred and through precision. So the
+    paper's habit is closer to the frequency-driven entrenchment the claim
+    warns of than to its three-factor b_H. That the habit "reinforces
+    itself with repeated executions" after devaluation (p. 874) is the
+    entrenchment the claim describes.
+  - **The habit is a prior over actions in the claim's sense.** It is a
+    cached state-to-state mapping, and it fails exactly where the claim
+    says such a prior and a prior over authority come apart: when what is
+    appropriate changes. The devaluation simulation is the claim's
+    proposed test run on one arm only: a cached mapping persisted after
+    devaluation, and a goal-directed agent that had not yet formed it
+    switched. Nothing here models a learned recruitment of a process that
+    chooses among actions.
+  - **Persistence, not amortization.** Reaction times fall as the habit
+    is acquired (p. 874), and the authors say of their figures that "The
+    reaction times here are based upon the processing time in the
+    simulations (using the Matlab tic-toc facility)" (p. 872). As Eq. 7 is written, the habit competes as one
+    more policy, so every sequential policy is still scored. The paper
+    does not show that earlier work replaces later computation, the
+    claim's test of amortization.
+  - **On which learning law is right.** The authors concede that "At the
+    level of behavioural predictions, the answer is probably no" (p. 876):
+    by the complete class theorem some prior preferences make any
+    behaviour Bayes-optimal. This supports the claim's own reserve that
+    Hebbian updates, Bayesian policy priors and learned arbitration can
+    yield the same behaviour.
+  - Filed as THEORY-tmpydeuq.
+- **CLAIM-tmp8z857 (anxiety as entrenched governance).** Indirect. The
+  perseveration after reversal (Fig. 5), produced by a learned prior over
+  context alone, is a second route to persistence, distinct from habit.
+  The paper does not discuss anxiety.
+- **CLAIM-277 and CLAIM-358.** Not tested. The paper has no cost measure
+  beyond simulated processing time.
+- No instruction for machine-learning practice; nothing for the
+  anthology.
+
+## Limitations
+
+- **Simulation only.** One task, a T-maze with two moves, hand-set
+  parameters and one run per condition shown. No data are fitted.
+- **The neural mapping is by assignment.** Dopamine as precision, striatum
+  for policies, cerebellum and parietal cortex for habits are placements
+  "not inconsistent with functional anatomy" (p. 869), not tests.
+- **No new behavioural predictions** (p. 876). The one neural prediction
+  offered is that "a mildly aversive outcome that reduces uncertainty"
+  will elicit a positive phasic dopamine response (p. 877).
+- **Reaction times are simulation run times.**
+- **Contingency learning (a, b) is set aside**; the agent knows the maze.
+
+## Open questions
+
+- Does the habit's insensitivity to devaluation depend on its prior
+  growing by count rather than by outcome? A variant with an
+  outcome-gated policy prior would show.
+- Would a scheme in which the habit is scored first, and sequential
+  policies only when it fails, show amortization in the claim's sense?

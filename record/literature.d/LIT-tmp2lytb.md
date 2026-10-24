@@ -1,12 +1,21 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U13. No NOTE is filed.
+  filed 2026-10-24 from the owner's exchange of 2026-10-23/24, shared at
+  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where it
+  is cited at turn U13; a reading was attempted on 2026-10-24 and failed on
+  availability. The article is closed at SAGE (Unpaywall: not open access;
+  OpenAlex: closed, no repository full text; Semantic Scholar: closed), and
+  the publisher's PDF links returned 403. Europe PMC has no record. The
+  University of New South Wales repository (UNSWorks) holds Levy's PhD
+  thesis and other papers of the group but not this one, and the Western
+  Sydney University research portal has a record with only a DOI link.
+  Web searches found no author manuscript; the one full-text copy found is
+  a third-party repost on an unrelated journal's site, not a lawful
+  source. It stays Unavailable until a copy is supplied. No NOTE is
+  filed.
 title: 'An Action-Based Model of Cognitive-Dissonance Processes'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -20,6 +29,19 @@ history:
     Crossref gives the issue June 2015 and online 10 June 2015;
     `published:` is the earlier, 2015-06-01, meaning June 2015
     (ADR-002). The summary follows the abstract on Crossref.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041; no lawful copy was
+    found. Searched on 2026-10-24: Unpaywall (is_oa false), OpenAlex
+    (closed, any_repository_has_fulltext false), Semantic Scholar (closed),
+    Europe PMC (no hit), the SAGE PDF at journals.sagepub.com and
+    cdp.sagepub.com (403), UNSWorks by title (not held; Levy's thesis,
+    "Simple Expectancy Violations Lead to Negative Affect", is there but is
+    a different work), the Western Sydney University portal (DOI link
+    only), and web searches for an author manuscript. A copy on
+    journal.uinjkt.ac.id is a third-party repost and was not used. The
+    summary is still drawn from the abstract.
 tags:
 - social-science
 - emotion-and-affect
