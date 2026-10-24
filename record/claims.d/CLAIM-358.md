@@ -42,7 +42,7 @@ grounds:
 complements:
 - CLAIM-162
 - CLAIM-362
-- CLAIM-tmpuxcp6
+- CLAIM-451
 uses:
 - TERM-061
 summary: >-
@@ -59,7 +59,7 @@ summary: >-
   have costs of their own. The sharp edge: it does not say local settlement is always cheaper, that
   an integrated agent works less hard, or anything about authenticity.
 supports:
-- CLAIM-tmp0qupq
+- CLAIM-443
 ---
 <!-- inactive-ok-file: CLAIM-261 CLAIM-162 CLAIM-163 THEORY-070 THEORY-056 THEORY-062 THEORY-077 CLAIM-362 CLAIM-364 — Proposed; the claims and readings this one rests on or is set beside, open -->
 
@@ -191,9 +191,9 @@ two fail differently under selective disruption. Reuse pays, under a
 declared cost measure and comparable outcomes, when
 N(c_d − c_π) > F + C_maintenance + C_error. Persistence alone does not show
 amortization: a strong prior can change which allocation wins while all
-the costly evaluation still runs. [CLAIM-tmp0qupq](CLAIM-tmp0qupq.md) states the learned prior
+the costly evaluation still runs. [CLAIM-443](CLAIM-443.md) states the learned prior
 and the test. The exchange later (U20, 2026-10-24) added a route: earlier
 arbitration can be encoded into what an organization automatically
-notices and treats as relevant, its legibility ([CASE-tmpydmf8](../cases.d/CASE-tmpydmf8.md)), and that
+notices and treats as relevant, its legibility ([CASE-156](../cases.d/CASE-156.md)), and that
 can be adaptive compilation or the cheapness of no longer considering
 inconvenient alternatives.

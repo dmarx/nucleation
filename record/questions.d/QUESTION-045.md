@@ -17,7 +17,7 @@ answered_by:
 - THEORY-052
 - THEORY-053
 - THEORY-285
-- CLAIM-tmp8z857
+- CLAIM-446
 summary: >-
   Filed in the fourth synthesis pass to give readings no question asked
   for a place in the argument. It bears on [CLAIM-079](../claims.d/CLAIM-079.md), [CLAIM-025](../claims.d/CLAIM-025.md), [CLAIM-099](../claims.d/CLAIM-099.md)
@@ -75,7 +75,7 @@ A29 §8 offered a dynamical form for "individual data showing hysteresis",
 The owner read the exchange's "a governance prior can become
 self-protecting by reducing the access of the processes most likely to
 provide evidence against it" as "a formalization of anxiety" (workbench
-entry of 2026-10-24, U14). Filed as a candidate answer: [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).
+entry of 2026-10-24, U14). Filed as a candidate answer: [CLAIM-446](../claims.d/CLAIM-446.md).
 Its distinctive part is the allocation of authority over inquiry and
 intervention, not the familiar point that avoidance maintains anxiety.
 Under the avoidance a defensive process selects, the hypotheses of danger
@@ -87,5 +87,5 @@ threat monitor whose interpretation raises its own authority and
 is patient data. The contrast this question asks for is the claim's test:
 hold the represented threat fixed and change the defensive process's
 authority or evidence access, and conversely. A proposed simulation is
-[CASE-tmpo8uso](../cases.d/CASE-tmpo8uso.md), and the cross-scale form, from emergency powers to the
-security dilemma, is [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).
+[CASE-153](../cases.d/CASE-153.md), and the cross-scale form, from emergency powers to the
+security dilemma, is [CLAIM-445](../claims.d/CLAIM-445.md).

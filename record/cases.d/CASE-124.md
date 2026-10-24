@@ -43,10 +43,10 @@ summary: >-
   holds a lean long after m and a would have decayed without it.
 supports:
 - CLAIM-400
-- CLAIM-tmpd6q2w
-- CLAIM-tmp1xoac
+- CLAIM-448
+- CLAIM-444
 variants:
-- CASE-tmpydmf8
+- CASE-156
 ---
 
 # CASE-124: A maintained legibility lean as a third state of the linearized meaning–authority model: authority moves the lean r of the categories through which evidence is read, and r feeds interpretation or authority, with its own persistence λ
@@ -127,11 +127,11 @@ The owner: "i think we already have a three variable system somewhere,
 where the third component is described as legibility" (workbench entry of
 2026-10-24, U18). The exchange made this case the core of its toy-model
 programme for protective lock-in, in place of a new two-state model
-([CASE-tmpo8uso](CASE-tmpo8uso.md)). Additions and cautions:
+([CASE-153](CASE-153.md)). Additions and cautions:
 
 - **A mechanism for ν.** Selective admission of evidence gives
   ν = η_m χ σ′(c) and reads r as an exponentially weighted history of
-  authority ([CASE-tmpydmf8](CASE-tmpydmf8.md)).
+  authority ([CASE-156](CASE-156.md)).
 - **Two levels of legibility.** [TERM-064](../terms.d/TERM-064.md)'s legibility is a relation of a
   representation, an observer's capacities and a task. This case's r is a
   signed lean of a maintained regime, not a score of how much information
@@ -139,7 +139,7 @@ programme for protective lock-in, in place of a new two-state model
   kernel Z ∼ K_r(· | Y), with usable information measured as best risk for
   a bounded observer on a task fixed independently, would give r that
   semantics ([CLAIM-199](../claims.d/CLAIM-199.md), [THEORY-846](../theory.d/THEORY-846.md)). A regime can serve one task and
-  disable another for the same observer ([CASE-tmpswmo9](CASE-tmpswmo9.md)).
+  disable another for the same observer ([CASE-154](CASE-154.md)).
 - **An organizational baseline.** March's mutual learning of code and
   members ([THEORY-142](../theory.d/THEORY-142.md)) already shows conformity destroying the diversity
   needed for later correction. The informative contrast is a minority that
@@ -152,4 +152,4 @@ programme for protective lock-in, in place of a new two-state model
   cannot call its own persistence success.
 
 Head-to-head results belong to [QUESTION-100](../questions.d/QUESTION-100.md). A reported mean-field run is
-recorded, unchecked, in [CASE-tmpydmf8](CASE-tmpydmf8.md).
+recorded, unchecked, in [CASE-156](CASE-156.md).

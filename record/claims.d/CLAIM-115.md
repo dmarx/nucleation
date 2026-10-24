@@ -38,7 +38,7 @@ illustrated_by:
 - CASE-031
 supports:
 - CLAIM-078
-- CLAIM-tmprfgwn
+- CLAIM-450
 complements:
 - CLAIM-129
 - CLAIM-133

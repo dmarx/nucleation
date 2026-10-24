@@ -40,7 +40,7 @@ complements:
 - CLAIM-153
 - CLAIM-196
 - CLAIM-261
-- CLAIM-tmpuxcp6
+- CLAIM-451
 summary: >-
   Take an agent's interests as sections over contexts of choice, each
   governing the windows of time in which its valuation ranks first. If

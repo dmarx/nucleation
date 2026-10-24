@@ -54,7 +54,7 @@ summary: >-
   until a result on one line is shown to hold, through it, on the other.
 complements:
 - CLAIM-341
-- CLAIM-tmprfgwn
+- CLAIM-450
 supports:
 - CLAIM-338
 ---
@@ -133,10 +133,10 @@ untested. A15's equations are [CLAIM-297](CLAIM-297.md)'s, quoted here.
 
 The owner: "let's connect back to the communicative act stuff and
 amari/watanabe theory" (workbench entry of 2026-10-24, U27). The
-connection is filed as [CLAIM-tmprfgwn](CLAIM-tmprfgwn.md): Amari's Fisher metric measures which
+connection is filed as [CLAIM-450](CLAIM-450.md): Amari's Fisher metric measures which
 changes of an interpreter's organization the probes detect; Watanabe's
 theory says what follows when different organizations give the same
-responses ([CASE-tmpj2xb7](../cases.d/CASE-tmpj2xb7.md)). Belief, wanting, liking and feeling as the
+responses ([CASE-152](../cases.d/CASE-152.md)). Belief, wanting, liking and feeling as the
 exchange characterized them are states of organized interpreters, not
 speech acts: assertion, request, praise and disclosure can each come apart
 from the state they seem to express, and saying "I am afraid" can report,

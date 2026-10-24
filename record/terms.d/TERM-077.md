@@ -33,8 +33,8 @@ refined_by:
 used_by:
 - CLAIM-434
 - CLAIM-440
-- CLAIM-tmpd6q2w
-- CLAIM-tmpuxcp6
+- CLAIM-448
+- CLAIM-451
 ---
 <!-- inactive-ok-file: TERM-078 TERM-076 THEORY-896 CLAIM-436 — Proposed; the terms built on this one, the second-hand reading of Monderer and Shapley, and the currency result it is distinguished from, cited as open -->
 

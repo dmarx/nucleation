@@ -1,0 +1,103 @@
+---
+number: 444
+status: Proposed
+formerly:
+- CLAIM-tmp1xoac
+title: 'A replicator dynamic on the distribution of authority among an organization''s processes is the special case of the meaning–authority–legibility model in which the organization''s interpretation is the authority-weighted mixture of its processes'' and evidence reaches scoring without a maintained regime of its own; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply, and the record''s separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority'
+version: 1
+role: thesis
+warrant: interpretive
+defeated_if: >-
+  A case of the record's governance dynamics, lock-in, self-confirming
+  authority or legibility that outlasts the authority that set it, whose
+  responses to interventions on interpretation, authority and legibility a
+  replicator dynamic on authority alone, with population-dependent scores,
+  reproduces at matched complexity; or a case where interpretation departs
+  from the authority-weighted mixture and the three-variable model predicts
+  no better than the replicator.
+tags:
+- self-governance
+- learning-theory
+- complex-systems
+date: '2026-10-24'
+line:
+- distributed-agency
+rests_on:
+- CLAIM-400
+complements:
+- CLAIM-443
+- CLAIM-448
+- CLAIM-369
+grounds:
+- THEORY-899
+- CASE-155
+- CASE-124
+- THEORY-894
+- THEORY-896
+summary: >-
+  Filed at the owner's direction, 2026-10-24. The owner asked whether the
+  tools of Soma et al. ([THEORY-899](../theory.d/THEORY-899.md)), "or from related work", could
+  formalize the record's more abstract version of the dynamics. Their
+  population–policy duality fits the record's authority dynamics with one
+  identification. Read as a reduction, it says what [CASE-124](../cases.d/CASE-124.md)'s extra
+  states are for.
+illustrated_by:
+- CASE-155
+---
+<!-- inactive-ok-file: THEORY-899 CASE-155 CLAIM-443 CLAIM-448 — Proposed or new, filed in this pull request -->
+<!-- inactive-ok-file: CLAIM-369 THEORY-894 THEORY-896 CLAIM-451 — cited as the tools the reduction brings in -->
+
+# CLAIM-444: A replicator dynamic on the distribution of authority among an organization's processes is the special case of the meaning–authority–legibility model in which the organization's interpretation is the authority-weighted mixture of its processes' and evidence reaches scoring without a maintained regime of its own; the replicator tools (Bayesian reading, potential and harmonic games, stochastic stability) then apply, and the record's separate interpretation and legibility states earn their place exactly where interpretation departs from that mixture or legibility keeps a memory of past authority
+
+## The claim
+
+The owner, 2026-10-24: "can we use any of the tools here (or from related
+work) to formalize our more abstract version of the dynamics?"
+
+**The identification.** In Soma et al. the population vector is the
+policy ([THEORY-899](../theory.d/THEORY-899.md)). Read the distribution π of practical authority
+over an organization's processes as that vector. If the organization's
+interpretation is the π-weighted mixture of the processes'
+interpretations, then [CASE-124](../cases.d/CASE-124.md)'s meaning m is a function of authority a,
+and only a, together with the scores, is state. If evidence reaches the
+scores directly, with no maintained regime r, then the model reduces to a
+replicator dynamic on π. In the population-dependent version, scores
+depend on π.
+
+**What the reduction brings.**
+- Evidence-tracking authority is Bayesian model averaging ([CASE-155](../cases.d/CASE-155.md),
+  part 1).
+- Authority-dependent scoring is a coordination game, with an unstable
+  threshold and lock-in above it (part 4). That is the self-confirming loop
+  of [CASE-099](../cases.d/CASE-099.md) and [CASE-124](../cases.d/CASE-124.md) in one variable, with the correction threshold
+  in closed form.
+- Where the scores form a potential game, the dynamic is a gradient flow in
+  the Shahshahani metric ([CLAIM-369](CLAIM-369.md)'s tool), the cardinal counterpart of a
+  persistent potential. Their harmonic part, in Candogan's decomposition
+  ([THEORY-894](../theory.d/THEORY-894.md)), cycles. That is [CLAIM-451](CLAIM-451.md)'s stable cyclic regime.
+  The ordinal versions are finite improvement paths and ordinal potentials
+  ([THEORY-896](../theory.d/THEORY-896.md)), as [ADR-052](../decisions.d/ADR-052.md) asks.
+- In finite populations every pure state is absorbing, and
+  stochastic-stability theory measures how hard each regime is to leave
+  ([CASE-155](../cases.d/CASE-155.md), limits).
+
+**What the reduction loses, and so what the record's states are for.**
+- *Interpretation apart from authority.* When an organization's prevailing
+  interpretation is not the authority-weighted mixture, m is state of its
+  own. That happens when interpretations combine nonlinearly (List and
+  Pettit's agendas), or when meaning persists after authority shifts.
+- *Legibility with memory.* [CLAIM-400](CLAIM-400.md)'s maintained r, an exponentially
+  weighted history of authority ([CASE-156](../cases.d/CASE-156.md)), is a slow state the
+  stateless macro-agent cannot hold. Its signature is a lock-in that
+  outlasts the authority that set it.
+
+So the replicator model is the null model for the record's governance
+dynamics. A claim that needs m or r should show a response to intervention
+that the replicator on authority, with population-dependent scores, does
+not reproduce at matched complexity ([CLAIM-427](CLAIM-427.md)'s standard).
+
+## What it does not say
+
+- That organizations are populations of imitators. The identification is
+  formal: shares of control play the part of type frequencies.
+- That the mixture condition holds in any actual organization.

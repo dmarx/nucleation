@@ -6,8 +6,8 @@
 
 **Game theory** — strategic interaction and its equilibria — evolutionary stability, repeated games, bargaining, coordination, signalling and conventions — in biology, economics and philosophy (ADR-019).
 
-0 of 151 CASE documents. Back to the [full index](../README.md).
+1 of 156 CASE documents. Back to the [full index](../README.md).
 
 | # | Title | Summary | Status |
 |---|---|---|---|
-
+| [CASE-155](../../../record/cases.d/CASE-155.md) | Authority as a replicator population: for a distribution π of control over processes with mean qualities q, the expected Maynard-Cross update is π_a q_a / v, Bayes' rule when q is each process's likelihood; the Maynard dynamic is the Taylor dynamic slowed by 1/v, so the two share their orbits; mean quality climbs at the rate Var_π(q); and when a process's score rises with its own share, ℓ′ = ℓ + h + c(2π − 1) has an unstable threshold π* = (1 − h/c)/2, above which a process the evidence disfavours captures the organization | Filed at the owner's direction, 2026-10-24, after asking whether the tools of Soma et al. ([THEORY-899](../../../record/theory.d/THEORY-899.md)) or related work could formalize the record's abstract governance dynamics. Four results, each checked when filed, two by script. It reads authority as the population vector of a replicator dynamic. Evidence-tracking authority is then Bayesian, and authority-dependent scoring gives lock-in with an explicit correction threshold. | Active |
