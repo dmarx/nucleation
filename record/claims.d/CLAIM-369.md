@@ -27,6 +27,7 @@ grounds:
 - CASE-118
 complements:
 - CLAIM-279
+- CLAIM-tmp1xoac
 summary: >-
   From a synthesis the owner relayed on 2026-10-18 (workbench entry of that
   date), checked here and given a proof. When competition between

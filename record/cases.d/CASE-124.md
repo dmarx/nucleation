@@ -44,6 +44,7 @@ summary: >-
 supports:
 - CLAIM-400
 - CLAIM-tmpd6q2w
+- CLAIM-tmp1xoac
 variants:
 - CASE-tmpydmf8
 ---

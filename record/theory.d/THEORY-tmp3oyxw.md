@@ -27,6 +27,8 @@ summary: >-
   decoupled from evaluation. Each member is one parallel action sample,
   α = 1/N plays the learning rate, and the macro-policy is a stateless
   bandit policy over the members' types.
+supports:
+- CLAIM-tmp1xoac
 ---
 <!-- inactive-ok-file: NOTE-tmphgg8m — the reading this is filed from -->
 

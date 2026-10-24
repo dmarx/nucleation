@@ -27,6 +27,7 @@ complements:
 - CLAIM-349
 - CLAIM-344
 - CLAIM-364
+- CLAIM-tmp1xoac
 grounds:
 - THEORY-tmpfp8dy
 - THEORY-tmp8y1fr
@@ -50,6 +51,7 @@ summary: >-
   authority must be told from a prior over actions.
 illustrated_by:
 - CASE-tmpo8uso
+- CASE-tmpw4r7u
 supports:
 - CLAIM-tmp8z857
 ---

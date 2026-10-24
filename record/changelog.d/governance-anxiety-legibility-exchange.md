@@ -4,6 +4,8 @@
 
 - At the owner's request, Soma et al., "The hive mind is a single reinforcement learning agent" (arXiv:2410.17517), filed and read in full ([LIT-tmpdxb92](record/literature.d/LIT-tmpdxb92.md), [NOTE-tmphgg8m](record/notes.d/NOTE-tmphgg8m.md)), with two Proposed THEORYs: the proved equivalence of imitation with bandit learning in expectation ([THEORY-tmp3oyxw](record/theory.d/THEORY-tmp3oyxw.md)) and its finite-population limits ([THEORY-tmp9g2s5](record/theory.d/THEORY-tmp9g2s5.md)).
 
+- At the owner's direction, the replicator tools applied to the record's governance dynamics: a construction reading authority as a replicator population, with evidence-tracking authority as Bayes' rule and lock-in under authority-dependent scoring at an explicit threshold ([CASE-tmpw4r7u](record/cases.d/CASE-tmpw4r7u.md)), and the claim that the replicator model is the special case of the meaning–authority–legibility model in which interpretation is the authority-weighted mixture and legibility keeps no memory ([CLAIM-tmp1xoac](record/claims.d/CLAIM-tmp1xoac.md)).
+
 ### Changed
 
 - The third review of PR [#327](https://github.com/dmarx/nucleation/issues/327), left unapplied at merge: [TERM-078](record/terms.d/TERM-078.md) no longer derives resumption from a Lyapunov function, and [TERM-077](record/terms.d/TERM-077.md)'s four senses of currency are stated as an evidential pair and a representational pair, not a chain of implications.
