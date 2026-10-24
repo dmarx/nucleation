@@ -111,41 +111,41 @@ see one another's play, beyond a sketch.
 
 ## How it bears on the record
 
-- **Institutions as correlated equilibria (THEORY-414).** It complicates
-  THEORY-414 and supports its representation condition. Hindriks and
+- **Institutions as correlated equilibria ([THEORY-414](../theory.d/THEORY-414.md)).** It complicates
+  [THEORY-414](../theory.d/THEORY-414.md) and supports its representation condition. Hindriks and
   Guala's institution is a correlated equilibrium of a coordination game,
-  with the device a rule the players represent (LIT-481). Here a
+  with the device a rule the players represent ([LIT-481](../literature.d/LIT-481.md)). Here a
   correlated equilibrium is approached with no device, no rule and no
   representation: the shared history does the correlating, and each player
   only tracks its own regrets. So correlated-equilibrium play is cheap.
   Reaching it does not need anything like an institution, which supports
-  THEORY-414's insistence that representation, not equilibrium, is what
+  [THEORY-414](../theory.d/THEORY-414.md)'s insistence that representation, not equilibrium, is what
   separates an institution from the butterflies' bourgeois convention.
   It also shows what such adaptive play does not give: the empirical
   distribution need not settle on one equilibrium, and it cannot settle on
   most of the mixed ones. A rule that picks one correlated equilibrium and
   holds it does work that regret matching does not. That bears on
-  THEORY-414's promote_when, which asks for a test that separates human
+  [THEORY-414](../theory.d/THEORY-414.md)'s promote_when, which asks for a test that separates human
   institutions from animal correlated equilibria. Regret-matching play is a
   third baseline, between them.
-- **Inertia (CLAIM-tmp0qupq).** The claim reads the owner's momentum term as
+- **Inertia ([CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)).** The claim reads the owner's momentum term as
   a switching cost that resists small transient changes. Here inertia is
   more than persistence: a positive probability of repeating is what
   breaks the miscoordination cycle and makes convergence possible. It
   supports the claim's switching-cost reading and adds a function the
   claim does not name.
-- **Cycles (CLAIM-tmpuxcp6).** An exact example of the claim's distinction.
+- **Cycles ([CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)).** An exact example of the claim's distinction.
   Switching to the better reply whenever there is one cycles between
   miscoordinated profiles; the same rule with friction does not. Whether
   the record of winning moves cycles depends on the update rule as well as
   on the game.
-- **Lock-in (CLAIM-tmp8z857).** Regret matching uses counterfactual payoffs,
+- **Lock-in ([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)).** Regret matching uses counterfactual payoffs,
   what k would have earned in the periods j was played, so evidence about
   unchosen actions keeps arriving. That is the condition under which the
   protective-regime trap cannot form. The unknown-game variant, which
   estimates counterfactuals from the periods k was actually played,
   reweighted by play probabilities, is the case in which that evidence has
   to be gathered by playing k, as in the trap; the paper only sketches it.
-- **Replicator readings (CLAIM-tmp1xoac).** Not a replicator dynamic. It is
+- **Replicator readings ([CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)).** Not a replicator dynamic. It is
   a better-reply process on actions, with convergence of time averages, and
   sits beside the replicator tools rather than among them.

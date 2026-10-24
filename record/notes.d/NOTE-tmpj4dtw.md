@@ -129,8 +129,8 @@ consistency and stability of LOLA exists but was not read here.
 ## Bearing on the record
 
 - **The lead's description, "a learning-aware model of authority shaping
-  others' learning" (CASE-124, CLAIM-tmpd6q2w), holds as an analogy with a
-  precise mechanism.** CASE-124's ε arrow has authority move the regime
+  others' learning" ([CASE-124](../cases.d/CASE-124.md), [CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md)), holds as an analogy with a
+  precise mechanism.** [CASE-124](../cases.d/CASE-124.md)'s ε arrow has authority move the regime
   through which others' evidence is read. LOLA's second-order term is a
   formal version of acting for one's effect on another's update rather
   than on the present outcome. The match is the form of the derivative.
@@ -145,12 +145,12 @@ consistency and stability of LOLA exists but was not read here.
   record's worry that a shaping process entrenches itself; it shows that
   shaping another's learning can be the route to cooperation. Nothing here
   models a shaper with authority over the other's evidence.
-- **CLAIM-tmpd6q2w (selective contestation).** Complicates it slightly.
+- **[CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) (selective contestation).** Complicates it slightly.
   LOLA is a case in which one party deliberately acts on another's
   learning and the outcome is better for both. Influence on the other's
   learning is not by itself evidence of suppression; what the claim needs
   is influence on which contests are recorded.
-- **CLAIM-tmpuxcp6, TERM-077 and THEORY-894 (cycles).** A direct link,
+- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md), [TERM-077](../terms.d/TERM-077.md) and [THEORY-894](../theory.d/THEORY-894.md) (cycles).** A direct link,
   mine. Matching pennies is the textbook harmonic game, all cycle and no
   potential, and naive gradient learners there "fail to converge" (p. 7).
   LOLA learners settled at the mixed equilibrium (98.8% of exact runs).
@@ -158,10 +158,10 @@ consistency and stability of LOLA exists but was not read here.
   deviation from Nash increases their immediate return, but also renders
   them more exploitable by the opponent's next learning step" (p. 5). So
   modelling another's learning is one way the cycling of a nonintegrable
-  negotiation can be relieved: a fourth candidate beside CLAIM-tmpuxcp6's
+  negotiation can be relieved: a fourth candidate beside [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)'s
   accommodation, entrenched precedence and cheap coordination, or a form
   of accommodation. Shown in one two-action game.
-- **CLAIM-tmp1xoac and CLAIM-tmp0qupq (authority dynamics; a learned
+- **[CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md) and [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) (authority dynamics; a learned
   prior over governance).** A model class the record lacks: processes
   whose influence on each other runs through each other's learning rules,
   not only through scores. The replicator reading treats processes as

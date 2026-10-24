@@ -42,7 +42,7 @@ styles at each level, so some styles counter others. The cycles should
 thin out toward the strongest play. Strategies that try to lose thin them
 out toward the bottom too. The shape is a spinning top. "Monotonic" here
 means the beats relation is transitive (p. 4), which is ordinal and
-differs from Balduzzi et al.'s σ-of-differences sense (LIT-tmpd40td).
+differs from Balduzzi et al.'s σ-of-differences sense ([LIT-tmpd40td](../literature.d/LIT-tmpd40td.md)).
 
 **n-bit communicative games and long cycles** (pp. 5, 13).
 - Definition 1: a game is n-bit communicative if each player can transmit
@@ -169,9 +169,9 @@ differs from Balduzzi et al.'s σ-of-differences sense (LIT-tmpd40td).
 
 ## How it bears on the record
 
-- **CLAIM-tmpuxcp6 and TERM-077: when cycles are unavoidable.** Theorem 1
+- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) and [TERM-077](../terms.d/TERM-077.md): when cycles are unavoidable.** Theorem 1
   is the record's most useful result in this group, and it is ordinal. It
-  is stated for the sign of outcomes, which matches ADR-052's preference.
+  is stated for the sign of outcomes, which matches [ADR-052](../decisions.d/ADR-052.md)'s preference.
   Wherever parties can condition on who they face before the outcome is
   fixed, every pattern of wins, any cycle included, is realizable. Read
   for an organization, this is interpretive: if perspectives can
@@ -184,19 +184,19 @@ differs from Balduzzi et al.'s σ-of-differences sense (LIT-tmpd40td).
   cycles are a structural possibility, and narrows where they are
   expected: among strategies that spend effort on recognition rather
   than on winning.**
-- **Nash clustering and CLAIM-tmpuxcp6's accommodation.** A cyclic record
+- **Nash clustering and [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)'s accommodation.** A cyclic record
   layered into clusters weakly ordered between them, with all the
   cycling inside them, is a cardinal version of the condensation reading
-  in NOTE-tmpxufhw. Theorem 3 gives a sufficient condition for a learner
+  in [NOTE-tmpxufhw](NOTE-tmpxufhw.md). Theorem 3 gives a sufficient condition for a learner
   to climb out of a cycle: beat every member of a whole cluster. That is
   close to the claim's accommodation. A policy conditioned on a richer
   context covers the whole cyclic class at once instead of answering its
-  latest member. **Complements; cardinal, so it needs ADR-052's
+  latest member. **Complements; cardinal, so it needs [ADR-052](../decisions.d/ADR-052.md)'s
   statement of what the numbers mean if the record uses it.**
-- **CLAIM-tmp0qupq: memory against the incumbent.** Proposition 3's gap
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md): memory against the incumbent.** Proposition 3's gap
   is a governance point in miniature. A fixed-memory population that
   drops its oldest member climbs; one that overwrites its newest can
   cycle for ever among regimes of one level. That is consistent with
-  NOTE-tmp8gje5's self-play contrast. Which memory is kept, not only how
+  [NOTE-tmp8gje5](NOTE-tmp8gje5.md)'s self-play contrast. Which memory is kept, not only how
   much, decides whether learning escapes a cycle. **Bears, by analogy.**
-- **CLAIM-tmp8z857 and CLAIM-tmp28sti.** Not addressed.
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) and [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).** Not addressed.

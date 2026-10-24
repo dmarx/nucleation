@@ -18,8 +18,8 @@ date: '2026-10-24'
 source:
 - LIT-tmpd40td
 summary: >-
-  Balduzzi et al. (2019), LIT-tmpd40td, Propositions 2 and 5, read from
-  arXiv v2 in NOTE-tmp8gje5, proofs followed and re-derived. Relative
+  Balduzzi et al. (2019), [LIT-tmpd40td](../literature.d/LIT-tmpd40td.md), Propositions 2 and 5, read from
+  arXiv v2 in [NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md), proofs followed and re-derived. Relative
   population performance is a game value, so equilibrium selection never
   arises. Behaviourally redundant members leave it unchanged, and a
   population contained in another's behavioural hull cannot beat it.
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Balduzzi, Garnelo, Bachrach, Czarnecki, Pérolat, Jaderberg & Graepel,
-LIT-tmpd40td, read in NOTE-tmp8gje5 from arXiv:1901.08106v2: Definition 3
+[LIT-tmpd40td](../literature.d/LIT-tmpd40td.md), read in [NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md) from arXiv:1901.08106v2: Definition 3
 and Proposition 5 (p. 5, proof p. 13), Proposition 2 (p. 4) and
 Definitions 6–7 (proof p. 12).
 
@@ -77,6 +77,6 @@ are duplicated. This one does not.
 
 Of the scoring rules in this group it is the one that a padded
 population cannot move without any further condition. Compare
-THEORY-tmpzogk3, which needs a unique equilibrium and covers exact copies
-only. For CLAIM-tmpuxcp6 it is the formal shape of relief by mixing:
-evaluate the portfolio, not the option (NOTE-tmp8gje5).
+[THEORY-tmpzogk3](THEORY-tmpzogk3.md), which needs a unique equilibrium and covers exact copies
+only. For [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) it is the formal shape of relief by mixing:
+evaluate the portfolio, not the option ([NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md)).

@@ -21,7 +21,7 @@ source:
 - LIT-tmpu91up
 summary: >-
   Miller, Resnick and Zeckhauser's Proposition 1, read in full in
-  NOTE-tmp0qrjw from the January 2005 draft, with the proof and the worked
+  [NOTE-tmp0qrjw](../notes.d/NOTE-tmp0qrjw.md) from the January 2005 draft, with the proof and the worked
   example (p(H) = .5, f(h | H) = .85, f(h | L) = .45; honest l scores
   −0.69, false h −0.75 under the log rule) re-derived. The same example
   has two uninformative equilibria, which the authors set aside as not
@@ -34,7 +34,7 @@ summary: >-
 
 ## Source
 
-Miller, Resnick & Zeckhauser (2005), LIT-tmpu91up, read in NOTE-tmp0qrjw
+Miller, Resnick & Zeckhauser (2005), [LIT-tmpu91up](../literature.d/LIT-tmpu91up.md), read in [NOTE-tmp0qrjw](../notes.d/NOTE-tmp0qrjw.md)
 from the authors' final pre-publication draft: Proposition 1 and its
 proof (p. 8), the worked example (pp. 6–8) and footnote 12 (p. 9).
 

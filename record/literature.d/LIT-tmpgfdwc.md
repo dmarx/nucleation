@@ -1,9 +1,9 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp43vkx) from the AAMAS 2010 proceedings PDF
+  read in full 2026-10-24 ([NOTE-tmp43vkx](../notes.d/NOTE-tmp43vkx.md)) from the AAMAS 2010 proceedings PDF
   on the IFAAMAS site; read in place of Tuyls, Verbeeck & Lenaerts 2003
-  (LIT-tmp0imkw), whose model it restates and corrects. Worth reading as the
+  ([LIT-tmp0imkw](LIT-tmp0imkw.md)), whose model it restates and corrects. Worth reading as the
   correction to "Q-learning is replicator dynamics plus mutation": the
   selection–mutation equation describes Q-learning with Boltzmann
   exploration only if every action's estimate is updated at the same rate.
@@ -74,7 +74,7 @@ doi:10.65109/vlue9705.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp43vkx. Page numbers are the proceedings'.*
+*From the reading, [NOTE-tmp43vkx](../notes.d/NOTE-tmp43vkx.md). Page numbers are the proceedings'.*
 
 - **The model restated.** Tuyls et al.'s dynamics for two-player stateless
   Boltzmann Q-learning are a replicator (selection) part plus a mutation
@@ -89,15 +89,15 @@ doi:10.65109/vlue9705.
   a dominant action, and its path depends on the initial Q-values, which a
   policy-space model cannot represent (pp. 312–313).
 - **The fix.** FAQ-learning scales each update by min(β/x_i, 1). In the
-  small-α limit it is the model wherever x_i ≥ β (THEORY-tmpar5jw).
+  small-α limit it is the model wherever x_i ≥ β ([THEORY-tmpar5jw](../theory.d/THEORY-tmpar5jw.md)).
 
 ## Why this is here
 
 Filed 2026-10-24, when the owner asked how the record stands on multi-agent
-reinforcement learning, in place of LIT-tmp0imkw. It corrects the
+reinforcement learning, in place of [LIT-tmp0imkw](LIT-tmp0imkw.md). It corrects the
 description "Q-learning is replicator dynamics plus an exploration term":
 that equation is exact for learners that update every option's estimate at
-the same rate, as Sato and Crutchfield's learners do (LIT-tmpxlow9). It
+the same rate, as Sato and Crutchfield's learners do ([LIT-tmpxlow9](LIT-tmpxlow9.md)). It
 carries `anthology-candidate` because FAQ-learning is an algorithm. It is
 filed for what it shows about learning dynamics, not as an instruction for
 practice.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpldi14) from arXiv v3 (11 December 2024,
+  read in full 2026-10-24 ([NOTE-tmpldi14](../notes.d/NOTE-tmpldi14.md)) from arXiv v3 (11 December 2024,
   arXiv non-exclusive licence), the corrected version; worth reading as the
   standard statement of counterfactual credit in cooperative multi-agent
   learning: each agent's action is scored against the critic's average over
@@ -97,8 +97,8 @@ arXiv:1705.08926
 
 Registered 2026-10-24 for the governance line: the lead read counterfactual
 baselines as answering "what if this process had not acted", which would
-bear on CLAIM-tmp8z857's identifiability step and on crediting unheeded
-processes (QUESTION-tmponjie, QUESTION-tmpdicvf's fourth failure).
+bear on [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s identifiability step and on crediting unheeded
+processes ([QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md), [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md)'s fourth failure).
 
 **Corrected 2026-10-24, from the reading.** COMA does not ask what would
 have happened had an agent not acted. It asks how the agent's actual
@@ -108,7 +108,7 @@ every step, and the alternatives are valued by a critic trained on
 experience in which they were taken. So it addresses the noise of a shared
 reward among processes that all act, not the identifiability of a process
 whose alternative is never sampled. A process never heeded has no data
-from which a critic could value it, which is CLAIM-tmp8z857's trap
-restated, not escaped. Read in NOTE-tmpldi14; filed as THEORY-tmp1p6ly. It
+from which a critic could value it, which is [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s trap
+restated, not escaped. Read in [NOTE-tmpldi14](../notes.d/NOTE-tmpldi14.md); filed as [THEORY-tmp1p6ly](../theory.d/THEORY-tmp1p6ly.md). It
 carries `anthology-candidate` as a method of multi-agent RL and no
 instruction for practice here.

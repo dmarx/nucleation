@@ -19,8 +19,8 @@ date: '2026-10-24'
 source:
 - LIT-tmp6d9wu
 summary: >-
-  Börgers & Sarin (JET 1997; working paper 1993), LIT-tmp6d9wu, read in
-  full in NOTE-tmpcqwez. When reinforcements may be negative, probability
+  Börgers & Sarin (JET 1997; working paper 1993), [LIT-tmp6d9wu](../literature.d/LIT-tmp6d9wu.md), read in
+  full in [NOTE-tmpcqwez](../notes.d/NOTE-tmpcqwez.md). When reinforcements may be negative, probability
   removed from a punished strategy is redistributed, and the limit is
   dp_j/dt = p_j(Ū_j* − p|Ũ|q) + Ū_j*(σ_j* − p_j). With payoffs of equal
   absolute size only the matching term remains. The limit is stated with
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Börgers and Sarin, LIT-tmp6d9wu, Section 6 (pp. 19–25 of the 1995 working
-paper), read in full in NOTE-tmpcqwez.
+Börgers and Sarin, [LIT-tmp6d9wu](../literature.d/LIT-tmp6d9wu.md), Section 6 (pp. 19–25 of the 1995 working
+paper), read in full in [NOTE-tmpcqwez](../notes.d/NOTE-tmpcqwez.md).
 
 ## What was actually shown
 

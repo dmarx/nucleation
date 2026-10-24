@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpoitn8) from arXiv v2 (6 June 2018, the
+  read in full 2026-10-24 ([NOTE-tmpoitn8](../notes.d/NOTE-tmpoitn8.md)) from arXiv v2 (6 June 2018, the
   ICML camera-ready, arXiv non-exclusive licence); worth reading for one
   structural condition: if the joint action-value is non-decreasing in
   each agent's own value, the profile of individually greedy actions is a
@@ -88,15 +88,15 @@ ICML — arXiv:1803.11485
 ## Why this is here
 
 Registered 2026-10-24 by the lead as "a precise condition for a collective
-common currency" bearing on CLAIM-436 and CLAIM-440. The reading supports
-a narrower statement (NOTE-tmpoitn8). Monotonic mixing is a condition
+common currency" bearing on [CLAIM-436](../claims.d/CLAIM-436.md) and [CLAIM-440](../claims.d/CLAIM-440.md). The reading supports
+a narrower statement ([NOTE-tmpoitn8](../notes.d/NOTE-tmpoitn8.md)). Monotonic mixing is a condition
 under which a collective's ordering of joint actions is consistent with
 each member's ordering of its own, given its local information. It is a
 separability condition, not a currency condition: Q_tot is already a
 real-valued function, so the currency is assumed, and what monotonicity
 adds is that each member's ranking of its own actions does not depend on
-the others' actions. That is the condition under which CLAIM-440's
+the others' actions. That is the condition under which [CLAIM-440](../claims.d/CLAIM-440.md)'s
 negotiation would never need to be had at execution time. QTRAN
-(LIT-tmpev178) shows the argmax condition itself is weaker. Filed as
-THEORY-tmp56jxv. It carries `anthology-candidate` as a multi-agent RL
+([LIT-tmpev178](LIT-tmpev178.md)) shows the argmax condition itself is weaker. Filed as
+[THEORY-tmp56jxv](../theory.d/THEORY-tmp56jxv.md). It carries `anthology-candidate` as a multi-agent RL
 method and no instruction for practice here.

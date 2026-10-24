@@ -13,7 +13,7 @@ status_note: >-
   third party's course-library server (jmvidal.cse.sc.edu), not by the
   authors or their institution; it was not used. The closest lawful text,
   the authors' NASA report of the same programme with a near-identical
-  abstract, is filed and read as LIT-tmp8bczu. It stays Unavailable until
+  abstract, is filed and read as [LIT-tmp8bczu](LIT-tmp8bczu.md). It stays Unavailable until
   a copy is supplied or the author's page can be reached. No NOTE is
   filed.
 title: 'Optimal Payoff Functions for Members of Collectives'
@@ -73,7 +73,7 @@ Complexity in Economic and Social Systems* (World Scientific, 2002),
 pp. 355–369.
 
 Not read. The summary is drawn from the abstract. The authors' NASA report
-of the same programme (LIT-tmp8bczu, read in NOTE-tmpo0w02) states the
+of the same programme ([LIT-tmp8bczu](LIT-tmp8bczu.md), read in [NOTE-tmpo0w02](../notes.d/NOTE-tmpo0w02.md)) states the
 factoredness condition, the Wonderful Life Utility and an optimal clamping
 parameter, with a near-identical abstract. This paper's abstract adds a new
 mathematical framework, the Aristocrat Utility and a comparison with
@@ -85,7 +85,7 @@ should start there.
 Registered 2026-10-24 for difference rewards, the Wonderful Life Utility:
 the world utility minus its value with one member's contribution removed.
 The lead read it as answering "what if this process had not acted", for
-CLAIM-tmp8z857's identifiability and QUESTION-tmponjie's unheeded
-processes. COMA (LIT-tmpqx5wu) cites it as the source of its
+[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s identifiability and [QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md)'s unheeded
+processes. COMA ([LIT-tmpqx5wu](LIT-tmpqx5wu.md)) cites it as the source of its
 counterfactual baseline and of the "aristocrat utility". What the report
-shows about the question is in NOTE-tmpo0w02.
+shows about the question is in [NOTE-tmpo0w02](../notes.d/NOTE-tmpo0w02.md).

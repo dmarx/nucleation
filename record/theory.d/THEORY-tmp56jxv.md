@@ -19,8 +19,8 @@ source:
 - LIT-tmp3ztxf
 - LIT-tmpev178
 summary: >-
-  Rashid et al.'s QMIX (ICML 2018), read in full in NOTE-tmpoitn8, with
-  QTRAN (NOTE-tmp457xj) for the strictness. Monotonicity is sufficient for
+  Rashid et al.'s QMIX (ICML 2018), read in full in [NOTE-tmpoitn8](../notes.d/NOTE-tmpoitn8.md), with
+  QTRAN ([NOTE-tmp457xj](../notes.d/NOTE-tmp457xj.md)) for the strictness. Monotonicity is sufficient for
   the greedy-profile property and not necessary. It presupposes a real-
   valued joint value: what it adds is that each member's ranking of its
   own actions agrees with the collective's whatever the others do, an
@@ -34,10 +34,10 @@ summary: >-
 ## Source
 
 Rashid, Samvelyan, Schroeder de Witt, Farquhar, Foerster & Whiteson,
-LIT-tmp3ztxf, read in NOTE-tmpoitn8 from arXiv:1803.11485v2: Eqs. 4–5
+[LIT-tmp3ztxf](../literature.d/LIT-tmp3ztxf.md), read in [NOTE-tmpoitn8](../notes.d/NOTE-tmpoitn8.md) from arXiv:1803.11485v2: Eqs. 4–5
 (p. 4), section 4.1, supplement A (Table 3) and the two-step game
 (Tables 1–2, supplement B). Strictness against IGM from Son et al.,
-LIT-tmpev178 (NOTE-tmp457xj).
+[LIT-tmpev178](../literature.d/LIT-tmpev178.md) ([NOTE-tmp457xj](../notes.d/NOTE-tmp457xj.md)).
 
 ## What was actually shown
 
@@ -64,6 +64,6 @@ LIT-tmpev178 (NOTE-tmp457xj).
   real-valued by assumption; the condition concerns how members' rankings
   relate to it.
 - **That a non-monotonic task cannot be decentralised.** IGM can hold
-  without monotonicity (THEORY-tmpayfgm).
+  without monotonicity ([THEORY-tmpayfgm](THEORY-tmpayfgm.md)).
 - **Anything under partial observability beyond a remark.** The paper says
   QMIX "cannot necessarily represent the value function" there.

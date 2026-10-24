@@ -12,7 +12,7 @@ status_note: >-
   503 and a search result describes its record as "No Fulltext", and
   CiteSeerX reset the connection. Web searches found no author copy. The
   model the paper derives is read instead through Kaisers & Tuyls 2010
-  (LIT-tmpgfdwc, NOTE-tmp43vkx), which restates its equation and shows that
+  ([LIT-tmpgfdwc](LIT-tmpgfdwc.md), [NOTE-tmp43vkx](../notes.d/NOTE-tmp43vkx.md)), which restates its equation and shows that
   it describes frequency-adjusted, not plain, Q-learning. It stays
   Unavailable until a copy is supplied. No NOTE is filed.
 title: 'A selection-mutation model for Q-learning in multi-agent systems'
@@ -65,7 +65,7 @@ International Joint Conference on Autonomous Agents and Multiagent Systems
 (AAMAS '03)*, 693–700. ACM. doi:10.1145/860575.860687.
 
 Not read. The summary is drawn from the abstract and from Kaisers & Tuyls
-(2010), LIT-tmpgfdwc, which restates the paper's equation. A reading should
+(2010), [LIT-tmpgfdwc](LIT-tmpgfdwc.md), which restates the paper's equation. A reading should
 check it first.
 
 ## Why this is here
@@ -74,4 +74,4 @@ Filed 2026-10-24 when the owner asked how the record stands on multi-agent
 reinforcement learning, as the source of "Q-learning is replicator dynamics
 plus an exploration term that removes absorbing states". The later paper by
 one of its authors, read in its place, says the model describes Q-learning
-only after a frequency adjustment (NOTE-tmp43vkx).
+only after a frequency adjustment ([NOTE-tmp43vkx](../notes.d/NOTE-tmp43vkx.md)).

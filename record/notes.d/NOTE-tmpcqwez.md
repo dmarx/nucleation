@@ -125,16 +125,16 @@ with no exploration.
 
 ## How it bears on the record
 
-- **The replicator reading of authority (CASE-tmpw4r7u,
-  CLAIM-tmp1xoac).** These inherit "Cross learning is the Taylor replicator
-  dynamic" through Soma et al. (THEORY-tmp3oyxw). The source supports
+- **The replicator reading of authority ([CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md),
+  [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)).** These inherit "Cross learning is the Taylor replicator
+  dynamic" through Soma et al. ([THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md)). The source supports
   it and narrows it: the identity is of expected motion, and of actual
   motion only on finite horizons in the slow-learning limit. Results about
   long-run behaviour, such as rest points, cycles and basins, transfer from
   the replicator dynamic to the learner only with that caveat. Stochastic
-  stability, which CLAIM-tmp1xoac brings in for finite populations, is the
+  stability, which [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md) brings in for finite populations, is the
   right tool for exactly this reason.
-- **Lock-in (CLAIM-tmp0qupq, CLAIM-tmp8z857, CLAIM-tmp28sti).** Proposition 5 is
+- **Lock-in ([CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md), [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md), [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md)).** Proposition 5 is
   absorption without any self-confirming loop. A single learner whose
   updates are payoff-weighted moves towards what it just did, and with no
   exploration it ends at a pure profile with probability one, which
@@ -143,19 +143,19 @@ with no exploration.
   locate entrenchment in evidence or authority feedback, and here
   entrenchment needs neither, only reinforcement of the chosen with no
   return path. It is the single-learner counterpart of Soma et al.'s
-  finite-population loss of types (THEORY-tmp9g2s5). Read for
-  CLAIM-tmp8z857, relief as reinforcement of the defensive choice is this
+  finite-population loss of types ([THEORY-tmp9g2s5](../theory.d/THEORY-tmp9g2s5.md)). Read for
+  [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md), relief as reinforcement of the defensive choice is this
   update rule, and absorption is the limiting case of a defense chosen so
   often that the alternative is never sampled.
-- **Cycles (CLAIM-tmpuxcp6).** Matching pennies shows that a cycle in the
+- **Cycles ([CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)).** Matching pennies shows that a cycle in the
   mean dynamic need not be a cycle in any realized learner. A cyclic regime
   observed in an organization's record is evidence of something beyond
   Cross-style reinforcement, such as exploration or noise, which keeps it
   off the boundary. The Q-learning dynamics read beside this one
-  (NOTE-tmp43vkx) supply such a term.
+  ([NOTE-tmp43vkx](NOTE-tmp43vkx.md)) supply such a term.
 - **Probability matching.** A learner that matches choice to success
   frequency, as the moving-aspiration case makes unavoidable, ends where
   no ordering of the options is followed exactly. It bears on the record's
   common-currency line as a known mechanism by which reinforcement learning
-  departs from maximizing, not as a failure of ordering. CLAIM-436 and
-  CLAIM-440 are not otherwise touched.
+  departs from maximizing, not as a failure of ordering. [CLAIM-436](../claims.d/CLAIM-436.md) and
+  [CLAIM-440](../claims.d/CLAIM-440.md) are not otherwise touched.

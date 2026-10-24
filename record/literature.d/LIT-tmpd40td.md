@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp8gje5) from arXiv v2 (13 May 2019, the
+  read in full 2026-10-24 ([NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md)) from arXiv v2 (13 May 2019, the
   authors' "ICML 2019, final version"); worth reading for one invariant and
   one reframing. The invariant: the value of the zero-sum game between two
   populations, which does not depend on the choice of Nash, ignores members
@@ -69,7 +69,7 @@ Learning*, PMLR 97: 434–443 — arXiv:1901.08106
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp8gje5. Page numbers are the PDF's.*
+*From the reading, [NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md). Page numbers are the PDF's.*
 
 - **Transitive plus cyclic, relative to a measure.** Every antisymmetric
   φ(v, w) is grad(f) + ψ, with f the mean payoff against agents drawn from
@@ -85,7 +85,7 @@ Learning*, PMLR 97: 434–443 — arXiv:1901.08106
   populations does not depend on which Nash equilibrium is used. Members
   that behave as mixtures of others do not change it, and a population
   inside another's hull cannot beat it (Propositions 2 and 5;
-  THEORY-tmpxh6cj).
+  [THEORY-tmpxh6cj](../theory.d/THEORY-tmpxh6cj.md)).
 - **Algorithms.** Response to the Nash mixture (PSRO_N) strictly enlarges
   the gamescape while some agent beats the Nash, and stalls once the
   game's Nash lies inside it. Response to the rectified Nash (PSRO_rN)
@@ -100,9 +100,9 @@ Learning*, PMLR 97: 434–443 — arXiv:1901.08106
 
 Filed 2026-10-24 for the record's governance and cycles lines. The
 population value is a scoring invariant that, unlike Nash averaging
-(LIT-tmp9zvdz), needs no uniqueness and covers behavioural mixtures. Its
+([LIT-tmp9zvdz](LIT-tmp9zvdz.md)), needs no uniqueness and covers behavioural mixtures. Its
 monotonic-versus-transitive distinction is the record's own
-ordinal-versus-cardinal one (CLAIM-434, TERM-077). It bears on
-CLAIM-tmpuxcp6 and CASE-124 (NOTE-tmp8gje5). It carries
+ordinal-versus-cardinal one ([CLAIM-434](../claims.d/CLAIM-434.md), [TERM-077](../terms.d/TERM-077.md)). It bears on
+[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) and [CASE-124](../cases.d/CASE-124.md) ([NOTE-tmp8gje5](../notes.d/NOTE-tmp8gje5.md)). It carries
 `anthology-candidate` because its algorithms are for training ML agents.
 It is filed for understanding, not as an instruction for practice.

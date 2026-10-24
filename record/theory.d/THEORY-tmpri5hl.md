@@ -21,8 +21,8 @@ date: '2026-10-24'
 source:
 - LIT-tmpxtwxt
 summary: >-
-  Hart & Mas-Colell (Econometrica 2000; handout 1996), LIT-tmpxtwxt, read in
-  full in NOTE-tmp7qq6n. Convergence is of time-averaged joint frequencies
+  Hart & Mas-Colell (Econometrica 2000; handout 1996), [LIT-tmpxtwxt](../literature.d/LIT-tmpxtwxt.md), read in
+  full in [NOTE-tmp7qq6n](../notes.d/NOTE-tmp7qq6n.md). Convergence is of time-averaged joint frequencies
   to a set, not of play to an equilibrium; the common history is the
   correlating device; inertia is needed; and interior correlated equilibria
   that are not pure Nash cannot be the limit.
@@ -35,7 +35,7 @@ summary: >-
 
 Sergiu Hart and Andreu Mas-Colell, "A simple adaptive procedure leading to
 correlated equilibrium", *Econometrica* 68(5):1127–1150 (2000),
-LIT-tmpxtwxt, read in full in NOTE-tmp7qq6n: Main Theorem (p. 1131), the
+[LIT-tmpxtwxt](../literature.d/LIT-tmpxtwxt.md), read in full in [NOTE-tmp7qq6n](../notes.d/NOTE-tmp7qq6n.md): Main Theorem (p. 1131), the
 Proposition and Theorem A (pp. 1133–1138), and the appendix.
 
 ## What was actually shown
@@ -67,9 +67,9 @@ Proposition and Theorem A (pp. 1133–1138), and the appendix.
 
 ## Connections
 
-- **THEORY-414.** Correlated-equilibrium play without a device or a
-  represented rule. It supports THEORY-414's view that equilibrium alone is
+- **[THEORY-414](THEORY-414.md).** Correlated-equilibrium play without a device or a
+  represented rule. It supports [THEORY-414](THEORY-414.md)'s view that equilibrium alone is
   not institution, and shows what adaptive play lacks: selection and
   stability of one equilibrium.
-- **CLAIM-tmp0qupq.** Inertia as a condition of convergence, not only of
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** Inertia as a condition of convergence, not only of
   persistence.

@@ -22,7 +22,7 @@ date: '2026-10-24'
 source:
 - LIT-tmph0w3m
 summary: >-
-  Yang et al. (2018), read in full in NOTE-tmpbk0kd from arXiv v5. The
+  Yang et al. (2018), read in full in [NOTE-tmpbk0kd](../notes.d/NOTE-tmpbk0kd.md) from arXiv v5. The
   expansion and the remainder bound were re-derived when filed; the
   appendix states an equality where only an inequality holds, which leaves
   the bound intact. The cancellation of remainders is argued from
@@ -36,8 +36,8 @@ summary: >-
 
 ## Source
 
-Yang, Luo, Li, Zhou, Zhang & Wang (2018), LIT-tmph0w3m, read in
-NOTE-tmpbk0kd from arXiv:1802.05438v5: section 3 (Eqs. 5–14, Theorem 1),
+Yang, Luo, Li, Zhou, Zhang & Wang (2018), [LIT-tmph0w3m](../literature.d/LIT-tmph0w3m.md), read in
+[NOTE-tmpbk0kd](../notes.d/NOTE-tmpbk0kd.md) from arXiv:1802.05438v5: section 3 (Eqs. 5–14, Theorem 1),
 appendices B and D, and section 5.1 (Figure 3).
 
 ## What was actually shown

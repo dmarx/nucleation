@@ -148,7 +148,7 @@ signal that the current rater would agree with" (p. 22).
   truth with a model of how honest signals correlate. For the record's
   governance line, that shifts the question to who sets and maintains
   that model, a role with authority over every score.
-- **CASE-tmpw4r7u.** Its fourth result needs a scoring channel in which a
+- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md).** Its fourth result needs a scoring channel in which a
   process's score rises with its own share (c > 0). Peer prediction is
   built to remove that dependence in the truthful equilibrium: the
   posterior already allows for what the majority is expected to say, so a
@@ -166,17 +166,17 @@ signal that the current rater would agree with" (p. 22).
   scores itself by agreement. It leaves open whether a subset can profit
   at honest raters' expense. That is the question the record needs
   answered before peer scoring could serve as an anti-entrenchment
-  device. It complicates any use of the mechanism against CLAIM-277's and
-  CLAIM-tmp0qupq's entrenchment: those claims' processes endorse one
+  device. It complicates any use of the mechanism against [CLAIM-277](../claims.d/CLAIM-277.md)'s and
+  [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s entrenchment: those claims' processes endorse one
   another repeatedly, which is the setting where collusion is easiest to
   coordinate.
 - **The Yes-Man.** A rater who models the boss's view rather than the
-  item reports the boss's view. This is CASE-tmpydmf8's filter seen from
+  item reports the boss's view. This is [CASE-tmpydmf8](../cases.d/CASE-tmpydmf8.md)'s filter seen from
   the reporter: what is admitted depends on who will read it. The paper's
   remedy, elicit along dimensions on which nothing else predicts the next
-  report, is a legibility condition (CASE-124): the categories must be
+  report, is a legibility condition ([CASE-124](../cases.d/CASE-124.md)): the categories must be
   ones in which honest reports are scorable.
-- **CLAIM-tmp1xoac.** Not addressed. The scheme pays raters; it does not
+- **[CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** Not addressed. The scheme pays raters; it does not
   allocate authority among them. Using the scores to decide whose reports
   count next would bring back the dependence of score on share that the
   scheme was built to remove.

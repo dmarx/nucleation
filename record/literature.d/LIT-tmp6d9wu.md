@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpcqwez) from the authors' working paper of
+  read in full 2026-10-24 ([NOTE-tmpcqwez](../notes.d/NOTE-tmpcqwez.md)) from the authors' working paper of
   October 1995, as held in Levine's Working Paper Archive; worth reading
   as the proved source of "Cross learning is the replicator dynamic": a
   single Bush–Mosteller learner with positive payoffs moves in expectation
@@ -76,7 +76,7 @@ doi:10.1006/jeth.1997.2319. Working paper, October 1993 and October 1995.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpcqwez. Page numbers are the 1995 working paper's.*
+*From the reading, [NOTE-tmpcqwez](../notes.d/NOTE-tmpcqwez.md). Page numbers are the 1995 working paper's.*
 
 - **Expected motion is the replicator step.** In Cross's model a player
   who plays j and receives payoff U ∈ (0, 1) moves her mixed strategy a
@@ -89,7 +89,7 @@ doi:10.1006/jeth.1997.2319. Working paper, October 1993 and October 1995.
   Taylor replicator dynamic at t (Proposition 4, via Norman's theorem). But
   for every θ > 0 it converges with probability one to a pure strategy
   pair (Proposition 5), including matching pennies, where the replicator
-  dynamic cycles (THEORY-tmphhvqf).
+  dynamic cycles ([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)).
 - **A population of ideas in one mind.** Read through Estes's stimulus
   sampling, the learner is a population of stimuli, one sampled each
   period and re-programmed in proportion to the payoff. The analogy is
@@ -98,14 +98,14 @@ doi:10.1006/jeth.1997.2319. Working paper, October 1993 and October 1995.
 - **Negative payoffs add probability matching.** The limit is a
   replicator term in "benefits" plus a term that alone would equate each
   strategy's choice probability with its probability of success, which is
-  "often irrational behavior" (p. 5; THEORY-tmpbq2nj).
+  "often irrational behavior" (p. 5; [THEORY-tmpbq2nj](../theory.d/THEORY-tmpbq2nj.md)).
 
 ## Why this is here
 
 Filed 2026-10-24 when the owner asked how the record stands on multi-agent
 reinforcement learning. It is the source the record's replicator reading
-of authority (CASE-tmpw4r7u, CLAIM-tmp1xoac) and Soma et al.'s Proposition 1
-(THEORY-tmp3oyxw) inherit "Cross learning is the replicator dynamic" from.
+of authority ([CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md), [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)) and Soma et al.'s Proposition 1
+([THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md)) inherit "Cross learning is the replicator dynamic" from.
 Its asymptotic result is the record's lock-in worry in a single learner:
 the expected dynamic can cycle or stay interior while every sample path is
 absorbed in a vertex.

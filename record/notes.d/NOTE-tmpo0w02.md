@@ -138,11 +138,11 @@ image): G is re-evaluated on the actual worldline with η's part replaced.
 
 ## Connections
 
-The source of COMA's counterfactual baseline (LIT-tmpqx5wu), which cites
+The source of COMA's counterfactual baseline ([LIT-tmpqx5wu](../literature.d/LIT-tmpqx5wu.md)), which cites
 this programme as difference rewards and its expectation version as the
 "aristocrat utility". The El Farol problem is Arthur's (1994); the
 tragedy of the commons and Braess' paradox are the failures factoredness
-is meant to rule out. The ACS paper (LIT-tmpkensg) restates the programme
+is meant to rule out. The ACS paper ([LIT-tmpkensg](../literature.d/LIT-tmpkensg.md)) restates the programme
 "using a novel mathematical framework" and adds the Aristocrat Utility, by
 its abstract.
 
@@ -160,7 +160,7 @@ its abstract.
     action did better, and the paper's sketch derives why: the clamp that
     maximises learnability is what the member typically does. COMA later
     made the same move.
-- **CLAIM-tmp8z857 (identifiability).** Irrelevant to the trap, relevant
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (identifiability).** Irrelevant to the trap, relevant
   to its diagnosis. The WLU needs G evaluable at the clamped history,
   which in a congestion game is a formula. An organization that cannot
   evaluate the outcome without its defensive process, because it has never
@@ -169,26 +169,26 @@ its abstract.
   be factored (aligned with the organization's) and still poorly
   learnable, and poor learnability, not misalignment, is what the WLU
   fixes.
-- **QUESTION-tmponjie and QUESTION-tmpdicvf, failure 4.** The WLU is
+- **[QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md) and [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md), failure 4.** The WLU is
   computed for every member on every step, heeded or not, because every
   member acts and G is known. It is a procedure for full-information
   credit, not for bandit feedback. Nothing here credits a process whose
   alternative is never realised.
-- **CLAIM-436 and CLAIM-440 (ordering and currency).** A sharp
+- **[CLAIM-436](../claims.d/CLAIM-436.md) and [CLAIM-440](../claims.d/CLAIM-440.md) (ordering and currency).** A sharp
   complement. Factoredness is purely ordinal, member by member: it asks
   only that each member's utility rank its own options as the collective
   does, the others fixed, and its characterisation allows any increasing
   transform. It is the same condition QMIX's supplement states for values
-  (NOTE-tmpoitn8). So the record now holds an ordinal alignment condition
+  ([NOTE-tmpoitn8](NOTE-tmpoitn8.md)). So the record now holds an ordinal alignment condition
   between members' and collective's orderings that needs no common scale
   among the members, and a theorem that it holds exactly when each
   member's utility is a monotone function of the collective's.
-  CLAIM-440's "common currency" is G here, given by the designer; the
+  [CLAIM-440](../claims.d/CLAIM-440.md)'s "common currency" is G here, given by the designer; the
   paper's question is how to hand it to members so that they learn.
-- **CLAIM-277 and CLAIM-416 (endorsement and tests).** The team game is a
+- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-416](../claims.d/CLAIM-416.md) (endorsement and tests).** The team game is a
   test that is fair (factored) and uninformative (unlearnable); the WLU is
   a test as fair and more informative. That is a precise instance of
-  CLAIM-416's distinction between a test's fairness and what success under
+  [CLAIM-416](../claims.d/CLAIM-416.md)'s distinction between a test's fairness and what success under
   it shows.
 - No instruction for machine-learning practice is drawn here.
 

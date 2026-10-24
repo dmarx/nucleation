@@ -21,8 +21,8 @@ source:
 - LIT-tmpgfdwc
 - LIT-tmp0imkw
 summary: >-
-  Kaisers & Tuyls (AAMAS 2010), LIT-tmpgfdwc, read in full in NOTE-tmp43vkx,
-  correcting the model of Tuyls, Verbeeck & Lenaerts (2003), LIT-tmp0imkw,
+  Kaisers & Tuyls (AAMAS 2010), [LIT-tmpgfdwc](../literature.d/LIT-tmpgfdwc.md), read in full in [NOTE-tmp43vkx](../notes.d/NOTE-tmp43vkx.md),
+  correcting the model of Tuyls, Verbeeck & Lenaerts (2003), [LIT-tmp0imkw](../literature.d/LIT-tmp0imkw.md),
   which is not read. The derivation of the discrepancy is short and was
   checked in the reading; the experiments are three games, one
   temperature, compared by eye.
@@ -34,9 +34,9 @@ summary: >-
 ## Source
 
 Michael Kaisers and Karl Tuyls, "Frequency adjusted multi-agent
-Q-learning", AAMAS 2010, pp. 309–315, LIT-tmpgfdwc, read in full in
-NOTE-tmp43vkx (sections 2.4–4). The model it corrects is Tuyls, Verbeeck
-and Lenaerts (AAMAS 2003), LIT-tmp0imkw, which could not be reached and is
+Q-learning", AAMAS 2010, pp. 309–315, [LIT-tmpgfdwc](../literature.d/LIT-tmpgfdwc.md), read in full in
+[NOTE-tmp43vkx](../notes.d/NOTE-tmp43vkx.md) (sections 2.4–4). The model it corrects is Tuyls, Verbeeck
+and Lenaerts (AAMAS 2003), [LIT-tmp0imkw](../literature.d/LIT-tmp0imkw.md), which could not be reached and is
 known here only as Kaisers and Tuyls restate it.
 
 ## What was actually shown
@@ -59,14 +59,14 @@ known here only as Kaisers and Tuyls restate it.
 ## What this does not say
 
 - That the mutation term is wrong. It is right for learners whose every
-  option is updated, the case Sato and Crutchfield treat (THEORY-tmp3wkwk).
+  option is updated, the case Sato and Crutchfield treat ([THEORY-tmp3wkwk](THEORY-tmp3wkwk.md)).
 - That Q-learning's departure is large in general. No measure is given.
 - That the term removes absorbing states. The paper does not discuss it;
   that the boundary is repelling under the term is a reading of Eq. 2.
 
 ## Connections
 
-- **CLAIM-tmp8z857.** The factor x_i is the claim's trap in a learner:
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The factor x_i is the claim's trap in a learner:
   evidence about an option arrives only when the option is chosen, so an
   estimate of a rarely chosen option is rarely corrected. Inverse-frequency
   weighting is the correction that removes it.

@@ -18,8 +18,8 @@ date: '2026-10-24'
 source:
 - LIT-tmp42ace
 summary: >-
-  Czarnecki et al. (2020), LIT-tmp42ace, Theorem 1 and Propositions 1–2,
-  read from arXiv v2 in NOTE-tmpat2ia, proof followed. Strategies announce
+  Czarnecki et al. (2020), [LIT-tmp42ace](../literature.d/LIT-tmp42ace.md), Theorem 1 and Propositions 1–2,
+  read from arXiv v2 in [NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md), proof followed. Strategies announce
   an identity, then throw or take the game as the pattern says. Go is at
   least about 1000-bit communicative (log₂ 180! ≈ 1094), so it has cycles
   of length 2¹⁰⁰⁰. Ordinal: only the sign of outcomes matters. The paper
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Czarnecki, Gidel, Tracey, Tuyls, Omidshafiei, Balduzzi & Jaderberg,
-LIT-tmp42ace, read in NOTE-tmpat2ia from arXiv:2004.09468v2: Definition 1
+[LIT-tmp42ace](../literature.d/LIT-tmp42ace.md), read in [NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md) from arXiv:2004.09468v2: Definition 1
 and Theorem 1 (p. 5, proof p. 13), Propositions 1–2 (p. 5, proofs p. 13),
 supplement B (pp. 14–16).
 
@@ -68,13 +68,13 @@ definition.
   signalling and then deliberately lose or win. They are weak, and the
   theorem places long cycles among weak strategies only.
 - **That real games have the spinning-top shape.** The authors say so
-  themselves (p. 6). That is THEORY-tmp5k950's empirical question.
+  themselves (p. 6). That is [THEORY-tmp5k950](THEORY-tmp5k950.md)'s empirical question.
 - **Anything cardinal.** Margins play no part.
 
 ## Connections
 
-For CLAIM-tmpuxcp6 and TERM-077 it is the condition under which cyclic
+For [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) and [TERM-077](../terms.d/TERM-077.md) it is the condition under which cyclic
 records cannot be excluded on structural grounds. Wherever contestants can
 recognize one another before the outcome is settled, any pattern of wins
 can arise. Whether an ordinal potential exists is then a fact about the
-strategies in play, not about the game (NOTE-tmpat2ia).
+strategies in play, not about the game ([NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md)).

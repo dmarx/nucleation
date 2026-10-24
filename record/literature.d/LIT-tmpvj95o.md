@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpj4dtw) from arXiv v4 (19 September 2018,
+  read in full 2026-10-24 ([NOTE-tmpj4dtw](../notes.d/NOTE-tmpj4dtw.md)) from arXiv v4 (19 September 2018,
   the AAMAS 2018 text, arXiv non-exclusive licence); worth reading as the
   first learning rule that models another learner's update and climbs its
   own return through it: a LOLA agent adds to its gradient the effect of
@@ -91,13 +91,13 @@ arXiv:1709.04326
 ## Why this is here
 
 Registered 2026-10-24 by the lead as "a learning-aware model of authority
-shaping others' learning", bearing on CASE-124 and CLAIM-tmpd6q2w. The
+shaping others' learning", bearing on [CASE-124](../cases.d/CASE-124.md) and [CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md). The
 reading supports that as an analogy with a precise mechanism
-(NOTE-tmpj4dtw): a LOLA learner treats another learner's update rule as
+([NOTE-tmpj4dtw](../notes.d/NOTE-tmpj4dtw.md)): a LOLA learner treats another learner's update rule as
 part of its environment and moves its own parameters partly for their
-effect on that update. CASE-124's ε arrow, authority moving the regime
+effect on that update. [CASE-124](../cases.d/CASE-124.md)'s ε arrow, authority moving the regime
 that shapes what others learn, has the same form. What it does not supply
 is the record's asymmetry: LOLA is symmetric between peers, each shaping
 the other, and its result is that mutual shaping can produce reciprocity,
-not capture. Filed as THEORY-tmpaod5d. It carries `anthology-candidate` as
+not capture. Filed as [THEORY-tmpaod5d](../theory.d/THEORY-tmpaod5d.md). It carries `anthology-candidate` as
 a multi-agent learning method and no instruction for practice here.

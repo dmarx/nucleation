@@ -19,7 +19,7 @@ date: '2026-10-24'
 source:
 - LIT-tmpev178
 summary: >-
-  Son et al.'s QTRAN (ICML 2019), read in full in NOTE-tmp457xj, with
+  Son et al.'s QTRAN (ICML 2019), read in full in [NOTE-tmp457xj](../notes.d/NOTE-tmp457xj.md), with
   Theorem 1 and the single-state observation re-derived. IGM presupposes a
   real-valued joint value and constrains only the optimum: members may
   rank everything below it differently from the collective. With full
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Son, Kim, Kang, Hostallero & Yi, LIT-tmpev178, read in NOTE-tmp457xj from
+Son, Kim, Kang, Hostallero & Yi, [LIT-tmpev178](../literature.d/LIT-tmpev178.md), read in [NOTE-tmp457xj](../notes.d/NOTE-tmp457xj.md) from
 arXiv:1905.05408v1: Definition 1 and Theorem 1 (pp. 2–3), the proofs in
 supplement B, and supplement D (Table 6).
 

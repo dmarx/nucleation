@@ -19,9 +19,9 @@ source:
 - LIT-tmp42ace
 - LIT-tmpd40td
 summary: >-
-  Czarnecki et al. (2020), LIT-tmp42ace, Definition 3 and Theorems 2–3,
-  read from arXiv v2 in NOTE-tmpat2ia, proofs followed and re-derived. RPP
-  is the population value of Balduzzi et al. (2019), LIT-tmpd40td. It holds
+  Czarnecki et al. (2020), [LIT-tmp42ace](../literature.d/LIT-tmp42ace.md), Definition 3 and Theorems 2–3,
+  read from arXiv v2 in [NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md), proofs followed and re-derived. RPP
+  is the population value of Balduzzi et al. (2019), [LIT-tmpd40td](../literature.d/LIT-tmpd40td.md). It holds
   for any Nash clustering of any finite symmetric zero-sum game and does
   not depend on the spinning-top hypothesis. The order is weak, since
   clusters can tie, and cardinal, since RPP uses payoff magnitudes.
@@ -34,9 +34,9 @@ summary: >-
 ## Source
 
 Czarnecki, Gidel, Tracey, Tuyls, Omidshafiei, Balduzzi & Jaderberg,
-LIT-tmp42ace, read in NOTE-tmpat2ia from arXiv:2004.09468v2: Definition 3
+[LIT-tmp42ace](../literature.d/LIT-tmp42ace.md), read in [NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md) from arXiv:2004.09468v2: Definition 3
 and Theorems 2–3 (p. 7, proofs pp. 13–14). RPP is Definition 3 of
-Balduzzi et al., LIT-tmpd40td.
+Balduzzi et al., [LIT-tmpd40td](../literature.d/LIT-tmpd40td.md).
 
 ## What was actually shown
 
@@ -71,6 +71,6 @@ zero-sum game.
 
 A cardinal layering of a cyclic record: the cycling stays inside clusters
 and the order runs between them. That parallels the ordinal condensation
-reading in NOTE-tmpxufhw. Theorem 3 is a sufficient condition for escaping
+reading in [NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md). Theorem 3 is a sufficient condition for escaping
 a cycle: beat its whole class, not its latest member. That bears on
-CLAIM-tmpuxcp6's accommodation (NOTE-tmpat2ia).
+[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)'s accommodation ([NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md)).

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpr1f7n) from arXiv v2 (30 October 2018,
+  read in full 2026-10-24 ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)) from arXiv v2 (30 October 2018,
   the authors' "NIPS 2018, final version"); worth reading as the source of
   the Hodge and Schur reading of evaluation data and of Nash averaging. Elo
   is the row mean of the log-odds matrix, exact only when the log-odds have
@@ -64,24 +64,24 @@ Processing Systems 31* (NeurIPS 2018) — arXiv:1806.02643
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpr1f7n. Page numbers are arXiv v2's.*
+*From the reading, [NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md). Page numbers are arXiv v2's.*
 
 - **Elo is a mean.** "Elo is, essentially, a uniform average in logit
   space" (p. 4). Elo ratings reproduce the win probabilities exactly when
   the log-odds matrix has no curl (Proposition 3), and a copy of an agent
-  shifts everyone's rating (appendix A; THEORY-tmp0fsks).
+  shifts everyone's rating (appendix A; [THEORY-tmp0fsks](../theory.d/THEORY-tmp0fsks.md)).
 - **Nash averaging.** Treat the evaluation matrix as a symmetric zero-sum
   meta-game, take its unique maximum-entropy Nash equilibrium, and score
   each agent by its expected log-odds against that team. Uniform when every
   agent's mean is zero, concentrated on the top-rated agents when the matrix
-  is a pure gradient (Theorem 1, P3; THEORY-tmpzogk3).
+  is a pure gradient (Theorem 1, P3; [THEORY-tmpzogk3](../theory.d/THEORY-tmpzogk3.md)).
 - **Invariance holds less widely than stated.** Lemma 1 proves that the
   Nash set of the padded matrix is the set of splits of the original
   one. That fixes the maximum-entropy selection only when the original
   game's equilibrium is unique. With a segment of equilibria, a copied
   agent pulls the selection toward itself. In the reading's example, an
   outside agent's Nash average moves from −0.5 to −0.2 when one agent is
-  copied (NOTE-tmpr1f7n).
+  copied ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)).
 - **Weak continuity, harsh adversary.** The Nash payoff is continuous, but
   the equilibrium itself "can jump discontinuously when A is modified
   slightly" (p. 7). The authors call Nash "a harsh master" that "removes
@@ -94,7 +94,7 @@ Processing Systems 31* (NeurIPS 2018) — arXiv:1806.02643
 
 Filed 2026-10-24 for the record's governance line, as a scoring rule
 designed so that padding the evaluated population cannot buy a ranking. It
-bears on CASE-124's μ route and CASE-tmpw4r7u's share-dependent score c, and
-its Hodge reading bears on TERM-077 and THEORY-894 (NOTE-tmpr1f7n). It
+bears on [CASE-124](../cases.d/CASE-124.md)'s μ route and [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s share-dependent score c, and
+its Hodge reading bears on [TERM-077](../terms.d/TERM-077.md) and [THEORY-894](../theory.d/THEORY-894.md) ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)). It
 carries `anthology-candidate` because it is a method for evaluating ML
 agents. It is filed for understanding, not as an instruction for practice.

@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpke0z1) from arXiv v1, the AAMAS 2017
+  read in full 2026-10-24 ([NOTE-tmpke0z1](../notes.d/NOTE-tmpke0z1.md)) from arXiv v1, the AAMAS 2017
   paper; worth reading as the paper that moved social dilemmas from matrix
   games to learned policies in Markov games. Two two-player games, Gathering
   (apples, and a beam that removes the rival for a while) and Wolfpack
@@ -64,7 +64,7 @@ Leibo, J. Z., Zambaldi, V., Lanctot, M., Marecki, J. & Graepel, T. (2017). Multi
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpke0z1. Page numbers are arXiv v1's.*
+*From the reading, [NOTE-tmpke0z1](../notes.d/NOTE-tmpke0z1.md). Page numbers are arXiv v1's.*
 
 - **Cooperation is a property of policies.** "Cooperativeness is a
   property that applies to policies, not elementary actions" (p. 1). A
@@ -86,10 +86,10 @@ Leibo, J. Z., Zambaldi, V., Lanctot, M., Marecki, J. & Graepel, T. (2017). Multi
 ## Why this is here
 
 Filed on 2026-10-24 as the lead's testbed for protection and the commons
-(CLAIM-tmp28sti). The reading narrows that (NOTE-tmpke0z1): these are
+([CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md)). The reading narrows that ([NOTE-tmpke0z1](../notes.d/NOTE-tmpke0z1.md)): these are
 two-player games with no protective regime and no depletable resource,
 and conditions are fixed during training, so nothing here measures
 whether aggression or protection recedes when scarcity does. The method,
 tracking a social behaviour metric while manipulating the environment,
-could be turned to the claim's test. Filed THEORY-tmpc4gg9. It carries
+could be turned to the claim's test. Filed [THEORY-tmpc4gg9](../theory.d/THEORY-tmpc4gg9.md). It carries
 `anthology-candidate` as an ML method, and no instruction for practice.

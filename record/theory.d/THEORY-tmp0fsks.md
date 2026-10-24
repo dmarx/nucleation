@@ -17,8 +17,8 @@ date: '2026-10-24'
 source:
 - LIT-tmp9zvdz
 summary: >-
-  Balduzzi et al. (2018), LIT-tmp9zvdz, Propositions 1 and 3 and appendix
-  A, read from arXiv v2 in NOTE-tmpr1f7n, proofs followed. Elo is the
+  Balduzzi et al. (2018), [LIT-tmp9zvdz](../literature.d/LIT-tmp9zvdz.md), Propositions 1 and 3 and appendix
+  A, read from arXiv v2 in [NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md), proofs followed. Elo is the
   uniform average of log-odds, and a fixed point matches only row sums.
   It is exact iff log-odds sum to zero around every triangle, so it has
   no predictive power in rock-paper-scissors, and duplicating an agent
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Balduzzi, Tuyls, Pérolat & Graepel, LIT-tmp9zvdz, read in NOTE-tmpr1f7n
+Balduzzi, Tuyls, Pérolat & Graepel, [LIT-tmp9zvdz](../literature.d/LIT-tmp9zvdz.md), read in [NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)
 from arXiv:1806.02643v2: Proposition 1 (p. 3), Proposition 3 (p. 4) and
 appendix A (p. 12), with the proofs on p. 13.
 
@@ -45,7 +45,7 @@ appendix A (p. 12), with the proofs on p. 13.
   logit P is r. An Elo rating generating P exists if and only if
   log(p_ij/p_ji) + log(p_jk/p_kj) + log(p_ki/p_ik) = 0 for all i, j, k. On
   the complete graph that is the Hodge statement that a curl-free flow is
-  a gradient (THEORY-894).
+  a gradient ([THEORY-894](THEORY-894.md)).
 - **Copies** (appendix A). Rock-paper-scissors at win rate 0.9 gives
   every agent rating 0. Copying C moves A and B apart. The paper prints
   ±63; the batch fixed point at the stated α, recomputed by the reader, is
@@ -58,8 +58,8 @@ The reader re-derived both propositions; each is a line of algebra.
 
 - **That Elo fails when wins cycle and succeeds when they do not.** The
   condition is on log-odds, cardinal. A record whose wins are acyclic can
-  have curl and be misfit by Elo; the condition is not TERM-077's ordinal
-  one, and CLAIM-434 holds the reason they come apart.
+  have curl and be misfit by Elo; the condition is not [TERM-077](../terms.d/TERM-077.md)'s ordinal
+  one, and [CLAIM-434](../claims.d/CLAIM-434.md) holds the reason they come apart.
 - **That a curl-free fit means the agents differ in one skill.** It means
   the log-odds are additive; nothing about mechanism.
 - **That only copies distort Elo.** Any change to the evaluated population
@@ -67,9 +67,9 @@ The reader re-derived both propositions; each is a line of algebra.
 
 ## Connections
 
-Bears on CLAIM-tmpuxcp6 only negatively: in a fully cyclic record every
+Bears on [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) only negatively: in a fully cyclic record every
 option gets the same Elo, so a scalar mean cannot tell cyclic tension from
 indifference. The copy effect is the simplest form of a scoring layer that
 can be moved without changing what is scored. That is the kind of route
-that CASE-124's μ arrow and CASE-tmpw4r7u's share-dependent scoring
+that [CASE-124](../cases.d/CASE-124.md)'s μ arrow and [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s share-dependent scoring
 formalize.

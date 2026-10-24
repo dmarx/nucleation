@@ -107,7 +107,7 @@ harvested), an institution, or any change of conditions during training.
 
 ## How it bears on the record
 
-- **CLAIM-tmp28sti.** The lead offered SSDs as testbeds for protection and
+- **[CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).** The lead offered SSDs as testbeds for protection and
   the commons. The reading narrows that. There is no protective regime
   here, no authority, no evidence that a regime could shape, and no
   commons that can be depleted, so nothing in the paper bears on the
@@ -121,14 +121,14 @@ harvested), an institution, or any change of conditions during training.
   and see whether aggression recedes. The authors' method of tracking a
   social behaviour metric under manipulated conditions is the right shape
   for that experiment.
-- **CLAIM-tmp8z857.** The same missing experiment is the individual
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** The same missing experiment is the individual
   version: whether a learned defensive policy unlearns when the threat
   that trained it is gone. The ε-greedy exploration floor of 0.1 means
   these agents would keep sampling the alternative, which is the condition
   the claim says avoidance removes.
-- **CLAIM-277.** Not addressed: the two agents have no authority over each
+- **[CLAIM-277](../claims.d/CLAIM-277.md).** Not addressed: the two agents have no authority over each
   other. The finding that what is harder to implement is learned less
   often is a cost-of-implementation effect on which policies persist,
   which the record's entrenchment claims do not distinguish from
   competence.
-- **CLAIM-423.** Irrelevant: two agents, one timescale.
+- **[CLAIM-423](../claims.d/CLAIM-423.md).** Irrelevant: two agents, one timescale.

@@ -128,28 +128,28 @@ Gaussian Squeeze, identical armies in the battle.
 
 ## How it bears on the record
 
-- **CLAIM-423.** The lead offered mean-field MARL as the tool for
+- **[CLAIM-423](../claims.d/CLAIM-423.md).** The lead offered mean-field MARL as the tool for
   institutional scale. The reading narrows that. The method scales by
   making each agent face the average of its neighbours, so it requires
   agents that are interchangeable within a neighbourhood. Identity, role
   and position drop out of each agent's view, and only the distribution
-  of actions remains. CLAIM-423 is about components that are not
+  of actions remains. [CLAIM-423](../claims.d/CLAIM-423.md) is about components that are not
   interchangeable: attention, coalitions, elected terms, careers, treaties,
   each with its own temporal horizon, and which holds authority over
   which. A mean-field model of one homogeneous class (voters, a public's
   attention) is possible. The coupling between classes running at
-  different speeds, which is what the claim adds to CLAIM-331, is not in
+  different speeds, which is what the claim adds to [CLAIM-331](../claims.d/CLAIM-331.md), is not in
   this paper, which has one timescale and one population per side. As a
   formal tool it would take a multi-population, multi-timescale extension
   the paper does not supply. It bears on the claim's setting, not on its
   thesis.
-- **CLAIM-327.** The mean action ā is a slow collective variable that
+- **[CLAIM-327](../claims.d/CLAIM-327.md).** The mean action ā is a slow collective variable that
   every agent reads and every agent's policy regenerates, which is the
-  shape of CLAIM-327's thesis, here in a working learning algorithm. It
+  shape of [CLAIM-327](../claims.d/CLAIM-327.md)'s thesis, here in a working learning algorithm. It
   converges only under the contraction condition, a high enough
   temperature: a population whose members respond too sharply to the
   collective variable need not settle.
-- **THEORY-tmp3oyxw and CLAIM-tmp1xoac.** Soma et al.'s population vector
+- **[THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md) and [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** Soma et al.'s population vector
   is a policy; here the population's action distribution is what each
   agent learns against. The two are the macro and the micro view of a
   large population of learners, and neither represents authority as

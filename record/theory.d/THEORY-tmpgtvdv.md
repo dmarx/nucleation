@@ -21,7 +21,7 @@ date: '2026-10-24'
 source:
 - LIT-tmpjhci7
 summary: >-
-  Jacobs, Jordan, Nowlan and Hinton (1991), read in full in NOTE-tmpau8o0
+  Jacobs, Jordan, Nowlan and Hinton (1991), read in full in [NOTE-tmpau8o0](../notes.d/NOTE-tmpau8o0.md)
   from a scan of the published article. The gradients of Eqs. 1.4 and 1.5
   were re-derived when filed. The task is small (two formants, 75
   speakers, 25 runs per system) and has two natural subtasks; the idle
@@ -34,8 +34,8 @@ summary: >-
 
 ## Source
 
-Jacobs, Jordan, Nowlan & Hinton (1991), LIT-tmpjhci7, read in
-NOTE-tmpau8o0: Eqs. 1.2–1.5 (pp. 80–82), Table 1 and Figures 2–3
+Jacobs, Jordan, Nowlan & Hinton (1991), [LIT-tmpjhci7](../literature.d/LIT-tmpjhci7.md), read in
+[NOTE-tmpau8o0](../notes.d/NOTE-tmpau8o0.md): Eqs. 1.2–1.5 (pp. 80–82), Table 1 and Figures 2–3
 (pp. 84–87).
 
 ## What was actually shown
@@ -59,5 +59,5 @@ That the concentration on a few experts is entrenchment rather than
 economy: the task needs two or three lines, and the split follows
 differences in error, not a head start. That an idle expert could regain
 responsibility if the task changed; this was not tested. Or anything
-about large mixtures, where Shazeer et al. (LIT-tmp95a3g) report the
+about large mixtures, where Shazeer et al. ([LIT-tmp95a3g](../literature.d/LIT-tmp95a3g.md)) report the
 imbalance as a failure.

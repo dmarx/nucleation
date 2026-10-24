@@ -176,39 +176,39 @@ show that the ranking survives it. Selection is moved into the choice of α, not
 
 ## How it bears on the record
 
-- **TERM-077, THEORY-896 and CLAIM-tmpuxcp6: what order there is when wins
+- **[TERM-077](../terms.d/TERM-077.md), [THEORY-896](../theory.d/THEORY-896.md) and [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md): what order there is when wins
   cycle.** The paper's sentence on Conley has an exact discrete form that
   the record can use. Collapse each strongly connected component of the
   record's win digraph to a point. The quotient, the condensation, is
-  acyclic, so it has an ordinal potential in TERM-077's sense. The MCCs are
+  acyclic, so it has an ordinal potential in [TERM-077](../terms.d/TERM-077.md)'s sense. The MCCs are
   its sinks. So a cyclic record always has a potential at one level up,
   with nonintegrability confined inside the components. This is standard
   graph theory and is not proved in the paper, which proves the
-  continuous analogue by citation. Two consequences for CLAIM-tmpuxcp6.
+  continuous analogue by citation. Two consequences for [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md).
   First, the claim's degree of nonintegrability, the minimum feedback-arc
   fraction, and the component structure are different facts: one large
   component can need very few reversals. Second, α-Rank sees only the
   sink component; a cycle among strategies that something else beats is
-  transient and gets no mass. With THEORY-896's finite improvement
+  transient and gets no mass. With [THEORY-896](../theory.d/THEORY-896.md)'s finite improvement
   property and no payoff ties every sink is a singleton, a pure
   equilibrium. Games whose sinks are all singletons are the paper's
   "weakly acyclic games", where it says its concept agrees with Young's
-  conventions. **Supports TERM-077's ordinal reading, and refines
-  CLAIM-tmpuxcp6: the claim should say at which level, components or the
+  conventions. **Supports [TERM-077](../terms.d/TERM-077.md)'s ordinal reading, and refines
+  [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md): the claim should say at which level, components or the
   quotient between them, its cycles lie.**
-- **CASE-tmpw4r7u and CLAIM-tmp1xoac.** α-Rank's chain is the
+- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** α-Rank's chain is the
   finite-population, rare-mutation imitation dynamic. Its stationary
   distribution is the "how hard each regime is to leave" measure that
-  CLAIM-tmp1xoac lists among the replicator tools. But its fitness is
-  local, so it cannot represent CASE-tmpw4r7u's share-dependent scoring.
+  [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md) lists among the replicator tools. But its fitness is
+  local, so it cannot represent [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s share-dependent scoring.
   The lock-in of that case's part 4 needs fitness that depends on π.
   **Narrows: a ready tool for the claim's stochastic-stability item, not
   for the lock-in item.**
-- **CASE-124: capture by padding.** α-Rank does not resist it. Duplicating
+- **[CASE-124](../cases.d/CASE-124.md): capture by padding.** α-Rank does not resist it. Duplicating
   a strategy promotes whatever beats it. As a scoring layer it can be
   captured the way Elo can, unlike Nash averaging and population value.
   **Complicates any reading of α-Rank as a neutral ranking.**
-- **CLAIM-tmp8z857 and CLAIM-tmp28sti.** An MCC is a set of regimes that
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) and [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).** An MCC is a set of regimes that
   no single improving deviation leaves. That is a formal sense of a
   self-maintaining regime, in which the regime is a sink and not
   necessarily an optimum. In the biased game, a sink includes strategies

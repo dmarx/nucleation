@@ -21,8 +21,8 @@ date: '2026-10-24'
 source:
 - LIT-tmp8bczu
 summary: >-
-  Wolpert & Tumer's NASA report (LIT-tmp8bczu), read in full in NOTE-
-  tmpo0w02 because their Advances in Complex Systems paper (LIT-tmpkensg)
+  Wolpert & Tumer's NASA report ([LIT-tmp8bczu](../literature.d/LIT-tmp8bczu.md)), read in full in NOTE-
+  tmpo0w02 because their Advances in Complex Systems paper ([LIT-tmpkensg](../literature.d/LIT-tmpkensg.md))
   could not be reached. The characterisation is stated with its proof
   deferred; the "if" half and the WLU's factoredness were checked when
   filed. Factoredness is ordinal, member by member, and needs no scale
@@ -36,7 +36,7 @@ summary: >-
 
 ## Source
 
-Wolpert & Tumer, LIT-tmp8bczu, read in NOTE-tmpo0w02 from the NASA
+Wolpert & Tumer, [LIT-tmp8bczu](../literature.d/LIT-tmp8bczu.md), read in [NOTE-tmpo0w02](../notes.d/NOTE-tmpo0w02.md) from the NASA
 Technical Reports Server copy (document 20010066523): the definition of
 factored, the Theorem and Eq. 1, and the WLU (p. 3); the clamp derivation
 (p. 4); the bar-problem results and Figure 1 (pp. 5–6).

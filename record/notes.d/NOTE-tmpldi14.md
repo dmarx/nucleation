@@ -137,9 +137,9 @@ agent a computes all of a's counterfactuals "in a single forward pass"
 ## Connections
 
 Builds on difference rewards (Wolpert & Tumer; Tumer & Agogino 2007;
-LIT-tmpkensg, LIT-tmp8bczu) and on the policy-gradient theorem (Sutton et
+[LIT-tmpkensg](../literature.d/LIT-tmpkensg.md), [LIT-tmp8bczu](../literature.d/LIT-tmp8bczu.md)) and on the policy-gradient theorem (Sutton et
 al. 1999). Concurrent with MADDPG (Lowe et al. 2017), which uses one
-centralised critic per agent and no credit assignment. QMIX (LIT-tmp3ztxf)
+centralised critic per agent and no credit assignment. QMIX ([LIT-tmp3ztxf](../literature.d/LIT-tmp3ztxf.md))
 is the same group's value-based alternative and positions COMA as the
 fully centralised, on-policy extreme. The v3 erratum points to Lyu et al.
 (2021–2024) on centralised critics.
@@ -153,7 +153,7 @@ fully centralised, on-policy extreme. The v3 erratum points to Lyu et al.
   default c^a, which COMA was designed to avoid. And every agent acts on
   every step: COMA credits processes that all act, under a shared reward,
   not processes some of which are never heeded.
-- **CLAIM-tmp8z857 (avoidance destroys identifiability).** Irrelevant to
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) (avoidance destroys identifiability).** Irrelevant to
   the step, or rather a restatement of it. The counterfactual values are
   the critic's, learned from occasions on which each alternative was
   taken, and the ε/|U| floor exists to guarantee such occasions. An agent
@@ -165,21 +165,21 @@ fully centralised, on-policy extreme. The v3 erratum points to Lyu et al.
   the two problems: noise from others' variation (which a counterfactual
   baseline removes, holding them fixed) and absence of evidence about an
   untried alternative (which it does not touch).
-- **QUESTION-tmpdicvf, failure 4 (bandit feedback).** The question lists
+- **[QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md), failure 4 (bandit feedback).** The question lists
   "counterfactual credit and difference rewards" as a candidate procedure
   for crediting unheeded processes. The reading narrows it. COMA's
   procedure has a guarantee (an unbiased gradient) whose price is an
   exploration floor and a critic that generalises; the floor is the
   protected-access mechanism the same list names for mixtures of experts.
   Without it the counterfactual is an extrapolation of the critic.
-- **QUESTION-tmponjie (an accurate evaluation denied authority).** A loose
+- **[QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md) (an accurate evaluation denied authority).** A loose
   but exact analogue. In COMA an agent's advantage can be positive, its
   action better than its usual, without changing what the others do: the
   baseline holds them fixed. Credit is computed per agent and changes only
   that agent's policy. An organization that computed such credit for an
   unheeded process and did not route it to that process's authority would
   be the question's case, measured. The paper does not consider routing.
-- **CASE-tmpw4r7u and THEORY-tmp3oyxw (authority as a replicator).** A
+- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md) (authority as a replicator).** A
   precise link, mine. In the replicator reading the excess score of
   process a is q_a − v, its expected score less the policy-weighted mean.
   COMA's advantage is the same quantity for one agent with the others
@@ -187,7 +187,7 @@ fully centralised, on-policy extreme. The v3 erratum points to Lyu et al.
   credit is the replicator's fitness-minus-mean evaluated per member, and
   its single-sample estimate needs the critic to supply the mean that a
   bandit learner cannot observe.
-- **CLAIM-tmp0qupq and CLAIM-277 (endorsement that tracks competence).** A
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) and [CLAIM-277](../claims.d/CLAIM-277.md) (endorsement that tracks competence).** A
   candidate for "tracks". A competence signal with the others' variation
   removed is the counterfactual advantage; a team-shared reward is the
   signal without it. The paper shows the second learns worse.

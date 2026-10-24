@@ -19,8 +19,8 @@ date: '2026-10-24'
 source:
 - LIT-tmpxlow9
 summary: >-
-  Sato & Crutchfield (arXiv 2002; PRE 2003), LIT-tmpxlow9, read in full from
-  arXiv v2 in NOTE-tmp8ra24, Eqs. 1–13. The entropy-like term is what memory
+  Sato & Crutchfield (arXiv 2002; PRE 2003), [LIT-tmpxlow9](../literature.d/LIT-tmpxlow9.md), read in full from
+  arXiv v2 in [NOTE-tmp8ra24](../notes.d/NOTE-tmp8ra24.md), Eqs. 1–13. The entropy-like term is what memory
   decay becomes under softmax choice; re-derived in the reading. The model
   updates every action's memory at the same rate, so it is the
   full-information case, not Q-learning as usually run.
@@ -33,7 +33,7 @@ summary: >-
 
 Yuzuru Sato and James P. Crutchfield, "Coupled replicator equations for the
 dynamics of learning in multiagent systems", *Physical Review E* 67:015206
-(2003), LIT-tmpxlow9, read in full in NOTE-tmp8ra24 from arXiv:nlin/0204057v2,
+(2003), [LIT-tmpxlow9](../literature.d/LIT-tmpxlow9.md), read in full in [NOTE-tmp8ra24](../notes.d/NOTE-tmp8ra24.md) from arXiv:nlin/0204057v2,
 Eqs. 1–13 (pp. 1–2).
 
 ## What was actually shown
@@ -56,7 +56,7 @@ Eqs. 1–13 (pp. 1–2).
 - **That this is Q-learning.** No states, no bootstrapping, and every
   action's memory updated each step whether chosen or not. Kaisers and
   Tuyls show that the same equation describes Q-learning only after a
-  frequency adjustment (THEORY-tmpar5jw).
+  frequency adjustment ([THEORY-tmpar5jw](THEORY-tmpar5jw.md)).
 - **What the rest points are.** It does not say so, but with α > 0 the
   interior rest points of Eq. 8 satisfy β(Ay)_i − α log x_i = const, that
   is, x is a softmax best response to y at temperature α/β: logit
@@ -66,12 +66,12 @@ Eqs. 1–13 (pp. 1–2).
 
 ## Connections
 
-- **THEORY-tmphhvqf.** The contrast that matters. Cross learning has no
+- **[THEORY-tmphhvqf](THEORY-tmphhvqf.md).** The contrast that matters. Cross learning has no
   forgetting term and is absorbed in a vertex. Here forgetting is a force
   towards uniform play, and the boundary is repelling.
-- **CLAIM-tmp0qupq.** The schematic rule's forgetting term −λE has this
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The schematic rule's forgetting term −λE has this
   reading under softmax selection: decay of a learned bias is pressure
   towards equal authority, and its rate sets how hard the system
   re-explores.
-- **CLAIM-tmp1xoac.** The coupled, two-population case of the replicator
+- **[CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** The coupled, two-population case of the replicator
   reading, derived for learners.

@@ -19,7 +19,7 @@ source:
 - LIT-tmpqx5wu
 summary: >-
   Foerster et al.'s counterfactual baseline (COMA, Eq. 4 and Appendix A of
-  arXiv v3), read in full in NOTE-tmpldi14, with the zero-expectation step
+  arXiv v3), read in full in [NOTE-tmpldi14](../notes.d/NOTE-tmpldi14.md), with the zero-expectation step
   re-derived. A proved property of the estimator, not of performance. Its
   counterfactual is "had the agent acted as it usually does", not "had it
   not acted", and its values are a learned critic's, trained on occasions
@@ -31,8 +31,8 @@ summary: >-
 
 ## Source
 
-Foerster, Farquhar, Afouras, Nardelli & Whiteson, LIT-tmpqx5wu, read in
-NOTE-tmpldi14 from arXiv:1705.08926v3: Eq. 4 (p. 4), Lemma 1 and its proof
+Foerster, Farquhar, Afouras, Nardelli & Whiteson, [LIT-tmpqx5wu](../literature.d/LIT-tmpqx5wu.md), read in
+[NOTE-tmpldi14](../notes.d/NOTE-tmpldi14.md) from arXiv:1705.08926v3: Eq. 4 (p. 4), Lemma 1 and its proof
 (Appendix A), and the errata.
 
 ## What was actually shown

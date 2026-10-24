@@ -21,8 +21,8 @@ date: '2026-10-24'
 source:
 - LIT-tmpkx8qe
 summary: >-
-  Omidshafiei et al. (2019), LIT-tmpkx8qe, Theorems 2.1.2, 2.4.24 and 2.5.1,
-  read from arXiv v4 in NOTE-tmpxufhw, proofs followed. Irreducibility is
+  Omidshafiei et al. (2019), [LIT-tmpkx8qe](../literature.d/LIT-tmpkx8qe.md), Theorems 2.1.2, 2.4.24 and 2.5.1,
+  read from arXiv v4 in [NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md), proofs followed. Irreducibility is
   immediate, and the α → ∞ limit is of transition matrices. The link to
   the replicator flow rests on a volume-preservation step that is asserted,
   not carried out. Not shown: what the stationary distribution tends to,
@@ -37,7 +37,7 @@ summary: >-
 ## Source
 
 Omidshafiei, Papadimitriou, Piliouras, Tuyls, Rowland, Lespiau, Czarnecki,
-Lanctot, Pérolat & Munos, LIT-tmpkx8qe, read in NOTE-tmpxufhw from
+Lanctot, Pérolat & Munos, [LIT-tmpkx8qe](../literature.d/LIT-tmpkx8qe.md), read in [NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md) from
 arXiv:1903.01373v4: eqs. 2–10 (pp. 6–7), Theorem 2.1.2 (p. 8, proof
 pp. 42–43), Definition 2.4.23 and Theorem 2.4.24 (p. 14, proof p. 44),
 Theorem 2.5.1 (p. 15, proof p. 45).
@@ -74,7 +74,7 @@ could have avoided the pure profiles altogether.
   converse is proved.
 - **That the ranking resists padding.** In the symmetric
   single-population model, duplicating scissors in rock-paper-scissors
-  moves rock to first place at every α tried (NOTE-tmpxufhw).
+  moves rock to first place at every α tried ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md)).
 - **That its masses are evolutionary strength in a population-dependent
   sense.** The single-population fitness is local: payoff against the one
   opponent met, regardless of the population's composition.
@@ -83,6 +83,6 @@ could have avoided the pure profiles altogether.
 
 The discrete form of its Conley reading is the condensation of a win
 digraph, acyclic and so always carrying an ordinal potential, with MCCs as
-its sinks. That bears on how TERM-077 and CLAIM-tmpuxcp6 treat cyclic
-records. In a game with THEORY-896's finite improvement property and no payoff
-ties, every MCC is a single profile, a pure equilibrium (NOTE-tmpxufhw).
+its sinks. That bears on how [TERM-077](../terms.d/TERM-077.md) and [CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) treat cyclic
+records. In a game with [THEORY-896](THEORY-896.md)'s finite improvement property and no payoff
+ties, every MCC is a single profile, a pure equilibrium ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md)).

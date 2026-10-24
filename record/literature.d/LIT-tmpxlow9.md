@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp8ra24) from arXiv:nlin/0204057v2 (18 August
+  read in full 2026-10-24 ([NOTE-tmp8ra24](../notes.d/NOTE-tmp8ra24.md)) from arXiv:nlin/0204057v2 (18 August
   2002); worth reading as a four-page derivation of the learning dynamics
   of softmax reinforcement learners with forgetting: two such agents follow
   coupled replicator equations plus a term α_X Σ_j x_j log(x_j/x_i), set by
@@ -70,7 +70,7 @@ dynamics of learning in multiagent systems. *Physical Review E* 67:
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp8ra24. Page numbers are arXiv v2's.*
+*From the reading, [NOTE-tmp8ra24](../notes.d/NOTE-tmp8ra24.md). Page numbers are arXiv v2's.*
 
 - **Learning gives a game dynamics.** Two agents with no model of each
   other, each choosing by softmax over decaying reward memories, follow
@@ -82,25 +82,25 @@ dynamics of learning in multiagent systems. *Physical Review E* 67:
   uniform play. With α = 0 the system is the conservative multipopulation
   replicator equation, Hamiltonian in zero-sum games, and the time average
   of an interior orbit is the Nash equilibrium. With α > 0 phase volume
-  contracts at rate (N − 1)(α_X + α_Y) (THEORY-tmp3wkwk).
+  contracts at rate (N − 1)(α_X + α_Y) ([THEORY-tmp3wkwk](../theory.d/THEORY-tmp3wkwk.md)).
 - **Chaos in a three-action game.** Rock–scissors–paper with tie reward
   ε: tori and Hamiltonian chaos when the game is zero-sum, transients to
   heteroclinic cycles when it is not, and with decay limit cycles and
   chaotic attractors, the largest Lyapunov exponent positive over a large
-  part of the ε_Y range (THEORY-tmpev90a).
+  part of the ε_Y range ([THEORY-tmpev90a](../theory.d/THEORY-tmpev90a.md)).
 - **Not Watkins's Q-learning.** Every action's memory is updated each step
   with its average reward. That is the full-information case the
   selection–mutation model of Q-learning assumes, not the case in which only
-  the chosen action is updated (NOTE-tmp43vkx).
+  the chosen action is updated ([NOTE-tmp43vkx](../notes.d/NOTE-tmp43vkx.md)).
 
 ## Why this is here
 
 Filed 2026-10-24 when the owner asked how the record stands on multi-agent
 reinforcement learning. It is the learning-side derivation of the coupled
-dynamics the record's replicator reading of authority uses (CLAIM-tmp1xoac),
+dynamics the record's replicator reading of authority uses ([CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)),
 it shows that forgetting enters those dynamics as a force towards equal
 shares, and it is a demonstrated case of cycles and chaos produced by
-self-interested learners with no switching of regime (CLAIM-tmpuxcp6). It
+self-interested learners with no switching of regime ([CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md)). It
 carries `anthology-candidate` because it is offered as a framework for
 analysing multi-agent learning systems. It carries no instruction for ML
 practice.

@@ -19,8 +19,8 @@ date: '2026-10-24'
 source:
 - LIT-tmp6d9wu
 summary: >-
-  Börgers & Sarin (JET 1997; working paper 1993), LIT-tmp6d9wu, read in
-  full from the 1995 working paper in NOTE-tmpcqwez. Two players running
+  Börgers & Sarin (JET 1997; working paper 1993), [LIT-tmp6d9wu](../literature.d/LIT-tmp6d9wu.md), read in
+  full from the 1995 working paper in [NOTE-tmpcqwez](../notes.d/NOTE-tmpcqwez.md). Two players running
   Cross's rule with payoffs in (0, 1): expected change equals the discrete
   replicator step (Proposition 3); the slow-learning limit is the Taylor
   replicator dynamic at each finite time (Proposition 4); for every step
@@ -35,7 +35,7 @@ summary: >-
 
 Tilman Börgers and Rajiv Sarin, "Learning through reinforcement and
 replicator dynamics", *Journal of Economic Theory* 77(1):1–14 (1997),
-LIT-tmp6d9wu, read in full in NOTE-tmpcqwez from the working paper of
+[LIT-tmp6d9wu](../literature.d/LIT-tmp6d9wu.md), read in full in [NOTE-tmpcqwez](../notes.d/NOTE-tmpcqwez.md) from the working paper of
 October 1995 (Propositions 3–5, pp. 11–17). The journal version was not
 read.
 
@@ -65,7 +65,7 @@ for any step size.
 
 - **That learning in general is replicator dynamics.** One rule, with
   payoffs read as reinforcement strengths in (0, 1). With negative payoffs
-  the limit changes (THEORY-tmpbq2nj).
+  the limit changes ([THEORY-tmpbq2nj](THEORY-tmpbq2nj.md)).
 - **That the long-run behaviour of the replicator dynamic predicts a
   learner's.** The theorem says the reverse.
 - **That absorption is fast.** No rate is given. At small θ the process
@@ -75,16 +75,16 @@ for any step size.
 
 ## Connections
 
-- **THEORY-tmp3oyxw.** Soma et al.'s Proposition 1 rests on this. The
+- **[THEORY-tmp3oyxw](THEORY-tmp3oyxw.md).** Soma et al.'s Proposition 1 rests on this. The
   macro-agent identity is of expected motion, and inherits this theorem's
   limit at infinity.
-- **CASE-tmpw4r7u and CLAIM-tmp1xoac.** The replicator reading of authority
+- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md).** The replicator reading of authority
   holds for finite horizons. Rest points, cycles and thresholds read off the
   mean dynamic say what a realized organization does on the way, not where
   a single learner ends.
-- **CLAIM-tmp0qupq and CLAIM-tmp8z857.** Absorption with no feedback from
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md) and [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md).** Absorption with no feedback from
   evidence or authority: reinforcement of what was chosen, with no return
   path, suffices for lock-in. It narrows the claims' mechanism and supports
   their worry.
-- **THEORY-tmp9g2s5.** The single-learner counterpart of loss of types in a
+- **[THEORY-tmp9g2s5](THEORY-tmp9g2s5.md).** The single-learner counterpart of loss of types in a
   finite imitating population.

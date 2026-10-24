@@ -118,16 +118,16 @@ surrogate with the same argmax, not a model of the joint value.
 
 ## Connections
 
-Builds on VDN and QMIX (LIT-tmp3ztxf, NOTE-tmpoitn8) and positions itself
+Builds on VDN and QMIX ([LIT-tmp3ztxf](../literature.d/LIT-tmp3ztxf.md), [NOTE-tmpoitn8](NOTE-tmpoitn8.md)) and positions itself
 against coordination graphs (Guestrin et al.). COMA's counterfactual
-(LIT-tmpqx5wu) reappears in QTRAN-alt's "counterfactual joint network",
+([LIT-tmpqx5wu](../literature.d/LIT-tmpqx5wu.md)) reappears in QTRAN-alt's "counterfactual joint network",
 which computes Q_jt(τ, ·, u^−i) for each agent with the others' actions
 fixed (p. 5).
 
 ## Bearing on the record
 
 - **The lead's description, IGM as "a precise condition for a collective
-  common currency" (CLAIM-436, CLAIM-440), needs correcting.** IGM is
+  common currency" ([CLAIM-436](../claims.d/CLAIM-436.md), [CLAIM-440](../claims.d/CLAIM-440.md)), needs correcting.** IGM is
   stated for a real-valued Q_jt, so the currency is given. And with full
   observability the condition is nearly empty: any joint value with a
   unique optimum u* is factorised by Q_i(u_i) = 1 if u_i = u*_i, else 0
@@ -135,7 +135,7 @@ fixed (p. 5).
   (supplement D). What IGM constrains is whether members acting on local
   histories can each pick their part of the collective optimum; it lives
   in the gap between τ_i and τ.
-- **CLAIM-436 (ordering versus currency).** A complement, mine. IGM is
+- **[CLAIM-436](../claims.d/CLAIM-436.md) (ordering versus currency).** A complement, mine. IGM is
   weaker than an ordering, let alone a currency: it concerns only the top
   element. A collective can satisfy IGM with members whose rankings of
   their own actions disagree with the collective's below the top. In the
@@ -143,21 +143,21 @@ fixed (p. 5).
   −2.25), yet against a partner playing B or C the joint value of agent 1
   playing A is −12 and of B or C is 0 (Table 1). Monotonic mixing requires agreement on the whole
   ranking; IGM requires it at the optimum alone. That is a third rung
-  below CLAIM-436's two, worth having: agreement on what to do, without
+  below [CLAIM-436](../claims.d/CLAIM-436.md)'s two, worth having: agreement on what to do, without
   agreement on how the rest compares.
-- **CLAIM-403 and CLAIM-tmpd6q2w (access and legibility).** The nearest
+- **[CLAIM-403](../claims.d/CLAIM-403.md) and [CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) (access and legibility).** The nearest
   record analogue. Under partial observability IGM can fail because a
   member's local view does not distinguish situations in which its part
   of the optimum differs. QTRAN's V_jt absorbs what the members cannot
   see. A legibility regime that withholds the distinguishing evidence from
   a process makes the organization's optimum unreachable by local action
   even when every process is willing.
-- **QUESTION-tmponjie.** Not addressed: every agent's value is used.
+- **[QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md).** Not addressed: every agent's value is used.
 - **The penalised predator-prey result** is a model of the record's
   protective lock-in in miniature, mine. Where a lone attempt is punished,
   value-factorising learners that cannot represent the interaction learn
   to avoid the prey altogether, and the payoff that coordination would
-  reveal is never sampled. Compare CLAIM-tmp8z857's avoidance. The paper
+  reveal is never sampled. Compare [CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md)'s avoidance. The paper
   attributes it to representational limits, not to evidence.
 - No instruction for machine-learning practice is drawn here.
 

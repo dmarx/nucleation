@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp7qq6n) from the published article as
+  read in full 2026-10-24 ([NOTE-tmp7qq6n](../notes.d/NOTE-tmp7qq6n.md)) from the published article as
   posted on Sergiu Hart's homepage; worth reading as the theorem that
   correlated equilibrium is reachable by simple adaptive play: if every
   player switches from its last action to each alternative with
@@ -74,7 +74,7 @@ doi:10.1111/1468-0262.00153.
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp7qq6n. Page numbers are the journal's.*
+*From the reading, [NOTE-tmp7qq6n](../notes.d/NOTE-tmp7qq6n.md). Page numbers are the journal's.*
 
 - **Regret matching.** A player's regret R_t(j, k) is the positive part of
   how much better its average payoff would have been had it played k every
@@ -82,7 +82,7 @@ doi:10.1111/1468-0262.00153.
   with probability R_t(j, k)/μ, and otherwise repeats j (Eq. 2.2, p. 1130).
 - **The theorem.** If every player does this, the empirical distribution
   of play converges almost surely to the set of correlated equilibria
-  (Main Theorem, p. 1131; THEORY-tmpri5hl).
+  (Main Theorem, p. 1131; [THEORY-tmpri5hl](../theory.d/THEORY-tmpri5hl.md)).
 - **Regret and correlated equilibrium are the same condition.** All
   conditional regrets tend to zero exactly when the empirical distribution
   approaches the correlated-equilibrium set (Proposition, pp. 1133–1134).
@@ -97,10 +97,10 @@ doi:10.1111/1468-0262.00153.
 ## Why this is here
 
 Filed 2026-10-24 when the owner asked how the record stands on multi-agent
-reinforcement learning. THEORY-414 reads institutions as correlated
+reinforcement learning. [THEORY-414](../theory.d/THEORY-414.md) reads institutions as correlated
 equilibria that the players represent as rules. This paper shows how a
 correlated equilibrium can be reached with no device and no representation
-at all, which bears on which half of THEORY-414 does the work. It carries
+at all, which bears on which half of [THEORY-414](../theory.d/THEORY-414.md) does the work. It carries
 `anthology-candidate` because regret matching underlies counterfactual
 regret minimization in game-playing AI. It carries no instruction for ML
 practice.

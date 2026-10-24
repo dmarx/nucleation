@@ -38,7 +38,7 @@ of win probabilities p_ij, turned into the antisymmetric log-odds matrix
 A_ij = log(p_ij / p_ji). Agent-vs-task (AvT): a score matrix S, agents by
 tasks, embedded in an antisymmetric (m + n)-square matrix. On the complete
 graph, the paper takes the Hodge decomposition from Jiang et al. (the
-record's LIT-1439): every antisymmetric matrix is grad(div A) plus a
+record's [LIT-1439](../literature.d/LIT-1439.md)): every antisymmetric matrix is grad(div A) plus a
 rotational part, orthogonally under the Frobenius inner product (p. 4).
 div A is the row mean.
 
@@ -134,45 +134,45 @@ beats the current leader changes the equilibrium entirely, by design.
 
 **Cardinal.** Everything is in log-odds. The transitive part is the row
 mean, a cardinal average, and the Hodge cyclic part can be nonzero on a
-record whose wins are acyclic. That is CLAIM-434's point, and THEORY-894's
+record whose wins are acyclic. That is [CLAIM-434](../claims.d/CLAIM-434.md)'s point, and [THEORY-894](../theory.d/THEORY-894.md)'s
 caveat applies here unchanged.
 
 ## How it bears on the record
 
-- **CASE-124 and CASE-tmpw4r7u: capture of the scoring layer.** Uniform
+- **[CASE-124](../cases.d/CASE-124.md) and [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md): capture of the scoring layer.** Uniform
   averaging over the current population, Elo included, is exactly a score
   that a party can move by changing who gets evaluated, without changing
   anything about itself. Nash averaging removes one such route: scoring
   against a maximum-entropy equilibrium team instead of the population
   present makes the score blind to duplicates, when the equilibrium is
-  unique. That narrows CASE-124's μ route, a regime that "changes the
+  unique. That narrows [CASE-124](../cases.d/CASE-124.md)'s μ route, a regime that "changes the
   scoring itself". The route through redundancy can be shut by
   construction. Other routes stay open, and Nash averaging does not
   address them: adding agents that are not copies; near-copies; the
   choice of tasks, since in AvT the scores depend on which tasks the data
   contain ("garbage in, garbage out"). And with ties, copying still moves
-  the result. It is also distinct from CASE-tmpw4r7u's c. There a process's
+  the result. It is also distinct from [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s c. There a process's
   score rises with its own share of authority. Here the score depends on
   who is in the evaluated set, not on how much authority each holds. A
   Nash-averaged score is share-independent only if the underlying
   head-to-head matrix is. **Narrows.**
-- **TERM-077 and THEORY-894.** The paper's "transitive" is the Hodge
+- **[TERM-077](../terms.d/TERM-077.md) and [THEORY-894](../theory.d/THEORY-894.md).** The paper's "transitive" is the Hodge
   gradient, cardinal. Its condition for Elo, zero curl, is the cardinal
-  counterpart of TERM-077's condition for a potential, wins that never
+  counterpart of [TERM-077](../terms.d/TERM-077.md)'s condition for a potential, wins that never
   cycle.
   The two can disagree, and the record already holds the reason
-  (CLAIM-434). The paper gives the record nothing ordinal.
-  **Irrelevant to the ordinal claim; consistent with THEORY-894.**
-- **CLAIM-tmpuxcp6.** In a cyclic record, any scalar mean in the Elo
+  ([CLAIM-434](../claims.d/CLAIM-434.md)). The paper gives the record nothing ordinal.
+  **Irrelevant to the ordinal claim; consistent with [THEORY-894](../theory.d/THEORY-894.md).**
+- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md).** In a cyclic record, any scalar mean in the Elo
   family is uninformative: RPS gives every option the same rating. Nash
   averaging then reports that no option is better (P3(i)). In the claim's
   vocabulary, both report that no ordering prevails, and neither
   distinguishes nonintegrability from neutrality. The claim's
   feedback-arc measure is not among the paper's tools. **Complicates
   nothing; adds a negative instance.**
-- **CLAIM-436 and CLAIM-440 (common currency).** mElo shows how a cyclic
+- **[CLAIM-436](../claims.d/CLAIM-436.md) and [CLAIM-440](../claims.d/CLAIM-440.md) (common currency).** mElo shows how a cyclic
   record still has a low-dimensional representation, a scalar plus
   planar "phase" coordinates (appendix F). That is a representation of
   interactions, not a currency over options, so it does not bear on the
   currency claims beyond that.
-- **CLAIM-tmp8z857 and CLAIM-tmp28sti.** Not addressed.
+- **[CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md) and [CLAIM-tmp28sti](../claims.d/CLAIM-tmp28sti.md).** Not addressed.

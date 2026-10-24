@@ -22,7 +22,7 @@ source:
 - LIT-tmp95a3g
 summary: >-
   Shazeer et al. (2017), section 4 and Appendix A, read in full in
-  NOTE-tmpa8fuv from arXiv v1. The imbalance is reported in one paragraph,
+  [NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md) from arXiv v1. The imbalance is reported in one paragraph,
   with Table 6's no-loss row as its evidence: one architecture, ten epochs,
   no variance. The mechanism is the authors' explanation, not a tested
   result. The fix penalizes unequal use regardless of competence.
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Shazeer, Mirhoseini, Maziarz, Davis, Le, Hinton & Dean (2017),
-LIT-tmp95a3g, read in NOTE-tmpa8fuv from arXiv:1701.06538v1: section 4
+[LIT-tmp95a3g](../literature.d/LIT-tmp95a3g.md), read in [NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md) from arXiv:1701.06538v1: section 4
 (pp. 5–6), Appendix A and Table 6 (pp. 13–14).
 
 ## What was actually shown

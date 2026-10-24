@@ -18,8 +18,8 @@ date: '2026-10-24'
 source:
 - LIT-tmp9zvdz
 summary: >-
-  Balduzzi et al. (2018), LIT-tmp9zvdz, Proposition 4, Lemma 1 and Theorem
-  1, read from arXiv v2 in NOTE-tmpr1f7n, proofs followed. The paper claims
+  Balduzzi et al. (2018), [LIT-tmp9zvdz](../literature.d/LIT-tmp9zvdz.md), Proposition 4, Lemma 1 and Theorem
+  1, read from arXiv v2 in [NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md), proofs followed. The paper claims
   invariance to redundant copies without the uniqueness condition. Its
   proof covers the Nash set, not the maximum-entropy selection. A
   counterexample checked by script (one copy of a null agent moves an
@@ -32,7 +32,7 @@ summary: >-
 
 ## Source
 
-Balduzzi, Tuyls, Pérolat & Graepel, LIT-tmp9zvdz, read in NOTE-tmpr1f7n
+Balduzzi, Tuyls, Pérolat & Graepel, [LIT-tmp9zvdz](../literature.d/LIT-tmp9zvdz.md), read in [NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)
 from arXiv:1806.02643v2: Proposition 4 (p. 6, proof p. 13), Theorem 1
 (pp. 6–7, proofs pp. 14–15), Lemma 1 (p. 14), Example 1 (p. 6).
 
@@ -72,7 +72,7 @@ not.
   rock-paper-scissors, a null agent D tying all three, and E, which loses
   to all three and beats D. Copying D moves the selection from
   (¼, ¼, ¼, ¼, 0) to (⅕, ⅕, ⅕, ⅕, 0, ⅕) and E's Nash average from −0.5 to
-  −0.2 (NOTE-tmpr1f7n, checked by script).
+  −0.2 ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md), checked by script).
 - **That it resists near-copies.** Continuity (P2) is of the payoff. The
   equilibrium itself can jump (the paper's Example 2).
 - **That it resists a non-redundant addition.** A new agent beating the
@@ -87,7 +87,7 @@ not.
 
 The cleanest formal answer the record holds to one capture route: a
 scoring layer that can be moved by padding the evaluated population. It
-narrows CASE-124's μ route and is distinct from CASE-tmpw4r7u's
-share-dependent c (NOTE-tmpr1f7n). The value-based invariant of
-Balduzzi et al. (2019), THEORY-tmpxh6cj, needs no uniqueness and holds for
+narrows [CASE-124](../cases.d/CASE-124.md)'s μ route and is distinct from [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md)'s
+share-dependent c ([NOTE-tmpr1f7n](../notes.d/NOTE-tmpr1f7n.md)). The value-based invariant of
+Balduzzi et al. (2019), [THEORY-tmpxh6cj](THEORY-tmpxh6cj.md), needs no uniqueness and holds for
 behavioural mixtures as well as copies.

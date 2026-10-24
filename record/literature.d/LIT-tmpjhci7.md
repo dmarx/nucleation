@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpau8o0) from the scan of the published
+  read in full 2026-10-24 ([NOTE-tmpau8o0](../notes.d/NOTE-tmpau8o0.md)) from the scan of the published
   article on Geoffrey Hinton's University of Toronto page; worth reading as
   the origin of the mixture of experts and as a learning rule in which
   authority over a case goes to whichever expert does better than the
@@ -68,7 +68,7 @@ Jacobs, R. A., Jordan, M. I., Nowlan, S. J. & Hinton, G. E. (1991). Adaptive mix
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpau8o0. Page numbers are the journal's.*
+*From the reading, [NOTE-tmpau8o0](../notes.d/NOTE-tmpau8o0.md). Page numbers are the journal's.*
 
 - **Competition by the error function.** Blending experts' outputs makes
   each expert cancel the others' residual, which "causes them to cooperate
@@ -93,9 +93,9 @@ Jacobs, R. A., Jordan, M. I., Nowlan, S. J. & Hinton, G. E. (1991). Adaptive mix
 ## Why this is here
 
 Filed on 2026-10-24 as the origin of the gating dynamics that the lead
-read as CLAIM-277's rich-get-richer entrenchment. The reading narrows that
-(NOTE-tmpau8o0): here the same loop is the mechanism of specialization,
+read as [CLAIM-277](../claims.d/CLAIM-277.md)'s rich-get-richer entrenchment. The reading narrows that
+([NOTE-tmpau8o0](../notes.d/NOTE-tmpau8o0.md)): here the same loop is the mechanism of specialization,
 the authors present the idle experts as economy, not as a failure, and no
-recovery of an idle expert is tested, which is QUESTION-132's missing
-measurement. Filed THEORY-tmpgtvdv. It carries `anthology-candidate` as
+recovery of an idle expert is tested, which is [QUESTION-132](../questions.d/QUESTION-132.md)'s missing
+measurement. Filed [THEORY-tmpgtvdv](../theory.d/THEORY-tmpgtvdv.md). It carries `anthology-candidate` as
 an ML method, and no instruction for practice.

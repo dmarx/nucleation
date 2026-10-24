@@ -125,7 +125,7 @@ plotted run.
 
 ## How it bears on the record
 
-- **CLAIM-277.** The lead read MoE gating collapse as the claim's
+- **[CLAIM-277](../claims.d/CLAIM-277.md).** The lead read MoE gating collapse as the claim's
   entrenchment loop. In this paper the loop is the claim's first chain,
   not its second: an expert gains responsibility for a case because it
   fits that case better than the weighted average, and what results is a
@@ -136,9 +136,9 @@ plotted run.
   is not shown: the early phase is symmetric, and the split follows
   differences in error, not a head start. That narrows the lead's
   reading. This paper is the benign case; the collapse that is a failure
-  belongs to Shazeer et al. (LIT-tmp95a3g), where the favoured experts
+  belongs to Shazeer et al. ([LIT-tmp95a3g](../literature.d/LIT-tmp95a3g.md)), where the favoured experts
   win partly because they are trained more.
-- **QUESTION-132.** The idle experts are exactly the question's
+- **[QUESTION-132](../questions.d/QUESTION-132.md).** The idle experts are exactly the question's
   undecided case. With p_i ≈ 0 everywhere they receive almost no
   gradient (Eq. 1.5 scales with p_i), so under multiplicative allocation
   they are near the absorbing boundary the question warns of. The paper
@@ -146,11 +146,11 @@ plotted run.
   So it cannot tell the question's three outcomes apart, and gives no
   recovery exponent. It is the simplest model in which the question's
   ablation, recovery from ε > 0 after the task changes, could be run.
-- **CLAIM-362 and QUESTION-134.** An expert whose gate weight is near
+- **[CLAIM-362](../claims.d/CLAIM-362.md) and [QUESTION-134](../questions.d/QUESTION-134.md).** An expert whose gate weight is near
   zero everywhere is a process with no consequential role. Whether it
-  keeps the competence to take one back is QUESTION-134's question; here
+  keeps the competence to take one back is [QUESTION-134](../questions.d/QUESTION-134.md)'s question; here
   its weights simply stop changing, so it neither learns nor forgets.
-- **CASE-tmpw4r7u and THEORY-tmp3oyxw.** The posterior responsibility in
+- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [THEORY-tmp3oyxw](../theory.d/THEORY-tmp3oyxw.md).** The posterior responsibility in
   Eq. 1.5, p_i e^(−½e_i²) / Σ_j p_j e^(−½e_j²), is the case's first result
   per training case: authority reweighted by each expert's likelihood of
   the target, Bayes over experts as hypotheses. The gate learns that

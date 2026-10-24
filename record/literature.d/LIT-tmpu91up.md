@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp0qrjw) from the authors' final
+  read in full 2026-10-24 ([NOTE-tmp0qrjw](../notes.d/NOTE-tmp0qrjw.md)) from the authors' final
   pre-publication draft of 26 January 2005, on Paul Resnick's University of
   Michigan page; worth reading as the founding scoring rule for evaluators
   when there is no ground truth. Each rater reports a signal, the center
@@ -68,7 +68,7 @@ Miller, N., Resnick, P. & Zeckhauser, R. (2005). Eliciting informative feedback:
 
 ## Key takeaways
 
-*From the reading, NOTE-tmp0qrjw. Page numbers are the January 2005 draft's.*
+*From the reading, [NOTE-tmp0qrjw](../notes.d/NOTE-tmp0qrjw.md). Page numbers are the January 2005 draft's.*
 
 - **Scoring without ground truth.** The center "has no independent
   information, so its scoring decisions can depend only on the information
@@ -94,5 +94,5 @@ Miller, N., Resnick, P. & Zeckhauser, R. (2005). Eliciting informative feedback:
 
 Filed on 2026-10-24 for the record's governance line, as a mechanism that
 scores evaluators when there is no objective metric. It bears on the
-authority-dependent scoring term of CASE-tmpw4r7u and on CLAIM-tmp0qupq's
-worry that what is rewarded entrenches (NOTE-tmp0qrjw). Filed THEORY-tmpx9mep.
+authority-dependent scoring term of [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and on [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s
+worry that what is rewarded entrenches ([NOTE-tmp0qrjw](../notes.d/NOTE-tmp0qrjw.md)). Filed [THEORY-tmpx9mep](../theory.d/THEORY-tmpx9mep.md).

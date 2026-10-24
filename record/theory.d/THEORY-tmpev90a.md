@@ -19,8 +19,8 @@ date: '2026-10-24'
 source:
 - LIT-tmpxlow9
 summary: >-
-  Sato & Crutchfield (arXiv 2002; PRE 2003), LIT-tmpxlow9, read in full in
-  NOTE-tmp8ra24, pp. 2–3 and Figs. 1–3. Numerical results for one game, two
+  Sato & Crutchfield (arXiv 2002; PRE 2003), [LIT-tmpxlow9](../literature.d/LIT-tmpxlow9.md), read in full in
+  [NOTE-tmp8ra24](../notes.d/NOTE-tmp8ra24.md), pp. 2–3 and Figs. 1–3. Numerical results for one game, two
   agents and the parameters shown; the zero-decay, zero-sum case was first
   reported in Sato, Akiyama and Farmer (PNAS 2002), which is not held.
 ---
@@ -30,8 +30,8 @@ summary: >-
 
 ## Source
 
-Sato and Crutchfield, LIT-tmpxlow9, pp. 2–3 and Figures 1–3 of arXiv v2,
-read in NOTE-tmp8ra24.
+Sato and Crutchfield, [LIT-tmpxlow9](../literature.d/LIT-tmpxlow9.md), pp. 2–3 and Figures 1–3 of arXiv v2,
+read in [NOTE-tmp8ra24](../notes.d/NOTE-tmp8ra24.md).
 
 ## What was actually shown
 
@@ -58,10 +58,10 @@ read in NOTE-tmp8ra24.
 
 ## Connections
 
-- **CLAIM-tmpuxcp6.** Persistent cycling and chaos from fixed, self-interested
+- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md).** Persistent cycling and chaos from fixed, self-interested
   learning rules, with no regime switching and no preference instability.
   It also warns that behaviour that looks like switching between
   cooperation and competition can be one deterministic chaotic regime.
-- **THEORY-894.** The ε = 0 game is harmonic, and its orbits never
+- **[THEORY-894](THEORY-894.md).** The ε = 0 game is harmonic, and its orbits never
   converge. How the tie rewards divide between potential and harmonic parts
   is not computed here or in the paper.

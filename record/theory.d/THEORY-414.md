@@ -141,3 +141,15 @@ not. No harder case was tried.
 - **Tomasello** ([LIT-125](../literature.d/LIT-125.md), [THEORY-495](THEORY-495.md)). The reply lists Gilbert's joint commitment as
   one option among theories of normativity; Tomasello's "we" would be
   another. The paper takes no side.
+
+## Note of 2026-10-24: correlated equilibria without representation
+
+Hart and Mas-Colell's regret matching ([THEORY-tmpri5hl](THEORY-tmpri5hl.md), read 2026-10-24)
+brings the time-averaged joint play of adaptive players to the set of
+correlated equilibria with no device, no rule and no representation of
+one. The correlating device is the shared history of play. What it lacks is
+selecting one equilibrium and holding it. That makes it a third baseline
+for this THEORY's promote_when, between human institutions and animal
+correlated equilibria. It also supports the THEORY's condition that what
+makes an equilibrium an institution is the players' representing it as a
+rule.

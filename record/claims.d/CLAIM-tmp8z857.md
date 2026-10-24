@@ -188,3 +188,18 @@ governance variable; a governance account has to say what it adds.
   and not every safety behaviour blocks learning.
 - That the persistence of a protective regime is pathological by itself.
   The general form, across scales, is [CLAIM-tmp28sti](CLAIM-tmp28sti.md).
+
+## Note of 2026-10-24: the identifiability step in exact form
+
+From the learning-in-games readings filed the same day. In Q-learning that
+updates only the chosen option, evidence about an option arrives only as
+often as the option is chosen, and the expected update carries that
+frequency as a factor ([THEORY-tmpar5jw](../theory.d/THEORY-tmpar5jw.md)). That is this claim's
+identifiability step as an equation, and inverse-frequency weighting is an
+exact condition for correcting it. Counterfactual credit does not escape
+it: COMA can value an alternative only from the times it was taken, and
+keeps every action's probability above a floor for that reason
+([THEORY-tmp1p6ly](../theory.d/THEORY-tmp1p6ly.md)). The floor is protected access, the claim's evidence-access
+correction. Börgers and Sarin's lock-in by reinforcement alone
+([THEORY-tmphhvqf](../theory.d/THEORY-tmphhvqf.md)) is the null this claim's governance mechanism has to
+beat.

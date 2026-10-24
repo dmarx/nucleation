@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpxufhw) from arXiv v4 (4 October 2019);
+  read in full 2026-10-24 ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md)) from arXiv v4 (4 October 2019);
   worth reading as the evolutionary alternative to Nash for ranking agents
   when wins cycle. It ranks strategy profiles by the stationary
   distribution of a finite-population, rare-mutation imitation chain,
@@ -72,7 +72,7 @@ arXiv:1903.01373, doi:10.1038/s41598-019-45619-9
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpxufhw. Page numbers are arXiv v4's.*
+*From the reading, [NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md). Page numbers are arXiv v4's.*
 
 - **The chain.** One finite population per player slot. Imitation is
   Fermi with intensity α and mutation is vanishingly rare, so the chain
@@ -84,7 +84,7 @@ arXiv:1903.01373, doi:10.1038/s41598-019-45619-9
   chains on the sink strongly connected components of the weakly
   better-response graph (Theorem 2.5.1). For the replicator flow, every
   asymptotically stable sink chain component contains one, and each lies
-  in one chain component (Theorem 2.4.24; THEORY-tmpwc2nk). "every game is
+  in one chain component (Theorem 2.4.24; [THEORY-tmpwc2nk](../theory.d/THEORY-tmpwc2nk.md)). "every game is
   a “potential” game, if only we change our solution concept from
   equilibria to chain recurrent sets" (p. 13).
 - **What it leaves open.** The infinite-α chain is reducible when there
@@ -94,7 +94,7 @@ arXiv:1903.01373, doi:10.1038/s41598-019-45619-9
 - **What it is not.** Not invariant to copies. In rock-paper-scissors
   with scissors duplicated, the single-population ranking moves from a
   three-way tie to rock first (0.4, 0.2, 0.2, 0.2), at each α tried from
-  0.1 to 50 (NOTE-tmpxufhw, checked by script).
+  0.1 to 50 ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md), checked by script).
 - **Applications.** AlphaGo's seven variants: all mass on AG(rvp).
   AlphaZero: 56 snapshots, the last on top with 0.39, with a mid-training
   snapshot ranked fifth. MuJoCo soccer: 6 of 10 agents survive, among many
@@ -104,9 +104,9 @@ arXiv:1903.01373, doi:10.1038/s41598-019-45619-9
 
 Filed 2026-10-24 for the record's cycles and governance lines. Its
 Conley reading, a potential always exists once each recurrent class is
-collapsed to a point, is the dynamical form of a question TERM-077 and
-CLAIM-tmpuxcp6 leave open: what order there is when wins cycle. Its chain
-is the finite-population replicator that CASE-tmpw4r7u and CLAIM-tmp1xoac
-read as authority (NOTE-tmpxufhw). It carries `anthology-candidate`
+collapsed to a point, is the dynamical form of a question [TERM-077](../terms.d/TERM-077.md) and
+[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md) leave open: what order there is when wins cycle. Its chain
+is the finite-population replicator that [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md) and [CLAIM-tmp1xoac](../claims.d/CLAIM-tmp1xoac.md)
+read as authority ([NOTE-tmpxufhw](../notes.d/NOTE-tmpxufhw.md)). It carries `anthology-candidate`
 because it is a method for evaluating ML agents. It is filed for
 understanding, not as an instruction for practice.

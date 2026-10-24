@@ -105,7 +105,7 @@ in non-monotonic ways" (p. 4).
   ∂Q_tot/∂Q_a ≥ 0 (Eq. 5).
 - **Consistency**: the joint argmax equals the profile of individual
   argmaxes (Eq. 4), the condition QTRAN later names
-  Individual-Global-Max (LIT-tmpev178).
+  Individual-Global-Max ([LIT-tmpev178](../literature.d/LIT-tmpev178.md)).
 - **Utility, not value**: each Q_a "is a utility function … and not a
   value function since by itself it does not estimate an expected return"
   (p. 4).
@@ -116,41 +116,41 @@ in non-monotonic ways" (p. 4).
 
 VDN (Sunehag et al. 2017) is the additive special case; coordination
 graphs (Guestrin et al. 2002) the classical factored alternative, needing
-the dependencies given in advance. COMA (LIT-tmpqx5wu) is the centralised
-on-policy extreme. QTRAN (LIT-tmpev178, NOTE-tmp457xj) shows the argmax
+the dependencies given in advance. COMA ([LIT-tmpqx5wu](../literature.d/LIT-tmpqx5wu.md)) is the centralised
+on-policy extreme. QTRAN ([LIT-tmpev178](../literature.d/LIT-tmpev178.md), [NOTE-tmp457xj](NOTE-tmp457xj.md)) shows the argmax
 condition is weaker than monotonicity and that 3b-type payoffs still
 satisfy it.
 
 ## Bearing on the record
 
 - **The lead's description, "a precise condition for a collective common
-  currency" (CLAIM-436, CLAIM-440), needs narrowing.** Q_tot is a
+  currency" ([CLAIM-436](../claims.d/CLAIM-436.md), [CLAIM-440](../claims.d/CLAIM-440.md)), needs narrowing.** Q_tot is a
   real-valued function from the start, so QMIX assumes the currency.
   What monotonicity adds is a condition on how the collective's currency
   relates to the members' own: each member's ranking of its own actions
   agrees with the collective's whatever the others do (supplement A.1).
-  In CLAIM-436's terms it is a separability condition on an ordering that
+  In [CLAIM-436](../claims.d/CLAIM-436.md)'s terms it is a separability condition on an ordering that
   already has a representation, not a condition for the representation.
-- **CLAIM-440 (appraisal as negotiation; common currency as an
+- **[CLAIM-440](../claims.d/CLAIM-440.md) (appraisal as negotiation; common currency as an
   ordering).** A sharpening, mine. Under monotonic mixing the negotiation
   has nothing to do at execution time: every member can act on its own
-  ranking and the result is collectively best. The case CLAIM-440 cares
+  ranking and the result is collectively best. The case [CLAIM-440](../claims.d/CLAIM-440.md) cares
   about, perspectives that conflict, is exactly the case QMIX excludes, a
   member whose best action depends on what the others do. So QMIX marks
   the boundary of the conflict-free regime, the trivial compatibility
-  complex of CLAIM-440's defeater, and shows that it can be large: richer
+  complex of [CLAIM-440](../claims.d/CLAIM-440.md)'s defeater, and shows that it can be large: richer
   than any sum.
 - **The ordinal alignment it requires is Wolpert & Tumer's factoredness.**
   Supplement A.1's condition, that Q_a and Q_tot order a's actions alike
-  for every u^−a, is the factored condition of LIT-tmp8bczu
-  (NOTE-tmpo0w02), stated for values rather than utilities. Both are
+  for every u^−a, is the factored condition of [LIT-tmp8bczu](../literature.d/LIT-tmp8bczu.md)
+  ([NOTE-tmpo0w02](NOTE-tmpo0w02.md)), stated for values rather than utilities. Both are
   ordinal. Neither needs exchange rates between members.
-- **CLAIM-tmpuxcp6, TERM-077, THEORY-896 (cycles).** Irrelevant, and the
+- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md), [TERM-077](../terms.d/TERM-077.md), [THEORY-896](../theory.d/THEORY-896.md) (cycles).** Irrelevant, and the
   reason is worth recording. In a cooperative game every agent's payoff is
   the shared reward, so the shared value is an exact potential and no
-  improvement cycle can occur (THEORY-896). All three cooperative papers
+  improvement cycle can occur ([THEORY-896](../theory.d/THEORY-896.md)). All three cooperative papers
   in this batch work inside that corner; none bears on nonintegrability.
-- **CLAIM-tmpd6q2w and CLAIM-403 (what the record admits).** Under partial
+- **[CLAIM-tmpd6q2w](../claims.d/CLAIM-tmpd6q2w.md) and [CLAIM-403](../claims.d/CLAIM-403.md) (what the record admits).** Under partial
   observability QMIX may be unable to represent Q_tot when an agent's local
   view does not reveal the state (supplement A.1). That is a legibility
   limit: the collective ordering exists, and members cannot act on it from

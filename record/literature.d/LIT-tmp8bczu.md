@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpo0w02) from the NASA Technical Reports
+  read in full 2026-10-24 ([NOTE-tmpo0w02](../notes.d/NOTE-tmpo0w02.md)) from the NASA Technical Reports
   Server copy (document 20010066523, a 7-page scanned report marked public
   use permitted), not the version in the Intelligent Agent Technology
   proceedings; worth reading as the most compact statement the record
@@ -101,17 +101,17 @@ ntrs.nasa.gov/citations/20010066523
 
 ## Why this is here
 
-Filed 2026-10-24 in place of LIT-tmpkensg, for difference rewards, which
+Filed 2026-10-24 in place of [LIT-tmpkensg](LIT-tmpkensg.md), for difference rewards, which
 the lead read as answering "what if this process had not acted"
-(CLAIM-tmp8z857, QUESTION-tmponjie, QUESTION-tmpdicvf's fourth failure).
-The reading corrects that in two ways (NOTE-tmpo0w02). The counterfactual
+([CLAIM-tmp8z857](../claims.d/CLAIM-tmp8z857.md), [QUESTION-tmponjie](../questions.d/QUESTION-tmponjie.md), [QUESTION-tmpdicvf](../questions.d/QUESTION-tmpdicvf.md)'s fourth failure).
+The reading corrects that in two ways ([NOTE-tmpo0w02](../notes.d/NOTE-tmpo0w02.md)). The counterfactual
 is not causal: the WLU is the world utility re-evaluated on the actual
 history with one member's contribution replaced, the others' behaviour
 held as it was, so it needs no model of how the system would have
 responded. And "had not acted", clamping to zero, was not the best clamp;
 the expected action was. Its factoredness condition, in turn, is an
 ordinal alignment of each member's utility with the collective's, close to
-QMIX's monotonicity (LIT-tmp3ztxf) and to CLAIM-436's distinction between
-an ordering and a currency. Filed as THEORY-tmpomtdz. It carries
+QMIX's monotonicity ([LIT-tmp3ztxf](LIT-tmp3ztxf.md)) and to [CLAIM-436](../claims.d/CLAIM-436.md)'s distinction between
+an ordering and a currency. Filed as [THEORY-tmpomtdz](../theory.d/THEORY-tmpomtdz.md). It carries
 `anthology-candidate` as a multi-agent RL method and no instruction for
 practice here.

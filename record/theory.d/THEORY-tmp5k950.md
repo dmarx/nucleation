@@ -19,8 +19,8 @@ date: '2026-10-24'
 source:
 - LIT-tmp42ace
 summary: >-
-  Czarnecki et al. (2020), LIT-tmp42ace, section 6 and supplements E–I,
-  read from arXiv v2 in NOTE-tmpat2ia. Agents were MinMax at depths 0–9,
+  Czarnecki et al. (2020), [LIT-tmp42ace](../literature.d/LIT-tmp42ace.md), section 6 and supplements E–I,
+  read from arXiv v2 in [NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md). Agents were MinMax at depths 0–9,
   loss-seeking MaxMin and MCTS, with 50 seeds each, about 1000 distinct
   per game after duplicates were removed. Games: Hex, Go and Quoridor on
   small boards, Tic-Tac-Toe, its misère form and Connect Four. AlphaStar's
@@ -34,7 +34,7 @@ summary: >-
 ## Source
 
 Czarnecki, Gidel, Tracey, Tuyls, Omidshafiei, Balduzzi & Jaderberg,
-LIT-tmp42ace, read in NOTE-tmpat2ia from arXiv:2004.09468v2: section 6 and
+[LIT-tmp42ace](../literature.d/LIT-tmp42ace.md), read in [NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md) from arXiv:2004.09468v2: section 6 and
 Table 1 (pp. 8–9), supplements D–I (pp. 17–22), Tables 2–3.
 
 ## What was actually shown
@@ -66,7 +66,7 @@ Table 1 (pp. 8–9), supplements D–I (pp. 17–22), Tables 2–3.
   AlphaStar they say the profile reflects "AlphaStar induced game
   geometry" (p. 18), shaped by how the league was trained.
 - **That it is proved.** The abstract says so, and the body withdraws it
-  (p. 6). Theorem 1 (THEORY-tmp2ela3) shows long cycles among weak
+  (p. 6). Theorem 1 ([THEORY-tmp2ela3](THEORY-tmp2ela3.md)) shows long cycles among weak
   strategies, not narrowing at the top.
 - **That cluster sizes are robust.** Maximum-entropy Nash makes clusters
   as large as possible. The authors note that minimum-entropy equilibria
@@ -78,4 +78,4 @@ Table 1 (pp. 8–9), supplements D–I (pp. 17–22), Tables 2–3.
 
 A descriptive picture the record can cite for where cycles are expected
 in contests of skill: at middling strength, among varied styles. Its
-evidential weight is that of a sampled, untested profile (NOTE-tmpat2ia).
+evidential weight is that of a sampled, untested profile ([NOTE-tmpat2ia](../notes.d/NOTE-tmpat2ia.md)).

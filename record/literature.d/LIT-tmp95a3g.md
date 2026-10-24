@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpa8fuv) from arXiv v1, the only version;
+  read in full 2026-10-24 ([NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md)) from arXiv v1, the only version;
   worth reading here for one observation and its fix, not for its scale
   results. The gate of a sparsely-gated mixture of experts "tends to
   converge to a state where it always produces large weights for the same
@@ -64,7 +64,7 @@ Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G. & Dean, 
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpa8fuv. Page numbers are arXiv v1's.*
+*From the reading, [NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md). Page numbers are arXiv v1's.*
 
 - **The observation.** Without constraint the gate converges onto "the
   same few experts. This imbalance is self-reinforcing, as the favored
@@ -88,13 +88,13 @@ Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G. & Dean, 
 ## Why this is here
 
 Filed on 2026-10-24 for its gating collapse, which the lead read as
-CLAIM-277's and CLAIM-tmp0qupq's rich-get-richer entrenchment, and its
-load balancing, read as protected access (NOTE-tmpa8fuv). The reading
+[CLAIM-277](../claims.d/CLAIM-277.md)'s and [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s rich-get-richer entrenchment, and its
+load balancing, read as protected access ([NOTE-tmpa8fuv](../notes.d/NOTE-tmpa8fuv.md)). The reading
 supports the first: this is the entrenchment loop in a working system,
 with the mechanism named by the authors. It corrects the second: the
 balancing losses impose equal use regardless of competence, which is
-QUESTION-132's imposed diversity, not CLAIM-362's protected access to
-consequential roles. Filed THEORY-tmp2p13l. The record already holds two
-later load-balancing works, unread, Switch Transformers (LIT-1412) and
-the auxiliary-loss-free method (LIT-1414). It carries `anthology-candidate`
+[QUESTION-132](../questions.d/QUESTION-132.md)'s imposed diversity, not [CLAIM-362](../claims.d/CLAIM-362.md)'s protected access to
+consequential roles. Filed [THEORY-tmp2p13l](../theory.d/THEORY-tmp2p13l.md). The record already holds two
+later load-balancing works, unread, Switch Transformers ([LIT-1412](LIT-1412.md)) and
+the auxiliary-loss-free method ([LIT-1414](LIT-1414.md)). It carries `anthology-candidate`
 as an ML method, and no instruction for practice.

@@ -118,24 +118,24 @@ deserve use.
 
 ## How it bears on the record
 
-- **CLAIM-277 and CLAIM-tmp0qupq.** This is the entrenchment loop in a
+- **[CLAIM-277](../claims.d/CLAIM-277.md) and [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** This is the entrenchment loop in a
   working system, with the mechanism stated by its builders: allocation
   determines training, training determines competence, competence
-  determines allocation. It is CLAIM-277's second chain and
-  CLAIM-tmp0qupq's warning that naive Hebbian learning entrenches,
+  determines allocation. It is [CLAIM-277](../claims.d/CLAIM-277.md)'s second chain and
+  [CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md)'s warning that naive Hebbian learning entrenches,
   observed rather than conjectured, though only as an observation with one
   table behind it. Two details matter for the claims. The imbalance here
   is in use (importance and load), and the paper does not show whether
   the starved experts' competence fell or merely never grew, which is
-  QUESTION-134's distinction. And the imbalance cost performance (39.8
+  [QUESTION-134](../questions.d/QUESTION-134.md)'s distinction. And the imbalance cost performance (39.8
   against 35.6), so the entrenched allocation was not the competent one,
   which is the claim's failure regime and not merely a stable one.
 - **Protected access versus imposed diversity.** The lead read load
   balancing and noisy gating as protected access. The reading corrects
   that. The losses make every expert equally important and equally loaded
-  regardless of what it is good at. That is QUESTION-132's second
+  regardless of what it is good at. That is [QUESTION-132](../questions.d/QUESTION-132.md)'s second
   outcome, imposed diversity, "a programmed load balancer", not its first,
-  and not CLAIM-362's protection, in which "a process that rarely decides
+  and not [CLAIM-362](../claims.d/CLAIM-362.md)'s protection, in which "a process that rarely decides
   keeps access to the roles in which it is consequential". A rare
   specialist is exactly what an equal-load penalty pushes against: it is
   supposed to receive few examples. The noise term is mainly there to make
@@ -147,7 +147,7 @@ deserve use.
   set from outside the dynamics. The record's question is whether an
   organization can keep a specialist recoverable without such a
   constraint; this paper's answer, for its system, is that it used one.
-- **CASE-tmpw4r7u.** The case's lock-in needs a score that rises with a
+- **[CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md).** The case's lock-in needs a score that rises with a
   process's own share. Here the share raises training, and training raises
   the score, so c > 0 arises through learning, not through the scoring
   channel. The initialization at zero, which keeps early shares equal, is

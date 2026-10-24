@@ -20,7 +20,7 @@ date: '2026-10-24'
 source:
 - LIT-tmpvj95o
 summary: >-
-  Foerster et al.'s LOLA (AAMAS 2018), read in full in NOTE-tmpj4dtw from
+  Foerster et al.'s LOLA (AAMAS 2018), read in full in [NOTE-tmpj4dtw](../notes.d/NOTE-tmpj4dtw.md) from
   arXiv v4, with the update rule re-derived. Empirical, in two small games
   and a grid game. Shaping here is mutual and produced cooperation, not
   capture; in matching pennies, a harmonic game, it damped the cycling of
@@ -33,8 +33,8 @@ summary: >-
 
 ## Source
 
-Foerster, Chen, Al-Shedivat, Whiteson, Abbeel & Mordatch, LIT-tmpvj95o,
-read in NOTE-tmpj4dtw from arXiv:1709.04326v4: Eq. 4.4 (p. 3), Table 3 and
+Foerster, Chen, Al-Shedivat, Whiteson, Abbeel & Mordatch, [LIT-tmpvj95o](../literature.d/LIT-tmpvj95o.md),
+read in [NOTE-tmpj4dtw](../notes.d/NOTE-tmpj4dtw.md) from arXiv:1709.04326v4: Eq. 4.4 (p. 3), Table 3 and
 Figures 1–2 (pp. 4–6), Table 4 (p. 8).
 
 ## What was actually shown

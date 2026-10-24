@@ -140,24 +140,24 @@ assumptions on φ.
 
 ## How it bears on the record
 
-- **CASE-124 and CASE-tmpw4r7u: capture of the scoring layer.** Population
+- **[CASE-124](../cases.d/CASE-124.md) and [CASE-tmpw4r7u](../cases.d/CASE-tmpw4r7u.md): capture of the scoring layer.** Population
   performance is the strongest invariant in this group. It is a game value,
   so no equilibrium selection is involved, and redundancy in the strong
   sense, any member that is a behavioural mixture of others, leaves it
   unchanged. It avoids the uniqueness condition that Nash averaging needs
-  (THEORY-tmpzogk3). The price is that it scores populations, not
+  ([THEORY-tmpzogk3](../theory.d/THEORY-tmpzogk3.md)). The price is that it scores populations, not
   members. For the governance line, a coalition's standing so measured
   cannot be raised by adding processes that only reproduce what its
   members already do. **Narrows the capture routes, at the level of
   coalitions.**
-- **TERM-077, CLAIM-434 and THEORY-894.** The monotonic/transitive
+- **[TERM-077](../terms.d/TERM-077.md), [CLAIM-434](../claims.d/CLAIM-434.md) and [THEORY-894](../theory.d/THEORY-894.md).** The monotonic/transitive
   distinction is the record's own. A monotonic game has an ordinal
   potential (the order by f) and a nonzero Hodge cyclic part, the gap
-  CLAIM-434 records between acyclic wins and zero curl. The paper also shows
+  [CLAIM-434](../claims.d/CLAIM-434.md) records between acyclic wins and zero curl. The paper also shows
   that the Hodge transitive part is relative to a measure over
-  opponents, which THEORY-894's weighted form implies and does not say in
-  words. **Supports CLAIM-434's separation.**
-- **CLAIM-tmpuxcp6.** Two things. First, "the performance of individual
+  opponents, which [THEORY-894](../theory.d/THEORY-894.md)'s weighted form implies and does not say in
+  words. **Supports [CLAIM-434](../claims.d/CLAIM-434.md)'s separation.**
+- **[CLAIM-tmpuxcp6](../claims.d/CLAIM-tmpuxcp6.md).** Two things. First, "the performance of individual
   agents is meaningless" in a fully cyclic game is the strong form of the
   claim's nonintegrability. No transitive ordering of individual options
   exists, and the paper's answer is to stop ranking options and hold a
@@ -169,14 +169,14 @@ assumptions on φ.
   again, as singletons in rock-paper-scissors show. So moving from options
   to portfolios does not by itself make a record integrable.
   **Complicates: relief by mixing is formal here, and partial.**
-- **CLAIM-tmp0qupq.** The contrast between self-play, which responds to
+- **[CLAIM-tmp0qupq](../claims.d/CLAIM-tmp0qupq.md).** The contrast between self-play, which responds to
   the latest agent and cycles in cyclic games, and response to the
   population's Nash mixture, which accumulates, has a governance reading.
   A learned prior over authority updated only against the latest
   incumbent can cycle among regimes. One updated against a remembered
   population of regimes cannot cycle the same way. This is interpretive;
   the paper is about training agents. **Bears, by analogy only.**
-- **CLAIM-436 and CLAIM-440.** A cyclic game admits no ordering of
+- **[CLAIM-436](../claims.d/CLAIM-436.md) and [CLAIM-440](../claims.d/CLAIM-440.md).** A cyclic game admits no ordering of
   individuals, so no currency over them, but a value between populations
   exists always. That is a currency for portfolios, not for options, and
   it is cardinal. **Irrelevant to the options-level claims, and a possible

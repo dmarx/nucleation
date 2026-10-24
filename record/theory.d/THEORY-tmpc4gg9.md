@@ -21,7 +21,7 @@ source:
 - LIT-tmphih4i
 summary: >-
   Leibo, Zambaldi, Lanctot, Marecki and Graepel (2017), read in full in
-  NOTE-tmpke0z1 from arXiv v1. A descriptive simulation with no seeds or
+  [NOTE-tmpke0z1](../notes.d/NOTE-tmpke0z1.md) from arXiv v1. A descriptive simulation with no seeds or
   spread reported, policies classed by training environment, two agents,
   fixed conditions, apples on a fixed respawn timer, and a mismatch
   between the text's and Figure 7's settings for batch and network size.
@@ -32,8 +32,8 @@ summary: >-
 
 ## Source
 
-Leibo, Zambaldi, Lanctot, Marecki & Graepel (2017), LIT-tmphih4i, read in
-NOTE-tmpke0z1 from arXiv:1702.03037v1: sections 5.1–5.3 and Figures 4, 6
+Leibo, Zambaldi, Lanctot, Marecki & Graepel (2017), [LIT-tmphih4i](../literature.d/LIT-tmphih4i.md), read in
+[NOTE-tmpke0z1](../notes.d/NOTE-tmpke0z1.md) from arXiv:1702.03037v1: sections 5.1–5.3 and Figures 4, 6
 and 7 (pp. 4–7).
 
 ## What was actually shown

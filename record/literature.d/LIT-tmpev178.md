@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmp457xj) from arXiv v1 (14 May 2019, the
+  read in full 2026-10-24 ([NOTE-tmp457xj](../notes.d/NOTE-tmp457xj.md)) from arXiv v1 (14 May 2019, the
   ICML version with its supplement, arXiv non-exclusive licence); worth
   reading for the Individual-Global-Max condition, that the agents'
   individually greedy actions form a greedy joint action, and for showing
@@ -89,13 +89,13 @@ Son, Kim, Kang, Hostallero & Yi (2019), ICML — arXiv:1905.05408
 ## Why this is here
 
 Registered 2026-10-24 by the lead for IGM as "a precise condition for a
-collective common currency" (CLAIM-436, CLAIM-440). The reading narrows
-that (NOTE-tmp457xj). IGM presupposes a real-valued joint value Q_jt, so it
+collective common currency" ([CLAIM-436](../claims.d/CLAIM-436.md), [CLAIM-440](../claims.d/CLAIM-440.md)). The reading narrows
+that ([NOTE-tmp457xj](../notes.d/NOTE-tmp457xj.md)). IGM presupposes a real-valued joint value Q_jt, so it
 is not a condition for a currency; it is a condition for decentralising a
 currency already given. And because any single-state game with a unique
 optimum satisfies it, its content lies in partial observability: whether
 each member's local view suffices to pick its part of the collective
-optimum. Its nearest record analogue is legibility and access (CASE-124,
-CLAIM-403), not ordering. Filed as THEORY-tmpayfgm. It carries
+optimum. Its nearest record analogue is legibility and access ([CASE-124](../cases.d/CASE-124.md),
+[CLAIM-403](../claims.d/CLAIM-403.md)), not ordering. Filed as [THEORY-tmpayfgm](../theory.d/THEORY-tmpayfgm.md). It carries
 `anthology-candidate` as a multi-agent RL method and no instruction for
 practice here.

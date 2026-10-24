@@ -1,7 +1,7 @@
 ---
 status: Active
 status_note: >-
-  read in full 2026-10-24 (NOTE-tmpbk0kd) from arXiv v5 (15 December 2020),
+  read in full 2026-10-24 ([NOTE-tmpbk0kd](../notes.d/NOTE-tmpbk0kd.md)) from arXiv v5 (15 December 2020),
   the ICML 2018 paper with appendices; worth reading as the standard way
   multi-agent RL reaches hundreds of agents: each agent's Q-function takes
   its own action and the mean action of its neighbours, so many-body
@@ -69,7 +69,7 @@ Yang, Y., Luo, R., Li, M., Zhou, M., Zhang, W. & Wang, J. (2018). Mean field mul
 
 ## Key takeaways
 
-*From the reading, NOTE-tmpbk0kd. Section and equation numbers are v5's.*
+*From the reading, [NOTE-tmpbk0kd](../notes.d/NOTE-tmpbk0kd.md). Section and equation numbers are v5's.*
 
 - **The approximation.** Q^j(s, a) ≈ (1/N^j) Σ_k Q^j(s, a^j, a^k) ≈
   Q^j(s, a^j, ā^j), with ā^j the empirical distribution of the
@@ -92,9 +92,9 @@ Yang, Y., Luo, R., Li, M., Zhou, M., Zhang, W. & Wang, J. (2018). Mean field mul
 ## Why this is here
 
 Filed on 2026-10-24 as the lead's tool for institutional scale
-(CLAIM-423). The reading narrows that (NOTE-tmpbk0kd): the method scales
+([CLAIM-423](../claims.d/CLAIM-423.md)). The reading narrows that ([NOTE-tmpbk0kd](../notes.d/NOTE-tmpbk0kd.md)): the method scales
 by making agents interchangeable, each facing only the average of its
-neighbours, and CLAIM-423 is about components that are not
+neighbours, and [CLAIM-423](../claims.d/CLAIM-423.md) is about components that are not
 interchangeable, whose different speeds decide which holds authority
-over which. Filed THEORY-tmpy4yji. It carries `anthology-candidate` as an
+over which. Filed [THEORY-tmpy4yji](../theory.d/THEORY-tmpy4yji.md). It carries `anthology-candidate` as an
 ML method, and no instruction for practice.
