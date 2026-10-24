@@ -1,0 +1,80 @@
+---
+status: Proposed
+promote_when: >-
+  A checked re-derivation recorded in this file, which the reading made
+  (NOTE-tmpat2ia) and which ADR-047 counts toward promotion, together with
+  the NeurIPS 2020 version read and found to state the same theorem. It
+  is refuted by an n-bit communicative game, in the paper's sense, with
+  some antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies that
+  no set of pure strategies realizes. The title claims nothing about
+  strong strategies or about the spinning-top shape. Results about those
+  neither promote nor refute it.
+title: 'In a game where each player can transmit n bits before a win or a loss becomes unattainable, every antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some set of pure strategies'
+version: 1
+tags:
+- game-theory
+- mathematics
+date: '2026-10-24'
+source:
+- LIT-tmp42ace
+summary: >-
+  Czarnecki et al. (2020), LIT-tmp42ace, Theorem 1 and Propositions 1–2,
+  read from arXiv v2 in NOTE-tmpat2ia, proof followed. Strategies announce
+  an identity, then throw or take the game as the pattern says. Go is at
+  least about 1000-bit communicative (log₂ 180! ≈ 1094), so it has cycles
+  of length 2¹⁰⁰⁰. Ordinal: only the sign of outcomes matters. The paper
+  states it for patterns with draws too, which also needs a draw to stay
+  attainable. The strategies are weak by construction.
+---
+<!-- inactive-ok-file: NOTE-tmpat2ia — the reading this is filed from -->
+<!-- inactive-ok-file: CLAIM-tmpuxcp6 — Proposed; named in prose, nothing here rests on it -->
+
+# THEORY-tmp2ela3: In a game where each player can transmit n bits before a win or a loss becomes unattainable, every antisymmetric pattern of wins and losses among ⌊2ⁿ⌋ strategies, a cycle through all of them included, is realized by some set of pure strategies
+
+## Source
+
+Czarnecki, Gidel, Tracey, Tuyls, Omidshafiei, Balduzzi & Jaderberg,
+LIT-tmp42ace, read in NOTE-tmpat2ia from arXiv:2004.09468v2: Definition 1
+and Theorem 1 (p. 5, proof p. 13), Propositions 1–2 (p. 5, proofs p. 13),
+supplement B (pp. 14–16).
+
+## What was actually shown
+
+- **The construction.** Fix the pattern P. Strategy π_i spends its first
+  n bits of moves encoding i and reads the opponent's code. Both then
+  follow a fixed, lexicographically first line of play reaching the
+  outcome P_ij. That outcome is still attainable, because by definition
+  neither a win nor a loss has yet been ruled out. Each π_i is a
+  deterministic pure strategy, and sign f(π_i, π_j) = P_ij. A cycle of
+  length ⌊2ⁿ⌋ is the special case in which each beats its predecessor and
+  the first beats the last.
+- **Instances.** Tic-Tac-Toe is 5.58-bit communicative by the paper's
+  linear-time recursion (supplement B), so every 47 × 47 pattern occurs.
+  Go: alternately filling 180 points on each half of the board encodes
+  log₂ 180! bits. The paper says ≈ 1000; the reader computed 1093.9.
+  StarCraft, DOTA or Quake over 10 minutes at 60 Hz: at least 36,000
+  bits.
+
+The reader re-derived the construction. It needs nothing beyond the
+definition.
+
+## What this does not say
+
+- **Anything about draws, in general.** The paper states the theorem for
+  P ∈ {−1, 0, 1}. A 0 entry needs a draw to remain attainable after the
+  signalling, which the definition does not provide. The title is limited
+  to wins and losses.
+- **That strong play cycles.** The constructed strategies spend the game
+  signalling and then deliberately lose or win. They are weak, and the
+  theorem places long cycles among weak strategies only.
+- **That real games have the spinning-top shape.** The authors say so
+  themselves (p. 6). That is THEORY-tmp5k950's empirical question.
+- **Anything cardinal.** Margins play no part.
+
+## Connections
+
+For CLAIM-tmpuxcp6 and TERM-077 it is the condition under which cyclic
+records cannot be excluded on structural grounds. Wherever contestants can
+recognize one another before the outcome is settled, any pattern of wins
+can arise. Whether an ordinal potential exists is then a fact about the
+strategies in play, not about the game (NOTE-tmpat2ia).
