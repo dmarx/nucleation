@@ -31,16 +31,16 @@ complements:
 - CLAIM-402
 grounds:
 - THEORY-885
+- THEORY-tmpkjber
+- THEORY-tmpfian9
+- THEORY-tmpaf612
+- THEORY-tmp2890h
 - LIT-tmpyn7sc
 - LIT-tmpocig8
 - LIT-tmppaj4a
 - LIT-tmp2u262
 - LIT-tmpajwu1
-- LIT-tmpliv2g
 - LIT-tmpjhqwz
-- LIT-tmp0s76v
-- LIT-tmpkk4hz
-- LIT-tmp6zp7e
 summary: >-
   The owner's, 2026-10-23, on the account of governance-maintained anxiety
   ([CLAIM-tmp8z857](CLAIM-tmp8z857.md)): "this seems like it would also be supported political
@@ -96,9 +96,13 @@ the analogue of governance-maintained anxiety, and the three can coexist.
 
 **Economic protection is the same shape through material interest.** A
 temporary tariff creates investments and a constituency that make its
-removal costlier. It need not be self-defeating: Juhász found that regions
-more protected from British competition by the Napoleonic blockade built
-more mechanized cotton-spinning capacity. The contrast is between
+removal costlier. It need not be self-defeating. Juhász (read from the
+2015 working draft, NOTE-tmp4zjzy, THEORY-tmpkjber) found that French
+regions more shielded from British competition by the Napoleonic blockade,
+a war measure, not a tariff, built more mechanized cotton-spinning
+capacity that stayed after 1815. What persisted was the industry's
+location and productivity, not the protection, and the long-run estimates
+rest on a weak instrument. The contrast is between
 capability-building protection, which can make itself obsolete, and
 dependence-building protection, which makes its own continuation more
 necessary: the individual contrast between skill acquisition and
@@ -123,7 +127,7 @@ oversight, changes of jurisdiction and exogenous changes of threat
 separate them.
 
 
-Works, all unread: Buzan, Wæver and de Wilde ([LIT-tmpyn7sc](../literature.d/LIT-tmpyn7sc.md)); Pierson 1993 ([LIT-tmpocig8](../literature.d/LIT-tmpocig8.md); [THEORY-885](../theory.d/THEORY-885.md) reads his 2000 paper); Scheuerman ([LIT-tmppaj4a](../literature.d/LIT-tmppaj4a.md)); Jervis ([LIT-tmp2u262](../literature.d/LIT-tmp2u262.md)); Tilly ([LIT-tmpajwu1](../literature.d/LIT-tmpajwu1.md)); Juhász ([LIT-tmpliv2g](../literature.d/LIT-tmpliv2g.md)); Rooney's emergency-powers dataset ([LIT-tmpjhqwz](../literature.d/LIT-tmpjhqwz.md)); Bjørnskov, Voigt and Khesali's 853 declarations, 115 unlawful ([LIT-tmp0s76v](../literature.d/LIT-tmp0s76v.md)); a non-peer-reviewed five-country summary of emergency rule and autocratization ([LIT-tmpkk4hz](../literature.d/LIT-tmpkk4hz.md)); and Ku and Finch ([LIT-tmp6zp7e](../literature.d/LIT-tmp6zp7e.md)).
+Read on 2026-10-24: Juhász (NOTE-tmp4zjzy); Bjørnskov, Voigt and Khesali (NOTE-tmp6j0uu, THEORY-tmpfian9), whose 115 cases are "suspected to be unlawful" from news and NGO coding, unlawful emergencies lasting on average 321 days against 115, and whose untested hypothesis, executives prolonging an emergency to postpone review of their own conduct, is this claim's mechanism stated for emergencies, with no data on measures outliving the emergency; the IDI summary (NOTE-tmp9vttu, THEORY-tmpaf612), with no stated sources or method and cases chosen because they autocratized, which reads the channels as deliberate exploitation, where this claim needs no bad faith; and Ku and Finch (NOTE-tmpj2vyl, THEORY-tmp2890h). Sought and Unavailable: Buzan, Wæver and de Wilde ([LIT-tmpyn7sc](../literature.d/LIT-tmpyn7sc.md)); Pierson 1993 ([LIT-tmpocig8](../literature.d/LIT-tmpocig8.md); [THEORY-885](../theory.d/THEORY-885.md) reads his 2000 paper); Scheuerman ([LIT-tmppaj4a](../literature.d/LIT-tmppaj4a.md)); Jervis ([LIT-tmp2u262](../literature.d/LIT-tmp2u262.md)); Tilly ([LIT-tmpajwu1](../literature.d/LIT-tmpajwu1.md)); and Rooney's emergency-powers dataset ([LIT-tmpjhqwz](../literature.d/LIT-tmpjhqwz.md)).
 
 ## What it does not say
 
@@ -135,6 +139,12 @@ Works, all unread: Buzan, Wæver and de Wilde ([LIT-tmpyn7sc](../literature.d/LI
   the protective regime itself, the capacity to discover that protection is
   no longer needed and to make that discovery consequential for who
   governs ([CLAIM-025](CLAIM-025.md), [CLAIM-359](CLAIM-359.md)).
-- That publics internalize the threat framing they are offered. Ku and
-  Finch's South Korean case finds publics keeping ordinary routines
-  against anxiety-inducing security narratives.
+- That publics resist the threat framing they are offered. Ku and Finch's
+  South Korean case (NOTE-tmpj2vyl) finds publics keeping ordinary
+  routines against the anxiety, while the security narrative is ignored
+  and held latently, which they argue "may allow for the reproduction of
+  securitising practices": accepting securitization delegates the
+  management of anxiety to elites, the epistemic feedback from the
+  audience's side. It cuts the other way once: when the military itself
+  disrupted routines, the public blamed the military and the
+  government's secrecy.

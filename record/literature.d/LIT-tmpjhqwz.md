@@ -1,12 +1,19 @@
 ---
-status: Deferred
+status: Unavailable
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U16. No NOTE is filed.
+  filed 2026-10-24 from the owner's exchange of 2026-10-23/24, cited at
+  turn U16; a reading was attempted on 2026-10-24 and failed on access, not
+  availability. The article is gold open access (CC BY-NC) at SAGE, as
+  Unpaywall, OpenAlex and Semantic Scholar all say, but every request to
+  journals.sagepub.com for its PDF or full text was answered with a browser
+  challenge or 403, from this client and from a second fetcher. No other
+  lawful copy was found: OpenAlex lists no repository copy, Europe PMC
+  holds none, and web searches found no preprint or author copy (Rooney's
+  Vanderbilt dissertation on emergency powers is a different work). It
+  stays Unavailable until a copy is supplied or the publisher's site can
+  be reached. No NOTE is filed.
 title: 'Emergency powers in democratic states: Introducing the Democratic Emergency Powers dataset'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -24,6 +31,18 @@ history:
     December 2019. This is the paper introducing the dataset; the
     dataset itself is not filed separately. The summary follows the
     abstract on Crossref.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Status Deferred → Unavailable under ADR-041. A lawful copy exists, the
+    publisher's open-access article, but this client could not fetch it on
+    2026-10-24: journals.sagepub.com returned a browser challenge for the
+    PDF and 403 for the full-text page. Searched the same day: Unpaywall,
+    OpenAlex (no repository copy; a DOAJ record that links back to SAGE),
+    Semantic Scholar (the DOI link only), Europe PMC (no record), and the
+    web for a preprint or author copy (none found). An archived copy in the
+    Internet Archive was not used. The summary is still drawn from the
+    abstract.
 tags:
 - society-and-governance
 date: '2026-10-24'

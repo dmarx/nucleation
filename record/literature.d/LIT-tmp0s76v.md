@@ -1,12 +1,17 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U16. No NOTE is filed.
+  read in full 2026-10-24 (NOTE-tmp6j0uu) from the August 2021 ILE working
+  paper, not the version of record; worth reading as the first
+  cross-national count of states of emergency coded for lawfulness. Of 853
+  national SOEs, 1949–2017, 115 were reported unlawful, 97 of them after
+  political turmoil and 14 after natural disasters; unlawful ones lasted
+  321 days on average against 115. Coding by news and NGO reports ("suspected
+  to be unlawful", the authors' gloss), weak logits, and no data on whether
+  emergency measures outlive the emergency. Several statements in the
+  abstract and conclusion outrun the tables.
 title: 'Unconstitutional States of Emergency'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -24,10 +29,27 @@ history:
     which is `published:` as the earliest date found for the work. The
     summary follows the SSRN abstract on Crossref; the journal record
     carries none.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Read in full (NOTE-tmp6j0uu) from ILE Working Paper Series No. 51,
+    University of Hamburg, August 2021, 37 pages, deposited on EconStor
+    (https://www.econstor.eu/bitstream/10419/237375/1/ile-wp-2021-51.pdf),
+    "© 2021 by the authors. All rights reserved", under EconStor's terms
+    for personal and scholarly use; not peer-reviewed. The version of record
+    is listed as free (bronze) at the publisher and as a CC BY-NC copy in
+    the Aarhus University repository; both answered this client with a
+    browser challenge on 2026-10-24. The working paper's abstract matches
+    the SSRN abstract the summary follows. Status set to Active. The
+    summary is accurate to the abstract, but the reading corrects two of
+    its findings: recession and more grounds for emergency are significant
+    only as simple differences (Table A1), not in the logits. `published:`
+    is corrected from 2021-10-02 to 2021-08-01, meaning August 2021, the
+    working paper's date, earlier than the SSRN record (ADR-002).
 tags:
 - society-and-governance
 date: '2026-10-24'
-published: '2021-10-02'
+published: '2021-08-01'
 doi: '10.1086/718681'
 first_author: 'Bjørnskov'
 keywords:
@@ -39,7 +61,7 @@ keywords:
 - 'bicameralism'
 implementations: []
 summary: >-
-  Bjørnskov, Voigt & Khesali (2022; SSRN 2021). Asks when governments
+  Bjørnskov, Voigt & Khesali (2022; working paper 2021). Asks when governments
   under a state of emergency deviate from their constitution's emergency
   provisions, through unlawful declaration, non-compliance during the
   emergency, or prolonging it beyond its limit. Of 853 emergency
@@ -51,13 +73,40 @@ summary: >-
 supports:
 - CLAIM-tmp28sti
 ---
+<!-- inactive-ok-file: CLAIM-tmp28sti — Proposed; the claim this reading bears on, named, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpfian9 — Proposed; filed from this reading, named -->
+
 # LIT-tmp0s76v: Unconstitutional States of Emergency
 
-Bjørnskov, C., Voigt, S. & Khesali, M. (2022). Unconstitutional states of emergency. *The Journal of Legal Studies* 51(2): 455–481. doi:10.1086/718681. Earlier version: SSRN, doi:10.2139/ssrn.3914141 (2021).
+Bjørnskov, C., Voigt, S. & Khesali, M. (2022). Unconstitutional states of emergency. *The Journal of Legal Studies* 51(2): 455–481. doi:10.1086/718681. Earlier versions: ILE Working Paper No. 51, University of Hamburg (August 2021), hdl:10419/237375; SSRN, doi:10.2139/ssrn.3914141 (2021).
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, NOTE-tmp6j0uu. Page numbers are the 2021 working paper's.*
+
+- **The count.** "115 out of 853 analyzed SOEs as unconstitutional" (p. 3),
+  coded from Factiva, Lexis/Nexis and NGO reports and from durations past
+  the constitutional maximum; probably an undercount (pp. 13–16).
+- **Cause.** 97 of the 115 followed political turmoil, 14 natural
+  disasters (p. 22). Democracies 49 of 512, autocracies 62 of 313 (Table 1).
+- **Duration.** "Lawful SOEs last 115 days on average while the average
+  duration of unlawful SOEs is 321 days" (p. 22).
+- **Weak structure.** "there is amazingly little systematic structure in
+  the data" (p. 20); pseudo-R² at most 0.07.
+- **What it lacks.** Whether emergency measures survive the emergency: "we
+  have no data on this aspect of unlawful emergency behavior" (p. 6, fn. 2).
 
 ## Why this is here
 
 The exchange cited it at turn U16 for the gap between emergency law and emergency practice: 115 of 853 declarations unconstitutional. The abstract confirms the figures; its own word for them is "unlawful".
+
+**Corrected 2026-10-24, from the reading.** The paper uses "unlawful" and
+"unconstitutional" interchangeably, and both mean reported or suspected:
+the authors say the cases "could also be called “suspected to be
+unlawful.”" (p. 14). The gap it measures is in declaration, conduct and
+duration during emergencies, not emergency powers outliving emergencies,
+which it names and cannot measure. Its strongest support for
+CLAIM-tmp28sti is prolongation: unlawful emergencies run nearly three
+times as long, and the authors hypothesize, without testing, that
+executives prolong an emergency to postpone review of their conduct under
+it (p. 11). Filed from it: THEORY-tmpfian9.

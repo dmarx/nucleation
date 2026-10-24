@@ -1,12 +1,16 @@
 ---
-status: Deferred
+status: Active
 status_note: >-
-  filed 2026-10-24, not read. Registered from the owner's exchange of
-  2026-10-23/24, shared at
-  https://chatgpt.com/share/6adc1ece-bb28-83e9-a8f6-cadf0f8b7113, where
-  it is cited at turn U16. No NOTE is filed.
+  read in full 2026-10-24 (NOTE-tmp9vttu) from the Israel Democracy
+  Institute's web page, which is the whole of what is published; worth
+  reading only for its three channels (formal emergency powers, powers
+  functionally equivalent to them, emergency rhetoric) and its account of
+  Hungary's successive emergencies since 2015. A think-tank summary, not
+  peer-reviewed, with no sources or method, of five cases chosen because
+  they autocratized; the authors say the convergence of emergency and
+  autocratization "is not inevitable". Not evidence for a causal link.
 title: 'Autocratization and States of Emergency in Comparative Perspective'
-version: 1
+version: 2
 history:
 - version: 1
   date: '2026-10-24'
@@ -24,6 +28,15 @@ history:
     page's date. The page is a summary of a report in a broader research
     project; no DOI or fuller report was found, so this note files the
     summary. The summary follows the page.
+- version: 2
+  date: '2026-10-24'
+  note: >-
+    Read in full (NOTE-tmp9vttu) from the IDI page
+    (https://en.idi.org.il/articles/63592), "© copyrights reserved to The
+    Israel Democracy Institute", fetched on 2026-10-24: a standfirst and
+    twelve paragraphs. The page says "The full study will be available in
+    Hebrew soon on IDI's website"; none was found. Status set to Active.
+    The summary is accurate; the page's title begins "Summary:".
 tags:
 - society-and-governance
 date: '2026-10-24'
@@ -51,13 +64,35 @@ summary: >-
 supports:
 - CLAIM-tmp28sti
 ---
+<!-- inactive-ok-file: CLAIM-tmp28sti — Proposed; the claim this reading bears on, named, nothing here rests on it -->
+<!-- inactive-ok-file: THEORY-tmpaf612 — Proposed; filed from this reading, named -->
+
 # LIT-tmpkk4hz: Autocratization and States of Emergency in Comparative Perspective
 
 Dagan, N. & Benvenisty, D. (2026). Autocratization and States of Emergency in Comparative Perspective (research summary). Jerusalem: Israel Democracy Institute. <https://en.idi.org.il/articles/63592>.
 
-Not read. The summary is drawn from the abstract or from what the work
-is standardly cited for. A reading should check it first.
+## Key takeaways
+
+*From the reading, NOTE-tmp9vttu, cited by paragraph.*
+
+- **Three channels.** Formal emergency powers; "extraordinary powers
+  functionally equivalent to emergency powers, even if not formally defined
+  as such in law or in the constitution"; emergency rhetoric (para. 3).
+- **Hungary.** "Since 2015, Hungary has operated under successive, extended
+  states of emergency, at times simultaneously" (para. 9).
+- **Not inevitable.** "Regime change can occur without the invocation of
+  emergency powers, and many democracies have navigated states of emergency
+  without suffering democratic breakdown" (para. 5).
+- **Method.** None stated; the five cases were selected because they
+  autocratized (para. 4).
 
 ## Why this is here
 
 The exchange cited it at turn U16, unnamed, as a February 2026 comparative study of emergency governance in five countries and democratic erosion. The page matches the date and the five countries. It is a think-tank research summary, not a peer-reviewed article.
+
+**Corrected 2026-10-24, from the reading.** Nothing to correct in the
+description. What it can bear is narrower than a study of emergency
+governance and democratic erosion suggests: cases chosen on the outcome,
+unsourced, and a mostly intentional account (leaders exploiting crises),
+where CLAIM-tmp28sti's mechanism needs no bad faith. Cite it for the
+channels and for Hungary, not for a link. Filed from it: THEORY-tmpaf612.
